@@ -28,6 +28,7 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [互動式奇幻圖形展示](#gpt-6-astra-2097821164093480999)
 - [支援多人遊戲的 Minecraft 複刻版](#gpt-6-astra-2097797479488246071)
 - [互動式 3D 粒子對撞機](#gpt-6-astra-2097781208596029936)
 - [即時 3D 工廠發射台模擬](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [將 2D 標誌變成動態 3D 角色](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [可探索的首爾微縮城市](#interactive-miniature-of-seoul-2096557555086725159)
 - [可在手機遊玩的 Unity 拉力賽車](#mobile-playable-unity-rally-game-2096556692842348826)
-- [集換式卡牌的對戰遊戲循環](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### 互動式奇幻圖形展示
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="互動式奇幻圖形展示"></a>
+
+**提示詞**
+
+```text
+使用 Dream Loop Plus 幫我製作一個圖形展示：採用等角視角、寫實著色與具反射效果的濕地面，並在有趣的場景中加入一名角色。設定為奇幻世界（可以參考 Elden Ring、Diablo）。使用瀏覽器中的 Three.js，效能達到 >60fps。操作方式：點擊移動角色，鏡頭以帶有延遲的方式平滑跟隨；拖曳旋轉鏡頭；滾動縮放鏡頭。暫時不要加入遊戲玩法。世界應該充滿生命感：加入動態、動畫，以及細微的環境行為。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原文](https://x.com/anshuc/status/2097821164093480999) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### 支援多人遊戲的 Minecraft 複刻版
@@ -2588,26 +2615,6 @@ Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [查看原文](https://x.com/kevinkern/status/2096556692842348826) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### 集換式卡牌的對戰遊戲循環
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="集換式卡牌的對戰遊戲循環"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用 Three.js 製作集換式卡牌遊戲原型：購買牌組與補充包、組建牌組、進入競技場對戰並獲得獎勵。保留以完成版資產替換暫用網格的彈性。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原文](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例導覽](#all-prompts)
 
 ---
 

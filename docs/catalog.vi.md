@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**417 Ví dụ · 14 🌐**
+**418 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md) · [2](../docs/catalog.vi.2.md) · [3](../docs/catalog.vi.3.md) · [4](../docs/catalog.vi.4.md) · [5](../docs/catalog.vi.5.md) · [6](../docs/catalog.vi.6.md) · [7](../docs/catalog.vi.7.md) · [8](../docs/catalog.vi.8.md) · [9](../docs/catalog.vi.9.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 115
+### Trò chơi · 116
 
+- [Crazy Tanks — Pháo binh đảo 3D](../docs/catalog.vi.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](../docs/catalog.vi.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit](../docs/catalog.vi.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Thế giới Three.js vô tận được tạo thủ tục](../docs/catalog.vi.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
@@ -66,7 +67,7 @@
 - [Nhiệm vụ khám phá The Quiet Crossing](../docs/catalog.vi.3.md#the-quiet-crossing-exploration-quest-2096574297703637111) · [MotionViz](https://x.com/Motion_Viz)
 - [Săn kho báu trên bãi biển low-poly](../docs/catalog.vi.3.md#low-poly-beach-treasure-hunt-2096570815714414844) · [空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g)
 - [Trò chơi đua rally Unity chơi được trên điện thoại](../docs/catalog.vi.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](../docs/catalog.vi.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](../docs/catalog.vi.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [Thế giới hàng hải lấy cảm hứng từ One Piece](../docs/catalog.vi.4.md#one-piece-inspired-sailing-world-2096518775042707700) · [Yash](https://x.com/yash_yk45)
 - [Màn chơi giải đố Three.js hoàn chỉnh](../docs/catalog.vi.4.md#complete-three-js-puzzle-level-2096505740643246231) · [Steve的花园儿](https://x.com/TvWoo)
 - [Wright Flyer Xuyên Qua Rừng Nhật Bản](../docs/catalog.vi.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808) · [Jared](https://x.com/jaredliu_bravo)
@@ -78,7 +79,7 @@
 - [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](../docs/catalog.vi.4.md#gpt-6-astra-2096236137266512181) · [aditya](https://x.com/adxtyahq)
 - [Game đua xe kart Roblox có thể chơi với tài sản 3D tùy chỉnh](../docs/catalog.vi.4.md#gpt-6-astra-2096219700879331665) · [Givros](https://x.com/givros)
 - [OX Vice Drive: đua xe thành phố mở](../docs/catalog.vi.4.md#ox-vice-drive-open-city-racer-2096206082712768897) · [DomX](https://x.com/qok_ai)
-- [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](../docs/catalog.vi.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](../docs/catalog.vi.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone: đấu trường battle royale](../docs/catalog.vi.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [Game bay trên trình duyệt](../docs/catalog.vi.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [Phiêu lưu platform lấy cảm hứng Odyssey](../docs/catalog.vi.5.md#odyssey-inspired-platform-adventure-2096135808243876152) · [AIHubmix](https://x.com/AiHubMix)
@@ -94,7 +95,7 @@
 - [Game bắn chim bằng ná 3D](../docs/catalog.vi.5.md#3d-slingshot-bird-game-2095981655370666076) · [Max](https://x.com/MozeTech)
 - [Game đua chiến đấu phản trọng lực](../docs/catalog.vi.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [Game bắn súng góc nhìn thứ ba với bullet time](../docs/catalog.vi.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat: game drift trên trình duyệt](../docs/catalog.vi.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat: game drift trên trình duyệt](../docs/catalog.vi.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Nguyên mẫu game chơi được thật nhanh](../docs/catalog.vi.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Game arcade văn hóa tự chơi](../docs/catalog.vi.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
 - [Từ prompt đến game thế giới mở](../docs/catalog.vi.6.md#open-world-game-from-a-prompt-2095872986477908108) · [Ejaj AHmed 🦅](https://x.com/aeejazkhan)
@@ -120,7 +121,7 @@
 - [Game Rắn và Thang 3D hoàn chỉnh](../docs/catalog.vi.7.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Game tennis Unity hoàn chỉnh](../docs/catalog.vi.7.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
 - [Game đua xe Godot dựng từ đầu](../docs/catalog.vi.7.md#godot-racing-game-built-from-scratch-2094925359372284022) · [atomic.chat](https://x.com/atomic_chat_hq)
-- [Nguyên mẫu game tội phạm thế giới mở](../docs/catalog.vi.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [Nguyên mẫu game tội phạm thế giới mở](../docs/catalog.vi.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Game trình duyệt kiểu Mini Militia](../docs/catalog.vi.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Ba ý tưởng game vật lý nhỏ gọn](../docs/catalog.vi.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Game đua kart chất lượng AAA trong Three.js](../docs/catalog.vi.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
@@ -143,7 +144,7 @@
 - [Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5](../docs/catalog.vi.8.md#build-a-3d-minecraft-clone-2081305039159620085) · [OpenBuilder](https://x.com/BuilderGuest)
 - [Prompt game Flappy Bird 3D](../docs/catalog.vi.8.md#3d-flappy-bird-game-2081260140117045275) · [SrijibBose](https://x.com/SrijibBose)
 - [Rừng Kẹo Dẻo: Game đi cảnh 3D](../docs/catalog.vi.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
-- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](../docs/catalog.vi.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](../docs/catalog.vi.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Prompt Kimi K3 cho game trốn tìm một lượt](../docs/catalog.vi.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [Bản sao Angry Birds với chim riêng và nhiều màn](../docs/catalog.vi.9.md#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Prompt game trốn tìm 3D với tắc kè và robot](../docs/catalog.vi.9.md#chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Sonicsmart](https://x.com/sonicsmarta)
@@ -253,7 +254,7 @@
 - [Tạo mô hình 3D WALL-E bằng Three.js](../docs/catalog.vi.1.md#gpt-6-astra-2101687900723106104) · [Marcel](https://x.com/marcthecreatorr)
 - [Mô hình 3D Waymo Jaguar I-Pace](../docs/catalog.vi.1.md#gpt-6-astra-2101325346427842909) · [Harshith](https://x.com/HarshithLucky3)
 - [Tự thiết kế một cơ thể bằng CAD](../docs/catalog.vi.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
-- [Thêm xích bảo trì vào lan can](../docs/catalog.vi.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [Thêm xích bảo trì vào lan can](../docs/catalog.vi.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Trái tim và emoji mặt cười phong cách Apple 3D](../docs/catalog.vi.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
 - [Mô hình cây lá kim dưới 200 polygon](../docs/catalog.vi.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](../docs/catalog.vi.2.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
@@ -327,7 +328,7 @@
 - [Trình diễn piano tương tác với bàn tay robot 3D](../docs/catalog.vi.2.md#gpt-6-astra-2098109252720078891) · [MSB](https://x.com/KeWai386772)
 - [Atlas 3D tương tác về đầu và não người](../docs/catalog.vi.2.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Nhịp đập thành phố](../docs/catalog.vi.2.md#gpt-6-astra-2098063352832610473) · [Seoyeon Jun 📊](https://x.com/tableau_viz)
-- [Bản demo đồ họa fantasy tương tác](../docs/catalog.vi.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [Bản demo đồ họa fantasy tương tác](../docs/catalog.vi.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [Máy gia tốc hạt 3D tương tác](../docs/catalog.vi.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Website cánh đồng lúa 3D sống động](../docs/catalog.vi.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh](../docs/catalog.vi.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
@@ -445,7 +446,7 @@
 - [Đền rừng và hộ vệ vanara khổng lồ](../docs/catalog.vi.6.md#jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Đại dương sống và mô phỏng bão dựng bằng thủ tục](../docs/catalog.vi.6.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick) · GitHub
 - [Nhà máy bi Three.js](../docs/catalog.vi.6.md#three-js-marble-factory-2095622065390772322) · [John Kler](https://x.com/JohnKlerAI)
-- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](../docs/catalog.vi.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](../docs/catalog.vi.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [Hố đen WebGL điện ảnh](../docs/catalog.vi.7.md#cinematic-webgl-black-hole-2095409039005933910) · [eki](https://x.com/ekibuilds)
 - [Thử nghiệm vật lý quả cầu phá dỡ trong Blender](../docs/catalog.vi.7.md#blender-wrecking-ball-physics-test-2095177102400081940) · [Abyssal](https://x.com/abyssallD)
 - [Hoạt ảnh nồi bay trong Blender](../docs/catalog.vi.7.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
@@ -482,8 +483,9 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 276
+### GPT-6 Astra · 277
 
+- [Crazy Tanks — Pháo binh đảo 3D](../docs/catalog.vi.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [Bàn cờ 3D tương tác để học các gambit cờ vua](../docs/catalog.vi.1.md#gpt-6-astra-2102788013902213508) · [Diogo Santos](https://x.com/diogosantosbr)
 - [Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt](../docs/catalog.vi.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng](../docs/catalog.vi.1.md#gpt-6-astra-2102752217375899659) · [technewsradio.tokyo](https://technewsradio.tokyo/)
@@ -514,7 +516,7 @@
 - [Tự thiết kế một cơ thể bằng CAD](../docs/catalog.vi.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](../docs/catalog.vi.1.md#gpt-6-astra-2100595652703199281) · [forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/)
 - [Tạo game đua xe 3D](../docs/catalog.vi.1.md#gpt-6-astra-2100526922770026874) · [たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3)
-- [Thêm xích bảo trì vào lan can](../docs/catalog.vi.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [Thêm xích bảo trì vào lan can](../docs/catalog.vi.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Cảnh lửa trại voxel tương tác với hiệp sĩ](../docs/catalog.vi.2.md#gpt-6-astra-2100350159540596760) · [Vib3Coded](https://x.com/vib3coded)
 - [Demo đồ họa fantasy isometric](../docs/catalog.vi.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc) · GitHub
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](../docs/catalog.vi.2.md#akari-nagoya-rooftop-flame-relay) · [Jared](https://growthengineer.space/)
@@ -564,7 +566,7 @@
 - [Tăng độ thử thách cho sân golf 18 hố](../docs/catalog.vi.2.md#gpt-6-astra-2098038909514944562) · [Rory Flynn](https://x.com/Ror_Fly)
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](../docs/catalog.vi.2.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337) · GitHub
 - [Video ngắn 3D không lời: Mèo và nút thưởng](../docs/catalog.vi.2.md#gpt-6-astra-2097900087901106244) · [AI実践ラボ](https://x.com/boboga777)
-- [Bản demo đồ họa fantasy tương tác](../docs/catalog.vi.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [Bản demo đồ họa fantasy tương tác](../docs/catalog.vi.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [Bản sao Minecraft có chế độ nhiều người chơi](../docs/catalog.vi.3.md#gpt-6-astra-2097797479488246071) · [Armaan Jain](https://x.com/Armaan_Jain123)
 - [Máy gia tốc hạt 3D tương tác](../docs/catalog.vi.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Mô phỏng nhà máy và bệ phóng 3D thời gian thực](../docs/catalog.vi.3.md#gpt-6-astra-2097730920224534868) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
@@ -614,7 +616,7 @@
 - [Từ logo 2D đến nhân vật chuyển động](../docs/catalog.vi.3.md#a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Anthony Riera](https://x.com/anthonyriera)
 - [Mô hình Seoul thu nhỏ có thể khám phá](../docs/catalog.vi.3.md#interactive-miniature-of-seoul-2096557555086725159) · [synabreu](https://x.com/synabreu)
 - [Trò chơi đua rally Unity chơi được trên điện thoại](../docs/catalog.vi.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](../docs/catalog.vi.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](../docs/catalog.vi.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [Lõi năng lượng hai vòng tương tác](../docs/catalog.vi.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](../docs/catalog.vi.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](../docs/catalog.vi.4.md#switchable-character-expressions-in-blender-2096525100518453342) · [Nano(ナノ)](https://x.com/Dstudio_ai)
@@ -663,7 +665,7 @@
 - [Thế giới đồ chơi của bé](../docs/catalog.vi.4.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [Cụm tàu kéo từ ảnh tham chiếu](../docs/catalog.vi.4.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
 - [Sinh vật biển trong tách cà phê](../docs/catalog.vi.4.md#marine-life-in-a-coffee-cup-2096174858837074198) · [Sagi Polaczek 🦜](https://x.com/PolaczekSagi)
-- [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](../docs/catalog.vi.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](../docs/catalog.vi.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone: đấu trường battle royale](../docs/catalog.vi.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [Game bay trên trình duyệt](../docs/catalog.vi.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [Từ ảnh quán cà phê đến video tham quan khung dọc](../docs/catalog.vi.5.md#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [森叔](https://x.com/harrisonitsme)
@@ -711,7 +713,7 @@
 - [Game đua chiến đấu phản trọng lực](../docs/catalog.vi.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [Tay cầm PS5 tương tác](../docs/catalog.vi.5.md#interactive-ps5-controller-2095967131573649552) · [bluedev](https://x.com/blueemi99)
 - [Game bắn súng góc nhìn thứ ba với bullet time](../docs/catalog.vi.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat: game drift trên trình duyệt](../docs/catalog.vi.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat: game drift trên trình duyệt](../docs/catalog.vi.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Nguyên mẫu game chơi được thật nhanh](../docs/catalog.vi.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Phòng ngủ cyberpunk lặp vô tận trong Blender](../docs/catalog.vi.6.md#looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Coin Shot ☁️](https://x.com/CoinSh0t)
 - [Game arcade văn hóa tự chơi](../docs/catalog.vi.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
@@ -756,7 +758,7 @@
 - [Nguyên mẫu tương tác cao cấp trong một lượt](../docs/catalog.vi.6.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [Thế giới kiểu Minecraft từ một yêu cầu](../docs/catalog.vi.6.md#one-shot-minecraft-style-world-2095597137849446688) · [Flavio Adamo](https://x.com/flavioAd)
 - [Phiêu lưu thế giới mở trên trình duyệt](../docs/catalog.vi.6.md#open-world-browser-adventure-2095596341422440714) · [Peter Gostev](https://x.com/petergostev)
-- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](../docs/catalog.vi.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](../docs/catalog.vi.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [Ba game đua kart theo chủ đề từ một bản greybox](../docs/catalog.vi.7.md#three-themed-kart-games-from-one-greybox-2095580402505400369) · [Chetaslua](https://x.com/chetaslua)
 - [Trình diễn lâu đài voxel thủ tục](../docs/catalog.vi.8.md#procedural-voxel-castle-showcase-2093690427849191855) · [Hakm](https://x.com/hakmgpt)
 - [Rừng Kẹo Dẻo: Game đi cảnh 3D](../docs/catalog.vi.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
@@ -823,7 +825,7 @@
 - [Từ mặt bằng đến video tham quan Blender](../docs/catalog.vi.7.md#floor-plan-to-blender-walkthrough-2094925117344428232) · [AGIラボ](https://x.com/ctgptlb)
 - [Chùa tháp 136.000 voxel sinh xác định](../docs/catalog.vi.7.md#deterministic-136-000-voxel-pagoda-2094916609219461211) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Robot chi tiết bằng tự động hóa Blender](../docs/catalog.vi.7.md#detailed-robot-through-blender-automation-2094909825561805003) · [Spectro](https://x.com/Spectromachina)
-- [Nguyên mẫu game tội phạm thế giới mở](../docs/catalog.vi.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [Nguyên mẫu game tội phạm thế giới mở](../docs/catalog.vi.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Game trình duyệt kiểu Mini Militia](../docs/catalog.vi.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Sandbox đại dương góc nhìn thứ nhất dưới mưa](../docs/catalog.vi.8.md#rainy-first-person-ocean-sandbox-2094900247000654222) · [Tim Jayas](https://x.com/TimJayas)
 - [Đảo voxel nổi](../docs/catalog.vi.8.md#floating-voxel-island-2094899802588713418) · [Loktar 🇺🇸](https://x.com/loktar00)
@@ -861,7 +863,7 @@
 - [Tạo game Chrome Dino chơi được](../docs/catalog.vi.8.md#make-a-playable-chrome-dino-game-2081867025140650236) · [Kai](https://x.com/unseenmars_)
 - [Prompt Kimi K3 cho game trực thăng bắn súng chân thực](../docs/catalog.vi.8.md#realistic-helicopter-shooter-game-2081791572115435765) · [karti](https://x.com/Abobsterina)
 - [Prompt Kimi K3 cho game kiểu Subway Surfers](../docs/catalog.vi.8.md#subway-surfers-style-game-2081766198082220514) · [Arindam Majumder 𝕏](https://x.com/Arindam_1729)
-- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](../docs/catalog.vi.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](../docs/catalog.vi.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Prompt Kimi K3 cho game trốn tìm một lượt](../docs/catalog.vi.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [Ba prompt súng thủ tục Three.js trong một tệp HTML](../docs/catalog.vi.9.md#procedural-guns-in-single-file-three-js-2080757148078768504) · [thehype.](https://x.com/thehypedotnews)
 - [Prompt Kimi K3 cho khu phố Three.js biến đổi](../docs/catalog.vi.9.md#transforming-three-js-city-block-scene-2080724552422924382) · [Ali Haider](https://x.com/ggg78g89)

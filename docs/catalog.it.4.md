@@ -28,6 +28,7 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Ciclo di gioco di battaglie con carte collezionabili](#trading-card-battle-game-loop-2096555856204644550)
 - [Nucleo energetico interattivo a due anelli](#interactive-dual-ring-energy-core-2096551010089263181)
 - [La visione del tempio di Ezechiele in 3D](#gpt-6-astra-2096547658164834788)
 - [Espressioni del personaggio intercambiabili in Blender](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [Un rimorchiatore assemblato da immagini di riferimento](#reference-image-tugboat-assembly-2096180220839760375)
 - [Zubli, un personaggio WebGL che reagisce](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Vita marina in una tazza di caffè](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Gioco di sopravvivenza per pesci: dall’acquario all’oceano](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Ciclo di gioco di battaglie con carte collezionabili
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Ciclo di gioco di battaglie con carte collezionabili"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Crea un prototipo di carte collezionabili in Three.js: acquistare mazzi e buste, comporre un mazzo, entrare in un’arena e ottenere ricompense. Mantieni le mesh provvisorie sostituibili con asset definitivi.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Post originale](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### Nucleo energetico interattivo a due anelli
@@ -1765,35 +1785,6 @@ Crea un ecosistema marino in miniatura dentro una tazza di caffè in Three.js. U
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Post originale](https://x.com/PolaczekSagi/status/2096174858837074198) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Gioco di sopravvivenza per pesci: dall’acquario all’oceano
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Gioco di sopravvivenza per pesci: dall’acquario all’oceano"></a>
-
-**Prompt**
-
-```text
-Voglio creare un simulatore di pesci… in cui interpretiamo un pesce (che deve poter essere selezionato). Si comincia nell’acquario di casa, dove le particelle di cibo cadono, compaiono o vengono generate in qualche modo. Possiamo nuotare verso di esse e mangiarle per diventare più grandi. Potrebbero esserci anche ostacoli e altri elementi che ci danneggiano e ci fanno rimpicciolire. Poi, salendo di livello, passiamo progressivamente ad aree più grandi, fino ad arrivare all’oceano e oltre. Il cibo che mangiamo può cambiare continuamente: possiamo mangiare altri pesci, altre creature e così via.
-Prima definisci in un file Markdown il ciclo di gioco completo, il design dei livelli e tutti gli altri aspetti del gioco, come specificato qui, quindi implementa un gioco a cui io possa giocare localmente nel browser. Scegli lo stack tecnologico necessario.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096156244180664627) · [Post originale](https://x.com/AVachaspat92841/status/2096156244180664627) · [Torna agli esempi](#all-prompts)
 
 ---
 

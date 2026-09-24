@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar ejemplos (17)</summary>
+<summary>Explorar ejemplos (18)</summary>
 
+- [Un juego de navegador inspirado en Counter-Strike creado con Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Prompt de Kimi K3 para un juego del escondite de una sola vez](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Una tarea de modelado procedural de armas en Three.js para Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Tres prompts de armas procedurales en Three.js y un solo archivo HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Prompt para recorrer un avión en Three.js](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Un juego de navegador inspirado en Counter-Strike creado con Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Un juego de navegador inspirado en Counter-Strike creado con Kimi K3"></a>
+
+**Prompt**
+
+```text
+Construí un juego inspirado en Counter-Strike en el navegador con Kimi K3.
+
+Un archivo HTML. Más de 3.700 líneas de código. Sin paso de compilación.
+
+Incluye:
+
+🔫 Distribución inspirada en Dust2, con túneles, pasarela y Long A
+🎯 AK, AWP con mira, MP5, cuchillo y mecánicas de recarga
+🤖 10 bots de IA que patrullan, reaccionan a los disparos y avanzan hacia tu posición
+💥 Disparos a la cabeza, registro de bajas y rondas de 2 minutos
+🔊 Audio totalmente procedural, sin archivos de sonido
+🌐 Construido con Three.js y materiales PBR, funciona íntegramente en el navegador
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Publicación original](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Prompt de Kimi K3 para un juego del escondite de una sola vez

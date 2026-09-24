@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Street Heat: tarayıcıda drift yarışı](#street-heat-browser-drift-racer-2095916820431827408)
 - [Hızlı oynanabilir oyun prototipi](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender'da döngüsel siberpunk yatak odası](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Kendi kendine oynayan kültürel arcade oyunu](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [Tek seferde özenli etkileşimli prototip](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [Tek seferde Minecraft tarzı dünya](#one-shot-minecraft-style-world-2095597137849446688)
 - [Tarayıcıda açık dünya macerası](#open-world-browser-adventure-2095596341422440714)
-- [Unreal'da kendi kendine hayatta kalan insan toplumu](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat: tarayıcıda drift yarışı
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: tarayıcıda drift yarışı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tek cümleden tarayıcıda eksiksiz bir arcade sokak yarışı oluştur. Tatmin edici drift fiziği, kombo puanı, kıl payı geçiş bonusları, hız noktaları, nitro, trafik, okunabilir HUD ve tekrar oynanabilir kısa parkur uygula.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095916820431827408) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### Hızlı oynanabilir oyun prototipi
@@ -1073,26 +1093,6 @@ Birbirine bağlı çeşitli biyomları, dolaşımı, keşifleri, hafif çatışm
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Orijinal gönderi](https://x.com/petergostev/status/2095596341422440714) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Unreal'da kendi kendine hayatta kalan insan toplumu
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal'da kendi kendine hayatta kalan insan toplumu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Unreal Engine'de otonom insan ajanlarının yaşadığı bir dünya oluştur. Her birine bireysel ihtiyaçlar ve ortak bir hayatta kalma amacı ver; iletişim kurmaları, işleri paylaşmaları, barınak yapmaları ve oyuncu ayrıldığında toplumu yaşatmaları gereksin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095596175705399482) · [Örneklere dön](#all-prompts)
 
 ---
 

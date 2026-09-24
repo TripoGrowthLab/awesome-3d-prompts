@@ -28,6 +28,7 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Surviving society of autonomous Unreal humans](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Arcadia Base on Mars](#arcadia-base-on-mars-2095595678214873212)
 - [Three themed kart games from one greybox](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [Procedural waterfall study](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [Floor plan to Blender walkthrough](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [Deterministic 136,000-voxel pagoda](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Detailed robot through Blender automation](#detailed-robot-through-blender-automation-2094909825561805003)
-- [Open-world crime game prototype](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Surviving society of autonomous Unreal humans
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Surviving society of autonomous Unreal humans"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create an Unreal Engine world populated by autonomous human agents. Give them individual needs and a shared survival goal so they must communicate, divide work, build shelter and keep the society alive when the player leaves.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Original post](https://x.com/mattshumer_/status/2095596175705399482) · [Back to examples](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### Arcadia Base on Mars
@@ -1056,27 +1076,7 @@ Build a detailed hard-surface robot in Blender, including coherent proportions, 
 
 ---
 
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### Open-world crime game prototype
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Open-world crime game prototype"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Prototype a GTA 6-inspired open-world game with a dense city, on-foot traversal, drivable vehicles, traffic, police response and several playable activities.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Original post](https://x.com/vikktorrrre/status/2094907986942591338) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.6.md) · **7 / 9** · [→](catalog.en.8.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 418 examples and live previews →</a></strong></p>

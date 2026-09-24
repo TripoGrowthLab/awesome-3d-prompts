@@ -28,6 +28,7 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [Street Heat 瀏覽器漂移賽車](#street-heat-browser-drift-racer-2095916820431827408)
 - [快速可玩遊戲原型](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender 迴圈賽博朋克臥室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [自動遊玩的國家文化街機遊戲](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [一次生成的高階互動原型](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [一次生成的 Minecraft 風世界](#one-shot-minecraft-style-world-2095597137849446688)
 - [瀏覽器開放世界冒險](#open-world-browser-adventure-2095596341422440714)
-- [Unreal 自主人類生存社會](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat 瀏覽器漂移賽車
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat 瀏覽器漂移賽車"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+根據一句話在瀏覽器中建置完整街機街頭賽車。實現爽快漂移物理、連擊計分、擦肩獎勵、測速點、氮氣、交通、清晰 HUD 和可重複遊玩的短賽道。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [查看原文](https://x.com/higgsfield_ai/status/2095916820431827408) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### 快速可玩遊戲原型
@@ -1073,26 +1093,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-browser-adventure-2095596341422440714) · [查看原文](https://x.com/petergostev/status/2095596341422440714) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Unreal 自主人類生存社會
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal 自主人類生存社會"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Unreal Engine 中建立一個由自主人類智慧體組成的世界。賦予每個人獨立需求與共同生存目標，讓他們在玩家離開後仍會交流、分工、搭建庇護所並維持社會運轉。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [查看原文](https://x.com/mattshumer_/status/2095596175705399482) · [返回案例導覽](#all-prompts)
 
 ---
 

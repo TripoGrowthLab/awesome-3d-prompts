@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Koleksiyon kartı savaş oyununun döngüsü](#trading-card-battle-game-loop-2096555856204644550)
 - [Çift halkalı etkileşimli enerji çekirdeği](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Hezekiel’in Tapınak Vizyonu: 3B](#gpt-6-astra-2096547658164834788)
 - [Blender’da değiştirilebilir karakter ifadeleri](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [Referans görüntülerden römorkör montajı](#reference-image-tugboat-assembly-2096180220839760375)
 - [Zubli: tepki veren WebGL karakteri](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Kahve fincanında deniz yaşamı](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Koleksiyon kartı savaş oyununun döngüsü
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Koleksiyon kartı savaş oyununun döngüsü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri satın alma, deste hazırlama, savaş arenasına girme ve ödül kazanma. Geçici mesh’lerin bitmiş varlıklarla değiştirilebilmesini sağlayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Orijinal gönderi](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### Çift halkalı etkileşimli enerji çekirdeği
@@ -1765,35 +1785,6 @@ Three.js'de kahve fincanının içinde minyatür deniz ekosistemi oluştur. Finc
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Orijinal gönderi](https://x.com/PolaczekSagi/status/2096174858837074198) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu"></a>
-
-**İstem**
-
-```text
-Bir balık simülasyonu oyunu oluşturmak istiyorum. Balığı biz kontrol edelim ve başlangıçta seçebilelim. Oyuna bir evdeki akvaryumda başlayalım; yiyecek parçacıkları yukarıdan düşsün, ortaya çıksın ya da benzer bir yöntemle belirsin. Onlara yüzerek ulaşabilelim ve yiyecekleri yiyerek büyüyelim. Bize hasar verip küçülmemize neden olan engeller ve benzeri tehlikeler de olsun. Seviye atladıkça, okyanusa ulaşana kadar giderek daha büyük alanlara geçelim. Yediğimiz yiyecekler zamanla değişebilsin; başka balıkları ve diğer canlıları da yiyebilelim.
-Önce bu oyun için eksiksiz oynanış döngüsünü, bölüm tasarımlarını ve benzeri ayrıntıları bir Markdown dosyasında tanımlayın; ardından yerel olarak tarayıcımda oynayabileceğim bir oyuna dönüştürün. Gerekli teknoloji yığınını siz seçin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627) · [Orijinal gönderi](https://x.com/AVachaspat92841/status/2096156244180664627) · [Örneklere dön](#all-prompts)
 
 ---
 

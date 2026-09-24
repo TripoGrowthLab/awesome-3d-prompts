@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [인터랙티브 판타지 그래픽 데모](#gpt-6-astra-2097821164093480999)
 - [멀티플레이어를 지원하는 Minecraft 클론](#gpt-6-astra-2097797479488246071)
 - [인터랙티브 3D 입자 충돌기](#gpt-6-astra-2097781208596029936)
 - [실시간 3D 공장 발사대 시뮬레이션](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [2D 로고를 움직이는 3D 캐릭터로](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [직접 탐색하는 서울 미니어처](#interactive-miniature-of-seoul-2096557555086725159)
 - [휴대폰에서 플레이하는 Unity 랠리 게임](#mobile-playable-unity-rally-game-2096556692842348826)
-- [트레이딩 카드 대전의 기본 게임 루프](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### 인터랙티브 판타지 그래픽 데모
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="인터랙티브 판타지 그래픽 데모"></a>
+
+**프롬프트**
+
+```text
+Dream Loop Plus를 사용해 그래픽 데모를 만들어 주세요. 아이소메트릭 카메라, 사실적인 셰이딩과 반사되는 젖은 바닥, 흥미로운 장면 속 캐릭터를 구현해 주세요. 판타지 배경으로 구성해 주세요(Elden Ring, Diablo 같은 분위기). 브라우저에서 실행되는 Three.js로 제작하고, 60fps를 초과하는 성능을 유지해 주세요. 조작 방식은 다음과 같습니다. 클릭하면 캐릭터가 이동하고 카메라는 느슨하게 따라옵니다. 드래그로 카메라를 회전하고, 스크롤로 확대 및 축소합니다. 지금은 게임플레이를 추가하지 마세요. 세계가 살아 있는 듯 느껴지도록 움직임, 애니메이션, 미묘한 환경 반응을 구현해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097821164093480999) · [원본 게시물](https://x.com/anshuc/status/2097821164093480999) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### 멀티플레이어를 지원하는 Minecraft 클론
@@ -2588,26 +2615,6 @@ Codex, Blender, Unity로 랠리 운전 프로토타입을 만드세요. 휴대�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [원본 게시물](https://x.com/kevinkern/status/2096556692842348826) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### 트레이딩 카드 대전의 기본 게임 루프
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="트레이딩 카드 대전의 기본 게임 루프"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Three.js로 트레이딩 카드 게임 프로토타입을 만드세요. 덱과 부스터 팩 구매, 덱 구성, 전투 아레나 진입, 보상 획득을 구현하세요. 임시 메시는 완성된 에셋으로 교체할 수 있도록 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [원본 게시물](https://x.com/FaryaBlender3D/status/2096555856204644550) · [사례 목록으로](#all-prompts)
 
 ---
 

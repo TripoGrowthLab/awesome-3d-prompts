@@ -28,6 +28,7 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [Street Heat 浏览器漂移赛车](#street-heat-browser-drift-racer-2095916820431827408)
 - [快速可玩游戏原型](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender 循环赛博朋克卧室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [自动游玩的国家文化街机游戏](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [一次生成的高级交互原型](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [一次生成的 Minecraft 风世界](#one-shot-minecraft-style-world-2095597137849446688)
 - [浏览器开放世界冒险](#open-world-browser-adventure-2095596341422440714)
-- [Unreal 自主人类生存社会](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat 浏览器漂移赛车
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat 浏览器漂移赛车"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据一句话在浏览器中构建完整街机街头赛车。实现爽快漂移物理、连击计分、擦肩奖励、测速点、氮气、交通、清晰 HUD 和可重复游玩的短赛道。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [查看原帖](https://x.com/higgsfield_ai/status/2095916820431827408) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### 快速可玩游戏原型
@@ -1076,27 +1096,7 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 
 ---
 
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Unreal 自主人类生存社会
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal 自主人类生存社会"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Unreal Engine 中创建一个由自主人类智能体组成的世界。赋予每个人独立需求与共同生存目标，让他们在玩家离开后仍会交流、分工、搭建庇护所并维持社会运转。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [查看原帖](https://x.com/mattshumer_/status/2095596175705399482) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 9** · [→](catalog.zh.7.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

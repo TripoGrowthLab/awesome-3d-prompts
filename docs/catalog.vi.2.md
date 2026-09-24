@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Thêm xích bảo trì vào lan can](#gpt-6-astra-2100519026720231698)
 - [Cảnh lửa trại voxel tương tác với hiệp sĩ](#gpt-6-astra-2100350159540596760)
 - [Demo đồ họa fantasy isometric](#gpt-6-astra-2100271998618177864)
 - [AKARI: Tiếp lửa trên những sân thượng Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [Tăng độ thử thách cho sân golf 18 hố](#gpt-6-astra-2098038909514944562)
 - [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game)
 - [Video ngắn 3D không lời: Mèo và nút thưởng](#gpt-6-astra-2097900087901106244)
-- [Bản demo đồ họa fantasy tương tác](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Thêm xích bảo trì vào lan can
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Thêm xích bảo trì vào lan can"></a>
+
+**Prompt**
+
+```text
+Thêm xích bảo trì vào lan can nhé!
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100519026720231698) · [Bài đăng gốc](https://x.com/ujiden_type0/status/2100519026720231698) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### Cảnh lửa trại voxel tương tác với hiệp sĩ
@@ -3917,33 +3944,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244) · [Bài đăng gốc](https://x.com/boboga777/status/2097900087901106244) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### Bản demo đồ họa fantasy tương tác
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Bản demo đồ họa fantasy tương tác"></a>
-
-**Prompt**
-
-```text
-Dùng Dream Loop Plus để tạo cho tôi một bản demo đồ họa: camera isometric, đổ bóng chân thực, sàn ướt phản chiếu và một nhân vật trong bối cảnh thú vị. Bối cảnh fantasy (gợi nhớ Elden Ring, Diablo). Sử dụng Three.js trên trình duyệt, tốc độ khung hình >60fps. Điều khiển: nhấp chuột để di chuyển nhân vật, camera bám theo có độ trễ; kéo để xoay camera; cuộn để phóng to/thu nhỏ. Hiện chưa cần gameplay. Thế giới cần có cảm giác sống động: chuyển động, hoạt ảnh và các hành vi môi trường tinh tế.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999) · [Bài đăng gốc](https://x.com/anshuc/status/2097821164093480999) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

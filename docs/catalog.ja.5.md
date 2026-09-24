@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [魚のサバイバルゲーム：水槽から海へ](#gpt-6-astra-2096156244180664627)
 - [バトルロイヤルアリーナ Dropzone](#dropzone-battle-royale-arena-2096155883122413946)
 - [ブラウザで遊ぶ飛行ゲーム](#browser-flight-game-2096149823216898445)
 - [カフェの写真から作る縦型ウォークスルー](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [操作できる PS5 コントローラー](#interactive-ps5-controller-2095967131573649552)
 - [操作できる 3D キャラクターカード](#interactive-3d-character-cards-2095963576049832347)
 - [バレットタイムの三人称シューター](#bullet-time-third-person-shooter-2095962376344309843)
-- [ブラウザでドリフトする Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### 魚のサバイバルゲーム：水槽から海へ
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="魚のサバイバルゲーム：水槽から海へ"></a>
+
+**プロンプト**
+
+```text
+魚のシミュレーターゲームを作りたいです。プレイヤーは魚になり、魚の種類を選べるようにします。最初は家の水槽から始まり、餌の粒が上から落ちてきたり、出現したりします。魚を泳がせて餌を食べると、体が大きく成長します。また、障害物などに当たるとダメージを受け、小さくなる要素も入れたいです。レベルアップするにつれて、より大きなエリアへ段階的に進み、最終的には海に到達します。食べられる餌も変化していき、ほかの魚やさまざまな生き物も食べられるようにしたいです。
+まず、このゲームのゲームプレイループ全体と各レベルの設計などをMarkdownファイルにまとめて定義し、その後、ブラウザでローカルプレイできるゲームとして実装してください。必要な技術スタックを選定してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096156244180664627) · [元の投稿](https://x.com/AVachaspat92841/status/2096156244180664627) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### バトルロイヤルアリーナ Dropzone
@@ -1101,26 +1130,6 @@ Max Payne に着想を得た Three.js の三人称シューターを作成して
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [元の投稿](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### ブラウザでドリフトする Street Heat
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="ブラウザでドリフトする Street Heat"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-一文からブラウザ用アーケード街頭レースを完成させてください。気持ちよいドリフト物理、コンボ得点、ニアミスボーナス、速度計測地点、ニトロ、交通、分かりやすい HUD、短く繰り返し遊べるコースを実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [元の投稿](https://x.com/higgsfield_ai/status/2095916820431827408) · [作例一覧に戻る](#all-prompts)
 
 ---
 

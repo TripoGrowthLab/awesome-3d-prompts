@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Unreal'da kendi kendine hayatta kalan insan toplumu](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Mars'ta Arcadia Üssü](#arcadia-base-on-mars-2095595678214873212)
 - [Tek kaba prototipten üç temalı kart yarışı](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [Prosedürel şelale çalışması](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [Kat planından Blender gezintisine](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [136.000 vokselli deterministik pagoda](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Blender otomasyonuyla ayrıntılı robot](#detailed-robot-through-blender-automation-2094909825561805003)
-- [Açık dünya suç oyunu prototipi](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Unreal'da kendi kendine hayatta kalan insan toplumu
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal'da kendi kendine hayatta kalan insan toplumu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Unreal Engine'de otonom insan ajanlarının yaşadığı bir dünya oluştur. Her birine bireysel ihtiyaçlar ve ortak bir hayatta kalma amacı ver; iletişim kurmaları, işleri paylaşmaları, barınak yapmaları ve oyuncu ayrıldığında toplumu yaşatmaları gereksin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095596175705399482) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### Mars'ta Arcadia Üssü
@@ -1071,26 +1091,6 @@ Blender'da tutarlı oranları, eklemleri, panelleri, malzemeleri, ışığı ve 
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Orijinal gönderi](https://x.com/Spectromachina/status/2094909825561805003) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### Açık dünya suç oyunu prototipi
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Açık dünya suç oyunu prototipi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-GTA 6'dan esinlenen, yoğun şehir, yaya dolaşımı, sürülebilir araçlar, trafik, polis tepkisi ve çeşitli oynanabilir etkinlikler içeren açık dünya prototipi hazırla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Orijinal gönderi](https://x.com/vikktorrrre/status/2094907986942591338) · [Örneklere dön](#all-prompts)
 
 ---
 

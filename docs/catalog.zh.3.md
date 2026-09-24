@@ -28,6 +28,7 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [互动奇幻画面演示](#gpt-6-astra-2097821164093480999)
 - [支持多人游戏的 Minecraft 克隆版](#gpt-6-astra-2097797479488246071)
 - [交互式 3D 粒子对撞机](#gpt-6-astra-2097781208596029936)
 - [实时 3D 工厂发射台模拟](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [二维标志变成动画角色](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [首尔交互式微缩城市](#interactive-miniature-of-seoul-2096557555086725159)
 - [可在手机试玩的 Unity 拉力赛](#mobile-playable-unity-rally-game-2096556692842348826)
-- [集换式卡牌战斗循环](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### 互动奇幻画面演示
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="互动奇幻画面演示"></a>
+
+**提示词**
+
+```text
+使用 Dream Loop Plus 为我制作一个画面演示：采用等距视角、真实感着色和湿润反光地面，并在有趣的场景中加入一个角色。设定为奇幻世界（参考《Elden Ring》和《Diablo》）。使用浏览器中的 Three.js，帧率 >60fps。操作方式：点击移动角色，相机进行延迟跟随；拖动旋转相机；滚动缩放镜头。暂时不要加入游戏玩法。世界应当充满生机：包含动态、动画以及细微的环境行为。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原帖](https://x.com/anshuc/status/2097821164093480999) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### 支持多人游戏的 Minecraft 克隆版
@@ -2392,27 +2419,7 @@ Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave
 
 ---
 
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### 集换式卡牌战斗循环
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="集换式卡牌战斗循环"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-制作 Three.js 集换式卡牌原型：购买牌组和补充包、组牌、进入竞技场战斗并获得奖励。让占位网格可以替换为成品资产。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原帖](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.2.md) · **3 / 9** · [→](catalog.zh.4.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

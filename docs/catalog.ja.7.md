@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [自律する人々が生き抜く Unreal の社会](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [火星の Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
 - [一つのグレーボックスから 3 テーマのカートゲームへ](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [手続き生成による滝の表現研究](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [間取り図から Blender ウォークスルーへ](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [136,000 ボクセルを決定論的に生成する仏塔](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Blender 自動化で作る精巧なロボット](#detailed-robot-through-blender-automation-2094909825561805003)
-- [オープンワールド犯罪ゲームの試作](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### 自律する人々が生き抜く Unreal の社会
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="自律する人々が生き抜く Unreal の社会"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+自律的に行動する人々が暮らす Unreal Engine の世界を作成してください。一人ひとりの欲求と共通の生存目標を設定し、会話、分業、住居づくりを通じて、プレイヤーが離れても社会が存続するようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [元の投稿](https://x.com/mattshumer_/status/2095596175705399482) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### 火星の Arcadia 基地
@@ -1071,26 +1091,6 @@ Blender で精巧なハードサーフェスロボットを作成してくださ
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [元の投稿](https://x.com/Spectromachina/status/2094909825561805003) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### オープンワールド犯罪ゲームの試作
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="オープンワールド犯罪ゲームの試作"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-GTA 6 に着想を得たオープンワールドゲームを試作してください。密度の高い街、徒歩移動、運転できる車、交通、警察の対応、複数の遊べる活動を実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [元の投稿](https://x.com/vikktorrrre/status/2094907986942591338) · [作例一覧に戻る](#all-prompts)
 
 ---
 

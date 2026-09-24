@@ -28,6 +28,7 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Street Heat : dérapages urbains dans le navigateur](#street-heat-browser-drift-racer-2095916820431827408)
 - [Un prototype de jeu rapidement jouable](#rapid-playable-game-prototype-2095907526566990013)
 - [Une chambre cyberpunk en boucle dans Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Un jeu d'arcade culturel qui se joue tout seul](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [Un prototype interactif haut de gamme en une seule passe](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [Un monde façon Minecraft en une seule génération](#one-shot-minecraft-style-world-2095597137849446688)
 - [Une aventure en monde ouvert dans le navigateur](#open-world-browser-adventure-2095596341422440714)
-- [Une société d'humains autonomes qui survit dans Unreal](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat : dérapages urbains dans le navigateur
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat : dérapages urbains dans le navigateur"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Construis un jeu de course urbaine arcade complet pour navigateur à partir d'une seule phrase. Réalise une physique de dérapage satisfaisante, un score par combos, des bonus pour les frôlements, des radars, du nitro, de la circulation, un HUD lisible et un parcours court que l'on a envie de rejouer.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Publication originale](https://x.com/higgsfield_ai/status/2095916820431827408) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### Un prototype de jeu rapidement jouable
@@ -1073,26 +1093,6 @@ Construis une aventure 3D en monde ouvert avec plusieurs biomes reliés, des dé
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Publication originale](https://x.com/petergostev/status/2095596341422440714) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Une société d'humains autonomes qui survit dans Unreal
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Une société d'humains autonomes qui survit dans Unreal"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée un monde Unreal Engine peuplé d'agents humains autonomes. Donne-leur des besoins individuels et un objectif commun de survie pour qu'ils doivent communiquer, répartir le travail, construire des abris et maintenir leur société en vie lorsque le joueur s'en va.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Publication originale](https://x.com/mattshumer_/status/2095596175705399482) · [Retour aux exemples](#all-prompts)
 
 ---
 

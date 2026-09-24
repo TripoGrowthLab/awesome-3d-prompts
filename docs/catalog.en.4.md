@@ -28,6 +28,7 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Trading-card battle game loop](#trading-card-battle-game-loop-2096555856204644550)
 - [Interactive dual-ring energy core](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Ezekiel’s Temple Vision in 3D](#gpt-6-astra-2096547658164834788)
 - [Switchable character expressions in Blender](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [Reference-image tugboat assembly](#reference-image-tugboat-assembly-2096180220839760375)
 - [Zubli, a responsive WebGL character](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Marine life in a coffee cup](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Fish Survival Game from Aquarium to Ocean](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Trading-card battle game loop
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Trading-card battle game loop"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Original post](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Back to examples](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### Interactive dual-ring energy core
@@ -1393,26 +1413,7 @@ Create a miniature marine ecosystem inside a cup of coffee in Three.js. Use a di
 
 ---
 
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Fish Survival Game from Aquarium to Ocean
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Fish Survival Game from Aquarium to Ocean"></a>
-
-**Prompt**
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096156244180664627) · [Original post](https://x.com/AVachaspat92841/status/2096156244180664627) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.3.md) · **4 / 9** · [→](catalog.en.5.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 418 examples and live previews →</a></strong></p>

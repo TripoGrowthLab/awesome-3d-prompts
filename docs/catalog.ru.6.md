@@ -28,6 +28,7 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Street Heat: браузерные дрифт-гонки](#street-heat-browser-drift-racer-2095916820431827408)
 - [Быстрый игровой прототип](#rapid-playable-game-prototype-2095907526566990013)
 - [Зацикленная киберпанк-спальня в Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Аркада с культурной темой, играющая сама](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [Качественный интерактивный прототип за один запрос](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [Мир в стиле Minecraft за один запрос](#one-shot-minecraft-style-world-2095597137849446688)
 - [Браузерное приключение в открытом мире](#open-world-browser-adventure-2095596341422440714)
-- [Общество автономных персонажей в Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat: браузерные дрифт-гонки
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: браузерные дрифт-гонки"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай полноценные аркадные уличные гонки в браузере по одному предложению. Реализуй приятную физику дрифта, очки за комбо, бонусы за опасные сближения, камеры скорости, нитро, транспорт, понятный HUD и короткую трассу для повторных заездов.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095916820431827408) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### Быстрый игровой прототип
@@ -1073,26 +1093,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Исходная публикация](https://x.com/petergostev/status/2095596341422440714) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Общество автономных персонажей в Unreal Engine
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Общество автономных персонажей в Unreal Engine"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай мир в Unreal Engine с автономными людьми. Задай каждому собственные потребности и общую цель выживания: они должны общаться, распределять работу, строить укрытия и поддерживать жизнь общества, даже когда игрок уходит.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482) · [Назад к примерам](#all-prompts)
 
 ---
 

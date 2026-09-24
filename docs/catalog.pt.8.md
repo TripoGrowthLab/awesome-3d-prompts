@@ -28,6 +28,7 @@
 <details>
 <summary>Explorar exemplos (50)</summary>
 
+- [Um protótipo de ação criminal em mundo aberto](#open-world-crime-game-prototype-2094907986942591338)
 - [Um jogo de navegador no estilo Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
 - [Um oceano chuvoso de exploração livre em primeira pessoa](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [Uma ilha flutuante de voxels](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [Prompt para uma animação cinematográfica de helicóptero na selva do Vietnã](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [Jelly Jungle: Plataforma 3D](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [Prompt de Three.js para uma rua residencial japonesa explorável com visual de anime desenhado à mão](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Um jogo inspirado em Counter-Strike no navegador criado com Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### Um protótipo de ação criminal em mundo aberto
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Um protótipo de ação criminal em mundo aberto"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Crie um protótipo de mundo aberto inspirado em GTA 6, com uma cidade densa, deslocamento a pé, veículos dirigíveis, trânsito, reação policial e várias atividades jogáveis.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Publicação original](https://x.com/vikktorrrre/status/2094907986942591338) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Um jogo de navegador no estilo Mini Militia
@@ -1197,35 +1217,6 @@ construa uma rua residencial japonesa explorável no Three.js, totalmente 3D, re
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Publicação original](https://x.com/gmi_cloud/status/2080834581247435102) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Um jogo inspirado em Counter-Strike no navegador criado com Kimi K3
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Um jogo inspirado em Counter-Strike no navegador criado com Kimi K3"></a>
-
-**Prompt**
-
-```text
-Construí um jogo inspirado em Counter-Strike no navegador com Kimi K3.
-
-Um arquivo HTML. Mais de 3.700 linhas de código. Sem etapa de build.
-
-Inclui:
-
-🔫 Layout inspirado em Dust2 com túneis, passarela e Long A
-🎯 AK, AWP com luneta, MP5, faca e mecânicas de recarga
-🤖 10 bots de IA que patrulham, reagem a tiros e avançam contra sua posição
-💥 Tiros na cabeça, registro de eliminações e rodadas de 2 minutos
-🔊 Áudio totalmente procedural, sem arquivos de som
-🌐 Construído com Three.js e materiais PBR, rodando inteiramente no navegador
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Publicação original](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Voltar aos exemplos](#all-prompts)
 
 ---
 

@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**417 Примеры · 14 🌐**
+**418 Примеры · 14 🌐**
 
 [По категориям](#categories) · [По моделям](#models) · [Исходный код](with-code.md) · [1](../docs/catalog.ru.1.md) · [2](../docs/catalog.ru.2.md) · [3](../docs/catalog.ru.3.md) · [4](../docs/catalog.ru.4.md) · [5](../docs/catalog.ru.5.md) · [6](../docs/catalog.ru.6.md) · [7](../docs/catalog.ru.7.md) · [8](../docs/catalog.ru.8.md) · [9](../docs/catalog.ru.9.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Игры · 115
+### Игры · 116
 
+- [Crazy Tanks — 3D-артиллерия на острове](../docs/catalog.ru.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [CatWalk: 3D-игра про кота, мчащегося по ночному городу](../docs/catalog.ru.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Интерактивная игра о фермерских животных в стиле «Питера Кролика»](../docs/catalog.ru.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Бесконечный процедурно генерируемый мир на Three.js](../docs/catalog.ru.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
@@ -66,7 +67,7 @@
 - [Исследовательское приключение The Quiet Crossing](../docs/catalog.ru.3.md#the-quiet-crossing-exploration-quest-2096574297703637111) · [MotionViz](https://x.com/Motion_Viz)
 - [Поиск сокровищ на низкополигональном пляже](../docs/catalog.ru.3.md#low-poly-beach-treasure-hunt-2096570815714414844) · [空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g)
 - [Раллийная игра Unity для телефона](../docs/catalog.ru.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [Игровой цикл сражений коллекционными картами](../docs/catalog.ru.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [Игровой цикл сражений коллекционными картами](../docs/catalog.ru.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [Морской мир по мотивам One Piece](../docs/catalog.ru.4.md#one-piece-inspired-sailing-world-2096518775042707700) · [Yash](https://x.com/yash_yk45)
 - [Полноценный уровень головоломки на Three.js](../docs/catalog.ru.4.md#complete-three-js-puzzle-level-2096505740643246231) · [Steve的花园儿](https://x.com/TvWoo)
 - [Самолёт братьев Райт среди японского леса](../docs/catalog.ru.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808) · [Jared](https://x.com/jaredliu_bravo)
@@ -78,7 +79,7 @@
 - [Браузерный авиасимулятор с полным игровым циклом полёта](../docs/catalog.ru.4.md#gpt-6-astra-2096236137266512181) · [aditya](https://x.com/adxtyahq)
 - [Играбельная гонка на картах в Roblox с авторскими 3D-ассетами](../docs/catalog.ru.4.md#gpt-6-astra-2096219700879331665) · [Givros](https://x.com/givros)
 - [OX Vice Drive — гонки в открытом городе](../docs/catalog.ru.4.md#ox-vice-drive-open-city-racer-2096206082712768897) · [DomX](https://x.com/qok_ai)
-- [Игра про выживание рыбы: от аквариума до океана](../docs/catalog.ru.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [Игра про выживание рыбы: от аквариума до океана](../docs/catalog.ru.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone — арена королевской битвы](../docs/catalog.ru.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [Браузерная игра о полётах](../docs/catalog.ru.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [Платформенное приключение в духе Odyssey](../docs/catalog.ru.5.md#odyssey-inspired-platform-adventure-2096135808243876152) · [AIHubmix](https://x.com/AiHubMix)
@@ -94,7 +95,7 @@
 - [3D-игра с птицами и рогаткой](../docs/catalog.ru.5.md#3d-slingshot-bird-game-2095981655370666076) · [Max](https://x.com/MozeTech)
 - [Антигравитационные боевые гонки](../docs/catalog.ru.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [Шутер от третьего лица с замедлением времени](../docs/catalog.ru.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat: браузерные дрифт-гонки](../docs/catalog.ru.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat: браузерные дрифт-гонки](../docs/catalog.ru.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Быстрый игровой прототип](../docs/catalog.ru.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Аркада с культурной темой, играющая сама](../docs/catalog.ru.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
 - [Из промпта в игру с открытым миром](../docs/catalog.ru.6.md#open-world-game-from-a-prompt-2095872986477908108) · [Ejaj AHmed 🦅](https://x.com/aeejazkhan)
@@ -120,7 +121,7 @@
 - [Полноценные 3D-«Змеи и лестницы»](../docs/catalog.ru.7.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Полноценный теннис в Unity](../docs/catalog.ru.7.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
 - [Гоночная игра на Godot с нуля](../docs/catalog.ru.7.md#godot-racing-game-built-from-scratch-2094925359372284022) · [atomic.chat](https://x.com/atomic_chat_hq)
-- [Прототип криминальной игры с открытым миром](../docs/catalog.ru.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [Прототип криминальной игры с открытым миром](../docs/catalog.ru.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Браузерная игра в стиле Mini Militia](../docs/catalog.ru.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Три небольшие физические мини-игры](../docs/catalog.ru.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Картинговые гонки AAA-уровня на Three.js](../docs/catalog.ru.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
@@ -143,7 +144,7 @@
 - [Промпт создания 3D-клона Minecraft с Claude Opus 5](../docs/catalog.ru.8.md#build-a-3d-minecraft-clone-2081305039159620085) · [OpenBuilder](https://x.com/BuilderGuest)
 - [Промпт для 3D-игры Flappy Bird](../docs/catalog.ru.8.md#3d-flappy-bird-game-2081260140117045275) · [SrijibBose](https://x.com/SrijibBose)
 - [Желейные джунгли: 3D-платформер](../docs/catalog.ru.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
-- [Браузерная игра в духе Counter-Strike с Kimi K3](../docs/catalog.ru.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Браузерная игра в духе Counter-Strike с Kimi K3](../docs/catalog.ru.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Промпт Kimi K3 для пряток за один запрос](../docs/catalog.ru.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [Клон Angry Birds с уникальными птицами и несколькими уровнями](../docs/catalog.ru.9.md#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Промпт 3D-пряток с хамелеоном и роботом](../docs/catalog.ru.9.md#chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Sonicsmart](https://x.com/sonicsmarta)
@@ -253,7 +254,7 @@
 - [Создайте 3D-модель WALL-E в Three.js](../docs/catalog.ru.1.md#gpt-6-astra-2101687900723106104) · [Marcel](https://x.com/marcthecreatorr)
 - [3D-модель Waymo Jaguar I-Pace](../docs/catalog.ru.1.md#gpt-6-astra-2101325346427842909) · [Harshith](https://x.com/HarshithLucky3)
 - [CAD-модель собственного корпуса](../docs/catalog.ru.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
-- [Добавить сервисную цепь к поручню](../docs/catalog.ru.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [Добавить сервисную цепь к поручню](../docs/catalog.ru.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [3D-эмодзи в виде сердца в стиле Apple и улыбающийся эмодзи](../docs/catalog.ru.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
 - [Модель хвойного дерева до 200 полигонов](../docs/catalog.ru.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [UV-развёртка и повторный бейк в 4K для модели одежды без головы](../docs/catalog.ru.2.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
@@ -327,7 +328,7 @@
 - [Интерактивная 3D-демонстрация игры роботизированной рукой на пианино](../docs/catalog.ru.2.md#gpt-6-astra-2098109252720078891) · [MSB](https://x.com/KeWai386772)
 - [Интерактивный 3D-атлас головы и мозга человека](../docs/catalog.ru.2.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Пульс города](../docs/catalog.ru.2.md#gpt-6-astra-2098063352832610473) · [Seoyeon Jun 📊](https://x.com/tableau_viz)
-- [Интерактивная демонстрация фэнтезийной графики](../docs/catalog.ru.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [Интерактивная демонстрация фэнтезийной графики](../docs/catalog.ru.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [Интерактивный 3D-коллайдер частиц](../docs/catalog.ru.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Иммерсивный 3D-сайт с рисовыми полями](../docs/catalog.ru.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [WebGL-проект Храма моления о хорошем урожае в Храме Неба в Пекине на TypeScript + Three.js](../docs/catalog.ru.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
@@ -445,7 +446,7 @@
 - [Храм в джунглях и гигантский страж-ванара](../docs/catalog.ru.6.md#jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Процедурный живой океан и симуляция шторма](../docs/catalog.ru.6.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick) · GitHub
 - [Фабрика шариков на Three.js](../docs/catalog.ru.6.md#three-js-marble-factory-2095622065390772322) · [John Kler](https://x.com/JohnKlerAI)
-- [Общество автономных персонажей в Unreal Engine](../docs/catalog.ru.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Общество автономных персонажей в Unreal Engine](../docs/catalog.ru.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [Кинематографичная чёрная дыра WebGL](../docs/catalog.ru.7.md#cinematic-webgl-black-hole-2095409039005933910) · [eki](https://x.com/ekibuilds)
 - [Физический тест шара для сноса в Blender](../docs/catalog.ru.7.md#blender-wrecking-ball-physics-test-2095177102400081940) · [Abyssal](https://x.com/abyssallD)
 - [Анимация летающей кастрюли в Blender](../docs/catalog.ru.7.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
@@ -482,8 +483,9 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 276
+### GPT-6 Astra · 277
 
+- [Crazy Tanks — 3D-артиллерия на острове](../docs/catalog.ru.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [Интерактивная 3D-доска для изучения шахматных гамбитов](../docs/catalog.ru.1.md#gpt-6-astra-2102788013902213508) · [Diogo Santos](https://x.com/diogosantosbr)
 - [Средневековый европейский 3D-замок с управлением в браузере](../docs/catalog.ru.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Orbit Lab: 3D-симуляция Солнца, Земли и Луны](../docs/catalog.ru.1.md#gpt-6-astra-2102752217375899659) · [technewsradio.tokyo](https://technewsradio.tokyo/)
@@ -514,7 +516,7 @@
 - [CAD-модель собственного корпуса](../docs/catalog.ru.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [Браузерная 3D-игра: побег из закрытого исследовательского комплекса](../docs/catalog.ru.1.md#gpt-6-astra-2100595652703199281) · [forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/)
 - [Создать 3D-гоночную игру](../docs/catalog.ru.1.md#gpt-6-astra-2100526922770026874) · [たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3)
-- [Добавить сервисную цепь к поручню](../docs/catalog.ru.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [Добавить сервисную цепь к поручню](../docs/catalog.ru.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Интерактивная voxel-сцена с рыцарем у костра](../docs/catalog.ru.2.md#gpt-6-astra-2100350159540596760) · [Vib3Coded](https://x.com/vib3coded)
 - [Демонстрация фэнтезийной графики с изометрической камерой](../docs/catalog.ru.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc) · GitHub
 - [AKARI: Эстафета огня на крышах Нагои](../docs/catalog.ru.2.md#akari-nagoya-rooftop-flame-relay) · [Jared](https://growthengineer.space/)
@@ -564,7 +566,7 @@
 - [Сделать поле для гольфа на 18 лунок более сложным](../docs/catalog.ru.2.md#gpt-6-astra-2098038909514944562) · [Rory Flynn](https://x.com/Ror_Fly)
 - [Mosswing: мобильная 3D-игра «тап — взмах»](../docs/catalog.ru.2.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337) · GitHub
 - [Безмолвный 3D-ролик про кота и лакомство](../docs/catalog.ru.2.md#gpt-6-astra-2097900087901106244) · [AI実践ラボ](https://x.com/boboga777)
-- [Интерактивная демонстрация фэнтезийной графики](../docs/catalog.ru.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [Интерактивная демонстрация фэнтезийной графики](../docs/catalog.ru.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [Клон Minecraft с многопользовательской игрой](../docs/catalog.ru.3.md#gpt-6-astra-2097797479488246071) · [Armaan Jain](https://x.com/Armaan_Jain123)
 - [Интерактивный 3D-коллайдер частиц](../docs/catalog.ru.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [3D-симуляция фабрики и стартовых площадок в реальном времени](../docs/catalog.ru.3.md#gpt-6-astra-2097730920224534868) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
@@ -614,7 +616,7 @@
 - [Из 2D-логотипа в анимированного персонажа](../docs/catalog.ru.3.md#a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Anthony Riera](https://x.com/anthonyriera)
 - [Интерактивный Сеул в миниатюре](../docs/catalog.ru.3.md#interactive-miniature-of-seoul-2096557555086725159) · [synabreu](https://x.com/synabreu)
 - [Раллийная игра Unity для телефона](../docs/catalog.ru.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [Игровой цикл сражений коллекционными картами](../docs/catalog.ru.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [Игровой цикл сражений коллекционными картами](../docs/catalog.ru.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [Интерактивное энергетическое ядро с двумя кольцами](../docs/catalog.ru.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [Видение храма Иезекииля в 3D](../docs/catalog.ru.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Переключаемые выражения лица в Blender](../docs/catalog.ru.4.md#switchable-character-expressions-in-blender-2096525100518453342) · [Nano(ナノ)](https://x.com/Dstudio_ai)
@@ -663,7 +665,7 @@
 - [Игровой мир малыша](../docs/catalog.ru.4.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [Сборка буксира по референсам](../docs/catalog.ru.4.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
 - [Морская жизнь в чашке кофе](../docs/catalog.ru.4.md#marine-life-in-a-coffee-cup-2096174858837074198) · [Sagi Polaczek 🦜](https://x.com/PolaczekSagi)
-- [Игра про выживание рыбы: от аквариума до океана](../docs/catalog.ru.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [Игра про выживание рыбы: от аквариума до океана](../docs/catalog.ru.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone — арена королевской битвы](../docs/catalog.ru.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [Браузерная игра о полётах](../docs/catalog.ru.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [Из фотографии кофейни в вертикальную видеопрогулку](../docs/catalog.ru.5.md#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [森叔](https://x.com/harrisonitsme)
@@ -711,7 +713,7 @@
 - [Антигравитационные боевые гонки](../docs/catalog.ru.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [Интерактивный контроллер PS5](../docs/catalog.ru.5.md#interactive-ps5-controller-2095967131573649552) · [bluedev](https://x.com/blueemi99)
 - [Шутер от третьего лица с замедлением времени](../docs/catalog.ru.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat: браузерные дрифт-гонки](../docs/catalog.ru.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat: браузерные дрифт-гонки](../docs/catalog.ru.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Быстрый игровой прототип](../docs/catalog.ru.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Зацикленная киберпанк-спальня в Blender](../docs/catalog.ru.6.md#looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Coin Shot ☁️](https://x.com/CoinSh0t)
 - [Аркада с культурной темой, играющая сама](../docs/catalog.ru.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
@@ -756,7 +758,7 @@
 - [Качественный интерактивный прототип за один запрос](../docs/catalog.ru.6.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [Мир в стиле Minecraft за один запрос](../docs/catalog.ru.6.md#one-shot-minecraft-style-world-2095597137849446688) · [Flavio Adamo](https://x.com/flavioAd)
 - [Браузерное приключение в открытом мире](../docs/catalog.ru.6.md#open-world-browser-adventure-2095596341422440714) · [Peter Gostev](https://x.com/petergostev)
-- [Общество автономных персонажей в Unreal Engine](../docs/catalog.ru.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Общество автономных персонажей в Unreal Engine](../docs/catalog.ru.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [Три тематические гонки из одного прототипа](../docs/catalog.ru.7.md#three-themed-kart-games-from-one-greybox-2095580402505400369) · [Chetaslua](https://x.com/chetaslua)
 - [Процедурный воксельный замок](../docs/catalog.ru.8.md#procedural-voxel-castle-showcase-2093690427849191855) · [Hakm](https://x.com/hakmgpt)
 - [Желейные джунгли: 3D-платформер](../docs/catalog.ru.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
@@ -823,7 +825,7 @@
 - [Из плана этажа в прогулку по Blender](../docs/catalog.ru.7.md#floor-plan-to-blender-walkthrough-2094925117344428232) · [AGIラボ](https://x.com/ctgptlb)
 - [Детерминированная пагода из 136 000 вокселей](../docs/catalog.ru.7.md#deterministic-136-000-voxel-pagoda-2094916609219461211) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Детальный робот с помощью автоматизации Blender](../docs/catalog.ru.7.md#detailed-robot-through-blender-automation-2094909825561805003) · [Spectro](https://x.com/Spectromachina)
-- [Прототип криминальной игры с открытым миром](../docs/catalog.ru.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [Прототип криминальной игры с открытым миром](../docs/catalog.ru.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Браузерная игра в стиле Mini Militia](../docs/catalog.ru.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Океанская песочница от первого лица под дождём](../docs/catalog.ru.8.md#rainy-first-person-ocean-sandbox-2094900247000654222) · [Tim Jayas](https://x.com/TimJayas)
 - [Парящий воксельный остров](../docs/catalog.ru.8.md#floating-voxel-island-2094899802588713418) · [Loktar 🇺🇸](https://x.com/loktar00)
@@ -861,7 +863,7 @@
 - [Создать рабочую игру Chrome Dino](../docs/catalog.ru.8.md#make-a-playable-chrome-dino-game-2081867025140650236) · [Kai](https://x.com/unseenmars_)
 - [Промпт Kimi K3 для реалистичного вертолётного шутера](../docs/catalog.ru.8.md#realistic-helicopter-shooter-game-2081791572115435765) · [karti](https://x.com/Abobsterina)
 - [Промпт Kimi K3 для игры в стиле Subway Surfers](../docs/catalog.ru.8.md#subway-surfers-style-game-2081766198082220514) · [Arindam Majumder 𝕏](https://x.com/Arindam_1729)
-- [Браузерная игра в духе Counter-Strike с Kimi K3](../docs/catalog.ru.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Браузерная игра в духе Counter-Strike с Kimi K3](../docs/catalog.ru.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Промпт Kimi K3 для пряток за один запрос](../docs/catalog.ru.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [Три промпта процедурного оружия Three.js в одном HTML-файле](../docs/catalog.ru.9.md#procedural-guns-in-single-file-three-js-2080757148078768504) · [thehype.](https://x.com/thehypedotnews)
 - [Промпт Kimi K3 для меняющегося городского квартала Three.js](../docs/catalog.ru.9.md#transforming-three-js-city-block-scene-2080724552422924382) · [Ali Haider](https://x.com/ggg78g89)

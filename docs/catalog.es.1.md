@@ -28,6 +28,7 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
 - [Montaje de entrenamiento: evolución de Claude](#claude-opus-5-5-2102788371114246177)
 - [Crea una animación de dibujos animados de los 90, con calidad de Pixar, en Three.js](#claude-opus-5-5-2102788223835463902)
 - [Tablero 3D interactivo para estudiar gambitos de ajedrez](#gpt-6-astra-2102788013902213508)
@@ -77,9 +78,62 @@
 - [Diseñar un cuerpo propio en CAD](#gpt-6-astra-2100614534423540102)
 - [Juego 3D de escape de un centro de investigación cerrado](#gpt-6-astra-2100595652703199281)
 - [Crear un juego de carreras en 3D](#gpt-6-astra-2100526922770026874)
-- [Añadir una cadena de mantenimiento a la barandilla](#gpt-6-astra-2100519026720231698)
 
 </details>
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — Artillería 3D en una isla
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — Artillería 3D en una isla"></a>
+
+**Prompt**
+
+```text
+1. Objetivo del proyecto
+Crear Crazy Tanks — Wild Tides, un juego de artillería por turnos, jugable y realmente tridimensional, ambientado en una isla tropical. El jugador apunta un tanque pequeño, calcula el viento, controla una carga que empieza en cero y transforma el campo de batalla con proyectiles. Incluir partidas individuales contra la IA y partidas locales por turnos, con un modo predeterminado de todos contra todos con tres tanques y un duelo opcional entre dos tanques. Gana el último tanque superviviente. Usar la jugabilidad y las capturas de referencia actuales como objetivo visual.
+
+2. Estilo visual
+Usar una cámara en perspectiva y geometría 3D que se pueda orbitar libremente, no sprites planos ni una vista lateral fija. Crear un diorama soleado en miniatura, con tanques redondeados de jade, naranja coral y azul violáceo, arena cremosa, hierba verde pálida, agua turquesa reflectante, sombras suaves y una ligera bruma atmosférica a distancia. Conservar las siluetas diferenciadas de los tres tanques y sus cañones correspondientes. Usar un panel redondo de color crema, con aspecto de blindaje, sobre el campo de batalla y una consola de control redondeada de color verde azulado oscuro debajo. El dorado indica la potencia de referencia y la acción de disparo; el menta indica la carga real y el estado de aliado. Mantener visible en la parte superior el selector de apariencia Tripo / Three.js, con los recursos de Tripo seleccionados por defecto. Cambiar la apariencia no debe alterar el estado de la partida ni el de la física. Usar guiones finos de color verde azulado, espaciados uniformemente en el espacio de pantalla, y un círculo de aterrizaje discreto; no reflejar los gráficos de apuntado en el agua.
+
+3. Mundo y escena
+Usar una isla con un campo de alturas deformable, de aproximadamente 260 por 184 metros, rodeada por un océano con un nivel del mar fijo. Colocar los tanques iniciales bien separados sobre terreno estable; distribuir rocas, palmeras, cactus y cajas de suministros coleccionables. Las islas decorativas más pequeñas aportan profundidad al fondo y nunca sustituyen al terreno principal deformable. Las explosiones deforman la superficie y pueden excavar por debajo del nivel del mar. Mantener el color de la orilla y la espuma en una única superficie de agua para evitar planos superpuestos y parpadeos. Proyectar los números de los tanques desde sus posiciones en el mundo en cada fotograma renderizado. Ofrecer vistas de trayectoria completa, tanque, órbita y vista táctica desde arriba. La vista de trayectoria debe encajar el tanque que dispara, el arco y el aterrizaje estimado en el espacio entre el HUD y la consola de control. Antes de cada disparo, mostrar el tanque que dispara durante unos 0,8 segundos, detenerse en la boca del cañón y después seguir al proyectil. La interacción manual con la cámara cancela el seguimiento cinematográfico.
+
+4. Inventario de recursos
+Usar ranuras de modelos estables y mantener los modelos de reemplazo accesibles de forma individual:
+- jade-body: chasis oruga verde y redondeado, con forma de escudo; el cuerpo predeterminado del jugador. jade-cannon: cañón de jade a juego, con ánima oscura y detalles dorados, articulado de forma independiente.
+- ember-body: chasis blindado naranja coral, puntiagudo y de perfil mecánico bajo. ember-cannon: su cañón naranja a juego, más largo, con boca oscura.
+- bolt-body: chasis oruga industrial azul violáceo, con blindaje angular de placas. bolt-cannon: cañón azul grueso a juego.
+- shell: proyectil de artillería de latón, con punta cónica oscura y detalle cian. Reutilizarlo con el tinte y la escala específicos de cada arma.
+- crate: caja de suministros blindada amarilla, con marcas cian y esquinas reforzadas; recogerla otorga 20 puntos de blindaje, hasta un máximo de 100.
+- rock: conjunto redondeado de arenisca cálida; repetirlo con escalas variadas y usar un proxy de colisión independiente.
+- palm: tronco curvado y frondas verdes dispuestas en capas; repetirlo como vegetación de la isla.
+- cactus: cactus verde compacto con pequeños detalles florales; repetirlo en el terreno seco.
+- islet: isla de fondo redondeada y cubierta de hierba, con bordes de roca y arena pálidas; repetirla más allá de la arena de combate.
+Dar prioridad a las tres parejas de cuerpos y cañones a juego, seguidas del proyectil, la caja y los elementos ambientales. Mantener la deformación del terreno, el océano, la espuma, el fuego, el humo, las ondas de choque, los escombros, los gráficos de apuntado, la iluminación, la interfaz y los proxies de colisión como elementos procedurales. Las piezas de cuerpo y cañón a juego comparten una única referencia de diseño y escala. Colocar el pivote del cañón en su articulación mecánica, alinear su eje delantero con +X y usar la boca visible como punto físico de lanzamiento. Los cuerpos de los tanques deben adaptarse a las pendientes mediante cuaterniones; el apuntado de la torreta debe seguir siendo una dirección en el espacio del mundo. Conservar las texturas PBR de origen y las costuras UV. Mantener separados los modelos descargables en resolución completa de las copias optimizadas para la ejecución del juego; las referencias y la procedencia de los archivos deben identificar la fuente real de generación.
+
+5. Jugabilidad y respuesta
+Cada tanque vivo recibe 18 metros de movimiento al comenzar su turno. WASD y el panel de movimiento desplazan el tanque con respecto a la pantalla; las teclas de dirección y el panel de apuntado ajustan el acimut y la elevación. Los controles deslizantes permiten ajustar el acimut, una elevación de 10–80 grados y una potencia de referencia de 0–100. Seleccionar a un rival solo orienta el tanque hacia él; no debe calcular el disparo.
+El arco verde azulado estima la potencia de referencia elegida SIN viento. Mantener fija esa referencia y su marcador dorado durante la carga. Mantener pulsado Fire, Espacio o Intro con el botón Fire enfocado para iniciar siempre la potencia real en 0; aumentarla 18 puntos porcentuales por segundo, mantenerla en 100 y disparar exactamente una vez al soltar, usando la potencia real de ese instante. Un toque rápido dispara un proyectil débil. La banda dorada dentro de un margen de 3 puntos porcentuales es solo una respuesta visual, sin ajuste automático ni corrección oculta. Cancelar al cancelar el puntero, perder el foco de la ventana o dejar de estar visible. Bloquear los cambios de movimiento, objetivo y apuntado durante la carga. Los controles de teclado de los campos de rango no deben girar también la torreta. La potencia cero representa la velocidad de lanzamiento mínima, no un proyectil inmóvil.
+La flecha y las estelas de viento visibles que se desplazan muestran hacia dónde empuja el viento al proyectil. Etiquetar la intensidad del viento y los metros por segundo; hacer clic en la tarjeta del viento debe explicar su funcionamiento. Si el viento sopla hacia la izquierda, el jugador debe apuntar algo hacia la derecha. Un viento más fuerte y un tiempo de vuelo más largo provocan una mayor deriva. El viento se mantiene constante durante un disparo y cambia en cada turno. No compensar nunca automáticamente la vista previa del jugador. Predecir de forma aproximada el aterrizaje en el terreno; no prometer colisiones con tanques o rocas, separación de grupos ni rebotes en la vista previa.
+Ofrecer seis tipos de proyectil: HE ilimitado; un proyectil de racimo que se divide en cinco submuniciones descendentes; Seismic, con un cráter de hasta 28 metros de diámetro y 13 de profundidad; un proyectil de rebote que rebota dos veces; un proyectil Cataclysm por tanque, con un cráter de hasta 46 metros de diámetro y 22 de profundidad; e Incendiary, que deja una zona de fuego de 12 metros de radio. El fuego inflige 8 puntos de daño al final de cada una de las seis acciones; salir de la zona evita el daño y las zonas superpuestas no se acumulan. El agua del mar apaga las llamas. Un tanque completo, incluido su cañón elevado, queda eliminado inmediatamente al sumergirse por completo bajo el agua. Mostrar el daño real, la pérdida de blindaje, el hundimiento del terreno, el chapoteo del agua y el resultado de la eliminación.
+Usar bolas de fuego en capas, anillos de choque expansivos, chispas emisivas, fragmentos balísticos, polvo y humo, con una sacudida de cámara contenida. Usar la música original proporcionada de ElevenLabs y los sonidos de cañón, impacto, rebote, explosión intensa, fuego y chapoteo. Incluir controles de sonido, pausar/reanudar, instrucciones, repetición y regreso al menú. Durante el vuelo de un proyectil o los turnos de la IA, ofrecer «Volver a mi turno»: ejecutar rápidamente la misma simulación con pasos fijos y conservar todos los resultados de daño, terreno y peligros. No omitir nunca el turno de entrada de un amigo en una partida local.
+
+6. Implementación técnica
+Usar Three.js con módulos ES y Vite, fuentes incluidas localmente, Web Audio para los efectos y un elemento de audio HTML para la música en bucle. Mantener los recursos en el mismo origen y admitir una compilación estática. Usar un renderizador en perspectiva con antialiasing, presupuestos razonables para sombras y posprocesado, y una liberación adecuada de la geometría y los materiales temporales. Distinguir la decoración de los modelos de las colisiones de la jugabilidad.
+Mantener una física determinista independiente del renderizado, con unidades de metros por segundo, gravedad de 9,81 m/s² y un paso fijo de 1/120 de segundo. Usar colisiones continuas por barrido para proyectiles de alta velocidad contra el suelo, el agua, los tanques y las rocas; aplicar impulsos de explosión y gravedad a los tanques desplazados. Derivar las posiciones de lanzamiento a partir de la transformación real del cañón específico de cada tanque. La reproducción normal y el avance rápido deben llamar a las mismas actualizaciones de simulación. El daño y la respuesta al viento son reglas de juego estilizadas, no un simulador de explosiones de ingeniería.
+Admitir interfaces en chino, inglés, japonés y coreano. Elegir inicialmente el idioma del dispositivo; los dispositivos de Hong Kong, Macao, Taiwán y chino tradicional deben usar inglés por defecto. Recordar las elecciones explícitas y permitir un selector de idioma visible. Usar diseños adaptables para escritorio, teléfonos en vertical y pantallas apaisadas bajas, menús desplazables en pantallas cortas, objetivos táctiles cómodos, paneles plegables y ningún control superpuesto. No exigir entrada de teclado en dispositivos táctiles. Mantener fuera de producción las mutaciones de estado y los asistentes de apuntado exclusivos del desarrollo.
+
+7. Criterios de finalización
+Entregar un proyecto fuente independiente y editable, un archivo de bloqueo, instrucciones npm para desarrollo y compilación, y una vista previa estática funcional. Igualar las capturas actuales y el vídeo de jugabilidad, incluido el panel de estado crema, el marcador dorado de referencia fija, la carga activa que empieza en cero y la presentación totalmente 3D de los tanques y la isla. Verificar el primer lanzamiento, la carga de modelos, un ciclo de turno completo, el comportamiento de cada proyectil, la pausa, la repetición y un resultado real de victoria o derrota. Confirmar que el cambio de apariencia conserva el estado y que la cancelación mediante teclado o controles táctiles no dispara el arma. En un disparo de prueba claro y sin viento, al soltar con la potencia de referencia el proyectil debe aterrizar cerca del círculo de referencia; los vientos cruzados opuestos deben desplazar visiblemente el proyectil real sin modificar ese círculo. Comprobar el comportamiento a 30/60/144 Hz, las colisiones a alta velocidad, los cráteres profundos, la extinción del fuego, la eliminación por inmersión completa y la igualdad de los resultados de los turnos normales y de avance rápido. Revisar los diseños de escritorio y estrechos en los cuatro idiomas; identificar por separado la emulación del navegador y las pruebas en dispositivos físicos. Validar la página publicada y los recursos multimedia enlazados, no solo la compilación local.
+
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/crazy-tanks-3d-island-artillery) · [Demo en línea](https://super-tanks-aftershock.tripo.page/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Montaje de entrenamiento: evolución de Claude
@@ -2516,33 +2570,6 @@ Crea un juego de carreras
 </details>
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100526922770026874) · [Publicación original](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100519026720231698"></a>
-
-### Añadir una cadena de mantenimiento a la barandilla
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Añadir una cadena de mantenimiento a la barandilla"></a>
-
-**Prompt**
-
-```text
-¡Añade una cadena de mantenimiento a la barandilla!
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-手摺にメンテ用のチェーン付けて！
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100519026720231698) · [Publicación original](https://x.com/ujiden_type0/status/2100519026720231698) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

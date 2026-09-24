@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [オープンワールド犯罪ゲームの試作](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia 風のブラウザゲーム](#mini-militia-style-browser-game-2094900523900219725)
 - [雨の海を一人称で探索するサンドボックス](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [空に浮かぶボクセル島](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [ベトナムの密林を飛ぶヘリコプターの映画的アニメーション](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [ジェリージャングル：3Dプラットフォーマー](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [手描きアニメ風の日本の住宅街を探索する Three.js プロンプト](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### オープンワールド犯罪ゲームの試作
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="オープンワールド犯罪ゲームの試作"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+GTA 6 に着想を得たオープンワールドゲームを試作してください。密度の高い街、徒歩移動、運転できる車、交通、警察の対応、複数の遊べる活動を実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [元の投稿](https://x.com/vikktorrrre/status/2094907986942591338) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Mini Militia 風のブラウザゲーム
@@ -1198,34 +1218,6 @@ Three.js で探索できる日本の住宅街を作ってください。すべ�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [元の投稿](https://x.com/gmi_cloud/status/2080834581247435102) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Kimi K3 で作った Counter-Strike 風ブラウザゲーム
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Kimi K3 で作った Counter-Strike 風ブラウザゲーム"></a>
-
-**プロンプト**
-
-```text
-Kimi K3 で、ブラウザで動く Counter-Strike 風ゲームを作りました。
-
-HTML ファイル一つ。3,700 行超のコード。ビルド工程なし。
-
-内容：
-🔫 トンネル、キャットウォーク、Long A を備えた Dust2 風レイアウト
-🎯 AK、スコープ付き AWP、MP5、ナイフ、リロード
-🤖 巡回し、銃声に反応して、こちらの位置へ攻めてくる AI ボット 10 体
-💥 ヘッドショット、キルログ、2 分間のラウンド制
-🔊 音声ファイルを使わない完全手続き生成の音
-🌐 Three.js と PBR マテリアルを使い、すべてブラウザ内で動作
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [元の投稿](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [作例一覧に戻る](#all-prompts)
 
 ---
 

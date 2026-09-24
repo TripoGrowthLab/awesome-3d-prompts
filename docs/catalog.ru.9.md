@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Посмотреть примеры (17)</summary>
+<summary>Посмотреть примеры (18)</summary>
 
+- [Браузерная игра в духе Counter-Strike с Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Промпт Kimi K3 для пряток за один запрос](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Задание процедурного моделирования оружия Three.js для Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Три промпта процедурного оружия Three.js в одном HTML-файле](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Промпт Three.js для прогулки по самолёту](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Браузерная игра в духе Counter-Strike с Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Браузерная игра в духе Counter-Strike с Kimi K3"></a>
+
+**Промпт**
+
+```text
+Создал браузерную игру в духе Counter-Strike с Kimi K3.
+
+Один HTML-файл. Более 3700 строк кода. Без этапа сборки.
+
+Внутри:
+
+🔫 Планировка в духе Dust2 с тоннелями, мостиком и Long A
+🎯 AK, AWP с прицелом, MP5, нож и перезарядка
+🤖 10 ИИ-ботов, которые патрулируют, реагируют на стрельбу и наступают на вашу позицию
+💥 Попадания в голову, лента убийств и система двухминутных раундов
+🔊 Полностью процедурный звук без аудиофайлов
+🌐 Three.js и PBR-материалы; всё работает в браузере
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Исходная публикация](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Промпт Kimi K3 для пряток за один запрос

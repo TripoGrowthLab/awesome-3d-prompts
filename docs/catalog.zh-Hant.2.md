@@ -28,6 +28,7 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [為欄杆新增維修用鏈條](#gpt-6-astra-2100519026720231698)
 - [互動式體素騎士篝火場景](#gpt-6-astra-2100350159540596760)
 - [等角視角奇幻 3D 圖形展示](#gpt-6-astra-2100271998618177864)
 - [AKARI：名古屋屋頂火炬接力](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [打造更具挑戰性的 18 洞高爾夫球場](#gpt-6-astra-2098038909514944562)
 - [Mosswing：行動版 3D 點按拍翅遊戲](#mosswing-mobile-3d-tap-to-flap-game)
 - [無台詞 3D 貓咪零食短片](#gpt-6-astra-2097900087901106244)
-- [互動式奇幻圖形展示](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### 為欄杆新增維修用鏈條
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="為欄杆新增維修用鏈條"></a>
+
+**提示詞**
+
+```text
+幫我在欄杆上加裝維修用鏈條！
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698) · [查看原文](https://x.com/ujiden_type0/status/2100519026720231698) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### 互動式體素騎士篝火場景
@@ -3921,33 +3948,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097900087901106244) · [查看原文](https://x.com/boboga777/status/2097900087901106244) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### 互動式奇幻圖形展示
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="互動式奇幻圖形展示"></a>
-
-**提示詞**
-
-```text
-使用 Dream Loop Plus 幫我製作一個圖形展示：採用等角視角、寫實著色與具反射效果的濕地面，並在有趣的場景中加入一名角色。設定為奇幻世界（可以參考 Elden Ring、Diablo）。使用瀏覽器中的 Three.js，效能達到 >60fps。操作方式：點擊移動角色，鏡頭以帶有延遲的方式平滑跟隨；拖曳旋轉鏡頭；滾動縮放鏡頭。暫時不要加入遊戲玩法。世界應該充滿生命感：加入動態、動畫，以及細微的環境行為。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原文](https://x.com/anshuc/status/2097821164093480999) · [返回案例導覽](#all-prompts)
 
 ---
 

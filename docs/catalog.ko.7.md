@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [자율적으로 살아남는 Unreal 속 인간 사회](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [화성의 Arcadia 기지](#arcadia-base-on-mars-2095595678214873212)
 - [하나의 그레이박스로 만드는 세 가지 카트 게임](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [절차적 폭포 표현 실험](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [평면도에서 Blender 워크스루로](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [136,000개 복셀로 결정론적으로 생성하는 불탑](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Blender 자동화로 만드는 정교한 로봇](#detailed-robot-through-blender-automation-2094909825561805003)
-- [오픈월드 범죄 게임 프로토타입](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### 자율적으로 살아남는 Unreal 속 인간 사회
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="자율적으로 살아남는 Unreal 속 인간 사회"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+자율적으로 행동하는 인간 에이전트가 사는 Unreal Engine 세계를 만드세요. 각자에게 개인적인 욕구와 공동의 생존 목표를 부여하세요. 서로 소통하고 일을 나누며 거처를 지어, 플레이어가 떠나도 사회가 유지되도록 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [원본 게시물](https://x.com/mattshumer_/status/2095596175705399482) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### 화성의 Arcadia 기지
@@ -1071,26 +1091,6 @@ Blender에서 정교한 하드서피스 로봇을 만드세요. 일관된 비율
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [원본 게시물](https://x.com/Spectromachina/status/2094909825561805003) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### 오픈월드 범죄 게임 프로토타입
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="오픈월드 범죄 게임 프로토타입"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-GTA 6에서 영감을 받은 오픈월드 게임을 시제품으로 만드세요. 밀도 높은 도시, 도보 이동, 운전 가능한 차량, 교통, 경찰 대응, 여러 플레이 가능한 활동을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [원본 게시물](https://x.com/vikktorrrre/status/2094907986942591338) · [사례 목록으로](#all-prompts)
 
 ---
 

@@ -28,6 +28,7 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Demo di grafica fantasy interattiva](#gpt-6-astra-2097821164093480999)
 - [Clone di Minecraft multigiocatore](#gpt-6-astra-2097797479488246071)
 - [Collisore di particelle 3D interattivo](#gpt-6-astra-2097781208596029936)
 - [Simulazione 3D in tempo reale di una fabbrica e delle piattaforme di lancio](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [Un logo 2D diventa un personaggio animato](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [Miniatura interattiva di Seoul](#interactive-miniature-of-seoul-2096557555086725159)
 - [Gioco di rally Unity giocabile su telefono](#mobile-playable-unity-rally-game-2096556692842348826)
-- [Ciclo di gioco di battaglie con carte collezionabili](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### Demo di grafica fantasy interattiva
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Demo di grafica fantasy interattiva"></a>
+
+**Prompt**
+
+```text
+Usa Dream Loop Plus per realizzare una demo grafica: camera isometrica, shading realistico e pavimenti bagnati riflettenti, con un personaggio inserito in una scena interessante. Ambientazione fantasy (pensa a Elden Ring e Diablo). Three.js nel browser, >60 fps. Comandi: fai clic per muovere il personaggio; la camera lo segue con inerzia; trascina per ruotare la camera; usa la rotellina per aumentare o ridurre lo zoom. Per ora, niente gameplay. Il mondo deve sembrare vivo: movimento, animazioni e comportamenti ambientali sottili.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097821164093480999) · [Post originale](https://x.com/anshuc/status/2097821164093480999) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### Clone di Minecraft multigiocatore
@@ -2588,26 +2615,6 @@ Crea un prototipo di guida rally con Codex, Blender e Unity. Prepara gli asset 3
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Post originale](https://x.com/kevinkern/status/2096556692842348826) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### Ciclo di gioco di battaglie con carte collezionabili
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Ciclo di gioco di battaglie con carte collezionabili"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea un prototipo di carte collezionabili in Three.js: acquistare mazzi e buste, comporre un mazzo, entrare in un’arena e ottenere ricompense. Mantieni le mesh provvisorie sostituibili con asset definitivi.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Post originale](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Torna agli esempi](#all-prompts)
 
 ---
 

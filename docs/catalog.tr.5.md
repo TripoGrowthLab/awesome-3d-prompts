@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu](#gpt-6-astra-2096156244180664627)
 - [Dropzone battle royale arenası](#dropzone-battle-royale-arena-2096155883122413946)
 - [Tarayıcı uçuş oyunu](#browser-flight-game-2096149823216898445)
 - [Kafe fotoğrafından dikey gezinti videosuna](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [Etkileşimli PS5 kontrolcüsü](#interactive-ps5-controller-2095967131573649552)
 - [Etkileşimli 3B karakter kartları](#interactive-3d-character-cards-2095963576049832347)
 - [Mermi zamanlı üçüncü şahıs nişancı](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat: tarayıcıda drift yarışı](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu"></a>
+
+**İstem**
+
+```text
+Bir balık simülasyonu oyunu oluşturmak istiyorum. Balığı biz kontrol edelim ve başlangıçta seçebilelim. Oyuna bir evdeki akvaryumda başlayalım; yiyecek parçacıkları yukarıdan düşsün, ortaya çıksın ya da benzer bir yöntemle belirsin. Onlara yüzerek ulaşabilelim ve yiyecekleri yiyerek büyüyelim. Bize hasar verip küçülmemize neden olan engeller ve benzeri tehlikeler de olsun. Seviye atladıkça, okyanusa ulaşana kadar giderek daha büyük alanlara geçelim. Yediğimiz yiyecekler zamanla değişebilsin; başka balıkları ve diğer canlıları da yiyebilelim.
+Önce bu oyun için eksiksiz oynanış döngüsünü, bölüm tasarımlarını ve benzeri ayrıntıları bir Markdown dosyasında tanımlayın; ardından yerel olarak tarayıcımda oynayabileceğim bir oyuna dönüştürün. Gerekli teknoloji yığınını siz seçin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627) · [Orijinal gönderi](https://x.com/AVachaspat92841/status/2096156244180664627) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone battle royale arenası
@@ -1111,26 +1140,6 @@ Three.js'de Max Payne'den esinlenen üçüncü şahıs nişancı oyunu oluştur.
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Orijinal gönderi](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat: tarayıcıda drift yarışı
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: tarayıcıda drift yarışı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tek cümleden tarayıcıda eksiksiz bir arcade sokak yarışı oluştur. Tatmin edici drift fiziği, kombo puanı, kıl payı geçiş bonusları, hız noktaları, nitro, trafik, okunabilir HUD ve tekrar oynanabilir kısa parkur uygula.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095916820431827408) · [Örneklere dön](#all-prompts)
 
 ---
 

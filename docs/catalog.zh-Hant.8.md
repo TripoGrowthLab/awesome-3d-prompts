@@ -28,6 +28,7 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [開放世界犯罪遊戲原型](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia 風格瀏覽器遊戲](#mini-militia-style-browser-game-2094900523900219725)
 - [雨中第一人稱海洋沙盒](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [懸浮體素島嶼](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [越南叢林直升機電影級動畫提示詞](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [果凍叢林：3D 平台跳躍遊戲](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [用於可探索日本郊區街道的 Three.js 提示詞，採用手繪動漫風格](#explorable-anime-style-japanese-street-2080834581247435102)
-- [使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### 開放世界犯罪遊戲原型
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="開放世界犯罪遊戲原型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+原型化一款受 GTA 6 啟發的開放世界遊戲，包含密集城市、步行探索、可駕駛載具、交通、警察響應與多種可玩活動。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [查看原文](https://x.com/vikktorrrre/status/2094907986942591338) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Mini Militia 風格瀏覽器遊戲
@@ -1212,35 +1232,6 @@ Classic 使用三種程序化變體；匯入模式使用可用的替換資產，
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [查看原文](https://x.com/gmi_cloud/status/2080834581247435102) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### 使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲"></a>
-
-**提示詞**
-
-```text
-用 Kimi K3 在瀏覽器裡做了一個受《反恐精英》啟發的遊戲。
-
-一個 HTML 檔案。超過 3700 行程式碼。無需建置步驟。
-
-它包含：
-
-🔫 受 Dust2 啟發的佈局，帶有隧道、貓道和 A 長 
-🎯 AK、帶瞄準鏡的 AWP、MP5、刀和換彈機制 
-🤖 10 個 AI 機器人，會巡邏、對槍聲做出反應，並推進到你的位置 
-💥 爆頭、擊殺資訊，以及 2 分鐘的回合系統 
-🔊 完全程式化音訊，沒有任何音效檔案 
-🌐 使用 Three.js 和 PBR 材質建置，完全在瀏覽器中執行
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [查看原文](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [返回案例導覽](#all-prompts)
 
 ---
 

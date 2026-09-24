@@ -28,6 +28,7 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Une société d'humains autonomes qui survit dans Unreal](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [La base Arcadia sur Mars](#arcadia-base-on-mars-2095595678214873212)
 - [Trois jeux de kart thématiques à partir d'une seule maquette](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [Une étude de cascade procédurale](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [D'un plan à une visite Blender](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [Une pagode déterministe de 136 000 voxels](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Un robot détaillé grâce à l'automatisation de Blender](#detailed-robot-through-blender-automation-2094909825561805003)
-- [Un prototype de jeu criminel en monde ouvert](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Une société d'humains autonomes qui survit dans Unreal
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Une société d'humains autonomes qui survit dans Unreal"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée un monde Unreal Engine peuplé d'agents humains autonomes. Donne-leur des besoins individuels et un objectif commun de survie pour qu'ils doivent communiquer, répartir le travail, construire des abris et maintenir leur société en vie lorsque le joueur s'en va.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Publication originale](https://x.com/mattshumer_/status/2095596175705399482) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### La base Arcadia sur Mars
@@ -1071,26 +1091,6 @@ Construis dans Blender un robot hard surface détaillé avec des proportions coh
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Publication originale](https://x.com/Spectromachina/status/2094909825561805003) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### Un prototype de jeu criminel en monde ouvert
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Un prototype de jeu criminel en monde ouvert"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Prototype un jeu en monde ouvert inspiré de GTA 6 avec une ville dense, des déplacements à pied, des véhicules conduisibles, de la circulation, une réaction de la police et plusieurs activités jouables.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Publication originale](https://x.com/vikktorrrre/status/2094907986942591338) · [Retour aux exemples](#all-prompts)
 
 ---
 

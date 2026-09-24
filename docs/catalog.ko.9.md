@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (17)</summary>
+<summary>사례 둘러보기 (18)</summary>
 
+- [Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Kimi K3로 한 번에 만드는 숨바꼭질 게임 프롬프트](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5의 절차적 Three.js 무기 모델링 과제](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,34 @@
 - [Three.js 비행기 내부 워크스루 체험 프롬프트](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임"></a>
+
+**프롬프트**
+
+```text
+Kimi K3로 브라우저에서 돌아가는 Counter-Strike 스타일 게임을 만들었습니다.
+
+HTML 파일 하나. 코드 3,700줄 이상. 빌드 단계 없음.
+
+포함 기능:
+🔫 터널, 캣워크, Long A를 갖춘 Dust2 스타일 배치
+🎯 AK, 조준경이 있는 AWP, MP5, 칼, 재장전
+🤖 순찰하고 총성에 반응하며 플레이어 위치로 진격하는 AI 봇 10명
+💥 헤드샷, 킬 피드, 2분 라운드 시스템
+🔊 사운드 파일 없는 완전한 절차적 오디오
+🌐 Three.js와 PBR 재질로 제작, 전부 브라우저에서 실행
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Kimi K3로 한 번에 만드는 숨바꼭질 게임 프롬프트

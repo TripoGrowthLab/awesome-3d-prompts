@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**417 作例 · 14 🌐**
+**418 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md) · [2](../docs/catalog.ja.2.md) · [3](../docs/catalog.ja.3.md) · [4](../docs/catalog.ja.4.md) · [5](../docs/catalog.ja.5.md) · [6](../docs/catalog.ja.6.md) · [7](../docs/catalog.ja.7.md) · [8](../docs/catalog.ja.8.md) · [9](../docs/catalog.ja.9.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 115
+### ゲーム · 116
 
+- [Crazy Tanks — 3Dアイランド砲撃戦](../docs/catalog.ja.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
@@ -66,7 +67,7 @@
 - [The Quiet Crossing：雪景色の探索クエスト](../docs/catalog.ja.3.md#the-quiet-crossing-exploration-quest-2096574297703637111) · [MotionViz](https://x.com/Motion_Viz)
 - [ローポリのビーチで宝探し](../docs/catalog.ja.3.md#low-poly-beach-treasure-hunt-2096570815714414844) · [空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g)
 - [スマートフォンで遊べるUnityのラリーゲーム](../docs/catalog.ja.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [トレーディングカードの対戦ループ](../docs/catalog.ja.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [トレーディングカードの対戦ループ](../docs/catalog.ja.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [ONE PIECEに着想を得た航海ワールド](../docs/catalog.ja.4.md#one-piece-inspired-sailing-world-2096518775042707700) · [Yash](https://x.com/yash_yk45)
 - [Three.jsで完成させるパズルのステージ](../docs/catalog.ja.4.md#complete-three-js-puzzle-level-2096505740643246231) · [Steve的花园儿](https://x.com/TvWoo)
 - [日本の森を飛ぶライトフライヤー号](../docs/catalog.ja.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808) · [Jared](https://x.com/jaredliu_bravo)
@@ -78,7 +79,7 @@
 - [フライトループを完全再現したブラウザ版フライトシミュレーター](../docs/catalog.ja.4.md#gpt-6-astra-2096236137266512181) · [aditya](https://x.com/adxtyahq)
 - [カスタム3Dアセットで遊べるRobloxカートレーサー](../docs/catalog.ja.4.md#gpt-6-astra-2096219700879331665) · [Givros](https://x.com/givros)
 - [都市を自由に走る OX Vice Drive](../docs/catalog.ja.4.md#ox-vice-drive-open-city-racer-2096206082712768897) · [DomX](https://x.com/qok_ai)
-- [魚のサバイバルゲーム：水槽から海へ](../docs/catalog.ja.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [魚のサバイバルゲーム：水槽から海へ](../docs/catalog.ja.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [バトルロイヤルアリーナ Dropzone](../docs/catalog.ja.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [ブラウザで遊ぶ飛行ゲーム](../docs/catalog.ja.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [Odyssey 風の足場アドベンチャー](../docs/catalog.ja.5.md#odyssey-inspired-platform-adventure-2096135808243876152) · [AIHubmix](https://x.com/AiHubMix)
@@ -94,7 +95,7 @@
 - [鳥を飛ばす 3D スリングショットゲーム](../docs/catalog.ja.5.md#3d-slingshot-bird-game-2095981655370666076) · [Max](https://x.com/MozeTech)
 - [反重力コンバットレース](../docs/catalog.ja.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [バレットタイムの三人称シューター](../docs/catalog.ja.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [ブラウザでドリフトする Street Heat](../docs/catalog.ja.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [ブラウザでドリフトする Street Heat](../docs/catalog.ja.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [短時間で遊べるゲームプロトタイプ](../docs/catalog.ja.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [文化を題材にした自動進行アーケードゲーム](../docs/catalog.ja.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
 - [プロンプトから作るオープンワールドゲーム](../docs/catalog.ja.6.md#open-world-game-from-a-prompt-2095872986477908108) · [Ejaj AHmed 🦅](https://x.com/aeejazkhan)
@@ -120,7 +121,7 @@
 - [3D で遊ぶヘビとはしご](../docs/catalog.ja.7.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Unity で完成させるテニスゲーム](../docs/catalog.ja.7.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
 - [ゼロから作る Godot レースゲーム](../docs/catalog.ja.7.md#godot-racing-game-built-from-scratch-2094925359372284022) · [atomic.chat](https://x.com/atomic_chat_hq)
-- [オープンワールド犯罪ゲームの試作](../docs/catalog.ja.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [オープンワールド犯罪ゲームの試作](../docs/catalog.ja.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Mini Militia 風のブラウザゲーム](../docs/catalog.ja.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [物理を使った 3 つのミニゲーム案](../docs/catalog.ja.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Three.js で作る AAA 品質のカートレース](../docs/catalog.ja.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
@@ -143,7 +144,7 @@
 - [Claude Opus 5 で 3D Minecraft クローンを作るプロンプト](../docs/catalog.ja.8.md#build-a-3d-minecraft-clone-2081305039159620085) · [OpenBuilder](https://x.com/BuilderGuest)
 - [3D Flappy Bird ゲームのプロンプト](../docs/catalog.ja.8.md#3d-flappy-bird-game-2081260140117045275) · [SrijibBose](https://x.com/SrijibBose)
 - [ジェリージャングル：3Dプラットフォーマー](../docs/catalog.ja.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
-- [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](../docs/catalog.ja.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](../docs/catalog.ja.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Kimi K3 で一度に作るかくれんぼゲームのプロンプト](../docs/catalog.ja.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム](../docs/catalog.ja.9.md#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [カメレオンとロボットの 3D かくれんぼプロンプト](../docs/catalog.ja.9.md#chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Sonicsmart](https://x.com/sonicsmarta)
@@ -253,7 +254,7 @@
 - [Three.jsでWALL-Eの3Dモデルを作成](../docs/catalog.ja.1.md#gpt-6-astra-2101687900723106104) · [Marcel](https://x.com/marcthecreatorr)
 - [Waymo Jaguar I-Paceの3Dモデル](../docs/catalog.ja.1.md#gpt-6-astra-2101325346427842909) · [Harshith](https://x.com/HarshithLucky3)
 - [CADでボディを自作](../docs/catalog.ja.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
-- [手摺にメンテ用チェーンを追加](../docs/catalog.ja.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [手摺にメンテ用チェーンを追加](../docs/catalog.ja.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Apple風の3Dハートと笑顔の絵文字](../docs/catalog.ja.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
 - [200ポリゴン以下の針葉樹モデル](../docs/catalog.ja.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [頭部なし衣服モデルのUV展開と4K再ベイク](../docs/catalog.ja.2.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
@@ -327,7 +328,7 @@
 - [インタラクティブ3Dロボットハンドのピアノ演奏デモ](../docs/catalog.ja.2.md#gpt-6-astra-2098109252720078891) · [MSB](https://x.com/KeWai386772)
 - [人間の頭部と脳のインタラクティブ3Dアトラス](../docs/catalog.ja.2.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [シティ・パルス](../docs/catalog.ja.2.md#gpt-6-astra-2098063352832610473) · [Seoyeon Jun 📊](https://x.com/tableau_viz)
-- [インタラクティブなファンタジーグラフィックスデモ](../docs/catalog.ja.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [インタラクティブなファンタジーグラフィックスデモ](../docs/catalog.ja.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [インタラクティブ3D粒子衝突型加速器](../docs/catalog.ja.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [没入感のある3D田園風景サイト](../docs/catalog.ja.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [北京・天壇祈年殿 TypeScript + Three.js WebGLプロジェクト](../docs/catalog.ja.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
@@ -445,7 +446,7 @@
 - [密林の神殿と巨大なヴァーナラの守護者](../docs/catalog.ja.6.md#jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [生命と嵐を手続き生成する海洋シミュレーション](../docs/catalog.ja.6.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick) · GitHub
 - [Three.js のビー玉工場](../docs/catalog.ja.6.md#three-js-marble-factory-2095622065390772322) · [John Kler](https://x.com/JohnKlerAI)
-- [自律する人々が生き抜く Unreal の社会](../docs/catalog.ja.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [自律する人々が生き抜く Unreal の社会](../docs/catalog.ja.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [映画的な WebGL ブラックホール](../docs/catalog.ja.7.md#cinematic-webgl-black-hole-2095409039005933910) · [eki](https://x.com/ekibuilds)
 - [Blender の鉄球による破壊物理テスト](../docs/catalog.ja.7.md#blender-wrecking-ball-physics-test-2095177102400081940) · [Abyssal](https://x.com/abyssallD)
 - [Blender で作る空飛ぶ鍋のアニメーション](../docs/catalog.ja.7.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
@@ -482,8 +483,9 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 276
+### GPT-6 Astra · 277
 
+- [Crazy Tanks — 3Dアイランド砲撃戦](../docs/catalog.ja.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [チェスのガンビットを学ぶインタラクティブ3D盤](../docs/catalog.ja.1.md#gpt-6-astra-2102788013902213508) · [Diogo Santos](https://x.com/diogosantosbr)
 - [ブラウザで操作できる中世ヨーロッパ風3D城](../docs/catalog.ja.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Orbit Lab：太陽・地球・月の3Dシミュレーション](../docs/catalog.ja.1.md#gpt-6-astra-2102752217375899659) · [technewsradio.tokyo](https://technewsradio.tokyo/)
@@ -514,7 +516,7 @@
 - [CADでボディを自作](../docs/catalog.ja.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [閉鎖研究施設から脱出するブラウザー3Dゲーム](../docs/catalog.ja.1.md#gpt-6-astra-2100595652703199281) · [forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/)
 - [3Dレーシングゲームを作る](../docs/catalog.ja.1.md#gpt-6-astra-2100526922770026874) · [たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3)
-- [手摺にメンテ用チェーンを追加](../docs/catalog.ja.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [手摺にメンテ用チェーンを追加](../docs/catalog.ja.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [インタラクティブなボクセル騎士と焚き火のシーン](../docs/catalog.ja.2.md#gpt-6-astra-2100350159540596760) · [Vib3Coded](https://x.com/vib3coded)
 - [アイソメトリックなファンタジーグラフィックスデモ](../docs/catalog.ja.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc) · GitHub
 - [AKARI：名古屋の屋上をつなぐ炎のリレー](../docs/catalog.ja.2.md#akari-nagoya-rooftop-flame-relay) · [Jared](https://growthengineer.space/)
@@ -564,7 +566,7 @@
 - [18ホールのゴルフコースをより難しくする](../docs/catalog.ja.2.md#gpt-6-astra-2098038909514944562) · [Rory Flynn](https://x.com/Ror_Fly)
 - [Mosswing：モバイル向け3Dタップ飛行ゲーム](../docs/catalog.ja.2.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337) · GitHub
 - [セリフなしの3D猫おやつショート](../docs/catalog.ja.2.md#gpt-6-astra-2097900087901106244) · [AI実践ラボ](https://x.com/boboga777)
-- [インタラクティブなファンタジーグラフィックスデモ](../docs/catalog.ja.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [インタラクティブなファンタジーグラフィックスデモ](../docs/catalog.ja.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [マルチプレイ対応Minecraftクローン](../docs/catalog.ja.3.md#gpt-6-astra-2097797479488246071) · [Armaan Jain](https://x.com/Armaan_Jain123)
 - [インタラクティブ3D粒子衝突型加速器](../docs/catalog.ja.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [リアルタイム3D工場・発射台シミュレーション](../docs/catalog.ja.3.md#gpt-6-astra-2097730920224534868) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
@@ -614,7 +616,7 @@
 - [2Dロゴを動く3Dキャラクターに](../docs/catalog.ja.3.md#a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Anthony Riera](https://x.com/anthonyriera)
 - [操作して探索できるソウルのミニチュア](../docs/catalog.ja.3.md#interactive-miniature-of-seoul-2096557555086725159) · [synabreu](https://x.com/synabreu)
 - [スマートフォンで遊べるUnityのラリーゲーム](../docs/catalog.ja.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [トレーディングカードの対戦ループ](../docs/catalog.ja.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [トレーディングカードの対戦ループ](../docs/catalog.ja.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [二重リングのエネルギーコアを操作する3Dビューアー](../docs/catalog.ja.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [エゼキエルの神殿の幻を3Dで](../docs/catalog.ja.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Blenderで切り替えるキャラクターの表情](../docs/catalog.ja.4.md#switchable-character-expressions-in-blender-2096525100518453342) · [Nano(ナノ)](https://x.com/Dstudio_ai)
@@ -663,7 +665,7 @@
 - [幼児が遊ぶ温かな玩具の世界](../docs/catalog.ja.4.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [参考画像から再構築するタグボート](../docs/catalog.ja.4.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
 - [コーヒーカップの中の海洋生物](../docs/catalog.ja.4.md#marine-life-in-a-coffee-cup-2096174858837074198) · [Sagi Polaczek 🦜](https://x.com/PolaczekSagi)
-- [魚のサバイバルゲーム：水槽から海へ](../docs/catalog.ja.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [魚のサバイバルゲーム：水槽から海へ](../docs/catalog.ja.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [バトルロイヤルアリーナ Dropzone](../docs/catalog.ja.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [ブラウザで遊ぶ飛行ゲーム](../docs/catalog.ja.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [カフェの写真から作る縦型ウォークスルー](../docs/catalog.ja.5.md#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [森叔](https://x.com/harrisonitsme)
@@ -711,7 +713,7 @@
 - [反重力コンバットレース](../docs/catalog.ja.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [操作できる PS5 コントローラー](../docs/catalog.ja.5.md#interactive-ps5-controller-2095967131573649552) · [bluedev](https://x.com/blueemi99)
 - [バレットタイムの三人称シューター](../docs/catalog.ja.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [ブラウザでドリフトする Street Heat](../docs/catalog.ja.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [ブラウザでドリフトする Street Heat](../docs/catalog.ja.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [短時間で遊べるゲームプロトタイプ](../docs/catalog.ja.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Blender で作るループするサイバーパンクの寝室](../docs/catalog.ja.6.md#looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Coin Shot ☁️](https://x.com/CoinSh0t)
 - [文化を題材にした自動進行アーケードゲーム](../docs/catalog.ja.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
@@ -756,7 +758,7 @@
 - [一度の指示で作る上質なインタラクティブ試作](../docs/catalog.ja.6.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [一度の指示で作る Minecraft 風の世界](../docs/catalog.ja.6.md#one-shot-minecraft-style-world-2095597137849446688) · [Flavio Adamo](https://x.com/flavioAd)
 - [ブラウザで探索するオープンワールド冒険](../docs/catalog.ja.6.md#open-world-browser-adventure-2095596341422440714) · [Peter Gostev](https://x.com/petergostev)
-- [自律する人々が生き抜く Unreal の社会](../docs/catalog.ja.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [自律する人々が生き抜く Unreal の社会](../docs/catalog.ja.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [一つのグレーボックスから 3 テーマのカートゲームへ](../docs/catalog.ja.7.md#three-themed-kart-games-from-one-greybox-2095580402505400369) · [Chetaslua](https://x.com/chetaslua)
 - [手続き生成するボクセル城のショーケース](../docs/catalog.ja.8.md#procedural-voxel-castle-showcase-2093690427849191855) · [Hakm](https://x.com/hakmgpt)
 - [ジェリージャングル：3Dプラットフォーマー](../docs/catalog.ja.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
@@ -823,7 +825,7 @@
 - [間取り図から Blender ウォークスルーへ](../docs/catalog.ja.7.md#floor-plan-to-blender-walkthrough-2094925117344428232) · [AGIラボ](https://x.com/ctgptlb)
 - [136,000 ボクセルを決定論的に生成する仏塔](../docs/catalog.ja.7.md#deterministic-136-000-voxel-pagoda-2094916609219461211) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Blender 自動化で作る精巧なロボット](../docs/catalog.ja.7.md#detailed-robot-through-blender-automation-2094909825561805003) · [Spectro](https://x.com/Spectromachina)
-- [オープンワールド犯罪ゲームの試作](../docs/catalog.ja.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [オープンワールド犯罪ゲームの試作](../docs/catalog.ja.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Mini Militia 風のブラウザゲーム](../docs/catalog.ja.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [雨の海を一人称で探索するサンドボックス](../docs/catalog.ja.8.md#rainy-first-person-ocean-sandbox-2094900247000654222) · [Tim Jayas](https://x.com/TimJayas)
 - [空に浮かぶボクセル島](../docs/catalog.ja.8.md#floating-voxel-island-2094899802588713418) · [Loktar 🇺🇸](https://x.com/loktar00)
@@ -861,7 +863,7 @@
 - [遊べる Chrome Dino ゲームを作る](../docs/catalog.ja.8.md#make-a-playable-chrome-dino-game-2081867025140650236) · [Kai](https://x.com/unseenmars_)
 - [リアルなヘリコプターシューターを作る Kimi K3 プロンプト](../docs/catalog.ja.8.md#realistic-helicopter-shooter-game-2081791572115435765) · [karti](https://x.com/Abobsterina)
 - [Subway Surfers 風ゲームを作る Kimi K3 プロンプト](../docs/catalog.ja.8.md#subway-surfers-style-game-2081766198082220514) · [Arindam Majumder 𝕏](https://x.com/Arindam_1729)
-- [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](../docs/catalog.ja.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](../docs/catalog.ja.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Kimi K3 で一度に作るかくれんぼゲームのプロンプト](../docs/catalog.ja.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト](../docs/catalog.ja.9.md#procedural-guns-in-single-file-three-js-2080757148078768504) · [thehype.](https://x.com/thehypedotnews)
 - [街区が時代を超えて変化する Kimi K3 の Three.js プロンプト](../docs/catalog.ja.9.md#transforming-three-js-city-block-scene-2080724552422924382) · [Ali Haider](https://x.com/ggg78g89)

@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Browse examples (17)</summary>
+<summary>Browse examples (18)</summary>
 
+- [Browser Counter-Strike-Inspired Game Built with Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [One-shot hide-and-seek game prompt for Kimi K3](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Procedural Three.js Weapon Modeling Task for Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Three single-file HTML Three.js procedural gun prompts](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Three.js airplane walkthrough experience prompt](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Browser Counter-Strike-Inspired Game Built with Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Browser Counter-Strike-Inspired Game Built with Kimi K3"></a>
+
+**Prompt**
+
+```text
+Built a Counter-Strike-inspired game in the browser with Kimi K3.
+
+One HTML file. Over 3,700 lines of code. No build step.
+
+It includes:
+
+🔫 Dust2-inspired layout with tunnels, catwalk, and Long A  
+🎯 AK, AWP with scope, MP5, knife, and reload mechanics  
+🤖 10 AI bots that patrol, react to gunfire, and push your position  
+💥 Headshots, kill feed, and a 2-minute round system  
+🔊 Fully procedural audio with no sound files  
+🌐 Built with Three.js and PBR materials, running entirely in the browser
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Original post](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Back to examples](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### One-shot hide-and-seek game prompt for Kimi K3
@@ -403,4 +433,4 @@ Generate in Three.js an experience allowing me to visualize a 3D airplane model 
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.8.md) · **9 / 9**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 418 examples and live previews →</a></strong></p>

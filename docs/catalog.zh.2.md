@@ -28,6 +28,7 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [为护栏添加维护链条](#gpt-6-astra-2100519026720231698)
 - [可交互的体素骑士篝火场景](#gpt-6-astra-2100350159540596760)
 - [等距视角奇幻图形演示](#gpt-6-astra-2100271998618177864)
 - [AKARI：名古屋屋顶火炬接力](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [让 18 洞高尔夫球场更具挑战性](#gpt-6-astra-2098038909514944562)
 - [Mosswing：移动端 3D 点击振翅游戏](#mosswing-mobile-3d-tap-to-flap-game)
 - [无对白 3D 猫咪短片](#gpt-6-astra-2097900087901106244)
-- [互动奇幻画面演示](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### 为护栏添加维护链条
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="为护栏添加维护链条"></a>
+
+**提示词**
+
+```text
+给护栏加上维护用链条！
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100519026720231698) · [查看原帖](https://x.com/ujiden_type0/status/2100519026720231698) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### 可交互的体素骑士篝火场景
@@ -3844,34 +3871,7 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 
 ---
 
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### 互动奇幻画面演示
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="互动奇幻画面演示"></a>
-
-**提示词**
-
-```text
-使用 Dream Loop Plus 为我制作一个画面演示：采用等距视角、真实感着色和湿润反光地面，并在有趣的场景中加入一个角色。设定为奇幻世界（参考《Elden Ring》和《Diablo》）。使用浏览器中的 Three.js，帧率 >60fps。操作方式：点击移动角色，相机进行延迟跟随；拖动旋转相机；滚动缩放镜头。暂时不要加入游戏玩法。世界应当充满生机：包含动态、动画以及细微的环境行为。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097821164093480999) · [查看原帖](https://x.com/anshuc/status/2097821164093480999) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.1.md) · **2 / 9** · [→](catalog.zh.3.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

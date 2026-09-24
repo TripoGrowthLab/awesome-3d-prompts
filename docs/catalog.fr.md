@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**417 Exemples · 14 🌐**
+**418 Exemples · 14 🌐**
 
 [Par catégorie](#categories) · [Par modèle](#models) · [Code source](with-code.md) · [1](../docs/catalog.fr.1.md) · [2](../docs/catalog.fr.2.md) · [3](../docs/catalog.fr.3.md) · [4](../docs/catalog.fr.4.md) · [5](../docs/catalog.fr.5.md) · [6](../docs/catalog.fr.6.md) · [7](../docs/catalog.fr.7.md) · [8](../docs/catalog.fr.8.md) · [9](../docs/catalog.fr.9.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jeux · 115
+### Jeux · 116
 
+- [Crazy Tanks — Artillerie insulaire en 3D](../docs/catalog.fr.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [CatWalk : un jeu de chat 3D à défilement horizontal dans la ville nocturne](../docs/catalog.fr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Jeu interactif d’animaux de la ferme dans le style de Peter Rabbit](../docs/catalog.fr.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Monde Three.js infini généré procéduralement](../docs/catalog.fr.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
@@ -66,7 +67,7 @@
 - [Quête d’exploration The Quiet Crossing](../docs/catalog.fr.3.md#the-quiet-crossing-exploration-quest-2096574297703637111) · [MotionViz](https://x.com/Motion_Viz)
 - [Chasse au trésor sur une plage low poly](../docs/catalog.fr.3.md#low-poly-beach-treasure-hunt-2096570815714414844) · [空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g)
 - [Jeu de rallye Unity jouable sur mobile](../docs/catalog.fr.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [Boucle de jeu de combats de cartes à collectionner](../docs/catalog.fr.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [Boucle de jeu de combats de cartes à collectionner](../docs/catalog.fr.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [Monde de navigation inspiré de One Piece](../docs/catalog.fr.4.md#one-piece-inspired-sailing-world-2096518775042707700) · [Yash](https://x.com/yash_yk45)
 - [Niveau complet de jeu de réflexion dans Three.js](../docs/catalog.fr.4.md#complete-three-js-puzzle-level-2096505740643246231) · [Steve的花园儿](https://x.com/TvWoo)
 - [Le Wright Flyer dans une forêt japonaise](../docs/catalog.fr.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808) · [Jared](https://x.com/jaredliu_bravo)
@@ -78,7 +79,7 @@
 - [Simulateur de vol dans le navigateur avec une boucle de vol complète](../docs/catalog.fr.4.md#gpt-6-astra-2096236137266512181) · [aditya](https://x.com/adxtyahq)
 - [Jeu de course de karts Roblox jouable avec des assets 3D personnalisés](../docs/catalog.fr.4.md#gpt-6-astra-2096219700879331665) · [Givros](https://x.com/givros)
 - [OX Vice Drive : conduire dans une ville ouverte](../docs/catalog.fr.4.md#ox-vice-drive-open-city-racer-2096206082712768897) · [DomX](https://x.com/qok_ai)
-- [Jeu de survie d’un poisson, de l’aquarium à l’océan](../docs/catalog.fr.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [Jeu de survie d’un poisson, de l’aquarium à l’océan](../docs/catalog.fr.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone : une arène de battle royale](../docs/catalog.fr.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [Un jeu de vol dans le navigateur](../docs/catalog.fr.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [Une aventure de plateformes inspirée d'Odyssey](../docs/catalog.fr.5.md#odyssey-inspired-platform-adventure-2096135808243876152) · [AIHubmix](https://x.com/AiHubMix)
@@ -94,7 +95,7 @@
 - [Un jeu d'oiseaux au lance-pierre en 3D](../docs/catalog.fr.5.md#3d-slingshot-bird-game-2095981655370666076) · [Max](https://x.com/MozeTech)
 - [Une course de combat antigravité](../docs/catalog.fr.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [Un jeu de tir à la troisième personne en bullet time](../docs/catalog.fr.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat : dérapages urbains dans le navigateur](../docs/catalog.fr.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat : dérapages urbains dans le navigateur](../docs/catalog.fr.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Un prototype de jeu rapidement jouable](../docs/catalog.fr.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Un jeu d'arcade culturel qui se joue tout seul](../docs/catalog.fr.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
 - [Du prompt au jeu en monde ouvert](../docs/catalog.fr.6.md#open-world-game-from-a-prompt-2095872986477908108) · [Ejaj AHmed 🦅](https://x.com/aeejazkhan)
@@ -120,7 +121,7 @@
 - [Un jeu de serpents et échelles en 3D](../docs/catalog.fr.7.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Un jeu de tennis Unity complet](../docs/catalog.fr.7.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
 - [Un jeu de course Godot créé de zéro](../docs/catalog.fr.7.md#godot-racing-game-built-from-scratch-2094925359372284022) · [atomic.chat](https://x.com/atomic_chat_hq)
-- [Un prototype de jeu criminel en monde ouvert](../docs/catalog.fr.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [Un prototype de jeu criminel en monde ouvert](../docs/catalog.fr.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Un jeu pour navigateur façon Mini Militia](../docs/catalog.fr.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Trois concepts de petits jeux de physique](../docs/catalog.fr.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Un jeu de kart de qualité AAA dans Three.js](../docs/catalog.fr.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
@@ -143,7 +144,7 @@
 - [Un prompt pour construire un clone 3D de Minecraft avec Claude Opus 5](../docs/catalog.fr.8.md#build-a-3d-minecraft-clone-2081305039159620085) · [OpenBuilder](https://x.com/BuilderGuest)
 - [Un prompt pour un jeu Flappy Bird 3D](../docs/catalog.fr.8.md#3d-flappy-bird-game-2081260140117045275) · [SrijibBose](https://x.com/SrijibBose)
 - [Jelly Jungle : jeu de plateformes 3D](../docs/catalog.fr.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
-- [Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3](../docs/catalog.fr.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3](../docs/catalog.fr.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Un prompt Kimi K3 pour un cache-cache en une seule génération](../docs/catalog.fr.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [Un clone d'Angry Birds avec oiseaux uniques et plusieurs niveaux](../docs/catalog.fr.9.md#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Un prompt de cache-cache 3D avec caméléon et robot](../docs/catalog.fr.9.md#chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Sonicsmart](https://x.com/sonicsmarta)
@@ -253,7 +254,7 @@
 - [Créer un modèle 3D de WALL-E avec Three.js](../docs/catalog.fr.1.md#gpt-6-astra-2101687900723106104) · [Marcel](https://x.com/marcthecreatorr)
 - [Modèle 3D d’une Jaguar I-Pace de Waymo](../docs/catalog.fr.1.md#gpt-6-astra-2101325346427842909) · [Harshith](https://x.com/HarshithLucky3)
 - [Concevoir elle-même un corps en CAO](../docs/catalog.fr.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
-- [Ajouter une chaîne de maintenance au garde-corps](../docs/catalog.fr.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [Ajouter une chaîne de maintenance au garde-corps](../docs/catalog.fr.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Cœur et émoji souriant en 3D, style Apple](../docs/catalog.fr.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
 - [Modèle de conifère de 200 polygones maximum](../docs/catalog.fr.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [Dépliage UV et rebake en 4K d’un modèle de vêtement sans tête](../docs/catalog.fr.2.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
@@ -327,7 +328,7 @@
 - [Démonstration interactive en 3D d’une main robotique jouant du piano](../docs/catalog.fr.2.md#gpt-6-astra-2098109252720078891) · [MSB](https://x.com/KeWai386772)
 - [Atlas 3D interactif de la tête et du cerveau humains](../docs/catalog.fr.2.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Pouls urbain](../docs/catalog.fr.2.md#gpt-6-astra-2098063352832610473) · [Seoyeon Jun 📊](https://x.com/tableau_viz)
-- [Démo graphique fantasy interactive](../docs/catalog.fr.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [Démo graphique fantasy interactive](../docs/catalog.fr.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [Collisionneur de particules 3D interactif](../docs/catalog.fr.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Paysage de rizières immersif en 3D](../docs/catalog.fr.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [Projet WebGL TypeScript + Three.js : la salle des Prières pour de bonnes récoltes du Temple du Ciel à Pékin](../docs/catalog.fr.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
@@ -445,7 +446,7 @@
 - [Un temple dans la jungle et son gardien vanara géant](../docs/catalog.fr.6.md#jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Un océan procédural vivant et une simulation de tempête](../docs/catalog.fr.6.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick) · GitHub
 - [Une usine de billes Three.js](../docs/catalog.fr.6.md#three-js-marble-factory-2095622065390772322) · [John Kler](https://x.com/JohnKlerAI)
-- [Une société d'humains autonomes qui survit dans Unreal](../docs/catalog.fr.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Une société d'humains autonomes qui survit dans Unreal](../docs/catalog.fr.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [Un trou noir WebGL cinématographique](../docs/catalog.fr.7.md#cinematic-webgl-black-hole-2095409039005933910) · [eki](https://x.com/ekibuilds)
 - [Un test de physique de boule de démolition dans Blender](../docs/catalog.fr.7.md#blender-wrecking-ball-physics-test-2095177102400081940) · [Abyssal](https://x.com/abyssallD)
 - [Une casserole volante animée dans Blender](../docs/catalog.fr.7.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
@@ -482,8 +483,9 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 276
+### GPT-6 Astra · 277
 
+- [Crazy Tanks — Artillerie insulaire en 3D](../docs/catalog.fr.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [Échiquier 3D interactif pour étudier les gambits aux échecs](../docs/catalog.fr.1.md#gpt-6-astra-2102788013902213508) · [Diogo Santos](https://x.com/diogosantosbr)
 - [Château médiéval européen en 3D contrôlable dans le navigateur](../docs/catalog.fr.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Orbit Lab : simulation 3D du Soleil, de la Terre et de la Lune](../docs/catalog.fr.1.md#gpt-6-astra-2102752217375899659) · [technewsradio.tokyo](https://technewsradio.tokyo/)
@@ -514,7 +516,7 @@
 - [Concevoir elle-même un corps en CAO](../docs/catalog.fr.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [Jeu 3D d’évasion dans un navigateur : fuyez un centre de recherche fermé](../docs/catalog.fr.1.md#gpt-6-astra-2100595652703199281) · [forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/)
 - [Créer un jeu de course en 3D](../docs/catalog.fr.1.md#gpt-6-astra-2100526922770026874) · [たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3)
-- [Ajouter une chaîne de maintenance au garde-corps](../docs/catalog.fr.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [Ajouter une chaîne de maintenance au garde-corps](../docs/catalog.fr.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Scène interactive de feu de camp avec chevalier voxel](../docs/catalog.fr.2.md#gpt-6-astra-2100350159540596760) · [Vib3Coded](https://x.com/vib3coded)
 - [Démo de graphismes fantasy en vue isométrique](../docs/catalog.fr.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc) · GitHub
 - [AKARI : Relais de la flamme sur les toits de Nagoya](../docs/catalog.fr.2.md#akari-nagoya-rooftop-flame-relay) · [Jared](https://growthengineer.space/)
@@ -564,7 +566,7 @@
 - [Rendre un parcours de golf de 18 trous plus exigeant](../docs/catalog.fr.2.md#gpt-6-astra-2098038909514944562) · [Rory Flynn](https://x.com/Ror_Fly)
 - [Mosswing : jeu mobile 3D où il faut tapoter pour battre des ailes](../docs/catalog.fr.2.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337) · GitHub
 - [Court métrage 3D muet sur un chat et une friandise](../docs/catalog.fr.2.md#gpt-6-astra-2097900087901106244) · [AI実践ラボ](https://x.com/boboga777)
-- [Démo graphique fantasy interactive](../docs/catalog.fr.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [Démo graphique fantasy interactive](../docs/catalog.fr.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [Clone de Minecraft multijoueur](../docs/catalog.fr.3.md#gpt-6-astra-2097797479488246071) · [Armaan Jain](https://x.com/Armaan_Jain123)
 - [Collisionneur de particules 3D interactif](../docs/catalog.fr.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Simulation 3D en direct d’une usine et de ses pas de tir](../docs/catalog.fr.3.md#gpt-6-astra-2097730920224534868) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
@@ -614,7 +616,7 @@
 - [Un logo 2D devient un personnage animé](../docs/catalog.fr.3.md#a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Anthony Riera](https://x.com/anthonyriera)
 - [Miniature interactive de Séoul](../docs/catalog.fr.3.md#interactive-miniature-of-seoul-2096557555086725159) · [synabreu](https://x.com/synabreu)
 - [Jeu de rallye Unity jouable sur mobile](../docs/catalog.fr.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [Boucle de jeu de combats de cartes à collectionner](../docs/catalog.fr.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [Boucle de jeu de combats de cartes à collectionner](../docs/catalog.fr.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [Noyau d’énergie interactif à deux anneaux](../docs/catalog.fr.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [La vision du Temple d’Ézéchiel en 3D](../docs/catalog.fr.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Expressions de personnage interchangeables dans Blender](../docs/catalog.fr.4.md#switchable-character-expressions-in-blender-2096525100518453342) · [Nano(ナノ)](https://x.com/Dstudio_ai)
@@ -663,7 +665,7 @@
 - [Un univers de jouets pour tout-petit](../docs/catalog.fr.4.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [Un remorqueur assemblé à partir d'images de référence](../docs/catalog.fr.4.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
 - [La vie marine dans une tasse de café](../docs/catalog.fr.4.md#marine-life-in-a-coffee-cup-2096174858837074198) · [Sagi Polaczek 🦜](https://x.com/PolaczekSagi)
-- [Jeu de survie d’un poisson, de l’aquarium à l’océan](../docs/catalog.fr.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [Jeu de survie d’un poisson, de l’aquarium à l’océan](../docs/catalog.fr.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone : une arène de battle royale](../docs/catalog.fr.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [Un jeu de vol dans le navigateur](../docs/catalog.fr.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [D’une photo de café à une visite au format vertical](../docs/catalog.fr.5.md#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [森叔](https://x.com/harrisonitsme)
@@ -711,7 +713,7 @@
 - [Une course de combat antigravité](../docs/catalog.fr.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [Une manette PS5 interactive](../docs/catalog.fr.5.md#interactive-ps5-controller-2095967131573649552) · [bluedev](https://x.com/blueemi99)
 - [Un jeu de tir à la troisième personne en bullet time](../docs/catalog.fr.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat : dérapages urbains dans le navigateur](../docs/catalog.fr.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat : dérapages urbains dans le navigateur](../docs/catalog.fr.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Un prototype de jeu rapidement jouable](../docs/catalog.fr.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Une chambre cyberpunk en boucle dans Blender](../docs/catalog.fr.6.md#looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Coin Shot ☁️](https://x.com/CoinSh0t)
 - [Un jeu d'arcade culturel qui se joue tout seul](../docs/catalog.fr.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
@@ -756,7 +758,7 @@
 - [Un prototype interactif haut de gamme en une seule passe](../docs/catalog.fr.6.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [Un monde façon Minecraft en une seule génération](../docs/catalog.fr.6.md#one-shot-minecraft-style-world-2095597137849446688) · [Flavio Adamo](https://x.com/flavioAd)
 - [Une aventure en monde ouvert dans le navigateur](../docs/catalog.fr.6.md#open-world-browser-adventure-2095596341422440714) · [Peter Gostev](https://x.com/petergostev)
-- [Une société d'humains autonomes qui survit dans Unreal](../docs/catalog.fr.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Une société d'humains autonomes qui survit dans Unreal](../docs/catalog.fr.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [Trois jeux de kart thématiques à partir d'une seule maquette](../docs/catalog.fr.7.md#three-themed-kart-games-from-one-greybox-2095580402505400369) · [Chetaslua](https://x.com/chetaslua)
 - [Un château voxel procédural à découvrir](../docs/catalog.fr.8.md#procedural-voxel-castle-showcase-2093690427849191855) · [Hakm](https://x.com/hakmgpt)
 - [Jelly Jungle : jeu de plateformes 3D](../docs/catalog.fr.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
@@ -823,7 +825,7 @@
 - [D'un plan à une visite Blender](../docs/catalog.fr.7.md#floor-plan-to-blender-walkthrough-2094925117344428232) · [AGIラボ](https://x.com/ctgptlb)
 - [Une pagode déterministe de 136 000 voxels](../docs/catalog.fr.7.md#deterministic-136-000-voxel-pagoda-2094916609219461211) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Un robot détaillé grâce à l'automatisation de Blender](../docs/catalog.fr.7.md#detailed-robot-through-blender-automation-2094909825561805003) · [Spectro](https://x.com/Spectromachina)
-- [Un prototype de jeu criminel en monde ouvert](../docs/catalog.fr.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [Un prototype de jeu criminel en monde ouvert](../docs/catalog.fr.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Un jeu pour navigateur façon Mini Militia](../docs/catalog.fr.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Un océan sous la pluie à explorer à la première personne](../docs/catalog.fr.8.md#rainy-first-person-ocean-sandbox-2094900247000654222) · [Tim Jayas](https://x.com/TimJayas)
 - [Une île voxel flottante](../docs/catalog.fr.8.md#floating-voxel-island-2094899802588713418) · [Loktar 🇺🇸](https://x.com/loktar00)
@@ -861,7 +863,7 @@
 - [Créer un Chrome Dino jouable](../docs/catalog.fr.8.md#make-a-playable-chrome-dino-game-2081867025140650236) · [Kai](https://x.com/unseenmars_)
 - [Un prompt Kimi K3 pour un jeu de tir en hélicoptère réaliste](../docs/catalog.fr.8.md#realistic-helicopter-shooter-game-2081791572115435765) · [karti](https://x.com/Abobsterina)
 - [Un prompt Kimi K3 pour un jeu façon Subway Surfers](../docs/catalog.fr.8.md#subway-surfers-style-game-2081766198082220514) · [Arindam Majumder 𝕏](https://x.com/Arindam_1729)
-- [Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3](../docs/catalog.fr.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3](../docs/catalog.fr.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Un prompt Kimi K3 pour un cache-cache en une seule génération](../docs/catalog.fr.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [Trois prompts d'armes procédurales Three.js en un seul fichier HTML](../docs/catalog.fr.9.md#procedural-guns-in-single-file-three-js-2080757148078768504) · [thehype.](https://x.com/thehypedotnews)
 - [Un prompt Kimi K3 pour un îlot urbain Three.js qui se transforme](../docs/catalog.fr.9.md#transforming-three-js-city-block-scene-2080724552422924382) · [Ali Haider](https://x.com/ggg78g89)

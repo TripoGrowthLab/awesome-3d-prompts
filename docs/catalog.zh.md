@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**417 条案例 · 6 个模型 · 14 种语言 · 16 条附源码**
+**418 条案例 · 6 个模型 · 14 种语言 · 16 条附源码**
 
 [按用途浏览](#categories) · [按模型浏览](#models) · [项目源码](with-code.md) · [1](../docs/catalog.zh.1.md) · [2](../docs/catalog.zh.2.md) · [3](../docs/catalog.zh.3.md) · [4](../docs/catalog.zh.4.md) · [5](../docs/catalog.zh.5.md) · [6](../docs/catalog.zh.6.md) · [7](../docs/catalog.zh.7.md) · [8](../docs/catalog.zh.8.md) · [9](../docs/catalog.zh.9.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 115
+### 游戏 · 116
 
+- [疯狂坦克——3D 岛屿炮战](../docs/catalog.zh.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [彼得兔风格的互动农场动物游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [无限程序生成的 Three.js 世界](../docs/catalog.zh.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
@@ -66,7 +67,7 @@
 - [静谧渡口探索任务](../docs/catalog.zh.3.md#the-quiet-crossing-exploration-quest-2096574297703637111) · [MotionViz](https://x.com/Motion_Viz)
 - [低多边形海滩寻宝](../docs/catalog.zh.3.md#low-poly-beach-treasure-hunt-2096570815714414844) · [空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g)
 - [可在手机试玩的 Unity 拉力赛](../docs/catalog.zh.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [集换式卡牌战斗循环](../docs/catalog.zh.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [集换式卡牌战斗循环](../docs/catalog.zh.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [海贼王风格航海世界](../docs/catalog.zh.4.md#one-piece-inspired-sailing-world-2096518775042707700) · [Yash](https://x.com/yash_yk45)
 - [完整的 Three.js 解谜关卡](../docs/catalog.zh.4.md#complete-three-js-puzzle-level-2096505740643246231) · [Steve的花园儿](https://x.com/TvWoo)
 - [莱特飞行器穿越日本森林](../docs/catalog.zh.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808) · [Jared](https://x.com/jaredliu_bravo)
@@ -78,7 +79,7 @@
 - [完整起降流程的浏览器飞行模拟器](../docs/catalog.zh.4.md#gpt-6-astra-2096236137266512181) · [aditya](https://x.com/adxtyahq)
 - [带自制 3D 资产的 Roblox 卡丁车游戏](../docs/catalog.zh.4.md#gpt-6-astra-2096219700879331665) · [Givros](https://x.com/givros)
 - [OX Vice Drive 开放城市驾驶](../docs/catalog.zh.4.md#ox-vice-drive-open-city-racer-2096206082712768897) · [DomX](https://x.com/qok_ai)
-- [从鱼缸到海洋的鱼类生存游戏](../docs/catalog.zh.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [从鱼缸到海洋的鱼类生存游戏](../docs/catalog.zh.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone 大逃杀竞技场](../docs/catalog.zh.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [浏览器飞行游戏](../docs/catalog.zh.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [奥德赛风格平台冒险](../docs/catalog.zh.5.md#odyssey-inspired-platform-adventure-2096135808243876152) · [AIHubmix](https://x.com/AiHubMix)
@@ -94,7 +95,7 @@
 - [3D 弹弓小鸟游戏](../docs/catalog.zh.5.md#3d-slingshot-bird-game-2095981655370666076) · [Max](https://x.com/MozeTech)
 - [反重力战斗赛车](../docs/catalog.zh.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [子弹时间第三人称射击](../docs/catalog.zh.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat 浏览器漂移赛车](../docs/catalog.zh.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat 浏览器漂移赛车](../docs/catalog.zh.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [快速可玩游戏原型](../docs/catalog.zh.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [自动游玩的国家文化街机游戏](../docs/catalog.zh.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
 - [提示词生成开放世界游戏](../docs/catalog.zh.6.md#open-world-game-from-a-prompt-2095872986477908108) · [Ejaj AHmed 🦅](https://x.com/aeejazkhan)
@@ -120,7 +121,7 @@
 - [可玩的 3D 蛇梯棋](../docs/catalog.zh.7.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [完整 Unity 网球游戏](../docs/catalog.zh.7.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
 - [从零构建 Godot 赛车游戏](../docs/catalog.zh.7.md#godot-racing-game-built-from-scratch-2094925359372284022) · [atomic.chat](https://x.com/atomic_chat_hq)
-- [开放世界犯罪游戏原型](../docs/catalog.zh.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [开放世界犯罪游戏原型](../docs/catalog.zh.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Mini Militia 风格浏览器游戏](../docs/catalog.zh.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [三款紧凑物理小游戏](../docs/catalog.zh.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Three.js AAA 卡丁车竞速游戏](../docs/catalog.zh.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
@@ -143,7 +144,7 @@
 - [使用 Claude Opus 5 构建 3D Minecraft 克隆的提示词](../docs/catalog.zh.8.md#build-a-3d-minecraft-clone-2081305039159620085) · [OpenBuilder](https://x.com/BuilderGuest)
 - [3D Flappy Bird 游戏提示词](../docs/catalog.zh.8.md#3d-flappy-bird-game-2081260140117045275) · [SrijibBose](https://x.com/SrijibBose)
 - [果冻丛林：3D 平台跳跃游戏](../docs/catalog.zh.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
-- [使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏](../docs/catalog.zh.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏](../docs/catalog.zh.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [用于 Kimi K3 的一次性捉迷藏游戏提示](../docs/catalog.zh.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [带有独特角色和多关卡机制的愤怒的小鸟风格克隆游戏](../docs/catalog.zh.9.md#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [变色龙与机器人捉迷藏 3D 游戏提示词](../docs/catalog.zh.9.md#chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Sonicsmart](https://x.com/sonicsmarta)
@@ -253,7 +254,7 @@
 - [在 Three.js 中创建 WALL-E 3D 模型](../docs/catalog.zh.1.md#gpt-6-astra-2101687900723106104) · [Marcel](https://x.com/marcthecreatorr)
 - [Waymo Jaguar I-Pace 3D 模型](../docs/catalog.zh.1.md#gpt-6-astra-2101325346427842909) · [Harshith](https://x.com/HarshithLucky3)
 - [用 CAD 设计身体](../docs/catalog.zh.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
-- [为护栏添加维护链条](../docs/catalog.zh.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [为护栏添加维护链条](../docs/catalog.zh.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [苹果风格爱心与笑脸 3D 表情](../docs/catalog.zh.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
 - [200 个面以内的针叶树模型](../docs/catalog.zh.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [无头服装模型的 UV 展开与 4K 重新烘焙](../docs/catalog.zh.2.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
@@ -327,7 +328,7 @@
 - [交互式 3D 机械手弹钢琴演示](../docs/catalog.zh.2.md#gpt-6-astra-2098109252720078891) · [MSB](https://x.com/KeWai386772)
 - [人类头部与大脑交互式 3D 图谱](../docs/catalog.zh.2.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [城市脉动](../docs/catalog.zh.2.md#gpt-6-astra-2098063352832610473) · [Seoyeon Jun 📊](https://x.com/tableau_viz)
-- [互动奇幻画面演示](../docs/catalog.zh.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [互动奇幻画面演示](../docs/catalog.zh.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [交互式 3D 粒子对撞机](../docs/catalog.zh.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [沉浸式 3D 稻田网站](../docs/catalog.zh.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [北京天坛祈年殿 TypeScript + Three.js WebGL 项目](../docs/catalog.zh.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
@@ -445,7 +446,7 @@
 - [丛林神庙与巨型神猴守护者](../docs/catalog.zh.6.md#jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [程序化鲜活海洋与风暴模拟](../docs/catalog.zh.6.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick) · GitHub
 - [Three.js 弹珠工厂](../docs/catalog.zh.6.md#three-js-marble-factory-2095622065390772322) · [John Kler](https://x.com/JohnKlerAI)
-- [Unreal 自主人类生存社会](../docs/catalog.zh.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Unreal 自主人类生存社会](../docs/catalog.zh.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [电影感 WebGL 黑洞](../docs/catalog.zh.7.md#cinematic-webgl-black-hole-2095409039005933910) · [eki](https://x.com/ekibuilds)
 - [Blender 拆楼球物理测试](../docs/catalog.zh.7.md#blender-wrecking-ball-physics-test-2095177102400081940) · [Abyssal](https://x.com/abyssallD)
 - [Blender 飞行锅动画](../docs/catalog.zh.7.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
@@ -482,8 +483,9 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 276
+### GPT-6 Astra · 277
 
+- [疯狂坦克——3D 岛屿炮战](../docs/catalog.zh.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
 - [用于学习国际象棋弃兵的互动式 3D 棋盘](../docs/catalog.zh.1.md#gpt-6-astra-2102788013902213508) · [Diogo Santos](https://x.com/diogosantosbr)
 - [可在浏览器中操作的中世纪欧洲风格 3D 城堡](../docs/catalog.zh.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Orbit Lab：太阳、地球与月球 3D 模拟](../docs/catalog.zh.1.md#gpt-6-astra-2102752217375899659) · [technewsradio.tokyo](https://technewsradio.tokyo/)
@@ -514,7 +516,7 @@
 - [用 CAD 设计身体](../docs/catalog.zh.1.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [逃离封闭研究设施的浏览器 3D 游戏](../docs/catalog.zh.1.md#gpt-6-astra-2100595652703199281) · [forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/)
 - [制作 3D 赛车游戏](../docs/catalog.zh.1.md#gpt-6-astra-2100526922770026874) · [たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3)
-- [为护栏添加维护链条](../docs/catalog.zh.1.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
+- [为护栏添加维护链条](../docs/catalog.zh.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [可交互的体素骑士篝火场景](../docs/catalog.zh.2.md#gpt-6-astra-2100350159540596760) · [Vib3Coded](https://x.com/vib3coded)
 - [等距视角奇幻图形演示](../docs/catalog.zh.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc) · GitHub
 - [AKARI：名古屋屋顶火炬接力](../docs/catalog.zh.2.md#akari-nagoya-rooftop-flame-relay) · [Jared](https://growthengineer.space/)
@@ -564,7 +566,7 @@
 - [让 18 洞高尔夫球场更具挑战性](../docs/catalog.zh.2.md#gpt-6-astra-2098038909514944562) · [Rory Flynn](https://x.com/Ror_Fly)
 - [Mosswing：移动端 3D 点击振翅游戏](../docs/catalog.zh.2.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337) · GitHub
 - [无对白 3D 猫咪短片](../docs/catalog.zh.2.md#gpt-6-astra-2097900087901106244) · [AI実践ラボ](https://x.com/boboga777)
-- [互动奇幻画面演示](../docs/catalog.zh.2.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
+- [互动奇幻画面演示](../docs/catalog.zh.3.md#gpt-6-astra-2097821164093480999) · [Anshu](https://x.com/anshuc)
 - [支持多人游戏的 Minecraft 克隆版](../docs/catalog.zh.3.md#gpt-6-astra-2097797479488246071) · [Armaan Jain](https://x.com/Armaan_Jain123)
 - [交互式 3D 粒子对撞机](../docs/catalog.zh.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [实时 3D 工厂发射台模拟](../docs/catalog.zh.3.md#gpt-6-astra-2097730920224534868) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
@@ -614,7 +616,7 @@
 - [二维标志变成动画角色](../docs/catalog.zh.3.md#a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Anthony Riera](https://x.com/anthonyriera)
 - [首尔交互式微缩城市](../docs/catalog.zh.3.md#interactive-miniature-of-seoul-2096557555086725159) · [synabreu](https://x.com/synabreu)
 - [可在手机试玩的 Unity 拉力赛](../docs/catalog.zh.3.md#mobile-playable-unity-rally-game-2096556692842348826) · [Kevin Kern](https://x.com/kevinkern)
-- [集换式卡牌战斗循环](../docs/catalog.zh.3.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
+- [集换式卡牌战斗循环](../docs/catalog.zh.4.md#trading-card-battle-game-loop-2096555856204644550) · [FaryaBlender3D](https://x.com/FaryaBlender3D)
 - [双环能量核心交互展示](../docs/catalog.zh.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [以西结的圣殿异象：3D 场景](../docs/catalog.zh.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Blender 角色表情切换](../docs/catalog.zh.4.md#switchable-character-expressions-in-blender-2096525100518453342) · [Nano(ナノ)](https://x.com/Dstudio_ai)
@@ -663,7 +665,7 @@
 - [幼儿玩具互动世界](../docs/catalog.zh.4.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [参考图转拖船模型](../docs/catalog.zh.4.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
 - [咖啡杯里的海洋生命](../docs/catalog.zh.4.md#marine-life-in-a-coffee-cup-2096174858837074198) · [Sagi Polaczek 🦜](https://x.com/PolaczekSagi)
-- [从鱼缸到海洋的鱼类生存游戏](../docs/catalog.zh.4.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
+- [从鱼缸到海洋的鱼类生存游戏](../docs/catalog.zh.5.md#gpt-6-astra-2096156244180664627) · [Ayush Vachaspati](https://x.com/AVachaspat92841)
 - [Dropzone 大逃杀竞技场](../docs/catalog.zh.5.md#dropzone-battle-royale-arena-2096155883122413946) · [MotionViz](https://x.com/Motion_Viz)
 - [浏览器飞行游戏](../docs/catalog.zh.5.md#browser-flight-game-2096149823216898445) · [Givros](https://x.com/givros)
 - [咖啡店照片转竖屏漫游](../docs/catalog.zh.5.md#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [森叔](https://x.com/harrisonitsme)
@@ -711,7 +713,7 @@
 - [反重力战斗赛车](../docs/catalog.zh.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha) · GitHub
 - [可交互的 PS5 手柄](../docs/catalog.zh.5.md#interactive-ps5-controller-2095967131573649552) · [bluedev](https://x.com/blueemi99)
 - [子弹时间第三人称射击](../docs/catalog.zh.5.md#bullet-time-third-person-shooter-2095962376344309843) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Street Heat 浏览器漂移赛车](../docs/catalog.zh.5.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Street Heat 浏览器漂移赛车](../docs/catalog.zh.6.md#street-heat-browser-drift-racer-2095916820431827408) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [快速可玩游戏原型](../docs/catalog.zh.6.md#rapid-playable-game-prototype-2095907526566990013) · [GLUNIVERSE™](https://x.com/gibglue)
 - [Blender 循环赛博朋克卧室](../docs/catalog.zh.6.md#looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Coin Shot ☁️](https://x.com/CoinSh0t)
 - [自动游玩的国家文化街机游戏](../docs/catalog.zh.6.md#self-playing-cultural-arcade-game-2095898198413922791) · [Good Morning](https://x.com/say_gm_)
@@ -756,7 +758,7 @@
 - [一次生成的高级交互原型](../docs/catalog.zh.6.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [一次生成的 Minecraft 风世界](../docs/catalog.zh.6.md#one-shot-minecraft-style-world-2095597137849446688) · [Flavio Adamo](https://x.com/flavioAd)
 - [浏览器开放世界冒险](../docs/catalog.zh.6.md#open-world-browser-adventure-2095596341422440714) · [Peter Gostev](https://x.com/petergostev)
-- [Unreal 自主人类生存社会](../docs/catalog.zh.6.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
+- [Unreal 自主人类生存社会](../docs/catalog.zh.7.md#surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Matt Shumer](https://x.com/mattshumer_)
 - [一个灰盒生成三款主题卡丁车游戏](../docs/catalog.zh.7.md#three-themed-kart-games-from-one-greybox-2095580402505400369) · [Chetaslua](https://x.com/chetaslua)
 - [程序化体素城堡展示](../docs/catalog.zh.8.md#procedural-voxel-castle-showcase-2093690427849191855) · [Hakm](https://x.com/hakmgpt)
 - [果冻丛林：3D 平台跳跃游戏](../docs/catalog.zh.8.md#jelly-jungle-3d-browser-game-2081024333120733188) · [Jared](https://x.com/jaredliu_bravo)
@@ -823,7 +825,7 @@
 - [平面图转 Blender 漫游](../docs/catalog.zh.7.md#floor-plan-to-blender-walkthrough-2094925117344428232) · [AGIラボ](https://x.com/ctgptlb)
 - [确定性 13.6 万体素宝塔](../docs/catalog.zh.7.md#deterministic-136-000-voxel-pagoda-2094916609219461211) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [通过 Blender 自动化构建高细节机器人](../docs/catalog.zh.7.md#detailed-robot-through-blender-automation-2094909825561805003) · [Spectro](https://x.com/Spectromachina)
-- [开放世界犯罪游戏原型](../docs/catalog.zh.7.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
+- [开放世界犯罪游戏原型](../docs/catalog.zh.8.md#open-world-crime-game-prototype-2094907986942591338) · [Veee](https://x.com/vikktorrrre)
 - [Mini Militia 风格浏览器游戏](../docs/catalog.zh.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [雨中第一人称海洋沙盒](../docs/catalog.zh.8.md#rainy-first-person-ocean-sandbox-2094900247000654222) · [Tim Jayas](https://x.com/TimJayas)
 - [悬浮体素岛屿](../docs/catalog.zh.8.md#floating-voxel-island-2094899802588713418) · [Loktar 🇺🇸](https://x.com/loktar00)
@@ -861,7 +863,7 @@
 - [制作一个可玩的 Chrome 恐龙游戏](../docs/catalog.zh.8.md#make-a-playable-chrome-dino-game-2081867025140650236) · [Kai](https://x.com/unseenmars_)
 - [用于逼真直升机射击游戏的 Kimi K3 提示词](../docs/catalog.zh.8.md#realistic-helicopter-shooter-game-2081791572115435765) · [karti](https://x.com/Abobsterina)
 - [用于 Subway Surfers 风格游戏的 Kimi K3 提示词](../docs/catalog.zh.8.md#subway-surfers-style-game-2081766198082220514) · [Arindam Majumder 𝕏](https://x.com/Arindam_1729)
-- [使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏](../docs/catalog.zh.8.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏](../docs/catalog.zh.9.md#counter-strike-inspired-browser-game-2080821527365218759) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [用于 Kimi K3 的一次性捉迷藏游戏提示](../docs/catalog.zh.9.md#one-shot-hide-and-seek-game-2080806989169307780) · [scalp](https://x.com/0x_scalp)
 - [三个单文件 HTML Three.js 程序化枪械提示](../docs/catalog.zh.9.md#procedural-guns-in-single-file-three-js-2080757148078768504) · [thehype.](https://x.com/thehypedotnews)
 - [用于可变换 Three.js 城市街区场景的 Kimi K3 提示词](../docs/catalog.zh.9.md#transforming-three-js-city-block-scene-2080724552422924382) · [Ali Haider](https://x.com/ggg78g89)
@@ -935,4 +937,4 @@
 - [Claude Opus 5 中用于制作达·芬奇扑翼机的 Three.js 提示词](../docs/catalog.zh.9.md#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Harshith](https://x.com/HarshithLucky3)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [브라우저 드리프트 레이싱 Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 - [빠르게 만드는 플레이 가능한 게임 프로토타입](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender로 만드는 반복 재생 사이버펑크 침실](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [문화를 소재로 자동 진행되는 아케이드 게임](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [한 번에 만드는 고급 인터랙티브 프로토타입](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [한 번에 만드는 Minecraft 스타일 세계](#one-shot-minecraft-style-world-2095597137849446688)
 - [브라우저 속 오픈월드 모험](#open-world-browser-adventure-2095596341422440714)
-- [자율적으로 살아남는 Unreal 속 인간 사회](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### 브라우저 드리프트 레이싱 Street Heat
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="브라우저 드리프트 레이싱 Street Heat"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+문장 하나로 브라우저 아케이드 스트리트 레이싱 게임을 완성하세요. 손맛 좋은 드리프트 물리, 콤보 점수, 아슬아슬한 회피 보너스, 속도 측정 구간, 니트로, 교통, 명확한 HUD, 짧고 반복 플레이 가능한 코스를 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [원본 게시물](https://x.com/higgsfield_ai/status/2095916820431827408) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### 빠르게 만드는 플레이 가능한 게임 프로토타입
@@ -1073,26 +1093,6 @@ Minecraft에서 영감을 받은 플레이 가능한 복셀 세계를 한 번에
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/open-world-browser-adventure-2095596341422440714) · [원본 게시물](https://x.com/petergostev/status/2095596341422440714) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### 자율적으로 살아남는 Unreal 속 인간 사회
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="자율적으로 살아남는 Unreal 속 인간 사회"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-자율적으로 행동하는 인간 에이전트가 사는 Unreal Engine 세계를 만드세요. 각자에게 개인적인 욕구와 공동의 생존 목표를 부여하세요. 서로 소통하고 일을 나누며 거처를 지어, 플레이어가 떠나도 사회가 유지되도록 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [원본 게시물](https://x.com/mattshumer_/status/2095596175705399482) · [사례 목록으로](#all-prompts)
 
 ---
 

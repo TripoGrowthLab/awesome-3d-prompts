@@ -28,6 +28,7 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [从鱼缸到海洋的鱼类生存游戏](#gpt-6-astra-2096156244180664627)
 - [Dropzone 大逃杀竞技场](#dropzone-battle-royale-arena-2096155883122413946)
 - [浏览器飞行游戏](#browser-flight-game-2096149823216898445)
 - [咖啡店照片转竖屏漫游](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [可交互的 PS5 手柄](#interactive-ps5-controller-2095967131573649552)
 - [交互式 3D 角色卡片](#interactive-3d-character-cards-2095963576049832347)
 - [子弹时间第三人称射击](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat 浏览器漂移赛车](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### 从鱼缸到海洋的鱼类生存游戏
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="从鱼缸到海洋的鱼类生存游戏"></a>
+
+**提示词**
+
+```text
+我想创建一款鱼类模拟游戏……玩家扮演一条鱼（应该可以选择鱼的种类）。游戏开始时，我们身处家中的鱼缸，食物颗粒会从上方落下、随机生成，或者以其他方式出现。我们可以游过去吃掉食物，让自己逐渐长大。同时，场景中还可能有障碍物之类的危险，会对我们造成伤害，让体型变小。随着等级提升，我们会逐步进入更大的区域，最终抵达海洋。可食用的食物应不断变化，我们还可以吃掉其他鱼类和各种生物，等等。
+首先将这款游戏的完整玩法循环、关卡设计等内容定义到一个 Markdown 文件中，然后实现为一款可以在本地浏览器中游玩的游戏。请选择所需的技术栈。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096156244180664627) · [查看原帖](https://x.com/AVachaspat92841/status/2096156244180664627) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone 大逃杀竞技场
@@ -1105,27 +1134,7 @@ Make me the most insane and blast of a high-speed anti-gravity combat racer you 
 
 ---
 
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat 浏览器漂移赛车
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat 浏览器漂移赛车"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据一句话在浏览器中构建完整街机街头赛车。实现爽快漂移物理、连击计分、擦肩奖励、测速点、氮气、交通、清晰 HUD 和可重复游玩的短赛道。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [查看原帖](https://x.com/higgsfield_ai/status/2095916820431827408) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 9** · [→](catalog.zh.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

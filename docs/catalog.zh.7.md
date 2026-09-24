@@ -28,6 +28,7 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [Unreal 自主人类生存社会](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [火星 Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
 - [一个灰盒生成三款主题卡丁车游戏](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [程序化瀑布场景](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [平面图转 Blender 漫游](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [确定性 13.6 万体素宝塔](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [通过 Blender 自动化构建高细节机器人](#detailed-robot-through-blender-automation-2094909825561805003)
-- [开放世界犯罪游戏原型](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Unreal 自主人类生存社会
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal 自主人类生存社会"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Unreal Engine 中创建一个由自主人类智能体组成的世界。赋予每个人独立需求与共同生存目标，让他们在玩家离开后仍会交流、分工、搭建庇护所并维持社会运转。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [查看原帖](https://x.com/mattshumer_/status/2095596175705399482) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### 火星 Arcadia 基地
@@ -1074,27 +1094,7 @@ Create the most impressive website you can in a single self-contained HTML file.
 
 ---
 
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### 开放世界犯罪游戏原型
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="开放世界犯罪游戏原型"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-原型化一款受 GTA 6 启发的开放世界游戏，包含密集城市、步行探索、可驾驶载具、交通、警察响应与多种可玩活动。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [查看原帖](https://x.com/vikktorrrre/status/2094907986942591338) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.6.md) · **7 / 9** · [→](catalog.zh.8.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

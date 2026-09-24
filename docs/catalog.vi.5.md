@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](#gpt-6-astra-2096156244180664627)
 - [Dropzone: đấu trường battle royale](#dropzone-battle-royale-arena-2096155883122413946)
 - [Game bay trên trình duyệt](#browser-flight-game-2096149823216898445)
 - [Từ ảnh quán cà phê đến video tham quan khung dọc](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [Tay cầm PS5 tương tác](#interactive-ps5-controller-2095967131573649552)
 - [Thẻ nhân vật 3D tương tác](#interactive-3d-character-cards-2095963576049832347)
 - [Game bắn súng góc nhìn thứ ba với bullet time](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat: game drift trên trình duyệt](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Trò chơi sinh tồn của cá: Từ bể cá đến đại dương
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Trò chơi sinh tồn của cá: Từ bể cá đến đại dương"></a>
+
+**Prompt**
+
+```text
+Tôi muốn tạo một trò chơi mô phỏng cá, trong đó người chơi điều khiển một chú cá (có thể chọn cá).. Trò chơi bắt đầu trong một bể cá tại nhà, nơi các hạt thức ăn rơi xuống, xuất hiện hoặc được tạo ra theo cách phù hợp.. Người chơi có thể bơi đến ăn thức ăn để cá lớn hơn.. Ngoài ra, có thể có chướng ngại vật và những thứ khác gây sát thương, khiến cá nhỏ lại. Khi lên cấp, cá sẽ lần lượt tiến vào những khu vực lớn hơn cho đến khi vươn ra đại dương và các môi trường tương tự. Loại thức ăn có thể thay đổi liên tục; cá cũng có thể ăn những loài cá và sinh vật khác.. 
+Trước tiên, hãy xác định toàn bộ vòng lặp gameplay, thiết kế cấp độ và các yếu tố liên quan cho trò chơi này trong một tệp md, sau đó triển khai thành một trò chơi mà tôi có thể chơi cục bộ trên trình duyệt. Hãy chọn tech stack cần thiết.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096156244180664627) · [Bài đăng gốc](https://x.com/AVachaspat92841/status/2096156244180664627) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone: đấu trường battle royale
@@ -1111,26 +1140,6 @@ Dựng game bắn súng Three.js góc nhìn thứ ba lấy cảm hứng Max Payn
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Bài đăng gốc](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat: game drift trên trình duyệt
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: game drift trên trình duyệt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game đua xe đường phố arcade hoàn chỉnh trên trình duyệt từ một câu. Có vật lý drift đã tay, điểm combo, thưởng lách sát, camera tốc độ, nitro, giao thông, HUD rõ ràng và đường đua ngắn dễ chơi lại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095916820431827408) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

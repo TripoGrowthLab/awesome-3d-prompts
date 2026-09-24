@@ -28,6 +28,7 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [集換式卡牌的對戰遊戲循環](#trading-card-battle-game-loop-2096555856204644550)
 - [可互動的雙環能量核心](#interactive-dual-ring-energy-core-2096551010089263181)
 - [以西結的聖殿異象：3D 場景](#gpt-6-astra-2096547658164834788)
 - [在 Blender 中切換角色表情](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [參考圖轉拖船模型](#reference-image-tugboat-assembly-2096180220839760375)
 - [響應式 WebGL 角色 Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [咖啡杯裡的海洋生命](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [從魚缸到海洋的魚類生存遊戲](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### 集換式卡牌的對戰遊戲循環
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="集換式卡牌的對戰遊戲循環"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Three.js 製作集換式卡牌遊戲原型：購買牌組與補充包、組建牌組、進入競技場對戰並獲得獎勵。保留以完成版資產替換暫用網格的彈性。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原文](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### 可互動的雙環能量核心
@@ -1765,35 +1785,6 @@ Test it in the browser yourself and fix any visual or interaction bugs before fi
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [查看原文](https://x.com/PolaczekSagi/status/2096174858837074198) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### 從魚缸到海洋的魚類生存遊戲
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="從魚缸到海洋的魚類生存遊戲"></a>
-
-**提示詞**
-
-```text
-我想製作一款魚類模擬遊戲……玩家可以選擇要扮演的魚。我們一開始會在房子裡的水族箱中，食物粒子會從上方落下、生成，或以其他方式出現。我們可以游向食物並吃掉它，讓自己長得更大；遊戲中也可能有障礙物之類的危險，會對我們造成傷害，讓體型變小。隨著等級提升，我們會逐步進入更大的區域，最後抵達海洋之類的環境。我們吃的食物可以持續變化，也能吃掉其他魚類與各種生物。
-請先將這款遊戲完整的遊戲循環、關卡設計等內容定義在一個 Markdown 檔案中，接著再實作成一款能在瀏覽器本機遊玩的遊戲。請選擇所需的技術堆疊。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096156244180664627) · [查看原文](https://x.com/AVachaspat92841/status/2096156244180664627) · [返回案例導覽](#all-prompts)
 
 ---
 

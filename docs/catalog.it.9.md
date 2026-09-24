@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Esplora gli esempi (17)</summary>
+<summary>Esplora gli esempi (18)</summary>
 
+- [Un gioco per browser ispirato a Counter-Strike creato con Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Prompt Kimi K3 per un nascondino in una sola istruzione](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Una richiesta di modellazione procedurale di armi Three.js per Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Tre prompt per armi procedurali Three.js in un unico HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Prompt Three.js per visitare un aereo dall'interno](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Un gioco per browser ispirato a Counter-Strike creato con Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Un gioco per browser ispirato a Counter-Strike creato con Kimi K3"></a>
+
+**Prompt**
+
+```text
+Ho costruito un gioco ispirato a Counter-Strike nel browser con Kimi K3.
+
+Un file HTML. Oltre 3.700 righe di codice. Nessuna compilazione.
+
+Include:
+
+🔫 Layout ispirato a Dust2 con tunnel, passerella e Long A
+🎯 AK, AWP con mirino, MP5, coltello e ricarica
+🤖 10 bot AI che pattugliano, reagiscono agli spari e avanzano verso di te
+💥 Colpi alla testa, registro eliminazioni e round da 2 minuti
+🔊 Audio completamente procedurale senza file sonori
+🌐 Three.js e materiali PBR, interamente nel browser
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Post originale](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Prompt Kimi K3 per un nascondino in una sola istruzione

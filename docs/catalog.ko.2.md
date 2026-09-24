@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [난간에 유지보수용 체인 추가](#gpt-6-astra-2100519026720231698)
 - [인터랙티브 복셀 나이트 모닥불 장면](#gpt-6-astra-2100350159540596760)
 - [아이소메트릭 판타지 그래픽 데모](#gpt-6-astra-2100271998618177864)
 - [AKARI: 나고야 옥상 성화 봉송](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [18홀 골프 코스를 더 까다롭게 만들기](#gpt-6-astra-2098038909514944562)
 - [Mosswing: 모바일 3D 탭 플랩 게임](#mosswing-mobile-3d-tap-to-flap-game)
 - [대사 없는 3D 고양이 간식 숏](#gpt-6-astra-2097900087901106244)
-- [인터랙티브 판타지 그래픽 데모](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### 난간에 유지보수용 체인 추가
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="난간에 유지보수용 체인 추가"></a>
+
+**프롬프트**
+
+```text
+난간에 유지보수용 체인 달아 줘!
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100519026720231698) · [원본 게시물](https://x.com/ujiden_type0/status/2100519026720231698) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### 인터랙티브 복셀 나이트 모닥불 장면
@@ -3883,33 +3910,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097900087901106244) · [원본 게시물](https://x.com/boboga777/status/2097900087901106244) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### 인터랙티브 판타지 그래픽 데모
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="인터랙티브 판타지 그래픽 데모"></a>
-
-**프롬프트**
-
-```text
-Dream Loop Plus를 사용해 그래픽 데모를 만들어 주세요. 아이소메트릭 카메라, 사실적인 셰이딩과 반사되는 젖은 바닥, 흥미로운 장면 속 캐릭터를 구현해 주세요. 판타지 배경으로 구성해 주세요(Elden Ring, Diablo 같은 분위기). 브라우저에서 실행되는 Three.js로 제작하고, 60fps를 초과하는 성능을 유지해 주세요. 조작 방식은 다음과 같습니다. 클릭하면 캐릭터가 이동하고 카메라는 느슨하게 따라옵니다. 드래그로 카메라를 회전하고, 스크롤로 확대 및 축소합니다. 지금은 게임플레이를 추가하지 마세요. 세계가 살아 있는 듯 느껴지도록 움직임, 애니메이션, 미묘한 환경 반응을 구현해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097821164093480999) · [원본 게시물](https://x.com/anshuc/status/2097821164093480999) · [사례 목록으로](#all-prompts)
 
 ---
 

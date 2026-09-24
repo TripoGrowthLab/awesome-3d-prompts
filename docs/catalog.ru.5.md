@@ -28,6 +28,7 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Игра про выживание рыбы: от аквариума до океана](#gpt-6-astra-2096156244180664627)
 - [Dropzone — арена королевской битвы](#dropzone-battle-royale-arena-2096155883122413946)
 - [Браузерная игра о полётах](#browser-flight-game-2096149823216898445)
 - [Из фотографии кофейни в вертикальную видеопрогулку](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [Интерактивный контроллер PS5](#interactive-ps5-controller-2095967131573649552)
 - [Интерактивные 3D-карточки персонажей](#interactive-3d-character-cards-2095963576049832347)
 - [Шутер от третьего лица с замедлением времени](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat: браузерные дрифт-гонки](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Игра про выживание рыбы: от аквариума до океана
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Игра про выживание рыбы: от аквариума до океана"></a>
+
+**Промпт**
+
+```text
+Я хочу создать игру-симулятор рыбы, где мы играем за рыбу, которую можно выбрать. В начале мы находимся в домашнем аквариуме: частицы корма падают сверху, появляются в воде или делают что-то подобное. Мы можем подплывать к ним и есть корм, чтобы расти. Также могут встречаться препятствия и другие объекты, которые наносят урон и уменьшают нас. По мере повышения уровня мы постепенно переходим во всё более просторные локации, пока не доберёмся до океана и других подобных мест. Корм, который мы едим, может постоянно меняться: мы сможем есть других рыб, различных существ и всё в таком духе.
+Сначала опишите полный игровой цикл, дизайн уровней и другие составляющие этой игры в MD-файле, а затем реализуйте её, чтобы я мог локально запускать и играть в неё в браузере. Выберите подходящий технологический стек.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096156244180664627) · [Исходная публикация](https://x.com/AVachaspat92841/status/2096156244180664627) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone — арена королевской битвы
@@ -1111,26 +1140,6 @@ Make me the most insane and blast of a high-speed anti-gravity combat racer you 
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Исходная публикация](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat: браузерные дрифт-гонки
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: браузерные дрифт-гонки"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай полноценные аркадные уличные гонки в браузере по одному предложению. Реализуй приятную физику дрифта, очки за комбо, бонусы за опасные сближения, камеры скорости, нитро, транспорт, понятный HUD и короткую трассу для повторных заездов.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095916820431827408) · [Назад к примерам](#all-prompts)
 
 ---
 

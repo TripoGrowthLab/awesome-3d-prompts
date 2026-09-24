@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Nguyên mẫu game tội phạm thế giới mở](#open-world-crime-game-prototype-2094907986942591338)
 - [Game trình duyệt kiểu Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
 - [Sandbox đại dương góc nhìn thứ nhất dưới mưa](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [Đảo voxel nổi](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [Rừng Kẹo Dẻo: Game đi cảnh 3D](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### Nguyên mẫu game tội phạm thế giới mở
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Nguyên mẫu game tội phạm thế giới mở"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng nguyên mẫu game thế giới mở lấy cảm hứng GTA 6, với thành phố dày đặc, đi bộ, xe lái được, giao thông, phản ứng của cảnh sát và nhiều hoạt động có thể chơi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Bài đăng gốc](https://x.com/vikktorrrre/status/2094907986942591338) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Game trình duyệt kiểu Mini Militia
@@ -1197,35 +1217,6 @@ dựng phố ngoại ô Nhật Bản có thể khám phá trong Three.js, hoàn 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Bài đăng gốc](https://x.com/gmi_cloud/status/2080834581247435102) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3"></a>
-
-**Prompt**
-
-```text
-Dựng game lấy cảm hứng Counter-Strike trên trình duyệt bằng Kimi K3.
-
-Một tệp HTML. Hơn 3.700 dòng mã. Không cần bước build.
-
-Có:
-
-🔫 Bố cục kiểu Dust2 với đường hầm, catwalk và Long A
-🎯 AK, AWP có kính ngắm, MP5, dao và nạp đạn
-🤖 10 bot AI tuần tra, phản ứng với tiếng súng và áp sát vị trí bạn
-💥 Headshot, bảng hạ gục và hệ vòng hai phút
-🔊 Âm thanh hoàn toàn thủ tục, không có tệp âm thanh
-🌐 Dựng bằng Three.js và vật liệu PBR, chạy hoàn toàn trong trình duyệt
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

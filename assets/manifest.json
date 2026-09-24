@@ -313,6 +313,16 @@
       ]
     },
     {
+      "path": "assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp",
+      "fingerprint": "709f4e945a9d87b7a3b5840c616b6c77d5e82d3c58543f85a2fb45b6ab97cf63",
+      "sha256": "0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f",
+      "bytes": 28812,
+      "sourceUrl": "https://x.com/jaredliu_bravo",
+      "promptIds": [
+        "crazy-tanks-3d-island-artillery"
+      ]
+    },
+    {
       "path": "assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp",
       "fingerprint": "284099bfbeac077059d1f52c10a98be5f7efd05dfcc547d388636cb6bf06c64d",
       "sha256": "0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4",

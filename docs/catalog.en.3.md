@@ -28,6 +28,7 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Interactive fantasy graphics demo](#gpt-6-astra-2097821164093480999)
 - [Minecraft clone with multiplayer](#gpt-6-astra-2097797479488246071)
 - [Interactive 3D particle collider](#gpt-6-astra-2097781208596029936)
 - [Live 3D factory launch-pad simulation](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,26 @@
 - [A 2D logo becomes an animated character](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [Interactive miniature of Seoul](#interactive-miniature-of-seoul-2096557555086725159)
 - [Mobile-playable Unity rally game](#mobile-playable-unity-rally-game-2096556692842348826)
-- [Trading-card battle game loop](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### Interactive fantasy graphics demo
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Interactive fantasy graphics demo"></a>
+
+**Prompt**
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097821164093480999) · [Original post](https://x.com/anshuc/status/2097821164093480999) · [Back to examples](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### Minecraft clone with multiplayer
@@ -1944,27 +1962,7 @@ Build a rally-driving prototype with Codex, Blender and Unity. Prepare its 3D as
 
 ---
 
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### Trading-card battle game loop
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Trading-card battle game loop"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Original post](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.2.md) · **3 / 9** · [→](catalog.en.4.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 418 examples and live previews →</a></strong></p>

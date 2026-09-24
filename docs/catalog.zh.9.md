@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (17)</summary>
+<summary>浏览案例 (18)</summary>
 
+- [使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏](#counter-strike-inspired-browser-game-2080821527365218759)
 - [用于 Kimi K3 的一次性捉迷藏游戏提示](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5 的程序化 Three.js 武器建模任务](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [三个单文件 HTML Three.js 程序化枪械提示](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### 使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏"></a>
+
+**提示词**
+
+```text
+用 Kimi K3 在浏览器里做了一个受《反恐精英》启发的游戏。
+
+一个 HTML 文件。超过 3700 行代码。无需构建步骤。
+
+它包含：
+
+🔫 受 Dust2 启发的布局，带有隧道、猫道和 A 长 
+🎯 AK、带瞄准镜的 AWP、MP5、刀和换弹机制 
+🤖 10 个 AI 机器人，会巡逻、对枪声做出反应，并推进到你的位置 
+💥 爆头、击杀信息，以及 2 分钟的回合系统 
+🔊 完全程序化音频，没有任何音效文件 
+🌐 使用 Three.js 和 PBR 材质构建，完全在浏览器中运行
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [查看原帖](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### 用于 Kimi K3 的一次性捉迷藏游戏提示
@@ -403,4 +433,4 @@ The Hype 将 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同�
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 9**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

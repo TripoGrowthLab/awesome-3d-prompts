@@ -28,6 +28,7 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [集换式卡牌战斗循环](#trading-card-battle-game-loop-2096555856204644550)
 - [双环能量核心交互展示](#interactive-dual-ring-energy-core-2096551010089263181)
 - [以西结的圣殿异象：3D 场景](#gpt-6-astra-2096547658164834788)
 - [Blender 角色表情切换](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [参考图转拖船模型](#reference-image-tugboat-assembly-2096180220839760375)
 - [响应式 WebGL 角色 Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [咖啡杯里的海洋生命](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [从鱼缸到海洋的鱼类生存游戏](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### 集换式卡牌战斗循环
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="集换式卡牌战斗循环"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+制作 Three.js 集换式卡牌原型：购买牌组和补充包、组牌、进入竞技场战斗并获得奖励。让占位网格可以替换为成品资产。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原帖](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### 双环能量核心交互展示
@@ -1768,36 +1788,7 @@ Test it in the browser yourself and fix any visual or interaction bugs before fi
 
 ---
 
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### 从鱼缸到海洋的鱼类生存游戏
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="从鱼缸到海洋的鱼类生存游戏"></a>
-
-**提示词**
-
-```text
-我想创建一款鱼类模拟游戏……玩家扮演一条鱼（应该可以选择鱼的种类）。游戏开始时，我们身处家中的鱼缸，食物颗粒会从上方落下、随机生成，或者以其他方式出现。我们可以游过去吃掉食物，让自己逐渐长大。同时，场景中还可能有障碍物之类的危险，会对我们造成伤害，让体型变小。随着等级提升，我们会逐步进入更大的区域，最终抵达海洋。可食用的食物应不断变化，我们还可以吃掉其他鱼类和各种生物，等等。
-首先将这款游戏的完整玩法循环、关卡设计等内容定义到一个 Markdown 文件中，然后实现为一款可以在本地浏览器中游玩的游戏。请选择所需的技术栈。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096156244180664627) · [查看原帖](https://x.com/AVachaspat92841/status/2096156244180664627) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.3.md) · **4 / 9** · [→](catalog.zh.5.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>

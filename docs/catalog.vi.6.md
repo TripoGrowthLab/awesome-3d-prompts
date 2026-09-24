@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Street Heat: game drift trên trình duyệt](#street-heat-browser-drift-racer-2095916820431827408)
 - [Nguyên mẫu game chơi được thật nhanh](#rapid-playable-game-prototype-2095907526566990013)
 - [Phòng ngủ cyberpunk lặp vô tận trong Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Game arcade văn hóa tự chơi](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [Nguyên mẫu tương tác cao cấp trong một lượt](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [Thế giới kiểu Minecraft từ một yêu cầu](#one-shot-minecraft-style-world-2095597137849446688)
 - [Phiêu lưu thế giới mở trên trình duyệt](#open-world-browser-adventure-2095596341422440714)
-- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat: game drift trên trình duyệt
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: game drift trên trình duyệt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game đua xe đường phố arcade hoàn chỉnh trên trình duyệt từ một câu. Có vật lý drift đã tay, điểm combo, thưởng lách sát, camera tốc độ, nitro, giao thông, HUD rõ ràng và đường đua ngắn dễ chơi lại.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095916820431827408) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### Nguyên mẫu game chơi được thật nhanh
@@ -1073,26 +1093,6 @@ Tạo một game phiêu lưu 3D thế giới mở với nhiều quần xã kết
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Bài đăng gốc](https://x.com/petergostev/status/2095596341422440714) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Xã hội sinh tồn của những con người tự chủ trong Unreal Engine
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Xã hội sinh tồn của những con người tự chủ trong Unreal Engine"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một thế giới trong Unreal Engine với những nhân vật con người tự chủ. Mỗi người có nhu cầu riêng và cùng hướng đến mục tiêu sinh tồn, buộc họ phải giao tiếp, phân chia công việc, dựng nơi trú ẩn và duy trì xã hội ngay cả khi người chơi rời đi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

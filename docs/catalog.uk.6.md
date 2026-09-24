@@ -28,6 +28,7 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Street Heat: браузерні дрифт-перегони](#street-heat-browser-drift-racer-2095916820431827408)
 - [Швидкий ігровий прототип](#rapid-playable-game-prototype-2095907526566990013)
 - [Зациклена кіберпанкова спальня в Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Аркада з культурною темою, що грає сама](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [Якісний інтерактивний прототип за один запит](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [Світ у стилі Minecraft за один запит](#one-shot-minecraft-style-world-2095597137849446688)
 - [Браузерна пригода у відкритому світі](#open-world-browser-adventure-2095596341422440714)
-- [Спільнота автономних людей в Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat: браузерні дрифт-перегони
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: браузерні дрифт-перегони"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи повноцінні аркадні вуличні перегони у браузері за одним реченням. Реалізуй приємну фізику дрифту, очки за комбо, бонуси за небезпечні зближення, камери швидкості, нітро, транспорт, зрозумілий HUD і коротку трасу для повторних заїздів.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095916820431827408) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### Швидкий ігровий прототип
@@ -1073,26 +1093,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Оригінальний допис](https://x.com/petergostev/status/2095596341422440714) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Спільнота автономних людей в Unreal Engine
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Спільнота автономних людей в Unreal Engine"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи світ в Unreal Engine, населений автономними людьми. Задай кожному власні потреби та спільну мету виживання: вони мають спілкуватися, розподіляти роботу, будувати укриття й підтримувати життя спільноти, навіть коли гравець іде.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Оригінальний допис](https://x.com/mattshumer_/status/2095596175705399482) · [Назад до прикладів](#all-prompts)
 
 ---
 

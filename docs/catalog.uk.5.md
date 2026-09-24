@@ -28,6 +28,7 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Гра про виживання риби: від акваріума до океану](#gpt-6-astra-2096156244180664627)
 - [Dropzone — арена королівської битви](#dropzone-battle-royale-arena-2096155883122413946)
 - [Браузерна гра про польоти](#browser-flight-game-2096149823216898445)
 - [Від фото кав’ярні до вертикальної відеопрогулянки](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [Інтерактивний контролер PS5](#interactive-ps5-controller-2095967131573649552)
 - [Інтерактивні 3D-картки персонажів](#interactive-3d-character-cards-2095963576049832347)
 - [Шутер від третьої особи зі сповільненням часу](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat: браузерні дрифт-перегони](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Гра про виживання риби: від акваріума до океану
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Гра про виживання риби: від акваріума до океану"></a>
+
+**Промпт**
+
+```text
+Я хочу створити гру-симулятор риби — ми граємо за рибу, яку можна обрати. Спочатку ми опиняємося в домашньому акваріумі, де вниз падають або просто з’являються частинки їжі. Ми можемо підпливати до них і їсти, щоб рости. Також можуть бути перешкоди та інші об’єкти, які завдають шкоди й зменшують наш розмір. Після підвищення рівня ми поступово переходимо до дедалі більших просторів, аж поки не досягнемо океану. Їжа, яку ми їмо, може змінюватися: ми зможемо їсти інших риб, різних істот тощо.
+Спочатку опишіть повний ігровий цикл, дизайн рівнів та інші складові цієї гри у файлі Markdown, а потім реалізуйте її, щоб я міг грати локально у браузері. Самостійно оберіть потрібний технологічний стек.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096156244180664627) · [Оригінальний допис](https://x.com/AVachaspat92841/status/2096156244180664627) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone — арена королівської битви
@@ -1111,26 +1140,6 @@ Make me the most insane and blast of a high-speed anti-gravity combat racer you 
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Оригінальний допис](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat: браузерні дрифт-перегони
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: браузерні дрифт-перегони"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи повноцінні аркадні вуличні перегони у браузері за одним реченням. Реалізуй приємну фізику дрифту, очки за комбо, бонуси за небезпечні зближення, камери швидкості, нітро, транспорт, зрозумілий HUD і коротку трасу для повторних заїздів.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095916820431827408) · [Назад до прикладів](#all-prompts)
 
 ---
 

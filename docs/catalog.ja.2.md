@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [手摺にメンテ用チェーンを追加](#gpt-6-astra-2100519026720231698)
 - [インタラクティブなボクセル騎士と焚き火のシーン](#gpt-6-astra-2100350159540596760)
 - [アイソメトリックなファンタジーグラフィックスデモ](#gpt-6-astra-2100271998618177864)
 - [AKARI：名古屋の屋上をつなぐ炎のリレー](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,26 @@
 - [18ホールのゴルフコースをより難しくする](#gpt-6-astra-2098038909514944562)
 - [Mosswing：モバイル向け3Dタップ飛行ゲーム](#mosswing-mobile-3d-tap-to-flap-game)
 - [セリフなしの3D猫おやつショート](#gpt-6-astra-2097900087901106244)
-- [インタラクティブなファンタジーグラフィックスデモ](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### 手摺にメンテ用チェーンを追加
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="手摺にメンテ用チェーンを追加"></a>
+
+**プロンプト**
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100519026720231698) · [元の投稿](https://x.com/ujiden_type0/status/2100519026720231698) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### インタラクティブなボクセル騎士と焚き火のシーン
@@ -2991,33 +3009,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097900087901106244) · [元の投稿](https://x.com/boboga777/status/2097900087901106244) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### インタラクティブなファンタジーグラフィックスデモ
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="インタラクティブなファンタジーグラフィックスデモ"></a>
-
-**プロンプト**
-
-```text
-Dream Loop Plusを使って、グラフィックスデモを作成してください。等角投影カメラ、リアルなシェーディングと反射する濡れた床、印象的なシーンに立つキャラクターを用意します。舞台はファンタジー世界（Elden RingやDiabloのような雰囲気）にしてください。ブラウザ上のThree.jsで動作させ、フレームレートは>60fpsを目標にします。操作方法：クリックでキャラクターを移動、カメラは遅れて追従、ドラッグでカメラを回転、スクロールでズームイン／ズームアウトします。現時点ではゲームプレイは追加しないでください。世界に生命感を持たせるため、動きやアニメーション、さりげない環境の挙動を加えてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097821164093480999) · [元の投稿](https://x.com/anshuc/status/2097821164093480999) · [作例一覧に戻る](#all-prompts)
 
 ---
 

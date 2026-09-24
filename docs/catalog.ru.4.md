@@ -28,6 +28,7 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Игровой цикл сражений коллекционными картами](#trading-card-battle-game-loop-2096555856204644550)
 - [Интерактивное энергетическое ядро с двумя кольцами](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Видение храма Иезекииля в 3D](#gpt-6-astra-2096547658164834788)
 - [Переключаемые выражения лица в Blender](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [Сборка буксира по референсам](#reference-image-tugboat-assembly-2096180220839760375)
 - [Zubli — отзывчивый персонаж WebGL](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Морская жизнь в чашке кофе](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Игра про выживание рыбы: от аквариума до океана](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Игровой цикл сражений коллекционными картами
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Игровой цикл сражений коллекционными картами"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создайте прототип коллекционной карточной игры на Three.js: покупка колод и бустеров, сборка колоды, выход на боевую арену и получение наград. Сохраните возможность заменить временные сетки готовыми моделями.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Исходная публикация](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### Интерактивное энергетическое ядро с двумя кольцами
@@ -1765,35 +1785,6 @@ Test it in the browser yourself and fix any visual or interaction bugs before fi
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Исходная публикация](https://x.com/PolaczekSagi/status/2096174858837074198) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Игра про выживание рыбы: от аквариума до океана
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Игра про выживание рыбы: от аквариума до океана"></a>
-
-**Промпт**
-
-```text
-Я хочу создать игру-симулятор рыбы, где мы играем за рыбу, которую можно выбрать. В начале мы находимся в домашнем аквариуме: частицы корма падают сверху, появляются в воде или делают что-то подобное. Мы можем подплывать к ним и есть корм, чтобы расти. Также могут встречаться препятствия и другие объекты, которые наносят урон и уменьшают нас. По мере повышения уровня мы постепенно переходим во всё более просторные локации, пока не доберёмся до океана и других подобных мест. Корм, который мы едим, может постоянно меняться: мы сможем есть других рыб, различных существ и всё в таком духе.
-Сначала опишите полный игровой цикл, дизайн уровней и другие составляющие этой игры в MD-файле, а затем реализуйте её, чтобы я мог локально запускать и играть в неё в браузере. Выберите подходящий технологический стек.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096156244180664627) · [Исходная публикация](https://x.com/AVachaspat92841/status/2096156244180664627) · [Назад к примерам](#all-prompts)
 
 ---
 

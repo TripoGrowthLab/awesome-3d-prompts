@@ -28,6 +28,7 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Jeu de survie d’un poisson, de l’aquarium à l’océan](#gpt-6-astra-2096156244180664627)
 - [Dropzone : une arène de battle royale](#dropzone-battle-royale-arena-2096155883122413946)
 - [Un jeu de vol dans le navigateur](#browser-flight-game-2096149823216898445)
 - [D’une photo de café à une visite au format vertical](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [Une manette PS5 interactive](#interactive-ps5-controller-2095967131573649552)
 - [Des cartes de personnages 3D interactives](#interactive-3d-character-cards-2095963576049832347)
 - [Un jeu de tir à la troisième personne en bullet time](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat : dérapages urbains dans le navigateur](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Jeu de survie d’un poisson, de l’aquarium à l’océan
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Jeu de survie d’un poisson, de l’aquarium à l’océan"></a>
+
+**Prompt**
+
+```text
+Je veux créer un jeu de simulation de poisson… où l’on incarne un poisson (que l’on doit pouvoir sélectionner). On commence dans l’aquarium d’une maison, où des particules de nourriture tombent, apparaissent ou sont générées d’une manière ou d’une autre. On peut nager jusqu’à elles et les manger pour grandir. Il peut aussi y avoir des obstacles et d’autres éléments qui nous infligent des dégâts et nous font rapetisser. Ensuite, à mesure que l’on monte de niveau, on passe progressivement dans des zones plus vastes, jusqu’à atteindre l’océan et ses environs. La nourriture que l’on mange peut changer au fil du jeu : on peut manger d’autres poissons, d’autres créatures, etc.
+Commence par définir la boucle de gameplay complète, la conception des niveaux et les autres éléments du jeu dans un fichier .md, puis implémente le tout dans un jeu auquel je peux jouer localement dans mon navigateur. Choisis la stack technique nécessaire.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096156244180664627) · [Publication originale](https://x.com/AVachaspat92841/status/2096156244180664627) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone : une arène de battle royale
@@ -1111,26 +1140,6 @@ Construis un jeu de tir Three.js à la troisième personne inspiré de Max Payne
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Publication originale](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat : dérapages urbains dans le navigateur
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat : dérapages urbains dans le navigateur"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Construis un jeu de course urbaine arcade complet pour navigateur à partir d'une seule phrase. Réalise une physique de dérapage satisfaisante, un score par combos, des bonus pour les frôlements, des radars, du nitro, de la circulation, un HUD lisible et un parcours court que l'on a envie de rejouer.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Publication originale](https://x.com/higgsfield_ai/status/2095916820431827408) · [Retour aux exemples](#all-prompts)
 
 ---
 

@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Claude gelişim montajı](#claude-opus-5-5-2102788371114246177)
 - [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](#claude-opus-5-5-2102788223835463902)
 - [Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası](#gpt-6-astra-2102788013902213508)
@@ -77,9 +78,62 @@
 - [CAD ile kendi gövdesi](#gpt-6-astra-2100614534423540102)
 - [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#gpt-6-astra-2100595652703199281)
 - [3B Yarış Oyunu Oluştur](#gpt-6-astra-2100526922770026874)
-- [Korkuluğa bakım zinciri ekle](#gpt-6-astra-2100519026720231698)
 
 </details>
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — 3B Ada Topçuluğu
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a>
+
+**İstem**
+
+```text
+1. Proje amacı
+Crazy Tanks — Wild Tides adlı, tropik bir adada geçen, oynanabilir ve gerçek anlamda üç boyutlu, sıra tabanlı bir topçu oyunu oluşturun. Oyuncu küçük bir tankı nişan alır, rüzgârı okur, gücü sıfırdan doldurup doğru anda ateşler ve mermilerle savaş alanının şeklini değiştirir. Yapay zekâya karşı tek oyunculu ve yerel sırayla oynama modlarını destekleyin. Varsayılan modda üç tankın serbest savaşı, isteğe bağlı olarak da iki tanklı düello bulunsun. Hayatta kalan son tank kazanır. Görsel hedef olarak mevcut referans oynanışını ve ekran görüntülerini kullanın.
+
+2. Görsel stil
+Sabit bir yandan görünüm veya düz sprite'lar yerine perspektif kamera ve serbestçe döndürülebilen 3B geometri kullanın. Yuvarlatılmış yeşim yeşili, mercan turuncusu ve mavi-mor tanklar; krem rengi kum; açık yeşil çimen; turkuaz, yansıtıcı su; yumuşak gölgeler ve hafif atmosferik uzaklık sisiyle güneşli, minyatür bir diorama oluşturun. Üç tankın ayırt edici silüetlerini ve bunlarla eşleşen namluları koruyun. Savaş alanının üzerinde kompakt, krem renkli yuvarlak/zırh paneli; altında ise koyu teal renkli, yuvarlatılmış bir kontrol paneli kullanın. Altın rengi, referans gücü ve ateşleme eylemini; mint rengi ise gerçek dolum gücünü ve dost durumunu belirtir. Tripo / Three.js görünüm değiştirme seçeneğini üst kısımda belirgin tutun ve varsayılan olarak Tripo varlıklarını kullanın. Görünüm değiştirilirken karşılaşma ve fizik durumu korunmalıdır. İnce ve eşit aralıklı teal ekran-uzayı çizgileri ile sade bir iniş dairesi kullanın; nişan grafiklerini suya yansıtmayın.
+
+3. Dünya ve sahne
+Yaklaşık 260 × 184 metre boyutlarında, sabit deniz seviyesindeki okyanusla çevrili, parçalanabilir bir yükseklik alanı adası kullanın. Başlangıç tanklarını sağlam zeminde birbirinden uzağa yerleştirin; kayalar, palmiyeler, kaktüsler ve toplanabilir ikmal sandıkları dağıtın. Daha küçük dekoratif adalar arka plan derinliği sağlasın ve asla parçalanabilir ana arazinin yerine geçmesin. Patlamalar yüzeyi deforme edebilmeli ve deniz seviyesinin altına kadar kazabilmelidir. Üst üste binen düzlemleri ve titreşmeyi önlemek için kıyı rengini ve köpüğü tek bir su yüzeyinde tutun. Tank numaralarını her oluşturulan karede dünya konumlarından yansıtın. Tam yörünge, tank, serbest kamera dönüşü ve taktik kuş bakışı görünümleri sağlayın. Yörünge görünümü, ateş eden tankı, yayı ve tahmini iniş noktasını HUD ile kontrol paneli arasındaki alana sığdırmalıdır. Her atıştan önce ateş eden tankı yaklaşık 0,8 saniye gösterin, namluda kısa süre bekleyin ve ardından mermiyi takip edin. Manuel kamera etkileşimi sinematik takibi iptal eder.
+
+4. Varlık envanteri
+Kararlı model yuvaları kullanın ve yedek modellerin her birine ayrı ayrı erişilebilmesini sağlayın:
+- jade-body: yuvarlatılmış, yeşil, kalkan biçimli paletli gövde; oyuncunun varsayılan gövdesi. jade-cannon: koyu namlu ağzına ve altın rengi ayrıntılara sahip, eşleşen yeşim yeşili namlu; bağımsız olarak hareket ettirilebilir.
+- ember-body: alçak mekanik profile sahip, mercan turuncusu renkli, sivri zırhlı gövde. ember-cannon: daha uzun, eşleşen turuncu namlu ve koyu namlu ağzı.
+- bolt-body: köşeli plakalı zırha sahip, mavi-mor renkli endüstriyel paletli gövde. bolt-cannon: eşleşen kalın mavi namlu.
+- shell: koyu renkli, konik uçlu ve camgöbeği ayrıntılı pirinç topçu mermisi. Silaha özgü renk tonu ve ölçekle yeniden kullanın.
+- crate: camgöbeği işaretli ve güçlendirilmiş köşelere sahip sarı zırhlı ikmal sandığı; toplayınca 20 zırh verir, üst sınır 100'dür.
+- rock: sıcak tonlu, yuvarlak kumtaşı kümesi; farklı ölçeklerde tekrarlayın ve ayrı bir çarpışma vekili kullanın.
+- palm: kıvrımlı gövde ve katmanlı yeşil yapraklar; ada bitkisi olarak tekrarlayın.
+- cactus: küçük çiçek ayrıntılarına sahip kompakt yeşil kaktüs; kuru arazide tekrarlayın.
+- islet: açık renkli kaya/kum kenarlarına sahip, yuvarlak çimenli arka plan adası; arenanın ötesinde tekrarlayın.
+Önceliği üç eşleşen gövde/namlu çiftine, ardından mermi/sandık ve çevre nesnelerine verin. Arazi deformasyonunu, okyanusu, köpüğü, ateşi, dumanı, şok dalgalarını, enkazı, nişan grafiklerini, aydınlatmayı, kullanıcı arayüzünü ve çarpışma vekillerini prosedürel tutun. Eşleşen gövde ve namlu parçaları aynı tasarım referansını ve ölçeği paylaşır. Namlu pivotunu mekanik eklemine yerleştirin, ileri eksenini +X yönüne hizalayın ve görünen namlu ağzını fiziksel fırlatma noktası olarak kullanın. Tank gövdelerini eğimlere kuaterniyonlarla uydurun; taret nişanı dünya uzayı yönü olarak kalmalıdır. Kaynak PBR dokularını ve UV dikişlerini koruyun. Tam çözünürlüklü indirilebilir modelleri optimize edilmiş oyun çalışma zamanı kopyalarından ayrı tutun; referanslar ve dosya kökeni gerçek üretim kaynağını belirtmelidir.
+
+5. Oynanış ve geri bildirim
+Hayatta olan her tank, sırası başladığında 18 metre hareket hakkı kazanır. WASD ve hareket pedi ekrana göre hareket eder; ok tuşları ve nişan pedi yatay ve dikey nişanı ayarlar. Kaydırıcılar yatay nişanı, 10–80 derece dikey nişanı ve 0–100 referans gücünü sağlar. Rakip seçmek yalnızca tankı ona döndürür; atışı kendi başına hesaplamamalıdır.
+Teal yay, rüzgâr yokken seçilen referans gücünü tahmin eder. Şarj sırasında bu referansı ve altın işaretçisini sabit tutun. Odaklanmış Ateş Et düğmesinde Ateş Et, Boşluk veya Enter tuşuna basılı tutmak, her seferinde gerçek gücü 0'dan başlatır; güç saniyede 18 yüzde puanı artar, 100'de sabit kalır ve bırakıldığı anda gerçek güç neyse tam olarak bir kez ateş edilir. Hızlı dokunuş zayıf bir atış yapar. 3 yüzde puanı içindeki altın bant yalnızca görsel geri bildirimdir; yaklaştırma veya gizli düzeltme yapılmaz. İşaretçi iptalinde, pencere odağı kaybolduğunda veya görünürlük kaybında işlemi iptal edin. Şarj sırasında hareket, hedef ve nişan değişikliklerini kilitleyin. Aralık girişi klavye kontrolleri aynı zamanda tareti döndürmemelidir. Sıfır güç, sabit duran mermi değil, en düşük fırlatma hızını ifade eder.
+Ok ve görünür biçimde sürüklenen rüzgâr çizgileri, rüzgârın mermiyi ittiği yönü gösterir. Rüzgârın gücünü ve saniyedeki metre cinsinden hızını etiketleyin; rüzgâr kartına tıklamak açıklamasını açmalıdır. Rüzgâr sola esiyorsa oyuncu bir miktar sağa nişan almalıdır. Daha güçlü rüzgâr ve daha uzun havada kalma süresi daha fazla sürüklenmeye neden olur. Rüzgâr atış boyunca sabit kalır ve her tur değişir. Oyuncunun önizlemesini asla otomatik olarak telafi etmeyin. Araziye inişi yaklaşık olarak tahmin edin; önizlemede tank/kaya çarpışmaları, küme parçalanması veya sekme sözü vermeyin.
+Altı mühimmat sağlayın: sınırsız HE; beş alçalan alt mühimmata ayrılan kümeli mermi; 28 metre çapa ve 13 metre derinliğe kadar krater açan Seismic; iki kez seken bir sekmeli mermi; tank başına bir adet, 46 metre çapa ve 22 metre derinliğe kadar krater açan Cataclysm; ve 12 metre yarıçapında ateş bölgesi bırakan Incendiary. Ateş, altı eylem sonunun her birinde 8 hasar verir; bölgenin dışına çıkmak hasarı önler ve üst üste gelen bölgeler birikmez. Deniz suyu alevleri söndürür. Yükseltilmiş namlusu da dâhil olmak üzere tankın tamamı suyun tamamen altına girdiğinde hemen elenir. Gerçek hasarı, zırh kaybını, arazi çökmesini, su sıçramasını ve elenme sonucunu gösterin.
+Katmanlı ateş topları, genişleyen şok halkaları, ışık saçan kıvılcımlar, balistik parçacıklar, toz ve duman kullanın; kamera sarsıntısını ölçülü tutun. Sağlanan özgün ElevenLabs müziğini ve top, çarpma, sekme, ağır patlama, ateş ve sıçrama seslerini kullanın. Ses açma/kapatma, duraklatma/devam ettirme, talimatlar, yeniden oynatma ve menüye dönme seçeneklerini ekleyin. Mermi uçuşu veya yapay zekâ turları sırasında Turuma dön seçeneği sunun: aynı sabit zaman adımı simülasyonunu hızla çalıştırın ve tüm hasar, arazi ve tehlike sonuçlarını koruyun. Yerel arkadaşın giriş turunu asla atlamayın.
+
+6. Teknik uygulama
+ES modülleri ve Vite ile Three.js kullanın; yazı tiplerini yerel olarak paketleyin, efektler için Web Audio, döngüsel müzik için HTML audio öğesi kullanın. Kaynakları aynı origin üzerinde tutun ve statik derlemeyi destekleyin. Antialiasing kullanan perspektif bir oluşturucu, makul gölge ve post-processing bütçeleri ve geçici geometri/materyallerin doğru şekilde temizlenmesini sağlayın. Model süslemelerini oyun çarpışmalarından ayırın.
+Oluşturma işleminden bağımsız, metre/saniye birimli deterministik fizik kullanın; yer çekimi 9.81 m/s², sabit zaman adımı ise 1/120 saniye olsun. Yüksek hızlı mermilerin zemin, su, tank ve kayalarla çarpışması için sürekli süpürülmüş çarpışmalar kullanın; yerinden oynayan tanklara patlama itmeleri ve yer çekimi uygulayın. Fırlatma konumlarını tanka özgü gerçek namlu dönüşümünden türetin. Normal oynatma ve hızlı ileri sarma aynı simülasyon güncellemelerini çağırmalıdır. Hasar ve rüzgâra tepki, mühendislik amaçlı patlama simülasyonu değil, stilize oyun kurallarıdır.
+Çince, İngilizce, Japonca ve Korece kullanıcı arayüzlerini destekleyin. İlk açılışta cihaz dilini kullanın; Hong Kong, Makao, Tayvan ve Geleneksel Çince kullanan cihazlarda varsayılan dil İngilizce olsun. Açıkça yapılan seçimleri hatırlayın ve görünür bir dil seçici sunun. Masaüstü, dikey telefon ve kısa yatay ekran düzenlerine uyum sağlayın; kısa ekran menülerini kaydırılabilir yapın, dokunma hedeflerini rahat kullanılır boyutta tutun, panelleri daraltılabilir yapın ve kontrollerin üst üste binmesini önleyin. Dokunmatik cihazlarda klavye girişi gerektirmeyin. Yalnızca geliştirme amaçlı durum değişikliklerini ve nişan yardımcılarını üretim kodundan çıkarın.
+
+7. Tamamlanma kriterleri
+Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/derleme talimatları ve çalışan bir statik önizleme teslim edin. Krem renkli durum paneli, sabit altın referans işaretçisi, sıfırdan başlayan canlı güç dolumu ve tamamen 3B tank/ada sunumu dâhil olmak üzere mevcut ekran görüntüleriyle oynanış videosuna uyun. İlk açılışı, model yüklemeyi, eksiksiz bir tur döngüsünü, her mühimmatın davranışını, duraklatmayı, yeniden oynatmayı ve gerçek bir kazanma/kaybetme sonucunu doğrulayın. Görünüm değiştirmenin durumu koruduğunu, klavye/dokunma iptalinin ateşlemeye yol açmadığını doğrulayın. Rüzgârsız, açık bir test atışında referans gücünde bırakıldığında mermi referans dairesine yakın düşmelidir; zıt yönlü yan rüzgârlar, bu daireyi değiştirmeden gerçek mermiyi görünür biçimde saptırmalıdır. 30/60/144 Hz davranışını, yüksek hızlı çarpışmayı, derin kraterleri, ateşin sönmesini, tamamen suya batma sonucu elenmeyi ve normal/hızlı ileri sarma turlarının aynı sonuçları üretmesini kontrol edin. Dört dilde masaüstü ve dar ekran düzenlerini inceleyin; tarayıcı emülasyonunu fiziksel cihaz testlerinden ayrı olarak belirtin. Yalnızca yerel derlemeyi değil, barındırılan sayfayı ve bağlantılı medyayı da doğrulayın.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery) · [Canlı demo](https://super-tanks-aftershock.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Claude gelişim montajı
@@ -2516,33 +2570,6 @@ Bir yarış oyunu oluştur
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874) · [Orijinal gönderi](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100519026720231698"></a>
-
-### Korkuluğa bakım zinciri ekle
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Korkuluğa bakım zinciri ekle"></a>
-
-**İstem**
-
-```text
-Korkuluğa bakım zinciri ekle!
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-手摺にメンテ用のチェーン付けて！
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100519026720231698) · [Orijinal gönderi](https://x.com/ujiden_type0/status/2100519026720231698) · [Örneklere dön](#all-prompts)
 
 ---
 

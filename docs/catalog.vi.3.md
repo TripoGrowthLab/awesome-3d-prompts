@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Bản demo đồ họa fantasy tương tác](#gpt-6-astra-2097821164093480999)
 - [Bản sao Minecraft có chế độ nhiều người chơi](#gpt-6-astra-2097797479488246071)
 - [Máy gia tốc hạt 3D tương tác](#gpt-6-astra-2097781208596029936)
 - [Mô phỏng nhà máy và bệ phóng 3D thời gian thực](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [Từ logo 2D đến nhân vật chuyển động](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [Mô hình Seoul thu nhỏ có thể khám phá](#interactive-miniature-of-seoul-2096557555086725159)
 - [Trò chơi đua rally Unity chơi được trên điện thoại](#mobile-playable-unity-rally-game-2096556692842348826)
-- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### Bản demo đồ họa fantasy tương tác
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Bản demo đồ họa fantasy tương tác"></a>
+
+**Prompt**
+
+```text
+Dùng Dream Loop Plus để tạo cho tôi một bản demo đồ họa: camera isometric, đổ bóng chân thực, sàn ướt phản chiếu và một nhân vật trong bối cảnh thú vị. Bối cảnh fantasy (gợi nhớ Elden Ring, Diablo). Sử dụng Three.js trên trình duyệt, tốc độ khung hình >60fps. Điều khiển: nhấp chuột để di chuyển nhân vật, camera bám theo có độ trễ; kéo để xoay camera; cuộn để phóng to/thu nhỏ. Hiện chưa cần gameplay. Thế giới cần có cảm giác sống động: chuyển động, hoạt ảnh và các hành vi môi trường tinh tế.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097821164093480999) · [Bài đăng gốc](https://x.com/anshuc/status/2097821164093480999) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### Bản sao Minecraft có chế độ nhiều người chơi
@@ -2588,26 +2615,6 @@ Xây dựng bản mẫu lái xe rally bằng Codex, Blender và Unity. Chuẩn b
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Bài đăng gốc](https://x.com/kevinkern/status/2096556692842348826) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua bộ bài và gói thẻ bổ sung, xây dựng bộ bài, bước vào đấu trường và nhận phần thưởng. Thiết kế để có thể thay lưới tạm bằng tài nguyên hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Bài đăng gốc](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Parcourir les exemples (17)</summary>
+<summary>Parcourir les exemples (18)</summary>
 
+- [Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Un prompt Kimi K3 pour un cache-cache en une seule génération](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Une tâche de modélisation procédurale d'armes Three.js pour Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Trois prompts d'armes procédurales Three.js en un seul fichier HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Un prompt Three.js pour visiter un avion](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3"></a>
+
+**Prompt**
+
+```text
+J'ai construit un jeu inspiré de Counter-Strike dans le navigateur avec Kimi K3.
+
+Un seul fichier HTML. Plus de 3 700 lignes de code. Aucune étape de build.
+
+Il comprend :
+
+🔫 Une carte inspirée de Dust2 avec tunnels, passerelle et Long A
+🎯 AK, AWP avec lunette, MP5, couteau et rechargement
+🤖 10 bots IA qui patrouillent, réagissent aux tirs et attaquent votre position
+💥 Tirs à la tête, fil des éliminations et manches de 2 minutes
+🔊 Un audio entièrement procédural, sans fichiers son
+🌐 Construit avec Three.js et des matériaux PBR, entièrement dans le navigateur
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Publication originale](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Un prompt Kimi K3 pour un cache-cache en une seule génération

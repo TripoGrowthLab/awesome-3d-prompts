@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#trading-card-battle-game-loop-2096555856204644550)
 - [Lõi năng lượng hai vòng tương tác](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#gpt-6-astra-2096547658164834788)
 - [Chuyển đổi biểu cảm nhân vật trong Blender](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [Cụm tàu kéo từ ảnh tham chiếu](#reference-image-tugboat-assembly-2096180220839760375)
 - [Zubli, nhân vật WebGL phản hồi linh hoạt](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Sinh vật biển trong tách cà phê](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua bộ bài và gói thẻ bổ sung, xây dựng bộ bài, bước vào đấu trường và nhận phần thưởng. Thiết kế để có thể thay lưới tạm bằng tài nguyên hoàn chỉnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Bài đăng gốc](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### Lõi năng lượng hai vòng tương tác
@@ -1765,35 +1785,6 @@ Tạo hệ sinh thái biển thu nhỏ trong tách cà phê bằng Three.js. Dù
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Bài đăng gốc](https://x.com/PolaczekSagi/status/2096174858837074198) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Trò chơi sinh tồn của cá: Từ bể cá đến đại dương
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Trò chơi sinh tồn của cá: Từ bể cá đến đại dương"></a>
-
-**Prompt**
-
-```text
-Tôi muốn tạo một trò chơi mô phỏng cá, trong đó người chơi điều khiển một chú cá (có thể chọn cá).. Trò chơi bắt đầu trong một bể cá tại nhà, nơi các hạt thức ăn rơi xuống, xuất hiện hoặc được tạo ra theo cách phù hợp.. Người chơi có thể bơi đến ăn thức ăn để cá lớn hơn.. Ngoài ra, có thể có chướng ngại vật và những thứ khác gây sát thương, khiến cá nhỏ lại. Khi lên cấp, cá sẽ lần lượt tiến vào những khu vực lớn hơn cho đến khi vươn ra đại dương và các môi trường tương tự. Loại thức ăn có thể thay đổi liên tục; cá cũng có thể ăn những loài cá và sinh vật khác.. 
-Trước tiên, hãy xác định toàn bộ vòng lặp gameplay, thiết kế cấp độ và các yếu tố liên quan cho trò chơi này trong một tệp md, sau đó triển khai thành một trò chơi mà tôi có thể chơi cục bộ trên trình duyệt. Hãy chọn tech stack cần thiết.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096156244180664627) · [Bài đăng gốc](https://x.com/AVachaspat92841/status/2096156244180664627) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

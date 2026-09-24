@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [インタラクティブなファンタジーグラフィックスデモ](#gpt-6-astra-2097821164093480999)
 - [マルチプレイ対応Minecraftクローン](#gpt-6-astra-2097797479488246071)
 - [インタラクティブ3D粒子衝突型加速器](#gpt-6-astra-2097781208596029936)
 - [リアルタイム3D工場・発射台シミュレーション](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [2Dロゴを動く3Dキャラクターに](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [操作して探索できるソウルのミニチュア](#interactive-miniature-of-seoul-2096557555086725159)
 - [スマートフォンで遊べるUnityのラリーゲーム](#mobile-playable-unity-rally-game-2096556692842348826)
-- [トレーディングカードの対戦ループ](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### インタラクティブなファンタジーグラフィックスデモ
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="インタラクティブなファンタジーグラフィックスデモ"></a>
+
+**プロンプト**
+
+```text
+Dream Loop Plusを使って、グラフィックスデモを作成してください。等角投影カメラ、リアルなシェーディングと反射する濡れた床、印象的なシーンに立つキャラクターを用意します。舞台はファンタジー世界（Elden RingやDiabloのような雰囲気）にしてください。ブラウザ上のThree.jsで動作させ、フレームレートは>60fpsを目標にします。操作方法：クリックでキャラクターを移動、カメラは遅れて追従、ドラッグでカメラを回転、スクロールでズームイン／ズームアウトします。現時点ではゲームプレイは追加しないでください。世界に生命感を持たせるため、動きやアニメーション、さりげない環境の挙動を加えてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097821164093480999) · [元の投稿](https://x.com/anshuc/status/2097821164093480999) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### マルチプレイ対応Minecraftクローン
@@ -2407,26 +2434,6 @@ Codex、Blender、Unityでラリー走行ゲームの試作を制作してくだ
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [元の投稿](https://x.com/kevinkern/status/2096556692842348826) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### トレーディングカードの対戦ループ
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="トレーディングカードの対戦ループ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.jsでトレーディングカードゲームの試作を制作してください。構築済みデッキやブースターパックの購入、デッキ構築、アリーナでの対戦、報酬の獲得までを実装してください。仮のメッシュは完成版のアセットに置き換えられる構成にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [元の投稿](https://x.com/FaryaBlender3D/status/2096555856204644550) · [作例一覧に戻る](#all-prompts)
 
 ---
 

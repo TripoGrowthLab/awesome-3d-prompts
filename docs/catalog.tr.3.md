@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Etkileşimli fantastik grafik demosu](#gpt-6-astra-2097821164093480999)
 - [Çok oyunculu Minecraft klonu](#gpt-6-astra-2097797479488246071)
 - [Etkileşimli 3B parçacık çarpıştırıcısı](#gpt-6-astra-2097781208596029936)
 - [Canlı 3B fabrika ve fırlatma rampası simülasyonu](#gpt-6-astra-2097730920224534868)
@@ -77,9 +78,35 @@
 - [2D logodan animasyonlu karaktere](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
 - [Seul’ün etkileşimli minyatürü](#interactive-miniature-of-seoul-2096557555086725159)
 - [Telefonda oynanabilen Unity ralli oyunu](#mobile-playable-unity-rally-game-2096556692842348826)
-- [Koleksiyon kartı savaş oyununun döngüsü](#trading-card-battle-game-loop-2096555856204644550)
 
 </details>
+<a id="gpt-6-astra-2097821164093480999"></a>
+
+### Etkileşimli fantastik grafik demosu
+
+[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Etkileşimli fantastik grafik demosu"></a>
+
+**İstem**
+
+```text
+Dream Loop Plus’ı kullanarak bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirme ve yansıtıcı ıslak zeminler, ilgi çekici bir sahnede bir karakter. Fantastik bir ortam kullan (Elden Ring ve Diablo’yu düşün). Tarayıcıda Three.js, >60fps. Kontroller: karakteri hareket ettirmek için tıkla; kamera karakteri yumuşak bir gecikmeyle takip etsin; kamerayı döndürmek için sürükle; yakınlaştırmak ve uzaklaştırmak için kaydır. Şimdilik oynanış ekleme. Dünya canlı hissettirmeli: hareket, animasyonlar ve çevredeki ince davranışlar olsun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999) · [Orijinal gönderi](https://x.com/anshuc/status/2097821164093480999) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097797479488246071"></a>
 
 ### Çok oyunculu Minecraft klonu
@@ -2579,26 +2606,6 @@ Codex, Blender ve Unity ile bir ralli sürüş prototipi oluşturun. 3D varlıkl
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Orijinal gönderi](https://x.com/kevinkern/status/2096556692842348826) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="trading-card-battle-game-loop-2096555856204644550"></a>
-
-### Koleksiyon kartı savaş oyununun döngüsü
-
-[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Koleksiyon kartı savaş oyununun döngüsü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri satın alma, deste hazırlama, savaş arenasına girme ve ödül kazanma. Geçici mesh’lerin bitmiş varlıklarla değiştirilebilmesini sağlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Orijinal gönderi](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Örneklere dön](#all-prompts)
 
 ---
 

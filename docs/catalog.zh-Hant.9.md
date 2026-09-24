@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>瀏覽案例 (17)</summary>
+<summary>瀏覽案例 (18)</summary>
 
+- [使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲](#counter-strike-inspired-browser-game-2080821527365218759)
 - [用於 Kimi K3 的一次性捉迷藏遊戲提示](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5 的程式化 Three.js 武器建模任務](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [三個單檔案 HTML Three.js 程式化槍械提示](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Three.js 飛機內部漫遊體驗提示詞](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### 使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲"></a>
+
+**提示詞**
+
+```text
+用 Kimi K3 在瀏覽器裡做了一個受《反恐精英》啟發的遊戲。
+
+一個 HTML 檔案。超過 3700 行程式碼。無需建置步驟。
+
+它包含：
+
+🔫 受 Dust2 啟發的佈局，帶有隧道、貓道和 A 長 
+🎯 AK、帶瞄準鏡的 AWP、MP5、刀和換彈機制 
+🤖 10 個 AI 機器人，會巡邏、對槍聲做出反應，並推進到你的位置 
+💥 爆頭、擊殺資訊，以及 2 分鐘的回合系統 
+🔊 完全程式化音訊，沒有任何音效檔案 
+🌐 使用 Three.js 和 PBR 材質建置，完全在瀏覽器中執行
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [查看原文](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### 用於 Kimi K3 的一次性捉迷藏遊戲提示

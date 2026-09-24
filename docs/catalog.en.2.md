@@ -28,6 +28,7 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Add a Maintenance Chain to a Handrail](#gpt-6-astra-2100519026720231698)
 - [Interactive voxel knight campfire scene](#gpt-6-astra-2100350159540596760)
 - [Isometric fantasy graphics demo](#gpt-6-astra-2100271998618177864)
 - [AKARI: Nagoya Rooftop Flame Relay](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [Make an 18-hole golf course more demanding](#gpt-6-astra-2098038909514944562)
 - [Mosswing: Mobile 3D Tap-to-Flap Game](#mosswing-mobile-3d-tap-to-flap-game)
 - [Wordless 3D Cat Treat Short](#gpt-6-astra-2097900087901106244)
-- [Interactive fantasy graphics demo](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Add a Maintenance Chain to a Handrail
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Add a Maintenance Chain to a Handrail"></a>
+
+**Prompt**
+
+```text
+Add a maintenance chain to the handrail!
+```
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100519026720231698) · [Original post](https://x.com/ujiden_type0/status/2100519026720231698) · [Back to examples](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### Interactive voxel knight campfire scene
@@ -3274,25 +3301,7 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 
 ---
 
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### Interactive fantasy graphics demo
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Interactive fantasy graphics demo"></a>
-
-**Prompt**
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2097821164093480999) · [Original post](https://x.com/anshuc/status/2097821164093480999) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.1.md) · **2 / 9** · [→](catalog.en.3.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 418 examples and live previews →</a></strong></p>

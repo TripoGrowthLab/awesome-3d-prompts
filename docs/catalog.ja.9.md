@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (17)</summary>
+<summary>作例を見る (18)</summary>
 
+- [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Kimi K3 で一度に作るかくれんぼゲームのプロンプト](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5 の手続き型 Three.js 武器モデリング課題](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,34 @@
 - [Three.js の飛行機内を歩く体験プロンプト](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Kimi K3 で作った Counter-Strike 風ブラウザゲーム
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Kimi K3 で作った Counter-Strike 風ブラウザゲーム"></a>
+
+**プロンプト**
+
+```text
+Kimi K3 で、ブラウザで動く Counter-Strike 風ゲームを作りました。
+
+HTML ファイル一つ。3,700 行超のコード。ビルド工程なし。
+
+内容：
+🔫 トンネル、キャットウォーク、Long A を備えた Dust2 風レイアウト
+🎯 AK、スコープ付き AWP、MP5、ナイフ、リロード
+🤖 巡回し、銃声に反応して、こちらの位置へ攻めてくる AI ボット 10 体
+💥 ヘッドショット、キルログ、2 分間のラウンド制
+🔊 音声ファイルを使わない完全手続き生成の音
+🌐 Three.js と PBR マテリアルを使い、すべてブラウザ内で動作
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [元の投稿](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Kimi K3 で一度に作るかくれんぼゲームのプロンプト

@@ -28,6 +28,7 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Прототип криминальной игры с открытым миром](#open-world-crime-game-prototype-2094907986942591338)
 - [Браузерная игра в стиле Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
 - [Океанская песочница от первого лица под дождём](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [Парящий воксельный остров](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [Промпт для кинематографичной анимации вертолёта в джунглях Вьетнама](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [Желейные джунгли: 3D-платформер](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [Промпт Three.js: японская пригородная улица в рисованном аниме-стиле](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Браузерная игра в духе Counter-Strike с Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### Прототип криминальной игры с открытым миром
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Прототип криминальной игры с открытым миром"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай прототип игры с открытым миром в духе GTA 6: плотная городская застройка, перемещение пешком, управляемые автомобили, транспорт, реакция полиции и несколько игровых занятий.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Исходная публикация](https://x.com/vikktorrrre/status/2094907986942591338) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Браузерная игра в стиле Mini Militia
@@ -1197,35 +1217,6 @@ CLAUDE OPUS 5 создал клон minecraft за 30 минут по прост
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Исходная публикация](https://x.com/gmi_cloud/status/2080834581247435102) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Браузерная игра в духе Counter-Strike с Kimi K3
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Браузерная игра в духе Counter-Strike с Kimi K3"></a>
-
-**Промпт**
-
-```text
-Создал браузерную игру в духе Counter-Strike с Kimi K3.
-
-Один HTML-файл. Более 3700 строк кода. Без этапа сборки.
-
-Внутри:
-
-🔫 Планировка в духе Dust2 с тоннелями, мостиком и Long A
-🎯 AK, AWP с прицелом, MP5, нож и перезарядка
-🤖 10 ИИ-ботов, которые патрулируют, реагируют на стрельбу и наступают на вашу позицию
-💥 Попадания в голову, лента убийств и система двухминутных раундов
-🔊 Полностью процедурный звук без аудиофайлов
-🌐 Three.js и PBR-материалы; всё работает в браузере
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Исходная публикация](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Назад к примерам](#all-prompts)
 
 ---
 

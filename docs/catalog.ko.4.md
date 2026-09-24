@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [트레이딩 카드 대전의 기본 게임 루프](#trading-card-battle-game-loop-2096555856204644550)
 - [두 개의 링으로 이루어진 에너지 코어](#interactive-dual-ring-energy-core-2096551010089263181)
 - [에스겔의 성전 환상을 3D로](#gpt-6-astra-2096547658164834788)
 - [Blender에서 전환하는 캐릭터 표정](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [참고 이미지로 만드는 예인선 조립 모델](#reference-image-tugboat-assembly-2096180220839760375)
 - [사용자에게 반응하는 WebGL 캐릭터 Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [커피잔 속 해양 생물](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [어항에서 바다까지: 물고기 생존 게임](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### 트레이딩 카드 대전의 기본 게임 루프
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="트레이딩 카드 대전의 기본 게임 루프"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Three.js로 트레이딩 카드 게임 프로토타입을 만드세요. 덱과 부스터 팩 구매, 덱 구성, 전투 아레나 진입, 보상 획득을 구현하세요. 임시 메시는 완성된 에셋으로 교체할 수 있도록 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [원본 게시물](https://x.com/FaryaBlender3D/status/2096555856204644550) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### 두 개의 링으로 이루어진 에너지 코어
@@ -1765,35 +1785,6 @@ Three.js로 커피잔 안에 작은 해양 생태계를 만드세요. 의도적�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [원본 게시물](https://x.com/PolaczekSagi/status/2096174858837074198) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### 어항에서 바다까지: 물고기 생존 게임
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="어항에서 바다까지: 물고기 생존 게임"></a>
-
-**프롬프트**
-
-```text
-물고기 시뮬레이터 게임을 만들고 싶습니다. 플레이어는 물고기가 되며, 시작할 물고기를 선택할 수 있어야 합니다. 집 안의 어항에서 시작하고, 먹이 입자가 위에서 떨어지거나 곳곳에 생성됩니다. 물고기를 조종해 먹이를 찾아 먹으면 더 크게 성장합니다. 장애물이나 피해를 주는 요소도 등장해 물고기의 크기가 줄어들 수 있습니다. 레벨이 오를 때마다 더 넓은 공간으로 이동하며, 최종적으로 바다에 도달하는 방식입니다. 먹이의 종류는 계속 바뀌고, 다른 물고기와 여러 생물도 먹을 수 있습니다.
-먼저 이 게임의 전체 게임플레이 루프와 레벨 디자인 등을 Markdown 파일로 정의한 다음, 로컬 브라우저에서 플레이할 수 있는 게임으로 구현해 주세요. 필요한 기술 스택을 선택해 사용하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096156244180664627) · [원본 게시물](https://x.com/AVachaspat92841/status/2096156244180664627) · [사례 목록으로](#all-prompts)
 
 ---
 

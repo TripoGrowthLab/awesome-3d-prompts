@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [오픈월드 범죄 게임 프로토타입](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia 스타일 브라우저 게임](#mini-militia-style-browser-game-2094900523900219725)
 - [비 내리는 1인칭 바다 샌드박스](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [하늘에 떠 있는 복셀 섬](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [베트남 정글 헬리콥터 시네마틱 애니메이션 프롬프트](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [젤리 정글: 3D 플랫폼 게임](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [손그림 애니메이션풍 일본 주택가를 탐험하는 Three.js 프롬프트](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### 오픈월드 범죄 게임 프로토타입
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="오픈월드 범죄 게임 프로토타입"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+GTA 6에서 영감을 받은 오픈월드 게임을 시제품으로 만드세요. 밀도 높은 도시, 도보 이동, 운전 가능한 차량, 교통, 경찰 대응, 여러 플레이 가능한 활동을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [원본 게시물](https://x.com/vikktorrrre/status/2094907986942591338) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Mini Militia 스타일 브라우저 게임
@@ -1197,34 +1217,6 @@ Three.js로 탐험 가능한 일본 교외 거리를 만드세요. 완전한 3D�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [원본 게시물](https://x.com/gmi_cloud/status/2080834581247435102) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임"></a>
-
-**프롬프트**
-
-```text
-Kimi K3로 브라우저에서 돌아가는 Counter-Strike 스타일 게임을 만들었습니다.
-
-HTML 파일 하나. 코드 3,700줄 이상. 빌드 단계 없음.
-
-포함 기능:
-🔫 터널, 캣워크, Long A를 갖춘 Dust2 스타일 배치
-🎯 AK, 조준경이 있는 AWP, MP5, 칼, 재장전
-🤖 순찰하고 총성에 반응하며 플레이어 위치로 진격하는 AI 봇 10명
-💥 헤드샷, 킬 피드, 2분 라운드 시스템
-🔊 사운드 파일 없는 완전한 절차적 오디오
-🌐 Three.js와 PBR 재질로 제작, 전부 브라우저에서 실행
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [사례 목록으로](#all-prompts)
 
 ---
 

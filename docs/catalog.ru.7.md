@@ -28,6 +28,7 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Общество автономных персонажей в Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [База Arcadia на Марсе](#arcadia-base-on-mars-2095595678214873212)
 - [Три тематические гонки из одного прототипа](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [Процедурный водопад](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [Из плана этажа в прогулку по Blender](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [Детерминированная пагода из 136 000 вокселей](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Детальный робот с помощью автоматизации Blender](#detailed-robot-through-blender-automation-2094909825561805003)
-- [Прототип криминальной игры с открытым миром](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Общество автономных персонажей в Unreal Engine
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Общество автономных персонажей в Unreal Engine"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай мир в Unreal Engine с автономными людьми. Задай каждому собственные потребности и общую цель выживания: они должны общаться, распределять работу, строить укрытия и поддерживать жизнь общества, даже когда игрок уходит.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Исходная публикация](https://x.com/mattshumer_/status/2095596175705399482) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### База Arcadia на Марсе
@@ -1071,26 +1091,6 @@ Create the most impressive website you can in a single self-contained HTML file.
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Исходная публикация](https://x.com/Spectromachina/status/2094909825561805003) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### Прототип криминальной игры с открытым миром
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Прототип криминальной игры с открытым миром"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай прототип игры с открытым миром в духе GTA 6: плотная городская застройка, перемещение пешком, управляемые автомобили, транспорт, реакция полиции и несколько игровых занятий.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Исходная публикация](https://x.com/vikktorrrre/status/2094907986942591338) · [Назад к примерам](#all-prompts)
 
 ---
 

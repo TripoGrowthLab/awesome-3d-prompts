@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (17)</summary>
+<summary>Örnekleri keşfet (18)</summary>
 
+- [Kimi K3 ile tarayıcıda Counter-Strike esintili oyun](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Kimi K3 için tek istemle saklambaç oyunu](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5 için prosedürel Three.js silah modelleme görevi](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Tek HTML dosyasında Three.js prosedürel silahlar için üç istem](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Three.js uçak içi gezinti deneyimi istemi](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Kimi K3 ile tarayıcıda Counter-Strike esintili oyun
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Kimi K3 ile tarayıcıda Counter-Strike esintili oyun"></a>
+
+**İstem**
+
+```text
+Kimi K3 ile tarayıcıda Counter-Strike esintili oyun yaptım.
+
+Tek HTML dosyası. 3.700'den fazla kod satırı. Derleme adımı yok.
+
+İçeriği:
+
+🔫 Tüneller, üst geçit ve Long A ile Dust2 esintili düzen
+🎯 AK, dürbünlü AWP, MP5, bıçak ve şarjör doldurma
+🤖 Devriye gezen, silah sesine tepki verip konumunuza ilerleyen 10 yapay zekâ botu
+💥 Kafadan vuruş, öldürme kaydı ve 2 dakikalık raund sistemi
+🔊 Ses dosyası olmadan tamamen prosedürel ses
+🌐 Three.js ve PBR malzemelerle tamamen tarayıcıda çalışıyor
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Kimi K3 için tek istemle saklambaç oyunu

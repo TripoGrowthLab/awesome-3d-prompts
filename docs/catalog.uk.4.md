@@ -28,6 +28,7 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Ігровий цикл колекційної карткової битви](#trading-card-battle-game-loop-2096555856204644550)
 - [Інтерактивне енергетичне ядро з двома кільцями](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Видіння храму Єзекіїля у 3D](#gpt-6-astra-2096547658164834788)
 - [Перемикання виразів обличчя персонажа в Blender](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [Збірка буксира за референсами](#reference-image-tugboat-assembly-2096180220839760375)
 - [Zubli — чутливий персонаж WebGL](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Морське життя у чашці кави](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Гра про виживання риби: від акваріума до океану](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Ігровий цикл колекційної карткової битви
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Ігровий цикл колекційної карткової битви"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створіть у Three.js прототип колекційної карткової гри: купівлю колод і бустерів, складання власної колоди, вихід на бойову арену та отримання нагород. Передбачте можливість замінити тимчасові сітки готовими моделями.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Оригінальний допис](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### Інтерактивне енергетичне ядро з двома кільцями
@@ -1765,35 +1785,6 @@ Test it in the browser yourself and fix any visual or interaction bugs before fi
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Оригінальний допис](https://x.com/PolaczekSagi/status/2096174858837074198) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Гра про виживання риби: від акваріума до океану
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Гра про виживання риби: від акваріума до океану"></a>
-
-**Промпт**
-
-```text
-Я хочу створити гру-симулятор риби — ми граємо за рибу, яку можна обрати. Спочатку ми опиняємося в домашньому акваріумі, де вниз падають або просто з’являються частинки їжі. Ми можемо підпливати до них і їсти, щоб рости. Також можуть бути перешкоди та інші об’єкти, які завдають шкоди й зменшують наш розмір. Після підвищення рівня ми поступово переходимо до дедалі більших просторів, аж поки не досягнемо океану. Їжа, яку ми їмо, може змінюватися: ми зможемо їсти інших риб, різних істот тощо.
-Спочатку опишіть повний ігровий цикл, дизайн рівнів та інші складові цієї гри у файлі Markdown, а потім реалізуйте її, щоб я міг грати локально у браузері. Самостійно оберіть потрібний технологічний стек.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096156244180664627) · [Оригінальний допис](https://x.com/AVachaspat92841/status/2096156244180664627) · [Назад до прикладів](#all-prompts)
 
 ---
 

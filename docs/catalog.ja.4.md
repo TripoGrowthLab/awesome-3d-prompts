@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [トレーディングカードの対戦ループ](#trading-card-battle-game-loop-2096555856204644550)
 - [二重リングのエネルギーコアを操作する3Dビューアー](#interactive-dual-ring-energy-core-2096551010089263181)
 - [エゼキエルの神殿の幻を3Dで](#gpt-6-astra-2096547658164834788)
 - [Blenderで切り替えるキャラクターの表情](#switchable-character-expressions-in-blender-2096525100518453342)
@@ -77,9 +78,28 @@
 - [参考画像から再構築するタグボート](#reference-image-tugboat-assembly-2096180220839760375)
 - [操作に応える WebGL キャラクター Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [コーヒーカップの中の海洋生物](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [魚のサバイバルゲーム：水槽から海へ](#gpt-6-astra-2096156244180664627)
 
 </details>
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### トレーディングカードの対戦ループ
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="トレーディングカードの対戦ループ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.jsでトレーディングカードゲームの試作を制作してください。構築済みデッキやブースターパックの購入、デッキ構築、アリーナでの対戦、報酬の獲得までを実装してください。仮のメッシュは完成版のアセットに置き換えられる構成にしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [元の投稿](https://x.com/FaryaBlender3D/status/2096555856204644550) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
 
 ### 二重リングのエネルギーコアを操作する3Dビューアー
@@ -1765,35 +1785,6 @@ Three.js で、コーヒーカップの中に小さな海洋生態系を作成�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [元の投稿](https://x.com/PolaczekSagi/status/2096174858837074198) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### 魚のサバイバルゲーム：水槽から海へ
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="魚のサバイバルゲーム：水槽から海へ"></a>
-
-**プロンプト**
-
-```text
-魚のシミュレーターゲームを作りたいです。プレイヤーは魚になり、魚の種類を選べるようにします。最初は家の水槽から始まり、餌の粒が上から落ちてきたり、出現したりします。魚を泳がせて餌を食べると、体が大きく成長します。また、障害物などに当たるとダメージを受け、小さくなる要素も入れたいです。レベルアップするにつれて、より大きなエリアへ段階的に進み、最終的には海に到達します。食べられる餌も変化していき、ほかの魚やさまざまな生き物も食べられるようにしたいです。
-まず、このゲームのゲームプレイループ全体と各レベルの設計などをMarkdownファイルにまとめて定義し、その後、ブラウザでローカルプレイできるゲームとして実装してください。必要な技術スタックを選定してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096156244180664627) · [元の投稿](https://x.com/AVachaspat92841/status/2096156244180664627) · [作例一覧に戻る](#all-prompts)
 
 ---
 

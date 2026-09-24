@@ -28,6 +28,7 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Добавить сервисную цепь к поручню](#gpt-6-astra-2100519026720231698)
 - [Интерактивная voxel-сцена с рыцарем у костра](#gpt-6-astra-2100350159540596760)
 - [Демонстрация фэнтезийной графики с изометрической камерой](#gpt-6-astra-2100271998618177864)
 - [AKARI: Эстафета огня на крышах Нагои](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [Сделать поле для гольфа на 18 лунок более сложным](#gpt-6-astra-2098038909514944562)
 - [Mosswing: мобильная 3D-игра «тап — взмах»](#mosswing-mobile-3d-tap-to-flap-game)
 - [Безмолвный 3D-ролик про кота и лакомство](#gpt-6-astra-2097900087901106244)
-- [Интерактивная демонстрация фэнтезийной графики](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Добавить сервисную цепь к поручню
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Добавить сервисную цепь к поручню"></a>
+
+**Промпт**
+
+```text
+Добавьте к поручню сервисную цепь!
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2100519026720231698) · [Исходная публикация](https://x.com/ujiden_type0/status/2100519026720231698) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### Интерактивная voxel-сцена с рыцарем у костра
@@ -3899,33 +3926,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097900087901106244) · [Исходная публикация](https://x.com/boboga777/status/2097900087901106244) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### Интерактивная демонстрация фэнтезийной графики
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Интерактивная демонстрация фэнтезийной графики"></a>
-
-**Промпт**
-
-```text
-С помощью Dream Loop Plus создай для меня демонстрацию графики: изометрическая камера, реалистичное затенение и отражающие мокрые поверхности, персонаж в интересной сцене. Фэнтезийный сеттинг (в духе Elden Ring и Diablo). Three.js в браузере, >60 кадров/с. Управление: щелчок мышью перемещает персонажа, камера плавно следует за ним; перетаскивание мышью вращает камеру; прокрутка изменяет масштаб. Пока без игрового процесса. Мир должен ощущаться живым: добавь движение, анимации и ненавязчивые поведенческие реакции окружения.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097821164093480999) · [Исходная публикация](https://x.com/anshuc/status/2097821164093480999) · [Назад к примерам](#all-prompts)
 
 ---
 

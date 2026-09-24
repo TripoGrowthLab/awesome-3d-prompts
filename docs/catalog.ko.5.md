@@ -28,6 +28,7 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [어항에서 바다까지: 물고기 생존 게임](#gpt-6-astra-2096156244180664627)
 - [배틀로얄 아레나 Dropzone](#dropzone-battle-royale-arena-2096155883122413946)
 - [브라우저 비행 게임](#browser-flight-game-2096149823216898445)
 - [카페 사진을 세로형 실내 투어로](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,37 @@
 - [인터랙티브 PS5 컨트롤러](#interactive-ps5-controller-2095967131573649552)
 - [인터랙티브 3D 캐릭터 카드](#interactive-3d-character-cards-2095963576049832347)
 - [불릿 타임 3인칭 슈터](#bullet-time-third-person-shooter-2095962376344309843)
-- [브라우저 드리프트 레이싱 Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### 어항에서 바다까지: 물고기 생존 게임
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="어항에서 바다까지: 물고기 생존 게임"></a>
+
+**프롬프트**
+
+```text
+물고기 시뮬레이터 게임을 만들고 싶습니다. 플레이어는 물고기가 되며, 시작할 물고기를 선택할 수 있어야 합니다. 집 안의 어항에서 시작하고, 먹이 입자가 위에서 떨어지거나 곳곳에 생성됩니다. 물고기를 조종해 먹이를 찾아 먹으면 더 크게 성장합니다. 장애물이나 피해를 주는 요소도 등장해 물고기의 크기가 줄어들 수 있습니다. 레벨이 오를 때마다 더 넓은 공간으로 이동하며, 최종적으로 바다에 도달하는 방식입니다. 먹이의 종류는 계속 바뀌고, 다른 물고기와 여러 생물도 먹을 수 있습니다.
+먼저 이 게임의 전체 게임플레이 루프와 레벨 디자인 등을 Markdown 파일로 정의한 다음, 로컬 브라우저에서 플레이할 수 있는 게임으로 구현해 주세요. 필요한 기술 스택을 선택해 사용하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096156244180664627) · [원본 게시물](https://x.com/AVachaspat92841/status/2096156244180664627) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### 배틀로얄 아레나 Dropzone
@@ -1111,26 +1140,6 @@ Max Payne에서 영감을 받은 Three.js 3인칭 슈터를 만드세요. 슬로
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [원본 게시물](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### 브라우저 드리프트 레이싱 Street Heat
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="브라우저 드리프트 레이싱 Street Heat"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-문장 하나로 브라우저 아케이드 스트리트 레이싱 게임을 완성하세요. 손맛 좋은 드리프트 물리, 콤보 점수, 아슬아슬한 회피 보너스, 속도 측정 구간, 니트로, 교통, 명확한 HUD, 짧고 반복 플레이 가능한 코스를 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [원본 게시물](https://x.com/higgsfield_ai/status/2095916820431827408) · [사례 목록으로](#all-prompts)
 
 ---
 

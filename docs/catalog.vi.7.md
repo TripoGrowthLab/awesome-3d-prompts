@@ -28,6 +28,7 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Căn cứ Arcadia trên sao Hỏa](#arcadia-base-on-mars-2095595678214873212)
 - [Ba game đua kart theo chủ đề từ một bản greybox](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [Nghiên cứu thác nước thủ tục](#procedural-waterfall-study-2095510069047660636)
@@ -77,9 +78,28 @@
 - [Từ mặt bằng đến video tham quan Blender](#floor-plan-to-blender-walkthrough-2094925117344428232)
 - [Chùa tháp 136.000 voxel sinh xác định](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Robot chi tiết bằng tự động hóa Blender](#detailed-robot-through-blender-automation-2094909825561805003)
-- [Nguyên mẫu game tội phạm thế giới mở](#open-world-crime-game-prototype-2094907986942591338)
 
 </details>
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Xã hội sinh tồn của những con người tự chủ trong Unreal Engine
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Xã hội sinh tồn của những con người tự chủ trong Unreal Engine"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một thế giới trong Unreal Engine với những nhân vật con người tự chủ. Mỗi người có nhu cầu riêng và cùng hướng đến mục tiêu sinh tồn, buộc họ phải giao tiếp, phân chia công việc, dựng nơi trú ẩn và duy trì xã hội ngay cả khi người chơi rời đi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="arcadia-base-on-mars-2095595678214873212"></a>
 
 ### Căn cứ Arcadia trên sao Hỏa
@@ -1071,26 +1091,6 @@ Dựng robot hard-surface chi tiết trong Blender với tỷ lệ nhất quán,
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Bài đăng gốc](https://x.com/Spectromachina/status/2094909825561805003) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### Nguyên mẫu game tội phạm thế giới mở
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Nguyên mẫu game tội phạm thế giới mở"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng nguyên mẫu game thế giới mở lấy cảm hứng GTA 6, với thành phố dày đặc, đi bộ, xe lái được, giao thông, phản ứng của cảnh sát và nhiều hoạt động có thể chơi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Bài đăng gốc](https://x.com/vikktorrrre/status/2094907986942591338) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

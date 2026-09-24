@@ -28,6 +28,7 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [ブラウザでドリフトする Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 - [短時間で遊べるゲームプロトタイプ](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender で作るループするサイバーパンクの寝室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [文化を題材にした自動進行アーケードゲーム](#self-playing-cultural-arcade-game-2095898198413922791)
@@ -77,9 +78,28 @@
 - [一度の指示で作る上質なインタラクティブ試作](#one-shot-premium-interactive-prototype-2095597560253862065)
 - [一度の指示で作る Minecraft 風の世界](#one-shot-minecraft-style-world-2095597137849446688)
 - [ブラウザで探索するオープンワールド冒険](#open-world-browser-adventure-2095596341422440714)
-- [自律する人々が生き抜く Unreal の社会](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 
 </details>
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### ブラウザでドリフトする Street Heat
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="ブラウザでドリフトする Street Heat"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+一文からブラウザ用アーケード街頭レースを完成させてください。気持ちよいドリフト物理、コンボ得点、ニアミスボーナス、速度計測地点、ニトロ、交通、分かりやすい HUD、短く繰り返し遊べるコースを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [元の投稿](https://x.com/higgsfield_ai/status/2095916820431827408) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="rapid-playable-game-prototype-2095907526566990013"></a>
 
 ### 短時間で遊べるゲームプロトタイプ
@@ -1073,26 +1093,6 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-browser-adventure-2095596341422440714) · [元の投稿](https://x.com/petergostev/status/2095596341422440714) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### 自律する人々が生き抜く Unreal の社会
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="自律する人々が生き抜く Unreal の社会"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-自律的に行動する人々が暮らす Unreal Engine の世界を作成してください。一人ひとりの欲求と共通の生存目標を設定し、会話、分業、住居づくりを通じて、プレイヤーが離れても社会が存続するようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [元の投稿](https://x.com/mattshumer_/status/2095596175705399482) · [作例一覧に戻る](#all-prompts)
 
 ---
 

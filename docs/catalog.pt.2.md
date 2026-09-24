@@ -28,6 +28,7 @@
 <details>
 <summary>Explorar exemplos (50)</summary>
 
+- [Adicionar corrente de manutenção ao corrimão](#gpt-6-astra-2100519026720231698)
 - [Cena interativa de acampamento voxel com cavaleiro e fogueira](#gpt-6-astra-2100350159540596760)
 - [Demo de gráficos de fantasia isométrica](#gpt-6-astra-2100271998618177864)
 - [AKARI: Revezamento da Chama nos Telhados de Nagoya](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [Torne um campo de golfe de 18 buracos mais desafiador](#gpt-6-astra-2098038909514944562)
 - [Mosswing: jogo 3D mobile de toque para bater asas](#mosswing-mobile-3d-tap-to-flap-game)
 - [Curta 3D de gato sem falas](#gpt-6-astra-2097900087901106244)
-- [Demo interativa de gráficos de fantasia](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Adicionar corrente de manutenção ao corrimão
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Adicionar corrente de manutenção ao corrimão"></a>
+
+**Prompt**
+
+```text
+Adicione uma corrente de manutenção ao corrimão!
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2100519026720231698) · [Publicação original](https://x.com/ujiden_type0/status/2100519026720231698) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### Cena interativa de acampamento voxel com cavaleiro e fogueira
@@ -3883,33 +3910,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097900087901106244) · [Publicação original](https://x.com/boboga777/status/2097900087901106244) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### Demo interativa de gráficos de fantasia
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Demo interativa de gráficos de fantasia"></a>
-
-**Prompt**
-
-```text
-Use o Dream Loop Plus para criar uma demo de gráficos: câmera isométrica, sombreamento realista, pisos molhados com reflexos e um personagem em um cenário interessante. Ambientação de fantasia (pense em Elden Ring e Diablo). Three.js no navegador, >60fps. Controles: clique para mover o personagem; a câmera acompanha suavemente; arraste para girar a câmera; role para aproximar ou afastar. Por enquanto, sem gameplay. O mundo deve parecer vivo: movimento, animações e comportamentos ambientais sutis.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2097821164093480999) · [Publicação original](https://x.com/anshuc/status/2097821164093480999) · [Voltar aos exemplos](#all-prompts)
 
 ---
 

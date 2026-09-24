@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Korkuluğa bakım zinciri ekle](#gpt-6-astra-2100519026720231698)
 - [Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi](#gpt-6-astra-2100350159540596760)
 - [İzometrik fantezi grafik demosu](#gpt-6-astra-2100271998618177864)
 - [AKARI: Nagoya Çatı Alevi Bayrak Yarışı](#akari-nagoya-rooftop-flame-relay)
@@ -77,9 +78,35 @@
 - [18 delikli golf sahasını daha zorlu hâle getir](#gpt-6-astra-2098038909514944562)
 - [Mosswing: Mobil 3B Dokunarak Uçma Oyunu](#mosswing-mobile-3d-tap-to-flap-game)
 - [Sözsüz 3B Kedi Ödül Maması Kısa Filmi](#gpt-6-astra-2097900087901106244)
-- [Etkileşimli fantastik grafik demosu](#gpt-6-astra-2097821164093480999)
 
 </details>
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Korkuluğa bakım zinciri ekle
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Korkuluğa bakım zinciri ekle"></a>
+
+**İstem**
+
+```text
+Korkuluğa bakım zinciri ekle!
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100519026720231698) · [Orijinal gönderi](https://x.com/ujiden_type0/status/2100519026720231698) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100350159540596760"></a>
 
 ### Etkileşimli voxel şövalyesi ve kamp ateşi sahnesi
@@ -3883,33 +3910,6 @@ Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add 
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097900087901106244) · [Orijinal gönderi](https://x.com/boboga777/status/2097900087901106244) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### Etkileşimli fantastik grafik demosu
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Etkileşimli fantastik grafik demosu"></a>
-
-**İstem**
-
-```text
-Dream Loop Plus’ı kullanarak bir grafik demosu oluştur: izometrik kamera, gerçekçi gölgelendirme ve yansıtıcı ıslak zeminler, ilgi çekici bir sahnede bir karakter. Fantastik bir ortam kullan (Elden Ring ve Diablo’yu düşün). Tarayıcıda Three.js, >60fps. Kontroller: karakteri hareket ettirmek için tıkla; kamera karakteri yumuşak bir gecikmeyle takip etsin; kamerayı döndürmek için sürükle; yakınlaştırmak ve uzaklaştırmak için kaydır. Şimdilik oynanış ekleme. Dünya canlı hissettirmeli: hareket, animasyonlar ve çevredeki ince davranışlar olsun.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097821164093480999) · [Orijinal gönderi](https://x.com/anshuc/status/2097821164093480999) · [Örneklere dön](#all-prompts)
 
 ---
 

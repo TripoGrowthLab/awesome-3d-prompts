@@ -26,8 +26,9 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (17)</summary>
+<summary>Khám phá ví dụ (18)</summary>
 
+- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Prompt Kimi K3 cho game trốn tìm một lượt](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Ba prompt súng thủ tục Three.js trong một tệp HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
@@ -47,6 +48,35 @@
 - [Prompt Three.js cho trải nghiệm đi bên trong máy bay](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3"></a>
+
+**Prompt**
+
+```text
+Dựng game lấy cảm hứng Counter-Strike trên trình duyệt bằng Kimi K3.
+
+Một tệp HTML. Hơn 3.700 dòng mã. Không cần bước build.
+
+Có:
+
+🔫 Bố cục kiểu Dust2 với đường hầm, catwalk và Long A
+🎯 AK, AWP có kính ngắm, MP5, dao và nạp đạn
+🤖 10 bot AI tuần tra, phản ứng với tiếng súng và áp sát vị trí bạn
+💥 Headshot, bảng hạ gục và hệ vòng hai phút
+🔊 Âm thanh hoàn toàn thủ tục, không có tệp âm thanh
+🌐 Dựng bằng Three.js và vật liệu PBR, chạy hoàn toàn trong trình duyệt
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
 
 ### Prompt Kimi K3 cho game trốn tìm một lượt

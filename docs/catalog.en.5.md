@@ -28,6 +28,7 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Fish Survival Game from Aquarium to Ocean](#gpt-6-astra-2096156244180664627)
 - [Dropzone battle royale arena](#dropzone-battle-royale-arena-2096155883122413946)
 - [Browser flight game](#browser-flight-game-2096149823216898445)
 - [Coffee-shop photo to vertical walkthrough](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
@@ -77,9 +78,27 @@
 - [Interactive PS5 controller](#interactive-ps5-controller-2095967131573649552)
 - [Interactive 3D character cards](#interactive-3d-character-cards-2095963576049832347)
 - [Bullet-time third-person shooter](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat browser drift racer](#street-heat-browser-drift-racer-2095916820431827408)
 
 </details>
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Fish Survival Game from Aquarium to Ocean
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Fish Survival Game from Aquarium to Ocean"></a>
+
+**Prompt**
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096156244180664627) · [Original post](https://x.com/AVachaspat92841/status/2096156244180664627) · [Back to examples](#all-prompts)
+
+---
+
 <a id="dropzone-battle-royale-arena-2096155883122413946"></a>
 
 ### Dropzone battle royale arena
@@ -1084,27 +1103,7 @@ Build a Three.js third-person shooter inspired by Max Payne. Focus on slow-motio
 
 ---
 
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat browser drift racer
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat browser drift racer"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a complete arcade street racer in the browser from one sentence. Implement satisfying drift physics, combo scoring, near-miss bonuses, speed traps, nitro, traffic, a readable HUD and a short replayable course.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Original post](https://x.com/higgsfield_ai/status/2095916820431827408) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.4.md) · **5 / 9** · [→](catalog.en.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 418 examples and live previews →</a></strong></p>

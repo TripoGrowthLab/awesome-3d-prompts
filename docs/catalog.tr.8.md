@@ -28,6 +28,7 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Açık dünya suç oyunu prototipi](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia tarzı tarayıcı oyunu](#mini-militia-style-browser-game-2094900523900219725)
 - [Birinci şahıs yağmurlu okyanus oyun alanı](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [Uçan voksel ada](#floating-voxel-island-2094899802588713418)
@@ -77,9 +78,28 @@
 - [Vietnam ormanında sinematik helikopter animasyonu istemi](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
 - [Jöle Ormanı: 3B Platform Oyunu](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [Elle çizilmiş anime tarzında keşfedilebilir Japon banliyö sokağı için Three.js istemi](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Kimi K3 ile tarayıcıda Counter-Strike esintili oyun](#counter-strike-inspired-browser-game-2080821527365218759)
 
 </details>
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### Açık dünya suç oyunu prototipi
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Açık dünya suç oyunu prototipi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+GTA 6'dan esinlenen, yoğun şehir, yaya dolaşımı, sürülebilir araçlar, trafik, polis tepkisi ve çeşitli oynanabilir etkinlikler içeren açık dünya prototipi hazırla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Orijinal gönderi](https://x.com/vikktorrrre/status/2094907986942591338) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="mini-militia-style-browser-game-2094900523900219725"></a>
 
 ### Mini Militia tarzı tarayıcı oyunu
@@ -1197,35 +1217,6 @@ Three.js'de keşfedilebilir Japon banliyö sokağı oluştur; tamamen 3B olsun v
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Orijinal gönderi](https://x.com/gmi_cloud/status/2080834581247435102) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Kimi K3 ile tarayıcıda Counter-Strike esintili oyun
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Kimi K3 ile tarayıcıda Counter-Strike esintili oyun"></a>
-
-**İstem**
-
-```text
-Kimi K3 ile tarayıcıda Counter-Strike esintili oyun yaptım.
-
-Tek HTML dosyası. 3.700'den fazla kod satırı. Derleme adımı yok.
-
-İçeriği:
-
-🔫 Tüneller, üst geçit ve Long A ile Dust2 esintili düzen
-🎯 AK, dürbünlü AWP, MP5, bıçak ve şarjör doldurma
-🤖 Devriye gezen, silah sesine tepki verip konumunuza ilerleyen 10 yapay zekâ botu
-💥 Kafadan vuruş, öldürme kaydı ve 2 dakikalık raund sistemi
-🔊 Ses dosyası olmadan tamamen prosedürel ses
-🌐 Three.js ve PBR malzemelerle tamamen tarayıcıda çalışıyor
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Örneklere dön](#all-prompts)
 
 ---
 
