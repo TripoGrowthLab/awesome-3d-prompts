@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Beispiele ansehen (5)</summary>
+<summary>Beispiele ansehen (17)</summary>
 
+- [Einmal-Prompt für ein Versteckspiel mit Kimi K3](#one-shot-hide-and-seek-game-2080806989169307780)
+- [Prozedurale Three.js-Waffenmodellierung für Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [Drei Ein-Datei-HTML-Prompts für prozedurale Three.js-Waffen](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [Kimi-K3-Prompt für einen sich wandelnden Three.js-Stadtblock](#transforming-three-js-city-block-scene-2080724552422924382)
+- [Three.js-Prompt für Leonardo da Vincis Ornithopter mit Claude Opus 5](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [Angry-Birds-artiger Klon mit eigenen Vögeln und mehreren Leveln](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [3D-Fußballstadion als Vergleichsaufgabe für Claude Fable 5 und Kimi K3](#3d-soccer-stadium-2080473039834333229)
+- [Three.js-Prompt für einen futuristischen Magnetschwebezug](#futuristic-maglev-train-in-three-js-2080454415400493332)
+- [3D-Versteckspiel-Prompt mit Chamäleon und Roboter](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
+- [3D-Kirschblütenbaum-Prompt für Claude Fable 5](#3d-cherry-blossom-tree-2080178541979664741)
+- [Mehrfach-Prompt für Shop, interaktives 3D-Museum und RTS-Klon](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
+- [Three.js-Spielprompt im Stil von Hole.io](#hole-io-style-three-js-game-2079898758427324573)
 - [Kimi-K3-Prompt für einen WebGL2-Schwarzloch-Raytracer in einer Datei](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [Three.js-Prompt für Voxelfußballanimation in einer HTML-Datei](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Blender-Stadtmodellierung: New York mit Fable 5](#modeling-new-york-city-in-blender-2079387760478073087)
@@ -35,6 +47,235 @@
 - [Three.js-Prompt für einen Rundgang im Flugzeug](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
+
+### Einmal-Prompt für ein Versteckspiel mit Kimi K3
+
+[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="Einmal-Prompt für ein Versteckspiel mit Kimi K3"></a>
+
+**Prompt**
+
+```text
+Ein Versteckspiel in einem Versuch: Ein weißes Chamäleon versteckt sich in einem handgezeichneten Raum, bemalt sich passend zur Wand und übersteht drei Suchläufe eines Roboters. Live-Pixelvergleich in Prozent, fünf prozedurale Zonen, synthetischer Ton, drei gewertete Runden – eine HTML-Datei, keine Bibliotheken.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Originalbeitrag](https://x.com/0x_scalp/status/2080806989169307780) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Prozedurale Three.js-Waffenmodellierung für Claude Fable 5
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Prozedurale Three.js-Waffenmodellierung für Claude Fable 5"></a>
+
+**Prompt**
+
+```text
+The Hype verglich Claude Opus 5, Fable 5, GPT-5.6 Sol und Kimi K3 mit exakt denselben prozeduralen Three.js-Technikaufgaben.
+
+Jedes Modell musste bauen:
+• M4 Carbine
+• Glock 18C
+• Steyr TMP
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Originalbeitrag](https://x.com/adxtyahq/status/2080759312008503365) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### Drei Ein-Datei-HTML-Prompts für prozedurale Three.js-Waffen
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Drei Ein-Datei-HTML-Prompts für prozedurale Three.js-Waffen"></a>
+
+**Prompt**
+
+```text
+Unser Test: 3 Prompts, eine HTML-Datei, @threejs, vollständig prozedural, keine Assets. Jede Waffe hat einen kleinen Feuerknopf (Web-Audio-Schuss, Mündungsblitz, Rückstoß, Hülsenauswurf) und einen Zerlegungsschalter für beschriftete Einzelteile mit Wiederzusammenbau:
+
+1. 5.56 M4 Carbine: ausziehbare Schulterstütze, Untergehäuse mit safe·semi·burst, Quadrail mit Panelnummern r14–r28, Aimpoint-Rotpunktvisier, vertikaler Vordergriff, klappbares Zweibein, A2-Mündungsfeuerdämpfer, Zerlegung in 10 Teile.
+
+2. Glock 18C: Maschinenpistole mit Feuerwahl, geschlitzten 18C-Kompensatoröffnungen, Prägung „glock 18c / austria 9x19“, verlängertem 33-Schuss-Magazin; Zerlegung in Schlitten, gelochten Lauf, Rückholfeder, Rahmen und Magazin.
+
+3. Steyr TMP: geripptes Polymergehäuse, Gewindelauf, integrierter vorderer Vertikalgriff, schräges durchscheinendes 30-Schuss-Magazin.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Originalbeitrag](https://x.com/thehypedotnews/status/2080757148078768504) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### Kimi-K3-Prompt für einen sich wandelnden Three.js-Stadtblock
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Kimi-K3-Prompt für einen sich wandelnden Three.js-Stadtblock"></a>
+
+**Prompt**
+
+```text
+Ich gab ihm einen brutalen Three.js-Prompt: Baue einen Stadtblock, der sich von 1945 bis 2055 verändert, mit wechselnden Gebäuden, Autos, Geschäften, Menschen, Licht und Soundeffekten in einer einzigen HTML-Datei.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Originalbeitrag](https://x.com/ggg78g89/status/2080724552422924382) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### Three.js-Prompt für Leonardo da Vincis Ornithopter mit Claude Opus 5
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Three.js-Prompt für Leonardo da Vincis Ornithopter mit Claude Opus 5"></a>
+
+**Prompt**
+
+```text
+Leonardo da Vincis Ornithopter in Three.js.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Originalbeitrag](https://x.com/HarshithLucky3/status/2080720533277319587) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### Angry-Birds-artiger Klon mit eigenen Vögeln und mehreren Leveln
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Angry-Birds-artiger Klon mit eigenen Vögeln und mehreren Leveln"></a>
+
+**Prompt**
+
+```text
+Baue einen Angry-Birds-Klon mit einzigartigen Vögeln, mehreren Leveln und Mechaniken.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Originalbeitrag](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### 3D-Fußballstadion als Vergleichsaufgabe für Claude Fable 5 und Kimi K3
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="3D-Fußballstadion als Vergleichsaufgabe für Claude Fable 5 und Kimi K3"></a>
+
+**Prompt**
+
+```text
+Ein Entwickler verglich Modelle mit derselben Aufgabe: „Baue ein 3D-Fußballstadion.“
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Originalbeitrag](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
+
+### Three.js-Prompt für einen futuristischen Magnetschwebezug
+
+[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="Three.js-Prompt für einen futuristischen Magnetschwebezug"></a>
+
+**Prompt**
+
+```text
+Ein futuristischer Magnetschwebe-Schnellzug rast durch eine transparente Glasvakuumröhre.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [Originalbeitrag](https://x.com/Pixel_Neuron/status/2080454415400493332) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
+
+### 3D-Versteckspiel-Prompt mit Chamäleon und Roboter
+
+[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="3D-Versteckspiel-Prompt mit Chamäleon und Roboter"></a>
+
+**Prompt**
+
+```text
+Ein Prompt an beide: ein Versteckspiel. Ein Chamäleon bemalt sich passend zur Wand, während ein Roboter es jagt. Eine Datei, spielbar, Runden, Punkte, Übereinstimmungsprozent. Keine Demo, ein fertiges Spiel.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Originalbeitrag](https://x.com/sonicsmarta/status/2080392777515311115) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
+
+### 3D-Kirschblütenbaum-Prompt für Claude Fable 5
+
+[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="3D-Kirschblütenbaum-Prompt für Claude Fable 5"></a>
+
+**Prompt**
+
+```text
+Baue einen 3D-Kirschblütenbaum. Gib ihm keine vorgefertigten Baumbibliotheken; das Modell muss die Struktur selbst generieren.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [Originalbeitrag](https://x.com/zhodonx/status/2080178541979664741) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
+
+### Mehrfach-Prompt für Shop, interaktives 3D-Museum und RTS-Klon
+
+[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · Sonstiges
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="Mehrfach-Prompt für Shop, interaktives 3D-Museum und RTS-Klon"></a>
+
+**Prompt**
+
+```text
+Build 1: Onlineshop mit 30 Produkten und 30 generierten Bildern.
+Build 2: Interaktives 3D-Museum, das fast 1.000 echte Gemälde aus Wikipedia in eine Datenbank übernimmt.
+Build 3: Ein Age-of-Empires-Klon.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Originalbeitrag](https://x.com/crptAtlas/status/2080050176132300960) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="hole-io-style-three-js-game-2079898758427324573"></a>
+
+### Three.js-Spielprompt im Stil von Hole.io
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Three.js-Spielprompt im Stil von Hole.io"></a>
+
+**Prompt**
+
+```text
+Baue in einem Versuch ein vollständiges Hole.io-artiges Spiel mit HTML und Three.js.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [Originalbeitrag](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
 
 ### Kimi-K3-Prompt für einen WebGL2-Schwarzloch-Raytracer in einer Datei

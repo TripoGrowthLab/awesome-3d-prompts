@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (5)</summary>
+<summary>浏览案例 (17)</summary>
 
+- [用于 Kimi K3 的一次性捉迷藏游戏提示](#one-shot-hide-and-seek-game-2080806989169307780)
+- [Claude Fable 5 的程序化 Three.js 武器建模任务](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [三个单文件 HTML Three.js 程序化枪械提示](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [用于可变换 Three.js 城市街区场景的 Kimi K3 提示词](#transforming-three-js-city-block-scene-2080724552422924382)
+- [Claude Opus 5 中用于制作达·芬奇扑翼机的 Three.js 提示词](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [带有独特角色和多关卡机制的愤怒的小鸟风格克隆游戏](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [用于比较 Claude Fable 5 和 Kimi K3 的3D足球场构建任务](#3d-soccer-stadium-2080473039834333229)
+- [用于未来磁悬浮列车场景的 Three.js 提示词](#futuristic-maglev-train-in-three-js-2080454415400493332)
+- [变色龙与机器人捉迷藏 3D 游戏提示词](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
+- [用于 Claude Fable 5 的 3D 樱花树提示词](#3d-cherry-blossom-tree-2080178541979664741)
+- [涵盖电商、交互式 3D 博物馆和 RTS 克隆的多项目提示词](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
+- [Hole.io 风格的 Three.js 游戏提示](#hole-io-style-three-js-game-2079898758427324573)
 - [Kimi K3 的单文件 WebGL2 黑洞光线追踪器提示词](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [用于单文件 HTML 的 Three.js 体素风足球动画提示词](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [用于使用 Fable 5 构建纽约的 Blender 城市建模提示词](#modeling-new-york-city-in-blender-2079387760478073087)
@@ -35,6 +47,235 @@
 - [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
+
+### 用于 Kimi K3 的一次性捉迷藏游戏提示
+
+[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="用于 Kimi K3 的一次性捉迷藏游戏提示"></a>
+
+**提示词**
+
+```text
+一个一次性的捉迷藏游戏：一只白色变色龙躲在手绘房间里，把自己涂成与墙面一致的颜色，在机器人搜寻者三次搜查中存活下来。实时像素差异匹配百分比、五个程序化区域、合成音效、三个计分回合——一个 HTML 文件，不使用库。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [查看原帖](https://x.com/0x_scalp/status/2080806989169307780) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Claude Fable 5 的程序化 Three.js 武器建模任务
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5 的程序化 Three.js 武器建模任务"></a>
+
+**提示词**
+
+```text
+The Hype 将 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同的程序化 Three.js 工程任务上进行了比较
+
+每个模型都必须构建：
+• M4 卡宾枪
+• Glock 18C
+• Steyr TMP
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [查看原帖](https://x.com/adxtyahq/status/2080759312008503365) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### 三个单文件 HTML Three.js 程序化枪械提示
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="三个单文件 HTML Three.js 程序化枪械提示"></a>
+
+**提示词**
+
+```text
+我们的测试——3 个提示，单文件 HTML，@threejs，完全程序化，无资源文件。每个都带一个小型开火按钮（Web Audio 枪声 + 枪口闪光 + 后坐力 + 抛壳）和一个分解切换，可将枪械炸开成带标签的部件并重新组装：
+
+1. 5.56 M4 卡宾枪——可伸缩枪托、safe·semi·burst 下机匣、带 r14–r28 面板编号的四面导轨、Aimpoint 红点、垂直前握把、折叠两脚架、A2 消焰器，拆成 10 个部件
+
+2. glock 18c——可选射击模式的冲锋手枪、带开槽的 18c 补偿器、"glock 18c / austria 9x19" 滚印、加长 33 发弹匣，拆解为套筒、开槽枪管、复进簧、套筒座、弹匣
+
+3. steyr tmp——带筋纹的聚合物外壳、带螺纹枪管、一体式前垂直握把、倾斜的半透明 30 发弹匣
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [查看原帖](https://x.com/thehypedotnews/status/2080757148078768504) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### 用于可变换 Three.js 城市街区场景的 Kimi K3 提示词
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="用于可变换 Three.js 城市街区场景的 Kimi K3 提示词"></a>
+
+**提示词**
+
+```text
+我给了它一个很狠的 Three.js 提示词：在一个 HTML 文件里，构建一个从 1945 年到 2055 年不断变化的城市街区，建筑、汽车、商店、人群、灯光和 SFX 都会变化。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [查看原帖](https://x.com/ggg78g89/status/2080724552422924382) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### Claude Opus 5 中用于制作达·芬奇扑翼机的 Three.js 提示词
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Claude Opus 5 中用于制作达·芬奇扑翼机的 Three.js 提示词"></a>
+
+**提示词**
+
+```text
+用 Three.js 制作达·芬奇扑翼机
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [查看原帖](https://x.com/HarshithLucky3/status/2080720533277319587) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### 带有独特角色和多关卡机制的愤怒的小鸟风格克隆游戏
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="带有独特角色和多关卡机制的愤怒的小鸟风格克隆游戏"></a>
+
+**提示词**
+
+```text
+制作一个《愤怒的小鸟》克隆游戏，具有独特小鸟、多个关卡和机制。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [查看原帖](https://x.com/BuildFastWithAI/status/2080624574883123541) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### 用于比较 Claude Fable 5 和 Kimi K3 的3D足球场构建任务
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="用于比较 Claude Fable 5 和 Kimi K3 的3D足球场构建任务"></a>
+
+**提示词**
+
+```text
+有开发者给模型下达了相同任务：“制作一个3D足球场”。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-soccer-stadium-2080473039834333229) · [查看原帖](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
+
+### 用于未来磁悬浮列车场景的 Three.js 提示词
+
+[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="用于未来磁悬浮列车场景的 Three.js 提示词"></a>
+
+**提示词**
+
+```text
+一列未来感磁悬浮子弹列车在透明玻璃真空管中高速穿行。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [查看原帖](https://x.com/Pixel_Neuron/status/2080454415400493332) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
+
+### 变色龙与机器人捉迷藏 3D 游戏提示词
+
+[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="变色龙与机器人捉迷藏 3D 游戏提示词"></a>
+
+**提示词**
+
+```text
+一个提示，同时发给两个模型：一个捉迷藏游戏。变色龙会把自己涂成与墙面相匹配的颜色，而机器人会追捕它。单文件、可玩、回合制、计分、匹配百分比。不是演示，而是一个完整游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [查看原帖](https://x.com/sonicsmarta/status/2080392777515311115) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
+
+### 用于 Claude Fable 5 的 3D 樱花树提示词
+
+[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="用于 Claude Fable 5 的 3D 樱花树提示词"></a>
+
+**提示词**
+
+```text
+构建一棵 3D 樱花树；不要使用任何预制树木库；模型必须自行生成结构
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [查看原帖](https://x.com/zhodonx/status/2080178541979664741) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
+
+### 涵盖电商、交互式 3D 博物馆和 RTS 克隆的多项目提示词
+
+[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · 其他
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="涵盖电商、交互式 3D 博物馆和 RTS 克隆的多项目提示词"></a>
+
+**提示词**
+
+```text
+构建 1：带有 30 个产品和 30 张生成图片的电商商店
+构建 2：一个交互式 3D 博物馆，将将近 1,000 幅真实画作从维基百科拉取到数据库中
+构建 3：一个 Age of Empires 克隆
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [查看原帖](https://x.com/crptAtlas/status/2080050176132300960) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="hole-io-style-three-js-game-2079898758427324573"></a>
+
+### Hole.io 风格的 Three.js 游戏提示
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Hole.io 风格的 Three.js 游戏提示"></a>
+
+**提示词**
+
+```text
+用 HTML + Three.js 在一次尝试中构建一个完整的 Hole.io 风格游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [查看原帖](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
 
 ### Kimi K3 的单文件 WebGL2 黑洞光线追踪器提示词
@@ -162,4 +403,4 @@
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 9**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 405 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 417 条案例与在线演示 →</a></strong></p>

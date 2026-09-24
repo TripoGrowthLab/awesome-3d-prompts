@@ -28,6 +28,18 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Interaktiver Energiekern mit zwei Ringen](#interactive-dual-ring-energy-core-2096551010089263181)
+- [Ezechiels Tempelvision in 3D](#gpt-6-astra-2096547658164834788)
+- [Umschaltbare Gesichtsausdrücke in Blender](#switchable-character-expressions-in-blender-2096525100518453342)
+- [Wasser in Endlosschleife mit Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
+- [Von One Piece inspirierte Segelwelt](#one-piece-inspired-sailing-world-2096518775042707700)
+- [Das eigene Zimmer als interaktives Portfolio](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [Vollständiger Rätselspiel-Level in Three.js](#complete-three-js-puzzle-level-2096505740643246231)
+- [YF-24-Boot auf einer ruhigen 3D-See](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
+- [Vom Grundriss des obersten Stockwerks zur Blender-Vorschau](#top-floor-plan-to-blender-preview-2096501340889374883)
+- [Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons](#walkable-low-poly-gwacheon-village-2096490395614019793)
+- [Generierte 3D-Assets zusammensetzen und animieren](#assemble-and-animate-generated-3d-assets-2096481425050743048)
+- [Wright Flyer durch einen japanischen Wald](#wright-flyer-through-a-japanese-forest-2096467585785286808)
 - [Prozedurales Insekt, das an Oberflächen klettert](#surface-climbing-procedural-insect-2096460081982304546)
 - [Lego 1999 Racers neu entwickeln](#gpt-6-astra-2096438110095585753)
 - [Spielbare Wohnung nach dem Vorbild von D4](#playable-d4-inspired-apartment-2096413869841473930)
@@ -66,20 +78,292 @@
 - [Zubli: eine reaktionsfähige WebGL-Figur](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Meeresleben in einer Kaffeetasse](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [Fisch-Überlebensspiel vom Aquarium bis zum Ozean](#gpt-6-astra-2096156244180664627)
-- [Dropzone: Battle-Royale-Arena](#dropzone-battle-royale-arena-2096155883122413946)
-- [Flugspiel im Browser](#browser-flight-game-2096149823216898445)
-- [Vom Café-Foto zum Hochformat-Rundgang](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [Automatisches Figurenrig mit Kung-Fu-Bewegungen](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Wikingerfigur in Blender](#viking-character-in-blender-2096140378777010278)
-- [Odyssey-inspiriertes Plattformabenteuer](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [Geriggter und animierter T. rex](#rigged-and-animated-t-rex-2096133339329536249)
-- [Begehbares Büro mit 32 animierten Menschen](#walkable-office-with-32-animated-people-2096131961345720477)
-- [Abendlicher Kameraflug durch eine Adiyogi-Szene](#adiyogi-evening-fly-through-2096128774203171021)
-- [Formel-1-Auto in Blender](#formula-one-car-in-blender-2096125193580113957)
-- [Lebendige Jetfertigung](#live-jet-manufacturing-plant-2096122429319852319)
-- [Spielbares Remake einer Mobile-Game-Werbung](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
 
 </details>
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### Interaktiver Energiekern mit zwei Ringen
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Interaktiver Energiekern mit zwei Ringen"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Modelliere einen Energiekern, zwei Ringe und einen Metallsockel in Blender. Exportiere die Materialien in einen Three.js-Viewer mit Steuerung für Drehung, Zoom, automatischen Umlauf und Pulsieren.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Originalbeitrag](https://x.com/oneruofeng/status/2096551010089263181) · [Quellcode](https://github.com/wangruofeng/orbital-core-showcase) · [Live-Demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### Ezechiels Tempelvision in 3D
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Ezechiels Tempelvision in 3D"></a>
+
+**Prompt**
+
+```text
+Wie würde Ezechiels Tempelvision in 3D aussehen?
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096547658164834788) · [Originalbeitrag](https://x.com/KrixOnok/status/2096547658164834788) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### Umschaltbare Gesichtsausdrücke in Blender
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Umschaltbare Gesichtsausdrücke in Blender"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Bereite vor dem Rigging mehrere Ausdrucksvarianten einer Tripo-Figur in Blender vor. Richte die Meshes aus und schalte ohne Interpolation zwischen ihnen um; verkleinere inaktive Varianten ins Innere des Kopfes. Stelle das nicht als weiche Überblendung oder als VRM-kompatibel dar.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Originalbeitrag](https://x.com/Dstudio_ai/status/2096525100518453342) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### Wasser in Endlosschleife mit Geometry Nodes
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Wasser in Endlosschleife mit Geometry Nodes"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle mit Blender Geometry Nodes einen periodischen Wasseroberflächeneffekt ohne Baking. Halte den Node-Aufbau bearbeitbar und beschreibe ihn als Oberflächenmodell, nicht als vollständige Flüssigkeitssimulation.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Originalbeitrag](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### Von One Piece inspirierte Segelwelt
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="Von One Piece inspirierte Segelwelt"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine spielbare Segelwelt mit einem Blender-Schiff und einem Three.js-Ozean. Ergänze wechselndes Wetter, Unterwassererkundung, Kielwasser, Schaum, Gischt und bewegte Segel.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Originalbeitrag](https://x.com/yash_yk45/status/2096518775042707700) · [Live-Demo](https://one-piece-sea-world.vercel.app/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### Das eigene Zimmer als interaktives Portfolio
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Das eigene Zimmer als interaktives Portfolio"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Verwandle ein persönliches Zimmer in eine interaktive Vorstellungswebsite. Baue die Szene in Blender und führe das Baking durch. Ergänze anschließend Kaffeedampf, eine Animation im Matrix-Stil und subtile Shader-Effekte.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Originalbeitrag](https://x.com/kalanyei/status/2096506357868642342) · [Live-Demo](https://room.kalan.dev/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### Vollständiger Rätselspiel-Level in Three.js
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Vollständiger Rätselspiel-Level in Three.js"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle einen vollständigen 3D-Rätselspiel-Level in Three.js samt spielbarer Mechaniken. Binde die bereitgestellten Audiodateien ein, sobald Level und Interaktionen funktionieren.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Originalbeitrag](https://x.com/TvWoo/status/2096505740643246231) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
+
+### YF-24-Boot auf einer ruhigen 3D-See
+
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="YF-24-Boot auf einer ruhigen 3D-See"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Modelliere ein YF-24-Boot in Blender und animiere seine Fahrt über eine dreidimensionale See bei Windstärke 2 nach Beaufort. Verbessere die Form anhand von Bootsreferenzen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Originalbeitrag](https://x.com/yhmtmt1/status/2096503275910832461) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
+
+### Vom Grundriss des obersten Stockwerks zur Blender-Vorschau
+
+[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Vom Grundriss des obersten Stockwerks zur Blender-Vorschau"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle anhand des Grundrisses des obersten Stockwerks eines Hauses eine Blender-Szene und rendere eine 10-sekündige Vorschau mit wenigen Samples. Priorisiere eine klare Raumaufteilung, bevor du die Materialien verfeinerst.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Originalbeitrag](https://x.com/indigox/status/2096501340889374883) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
+
+### Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle in einer einzigen HTML-Datei ein gemütliches, erkundbares Low-Poly-Dorf, das von Gwacheon inspiriert ist. Verbinde prozedurale 3D-Landschaft, Atmosphäre, Oberfläche und Interaktionen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Originalbeitrag](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
+
+### Generierte 3D-Assets zusammensetzen und animieren
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Generierte 3D-Assets zusammensetzen und animieren"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Generiere optimierte 3D-Assets mit Tripo P2, setze sie in Blender zusammen und rigge und animiere die Figuren. Prüfe, wie Figuren und Szene räumlich zusammenpassen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Originalbeitrag](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
+
+### Wright Flyer durch einen japanischen Wald
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Spiele
+
+Remix von: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="Wright Flyer durch einen japanischen Wald"></a>
+
+**Prompt**
+
+```text
+# KOMOREBI — Ein Flug über den Wald
+
+## 1. Ziel
+Alle UI-Texte im Spiel bleiben auf Englisch.
+Erstelle ein vollständiges Browser-Flugspiel: Steuere einen unverkennbaren Wright Flyer von 1903 entlang eines japanischen Waldflusses, sammle Geisterlaternen ein, durchfliege Torii-Tore und erreiche ein Bergheiligtum. Verwende https://komorebi-forest-flight.tripo.page/ und die bereitgestellten Referenzen für die fertige Komposition. Nenne Jared (https://x.com/jaredliu_bravo) als Autor und The Bugged Dev (https://x.com/thebuggeddev/status/2096467585785286808) als Inspiration.
+
+## 2. Visuelle Ausrichtung
+Erstelle einen ruhigen, filmischen Miniaturwald mit tiefen Zedernwäldern in Grüntönen, türkisfarbenem Wasser, warmem elfenbeinfarbenem Leinen, verwittertem Holz, moosbewachsenen Steinen und zurückhaltendem bernsteinfarbenem Licht. Zeige das Flugzeug klar aus einer ruhigen Verfolgerkamera von hinten, sodass das nächste Sammelobjekt über seinen Tragflächen sichtbar ist. Verwende weiches Sonnenlicht außerhalb des vorderen Sichtfelds, Umgebungsaufhellung, Kontaktschatten, neblige Berge, Wasserreflexionen, treibende Partikel und ein dezentes Bloom. Vermeide Überbelichtung, schwebende Häuser, übergroße Lichtflecken und kantige Felswände.
+
+Verwende warmen, gebrochen weißen Text, dünne durchscheinende Rahmen, Serifenschriften im Stil von Cormorant Garamond für lokale Überschriften und Bedienelemente im Stil von DM Sans. Oben links: KOMOREBI, 木漏れ日 und A FOREST FLIGHT. Platziere Kompass und Compare-Steuerung oben, Utility-Schaltflächen oben rechts, Punktestand und Herzen links, Höhe und Geschwindigkeit rechts sowie den Kapitel-Fortschritt am unteren Rand. Die einleitende Einladung lautet „Lass dich vom Wald tragen.“ mit „Flug starten“. Verdichte das Overlay auf Smartphones, ohne das Flugzeug zu verdecken.
+
+## 3. Welt
+Erstelle eine deterministische Route über 3,6 km mit vier gleichmäßig verteilten Kapiteln: Flüsternder Wald, Verborgene Wasserfälle, Laternen-Tal und Wolkenheiligtum. Streame oder recycle Szenerieabschnitte. Ein sanft geschwungener türkisfarbener Fluss definiert den Korridor; verwende x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 als Ausgangskurve. Platziere Torii-Öffnungen entlang der unterstützten Flugroute und staffele Wald, Holzhäuser, Wasserfälle, runde Flusssteine und neblige Berge darum. Terrassiere die Grundfläche jedes Hauses und bette sein Fundament an allen vier Ecken ein.
+
+## 4. Asset-Inventar
+Bereite stabile Modell-Slots in dieser Reihenfolge vor:
+- `aircraft`: offener Wright Flyer von 1903 mit zwei breiten Tragflächen aus elfenbeinfarbenem Leinen, freiliegendem schlankem Holzrahmen, Streben und Spannseilen, vorderem Höhenruder und zwei hinteren Druckpropellern. Halte die Propeller als separate animierte Teile ohne doppelte Blätter.
+- `cedar`: hoher rötlich-brauner Stamm, unregelmäßig geschichtetes tiefgrünes Laub, zusammenhängende Äste und verwurzelter Stand; mit variierter Skalierung und Rotation wiederverwenden.
+- `minka`: dunkles verwittertes Holz, verputzte Gefache, breites geneigtes Ziegeldach, großzügige Dachüberstände, warme Shoji-Fenster und Steinfundament.
+- `torii`: verwittertes japanisches Holztor mit zwei Pfosten und breitem, geschwungenem oberen Querbalken; seine offene Durchflugpassage muss zum vorhandenen Kollisionsbereich passen.
+- `lantern`: warme Geisterlaterne aus Papier und Holz; für wiederholte Sammelobjekte und kleinere dekorative Lichter dieselbe Modellfamilie verwenden, ihre Funktionen jedoch sichtbar unterscheiden.
+- `rock`: runder, moosbewachsener Flussstein mit standsicherer Basis; entlang der Ufer instanziieren, ohne den Flugkorridor zu blockieren.
+Fluss, Gelände, Berge, Wasserfallflächen, Leuchtringe, Nebel, Partikel und UI prozedural erzeugen. Jeden Slot im Registry auflisten und bei Änderungen am Modell alle wiederholten Instanzen aktualisieren.
+
+## 5. Flug und Feedback
+Nach „Flug starten“ automatisch vorwärts fliegen. W/S oder Auf/Ab passen die Höhe an; A/D oder Links/Rechts steuern und neigen das Flugzeug. Shift verbraucht einen sichtbaren, sich wieder aufladenden Windboost-Vorrat. Sanfte Beschleunigung und eine nachlaufende Kamera müssen reaktionsfähig bleiben. Die standardmäßige Flugassistenz führt das Flugzeug nach Ende der Eingabe sanft zurück zum Fluss und zur Zielhöhe; eine Assistenz-Umschaltung und Qualitätseinstellungen anbieten. Touch-Steuerung und Boost bereitstellen. Esc pausiert; Hilfe, Einstellungen und der Flugzeug-Viewer pausieren den Flug und stellen den vorherigen Zustand wieder her. Bei Fokusverlust alle gehaltenen Eingaben zurücksetzen.
+
+Vergib drei Herzen. Jede Geisterlaterne bringt 100 Punkte, ein erfolgreich durchflogenes Torii 250 Punkte – jeweils nur einmal pro Ziel. Kollisionen mit Boden, Ufer und Balken entfernen ein Herz und gewähren kurzzeitig Unverwundbarkeit. Den Flug nach 3,6 km mit Punktestand, Bestwert und erneutem Spielen beenden; bei null Herzen einen Neustart anbieten. Den Bestwert lokal speichern und einen Fallback für Speicherfehler vorsehen.
+
+Laternen befinden sich in großen ovalen goldenen Sammelringen mit schwebenden, pulsierenden Leuchthöfen und Funken. Das nächste Ziel mit „+100 · DURCHFLIEGEN“ beschriften. Sein großzügiges Treffer-Volumen am animierten Ring ausrichten. Einsammeln erzeugt einen sich ausdehnenden Ring, warme Partikel, eine aufsteigende Punktzahl und einen HUD-Impuls. Durchflogene Tore ausblenden, bevor sie die Verfolgerkamera verdecken.
+
+## 6. Implementierung
+Vite, Three.js und JavaScript-ES-Module verwenden und Route/Kollision/Punktwertung, Szenerie, Modelle, Effekte und UI voneinander trennen. Abhängigkeiten, Schriften und Laufzeit-Assets lokal bündeln; eine statische Website ausliefern. GLTFLoader sowie ein Asset-Manifest mit Bounds, Ausrichtung, Herkunft und Fallback-Factories pro Slot verwenden. Kollisionen unabhängig von der Form importierter Meshes halten. Die beiden Propeller mit Delta-Zeit rotieren lassen; sie aus der Verfolgerkamera sowie einem dreh- und zoombaren Flugzeug-Viewer prüfen. Einen Download der tatsächlich lokal verfügbaren Flugzeugdatei anbieten. Blender ist optional, um fest eingebaute Propeller zu trennen, Drehpunkte zu korrigieren oder bei gemessenen Performance-Anforderungen ein leichteres Mesh zu erzeugen.
+
+Die ursprüngliche visuelle Basis beibehalten. Sobald ein importierter Slot vorhanden ist, schaltet Compare oder C zwischen dieser Basis und verfügbaren Ersatzmodellen um, ohne Navigation oder Zurücksetzen von Flug, Kamera, Herzen, Boost, Punktestand oder Sammelobjekten. Den Fortschritt während des Übergangs einfrieren, bis zur nächsten bereiten Szene das letzte vollständige Bild beibehalten und anschließend über etwa 650 ms überblenden. Reduced Motion respektieren; wiederholte Klicks abfangen und bei Fehlern die vorherige Szene wiederherstellen. Einen dunklen Inline-Startbildschirmhintergrund, begrenztes DPR, eine begrenzte Partikelzahl und höchstens zwei gecachte Szenenvarianten verwenden.
+
+## 7. Abnahme
+Quellcode, Lockfile, npm run dev, npm run build und statische dist-Ausgabe bereitstellen. Einen vollständigen Flug, Boost, das Einsammeln von Laternen und das Durchfliegen von Torii, Kollisionsimmunität, Pausieren/Fortsetzen, Touch-Steuerung, erneutes Spielen, Viewer und unabhängige Slot-Imports überprüfen. Prüfen, dass beide Compare-Richtungen den Zustand ohne weiße Frames oder wachsenden GPU-Ressourcenverbrauch beibehalten. Erdung der Häuser, Flugzeugsilhouette, Propellerbewegung, lesbare Beleuchtung und Wiederherstellung nach langsamen Ladevorgängen kontrollieren. Tatsächlich ausgeführte Tests und Performance-Bedingungen dokumentieren. Den folgenden gemeinsamen Workflow für die Asset-Generierung befolgen und zurückgeben.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Originalbeitrag](https://x.com/thebuggeddev/status/2096467585785286808) · [Live-Demo](https://komorebi-forest-flight.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="surface-climbing-procedural-insect-2096460081982304546"></a>
 
 ### Prozedurales Insekt, das an Oberflächen klettert
@@ -1510,246 +1794,6 @@ First define the full gameply loop and level designs and stuff for this game int
 </details>
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096156244180664627) · [Originalbeitrag](https://x.com/AVachaspat92841/status/2096156244180664627) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone: Battle-Royale-Arena
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone: Battle-Royale-Arena"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein Third-Person-Browser-Battle-Royale mit Sturmkreis, neun KI-Gegnern, Pulsgewehr, Gesundheit und Nachladen. Ergänze platzierbare Deckungswände und einen vollständigen Eliminationsablauf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Originalbeitrag](https://x.com/Motion_Viz/status/2096155883122413946) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### Flugspiel im Browser
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Flugspiel im Browser"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle aus einem leeren Projekt ein vollständiges 3D-Flugspiel im Browser. Integriere steuerbaren Flug, navigierbare Umgebung, ein klares Ziel und eine stimmige Präsentation.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/browser-flight-game-2096149823216898445) · [Originalbeitrag](https://x.com/givros/status/2096149823216898445) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### Vom Café-Foto zum Hochformat-Rundgang
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Vom Café-Foto zum Hochformat-Rundgang"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein Café anhand seines Fotos in Blender nach, einschließlich Holzdecke, Lichtbändern, Kaffeeröster, Regalen und Pflanzen. Liefere eine bearbeitbare Szene und einen 15-sekündigen Kamerarundgang im Hochformat.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Originalbeitrag](https://x.com/harrisonitsme/status/2096143359505269079) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### Automatisches Figurenrig mit Kung-Fu-Bewegungen
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Automatisches Figurenrig mit Kung-Fu-Bewegungen"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle für die bereitgestellte 3D-Figur ein Rig und ergänze Gehen, Laufen und mehrere Kung-Fu-Bewegungen. Prüfe die Animationen auf kaputte Gelenke und instabile Posen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Originalbeitrag](https://x.com/thebuggeddev/status/2096141728487178503) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Wikingerfigur in Blender
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Wikingerfigur in Blender"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine bearbeitbare 3D-Wikingerfigur in Blender. Konzentriere dich auf erkennbare Kleidung, Gesichtsstruktur, Körperproportionen und eine klare Präsentationspose.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/viking-character-in-blender-2096140378777010278) · [Originalbeitrag](https://x.com/fre4kspace/status/2096140378777010278) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### Odyssey-inspiriertes Plattformabenteuer
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey-inspiriertes Plattformabenteuer"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue einen Odyssey-inspirierten Three.js-Level mit acht Plattformen, drei sammelbaren Monden, zurückkehrenden Kappenangriffen, Gegnern und Checkpoints. Ergänze Touchsteuerung und teste einen vollständigen Durchlauf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Originalbeitrag](https://x.com/AiHubMix/status/2096135808243876152) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### Geriggter und animierter T. rex
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="Geriggter und animierter T. rex"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Rigg ein generiertes T.-rex-Modell und erstelle glaubwürdige Bewegungen. Rendere die Figur in Three.js und prüfe, ob die Animation das Modell stimmig verformt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Originalbeitrag](https://x.com/majidmanzarpour/status/2096133339329536249) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
-
-### Begehbares Büro mit 32 animierten Menschen
-
-[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="Begehbares Büro mit 32 animierten Menschen"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein Three.js-Browserbüro mit Ego-Navigation, 32 geriggten Menschen, die Besucher beim Namen begrüßen, anklickbaren Türen, Orbitsteuerung und einer Grundrissansicht.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Originalbeitrag](https://x.com/demgufever82151/status/2096131961345720477) · [Quellcode](https://github.com/Parithosh-Varma/office) · [Live-Demo](https://office-2nw.pages.dev/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
-
-### Abendlicher Kameraflug durch eine Adiyogi-Szene
-
-[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Abendlicher Kameraflug durch eine Adiyogi-Szene"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine Adiyogi-Szene in Blender mit weitläufigem Gelände, detaillierten Nahaufnahmen und warmem Abendlicht. Rendere einen 30-sekündigen Kameraflug und bewahre die bearbeitbare Szene auf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Originalbeitrag](https://x.com/thejothiram/status/2096128774203171021) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="formula-one-car-in-blender-2096125193580113957"></a>
-
-### Formel-1-Auto in Blender
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Formel-1-Auto in Blender"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle durch Computerbedienung ein 3D-Formel-1-Modell in Blender.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Originalbeitrag](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
-
-### Lebendige Jetfertigung
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Lebendige Jetfertigung"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Recherchiere Flugzeugfertigung und baue eine live laufende Three.js-Jetfabriksimulation. Modelliere Maschinenzyklen, Produktionsstationen, Transporte und Engpässe und teste den Ablauf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Originalbeitrag](https://x.com/konstantinsaifo/status/2096122429319852319) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
-
-### Spielbares Remake einer Mobile-Game-Werbung
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="Spielbares Remake einer Mobile-Game-Werbung"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Nutze eine Mobile-Game-Werbung als Vorlage für ein spielbares Browserspiel. Rekonstruiere ihre Kerninteraktion und passe mit Blender-Assets die visuelle Grundidee an.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Originalbeitrag](https://x.com/buildingadlicio/status/2096111709496680842) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

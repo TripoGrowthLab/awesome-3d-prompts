@@ -28,6 +28,18 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Bản sao Minecraft có chế độ nhiều người chơi](#gpt-6-astra-2097797479488246071)
+- [Máy gia tốc hạt 3D tương tác](#gpt-6-astra-2097781208596029936)
+- [Mô phỏng nhà máy và bệ phóng 3D thời gian thực](#gpt-6-astra-2097730920224534868)
+- [Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán](#gpt-6-astra-2097678911882809407)
+- [Dựng cảnh hài hước mèo bị cánh tay robot đuổi bắt bằng GPT-6 Astra và Blender](#gpt-6-astra-2097675660873605422)
+- [Website cánh đồng lúa 3D sống động](#gpt-6-astra-2097602565110419781)
+- [Cảnh VHS Backrooms lấy cảm hứng từ Blender](#gpt-6-astra-2097534290112188602)
+- [Thế giới hồ đất ngập nước ấm cúng](#gpt-6-astra-2097343467026289039)
+- [Tái tạo game web 《Liên Minh Huyền Thoại》](#gpt-6-astra-2097336230078013598)
+- [Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh](#gpt-6-astra-2097323734504017936)
+- [Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại](#gpt-6-astra-2097320830602809682)
+- [Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu](#gpt-6-astra-2097313247116341424)
 - [Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI](#gpt-6-astra-2097167383576383502)
 - [Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản](#gpt-6-astra-2097153139795468365)
 - [Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot](#gpt-6-astra-2097123382852829230)
@@ -66,20 +78,582 @@
 - [Mô hình Seoul thu nhỏ có thể khám phá](#interactive-miniature-of-seoul-2096557555086725159)
 - [Trò chơi đua rally Unity chơi được trên điện thoại](#mobile-playable-unity-rally-game-2096556692842348826)
 - [Vòng lặp đối chiến của trò chơi thẻ bài sưu tầm](#trading-card-battle-game-loop-2096555856204644550)
-- [Lõi năng lượng hai vòng tương tác](#interactive-dual-ring-energy-core-2096551010089263181)
-- [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#gpt-6-astra-2096547658164834788)
-- [Chuyển đổi biểu cảm nhân vật trong Blender](#switchable-character-expressions-in-blender-2096525100518453342)
-- [Mặt nước lặp tuần hoàn bằng Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
-- [Thế giới hàng hải lấy cảm hứng từ One Piece](#one-piece-inspired-sailing-world-2096518775042707700)
-- [Biến căn phòng riêng thành hồ sơ năng lực tương tác](#personal-room-as-an-interactive-portfolio-2096506357868642342)
-- [Màn chơi giải đố Three.js hoàn chỉnh](#complete-three-js-puzzle-level-2096505740643246231)
-- [Thuyền YF-24 trên mặt biển 3D êm dịu](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
-- [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#top-floor-plan-to-blender-preview-2096501340889374883)
-- [Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon](#walkable-low-poly-gwacheon-village-2096490395614019793)
-- [Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo](#assemble-and-animate-generated-3d-assets-2096481425050743048)
-- [Wright Flyer Xuyên Qua Rừng Nhật Bản](#wright-flyer-through-a-japanese-forest-2096467585785286808)
 
 </details>
+<a id="gpt-6-astra-2097797479488246071"></a>
+
+### Bản sao Minecraft có chế độ nhiều người chơi
+
+[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/7c094bee3d162f406b0aedead6396b7bab3d03671669049c5809929cff7fd07a.webp" width="840" loading="lazy" alt="Bản sao Minecraft có chế độ nhiều người chơi"></a>
+
+**Prompt**
+
+```text
+Tạo một bản sao Minecraft hoàn chỉnh từ đầu đến cuối và cho tôi biết nếu bạn cần thêm thông tin gì. Tôi đã đính kèm một tài liệu nghiên cứu chuyên sâu về Minecraft có thể hữu ích. Hãy đảm bảo cơ chế, hoạt ảnh và đồ họa được tái hiện thật chính xác. Mỗi thế giới mới phải được tạo ngẫu nhiên bằng thuật toán dựa trên một seed. Bao gồm tất cả mob mà người chơi Minecraft mong đợi và đảm bảo chúng xuất hiện đúng quần xã. Sau khi hoàn tất phiên bản chơi đơn, hãy thêm khả năng mở thế giới qua mạng LAN để người chơi tham gia máy chủ của nhau. Theo mặc định, game phải sử dụng chế độ Sinh tồn. Hãy làm cho kết cấu bề mặt trông giống hệt Minecraft; nếu tìm được đúng các kết cấu trên mạng, bạn có thể sử dụng chúng. Khi tôi nói muốn game giống hệt Minecraft, tôi thực sự muốn như vậy. Không ai được nhận ra sự khác biệt giữa website bạn tạo ra và Minecraft thật. Tất cả chỉ nhằm mục đích giáo dục, nên không cần lo về bản quyền. Đừng chỉ dùng HTML cho giao diện game. Hãy xây dựng giao diện ngay trong game engine bằng các thành phần native. Mô hình nhân vật và mob phải là mô hình thật, đồng thời phải có ngoại hình, cách hoạt động và hoạt ảnh chính xác như trong game thật. Thêm âm thanh định hướng và các hiệu ứng âm thanh. Hãy kiểm tra từng trang, từng tương tác và từng cơ chế để hoàn thiện sản phẩm. Sau khi hoàn tất mọi thứ và tạo ra một bản sao Minecraft hoàn hảo, hãy bắt đầu tối ưu hiệu suất bằng các kỹ thuật như culling, khoảng cách kết xuất, khoảng cách mô phỏng, LOD theo khoảng cách, tối ưu FPS và các kỹ thuật khác. Đảm bảo logic game chính xác. Ví dụ, nếu phá một khối cát hoặc sỏi nằm bên dưới các khối cát hoặc sỏi khác, những khối phía trên phải rơi xuống. Nếu phá một khối đang nâng đỡ, mọi hoa hoặc cỏ bên trên cũng phải bị phá. Giao diện kho đồ phải trông giống hệt, và các tương tác phải cho cảm giác y như vậy, bao gồm phím tắt, hoạt ảnh và hiệu ứng trúng đòn của kiếm, vũ khí cùng các công cụ khác. Hãy tái tạo chính xác tương tác với nước và mob ở trong nước, tính năng tự động nhảy và mọi chi tiết nhỏ khác. Tập trung làm đúng từng chi tiết và hoàn thiện mọi thứ. Game không được có cảm giác lỗi hoặc giật. Trải nghiệm phải mượt mà và giống hệt Minecraft thật. Hãy chú ý đến những chi tiết nhỏ như mây, chu kỳ ngày đêm, thời tiết, nhạc nền Minecraft và nhiều yếu tố khác. Đảm bảo nước và dung nham chảy như mong đợi, đồng thời triển khai phần hiển thị của chúng thật chính xác. Mob không được xuất hiện chồng lên nhau, bên trong cây hoặc bên trong các khối. Thêm các công trình, dân làng, vật phẩm rơi và mọi nội dung liên quan đến Minecraft. Hoàn thiện logic sinh mob, đảm bảo hoạt ảnh của mob mượt mà và kích thước của từng mob cũng như nhân vật người chơi chính xác như trong Minecraft thật. Tập trung vào những hành động người chơi Minecraft thường thực hiện, chẳng hạn như vừa nhảy vừa đặt khối để bắc cầu nhanh hoặc leo cao hơn, vừa nhảy vừa nhấn Ctrl + W và nhiều thao tác khác. Khi cầm vật phẩm trên tay nhân vật, hãy làm cho chúng trông đẹp mắt và đảm bảo vị trí bàn tay khớp chính xác với Minecraft thật. Thêm hiệu ứng trúng đòn cho mob và đảm bảo mọi sprite vật phẩm trong kho đồ trông giống hệt như trong Minecraft thật.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a perfect end-to-end Minecraft clone, and let me know if you need anything from me. I’ve attached a deep research document on Minecraft that will be helpful. Make sure you absolutely nail the mechanics, animations, and graphics. Every new world should be procedurally and randomly generated using a seed. Include all the mobs players expect from Minecraft and ensure they appear in the correct biomes. Once the single-player implementation is complete, add the ability for players to open their worlds to LAN and join each other’s servers. The game should use Survival mode by default. Make the textures look exactly like Minecraft, and if you can find the exact textures online, you may use them. When I say I want it to be exactly like Minecraft, I mean it. No one should be able to tell the difference between the website you create and the real Minecraft. This is all for educational purposes, so don’t worry about copyright. Don’t simply use HTML for the game’s UI. Build it natively within the game engine. The character and mob models should be the real ones, and they should look, work, and animate exactly like they do in the real game. Add directional audio and sounds. Go page by page, interaction by interaction, and mechanic by mechanic to make it perfect. Once everything is complete and you have created a perfect Minecraft clone, start optimizing its performance using techniques such as culling, render distance, simulation distance, distance-based LOD, FPS optimization, and more. Make sure the game logic is accurate. For example, if a sand or gravel block underneath other sand or gravel blocks is broken, the blocks above it should fall. If a supporting block is broken, any flowers or grass above it should also break. The inventory UI should look exactly the same, and its interactions should feel identical, including shortcuts, animations, and the hit effects of swords and other weapons and tools. Accurately recreate interactions with water and mobs inside it, auto-jump, and all the other small details. Focus on getting these details right and making everything perfect. The game should not feel glitchy. It should feel smooth and exactly like the real Minecraft. Pay attention to smaller details such as clouds, the day-night cycle, weather, Minecraft background music, and more. Make sure water and lava flow as expected, and ensure their rendering is implemented perfectly. Mobs should not spawn on top of one another, inside trees, or inside blocks. Add Minecraft structures, villagers, loot, and everything related to them. Perfect the mob-spawning logic, ensure that mob animations are smooth, and make the size of every mob and the player character accurate to the real Minecraft. Focus on actions Minecraft players commonly perform, such as jumping while placing blocks to speed bridge or climb higher, using Ctrl + W while jumping, and more. Make items look good when held in the player’s hand, and ensure the hand position exactly matches the real Minecraft. Add hit effects on mobs, and make every item sprite in the inventory look exactly like it does in the real Minecraft.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097797479488246071) · [Bài đăng gốc](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097781208596029936"></a>
+
+### Máy gia tốc hạt 3D tương tác
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="Máy gia tốc hạt 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng một máy gia tốc hạt 3D tương tác, chi tiết, lấy cảm hứng từ LHC của CERN và máy dò ATLAS bằng Three.js.
+
+Tạo ba chế độ xem: máy dò với hàng nghìn bộ phận được hoạt ảnh riêng lẻ, vòng gia tốc với các chùm tia quay ngược chiều nhau và màn hình hiển thị va chạm mô phỏng.
+
+Cho máy dò bung tách qua sáu giai đoạn — từ các bánh xe lớn ở hai đầu và nam châm cho đến từng mô-đun cảm biến. Hỗ trợ tháo rời bằng thao tác cuộn, phát lại trong 30/60/90 giây, tạm dừng và lắp ráp ngược.
+
+Thêm công tắc hiển thị cho từng hệ thống, số lượng bộ phận, mô tả mang tính giáo dục và chuyển động camera bay quanh vòng gia tốc.
+
+Sử dụng giao diện tối cao cấp, vật liệu kim loại, điểm nhấn vàng tinh tế và ánh sáng điện ảnh. Giữ cho các bộ phận dễ quan sát, tránh chồng lấn quá mức.
+
+Tham khảo các tài liệu chính thức của CERN. Gắn nhãn rõ ràng cho hình học đơn giản hóa và các sự kiện mô phỏng.
+
+Bàn giao một tệp HTML độc lập duy nhất có thể chạy ngoại tuyến, kèm mã nguồn dễ di chuyển và README.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
+
+Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
+
+Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
+
+Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
+
+Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
+
+Consult official CERN references. Clearly label simplified geometry and synthetic events.
+
+Deliver one self-contained HTML file that works offline, plus portable source code and a README.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097781208596029936) · [Bài đăng gốc](https://x.com/k1rallik/status/2097781208596029936) · [Mã nguồn](https://github.com/bubblik525/collider) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097730920224534868"></a>
+
+### Mô phỏng nhà máy và bệ phóng 3D thời gian thực
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="Mô phỏng nhà máy và bệ phóng 3D thời gian thực"></a>
+
+**Prompt**
+
+```text
+Nghiên cứu các sách về sản xuất tinh gọn của @AirsupHQ, phát triển ý tưởng cho một nhà máy với 10 bệ phóng và xây dựng mô phỏng 3D thời gian thực.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097730920224534868) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2097730920224534868) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097678911882809407"></a>
+
+### Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="Xây dựng THE LAST GATE: game chạy vượt chướng ngại vật theo nhóm với các cổng tính toán"></a>
+
+**Prompt**
+
+```text
+Xây dựng THE LAST GATE: một game chạy vượt chướng ngại vật theo nhóm, chơi theo chiều dọc và có thể chơi được, với các cổng tính toán. Quy mô đội hiển thị phải khớp với số người thực tế; tổn thất do chướng ngại vật phải tạo ra hậu quả thực tế; màn chạm trán cuối phải được quyết định bởi số người còn lại. Cung cấp ba tuyến đường ngắn, chơi lại tức thì và replay thao tác có seed; không được bịa ra chiến thắng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097678911882809407) · [Bài đăng gốc](https://x.com/KeWai386772/status/2097678911882809407) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097675660873605422"></a>
+
+### Dựng cảnh hài hước mèo bị cánh tay robot đuổi bắt bằng GPT-6 Astra và Blender
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="Dựng cảnh hài hước mèo bị cánh tay robot đuổi bắt bằng GPT-6 Astra và Blender"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
+
+**Prompt**
+
+```text
+Tạo một đoạn phim hài động vật dài 10 giây, khung hình ngang 16:9, mang chất điện ảnh chân thực như quay trực tiếp
+Cánh tay robot gia dụng đuổi bắt mèo mướp cam trắng; mèo nhanh nhẹn né tránh rồi tinh nghịch vòng ra phía sau thùng chứa đồ. Kẹp robot kẹp lấy chiếc đuôi màu cam nhô ra sau thùng, nhấc lên mới phát hiện đó là một món đồ chơi hình đuôi mèo. Mèo thật đã vòng đến cạnh đế cánh tay robot và dùng chân trước nhấn nút tắt màu đỏ trên đế. Cánh tay robot dừng hoạt động, mèo thể hiện vẻ vui vẻ, mãn nguyện.
+Mở đầu bằng cảnh đuổi bắt ngay lập tức; ở giữa dùng vật chắn để duy trì sự hồi hộp; khi nhấc món đồ chơi lên sẽ tạo cú đảo chiều; cuối cùng mèo chủ động tắt máy, hoàn thành mảng miếng gây cười thứ hai. Chỉ tạo âm thanh hiện trường trong suốt video; không tạo nhạc nền, BGM, lời thuyết minh hoặc hội thoại.
+【Mốc tài sản và quy tắc tham chiếu】
+Video tham chiếu cat_robot_previs: tham chiếu chuyển động máy quay, thời lượng, quỹ đạo chuyển động và quan hệ không gian.
+Thân hình khối màu cam, chân màu trắng và chủ thể hình học có tai cùng đuôi trong video tham chiếu tương ứng với chú mèo mướp cam trắng chân thực trong hình 1.
+Các thanh liên kết màu trắng kem, khớp màu cam, đầu gắp ba ngón và đế có nút màu đỏ tương ứng với cánh tay robot trong hình 2.
+Chủ thể nhỏ gồm đuôi dựng đứng màu cam, thanh nối màu xám và đế màu xanh lá tương ứng với đồ chơi hình đuôi mèo trong hình 3. Đồ chơi và mèo là hai đối tượng độc lập.
+Thùng màu trắng ở giữa tương ứng với thùng chứa đồ màu trắng kem chân thực; giữ nguyên vị trí, thể tích và chức năng che khuất của thùng. Bối cảnh trong nhà tham chiếu hình 4.
+Tạo video theo thời điểm cắt cảnh, vị trí máy quay, cỡ cảnh, lộ trình di chuyển của mèo, đường truy đuổi của kẹp robot, cảnh bị che khuất phía sau thùng, đường nhấc món đồ chơi lên và quan hệ tiếp xúc giữa chân mèo với nút bấm trong video tham chiếu.
+Phép tịnh tiến hình học của mèo chỉ dùng để biểu thị lộ trình chuyển động; hãy tạo lại các động tác nhảy ngang, chạy, đổi hướng, thu mình, quay đầu và giơ chân một cách tự nhiên. Có thể thêm các biểu cảm và chuyển động cơ thể nhỏ trong vị trí và khoảng thời gian ban đầu, nhưng không thay đổi sự kiện then chốt hay quan hệ không gian. Xóa toàn bộ mô hình trắng, hình khối giữ chỗ và dấu phụ trợ.
+Hình 1image: ngoại hình duy nhất của mèo.
+Cùng một chú mèo trưởng thành trẻ, lông ngắn mướp cam trắng, phần đỉnh đầu và lưng có vằn cam, mõm và ngực màu trắng, cả bốn chân đều có bàn chân trắng, mắt màu hổ phách, mũi hồng, đuôi có vòng vằn cam và chóp đuôi màu nhạt. Giữ nguyên tỷ lệ cơ thể chân thực, phân bố màu lông, đặc điểm khuôn mặt và độ dài đuôi. Lông mịn, ria tự nhiên, không mặc trang phục.
+Hình 2image: ngoại hình duy nhất của cánh tay robot.
+Vỏ màu trắng kem, nắp khớp màu cam, bộ phận nối màu xám đậm, đầu gắp mềm ba ngón và đèn trạng thái màu hổ phách ở cổ tay, lắp trên một đế thấp và rộng. Nút tắt màu đỏ trên đế cánh tay robot phải nằm trong tầm với của mèo khi đứng trên sàn. Đế được cố định; cánh tay robot thực hiện việc đuổi bắt bằng cách xoay các khớp.
+Hình 3image: ngoại hình duy nhất của đồ chơi hình đuôi mèo.
+Đuôi lông nhung màu cam có vòng vằn, chóp đuôi màu nhạt, bên dưới nối với lò xo kim loại và đế chống lật màu xanh bạc hà; trên đế có họa tiết xương cá màu trắng. Sau khi kẹp robot kẹp lấy đuôi lông nhung, lò xo và đế phải được nhấc lên cùng nhau như một món đồ chơi hoàn chỉnh, mối nối luôn rõ ràng.
+Hình 4image: ngoại hình bối cảnh.
+Tham chiếu phòng khách ấm cúng trong hình 4, sàn gỗ sáng màu, ánh nắng từ cửa sổ lớn, sofa sáng màu, nội thất gỗ, cây xanh và các chi tiết sinh hoạt của thú cưng. Toàn bộ hành động diễn ra trên sàn trong nhà. Phông nền studio và bố cục dạng lưới của hình tham chiếu không được xuất hiện trong thành phẩm.
+【Phong cách hình ảnh và bối cảnh】
+Chất lượng hình ảnh như một đoạn phim ngắn về thú cưng chân thực kết hợp quảng cáo robot gia dụng tinh tế; ánh sáng tự nhiên, vật liệu chân thực, sự hài hước đến từ hành vi và nhịp điệu.
+Phòng khách rộng rãi, sàn gỗ sồi sáng màu có vân gỗ tinh tế và độ phản sáng dịu. Cửa sổ sát sàn ở bên trái đón ánh nắng ấm áp; rèm voan đổ bóng mềm lên sàn, tạo viền sáng tự nhiên quanh mép lông mèo và vỏ cánh tay robot.
+Phía sau là sofa xám nhạt, gối tựa, bàn trà nhỏ, thảm, đèn cây ánh vàng ấm và tủ chứa đồ; cạnh cửa sổ có cây xanh, bên hông có ổ mèo và trụ cào móng. Tấm thảm nằm ở phía xa, khu vực hoạt động tiền cảnh giữ nguyên mặt sàn gỗ liền mạch và thoáng rộng.
+Đặt một thùng chứa đồ bo tròn màu trắng kem ở khoảng giữa nhưng lệch về phía sau, có tay cầm màu cam nhạt. Thùng phải che được mèo đang thu mình và đế đồ chơi, đồng thời chừa các lối đi thông suốt ở hai bên và phía sau. Cánh tay robot nằm bên phải thùng, nút đỏ hướng về vị trí cuối cùng mèo sẽ đến.
+Máy quay ở gần độ cao ngang mắt mèo, chủ thể rõ nét, hậu cảnh xóa phông vừa phải. Góc máy thấp nhấn mạnh sự bất ngờ khi kẹp robot chộp xuống, chuyển động nhẹ nhàng của mèo và các lớp không gian được hé lộ phía sau thùng. Mọi điểm tiếp xúc đều có bóng đổ tự nhiên và phản hồi lực chân thực.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
+家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
+开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
+【资产锚点与参考规则】
+参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
+参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
+奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
+橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
+中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
+按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
+猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
+图1image：唯一猫咪外观。
+同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
+图2image：唯一机械臂外观。
+奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
+图3image：唯一猫尾形玩具外观。
+橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
+图4image：场景外观。
+参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
+【视觉风格与场景】
+真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
+宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
+背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
+中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
+摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097675660873605422) · [Bài đăng gốc](https://x.com/TanLuAI/status/2097675660873605422) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097602565110419781"></a>
+
+### Website cánh đồng lúa 3D sống động
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="Website cánh đồng lúa 3D sống động"></a>
+
+**Prompt**
+
+```text
+Xây dựng một website cánh đồng lúa 3D sống động chạy trên trình duyệt, theo chủ đề:
+“Biển xanh bát ngát / Gió lay đồng lúa.”
+Hoàn thiện mã nguồn, cài đặt các dependency cần thiết và khởi chạy bản xem trước. Không dừng lại ở đề xuất hoặc kế hoạch triển khai.
+
+1. Định hướng hình ảnh
+
+Tổng thể cần mang lại cảm giác tự nhiên, yên bình và tinh tế, như một website phong cảnh tương tác có định hướng nghệ thuật nhất quán.
+
+Cảnh cần bao gồm:
+
+Tiền cảnh: các lá mảnh dễ phân biệt, thân cong và một vài bông lúa trĩu xuống.
+
+Trung cảnh: cánh đồng lúa liên tục kéo dài về phía xa, có mật độ đủ dày cùng khoảng cách phân bố tự nhiên.
+
+Nền cảnh: hàng cây không đều, các lớp đồi thấp và hiệu ứng phối cảnh khí quyển tinh tế.
+Bầu trời: tông xám xanh dịu, mây biến đổi nhẹ và chuyển tiếp tự nhiên ở đường chân trời.
+Đặt camera mặc định hơi cao hơn các bông lúa, hướng nhìn ngang qua cánh đồng về phía những ngọn đồi xa.
+Bầu trời nên chiếm khoảng một phần ba khung hình, còn cánh đồng lúa là chủ thể chính của bố cục.
+Chủ yếu sử dụng các màu xanh đậm, xanh ô liu và xanh vàng cho thảm thực vật. Tránh xanh huỳnh quang.
+Tạo sự biến thiên tự nhiên về chiều cao, hướng, độ cong và màu sắc của cây lúa.
+2. Yêu cầu về animation
+Gió phải tạo thành các đợt sóng liên tục lan ngang qua cánh đồng:
+Giữ phần rễ gần như cố định, với chuyển động tăng dần về phía đầu lá và bông lúa.
+Các cây trong cùng một khu vực nên chuyển động đồng bộ về tổng thể nhưng vẫn giữ khác biệt riêng.
+
+Kết hợp những đợt gió chậm, quy mô lớn với các dao động cục bộ tinh tế.
+
+Tránh để tất cả cây đung đưa đồng bộ tuyệt đối. Không dịch chuyển cả cây hoặc khiến lá nhấp nháy.
+
+Dùng làn gió mặc định nhẹ nhàng, dễ chịu khi quan sát trong thời gian dài.
+3. Yêu cầu tương tác
+Cung cấp các điều khiển đơn giản nhưng thực sự tác động đến cảnh:
+Thanh trượt tốc độ gió: điều chỉnh mượt cường độ và tốc độ của animation gió.
+Chế độ ánh sáng: Buổi sáng, Buổi chiều và Giờ vàng. Đồng bộ thay đổi của bầu trời, hướng sáng, nhiệt độ màu và màu sương mù.
+
+Chế độ xem: Cánh đồng rộng và Giữa ruộng lúa, với chuyển cảnh camera mượt mà.
+
+Tạm dừng/Tiếp tục: tạm dừng và tiếp tục animation môi trường.
+
+Chuyển động chuột có thể tạo ra phản hồi camera rất nhẹ, nhưng không được gây chóng mặt.
+Mặc định không cho camera liên tục xoay qua các góc lớn.
+4. Thiết kế giao diện
+Dùng cảnh toàn màn hình với giao diện phủ bên trên:
+Góc trên bên trái: wordmark VERDANT nhỏ.
+
+Góc dưới bên trái: tiêu đề serif “Biển xanh bát ngát.”
+Bên dưới là phụ đề nhỏ hơn “Chẳng cần làm gì. Cứ để gió dẫn lối.”
+Góc dưới bên phải: bảng điều khiển nhỏ gọn, màu xanh đậm bán trong suốt.
+
+Đảm bảo văn bản dễ đọc, bố trí khoảng cách thoáng và không để các điều khiển che khuất phong cảnh chính.
+
+Các điều khiển phải sử dụng được trên màn hình hẹp mà không chồng lấn.
+
+5. Công nghệ và hiệu năng
+Sử dụng Three.js. Nếu đã có project, hãy giữ nguyên môi trường build hiện tại.
+Sử dụng instancing và animation vertex trên GPU để xử lý số lượng lớn thảm thực vật.
+Tránh tạo một đối tượng draw riêng cho từng cây hoặc cập nhật từng cây trên CPU ở mỗi frame.
+Giảm độ chi tiết của thảm thực vật ở khoảng cách xa hơn và áp dụng giới hạn pixel ratio hợp lý.
+Ưu tiên hình học và vật liệu tạo theo quy trình để đảm bảo việc tải asset ổn định.
+Cảnh phải được kết xuất theo thời gian thực. Không dùng ảnh hoặc video phong cảnh toàn cảnh làm cảnh chính.
+Tên model và nhãn so sánh sẽ được thêm ở hậu kỳ; không đưa chúng vào cảnh.
+6. Tiêu chí hoàn thiện
+Sau khi triển khai, sử dụng các công cụ trình duyệt hiện có để kiểm tra:
+Khung nhìn ban đầu hiển thị chính xác, không có lỗi console rõ ràng.
+
+Mọi điều khiển đều thực sự tác động đến cảnh.
+
+Tiền cảnh, trung cảnh và nền cảnh có chiều sâu và phân lớp rõ ràng.
+Cây lúa không chỉ là những đường màu xanh dựng đứng đơn giản.
+Chuyển động của gió liên tục và tự nhiên, không lặp lại đồng loạt một cách rõ ràng.
+Chuyển cảnh camera mượt mà và giao diện vẫn sử dụng được trên màn hình hẹp.
+Nếu không thể thực hiện một bước kiểm tra cụ thể, hãy nêu rõ điều đó.
+Cuối cùng, cung cấp hướng dẫn khởi chạy và tóm tắt các tính năng thực sự đã triển khai.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build an immersive 3D rice-field website that runs in the browser, with the theme:
+“A sea of green / Wind through the rice fields.”
+Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
+
+1. Visual Direction
+
+The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
+
+The scene should include:
+
+Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
+
+Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
+Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
+Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
+Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
+The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
+Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
+Vary the height, orientation, curvature, and color of the rice plants naturally.
+
+2. Animation Requirements
+Wind must appear as continuous waves traveling laterally across the field:
+Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
+Plants in the same area should move coherently while retaining individual variation.
+
+Combine slow, large-scale wind waves with subtle local disturbances.
+
+Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
+
+Use a gentle default breeze that remains comfortable to watch over time.
+3. Interaction Requirements
+Provide simple controls that genuinely affect the scene:
+Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
+Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
+
+View modes: Open Field and Among the Rice, with smooth camera transitions.
+
+Pause/Resume: pause and resume the environmental animation.
+
+Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
+Do not continuously rotate the camera through large angles by default.
+4. Interface Design
+Use a full-screen scene with an interface overlaid on top:
+Top left: a small VERDANT wordmark.
+
+Bottom left: the serif heading “A sea of green.”
+Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
+Bottom right: a compact, semi-transparent dark-green control panel.
+
+Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
+
+Controls must remain usable on narrow screens without overlapping.
+
+5. Technology and Performance
+Use Three.js. If an existing project is available, retain its build environment.
+Use instancing and GPU vertex animation to handle large amounts of vegetation.
+Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
+Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
+Prefer procedural geometry and materials to ensure reliable asset loading.
+The scene must render in real time. Do not use a full landscape image or video as the main scene.
+Model names and comparison labels will be added in post-production; do not include them in the scene.
+6. Completion Criteria
+After implementation, use the available browser tools to verify that:
+The initial view renders correctly, with no obvious console errors.
+
+Every control genuinely affects the scene.
+
+The foreground, midground, and background have distinguishable depth and layering.
+The rice plants are more than simple upright green lines.
+Wind movement is continuous and natural, without obvious uniform repetition.
+Camera transitions are smooth, and the interface remains usable on narrow screens.
+If you cannot perform a particular check, state that clearly.
+Finally, provide startup instructions and a summary of the features actually implemented.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097602565110419781) · [Bài đăng gốc](https://x.com/YouWareAI/status/2097602565110419781) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097534290112188602"></a>
+
+### Cảnh VHS Backrooms lấy cảm hứng từ Blender
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="Cảnh VHS Backrooms lấy cảm hứng từ Blender"></a>
+
+**Prompt**
+
+```text
+Dựng một cảnh trong Blender trông như đoạn ghi hình VHS dưới góc nhìn thứ nhất của một người đang đi qua Backrooms. Cảnh cần có cảm giác chân thực như ảnh, chuyển động máy quay cầm tay đầy hoảng loạn. Nhân vật quan sát xung quanh, rồi bắt đầu chạy qua mê cung Backrooms. Một số căn phòng rộng và thoáng, trong khi những nơi khác là các hành lang kéo dài bất tận. Cảm giác hoảng loạn tột độ. Thời lượng 30 giây.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097534290112188602) · [Bài đăng gốc](https://x.com/chrisfirst/status/2097534290112188602) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097343467026289039"></a>
+
+### Thế giới hồ đất ngập nước ấm cúng
+
+[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="Thế giới hồ đất ngập nước ấm cúng"></a>
+
+**Prompt**
+
+```text
+Tạo một hồ nước ấm cúng với nhà gỗ của ngư dân bên bờ đầm lầy. Đặt một hòn đảo nhỏ giữa hồ, trên đó có một ngôi nhà bỏ hoang ẩn giữa những tán cây. Thêm một chiếc thuyền đánh cá bên cạnh nhà, bèo tây, lau sậy, cá đang nhảy, các loài động vật hoang dã tiêu biểu của vùng đất ngập nước, một bãi biển nhỏ, một lối đi dẫn đến bãi biển và căn nhà, một lối khác quay vào rừng, cùng hàng cây bao quanh toàn bộ cảnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097343467026289039) · [Bài đăng gốc](https://x.com/givros/status/2097343467026289039) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097336230078013598"></a>
+
+### Tái tạo game web 《Liên Minh Huyền Thoại》
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Tái tạo game web 《Liên Minh Huyền Thoại》"></a>
+
+**Prompt**
+
+```text
+Tạo một game giống hệt 《Liên Minh Huyền Thoại》. Game cần có đầy đủ nội dung của Liên Minh Huyền Thoại, cùng bản đồ và chất lượng hình ảnh tương đương, bao gồm tướng, lính, trụ và các thành phần khác. Khi bắt đầu, chọn 5 tướng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097336230078013598) · [Bài đăng gốc](https://x.com/liyue_ai/status/2097336230078013598) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097323734504017936"></a>
+
+### Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh"></a>
+
+**Prompt**
+
+```text
+Hãy dùng TypeScript + Three.js để tạo một dự án WebGL hoàn chỉnh, có thể chạy ngay, mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh. Toàn bộ hình học kiến trúc, kết cấu bề mặt và animation phải được tạo thủ tục bằng code trong thời gian chạy; không được tải các mô hình bên ngoài như .glb, .gltf, .obj, .fbx.
+
+Tái hiện kiến trúc:
+mái vòm ba tầng với kích thước và độ cao khác nhau, lợp ngói lưu ly xanh lam; đỉnh mái mạ vàng, cột đỏ, thân điện hình tròn, hoa văn sơn xanh lam, xanh lục và vàng, đấu củng, cửa ra vào và cửa sổ.
+Sử dụng biên dạng cong, hình tròn xoay hoặc hình học tùy chỉnh cho mái, thể hiện phần hiên mái mềm mại, hơi hất lên; không được thay thế bằng hình nón đơn giản.
+Đài nền tròn ba tầng bằng đá cẩm thạch trắng, có cầu thang đá ở trung tâm, lan can và trụ; tổng thể cần cân đối về tỷ lệ, các lớp rõ ràng.
+Tạo thủ tục kết cấu ngói và các chi tiết trang trí; ưu tiên InstancedMesh cho những cấu kiện lặp lại.
+
+Bối cảnh và tương tác:
+bầu trời xanh Bắc Kinh, nền quảng trường và một ít cây xanh; sử dụng DirectionalLight kết hợp với AmbientLight／HemisphereLight, bật đổ bóng, ambient occlusion và tone mapping điện ảnh ở mức vừa phải.
+Hỗ trợ OrbitControls để xoay, phóng to, thu nhỏ, cùng chế độ trình diễn tự động xoay quanh chậm có thể bật hoặc tắt.
+Dùng nút để chuyển giữa “bung tách／lắp ráp”: mái, cột, đấu củng, tường, cửa ra vào, cửa sổ, lan can và đài nền lần lượt tách ra mượt mà theo từng lớp, sau đó trở về chính xác vị trí ban đầu. Animation phải do code điều khiển, có nhịp lệch pha giữa các bộ phận và tránh dịch chuyển tức thời.
+
+Bàn giao trực tiếp toàn bộ dự án kèm hướng dẫn khởi chạy. Trang web cần responsive theo kích thước cửa sổ, có chất lượng hình ảnh cao và tương tác mượt mà; đồng thời, nhờ instancing, mức độ chi tiết hình học hợp lý và tối ưu hóa kết xuất, vẫn đảm bảo hiệu năng trên các trình duyệt máy tính để bàn phổ biến. Code cần được tổ chức thành các module rõ ràng để dễ mở rộng; hãy kiểm tra quá trình build và các chức năng chính, đồng thời nêu trung thực những hạng mục chưa được kiểm tra.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建筑还原：
+三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
+屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
+白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
+程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
+
+场景与交互：
+北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
+支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
+按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
+
+直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097323734504017936) · [Bài đăng gốc](https://x.com/goan999999/status/2097323734504017936) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097320830602809682"></a>
+
+### Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại"></a>
+
+**Prompt**
+
+```text
+Bước 1: Làm một game giống hệt Liên Minh Huyền Thoại. LOL có gì thì game phải có nấy: cùng một bản đồ, chất lượng đồ họa tương đương, tướng, lính, trụ, v.v. Bắt đầu với 5 tướng. 
+
+Bước 2: PUA (mắng ngược lại) Astra: Đây không phải League, mà là hàng nhái giá rẻ. Hãy lập kế hoạch trước, sau đó triển khai chính xác theo kích thước và cơ chế thực tế; không được chồng UI HTML lên trên, UI phải là giao diện gốc, đẹp mắt và giống một game thực thụ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
+
+第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097320830602809682) · [Bài đăng gốc](https://x.com/LufzzLiz/status/2097320830602809682) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097313247116341424"></a>
+
+### Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
+
+**Prompt**
+
+```text
+sử dụng hình ảnh đầu tiên làm tham chiếu và cải thiện đường nét khuôn mặt trong hình ảnh thứ hai.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097313247116341424) · [Bài đăng gốc](https://x.com/carlos_olivera/status/2097313247116341424) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097167383576383502"></a>
 
 ### Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI
@@ -2034,290 +2608,6 @@ Xây dựng bản mẫu trò chơi thẻ bài sưu tầm bằng Three.js: mua b�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Bài đăng gốc](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
-
-### Lõi năng lượng hai vòng tương tác
-
-[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Lõi năng lượng hai vòng tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất mô hình kèm vật liệu sang trình xem Three.js có chức năng xoay, thu phóng, tự động bay quanh và điều chỉnh hiệu ứng nhịp xung.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096547658164834788"></a>
-
-### Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D"></a>
-
-**Prompt**
-
-```text
-Khải tượng đền thờ của Ê-xê-chi-ên sẽ trông như thế nào trong không gian 3D?
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-What would Ezekiel’s temple vision look like in 3D?
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096547658164834788) · [Bài đăng gốc](https://x.com/KrixOnok/status/2096547658164834788) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
-
-### Chuyển đổi biểu cảm nhân vật trong Blender
-
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Chuyển đổi biểu cảm nhân vật trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blender trước khi gắn xương. Căn chỉnh các lưới rồi chuyển đổi từng phiên bản, thu nhỏ những phiên bản không dùng vào bên trong đầu. Không mô tả cách này là nội suy biểu cảm mượt mà hay tương thích với VRM.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Bài đăng gốc](https://x.com/Dstudio_ai/status/2096525100518453342) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
-
-### Mặt nước lặp tuần hoàn bằng Geometry Nodes
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Mặt nước lặp tuần hoàn bằng Geometry Nodes"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo hiệu ứng mặt nước tuần hoàn bằng Blender Geometry Nodes mà không bake. Giữ hệ thống nút ở dạng có thể chỉnh sửa và mô tả đây là mô hình bề mặt, không phải mô phỏng chất lỏng đầy đủ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Bài đăng gốc](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
-
-### Thế giới hàng hải lấy cảm hứng từ One Piece
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="Thế giới hàng hải lấy cảm hứng từ One Piece"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng một thế giới hàng hải có thể chơi được với tàu dựng trong Blender và đại dương Three.js. Thêm thời tiết thay đổi, khám phá dưới nước, vệt sóng sau tàu, bọt, nước bắn và cánh buồm chuyển động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Bài đăng gốc](https://x.com/yash_yk45/status/2096518775042707700) · [Bản demo](https://one-piece-sea-world.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
-
-### Biến căn phòng riêng thành hồ sơ năng lực tương tác
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Biến căn phòng riêng thành hồ sơ năng lực tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến căn phòng riêng thành website tự giới thiệu có tính tương tác. Dựng và bake cảnh trong Blender, sau đó thêm hơi cà phê, hoạt ảnh kiểu Matrix và hiệu ứng shader nhẹ nhàng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Bài đăng gốc](https://x.com/kalanyei/status/2096506357868642342) · [Bản demo](https://room.kalan.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
-
-### Màn chơi giải đố Three.js hoàn chỉnh
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Màn chơi giải đố Three.js hoàn chỉnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng một màn chơi giải đố 3D hoàn chỉnh bằng Three.js, bao gồm các cơ chế thực sự chơi được. Khi màn chơi và các tương tác đã hoạt động, hãy tích hợp âm thanh được cung cấp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Bài đăng gốc](https://x.com/TvWoo/status/2096505740643246231) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
-
-### Thuyền YF-24 trên mặt biển 3D êm dịu
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="Thuyền YF-24 trên mặt biển 3D êm dịu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng thuyền YF-24 trong Blender và tạo hoạt cảnh thuyền di chuyển trên biển ba chiều với gió cấp 2 theo thang Beaufort. Dùng tư liệu tham khảo về thuyền để cải thiện hình dáng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Bài đăng gốc](https://x.com/yhmtmt1/status/2096503275910832461) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
-
-### Từ mặt bằng tầng trên cùng đến bản xem trước Blender
-
-[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Từ mặt bằng tầng trên cùng đến bản xem trước Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blender và kết xuất bản xem trước 10 giây với số mẫu thấp. Ưu tiên bố cục không gian rõ ràng trước khi hoàn thiện vật liệu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Bài đăng gốc](https://x.com/indigox/status/2096501340889374883) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
-
-### Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một ngôi làng low-poly ấm cúng, có thể khám phá, lấy cảm hứng từ Gwacheon trong một tệp HTML duy nhất. Kết hợp cảnh quan 3D tạo bằng thuật toán, bầu không khí, giao diện và tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Bài đăng gốc](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
-
-### Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender, rồi gắn xương và tạo hoạt ảnh cho nhân vật. Kiểm tra sự phù hợp về không gian giữa nhân vật và cảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Bài đăng gốc](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
-
-### Wright Flyer Xuyên Qua Rừng Nhật Bản
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-Phỏng theo: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="Wright Flyer Xuyên Qua Rừng Nhật Bản"></a>
-
-**Prompt**
-
-```text
-# KOMOREBI — Chuyến bay giữa rừng
-
-## 1. Mục tiêu
-Giữ toàn bộ nội dung giao diện trong trò chơi bằng tiếng Anh.
-Xây dựng một game lái máy bay hoàn chỉnh chạy trên trình duyệt: điều khiển chiếc Wright Flyer 1903 dễ nhận biết bay dọc theo một con sông trong rừng Nhật Bản, thu thập những chiếc đèn lồng linh hồn, bay qua các cổng torii và đến một thánh địa trên núi. Sử dụng https://komorebi-forest-flight.tripo.page/ cùng các tài liệu tham khảo được cung cấp để hoàn thiện bố cục. Ghi công Jared tại https://x.com/jaredliu_bravo và nguồn cảm hứng, The Bugged Dev, tại https://x.com/thebuggeddev/status/2096467585785286808.
-
-## 2. Định hướng hình ảnh
-Tạo một khu rừng thu nhỏ mang chất điện ảnh, tĩnh lặng, với sắc xanh tuyết tùng đậm, mặt nước xanh teal, vải lanh màu trắng ngà ấm, gỗ phong hóa, đá phủ rêu và ánh hổ phách tiết chế. Giữ máy bay luôn rõ nét trong khung hình bằng camera bám đuôi chuyển động mượt, đồng thời để vật phẩm tiếp theo hiện ra phía trên hai cánh. Dùng ánh nắng dịu từ ngoài vùng nhìn phía trước, ánh sáng môi trường, bóng tiếp xúc, núi phủ sương, phản chiếu trên mặt nước, các hạt bụi trôi và hiệu ứng bloom nhẹ. Tránh phơi sáng quá mức, nhà lơ lửng, các đốm sáng quá lớn và vách đá góc cạnh.
-
-Dùng chữ trắng ngà ấm, viền mảnh bán trong suốt, tiêu đề serif theo phong cách Cormorant Garamond và các nút điều khiển theo phong cách DM Sans. Góc trên bên trái: KOMOREBI, 木漏れ日 và A FOREST FLIGHT. Đặt la bàn và điều khiển Compare ở phía trên, các nút tiện ích ở góc trên bên phải, điểm/số tim bên trái, độ cao/tốc độ bay bên phải và tiến trình chương dọc theo cạnh dưới. Lời mời mở đầu là “Hãy để khu rừng đưa lối.” cùng nút “Bắt đầu bay”. Thu gọn lớp phủ trên điện thoại mà không che khuất máy bay.
-
-## 3. Thế giới
-Xây dựng một tuyến đường xác định dài 3,6 km, chia thành bốn chương có khoảng cách bằng nhau: Rừng Thì Thầm, Thác Nước Ẩn, Thung Lũng Đèn Lồng và Thánh Địa Mây. Tải liên tục hoặc tái sử dụng các phân đoạn cảnh. Một con sông màu ngọc lam uốn lượn nhẹ xác định hành lang bay; dùng x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 làm đường cong khởi đầu. Bố trí các cổng torii dọc theo đường bay có hỗ trợ, với rừng, nhà gỗ, thác nước, đá sông tròn và núi phủ sương được xếp lớp xung quanh. Tạo bậc địa hình cho mọi phần nền nhà và chôn nền móng tại cả bốn góc.
-
-## 4. Danh mục tài sản
-Chuẩn bị các slot mô hình ổn định theo thứ tự sau:
-- `aircraft`: Wright Flyer 1903 kiểu mở, với hai cánh vải lanh màu ngà bản rộng, khung gỗ thanh mảnh lộ thiên, thanh chống và dây căng, cánh lái phía trước cùng hai cánh quạt đẩy phía sau. Giữ các cánh quạt là những bộ phận riêng có thể hoạt ảnh, không để xuất hiện cánh trùng lặp.
-- `cedar`: thân cây cao màu nâu đỏ, tán lá xanh đậm xếp lớp không đều, cành cây liền mạch và rễ bám đất; tái sử dụng với quy mô và góc xoay đa dạng.
-- `minka`: gỗ sẫm màu phong hóa, vách chèn bằng thạch cao, mái dốc lợp ngói bản rộng, mái hiên lớn, cửa sổ shoji ánh vàng ấm và nền móng bằng đá.
-- `torii`: cổng gỗ Nhật Bản phong hóa với hai cột và xà ngang cong bản rộng ở phía trên; lối đi mở phải khớp với vùng va chạm hiện có.
-- `lantern`: đèn lồng linh hồn bằng giấy và gỗ, ánh vàng ấm; dùng cùng một họ mô hình cho các vật phẩm lặp lại và đèn trang trí nhỏ hơn, đồng thời phân biệt rõ vai trò của chúng.
-- `rock`: đá sông tròn phủ rêu, có phần đáy bám đất; tạo instance dọc bờ sông nhưng không chặn hành lang bay.
-Giữ sông, địa hình, núi, màn thác nước, vòng phát sáng, sương mù, hạt và UI ở dạng procedural. Liệt kê mọi slot trong registry và cập nhật tất cả instance lặp lại khi mô hình của slot thay đổi.
-
-## 5. Điều khiển bay và phản hồi
-Máy bay tự động tiến về phía trước sau khi nhấn Bắt đầu bay. W/S hoặc lên/xuống điều chỉnh độ cao; A/D hoặc trái/phải điều hướng và nghiêng máy bay. Shift tiêu hao một lượng tăng tốc gió có thể nhìn thấy và tự hồi lại. Gia tốc mượt cùng camera bám theo phía sau vẫn phải phản hồi nhanh. Chế độ hỗ trợ bay mặc định sẽ nhẹ nhàng đưa máy bay trở lại phía sông và độ cao mục tiêu sau khi người chơi thả phím; cung cấp nút bật/tắt hỗ trợ và các thiết lập chất lượng. Hỗ trợ điều khiển cảm ứng và tăng tốc. Esc tạm dừng; trợ giúp, cài đặt và trình xem máy bay sẽ tạm dừng chuyến bay rồi khôi phục trạng thái trước đó. Xóa mọi phím điều khiển đang được giữ khi mất tiêu điểm.
-
-Cấp ba tim. Mỗi đèn lồng linh hồn mang lại 100 điểm, còn mỗi lần bay qua cổng torii rõ ràng mang lại 250 điểm, chỉ tính một lần cho mỗi mục tiêu. Va chạm với mặt đất, bờ sông hoặc xà cổng sẽ mất một tim và cấp trạng thái bất tử ngắn hạn. Hoàn thành ở mốc 3,6 km với điểm hiện tại, điểm cao nhất và tùy chọn chơi lại; hết tim thì cho phép thử lại. Lưu điểm cao nhất cục bộ, kèm phương án dự phòng khi lưu trữ gặp lỗi.
-
-Đặt đèn lồng bên trong các vòng thu thập vàng hình bầu dục lớn, với quầng sáng nhấp nhô, phập phồng và tia lửa. Gắn nhãn mục tiêu gần nhất là “+100 · BAY XUYÊN QUA”. Căn vùng bắt va chạm rộng của mục tiêu khớp với vòng hoạt ảnh. Vật phẩm thu thập được tạo ra vòng lan rộng, hạt ánh ấm, điểm số nổi và xung HUD. Làm mờ các cổng đã đi qua trước khi chúng che khuất camera bám đuôi.
-
-## 6. Triển khai
-Sử dụng Vite, Three.js và các module JavaScript ES, tách riêng route/va chạm/tính điểm, cảnh vật, mô hình, hiệu ứng và UI. Đóng gói cục bộ các dependency, font và tài sản runtime; phân phối dưới dạng site tĩnh. Dùng GLTFLoader và asset manifest với bounds, hướng, nguồn gốc và factory dự phòng riêng cho từng slot. Giữ hệ thống va chạm độc lập với hình dạng mesh được import. Xoay hai cánh quạt bằng delta time; kiểm tra chúng từ camera bám đuôi và trình xem máy bay có thể orbit, zoom. Cung cấp tùy chọn tải xuống tệp máy bay cục bộ thực tế khi có. Blender là tùy chọn để tách cánh quạt đã được gộp sẵn, sửa pivot hoặc bake một mesh nhẹ hơn nếu hiệu năng đo được cho thấy cần thiết.
-
-Giữ nguyên nền tảng hình ảnh ban đầu. Khi một slot đã được import, Compare hoặc C sẽ chuyển đổi giữa nền tảng đó và các bản thay thế hiện có mà không điều hướng hoặc đặt lại chuyến bay, camera, tim, tăng tốc, điểm số hay vật phẩm đã thu thập. Đóng băng tiến trình trong lúc chuyển cảnh, giữ lại khung hình hoàn chỉnh cuối cùng cho đến khi cảnh tiếp theo sẵn sàng, sau đó crossfade trong khoảng 650 ms. Tôn trọng tùy chọn giảm chuyển động; ngăn các lần nhấp lặp và khôi phục cảnh trước đó nếu xảy ra lỗi. Dùng nền khởi động tối inline, giới hạn DPR, giới hạn số lượng hạt và tối đa hai biến thể cảnh được cache.
-
-## 7. Tiêu chí nghiệm thu
-Bàn giao mã nguồn, lockfile, npm run dev, npm run build và đầu ra dist tĩnh. Xác minh đầy đủ chuyến bay, tăng tốc, thu thập đèn lồng/cổng, miễn nhiễm va chạm, tạm dừng/tiếp tục, điều khiển cảm ứng, chơi lại, trình xem và import slot độc lập. Kiểm tra cả hai hướng Compare đều giữ nguyên trạng thái, không xuất hiện khung trắng và không làm tăng dần tài nguyên GPU. Kiểm tra độ bám nền của nhà, silhouette máy bay, chuyển động cánh quạt, ánh sáng dễ đọc và khả năng phục hồi khi tải chậm. Báo cáo các bài kiểm thử thực tế và điều kiện hiệu năng. Tuân theo quy trình dùng chung bên dưới để tạo tài sản và trả về.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096467585785286808) · [Bản demo](https://komorebi-forest-flight.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

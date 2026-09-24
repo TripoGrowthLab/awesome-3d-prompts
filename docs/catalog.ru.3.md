@@ -28,6 +28,18 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Клон Minecraft с многопользовательской игрой](#gpt-6-astra-2097797479488246071)
+- [Интерактивный 3D-коллайдер частиц](#gpt-6-astra-2097781208596029936)
+- [3D-симуляция фабрики и стартовых площадок в реальном времени](#gpt-6-astra-2097730920224534868)
+- [Создайте THE LAST GATE: раннер с толпой и арифметическими воротами](#gpt-6-astra-2097678911882809407)
+- [Создание комедийной сцены с роборукой, преследующей кота, в GPT-6 Astra и Blender](#gpt-6-astra-2097675660873605422)
+- [Иммерсивный 3D-сайт с рисовыми полями](#gpt-6-astra-2097602565110419781)
+- [Сцена в Blender в стиле VHS по мотивам Бэкрумс](#gpt-6-astra-2097534290112188602)
+- [Уютный мир озера среди болот](#gpt-6-astra-2097343467026289039)
+- [Воссоздание веб-игры по мотивам «League of Legends»](#gpt-6-astra-2097336230078013598)
+- [WebGL-проект Храма моления о хорошем урожае в Храме Неба в Пекине на TypeScript + Three.js](#gpt-6-astra-2097323734504017936)
+- [Мини-версия 3D-игры по мотивам «League of Legends»](#gpt-6-astra-2097320830602809682)
+- [Улучшение черт лица 3D-модели в Blender по референсу](#gpt-6-astra-2097313247116341424)
 - [Деревенский ландшафт в духе Skyrim по сгенерированному референсу](#gpt-6-astra-2097167383576383502)
 - [Анимация японского цветочного магазина с разбором на слои](#gpt-6-astra-2097153139795468365)
 - [Риггинг и анимация пальцеходящего меха в Godot](#gpt-6-astra-2097123382852829230)
@@ -66,20 +78,582 @@
 - [Интерактивный Сеул в миниатюре](#interactive-miniature-of-seoul-2096557555086725159)
 - [Раллийная игра Unity для телефона](#mobile-playable-unity-rally-game-2096556692842348826)
 - [Игровой цикл сражений коллекционными картами](#trading-card-battle-game-loop-2096555856204644550)
-- [Интерактивное энергетическое ядро с двумя кольцами](#interactive-dual-ring-energy-core-2096551010089263181)
-- [Видение храма Иезекииля в 3D](#gpt-6-astra-2096547658164834788)
-- [Переключаемые выражения лица в Blender](#switchable-character-expressions-in-blender-2096525100518453342)
-- [Зацикленная вода с Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
-- [Морской мир по мотивам One Piece](#one-piece-inspired-sailing-world-2096518775042707700)
-- [Личная комната как интерактивное портфолио](#personal-room-as-an-interactive-portfolio-2096506357868642342)
-- [Полноценный уровень головоломки на Three.js](#complete-three-js-puzzle-level-2096505740643246231)
-- [Катер YF-24 на спокойном 3D-море](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
-- [Из плана верхнего этажа в предпросмотр Blender](#top-floor-plan-to-blender-preview-2096501340889374883)
-- [Низкополигональная деревня по мотивам Квачхона для прогулок](#walkable-low-poly-gwacheon-village-2096490395614019793)
-- [Сборка и анимация сгенерированных 3D-моделей](#assemble-and-animate-generated-3d-assets-2096481425050743048)
-- [Самолёт братьев Райт среди японского леса](#wright-flyer-through-a-japanese-forest-2096467585785286808)
 
 </details>
+<a id="gpt-6-astra-2097797479488246071"></a>
+
+### Клон Minecraft с многопользовательской игрой
+
+[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/7c094bee3d162f406b0aedead6396b7bab3d03671669049c5809929cff7fd07a.webp" width="840" loading="lazy" alt="Клон Minecraft с многопользовательской игрой"></a>
+
+**Промпт**
+
+```text
+Создайте полноценный клон Minecraft от начала до конца и сообщите, если вам что-то понадобится от меня. Я прикрепил подробный исследовательский документ по Minecraft — он будет полезен. Обязательно точно воспроизведите игровые механики, анимации и графику. Каждый новый мир должен процедурно и случайным образом генерироваться на основе сида. Добавьте всех мобов, которых игроки ожидают увидеть в Minecraft, и убедитесь, что они появляются в соответствующих биомах. После завершения однопользовательской версии добавьте возможность открывать свои миры для игры по LAN и подключаться к серверам друг друга. По умолчанию игра должна запускаться в режиме «Выживание». Текстуры должны выглядеть в точности как в Minecraft; если найдёте точные текстуры в интернете, можете использовать их. Когда я говорю, что хочу сделать игру в точности как Minecraft, я именно это и имею в виду. Никто не должен отличить созданный вами сайт от настоящего Minecraft. Всё это делается в образовательных целях, поэтому не беспокойтесь об авторских правах. Не используйте для интерфейса игры только HTML. Создайте его нативно внутри игрового движка. Модели персонажа и мобов должны быть настоящими и выглядеть, работать и анимироваться в точности как в оригинальной игре. Добавьте направленный звук и звуковые эффекты. Проработайте всё постранично, взаимодействие за взаимодействием и механику за механикой, чтобы добиться идеального результата. После завершения работы над идеальным клоном Minecraft начните оптимизировать его производительность с помощью таких методов, как отсечение невидимых объектов, настройка дальности прорисовки и дистанции симуляции, LOD в зависимости от расстояния, оптимизация FPS и других. Убедитесь, что игровая логика работает корректно. Например, если сломать блок песка или гравия под другими блоками песка или гравия, блоки сверху должны упасть. Если сломать опорный блок, цветы или трава над ним тоже должны сломаться. Интерфейс инвентаря должен выглядеть в точности так же, а взаимодействие с ним — ощущаться идентично, включая сочетания клавиш, анимации и эффекты попадания от мечей, другого оружия и инструментов. Точно воспроизведите взаимодействие с водой и мобами в воде, автоматический прыжок и все остальные мелкие детали. Сосредоточьтесь на точном воспроизведении этих деталей и доведении всего до совершенства. Игра не должна выглядеть глючной. Она должна работать плавно и в точности ощущаться как настоящий Minecraft. Уделите внимание таким деталям, как облака, смена дня и ночи, погода, фоновая музыка Minecraft и многому другому. Убедитесь, что вода и лава текут ожидаемым образом, а их визуализация реализована безупречно. Мобы не должны появляться друг на друге, внутри деревьев или внутри блоков. Добавьте структуры Minecraft, жителей, добычу и всё, что с ними связано. Доведите до совершенства логику появления мобов, убедитесь, что их анимации плавные, а размеры каждого моба и персонажа игрока соответствуют размерам в настоящем Minecraft. Сосредоточьтесь на действиях, которые игроки Minecraft часто выполняют, например на прыжках во время установки блоков для ускоренного строительства мостов или подъёма выше, использовании Ctrl + W во время прыжка и других подобных действиях. Предметы в руке игрока должны выглядеть хорошо, а положение руки — в точности соответствовать настоящему Minecraft. Добавьте эффекты попадания по мобам и сделайте так, чтобы каждый спрайт предмета в инвентаре выглядел в точности как в настоящем Minecraft.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a perfect end-to-end Minecraft clone, and let me know if you need anything from me. I’ve attached a deep research document on Minecraft that will be helpful. Make sure you absolutely nail the mechanics, animations, and graphics. Every new world should be procedurally and randomly generated using a seed. Include all the mobs players expect from Minecraft and ensure they appear in the correct biomes. Once the single-player implementation is complete, add the ability for players to open their worlds to LAN and join each other’s servers. The game should use Survival mode by default. Make the textures look exactly like Minecraft, and if you can find the exact textures online, you may use them. When I say I want it to be exactly like Minecraft, I mean it. No one should be able to tell the difference between the website you create and the real Minecraft. This is all for educational purposes, so don’t worry about copyright. Don’t simply use HTML for the game’s UI. Build it natively within the game engine. The character and mob models should be the real ones, and they should look, work, and animate exactly like they do in the real game. Add directional audio and sounds. Go page by page, interaction by interaction, and mechanic by mechanic to make it perfect. Once everything is complete and you have created a perfect Minecraft clone, start optimizing its performance using techniques such as culling, render distance, simulation distance, distance-based LOD, FPS optimization, and more. Make sure the game logic is accurate. For example, if a sand or gravel block underneath other sand or gravel blocks is broken, the blocks above it should fall. If a supporting block is broken, any flowers or grass above it should also break. The inventory UI should look exactly the same, and its interactions should feel identical, including shortcuts, animations, and the hit effects of swords and other weapons and tools. Accurately recreate interactions with water and mobs inside it, auto-jump, and all the other small details. Focus on getting these details right and making everything perfect. The game should not feel glitchy. It should feel smooth and exactly like the real Minecraft. Pay attention to smaller details such as clouds, the day-night cycle, weather, Minecraft background music, and more. Make sure water and lava flow as expected, and ensure their rendering is implemented perfectly. Mobs should not spawn on top of one another, inside trees, or inside blocks. Add Minecraft structures, villagers, loot, and everything related to them. Perfect the mob-spawning logic, ensure that mob animations are smooth, and make the size of every mob and the player character accurate to the real Minecraft. Focus on actions Minecraft players commonly perform, such as jumping while placing blocks to speed bridge or climb higher, using Ctrl + W while jumping, and more. Make items look good when held in the player’s hand, and ensure the hand position exactly matches the real Minecraft. Add hit effects on mobs, and make every item sprite in the inventory look exactly like it does in the real Minecraft.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097797479488246071) · [Исходная публикация](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097781208596029936"></a>
+
+### Интерактивный 3D-коллайдер частиц
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="Интерактивный 3D-коллайдер частиц"></a>
+
+**Промпт**
+
+```text
+Создайте детализированный интерактивный 3D-коллайдер частиц по мотивам БАК CERN и детектора ATLAS с использованием Three.js.
+
+Создайте три режима отображения: детектор с тысячами анимированных элементов, ускорительное кольцо со встречными пучками и синтетическую визуализацию столкновения.
+
+Предусмотрите разборку детектора в шесть этапов — от крупных торцевых колёс и магнитов до отдельных сенсорных модулей. Добавьте разборку, управляемую прокруткой, воспроизведение длительностью 30, 60 или 90 секунд, паузу и обратную сборку.
+
+Добавьте переключатели видимости для каждой системы, счётчики компонентов, пояснения образовательного характера и облёт камеры вокруг кольца.
+
+Используйте премиальный тёмный интерфейс, металлические материалы, ненавязчивые золотистые акценты и кинематографичный свет. Обеспечьте читаемость элементов и избегайте чрезмерного перекрытия.
+
+Обратитесь к официальным материалам CERN. Чётко обозначьте упрощённую геометрию и синтетические события.
+
+Предоставьте один автономный HTML-файл, работающий без подключения к интернету, а также переносимый исходный код и README.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
+
+Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
+
+Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
+
+Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
+
+Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
+
+Consult official CERN references. Clearly label simplified geometry and synthetic events.
+
+Deliver one self-contained HTML file that works offline, plus portable source code and a README.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097781208596029936) · [Исходная публикация](https://x.com/k1rallik/status/2097781208596029936) · [Исходный код](https://github.com/bubblik525/collider) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097730920224534868"></a>
+
+### 3D-симуляция фабрики и стартовых площадок в реальном времени
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="3D-симуляция фабрики и стартовых площадок в реальном времени"></a>
+
+**Промпт**
+
+```text
+изучить книги @AirsupHQ по бережливому производству, разработать концепцию фабрики с 10 стартовыми площадками и создать интерактивную 3D-симуляцию.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097730920224534868) · [Исходная публикация](https://x.com/konstantinsaifo/status/2097730920224534868) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097678911882809407"></a>
+
+### Создайте THE LAST GATE: раннер с толпой и арифметическими воротами
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="Создайте THE LAST GATE: раннер с толпой и арифметическими воротами"></a>
+
+**Промпт**
+
+```text
+Создайте THE LAST GATE — создайте THE LAST GATE: играбельный вертикальный раннер с толпой и арифметическими воротами. Видимый размер команды должен точно соответствовать фактическому числу участников; потери на препятствиях должны иметь реальные последствия, а финальная встреча — зависеть от числа выживших. Реализуйте три коротких маршрута, мгновенный повтор и воспроизведение ввода с заданным seed; не засчитывайте победу без оснований.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097678911882809407) · [Исходная публикация](https://x.com/KeWai386772/status/2097678911882809407) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097675660873605422"></a>
+
+### Создание комедийной сцены с роборукой, преследующей кота, в GPT-6 Astra и Blender
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="Создание комедийной сцены с роборукой, преследующей кота, в GPT-6 Astra и Blender"></a>
+
+**Референсы:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
+
+**Промпт**
+
+```text
+Сгенерируй 10-секундный комедийный ролик о животных в формате 16:9, с кинематографичным реалистичным изображением, как при съёмке вживую
+Бытовая роботизированная рука преследует и пытается схватить рыже-белого кота. Кот ловко уворачивается и озорно обегает короб для хранения. Механический захват зажимает выглядывающий из-за коробки рыжий хвост и поднимает его, после чего выясняется, что это игрушка в форме кошачьего хвоста. Настоящий кот уже обошёл основание роборуки и лапой нажимает красную кнопку выключения на её основании. Роборука останавливается, а кот выглядит довольным и счастливым.
+Преследование и попытка схватить кота начинаются сразу. В середине интрига сохраняется за счёт перекрытия обзора, а подъём игрушки создаёт сюжетный переворот. В финале кот сам выключает роборуку, создавая вторую шутку. На протяжении всего ролика генерируй только звуки происходящего на месте; не добавляй фоновую музыку, BGM, закадровый голос или диалоги.
+【Якоря объектов и правила использования референсов】
+Референсное видео cat_robot_previs: используй его как ориентир для движения камеры, тайминга, траекторий движения и пространственных взаимосвязей.
+Оранжевое геометрическое тело, белые лапы, а также геометрическая форма с ушами и хвостом в референсном видео соответствуют реалистичному рыже-белому коту на изображении 1.
+Кремово-белые звенья, оранжевые шарниры, трёхпалый захват и основание с красной кнопкой соответствуют роборуке на изображении 2.
+Небольшой объект из вертикального оранжевого хвоста, серого соединительного стержня и зелёного основания соответствует игрушке в форме кошачьего хвоста на изображении 3. Игрушка и кот — два независимых объекта.
+Центральная белая коробка соответствует настоящему кремово-белому коробу для хранения; сохрани её положение, объём и функцию перекрытия обзора. Интерьер — по референсу на изображении 4.
+Создай ролик в соответствии с таймингом монтажных склеек, положением камеры, планами, маршрутом движения кота, траекторией преследования механического захвата, перекрытием обзора за коробкой, траекторией подъёма игрушки, а также взаимным расположением лапы кота и кнопки в референсном видео.
+Геометрический перенос кота используй только для обозначения маршрута движения. Сгенерируй заново естественные боковые прыжки, бег, смену направления, приседание, повороты головы и поднятие лапы. В пределах исходных положений и временных интервалов допускаются небольшие изменения мимики и движений тела, но ключевые события и пространственные взаимосвязи менять нельзя. Удали все модели в виде белых макетов, геометрические формы-заполнители и вспомогательные метки.
+Изображение 1: единственный референс внешности кота.
+Один и тот же молодой взрослый короткошёрстный рыже-белый кот: рыже-полосатая макушка и спина, белые морда и грудь, четыре белые лапы, янтарные глаза, розовая мочка носа, рыжий хвост с кольцевым рисунком и светлым кончиком. Сохрани реалистичные пропорции тела, распределение окраса, черты морды и длину хвоста. Шерсть детализированная, усы естественные, без одежды.
+Изображение 2: единственный референс внешности роборуки.
+Кремово-белый корпус, оранжевые кожухи шарниров, тёмно-серые соединительные детали, мягкий трёхпалый захват, янтарный индикатор состояния на запястье; роборука установлена на низком широком основании. Красная кнопка выключения на основании должна быть доступна коту, стоящему на полу. Основание неподвижно, а роборука выполняет преследование за счёт вращения шарниров.
+Изображение 3: единственный референс внешности игрушки в форме кошачьего хвоста.
+Оранжевый плюшевый хвост с кольцевым рисунком и светлым кончиком, соединённый снизу с металлической пружиной и мятно-зелёным неваляшкой-основанием с белым узором в виде рыбьего скелета. После того как механический захват схватит плюшевый хвост, пружина и основание должны подняться вместе с ним как единая игрушка; соединение всегда должно оставаться отчётливо видимым.
+Изображение 4: внешний вид сцены.
+Ориентируйся на тёплую гостиную с изображения 4: светлый деревянный пол, солнечный свет из больших окон, светлый диван, деревянная мебель, комнатные растения и детали быта с домашним животным. Все действия происходят на полу в помещении. Фон фотостудии и компоновка в виде сетки с референсного изображения не должны попадать в готовый ролик.
+【Визуальный стиль и сцена】
+Кинематографичная съёмка в стиле реалистичного ролика о домашнем животном и качественной рекламы бытового робота: естественное освещение, реалистичные материалы, комедия строится на поведении и ритме.
+Просторная гостиная в доме со светлым дубовым полом, на котором видны тонкая текстура древесины и мягкие отражения. Слева через панорамное окно проникает тёплый солнечный свет; лёгкие занавески рассеивают на полу мягкие тени и свет, создавая естественный контровой свет по краям шерсти кота и на корпусе роборуки.
+На заднем плане — светло-серый диван, декоративные подушки, небольшой журнальный столик, ковёр, торшер тёплого оттенка и шкаф для хранения; у окна стоят комнатные растения, сбоку находятся лежанка и когтеточка. Ковёр расположен вдали, а зона действия на переднем плане представляет собой непрерывный открытый участок деревянного пола.
+В центре, чуть дальше от камеры, стоит кремово-белый короб для хранения со скруглёнными углами и светло-оранжевыми ручками. Короб должен скрывать присевшего кота и основание игрушки, оставляя свободные проходы слева, справа и сзади. Роборука находится справа от короба, а красная кнопка обращена к месту, куда в финале доберётся кот.
+Камера находится примерно на уровне глаз кота; главный объект в резкости, фон слегка размыт. Низкая точка съёмки подчёркивает внезапность захвата снизу, лёгкость движений кота и послойное раскрытие действия за коробкой. Все контакты должны сопровождаться естественными тенями и правдоподобной реакцией на приложенное усилие.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
+家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
+开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
+【资产锚点与参考规则】
+参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
+参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
+奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
+橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
+中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
+按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
+猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
+图1image：唯一猫咪外观。
+同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
+图2image：唯一机械臂外观。
+奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
+图3image：唯一猫尾形玩具外观。
+橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
+图4image：场景外观。
+参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
+【视觉风格与场景】
+真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
+宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
+背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
+中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
+摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097675660873605422) · [Исходная публикация](https://x.com/TanLuAI/status/2097675660873605422) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097602565110419781"></a>
+
+### Иммерсивный 3D-сайт с рисовыми полями
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="Иммерсивный 3D-сайт с рисовыми полями"></a>
+
+**Промпт**
+
+```text
+Создайте иммерсивный 3D-сайт с рисовыми полями, работающий в браузере, с темой:
+«Море зелени / Ветер над рисовыми полями».
+Завершите код, установите необходимые зависимости и запустите предварительный просмотр. Не ограничивайтесь предложением или планом реализации.
+
+1. Визуальное направление
+
+Общая атмосфера должна быть естественной, спокойной и продуманной — как у интерактивного ландшафтного сайта с цельным художественным стилем.
+
+Сцена должна включать:
+
+Передний план: хорошо различимые тонкие листья, изогнутые стебли и несколько склонённых метёлок риса.
+
+Средний план: непрерывное рисовое поле, уходящее вдаль, с достаточной плотностью растений и естественными вариациями расстояния между ними.
+Фон: неровная линия деревьев, несколько ярусов невысоких холмов и лёгкая воздушная перспектива.
+Небо: мягкие серо-голубые тона, лёгкая вариативность облаков и естественный переход у горизонта.
+Расположите камеру по умолчанию немного выше метёлок риса, направив её поверх поля к далёким холмам.
+Небо должно занимать примерно треть кадра, а рисовое поле — доминировать в композиции.
+В основном используйте для растительности тёмно-зелёные, оливково-зелёные и желтовато-зелёные оттенки. Избегайте флуоресцентного зелёного.
+Естественно варьируйте высоту, ориентацию, изгиб и цвет растений риса.
+
+2. Требования к анимации
+Ветер должен выглядеть как непрерывные волны, проходящие по полю в поперечном направлении:
+Корни должны оставаться в основном неподвижными, а движение — постепенно усиливаться к кончикам листьев и метёлкам.
+Растения в одной области должны двигаться согласованно, сохраняя при этом индивидуальные различия.
+
+Сочетайте медленные крупномасштабные волны ветра с едва заметными локальными колебаниями.
+
+Не заставляйте все растения раскачиваться идеально синхронно. Не перемещайте растения целиком и не допускайте мерцания листьев.
+
+Используйте мягкий ветер по умолчанию, за которым комфортно наблюдать в течение длительного времени.
+3. Требования к взаимодействию
+Добавьте простые элементы управления, которые действительно влияют на сцену:
+Ползунок скорости ветра: плавно изменяет силу и скорость анимации ветра.
+Режимы освещения: «Утро», «День» и «Золотой час». Согласованно изменяйте небо, направление света, цветовую температуру и цвет тумана.
+
+Режимы обзора: «Открытое поле» и «Среди риса», с плавными переходами камеры.
+
+Пауза/возобновление: приостанавливает и возобновляет анимацию окружения.
+
+Движение мыши может вызывать едва заметную реакцию камеры, но не должно приводить к головокружению.
+По умолчанию не выполняйте непрерывный поворот камеры на большие углы.
+4. Дизайн интерфейса
+Используйте полноэкранную сцену с наложенным поверх интерфейсом:
+В левом верхнем углу: небольшой логотип VERDANT.
+
+В левом нижнем углу: заголовок с засечками «Море зелени».
+Под ним — подзаголовок меньшего размера «Ничего не нужно делать. Просто следуйте за ветром».
+В правом нижнем углу: компактная полупрозрачная панель управления тёмно-зелёного цвета.
+
+Текст должен оставаться хорошо читаемым; оставьте достаточно свободного пространства и не перекрывайте элементами управления основной пейзаж.
+
+Элементами управления должно быть удобно пользоваться на узких экранах, без наложения друг на друга.
+
+5. Технологии и производительность
+Используйте Three.js. Если уже существует готовый проект, сохраните его окружение сборки.
+Используйте инстансинг и вершинную анимацию на GPU для обработки большого количества растительности.
+Не создавайте отдельный объект отрисовки для каждого растения и не обновляйте каждое растение на CPU в каждом кадре.
+Уменьшайте детализацию растительности на больших расстояниях и установите разумное ограничение pixel ratio.
+Отдавайте предпочтение процедурной геометрии и материалам, чтобы обеспечить надёжную загрузку ресурсов.
+Сцена должна отображаться в реальном времени. Не используйте полноразмерное изображение или видео пейзажа в качестве основной сцены.
+Названия моделей и подписи для сравнения будут добавлены на этапе постобработки; не включайте их в сцену.
+6. Критерии готовности
+После реализации с помощью доступных инструментов браузера проверьте, что:
+Исходный вид отображается корректно, без очевидных ошибок в консоли.
+
+Каждый элемент управления действительно влияет на сцену.
+
+Передний, средний и задний планы имеют различимую глубину и послойную структуру.
+Растения риса не выглядят как простые вертикальные зелёные линии.
+Движение ветра непрерывное и естественное, без заметных повторяющихся шаблонов.
+Переходы камеры плавные, а интерфейс остаётся удобным на узких экранах.
+Если вы не можете выполнить какую-либо проверку, ясно сообщите об этом.
+В завершение предоставьте инструкции по запуску и краткое описание фактически реализованных возможностей.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build an immersive 3D rice-field website that runs in the browser, with the theme:
+“A sea of green / Wind through the rice fields.”
+Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
+
+1. Visual Direction
+
+The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
+
+The scene should include:
+
+Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
+
+Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
+Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
+Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
+Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
+The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
+Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
+Vary the height, orientation, curvature, and color of the rice plants naturally.
+
+2. Animation Requirements
+Wind must appear as continuous waves traveling laterally across the field:
+Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
+Plants in the same area should move coherently while retaining individual variation.
+
+Combine slow, large-scale wind waves with subtle local disturbances.
+
+Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
+
+Use a gentle default breeze that remains comfortable to watch over time.
+3. Interaction Requirements
+Provide simple controls that genuinely affect the scene:
+Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
+Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
+
+View modes: Open Field and Among the Rice, with smooth camera transitions.
+
+Pause/Resume: pause and resume the environmental animation.
+
+Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
+Do not continuously rotate the camera through large angles by default.
+4. Interface Design
+Use a full-screen scene with an interface overlaid on top:
+Top left: a small VERDANT wordmark.
+
+Bottom left: the serif heading “A sea of green.”
+Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
+Bottom right: a compact, semi-transparent dark-green control panel.
+
+Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
+
+Controls must remain usable on narrow screens without overlapping.
+
+5. Technology and Performance
+Use Three.js. If an existing project is available, retain its build environment.
+Use instancing and GPU vertex animation to handle large amounts of vegetation.
+Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
+Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
+Prefer procedural geometry and materials to ensure reliable asset loading.
+The scene must render in real time. Do not use a full landscape image or video as the main scene.
+Model names and comparison labels will be added in post-production; do not include them in the scene.
+6. Completion Criteria
+After implementation, use the available browser tools to verify that:
+The initial view renders correctly, with no obvious console errors.
+
+Every control genuinely affects the scene.
+
+The foreground, midground, and background have distinguishable depth and layering.
+The rice plants are more than simple upright green lines.
+Wind movement is continuous and natural, without obvious uniform repetition.
+Camera transitions are smooth, and the interface remains usable on narrow screens.
+If you cannot perform a particular check, state that clearly.
+Finally, provide startup instructions and a summary of the features actually implemented.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097602565110419781) · [Исходная публикация](https://x.com/YouWareAI/status/2097602565110419781) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097534290112188602"></a>
+
+### Сцена в Blender в стиле VHS по мотивам Бэкрумс
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="Сцена в Blender в стиле VHS по мотивам Бэкрумс"></a>
+
+**Промпт**
+
+```text
+Отрендерите в Blender сцену, похожую на запись на VHS от первого лица: человек идёт по Бэкрумс. Изображение должно выглядеть фотореалистично, а движение камеры — передавать панику ручной съёмки. Сначала человек оглядывается, затем начинает бежать по лабиринту Бэкрумс. Одни помещения — просторные и открытые, другие переходят в бесконечные коридоры. Ощущение полной паники. Длительность — 30 секунд.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097534290112188602) · [Исходная публикация](https://x.com/chrisfirst/status/2097534290112188602) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097343467026289039"></a>
+
+### Уютный мир озера среди болот
+
+[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="Уютный мир озера среди болот"></a>
+
+**Промпт**
+
+```text
+Создайте уютное озеро с рыбацким домиком на заболоченном берегу. Разместите посреди воды небольшой остров, а среди деревьев спрячьте заброшенный дом. Добавьте рядом с домиком рыбацкую лодку, кувшинки, камыш, выпрыгивающую из воды рыбу, типичных обитателей водно-болотных угодий, небольшой пляж, одну тропинку к пляжу и домику, другую тропинку, уходящую обратно в лес, а также полосу деревьев по периметру всей сцены.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097343467026289039) · [Исходная публикация](https://x.com/givros/status/2097343467026289039) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097336230078013598"></a>
+
+### Воссоздание веб-игры по мотивам «League of Legends»
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Воссоздание веб-игры по мотивам «League of Legends»"></a>
+
+**Промпт**
+
+```text
+Создай игру, в точности повторяющую «League of Legends». В ней должно быть всё содержимое «League of Legends»: та же карта, сопоставимый уровень графики, герои, миньоны, башни и прочее. В начале игры выбери 5 героев.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097336230078013598) · [Исходная публикация](https://x.com/liyue_ai/status/2097336230078013598) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097323734504017936"></a>
+
+### WebGL-проект Храма моления о хорошем урожае в Храме Неба в Пекине на TypeScript + Three.js
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="WebGL-проект Храма моления о хорошем урожае в Храме Неба в Пекине на TypeScript + Three.js"></a>
+
+**Промпт**
+
+```text
+Создайте полностью работоспособный WebGL-проект Храма моления о хорошем урожае в Храме Неба в Пекине на TypeScript + Three.js. Вся геометрия здания, текстуры и анимация должны процедурно генерироваться кодом во время выполнения; загрузка внешних моделей .glb, .gltf, .obj, .fbx и других форматов запрещена.
+
+Воссоздание архитектуры:
+Трёхъярусные круглые купола разных размеров и высоты с синей глазурованной черепицей, позолоченный навершие, красные колонны, круглое здание храма, сине-зелёная и золотая роспись, dougong и двери с окнами.
+Для крыши используйте криволинейный профиль, тела вращения или пользовательскую геометрию, чтобы передать плавные, слегка загнутые вверх карнизы; простая коническая форма недопустима.
+Белая трёхъярусная круглая терраса из ханьбайюя с центральной каменной лестницей, балюстрадами и колоннами; общие пропорции должны быть гармоничными, а ярусы — хорошо читаемыми.
+Процедурно создавайте текстуры черепицы и декоративные элементы; для повторяющихся компонентов отдавайте предпочтение InstancedMesh.
+
+Сцена и взаимодействие:
+Голубое пекинское небо, площадь и немного зелени; используйте DirectionalLight в сочетании с AmbientLight／HemisphereLight, включите тени, затенение окружающей среды и умеренный кинематографический tone mapping.
+Добавьте OrbitControls для вращения и масштабирования, а также медленный автоматический обзор по кругу с возможностью включения и выключения.
+Переключение кнопкой режимов «взрыв»／«сборка»: крыша, колонны, dougong, стены, двери и окна, балюстрады и террасы должны плавно раздвигаться по уровням, а затем точно возвращаться на исходные места. Анимация должна управляться кодом и иметь поэтапный ритм со смещением по времени, без мгновенных перемещений.
+
+Предоставьте полный проект и инструкции по запуску. Страница должна адаптивно подстраиваться под размер окна, обеспечивать высокое качество изображения и плавное взаимодействие, а благодаря инстансингу, рациональной детализации геометрии и оптимизации рендеринга сохранять производительность в обычных настольных браузерах. Организуйте код по понятным модулям для удобного расширения; проверьте сборку и основные функции, честно укажите, что осталось непроверенным.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建筑还原：
+三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
+屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
+白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
+程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
+
+场景与交互：
+北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
+支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
+按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
+
+直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097323734504017936) · [Исходная публикация](https://x.com/goan999999/status/2097323734504017936) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097320830602809682"></a>
+
+### Мини-версия 3D-игры по мотивам «League of Legends»
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Мини-версия 3D-игры по мотивам «League of Legends»"></a>
+
+**Промпт**
+
+```text
+Шаг 1: сделай игру, полностью повторяющую League of Legends. В ней должно быть всё, что есть в LoL: та же карта, сопоставимое качество графики, герои, миньоны, башни и так далее. Для начала выбери 5 героев. 
+
+Шаг 2: жёстко ответь Astra: «Это не League, а дешёвая подделка». Сначала составь план, затем точно реализуй игру в реальных масштабах и с корректными игровыми механиками. Не накладывай UI поверх игры в виде HTML — он должен быть нативным, красивым и выглядеть как настоящий игровой интерфейс.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
+
+第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097320830602809682) · [Исходная публикация](https://x.com/LufzzLiz/status/2097320830602809682) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097313247116341424"></a>
+
+### Улучшение черт лица 3D-модели в Blender по референсу
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="Улучшение черт лица 3D-модели в Blender по референсу"></a>
+
+**Референсы:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
+
+**Промпт**
+
+```text
+использовать первое изображение как референс и улучшить черты лица на втором изображении.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097313247116341424) · [Исходная публикация](https://x.com/carlos_olivera/status/2097313247116341424) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097167383576383502"></a>
 
 ### Деревенский ландшафт в духе Skyrim по сгенерированному референсу
@@ -2034,290 +2608,6 @@ Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Исходная публикация](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
-
-### Интерактивное энергетическое ядро с двумя кольцами
-
-[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Интерактивное энергетическое ядро с двумя кольцами"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Смоделируйте в Blender энергетическое ядро, два кольца и металлическое основание. Экспортируйте материалы в просмотрщик Three.js с управлением вращением, масштабом, автоматическим облётом и пульсацией.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Исходная публикация](https://x.com/oneruofeng/status/2096551010089263181) · [Исходный код](https://github.com/wangruofeng/orbital-core-showcase) · [Демо](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096547658164834788"></a>
-
-### Видение храма Иезекииля в 3D
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Видение храма Иезекииля в 3D"></a>
-
-**Промпт**
-
-```text
-Как выглядело бы видение храма Иезекииля в 3D?
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-What would Ezekiel’s temple vision look like in 3D?
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096547658164834788) · [Исходная публикация](https://x.com/KrixOnok/status/2096547658164834788) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
-
-### Переключаемые выражения лица в Blender
-
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Переключаемые выражения лица в Blender"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Подготовьте в Blender варианты выражений лица персонажа Tripo до создания рига. Совместите сетки и переключайте их без интерполяции, уменьшая неактивные варианты внутрь головы. Не представляйте этот способ как плавное смешивание выражений или решение, совместимое с VRM.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Исходная публикация](https://x.com/Dstudio_ai/status/2096525100518453342) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
-
-### Зацикленная вода с Geometry Nodes
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Зацикленная вода с Geometry Nodes"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создайте периодический эффект водной поверхности с помощью Geometry Nodes в Blender без запекания. Сохраните редактируемую структуру узлов и опишите её как модель поверхности, а не полноценную симуляцию жидкости.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Исходная публикация](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
-
-### Морской мир по мотивам One Piece
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="Морской мир по мотивам One Piece"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создайте игровой морской мир с кораблём из Blender и океаном на Three.js. Добавьте смену погоды, подводное исследование, кильватерный след, пену, брызги и движущиеся паруса.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Исходная публикация](https://x.com/yash_yk45/status/2096518775042707700) · [Демо](https://one-piece-sea-world.vercel.app/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
-
-### Личная комната как интерактивное портфолио
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Личная комната как интерактивное портфолио"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Превратите личную комнату в интерактивный сайт-знакомство. Постройте сцену и выполните запекание в Blender, затем добавьте пар от кофе, анимацию в стиле «Матрицы» и ненавязчивые шейдерные эффекты.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Исходная публикация](https://x.com/kalanyei/status/2096506357868642342) · [Демо](https://room.kalan.dev/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
-
-### Полноценный уровень головоломки на Three.js
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Полноценный уровень головоломки на Three.js"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создайте полноценный уровень 3D-головоломки в Three.js, включая рабочие игровые механики. Подключите предоставленное аудио после того, как уровень и взаимодействия заработают.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Исходная публикация](https://x.com/TvWoo/status/2096505740643246231) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
-
-### Катер YF-24 на спокойном 3D-море
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="Катер YF-24 на спокойном 3D-море"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Смоделируйте катер YF-24 в Blender и анимируйте его движение по трёхмерному морю при ветре силой 2 балла по шкале Бофорта. Используйте референсы катера для уточнения формы.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Исходная публикация](https://x.com/yhmtmt1/status/2096503275910832461) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
-
-### Из плана верхнего этажа в предпросмотр Blender
-
-[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Из плана верхнего этажа в предпросмотр Blender"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создайте сцену Blender по плану верхнего этажа дома и отрендерите 10-секундный предпросмотр с небольшим числом сэмплов. Сначала добейтесь понятной пространственной планировки, затем дорабатывайте материалы.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Исходная публикация](https://x.com/indigox/status/2096501340889374883) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
-
-### Низкополигональная деревня по мотивам Квачхона для прогулок
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Низкополигональная деревня по мотивам Квачхона для прогулок"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создайте в одном HTML-файле уютную низкополигональную деревню по мотивам Квачхона, которую можно исследовать. Объедините процедурный 3D-пейзаж, атмосферу, интерфейс и взаимодействия.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Исходная публикация](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
-
-### Сборка и анимация сгенерированных 3D-моделей
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Сборка и анимация сгенерированных 3D-моделей"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Сгенерируйте оптимизированные 3D-модели с Tripo P2, соберите их в Blender, создайте риги и анимации персонажей. Проверьте, как персонажи и сцена сочетаются в пространстве.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Исходная публикация](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
-
-### Самолёт братьев Райт среди японского леса
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Игры
-
-Ремикс работы: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="Самолёт братьев Райт среди японского леса"></a>
-
-**Промпт**
-
-```text
-# KOMOREBI — Полёт над лесом
-
-## 1. Цель
-Весь текст интерфейса игры должен оставаться на английском языке.
-Создайте полноценную браузерную игру о полёте: управляйте узнаваемым Wright Flyer 1903 года вдоль реки в японском лесу, собирайте духовные фонари, пролетайте через ворота тории и добирайтесь до горного святилища. Используйте https://komorebi-forest-flight.tripo.page/ и предоставленные референсы для создания итоговой композиции. Укажите авторство Jared: https://x.com/jaredliu_bravo, а источник вдохновения — The Bugged Dev: https://x.com/thebuggeddev/status/2096467585785286808.
-
-## 2. Визуальное направление
-Создайте тихий кинематографичный миниатюрный лес с глубокими кедровыми оттенками зелёного, бирюзовой водой, тёплым цветом слоновой кости, состаренной древесиной, покрытыми мхом камнями и мягким янтарным светом. Чётко покажите самолёт с плавной камеры преследования, расположенной сзади; следующий коллекционный объект должен быть виден над его крыльями. Используйте мягкий солнечный свет за пределами переднего поля зрения, заполняющее освещение, контактные тени, окутанные туманом горы, отражения в воде, парящие частицы и лёгкий эффект свечения. Избегайте пересветов, парящих домов, крупных размытых световых пятен и угловатых каменных стен.
-
-Используйте для текста тёплый неяркий белый цвет, тонкие полупрозрачные рамки, локальные заголовки с засечками в стиле Cormorant Garamond и элементы управления в стиле DM Sans. В левом верхнем углу разместите KOMOREBI, 木漏れ日 и A FOREST FLIGHT. Сверху разместите компас и элемент управления Compare, служебные кнопки — в правом верхнем углу, счёт и сердца — слева, высоту и скорость — справа, а прогресс главы — вдоль нижнего края. На стартовом экране покажите приглашение «Пусть лес несёт вас» и кнопку «Начать полёт». На телефонах компактно сверните оверлей, не закрывая самолёт.
-
-## 3. Игровой мир
-Создайте детерминированный маршрут длиной 3,6 км, разделённый на четыре равномерно распределённые главы: «Шепчущий лес», «Скрытый водопад», «Долина фонарей» и «Облачное святилище». Подгружайте или перерабатывайте фрагменты окружения. Коридор задаёт плавно извивающаяся бирюзовая река; в качестве начальной кривой используйте x(z) = sin(0.006z) × 19 + sin(0.017z) × 5. Расставьте ворота тории вдоль вспомогательной траектории полёта, окружив её лесом, деревянными домами, водопадами, округлыми речными камнями и окутанными туманом горами. Для каждого фундамента дома создайте террасу и заглубите фундамент по всем четырём углам.
-
-## 4. Каталог ассетов
-Подготовьте стабильные слоты моделей в следующем порядке:
-- `aircraft`: открытый Wright Flyer 1903 года с двумя широкими крыльями из льняной ткани цвета слоновой кости, открытой тонкой деревянной рамой, стойками и натяжными тросами, передним рулём высоты и двумя задними толкающими винтами. Винты должны быть отдельными анимируемыми деталями; не допускайте дублирования лопастей.
-- `cedar`: высокий красновато-коричневый ствол, неровная многоярусная крона глубокого зелёного цвета, цельные ветви и корни, надёжно стоящие на земле; повторно используйте модель с разным масштабом и поворотом.
-- `minka`: тёмная состаренная древесина, оштукатуренные заполнения, широкая покатая черепичная крыша, большие свесы, тёплые окна сёдзи и каменный фундамент.
-- `torii`: состаренные японские деревянные ворота с двумя столбами и широкой изогнутой верхней перекладиной; их проём должен соответствовать существующему коллизионному объёму.
-- `lantern`: тёплый духовный фонарь из бумаги и дерева; используйте одно семейство моделей для повторяющихся коллекционных объектов и небольших декоративных светильников, но визуально разделяйте их роли.
-- `rock`: округлый речной камень, покрытый мхом, с устойчивым основанием; размещайте его вдоль берегов, не перекрывая коридор полёта.
-Реку, рельеф, горы, полотна водопадов, светящиеся кольца, туман, частицы и интерфейс создавайте процедурно. Внесите каждый слот в реестр и обновляйте все повторяющиеся экземпляры при изменении его модели.
-
-## 5. Полёт и обратная связь
-После нажатия Begin flight автоматически двигайтесь вперёд. Клавиши W/S или стрелки вверх/вниз изменяют высоту; A/D или стрелки влево/вправо задают курс и крен. Клавиша Shift расходует видимый запас ускорения ветром, который затем восполняется. Плавный разгон и камера преследования должны сохранять отзывчивость управления. По умолчанию ассистент полёта мягко возвращает самолёт к реке и целевой высоте после отпускания клавиш; добавьте переключатель ассистента и настройки качества. Реализуйте управление касаниями и ускорение. Клавиша Esc ставит игру на паузу; справка, настройки и просмотрщик самолёта приостанавливают полёт и восстанавливают предыдущее состояние. При потере фокуса сбрасывайте все зажатые клавиши.
-
-Дайте игроку три сердца. Каждый духовный фонарь приносит 100 очков, а чистое прохождение через ворота тории — 250 очков; каждую цель можно засчитать только один раз. Столкновение с землёй, берегом или балкой отнимает одно сердце и даёт кратковременную неуязвимость. Завершение маршрута на отметке 3,6 км должно показывать счёт, лучший результат и возможность повторной игры; при потере всех сердец предложите повторить попытку. Храните лучший результат локально и предусмотрите запасной вариант на случай ошибки хранилища.
-
-Фонари размещаются внутри больших овальных золотых колец сбора; добавьте покачивание, пульсирующие ореолы и искры. Ближайшую цель подпишите «+100 · ПРОЛЕТИТЕ СКВОЗЬ». Согласуйте увеличенный объём попадания с анимированным кольцом. При сборе создавайте расширяющееся кольцо, тёплые частицы, всплывающий счёт и импульс в HUD. Пройденные ворота плавно скрывайте, прежде чем они начнут закрывать обзор камеры преследования.
-
-## 6. Реализация
-Используйте Vite, Three.js и JavaScript ES modules, разделив модули маршрута, коллизий и подсчёта очков, окружения, моделей, эффектов и интерфейса. Храните зависимости, шрифты и ресурсы рантайма локально; поставляйте статический сайт. Используйте GLTFLoader и манифест ассетов с границами, ориентацией, происхождением и фабриками запасных вариантов для каждого слота. Коллизии не должны зависеть от формы импортированной сетки. Вращайте два винта с учётом delta time; проверяйте их работу с камеры преследования и из доступного для вращения и масштабирования просмотрщика самолёта. Если локальный файл самолёта доступен, предложите скачать именно его. Blender можно использовать при необходимости для отделения запечённых винтов, исправления pivot point или запекания облегчённой сетки, если это требуется по результатам замеров производительности.
-
-Сохраняйте исходную визуальную основу. После появления импортированного слота Compare или C должны переключать эту основу и доступные замены без навигации и сброса состояния полёта, камеры, сердец, ускорения, счёта или собранных объектов. На время перехода замораживайте прогресс, сохраняйте последний полностью отрисованный кадр до готовности следующей сцены, затем выполняйте кроссфейд длительностью около 650 мс. Учитывайте настройку уменьшения анимации; блокируйте повторные нажатия и при ошибке восстанавливайте предыдущую сцену. Используйте встроенный тёмный фон запуска, ограничение DPR, ограниченное количество частиц и не более двух кэшированных вариантов сцены.
-
-## 7. Приёмка
-Предоставьте исходный код, lockfile, команды npm run dev и npm run build, а также статический результат сборки в dist. Проверьте полный полёт, ускорение, сбор фонарей и прохождение ворот, неуязвимость после столкновения, паузу и продолжение, сенсорное управление, повторную игру, просмотрщик и независимый импорт слотов. Убедитесь, что переключение Compare в обоих направлениях сохраняет состояние, не создаёт белых кадров и не увеличивает расход ресурсов GPU. Проверьте устойчивость домов на поверхности, силуэт самолёта, движение винтов, читаемость освещения и восстановление после медленной загрузки. Отчёт должен содержать фактически выполненные тесты и условия измерения производительности. Следуйте приведённому ниже общему рабочему процессу генерации ассетов и верните результат.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Исходная публикация](https://x.com/thebuggeddev/status/2096467585785286808) · [Демо](https://komorebi-forest-flight.tripo.page/) · [Назад к примерам](#all-prompts)
 
 ---
 

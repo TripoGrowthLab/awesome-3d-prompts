@@ -7,6 +7,6 @@ export default Object.freeze({
   campaign: "awesome_3d_prompts",
   accent: "14c9e6",
   pageSize: 50,
-  readmeLimit: 12,
+  readmeLimit: 50,
   featuredLimit: 6,
 });

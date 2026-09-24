@@ -28,6 +28,18 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Lõi năng lượng hai vòng tương tác](#interactive-dual-ring-energy-core-2096551010089263181)
+- [Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D](#gpt-6-astra-2096547658164834788)
+- [Chuyển đổi biểu cảm nhân vật trong Blender](#switchable-character-expressions-in-blender-2096525100518453342)
+- [Mặt nước lặp tuần hoàn bằng Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
+- [Thế giới hàng hải lấy cảm hứng từ One Piece](#one-piece-inspired-sailing-world-2096518775042707700)
+- [Biến căn phòng riêng thành hồ sơ năng lực tương tác](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [Màn chơi giải đố Three.js hoàn chỉnh](#complete-three-js-puzzle-level-2096505740643246231)
+- [Thuyền YF-24 trên mặt biển 3D êm dịu](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
+- [Từ mặt bằng tầng trên cùng đến bản xem trước Blender](#top-floor-plan-to-blender-preview-2096501340889374883)
+- [Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon](#walkable-low-poly-gwacheon-village-2096490395614019793)
+- [Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo](#assemble-and-animate-generated-3d-assets-2096481425050743048)
+- [Wright Flyer Xuyên Qua Rừng Nhật Bản](#wright-flyer-through-a-japanese-forest-2096467585785286808)
 - [Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt](#surface-climbing-procedural-insect-2096460081982304546)
 - [Tái tạo Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
 - [Căn hộ lấy cảm hứng từ D4 có thể khám phá trong game](#playable-d4-inspired-apartment-2096413869841473930)
@@ -66,20 +78,292 @@
 - [Zubli, nhân vật WebGL phản hồi linh hoạt](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Sinh vật biển trong tách cà phê](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [Trò chơi sinh tồn của cá: Từ bể cá đến đại dương](#gpt-6-astra-2096156244180664627)
-- [Dropzone: đấu trường battle royale](#dropzone-battle-royale-arena-2096155883122413946)
-- [Game bay trên trình duyệt](#browser-flight-game-2096149823216898445)
-- [Từ ảnh quán cà phê đến video tham quan khung dọc](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [Tự động rig nhân vật và động tác kung fu](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Nhân vật Viking trong Blender](#viking-character-in-blender-2096140378777010278)
-- [Phiêu lưu platform lấy cảm hứng Odyssey](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [T. rex có rig và hoạt ảnh](#rigged-and-animated-t-rex-2096133339329536249)
-- [Văn phòng đi lại được với 32 người có hoạt ảnh](#walkable-office-with-32-animated-people-2096131961345720477)
-- [Bay quanh Adiyogi trong ánh chiều](#adiyogi-evening-fly-through-2096128774203171021)
-- [Xe Formula One trong Blender](#formula-one-car-in-blender-2096125193580113957)
-- [Nhà máy chế tạo phản lực đang hoạt động](#live-jet-manufacturing-plant-2096122429319852319)
-- [Làm lại quảng cáo game di động thành game thật](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
 
 </details>
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### Lõi năng lượng hai vòng tương tác
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Lõi năng lượng hai vòng tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lõi năng lượng, hai vòng và đế kim loại trong Blender. Xuất mô hình kèm vật liệu sang trình xem Three.js có chức năng xoay, thu phóng, tự động bay quanh và điều chỉnh hiệu ứng nhịp xung.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Bài đăng gốc](https://x.com/oneruofeng/status/2096551010089263181) · [Mã nguồn](https://github.com/wangruofeng/orbital-core-showcase) · [Bản demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Khải tượng đền thờ của Ê-xê-chi-ên trong không gian 3D"></a>
+
+**Prompt**
+
+```text
+Khải tượng đền thờ của Ê-xê-chi-ên sẽ trông như thế nào trong không gian 3D?
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096547658164834788) · [Bài đăng gốc](https://x.com/KrixOnok/status/2096547658164834788) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### Chuyển đổi biểu cảm nhân vật trong Blender
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Chuyển đổi biểu cảm nhân vật trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Chuẩn bị các phiên bản biểu cảm của nhân vật Tripo trong Blender trước khi gắn xương. Căn chỉnh các lưới rồi chuyển đổi từng phiên bản, thu nhỏ những phiên bản không dùng vào bên trong đầu. Không mô tả cách này là nội suy biểu cảm mượt mà hay tương thích với VRM.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Bài đăng gốc](https://x.com/Dstudio_ai/status/2096525100518453342) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### Mặt nước lặp tuần hoàn bằng Geometry Nodes
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Mặt nước lặp tuần hoàn bằng Geometry Nodes"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo hiệu ứng mặt nước tuần hoàn bằng Blender Geometry Nodes mà không bake. Giữ hệ thống nút ở dạng có thể chỉnh sửa và mô tả đây là mô hình bề mặt, không phải mô phỏng chất lỏng đầy đủ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Bài đăng gốc](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### Thế giới hàng hải lấy cảm hứng từ One Piece
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="Thế giới hàng hải lấy cảm hứng từ One Piece"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Xây dựng một thế giới hàng hải có thể chơi được với tàu dựng trong Blender và đại dương Three.js. Thêm thời tiết thay đổi, khám phá dưới nước, vệt sóng sau tàu, bọt, nước bắn và cánh buồm chuyển động.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Bài đăng gốc](https://x.com/yash_yk45/status/2096518775042707700) · [Bản demo](https://one-piece-sea-world.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### Biến căn phòng riêng thành hồ sơ năng lực tương tác
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Biến căn phòng riêng thành hồ sơ năng lực tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến căn phòng riêng thành website tự giới thiệu có tính tương tác. Dựng và bake cảnh trong Blender, sau đó thêm hơi cà phê, hoạt ảnh kiểu Matrix và hiệu ứng shader nhẹ nhàng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Bài đăng gốc](https://x.com/kalanyei/status/2096506357868642342) · [Bản demo](https://room.kalan.dev/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### Màn chơi giải đố Three.js hoàn chỉnh
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Màn chơi giải đố Three.js hoàn chỉnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Xây dựng một màn chơi giải đố 3D hoàn chỉnh bằng Three.js, bao gồm các cơ chế thực sự chơi được. Khi màn chơi và các tương tác đã hoạt động, hãy tích hợp âm thanh được cung cấp.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Bài đăng gốc](https://x.com/TvWoo/status/2096505740643246231) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
+
+### Thuyền YF-24 trên mặt biển 3D êm dịu
+
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="Thuyền YF-24 trên mặt biển 3D êm dịu"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng thuyền YF-24 trong Blender và tạo hoạt cảnh thuyền di chuyển trên biển ba chiều với gió cấp 2 theo thang Beaufort. Dùng tư liệu tham khảo về thuyền để cải thiện hình dáng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Bài đăng gốc](https://x.com/yhmtmt1/status/2096503275910832461) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
+
+### Từ mặt bằng tầng trên cùng đến bản xem trước Blender
+
+[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Từ mặt bằng tầng trên cùng đến bản xem trước Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng mặt bằng tầng trên cùng của ngôi nhà để dựng cảnh Blender và kết xuất bản xem trước 10 giây với số mẫu thấp. Ưu tiên bố cục không gian rõ ràng trước khi hoàn thiện vật liệu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Bài đăng gốc](https://x.com/indigox/status/2096501340889374883) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
+
+### Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Dạo bước trong ngôi làng low-poly lấy cảm hứng từ Gwacheon"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một ngôi làng low-poly ấm cúng, có thể khám phá, lấy cảm hứng từ Gwacheon trong một tệp HTML duy nhất. Kết hợp cảnh quan 3D tạo bằng thuật toán, bầu không khí, giao diện và tương tác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Bài đăng gốc](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
+
+### Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Lắp ghép và tạo hoạt ảnh cho các mô hình 3D đã tạo"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo tài nguyên 3D đã tối ưu bằng Tripo P2, lắp ghép trong Blender, rồi gắn xương và tạo hoạt ảnh cho nhân vật. Kiểm tra sự phù hợp về không gian giữa nhân vật và cảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Bài đăng gốc](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
+
+### Wright Flyer Xuyên Qua Rừng Nhật Bản
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+Phỏng theo: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="Wright Flyer Xuyên Qua Rừng Nhật Bản"></a>
+
+**Prompt**
+
+```text
+# KOMOREBI — Chuyến bay giữa rừng
+
+## 1. Mục tiêu
+Giữ toàn bộ nội dung giao diện trong trò chơi bằng tiếng Anh.
+Xây dựng một game lái máy bay hoàn chỉnh chạy trên trình duyệt: điều khiển chiếc Wright Flyer 1903 dễ nhận biết bay dọc theo một con sông trong rừng Nhật Bản, thu thập những chiếc đèn lồng linh hồn, bay qua các cổng torii và đến một thánh địa trên núi. Sử dụng https://komorebi-forest-flight.tripo.page/ cùng các tài liệu tham khảo được cung cấp để hoàn thiện bố cục. Ghi công Jared tại https://x.com/jaredliu_bravo và nguồn cảm hứng, The Bugged Dev, tại https://x.com/thebuggeddev/status/2096467585785286808.
+
+## 2. Định hướng hình ảnh
+Tạo một khu rừng thu nhỏ mang chất điện ảnh, tĩnh lặng, với sắc xanh tuyết tùng đậm, mặt nước xanh teal, vải lanh màu trắng ngà ấm, gỗ phong hóa, đá phủ rêu và ánh hổ phách tiết chế. Giữ máy bay luôn rõ nét trong khung hình bằng camera bám đuôi chuyển động mượt, đồng thời để vật phẩm tiếp theo hiện ra phía trên hai cánh. Dùng ánh nắng dịu từ ngoài vùng nhìn phía trước, ánh sáng môi trường, bóng tiếp xúc, núi phủ sương, phản chiếu trên mặt nước, các hạt bụi trôi và hiệu ứng bloom nhẹ. Tránh phơi sáng quá mức, nhà lơ lửng, các đốm sáng quá lớn và vách đá góc cạnh.
+
+Dùng chữ trắng ngà ấm, viền mảnh bán trong suốt, tiêu đề serif theo phong cách Cormorant Garamond và các nút điều khiển theo phong cách DM Sans. Góc trên bên trái: KOMOREBI, 木漏れ日 và A FOREST FLIGHT. Đặt la bàn và điều khiển Compare ở phía trên, các nút tiện ích ở góc trên bên phải, điểm/số tim bên trái, độ cao/tốc độ bay bên phải và tiến trình chương dọc theo cạnh dưới. Lời mời mở đầu là “Hãy để khu rừng đưa lối.” cùng nút “Bắt đầu bay”. Thu gọn lớp phủ trên điện thoại mà không che khuất máy bay.
+
+## 3. Thế giới
+Xây dựng một tuyến đường xác định dài 3,6 km, chia thành bốn chương có khoảng cách bằng nhau: Rừng Thì Thầm, Thác Nước Ẩn, Thung Lũng Đèn Lồng và Thánh Địa Mây. Tải liên tục hoặc tái sử dụng các phân đoạn cảnh. Một con sông màu ngọc lam uốn lượn nhẹ xác định hành lang bay; dùng x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 làm đường cong khởi đầu. Bố trí các cổng torii dọc theo đường bay có hỗ trợ, với rừng, nhà gỗ, thác nước, đá sông tròn và núi phủ sương được xếp lớp xung quanh. Tạo bậc địa hình cho mọi phần nền nhà và chôn nền móng tại cả bốn góc.
+
+## 4. Danh mục tài sản
+Chuẩn bị các slot mô hình ổn định theo thứ tự sau:
+- `aircraft`: Wright Flyer 1903 kiểu mở, với hai cánh vải lanh màu ngà bản rộng, khung gỗ thanh mảnh lộ thiên, thanh chống và dây căng, cánh lái phía trước cùng hai cánh quạt đẩy phía sau. Giữ các cánh quạt là những bộ phận riêng có thể hoạt ảnh, không để xuất hiện cánh trùng lặp.
+- `cedar`: thân cây cao màu nâu đỏ, tán lá xanh đậm xếp lớp không đều, cành cây liền mạch và rễ bám đất; tái sử dụng với quy mô và góc xoay đa dạng.
+- `minka`: gỗ sẫm màu phong hóa, vách chèn bằng thạch cao, mái dốc lợp ngói bản rộng, mái hiên lớn, cửa sổ shoji ánh vàng ấm và nền móng bằng đá.
+- `torii`: cổng gỗ Nhật Bản phong hóa với hai cột và xà ngang cong bản rộng ở phía trên; lối đi mở phải khớp với vùng va chạm hiện có.
+- `lantern`: đèn lồng linh hồn bằng giấy và gỗ, ánh vàng ấm; dùng cùng một họ mô hình cho các vật phẩm lặp lại và đèn trang trí nhỏ hơn, đồng thời phân biệt rõ vai trò của chúng.
+- `rock`: đá sông tròn phủ rêu, có phần đáy bám đất; tạo instance dọc bờ sông nhưng không chặn hành lang bay.
+Giữ sông, địa hình, núi, màn thác nước, vòng phát sáng, sương mù, hạt và UI ở dạng procedural. Liệt kê mọi slot trong registry và cập nhật tất cả instance lặp lại khi mô hình của slot thay đổi.
+
+## 5. Điều khiển bay và phản hồi
+Máy bay tự động tiến về phía trước sau khi nhấn Bắt đầu bay. W/S hoặc lên/xuống điều chỉnh độ cao; A/D hoặc trái/phải điều hướng và nghiêng máy bay. Shift tiêu hao một lượng tăng tốc gió có thể nhìn thấy và tự hồi lại. Gia tốc mượt cùng camera bám theo phía sau vẫn phải phản hồi nhanh. Chế độ hỗ trợ bay mặc định sẽ nhẹ nhàng đưa máy bay trở lại phía sông và độ cao mục tiêu sau khi người chơi thả phím; cung cấp nút bật/tắt hỗ trợ và các thiết lập chất lượng. Hỗ trợ điều khiển cảm ứng và tăng tốc. Esc tạm dừng; trợ giúp, cài đặt và trình xem máy bay sẽ tạm dừng chuyến bay rồi khôi phục trạng thái trước đó. Xóa mọi phím điều khiển đang được giữ khi mất tiêu điểm.
+
+Cấp ba tim. Mỗi đèn lồng linh hồn mang lại 100 điểm, còn mỗi lần bay qua cổng torii rõ ràng mang lại 250 điểm, chỉ tính một lần cho mỗi mục tiêu. Va chạm với mặt đất, bờ sông hoặc xà cổng sẽ mất một tim và cấp trạng thái bất tử ngắn hạn. Hoàn thành ở mốc 3,6 km với điểm hiện tại, điểm cao nhất và tùy chọn chơi lại; hết tim thì cho phép thử lại. Lưu điểm cao nhất cục bộ, kèm phương án dự phòng khi lưu trữ gặp lỗi.
+
+Đặt đèn lồng bên trong các vòng thu thập vàng hình bầu dục lớn, với quầng sáng nhấp nhô, phập phồng và tia lửa. Gắn nhãn mục tiêu gần nhất là “+100 · BAY XUYÊN QUA”. Căn vùng bắt va chạm rộng của mục tiêu khớp với vòng hoạt ảnh. Vật phẩm thu thập được tạo ra vòng lan rộng, hạt ánh ấm, điểm số nổi và xung HUD. Làm mờ các cổng đã đi qua trước khi chúng che khuất camera bám đuôi.
+
+## 6. Triển khai
+Sử dụng Vite, Three.js và các module JavaScript ES, tách riêng route/va chạm/tính điểm, cảnh vật, mô hình, hiệu ứng và UI. Đóng gói cục bộ các dependency, font và tài sản runtime; phân phối dưới dạng site tĩnh. Dùng GLTFLoader và asset manifest với bounds, hướng, nguồn gốc và factory dự phòng riêng cho từng slot. Giữ hệ thống va chạm độc lập với hình dạng mesh được import. Xoay hai cánh quạt bằng delta time; kiểm tra chúng từ camera bám đuôi và trình xem máy bay có thể orbit, zoom. Cung cấp tùy chọn tải xuống tệp máy bay cục bộ thực tế khi có. Blender là tùy chọn để tách cánh quạt đã được gộp sẵn, sửa pivot hoặc bake một mesh nhẹ hơn nếu hiệu năng đo được cho thấy cần thiết.
+
+Giữ nguyên nền tảng hình ảnh ban đầu. Khi một slot đã được import, Compare hoặc C sẽ chuyển đổi giữa nền tảng đó và các bản thay thế hiện có mà không điều hướng hoặc đặt lại chuyến bay, camera, tim, tăng tốc, điểm số hay vật phẩm đã thu thập. Đóng băng tiến trình trong lúc chuyển cảnh, giữ lại khung hình hoàn chỉnh cuối cùng cho đến khi cảnh tiếp theo sẵn sàng, sau đó crossfade trong khoảng 650 ms. Tôn trọng tùy chọn giảm chuyển động; ngăn các lần nhấp lặp và khôi phục cảnh trước đó nếu xảy ra lỗi. Dùng nền khởi động tối inline, giới hạn DPR, giới hạn số lượng hạt và tối đa hai biến thể cảnh được cache.
+
+## 7. Tiêu chí nghiệm thu
+Bàn giao mã nguồn, lockfile, npm run dev, npm run build và đầu ra dist tĩnh. Xác minh đầy đủ chuyến bay, tăng tốc, thu thập đèn lồng/cổng, miễn nhiễm va chạm, tạm dừng/tiếp tục, điều khiển cảm ứng, chơi lại, trình xem và import slot độc lập. Kiểm tra cả hai hướng Compare đều giữ nguyên trạng thái, không xuất hiện khung trắng và không làm tăng dần tài nguyên GPU. Kiểm tra độ bám nền của nhà, silhouette máy bay, chuyển động cánh quạt, ánh sáng dễ đọc và khả năng phục hồi khi tải chậm. Báo cáo các bài kiểm thử thực tế và điều kiện hiệu năng. Tuân theo quy trình dùng chung bên dưới để tạo tài sản và trả về.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096467585785286808) · [Bản demo](https://komorebi-forest-flight.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="surface-climbing-procedural-insect-2096460081982304546"></a>
 
 ### Côn trùng tạo bằng thuật toán bò trên nhiều bề mặt
@@ -1510,246 +1794,6 @@ First define the full gameply loop and level designs and stuff for this game int
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096156244180664627) · [Bài đăng gốc](https://x.com/AVachaspat92841/status/2096156244180664627) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone: đấu trường battle royale
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone: đấu trường battle royale"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng game battle royale góc nhìn thứ ba trên trình duyệt với vòng bo bão, chín địch AI, súng trường xung, máu và nạp đạn. Có tường che chắn đặt được và vòng loại đối thủ hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096155883122413946) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### Game bay trên trình duyệt
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Game bay trên trình duyệt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game bay 3D hoàn chỉnh trên trình duyệt từ dự án trống, với điều khiển bay, môi trường điều hướng được, mục tiêu rõ và trình bày nhất quán.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445) · [Bài đăng gốc](https://x.com/givros/status/2096149823216898445) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### Từ ảnh quán cà phê đến video tham quan khung dọc
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Từ ảnh quán cà phê đến video tham quan khung dọc"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái dựng quán cà phê từ ảnh trong Blender, gồm trần gỗ, đèn dải, máy rang, kệ và cây xanh. Bàn giao cảnh có thể chỉnh sửa và video camera tham quan dài 15 giây theo khung hình dọc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Bài đăng gốc](https://x.com/harrisonitsme/status/2096143359505269079) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### Tự động rig nhân vật và động tác kung fu
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Tự động rig nhân vật và động tác kung fu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Lấy nhân vật 3D được cung cấp, tạo rig và thêm đi bộ, chạy cùng vài động tác kung fu. Kiểm tra hoạt ảnh để phát hiện khớp gãy và tư thế thiếu ổn định.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096141728487178503) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Nhân vật Viking trong Blender
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Nhân vật Viking trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo nhân vật Viking 3D chỉnh sửa được trong Blender. Tập trung trang phục dễ nhận biết, cấu trúc mặt, tỷ lệ cơ thể và tư thế giới thiệu rõ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278) · [Bài đăng gốc](https://x.com/fre4kspace/status/2096140378777010278) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### Phiêu lưu platform lấy cảm hứng Odyssey
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Phiêu lưu platform lấy cảm hứng Odyssey"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng màn Three.js lấy cảm hứng Odyssey với tám bệ, ba mặt trăng thu thập được, ném mũ quay lại, kẻ địch và checkpoint. Thêm điều khiển cảm ứng, kiểm tra toàn bộ lượt chơi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Bài đăng gốc](https://x.com/AiHubMix/status/2096135808243876152) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### T. rex có rig và hoạt ảnh
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="T. rex có rig và hoạt ảnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Lấy mô hình T. rex đã tạo, gắn rig và tạo chuyển động hợp lý. Render nhân vật trong Three.js và kiểm tra hoạt ảnh biến dạng mô hình nhất quán.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096133339329536249) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
-
-### Văn phòng đi lại được với 32 người có hoạt ảnh
-
-[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="Văn phòng đi lại được với 32 người có hoạt ảnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng văn phòng Three.js trên trình duyệt với điều hướng góc nhìn thứ nhất, 32 người có rig chào khách bằng tên, cửa bấm được, điều khiển xoay quanh và chế độ xem bản vẽ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Bài đăng gốc](https://x.com/demgufever82151/status/2096131961345720477) · [Mã nguồn](https://github.com/Parithosh-Varma/office) · [Bản demo](https://office-2nw.pages.dev/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
-
-### Bay quanh Adiyogi trong ánh chiều
-
-[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Bay quanh Adiyogi trong ánh chiều"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng cảnh Adiyogi trong Blender với khuôn viên rộng, các góc cận cảnh chi tiết và ánh chiều ấm. Kết xuất đoạn bay tham quan 30 giây và giữ lại cảnh có thể chỉnh sửa.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Bài đăng gốc](https://x.com/thejothiram/status/2096128774203171021) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="formula-one-car-in-blender-2096125193580113957"></a>
-
-### Xe Formula One trong Blender
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Xe Formula One trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo mô hình Formula One 3D trong Blender bằng thao tác máy tính.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Bài đăng gốc](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
-
-### Nhà máy chế tạo phản lực đang hoạt động
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Nhà máy chế tạo phản lực đang hoạt động"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Nghiên cứu chế tạo máy bay và dựng mô phỏng nhà máy phản lực Three.js trực tiếp. Mô hình hóa chu kỳ máy, trạm sản xuất, vận chuyển và nút thắt, rồi kiểm tra dòng công việc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2096122429319852319) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
-
-### Làm lại quảng cáo game di động thành game thật
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="Làm lại quảng cáo game di động thành game thật"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dùng quảng cáo game di động làm tham chiếu để dựng game trình duyệt chơi được. Tái hiện tương tác chính và dùng asset Blender để khớp ý tưởng hình ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Bài đăng gốc](https://x.com/buildingadlicio/status/2096111709496680842) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

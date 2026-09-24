@@ -28,6 +28,18 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Dropzone: un'arena battle royale](#dropzone-battle-royale-arena-2096155883122413946)
+- [Un gioco di volo nel browser](#browser-flight-game-2096149823216898445)
+- [Dalla foto di una caffetteria a una visita verticale](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [Rig automatico e mosse di kung fu per un personaggio](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Un personaggio vichingo in Blender](#viking-character-in-blender-2096140378777010278)
+- [Un'avventura platform ispirata a Odyssey](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [Un T. rex con rig e animazioni](#rigged-and-animated-t-rex-2096133339329536249)
+- [Un ufficio percorribile con 32 persone animate](#walkable-office-with-32-animated-people-2096131961345720477)
+- [Sorvolo serale di Adiyogi](#adiyogi-evening-fly-through-2096128774203171021)
+- [Una Formula 1 in Blender](#formula-one-car-in-blender-2096125193580113957)
+- [Una fabbrica di jet in attività](#live-jet-manufacturing-plant-2096122429319852319)
+- [La versione giocabile di una pubblicità per giochi mobile](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
 - [Da un'illustrazione a un personaggio giocabile](#artwork-to-a-playable-character-2096107343268257953)
 - [La Torre Azadi in Blender](#azadi-tower-in-blender-2096107322536051057)
 - [Una visita al giardino del Museo di Suzhou](#suzhou-museum-garden-walkthrough-2096096998092841449)
@@ -66,20 +78,248 @@
 - [Schede interattive di personaggi 3D](#interactive-3d-character-cards-2095963576049832347)
 - [Uno sparatutto in terza persona con bullet time](#bullet-time-third-person-shooter-2095962376344309843)
 - [Street Heat: corse e derapate nel browser](#street-heat-browser-drift-racer-2095916820431827408)
-- [Un prototipo giocabile creato rapidamente](#rapid-playable-game-prototype-2095907526566990013)
-- [Una camera cyberpunk in loop in Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [Un arcade culturale che gioca da solo](#self-playing-cultural-arcade-game-2095898198413922791)
-- [Dal prompt a un gioco open world](#open-world-game-from-a-prompt-2095872986477908108)
-- [Una cittadina di Van Gogh in Three.js](#van-gogh-town-in-three-js-2095871735824339279)
-- [Una locomotiva meccanicamente completa in Blender](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [La sfida di una scena Blender in trenta secondi](#thirty-second-blender-scene-challenge-2095844872171421771)
-- [Una battaglia navale in Three.js in un solo turno](#single-turn-three-js-naval-war-scene-2095840435319001278)
-- [Lo Studio Ovale nelle diverse presidenze](#oval-office-through-the-presidencies-2095830596069290077)
-- [Dalla ricetta a un video 3D di cheesecake](#recipe-to-3d-cheesecake-film-2095829851206774987)
-- [Tidal Rush: otto piloti nel browser](#tidal-rush-eight-racer-browser-game-2095819786651374023)
-- [Una homepage con galassia interattiva in Three.js](#interactive-three-js-galaxy-homepage-2095806515579879457)
 
 </details>
+<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
+
+### Dropzone: un'arena battle royale
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone: un'arena battle royale"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Costruisci un battle royale in terza persona per browser con cerchio della tempesta, nove nemici AI, fucile a impulsi, salute e ricarica. Includi muri di copertura posizionabili e un ciclo completo di eliminazione.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Post originale](https://x.com/Motion_Viz/status/2096155883122413946) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### Un gioco di volo nel browser
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Un gioco di volo nel browser"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Crea un gioco di volo 3D completo nel browser da un progetto vuoto. Includi volo controllabile, ambiente navigabile, obiettivo chiaro e presentazione coerente.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/browser-flight-game-2096149823216898445) · [Post originale](https://x.com/givros/status/2096149823216898445) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### Dalla foto di una caffetteria a una visita verticale
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Dalla foto di una caffetteria a una visita verticale"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Ricostruisci una caffetteria in Blender dalla sua foto, includendo il soffitto in legno, le strisce luminose, la tostatrice, gli scaffali e le piante. Consegna una scena modificabile e un percorso di camera di 15 secondi in formato verticale.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Post originale](https://x.com/harrisonitsme/status/2096143359505269079) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### Rig automatico e mosse di kung fu per un personaggio
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Rig automatico e mosse di kung fu per un personaggio"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Prendi il personaggio 3D fornito, crea un rig e aggiungi camminata, corsa e varie mosse di kung fu. Controlla le animazioni per individuare articolazioni difettose e pose instabili.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Post originale](https://x.com/thebuggeddev/status/2096141728487178503) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Un personaggio vichingo in Blender
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Un personaggio vichingo in Blender"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Crea un personaggio vichingo 3D modificabile in Blender. Concentrati su costume riconoscibile, struttura facciale, proporzioni del corpo e una posa di presentazione leggibile.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/viking-character-in-blender-2096140378777010278) · [Post originale](https://x.com/fre4kspace/status/2096140378777010278) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Un'avventura platform ispirata a Odyssey
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Un'avventura platform ispirata a Odyssey"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Costruisci un livello Three.js ispirato a Odyssey con otto piattaforme, tre lune collezionabili, attacchi con cappello che ritorna, nemici e checkpoint. Aggiungi comandi touch e prova una partita completa.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Post originale](https://x.com/AiHubMix/status/2096135808243876152) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### Un T. rex con rig e animazioni
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="Un T. rex con rig e animazioni"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Prendi un modello generato di T. rex, aggiungi il rig e crea movimenti credibili. Renderizza il personaggio in Three.js e verifica che l'animazione deformi coerentemente il modello.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Post originale](https://x.com/majidmanzarpour/status/2096133339329536249) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
+
+### Un ufficio percorribile con 32 persone animate
+
+[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="Un ufficio percorribile con 32 persone animate"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Costruisci un ufficio nel browser in Three.js con navigazione in prima persona, 32 persone con rig che salutino il visitatore per nome, porte cliccabili, controlli orbitali e vista in pianta.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Post originale](https://x.com/demgufever82151/status/2096131961345720477) · [Codice sorgente](https://github.com/Parithosh-Varma/office) · [Demo](https://office-2nw.pages.dev/) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
+
+### Sorvolo serale di Adiyogi
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Sorvolo serale di Adiyogi"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Crea una scena di Adiyogi in Blender con ampi spazi, primi piani dettagliati e luce calda serale. Renderizza un sorvolo di 30 secondi e conserva la scena modificabile.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Post originale](https://x.com/thejothiram/status/2096128774203171021) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="formula-one-car-in-blender-2096125193580113957"></a>
+
+### Una Formula 1 in Blender
+
+[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Una Formula 1 in Blender"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Crea un modello 3D di Formula 1 in Blender tramite il controllo del computer.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Post originale](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
+
+### Una fabbrica di jet in attività
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Una fabbrica di jet in attività"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Studia la produzione aeronautica e costruisci una simulazione attiva di fabbrica di jet in Three.js. Modella cicli macchina, stazioni produttive, trasporto e colli di bottiglia, poi verifica il flusso.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Post originale](https://x.com/konstantinsaifo/status/2096122429319852319) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
+
+### La versione giocabile di una pubblicità per giochi mobile
+
+[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="La versione giocabile di una pubblicità per giochi mobile"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Usa una pubblicità di un gioco mobile come riferimento per costruire un gioco per browser giocabile. Ricrea l'interazione centrale e usa risorse Blender per rispettare la premessa visiva.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Post originale](https://x.com/buildingadlicio/status/2096111709496680842) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="artwork-to-a-playable-character-2096107343268257953"></a>
 
 ### Da un'illustrazione a un personaggio giocabile
@@ -891,253 +1131,6 @@ Costruisci un gioco arcade completo di corse stradali nel browser da una frase. 
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Post originale](https://x.com/higgsfield_ai/status/2095916820431827408) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="rapid-playable-game-prototype-2095907526566990013"></a>
-
-### Un prototipo giocabile creato rapidamente
-
-[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="Un prototipo giocabile creato rapidamente"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea un prototipo giocabile visivamente coerente con limiti rigorosi di tempo e token. Dai priorità a un ciclo completo, comandi reattivi, riscontri chiari, prestazioni stabili e una versione per browser pronta da distribuire, più che al numero di funzioni.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Post originale](https://x.com/gibglue/status/2095907526566990013) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Una camera cyberpunk in loop in Blender
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Una camera cyberpunk in loop in Blender"></a>
-
-**Prompt**
-
-```text
-Crea in Blender una camera da letto cyberpunk cinematografica affacciata di notte su una città al neon sotto la pioggia. Aggiungi cartelloni animati e rendila fotorealistica con un loop perfetto.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Post originale](https://x.com/CoinSh0t/status/2095898303019856230) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### Un arcade culturale che gioca da solo
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Un arcade culturale che gioca da solo"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Costruisci un gioco arcade autonomo per un paese del G7. Trasforma un riferimento culturale riconoscibile nella meccanica principale, rendi l'azione comprensibile senza comandi e aggiungi punteggio, difficoltà crescente e una rivelazione memorabile.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Post originale](https://x.com/say_gm_/status/2095898198413922791) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### Dal prompt a un gioco open world
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="Dal prompt a un gioco open world"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Costruisci un gioco open world da questo concetto: [premessa del mondo]. Includi tre regioni diverse, spostamenti, incontri dinamici, una semplice catena di missioni, luoghi simbolo, salvataggio e riavvio e ottimizzazione sufficiente per il browser.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Post originale](https://x.com/aeejazkhan/status/2095872986477908108) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Una cittadina di Van Gogh in Three.js
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Una cittadina di Van Gogh in Three.js"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea una cittadina percorribile in Three.js ispirata a Van Gogh. Trasforma strade dipinte, stelle, caffè e campi in spazi 3D stratificati, mantenendo vive le pennellate con shader, texture e luce animata.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Post originale](https://x.com/RealFedeURU/status/2095871735824339279) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### Una locomotiva meccanicamente completa in Blender
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Una locomotiva meccanicamente completa in Blender"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Modella una locomotiva a vapore in Blender come una vera scomposizione meccanica, non come un guscio con texture. Nomina e separa assi, guide delle boccole, blocchi dei cuscinetti, tiranti, collegamenti delle sospensioni, duomo del vapore e tutti gli assemblaggi principali.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Post originale](https://x.com/sheemamoto/status/2095868420327710840) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### La sfida di una scena Blender in trenta secondi
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="La sfida di una scena Blender in trenta secondi"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Costruisci una scena Blender coerente con un limite di tempo estremo. Dai priorità a una silhouette forte, tre piani di profondità, un materiale protagonista, illuminazione cinematografica e una composizione pronta per la camera. Lascia tutti gli oggetti modificabili.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Post originale](https://x.com/_satyam_ai/status/2095844872171421771) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
-
-### Una battaglia navale in Three.js in un solo turno
-
-[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Una battaglia navale in Three.js in un solo turno"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea una battaglia navale dettagliata in Three.js in un solo turno. Includi navi diverse, interazione fisicamente convincente con l'acqua, scie e spruzzi, azione aerea, esplosioni, illuminazione cinematografica, movimento di camera e rendering attento alle prestazioni.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Post originale](https://x.com/synthwavedd/status/2095840435319001278) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
-
-### Lo Studio Ovale nelle diverse presidenze
-
-[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Lo Studio Ovale nelle diverse presidenze"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Costruisci un progetto interattivo in Three.js sulle trasformazioni dello Studio Ovale nelle diverse presidenze. Consenti di cambiare epoca per esaminare mobili, decorazioni e composizione della stanza.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Post originale](https://x.com/fMinZhou/status/2095830596069290077) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
-
-### Dalla ricetta a un video 3D di cheesecake
-
-[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Dalla ricetta a un video 3D di cheesecake"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Ricostruisci una cheesecake reale come scena Three.js dalla sua ricetta. Modella separatamente i sei strati, lo stampo a cerniera e la carta forno, poi crea una presentazione di un minuto.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Post originale](https://x.com/sarit69976/status/2095829851206774987) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
-
-### Tidal Rush: otto piloti nel browser
-
-[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: otto piloti nel browser"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Costruisci un gioco completo di corsa con kart nel browser con otto piloti, tre giri, derapate, oggetti raccoglibili, fisica reattiva, HUD chiaro, grafica accattivante e schermata dei risultati all'arrivo.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Post originale](https://x.com/amazing13_13/status/2095819786651374023) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
-
-### Una homepage con galassia interattiva in Three.js
-
-[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Una homepage con galassia interattiva in Three.js"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea un'apertura di pagina di lancio di alta qualità intorno a una galassia Three.js in tempo reale. Fai formare alle particelle una sagoma discreta del numero sei, rendile reattive allo scorrimento e al puntatore, preserva la leggibilità del testo e riduci gradualmente gli effetti sui dispositivi meno potenti.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Post originale](https://x.com/threejsresource/status/2095806515579879457) · [Torna agli esempi](#all-prompts)
 
 ---
 

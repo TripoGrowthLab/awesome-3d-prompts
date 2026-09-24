@@ -28,6 +28,17 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [Claudeの成長トレーニングモンタージュ](#claude-opus-5-5-2102788371114246177)
+- [Three.jsでピクサー級の90年代アニメーションを制作](#claude-opus-5-5-2102788223835463902)
+- [チェスのガンビットを学ぶインタラクティブ3D盤](#gpt-6-astra-2102788013902213508)
+- [コードで作るシームレスな水循環アニメーション](#claude-opus-5-5-2102781807179735211)
+- [ブラウザで操作できる中世ヨーロッパ風3D城](#gpt-6-astra-2102780850706567390)
+- [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](#claude-opus-5-5-2102775461701091531)
+- [Orbit Lab：太陽・地球・月の3Dシミュレーション](#gpt-6-astra-2102752217375899659)
+- [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](#claude-opus-5-5-2102740078347087940)
+- [ボクセル風サッカーアニメーション](#claude-opus-5-5-2102739444256383089)
+- [想像上の惑星を扱うインタラクティブなウェブサイト](#claude-opus-5-5-2102729710174196022)
+- [中世の城のブラウザアニメーション](#gpt-6-astra-2102672926285713456)
 - [Claude Opus 5で制作したTripo 3Dプロモーション映像](#tripo-claude-opus-5-5-paper-cut-3d-short)
 - [インタラクティブなオイラー型ネオン流体シミュレーション](#claude-opus-5-5-2102565611473661963)
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](#claude-opus-5-5-2102565403109085669)
@@ -38,6 +49,7 @@
 - [インタラクティブなピーターラビット風の農場動物ゲーム](#claude-opus-5-5-2102538762731565085)
 - [夕暮れを航海する映画的なインタラクティブ海賊船](#claude-opus-5-5-2102533729746882985)
 - [無限にプロシージャル生成されるThree.jsワールド](#claude-opus-5-5-2102529695908806728)
+- [内装付きの郊外の2階建て住宅](#gpt-6-astra-2102473710724919614)
 - [インタラクティブな群集避難シミュレーション](#claude-opus-5-5-2102467667978572092)
 - [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
 - [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
@@ -66,20 +78,307 @@
 - [閉鎖研究施設から脱出するブラウザー3Dゲーム](#gpt-6-astra-2100595652703199281)
 - [3Dレーシングゲームを作る](#gpt-6-astra-2100526922770026874)
 - [手摺にメンテ用チェーンを追加](#gpt-6-astra-2100519026720231698)
-- [インタラクティブなボクセル騎士と焚き火のシーン](#gpt-6-astra-2100350159540596760)
-- [アイソメトリックなファンタジーグラフィックスデモ](#gpt-6-astra-2100271998618177864)
-- [AKARI：名古屋の屋上をつなぐ炎のリレー](#akari-nagoya-rooftop-flame-relay)
-- [キュクロープスの島](#cyclops-island-threejs-game)
-- [地下鉄駅を舞台にしたAAA CGI超自然格闘ショートフィルム](#gpt-6-astra-2100233407108137349)
-- [タイルを選べるインタラクティブなアパート内覧](#gpt-6-astra-2100222426705453318)
-- [PC版スプラトゥーンの開発とグラフィック再現](#gpt-6-astra-2100193512373592313)
-- [可動家具を備えたインタラクティブな3Dルームシーン](#gpt-6-astra-2100139076816916977)
-- [参考画像から動かせる3D空間とゲームキャラクターを制作](#gpt-6-astra-2099850719839109597)
-- [到達可能なプロシージャル宇宙探索ゲーム](#gpt-6-astra-2099785223827259515)
-- [Apple風の3Dハートと笑顔の絵文字](#gpt-6-astra-2099750376530657300)
-- [インタラクティブな3D生物の神経系パネル](#gpt-6-astra-2099719427990134984)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claudeの成長トレーニングモンタージュ
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claudeの成長トレーニングモンタージュ"></a>
+
+**プロンプト**
+
+```text
+カンフー・パンダのトレーニングシーンに着想を得た、成長モンタージュの30秒アニメーションを、すべてコードで制作してください。主人公はClaudeのマスコットとし、初回リリース以降、インターネット検索、コードの記述、3Dモデルの制作、人類が抱える最も難しい問題の解決など、さまざまな能力を高めていく様子を描いてください。感情を揺さぶる音楽も付けてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788371114246177) · [元の投稿](https://x.com/ishuagra02/status/2102788832273801700) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Three.jsでピクサー級の90年代アニメーションを制作
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Three.jsでピクサー級の90年代アニメーションを制作"></a>
+
+**プロンプト**
+
+```text
+ストーリーを考えてください。そしてThree.jsを使って、そのストーリーをもとに、ピクサー級のクオリティを持つ90年代風アニメーション作品をフルアニメーションで制作してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788223835463902) · [元の投稿](https://x.com/scheemunai/status/2102788223835463902) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102788013902213508"></a>
+
+### チェスのガンビットを学ぶインタラクティブ3D盤
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="チェスのガンビットを学ぶインタラクティブ3D盤"></a>
+
+**プロンプト**
+
+```text
+主要なチェスのガンビットを学べる、インタラクティブな3D盤を備えたWebアプリを作成してください。指し手のアニメーション、手順を進めたり戻したりする操作、変化手順、それぞれのオープニングの背後にある狙いを解説する機能を含めてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102788013902213508) · [元の投稿](https://x.com/diogosantosbr/status/2102788013902213508) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### コードで作るシームレスな水循環アニメーション
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="コードで作るシームレスな水循環アニメーション"></a>
+
+**プロンプト**
+
+```text
+水循環をテーマにした、すべてコードで制作するシームレスなループアニメーションを作成してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102781807179735211) · [元の投稿](https://x.com/higgsfield_ai/status/2102781807179735211) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102780850706567390"></a>
+
+### ブラウザで操作できる中世ヨーロッパ風3D城
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="ブラウザで操作できる中世ヨーロッパ風3D城"></a>
+
+**プロンプト**
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102780850706567390) · [元の投稿](https://x.com/luxurytax150/status/2102780850706567390) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk：夜の街を駆ける3D横スクロール猫ゲーム
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk：夜の街を駆ける3D横スクロール猫ゲーム"></a>
+
+**プロンプト**
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102775461701091531) · [元の投稿](https://x.com/blitast_studio/status/2102775632933654585) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102752217375899659"></a>
+
+### Orbit Lab：太陽・地球・月の3Dシミュレーション
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab：太陽・地球・月の3Dシミュレーション"></a>
+
+**プロンプト**
+
+```text
+比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
+
+要件:
+1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
+2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
+3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
+4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
+5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
+6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
+
+途中で質問せず、合理的に判断して最後まで実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102752217375899659) · [元の投稿](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 『ラストトレイン』サイバーパンク巨大都市ベンチマーク
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="『ラストトレイン』サイバーパンク巨大都市ベンチマーク"></a>
+
+**プロンプト**
+
+```text
+主役となる列車、プロシージャル建築、高架鉄道システム、雨、ボリューメトリックな大気、シネマティックライティング、複数のカメラセットアップ、完全なアニメーションシーケンスを備えたサイバーパンク巨大都市を、Blender内に構築してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102740078347087940) · [元の投稿](https://x.com/builderhelmai/status/2102740078347087940) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### ボクセル風サッカーアニメーション
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="ボクセル風サッカーアニメーション"></a>
+
+**プロンプト**
+
+```text
+Three.js（CDN）を使った、シンプルなボクセル風サッカーアニメーションを1つのHTMLファイルで作成してください。ブロック状の選手が2人のディフェンダーをドリブルでかわし、祝福のパーティクルが舞う華麗なゴールを決めます。カラフルなスタジアムの雰囲気にしてください。出力は完全なHTMLコードのみとしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102739444256383089) · [元の投稿](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 想像上の惑星を扱うインタラクティブなウェブサイト
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="想像上の惑星を扱うインタラクティブなウェブサイト"></a>
+
+**プロンプト**
+
+```text
+想像上の惑星をテーマにしたインタラクティブなウェブサイトを作成してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102729710174196022) · [元の投稿](https://x.com/Kappaemme1926/status/2102729710174196022) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### 中世の城のブラウザアニメーション
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="中世の城のブラウザアニメーション"></a>
+
+**プロンプト**
+
+```text
+ブラウザだけで完全に動作する3Dアニメーションを作成してください。広大な森の中にある丘の頂上に建つ中世の城を登場させます。キーボード操作は追加せず、城をあらゆる方向から見られるように、カメラだけが城の周囲を回転するようにしてください。城の塔の頂上には、風になびく旗を設置してください。
+
+実行すると城を表示し、ループアニメーションを開始するindex.htmlファイルを出力してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102672926285713456) · [元の投稿](https://juhapalomaki.fi/blog/castle-model-comparison/) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
 
 ### Claude Opus 5で制作したTripo 3Dプロモーション映像
@@ -782,6 +1081,33 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728) · [元の投稿](https://x.com/argofowl/status/2102529695908806728) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### 内装付きの郊外の2階建て住宅
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="内装付きの郊外の2階建て住宅"></a>
+
+**プロンプト**
+
+```text
+こんにちは。Blenderを使って、内装などすべてを含む、できるだけ完成度の高い郊外の2階建て住宅の3Dモデルを制作してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614) · [元の投稿](https://x.com/azer0lxm/status/2102473781830909995) · [作例一覧に戻る](#all-prompts)
 
 ---
 
@@ -2083,551 +2409,6 @@ I told Astra to CAD itself a body.
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100519026720231698) · [元の投稿](https://x.com/ujiden_type0/status/2100519026720231698) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100350159540596760"></a>
-
-### インタラクティブなボクセル騎士と焚き火のシーン
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="インタラクティブなボクセル騎士と焚き火のシーン"></a>
-
-**参照画像:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
-
-**プロンプト**
-
-```text
-あなたはシニア・クリエイティブWebGL／Three.jsデベロッパーです。Three.js + WebGLを使用し、完全にスタンドアロンな単一のHTMLファイル（index.html）だけで構成された、完成度が高く実運用可能なインタラクティブ3Dシーンを構築してください。
-
-### 1. ビジュアルテーマとアートディレクション
-
-- 雰囲気：深い夜の森、暖かく輝く焚き火、キャンプ地で休む孤独で疲れた騎士（『DARK SOULS』の篝火／往年のレトロRPGの美学）。
-- 美術スタイル：3Dピクセルアート／ボクセル／ローポリ。
-- シェーディングとポストプロセス：Three.jsのポストプロセス（RenderPixelatedPass、または低解像度のピクセル化・ディザリング効果に相当するもの）を組み込み、本格的な16bit／32bitレトロ調のルックを実現してください。
-
-### 2. シーンのジオメトリとアセット（100%プロシージャル。外部の.gltf／.objファイルは使用しない）
-
-すべてのアセットは、Three.jsのジオメトリプリミティブ（BoxGeometry、CylinderGeometryなど）と基本マテリアルを使ってプロシージャルに構築し、CORSの問題なくローカルでファイルを実行できるようにしてください。
-
-1. 森の環境：
-
-   - 地面：プロシージャルに配置したボクセル状の石、キノコ、ローポリの草木を備えた、暗くスタイライズされた地形。
-   - 木々：空き地を囲み、奥行きと隔絶感を演出するプロシージャルな松／トウヒ、またはブロック状の樹冠を持つ木々。
-   - 空とライティング：ちらつくボクセルの星が浮かぶ深い真夜中の空と、柔らかな影を落とす寒色系の月明かりのDirectionalLight。
-   - 奥行き：暗い大気色のTHREE.FogExp2で地平線をなじませる。
-
-2. 焚き火：
-
-   - 燻る薪とプロシージャルな残り火を囲む石の円。
-   - 炎のシステム：上昇するアニメーション付きのピクセル化パーティクル（Pointsまたは脈動するボクセルメッシュ）。
-   - ダイナミックライティング：Math.sin、ノイズ、疑似乱数による変化などを使い、連続的で自然なちらつきを表現する暖色のオレンジ〜赤のPointLight。
-
-3. 騎士：
-
-   - 頭部、胴体、上腕／前腕、脚、マント、剣をグループ化した階層型シーングラフを、ボクセル化したプリミティブで構築する。
-   - ビジュアルのディテール：スリット入りのヘルメット、胸当て、ポールドロン、ガントレット、鞘／剣。
-   - 関節（肩、肘、股関節、膝）のピボットポイントを正しく配置し、プロシージャルな回転アニメーションを滑らかに動かせるようにする。
-
-### 3. 騎士のインタラクティブ・ステートマシン
-
-選択可能な以下の状態について、レンダーループ内で線形補間（lerp）または三角関数のカーブを使い、滑らかなプロシージャルアニメーションを実装してください。
-
-- 焚き火のそばに座る（デフォルトのアイドル）：あぐらまたはしゃがんだ姿勢で座り、控えめな呼吸のサイクルを繰り返し、炎の近くで手を温める。
-- 薪をくべる：騎士が立ち上がって薪を取り、焚き火に投げ入れる。炎が目に見えて大きく燃え上がり、一時的に光の半径が広がり、火の粉がまとまって放出される。
-- 剣の稽古：立ち上がって剣を抜き、3段構成の攻撃／受け流しをきれいに繰り出し、戦闘時の構えに戻る。
-- 遠くを見つめる：空き地の端まで歩き、剣を地面に突き立て、マントを揺らしながら暗闇の向こうを見つめる。
-- 眠る：焚き火のそばの寝袋に横たわり、ヘルメットからアニメーション付きの「Z z z」ピクセルパーティクルが浮かび上がる。
-- 肉を焼く：食材を刺した棒を炎の上にかざし、控えめなプロシージャルの煙／蒸気パーティクルを発生させる。
-
-### 4. カメラシステム
-
-カメラの位置とターゲットを補間（lerp）して滑らかに切り替わる、プリセットカメラを用意してください。
-
-- 居心地のよいクローズアップ：騎士と焚き火の明かりに焦点を合わせたミディアムショット。
-- アイソメトリックRPG：空き地を高い位置から45度で見下ろす、クラシックな戦術視点。
-- シネマティック・グラウンド：星空と松の樹冠を背景に、騎士を見上げるローアングルのドラマチックなショット。
-- フリーオービット：標準のOrbitControlsにシームレスに切り替え、自由にインタラクティブな निरी視を行えるようにする。
-
-### 5. UIとオーディオ
-
-- UIスタイル：半透明の暗いフレーム、ピクセル化された枠線、埋め込みGoogle Font（例：「Press Start 2P」）を使った、レトロな8bit／16bit RPGのHUDレイアウト。
-- 下部パネル：騎士の各ステートを起動するインタラクティブなアクションボタン。
-- 右上パネル：カメラアングルを切り替えるボタン。
-- 薪カウンター：追加した薪の本数と現在の火の勢いを追跡する。
-- サウンド（Web Audio API）：プロシージャルに合成した薪の爆ぜる音と、夜のそよ風／コオロギの環境音。ミュート／ミュート解除の切り替えボタンも用意する。
-
-### 6. 技術仕様
-
-- 単一の自己完結型index.htmlファイル。
-- CDN（https://t.co/W8o3SZwkCjまたはunpkg）経由で読み込むES Modulesを使用する。
-- モジュール化され、コメントが充実したコード構成（initScene、buildEnvironment、buildKnight、buildCampfire、setupUI、setupAudio、animate）。
-- ウィンドウのリサイズハンドラーを完全にレスポンシブ対応させ、カメラのアスペクト比とピクセル化パスの解像度を更新する。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100350159540596760) · [元の投稿](https://x.com/vib3coded/status/2100350602316558428) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100271998618177864"></a>
-
-### アイソメトリックなファンタジーグラフィックスデモ
-
-[Anshu Chimala](https://x.com/anshuc) · 2026-09-16 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/efb3df2ad348026ea45dd7aadc01690c2f219342df652f170cb2b8727429a6e1.webp" width="840" loading="lazy" alt="アイソメトリックなファンタジーグラフィックスデモ"></a>
-
-**プロンプト**
-
-```text
-グラフィックスデモを作成してください。アイソメトリックカメラ、リアルなシェーディングと反射する濡れた床を備えたボクセル風のアートスタイル、魅力的なシーンに配置されたキャラクターを使用します。ファンタジー設定（Elden RingやDiabloをイメージ）。ブラウザ上でThree.jsを使い、60fps超で動作させてください。アセットはダウンロードしないでください。制限時間は1時間です。操作方法：クリックでキャラクターを移動し、カメラは遅れて追従します。ドラッグでカメラを回転し、スクロールでズームイン／ズームアウトします。現時点ではゲームプレイは不要です。動きやアニメーション、環境のさりげない挙動を取り入れ、世界に生命感を持たせてください。プレイヤー周辺は広がりのある見た目にしつつ、移動できる範囲は限定してください。アートの方向性を私に確認したり、質問したりする必要はありません。すぐに作業を始めてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build me a graphics demo: isometric camera, voxel-ish art style with realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Don't download assets. Time limit of 1 hour. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors. Area around player should look expansive, but only allow movement in a limited space. No need to confirm the art with me or ask questions, just go!
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100271998618177864) · [元の投稿](https://github.com/achimala/dream-loop) · [ソースコード](https://github.com/achimala/dream-loop) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="akari-nagoya-rooftop-flame-relay"></a>
-
-### AKARI：名古屋の屋上をつなぐ炎のリレー
-
-[Jared](https://growthengineer.space/) · 2026-09-16 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/f82d75310164041451311a5b943e2d18ec847828627c3905d3c1119f4435fbb4.webp" width="840" loading="lazy" alt="AKARI：名古屋の屋上をつなぐ炎のリレー"></a>
-
-**プロンプト**
-
-```text
-# AKARI — 名古屋ライトアトラス
-
-## 1. 目的
-愛知・名古屋アジア競技大会（2026年9月19日〜10月4日）を前に、抽象的な炎が7回の時間制ジャンプを行い、ミニチュアの名古屋に明かりを灯す、日本語ファーストの完全なブラウザゲームを構築してください。https://akari-nagoya-rooftop-relay.tripo.page/ にある現在の2マップ構成のオープニングと、提供されたビジュアルリファレンスに合わせます。以前の汎用的な屋上シーンは目標ではありません。
-
-## 2. ビジュアル方針
-見下ろし気味の三分の一視点によるアトラス風の画面構成、真夜中のネイビーバックグラウンド、温かみのあるアイボリー色の日本語セリフ見出し、繊細なゴールドのライン、控えめな粒子感を使います。デスクトップでは左側3分の1をオープニングの招待文に割り当て、右側に2枚の隆起したマップタイルを配置します。スマートフォンではマップが操作パネルの上に来るように構図を組み替えます。開始時は、暗く彩度を落とした建物とティール色の水路にします。成功すると、緑、ターコイズ色の銅屋根、暖かな窓明かり、ゴールドのルートライトが戻ります。炎と次のターゲットは常に見分けやすくしてください。柔らかな影、空気遠近感、制御されたブルームを使い、白いグレアは避けます。リファレンスに見られる日本語のオープニング見出し、ランドマーク名、細身のエディトリアル調ヘッダー／フッターを再現します。
-
-## 3. ワールド
-北西側の大きいタイルには、名城公園、名古屋城、愛知国際アリーナ、久屋大通公園、MIRAI TOWER、オアシス21を配置します。南東側のタイルには、市立博物館、瑞穂通、瑞穂公園とその陸上競技場を配置し、競技場の東側に山崎川を流します。低層で現代的な住宅街、公園の樹木、道路標示、川岸、暖色の照明器具を追加します。城の建築表現は名古屋城に限定してください。
-
-第1章：名城公園 → 外堀／久屋大通 → 久屋大通公園 → オアシス21の3ジャンプ。市立博物館への章移行は、明確な案内表示のあるプレイ不可の移行として実装します。第2章：市立博物館 → 瑞穂通 → 瑞穂運動場西 → 瑞穂公園方面 → 南広場の4ジャンプ。移行部分を連続した道路として描いたり、ジャンプ数に含めたりしないでください。第2章開始時点で進行状況を保存します。マップごとに縮尺は異なり、プレイ用に距離を圧縮しています。この点を、歴史的な聖火リレーの日付である2026年8月22日と9月16日と併せて、Aboutで簡潔に説明してください。これらは今後開催されるイベントへの招待ではありません。https://www.aichi-nagoya2026.org/ja/torch-relay/ と https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/. を引用してください。公式マスコットやエンブレムではなく、オリジナルの装飾と抽象的な炎を使用します。
-
-## 4. アセット一覧
-以下の安定した差し替えスロットを優先順位順に使用し、両方のビジュアルモードで同じレイアウトとコリジョン用プロキシを維持します。
-- `shachi`：虎のような頭部、曲線を描く鱗状の鯉の胴体、上向きに巻き上がる尾を持つ、アンティーク調の磨かれた金色の屋根飾り。城にも繰り返し配置します。
-- `castle`：アイボリー色の名古屋風天守、黒い木材、段状のターコイズ色の入母屋屋根、石造りの基壇。
-- `mizuho`：幅広い楕円形の陸上競技場。中央が開いた淡色の屋根とリズミカルな支柱を備え、中央からトラックと緑のフィールドが見えるようにします。
-- `arena`：幅広い屋根と暖色の縦型ファサードフィンを持つ、低層で現代的なアリーナ。公園の軸線より北側に配置します。
-- `tower`：箱型の展望デッキとアンテナを備えた、細身の銀色ラティス構造の展望塔。
-- `oasis`：細い淡色の支柱に支えられた、細長い楕円形のターコイズ色のガラス／水のキャノピー。
-- `midrise`：現代的で控えめな日本の住宅街の建物。高さと向きを変えて再利用し、簡素な博物館のマッシングも含めます。
-- `tree`：茶色い幹と層状の緑の樹冠を持つ、コンパクトで成熟した公園樹。両方のタイル全体にインスタンス配置します。
-地形、道路、水面、トラックの標示、ジャンプマーカー、抽象的な炎、ライトトレイル、花火、UIはプロシージャルにします。各モデルは完全に独立したオブジェクトとし、開口部と競技場中央の空間を維持してください。繰り返し使用する背景アセットを含め、一覧にあるすべてのスロットを管理します。
-
-## 5. ゲームプレイと報酬
-ポインター／タッチまたはSpaceキーを長押ししてチャージし、離すと次のマーカーに向かって自動的にジャンプします。決定論的なデルタタイム物理を使用します。距離は distance = 1.8 + 7 × charge、chargeは0〜1の間で反射し、ジャンプの弧は補間された高さに 4 × t × (1 − t) × 3.6 を加えます。チャージサイクルは、1方向あたり約1.42秒から0.92秒へと速くなります。軌道、緑のセーフゾーン、ゴールドのパーフェクトゾーンは同じ計算から導出します。誤差 ≤0.36 でパーフェクト、≤1.15 でセーフとし、最初の2ジャンプには0.28の追加の許容幅を設けます。
-
-セーフ着地で100点、パーフェクト着地で連続倍率に応じた200点を獲得し、倍率は×4を上限とします。2.35秒以内に促されたフォローアップ操作を行うと50点を追加します。セーフ着地、章移行、または3.4秒間の待機でコンボをリセットします。成功するたびに地区を光の波が通り抜け、窓が点灯し、ランタンが増えます。7段階の進行状況、スコア、コンボ、ベストスコアを表示します。ミス後は素早くリスタートできるようにし、移行後は章のチェックポイントを復元します。一時停止、リスタート、非表示タブからの復帰、操作後に任意で有効化できるサウンドを用意します。
-
-最後のジャンプ後、4.6秒かけてカメラを引き、制限付きの花火とともに、明かりの灯った両方のマップを表示します。7回すべての着地がパーフェクトならランクS、4回以上ならA、それ以外はBを表示します。リプレイ、同一カメラによる街のビフォー／アフタービュー、タイトル、日付、スコア、個人制作プロジェクトであることのクレジットを含む、実サイズ1800×1200のPNGポスターを書き出します。
-
-## 6. 実装
-Vite、TypeScript、Three.jsを使用し、地理情報、純粋な物理／スコアリング、シーン、エフェクト、モデルレジストリ、日本語／英語ローカライズ、UIを分離します。プロンプトの言語にかかわらず、日本語をデフォルトにし、言語切り替えの状態を保存します。フォントとアセットはローカルにバンドルします。GLTFLoaderとスロットごとの正規化を使用し、無効なインポートがあった場合は最後に正常に動作したモデルを維持します。シンプルなビジュアルとインポートしたビジュアルを比較する際は、スコア、チェックポイント、カメラ、ライティングを保持します。樹木や建物はインスタンス化し、互換性のある静的ジオメトリは結合し、DPRに上限を設け、パーティクル数を制限します。三角形数の目標を超えたという理由だけでモデルを却下せず、実際のフレーム時間とモデルの複雑さを評価します。返却されたアセットにメッシュのクリーンアップ、ピボットの修正、または競技場中央の開口部が必要な場合に限りBlenderを使用し、元のファイルは保持します。
-
-## 7. 受け入れ条件
-実行可能なソース、ロックファイル、開発／ビルドコマンド、静的ビルドを納品します。両章にまたがる7回のジャンプ、移行／チェックポイントからの復帰、ミス／リトライ、スコアリング、タッチ入力、一時停止、日本語／英語設定の保持、すべてのスロットのフォールバック、実際のポスター書き出しを検証します。現在の2マップのリファレンスと、オープニングおよびフィナーレの静止スクリーンショットを比較します。実測したパフォーマンスと、実際に実施したテストを報告します。以下の共有ワークフローが、モデルの生成と返却を規定します。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/akari-nagoya-rooftop-flame-relay) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="cyclops-island-threejs-game"></a>
-
-### キュクロープスの島
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-16 · GPT-6 Astra · ゲーム
-
-リミックス元: [Jason Chew](https://x.com/jasoncjs_/status/2099414001851449430)
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c.webp" width="840" loading="lazy" alt="キュクロープスの島"></a>
-
-**プロンプト**
-
-```text
-# ODYSSEY — キュクロプスの島
-
-## 1. 目標
-『オデュッセイア』第9歌に着想を得た、アイソメトリック視点の脱出ゲームを完成させます。オデュッセウスとして3人の乗組員を率い、洞窟の物資を盗み、追跡して攻撃してくるポリュペーモスから生き延び、ギリシャ船に乗って脱出します。ゲームUIはすべて英語にします。https://cyclops-island.tripo.page/と提供された参考資料を使用し、Jaredのクレジット表記と、Jason ChewによるOdyssey islandコンセプトからの着想を維持してください。
-
-## 2. ビジュアル方針
-深いティール色のエーゲ海に浮かぶ、幅約25ワールドユニットの、テクスチャを豊富に施した地中海風のボードゲーム用の島を構成します。正投影の三点視点カメラをおよそ (19,31,34) に配置し、温かみのある石灰岩、セージ色のオリーブの木、テラコッタ色の布、ブロンズの鎧、クリーム色の羊皮紙を使います。ACESトーンマッピング、暖色系の指向性シャドウ、空気遠近、控えめなブルーム、ビネット、粒子ノイズを適用します。エフェクトの下でも危険マーカーが読み取れるようにしてください。
-
-タイトルにはCormorant Garamond風のセリフ体、UIにはDM Sans風の書体を使います。左上にはΩのシール、「ODYSSEY / AN INTERACTIVE MYTH」、「BOOK IX」、「The Cyclops’ Island」を表示します。右上にはクリーム色の目立つ比較カードを置き、「One island. Two worlds.」と表示し、Tripo WorldとOriginalの切り替えを用意します。左下にはミッションステージ、ハート3つ、スタミナ、乗組員数を表示します。上部にはボス状態、その下には小さなコンパス／ミニマップを表示し、カメラ操作と簡潔な入力ヒントも見えるようにします。スマートフォンでは装飾的な文言をコンパクトにし、ミッション、ボス、比較、Dodgeの各コントロールを分離して配置します。
-
-## 3. ワールド
-南側の上陸ビーチから北へ向かう淡い砂色の曲がりくねった道を、オリーブ園を抜けて石灰岩の洞窟まで延ばします。巨人は洞窟の近くで眠り、オデュッセウスと乗組員は南側の道からスタートします。桟橋のそば、南西側に赤い帆の木造船を配置します。海岸線を不規則な岩、草、糸杉、ターコイズ色の浅瀬で囲みます。海のさざ波、波打ち際の泡、木々、火の明かり、鳥、船の揺れをアニメーションさせます。カメラを回転しても、海の動きが正しく見えるようにしてください。
-
-## 4. アセット一覧
-以下の順番で差し替えスロットを用意します。
-- `odysseus`：ひげを生やしたギリシャ人の冒険者。深紅のクレストが付いたブロンズ製コリント式ヘルメット、使い込まれた胸当て、象牙色のチュニック、テラコッタ色のマント、サンダル、小型の盾、鞘に収めた剣を装備します。3人の乗組員に流用し、それぞれ独立したスケルトンとアニメーションフェーズを持たせます。
-- `polyphemus`：中央に目が1つだけある、がっしりした巨人。黄褐色のオリーブ色の肌、巻き毛の黒い髪とひげ、毛皮または革の腰布、太い裸足、木製の棍棒を備えます。リギング可能なニュートラルポーズの全身モデルにします。
-- `ship`：細身のダークウォルナット製船体、せり上がった船首、ブロンズ製の衝角、マスト、テラコッタレッドの帆、ロープの索具、側面のオールを備えます。水やディスプレイ用の台座は付けません。
-- `olive`：節くれだった灰褐色の幹、広がる根、形が不規則なセージ色の樹冠。約25本に流用します。
-- `cave`：幅広く自立する、風化した石灰岩のアーチ。実際に通り抜けられる開口部、塊状の岩、まばらな苔を備えます。暗い内部は別途作成します。
-- `cypress`：細く先細りした地中海風の木。濃い緑色の葉を密に茂らせます。
-- `boulder`：不規則な形の、温かみのある石灰岩の海岸岩。スケールと回転を変えて流用します。
-地形、道、水、草、物資マーカー、攻撃予兆、パーティクル、UIはプロシージャルのままにします。各スロットを追跡し、見た目を差し替えてもゲームプレイ用マップは維持してください。
-
-## 5. 脱出エンカウント
-カメラ基準のWASD／矢印キー操作と、クリック／タップでの移動を、半径を考慮したA*ナビゲーションで実装します。乗組員はゆるやかに追従し、プレイヤーと巨人はサイズの違いに応じて地形、境界、障害物を考慮します。Shiftでダッシュ、Spaceまたは大きなタッチボタンで回避、Eで近くの物資を取得、Pでポーズ、Q／Rで回転、Fで主人公を追従します。ドラッグ／パン、右ドラッグ／回転、スクロール／ズーム、タッチピンチに対応します。追跡中は、スタミナが続く限りクリック移動でダッシュします。
-
-ステージ1：洞窟に近づきます。距離が近いほど、また騒がしいダッシュをするほど警戒度が上がり、巨人が目を覚ます可能性が高まります。ステージ2：物資は近距離でのみ取得でき、取得すると必ず巨人が目を覚まします。ステージ3：乗組員が乗船している間、(-0.8,8.7)付近にある半径約2.7ユニットの桟橋マーカー範囲内で、累積11秒間生き延びます。範囲外に出ると進行が一時停止します。
-
-体力は3、スタミナは100にします。開始時の速度は、歩行2.35、ダッシュ4.15、巨人の走行3.4ユニット／秒です。巨人は攻撃前に3.6ユニット以内まで追跡しなければなりません。睡眠、起床、追跡、予備動作、命中、硬直、終了の各状態を使用します。Ground Breakerでは、1.12秒の予備動作開始時にプレイヤーの位置を固定し、半径2.45の円を表示してから1回だけ攻撃します。ターゲットはプレイヤーを追従してはいけません。3回目の叩きつけごとに、明確に表示されたチャージ済みの拡大衝撃波を放ち、ダメージは移動するリングの縁に沿って発生させます。
-
-回避の持続時間は約0.34秒、消費スタミナは24、クールダウンは1.25秒とし、短時間の無敵と有効な地面へのクランプを付けます。ダッシュ中はスタミナを消費し、休むと回復します。攻撃を受けるとノックバック、被弾フィードバック、短時間の無敵を発生させます。敗北時には、すべてのアクター、タイマー、エフェクト、ミッション状態をリセットします。脱出するとダメージを停止し、リプレイ概要を開きます。ポーズ中はシミュレーション、アニメーション、エフェクトを停止します。チャージ攻撃を含め、乗船完了までに複数回の回避が必要になるよう調整します。
-
-## 6. 実装とアニメーション
-ワールド、ナビゲーション、エンカウント、アクター、エフェクト、音声、UIには、Vite、Three.js、JavaScriptのESモジュールを使用します。実行時アセットはすべて静的ビルドにローカルでバンドルします。初期のリグ付きモデルは、歩行／走行、睡眠／起床、回避、予備動作／攻撃を行い、それらが視認できるようにします。スキン付きの差し替えモデルにはAnimationMixer、実際のクリップ名、短いクロスフェード、乗組員ごとに分離したスケルトン用のSkeletonUtils.cloneを使用します。ルートモーションの二重適用と足の滑りを防ぎます。巨人の振り下ろし攻撃をゲームプレイ上の命中タイミングと同期させます。静的インポートをアニメーション付きとして報告してはいけません。必要な場合は、動作するリグ付きフォールバックを維持します。Blenderは、必要なリグ、ピボット、クリップ、メッシュの修正にのみ使用します。
-
-オレンジ／ゴールドの攻撃予兆、命中フラッシュ、地面のひび割れ、砂ぼこり、火花、落下する岩片、拡大するリング、短時間のライト、カメラシェイクを同期させます。回避の軌跡と、任意でジェスチャー操作に反応する合成音声を追加します。エフェクトをプールし、背景オブジェクトをインスタンス化し、フレーム時間を計測します。インポート時には、接地した足／ルートと、変更されていないコリジョンプロキシに正規化します。比較切り替えでは、位置、ミッション、体力、スタミナ、カメラ、アニメーション状態を維持します。インポートに失敗した場合は、動作中のモデルを保持します。目立たない位置にChange heroコントロールを含め、スロットごとの状態を表示するローカルモデルインポート機能を用意します。
-
-## 7. 受け入れ条件
-ソース、ロックファイル、npmの開発／ビルドコマンド、静的出力を納品します。障害物ナビゲーション、早期覚醒、近距離での取得、攻撃前の追跡、ターゲットの固定、時間差のある攻撃、回避時の無敵、衝撃波の縁によるダメージ、敗北／リセット、脱出成功を検証します。乗組員の独立したアニメーション、すべてのスロットのフォールバック、状態を維持した比較切り替え、デスクトップ／モバイルレイアウト、読み込みエラーを確認します。参考画像と比較した確定スクリーンショットを確認し、実際のパフォーマンスを報告します。モデル生成には以下の共有ワークフローを使用し、結果を返してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
-
-Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
-
-Make it feel like a small playable game:
-
-Control Odysseus with WASD or arrow keys
-Click the ground to walk
-Drag to pan the camera
-Scroll to zoom
-Add subtle water, tree, character, and environmental animation
-Add camera rotate, zoom, reset-view, and pause controls
-Use collision so the player cannot walk through rocks, trees, or water
-
-Add a dark literary UI panel in the bottom-left:
-
-“Lead Odysseus along the sandy path to the cave.”
-Show the current character and movement state below it.
-Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
-Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cyclops-island-threejs-game) · [元の投稿](https://x.com/jaredliu_bravo) · [デモ](https://cyclops-island.tripo.page/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100233407108137349"></a>
-
-### 地下鉄駅を舞台にしたAAA CGI超自然格闘ショートフィルム
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-16 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/a480866311ee8faa564828c07283035ea6fe728ab7d676c468934bb5f75438a4.webp" width="840" loading="lazy" alt="地下鉄駅を舞台にしたAAA CGI超自然格闘ショートフィルム"></a>
-
-**プロンプト**
-
-```text
-登場人物、背景の群衆、駅の環境はすべて、デジタルスカルプトを施した明確なハイエンドAAAファンタジーゲームCGのルックで統一する。人物のクローズアップでは、作り込まれたゲームキャラクターの顔、明瞭な編み込みの束、スタイライズされたリアルな肌を必ず維持し、実写俳優、コスプレ、通常のゲームプレイ映像、2Dアニメーション、セルルックにはしない。現代の地下鉄駅での超自然格闘という舞台を維持し、中世の城、雪山、ボクシングリングには変更しない。色調は低彩度の寒色系ブルーグレー、深いチャコールブラック、青灰色の鱗、冷白色の照明ラインを基調とし、黄色の手すり、赤い信号灯、ブロンズ色のゴーグルフレーム、青錆色の肩アーマー、赤土色の腰帯を部分的なアクセントにする。目のハニーゴールドの発光と、柱を打撃した瞬間の短い紫色の閃光は該当する瞬間にのみ現れ、映像全体を紫色に染めない。環境：広く暗い地下鉄駅。中央には線路が沈み込んだ軌道エリア、レール、砂利があり、その両側には線路より高いホームがある。ホーム端にはガラスと金属の防護柵と黄色い縦フレーム、床には黄色い安全ライン、灰色のタイル、排水グレーチングがある。太い白い円柱が低い天井を支え、天井には冷白色の連続した長い照明ラインと円形照明が並ぶ。遠くには小さな赤い信号灯が奥へと続いている。ホームには、濃淡さまざまな普段着のコートを着た成人の乗客が数十人おり、柱のそばや柵の後ろに分散している。戦闘に驚くと後ずさり、身を縮め、腕を上げて身を守るが、常に背景の群衆として扱い、格闘には参加させない。主役に変化させず、同じ顔を複製しない。列車は進入させない。案内表示はぼやけた幾何学的な色面だけにし、読める文字は入れない。主戦闘者は2人で固定する。Aのゴーグル武者は、長身で細身かつ運動能力の高い成人男性。暖色系の濃い褐色の肌、はっきりした頬骨と顎を持ち、黒い短い編み込みを頭に沿わせ、後頭部で短い編み束にまとめている。額には細身のブロンズフレームのスモークグレー色バイザーゴーグルを固定し、普段は両目を覆うが、鼻筋の下と口元は見えている。グレーブルーのノースリーブ、クロスカラーのファイティングトップ、ダークブラウンの幅広ベルト、チャコールブラックのパンツ、ダークブラウンのローカットブーツを着用。両前腕にはグレーの布を巻き、手は指先まで露出させ、常に素手にする。マント、手持ち武器、読めるエンブレムは一切持たせない。表情は落ち着いており、動きは素早く断固としている。指定されたショットでのみ、右手でゴーグルの縁を一瞬持ち上げ、輝くハニーゴールドの片目を見せ、その後ゴーグルを目を覆う位置に戻す。これは額に固定された同一の実体あるゴーグル装備であり、布片に変化したり消失したりしない。Bの鱗脊獣は、Aよりも高く幅広い、筋肉質な二足歩行の人型異獣。深い青灰色の粗い鱗が、幅広く厚い胸、背中、四肢を覆い、腹部はより細かな灰青色の鱗で覆われている。幅広く平たいトカゲ状の頭部、短く鈍い吻、厚い顎、深い琥珀色の両目、短く太い歯を持つ。頭部に人間の髪、マスク、枝状の突起はない。B自身の左肩から左前腕にかけて、厚みのある青錆色の天然アーマープレートが生えており、左肩の上縁には短く鈍い骨のフィンが一列固定されている。右腕にはより明るい灰青色の粗い鱗を残し、左右を決して入れ替えない。骨フィンとアーマープレートは身体の一部であり、肩に花は付けない。ダークブラウンのゆったりしたワイドパンツ、赤土色の布製腰帯、垂れ下がる細い帯状の尾を2本着用し、足首にはダークブラウンの布を巻く。足は幅広く鱗で覆われ、壁を踏み止めるのに適した明瞭な足裏を維持する。尾、翼、余分な腕、長い角、剣、槍、盾、手持ちの小道具は一切ない。Bは通常の駅内に入れる大きさの大型異獣であり、Aや乗客とのスケール比を安定させ、ビルのような巨人に膨張させない。0.00～3.70秒：開始フレームからすでに交戦中。線路近くの低いカメラ位置から短く撮り、Bが素早く踏み込みながら接近する様子を見せる。続いてAの背後からのミディアムショットへカットし、Bが正面から突進して脚を上げ、腰を回し、頭部の高さを狙った回し蹴りを放つ。Aは膝を曲げて頭を低くし、上体を横に傾ける。蹴り脚は黒い短い編み込みの上をかすめ、Bは着地して振り返り、Aはすぐに起き上がる。明確なダッチアングルの線路低位置から、2人を捉えたワイドショットへカット。Aは膝を上げてハイサイドキックを繰り出し、Bは頭と肩を低くしてかわし、Aは脚を引いて軸足に戻る。カメラはAの肩越しの近距離追従ショットに戻る。Bは連続したスイングパンチを繰り出すが、Aは短い首の動き、肩を沈める動き、ターンで拳を顔の横にかすめさせる。Aはその場で同じパンチを繰り返して相手の攻撃を待たない。天井の照明ラインはカメラの振りに合わせて方向性のあるモーションブラーを作り、身体同士の位置関係は明瞭に保つ。3.70～6.40秒：Bの明るい灰青色の右拳が再びAの目の前まで伸びる。Aは手のひらを開いてその手首と前腕を受け止め、接触位置を明確に見せる。カメラはAの落ち着いた横顔に寄り、そのままAの足さばき、腰の回転、肩の回転を追って素早く低い全身アングルへ回り込む。Aは同じ右腕をつかんだまま、Bを軸足から引き離して身体の側方上空へ振り上げる。Bの両足は地面から離れ、赤土色の腰帯とワイドパンツは慣性で遅れてなびく。振り上げの最高点ではごく短いultra slow motionにし、すぐに高速へ戻す。Aは回転を終えて手を放し、Bは元の弧をたどって頭から脚を上にした状態で落下し、肩と背中が線路の地面に接触する。接触点から砂利と埃が跳ねる。低いカメラは落下を追い、短く揺れる。Bは勢いに乗って転がり、上体を起こす。四肢は完全なままにし、腕が切断されたり、接触なしの念動力で投げられたり、空中から突然立ち上がったりしない。6.40～9.20秒：Bが低い姿勢から立て直している間に、Aはすでに地面を蹴って跳び込んでいる。カメラはBの背後から見上げ、空中でAが腰を回して脚を伸ばす姿を捉える。跳躍の最高点は一瞬だけスローモーションにし、下降時に横向きの飛び蹴りでBの頭と肩を押し込む。Bは両腕を上げて受け止め、押されて向きを崩す。Aは着地するとすぐ追撃し、着地したまま立って待たない。カメラはAの下降と側面への回り込みに合わせて素早く寄り、やや傾いた肩越しと顔の交互のクローズアップを作る。AはBの振り返しの腕をかわし、短いパンチを胴体に打ち込み、続けて開いた手のひらで顔の側面に触れてBの頭を押し向ける。接触後にのみ頭と首が力の方向へ回転する。手のひら、顔、前腕を融合させない。Bの左肩の骨フィンは、同じ側の肩アーマーと胴体と一緒に回転する。9.20～11.20秒：Aは顔の側面を押した後の空間を使って回転し、脚を引き、すぐに強いサイドキックを前方へ突き出す。靴底がBの腹部から下胸部に接触する。Bはまず胴体を折り、続いて両足が地面から離れ、斜め上方へホームに向かって吹き飛ぶ。カメラはBがホーム端をかすめて飛ぶ様子を追い、Bの上背部と肩が白い円柱に激突する。柱の表面は接触点から外側へひび割れ、淡色の破片と粉塵が落ちる。Bは柱の表面に沿ってホームの床へ落下する。Aは脚を引いた後、軌道エリアから同じホームへ跳び上がって追いかける。カット後も、その柱のそばに連続した位置で現れ、別の駅へ瞬間移動しない。乗客は左右へ避ける。柱は損傷するが、全体として倒壊はしない。11.20～12.80秒：衝突後のBの顔のクローズアップへカット。Bは頭を上げ、顔を回してAを探す。左肩の青錆色アーマープレートと短い骨フィンは残っている。すぐに同じ柱の両側を使った近距離構図へ切り替え、Bを右前景、Aを柱の左後景に置く。Aはわずかに冷笑するが、話さない。Aは右手でブロンズフレームのゴーグルの縁を持ち上げ、輝くハニーゴールドの片目を見せてBをまっすぐ見つめる。ごく短く止まり、右手でゴーグルを下ろして再び両目を覆う。同時に身体は回避の準備に入り、元の台詞にあるような長い間や発話の口の動きは入れない。12.80～13.80秒：Bが肩を回して明るい灰青色の右拳をAのいる位置へ振り抜く。拳が届く前にAは素早く横へ移動し、柱の後ろを回り込む。拳が実体のある白い柱に当たった瞬間、凝縮した紫色のエネルギーの閃光が弾け、ひびが伸び、破片が下へ落ちる。短い紫色の光はすぐに消える。クローズアップではまず拳面が柱の表面へめり込む様子を見せ、続いて素早く引いて、Bが空振りし、Aがすでに側方へ回り込んでいることを明らかにする。柱は先ほど損傷した同じ柱であり、Aを紫色の煙に変えたり、拳を身体に貫通させたりしない。13.80～16.00秒：低い位置からの傾いたワイドショット。Aは柱の手前側で身体を低くし、手を上げて短い挑発のジェスチャーをする。Bが振り返って突進する。Aは地面を蹴って連続した後方宙返りを1回行う。まず身体を反らし、両足を頭上へ通し、腹を引き締めて倒立状態を回り抜け、Bの横薙ぎの腕をかわす。カメラは身体とともに上向きへ傾き、倒立状態で一瞬スローモーションにする。背景の照明ラインが傾きながら横切る。Aは同じ回転を続け、両足を身体の下へ戻し、Bの側方後ろにあるホームの空いた場所へ着地する。膝を曲げて着地の衝撃を吸収し、裾と後頭部の短い編み込みが慣性で遅れて戻る。背景の乗客は恐怖で避けるが、追加の攻撃者として扱わない。Aが吹き飛ばされたり、空中で何度も宙返りして尺を引き延ばしたりしない。16.00～18.50秒：Aが立ち上がった直後、Bが振り返って追いつき、Aの頭部側面へ幅広いスイングを放つ。Aはまず上体を反らし、続いて潜り込み、Bの明るい灰青色の右腕を頭上に通過させる。そのまま両手で前腕を制御し、相手の身体の前側へ踏み込み、背を向けて重心を下げる。AはBの腕を自分の肩越しに運び、Bが前へ進み続ける運動量を利用して、1回の肩越し投げを決める。Bの腰が支点を越えて回転し、両足が地面から離れ、背中側からホームのタイル床へ落下する。砕けたタイルと粉塵が床に沿って広がる。カメラは肩に密着したクローズアップから低い位置のミディアムワイドへ引き、回転と着地を完全に見せる。Aは立ったまま手を放し、Bを落下させる。Bはすぐに寝返って身体を支え、脚を曲げて立ち上がる。AはBへ向き直って圧力をかけ続け、起き上がりから追撃までをつなげる。立ったまま台詞を話す長い間は残さない。18.50～20.65秒：Bが近接距離へ突進して戻る。Aは先に短いストレートを顔の側面へ打ち、引いた手で胸前を守り、続いて身体を低くして腹部と肋骨を狙う。Bはその一撃を腕で防ぎ、太い腕を横薙ぎに振って反撃する。Aは胸と肩の内側へ密着して頭を低くし、攻撃をかわす。引き戻される拳を前腕で払い、続けて顎と上胸部にコンパクトな短打を接触させる。カメラは2人の肩越しを高速で小さく回り、頭部と身体は実際に接触してから跳ね返る。空振りを交互に繰り返したり、互いに反応しなかったり、両拳を接触したままにしたりせず、連続した攻撃、防御、払い、反撃として描く。20.65～21.85秒：真上からの俯瞰へ直接カット。2人が同じ小さな床タイルの範囲を囲んで動いていることを明確に見せる。Aの黒い短い編み込みとブロンズフレームのゴーグル、Bの左肩の青錆色アーマープレートと赤土色の腰帯を固定した識別ポイントにする。Bの大きく振った腕がAの横を通過し、Aは肩を縮めて腕の内側へ潜り込む。左右の足を順に入れ替え、一方の手で相手の前腕を払い、もう一方の拳を胸と腹へ打ち込む。その後手を引き、Bの体の回転に合わせて位置を調整する。床の落ちたタイルと排水グレーチングは元の位置を維持する。俯瞰で近接戦の攻防の軌道を見せ、身代わりや3人目の格闘者は追加しない。21.85～24.00秒：Bの肩越しの極端に近いショットへ戻る。Aは短くコンパクトな上段・下段の連続パンチを続け、上方から回り込んでくるBの腕を首の動きでかわす。布を巻いた前腕と灰青色の粗い鱗に覆われた腕が交差するが、境界は明確にする。カメラはAの拳の急速な突きを追い、2か所の強い接触点に数フレームだけ黒白の高コントラスト露光フラッシュと立体的な衝撃の輪郭を加える。すぐに元の寒色系ブルーグレーのAAA CGIへ戻し、漫画、文字、2Dイラストには切り替えない。最後のストレートはBの腹部に明確にめり込み、腹部が内側へ圧縮され、上体が折れ、Bが上方から振り下ろしていた腕は胴体の前進方向を失う。Aは足裏を安定させ、脚、腰、肩から拳へ力を伝える。拳を身体に貫通させない。24.00～28.00秒：同じ腹部への強打の結果へ直結する。Bの両足が地面から離れ、後方へ吹き飛ぶ。カメラはホーム端の低い位置に密着し、駅の長軸に沿って高速で追跡する。白い柱、黄色いフレーム、ガラスの柵、驚く群衆の脇を次々に通過する。背景の線は速度で長く伸びるが、Bの青灰色の鱗の身体、ダークブラウンのパンツ、赤土色の腰帯、左肩の青錆色アーマープレートは常に識別できる。長軸方向のワイドショット、柱が前景をかすめる高速カット、下から見上げるクローズアップを使い、Bが慣性で回転し、腕を伸ばしてバランスを取り戻そうとする様子を見せる。巻き上がった破片は同じ飛行方向に沿って軌道上を横切る。続いてBはホーム端のガラスと金属の防護柵の一部を突き破る。身体が接触した後にガラスが砕け、金属フレームが曲がる。Bは開いた破口を越えて軌道エリアへ入り、線路側壁方向のワイドショットへカットする。これは先ほどの腹部への強打によって生じた連続した飛行であり、画面外からの蹴り、2度目の発射、乗客を吹き飛ばす攻撃は追加しない。Aをすべての柱の後ろに複製しない。28.00～30.00秒：固定した横位置のミディアムワイドショット。画面左に濃い灰色の垂直な線路壁、右後方に向かい合うホームと柵の後ろの乗客を置き、長い照明ラインは駅の奥を指す。Bは空中で足先を壁へ向けるように回転し、両足の足裏を垂直な壁面へ明確に接触させる。膝を曲げて腹を引き、コンパクトに身体を縮める。足元から少量の壁灰が擦れ落ちる。その後、ultra slow motionでゆっくり膝を伸ばし、胴体を外側へ開き、身体を徐々に水平へ近づける。足裏は壁面を押さえ続け、赤土色の腰帯、ワイドパンツ、小さな破片が動き続け、接触、圧縮、力を蓄える一連の過程を表現する。背中から壁にぶつかったり、宙に固定されたり、横倒しになった地面に立ったりしない。30.00秒で、Bが両足で壁を押さえたまま身体を外側へ展開している動きのある画で終了する。壁を蹴って反撃を完了させたり、着地したり、死亡したり、勝敗を決着させたりしない。黒画面、フェードアウト、エンドカードは入れない。テンポと連続性：高速の追撃、近距離の回避、投げ技、宙返り、飛び蹴り、柱への打撃、俯瞰での短打、ホームをまたぐ位置移動の順序を維持し、観察時間と元の台詞の間を短縮する。スローモーションは、振り上げの最高点、空中での回避、最後に壁を押さえる段階にのみ部分的に使用し、最後は明確にultra slow motionにする。通常の攻防は高速かつ滑らかにし、全編をスローモーションにしたり、停止画で尺を補ったりしない。Aの黒い短い編み込み、濃い褐色の肌、ブロンズフレームのゴーグル、グレーブルーのノースリーブトップ、布を巻いた前腕を維持する。目を見せる動作の前後でゴーグルの状態を明確にする。Bの左側の青錆色アーマープレートと短い骨フィン、右側の灰青色の粗い鱗の腕、幅広いトカゲ状の頭部、ダークブラウンのパンツ、赤土色の腰帯を維持する。骨フィンは落下させず、左右を入れ替えず、武器に変化させない。倒された側はまず地面に接触してから身体を支え直す。自発的な跳躍はまず地面を蹴り、攻撃を受けて飛ぶ動きには先に接触を入れ、壁で制動する動きはまず足裏を接触させてから膝を曲げる。すべての動きに重量、慣性、方向性を持たせる。背景の群衆は自然な回避動作をそれぞれ続け、主戦闘者との空間を明確に保つ。融合させたり、拳や蹴りの軌道へ突然入り込ませたりしない。損傷した柱の表面、落ちたタイル、破損した防護柵は、その後のショットでも破壊状態を維持する。追加の武器、複数の手足、流血、四肢切断は一切なし。BGMは厳禁。映像のどの時点でも、背景音楽、映画音楽、音楽トラック、旋律、リズミカルな打楽器、合唱、歌、音楽的な持続音、音程を持つ環境音の下敷きを生成しない。許可するのは、映像と同期し、物理的に場面に属する画面内音声（diegetic audio）のみ：地下駅の換気音と空間の残響、足音と足を擦る音、衣服と赤土色の腰帯がなびく音、拳や蹴りが空気を切る音、実際の接触による鈍い打撃音、非言語の呼吸と短い苦痛のうめき、砂利が転がる音、コンクリートがひび割れる音、ガラスが砕ける音、金属製の柵フレームが曲がる音、乗客が後退する足音、短い紫色の光の接触に伴う非旋律的な電気の亀裂音、最後に足裏が壁を擦る音と壁灰が落ちる音。台詞、ナレーション、意味のある叫び声、歌、字幕はなし。音楽のない空白を、パルス音、オーケストラの重低音、旋律的な効果音、リズミカルな効果音で埋めない。連続パンチ、足音、割れたガラスの音をドラムビートのように編成せず、換気音を音楽的な持続音へ引き延ばさない。背景音楽や劇伴が少しでも現れた場合は不合格とする。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; タイトル、読める駅名、logo、interface、プレーヤーコントロール、watermarkは入れない。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-全部角色、背景群众与车站环境统一使用明显经过数字雕刻的高级AAA奇幻游戏CG外观，人物近景必须保持精修游戏角色脸、清楚的编辫发束与风格化写实皮肤，不变成真人演员、cosplay、普通gameplay、2D动画或赛璐璐。保留现代地下车站中的超自然格斗场景，不改成中世纪城堡、雪山或拳击擂台。色彩为低饱和冷青灰、深炭黑、青灰鳞皮与冷白灯带，少量黄色护栏、红色信号灯、青铜护目框、铜锈绿肩甲和赭红腰带形成局部色彩；眼睛的蜂蜜金光与击柱时的短紫光只出现在对应瞬间，不全片染成紫色。环境：宽阔而昏暗的地下铁路站，中央下沉轨道区、钢轨与碎石，两侧高出轨道的站台；站台边缘是玻璃金属屏蔽栏与黄色竖向边框，地面有黄色安全带、灰色砖面、排水格栅，粗大白色圆柱支撑低天花板，顶部连续冷白长灯带与圆形灯、远处小红信号灯延伸至深处。站台有数十名穿普通深浅外套的成年乘客，分散在柱旁或栏后，受战斗惊动后退、缩身和抬臂保护，始终为背景群众，不参与格斗、不变成主角、不复制相同面孔。没有列车驶入，标牌只保留模糊几何色块，无可读文字。两名主战者固定：A护目武者为高挑精瘦运动体型成年男性，暖深棕肤色、清楚的颧骨与下颌，黑色贴头短辫在脑后束成短辫结；前额固定一副窄青铜框烟灰色可掀护目罩，平时遮住双眼，鼻梁下方与嘴部露出。穿灰蓝色无袖交叠领战斗上衣、深褐束腰带、炭黑长裤和深棕低帮靴；双前臂缠灰色布带，双手手指外露，始终空手，无披风、手持武器或可读徽章。表情从容，动作敏捷而果断；仅在指定镜头用右手短暂抬起护目罩边缘，露出一只明亮蜂蜜金色眼睛，随后护目罩放回遮眼位置；这是同一件固定在前额的实体护目装备，不变成布条，不消失。B鳞脊斗兽为比A更高、更宽厚的肌肉型双足人形异兽，深青灰色粗鳞覆盖宽厚胸背与四肢，腹部为较细密的灰青鳞片；宽扁的蜥蜴状头部、短钝吻、厚颌、两只深琥珀眼睛和短粗牙齿，头部没有人类头发、面具或树枝状突起。B自身左肩至左前臂生长厚实的铜锈绿色天然甲片，左肩上缘固定一排短而钝的骨鳍；右臂保留较浅灰青色粗鳞，左右绝不互换，骨鳍与甲片属于身体，肩上没有花朵。穿暗棕色宽松阔腿战裤、赭红色织物腰带与两条垂下的窄带尾，脚踝缠深褐布，脚掌宽大有鳞，保持适合抵墙的清楚脚底；没有尾巴、翅膀、额外手臂、长角、剑、枪、盾牌或手持道具。B是能进入正常车站的高大异兽，保持与A及乘客的稳定比例，不膨胀成高楼巨人。0.00–3.70秒：第一帧便进入交锋。贴近轨道的低机位短镜头看见B快速踏步逼近，随即切A背后中景，B从前方冲来，抬腿转髋，横扫一记头部高度的旋踢；A屈膝低头并侧倾上身，踢腿从黑色短辫上方掠过，B落脚转回，A随即起身。切明显Dutch angle的轨道低位双人宽景，A提膝接一记高位横踢，B降低头肩避过，A收腿落回支撑脚。镜头回到A肩后近距离跟拍，B追上一组连续摆臂拳击，A以短距离偏头、沉肩和转身让拳从脸旁擦过，不原地反复摆拳等对方出招；天花板灯带随镜头甩动形成方向性拖影，身体关系保持清楚。3.70–6.40秒：B的浅灰青色右拳再次伸到A面前，A张掌截住其手腕与前臂，接触位置可见；摄影机贴近A从容的侧脸，然后随他转脚、旋髋和转肩迅速绕至低位全身视角。A保持抓住同一条右臂，将B拉离支撑、沿身体侧上方甩起，B双脚离地，赭红腰带和宽裤随惯性滞后。甩起最高处只有极短ultra slow motion，随即恢复高速；A完成转体后松手，B沿原弧线头下脚上翻落，肩背接触轨道地面，碎石与灰尘从接触处迸出。低机位摄影机追随翻落并短促震动，B顺势滚动、撑起上身，保持四肢完整；不是断臂、无接触念力投掷或凭空重新站起。6.40–9.20秒：B仍在低位恢复，A已经蹬地跃近，镜头从B身后仰拍A在半空转髋展腿，跳跃最高点短暂放慢，然后下落时以横向飞踢压向B头肩；B抬起双臂迎挡并被压得偏转，A落脚后立刻跟进，不落地站着等待。摄影机随A下落和绕侧迅速拉近，形成略倾斜的肩上与面部交替近景；A闪过B回扫的手臂，用短拳击向躯干，再以一记张掌接触脸侧把B的头推偏，接触后头颈才顺方向转动。手掌、脸与前臂不能融合，B左肩骨鳍随同一侧肩甲和躯干转动。9.20–11.20秒：A借脸侧推压后的空间转体收腿，随即向前送出有力侧踹，鞋底接触B腹部至下胸；B躯干先折起、双脚随后离地，沿侧上方飞向站台。镜头跟着他掠过站台边缘，B上背和肩撞上白色圆柱，柱面由接触点向外开裂，浅色碎片和粉尘落下，B沿柱面回落到站台地面。A收腿后从轨道区跃上同一站台追近，切镜后出现在该柱旁的连续位置，不瞬移到另一个车站；乘客向两侧躲开，柱子受损但不整体倒塌。11.20–12.80秒：切B受撞后的脸部近景，它抬头、转脸寻找A，左肩铜锈绿甲片与短骨鳍仍在；迅速转为同柱两侧的近景构图，B占右前景，A在柱旁左后景，轻微冷笑但不说话。A用右手抬起青铜框护目罩边缘，露出一只明亮蜂蜜金色眼睛，直视B，停留很短；他用右手放下护目罩使其重新遮住双眼，身体同时准备避让，不留下原本对白的停顿或说话口型。12.80–13.80秒：B转肩挥出浅灰青色右拳打向A所在位置，A在拳头到达前迅速侧移绕出柱后；拳头击中实体白柱，接触瞬间爆出紧凑紫色能量闪光，裂缝延伸，碎屑向下掉，短紫光立刻消散。近景先看拳面压入柱面，再快速拉宽显露B打空而A已经绕到侧方，柱子仍是先前那根受损柱，不把A变成紫色烟雾，也不让拳穿过人体。13.80–16.00秒：低位倾斜宽景，A在柱子侧前方压低身体、抬手作一个短促招引手势，B转身扑来。A蹬地腾空完成一次连续后空翻，先仰身、双脚向上越过头顶，再收腹转过倒置阶段，躲过B横扫的手臂；镜头随身体向上倾转，在倒置阶段短暂放慢，灯带沿背景倾斜掠过。A继续同一次翻转，双脚回到身体下方，落在B侧后的站台空地，屈膝吸收落地力量，衣角与脑后短辫随惯性回落；背景乘客惊惧闪避，不被当成额外攻击者，A没有被打飞，也不在半空反复翻跟头拖时。16.00–18.50秒：A刚站起，B便转身追上，一记宽幅摆臂打向A头侧；A先后仰再下潜，让B的浅灰青色右臂从头顶横过，双手顺势控制那条前臂，踏入对方身体前侧并转背降低重心。A把B的手臂带过自己肩上，利用B仍向前的动量完成一次过肩摔；B的髋部翻过支点，双脚离地，背侧落在站台砖面，碎砖和粉尘沿地面散开。镜头从贴肩近景退到低位中广景，完整交代翻转与落地，A保持站立，松手让B落下。B立即翻身支撑并屈腿起身，A转向它继续施压，把起身与追近接起来，不保留站着说台词的长停顿。18.50–20.65秒：B冲回贴身距离，A抢先用短直拳击向脸侧，回手护住胸前，随后压低身体打向腹肋；B抬臂挡住其中一击并以粗重手臂横扫反击，A贴近其胸肩内侧低头避开，抬前臂拨开回收的拳，再以紧凑短拳接触下颌与上胸。镜头绕两人肩侧高速小幅移动，头部与身体在实际接触后才出现回弹；以一组连续进攻、挡拨和回击完成这一段，不拍成轮流挥空拳、互不反应或双拳持续贴在一起。20.65–21.85秒：直接切正上方俯拍，清楚看见两人围绕同一小片地砖转动，A的黑色短辫与青铜护目框、B左肩铜锈绿甲片与赭红腰带是固定辨识点；B宽幅手臂从A身侧扫过，A缩肩钻入手臂内侧，左右脚依次换位，一手拨开对方前臂，另一只拳打入胸腹，再收手随B的转体调整位置。地面的落砖与排水格栅保持原位，俯拍展示近身攻防路线，不增加一个替身或第三名格斗者。21.85–24.00秒：切回越过B肩部的紧近景，A继续一组短促上、下段交替拳击并侧头闪开B从上方绕来的手臂，缠布前臂与灰青粗鳞拳臂交错但边界清楚。镜头追随A的拳头急推，在两处强接触点加入仅数帧的黑白高反差曝光闪变与立体冲击轮廓，立即回到原来的冷青灰AAA CGI，不切成漫画、文字或2D插画。最后一记直拳明确压中B腹部，腹部向内压缩、上身折起，B上方挥来的手臂随躯干失去前进方向；A脚底稳住，力量由腿、髋、肩传到拳面，拳头不穿透身体。24.00–28.00秒：紧接同一记腹部重击的后果，B双脚离地向后飞出，镜头低贴站台边缘沿车站长轴高速追踪，连续掠过白柱、黄色边框、玻璃栏板和惊愕的人群；背景线条因速度拖长，B的青灰鳞躯、暗棕裤、赭红腰带与左肩铜锈绿甲片始终能辨认。通过长轴宽景、柱子擦过前景的快速切镜和从下方仰看的近景，展示B在惯性中翻转、伸臂试图恢复平衡，带起的碎片沿同一飞行方向掠过轨道。B随后撞破站台边缘一段玻璃金属屏蔽栏，玻璃在身体接触后碎开、金属框弯折，他越过破口继续进入轨道区，切至轨道侧壁方向的宽景；这仍是上一记腹部重击引起的连续飞行，不新增画外踢击、第二次发射或击飞乘客，A不会复制到每根柱子后方。28.00–30.00秒：固定侧向中广景，深灰垂直轨道墙在画面左侧，对面站台和栏后乘客在右后方，长灯带指向车站深处。B在空中转到脚先朝墙，双脚脚掌明确接触垂直墙面，屈膝收腹形成紧凑蜷曲，脚下擦出少量墙灰，随后在ultra slow motion中缓缓伸膝、躯干向外转开，身体逐渐接近水平；脚掌仍抵住墙面，赭红腰带、宽裤与小碎片持续运动，体现接触、压缩和蓄力的连续过程，不是背部撞墙、悬空冻结或站在横倒的地面。30.00秒结束在B仍以双脚抵墙、身体向外展开的活画面，不添加完整蹬墙反扑、落地、死亡或胜负结局，无黑屏、无淡出、无片尾卡。节奏与连续性：保留快速追击、贴身闪避、投摔、空翻、飞踢、击柱、俯拍短打和跨站台位移的动作顺序，缩短观察与原对白停顿；只有甩起最高处、空中闪避和最终抵墙阶段使用局部慢动作，最终明确ultra slow motion，正常攻防必须高速流畅，不全局慢放，不用定格补足时长。A的黑色短辫、深棕肤色、青铜框护目罩、灰蓝无袖上衣与缠布前臂保持，露眼动作前后护目罩状态明确；B的左侧铜锈绿甲片与短骨鳍、右侧灰青粗鳞臂、蜥蜴状宽头、暗棕裤与赭红带保持，骨鳍不掉落、不换边、不变武器。被击倒者先接触地面再恢复支撑，主动跳跃先蹬地，受击飞行先有接触，墙面制动先脚掌接触再屈膝，所有运动保留重量、惯性与方向。背景群众持续作不同的自然避让动作，和主战者保持清楚空间，不融合、不突然穿进拳脚路径；受损柱面、落砖和破碎栏板在后续镜头保持破坏状态。无额外兵器、无多肢、无喷血、无肢解。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：地下站内通风与空间回响、鞋底踩踏和擦地、衣料与赭红腰带甩动、拳脚破风、实际接触的闷击、非语言呼吸和短促痛哼、碎石翻滚、混凝土开裂、玻璃碎裂、金属栏框弯折、乘客后退脚步、短暂紫光接触的非旋律电裂声，以及最后脚掌抵墙摩擦和墙灰落下。无对白、无旁白、无可懂喊词、无歌曲、无字幕；不得用脉冲声、管弦乐重击、旋律化音效设计或节奏性音效填补没有音乐的空缺，不把连拳、脚步或碎玻璃声编排成鼓点，不把通风声延伸成音乐性持续音。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 无标题、可读站名、logo、interface、播放器控件或watermark。
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100233407108137349) · [元の投稿](https://x.com/MadMax_Series/status/2100233407108137349) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100222426705453318"></a>
-
-### タイルを選べるインタラクティブなアパート内覧
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-16 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0c6d0d55a3e8911c68a86b2e83152c98ca4d199a428c8b29f9ad12657dd497b3.webp" width="840" loading="lazy" alt="タイルを選べるインタラクティブなアパート内覧"></a>
-
-**プロンプト**
-
-```text
-Blenderで完全にリアルなHD品質の3Dレンダリングモデルを作成し、その後、アパート内を歩き回ってタイルの選択肢を選べるインタラクティブなWeb体験を構築してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-I want you to build a completely realistic HD 3D render model in blender, then build interactive web experience so I can walk within the apartment, and choose tile options.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100222426705453318) · [元の投稿](https://x.com/scheemunai/status/2100222426705453318) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100193512373592313"></a>
-
-### PC版スプラトゥーンの開発とグラフィック再現
-
-[basio](https://x.com/basio39) · 2026-09-16 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014.webp" width="840" loading="lazy" alt="PC版スプラトゥーンの開発とグラフィック再現"></a>
-
-**プロンプト**
-
-```text
-/goal PC版スプラトゥーンを開発してください。グラフィックは完全に再現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100193512373592313) · [元の投稿](https://x.com/basio39/status/2100194321987461503) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### 可動家具を備えたインタラクティブな3Dルームシーン
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="可動家具を備えたインタラクティブな3Dルームシーン"></a>
-
-**参照画像:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**プロンプト**
-
-```text
-提供した部屋の写真をもとに、Blender MCPを使ってインタラクティブな3Dシーンを構築し、デモ動画としてレンダリングしてください。ヒンジやドア、引き出しなどの可動部の動きを取り入れ、その動きが分かるように適切なカメラワークを使用してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100139076816916977) · [元の投稿](https://x.com/walterzhu8/status/2100139076816916977) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### 参考画像から動かせる3D空間とゲームキャラクターを制作
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="参考画像から動かせる3D空間とゲームキャラクターを制作"></a>
-
-**参照画像:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**プロンプト**
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099850719839109597) · [元の投稿](https://x.com/aiehon_aya/status/2099850721646784894) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### 到達可能なプロシージャル宇宙探索ゲーム
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="到達可能なプロシージャル宇宙探索ゲーム"></a>
-
-**プロンプト**
-
-```text
-見えているものはすべて到達可能にしてください。距離は現実のスケールを維持し、スケールと速度によって移動を実用的にします。宇宙から惑星の大気圏へ入り、地表まで飛行できるようにしてください。惑星は地球サイズまで対応できるよう、プロシージャル地形とチャンク分割レンダラーが必要です。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099785223827259515) · [元の投稿](https://developers.openai.com/blog/how-to-build-games-with-astra) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### Apple風の3Dハートと笑顔の絵文字
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Apple風の3Dハートと笑顔の絵文字"></a>
-
-**プロンプト**
-
-```text
-Apple風の3Dハート絵文字と笑顔の絵文字
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099750376530657300) · [元の投稿](https://x.com/Just_sharon7/status/2099751278234767673) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### インタラクティブな3D生物の神経系パネル
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="インタラクティブな3D生物の神経系パネル"></a>
-
-**プロンプト**
-
-```text
-インタラクティブパネル。左側に[organism]の神経系を模式的に表示し、各領域をクリック可能にする。右側にプロシージャルにリギングされた3Dの[organism]を配置。領域をクリックすると、2.5秒間の運動反応を発生させる。ダークなUIにし、速度と進行方向のテレメトリを表示する。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099719427990134984) · [元の投稿](https://x.com/AIMind_Ai/status/2099719427990134984) · [作例一覧に戻る](#all-prompts)
 
 ---
 

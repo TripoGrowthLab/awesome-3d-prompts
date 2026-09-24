@@ -28,6 +28,18 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [La base Arcadia en Marte](#arcadia-base-on-mars-2095595678214873212)
+- [Tres juegos de karts temáticos a partir de un prototipo básico](#three-themed-kart-games-from-one-greybox-2095580402505400369)
+- [Un estudio de cascada procedural](#procedural-waterfall-study-2095510069047660636)
+- [Aerie, una isla de vóxeles llena de vida](#aerie-a-living-voxel-island-2095493630421340200)
+- [Una figura de acción articulada para imprimir](#articulated-printable-action-figure-2095481098201387287)
+- [Un agujero negro cinematográfico en WebGL](#cinematic-webgl-black-hole-2095409039005933910)
+- [Vista explosionada de un rack de servidores de IA](#exploding-ai-server-rack-visualization-2095193022304792938)
+- [Un juego de exploración y comercio espacial](#space-exploration-and-trading-game-2095191999255035993)
+- [Un prototipo multijugador de mundo abierto al estilo GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [Un juego de vaqueros con estética de cómic en Three.js](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [Un humano contra una inteligencia artificial general no alineada](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Una prueba física con bola de demolición en Blender](#blender-wrecking-ball-physics-test-2095177102400081940)
 - [Un dron interceptor para una facción corporativa](#corporate-interceptor-drone-asset-2095176360238915978)
 - [Un mundo 3D de estética Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
 - [Una web renacentista cinematográfica en diez escenas](#ten-scene-cinematic-renaissance-website-2095167881004908897)
@@ -66,20 +78,248 @@
 - [Una pagoda determinista de 136.000 vóxeles](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Un robot detallado mediante automatización en Blender](#detailed-robot-through-blender-automation-2094909825561805003)
 - [Un prototipo de acción criminal en mundo abierto](#open-world-crime-game-prototype-2094907986942591338)
-- [Un juego de navegador al estilo Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
-- [Un océano lluvioso de exploración libre en primera persona](#rainy-first-person-ocean-sandbox-2094900247000654222)
-- [Una isla flotante de vóxeles](#floating-voxel-island-2094899802588713418)
-- [Un reino medieval de vóxeles lleno de vida](#living-voxel-medieval-kingdom-2094899477626720403)
-- [Un flujo de producción de recursos 3D texturizados](#textured-3d-asset-production-workflow-2094896750234378508)
-- [Tres conceptos compactos de juegos de física](#three-compact-physics-game-concepts-2094895071304839400)
-- [Un juego de karts de calidad AAA en Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [Un aeropuerto simulado en Three.js con una sola instrucción](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [Una ciudad japonesa flotante con pagoda](#floating-japanese-pagoda-city-2094886088963690607)
-- [Un Airbus H145 en Three.js](#airbus-h145-in-three-js-2094882571083735351)
-- [Un simulador de la Primera Guerra Mundial en vóxeles](#world-war-i-voxel-simulator-2094881469155914170)
-- [Una mansión futurista en una isla privada](#futuristic-private-island-mansion-2094879208304685524)
 
 </details>
+<a id="arcadia-base-on-mars-2095595678214873212"></a>
+
+### La base Arcadia en Marte
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="La base Arcadia en Marte"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye una colonia marciana de vóxeles jugable, con naves que aterricen, robots de construcción, vehículos exploradores, almacenamiento de energía y sistemas de oxígeno y agua. Haz que las tormentas de polvo y los apagones afecten a la colonia.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [Publicación original](https://x.com/knowixbuilds/status/2095595678214873212) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
+
+### Tres juegos de karts temáticos a partir de un prototipo básico
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="Tres juegos de karts temáticos a partir de un prototipo básico"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+A partir del prototipo de carreras de karts de Unity proporcionado, crea tres variantes jugables: pirata, golosinas y ciberpunk. Reutiliza la conducción principal, cambia los entornos y las respuestas audiovisuales, prueba cada versión y corrige los fallos más visibles.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Publicación original](https://x.com/chetaslua/status/2095580402505400369) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="procedural-waterfall-study-2095510069047660636"></a>
+
+### Un estudio de cascada procedural
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="Un estudio de cascada procedural"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una cascada en Three.js con agua que fluya, salpicaduras, rocas y una sensación clara de escala. Usa la iluminación y el encuadre para que se aprecie el movimiento del agua.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-waterfall-study-2095510069047660636) · [Publicación original](https://x.com/RealFedeURU/status/2095510069047660636) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
+
+### Aerie, una isla de vóxeles llena de vida
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie, una isla de vóxeles llena de vida"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un mundo 3D de vóxeles explorable con cámara orbital y zoom. Incluye movimiento autónomo para darle vida; elige la ambientación y sus habitantes.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [Publicación original](https://x.com/free_ai_guides/status/2095493630421340200) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="articulated-printable-action-figure-2095481098201387287"></a>
+
+### Una figura de acción articulada para imprimir
+
+[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="Una figura de acción articulada para imprimir"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Convierte un concepto de personaje en una figura de acción imprimible. Construye articulaciones de rótula en Blender y comprueba que la figura montada pueda mantenerse en pie.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [Publicación original](https://x.com/_MaxBlade/status/2095481098201387287) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
+
+### Un agujero negro cinematográfico en WebGL
+
+[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="Un agujero negro cinematográfico en WebGL"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un agujero negro cinematográfico en un único archivo HTML con WebGL2 puro. Incluye lente gravitacional mediante ray marching, disco de acreción procedural, intensificación Doppler y partículas en órbita.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [Publicación original](https://x.com/ekibuilds/status/2095409039005933910) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
+
+### Vista explosionada de un rack de servidores de IA
+
+[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="Vista explosionada de un rack de servidores de IA"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye en Three.js una visualización explosionada de un rack NVL72 y un sistema GB300, con componentes etiquetados, separación por etapas, iluminación técnica y transiciones suaves de cámara.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Publicación original](https://x.com/kylejeong/status/2095193022304792938) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### Un juego de exploración y comercio espacial
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Un juego de exploración y comercio espacial"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un juego de exploración y comercio espacial con naves pilotables, sistemas estelares, estaciones, mercancías, contratos, mejoras, riesgo y un ciclo de viajes satisfactorio.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Publicación original](https://x.com/RealFedeURU/status/2095191999255035993) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### Un prototipo multijugador de mundo abierto al estilo GTA
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="Un prototipo multijugador de mundo abierto al estilo GTA"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un primer prototipo multijugador de mundo abierto al estilo GTA ambientado en Nueva York, con conducción, desplazamiento a pie, tráfico urbano, misiones y un ciclo convincente de mundo vivo.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Publicación original](https://x.com/mattshumer_/status/2095187868746383758) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### Un juego de vaqueros con estética de cómic en Three.js
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Un juego de vaqueros con estética de cómic en Three.js"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un juego de vaqueros de ensueño en Three.js que combine la energía arcade de Sunset Riders con renderizado de cómic, disparos ágiles, acción a caballo y escenas memorables.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Publicación original](https://x.com/Smallzero/status/2095180091257209148) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### Un humano contra una inteligencia artificial general no alineada
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Un humano contra una inteligencia artificial general no alineada"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea de una sola vez un juego en Three.js donde un humano se enfrente a una inteligencia artificial general no alineada y a sus robots, con un ciclo de combate claro, oleadas cada vez más intensas y un objetivo final.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Publicación original](https://x.com/lucasybai/status/2095180071221002441) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Una prueba física con bola de demolición en Blender
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Una prueba física con bola de demolición en Blender"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una prueba de física en Blender centrada en una bola de demolición suspendida que golpea una torre de ladrillos. El cable, la rotura de la mampostería y las colisiones con el suelo deben resultar creíbles, y la cámara debe mostrar claramente la acción.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Publicación original](https://x.com/abyssallD/status/2095177102400081940) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
 
 ### Un dron interceptor para una facción corporativa
@@ -851,248 +1091,6 @@ Crea un prototipo de mundo abierto inspirado en GTA 6, con una ciudad densa, des
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Publicación original](https://x.com/vikktorrrre/status/2094907986942591338) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="mini-militia-style-browser-game-2094900523900219725"></a>
-
-### Un juego de navegador al estilo Mini Militia
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01 · Claude Fable 5.1 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/mini-militia-style-browser-game-2094900523900219725"><img src="../assets/previews/a72fb4b678a92d881096fcc6a02adc888425ee7da10d568b65ef164adc8b70c3.webp" width="840" loading="lazy" alt="Un juego de navegador al estilo Mini Militia"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un juego de acción al estilo Mini Militia, con movimiento y apuntado ágiles, armas, arenas compactas, bots y respuestas inmediatas a los impactos y al daño.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [Publicación original](https://x.com/0x0SojalSec/status/2094900523900219725) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
-
-### Un océano lluvioso de exploración libre en primera persona
-
-[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="Un océano lluvioso de exploración libre en primera persona"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye un entorno 3D de exploración libre en primera persona en el océano, con olas, gotas de lluvia e iluminación atmosférica. Permite explorar el agua desde una cámara inmersiva.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [Publicación original](https://x.com/TimJayas/status/2094900247000654222) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="floating-voxel-island-2094899802588713418"></a>
-
-### Una isla flotante de vóxeles
-
-[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="Una isla flotante de vóxeles"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye una isla flotante de vóxeles con capas de terreno claras, vegetación, agua, construcciones, movimiento ambiental y una cámara que permita girar alrededor de toda la escena y examinarla.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/floating-voxel-island-2094899802588713418) · [Publicación original](https://x.com/loktar00/status/2094899802588713418) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
-
-### Un reino medieval de vóxeles lleno de vida
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="Un reino medieval de vóxeles lleno de vida"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye un gran reino medieval de vóxeles con miles de soldados, aldeanos que trabajen, sistemas de asedio, estructuras destructibles y un dragón capaz de cambiar el rumbo de la batalla.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [Publicación original](https://x.com/knowixbuilds/status/2094899477626720403) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
-
-### Un flujo de producción de recursos 3D texturizados
-
-[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="Un flujo de producción de recursos 3D texturizados"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Convierte una imagen de referencia en un recurso 3D limpio, corrige las normales y los materiales en Blender y crea después texturas listas para producción en Substance Painter.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [Publicación original](https://x.com/MrCollison/status/2094896750234378508) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
-
-### Tres conceptos compactos de juegos de física
-
-[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="Tres conceptos compactos de juegos de física"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye tres minijuegos cuidados: un reto de obstáculos con una pelota pegajosa, capibaras surfeando por un río y un juego de esquivar dumplings en una cinta transportadora. Cada uno debe tener controles claros, puntuación y una condición de derrota.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [Publicación original](https://x.com/atomicagent_io/status/2094895071304839400) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
-
-### Un juego de karts de calidad AAA en Three.js
-
-[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · Juegos
-
-Remix de: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Un juego de karts de calidad AAA en Three.js"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye un juego de carreras de karts de calidad AAA en Three.js, con conducción pulida, circuitos con personalidad, rivales, objetos, interfaz, sonido y una carrera completa y jugable.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Publicación original](https://x.com/bridgemindai/status/2094894312370692443) · [Código fuente](https://github.com/bridge-mind/turbo-kart-rush) · [Demo en línea](https://bridge-mind.github.io/turbo-kart-rush/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### Un aeropuerto simulado en Three.js con una sola instrucción
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="Un aeropuerto simulado en Three.js con una sola instrucción"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye de una sola vez una simulación de aeropuerto en Three.js, con pistas, terminales, aviones que rueden y despeguen, vehículos de tierra, iluminación según la hora del día y una cámara panorámica.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [Publicación original](https://x.com/AlexYTScaling/status/2094893572617044439) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### Una ciudad japonesa flotante con pagoda
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="Una ciudad japonesa flotante con pagoda"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea una ciudad japonesa flotante e interactiva centrada en una pagoda muy detallada, con islas a distintas alturas, puentes, niebla, luz de farolillos y controles de vuelo cinematográficos.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [Publicación original](https://x.com/vib3coded/status/2094886088963690607) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Un Airbus H145 en Three.js
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Un Airbus H145 en Three.js"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un modelo 3D de un helicóptero Airbus H145 en Three.js. Haz que su cabina, patines de aterrizaje y conjunto del rotor sean reconocibles y se puedan examinar.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [Publicación original](https://x.com/HarshithLucky3/status/2094882571083735351) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### Un simulador de la Primera Guerra Mundial en vóxeles
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="Un simulador de la Primera Guerra Mundial en vóxeles"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un simulador de un campo de batalla de la Primera Guerra Mundial en vóxeles, con trincheras, soldados, vehículos, artillería, destrucción y una cámara táctica fácil de interpretar.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [Publicación original](https://x.com/Tech2Wild/status/2094881469155914170) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### Una mansión futurista en una isla privada
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="Una mansión futurista en una isla privada"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Diseña una mansión futurista explorable en una isla privada, presentada mediante cinco escenas conectadas de Three.js, con cámara cinematográfica, materiales de gran calidad y un entorno que cuente una historia.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [Publicación original](https://x.com/aimlapi/status/2094879208304685524) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

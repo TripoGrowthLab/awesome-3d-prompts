@@ -28,6 +28,18 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Çift halkalı etkileşimli enerji çekirdeği](#interactive-dual-ring-energy-core-2096551010089263181)
+- [Hezekiel’in Tapınak Vizyonu: 3B](#gpt-6-astra-2096547658164834788)
+- [Blender’da değiştirilebilir karakter ifadeleri](#switchable-character-expressions-in-blender-2096525100518453342)
+- [Geometry Nodes ile döngüsel su yüzeyi](#looping-water-with-geometry-nodes-2096521798150242631)
+- [One Piece esintili denizcilik dünyası](#one-piece-inspired-sailing-world-2096518775042707700)
+- [Kişisel odadan etkileşimli portfolyoya](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [Three.js ile tamamlanmış bulmaca bölümü](#complete-three-js-puzzle-level-2096505740643246231)
+- [Sakin bir 3D denizde YF-24 teknesi](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
+- [Üst kat planından Blender önizlemesine](#top-floor-plan-to-blender-preview-2096501340889374883)
+- [Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü](#walkable-low-poly-gwacheon-village-2096490395614019793)
+- [Üretilen 3D varlıkları birleştirme ve canlandırma](#assemble-and-animate-generated-3d-assets-2096481425050743048)
+- [Japon Ormanında Wright Flyer](#wright-flyer-through-a-japanese-forest-2096467585785286808)
 - [Yüzeylere tırmanan prosedürel böcek](#surface-climbing-procedural-insect-2096460081982304546)
 - [Lego 1999 Racers'ı yeniden oluşturma](#gpt-6-astra-2096438110095585753)
 - [D4 esintili oynanabilir daire](#playable-d4-inspired-apartment-2096413869841473930)
@@ -66,20 +78,292 @@
 - [Zubli: tepki veren WebGL karakteri](#zubli-a-responsive-webgl-character-2096180133803561376)
 - [Kahve fincanında deniz yaşamı](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu](#gpt-6-astra-2096156244180664627)
-- [Dropzone battle royale arenası](#dropzone-battle-royale-arena-2096155883122413946)
-- [Tarayıcı uçuş oyunu](#browser-flight-game-2096149823216898445)
-- [Kafe fotoğrafından dikey gezinti videosuna](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [Otomatik karakter iskeleti ve kung fu hareketleri](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Blender'da Viking karakteri](#viking-character-in-blender-2096140378777010278)
-- [Odyssey esintili platform macerası](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [İskeletli ve animasyonlu T. rex](#rigged-and-animated-t-rex-2096133339329536249)
-- [32 animasyonlu insanla yürünebilir ofis](#walkable-office-with-32-animated-people-2096131961345720477)
-- [Akşam ışığında Adiyogi kamera uçuşu](#adiyogi-evening-fly-through-2096128774203171021)
-- [Blender'da Formula 1 aracı](#formula-one-car-in-blender-2096125193580113957)
-- [Canlı jet üretim tesisi](#live-jet-manufacturing-plant-2096122429319852319)
-- [Mobil oyun reklamının oynanabilir yeniden yapımı](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
 
 </details>
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### Çift halkalı etkileşimli enerji çekirdeği
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Çift halkalı etkileşimli enerji çekirdeği"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Malzemeleri döndürme, yakınlaştırma, otomatik yörünge ve nabız efekti kontrolleri sunan bir Three.js görüntüleyicisine aktarın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### Hezekiel’in Tapınak Vizyonu: 3B
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Hezekiel’in Tapınak Vizyonu: 3B"></a>
+
+**İstem**
+
+```text
+Hezekiel’in tapınak vizyonu 3B olarak nasıl görünürdü?
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096547658164834788) · [Orijinal gönderi](https://x.com/KrixOnok/status/2096547658164834788) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### Blender’da değiştirilebilir karakter ifadeleri
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Blender’da değiştirilebilir karakter ifadeleri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’da hazırlayın. Mesh’leri hizalayın ve aralarında yumuşak geçiş yapmadan değiştirin; etkin olmayan varyantları küçülterek başın içine alın. Bu yöntemin ifadeleri yumuşak biçimde harmanladığını veya VRM uyumlu olduğunu ima etmeyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Orijinal gönderi](https://x.com/Dstudio_ai/status/2096525100518453342) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### Geometry Nodes ile döngüsel su yüzeyi
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Geometry Nodes ile döngüsel su yüzeyi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender Geometry Nodes ile bake işlemi gerektirmeyen periyodik bir su yüzeyi efekti oluşturun. Düğüm düzenini düzenlenebilir tutun ve bunu tam bir akışkan simülasyonu değil, yüzey modeli olarak açıklayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Orijinal gönderi](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### One Piece esintili denizcilik dünyası
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="One Piece esintili denizcilik dünyası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender gemisi ve Three.js okyanusuyla oynanabilir bir denizcilik dünyası oluşturun. Değişen hava koşulları, su altı keşfi, gemi izi, köpük, su sıçramaları ve hareketli yelkenler ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Orijinal gönderi](https://x.com/yash_yk45/status/2096518775042707700) · [Canlı demo](https://one-piece-sea-world.vercel.app/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### Kişisel odadan etkileşimli portfolyoya
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Kişisel odadan etkileşimli portfolyoya"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Kişisel bir odayı etkileşimli bir tanıtım sitesine dönüştürün. Sahneyi Blender’da oluşturup bake işlemini yapın; ardından kahve buharı, Matrix tarzı animasyon ve hafif shader efektleri ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Orijinal gönderi](https://x.com/kalanyei/status/2096506357868642342) · [Canlı demo](https://room.kalan.dev/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### Three.js ile tamamlanmış bulmaca bölümü
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Three.js ile tamamlanmış bulmaca bölümü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js ile oynanabilir mekanikleri de içeren eksiksiz bir 3D bulmaca oyunu bölümü oluşturun. Bölüm ve etkileşimler çalıştıktan sonra sağlanan sesleri entegre edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Orijinal gönderi](https://x.com/TvWoo/status/2096505740643246231) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
+
+### Sakin bir 3D denizde YF-24 teknesi
+
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="Sakin bir 3D denizde YF-24 teknesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender’da bir YF-24 teknesi modelleyin ve Beaufort ölçeğinde kuvvet 2 koşullarındaki üç boyutlu denizde ilerleyişini canlandırın. Biçimini iyileştirmek için tekne referanslarından yararlanın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Orijinal gönderi](https://x.com/yhmtmt1/status/2096503275910832461) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
+
+### Üst kat planından Blender önizlemesine
+
+[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Üst kat planından Blender önizlemesine"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir evin en üst kat planını kullanarak Blender sahnesi oluşturun ve düşük örnek sayısıyla 10 saniyelik önizleme render’ı alın. Malzemeleri iyileştirmeden önce mekânsal düzenin anlaşılır olmasına öncelik verin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Orijinal gönderi](https://x.com/indigox/status/2096501340889374883) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
+
+### Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tek bir HTML dosyasında Gwacheon’dan esinlenen, sıcak atmosferli ve keşfedilebilir düşük poligonlu bir köy oluşturun. Prosedürel 3D çevreyi, atmosferi, arayüzü ve etkileşimleri birleştirin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Orijinal gönderi](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
+
+### Üretilen 3D varlıkları birleştirme ve canlandırma
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Üretilen 3D varlıkları birleştirme ve canlandırma"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tripo P2 ile optimize edilmiş 3D varlıklar üretin, bunları Blender’da birleştirin ve karakterlere rig ile animasyon ekleyin. Karakterlerle sahnenin mekânsal olarak nasıl bir araya geldiğini inceleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Orijinal gönderi](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
+
+### Japon Ormanında Wright Flyer
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+Uyarlama kaynağı: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="Japon Ormanında Wright Flyer"></a>
+
+**İstem**
+
+```text
+# KOMOREBI — Ormanda Uçuş
+
+## 1. Amaç
+Oyunun tüm arayüz metinlerini İngilizce tut.
+Eksiksiz bir tarayıcı uçuş oyunu oluşturun: Tanınabilir bir 1903 Wright Flyer ile Japonya’daki bir orman nehrinin üzerinde uçun, ruh fenerlerini toplayın, torii kapılarından geçin ve dağdaki kutsal alana ulaşın. Tamamlanmış kompozisyonda https://komorebi-forest-flight.tripo.page/ ve sağlanan referansları kullanın. Jared’e https://x.com/jaredliu_bravo üzerinden, ilham kaynağı The Bugged Dev’e ise https://x.com/thebuggeddev/status/2096467585785286808. üzerinden kredi verin
+
+## 2. Görsel yön
+Koyu sedir yeşilleri, turkuaz su, sıcak fildişi keten, yıpranmış ahşap, yosunlu taşlar ve ölçülü amber ışığıyla sakin, sinematik bir minyatür orman oluşturun. Uçağı, bir sonraki toplanabilir nesne kanatlarının üzerinde görünecek şekilde, akıcı bir arkadan takip kamerasıyla net biçimde kadrajlayın. Görüş alanının dışından gelen yumuşak gün ışığı, ortam dolgu ışığı, temas gölgeleri, sisli dağlar, su yansımaları, havada süzülen zerrecikler ve hafif bloom kullanın. Aşırı pozlamadan, havada duran evlerden, aşırı büyük ışık lekelerinden ve köşeli kaya duvarlarından kaçının.
+
+Sıcak kırık beyaz metin, ince yarı saydam kenarlıklar, yerel Cormorant Garamond tarzı serif başlıklar ve DM Sans tarzı kontroller kullanın. Sol üstte: KOMOREBI, 木漏れ日 ve A FOREST FLIGHT. Pusulayı ve Compare kontrolünü üst bölüme, yardımcı düğmeleri sağ üste, skor/canları sola, irtifa/hava hızını sağa ve bölüm ilerlemesini alt kısma yerleştirin. Açılış daveti “Orman seni taşısın.”, düğme ise “Uçuşa başla” olsun. Telefonlarda uçağı kapatmadan arayüz katmanını kompakt hâle getirin.
+
+## 3. Dünya
+Dört eşit aralıklı bölümden oluşan, uzunluğu 3,6 km olan deterministik bir rota oluşturun: Fısıldayan Orman, Gizli Şelaleler, Fener Vadisi ve Bulut Kutsal Alanı. Çevre parçalarını akışla yükleyin veya yeniden kullanın. Hafifçe kıvrılan turkuaz bir nehir koridoru belirlesin; başlangıç eğrisi olarak x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 kullanın. Yardımlı uçuş rotası boyunca torii açıklıkları yerleştirin; çevresine orman, ahşap evler, şelaleler, yuvarlak nehir taşları ve katmanlı sisli dağlar ekleyin. Her evin oturum alanını düzleyin ve temelini dört köşede de zemine gömün.
+
+## 4. Varlık envanteri
+Model yuvalarını aşağıdaki sırayla hazırlayın:
+- `aircraft`: Açıkta kalan, 1903 Wright Flyer; iki geniş fildişi keten kanat, ince ahşap taşıyıcı iskelet, payandalar ve gergi telleri, önde canard ve arkada iki itici pervane. Pervaneleri, yinelenen kanatlar olmadan, ayrı animasyonlu parçalar olarak tutun.
+- `cedar`: Uzun kızıl kahverengi gövde, düzensiz katmanlı koyu yeşil yapraklar, tutarlı dallar ve zemine oturan kökler; farklı ölçek ve dönüşlerle yeniden kullanın.
+- `minka`: Koyu, yıpranmış ahşap taşıyıcılar, sıva dolgu, geniş kiremitli eğimli çatı, geniş saçaklar, sıcak shoji pencereleri ve taş temel.
+- `torii`: İki dikmesi ve geniş, kavisli üst kirişi olan yıpranmış Japon ahşap kapısı; açık geçişi mevcut çarpışma hacmiyle eşleşmelidir.
+- `lantern`: Sıcak tonlarda kâğıt ve ahşaptan ruh feneri; tekrarlanan toplanabilir nesneler ve daha küçük dekoratif ışıklar için aynı model ailesini kullanın, ancak rollerini görsel olarak ayırt edilebilir kılın.
+- `rock`: Zemine oturan tabanlı, yuvarlak yosunlu nehir taşı; uçuş koridorunu kapatmadan kıyılar boyunca örnekleyerek yerleştirin.
+Nehri, araziyi, dağları, şelale katmanlarını, parıltı halkalarını, sisi, parçacıkları ve arayüzü prosedürel oluşturun. Her yuvayı kayıt defterinde listeleyin ve modeli değiştiğinde yinelenen tüm örnekleri güncelleyin.
+
+## 5. Uçuş ve geri bildirim
+Uçuşa başla seçildikten sonra otomatik olarak ileri hareket edin. W/S veya yukarı/aşağı tuşları irtifayı ayarlar; A/D veya sol/sağ tuşları yön vermeyi ve yatışı kontrol eder. Shift, görünür ve yeniden dolan bir rüzgâr takviyesi rezervi harcar. Yumuşak ivmelenme ve arkadan gelen kamera tepkisel kalmalıdır. Varsayılan uçuş yardımı, girdi bırakıldıktan sonra uçağı nazikçe nehre ve hedef irtifaya geri yönlendirir; bir yardım geçişi ve kalite ayarları sunun. Dokunmatik yönlendirme ve takviye desteği sağlayın. Esc oyunu duraklatır; yardım, ayarlar ve uçak görüntüleyici uçuşu duraklatır ve önceki durumu geri yükler. Odak kaybında basılı kalan girdileri temizleyin.
+
+Üç can verin. Her ruh feneri 100 puan, net bir torii geçişi ise hedef başına yalnızca bir kez 250 puan kazandırır. Zemin, kıyı ve kiriş çarpışmaları bir can götürür ve kısa süreli dokunulmazlık sağlar. 3,6 km’de skor, en iyi skor ve yeniden oynama seçenekleriyle bitişe ulaşın; canlar sıfırlandığında yeniden deneme sunun. En iyi skoru yerel olarak kaydedin ve depolama hatası için yedek davranış ekleyin.
+
+Fenerleri büyük oval altın toplama halkalarının içine yerleştirin; yukarı aşağı süzülen, nefes alır gibi büyüyüp küçülen haleler ve kıvılcımlar kullanın. En yakın hedefi “+100 · İÇİNDEN UÇ” etiketiyle gösterin. Geniş çarpışma hacmini animasyonlu halkayla hizalayın. Toplamalar genişleyen bir halka, sıcak tonlu parçacıklar, havada beliren skor ve HUD titreşimi oluştursun. Geçilen kapıları, arkadan takip kamerasını kapatmadan önce soldurun.
+
+## 6. Uygulama
+Vite, Three.js ve JavaScript ES modüllerini kullanın; rota/çarpışma/skor, çevre, modeller, efektler ve arayüzü birbirinden ayırın. Bağımlılıkları, yazı tiplerini ve çalışma zamanı varlıklarını yerel olarak paketleyin; statik bir site teslim edin. GLTFLoader ve her yuva için sınırları, yönelimi, kaynağı ve yedek fabrikaları içeren bir varlık manifestosu kullanın. Çarpışmaları içe aktarılan mesh şekillerinden bağımsız tutun. İki pervaneyi delta time kullanarak döndürün; bunları arkadan takip kamerasından ve yörüngede döndürülebilen, yakınlaştırılabilen uçak görüntüleyicisinden inceleyin. Kullanılabildiğinde gerçek yerel uçak dosyasını indirme seçeneği sunun. Ölçülen performans gerektiriyorsa, gömülü pervaneleri ayırmak, pivot noktalarını düzeltmek veya daha hafif bir mesh oluşturmak için Blender isteğe bağlıdır.
+
+Özgün görsel temeli koruyun. İçe aktarılan bir yuva mevcut olduğunda Compare veya C, gezinme ya da uçuşu, kamerayı, canları, takviyeyi, skoru veya toplanan nesneleri sıfırlamadan bu temel ile mevcut alternatifler arasında geçiş yapar. Geçiş sırasında ilerlemeyi dondurun, sonraki sahne hazır olana kadar son eksiksiz kareyi koruyun ve ardından yaklaşık 650 ms boyunca crossfade uygulayın. Azaltılmış hareket tercihine uyun; yinelenen tıklamaları engelleyin ve hata durumunda önceki sahneyi geri yükleyin. Satır içi koyu bir başlangıç arka planı, üst sınırı belirlenmiş DPR, sınırlandırılmış parçacıklar ve önbelleğe alınmış en fazla iki sahne varyantı kullanın.
+
+## 7. Kabul kriterleri
+Kaynak kodunu, lockfile’ı, npm run dev, npm run build komutlarını ve statik dist çıktısını teslim edin. Eksiksiz uçuşu, takviyeyi, fener/kapı toplamayı, çarpışma dokunulmazlığını, duraklatma/devam ettirmeyi, dokunmatik kontrolleri, yeniden oynamayı, görüntüleyiciyi ve bağımsız yuva içe aktarımlarını doğrulayın. Her iki Compare yönünün de durumu beyaz kareler oluşturmadan veya GPU kaynak kullanımını artırmadan koruduğunu kontrol edin. Evlerin zemine oturmasını, uçak silüetini, pervane hareketini, okunabilir aydınlatmayı ve yavaş yüklemeden kurtarma davranışını inceleyin. Gerçek testleri ve performans koşullarını raporlayın. Varlık oluşturma için aşağıdaki ortak iş akışını izleyin ve geri dönün.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Orijinal gönderi](https://x.com/thebuggeddev/status/2096467585785286808) · [Canlı demo](https://komorebi-forest-flight.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="surface-climbing-procedural-insect-2096460081982304546"></a>
 
 ### Yüzeylere tırmanan prosedürel böcek
@@ -1510,246 +1794,6 @@ First define the full gameply loop and level designs and stuff for this game int
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627) · [Orijinal gönderi](https://x.com/AVachaspat92841/status/2096156244180664627) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone battle royale arenası
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone battle royale arenası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Fırtına çemberi, dokuz yapay zekâ düşmanı, darbe tüfeği, sağlık ve şarjör doldurmayla üçüncü şahıs tarayıcı battle royale oyunu kur. Yerleştirilebilir siper duvarları ve eksiksiz eleme döngüsü ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Orijinal gönderi](https://x.com/Motion_Viz/status/2096155883122413946) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### Tarayıcı uçuş oyunu
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Tarayıcı uçuş oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Boş bir projeden tarayıcıda eksiksiz bir 3B uçuş oyunu oluştur. Kontrol edilebilir uçuş, gezilebilir ortam, açık hedef ve tutarlı sunum ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/browser-flight-game-2096149823216898445) · [Orijinal gönderi](https://x.com/givros/status/2096149823216898445) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### Kafe fotoğrafından dikey gezinti videosuna
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Kafe fotoğrafından dikey gezinti videosuna"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Bir kafeyi fotoğrafından Blender’da yeniden oluşturun; ahşap tavanı, ışık şeritlerini, kahve kavurma makinesini, rafları ve bitkileri ekleyin. Düzenlenebilir sahne ve dikey formatta 15 saniyelik bir kamera gezintisi teslim edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Orijinal gönderi](https://x.com/harrisonitsme/status/2096143359505269079) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### Otomatik karakter iskeleti ve kung fu hareketleri
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Otomatik karakter iskeleti ve kung fu hareketleri"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen 3B karaktere iskelet ekle; yürüme, koşma ve çeşitli kung fu hareketleri oluştur. Animasyonlarda bozuk eklemleri ve kararsız pozları kontrol et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Orijinal gönderi](https://x.com/thebuggeddev/status/2096141728487178503) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Blender'da Viking karakteri
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender'da Viking karakteri"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da düzenlenebilir bir 3B Viking karakteri oluştur. Tanınabilir kostüme, yüz yapısına, vücut oranlarına ve anlaşılır sunum pozuna odaklan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/viking-character-in-blender-2096140378777010278) · [Orijinal gönderi](https://x.com/fre4kspace/status/2096140378777010278) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### Odyssey esintili platform macerası
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey esintili platform macerası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Sekiz platform, toplanabilir üç ay, geri dönen şapka saldırıları, düşmanlar ve kontrol noktaları olan Odyssey esintili Three.js bölümü yap. Dokunmatik kontroller ekle ve baştan sona oyna.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Orijinal gönderi](https://x.com/AiHubMix/status/2096135808243876152) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### İskeletli ve animasyonlu T. rex
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="İskeletli ve animasyonlu T. rex"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Üretilmiş T. rex modeline iskelet ekleyip inandırıcı hareket oluştur. Karakteri Three.js'de render et ve animasyonun modeli tutarlı biçimde deforme ettiğini doğrula.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2096133339329536249) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
-
-### 32 animasyonlu insanla yürünebilir ofis
-
-[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="32 animasyonlu insanla yürünebilir ofis"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de birinci şahıs gezinmesi olan bir tarayıcı ofisi kur. Ziyaretçiyi adıyla selamlayan 32 iskeletli kişi, tıklanabilir kapılar, yörünge kontrolleri ve plan görünümü ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Orijinal gönderi](https://x.com/demgufever82151/status/2096131961345720477) · [Kaynak kodu](https://github.com/Parithosh-Varma/office) · [Canlı demo](https://office-2nw.pages.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
-
-### Akşam ışığında Adiyogi kamera uçuşu
-
-[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Akşam ışığında Adiyogi kamera uçuşu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender’da geniş araziler, ayrıntılı yakın çekimler ve sıcak akşam ışığı içeren bir Adiyogi sahnesi oluşturun. 30 saniyelik bir kamera uçuşu render’ı alın ve düzenlenebilir sahneyi koruyun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Orijinal gönderi](https://x.com/thejothiram/status/2096128774203171021) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="formula-one-car-in-blender-2096125193580113957"></a>
-
-### Blender'da Formula 1 aracı
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Blender'da Formula 1 aracı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Bilgisayar kontrolüyle Blender'da bir 3B Formula 1 modeli oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Orijinal gönderi](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
-
-### Canlı jet üretim tesisi
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Canlı jet üretim tesisi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Uçak üretimini araştır ve Three.js'de çalışan bir jet fabrikası simülasyonu kur. Makine çevrimlerini, üretim istasyonlarını, taşımayı ve darboğazları modelle, ardından akışı test et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Orijinal gönderi](https://x.com/konstantinsaifo/status/2096122429319852319) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
-
-### Mobil oyun reklamının oynanabilir yeniden yapımı
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="Mobil oyun reklamının oynanabilir yeniden yapımı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Mobil oyun reklamını referans alarak oynanabilir tarayıcı oyunu oluştur. Ana etkileşimi yeniden yap ve görsel fikri karşılamak için Blender varlıkları kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Orijinal gönderi](https://x.com/buildingadlicio/status/2096111709496680842) · [Örneklere dön](#all-prompts)
 
 ---
 

@@ -28,6 +28,17 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [Claude 成長訓練蒙太奇](#claude-opus-5-5-2102788371114246177)
+- [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](#claude-opus-5-5-2102788223835463902)
+- [用於研究西洋棋棄兵的互動式 3D 棋盤](#gpt-6-astra-2102788013902213508)
+- [無縫程式碼水循環動畫](#claude-opus-5-5-2102781807179735211)
+- [可在瀏覽器中操作的中世紀歐洲風 3D 城堡](#gpt-6-astra-2102780850706567390)
+- [CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲](#claude-opus-5-5-2102775461701091531)
+- [Orbit Lab：太陽、地球與月的 3D 模擬](#gpt-6-astra-2102752217375899659)
+- [《末班列車》賽博龐克巨型都市基準測試](#claude-opus-5-5-2102740078347087940)
+- [體素風格足球動畫](#claude-opus-5-5-2102739444256383089)
+- [虛構行星互動網站](#claude-opus-5-5-2102729710174196022)
+- [中世紀城堡瀏覽器動畫](#gpt-6-astra-2102672926285713456)
 - [使用 Claude Opus 5 製作的 Tripo 3D 宣傳影片](#tripo-claude-opus-5-5-paper-cut-3d-short)
 - [互動式歐拉霓虹流體模擬](#claude-opus-5-5-2102565611473661963)
 - [日式櫻花山谷互動式 3D 景觀網頁](#claude-opus-5-5-2102565403109085669)
@@ -38,6 +49,7 @@
 - [互動式彼得兔風格農場動物遊戲](#claude-opus-5-5-2102538762731565085)
 - [電影感互動式夕陽海盜船](#claude-opus-5-5-2102533729746882985)
 - [無限程序生成的 Three.js 世界](#claude-opus-5-5-2102529695908806728)
+- [含室內空間的兩層樓郊區住宅](#gpt-6-astra-2102473710724919614)
 - [互動式人群疏散模擬](#claude-opus-5-5-2102467667978572092)
 - [Battle City 3D：無盡坦克防禦](#battle-city-3d)
 - [互動式 3D 史前島嶼](#claude-opus-5-5-2102450239923720440)
@@ -66,20 +78,359 @@
 - [逃離封閉研究設施的瀏覽器 3D 遊戲](#gpt-6-astra-2100595652703199281)
 - [製作 3D 賽車遊戲](#gpt-6-astra-2100526922770026874)
 - [為欄杆新增維修用鏈條](#gpt-6-astra-2100519026720231698)
-- [互動式體素騎士篝火場景](#gpt-6-astra-2100350159540596760)
-- [等角視角奇幻 3D 圖形展示](#gpt-6-astra-2100271998618177864)
-- [AKARI：名古屋屋頂火炬接力](#akari-nagoya-rooftop-flame-relay)
-- [獨眼巨人的島嶼](#cyclops-island-threejs-game)
-- [地下車站中的 AAA CGI 超自然格鬥短片](#gpt-6-astra-2100233407108137349)
-- [可選擇地磚的互動式公寓導覽](#gpt-6-astra-2100222426705453318)
-- [PC 版 Splatoon 開發與畫面重現](#gpt-6-astra-2100193512373592313)
-- [可互動的 3D 房間場景與可動家具](#gpt-6-astra-2100139076816916977)
-- [從參考圖片製作可動的 3D 空間與遊戲角色](#gpt-6-astra-2099850719839109597)
-- [可抵達的程序化太空探索遊戲](#gpt-6-astra-2099785223827259515)
-- [Apple 風格 3D 愛心與笑臉表情符號](#gpt-6-astra-2099750376530657300)
-- [互動式 3D 生物體神經系統面板](#gpt-6-astra-2099719427990134984)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude 成長訓練蒙太奇
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 成長訓練蒙太奇"></a>
+
+**提示詞**
+
+```text
+完全以程式碼製作一段 30 秒動畫，呈現受《功夫熊貓》訓練橋段啟發的成長蒙太奇，並以 Claude 吉祥物為主角，展示它自首次發布以來在各項技能上的能力提升，例如搜尋網路、撰寫程式碼、建立 3D 模型，以及解決人類最棘手的問題，搭配富有情感張力的音樂。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177) · [查看原文](https://x.com/ishuagra02/status/2102788832273801700) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### 使用 Three.js 製作皮克斯等級的 90 年代卡通動畫
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="使用 Three.js 製作皮克斯等級的 90 年代卡通動畫"></a>
+
+**提示詞**
+
+```text
+我希望你先發想一個故事，接著使用 Three.js，將你構思的故事製作成一部完整動畫，呈現皮克斯等級品質的 90 年代卡通風格。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902) · [查看原文](https://x.com/scheemunai/status/2102788223835463902) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102788013902213508"></a>
+
+### 用於研究西洋棋棄兵的互動式 3D 棋盤
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="用於研究西洋棋棄兵的互動式 3D 棋盤"></a>
+
+**提示詞**
+
+```text
+建立一個搭載互動式 3D 棋盤的網頁應用程式，用來研究西洋棋的主要棄兵。加入棋步動畫、前進與返回控制項、開局變化，以及每種開局背後理念的說明。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102788013902213508) · [查看原文](https://x.com/diogosantosbr/status/2102788013902213508) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### 無縫程式碼水循環動畫
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="無縫程式碼水循環動畫"></a>
+
+**提示詞**
+
+```text
+建立一個完全以程式碼製作的水循環無縫循環動畫。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102781807179735211) · [查看原文](https://x.com/higgsfield_ai/status/2102781807179735211) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102780850706567390"></a>
+
+### 可在瀏覽器中操作的中世紀歐洲風 3D 城堡
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="可在瀏覽器中操作的中世紀歐洲風 3D 城堡"></a>
+
+**提示詞**
+
+```text
+製作一座可在瀏覽器中操作的 3D 中世紀歐洲風城堡，加入護城河、吊橋、塔樓、石牆、旗幟、森林與日夜切換功能。
+這是一種基準測試，因此請盡可能提升視覺呈現，將 3D 模型的品質放在最高優先順序。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102780850706567390) · [查看原文](https://x.com/luxurytax150/status/2102780850706567390) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲"></a>
+
+**提示詞**
+
+```text
+讓我們開發一款遊戲吧
+圖像表現不限 2D 或 3D，請分析遊戲系統等要素，選擇較容易開發的方向即可
+個人傾向採用 3D，但畫面預想是類似橫向捲軸動作遊戲的形式
+我想透過照明等設計營造時髦的氛圍，因此覺得使用 3D 應該能呈現更漂亮的效果（例如街燈或燈籠等表現）
+我想製作的遊戲名為 CatWalk
+顧名思義
+讓貓咪向側面前進
+貓步道會不斷延伸，畫面也會自動捲動，因此玩家只需配合捲動速度，以跳躍等簡單操作越過障礙物與缺口。某種程度上，緊張感與系統可能接近《Flappy Bird》。
+不過圖像表現希望走成熟、帥氣且重視氛圍的風格
+如果可以呈現貓咪柔韌優雅的走路、奔跑與跳躍動作，就再好不過了
+關卡的世界觀交給你決定，但一開始採用普通的夜晚街景之類的場景也可以
+如果透過較暗的整體色調，讓間接照明等效果呈現得更漂亮，我會非常開心
+我知道應該會有能做、不能做，以及難度較高的部分
+請以我的需求為靈感，開發出你認為可行的作品
+首先請做到能完成一個關卡的一輪遊玩
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102775461701091531) · [查看原文](https://x.com/blitast_studio/status/2102775632933654585) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102752217375899659"></a>
+
+### Orbit Lab：太陽、地球與月的 3D 模擬
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab：太陽、地球與月的 3D 模擬"></a>
+
+**提示詞**
+
+```text
+這是比較實驗。請依照以下相同規格，在你的工作目錄中實作並完成這個 Web 作品。名稱為「Orbit Lab」。請使用 Three.js 0.186.0，並載入相同版本的核心套件與 OrbitControls（可使用 CDN 的 import map 或 npm）。不需要公開或部署。
+
+需求：
+1. 使用程序化幾何體與材質呈現太陽、地球與月球的 3D 模型。不得使用外部圖片或 3D 資產。以太陽作為點光源，並確保透過相機操作可以辨識地球與月球的明暗。
+2. 使用 delta time 驅動地球公轉與自轉、地軸傾角，以及月球公轉。以視覺方式呈現軌道面的傾角，並顯示地球與月球的軌道線。比例與速度可為教育用途而誇大。
+3. 使用可重現的亂數生成恆星背景。使用 OrbitControls 進行旋轉與縮放。點擊天體時，切換選取狀態與說明面板。
+4. 提供播放／停止、速度滑桿、顯示／隱藏軌道線、將相機聚焦至太陽／地球／月球，以及返回初始狀態的按鈕。也要能使用鍵盤播放／停止與重設。
+5. 提供適合手機寬度操作的介面、WebGL 不受支援時的提示、回應式調整大小，以及限制像素比以避免過高的繪圖負載。
+6. 在 README 中撰寫啟動步驟與操作方式。如果可以，請實際啟動並確認運作；若無法執行，請明確說明原因。完成報告請簡要列出建立的檔案、已實作項目與確認結果。
+
+請勿在過程中提問，請自行做出合理判斷並完成實作。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
+
+要件:
+1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
+2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
+3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
+4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
+5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
+6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
+
+途中で質問せず、合理的に判断して最後まで実装してください。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102752217375899659) · [查看原文](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 《末班列車》賽博龐克巨型都市基準測試
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="《末班列車》賽博龐克巨型都市基準測試"></a>
+
+**提示詞**
+
+```text
+在 Blender 中打造完整的賽博龐克巨型都市，包含主角列車、程序化建築、高架鐵路系統、雨景、體積式大氣效果、電影感燈光、多組攝影機配置，以及完整的動畫序列。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102740078347087940) · [查看原文](https://x.com/builderhelmai/status/2102740078347087940) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 體素風格足球動畫
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="體素風格足球動畫"></a>
+
+**提示詞**
+
+```text
+使用 Three.js（CDN）建立單一 HTML 檔案，製作簡單的體素風格足球動畫。一名方塊風格球員帶球突破 2 名防守球員，並以精彩射門得分，同時產生慶祝粒子效果。呈現繽紛的球場風格。僅輸出完整的 HTML 程式碼。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102739444256383089) · [查看原文](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 虛構行星互動網站
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="虛構行星互動網站"></a>
+
+**提示詞**
+
+```text
+建立一個介紹虛構行星的互動網站。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102729710174196022) · [查看原文](https://x.com/Kappaemme1926/status/2102729710174196022) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### 中世紀城堡瀏覽器動畫
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="中世紀城堡瀏覽器動畫"></a>
+
+**提示詞**
+
+```text
+建立一個完全在瀏覽器中執行的 3D 動畫。動畫內容是一座中世紀城堡，坐落在大片森林中的山丘頂端。不要加入任何鍵盤控制，只要讓攝影機環繞城堡旋轉，呈現城堡的各個面向。城堡塔樓頂端應有一面隨風飄揚的旗幟。
+
+輸出內容應包含 index.html 檔案；執行該檔案時，會顯示城堡並開始循環動畫。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102672926285713456) · [查看原文](https://juhapalomaki.fi/blog/castle-model-comparison/) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
 
 ### 使用 Claude Opus 5 製作的 Tripo 3D 宣傳影片
@@ -791,6 +1142,33 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102529695908806728) · [查看原文](https://x.com/argofowl/status/2102529695908806728) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### 含室內空間的兩層樓郊區住宅
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="含室內空間的兩層樓郊區住宅"></a>
+
+**提示詞**
+
+```text
+你好，請使用 Blender 設計出最完善的兩層樓郊區住宅 3D 模型，並包含完整室內空間及所有細節。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102473710724919614) · [查看原文](https://x.com/azer0lxm/status/2102473781830909995) · [返回案例導覽](#all-prompts)
 
 ---
 
@@ -2165,625 +2543,6 @@ I told Astra to CAD itself a body.
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698) · [查看原文](https://x.com/ujiden_type0/status/2100519026720231698) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100350159540596760"></a>
-
-### 互動式體素騎士篝火場景
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="互動式體素騎士篝火場景"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
-
-**提示詞**
-
-```text
-你是一名資深創意 WebGL 與 Three.js 開發者。你的任務是使用 Three.js + WebGL，建立一個完整、可用於正式環境的互動式 3D 場景，並將其完全收納在單一獨立 HTML 檔案（index.html）中
-
-### 1. 視覺主題與美術方向
-
-- 氛圍：深沉的夜間森林、溫暖閃耀的營火，以及獨自疲憊地在營地休息的騎士（《Dark Souls》篝火／經典復古 RPG 美學）。
-- 美學：3D 像素藝術／體素／低多邊形美學。
-- 著色與後製：整合 Three.js 後製效果（RenderPixelatedPass 或等效的低解析度像素化／抖動效果），呈現真實的 16 位元／32 位元復古風格。
-
-### 2. 場景幾何與資產（100% 程序化建立——不可使用外部 .gltf/.obj 檔案）
-
-所有資產都必須使用 Three.js 幾何圖元（BoxGeometry、CylinderGeometry 等）與基本材質以程序化方式建立，確保檔案能在本機執行且不會遇到 CORS 問題。
-
-1. 森林環境：
-
-   - 地面：深色風格化地形，搭配程序化生成的體素石頭、蘑菇與低多邊形植被。
-   - 樹木：在空地周圍程序化生成松樹／雲杉或塊狀樹冠的樹木，營造深度與隱密感。
-   - 天空與光照：深邃的午夜天空，搭配閃爍的體素星星，以及投射柔和陰影的冷色月光 DirectionalLight。
-   - 深度：使用帶有深色大氣色彩的 THREE.FogExp2，融合地平線。
-
-2. 營火：
-
-   - 以石頭圍成圓圈，環繞著悶燒的木柴與程序化生成的餘燼。
-   - 火焰系統：向上升起的動畫像素粒子（Points 或脈動的體素網格）。
-   - 動態光照：使用暖橙紅色 PointLight，搭配持續且自然的閃爍邏輯（使用 Math.sin、雜訊或 شبه隨機變化）。
-
-3. 騎士：
-
-   - 使用體素化圖元建立階層式場景圖（包含頭部、軀幹、上臂／前臂、腿部、披風與劍的群組）。
-   - 視覺細節：開槽頭盔、胸甲、肩甲、護手，以及劍鞘／劍。
-   - 樞軸點必須在關節（肩膀、手肘、髖部、膝蓋）處正確對齊，以實現流暢的程序化旋轉動畫。
-
-### 3. 互動式騎士狀態機
-
-在渲染迴圈中使用線性插值（lerp）或三角函數曲線，為以下可選狀態實作平滑的程序化動畫：
-
-- 坐在火旁（預設待機）：盤腿或蹲坐，進行細微的呼吸循環，並在火焰附近暖手。
-- 添柴：騎士起身、取回一根木柴並將其丟進火中。火焰會明顯竄升，光照半徑暫時擴大，並爆發出一陣火花。
-- 練劍：起身、拔劍，完成流暢的三段式攻擊／格擋動作，最後回到戰鬥防禦姿勢。
-- 遙望遠方：走到空地邊緣，將劍插入地面，在披風飄動的同時凝視黑暗深處。
-- 睡覺：躺在火堆旁的睡墊上；帶動畫效果的像素「Z z z」粒子從頭盔上方飄起。
-- 烤肉：拿著串有食物的木棍在火焰上方烘烤，並散發細微的程序化煙霧／蒸氣粒子。
-
-### 4. 攝影機系統
-
-提供預設攝影機切換功能，並以平滑的轉場插值（對位置與目標點進行 lerp）：
-
-- 溫馨特寫：聚焦騎士與火光的中景。
-- 等角 RPG：以經典的高位 45 度戰術視角俯瞰空地。
-- 電影感地面視角：以低角度戲劇性地向上拍攝騎士，背景是繁星天空與松樹樹冠。
-- 自由環繞：無縫切換至標準 OrbitControls，以便互動檢視。
-
-### 5. UI 與音效
-
-- UI 風格：採用復古 8 位元／16 位元 RPG HUD 版面，以半透明深色框架、像素化邊框，以及嵌入的 Google Font（例如 'Press Start 2P'）構成。
-- 底部面板：提供可觸發各個騎士狀態的互動式動作按鈕。
-- 右上方面板：提供切換攝影機角度的按鈕。
-- 木柴計數器：追蹤已添加的木柴數量與目前的火焰強度。
-- 音效（Web Audio API）：程序化合成的火焰劈啪聲與夜間微風／蟲鳴環境音，並提供靜音／取消靜音切換按鈕。
-
-### 6. 技術規格
-
-- 單一、自包含的 index.html 檔案。
-- 使用透過 CDN 載入的 ES Modules（https://t.co/W8o3SZwkCj 或 unpkg）。
-- 模組化且附有完善註解的程式碼結構（initScene、buildEnvironment、buildKnight、buildCampfire、setupUI、setupAudio、animate）。
-- 完整支援響應式視窗大小調整處理常式，更新攝影機長寬比與像素化後製通道的解析度。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760) · [查看原文](https://x.com/vib3coded/status/2100350602316558428) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100271998618177864"></a>
-
-### 等角視角奇幻 3D 圖形展示
-
-[Anshu Chimala](https://x.com/anshuc) · 2026-09-16 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/efb3df2ad348026ea45dd7aadc01690c2f219342df652f170cb2b8727429a6e1.webp" width="840" loading="lazy" alt="等角視角奇幻 3D 圖形展示"></a>
-
-**提示詞**
-
-```text
-請為我建立一個圖形展示：採用等角視角、帶有寫實著色器與反光濕地面的體素風格場景，並在有趣的場景中放置一名角色。奇幻背景（可以想像《Elden Ring》或《Diablo》）。使用瀏覽器中的 Three.js，效能需達到 >60fps。不要下載素材。時間限制為 1 小時。操作方式：點擊以移動角色，鏡頭延遲跟隨；拖曳以旋轉鏡頭；滾動以放大／縮小。目前不需要加入遊戲玩法。世界應該呈現出鮮活感：包含動態、動畫，以及細微的環境行為。玩家周圍的區域應看起來很寬廣，但只能在有限範圍內移動。不需要先向我確認美術方向或提出問題，直接開始吧！
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build me a graphics demo: isometric camera, voxel-ish art style with realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Don't download assets. Time limit of 1 hour. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors. Area around player should look expansive, but only allow movement in a limited space. No need to confirm the art with me or ask questions, just go!
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原文](https://github.com/achimala/dream-loop) · [專案原始碼](https://github.com/achimala/dream-loop) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="akari-nagoya-rooftop-flame-relay"></a>
-
-### AKARI：名古屋屋頂火炬接力
-
-[Jared](https://growthengineer.space/) · 2026-09-16 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/f82d75310164041451311a5b943e2d18ec847828627c3905d3c1119f4435fbb4.webp" width="840" loading="lazy" alt="AKARI：名古屋屋頂火炬接力"></a>
-
-**提示詞**
-
-```text
-# AKARI — 名古屋光之圖鑑
-
-## 1. 目標
-打造一款完整、以日文為優先的瀏覽器遊戲：抽象火焰進行七次有計時的跳躍，點亮一座迷你名古屋，迎接 2026 年 9 月 19 日至 10 月 4 日舉行的愛知・名古屋亞洲運動會。請比照目前的雙地圖開場版本（位於 https://akari-nagoya-rooftop-relay.tripo.page/）與提供的視覺參考。先前的通用屋頂場景不是目標版本。
-
-## 2. 視覺方向
-採用俯瞰的三分之四圖鑑視角、午夜藍背景、暖象牙色日文字體標題、細緻金線與克制的顆粒質感。桌面版左側三分之一保留給開場邀請，右側呈現兩塊升起的地圖圖塊；手機版則將地圖重新配置於控制項上方。開場先以昏暗、低飽和的建築與青綠色水道呈現。成功後恢復綠意、青綠色銅屋頂、溫暖窗光與金色路線燈。確保火焰與下一個目標清楚可辨。使用柔和陰影、空氣透視與受控的泛光，避免白色眩光。比照參考圖中可見的日文開場標題、地標標籤，以及纖細的編輯風格頁首／頁尾。
-
-## 3. 世界
-較大的西北地圖圖塊涵蓋名城公園、名古屋城、愛知國際競技場、久屋大通公園、MIRAI TOWER 與 Oasis 21。東南地圖圖塊涵蓋市立博物館、瑞穗通、瑞穗公園及其田徑場，山崎川位於田徑場東側。加入低矮的現代住宅區、公園樹木、道路標線、河岸與暖色燈具；城堡建築僅用於城堡。
-
-第 1 章：名城公園 → 外堀／久屋大通 → 久屋大通公園 → Oasis 21，共三次跳躍。以清楚標示、不可遊玩的章節轉場前往市立博物館。第 2 章：市立博物館 → 瑞穗通 → 瑞穗運動場西 → 朝瑞穗公園前進 → 南廣場，共四次跳躍。絕不可將轉場繪製成連續街道，也不可將其計為一次跳躍。在第二章儲存進度。兩張地圖使用不同比例，並為了遊戲性壓縮距離。在 About 中簡短說明這點，並一併列出歷史接力日期 2026 年 8 月 22 日與 9 月 16 日；這些日期不是即將舉行的活動邀請。引用 https://www.aichi-nagoya2026.org/ja/torch-relay/ 與 https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/.。使用原創裝飾與抽象火焰，不要使用官方吉祥物或徽章。
-
-## 4. 資產清單
-依優先順序使用以下固定替換槽位；兩種視覺模式都必須保留相同的版面配置與碰撞代理：
-- `shachi`：古董拋光金色屋頂裝飾，帶有類似虎頭的頭部、彎曲的鱗片鯉魚身體與向上捲曲的尾巴；在城堡上重複使用。
-- `castle`：象牙色、受名古屋啟發的城堡主樓，深色木構、階梯狀青綠色入母屋屋頂與石造基座。
-- `mizuho`：寬闊的橢圓形田徑場，淺色開放式中央屋頂與節奏分明的支撐結構；確保可從中央看見跑道與綠色場地。
-- `arena`：低矮的現代競技場，寬闊屋頂搭配溫暖色調的垂直立面格柵，位於公園軸線以北。
-- `tower`：纖細的銀色格狀觀景塔，帶有盒狀觀景台與天線。
-- `oasis`：細長的橢圓形青綠玻璃／水面棚頂，架在纖細的淺色支柱上。
-- `midrise`：簡約的現代日本住宅區建築；以不同高度與朝向重複使用，也包含簡單的博物館體量。
-- `tree`：矮小、成熟的公園樹，棕色樹幹搭配分層綠色樹冠；在兩個地圖圖塊中大量實例化。
-地形、道路、水面、跑道標線、跳躍標記、抽象火焰、光跡、煙火與 UI 都應以程序化方式製作。每個模型都必須是完整且獨立的物件；保留開放通道與田徑場中央空間。追蹤清單中的每個槽位，包括重複使用的背景資產。
-
-## 5. 遊戲玩法與獎勵
-按住指標／觸控或 Space 蓄力；放開後自動朝下一個標記跳躍。使用確定性的 delta-time 物理：距離 = 1.8 + 7 × 蓄力值，蓄力值在 0 到 1 之間往返，拋物線會在插值高度上額外增加 4 × t × (1 − t) × 3.6。蓄力循環的每個方向會從約 1.42 秒加速至 0.92 秒。軌跡、綠色安全區與金色完美區必須由同一套計算推導：誤差 ≤0.36 為完美；≤1.15 為安全；前兩次跳躍額外提供 0.28 的容錯。
-
-安全落地得 100 分；完美落地得 200 × 連續倍率，最高為 ×4。在 2.35 秒內完成提示的後續操作可加 50 分；安全落地、章節轉場或等待 3.4 秒後重設連擊。每次成功都會讓光波穿過街區、點亮窗戶並增加燈籠。顯示七步進度、分數、連擊與最高分。失誤後快速重新開始；轉場後恢復該章節的檢查點。提供暫停、重新開始、隱藏分頁恢復，以及互動後可選的音效。
-
-完成最後一次跳躍後，以 4.6 秒的拉遠鏡頭與受限制的煙火揭示兩張已點亮的地圖。七次跳躍全部完美則顯示 S 級；四次以上完美則顯示 A 級；其他情況顯示 B 級。加入重玩功能、相同攝影機視角的城市點亮前／後畫面，以及真正的 1800×1200 PNG 海報，內容包含標題、日期、分數與獨立專案署名。
-
-## 6. 實作
-使用 Vite、TypeScript 與 Three.js；將地理資料、純物理／計分邏輯、場景、特效、模型註冊表、日文／英文在地化與 UI 分離。無論提示使用何種語言，日文都維持為預設語言；語言切換設定必須持久化。將字型與資產在本機打包。使用 GLTFLoader 與逐槽位正規化；匯入無效模型時保留上一個可正常運作的模型。比較簡易視覺與匯入視覺時，保留分數、檢查點、攝影機與光照。對樹木／建築使用實例化，合併相容的靜態幾何，限制 DPR 並控制粒子數量。應評估實際影格時間與模型複雜度，不要僅因模型超過三角形目標就拒絕。只有在回傳的資產需要網格清理、樞紐修復或開放田徑場中央空間時才使用 Blender；保留其原始檔案。
-
-## 7. 驗收
-交付可執行的原始碼、lockfile、開發／建置指令與靜態建置版本。驗證兩個章節中的七次跳躍、轉場／檢查點恢復、失誤／重試、計分、觸控輸入、暫停、日文／英文設定持久化、所有槽位的備援模型，以及實際海報匯出。將穩定後的開場與結尾截圖，與目前的雙地圖參考版本進行比較。回報實測效能與實際執行的測試。以下共用工作流程規範模型生成與回傳。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/akari-nagoya-rooftop-flame-relay) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="cyclops-island-threejs-game"></a>
-
-### 獨眼巨人的島嶼
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-16 · GPT-6 Astra · 遊戲
-
-改編自: [Jason Chew](https://x.com/jasoncjs_/status/2099414001851449430)
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c.webp" width="840" loading="lazy" alt="獨眼巨人的島嶼"></a>
-
-**提示詞**
-
-```text
-# ODYSSEY — 獨眼巨人的島嶼
-
-## 1. 目標
-打造一款完整的等距視角逃脫遊戲，靈感來自《奧德賽》第九卷。玩家將扮演奧德修斯，帶領三名船員竊取洞穴物資，在波呂斐摩斯追擊並攻擊時存活下來，最後登上希臘船隻逃脫。所有遊戲 UI 皆使用英文。使用 https://cyclops-island.tripo.page/ 與提供的參考資料；保留 Jared 的署名，以及 Jason Chew 的 Odyssey island 概念啟發來源。
-
-## 2. 視覺方向
-打造一座材質細節豐富的地中海桌遊風格島嶼，寬約 25 個世界單位，坐落於深青色的愛琴海中。使用接近 (19,31,34) 的正交三分之四視角攝影機，搭配溫暖的石灰岩、鼠尾草色橄欖樹、陶土色布料、青銅盔甲與奶油色羊皮紙。套用 ACES 色調映射、溫暖的定向陰影、大氣深度、克制的泛光、暈影與顆粒效果。危險標記在這些效果下仍須清楚易讀。
-
-使用在地化的 Cormorant Garamond 風格襯線標題與 DM Sans 風格 UI。左上角顯示 Ω 印記、ODYSSEY / AN INTERACTIVE MYTH、BOOK IX 與 The Cyclops’ Island。右上方放置醒目的奶油色比較卡片，顯示「One island. Two worlds.」，並提供 Tripo World 與 Original 控制項。左下角顯示任務階段、三顆愛心、體力與船員人數。上方顯示首領狀態，下方放置小型羅盤／小地圖，並顯示攝影機控制與簡潔的操作提示。在手機上使用精簡的裝飾性文案，並分開顯示任務、首領、比較與 Dodge 控制項。
-
-## 3. 世界
-一條蜿蜒的淺沙路徑從南方登陸海灘向北延伸，穿過橄欖樹林，通往一座石灰岩洞穴。巨人沉睡在洞穴附近；奧德修斯與船員從南方路徑開始。碼頭西南方放置一艘掛著紅帆的木船。海岸周圍布置不規則巨石、草地、柏樹與綠松石色淺灘。讓海面波紋、岸邊泡沫、樹木、火光、鳥群與船隻搖曳產生動畫。攝影機旋轉時，海洋的運動必須維持正確。
-
-## 4. 資產清單
-依照以下順序準備替換插槽：
-- `odysseus`：留著鬍鬚的希臘冒險者，戴著帶深紅色馬鬃冠的青銅科林斯式頭盔，穿著風化的胸甲、象牙色束腰外衣與陶土色披風，腳穿涼鞋，配備小型盾牌與入鞘長劍。供三名船員重複使用，但各自使用獨立骨架與動畫階段。
-- `polyphemus`：身材魁梧的巨人，正中央恰好只有一隻眼睛，棕褐色橄欖色皮膚、捲曲的深色頭髮與鬍鬚，穿著毛皮／皮革纏腰布，雙腳粗厚裸露，手持木棒；以全身中立姿勢製作，並確保可進行骨架綁定。
-- `ship`：狹長的深胡桃木船身、高聳船首、青銅撞角、桅杆、陶土紅色船帆、繩索索具與側槳；不要包含水面或展示底座。
-- `olive`：扭曲的灰棕色樹幹、向外延伸的根系與不規則的鼠尾草色樹冠；重複使用約 25 次。
-- `cave`：寬闊、獨立矗立且風化的石灰岩拱門，必須有真正開放的通道，搭配厚重岩石與稀疏苔蘚；黑暗內部另行製作。
-- `cypress`：細長、逐漸收尖的地中海樹木，具有濃密的深綠色葉叢。
-- `boulder`：不規則的暖色石灰岩海岸岩石；以不同縮放比例與旋轉角度重複使用。
-地形、路徑、水面、草地、物資標記、戰鬥預警、粒子與 UI 皆維持程序化製作。追蹤每個插槽，並在替換外觀時保留遊戲地圖。
-
-## 5. 逃脫遭遇戰
-使用相對於攝影機方向的 WASD／方向鍵，以及點擊／點按移動，並採用考量半徑的 A* 導航。船員以鬆散隊形跟隨；玩家與巨人須依照各自不同的體型，遵守地形、邊界與障礙物限制。Shift 可衝刺，Space 或大型觸控按鈕可閃避，E 可拾取附近物資，P 可暫停，Q／R 可旋轉，F 可跟隨主角。支援拖曳／平移、右鍵拖曳／旋轉、滾動／縮放與觸控雙指縮放。追擊期間，點擊移動會在體力允許時以衝刺速度前進。
-
-階段 1：接近洞穴；距離過近與嘈雜的衝刺會提高警戒值，並可能吵醒巨人。階段 2：只能在近距離收集物資，而且每次收集都必定會喚醒巨人。階段 3：當船員登船時，在標記的碼頭半徑約 2.7 個單位內、接近 (-0.8,8.7) 的位置累積存活 11 秒；離開範圍會暫停進度。
-
-提供三點生命值與 100 點體力。初始速度：步行 2.35、衝刺 4.15、巨人奔跑 3.4 個單位／秒。巨人必須追至 3.6 個單位距離內才能攻擊。使用睡眠、甦醒、追擊、蓄力、命中、恢復與終止狀態。Ground Breaker 在 1.12 秒蓄力開始時鎖定玩家位置，顯示半徑 2.45 的圓圈並攻擊一次；目標不得跟隨玩家移動。每第三次重擊會釋放清楚標示的蓄力擴張衝擊波；傷害依照移動中的環形邊緣判定。
-
-閃避持續約 0.34 秒，消耗 24 點體力，冷卻時間為 1.25 秒，並提供短暫無敵與有效地面約束。衝刺會消耗體力；休息會恢復體力。受到攻擊時產生擊退、受傷回饋與暫時免疫。戰敗會重設所有角色、計時器、效果與任務狀態。成功逃脫後停止受到傷害，並開啟重玩摘要。暫停時凍結模擬、動畫與效果。調整登船流程，要求玩家進行數次閃避，其中包括一次蓄力攻擊。
-
-## 6. 實作與動畫
-使用 Vite、Three.js 與 JavaScript ES modules，分別處理世界、導航、遭遇戰、角色、效果、音訊與 UI。在靜態建置中，將所有執行階段資產以本機方式打包。初始組裝模型必須能夠行走／奔跑、睡眠／甦醒、閃避，並明顯進行蓄力／攻擊動作。對於使用蒙皮的替換模型，使用 AnimationMixer、實際的動畫剪輯名稱、短暫交叉淡化，以及 SkeletonUtils.clone 來建立獨立的船員骨架。避免根節點位移重複與腳部滑動。讓巨人的下劈攻擊與遊戲中的命中時機同步；不得將靜態匯入誤報為動畫。必要時保留可運作的組裝式備援。僅在需要修復骨架、樞紐、動畫剪輯或網格時使用 Blender。
-
-同步橘色／金色預警、命中閃光、地面裂痕、塵土、火花、墜落岩屑、擴張環、短暫光效與攝影機震動。加入閃避軌跡，以及可選的手勢觸發合成音訊。池化效果、使用實例化場景物件，並測量影格時間。匯入內容須正規化，確保腳部／根部貼地，同時保持碰撞代理不變。比較功能須保留位置、任務、生命值、體力、攝影機與動畫狀態；匯入失敗時保留可運作的模型。加入低調的 Change hero 控制項，以及具備各插槽狀態顯示的本機模型匯入功能。
-
-## 7. 驗收
-交付原始碼、lockfile、npm 開發／建置指令與靜態輸出。確認障礙物導航、提前喚醒、近距離收集、攻擊前追擊、目標鎖定、定時攻擊、閃避無敵、衝擊波邊緣傷害、戰敗／重設與成功逃脫皆正常運作。檢查船員的獨立動畫、所有插槽備援、保留狀態的比較功能、桌面／手機版面配置與載入錯誤。將穩定後的截圖與參考資料比較，並回報實際效能。使用下方共用工作流程進行模型生成並回傳。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
-
-Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
-
-Make it feel like a small playable game:
-
-Control Odysseus with WASD or arrow keys
-Click the ground to walk
-Drag to pan the camera
-Scroll to zoom
-Add subtle water, tree, character, and environmental animation
-Add camera rotate, zoom, reset-view, and pause controls
-Use collision so the player cannot walk through rocks, trees, or water
-
-Add a dark literary UI panel in the bottom-left:
-
-“Lead Odysseus along the sandy path to the cave.”
-Show the current character and movement state below it.
-Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
-Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cyclops-island-threejs-game) · [查看原文](https://x.com/jaredliu_bravo) · [線上展示](https://cyclops-island.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100233407108137349"></a>
-
-### 地下車站中的 AAA CGI 超自然格鬥短片
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-16 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/a480866311ee8faa564828c07283035ea6fe728ab7d676c468934bb5f75438a4.webp" width="840" loading="lazy" alt="地下車站中的 AAA CGI 超自然格鬥短片"></a>
-
-**提示詞**
-
-```text
-所有角色、背景群眾與車站環境都統一採用明顯經過數位雕刻的高階 AAA 奇幻遊戲 CG 外觀。人物近景必須維持精修遊戲角色的臉部、清楚的編辮髮束與風格化寫實皮膚，不得變成真人演員、cosplay、一般 gameplay、2D 動畫或賽璐珞風格。保留現代地下車站中的超自然格鬥場景，不得改成中世紀城堡、雪山或拳擊擂台。色彩採低飽和冷青灰、深炭黑、青灰色鱗皮與冷白燈帶，少量黃色護欄、紅色號誌燈、青銅護目框、銅綠色肩甲與赭紅色腰帶構成局部色彩；眼睛的蜂蜜金色光芒與擊中柱子時的短暫紫光只在對應瞬間出現，不得讓全片染成紫色。
-
-環境：寬闊而昏暗的地下鐵路車站，中央為下沉式軌道區，設有鋼軌與碎石，兩側是高於軌道的月台；月台邊緣設有玻璃金屬屏蔽欄與黃色直向邊框，地面有黃色安全線、灰色磚面與排水格柵，粗大的白色圓柱支撐低矮天花板，頂部連續排列冷白長燈帶與圓形燈，遠處的小型紅色號誌燈延伸至深處。月台上有數十名穿著深淺色普通外套的成年乘客，分散在柱子旁或護欄後；受戰鬥驚動後退、縮身並抬臂防護，始終只是背景群眾，不得參與格鬥、變成主角或複製相同臉孔。不得有列車駛入，標牌僅保留模糊幾何色塊，不得出現可讀文字。
-
-兩名主要戰鬥者固定如下：A 護目武者是高挑、精瘦且具運動員體型的成年男性，膚色為溫暖深棕色，顴骨與下顎線條清楚；黑色貼頭短辮在腦後束成短辮結。前額固定佩戴一副窄青銅框、煙灰色的可掀式護目罩，平時遮住雙眼，鼻梁以下與嘴部露出。穿著灰藍色無袖交疊領戰鬥上衣、深褐色束腰帶、炭黑色長褲與深棕色低筒靴；雙前臂纏著灰色布帶，雙手手指外露，始終空手，不得有披風、手持武器或可讀徽章。表情從容，動作敏捷而果斷；僅在指定鏡頭中用右手短暫抬起護目罩邊緣，露出一隻明亮的蜂蜜金色眼睛，隨後將護目罩放回遮眼位置。這是同一件固定在前額的實體護目裝備，不得變成布條或消失。
-
-B 鱗脊鬥獸是比 A 更高、更寬厚的肌肉型雙足人形異獸，深青灰色粗鱗覆蓋寬厚的胸背與四肢，腹部則是較細密的灰青色鱗片；頭部寬扁、呈蜥蜴形，具有短鈍吻、厚重下顎、兩隻深琥珀色眼睛與短粗牙齒。頭部不得有人的頭髮、面具或樹枝狀突起。B 從自身左肩至左前臂生長出厚實的銅綠色天然甲片，左肩上緣固定排列一排短而鈍的骨鰭；右臂保留較淺的灰青色粗鱗，左右特徵絕不得互換。骨鰭與甲片屬於身體的一部分，肩膀上不得有花朵。穿著暗棕色寬鬆闊腿戰褲、赭紅色織物腰帶與兩條垂下的窄帶尾，腳踝纏著深褐色布料，腳掌寬大且覆有鱗片，必須保留適合抵住牆面的清楚腳底。不得有尾巴、翅膀、額外手臂、長角、劍、槍、盾牌或手持道具。B 是能在正常車站中活動的高大異獸，必須與 A 及乘客維持穩定比例，不得膨脹成高樓般的巨人。
-
-0.00–3.70 秒：第一幀便進入交鋒。以貼近軌道的低機位短鏡頭看見 B 快速踏步逼近，隨即切到 A 背後的中景；B 從前方衝來，抬腿轉髖，踢出一記頭部高度的側踢。A 屈膝低頭並側傾上身，踢腿從黑色短辮上方掠過；B 落腳轉身，A 隨即起身。切至明顯 Dutch angle 的軌道低位雙人廣角，A 提膝接一記高位側踢，B 降低頭肩閃避，A 收腿並回到支撐腳。鏡頭回到 A 肩後的近距離跟拍，B 追上一連串擺臂拳擊；A 以短距離偏頭、沉肩與轉身讓拳頭擦過臉側，不得原地反覆揮拳等待對方出招。天花板燈帶隨鏡頭甩動形成具方向性的拖影，身體之間的相對位置必須清楚。
-
-3.70–6.40 秒：B 的淺灰青色右拳再次伸到 A 面前，A 張掌截住其手腕與前臂，接觸位置清楚可見。攝影機貼近 A 從容的側臉，接著隨他轉腳、旋髖與轉肩，迅速繞至低位全身視角。A 持續抓住同一條右臂，將 B 拉離支撐，沿身體側上方甩起；B 雙腳離地，赭紅色腰帶與寬褲因慣性滯後。甩起至最高點時僅使用極短的 ultra slow motion，隨即恢復高速。A 完成轉體後鬆手，B 沿原本的弧線頭下腳上翻落，肩背接觸軌道地面，碎石與灰塵從接觸點迸出。低機位攝影機追隨翻落並短促震動；B 順勢滾動、撐起上身，四肢保持完整。不得出現斷臂、無接觸的念力投擲，或憑空重新站起。
-
-6.40–9.20 秒：B 仍在低位恢復時，A 已經蹬地躍近。鏡頭從 B 身後仰拍 A 在半空轉髖展腿，跳躍最高點短暫放慢，接著在下落時以橫向飛踢壓向 B 的頭肩。B 抬起雙臂格擋並被壓得偏轉；A 落腳後立刻跟進，不得落地站著等待。攝影機隨 A 下落並繞到側面迅速拉近，形成略微傾斜的肩上與臉部交替近景。A 閃過 B 回掃的手臂，以短拳擊向軀幹，再以一記張掌接觸臉側，將 B 的頭推偏；接觸後頭頸才依照受力方向轉動。手掌、臉部與前臂不得融合。B 左肩的骨鰭必須隨同側肩甲與軀幹轉動。
-
-9.20–11.20 秒：A 借著推壓臉側後形成的空間轉體收腿，隨即向前送出有力的側踹，鞋底接觸 B 的腹部至下胸。B 的軀幹先折起，雙腳隨後離地，沿側上方飛向月台。鏡頭跟隨 B 掠過月台邊緣；B 的上背與肩膀撞上白色圓柱，柱面由接觸點向外裂開，淺色碎片與粉塵落下，B 沿柱面回落到月台地面。A 收腿後從軌道區躍上同一座月台追近；切鏡後必須出現在該柱旁的連續位置，不得瞬移到另一座車站。乘客向兩側躲開，柱子受損但不得整體倒塌。
-
-11.20–12.80 秒：切至 B 撞擊後的臉部近景。B 抬頭、轉臉尋找 A，左肩的銅綠色甲片與短骨鰭仍然存在。迅速轉為同一根柱子兩側的近景構圖：B 位於右前景，A 在柱旁左後景，帶著輕微冷笑但不說話。A 用右手抬起青銅框護目罩的邊緣，露出一隻明亮的蜂蜜金色眼睛直視 B，停留時間極短；接著用右手放下護目罩，使其重新遮住雙眼，同時準備閃避。不得留下原本對白的停頓或說話嘴型。
-
-12.80–13.80 秒：B 轉肩揮出淺灰青色右拳，打向 A 所在的位置。A 在拳頭抵達前迅速側移，繞到柱後；拳頭擊中實體白柱，接觸瞬間爆出緊湊的紫色能量閃光，裂縫延伸，碎屑向下掉落，短暫紫光立即消散。近景先呈現拳面壓入柱面的畫面，再快速拉寬，顯示 B 揮空而 A 已經繞到側方。柱子仍是先前那根受損的柱子；不得把 A 變成紫色煙霧，也不得讓拳頭穿過人體。
-
-13.80–16.00 秒：低位傾斜廣角中，A 在柱子側前方壓低身體，抬手做出短促的引誘手勢，B 轉身撲來。A 蹬地騰空完成一次連續後空翻：先仰身、雙腳向上越過頭頂，再收腹通過倒置階段，躲過 B 橫掃的手臂。鏡頭隨身體向上傾轉，在倒置階段短暫放慢，燈帶沿著傾斜的背景掠過。A 繼續同一次翻轉，雙腳回到身體下方，落在 B 側後方的月台空地，屈膝吸收落地力量，衣角與腦後短辮隨慣性回落。背景乘客驚恐閃避，不得被視為額外攻擊者。A 沒有被擊飛，也不得在半空反覆翻跟斗拖延時長。
-
-16.00–18.50 秒：A 剛站起，B 便轉身追上，以一記大幅度擺臂擊向 A 的頭側。A 先後仰再下潛，讓 B 的淺灰青色右臂從頭頂橫過；雙手順勢控制那條前臂，踏入對方身體前側並轉背降低重心。A 將 B 的手臂帶過自己的肩膀，利用 B 持續向前的動量完成一次過肩摔。B 的髖部翻過支點，雙腳離地，背部落在月台磚面，碎磚與粉塵沿地面散開。鏡頭從貼肩近景退至低位中廣景，完整交代翻轉與落地；A 保持站立，鬆手讓 B 落下。B 立即翻身撐地並屈腿起身，A 轉向 B 繼續施壓，將起身與追近連接起來，不得保留站著說台詞的長停頓。
-
-18.50–20.65 秒：B 衝回近身距離，A 搶先以短直拳擊向臉側，收拳護住胸前，隨後壓低身體攻擊腹肋。B 抬臂擋住其中一擊，並以粗重手臂橫掃反擊。A 貼近 B 胸肩內側低頭閃過，抬前臂撥開收回的拳，再以緊湊短拳接觸下顎與上胸。鏡頭繞著兩人肩側高速小幅移動；頭部與身體必須在實際接觸後才產生回彈。以一組連續的進攻、格擋、撥開與反擊完成此段，不得拍成輪流揮空拳、彼此毫無反應，或雙拳持續黏在一起。
-
-20.65–21.85 秒：直接切至正上方俯拍，清楚看見兩人圍繞同一小片地磚移動。A 的黑色短辮與青銅護目框、B 左肩的銅綠色甲片與赭紅色腰帶是固定辨識特徵。B 以大幅度手臂從 A 身側掃過，A 縮肩鑽入手臂內側，左右腳依序換位；一手撥開對方前臂，另一隻拳打入胸腹，接著收手並隨 B 的轉體調整位置。地面的落磚與排水格柵保持原位。俯拍展示近身攻防路線，不得增加替身或第三名格鬥者。
-
-21.85–24.00 秒：切回越過 B 肩部的緊近景。A 繼續一組短促、上下段交替的拳擊，並側頭閃開 B 從上方繞來的手臂。纏布前臂與灰青色粗鱗拳臂彼此交錯，但邊界必須清楚。鏡頭追隨 A 的拳頭急速推進，在兩個強烈接觸點加入僅數幀的黑白高反差曝光閃變與立體衝擊輪廓，隨即回到原本的冷青灰 AAA CGI 風格，不得切換成漫畫、文字或 2D 插畫。最後一記直拳明確擊中 B 的腹部，腹部向內壓縮，上身折起；B 從上方揮來的手臂隨軀幹失去前進方向。A 的腳底穩定支撐，力量由腿部、髖部與肩膀傳至拳面，拳頭不得穿透身體。
-
-24.00–28.00 秒：緊接同一記腹部重擊造成的後果，B 雙腳離地向後飛出。鏡頭低貼月台邊緣，沿車站長軸高速追蹤，連續掠過白色柱子、黃色邊框、玻璃欄板與驚愕的人群；背景線條因速度拉長，B 的青灰色鱗甲身軀、暗棕色褲子、赭紅色腰帶與左肩銅綠色甲片始終清楚可辨。透過長軸廣角、柱子擦過前景的快速切鏡，以及從下方仰拍的近景，呈現 B 在慣性中翻轉、伸臂試圖恢復平衡；被帶起的碎片沿相同飛行方向掠過軌道。B 隨後撞破月台邊緣一段玻璃金屬屏蔽欄，玻璃在身體接觸後碎裂，金屬框彎折；B 越過破口繼續進入軌道區，切至軌道側壁方向的廣角。這仍是上一記腹部重擊引起的連續飛行，不得新增畫外踢擊、第二次發射或擊飛乘客；A 不得複製到每根柱子後方。
-
-28.00–30.00 秒：固定側向中廣景，深灰色垂直軌道牆位於畫面左側，對面的月台與護欄後乘客位於右後方，長燈帶指向車站深處。B 在空中轉為雙腳朝牆，雙腳掌清楚接觸垂直牆面，屈膝收腹形成緊湊蜷曲；腳下擦出少量牆灰。隨後在 ultra slow motion 中緩緩伸膝、將軀幹向外轉開，身體逐漸接近水平；腳掌仍抵住牆面，赭紅色腰帶、寬褲與細小碎片持續運動，呈現接觸、壓縮與蓄力的連續過程，不得變成背部撞牆、懸空凍結或站在橫倒的地面上。
-
-30.00 秒結束時，B 仍以雙腳抵住牆面、身體向外展開，畫面保持動態；不得加入完整的蹬牆反撲、落地、死亡或勝負結局，不得黑屏、淡出或出現片尾卡。
-
-節奏與連續性：保留快速追擊、近身閃避、投摔、空翻、飛踢、擊柱、俯拍短打與跨月台位移的動作順序，縮短觀望與原本對白的停頓。只有甩起最高點、空中閃避與最後抵牆階段使用局部慢動作，最後階段明確使用 ultra slow motion；正常攻防必須高速流暢，不得全局慢放，也不得用定格補足時長。A 的黑色短辮、深棕色膚色、青銅框護目罩、灰藍色無袖上衣與纏布前臂必須維持；露眼動作前後的護目罩狀態必須明確。B 左側的銅綠色甲片與短骨鰭、右側的灰青色粗鱗手臂、蜥蜴狀寬頭、暗棕色褲子與赭紅色腰帶必須維持；骨鰭不得掉落、換邊或變成武器。被擊倒者必須先接觸地面，再恢復支撐；主動跳躍必須先蹬地；受擊飛行必須先有接觸；牆面制動必須先由腳掌接觸，再屈膝。所有運動都要保留重量、慣性與方向。背景群眾持續做出各不相同的自然閃避動作，並與主要戰鬥者維持清楚的空間關係，不得融合，也不得突然穿入拳腳路徑；受損柱面、落磚與破碎欄板在後續鏡頭中維持破壞狀態。不得有額外兵器、多肢、噴血或肢解。
-
-嚴格禁止背景音樂：影片任何時段都不得生成背景音樂、電影配樂、音樂音軌、旋律、節奏性打擊樂、合唱、歌曲、音樂性持續音或具音高的氛圍鋪底。僅允許與畫面同步、且在物理上屬於場景的畫內聲（diegetic audio）：地下車站內的通風聲與空間回音、鞋底踩踏與摩擦聲、衣料與赭紅色腰帶甩動聲、拳腳破風聲、實際接觸時的悶擊聲、非語言呼吸與短促痛哼、碎石滾動聲、混凝土裂開聲、玻璃碎裂聲、金屬欄框彎折聲、乘客後退的腳步聲、短暫紫光接觸時的非旋律電裂聲，以及最後腳掌抵牆摩擦與牆灰落下的聲音。不得有對白、旁白、可理解的喊叫詞、歌曲或字幕；不得使用脈衝聲、管弦樂重擊、旋律化音效設計或節奏性音效填補沒有音樂的空缺，不得把連續拳擊、腳步或碎玻璃聲編排成鼓點，也不得把通風聲延伸成音樂性持續音。出現任何背景音樂或配樂即判定為不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 不得有標題、可讀的站名、logo、interface、播放器控制項或watermark。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-全部角色、背景群众与车站环境统一使用明显经过数字雕刻的高级AAA奇幻游戏CG外观，人物近景必须保持精修游戏角色脸、清楚的编辫发束与风格化写实皮肤，不变成真人演员、cosplay、普通gameplay、2D动画或赛璐璐。保留现代地下车站中的超自然格斗场景，不改成中世纪城堡、雪山或拳击擂台。色彩为低饱和冷青灰、深炭黑、青灰鳞皮与冷白灯带，少量黄色护栏、红色信号灯、青铜护目框、铜锈绿肩甲和赭红腰带形成局部色彩；眼睛的蜂蜜金光与击柱时的短紫光只出现在对应瞬间，不全片染成紫色。环境：宽阔而昏暗的地下铁路站，中央下沉轨道区、钢轨与碎石，两侧高出轨道的站台；站台边缘是玻璃金属屏蔽栏与黄色竖向边框，地面有黄色安全带、灰色砖面、排水格栅，粗大白色圆柱支撑低天花板，顶部连续冷白长灯带与圆形灯、远处小红信号灯延伸至深处。站台有数十名穿普通深浅外套的成年乘客，分散在柱旁或栏后，受战斗惊动后退、缩身和抬臂保护，始终为背景群众，不参与格斗、不变成主角、不复制相同面孔。没有列车驶入，标牌只保留模糊几何色块，无可读文字。两名主战者固定：A护目武者为高挑精瘦运动体型成年男性，暖深棕肤色、清楚的颧骨与下颌，黑色贴头短辫在脑后束成短辫结；前额固定一副窄青铜框烟灰色可掀护目罩，平时遮住双眼，鼻梁下方与嘴部露出。穿灰蓝色无袖交叠领战斗上衣、深褐束腰带、炭黑长裤和深棕低帮靴；双前臂缠灰色布带，双手手指外露，始终空手，无披风、手持武器或可读徽章。表情从容，动作敏捷而果断；仅在指定镜头用右手短暂抬起护目罩边缘，露出一只明亮蜂蜜金色眼睛，随后护目罩放回遮眼位置；这是同一件固定在前额的实体护目装备，不变成布条，不消失。B鳞脊斗兽为比A更高、更宽厚的肌肉型双足人形异兽，深青灰色粗鳞覆盖宽厚胸背与四肢，腹部为较细密的灰青鳞片；宽扁的蜥蜴状头部、短钝吻、厚颌、两只深琥珀眼睛和短粗牙齿，头部没有人类头发、面具或树枝状突起。B自身左肩至左前臂生长厚实的铜锈绿色天然甲片，左肩上缘固定一排短而钝的骨鳍；右臂保留较浅灰青色粗鳞，左右绝不互换，骨鳍与甲片属于身体，肩上没有花朵。穿暗棕色宽松阔腿战裤、赭红色织物腰带与两条垂下的窄带尾，脚踝缠深褐布，脚掌宽大有鳞，保持适合抵墙的清楚脚底；没有尾巴、翅膀、额外手臂、长角、剑、枪、盾牌或手持道具。B是能进入正常车站的高大异兽，保持与A及乘客的稳定比例，不膨胀成高楼巨人。0.00–3.70秒：第一帧便进入交锋。贴近轨道的低机位短镜头看见B快速踏步逼近，随即切A背后中景，B从前方冲来，抬腿转髋，横扫一记头部高度的旋踢；A屈膝低头并侧倾上身，踢腿从黑色短辫上方掠过，B落脚转回，A随即起身。切明显Dutch angle的轨道低位双人宽景，A提膝接一记高位横踢，B降低头肩避过，A收腿落回支撑脚。镜头回到A肩后近距离跟拍，B追上一组连续摆臂拳击，A以短距离偏头、沉肩和转身让拳从脸旁擦过，不原地反复摆拳等对方出招；天花板灯带随镜头甩动形成方向性拖影，身体关系保持清楚。3.70–6.40秒：B的浅灰青色右拳再次伸到A面前，A张掌截住其手腕与前臂，接触位置可见；摄影机贴近A从容的侧脸，然后随他转脚、旋髋和转肩迅速绕至低位全身视角。A保持抓住同一条右臂，将B拉离支撑、沿身体侧上方甩起，B双脚离地，赭红腰带和宽裤随惯性滞后。甩起最高处只有极短ultra slow motion，随即恢复高速；A完成转体后松手，B沿原弧线头下脚上翻落，肩背接触轨道地面，碎石与灰尘从接触处迸出。低机位摄影机追随翻落并短促震动，B顺势滚动、撑起上身，保持四肢完整；不是断臂、无接触念力投掷或凭空重新站起。6.40–9.20秒：B仍在低位恢复，A已经蹬地跃近，镜头从B身后仰拍A在半空转髋展腿，跳跃最高点短暂放慢，然后下落时以横向飞踢压向B头肩；B抬起双臂迎挡并被压得偏转，A落脚后立刻跟进，不落地站着等待。摄影机随A下落和绕侧迅速拉近，形成略倾斜的肩上与面部交替近景；A闪过B回扫的手臂，用短拳击向躯干，再以一记张掌接触脸侧把B的头推偏，接触后头颈才顺方向转动。手掌、脸与前臂不能融合，B左肩骨鳍随同一侧肩甲和躯干转动。9.20–11.20秒：A借脸侧推压后的空间转体收腿，随即向前送出有力侧踹，鞋底接触B腹部至下胸；B躯干先折起、双脚随后离地，沿侧上方飞向站台。镜头跟着他掠过站台边缘，B上背和肩撞上白色圆柱，柱面由接触点向外开裂，浅色碎片和粉尘落下，B沿柱面回落到站台地面。A收腿后从轨道区跃上同一站台追近，切镜后出现在该柱旁的连续位置，不瞬移到另一个车站；乘客向两侧躲开，柱子受损但不整体倒塌。11.20–12.80秒：切B受撞后的脸部近景，它抬头、转脸寻找A，左肩铜锈绿甲片与短骨鳍仍在；迅速转为同柱两侧的近景构图，B占右前景，A在柱旁左后景，轻微冷笑但不说话。A用右手抬起青铜框护目罩边缘，露出一只明亮蜂蜜金色眼睛，直视B，停留很短；他用右手放下护目罩使其重新遮住双眼，身体同时准备避让，不留下原本对白的停顿或说话口型。12.80–13.80秒：B转肩挥出浅灰青色右拳打向A所在位置，A在拳头到达前迅速侧移绕出柱后；拳头击中实体白柱，接触瞬间爆出紧凑紫色能量闪光，裂缝延伸，碎屑向下掉，短紫光立刻消散。近景先看拳面压入柱面，再快速拉宽显露B打空而A已经绕到侧方，柱子仍是先前那根受损柱，不把A变成紫色烟雾，也不让拳穿过人体。13.80–16.00秒：低位倾斜宽景，A在柱子侧前方压低身体、抬手作一个短促招引手势，B转身扑来。A蹬地腾空完成一次连续后空翻，先仰身、双脚向上越过头顶，再收腹转过倒置阶段，躲过B横扫的手臂；镜头随身体向上倾转，在倒置阶段短暂放慢，灯带沿背景倾斜掠过。A继续同一次翻转，双脚回到身体下方，落在B侧后的站台空地，屈膝吸收落地力量，衣角与脑后短辫随惯性回落；背景乘客惊惧闪避，不被当成额外攻击者，A没有被打飞，也不在半空反复翻跟头拖时。16.00–18.50秒：A刚站起，B便转身追上，一记宽幅摆臂打向A头侧；A先后仰再下潜，让B的浅灰青色右臂从头顶横过，双手顺势控制那条前臂，踏入对方身体前侧并转背降低重心。A把B的手臂带过自己肩上，利用B仍向前的动量完成一次过肩摔；B的髋部翻过支点，双脚离地，背侧落在站台砖面，碎砖和粉尘沿地面散开。镜头从贴肩近景退到低位中广景，完整交代翻转与落地，A保持站立，松手让B落下。B立即翻身支撑并屈腿起身，A转向它继续施压，把起身与追近接起来，不保留站着说台词的长停顿。18.50–20.65秒：B冲回贴身距离，A抢先用短直拳击向脸侧，回手护住胸前，随后压低身体打向腹肋；B抬臂挡住其中一击并以粗重手臂横扫反击，A贴近其胸肩内侧低头避开，抬前臂拨开回收的拳，再以紧凑短拳接触下颌与上胸。镜头绕两人肩侧高速小幅移动，头部与身体在实际接触后才出现回弹；以一组连续进攻、挡拨和回击完成这一段，不拍成轮流挥空拳、互不反应或双拳持续贴在一起。20.65–21.85秒：直接切正上方俯拍，清楚看见两人围绕同一小片地砖转动，A的黑色短辫与青铜护目框、B左肩铜锈绿甲片与赭红腰带是固定辨识点；B宽幅手臂从A身侧扫过，A缩肩钻入手臂内侧，左右脚依次换位，一手拨开对方前臂，另一只拳打入胸腹，再收手随B的转体调整位置。地面的落砖与排水格栅保持原位，俯拍展示近身攻防路线，不增加一个替身或第三名格斗者。21.85–24.00秒：切回越过B肩部的紧近景，A继续一组短促上、下段交替拳击并侧头闪开B从上方绕来的手臂，缠布前臂与灰青粗鳞拳臂交错但边界清楚。镜头追随A的拳头急推，在两处强接触点加入仅数帧的黑白高反差曝光闪变与立体冲击轮廓，立即回到原来的冷青灰AAA CGI，不切成漫画、文字或2D插画。最后一记直拳明确压中B腹部，腹部向内压缩、上身折起，B上方挥来的手臂随躯干失去前进方向；A脚底稳住，力量由腿、髋、肩传到拳面，拳头不穿透身体。24.00–28.00秒：紧接同一记腹部重击的后果，B双脚离地向后飞出，镜头低贴站台边缘沿车站长轴高速追踪，连续掠过白柱、黄色边框、玻璃栏板和惊愕的人群；背景线条因速度拖长，B的青灰鳞躯、暗棕裤、赭红腰带与左肩铜锈绿甲片始终能辨认。通过长轴宽景、柱子擦过前景的快速切镜和从下方仰看的近景，展示B在惯性中翻转、伸臂试图恢复平衡，带起的碎片沿同一飞行方向掠过轨道。B随后撞破站台边缘一段玻璃金属屏蔽栏，玻璃在身体接触后碎开、金属框弯折，他越过破口继续进入轨道区，切至轨道侧壁方向的宽景；这仍是上一记腹部重击引起的连续飞行，不新增画外踢击、第二次发射或击飞乘客，A不会复制到每根柱子后方。28.00–30.00秒：固定侧向中广景，深灰垂直轨道墙在画面左侧，对面站台和栏后乘客在右后方，长灯带指向车站深处。B在空中转到脚先朝墙，双脚脚掌明确接触垂直墙面，屈膝收腹形成紧凑蜷曲，脚下擦出少量墙灰，随后在ultra slow motion中缓缓伸膝、躯干向外转开，身体逐渐接近水平；脚掌仍抵住墙面，赭红腰带、宽裤与小碎片持续运动，体现接触、压缩和蓄力的连续过程，不是背部撞墙、悬空冻结或站在横倒的地面。30.00秒结束在B仍以双脚抵墙、身体向外展开的活画面，不添加完整蹬墙反扑、落地、死亡或胜负结局，无黑屏、无淡出、无片尾卡。节奏与连续性：保留快速追击、贴身闪避、投摔、空翻、飞踢、击柱、俯拍短打和跨站台位移的动作顺序，缩短观察与原对白停顿；只有甩起最高处、空中闪避和最终抵墙阶段使用局部慢动作，最终明确ultra slow motion，正常攻防必须高速流畅，不全局慢放，不用定格补足时长。A的黑色短辫、深棕肤色、青铜框护目罩、灰蓝无袖上衣与缠布前臂保持，露眼动作前后护目罩状态明确；B的左侧铜锈绿甲片与短骨鳍、右侧灰青粗鳞臂、蜥蜴状宽头、暗棕裤与赭红带保持，骨鳍不掉落、不换边、不变武器。被击倒者先接触地面再恢复支撑，主动跳跃先蹬地，受击飞行先有接触，墙面制动先脚掌接触再屈膝，所有运动保留重量、惯性与方向。背景群众持续作不同的自然避让动作，和主战者保持清楚空间，不融合、不突然穿进拳脚路径；受损柱面、落砖和破碎栏板在后续镜头保持破坏状态。无额外兵器、无多肢、无喷血、无肢解。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：地下站内通风与空间回响、鞋底踩踏和擦地、衣料与赭红腰带甩动、拳脚破风、实际接触的闷击、非语言呼吸和短促痛哼、碎石翻滚、混凝土开裂、玻璃碎裂、金属栏框弯折、乘客后退脚步、短暂紫光接触的非旋律电裂声，以及最后脚掌抵墙摩擦和墙灰落下。无对白、无旁白、无可懂喊词、无歌曲、无字幕；不得用脉冲声、管弦乐重击、旋律化音效设计或节奏性音效填补没有音乐的空缺，不把连拳、脚步或碎玻璃声编排成鼓点，不把通风声延伸成音乐性持续音。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 无标题、可读站名、logo、interface、播放器控件或watermark。
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100233407108137349) · [查看原文](https://x.com/MadMax_Series/status/2100233407108137349) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100222426705453318"></a>
-
-### 可選擇地磚的互動式公寓導覽
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-16 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0c6d0d55a3e8911c68a86b2e83152c98ca4d199a428c8b29f9ad12657dd497b3.webp" width="840" loading="lazy" alt="可選擇地磚的互動式公寓導覽"></a>
-
-**提示詞**
-
-```text
-我希望你先在 Blender 中建立完全逼真的 HD 3D 渲染模型，再打造互動式網頁體驗，讓我能在公寓內走動並選擇地磚。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-I want you to build a completely realistic HD 3D render model in blender, then build interactive web experience so I can walk within the apartment, and choose tile options.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100222426705453318) · [查看原文](https://x.com/scheemunai/status/2100222426705453318) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100193512373592313"></a>
-
-### PC 版 Splatoon 開發與畫面重現
-
-[basio](https://x.com/basio39) · 2026-09-16 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014.webp" width="840" loading="lazy" alt="PC 版 Splatoon 開發與畫面重現"></a>
-
-**提示詞**
-
-```text
-/goal 請開發 PC 版 Splatoon，完整重現其畫面。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-/goal PC版スプラトゥーンを開発してください。グラフィックは完全に再現してください。
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100193512373592313) · [查看原文](https://x.com/basio39/status/2100194321987461503) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### 可互動的 3D 房間場景與可動家具
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="可互動的 3D 房間場景與可動家具"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**提示詞**
-
-```text
-根據我提供的房間照片，使用 Blender MCP 建立可互動的 3D 場景，並渲染成示範影片。加入可動物件的運動（鉸鏈、門片、抽屜），並採用合理的鏡頭運動來展示這些效果。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100139076816916977) · [查看原文](https://x.com/walterzhu8/status/2100139076816916977) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### 從參考圖片製作可動的 3D 空間與遊戲角色
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="從參考圖片製作可動的 3D 空間與遊戲角色"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**提示詞**
-
-```text
-【事先準備】
-・想要打造的世界觀參考圖片（外觀、房間等）
-・角色正典圖片（三面圖等）
-　※沒有圖片就無法重現，請附上喔
-
-【提示詞】
-根據附上的圖片，將我的世界觀與角色設計成可實際操作的 3D 空間與遊戲角色，達到專業製作品質。
-
-① 查看附上的圖片，確認房屋與角色的形狀、色彩及設計細節
-　↓
-② 使用 Tripo 將圖片生成 3D 模型（正面、背面、側面三張全身圖，並維持相同的長寬比）
-　↓
-③ 匯入 Blender，調整各部件的位置與尺寸
-　↓
-④ 設定自動骨架綁定，為角色加入符合其個性的走路、搖晃等動作
-　↓
-⑤ 若遇到需要判斷的分歧（例如使用付費資產），請在繼續之前先向我確認
-　↓
-⑥ 詳細記錄作業內容、遇到的問題與素材位置，確保其他 AI 閱讀後也能重現整個流程
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099850719839109597) · [查看原文](https://x.com/aiehon_aya/status/2099850721646784894) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### 可抵達的程序化太空探索遊戲
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="可抵達的程序化太空探索遊戲"></a>
-
-**提示詞**
-
-```text
-我看得到的所有地方都應該能抵達。維持真實尺度的距離，再透過尺度與速度讓旅行變得可行。我想從太空飛入行星大氣層，再一路下降到地面。行星可以和地球一樣大，因此需要程序化地形與分塊渲染器。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099785223827259515) · [查看原文](https://developers.openai.com/blog/how-to-build-games-with-astra) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### Apple 風格 3D 愛心與笑臉表情符號
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Apple 風格 3D 愛心與笑臉表情符號"></a>
-
-**提示詞**
-
-```text
-Apple 風格 3D 愛心表情符號與笑臉表情符號
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099750376530657300) · [查看原文](https://x.com/Just_sharon7/status/2099751278234767673) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### 互動式 3D 生物體神經系統面板
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="互動式 3D 生物體神經系統面板"></a>
-
-**提示詞**
-
-```text
-互動式面板。左側顯示 [organism] 的神經系統示意圖，並設有可點擊區域。右側顯示已完成程序化骨架綁定的 3D [organism]。點擊某個區域後，觸發持續 2.5 秒的動作反應。深色介面，顯示速度與航向的遙測資料。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099719427990134984) · [查看原文](https://x.com/AIMind_Ai/status/2099719427990134984) · [返回案例導覽](#all-prompts)
 
 ---
 

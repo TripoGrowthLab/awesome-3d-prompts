@@ -28,6 +28,18 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [火星の Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
+- [一つのグレーボックスから 3 テーマのカートゲームへ](#three-themed-kart-games-from-one-greybox-2095580402505400369)
+- [手続き生成による滝の表現研究](#procedural-waterfall-study-2095510069047660636)
+- [生命が息づくボクセル島 Aerie](#aerie-a-living-voxel-island-2095493630421340200)
+- [3D プリントできる可動フィギュア](#articulated-printable-action-figure-2095481098201387287)
+- [映画的な WebGL ブラックホール](#cinematic-webgl-black-hole-2095409039005933910)
+- [分解表示する AI サーバーラック](#exploding-ai-server-rack-visualization-2095193022304792938)
+- [宇宙探索と交易のゲーム](#space-exploration-and-trading-game-2095191999255035993)
+- [GTA 風マルチプレイオープンワールドの試作](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [コミック表現の Three.js カウボーイゲーム](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [人間対アラインメントされていない AGI のゲーム](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Blender の鉄球による破壊物理テスト](#blender-wrecking-ball-physics-test-2095177102400081940)
 - [企業共和国の迎撃ドローンアセット](#corporate-interceptor-drone-asset-2095176360238915978)
 - [フルティガーエアロの 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
 - [10 シーンで描く映画的なルネサンスサイト](#ten-scene-cinematic-renaissance-website-2095167881004908897)
@@ -66,20 +78,248 @@
 - [136,000 ボクセルを決定論的に生成する仏塔](#deterministic-136-000-voxel-pagoda-2094916609219461211)
 - [Blender 自動化で作る精巧なロボット](#detailed-robot-through-blender-automation-2094909825561805003)
 - [オープンワールド犯罪ゲームの試作](#open-world-crime-game-prototype-2094907986942591338)
-- [Mini Militia 風のブラウザゲーム](#mini-militia-style-browser-game-2094900523900219725)
-- [雨の海を一人称で探索するサンドボックス](#rainy-first-person-ocean-sandbox-2094900247000654222)
-- [空に浮かぶボクセル島](#floating-voxel-island-2094899802588713418)
-- [人々が暮らすボクセル中世王国](#living-voxel-medieval-kingdom-2094899477626720403)
-- [テクスチャ付き 3D アセットの制作手順](#textured-3d-asset-production-workflow-2094896750234378508)
-- [物理を使った 3 つのミニゲーム案](#three-compact-physics-game-concepts-2094895071304839400)
-- [Three.js で作る AAA 品質のカートレース](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [一度で作る Three.js 空港シミュレーション](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [五重塔を中心に浮かぶ和風都市](#floating-japanese-pagoda-city-2094886088963690607)
-- [Three.js で作る Airbus H145](#airbus-h145-in-three-js-2094882571083735351)
-- [第一次世界大戦のボクセルシミュレーター](#world-war-i-voxel-simulator-2094881469155914170)
-- [プライベートアイランドの未来的な邸宅](#futuristic-private-island-mansion-2094879208304685524)
 
 </details>
+<a id="arcadia-base-on-mars-2095595678214873212"></a>
+
+### 火星の Arcadia 基地
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="火星の Arcadia 基地"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+着陸する宇宙船、建設ロボット、探査車、蓄電、酸素と水の設備を備えた、遊べるボクセル火星コロニーを作成してください。砂嵐と停電がコロニーに影響するようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [元の投稿](https://x.com/knowixbuilds/status/2095595678214873212) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
+
+### 一つのグレーボックスから 3 テーマのカートゲームへ
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="一つのグレーボックスから 3 テーマのカートゲームへ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された Unity のカートレース用グレーボックスから、海賊、お菓子、サイバーパンクの 3 種類の遊べる作品を作成してください。走行の仕組みは再利用し、環境と演出を変更します。各ビルドを試遊し、目立つ不具合を修正してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [元の投稿](https://x.com/chetaslua/status/2095580402505400369) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="procedural-waterfall-study-2095510069047660636"></a>
+
+### 手続き生成による滝の表現研究
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="手続き生成による滝の表現研究"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+流れる水、飛沫、岩、大きさの感覚が伝わる Three.js の滝を作成してください。照明とカメラの構図で水の動きが分かるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-waterfall-study-2095510069047660636) · [元の投稿](https://x.com/RealFedeURU/status/2095510069047660636) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
+
+### 生命が息づくボクセル島 Aerie
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="生命が息づくボクセル島 Aerie"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+周回とズームで探索できる 3D ボクセル世界を作成してください。自律的な動きで生命感を出し、舞台と住人は自由に選んでください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [元の投稿](https://x.com/free_ai_guides/status/2095493630421340200) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="articulated-printable-action-figure-2095481098201387287"></a>
+
+### 3D プリントできる可動フィギュア
+
+[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="3D プリントできる可動フィギュア"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+キャラクター案を、3D プリントできるアクションフィギュアにしてください。Blender で可動ボールジョイントを作り、組み立てたフィギュアが自立できるか確認してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [元の投稿](https://x.com/_MaxBlade/status/2095481098201387287) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
+
+### 映画的な WebGL ブラックホール
+
+[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="映画的な WebGL ブラックホール"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+素の WebGL2 を使い、一つの HTML ファイルで映画的なブラックホールを作成してください。レイマーチングによる重力レンズ、手続き生成の降着円盤、ドップラービーミング、周回する粒子を含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [元の投稿](https://x.com/ekibuilds/status/2095409039005933910) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
+
+### 分解表示する AI サーバーラック
+
+[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="分解表示する AI サーバーラック"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+NVL72 ラックと GB300 システムの分解表示を Three.js で作成してください。部品ラベル、段階的な分離、構造が分かる照明、滑らかなカメラ遷移を実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [元の投稿](https://x.com/kylejeong/status/2095193022304792938) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### 宇宙探索と交易のゲーム
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="宇宙探索と交易のゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+操縦できる宇宙船、恒星系、ステーション、商品、契約、強化、リスク、旅を続けたくなる流れを備えた宇宙探索・交易ゲームを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [元の投稿](https://x.com/RealFedeURU/status/2095191999255035993) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### GTA 風マルチプレイオープンワールドの試作
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA 風マルチプレイオープンワールドの試作"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ニューヨークを舞台にした、GTA 風オープンワールドの初期マルチプレイ試作を作成してください。運転、徒歩移動、都市交通、ミッション、街が生きていると感じるゲームの流れを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [元の投稿](https://x.com/mattshumer_/status/2095187868746383758) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### コミック表現の Three.js カウボーイゲーム
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="コミック表現の Three.js カウボーイゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Sunset Riders のアーケードらしい勢いとコミック調の描画を組み合わせた、理想の Three.js カウボーイゲームを作成してください。反応のよい射撃、騎乗アクション、印象に残る見せ場を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [元の投稿](https://x.com/Smallzero/status/2095180091257209148) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### 人間対アラインメントされていない AGI のゲーム
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="人間対アラインメントされていない AGI のゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+人間がアラインメントされていない AGI とその配下のロボットに立ち向かう Three.js ゲームを一度で作成してください。明快な戦闘の流れ、強くなる敵の波、最終目標を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [元の投稿](https://x.com/lucasybai/status/2095180071221002441) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Blender の鉄球による破壊物理テスト
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender の鉄球による破壊物理テスト"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+吊られた鉄球がレンガの塔に衝突する、焦点を絞った Blender 物理テストを作成してください。自然なケーブルの挙動、レンガの崩壊、地面との衝突、状況の分かるカメラを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [元の投稿](https://x.com/abyssallD/status/2095177102400081940) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
 
 ### 企業共和国の迎撃ドローンアセット
@@ -851,248 +1091,6 @@ GTA 6 に着想を得たオープンワールドゲームを試作してくだ�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [元の投稿](https://x.com/vikktorrrre/status/2094907986942591338) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="mini-militia-style-browser-game-2094900523900219725"></a>
-
-### Mini Militia 風のブラウザゲーム
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/mini-militia-style-browser-game-2094900523900219725"><img src="../assets/previews/a72fb4b678a92d881096fcc6a02adc888425ee7da10d568b65ef164adc8b70c3.webp" width="840" loading="lazy" alt="Mini Militia 風のブラウザゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-反応のよい移動、照準、武器、小さなアリーナ、ボット、即座に伝わる命中とダメージの反応を備えた、Mini Militia 風アクションゲームを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [元の投稿](https://x.com/0x0SojalSec/status/2094900523900219725) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
-
-### 雨の海を一人称で探索するサンドボックス
-
-[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="雨の海を一人称で探索するサンドボックス"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-波、雨粒、雰囲気のある照明を備えた、一人称 3D 海洋サンドボックスを作成してください。没入感のあるカメラで水上を探索できるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [元の投稿](https://x.com/TimJayas/status/2094900247000654222) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="floating-voxel-island-2094899802588713418"></a>
-
-### 空に浮かぶボクセル島
-
-[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="空に浮かぶボクセル島"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-地形の層が分かる浮遊ボクセル島を作成してください。植物、水、建造物、環境の動きを加え、シーン全体を周回・観察できるカメラを用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floating-voxel-island-2094899802588713418) · [元の投稿](https://x.com/loktar00/status/2094899802588713418) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
-
-### 人々が暮らすボクセル中世王国
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="人々が暮らすボクセル中世王国"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-何千もの兵士、働く村人、攻城兵器、破壊可能な建造物、戦局を変えるドラゴンを備えた大規模なボクセル中世王国を作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [元の投稿](https://x.com/knowixbuilds/status/2094899477626720403) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
-
-### テクスチャ付き 3D アセットの制作手順
-
-[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="テクスチャ付き 3D アセットの制作手順"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-参考画像から整った 3D アセットを作り、Blender で法線とマテリアルを修正してから、Substance Painter で実制作に使えるテクスチャを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [元の投稿](https://x.com/MrCollison/status/2094896750234378508) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
-
-### 物理を使った 3 つのミニゲーム案
-
-[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="物理を使った 3 つのミニゲーム案"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-粘着ボールの障害物チャレンジ、カピバラの川サーフィン、餃子コンベアの回避ゲームという 3 つのミニゲームを磨き上げてください。それぞれに分かりやすい操作、得点、失敗条件を用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [元の投稿](https://x.com/atomicagent_io/status/2094895071304839400) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
-
-### Three.js で作る AAA 品質のカートレース
-
-[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-リミックス元: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Three.js で作る AAA 品質のカートレース"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-洗練された走行、個性的なコース、対戦相手、アイテム、UI、音、最初から最後まで遊べるレースの流れを備えた、AAA 品質の Three.js カートレースを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [元の投稿](https://x.com/bridgemindai/status/2094894312370692443) · [ソースコード](https://github.com/bridge-mind/turbo-kart-rush) · [デモ](https://bridge-mind.github.io/turbo-kart-rush/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### 一度で作る Three.js 空港シミュレーション
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="一度で作る Three.js 空港シミュレーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-滑走路、ターミナル、飛行機の地上走行と離陸、地上車両、時間帯で変わる光、全体を見渡すカメラを備えた Three.js 空港シミュレーションを一度で作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [元の投稿](https://x.com/AlexYTScaling/status/2094893572617044439) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### 五重塔を中心に浮かぶ和風都市
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="五重塔を中心に浮かぶ和風都市"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-精巧な仏塔を中心にした、操作できる空中の和風都市を作成してください。重なる島、橋、霧、灯籠の光、映画的な飛行操作を取り入れてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [元の投稿](https://x.com/vib3coded/status/2094886088963690607) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Three.js で作る Airbus H145
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Three.js で作る Airbus H145"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js で Airbus H145 ヘリコプターの 3D モデルを作成してください。キャビン、スキッド式着陸装置、ローター機構の特徴を再現し、細部を観察できるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [元の投稿](https://x.com/HarshithLucky3/status/2094882571083735351) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### 第一次世界大戦のボクセルシミュレーター
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="第一次世界大戦のボクセルシミュレーター"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-塹壕、兵士、車両、大砲、破壊表現、状況を把握しやすい戦術カメラを備えた、第一次世界大戦のボクセル戦場シミュレーターを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [元の投稿](https://x.com/Tech2Wild/status/2094881469155914170) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### プライベートアイランドの未来的な邸宅
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="プライベートアイランドの未来的な邸宅"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-私有島に建つ未来的な邸宅を、探索できる空間として設計してください。つながった 5 つの Three.js シーン、映画的カメラ移動、上質な素材、環境から伝わる物語で表現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [元の投稿](https://x.com/aimlapi/status/2094879208304685524) · [作例一覧に戻る](#all-prompts)
 
 ---
 

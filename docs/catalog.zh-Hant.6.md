@@ -28,6 +28,18 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [快速可玩遊戲原型](#rapid-playable-game-prototype-2095907526566990013)
+- [Blender 迴圈賽博朋克臥室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
+- [自動遊玩的國家文化街機遊戲](#self-playing-cultural-arcade-game-2095898198413922791)
+- [提示詞生成開放世界遊戲](#open-world-game-from-a-prompt-2095872986477908108)
+- [Three.js 梵高小鎮](#van-gogh-town-in-three-js-2095871735824339279)
+- [機械結構完整的 Blender 機車](#mechanically-complete-blender-locomotive-2095868420327710840)
+- [30 秒 Blender 場景挑戰](#thirty-second-blender-scene-challenge-2095844872171421771)
+- [單輪 Three.js 海戰場景](#single-turn-three-js-naval-war-scene-2095840435319001278)
+- [歷任總統時期的橢圓形辦公室](#oval-office-through-the-presidencies-2095830596069290077)
+- [食譜轉 3D 芝士蛋糕影片](#recipe-to-3d-cheesecake-film-2095829851206774987)
+- [Tidal Rush 八人卡丁車遊戲](#tidal-rush-eight-racer-browser-game-2095819786651374023)
+- [互動式 Three.js 星系首頁](#interactive-three-js-galaxy-homepage-2095806515579879457)
 - [實時 WebGL 星系首屏](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [可漫步的星月夜街道](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [真實住宅轉 60 FPS 可編輯 Blender 場景](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
@@ -66,20 +78,255 @@
 - [一次生成的 Minecraft 風世界](#one-shot-minecraft-style-world-2095597137849446688)
 - [瀏覽器開放世界冒險](#open-world-browser-adventure-2095596341422440714)
 - [Unreal 自主人類生存社會](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
-- [火星 Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
-- [一個灰盒生成三款主題卡丁車遊戲](#three-themed-kart-games-from-one-greybox-2095580402505400369)
-- [程式化瀑布場景](#procedural-waterfall-study-2095510069047660636)
-- [Aerie 鮮活體素島嶼](#aerie-a-living-voxel-island-2095493630421340200)
-- [可動關節列印人偶](#articulated-printable-action-figure-2095481098201387287)
-- [電影感 WebGL 黑洞](#cinematic-webgl-black-hole-2095409039005933910)
-- [爆炸式 AI 伺服器機架視覺化](#exploding-ai-server-rack-visualization-2095193022304792938)
-- [太空探索與交易遊戲](#space-exploration-and-trading-game-2095191999255035993)
-- [GTA 風格開放世界多人原型](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
-- [漫畫風 Three.js 牛仔遊戲](#comic-book-three-js-cowboy-game-2095180091257209148)
-- [人類對抗失控 AGI 遊戲](#human-versus-unaligned-agi-game-2095180071221002441)
-- [Blender 拆樓球物理測試](#blender-wrecking-ball-physics-test-2095177102400081940)
 
 </details>
+<a id="rapid-playable-game-prototype-2095907526566990013"></a>
+
+### 快速可玩遊戲原型
+
+[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="快速可玩遊戲原型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在嚴格時間與 Token 預算下建立視覺連貫的可玩遊戲原型。優先保證一個完整迴圈、靈敏輸入、清晰回饋、穩定效能和可交付瀏覽器版本，而不是堆功能數量。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [查看原文](https://x.com/gibglue/status/2095907526566990013) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
+
+### Blender 迴圈賽博朋克臥室
+
+[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender 迴圈賽博朋克臥室"></a>
+
+**提示詞**
+
+```text
+在 Blender 中建立一個電影感賽博朋克臥室，俯瞰雨夜霓虹城市。加入動態廣告牌，讓畫面達到照片級並實現無縫迴圈。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [查看原文](https://x.com/CoinSh0t/status/2095898303019856230) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
+
+### 自動遊玩的國家文化街機遊戲
+
+[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="自動遊玩的國家文化街機遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+為一個 G7 國家建置自動遊玩的街機遊戲。把一個可辨識文化地標轉成核心機制，讓無人操作時也能看懂玩法，並加入計分、升級挑戰和記憶點揭曉。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [查看原文](https://x.com/say_gm_/status/2095898198413922791) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
+
+### 提示詞生成開放世界遊戲
+
+[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="提示詞生成開放世界遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+根據這個概念建置開放世界遊戲：[世界設定]。包含三個不同區域、移動、動態遭遇、簡單任務鏈、地標、儲存與重開，並做足最佳化以在瀏覽器執行。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [查看原文](https://x.com/aeejazkhan/status/2095872986477908108) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
+
+### Three.js 梵高小鎮
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js 梵高小鎮"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立受梵高啟發的可漫遊 Three.js 小鎮。把畫中的街道、星空、咖啡館與田野轉為分層 3D 空間，並透過 Shader、紋理和動態燈光保留筆觸生命力。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [查看原文](https://x.com/RealFedeURU/status/2095871735824339279) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
+
+### 機械結構完整的 Blender 機車
+
+[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="機械結構完整的 Blender 機車"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中把蒸汽機車建成真正的機械分解體，而不是貼圖外殼。命名並分離車軸、軸箱導軌、軸頸座、拉桿、懸掛連桿、蒸汽穹頂和各主要裝配件。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [查看原文](https://x.com/sheemamoto/status/2095868420327710840) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
+
+### 30 秒 Blender 場景挑戰
+
+[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="30 秒 Blender 場景挑戰"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在極限時間內建置連貫 Blender 場景。優先保證鮮明輪廓、三層景深、一個主角材質、電影燈光和可直接出圖的構圖，並保持所有物件可編輯。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [查看原文](https://x.com/_satyam_ai/status/2095844872171421771) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
+
+### 單輪 Three.js 海戰場景
+
+[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="單輪 Three.js 海戰場景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+單輪建立高細節 Three.js 海戰場景，包含多種不同艦船、可信水體互動、尾流與飛沫、空中行動、爆炸、電影燈光、鏡頭運動和兼顧效能的渲染。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [查看原文](https://x.com/synthwavedd/status/2095840435319001278) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
+
+### 歷任總統時期的橢圓形辦公室
+
+[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="歷任總統時期的橢圓形辦公室"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立互動式 Three.js 專案，探索不同總統時期的橢圓形辦公室，切換時期觀察傢俱、裝飾與佈局。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [查看原文](https://x.com/fMinZhou/status/2095830596069290077) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
+
+### 食譜轉 3D 芝士蛋糕影片
+
+[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="食譜轉 3D 芝士蛋糕影片"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+根據真實食譜用 Three.js 重建芝士蛋糕，分別建模六層結構、活底模具與烘焙紙，製作一分鐘展示影片。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [查看原文](https://x.com/sarit69976/status/2095829851206774987) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
+
+### Tidal Rush 八人卡丁車遊戲
+
+[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush 八人卡丁車遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置完整瀏覽器卡丁車遊戲，包含 8 名車手、3 圈比賽、漂移、可拾取道具、靈敏物理、清晰 HUD、精緻畫面和終點結果頁。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [查看原文](https://x.com/amazing13_13/status/2095819786651374023) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
+
+### 互動式 Three.js 星系首頁
+
+[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="互動式 Three.js 星系首頁"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+圍繞實時 Three.js 星系建立高階釋出頁首屏。讓粒子形成隱約的數字 6 輪廓，響應滾動和指標，同時保證文字可讀，並在低效能裝置優雅降級。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [查看原文](https://x.com/threejsresource/status/2095806515579879457) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
 
 ### 實時 WebGL 星系首屏
@@ -846,246 +1093,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [查看原文](https://x.com/mattshumer_/status/2095596175705399482) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="arcadia-base-on-mars-2095595678214873212"></a>
-
-### 火星 Arcadia 基地
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="火星 Arcadia 基地"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立可玩的體素火星殖民地，包含著陸飛船、建造機器人、探測車、儲能及氧氣和水系統，讓沙塵暴與停電影響殖民地。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [查看原文](https://x.com/knowixbuilds/status/2095595678214873212) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
-
-### 一個灰盒生成三款主題卡丁車遊戲
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="一個灰盒生成三款主題卡丁車遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-基於給定 Unity 卡丁車灰盒製作海盜、糖果和賽博朋克三款可玩主題版本。重複使用核心駕駛迴圈，替換環境與回饋，親自測試每個版本並修復最明顯的問題。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [查看原文](https://x.com/chetaslua/status/2095580402505400369) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedural-waterfall-study-2095510069047660636"></a>
-
-### 程式化瀑布場景
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="程式化瀑布場景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立 Three.js 瀑布場景，包含流水、水霧、岩石和清晰尺度，以燈光和鏡頭突出水流運動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-waterfall-study-2095510069047660636) · [查看原文](https://x.com/RealFedeURU/status/2095510069047660636) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
-
-### Aerie 鮮活體素島嶼
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie 鮮活體素島嶼"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立可以環繞和縮放的 3D 體素世界，加入自主運動，讓世界鮮活起來，自行選擇環境與居民。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [查看原文](https://x.com/free_ai_guides/status/2095493630421340200) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="articulated-printable-action-figure-2095481098201387287"></a>
-
-### 可動關節列印人偶
-
-[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="可動關節列印人偶"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把角色概念製作為可列印人偶，在 Blender 中建立可動球形關節，並檢查組裝後能否站立。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [查看原文](https://x.com/_MaxBlade/status/2095481098201387287) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
-
-### 電影感 WebGL 黑洞
-
-[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="電影感 WebGL 黑洞"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用原生 WebGL2 在單個 HTML 檔案中建置電影感黑洞，包含光線步進引力透鏡、程式化吸積盤、多普勒增亮與軌道粒子。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [查看原文](https://x.com/ekibuilds/status/2095409039005933910) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
-
-### 爆炸式 AI 伺服器機架視覺化
-
-[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="爆炸式 AI 伺服器機架視覺化"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置 NVL72 機架與 GB300 系統的 Three.js 爆炸圖視覺化，包含部件標籤、分步拆解、技術感燈光和流暢鏡頭轉場。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [查看原文](https://x.com/kylejeong/status/2095193022304792938) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="space-exploration-and-trading-game-2095191999255035993"></a>
-
-### 太空探索與交易遊戲
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="太空探索與交易遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置太空探索與交易遊戲，包含可駕駛飛船、星系、空間站、商品、合約、升級、風險和令人滿意的旅行迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [查看原文](https://x.com/RealFedeURU/status/2095191999255035993) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
-
-### GTA 風格開放世界多人原型
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA 風格開放世界多人原型"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置一個以紐約為背景的 GTA 風格開放世界多人原型，包含駕駛、步行、城市交通、任務與可信的動態世界迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [查看原文](https://x.com/mattshumer_/status/2095187868746383758) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
-
-### 漫畫風 Three.js 牛仔遊戲
-
-[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="漫畫風 Three.js 牛仔遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用 Three.js 建立夢想中的牛仔遊戲，結合《日落騎士》的街機活力與漫畫渲染，並加入靈敏射擊、騎馬動作和令人難忘的場面。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [查看原文](https://x.com/Smallzero/status/2095180091257209148) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
-
-### 人類對抗失控 AGI 遊戲
-
-[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="人類對抗失控 AGI 遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立一款一次生成的 Three.js 遊戲，讓人類對抗失控 AGI 及其機器人爪牙，並具備清晰戰鬥迴圈、升級波次和最終目標。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [查看原文](https://x.com/lucasybai/status/2095180071221002441) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
-
-### Blender 拆樓球物理測試
-
-[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender 拆樓球物理測試"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立聚焦的 Blender 物理測試：懸掛拆樓球撞擊磚塔，確保纜繩行為、磚石破碎、地面碰撞可信，並使用清晰鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [查看原文](https://x.com/abyssallD/status/2095177102400081940) · [返回案例導覽](#all-prompts)
 
 ---
 

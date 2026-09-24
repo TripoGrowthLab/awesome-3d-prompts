@@ -28,6 +28,17 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [Claude 성장 훈련 몽타주](#claude-opus-5-5-2102788371114246177)
+- [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](#claude-opus-5-5-2102788223835463902)
+- [체스 갬빗 학습을 위한 인터랙티브 3D 체스판](#gpt-6-astra-2102788013902213508)
+- [끊김 없는 코드 기반 물 순환 애니메이션](#claude-opus-5-5-2102781807179735211)
+- [브라우저에서 조작할 수 있는 중세 유럽풍 3D 성](#gpt-6-astra-2102780850706567390)
+- [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](#claude-opus-5-5-2102775461701091531)
+- [Orbit Lab: 태양·지구·달 3D 시뮬레이션](#gpt-6-astra-2102752217375899659)
+- [더 라스트 트레인 사이버펑크 메가시티 벤치마크](#claude-opus-5-5-2102740078347087940)
+- [복셀 스타일 축구 애니메이션](#claude-opus-5-5-2102739444256383089)
+- [상상 속 행성 인터랙티브 웹사이트](#claude-opus-5-5-2102729710174196022)
+- [중세 성 브라우저 애니메이션](#gpt-6-astra-2102672926285713456)
 - [Claude Opus 5로 제작한 Tripo 3D 프로모션 필름](#tripo-claude-opus-5-5-paper-cut-3d-short)
 - [인터랙티브 오일러리안 네온 유체 시뮬레이션](#claude-opus-5-5-2102565611473661963)
 - [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](#claude-opus-5-5-2102565403109085669)
@@ -38,6 +49,7 @@
 - [피터 래빗풍 인터랙티브 농장 동물 게임](#claude-opus-5-5-2102538762731565085)
 - [해 질 무렵의 시네마틱 인터랙티브 해적선](#claude-opus-5-5-2102533729746882985)
 - [끝없이 절차적으로 생성되는 Three.js 월드](#claude-opus-5-5-2102529695908806728)
+- [내부 공간을 포함한 2층 교외 주택](#gpt-6-astra-2102473710724919614)
 - [인터랙티브 군중 대피 시뮬레이션](#claude-opus-5-5-2102467667978572092)
 - [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
 - [인터랙티브 3D 선사시대 섬](#claude-opus-5-5-2102450239923720440)
@@ -66,20 +78,359 @@
 - [폐쇄된 연구 시설에서 탈출하는 브라우저 3D 게임](#gpt-6-astra-2100595652703199281)
 - [3D 레이싱 게임 만들기](#gpt-6-astra-2100526922770026874)
 - [난간에 유지보수용 체인 추가](#gpt-6-astra-2100519026720231698)
-- [인터랙티브 복셀 나이트 모닥불 장면](#gpt-6-astra-2100350159540596760)
-- [아이소메트릭 판타지 그래픽 데모](#gpt-6-astra-2100271998618177864)
-- [AKARI: 나고야 옥상 성화 봉송](#akari-nagoya-rooftop-flame-relay)
-- [키클롭스의 섬](#cyclops-island-threejs-game)
-- [지하철역의 AAA CGI 초자연 격투 단편](#gpt-6-astra-2100233407108137349)
-- [타일 옵션을 선택할 수 있는 인터랙티브 아파트 워크스루](#gpt-6-astra-2100222426705453318)
-- [PC판 스플래툰 개발 및 그래픽 재현](#gpt-6-astra-2100193512373592313)
-- [가구가 움직이는 인터랙티브 3D 룸 장면](#gpt-6-astra-2100139076816916977)
-- [참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작](#gpt-6-astra-2099850719839109597)
-- [탐험 가능한 절차적 우주 탐험 게임](#gpt-6-astra-2099785223827259515)
-- [Apple 스타일 3D 하트 및 웃는 이모지](#gpt-6-astra-2099750376530657300)
-- [인터랙티브 3D 생물체 신경계 패널](#gpt-6-astra-2099719427990134984)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude 성장 훈련 몽타주
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 성장 훈련 몽타주"></a>
+
+**프롬프트**
+
+```text
+코드만으로 30초 분량의 애니메이션을 제작하세요. Claude 마스코트를 주인공으로 삼고, 쿵푸 팬더의 훈련 장면에서 영감을 받은 성장 몽타주를 연출하세요. 초기 출시 이후 Claude가 인터넷 검색, 코드 작성, 3D 모델 제작, 인류가 직면한 가장 어려운 문제 해결 등 다양한 능력을 점점 더 발전시켜 가는 모습을 보여 주세요. 감정적으로 강렬한 음악을 사용하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788371114246177) · [원본 게시물](https://x.com/ishuagra02/status/2102788832273801700) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션"></a>
+
+**프롬프트**
+
+```text
+이야기를 하나 상상해 주세요. 그런 다음 threejs를 사용해 상상한 이야기를 바탕으로 픽사급 완성도의 1990년대 카툰 스타일 풀 애니메이션을 제작해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788223835463902) · [원본 게시물](https://x.com/scheemunai/status/2102788223835463902) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102788013902213508"></a>
+
+### 체스 갬빗 학습을 위한 인터랙티브 3D 체스판
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="체스 갬빗 학습을 위한 인터랙티브 3D 체스판"></a>
+
+**프롬프트**
+
+```text
+주요 체스 갬빗을 학습할 수 있는 인터랙티브 3D 체스판 웹 애플리케이션을 만드세요. 수의 애니메이션을 포함하고, 앞뒤로 진행할 수 있는 컨트롤과 변형 수순, 각 오프닝의 핵심 아이디어를 설명하는 기능을 추가하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508) · [원본 게시물](https://x.com/diogosantosbr/status/2102788013902213508) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### 끊김 없는 코드 기반 물 순환 애니메이션
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="끊김 없는 코드 기반 물 순환 애니메이션"></a>
+
+**프롬프트**
+
+```text
+물 순환을 주제로 한 끊김 없는 루프 애니메이션을 전부 코드로 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102781807179735211) · [원본 게시물](https://x.com/higgsfield_ai/status/2102781807179735211) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102780850706567390"></a>
+
+### 브라우저에서 조작할 수 있는 중세 유럽풍 3D 성
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="브라우저에서 조작할 수 있는 중세 유럽풍 3D 성"></a>
+
+**프롬프트**
+
+```text
+브라우저에서 조작할 수 있는 3D 중세 유럽풍 성을 만듭니다. 해자, 도개교, 탑, 석벽, 깃발, 숲과 낮밤 전환을 구현합니다. 
+벤치마크의 일종이므로, 외관을 얼마나 풍부하게 구현할 수 있는지에 초점을 맞춰 3D 모델의 품질을 최우선으로 해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390) · [원본 게시물](https://x.com/luxurytax150/status/2102780850706567390) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임"></a>
+
+**프롬프트**
+
+```text
+게임을 개발해 봅시다
+그래픽은 2D든 3D든 상관없지만, 게임 시스템 등을 분석해 개발하기 더 쉬운 방향으로 진행해도 좋습니다
+개인적으로는 3D를 생각하고 있지만, 화면 구성은 횡스크롤 액션 게임 같은 형태를 상정하고 있습니다
+조명 등을 활용해 세련된 분위기를 내고 싶으므로, 3D를 사용하면 아름다운 표현이 가능하지 않을까 생각합니다(예: 가로등이나 랜턴 같은 연출)
+만들고 싶은 게임의 이름은 CatWalk입니다
+이름 그대로
+고양이가 옆으로 이동하고
+캣워크가 계속 이어지며 화면은 자동으로 스크롤됩니다. 플레이어는 그 속도에 맞춰 장애물과 구멍을 점프 같은 간단한 조작만으로 넘어가는 방식입니다. 어떤 의미에서는 플래피류 게임과 비슷한 긴장감과 시스템일 수도 있습니다.
+다만 그래픽은 성숙하고 스타일리시한 분위기 중심의 게임을 목표로 하고 싶습니다
+가능하다면 고양이의 유연한 걷기, 달리기, 점프 동작을 표현할 수 있으면 좋겠습니다
+스테이지의 세계관은 맡기겠지만, 처음에는 무난하게 밤거리 같은 배경도 괜찮을 것 같습니다
+어둡게 연출해 간접 조명 등을 아름답게 표현할 수 있다면 정말 좋겠습니다
+구현할 수 있는 것과 없는 것, 어려운 부분이 있을 거라고 생각하므로
+이 제 요구 사항을 힌트 삼아, 당신의 판단으로 구현할 수 있을 만한 것을 개발해 주세요
+우선 한 스테이지를 한 바퀴 플레이할 수 있도록
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102775461701091531) · [원본 게시물](https://x.com/blitast_studio/status/2102775632933654585) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102752217375899659"></a>
+
+### Orbit Lab: 태양·지구·달 3D 시뮬레이션
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab: 태양·지구·달 3D 시뮬레이션"></a>
+
+**프롬프트**
+
+```text
+비교 실험입니다. 다음의 동일한 사양으로 웹 작품을 작업 디렉터리에 구현하고 완성해 주세요. 이름은 ‘Orbit Lab’입니다. Three.js 0.186.0을 사용하고, 동일한 버전의 본체와 OrbitControls를 불러와 주세요(CDN import map이나 npm 모두 사용 가능). 공개하거나 배포할 필요는 없습니다.
+
+요구 사항:
+1. 태양·지구·달의 3D 모델을 절차적 지오메트리와 머티리얼로 표현합니다. 외부 이미지나 3D 에셋은 사용하지 않습니다. 태양을 점광원으로 설정하고, 카메라를 조작했을 때 지구와 달의 명암을 확인할 수 있어야 합니다.
+2. delta time을 사용해 지구의 공전과 자전, 지축 기울기, 달의 공전을 움직입니다. 궤도면의 기울기를 시각화하고 지구와 달의 궤도선을 표시합니다. 스케일과 속도는 교육을 위해 과장해도 됩니다.
+3. 재현 가능한 난수로 별이 있는 배경을 생성합니다. OrbitControls로 회전과 줌을 지원합니다. 천체를 클릭하면 선택 상태와 설명 패널이 전환됩니다.
+4. 재생/일시정지, 속도 슬라이더, 궤도선 표시 전환, 태양/지구/달로 카메라 포커스, 초기 상태로 되돌리는 버튼을 제공합니다. 키보드로도 재생/일시정지와 리셋을 조작할 수 있어야 합니다.
+5. 스마트폰 화면 너비에서도 조작할 수 있는 UI, WebGL을 지원하지 않을 때의 안내, 리사이즈 대응, 과도한 렌더링 부하를 피하기 위한 픽셀 비율 제한을 포함합니다.
+6. README에 실행 절차와 조작 방법을 작성합니다. 가능하다면 실제로 실행해 동작을 확인하고, 실행할 수 없다면 그 이유를 명시합니다. 완료 보고에는 생성한 파일, 구현된 항목, 확인 결과를 간결하게 작성합니다.
+
+중간에 질문하지 말고 합리적으로 판단해 끝까지 구현해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
+
+要件:
+1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
+2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
+3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
+4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
+5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
+6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
+
+途中で質問せず、合理的に判断して最後まで実装してください。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102752217375899659) · [원본 게시물](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 더 라스트 트레인 사이버펑크 메가시티 벤치마크
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="더 라스트 트레인 사이버펑크 메가시티 벤치마크"></a>
+
+**프롬프트**
+
+```text
+Blender에서 히어로 열차, 프로시저럴 건축물, 고가 철도 시스템, 비, 볼류메트릭 분위기, 시네마틱 조명, 여러 카메라 설정과 전체 애니메이션 시퀀스를 포함한 완전한 사이버펑크 메가시티를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940) · [원본 게시물](https://x.com/builderhelmai/status/2102740078347087940) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 복셀 스타일 축구 애니메이션
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="복셀 스타일 축구 애니메이션"></a>
+
+**프롬프트**
+
+```text
+Three.js(CDN)를 사용하는 단일 HTML 파일로 간단한 복셀 스타일 축구 애니메이션을 제작하세요. 블록 형태의 선수가 수비수 2명을 제치고 화려한 골을 넣은 뒤 세리머니 파티클을 발생시킵니다. 경기장은 알록달록한 분위기로 표현하세요. 전체 HTML 코드만 출력하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089) · [원본 게시물](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 상상 속 행성 인터랙티브 웹사이트
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="상상 속 행성 인터랙티브 웹사이트"></a>
+
+**프롬프트**
+
+```text
+상상 속 행성을 주제로 한 인터랙티브 웹사이트를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022) · [원본 게시물](https://x.com/Kappaemme1926/status/2102729710174196022) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### 중세 성 브라우저 애니메이션
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="중세 성 브라우저 애니메이션"></a>
+
+**프롬프트**
+
+```text
+브라우저에서 완전히 실행되는 3D 애니메이션을 제작하세요. 넓은 숲에 위치한 언덕 꼭대기에 중세 성이 자리한 장면이어야 합니다. 키보드 조작은 추가하지 말고, 성의 모든 면을 볼 수 있도록 카메라가 성 주변을 회전하게 하세요. 성 탑 꼭대기에는 바람에 펄럭이는 깃발이 있어야 합니다.
+
+실행하면 성이 표시되고 반복 애니메이션이 시작되는 index.html 파일을 출력해야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102672926285713456) · [원본 게시물](https://juhapalomaki.fi/blog/castle-model-comparison/) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
 
 ### Claude Opus 5로 제작한 Tripo 3D 프로모션 필름
@@ -791,6 +1142,33 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102529695908806728) · [원본 게시물](https://x.com/argofowl/status/2102529695908806728) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### 내부 공간을 포함한 2층 교외 주택
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="내부 공간을 포함한 2층 교외 주택"></a>
+
+**프롬프트**
+
+```text
+안녕하세요. 내부 공간과 모든 요소를 포함한 2층 교외 주택의 3D 모델을 Blender로 최대한 완성도 높게 제작해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614) · [원본 게시물](https://x.com/azer0lxm/status/2102473781830909995) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2165,587 +2543,6 @@ I told Astra to CAD itself a body.
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100519026720231698) · [원본 게시물](https://x.com/ujiden_type0/status/2100519026720231698) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100350159540596760"></a>
-
-### 인터랙티브 복셀 나이트 모닥불 장면
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="인터랙티브 복셀 나이트 모닥불 장면"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
-
-**프롬프트**
-
-```text
-당신은 시니어 크리에이티브 WebGL 및 Three.js 개발자입니다. Three.js + webgl을 사용해 완전한 프로덕션 수준의 인터랙티브 3D 장면을 단일 독립 실행형 HTML 파일(index.html) 안에 모두 구현하세요
-
-### 1. 비주얼 테마 및 아트 디렉션
-
-- 분위기: 깊은 밤의 숲, 아늑하게 빛나는 모닥불, 캠프에서 쉬고 있는 지치고 고독한 나이트(Dark Souls의 화톳불 / 클래식 레트로 RPG 미학).
-- 미학: 3D 픽셀 아트 / 복셀 / 로우폴리 스타일.
-- 셰이딩 및 포스트 프로세싱: Three.js 포스트 프로세싱(RenderPixelatedPass 또는 이에 준하는 저해상도 픽셀화/디더링 효과)을 적용해 진정성 있는 16비트/32비트 레트로 분위기를 구현하세요.
-
-### 2. 장면 지오메트리 및 에셋(100% 절차적 생성 — 외부 .gltf/.obj 파일 사용 금지)
-
-모든 에셋은 Three.js 지오메트리 프리미티브(BoxGeometry, CylinderGeometry 등)와 기본 머티리얼을 사용해 절차적으로 구성해야 하며, CORS 문제 없이 로컬에서 파일이 실행되어야 합니다.
-
-1. 숲 환경:
-
-   - 지면: 절차적으로 생성한 복셀 돌, 버섯, 로우폴리 식생이 있는 어둡고 스타일화된 지형.
-   - 나무: 깊이감과 고립된 분위기를 만들 수 있도록 공터 주변을 둘러싼 절차적 소나무/가문비나무 또는 블록형 수관 나무.
-   - 하늘 및 조명: 깜빡이는 복셀 별이 있는 깊은 자정의 하늘과 부드러운 그림자를 드리우는 차가운 달빛 DirectionalLight.
-   - 깊이감: 어두운 분위기의 색상과 THREE.FogExp2를 사용해 지평선을 자연스럽게 섞으세요.
-
-2. 모닥불:
-
-   - 타다 남은 장작과 절차적으로 생성한 불씨를 둘러싼 돌 원형 배치.
-   - 불 시스템: 위로 솟아오르는 애니메이션 픽셀 파티클(Points 또는 맥동하는 복셀 메시).
-   - 동적 조명: Math.sin, 노이즈 또는 의사 난수 변화를 사용해 지속적이고 자연스럽게 깜빡이는 따뜻한 주황-빨강 PointLight.
-
-3. 나이트:
-
-   - 복셀화된 프리미티브로 머리, 몸통, 상·하박, 다리, 망토, 검 그룹을 구성한 계층형 씬 그래프.
-   - 시각적 디테일: 슬롯형 헬멧, 흉갑, 숄더 아머, 건틀릿, 검집/검.
-   - 깔끔한 절차적 회전 애니메이션을 위해 관절(어깨, 팔꿈치, 골반, 무릎)의 피벗 위치를 정확히 정렬하세요.
-
-### 3. 인터랙티브 나이트 상태 머신
-
-선택 가능한 다음 상태를 렌더 루프 안에서 선형 보간(lerp) 또는 삼각 함수 곡선을 사용해 부드러운 절차적 애니메이션으로 구현하세요.
-
-- 불가에서 앉기(기본 대기): 다리를 꼬거나 웅크리고 앉아 미세한 호흡 동작을 하며 불길 가까이에서 손을 녹입니다.
-- 장작 추가: 나이트가 일어나 장작을 가져와 불에 던집니다. 불길이 눈에 띄게 커지고, 잠시 빛의 반경이 넓어지며, 불꽃이 한 번 크게 튑니다.
-- 검술 연습: 일어나 검을 뽑고 깔끔한 3단 공격/패리 동작을 수행한 뒤 전투 경계 자세로 돌아갑니다.
-- 먼 곳 바라보기: 공터 가장자리까지 걸어가 검을 땅에 꽂고, 망토가 흔들리는 가운데 어둠 너머를 바라봅니다.
-- 잠자기: 불 옆 침낭에 눕고, 헬멧에서 움직이는 픽셀 「Z z z」 파티클이 떠오릅니다.
-- 고기 굽기: 불꽃 위에서 음식이 끼워진 막대기를 들고, 은은한 절차적 연기/수증기 파티클을 발생시킵니다.
-
-### 4. 카메라 시스템
-
-위치와 타깃을 부드럽게 보간(lerp)해 전환하는 카메라 프리셋을 제공하세요.
-
-- 아늑한 클로즈업: 나이트와 모닥불 빛에 초점을 맞춘 미디엄 샷.
-- 아이소메트릭 RPG: 공터를 높은 45도 각도에서 내려다보는 클래식 전술 시점.
-- 시네마틱 지면 시점: 별이 빛나는 하늘과 소나무 수관을 배경으로 나이트를 올려다보는 낮은 앵글의 극적인 샷.
-- 자유 궤도: 인터랙티브하게 장면을 살펴볼 수 있도록 기본 OrbitControls로 매끄럽게 전환.
-
-### 5. UI 및 오디오
-
-- UI 스타일: 반투명한 어두운 프레임, 픽셀 스타일 테두리, 임베드한 Google Font(예: 'Press Start 2P')를 사용하는 레트로 8비트/16비트 RPG HUD 레이아웃.
-- 하단 패널: 각 나이트 상태를 실행하는 인터랙티브 행동 버튼.
-- 오른쪽 상단 패널: 카메라 앵글 전환 버튼.
-- 장작 카운터: 추가한 장작 수와 현재 불의 세기를 표시합니다.
-- 사운드(Web Audio API): 절차적으로 합성한 장작 타는 소리와 밤의 산들바람/귀뚜라미 앰비언스를 제공하며, 음소거/음소거 해제 토글 버튼을 포함하세요.
-
-### 6. 기술 사양
-
-- 단일 독립 실행형 index.html 파일.
-- CDN(https://t.co/W8o3SZwkCj 또는 unpkg)을 통해 로드하는 ES 모듈을 사용하세요.
-- 모듈화되고 주석이 잘 작성된 코드 구조(initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- 카메라 종횡비와 픽셀화 패스 해상도를 갱신하는 완전한 반응형 창 크기 변경 핸들러.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100350159540596760) · [원본 게시물](https://x.com/vib3coded/status/2100350602316558428) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100271998618177864"></a>
-
-### 아이소메트릭 판타지 그래픽 데모
-
-[Anshu Chimala](https://x.com/anshuc) · 2026-09-16 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/efb3df2ad348026ea45dd7aadc01690c2f219342df652f170cb2b8727429a6e1.webp" width="840" loading="lazy" alt="아이소메트릭 판타지 그래픽 데모"></a>
-
-**프롬프트**
-
-```text
-그래픽 데모를 만들어 주세요. 아이소메트릭 카메라와 사실적인 셰이딩, 반사되는 젖은 바닥을 적용한 복셀풍 아트 스타일로, 흥미로운 장면 속에 캐릭터가 등장하게 해 주세요. 판타지 배경은 Elden Ring과 Diablo를 참고하세요. 브라우저에서 Three.js로 구현하고, 60fps를 초과하는 성능을 목표로 하세요. 에셋을 다운로드하지 마세요. 작업 시간은 1시간으로 제한합니다. 조작법: 클릭하면 캐릭터가 이동하고 카메라는 부드럽게 따라옵니다. 드래그하면 카메라를 회전하고, 스크롤하면 확대하거나 축소합니다. 지금은 게임플레이를 구현하지 마세요. 세계가 살아 있는 듯 느껴지도록 움직임, 애니메이션, 미묘한 환경 반응을 추가하세요. 플레이어 주변 영역은 넓게 보이게 하되, 실제 이동은 제한된 공간 안에서만 가능하게 하세요. 아트 방향을 확인받거나 질문할 필요 없이 바로 시작하세요!
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build me a graphics demo: isometric camera, voxel-ish art style with realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Don't download assets. Time limit of 1 hour. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors. Area around player should look expansive, but only allow movement in a limited space. No need to confirm the art with me or ask questions, just go!
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100271998618177864) · [원본 게시물](https://github.com/achimala/dream-loop) · [소스 코드](https://github.com/achimala/dream-loop) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="akari-nagoya-rooftop-flame-relay"></a>
-
-### AKARI: 나고야 옥상 성화 봉송
-
-[Jared](https://growthengineer.space/) · 2026-09-16 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/f82d75310164041451311a5b943e2d18ec847828627c3905d3c1119f4435fbb4.webp" width="840" loading="lazy" alt="AKARI: 나고야 옥상 성화 봉송"></a>
-
-**프롬프트**
-
-```text
-# AKARI — 나고야 라이트 아틀라스
-
-## 1. 목표
-추상적인 불꽃이 일곱 번의 타이밍 점프를 수행하며, 2026년 9월 19일부터 10월 4일까지 열리는 아이치·나고야 아시안게임을 앞두고 미니어처 나고야에 불을 밝히는, 일본어 우선의 완성형 브라우저 게임을 제작합니다. https://akari-nagoya-rooftop-relay.tripo.page/의 현재 두 맵으로 구성된 오프닝 에디션과 제공된 시각 자료를 기준으로 맞춥니다. 이전의 일반적인 옥상 장면은 목표가 아닙니다.
-
-## 2. 비주얼 방향
-높은 시점의 3/4 아틀라스 뷰, 자정의 네이비 배경, 따뜻한 아이보리색 일본어 세리프 헤드라인, 섬세한 금색 선과 절제된 그레인을 사용합니다. 데스크톱에서는 왼쪽 3분의 1을 오프닝 초대 영역으로 확보하고, 오른쪽에는 높이를 둔 두 개의 맵 타일을 배치합니다. 모바일에서는 맵이 컨트롤 위에 오도록 재구성합니다. 시작 화면에서는 건물을 어둡고 채도가 낮은 상태로, 수로는 틸 색상으로 표현합니다. 성공하면 녹색 식생, 터키석빛 구리 지붕, 따뜻한 창문 불빛과 금색 경로 조명이 복원됩니다. 불꽃과 다음 목표가 항상 잘 보이도록 합니다. 부드러운 그림자, 대기 원근감과 절제된 블룸을 사용하고, 하얗게 번지는 눈부심은 피합니다. 참고 자료에 보이는 일본어 오프닝 헤드라인, 랜드마크 라벨, 얇고 편집적인 헤더·푸터를 그대로 반영합니다.
-
-## 3. 월드
-더 큰 북서쪽 타일에는 메이조 공원, 나고야성, 아이치 국제 아레나, 히사야오도리 공원, MIRAI TOWER와 Oasis 21을 포함합니다. 남동쪽 타일에는 시립박물관, 미즈호도리, 미즈호 공원과 그 육상경기장, 그리고 경기장 동쪽의 야마자키강을 포함합니다. 낮은 현대식 주거 지역, 공원 나무, 도로 표지, 강변과 따뜻한 조명 기구를 추가하되, 성 건축 양식은 성에만 사용합니다.
-
-챕터 1: 메이조 공원 → 소토보리·히사야오도리 → 히사야오도리 공원 → Oasis 21, 총 세 번의 점프입니다. 시립박물관으로 이어지는 챕터 전환은 명확한 표지로 안내하되, 플레이할 수 없는 구간으로 처리합니다. 챕터 2: 시립박물관 → 미즈호도리 → 미즈호 운동장 서쪽 → 미즈호 공원 방향 → 남쪽 광장, 총 네 번의 점프입니다. 챕터 전환을 하나의 연속된 거리로 그리거나 점프 횟수에 포함하지 않습니다. 두 번째 챕터에서 진행 상황을 저장합니다. 두 맵은 서로 다른 축척을 사용하며, 플레이를 위해 거리를 압축합니다. 이 내용을 역사적 성화 봉송 날짜인 2026년 8월 22일과 9월 16일과 함께 About에서 간략히 설명합니다. 이 날짜는 예정된 행사 초대가 아닙니다. https://www.aichi-nagoya2026.org/ja/torch-relay/ 및 https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/.을 인용합니다. 공식 마스코트나 엠블럼 대신 독창적인 장식과 추상적인 불꽃을 사용합니다.
-
-## 4. 에셋 목록
-다음의 안정적인 대체 슬롯을 우선순위에 따라 사용하고, 두 비주얼 모드에서 동일한 레이아웃과 충돌 프록시를 유지합니다.
-- `shachi`: 호랑이 머리처럼 보이는 형태, 비늘이 있는 곡선형 잉어 몸체와 위로 말린 꼬리를 가진 고풍스러운 광택 금색 지붕 장식입니다. 성에도 반복 배치합니다.
-- `castle`: 아이보리색 나고야풍 성곽 건물로, 어두운 목재와 계단식 터키석빛 팔작지붕, 석조 기단으로 구성합니다.
-- `mizuho`: 넓은 타원형 육상경기장으로, 가운데가 열린 밝은색 지붕과 리듬감 있는 지지 구조를 사용합니다. 중앙을 통해 육상 트랙과 녹색 필드가 보이도록 합니다.
-- `arena`: 넓은 지붕과 따뜻한 색상의 세로형 파사드 핀이 있는 낮은 현대식 아레나입니다. 공원 축의 북쪽에 배치합니다.
-- `tower`: 상자 형태의 전망 데크와 안테나가 있는 가늘고 긴 은색 격자 관측탑입니다.
-- `oasis`: 가늘고 밝은색 지지대 위에 놓인 길쭉한 타원형 터키석 유리·수막 캐노피입니다.
-- `midrise`: 절제된 현대식 일본 주거 지역 건물입니다. 단순한 박물관 매스를 포함해 높이와 방향을 다양하게 바꾸어 재사용합니다.
-- `tree`: 갈색 줄기와 층층이 겹친 녹색 수관을 가진 작고 성숙한 공원 나무입니다. 두 타일 전체에 인스턴싱합니다.
-지형, 도로, 수면, 트랙 표지, 점프 마커, 추상적인 불꽃, 빛의 궤적, 불꽃놀이와 UI는 모두 절차적으로 생성합니다. 각 모델은 완전히 분리된 하나의 오브젝트여야 하며, 열린 통로와 경기장 중앙 공간을 유지합니다. 반복되는 배경 에셋을 포함해 목록에 있는 모든 슬롯을 추적합니다.
-
-## 5. 게임플레이와 보상
-포인터·터치를 누르거나 Space를 누른 상태로 차지하고, 놓으면 다음 마커를 향해 자동으로 점프합니다. 결정론적 델타 타임 물리를 사용합니다. 거리는 distance = 1.8 + 7 × charge로 계산하고, charge는 0과 1 사이에서 왕복하며, 포물선 높이는 보간된 높이에 4 × t × (1 − t) × 3.6을 더합니다. 차지 사이클은 방향당 약 1.42초에서 0.92초까지 빨라집니다. 궤적, 녹색 세이프 존과 금색 퍼펙트 존은 모두 동일한 계산에서 도출합니다. 오차가 ≤0.36이면 퍼펙트, ≤1.15이면 세이프이며, 처음 두 번의 점프에는 0.28의 추가 관용 범위를 적용합니다.
-
-세이프 착지에는 100점을, 퍼펙트 착지에는 연속 배율을 적용한 200 × 연속 배율 점수를 부여하며, 배율은 ×4로 제한합니다. 2.35초 이내에 안내된 후속 입력을 하면 50점을 추가합니다. 세이프 착지, 챕터 전환 또는 3.4초 동안 대기하면 콤보를 초기화합니다. 성공할 때마다 빛의 파동이 해당 지역을 통과하고, 창문에 불이 켜지며 랜턴이 추가됩니다. 7단계 진행도, 점수, 콤보와 최고 기록을 표시합니다. 실패 후에는 빠르게 재시작하고, 전환이 끝나면 챕터 체크포인트를 복원합니다. 일시정지, 재시작, 숨겨진 탭에서 복귀하는 기능과 상호작용 후 선택적으로 켤 수 있는 사운드를 제공합니다.
-
-마지막 점프가 끝나면 4.6초 동안 카메라를 뒤로 당기며 두 개의 조명 맵을 모두 공개하고, 범위를 제한한 불꽃놀이를 실행합니다. 일곱 번 모두 퍼펙트 착지하면 S 랭크, 네 번 이상이면 A 랭크, 그 외에는 B 랭크를 표시합니다. 다시 플레이하기, 동일한 카메라로 비교하는 조명 전·후 도시 뷰, 제목·날짜·점수·독립 프로젝트 크레딧이 포함된 실제 1800×1200 PNG 포스터를 제공합니다.
-
-## 6. 구현
-Vite, TypeScript와 Three.js를 사용하고, 지리 데이터, 순수 물리·스코어링, 씬, 이펙트, 모델 레지스트리, 일본어·영어 로컬라이제이션과 UI를 분리합니다. 프롬프트 언어와 관계없이 일본어를 기본 언어로 유지하고, 언어 전환 설정을 저장합니다. 폰트와 에셋은 로컬에 번들합니다. GLTFLoader와 슬롯별 정규화를 사용하며, 가져오기가 잘못된 경우 마지막으로 정상 작동한 모델을 유지합니다. 단순 비주얼과 가져온 비주얼을 비교할 때 점수, 체크포인트, 카메라와 조명을 유지합니다. 나무와 건물은 인스턴싱하고, 호환되는 정적 지오메트리는 병합하며, DPR을 제한하고 파티클 수를 제한합니다. 삼각형 목표를 초과했다는 이유만으로 모델을 거부하지 말고 실제 프레임 시간과 모델 복잡도를 평가합니다. 반환된 에셋에 메시 정리, 피벗 수정 또는 열린 경기장 중앙 공간이 필요한 경우에만 Blender를 사용하고, 원본 파일은 보존합니다.
-
-## 7. 승인 기준
-실행 가능한 소스, lockfile, 개발·빌드 명령어와 정적 빌드를 제공합니다. 두 챕터에 걸친 7번의 점프, 전환·체크포인트 복구, 실패·재시도, 점수 계산, 터치 입력, 일시정지, 일본어·영어 설정 유지, 모든 슬롯의 폴백과 실제 포스터 내보내기를 검증합니다. 현재 두 맵 레퍼런스와 오프닝 및 피날레의 정착 상태 스크린샷을 비교합니다. 실제로 측정한 성능과 수행한 테스트를 보고합니다. 다음의 공용 워크플로가 모델 생성 및 반환 과정을 관장합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/akari-nagoya-rooftop-flame-relay) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="cyclops-island-threejs-game"></a>
-
-### 키클롭스의 섬
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-16 · GPT-6 Astra · 게임
-
-리믹스 원작: [Jason Chew](https://x.com/jasoncjs_/status/2099414001851449430)
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c.webp" width="840" loading="lazy" alt="키클롭스의 섬"></a>
-
-**프롬프트**
-
-```text
-# ODYSSEY — 키클롭스의 섬
-
-## 1. 목표
-『오디세이』 제9권에서 영감을 받은 완전한 아이소메트릭 탈출 게임을 제작합니다. 오디세우스가 되어 선원 세 명을 이끌고 동굴의 보급품을 훔친 뒤, 자신을 추격하고 공격하는 폴리페모스를 피해 그리스 선박에 올라 탈출하세요. 게임 UI는 모두 영어로 표시합니다. https://cyclops-island.tripo.page/와 제공된 레퍼런스를 사용하고, Jared의 크레딧과 Jason Chew의 오디세이 섬 콘셉트에서 영감을 받았다는 점을 유지하세요.
-
-## 2. 비주얼 방향
-깊은 청록색의 에게해를 배경으로, 폭이 약 25월드 유닛인 텍스처 풍부한 지중해풍 탁상형 섬을 구성합니다. (19,31,34) 부근의 직교 3/4 카메라를 사용하고, 따뜻한 석회암, 세이지 그린 올리브 나무, 테라코타색 천, 청동 갑옷과 크림색 양피지를 적용합니다. ACES 톤 매핑, 따뜻한 방향성 그림자, 대기 원근감, 절제된 블룸, 비네트와 그레인을 적용하세요. 이펙트 아래에서도 위험 표시가 잘 읽혀야 합니다.
-
-현지화된 Cormorant Garamond 스타일의 세리프 제목과 DM Sans 스타일의 UI를 사용합니다. 왼쪽 상단에는 Ω 문장, ODYSSEY / AN INTERACTIVE MYTH, BOOK IX, The Cyclops’ Island를 표시합니다. 오른쪽 상단에는 “One island. Two worlds.”라고 적힌 눈에 띄는 크림색 비교 카드를 배치하고, Tripo World 및 Original 컨트롤을 제공합니다. 왼쪽 하단에는 미션 단계, 하트 3개, 스태미나와 선원 수를 표시합니다. 상단에는 보스 상태를, 그 아래에는 작은 나침반/미니맵을 표시하고, 카메라 조작과 간결한 입력 힌트도 보여 주세요. 모바일에서는 장식용 카피를 간결하게 구성하고, 미션·보스·비교·회피 컨트롤을 분리합니다.
-
-## 3. 월드
-남쪽 해변의 상륙 지점에서 시작한 옅은 모래길이 북쪽으로 구불구불 이어져 올리브 숲을 지나 석회암 동굴에 도달합니다. 거인은 동굴 근처에서 잠들어 있으며, 오디세우스와 선원들은 남쪽 길에서 시작합니다. 부두 근처 남서쪽에 붉은 돛을 단 목선을 배치합니다. 해안 주변에는 불규칙한 바위, 풀, 사이프러스 나무와 청록색 얕은 바다를 배치합니다. 바다의 물결, 해안 거품, 나무, 불빛, 새와 배의 흔들림을 애니메이션으로 표현하세요. 카메라가 회전해도 바다의 움직임이 올바르게 유지되어야 합니다.
-
-## 4. 에셋 목록
-다음 순서로 교체 슬롯을 준비합니다.
-- `odysseus`: 수염 난 그리스인 모험가. 진홍색 깃털 장식이 달린 청동 코린트식 투구, 낡은 흉갑, 상아색 튜닉, 테라코타색 망토, 샌들, 작은 방패와 칼집에 넣은 검을 갖춥니다. 세 명의 선원에게 재사용하되, 각자 독립된 스켈레톤과 애니메이션 페이즈를 사용합니다.
-- `polyphemus`: 중앙에 눈이 정확히 하나만 있는 건장한 거인. 황갈색 올리브색 피부, 곱슬곱슬한 짙은 머리와 수염, 모피/가죽 허리 옷, 두꺼운 맨발과 나무 곤봉을 갖춥니다. 리깅 가능한 중립 포즈의 전신 모델로 제작합니다.
-- `ship`: 폭이 좁은 짙은 호두색 선체, 높이 솟은 선수, 청동 충각, 돛대, 테라코타 레드 돛, 밧줄 리깅과 측면 노를 갖춘 배입니다. 물이나 전시용 베이스는 포함하지 않습니다.
-- `olive`: 뒤틀린 회갈색 줄기, 넓게 뻗은 뿌리와 불규칙한 세이지색 수관을 가진 나무입니다. 약 25개 재사용합니다.
-- `cave`: 실제로 통과할 수 있는 열린 통로가 있는 넓은 독립형 풍화 석회암 아치입니다. 덩어리진 바위와 드문드문 난 이끼를 포함하고, 어두운 내부는 별도로 제작합니다.
-- `cypress`: 빽빽한 짙은 녹색 잎을 가진 가늘고 끝이 좁아지는 지중해풍 나무입니다.
-- `boulder`: 따뜻한 색감의 불규칙한 석회암 해안 바위입니다. 크기와 회전을 다양하게 적용해 재사용합니다.
-지형, 길, 물, 풀, 보급품 표시, 전투 텔레그래프, 파티클과 UI는 프로시저럴 방식으로 유지합니다. 각 슬롯을 추적하고, 외형을 교체하는 동안 게임플레이 맵은 보존합니다.
-
-## 5. 탈출 인카운터
-카메라 기준 WASD/방향키와 클릭/탭 이동을 사용하고, 반경을 고려한 A* 내비게이션을 적용합니다. 선원들은 느슨하게 따라오며, 플레이어와 거인은 서로 다른 크기에 맞춰 지형, 경계와 장애물을 준수합니다. Shift는 달리기, Space 또는 큰 터치 버튼은 회피, E는 근처 보급품 획득, P는 일시정지, Q/R은 회전, F는 영웅 따라가기로 지정합니다. 드래그/패닝, 오른쪽 드래그/회전, 스크롤/줌과 터치 핀치를 지원합니다. 추격 중에는 스태미나가 허용하는 동안 클릭 이동이 전력 질주로 동작합니다.
-
-1단계: 동굴에 접근합니다. 가까이 다가가거나 시끄럽게 전력 질주하면 의심도가 올라가고 거인이 깨어날 수 있습니다. 2단계: 가까운 거리에서만 보급품을 획득할 수 있으며, 획득할 때마다 거인이 반드시 깨어납니다. 3단계: 선원들이 배에 올라타는 동안 (-0.8,8.7) 부근의 약 2.7유닛 반경으로 표시된 부두 구역 안에서 누적 11초를 버팁니다. 구역을 벗어나면 진행이 일시 정지됩니다.
-
-체력은 3칸, 스태미나는 100으로 설정합니다. 시작 속도는 걷기 2.35, 전력 질주 4.15, 거인 달리기 3.4유닛/초로 지정합니다. 거인은 공격하기 전에 3.6유닛 거리 안까지 추격해야 합니다. 수면, 기상, 추격, 공격 준비, 타격, 회복과 종료 상태를 사용합니다. Ground Breaker는 1.12초 공격 준비가 시작되는 순간 플레이어 위치를 고정하고, 반경 2.45의 원을 표시한 뒤 한 번 타격합니다. 대상은 플레이어를 따라가서는 안 됩니다. 세 번째 내려치기마다 명확하게 표시된 충전 확장 충격파를 방출하고, 피해는 이동하는 링의 가장자리를 따라 적용합니다.
-
-회피 시간은 약 0.34초, 스태미나 소모량은 24, 쿨다운은 1.25초로 설정하며, 짧은 무적 시간과 유효한 지면 범위 내 위치 보정을 적용합니다. 전력 질주 중에는 스태미나가 줄고, 휴식하면 회복됩니다. 피격 시 넉백, 피격 피드백과 일시적인 면역을 적용합니다. 패배하면 모든 액터, 타이머, 이펙트와 미션 상태를 초기화합니다. 탈출에 성공하면 피해를 중지하고 리플레이 요약을 엽니다. 일시정지 중에는 시뮬레이션, 애니메이션과 이펙트를 정지합니다. 충전 공격을 포함해 배에 오르려면 여러 번 회피해야 하도록 조정합니다.
-
-## 6. 구현 및 애니메이션
-월드, 내비게이션, 인카운터, 액터, 이펙트, 오디오와 UI를 Vite, Three.js 및 JavaScript ES 모듈로 구현합니다. 모든 런타임 에셋은 정적 빌드에 로컬로 번들링합니다. 초기 관절형 모델은 걷기/달리기, 수면/기상, 회피와 눈에 보이는 공격 준비/타격을 수행해야 합니다. 스키닝된 교체 모델에는 AnimationMixer, 실제 클립 이름, 짧은 크로스페이드와 SkeletonUtils.clone을 사용해 선원마다 별도의 스켈레톤을 구성합니다. 루트 모션 중복과 발 미끄러짐을 방지합니다. 거인의 내려치기 동작을 게임플레이 타격 시점과 동기화하고, 정적 임포트가 애니메이션으로 보고되지 않도록 합니다. 필요한 경우에도 작동하는 관절형 폴백을 유지합니다. 필수 리깅, 피벗, 클립 또는 메시 수정에만 Blender를 사용합니다.
-
-주황색/금색 텔레그래프, 타격 플래시, 지면 균열, 먼지, 불꽃, 낙석 파편, 확장 링, 짧은 조명 효과와 카메라 흔들림을 동기화합니다. 회피 트레일과 선택적으로 제스처로 활성화할 수 있는 합성 오디오를 추가합니다. 이펙트를 풀링하고, 주변 장면을 인스턴싱하며, 프레임 시간을 측정합니다. 발/루트가 지면에 닿고 충돌 프록시는 변경되지 않도록 임포트를 정규화합니다. 비교 기능은 위치, 미션, 체력, 스태미나, 카메라와 애니메이션 상태를 보존해야 하며, 임포트에 실패하면 작동 중인 모델을 유지합니다. 눈에 띄지 않는 Change hero 컨트롤과 슬롯별 상태를 표시하는 로컬 모델 임포트 기능을 포함합니다.
-
-## 7. 검수 기준
-소스 코드, lockfile, npm 개발/빌드 명령과 정적 출력물을 제공합니다. 장애물 내비게이션, 조기 기상, 근거리 획득, 공격 전 추격, 대상 고정, 시간 지정 타격, 회피 무적, 충격파 가장자리 피해, 패배/초기화와 성공적인 탈출을 검증합니다. 선원 애니메이션의 독립성, 모든 슬롯의 폴백, 상태를 보존하는 비교 기능, 데스크톱/모바일 레이아웃과 로딩 오류를 점검합니다. 레퍼런스와 비교할 수 있도록 안정화된 스크린샷을 대조하고 실제 성능을 보고합니다. 모델 생성에는 아래의 공유 워크플로를 사용하고 결과를 반환합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
-
-Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
-
-Make it feel like a small playable game:
-
-Control Odysseus with WASD or arrow keys
-Click the ground to walk
-Drag to pan the camera
-Scroll to zoom
-Add subtle water, tree, character, and environmental animation
-Add camera rotate, zoom, reset-view, and pause controls
-Use collision so the player cannot walk through rocks, trees, or water
-
-Add a dark literary UI panel in the bottom-left:
-
-“Lead Odysseus along the sandy path to the cave.”
-Show the current character and movement state below it.
-Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
-Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cyclops-island-threejs-game) · [원본 게시물](https://x.com/jaredliu_bravo) · [데모](https://cyclops-island.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100233407108137349"></a>
-
-### 지하철역의 AAA CGI 초자연 격투 단편
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-16 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/a480866311ee8faa564828c07283035ea6fe728ab7d676c468934bb5f75438a4.webp" width="840" loading="lazy" alt="지하철역의 AAA CGI 초자연 격투 단편"></a>
-
-**프롬프트**
-
-```text
-모든 캐릭터와 배경 인물, 역 환경은 디지털 스컬프팅을 거친 고급 AAA 판타지 게임 CG 스타일로 통일합니다. 인물 클로즈업에서는 정교하게 다듬은 게임 캐릭터의 얼굴, 선명하게 땋아 묶은 머리카락, 스타일라이즈드 리얼리즘 피부를 유지하며 실사 배우, 코스프레, 일반적인 gameplay, 2D 애니메이션 또는 셀 애니메이션으로 변하지 않게 합니다. 현대 지하철역의 초자연 격투 장면을 유지하고 중세 성, 설산 또는 복싱 링으로 바꾸지 않습니다. 색상은 저채도의 차가운 청회색, 짙은 차콜 블랙, 청회색 비늘 피부와 차가운 흰색 라이트 밴드를 기본으로 하며, 소량의 노란 안전 난간, 빨간 신호등, 청동색 고글 프레임, 녹청색 어깨 갑주와 황토빛 붉은 허리띠로 부분적인 색을 더합니다. 눈의 꿀빛 금색 광채와 기둥을 타격할 때의 짧은 보랏빛 섬광은 해당 순간에만 나타나며 영상 전체를 보라색으로 물들이지 않습니다. 환경: 넓고 어두운 지하철역. 중앙에는 선로가 내려앉은 구역, 레일과 자갈이 있고 양쪽에는 선로보다 높은 승강장이 있습니다. 승강장 가장자리에는 유리·금속 스크린도어와 노란색 세로 프레임, 바닥에는 노란 안전선, 회색 타일과 배수 그레이팅이 있습니다. 굵은 흰색 원기둥이 낮은 천장을 지지하고, 천장에는 차가운 흰색의 연속 라이트 밴드와 원형 조명이 이어지며, 멀리 작은 빨간 신호등이 깊은 곳까지 뻗어 있습니다. 승강장에는 명암이 다양한 평상복 재킷을 입은 성인 승객 수십 명이 기둥 옆이나 난간 뒤에 흩어져 있습니다. 전투에 놀란 뒤 물러나고 몸을 웅크리며 팔을 들어 방어하지만, 끝까지 배경 인물로 남아 격투에 참여하거나 주역으로 변하지 않으며 동일한 얼굴을 반복하지 않습니다. 열차는 진입하지 않습니다. 표지판은 흐릿한 기하학적 색상 블록만 남기고 읽을 수 있는 문자는 넣지 않습니다. 주전자는 두 명으로 고정합니다. A, 고글 전사는 키가 크고 마른 운동선수 체형의 성인 남성으로, 따뜻한 짙은 갈색 피부, 뚜렷한 광대뼈와 턱선을 지닙니다. 검은색의 짧고 머리에 밀착된 땋은 머리를 뒤에서 짧은 매듭으로 묶습니다. 이마에는 좁은 청동 프레임의 스모크 그레이 플립업 고글이 고정되어 평소에는 눈을 가리고, 콧대 아래와 입만 드러납니다. 회청색 민소매 랩넥 전투 상의, 짙은 갈색 허리 조임 벨트, 차콜 블랙 바지, 짙은 갈색 로우컷 부츠를 착용합니다. 양쪽 전완은 회색 천 붕대로 감고 손가락은 드러내며, 항상 맨손입니다. 망토, 손에 든 무기, 읽을 수 있는 문장은 없습니다. 표정은 침착하고 동작은 민첩하며 단호합니다. 지정된 숏에서만 오른손으로 이마에 고정된 고글 가장자리를 잠시 들어 올려 밝은 꿀빛 금색 눈 한쪽을 드러낸 뒤, 고글을 다시 내려 눈을 가립니다. 동일한 실물 고글 장비를 유지하며 천 조각으로 변하거나 사라지지 않습니다. B, 비늘 등줄기 전투수는 A보다 키가 크고 폭이 넓은 근육질의 이족보행 인간형 괴수입니다. 짙은 청회색의 굵은 비늘이 넓고 두꺼운 가슴·등과 사지를 덮고, 복부에는 더 촘촘한 회청색 비늘이 있습니다. 넓고 납작한 도마뱀형 머리, 짧고 뭉툭한 주둥이, 두꺼운 턱, 짙은 호박색 눈 두 개와 짧고 굵은 이빨을 지닙니다. 머리에는 사람의 머리카락, 가면 또는 나뭇가지 같은 돌기가 없습니다. B의 왼쪽 어깨에서 왼쪽 전완까지는 두꺼운 녹청색 천연 갑주가 자라 있으며, 왼쪽 어깨 위쪽에는 짧고 뭉툭한 골판 한 줄이 고정되어 있습니다. 오른팔은 더 옅은 회청색의 굵은 비늘로 유지합니다. 좌우를 절대 뒤바꾸지 않습니다. 골판과 갑주는 신체의 일부이며 어깨에 꽃은 없습니다. 짙은 갈색의 헐렁한 와이드 팬츠 전투 바지, 황토빛 붉은 직물 허리띠와 아래로 늘어진 좁은 끈 두 개를 착용하고 발목은 짙은 갈색 천으로 감습니다. 발바닥은 넓고 비늘이 있으며, 벽을 밀어낼 수 있도록 발바닥 형태가 분명해야 합니다. 꼬리, 날개, 추가 팔, 긴 뿔, 검, 창, 방패 또는 손에 든 소품은 없습니다. B는 실제 역 안으로 들어갈 수 있는 키 큰 괴수이며 A 및 승객과 안정적인 비율을 유지하고 고층 건물만큼 거대해지지 않습니다. 0.00–3.70초: 첫 프레임부터 교전에 들어갑니다. 선로 가까이의 낮은 카메라에서 B가 빠르게 발을 내디디며 접근하는 짧은 숏을 보여준 다음, A의 등 뒤 미디엄 숏으로 컷합니다. B가 정면에서 돌진해 다리를 들고 고관절을 회전하며 머리 높이의 가로 돌려차기를 합니다. A는 무릎을 굽히고 머리를 낮춘 채 상체를 옆으로 기울여 킥이 검은 짧은 땋은 머리 위를 스치게 하고, B는 착지 후 몸을 돌려 돌아오며 A도 곧바로 일어납니다. 뚜렷한 더치 앵글의 선로 저위치 투샷 와이드 숏으로 컷해 A가 무릎을 들어 높은 가로차기를 합니다. B는 머리와 어깨를 낮춰 피하고 A는 다리를 거둬 지지 발로 착지합니다. 카메라는 A의 어깨 너머 근접 트래킹으로 돌아오고, B가 연속 스윙 펀치를 몰아칩니다. A는 짧게 머리를 빼고 어깨를 가라앉히며 몸을 돌려 주먹이 얼굴 옆을 스치게 합니다. 제자리에서 반복해서 주먹을 휘두르며 상대가 공격하기를 기다리지 않습니다. 천장 라이트 밴드는 카메라 이동에 따라 방향성 모션 트레일을 만들고, 두 사람의 신체 관계는 명확하게 유지합니다. 3.70–6.40초: B의 옅은 회청색 오른주먹이 다시 A의 얼굴 앞까지 뻗어옵니다. A는 손바닥을 펴 그 손목과 전완을 받아 잡고 접촉 지점을 분명히 보입니다. 카메라는 A의 침착한 옆얼굴에 바짝 붙었다가, A가 발을 돌리고 고관절과 어깨를 회전하는 움직임을 따라 빠르게 낮은 전신 시점으로 이동합니다. A는 같은 오른팔을 계속 잡은 채 B를 지지 발에서 들어 올려 몸의 측면 위쪽으로 휘둘러 올립니다. B의 두 발이 지면에서 떨어지고 황토빛 붉은 허리띠와 와이드 팬츠가 관성 때문에 뒤늦게 따라옵니다. 가장 높은 지점은 아주 짧은 ultra slow motion으로만 보여준 뒤 즉시 고속으로 돌아옵니다. A가 회전을 마치고 손을 놓으면 B는 원래의 호를 따라 머리가 아래, 발이 위인 상태로 뒤집혀 떨어지고 어깨와 등이 선로 바닥에 닿으며 자갈과 먼지가 접촉 지점에서 튑니다. 낮은 카메라가 낙하를 따라가며 짧게 흔들립니다. B는 흐름을 이어 굴러 상체를 일으키고 사지를 온전히 유지합니다. 팔이 끊기거나 접촉 없는 염동력 투척, 허공에서 갑자기 일어나는 연출은 없습니다. 6.40–9.20초: B가 낮은 자세에서 회복하는 동안 A는 이미 지면을 박차고 뛰어듭니다. 카메라는 B의 뒤에서 올려다보며 공중의 A가 고관절을 돌리고 다리를 뻗는 모습을 잡습니다. 점프 최고점은 잠시 느려지고, 내려오면서 옆으로 날아차기를 해 B의 머리와 어깨를 누릅니다. B는 두 팔을 들어 막다가 밀려 몸이 틀어지고, A는 착지하자마자 곧바로 이어갑니다. 지상에 서서 기다리지 않습니다. 카메라는 A의 하강과 측면 선회를 따라 빠르게 당겨지며 약간 기울어진 숄더 숏과 얼굴 클로즈업을 교차합니다. A는 B가 되돌려 휘두른 팔을 피하고 짧은 펀치로 몸통을 친 뒤, 손바닥을 펴 얼굴 옆에 닿게 해 B의 머리를 옆으로 밀어냅니다. 접촉 후에야 머리와 목이 그 방향으로 회전합니다. 손바닥, 얼굴, 전완은 서로 융합되지 않아야 하며 B의 왼쪽 어깨 골판은 같은 쪽 어깨 갑주와 몸통의 회전에 맞춰 움직입니다. 9.20–11.20초: A는 얼굴 옆을 밀어낸 힘을 이용해 몸을 돌리며 다리를 거두고, 곧바로 강한 옆차기를 앞으로 뻗습니다. 부츠 밑창이 B의 복부에서 하부 흉곽에 닿습니다. B의 몸통이 먼저 접히고 두 발이 뒤이어 지면에서 떨어지며, 몸이 옆쪽 위로 날아 승강장으로 향합니다. 카메라는 B가 승강장 가장자리를 스쳐 지나가는 모습을 따라갑니다. B의 등 위쪽과 어깨가 흰색 원기둥에 부딪히고, 기둥 표면은 접촉점에서 바깥쪽으로 갈라지며 옅은 파편과 먼지가 떨어집니다. B는 기둥 표면을 따라 승강장 바닥으로 내려옵니다. A는 다리를 거둔 뒤 선로 구역에서 같은 승강장으로 뛰어올라 추격합니다. 컷이 바뀐 뒤에도 해당 기둥 옆의 연속된 위치에 나타나며 다른 역으로 순간이동하지 않습니다. 승객은 양쪽으로 피하고 기둥은 손상되지만 완전히 무너지지 않습니다. 11.20–12.80초: 부딪힌 뒤의 B 얼굴 클로즈업으로 컷합니다. B가 고개를 들고 얼굴을 돌려 A를 찾으며, 왼쪽 어깨의 녹청색 갑주와 짧은 골판은 그대로 남아 있습니다. 곧바로 같은 기둥 양쪽을 보여주는 근접 구도로 전환합니다. B는 오른쪽 전경, A는 기둥 옆 왼쪽 후경에 있고, A는 살짝 비웃는 표정을 짓지만 말하지 않습니다. A가 오른손으로 청동 프레임 고글 가장자리를 들어 올려 밝은 꿀빛 금색 눈 한쪽으로 B를 똑바로 바라봅니다. 아주 짧게 멈춘 뒤 오른손으로 고글을 내려 다시 두 눈을 가리고, 동시에 몸을 피할 준비를 합니다. 원래 대사가 있었던 듯한 긴 멈춤이나 말하는 입 모양은 넣지 않습니다. 12.80–13.80초: B가 어깨를 돌리며 옅은 회청색 오른주먹을 A가 있는 곳으로 휘두릅니다. A는 주먹이 닿기 전에 빠르게 옆으로 이동해 기둥 뒤를 돌아 빠져나옵니다. 주먹이 실제 흰색 기둥을 타격하는 순간 조밀한 보라색 에너지 섬광이 터지고, 균열이 뻗으며 파편이 아래로 떨어집니다. 짧은 보랏빛 섬광은 즉시 사라집니다. 클로즈업에서 먼저 주먹 면이 기둥 표면을 누르는 모습을 보여준 다음, 빠르게 와이드로 당겨 B가 헛손질했고 A는 이미 옆으로 돌아간 것을 드러냅니다. 기둥은 앞서 손상된 바로 그 기둥으로 유지합니다. A를 보라색 연기로 바꾸거나 주먹이 사람의 몸을 관통하게 하지 않습니다. 13.80–16.00초: 낮고 기울어진 와이드 숏에서 A가 기둥 앞쪽 옆에 몸을 낮추고 짧게 손짓해 도발합니다. B가 몸을 돌려 달려듭니다. A는 지면을 박차고 연속 백플립 한 번을 수행합니다. 먼저 몸을 뒤로 젖히고 두 발을 머리 위로 넘긴 다음 복부를 당겨 뒤집힌 자세를 통과하며 B가 가로로 휘두른 팔을 피합니다. 카메라는 몸의 상승을 따라 기울어지고, 뒤집힌 순간에는 잠시 느려지며 배경의 라이트 밴드가 기울어진 채 스쳐 지나갑니다. A는 같은 회전을 계속해 두 발을 몸 아래로 되돌리고 B의 측면 뒤 승강장 빈 공간에 착지합니다. 무릎을 굽혀 착지 충격을 흡수하고 옷자락과 뒤통수의 짧은 땋은 머리가 관성에 따라 내려옵니다. 배경 승객은 겁에 질려 피하지만 추가 공격자로 취급하지 않습니다. A가 맞아 날아가거나 공중에서 반복해서 텀블링하며 시간을 끌지 않습니다. 16.00–18.50초: A가 막 일어선 순간 B가 몸을 돌려 따라붙어 넓은 스윙으로 A의 머리 옆을 공격합니다. A는 먼저 뒤로 젖혔다가 아래로 잠수하듯 내려가 B의 옅은 회청색 오른팔이 머리 위를 가로지르게 합니다. 이어 두 손으로 해당 전완을 제어하고 상대 몸 앞쪽으로 파고들어 등을 돌리며 무게중심을 낮춥니다. A는 B의 팔을 자신의 어깨 너머로 넘기고, 계속 앞으로 나아가던 B의 운동량을 이용해 어깨너머 메치기를 완성합니다. B의 고관절이 지점을 넘어 회전하고 두 발이 지면에서 떨어진 뒤 등이 승강장 타일 바닥에 떨어집니다. 깨진 타일과 먼지가 바닥을 따라 퍼집니다. 카메라는 어깨에 붙은 클로즈업에서 낮은 미디엄 와이드로 물러나 회전과 착지를 온전히 보여줍니다. A는 서 있는 상태를 유지하고 손을 놓아 B를 떨어뜨립니다. B는 즉시 몸을 뒤집어 지지한 뒤 다리를 굽혀 일어나고, A는 몸을 돌려 계속 압박하며 일어나는 동작과 추격을 연결합니다. 서서 대사를 말하는 긴 멈춤은 넣지 않습니다. 18.50–20.65초: B가 다시 근접 거리로 돌진하자 A가 먼저 짧은 스트레이트 펀치로 얼굴 옆을 치고, 돌아오는 손으로 가슴 앞을 방어한 뒤 몸을 낮춰 복부와 갈비뼈를 공격합니다. B는 팔을 들어 그중 한 타격을 막고 굵은 팔을 가로로 휘둘러 반격합니다. A는 B의 가슴과 어깨 안쪽에 붙어 고개를 낮춰 피하고, 전완을 들어 회수되는 주먹을 쳐내며 짧고 응축된 펀치로 턱과 상흉부에 접촉합니다. 카메라는 두 사람의 어깨 주변을 빠르고 작게 선회합니다. 머리와 몸은 실제 접촉이 발생한 뒤에야 반동합니다. 서로 허공만 번갈아 휘두르거나 반응하지 않거나 두 주먹이 계속 붙어 있는 장면이 아니라, 연속된 공격·방어·쳐내기·반격의 흐름으로 구성합니다. 20.65–21.85초: 곧바로 정면 탑숏으로 전환해 두 사람이 같은 작은 타일 구역을 중심으로 움직이는 모습을 명확히 보여줍니다. A의 검은 짧은 땋은 머리와 청동 고글 프레임, B의 왼쪽 어깨 녹청색 갑주와 황토빛 붉은 허리띠를 고정된 식별 요소로 유지합니다. B의 넓은 팔이 A의 옆을 스치며 휘둘러지고, A는 어깨를 움츠려 팔 안쪽으로 파고듭니다. 양발을 차례로 바꿔 디디며 한 손으로 상대 전완을 쳐내고 다른 주먹을 가슴과 복부에 꽂은 뒤, B의 회전에 맞춰 손을 거두며 위치를 조정합니다. 바닥의 낙하 타일과 배수 그레이팅은 원래 위치를 유지합니다. 탑숏은 근접 공방의 이동 경로를 보여주며, 대역이나 세 번째 격투자를 추가하지 않습니다. 21.85–24.00초: B의 어깨 너머로 보는 타이트한 클로즈업으로 돌아갑니다. A가 짧고 빠른 상단·하단 펀치를 번갈아 이어가며 위에서 돌아오는 B의 팔을 고개를 틀어 피합니다. 붕대로 감긴 전완과 회청색의 굵은 비늘 팔이 교차하지만 경계는 분명해야 합니다. 카메라는 A의 주먹이 빠르게 밀고 들어가는 모습을 따라가며, 강한 접촉 지점 두 곳에 몇 프레임 동안만 흑백 고대비 노출 플래시와 입체적인 충격 윤곽을 삽입합니다. 즉시 원래의 차가운 청회색 AAA CGI로 돌아오며 만화, 텍스트 또는 2D 일러스트로 전환하지 않습니다. 마지막 스트레이트 펀치는 B의 복부에 명확히 깊숙이 닿고, 복부가 안쪽으로 눌리며 상체가 접힙니다. B가 위에서 휘두르던 팔도 몸통이 추진력을 잃으며 진행 방향을 잃습니다. A는 발바닥을 안정적으로 고정하고 다리, 고관절, 어깨를 통해 힘을 주먹 면으로 전달합니다. 주먹이 몸을 관통하지 않습니다. 24.00–28.00초: 같은 복부 강타의 결과를 곧바로 이어갑니다. B의 두 발이 지면에서 떨어져 뒤로 날아가고, 카메라는 승강장 가장자리에 낮게 붙어 역의 종축을 따라 고속으로 추적합니다. 흰색 기둥, 노란 프레임, 유리 난간과 놀란 군중을 연속해서 스쳐 지나갑니다. 속도로 인해 배경 선은 길게 늘어나지만 B의 청회색 비늘 몸, 짙은 갈색 바지, 황토빛 붉은 허리띠와 왼쪽 어깨 녹청색 갑주는 계속 식별 가능합니다. 종축 와이드, 전경을 빠르게 가르는 기둥을 활용한 컷, 아래에서 올려다보는 클로즈업을 통해 B가 관성 속에서 회전하고 균형을 되찾으려 팔을 뻗는 모습을 보여줍니다. 튀어 오른 파편은 동일한 비행 방향으로 선로 위를 스쳐갑니다. 이어 B가 승강장 가장자리의 유리·금속 스크린도어 일부를 깨뜨립니다. 몸이 닿은 뒤 유리가 산산이 부서지고 금속 프레임이 휘어지며, B는 파손된 틈을 넘어 선로 구역으로 계속 들어갑니다. 선로 측벽 방향의 와이드 숏으로 컷합니다. 이는 앞선 복부 강타로 이어진 연속 비행이며, 화면 밖의 추가 발차기, 두 번째 발사, 승객을 날려 보내는 연출은 없습니다. A가 모든 기둥 뒤에 복제되어 나타나지 않습니다. 28.00–30.00초: 고정된 측면 미디엄 와이드 숏. 짙은 회색의 수직 선로 벽은 화면 왼쪽, 맞은편 승강장과 난간 뒤 승객은 오른쪽 후경에 두고, 긴 라이트 밴드는 역 깊은 곳을 가리킵니다. 공중의 B가 발부터 벽을 향하도록 회전합니다. 두 발바닥이 수직 벽면에 명확히 닿고, 무릎을 굽히며 복부를 당겨 조밀하게 웅크립니다. 발밑에서 소량의 벽 가루가 일어난 뒤 ultra slow motion으로 천천히 무릎을 펴고 몸통을 바깥쪽으로 회전시켜 몸이 점차 수평에 가까워집니다. 발바닥은 계속 벽면을 지지하고 황토빛 붉은 허리띠, 와이드 팬츠와 작은 파편이 계속 움직이며 접촉, 압축, 힘을 모으는 연속 과정을 보여줍니다. 등으로 벽에 부딪히거나, 허공에 정지하거나, 옆으로 누운 바닥 위에 서 있는 연출은 금지합니다. 30.00초에 B가 두 발로 벽을 지지한 채 몸을 바깥쪽으로 펼치는 살아 있는 프레임에서 끝냅니다. 완전한 벽 차기 반격, 착지, 사망 또는 승패 결말은 추가하지 않습니다. 검은 화면, 페이드아웃, 엔드 카드도 없습니다. 리듬과 연속성: 빠른 추격, 근접 회피, 던지기와 메치기, 공중제비, 날아차기, 기둥 타격, 탑숏 근접 타격, 승강장 간 이동의 순서를 유지하고 관찰 및 기존 대사의 멈춤은 줄입니다. 느린 동작은 들어 올리기 최고점, 공중 회피, 마지막 벽 지지 단계에서만 부분적으로 사용하며, 마지막 단계는 명확한 ultra slow motion으로 처리합니다. 정상적인 공방은 빠르고 매끄러워야 하며 전체를 슬로 모션으로 만들거나 정지 화면으로 재생 시간을 채우지 않습니다. A의 검은 짧은 땋은 머리, 짙은 갈색 피부, 청동 프레임 고글, 회청색 민소매 상의와 붕대로 감은 전완을 유지합니다. 눈을 드러내기 전후의 고글 상태도 명확해야 합니다. B의 왼쪽 녹청색 갑주와 짧은 골판, 오른쪽 회청색 굵은 비늘 팔, 넓은 도마뱀형 머리, 짙은 갈색 바지와 황토빛 붉은 허리띠를 유지합니다. 골판은 떨어지거나 반대쪽으로 바뀌거나 무기로 변하지 않습니다. 쓰러진 캐릭터는 먼저 지면에 닿은 뒤 다시 지지 자세를 취하고, 능동적인 점프는 먼저 지면을 박차며, 피격으로 날아갈 때는 먼저 접촉이 발생하고, 벽에서 제동할 때는 먼저 발바닥이 닿은 뒤 무릎을 굽힙니다. 모든 움직임에는 무게, 관성, 방향성이 있어야 합니다. 배경 군중은 서로 다른 자연스러운 회피 동작을 계속 보여주며 주전투자와 공간적으로 명확히 분리합니다. 서로 융합되거나 갑자기 주먹과 발차기의 경로로 들어오지 않습니다. 손상된 기둥 표면, 떨어진 타일과 깨진 스크린도어는 이후 숏에서도 파손 상태를 유지합니다. 추가 무기, 다지체, 유혈, 절단은 없습니다. 배경 음악은 엄격히 금지합니다. 영상의 어느 시점에도 배경 음악, 영화 음악, 음악 트랙, 멜로디, 리듬성 타악, 합창, 노래, 음악적인 지속음 또는 음조가 있는 분위기용 배경음을 생성하지 않습니다. 허용되는 것은 화면과 동기화되고 물리적으로 장면에 속하는 화면 내 음향(diegetic audio)뿐입니다. 지하역의 환기음과 공간 잔향, 신발 밑창의 발걸음과 마찰음, 의상 및 황토빛 붉은 허리띠가 휘날리는 소리, 주먹과 발차기의 바람 가르는 소리, 실제 접촉에서 나는 둔탁한 타격음, 비언어적 호흡과 짧은 신음, 자갈이 구르는 소리, 콘크리트가 갈라지는 소리, 유리 파편 소리, 금속 난간 프레임이 휘는 소리, 승객이 물러나는 발걸음, 짧은 보랏빛 섬광 접촉에서 나는 비멜로디성 전기 파열음, 마지막으로 발바닥이 벽을 문지르는 소리와 벽 가루가 떨어지는 소리만 허용합니다. 대사, 내레이션, 알아들을 수 있는 외침, 노래, 자막은 없습니다. 음악이 없는 빈자리를 펄스음, 오케스트라식 강타, 멜로디화된 사운드 디자인 또는 리듬성 효과음으로 채우지 않습니다. 연속 펀치, 발걸음 또는 깨진 유리 소리를 드럼 비트처럼 편곡하지 않으며 환기음을 음악적인 지속음으로 늘이지 않습니다. 배경 음악이나 음악이 조금이라도 나타나면 불합격으로 처리합니다. music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 제목, 읽을 수 있는 역명, logo, interface, 플레이어 컨트롤 또는 watermark는 없습니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-全部角色、背景群众与车站环境统一使用明显经过数字雕刻的高级AAA奇幻游戏CG外观，人物近景必须保持精修游戏角色脸、清楚的编辫发束与风格化写实皮肤，不变成真人演员、cosplay、普通gameplay、2D动画或赛璐璐。保留现代地下车站中的超自然格斗场景，不改成中世纪城堡、雪山或拳击擂台。色彩为低饱和冷青灰、深炭黑、青灰鳞皮与冷白灯带，少量黄色护栏、红色信号灯、青铜护目框、铜锈绿肩甲和赭红腰带形成局部色彩；眼睛的蜂蜜金光与击柱时的短紫光只出现在对应瞬间，不全片染成紫色。环境：宽阔而昏暗的地下铁路站，中央下沉轨道区、钢轨与碎石，两侧高出轨道的站台；站台边缘是玻璃金属屏蔽栏与黄色竖向边框，地面有黄色安全带、灰色砖面、排水格栅，粗大白色圆柱支撑低天花板，顶部连续冷白长灯带与圆形灯、远处小红信号灯延伸至深处。站台有数十名穿普通深浅外套的成年乘客，分散在柱旁或栏后，受战斗惊动后退、缩身和抬臂保护，始终为背景群众，不参与格斗、不变成主角、不复制相同面孔。没有列车驶入，标牌只保留模糊几何色块，无可读文字。两名主战者固定：A护目武者为高挑精瘦运动体型成年男性，暖深棕肤色、清楚的颧骨与下颌，黑色贴头短辫在脑后束成短辫结；前额固定一副窄青铜框烟灰色可掀护目罩，平时遮住双眼，鼻梁下方与嘴部露出。穿灰蓝色无袖交叠领战斗上衣、深褐束腰带、炭黑长裤和深棕低帮靴；双前臂缠灰色布带，双手手指外露，始终空手，无披风、手持武器或可读徽章。表情从容，动作敏捷而果断；仅在指定镜头用右手短暂抬起护目罩边缘，露出一只明亮蜂蜜金色眼睛，随后护目罩放回遮眼位置；这是同一件固定在前额的实体护目装备，不变成布条，不消失。B鳞脊斗兽为比A更高、更宽厚的肌肉型双足人形异兽，深青灰色粗鳞覆盖宽厚胸背与四肢，腹部为较细密的灰青鳞片；宽扁的蜥蜴状头部、短钝吻、厚颌、两只深琥珀眼睛和短粗牙齿，头部没有人类头发、面具或树枝状突起。B自身左肩至左前臂生长厚实的铜锈绿色天然甲片，左肩上缘固定一排短而钝的骨鳍；右臂保留较浅灰青色粗鳞，左右绝不互换，骨鳍与甲片属于身体，肩上没有花朵。穿暗棕色宽松阔腿战裤、赭红色织物腰带与两条垂下的窄带尾，脚踝缠深褐布，脚掌宽大有鳞，保持适合抵墙的清楚脚底；没有尾巴、翅膀、额外手臂、长角、剑、枪、盾牌或手持道具。B是能进入正常车站的高大异兽，保持与A及乘客的稳定比例，不膨胀成高楼巨人。0.00–3.70秒：第一帧便进入交锋。贴近轨道的低机位短镜头看见B快速踏步逼近，随即切A背后中景，B从前方冲来，抬腿转髋，横扫一记头部高度的旋踢；A屈膝低头并侧倾上身，踢腿从黑色短辫上方掠过，B落脚转回，A随即起身。切明显Dutch angle的轨道低位双人宽景，A提膝接一记高位横踢，B降低头肩避过，A收腿落回支撑脚。镜头回到A肩后近距离跟拍，B追上一组连续摆臂拳击，A以短距离偏头、沉肩和转身让拳从脸旁擦过，不原地反复摆拳等对方出招；天花板灯带随镜头甩动形成方向性拖影，身体关系保持清楚。3.70–6.40秒：B的浅灰青色右拳再次伸到A面前，A张掌截住其手腕与前臂，接触位置可见；摄影机贴近A从容的侧脸，然后随他转脚、旋髋和转肩迅速绕至低位全身视角。A保持抓住同一条右臂，将B拉离支撑、沿身体侧上方甩起，B双脚离地，赭红腰带和宽裤随惯性滞后。甩起最高处只有极短ultra slow motion，随即恢复高速；A完成转体后松手，B沿原弧线头下脚上翻落，肩背接触轨道地面，碎石与灰尘从接触处迸出。低机位摄影机追随翻落并短促震动，B顺势滚动、撑起上身，保持四肢完整；不是断臂、无接触念力投掷或凭空重新站起。6.40–9.20秒：B仍在低位恢复，A已经蹬地跃近，镜头从B身后仰拍A在半空转髋展腿，跳跃最高点短暂放慢，然后下落时以横向飞踢压向B头肩；B抬起双臂迎挡并被压得偏转，A落脚后立刻跟进，不落地站着等待。摄影机随A下落和绕侧迅速拉近，形成略倾斜的肩上与面部交替近景；A闪过B回扫的手臂，用短拳击向躯干，再以一记张掌接触脸侧把B的头推偏，接触后头颈才顺方向转动。手掌、脸与前臂不能融合，B左肩骨鳍随同一侧肩甲和躯干转动。9.20–11.20秒：A借脸侧推压后的空间转体收腿，随即向前送出有力侧踹，鞋底接触B腹部至下胸；B躯干先折起、双脚随后离地，沿侧上方飞向站台。镜头跟着他掠过站台边缘，B上背和肩撞上白色圆柱，柱面由接触点向外开裂，浅色碎片和粉尘落下，B沿柱面回落到站台地面。A收腿后从轨道区跃上同一站台追近，切镜后出现在该柱旁的连续位置，不瞬移到另一个车站；乘客向两侧躲开，柱子受损但不整体倒塌。11.20–12.80秒：切B受撞后的脸部近景，它抬头、转脸寻找A，左肩铜锈绿甲片与短骨鳍仍在；迅速转为同柱两侧的近景构图，B占右前景，A在柱旁左后景，轻微冷笑但不说话。A用右手抬起青铜框护目罩边缘，露出一只明亮蜂蜜金色眼睛，直视B，停留很短；他用右手放下护目罩使其重新遮住双眼，身体同时准备避让，不留下原本对白的停顿或说话口型。12.80–13.80秒：B转肩挥出浅灰青色右拳打向A所在位置，A在拳头到达前迅速侧移绕出柱后；拳头击中实体白柱，接触瞬间爆出紧凑紫色能量闪光，裂缝延伸，碎屑向下掉，短紫光立刻消散。近景先看拳面压入柱面，再快速拉宽显露B打空而A已经绕到侧方，柱子仍是先前那根受损柱，不把A变成紫色烟雾，也不让拳穿过人体。13.80–16.00秒：低位倾斜宽景，A在柱子侧前方压低身体、抬手作一个短促招引手势，B转身扑来。A蹬地腾空完成一次连续后空翻，先仰身、双脚向上越过头顶，再收腹转过倒置阶段，躲过B横扫的手臂；镜头随身体向上倾转，在倒置阶段短暂放慢，灯带沿背景倾斜掠过。A继续同一次翻转，双脚回到身体下方，落在B侧后的站台空地，屈膝吸收落地力量，衣角与脑后短辫随惯性回落；背景乘客惊惧闪避，不被当成额外攻击者，A没有被打飞，也不在半空反复翻跟头拖时。16.00–18.50秒：A刚站起，B便转身追上，一记宽幅摆臂打向A头侧；A先后仰再下潜，让B的浅灰青色右臂从头顶横过，双手顺势控制那条前臂，踏入对方身体前侧并转背降低重心。A把B的手臂带过自己肩上，利用B仍向前的动量完成一次过肩摔；B的髋部翻过支点，双脚离地，背侧落在站台砖面，碎砖和粉尘沿地面散开。镜头从贴肩近景退到低位中广景，完整交代翻转与落地，A保持站立，松手让B落下。B立即翻身支撑并屈腿起身，A转向它继续施压，把起身与追近接起来，不保留站着说台词的长停顿。18.50–20.65秒：B冲回贴身距离，A抢先用短直拳击向脸侧，回手护住胸前，随后压低身体打向腹肋；B抬臂挡住其中一击并以粗重手臂横扫反击，A贴近其胸肩内侧低头避开，抬前臂拨开回收的拳，再以紧凑短拳接触下颌与上胸。镜头绕两人肩侧高速小幅移动，头部与身体在实际接触后才出现回弹；以一组连续进攻、挡拨和回击完成这一段，不拍成轮流挥空拳、互不反应或双拳持续贴在一起。20.65–21.85秒：直接切正上方俯拍，清楚看见两人围绕同一小片地砖转动，A的黑色短辫与青铜护目框、B左肩铜锈绿甲片与赭红腰带是固定辨识点；B宽幅手臂从A身侧扫过，A缩肩钻入手臂内侧，左右脚依次换位，一手拨开对方前臂，另一只拳打入胸腹，再收手随B的转体调整位置。地面的落砖与排水格栅保持原位，俯拍展示近身攻防路线，不增加一个替身或第三名格斗者。21.85–24.00秒：切回越过B肩部的紧近景，A继续一组短促上、下段交替拳击并侧头闪开B从上方绕来的手臂，缠布前臂与灰青粗鳞拳臂交错但边界清楚。镜头追随A的拳头急推，在两处强接触点加入仅数帧的黑白高反差曝光闪变与立体冲击轮廓，立即回到原来的冷青灰AAA CGI，不切成漫画、文字或2D插画。最后一记直拳明确压中B腹部，腹部向内压缩、上身折起，B上方挥来的手臂随躯干失去前进方向；A脚底稳住，力量由腿、髋、肩传到拳面，拳头不穿透身体。24.00–28.00秒：紧接同一记腹部重击的后果，B双脚离地向后飞出，镜头低贴站台边缘沿车站长轴高速追踪，连续掠过白柱、黄色边框、玻璃栏板和惊愕的人群；背景线条因速度拖长，B的青灰鳞躯、暗棕裤、赭红腰带与左肩铜锈绿甲片始终能辨认。通过长轴宽景、柱子擦过前景的快速切镜和从下方仰看的近景，展示B在惯性中翻转、伸臂试图恢复平衡，带起的碎片沿同一飞行方向掠过轨道。B随后撞破站台边缘一段玻璃金属屏蔽栏，玻璃在身体接触后碎开、金属框弯折，他越过破口继续进入轨道区，切至轨道侧壁方向的宽景；这仍是上一记腹部重击引起的连续飞行，不新增画外踢击、第二次发射或击飞乘客，A不会复制到每根柱子后方。28.00–30.00秒：固定侧向中广景，深灰垂直轨道墙在画面左侧，对面站台和栏后乘客在右后方，长灯带指向车站深处。B在空中转到脚先朝墙，双脚脚掌明确接触垂直墙面，屈膝收腹形成紧凑蜷曲，脚下擦出少量墙灰，随后在ultra slow motion中缓缓伸膝、躯干向外转开，身体逐渐接近水平；脚掌仍抵住墙面，赭红腰带、宽裤与小碎片持续运动，体现接触、压缩和蓄力的连续过程，不是背部撞墙、悬空冻结或站在横倒的地面。30.00秒结束在B仍以双脚抵墙、身体向外展开的活画面，不添加完整蹬墙反扑、落地、死亡或胜负结局，无黑屏、无淡出、无片尾卡。节奏与连续性：保留快速追击、贴身闪避、投摔、空翻、飞踢、击柱、俯拍短打和跨站台位移的动作顺序，缩短观察与原对白停顿；只有甩起最高处、空中闪避和最终抵墙阶段使用局部慢动作，最终明确ultra slow motion，正常攻防必须高速流畅，不全局慢放，不用定格补足时长。A的黑色短辫、深棕肤色、青铜框护目罩、灰蓝无袖上衣与缠布前臂保持，露眼动作前后护目罩状态明确；B的左侧铜锈绿甲片与短骨鳍、右侧灰青粗鳞臂、蜥蜴状宽头、暗棕裤与赭红带保持，骨鳍不掉落、不换边、不变武器。被击倒者先接触地面再恢复支撑，主动跳跃先蹬地，受击飞行先有接触，墙面制动先脚掌接触再屈膝，所有运动保留重量、惯性与方向。背景群众持续作不同的自然避让动作，和主战者保持清楚空间，不融合、不突然穿进拳脚路径；受损柱面、落砖和破碎栏板在后续镜头保持破坏状态。无额外兵器、无多肢、无喷血、无肢解。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：地下站内通风与空间回响、鞋底踩踏和擦地、衣料与赭红腰带甩动、拳脚破风、实际接触的闷击、非语言呼吸和短促痛哼、碎石翻滚、混凝土开裂、玻璃碎裂、金属栏框弯折、乘客后退脚步、短暂紫光接触的非旋律电裂声，以及最后脚掌抵墙摩擦和墙灰落下。无对白、无旁白、无可懂喊词、无歌曲、无字幕；不得用脉冲声、管弦乐重击、旋律化音效设计或节奏性音效填补没有音乐的空缺，不把连拳、脚步或碎玻璃声编排成鼓点，不把通风声延伸成音乐性持续音。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 无标题、可读站名、logo、interface、播放器控件或watermark。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100233407108137349) · [원본 게시물](https://x.com/MadMax_Series/status/2100233407108137349) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100222426705453318"></a>
-
-### 타일 옵션을 선택할 수 있는 인터랙티브 아파트 워크스루
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-16 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0c6d0d55a3e8911c68a86b2e83152c98ca4d199a428c8b29f9ad12657dd497b3.webp" width="840" loading="lazy" alt="타일 옵션을 선택할 수 있는 인터랙티브 아파트 워크스루"></a>
-
-**프롬프트**
-
-```text
-Blender에서 완전히 사실적인 HD 3D 렌더링 모델을 제작한 다음, 아파트 내부를 돌아다니며 타일 옵션을 선택할 수 있는 인터랙티브 웹 경험을 구축해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-I want you to build a completely realistic HD 3D render model in blender, then build interactive web experience so I can walk within the apartment, and choose tile options.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100222426705453318) · [원본 게시물](https://x.com/scheemunai/status/2100222426705453318) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100193512373592313"></a>
-
-### PC판 스플래툰 개발 및 그래픽 재현
-
-[basio](https://x.com/basio39) · 2026-09-16 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014.webp" width="840" loading="lazy" alt="PC판 스플래툰 개발 및 그래픽 재현"></a>
-
-**프롬프트**
-
-```text
-/goal PC판 스플래툰을 개발해 주세요. 그래픽은 완벽하게 재현해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-/goal PC版スプラトゥーンを開発してください。グラフィックは完全に再現してください。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100193512373592313) · [원본 게시물](https://x.com/basio39/status/2100194321987461503) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### 가구가 움직이는 인터랙티브 3D 룸 장면
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="가구가 움직이는 인터랙티브 3D 룸 장면"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**프롬프트**
-
-```text
-제가 제공한 방 사진을 바탕으로 Blender MCP를 사용해 인터랙티브 3D 장면을 제작하고 데모 영상으로 렌더링하세요. 힌지, 문, 서랍 등 오브젝트가 실제로 움직이도록 구성하고, 이러한 동작이 잘 보이도록 자연스러운 카메라 무브를 사용하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100139076816916977) · [원본 게시물](https://x.com/walterzhu8/status/2100139076816916977) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### 참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**프롬프트**
-
-```text
-【미리 준비할 것】
-·만들고 싶은 세계관의 참고 이미지(외관·방 등)
-·캐릭터 공식 설정 이미지(삼면도 등)
-　※이미지가 없으면 재현할 수 없습니다. 꼭 첨부해 주세요.
-
-【프롬프트】
-첨부한 이미지를 바탕으로 제 세계관과 캐릭터를 실제로 움직일 수 있는 3D 공간과 게임 캐릭터로 전문가 수준에서 디자인합니다.
-
-① 첨부 이미지를 확인해 집과 캐릭터의 형태·색상·디테일을 파악합니다.
-　↓
-② Tripo에서 이미지로 3D 모델을 생성합니다(정면·후면·측면 전신 이미지 3장을 동일한 가로세로 비율로 준비).
-　↓
-③ Blender로 가져와 파츠의 배치와 크기를 조정합니다.
-　↓
-④ 자동 리깅을 설정하고 걷기·흔들림 등 캐릭터의 개성에 어울리는 동작을 적용합니다.
-　↓
-⑤ 유료 에셋 사용 등 판단이 필요한 분기점이 있으면 진행하기 전에 제게 확인을 요청합니다.
-　↓
-⑥ 작업 내용·막힌 부분·소재 위치를 다른 AI가 읽어도 재현할 수 있는 수준으로 기록합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099850719839109597) · [원본 게시물](https://x.com/aiehon_aya/status/2099850721646784894) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### 탐험 가능한 절차적 우주 탐험 게임
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="탐험 가능한 절차적 우주 탐험 게임"></a>
-
-**프롬프트**
-
-```text
-제가 볼 수 있는 모든 곳에 도달할 수 있어야 합니다. 거리는 실제 규모로 유지하고, 규모와 속도를 조정해 이동이 실용적으로 느껴지게 만들어 주세요. 우주에서 행성 대기로 진입한 뒤 지상까지 비행할 수 있어야 합니다. 행성은 지구만큼 클 수 있으므로 절차적 지형과 청크 기반 렌더러가 필요합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099785223827259515) · [원본 게시물](https://developers.openai.com/blog/how-to-build-games-with-astra) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### Apple 스타일 3D 하트 및 웃는 이모지
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Apple 스타일 3D 하트 및 웃는 이모지"></a>
-
-**프롬프트**
-
-```text
-Apple 스타일의 3D 하트 이모지와 웃는 이모지
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099750376530657300) · [원본 게시물](https://x.com/Just_sharon7/status/2099751278234767673) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### 인터랙티브 3D 생물체 신경계 패널
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="인터랙티브 3D 생물체 신경계 패널"></a>
-
-**프롬프트**
-
-```text
-인터랙티브 패널. 왼쪽에는 [organism]의 신경계 도식과 클릭 가능한 영역을 배치합니다. 오른쪽에는 프로시저럴 리깅이 적용된 3D [organism]을 배치합니다. 영역을 클릭하면 2.5초 동안 운동 반응이 실행됩니다. 어두운 UI와 속도 및 진행 방향 텔레메트리를 사용합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099719427990134984) · [원본 게시물](https://x.com/AIMind_Ai/status/2099719427990134984) · [사례 목록으로](#all-prompts)
 
 ---
 

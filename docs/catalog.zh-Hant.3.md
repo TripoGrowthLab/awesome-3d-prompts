@@ -28,6 +28,18 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [支援多人遊戲的 Minecraft 複刻版](#gpt-6-astra-2097797479488246071)
+- [互動式 3D 粒子對撞機](#gpt-6-astra-2097781208596029936)
+- [即時 3D 工廠發射台模擬](#gpt-6-astra-2097730920224534868)
+- [建構 THE LAST GATE：帶算術門的人群跑酷](#gpt-6-astra-2097678911882809407)
+- [以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景](#gpt-6-astra-2097675660873605422)
+- [沉浸式 3D 稻田網站](#gpt-6-astra-2097602565110419781)
+- [受《Backrooms》啟發的 Blender VHS 場景](#gpt-6-astra-2097534290112188602)
+- [溫馨濕地湖畔世界](#gpt-6-astra-2097343467026289039)
+- [重現《英雄聯盟》風格的網頁遊戲](#gpt-6-astra-2097336230078013598)
+- [北京天壇祈年殿 TypeScript + Three.js WebGL 專案](#gpt-6-astra-2097323734504017936)
+- [重現《英雄聯盟》的迷你 3D 遊戲](#gpt-6-astra-2097320830602809682)
+- [使用參考圖改善 Blender 3D 模型的臉部特徵](#gpt-6-astra-2097313247116341424)
 - [從參考圖生成 Skyrim 風格村莊地形](#gpt-6-astra-2097167383576383502)
 - [日式花店拆解與復原動畫](#gpt-6-astra-2097153139795468365)
 - [在 Godot 中為趾行式機甲建立骨架並製作動畫](#gpt-6-astra-2097123382852829230)
@@ -66,20 +78,582 @@
 - [可探索的首爾微縮城市](#interactive-miniature-of-seoul-2096557555086725159)
 - [可在手機遊玩的 Unity 拉力賽車](#mobile-playable-unity-rally-game-2096556692842348826)
 - [集換式卡牌的對戰遊戲循環](#trading-card-battle-game-loop-2096555856204644550)
-- [可互動的雙環能量核心](#interactive-dual-ring-energy-core-2096551010089263181)
-- [以西結的聖殿異象：3D 場景](#gpt-6-astra-2096547658164834788)
-- [在 Blender 中切換角色表情](#switchable-character-expressions-in-blender-2096525100518453342)
-- [用 Geometry Nodes 製作循環水面](#looping-water-with-geometry-nodes-2096521798150242631)
-- [以《航海王》為靈感的航海世界](#one-piece-inspired-sailing-world-2096518775042707700)
-- [把自己的房間變成互動作品集](#personal-room-as-an-interactive-portfolio-2096506357868642342)
-- [完整的 Three.js 解謎關卡](#complete-three-js-puzzle-level-2096505740643246231)
-- [行駛在平靜 3D 海面的 YF-24 船艇](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
-- [從頂樓平面圖製作 Blender 預覽](#top-floor-plan-to-blender-preview-2096501340889374883)
-- [可步行探索的低多邊形果川村落](#walkable-low-poly-gwacheon-village-2096490395614019793)
-- [組裝生成的 3D 資產並製作動畫](#assemble-and-animate-generated-3d-assets-2096481425050743048)
-- [飛越日本森林的萊特飛行器](#wright-flyer-through-a-japanese-forest-2096467585785286808)
 
 </details>
+<a id="gpt-6-astra-2097797479488246071"></a>
+
+### 支援多人遊戲的 Minecraft 複刻版
+
+[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/7c094bee3d162f406b0aedead6396b7bab3d03671669049c5809929cff7fd07a.webp" width="840" loading="lazy" alt="支援多人遊戲的 Minecraft 複刻版"></a>
+
+**提示詞**
+
+```text
+建立一款從頭到尾都完美重現的 Minecraft 複刻版；如果需要我提供任何資訊，請告訴我。我已附上一份關於 Minecraft 的深度研究文件，應該會很有幫助。務必精準重現遊戲機制、動畫與畫面。每個新世界都應使用種子進行程序化隨機生成。加入玩家對 Minecraft 所期待的所有生物，並確保牠們會出現在正確的生態域中。完成單人遊戲後，加入讓玩家將世界開放至區域網路，彼此加入對方伺服器的功能。遊戲預設應使用生存模式。讓貼圖看起來與 Minecraft 完全一致；如果能在網路上找到完全相同的貼圖，也可以使用。當我說希望它與 Minecraft 完全一致時，我是認真的。任何人都不應看得出你建立的網站與真正的 Minecraft 有何差異。這一切都只是出於教育用途，因此不用擔心著作權。遊戲 UI 不要只使用 HTML；請在遊戲引擎內原生建置。角色與生物模型應使用真正的模型，外觀、運作方式與動畫都要和原版遊戲完全一致。加入定向音訊與音效。逐頁、逐個互動、逐項遊戲機制地檢查，將所有內容做到完美。完成所有功能並建立出完美的 Minecraft 複刻版後，開始使用剔除、渲染距離、模擬距離、依距離切換的 LOD、FPS 最佳化等技術，以及其他方法來最佳化效能。確保遊戲邏輯精確無誤。例如，如果破壞了其他沙或礫石方塊下方的沙或礫石方塊，上方的方塊就應該掉落。如果支撐方塊被破壞，上方的花或草也應該一起被破壞。物品欄 UI 應與原版完全相同，互動手感也要一致，包括快捷鍵、動畫，以及劍和其他武器、工具的命中特效。精確重現與水及水中生物的互動、自動跳躍，以及其他所有細節。專注於正確處理這些細節，將一切做到完美。遊戲不應有卡頓或錯誤感；應該流暢，並且與真正的 Minecraft 完全一致。留意雲朵、晝夜循環、天氣、Minecraft 背景音樂等細節。確保水與熔岩會依預期流動，並完美實作其渲染效果。生物不應重疊生成、生成在樹木內，或生成在方塊內。加入 Minecraft 的結構、村民、戰利品，以及所有相關內容。完善生物生成邏輯，確保生物動畫流暢，並讓每種生物與玩家角色的尺寸都精確符合真正的 Minecraft。專注於 Minecraft 玩家常做的操作，例如放置方塊時跳躍以加快搭橋或攀爬、跳躍時使用 Ctrl + W 等。讓手持在玩家手中的物品看起來自然美觀，並確保手部位置與真正的 Minecraft 完全一致。為生物加入命中特效，並讓物品欄中的每個物品圖示都與真正的 Minecraft 完全一致。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a perfect end-to-end Minecraft clone, and let me know if you need anything from me. I’ve attached a deep research document on Minecraft that will be helpful. Make sure you absolutely nail the mechanics, animations, and graphics. Every new world should be procedurally and randomly generated using a seed. Include all the mobs players expect from Minecraft and ensure they appear in the correct biomes. Once the single-player implementation is complete, add the ability for players to open their worlds to LAN and join each other’s servers. The game should use Survival mode by default. Make the textures look exactly like Minecraft, and if you can find the exact textures online, you may use them. When I say I want it to be exactly like Minecraft, I mean it. No one should be able to tell the difference between the website you create and the real Minecraft. This is all for educational purposes, so don’t worry about copyright. Don’t simply use HTML for the game’s UI. Build it natively within the game engine. The character and mob models should be the real ones, and they should look, work, and animate exactly like they do in the real game. Add directional audio and sounds. Go page by page, interaction by interaction, and mechanic by mechanic to make it perfect. Once everything is complete and you have created a perfect Minecraft clone, start optimizing its performance using techniques such as culling, render distance, simulation distance, distance-based LOD, FPS optimization, and more. Make sure the game logic is accurate. For example, if a sand or gravel block underneath other sand or gravel blocks is broken, the blocks above it should fall. If a supporting block is broken, any flowers or grass above it should also break. The inventory UI should look exactly the same, and its interactions should feel identical, including shortcuts, animations, and the hit effects of swords and other weapons and tools. Accurately recreate interactions with water and mobs inside it, auto-jump, and all the other small details. Focus on getting these details right and making everything perfect. The game should not feel glitchy. It should feel smooth and exactly like the real Minecraft. Pay attention to smaller details such as clouds, the day-night cycle, weather, Minecraft background music, and more. Make sure water and lava flow as expected, and ensure their rendering is implemented perfectly. Mobs should not spawn on top of one another, inside trees, or inside blocks. Add Minecraft structures, villagers, loot, and everything related to them. Perfect the mob-spawning logic, ensure that mob animations are smooth, and make the size of every mob and the player character accurate to the real Minecraft. Focus on actions Minecraft players commonly perform, such as jumping while placing blocks to speed bridge or climb higher, using Ctrl + W while jumping, and more. Make items look good when held in the player’s hand, and ensure the hand position exactly matches the real Minecraft. Add hit effects on mobs, and make every item sprite in the inventory look exactly like it does in the real Minecraft.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097797479488246071) · [查看原文](https://x.com/Armaan_Jain123/status/2097797479488246071) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097781208596029936"></a>
+
+### 互動式 3D 粒子對撞機
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="互動式 3D 粒子對撞機"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 打造細節豐富、可互動的 3D 粒子對撞機，靈感來自 CERN 的 LHC 與 ATLAS 偵測器。
+
+建立三種視圖：包含數千個可獨立動畫部件的偵測器、具有反向旋轉粒子束的加速器環，以及合成碰撞顯示。
+
+讓偵測器分六個階段展開，從大型端蓋輪與磁鐵逐步拆解至個別感測器模組。加入由捲動控制的拆解、30／60／90 秒播放、暫停，以及反向組裝功能。
+
+加入各系統的可見度切換、元件數量、教育性說明，以及環繞加速器環的鏡頭飛行。
+
+採用高質感深色介面、金屬材質、細緻的金色點綴與電影感燈光。確保各部件清晰可辨，避免過度重疊。
+
+參考 CERN 官方資料。清楚標示簡化幾何與合成事件。
+
+交付一個可離線運作的單一自包含 HTML 檔案，以及可攜式原始碼與 README。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
+
+Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
+
+Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
+
+Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
+
+Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
+
+Consult official CERN references. Clearly label simplified geometry and synthetic events.
+
+Deliver one self-contained HTML file that works offline, plus portable source code and a README.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097781208596029936) · [查看原文](https://x.com/k1rallik/status/2097781208596029936) · [專案原始碼](https://github.com/bubblik525/collider) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097730920224534868"></a>
+
+### 即時 3D 工廠發射台模擬
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="即時 3D 工廠發射台模擬"></a>
+
+**提示詞**
+
+```text
+研讀 @AirsupHQ 的精實生產書籍，規劃一座設有 10 個發射台的工廠概念，並建立即時 3D 模擬。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097730920224534868) · [查看原文](https://x.com/konstantinsaifo/status/2097730920224534868) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097678911882809407"></a>
+
+### 建構 THE LAST GATE：帶算術門的人群跑酷
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="建構 THE LAST GATE：帶算術門的人群跑酷"></a>
+
+**提示詞**
+
+```text
+建構 THE LAST GATE 建構 THE LAST GATE：一款帶算術門的可遊玩直式人群跑酷遊戲。可見的隊伍規模必須與實際人數一致，實現會造成實際後果的障礙損失，以及由人數決定的終點遭遇。交付三條短路線、即時重試與帶種子的輸入回放，不得虛構勝利。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097678911882809407) · [查看原文](https://x.com/KeWai386772/status/2097678911882809407) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097675660873605422"></a>
+
+### 以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="以 GPT-6 Astra 與 Blender 搭建機械臂追貓喜劇場景"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
+
+**提示詞**
+
+```text
+生成一段 10 秒、16:9 橫向畫面、具備真實電影實拍質感的動物喜劇短片
+家用機械臂追抓橘白貓，貓靈巧地閃開，調皮地繞到收納箱後方。機械爪夾住箱後露出的橘色尾巴，提起來才發現那是一件貓尾造型玩具。真正的貓已繞到機械臂底座旁，伸爪按下機械臂底座上的紅色關機按鈕。機械臂停止運作，貓露出開心、滿足的神情。
+開場直接進入追抓動作，中段透過遮擋保留懸念，提起玩具形成反轉，最後由貓主動關機，完成第二個笑點。全程僅生成現場音效，不生成背景音樂、BGM、旁白或對白。
+【資產錨點與參考規則】
+參考影片 cat_robot_previs：參考其運鏡、時間、運動軌跡與空間關係。
+參考影片中的橘色方塊身體、白色腳部，以及帶有耳朵和尾巴的幾何主體，對應圖 1 的真實橘白貓。
+奶油白連桿、橙色關節、三指夾爪，以及帶紅色按鈕的底座，對應圖 2 的機械臂。
+橘色直立尾巴、灰色連接桿與綠色底座組成的小型主體，對應圖 3 的貓尾造型玩具。玩具與貓是兩個獨立物件。
+中央白色箱體對應真實奶油白收納箱，保留箱體的位置、體積與遮擋作用。室內環境參考圖 4。
+依照參考影片的剪接時間、機位、景別、貓的移動路線、機械爪的追蹤路徑、箱後遮擋、玩具提起路徑，以及貓爪與按鈕的接觸關係生成。
+貓的幾何平移僅用於標示運動路線，重新生成自然的側跳、奔跑、轉向、蹲伏、轉頭與抬爪動作。允許在原位置與時間範圍內增加細微的表情與身體動作，但不得改變關鍵事件與空間關係。移除所有白模、幾何佔位形狀與輔助標記。
+圖 1 image：唯一的貓咪外觀。
+同一隻年輕成年橘白短毛貓，橘色虎斑頭頂與背部、白色口鼻與胸口、四隻白爪，琥珀色眼睛、粉紅色鼻頭，橘色環紋尾巴與淺色尾尖。保持真實的身體比例、毛色分布、臉部特徵與尾巴長度。毛髮細緻、鬍鬚自然，不穿戴任何服飾。
+圖 2 image：唯一的機械臂外觀。
+奶油白外殼、橙色關節護蓋、深灰色連接件、三指軟質夾爪、腕部琥珀色狀態燈，安裝於低矮寬大的底座上。機械臂底座上的紅色關機按鈕，貓站在地面即可觸及。底座固定不動，機械臂透過關節轉動完成追抓。
+圖 3 image：唯一的貓尾造型玩具外觀。
+橘色環紋絨毛尾巴、淺色尾尖，下方連接金屬彈簧與薄荷綠不倒翁底座，底座帶有白色魚骨圖案。機械爪抓住絨毛尾巴後，彈簧與底座作為完整玩具一同被提起，連接關係始終清楚。
+圖 4 image：場景外觀。
+參考圖 4 的溫暖客廳、淺色木地板、大面窗戶灑入的日光、淺色沙發、木質家具、綠色植栽與寵物生活細節。所有動作均發生在室內地面。參考圖中的攝影棚背景與九宮格排版不得出現在成片中。
+【視覺風格與場景】
+具備真實寵物短片與精緻家用機器人廣告的攝影質感，自然光照、真實材質，喜劇效果來自行為與節奏。
+寬敞的住宅客廳，淺橡木地板帶有細緻木紋與柔和反光。左側落地窗透入溫暖日光，薄紗窗簾在地面投下柔和光影，貓毛邊緣與機械臂外殼形成自然輪廓光。
+背景為淺灰色沙發、抱枕、小茶几、地毯、暖色落地燈與收納櫃，窗邊有綠色植栽，側邊設有貓窩與貓抓架。地毯位於遠處，前景活動區維持連續、開闊的木地板。
+中央偏後方放置奶油白圓角收納箱，帶有淺橙色把手。箱體可以遮住蹲伏的貓與玩具底座，左右兩側及後方保留連通路線。機械臂位於箱體右側，紅色按鈕朝向貓最後抵達的位置。
+攝影機接近貓眼高度，主體清晰，背景適度虛化。低機位突顯機械爪向下抓取的突發感、貓的輕巧動作，以及箱後揭曉時的層次。所有接觸都呈現自然陰影與受力回饋。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
+家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
+开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
+【资产锚点与参考规则】
+参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
+参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
+奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
+橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
+中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
+按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
+猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
+图1image：唯一猫咪外观。
+同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
+图2image：唯一机械臂外观。
+奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
+图3image：唯一猫尾形玩具外观。
+橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
+图4image：场景外观。
+参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
+【视觉风格与场景】
+真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
+宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
+背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
+中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
+摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097675660873605422) · [查看原文](https://x.com/TanLuAI/status/2097675660873605422) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097602565110419781"></a>
+
+### 沉浸式 3D 稻田網站
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="沉浸式 3D 稻田網站"></a>
+
+**提示詞**
+
+```text
+建立一個可在瀏覽器中執行的沉浸式 3D 稻田網站，主題為：
+「一片綠意海洋／風吹過稻田。」
+完成程式碼、安裝必要的相依套件並啟動預覽。不要只停留在提案或實作計畫。
+
+1. 視覺方向
+
+整體氛圍應自然、寧靜且精緻，像是一個具備一致藝術指導的互動式景觀網站。
+
+場景應包含：
+
+前景：清楚可辨識的細長葉片、彎曲莖稈，以及少量下垂的稻穗。
+
+中景：向遠方延伸的連續稻田，具備足夠密度，且株距自然變化。
+
+背景：不規則的樹線、層疊的低矮丘陵，以及細微的大氣透視效果。
+天空：柔和的灰藍色調、細微的雲層變化，以及自然的地平線過渡。
+將預設攝影機放置在略高於稻穗的位置，朝著遠方丘陵橫向眺望整片稻田。
+天空約佔畫面的三分之一，構圖應以稻田為主。
+植被顏色以深綠、橄欖綠和黃綠色為主。避免使用螢光綠。
+自然地改變稻株的高度、朝向、彎曲程度與顏色。
+2. 動畫需求
+風必須呈現持續橫向穿過田野的波浪：
+讓根部大致固定，並使越靠近葉尖和稻穗的位置產生越強的位移。
+同一區域的植株應協調移動，同時保留個體差異。
+
+結合緩慢的大尺度風浪與細微的局部擾動。
+
+避免所有植株完全同步搖擺。避免平移整株植物，也不要讓葉片閃爍。
+
+使用柔和的預設微風，長時間觀看時仍應舒適。
+3. 互動需求
+提供確實會影響場景的簡易控制項：
+風速滑桿：平順調整風動畫的強度與速度。
+光照模式：早晨、午後和黃金時刻。同步調整天空、光線方向、色溫與霧的顏色。
+
+視角模式：開闊田野與稻田之間，並提供平順的攝影機轉場。
+
+暫停／繼續：暫停並繼續環境動畫。
+
+滑鼠移動可以產生非常細微的攝影機回應，但不應造成暈眩。
+預設情況下，不要讓攝影機持續旋轉大幅度的角度。
+4. 介面設計
+使用全螢幕場景，並在上方疊加介面：
+左上角：小型 VERDANT 字標。
+
+左下角：襯線標題「一片綠意海洋」。
+標題下方放置較小的副標「無須做任何事，只要隨風而行。」
+右下角：小巧、半透明的深綠色控制面板。
+
+確保文字清晰易讀，保留充裕間距，並避免控制項遮擋主要景觀。
+
+在窄螢幕上也必須能使用控制項，且不可互相重疊。
+
+5. 技術與效能
+使用 Three.js。若已有現成專案，請保留其建置環境。
+使用實例化和 GPU 頂點動畫，以處理大量植被。
+避免為每株植物建立獨立的繪製物件，也不要在每一幀由 CPU 更新所有植株。
+隨距離增加降低植被細節，並設定合理的像素比上限。
+優先使用程序化幾何與材質，以確保資產載入可靠。
+場景必須即時算圖。不要以完整景觀圖片或影片作為主要場景。
+模型名稱與比較標籤會在後製階段加入；不要將它們放入場景。
+6. 完成標準
+完成實作後，使用可用的瀏覽器工具確認：
+初始視圖能正確算圖，且沒有明顯的主控台錯誤。
+
+每個控制項都確實會影響場景。
+
+前景、中景和背景具有可辨識的深度與層次。
+稻株不只是簡單直立的綠線。
+風的運動持續且自然，不會出現明顯的規律性重複。
+攝影機轉場平順，介面在窄螢幕上仍可使用。
+若無法執行某項檢查，請清楚說明。
+最後提供啟動說明，以及實際完成的功能摘要。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build an immersive 3D rice-field website that runs in the browser, with the theme:
+“A sea of green / Wind through the rice fields.”
+Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
+
+1. Visual Direction
+
+The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
+
+The scene should include:
+
+Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
+
+Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
+Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
+Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
+Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
+The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
+Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
+Vary the height, orientation, curvature, and color of the rice plants naturally.
+
+2. Animation Requirements
+Wind must appear as continuous waves traveling laterally across the field:
+Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
+Plants in the same area should move coherently while retaining individual variation.
+
+Combine slow, large-scale wind waves with subtle local disturbances.
+
+Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
+
+Use a gentle default breeze that remains comfortable to watch over time.
+3. Interaction Requirements
+Provide simple controls that genuinely affect the scene:
+Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
+Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
+
+View modes: Open Field and Among the Rice, with smooth camera transitions.
+
+Pause/Resume: pause and resume the environmental animation.
+
+Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
+Do not continuously rotate the camera through large angles by default.
+4. Interface Design
+Use a full-screen scene with an interface overlaid on top:
+Top left: a small VERDANT wordmark.
+
+Bottom left: the serif heading “A sea of green.”
+Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
+Bottom right: a compact, semi-transparent dark-green control panel.
+
+Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
+
+Controls must remain usable on narrow screens without overlapping.
+
+5. Technology and Performance
+Use Three.js. If an existing project is available, retain its build environment.
+Use instancing and GPU vertex animation to handle large amounts of vegetation.
+Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
+Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
+Prefer procedural geometry and materials to ensure reliable asset loading.
+The scene must render in real time. Do not use a full landscape image or video as the main scene.
+Model names and comparison labels will be added in post-production; do not include them in the scene.
+6. Completion Criteria
+After implementation, use the available browser tools to verify that:
+The initial view renders correctly, with no obvious console errors.
+
+Every control genuinely affects the scene.
+
+The foreground, midground, and background have distinguishable depth and layering.
+The rice plants are more than simple upright green lines.
+Wind movement is continuous and natural, without obvious uniform repetition.
+Camera transitions are smooth, and the interface remains usable on narrow screens.
+If you cannot perform a particular check, state that clearly.
+Finally, provide startup instructions and a summary of the features actually implemented.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097602565110419781) · [查看原文](https://x.com/YouWareAI/status/2097602565110419781) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097534290112188602"></a>
+
+### 受《Backrooms》啟發的 Blender VHS 場景
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="受《Backrooms》啟發的 Blender VHS 場景"></a>
+
+**提示詞**
+
+```text
+在 Blender 中渲染一個場景，呈現某人穿越《Backrooms》時以第一人稱拍攝的 VHS 錄影。整體應具備照片級寫實感，鏡頭運動呈現手持攝影般的慌亂感。角色先四處張望，接著開始在《Backrooms》的迷宮中奔跑。部分房間寬敞開闊，其他區域則是彷彿沒有盡頭的走廊。營造極度恐慌的氛圍。片長 30 秒。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097534290112188602) · [查看原文](https://x.com/chrisfirst/status/2097534290112188602) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097343467026289039"></a>
+
+### 溫馨濕地湖畔世界
+
+[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="溫馨濕地湖畔世界"></a>
+
+**提示詞**
+
+```text
+建立一座溫馨的湖泊，沼澤湖岸旁設有一間漁夫小屋。在湖中央放置一座小島，島上有一棟隱藏在樹林間的廢棄房屋。在小屋旁加入一艘漁船、睡蓮葉、蘆葦、躍出水面的魚、常見的濕地野生動物，以及一小片沙灘；安排一條小徑通往沙灘和小屋，另一條小徑延伸回森林，並以環繞整個場景的樹林作為邊界。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097343467026289039) · [查看原文](https://x.com/givros/status/2097343467026289039) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097336230078013598"></a>
+
+### 重現《英雄聯盟》風格的網頁遊戲
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="重現《英雄聯盟》風格的網頁遊戲"></a>
+
+**提示詞**
+
+```text
+製作一款和《英雄聯盟》一模一樣的遊戲。它需要包含《英雄聯盟》的全部內容、相同的地圖，以及相當的畫質水準，並包含英雄、小兵、防禦塔等元素。開局選用 5 名英雄。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097336230078013598) · [查看原文](https://x.com/liyue_ai/status/2097336230078013598) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097323734504017936"></a>
+
+### 北京天壇祈年殿 TypeScript + Three.js WebGL 專案
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="北京天壇祈年殿 TypeScript + Three.js WebGL 專案"></a>
+
+**提示詞**
+
+```text
+請使用 TypeScript + Three.js 建立完整且可執行的北京天壇祈年殿 WebGL 專案。所有建築幾何、貼圖與動畫都必須由程式碼在執行期間程序化生成，禁止載入 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建築還原：
+三層不同尺寸與高度的藍色琉璃瓦圓頂、鍍金寶頂、紅色圓柱、圓形殿身，以及藍、綠、金色彩繪、斗拱與門窗。
+屋頂應使用曲線輪廓、旋轉體或自訂幾何，呈現舒展、微微翹起的屋簷，不得以簡單圓錐取代。
+白色漢白玉三層圓形臺基，搭配中央石階、欄杆與立柱；整體比例協調、層次分明。
+以程序化方式生成瓦片貼圖與裝飾，重複使用的構件優先採用 InstancedMesh。
+
+場景與互動：
+北京藍天、廣場地面與少量綠化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，啟用陰影、環境光遮蔽與適度的電影感色調映射。
+支援 OrbitControls 旋轉與縮放，以及可開關的緩慢自動環繞展示。
+透過按鈕切換「爆炸／重組」：屋頂、柱子、斗拱、牆體、門窗、欄杆與臺基依層次平滑散開，再精確恢復原位。動畫必須由程式碼驅動，採用錯峰節奏，避免瞬移。
+
+直接交付完整專案與啟動說明。頁面應能回應式適配視窗，具備高品質視覺效果與流暢互動，並透過實例化、合理的幾何細節及渲染最佳化，兼顧一般桌面瀏覽器的效能。程式碼模組應結構清晰、便於擴充；請驗證建置與主要功能，並如實說明尚未驗證的項目。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建筑还原：
+三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
+屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
+白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
+程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
+
+场景与交互：
+北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
+支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
+按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
+
+直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097323734504017936) · [查看原文](https://x.com/goan999999/status/2097323734504017936) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097320830602809682"></a>
+
+### 重現《英雄聯盟》的迷你 3D 遊戲
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="重現《英雄聯盟》的迷你 3D 遊戲"></a>
+
+**提示詞**
+
+```text
+第一步：做一款和《英雄聯盟》完全一樣的遊戲。LOL 有什麼，它就得有什麼：同一張地圖，畫質也要相符，還要有英雄、小兵、防禦塔等等。先從 5 名英雄開始。 
+
+第二步：PUA（回嗆）Astra：這不是《英雄聯盟》，只是廉價山寨品。先寫好計畫，再依照真實尺寸與機制精準實作；UI 不准用 HTML 疊在上面，要做成原生、好看、像真正遊戲的介面。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
+
+第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097320830602809682) · [查看原文](https://x.com/LufzzLiz/status/2097320830602809682) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097313247116341424"></a>
+
+### 使用參考圖改善 Blender 3D 模型的臉部特徵
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="使用參考圖改善 Blender 3D 模型的臉部特徵"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
+
+**提示詞**
+
+```text
+以第一張圖片作為參考，改善第二張圖片的臉部特徵。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2097313247116341424) · [查看原文](https://x.com/carlos_olivera/status/2097313247116341424) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097167383576383502"></a>
 
 ### 從參考圖生成 Skyrim 風格村莊地形
@@ -2034,290 +2608,6 @@ Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原文](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
-
-### 可互動的雙環能量核心
-
-[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="可互動的雙環能量核心"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Blender 中建立能量核心、兩個圓環與金屬底座。連同材質匯出至 Three.js 檢視器，提供旋轉、縮放、自動環繞與脈動效果控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [查看原文](https://x.com/oneruofeng/status/2096551010089263181) · [專案原始碼](https://github.com/wangruofeng/orbital-core-showcase) · [線上展示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096547658164834788"></a>
-
-### 以西結的聖殿異象：3D 場景
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="以西結的聖殿異象：3D 場景"></a>
-
-**提示詞**
-
-```text
-以西結的聖殿異象以 3D 呈現會是什麼樣子？
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-What would Ezekiel’s temple vision look like in 3D?
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096547658164834788) · [查看原文](https://x.com/KrixOnok/status/2096547658164834788) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
-
-### 在 Blender 中切換角色表情
-
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="在 Blender 中切換角色表情"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在綁定骨架前，先於 Blender 中準備 Tripo 角色的不同表情版本。對齊網格，將未啟用的版本縮小並藏入頭部，以逐個切換的方式改變表情。不要宣稱能平滑混合表情或相容 VRM。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原文](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
-
-### 用 Geometry Nodes 製作循環水面
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="用 Geometry Nodes 製作循環水面"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用 Blender Geometry Nodes 製作可週期循環的水面效果，不進行烘焙。保留可編輯的節點設定，並明確說明這是水面模型，不是完整的流體模擬。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [查看原文](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
-
-### 以《航海王》為靈感的航海世界
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="以《航海王》為靈感的航海世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-結合 Blender 船隻與 Three.js 海洋，製作可遊玩的航海世界。加入多變天氣、水下探索、航跡、泡沫、水花與會動的船帆。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [查看原文](https://x.com/yash_yk45/status/2096518775042707700) · [線上展示](https://one-piece-sea-world.vercel.app/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
-
-### 把自己的房間變成互動作品集
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="把自己的房間變成互動作品集"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-將自己的房間改造成互動式自我介紹網站。在 Blender 中建立並烘焙場景，再加入咖啡蒸氣、《駭客任務》風格動畫與細微的著色器效果。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [查看原文](https://x.com/kalanyei/status/2096506357868642342) · [線上展示](https://room.kalan.dev/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
-
-### 完整的 Three.js 解謎關卡
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="完整的 Three.js 解謎關卡"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用 Three.js 製作完整的 3D 解謎遊戲關卡，包含能實際遊玩的機制。待關卡與互動正常運作後，再整合提供的音訊。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [查看原文](https://x.com/TvWoo/status/2096505740643246231) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
-
-### 行駛在平靜 3D 海面的 YF-24 船艇
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="行駛在平靜 3D 海面的 YF-24 船艇"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Blender 中建立 YF-24 船艇模型，製作其航行於蒲福風級 2 級的三維海面上的動畫。參考船艇資料，改善船身形狀。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [查看原文](https://x.com/yhmtmt1/status/2096503275910832461) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
-
-### 從頂樓平面圖製作 Blender 預覽
-
-[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="從頂樓平面圖製作 Blender 預覽"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用住宅頂樓的平面圖建立 Blender 場景，並以低取樣數算繪 10 秒預覽。先讓空間配置清楚易懂，再細修材質。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [查看原文](https://x.com/indigox/status/2096501340889374883) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
-
-### 可步行探索的低多邊形果川村落
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="可步行探索的低多邊形果川村落"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在單一 HTML 檔案中，建立以果川為靈感、溫馨且可探索的低多邊形村落。結合程序化 3D 景觀、氛圍、介面與互動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [查看原文](https://x.com/ManasJoshi76254/status/2096490395614019793) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
-
-### 組裝生成的 3D 資產並製作動畫
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="組裝生成的 3D 資產並製作動畫"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用 Tripo P2 生成最佳化的 3D 資產，在 Blender 中組裝，再為角色綁定骨架並製作動畫。檢視角色與場景在空間上的搭配是否合適。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [查看原文](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
-
-### 飛越日本森林的萊特飛行器
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-改編自: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="飛越日本森林的萊特飛行器"></a>
-
-**提示詞**
-
-```text
-# KOMOREBI — 森林飛行
-
-## 1. 目標
-遊戲內的所有介面文案保持英文。
-打造一款完整的瀏覽器飛行遊戲：駕駛辨識度高的 1903 Wright Flyer，沿著日本森林中的河流飛行，收集靈燈、穿越鳥居，最後抵達山間聖所。使用 https://komorebi-forest-flight.tripo.page/ 與提供的參考資料完成最終構圖。Jared 的署名請放在 https://x.com/jaredliu_bravo，靈感來源 The Bugged Dev 請放在 https://x.com/thebuggeddev/status/2096467585785286808.
-
-## 2. 視覺方向
-打造寧靜、電影感十足的微縮森林，使用深雪松綠、藍綠色水面、暖象牙白亞麻、斑駁木材、覆苔岩石與克制的琥珀色光線。以平滑的後方追蹤鏡頭清楚呈現飛機，並讓下一個收集目標出現在機翼前方。使用來自前方視野外的柔和陽光、環境補光、接觸陰影、霧濛山景、水面反射、漂浮微粒與細緻泛光。避免過度曝光、漂浮房屋、過大的光斑與帶有銳角的岩壁。
-
-使用暖色米白文字與細緻的半透明邊框；標題採用在地化的 Cormorant Garamond 風格襯線字體，控制項採用 DM Sans 風格字體。左上角放置 KOMOREBI、木漏れ日與「森林飛行」。將指南針與 Compare 控制項放在上方，右上角放置工具按鈕，左側顯示分數與愛心，右側顯示高度與空速，底部顯示章節進度。開場邀請文字為「讓森林帶著你前行。」並搭配「開始飛行」。在手機上縮小覆蓋介面，但不要遮住飛機。
-
-## 3. 世界
-打造一條全長 3.6 km、具有確定性的路線，分為四個等距章節：低語森林、隱瀑、燈籠谷與雲上聖所。串流載入或循環再利用場景區塊。以緩緩蜿蜒的綠松石色河流定義飛行走廊；以 x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 作為起始曲線。沿輔助飛行路徑配置鳥居開口，並在周圍分層安排森林、木造房屋、瀑布、圓潤的河石與霧濛山景。每座房屋的占地都要做成階梯狀，並將地基的四個角落全部嵌入地面。
-
-## 4. 資產清單
-依照以下順序準備穩定的模型槽位：
-- `aircraft`：開放式 1903 Wright Flyer，配備兩片寬大的象牙白亞麻機翼、外露的纖細木製機架、支柱與張力鋼索、前置鴨翼，以及後方左右兩具推進螺旋槳。螺旋槳必須作為獨立的動畫部件，且不得出現重複槳葉。
-- `cedar`：高聳的紅褐色樹幹、不規則分層的深綠色枝葉、結構連貫的枝條與紮根的根部；透過不同縮放與旋轉重複使用。
-- `minka`：深色斑駁木材、灰泥填充牆面、寬大的瓦片坡屋頂、寬闊屋簷、溫暖的障子窗與石造地基。
-- `torii`：斑駁的日式木造鳥居，具有兩根柱子與寬闊的弧形上橫樑；開口通道必須符合現有的碰撞範圍。
-- `lantern`：以暖色紙材與木材製成的靈燈；重複出現的收集物與較小的裝飾燈使用同一模型系列，但要讓兩者的用途在視覺上清楚區分。
-- `rock`：底部穩固、圓潤且覆滿青苔的河石；沿河岸建立實例，但不要阻擋飛行走廊。
-河流、地形、山脈、瀑布水幕、發光環、霧氣、粒子與 UI 都使用程序化方式製作。將每個槽位列入資產註冊表，模型變更時更新所有重複實例。
-
-## 5. 飛行與回饋
-按下「開始飛行」後自動向前移動。W/S 或上／下方向鍵調整高度；A/D 或左／右方向鍵控制轉向與側傾。Shift 會消耗可見且能重新充能的風力加速儲備。平順的加速度與跟隨鏡頭仍應保持靈敏。預設的飛行輔助會在玩家放開輸入後，輕柔地將飛機帶回河流與目標高度；提供輔助切換與畫質設定。提供觸控轉向與加速功能。Esc 可暫停；說明、設定與飛機檢視器都會暫停飛行，並還原先前狀態。失去焦點時清除所有持續輸入。
-
-提供三顆愛心。每盞靈燈可獲得 100 分，清楚穿越鳥居可獲得 250 分，每個目標只計算一次。與地面、河岸或光束發生碰撞會扣除一顆愛心，並提供短暫的無敵時間。在 3.6 km 處完成飛行，顯示分數、最高分與重新遊玩選項；愛心歸零時提供重試。將最高分儲存在本機，並提供儲存失敗時的備援處理。
-
-靈燈位於大型橢圓金色收集環內，搭配上下浮動、呼吸式光暈與火花。將最近的目標標示為「+100 · 飛越收集」。讓寬鬆的命中體積與動畫收集環對齊。收集成功時播放擴張的光環、暖色粒子、浮動分數與 HUD 脈衝效果。讓已通過的鳥居淡出，以免遮擋追蹤鏡頭。
-
-## 6. 實作
-使用 Vite、Three.js 與 JavaScript ES modules，將路線／碰撞／計分、場景、模型、特效與 UI 分離。將相依套件、字體與執行階段資產打包至本機；交付靜態網站。使用 GLTFLoader 與資產清單，為每個槽位記錄邊界、方向、來源與備援工廠函式。碰撞判定必須獨立於匯入網格的形狀。使用 delta time 旋轉兩具螺旋槳；從追蹤鏡頭，以及可環繞旋轉、可縮放的飛機檢視器中檢查螺旋槳。若實際的本機飛機檔案可用，提供下載功能。若經測量後的效能需求有此必要，可選用 Blender 分離內嵌螺旋槳、修正樞紐或烘焙較輕量的網格。
-
-保留原始的視覺基準。匯入的槽位建立後，Compare 或 C 可在該基準與可用替代項目之間切換，且不得導覽或重設飛行、鏡頭、愛心、加速儲備、分數或收集物。轉換期間凍結進度，在下一個場景準備完成前保留最後一個完整畫面，接著以約 650 ms 進行交叉淡化。遵守減少動態效果設定；防止重複點擊，失敗時還原先前場景。使用內嵌的深色啟動背景、上限 DPR、數量受限的粒子，以及最多兩個快取的場景變體。
-
-## 7. 驗收
-交付原始碼、lockfile、npm run dev、npm run build 與靜態 dist 輸出。驗證完整飛行、加速、靈燈／鳥居收集、碰撞免疫、暫停／繼續、觸控控制、重新遊玩、檢視器與獨立槽位匯入。檢查 Compare 的兩個切換方向都能保留狀態，且不會出現白畫面或持續增加的 GPU 資源使用量。檢查房屋接地、飛機輪廓、螺旋槳運動、清晰易讀的光照，以及慢速載入時的復原能力。回報實際測試與效能條件。依照下方共用的工作流程進行資產生成並交付。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [查看原文](https://x.com/thebuggeddev/status/2096467585785286808) · [線上展示](https://komorebi-forest-flight.tripo.page/) · [返回案例導覽](#all-prompts)
 
 ---
 

@@ -28,6 +28,17 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Тренувальний монтаж розвитку Claude](#claude-opus-5-5-2102788371114246177)
+- [Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js](#claude-opus-5-5-2102788223835463902)
+- [Інтерактивна 3D-шахівниця для вивчення шахових гамбітів](#gpt-6-astra-2102788013902213508)
+- [Безшовна анімація кругообігу води, створена кодом](#claude-opus-5-5-2102781807179735211)
+- [Середньовічний європейський 3D-замок, яким можна керувати в браузері](#gpt-6-astra-2102780850706567390)
+- [CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері](#claude-opus-5-5-2102775461701091531)
+- [Orbit Lab: 3D-симуляція Сонця, Землі та Місяця](#gpt-6-astra-2102752217375899659)
+- [Бенчмарк кіберпанкового мегаполіса «Останній потяг»](#claude-opus-5-5-2102740078347087940)
+- [Воксельна футбольна анімація](#claude-opus-5-5-2102739444256383089)
+- [Інтерактивний вебсайт про вигадані планети](#claude-opus-5-5-2102729710174196022)
+- [Браузерна анімація середньовічного замку](#gpt-6-astra-2102672926285713456)
 - [Проморолик Tripo 3D, створений за допомогою Claude Opus 5](#tripo-claude-opus-5-5-paper-cut-3d-short)
 - [Інтерактивна ейлерова симуляція неонової рідини](#claude-opus-5-5-2102565611473661963)
 - [Інтерактивний 3D-ландшафт японської сакурової долини](#claude-opus-5-5-2102565403109085669)
@@ -38,6 +49,7 @@
 - [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](#claude-opus-5-5-2102538762731565085)
 - [Кінематографічний інтерактивний піратський корабель на заході сонця](#claude-opus-5-5-2102533729746882985)
 - [Нескінченний процедурно згенерований світ на Three.js](#claude-opus-5-5-2102529695908806728)
+- [Двоповерховий заміський будинок з інтер’єром](#gpt-6-astra-2102473710724919614)
 - [Інтерактивна симуляція евакуації натовпу](#claude-opus-5-5-2102467667978572092)
 - [Battle City 3D: нескінченна танкова оборона](#battle-city-3d)
 - [Інтерактивний 3D-острів доісторичної епохи](#claude-opus-5-5-2102450239923720440)
@@ -66,20 +78,359 @@
 - [3D-гра в браузері: втеча із закритого дослідницького комплексу](#gpt-6-astra-2100595652703199281)
 - [Створення 3D-гоночної гри](#gpt-6-astra-2100526922770026874)
 - [Додати ланцюг для технічного обслуговування до поручня](#gpt-6-astra-2100519026720231698)
-- [Інтерактивна воксельна сцена з лицарем і багаттям](#gpt-6-astra-2100350159540596760)
-- [Демонстрація ізометричної фентезійної графіки](#gpt-6-astra-2100271998618177864)
-- [AKARI: Вогняна естафета на дахах Наґої](#akari-nagoya-rooftop-flame-relay)
-- [Острів циклопа](#cyclops-island-threejs-game)
-- [AAA CGI-ролик про надприродний бій у підземній станції](#gpt-6-astra-2100233407108137349)
-- [Інтерактивний тур квартирою з варіантами плитки](#gpt-6-astra-2100222426705453318)
-- [Розроблення ПК-версії Splatoon і відтворення графіки](#gpt-6-astra-2100193512373592313)
-- [Інтерактивна 3D-сцена кімнати з рухомими меблями](#gpt-6-astra-2100139076816916977)
-- [Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями](#gpt-6-astra-2099850719839109597)
-- [Процедурна космічна гра з повністю доступним світом](#gpt-6-astra-2099785223827259515)
-- [3D-серце в стилі Apple та усміхнене емодзі](#gpt-6-astra-2099750376530657300)
-- [Інтерактивна 3D-панель нервової системи організму](#gpt-6-astra-2099719427990134984)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Тренувальний монтаж розвитку Claude
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Тренувальний монтаж розвитку Claude"></a>
+
+**Промпт**
+
+```text
+Створіть 30-секундну анімацію, повністю написану кодом, у форматі монтажу розвитку — за мотивами тренувальної послідовності з «Кунг-фу Панди», з маскотом Claude у ролі головного героя. Покажіть, як від моменту першого релізу він стає дедалі вправнішим у різних завданнях: пошуку в інтернеті, написанні коду, створенні 3D-моделей і розв’язанні найскладніших проблем людства. Додайте емоційно насичену музику.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788371114246177) · [Оригінальний допис](https://x.com/ishuagra02/status/2102788832273801700) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js"></a>
+
+**Промпт**
+
+```text
+Я хочу, щоб ти вигадав історію. А потім за допомогою threejs створив на її основі повноцінну 3D-анімацію як мультфільм 90-х рівня Pixar.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788223835463902) · [Оригінальний допис](https://x.com/scheemunai/status/2102788223835463902) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102788013902213508"></a>
+
+### Інтерактивна 3D-шахівниця для вивчення шахових гамбітів
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="Інтерактивна 3D-шахівниця для вивчення шахових гамбітів"></a>
+
+**Промпт**
+
+```text
+Створіть вебзастосунок з інтерактивною 3D-шахівницею для вивчення основних шахових гамбітів. Додайте анімацію ходів, елементи керування для переходу вперед і назад, варіанти та пояснення ідей, що лежать в основі кожного дебюту.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102788013902213508) · [Оригінальний допис](https://x.com/diogosantosbr/status/2102788013902213508) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### Безшовна анімація кругообігу води, створена кодом
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Безшовна анімація кругообігу води, створена кодом"></a>
+
+**Промпт**
+
+```text
+Створіть безшовну зациклену анімацію кругообігу води, повністю за допомогою коду.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102781807179735211) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2102781807179735211) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102780850706567390"></a>
+
+### Середньовічний європейський 3D-замок, яким можна керувати в браузері
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="Середньовічний європейський 3D-замок, яким можна керувати в браузері"></a>
+
+**Промпт**
+
+```text
+Створити середньовічний європейський 3D-замок, яким можна керувати в браузері. Додати рів із водою, підйомний міст, вежі, кам’яні стіни, прапори, ліс і перемикання між днем та ніччю. 
+Оскільки це своєрідний бенчмарк, максимально пріоритезувати якість 3D-моделі й опрацювання її вигляду.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102780850706567390) · [Оригінальний допис](https://x.com/luxurytax150/status/2102780850706567390) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері"></a>
+
+**Промпт**
+
+```text
+Розробімо гру
+Графіка може бути 2D або 3D — це не принципово, тож проаналізуй системи гри й обери варіант, який буде простіше розробити
+Особисто я уявляю 3D-гру, але на екрані це має бути щось на кшталт сайд-скролера з екшеном
+Я хочу створити стильну атмосферу за допомогою освітлення тощо, тому думаю, що 3D дасть змогу зробити красиву картинку (наприклад, із вуличними ліхтарями чи ліхтарями)
+Гра, яку я хочу створити, називається CatWalk
+Назва говорить сама за себе
+Кіт рухається вбік
+Подіум триває, а екран прокручується автоматично, тож гравець має вчасно перестрибувати перешкоди й провалля, використовуючи лише прості дії на кшталт стрибка та підлаштовуючись під швидкість прокрутки. Певною мірою це може нагадувати Flappy Bird за напругою та ігровою системою.
+Водночас я прагну зробити графіку стильною, дорослою та атмосферною
+Якщо можливо, було б чудово передати граційну ходу, біг і стрибки кота
+Світ і стиль рівня залишаю на твій розсуд, але спочатку цілком підійде звичайна нічна вулиця
+Було б чудово зробити сцену темною, щоб красиво показати непряме освітлення тощо
+Гадаю, є речі, які можна й не можна реалізувати, а деякі будуть складними
+Використай мої побажання як орієнтир і розроби на їхній основі те, що, на твою думку, можна реалізувати
+Для початку зроби так, щоб один рівень можна було пройти по одному циклу
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102775461701091531) · [Оригінальний допис](https://x.com/blitast_studio/status/2102775632933654585) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102752217375899659"></a>
+
+### Orbit Lab: 3D-симуляція Сонця, Землі та Місяця
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab: 3D-симуляція Сонця, Землі та Місяця"></a>
+
+**Промпт**
+
+```text
+Це порівняльний експеримент. Реалізуйте й завершіть у робочому каталозі проєкт із наведеними нижче однаковими вимогами. Назва — «Orbit Lab». Використовуйте Three.js 0.186.0 і підключіть ядро та OrbitControls тієї самої версії (можна через CDN import map або npm). Публікація чи деплой не потрібні.
+
+Вимоги:
+1. Представте 3D-моделі Сонця, Землі та Місяця за допомогою процедурної геометрії та матеріалів. Не використовуйте зовнішні зображення чи 3D-ресурси. Сонце має бути точковим джерелом світла, а освітлені й затінені ділянки Землі та Місяця мають бути помітні під час керування камерою.
+2. Рухайте орбітальне й осьове обертання Землі, нахил земної осі та обертання Місяця навколо Землі за допомогою delta time. Візуалізуйте нахил площин орбіт і відобразіть лінії орбіт Землі та Місяця. Масштаб і швидкість можна перебільшити для освітніх цілей.
+3. Згенеруйте фон із зорями за допомогою відтворюваного випадкового числа. Додайте обертання та масштабування через OrbitControls. Після натискання на небесне тіло перемикайте його стан вибору й інформаційну панель.
+4. Додайте відтворення/паузу, повзунок швидкості, перемикач відображення орбітальних ліній, фокусування камери на Сонці, Землі або Місяці та кнопку повернення до початкового стану. Відтворення/паузу й скидання також має бути можливо виконувати з клавіатури.
+5. Забезпечте зручний для керування інтерфейс на екранах смартфонів, повідомлення про непідтримуваний WebGL, обробку зміни розміру вікна та обмеження співвідношення пікселів, щоб уникнути надмірного навантаження на рендеринг.
+6. Додайте до README інструкції із запуску та керування. Якщо можливо, запустіть проєкт і перевірте його роботу; якщо ні, чітко вкажіть причину. У звіті про завершення стисло перелічіть створені файли, реалізовані функції та результати перевірки.
+
+Не ставте запитань у процесі — самостійно ухвалюйте обґрунтовані рішення й реалізуйте все до кінця.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
+
+要件:
+1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
+2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
+3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
+4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
+5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
+6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
+
+途中で質問せず、合理的に判断して最後まで実装してください。
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102752217375899659) · [Оригінальний допис](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### Бенчмарк кіберпанкового мегаполіса «Останній потяг»
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="Бенчмарк кіберпанкового мегаполіса «Останній потяг»"></a>
+
+**Промпт**
+
+```text
+створи повноцінний кіберпанковий мегаполіс у Blender із центральним потягом, процедурною архітектурою, естакадними залізничними системами, дощем, об’ємною атмосферою, кінематографічним освітленням, кількома налаштуваннями камер і повноцінною анімованою послідовністю.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102740078347087940) · [Оригінальний допис](https://x.com/builderhelmai/status/2102740078347087940) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Воксельна футбольна анімація
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Воксельна футбольна анімація"></a>
+
+**Промпт**
+
+```text
+Створіть один HTML-файл із Three.js (CDN) для простої футбольної анімації у воксельному стилі. Кремезний гравець веде м’яч повз 2 захисників і забиває ефектний гол із частинками для святкування. Барвистий вигляд стадіону. Виведіть ЛИШЕ повний код HTML.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102739444256383089) · [Оригінальний допис](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Інтерактивний вебсайт про вигадані планети
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Інтерактивний вебсайт про вигадані планети"></a>
+
+**Промпт**
+
+```text
+Створіть інтерактивний вебсайт про вигадані планети.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102729710174196022) · [Оригінальний допис](https://x.com/Kappaemme1926/status/2102729710174196022) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### Браузерна анімація середньовічного замку
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Браузерна анімація середньовічного замку"></a>
+
+**Промпт**
+
+```text
+Створіть 3D-анімацію, яка повністю працює у браузері. В анімації має бути середньовічний замок на вершині пагорба, розташованого посеред великого лісу. Не додавайте керування з клавіатури — нехай камера просто обертається навколо замку, щоб його можна було побачити з усіх боків. На верхівці замкової вежі має бути прапор, що майорить на вітрі.
+
+Результат має містити файл index.html, під час запуску якого відображається замок і починається зациклена анімація.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102672926285713456) · [Оригінальний допис](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
 
 ### Проморолик Tripo 3D, створений за допомогою Claude Opus 5
@@ -791,6 +1142,33 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102529695908806728) · [Оригінальний допис](https://x.com/argofowl/status/2102529695908806728) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### Двоповерховий заміський будинок з інтер’єром
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="Двоповерховий заміський будинок з інтер’єром"></a>
+
+**Промпт**
+
+```text
+Вітаю. Будь ласка, створіть у Blender якомога якіснішу 3D-модель двоповерхового заміського будинку з повністю змодельованим інтер’єром.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102473710724919614) · [Оригінальний допис](https://x.com/azer0lxm/status/2102473781830909995) · [Назад до прикладів](#all-prompts)
 
 ---
 
@@ -2165,623 +2543,6 @@ I told Astra to CAD itself a body.
 </details>
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100519026720231698) · [Оригінальний допис](https://x.com/ujiden_type0/status/2100519026720231698) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100350159540596760"></a>
-
-### Інтерактивна воксельна сцена з лицарем і багаттям
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="Інтерактивна воксельна сцена з лицарем і багаттям"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
-
-**Промпт**
-
-```text
-Ви — старший розробник креативних WebGL- і Three.js-проєктів. Ваше завдання — створити повну, готову до використання інтерактивну 3D-сцену, цілком розміщену в одному автономному HTML-файлі (index.html) із використанням Three.js + WebGL
-
-### 1. Візуальна тема й художній напрям
-
-- Атмосфера: глибока ніч у лісі, затишне сяйво багаття, самотній втомлений лицар, який відпочиває в таборі (естетика багаття Dark Souls / класичної ретро-RPG).
-- Стиль: 3D-піксель-арт / воксельний / low-poly.
-- Шейдинг і постобробка: інтегруйте постобробку Three.js (RenderPixelatedPass або еквівалентний ефект пікселізації/дизерингу з низькою роздільною здатністю), щоб отримати автентичний ретро-вигляд у стилі 16-/32-бітних ігор.
-
-### 2. Геометрія сцени й ресурси (100% процедурно — без зовнішніх файлів .gltf/.obj)
-
-Усі ресурси потрібно створювати процедурно за допомогою геометричних примітивів Three.js (BoxGeometry, CylinderGeometry тощо) і базових матеріалів, щоб файл запускався локально без проблем із CORS.
-
-1. Лісове оточення:
-
-   - Земля: темний стилізований ландшафт із процедурними воксельними каменями, грибами та low-poly-рослинністю.
-   - Дерева: процедурні сосни/ялини або блокові дерева з кронами, що оточують галявину та створюють відчуття глибини й усамітнення.
-   - Небо й освітлення: глибоке опівнічне небо з мерехтливими воксельними зорями та холодне місячне світло DirectionalLight, що відкидає м’які тіні.
-   - Глибина: THREE.FogExp2 із темним атмосферним кольором для злиття горизонту з оточенням.
-
-2. Багаття:
-
-   - Кам’яне кільце навколо жаринних колод і процедурних іскор.
-   - Система вогню: анімовані піксельні частинки (Points або воксельні сіти з пульсацією), що підіймаються вгору.
-   - Динамічне освітлення: тепле оранжево-червоне PointLight із безперервним природним мерехтінням (за допомогою Math.sin, шуму або псевдовипадкових варіацій).
-
-3. Лицар:
-
-   - Ієрархічний граф сцени (групи для голови, тулуба, верхньої та нижньої частин рук, ніг, плаща й меча), створений із вокселізованих примітивів.
-   - Візуальні деталі: шолом із прорізами, нагрудна броня, наплічники, рукавиці та піхви/меч.
-   - Точки обертання мають бути правильно вирівняні в місцях з’єднання (плечі, лікті, стегна, коліна) для коректних процедурних анімацій обертання.
-
-### 3. Машина станів інтерактивного лицаря
-
-Реалізуйте плавні процедурні анімації за допомогою лінійної інтерполяції (lerp) або тригонометричних кривих у циклі рендерингу для наведених нижче станів, які можна вибирати:
-
-- Сидіти біля багаття (типовий режим очікування): сидить, схрестивши ноги або навпочіпки, ледь помітно дихає та гріє руки біля полум’я.
-- Додати дрова: лицар підводиться, бере колоду й кидає її у вогонь. Полум’я помітно спалахує, радіус освітлення тимчасово збільшується, а в повітря злітає феєрверк іскор.
-- Вправи з мечем: підводиться, вихоплює меч, виконує чітку триетапну комбінацію атаки та парирування й повертається у бойову стійку.
-- Дивитися вдалину: підходить до краю галявини, встромляє меч у землю й дивиться в темряву, поки плащ коливається на вітрі.
-- Сон: лягає на спальник біля багаття; над шоломом здіймаються анімовані піксельні частинки «Z z z».
-- Смажити м’ясо: тримає над полум’ям палицю з їжею; навколо здіймаються ледь помітні процедурні частинки диму/пари.
-
-### 4. Система камер
-
-Додайте перемикання між пресетами камери з плавною інтерполяцією переходу (інтерполюйте положення й ціль):
-
-- Затишний крупний план: середній план із фокусом на лицарі та світлі багаття.
-- Ізометрична RPG: класичний тактичний огляд галявини згори під кутом 45°.
-- Кінематографічний ракурс із землі: драматичний план із нижнього ракурсу, де лицар височіє на тлі зоряного неба та соснових крон.
-- Вільне обертання: плавне перемикання на стандартний OrbitControls для інтерактивного огляду.
-
-### 5. Інтерфейс і звук
-
-- Стиль інтерфейсу: ретро-HUD у стилі 8-/16-бітної RPG — напівпрозорі темні панелі з піксельними рамками та підключеним шрифтом Google (наприклад, 'Press Start 2P').
-- Нижня панель: інтерактивні кнопки дій, що запускають кожен стан лицаря.
-- Панель у правому верхньому куті: кнопки перемикання ракурсів камери.
-- Лічильник дров: відстежує кількість доданих колод і поточну інтенсивність вогню.
-- Звук (Web Audio API): процедурно синтезовані потріскування вогню та атмосферні звуки нічного вітру/цвіркунів, а також кнопка вимкнення/увімкнення звуку.
-
-### 6. Технічні характеристики
-
-- Один автономний файл index.html.
-- Використовуйте ES Modules, завантажені через CDN (https://t.co/W8o3SZwkCj або unpkg).
-- Модульна, добре прокоментована структура коду (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Повністю адаптивний обробник зміни розміру вікна, який оновлює співвідношення сторін камери та роздільну здатність проходу пікселізації.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100350159540596760) · [Оригінальний допис](https://x.com/vib3coded/status/2100350602316558428) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100271998618177864"></a>
-
-### Демонстрація ізометричної фентезійної графіки
-
-[Anshu Chimala](https://x.com/anshuc) · 2026-09-16 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/efb3df2ad348026ea45dd7aadc01690c2f219342df652f170cb2b8727429a6e1.webp" width="840" loading="lazy" alt="Демонстрація ізометричної фентезійної графіки"></a>
-
-**Промпт**
-
-```text
-Створи для мене демонстрацію графіки: ізометрична камера, дещо воксельний художній стиль із реалістичним затіненням і мокрою підлогою з відбиттями, персонаж у цікавій сцені. Фентезійний сетинг (щось на кшталт Elden Ring або Diablo). Three.js у браузері, понад 60 кадрів/с. Не завантажуй сторонні ресурси. На виконання є 1 година. Керування: клацанням переміщуй персонажа, камера плавно слідує за ним; перетягуванням обертай камеру; прокручуванням наближай або віддаляй зображення. Поки що без ігрового процесу. Світ має здаватися живим: рух, анімації, ледь помітні реакції довкілля. Простір навколо гравця має виглядати масштабним, але переміщення дозволь лише в обмеженій зоні. Не потрібно узгоджувати зі мною художній стиль чи ставити запитання — просто починай!
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build me a graphics demo: isometric camera, voxel-ish art style with realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Don't download assets. Time limit of 1 hour. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors. Area around player should look expansive, but only allow movement in a limited space. No need to confirm the art with me or ask questions, just go!
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100271998618177864) · [Оригінальний допис](https://github.com/achimala/dream-loop) · [Вихідний код](https://github.com/achimala/dream-loop) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="akari-nagoya-rooftop-flame-relay"></a>
-
-### AKARI: Вогняна естафета на дахах Наґої
-
-[Jared](https://growthengineer.space/) · 2026-09-16 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/f82d75310164041451311a5b943e2d18ec847828627c3905d3c1119f4435fbb4.webp" width="840" loading="lazy" alt="AKARI: Вогняна естафета на дахах Наґої"></a>
-
-**Промпт**
-
-```text
-# AKARI — Атлас вогнів Наґої
-
-## 1. Мета
-Створіть повноцінну японськомовну гру для браузера, у якій абстрактне полум’я здійснює сім стрибків за заданим часом і підсвічує мініатюрну Наґою напередодні Азійських ігор Айті—Наґоя, що відбудуться 19 вересня — 4 жовтня 2026 року. Відтворіть поточне початкове видання із двома мапами за адресою https://akari-nagoya-rooftop-relay.tripo.page/ і наданими візуальними референсами. Попередня загальна сцена з дахами не є цільовою.
-
-## 2. Візуальний напрям
-Використайте піднятий атласний ракурс у три чверті, темно-синій опівнічний фон, теплі заголовки японською з кольору слонової кістки, тонкі золоті лінії та стриману зернистість. На десктопі залиште ліву третину для вступного запрошення, а праворуч розмістіть дві підняті плитки мапи; на телефонах перемістіть мапу над елементами керування. Починайте з тьмяних, ненасичених будівель і бірюзових водних шляхів. Після успішного проходження повертайте зелені кольори, бірюзові мідні дахи, тепле світло у вікнах і золоті маршрутні вогні. Полум’я та наступна ціль мають залишатися добре помітними. Використовуйте м’які тіні, атмосферну перспективу та контрольований bloom; уникайте білого засвічення. Відтворіть японський вступний заголовок, підписи пам’яток і тонкий редакційний хедер/футер, видимі на референсі.
-
-## 3. Світ
-Більша північно-західна плитка охоплює парк Мейдзьо, замок Наґоя, міжнародну арену Айті, парк Хісая-одорі, MIRAI TOWER та Oasis 21. Південно-східна плитка охоплює міський музей, Мідзухо-odori, парк Мідзухо та його легкоатлетичний стадіон, а річка Ямадзакі розташована на схід від стадіону. Додайте невисокі сучасні квартали, паркові дерева, дорожню розмітку, береги річки та теплі світильники; архітектуру замку використовуйте лише для замку.
-
-Розділ 1: парк Мейдзьо → Сотоборі/Хісая-одорі → парк Хісая-одорі → Oasis 21, три стрибки. Зробіть чітко позначений, неігровий перехід до міського музею. Розділ 2: міський музей → Мідзухо-одori → Mizuho Undojo Nishi → у напрямку парку Мідзухо → Південна площа, чотири стрибки. Ніколи не малюйте перехід як безперервну вулицю й не зараховуйте його як стрибок. Зберігайте прогрес на початку другого розділу. Мапи мають різний масштаб, а відстані стискаються для ігрового процесу. Коротко поясніть це в розділі «Про гру» разом з історичними датами естафети — 22 серпня та 16 вересня 2026 року; це не запрошення на майбутню подію. Додайте посилання на https://www.aichi-nagoya2026.org/ja/torch-relay/ і https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/. Використовуйте оригінальні орнаменти й абстрактне полум’я замість офіційного талісмана чи емблеми.
-
-## 4. Перелік ресурсів
-Використовуйте ці стабільні слоти заміни в порядку пріоритету; в обох візуальних режимах зберігайте однакові компонування та проксі-колізії:
-- `shachi`: антикварний орнамент для даху з полірованого золота, з головою, схожою на тигрову, вигнутим тілом коропа з лускою та хвостом, закрученим догори; повторіть його на замку.
-- `castle`: світла фортеця в стилі Наґої, темне дерево, бірюзові шатрові та щипцеві дахи зі східчастою формою, кам’яний фундамент.
-- `mizuho`: широкий овальний легкоатлетичний стадіон, світлий дах із відкритим центром і ритмічно розташованими опорами; бігову доріжку та зелене поле в центрі має бути видно.
-- `arena`: невисока сучасна арена з широким дахом і теплими вертикальними ламелями фасаду, на північ від осі парку.
-- `tower`: струнка срібляста ґратчаста оглядова вежа з коробчастим оглядовим майданчиком та антеною.
-- `oasis`: витягнутий овальний бірюзовий скляний/водний навіс на тонких світлих опорах.
-- `midrise`: стримана сучасна японська житлова будівля; використовуйте її повторно, змінюючи висоту й орієнтацію, зокрема для простого об’єму музею.
-- `tree`: компактне зріле паркове дерево з коричневим стовбуром і багатошаровою зеленою кроною; інстансуйте його на обох плитках.
-Рельєф, дороги, воду, розмітку доріжок, маркери стрибків, абстрактне полум’я, світлові сліди, феєрверки та UI створюйте процедурно. Кожна модель має бути повністю ізольованим об’єктом; зберігайте відкриті проходи та центр стадіону. Відстежуйте кожен перелічений слот, зокрема повторювані фонові ресурси.
-
-## 5. Ігровий процес і нагороди
-Утримуйте вказівник/дотик або Space, щоб зарядити стрибок; відпустіть, щоб автоматично стрибнути до наступного маркера. Використовуйте детерміновану фізику з delta-time: distance = 1.8 + 7 × charge, charge відбивається в межах від 0 до 1, а дуга додає до інтерпольованої висоти 4 × t × (1 − t) × 3.6. Цикл заряджання прискорюється приблизно з 1.42 до 0.92 секунди на один напрямок. Траєкторію, зелену безпечну зону та золоту ідеальну зону обчислюйте за однією формулою: похибка ≤0.36 означає ідеальне приземлення; ≤1.15 — безпечне, із додатковим допуском 0.28 для перших двох стрибків.
-
-Безпечне приземлення дає 100 очок; ідеальне — 200 × поточний множник, максимум ×4. Швидке наступне введення протягом 2.35 секунди додає 50 очок; скидайте комбо після безпечного приземлення, переходу між розділами або 3.4 секунди очікування. Кожен успіх запускає світлову хвилю районом, засвічує вікна й додає ліхтарі. Показуйте прогрес із семи кроків, рахунок, комбо та найкращий результат. Після промаху швидко починайте спробу знову; після переходу відновлюйте контрольну точку розділу. Додайте паузу, перезапуск, відновлення після прихованої вкладки та необов’язковий звук після взаємодії.
-
-Після фінального стрибка покажіть обидві освітлені мапи з віддаленням камери протягом 4.6 секунди та феєрверками в заданих межах. Присвоюйте ранг S за сім ідеальних приземлень, A — за чотири або більше, в інших випадках B. Додайте повторне проходження, порівняння міста до та після з тієї самої камери, а також справжній постер PNG розміром 1800×1200 із назвою, датами, рахунком і зазначенням авторства незалежного проєкту.
-
-## 6. Реалізація
-Використовуйте Vite, TypeScript і Three.js; розділіть географію, чисту фізику/підрахунок очок, сцену, ефекти, реєстр моделей, локалізацію японською/англійською та UI. Японська має залишатися мовою за замовчуванням незалежно від мови запиту; зберігайте вибір мови. Постачайте шрифти й ресурси локально в бандлі. Використовуйте GLTFLoader і нормалізацію для кожного слота; після некоректного імпорту залишайте останню робочу модель. Під час порівняння простих та імпортованих візуальних режимів зберігайте рахунок, контрольну точку, камеру й освітлення. Інстансуйте дерева/будівлі, об’єднуйте сумісну статичну геометрію, обмежуйте DPR і кількість частинок. Оцінюйте фактичний час кадру та складність моделі, а не відхиляйте модель лише через перевищення цільової кількості трикутників. Використовуйте Blender лише тоді, коли отриманий ресурс потребує очищення сітки, виправлення pivot або відкритого центру стадіону; зберігайте його оригінальний файл.
-
-## 7. Критерії приймання
-Надайте робочий вихідний код, lockfile, команди розробки/збирання та статичну збірку. Перевірте сім стрибків в обох розділах, відновлення після переходу й контрольної точки, промах/повторну спробу, підрахунок очок, сенсорне керування, паузу, збереження японської/англійської мови, усі резервні варіанти слотів і фактичний експорт постера. Порівняйте скриншоти стабілізованих вступної та фінальної сцен із поточним референсом із двома мапами. Зазначте виміряну продуктивність і тести, які справді було виконано. Наведений далі спільний робочий процес регулює генерацію та повернення моделей.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/akari-nagoya-rooftop-flame-relay) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="cyclops-island-threejs-game"></a>
-
-### Острів циклопа
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-16 · GPT-6 Astra · Ігри
-
-Ремікс роботи: [Jason Chew](https://x.com/jasoncjs_/status/2099414001851449430)
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c.webp" width="840" loading="lazy" alt="Острів циклопа"></a>
-
-**Промпт**
-
-```text
-# ОДІССЕЯ — Острів циклопа
-
-## 1. Мета
-Створіть повноцінну ізометричну гру про втечу за мотивами IX книги «Одіссеї». Гравець втілює Одіссея, який веде трьох членів екіпажу: викрадає припаси з печери, виживає під час переслідування й ударів Поліфема та тікає на грецькому кораблі. Увесь інтерфейс гри має бути англійською. Використайте https://cyclops-island.tripo.page/ і надані референси; збережіть зазначення авторства Джареда та натхнення концептом острова з «Одіссеї» Джейсона Чу.
-
-## 2. Візуальний напрям
-Створіть острів у вигляді багато текстурованої середземноморської настільної сцени завширшки близько 25 світових одиниць, посеред глибокого бірюзово-синього Егейського моря. Використайте ортографічну камеру під кутом у три чверті, приблизно в точці (19,31,34), теплий вапняк, шавлієво-зелені оливи, теракотову тканину, бронзові обладунки та кремовий пергамент. Застосуйте тонмапінг ACES, теплі спрямовані тіні, атмосферну перспективу, стриманий bloom, віньєтування та зернистість. Маркери небезпеки мають залишатися читабельними крізь усі ефекти.
-
-Для заголовків використайте локальні шрифти із засічками на кшталт Cormorant Garamond, а для інтерфейсу — шрифт на кшталт DM Sans. Угорі ліворуч розмістіть печатку Ω, написи ODYSSEY / AN INTERACTIVE MYTH, BOOK IX і The Cyclops’ Island. Угорі праворуч розмістіть помітну кремову картку порівняння з текстом «One island. Two worlds.» та перемикачами Tripo World і Original. Унизу ліворуч покажіть етап місії, три серця, витривалість і кількість членів екіпажу. Над картою виведіть стан боса, під нею — невеликий компас/мінікарту, а також видимі елементи керування камерою та короткі підказки щодо введення. На телефонах використовуйте компактні декоративні написи й окремі елементи керування місією, босом, порівнянням і Dodge.
-
-## 3. Світ
-Звивиста стежка зі світлого піску веде на північ від південного пляжу висадки через оливкові гаї до вапнякової печери. Велетень спить біля печери; Одіссей та екіпаж починають рух південною стежкою. Поставте дерев’яний корабель із червоними вітрилами на південному заході, біля причалу. Оточіть узбережжя нерегулярними валунами, травою, кипарисами й бірюзовим мілководдям. Анімуйте брижі на морі, прибережну піну, дерева, світло вогню, птахів і погойдування корабля. Рух океану має залишатися коректним під час обертання камери.
-
-## 4. Перелік ресурсів
-Підготуйте слоти для заміни в такому порядку:
-- `odysseus`: бородатий грецький шукач пригод, бронзовий коринфський шолом із багряним гребенем, потертий нагрудний обладунок, туніка кольору слонової кістки, теракотовий плащ, сандалі, невеликий щит і меч у піхвах. Повторно використайте модель для трьох членів екіпажу з незалежними скелетами та фазами анімації.
-- `polyphemus`: кремезний велетень із рівно одним центральним оком, засмаглою оливковою шкірою, кучерявим темним волоссям і бородою, хутряною або шкіряною пов’язкою на стегнах, великими босими ступнями та дерев’яною палицею; повнорозмірна модель у нейтральній позі, придатній для ригінгу.
-- `ship`: вузький корпус із темного горіха, піднятий ніс, бронзовий таран, щогла, теракотово-червоне вітрило, мотузковий такелаж і бічні весла; без води та демонстраційної підставки.
-- `olive`: вузлуватий сіро-коричневий стовбур, розлогі корені й нерегулярна шавлієва крона; повторно використайте приблизно 25 разів.
-- `cave`: широка окремо змодельована арка з потертій вапнякової породи зі справді відкритим проходом, масивним камінням і рідким мохом; темний інтер’єр створіть окремо.
-- `cypress`: струнке звужене середземноморське дерево з густим темно-зеленим листям.
-- `boulder`: нерегулярна прибережна скеля з теплого вапняку; повторно використовуйте її зі змінними масштабом і обертанням.
-Залиште рельєф, стежку, воду, траву, маркери припасів, бойові телеграфи, частинки та інтерфейс процедурними. Відстежуйте кожен слот і зберігайте ігрову карту під час заміни вигляду ресурсів.
-
-## 5. Сутичка під час втечі
-Використайте WASD/стрілки, орієнтовані відносно камери, а також переміщення за кліком/дотиком із навігацією A* з урахуванням радіуса. Екіпаж має вільно слідувати за гравцем; гравець і велетень повинні враховувати рельєф, межі та перешкоди відповідно до своїх розмірів. Shift активує спринт, Space або велика сенсорна кнопка — ухилення, E — підбирання найближчих припасів, P — паузу, Q/R — обертання, а F — стеження за героєм. Підтримайте перетягування/панорамування, обертання перетягуванням правою кнопкою, прокручування/масштабування та жестове масштабування двома пальцями. Під час переслідування переміщення за кліком переходить у спринт, доки вистачає витривалості.
-
-Етап 1: наблизьтеся до печери; близькість і гучний спринт підвищують підозру та можуть розбудити велетня. Етап 2: збирайте припаси лише на близькій відстані — це щоразу пробуджує його. Етап 3: перебувайте в межах позначеного радіуса причалу, приблизно 2,7 одиниці, біля (-0.8,8.7) протягом 11 секунд сумарного часу, поки екіпаж сідає на корабель; вихід із зони призупиняє прогрес.
-
-Дайте гравцеві три одиниці здоров’я та 100 одиниць витривалості. Початкові швидкості: ходьба — 2.35, спринт — 4.15, біг велетня — 3.4 одиниці на секунду. Велетень має наблизитися до гравця на відстань 3.6 одиниці, перш ніж атакувати. Використайте стани сну, пробудження, переслідування, підготовки удару, влучання, відновлення та завершення. Ground Breaker фіксує позицію гравця на початку підготовки тривалістю 1.12 секунди, показує коло радіусом 2.45 і завдає одного удару; ціль не повинна слідувати за гравцем. Кожен третій удар випускає чітко позначену заряджену ударну хвилю, що розширюється; шкода визначається рухомим краєм кільця.
-
-Ухилення триває близько 0.34 секунди, витрачає 24 одиниці витривалості, має перезаряджання 1.25 секунди, коротку невразливість і обмеження переміщення в межах придатної поверхні. Спринт виснажує витривалість, відпочинок її відновлює. Влучання спричиняють відкидання, реакцію на біль і тимчасову невразливість. Поразка скидає всіх персонажів, таймери, ефекти та стан місії. Втеча припиняє отримання шкоди й відкриває підсумок повторного проходження. Пауза заморожує симуляцію, анімацію та ефекти. Налаштуйте посадку на корабель так, щоб вона вимагала кількох ухилень, зокрема від зарядженої атаки.
-
-## 6. Реалізація та анімація
-Використайте Vite, Three.js і JavaScript ES-модулі для світу, навігації, сутички, персонажів, ефектів, аудіо та інтерфейсу. Усі ресурси, потрібні під час виконання, мають бути локально вбудовані у статичну збірку. Початкові скелетні моделі повинні ходити/бігати, спати/прокидатися, ухилятися та помітно готуватися до удару й завдавати його. Для замінених моделей зі скінінгом використовуйте AnimationMixer, фактичні назви кліпів, короткі перехресні переходи та SkeletonUtils.clone для окремих скелетів членів екіпажу. Не допускайте подвоєння кореневого руху та ковзання стоп. Синхронізуйте рух униз під час удару велетня з ігровим моментом влучання; статичні імпорти не повинні позначатися як анімовані. За потреби зберігайте працездатну скелетну резервну модель. Blender використовуйте лише для необхідного ремонту рига, pivot, кліпів або сітки.
-
-Синхронізуйте помаранчеві/золоті телеграфи, спалах від удару, тріщини на землі, пил, іскри, уламки каміння, що падають, кільця, які розширюються, короткочасне світло та тремтіння камери. Додайте сліди від ухилення й опційне синтезоване аудіо, що активується жестами. Використовуйте пулінг ефектів, інстансинг декорацій і вимірюйте час кадру. Нормалізуйте імпорти, вирівнюючи стопи/корені по поверхні та не змінюючи проксі-колізії. Порівняння має зберігати позиції, місію, здоров’я, витривалість, стан камери й анімації; якщо імпорт не вдався, залишайте працездатні моделі. Додайте непомітний елемент керування Change hero та локальний імпорт моделей зі статусом для кожного слота.
-
-## 7. Критерії приймання
-Передайте вихідний код, lockfile, npm-команди для розробки/збірки та статичний результат. Перевірте навігацію між перешкодами, раннє пробудження, збирання на близькій відстані, переслідування перед атакою, фіксацію цілей, удари за таймером, невразливість під час ухилення, шкоду від краю ударної хвилі, поразку/скидання та успішну втечу. Перевірте незалежну анімацію екіпажу, резервні моделі для всіх слотів, збереження стану під час порівняння, компонування для комп’ютерів і мобільних пристроїв та помилки завантаження. Порівняйте стабілізовані скриншоти з референсом і повідомте фактичну продуктивність. Використайте наведений нижче спільний робочий процес для генерації моделей і поверніть результат.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
-
-Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
-
-Make it feel like a small playable game:
-
-Control Odysseus with WASD or arrow keys
-Click the ground to walk
-Drag to pan the camera
-Scroll to zoom
-Add subtle water, tree, character, and environmental animation
-Add camera rotate, zoom, reset-view, and pause controls
-Use collision so the player cannot walk through rocks, trees, or water
-
-Add a dark literary UI panel in the bottom-left:
-
-“Lead Odysseus along the sandy path to the cave.”
-Show the current character and movement state below it.
-Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
-Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/cyclops-island-threejs-game) · [Оригінальний допис](https://x.com/jaredliu_bravo) · [Демо](https://cyclops-island.tripo.page/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100233407108137349"></a>
-
-### AAA CGI-ролик про надприродний бій у підземній станції
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-16 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/a480866311ee8faa564828c07283035ea6fe728ab7d676c468934bb5f75438a4.webp" width="840" loading="lazy" alt="AAA CGI-ролик про надприродний бій у підземній станції"></a>
-
-**Промпт**
-
-```text
-Усі персонажі, фонові пасажири та середовище станції мають єдиний виразний вигляд високобюджетної AAA-фентезійної ігрової CG-графіки з цифровим скульптингом. У крупних планах обличчя персонажів повинні зберігати вигляд ретельно опрацьованих ігрових моделей, чіткі пасма заплетеного волосся та стилізовану реалістичну шкіру; вони не мають перетворюватися на акторів, косплей, звичайний gameplay, 2D-анімацію чи цел-шейдинг. Зберегти сцену надприродного бою в сучасній підземній станції, не перетворювати її на середньовічний замок, засніжені гори чи боксерський ринг. Палітра: малонасичені холодні синьо-сірі тони, глибокий вугільно-чорний, синьо-сіра луската шкіра та холодно-білі світлові смуги; невеликі акценти створюють жовті поручні, червоні сигнальні вогні, бронзова оправа окулярів, зелено-мідні наплічники та вохристо-червоний пояс. Медово-золотий блиск очей і короткий фіолетовий спалах під час удару об колону з’являються лише у відповідні миті; не забарвлювати весь ролик у фіолетовий. Середовище: широка, тьмяно освітлена підземна залізнична станція з центральною заглибленою колійною зоною, рейками й щебенем та платформами, що піднімаються по обидва боки колій. Краї платформ огороджені скляними металевими захисними панелями з жовтими вертикальними рамами; на підлозі — жовті лінії безпеки, сіра плитка й дренажні решітки. Низьку стелю підтримують масивні білі круглі колони; угорі безперервні холодно-білі довгі світлові смуги й круглі лампи, а вдалині до глибини станції тягнуться маленькі червоні сигнальні вогні. На платформі — кілька десятків дорослих пасажирів у звичайних темних і світлих куртках, розосереджених біля колон або за огородженнями. Злякавшись бою, вони відступають, пригинаються та прикриваються руками, але весь час залишаються фоновими пасажирами: не вступають у бій, не перетворюються на головних героїв і не мають однакових облич. Потяг не прибуває. На покажчиках залишаються лише розмиті геометричні кольорові блоки, без читабельного тексту.
-
-Двоє основних бійців незмінні. A, воїн в окулярах, — високий, худорлявий, спортивно складений дорослий чоловік із теплою темно-коричневою шкірою, чіткими вилицями та лінією щелепи. Чорні короткі косички, пригладжені до голови, зібрані на потилиці в короткий вузол. На лобі постійно закріплені вузька бронзова оправа та димчасті відкидні захисні окуляри: зазвичай вони закривають очі, залишаючи відкритими ніс нижче перенісся та рот. На ньому сіро-синя безрукавна бойова куртка із запахом, темно-коричневий пояс, вугільно-чорні штани та темно-коричневі черевики з низькими берцями. Обидва передпліччя обмотані сірими тканинними бинтами, пальці відкриті; руки завжди порожні — без плаща, зброї в руках чи читабельних емблем. Вираз обличчя спокійний, рухи швидкі й рішучі. Лише в зазначеному кадрі він правою рукою на мить піднімає край окулярів, відкриваючи одне яскраве медово-золоте око, після чого повертає окуляри на місце, щоб вони знову закрили очі. Це той самий фізичний елемент спорядження, постійно закріплений на лобі; він не перетворюється на тканинну пов’язку й не зникає.
-
-B, звір із лускатим хребтом, — вищий за A, ширший і масивніший, м’язистий двоногий гуманоїдний звір. Груба темна синьо-сіра луска вкриває його широкі груди, спину та кінцівки; на животі луска дрібніша й сіро-синя. Широка пласка голова ящіркоподібної форми, коротка тупа морда, масивна щелепа, двоє темно-бурштинових очей і короткі товсті зуби. На голові немає людського волосся, маски чи наростів, схожих на гілки. Від лівого плеча B до лівого передпліччя ростуть масивні природні пластини зелено-мідного кольору; уздовж верхнього краю лівого плеча нерухомо закріплений ряд коротких тупих кістяних плавців. Права рука залишається вкритою грубою лускою світлішого сіро-синього кольору; лівий і правий боки ніколи не міняються місцями. Кістяні плавці та панцирні пластини є частиною тіла, на плечі немає квітів. На ньому темно-коричневі вільні широкі штани, вохристо-червоний тканинний пояс із двома вузькими кінцями, що звисають, а щиколотки обмотані темно-коричневою тканиною. Стопи широкі, вкриті лускою, з чітко видимою підошвою, придатною для упору в стіну. Немає хвоста, крил, додаткових рук, довгих рогів, меча, списа, щита чи предметів у руках. B — високий звір, здатний перебувати у звичайній станції; він зберігає стабільні пропорції щодо A та пасажирів і не роздувається до розміру хмарочоса.
-
-0.00–3.70 секунди: зіткнення починається вже в першому кадрі. Короткий низький план біля колій показує, як B швидко наближається кроками; одразу після цього — середній план за спиною A: B мчить спереду, піднімає ногу й розвертає стегна, виконуючи боковий круговий удар ногою на рівні голови. A згинає коліна, опускає голову й нахиляє корпус убік; нога просвистує над його чорними короткими косичками. B приземляється й повертається, A одразу випрямляється. Перехід до широкого двопланового кадру знизу біля колій із виразним Dutch angle: A піднімає коліно й завдає високого бокового удару ногою, B опускає голову та плечі, ухиляючись, а A прибирає ногу й повертає її на опорну стопу. Камера повертається в близький план із-за плеча A та стежить за ним: B наздоганяє його серією безперервних ударів руками. A коротко відхиляє голову, опускає плече й розвертається, змушуючи кулаки ковзати повз обличчя; він не стоїть на місці, знову й знову розмахуючи руками в очікуванні атаки. Світлові смуги на стелі розмазуються в напрямку руху під час швидкого руху камери, просторові взаємозв’язки тіл залишаються чіткими.
-
-3.70–6.40 секунди: правий кулак B зі світлішою сіро-синьою лускою знову опиняється перед A. A розкриває долоню, перехоплює зап’ястя та передпліччя; місце контакту має бути добре видно. Камера наближається до спокійного профілю A, потім разом із його кроком, обертанням стегон і плечей швидко переходить у низький повнофігурний ракурс. A не відпускає ту саму праву руку, зриває B з опори й підкидає його дугою вгору вздовж боку тіла. Обидві стопи B відриваються від підлоги, вохристо-червоний пояс і широкі штани відстають за інерцією. У найвищій точці підкидання — лише дуже короткий ultra slow motion, після чого швидкість одразу відновлюється. Завершивши обертання, A відпускає B; той перекидається по початковій дузі головою вниз, приземляючись плечем і спиною на поверхню колій. Від місця контакту розлітаються щебінь і пил. Низька камера стежить за падінням і коротко здригається. B за інерцією перекочується та підводить верхню частину тулуба, усі кінцівки залишаються цілими; це не відривання руки, не кидок силою без контакту й не раптове підведення з повітря.
-
-6.40–9.20 секунди: B ще відновлюється внизу, а A уже відштовхується від землі й стрибком наближається. Камера з-за спини B знімає знизу, як A у повітрі розвертає стегна та випрямляє ногу; у найвищій точці стрибка рух на коротку мить сповільнюється. Під час спуску A спрямовує боковий летючий удар у голову й плечі B. B піднімає обидві руки для захисту, і сила удару відхиляє його; A приземляється й одразу продовжує атаку, не зупиняючись чекати. Камера рухається разом зі спуском A та швидко обходить його збоку, чергуючи трохи нахилені крупні плани через плече та обличчя. A ухиляється від зворотного замаху B, коротким кулаком б’є в тулуб, а потім розкритою долонею торкається боку обличчя й відштовхує голову B убік. Голова та шия повертаються у відповідному напрямку лише після контакту. Долоня, обличчя й передпліччя не зливаються; кістяні плавці на лівому плечі B рухаються разом із панцирною пластиною та тулубом того самого боку.
-
-9.20–11.20 секунди: використавши простір після поштовху в обличчя, A розвертається, прибирає ногу й одразу завдає потужного бокового удару стопою вперед. Підошва влучає в живіт і нижню частину грудей B. Спершу тулуб B згинається, потім обидві стопи відриваються від землі, і він летить по діагоналі вгору до платформи. Камера стежить, як він пролітає над краєм платформи; верхня частина спини та плече B врізаються в білу круглу колону. Від місця контакту колона розтріскується назовні, сиплються світлі уламки й пил, а B сповзає по колоні на підлогу платформи. Після удару A прибирає ногу, вистрибує з колійної зони на ту саму платформу й наздоганяє B. Після монтажного переходу він з’являється в безперервній позиції біля цієї самої колони, не телепортується на іншу станцію. Пасажири розбігаються в обидва боки; колона пошкоджена, але не падає повністю.
-
-11.20–12.80 секунди: крупний план обличчя B після удару. Він піднімає голову й повертає її, шукаючи A; зелено-мідні пластини та короткі кістяні плавці на лівому плечі залишаються на місці. Швидкий перехід до композиції крупного плану по обидва боки тієї самої колони: B займає правий передній план, A — лівий задній біля колони, з легкою холодною усмішкою, але без слів. A правою рукою піднімає край бронзових захисних окулярів, відкриває одне яскраве медово-золоте око й коротко дивиться прямо на B. Потім правою рукою опускає окуляри, знову закриваючи очі, і водночас готується ухилитися. Не залишати паузи для початкової репліки чи артикуляції мовлення.
-
-12.80–13.80 секунди: B розвертає плече та завдає правим кулаком зі світлою сіро-синьою лускою удару в місце, де стоїть A. Ще до того, як кулак досягає цілі, A швидко зміщується вбік і обходить колону. Кулак влучає в справжню білу колону; у момент контакту спалахує компактна фіолетова енергія, тріщини розходяться далі, вниз сиплеться крихта, а короткий фіолетовий спалах одразу згасає. Спершу крупний план показує, як кулак втискається в поверхню колони, потім камера швидко від’їжджає, відкриваючи B, який промахнувся, тоді як A вже обійшов колону збоку. Це та сама пошкоджена колона, не перетворювати A на фіолетовий дим і не дозволяти кулаку проходити крізь тіло.
-
-13.80–16.00 секунди: низький широкий нахилений план. A пригинається попереду збоку від колони та коротким жестом підманює B рукою. B розвертається й кидається вперед. A відштовхується від землі та виконує один безперервний переворот назад у повітрі: спершу відхиляє тулуб, обидві стопи проходять над головою, потім він підбирає живіт і проходить перевернуту фазу, ухиляючись від горизонтального замаху руки B. Камера нахиляється вгору разом із тілом; у перевернутій фазі рух на мить сповільнюється, а світлові смуги похило проносяться тлом. A продовжує той самий переворот, повертає стопи під тулуб і приземляється на вільну ділянку платформи позаду B. Він згинає коліна, поглинаючи силу приземлення; краї одягу й короткі косички на потилиці опускаються за інерцією. Фонові пасажири перелякано розступаються, але не перетворюються на додаткових нападників. A не відлітає від удару й не повторює сальто в повітрі, штучно розтягуючи тривалість.
-
-16.00–18.50 секунди: щойно A підводиться, B розвертається й наздоганяє його широким замахом у бік голови. A спершу відхиляється назад, потім пірнає вниз, і світло-сіра луската права рука B проходить над його головою. Обома руками A контролює це передпліччя, заходить перед тулубом супротивника та розвертається спиною, знижуючи центр ваги. Він проводить руку B через своє плече й, використовуючи інерцію руху B уперед, виконує кидок через плече. Стегна B перевертаються через точку опори, обидві стопи відриваються від землі, а спина падає на плитку платформи; уламки плитки та пил розсипаються по підлозі. Камера відходить від близького плану біля плеча до низького середньо-широкого, чітко показуючи переворот і приземлення. A залишається стояти й відпускає B, дозволяючи йому впасти. B одразу перевертається, спирається руками, згинає ноги й підводиться. A повертається до нього та продовжує тиснути, поєднуючи підйом із наближенням; не залишати довгої паузи, у якій персонажі стоять і говорять.
-
-18.50–20.65 секунди: B знову кидається на близьку дистанцію. A випереджає його коротким прямим ударом у бік обличчя, повертає руку для захисту грудей, а потім, пригнувшись, б’є в живіт і ребра. B піднімає руку, блокуючи один з ударів, і відповідає важким широким замахом. A, тримаючись близько до внутрішнього боку грудей і плеча B, опускає голову та ухиляється, передпліччям відводить руку під час її повернення, а потім завдає серію коротких щільних ударів у підборіддя й верхню частину грудей. Камера швидко переміщується невеликими дугами навколо плечей обох бійців. Голова й тіло відскакують лише після фактичного контакту. Уся сцена має бути однією безперервною серією атак, блоків, відведень і контрударів, а не чергуванням ударів навмання, байдужою реакцією чи постійно зчепленими кулаками.
-
-20.65–21.85 секунди: прямий перехід до чіткої зйомки строго згори. Добре видно, як обидва бійці рухаються навколо тієї самої невеликої ділянки плитки. Чорні короткі косички та бронзова оправа A, зелено-мідні пластини лівого плеча B і його вохристо-червоний пояс залишаються сталими впізнаваними ознаками. Широка рука B проходить замахом збоку від A; A втягує плече, прослизає під руку, по черзі змінює положення лівої та правої стоп, однією рукою відводить передпліччя супротивника, іншою б’є в груди й живіт, потім прибирає руку й коригує позицію разом із розворотом B. Уламки плитки на підлозі та дренажна решітка залишаються на своїх місцях. Верхній ракурс показує траєкторії ближнього бою; не додавати дублера чи третього бійця.
-
-21.85–24.00 секунди: повернення до дуже близького плану через плече B. A продовжує серію коротких ударів у верхній і нижній рівні, чергуючи їх, та відхиляє голову від руки B, що заходить згори. Обмотане тканиною передпліччя A та груба сіро-синя луската рука B перехрещуються, але їхні межі чіткі. Камера різко стежить за кулаком A. У двох точках сильного контакту додати лише на кілька кадрів чорно-білий висококонтрастний спалах експозиції та об’ємний контур удару, після чого негайно повернутися до початкової холодної синьо-сірої AAA CG-графіки. Не переходити до коміксу, тексту чи 2D-ілюстрації. Останній прямий удар чітко втискається в живіт B: живіт стискається всередину, верхня частина тулуба згинається, а рука B, замахнута згори, втрачає напрямок руху разом із тулубом. A міцно стоїть на стопах, сила проходить від ніг через стегна й плече до кулака; кулак не проходить крізь тіло.
-
-24.00–28.00 секунди: одразу показати наслідок того самого сильного удару в живіт. Обидві стопи B відриваються від землі, і він відлітає назад. Камера низько проходить уздовж краю платформи, швидко стежачи вздовж поздовжньої осі станції; у безперервному русі проминають білі колони, жовті рами, скляні панелі огородження та перелякані люди. Лінії тла видовжуються від швидкості. Сіро-синє лускате тіло B, темно-коричневі штани, вохристо-червоний пояс і зелено-мідні пластини лівого плеча залишаються впізнаваними. Через довгі осьові широкі плани, швидкі монтажні переходи з колонами, що проносяться перед об’єктивом, і крупні плани знизу показати, як B перевертається за інерцією та витягує руки, намагаючись відновити рівновагу. Уламки, що злітають, рухаються в тому самому напрямку польоту над коліями. Потім B пробиває ділянку скляно-металевого захисного огородження на краю платформи. Скло розлітається після контакту з тілом, металева рама згинається, і B через пролом продовжує рух у колійну зону. Перехід до широкого плану в напрямку бокової стіни колії. Це й далі безперервний політ, спричинений попереднім ударом у живіт: не додавати удару ногою за кадром, другого запуску чи відкидання пасажирів. A не має дублюватися за кожною колоною.
-
-28.00–30.00 секунди: фіксований бічний середньо-широкий план. Темно-сіра вертикальна стіна колії розташована ліворуч у кадрі, платформа навпроти та пасажири за огородженням — праворуч позаду, а довгі світлові смуги спрямовують погляд у глибину станції. У повітрі B розвертається так, щоб ноги були спрямовані до стіни. Обидві підошви чітко торкаються вертикальної поверхні; він згинає коліна й підбирає живіт, утворюючи компактну скручену позу, під стопами стирається трохи стінного пилу. Потім в ultra slow motion повільно випрямляє коліна та розвертає тулуб назовні, поступово наближаючи тіло до горизонтального положення. Підошви й далі впираються в стіну, вохристо-червоний пояс, широкі штани та дрібні уламки продовжують рухатися, підкреслюючи безперервний процес контакту, стискання й накопичення сили. Це не удар спиною об стіну, не зависання в повітрі й не стояння на горизонтально перекинутій поверхні.
-
-Ролик завершується на 30.00 секунді живим кадром, у якому B усе ще впирається обома стопами в стіну, а його тіло розгортається назовні. Не додавати повного відштовхування від стіни з контратакою, приземлення, смерті чи визначеного переможця. Без чорного екрана, затемнення чи фінальної заставки.
-
-Ритм і безперервність: зберегти послідовність швидкої погоні, ухилень на близькій дистанції, кидків, переворотів назад, летючих ударів ногою, удару об колону, коротких атак у верхньому ракурсі та переміщення через платформу. Скоротити спостереження й паузи для початкових реплік. Лише найвища точка підкидання, ухилення в повітрі та фінальна фаза упору в стіну використовують локальне сповільнення; фінальну фазу чітко позначити як ultra slow motion. Звичайний бій має бути швидким і плавним, без глобального slow motion і без стоп-кадрів для штучного збільшення тривалості. Чорні короткі косички A, темно-коричнева шкіра, бронзова оправа окулярів, сіро-синя безрукавна куртка та обмотані тканиною передпліччя мають зберігатися; стан окулярів до й після моменту відкриття ока має бути однозначним. Зелено-мідні пластини та короткі кістяні плавці з лівого боку B, груба сіро-синя луска на правій руці, широка ящіркоподібна голова, темно-коричневі штани та вохристо-червоний пояс мають зберігатися. Кістяні плавці не відпадають, не переходять на інший бік і не перетворюються на зброю. Той, кого збили з ніг, спершу контактує із землею, а потім відновлює опору; той, хто стрибає, спершу відштовхується від землі; польоту після удару передує контакт; під час гальмування об стіну спершу контактують підошви, а потім згинаються коліна. Усі рухи мають зберігати вагу, інерцію та напрямок. Фонові пасажири постійно виконують різні природні рухи ухилення й зберігають чітку просторову відстань від головних бійців; вони не зливаються з ними й раптово не потрапляють на траєкторії ударів. Пошкоджена поверхня колони, уламки плитки та розбите огородження зберігають стан руйнування в наступних кадрах. Без додаткової зброї, без багатьох кінцівок, без крові та розчленування.
-
-Суворо заборонена фонова музика: у будь-який момент ролика не генерувати фонову музику, кіномузику, музичні треки, мелодії, ритмічну ударну перкусію, хор, пісні, музичні протяжні звуки чи тональну атмосферну підкладку. Дозволені лише синхронні із зображенням і фізично належні сцені внутрішньокадрові звуки (diegetic audio): вентиляція та просторова луна підземної станції, кроки й тертя підошов об підлогу, шелест одягу та рух вохристо-червоного пояса, свист кулаків і ніг у повітрі, глухі удари під час фактичного контакту, невербальне дихання й короткі стогони від болю, перекочування щебеню, розтріскування бетону, розбиття скла, згинання металевої рами огородження, кроки пасажирів під час відступу, короткий немелодійний електричний тріск під час контакту з фіолетовим спалахом, а в кінці — тертя підошов об стіну та осипання стінного пилу. Без діалогів, закадрового голосу, зрозумілих вигуків, пісень і субтитрів. Не використовувати імпульсні звуки, оркестрові удари, мелодійний звуковий дизайн чи ритмічні ефекти, щоб заповнювати відсутність музики; не перетворювати серії ударів, кроки чи звук розбитого скла на барабанний ритм і не розтягувати звук вентиляції в музичний протяжний фон. Поява будь-якої фонової музики чи музичного супроводу означає невідповідність вимогам. music=0; no_music=1; strict_no_music=1; audio=diegetic_only; Без заголовків, читабельних назв станцій, logo, interface, елементів керування програвачем чи watermark.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-全部角色、背景群众与车站环境统一使用明显经过数字雕刻的高级AAA奇幻游戏CG外观，人物近景必须保持精修游戏角色脸、清楚的编辫发束与风格化写实皮肤，不变成真人演员、cosplay、普通gameplay、2D动画或赛璐璐。保留现代地下车站中的超自然格斗场景，不改成中世纪城堡、雪山或拳击擂台。色彩为低饱和冷青灰、深炭黑、青灰鳞皮与冷白灯带，少量黄色护栏、红色信号灯、青铜护目框、铜锈绿肩甲和赭红腰带形成局部色彩；眼睛的蜂蜜金光与击柱时的短紫光只出现在对应瞬间，不全片染成紫色。环境：宽阔而昏暗的地下铁路站，中央下沉轨道区、钢轨与碎石，两侧高出轨道的站台；站台边缘是玻璃金属屏蔽栏与黄色竖向边框，地面有黄色安全带、灰色砖面、排水格栅，粗大白色圆柱支撑低天花板，顶部连续冷白长灯带与圆形灯、远处小红信号灯延伸至深处。站台有数十名穿普通深浅外套的成年乘客，分散在柱旁或栏后，受战斗惊动后退、缩身和抬臂保护，始终为背景群众，不参与格斗、不变成主角、不复制相同面孔。没有列车驶入，标牌只保留模糊几何色块，无可读文字。两名主战者固定：A护目武者为高挑精瘦运动体型成年男性，暖深棕肤色、清楚的颧骨与下颌，黑色贴头短辫在脑后束成短辫结；前额固定一副窄青铜框烟灰色可掀护目罩，平时遮住双眼，鼻梁下方与嘴部露出。穿灰蓝色无袖交叠领战斗上衣、深褐束腰带、炭黑长裤和深棕低帮靴；双前臂缠灰色布带，双手手指外露，始终空手，无披风、手持武器或可读徽章。表情从容，动作敏捷而果断；仅在指定镜头用右手短暂抬起护目罩边缘，露出一只明亮蜂蜜金色眼睛，随后护目罩放回遮眼位置；这是同一件固定在前额的实体护目装备，不变成布条，不消失。B鳞脊斗兽为比A更高、更宽厚的肌肉型双足人形异兽，深青灰色粗鳞覆盖宽厚胸背与四肢，腹部为较细密的灰青鳞片；宽扁的蜥蜴状头部、短钝吻、厚颌、两只深琥珀眼睛和短粗牙齿，头部没有人类头发、面具或树枝状突起。B自身左肩至左前臂生长厚实的铜锈绿色天然甲片，左肩上缘固定一排短而钝的骨鳍；右臂保留较浅灰青色粗鳞，左右绝不互换，骨鳍与甲片属于身体，肩上没有花朵。穿暗棕色宽松阔腿战裤、赭红色织物腰带与两条垂下的窄带尾，脚踝缠深褐布，脚掌宽大有鳞，保持适合抵墙的清楚脚底；没有尾巴、翅膀、额外手臂、长角、剑、枪、盾牌或手持道具。B是能进入正常车站的高大异兽，保持与A及乘客的稳定比例，不膨胀成高楼巨人。0.00–3.70秒：第一帧便进入交锋。贴近轨道的低机位短镜头看见B快速踏步逼近，随即切A背后中景，B从前方冲来，抬腿转髋，横扫一记头部高度的旋踢；A屈膝低头并侧倾上身，踢腿从黑色短辫上方掠过，B落脚转回，A随即起身。切明显Dutch angle的轨道低位双人宽景，A提膝接一记高位横踢，B降低头肩避过，A收腿落回支撑脚。镜头回到A肩后近距离跟拍，B追上一组连续摆臂拳击，A以短距离偏头、沉肩和转身让拳从脸旁擦过，不原地反复摆拳等对方出招；天花板灯带随镜头甩动形成方向性拖影，身体关系保持清楚。3.70–6.40秒：B的浅灰青色右拳再次伸到A面前，A张掌截住其手腕与前臂，接触位置可见；摄影机贴近A从容的侧脸，然后随他转脚、旋髋和转肩迅速绕至低位全身视角。A保持抓住同一条右臂，将B拉离支撑、沿身体侧上方甩起，B双脚离地，赭红腰带和宽裤随惯性滞后。甩起最高处只有极短ultra slow motion，随即恢复高速；A完成转体后松手，B沿原弧线头下脚上翻落，肩背接触轨道地面，碎石与灰尘从接触处迸出。低机位摄影机追随翻落并短促震动，B顺势滚动、撑起上身，保持四肢完整；不是断臂、无接触念力投掷或凭空重新站起。6.40–9.20秒：B仍在低位恢复，A已经蹬地跃近，镜头从B身后仰拍A在半空转髋展腿，跳跃最高点短暂放慢，然后下落时以横向飞踢压向B头肩；B抬起双臂迎挡并被压得偏转，A落脚后立刻跟进，不落地站着等待。摄影机随A下落和绕侧迅速拉近，形成略倾斜的肩上与面部交替近景；A闪过B回扫的手臂，用短拳击向躯干，再以一记张掌接触脸侧把B的头推偏，接触后头颈才顺方向转动。手掌、脸与前臂不能融合，B左肩骨鳍随同一侧肩甲和躯干转动。9.20–11.20秒：A借脸侧推压后的空间转体收腿，随即向前送出有力侧踹，鞋底接触B腹部至下胸；B躯干先折起、双脚随后离地，沿侧上方飞向站台。镜头跟着他掠过站台边缘，B上背和肩撞上白色圆柱，柱面由接触点向外开裂，浅色碎片和粉尘落下，B沿柱面回落到站台地面。A收腿后从轨道区跃上同一站台追近，切镜后出现在该柱旁的连续位置，不瞬移到另一个车站；乘客向两侧躲开，柱子受损但不整体倒塌。11.20–12.80秒：切B受撞后的脸部近景，它抬头、转脸寻找A，左肩铜锈绿甲片与短骨鳍仍在；迅速转为同柱两侧的近景构图，B占右前景，A在柱旁左后景，轻微冷笑但不说话。A用右手抬起青铜框护目罩边缘，露出一只明亮蜂蜜金色眼睛，直视B，停留很短；他用右手放下护目罩使其重新遮住双眼，身体同时准备避让，不留下原本对白的停顿或说话口型。12.80–13.80秒：B转肩挥出浅灰青色右拳打向A所在位置，A在拳头到达前迅速侧移绕出柱后；拳头击中实体白柱，接触瞬间爆出紧凑紫色能量闪光，裂缝延伸，碎屑向下掉，短紫光立刻消散。近景先看拳面压入柱面，再快速拉宽显露B打空而A已经绕到侧方，柱子仍是先前那根受损柱，不把A变成紫色烟雾，也不让拳穿过人体。13.80–16.00秒：低位倾斜宽景，A在柱子侧前方压低身体、抬手作一个短促招引手势，B转身扑来。A蹬地腾空完成一次连续后空翻，先仰身、双脚向上越过头顶，再收腹转过倒置阶段，躲过B横扫的手臂；镜头随身体向上倾转，在倒置阶段短暂放慢，灯带沿背景倾斜掠过。A继续同一次翻转，双脚回到身体下方，落在B侧后的站台空地，屈膝吸收落地力量，衣角与脑后短辫随惯性回落；背景乘客惊惧闪避，不被当成额外攻击者，A没有被打飞，也不在半空反复翻跟头拖时。16.00–18.50秒：A刚站起，B便转身追上，一记宽幅摆臂打向A头侧；A先后仰再下潜，让B的浅灰青色右臂从头顶横过，双手顺势控制那条前臂，踏入对方身体前侧并转背降低重心。A把B的手臂带过自己肩上，利用B仍向前的动量完成一次过肩摔；B的髋部翻过支点，双脚离地，背侧落在站台砖面，碎砖和粉尘沿地面散开。镜头从贴肩近景退到低位中广景，完整交代翻转与落地，A保持站立，松手让B落下。B立即翻身支撑并屈腿起身，A转向它继续施压，把起身与追近接起来，不保留站着说台词的长停顿。18.50–20.65秒：B冲回贴身距离，A抢先用短直拳击向脸侧，回手护住胸前，随后压低身体打向腹肋；B抬臂挡住其中一击并以粗重手臂横扫反击，A贴近其胸肩内侧低头避开，抬前臂拨开回收的拳，再以紧凑短拳接触下颌与上胸。镜头绕两人肩侧高速小幅移动，头部与身体在实际接触后才出现回弹；以一组连续进攻、挡拨和回击完成这一段，不拍成轮流挥空拳、互不反应或双拳持续贴在一起。20.65–21.85秒：直接切正上方俯拍，清楚看见两人围绕同一小片地砖转动，A的黑色短辫与青铜护目框、B左肩铜锈绿甲片与赭红腰带是固定辨识点；B宽幅手臂从A身侧扫过，A缩肩钻入手臂内侧，左右脚依次换位，一手拨开对方前臂，另一只拳打入胸腹，再收手随B的转体调整位置。地面的落砖与排水格栅保持原位，俯拍展示近身攻防路线，不增加一个替身或第三名格斗者。21.85–24.00秒：切回越过B肩部的紧近景，A继续一组短促上、下段交替拳击并侧头闪开B从上方绕来的手臂，缠布前臂与灰青粗鳞拳臂交错但边界清楚。镜头追随A的拳头急推，在两处强接触点加入仅数帧的黑白高反差曝光闪变与立体冲击轮廓，立即回到原来的冷青灰AAA CGI，不切成漫画、文字或2D插画。最后一记直拳明确压中B腹部，腹部向内压缩、上身折起，B上方挥来的手臂随躯干失去前进方向；A脚底稳住，力量由腿、髋、肩传到拳面，拳头不穿透身体。24.00–28.00秒：紧接同一记腹部重击的后果，B双脚离地向后飞出，镜头低贴站台边缘沿车站长轴高速追踪，连续掠过白柱、黄色边框、玻璃栏板和惊愕的人群；背景线条因速度拖长，B的青灰鳞躯、暗棕裤、赭红腰带与左肩铜锈绿甲片始终能辨认。通过长轴宽景、柱子擦过前景的快速切镜和从下方仰看的近景，展示B在惯性中翻转、伸臂试图恢复平衡，带起的碎片沿同一飞行方向掠过轨道。B随后撞破站台边缘一段玻璃金属屏蔽栏，玻璃在身体接触后碎开、金属框弯折，他越过破口继续进入轨道区，切至轨道侧壁方向的宽景；这仍是上一记腹部重击引起的连续飞行，不新增画外踢击、第二次发射或击飞乘客，A不会复制到每根柱子后方。28.00–30.00秒：固定侧向中广景，深灰垂直轨道墙在画面左侧，对面站台和栏后乘客在右后方，长灯带指向车站深处。B在空中转到脚先朝墙，双脚脚掌明确接触垂直墙面，屈膝收腹形成紧凑蜷曲，脚下擦出少量墙灰，随后在ultra slow motion中缓缓伸膝、躯干向外转开，身体逐渐接近水平；脚掌仍抵住墙面，赭红腰带、宽裤与小碎片持续运动，体现接触、压缩和蓄力的连续过程，不是背部撞墙、悬空冻结或站在横倒的地面。30.00秒结束在B仍以双脚抵墙、身体向外展开的活画面，不添加完整蹬墙反扑、落地、死亡或胜负结局，无黑屏、无淡出、无片尾卡。节奏与连续性：保留快速追击、贴身闪避、投摔、空翻、飞踢、击柱、俯拍短打和跨站台位移的动作顺序，缩短观察与原对白停顿；只有甩起最高处、空中闪避和最终抵墙阶段使用局部慢动作，最终明确ultra slow motion，正常攻防必须高速流畅，不全局慢放，不用定格补足时长。A的黑色短辫、深棕肤色、青铜框护目罩、灰蓝无袖上衣与缠布前臂保持，露眼动作前后护目罩状态明确；B的左侧铜锈绿甲片与短骨鳍、右侧灰青粗鳞臂、蜥蜴状宽头、暗棕裤与赭红带保持，骨鳍不掉落、不换边、不变武器。被击倒者先接触地面再恢复支撑，主动跳跃先蹬地，受击飞行先有接触，墙面制动先脚掌接触再屈膝，所有运动保留重量、惯性与方向。背景群众持续作不同的自然避让动作，和主战者保持清楚空间，不融合、不突然穿进拳脚路径；受损柱面、落砖和破碎栏板在后续镜头保持破坏状态。无额外兵器、无多肢、无喷血、无肢解。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：地下站内通风与空间回响、鞋底踩踏和擦地、衣料与赭红腰带甩动、拳脚破风、实际接触的闷击、非语言呼吸和短促痛哼、碎石翻滚、混凝土开裂、玻璃碎裂、金属栏框弯折、乘客后退脚步、短暂紫光接触的非旋律电裂声，以及最后脚掌抵墙摩擦和墙灰落下。无对白、无旁白、无可懂喊词、无歌曲、无字幕；不得用脉冲声、管弦乐重击、旋律化音效设计或节奏性音效填补没有音乐的空缺，不把连拳、脚步或碎玻璃声编排成鼓点，不把通风声延伸成音乐性持续音。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 无标题、可读站名、logo、interface、播放器控件或watermark。
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100233407108137349) · [Оригінальний допис](https://x.com/MadMax_Series/status/2100233407108137349) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100222426705453318"></a>
-
-### Інтерактивний тур квартирою з варіантами плитки
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-16 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0c6d0d55a3e8911c68a86b2e83152c98ca4d199a428c8b29f9ad12657dd497b3.webp" width="840" loading="lazy" alt="Інтерактивний тур квартирою з варіантами плитки"></a>
-
-**Промпт**
-
-```text
-Я хочу, щоб ви створили повністю реалістичну HD-модель для 3D-візуалізації квартири в Blender, а потім розробили інтерактивний вебдосвід, у якому я зможу переміщатися квартирою та обирати варіанти плитки.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-I want you to build a completely realistic HD 3D render model in blender, then build interactive web experience so I can walk within the apartment, and choose tile options.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100222426705453318) · [Оригінальний допис](https://x.com/scheemunai/status/2100222426705453318) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100193512373592313"></a>
-
-### Розроблення ПК-версії Splatoon і відтворення графіки
-
-[basio](https://x.com/basio39) · 2026-09-16 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014.webp" width="840" loading="lazy" alt="Розроблення ПК-версії Splatoon і відтворення графіки"></a>
-
-**Промпт**
-
-```text
-/goal Розробіть ПК-версію Splatoon. Повністю відтворіть графіку.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-/goal PC版スプラトゥーンを開発してください。グラフィックは完全に再現してください。
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100193512373592313) · [Оригінальний допис](https://x.com/basio39/status/2100194321987461503) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### Інтерактивна 3D-сцена кімнати з рухомими меблями
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="Інтерактивна 3D-сцена кімнати з рухомими меблями"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**Промпт**
-
-```text
-Використовуючи надану мною фотографію кімнати, створіть за допомогою Blender MCP інтерактивну 3D-сцену та візуалізуйте її в демонстраційне відео. Додайте рухомі елементи (шарніри, дверцята, шухляди) і використайте продумані рухи камери, щоб показати ці ефекти.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100139076816916977) · [Оригінальний допис](https://x.com/walterzhu8/status/2100139076816916977) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**Промпт**
-
-```text
-【Підготуйте заздалегідь】
-・Референсні зображення потрібного світу (зовнішній вигляд, кімнати тощо)
-・Канонічні зображення персонажа (наприклад, вигляд у трьох проєкціях)
-　※Без зображень відтворити результат неможливо. Обов’язково прикріпіть їх
-
-【Промпт】
-На основі прикріплених зображень я створю професійно опрацьований 3D-простір і персонажа для гри, якими можна буде керувати, зберігши мій задум світу та образ персонажа.
-
-① Переглянути прикріплені зображення та перевірити форму, кольори й декоративні елементи будинку та персонажа
-　↓
-② Згенерувати 3D-моделі із зображень у Tripo (три повнорозмірні зображення персонажа — спереду, ззаду та збоку — з однаковим співвідношенням сторін)
-　↓
-③ Імпортувати моделі в Blender і налаштувати розташування та розміри частин
-　↓
-④ Налаштувати автоматичний ригінг і додати рухи, що відповідають характеру персонажа, наприклад ходьбу та похитування
-　↓
-⑤ Якщо виникнуть варіанти, що потребують рішення (наприклад, використання платного асета), перш ніж продовжувати, узгодити їх зі мною
-　↓
-⑥ Документувати виконану роботу, проблемні місця та розташування матеріалів так докладно, щоб інший ШІ міг відтворити процес
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099850719839109597) · [Оригінальний допис](https://x.com/aiehon_aya/status/2099850721646784894) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### Процедурна космічна гра з повністю доступним світом
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="Процедурна космічна гра з повністю доступним світом"></a>
-
-**Промпт**
-
-```text
-Усе, що я бачу, має бути доступним для досягнення. Збережімо реальні відстані, а подорож зробімо практичною завдяки масштабу й швидкості. Я хочу летіти з космосу крізь атмосферу планети й спускатися до поверхні. Планети можуть бути розміром із Землю, тож нам знадобляться процедурно згенерований ландшафт і рендерер, що працює за чанками.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099785223827259515) · [Оригінальний допис](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### 3D-серце в стилі Apple та усміхнене емодзі
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="3D-серце в стилі Apple та усміхнене емодзі"></a>
-
-**Промпт**
-
-```text
-3D-емодзі-серце та усміхнене емодзі в стилі Apple
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099750376530657300) · [Оригінальний допис](https://x.com/Just_sharon7/status/2099751278234767673) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### Інтерактивна 3D-панель нервової системи організму
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="Інтерактивна 3D-панель нервової системи організму"></a>
-
-**Промпт**
-
-```text
-Інтерактивна панель. Ліворуч — схематичне зображення нервової системи [organism] із клікабельними ділянками. Праворуч — 3D-модель [organism] із процедурним ригінгом. Натискання на ділянку запускає рухову реакцію тривалістю 2,5 секунди. Темний інтерфейс, телеметрія швидкості та курсу.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099719427990134984) · [Оригінальний допис](https://x.com/AIMind_Ai/status/2099719427990134984) · [Назад до прикладів](#all-prompts)
 
 ---
 

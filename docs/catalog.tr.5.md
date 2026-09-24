@@ -28,6 +28,18 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Dropzone battle royale arenası](#dropzone-battle-royale-arena-2096155883122413946)
+- [Tarayıcı uçuş oyunu](#browser-flight-game-2096149823216898445)
+- [Kafe fotoğrafından dikey gezinti videosuna](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [Otomatik karakter iskeleti ve kung fu hareketleri](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Blender'da Viking karakteri](#viking-character-in-blender-2096140378777010278)
+- [Odyssey esintili platform macerası](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [İskeletli ve animasyonlu T. rex](#rigged-and-animated-t-rex-2096133339329536249)
+- [32 animasyonlu insanla yürünebilir ofis](#walkable-office-with-32-animated-people-2096131961345720477)
+- [Akşam ışığında Adiyogi kamera uçuşu](#adiyogi-evening-fly-through-2096128774203171021)
+- [Blender'da Formula 1 aracı](#formula-one-car-in-blender-2096125193580113957)
+- [Canlı jet üretim tesisi](#live-jet-manufacturing-plant-2096122429319852319)
+- [Mobil oyun reklamının oynanabilir yeniden yapımı](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
 - [Çizimden oynanabilir karaktere](#artwork-to-a-playable-character-2096107343268257953)
 - [Blender'da Azadi Kulesi](#azadi-tower-in-blender-2096107322536051057)
 - [Suzhou Müzesi bahçesi gezintisi](#suzhou-museum-garden-walkthrough-2096096998092841449)
@@ -66,20 +78,248 @@
 - [Etkileşimli 3B karakter kartları](#interactive-3d-character-cards-2095963576049832347)
 - [Mermi zamanlı üçüncü şahıs nişancı](#bullet-time-third-person-shooter-2095962376344309843)
 - [Street Heat: tarayıcıda drift yarışı](#street-heat-browser-drift-racer-2095916820431827408)
-- [Hızlı oynanabilir oyun prototipi](#rapid-playable-game-prototype-2095907526566990013)
-- [Blender'da döngüsel siberpunk yatak odası](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [Kendi kendine oynayan kültürel arcade oyunu](#self-playing-cultural-arcade-game-2095898198413922791)
-- [İstemden açık dünya oyununa](#open-world-game-from-a-prompt-2095872986477908108)
-- [Three.js'de Van Gogh kasabası](#van-gogh-town-in-three-js-2095871735824339279)
-- [Blender'da mekanik olarak eksiksiz lokomotif](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [Otuz saniyelik Blender sahnesi meydan okuması](#thirty-second-blender-scene-challenge-2095844872171421771)
-- [Tek turda Three.js deniz savaşı sahnesi](#single-turn-three-js-naval-war-scene-2095840435319001278)
-- [Başkanlık dönemleri boyunca Oval Ofis](#oval-office-through-the-presidencies-2095830596069290077)
-- [Tariften 3B cheesecake filmine](#recipe-to-3d-cheesecake-film-2095829851206774987)
-- [Tidal Rush: tarayıcıda sekiz yarışçı](#tidal-rush-eight-racer-browser-game-2095819786651374023)
-- [Etkileşimli Three.js galaksi ana sayfası](#interactive-three-js-galaxy-homepage-2095806515579879457)
 
 </details>
+<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
+
+### Dropzone battle royale arenası
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone battle royale arenası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Fırtına çemberi, dokuz yapay zekâ düşmanı, darbe tüfeği, sağlık ve şarjör doldurmayla üçüncü şahıs tarayıcı battle royale oyunu kur. Yerleştirilebilir siper duvarları ve eksiksiz eleme döngüsü ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Orijinal gönderi](https://x.com/Motion_Viz/status/2096155883122413946) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### Tarayıcı uçuş oyunu
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Tarayıcı uçuş oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Boş bir projeden tarayıcıda eksiksiz bir 3B uçuş oyunu oluştur. Kontrol edilebilir uçuş, gezilebilir ortam, açık hedef ve tutarlı sunum ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/browser-flight-game-2096149823216898445) · [Orijinal gönderi](https://x.com/givros/status/2096149823216898445) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### Kafe fotoğrafından dikey gezinti videosuna
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Kafe fotoğrafından dikey gezinti videosuna"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir kafeyi fotoğrafından Blender’da yeniden oluşturun; ahşap tavanı, ışık şeritlerini, kahve kavurma makinesini, rafları ve bitkileri ekleyin. Düzenlenebilir sahne ve dikey formatta 15 saniyelik bir kamera gezintisi teslim edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Orijinal gönderi](https://x.com/harrisonitsme/status/2096143359505269079) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### Otomatik karakter iskeleti ve kung fu hareketleri
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Otomatik karakter iskeleti ve kung fu hareketleri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen 3B karaktere iskelet ekle; yürüme, koşma ve çeşitli kung fu hareketleri oluştur. Animasyonlarda bozuk eklemleri ve kararsız pozları kontrol et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Orijinal gönderi](https://x.com/thebuggeddev/status/2096141728487178503) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Blender'da Viking karakteri
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender'da Viking karakteri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da düzenlenebilir bir 3B Viking karakteri oluştur. Tanınabilir kostüme, yüz yapısına, vücut oranlarına ve anlaşılır sunum pozuna odaklan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/viking-character-in-blender-2096140378777010278) · [Orijinal gönderi](https://x.com/fre4kspace/status/2096140378777010278) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Odyssey esintili platform macerası
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey esintili platform macerası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Sekiz platform, toplanabilir üç ay, geri dönen şapka saldırıları, düşmanlar ve kontrol noktaları olan Odyssey esintili Three.js bölümü yap. Dokunmatik kontroller ekle ve baştan sona oyna.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Orijinal gönderi](https://x.com/AiHubMix/status/2096135808243876152) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### İskeletli ve animasyonlu T. rex
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="İskeletli ve animasyonlu T. rex"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Üretilmiş T. rex modeline iskelet ekleyip inandırıcı hareket oluştur. Karakteri Three.js'de render et ve animasyonun modeli tutarlı biçimde deforme ettiğini doğrula.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2096133339329536249) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
+
+### 32 animasyonlu insanla yürünebilir ofis
+
+[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="32 animasyonlu insanla yürünebilir ofis"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de birinci şahıs gezinmesi olan bir tarayıcı ofisi kur. Ziyaretçiyi adıyla selamlayan 32 iskeletli kişi, tıklanabilir kapılar, yörünge kontrolleri ve plan görünümü ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Orijinal gönderi](https://x.com/demgufever82151/status/2096131961345720477) · [Kaynak kodu](https://github.com/Parithosh-Varma/office) · [Canlı demo](https://office-2nw.pages.dev/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
+
+### Akşam ışığında Adiyogi kamera uçuşu
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Akşam ışığında Adiyogi kamera uçuşu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender’da geniş araziler, ayrıntılı yakın çekimler ve sıcak akşam ışığı içeren bir Adiyogi sahnesi oluşturun. 30 saniyelik bir kamera uçuşu render’ı alın ve düzenlenebilir sahneyi koruyun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Orijinal gönderi](https://x.com/thejothiram/status/2096128774203171021) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="formula-one-car-in-blender-2096125193580113957"></a>
+
+### Blender'da Formula 1 aracı
+
+[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Blender'da Formula 1 aracı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bilgisayar kontrolüyle Blender'da bir 3B Formula 1 modeli oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Orijinal gönderi](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
+
+### Canlı jet üretim tesisi
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Canlı jet üretim tesisi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Uçak üretimini araştır ve Three.js'de çalışan bir jet fabrikası simülasyonu kur. Makine çevrimlerini, üretim istasyonlarını, taşımayı ve darboğazları modelle, ardından akışı test et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Orijinal gönderi](https://x.com/konstantinsaifo/status/2096122429319852319) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
+
+### Mobil oyun reklamının oynanabilir yeniden yapımı
+
+[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="Mobil oyun reklamının oynanabilir yeniden yapımı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Mobil oyun reklamını referans alarak oynanabilir tarayıcı oyunu oluştur. Ana etkileşimi yeniden yap ve görsel fikri karşılamak için Blender varlıkları kullan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Orijinal gönderi](https://x.com/buildingadlicio/status/2096111709496680842) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="artwork-to-a-playable-character-2096107343268257953"></a>
 
 ### Çizimden oynanabilir karaktere
@@ -891,253 +1131,6 @@ Tek cümleden tarayıcıda eksiksiz bir arcade sokak yarışı oluştur. Tatmin 
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095916820431827408) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="rapid-playable-game-prototype-2095907526566990013"></a>
-
-### Hızlı oynanabilir oyun prototipi
-
-[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="Hızlı oynanabilir oyun prototipi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Sıkı zaman ve token bütçesi altında görsel açıdan tutarlı, oynanabilir bir oyun prototipi oluştur. Özellik sayısından önce eksiksiz bir oyun döngüsüne, hızlı kontrollere, açık geri bildirime, kararlı performansa ve yayımlanabilir tarayıcı sürümüne öncelik ver.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Orijinal gönderi](https://x.com/gibglue/status/2095907526566990013) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Blender'da döngüsel siberpunk yatak odası
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender'da döngüsel siberpunk yatak odası"></a>
-
-**İstem**
-
-```text
-Blender'da gece yağmurlu neon şehre bakan sinematik bir siberpunk yatak odası oluştur. Animasyonlu reklam panoları ekle; fotogerçekçi ve kesintisiz döngü hâlinde olsun.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Orijinal gönderi](https://x.com/CoinSh0t/status/2095898303019856230) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### Kendi kendine oynayan kültürel arcade oyunu
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Kendi kendine oynayan kültürel arcade oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Bir G7 ülkesi için kendi kendine oynayan arcade oyunu oluştur. Tanınabilir bir kültürel simgeyi temel mekaniğe dönüştür, eylem giriş olmadan anlaşılabilsin. Puan, artan zorluk ve akılda kalıcı bir açığa çıkış ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Orijinal gönderi](https://x.com/say_gm_/status/2095898198413922791) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### İstemden açık dünya oyununa
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="İstemden açık dünya oyununa"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Şu fikirden açık dünya oyunu oluştur: [dünyanın ana fikri]. Üç ayrı bölge, dolaşım, dinamik karşılaşmalar, basit görev zinciri, önemli yerler, kaydetme ve yeniden başlatma davranışı ile tarayıcıda çalışmaya yetecek optimizasyon ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Orijinal gönderi](https://x.com/aeejazkhan/status/2095872986477908108) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Three.js'de Van Gogh kasabası
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js'de Van Gogh kasabası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Van Gogh'dan esinlenen yürünebilir bir Three.js kasabası oluştur. Boyalı sokakları, yıldızları, kafeleri ve tarlaları katmanlı 3B mekânlara dönüştürürken gölgelendiriciler, dokular ve animasyonlu ışıkla fırça izlerini canlı tut.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Orijinal gönderi](https://x.com/RealFedeURU/status/2095871735824339279) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### Blender'da mekanik olarak eksiksiz lokomotif
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Blender'da mekanik olarak eksiksiz lokomotif"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da bir buharlı lokomotifi dokulu bir kabuk olarak değil, gerçek mekanik parçalara ayrılmış biçimde modelle. Aksları, aks kutusu kılavuzlarını, yatak bloklarını, gergileri, süspansiyon bağlantılarını, buhar kubbesini ve tüm ana montajları ayrı tutup adlandır.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Orijinal gönderi](https://x.com/sheemamoto/status/2095868420327710840) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### Otuz saniyelik Blender sahnesi meydan okuması
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Otuz saniyelik Blender sahnesi meydan okuması"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Çok sıkı bir sürede tutarlı bir Blender sahnesi kur. Güçlü silüet, üç derinlik katmanı, bir ana malzeme, sinematik ışık ve çekime hazır kompozisyona öncelik ver. Tüm nesneler düzenlenebilir kalsın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Orijinal gönderi](https://x.com/_satyam_ai/status/2095844872171421771) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
-
-### Tek turda Three.js deniz savaşı sahnesi
-
-[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Tek turda Three.js deniz savaşı sahnesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de tek turda ayrıntılı bir deniz savaşı oluştur. Farklı gemiler, fiziksel olarak inandırıcı su etkileşimi, dümen suyu ve sıçramalar, hava çatışmaları, patlamalar, sinematik aydınlatma, kamera hareketi ve performansı gözeten render ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Orijinal gönderi](https://x.com/synthwavedd/status/2095840435319001278) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
-
-### Başkanlık dönemleri boyunca Oval Ofis
-
-[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Başkanlık dönemleri boyunca Oval Ofis"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Oval Ofis'in başkanlık dönemleri boyunca değişimini araştıran etkileşimli Three.js projesi oluştur. Mobilyayı, dekoru ve oda düzenini incelemek için dönemler arasında geçiş sağla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Orijinal gönderi](https://x.com/fMinZhou/status/2095830596069290077) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
-
-### Tariften 3B cheesecake filmine
-
-[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Tariften 3B cheesecake filmine"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Gerçek bir cheesecake'i tarifinden yola çıkarak Three.js sahnesinde yeniden yap. Altı katmanı, kelepçeli kalıbı ve yağlı kâğıdı ayrı modelle; ardından pastanın bir dakikalık sunumunu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Orijinal gönderi](https://x.com/sarit69976/status/2095829851206774987) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
-
-### Tidal Rush: tarayıcıda sekiz yarışçı
-
-[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: tarayıcıda sekiz yarışçı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tarayıcıda eksiksiz bir kart yarışı oyunu oluştur. Sekiz yarışçı, üç tur, drift, toplanabilir nesneler, hızlı tepki veren fizik, açık HUD, çekici grafikler ve bitişte sonuç ekranı ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Orijinal gönderi](https://x.com/amazing13_13/status/2095819786651374023) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
-
-### Etkileşimli Three.js galaksi ana sayfası
-
-[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Etkileşimli Three.js galaksi ana sayfası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Gerçek zamanlı bir Three.js galaksisi etrafında üst düzey bir lansman açılışı oluştur. Parçacıklar belli belirsiz altı rakamını oluştursun, kaydırmaya ve imlece tepki versin. Metin okunabilirliğini koru ve zayıf cihazlarda efektleri kademeli azalt.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Orijinal gönderi](https://x.com/threejsresource/status/2095806515579879457) · [Örneklere dön](#all-prompts)
 
 ---
 

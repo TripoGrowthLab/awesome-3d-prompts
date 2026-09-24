@@ -29,7 +29,7 @@
 
 3D prompts across Astra, Claude and Kimi: games, scenes, assets, animation and interactive experiences. See the result, read the source, then adapt the prompt. Every example keeps its creator credit.
 
-**405 examples · 6 models · 14 languages · 16 with source code**
+**417 examples · 6 models · 14 languages · 16 with source code**
 
 [Start here](#start-here) · [Browse by category](#browse) · [Latest examples](#latest) · [Complete catalog](docs/catalog.en.md) · [Source code](docs/with-code.md)
 
@@ -47,34 +47,34 @@
 
 | Browse by category | Examples |
 | :--- | ---: |
-| [Games](docs/catalog.en.md#category-games) | 114 |
-| [Scenes](docs/catalog.en.md#category-3d-scenes) | 88 |
+| [Games](docs/catalog.en.md#category-games) | 115 |
+| [Scenes](docs/catalog.en.md#category-3d-scenes) | 92 |
 | [Assets](docs/catalog.en.md#category-3d-assets) | 49 |
-| [Interactive](docs/catalog.en.md#category-interactive-3d) | 80 |
-| [Animation](docs/catalog.en.md#category-animation-simulation) | 71 |
+| [Interactive](docs/catalog.en.md#category-interactive-3d) | 83 |
+| [Animation](docs/catalog.en.md#category-animation-simulation) | 75 |
 | [Other](docs/catalog.en.md#category-other) | 3 |
 
 ### Browse by model
 
 | Browse by model | Examples |
 | :--- | ---: |
-| [GPT-6 Astra](docs/catalog.en.md#model-gpt-6-astra) | 271 |
+| [GPT-6 Astra](docs/catalog.en.md#model-gpt-6-astra) | 276 |
 | [Claude Fable 5.1](docs/catalog.en.md#model-claude-fable-5-1) | 79 |
 | [Kimi K3](docs/catalog.en.md#model-kimi-k3) | 20 |
 | [Claude Fable 5](docs/catalog.en.md#model-claude-fable-5) | 18 |
+| [Claude Opus 5.5](docs/catalog.en.md#model-claude-opus-5-5) | 18 |
 | [Claude Opus 5](docs/catalog.en.md#model-claude-opus-5) | 13 |
-| [Claude Opus 5.5](docs/catalog.en.md#model-claude-opus-5-5) | 11 |
 
 ## Featured projects
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="assets/featured/wright-flyer-through-a-japanese-forest-2096467585785286808.webp" width="420" alt="Wright Flyer Through a Japanese Forest"></a><br><strong><a href="docs/catalog.en.3.md#wright-flyer-through-a-japanese-forest-2096467585785286808">Wright Flyer Through a Japanese Forest</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.en.3.md#wright-flyer-through-a-japanese-forest-2096467585785286808">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="assets/featured/wright-flyer-through-a-japanese-forest-2096467585785286808.webp" width="420" alt="Wright Flyer Through a Japanese Forest"></a><br><strong><a href="docs/catalog.en.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808">Wright Flyer Through a Japanese Forest</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.en.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808">Prompt →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="assets/featured/jelly-jungle-3d-browser-game-2081024333120733188.webp" width="420" alt="Jelly Jungle: 3D Platformer"></a><br><strong><a href="docs/catalog.en.8.md#jelly-jungle-3d-browser-game-2081024333120733188">Jelly Jungle: 3D Platformer</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.en.8.md#jelly-jungle-3d-browser-game-2081024333120733188">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" alt="AKARI: Nagoya Rooftop Flame Relay"></a><br><strong><a href="docs/catalog.en.1.md#akari-nagoya-rooftop-flame-relay">AKARI: Nagoya Rooftop Flame Relay</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="docs/catalog.en.1.md#akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/cyclops-island-threejs-game"><img src="assets/featured/cyclops-island-threejs-game.webp" width="420" alt="The Cyclops' Island"></a><br><strong><a href="docs/catalog.en.1.md#cyclops-island-threejs-game">The Cyclops' Island</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.en.1.md#cyclops-island-threejs-game">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" alt="AKARI: Nagoya Rooftop Flame Relay"></a><br><strong><a href="docs/catalog.en.2.md#akari-nagoya-rooftop-flame-relay">AKARI: Nagoya Rooftop Flame Relay</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="docs/catalog.en.2.md#akari-nagoya-rooftop-flame-relay">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/3d-prompts/cyclops-island-threejs-game"><img src="assets/featured/cyclops-island-threejs-game.webp" width="420" alt="The Cyclops' Island"></a><br><strong><a href="docs/catalog.en.2.md#cyclops-island-threejs-game">The Cyclops' Island</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.en.2.md#cyclops-island-threejs-game">Prompt →</a></td>
 </tr>
 </table>
 
@@ -82,7 +82,326 @@
 
 ## Latest examples
 
-[Complete catalog (405) →](docs/catalog.en.md)
+[Complete catalog (417) →](docs/catalog.en.md)
+
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude growth training montage
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude growth training montage"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788371114246177) · [Original post](https://x.com/ishuagra02/status/2102788832273801700) · [Back to examples](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Create a Pixar-level 90s cartoon animation in Three.js
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Create a Pixar-level 90s cartoon animation in Three.js"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788223835463902) · [Original post](https://x.com/scheemunai/status/2102788223835463902) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102788013902213508"></a>
+
+### Interactive 3D Chessboard for Studying Chess Gambits
+
+[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102788013902213508"><img src="assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="Interactive 3D Chessboard for Studying Chess Gambits"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a web app with an interactive 3D chessboard for studying the main chess gambits. Include move animations, controls to move forward and back, variations, and explanations of the ideas behind each opening.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102788013902213508) · [Original post](https://x.com/diogosantosbr/status/2102788013902213508) · [Back to examples](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### Seamless coded water-cycle animation
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Seamless coded water-cycle animation"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102781807179735211) · [Original post](https://x.com/higgsfield_ai/status/2102781807179735211) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102780850706567390"></a>
+
+### Browser-Based Medieval European-Style 3D Castle
+
+[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102780850706567390"><img src="assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="Browser-Based Medieval European-Style 3D Castle"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create an interactive 3D medieval European-style castle that can be operated in a browser. Include a moat, drawbridge, towers, stone walls, flags, a forest, and day/night switching. 
+This is a benchmark, so prioritize the visual quality of the 3D model and push the appearance as far as possible.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
+これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102780850706567390) · [Original post](https://x.com/luxurytax150/status/2102780850706567390) · [Back to examples](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Let's develop a game.
+The graphics can be either 2D or 3D; choose whichever makes the game systems and overall development easier to analyze and implement.
+Personally, I’m imagining a 3D game with a side-scrolling action format.
+I’d like to create a stylish atmosphere through the lighting and other elements, so I think 3D could enable more beautiful visuals—for example, streetlamps and lanterns.
+The game I want to make is called CatWalk.
+The name says it all.
+A cat moves from side to side.
+A catwalk stretches ahead, and the screen scrolls automatically. The player uses only simple controls, such as jumping, to clear obstacles and gaps while keeping pace with the scrolling speed. In a way, it might have a similar tension and system to Flappy Bird.
+However, I want the graphics to feel mature, stylish, and atmospheric.
+If possible, I’d love to show the cat moving, running, and jumping with graceful, fluid animation.
+You can decide the stage’s setting, but starting with something straightforward, such as a nighttime street, would be fine.
+I’d be very happy if a darker setting could make indirect lighting and similar effects look beautiful.
+I understand that some things may be possible, impossible, or difficult.
+Using my requests as a starting point, please develop something you think you can realistically make.
+For now, make one stage playable through a single complete loop.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102775461701091531) · [Original post](https://x.com/blitast_studio/status/2102775632933654585) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102752217375899659"></a>
+
+### Orbit Lab: A 3D Simulation of the Sun, Earth, and Moon
+
+[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102752217375899659"><img src="assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab: A 3D Simulation of the Sun, Earth, and Moon"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+This is a comparison experiment. Implement and complete the following web app with the exact same specifications in your working directory. Name it “Orbit Lab.” Use Three.js 0.186.0 and load the core library and OrbitControls at the same version (either via a CDN import map or npm is fine). There is no need to publish or deploy it.
+
+Requirements:
+1. Represent 3D models of the Sun, Earth, and Moon using procedural geometry and materials. Do not use external images or 3D assets. Use the Sun as a point light so that the lighting on Earth and the Moon is visible as the camera moves.
+2. Animate Earth’s orbit and rotation, its axial tilt, and the Moon’s orbit using delta time. Visualize the tilt of the orbital plane and display orbit lines for Earth and the Moon. The scale and speed may be exaggerated for educational purposes.
+3. Generate a reproducible starfield background using a seeded random number generator. Use OrbitControls for rotation and zoom. Clicking a celestial body must change its selected state and the information panel.
+4. Include play/pause, a speed slider, an orbit-line visibility toggle, camera focus controls for the Sun, Earth, and Moon, and a button to restore the initial state. Play/pause and reset must also work from the keyboard.
+5. Make the interface usable on smartphone-width screens, provide a message for browsers without WebGL support, handle resizing, and cap the pixel ratio to avoid excessive rendering load.
+6. Add startup instructions and controls to the README. If possible, launch the app and verify that it works; if not, clearly state why. In the completion report, briefly list the files created, implemented features, and verification results.
+
+Do not ask questions during the process. Make reasonable decisions and implement everything through to completion.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
+
+要件:
+1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
+2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
+3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
+4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
+5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
+6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
+
+途中で質問せず、合理的に判断して最後まで実装してください。
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102752217375899659) · [Original post](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Back to examples](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### The Last Train cyberpunk megacity benchmark
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="The Last Train cyberpunk megacity benchmark"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102740078347087940) · [Original post](https://x.com/builderhelmai/status/2102740078347087940) · [Back to examples](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Voxel-style soccer animation
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Voxel-style soccer animation"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102739444256383089) · [Original post](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Back to examples](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Interactive website about imaginary planets
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Interactive website about imaginary planets"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102729710174196022) · [Original post](https://x.com/Kappaemme1926/status/2102729710174196022) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### Medieval castle browser animation
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102672926285713456"><img src="assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Medieval castle browser animation"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102672926285713456) · [Original post](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Back to examples](#latest)
+
+---
 
 <a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
 
@@ -702,6 +1021,27 @@ create a new project in my projects folder called "endless-game": an endless, pr
 
 ---
 
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### Two-story suburban house with interior
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614"><img src="assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="Two-story suburban house with interior"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614) · [Original post](https://x.com/azer0lxm/status/2102473781830909995) · [Back to examples](#latest)
+
+---
+
 <a id="claude-opus-5-5-2102467667978572092"></a>
 
 ### Interactive crowd evacuation simulation
@@ -791,8 +1131,1049 @@ Deliver editable source, asset provenance and license notices, an npm developmen
 
 ---
 
+<a id="claude-opus-5-5-2102450239923720440"></a>
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 405 examples and live previews →</a></strong></p>
+### Interactive 3D Prehistoric Island
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Interactive 3D Prehistoric Island"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
+
+VISUAL DIRECTION
+Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
+ISLAND
+Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
+
+WATER CROSS-SECTION
+The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
+Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
+
+DINOSAURS
+Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
+Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
+
+NATURAL ANIMATION
+Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
+
+Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
+Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
+
+INTERACTION
+Allow users to:
+
+Rotate the camera freely, zoom, and inspect the underwater cross-section.
+Select a dinosaur and follow it with a smoothly moving camera.
+
+Place food in suitable locations and watch nearby dinosaurs approach and eat.
+
+Trigger drinking, resting, calling, and herd movement.
+
+Explore nests and watch a hatchling emerge.
+Trigger a marine reptile surfacing with a splash.
+Switch between daylight, sunset, and night.
+Adjust rain, wind, and volcanic activity.
+Pause the simulation and reset the scene.
+Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
+ATMOSPHERE AND AUDIO
+Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
+INTERFACE
+Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
+TECHNICAL QUALITY
+Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
+Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102450239923720440) · [Original post](https://x.com/vib3coded/status/2102450842070569099) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102411087002112256"></a>
+
+### A Tower Defense Game Inspired by Sir, We Have Orc Problems
+
+[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102411087002112256"><img src="assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="A Tower Defense Game Inspired by Sir, We Have Orc Problems"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a tower defense game like Sir, We Have Orc Problems.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+Sir, we have orc problemsみたいなTDゲーム作って
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102411087002112256) · [Original post](https://x.com/nikzu_/status/2102411087002112256) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102276620124062065"></a>
+
+### Tokyo Tower Day-and-Night 3D Scene and Video
+
+[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102276620124062065"><img src="assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="Tokyo Tower Day-and-Night 3D Scene and Video"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a compelling 3D artwork centered on Tokyo Tower, along with an approximately 30-second video for posting on X. 
+
+You are the production director. Create the necessary subtasks and commission the research and production work. Take responsibility for defining the brief, managing progress, reviewing deliverables, requesting revisions, and compiling the final package.
+
+【What to create】
+Create Tokyo Tower in a way that conveys its height from a ground-level, upward-looking view and the fine detail of its steel framework from close up.
+Provide both daytime and nighttime versions: show the structure and paint during the day, and the beauty of the illumination at night.
+
+The work should make viewers feel that Tokyo Tower has been carefully studied. Research and reproduce distinctive details—not just the tower’s overall shape, but also the way its legs flare outward, the arrangement of its steel framework, the observatories, and the buildings at its base. Keep the surrounding city focused enough to convey the tower’s scale and sense of place.
+
+【Production process】
+・Research official references and photographs, then determine which features to reproduce and set their priorities.
+・Based on that research, provide specific production instructions for each subtask.
+・Review an actual 3D preview early on and adjust the form, composition, and brightness.
+・Review the finished images and video yourself, identify anything that feels off or incomplete, and request revisions.
+・Make independent decisions about detailed technical choices and shot structure, and carry the project through to completion.
+
+Do not substitute a background made from pasted photographs or generated images. Express the scene using actual 3D geometry and camera movement. Record both verified facts and areas inferred due to insufficient reference material.
+
+【Video】
+Approximately 30 seconds. Combine an upward-looking ground-level view, close-ups of the steel framework and observatories, and a wide shot that shows the entire tower. Also show the transition between day and night.
+Decide on the exact timing and shot breakdown based on the completed model, choosing the structure that presents it most effectively.
+
+【Deliverables】
+・Editable Blender files
+・MP4 video for posting on X
+・Preview images showing the full scene and details in both day and night settings
+・A short draft post
+・A README documenting asset sources, the scope of the reproduction, and verification results
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
+
+あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
+
+【作ってほしいもの】
+地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
+昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
+
+「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
+
+【制作の進め方】
+・公式資料や写真を調査し、再現する特徴と優先順位を決める。
+・その調査を基に、各サブタスクへ具体的な制作指示を出す。
+・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
+・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
+・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
+
+写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
+
+【動画】
+約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
+細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
+
+【納品】
+・編集可能なBlenderデータ
+・X投稿用MP4動画
+・昼夜の全景と細部の確認画像
+・短い投稿文案
+・素材の出典、再現範囲、検証結果を記したREADME
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102276620124062065) · [Original post](https://x.com/wafffle_dev/status/2102276620124062065) · [Back to examples](#latest)
+
+---
+
+<a id="bubble-bay"></a>
+
+### Bubble Bay: 3D Water Balloon Battle
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/bubble-bay"><img src="assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="Bubble Bay: 3D Water Balloon Battle"></a>
+
+**Reference images:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build Bubble Bay, a playable Three.js water-balloon arena with the familiar big-headed, short-bodied, exposed-face costume-character style of classic bubble games. Default to detailed Tripo models with an obvious Three.js geometry comparison switch that preserves the match. Use three new characters: Langya, Shantao and Tuanli. Follow the supplied new character concept/model references, preserving their silhouettes, faces, colors and outfits.
+
+Langya is a lively human boy in a turquoise hood with one connected sideways wave crest, orange collar/cuffs, navy shorts and turquoise shoes with orange soles. Shantao is a small human girl with a dark-plum bob, a peach-pink bonnet with three short petal ornaments on each side, mint jacket, plum short overalls and pale-yellow boots. Tuanli is a chubby human boy with a broad pear-shaped body, a caramel round padded cap with cream face trim, teal short jacket, cream lower belly and navy boots. All show warm skin-colored child faces with simple dark oval eyes and tiny smiles. These are children in newly designed costumes; do not turn them into literal aquatic creatures or reuse the prior recognizable character outfits. Generate each separately through Tripo CLI with explicit tripo-p2 and independent front/back images, then bind valid biped skeletons and skins. Idle/run/jump must drive actual joints; inspect motion, correct headgear/shoe/body weighting and keep provenance accurate. If motions are locally authored, identify them as such.
+
+Localized names: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Starting capacity/range/speed levels: 1/1/6, 1/2/5, 2/1/4; caps: 6/7/9, 6/7/8, 9/8/8. Convert speed to 0.25 + level*0.8 world units per second; tiles are 2 units. Choosing a character assigns the other two as distinct rivals with matching profiles. Keep the same gameplay hit radius regardless of the chubby visual silhouette.
+
+Offer 15x13 Pirate/Patrit14 by default and Village10. Preserve recognizable gold deck, yellow cargo, wooden crates, four cannons and central mast; the village has four colored housing districts, a central road, hedges and toy blocks. Use publisher maps as reference, construct runtime artwork yourself, and document small route openings needed for continuous 3D movement and AI escape. Provide bright materials, shadows, ocean scenery, clear camera follow and overview.
+
+One player faces two cooperating AI rivals. WASD/arrows move, F places a 2.5-second bubble, Space jumps onto real platforms, Shift dashes, Q/E orbits, V changes view and Escape pauses. Cross-shaped water respects obstacles, breaks the first soft block and chains bubbles. Implement trapping, escape, enemy captures, respawns, a selectable target of 3, 6, 9 or 12 captures (default 6), or 180-second scoring, result and retry. Touch joystick and action buttons must work simultaneously.
+
+Use six generated Tripo pickups: balloon, range potion, roller skate, throwing glove, kick boot and rescue needle. Crates drop an item 85% of the time. Conditional item weights: 30/30/30/2.5/3.5/4 percent. Gloves add three throws, capped at six. G throws a nearby bubble up to four tiles over cover, preserving its owner and original fuse, reserving its landing and showing an arc. A bubble expiring in flight lands and explodes. K slides bubbles until blocked without resetting the fuse. X uses a rescue needle, starting at one and capped at three. Show inventory and available controls clearly.
+
+Chinese, English and Korean UI: mainland-China IANA timezones select Chinese, Korea/North Korea select Korean, all others including Hong Kong/Macao/Taiwan select English. Manual choice always wins. Upload only embedded-texture, standard uncompressed, genuinely skinned GLB up to 40 MB and 150k triangles. Validate bones, joints and weights, reject static models, use embedded animations where present, and provide basic joint motion for recognized humanoids without clips. Unrecognized skeletons need animations. Explain rigging versus animation plainly, provide a 90-degree orientation adjustment, process locally in-browser, and assign stable balanced stats by file hash.
+
+Use exactly https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character for the creation CTA. Credit jared linking to https://x.com/jaredliu_bravo .
+
+Integrate 13 ElevenLabs sound effects with normalization, short decay, distance/pan, polyphony limits, volume and mute: place, burst, crate, pickup, rare, throw, land, trap, rescue, jump, victory, defeat, kick. Create two original instrumental tracks with ElevenLabs music_v2_5, 90 seconds each, matching the nautical pirate map and sunny neighborhood. Normalize them to a restrained -20 LUFS target and crossfade loop boundaries. Give music its own volume control, change tracks by map, fade on pause and honor master mute. Do not reproduce the original game soundtrack.
+
+Keep independent source, dependencies, tests and asset provenance outside the CMS platform apps. Bundle same-origin static resources and MIT notices. Verify actual desktop and touch gameplay, upload variants, languages and visual switching in Ego Lite. Create an immutable review version attached to existing CMS Web Page 12; preserve the existing live release while review is pending. Publish only with truthful source and asset-rights clearance, then verify the public URL, model hashes and behavior. Preserve history and distinguish saved CMS records, previews and public releases.
+
+Load model assets with visible progress, at most three concurrent downloads, a 30-second idle timeout and two attempts. Preserve successful downloads on retry. Hide the entire Tripo / Three.js tab switch until all models are ready, then reveal it. Do not label procedural loading placeholders as loaded Tripo models.
+
+
+Use a close perspective follow camera that starts outside the spawn facing the arena center. Preserve Q/E orbit, mouse drag pitch and V overview. Keep a compact scoreboard at the top, the mode switch at the upper left, and brief notices near the bottom. Hide joystick and large touch actions on mouse desktops, retaining small rare-item controls; support compact simultaneous touch actions on narrow screens. Add an animated wave shader with teal depth variation, organic sandy islets with curved palms and rocks, subtle wood grain and grass textures. Enclose each trapped character in a size-aware translucent bubble with an iridescent Fresnel rim, gentle float, small bubbles and ground ripples. Verify posed skin vertices fit, reset lift on rescue, and check resource disposal after repeated switching. Avoid expensive scene-wide transmission passes for the water membrane; cap narrow-screen pixel ratio at 1.5.
+
+
+Provide visible Follow / Overview camera controls and V switching. In Overview, support zoom from 100 to 300 percent using +/− buttons, the mouse wheel and two-finger pinch, with bounded map dragging and Fit map reset. Preserve zoom and the live match when switching camera or rendering versions. Keep compact, non-overlapping rare-item controls in Chinese, English and Korean.
+
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/bubble-bay) · [Original post](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Live demo](https://bubble-bay.tripo.page/) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102215638311694336"></a>
+
+### Interactive 3D helicopter design presentation
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102215638311694336"><img src="assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="Interactive 3D helicopter design presentation"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
+
+Visual style:
+A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
+Helicopter:
+
+A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
+A white body with a dark navy underside and blue accent stripe.
+Curved, tinted cockpit windows with reflections and carefully fitted window seals.
+Side doors, handles, panel seams, rivets, boarding steps, and antennas.
+Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
+A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
+A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
+Curved landing skids attached to the fuselage with structural supports.
+Navigation lights and a blinking beacon.
+All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
+
+Interactions:
+
+Mouse drag to orbit, scroll to zoom, and touch controls.
+Start and stop both rotors with gradual acceleration and deceleration.
+Adjustable rotor speed.
+Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
+Automatic camera orbit.
+Front, side, and tail camera presets.
+Reset camera and fullscreen controls.
+Three liveries: glacier blue and white, rescue orange, and graphite.
+Interface:
+
+Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
+Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
+Bottom: controls and interaction hints.
+Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
+All interface text in English.
+Technical requirements:
+
+Generate the geometry procedurally without downloading a prebuilt helicopter model.
+Use PBR materials, a studio reflection environment, and soft shadows.
+Make animation independent of frame rate.
+Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
+Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
+If possible, embed dependencies in the HTML so the file works offline.
+Display a helpful fallback message if WebGL is unavailable.
+Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
+
+Deliver the working HTML file, not just an explanation.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102215638311694336) · [Original post](https://x.com/vib3coded/status/2102217028052377910) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102150615635816866"></a>
+
+### Spline Rush procedural browser racing game
+
+[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102150615635816866"><img src="assets/previews/28d71c2ef7fb89cb6d0cff7e49fb0414ee59901911a6c8240fe3fa508ed86767.webp" width="840" loading="lazy" alt="Spline Rush procedural browser racing game"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a complete, production-quality browser racing game called Spline Rush using the latest Three.js (WebGPURenderer + TSL where possible). 100% procedural: no external models, textures, audio files or fonts. Everything generated in code at runtime.
+
+CORE GAME
+- 6 unique tracks with elevation, banking, tunnels, hairpins, named corners and distinct biomes (coastal day, mountain dusk, desert sunset, forest rain, night city neon, high-speed oval).
+- Championship mode (qualifying + 3 races), Time Trial with ghosts, Quick Race.
+- 8 AI opponents with personality, racing line, braking points, overtaking and defending.
+- Best lap records, sector times, live event feed, replay camera.
+- Garage: 5 parametric cars with clearcoat + metal-flake paint, panel gaps, working lights, animated suspension, damage states.
+
+GRAPHICS TARGET (Ultra, worthy of RTX 5090 at 4K)
+Renderer: THREE.WebGPURenderer. Physically based pipeline.
+Lighting:
+- Rayleigh/Mie physically based sky + starfield + moon + dynamic sun that drives a full day/night cycle.
+- Cascaded shadow maps (4 cascades, stable texel snapping, high-res).
+- IBL via PMREM updated with time of day.
+- Volumetric fog + god rays + heat haze.
+Materials:
+- MeshPhysicalMaterial / TSL nodes: clearcoat, anisotropy, transmission on glass, metal-flake paint, wet-road shader that reacts to rain.
+Post-processing chain (RenderPipeline / TSL or postprocessing library):
+GTAO or high-quality SSAO → SSR → bloom (Karis) → motion blur (velocity) → DOF → god rays → auto-exposure → color grading + film grain + vignette → SMAA or TAA.
+Effects:
+- GPU particle pools: tyre smoke, sparks, dust, rain spray, grass/gravel kick-up, heat distortion.
+- Skid marks that persist and fade.
+- Dynamic wetness and puddle reflections when raining.
+
+PHYSICS & FEEL
+- Fixed-step 120 Hz simulation.
+- Raycast or strut suspension, load transfer, combined-slip tyres, ABS/TC, surface types (asphalt, kerb, grass, gravel, wet).
+- Camera: cinematic chase + hood + onboard with motion and collision shake.
+
+AUDIO
+- Fully synthesised Web Audio: multi-layer engine by RPM/load, wind, tyre screech, kerb rumble, crowd, dynamic music.
+
+QUALITY SYSTEM
+- Presets: Low / Medium / High / Ultra.
+- Ultra assumes RTX 5090-class GPU: 4K, high shadow maps, max particles, all post effects on, no aggressive LOD.
+- Adaptive quality that can drop effects if frame time exceeds target.
+
+Start with a playable first version (one track, one car, basic lighting), then iterate feature-by-feature exactly as requested. Keep everything in a single clean HTML/JS (or Vite) project that runs locally. Comment major systems. Make it look expensive, not cute.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102150615635816866) · [Original post](https://x.com/ToolBraidComp/status/2102150671340327384) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2102038136725377200"></a>
+
+### Interactive 3D Sun model website
+
+[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102038136725377200"><img src="assets/previews/169472399e3e1991f493f8eb441b75a17cc26b6be6aeb26a54bd14323bd9bbc2.webp" width="840" loading="lazy" alt="Interactive 3D Sun model website"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I want to build an interactive 3D Sun model website using Three.js.
+
+First, please write a Python script that can be run directly in Blender to create a highly realistic 3D model of the Sun. The model should be based on the Sun's real physical and visual characteristics, including its spherical shape, surface texture, color, plasma-like appearance, solar granulation, and glowing atmosphere. It should not look like a simple orange sphere. Please use appropriate materials, shaders, textures, and lighting effects to create a realistic solar appearance.
+
+Then, write the complete website code using Three.js. The Sun should occupy approximately 80% of the main visual area. Users should be able to rotate the Sun, move the view, and zoom in and out. The scene should include realistic lighting and glowing effects to make the Sun look dynamic and three-dimensional.
+
+Add a zoom-in button that allows users to get closer to the Sun and observe its surface details.
+
+The website should also include informative content about the Sun and its role in the solar system. The overall background should be a realistic cosmic galaxy/space environment.
+
+In addition, add a button that opens an interactive internal anatomy view of the Sun. This view should show the major layers of the Sun, such as the core, radiative zone, convection zone, photosphere, chromosphere, and corona. Each layer should have a corresponding label and a short text description. Ideally, users should be able to interact with the diagram and select different layers to view their information.
+
+Please make the website visually impressive, scientifically informative, and fully interactive, with a modern space-themed UI.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102038136725377200) · [Original post](https://x.com/HIX_AI_/status/2102038474752766239) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101730386711634251"></a>
+
+### Verdant — interactive 3D dinosaur island
+
+[vib3coded](https://x.com/vib3coded) · 2026-09-20 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101730386711634251"><img src="assets/previews/a535c40ebc8c7086dde5e627372c64ba5cdab5c252538c6c00e0ef5ec2c5e031.webp" width="840" loading="lazy" alt="Verdant — interactive 3D dinosaur island"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+create Verdant - an interactive 3D diorama built with Three.js + WebGL
+
+A lush island with roaming dinosaurs, a waterfall, and a cutaway lagoon with a swimming marine reptile. Feed the herd, hatch a baby dinosaur, and take the camera underwater
+
+Adjust the tide, wind, and time of day, or bring in tropical rain while relaxing music plays
+
+Everything runs right in your browser, in a single HTML file
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101730386711634251) · [Original post](https://x.com/vib3coded/status/2101570806702559235) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101687900723106104"></a>
+
+### Create a 3D model of WALL-E in Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-20 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101687900723106104"><img src="assets/previews/cac68c08e650b70228db60cbf7a38e7f2d113b00c6420a411918d82aad4f7bb1.webp" width="840" loading="lazy" alt="Create a 3D model of WALL-E in Three.js"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+create a 3d model of wall-e in three.js.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101687900723106104) · [Original post](https://x.com/marcthecreatorr/status/2101687900723106104) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101616345720787130"></a>
+
+### Sailboat on Open Water
+
+[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101616345720787130"><img src="assets/previews/b5b0b8a7e7c8425edf9299873ea284b3d4598bdac00bfc48ae9fcf178e4a0642.webp" width="840" loading="lazy" alt="Sailboat on Open Water"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a single HTML file with a 3D scene showing a small sailboat moving across open water, with native steering and a course that navigates around two visible islands, similar to the comparison "boat game" demos seen in recent model tests.
+
+Functional requirements:
+
+A water surface rendered as an animated wave mesh (procedural water shader, moving waves, light reflections that shift with viewing angle, a wake trail behind the boat), not a flat, static texture.
+A sailboat model built from simple shapes (hull, mast, sail filled by the wind), with visible bobbing and slight tilting on the waves, synchronized with the motion of the water beneath it.
+Two distinct islands placed at different points in the scene, each with simple terrain shaping (a rise, a beach, optionally vegetation) and a shadow cast onto the water around it.
+The boat should follow a route that genuinely avoids both islands (never clipping through their silhouette or crossing through the land), turning smoothly rather than snapping between angles.
+The camera follows the boat with a slight lag (smoothed camera follow), giving the impression of a dynamic chase rather than a rigidly attached top down view.
+A gradient sky (e.g. sunset or daytime blue, model's choice) with a sun or light reflection on the water, directionally consistent with the shadows on the islands.
+
+Technical requirements:
+
+A single .html file, three.js from cdnjs is allowed, no other external assets or textures, all water and terrain generated procedurally in code/shader.
+The route around the islands can be a pre-planned path (e.g. a Bezier curve threading between the islands) or simple steering that reacts to position, model's choice, but no collision with land is allowed.
+The animation must run smoothly for at least 20 seconds, looping or continuous, minimum 30fps on a typical laptop, canvas resolution capped to window size with a devicePixelRatio no higher than 1.5 to avoid overloading hidpi screens.
+
+Judged primarily on whether the water looks convincingly like a fluid in motion (not a texture with animated UV offset), whether the boat genuinely reacts to the waves, and whether the route around the islands reads as intentional navigation rather than a random near miss.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101616345720787130) · [Original post](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Back to examples](#latest)
+
+---
+
+<a id="titanic-the-last-light"></a>
+
+### TITANIC — The Last Light
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-20 · GPT-6 Astra · Animation
+
+Remix of: [notjazii / Titanic reference](https://x.com/notjazii/status/2101007819592085586)
+
+<a href="https://www.tripo3d.ai/3d-prompts/titanic-the-last-light"><img src="assets/previews/3c31a5b7f6f105a35c837091241a0e6a71ebff7e6df20d1d8ee4e257da97e51f.webp" width="840" loading="lazy" alt="TITANIC — The Last Light"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+1. Project goal
+Create TITANIC — THE LAST LIGHT: an interactive, 264-second cinematic voyage from the ship’s final sunset through collision, evacuation and sinking to a dawn memorial. Visitors watch a directed film, explore its moving 3D world, jump to a chapter, save a still or download the complete movie. Present it as an artistic interpretation, without claiming forensic accuracy or official affiliation.
+
+2. Visual direction
+Use a restrained cinematic palette: warm cream and amber ship lights against deep Atlantic blue, followed by a dark star-lit night and cool dawn. Render a perspective scene with a 2.39:1 movie composition, soft bloom, subtle grain and vignette. Use depth of field for character portraits and dawn, while keeping distress-rocket particles sharp. Give the ocean a deep-blue body colour, world-space swells, smaller mipmapped ripple normals and Fresnel reflections; warm sunset colour belongs mainly in reflected light. Use hull-attached wake ribbons following the same ocean displacement, with soft ends and broken foam. Wrap panorama textures horizontally without a fract discontinuity to prevent vertical sky seams and reflected streaks. Avoid orange shallow-water shading, tiny uniform ripples and glowing circular foam decals. Remove hidden overlapping roof top faces to prevent depth fighting; use a camera near plane appropriate to the shot distance. During sinking, dim window light monotonically rather than adding high-frequency flicker. Use a quiet serif title, bilingual English/Chinese controls and a narrow timeline along the bottom.
+
+3. World, geography and camera edit
+Use one continuous coordinate system with a 269-metre vessel, bow facing +X, and an iceberg fixed at (275, 0, 57). The vessel advances, contacts the iceberg at 96.727 seconds, coasts to a stop, then sinks in fore and aft sections. Keep the iceberg present through the ending and visible in the dawn composition. Retain six chapters beginning at 0, 63, 110, 163, 211 and 241 seconds.
+
+Build 23 deliberate shots. The bow embrace spans 29–61 seconds: an establishing approach, a close double portrait, a view from behind toward the sea and an oblique portrait. Place Rose in front and Jack behind her at the forward tip, both facing out over the bow. Maintain sunset lighting through the sequence. From 127–158 seconds, use three shots attached to a lifeboat’s actual world transform: departure from the boat deck, a closer view of passengers and suspension ropes, and approach to the water. Follow with wide evacuation, listing, fracture and sinking shots. At dawn show the surviving boats with the iceberg in the distance, then a restrained memorial title.
+
+4. Asset inventory
+- titanic-vessel: build the 269-metre primary structure in Blender with continuous well decks, a closed forecastle, layered promenades, four hollow raked buff funnels, black upper hull and red lower hull. Use real circular rims for 864 portholes and frames for 360 windows. Restrict emission to actual glazing materials. Batch materials and split at x=-32 for sinking. Add masts, rigging, davits, falls, bronze propellers and rudder. Generate a P2 companionway with teak doors and brass details, normalize it and reuse it twice on the authored deck. Preserve node transforms when assembling the GLB.
+- atlantic-iceberg: one irregular, eroded blue-white iceberg, with layered frost, roughness variation, a subdued normal map and a convincing waterline. It remains a fixed geographical object.
+- lifeboat: one White Star rowing lifeboat with a white wooden shell, dark gunwale, benches and oars, instanced across sixteen independently moving boats.
+- bow-embrace: an isolated double-character asset inspired by the requested 1997 film costumes and pose: Rose with auburn hair, navy/ivory clothing and a patterned shawl, arms extended; Jack immediately behind in a dark coat and ivory shirt. Generate clean full-figure reference images before conversion to H v3.1, keeping each figure’s head, neck, shoulders and clothing coherent. Refine Rose with a separate close-up reference and H facial-detail donor: register eyes, nose, lips and chin, transfer local shape and colour to the continuous full-figure mesh, and blend and retouch the UV transition. For Jack, generate a clean portrait with natural skin colour and defined eyes and lips. Keep its complete head and upper neck, fit gaze and scale to the H body, conform the lower neck and weld both boundary loops. Bake and retouch the narrow neck transition without flattening facial detail. Correct stance and hand contact in Blender. Inspect front, side and rear views for dark smears, texture seams, holes, cut edges and garment intersections. Give skin and cloth separate shading. Preserve natural base expressions with restrained body and cloth movement; do not imply a facial animation rig unless one is actually implemented.
+- seated-woman and seated-man: separate adult passenger models in 1912 clothing and pale cork life jackets, seated with bent knees and hands on their laps. Share geometry and materials across boats; vary placement and orientation slightly. Use reversible per-boat instance counts for boarding.
+
+Use Blender for the primary vessel, Tripo P2.0 for the deck companionway, iceberg, boats and seated passengers, and H v3.1 for the two complete hero figures and close-up portrait refinements. Keep the ocean, sky blend, stars, lighting, smoke, distress rockets, foam, spray and debris as scene effects. Supply lighter web model variants with compressed textures and retain detailed source assets for editing. Use the same approved optimized hero pair for the website and offline film export.
+
+5. Playback and feedback
+Show real loading progress for essential ship, boat, sky and sea-normal assets. Enable the opening button when the first scene is ready; defer the other models and music. If a required character or iceberg model is late, hold at its scene boundary and resume when it is ready rather than silently skipping its shot. Audio begins after user interaction.
+
+The timeline must support forward/backward seeking and rapid drags without resetting to zero. Preserve play/pause and mute state while seeking; do not let the old audio clock overwrite the requested position. Serve byte ranges for MP3 and MP4. Chapter navigation includes direct entries for the bow embrace at 29 seconds and lifeboat lowering at 127 seconds; these restore the director’s camera while preserving playback state.
+
+Exploration allows orbit, drag and zoom while the world, vessel and soundtrack continue. Follow vessel translation without snapping the viewing direction. Pause remains independent; returning to the film preserves current time. Space plays/pauses, arrows jump ten seconds, M toggles sound, E toggles exploration and F opens fullscreen. Support touch orbit/pinch and timeline tapping.
+
+Boats start empty. Passengers board in staggered groups after 112 seconds and finish before each boat descends. Ropes run between moving davits and the actual boat attachment points, then disappear after release. Backward seeking restores earlier occupancy and rope states. Collision must coordinate hull/camera vibration, ice chips, scraping spray and a steel/ice sound transient. Distress rockets use white burning stars, short individual trails, gravity, drag and fading smoke. Sinking disturbances are irregular, wave-following patches that decay gradually; distribute spray along the stern’s true waterline, never from a remote point fountain.
+
+6. Technical implementation and deliverables
+Use Vite, JavaScript modules and Three.js with deterministic time-based animation. Separate camera/timeline, vessel assets, characters, environment, effects and scene readiness. Share the same time model for web playback, seeking and offline capture. Keep web rendering within an explicit pixel, reflection and shadow budget; defer heavier ambient occlusion to the offline profile. Compile and decode assets without a long blocking startup prewarm. Host scripts, models, images, fonts and audio on the same origin and keep secrets out of the static build.
+
+Use an original score and paid ElevenLabs Foley: a complete natural whistling firework take split at its actual airburst into an ascending flight and a sharp bang with crackling tail, steel/ice contact and scrape, lifeboat ropes and water contact, hull strain/fracture, and stern water displacement. Export source WAV files, retain prompts/history IDs, and edit them into timed cues. Align launches at 119, 151 and 183 seconds, with the airbursts 3.15 seconds later. Retain the original burst attack and briefly duck the orchestral score. Keep quiet sea, wind and engine ambience beneath the mix. The reference film soundtrack is not included without authorization for both the public website and downloadable film. Document actual asset and sound sources rather than describing a fallback as a service-generated asset.
+
+Provide a deterministic export of 6,336 frames at 3840×2160 and 24 fps with three temporal samples, burned-in English titles and a 2.39:1 letterboxed image. Encode a 4K H.264/AAC master and a 1080p web edition below 100 MiB, both 264 seconds with 48 kHz stereo audio. Preserve optional Chinese/English subtitles, the audio master and editable source. Publish the static build through the existing CMS Web Pages hosting, without adding a platform application or a per-page Worker.
+
+7. Acceptance
+Inspect the opening, both character portraits, collision, distress rockets, all three lowering shots, fracture, stern disappearance and dawn. Check that the iceberg does not vanish at 244 seconds, the sea reads as deep blue, the sinking has no regular white rings, characters remain present in their authored shots, and boat ropes/passengers stay aligned throughout lowering. Test delayed model loading, forward/backward seeking, quick scrubbing, pause/mute, dynamic exploration, direct close-up entries and touch emulation. Verify every exported frame, fully decode both films, compare the actual browser download with the delivered file, and verify the public build and CMS association. Distinguish browser mobile emulation from testing on a physical phone.
+
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/titanic-the-last-light) · [Live demo](https://titanic-the-last-light.tripo.page/) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101325346427842909"></a>
+
+### 3D model of a Waymo Jaguar I-Pace
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-19 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101325346427842909"><img src="assets/previews/9a1f4ddfbd700e1f0a801a5f774a4fbf96c0ad7e98f8d9f9603f83cbb0b50dfc.webp" width="840" loading="lazy" alt="3D model of a Waymo Jaguar I-Pace"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+3d model of Waymo Jaguar i-Pace using three js
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101325346427842909) · [Original post](https://x.com/HarshithLucky3/status/2101325346427842909) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101310374033428642"></a>
+
+### Catfu martial-arts cat 3D animation and video workflow
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-19 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101310374033428642"><img src="assets/previews/b4e5c19965da011929b1777975e9c6c8a82a23c2a55340683d900de8a4103856.webp" width="840" loading="lazy" alt="Catfu martial-arts cat 3D animation and video workflow"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
+A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
+Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
+ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
+Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
+NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
+SHORT VERSION:
+Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
+Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
+AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
+PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
+FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101310374033428642) · [Original post](https://x.com/PixVerse/status/2101310387081908606) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101271938706685991"></a>
+
+### Interactive 3D aircraft engine display
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-19 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101271938706685991"><img src="assets/previews/ab861425bbbe93cb886651a97e2e3b2d2c7ae1be8684904fc0b3c42bd9b0c37a.webp" width="840" loading="lazy" alt="Interactive 3D aircraft engine display"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
+Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
+Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101271938706685991) · [Original post](https://x.com/YouWareAI/status/2101272224435253432) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101224659861590399"></a>
+
+### Complete Photorealistic 3D Environment
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101224659861590399"><img src="assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Complete Photorealistic 3D Environment"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a complete photorealistic 3D environment. Surprise me.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101224659861590399) · [Original post](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2101055500599054437"></a>
+
+### Galaxy from real orbital physics
+
+[Argona](https://x.com/Argona0x) · 2026-09-18 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101055500599054437"><img src="assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp" width="840" loading="lazy" alt="Galaxy from real orbital physics"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2101055500599054437) · [Original post](https://x.com/Argona0x/status/2101055500599054437) · [Back to examples](#latest)
+
+---
+
+<a id="monster-block"></a>
+
+### Monster Block — 45 Seconds to Wreck the City
+
+[Tony](https://x.com/abc30037274) · 2026-09-18 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/monster-block"><img src="assets/previews/8c0a2832f40569463c7b23d6b5228538ce90881c8b01876795d818b89d197a5d.webp" width="840" loading="lazy" alt="Monster Block — 45 Seconds to Wreck the City"></a>
+
+**Reference images:** [1](https://media.tripogrowth.space/media/ab5439fe-bc9f-4cde-8713-20e1b0caf7a6.png) · [2](https://media.tripogrowth.space/media/94648b5c-c804-46bd-a2b1-c684b25bd848.png) · [3](https://media.tripogrowth.space/media/4405e75a-c387-44cb-b63c-d8503454b422.png)
+
+<details>
+<summary>Prompt</summary>
+
+```text
+# Monster Block — rebuild specification
+
+## 1. Project goal
+
+Build a playable browser game called Monster Block. Let the player choose a toy monster, enter a miniature city, and destroy as many buildings as possible in 45 seconds. Moving, clawing buildings, throwing cars, and chaining demolitions must produce immediate feedback. Finish with a score, a title, a retry action, and a challenge link that lets a friend play the same block. Provide English and Simplified Chinese interfaces and keyboard and touch controls.
+
+## 2. Visual style
+
+Create a warm tabletop diorama on a thick square platform against a cream background. Use low-detail pastel buildings, small dark teal windows, pale roof rims, broad muted green-grey roads, zebra crossings, rounded trees, tiny cars, and warm soft shadows. The building palette includes terracotta, mustard, dusty teal, rose, blue-grey, cream, and sage. Materials should look like matte painted toys rather than shiny metal.
+
+Use a high three-quarter perspective camera, not a flat overhead camera. The reference camera starts at (35, 37, 41), looks toward (0, 0.4, 0), and uses a 38-degree field of view on wide screens, 44 degrees on intermediate screens, and 51 degrees on narrow screens. During play, smoothly follow the monster while keeping nearby targets visible. Light the scene with a warm hemisphere light, a soft shadow-casting directional light, and a cool fill light.
+
+Use condensed bold display typography for large English headings and a readable sans-serif for instructions. Combine dark green text, cream surfaces, orange play actions, and yellow Tripo creation actions. On the homepage, make Play and Create with Tripo equally prominent. In the pause dialog, place a dark green Tripo card with three character thumbnails and a yellow creation button above the outlined Resume button. Keep help text comfortably readable on phones.
+
+Use short, input-triggered effects: claw swipes, brief building recoil, distinct hit and demolition impacts, expanding stomp rings, small debris bursts, score popups, combo changes, and a restrained directional camera jolt. Lift a grabbed car into the hand over about 220 ms. Honor reduced-motion preferences by removing shake, debris bursts, and UI scaling while retaining scores, target cues, and destruction outcomes.
+
+## 3. World and scene
+
+Place 16 destructible buildings in a 4-by-4 grid. Use block spacing 10.4, block centers at -1.5, -0.5, 0.5, and 1.5 times that spacing, and five avenues along each axis. The platform is 52.6 units wide. Buildings have two to five floors, varied footprints, roof details, occasional awnings, and small HOTEL or NOODS signs. Generate the layout deterministically from a seed.
+
+Place 12 cars along the roads and one guaranteed throwable yellow car near the initial play position. Include trees around building plots and platform edges, four corner lamps, lane markings, and a central crossing. Start the monster in a clear avenue at (0, 0.2, 10.4); use a foreground idle position at z=20.8 for the homepage.
+
+The same block parameter must reproduce the same building layout. When absent, derive the block seed from the UTC date. A beat parameter supplies a friend's target score. Keep the selected block when retrying. Random debris need not be deterministic.
+
+## 4. Asset inventory
+
+Maintain stable asset IDs and separate visual models from gameplay collision proxies.
+
+- munch: Munch / 阿猛, the default green dinosaur. Preserve the original rounded snout, cream belly and horns, orange back spikes, short arms, large feet, and long tail. Load /assets/monster-animated.glb and normalize its height to 5.6 units. Retain /assets/monster.glb as a static fallback.
+- bongo: Bongo / 橘拳, an orange toy gorilla with oversized fists and a broad body. Load /assets/bongo-animated.glb and normalize its height to 4.5 units.
+- bolt: Bolt / 蓝电, a blue toy robot with chunky limbs and a friendly silhouette. Load /assets/bolt-animated.glb and normalize its height to 4.9 units.
+- Each character has a matching preview PNG and idle, run, and slash clips. Preserve the actual three selectable characters; switching must update both the preview and the model used in the next round.
+- city_building: procedural reusable building groups, with separately tracked health, collider bounds, hit recoil, and demolition state. Their roof rims, bases, and awnings belong to the collision envelope.
+- city_car: reusable procedural throwable cars. Keep held, airborne, and destroyed states separate. Three cars carry yellow Tripo branding.
+- city_decor: procedural trees, lamps, sidewalks, signs, and road paint. Keep this lightweight and reuse geometry and materials.
+- tripo_scenery: one rooftop logo sculpture, two rooftop signs, one workshop storefront, and three branded cars. Construct these from the supplied Tripo logo and procedural meshes. These are scene decorations, not additional API-generated models or gameplay power-ups.
+
+The three character models are the priority Tripo assets. Reuse the supplied generated and rigged GLBs when available. For a new character, generate a matching toy-style model, check rig suitability, bind it, create idle/run/slash animations, and validate its proportions before adding it to the roster. Do not call generation APIs when a player starts a round. Character uploads and automatic import of a player's own creations are outside this version.
+
+## 5. Gameplay and feedback
+
+Support WASD or arrow keys for movement, held Space for repeated claw attacks, E to grab a nearby car and E again to throw it, R to stomp, and Escape to pause. Provide a virtual joystick and separate attack, grab/throw, and stomp buttons on touchscreens. Clear held inputs when pausing or losing focus.
+
+Use these rules:
+
+- A round lasts 45 seconds. Buildings have floor count plus one health, giving 3–6 health.
+- A claw hit deals 1 damage, with a 0.42-second attack interval.
+- A stomp deals 3 damage to each building in range and has a 7-second cooldown.
+- A thrown car deals 4 damage to buildings in its impact area and awards 75 base points for the throw impact.
+- A building hit awards 20 times the current multiplier. A demolition adds round(180 + building height × 50) times the multiplier after incrementing the demolition combo.
+- Demolishing again within 3.5 seconds continues the combo. Ordinary hits do not extend this window. The multiplier is min(5, 1 + floor(combo / 2)).
+- Clearing all 16 buildings ends the round and awards ceil(seconds remaining) × 100. Otherwise, end when time reaches zero and prevent further scoring.
+
+There are no enemies, boss fights, player health, or death penalties. The challenge is choosing routes, using cars and stomps efficiently, and maintaining a demolition combo. Show the remaining time, score, buildings destroyed, multiplier, and stomp cooldown. Make unavailable actions understandable without blocking movement. Distinguish an empty swing from a successful hit through sound and visual feedback.
+
+Resolve movement and rotation against each character's sampled animated footprint, including arms and tail. Check against full building bounds with a small clearance. The monster must be able to attack from a legal standing position. Allow movement through a plot after its building is demolished. Avoid trapping the player at corners or letting a turn sweep the tail through an intact building.
+
+Pause the timer and input on Escape, the pause button, window blur, and hidden tabs. Provide Resume, Retry, and Home flows. End with the score, demolition count, best combo, a playful title, and a same-map challenge link. Provide a downloadable 1080-by-1350 scorecard and, where MediaRecorder is supported, a recording of the round in a supported MP4 or WebM format. Use native sharing when available and a clipboard fallback for challenge links. Never present a browser-computed score as a secure competitive leaderboard.
+
+## 6. Technical implementation
+
+Use Three.js, TypeScript, and Vite with a static dist build. Keep world generation, rules, collision, characters, rendering, audio, recording, analytics, and UI in separate modules. Bundle fonts and required decoder assets locally. Use instancing for repeated windows and road markings and reuse materials and geometry. Cap render pixel ratio at 1.65. Bound temporary effects and dispose of their resources on completion or reset.
+
+Use GLTFLoader, skeletal animation mixers, and the supplied GLB clips. Normalize each model around a centered ground pivot. The reference exports face +X; rotate the visual pivot by -90 degrees around Y to align with the game's +Z forward direction. Evaluate idle before displaying the loaded model and keep animated feet near the ground. Use a visible procedural fallback if loading fails; expose the failure honestly. Guard asynchronous character selection so an older load cannot replace the latest selection.
+
+Keep character collision data independent from render meshes and rebake sampled footprints when changing the character or animations. Test both translation and rotation near walls. Preserve stable keyboard/touch input, responsive dialogs, localized copy, focus behavior, muted audio controls, reduced motion, and WebGL recovery behavior.
+
+Link Tripo creation actions to https://www.tripo3d.ai/ with utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game, and a placement-specific utm_content: header_logo, hero_create, pause_create, result_create, or footer_logo. Open these actions in a separate tab and pause active play first. Explain that Tripo creates 3D assets; do not promise automatic import into this game.
+
+Preserve the existing Pageview and PostHog event integration when supported by the hosting policy. Use only public browser ingestion configuration in the static build. Keep generation, CMS, deployment, and personal analytics credentials outside source and build artifacts. Record page entry, character selection, play, first actions, round results, retry, sharing/export, and outbound Tripo clicks without treating clicks as verified signups or payments.
+
+## 7. Done criteria
+
+Deliver runnable source, local assets, a production static build, and clear install/start/build instructions. Verify all three character selections, a full timed round, building destruction, grabbing and throwing, stomp cooldown, combo expiry, pause/resume, retry, and end-of-round scoring. Verify the original dinosaur remains selectable and that all three characters can move and turn near buildings without visible penetration or getting stuck.
+
+Check English and Chinese layouts at desktop and narrow mobile widths, including readable help copy, touch controls, pause actions, and result sharing. Verify Tripo CTA destinations and UTM placement values, scorecard export, and recording fallback behavior. Test the deployed page and its actual CMS iframe environment for model loading, input, external links, and downloads. Report browser or device limitations instead of claiming universal support or a measured stable frame rate without evidence.
+
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/monster-block) · [Original post](https://x.com/abc30037274/status/2100636075039629796) · [Live demo](https://monster-block.tripo.page/) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100956517633761447"></a>
+
+### Interactive IWC Schaffhausen Watch Model
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100956517633761447"><img src="assets/previews/a426633024453e686b5eecffb2a0acdbc37cd9b2069a53128441eeff3e7fa22f.webp" width="840" loading="lazy" alt="Interactive IWC Schaffhausen Watch Model"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100956517633761447) · [Original post](https://x.com/YouWareAI/status/2100958838350643553) · [Back to examples](#latest)
+
+---
+
+<a id="odd-arms"></a>
+
+### ODD ARMS — Weird Weapons Survival Game
+
+[Deniffer](https://x.com/lumina__team) · 2026-09-18 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/odd-arms"><img src="assets/previews/48f26395f6cf5e8bccb59f37d79965f9da76605aa246ecdb1baa041bfc742b28.webp" width="840" loading="lazy" alt="ODD ARMS — Weird Weapons Survival Game"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+# ODD ARMS — Your idea. Your hero.
+
+## 1. Goal
+Keep all game UI in English (add Japanese as an optional language switch).
+Build a complete three-minute browser survival game in the "auto-attack horde" genre: the player picks a toy-sized hero and two wonderfully weird weapons, then survives 180 seconds of monster swarms on a craftsman's workbench. Weapons attack automatically; the player only moves, dashes, collects crystals, picks upgrades and fires a charged nova. The hook is personal: players can create their own hero or weapon in Tripo, download the GLB and drop it into the game. Use https://odd-arms.tripo.page/ and the supplied references for the finished result. Credit Deniffer at https://x.com/lumina__team.
+
+## 2. Visual direction
+Frame the game as a miniature toy diorama seen from a fixed three-quarter top-down camera that follows the hero. The playfield is a deep navy cutting mat with a faint grid and printed "ODD ARMS" corner marks, laid on a warm wooden desk. The desk rim is crowded with oversized craft props (thread spools, ornate brass-rosette boxes, a leather tool roll, a brass desk lamp, a wooden toy train, toy parts) so the arena reads as a real tabletop. Use warm key light from the lamp side, soft ambient fill, contact shadows and gentle bloom; characters are glossy, chunky, collectible-figure style with saturated colours.
+
+UI: cream-white rounded cards with navy text and a coral-orange accent, a heavy condensed display font for headlines ("LET'S MAKE SOME TROUBLE.") and a clean condensed sans for body. In battle: health card top-left, streak counter under it, "SURVIVE THE WEIRD" countdown top-centre, wave label + sound + settings + Pause top-right, defeated count right, level/XP pill bottom-centre, three weapon chips (orbit / returning / shooter with levels) bottom-left, controls + dash cooldown bottom-right, "Q NOVA READY!" pill above it. Juice: damage numbers, crits, squash-and-stretch enemies, knockback, pop particles, light camera shake (disable shake when prefers-reduced-motion is set).
+
+## 3. World
+One square arena, clamp the hero to ±23 units on both axes. The cutting mat fills the play area; the desk and props sit outside the clamp as scenery only (no collision). The arena starts empty and fills from the edges: enemies spawn on a ring 12–16 units from the hero (8–11 in the first second) and walk straight at the hero. Every 22 seconds a surge spawns a full circle of enemies at radius 13. Red warning circles appear under the hero's current position (first at 28 s, then every max(4.4, 9 − t/50) s) and explode after 2 s.
+
+## 4. Asset inventory
+Prepare stable model slots; every slot must load a single GLB, be centred, auto-scaled to a target height, and fall back to a simple placeholder if loading fails.
+
+Heroes (10, `hero:<id>`), each a chunky toy figure with a distinct silhouette:
+- `cat` Astro Cat — orange tabby in a white space suit and glass helmet. HP 100, speed 6.8, magnet ×1.35, dash cooldown 2.4 s.
+- `frog` Frog Fighter — green frog in red boxing gloves. HP 130, speed 6.8, dash damage 135.
+- `shroom` Mushroom Hero — red-cap mushroom with a small cape. HP 90, speed 7.6, dash 1.8 s.
+- `capybara` Chill Capybara — relaxed hot-spring capybara. HP 160, speed 5.8, magnet ×1.15, dash 3 s, dash damage 110.
+- `ramen` Ramen Ronin — samurai carrying a steaming ramen bowl. HP 105, speed 7.2, dash 2.2 s, dash damage 120.
+- `penguin` Office Penguin — penguin in a shirt and tie. HP 80, speed 7.1, dash 1.5 s, dash damage 75.
+- `axolotl` Axolotl — pink axolotl explorer. HP 85, speed 7.3, magnet ×1.6, dash damage 75.
+- `avocado` Avo Boxer — avocado boxer with a seed core. HP 120, speed 6.4, dash 2.1 s, dash damage 130.
+- `robot` Clockwork Bot — wind-up tin robot with a key. HP 115, speed 6.2, dash 2.8 s, dash damage 165.
+- `snail` Snail Knight — knightly snail carrying its house-sized shell. HP 190, speed 5.2, magnet ×1.2, dash 3.2 s, dash damage 120.
+Default dash damage is 90 when not listed.
+
+Weapons (12, `weapon:<id>`), grouped by attack slot:
+- Orbit: `sardine` Sardine Chainsaw (3 fish, radius 2.9, dmg 1, speed 1.2); `cactus` Cactus Club (2 clubs, radius 3.3, dmg 1.65, speed 0.78, hit radius 1.25, knockback 1.5); `plunger` Plunger Patrol (4 plungers, radius 2.25, dmg 0.85, speed 1.5).
+- Returning: `banana` Banana Blades (2, dmg 1, speed 1.25); `pizza` Pizza Cutter (1 large disc, dmg 1.5, speed 0.82, hit radius 1.65); `croissant` Croissant Blades (3, dmg 0.75, speed 1.45); `boomerang` Boomerang (1, dmg 1.15, speed 1.6); `donut-disc` Donut Disc (1, dmg 1.5, speed 0.9, hit radius 1.3).
+- Shooter: `duck` Duck Rocket (homing, splash 2, interval 0.42 s); `toaster` Angry Toaster (3-shot piercing fan, dmg 0.7); `teapot` Raging Teapot (2 slow shots, splash 2.8, interval 0.8 s); `bubble-gun` Bubble Gun (2 piercing bubbles, dmg 0.45, interval 0.3 s).
+Default loadout: Astro Cat, Banana Blades, Angry Toaster; orbit weapon is unlocked at the first upgrade.
+
+Enemies (3, `enemy:<id>`), wind-up toy monsters: `red-chomper` (red round biting toy, basic, 30 HP base, speed 2.35), `spring-rabbit` (yellow spring-legged rabbit, fast, 23 HP base, speed 3.5), `crown-bear` (large patchwork bear with a crown, tank, 130 HP base, speed 1.7, appears after 60 s at 17%, drops 3 XP).
+
+Scene props (`prop:<id>`): workbench desk, cutting mat frame and corner plates, desk lamp, toy train, thread spools, ornate rosette boxes, tool roll, toy parts tray. Keep the mat, grid, crystals, projectiles, warning circles, particles, lights and UI procedural.
+
+## 5. Gameplay and feedback
+Flow: Character → Loadout (one returning + one shooter) → Ready (3D turntable preview of hero with chosen weapons, drag to rotate) → "Let's play". Each onboarding step shows only that category with description, playstyle and weakness text. Remember the last loadout.
+
+Controls: WASD/arrows to move; Space dashes in the move direction (speed ×3.7, brief invulnerability, damages enemies within 2 units once per dash); Q fires a nova when energy is 100 (radius 11, 200 damage, strong knockback, pulls in crystals); 1/2/3 or click to choose upgrades; Esc to pause; auto-pause on window blur. Mobile: left virtual joystick (analog), right Dash and Nova buttons with cooldown/charge rings, multi-touch so the joystick and buttons work together; upgrades sit above the joystick in portrait and between thumbs in landscape.
+
+Rules: enemy HP = base × (1 + t/260) × 1.3. Spawn interval max(0.18, 0.52 − 0.0016·t) s, cap 180 enemies. Contact damage 9 (18 from the bear) with 0.85 s invulnerability after a hit. Every kill adds 2 energy and drops a crystal; every 9th hit per weapon crits ×1.7. 25-kill streak triggers a 5 s frenzy (attack speed ×1.65, 13 s cooldown); taking damage resets the streak. XP to level: 20, then round(need × 1.4 + 10). Level-ups never pause the game: they queue as non-blocking choice cards. The first upgrade offers the three orbit weapons; afterwards offer three of: Orbit overload (+1 orbiter up to 7, +22% damage), Another round (faster, longer, stronger returns), Full blast (faster fire, +20% damage, more projectiles), Live a little (+10% speed, +30 HP). Every choice heals 8 HP.
+
+End: survive 180 s → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Both show enemies defeated, best streak and time survived, with Run it back / Change loadout and the create-your-own prompt.
+
+Make it yours: from the loadout, pause and result screens, "Create my hero / weapon in Tripo" opens https://studio.tripo3d.ai/ in a new tab; "Import GLB" loads a local .glb (≤15 MB, embedded textures only, parsed in-browser, never uploaded), centres and scales it, and swaps only the look of the selected hero or weapon while keeping its stats. Show clear errors for invalid files and keep the original model.
+
+Compare models: a header toggle "Tripo3D ⇄ Simple3D (Blender)" swaps every hero, weapon, enemy and prop to a matching simple-primitive set without resetting the run. Load the whole alternate set before swapping; if any file fails, keep the current set.
+
+## 6. Technical implementation
+Vite + vanilla JavaScript + Three.js with GLTFLoader, RoomEnvironment lighting and ACES tone mapping. Keep the simulation in a pure, fixed-timestep module with an injectable random source so full runs can be simulated in tests; the renderer only reads state. Cache each GLB once and clone for instances; use instancing or LODs for repeated ornaments. Cap pixel ratio (1.5 on mobile, drop to 1 during dense waves), refresh shadows at most 30 times per second and update HUD text only when values change. Separate collision (simple circles) from visual meshes. Bundle fonts, models and textures same-origin so the build is a static folder. Target desktop and phone browsers, 320 px wide and up, including landscape phones and safe areas. Model complexity should follow on-screen size; no hard polygon limit.
+
+## 7. Done when
+- The full flow works: onboarding, battle to win and to loss, pause/resume, restart with the same loadout, change loadout.
+- All 10 heroes and 12 weapons load and behave per the numbers above; a 180 s run with any loadout finishes without errors.
+- Keyboard and touch controls both work, including joystick plus Dash at the same time.
+- GLB import replaces the chosen hero or weapon look and rejects bad files gracefully.
+- Tripo3D / Simple3D toggle swaps all models mid-run.
+- Opening, mid-battle and result screens match the references; provide runnable source, the start command and a static production build.
+
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/odd-arms) · [Original post](https://odd-arms.tripo.page/) · [Live demo](https://odd-arms.tripo.page/) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100844566718926949"></a>
+
+### Build a photorealistic 3D world
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100844566718926949"><img src="assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Build a photorealistic 3D world"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Build a photorealistic 3D world. Surprise me.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100844566718926949) · [Original post](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100838090210431302"></a>
+
+### 3D aerial tram game between floating islands
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100838090210431302"><img src="assets/previews/e2d1851a486e080772aa36d6e517463595d8981ac121dde5a72f8d572e9c96fd.webp" width="840" loading="lazy" alt="3D aerial tram game between floating islands"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.     
+【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100838090210431302) · [Original post](https://x.com/YouWareAI/status/2100838828433179037) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100751369619820923"></a>
+
+### Train a Pen-Spinning Policy with the Sharpa Dexterous Hand
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100751369619820923"><img src="assets/previews/ca147480aaf4e9faab8d21e1675a0977a1953d45a78809c76f60ef9258df645f.webp" width="840" loading="lazy" alt="Train a Pen-Spinning Policy with the Sharpa Dexterous Hand"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Have the dexterous hand perform pen spinning. Use Isaac Lab for reinforcement learning with the Sharpa hand, and create the pen’s 3D mesh from scratch. Deliver the trained policy and a visualization video. You may freely search online and download papers and other required resources.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100751369619820923) · [Original post](https://x.com/FinanceYF5/status/2100751369619820923) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100614534423540102"></a>
+
+### CAD itself a body
+
+[vitalduval](https://x.com/vitalduval) · 2026-09-17 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100614534423540102"><img src="assets/previews/138579840f9de4ce31b0d5320ac7fd1f9772a567ef4c00743d5ac10716256006.webp" width="840" loading="lazy" alt="CAD itself a body"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+I told Astra to CAD itself a body.
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100614534423540102) · [Original post](https://x.com/vitalduval/status/2100343136077877251) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100595652703199281"></a>
+
+### Browser 3D Escape Game: Escape from a Sealed Research Facility
+
+[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100595652703199281"><img src="assets/previews/72f6d766a135c0c5dbb4c1ace35342212b0a05ecdb6fd494c550d3be50af7141.webp" width="840" loading="lazy" alt="Browser 3D Escape Game: Escape from a Sealed Research Facility"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 3D escape game that can be played in a browser. The objective is to escape from a sealed research facility, and the game should take about 5–10 minutes to play. Include mechanisms such as keys and switches, make the controls and objectives easy to understand, and ensure the game can be completed from start to finish. Package everything in a single HTML file so it can be played simply by opening it in a browser.
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+ブラウザーで遊べる3D脱出ゲームを作ってください。閉鎖された研究施設から脱出する内容で、5～10分程度で遊べるものにしてください。鍵やスイッチなどの仕掛けを入れ、遊び方がわかり、最後までクリアできる状態にしてください。HTMLファイル1つにまとめ、ブラウザーで開くだけで遊べるようにしてください。
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100595652703199281) · [Original post](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100526922770026874"></a>
+
+### Create a 3D Racing Game
+
+[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100526922770026874"><img src="assets/previews/72ac86b5949942e8a18e7adedd1ceae4b3290c76145424d2362cca0a3c353f73.webp" width="840" loading="lazy" alt="Create a 3D Racing Game"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a racing game
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+レーシングゲーム作って
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100526922770026874) · [Original post](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Back to examples](#latest)
+
+---
+
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Add a Maintenance Chain to a Handrail
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100519026720231698"><img src="assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Add a Maintenance Chain to a Handrail"></a>
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Add a maintenance chain to the handrail!
+```
+
+</details>
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2100519026720231698) · [Original post](https://x.com/ujiden_type0/status/2100519026720231698) · [Back to examples](#latest)
+
+---
+
+
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 417 examples and live previews →</a></strong></p>
 
 ## Give your world its own characters and props
 

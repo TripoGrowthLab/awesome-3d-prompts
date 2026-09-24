@@ -28,6 +28,18 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [Mini Militia 스타일 브라우저 게임](#mini-militia-style-browser-game-2094900523900219725)
+- [비 내리는 1인칭 바다 샌드박스](#rainy-first-person-ocean-sandbox-2094900247000654222)
+- [하늘에 떠 있는 복셀 섬](#floating-voxel-island-2094899802588713418)
+- [사람들이 살아가는 복셀 중세 왕국](#living-voxel-medieval-kingdom-2094899477626720403)
+- [텍스처가 있는 3D 에셋 제작 과정](#textured-3d-asset-production-workflow-2094896750234378508)
+- [세 가지 작은 물리 게임 아이디어](#three-compact-physics-game-concepts-2094895071304839400)
+- [Three.js로 만드는 AAA급 카트 레이싱](#aaa-kart-racing-game-in-three-js-2094894312370692443)
+- [한 번에 만드는 Three.js 공항 시뮬레이션](#one-shot-three-js-airport-simulation-2094893572617044439)
+- [탑을 중심으로 떠 있는 일본풍 도시](#floating-japanese-pagoda-city-2094886088963690607)
+- [Three.js로 만드는 Airbus H145](#airbus-h145-in-three-js-2094882571083735351)
+- [제1차 세계대전 복셀 시뮬레이터](#world-war-i-voxel-simulator-2094881469155914170)
+- [개인 섬에 세운 미래형 저택](#futuristic-private-island-mansion-2094879208304685524)
 - [절차적으로 생성한 Three.js 세계](#procedurally-generated-three-js-world-2094873862315843910)
 - [인터랙티브 3D 뇌 신호 시각화](#interactive-3d-human-brain-signals-2094873080590225728)
 - [사실적인 Three.js 풍경](#photorealistic-three-js-landscape-2094871858206191667)
@@ -66,20 +78,250 @@
 - [젤리 정글: 3D 플랫폼 게임](#jelly-jungle-3d-browser-game-2081024333120733188)
 - [손그림 애니메이션풍 일본 주택가를 탐험하는 Three.js 프롬프트](#explorable-anime-style-japanese-street-2080834581247435102)
 - [Kimi K3로 만든 Counter-Strike 스타일 브라우저 게임](#counter-strike-inspired-browser-game-2080821527365218759)
-- [Kimi K3로 한 번에 만드는 숨바꼭질 게임 프롬프트](#one-shot-hide-and-seek-game-2080806989169307780)
-- [Claude Fable 5의 절차적 Three.js 무기 모델링 과제](#procedural-three-js-weapon-modeling-task-2080759312008503365)
-- [단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트](#procedural-guns-in-single-file-three-js-2080757148078768504)
-- [도시 블록이 변화하는 Kimi K3 Three.js 프롬프트](#transforming-three-js-city-block-scene-2080724552422924382)
-- [다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
-- [개성 있는 새와 여러 레벨이 있는 Angry Birds 스타일 클론](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
-- [Claude Fable 5와 Kimi K3 비교에 쓰인 3D 축구장 제작 과제](#3d-soccer-stadium-2080473039834333229)
-- [미래형 자기부상 열차 장면의 Three.js 프롬프트](#futuristic-maglev-train-in-three-js-2080454415400493332)
-- [카멜레온과 로봇의 3D 숨바꼭질 프롬프트](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
-- [Claude Fable 5용 3D 벚나무 프롬프트](#3d-cherry-blossom-tree-2080178541979664741)
-- [쇼핑몰·인터랙티브 3D 박물관·RTS를 아우르는 제작 프롬프트](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
-- [Hole.io 스타일 Three.js 게임 프롬프트](#hole-io-style-three-js-game-2079898758427324573)
 
 </details>
+<a id="mini-militia-style-browser-game-2094900523900219725"></a>
+
+### Mini Militia 스타일 브라우저 게임
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01 · Claude Fable 5.1 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/mini-militia-style-browser-game-2094900523900219725"><img src="../assets/previews/a72fb4b678a92d881096fcc6a02adc888425ee7da10d568b65ef164adc8b70c3.webp" width="840" loading="lazy" alt="Mini Militia 스타일 브라우저 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+반응이 빠른 이동, 조준, 무기, 작은 아레나, 봇, 즉각적인 명중·피해 피드백을 갖춘 Mini Militia 스타일 액션 게임을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [원본 게시물](https://x.com/0x0SojalSec/status/2094900523900219725) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
+
+### 비 내리는 1인칭 바다 샌드박스
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="비 내리는 1인칭 바다 샌드박스"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+파도, 빗방울, 분위기 있는 조명이 있는 1인칭 3D 바다 샌드박스를 만드세요. 몰입감 있는 카메라로 물 위를 탐험할 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [원본 게시물](https://x.com/TimJayas/status/2094900247000654222) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="floating-voxel-island-2094899802588713418"></a>
+
+### 하늘에 떠 있는 복셀 섬
+
+[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="하늘에 떠 있는 복셀 섬"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+지형의 층이 잘 보이는 공중 복셀 섬을 만드세요. 식생, 물, 구조물, 환경 움직임, 장면 전체를 회전하며 살펴볼 수 있는 카메라를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/floating-voxel-island-2094899802588713418) · [원본 게시물](https://x.com/loktar00/status/2094899802588713418) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
+
+### 사람들이 살아가는 복셀 중세 왕국
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="사람들이 살아가는 복셀 중세 왕국"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+수천 명의 병사, 일하는 주민, 공성 시스템, 파괴 가능한 구조물, 전황을 바꿀 수 있는 드래곤이 있는 거대한 복셀 중세 왕국을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [원본 게시물](https://x.com/knowixbuilds/status/2094899477626720403) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
+
+### 텍스처가 있는 3D 에셋 제작 과정
+
+[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="텍스처가 있는 3D 에셋 제작 과정"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+참고 이미지로 깔끔한 3D 에셋을 만든 뒤 Blender에서 노멀과 재질을 수정하고, Substance Painter에서 실제 제작에 사용할 수 있는 텍스처를 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [원본 게시물](https://x.com/MrCollison/status/2094896750234378508) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
+
+### 세 가지 작은 물리 게임 아이디어
+
+[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="세 가지 작은 물리 게임 아이디어"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+끈끈이 공 장애물 도전, 카피바라 강 서핑, 만두 컨베이어 피하기라는 세 가지 미니게임을 완성도 있게 만드세요. 각각 명확한 입력 방식, 점수, 실패 상태를 마련하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [원본 게시물](https://x.com/atomicagent_io/status/2094895071304839400) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
+
+### Three.js로 만드는 AAA급 카트 레이싱
+
+[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · 게임
+
+리믹스 원작: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Three.js로 만드는 AAA급 카트 레이싱"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+매끄러운 주행, 개성 있는 트랙, 상대 선수, 아이템, UI, 소리, 처음부터 끝까지 플레이 가능한 경기 흐름을 갖춘 AAA급 Three.js 카트 레이싱 게임을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [원본 게시물](https://x.com/bridgemindai/status/2094894312370692443) · [소스 코드](https://github.com/bridge-mind/turbo-kart-rush) · [데모](https://bridge-mind.github.io/turbo-kart-rush/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
+
+### 한 번에 만드는 Three.js 공항 시뮬레이션
+
+[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="한 번에 만드는 Three.js 공항 시뮬레이션"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+활주로, 터미널, 항공기의 지상 이동과 이륙, 지상 차량, 시간대별 조명, 전체를 보는 카메라를 갖춘 Three.js 공항 시뮬레이션을 한 번에 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [원본 게시물](https://x.com/AlexYTScaling/status/2094893572617044439) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
+
+### 탑을 중심으로 떠 있는 일본풍 도시
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="탑을 중심으로 떠 있는 일본풍 도시"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+정교한 불탑을 중심으로 한 인터랙티브 일본풍 공중 도시를 만드세요. 층층의 섬, 다리, 안개, 등불, 영화적인 비행 조작을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [원본 게시물](https://x.com/vib3coded/status/2094886088963690607) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="airbus-h145-in-three-js-2094882571083735351"></a>
+
+### Three.js로 만드는 Airbus H145
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Three.js로 만드는 Airbus H145"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Three.js로 Airbus H145 헬리콥터 3D 모델을 만드세요. 객실, 스키드 착륙장치, 로터 조립체를 알아보고 살펴볼 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [원본 게시물](https://x.com/HarshithLucky3/status/2094882571083735351) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
+
+### 제1차 세계대전 복셀 시뮬레이터
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="제1차 세계대전 복셀 시뮬레이터"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+참호, 병사, 차량, 포병, 파괴 표현, 상황을 쉽게 읽을 수 있는 전술 카메라가 있는 제1차 세계대전 복셀 전장 시뮬레이터를 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [원본 게시물](https://x.com/Tech2Wild/status/2094881469155914170) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="futuristic-private-island-mansion-2094879208304685524"></a>
+
+### 개인 섬에 세운 미래형 저택
+
+[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="개인 섬에 세운 미래형 저택"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+개인 섬에 있는 미래형 저택을 탐험 가능한 공간으로 설계하세요. 연결된 Three.js 장면 5개, 영화적인 카메라 이동, 고급 재질, 환경으로 전하는 이야기를 통해 보여주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [원본 게시물](https://x.com/aimlapi/status/2094879208304685524) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="procedurally-generated-three-js-world-2094873862315843910"></a>
 
 ### 절차적으로 생성한 Three.js 세계
@@ -983,235 +1225,6 @@ HTML 파일 하나. 코드 3,700줄 이상. 빌드 단계 없음.
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
-
-### Kimi K3로 한 번에 만드는 숨바꼭질 게임 프롬프트
-
-[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="Kimi K3로 한 번에 만드는 숨바꼭질 게임 프롬프트"></a>
-
-**프롬프트**
-
-```text
-한 번의 요청으로 만드는 숨바꼭질 게임: 손그림 방에 숨은 흰 카멜레온이 벽과 같게 몸을 칠하고 로봇 탐색자의 세 차례 수색을 견딥니다. 실시간 픽셀 차이 기반 일치율, 절차적 구역 5개, 합성음, 점수 있는 3라운드. HTML 파일 하나, 라이브러리 없음.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [원본 게시물](https://x.com/0x_scalp/status/2080806989169307780) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
-
-### Claude Fable 5의 절차적 Three.js 무기 모델링 과제
-
-[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5의 절차적 Three.js 무기 모델링 과제"></a>
-
-**프롬프트**
-
-```text
-The Hype는 Claude Opus 5, Fable 5, GPT-5.6 Sol, Kimi K3에 완전히 동일한 Three.js 절차적 제작 과제를 주어 비교했습니다.
-
-각 모델이 만들어야 할 것:
-• M4 Carbine
-• Glock 18C
-• Steyr TMP
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [원본 게시물](https://x.com/adxtyahq/status/2080759312008503365) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
-
-### 단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트"></a>
-
-**프롬프트**
-
-```text
-이번 테스트: 프롬프트 3개, 단일 HTML, @threejs, 완전한 절차적 생성, 외부 에셋 없음. 각각 작은 발사 버튼(Web Audio 총성, 총구 섬광, 반동, 탄피 배출)과 분해 전환 기능을 넣어 라벨이 있는 부품으로 펼쳤다가 다시 조립한다.
-
-1. 5.56 M4 카빈: 길이 조절 개머리판, safe·semi·burst 표시 하부, r14–r28 패널 번호가 있는 쿼드레일, Aimpoint 레드닷, 수직 손잡이, 접이식 양각대, A2 소염기. 10개 부품으로 분해.
-
-2. Glock 18C: 발사 모드 선택형 기관권총, 18C의 포트형 보정기 슬롯, ‘glock 18c / austria 9x19’ 각인, 33발 연장 탄창. 슬라이드, 포트형 총열, 복좌 용수철, 프레임, 탄창으로 분해.
-
-3. Steyr TMP: 리브가 있는 폴리머 외장, 나사산 총열, 일체형 전방 수직 손잡이, 기울어진 반투명 30발 탄창.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [원본 게시물](https://x.com/thehypedotnews/status/2080757148078768504) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
-
-### 도시 블록이 변화하는 Kimi K3 Three.js 프롬프트
-
-[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="도시 블록이 변화하는 Kimi K3 Three.js 프롬프트"></a>
-
-**프롬프트**
-
-```text
-아주 까다로운 Three.js 프롬프트를 줬습니다. HTML 파일 하나에서 건물, 자동차, 가게, 군중, 조명, 효과음이 변하며 1945년부터 2055년까지 바뀌는 도시 블록을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [원본 게시물](https://x.com/ggg78g89/status/2080724552422924382) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
-
-### 다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트"></a>
-
-**프롬프트**
-
-```text
-Three.js로 레오나르도 다빈치의 날갯짓 비행기.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [원본 게시물](https://x.com/HarshithLucky3/status/2080720533277319587) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
-
-### 개성 있는 새와 여러 레벨이 있는 Angry Birds 스타일 클론
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="개성 있는 새와 여러 레벨이 있는 Angry Birds 스타일 클론"></a>
-
-**프롬프트**
-
-```text
-독특한 새, 여러 레벨과 게임 규칙이 있는 Angry Birds 클론을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [원본 게시물](https://x.com/BuildFastWithAI/status/2080624574883123541) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="3d-soccer-stadium-2080473039834333229"></a>
-
-### Claude Fable 5와 Kimi K3 비교에 쓰인 3D 축구장 제작 과제
-
-[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Claude Fable 5와 Kimi K3 비교에 쓰인 3D 축구장 제작 과제"></a>
-
-**프롬프트**
-
-```text
-개발자가 ‘3D 축구장을 만들어주세요’라는 동일한 과제로 모델을 비교했습니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-soccer-stadium-2080473039834333229) · [원본 게시물](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
-
-### 미래형 자기부상 열차 장면의 Three.js 프롬프트
-
-[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="미래형 자기부상 열차 장면의 Three.js 프롬프트"></a>
-
-**프롬프트**
-
-```text
-투명한 유리 진공 튜브를 고속으로 달리는 미래형 자기부상 고속열차.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [원본 게시물](https://x.com/Pixel_Neuron/status/2080454415400493332) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
-
-### 카멜레온과 로봇의 3D 숨바꼭질 프롬프트
-
-[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="카멜레온과 로봇의 3D 숨바꼭질 프롬프트"></a>
-
-**프롬프트**
-
-```text
-둘 모두에게 보낸 프롬프트 하나: 숨바꼭질 게임. 카멜레온은 벽과 같아지도록 몸을 칠하고 로봇이 쫓습니다. 파일 하나, 실제 플레이 가능, 라운드, 점수, 일치율. 데모가 아니라 완성된 게임이어야 합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [원본 게시물](https://x.com/sonicsmarta/status/2080392777515311115) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
-
-### Claude Fable 5용 3D 벚나무 프롬프트
-
-[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="Claude Fable 5용 3D 벚나무 프롬프트"></a>
-
-**프롬프트**
-
-```text
-3D 벚나무를 만드세요. 기성 나무 라이브러리는 주지 말고, 모델이 구조를 직접 생성하게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [원본 게시물](https://x.com/zhodonx/status/2080178541979664741) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
-
-### 쇼핑몰·인터랙티브 3D 박물관·RTS를 아우르는 제작 프롬프트
-
-[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · 기타
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="쇼핑몰·인터랙티브 3D 박물관·RTS를 아우르는 제작 프롬프트"></a>
-
-**프롬프트**
-
-```text
-제작 1: 상품 30개와 생성 이미지 30개가 있는 쇼핑몰.
-제작 2: Wikipedia에서 실제 그림 약 1,000점을 데이터베이스로 가져오는 인터랙티브 3D 박물관.
-제작 3: Age of Empires 클론.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [원본 게시물](https://x.com/crptAtlas/status/2080050176132300960) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="hole-io-style-three-js-game-2079898758427324573"></a>
-
-### Hole.io 스타일 Three.js 게임 프롬프트
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Hole.io 스타일 Three.js 게임 프롬프트"></a>
-
-**프롬프트**
-
-```text
-HTML과 Three.js로 완전한 Hole.io 스타일 게임을 한 번에 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [사례 목록으로](#all-prompts)
 
 ---
 

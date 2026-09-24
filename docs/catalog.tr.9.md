@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (5)</summary>
+<summary>Örnekleri keşfet (17)</summary>
 
+- [Kimi K3 için tek istemle saklambaç oyunu](#one-shot-hide-and-seek-game-2080806989169307780)
+- [Claude Fable 5 için prosedürel Three.js silah modelleme görevi](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [Tek HTML dosyasında Three.js prosedürel silahlar için üç istem](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [Dönüşen Three.js şehir adası için Kimi K3 istemi](#transforming-three-js-city-block-scene-2080724552422924382)
+- [Claude Opus 5'te Three.js Leonardo da Vinci ornitopter istemi](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [Özgün kuşlar ve çoklu bölümlerle Angry Birds tarzı klon](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [Claude Fable 5 ve Kimi K3 karşılaştırmasında kullanılan 3B futbol stadyumu görevi](#3d-soccer-stadium-2080473039834333229)
+- [Fütüristik maglev tren sahnesi için Three.js istemi](#futuristic-maglev-train-in-three-js-2080454415400493332)
+- [Bukalemun ve robotlu 3B saklambaç istemi](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
+- [Claude Fable 5 için 3B çiçekli kiraz ağacı istemi](#3d-cherry-blossom-tree-2080178541979664741)
+- [E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
+- [Hole.io tarzı Three.js oyun istemi](#hole-io-style-three-js-game-2079898758427324573)
 - [Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [Tek HTML dosyasında Three.js voksel futbol animasyonu istemi](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Fable 5 ile New York kurmak için Blender şehir modelleme istemi](#modeling-new-york-city-in-blender-2079387760478073087)
@@ -35,6 +47,235 @@
 - [Three.js uçak içi gezinti deneyimi istemi](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
+
+### Kimi K3 için tek istemle saklambaç oyunu
+
+[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="Kimi K3 için tek istemle saklambaç oyunu"></a>
+
+**İstem**
+
+```text
+Tek istemle bir saklambaç oyunu: elle çizilmiş bir odada saklanan beyaz bukalemun, duvarla aynı renge boyanarak robot ebenin üç taramasından sağ çıkıyor. Canlı piksel farkına dayalı eşleşme yüzdesi, beş prosedürel bölge, sentezlenmiş ses, puanlanan üç tur — tek HTML dosyası, kütüphane yok.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Orijinal gönderi](https://x.com/0x_scalp/status/2080806989169307780) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Claude Fable 5 için prosedürel Three.js silah modelleme görevi
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5 için prosedürel Three.js silah modelleme görevi"></a>
+
+**İstem**
+
+```text
+The Hype; Claude Opus 5, Fable 5, GPT-5.6 Sol ve Kimi K3'ü aynı prosedürel Three.js mühendislik görevlerinde karşılaştırdı.
+
+Her model şunları yapmalıydı:
+• M4 Karabina
+• Glock 18C
+• Steyr TMP
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Orijinal gönderi](https://x.com/adxtyahq/status/2080759312008503365) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### Tek HTML dosyasında Three.js prosedürel silahlar için üç istem
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Tek HTML dosyasında Three.js prosedürel silahlar için üç istem"></a>
+
+**İstem**
+
+```text
+testimiz — 3 istem, tek dosyalık html, @threejs, tamamen prosedürel, dış varlık yok. her silahta küçük ateş düğmesi (web audio silah sesi + namlu alevi + geri tepme + kovan atımı) ve silahı etiketli parçalara ayırıp yeniden birleştiren sökme anahtarı var:
+
+1. 5,56 m4 karabina — teleskopik dipçik, emniyet·yarı otomatik·seri atış seçici, r14–r28 panel numaralı dört ray, aimpoint kırmızı nokta nişangâh, dikey tutacak, katlanır bipod, a2 alev gizleyici, 10 parçaya ayrılma
+
+2. glock 18c — seçilebilir atışlı otomatik tabanca, delikli 18c kompansatör yuvaları, “glock 18c / austria 9x19” işaretleri, uzatılmış 33 mermilik şarjör; sürgü, delikli namlu, geri getirme yayı, gövde ve şarjöre ayrılma
+
+3. steyr tmp — nervürlü polimer gövde, dişli namlu, bütünleşik ön dikey tutacak, eğimli yarı saydam 30 mermilik şarjör
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Orijinal gönderi](https://x.com/thehypedotnews/status/2080757148078768504) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### Dönüşen Three.js şehir adası için Kimi K3 istemi
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Dönüşen Three.js şehir adası için Kimi K3 istemi"></a>
+
+**İstem**
+
+```text
+Ona zorlu bir Three.js istemi verdim: tek HTML dosyasında binaları, arabaları, dükkânları, kalabalıkları, ışığı ve sesleri değiştirerek 1945'ten 2055'e dönüşen bir şehir adası yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Orijinal gönderi](https://x.com/ggg78g89/status/2080724552422924382) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### Claude Opus 5'te Three.js Leonardo da Vinci ornitopter istemi
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Claude Opus 5'te Three.js Leonardo da Vinci ornitopter istemi"></a>
+
+**İstem**
+
+```text
+three js'de leonardo da vinci ornitopteri
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Orijinal gönderi](https://x.com/HarshithLucky3/status/2080720533277319587) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### Özgün kuşlar ve çoklu bölümlerle Angry Birds tarzı klon
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Özgün kuşlar ve çoklu bölümlerle Angry Birds tarzı klon"></a>
+
+**İstem**
+
+```text
+Özgün kuşlar, birden fazla bölüm ve mekanikle Angry Birds klonu yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Orijinal gönderi](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### Claude Fable 5 ve Kimi K3 karşılaştırmasında kullanılan 3B futbol stadyumu görevi
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Claude Fable 5 ve Kimi K3 karşılaştırmasında kullanılan 3B futbol stadyumu görevi"></a>
+
+**İstem**
+
+```text
+Bir geliştirici modellere aynı görevi vererek karşılaştırdı: “3B futbol stadyumu oluştur”.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Orijinal gönderi](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
+
+### Fütüristik maglev tren sahnesi için Three.js istemi
+
+[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="Fütüristik maglev tren sahnesi için Three.js istemi"></a>
+
+**İstem**
+
+```text
+Şeffaf cam vakum tüpünde hızla ilerleyen fütüristik maglev hızlı tren.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [Orijinal gönderi](https://x.com/Pixel_Neuron/status/2080454415400493332) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
+
+### Bukalemun ve robotlu 3B saklambaç istemi
+
+[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="Bukalemun ve robotlu 3B saklambaç istemi"></a>
+
+**İstem**
+
+```text
+İkisine de aynı istem: saklambaç oyunu. Robot ararken bukalemun duvara uymak için kendini boyuyor. Tek dosya, oynanabilir, raundlar, puan, eşleşme yüzdesi. Demo değil, bitmiş oyun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Orijinal gönderi](https://x.com/sonicsmarta/status/2080392777515311115) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
+
+### Claude Fable 5 için 3B çiçekli kiraz ağacı istemi
+
+[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="Claude Fable 5 için 3B çiçekli kiraz ağacı istemi"></a>
+
+**İstem**
+
+```text
+3B çiçekli kiraz ağacı oluştur; hazır ağaç kitaplığı verme; model yapıyı kendi üretmeli
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [Orijinal gönderi](https://x.com/zhodonx/status/2080178541979664741) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
+
+### E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi
+
+[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · Diğer
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi"></a>
+
+**İstem**
+
+```text
+Proje 1: 30 ürün ve 30 üretilmiş görselle e-ticaret mağazası
+Proje 2: Wikipedia'dan yaklaşık 1.000 gerçek tabloyu veri tabanına alan etkileşimli 3B müze
+Proje 3: Age of Empires klonu
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Orijinal gönderi](https://x.com/crptAtlas/status/2080050176132300960) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="hole-io-style-three-js-game-2079898758427324573"></a>
+
+### Hole.io tarzı Three.js oyun istemi
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Hole.io tarzı Three.js oyun istemi"></a>
+
+**İstem**
+
+```text
+Tek denemede HTML + Three.js ile eksiksiz Hole.io tarzı oyun oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
 
 ### Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi
