@@ -26,8 +26,22 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (18)</summary>
+<summary>浏览案例 (32)</summary>
 
+- [Claude Opus 5 开发 3D MMO 的工作流程](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [制作一个可玩的 Chrome 恐龙游戏](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [用于逼真直升机射击游戏的 Kimi K3 提示词](#realistic-helicopter-shooter-game-2081791572115435765)
+- [用于 Subway Surfers 风格游戏的 Kimi K3 提示词](#subway-surfers-style-game-2081766198082220514)
+- [用于受 Counter-Strike 启发的 Three.js FPS 的 Claude Opus 5 提示词](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [Claude Fable 5 的无限 Three.js 纸带机提示词](#infinite-three-js-paper-machine-2081533777340506251)
+- [Claude Opus 5 的交互式 3D 机械手模拟提示词](#interactive-3d-robotic-hand-simulation-2081475055536820506)
+- [为 3D 配置器添加 Vespa 125 的提示词](#vespa-125-3d-configurator-2081439705506435440)
+- [超写实 3D 飞行模拟器提示词](#ultra-realistic-3d-flight-simulator-2081403842256605254)
+- [使用 Claude Opus 5 构建 3D Minecraft 克隆的提示词](#build-a-3d-minecraft-clone-2081305039159620085)
+- [3D Flappy Bird 游戏提示词](#3d-flappy-bird-game-2081260140117045275)
+- [越南丛林直升机电影级动画提示词](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
+- [果冻丛林：3D 平台跳跃游戏](#jelly-jungle-3d-browser-game-2081024333120733188)
+- [用于可探索日本郊区街道的 Three.js 提示词，采用手绘动漫风格](#explorable-anime-style-japanese-street-2080834581247435102)
 - [使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏](#counter-strike-inspired-browser-game-2080821527365218759)
 - [用于 Kimi K3 的一次性捉迷藏游戏提示](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5 的程序化 Three.js 武器建模任务](#procedural-three-js-weapon-modeling-task-2080759312008503365)
@@ -48,6 +62,390 @@
 - [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### Claude Opus 5 开发 3D MMO 的工作流程
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Claude Opus 5 开发 3D MMO 的工作流程"></a>
+
+**提示词**
+
+```text
+几乎所有代码都是用 Claude Opus 5 写的。
+
+但我想说，让它能持续推进、迭代上千轮的，不是提示词有多厉害。
+而是把家里整理好，让 AI 能找到东西，而不用读完整个项目。
+
+1. 手册放在代码旁边，不是堆在一处
+   每个文件夹都有自己的手册文件（常用工作方式 + 遇到过的坑）
+   然后在该文件夹里开启会话时它会自动加载
+   碰到怪物相关的工作就不需要为地图手册付费
+   每次开始工作前都要读取的上下文，从大约 ~76,000 token 降到 ~10,000
+
+2. 用工具强制规则，不靠纪律
+   我让它写脚本：如果遇到循环导入回到原处，构建就会失败
+   使用时直接写颜色数字，而不是只在一处给它命名
+   不要指望 AI 记住规则。让它在提交时出错要好得多。
+
+3. 让 TypeScript 来提醒
+   新增技能但还没做特效 = 编译不过
+   新增怪物但还没做模型 = 编译不过
+   不会忘，因为它不允许你忘。
+
+4. 把内容做成表格
+   加怪物、加技能、加物品 = 只加一行，不用去改系统
+   AI 处理“加一行”要比“去改五个必须保持一致的地方”准确得多
+
+5. 有效的提示词是告诉它判定标准，不是告诉它步骤
+   例如“普通怪必须在 2 到 5 秒内死亡”
+   “每张地图至少要能走到 97% 的区域”
+   “游戏里的物品没有任何一件掉率低于 3%”
+   然后把这些写成测试
+   当你告诉它什么是好的，它就会自己找路，而且它自己也知道是否已经完成。
+
+简短总结：先在结构和测试上投入，再把精力放到提示词上。
+
+如果有问题，或者想让我展开某个部分，欢迎留言。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [查看原帖](https://x.com/vibecodingth/status/2082035844836450334) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### 制作一个可玩的 Chrome 恐龙游戏
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="制作一个可玩的 Chrome 恐龙游戏"></a>
+
+**提示词**
+
+```text
+制作一个可玩的 Chrome 恐龙跑酷游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [查看原帖](https://x.com/unseenmars_/status/2081867025140650236) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### 用于逼真直升机射击游戏的 Kimi K3 提示词
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="用于逼真直升机射击游戏的 Kimi K3 提示词"></a>
+
+**提示词**
+
+```text
+帮我制作一个逼真的直升机射击游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [查看原帖](https://x.com/Abobsterina/status/2081791572115435765) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### 用于 Subway Surfers 风格游戏的 Kimi K3 提示词
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="用于 Subway Surfers 风格游戏的 Kimi K3 提示词"></a>
+
+**提示词**
+
+```text
+制作一个 Subway Surfers 游戏
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/subway-surfers-style-game-2081766198082220514) · [查看原帖](https://x.com/Arindam_1729/status/2081766198082220514) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### 用于受 Counter-Strike 启发的 Three.js FPS 的 Claude Opus 5 提示词
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="用于受 Counter-Strike 启发的 Three.js FPS 的 Claude Opus 5 提示词"></a>
+
+**提示词**
+
+```text
+一款受 Counter-Strike 启发、设定在火车站中的战术 FPS。three.js，单个 HTML 文件，全部原创素材。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [查看原帖](https://x.com/BuildFastWithAI/status/2081607528790856068) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### Claude Fable 5 的无限 Three.js 纸带机提示词
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Claude Fable 5 的无限 Three.js 纸带机提示词"></a>
+
+**提示词**
+
+```text
+用单个提示词构建一个无限的 Three.js 纸带机。将静态的 Pinterest 概念转换为一个可运行的 3D Web 应用。应用应渲染一条无限滚动的纸带，并在其表面实时持续打印动态图片。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [查看原帖](https://x.com/RoundtableSpace/status/2081533777340506251) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
+
+### Claude Opus 5 的交互式 3D 机械手模拟提示词
+
+[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="Claude Opus 5 的交互式 3D 机械手模拟提示词"></a>
+
+**提示词**
+
+```text
+我让 9 种模型/推理配置使用同一个一次性提示词：构建一个交互式 3D 机械手模拟。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [查看原帖](https://x.com/ThomasMWWalker/status/2081475055536820506) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="vespa-125-3d-configurator-2081439705506435440"></a>
+
+### 为 3D 配置器添加 Vespa 125 的提示词
+
+[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="为 3D 配置器添加 Vespa 125 的提示词"></a>
+
+**提示词**
+
+```text
+将一辆 Vespa 125 添加到我的 3D 配置器中，端到端完成。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [查看原帖](https://x.com/rafintheloop/status/2081439705506435440) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
+
+### 超写实 3D 飞行模拟器提示词
+
+[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="超写实 3D 飞行模拟器提示词"></a>
+
+**提示词**
+
+```text
+构建一个超逼真的 3D 飞行模拟器。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [查看原帖](https://x.com/noclipepe/status/2081403842256605254) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
+
+### 使用 Claude Opus 5 构建 3D Minecraft 克隆的提示词
+
+[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="使用 Claude Opus 5 构建 3D Minecraft 克隆的提示词"></a>
+
+**提示词**
+
+```text
+CLAUDE OPUS 5 用一个简单提示在 30 分钟内构建一个 minecraft 克隆："Create a full fledged 3D minecraft clone"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [查看原帖](https://x.com/BuilderGuest/status/2081305039159620085) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="3d-flappy-bird-game-2081260140117045275"></a>
+
+### 3D Flappy Bird 游戏提示词
+
+[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="3D Flappy Bird 游戏提示词"></a>
+
+**提示词**
+
+```text
+构建一个 3D Flappy Bird 游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [查看原帖](https://x.com/SrijibBose/status/2081260140117045275) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
+
+### 越南丛林直升机电影级动画提示词
+
+[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="越南丛林直升机电影级动画提示词"></a>
+
+**提示词**
+
+```text
+一段电影级 3D 动画，描绘一架军用直升机在战争期间飞越越南丛林。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [查看原帖](https://x.com/kirillk_web3/status/2081200833656451322) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
+
+### 果冻丛林：3D 平台跳跃游戏
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · 游戏
+
+改编自: [aditya](https://x.com/adxtyahq)
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="果冻丛林：3D 平台跳跃游戏"></a>
+
+**提示词**
+
+```text
+# 果冻丛林——云端之上的冒险
+
+## 1. 目标
+制作一款完整的第三人称平台跳跃游戏：一个头顶薄荷芽的粉色果冻角色，利用三段跳和弹簧蘑菇穿越 13 座浮空岛。使用 https://jelly-jungle.tripo.page/ 以及提供的参考图，确定关卡、构图和最终视觉风格。这是 Jared 参考 aditya 在 https://x.com/adxtyahq/status/2081024333120733188. 发布的 Jelly Jungle 作品进行的重构。所有游戏界面文字均保留英文。
+
+## 2. 视觉方向
+打造柔和、雕塑玩具般的世界：使用薄荷绿、鼠尾草绿、奶油色、青绿色、珊瑚粉和暖金色。制作顶部覆盖厚草层、边缘圆润的浮岛；岛屿底部为不规则的暖灰色岩石，并加入垂落藤蔓、花朵、鹅卵石、小蘑菇、偶尔出现的瀑布和淡色云海。添加柔和阴影、轻微雾效、细微环境反射、呼吸感／挤压拉伸动画、摇曳的树木和旋转的水晶。岩石必须低于落脚平面，植被不得遮挡下一个落脚点。
+
+在桌面端宽度下，为左侧 35–40% 的区域预留空间，放置上下堆叠的 JELLY / JUNGLE 标题和 CTA；将起始岛布置在画面右侧偏中位置，让关卡向右上方纵深延伸。使用接近 (13,20,25) 的透视摄像机，目标点为 (-5,1.5,-5)，垂直视场角约 40°，再根据参考图进行微调。在 390px 手机屏幕上，应将果冻角色和岛屿重新构图到标题上方，而不是直接裁切桌面端画面。游戏过程中，从角色后方约 (0,8.8,15.3) 的偏移位置跟随，视线看向前方约 5.8 个单位处。保持稳定的地平线，并提供清晰实用的地面阴影。
+
+使用本地化的 Barlow Condensed 风格展示字体、DM Sans 风格控件、森林绿色按钮和柔和磨砂面板。开场文案：“Born to bounce.” 和 “Let’s bounce”。在上方显示功能按钮，游戏过程中显示紧凑的运行 HUD，下方显示三段式跳跃计量条，并突出显示 Classic / Tripo AI 对比切换开关。触摸摇杆、Jump 按钮、HUD 和页脚必须彼此分离。
+
+## 3. 关卡
+使用以下基准数据。前进方向为负 Z；y 表示落脚高度，r 表示碰撞半径。添加起点横幅和暖金色终点传送门。
+
+| 岛屿 | x | z | y | r | 类型／名称 |
+| --- | --- | --- | --- | --- | --- |
+| 01 | 0 | 0 | 1.2 | 5.4 | 起点／First Leap |
+| 02 | 0 | -10 | 1.6 | 3.1 | 普通／Easy Does It |
+| 03 | -4 | -19 | 2.0 | 3.1 | 弹簧／Mushroom Launch |
+| 04 | 2 | -29 | 3.2 | 3.6 | 旋转／Candy Spinner |
+| 05 | 7 | -39 | 3.8 | 4.0 | 检查点／Cloud Camp |
+| 06 | 1 | -49 | 4.1 | 3.1 | 移动／Wandering Island |
+| 07 | -6 | -59 | 4.7 | 3.2 | 弹簧／Bounce Again |
+| 08 | -1 | -71 | 5.8 | 3.8 | 旋转／Double Trouble |
+| 09 | 7 | -82 | 6.5 | 4.0 | 检查点／Starlight Camp |
+| 10 | 4 | -92 | 7.1 | 3.0 | 崩塌／Keep Moving |
+| 11 | -3 | -102 | 7.7 | 3.2 | 移动／Cloud Crossing |
+| 12 | -7 | -113 | 8.2 | 3.3 | 弹簧／One Last Bounce |
+| 13 | 0 | -127 | 10.0 | 5.0 | 终点／Above the Clouds |
+
+## 4. 资产清单
+按以下顺序准备三类替换资产：
+- `jelly`：圆润的糖果粉软乙烯基角色，带小巧的手脚、大而深色的椭圆眼睛和高光、红润脸颊、小嘴微笑，以及一株薄荷色双叶嫩芽；保持面部可见，高度接近 1.65 个单位。
+- `mushroom`：宽大的珊瑚粉穹顶，顶部有凸起的象牙色斑点，配奶油色菌褶和短而粗的菌柄；所有弹簧蘑菇统一复用，菌盖要宽大且稳定。
+- `tree`：弯曲的桃棕色树干，搭配超大的圆润青绿色／薄荷色棕榈叶和成簇的小桃色果实；在整个关卡中复用。
+浮岛、云朵、藤蔓、花朵、小型岩石、瀑布水幕、水晶、旗帜、旋转障碍和传送门均使用程序化生成。这些元素用于定义关卡和特效，不属于额外的生成模型任务。将每个模型放入未缩放的包装器中；脚部／树干底部位于本地 y=0。以数值和视觉两种方式对齐蘑菇菌盖与碰撞表面。两种模式使用相同的碰撞体。
+
+## 5. 物理与反馈
+使用固定的 1/120 秒步长，重力约为 22 units/s²，移动速度约为 8.8 units/s；地面加速度要灵敏，空中转向则更柔和。对对角线输入进行归一化。WASD／方向键用于移动；新按下 Space 时跳跃。落地前必须恰好允许三次跳跃：初始向上速度约为 9.2，两次空中跳跃速度约为 8.5。持续按住按键不得重复触发跳跃。落地后恢复全部三次跳跃。弹簧蘑菇以约 16 的速度弹射角色，同时恢复跳跃次数，并通过压缩／回弹动画反馈；再次触发需设有冷却时间。
+
+旋转平台会承载站在上面的角色；低矮的旋转糖果棒只有在角色与其发生线段接触且垂直方向重叠时才会将角色击退。跳跃可以越过它们。角色受击后提供约 1.7 秒的无敌时间。移动岛沿水平方向往复移动约 2.6 个单位，并根据位移带动站在其上的角色。崩塌岛会晃动，在角色落地 1.5 秒后消失，并在约 4 秒后恢复；隐藏平台不产生碰撞。
+
+第 05 和第 09 座岛上设置检查点；角色坠落后，检查点恢复其位置、速度和跳跃次数，同时保留已收集的水晶并增加坠落次数。按 R 可手动返回，且不计入坠落惩罚。每座岛放置 3 颗水晶，共 39 颗；每颗水晶只能收集一次，并提供音效、粒子和 HUD 反馈。到达最终岛屿后只完成一次通关；水晶为可选收集项。显示时间、水晶数量、岛屿编号和进度；完成时显示时间、坠落次数和星级：收集 ≥30 颗水晶得三颗星，≥18 颗得两颗星，否则得一颗星。保存最佳时间，并提供重玩功能。不设置生命值或战斗。
+
+提供支持指针捕获的触摸摇杆和大型 Jump 按钮；每次点击最多消耗一次跳跃。清除已取消或持续按住的输入。添加帮助和暂停对话框、隐藏标签页后的恢复机制、非阻塞式反馈，以及默认静音的可选 Web Audio。重新开始时重置本次运行、收集物和平台的全部状态。
+
+## 6. 实现
+使用 Vite、Three.js 以及原生 JavaScript／HTML／CSS，并将物理／关卡、世界／资产注册表、适配、输入／UI 和音频拆分为独立模块。在本地捆绑依赖、字体和资产。GLTFLoader 导入自包含模型；替换模型前，验证其边界是否为有限值、几何体是否可见，以及嵌入资源是否完整。加载失败时保留当前模型，避免过期的异步加载结果生效，并释放被替换的资源。如有需要，可选用 Blender 清理网格或修正轴心。
+
+Classic 使用三种程序化变体；导入模式使用可用的替换资产，并报告其实际状态。切换模式或导入资产时，不得重新加载，并保留位置、速度、跳跃次数、时间、水晶和检查点状态。对重复的静态场景进行实例化或合并，将 DPR 控制在约 1.5，并限制特效数量。在实际摄像机视角下测量绘制调用、三角形数量和帧耗时；优先减少远处装饰。
+
+## 7. 骳收标准
+交付完整源代码、锁文件、准确的开发／构建命令以及静态输出文件。验证三次正常跳跃且不会出现第四次跳跃、弹簧对齐、移动平台承载、扫掠障碍接触、崩塌／恢复、检查点、唯一收集物、暂停／重启和通关流程。通过实际输入和物理系统完成全部 13 座岛屿；传送角色不能证明关卡可达。检查键盘和触摸操作、两种美术模式，以及每条导入／重置／失败路径和状态保留逻辑。对比桌面端／移动端稳定后的开场和游戏过程画面，检查溢出和加载错误，并报告实际性能条件。遵循下方的共享资产工作流。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [查看原帖](https://x.com/adxtyahq/status/2081024333120733188) · [在线演示](https://jelly-jungle.tripo.page/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
+
+### 用于可探索日本郊区街道的 Three.js 提示词，采用手绘动漫风格
+
+[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="用于可探索日本郊区街道的 Three.js 提示词，采用手绘动漫风格"></a>
+
+**提示词**
+
+```text
+在 Three.js 中构建一条可探索的日本郊区街道，完整 3D 渲染，呈现为手绘动漫背景
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [查看原帖](https://x.com/gmi_cloud/status/2080834581247435102) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
 
 ### 使用 Kimi K3 构建的浏览器版《反恐精英》风格游戏
@@ -433,4 +831,4 @@ The Hype 将 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同�
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 9**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 432 条案例与在线演示 →</a></strong></p>

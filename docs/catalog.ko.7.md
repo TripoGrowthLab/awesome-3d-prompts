@@ -28,6 +28,20 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [텍스트에서 탐험 가능한 Unity 도시로](#text-to-explorable-unity-city-2095623452678144366)
+- [Three.js 구슬 공장](#three-js-marble-factory-2095622065390772322)
+- [사실적인 3D 제품 목업 스튜디오](#photoreal-3d-product-mockup-studio-2095619319690400253)
+- [3D 박물관 촬영 프리비즈](#3d-museum-cinematography-previsualization-2095616529572503593)
+- [Zillow 매물 정보로 만드는 3D 부동산 영상](#zillow-listing-to-3d-property-film-2095612137582526615)
+- [Unreal Engine으로 거리마다 재현한 맨해튼](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
+- [초보자가 음성으로 만드는 3D 게임](#voice-directed-3d-game-for-beginners-2095608358086840647)
+- [한 번의 요청으로 만드는 브라우저 3D 게임](#one-shot-browser-3d-game-2095599934766764338)
+- [집 사진을 편집 가능한 Blender 세계로](#house-photo-to-editable-blender-world-2095598645190291775)
+- [Halo에서 영감을 받은 10 대 10 멀티플레이 FPS](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
+- [에셋을 조립해 탐험하는 Unity 도시](#asset-driven-explorable-unity-city-2095597640587374887)
+- [한 번에 만드는 고급 인터랙티브 프로토타입](#one-shot-premium-interactive-prototype-2095597560253862065)
+- [한 번에 만드는 Minecraft 스타일 세계](#one-shot-minecraft-style-world-2095597137849446688)
+- [브라우저 속 오픈월드 모험](#open-world-browser-adventure-2095596341422440714)
 - [자율적으로 살아남는 Unreal 속 인간 사회](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [화성의 Arcadia 기지](#arcadia-base-on-mars-2095595678214873212)
 - [하나의 그레이박스로 만드는 세 가지 카트 게임](#three-themed-kart-games-from-one-greybox-2095580402505400369)
@@ -64,22 +78,290 @@
 - [Three.js MS-06 스타일 메카](#three-js-ms-06-inspired-mecha-2095085944391270759)
 - [HTML 파일 하나 속 살아 있는 우주](#living-universe-in-one-html-file-2095054116372508955)
 - [네이티브 C++로 만드는 소울라이크 게임](#native-c-souls-like-game-2095053114600755576)
-- [직접 플레이하는 3D 뱀과 사다리](#playable-3d-snakes-and-ladders-2095050993184669825)
-- [인물 사진을 움직이는 복셀로](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
-- [인터랙티브 Three.js 성](#interactive-three-js-castle-2095048818203275584)
-- [인터랙티브 단파 라디오 NIGHTBAND](#nightband-interactive-shortwave-radio-2095026928210346175)
-- [완성형 Unity 테니스 게임](#complete-unity-tennis-game-2095021275236495408)
-- [빛나는 협곡 위의 고대 사원](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
-- [인터랙티브 토론토 스카이라인](#interactive-toronto-skyline-2095000329561485584)
-- [자율적인 Sims 스타일 생활 시뮬레이션](#autonomous-sims-like-life-simulation-2094949450196090988)
-- [생각하는 NPC가 사는 복셀 마을](#voxel-village-with-thinking-npcs-2094930970675741171)
-- [후지산 정상을 향한 판타지 여정](#fantasy-ascent-to-mount-fuji-2094930804296274414)
-- [처음부터 만드는 Godot 레이싱 게임](#godot-racing-game-built-from-scratch-2094925359372284022)
-- [평면도에서 Blender 워크스루로](#floor-plan-to-blender-walkthrough-2094925117344428232)
-- [136,000개 복셀로 결정론적으로 생성하는 불탑](#deterministic-136-000-voxel-pagoda-2094916609219461211)
-- [Blender 자동화로 만드는 정교한 로봇](#detailed-robot-through-blender-automation-2094909825561805003)
 
 </details>
+<a id="text-to-explorable-unity-city-2095623452678144366"></a>
+
+### 텍스트에서 탐험 가능한 Unity 도시로
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="텍스트에서 탐험 가능한 Unity 도시로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 도시 구상을 고층 건물, 도로, 차량, 야자수, 분위기 있는 빛이 있는 탐험 가능한 Unity 환경으로 만드세요. 자연스러운 규모, 이동 경로, 교통 흐름, 부드러운 1인칭 카메라를 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [원본 게시물](https://x.com/0x0SojalSec/status/2095623452678144366) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="three-js-marble-factory-2095622065390772322"></a>
+
+### Three.js 구슬 공장
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js 구슬 공장"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+생산 흐름이 명확하고 구슬과 기계가 움직이는 Three.js 구슬 공장 시뮬레이션을 만드세요. 관람자가 구슬 하나를 따라 전체 공정을 볼 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-js-marble-factory-2095622065390772322) · [원본 게시물](https://x.com/JohnKlerAI/status/2095622065390772322) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
+
+### 사실적인 3D 제품 목업 스튜디오
+
+[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="사실적인 3D 제품 목업 스튜디오"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+업로드한 디자인을 사실적인 3D 제품 목업에 배치하는 브라우저 도구를 만드세요. 카메라 회전, 재질과 색상 조정, 환경 조명, 여러 제품, 고해상도 내보내기를 지원하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [원본 게시물](https://x.com/joshmillgate/status/2095619319690400253) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
+
+### 3D 박물관 촬영 프리비즈
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D 박물관 촬영 프리비즈"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+장소, 출연자 위치, 카메라 배치, 숏 목록을 정리하는 3D 박물관 프리비즈를 만드세요. 모든 촬영 구성을 실제 뷰포트 안에 유지하고, 후속 영상 생성에 사용할 일관된 가이드를 내보내세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [원본 게시물](https://x.com/higgsfield_ai/status/2095616529572503593) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
+
+### Zillow 매물 정보로 만드는 3D 부동산 영상
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Zillow 매물 정보로 만드는 3D 부동산 영상"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
+
+**프롬프트**
+
+```text
+제공된 부동산 매물 정보와 모든 사진으로 집을 3D로 재구성하고, 일관된 평면도를 추론한 뒤 완성도 높은 홍보용 워크스루 영상을 만드세요. 불확실한 형상을 표시하고 첫 제작 후 어긋난 부분을 다듬으세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [원본 게시물](https://x.com/realYunfanYe/status/2095612137582526615) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
+
+### Unreal Engine으로 거리마다 재현한 맨해튼
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Unreal Engine으로 거리마다 재현한 맨해튼"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Unreal Engine에서 탐험할 수 있는 맨해튼을 만드세요. 구역별, 거리별로 작업하며 알아볼 수 있는 규모, 도로 배치, 랜드마크, 교통, 동네의 개성을 유지하세요. 평가 체크리스트를 만들고 각 구역을 다듬은 뒤 다음 구역으로 넘어가세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [원본 게시물](https://x.com/mattshumer_/status/2095609734845927525) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
+
+### 초보자가 음성으로 만드는 3D 게임
+
+[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="초보자가 음성으로 만드는 3D 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제 3D 게임 제작자 역할을 맡으세요. 빠진 플레이 목표, 미술 방향, 조작 방식만 질문한 뒤 바로 플레이할 수 있는 브라우저 게임을 만드세요. 이후 짧은 음성 지시에 따라 계속 수정하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [원본 게시물](https://x.com/EHuanglu/status/2095608358086840647) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="one-shot-browser-3d-game-2095599934766764338"></a>
+
+### 한 번의 요청으로 만드는 브라우저 3D 게임
+
+[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="한 번의 요청으로 만드는 브라우저 3D 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+하나의 독립 실행 프로젝트로 브라우저에서 작동하는 3D 게임을 완성하세요. 명확한 목표, 반응이 빠른 조작, 공간적으로 일관된 레벨, 적이나 위험 요소, 피드백, 점수, 재시작, 성능 보호 장치를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [원본 게시물](https://x.com/theo/status/2095599934766764338) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
+
+### 집 사진을 편집 가능한 Blender 세계로
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="집 사진을 편집 가능한 Blender 세계로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 집 사진을 완전히 편집 가능한 Blender 장면으로 재구성하세요. 건물과 가구, 가전제품, 장난감을 각각 별도 오브젝트로 모델링하세요. 자연스러운 비율을 유지하고 로컬에서 부드러운 60 FPS 워크스루로 실행되게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [원본 게시물](https://x.com/tomkrcha/status/2095598645190291775) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
+
+### Halo에서 영감을 받은 10 대 10 멀티플레이 FPS
+
+[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="Halo에서 영감을 받은 10 대 10 멀티플레이 FPS"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+고전 SF FPS에서 영감을 받은 10 대 10 멀티플레이 아레나 슈터를 만드세요. 팀, 부활, 구분하기 쉬운 무기, 방어막, 획득 아이템, 작은 맵, 점수, 경기 진행, 저지연 브라우저 플레이를 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [원본 게시물](https://x.com/VikiingAI/status/2095598026916049024) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
+
+### 에셋을 조립해 탐험하는 Unity 도시
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="에셋을 조립해 탐험하는 Unity 도시"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 에셋 라이브러리로 탐험 가능한 Unity 도시를 조립하세요. 일관된 도로망, 고층 건물, 차량, 야자수, 조명, 이동 경로를 만들고 장면을 최적화해 안정적인 1인칭 워크스루를 제공하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [원본 게시물](https://x.com/chetaslua/status/2095597640587374887) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
+
+### 한 번에 만드는 고급 인터랙티브 프로토타입
+
+[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="한 번에 만드는 고급 인터랙티브 프로토타입"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 제품 콘셉트로 완성도 높은 인터랙티브 프로토타입을 한 번에 설계하고 구현하세요. 뚜렷한 시각 체계를 선택하고 핵심 행동을 우선하며, 세련된 전환을 더해 호스팅된 반응형 빌드를 제공하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [원본 게시물](https://x.com/AY_Orbach/status/2095597560253862065) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
+
+### 한 번에 만드는 Minecraft 스타일 세계
+
+[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="한 번에 만드는 Minecraft 스타일 세계"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Minecraft에서 영감을 받은 플레이 가능한 복셀 세계를 한 번에 만드세요. 지형 생성, 블록 설치와 파괴, 1인칭 조작, 인벤토리, 조명, 물, 짧고 완결된 생존 플레이 흐름을 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [원본 게시물](https://x.com/flavioAd/status/2095597137849446688) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="open-world-browser-adventure-2095596341422440714"></a>
+
+### 브라우저 속 오픈월드 모험
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="브라우저 속 오픈월드 모험"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+서로 연결된 여러 생물군계가 있는 오픈월드 3D 모험 게임을 만드세요. 이동, 발견, 가벼운 전투, 퀘스트, 랜드마크, 낮과 밤의 분위기, 목적 있는 탐험을 돕는 충분한 안내를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/open-world-browser-adventure-2095596341422440714) · [원본 게시물](https://x.com/petergostev/status/2095596341422440714) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
 
 ### 자율적으로 살아남는 Unreal 속 인간 사회
@@ -804,293 +1086,6 @@ Bloodborne에서 영감을 받은 소울라이크 게임을 네이티브 C++로 
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/native-c-souls-like-game-2095053114600755576) · [원본 게시물](https://x.com/wizardbrainz/status/2095053114600755576) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
-
-### 직접 플레이하는 3D 뱀과 사다리
-
-[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="직접 플레이하는 3D 뱀과 사다리"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-주사위 애니메이션, 말 이동, 뱀, 사다리, 턴, 승리 상태, 명확한 플레이어 피드백이 있는 완전한 3D 뱀과 사다리 게임을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [원본 게시물](https://x.com/karanC_12/status/2095050993184669825) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
-
-### 인물 사진을 움직이는 복셀로
-
-[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="인물 사진을 움직이는 복셀로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-업로드한 인물 사진을 10,000개가 넘는 인터랙티브 3D 복셀로 바꾸세요. 파도형 변위, 사이버펑크 셰이더, 효율적인 인스턴싱, 포인터에 따른 움직임을 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [원본 게시물](https://x.com/TenthPrime/status/2095048967092625663) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="interactive-three-js-castle-2095048818203275584"></a>
-
-### 인터랙티브 Three.js 성
-
-[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="인터랙티브 Three.js 성"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-탐험 가능한 방, 탑, 성문, 지형, 분위기 있는 조명, 부드러운 데스크톱·모바일 조작을 갖춘 인터랙티브 3D 성을 Three.js로 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-three-js-castle-2095048818203275584) · [원본 게시물](https://x.com/debugsenpai/status/2095048818203275584) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
-
-### 인터랙티브 단파 라디오 NIGHTBAND
-
-[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="인터랙티브 단파 라디오 NIGHTBAND"></a>
-
-**프롬프트**
-
-```text
-하나의 독립 실행 HTML 파일로 만들 수 있는 가장 인상적인 웹사이트를 만드세요. 창작의 자유는 전적으로 당신에게 있습니다. 얼마나 지적이고 창의적이며 기술적으로 뛰어나고 독창적인지 보여주는 것이 목표입니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [원본 게시물](https://x.com/NeoAIForecast/status/2095026928210346175) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="complete-unity-tennis-game-2095021275236495408"></a>
-
-### 완성형 Unity 테니스 게임
-
-[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="완성형 Unity 테니스 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Blender로 만든 캐릭터, 안정적인 조작, 이동·스윙 애니메이션, 공 물리, 점수, 상대 선수, 경기 흐름을 갖춘 플레이 가능한 Unity 테니스 게임을 완성하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [원본 게시물](https://x.com/chongdashu/status/2095021275236495408) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
-
-### 빛나는 협곡 위의 고대 사원
-
-[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="빛나는 협곡 위의 고대 사원"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-해질녘 빛나는 협곡 위에 고대 사원이 떠 있는 절차적 Three.js 장면을 만드세요. 바람에 흔들리는 천, 빛내림, 번개, 영화적인 접근 장면을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [원본 게시물](https://x.com/pradeepXkapoor/status/2095012880383099339) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="interactive-toronto-skyline-2095000329561485584"></a>
-
-### 인터랙티브 토론토 스카이라인
-
-[Kevin](https://x.com/bienjamyn) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-toronto-skyline-2095000329561485584"><img src="../assets/previews/bef311e9c34b21d4ea7564dcb333b455bcf9e6d3639b42a775a16f0129f5f8b8.webp" width="840" loading="lazy" alt="인터랙티브 토론토 스카이라인"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-알아볼 수 있는 랜드마크, 물, 대기 깊이감, 낮과 밤의 조명, 부드러운 궤도·비행 조작을 갖춘 인터랙티브 3D 토론토 스카이라인을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-toronto-skyline-2095000329561485584) · [원본 게시물](https://x.com/bienjamyn/status/2095000329561485584) · [데모](https://toronto-voxel.vercel.app/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="autonomous-sims-like-life-simulation-2094949450196090988"></a>
-
-### 자율적인 Sims 스타일 생활 시뮬레이션
-
-[Ridark](https://x.com/ridark_eth) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988"><img src="../assets/previews/75063ba9f199aff5faed7420ab575b306bd749b3559de8f878632df397ccb858.webp" width="840" loading="lazy" alt="자율적인 Sims 스타일 생활 시뮬레이션"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-자율 캐릭터 5명이 있는 Sims 스타일 생활 시뮬레이션을 만드세요. 욕구, 일상, 관계, 선택에서 이야기가 자연스럽게 생겨나고, 플레이어가 계속 지시하지 않아도 되게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988) · [원본 게시물](https://x.com/ridark_eth/status/2094949450196090988) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="voxel-village-with-thinking-npcs-2094930970675741171"></a>
-
-### 생각하는 NPC가 사는 복셀 마을
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171"><img src="../assets/previews/974d4c7d84097af10f8cd20d5d3c871e5bab197d946f589feca62acd4faa8455.webp" width="840" loading="lazy" alt="생각하는 NPC가 사는 복셀 마을"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-직업, 일상, 기억, 로컬 언어 모델 기반 사고를 가진 주민이 사는 복셀 마을을 만드세요. 주민이 플레이어와 서로의 행동에 반응하도록 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171) · [원본 게시물](https://x.com/Tech2Wild/status/2094930970675741171) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="fantasy-ascent-to-mount-fuji-2094930804296274414"></a>
-
-### 후지산 정상을 향한 판타지 여정
-
-[Techartist](https://x.com/techartist_) · 2026-09-01 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414"><img src="../assets/previews/5a0525135a25d7094cac3c8a1632a12b7147aaf4d967d86191b0aab848dfc692.webp" width="840" loading="lazy" alt="후지산 정상을 향한 판타지 여정"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-플레이어가 층층이 펼쳐진 환경을 지나 후지산 정상으로 향하는 아름다운 Three.js 판타지 여정을 만드세요. 분위기 있는 조명, 이동, 위로 올라간다는 명확한 감각을 담으세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414) · [원본 게시물](https://x.com/techartist_/status/2094930804296274414) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="godot-racing-game-built-from-scratch-2094925359372284022"></a>
-
-### 처음부터 만드는 Godot 레이싱 게임
-
-[atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022"><img src="../assets/previews/fb70f118a60a87d8b99b4707a1a06a1bf825bdf6efe4722966e954adfde6bf5f.webp" width="840" loading="lazy" alt="처음부터 만드는 Godot 레이싱 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Godot 레이싱 게임을 처음부터 만드세요. 차량과 환경 에셋은 Blender로 제작하고, 큰 코스, 만족스러운 조종감, 상대 선수, HUD, 경기 진행을 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022) · [원본 게시물](https://x.com/atomic_chat_hq/status/2094925359372284022) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="floor-plan-to-blender-walkthrough-2094925117344428232"></a>
-
-### 평면도에서 Blender 워크스루로
-
-[AGIラボ](https://x.com/ctgptlb) · 2026-09-01 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232"><img src="../assets/previews/378a03d3cd1c95f97f8e0d77b92491a424ae3aef5055dbd9aecf23abf408dc95.webp" width="840" loading="lazy" alt="평면도에서 Blender 워크스루로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 평면도로 정확한 Blender 3D 모델을 만들고, 대표적인 시점의 정지 이미지와 일관된 워크스루 영상을 제작하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232) · [원본 게시물](https://x.com/ctgptlb/status/2094925117344428232) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="deterministic-136-000-voxel-pagoda-2094916609219461211"></a>
-
-### 136,000개 복셀로 결정론적으로 생성하는 불탑
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211"><img src="../assets/previews/5f6a8e2c47e18b32228a30647a33403b7a981de34409e709fb3db9f971cd8fe7.webp" width="840" loading="lazy" alt="136,000개 복셀로 결정론적으로 생성하는 불탑"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Three.js에서 136,000개 복셀로 불탑을 결정론적으로 생성하세요. 건축 층위가 명확하게 보이도록 하고, 효율적인 인스턴싱, 안정적인 출력, 관찰용 카메라를 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2094916609219461211) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="detailed-robot-through-blender-automation-2094909825561805003"></a>
-
-### Blender 자동화로 만드는 정교한 로봇
-
-[Spectro](https://x.com/Spectromachina) · 2026-09-01 · Claude Fable 5.1 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003"><img src="../assets/previews/cc82b31325f194335c6a876aa83404dd10829652fc0cf8dc42009018a57acf0c.webp" width="840" loading="lazy" alt="Blender 자동화로 만드는 정교한 로봇"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Blender에서 정교한 하드서피스 로봇을 만드세요. 일관된 비율, 관절, 패널, 재질, 조명, 발표용 렌더링을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [원본 게시물](https://x.com/Spectromachina/status/2094909825561805003) · [사례 목록으로](#all-prompts)
 
 ---
 

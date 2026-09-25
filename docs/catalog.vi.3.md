@@ -28,6 +28,20 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền](#gpt-6-astra-2098403061463224543)
+- [Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật](#gpt-6-astra-2098367087475577273)
+- [Tàu vận chuyển dân dụng cơ bản Sol Horizon](#gpt-6-astra-2098225609558335846)
+- [Trình diễn piano tương tác với bàn tay robot 3D](#gpt-6-astra-2098109252720078891)
+- [Atlas 3D tương tác về đầu và não người](#gpt-6-astra-2098105648106078541)
+- [Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành](#gpt-6-astra-2098094339759149067)
+- [Tàu con thoi mô hình trắng bay qua hẻm núi đô thị](#gpt-6-astra-2098079379297608050)
+- [Hoạt ảnh học viện phép thuật bay lơ lửng](#gpt-6-astra-2098071577309122854)
+- [Nhịp đập thành phố](#gpt-6-astra-2098063352832610473)
+- [Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA](#gpt-6-astra-2098049032195293190)
+- [Đàn mực tương tác](#gpt-6-astra-2098043033446912315)
+- [Tăng độ thử thách cho sân golf 18 hố](#gpt-6-astra-2098038909514944562)
+- [Mosswing: Game 3D mobile chạm để vỗ cánh](#mosswing-mobile-3d-tap-to-flap-game)
+- [Video ngắn 3D không lời: Mèo và nút thưởng](#gpt-6-astra-2097900087901106244)
 - [Bản demo đồ họa fantasy tương tác](#gpt-6-astra-2097821164093480999)
 - [Bản sao Minecraft có chế độ nhiều người chơi](#gpt-6-astra-2097797479488246071)
 - [Máy gia tốc hạt 3D tương tác](#gpt-6-astra-2097781208596029936)
@@ -64,22 +78,622 @@
 - [Bàn cờ shogi 3D có thể xoay](#rotatable-3d-shogi-board-2096579856133947507)
 - [Bản đồ tháo rời linh kiện máy tính để bàn](#exploded-desktop-computer-atlas-2096578761877860502)
 - [Lên phương án bố trí phòng trẻ em kiêm nơi làm việc](#children-s-room-and-workspace-planner-2096578684010508736)
-- [Đầu máy hơi nước chạy qua miền quê](#steam-locomotive-across-the-countryside-2096577430274429157)
-- [Dựng một ngôi nhà từ đầu trong Blender](#a-house-modeled-from-scratch-in-blender-2096576154337734865)
-- [Nhiệm vụ khám phá The Quiet Crossing](#the-quiet-crossing-exploration-quest-2096574297703637111)
-- [Cây xoài Ấn Độ trong SpeedTree](#indian-mango-tree-in-speedtree-2096572429066006845)
-- [Tập hút Lorenz tương tác](#interactive-lorenz-attractor-2096572156453028193)
-- [Săn kho báu trên bãi biển low-poly](#low-poly-beach-treasure-hunt-2096570815714414844)
-- [Từ phác thảo căn hộ đến ảnh nội thất kết xuất](#apartment-sketch-to-rendered-interiors-2096566686266597754)
-- [Áp dụng texture và gắn xương cho nhân vật Tripo](#texture-and-rig-a-tripo-character-2096566598689783878)
-- [Mô phỏng vụ nổ hạt nhân trong thành phố 3D](#gpt-6-astra-2096562462674079868)
-- [Cảnh máy hát đĩa than trên bàn](#vinyl-player-tabletop-scene-2096561346766877106)
-- [Mô hình Blender kết hợp hiệu ứng Unity VFX](#blender-models-with-unity-vfx-2096560142871658589)
-- [Từ logo 2D đến nhân vật chuyển động](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
-- [Mô hình Seoul thu nhỏ có thể khám phá](#interactive-miniature-of-seoul-2096557555086725159)
-- [Trò chơi đua rally Unity chơi được trên điện thoại](#mobile-playable-unity-rally-game-2096556692842348826)
 
 </details>
+<a id="gpt-6-astra-2098403061463224543"></a>
+
+### Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền
+
+[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/20dba2605fb5f8fadd26e0d600a7b90aec4b5db6d1fab05d2e00c991d6c1bc3c.webp" width="840" loading="lazy" alt="Cảnh mô hình thu nhỏ 3D dạng lập thể của ngôi đền"></a>
+
+**Prompt**
+
+```text
+Tạo một cảnh mô hình thu nhỏ 2.5D dạng lập thể, phong cách hoạt hình, với góc nhìn đẳng cự từ trên xuống 45°. Sử dụng kết cấu bề mặt mềm mại, tinh tế, vật liệu PBR chân thực và ánh sáng dịu, tự nhiên. Tạo một đế mô hình nhỏ dạng khối nổi, chứa những yếu tố đặc trưng dễ nhận biết nhất của ngôi đền. Dùng nền đơn sắc. Bố cục: căn giữa hoàn hảo, hình vuông 1080x1080, thể hiện phong cách mô hình lập thể siêu sạch và độ phân giải cao; chỉ cần thay bằng phông chữ đậm, sáng hơn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+呈现一个清晰的、45°俯视等轴侧微型2.5D卡通立体模型场景，采用柔和精致的纹理、逼真的PBR材质以及温和逼真的光照效果。创建一个小型凸起的立体模型式底座，其中包含了寺庙最具辨识度的元素。使用纯色背景。构图：完美居中的布局，方形1080x1080，超干净、高清晰度的立体模型美学 换加粗、提亮的字体即可
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098403061463224543) · [Bài đăng gốc](https://x.com/rionaifantasy/status/2098403061463224543) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098367087475577273"></a>
+
+### Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-11 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/4caf53574bf82d0814088c75d966bd2ef7e7a0b59de2526070e9d9de98c9bd51.webp" width="840" loading="lazy" alt="Tự động tạo và chuyển texture tóc, khuôn mặt cho model nhân vật"></a>
+
+**Prompt**
+
+```text
+Hãy sử dụng tính năng tạo ảnh để texture chất lượng cao nhất
+Render chính diện khuôn mặt không tóc với flat shading, không có bóng, rồi dùng ảnh đó làm tham chiếu để tạo ảnh đã texture và ánh xạ bằng phép chiếu song song, sau đó chuyển sang UV đầu ra
+Nếu astra nghĩ ra cách nào tốt hơn thì hãy dùng cách đó
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+画像生成を利用して最強のテクスチャリングしてほしい
+髪なし顔面正面をフラットシェーディングで影なしでレンダリングしてそれをリファレンスにテクスチャリング済み画像生成して並行投影でマッピングして出力用UVに転写
+又はastraが思いついたもっといい方法あればそれで
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098367087475577273) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098367087475577273) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098225609558335846"></a>
+
+### Tàu vận chuyển dân dụng cơ bản Sol Horizon
+
+[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/93340afbc96fd825af0645045e834d916af42214312e4cca4e75b4da5f6c8210.webp" width="840" loading="lazy" alt="Tàu vận chuyển dân dụng cơ bản Sol Horizon"></a>
+
+**Prompt**
+
+```text
+Trong Blender, hãy tạo tàu vận chuyển dân dụng cơ bản của Sol Horizon. Tàu cần mang vẻ ngoài đã qua sử dụng, dễ sửa chữa, có giá phải chăng và an toàn—không mang tính quân sự. Tạo buồng lái, cửa khoang hàng, các động cơ đẩy điều hướng lộ thiên, cụm động cơ chính và bốn càng đáp. Sử dụng phong cách hard-surface dạng mô-đun để phù hợp cho các biến thể trong tương lai. Giữ lưới kết xuất chính dưới 15.000 tam giác. Đặt tên đối tượng rõ ràng, thiết lập hướng phía trước cho Unity, tạo hình học va chạm đơn giản, áp dụng các phép biến đổi, lưu tệp .blend và xuất FBX sẵn sàng cho game. Hiển thị ảnh chụp màn hình viewport để duyệt trước khi xuất.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+In Blender, create Sol Horizon’s starter civilian courier ship. It should look used, repairable, affordable, and safe—not military. Create a cockpit, cargo hatch, visible maneuvering thrusters, main engine assembly, and four landing struts. Use a modular hard-surface style suitable for future variants. Keep the main render mesh under 15,000 triangles. Name objects clearly, set the forward direction for Unity, create simple collision geometry, apply transforms, save the .blend, and export a game-ready FBX. Show viewport screenshots for approval before export.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098225609558335846) · [Bài đăng gốc](https://x.com/jonathanplumb/status/2098225609558335846) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098109252720078891"></a>
+
+### Trình diễn piano tương tác với bàn tay robot 3D
+
+[MSB](https://x.com/KeWai386772) · 2026-09-10 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/a2c337ecc0014d7a132e8bf1233771965ee7de5be41c152de671b6ba59398221.webp" width="840" loading="lazy" alt="Trình diễn piano tương tác với bàn tay robot 3D"></a>
+
+**Prompt**
+
+```text
+Xây dựng một bản trình diễn hoàn chỉnh trên trình duyệt, trong đó bàn tay robot năm ngón được mô hình hóa chi tiết chơi một cây piano thu nhỏ. Chuyển động ngón tay hiển thị, hành trình phím, nốt được tạo và nhịp điệu phải được liên kết với nhau theo quan hệ nhân quả. Tạo một ứng dụng tương tác được trau chuốt về mặt hình ảnh trong thời gian đánh giá cho phép.
+
+1. TRẢI NGHIỆM: Sử dụng cảnh 3D toàn màn hình với bàn tay robot được mô hình hóa chính xác, các ngón tay có khớp nối, cơ cấu cổ tay hiển thị rõ và bàn phím 25 phím bao phủ các nốt MIDI từ 60 đến 84. Thể hiện hình học chân thực của phím đen và phím trắng, chuyển động độc lập của từng phím, đệm đầu ngón tay và vật liệu được hoàn thiện kỹ lưỡng. Bao gồm camera từ trên cao, phía người chơi và cận cảnh đầu ngón tay. Cung cấp âm thanh đồng bộ sau khi người dùng kích hoạt phát lại.
+
+2. ĐẦU VÀO ÂM NHẠC CHUNG: Sử dụng số nốt MIDI làm nguồn dữ liệu chuẩn duy nhất. Ở 96 BPM, phát các sự kiện sau, biểu diễn dưới dạng (nhịp bắt đầu, nốt, thời lượng tính bằng nhịp): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Ba sự kiện cuối tạo thành một hợp âm đồng thời. Đồng thời hỗ trợ nhập tệp MIDI tiêu chuẩn bằng một trình phân tích cú pháp đã được sử dụng rộng rãi.
+
+3. ĐIỀU KHIỂN BÀN TAY: Mô hình hóa các ngón tay có khớp nối độc lập và cổ tay có thể chuyển động. Lập kế hoạch phân công ngón tay có thể với tới, chuyển động tiếp cận, thao tác nhấn, giữ, nhả, diễn đạt nốt lặp và thực hiện hợp âm. Ngón tay phải tiếp xúc đúng phím mà không giao cắt với các phím lân cận hoặc tạo ra những cú nhảy thiếu thực tế. Sử dụng động học ngược và giới hạn khớp. Hiển thị phân công ngón tay đã lập kế hoạch và cho phép kiểm tra thủ công từng chuyển động.
+
+4. QUAN HỆ NHÂN QUẢ CỦA ÂM THANH: Chỉ tạo sự kiện note-on khi phím tương ứng đang hiển thị vượt qua ngưỡng nhấn đã được ghi rõ do tiếp xúc với ngón tay. Tạo note-off khi nhả phím, kèm độ trễ hysteresis để ngăn hiện tượng rung chuyển trạng thái. Sự kiện MIDI là mục tiêu lập kế hoạch, không phải một luồng phát âm thanh độc lập. Có thể sử dụng cơ chế phím dựa trên tiếp xúc hình học nếu cơ chế này được nêu rõ; cũng có thể sử dụng đầy đủ động lực học tiếp xúc. Phím không được di chuyển chỉ vì một sự kiện MIDI đã được lên lịch.
+
+5. NHỊP ĐIỆU: Sử dụng một đồng hồ âm nhạc nhất quán và gắn dấu thời gian cho các sự kiện kích hoạt phím thực tế để đối chiếu với sự kiện mục tiêu. Tính đến việc lập lịch âm thanh và thời điểm kết xuất. Cho phép điều chỉnh tempo, chuyển giọng, phát, tạm dừng, khởi động lại, lặp và kiểm tra chuyển động chậm. Khi tạm dừng hoặc khởi động lại, phải nhả các nốt đang hoạt động đúng cách. Khi làm chậm phát lại, phải duy trì đồng bộ giữa ngón tay, phím và âm thanh.
+
+6. CHẨN ĐOÁN: Hiển thị các nốt mục tiêu, ngón tay đã lập kế hoạch, nốt thực tế được kích hoạt và sai số thời điểm bắt đầu trên một dòng thời gian thẳng hàng. Báo cáo nốt bị bỏ sót, nốt thừa, cao độ sai, lỗi khi diễn đạt nốt lặp và nốt bị kẹt. Cung cấp lớp phủ kiểm tra tiếp xúc, cho biết đầu ngón tay nào đang nhấn từng phím. Ghi lại các bằng chứng cần thiết để phân biệt kế hoạch thành công với hoạt ảnh bàn tay mang tính ước lệ.
+
+7. XÁC MINH: Đánh giá riêng giai điệu, các nốt lặp và hợp âm cuối. Mục tiêu là không có nốt sai hoặc bị thiếu, sai số thời điểm bắt đầu ở phân vị 95 dưới 50 ms và độ phân tán thời điểm bắt đầu của hợp âm cuối dưới 50 ms. Báo cáo số đo thực tế ngay cả khi không đạt mục tiêu. Cung cấp một bài kiểm tra vô hiệu hóa việc tác động bằng ngón tay: điểm số có thể tiếp tục tăng, nhưng các phím không được nhấn không được tạo ra nốt.
+
+8. BÀN GIAO: Sử dụng Three.js, TypeScript, các API âm thanh phù hợp và những thư viện phân tích cú pháp hoặc tính toán số đã được sử dụng rộng rãi. Bàn giao ứng dụng đang chạy, mã nguồn, bộ dữ liệu âm nhạc có thể tái lập, tài sản hoặc tập lệnh tạo tài sản và hướng dẫn khởi động. Xác minh âm thanh trên trình duyệt, các điều khiển, góc nhìn camera, bố cục trên máy tính và thiết bị di động cũng như khả năng phát lại nhiều lần. Mọi tuyên bố về hiệu suất được hiển thị phải bắt nguồn từ hành vi đã đo lường.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a complete browser-based demonstration of a detailed five-finger robotic hand playing a miniature piano. The visible finger motion, physical key travel, generated notes, and musical timing must be causally connected. Deliver a visually polished, interactive application within the evaluator's time budget.  1. EXPERIENCE: Use a full-screen 3D scene with a precisely modeled robotic hand, articulated fingers, visible wrist mechanisms, and a 25-key keyboard spanning MIDI notes 60 through 84. Show realistic black-key and white-key geometry, independent key movement, fingertip pads, and refined materials. Include overhead, performer-side, and fingertip close-up cameras. Provide synchronized audio after the user activates playback.  2. COMMON MUSICAL INPUT: Use MIDI note numbers as the source of truth. At 96 BPM, play these events, expressed as (start beat, note, duration in beats): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). The last three events form a simultaneous chord. Also support standard MIDI file import using an established parser.  3. HAND CONTROL: Model independently articulated fingers and a movable wrist. Plan reachable finger assignments, approach motions, presses, holds, releases, repeated-note articulation, and chord execution. Fingers must contact the correct keys without intersecting neighboring keys or making implausible jumps. Use inverse kinematics and joint limits. Display planned finger assignments and allow manual inspection of individual motions.  4. SOUND CAUSALITY: Generate note-on events only when the corresponding visible key crosses a documented depression threshold because of finger contact. Generate note-off on release, with hysteresis to prevent chatter. MIDI events are planning targets, not an independent audio playback track. A geometric contact-driven key mechanism is acceptable if explicitly identified; full contact dynamics may be used instead. Keys must not move merely because a MIDI event is scheduled.  5. TIMING: Use a consistent musical clock and timestamp actual key-trigger events against target events. Account for audio scheduling and render timing. Expose tempo, transpose, play, pause, restart, loop, and slow-motion inspection. Pausing or restarting must release active notes appropriately. Slowing playback must preserve synchronization between fingers, keys, and audio.  6. DIAGNOSTICS: Display target notes, planned fingers, actual triggered notes, and onset timing errors on an aligned timeline. Report missed notes, extra notes, wrong pitches, repeated-note failures, and stuck notes. Provide a contact inspection overlay showing which fingertip is depressing each key. Record the evidence needed to distinguish successful planning from approximate hand animation.  7. VERIFICATION: Evaluate melody, repeated notes, and the final chord separately. Aim for no wrong or missing notes, a 95th-percentile onset error below 50 ms, and final-chord onset spread below 50 ms. Report actual measurements even when targets are missed. Provide a test that disables finger actuation: the score may continue advancing, but unpressed keys must not generate notes.  8. DELIVERY: Use Three.js, TypeScript, appropriate audio APIs, and established parsing or numerical libraries. Deliver the running application, source code, reproducible musical fixture, assets or generation scripts, and startup instructions. Verify browser audio, controls, camera views, desktop and mobile layout, and repeated playback. All displayed performance claims must come from measured behavior.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098109252720078891) · [Bài đăng gốc](https://x.com/KeWai386772/status/2098109252720078891) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098105648106078541"></a>
+
+### Atlas 3D tương tác về đầu và não người
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-10 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/d5197e1985f14535e770ac12605b228ba2f0b5e0097d074c79356afb7c171f70.webp" width="840" loading="lazy" alt="Atlas 3D tương tác về đầu và não người"></a>
+
+**Prompt**
+
+```text
+Xây dựng một atlas 3D tương tác hoàn chỉnh về đầu và não người. Bàn giao một ứng dụng hoạt động được, không phải bản mô phỏng. Tự đưa ra các quyết định hợp lý, triển khai, kiểm thử và kiểm tra trực quan kết quả.
+
+Sử dụng Three.js cùng các mô hình lưới Z-Anatomy / BodyParts3D thực tế, có giấy phép phù hợp. Bao gồm hộp sọ, răng, cơ mặt, não, mắt, dây thần kinh sọ, động mạch, tĩnh mạch và các màng hỗ trợ hiện có. Giữ nguyên mối quan hệ giải phẫu ban đầu giữa chúng. Hướng đến hàng trăm cấu trúc có thể chọn riêng lẻ, báo cáo số lượng thực tế đã nhập và giữ thông tin ghi công nguồn.
+
+Tạo giao diện sáng, gọn với nền xám nhạt, các bảng màu trắng bo góc, điểm nhấn xanh xám tiết chế và kiểu chữ dễ đọc. Giữ mô hình ở kích thước lớn, đặt bảng cấu trúc bên trái, công cụ camera bên phải, ô tìm kiếm ở phía trên và thanh trượt tách lớp bên dưới. Sử dụng tiếng Anh xuyên suốt.
+
+Cho phép khám phá giải phẫu theo từng cấp độ:
+Đầu → hệ cơ quan → vùng → cấu trúc riêng lẻ có tên.
+Ví dụ: Brain → Cerebrum → Left hemisphere → Frontal lobe → các cấu trúc riêng lẻ.
+
+Tạo hiệu ứng chuyển động khi lắp ráp và tháo rời. Giữ nguyên vị trí nguồn khi lắp ráp; sắp xếp các nhóm đã tách thành bố cục cách biệt rõ ràng, kèm nhãn dễ đọc. Hiển thị tỷ lệ chuẩn hóa và phân trang các bộ sưu tập lớn.
+
+Bao gồm:
+- Xoay tự do, thu phóng bằng con lăn/chụm hai ngón và các thiết lập camera có sẵn.
+- Thanh trượt tháo rời và điều khiển Shift + con lăn.
+- Công tắc hiển thị độc lập cho từng nhóm và từng bộ phận.
+- Độ mờ theo nhóm, hoàn tác, khôi phục tất cả và đặt lại.
+- Tìm kiếm giải phẫu, nhấp để kiểm tra, lấy nét, cô lập và điều hướng về cấp cha.
+- Chế độ màu giải phẫu, sứ, khung dây và trong suốt.
+- Mặt phẳng cắt đứng dọc, ngang và trán có thể điều chỉnh, kèm đảo chiều.
+- Nhãn, khám phá tự động, toàn màn hình và xuất PNG.
+- Hành trình có hướng dẫn từ toàn bộ phần đầu đến não và các mạng lưới của não.
+
+Giữ các cấu trúc đang ẩn ở trạng thái ẩn khi thay đổi bố cục và vật liệu. Giải thích rằng mặt phẳng cắt tạo ra các mặt cắt hiển thị mở, không phải ảnh quét y khoa. Không tự tạo thêm chi tiết giải phẫu hoặc tuyên bố ứng dụng đã được kiểm định lâm sàng.
+
+Bàn giao một tệp HTML độc lập chứa ứng dụng và hình học đã xử lý, có thể hoạt động ngoại tuyến mà không cần máy chủ. Đồng thời cung cấp các tệp nguồn gọn sạch, các dependency được ghim phiên bản, lockfile, script build di động, README bằng tiếng Anh cùng các giấy phép và thông tin ghi công bắt buộc. Loại trừ thông tin xác thực, đường dẫn máy cục bộ, dependency và các tệp không liên quan.
+
+Kiểm thử tính toàn vẹn của hình học, quan hệ thành viên trong hệ phân cấp, trạng thái hiển thị, thao tác hoàn tác và khoảng cách bố cục. Mở ứng dụng đang chạy trong trình duyệt, sử dụng thử các điều khiển, kiểm tra lỗi trong console và khắc phục các thành phần bị chồng lấn trước khi bàn giao.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a complete interactive 3D atlas of the human head and brain. Deliver a working application, not a mockup. Make reasonable decisions independently, implement it, test it, and visually verify the result.
+
+Use Three.js and real, appropriately licensed Z-Anatomy / BodyParts3D meshes. Include the skull, teeth, facial muscles, brain, eyes, cranial nerves, arteries, veins, and available supporting membranes. Preserve their original anatomical relationships. Aim for hundreds of individually selectable structures, report the actual imported count, and retain source attribution.
+
+Create a clean, light interface with a pale grey background, white rounded panels, restrained blue-grey accents, and readable typography. Keep the model large, with a structure panel on the left, camera tools on the right, search at the top, and an explosion slider below. Use English throughout.
+
+Make the anatomy progressively explorable:
+Head → system → region → individual named structures.
+For example: Brain → Cerebrum → Left hemisphere → Frontal lobe → individual structures.
+
+Animate assembly and disassembly. Preserve source positions when assembled; arrange exploded groups in clearly separated layouts with readable labels. Indicate normalized scale and paginate large collections.
+
+Include:
+- Free rotation, wheel/pinch zoom, and camera presets.
+- Disassembly slider and Shift + wheel control.
+- Independent visibility switches for groups and individual parts.
+- Group opacity, undo, restore all, and reset.
+- Anatomical search, click-to-inspect, focus, isolation, and parent navigation.
+- Anatomical colours, porcelain, wireframe, and transparent modes.
+- Adjustable sagittal, axial, and coronal clipping planes with reverse direction.
+- Labels, automatic exploration, fullscreen, and PNG export.
+- A guided journey from the complete head into the brain and its networks.
+
+Keep hidden structures hidden across layout and material changes. Explain that clipping planes produce open display cuts, not medical scans. Do not invent anatomy or claim clinical validation.
+
+Deliver a standalone HTML containing the application and processed geometry, working offline without a server. Also provide clean source files, pinned dependencies, a lockfile, portable build scripts, an English README, and required licences and attribution. Exclude credentials, local machine paths, dependencies, and unrelated files.
+
+Test geometry integrity, hierarchy membership, visibility, undo, and layout spacing. Inspect the running application in a browser, exercise the controls, check for console errors, and fix visual overlaps before delivering.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098105648106078541) · [Bài đăng gốc](https://x.com/k1rallik/status/2098105648106078541) · [Mã nguồn](https://github.com/bubblik525/head) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098094339759149067"></a>
+
+### Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/8cf187f859ccd777fae30f37aff6e1f48d82220635d35a4a07014ad15e098df1.webp" width="840" loading="lazy" alt="Hoạt hình giả tưởng kiếm sĩ phá hủy cổng thành"></a>
+
+**Prompt**
+
+```text
+Tạo một hoạt hình hành động mô hình trắng dài 12 giây trong Blender, sau đó dùng @PixVerse để chuyển hoạt hình đã xuất thành một phân cảnh phim hoạt hình giả tưởng hoành tráng, mang sắc thái trưởng thành.
+
+Trong Blender, dựng một kiếm sĩ có khớp chuyển động đơn giản, một thanh kiếm và bao kiếm, một nền đá rộng nằm trên cao, cùng một cổng thành khổng lồ với các trụ bao quanh. Sử dụng hình học màu trắng hoặc xám nhạt, kết hợp với ánh sáng cơ bản. Ưu tiên chuyển động dễ đọc, tỷ lệ thuyết phục và sự tương phản mạnh giữa nhân vật nhỏ bé với kiến trúc đồ sộ. Thể hiện sóng năng lượng từ kiếm bằng một hình cong được hoạt ảnh đơn giản, đồng thời chia cổng thành nhiều mảnh để chúng có thể tách rời và rơi xuống rõ ràng.
+
+Bắt đầu với máy quay ở gần kiếm sĩ khi anh ta rút vũ khí và nhanh chóng dồn lực. Khoảng giây thứ hai, tạo một nhát chém cực nhanh và dứt khoát, với lực phát động từ bàn chân, hông, thân mình và cánh tay. Phóng ra một sóng năng lượng hình lưỡi liềm dễ thấy, di chuyển xuyên không gian và đánh trúng cổng thành. Để phần cổng phía trên trượt theo đường chém, mất điểm tựa rồi sụp đổ với gia tốc và khoảnh khắc chạm đất rõ ràng. Sau đòn đánh, cho kiếm sĩ hồi thế tự nhiên, tra kiếm, đứng thẳng và thả lỏng hai tay.
+
+Khi đòn tấn công diễn ra, kéo máy quay lùi ra sau và nâng dần lên trong một chuyển động liên tục, mượt mà. Tiếp tục nâng cao đầy ấn tượng cho đến khi khung hình kết thúc bằng góc nhìn từ trên không cực cao, gần như thẳng đứng, bao quát toàn bộ nền đá và địa hình xung quanh. Nhân vật có thể trở nên quá nhỏ để phân biệt. Duy trì nhịp hành động nhanh và cảm giác quy mô mở rộng mạnh mẽ, thay vì dừng lâu ở tư thế ra đòn. Kiểm tra chuyển động cơ thể, tính liên tục của vũ khí, đường di chuyển của sóng năng lượng, sự sụp đổ của cổng và chuyển động máy quay ở tốc độ phát bình thường.
+
+Xuất video MP4 mô hình trắng sạch, dài 12 giây. Sau đó dùng @PixVerse để tạo video AI dài 12 giây, sử dụng hoạt hình Blender làm tham chiếu tương đối cho bố cục, diễn tiến hành động và chuyển động máy quay đi lên. Giữ nguyên trình tự cốt lõi gồm chuẩn bị, chém, sóng năng lượng di chuyển, phá hủy cổng, tra kiếm và cú lộ cảnh từ trên không cực cao, đồng thời cho phép mở rộng đáng kể về mặt điện ảnh.
+
+Tạo thẩm mỹ phim hoạt hình giả tưởng giàu chất hội họa, kết hợp hình khối biểu cảm, bề mặt vẽ tay, thể tích ba chiều thuyết phục và ánh sáng điện ảnh dịu. Tạo cho kiếm sĩ trưởng thành một dáng hình đặc trưng, áo khoác đỏ rượu vang, giáp tiết chế và vẻ quyết tâm điềm tĩnh. Mở rộng bối cảnh thành một pháo đài núi rộng lớn với tường thành nhiều lớp, tháp, cầu, khe vực sâu và một thành phố trải dài ở phía xa.
+
+Biến sóng năng lượng hình lưỡi liềm từ kiếm thành một sự kiện thị giác chủ đạo. Sóng năng lượng phải chém xuyên qua cổng rồi tiếp tục lao vào các công sự ở xa, tạo ra một chuỗi công trình sụp đổ dễ theo dõi, bụi cuộn mạnh, tia lửa, lửa và sóng xung kích. Khi máy quay đạt độ cao cực lớn, hé lộ toàn bộ đường đi của đòn đánh trên chiến trường, với kiếm sĩ lặng lẽ đứng tại điểm khởi phát. Sử dụng bóng khí quyển lạnh tương phản với năng lượng hổ phách ấm và ánh lửa rải rác. Thêm nhạc điện ảnh nguyên bản cùng âm thanh đồng bộ của kiếm, va chạm, sụp đổ, gió và thành phố vọng từ xa.
+
+Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng AI và dự án Blender có thể chỉnh sửa.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 12-second white-model action animation in Blender, then use @PixVerse to transform the exported animation into a spectacular mature animated fantasy film sequence.
+
+In Blender, build a simple articulated swordsman, a sword and scabbard, a vast elevated stone platform, and one enormous gate with surrounding pillars. Use clean white or light-gray geometry and basic lighting. Prioritize readable action, convincing proportions, and a strong contrast between the small character and monumental architecture. Represent the sword-energy wave with a simple animated curved shape, and divide the gate into pieces that can visibly separate and fall.
+
+Start the camera close to the swordsman as he draws his weapon and briefly gathers force. Around the second second, animate one extremely fast, decisive slash driven by the feet, hips, torso, and arms. Release a visible crescent-shaped sword-energy wave that travels across the space and strikes the gate. Let the upper gate section slide along the cut, lose support, and collapse with clear acceleration and ground contact. After the strike, have the swordsman recover naturally, sheath the sword, straighten up, and relax his arms.
+
+As the attack unfolds, pull the camera backward and upward in a continuous, smooth movement. Keep ascending dramatically until the ending becomes an extremely high, nearly vertical aerial view of the entire platform and surrounding terrain. The character may become too small to distinguish. Maintain fast action and a powerful sense of expanding scale rather than lingering on the attack pose. Check body motion, weapon continuity, the energy wave’s travel, gate collapse, and camera movement at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose reference for composition, action progression, and the rising camera. Preserve the essential sequence of preparation, slash, traveling energy wave, gate destruction, sheathing, and extreme aerial reveal, while allowing substantial cinematic expansion.
+
+Create a mature painterly animated-film aesthetic, combining expressive shapes, hand-painted surfaces, convincing three-dimensional volume, and soft cinematic lighting. Give the adult swordsman a distinctive silhouette, a wine-red coat, restrained armor, and composed determination. Expand the setting into an immense mountain fortress with layered walls, towers, bridges, deep ravines, and a sprawling city beyond.
+
+Make the crescent-shaped sword-energy wave a major visual event. It should cut through the gate and continue into distant fortifications, producing a readable chain of collapsing structures, sweeping dust, sparks, fire, and pressure waves. As the camera reaches extreme altitude, reveal the full path of the attack across the battlefield, with the swordsman standing quietly at its origin. Use cool atmospheric shadows contrasted with warm amber energy and scattered firelight. Include original cinematic music and synchronized sword, impact, collapse, wind, and distant city sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098094339759149067) · [Bài đăng gốc](https://x.com/PixVerse/status/2098094339759149067) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098079379297608050"></a>
+
+### Tàu con thoi mô hình trắng bay qua hẻm núi đô thị
+
+[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/fb62923c0a12f233e640a7b0ca3338732a39186d9c99168ef4e14b3248ae21a4.webp" width="840" loading="lazy" alt="Tàu con thoi mô hình trắng bay qua hẻm núi đô thị"></a>
+
+**Prompt**
+
+```text
+Tạo một cảnh tàu con thoi mô hình trắng bay trong 10 giây, quay một mạch, bằng Blender. Dựng một tàu con thoi nguyên bản và một hẻm núi đô thị dày đặc kéo dài vài kilômét. Hoạt ảnh hóa chuyến bay thẳng về phía trước với tốc độ cực cao dọc theo một lộ trình dài, vượt qua hơn hai kilômét mà không giảm tốc. Luồn qua các khoảng hẹp và bay dưới cầu, thay đổi độ cao, đồng thời thực hiện hai vòng lộn ngang mượt theo hai hướng ngược nhau. Làm cho tốc độ trở nên không thể nhầm lẫn: các tòa nhà gần đó kéo vệt ra phía sau, cầu vụt qua phía trên và các công trình tiền cảnh nhanh chóng quét khỏi mép khung hình. Sử dụng nhòe chuyển động định hướng mạnh cho môi trường nhưng vẫn giữ tàu con thoi rõ nét. Chướng ngại vật dày đặc, các pha lướt sát và hiệu ứng thị sai mạnh từ tiền cảnh đến hậu cảnh phải truyền tải cảm giác bay hết tốc lực liên tục. Dùng camera bám đuổi góc rộng, chuyển động mượt, đặt gần phía sau và hơi cao hơn tàu con thoi, lao về phía trước với tốc độ tương đương. Giữ mũi tàu hướng vào thành phố và động cơ hướng về phía camera. Không cắt cảnh, không rung camera, không lộn ngang bằng camera, không quay chậm và không giảm tốc ở đoạn kết. Kiểm tra khoảng hở, tính liên tục của chuyển động và cảm giác tốc độ ở tốc độ phát bình thường. Dùng PixVerse để kết xuất hoạt ảnh mô hình trắng cuối cùng từ các tham chiếu Blender, giữ nguyên tốc độ cực cao, đường bay và chuyển động camera. Bàn giao tệp MP4 cuối cùng, dự án Blender có thể chỉnh sửa và ghi chú ngắn về các hạn chế.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 10-second, single-take white-model shuttle flight in Blender. Build an original shuttle and a dense city canyon stretching several kilometers. Animate extremely fast forward flight along an extended route, covering over two kilometers without slowing down. Weave through narrow gaps and under bridges, change altitude, and perform two smooth barrel rolls in opposite directions. Make the speed unmistakable: nearby buildings streak backward, bridges whip overhead, and foreground structures rapidly sweep past the frame edges. Use strong directional motion blur on the environment while keeping the shuttle readable. Dense obstacles, close passes, and strong foreground-to-background parallax should convey sustained, full-throttle flight. Use a smooth wide-angle chase camera close behind and slightly above the shuttle, racing forward at matching speed. Keep the nose pointing into the city and the engines facing the camera. No cuts, camera shake, camera barrel rolls, slow motion, or deceleration at the ending. Test clearance, motion continuity, and the sense of speed at normal playback. Use PixVerse to render the final white-model animation from Blender references, preserving the extreme speed, flight path, and camera movement. Deliver the final MP4, editable Blender project, and brief notes on limitations.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098079379297608050) · [Bài đăng gốc](https://x.com/PixVerseCreator/status/2098079379297608050) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098071577309122854"></a>
+
+### Hoạt ảnh học viện phép thuật bay lơ lửng
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/36a241be384820d5cea3c337fbd4bafeb7f5410f7ffbe11d0cead98d05b1d821.webp" width="840" loading="lazy" alt="Hoạt ảnh học viện phép thuật bay lơ lửng"></a>
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh mô hình trắng dài 12 giây, quay bằng một cú máy liên tục trong Blender, sau đó dùng @PixVerse để biến hoạt ảnh đã xuất thành một phân cảnh phim fantasy người đóng ngoạn mục.
+
+Trong Blender, dựng một cổng vào đồ sộ, một khí cụ thiên văn xoay và một học viện phép thuật bay lơ lửng rộng lớn. Sử dụng hình học đơn giản màu trắng hoặc xám nhạt, với silhouette dễ nhận biết và ánh sáng cơ bản. Khi bắt đầu, hiển thị toàn bộ cánh cửa ra vào, với những bức tường kiên cố bao quanh và che kín hoàn toàn thế giới phía sau. Tạo một lỗ khóa nhỏ với tỷ lệ chân thực. Phía bên kia cổng vào, bố trí một lâu đài lớn ở trung tâm, các tòa tháp, những đảo bay nhỏ hơn và các cây cầu kết nối. Làm nổi bật quy mô kiến trúc ấn tượng cùng khoảng cách rộng rãi giữa các công trình.
+
+Bắt đầu bằng chuyển động tiến chậm về phía cánh cửa, sau đó tăng tốc mạnh và bay liên tục xuyên qua lỗ khóa. Tạo hoạt ảnh cho một chiếc chìa khóa bay lơ lửng, xoay rồi dịch sang một bên trước khi camera đi qua. Tiếp tục bay qua các vòng thiên văn xoay nhanh, hé lộ học viện bay lơ lửng, rồi chuyển thành một vòng orbit mượt quanh quần thể kiến trúc. Để các đảo gần đó nhanh chóng nâng lên và các đoạn cầu xoay vào đúng vị trí. Giữ cho chuyển động của vật thể mạnh mẽ và dứt khoát. Vòng orbit phải diễn ra liên tục, thay đổi tốc độ mượt mà và không lặp lại các khoảng dừng. Kiểm tra lối đi qua lỗ khóa, khoảng hở của camera, tính liên tục không gian và chuyển động ở tốc độ phát bình thường.
+
+Xuất video MP4 mô hình trắng dài 12 giây, không có tạp chất. Sau đó dùng @PixVerse để tạo video AI dài 12 giây, sử dụng hoạt ảnh Blender làm tham chiếu tương đối về cấu trúc và chuyển động. Giữ lại diễn tiến dễ nhận biết từ cảnh tiến đến cánh cửa, đi qua lỗ khóa, xuất hiện khí cụ thiên văn, hé lộ học viện và chuyển sang orbit; đồng thời tự do làm phong phú thế giới và cách dàn dựng điện ảnh.
+
+Biến học viện thành một thành phố bay lơ lửng cổ đại, khổng lồ: một lâu đài trung tâm bao quanh bởi các khu phố, thư viện, đài quan sát, sân trong, những tầng mái xếp lớp, các cây cầu đá khổng lồ và thác nước đổ xuống mây. Mở rộng khung cảnh xung quanh với các thung lũng phủ rừng, hồ nước, núi non phía xa và thêm nhiều đảo bay. Thêm những người đi bộ nhỏ bé, tàu bay, cờ chuyển động, chim chóc và các hoạt động trong không khí để thể hiện quy mô. Trong đoạn orbit về sau, để một con rồng khổng lồ xuất hiện từ những đám mây phía sau học viện và lướt qua các tòa tháp, tạo bóng đổ chuyển động phủ lên thành phố.
+
+Hướng đến độ phong phú như một bộ phim fantasy người đóng quy mô lớn, với vật liệu phong hóa, ánh nắng vàng dịu xuyên qua những đám mây lạnh màu, chiều sâu không khí tự nhiên và các điểm sáng nhiếp ảnh nhẹ nhàng. Thêm nhạc giao hưởng nguyên bản cùng âm thanh môi trường và âm thanh hành động được đồng bộ.
+
+Bàn giao video MP4 mô hình trắng, video MP4 do PixVerse kết xuất bằng AI và dự án Blender có thể chỉnh sửa.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 12-second, single-take white-model animation in Blender, then use @PixVerse to transform the exported animation into a spectacular live-action fantasy film sequence.
+
+In Blender, build a monumental entrance, a rotating astronomical instrument, and a vast floating magical academy. Use simple white or light-gray geometry with readable silhouettes and basic lighting. Show the complete entrance door at the beginning, with solid walls surrounding it and fully concealing the world behind it. Give the door a realistically proportioned small keyhole. Beyond the entrance, arrange a large central castle, towers, smaller floating islands, and connecting bridges. Establish an impressive architectural scale and generous distances between structures.
+
+Begin with a slow approach toward the door, then accelerate sharply and fly continuously through the keyhole. Animate a floating key turning and moving aside before the camera passes. Continue through rapidly rotating astronomical rings, reveal the floating academy, and transition into a smooth orbit around the architecture. Let nearby islands rise quickly and bridge sections rotate into place. Keep object movements energetic and decisive. The orbit should flow continuously, with smooth changes in speed and no repeated pauses. Check the keyhole passage, camera clearance, spatial continuity, and motion at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose structural and motion reference. Preserve the recognizable progression from door approach to keyhole passage, astronomical instrument, academy reveal, and orbit, while freely enriching the world and cinematic staging.
+
+Turn the academy into an immense, ancient floating city: a central castle surrounded by districts, libraries, observatories, courtyards, layered rooftops, enormous stone bridges, and waterfalls plunging into clouds. Extend the surroundings into forested valleys, lakes, distant mountains, and additional floating islands. Add tiny pedestrians, flying vessels, moving flags, birds, and atmospheric activity to communicate scale. During the later orbit, let an enormous dragon emerge from clouds behind the academy and glide past the towers, casting a moving shadow over the city.
+
+Aim for the richness of a live-action fantasy feature film, with weathered materials, soft golden sunlight breaking through cool clouds, natural atmospheric depth, and gentle photographic highlights. Include original orchestral music and synchronized environmental and action sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098071577309122854) · [Bài đăng gốc](https://x.com/PixVerse/status/2098071577309122854) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098063352832610473"></a>
+
+### Nhịp đập thành phố
+
+[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/671137468943e22cd21c2d6b26bb8ac516a4ac1c6c632962514453836a984d59.webp" width="840" loading="lazy" alt="Nhịp đập thành phố"></a>
+
+**Prompt**
+
+```text
+# Xây dựng "Nhịp đập thành phố": bản đồ dữ liệu 3D tương tác về hoạt động taxi tại Thành phố New York (tháng 1 năm 2025)
+
+## Mục tiêu
+Một hình thức trực quan hóa web một trang bằng tiếng Anh, cho thấy nhịp chuyển động của New York trong một tháng:
+31 ngày, 24 giờ, 263 khu vực taxi. Người xem có thể theo dõi nhịp sinh hoạt hằng ngày của thành phố,
+so sánh bất kỳ ngày nào với một ngày thường hoặc cuối tuần điển hình, đồng thời xem chi tiết từng khu vực.
+Đây là công cụ phân tích mô tả, không phải sản phẩm thời gian thực hay GPS. Mọi hình ảnh trực quan phải nêu rõ một dấu hiệu đại diện cho điều gì.
+
+## Dữ liệu
+Nguồn (công khai):
+- Dữ liệu chuyến đi NYC TLC, Taxi vàng, tháng 1 năm 2025 (parquet)
+- Khu vực taxi NYC TLC (263 khu vực, hình dạng + tra cứu quận)
+- Dấu chân tòa nhà từ NYC Open Data (chỉ Manhattan, dùng làm bối cảnh trực quan)
+
+Tiền xử lý (Python + DuckDB hoặc pandas), xuất ra các tệp JSON tĩnh có dung lượng nhỏ:
+- Lọc các chuyến đi không hợp lệ: đón khách ngoài tháng 1 năm 2025, thời lượng không dương hoặc dài hơn 3 giờ, khu vực không xác định (264/265).
+- Theo từng ngày, khu vực và giờ: số lượt đón khách, thời lượng chuyến đi trung vị.
+- Theo từng ngày và giờ: các cặp khu vực điểm đi → điểm đến hàng đầu (luồng đã tổng hợp, lấy N cặp hàng đầu mỗi giờ).
+- Mức trung bình tham chiếu theo khu vực-giờ: trung bình ngày thường (23 ngày) và cuối tuần (8 ngày), tính trung bình theo ngày; các ngày lễ vẫn được xếp vào nhóm ngày thường.
+- Thang đo cố định cho cả tháng: số lượt đón khách cao nhất theo khu vực-giờ, dùng cho mọi ngày để chiều cao luôn có thể so sánh.
+- Siêu dữ liệu khu vực: id, tên, quận, tâm khu vực, điểm neo nhãn. Đơn giản hóa hình học khu vực.
+Tệp: month.json (tổng theo ngày, thang đo, các khu vực hàng đầu), weekday.json, weekend.json, days/2025-01-DD.json, geojson khu vực.
+Tải dữ liệu của ngày hiện tại theo kiểu trì hoãn; ưu tiên hiển thị lần đầu nhanh.
+
+## Công nghệ
+- Một tệp HTML độc lập (hoặc ứng dụng Vite nhỏ) với Three.js 0.160 (ES modules qua importmap), OrbitControls, EffectComposer + bloom.
+- Chỉ dùng D3 cho thang đo, định dạng và các biểu đồ SVG nhỏ.
+- Không bắt buộc dùng framework. Không gọi API bên ngoài khi chạy; mọi dữ liệu đều đọc từ JSON tĩnh.
+
+## Bố cục (màn hình desktop 1920×1080 phải hiển thị vừa một màn hình, không cần cuộn)
+1. Tiêu đề: "CITY PULSE / MOBILITY ATLAS", trạng thái "Phát lại dữ liệu", liên kết "Dữ liệu & phương pháp".
+2. Hàng trạng thái: "Một thành phố đang chuyển động." + ba KPI: số lượt đón khách toàn thành phố (giờ được chọn), so với mức trung bình đối chiếu, thời lượng chuyến đi trung vị.
+3. Dải tháng: 31 nút ngày dạng thanh mini (chiều cao thanh = số lượt đón khách trong ngày, đánh dấu cuối tuần), nút ngày trước/ngày sau, chọn ngày, lựa chọn "So sánh với" (Trung bình ngày thường · 23 ngày / Trung bình cuối tuần · 8 ngày).
+4. Thanh câu chuyện: "Mọi chuyển động đều để lại một mô thức." với 4 chương (01 Theo dõi, 02 Mở ra, 03 So sánh, 04 Chia sẻ) và nút "Bắt đầu câu chuyện".
+5. Tab chế độ xem: 01 Kết nối, 02 Khối lượng thành phố, 03 Mở 24 giờ, 04 Thành phố bóng ma, cùng với "Chia sẻ phát hiện" và "Tạo bản tóm tắt".
+6. Khu vực làm việc: sân khấu bản đồ 3D (bên trái) + bảng kiểm tra Thông tin địa điểm (bên phải, khoảng 330px, cuộn nội bộ).
+7. Dòng thời gian: Phát ngày, tốc độ (0.25×–4×), thanh tua theo giờ đặt trên biểu đồ thanh 24 giờ của ngày được chọn so với mức trung bình.
+Chiều cao sân khấu bản đồ phải thích ứng với khung nhìn (giới hạn trong khoảng ~470px đến ~780px) để toàn bộ bảng điều khiển, bao gồm dòng thời gian, hiển thị được ở mức thu phóng 100%.
+
+## Cảnh 3D
+- Mặt nền tối, đường viền khu vực là các đường mảnh, dấu chân tòa nhà Manhattan là bối cảnh thực tế mờ.
+- Camera: phối cảnh, xoay quanh + thu phóng, có nút căn giữa lại. Giữ nguyên camera của người dùng khi chuyển chế độ xem, ngoại trừ "Mở 24 giờ", chế độ này luôn căn lại khung để hiển thị toàn bộ ma trận.
+- Rê chuột lên một khu vực: hiển thị tooltip với tên và số lượt đón khách. Nhấp vào một khu vực: chọn khu vực đó (cập nhật bảng kiểm tra và các luồng).
+
+Các chế độ xem (mỗi lần chuyển đều có hoạt ảnh, không chuyển cảnh đột ngột):
+- 01 Kết nối: các chuyến đi giữa các khu vực đã tổng hợp được hiển thị dưới dạng cung phát sáng với các hạt sáng chuyển động; mật độ hạt ∝ số chuyến đi; gắn nhãn cho luồng nổi bật ("TỪ / Midtown Center → ĐẾN / Upper East Side North, 71 chuyến / 18:00"). Chú thích: "Chuyến đi giữa các khu vực đã ghi nhận · chuyển động sơ đồ. Không phải GPS."
+- 02 Khối lượng thành phố: đùn từng khu vực; chiều cao = số lượt đón khách theo thang đo cố định của tháng; khu vực được chọn được làm nổi bật.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+# Build "City Pulse": an interactive 3D mobility atlas of New York City taxi activity (January 2025)
+
+## Goal
+A single-page, English-language web visualization that shows how New York moves across one month:
+31 days, 24 hours, 263 taxi zones. The reader should be able to watch the city's daily rhythm,
+compare any day against a typical weekday or weekend, and inspect any zone in detail.
+It is a descriptive analysis tool, not a real-time or GPS product. Every visual must state what one mark represents.
+
+## Data
+Sources (public):
+- NYC TLC Trip Record Data, Yellow Taxi, January 2025 (parquet)
+- NYC TLC Taxi Zones (263 zones, shapes + borough lookup)
+- NYC Open Data building footprints (Manhattan only, as visual context)
+
+Preprocessing (Python + DuckDB or pandas), output small static JSON files:
+- Filter invalid trips: pickup outside Jan 2025, non-positive or > 3h duration, unknown zones (264/265).
+- Per day, per zone, per hour: pickup count, median trip duration.
+- Per day, per hour: top origin → destination zone pairs (aggregated flows, top N per hour).
+- Reference averages per zone-hour: weekday average (23 days) and weekend average (8 days), per-day means, holidays kept in the weekday group.
+- Month-level fixed scale: max zone-hour pickups, used for every day so heights stay comparable.
+- Zone metadata: id, name, borough, centroid, label anchor. Simplify zone geometry.
+Files: month.json (daily totals, scale, top zones), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
+Load the current day lazily; keep the first paint fast.
+
+## Stack
+- One self-contained HTML file (or small Vite app) with Three.js 0.160 (ES modules via importmap), OrbitControls, EffectComposer + bloom.
+- D3 only for scales/formatting and small SVG charts.
+- No framework required. No external API calls at runtime; everything reads the static JSON.
+
+## Layout (desktop 1920×1080 must fit in one screen without scrolling)
+1. Header: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" status, "Data & methods" link.
+2. Status row: "A city, in motion." + three KPIs: citywide pickups (selected hour), vs. comparison average, median trip time.
+3. Month strip: 31 day buttons as mini bars (bar height = daily pickups, weekends marked), prev/next day, date select, "Compare with" select (Weekday average · 23 days / Weekend average · 8 days).
+4. Story bar: "Every movement leaves a pattern." with 4 chapters (01 Watch, 02 Unfold, 03 Compare, 04 Share) and "Start the story".
+5. View tabs: 01 Connections, 02 Volume city, 03 Unfold 24h, 04 Ghost city, plus "Share finding" and "Create briefing".
+6. Workspace: 3D map stage (left) + Location Insight inspector (right, ~330px, scrolls internally).
+7. Timeline: Play day, speed (0.25×–4×), hour scrubber over a 24-hour bar chart of the selected day vs. average.
+Map stage height must adapt to the viewport (clamp between ~470px and ~780px) so the whole console, including the timeline, is visible at 100% zoom.
+
+## 3D scene
+- Dark ground, zone outlines as thin lines, Manhattan building footprints as faint real-world context.
+- Camera: perspective, orbit + zoom, a recenter button. Keep the user's camera when switching views, except "Unfold 24h", which always reframes to show the whole matrix.
+- Hover a zone: tooltip with name and pickups. Click a zone: select it (updates inspector and flows).
+
+Views (each switch animates, no hard pops):
+- 01 Connections: aggregated zone-to-zone trips as glowing arcs with moving light particles; particle density ∝ trips; label the featured flow ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Caption: "Recorded zone-to-zone trips · schematic motion. Not GPS."
+- 02 Volume city: each zone extruded; height = pickups on the fixed monthly scale; selected zone highlighted.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098063352832610473) · [Bài đăng gốc](https://x.com/tableau_viz/status/2098063352832610473) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098049032195293190"></a>
+
+### Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/be13e0d4ad47b5adc703986ff06c40b3da5a9fbca659046ccfae3614f618320b.webp" width="840" loading="lazy" alt="Quy trình dựng cảnh rượt đuổi ô tô hoạt hình lấy cảm hứng từ GTA"></a>
+
+**Prompt**
+
+```text
+Tạo một cảnh rượt đuổi ô tô hoạt hình nguyên bản lấy cảm hứng từ GTA bằng quy trình này:
+Thiết kế: Xác định một tài xế chính, một ô tô chạy trốn, một ô tô truy đuổi và một môi trường đô thị. Giữ thiết kế của các đối tượng nhất quán. Lên kế hoạch cho ba cảnh quay dài 4 giây: cảnh truy đuổi bám theo từ phía sau, cảnh bám theo từ bên hông khi qua một khúc cua gấp và cảnh toàn rộng khi thoát khỏi khu vực.
+Dựng trong Blender: Tạo mô hình màu xám gọn gàng cùng rig nhân vật và phương tiện có thể hoạt động. Không cần tạo kết cấu bề mặt hoặc mở UV.
+Diễn hoạt và kiểm tra: Diễn hoạt tài xế, thao tác đánh lái, chuyển động quay của bánh xe, các phương tiện và camera. Duy trì hướng di chuyển cũng như thứ tự các phương tiện nhất quán. Sửa các lỗi xuyên mesh, bánh xe bị lơ lửng, lốp trượt, tư thế bị hỏng và tình trạng tay mất tiếp xúc với vô lăng.
+Render trong Blender: Render các khung hình 1–288 ở độ phân giải 1280×720, 24 fps. Ghép các khung hình thực sự được render từ Blender thành video master mô hình màu xám hoàn chỉnh dài 12 giây. Xuất riêng từng cảnh quay và render các khung hình tĩnh màu xám tương ứng để làm tham chiếu hình dạng và bố cục.
+Hoàn thiện bằng plugin [@PixVerse](plugin://pixverse@openai-curated-remote): Sử dụng Seedance 2.5 ở 720p, xử lý riêng từng cảnh quay. Dùng các đoạn clip từ Blender làm tham chiếu chuyển động và các khung hình tĩnh màu xám làm tham chiếu hình dạng. Xác định một bảng màu hoạt hình nhất quán trong prompt tạo ảnh. Giữ nguyên chuyển động camera, nhịp điệu hành động, thiết kế nhân vật và phương tiện, cũng như số lượng phương tiện.
+Kiểm tra và bàn giao: Kiểm tra cả hai video hoàn chỉnh để phát hiện lỗi hình ảnh và vấn đề liên tục. Sửa các lỗi trong Blender và chỉ tạo lại những cảnh Seedance bị lỗi, tối đa hai lần thử lại cho mỗi cảnh. Bàn giao tệp .blend có thể chỉnh sửa, video mô hình màu xám 720p gốc từ Blender, phiên bản Seedance 720p có nhãn riêng cho từng cảnh và bản đánh giá ngắn về những hạn chế còn lại.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create an original GTA-inspired cartoon car chase using this workflow:
+Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot.
+Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required.
+Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel.
+Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references.
+Finish with [@PixVerse](plugin://pixverse@openai-curated-remote) Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count.
+Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098049032195293190) · [Bài đăng gốc](https://x.com/PixVerse/status/2098049032195293190) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098043033446912315"></a>
+
+### Đàn mực tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-10 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/e75365c0d5394d6f38e8113afc4ec791456e5e46799814200ba48f679ad4be86.webp" width="840" loading="lazy" alt="Đàn mực tương tác"></a>
+
+**Prompt**
+
+```text
+tạo một đàn mực tương tác
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+create an interactive squid shoal
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098043033446912315) · [Bài đăng gốc](https://x.com/vib3coded/status/2098043033446912315) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098038909514944562"></a>
+
+### Tăng độ thử thách cho sân golf 18 hố
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/6c08365ca5db7b55f666bd46e4f46f4e0b5f28a36cc57cbc152cbe9f0978ee7d.webp" width="840" loading="lazy" alt="Tăng độ thử thách cho sân golf 18 hố"></a>
+
+**Prompt**
+
+```text
+Tăng độ thử thách cho mọi hố
+>Chia cắt các fairway thẳng
+>Thêm hố cát và chướng ngại vật táo bạo hơn
+>Tạo thêm nhiều lựa chọn đánh bóng có ý nghĩa
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Make every hole more demanding
+>Break up the straight fairways
+>Add bolder bunkers + hazards
+>Build more meaningful shot choices
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098038909514944562) · [Bài đăng gốc](https://x.com/Ror_Fly/status/2098038909514944562) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
+
+### Mosswing: Game 3D mobile chạm để vỗ cánh
+
+[Ayi1337](https://github.com/Ayi1337) · 2026-09-10 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/6785692e613325d845661924a28011ea02f5ee6ef33ca664d20f81f2ae38fdec.webp" width="840" loading="lazy" alt="Mosswing: Game 3D mobile chạm để vỗ cánh"></a>
+
+**Prompt**
+
+```text
+Làm mới game kinh điển “chạm để vỗ cánh” — game mà bạn chạm để giữ một sinh vật nhỏ bay trên không khi lướt qua chuỗi khoảng trống bất tận — thành một game 3D có thể chơi trên trình duyệt di động. Chỉ cần một index.html, mở lên là chơi ngay, không dùng tài nguyên bên ngoài (được phép dùng thư viện CDN; tùy bạn quyết định). Giữ nguyên cốt lõi như mọi người vẫn nhớ: điều khiển một chạm, trọng lực, các khoảng trống cuộn về phía người chơi, va chạm một lần là kết thúc, điểm số tính theo số khoảng trống đã vượt qua. Mọi yếu tố khác tùy bạn quyết định: sinh vật là gì, chướng ngại vật ra sao, thế giới, camera, cảm giác khi vỗ cánh và mức độ đầu tư cho phần hình ảnh. Hãy thiết kế một nhân vật và phong cách nguyên bản thay vì sao chép hình ảnh của bản gốc. Tôi sẽ không trả lời câu hỏi làm rõ. Tôi đánh giá một sản phẩm hoàn chỉnh, tinh tế và tạo cảm giác chơi tốt — không phải một danh sách tính năng. Nhỏ nhưng hoàn thiện vẫn tốt hơn lớn mà sơ sài.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Remaster the classic "tap-to-flap" game — the one where you tap to keep a small creature airborne while gliding through an endless series of gaps — as a 3D game playable in a mobile browser. One index.html, opens and plays instantly, no external assets (CDN libraries are allowed; your call).  Keep the core exactly as everyone remembers it: one-tap control, gravity, gaps that scroll toward you, one hit and you're done, score is gaps passed. Everything else is yours to decide: what the creature is, what the obstacles are, the world, the camera, the feel of the flap, how far to take the visuals. Design an original character and style rather than copying the original's art. I won't answer clarifying questions.  I'm judging a complete, elegant, great-feeling piece of work — not a feature list. Small and finished beats big and rough.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Bài đăng gốc](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Mã nguồn](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Bản demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097900087901106244"></a>
+
+### Video ngắn 3D không lời: Mèo và nút thưởng
+
+[AI実践ラボ](https://x.com/boboga777) · 2026-09-10 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/92c32613ae2b3c859ba424f99071a6eac6c05a87e445d48ee321d3a160a07237.webp" width="840" loading="lazy" alt="Video ngắn 3D không lời: Mèo và nút thưởng"></a>
+
+**Prompt**
+
+```text
+Tạo một video ngắn 3D không lời về một chú mèo: chỉ một nút thưởng, hỗn loạn tột độ và một cú chốt nho nhỏ. Thêm diễn xuất giàu biểu cảm, chuyển động máy quay, âm nhạc và vòng lặp.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add expressive acting, camera moves, music and a loop.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097900087901106244) · [Bài đăng gốc](https://x.com/boboga777/status/2097900087901106244) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097821164093480999"></a>
 
 ### Bản demo đồ họa fantasy tương tác
@@ -2328,293 +2942,6 @@ Tái dựng phòng trẻ em kiêm nơi làm việc từ bốn ảnh chụp ở c
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Bài đăng gốc](https://x.com/dqlh47m/status/2096578684010508736) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="steam-locomotive-across-the-countryside-2096577430274429157"></a>
-
-### Đầu máy hơi nước chạy qua miền quê
-
-[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp" width="840" loading="lazy" alt="Đầu máy hơi nước chạy qua miền quê"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng đầu máy hơi nước bằng Three.js và tạo hoạt cảnh chạy qua khung cảnh miền quê. Đồng bộ chuyển động bánh xe với chuyển động của đoàn tàu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Bài đăng gốc](https://x.com/dansanburu/status/2096577430274429157) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="a-house-modeled-from-scratch-in-blender-2096576154337734865"></a>
-
-### Dựng một ngôi nhà từ đầu trong Blender
-
-[みずくん](https://x.com/mizkun) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/346d92a550603016457fa5c8c7309856edfe8bff51fa3c77475b25b27d6c80ae.webp" width="840" loading="lazy" alt="Dựng một ngôi nhà từ đầu trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng mô hình một ngôi nhà từ đầu trong Blender. Giữ cảnh ở dạng có thể chỉnh sửa để tiếp tục kiểm tra và hoàn thiện công trình qua các lần lặp sau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Bài đăng gốc](https://x.com/mizkun/status/2096576154337734865) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="the-quiet-crossing-exploration-quest-2096574297703637111"></a>
-
-### Nhiệm vụ khám phá The Quiet Crossing
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/2bf4d5da0fcb675294f65b4db9a4f86da2f2f9c6b8923c3d11e1b991ad0f7839.webp" width="840" loading="lazy" alt="Nhiệm vụ khám phá The Quiet Crossing"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng trò chơi khám phá vùng tuyết bằng Three.js với nhân vật dựng trong Blender, cây thông voxel và cổng dịch chuyển bằng đá. Cho người chơi thu thập sáu mảnh phát sáng, để camera theo chân nhân vật và hiển thị khoảng cách tới cổng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Bài đăng gốc](https://x.com/Motion_Viz/status/2096574297703637111) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="indian-mango-tree-in-speedtree-2096572429066006845"></a>
-
-### Cây xoài Ấn Độ trong SpeedTree
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/327cfb97d273bfb139d4b96a16ecf3f6d5be5fa85e33b5e43c7eb7a78f7d3f89.webp" width="840" loading="lazy" alt="Cây xoài Ấn Độ trong SpeedTree"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo cây xoài Ấn Độ trong SpeedTree cho một cảnh Unreal hướng tới 60 FPS. Tạo vật liệu lá và vỏ cây, kiểm tra diện mạo trước khi hoàn thiện mô hình.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Bài đăng gốc](https://x.com/waitin4agi_/status/2096572429066006845) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-lorenz-attractor-2096572156453028193"></a>
-
-### Tập hút Lorenz tương tác
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/fca1d41314709e1d755d899fb81edf769d909a209093c5ec094b985e27e4c46e.webp" width="840" loading="lazy" alt="Tập hút Lorenz tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Trực quan hóa hai quỹ đạo của hệ Lorenz có vị trí ban đầu chênh nhau rất nhỏ. Cho người xem điều chỉnh độ chênh và tua qua các thời điểm, đồng thời phân biệt việc kiểm tra bằng tính toán số với dự đoán dài hạn chính xác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Bài đăng gốc](https://x.com/juyeam/status/2096572156453028193) · [Bản demo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="low-poly-beach-treasure-hunt-2096570815714414844"></a>
-
-### Săn kho báu trên bãi biển low-poly
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/53eb3de661c3961054e87a9bc6566587c5cb1feec8ea01eaea8958cfb5b29752.webp" width="840" loading="lazy" alt="Săn kho báu trên bãi biển low-poly"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng trò chơi săn kho báu 3D có thể chơi được trên bãi biển trong Unity. Dựng cây cọ và sàn gỗ low-poly, đồng thời hoàn thiện vòng lặp khám phá và tìm kho báu cốt lõi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Bài đăng gốc](https://x.com/sorano_concon_g/status/2096570815714414844) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
-
-### Từ phác thảo căn hộ đến ảnh nội thất kết xuất
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="Từ phác thảo căn hộ đến ảnh nội thất kết xuất"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Kết hợp ảnh tham khảo căn hộ với bản phác mặt bằng đơn giản để tái dựng nội thất trong Blender. Bàn giao cảnh có thể chỉnh sửa, ảnh kết xuất từng phòng và video tham quan ngắn đã biên tập.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Bài đăng gốc](https://x.com/WorldEverett/status/2096566686266597754) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
-
-### Áp dụng texture và gắn xương cho nhân vật Tripo
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Áp dụng texture và gắn xương cho nhân vật Tripo"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Đưa nhân vật Tripo Smart Mesh vào Blender. Áp dụng bộ texture của nhân vật và xây dựng bộ xương cơ thể có thể sử dụng được trước khi chuyển sang biểu cảm khuôn mặt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Bài đăng gốc](https://x.com/chimerast/status/2096566598689783878) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096562462674079868"></a>
-
-### Mô phỏng vụ nổ hạt nhân trong thành phố 3D
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="Mô phỏng vụ nổ hạt nhân trong thành phố 3D"></a>
-
-**Prompt**
-
-```text
-Tạo bản demo vụ nổ hạt nhân với thành phố 3D, chớp sáng hạt nhân, sóng xung kích lan rộng, cầu lửa, khói và các tòa nhà lần lượt nứt vỡ, sụp đổ khi vụ nổ lan tới.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096562462674079868) · [Bài đăng gốc](https://x.com/ashishthakur___/status/2096562462674079868) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
-
-### Cảnh máy hát đĩa than trên bàn
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="Cảnh máy hát đĩa than trên bàn"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng cảnh máy hát đĩa than đặt trên bàn bằng Three.js. Dàn dựng như một màn giới thiệu sản phẩm, với đèn bật sáng và camera cho thấy máy hát cùng đồ nội thất xung quanh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Bài đăng gốc](https://x.com/niteshseram/status/2096561346766877106) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
-
-### Mô hình Blender kết hợp hiệu ứng Unity VFX
-
-[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="Mô hình Blender kết hợp hiệu ứng Unity VFX"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo các mô hình cho cảnh trong Blender rồi nhập vào Unity. Thêm hiệu ứng bằng VFX Graph và bố trí ánh sáng để mô hình cùng hiệu ứng đều thể hiện rõ khi xuất hiện chung.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Bài đăng gốc](https://x.com/CST_negi/status/2096560142871658589) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
-
-### Từ logo 2D đến nhân vật chuyển động
-
-[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="Từ logo 2D đến nhân vật chuyển động"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Chuyển logo nhân vật 2D được cung cấp thành phiên bản 3D có hoạt ảnh. Giữ các đặc điểm nhận diện của nhân vật khi bổ sung hình khối và chuyển động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Bài đăng gốc](https://x.com/anthonyriera/status/2096559197999501724) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
-
-### Mô hình Seoul thu nhỏ có thể khám phá
-
-[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="Mô hình Seoul thu nhỏ có thể khám phá"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng mô hình Seoul thu nhỏ bằng Three.js từ dữ liệu bản đồ mở. Thêm điều hướng theo quận, cảnh bay qua các địa danh, chế độ ngày và đêm cùng điều khiển cảm ứng. Nêu rõ những tòa nhà đã được đơn giản hóa, chiều cao ước tính và giấy phép dữ liệu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Bài đăng gốc](https://x.com/synabreu/status/2096557555086725159) · [Bản demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
-
-### Trò chơi đua rally Unity chơi được trên điện thoại
-
-[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="Trò chơi đua rally Unity chơi được trên điện thoại"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng bản mẫu lái xe rally bằng Codex, Blender và Unity. Chuẩn bị tài nguyên 3D và cách điều khiển để thử chơi trên điện thoại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Bài đăng gốc](https://x.com/kevinkern/status/2096556692842348826) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

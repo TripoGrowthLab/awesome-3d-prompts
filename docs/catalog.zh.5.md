@@ -28,6 +28,20 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [完整起降流程的浏览器飞行模拟器](#gpt-6-astra-2096236137266512181)
+- [程序化拿破仑半身像](#procedural-napoleon-bust-2096234355395903672)
+- [铁路车站大厅](#railway-station-concourse-2096226711222546461)
+- [轨道交会对接模拟](#orbital-rendezvous-simulator-2096225621303042258)
+- [动画引导微缩场景](#animated-onboarding-diorama-2096222790894661841)
+- [可拆解的人体解剖模型](#exploded-interactive-human-anatomy-2096221988763173186)
+- [困在立方体中的风暴](#a-storm-trapped-in-a-cube-2096220264413409648)
+- [带自制 3D 资产的 Roblox 卡丁车游戏](#gpt-6-astra-2096219700879331665)
+- [骑自行车的鹈鹕互动场景](#gpt-6-astra-2096213850383331489)
+- [OX Vice Drive 开放城市驾驶](#ox-vice-drive-open-city-racer-2096206082712768897)
+- [幼儿玩具互动世界](#a-playful-toddler-toy-world-2096201415051911597)
+- [参考图转拖船模型](#reference-image-tugboat-assembly-2096180220839760375)
+- [响应式 WebGL 角色 Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
+- [咖啡杯里的海洋生命](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [从鱼缸到海洋的鱼类生存游戏](#gpt-6-astra-2096156244180664627)
 - [Dropzone 大逃杀竞技场](#dropzone-battle-royale-arena-2096155883122413946)
 - [浏览器飞行游戏](#browser-flight-game-2096149823216898445)
@@ -64,22 +78,481 @@
 - [TP-7 录音机参考建模](#tp-7-recorder-reference-model-2096013228090245181)
 - [特斯拉 Model X 爆炸视图](#tesla-model-x-exploded-view-2096009146248122416)
 - [可点击弹跳的 WebGPU 果冻](#bouncy-webgpu-jelly-2096008241104711698)
-- [Roblox 动漫竞技格斗](#anime-arena-fighter-in-roblox-2095999578419929412)
-- [平面图与 3D 漫游联动](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
-- [浏览器交互式河流场景](#interactive-browser-river-scene-2095993826569502785)
-- [大教堂动作战斗场](#cathedral-hack-and-slash-arena-2095988972879335792)
-- [用现有资产包搭建 Unity 城市场景](#gpt-6-astra-2095987508475834641)
-- [土卫六互动科学展览](#interactive-titan-science-exhibit-2095986941753712841)
-- [3D 弹弓小鸟游戏](#3d-slingshot-bird-game-2095981655370666076)
-- [鲁布·戈德堡连锁机械](#rube-goldberg-chain-reaction-machine-2095980885732704629)
-- [可切换昼夜的浮空中式寺庙](#gpt-6-astra-2095978925029556561)
-- [多视图参考机甲建模与骨骼绑定](#gpt-6-astra-2095975726558392570)
-- [反重力战斗赛车](#anti-gravity-combat-racer-2095967568825582044)
-- [可交互的 PS5 手柄](#interactive-ps5-controller-2095967131573649552)
-- [交互式 3D 角色卡片](#interactive-3d-character-cards-2095963576049832347)
-- [子弹时间第三人称射击](#bullet-time-third-person-shooter-2095962376344309843)
 
 </details>
+<a id="gpt-6-astra-2096236137266512181"></a>
+
+### 完整起降流程的浏览器飞行模拟器
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="完整起降流程的浏览器飞行模拟器"></a>
+
+**提示词**
+
+```text
+从零开始，打造一款精致、可玩的浏览器 3D 飞行模拟游戏。
+
+目标是制作一段规模虽小但真正可玩的飞行模拟体验，而不是静态的 3D 场景。
+
+GAMEPLAY
+- 创建一座机场，包含细节丰富的跑道、滑行道、航站楼及其他建筑、草地/地形、跑道标线与灯光、天空和云层。
+- 在机场停放一架容易辨认的客机。
+- 玩家必须能够使用键盘操控飞机。
+- 实现油门、俯仰、横滚、偏航和刹车控制。
+- 飞机必须具备基础且可信的飞行动力学、惯性和加速度。
+- 玩家应能够在跑道上加速、起飞、绕机场飞行、对准跑道进近并着陆。
+- 添加一个简单目标：起飞，绕机场完成一小段飞行，并安全着陆。
+- 加入坠毁/失败检测和重新开始选项。
+
+CONTROLS
+清晰显示操作方式：
+- W/S：俯仰
+- A/D：横滚
+- Q/E：偏航
+- Shift/Ctrl：油门
+- 空格：刹车
+
+CAMERA
+- 使用位于飞机后方的平滑第三人称追踪镜头。
+- 飞行过程中始终清晰显示飞机。
+- 镜头应平滑跟随飞机移动，并对加速度做出细微响应。
+
+HUD
+创建精致的航空风格 HUD，显示：
+- 空速
+- 高度
+- 航向
+- 油门
+- 垂直速度
+- 飞行状态
+- 当前目标
+
+加入一个可隐藏的紧凑型操作/帮助面板。
+
+开始 + 结果
+创建一个开始界面，包含：
+"飞行模拟器"
+以及醒目的"开始飞行"按钮。
+
+成功着陆后，显示：
+- 飞行完成
+- 着陆质量
+- 飞行时间
+- 最终得分
+- 再玩一次
+
+视觉品质
+让它具备真正游戏的感觉：
+- 风格统一的 3D 视觉效果
+- 细节丰富的飞机
+- 富有吸引力的机场环境
+- 出色的灯光、阴影和材质
+- 云层/大气效果
+- 在适当位置加入机场建筑、车辆、标牌、树木和其他环境细节
+- 避免场景空旷或明显未完成
+
+FEEDBACK
+为以下内容添加有用的反馈：
+- 油门/发动机状态
+- 起飞
+- 着陆
+- 速度警告
+- 高度
+- 坠毁
+- 成功着陆
+
+TECHNICAL
+- 在浏览器中构建完整可运行的游戏。
+- 不要留下占位按钮或虚假的交互。
+- 优先保证操控响应迅速、运行流畅。
+- 使用可用的、适合的 Web/3D 技术。
+
+重要：
+不要把全部精力都花在制作漂亮的静态场景上。飞机必须真正可操控，完整流程也必须能够运行：
+
+开始 → 加速 → 起飞 → 飞行 → 进近 → 着陆 → 计分 → 再玩一次
+
+完成前，在浏览器中运行游戏，亲自测试完整的游戏流程。修复发现的操控、物理、视觉和交互问题。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a polished, playable browser-based 3D flight simulator game from scratch.
+
+The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
+
+GAMEPLAY
+- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
+- Place a recognizable passenger airplane at the airport.
+- The player must be able to control the aircraft with the keyboard.
+- Implement throttle, pitch, roll, yaw and braking.
+- The aircraft must have basic believable flight physics, momentum and acceleration.
+- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
+- Add a simple objective: take off, complete a short flight around the airport and land safely.
+- Include crash/failure detection and a restart option.
+
+CONTROLS
+Display controls clearly:
+- W/S: Pitch
+- A/D: Roll
+- Q/E: Yaw
+- Shift/Ctrl: Throttle
+- Space: Brake
+
+CAMERA
+- Use a smooth third-person chase camera behind the aircraft.
+- Keep the aircraft clearly visible during flight.
+- Camera should smoothly follow movement and respond subtly to acceleration.
+
+HUD
+Create a polished aviation-style HUD showing:
+- Airspeed
+- Altitude
+- Heading
+- Throttle
+- Vertical speed
+- Flight status
+- Current objective
+
+Include a compact controls/help panel that can be hidden.
+
+START + RESULTS
+Create a start screen with:
+"FLIGHT SIMULATOR"
+and a prominent "START FLIGHT" button.
+
+After a successful landing, show:
+- Flight completed
+- Landing quality
+- Flight time
+- Final score
+- Play Again
+
+VISUAL QUALITY
+Make it feel like a real game:
+- Cohesive stylized 3D visuals
+- Detailed aircraft
+- Attractive airport environment
+- Good lighting, shadows and materials
+- Clouds/atmosphere
+- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
+- Avoid an empty or obviously unfinished scene
+
+FEEDBACK
+Add useful feedback for:
+- Throttle/engine state
+- Takeoff
+- Landing
+- Speed warnings
+- Altitude
+- Crashes
+- Successful landing
+
+TECHNICAL
+- Build the complete working game in the browser.
+- Do not leave placeholder buttons or fake interactions.
+- Prioritize responsive controls and smooth performance.
+- Use whatever appropriate web/3D technologies are available.
+
+IMPORTANT:
+Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
+
+START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
+
+Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096236137266512181) · [查看原帖](https://x.com/adxtyahq/status/2096236137266512181) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="procedural-napoleon-bust-2096234355395903672"></a>
+
+### 程序化拿破仑半身像
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="程序化拿破仑半身像"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+用 Three.js 编写拿破仑半身像，分阶段建模，从不同角度检视并完善脸部比例和服装细节。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [查看原帖](https://x.com/leploutos/status/2096234355395903672) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="railway-station-concourse-2096226711222546461"></a>
+
+### 铁路车站大厅
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="铁路车站大厅"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建具有鲜明建筑节奏、可信尺度和材质的铁路车站大厅，提供可检视的 3D 场景与精心构图视角。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/railway-station-concourse-2096226711222546461) · [查看原帖](https://x.com/0xWormhole404/status/2096226711222546461) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
+
+### 轨道交会对接模拟
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="轨道交会对接模拟"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建实时轨道交会模拟，采用双体 ECI 轨道传播与 HCW 制导，包含六自由度姿态、燃料消耗、推力限制和对接目标。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [查看原帖](https://x.com/AlicanKiraz0/status/2096225621303042258) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="animated-onboarding-diorama-2096222790894661841"></a>
+
+### 动画引导微缩场景
+
+[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="动画引导微缩场景"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Blender 中创建引导微缩场景，并用 Three.js 呈现，以清晰核心物体和短动画解释用户首次操作。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [查看原帖](https://x.com/EmilHovv/status/2096222790894661841) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
+
+### 可拆解的人体解剖模型
+
+[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="可拆解的人体解剖模型"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+制作 3D 解剖网站，让人体分解成可单独检视的结构，使爆炸视图可导航，并按有意义的系统组织部件。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [查看原帖](https://x.com/ashebytes/status/2096221988763173186) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
+
+### 困在立方体中的风暴
+
+[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="困在立方体中的风暴"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+用 Three.js 生成困在立方体中的风暴，并让天气可以控制。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [查看原帖](https://x.com/zwb44/status/2096220264413409648) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096219700879331665"></a>
+
+### 带自制 3D 资产的 Roblox 卡丁车游戏
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="带自制 3D 资产的 Roblox 卡丁车游戏"></a>
+
+**提示词**
+
+```text
+通过 Roblox MCP 在 Roblox Studio 中制作一款完成度高、经过精心打磨的卡丁车竞速游戏。使用 Blender 和 Three.js 程序化生成风格统一、细节丰富的资产；在 Blender 中完成网格、UV 和烘焙纹理的制作，再将其导入为经过优化的 Roblox MeshPart，并配套兼容的 PBR 纹理。在游戏中验证比例、枢轴点、材质和碰撞。使用 Roblox 原生渲染和 Luau 实现游戏逻辑；Three.js 仅用于生成资产，不作为运行时环境。优先打造一条精美且布置完整的赛道，并实现响应灵敏的驾驶与漂移、AI 对手、检查点、圈数记录，以及从倒计时到结算再到重新开始的完整流程。精心打磨灯光、视觉特效、音频和界面。完整进行比赛试玩，检查实际游戏截图，并持续迭代，直到修复导入错误、视觉缺陷和玩法 bug，同时保持流畅性能。不要使用占位内容、粗糙资产或原型视觉效果。交付完整组装、可直接游玩的 Roblox 游戏体验，而不仅是脚本或导出的资产。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096219700879331665) · [查看原帖](https://x.com/givros/status/2096219700879331665) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096213850383331489"></a>
+
+### 骑自行车的鹈鹕互动场景
+
+[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="骑自行车的鹈鹕互动场景"></a>
+
+**提示词**
+
+```text
+创建一个精致、可交互的 3D 场景：一只鹈鹕正在骑自行车，并将其显示在浏览器中。
+鹈鹕应戴红白相间的骑行帽和太阳镜。为自行车设计薄荷绿色的复古车架，并添加动态速度线以突出运动感。
+支持旋转场景、放大缩小以及调节骑行速度。重点关注自行车几何结构、角色比例和自然的踩踏动作。速度变化时，保持动画流畅。
+将页面制作得精致完善，达到公开演示的标准，并采用经过考量的灯光、协调统一的配色和简洁的控件。
+完成前请亲自在浏览器中测试，并修复所有视觉或交互问题。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
+The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
+Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
+Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
+Test it in the browser yourself and fix any visual or interaction bugs before finishing.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096213850383331489) · [查看原帖](https://x.com/aibuilderclub_/status/2096213850383331489) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
+
+### OX Vice Drive 开放城市驾驶
+
+[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="OX Vice Drive 开放城市驾驶"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建开放城市浏览器驾驶游戏，包含交通、漂移与送货竞速，设计适合探索的海滨城市和完整驾驶循环。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [查看原帖](https://x.com/qok_ai/status/2096206082712768897) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
+
+### 幼儿玩具互动世界
+
+[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="幼儿玩具互动世界"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建温暖的 Three.js 游戏室，让幼儿在玩具间移动并使用不同动画玩耍，包含爬爬垫、书、架子与攀爬设施，支持环绕和缩放。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [查看原帖](https://x.com/aehyok/status/2096201415051911597) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
+
+### 参考图转拖船模型
+
+[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="参考图转拖船模型"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据参考图在 Blender 中重建拖船，制作船体、倾斜驾驶室、甲板附件与拖曳设备，将不同视角统一成结构连贯的船。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [查看原帖](https://x.com/NarvisAlex/status/2096180220839760375) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
+
+### 响应式 WebGL 角色 Zubli
+
+[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="响应式 WebGL 角色 Zubli"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+将六张静态角色姿势制作成会呼吸、眨眼、挥手并跟随指针的 WebGL 角色，优化变形与渲染，争取流畅的 60 FPS 播放。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [查看原帖](https://x.com/coxis/status/2096180133803561376) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
+
+### 咖啡杯里的海洋生命
+
+[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="咖啡杯里的海洋生命"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+用 Three.js 在咖啡杯中创建微型海洋生态，通过镜头展示水生生命，同时保持杯子与微缩尺度清晰。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [查看原帖](https://x.com/PolaczekSagi/status/2096174858837074198) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096156244180664627"></a>
 
 ### 从鱼缸到海洋的鱼类生存游戏
@@ -816,325 +1289,7 @@ blenderを使用してデザインや見た目重視の近未来バイク、近�
 
 ---
 
-<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
-
-### Roblox 动漫竞技格斗
-
-[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Roblox 动漫竞技格斗"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建受动漫跨界战斗启发的 Roblox 竞技格斗，利用 Blender 和可用资产制作场地与角色，实现可玩的战斗循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [查看原帖](https://x.com/WoahWurdz/status/2095999578419929412) · [返回案例导航](#all-prompts)
-
----
-
-<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
-
-### 平面图与 3D 漫游联动
-
-[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="平面图与 3D 漫游联动"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-用同一组尺寸数据制作一居室的平面图和 3D 漫游，让两种视图中的当前位置同步，并清楚标注假设的层高与装修材质。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [查看原帖](https://x.com/onofumi_AI/status/2095999282088378520) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-browser-river-scene-2095993826569502785"></a>
-
-### 浏览器交互式河流场景
-
-[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="浏览器交互式河流场景"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-制作在浏览器中运行的交互式河流场景，先完成实时水面原型，再检查并细化视觉效果。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [查看原帖](https://x.com/dangreenheck/status/2095993826569502785) · [返回案例导航](#all-prompts)
-
----
-
-<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
-
-### 大教堂动作战斗场
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="大教堂动作战斗场"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在死星上方的大教堂中构建第三人称 Three.js 动作游戏，包含轻剑连击、重攻击、范围魔法、闪避和脚步落地的双手动画。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [查看原帖](https://x.com/superalesha/status/2095988972879335792) · [项目源码](https://github.com/alesha-pro/bench-portal) · [在线演示](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095987508475834641"></a>
-
-### 用现有资产包搭建 Unity 城市场景
-
-[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="用现有资产包搭建 Unity 城市场景"></a>
-
-**提示词**
-
-```text
-为我创建一个新的 3D 城市场景。我希望场景中有多种类型、不同高度的建筑和汽车，同时使用道路、广告牌以及属于大城市的其他元素。所需资源都在此文件夹中：Assets/ithappy/Cartoon_City_Free。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2095987508475834641) · [查看原帖](https://x.com/AndrewWalko/status/2095987508475834641) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
-
-### 土卫六互动科学展览
-
-[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="土卫六互动科学展览"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建土星最大卫星土卫六的教育型 3D 模拟，提供可探索环境及解释其独特物理特征的信息层。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [查看原帖](https://x.com/ArdaTugsat/status/2095986941753712841) · [返回案例导航](#all-prompts)
-
----
-
-<a id="3d-slingshot-bird-game-2095981655370666076"></a>
-
-### 3D 弹弓小鸟游戏
-
-[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="3D 弹弓小鸟游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-制作 3D 弹弓游戏，包含四种具有不同技能的小鸟、瞄准释放操作、可破坏结构与可重玩的计分循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [查看原帖](https://x.com/MozeTech/status/2095981655370666076) · [返回案例导航](#all-prompts)
-
----
-
-<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
-
-### 鲁布·戈德堡连锁机械
-
-[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="鲁布·戈德堡连锁机械"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在独立 Three.js HTML 文件中创建鲁布·戈德堡机械，通过一连串机械互动最终按下按钮并触发戏剧化爆炸。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [查看原帖](https://x.com/thehypedotnews/status/2095980885732704629) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095978925029556561"></a>
-
-### 可切换昼夜的浮空中式寺庙
-
-[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="可切换昼夜的浮空中式寺庙"></a>
-
-**提示词**
-
-```text
-创建一个可交互的像素方块世界，让我看看你的建模能力。我想要一座被粉色樱花树环绕的中式寺庙。整片土地应独立坐落在一座浮空岛上，寺庙周围环绕着瀑布和山地景观。不要向我询问任何输入，我希望你完全自主完成构建并自行做出决定。加入一个简单的开关，让我可以在白天和夜晚之间切换。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2095978925029556561) · [查看原帖](https://x.com/PhilipNora7/status/2095978925029556561) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095975726558392570"></a>
-
-### 多视图参考机甲建模与骨骼绑定
-
-[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="多视图参考机甲建模与骨骼绑定"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
-
-**提示词**
-
-```text
-使用无界面模式的 Blender 5.2.1，根据这张蓝图制作高精度机甲 3D 模型：`/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`。使用同一目录中的其他机甲参考图获取更详细的参考信息。请注意，蓝图和所有参考图均由 AI 生成，因此不同图像中的细节可能存在不一致。如果发现细节不一致，请发挥创意并找到解决方案，确保最终的机甲 3D 模型外观统一且符合物理规律。机甲 3D 模型应完成骨骼绑定。通过渲染一段 10 秒的动画来展示目标完成情况：机甲展示武器并演示战斗机动性。
-
-仅控制：
-选择最合适的参考图，不要仅因蓝图被明确提及就优先使用它。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
-
-only steering:
-pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2095975726558392570) · [查看原帖](https://x.com/vatro_vrbanic/status/2095975726558392570) · [返回案例导航](#all-prompts)
-
----
-
-<a id="anti-gravity-combat-racer-2095967568825582044"></a>
-
-### 反重力战斗赛车
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="反重力战斗赛车"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-用 Three.js 构建高速反重力战斗竞速，加入漂移、加速、倾斜镜头、空气制动和护盾道具，在外星高架赛道提供轻型、均衡和重型飞行器。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [查看原帖](https://x.com/superalesha/status/2095967568825582044) · [项目源码](https://github.com/alesha-pro/bench-portal) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-ps5-controller-2095967131573649552"></a>
-
-### 可交互的 PS5 手柄
-
-[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="可交互的 PS5 手柄"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Three.js 中创建可检视的 PS5 手柄，还原轮廓、按键、扳机、摇杆与不同表面材质。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-ps5-controller-2095967131573649552) · [查看原帖](https://x.com/blueemi99/status/2095967131573649552) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-3d-character-cards-2095963576049832347"></a>
-
-### 交互式 3D 角色卡片
-
-[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="交互式 3D 角色卡片"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建交互式 3D 角色卡片界面，让角色响应指针移动，同时保证卡片清晰和响应式布局。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [查看原帖](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [返回案例导航](#all-prompts)
-
----
-
-<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
-
-### 子弹时间第三人称射击
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="子弹时间第三人称射击"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建受马克思佩恩启发的 Three.js 第三人称射击游戏，重点实现慢动作、灵敏枪战及有效的跟随镜头。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [查看原帖](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 9** · [→](catalog.zh.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 418 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 432 条案例与在线演示 →</a></strong></p>

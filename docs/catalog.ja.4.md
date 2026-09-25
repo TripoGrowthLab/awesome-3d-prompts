@@ -28,6 +28,20 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [田園を走る蒸気機関車](#steam-locomotive-across-the-countryside-2096577430274429157)
+- [Blenderで一からモデリングする住宅](#a-house-modeled-from-scratch-in-blender-2096576154337734865)
+- [The Quiet Crossing：雪景色の探索クエスト](#the-quiet-crossing-exploration-quest-2096574297703637111)
+- [SpeedTreeで作るインドのマンゴーの木](#indian-mango-tree-in-speedtree-2096572429066006845)
+- [操作できるローレンツアトラクター](#interactive-lorenz-attractor-2096572156453028193)
+- [ローポリのビーチで宝探し](#low-poly-beach-treasure-hunt-2096570815714414844)
+- [住戸のスケッチから作る室内レンダリング](#apartment-sketch-to-rendered-interiors-2096566686266597754)
+- [Tripoキャラクターのテクスチャとリグ設定](#texture-and-rig-a-tripo-character-2096566598689783878)
+- [3D都市の核爆発シミュレーション](#gpt-6-astra-2096562462674079868)
+- [テーブル上のレコードプレーヤー](#vinyl-player-tabletop-scene-2096561346766877106)
+- [BlenderモデルとUnity VFXの組み合わせ](#blender-models-with-unity-vfx-2096560142871658589)
+- [2Dロゴを動く3Dキャラクターに](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
+- [操作して探索できるソウルのミニチュア](#interactive-miniature-of-seoul-2096557555086725159)
+- [スマートフォンで遊べるUnityのラリーゲーム](#mobile-playable-unity-rally-game-2096556692842348826)
 - [トレーディングカードの対戦ループ](#trading-card-battle-game-loop-2096555856204644550)
 - [二重リングのエネルギーコアを操作する3Dビューアー](#interactive-dual-ring-energy-core-2096551010089263181)
 - [エゼキエルの神殿の幻を3Dで](#gpt-6-astra-2096547658164834788)
@@ -64,22 +78,295 @@
 - [木漏れ日の川を下るカヤック](#komorebi-river-kayaking-2096244208533455049)
 - [屈折するボトルで伝える商品ストーリー](#refractive-bottle-product-story-2096243989439713677)
 - [思い出のカプセルマシン](#memory-capsule-machine-2096241295949975602)
-- [フライトループを完全再現したブラウザ版フライトシミュレーター](#gpt-6-astra-2096236137266512181)
-- [手続き生成するナポレオンの胸像](#procedural-napoleon-bust-2096234355395903672)
-- [鉄道駅のコンコース](#railway-station-concourse-2096226711222546461)
-- [軌道ランデブーシミュレーター](#orbital-rendezvous-simulator-2096225621303042258)
-- [アニメーションで使い方を伝えるジオラマ](#animated-onboarding-diorama-2096222790894661841)
-- [分解して観察する 3D 人体解剖](#exploded-interactive-human-anatomy-2096221988763173186)
-- [立方体に閉じ込めた嵐](#a-storm-trapped-in-a-cube-2096220264413409648)
-- [カスタム3Dアセットで遊べるRobloxカートレーサー](#gpt-6-astra-2096219700879331665)
-- [自転車に乗るインタラクティブなペリカン](#gpt-6-astra-2096213850383331489)
-- [都市を自由に走る OX Vice Drive](#ox-vice-drive-open-city-racer-2096206082712768897)
-- [幼児が遊ぶ温かな玩具の世界](#a-playful-toddler-toy-world-2096201415051911597)
-- [参考画像から再構築するタグボート](#reference-image-tugboat-assembly-2096180220839760375)
-- [操作に応える WebGL キャラクター Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
-- [コーヒーカップの中の海洋生物](#marine-life-in-a-coffee-cup-2096174858837074198)
 
 </details>
+<a id="steam-locomotive-across-the-countryside-2096577430274429157"></a>
+
+### 田園を走る蒸気機関車
+
+[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp" width="840" loading="lazy" alt="田園を走る蒸気機関車"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.jsで蒸気機関車をモデリングし、田園風景を走るアニメーションを制作してください。車輪の動きを列車の移動に同期させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [元の投稿](https://x.com/dansanburu/status/2096577430274429157) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="a-house-modeled-from-scratch-in-blender-2096576154337734865"></a>
+
+### Blenderで一からモデリングする住宅
+
+[みずくん](https://x.com/mizkun) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/346d92a550603016457fa5c8c7309856edfe8bff51fa3c77475b25b27d6c80ae.webp" width="840" loading="lazy" alt="Blenderで一からモデリングする住宅"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blenderで住宅を一からモデリングしてください。後から建物を確認し、繰り返し改善できるように、編集可能なシーンを保持してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [元の投稿](https://x.com/mizkun/status/2096576154337734865) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="the-quiet-crossing-exploration-quest-2096574297703637111"></a>
+
+### The Quiet Crossing：雪景色の探索クエスト
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/2bf4d5da0fcb675294f65b4db9a4f86da2f2f9c6b8923c3d11e1b991ad0f7839.webp" width="840" loading="lazy" alt="The Quiet Crossing：雪景色の探索クエスト"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blender製キャラクター、ボクセルの松、石造りの転移門が登場する、雪景色の探索ゲームをThree.jsで制作してください。6つの光るかけらを集める仕組みを作り、カメラでキャラクターを追尾し、門までの距離を表示してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [元の投稿](https://x.com/Motion_Viz/status/2096574297703637111) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="indian-mango-tree-in-speedtree-2096572429066006845"></a>
+
+### SpeedTreeで作るインドのマンゴーの木
+
+[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/327cfb97d273bfb139d4b96a16ecf3f6d5be5fa85e33b5e43c7eb7a78f7d3f89.webp" width="840" loading="lazy" alt="SpeedTreeで作るインドのマンゴーの木"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+60 FPSを目標とするUnrealシーン向けに、SpeedTreeでインドのマンゴーの木を制作してください。葉と樹皮のマテリアルを生成し、見た目を確認してからアセットを完成させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [元の投稿](https://x.com/waitin4agi_/status/2096572429066006845) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-lorenz-attractor-2096572156453028193"></a>
+
+### 操作できるローレンツアトラクター
+
+[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/fca1d41314709e1d755d899fb81edf769d909a209093c5ec094b985e27e4c46e.webp" width="840" loading="lazy" alt="操作できるローレンツアトラクター"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+初期位置がごくわずかに異なる、ローレンツ系の2つの軌道を可視化してください。初期位置の差を変更し、時間を前後に動かせるようにしてください。数値的な検証と、長期にわたる厳密な予測は区別してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [元の投稿](https://x.com/juyeam/status/2096572156453028193) · [デモ](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="low-poly-beach-treasure-hunt-2096570815714414844"></a>
+
+### ローポリのビーチで宝探し
+
+[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/53eb3de661c3961054e87a9bc6566587c5cb1feec8ea01eaea8958cfb5b29752.webp" width="840" loading="lazy" alt="ローポリのビーチで宝探し"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Unityで、ビーチを舞台にしたプレイ可能な3D宝探しゲームを制作してください。ローポリのヤシの木とウッドデッキをモデリングし、探索して宝を発見する基本ループを構築してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [元の投稿](https://x.com/sorano_concon_g/status/2096570815714414844) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
+
+### 住戸のスケッチから作る室内レンダリング
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="住戸のスケッチから作る室内レンダリング"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+住戸の参考画像と簡単な間取りのスケッチを組み合わせ、Blenderで室内を再構築してください。編集可能なシーン、各部屋のレンダリング、短く編集したウォークスルーを納品してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [元の投稿](https://x.com/WorldEverett/status/2096566686266597754) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
+
+### Tripoキャラクターのテクスチャとリグ設定
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Tripoキャラクターのテクスチャとリグ設定"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Tripo Smart MeshのキャラクターをBlenderに読み込んでください。テクスチャを適用し、使用可能なボディリグを構築してから、表情の制作に進んでください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [元の投稿](https://x.com/chimerast/status/2096566598689783878) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096562462674079868"></a>
+
+### 3D都市の核爆発シミュレーション
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="3D都市の核爆発シミュレーション"></a>
+
+**プロンプト**
+
+```text
+3D都市、核爆発の閃光、拡大する衝撃波、火球、煙を再現し、爆風の到達に伴って建物が段階的に破砕・崩壊する核爆発デモを作成する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096562462674079868) · [元の投稿](https://x.com/ashishthakur___/status/2096562462674079868) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
+
+### テーブル上のレコードプレーヤー
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="テーブル上のレコードプレーヤー"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.jsで、テーブル上にレコードプレーヤーを置いたシーンを制作してください。ランプが点灯する演出と、プレーヤーや周囲の家具を映すカメラを使い、製品紹介のようなデモに仕上げてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [元の投稿](https://x.com/niteshseram/status/2096561346766877106) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
+
+### BlenderモデルとUnity VFXの組み合わせ
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="BlenderモデルとUnity VFXの組み合わせ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blenderでシーン用のモデルを制作し、Unityに読み込んでください。VFX Graphでエフェクトを加え、モデルとエフェクトの両方が見やすく調和するようにライティングしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [元の投稿](https://x.com/CST_negi/status/2096560142871658589) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
+
+### 2Dロゴを動く3Dキャラクターに
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="2Dロゴを動く3Dキャラクターに"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提供された2Dのキャラクターロゴを、アニメーションする3D版にしてください。立体感と動きを加えても、元のキャラクターだとわかる特徴を保ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [元の投稿](https://x.com/anthonyriera/status/2096559197999501724) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
+
+### 操作して探索できるソウルのミニチュア
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="操作して探索できるソウルのミニチュア"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+オープンな地図データを使い、Three.jsでソウルのミニチュアを制作してください。地区の選択、名所を巡るフライスルー、昼夜モード、タッチ操作を追加してください。建物を簡略化した箇所、推定した高さ、データのライセンスを明示してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [元の投稿](https://x.com/synabreu/status/2096557555086725159) · [デモ](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
+
+### スマートフォンで遊べるUnityのラリーゲーム
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="スマートフォンで遊べるUnityのラリーゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Codex、Blender、Unityでラリー走行ゲームの試作を制作してください。スマートフォンでプレイテストできるように、3Dアセットと操作系を整えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [元の投稿](https://x.com/kevinkern/status/2096556692842348826) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="trading-card-battle-game-loop-2096555856204644550"></a>
 
 ### トレーディングカードの対戦ループ
@@ -1312,479 +1599,6 @@ Trackmania 風のレース物理を C# で再現し、WASM で動かして Three
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/memory-capsule-machine-2096241295949975602) · [元の投稿](https://x.com/gloria_zwq/status/2096241295949975602) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096236137266512181"></a>
-
-### フライトループを完全再現したブラウザ版フライトシミュレーター
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="フライトループを完全再現したブラウザ版フライトシミュレーター"></a>
-
-**プロンプト**
-
-```text
-ゼロから、完成度が高く実際に遊べるブラウザベースの3Dフライトシミュレーターゲームを構築してください。
-
-目標は、静的な3Dシーンではなく、小規模ながら本当にプレイできるフライトシミュレーター体験を作ることです。
-
-GAMEPLAY
-- 詳細な滑走路、誘導路、ターミナル／建物、芝生／地形、滑走路の標識／灯火、空、雲を備えた空港を作成する。
-- 空港に見た目で旅客機と分かる航空機を配置する。
-- プレイヤーがキーボードで航空機を操作できるようにする。
-- スロットル、ピッチ、ロール、ヨー、ブレーキを実装する。
-- 航空機に、基本的で納得感のある飛行物理、慣性、加速を持たせる。
-- プレイヤーが滑走路を加速して離陸し、空港周辺を飛行し、滑走路へ進入して着陸できるようにする。
-- 「離陸し、空港周辺を短時間飛行して、安全に着陸する」というシンプルな目標を追加する。
-- 墜落／失敗判定とリスタート機能を含める。
-
-CONTROLS
-操作方法を明確に表示する：
-- W/S：ピッチ
-- A/D：ロール
-- Q/E：ヨー
-- Shift/Ctrl：スロットル
-- Space：ブレーキ
-
-CAMERA
-- 航空機の後方から追従する、滑らかな三人称チェイスカメラを使用する。
-- 飛行中も航空機が常にはっきり見えるようにする。
-- カメラは動きを滑らかに追従し、加速に対してわずかに反応するようにする。
-
-HUD
-航空機スタイルの洗練されたHUDに、次の情報を表示する：
-- 対気速度
-- 高度
-- 機首方位
-- スロットル
-- 垂直速度
-- 飛行ステータス
-- 現在の目標
-
-非表示にできるコンパクトな操作方法／ヘルプパネルを含める。
-
-開始＋結果
-次の要素を備えたスタート画面を作成する：
-「フライトシミュレーター」
-目立つ「フライト開始」ボタン。
-
-着陸に成功したら、次の情報を表示する：
-- フライト完了
-- 着陸評価
-- 飛行時間
-- 最終スコア
-- もう一度プレイ
-
-ビジュアル品質
-本物のゲームらしい仕上がりにする：
-- 統一感のあるスタイライズド3Dビジュアル
-- 作り込まれた航空機
-- 魅力的な空港環境
-- 良好なライティング、影、マテリアル
-- 雲／大気表現
-- 必要に応じて、空港の建物、車両、標識、木々などの環境ディテール
-- 何もない、または明らかに未完成なシーンは避ける
-
-FEEDBACK
-次の項目について、役立つフィードバックを追加する：
-- スロットル／エンジン状態
-- 離陸
-- 着陸
-- 速度警告
-- 高度
-- 墜落
-- 着陸成功
-
-TECHNICAL
-- ブラウザ上で完全に動作するゲームを構築する。
-- プレースホルダーのボタンや見せかけだけのインタラクションを残さない。
-- 反応の良い操作性と滑らかなパフォーマンスを優先する。
-- 利用可能な適切なWeb／3D技術を使用する。
-
-重要：
-タスクのすべてを美しい静的シーンの制作だけに費やさないこと。航空機は必ず実際に操作でき、完全なゲームループが機能しなければならない：
-
-開始 → 加速 → 離陸 → 飛行 → 進入 → 着陸 → スコア → もう一度プレイ
-
-完了前にブラウザでゲームを実行し、ゲームプレイの一連の流れ全体を自分でテストすること。見つかった操作、物理挙動、ビジュアル、インタラクションの不具合を修正する。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build a polished, playable browser-based 3D flight simulator game from scratch.
-
-The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
-
-GAMEPLAY
-- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
-- Place a recognizable passenger airplane at the airport.
-- The player must be able to control the aircraft with the keyboard.
-- Implement throttle, pitch, roll, yaw and braking.
-- The aircraft must have basic believable flight physics, momentum and acceleration.
-- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
-- Add a simple objective: take off, complete a short flight around the airport and land safely.
-- Include crash/failure detection and a restart option.
-
-CONTROLS
-Display controls clearly:
-- W/S: Pitch
-- A/D: Roll
-- Q/E: Yaw
-- Shift/Ctrl: Throttle
-- Space: Brake
-
-CAMERA
-- Use a smooth third-person chase camera behind the aircraft.
-- Keep the aircraft clearly visible during flight.
-- Camera should smoothly follow movement and respond subtly to acceleration.
-
-HUD
-Create a polished aviation-style HUD showing:
-- Airspeed
-- Altitude
-- Heading
-- Throttle
-- Vertical speed
-- Flight status
-- Current objective
-
-Include a compact controls/help panel that can be hidden.
-
-START + RESULTS
-Create a start screen with:
-"FLIGHT SIMULATOR"
-and a prominent "START FLIGHT" button.
-
-After a successful landing, show:
-- Flight completed
-- Landing quality
-- Flight time
-- Final score
-- Play Again
-
-VISUAL QUALITY
-Make it feel like a real game:
-- Cohesive stylized 3D visuals
-- Detailed aircraft
-- Attractive airport environment
-- Good lighting, shadows and materials
-- Clouds/atmosphere
-- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
-- Avoid an empty or obviously unfinished scene
-
-FEEDBACK
-Add useful feedback for:
-- Throttle/engine state
-- Takeoff
-- Landing
-- Speed warnings
-- Altitude
-- Crashes
-- Successful landing
-
-TECHNICAL
-- Build the complete working game in the browser.
-- Do not leave placeholder buttons or fake interactions.
-- Prioritize responsive controls and smooth performance.
-- Use whatever appropriate web/3D technologies are available.
-
-IMPORTANT:
-Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
-
-START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
-
-Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096236137266512181) · [元の投稿](https://x.com/adxtyahq/status/2096236137266512181) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="procedural-napoleon-bust-2096234355395903672"></a>
-
-### 手続き生成するナポレオンの胸像
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="手続き生成するナポレオンの胸像"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js のコードでナポレオンの 3D 胸像を作成してください。段階的に制作し、異なる角度から確認して、顔の比率と衣服の細部を磨いてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [元の投稿](https://x.com/leploutos/status/2096234355395903672) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="railway-station-concourse-2096226711222546461"></a>
-
-### 鉄道駅のコンコース
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="鉄道駅のコンコース"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-力強い建築的リズム、自然なスケール、説得力のある素材を備えた駅のコンコースを作成してください。丁寧に構図を決めた駅の眺めを持つ、細部を観察できる 3D シーンにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/railway-station-concourse-2096226711222546461) · [元の投稿](https://x.com/0xWormhole404/status/2096226711222546461) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
-
-### 軌道ランデブーシミュレーター
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="軌道ランデブーシミュレーター"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-二体問題の ECI 軌道伝播と HCW 誘導を使った、リアルタイムの軌道ランデブーシミュレーションを作成してください。6 自由度の姿勢、燃料消費、推力制限、ドッキング目標を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [元の投稿](https://x.com/AlicanKiraz0/status/2096225621303042258) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="animated-onboarding-diorama-2096222790894661841"></a>
-
-### アニメーションで使い方を伝えるジオラマ
-
-[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="アニメーションで使い方を伝えるジオラマ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blender で小さな導入説明用ジオラマを作り、Three.js で動かしてください。注目対象を明確にし、短いアニメーションで最初の操作を説明してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [元の投稿](https://x.com/EmilHovv/status/2096222790894661841) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
-
-### 分解して観察する 3D 人体解剖
-
-[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="分解して観察する 3D 人体解剖"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-人体が、個別に観察できる構造へ分かれる 3D 解剖学サイトを作成してください。分解表示を操作できるようにし、各部位を意味のある器官系に整理してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [元の投稿](https://x.com/ashebytes/status/2096221988763173186) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
-
-### 立方体に閉じ込めた嵐
-
-[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="立方体に閉じ込めた嵐"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js で、天候を操作できる、立方体に閉じ込められた嵐を生成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [元の投稿](https://x.com/zwb44/status/2096220264413409648) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096219700879331665"></a>
-
-### カスタム3Dアセットで遊べるRobloxカートレーサー
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="カスタム3Dアセットで遊べるRobloxカートレーサー"></a>
-
-**プロンプト**
-
-```text
-Roblox MCPを介して、完成度の高い洗練されたカートレーサーをRoblox Studioで構築します。BlenderとThree.jsのプロシージャル生成を使って、統一感のある詳細なアセットを作成します。Blenderでメッシュ、UV、ベイク済みテクスチャを仕上げたら、互換性のあるPBRテクスチャとともに、最適化したRobloxのMeshPartとしてインポートします。ゲーム内でスケール、ピボット、マテリアル、コリジョンを確認します。レンダリングとゲームプレイにはRobloxネイティブの機能とLuauを使用し、Three.jsはランタイムではなくアセット生成ツールとして扱います。レスポンシブなドライビングとドリフト、AI対戦相手、チェックポイント、ラップ計測、カウントダウンからリザルト、リスタートまでを含む完成したゲームループを備えた、美しく作り込まれた1つのサーキットを最優先します。ライティング、VFX、オーディオ、UIも仕上げます。レースを最初から最後までプレイテストし、実際のゲームプレイ画面を確認しながら、インポートの失敗、見た目の不具合、ゲームプレイのバグがなくなるまで改善を重ねます。その間も滑らかなパフォーマンスを維持します。プレースホルダー、粗雑なアセット、プロトタイプ風のビジュアルは使用しません。スクリプトや書き出したアセットだけでなく、組み立て済みでプレイ可能なRoblox体験を納品します。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096219700879331665) · [元の投稿](https://x.com/givros/status/2096219700879331665) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096213850383331489"></a>
-
-### 自転車に乗るインタラクティブなペリカン
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="自転車に乗るインタラクティブなペリカン"></a>
-
-**プロンプト**
-
-```text
-自転車に乗るペリカンのスタイリッシュでインタラクティブな3Dシーンを作成し、ブラウザに表示してください。
-ペリカンには赤と白のサイクリングキャップとサングラスを着用させてください。自転車にはミントグリーンのヴィンテージ風フレームを使用し、動きを強調するアニメーション付きのスピードラインを追加してください。
-シーンを回転させたり、ズームインしたり、走行速度を調整したりできるようにしてください。自転車のジオメトリ、キャラクターのプロポーション、自然なペダリングモーションに十分注意してください。速度が変化してもアニメーションが滑らかに保たれるようにしてください。
-考え抜かれたライティング、統一感のあるカラーパレット、使いやすいコントロールを備えた、洗練された一般公開デモ向けのページに仕上げてください。
-完成前にブラウザ上で実際に動作を確認し、表示やインタラクションの不具合を修正してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096213850383331489) · [元の投稿](https://x.com/aibuilderclub_/status/2096213850383331489) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
-
-### 都市を自由に走る OX Vice Drive
-
-[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="都市を自由に走る OX Vice Drive"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-交通、ドリフト、配達レースを備えた、自由に街を走れるブラウザ運転ゲームを作成してください。移動が楽しく、運転の遊びが完結する海沿いの街を設計してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [元の投稿](https://x.com/qok_ai/status/2096206082712768897) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
-
-### 幼児が遊ぶ温かな玩具の世界
-
-[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="幼児が遊ぶ温かな玩具の世界"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-幼児がおもちゃの間を移動し、それぞれ異なる動きで遊ぶ、温かな Three.js プレイルームを作成してください。プレイマット、本、棚、登って遊ぶ設備、周回とズームの操作を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [元の投稿](https://x.com/aehyok/status/2096201415051911597) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
-
-### 参考画像から再構築するタグボート
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="参考画像から再構築するタグボート"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-参考画像から Blender でタグボートを再構築してください。船体、傾斜した操舵室、甲板装備、曳航設備をモデル化し、視点間の食い違いを整理して一貫した船にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [元の投稿](https://x.com/NarvisAlex/status/2096180220839760375) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
-
-### 操作に応える WebGL キャラクター Zubli
-
-[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="操作に応える WebGL キャラクター Zubli"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-静止した 6 ポーズから、呼吸、まばたき、手振りを行い、カーソルを目で追う WebGL キャラクターを作成してください。滑らかな 60 FPS 再生を目指して変形処理と描画を最適化してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [元の投稿](https://x.com/coxis/status/2096180133803561376) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
-
-### コーヒーカップの中の海洋生物
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="コーヒーカップの中の海洋生物"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js で、コーヒーカップの中に小さな海洋生態系を作成してください。意図を持って動くカメラで水生生物を見せつつ、カップと小さな世界であることが分かる構図を保ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [元の投稿](https://x.com/PolaczekSagi/status/2096174858837074198) · [作例一覧に戻る](#all-prompts)
 
 ---
 

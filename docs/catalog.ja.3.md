@@ -28,6 +28,20 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [寺院のミニチュアジオラマシーン](#gpt-6-astra-2098403061463224543)
+- [キャラクターモデルの髪・顔テクスチャ自動生成・UV転写](#gpt-6-astra-2098367087475577273)
+- [Sol Horizon 初期型民間クーリエ船](#gpt-6-astra-2098225609558335846)
+- [インタラクティブ3Dロボットハンドのピアノ演奏デモ](#gpt-6-astra-2098109252720078891)
+- [人間の頭部と脳のインタラクティブ3Dアトラス](#gpt-6-astra-2098105648106078541)
+- [剣士が城門を破壊するファンタジーアニメーション](#gpt-6-astra-2098094339759149067)
+- [都市峡谷を飛行する白モデルのシャトル](#gpt-6-astra-2098079379297608050)
+- [浮遊する魔法学院のアニメーション](#gpt-6-astra-2098071577309122854)
+- [シティ・パルス](#gpt-6-astra-2098063352832610473)
+- [GTA風カートゥーン・カーチェイスのワークフロー](#gpt-6-astra-2098049032195293190)
+- [インタラクティブなイカの群れ](#gpt-6-astra-2098043033446912315)
+- [18ホールのゴルフコースをより難しくする](#gpt-6-astra-2098038909514944562)
+- [Mosswing：モバイル向け3Dタップ飛行ゲーム](#mosswing-mobile-3d-tap-to-flap-game)
+- [セリフなしの3D猫おやつショート](#gpt-6-astra-2097900087901106244)
 - [インタラクティブなファンタジーグラフィックスデモ](#gpt-6-astra-2097821164093480999)
 - [マルチプレイ対応Minecraftクローン](#gpt-6-astra-2097797479488246071)
 - [インタラクティブ3D粒子衝突型加速器](#gpt-6-astra-2097781208596029936)
@@ -64,22 +78,611 @@
 - [回転して眺められる3D将棋盤](#rotatable-3d-shogi-board-2096579856133947507)
 - [デスクトップPCの分解図鑑](#exploded-desktop-computer-atlas-2096578761877860502)
 - [子ども部屋と仕事場のレイアウトプランナー](#children-s-room-and-workspace-planner-2096578684010508736)
-- [田園を走る蒸気機関車](#steam-locomotive-across-the-countryside-2096577430274429157)
-- [Blenderで一からモデリングする住宅](#a-house-modeled-from-scratch-in-blender-2096576154337734865)
-- [The Quiet Crossing：雪景色の探索クエスト](#the-quiet-crossing-exploration-quest-2096574297703637111)
-- [SpeedTreeで作るインドのマンゴーの木](#indian-mango-tree-in-speedtree-2096572429066006845)
-- [操作できるローレンツアトラクター](#interactive-lorenz-attractor-2096572156453028193)
-- [ローポリのビーチで宝探し](#low-poly-beach-treasure-hunt-2096570815714414844)
-- [住戸のスケッチから作る室内レンダリング](#apartment-sketch-to-rendered-interiors-2096566686266597754)
-- [Tripoキャラクターのテクスチャとリグ設定](#texture-and-rig-a-tripo-character-2096566598689783878)
-- [3D都市の核爆発シミュレーション](#gpt-6-astra-2096562462674079868)
-- [テーブル上のレコードプレーヤー](#vinyl-player-tabletop-scene-2096561346766877106)
-- [BlenderモデルとUnity VFXの組み合わせ](#blender-models-with-unity-vfx-2096560142871658589)
-- [2Dロゴを動く3Dキャラクターに](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
-- [操作して探索できるソウルのミニチュア](#interactive-miniature-of-seoul-2096557555086725159)
-- [スマートフォンで遊べるUnityのラリーゲーム](#mobile-playable-unity-rally-game-2096556692842348826)
 
 </details>
+<a id="gpt-6-astra-2098403061463224543"></a>
+
+### 寺院のミニチュアジオラマシーン
+
+[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/20dba2605fb5f8fadd26e0d600a7b90aec4b5db6d1fab05d2e00c991d6c1bc3c.webp" width="840" loading="lazy" alt="寺院のミニチュアジオラマシーン"></a>
+
+**プロンプト**
+
+```text
+寺院の特徴的な要素を取り入れた、明瞭な45°俯瞰のアイソメトリックなミニチュア2.5Dカートゥーンジオラマシーンを表現。柔らかく精緻なテクスチャ、リアルなPBRマテリアル、穏やかでリアルなライティングを使用する。小さく盛り上がったジオラマ風の立体ベースを作り、その上に寺院を最も特徴づける要素を配置する。背景は単色。構図：完全に中央揃え、正方形1080×1080、非常にクリーンで高精細なジオラマ美学。太字で明るいフォントに変更するだけでよい。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+呈现一个清晰的、45°俯视等轴侧微型2.5D卡通立体模型场景，采用柔和精致的纹理、逼真的PBR材质以及温和逼真的光照效果。创建一个小型凸起的立体模型式底座，其中包含了寺庙最具辨识度的元素。使用纯色背景。构图：完美居中的布局，方形1080x1080，超干净、高清晰度的立体模型美学 换加粗、提亮的字体即可
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098403061463224543) · [元の投稿](https://x.com/rionaifantasy/status/2098403061463224543) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098367087475577273"></a>
+
+### キャラクターモデルの髪・顔テクスチャ自動生成・UV転写
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-11 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/4caf53574bf82d0814088c75d966bd2ef7e7a0b59de2526070e9d9de98c9bd51.webp" width="840" loading="lazy" alt="キャラクターモデルの髪・顔テクスチャ自動生成・UV転写"></a>
+
+**プロンプト**
+
+```text
+画像生成を利用して最強のテクスチャリングしてほしい
+髪なし顔面正面をフラットシェーディングで影なしでレンダリングしてそれをリファレンスにテクスチャリング済み画像生成して並行投影でマッピングして出力用UVに転写
+又はastraが思いついたもっといい方法あればそれで
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098367087475577273) · [元の投稿](https://x.com/_sagyoai/status/2098367087475577273) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098225609558335846"></a>
+
+### Sol Horizon 初期型民間クーリエ船
+
+[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/93340afbc96fd825af0645045e834d916af42214312e4cca4e75b4da5f6c8210.webp" width="840" loading="lazy" alt="Sol Horizon 初期型民間クーリエ船"></a>
+
+**プロンプト**
+
+```text
+BlenderでSol Horizonの初期型民間クーリエ船を作成します。軍用ではなく、使い込まれていて修理しやすく、手頃で安全な印象にしてください。コックピット、カーゴハッチ、視認できる姿勢制御スラスター、主エンジンアセンブリ、4本のランディングストラットを作成します。将来のバリエーション展開に適したモジュール式のハードサーフェススタイルを使用してください。メインのレンダリング用メッシュは15,000トライアングル未満に抑えます。オブジェクトには分かりやすい名前を付け、Unity向けに前方方向を設定し、簡易コリジョン用ジオメトリを作成します。トランスフォームを適用し、.blendファイルを保存して、ゲームで使用できるFBXを書き出します。書き出し前に、承認用のビューポート画像を表示してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+In Blender, create Sol Horizon’s starter civilian courier ship. It should look used, repairable, affordable, and safe—not military. Create a cockpit, cargo hatch, visible maneuvering thrusters, main engine assembly, and four landing struts. Use a modular hard-surface style suitable for future variants. Keep the main render mesh under 15,000 triangles. Name objects clearly, set the forward direction for Unity, create simple collision geometry, apply transforms, save the .blend, and export a game-ready FBX. Show viewport screenshots for approval before export.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098225609558335846) · [元の投稿](https://x.com/jonathanplumb/status/2098225609558335846) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098109252720078891"></a>
+
+### インタラクティブ3Dロボットハンドのピアノ演奏デモ
+
+[MSB](https://x.com/KeWai386772) · 2026-09-10 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/a2c337ecc0014d7a132e8bf1233771965ee7de5be41c152de671b6ba59398221.webp" width="840" loading="lazy" alt="インタラクティブ3Dロボットハンドのピアノ演奏デモ"></a>
+
+**プロンプト**
+
+```text
+詳細に作り込んだ5本指のロボットハンドがミニチュアピアノを演奏する、完全なブラウザベースのデモを構築してください。画面上の指の動き、実際の鍵盤のストローク、生成される音、演奏タイミングは、因果関係に基づいて連動する必要があります。評価に使える時間内で、見た目の完成度が高く、インタラクティブなアプリケーションを提供してください。
+
+1. 体験：精密にモデリングしたロボットハンド、関節可動する指、見える手首機構、MIDIノート60〜84に対応する25鍵のキーボードを配置した、全画面の3Dシーンを使用してください。黒鍵と白鍵の形状をリアルに再現し、鍵盤を個別に動かせるようにします。指先パッドと洗練されたマテリアルも含めてください。上方、演奏者側、指先のクローズアップ用カメラを用意します。ユーザーが再生を有効にした後、音声を同期再生してください。
+
+2. 共通の音楽入力：MIDIノート番号を正準データとして使用してください。96 BPMで、次のイベントを再生します。表記は（開始拍、ノート、拍単位の長さ）です：(0,60,0.4)、(0.5,64,0.4)、(1,67,0.4)、(1.5,64,0.4)、(2,62,0.4)、(2.5,65,0.4)、(3,69,0.4)、(3.5,65,0.4)、(4,60,0.4)、(4.5,60,0.4)、(5,60,1)、(5,64,1)、(5,67,1)。最後の3つのイベントは同時に鳴るコードです。確立されたパーサーを使った標準MIDIファイルのインポートにも対応してください。
+
+3. ハンド制御：指を個別に関節可動させ、手首も動かせるようにモデリングしてください。到達可能な指の割り当て、接近動作、押下、保持、離鍵、同音反復のアーティキュレーション、コード演奏を計画します。指は隣の鍵盤にめり込んだり、不自然に跳躍したりせず、正しい鍵盤に接触しなければなりません。逆運動学と関節可動域の制限を使用してください。計画した指の割り当てを表示し、個々の動きを手動で確認できるようにします。
+
+4. 発音の因果関係：対応する鍵盤が、指の接触によって、仕様として明示した押下しきい値を通過した場合にのみノートオンイベントを生成してください。離鍵時にノートオフを生成し、チャタリングを防ぐためにヒステリシスを設けます。MIDIイベントは演奏計画の目標であり、独立した音声再生トラックではありません。幾何学的な接触に基づく鍵盤機構を採用しても構いませんが、その場合は明示してください。完全な接触ダイナミクスを使用しても構いません。MIDIイベントがスケジュールされたというだけで鍵盤が動いてはなりません。
+
+5. タイミング：一貫した音楽クロックを使用し、実際に鍵盤がトリガーされたイベントを目標イベントと比較してタイムスタンプしてください。音声のスケジューリングとレンダリングのタイミングを考慮します。テンポ、トランスポーズ、再生、一時停止、再起動、ループ、スローモーションによる確認を操作できるようにしてください。一時停止または再起動時には、アクティブなノートを適切に解放する必要があります。再生速度を落としても、指、鍵盤、音声の同期を維持してください。
+
+6. 診断：目標ノート、計画した指、実際にトリガーされたノート、発音開始タイミングの誤差を、整列したタイムライン上に表示してください。ノート抜け、余分なノート、音程違い、同音反復の失敗、ノートのスタックを報告します。各鍵盤をどの指先が押下しているかを示す接触検査オーバーレイを用意してください。単なる近似的なハンドアニメーションではなく、計画が成功したことを判別できる証拠を記録します。
+
+7. 検証：メロディ、同音反復、最後のコードを個別に評価してください。誤ったノートや抜けをゼロにし、発音開始タイミングの95パーセンタイル誤差を50ミリ秒未満、最後のコードの発音開始時刻のばらつきを50ミリ秒未満にすることを目標とします。目標を達成できなかった場合も、実測値を報告してください。指の駆動を無効にするテストを用意します。スコアの進行は続いても構いませんが、押されていない鍵盤からノートが生成されてはなりません。
+
+8. 納品：Three.js、TypeScript、適切な音声API、確立されたパーサーまたは数値計算ライブラリを使用してください。実行可能なアプリケーション、ソースコード、再現可能な音楽フィクスチャ、アセットまたは生成スクリプト、起動手順を納品します。ブラウザ音声、操作系、カメラビュー、デスクトップおよびモバイルレイアウト、繰り返し再生を検証してください。表示するパフォーマンス上の主張はすべて、実測した挙動に基づくものとします。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build a complete browser-based demonstration of a detailed five-finger robotic hand playing a miniature piano. The visible finger motion, physical key travel, generated notes, and musical timing must be causally connected. Deliver a visually polished, interactive application within the evaluator's time budget.  1. EXPERIENCE: Use a full-screen 3D scene with a precisely modeled robotic hand, articulated fingers, visible wrist mechanisms, and a 25-key keyboard spanning MIDI notes 60 through 84. Show realistic black-key and white-key geometry, independent key movement, fingertip pads, and refined materials. Include overhead, performer-side, and fingertip close-up cameras. Provide synchronized audio after the user activates playback.  2. COMMON MUSICAL INPUT: Use MIDI note numbers as the source of truth. At 96 BPM, play these events, expressed as (start beat, note, duration in beats): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). The last three events form a simultaneous chord. Also support standard MIDI file import using an established parser.  3. HAND CONTROL: Model independently articulated fingers and a movable wrist. Plan reachable finger assignments, approach motions, presses, holds, releases, repeated-note articulation, and chord execution. Fingers must contact the correct keys without intersecting neighboring keys or making implausible jumps. Use inverse kinematics and joint limits. Display planned finger assignments and allow manual inspection of individual motions.  4. SOUND CAUSALITY: Generate note-on events only when the corresponding visible key crosses a documented depression threshold because of finger contact. Generate note-off on release, with hysteresis to prevent chatter. MIDI events are planning targets, not an independent audio playback track. A geometric contact-driven key mechanism is acceptable if explicitly identified; full contact dynamics may be used instead. Keys must not move merely because a MIDI event is scheduled.  5. TIMING: Use a consistent musical clock and timestamp actual key-trigger events against target events. Account for audio scheduling and render timing. Expose tempo, transpose, play, pause, restart, loop, and slow-motion inspection. Pausing or restarting must release active notes appropriately. Slowing playback must preserve synchronization between fingers, keys, and audio.  6. DIAGNOSTICS: Display target notes, planned fingers, actual triggered notes, and onset timing errors on an aligned timeline. Report missed notes, extra notes, wrong pitches, repeated-note failures, and stuck notes. Provide a contact inspection overlay showing which fingertip is depressing each key. Record the evidence needed to distinguish successful planning from approximate hand animation.  7. VERIFICATION: Evaluate melody, repeated notes, and the final chord separately. Aim for no wrong or missing notes, a 95th-percentile onset error below 50 ms, and final-chord onset spread below 50 ms. Report actual measurements even when targets are missed. Provide a test that disables finger actuation: the score may continue advancing, but unpressed keys must not generate notes.  8. DELIVERY: Use Three.js, TypeScript, appropriate audio APIs, and established parsing or numerical libraries. Deliver the running application, source code, reproducible musical fixture, assets or generation scripts, and startup instructions. Verify browser audio, controls, camera views, desktop and mobile layout, and repeated playback. All displayed performance claims must come from measured behavior.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098109252720078891) · [元の投稿](https://x.com/KeWai386772/status/2098109252720078891) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098105648106078541"></a>
+
+### 人間の頭部と脳のインタラクティブ3Dアトラス
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-10 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/d5197e1985f14535e770ac12605b228ba2f0b5e0097d074c79356afb7c171f70.webp" width="840" loading="lazy" alt="人間の頭部と脳のインタラクティブ3Dアトラス"></a>
+
+**プロンプト**
+
+```text
+人間の頭部と脳を完全に再現したインタラクティブな3Dアトラスを構築してください。モックアップではなく、動作するアプリケーションを納品してください。妥当な判断を自律的に行い、実装、テスト、見た目の検証まで実施してください。
+
+Three.jsと、適切なライセンスが付与された実在のZ-Anatomy / BodyParts3Dメッシュを使用してください。頭蓋骨、歯、顔面筋、脳、眼、脳神経、動脈、静脈、利用可能な関連膜組織を含めてください。元の解剖学的な位置関係を維持してください。個別に選択できる構造を数百点規模で目指し、実際にインポートした数を表示し、出典情報を保持してください。
+
+淡いグレーの背景、白い角丸パネル、控えめなブルーグレーのアクセント、読みやすいタイポグラフィを使った、すっきりとした明るいインターフェースにしてください。モデルは大きく表示し、左側に構造パネル、右側にカメラツール、上部に検索、下部に分解スライダーを配置してください。全体を英語で統一してください。
+
+解剖構造を段階的に探索できるようにしてください。
+頭部 → 系統 → 領域 → 個別の名称付き構造。
+例：Brain → Cerebrum → Left hemisphere → Frontal lobe → 個別の構造。
+
+組み立てと分解をアニメーション表示してください。組み立て時は元の位置を維持し、分解したグループは、明確に分離されたレイアウトと読みやすいラベルで配置してください。正規化されたスケールを示し、大規模なコレクションにはページ分割を使用してください。
+
+以下を含めてください。
+- 自由回転、ホイール／ピンチによるズーム、カメラプリセット。
+- 分解スライダーとShift＋ホイール操作。
+- グループおよび個別パーツごとの独立した表示／非表示切り替え。
+- グループの不透明度、元に戻す、すべて復元、リセット。
+- 解剖学的検索、クリックによる検査、フォーカス、単独表示、親階層への移動。
+- 解剖学カラー、磁器調、ワイヤーフレーム、透明表示の各モード。
+- 矢状面、水平面、冠状面のクリッピング平面。方向の反転にも対応してください。
+- ラベル、自動探索、フルスクリーン、PNG書き出し。
+- 完全な頭部から脳とそのネットワークへ進むガイド付きの探索。
+
+レイアウトやマテリアルを変更しても、非表示にした構造は非表示のまま維持してください。クリッピング平面は、医療用スキャンではなく、表示用に切断面を開く機能であることを説明してください。解剖学的構造を創作したり、臨床的な検証済みであると主張したりしないでください。
+
+アプリケーションと処理済みジオメトリを含むスタンドアロンHTMLを納品し、サーバーなしでオフライン動作するようにしてください。さらに、整理されたソースファイル、バージョンを固定した依存関係、ロックファイル、ポータブルなビルドスクリプト、英語のREADME、必要なライセンスと出典表示も提供してください。認証情報、ローカルマシンのパス、依存関係、無関係なファイルは含めないでください。
+
+ジオメトリの整合性、階層への所属、表示状態、元に戻す操作、レイアウト間隔をテストしてください。ブラウザで実行中のアプリケーションを確認し、各コントロールを操作して、コンソールエラーをチェックしてください。納品前に、見た目の重なりを修正してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build a complete interactive 3D atlas of the human head and brain. Deliver a working application, not a mockup. Make reasonable decisions independently, implement it, test it, and visually verify the result.
+
+Use Three.js and real, appropriately licensed Z-Anatomy / BodyParts3D meshes. Include the skull, teeth, facial muscles, brain, eyes, cranial nerves, arteries, veins, and available supporting membranes. Preserve their original anatomical relationships. Aim for hundreds of individually selectable structures, report the actual imported count, and retain source attribution.
+
+Create a clean, light interface with a pale grey background, white rounded panels, restrained blue-grey accents, and readable typography. Keep the model large, with a structure panel on the left, camera tools on the right, search at the top, and an explosion slider below. Use English throughout.
+
+Make the anatomy progressively explorable:
+Head → system → region → individual named structures.
+For example: Brain → Cerebrum → Left hemisphere → Frontal lobe → individual structures.
+
+Animate assembly and disassembly. Preserve source positions when assembled; arrange exploded groups in clearly separated layouts with readable labels. Indicate normalized scale and paginate large collections.
+
+Include:
+- Free rotation, wheel/pinch zoom, and camera presets.
+- Disassembly slider and Shift + wheel control.
+- Independent visibility switches for groups and individual parts.
+- Group opacity, undo, restore all, and reset.
+- Anatomical search, click-to-inspect, focus, isolation, and parent navigation.
+- Anatomical colours, porcelain, wireframe, and transparent modes.
+- Adjustable sagittal, axial, and coronal clipping planes with reverse direction.
+- Labels, automatic exploration, fullscreen, and PNG export.
+- A guided journey from the complete head into the brain and its networks.
+
+Keep hidden structures hidden across layout and material changes. Explain that clipping planes produce open display cuts, not medical scans. Do not invent anatomy or claim clinical validation.
+
+Deliver a standalone HTML containing the application and processed geometry, working offline without a server. Also provide clean source files, pinned dependencies, a lockfile, portable build scripts, an English README, and required licences and attribution. Exclude credentials, local machine paths, dependencies, and unrelated files.
+
+Test geometry integrity, hierarchy membership, visibility, undo, and layout spacing. Inspect the running application in a browser, exercise the controls, check for console errors, and fix visual overlaps before delivering.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098105648106078541) · [元の投稿](https://x.com/k1rallik/status/2098105648106078541) · [ソースコード](https://github.com/bubblik525/head) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098094339759149067"></a>
+
+### 剣士が城門を破壊するファンタジーアニメーション
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/8cf187f859ccd777fae30f37aff6e1f48d82220635d35a4a07014ad15e098df1.webp" width="840" loading="lazy" alt="剣士が城門を破壊するファンタジーアニメーション"></a>
+
+**プロンプト**
+
+```text
+Blenderで12秒のホワイトモデルによるアクションアニメーションを制作し、その後、@PixVerseを使って、書き出したアニメーションを壮大で大人向けのファンタジー映画風アニメーションシーンへと変換します。
+
+Blenderで、関節のあるシンプルな剣士、剣と鞘、高所にある広大な石造りのプラットフォーム、周囲に柱を備えた巨大な城門を作成します。白またはライトグレーのクリーンなジオメトリと、基本的なライティングを使用します。動きの読みやすさ、説得力のあるプロポーション、小さなキャラクターと巨大な建築物の強い対比を優先してください。剣のエネルギー波は、シンプルなアニメーション付きの曲線形状で表現し、城門は明確に分離して落下するパーツに分割します。
+
+カメラは、剣士が武器を抜き、短い間力を溜める様子を間近から捉え始めます。2秒前後で、足、腰、胴体、腕を連動させた、極めて速く断固とした一閃をアニメーションさせます。目に見える三日月形の剣気の波を放ち、空間を横切って城門に命中させます。城門上部は切断面に沿って滑り、支えを失って崩れ落ちるようにし、明確な加速と地面への接触を表現します。斬撃の後、剣士は自然に体勢を立て直し、剣を納め、姿勢を正して腕の力を抜きます。
+
+攻撃が進むにつれて、カメラを連続的かつ滑らかに後方・上方へ引いていきます。終盤まで劇的に上昇を続け、プラットフォーム全体と周囲の地形を見渡す、極めて高い、ほぼ真上からの空撮視点にします。キャラクターは小さくなりすぎて判別できなくなっても構いません。攻撃のポーズを長く見せるのではなく、素早いアクションと、スケールが大きく広がっていく力強い感覚を維持します。通常再生で、身体の動き、武器の連続性、エネルギー波の移動、城門の崩壊、カメラワークを確認します。
+
+クリーンな12秒のホワイトモデルMP4を書き出します。次に@PixVerseを使い、Blenderアニメーションを構図、アクションの進行、上昇するカメラの大まかな参照として、12秒のAIレンダリング動画を生成します。準備、一閃、飛翔するエネルギー波、城門の破壊、納刀、極端な高所からの空撮リビールという本質的な流れを維持しながら、映画的な展開を大きく広げてください。
+
+表現力のある形状、手描きの表面、説得力のある立体感、柔らかなシネマティックライティングを組み合わせた、大人向けの絵画調アニメーション映画の美学を作り上げます。成人の剣士には特徴的なシルエット、ワインレッドのコート、控えめなアーマー、冷静な決意を与えます。舞台を、幾重にも重なる城壁、塔、橋、深い峡谷、その先に広がる大都市を備えた、壮大な山岳要塞へと拡張します。
+
+三日月形の剣気の波を、主要なビジュアルイベントとして描きます。波は城門を切り裂いた後、遠方の防衛施設まで進み、連鎖的に崩壊する構造物、広がる砂ぼこり、火花、炎、衝撃波を生み出します。カメラが極限の高度に達したら、戦場を横切る攻撃の全行程と、その起点に静かに立つ剣士を見せます。冷たい大気遠近の影と、温かな琥珀色のエネルギー、点在する火の明かりを対比させます。オリジナルのシネマティック音楽と、剣撃、衝撃、崩壊、風、遠くの都市の音を映像に同期して加えます。
+
+ホワイトモデルMP4、PixVerseでAIレンダリングしたMP4、編集可能なBlenderプロジェクトを納品します。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a 12-second white-model action animation in Blender, then use @PixVerse to transform the exported animation into a spectacular mature animated fantasy film sequence.
+
+In Blender, build a simple articulated swordsman, a sword and scabbard, a vast elevated stone platform, and one enormous gate with surrounding pillars. Use clean white or light-gray geometry and basic lighting. Prioritize readable action, convincing proportions, and a strong contrast between the small character and monumental architecture. Represent the sword-energy wave with a simple animated curved shape, and divide the gate into pieces that can visibly separate and fall.
+
+Start the camera close to the swordsman as he draws his weapon and briefly gathers force. Around the second second, animate one extremely fast, decisive slash driven by the feet, hips, torso, and arms. Release a visible crescent-shaped sword-energy wave that travels across the space and strikes the gate. Let the upper gate section slide along the cut, lose support, and collapse with clear acceleration and ground contact. After the strike, have the swordsman recover naturally, sheath the sword, straighten up, and relax his arms.
+
+As the attack unfolds, pull the camera backward and upward in a continuous, smooth movement. Keep ascending dramatically until the ending becomes an extremely high, nearly vertical aerial view of the entire platform and surrounding terrain. The character may become too small to distinguish. Maintain fast action and a powerful sense of expanding scale rather than lingering on the attack pose. Check body motion, weapon continuity, the energy wave’s travel, gate collapse, and camera movement at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose reference for composition, action progression, and the rising camera. Preserve the essential sequence of preparation, slash, traveling energy wave, gate destruction, sheathing, and extreme aerial reveal, while allowing substantial cinematic expansion.
+
+Create a mature painterly animated-film aesthetic, combining expressive shapes, hand-painted surfaces, convincing three-dimensional volume, and soft cinematic lighting. Give the adult swordsman a distinctive silhouette, a wine-red coat, restrained armor, and composed determination. Expand the setting into an immense mountain fortress with layered walls, towers, bridges, deep ravines, and a sprawling city beyond.
+
+Make the crescent-shaped sword-energy wave a major visual event. It should cut through the gate and continue into distant fortifications, producing a readable chain of collapsing structures, sweeping dust, sparks, fire, and pressure waves. As the camera reaches extreme altitude, reveal the full path of the attack across the battlefield, with the swordsman standing quietly at its origin. Use cool atmospheric shadows contrasted with warm amber energy and scattered firelight. Include original cinematic music and synchronized sword, impact, collapse, wind, and distant city sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098094339759149067) · [元の投稿](https://x.com/PixVerse/status/2098094339759149067) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098079379297608050"></a>
+
+### 都市峡谷を飛行する白モデルのシャトル
+
+[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/fb62923c0a12f233e640a7b0ca3338732a39186d9c99168ef4e14b3248ae21a4.webp" width="840" loading="lazy" alt="都市峡谷を飛行する白モデルのシャトル"></a>
+
+**プロンプト**
+
+```text
+Blenderで、白モデルのシャトルが10秒間ワンカットで飛行するアニメーションを制作してください。オリジナルのシャトルと、数キロにわたって続く密集した都市峡谷を構築します。2キロ以上の長距離ルートを減速せずに超高速で前進飛行するようアニメーションを設定してください。狭い隙間や橋の下を縫うように進み、高度を変えながら、互いに反対方向へ滑らかなバレルロールを2回行います。速度感を明確に表現してください。近くの建物が後方へ流れるように伸び、橋が頭上を勢いよく通過し、手前の構造物がフレームの端を高速で横切るようにします。シャトルの形状を判別できる状態に保ちながら、環境には強い方向性モーションブラーを使用してください。密集した障害物、近距離のすれ違い、前景から背景までの強い視差によって、持続的な全速力飛行を表現します。シャトルのすぐ後方、やや上方から追従する滑らかな広角チェイスカメラを使用し、シャトルと同じ速度で前進させてください。機首は都市の奥へ向け、エンジンはカメラに向けた状態を維持します。カット、カメラシェイク、カメラ自体のバレルロール、スローモーション、終端での減速は使用しないでください。通常の再生速度で、クリアランス、動きの連続性、速度感をテストしてください。BlenderのリファレンスをもとにPixVerseで最終的な白モデルアニメーションをレンダリングし、極端な速度、飛行経路、カメラの動きを維持してください。最終成果物としてMP4、編集可能なBlenderプロジェクト、制限事項を簡潔にまとめたメモを納品してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a 10-second, single-take white-model shuttle flight in Blender. Build an original shuttle and a dense city canyon stretching several kilometers. Animate extremely fast forward flight along an extended route, covering over two kilometers without slowing down. Weave through narrow gaps and under bridges, change altitude, and perform two smooth barrel rolls in opposite directions. Make the speed unmistakable: nearby buildings streak backward, bridges whip overhead, and foreground structures rapidly sweep past the frame edges. Use strong directional motion blur on the environment while keeping the shuttle readable. Dense obstacles, close passes, and strong foreground-to-background parallax should convey sustained, full-throttle flight. Use a smooth wide-angle chase camera close behind and slightly above the shuttle, racing forward at matching speed. Keep the nose pointing into the city and the engines facing the camera. No cuts, camera shake, camera barrel rolls, slow motion, or deceleration at the ending. Test clearance, motion continuity, and the sense of speed at normal playback. Use PixVerse to render the final white-model animation from Blender references, preserving the extreme speed, flight path, and camera movement. Deliver the final MP4, editable Blender project, and brief notes on limitations.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098079379297608050) · [元の投稿](https://x.com/PixVerseCreator/status/2098079379297608050) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098071577309122854"></a>
+
+### 浮遊する魔法学院のアニメーション
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/36a241be384820d5cea3c337fbd4bafeb7f5410f7ffbe11d0cead98d05b1d821.webp" width="840" loading="lazy" alt="浮遊する魔法学院のアニメーション"></a>
+
+**プロンプト**
+
+```text
+Blenderで12秒のワンカット構成のホワイトモデルアニメーションを制作し、@PixVerseを使って、書き出したアニメーションを壮大な実写風ファンタジー映画のワンシーンに変換します。
+
+Blenderで、荘厳な入口、回転する天文機器、広大な浮遊魔法学院を構築します。シンプルな白またはライトグレーのジオメトリを使用し、シルエットが見やすくなるように基本的なライティングを施します。冒頭では入口の扉全体を映し、周囲を頑丈な壁で囲んで、扉の向こうの世界を完全に隠します。扉には、現実的な比率の小さな鍵穴を設けます。入口の先には、大きな中央城、塔、小さな浮遊島、これらをつなぐ橋を配置します。壮大な建築スケールと、構造物同士の十分な距離を表現します。
+
+扉にゆっくり近づくところから始め、その後急激に加速して、鍵穴の中を連続的に飛び抜けます。カメラが通過する前に、浮遊する鍵が回転しながら脇へ移動するようにアニメーションさせます。高速回転する天文リングを通過し、浮遊学院を見せた後、建築物の周囲を滑らかに旋回する動きへ移行します。近くの島々は素早く上昇させ、橋のセクションは回転して所定の位置に収まるようにします。オブジェクトの動きは、躍動的かつ明確にします。旋回は途切れずに流れるようにし、速度を滑らかに変化させ、同じ場所で繰り返し停止しないようにします。通常の再生速度で、鍵穴の通過、カメラのクリアランス、空間の連続性、動きを確認します。
+
+完成した12秒のホワイトモデルMP4を書き出します。次に@PixVerseを使い、Blenderアニメーションを大まかな構造と動きの参考として、12秒のAIレンダリング動画を生成します。扉への接近から鍵穴の通過、天文機器、学院の登場、旋回へと続く流れが認識できる状態を保ちながら、世界観とシネマティックな演出は自由に豊かにします。
+
+学院を、広大で古代の浮遊都市へと変貌させます。中央城を中心に、地区、図書館、天文台、中庭、幾重にも重なる屋根、大規模な石橋、雲へと流れ落ちる滝を配置します。周囲には森林に覆われた谷、湖、遠くの山々、さらに複数の浮遊島を広げます。小さな歩行者、飛行船、はためく旗、鳥、空気中のさまざまな動きを加え、スケール感を伝えます。後半の旋回では、学院の背後の雲から巨大なドラゴンが現れ、塔の間を滑空しながら通り過ぎ、都市に動く影を落とします。
+
+風格のある実写ファンタジー長編映画の豊かさを目指し、風雨にさらされた素材、冷たい雲の切れ間から差し込む柔らかな黄金色の陽光、自然な空気遠近、穏やかな写真調のハイライトを表現します。オリジナルのオーケストラ音楽と、環境音およびアクション音を同期させて加えます。
+
+ホワイトモデルMP4、PixVerseでAIレンダリングしたMP4、編集可能なBlenderプロジェクトを納品します。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a 12-second, single-take white-model animation in Blender, then use @PixVerse to transform the exported animation into a spectacular live-action fantasy film sequence.
+
+In Blender, build a monumental entrance, a rotating astronomical instrument, and a vast floating magical academy. Use simple white or light-gray geometry with readable silhouettes and basic lighting. Show the complete entrance door at the beginning, with solid walls surrounding it and fully concealing the world behind it. Give the door a realistically proportioned small keyhole. Beyond the entrance, arrange a large central castle, towers, smaller floating islands, and connecting bridges. Establish an impressive architectural scale and generous distances between structures.
+
+Begin with a slow approach toward the door, then accelerate sharply and fly continuously through the keyhole. Animate a floating key turning and moving aside before the camera passes. Continue through rapidly rotating astronomical rings, reveal the floating academy, and transition into a smooth orbit around the architecture. Let nearby islands rise quickly and bridge sections rotate into place. Keep object movements energetic and decisive. The orbit should flow continuously, with smooth changes in speed and no repeated pauses. Check the keyhole passage, camera clearance, spatial continuity, and motion at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose structural and motion reference. Preserve the recognizable progression from door approach to keyhole passage, astronomical instrument, academy reveal, and orbit, while freely enriching the world and cinematic staging.
+
+Turn the academy into an immense, ancient floating city: a central castle surrounded by districts, libraries, observatories, courtyards, layered rooftops, enormous stone bridges, and waterfalls plunging into clouds. Extend the surroundings into forested valleys, lakes, distant mountains, and additional floating islands. Add tiny pedestrians, flying vessels, moving flags, birds, and atmospheric activity to communicate scale. During the later orbit, let an enormous dragon emerge from clouds behind the academy and glide past the towers, casting a moving shadow over the city.
+
+Aim for the richness of a live-action fantasy feature film, with weathered materials, soft golden sunlight breaking through cool clouds, natural atmospheric depth, and gentle photographic highlights. Include original orchestral music and synchronized environmental and action sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098071577309122854) · [元の投稿](https://x.com/PixVerse/status/2098071577309122854) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098063352832610473"></a>
+
+### シティ・パルス
+
+[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/671137468943e22cd21c2d6b26bb8ac516a4ac1c6c632962514453836a984d59.webp" width="840" loading="lazy" alt="シティ・パルス"></a>
+
+**プロンプト**
+
+```text
+# 「City Pulse」を構築：ニューヨーク市のタクシー活動（2025年1月）を読み解くインタラクティブな3Dモビリティアトラス
+
+## 目的
+ニューヨークが1か月を通してどのように動くのかを示す、1ページ構成の英語ウェブビジュアライゼーションを作成します：
+31日、24時間、263のタクシーゾーン。見る人が街の日々のリズムを観察し、
+任意の日を典型的な平日または週末と比較し、どのゾーンも詳しく調べられるようにします。
+これは記述的な分析ツールであり、リアルタイム情報やGPSデータを扱うプロダクトではありません。すべてのビジュアルで、1つのマークが何を表すのかを明示してください。
+
+## データ
+公開データソース：
+- NYC TLC Trip Record Data、Yellow Taxi、2025年1月（Parquet）
+- NYC TLC Taxi Zones（263ゾーン、形状データ＋行政区の対応表）
+- NYC Open Dataの建物フットプリント（視覚的なコンテキストとしてマンハッタンのみ）
+
+前処理（Python＋DuckDBまたはpandas）を行い、小容量の静的JSONファイルを出力します：
+- 無効な乗車データを除外：2025年1月以外の乗車、所要時間が0以下または3時間超の乗車、未知のゾーン（264/265）。
+- 日別・ゾーン別・時間帯別に、乗車件数と乗車時間の中央値を集計。
+- 日別・時間帯別に、出発ゾーン→到着ゾーンの上位ペア（集約した移動フローを、時間帯ごとに上位N件）を集計。
+- ゾーン・時間帯ごとの比較用平均値：平日平均（23日）と週末平均（8日）。日単位の平均を使用し、祝日は平日のグループに含める。
+- 月全体で固定したスケール：ゾーン・時間帯別の乗車件数の最大値を使い、日によって高さの比較基準が変わらないようにする。
+- ゾーンのメタデータ：ID、名称、行政区、重心、ラベルのアンカー。ゾーン形状を簡略化。
+ファイル：month.json（1日の集計、スケール、上位ゾーン）、weekday.json、weekend.json、days/2025-01-DD.json、zones geojson。
+当日のデータは遅延読み込みし、初回描画を高速に保つ。
+
+## 技術スタック
+- 自己完結型のHTMLファイル1つ（または小規模なViteアプリ）。Three.js 0.160（importmap経由のESモジュール）、OrbitControls、EffectComposer＋bloomを使用。
+- D3はスケール、フォーマット、簡易的なSVGチャートにのみ使用。
+- フレームワークは不要。実行時の外部API呼び出しは禁止し、すべて静的JSONから読み込む。
+
+## レイアウト（デスクトップ1920×1080で、スクロールなしに1画面へ収める）
+1. ヘッダー：「CITY PULSE / MOBILITY ATLAS」、「Recorded replay」ステータス、「Data & methods」リンク。
+2. ステータス行：「A city, in motion.」＋3つのKPI：市全体の乗車件数（選択中の時間帯）、比較平均との差、乗車時間の中央値。
+3. 月間ストリップ：31日分のボタンをミニバーで表示（バーの高さ＝1日の乗車件数、週末には印を付ける）、前日・翌日ボタン、日付選択、「Compare with」選択（平日平均・23日／週末平均・8日）。
+4. ストーリーバー：「Every movement leaves a pattern.」と4つのチャプター（01 Watch、02 Unfold、03 Compare、04 Share）、および「Start the story」。
+5. ビュータブ：01 Connections、02 Volume city、03 Unfold 24h、04 Ghost city、「Share finding」、「Create briefing」。
+6. ワークスペース：3Dマップステージ（左）＋Location Insightインスペクター（右、約330px、内部スクロール）。
+7. タイムライン：Play day、速度（0.25×～4×）、選択日の24時間棒グラフと平均を重ねた時間帯スクラバー。
+マップステージの高さはビューポートに合わせて調整し（約470px～約780pxの範囲でclamp）、ズーム率100%でタイムラインを含むコンソール全体が表示されるようにする。
+
+## 3Dシーン
+- 暗いグラウンド、細いラインで描くゾーンのアウトライン、現実のコンテキストとして薄く表示するマンハッタンの建物フットプリント。
+- カメラ：パースペクティブ、オービット＋ズーム、再センタリングボタン。ビューを切り替えてもユーザーのカメラ位置を維持する。ただし「Unfold 24h」では、マトリクス全体が収まるように必ずフレームを調整する。
+- ゾーンにホバーすると、名称と乗車件数を含むツールチップを表示。ゾーンをクリックすると選択状態にし、インスペクターとフローを更新する。
+
+ビュー（切り替え時はすべてアニメーションさせ、急な切り替えを避ける）：
+- 01 Connections：ゾーン間の集約された乗車を、光るアークと動く光のパーティクルで表示。パーティクル密度は乗車件数に比例させる。注目するフローにラベルを付ける（「FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00」）。キャプション：「記録されたゾーン間の乗車 · 模式的な動き。GPSではありません。」
+- 02 Volume city：各ゾーンを押し出して表示。高さ＝月間固定スケール上の乗車件数。選択したゾーンを強調表示。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+# Build "City Pulse": an interactive 3D mobility atlas of New York City taxi activity (January 2025)
+
+## Goal
+A single-page, English-language web visualization that shows how New York moves across one month:
+31 days, 24 hours, 263 taxi zones. The reader should be able to watch the city's daily rhythm,
+compare any day against a typical weekday or weekend, and inspect any zone in detail.
+It is a descriptive analysis tool, not a real-time or GPS product. Every visual must state what one mark represents.
+
+## Data
+Sources (public):
+- NYC TLC Trip Record Data, Yellow Taxi, January 2025 (parquet)
+- NYC TLC Taxi Zones (263 zones, shapes + borough lookup)
+- NYC Open Data building footprints (Manhattan only, as visual context)
+
+Preprocessing (Python + DuckDB or pandas), output small static JSON files:
+- Filter invalid trips: pickup outside Jan 2025, non-positive or > 3h duration, unknown zones (264/265).
+- Per day, per zone, per hour: pickup count, median trip duration.
+- Per day, per hour: top origin → destination zone pairs (aggregated flows, top N per hour).
+- Reference averages per zone-hour: weekday average (23 days) and weekend average (8 days), per-day means, holidays kept in the weekday group.
+- Month-level fixed scale: max zone-hour pickups, used for every day so heights stay comparable.
+- Zone metadata: id, name, borough, centroid, label anchor. Simplify zone geometry.
+Files: month.json (daily totals, scale, top zones), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
+Load the current day lazily; keep the first paint fast.
+
+## Stack
+- One self-contained HTML file (or small Vite app) with Three.js 0.160 (ES modules via importmap), OrbitControls, EffectComposer + bloom.
+- D3 only for scales/formatting and small SVG charts.
+- No framework required. No external API calls at runtime; everything reads the static JSON.
+
+## Layout (desktop 1920×1080 must fit in one screen without scrolling)
+1. Header: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" status, "Data & methods" link.
+2. Status row: "A city, in motion." + three KPIs: citywide pickups (selected hour), vs. comparison average, median trip time.
+3. Month strip: 31 day buttons as mini bars (bar height = daily pickups, weekends marked), prev/next day, date select, "Compare with" select (Weekday average · 23 days / Weekend average · 8 days).
+4. Story bar: "Every movement leaves a pattern." with 4 chapters (01 Watch, 02 Unfold, 03 Compare, 04 Share) and "Start the story".
+5. View tabs: 01 Connections, 02 Volume city, 03 Unfold 24h, 04 Ghost city, plus "Share finding" and "Create briefing".
+6. Workspace: 3D map stage (left) + Location Insight inspector (right, ~330px, scrolls internally).
+7. Timeline: Play day, speed (0.25×–4×), hour scrubber over a 24-hour bar chart of the selected day vs. average.
+Map stage height must adapt to the viewport (clamp between ~470px and ~780px) so the whole console, including the timeline, is visible at 100% zoom.
+
+## 3D scene
+- Dark ground, zone outlines as thin lines, Manhattan building footprints as faint real-world context.
+- Camera: perspective, orbit + zoom, a recenter button. Keep the user's camera when switching views, except "Unfold 24h", which always reframes to show the whole matrix.
+- Hover a zone: tooltip with name and pickups. Click a zone: select it (updates inspector and flows).
+
+Views (each switch animates, no hard pops):
+- 01 Connections: aggregated zone-to-zone trips as glowing arcs with moving light particles; particle density ∝ trips; label the featured flow ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Caption: "Recorded zone-to-zone trips · schematic motion. Not GPS."
+- 02 Volume city: each zone extruded; height = pickups on the fixed monthly scale; selected zone highlighted.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098063352832610473) · [元の投稿](https://x.com/tableau_viz/status/2098063352832610473) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098049032195293190"></a>
+
+### GTA風カートゥーン・カーチェイスのワークフロー
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/be13e0d4ad47b5adc703986ff06c40b3da5a9fbca659046ccfae3614f618320b.webp" width="840" loading="lazy" alt="GTA風カートゥーン・カーチェイスのワークフロー"></a>
+
+**プロンプト**
+
+```text
+このワークフローを使って、オリジナルのGTA風カートゥーン・カーチェイスを作成します。
+デザイン：メインのドライバー1人、逃走車1台、追跡車1台、都市環境を設定します。それぞれのデザインに一貫性を持たせます。4秒のショットを3つ、つまり後方からの追跡トラッキング、急カーブを通過する横方向のトラッキング、広角の離脱ショットを計画します。
+Blenderで構築：クリーンなグレーのモデルと、機能するキャラクターおよび車両のリグを作成します。テクスチャやUV展開は必要ありません。
+アニメーションとテスト：ドライバー、ステアリング操作、ホイールの回転、車両、カメラをアニメーション化します。進行方向と車両の順序に一貫性を保ちます。めり込み、車輪の浮き、タイヤの滑り、ポーズの崩れ、手がステアリングホイールから離れる問題を修正します。
+Blenderでレンダリング：1280×720、24fpsでフレーム1〜288をレンダリングします。Blenderで実際にレンダリングしたフレームをつなぎ合わせ、12秒のグレーモデル版マスターを完成させます。各ショットを個別に書き出し、形状と構図のリファレンスとして対応するグレーの静止画もレンダリングします。
+[@PixVerse](plugin://pixverse@openai-curated-remote)プラグインで仕上げ：Seedance 2.5を720pで使用し、各ショットを個別に処理します。Blenderのクリップを動きのリファレンスとして、グレーの静止画を形状のリファレンスとして使用します。生成プロンプトで一貫したカートゥーン調のカラーパレットを指定します。カメラワーク、アクションのタイミング、キャラクターと車両のデザイン、車両の台数を維持します。
+確認と納品：完成した2種類の動画を確認し、映像上の不具合と連続性をチェックします。Blenderの問題を修正し、Seedanceで失敗したショットだけを、1ショットにつき最大2回まで再生成します。編集可能な.blendファイル、Blenderで作成した720pのグレーモデル動画、ショットごとにラベル付けした720pのSeedance版、残る制限事項の簡単な評価を納品します。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create an original GTA-inspired cartoon car chase using this workflow:
+Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot.
+Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required.
+Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel.
+Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references.
+Finish with [@PixVerse](plugin://pixverse@openai-curated-remote) Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count.
+Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098049032195293190) · [元の投稿](https://x.com/PixVerse/status/2098049032195293190) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098043033446912315"></a>
+
+### インタラクティブなイカの群れ
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-10 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/e75365c0d5394d6f38e8113afc4ec791456e5e46799814200ba48f679ad4be86.webp" width="840" loading="lazy" alt="インタラクティブなイカの群れ"></a>
+
+**プロンプト**
+
+```text
+インタラクティブなイカの群れを作成する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+create an interactive squid shoal
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098043033446912315) · [元の投稿](https://x.com/vib3coded/status/2098043033446912315) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098038909514944562"></a>
+
+### 18ホールのゴルフコースをより難しくする
+
+[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/6c08365ca5db7b55f666bd46e4f46f4e0b5f28a36cc57cbc152cbe9f0978ee7d.webp" width="840" loading="lazy" alt="18ホールのゴルフコースをより難しくする"></a>
+
+**プロンプト**
+
+```text
+すべてのホールの難度を高める
+>直線的なフェアウェイを分断する
+>より大胆なバンカー＋ハザードを追加する
+>ショットの選択により大きな意味を持たせる
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Make every hole more demanding
+>Break up the straight fairways
+>Add bolder bunkers + hazards
+>Build more meaningful shot choices
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098038909514944562) · [元の投稿](https://x.com/Ror_Fly/status/2098038909514944562) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
+
+### Mosswing：モバイル向け3Dタップ飛行ゲーム
+
+[Ayi1337](https://github.com/Ayi1337) · 2026-09-10 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/6785692e613325d845661924a28011ea02f5ee6ef33ca664d20f81f2ae38fdec.webp" width="840" loading="lazy" alt="Mosswing：モバイル向け3Dタップ飛行ゲーム"></a>
+
+**プロンプト**
+
+```text
+クラシックな「タップして飛ぶ」ゲーム――小さな生き物をタップで空中に浮かせ、無限に続く隙間を滑空して進むゲーム――を、モバイルブラウザで遊べる3Dゲームとしてリメイクしてください。ファイルは1つのindex.htmlとし、開けばすぐに起動して遊べるようにします。外部アセットは使用しません（CDNライブラリの利用は可。判断は任せます）。核となるルールは、誰もが覚えているとおりにしてください。ワンタップ操作、重力、こちらへ向かってスクロールする隙間、1回ぶつかったらゲームオーバー、スコアは通過した隙間の数です。それ以外は自由に決めてください。生き物の種類、障害物、世界観、カメラ、羽ばたきの感触、ビジュアルの作り込み方は任せます。元作品のアートをコピーせず、オリジナルのキャラクターとスタイルをデザインしてください。確認の質問には答えません。機能の多さではなく、完成度が高く、洗練され、遊び心地のよい作品として全体を評価します。大規模で粗いものより、小さくても完成されたものを優先してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Remaster the classic "tap-to-flap" game — the one where you tap to keep a small creature airborne while gliding through an endless series of gaps — as a 3D game playable in a mobile browser. One index.html, opens and plays instantly, no external assets (CDN libraries are allowed; your call).  Keep the core exactly as everyone remembers it: one-tap control, gravity, gaps that scroll toward you, one hit and you're done, score is gaps passed. Everything else is yours to decide: what the creature is, what the obstacles are, the world, the camera, the feel of the flap, how far to take the visuals. Design an original character and style rather than copying the original's art. I won't answer clarifying questions.  I'm judging a complete, elegant, great-feeling piece of work — not a feature list. Small and finished beats big and rough.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [元の投稿](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [ソースコード](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [デモ](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097900087901106244"></a>
+
+### セリフなしの3D猫おやつショート
+
+[AI実践ラボ](https://x.com/boboga777) · 2026-09-10 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/92c32613ae2b3c859ba424f99071a6eac6c05a87e445d48ee321d3a160a07237.webp" width="840" loading="lazy" alt="セリフなしの3D猫おやつショート"></a>
+
+**プロンプト**
+
+```text
+セリフなしの3D猫ショートを制作してください。おやつボタンは1つだけにし、大混乱へと発展させ、最後に小さなご褒美を用意します。表情豊かな演技、カメラワーク、音楽、ループも加えてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add expressive acting, camera moves, music and a loop.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097900087901106244) · [元の投稿](https://x.com/boboga777/status/2097900087901106244) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097821164093480999"></a>
 
 ### インタラクティブなファンタジーグラフィックスデモ
@@ -2147,293 +2750,6 @@ This should look like a short film still, not a three.js example. If a screensho
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [元の投稿](https://x.com/dqlh47m/status/2096578684010508736) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="steam-locomotive-across-the-countryside-2096577430274429157"></a>
-
-### 田園を走る蒸気機関車
-
-[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp" width="840" loading="lazy" alt="田園を走る蒸気機関車"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.jsで蒸気機関車をモデリングし、田園風景を走るアニメーションを制作してください。車輪の動きを列車の移動に同期させてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [元の投稿](https://x.com/dansanburu/status/2096577430274429157) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="a-house-modeled-from-scratch-in-blender-2096576154337734865"></a>
-
-### Blenderで一からモデリングする住宅
-
-[みずくん](https://x.com/mizkun) · 2026-09-06 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/346d92a550603016457fa5c8c7309856edfe8bff51fa3c77475b25b27d6c80ae.webp" width="840" loading="lazy" alt="Blenderで一からモデリングする住宅"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blenderで住宅を一からモデリングしてください。後から建物を確認し、繰り返し改善できるように、編集可能なシーンを保持してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [元の投稿](https://x.com/mizkun/status/2096576154337734865) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="the-quiet-crossing-exploration-quest-2096574297703637111"></a>
-
-### The Quiet Crossing：雪景色の探索クエスト
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/2bf4d5da0fcb675294f65b4db9a4f86da2f2f9c6b8923c3d11e1b991ad0f7839.webp" width="840" loading="lazy" alt="The Quiet Crossing：雪景色の探索クエスト"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blender製キャラクター、ボクセルの松、石造りの転移門が登場する、雪景色の探索ゲームをThree.jsで制作してください。6つの光るかけらを集める仕組みを作り、カメラでキャラクターを追尾し、門までの距離を表示してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [元の投稿](https://x.com/Motion_Viz/status/2096574297703637111) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="indian-mango-tree-in-speedtree-2096572429066006845"></a>
-
-### SpeedTreeで作るインドのマンゴーの木
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/327cfb97d273bfb139d4b96a16ecf3f6d5be5fa85e33b5e43c7eb7a78f7d3f89.webp" width="840" loading="lazy" alt="SpeedTreeで作るインドのマンゴーの木"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-60 FPSを目標とするUnrealシーン向けに、SpeedTreeでインドのマンゴーの木を制作してください。葉と樹皮のマテリアルを生成し、見た目を確認してからアセットを完成させてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [元の投稿](https://x.com/waitin4agi_/status/2096572429066006845) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-lorenz-attractor-2096572156453028193"></a>
-
-### 操作できるローレンツアトラクター
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/fca1d41314709e1d755d899fb81edf769d909a209093c5ec094b985e27e4c46e.webp" width="840" loading="lazy" alt="操作できるローレンツアトラクター"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-初期位置がごくわずかに異なる、ローレンツ系の2つの軌道を可視化してください。初期位置の差を変更し、時間を前後に動かせるようにしてください。数値的な検証と、長期にわたる厳密な予測は区別してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [元の投稿](https://x.com/juyeam/status/2096572156453028193) · [デモ](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="low-poly-beach-treasure-hunt-2096570815714414844"></a>
-
-### ローポリのビーチで宝探し
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/53eb3de661c3961054e87a9bc6566587c5cb1feec8ea01eaea8958cfb5b29752.webp" width="840" loading="lazy" alt="ローポリのビーチで宝探し"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Unityで、ビーチを舞台にしたプレイ可能な3D宝探しゲームを制作してください。ローポリのヤシの木とウッドデッキをモデリングし、探索して宝を発見する基本ループを構築してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [元の投稿](https://x.com/sorano_concon_g/status/2096570815714414844) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
-
-### 住戸のスケッチから作る室内レンダリング
-
-[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="住戸のスケッチから作る室内レンダリング"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-住戸の参考画像と簡単な間取りのスケッチを組み合わせ、Blenderで室内を再構築してください。編集可能なシーン、各部屋のレンダリング、短く編集したウォークスルーを納品してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [元の投稿](https://x.com/WorldEverett/status/2096566686266597754) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
-
-### Tripoキャラクターのテクスチャとリグ設定
-
-[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Tripoキャラクターのテクスチャとリグ設定"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Tripo Smart MeshのキャラクターをBlenderに読み込んでください。テクスチャを適用し、使用可能なボディリグを構築してから、表情の制作に進んでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [元の投稿](https://x.com/chimerast/status/2096566598689783878) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096562462674079868"></a>
-
-### 3D都市の核爆発シミュレーション
-
-[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="3D都市の核爆発シミュレーション"></a>
-
-**プロンプト**
-
-```text
-3D都市、核爆発の閃光、拡大する衝撃波、火球、煙を再現し、爆風の到達に伴って建物が段階的に破砕・崩壊する核爆発デモを作成する
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096562462674079868) · [元の投稿](https://x.com/ashishthakur___/status/2096562462674079868) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
-
-### テーブル上のレコードプレーヤー
-
-[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="テーブル上のレコードプレーヤー"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.jsで、テーブル上にレコードプレーヤーを置いたシーンを制作してください。ランプが点灯する演出と、プレーヤーや周囲の家具を映すカメラを使い、製品紹介のようなデモに仕上げてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [元の投稿](https://x.com/niteshseram/status/2096561346766877106) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
-
-### BlenderモデルとUnity VFXの組み合わせ
-
-[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="BlenderモデルとUnity VFXの組み合わせ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blenderでシーン用のモデルを制作し、Unityに読み込んでください。VFX Graphでエフェクトを加え、モデルとエフェクトの両方が見やすく調和するようにライティングしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [元の投稿](https://x.com/CST_negi/status/2096560142871658589) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
-
-### 2Dロゴを動く3Dキャラクターに
-
-[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="2Dロゴを動く3Dキャラクターに"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提供された2Dのキャラクターロゴを、アニメーションする3D版にしてください。立体感と動きを加えても、元のキャラクターだとわかる特徴を保ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [元の投稿](https://x.com/anthonyriera/status/2096559197999501724) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
-
-### 操作して探索できるソウルのミニチュア
-
-[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="操作して探索できるソウルのミニチュア"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-オープンな地図データを使い、Three.jsでソウルのミニチュアを制作してください。地区の選択、名所を巡るフライスルー、昼夜モード、タッチ操作を追加してください。建物を簡略化した箇所、推定した高さ、データのライセンスを明示してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [元の投稿](https://x.com/synabreu/status/2096557555086725159) · [デモ](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
-
-### スマートフォンで遊べるUnityのラリーゲーム
-
-[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="スマートフォンで遊べるUnityのラリーゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Codex、Blender、Unityでラリー走行ゲームの試作を制作してください。スマートフォンでプレイテストできるように、3Dアセットと操作系を整えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [元の投稿](https://x.com/kevinkern/status/2096556692842348826) · [作例一覧に戻る](#all-prompts)
 
 ---
 

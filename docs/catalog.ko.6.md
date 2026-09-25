@@ -28,6 +28,20 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [Roblox 애니메이션풍 아레나 격투](#anime-arena-fighter-in-roblox-2095999578419929412)
+- [평면도와 연동되는 3D 둘러보기](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
+- [브라우저에서 조작하는 강 장면](#interactive-browser-river-scene-2095993826569502785)
+- [대성당 핵앤슬래시 아레나](#cathedral-hack-and-slash-arena-2095988972879335792)
+- [기존 에셋 팩으로 Unity 도시 만들기](#gpt-6-astra-2095987508475834641)
+- [인터랙티브 타이탄 과학 전시](#interactive-titan-science-exhibit-2095986941753712841)
+- [새를 날리는 3D 새총 게임](#3d-slingshot-bird-game-2095981655370666076)
+- [연쇄 반응하는 루브 골드버그 장치](#rube-goldberg-chain-reaction-machine-2095980885732704629)
+- [낮과 밤을 전환할 수 있는 공중의 중국식 사원](#gpt-6-astra-2095978925029556561)
+- [여러 레퍼런스 이미지로 제작한 리깅된 메카](#gpt-6-astra-2095975726558392570)
+- [반중력 전투 레이싱](#anti-gravity-combat-racer-2095967568825582044)
+- [인터랙티브 PS5 컨트롤러](#interactive-ps5-controller-2095967131573649552)
+- [인터랙티브 3D 캐릭터 카드](#interactive-3d-character-cards-2095963576049832347)
+- [불릿 타임 3인칭 슈터](#bullet-time-third-person-shooter-2095962376344309843)
 - [브라우저 드리프트 레이싱 Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 - [빠르게 만드는 플레이 가능한 게임 프로토타입](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender로 만드는 반복 재생 사이버펑크 침실](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
@@ -64,22 +78,326 @@
 - [Cycles용 절차적 대통령 집무실 세트](#procedural-oval-office-set-for-cycles-2095630197257367857)
 - [Unity 우주 협곡 돌파 게임](#unity-space-trench-run-game-2095630044102279312)
 - [설계도에서 Blender를 거쳐 Unreal 건축 시각화로](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
-- [텍스트에서 탐험 가능한 Unity 도시로](#text-to-explorable-unity-city-2095623452678144366)
-- [Three.js 구슬 공장](#three-js-marble-factory-2095622065390772322)
-- [사실적인 3D 제품 목업 스튜디오](#photoreal-3d-product-mockup-studio-2095619319690400253)
-- [3D 박물관 촬영 프리비즈](#3d-museum-cinematography-previsualization-2095616529572503593)
-- [Zillow 매물 정보로 만드는 3D 부동산 영상](#zillow-listing-to-3d-property-film-2095612137582526615)
-- [Unreal Engine으로 거리마다 재현한 맨해튼](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
-- [초보자가 음성으로 만드는 3D 게임](#voice-directed-3d-game-for-beginners-2095608358086840647)
-- [한 번의 요청으로 만드는 브라우저 3D 게임](#one-shot-browser-3d-game-2095599934766764338)
-- [집 사진을 편집 가능한 Blender 세계로](#house-photo-to-editable-blender-world-2095598645190291775)
-- [Halo에서 영감을 받은 10 대 10 멀티플레이 FPS](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
-- [에셋을 조립해 탐험하는 Unity 도시](#asset-driven-explorable-unity-city-2095597640587374887)
-- [한 번에 만드는 고급 인터랙티브 프로토타입](#one-shot-premium-interactive-prototype-2095597560253862065)
-- [한 번에 만드는 Minecraft 스타일 세계](#one-shot-minecraft-style-world-2095597137849446688)
-- [브라우저 속 오픈월드 모험](#open-world-browser-adventure-2095596341422440714)
 
 </details>
+<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
+
+### Roblox 애니메이션풍 아레나 격투
+
+[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Roblox 애니메이션풍 아레나 격투"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+애니메이션 크로스오버 배틀에서 영감을 받은 Roblox 아레나 격투 게임을 만드세요. Blender와 사용 가능한 에셋으로 아레나와 캐릭터를 만들고 플레이 가능한 전투 흐름을 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [원본 게시물](https://x.com/WoahWurdz/status/2095999578419929412) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
+
+### 평면도와 연동되는 3D 둘러보기
+
+[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="평면도와 연동되는 3D 둘러보기"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+동일한 치수로 침실이 하나인 아파트의 평면도와 실내 둘러보기를 만드세요. 두 보기의 현재 위치를 동기화하고, 가정한 천장 높이와 마감재를 명확히 표시하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [원본 게시물](https://x.com/onofumi_AI/status/2095999282088378520) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-browser-river-scene-2095993826569502785"></a>
+
+### 브라우저에서 조작하는 강 장면
+
+[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="브라우저에서 조작하는 강 장면"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+브라우저에서 작동하는 인터랙티브 강 장면을 만드세요. 먼저 실시간 물 표현이 작동하는 프로토타입을 만든 뒤, 시각적 결과를 살펴보고 다듬으세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [원본 게시물](https://x.com/dangreenheck/status/2095993826569502785) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
+
+### 대성당 핵앤슬래시 아레나
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="대성당 핵앤슬래시 아레나"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+죽은 별 위의 대성당을 배경으로 3인칭 Three.js 핵앤슬래시 게임을 만드세요. 약한 검 공격 콤보, 강공격, 범위 마법, 회피, 무게 중심이 느껴지는 양손 애니메이션을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [원본 게시물](https://x.com/superalesha/status/2095988972879335792) · [소스 코드](https://github.com/alesha-pro/bench-portal) · [데모](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095987508475834641"></a>
+
+### 기존 에셋 팩으로 Unity 도시 만들기
+
+[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="기존 에셋 팩으로 Unity 도시 만들기"></a>
+
+**프롬프트**
+
+```text
+새로운 3D 도시 씬을 만들어 주세요. 높이가 서로 다른 여러 종류의 건물과 자동차를 배치하고, 대도시에 어울리는 도로와 광고판 등 다양한 요소도 추가해 주세요. 필요한 모든 에셋은 Assets/ithappy/Cartoon_City_Free 폴더에 있습니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2095987508475834641) · [원본 게시물](https://x.com/AndrewWalko/status/2095987508475834641) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
+
+### 인터랙티브 타이탄 과학 전시
+
+[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="인터랙티브 타이탄 과학 전시"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+토성의 가장 큰 위성 타이탄을 교육용 3D 시뮬레이션으로 만드세요. 탐험 가능한 환경과 고유한 물리적 특징을 설명하는 정보 레이어를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [원본 게시물](https://x.com/ArdaTugsat/status/2095986941753712841) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="3d-slingshot-bird-game-2095981655370666076"></a>
+
+### 새를 날리는 3D 새총 게임
+
+[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="새를 날리는 3D 새총 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+각기 다른 특수 능력을 가진 새 네 마리가 등장하는 3D 새총 게임을 만드세요. 조준 후 놓는 조작, 파괴 가능한 구조물, 반복 플레이 가능한 점수 흐름을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [원본 게시물](https://x.com/MozeTech/status/2095981655370666076) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
+
+### 연쇄 반응하는 루브 골드버그 장치
+
+[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="연쇄 반응하는 루브 골드버그 장치"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+독립 실행 Three.js HTML 파일로 루브 골드버그 장치를 만드세요. 기계적 상호작용이 연달아 이어지다가 마지막에 버튼을 눌러 극적인 폭발을 일으키게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [원본 게시물](https://x.com/thehypedotnews/status/2095980885732704629) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095978925029556561"></a>
+
+### 낮과 밤을 전환할 수 있는 공중의 중국식 사원
+
+[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="낮과 밤을 전환할 수 있는 공중의 중국식 사원"></a>
+
+**프롬프트**
+
+```text
+제가 모델을 얼마나 잘 만드는지 확인할 수 있도록 인터랙티브 픽셀 블록 월드를 만들어 주세요. 분홍색 벚꽃나무로 둘러싸인 중국식 사원을 원합니다. 사원과 주변 풍경 전체가 폭포와 산악 지형을 배경으로 한 독립된 공중 섬 위에 있도록 만들어 주세요. 저에게 어떤 입력도 요청하지 말고, 모든 요소를 직접 구성하면서 필요한 결정도 스스로 내려 주세요. 간단한 스위치로 낮과 밤을 전환할 수 있게 해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2095978925029556561) · [원본 게시물](https://x.com/PhilipNora7/status/2095978925029556561) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095975726558392570"></a>
+
+### 여러 레퍼런스 이미지로 제작한 리깅된 메카
+
+[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="여러 레퍼런스 이미지로 제작한 리깅된 메카"></a>
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
+
+**프롬프트**
+
+```text
+헤드리스 Blender 5.2.1을 사용해 다음 설계도를 바탕으로 디테일이 뛰어난 메카 3D 모델을 제작하세요: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. 더 자세한 참고를 위해 같은 디렉터리에서 찾을 수 있는 추가 메카 레퍼런스 이미지도 사용하세요. 설계도와 모든 레퍼런스 이미지가 AI로 생성된 것이므로 이미지마다 세부 사항이 일치하지 않을 수 있다는 점에 유의하세요. 불일치하는 세부 사항을 발견하면 창의적으로 해결하여 최종 메카 3D 모델이 일관되고 물리적으로 타당해 보이도록 하세요. 메카 3D 모델에는 리깅을 적용해야 합니다. 메카가 무기를 선보이고 전투 기동성을 보여주는 10초 분량의 애니메이션을 렌더링하여 목표 달성을 입증하세요.
+
+조정 사항만:
+설계도에 명시적으로 언급되었다는 이유만으로 설계도를 우선하지 말고, 가장 적합한 레퍼런스 이미지를 선택하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
+
+only steering:
+pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2095975726558392570) · [원본 게시물](https://x.com/vatro_vrbanic/status/2095975726558392570) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="anti-gravity-combat-racer-2095967568825582044"></a>
+
+### 반중력 전투 레이싱
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="반중력 전투 레이싱"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+드리프트, 부스트, 회전할 때 기우는 카메라, 에어브레이크, 방어막 아이템이 있는 고속 Three.js 반중력 전투 레이싱을 만드세요. 외계 고가 트랙에 경량·균형형·중량 기체를 포함하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [원본 게시물](https://x.com/superalesha/status/2095967568825582044) · [소스 코드](https://github.com/alesha-pro/bench-portal) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-ps5-controller-2095967131573649552"></a>
+
+### 인터랙티브 PS5 컨트롤러
+
+[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="인터랙티브 PS5 컨트롤러"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Three.js로 살펴볼 수 있는 PlayStation 5 컨트롤러를 만드세요. 알아볼 수 있는 실루엣, 버튼, 트리거, 아날로그 스틱, 구별되는 표면 재질을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-ps5-controller-2095967131573649552) · [원본 게시물](https://x.com/blueemi99/status/2095967131573649552) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-3d-character-cards-2095963576049832347"></a>
+
+### 인터랙티브 3D 캐릭터 카드
+
+[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="인터랙티브 3D 캐릭터 카드"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+인터랙티브 3D 캐릭터 카드 인터페이스를 만드세요. 캐릭터가 포인터 움직임에 반응하게 하고 카드의 가독성과 반응형 동작을 유지하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [원본 게시물](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
+
+### 불릿 타임 3인칭 슈터
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="불릿 타임 3인칭 슈터"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Max Payne에서 영감을 받은 Three.js 3인칭 슈터를 만드세요. 슬로모션 액션, 반응이 빠른 총격전, 효과적인 추적 카메라를 갖춘 플레이 가능한 장면에 집중하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [원본 게시물](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="street-heat-browser-drift-racer-2095916820431827408"></a>
 
 ### 브라우저 드리프트 레이싱 Street Heat
@@ -811,288 +1129,6 @@ Blender에서 완성된 모던 빌라 장면을 만드세요. 일관된 건축 �
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [원본 게시물](https://x.com/LinusEkenstam/status/2095624712244072551) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="text-to-explorable-unity-city-2095623452678144366"></a>
-
-### 텍스트에서 탐험 가능한 Unity 도시로
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="텍스트에서 탐험 가능한 Unity 도시로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 도시 구상을 고층 건물, 도로, 차량, 야자수, 분위기 있는 빛이 있는 탐험 가능한 Unity 환경으로 만드세요. 자연스러운 규모, 이동 경로, 교통 흐름, 부드러운 1인칭 카메라를 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [원본 게시물](https://x.com/0x0SojalSec/status/2095623452678144366) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="three-js-marble-factory-2095622065390772322"></a>
-
-### Three.js 구슬 공장
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js 구슬 공장"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-생산 흐름이 명확하고 구슬과 기계가 움직이는 Three.js 구슬 공장 시뮬레이션을 만드세요. 관람자가 구슬 하나를 따라 전체 공정을 볼 수 있게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-js-marble-factory-2095622065390772322) · [원본 게시물](https://x.com/JohnKlerAI/status/2095622065390772322) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
-
-### 사실적인 3D 제품 목업 스튜디오
-
-[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="사실적인 3D 제품 목업 스튜디오"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-업로드한 디자인을 사실적인 3D 제품 목업에 배치하는 브라우저 도구를 만드세요. 카메라 회전, 재질과 색상 조정, 환경 조명, 여러 제품, 고해상도 내보내기를 지원하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [원본 게시물](https://x.com/joshmillgate/status/2095619319690400253) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
-
-### 3D 박물관 촬영 프리비즈
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D 박물관 촬영 프리비즈"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-장소, 출연자 위치, 카메라 배치, 숏 목록을 정리하는 3D 박물관 프리비즈를 만드세요. 모든 촬영 구성을 실제 뷰포트 안에 유지하고, 후속 영상 생성에 사용할 일관된 가이드를 내보내세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [원본 게시물](https://x.com/higgsfield_ai/status/2095616529572503593) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
-
-### Zillow 매물 정보로 만드는 3D 부동산 영상
-
-[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Zillow 매물 정보로 만드는 3D 부동산 영상"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
-
-**프롬프트**
-
-```text
-제공된 부동산 매물 정보와 모든 사진으로 집을 3D로 재구성하고, 일관된 평면도를 추론한 뒤 완성도 높은 홍보용 워크스루 영상을 만드세요. 불확실한 형상을 표시하고 첫 제작 후 어긋난 부분을 다듬으세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [원본 게시물](https://x.com/realYunfanYe/status/2095612137582526615) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
-
-### Unreal Engine으로 거리마다 재현한 맨해튼
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Unreal Engine으로 거리마다 재현한 맨해튼"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Unreal Engine에서 탐험할 수 있는 맨해튼을 만드세요. 구역별, 거리별로 작업하며 알아볼 수 있는 규모, 도로 배치, 랜드마크, 교통, 동네의 개성을 유지하세요. 평가 체크리스트를 만들고 각 구역을 다듬은 뒤 다음 구역으로 넘어가세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [원본 게시물](https://x.com/mattshumer_/status/2095609734845927525) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
-
-### 초보자가 음성으로 만드는 3D 게임
-
-[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="초보자가 음성으로 만드는 3D 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제 3D 게임 제작자 역할을 맡으세요. 빠진 플레이 목표, 미술 방향, 조작 방식만 질문한 뒤 바로 플레이할 수 있는 브라우저 게임을 만드세요. 이후 짧은 음성 지시에 따라 계속 수정하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [원본 게시물](https://x.com/EHuanglu/status/2095608358086840647) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="one-shot-browser-3d-game-2095599934766764338"></a>
-
-### 한 번의 요청으로 만드는 브라우저 3D 게임
-
-[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="한 번의 요청으로 만드는 브라우저 3D 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-하나의 독립 실행 프로젝트로 브라우저에서 작동하는 3D 게임을 완성하세요. 명확한 목표, 반응이 빠른 조작, 공간적으로 일관된 레벨, 적이나 위험 요소, 피드백, 점수, 재시작, 성능 보호 장치를 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [원본 게시물](https://x.com/theo/status/2095599934766764338) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
-
-### 집 사진을 편집 가능한 Blender 세계로
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="집 사진을 편집 가능한 Blender 세계로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 집 사진을 완전히 편집 가능한 Blender 장면으로 재구성하세요. 건물과 가구, 가전제품, 장난감을 각각 별도 오브젝트로 모델링하세요. 자연스러운 비율을 유지하고 로컬에서 부드러운 60 FPS 워크스루로 실행되게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [원본 게시물](https://x.com/tomkrcha/status/2095598645190291775) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
-
-### Halo에서 영감을 받은 10 대 10 멀티플레이 FPS
-
-[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="Halo에서 영감을 받은 10 대 10 멀티플레이 FPS"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-고전 SF FPS에서 영감을 받은 10 대 10 멀티플레이 아레나 슈터를 만드세요. 팀, 부활, 구분하기 쉬운 무기, 방어막, 획득 아이템, 작은 맵, 점수, 경기 진행, 저지연 브라우저 플레이를 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [원본 게시물](https://x.com/VikiingAI/status/2095598026916049024) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
-
-### 에셋을 조립해 탐험하는 Unity 도시
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="에셋을 조립해 탐험하는 Unity 도시"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 에셋 라이브러리로 탐험 가능한 Unity 도시를 조립하세요. 일관된 도로망, 고층 건물, 차량, 야자수, 조명, 이동 경로를 만들고 장면을 최적화해 안정적인 1인칭 워크스루를 제공하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [원본 게시물](https://x.com/chetaslua/status/2095597640587374887) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
-
-### 한 번에 만드는 고급 인터랙티브 프로토타입
-
-[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="한 번에 만드는 고급 인터랙티브 프로토타입"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 제품 콘셉트로 완성도 높은 인터랙티브 프로토타입을 한 번에 설계하고 구현하세요. 뚜렷한 시각 체계를 선택하고 핵심 행동을 우선하며, 세련된 전환을 더해 호스팅된 반응형 빌드를 제공하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [원본 게시물](https://x.com/AY_Orbach/status/2095597560253862065) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
-
-### 한 번에 만드는 Minecraft 스타일 세계
-
-[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="한 번에 만드는 Minecraft 스타일 세계"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Minecraft에서 영감을 받은 플레이 가능한 복셀 세계를 한 번에 만드세요. 지형 생성, 블록 설치와 파괴, 1인칭 조작, 인벤토리, 조명, 물, 짧고 완결된 생존 플레이 흐름을 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [원본 게시물](https://x.com/flavioAd/status/2095597137849446688) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="open-world-browser-adventure-2095596341422440714"></a>
-
-### 브라우저 속 오픈월드 모험
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="브라우저 속 오픈월드 모험"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-서로 연결된 여러 생물군계가 있는 오픈월드 3D 모험 게임을 만드세요. 이동, 발견, 가벼운 전투, 퀘스트, 랜드마크, 낮과 밤의 분위기, 목적 있는 탐험을 돕는 충분한 안내를 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/open-world-browser-adventure-2095596341422440714) · [원본 게시물](https://x.com/petergostev/status/2095596341422440714) · [사례 목록으로](#all-prompts)
 
 ---
 

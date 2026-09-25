@@ -28,6 +28,20 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [전원 풍경을 달리는 증기 기관차](#steam-locomotive-across-the-countryside-2096577430274429157)
+- [Blender에서 처음부터 만드는 주택](#a-house-modeled-from-scratch-in-blender-2096576154337734865)
+- [The Quiet Crossing 설원 탐험 퀘스트](#the-quiet-crossing-exploration-quest-2096574297703637111)
+- [SpeedTree로 만드는 인도 망고나무](#indian-mango-tree-in-speedtree-2096572429066006845)
+- [직접 조작하는 로렌츠 끌개](#interactive-lorenz-attractor-2096572156453028193)
+- [로우폴리 해변 보물찾기](#low-poly-beach-treasure-hunt-2096570815714414844)
+- [아파트 스케치에서 실내 렌더링까지](#apartment-sketch-to-rendered-interiors-2096566686266597754)
+- [Tripo 캐릭터의 텍스처와 리깅](#texture-and-rig-a-tripo-character-2096566598689783878)
+- [핵폭발 3D 도시 시뮬레이션](#gpt-6-astra-2096562462674079868)
+- [테이블 위 레코드플레이어 장면](#vinyl-player-tabletop-scene-2096561346766877106)
+- [Blender 모델에 더하는 Unity VFX](#blender-models-with-unity-vfx-2096560142871658589)
+- [2D 로고를 움직이는 3D 캐릭터로](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
+- [직접 탐색하는 서울 미니어처](#interactive-miniature-of-seoul-2096557555086725159)
+- [휴대폰에서 플레이하는 Unity 랠리 게임](#mobile-playable-unity-rally-game-2096556692842348826)
 - [트레이딩 카드 대전의 기본 게임 루프](#trading-card-battle-game-loop-2096555856204644550)
 - [두 개의 링으로 이루어진 에너지 코어](#interactive-dual-ring-energy-core-2096551010089263181)
 - [에스겔의 성전 환상을 3D로](#gpt-6-astra-2096547658164834788)
@@ -64,22 +78,295 @@
 - [Komorebi 강 카약 여행](#komorebi-river-kayaking-2096244208533455049)
 - [굴절하는 병으로 전하는 제품 이야기](#refractive-bottle-product-story-2096243989439713677)
 - [추억 캡슐 머신](#memory-capsule-machine-2096241295949975602)
-- [완전한 비행 루프를 갖춘 브라우저 비행 시뮬레이터](#gpt-6-astra-2096236137266512181)
-- [절차적으로 만드는 나폴레옹 흉상](#procedural-napoleon-bust-2096234355395903672)
-- [기차역 중앙 홀](#railway-station-concourse-2096226711222546461)
-- [궤도 랑데부 시뮬레이터](#orbital-rendezvous-simulator-2096225621303042258)
-- [첫 사용을 안내하는 애니메이션 디오라마](#animated-onboarding-diorama-2096222790894661841)
-- [분해하며 살펴보는 인터랙티브 인체 해부](#exploded-interactive-human-anatomy-2096221988763173186)
-- [정육면체 안에 갇힌 폭풍](#a-storm-trapped-in-a-cube-2096220264413409648)
-- [커스텀 3D 에셋을 활용한 플레이 가능한 Roblox 카트 레이싱 게임](#gpt-6-astra-2096219700879331665)
-- [자전거를 타는 인터랙티브 펠리컨](#gpt-6-astra-2096213850383331489)
-- [열린 도시를 달리는 OX Vice Drive](#ox-vice-drive-open-city-racer-2096206082712768897)
-- [아이가 노는 따뜻한 장난감 세계](#a-playful-toddler-toy-world-2096201415051911597)
-- [참고 이미지로 만드는 예인선 조립 모델](#reference-image-tugboat-assembly-2096180220839760375)
-- [사용자에게 반응하는 WebGL 캐릭터 Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
-- [커피잔 속 해양 생물](#marine-life-in-a-coffee-cup-2096174858837074198)
 
 </details>
+<a id="steam-locomotive-across-the-countryside-2096577430274429157"></a>
+
+### 전원 풍경을 달리는 증기 기관차
+
+[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp" width="840" loading="lazy" alt="전원 풍경을 달리는 증기 기관차"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Three.js에서 증기 기관차를 모델링하고 전원 풍경을 달리는 애니메이션을 만드세요. 바퀴의 움직임을 열차의 이동에 맞춰 동기화하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [원본 게시물](https://x.com/dansanburu/status/2096577430274429157) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="a-house-modeled-from-scratch-in-blender-2096576154337734865"></a>
+
+### Blender에서 처음부터 만드는 주택
+
+[みずくん](https://x.com/mizkun) · 2026-09-06 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/346d92a550603016457fa5c8c7309856edfe8bff51fa3c77475b25b27d6c80ae.webp" width="840" loading="lazy" alt="Blender에서 처음부터 만드는 주택"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender에서 주택을 처음부터 모델링하세요. 이후 반복 작업에서 건물을 살펴보고 개선할 수 있도록 장면을 편집 가능한 상태로 유지하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [원본 게시물](https://x.com/mizkun/status/2096576154337734865) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="the-quiet-crossing-exploration-quest-2096574297703637111"></a>
+
+### The Quiet Crossing 설원 탐험 퀘스트
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/2bf4d5da0fcb675294f65b4db9a4f86da2f2f9c6b8923c3d11e1b991ad0f7839.webp" width="840" loading="lazy" alt="The Quiet Crossing 설원 탐험 퀘스트"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender 캐릭터, 복셀 소나무, 돌로 된 이동 관문이 등장하는 Three.js 설원 탐험 게임을 만드세요. 빛나는 조각 6개를 모으게 하고, 카메라가 캐릭터를 따라가며 관문까지의 거리를 표시하도록 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [원본 게시물](https://x.com/Motion_Viz/status/2096574297703637111) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="indian-mango-tree-in-speedtree-2096572429066006845"></a>
+
+### SpeedTree로 만드는 인도 망고나무
+
+[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/327cfb97d273bfb139d4b96a16ecf3f6d5be5fa85e33b5e43c7eb7a78f7d3f89.webp" width="840" loading="lazy" alt="SpeedTree로 만드는 인도 망고나무"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+60 FPS를 목표로 하는 Unreal 장면용 인도 망고나무를 SpeedTree에서 만드세요. 잎과 나무껍질 재질을 생성하고, 외관을 검토한 뒤 에셋을 완성하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [원본 게시물](https://x.com/waitin4agi_/status/2096572429066006845) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-lorenz-attractor-2096572156453028193"></a>
+
+### 직접 조작하는 로렌츠 끌개
+
+[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/fca1d41314709e1d755d899fb81edf769d909a209093c5ec094b985e27e4c46e.webp" width="840" loading="lazy" alt="직접 조작하는 로렌츠 끌개"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+초기 위치에 아주 작은 차이가 있는 두 로렌츠 시스템 궤적을 시각화하세요. 관람자가 그 차이를 조절하고 시간 축을 앞뒤로 탐색할 수 있게 하세요. 수치 검증과 정확한 장기 예측은 구분해 설명하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [원본 게시물](https://x.com/juyeam/status/2096572156453028193) · [데모](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="low-poly-beach-treasure-hunt-2096570815714414844"></a>
+
+### 로우폴리 해변 보물찾기
+
+[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/53eb3de661c3961054e87a9bc6566587c5cb1feec8ea01eaea8958cfb5b29752.webp" width="840" loading="lazy" alt="로우폴리 해변 보물찾기"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Unity에서 해변을 배경으로 한 플레이 가능한 3D 보물찾기 게임을 만드세요. 로우폴리 야자수와 목재 데크를 모델링하고, 탐험하며 보물을 찾는 핵심 게임 루프를 구성하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [원본 게시물](https://x.com/sorano_concon_g/status/2096570815714414844) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
+
+### 아파트 스케치에서 실내 렌더링까지
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="아파트 스케치에서 실내 렌더링까지"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+아파트 참고 이미지와 간단한 평면도 스케치를 결합해 Blender에서 실내를 재구성하세요. 편집 가능한 장면, 방별 렌더링, 짧게 편집한 실내 투어 영상을 제공하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [원본 게시물](https://x.com/WorldEverett/status/2096566686266597754) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
+
+### Tripo 캐릭터의 텍스처와 리깅
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Tripo 캐릭터의 텍스처와 리깅"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Tripo Smart Mesh 캐릭터를 Blender로 가져오세요. 텍스처를 적용하고 사용 가능한 몸체 리그를 완성한 뒤 표정 작업으로 넘어가세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [원본 게시물](https://x.com/chimerast/status/2096566598689783878) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096562462674079868"></a>
+
+### 핵폭발 3D 도시 시뮬레이션
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="핵폭발 3D 도시 시뮬레이션"></a>
+
+**프롬프트**
+
+```text
+3D 도시를 배경으로 핵 섬광, 확산하는 충격파, 화염구와 연기를 구현하고, 폭발이 도달할 때 건물에 점진적으로 균열이 생긴 뒤 붕괴하는 핵폭발 데모를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096562462674079868) · [원본 게시물](https://x.com/ashishthakur___/status/2096562462674079868) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
+
+### 테이블 위 레코드플레이어 장면
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="테이블 위 레코드플레이어 장면"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+테이블 위에 레코드플레이어를 놓은 Three.js 장면을 만드세요. 조명이 켜지는 연출과 플레이어 및 주변 가구를 비추는 카메라를 구성해 제품 소개 데모처럼 보여 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [원본 게시물](https://x.com/niteshseram/status/2096561346766877106) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
+
+### Blender 모델에 더하는 Unity VFX
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="Blender 모델에 더하는 Unity VFX"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender에서 장면용 모델을 만들고 Unity로 가져오세요. VFX Graph로 효과를 추가하고, 모델과 효과가 함께 선명하게 보이도록 장면의 조명을 설정하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [원본 게시물](https://x.com/CST_negi/status/2096560142871658589) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
+
+### 2D 로고를 움직이는 3D 캐릭터로
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="2D 로고를 움직이는 3D 캐릭터로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 2D 캐릭터 로고를 애니메이션이 있는 3D 버전으로 바꾸세요. 입체감과 움직임을 더하더라도 원래 캐릭터를 알아볼 수 있는 특징을 유지하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [원본 게시물](https://x.com/anthonyriera/status/2096559197999501724) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
+
+### 직접 탐색하는 서울 미니어처
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="직접 탐색하는 서울 미니어처"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+공개 지도 데이터로 Three.js 서울 미니어처를 만드세요. 지역별 탐색, 명소를 지나는 비행 시점, 주야간 모드, 터치 조작을 추가하세요. 단순화한 건물, 추정한 높이, 데이터 라이선스를 공개하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [원본 게시물](https://x.com/synabreu/status/2096557555086725159) · [데모](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
+
+### 휴대폰에서 플레이하는 Unity 랠리 게임
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="휴대폰에서 플레이하는 Unity 랠리 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Codex, Blender, Unity로 랠리 운전 프로토타입을 만드세요. 휴대폰에서 플레이 테스트를 할 수 있도록 3D 에셋과 조작 방식을 준비하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [원본 게시물](https://x.com/kevinkern/status/2096556692842348826) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="trading-card-battle-game-loop-2096555856204644550"></a>
 
 ### 트레이딩 카드 대전의 기본 게임 루프
@@ -1312,479 +1599,6 @@ Trackmania 스타일 레이싱 물리를 C#으로 재현하고 WASM으로 실행
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/memory-capsule-machine-2096241295949975602) · [원본 게시물](https://x.com/gloria_zwq/status/2096241295949975602) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096236137266512181"></a>
-
-### 완전한 비행 루프를 갖춘 브라우저 비행 시뮬레이터
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="완전한 비행 루프를 갖춘 브라우저 비행 시뮬레이터"></a>
-
-**프롬프트**
-
-```text
-처음부터 완성도 높고 플레이 가능한 브라우저 기반 3D 비행 시뮬레이터 게임을 제작하세요.
-
-목표는 정적인 3D 장면이 아니라 작지만 실제로 플레이할 수 있는 비행 시뮬레이션 경험을 만드는 것입니다.
-
-GAMEPLAY
-- 활주로, 유도로, 터미널/건물, 잔디/지형, 활주로 표지와 조명, 하늘과 구름이 포함된 디테일한 공항을 만드세요.
-- 공항에 알아보기 쉬운 여객기를 배치하세요.
-- 플레이어가 키보드로 항공기를 조종할 수 있어야 합니다.
-- 스로틀, 피치, 롤, 요, 브레이크를 구현하세요.
-- 항공기에 기본적인 수준이지만 설득력 있는 비행 물리, 관성 및 가속을 적용하세요.
-- 플레이어가 활주로에서 가속해 이륙하고, 공항 주변을 비행한 뒤 활주로에 접근해 착륙할 수 있어야 합니다.
-- 간단한 목표를 추가하세요. 이륙한 뒤 공항 주변을 짧게 비행하고 안전하게 착륙하는 것입니다.
-- 추락/실패 감지와 재시작 옵션을 포함하세요.
-
-CONTROLS
-조작법을 명확하게 표시하세요.
-- W/S: 피치
-- A/D: 롤
-- Q/E: 요
-- Shift/Ctrl: 스로틀
-- Space: 브레이크
-
-CAMERA
-- 항공기 뒤쪽에 배치한 부드러운 3인칭 체이스 카메라를 사용하세요.
-- 비행 중에도 항공기가 항상 잘 보이도록 하세요.
-- 카메라는 움직임을 부드럽게 따라가고 가속에 은은하게 반응해야 합니다.
-
-HUD
-다음 정보를 보여 주는 완성도 높은 항공 스타일 HUD를 만드세요.
-- 대기 속도
-- 고도
-- 방위
-- 스로틀
-- 수직 속도
-- 비행 상태
-- 현재 목표
-
-숨길 수 있는 간결한 조작법/도움말 패널을 포함하세요.
-
-시작 + 결과
-다음 요소가 있는 시작 화면을 만드세요.
-"FLIGHT SIMULATOR"
-눈에 잘 띄는 "START FLIGHT" 버튼
-
-착륙에 성공하면 다음 정보를 표시하세요.
-- 비행 완료
-- 착륙 품질
-- 비행 시간
-- 최종 점수
-- 다시 플레이
-
-비주얼 품질
-실제 게임처럼 느껴지도록 만드세요.
-- 일관된 스타일의 3D 비주얼
-- 디테일한 항공기
-- 매력적인 공항 환경
-- 뛰어난 조명, 그림자와 머티리얼
-- 구름/대기 표현
-- 필요한 곳에 공항 건물, 차량, 표지판, 나무와 기타 환경 디테일 배치
-- 비어 있거나 명백히 미완성인 장면은 피하세요.
-
-FEEDBACK
-다음 항목에 유용한 피드백을 추가하세요.
-- 스로틀/엔진 상태
-- 이륙
-- 착륙
-- 속도 경고
-- 고도
-- 추락
-- 착륙 성공
-
-TECHNICAL
-- 브라우저에서 완전히 작동하는 게임을 구축하세요.
-- 플레이스홀더 버튼이나 작동하지 않는 가짜 상호작용을 남기지 마세요.
-- 반응성 높은 조작감과 부드러운 성능을 우선하세요.
-- 사용 가능한 웹/3D 기술 중 적절한 것을 활용하세요.
-
-중요:
-전체 작업을 아름다운 정적 장면을 만드는 데만 할애하지 마세요. 항공기는 반드시 실제로 조작 가능해야 하며, 다음의 전체 루프가 작동해야 합니다.
-
-시작 → 가속 → 이륙 → 비행 → 접근 → 착륙 → 점수 산정 → 다시 플레이
-
-완성하기 전에 브라우저에서 게임을 실행해 전체 게임플레이 루프를 직접 테스트하세요. 발견한 조작, 물리, 비주얼 버그와 상호작용 문제를 수정하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build a polished, playable browser-based 3D flight simulator game from scratch.
-
-The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
-
-GAMEPLAY
-- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
-- Place a recognizable passenger airplane at the airport.
-- The player must be able to control the aircraft with the keyboard.
-- Implement throttle, pitch, roll, yaw and braking.
-- The aircraft must have basic believable flight physics, momentum and acceleration.
-- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
-- Add a simple objective: take off, complete a short flight around the airport and land safely.
-- Include crash/failure detection and a restart option.
-
-CONTROLS
-Display controls clearly:
-- W/S: Pitch
-- A/D: Roll
-- Q/E: Yaw
-- Shift/Ctrl: Throttle
-- Space: Brake
-
-CAMERA
-- Use a smooth third-person chase camera behind the aircraft.
-- Keep the aircraft clearly visible during flight.
-- Camera should smoothly follow movement and respond subtly to acceleration.
-
-HUD
-Create a polished aviation-style HUD showing:
-- Airspeed
-- Altitude
-- Heading
-- Throttle
-- Vertical speed
-- Flight status
-- Current objective
-
-Include a compact controls/help panel that can be hidden.
-
-START + RESULTS
-Create a start screen with:
-"FLIGHT SIMULATOR"
-and a prominent "START FLIGHT" button.
-
-After a successful landing, show:
-- Flight completed
-- Landing quality
-- Flight time
-- Final score
-- Play Again
-
-VISUAL QUALITY
-Make it feel like a real game:
-- Cohesive stylized 3D visuals
-- Detailed aircraft
-- Attractive airport environment
-- Good lighting, shadows and materials
-- Clouds/atmosphere
-- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
-- Avoid an empty or obviously unfinished scene
-
-FEEDBACK
-Add useful feedback for:
-- Throttle/engine state
-- Takeoff
-- Landing
-- Speed warnings
-- Altitude
-- Crashes
-- Successful landing
-
-TECHNICAL
-- Build the complete working game in the browser.
-- Do not leave placeholder buttons or fake interactions.
-- Prioritize responsive controls and smooth performance.
-- Use whatever appropriate web/3D technologies are available.
-
-IMPORTANT:
-Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
-
-START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
-
-Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096236137266512181) · [원본 게시물](https://x.com/adxtyahq/status/2096236137266512181) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="procedural-napoleon-bust-2096234355395903672"></a>
-
-### 절차적으로 만드는 나폴레옹 흉상
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="절차적으로 만드는 나폴레옹 흉상"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Three.js 코드로 나폴레옹의 3D 흉상을 만드세요. 단계적으로 제작하고 여러 각도에서 살펴보며 얼굴 비율과 의상 디테일을 다듬으세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [원본 게시물](https://x.com/leploutos/status/2096234355395903672) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="railway-station-concourse-2096226711222546461"></a>
-
-### 기차역 중앙 홀
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="기차역 중앙 홀"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-강한 건축적 리듬, 자연스러운 규모, 설득력 있는 재질을 갖춘 기차역 중앙 홀을 만드세요. 신중하게 잡은 역의 구도를 갖춘 관찰 가능한 3D 장면을 제작하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/railway-station-concourse-2096226711222546461) · [원본 게시물](https://x.com/0xWormhole404/status/2096226711222546461) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
-
-### 궤도 랑데부 시뮬레이터
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="궤도 랑데부 시뮬레이터"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-이체 문제 ECI 궤도 전파와 HCW 유도를 이용한 실시간 궤도 랑데부 시뮬레이션을 만드세요. 6자유도 자세, 연료 사용, 힘의 제한, 도킹 목표를 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [원본 게시물](https://x.com/AlicanKiraz0/status/2096225621303042258) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="animated-onboarding-diorama-2096222790894661841"></a>
-
-### 첫 사용을 안내하는 애니메이션 디오라마
-
-[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="첫 사용을 안내하는 애니메이션 디오라마"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Blender로 작은 온보딩 디오라마를 만들고 Three.js에서 움직이게 하세요. 명확한 중심 오브젝트와 짧은 애니메이션으로 첫 사용자 행동을 설명하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [원본 게시물](https://x.com/EmilHovv/status/2096222790894661841) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
-
-### 분해하며 살펴보는 인터랙티브 인체 해부
-
-[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="분해하며 살펴보는 인터랙티브 인체 해부"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-인체가 개별적으로 살펴볼 수 있는 구조로 분리되는 3D 해부학 사이트를 만드세요. 분해 보기를 조작할 수 있게 하고 각 부위를 의미 있는 기관계로 정리하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [원본 게시물](https://x.com/ashebytes/status/2096221988763173186) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
-
-### 정육면체 안에 갇힌 폭풍
-
-[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="정육면체 안에 갇힌 폭풍"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Three.js에서 날씨를 조절할 수 있는, 정육면체 안에 갇힌 폭풍을 생성하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [원본 게시물](https://x.com/zwb44/status/2096220264413409648) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096219700879331665"></a>
-
-### 커스텀 3D 에셋을 활용한 플레이 가능한 Roblox 카트 레이싱 게임
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="커스텀 3D 에셋을 활용한 플레이 가능한 Roblox 카트 레이싱 게임"></a>
-
-**프롬프트**
-
-```text
-Roblox MCP를 통해 Roblox Studio에서 완성도 높고 세련된 카트 레이싱 게임을 제작하세요. Blender와 Three.js의 절차적 생성 기능을 사용해 일관성 있고 디테일한 에셋을 만들고, Blender에서 메시, UV, 베이크 텍스처를 마무리한 다음 호환되는 PBR 텍스처와 함께 최적화된 Roblox MeshPart로 가져오세요. 게임 내에서 스케일, 피벗, 머티리얼, 충돌을 확인하세요. Roblox 네이티브 렌더링과 Luau로 게임플레이를 구현하고, Three.js는 런타임이 아닌 에셋 생성 도구로만 사용하세요. 반응성 높은 주행과 드리프트, AI 상대, 체크포인트, 랩 추적, 카운트다운부터 결과 화면과 재시작까지 이어지는 완전한 게임플레이 루프를 갖춘, 아름답고 완성도 높게 구성된 단 하나의 서킷을 우선 제작하세요. 라이팅, VFX, 오디오, UI까지 다듬으세요. 전체 레이스를 플레이 테스트하고 실제 게임플레이 스크린샷을 확인하면서, 원활한 성능을 유지하는 동시에 가져오기 오류, 시각적 결함, 게임플레이 버그가 모두 해결될 때까지 반복 개선하세요. 플레이스홀더, 조잡한 에셋, 프로토타입 수준의 비주얼은 사용하지 마세요. 스크립트나 내보낸 에셋만 제공하지 말고, 완전히 조립되어 실제로 플레이할 수 있는 Roblox 경험을 완성해 제공하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096219700879331665) · [원본 게시물](https://x.com/givros/status/2096219700879331665) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096213850383331489"></a>
-
-### 자전거를 타는 인터랙티브 펠리컨
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="자전거를 타는 인터랙티브 펠리컨"></a>
-
-**프롬프트**
-
-```text
-자전거를 타는 펠리컨을 스타일리시하고 인터랙티브한 3D 씬으로 제작해 브라우저에 표시해 주세요.
-펠리컨에게 빨간색과 흰색이 조합된 사이클링 캡과 선글라스를 씌워 주세요. 자전거에는 민트 그린 색상의 빈티지 프레임을 적용하고, 움직임을 강조할 수 있도록 애니메이션 속도선을 추가해 주세요.
-씬을 회전하고 확대·축소할 수 있게 하며, 주행 속도도 조절할 수 있게 해 주세요. 자전거의 형태, 캐릭터 비율, 자연스러운 페달링 동작에 특히 주의를 기울여 주세요. 속도가 바뀌어도 애니메이션이 매끄럽게 이어지도록 해 주세요.
-세심한 조명, 조화로운 색상 팔레트, 깔끔한 컨트롤을 적용해 페이지를 완성도 높게 구성하고 공개 데모에 바로 사용할 수 있도록 만들어 주세요.
-완성하기 전에 브라우저에서 직접 테스트하고 시각적 오류나 인터랙션 버그를 수정해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096213850383331489) · [원본 게시물](https://x.com/aibuilderclub_/status/2096213850383331489) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
-
-### 열린 도시를 달리는 OX Vice Drive
-
-[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="열린 도시를 달리는 OX Vice Drive"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-교통, 드리프트, 배달 레이스가 있는 오픈 시티 브라우저 운전 게임을 만드세요. 이동 자체가 즐겁고 완결된 운전 플레이 흐름을 지원하는 해안 도시를 설계하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [원본 게시물](https://x.com/qok_ai/status/2096206082712768897) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
-
-### 아이가 노는 따뜻한 장난감 세계
-
-[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="아이가 노는 따뜻한 장난감 세계"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-아이가 장난감 사이를 이동하며 각각 다른 애니메이션으로 가지고 노는 따뜻한 Three.js 놀이방을 만드세요. 놀이 매트, 책, 선반, 오르기 구조물, 궤도·확대 조작을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [원본 게시물](https://x.com/aehyok/status/2096201415051911597) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
-
-### 참고 이미지로 만드는 예인선 조립 모델
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="참고 이미지로 만드는 예인선 조립 모델"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-참고 이미지로 Blender에서 예인선을 재구성하세요. 선체, 기울어진 조타실, 갑판 장비, 예인 장비를 모델링하고, 시점 간 불일치를 해결해 일관된 선박을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [원본 게시물](https://x.com/NarvisAlex/status/2096180220839760375) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
-
-### 사용자에게 반응하는 WebGL 캐릭터 Zubli
-
-[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="사용자에게 반응하는 WebGL 캐릭터 Zubli"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-정적인 캐릭터 포즈 여섯 개를 숨 쉬고 눈을 깜빡이며 손을 흔들고 커서를 따라가는 WebGL 캐릭터로 바꾸세요. 부드러운 60 FPS 재생을 목표로 변형과 렌더링을 최적화하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [원본 게시물](https://x.com/coxis/status/2096180133803561376) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
-
-### 커피잔 속 해양 생물
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="커피잔 속 해양 생물"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Three.js로 커피잔 안에 작은 해양 생태계를 만드세요. 의도적으로 연출한 카메라로 수중 생물을 보여주되 컵과 작은 규모의 배경을 알아볼 수 있게 유지하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [원본 게시물](https://x.com/PolaczekSagi/status/2096174858837074198) · [사례 목록으로](#all-prompts)
 
 ---
 

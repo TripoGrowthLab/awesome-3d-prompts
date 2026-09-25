@@ -83,6 +83,16 @@
       ]
     },
     {
+      "path": "assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp",
+      "fingerprint": "6daa7a199bf3b02662079087ad298679beb080bc3f31c9463b42ffed50c269f0",
+      "sha256": "0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b",
+      "bytes": 40068,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102896594538389506/img/D73C0og8UnKLBlof.jpg",
+      "promptIds": [
+        "gpt-6-astra-2102897258983313712"
+      ]
+    },
+    {
       "path": "assets/previews/012a16e2a90a225b9dee480019d46f69f8458237f566068d77b85765ae22ceed.webp",
       "fingerprint": "528329060062c45f4c62ea762e87b955288cfdfcf1bfd7b60d4fcf8324a98308",
       "sha256": "012a16e2a90a225b9dee480019d46f69f8458237f566068d77b85765ae22ceed",
@@ -230,6 +240,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096226451297300480-poster-56c0069cd361.webp",
       "promptIds": [
         "railway-station-concourse-2096226711222546461"
+      ]
+    },
+    {
+      "path": "assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp",
+      "fingerprint": "2daaaf8992ef35d979fac0066d2651e8f55805770de6721c19173514f978056f",
+      "sha256": "068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365",
+      "bytes": 70180,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103106049402167296/img/P-wFKu7z41OFOEHT.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103106070549757960"
       ]
     },
     {
@@ -533,6 +553,16 @@
       ]
     },
     {
+      "path": "assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp",
+      "fingerprint": "165e6dd1740b5539cc15d1aa3e4df51204bff60c0b27c1656a505bc454f8f625",
+      "sha256": "1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a",
+      "bytes": 15154,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102910399045636096/img/KbJvS6HngfNaUcQY.jpg",
+      "promptIds": [
+        "gpt-6-astra-2102915300295369208"
+      ]
+    },
+    {
       "path": "assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp",
       "fingerprint": "fc1b90c197b7a69a86043734a756ddc23441616e40da37b56339fe22ef82a489",
       "sha256": "1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007",
@@ -701,6 +731,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-8e6fd0e1c978-poster-8e6fd0e1c978.webp",
       "promptIds": [
         "reference-image-tugboat-assembly-2096180220839760375"
+      ]
+    },
+    {
+      "path": "assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp",
+      "fingerprint": "a0f63a6b077547e95e4e13a127a55b20d088bc2143135d7cff999edc1a78266c",
+      "sha256": "21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77",
+      "bytes": 2268,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103145494377848833/img/O3tng2YQfJLlCUPZ.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103145567945986461"
       ]
     },
     {
@@ -1165,6 +1205,16 @@
       ]
     },
     {
+      "path": "assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp",
+      "fingerprint": "7765cd5902a900ae5bef5c471f39449108a57c626185a1d09c3e25cf3149184b",
+      "sha256": "3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946",
+      "bytes": 35220,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102652579977310208/img/ewbVYSB3XmqKs3fd.jpg",
+      "promptIds": [
+        "gpt-6-astra-2102652927177617564"
+      ]
+    },
+    {
       "path": "assets/previews/3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014.webp",
       "fingerprint": "4f65871cbb982c150c4099651786fe503bb1d2dcee69590f4fdf4370ec763ded",
       "sha256": "3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014",
@@ -1546,6 +1596,16 @@
       ]
     },
     {
+      "path": "assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp",
+      "fingerprint": "72186df8f83e9808dc0f97780fab0eded653c4ce17487d49c218fee52b9029d4",
+      "sha256": "548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b",
+      "bytes": 57276,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103144429079126016/img/fQ5jMWov4YFC7xTz.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103144530157687114"
+      ]
+    },
+    {
       "path": "assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp",
       "fingerprint": "030387d994a858606f5d4ebcea58c3583cfc93a769276749cc8a9906082d62b5",
       "sha256": "55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714",
@@ -1624,6 +1684,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096303795890278401-poster-058d9a91d323.webp",
       "promptIds": [
         "warcraft-inspired-character-scene-in-unity-2096308567863079420"
+      ]
+    },
+    {
+      "path": "assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp",
+      "fingerprint": "5523b9e4ebb3a4836c566e6ee2bc6724d7d236ddd8ef5ac974a4860c08a3c01a",
+      "sha256": "5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6",
+      "bytes": 44476,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103083312919228416/img/nc8VvNxdoWdzJM8K.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103083781490176212"
       ]
     },
     {
@@ -2147,6 +2217,16 @@
       ]
     },
     {
+      "path": "assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp",
+      "fingerprint": "576a2e587317771a6e4f0e34b3e7a28571e2bba8c8f74e2424ce8eaffd4c5fbe",
+      "sha256": "806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e",
+      "bytes": 4650,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103113452726140928/img/cjQI93QJwNev_gQ1.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103116235009347650"
+      ]
+    },
+    {
       "path": "assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp",
       "fingerprint": "a8b2360000113c515dfeec29aec162a430af1ab67d981406b70f88e5b0dd391d",
       "sha256": "8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3",
@@ -2177,6 +2257,16 @@
       ]
     },
     {
+      "path": "assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp",
+      "fingerprint": "f444a2aecf1efb6eb6143087620cb4cbc628209da31c9c2530d30c2c31070ea4",
+      "sha256": "83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5",
+      "bytes": 79912,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102825776106127360/img/-tBjiJ5c_JcTFo7L.jpg",
+      "promptIds": [
+        "gpt-6-astra-2102826333550133520"
+      ]
+    },
+    {
       "path": "assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp",
       "fingerprint": "f4d4a7395d41486aa5dad64cd9d6fa2563f795eaef10fad9e219d6843cf65721",
       "sha256": "8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c",
@@ -2184,6 +2274,26 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095802938845470720-poster-400008ab1782.webp",
       "promptIds": [
         "interactive-three-js-galaxy-homepage-2095806515579879457"
+      ]
+    },
+    {
+      "path": "assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp",
+      "fingerprint": "bc6815d24232a486d2409c5f60821f918d9bd86521ed95b802e098e1d939eed0",
+      "sha256": "8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158",
+      "bytes": 52842,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102819791891533824/img/MhUghWzePef4VDVP.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103046279253168554"
+      ]
+    },
+    {
+      "path": "assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp",
+      "fingerprint": "6903bb005ee10b999223107dfe276f36a62cfe3d71a46f731a72791f7079d47e",
+      "sha256": "85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce",
+      "bytes": 8896,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103086574787493888/img/woD58rR9joVjoX3I.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103087766662009118"
       ]
     },
     {
@@ -2354,6 +2464,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2096111511337107456-poster-031d90edacb0.webp",
       "promptIds": [
         "playable-remake-of-a-mobile-game-ad-2096111709496680842"
+      ]
+    },
+    {
+      "path": "assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp",
+      "fingerprint": "039fadf57ec5ebcbda1805289e6e95f5f5051b8619410ea3257d7dcabcff4e21",
+      "sha256": "8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d",
+      "bytes": 18798,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102956134051008512/img/jlPZmdorTyqr6pjE.jpg",
+      "promptIds": [
+        "gpt-6-astra-2102956340482289944"
       ]
     },
     {
@@ -3024,6 +3144,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2078806119732965376-poster-0cba7326fcbc.webp",
       "promptIds": [
         "three-js-airplane-walkthrough-experience-2078806166122197132"
+      ]
+    },
+    {
+      "path": "assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp",
+      "fingerprint": "ec60c284babc8437d6d920ea76b6bb0601f33857125baccc0c4460524e865364",
+      "sha256": "b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500",
+      "bytes": 16764,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102828172744265728/img/UkZAveOxXZ_GSxZM.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102828216289566725"
       ]
     },
     {
@@ -3775,6 +3905,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2080982536545554433-poster-b02d5bc29474.webp",
       "promptIds": [
         "cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"
+      ]
+    },
+    {
+      "path": "assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp",
+      "fingerprint": "8439252299c0cf151ac724c6aa5fd19fe90f3a15a54fd26cebfcbe0f108a4848",
+      "sha256": "e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94",
+      "bytes": 23872,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103062279189127168/img/_ZVJvEx3rx40Wpsr.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103062348168618280"
       ]
     },
     {

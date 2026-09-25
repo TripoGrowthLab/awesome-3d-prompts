@@ -28,6 +28,20 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Oynanabilir 3B Yılanlar ve Merdivenler](#playable-3d-snakes-and-ladders-2095050993184669825)
+- [Hareketli voksellere dönüşen portre](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
+- [Etkileşimli Three.js kalesi](#interactive-three-js-castle-2095048818203275584)
+- [NIGHTBAND etkileşimli kısa dalga radyo](#nightband-interactive-shortwave-radio-2095026928210346175)
+- [Eksiksiz Unity tenis oyunu](#complete-unity-tennis-game-2095021275236495408)
+- [Işıldayan kanyon üzerinde antik tapınak](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
+- [Etkileşimli Toronto silüeti](#interactive-toronto-skyline-2095000329561485584)
+- [The Sims tarzı otonom yaşam simülasyonu](#autonomous-sims-like-life-simulation-2094949450196090988)
+- [Düşünen NPC'lerle voksel köy](#voxel-village-with-thinking-npcs-2094930970675741171)
+- [Fuji Dağı'na fantastik tırmanış](#fantasy-ascent-to-mount-fuji-2094930804296274414)
+- [Sıfırdan Godot yarış oyunu](#godot-racing-game-built-from-scratch-2094925359372284022)
+- [Kat planından Blender gezintisine](#floor-plan-to-blender-walkthrough-2094925117344428232)
+- [136.000 vokselli deterministik pagoda](#deterministic-136-000-voxel-pagoda-2094916609219461211)
+- [Blender otomasyonuyla ayrıntılı robot](#detailed-robot-through-blender-automation-2094909825561805003)
 - [Açık dünya suç oyunu prototipi](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia tarzı tarayıcı oyunu](#mini-militia-style-browser-game-2094900523900219725)
 - [Birinci şahıs yağmurlu okyanus oyun alanı](#rainy-first-person-ocean-sandbox-2094900247000654222)
@@ -64,22 +78,295 @@
 - [CS2 ve Battlefield tarzı FPS için Claude Opus 5 istemi](#cs2-and-battlefield-style-fps-2082241827298557966)
 - [Claude Opus 5 için AAA nişancı oyunu istemi](#aaa-shooter-game-2082180453889712318)
 - [Tek HTML dosyasında oynanabilir karanlık fantezi yan kaydırmalı oyun](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
-- [3B MMO için Claude Opus 5 geliştirme akışı](#development-workflow-for-a-3d-mmo-2082035844836450334)
-- [Oynanabilir Chrome Dino oyunu yapma](#make-a-playable-chrome-dino-game-2081867025140650236)
-- [Gerçekçi helikopter nişancı oyunu için Kimi K3 istemi](#realistic-helicopter-shooter-game-2081791572115435765)
-- [Subway Surfers tarzı oyun için Kimi K3 istemi](#subway-surfers-style-game-2081766198082220514)
-- [Counter-Strike esintili Three.js FPS için Claude Opus 5 istemi](#counter-strike-inspired-three-js-fps-2081607528790856068)
-- [Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi](#infinite-three-js-paper-machine-2081533777340506251)
-- [Etkileşimli 3B robot el simülasyonu için Claude Opus 5 istemi](#interactive-3d-robotic-hand-simulation-2081475055536820506)
-- [3B yapılandırıcıya Vespa 125 ekleme istemi](#vespa-125-3d-configurator-2081439705506435440)
-- [Ultra gerçekçi 3B uçuş simülatörü istemi](#ultra-realistic-3d-flight-simulator-2081403842256605254)
-- [Claude Opus 5 ile 3B Minecraft klonu oluşturma istemi](#build-a-3d-minecraft-clone-2081305039159620085)
-- [3B Flappy Bird oyunu istemi](#3d-flappy-bird-game-2081260140117045275)
-- [Vietnam ormanında sinematik helikopter animasyonu istemi](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
-- [Jöle Ormanı: 3B Platform Oyunu](#jelly-jungle-3d-browser-game-2081024333120733188)
-- [Elle çizilmiş anime tarzında keşfedilebilir Japon banliyö sokağı için Three.js istemi](#explorable-anime-style-japanese-street-2080834581247435102)
 
 </details>
+<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
+
+### Oynanabilir 3B Yılanlar ve Merdivenler
+
+[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="Oynanabilir 3B Yılanlar ve Merdivenler"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Zar animasyonu, tahtada hareket, yılanlar, merdivenler, sıralar, kazanma durumu ve açık oyuncu geri bildirimi olan eksiksiz bir 3B Yılanlar ve Merdivenler oyunu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [Orijinal gönderi](https://x.com/karanC_12/status/2095050993184669825) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
+
+### Hareketli voksellere dönüşen portre
+
+[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="Hareketli voksellere dönüşen portre"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Yüklenen portreyi dalga yer değiştirmesi, siberpunk gölgelendiriciler, verimli örnekleme ve imleçle hareket içeren 10.000'den fazla etkileşimli 3B voksele dönüştür.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [Orijinal gönderi](https://x.com/TenthPrime/status/2095048967092625663) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-three-js-castle-2095048818203275584"></a>
+
+### Etkileşimli Three.js kalesi
+
+[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="Etkileşimli Three.js kalesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Keşfedilebilir odalar, kuleler, kapılar, arazi, atmosferik ışık ve masaüstü ile mobilde akıcı kontrollerle etkileşimli bir Three.js 3B kalesi oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-three-js-castle-2095048818203275584) · [Orijinal gönderi](https://x.com/debugsenpai/status/2095048818203275584) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
+
+### NIGHTBAND etkileşimli kısa dalga radyo
+
+[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="NIGHTBAND etkileşimli kısa dalga radyo"></a>
+
+**İstem**
+
+```text
+Kendi kendine yeterli tek bir HTML dosyasında yapabileceğin en etkileyici siteyi oluştur. Tam yaratıcı özgürlüğün var. Amaç ne kadar zeki, yaratıcı, teknik açıdan yetenekli ve özgün olduğunu göstermek.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [Orijinal gönderi](https://x.com/NeoAIForecast/status/2095026928210346175) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="complete-unity-tennis-game-2095021275236495408"></a>
+
+### Eksiksiz Unity tenis oyunu
+
+[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="Eksiksiz Unity tenis oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da hazırlanmış karakterler, güvenilir kontroller, hareket ve vuruş animasyonları, top fiziği, puanlama, rakipler ve maç akışıyla oynanabilir Unity tenis oyununu tamamla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [Orijinal gönderi](https://x.com/chongdashu/status/2095021275236495408) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
+
+### Işıldayan kanyon üzerinde antik tapınak
+
+[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="Işıldayan kanyon üzerinde antik tapınak"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Alacakaranlıkta ışıldayan kanyon üzerinde süzülen antik tapınağı prosedürel Three.js sahnesi olarak oluştur. Rüzgârda kumaşlar, ışık huzmeleri, yıldırımlar ve sinematik yaklaşma ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [Orijinal gönderi](https://x.com/pradeepXkapoor/status/2095012880383099339) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-toronto-skyline-2095000329561485584"></a>
+
+### Etkileşimli Toronto silüeti
+
+[Kevin](https://x.com/bienjamyn) · 2026-09-02 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-toronto-skyline-2095000329561485584"><img src="../assets/previews/bef311e9c34b21d4ea7564dcb333b455bcf9e6d3639b42a775a16f0129f5f8b8.webp" width="840" loading="lazy" alt="Etkileşimli Toronto silüeti"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tanınabilir simgeler, su, atmosferik derinlik, gündüzden geceye ışık ve akıcı yörünge ve uçuş kontrolleriyle etkileşimli bir 3B Toronto silüeti oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-toronto-skyline-2095000329561485584) · [Orijinal gönderi](https://x.com/bienjamyn/status/2095000329561485584) · [Canlı demo](https://toronto-voxel.vercel.app/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="autonomous-sims-like-life-simulation-2094949450196090988"></a>
+
+### The Sims tarzı otonom yaşam simülasyonu
+
+[Ridark](https://x.com/ridark_eth) · 2026-09-02 · Claude Fable 5.1 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988"><img src="../assets/previews/75063ba9f199aff5faed7420ab575b306bd749b3559de8f878632df397ccb858.webp" width="840" loading="lazy" alt="The Sims tarzı otonom yaşam simülasyonu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+İhtiyaçları, rutinleri, ilişkileri ve kararları oyuncunun sürekli müdahalesi olmadan kendiliğinden hikâyeler oluşturan beş otonom karakterle The Sims tarzı yaşam simülasyonu yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988) · [Orijinal gönderi](https://x.com/ridark_eth/status/2094949450196090988) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="voxel-village-with-thinking-npcs-2094930970675741171"></a>
+
+### Düşünen NPC'lerle voksel köy
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171"><img src="../assets/previews/974d4c7d84097af10f8cd20d5d3c871e5bab197d946f589feca62acd4faa8455.webp" width="840" loading="lazy" alt="Düşünen NPC'lerle voksel köy"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Sakinlerinin işi, rutini, hafızası ve yerel dil modeli beyinleri olan bir voksel köy oluştur. Oyuncuya ve birbirlerine tepki verebilsinler.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171) · [Orijinal gönderi](https://x.com/Tech2Wild/status/2094930970675741171) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="fantasy-ascent-to-mount-fuji-2094930804296274414"></a>
+
+### Fuji Dağı'na fantastik tırmanış
+
+[Techartist](https://x.com/techartist_) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414"><img src="../assets/previews/5a0525135a25d7094cac3c8a1632a12b7147aaf4d967d86191b0aab848dfc692.webp" width="840" loading="lazy" alt="Fuji Dağı'na fantastik tırmanış"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Oyuncuyu katmanlı ortamlardan Fuji Dağı zirvesine götüren güzel bir Three.js fantastik yolculuğu oluştur. Atmosferik ışık, dolaşım ve açık bir yükseliş hissi ver.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414) · [Orijinal gönderi](https://x.com/techartist_/status/2094930804296274414) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="godot-racing-game-built-from-scratch-2094925359372284022"></a>
+
+### Sıfırdan Godot yarış oyunu
+
+[atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022"><img src="../assets/previews/fb70f118a60a87d8b99b4707a1a06a1bf825bdf6efe4722966e954adfde6bf5f.webp" width="840" loading="lazy" alt="Sıfırdan Godot yarış oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Sıfırdan bir Godot yarış oyunu yap. Araç ve çevre varlıkları için Blender kullan; geniş parkur, tatmin edici sürüş, rakipler, HUD ve yarış akışı uygula.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022) · [Orijinal gönderi](https://x.com/atomic_chat_hq/status/2094925359372284022) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="floor-plan-to-blender-walkthrough-2094925117344428232"></a>
+
+### Kat planından Blender gezintisine
+
+[AGIラボ](https://x.com/ctgptlb) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232"><img src="../assets/previews/378a03d3cd1c95f97f8e0d77b92491a424ae3aef5055dbd9aecf23abf408dc95.webp" width="840" loading="lazy" alt="Kat planından Blender gezintisine"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen kat planından doğru bir Blender 3B modeli oluştur, temsilî sabit görüntüler render et ve tutarlı bir gezinti videosu üret.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232) · [Orijinal gönderi](https://x.com/ctgptlb/status/2094925117344428232) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="deterministic-136-000-voxel-pagoda-2094916609219461211"></a>
+
+### 136.000 vokselli deterministik pagoda
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211"><img src="../assets/previews/5f6a8e2c47e18b32228a30647a33403b7a981de34409e709fb3db9f971cd8fe7.webp" width="840" loading="lazy" alt="136.000 vokselli deterministik pagoda"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de anlaşılır mimari katmanları, verimli örneklemesi, kararlı çıktısı ve inceleme kamerası olan 136.000 vokselli deterministik bir pagoda üret.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2094916609219461211) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="detailed-robot-through-blender-automation-2094909825561805003"></a>
+
+### Blender otomasyonuyla ayrıntılı robot
+
+[Spectro](https://x.com/Spectromachina) · 2026-09-01 · Claude Fable 5.1 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003"><img src="../assets/previews/cc82b31325f194335c6a876aa83404dd10829652fc0cf8dc42009018a57acf0c.webp" width="840" loading="lazy" alt="Blender otomasyonuyla ayrıntılı robot"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da tutarlı oranları, eklemleri, panelleri, malzemeleri, ışığı ve sunum render'ı olan ayrıntılı bir sert yüzey robotu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Orijinal gönderi](https://x.com/Spectromachina/status/2094909825561805003) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="open-world-crime-game-prototype-2094907986942591338"></a>
 
 ### Açık dünya suç oyunu prototipi
@@ -848,375 +1135,6 @@ Tek HTML dosyasında oynanabilir karanlık fantezi yan kaydırmalı oyun oluştu
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Orijinal gönderi](https://x.com/slash1sol/status/2082096376763060575) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
-
-### 3B MMO için Claude Opus 5 geliştirme akışı
-
-[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="3B MMO için Claude Opus 5 geliştirme akışı"></a>
-
-**İstem**
-
-```text
-Kodun neredeyse tamamı Claude Opus 5 ile yazıldı.
-
-Ama projeyi binlerce yineleme boyunca ilerleten şey akıllıca istem değildi. Yapay zekânın tüm kod tabanını okumadan ihtiyacını bulabileceği şekilde projeyi düzenlemekti.
-
-1. Talimatları tek yerde yığmak yerine kodun yanında tutun
-   Her klasörün yaygın iş akışları ve önceden bulunan sorunları içeren kılavuzu var. Klasörde oturum başlayınca otomatik yükleniyor. Canavarlarla çalışırken harita kılavuzunun bağlam maliyetini ödemek gerekmiyor. Her iş öncesindeki bağlam yaklaşık 76.000 tokendan 10.000'e indi.
-
-2. Kuralları disiplinle değil araçlarla uygulatın
-   Döngüsel içe aktarmaları veya merkezde tanımlanmak yerine kullanım yerinde yazılan renkleri bulunca derlemeyi başarısız yapan betikler yazdırdım. Yapay zekânın her kuralı hatırlamasını ummayın; commit'i başarısız yapmak çok daha güvenilir.
-
-3. TypeScript hatırlatsın
-   Etkisi olmayan yetenek eklerseniz proje derlenmez. Modeli oluşturulmamış canavar eklerseniz proje derlenmez. Tip sistemi izin vermediği için unutulamaz.
-
-4. İçeriği veri odaklı yapın
-   Canavar, yetenek veya eşya eklemek tüm sistemi değiştirmek değil bir satır eklemek olsun. Yapay zekâ “bir satır ekle”yi, “tutarlı kalması gereken beş yeri güncelle”den çok daha doğru yapar.
-
-5. Etkili istemler prosedürü değil değerlendirme ölçütlerini tanımlar
-   Örneğin “normal canavarlar 2–5 saniyede ölmeli”, “her haritanın en az %97'si erişilebilir olmalı” ve “hiçbir eşyanın düşme oranı %3'ten az olmamalı”. Sonra bu ölçütleri testlere kodlayın. Yapay zekâ iyinin ne olduğunu bilince yolu bulabilir ve başarıyı değerlendirebilir.
-
-Kısacası önce yapı ve testlere, sonra isteme yatırım yapın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
-
-แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
-มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
-
-1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
-   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
-   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
-   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
-   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
-
-2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
-   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
-   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
-   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
-
-3. ให้ TypeScript เป็นคนเตือน
-   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
-   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
-   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
-
-4. ทำ content ให้เป็นตาราง
-   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
-   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
-
-5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
-   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
-   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
-   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
-   แล้วเขียนพวกนี้เป็นเทสไว้
-   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
-
-สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
-
-ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [Orijinal gönderi](https://x.com/vibecodingth/status/2082035844836450334) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
-
-### Oynanabilir Chrome Dino oyunu yapma
-
-[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="Oynanabilir Chrome Dino oyunu yapma"></a>
-
-**İstem**
-
-```text
-oynanabilir bir Chrome dinozor oyunu yap.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [Orijinal gönderi](https://x.com/unseenmars_/status/2081867025140650236) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
-
-### Gerçekçi helikopter nişancı oyunu için Kimi K3 istemi
-
-[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="Gerçekçi helikopter nişancı oyunu için Kimi K3 istemi"></a>
-
-**İstem**
-
-```text
-Bana gerçekçi bir helikopter nişancı oyunu yap.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [Orijinal gönderi](https://x.com/Abobsterina/status/2081791572115435765) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="subway-surfers-style-game-2081766198082220514"></a>
-
-### Subway Surfers tarzı oyun için Kimi K3 istemi
-
-[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Subway Surfers tarzı oyun için Kimi K3 istemi"></a>
-
-**İstem**
-
-```text
-bir Subway Surfers oyunu oluştur
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/subway-surfers-style-game-2081766198082220514) · [Orijinal gönderi](https://x.com/Arindam_1729/status/2081766198082220514) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
-
-### Counter-Strike esintili Three.js FPS için Claude Opus 5 istemi
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Counter-Strike esintili Three.js FPS için Claude Opus 5 istemi"></a>
-
-**İstem**
-
-```text
-tren istasyonunda geçen, counter-strike esintili taktiksel bir FPS. three.js, tek HTML dosyası, tüm varlıklar özgün.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [Orijinal gönderi](https://x.com/BuildFastWithAI/status/2081607528790856068) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
-
-### Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi
-
-[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi"></a>
-
-**İstem**
-
-```text
-Tek istemle sonsuz Three.js kâğıt makinesi oluştur. Sabit Pinterest fikrini işlevsel 3B web uygulamasına dönüştür. Uygulama, yüzeyine gerçek zamanlı olarak sürekli dinamik görüntüler basılırken sonsuza dek kayan bir kâğıt şeridini render etsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Orijinal gönderi](https://x.com/RoundtableSpace/status/2081533777340506251) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
-
-### Etkileşimli 3B robot el simülasyonu için Claude Opus 5 istemi
-
-[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="Etkileşimli 3B robot el simülasyonu için Claude Opus 5 istemi"></a>
-
-**İstem**
-
-```text
-9 model/akıl yürütme yapılandırmasına aynı tek istemi verdim: etkileşimli bir 3B robot el simülasyonu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [Orijinal gönderi](https://x.com/ThomasMWWalker/status/2081475055536820506) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="vespa-125-3d-configurator-2081439705506435440"></a>
-
-### 3B yapılandırıcıya Vespa 125 ekleme istemi
-
-[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="3B yapılandırıcıya Vespa 125 ekleme istemi"></a>
-
-**İstem**
-
-```text
-3B yapılandırıcıma baştan sona bir Vespa 125 ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [Orijinal gönderi](https://x.com/rafintheloop/status/2081439705506435440) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
-
-### Ultra gerçekçi 3B uçuş simülatörü istemi
-
-[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="Ultra gerçekçi 3B uçuş simülatörü istemi"></a>
-
-**İstem**
-
-```text
-Ultra gerçekçi bir 3B uçuş simülatörü oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [Orijinal gönderi](https://x.com/noclipepe/status/2081403842256605254) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
-
-### Claude Opus 5 ile 3B Minecraft klonu oluşturma istemi
-
-[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="Claude Opus 5 ile 3B Minecraft klonu oluşturma istemi"></a>
-
-**İstem**
-
-```text
-CLAUDE OPUS 5, basit bir istemle 30 dakikada Minecraft klonu oluşturdu: "Tam kapsamlı bir 3B Minecraft klonu oluştur"
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [Orijinal gönderi](https://x.com/BuilderGuest/status/2081305039159620085) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="3d-flappy-bird-game-2081260140117045275"></a>
-
-### 3B Flappy Bird oyunu istemi
-
-[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="3B Flappy Bird oyunu istemi"></a>
-
-**İstem**
-
-```text
-3B Flappy Bird oyunu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [Orijinal gönderi](https://x.com/SrijibBose/status/2081260140117045275) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
-
-### Vietnam ormanında sinematik helikopter animasyonu istemi
-
-[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="Vietnam ormanında sinematik helikopter animasyonu istemi"></a>
-
-**İstem**
-
-```text
-Savaş sırasında Vietnam ormanında uçan askerî helikopterin sinematik 3B animasyonu.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Orijinal gönderi](https://x.com/kirillk_web3/status/2081200833656451322) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
-
-### Jöle Ormanı: 3B Platform Oyunu
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · Oyunlar
-
-Uyarlama kaynağı: [aditya](https://x.com/adxtyahq)
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="Jöle Ormanı: 3B Platform Oyunu"></a>
-
-**İstem**
-
-```text
-# Jelly Jungle — Gökyüzünde Bir Macera
-
-## 1. Amaç
-Pembe, nane filizi olan bir jölenin üçlü zıplamalar ve zıplatan mantarlar kullanarak 13 yüzen adayı geçtiği, üçüncü şahıs bakış açılı eksiksiz bir platform oyunu oluşturun. Parkur, kompozisyon ve tamamlanmış görsel stil için https://jelly-jungle.tripo.page/ ile sağlanan referansları kullanın. Bu, aditya’nın https://x.com/adxtyahq/status/2081024333120733188. adresindeki Jelly Jungle paylaşımından esinlenen Jared rekonstrüksiyonudur. Tüm oyun arayüzü İngilizce kalır.
-
-## 2. Görsel yön
-Yumuşak, yontulmuş bir oyuncak dünyası oluşturun: nane, adaçayı yeşili, krem, turkuaz, mercan pembesi ve sıcak altın. Üstü çim kaplı, kalın adalar; yuvarlak kenarlar, düzensiz sıcak gri kaya alt yüzeyleri, sarkan sarmaşıklar, çiçekler, çakıl taşları, küçük mantarlar, yer yer şelaleler ve soluk bir bulut denizi kullanın. Yumuşak gölgeler, hafif sis, ince çevre yansımaları, nefes alma/sıkışıp-esneme animasyonu, sallanan ağaçlar ve dönen kristaller ekleyin. Kayaları iniş düzleminin altında tutun; bitkiler bir sonraki iniş alanını kapatmasın.
-
-Masaüstü genişliklerinde, üst üste yerleştirilmiş JELLY / JUNGLE başlığı ve CTA için sol tarafın %35–40’ını ayırın; başlangıç adasını sağ merkeze yerleştirin ve parkur sağ üst tarafa doğru uzaklaşsın. (13,20,25) civarında bir perspektif kamera, (-5,1.5,-5) hedefi ve yaklaşık 40° dikey görüş alanı kullanın; ardından referansa göre ayarlayın. 390 px genişliğindeki telefonda, masaüstü görünümünü kırpmak yerine jöleyi ve adayı başlığın üstünde yeniden kadrajlayın. Oyun sırasında kamerayı arkadan, yaklaşık (0,8.8,15.3) uzaklığında takip ettirin ve yaklaşık 5,8 birim ileriyi gösterin. Ufuk çizgisini sabit tutun ve kullanışlı bir zemin gölgesi sağlayın.
-
-Yerel olarak Barlow Condensed tarzı bir başlık yazı tipi, DM Sans tarzı kontroller, orman yeşili düğmeler ve yumuşak buzlu paneller kullanın. Açılış metni: “Born to bounce.” ve “Let’s bounce”. Yardımcı düğmeleri üstte, oyun sırasında kompakt bir koşu HUD’ını, hemen altında üç bölümlü bir zıplama göstergesini ve belirgin bir Classic / Tripo AI karşılaştırma anahtarını gösterin. Dokunmatik joystick, Jump düğmesi, HUD ve alt bilgi birbirinden ayrı kalmalıdır.
-
-## 3. Parkur
-Aşağıdaki temel düzeni kullanın. İleri yön negatif Z’dir; y iniş yüksekliği, r ise çarpışma yarıçapıdır. Bir başlangıç pankartı ve sıcak altın renkli bir bitiş portalı ekleyin.
-
-| Ada | x | z | y | r | Tür / ad |
-| --- | --- | --- | --- | --- | --- |
-| 01 | 0 | 0 | 1.2 | 5.4 | start / First Leap |
-| 02 | 0 | -10 | 1.6 | 3.1 | plain / Easy Does It |
-| 03 | -4 | -19 | 2.0 | 3.1 | spring / Mushroom Launch |
-| 04 | 2 | -29 | 3.2 | 3.6 | spinner / Candy Spinner |
-| 05 | 7 | -39 | 3.8 | 4.0 | checkpoint / Cloud Camp |
-| 06 | 1 | -49 | 4.1 | 3.1 | moving / Wandering Island |
-| 07 | -6 | -59 | 4.7 | 3.2 | spring / Bounce Again |
-| 08 | -1 | -71 | 5.8 | 3.8 | spinner / Double Trouble |
-| 09 | 7 | -82 | 6.5 | 4.0 | checkpoint / Starlight Camp |
-| 10 | 4 | -92 | 7.1 | 3.0 | crumble / Keep Moving |
-| 11 | -3 | -102 | 7.7 | 3.2 | moving / Cloud Crossing |
-| 12 | -7 | -113 | 8.2 | 3.3 | spring / One Last Bounce |
-| 13 | 0 | -127 | 10.0 | 5.0 | finish / Above the Clouds |
-
-## 4. Varlık envanteri
-Şu üç yedek varlık ailesini sırayla hazırlayın:
-- `jelly`: Yuvarlak hatlı, şeker pembesi yumuşak vinil karakter; küçük kollar ve ayaklar, parlak detaylı büyük koyu oval gözler, pembe yanaklar, küçük bir gülümseme ve iki yapraklı nane filizi. Yüzü görünür kalsın ve yüksekliği yaklaşık 1,65 birim olsun.
-- `mushroom`: Üzerinde kabartmalı fildişi benekler, krem rengi lameller ve kısa, kalın bir sap bulunan geniş mercan pembe kubbe. Her yay için yeniden kullanın; geniş ve dengeli bir şapka yüzeyi olsun.
-- `tree`: Kavisli şeftali-kahverengi gövde, iri yuvarlak turkuaz/nane palmiyeleri ve küçük şeftali meyve kümeleri. Parkurun tamamında yeniden kullanın.
-Adaları, bulutları, sarmaşıkları, çiçekleri, küçük kayaları, şelale örtülerini, kristalleri, bayrakları, döner platformları ve portalı prosedürel olarak oluşturun. Bunlar ek model üretme görevlerinden çok parkuru ve efektleri tanımlar. Her modeli ölçeklenmemiş bir kapsayıcıya yerleştirin; ayakların/gövde tabanının yerel y=0 konumunda olmasını sağlayın. Mantar şapkasıyla çarpışma yüzeyini sayısal olarak olduğu kadar görsel olarak da hizalayın. Her iki modda da aynı çarpışma gövdelerini koruyun.
-
-## 5. Fizik ve geri bildirim
-1/120 saniyelik sabit zaman adımı, yaklaşık 22 birim/s² yerçekimi, yaklaşık 8,8 birim/s hareket hızı, duyarlı zemin ivmelenmesi ve daha yumuşak hava yönlendirmesi kullanın. Çapraz yön girdisini normalize edin. WASD/ok tuşları hareket ettirir; yeni bir Space basışı zıplatır. İniş gerçekleşene kadar tam olarak üç zıplamaya izin verin: ilk yukarı yönlü hız yaklaşık 9,2, iki hava zıplaması ise yaklaşık 8,5 olsun. Bir tuşa basılı tutmak zıplamayı tekrarlamamalıdır. İniş, üç zıplamanın tamamını yeniden doldurur. Zıplatan mantar yaklaşık 16 hızla fırlatmalı, zıplamaları yenilemeli ve yeniden tetikleme bekleme süresiyle sıkışıp geri sekme animasyonu yapmalıdır.
-
-Döner platformlar, üzerindeki oyuncuları taşır; alçak döner şeker çubukları yalnızca segment teması ve dikey örtüşme olduğunda geri savurur. Zıplayarak bunların üzerinden geçilebilir. Darbe sonrasında yaklaşık 1,7 saniyelik bağışıklık verin. Hareketli adalar yatayda yaklaşık 2,6 birim salınmalı ve üzerindeki oyuncuları yer değiştirmeleri kadar taşımalıdır. Çöken adalar inişten 1,5 saniye sonra sallanıp yok olmalı ve yaklaşık 4 saniye sonra geri gelmelidir; gizli platformlar çarpışmamalıdır.
-
-05 ve 09 numaralı adalardaki kontrol noktaları, düşüşten sonra konumu, hızı ve zıplamaları geri yüklemeli; toplanan kristalleri korumalı ve düşüş sayısını artırmalıdır. R tuşu düşüş cezası olmadan manuel dönüş sağlar. Her adaya üç kristal, toplamda 39 kristal yerleştirin; her biri ses, parçacıklar ve HUD geri bildirimiyle yalnızca bir kez toplanabilsin. Son adaya ulaşmak oyunu tam olarak bir kez tamamlar; kristaller isteğe bağlıdır. Süreyi, kristalleri, adayı ve ilerlemeyi gösterin; bitişte süreyi, düşüşleri ve yıldızları gösterin: ≥30 kristal için üç, ≥18 için iki, aksi halde bir yıldız. En iyi süreyi kaydedin ve yeniden oynama seçeneği sunun. Can veya çatışma sistemi kullanmayın.
-
-İşaretçi yakalamalı bir dokunmatik joystick ve büyük bir Jump düğmesi sağlayın; her dokunuş en fazla bir zıplama kullansın. İptal edilmiş/basılı tutulan girdileri temizleyin. Yardım ve duraklatma iletişim kutuları, gizli sekmeden dönüş, akışı engellemeyen geri bildirim ve varsayılan olarak sessize alınmış isteğe bağlı Web Audio ekleyin. Yeniden başlatma, tüm koşu, toplanabilir nesne ve platform durumlarını sıfırlamalıdır.
-
-## 6. Uygulama
-Vite, Three.js ve sade JavaScript/HTML/CSS kullanın; fizik/parkur, dünya/varlık kayıt defteri, yerleştirme, giriş/arayüz ve ses modüllerini ayırın. Bağımlılıkları, yazı tiplerini ve varlıkları yerel olarak paketleyin. GLTFLoader, kendi kendine yeten modelleri içe aktarır; değiştirme işleminden önce sonlu sınırları, görünür geometriyi ve gömülü kaynakları doğrulayın. Hata durumunda mevcut modeli koruyun, eski asenkron yüklemeleri engelleyin ve yerlerine geçen kaynakları imha edin. Gerekiyorsa ağ temizleme veya pivot düzeltmesi için Blender isteğe bağlıdır.
-
-Classic, üç prosedürel varyantı kullanır; içe aktarılan mod, mevcut yedekleri kullanır ve gerçek durumlarını bildirir. Mod değiştirme veya içe aktarma; yeniden yükleme yapmadan konumu, hızı, zıplama haklarını, süreyi, kristalleri ve kontrol noktalarını korur. Tekrarlanan statik çevre öğelerini örnekleyin veya birleştirin, DPR’yi yaklaşık 1,5 ile sınırlayın ve efektleri sınırlandırın. Gerçek kamera üzerinden çizim çağrılarını, üçgen sayısını ve kare zamanlamasını ölçün; önce uzaktaki süslemeleri azaltın.
-
-## 7. Kabul kriterleri
-Eksiksiz kaynak kodu, kilit dosyasını, geliştirme/build komutlarını tam olarak ve statik çıktıyı teslim edin. Üç yeni zıplamayı ve dördüncü zıplamanın olmamasını, yay hizalamasını, hareketli platformun taşımasını, süpürücü temasını, çökme/iyileşmeyi, kontrol noktalarını, benzersiz toplanabilir nesneleri, duraklatma/yeniden başlatmayı ve bitişi doğrulayın. Gerçek girdi ve fizik kullanarak 13 adanın tamamını geçin; ışınlanma, ulaşılabilirliği kanıtlamaz. Klavye ve dokunmatiği, her iki sanat modunu, her içe aktarma/sıfırlama/hata yolunu ve durumun korunmasını kontrol edin. Masaüstü/mobil açılış ve oynanış görünümlerini dengelenmiş halde karşılaştırın; taşmaları ve yükleme hatalarını inceleyin ve gerçek performans koşullarını raporlayın. Aşağıdaki paylaşılan varlık iş akışını izleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [Orijinal gönderi](https://x.com/adxtyahq/status/2081024333120733188) · [Canlı demo](https://jelly-jungle.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
-
-### Elle çizilmiş anime tarzında keşfedilebilir Japon banliyö sokağı için Three.js istemi
-
-[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="Elle çizilmiş anime tarzında keşfedilebilir Japon banliyö sokağı için Three.js istemi"></a>
-
-**İstem**
-
-```text
-Three.js'de keşfedilebilir Japon banliyö sokağı oluştur; tamamen 3B olsun ve elle çizilmiş anime arka planı gibi render edilsin
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Orijinal gönderi](https://x.com/gmi_cloud/status/2080834581247435102) · [Örneklere dön](#all-prompts)
 
 ---
 

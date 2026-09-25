@@ -28,7 +28,20 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Boşluk: Vitray ışığıyla dolan katedralde kısa film](#claude-opus-5-5-2103145567945986461)
+- [San Francisco'da geçen Genshin Impact tarzı oyun](#claude-opus-5-5-2103144530157687114)
+- [Austerlitz Muharebesi: Sinematik Film](#claude-opus-5-5-2103116235009347650)
+- [Three.js ile Eyfel Kulesi oluşturun](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
+- [Grid Genius için Pixar kalitesinde Three.js animasyonu](#claude-opus-5-5-2103087766662009118)
+- [Gerçek zamanlı pelikan bisiklet oyunu](#claude-opus-5-5-2103083781490176212)
+- [Etkileşimli 3B jelibon narenciye dilimi](#gpt-6-astra-2103062348168618280)
+- [İmparatorluk Şehri Oluştur](#claude-opus-5-5-2103046279253168554)
+- [Three.js'te Voxel Codex](#gpt-6-astra-2102956340482289944)
+- [Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi](#gpt-6-astra-2102915300295369208)
+- [Birinci şahıs burger simülatörü](#gpt-6-astra-2102897258983313712)
+- [Three.js'te Bugatti Chiron Super Sport oluşturun](#claude-opus-5-5-2102828216289566725)
+- [Sonsuz solarpunk şehir shader'ı](#gpt-6-astra-2102826333550133520)
 - [Claude gelişim montajı](#claude-opus-5-5-2102788371114246177)
 - [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](#claude-opus-5-5-2102788223835463902)
 - [Satranç gambitlerini çalışmak için etkileşimli 3B satranç tahtası](#gpt-6-astra-2102788013902213508)
@@ -41,6 +54,7 @@
 - [Hayali gezegenler hakkında etkileşimli web sitesi](#claude-opus-5-5-2102729710174196022)
 - [Orta Çağ kalesi tarayıcı animasyonu](#gpt-6-astra-2102672926285713456)
 - [Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi](#tripo-claude-opus-5-5-paper-cut-3d-short)
+- [Tek bir HTML dosyasında 3B kart yarışı](#gpt-6-astra-2102652927177617564)
 - [Etkileşimli Euleryen Neon Akışkan Simülasyonu](#claude-opus-5-5-2102565611473661963)
 - [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg kaza modeli ve gerçekçi video](#claude-opus-5-5-2102547809140355250)
@@ -64,22 +78,218 @@
 - [Three.js'te WALL-E için 3B model oluşturun](#gpt-6-astra-2101687900723106104)
 - [Açık Denizde Yelkenli Tekne](#gpt-6-astra-2101616345720787130)
 - [TITANIC — Son Işık](#titanic-the-last-light)
-- [Waymo Jaguar I-Pace 3B modeli](#gpt-6-astra-2101325346427842909)
-- [Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı](#gpt-6-astra-2101310374033428642)
-- [Etkileşimli 3B uçak motoru gösterimi](#gpt-6-astra-2101271938706685991)
-- [Eksiksiz Fotogerçekçi 3B Ortam](#gpt-6-astra-2101224659861590399)
-- [Gerçek yörünge fiziğiyle galaksi](#gpt-6-astra-2101055500599054437)
-- [Monster Block — Şehri 45 Saniyede Yerle Bir Et](#monster-block)
-- [Etkileşimli IWC Schaffhausen Saat Modeli](#gpt-6-astra-2100956517633761447)
-- [ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu](#odd-arms)
-- [Fotogerçekçi bir 3B dünya oluşturun](#gpt-6-astra-2100844566718926949)
-- [Yüzen adalar arasında 3B hava tramvayı oyunu](#gpt-6-astra-2100838090210431302)
-- [Sharpa becerikli eliyle kalem çevirme politikası eğitimi](#gpt-6-astra-2100751369619820923)
-- [CAD ile kendi gövdesi](#gpt-6-astra-2100614534423540102)
-- [Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun](#gpt-6-astra-2100595652703199281)
-- [3B Yarış Oyunu Oluştur](#gpt-6-astra-2100526922770026874)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Boşluk: Vitray ışığıyla dolan katedralde kısa film
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Boşluk: Vitray ışığıyla dolan katedralde kısa film"></a>
+
+**İstem**
+
+```text
+three.js ile 1080×1920 dikey formatta, saniyede 30 kare ve yaklaşık 36 saniye uzunluğunda bir kısa film oluşturun.
+
+【Eser adı】
+Boşluk
+
+【İzleyiciye yaşatılacak deneyim】
+Verimlilik peşinde koşarken zamanını yitirme hissini ve boşluğa kavuştuğu anda hayatın zengin bir ışıkla dolması duygusunu, hiçbir insan göstermeden izleyiciye yaşatan bir film olsun. Finalde zeminin tamamında beliren vitray ışığıyla izleyicinin hayranlıkla nefesini tutmasını hedefleyin.
+
+【Mekân】
+・Loş, taş duvarlı bir katedralin içi. Ön duvarda yalnızca bir adet, 15 m yüksekliğinde ve 10 m genişliğinde sivri kemerli pencere bulunuyor
+・Pencerenin dışından 45 derecelik açıyla güçlü bir ışık süzülüyor ve taş zemine pencere biçiminde bir ışık düşürüyor
+・Pencerede, merkezde Meryem Ana, iki yanında kanatlarını açmış iki melek ve üst bölümde bir gül pencere bulunan bir vitray yer alıyor. Tasarım mevcut bir eseri taklit etmeyen özgün bir çalışma olacak ve kompozisyonu iki yana simetrik kurulacak
+
+【Zaman akışı】
+0–3 saniye: Pencereden süzülen ışık henüz renksiz, beyaz bir ışık. Zeminde yumuşak beyaz bir ışık şekli
+3–11 saniye: “Meşgul”, “Verimlilik”, “Acil”, “Son teslim tarihi” gibi sözcüklerin kazındığı gri küpler, mekânın ön tarafından art arda uçarak geliyor ve pencereyi dolduruyor. Küplerin geliş hızı giderek artıyor; pencere kapandıkça mekân kararıyor
+11–14 saniye: Pencere tamamen kapanıyor; karanlık ve sessizlik
+14–19 saniye: “Meşgul” yazılı bloklardan yalnızca biri pencereden ayrılıp aşağı düşüyor ve ışık parçacıklarına dönüşerek yok oluyor. Açılan delikten canlı renkli tek bir ışık huzmesi süzülüyor
+19–26 saniye: İlk deliğin merkezinden başlayarak bloklar zincirleme biçimde ayrılıyor. Her yeni delikle birlikte rengârenk ışık sütunları çoğalıyor ve gizlenmiş vitray yavaş yavaş ortaya çıkıyor
+26–33 saniye: Tüm bloklar yok oluyor; kamera ışık sütunlarının arasından geçerek yükseliyor ve zemine tam tepeden bakıyor. Zeminin tamamına, Meryem Ana ile meleklerin bulunduğu vitrayın rengârenk bir ışık yansıması düşmüş durumda
+33–36 saniye: Ekranın tamamı göz kamaştırıcı bir ışıkla kaplanıyor, son sözler beliriyor ve film sessizce sona eriyor
+
+【Sözler (Mincho yazı tipinde, hafifçe belirip kaybolacak)】
+・“Her gün, daha hızlı.”
+・“Daha verimli.”
+・“Fark ettiğimde, ışık artık içeri girmiyordu.”
+・“Bir şeyden vazgeçmeyi denemek.”
+・“Işık, açılan yerden içeri girer.”
+・“O ışık, öncekinden daha zengindi.”
+・Finalde büyük harflerle: “Zenginlik boşlukta saklıdır”
+
+【Işık ve doku】
+・Işık sütunları, vitrayın ilgili bölümünün rengine bürünüyor; havadaki tozlar parıldıyor
+・Zemindeki yansıma, pencerede hangi deliklerin açık olduğunu doğru biçimde yansıtıyor (blokların bulunduğu yerler gölgede kalacak)
+・Bloklar, dokusuz mat gri bir malzemeden oluşuyor. Sözcükler üzerlerine beyaz olarak kazınmış
+・İlk yarı soğuk ve renksiz; ikinci yarı ise mücevherleri andıran kırmızı, mavi ve altın tonlarında olacak. Renk karşıtlığı, “zenginleşme” duygusunu anlatacak
+
+【Teknik koşullar】
+・Vitray deseni bir görsel olarak üretilecek; zemindeki ışık, ışık sütunları ve pencere görüntüsü bu aynı desenden hesaplanarak birbiriyle tam uyumlu olacak
+・Zamanı 1/30 saniyelik adımlarla hassas biçimde ilerletin, kareleri tek tek dışa aktarın ve MP4 olarak birleştirin
+
+【Son rötuşlar】
+Her sahneyi gerçekten render alarak kontrol edin; vitray deseninin zeminde Meryem Ana ve melekler olarak okunup okunmadığını, sözlerin okunabilirliğini ve hareketlerin ani hissettirmediğini kontrol edip gerekli düzeltmeleri yaptıktan sonra teslim edin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103145567945986461) · [Orijinal gönderi](https://x.com/AGIOyaZ/status/2103145567945986461) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### San Francisco'da geçen Genshin Impact tarzı oyun
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="San Francisco'da geçen Genshin Impact tarzı oyun"></a>
+
+**İstem**
+
+```text
+San Francisco'da geçen Genshin Impact tarzı bir oyun geliştir.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103144530157687114) · [Orijinal gönderi](https://x.com/every/status/2103144530157687114) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Austerlitz Muharebesi: Sinematik Film
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Austerlitz Muharebesi: Sinematik Film"></a>
+
+**Referans görseller:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**İstem**
+
+```text
+Austerlitz Muharebesi (1805) hakkında, tamamı kodla oluşturulmuş 4–5 dakikalık sinematik bir video hazırlayın.
+
+Muharebeyi kapsamlı biçimde araştırın; hikâyeyi nasıl anlatacağınıza, anlatının ritmini nasıl yapılandıracağınıza, stratejiyi nasıl açıklayacağınıza ve olayları nasıl görselleştireceğinize kendiniz karar verin. Tarihsel açıdan doğru, dramatik, anlaşılır ve görsel olarak olağanüstü bir çalışma istiyorum.
+
+Ekli tabloları katı bir stil gerekliliği olarak değil, görsel ilham kaynağı olarak kullanın. Ölçeklerini, atmosferlerini, dumanı, dramatik gökyüzünü, süvari birliklerini, yoğun düzenleri, manzarayı ve kaos hissini çok beğeniyorum. Bu hissi koda aktarmanın bir yolunu bulun; ancak daha güçlü bir görsel dil geliştirebiliyorsanız onu kullanın.
+
+Genel geçer bir infografik veya strateji oyunu hissi vermesin. Kodla oluşturulmuş olsa da sinematik bir tarih filmi gibi hissettirsin.
+
+Tüm yaratıcı kontrol sizde. Beni şaşırtın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103116235009347650) · [Orijinal gönderi](https://x.com/WinterArc2125/status/2103116689944502720) · [Kaynak kodu](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Three.js ile Eyfel Kulesi oluşturun
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Three.js ile Eyfel Kulesi oluşturun"></a>
+
+**İstem**
+
+```text
+Three.js ile Eyfel Kulesi oluşturun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103106070549757960) · [Orijinal gönderi](https://x.com/0xPascual/status/2103106070549757960) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="crazy-tanks-3d-island-artillery"></a>
 
 ### Crazy Tanks — 3B Ada Topçuluğu
@@ -131,6 +341,367 @@ Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/d
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery) · [Canlı demo](https://super-tanks-aftershock.tripo.page/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Grid Genius için Pixar kalitesinde Three.js animasyonu
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius için Pixar kalitesinde Three.js animasyonu"></a>
+
+**İstem**
+
+```text
+Grid Genius'ı incelikli bir şekilde tanıtan bir hikâye hayal etmeni istiyorum. Hatta hikâyede Grid Genius hiç yer almayabilir; ancak uygulamamızla uyumlu olmalı ve sosyal medyada paylaşıldığında daha fazla kişinin dikkatini çekmemize yardımcı olmalı. Ardından, hayal ettiğin hikâyeden yola çıkarak Three.js/JavaScript kullanıp Pixar kalitesinde eksiksiz bir animasyon oluşturmanı istiyorum.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118) · [Orijinal gönderi](https://x.com/Anilraok/status/2103087766662009118) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### Gerçek zamanlı pelikan bisiklet oyunu
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Gerçek zamanlı pelikan bisiklet oyunu"></a>
+
+**İstem**
+
+```text
+Fizik sistemi, dalgalar, balık tutma, dinamik hava durumu, sinematik kameralar, otomatik pilot ve uyarlanabilir müzikle zenginleştirilmiş, pelikanın canlı bir sahil dünyasında bisiklet sürdüğü gerçek zamanlı bir 3B oyun oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103083781490176212) · [Orijinal gönderi](https://x.com/code_hiyouga/status/2103083781490176212) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103062348168618280"></a>
+
+### Etkileşimli 3B jelibon narenciye dilimi
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="Etkileşimli 3B jelibon narenciye dilimi"></a>
+
+**İstem**
+
+```text
+WebGPU kullanarak güzel ve etkileşimli bir 3B jelibon narenciye dilimi oluşturun. Gömülü JavaScript ve WGSL shader'ları içeren, tüm deneyimi tek bir bağımsız HTML dosyasında sunun.
+
+Bu, video, görsel veya döngüsel animasyon değil, gerçek zamanlı bir 3B simülasyon olmalıdır.
+
+APPEARANCE
+
+Yarı saydam ve sulu iç dokulu, sekiz belirgin dilimli, narin iç zarları, minik kabarcıkları, açık renkli beyaz dokusu ve yumuşak turuncu kabuğu olan kalın, yarım daire biçimli bir portakal dilimi oluşturun.
+
+Birinci sınıf jelibon şekerleme gibi görünmesini sağlayın: doygun renkler, parlak yansımalar, iç dokudan geçen ışık, inandırıcı kırılma ve yumuşak temas gölgeleri kullanın. Aşırı bloom efektinden, soluk renklerden veya sert plastik görünümünden kaçının.
+
+Sıcak ve açık renkli bir stüdyo arka planı ile bol beyaz alan kullanan sade, editoryal bir arayüz kullanın. Büyük, italik serif başlık olarak “Citrus Jelly” metnini ekleyin. Kontrolleri kompakt tutun ve dilimin net biçimde görünmesini sağlayın.
+
+YUMUŞAK CİSİM FİZİĞİ
+
+Jelibon hissi en önemli unsurdur.
+
+- Dilimin herhangi bir bölümünü fareyle veya parmağınızla tutun.
+- Çekin, kaldırın, esnetin, bükün ve bırakın.
+- Deformasyonu yerel tutun: Bir kenarı çektiğinizde yakındaki iç doku esnerken geri kalan kısım doğal biçimde onu takip etmelidir.
+- Bırakıldıktan sonra dilim sallanmalı, hedef şekli aşmalı ve giderek başlangıçtaki şekline dönmelidir.
+- Yerçekimi, atalet, sönümleme, zemin çarpışmaları ve yumuşak sekme ekleyin.
+- Hacmi yaklaşık olarak koruyun; ağın çökmesini veya ters yüz olmasını önleyin.
+- Kabuğu iç dokudan biraz daha sert yapın.
+- İç dilimler, zarlar ve kabarcıklar deformasyonu takip etmeli, gövdenin dışına taşarak havada kalmamalıdır.
+
+Tetrahedral mesh ve XPBD kısıtları gibi kararlı, hacimsel bir yumuşak cisim çözücüsü kullanın. Tüm nesneyi ölçeklendirerek veya döndürerek yumuşaklık taklidi yapmayın.
+
+CONTROLS
+
+Üç renk ön ayarı ekleyin: Orange, Lemon ve Ruby.
+
+Şunları ekleyin:
+- Sertlik kaydırıcısı.
+- İç sönümleme kaydırıcısı.
+- “Bir dürtme gönder” düğmesi.
+- Sıfırla düğmesi.
+- Çeyrek hız onay kutusu.
+- Ağı göster onay kutusu.
+- Duraklat/devam et düğmesi.
+
+Kütle, başlangıç hacminin yüzde kaçı ve kinetik enerji için küçük, canlı değer göstergeleri görüntüleyin.
+
+TEKNİK GEREKSİNİMLER
+
+WGSL shader'larıyla gerçek WebGPU işleme kullanın. İçe aktarılan model veya görsel dosyaları olmadan tüm geometriyi ve görsel ayrıntıları prosedürel olarak üretin.
+
+Simülasyon güncellemelerini işleme kare hızından bağımsız tutun. Masaüstü ve dokunmatik cihazları destekleyin. WebGPU kullanılamıyorsa anlaşılır bir geri dönüş mesajı gösterin.
+
+Kuvvetli sürüklemeyi, art arda bırakma işlemlerini, tüm kontrolleri ve dar ekranları test edin. Son HTML'yi teslim etmeden önce kararsız fiziği, bozuk geometriyi ve görsel kusurları düzeltin.
+
+Sonuç, oynaması gerçekten tatmin edici, küçük ve dokunsal bir şekerleme deneyi hissi vermelidir.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
+
+This must be a real-time 3D simulation, not a video, image, or looping animation.
+
+APPEARANCE
+
+Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
+
+Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
+
+Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
+
+SOFT-BODY PHYSICS
+
+The jelly feel is the most important part.
+
+- Grab any part of the slice with a mouse or finger.
+- Pull, lift, stretch, twist, and release it.
+- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
+- After release, the slice should wobble, overshoot, and gradually recover its original shape.
+- Include gravity, inertia, damping, ground collisions, and soft bouncing.
+- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
+- Make the rind slightly firmer than the flesh.
+- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
+
+Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
+
+CONTROLS
+
+Include three color presets: Orange, Lemon, and Ruby.
+
+Add:
+- Firmness slider.
+- Internal damping slider.
+- “Give it a nudge” button.
+- Reset button.
+- Quarter-speed checkbox.
+- Show mesh checkbox.
+- Pause/resume button.
+
+Display small live readouts for mass, percentage of rest volume, and kinetic energy.
+
+TECHNICAL REQUIREMENTS
+
+Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
+
+Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
+
+Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
+
+The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280) · [Orijinal gönderi](https://x.com/vib3coded/status/2103062415533371646) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### İmparatorluk Şehri Oluştur
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="İmparatorluk Şehri Oluştur"></a>
+
+**İstem**
+
+```text
+BİR İMPARATORLUK ŞEHRİ OLUŞTUR
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103046279253168554) · [Orijinal gönderi](https://x.com/Enzoxbt01/status/2103046279253168554) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102956340482289944"></a>
+
+### Three.js'te Voxel Codex
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Three.js'te Voxel Codex"></a>
+
+**İstem**
+
+```text
+Kendin oluştur: Three.js kullanarak Codex'i voxel'larla yap; her şeyi sıfırdan oluştur, hiçbir beceri kullanma.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944) · [Orijinal gönderi](https://x.com/be_arsh/status/2102956424120979838) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102915300295369208"></a>
+
+### Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi"></a>
+
+**İstem**
+
+```text
+Başka hiçbir dosyaya veya önceki çalışmaya atıfta bulunma. Bu görev tamamen özgün olmalı ve buradaki başka bir çalışmadan kopya çekilerek oluşturulmamalı.
+
+Çölde yanan bir kamp ateşini gösteren tek bir HTML dosyası oluştur. Gece olsun ve yıldızlar görünsün. Ateşin çevresine oturmak için kütük parçaları yerleştirilsin. Kadrajda hiç insan olmasın. Farklı yaban hayvanları zaman zaman görünüp kadrajdan çıkabilsin.
+
+Sesler de sahneyle uyumlu ve yüksek kaliteli olmalı.
+Her şeyi hipergerçekçi yap
+
+Dosyaya (modele göre) ad ver
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
+
+Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
+
+noises should also match the scene and be of high quality.
+Make everything hyper realistic
+
+name the file (based on model)
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102915300295369208) · [Orijinal gönderi](https://x.com/Nixtrodamis/status/2102915567845794029) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102897258983313712"></a>
+
+### Birinci şahıs burger simülatörü
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="Birinci şahıs burger simülatörü"></a>
+
+**İstem**
+
+```text
+Birinci şahıs burger simülatörü oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a first-person burger simulator.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102897258983313712) · [Orijinal gönderi](https://x.com/noclipepe/status/2102897258983313712) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Three.js'te Bugatti Chiron Super Sport oluşturun
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Three.js'te Bugatti Chiron Super Sport oluşturun"></a>
+
+**İstem**
+
+```text
+Three.js'te Bugatti Chiron Super Sport oluşturun.
+
+3B model yok. Doku yok. Varlık yok.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102828216289566725) · [Orijinal gönderi](https://x.com/srikanthvaluri/status/2102828216289566725) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102826333550133520"></a>
+
+### Sonsuz solarpunk şehir shader'ı
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="Sonsuz solarpunk şehir shader'ı"></a>
+
+**İstem**
+
+```text
+Görsel açıdan ilgi çekici, twigl-dot-app'te çalışabilecek bir shader oluştur; solarpunk yolları ve kulelerinden oluşan sonsuz bir şehir gibi görünsün ve sürekli hareket eden, görünür bir esinti efekti içersin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520) · [Orijinal gönderi](https://x.com/jonasfroeller/status/2102826333550133520) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -529,6 +1100,33 @@ Düzenlenebilir kaynak kodu, sabitlenmiş bağımlılıkları, statik derlemeyi,
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102652927177617564"></a>
+
+### Tek bir HTML dosyasında 3B kart yarışı
+
+[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="Tek bir HTML dosyasında 3B kart yarışı"></a>
+
+**İstem**
+
+```text
+Tek bir HTML dosyasında 3B kart yarışı oyunu oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564) · [Orijinal gönderi](https://x.com/realanshull/status/2102652927177617564) · [Örneklere dön](#all-prompts)
 
 ---
 
@@ -2041,535 +2639,6 @@ Açılışı, her iki karakter portresini, çarpışmayı, imdat roketlerini, ü
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/titanic-the-last-light) · [Canlı demo](https://titanic-the-last-light.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101325346427842909"></a>
-
-### Waymo Jaguar I-Pace 3B modeli
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/9a1f4ddfbd700e1f0a801a5f774a4fbf96c0ad7e98f8d9f9603f83cbb0b50dfc.webp" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3B modeli"></a>
-
-**İstem**
-
-```text
-Three.js kullanarak Waymo Jaguar I-Pace 3B modeli
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-3d model of Waymo Jaguar i-Pace using three js
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101325346427842909) · [Orijinal gönderi](https://x.com/HarshithLucky3/status/2101325346427842909) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101310374033428642"></a>
-
-### Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/b4e5c19965da011929b1777975e9c6c8a82a23c2a55340683d900de8a4103856.webp" width="840" loading="lazy" alt="Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı"></a>
-
-**İstem**
-
-```text
-Fotogerçekçi sinematik tek plan, 10 saniye, 16:9, 24 fps, sabit kamera, kesme yok.
-Turuncu-beyaz bir tekir kedi (beyaz burun çevresi, göğüs ve patiler; alnında “M” bulunan turuncu tekir çizgileri) tam ortada, objektife dönük ve dik oturur; katı bir dövüş sanatları duruşu vardır — bakışları düz, soğukkanlı ve kayıtsız; gözleri yarı kısık, ağzı kapalı, başı hiç hareket etmez. Alnın alt kısmından bağlanmış siyah bir hachimaki bandı takar; düğüm arkadadır ve kulakları bandın üstünden dikilir.
-Mekân: geleneksel bir Japon tapınağı avlusu — sıcak ahşap sütunlar, saçaklar ve korkuluklar — krem tonlu altın saat bokeh’ine eriyerek karışır. 85 mm lens, f/1.8, son derece sığ alan derinliği, odak kedinin gözlerine kilitli. Sıcak 3500K renk düzenlemesi, ön sağdan yumuşak ana ışık, hafifçe doldurulmuş gölgeler, ince film grenleri.
-EYLEM: çıplak bir insan kolu kadrajın solundan hızla girer; açık avuç içi güçlü hareket bulanıklığıyla kedinin yüzüne doğru uzanır. Kedi sakince sağ ön patisini kaldırıp avuç içine müdahale ederek hamlenin ivmesini keser — tokat atmaz, bloklar. Kol kedinin yüzünün önünden yatay biçimde bulanık geçer; ardından sağdan ikinci bir el aşağı doğru kesme hareketi yapar. Kedi, gövdesini ve başını tamamen sabit tutarak, gözlerini objektiften hiç ayırmadan her birini kısa ve minimal pati bloklarıyla savuşturur. Saldıran ellerdir — kedi ise tamamen tepkisel ve aldırışsızdır. Eller iki yandan içeri girip çıkarak şaşırtma hamleleri yapar; kedi göğüs hizasında iki patili boks gardına geçer, patilerini kıvırır, dirseklerini içeri alır ve bekleyerek bu pozisyonu korur. Ardından hızlı, bulanık tek patili karşı hamleler yapar; kung-fu tarzında gelen elleri havada yakalar, başı hâlâ karşıya kilitlidir. Son olarak sağ patisini doğrudan objektife doğru uzatır; pembe pati yastığı kameraya dönüktür ve kadrajı yumuşak, odak dışı bir ön plan şekli olarak doldurana kadar ilerler — arkasındaki yüz jilet gibi nettir, soğuk bakış bozulmaz.
-Hareket: doğal hız, uçan ellerde ve hızlı pati bloklarında gerçek hareket bulanıklığı. Savunmacı, minimal ve ekonomik kedi hareketleri — kedi neredeyse hiç hareket etmez; bütün işi eller yapar ve başarısız olur. Kamera hareketi yok, zoom yok, metin yok.
-NEGATİF: fazladan uzuvlar, birleşmiş veya mutasyona uğramış patiler, fazladan parmaklar, bozulmuş yüz, kürkle birleşen saç bandı, plastik görünümlü cilt, aşırı doygun renkler, metin, altyazı, logo, filigran, kesmeler, kamera sarsıntısı, oyuncu veya kutlama amaçlı beden dili, çak hareketi.
-KISA SÜRÜM:
-Siyah hachimaki bandı takan turuncu-beyaz tekir kedi, güneş alan bir Japon tapınağı avlusunda oturur ve kameraya ifadesiz bir bakış atar; 85 mm f/1.8, sığ alan derinliği, altın saat, film grenleri. İnsan elleri iki yandan hareket bulanıklığıyla hızla yüzüne doğru kesme ve itme hamleleri yapar — kedi sakince her darbeyi minimal bir pati bloğuyla savuşturur, başını hiç oynatmaz. İki patili kung-fu gardına geçer, hızlı ve bulanık karşı hamleler yapar, ardından pati yastığı kadrajı doldurana kadar patisini objektife doğru uzatır. Sabit kameralı tek plan, 10 sn, 16:9, 24 fps, fotogerçekçi, metin yok.
-Kareden küçük bir not: eller ağırlıklı olarak soldan giriyor (aşağı yönlü kesme + yatay süpürme); temas bilek/avuç içinde gerçekleşiyor — pati patiye değil. İki patili gard yaklaşık 4,0–5,6 sn arasında, bulanık karşı hamleler 5,6–8 sn arasında, patiyle lense bitiriş 8–10 sn arasında. Blender MCP ile 3B modeli oluşturup 10 sn, 24 fps çıktı alın ve bunu Seedance 2.5 video modeliyle PixVerse CLI kullanarak süper gerçekçi bir sahneye dönüştürüp işleyin
-AJAN ADIMLARI: Blender MCP’yi, PixVerse CLI kimlik doğrulamasını, model yeteneklerini ve kullanılabilir kredileri kontrol edin. Tahmini maliyetleri açıklayın ve ücretli üretimden önce harcama onayı alın. İstemi zaman kodlu bir aksiyon planına dönüştürün, resmî Blender MCP üzerinden hafif 3B ağlar ve animasyon oluşturun, bir hareket referansı MP4’ü dışa aktarın ve kadrajı, hareketi, temas noktalarını, süreyi ve kare hızını inceleyin. Videoyu göndermeden önce ayrı bir görünüm referansı görseli üretip inceleyin. Kimlik, stil ve ışıklandırmayı yönlendirmek için bu görseli; hareket ve zamanlamayı yönlendirmek için Blender videosunu kullanın. Üretimden sonra sonucu indirin, teknik özellikleri doğrulayın, ana kareleri inceleyin, sapmaları dürüstçe raporlayın ve gerçek kredi kullanımını hesaplayın. Orijinalleri koruyun; modelleri hiçbir zaman sessizce değiştirmeyin veya yeniden üretim yapmayın.
-PIXVERSE ÇAĞRISI: Onaylanan en-boy oranında, 1080p ve yüksek ayrıntı düzeyinde görünüm referansı oluşturmak için gpt-image-2.0 ile pixverse create image kullanın. Ardından, onaylanan video modelini kullanarak ve her ikisini de ileterek pixverse create reference komutunu çalıştırın --images and --videos togörünüm görselini Blender hareket referansıyla birleştirin. Seedance 2.5 için --model seedance-2.5 --task-type auto, onaylanan süre/en-boy oranını ve --quality 1080p --count 1.kullanın. Göndermeden önce mevcut yetenekleri doğrulayın, benzersiz idempotency anahtarları kullanın ve tamamlanma durumunu pixverse task status / pixverse task wait üzerinden takip edin.
-SON ÇIKTI: Onaylanan en-boy oranı ve sürede, 1080p ve 24 fps hedefiyle tamamlanan videoyu; ayrıca görünüm referansı görselini, Blender .blend projesini ve hareket referansı MP4’ünü teslim edin. Mutlak yerel yollar veya indirilebilir URL’ler sağlayın. Son rapor biçimini koruyun: Video, Referans görseli, Blender ağı + animasyon, Kontrol, Görünüm ve Kullanılan krediler. Gerçek çözünürlüğü, kare hızını, kare sayısını, süreyi, görsel sapmaları, görsel/video kredi maliyetlerini, toplam harcamayı, kalan bakiyeyi ve yeniden üretim yapılıp yapılmadığını raporlayın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-SHORT VERSION:
-Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
-Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
-AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
-PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
-FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101310374033428642) · [Orijinal gönderi](https://x.com/PixVerse/status/2101310387081908606) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101271938706685991"></a>
-
-### Etkileşimli 3B uçak motoru gösterimi
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/ab861425bbbe93cb886651a97e2e3b2d2c7ae1be8684904fc0b3c42bd9b0c37a.webp" width="840" loading="lazy" alt="Etkileşimli 3B uçak motoru gösterimi"></a>
-
-**İstem**
-
-```text
-Bir web sayfasında uçak motorunun etkileşimli 3B gösterimini oluşturmak için three.js kullanın. 
-Gerçeğe yakın, neredeyse 1:1 ölçekte yüksek doğruluklu bir model oluşturmak için Jigspace'in etkileşim tasarımı felsefesini temel alın; metal, boru hatları ve kanatlar gibi malzeme ve doku ayrıntılarını eksiksiz koruyun. Etkileşimli özellikler şunları mutlaka içermeli: adım adım sökme animasyonu, bileşenlerin patlatılmış görünümü ve tıklamayla veya üzerine gelindiğinde açılan parça açıklamaları ile çalışma prensibi bilgileri. 
-Genel olarak akıcı kamera kontrolünü ve kullanıcı dostu insan-bilgisayar etkileşimini desteklemeli; web üzerinde sorunsuz bir deneyim sunarak motorun yapısını ve çalışma prensiplerini eksiksiz biçimde sergilemelidir.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101271938706685991) · [Orijinal gönderi](https://x.com/YouWareAI/status/2101272224435253432) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101224659861590399"></a>
-
-### Eksiksiz Fotogerçekçi 3B Ortam
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Eksiksiz Fotogerçekçi 3B Ortam"></a>
-
-**İstem**
-
-```text
-Eksiksiz, fotogerçekçi bir 3B ortam oluştur. Beni şaşırt.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a complete photorealistic 3D environment. Surprise me.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101224659861590399) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101055500599054437"></a>
-
-### Gerçek yörünge fiziğiyle galaksi
-
-[Argona](https://x.com/Argona0x) · 2026-09-18 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp" width="840" loading="lazy" alt="Gerçek yörünge fiziğiyle galaksi"></a>
-
-**İstem**
-
-```text
-gerçek yörünge fiziğiyle oluşturulmuş bir galaksi, 320.000 yıldız, içinde 30 saniyelik bir uçuş
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2101055500599054437) · [Orijinal gönderi](https://x.com/Argona0x/status/2101055500599054437) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="monster-block"></a>
-
-### Monster Block — Şehri 45 Saniyede Yerle Bir Et
-
-[Tony](https://x.com/abc30037274) · 2026-09-18 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/monster-block"><img src="../assets/previews/8c0a2832f40569463c7b23d6b5228538ce90881c8b01876795d818b89d197a5d.webp" width="840" loading="lazy" alt="Monster Block — Şehri 45 Saniyede Yerle Bir Et"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/ab5439fe-bc9f-4cde-8713-20e1b0caf7a6.png) · [2](https://media.tripogrowth.space/media/94648b5c-c804-46bd-a2b1-c684b25bd848.png) · [3](https://media.tripogrowth.space/media/4405e75a-c387-44cb-b63c-d8503454b422.png)
-
-**İstem**
-
-```text
-# Monster Block — yeniden oluşturma spesifikasyonu
-
-## 1. Proje hedefi
-
-Monster Block adlı, tarayıcıda oynanabilen bir oyun oluştur. Oyuncunun oyuncak bir canavar seçmesine, minyatür bir şehre girmesine ve 45 saniye içinde mümkün olduğunca çok binayı yok etmesine olanak tanı. Hareket etmek, binalara pençeyle saldırmak, arabaları fırlatmak ve yıkımları zincirlemek anında geri bildirim üretmeli. Oyunu skor, bir unvan, yeniden deneme eylemi ve bir arkadaşın aynı blokta oynayabilmesini sağlayan bir meydan okuma bağlantısıyla bitir. İngilizce ve Basitleştirilmiş Çince arayüzlerin yanı sıra klavye ve dokunmatik ekran kontrolleri sun.
-
-## 2. Görsel stil
-
-Krem rengi bir arka planın önünde, kalın kare bir platform üzerinde sıcak bir masaüstü dioraması oluştur. Az detaylı pastel binalar, küçük koyu teal pencereler, açık renkli çatı kenarları, geniş ve mat yeşil-gri yollar, yaya geçitleri, yuvarlak ağaçlar, küçük arabalar ve sıcak yumuşak gölgeler kullan. Bina paletinde kiremit, hardal, tozlu teal, gül kurusu, mavi-gri, krem ve adaçayı tonları yer alsın. Malzemeler parlak metalden çok mat boyanmış oyuncaklar gibi görünmeli.
-
-Düz üstten bakan bir kamera yerine, yüksek üç çeyrek perspektifli bir kamera kullan. Referans kamera (35, 37, 41) konumundan başlar, (0, 0.4, 0) noktasına bakar ve geniş ekranlarda 38 derece, orta genişlikteki ekranlarda 44 derece, dar ekranlarda 51 derece görüş alanı kullanır. Oyun sırasında canavarı yumuşak biçimde takip ederken yakındaki hedefleri görünür tut. Sahneyi sıcak bir yarımküre ışığı, yumuşak gölgeler oluşturan yönlü bir ışık ve soğuk bir dolgu ışığıyla aydınlat.
-
-Büyük İngilizce başlıklar için yoğun ve kalın bir display yazı tipi, talimatlar içinse okunaklı bir sans-serif kullan. Koyu yeşil metni, krem yüzeyleri, turuncu oyun eylemlerini ve sarı Tripo oluşturma eylemlerini bir araya getir. Ana sayfada Play ile Create with Tripo eylemlerini eşit derecede öne çıkar. Duraklatma iletişim kutusunda, çerçeveli Resume düğmesinin üstüne üç karakter küçük resmi ve sarı bir oluşturma düğmesi içeren koyu yeşil bir Tripo kartı yerleştir. Yardım metnini telefonlarda rahatça okunabilecek boyutta tut.
-
-Kısa ve girdilerle tetiklenen efektler kullan: pençe savurmaları, binaların kısa süreli geri tepmesi, belirgin vuruş ve yıkım darbeleri, genişleyen ezme halkaları, küçük moloz patlamaları, skor bildirimleri, combo değişimleri ve ölçülü, yönlü kamera sarsıntısı. Tutulan bir arabayı yaklaşık 220 ms içinde elin içine kaldır. Azaltılmış hareket tercihine uyarak sarsıntıyı, moloz patlamalarını ve arayüz ölçeklendirmesini kaldır; skorları, hedef göstergelerini ve yıkım sonuçlarını koru.
-
-## 3. Dünya ve sahne
-
-4'e 4'lük bir ızgaraya 16 yıkılabilir bina yerleştir. Blok aralığı olarak 10.4 kullan; blok merkezleri bu aralığın -1.5, -0.5, 0.5 ve 1.5 katlarında olsun ve her eksen boyunca beş cadde bulunsun. Platformun genişliği 52.6 birimdir. Binalar iki ila beş katlı olsun; farklı taban şekilleri, çatı detayları, ara sıra tenteler ve küçük HOTEL veya NOODS tabelaları kullan. Yerleşimi bir seed'den deterministik olarak oluştur.
-
-Yollar boyunca 12 araba ve başlangıç oyun konumunun yakınına kesinlikle fırlatılabilir bir sarı araba yerleştir. Bina parsellerinin ve platform kenarlarının çevresine ağaçlar, dört köşe lambası, şerit işaretleri ve merkezi bir yaya geçidi ekle. Canavarı (0, 0.2, 10.4) konumunda açık bir caddede başlat; ana sayfa için z=20.8 konumunda ön planda bir bekleme konumu kullan.
-
-Aynı blok parametresi, aynı bina yerleşimini yeniden üretmeli. Parametre yoksa blok seed'ini UTC tarihinden türet. Bir beat parametresi arkadaşın hedef skorunu sağlar. Yeniden denerken seçili bloğu koru. Rastgele molozların deterministik olması gerekmez.
-
-## 4. Varlık envanteri
-
-Kararlı varlık kimliklerini koru ve görsel modelleri oyun içi çarpışma proxy'lerinden ayrı tut.
-
-- munch: Munch / 阿猛, varsayılan yeşil dinozor. Özgün yuvarlak burun yapısını, krem rengi karnını ve boynuzlarını, turuncu sırt dikenlerini, kısa kollarını, büyük ayaklarını ve uzun kuyruğunu koru. /assets/monster-animated.glb dosyasını yükle ve yüksekliğini 5.6 birime normalize et. /assets/monster.glb dosyasını statik yedek olarak koru.
-- bongo: Bongo / 橘拳, aşırı büyük yumruklara ve geniş bir gövdeye sahip turuncu oyuncak goril. /assets/bongo-animated.glb dosyasını yükle ve yüksekliğini 4.5 birime normalize et.
-- bolt: Bolt / 蓝电, kalın uzuvlara ve sevimli bir silüete sahip mavi oyuncak robot. /assets/bolt-animated.glb dosyasını yükle ve yüksekliğini 4.9 birime normalize et.
-- Her karakterin eşleşen bir önizleme PNG'si ile bekleme, koşma ve savurma klipleri vardır. Seçilebilir üç gerçek karakteri koru; karakter değiştirildiğinde hem önizleme hem de sonraki turda kullanılacak model güncellenmeli.
-- city_building: Sağlık, collider sınırları, vuruş geri tepmesi ve yıkım durumu ayrı ayrı izlenen, prosedürel ve yeniden kullanılabilir bina grupları. Çatı kenarları, tabanlar ve tenteler çarpışma hacmine dahildir.
-- city_car: Prosedürel olarak oluşturulan, yeniden kullanılabilir ve fırlatılabilir arabalar. Elde tutulan, havadaki ve yok edilmiş durumları ayrı tut. Üç arabada sarı Tripo markası bulunur.
-- city_decor: Prosedürel ağaçlar, lambalar, kaldırımlar, tabelalar ve yol boyaları. Bu varlıkları hafif tut, geometriyi ve malzemeleri yeniden kullan.
-- tripo_scenery: Bir çatı logo heykeli, iki çatı tabelası, bir atölye dükkân cephesi ve markalı üç araba. Bunları sağlanan Tripo logosundan ve prosedürel mesh'lerden oluştur. Bunlar ek API ile oluşturulmuş modeller veya oynanış güçlendirmeleri değil, sahne dekorasyonlarıdır.
-
-Üç karakter modeli öncelikli Tripo varlıklarıdır. Sağlandığında oluşturulmuş ve rig'lenmiş GLB'leri yeniden kullan. Yeni bir karakter için eşleşen oyuncak tarzı bir model oluştur, rig uygunluğunu kontrol et, rig'le, bekleme/koşma/savurma animasyonlarını oluştur ve kadroya eklemeden önce oranlarını doğrula. Oyuncu bir tura başladığında oluşturma API'lerini çağırma. Karakter yüklemeleri ve oyuncunun kendi oluşturduğu varlıkların otomatik içe aktarılması bu sürümün kapsamı dışındadır.
-
-## 5. Oynanış ve geri bildirim
-
-Hareket için WASD veya ok tuşlarını, tekrarlanan pençe saldırıları için basılı tutulan Space tuşunu, yakındaki bir arabayı tutup fırlatmak için E ve ardından tekrar E tuşunu, ezme saldırısı için R ve duraklatmak için Escape tuşunu destekle. Dokunmatik ekranlarda sanal joystick ile ayrı saldırı, tut/fırlat ve ezme düğmeleri sun. Duraklatıldığında veya odak kaybedildiğinde basılı girdileri temizle.
-
-Şu kuralları kullan:
-
-- Bir tur 45 saniye sürer. Binaların canı kat sayısı artı birdir; bu da 3–6 can verir.
-- Pençe vuruşu 1 hasar verir ve saldırı aralığı 0.42 saniyedir.
-- Ezme saldırısı menzil içindeki her binaya 3 hasar verir ve bekleme süresi 7 saniyedir.
-- Fırlatılan araba çarpma alanındaki binalara 4 hasar verir ve çarpma için 75 temel puan kazandırır.
-- Binaya isabet ettirmek, mevcut çarpanla çarpılmış 20 puan kazandırır. Bir yıkım, yıkım kombosu artırıldıktan sonra, çarpanla çarpılmış round(180 + bina yüksekliği × 50) puan ekler.
-- 3.5 saniye içinde yeniden yıkım yapmak komboyu sürdürür. Sıradan vuruşlar bu süreyi uzatmaz. Çarpan min(5, 1 + floor(combo / 2)) değeridir.
-- 16 binanın tamamını temizlemek turu bitirir ve ceil(kalan saniye) × 100 puan kazandırır. Aksi durumda süre sıfıra ulaştığında turu bitir ve daha fazla skor kazanılmasını engelle.
-
-Düşman, boss savaşı, oyuncu canı veya ölüm cezası yoktur. Meydan okuma; rota seçmek, arabaları ve ezme saldırılarını verimli kullanmak ve yıkım kombosunu sürdürmektir. Kalan süreyi, skoru, yok edilen bina sayısını, çarpanı ve ezme saldırısının bekleme süresini göster. Kullanılamayan eylemleri hareketi engellemeden anlaşılır kıl. Boşa savrulan bir pençeyi başarılı bir vuruştan ses ve görsel geri bildirimle ayırt et.
-
-Hareket ve dönüşleri, kollar ve kuyruk da dahil olmak üzere her karakterin örneklenmiş animasyon ayak iziyle çakışmaya göre çöz. Tam bina sınırlarını küçük bir açıklık payıyla kontrol et. Canavar, geçerli bir duruş konumundan saldırabilmeli. Binası yıkıldıktan sonra oyuncunun bir parselin içinden geçmesine izin ver. Oyuncuyu köşelerde sıkıştırmaktan veya dönüş sırasında kuyruğun sağlam bir binanın içinden geçmesinden kaçın.
-
-Escape tuşuna, duraklatma düğmesine, pencere odağının kaybolmasına ve gizli sekmelere geçişe tepki olarak zamanlayıcıyı ve girdileri duraklat. Resume, Retry ve Home akışlarını sun. Oyunu skor, yıkım sayısı, en iyi combo, eğlenceli bir unvan ve aynı haritada bir meydan okuma bağlantısıyla bitir. İndirilebilir 1080'e 1350 boyutunda bir skor kartı sun; MediaRecorder desteklendiğinde tur kaydını desteklenen MP4 veya WebM formatında oluştur. Kullanılabildiğinde yerel paylaşımı, meydan okuma bağlantıları içinse pano yedeğini kullan. Tarayıcı tarafından hesaplanan bir skoru hiçbir zaman güvenli bir rekabetçi liderlik tablosu gibi sunma.
-
-## 6. Teknik uygulama
-
-Statik dist build içeren Three.js, TypeScript ve Vite kullan. Dünya oluşturma, kurallar, çarpışma, karakterler, render, ses, kayıt, analitik ve arayüzü ayrı modüllerde tut. Fontları ve gerekli decoder varlıklarını yerel olarak paketle. Tekrarlanan pencereler ve yol işaretleri için instancing kullan; malzemeleri ve geometriyi yeniden kullan. Render piksel oranını 1.65 ile sınırla. Geçici efektleri sınırlandır ve tamamlandıklarında veya sıfırlandıklarında kaynaklarını serbest bırak.
-
-GLTFLoader, skeletal animation mixer'lar ve sağlanan GLB kliplerini kullan. Her modeli merkezlenmiş bir zemin pivotu etrafında normalize et. Referans dışa aktarımı +X yönüne bakar; görsel pivotu Y ekseni etrafında -90 derece döndürerek oyunun +Z ileri yönüyle hizala. Yüklenen modeli göstermeden önce bekleme animasyonunu değerlendir ve animasyonlu ayakları zemine yakın tut. Yükleme başarısız olursa görünür bir prosedürel yedek sun; hatayı dürüstçe belirt. Daha eski bir yüklemenin en son seçimin yerini almasını önlemek için asenkron karakter seçimini güvenli hâle getir.
-
-Karakter çarpışma verilerini render mesh'lerinden bağımsız tut ve karakter veya animasyon değiştirildiğinde örneklenmiş ayak izlerini yeniden oluştur. Duvarların yakınında hem öteleme hem de dönüşü test et. Kararlı klavye/dokunmatik girişini, duyarlı iletişim kutularını, yerelleştirilmiş metinleri, odak davranışını, sessiz ses kontrollerini, azaltılmış hareketi ve WebGL kurtarma davranışını koru.
-
-Tripo oluşturma eylemlerini https://www.tripo3d.ai/ adresine bağla; utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game ve yerleşime özel bir utm_content kullan: header_logo, hero_create, pause_create, result_create veya footer_logo. Bu eylemleri ayrı bir sekmede aç ve önce etkin oyunu duraklat. Tripo'nun 3B varlıklar oluşturduğunu açıkla; bu oyuna otomatik içe aktarma sözü verme.
-
-Hosting politikasının izin verdiği durumlarda mevcut Pageview ve PostHog etkinlik entegrasyonunu koru. Statik build'de yalnızca herkese açık tarayıcı veri alım yapılandırmasını kullan. Oluşturma, CMS, dağıtım ve kişisel analitik kimlik bilgilerini kaynak kodunun ve build çıktılarının dışında tut. Sayfaya giriş, karakter seçimi, oyun, ilk eylemler, tur sonuçları, yeniden deneme, paylaşım/dışa aktarma ve Tripo dış bağlantı tıklamalarını kaydet; tıklamaları doğrulanmış kayıtlara veya ödemelere eşdeğer sayma.
-
-## 7. Tamamlanma ölçütleri
-
-Çalıştırılabilir kaynak kodu, yerel varlıkları, üretime hazır statik build'i ve açık kurulum/başlatma/build talimatlarını teslim et. Üç karakterin tüm seçimlerini, süreli bir turun tamamını, bina yıkımını, tutup fırlatmayı, ezme bekleme süresini, combo'nun sona ermesini, duraklatma/devam etme, yeniden deneme ve tur sonu skorlamasını doğrula. Özgün dinozorun seçilebilir kalmasını ve üç karakterin de binaların yakınında görünür biçimde iç içe geçmeden veya takılmadan hareket edip dönebilmesini doğrula.
-
-Okunabilir yardım metinleri, dokunmatik kontroller, duraklatma eylemleri ve sonuç paylaşımı dahil olmak üzere masaüstü ve dar mobil genişliklerde İngilizce ve Çince yerleşimleri kontrol et. Tripo CTA hedeflerini ve UTM yerleşim değerlerini, skor kartı dışa aktarımını ve kayıt yedeği davranışını doğrula. Dağıtılmış sayfayı ve gerçek CMS iframe ortamını model yükleme, giriş, harici bağlantılar ve indirmeler açısından test et. Evrensel destek iddiasında bulunmak veya kanıt olmadan ölçülmüş sabit kare hızını garanti etmek yerine tarayıcı ya da cihaz sınırlamalarını bildir.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/monster-block) · [Orijinal gönderi](https://x.com/abc30037274/status/2100636075039629796) · [Canlı demo](https://monster-block.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100956517633761447"></a>
-
-### Etkileşimli IWC Schaffhausen Saat Modeli
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/a426633024453e686b5eecffb2a0acdbc37cd9b2069a53128441eeff3e7fa22f.webp" width="840" loading="lazy" alt="Etkileşimli IWC Schaffhausen Saat Modeli"></a>
-
-**İstem**
-
-```text
-IWC Schaffhausen saatinin son derece aslına sadık, etkileşimli bir 3B modelini geliştirmek için Three.js kullanın. Gereksinimler: 1) Kadran yapısı son derece hassas olmalı; her mekanik bileşen ayrı ayrı modellenmeli ve net biçimde ayırt edilebilmelidir; 2) Saat kadranında, gerçekçi saydamlık, kırılma ve yansıma efektlerine sahip safir cam malzemesi kullanılmalıdır; 3) Akrep ve saniye ibreleri doğru ibreler olmalı ve gerçek zaman işleyişini takip etmelidir; ibreler otomatik ve kesintisiz biçimde hareket etmelidir; 4) Saatin sökülüp yeniden birleştirilmesi desteklenmeli; her parça ayrılarak tek başına görüntülenebilmelidir; 5) Genel ayrıntı düzeyi son derece yüksek olmalı, gerçek bir saatin yapısı ve oranlarıyla yakından örtüşmeli; vidalar, metal parçalar ve diğer bileşenler için gerçekçi malzeme dokuları ve ince işçilik sunulmalıdır. Modelin tarayıcıda akıcı çalıştığından ve doğal biçimde etkileşim kurulabildiğinden emin olun.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100956517633761447) · [Orijinal gönderi](https://x.com/YouWareAI/status/2100958838350643553) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="odd-arms"></a>
-
-### ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/odd-arms"><img src="../assets/previews/48f26395f6cf5e8bccb59f37d79965f9da76605aa246ecdb1baa041bfc742b28.webp" width="840" loading="lazy" alt="ODD ARMS — Tuhaf Silahlarla Hayatta Kalma Oyunu"></a>
-
-**İstem**
-
-```text
-# ODD ARMS — Fikrin. Kahramanın.
-
-## 1. Amaç
-Tüm oyun arayüzünü İngilizce tutun (isteğe bağlı dil seçeneği olarak Japonca ekleyin).
-"Otomatik saldırılı sürü" türünde, tarayıcıda çalışan eksiksiz ve üç dakikalık bir hayatta kalma oyunu oluşturun: Oyuncu, oyuncak boyutunda bir kahraman ile iki son derece tuhaf silah seçer ve bir zanaatkârın çalışma tezgâhında 180 saniye boyunca canavar sürülerine karşı hayatta kalır. Silahlar otomatik saldırır; oyuncu yalnızca hareket eder, atılır, kristalleri toplar, geliştirmeler seçer ve şarjlı bir nova ateşler. Oyunun kişisel yönü şudur: Oyuncular Tripo'da kendi kahramanlarını veya silahlarını oluşturabilir, GLB dosyasını indirip oyuna aktarabilir. Nihai sonuç için https://odd-arms.tripo.page/ ve sağlanan referansları kullanın. Deniffer'a şu adresten kredi verin: https://x.com/lumina__team.
-
-## 2. Görsel yön
-Oyunu, kahramanı takip eden sabit, dörtte üç açıdan yukarıdan görünümlü bir kamerayla gösterilen minyatür bir oyuncak diorama olarak tasarlayın. Oyun alanı, üzerinde silik bir ızgara ve basılı "ODD ARMS" köşe işaretleri bulunan lacivert bir kesim matıdır; bu mat sıcak tonlu ahşap bir çalışma masasının üzerindedir. Masa kenarları, arenanın gerçek bir masaüstü gibi görünmesi için büyük boyutlu el işi aksesuarlarıyla (iplik makaraları, süslü pirinç rozetli kutular, deri alet çantası, pirinç masa lambası, ahşap oyuncak tren, oyuncak parçaları) doldurulmalıdır. Lambanın bulunduğu taraftan sıcak bir ana ışık, yumuşak ortam dolgu ışığı, temas gölgeleri ve hafif bloom kullanın; karakterler parlak, iri hatlı ve doygun renkli koleksiyon figürleri tarzında olsun.
-
-Arayüz: lacivert metinli, krem-beyaz yuvarlatılmış kartlar ve mercan-turuncu vurgu rengi kullanın. Başlıklarda ağır, daraltılmış bir ekran yazı tipi ("LET'S MAKE SOME TROUBLE."), gövde metninde ise temiz ve daraltılmış bir sans yazı tipi kullanın. Savaş sırasında: sol üstte can kartı, altında seri sayacı, üst merkezde "SURVIVE THE WEIRD" geri sayımı, sağ üstte dalga etiketi + ses + ayarlar + Duraklat, sağda yenilen düşman sayısı, alt merkezde seviye/XP rozeti, sol altta üç silah etiketi (yörüngeli / geri dönen / atıcı ve seviyeleri), sağ altta kontroller + atılma bekleme süresi ve bunların üstünde "Q NOVA READY!" rozeti yer alsın. Oyunsallık hissi için: hasar sayıları, kritik vuruşlar, squash-and-stretch efektli düşmanlar, geri savurma, parçacık patlamaları ve hafif kamera sarsıntısı kullanın (prefers-reduced-motion ayarlıysa sarsıntıyı devre dışı bırakın).
-
-## 3. Dünya
-Kare biçimli tek bir arena oluşturun; kahramanı her iki eksende de ±23 birim içinde tutun. Kesim matı oyun alanını doldursun; masa ve aksesuarlar yalnızca dekor olarak, bu sınırın dışında yer alsın (çarpışma olmasın). Arena başlangıçta boştur ve kenarlardan dolmaya başlar: Düşmanlar kahramandan 12–16 birim uzaklıktaki bir çember üzerinde (ilk saniyede 8–11 birim uzaklıkta) doğar ve doğruca kahramana yürür. Her 22 saniyede bir, 13 yarıçapında tam bir düşman çemberi oluşturan bir saldırı dalgası başlar. Kahramanın o anki konumunun altında kırmızı uyarı çemberleri belirir (ilki 28. saniyede, ardından her max(4.4, 9 − t/50) saniyede bir) ve 2 saniye sonra patlar.
-
-## 4. Varlık envanteri
-Kararlı model yuvaları hazırlayın; her yuva tek bir GLB yüklemeli, model ortalanmalı, hedef yüksekliğe otomatik ölçeklenmeli ve yükleme başarısız olursa basit bir yer tutucuya dönmelidir.
-
-Kahramanlar (10 adet, `hero:<id>`), her biri kendine özgü silüete sahip iri hatlı oyuncak figürler:
-- `cat` Astro Cat — beyaz uzay giysisi ve cam kask giymiş turuncu tekir kedi. HP 100, hız 6.8, mıknatıs ×1.35, atılma bekleme süresi 2.4 s.
-- `frog` Frog Fighter — kırmızı boks eldivenli yeşil kurbağa. HP 130, hız 6.8, atılma hasarı 135.
-- `shroom` Mushroom Hero — küçük pelerinli, kırmızı şapkalı mantar. HP 90, hız 7.6, atılma süresi 1.8 s.
-- `capybara` Chill Capybara — kaplıcada dinlenen kapibara. HP 160, hız 5.8, mıknatıs ×1.15, atılma süresi 3 s, atılma hasarı 110.
-- `ramen` Ramen Ronin — buharı tüten ramen kâsesini taşıyan samuray. HP 105, hız 7.2, atılma süresi 2.2 s, atılma hasarı 120.
-- `penguin` Office Penguin — gömlek ve kravat giymiş penguen. HP 80, hız 7.1, atılma süresi 1.5 s, atılma hasarı 75.
-- `axolotl` Axolotl — pembe aksolotl kâşif. HP 85, hız 7.3, mıknatıs ×1.6, atılma hasarı 75.
-- `avocado` Avo Boxer — çekirdek gövdeli avokado boksör. HP 120, hız 6.4, atılma süresi 2.1 s, atılma hasarı 130.
-- `robot` Clockwork Bot — anahtarlı, kurmalı teneke robot. HP 115, hız 6.2, atılma süresi 2.8 s, atılma hasarı 165.
-- `snail` Snail Knight — ev büyüklüğündeki kabuğunu taşıyan şövalye salyangoz. HP 190, hız 5.2, mıknatıs ×1.2, atılma süresi 3.2 s, atılma hasarı 120.
-Listelenmediği durumlarda varsayılan atılma hasarı 90'dır.
-
-Saldırı yuvalarına göre gruplandırılmış silahlar (12 adet, `weapon:<id>`):
-- Yörüngeli: `sardine` Sardine Chainsaw (3 balık, yarıçap 2.9, hasar 1, hız 1.2); `cactus` Cactus Club (2 sopa, yarıçap 3.3, hasar 1.65, hız 0.78, vuruş yarıçapı 1.25, geri savurma 1.5); `plunger` Plunger Patrol (4 lavabo pompası, yarıçap 2.25, hasar 0.85, hız 1.5).
-- Geri dönen: `banana` Banana Blades (2 adet, hasar 1, hız 1.25); `pizza` Pizza Cutter (1 büyük disk, hasar 1.5, hız 0.82, vuruş yarıçapı 1.65); `croissant` Croissant Blades (3 adet, hasar 0.75, hız 1.45); `boomerang` Boomerang (1 adet, hasar 1.15, hız 1.6); `donut-disc` Donut Disc (1 adet, hasar 1.5, hız 0.9, vuruş yarıçapı 1.3).
-- Atıcı: `duck` Duck Rocket (hedef takipli, alan etkisi 2, aralık 0.42 s); `toaster` Angry Toaster (3 atışlı delici yelpaze, hasar 0.7); `teapot` Raging Teapot (2 yavaş atış, alan etkisi 2.8, aralık 0.8 s); `bubble-gun` Bubble Gun (2 delici baloncuk, hasar 0.45, aralık 0.3 s).
-Varsayılan ekipman: Astro Cat, Banana Blades, Angry Toaster; yörüngeli silah ilk geliştirmede açılır.
-
-Düşmanlar (3 adet, `enemy:<id>`), kurmalı oyuncak canavarlar: `red-chomper` (kırmızı, yuvarlak ve ısıran oyuncak; temel tür, temel 30 HP, hız 2.35), `spring-rabbit` (sarı, yay bacaklı tavşan; hızlı, temel 23 HP, hız 3.5), `crown-bear` (taç takan büyük yamalı ayı; tank, temel 130 HP, hız 1.7, 60. saniyeden sonra %17 olasılıkla görünür, 3 XP bırakır).
-
-Sahne aksesuarları (`prop:<id>`): çalışma masası, kesim matı çerçevesi ve köşe plakaları, masa lambası, oyuncak tren, iplik makaraları, süslü rozetli kutular, alet çantası, oyuncak parça tepsisi. Matı, ızgarayı, kristalleri, mermileri, uyarı çemberlerini, parçacıkları, ışıkları ve arayüzü prosedürel olarak oluşturun.
-
-## 5. Oynanış ve geri bildirim
-Akış: Karakter → Ekipman (bir geri dönen + bir atıcı) → Hazır (seçilen silahlarla kahramanın 3B döner tabla önizlemesi; döndürmek için sürükleyin) → "Let's play". Her tanıtım adımında yalnızca ilgili kategori; açıklama, oyun tarzı ve zayıflık metni gösterilir. Son ekipman seçimini hatırlayın.
-
-Kontroller: Hareket etmek için WASD/ok tuşları; Space, hareket yönünde atılmayı sağlar (hız ×3.7, kısa süreli dokunulmazlık, her atılmada 2 birim içindeki düşmanlara bir kez hasar); enerji 100 olduğunda nova ateşlemek için Q (yarıçap 11, 200 hasar, güçlü geri savurma, kristalleri kendine çeker); geliştirmeleri seçmek için 1/2/3 veya tıklama; duraklatmak için Esc; pencere odağı kaybolduğunda otomatik duraklatma. Mobil: solda analog sanal joystick, sağda bekleme/şarj halkalarına sahip Atılma ve Nova düğmeleri, joystick ile düğmelerin birlikte çalışmasını sağlayan çoklu dokunma; geliştirmeler dikey ekranda joystick'in üstünde, yatay ekranda iki başparmağın arasında yer alır.
-
-Kurallar: düşman HP'si = base × (1 + t/260) × 1.3. Doğma aralığı max(0.18, 0.52 − 0.0016·t) s, sınır 180 düşman. Temas hasarı 9'dur (ayıdan 18); isabetten sonra 0.85 s dokunulmazlık verilir. Her öldürme 2 enerji ekler ve bir kristal düşürür; her silahın 9. vuruşu ×1.7 kritik hasar verir. 25 öldürmelik seri, 5 s süren bir çılgınlık başlatır (saldırı hızı ×1.65, bekleme süresi 13 s); hasar almak seriyi sıfırlar. Seviye atlamak için XP: 20, ardından round(need × 1.4 + 10). Seviye atlamalar oyunu asla duraklatmaz: engelleyici olmayan seçim kartları olarak kuyruğa alınır. İlk geliştirme üç yörüngeli silahı sunar; sonrasında şu seçeneklerden üçünü sunun: Orbit overload (+1 yörünge silahı, en fazla 7, +%22 hasar), Another round (daha hızlı, daha uzun ve daha güçlü geri dönüşler), Full blast (daha hızlı ateş, +%20 hasar, daha fazla mermi), Live a little (+%10 hız, +30 HP). Her seçim 8 HP iyileştirir.
-
-Bitiş: 180 s hayatta kalın → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Her iki sonuç ekranında da yenilen düşman sayısı, en iyi seri ve hayatta kalınan süre ile Run it back / Change loadout seçenekleri ve kendi kahramanını oluşturma istemi gösterilir.
-
-Kendin oluştur: Ekipman, duraklatma ve sonuç ekranlarında bulunan "Create my hero / weapon in Tripo" seçeneği, yeni bir sekmede https://studio.tripo3d.ai/ açar; "Import GLB" yerel bir .glb dosyası yükler (≤15 MB, yalnızca gömülü dokular, tarayıcıda ayrıştırılır, hiçbir zaman yüklenmez), dosyayı ortalar ve ölçeklendirir, ardından seçilen kahraman veya silahın yalnızca görünümünü değiştirirken istatistiklerini korur. Geçersiz dosyalar için anlaşılır hata mesajları gösterin ve özgün modeli koruyun.
-
-Modelleri karşılaştırın: üst bilgideki "Tripo3D ⇄ Simple3D (Blender)" anahtarı, her kahramanı, silahı, düşmanı ve aksesuarı eşleşen basit ilkel şekillerden oluşan setle değiştirir; oyun devam ederken ilerleme sıfırlanmaz. Değiştirmeden önce alternatif setin tamamını yükleyin; herhangi bir dosya yüklenemezse mevcut seti koruyun.
-
-## 6. Teknik uygulama
-GLTFLoader, RoomEnvironment aydınlatması ve ACES ton eşleme kullanan Vite + vanilla JavaScript + Three.js kullanın. Simülasyonu, testlerde tüm oyunların simüle edilebilmesi için dışarıdan rastgelelik kaynağı alabilen, saf ve sabit zaman adımlı bir modülde tutun; renderer yalnızca durumu okusun. Her GLB'yi bir kez önbelleğe alın ve örnekler için klonlayın; tekrarlanan süslemelerde instancing veya LOD kullanın. Piksel oranını sınırlayın (mobilde 1.5, yoğun dalgalarda 1'e düşürün), gölgeleri saniyede en fazla 30 kez yenileyin ve HUD metnini yalnızca değerler değiştiğinde güncelleyin. Çarpışmayı (basit çemberler) görsel mesh'lerden ayırın. Yazı tiplerini, modelleri ve dokuları derlemede statik bir klasör kullanılabilmesi için aynı origin üzerinden paketleyin. Masaüstü ve telefon tarayıcılarını, yatay telefonlar ve güvenli alanlar dâhil olmak üzere 320 px ve üzeri genişliklerde hedefleyin. Model karmaşıklığı ekrandaki boyuta göre belirlenmelidir; sabit bir poligon sınırı koymayın.
-
-## 7. Tamamlanma ölçütleri
-- Eksiksiz akış çalışır: tanıtım, kazanma ve kaybetmeyle sonuçlanan savaş, duraklatma/devam ettirme, aynı ekipmanla yeniden başlatma ve ekipman değiştirme.
-- 10 kahramanın ve 12 silahın tamamı yüklenir ve yukarıdaki değerlere göre davranır; herhangi bir ekipmanla 180 s'lik oyun hatasız tamamlanır.
-- Joystick ile Atılma'nın aynı anda kullanılması da dâhil olmak üzere klavye ve dokunmatik kontrollerin ikisi de çalışır.
-- GLB içe aktarma seçilen kahramanın veya silahın görünümünü değiştirir ve hatalı dosyaları sorunsuz biçimde reddeder.
-- Tripo3D / Simple3D anahtarı, oyun sırasında tüm modelleri değiştirir.
-- Açılış, savaş ortası ve sonuç ekranları referanslarla eşleşir; çalıştırılabilir kaynak kodu, başlatma komutunu ve statik production build'i sağlayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/odd-arms) · [Orijinal gönderi](https://odd-arms.tripo.page/) · [Canlı demo](https://odd-arms.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100844566718926949"></a>
-
-### Fotogerçekçi bir 3B dünya oluşturun
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Fotogerçekçi bir 3B dünya oluşturun"></a>
-
-**İstem**
-
-```text
-Fotogerçekçi bir 3B dünya oluşturun. Beni şaşırtın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a photorealistic 3D world. Surprise me.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100844566718926949) · [Orijinal gönderi](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100838090210431302"></a>
-
-### Yüzen adalar arasında 3B hava tramvayı oyunu
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/e2d1851a486e080772aa36d6e517463595d8981ac121dde5a72f8d572e9c96fd.webp" width="840" loading="lazy" alt="Yüzen adalar arasında 3B hava tramvayı oyunu"></a>
-
-**İstem**
-
-```text
-Tarayıcıda doğrudan oynanabilen, tek dosyalı bir HTML/JS 3B oyun (Three.js) oluştur. Sıcak, düşük poligonlu ama özenle hazırlanmış bir bağımsız oyun tarzı kullan; Ghibli tarzı bir sahil kasabasının atmosferini, Zelda'nın maden vagonu raylarının akıcılığıyla birleştirsin.     
-【Temel Oynanış】  Oyuncu, bulut denizi ile okyanus yüzeyinin üzerinde yüzen adalar arasında ilerleyen retro bir hava tramvayını kullanır.  - Ray, düz bölümler, yokuş yukarı ve aşağı eğimler, yükseltilmiş virajlar ve denizin üzerinden geçen uzun köprüler içeren kesintisiz bir 3B demiryolu olsun  - Kontroller: Hızlanmak (Power) için W, fren yapmak (Brake) için S, hassas ayar yapmak veya görünümü değiştirmek için sol ve sağ yön tuşları  - Gerçek zamanlı gösterim: km/sa cinsinden hız, tramvaydaki yolcu sayısı (ör. 12/16 yolcu), yol koşulları (Sabit / Yan rüzgâr)  - Yolcu konforu sistemi: ani hızlanma, sert frenleme, virajlara fazla hızlı girme ve yan rüzgâr, "bacak konforunu" azaltır; varış noktasına sarsıntısız ulaşmak bonus puan kazandırır (ör. varışta +75)  - Seri: Fazla sarsıntılı sürüş, "Seri bozuldu. Bahşişlerini yeniden kazanmak için dengenizi bulun." mesajını tetikler.  - İstasyona varınca yolcuların binip inebilmesi için kapıları aç. Peronda, "Kapılar açılıyor - Mango Tide", "Lütfen bekleyin…" gibi altyazılar eşliğinde sıraya girmiş kasaba halkı bulunur.     [Dünya ve İstasyonlar]  En az iki rota/iki ada:  1. Saltlight Terminus  2. Mango Tide  Ada, bulutların üzerinde yüzen kayalık bir adadır. Kırmızı kiremit çatılı, küçük Akdeniz/Güney Avrupa tarzı evler; bir deniz feneri, iskele, yeşil ağaçlar, sokak lambaları ve geceleri parlayan sıcak sarı pencereler bulunur. Uzakta daha fazla yüzen ada ve çevresinde dönen yörüngeler görülür. Gökyüzü alacakaranlıktan geceye uzanan mavi-mor bir geçişe sahiptir; yıldızlar ve yoğun bulutlar vardır, aşağıda ise masmavi deniz suyu uzanır.     [Tramvay Dış Görünümü]  Retro tramvay: koyu yeşil gövde, ahşap renkli şasi, kavisli cam pencereler, çatıda bagaj, yeşil tente/sarmaşık süslemeleri ve içeride oturan çeşitli yolcular. Hareket ederken hafifçe sallansın ve ray sesleri hissi versin (basit ses efektleri veya görsel ipuçlarıyla aktarılabilir).     [Sahne 2: Atölye Modifikasyonu]  Atölye "Cloudworks / Oliver Cloudworks / Oliver's home island" için yukarıdan izometrik görünüme geç.  Oyuncular, yükseltme penceresine benzer bir arayüzle tramvay parçalarını değiştirebilsin:  - Hearth leaves — Eski parça çıkarılıyor  - Little Companion — Tramvay hazırlanıyor  İlerleme çubuğu + "Arkanıza yaslanın ve atölyeyi izleyin."  Modifikasyondan sonra tramvayın görünümünde değişiklikler göster (ör. yeşil çatı, eklenen bagaj rafı, fenerler, sarmaşıklar); ardından tramvay atölyeden çıksın ve "Herkes binsin." / "Sıradaki durak: Coastal Line." altyazıları görünsün.     [Arayüz]  Temiz ve modern, gündelik oyun tarzında bir arayüz kullan: varış noktası ile para/seri göstergesi sol üstte; hız çubuğu ve Power/Brake düğmeleri altta; konfor ilerleme çubuğu iki istasyon adını birbirine bağlasın. Karmaşaya yer verme; korku veya siberpunk tarzına kaçma.     [Teknik Gereksinimler]  - Tek dosya veya minimum sayıda dosya, Three.js  - Raylar için eğriler (CatmullRom vb.) kullan; böylece tramvay rayları takip etsin ve kamera hafif ray hissi verecek şekilde tramvayı izlesin  - Basit bir fizik hissi: hızlanma ataleti, frenleme yavaşlaması, virajlarda gövde yatışı  - Mobilde, hızlanma/frenleme için dokunmayı da desteklemeyi dene  - Okunabilir, yorum satırları içeren kod; dosya açılır açılmaz oynanabilsin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.     
-【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100838090210431302) · [Orijinal gönderi](https://x.com/YouWareAI/status/2100838828433179037) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100751369619820923"></a>
-
-### Sharpa becerikli eliyle kalem çevirme politikası eğitimi
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/ca147480aaf4e9faab8d21e1675a0977a1953d45a78809c76f60ef9258df645f.webp" width="840" loading="lazy" alt="Sharpa becerikli eliyle kalem çevirme politikası eğitimi"></a>
-
-**İstem**
-
-```text
-Becerikli elin kalem çevirmesini sağlayın. Pekiştirmeli öğrenme için Isaac Lab kullanın ve Sharpa hand modelini tercih edin; kalemin 3B ağını da kendiniz oluşturun. Son olarak eğitilmiş politikayı ve görselleştirme videosunu teslim edin. İnternette özgürce arama yapabilir, makaleleri ve gerekli materyalleri indirerek kullanabilirsiniz.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100751369619820923) · [Orijinal gönderi](https://x.com/FinanceYF5/status/2100751369619820923) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100614534423540102"></a>
-
-### CAD ile kendi gövdesi
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/138579840f9de4ce31b0d5320ac7fd1f9772a567ef4c00743d5ac10716256006.webp" width="840" loading="lazy" alt="CAD ile kendi gövdesi"></a>
-
-**İstem**
-
-```text
-Astra'ya kendi gövdesini CAD ile tasarlamasını söyledim.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-I told Astra to CAD itself a body.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100614534423540102) · [Orijinal gönderi](https://x.com/vitalduval/status/2100343136077877251) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100595652703199281"></a>
-
-### Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/72f6d766a135c0c5dbb4c1ace35342212b0a05ecdb6fd494c550d3be50af7141.webp" width="840" loading="lazy" alt="Kapatılmış Araştırma Tesisinden Kaçış: Tarayıcıda 3B Oyun"></a>
-
-**İstem**
-
-```text
-Tarayıcıda oynanabilen bir 3B kaçış oyunu oluşturun. Konusu, kapatılmış bir araştırma tesisinden kaçış olsun ve yaklaşık 5–10 dakikada oynanabilsin. Anahtarlar ve düğmeler gibi mekanizmalar ekleyin; oynanışın kolay anlaşılmasını ve oyunun sonuna kadar tamamlanabilmesini sağlayın. Her şeyi tek bir HTML dosyasında toplayın; oyun, dosya tarayıcıda açıldığında doğrudan oynanabilsin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-ブラウザーで遊べる3D脱出ゲームを作ってください。閉鎖された研究施設から脱出する内容で、5～10分程度で遊べるものにしてください。鍵やスイッチなどの仕掛けを入れ、遊び方がわかり、最後までクリアできる状態にしてください。HTMLファイル1つにまとめ、ブラウザーで開くだけで遊べるようにしてください。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100595652703199281) · [Orijinal gönderi](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100526922770026874"></a>
-
-### 3B Yarış Oyunu Oluştur
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/72ac86b5949942e8a18e7adedd1ceae4b3290c76145424d2362cca0a3c353f73.webp" width="840" loading="lazy" alt="3B Yarış Oyunu Oluştur"></a>
-
-**İstem**
-
-```text
-Bir yarış oyunu oluştur
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-レーシングゲーム作って
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100526922770026874) · [Orijinal gönderi](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Örneklere dön](#all-prompts)
 
 ---
 

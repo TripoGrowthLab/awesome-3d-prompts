@@ -28,7 +28,20 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](#claude-opus-5-5-2103145567945986461)
+- [샌프란시스코를 배경으로 한 원신 스타일 게임](#claude-opus-5-5-2103144530157687114)
+- [시네마틱 아우스터리츠 전투 영화](#claude-opus-5-5-2103116235009347650)
+- [Three.js로 에펠탑 만들기](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — 3D 아일랜드 포병전](#crazy-tanks-3d-island-artillery)
+- [Grid Genius를 위한 픽사급 Three.js 애니메이션](#claude-opus-5-5-2103087766662009118)
+- [실시간 펠리컨 자전거 게임](#claude-opus-5-5-2103083781490176212)
+- [인터랙티브 3D 구미 시트러스 슬라이스](#gpt-6-astra-2103062348168618280)
+- [제국 도시 건설하기](#claude-opus-5-5-2103046279253168554)
+- [Three.js로 구현한 복셀 Codex](#gpt-6-astra-2102956340482289944)
+- [극사실적인 실시간 사막 모닥불 HTML 장면](#gpt-6-astra-2102915300295369208)
+- [1인칭 버거 시뮬레이터](#gpt-6-astra-2102897258983313712)
+- [Three.js로 Bugatti Chiron Super Sport 제작하기](#claude-opus-5-5-2102828216289566725)
+- [무한한 솔라펑크 도시 셰이더](#gpt-6-astra-2102826333550133520)
 - [Claude 성장 훈련 몽타주](#claude-opus-5-5-2102788371114246177)
 - [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](#claude-opus-5-5-2102788223835463902)
 - [체스 갬빗 학습을 위한 인터랙티브 3D 체스판](#gpt-6-astra-2102788013902213508)
@@ -41,6 +54,7 @@
 - [상상 속 행성 인터랙티브 웹사이트](#claude-opus-5-5-2102729710174196022)
 - [중세 성 브라우저 애니메이션](#gpt-6-astra-2102672926285713456)
 - [Claude Opus 5로 제작한 Tripo 3D 프로모션 필름](#tripo-claude-opus-5-5-paper-cut-3d-short)
+- [단일 HTML 파일로 제작하는 3D 카트 레이싱 게임](#gpt-6-astra-2102652927177617564)
 - [인터랙티브 오일러리안 네온 유체 시뮬레이션](#claude-opus-5-5-2102565611473661963)
 - [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg 사고 모델과 실사풍 영상](#claude-opus-5-5-2102547809140355250)
@@ -64,22 +78,218 @@
 - [Three.js로 WALL-E 3D 모델 만들기](#gpt-6-astra-2101687900723106104)
 - [탁 트인 바다 위의 돛단배](#gpt-6-astra-2101616345720787130)
 - [타이타닉 — 마지막 빛](#titanic-the-last-light)
-- [Waymo Jaguar I-Pace 3D 모델](#gpt-6-astra-2101325346427842909)
-- [캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로](#gpt-6-astra-2101310374033428642)
-- [인터랙티브 3D 항공기 엔진 디스플레이](#gpt-6-astra-2101271938706685991)
-- [사실적인 3D 환경 제작](#gpt-6-astra-2101224659861590399)
-- [실제 궤도 물리학으로 구현한 은하](#gpt-6-astra-2101055500599054437)
-- [몬스터 블록 — 45초 동안 도시를 박살 내세요](#monster-block)
-- [인터랙티브 IWC Schaffhausen 시계 모델](#gpt-6-astra-2100956517633761447)
-- [ODD ARMS — 기묘한 무기 서바이벌 게임](#odd-arms)
-- [실사풍 3D 월드 만들기](#gpt-6-astra-2100844566718926949)
-- [하늘섬 사이를 오가는 3D 공중 트램 게임](#gpt-6-astra-2100838090210431302)
-- [Sharpa 다지 손으로 펜 돌리기 전략 학습](#gpt-6-astra-2100751369619820923)
-- [CAD로 직접 몸체 설계하기](#gpt-6-astra-2100614534423540102)
-- [폐쇄된 연구 시설에서 탈출하는 브라우저 3D 게임](#gpt-6-astra-2100595652703199281)
-- [3D 레이싱 게임 만들기](#gpt-6-astra-2100526922770026874)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### 여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상"></a>
+
+**프롬프트**
+
+```text
+three.js로 세로형 1080×1920, 초당 30프레임, 약 36초 분량의 단편 영상을 제작해 주세요.
+
+【작품명】
+여백
+
+【전달하고 싶은 경험】
+효율화에 쫓기며 시간을 잃어가는 감각과, 여백을 얻는 순간 삶이 풍요로운 빛으로 가득해지는 감각을 인물 없이 온전히 체감하게 하는 영상입니다. 마지막에는 바닥 전체에 떠오르는 스테인드글라스의 빛으로 보는 사람이 저도 모르게 숨을 멈추게 만드는 것을 목표로 합니다.
+
+【배경】
+・어둑한 석조 대성당 내부. 정면 벽에는 높이 15m, 너비 10m의 첨두 아치형 창이 하나만 있습니다
+・창밖에서 45도 비스듬한 각도로 강한 빛이 들어와 석재 바닥에 창 모양의 빛을 드리웁니다
+・창에는 중앙에 성모 마리아, 양옆에 날개를 펼친 두 천사, 위쪽에 장미창을 배치한 스테인드글라스가 끼워져 있습니다. 기존 작품을 모방하지 않은 오리지널 디자인으로, 좌우 대칭 구도를 사용합니다
+
+【시간 구성】
+0~3초: 창으로 들어오는 빛은 아직 색이 없는 흰빛입니다. 바닥에는 부드러운 흰빛이 창 모양으로 드리워집니다
+3~11초: 「바쁘다」, 「효율화」, 「긴급」, 「마감」 등의 문구가 새겨진 회색 큐브가 방 앞쪽에서 연달아 날아와 창을 메워 갑니다. 날아오는 속도는 점점 빨라지고, 창이 막힐수록 공간은 어두워집니다
+11~14초: 창이 완전히 막히고, 어둠과 정적만 남습니다
+14~19초: 「바쁘다」 블록 하나가 창에서 떨어져 나와 아래로 떨어지고, 빛의 입자로 변해 사라집니다. 뚫린 구멍 사이로 선명한 색의 빛줄기 하나가 들어옵니다
+19~26초: 첫 번째 구멍을 중심으로 블록이 연쇄적으로 떨어져 나갑니다. 구멍이 늘어날 때마다 다양한 색의 빛기둥이 늘어나고, 가려져 있던 스테인드글라스가 조금씩 모습을 드러냅니다
+26~33초: 모든 블록이 사라지고, 카메라는 빛기둥 사이를 통과하며 상승해 바로 위에서 바닥을 내려다봅니다. 바닥 전체에 성모 마리아와 천사의 스테인드글라스가 선명하고 다채로운 빛으로 비쳐 보입니다
+33~36초: 화면 전체가 눈부신 빛에 휩싸이고, 마지막 문구가 떠오른 뒤 조용히 끝납니다
+
+【문구(명조체, 은은하게 나타났다가 사라짐)】
+・「매일, 더 빠르게.」
+・「더 효율적으로.」
+・「정신을 차리고 보니, 빛이 들어오지 않게 되어 있었다.」
+・「하나쯤, 놓아 보자.」
+・「비어 있는 곳으로 빛이 들어온다.」
+・「그 빛은 전보다 더 풍요로웠다.」
+・마지막에 크게: 「풍요로움은 여백에 깃든다」
+
+【빛과 질감】
+・빛기둥은 스테인드글라스의 해당 영역 색으로 물들고, 공중의 먼지가 반짝입니다
+・바닥 투영은 창에서 어떤 구멍이 뚫려 있는지를 정확히 반영합니다(블록이 있는 부분은 그림자가 됩니다)
+・블록은 무기질적인 매트 그레이입니다. 문구는 흰색으로 각인되어 있습니다
+・전반부는 차갑고 무채색으로, 후반부는 보석 같은 빨강·파랑·금색으로 표현합니다. 이 색 대비를 통해 「더 풍요로워졌다」는 변화를 전달합니다
+
+【기술 조건】
+・스테인드글라스 도안은 이미지로 생성하고, 바닥의 빛·빛기둥·창의 표현은 모두 동일한 도안에서 계산해 정확히 일치시킵니다
+・시간을 1/30초 단위로 정확히 진행하며 프레임별로 출력한 뒤 MP4로 만듭니다
+
+【마무리】
+각 장면을 실제로 렌더링해 확인하고, 바닥에 비친 스테인드글라스 도안이 성모 마리아와 천사로 알아볼 수 있는지, 문구를 읽을 수 있는지, 움직임이 부자연스럽게 끊기지 않는지를 점검하고 수정한 후 전달해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103145567945986461) · [원본 게시물](https://x.com/AGIOyaZ/status/2103145567945986461) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### 샌프란시스코를 배경으로 한 원신 스타일 게임
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="샌프란시스코를 배경으로 한 원신 스타일 게임"></a>
+
+**프롬프트**
+
+```text
+샌프란시스코를 배경으로 한 원신 스타일의 게임을 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103144530157687114) · [원본 게시물](https://x.com/every/status/2103144530157687114) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### 시네마틱 아우스터리츠 전투 영화
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="시네마틱 아우스터리츠 전투 영화"></a>
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**프롬프트**
+
+```text
+1805년 아우스터리츠 전투를 다룬 4~5분 분량의 시네마틱 영상을 전 과정 코드로 제작하세요.
+
+전투를 철저히 조사한 뒤, 이야기를 전달하는 방식과 페이싱 구성, 전략 설명 방법, 사건의 시각화 방식을 직접 결정하세요. 역사적 사실에 충실하면서도 극적이고 이해하기 쉬우며 시각적으로 탁월한 결과물을 원합니다.
+
+첨부된 회화 작품은 엄격한 스타일 규칙이 아니라 시각적 영감으로 활용하세요. 작품에서 느껴지는 규모감, 분위기, 연기, 극적인 하늘, 기병, 밀집 대형, 풍경과 혼돈의 감각을 특히 좋아합니다. 그 느낌을 코드로 옮길 방법을 찾아보세요. 다만 더 강력한 시각 언어를 직접 만들어낼 수 있다면 그렇게 하세요.
+
+전형적인 인포그래픽이나 전략 게임처럼 보이지 않게 하세요. 코드로 렌더링했다는 점만 다를 뿐, 시네마틱 역사 영화처럼 느껴져야 합니다.
+
+창의적인 결정은 전적으로 맡기겠습니다. 기대를 뛰어넘는 결과를 보여주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103116235009347650) · [원본 게시물](https://x.com/WinterArc2125/status/2103116689944502720) · [소스 코드](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Three.js로 에펠탑 만들기
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Three.js로 에펠탑 만들기"></a>
+
+**프롬프트**
+
+```text
+Three.js로 에펠탑을 만드세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103106070549757960) · [원본 게시물](https://x.com/0xPascual/status/2103106070549757960) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="crazy-tanks-3d-island-artillery"></a>
 
 ### Crazy Tanks — 3D 아일랜드 포병전
@@ -131,6 +341,367 @@ ES 모듈과 Vite를 사용하는 Three.js, 로컬 번들 폰트, 효과음용 W
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/crazy-tanks-3d-island-artillery) · [데모](https://super-tanks-aftershock.tripo.page/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Grid Genius를 위한 픽사급 Three.js 애니메이션
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius를 위한 픽사급 Three.js 애니메이션"></a>
+
+**프롬프트**
+
+```text
+Grid Genius를 은연중에 홍보하는 이야기를 구상해 주세요. Grid Genius가 직접 등장하지 않아도 괜찮지만, 저희 앱과 연관되고 소셜 미디어에 게시했을 때 더 많은 사람의 관심을 끌 수 있는 내용이어야 합니다. 그런 다음 Three.js/JavaScript를 사용해 구상한 이야기를 바탕으로 픽사급 완성도의 전체 애니메이션을 제작해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103087766662009118) · [원본 게시물](https://x.com/Anilraok/status/2103087766662009118) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### 실시간 펠리컨 자전거 게임
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="실시간 펠리컨 자전거 게임"></a>
+
+**프롬프트**
+
+```text
+물리 효과, 파도, 낚시, 역동적인 날씨, 시네마틱 카메라, 자동 주행, 적응형 음악을 갖춘 살아 숨 쉬는 해안 세계를 펠리컨이 자전거로 달리는 실시간 3D 게임을 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103083781490176212) · [원본 게시물](https://x.com/code_hiyouga/status/2103083781490176212) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103062348168618280"></a>
+
+### 인터랙티브 3D 구미 시트러스 슬라이스
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="인터랙티브 3D 구미 시트러스 슬라이스"></a>
+
+**프롬프트**
+
+```text
+WebGPU를 사용해 아름답고 인터랙티브한 3D 구미 시트러스 슬라이스를 제작하세요. JavaScript와 WGSL 셰이더를 포함한 완전한 경험을 하나의 독립 실행형 HTML 파일로 제공하세요.
+
+동영상, 이미지 또는 반복 애니메이션이 아닌 실시간 3D 시뮬레이션이어야 합니다.
+
+APPEARANCE
+
+반투명하고 과즙감 있는 과육, 뚜렷한 8개 조각, 섬세한 내부 막, 작은 기포, 옅은 알베도층, 부드러운 오렌지색 껍질을 갖춘 두꺼운 반원형 오렌지 슬라이스를 만드세요.
+
+고급 구미 캔디처럼 보이게 하세요. 채도 높은 색상, 윤기 나는 하이라이트, 과육을 통과하는 빛, 설득력 있는 굴절, 부드러운 접촉 그림자를 표현하세요. 과도한 블룸, 바랜 색상, 딱딱한 플라스틱 같은 외관은 피하세요.
+
+따뜻하고 밝은 스튜디오 배경과 여백을 넉넉히 둔 깔끔한 에디토리얼 인터페이스를 사용하세요. 크고 이탤릭체인 세리프 제목 “Citrus Jelly”를 추가하세요. 컨트롤은 간결하게 유지하고 슬라이스가 잘 보이도록 하세요.
+
+소프트 바디 물리
+
+젤리 같은 촉감이 가장 중요합니다.
+
+- 마우스나 손가락으로 슬라이스의 어느 부분이든 잡을 수 있어야 합니다.
+- 당기고, 들어 올리고, 늘리고, 비틀었다가 놓을 수 있어야 합니다.
+- 변형은 국소적으로 적용하세요. 한쪽 가장자리를 당기면 주변 과육이 늘어나고 나머지 부분은 자연스럽게 따라와야 합니다.
+- 놓은 뒤에는 슬라이스가 흔들리고, 원래 위치를 지나쳐 반응한 다음, 점차 원래 형태로 돌아와야 합니다.
+- 중력, 관성, 감쇠, 지면 충돌, 부드러운 바운스를 포함하세요.
+- 부피를 대략적으로 유지하고 메시가 무너지거나 뒤집히지 않도록 하세요.
+- 껍질은 과육보다 약간 단단하게 설정하세요.
+- 내부 조각, 막, 기포는 변형을 따라 움직여야 하며 바디 바깥으로 떠다니면 안 됩니다.
+
+XPBD 제약 조건을 적용한 사면체 메시처럼 안정적인 볼류메트릭 소프트 바디 솔버를 사용하세요. 전체 오브젝트를 단순히 스케일링하거나 회전해 부드러운 느낌을 흉내 내지 마세요.
+
+CONTROLS
+
+색상 프리셋 3가지를 포함하세요: 오렌지, 레몬, 루비.
+
+다음 기능을 추가하세요:
+- 탄성 슬라이더.
+- 내부 감쇠 슬라이더.
+- “살짝 건드리기” 버튼.
+- 초기화 버튼.
+- 1/4배속 체크박스.
+- 메시 표시 체크박스.
+- 일시정지/재생 버튼.
+
+질량, 초기 부피 대비 비율, 운동 에너지를 작은 실시간 수치로 표시하세요.
+
+기술 요구 사항
+
+WGSL 셰이더를 사용해 진정한 WebGPU 렌더링을 구현하세요. 외부 모델이나 이미지 파일을 가져오지 말고 모든 지오메트리와 시각적 디테일을 프로시저럴 방식으로 생성하세요.
+
+시뮬레이션 업데이트는 렌더링 프레임 레이트와 독립적으로 동작해야 합니다. 데스크톱과 터치 디바이스를 지원하세요. WebGPU를 사용할 수 없는 경우 명확한 대체 안내 메시지를 표시하세요.
+
+강하게 드래그하는 동작, 반복해서 놓는 동작, 모든 컨트롤, 좁은 화면을 테스트하세요. 완성된 HTML을 제공하기 전에 불안정한 물리, 깨진 지오메트리, 시각적 아티팩트를 수정하세요.
+
+완성된 결과물은 직접 만지고 놀 때 진정으로 만족감을 주는 작고 촉감적인 캔디 실험처럼 느껴져야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
+
+This must be a real-time 3D simulation, not a video, image, or looping animation.
+
+APPEARANCE
+
+Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
+
+Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
+
+Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
+
+SOFT-BODY PHYSICS
+
+The jelly feel is the most important part.
+
+- Grab any part of the slice with a mouse or finger.
+- Pull, lift, stretch, twist, and release it.
+- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
+- After release, the slice should wobble, overshoot, and gradually recover its original shape.
+- Include gravity, inertia, damping, ground collisions, and soft bouncing.
+- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
+- Make the rind slightly firmer than the flesh.
+- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
+
+Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
+
+CONTROLS
+
+Include three color presets: Orange, Lemon, and Ruby.
+
+Add:
+- Firmness slider.
+- Internal damping slider.
+- “Give it a nudge” button.
+- Reset button.
+- Quarter-speed checkbox.
+- Show mesh checkbox.
+- Pause/resume button.
+
+Display small live readouts for mass, percentage of rest volume, and kinetic energy.
+
+TECHNICAL REQUIREMENTS
+
+Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
+
+Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
+
+Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
+
+The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103062348168618280) · [원본 게시물](https://x.com/vib3coded/status/2103062415533371646) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### 제국 도시 건설하기
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="제국 도시 건설하기"></a>
+
+**프롬프트**
+
+```text
+제국 도시를 건설하세요
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103046279253168554) · [원본 게시물](https://x.com/Enzoxbt01/status/2103046279253168554) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102956340482289944"></a>
+
+### Three.js로 구현한 복셀 Codex
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Three.js로 구현한 복셀 Codex"></a>
+
+**프롬프트**
+
+```text
+복셀을 사용해 Three.js로 Codex를 직접 만들어 주세요. 모든 요소를 처음부터 제작하고, 스킬은 사용하지 마세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102956340482289944) · [원본 게시물](https://x.com/be_arsh/status/2102956424120979838) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102915300295369208"></a>
+
+### 극사실적인 실시간 사막 모닥불 HTML 장면
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="극사실적인 실시간 사막 모닥불 HTML 장면"></a>
+
+**프롬프트**
+
+```text
+다른 파일이나 이전 작업을 참조하지 마세요. 이 작업은 완전히 독창적이어야 하며, 여기 있는 다른 작업을 속임수처럼 활용해 만들어서는 안 됩니다.
+
+사막에서 타오르는 모닥불을 표현한 단일 HTML 파일을 만드세요. 시간대는 밤이며 별이 보입니다. 불 주변에는 통나무 그루터기를 좌석으로 배치하세요. 화면에 사람은 등장하지 않습니다. 다양한 야생동물이 가끔 화면에 나타났다가 사라질 수 있습니다.
+
+소리도 장면에 어울리도록 고품질로 구성해야 합니다.
+모든 요소를 극사실적으로 표현하세요
+
+파일 이름을 지정하세요(모델을 바탕으로).
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
+
+Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
+
+noises should also match the scene and be of high quality.
+Make everything hyper realistic
+
+name the file (based on model)
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102915300295369208) · [원본 게시물](https://x.com/Nixtrodamis/status/2102915567845794029) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102897258983313712"></a>
+
+### 1인칭 버거 시뮬레이터
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="1인칭 버거 시뮬레이터"></a>
+
+**프롬프트**
+
+```text
+1인칭 버거 시뮬레이터를 만들어 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a first-person burger simulator.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102897258983313712) · [원본 게시물](https://x.com/noclipepe/status/2102897258983313712) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Three.js로 Bugatti Chiron Super Sport 제작하기
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Three.js로 Bugatti Chiron Super Sport 제작하기"></a>
+
+**프롬프트**
+
+```text
+Three.js로 Bugatti Chiron Super Sport를 제작하세요.
+
+3D 모델을 사용하지 마세요. 텍스처를 사용하지 마세요. 에셋을 사용하지 마세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102828216289566725) · [원본 게시물](https://x.com/srikanthvaluri/status/2102828216289566725) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102826333550133520"></a>
+
+### 무한한 솔라펑크 도시 셰이더
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="무한한 솔라펑크 도시 셰이더"></a>
+
+**프롬프트**
+
+```text
+twigl-dot-app에서 실행할 수 있는 시각적으로 흥미로운 셰이더를 만들어 주세요. 솔라펑크풍 도로와 타워가 끝없이 이어지는 도시처럼 표현하고, 바람이 계속해서 보이도록 해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102826333550133520) · [원본 게시물](https://x.com/jonasfroeller/status/2102826333550133520) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -529,6 +1100,33 @@ Web Audio로 음악과 이펙트를 합성합니다. 뮤직박스 FM 보이스, 
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102652927177617564"></a>
+
+### 단일 HTML 파일로 제작하는 3D 카트 레이싱 게임
+
+[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="단일 HTML 파일로 제작하는 3D 카트 레이싱 게임"></a>
+
+**프롬프트**
+
+```text
+단일 HTML 파일로 3D 카트 레이싱 게임을 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102652927177617564) · [원본 게시물](https://x.com/realanshull/status/2102652927177617564) · [사례 목록으로](#all-prompts)
 
 ---
 
@@ -2041,535 +2639,6 @@ Vite, JavaScript 모듈과 Three.js를 사용하고 결정론적인 시간 기�
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/titanic-the-last-light) · [데모](https://titanic-the-last-light.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101325346427842909"></a>
-
-### Waymo Jaguar I-Pace 3D 모델
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/9a1f4ddfbd700e1f0a801a5f774a4fbf96c0ad7e98f8d9f9603f83cbb0b50dfc.webp" width="840" loading="lazy" alt="Waymo Jaguar I-Pace 3D 모델"></a>
-
-**프롬프트**
-
-```text
-Three.js를 사용한 Waymo Jaguar I-Pace 3D 모델
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-3d model of Waymo Jaguar i-Pace using three js
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101325346427842909) · [원본 게시물](https://x.com/HarshithLucky3/status/2101325346427842909) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101310374033428642"></a>
-
-### 캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/b4e5c19965da011929b1777975e9c6c8a82a23c2a55340683d900de8a4103856.webp" width="840" loading="lazy" alt="캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로"></a>
-
-**프롬프트**
-
-```text
-사실적인 시네마틱 원테이크, 10초, 16:9, 24fps, 고정 카메라, 컷 없음.
-주황색과 흰색 털의 얼룩무늬 고양이(흰 주둥이, 가슴과 발, 이마에 "M" 무늬가 있는 주황색 태비 줄무늬)가 화면 정중앙에 꼿꼿한 무술 자세로 앉아 렌즈를 정면으로 바라본다. 굳어 있는 듯한 무표정하고 냉담한 시선, 반쯤 감긴 눈, 다문 입을 유지하며 머리는 절대 움직이지 않는다. 검은 하치마키 머리띠를 눈썹 아래쪽에 맞춰 두르고 뒤에서 매듭을 묶었으며, 귀는 머리띠 위로 솟아 있다.
-배경: 전통적인 일본 사찰 안뜰—따뜻한 색감의 목재 기둥, 처마와 난간—이 크리미한 골든아워 보케 속으로 녹아든다. 85mm 렌즈, f/1.8, 극도로 얕은 피사계 심도, 고양이의 눈에 초점을 고정한다. 따뜻한 3500K 색보정, 오른쪽 전면에서 들어오는 부드러운 키 라이트, 은은하게 채워진 그림자, 미세한 필름 그레인.
-액션: 맨팔이 화면 왼쪽에서 빠르게 뻗어 들어와 강한 모션 블러를 일으키며 펼친 손바닥으로 고양이의 얼굴을 찌른다. 고양이는 침착하게 오른쪽 앞발을 들어 손바닥을 가로막고 공격의 힘을 없앤다—때리는 것이 아니라 막는다. 팔이 고양이의 얼굴 앞을 수평으로 쓸고 지나가며 흐릿하게 보인 뒤, 오른쪽에서 두 번째 손이 아래로 내리친다. 고양이는 몸과 머리를 완전히 고정한 채 짧고 최소한의 앞발 블록으로 각각의 공격을 흘려보내며, 시선은 절대 렌즈에서 벗어나지 않는다. 공격하는 쪽은 손이며, 고양이는 순전히 반응만 하고 전혀 동요하지 않는다. 양쪽에서 손이 페인트 동작처럼 나타났다가 사라진다. 고양이는 가슴 높이에서 양발을 웅크린 복싱 가드 자세로 전환하고 팔꿈치를 안으로 모은 채 기다린다. 이어서 쿵후 스타일의 빠르고 흐릿한 한 발 카운터를 날려 공중에서 날아오는 손을 받아 내며, 머리는 계속 정면을 향한다. 마지막에는 오른쪽 앞발을 렌즈를 향해 곧게 뻗고, 분홍색 발바닥이 카메라를 향하게 하여 화면을 가득 채운다. 앞발은 부드럽게 초점이 나간 전경 형태가 되고, 뒤의 얼굴은 칼날처럼 선명하며 차가운 시선을 유지한다.
-움직임: 자연스러운 속도, 날아오는 손과 빠른 앞발 블록에 실제 모션 블러를 적용한다. 방어적이고 최소한이며 경제적인 고양이의 움직임—고양이는 거의 움직이지 않고, 손이 모든 동작을 수행하지만 번번이 실패한다. 카메라 이동 없음, 줌 없음, 텍스트 없음.
-네거티브: 팔다리 추가, 붙거나 변형된 앞발, 손가락 추가, 일그러진 얼굴, 털과 합쳐진 머리띠, 플라스틱 같은 피부, 과도하게 채도 높은 색상, 텍스트, 자막, 로고, 워터마크, 컷, 카메라 흔들림, 장난스럽거나 축하하는 듯한 몸짓, 하이파이브 동작.
-짧은 버전:
-검은 하치마키 머리띠를 두른 주황색과 흰색 얼룩무늬 고양이가 햇빛이 비치는 일본 사찰 안뜰에 앉아 카메라를 무표정하게 바라본다. 85mm f/1.8, 얕은 피사계 심도, 골든아워, 필름 그레인. 양쪽에서 사람의 손이 모션 블러를 일으키며 얼굴을 향해 빠르게 내려치고 찌르듯 들어온다. 고양이는 머리를 전혀 움직이지 않고 최소한의 앞발 블록으로 각 공격을 침착하게 막아 낸다. 양발 쿵후 가드 자세를 취한 뒤 빠르고 흐릿한 카운터를 날리고, 마지막에는 앞발을 렌즈에 밀어 넣어 발바닥이 화면을 가득 채우게 한다. 고정 카메라 원테이크, 10초, 16:9, 24fps, 사실적인 영상, 텍스트 없음.
-프레임을 바탕으로 한 간단한 메모: 손은 주로 왼쪽에서 들어온다(아래로 내리치는 동작 + 수평 스윕). 접촉 지점은 손목/손바닥이며, 앞발과 앞발이 맞닿는 동작이 아니다. 양발 가드는 약 4.0~5.6초, 흐릿한 카운터는 5.6~8초, 렌즈를 향한 앞발 마무리는 8~10초에 배치한다. Blender MCP로 메시와 애니메이션을 제작해 10초, 24fps 결과물을 렌더링하고, Seedance 2.5를 영상 생성 모델로 사용해 PixVerse CLI에서 초현실적인 장면으로 출력하는 것이 목표다
-에이전트 단계: Blender MCP, PixVerse CLI 인증 상태, 모델 기능, 사용 가능한 크레딧을 확인한다. 예상 비용을 공개하고 유료 생성을 진행하기 전에 지출 승인을 받는다. 프롬프트를 시간대별 비트 시트로 변환하고, 공식 Blender MCP를 통해 가벼운 3D 메시와 애니메이션을 제작한 다음 동작 레퍼런스 MP4를 렌더링한다. 구도, 움직임, 접촉 지점, 재생 시간, 프레임 레이트를 검사한다. 영상을 제출하기 전에 별도의 외형 레퍼런스 이미지를 생성하고 검사한다. 이미지로 캐릭터의 정체성, 스타일, 조명을 안내하고 Blender 영상으로 움직임과 타이밍을 안내한다. 생성 후 결과물을 다운로드하고 기술 사양을 확인하며 주요 프레임을 검사하고, 차이점을 정직하게 보고하고 실제 크레딧 사용량을 계산한다. 원본은 보존하며 모델을 몰래 변경하거나 재생성하지 않는다.
-PIXVERSE 호출: pixverse create image에서 gpt-image-2.0을 사용해 확인된 화면비, 1080p, 높은 디테일의 외형 레퍼런스를 생성한다. 그런 다음 확인된 영상 모델로 pixverse create reference를 호출하고 다음 두 항목을 전달한다 --images and --videos to외형 이미지와 Blender 동작 레퍼런스를 결합한다. Seedance 2.5에는 --model seedance-2.5 --task-type auto확인된 재생 시간과 화면비, 그리고 --quality 1080p --count 1.를 사용한다. 제출 전에 현재 기능을 확인하고, 고유한 멱등성 키를 사용하며, pixverse task status / pixverse task wait를 통해 완료 상태를 추적한다.
-최종 출력: 확인된 화면비와 재생 시간의 완성 영상을 반환하며, 목표 사양은 1080p 및 24fps로 한다. 외형 레퍼런스 이미지, Blender .blend 프로젝트, 동작 레퍼런스 MP4도 함께 제공한다. 절대 로컬 경로 또는 다운로드 가능한 URL을 제시한다. 최종 보고서 형식은 다음을 유지한다: Video, 레퍼런스 이미지, Blender 메시 + 애니메이션, 검사, 룩, 사용 크레딧. 실제 해상도, 프레임 레이트, 프레임 수, 재생 시간, 시각적 차이점, 이미지/영상 크레딧 비용, 총 지출액, 남은 잔액, 재생성 여부를 보고한다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-SHORT VERSION:
-Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
-Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
-AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
-PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
-FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101310374033428642) · [원본 게시물](https://x.com/PixVerse/status/2101310387081908606) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101271938706685991"></a>
-
-### 인터랙티브 3D 항공기 엔진 디스플레이
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/ab861425bbbe93cb886651a97e2e3b2d2c7ae1be8684904fc0b3c42bd9b0c37a.webp" width="840" loading="lazy" alt="인터랙티브 3D 항공기 엔진 디스플레이"></a>
-
-**프롬프트**
-
-```text
-three.js를 사용해 웹페이지에서 항공기 엔진을 3D로 인터랙티브하게 보여 주는 디스플레이를 제작하세요. 
-Jigspace의 인터랙션 디자인 철학을 참고해 실제와 거의 1:1에 가까운 고품질로 복원한 모델을 구현하고, 금속, 파이프라인, 블레이드 등 재질과 텍스처의 디테일을 온전히 유지하세요. 인터랙티브 기능에는 단계별 분해 애니메이션, 부품 분해도, 클릭이나 호버로 표시되는 부품 설명 및 작동 원리 해설이 반드시 포함되어야 합니다. 
-전체적으로 부드러운 카메라 조작과 사용자 친화적인 상호작용을 지원해, 웹에서 매끄러운 사용 경험을 제공하고 엔진의 구조와 작동 원리를 충분히 보여 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101271938706685991) · [원본 게시물](https://x.com/YouWareAI/status/2101272224435253432) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101224659861590399"></a>
-
-### 사실적인 3D 환경 제작
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="사실적인 3D 환경 제작"></a>
-
-**프롬프트**
-
-```text
-완성도 높은 사실적 3D 환경을 제작해 주세요. 자유롭게 구성해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build a complete photorealistic 3D environment. Surprise me.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101224659861590399) · [원본 게시물](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101055500599054437"></a>
-
-### 실제 궤도 물리학으로 구현한 은하
-
-[Argona](https://x.com/Argona0x) · 2026-09-18 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp" width="840" loading="lazy" alt="실제 궤도 물리학으로 구현한 은하"></a>
-
-**프롬프트**
-
-```text
-실제 궤도 물리학을 기반으로 한 은하, 320,000개의 별, 그 안을 가로지르는 한 차례의 비행, 30초
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101055500599054437) · [원본 게시물](https://x.com/Argona0x/status/2101055500599054437) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="monster-block"></a>
-
-### 몬스터 블록 — 45초 동안 도시를 박살 내세요
-
-[Tony](https://x.com/abc30037274) · 2026-09-18 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/monster-block"><img src="../assets/previews/8c0a2832f40569463c7b23d6b5228538ce90881c8b01876795d818b89d197a5d.webp" width="840" loading="lazy" alt="몬스터 블록 — 45초 동안 도시를 박살 내세요"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/ab5439fe-bc9f-4cde-8713-20e1b0caf7a6.png) · [2](https://media.tripogrowth.space/media/94648b5c-c804-46bd-a2b1-c684b25bd848.png) · [3](https://media.tripogrowth.space/media/4405e75a-c387-44cb-b63c-d8503454b422.png)
-
-**프롬프트**
-
-```text
-# 몬스터 블록 — 재구축 사양
-
-## 1. 프로젝트 목표
-
-Monster Block이라는 플레이 가능한 브라우저 게임을 제작합니다. 플레이어가 장난감 몬스터를 선택해 미니어처 도시에 들어가고, 45초 안에 최대한 많은 건물을 파괴하도록 합니다. 이동, 건물 할퀴기, 자동차 던지기, 연속 철거에 즉각적인 피드백을 제공해야 합니다. 게임 종료 후 점수, 칭호, 재시도 액션, 친구가 같은 블록에서 플레이할 수 있는 도전 링크를 표시합니다. 영어 및 중국어 간체 인터페이스와 키보드 및 터치 조작을 지원합니다.
-
-## 2. 비주얼 스타일
-
-크림색 배경 앞의 두꺼운 정사각형 플랫폼 위에 따뜻한 탁상 디오라마를 구성합니다. 디테일이 단순한 파스텔 건물, 작은 짙은 청록색 창문, 밝은 지붕 테두리, 넓고 채도가 낮은 녹회색 도로, 횡단보도, 둥근 나무, 작은 자동차, 따뜻하고 부드러운 그림자를 사용합니다. 건물 색상은 테라코타, 머스터드, 더스티 틸, 로즈, 블루그레이, 크림, 세이지로 구성합니다. 머티리얼은 반짝이는 금속이 아니라 무광으로 칠한 장난감처럼 보여야 합니다.
-
-평면 탑뷰가 아닌 높은 3/4 시점 카메라를 사용합니다. 기준 카메라의 시작 위치는 (35, 37, 41), 시선 방향은 (0, 0.4, 0)이며, 넓은 화면에서는 38도, 중간 화면에서는 44도, 좁은 화면에서는 51도의 시야각을 사용합니다. 플레이 중에는 몬스터를 부드럽게 따라가되 주변 목표물이 계속 보이도록 합니다. 따뜻한 반구광, 부드러운 그림자를 만드는 방향광, 차가운 필 라이트로 장면을 조명합니다.
-
-큰 영문 제목에는 폭이 좁고 굵은 디스플레이 서체를, 안내문에는 읽기 쉬운 산세리프 서체를 사용합니다. 짙은 녹색 텍스트, 크림색 표면, 주황색 플레이 액션, 노란색 Tripo 제작 액션을 조합합니다. 홈페이지에서는 Play와 Create with Tripo를 동등하게 강조합니다. 일시정지 대화상자에서는 캐릭터 썸네일 3개가 있는 짙은 녹색 Tripo 카드를 노란색 제작 버튼과 함께 외곽선 스타일의 Resume 버튼 위에 배치합니다. 휴대폰에서도 도움말을 편하게 읽을 수 있도록 합니다.
-
-입력에 맞춰 짧게 재생되는 효과를 사용합니다. 발톱 휘두르기, 짧은 건물 반동, 타격 및 철거별 충격 효과, 확장되는 발구르기 링, 작은 파편 폭발, 점수 팝업, 콤보 변화, 절제된 방향성 카메라 흔들림을 포함합니다. 잡은 자동차가 약 220ms에 걸쳐 손으로 들어 올려지도록 합니다. 모션 감소 설정을 존중하여 화면 흔들림, 파편 폭발, UI 확대·축소는 제거하되 점수, 목표 표시, 파괴 결과는 유지합니다.
-
-## 3. 월드 및 장면
-
-파괴 가능한 건물 16개를 4×4 그리드로 배치합니다. 블록 간격은 10.4로 설정하고, 블록 중심은 해당 간격에 -1.5, -0.5, 0.5, 1.5를 곱한 위치에 둡니다. 각 축을 따라 5개의 대로를 배치합니다. 플랫폼의 너비는 52.6 유닛입니다. 건물은 2~5층으로 구성하며, 평면 형태와 지붕 디테일을 다양화하고 일부에는 차양과 작은 HOTEL 또는 NOODS 간판을 추가합니다. 시드에 따라 레이아웃을 결정론적으로 생성합니다.
-
-도로를 따라 자동차 12대를 배치하고, 최초 플레이 위치 근처에 반드시 집어 던질 수 있는 노란 자동차 1대를 둡니다. 건물 구획과 플랫폼 가장자리 주변에 나무를 배치하고, 네 모퉁이의 가로등, 차선 표시, 중앙 횡단보도를 포함합니다. 몬스터는 (0, 0.2, 10.4)의 비어 있는 대로에서 시작하며, 홈페이지에서는 전경 대기 위치로 z=20.8을 사용합니다.
-
-같은 블록 파라미터를 사용하면 동일한 건물 레이아웃이 재현되어야 합니다. 블록 시드가 없으면 UTC 날짜에서 파생합니다. beat 파라미터는 친구의 목표 점수를 제공합니다. 재시도할 때 선택한 블록을 유지합니다. 무작위 파편은 결정론적으로 생성하지 않아도 됩니다.
-
-## 4. 에셋 목록
-
-에셋 ID를 안정적으로 유지하고, 시각 모델과 게임플레이 충돌 프록시를 분리합니다.
-
-- munch: Munch / 阿猛, 기본 초록색 공룡입니다. 원래의 둥근 주둥이, 크림색 배와 뿔, 주황색 등 가시, 짧은 팔, 큰 발, 긴 꼬리를 유지합니다. /assets/monster-animated.glb를 로드하고 높이를 5.6 유닛으로 정규화합니다. 정적 폴백으로 /assets/monster.glb를 유지합니다.
-- bongo: Bongo / 橘拳, 주황색 장난감 고릴라로, 주먹이 크고 몸통이 넓습니다. /assets/bongo-animated.glb를 로드하고 높이를 4.5 유닛으로 정규화합니다.
-- bolt: Bolt / 蓝电, 팔다리가 튼튼하고 친근한 실루엣을 가진 파란색 장난감 로봇입니다. /assets/bolt-animated.glb를 로드하고 높이를 4.9 유닛으로 정규화합니다.
-- 각 캐릭터에 대응하는 미리보기 PNG와 idle, run, slash 클립을 제공합니다. 실제로 선택 가능한 캐릭터 3명을 모두 유지하며, 캐릭터를 변경하면 미리보기와 다음 라운드에서 사용할 모델이 모두 업데이트되어야 합니다.
-- city_building: 절차적으로 재사용 가능한 건물 그룹입니다. 체력, 콜라이더 경계, 피격 반동, 철거 상태를 각각 추적합니다. 지붕 테두리, 기단, 차양은 충돌 범위에 포함합니다.
-- city_car: 절차적으로 재사용 가능한 투척용 자동차입니다. 들고 있는 상태, 공중 상태, 파괴 상태를 분리해 유지합니다. 자동차 3대에는 노란색 Tripo 브랜딩을 적용합니다.
-- city_decor: 절차적으로 생성하는 나무, 가로등, 보도, 간판, 도로 도색입니다. 가볍게 구성하고 지오메트리와 머티리얼을 재사용합니다.
-- tripo_scenery: 옥상 로고 조형물 1개, 옥상 간판 2개, 작업실 매장 1개, 브랜드 자동차 3대입니다. 제공된 Tripo 로고와 절차적 메시로 제작합니다. 이는 장면 장식이며, API로 추가 생성하는 모델이나 게임플레이 파워업이 아닙니다.
-
-세 캐릭터 모델을 Tripo 에셋의 우선순위로 둡니다. 제공된 생성 및 리깅 GLB를 사용할 수 있으면 재사용합니다. 새 캐릭터를 추가할 때는 이에 맞는 장난감 스타일 모델을 생성하고, 리깅 적합성을 확인한 뒤 스키닝하고 idle/run/slash 애니메이션을 제작합니다. 로스터에 추가하기 전에 비율을 검증합니다. 플레이어가 라운드를 시작할 때는 생성 API를 호출하지 않습니다. 캐릭터 업로드와 플레이어가 직접 만든 창작물의 자동 임포트는 이번 버전에서 지원하지 않습니다.
-
-## 5. 게임플레이 및 피드백
-
-이동에는 WASD 또는 방향키, 반복 발톱 공격에는 Space 키 누르기, 근처 자동차를 잡는 데는 E, 던지는 데는 다시 E, 발구르기에는 R, 일시정지에는 Escape를 지원합니다. 터치스크린에는 가상 조이스틱과 공격, 잡기/던지기, 발구르기 버튼을 별도로 제공합니다. 일시정지하거나 포커스를 잃으면 누르고 있던 입력을 초기화합니다.
-
-다음 규칙을 적용합니다.
-
-- 라운드는 45초 동안 진행됩니다. 건물의 체력은 층수 + 1로 설정하여 3~6이 되도록 합니다.
-- 발톱 공격은 피해 1을 주며, 공격 간격은 0.42초입니다.
-- 발구르기는 범위 내 각 건물에 피해 3을 주며, 쿨다운은 7초입니다.
-- 던진 자동차는 충돌 범위 내 건물에 피해 4를 주고, 투척 충돌에 대한 기본 점수 75점을 부여합니다.
-- 건물에 적중하면 현재 배율 × 20점을 얻습니다. 철거하면 철거 콤보를 증가시킨 뒤 배율을 적용해 round(180 + 건물 높이 × 50)점을 추가합니다.
-- 3.5초 안에 다시 철거하면 콤보가 이어집니다. 일반 타격은 이 시간을 연장하지 않습니다. 배율은 min(5, 1 + floor(combo / 2))입니다.
-- 건물 16개를 모두 철거하면 라운드가 종료되고 ceil(남은 시간) × 100점을 부여합니다. 그렇지 않으면 시간이 0이 되는 즉시 종료하며 이후에는 점수가 더해지지 않도록 합니다.
-
-적, 보스전, 플레이어 체력, 사망 페널티는 없습니다. 도전 요소는 이동 경로를 선택하고, 자동차와 발구르기를 효율적으로 사용하며, 철거 콤보를 유지하는 데 있습니다. 남은 시간, 점수, 파괴한 건물 수, 배율, 발구르기 쿨다운을 표시합니다. 사용할 수 없는 액션도 이동을 막지 않으면서 이해하기 쉽게 안내합니다. 빗나간 공격과 성공한 타격은 사운드와 시각 피드백으로 구분합니다.
-
-각 캐릭터의 샘플링된 애니메이션 풋프린트를 기준으로 팔과 꼬리를 포함해 이동 및 회전을 판정합니다. 약간의 여유를 두고 건물 전체 경계와 충돌을 검사합니다. 몬스터는 합법적인 서 있는 위치에서 공격할 수 있어야 합니다. 건물이 철거된 뒤에는 해당 구획을 통과할 수 있도록 합니다. 모퉁이에 플레이어가 갇히거나 회전 중 꼬리가 멀쩡한 건물을 관통하지 않도록 합니다.
-
-Escape, 일시정지 버튼, 창 포커스 해제, 숨겨진 탭에서 타이머와 입력을 일시정지합니다. Resume, Retry, Home 흐름을 제공합니다. 종료 화면에는 점수, 철거 횟수, 최고 콤보, 재미있는 칭호, 동일 맵 도전 링크를 표시합니다. 1080×1350 크기의 점수 카드를 다운로드할 수 있도록 하고, MediaRecorder가 지원되는 경우 지원되는 MP4 또는 WebM 형식으로 라운드를 녹화합니다. 가능하면 네이티브 공유를 사용하고, 도전 링크에는 클립보드 폴백을 제공합니다. 브라우저에서 계산한 점수를 보안이 보장되는 경쟁형 리더보드 점수처럼 표시하지 않습니다.
-
-## 6. 기술 구현
-
-정적 dist 빌드를 사용하는 Three.js, TypeScript, Vite로 제작합니다. 월드 생성, 규칙, 충돌, 캐릭터, 렌더링, 오디오, 녹화, 분석, UI를 별도 모듈로 분리합니다. 폰트와 필요한 디코더 에셋은 로컬에 번들합니다. 반복되는 창문과 도로 표시에는 인스턴싱을 사용하고 머티리얼과 지오메트리를 재사용합니다. 렌더 픽셀 비율은 1.65로 제한합니다. 임시 효과의 수를 제한하고 완료 또는 초기화 시 리소스를 해제합니다.
-
-GLTFLoader, 스켈레탈 애니메이션 믹서, 제공된 GLB 클립을 사용합니다. 각 모델을 중앙의 지면 피벗을 기준으로 정규화합니다. 기준 익스포트의 정면은 +X를 향하므로, 게임의 전방 방향인 +Z에 맞추기 위해 비주얼 피벗을 Y축 기준 -90도로 회전합니다. 로드한 모델을 표시하기 전에 idle 애니메이션을 평가하고, 애니메이션 발이 지면 가까이에 유지되도록 합니다. 로딩에 실패하면 보이는 절차적 폴백을 사용하되 실패 사실을 정확히 알립니다. 이전 로드가 최신 선택을 덮어쓰지 못하도록 비동기 캐릭터 선택을 보호합니다.
-
-캐릭터 충돌 데이터는 렌더 메시와 독립적으로 유지하고, 캐릭터나 애니메이션을 변경하면 샘플링된 풋프린트를 다시 굽습니다. 벽 근처에서 이동과 회전을 모두 테스트합니다. 안정적인 키보드/터치 입력, 반응형 대화상자, 현지화된 문구, 포커스 동작, 음소거 오디오 컨트롤, 모션 감소, WebGL 복구 동작을 유지합니다.
-
-Tripo 제작 액션을 https://www.tripo3d.ai/에 연결하고, utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game 및 배치별 utm_content(header_logo, hero_create, pause_create, result_create, footer_logo)을 사용합니다. 이러한 액션은 새 탭에서 열고, 먼저 진행 중인 플레이를 일시정지합니다. Tripo는 3D 에셋을 제작하는 서비스이며 이 게임에 자동으로 임포트된다고 약속하지 않는다는 점을 설명합니다.
-
-호스팅 정책이 허용하는 경우 기존 Pageview 및 PostHog 이벤트 연동을 유지합니다. 정적 빌드에서는 공개 브라우저 수집 설정만 사용합니다. 생성, CMS, 배포, 개인 분석 인증 정보는 소스와 빌드 산출물 외부에서 관리합니다. 페이지 진입, 캐릭터 선택, 플레이, 첫 액션, 라운드 결과, 재시도, 공유/내보내기, 외부 Tripo 클릭을 기록하되 클릭을 확인된 가입이나 결제로 간주하지 않습니다.
-
-## 7. 완료 기준
-
-실행 가능한 소스, 로컬 에셋, 프로덕션 정적 빌드, 명확한 설치/시작/빌드 안내를 제공합니다. 세 캐릭터 선택, 전체 시간 제한 라운드, 건물 파괴, 잡기 및 던지기, 발구르기 쿨다운, 콤보 만료, 일시정지/재개, 재시도, 라운드 종료 점수를 모두 검증합니다. 원래의 공룡을 계속 선택할 수 있는지 확인하고, 세 캐릭터 모두 건물 근처에서 눈에 띄는 관통이나 끼임 없이 이동하고 회전할 수 있는지 검증합니다.
-
-데스크톱과 좁은 모바일 화면에서 영어 및 중국어 레이아웃을 확인합니다. 읽기 쉬운 도움말, 터치 컨트롤, 일시정지 액션, 결과 공유를 포함합니다. Tripo CTA 목적지와 UTM 배치 값을 확인하고, 점수 카드 내보내기와 녹화 폴백 동작을 검증합니다. 배포된 페이지와 실제 CMS iframe 환경에서 모델 로딩, 입력, 외부 링크, 다운로드를 테스트합니다. 모든 환경을 지원한다고 주장하거나 근거 없이 안정적인 프레임 레이트를 측정했다고 말하지 말고, 브라우저 또는 기기별 제한 사항을 보고합니다.
-
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/monster-block) · [원본 게시물](https://x.com/abc30037274/status/2100636075039629796) · [데모](https://monster-block.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100956517633761447"></a>
-
-### 인터랙티브 IWC Schaffhausen 시계 모델
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/a426633024453e686b5eecffb2a0acdbc37cd9b2069a53128441eeff3e7fa22f.webp" width="840" loading="lazy" alt="인터랙티브 IWC Schaffhausen 시계 모델"></a>
-
-**프롬프트**
-
-```text
-Three.js를 사용해 IWC Schaffhausen 시계를 매우 충실하게 재현한 3D 인터랙티브 시계 모델을 개발하세요. 요구 사항: 1) 다이얼 구조를 매우 정밀하게 구현하고, 모든 기계 부품을 개별적으로 렌더링해 서로 명확히 구분할 수 있어야 합니다. 2) 시계 앞면에는 투명도, 굴절, 반사 효과가 사실적으로 표현되는 사파이어 글라스 머티리얼을 사용하세요. 3) 분침과 초침은 실제 시각을 정확히 반영하는 올바른 시곗바늘이어야 하며, 자동으로 연속 스윕 애니메이션을 재생해야 합니다. 4) 시계를 분해하고 재조립할 수 있도록 하며, 각 부품을 분리해 개별적으로 확인할 수 있어야 합니다. 5) 전체 디테일 수준은 실제 시계의 구조와 비율에 가깝게 맞출 정도로 매우 높아야 합니다. 나사, 금속 부품 및 기타 구성 요소에는 사실적인 머티리얼 텍스처와 정교한 마감 표현을 적용하세요. 브라우저에서 모델이 원활하게 실행되고 자연스럽게 인터랙션되도록 구현하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100956517633761447) · [원본 게시물](https://x.com/YouWareAI/status/2100958838350643553) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="odd-arms"></a>
-
-### ODD ARMS — 기묘한 무기 서바이벌 게임
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/odd-arms"><img src="../assets/previews/48f26395f6cf5e8bccb59f37d79965f9da76605aa246ecdb1baa041bfc742b28.webp" width="840" loading="lazy" alt="ODD ARMS — 기묘한 무기 서바이벌 게임"></a>
-
-**프롬프트**
-
-```text
-# ODD ARMS — 당신의 아이디어. 당신의 영웅.
-
-## 1. 목표
-게임 UI는 모두 영어로 유지하세요(일본어는 선택 가능한 언어 전환 옵션으로 추가).
-「자동 공격 웨이브」장르의 완성도 높은 3분짜리 브라우저 서바이벌 게임을 제작하세요. 플레이어는 장난감 크기의 영웅과 기상천외한 무기 2개를 고른 뒤, 공방 작업대 위에서 180초 동안 몰려드는 몬스터를 버텨야 합니다. 무기는 자동으로 공격하며, 플레이어는 이동·대시·크리스털 수집·업그레이드 선택과 충전된 노바 발사만 조작합니다. 핵심 재미는 나만의 영웅이나 무기를 Tripo에서 만들고 GLB를 다운로드해 게임에 넣을 수 있다는 점입니다. 완성 결과물에는 https://odd-arms.tripo.page/와 제공된 레퍼런스를 사용하세요. Deniffer의 크레딧을 https://x.com/lumina__team.
-
-에 표시하세요.## 2. 비주얼 방향
-고정된 3/4 탑다운 카메라가 영웅을 따라가는 미니어처 장난감 디오라마처럼 연출하세요. 플레이 영역은 은은한 격자와 「ODD ARMS」 모서리 표시가 인쇄된 짙은 네이비색 커팅 매트이며, 따뜻한 색감의 나무 책상 위에 놓여 있습니다. 책상 가장자리에는 실타래, 장식적인 황동 로제트 상자, 가죽 공구 롤, 황동 책상 램프, 나무 장난감 기차, 장난감 부품 등 큼직한 공예 소품을 빽빽하게 배치해 실제 탁상 위 아레나처럼 보이게 하세요. 램프 쪽에서 따뜻한 키 라이트를 비추고, 부드러운 앰비언트 필 라이트와 접촉 그림자, 은은한 블룸을 사용하세요. 캐릭터는 채도가 높은 색상의 광택 있는 통통한 컬렉터블 피겨 스타일로 제작합니다.
-
-UI: 네이비색 텍스트와 코럴 오렌지 포인트를 사용한 크림 화이트 색상의 둥근 카드. 헤드라인(「LET'S MAKE SOME TROUBLE.」)에는 굵고 폭이 좁은 디스플레이 폰트를, 본문에는 깔끔한 콘덴스드 산세리프 폰트를 사용하세요. 전투 중에는 왼쪽 상단에 체력 카드, 그 아래에 연속 처치 카운터, 상단 중앙에 「SURVIVE THE WEIRD」 카운트다운, 오른쪽 상단에 웨이브 라벨 + 사운드 + 설정 + 일시정지, 오른쪽에 처치 수, 하단 중앙에 레벨/XP 필, 왼쪽 하단에 무기 칩 3개(오빗/리턴/슈터와 레벨), 오른쪽 하단에 조작 안내 + 대시 쿨다운, 그 위에 「Q NOVA READY!」 필을 배치하세요. 타격감 요소로 대미지 숫자, 치명타, 스쿼시 앤드 스트레치 적, 넉백, 팝 파티클, 가벼운 카메라 흔들림을 추가하세요(prefers-reduced-motion이 설정된 경우 흔들림은 비활성화).
-
-## 3. 월드
-정사각형 아레나 하나를 만들고, 두 축 모두에서 영웅의 위치를 ±23 유닛으로 제한하세요. 커팅 매트가 플레이 영역을 채우며, 책상과 소품은 제한 영역 바깥의 배경으로만 배치합니다(충돌 없음). 아레나는 비어 있는 상태로 시작하고 가장자리에서 적이 유입됩니다. 적은 영웅으로부터 12~16유닛 거리의 링에서 생성되며(첫 1초 동안은 8~11유닛), 영웅을 향해 직선으로 이동합니다. 22초마다 반지름 13인 원 전체에 적이 생성되는 웨이브를 발생시키세요. 영웅의 현재 위치 아래에는 빨간색 경고 원이 나타나고(첫 경고는 28초, 이후 max(4.4, 9 − t/50)초마다), 2초 후 폭발합니다.
-
-## 4. 에셋 목록
-안정적인 모델 슬롯을 준비하세요. 각 슬롯은 단일 GLB를 로드하고, 중앙 정렬한 뒤 목표 높이에 맞게 자동 스케일링해야 하며, 로드에 실패하면 단순한 플레이스홀더를 사용해야 합니다.
-
-영웅(10종, `hero:<id>`)은 각각 실루엣이 뚜렷한 통통한 장난감 피겨로 제작합니다.
-- `cat` Astro Cat — 흰색 우주복과 유리 헬멧을 착용한 주황색 태비 고양이. HP 100, 속도 6.8, 자석 ×1.35, 대시 쿨다운 2.4초.
-- `frog` Frog Fighter — 빨간 복싱 글러브를 낀 초록 개구리. HP 130, 속도 6.8, 대시 대미지 135.
-- `shroom` Mushroom Hero — 작은 망토를 두른 빨간 버섯. HP 90, 속도 7.6, 대시 쿨다운 1.8초.
-- `capybara` Chill Capybara — 온천에서 느긋하게 쉬는 카피바라. HP 160, 속도 5.8, 자석 ×1.15, 대시 쿨다운 3초, 대시 대미지 110.
-- `ramen` Ramen Ronin — 김이 나는 라멘 그릇을 든 사무라이. HP 105, 속도 7.2, 대시 쿨다운 2.2초, 대시 대미지 120.
-- `penguin` Office Penguin — 셔츠와 넥타이를 착용한 펭귄. HP 80, 속도 7.1, 대시 쿨다운 1.5초, 대시 대미지 75.
-- `axolotl` Axolotl — 분홍색 아홀로틀 탐험가. HP 85, 속도 7.3, 자석 ×1.6, 대시 대미지 75.
-- `avocado` Avo Boxer — 씨앗 코어가 있는 아보카도 복서. HP 120, 속도 6.4, 대시 쿨다운 2.1초, 대시 대미지 130.
-- `robot` Clockwork Bot — 태엽 열쇠가 달린 양철 로봇. HP 115, 속도 6.2, 대시 쿨다운 2.8초, 대시 대미지 165.
-- `snail` Snail Knight — 집만 한 껍데기를 짊어진 기사 달팽이. HP 190, 속도 5.2, 자석 ×1.2, 대시 쿨다운 3.2초, 대시 대미지 120.
-별도 표기가 없는 경우 기본 대시 대미지는 90입니다.
-
-무기(12종, `weapon:<id>`)는 공격 슬롯별로 그룹화합니다.
-- 오빗: `sardine` Sardine Chainsaw (물고기 3개, 반지름 2.9, 대미지 1, 속도 1.2); `cactus` Cactus Club (곤봉 2개, 반지름 3.3, 대미지 1.65, 속도 0.78, 타격 반지름 1.25, 넉백 1.5); `plunger` Plunger Patrol (뚫어뻥 4개, 반지름 2.25, 대미지 0.85, 속도 1.5).
-- 리턴: `banana` Banana Blades (2개, 대미지 1, 속도 1.25); `pizza` Pizza Cutter (대형 디스크 1개, 대미지 1.5, 속도 0.82, 타격 반지름 1.65); `croissant` Croissant Blades (3개, 대미지 0.75, 속도 1.45); `boomerang` Boomerang (1개, 대미지 1.15, 속도 1.6); `donut-disc` Donut Disc (1개, 대미지 1.5, 속도 0.9, 타격 반지름 1.3).
-- 슈터: `duck` Duck Rocket (유도, 스플래시 2, 간격 0.42초); `toaster` Angry Toaster (3발 관통 부채꼴, 대미지 0.7); `teapot` Raging Teapot (느린 탄환 2개, 스플래시 2.8, 간격 0.8초); `bubble-gun` Bubble Gun (관통 버블 2개, 대미지 0.45, 간격 0.3초).
-기본 장비는 Astro Cat, Banana Blades, Angry Toaster이며, 첫 번째 업그레이드에서 오빗 무기를 해금합니다.
-
-적(3종, `enemy:<id>`)은 태엽 장난감 몬스터입니다.`red-chomper` (빨간색의 둥글고 무는 장난감, 기본형, 기본 HP 30, 속도 2.35), `spring-rabbit` (노란색 스프링 다리 토끼, 고속형, 기본 HP 23, 속도 3.5), `crown-bear` (왕관을 쓴 대형 패치워크 곰, 탱커, 기본 HP 130, 속도 1.7, 60초 이후 17% 확률로 등장, XP 3 드롭).
-
-장면 소품(`prop:<id>`): 작업대, 커팅 매트 프레임과 모서리 플레이트, 책상 램프, 장난감 기차, 실타래, 장식적인 로제트 상자, 공구 롤, 장난감 부품 트레이. 매트, 격자, 크리스털, 발사체, 경고 원, 파티클, 조명과 UI는 모두 프로시저럴 방식으로 유지하세요.
-
-## 5. 게임플레이 및 피드백
-진행 흐름: 캐릭터 → 장비(리턴 1개 + 슈터 1개) → 준비(선택한 무기를 장착한 영웅의 3D 턴테이블 미리보기, 드래그해 회전) → 「Let's play」. 온보딩의 각 단계에는 해당 카테고리만 표시하고, 설명·플레이 스타일·약점 텍스트를 함께 보여 주세요. 마지막 장비 구성을 기억합니다.
-
-조작: WASD/화살표 키로 이동합니다. 이동 방향으로 Space를 누르면 대시합니다(속도 ×3.7, 짧은 무적, 대시 1회당 반지름 2유닛 안의 적에게 한 번 대미지). 에너지가 100이면 Q로 노바를 발사합니다(반지름 11, 대미지 200, 강한 넉백, 크리스털 끌어당김). 1/2/3 또는 클릭으로 업그레이드를 선택하고, Esc로 일시정지합니다. 창 포커스를 잃으면 자동으로 일시정지합니다. 모바일에서는 왼쪽에 아날로그 가상 조이스틱을, 오른쪽에 쿨다운/충전 링이 표시되는 Dash 및 Nova 버튼을 배치하세요. 멀티터치를 지원해 조이스틱과 버튼을 동시에 사용할 수 있어야 합니다. 세로 화면에서는 업그레이드를 조이스틱 위에, 가로 화면에서는 양 엄지손가락 사이에 배치합니다.
-
-규칙: 적 HP = base × (1 + t/260) × 1.3. 생성 간격은 max(0.18, 0.52 − 0.0016·t)초이며, 적은 최대 180마리까지 유지합니다. 접촉 대미지는 9(곰은 18)이고, 피격 후 0.85초 동안 무적입니다. 적을 처치할 때마다 에너지 2를 얻고 크리스털이 하나 드롭됩니다. 무기별 9번째 타격마다 ×1.7 치명타가 발생합니다. 25킬 연속 달성 시 5초 동안 광란 상태가 됩니다(공격 속도 ×1.65, 쿨다운 13초). 대미지를 받으면 연속 처치 수가 초기화됩니다. 레벨업에 필요한 XP는 첫 레벨이 20이며, 이후 round(need × 1.4 + 10)으로 계산합니다. 레벨업 중에도 게임은 일시정지되지 않으며, 논블로킹 선택 카드가 대기열에 추가됩니다. 첫 업그레이드에서는 오빗 무기 3개를 제시하고, 이후에는 다음 중 3개를 제시합니다. 오빗 오버로드(오빗 무기 +1, 최대 7개, 대미지 +22%), Another round(더 빠르고 길며 강력한 리턴), Full blast(발사 속도 증가, 대미지 +20%, 발사체 증가), Live a little(속도 +10%, HP +30). 선택할 때마다 HP를 8 회복합니다.
-
-종료 조건: 180초 생존 시 → 「Beautifully weird. You made it.」; HP가 0이 되면 → 「That was a glorious mess.」를 표시합니다. 두 결과 화면에는 처치한 적 수, 최고 연속 처치 수, 생존 시간이 표시되며, 「Run it back」/「Change loadout」 버튼과 나만의 영웅 만들기 프롬프트도 제공합니다.
-
-나만의 에셋 만들기: 장비 화면, 일시정지 화면, 결과 화면에서 「Create my hero / weapon in Tripo」를 선택하면 새 탭에서 https://studio.tripo3d.ai/을 엽니다. 「Import GLB」는 로컬 .glb 파일(≤15 MB, 임베드된 텍스처만, 브라우저에서 파싱하며 업로드하지 않음)을 불러와 중앙 정렬 및 스케일 조정한 뒤, 선택한 영웅 또는 무기의 외형만 교체하고 능력치는 유지합니다. 잘못된 파일에는 명확한 오류를 표시하고 원본 모델을 유지하세요.
-
-모델 비교: 헤더 토글 「Tripo3D ⇄ Simple3D (Blender)」로 모든 영웅, 무기, 적, 소품을 대응하는 단순 프리미티브 세트로 교체하세요. 게임을 다시 시작하지 않고 실행 중에도 전환할 수 있어야 합니다. 전환하기 전에 대체 세트 전체를 로드하고, 파일 하나라도 실패하면 현재 세트를 유지합니다.
-
-## 6. 기술 구현
-Vite + 바닐라 JavaScript + Three.js를 사용하고 GLTFLoader, RoomEnvironment 조명, ACES 톤 매핑을 적용하세요. 시뮬레이션은 주입 가능한 난수 소스를 사용하는 순수 고정 타임스텝 모듈로 분리해 전체 플레이를 테스트에서 시뮬레이션할 수 있게 합니다. 렌더러는 상태만 읽습니다. 각 GLB는 한 번만 캐시하고 인스턴스에 복제해 사용하세요. 반복되는 장식물에는 인스턴싱 또는 LOD를 사용합니다. 픽셀 비율은 제한합니다(모바일 1.5, 웨이브가 밀집하면 1로 낮춤). 그림자는 초당 최대 30회 갱신하고, HUD 텍스트는 값이 변경될 때만 업데이트합니다. 충돌 처리(단순 원)와 비주얼 메시를 분리하세요. 폰트, 모델, 텍스처는 동일 출처로 번들링해 빌드 결과물이 정적 폴더가 되도록 합니다. 데스크톱과 모바일 브라우저를 대상으로 하며, 가로 화면 휴대폰과 안전 영역을 포함해 너비 320px 이상을 지원합니다. 모델 복잡도는 화면에 표시되는 크기에 맞춰 조정하고, 폴리곤 수에 하드 리밋을 두지 마세요.
-
-## 7. 완료 조건
-- 온보딩, 승리 및 패배까지의 전투, 일시정지/재개, 같은 장비 구성으로 재시작, 장비 변경 등 전체 흐름이 작동해야 합니다.
-- 영웅 10종과 무기 12종이 위 수치대로 로드되고 동작해야 하며, 어떤 장비 구성으로도 180초 플레이를 오류 없이 완료할 수 있어야 합니다.
-- 조이스틱과 Dash 동시 사용을 포함해 키보드와 터치 조작이 모두 작동해야 합니다.
-- GLB를 가져오면 선택한 영웅 또는 무기의 외형이 교체되고, 잘못된 파일은 안정적으로 거부해야 합니다.
-- Tripo3D / Simple3D 토글로 플레이 중 모든 모델을 교체할 수 있어야 합니다.
-- 시작 화면, 전투 중 화면, 결과 화면이 레퍼런스와 일치해야 하며, 실행 가능한 소스, 시작 명령어, 정적 프로덕션 빌드를 제공하세요.
-
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/odd-arms) · [원본 게시물](https://odd-arms.tripo.page/) · [데모](https://odd-arms.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100844566718926949"></a>
-
-### 실사풍 3D 월드 만들기
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="실사풍 3D 월드 만들기"></a>
-
-**프롬프트**
-
-```text
-실사풍 3D 월드를 만들어 주세요. 마음껏 놀라게 해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build a photorealistic 3D world. Surprise me.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100844566718926949) · [원본 게시물](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100838090210431302"></a>
-
-### 하늘섬 사이를 오가는 3D 공중 트램 게임
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/e2d1851a486e080772aa36d6e517463595d8981ac121dde5a72f8d572e9c96fd.webp" width="840" loading="lazy" alt="하늘섬 사이를 오가는 3D 공중 트램 게임"></a>
-
-**프롬프트**
-
-```text
-따뜻한 분위기의 로우폴리 스타일을 세련된 인디 게임 감성으로 구현한, 브라우저에서 바로 플레이할 수 있는 단일 HTML/JS 3D 게임(Three.js)을 만드세요. 지브리풍 해안 마을의 정취와 젤다의 광산 수레 트랙처럼 매끄러운 움직임을 함께 느낄 수 있어야 합니다.     
-【핵심 게임플레이】 플레이어는 레트로 공중 트램을 운전하며 구름 바다와 해수면 위에 떠 있는 섬 사이를 이동합니다.  - 트랙은 끊김 없이 이어지는 3D 철도로 구성하고, 직선 구간, 오르막, 내리막, 고가 곡선 구간, 바다를 가로지르는 긴 교량을 포함하세요.  - 조작: W키로 가속(Power), S키로 제동(Brake), 좌우 방향키로 미세 조정 또는 시점 전환  - 실시간 표시: 속도(km/h), 탑승객 수(예: 12/16명 탑승), 운행 상태(Steady / Crosswind)  - 승객 편안함 시스템: 급가속, 급제동, 과속 코너링, 횡풍이 모두 "탑승 편안함"을 감소시키며, 목적지에 부드럽게 도착하면 보너스 점수(예: 도착 시 +75)를 획득합니다.  - 연속 보너스: 운전이 지나치게 울퉁불퉁하면 "연속 기록이 끊겼습니다. 균형을 되찾아 팁을 다시 쌓아 보세요."라는 메시지를 표시합니다.  - 정거장에 도착하면 문을 열어 승객이 타고 내리게 하세요. 플랫폼에는 마을 사람들이 줄을 서 있고, "문이 열립니다 - 망고 타이드", "잠시만 기다려 주세요…"와 같은 자막이 표시됩니다.     【월드 및 정거장】 최소 두 개의 노선과 두 개의 섬을 포함하세요.  1. 솔트라이트 터미너스  2. 망고 타이드  섬은 구름 위에 떠 있는 바위섬으로, 붉은 기와지붕의 지중해풍 또는 남유럽풍 작은 주택, 등대, 선착장, 푸른 나무, 가로등, 밤에는 따뜻한 노란빛을 내는 창문이 있습니다. 멀리에는 떠 있는 섬들이 더 보이고, 주변을 도는 궤도가 있습니다. 하늘은 해질녘부터 밤으로 이어지는 파란색-보라색 그라데이션이며, 별과 짙은 구름이 떠 있고 아래에는 청록빛 바닷물이 펼쳐집니다.     【트램 외관】 레트로 트램: 짙은 녹색 차체, 나무색 차대, 곡면 유리창, 지붕 위 짐, 녹색 차양과 덩굴 장식, 내부에 앉아 있는 다양한 승객을 구현하세요. 이동 중에는 살짝 흔들리는 모션과 선로 주행음이 느껴져야 합니다(간단한 효과음이나 시각적 연출로 표현해도 됩니다).     【장면 2: 작업실 개조】 작업실 "Cloudworks / Oliver Cloudworks / Oliver's home island"의 쿼터뷰 아이소메트릭 시점으로 전환하세요. 플레이어는 업그레이드 팝업과 비슷한 인터페이스에서 트램의 부품을 교체할 수 있습니다.  - Hearth leaves — 기존 부품을 들어 올리는 중  - Little Companion — 트램을 준비하는 중  진행률 표시줄과 함께 "편안히 앉아 작업실을 지켜보세요."를 표시하세요. 개조 후에는 트램의 외관이 바뀌어야 합니다(예: 녹색 지붕, 추가 짐 선반, 랜턴, 덩굴). 그런 다음 트램이 작업실 밖으로 출발하고, "모두 탑승하세요." / "다음 정거장: 코스털 라인." 자막을 표시하세요.     【UI】 깔끔하고 현대적인 캐주얼 게임 UI를 사용하세요. 왼쪽 상단에는 목적지와 재화/연속 기록을, 하단에는 속도 바와 Power/Brake 버튼을, 두 정거장 이름 사이에는 편안함 진행률 표시줄을 배치하세요. 화면을 복잡하게 만들지 말고, 호러나 사이버펑크 스타일로 만들지 마세요.     【기술 요구 사항】  - 단일 파일 또는 최소한의 파일 구성, Three.js 사용  - CatmullRom 등의 커브로 트랙을 구현하여 트램이 레일을 따라 움직이게 하고, 카메라는 약간의 철도 주행감이 느껴지도록 따라가게 하세요.  - 간단한 물리감 구현: 가속 관성, 제동 감속, 코너링 시 차체 롤링  - 모바일에서는 탭으로 가속 및 제동할 수 있는 조작도 지원해 보세요.  - 읽기 쉬운 코드와 주석을 포함하고, 파일을 열자마자 플레이할 수 있어야 합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.     
-【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100838090210431302) · [원본 게시물](https://x.com/YouWareAI/status/2100838828433179037) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100751369619820923"></a>
-
-### Sharpa 다지 손으로 펜 돌리기 전략 학습
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/ca147480aaf4e9faab8d21e1675a0977a1953d45a78809c76f60ef9258df645f.webp" width="840" loading="lazy" alt="Sharpa 다지 손으로 펜 돌리기 전략 학습"></a>
-
-**프롬프트**
-
-```text
-다지 손으로 펜을 돌리게 하세요. Isaac Lab에서 강화학습을 진행하고 Sharpa hand를 사용하며, 펜의 3D 메시를 직접 제작하세요. 최종 결과물로 학습된 전략과 시각화 영상을 제공하세요. 인터넷에서 자유롭게 검색하고 논문 및 필요한 자료를 다운로드해도 됩니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100751369619820923) · [원본 게시물](https://x.com/FinanceYF5/status/2100751369619820923) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100614534423540102"></a>
-
-### CAD로 직접 몸체 설계하기
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/138579840f9de4ce31b0d5320ac7fd1f9772a567ef4c00743d5ac10716256006.webp" width="840" loading="lazy" alt="CAD로 직접 몸체 설계하기"></a>
-
-**프롬프트**
-
-```text
-Astra에게 자기 몸체를 CAD로 설계하라고 했습니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-I told Astra to CAD itself a body.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100614534423540102) · [원본 게시물](https://x.com/vitalduval/status/2100343136077877251) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100595652703199281"></a>
-
-### 폐쇄된 연구 시설에서 탈출하는 브라우저 3D 게임
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/72f6d766a135c0c5dbb4c1ace35342212b0a05ecdb6fd494c550d3be50af7141.webp" width="840" loading="lazy" alt="폐쇄된 연구 시설에서 탈출하는 브라우저 3D 게임"></a>
-
-**프롬프트**
-
-```text
-브라우저에서 플레이할 수 있는 3D 탈출 게임을 만들어 주세요. 폐쇄된 연구 시설에서 탈출하는 내용으로, 5~10분 정도 플레이할 수 있는 분량으로 구성해 주세요. 열쇠와 스위치 등의 장치를 넣고, 플레이 방법을 쉽게 이해할 수 있으며 끝까지 클리어할 수 있는 상태로 완성해 주세요. HTML 파일 하나로 구성해 브라우저에서 열기만 하면 플레이할 수 있도록 해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-ブラウザーで遊べる3D脱出ゲームを作ってください。閉鎖された研究施設から脱出する内容で、5～10分程度で遊べるものにしてください。鍵やスイッチなどの仕掛けを入れ、遊び方がわかり、最後までクリアできる状態にしてください。HTMLファイル1つにまとめ、ブラウザーで開くだけで遊べるようにしてください。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100595652703199281) · [원본 게시물](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100526922770026874"></a>
-
-### 3D 레이싱 게임 만들기
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/72ac86b5949942e8a18e7adedd1ceae4b3290c76145424d2362cca0a3c353f73.webp" width="840" loading="lazy" alt="3D 레이싱 게임 만들기"></a>
-
-**프롬프트**
-
-```text
-레이싱 게임 만들어 줘
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-レーシングゲーム作って
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100526922770026874) · [원본 게시물](https://x.com/taiyaki_ai3/status/2100526934082105683) · [사례 목록으로](#all-prompts)
 
 ---
 

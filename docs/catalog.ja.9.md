@@ -26,8 +26,22 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (18)</summary>
+<summary>作例を見る (32)</summary>
 
+- [Claude Opus 5 による 3D MMO の開発手順](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [遊べる Chrome Dino ゲームを作る](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [リアルなヘリコプターシューターを作る Kimi K3 プロンプト](#realistic-helicopter-shooter-game-2081791572115435765)
+- [Subway Surfers 風ゲームを作る Kimi K3 プロンプト](#subway-surfers-style-game-2081766198082220514)
+- [Counter-Strike 風 Three.js FPS の Claude Opus 5 プロンプト](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [無限に紙を送り出す Three.js マシンの Claude Fable 5 プロンプト](#infinite-three-js-paper-machine-2081533777340506251)
+- [操作できる 3D ロボットハンドの Claude Opus 5 プロンプト](#interactive-3d-robotic-hand-simulation-2081475055536820506)
+- [3D コンフィギュレーターに Vespa 125 を追加するプロンプト](#vespa-125-3d-configurator-2081439705506435440)
+- [超リアルな 3D フライトシミュレーターのプロンプト](#ultra-realistic-3d-flight-simulator-2081403842256605254)
+- [Claude Opus 5 で 3D Minecraft クローンを作るプロンプト](#build-a-3d-minecraft-clone-2081305039159620085)
+- [3D Flappy Bird ゲームのプロンプト](#3d-flappy-bird-game-2081260140117045275)
+- [ベトナムの密林を飛ぶヘリコプターの映画的アニメーション](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
+- [ジェリージャングル：3Dプラットフォーマー](#jelly-jungle-3d-browser-game-2081024333120733188)
+- [手描きアニメ風の日本の住宅街を探索する Three.js プロンプト](#explorable-anime-style-japanese-street-2080834581247435102)
 - [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Kimi K3 で一度に作るかくれんぼゲームのプロンプト](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Claude Fable 5 の手続き型 Three.js 武器モデリング課題](#procedural-three-js-weapon-modeling-task-2080759312008503365)
@@ -48,6 +62,375 @@
 - [Three.js の飛行機内を歩く体験プロンプト](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### Claude Opus 5 による 3D MMO の開発手順
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Claude Opus 5 による 3D MMO の開発手順"></a>
+
+**プロンプト**
+
+```text
+コードのほぼすべてを Claude Opus 5 で書きました。
+
+しかし、何千回もの反復を通じて開発を前進させたのは巧みなプロンプトではありません。コード全体を読まずに必要なものを見つけられるよう、プロジェクトを整理したことです。
+
+1. 指示を一か所に集めず、コードのそばに置く
+各フォルダーに、よく使う手順と過去に見つけた注意点を記したガイドを置きます。そのフォルダーでセッションを始めると自動で読み込まれます。モンスターの作業でマップのガイドまで読む必要はありません。作業前のコンテキストは約 76,000 トークンから約 10,000 に減りました。
+
+2. 規律ではなくツールでルールを守らせる
+循環 import や、中央定義せず使用箇所に直接書いた色の値を検出するとビルドを失敗させるスクリプトを作らせました。AI が全ルールを覚えることに期待するより、コミットが失敗する仕組みの方が確実です。
+
+3. TypeScript に注意を促させる
+効果なしでスキルを追加するとコンパイルできません。モデルを作らずにモンスターを追加してもコンパイルできません。型システムが許さないので、忘れたままにはできません。
+
+4. コンテンツをデータ駆動にする
+モンスター、スキル、アイテムの追加は、システム全体の変更ではなく 1 行の追加にします。AI は「整合性が必要な 5 か所を更新」するより「1 行を追加」する方が正確に扱えます。
+
+5. 有効なプロンプトは手順でなく評価基準を定義する
+例えば「通常のモンスターは 2〜5 秒で倒せる」「各マップの少なくとも 97% に到達できる」「ドロップ率が 3% 未満のアイテムはない」。これらをテストにします。何が良い状態か分かれば、AI はそこへの道筋と達成の判定を見つけられます。
+
+つまり、まず構造とテストに投資し、その後でプロンプトに投資します。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [元の投稿](https://x.com/vibecodingth/status/2082035844836450334) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### 遊べる Chrome Dino ゲームを作る
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="遊べる Chrome Dino ゲームを作る"></a>
+
+**プロンプト**
+
+```text
+遊べる Chrome Dino ゲームを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [元の投稿](https://x.com/unseenmars_/status/2081867025140650236) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### リアルなヘリコプターシューターを作る Kimi K3 プロンプト
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="リアルなヘリコプターシューターを作る Kimi K3 プロンプト"></a>
+
+**プロンプト**
+
+```text
+リアルなヘリコプターシューターを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [元の投稿](https://x.com/Abobsterina/status/2081791572115435765) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### Subway Surfers 風ゲームを作る Kimi K3 プロンプト
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Subway Surfers 風ゲームを作る Kimi K3 プロンプト"></a>
+
+**プロンプト**
+
+```text
+Subway Surfers のゲームを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/subway-surfers-style-game-2081766198082220514) · [元の投稿](https://x.com/Arindam_1729/status/2081766198082220514) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### Counter-Strike 風 Three.js FPS の Claude Opus 5 プロンプト
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Counter-Strike 風 Three.js FPS の Claude Opus 5 プロンプト"></a>
+
+**プロンプト**
+
+```text
+鉄道駅を舞台にした Counter-Strike 風の戦術 FPS。Three.js、単一 HTML ファイル、すべて独自アセット。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [元の投稿](https://x.com/BuildFastWithAI/status/2081607528790856068) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### 無限に紙を送り出す Three.js マシンの Claude Fable 5 プロンプト
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="無限に紙を送り出す Three.js マシンの Claude Fable 5 プロンプト"></a>
+
+**プロンプト**
+
+```text
+一つのプロンプトで、無限に紙を送り出す Three.js マシンを作成してください。Pinterest の静的なコンセプトを、動作する 3D ウェブアプリに変換します。紙が無限に回転しながら、その表面に動的な画像をリアルタイムで印刷し続けるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [元の投稿](https://x.com/RoundtableSpace/status/2081533777340506251) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
+
+### 操作できる 3D ロボットハンドの Claude Opus 5 プロンプト
+
+[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="操作できる 3D ロボットハンドの Claude Opus 5 プロンプト"></a>
+
+**プロンプト**
+
+```text
+9 通りのモデル・推論設定に、同じ一回のプロンプトを与えました。操作できる 3D ロボットハンドシミュレーションを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [元の投稿](https://x.com/ThomasMWWalker/status/2081475055536820506) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="vespa-125-3d-configurator-2081439705506435440"></a>
+
+### 3D コンフィギュレーターに Vespa 125 を追加するプロンプト
+
+[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="3D コンフィギュレーターに Vespa 125 を追加するプロンプト"></a>
+
+**プロンプト**
+
+```text
+私の 3D コンフィギュレーターに、Vespa 125 を最初から最後まで追加してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [元の投稿](https://x.com/rafintheloop/status/2081439705506435440) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
+
+### 超リアルな 3D フライトシミュレーターのプロンプト
+
+[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="超リアルな 3D フライトシミュレーターのプロンプト"></a>
+
+**プロンプト**
+
+```text
+超リアルな 3D フライトシミュレーターを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [元の投稿](https://x.com/noclipepe/status/2081403842256605254) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
+
+### Claude Opus 5 で 3D Minecraft クローンを作るプロンプト
+
+[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="Claude Opus 5 で 3D Minecraft クローンを作るプロンプト"></a>
+
+**プロンプト**
+
+```text
+Claude Opus 5 は、「本格的な 3D Minecraft クローンを作って」というシンプルなプロンプトで、30 分で Minecraft クローンを作りました。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [元の投稿](https://x.com/BuilderGuest/status/2081305039159620085) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="3d-flappy-bird-game-2081260140117045275"></a>
+
+### 3D Flappy Bird ゲームのプロンプト
+
+[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="3D Flappy Bird ゲームのプロンプト"></a>
+
+**プロンプト**
+
+```text
+3D Flappy Bird のゲームを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [元の投稿](https://x.com/SrijibBose/status/2081260140117045275) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
+
+### ベトナムの密林を飛ぶヘリコプターの映画的アニメーション
+
+[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="ベトナムの密林を飛ぶヘリコプターの映画的アニメーション"></a>
+
+**プロンプト**
+
+```text
+戦時下のベトナムの密林を軍用ヘリコプターが飛行する、映画的な 3D アニメーション。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [元の投稿](https://x.com/kirillk_web3/status/2081200833656451322) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
+
+### ジェリージャングル：3Dプラットフォーマー
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · ゲーム
+
+リミックス元: [aditya](https://x.com/adxtyahq)
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="ジェリージャングル：3Dプラットフォーマー"></a>
+
+**プロンプト**
+
+```text
+# Jelly Jungle — 空高く舞う冒険
+
+## 1. 目標
+ピンク色のジェリーにミント色の芽をあしらったキャラクターが、三段ジャンプとバネ付きキノコを使って13の浮遊島を渡る、完成度の高い三人称視点プラットフォーマーを構築します。コース、構図、完成時のビジュアルスタイルには、https://jelly-jungle.tripo.page/と提供されたリファレンスを使用します。これは、https://x.com/adxtyahq/status/2081024333120733188.に投稿されたadityaのJelly Jungleに着想を得た、Jaredによる再構築です。ゲーム内UIはすべて英語のままにします。
+
+## 2. ビジュアル方針
+ミント、セージ、クリーム、ターコイズ、コーラルピンク、ウォームゴールドを使った、柔らかく造形されたトイワールドを作成します。厚みのある草付きの島には丸みを帯びた縁を付け、下面は不規則なウォームグレーの岩にします。垂れ下がるツタ、花、小石、小さなキノコ、ときどき現れる滝、淡い雲の海を加えます。柔らかな影、穏やかなフォグ、控えめな環境反射、呼吸するような動き／スクワッシュ＆ストレッチ、揺れる木々、回転するクリスタルを使用します。岩は着地面より下に配置し、次の着地点に草木がかからないようにします。
+
+デスクトップ幅では、左側35〜40%を、縦に積んだJELLY / JUNGLEタイトルとCTA用に確保します。スタート島は中央右に配置し、コースが右上奥へ続いていく構図にします。透視投影カメラをおよそ (13,20,25) に置き、(-5,1.5,-5) を注視し、垂直FOVは約40°に設定してから、リファレンスに合わせて調整します。390px幅のスマートフォンでは、デスクトップ表示を単に切り取るのではなく、タイトルの上にジェリーと島が収まるようリフレームします。プレイ中は、オフセットおよそ (0,8.8,15.3) の後方から追従し、約5.8ユニット先を見ます。地平線を安定させ、実用的な接地影を維持します。
+
+ローカルのBarlow Condensed風ディスプレイ書体、DM Sans風の操作用書体、フォレストグリーンのボタン、半透明で柔らかく曇ったパネルを使用します。冒頭のコピーは「Born to bounce.」と「Let’s bounce」です。上部にユーティリティボタン、プレイ中はコンパクトなランHUD、その下に3セグメントのジャンプメーター、目立つClassic / Tripo AI比較切り替えを表示します。タッチジョイスティック、Jump、HUD、フッターはそれぞれ独立させます。
+
+## 3. コース
+以下を基準として使用します。前方は負のZ方向、yは着地高度、rは衝突半径です。スタートバナーとウォームゴールドのゴールポータルを追加します。
+
+| 島 | x | z | y | r | タイプ / 名前 |
+| --- | --- | --- | --- | --- | --- |
+| 01 | 0 | 0 | 1.2 | 5.4 | start / First Leap |
+| 02 | 0 | -10 | 1.6 | 3.1 | plain / Easy Does It |
+| 03 | -4 | -19 | 2.0 | 3.1 | spring / Mushroom Launch |
+| 04 | 2 | -29 | 3.2 | 3.6 | spinner / Candy Spinner |
+| 05 | 7 | -39 | 3.8 | 4.0 | checkpoint / Cloud Camp |
+| 06 | 1 | -49 | 4.1 | 3.1 | moving / Wandering Island |
+| 07 | -6 | -59 | 4.7 | 3.2 | spring / Bounce Again |
+| 08 | -1 | -71 | 5.8 | 3.8 | spinner / Double Trouble |
+| 09 | 7 | -82 | 6.5 | 4.0 | checkpoint / Starlight Camp |
+| 10 | 4 | -92 | 7.1 | 3.0 | crumble / Keep Moving |
+| 11 | -3 | -102 | 7.7 | 3.2 | moving / Cloud Crossing |
+| 12 | -7 | -113 | 8.2 | 3.3 | spring / One Last Bounce |
+| 13 | 0 | -127 | 10.0 | 5.0 | finish / Above the Clouds |
+
+## 4. アセット一覧
+以下の3種類の置き換えアセットを、この順番で用意します。
+- `jelly`：丸みのあるキャンディピンクのソフトビニール製キャラクター。小さな腕と足、大きなダークカラーの楕円形の目とハイライト、赤みのある頬、小さな笑顔、ミント色の二つ葉の芽を備えます。顔が見える状態を保ち、高さは約1.65ユニットにします。
+- `mushroom`：コーラルピンクの幅広いドームに、盛り上がったアイボリー色の斑点、クリーム色のひだ、短く太い茎を備えます。すべてのバネに再利用し、十分な広さと安定性のある傘にします。
+- `tree`：湾曲したピーチブラウンの幹、大きく丸みのあるターコイズ／ミント色のヤシの葉、小さなピーチ色の果実の房を備えます。コース全体で再利用します。
+島、雲、ツタ、花、小さな岩、滝の水幕、クリスタル、旗、スピナー、ポータルはプロシージャルに作成します。これらは追加の生成モデル作業ではなく、コースとエフェクトを構成する要素です。各モデルはスケールを変更しないラッパー内に収め、足／幹の底面をローカルy=0に置きます。キノコの傘と衝突面は、見た目だけでなく数値的にも揃えます。両モードで同じコライダーを維持します。
+
+## 5. 物理とフィードバック
+固定の1/120秒ステップ、約22 units/s²の重力、約8.8 units/sの移動速度、反応の良い地上加速、より穏やかな空中操作を使用します。斜め入力は正規化します。WASD／矢印キーで移動し、新たにSpaceを押すとジャンプします。着地するまで、ちょうど3回ジャンプできるようにします。初回の上向き速度は約9.2、空中ジャンプ2回分は約8.5にします。キーを押し続けてもジャンプを繰り返さないようにします。着地すると3回分すべて回復します。バネ付きキノコは約16の速度で打ち上げ、ジャンプ回数を回復し、再トリガーのクールダウンを設けたうえで、圧縮・反発する動きを付けます。
+
+スピナーの回転台は、接地しているプレイヤーを運びます。低い位置で回転するキャンディバーは、垂直方向に重なっている状態でセグメントに接触した場合のみノックバックさせます。ジャンプ中なら乗り越えられるようにします。被弾後は約1.7秒間の無敵時間を付与します。動く島は水平方向に約2.6ユニット振動し、接地中のプレイヤーを変位量に応じて運びます。崩れる島は着地から1.5秒後に揺れて消え、約4秒後に復帰します。非表示の足場には衝突判定を付けません。
+
+05番と09番の島にあるチェックポイントでは、落下後に位置、速度、ジャンプ回数を復元し、取得済みクリスタルを保持したまま落下回数を増やします。Rキーで手動復帰した場合は落下ペナルティを与えません。各島にクリスタルを3個ずつ、合計39個配置します。各クリスタルは1回だけ取得でき、サウンド、パーティクル、HUDでフィードバックを表示します。最終島に到達すると、ちょうど1回だけクリア扱いにします。クリスタルの取得は任意です。時間、クリスタル数、島番号、進行状況を表示し、クリア時には時間、落下回数、スターを表示します。クリスタル30個以上で3つ、18個以上で2つ、それ未満では1つにします。ベストタイムを保存し、リプレイを提供します。体力と戦闘は実装しません。
+
+ポインターキャプチャ対応のタッチジョイスティックと、大きなJumpボタンを用意します。1回のタップで消費できるジャンプは最大1回にします。キャンセルされた入力や押しっぱなしの入力を確実にクリアします。ヘルプとポーズのダイアログ、非表示タブからの復帰、ゲームをブロックしないフィードバック、デフォルトではミュートされた任意利用のWeb Audioを追加します。Restartでは、ラン、収集物、プラットフォームの状態をすべてリセットします。
+
+## 6. 実装
+Vite、Three.js、プレーンなJavaScript／HTML／CSSを使用し、物理／コース、ワールド／アセットレジストリ、フィッティング、入力／UI、オーディオのモジュールを分離します。依存関係、フォント、アセットはローカルにバンドルします。GLTFLoaderで自己完結型モデルを読み込み、差し替える前に有限なバウンディング、表示可能なジオメトリ、埋め込みリソースを検証します。読み込みに失敗した場合は現在のモデルを維持し、古い非同期読み込みを適用せず、置き換えられたリソースを破棄します。必要に応じて、メッシュの整理やピボット補正にBlenderを使っても構いません。
+
+Classicでは3種類のプロシージャルなバリエーションを使用し、インポートモードでは利用可能な置き換えアセットを使用して、実際の状態を報告します。切り替えやインポートを行っても、リロードせずに位置、速度、ジャンプ残数、時間、クリスタル、チェックポイントを維持します。繰り返し使用する静的な背景はインスタンス化またはマージし、DPRは約1.5に制限してエフェクト数も抑えます。実際のカメラでドローコール、トライアングル数、フレーム時間を計測し、遠距離の装飾から優先的に削減します。
+
+## 7. 受け入れ条件
+完全なソース、ロックファイル、正確な開発／ビルドコマンド、静的出力を納品します。3回の新規ジャンプと4回目が発生しないこと、バネの位置合わせ、動く足場による運搬、スイーパーとの接触、崩壊／復帰、チェックポイント、一度だけ取得できるアイテム、ポーズ／リスタート、ゴールを検証します。実際の入力と物理演算を使って13の島をすべてクリアします。テレポートでは到達可能性の証明になりません。キーボードとタッチ、両方のアートモード、各インポート／リセット／失敗経路、状態の保持を確認します。デスクトップ／モバイルの冒頭画面とプレイ画面が安定した状態でリファレンスと比較し、はみ出しや読み込みエラーを確認し、実際のパフォーマンス条件を報告します。以下の共有アセットワークフローに従います。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [元の投稿](https://x.com/adxtyahq/status/2081024333120733188) · [デモ](https://jelly-jungle.tripo.page/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
+
+### 手描きアニメ風の日本の住宅街を探索する Three.js プロンプト
+
+[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="手描きアニメ風の日本の住宅街を探索する Three.js プロンプト"></a>
+
+**プロンプト**
+
+```text
+Three.js で探索できる日本の住宅街を作ってください。すべて 3D にし、手描きアニメの背景のように描画してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [元の投稿](https://x.com/gmi_cloud/status/2080834581247435102) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
 
 ### Kimi K3 で作った Counter-Strike 風ブラウザゲーム

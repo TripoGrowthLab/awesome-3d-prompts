@@ -28,6 +28,20 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Game Rắn và Thang 3D hoàn chỉnh](#playable-3d-snakes-and-ladders-2095050993184669825)
+- [Chân dung biến thành voxel chuyển động](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
+- [Lâu đài Three.js tương tác](#interactive-three-js-castle-2095048818203275584)
+- [NIGHTBAND: radio sóng ngắn tương tác](#nightband-interactive-shortwave-radio-2095026928210346175)
+- [Game tennis Unity hoàn chỉnh](#complete-unity-tennis-game-2095021275236495408)
+- [Đền cổ trên hẻm núi phát sáng](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
+- [Đường chân trời Toronto tương tác](#interactive-toronto-skyline-2095000329561485584)
+- [Mô phỏng đời sống tự chủ kiểu The Sims](#autonomous-sims-like-life-simulation-2094949450196090988)
+- [Làng voxel với NPC biết suy nghĩ](#voxel-village-with-thinking-npcs-2094930970675741171)
+- [Hành trình kỳ ảo lên núi Phú Sĩ](#fantasy-ascent-to-mount-fuji-2094930804296274414)
+- [Game đua xe Godot dựng từ đầu](#godot-racing-game-built-from-scratch-2094925359372284022)
+- [Từ mặt bằng đến video tham quan Blender](#floor-plan-to-blender-walkthrough-2094925117344428232)
+- [Chùa tháp 136.000 voxel sinh xác định](#deterministic-136-000-voxel-pagoda-2094916609219461211)
+- [Robot chi tiết bằng tự động hóa Blender](#detailed-robot-through-blender-automation-2094909825561805003)
 - [Nguyên mẫu game tội phạm thế giới mở](#open-world-crime-game-prototype-2094907986942591338)
 - [Game trình duyệt kiểu Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
 - [Sandbox đại dương góc nhìn thứ nhất dưới mưa](#rainy-first-person-ocean-sandbox-2094900247000654222)
@@ -64,22 +78,295 @@
 - [Prompt Claude Opus 5 cho FPS kiểu CS2 và Battlefield](#cs2-and-battlefield-style-fps-2082241827298557966)
 - [Prompt Claude Opus 5 dựng game bắn súng AAA](#aaa-shooter-game-2082180453889712318)
 - [Game cuộn ngang dark fantasy trong một tệp HTML](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
-- [Quy trình phát triển MMO 3D với Claude Opus 5](#development-workflow-for-a-3d-mmo-2082035844836450334)
-- [Tạo game Chrome Dino chơi được](#make-a-playable-chrome-dino-game-2081867025140650236)
-- [Prompt Kimi K3 cho game trực thăng bắn súng chân thực](#realistic-helicopter-shooter-game-2081791572115435765)
-- [Prompt Kimi K3 cho game kiểu Subway Surfers](#subway-surfers-style-game-2081766198082220514)
-- [Prompt Claude Opus 5 cho FPS Three.js kiểu Counter-Strike](#counter-strike-inspired-three-js-fps-2081607528790856068)
-- [Prompt Claude Fable 5 cho máy giấy Three.js vô tận](#infinite-three-js-paper-machine-2081533777340506251)
-- [Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác](#interactive-3d-robotic-hand-simulation-2081475055536820506)
-- [Prompt thêm Vespa 125 vào bộ cấu hình 3D](#vespa-125-3d-configurator-2081439705506435440)
-- [Prompt mô phỏng bay 3D siêu chân thực](#ultra-realistic-3d-flight-simulator-2081403842256605254)
-- [Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5](#build-a-3d-minecraft-clone-2081305039159620085)
-- [Prompt game Flappy Bird 3D](#3d-flappy-bird-game-2081260140117045275)
-- [Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
-- [Rừng Kẹo Dẻo: Game đi cảnh 3D](#jelly-jungle-3d-browser-game-2081024333120733188)
-- [Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay](#explorable-anime-style-japanese-street-2080834581247435102)
 
 </details>
+<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
+
+### Game Rắn và Thang 3D hoàn chỉnh
+
+[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="Game Rắn và Thang 3D hoàn chỉnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game Rắn và Thang 3D chơi được đầy đủ với hoạt ảnh xúc xắc, di chuyển trên bàn, rắn, thang, lượt chơi, trạng thái thắng và phản hồi rõ ràng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [Bài đăng gốc](https://x.com/karanC_12/status/2095050993184669825) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
+
+### Chân dung biến thành voxel chuyển động
+
+[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="Chân dung biến thành voxel chuyển động"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến chân dung tải lên thành hơn 10.000 voxel 3D tương tác với dịch chuyển theo sóng, shader cyberpunk, instancing hiệu quả và chuyển động theo con trỏ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [Bài đăng gốc](https://x.com/TenthPrime/status/2095048967092625663) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-three-js-castle-2095048818203275584"></a>
+
+### Lâu đài Three.js tương tác
+
+[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="Lâu đài Three.js tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lâu đài 3D tương tác trên Three.js với phòng khám phá được, tháp, cổng, địa hình, ánh sáng giàu không khí và điều khiển mượt trên máy tính lẫn di động.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-castle-2095048818203275584) · [Bài đăng gốc](https://x.com/debugsenpai/status/2095048818203275584) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
+
+### NIGHTBAND: radio sóng ngắn tương tác
+
+[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="NIGHTBAND: radio sóng ngắn tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo website ấn tượng nhất bạn có thể làm trong một tệp HTML độc lập. Bạn có toàn quyền sáng tạo. Mục tiêu là thể hiện trí thông minh, sức sáng tạo, năng lực kỹ thuật và sự độc đáo của bạn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [Bài đăng gốc](https://x.com/NeoAIForecast/status/2095026928210346175) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="complete-unity-tennis-game-2095021275236495408"></a>
+
+### Game tennis Unity hoàn chỉnh
+
+[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="Game tennis Unity hoàn chỉnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Hoàn thiện game tennis Unity chơi được với nhân vật dựng trong Blender, điều khiển đáng tin cậy, hoạt ảnh di chuyển và vung vợt, vật lý bóng, tính điểm, đối thủ và diễn tiến trận đấu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [Bài đăng gốc](https://x.com/chongdashu/status/2095021275236495408) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
+
+### Đền cổ trên hẻm núi phát sáng
+
+[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="Đền cổ trên hẻm núi phát sáng"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo cảnh Three.js thủ tục với đền cổ lơ lửng trên hẻm núi phát sáng lúc chạng vạng, có vải bay trong gió, tia sáng thể tích, sét và chuyển động tiến đến mang chất điện ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [Bài đăng gốc](https://x.com/pradeepXkapoor/status/2095012880383099339) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-toronto-skyline-2095000329561485584"></a>
+
+### Đường chân trời Toronto tương tác
+
+[Kevin](https://x.com/bienjamyn) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-toronto-skyline-2095000329561485584"><img src="../assets/previews/bef311e9c34b21d4ea7564dcb333b455bcf9e6d3639b42a775a16f0129f5f8b8.webp" width="840" loading="lazy" alt="Đường chân trời Toronto tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng đường chân trời Toronto 3D tương tác với địa danh dễ nhận biết, nước, chiều sâu không khí, ánh sáng ngày đêm và điều khiển xoay, bay qua mượt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-toronto-skyline-2095000329561485584) · [Bài đăng gốc](https://x.com/bienjamyn/status/2095000329561485584) · [Bản demo](https://toronto-voxel.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="autonomous-sims-like-life-simulation-2094949450196090988"></a>
+
+### Mô phỏng đời sống tự chủ kiểu The Sims
+
+[Ridark](https://x.com/ridark_eth) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988"><img src="../assets/previews/75063ba9f199aff5faed7420ab575b306bd749b3559de8f878632df397ccb858.webp" width="840" loading="lazy" alt="Mô phỏng đời sống tự chủ kiểu The Sims"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng mô phỏng đời sống kiểu The Sims với năm nhân vật tự chủ; nhu cầu, thói quen, quan hệ và quyết định của họ tạo ra câu chuyện mà không cần người chơi liên tục chỉ đạo.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988) · [Bài đăng gốc](https://x.com/ridark_eth/status/2094949450196090988) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="voxel-village-with-thinking-npcs-2094930970675741171"></a>
+
+### Làng voxel với NPC biết suy nghĩ
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171"><img src="../assets/previews/974d4c7d84097af10f8cd20d5d3c871e5bab197d946f589feca62acd4faa8455.webp" width="840" loading="lazy" alt="Làng voxel với NPC biết suy nghĩ"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng làng voxel nơi cư dân có nghề, lịch sinh hoạt, trí nhớ và bộ não mô hình ngôn ngữ cục bộ để phản ứng với người chơi và với nhau.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171) · [Bài đăng gốc](https://x.com/Tech2Wild/status/2094930970675741171) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="fantasy-ascent-to-mount-fuji-2094930804296274414"></a>
+
+### Hành trình kỳ ảo lên núi Phú Sĩ
+
+[Techartist](https://x.com/techartist_) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414"><img src="../assets/previews/5a0525135a25d7094cac3c8a1632a12b7147aaf4d967d86191b0aab848dfc692.webp" width="840" loading="lazy" alt="Hành trình kỳ ảo lên núi Phú Sĩ"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo hành trình kỳ ảo đẹp mắt trên Three.js dẫn người chơi qua các lớp môi trường đến đỉnh núi Phú Sĩ, với ánh sáng giàu không khí, di chuyển và cảm giác đi lên rõ rệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414) · [Bài đăng gốc](https://x.com/techartist_/status/2094930804296274414) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="godot-racing-game-built-from-scratch-2094925359372284022"></a>
+
+### Game đua xe Godot dựng từ đầu
+
+[atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022"><img src="../assets/previews/fb70f118a60a87d8b99b4707a1a06a1bf825bdf6efe4722966e954adfde6bf5f.webp" width="840" loading="lazy" alt="Game đua xe Godot dựng từ đầu"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game đua xe Godot từ đầu, dùng Blender tạo xe và môi trường, triển khai đường đua lớn, cảm giác lái thỏa mãn, đối thủ, HUD và tiến trình cuộc đua.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022) · [Bài đăng gốc](https://x.com/atomic_chat_hq/status/2094925359372284022) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="floor-plan-to-blender-walkthrough-2094925117344428232"></a>
+
+### Từ mặt bằng đến video tham quan Blender
+
+[AGIラボ](https://x.com/ctgptlb) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232"><img src="../assets/previews/378a03d3cd1c95f97f8e0d77b92491a424ae3aef5055dbd9aecf23abf408dc95.webp" width="840" loading="lazy" alt="Từ mặt bằng đến video tham quan Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng mặt bằng được cung cấp để tạo mô hình Blender 3D chính xác, render một bộ ảnh đại diện và dựng video tham quan liền mạch.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232) · [Bài đăng gốc](https://x.com/ctgptlb/status/2094925117344428232) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="deterministic-136-000-voxel-pagoda-2094916609219461211"></a>
+
+### Chùa tháp 136.000 voxel sinh xác định
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211"><img src="../assets/previews/5f6a8e2c47e18b32228a30647a33403b7a981de34409e709fb3db9f971cd8fe7.webp" width="840" loading="lazy" alt="Chùa tháp 136.000 voxel sinh xác định"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Sinh chùa tháp gồm 136.000 voxel có tính xác định trong Three.js, với lớp kiến trúc dễ đọc, instancing hiệu quả, đầu ra ổn định và camera quan sát.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2094916609219461211) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="detailed-robot-through-blender-automation-2094909825561805003"></a>
+
+### Robot chi tiết bằng tự động hóa Blender
+
+[Spectro](https://x.com/Spectromachina) · 2026-09-01 · Claude Fable 5.1 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003"><img src="../assets/previews/cc82b31325f194335c6a876aa83404dd10829652fc0cf8dc42009018a57acf0c.webp" width="840" loading="lazy" alt="Robot chi tiết bằng tự động hóa Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng robot hard-surface chi tiết trong Blender với tỷ lệ nhất quán, khớp, panel, vật liệu, ánh sáng và bản render giới thiệu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Bài đăng gốc](https://x.com/Spectromachina/status/2094909825561805003) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="open-world-crime-game-prototype-2094907986942591338"></a>
 
 ### Nguyên mẫu game tội phạm thế giới mở
@@ -848,375 +1135,6 @@ Trong một tệp HTML, tạo game cuộn ngang dark fantasy chơi được.
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Bài đăng gốc](https://x.com/slash1sol/status/2082096376763060575) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
-
-### Quy trình phát triển MMO 3D với Claude Opus 5
-
-[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Quy trình phát triển MMO 3D với Claude Opus 5"></a>
-
-**Prompt**
-
-```text
-Gần như toàn bộ mã được viết bằng Claude Opus 5.
-
-Nhưng thứ giúp dự án tiến qua hàng nghìn vòng lặp không phải prompt thông minh. Đó là tổ chức dự án để AI tìm đúng thứ cần mà không đọc toàn bộ codebase.
-
-1. Đặt hướng dẫn cạnh mã, không gom thành một đống trung tâm
-   Mỗi thư mục có hướng dẫn riêng về quy trình thường gặp và các bẫy đã phát hiện. Hướng dẫn tự tải khi phiên làm việc bắt đầu trong thư mục đó. Làm quái vật không phải trả chi phí ngữ cảnh cho hướng dẫn bản đồ. Ngữ cảnh cần trước mỗi tác vụ giảm từ khoảng 76.000 token xuống 10.000.
-
-2. Buộc tuân thủ bằng công cụ, không dựa vào kỷ luật
-   Tôi nhờ nó viết script làm build thất bại khi phát hiện import vòng hoặc màu viết trực tiếp tại nơi dùng thay vì định nghĩa tập trung. Đừng hy vọng AI nhớ mọi quy tắc; chặn commit đáng tin hơn nhiều.
-
-3. Để TypeScript làm người nhắc việc
-   Thêm kỹ năng mà thiếu hiệu ứng thì dự án không biên dịch. Thêm quái vật mà thiếu mô hình thì cũng không biên dịch. Không thể quên vì hệ kiểu không cho phép.
-
-4. Để nội dung vận hành bằng dữ liệu
-   Thêm quái vật, kỹ năng hoặc vật phẩm chỉ nên là thêm một hàng, không sửa cả hệ thống. AI xử lý “thêm một hàng” chính xác hơn nhiều so với “cập nhật năm nơi phải đồng bộ”.
-
-5. Prompt hiệu quả đặt tiêu chí đánh giá, không chỉ quy trình
-   Ví dụ: “quái thường phải chết trong 2 đến 5 giây”, “ít nhất 97% mỗi bản đồ phải tiếp cận được”, “không vật phẩm nào có tỷ lệ rơi dưới 3%”. Sau đó mã hóa tiêu chí thành test. Khi biết thế nào là tốt, AI có thể tìm đường và xác định mình đã thành công chưa.
-
-Tóm lại: đầu tư cấu trúc và test trước, rồi mới đầu tư prompt.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
-
-แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
-มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
-
-1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
-   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
-   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
-   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
-   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
-
-2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
-   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
-   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
-   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
-
-3. ให้ TypeScript เป็นคนเตือน
-   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
-   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
-   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
-
-4. ทำ content ให้เป็นตาราง
-   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
-   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
-
-5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
-   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
-   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
-   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
-   แล้วเขียนพวกนี้เป็นเทสไว้
-   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
-
-สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
-
-ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [Bài đăng gốc](https://x.com/vibecodingth/status/2082035844836450334) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
-
-### Tạo game Chrome Dino chơi được
-
-[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="Tạo game Chrome Dino chơi được"></a>
-
-**Prompt**
-
-```text
-tạo game Chrome-dino chơi được.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [Bài đăng gốc](https://x.com/unseenmars_/status/2081867025140650236) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
-
-### Prompt Kimi K3 cho game trực thăng bắn súng chân thực
-
-[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho game trực thăng bắn súng chân thực"></a>
-
-**Prompt**
-
-```text
-Làm cho tôi game trực thăng bắn súng chân thực.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [Bài đăng gốc](https://x.com/Abobsterina/status/2081791572115435765) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="subway-surfers-style-game-2081766198082220514"></a>
-
-### Prompt Kimi K3 cho game kiểu Subway Surfers
-
-[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho game kiểu Subway Surfers"></a>
-
-**Prompt**
-
-```text
-dựng game Subway Surfers
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/subway-surfers-style-game-2081766198082220514) · [Bài đăng gốc](https://x.com/Arindam_1729/status/2081766198082220514) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
-
-### Prompt Claude Opus 5 cho FPS Three.js kiểu Counter-Strike
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 cho FPS Three.js kiểu Counter-Strike"></a>
-
-**Prompt**
-
-```text
-FPS chiến thuật lấy cảm hứng counter-strike trong ga tàu. three.js, một tệp HTML, mọi asset nguyên bản.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [Bài đăng gốc](https://x.com/BuildFastWithAI/status/2081607528790856068) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
-
-### Prompt Claude Fable 5 cho máy giấy Three.js vô tận
-
-[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Prompt Claude Fable 5 cho máy giấy Three.js vô tận"></a>
-
-**Prompt**
-
-```text
-Dựng máy giấy Three.js vô tận bằng một prompt. Biến ý tưởng Pinterest tĩnh thành ứng dụng web 3D hoạt động được. Ứng dụng phải render dải giấy cuộn vô tận đồng thời liên tục in ảnh động lên bề mặt theo thời gian thực.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Bài đăng gốc](https://x.com/RoundtableSpace/status/2081533777340506251) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
-
-### Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác
-
-[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác"></a>
-
-**Prompt**
-
-```text
-Tôi giao cho 9 cấu hình mô hình/suy luận cùng một prompt một lượt: dựng mô phỏng bàn tay robot 3D tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [Bài đăng gốc](https://x.com/ThomasMWWalker/status/2081475055536820506) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="vespa-125-3d-configurator-2081439705506435440"></a>
-
-### Prompt thêm Vespa 125 vào bộ cấu hình 3D
-
-[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="Prompt thêm Vespa 125 vào bộ cấu hình 3D"></a>
-
-**Prompt**
-
-```text
-Thêm Vespa 125 vào bộ cấu hình 3D của tôi, từ đầu đến cuối.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [Bài đăng gốc](https://x.com/rafintheloop/status/2081439705506435440) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
-
-### Prompt mô phỏng bay 3D siêu chân thực
-
-[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="Prompt mô phỏng bay 3D siêu chân thực"></a>
-
-**Prompt**
-
-```text
-Dựng mô phỏng bay 3D siêu chân thực.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [Bài đăng gốc](https://x.com/noclipepe/status/2081403842256605254) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
-
-### Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5
-
-[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5"></a>
-
-**Prompt**
-
-```text
-CLAUDE OPUS 5 dựng bản sao minecraft trong 30 phút bằng prompt đơn giản: “Tạo bản sao minecraft 3D đầy đủ”
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [Bài đăng gốc](https://x.com/BuilderGuest/status/2081305039159620085) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="3d-flappy-bird-game-2081260140117045275"></a>
-
-### Prompt game Flappy Bird 3D
-
-[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="Prompt game Flappy Bird 3D"></a>
-
-**Prompt**
-
-```text
-Dựng game Flappy Bird 3D.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [Bài đăng gốc](https://x.com/SrijibBose/status/2081260140117045275) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
-
-### Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam
-
-[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam"></a>
-
-**Prompt**
-
-```text
-Hoạt ảnh 3D điện ảnh về trực thăng quân đội bay qua rừng Việt Nam trong chiến tranh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Bài đăng gốc](https://x.com/kirillk_web3/status/2081200833656451322) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
-
-### Rừng Kẹo Dẻo: Game đi cảnh 3D
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · Trò chơi
-
-Phỏng theo: [aditya](https://x.com/adxtyahq)
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="Rừng Kẹo Dẻo: Game đi cảnh 3D"></a>
-
-**Prompt**
-
-```text
-# Jelly Jungle — Cuộc phiêu lưu trên trời cao
-
-## 1. Mục tiêu
-Xây dựng một game platformer góc nhìn người thứ ba hoàn chỉnh, trong đó một nhân vật thạch dẻo màu hồng với mầm bạc hà băng qua 13 hòn đảo bay bằng cú nhảy ba lần và nấm lò xo. Sử dụng https://jelly-jungle.tripo.page/ cùng các tài liệu tham chiếu được cung cấp cho đường đi, bố cục và phong cách hình ảnh hoàn thiện. Đây là bản tái dựng của Jared, lấy cảm hứng từ bài đăng Jelly Jungle của aditya tại https://x.com/adxtyahq/status/2081024333120733188. Toàn bộ giao diện game vẫn dùng tiếng Anh.
-
-## 2. Định hướng hình ảnh
-Tạo một thế giới đồ chơi được điêu khắc mềm mại với các màu bạc hà, xanh xô thơm, kem, xanh ngọc lam, hồng san hô và vàng ấm. Dùng các hòn đảo phủ cỏ dày, mép bo tròn, mặt dưới bằng đá xám ấm có hình dạng bất quy tắc, dây leo rủ, hoa, sỏi, nấm nhỏ, thác nước rải rác và biển mây nhạt màu. Thêm bóng mềm, sương nhẹ, phản chiếu môi trường tinh tế, hiệu ứng phập phồng/co giãn, cây đung đưa và tinh thể xoay. Giữ đá nằm dưới mặt phẳng tiếp đất và tán lá không chắn vị trí tiếp đất tiếp theo.
-
-Ở độ rộng màn hình desktop, dành 35–40% bên trái cho tiêu đề JELLY / JUNGLE xếp dọc và CTA; đặt hòn đảo xuất phát ở trung tâm lệch phải, với đường đi thu dần về phía trên bên phải. Dùng camera phối cảnh ở gần (13,20,25), hướng tới (-5,1.5,-5), FOV dọc khoảng 40°, sau đó tinh chỉnh theo tài liệu tham chiếu. Trên điện thoại 390px, bố cục lại để nhân vật thạch dẻo và hòn đảo nằm phía trên tiêu đề thay vì cắt từ khung desktop. Khi chơi, camera bám theo phía sau với độ lệch gần (0,8.8,15.3), nhìn về phía trước khoảng 5.8 đơn vị. Giữ đường chân trời ổn định và bóng đổ trên mặt đất đủ rõ để định hướng.
-
-Dùng kiểu chữ hiển thị phong cách Barlow Condensed cục bộ, các điều khiển phong cách DM Sans, nút màu xanh rừng và panel phủ mờ nhẹ. Nội dung mở đầu: “Born to bounce.” và “Let’s bounce”. Hiển thị các nút tiện ích ở phía trên, HUD lượt chơi nhỏ gọn trong lúc chơi, thanh đo cú nhảy gồm ba đoạn ở bên dưới và một công tắc chuyển đổi Classic / Tripo AI nổi bật. Joystick cảm ứng, Jump, HUD và chân trang phải luôn tách biệt.
-
-## 3. Đường đi
-Dùng thông số cơ sở sau. Hướng tiến là Z âm; y là độ cao tiếp đất và r là bán kính va chạm. Thêm banner xuất phát và cổng đích màu vàng ấm.
-
-| Đảo | x | z | y | r | Loại / tên |
-| --- | --- | --- | --- | --- | --- |
-| 01 | 0 | 0 | 1.2 | 5.4 | xuất phát / First Leap |
-| 02 | 0 | -10 | 1.6 | 3.1 | thường / Easy Does It |
-| 03 | -4 | -19 | 2.0 | 3.1 | lò xo / Mushroom Launch |
-| 04 | 2 | -29 | 3.2 | 3.6 | xoay / Candy Spinner |
-| 05 | 7 | -39 | 3.8 | 4.0 | checkpoint / Cloud Camp |
-| 06 | 1 | -49 | 4.1 | 3.1 | di động / Wandering Island |
-| 07 | -6 | -59 | 4.7 | 3.2 | lò xo / Bounce Again |
-| 08 | -1 | -71 | 5.8 | 3.8 | xoay / Double Trouble |
-| 09 | 7 | -82 | 6.5 | 4.0 | checkpoint / Starlight Camp |
-| 10 | 4 | -92 | 7.1 | 3.0 | sụp đổ / Keep Moving |
-| 11 | -3 | -102 | 7.7 | 3.2 | di động / Cloud Crossing |
-| 12 | -7 | -113 | 8.2 | 3.3 | lò xo / One Last Bounce |
-| 13 | 0 | -127 | 10.0 | 5.0 | đích / Above the Clouds |
-
-## 4. Danh mục tài sản
-Chuẩn bị ba nhóm tài sản thay thế theo thứ tự:
-- `jelly`: nhân vật vinyl mềm màu hồng kẹo, tay/chân nhỏ, đôi mắt bầu dục lớn màu tối có điểm sáng, má ửng hồng, nụ cười nhỏ và mầm hai lá màu bạc hà; giữ khuôn mặt luôn nhìn thấy và chiều cao gần 1.65 đơn vị.
-- `mushroom`: cây nấm dạng vòm rộng màu hồng san hô, các đốm màu ngà nổi lên, mang nấm màu kem và thân ngắn dày; dùng lại cho mọi lò xo, với mũ nấm rộng và ổn định.
-- `tree`: thân cây cong màu nâu đào, tán lá cọ tròn quá khổ màu xanh ngọc lam/bạc hà và các cụm quả đào nhỏ; dùng lại trên toàn bộ đường đi.
-Giữ đảo, mây, dây leo, hoa, đá nhỏ, màn thác nước, tinh thể, cờ, vật xoay và cổng ở dạng tạo bằng thủ tục. Đây là các thành phần định hình đường đi và hiệu ứng, không phải những tác vụ tạo mô hình bổ sung. Đặt từng mô hình trong một wrapper không scale; chân/gốc thân cây ở y=0 cục bộ. Căn chỉnh mũ nấm và bề mặt va chạm bằng số liệu cũng như bằng mắt. Giữ nguyên các collider ở cả hai chế độ.
-
-## 5. Vật lý và phản hồi
-Dùng bước thời gian cố định 1/120 giây, trọng lực gần 22 đơn vị/s², tốc độ di chuyển gần 8.8 đơn vị/s, gia tốc trên mặt đất phản hồi nhanh và điều hướng trên không nhẹ hơn. Chuẩn hóa thao tác chéo. WASD/phím mũi tên dùng để di chuyển; mỗi lần nhấn Space mới sẽ thực hiện một cú nhảy. Cho phép chính xác ba cú nhảy trước khi tiếp đất: vận tốc hướng lên ban đầu khoảng 9.2 và hai cú nhảy trên không khoảng 8.5. Giữ phím không được lặp lại cú nhảy. Khi tiếp đất, nạp lại cả ba cú nhảy. Nấm lò xo phóng nhân vật lên với tốc độ khoảng 16, nạp lại số cú nhảy và nén/bật lại với thời gian hồi để tránh kích hoạt liên tiếp.
-
-Bệ xoay đưa người chơi đang chạm đất đi theo; các thanh kẹo xoay thấp chỉ hất lùi khi chạm vào đoạn thanh và có phần chồng lấn theo phương dọc. Nhảy sẽ vượt qua chúng. Cho khoảng 1.7 giây miễn nhiễm sau khi bị đánh trúng. Các đảo di động dao động theo phương ngang khoảng 2.6 đơn vị và đưa người chơi đang chạm đất đi theo độ dịch chuyển của chúng. Đảo sụp đổ rung lên, biến mất 1.5 giây sau khi tiếp đất và khôi phục sau khoảng 4 giây; nền ẩn không có va chạm.
-
-Checkpoint trên đảo 05 và 09 khôi phục vị trí, vận tốc và số cú nhảy sau khi rơi, đồng thời giữ lại các tinh thể đã nhặt và tăng số lần rơi. R cho phép quay lại thủ công mà không bị phạt lần rơi. Đặt ba tinh thể trên mỗi đảo, tổng cộng 39 tinh thể; mỗi tinh thể chỉ được nhặt một lần, kèm âm thanh, hạt hiệu ứng và phản hồi HUD. Đến đảo cuối sẽ hoàn thành màn chơi đúng một lần; tinh thể là tùy chọn. Hiển thị thời gian, tinh thể, đảo và tiến trình; khi hoàn thành, hiển thị thời gian, số lần rơi và số sao: ba sao khi có ≥30 tinh thể, hai sao khi có ≥18, nếu không thì một sao. Lưu thành tích thời gian tốt nhất và cung cấp tùy chọn chơi lại. Không có máu hay chiến đấu.
-
-Cung cấp joystick cảm ứng có bắt giữ con trỏ và một nút Jump lớn; mỗi lần chạm chỉ tiêu thụ tối đa một cú nhảy. Xóa thao tác bị hủy hoặc đang bị giữ. Thêm hộp thoại trợ giúp và tạm dừng, cơ chế khôi phục khi chuyển tab, phản hồi không chặn luồng và Web Audio tùy chọn, mặc định tắt tiếng. Restart đặt lại toàn bộ trạng thái lượt chơi, vật phẩm nhặt được và nền tảng.
-
-## 6. Triển khai
-Sử dụng Vite, Three.js và JavaScript/HTML/CSS thuần, với các module riêng cho vật lý/đường đi, registry thế giới/tài sản, fitting, input/UI và âm thanh. Đóng gói dependency, font và tài sản cục bộ. GLTFLoader nhập các mô hình tự chứa; xác thực bounding box hữu hạn, hình học hiển thị được và tài nguyên nhúng trước khi thay thế. Khi lỗi, giữ mô hình hiện tại, ngăn các lần tải bất đồng bộ cũ ghi đè và giải phóng tài nguyên đã bị thay thế. Blender là tùy chọn để dọn mesh hoặc chỉnh pivot nếu cần.
-
-Classic sử dụng ba biến thể tạo bằng thủ tục; chế độ nhập dùng các tài sản thay thế hiện có và báo cáo đúng trạng thái thực tế của chúng. Khi chuyển chế độ hoặc nhập tài sản, giữ nguyên vị trí, vận tốc, số lần nhảy, thời gian, tinh thể và checkpoint mà không tải lại. Instance hoặc gộp cảnh tĩnh lặp lại, giới hạn DPR gần 1.5 và giới hạn số lượng hiệu ứng. Đo số draw call, số tam giác và thời gian mỗi frame bằng camera thực tế; trước tiên hãy giảm các chi tiết trang trí ở xa.
-
-## 7. Tiêu chí nghiệm thu
-Bàn giao đầy đủ mã nguồn, lockfile, chính xác các lệnh phát triển/build và output tĩnh. Xác minh ba cú nhảy mới liên tiếp và không có cú thứ tư, căn chỉnh lò xo, khả năng nền di động đưa người chơi đi theo, va chạm với thanh quét, sụp đổ/khôi phục, checkpoint, vật phẩm chỉ nhặt một lần, tạm dừng/khởi động lại và hoàn thành. Hoàn thành cả 13 đảo bằng input và vật lý thực tế; dịch chuyển tức thời không chứng minh được khả năng vượt qua. Kiểm tra bàn phím và cảm ứng, cả hai chế độ hình ảnh, từng luồng nhập/đặt lại/lỗi và khả năng giữ trạng thái. So sánh khung hình mở đầu và lúc chơi đã ổn định trên desktop/di động, kiểm tra lỗi tràn và lỗi tải, đồng thời báo cáo điều kiện hiệu năng thực tế. Tuân theo quy trình tài sản dùng chung bên dưới.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [Bài đăng gốc](https://x.com/adxtyahq/status/2081024333120733188) · [Bản demo](https://jelly-jungle.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
-
-### Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay
-
-[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay"></a>
-
-**Prompt**
-
-```text
-dựng phố ngoại ô Nhật Bản có thể khám phá trong Three.js, hoàn toàn 3D, render như phông nền anime vẽ tay
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Bài đăng gốc](https://x.com/gmi_cloud/status/2080834581247435102) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

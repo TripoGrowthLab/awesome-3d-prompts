@@ -6,6 +6,10 @@
 
 Check each project’s own license before reuse. All source-linked entries are included, independent of the home page selection.
 
+## [WinterArc21/Battle-of-Austerlitz-Film](https://github.com/WinterArc21/Battle-of-Austerlitz-Film)
+
+- [Cinematic Battle of Austerlitz Film](../docs/catalog.en.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125)
+
 ## [achimala/dream-loop](https://github.com/achimala/dream-loop)
 
 - [Isometric fantasy graphics demo](../docs/catalog.en.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc)
@@ -20,11 +24,11 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [bubblik525/head](https://github.com/bubblik525/head)
 
-- [Interactive 3D atlas of the human head and brain](../docs/catalog.en.2.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik)
+- [Interactive 3D atlas of the human head and brain](../docs/catalog.en.3.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik)
 
 ## [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)
 
-- [Mosswing: Mobile 3D Tap-to-Flap Game](../docs/catalog.en.2.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337)
+- [Mosswing: Mobile 3D Tap-to-Flap Game](../docs/catalog.en.3.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337)
 
 ## [bubblik525/collider](https://github.com/bubblik525/collider)
 
@@ -48,8 +52,8 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [alesha-pro/bench-portal](https://github.com/alesha-pro/bench-portal)
 
-- [Cathedral hack-and-slash arena](../docs/catalog.en.5.md#cathedral-hack-and-slash-arena-2095988972879335792) · [Alexey Fateev](https://x.com/superalesha)
-- [Anti-gravity combat racer](../docs/catalog.en.5.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha)
+- [Cathedral hack-and-slash arena](../docs/catalog.en.6.md#cathedral-hack-and-slash-arena-2095988972879335792) · [Alexey Fateev](https://x.com/superalesha)
+- [Anti-gravity combat racer](../docs/catalog.en.6.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha)
 - [AAA horde shooter with WebGL shaders](../docs/catalog.en.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha)
 
 ## [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep)

@@ -28,6 +28,20 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Từ mô tả đến thành phố Unity có thể khám phá](#text-to-explorable-unity-city-2095623452678144366)
+- [Nhà máy bi Three.js](#three-js-marble-factory-2095622065390772322)
+- [Studio mockup sản phẩm 3D chân thực](#photoreal-3d-product-mockup-studio-2095619319690400253)
+- [Tiền kỳ quay phim bảo tàng bằng 3D](#3d-museum-cinematography-previsualization-2095616529572503593)
+- [Từ tin Zillow đến phim bất động sản 3D](#zillow-listing-to-3d-property-film-2095612137582526615)
+- [Dựng Manhattan trong Unreal Engine, từng con phố một](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
+- [Tạo game 3D bằng giọng nói cho người mới](#voice-directed-3d-game-for-beginners-2095608358086840647)
+- [Game 3D trên trình duyệt từ một yêu cầu](#one-shot-browser-3d-game-2095599934766764338)
+- [Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa](#house-photo-to-editable-blender-world-2095598645190291775)
+- [FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
+- [Thành phố Unity có thể khám phá từ thư viện asset](#asset-driven-explorable-unity-city-2095597640587374887)
+- [Nguyên mẫu tương tác cao cấp trong một lượt](#one-shot-premium-interactive-prototype-2095597560253862065)
+- [Thế giới kiểu Minecraft từ một yêu cầu](#one-shot-minecraft-style-world-2095597137849446688)
+- [Phiêu lưu thế giới mở trên trình duyệt](#open-world-browser-adventure-2095596341422440714)
 - [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Căn cứ Arcadia trên sao Hỏa](#arcadia-base-on-mars-2095595678214873212)
 - [Ba game đua kart theo chủ đề từ một bản greybox](#three-themed-kart-games-from-one-greybox-2095580402505400369)
@@ -64,22 +78,290 @@
 - [Mecha Three.js lấy cảm hứng MS-06](#three-js-ms-06-inspired-mecha-2095085944391270759)
 - [Vũ trụ sống trong một tệp HTML](#living-universe-in-one-html-file-2095054116372508955)
 - [Game souls-like C++ gốc](#native-c-souls-like-game-2095053114600755576)
-- [Game Rắn và Thang 3D hoàn chỉnh](#playable-3d-snakes-and-ladders-2095050993184669825)
-- [Chân dung biến thành voxel chuyển động](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
-- [Lâu đài Three.js tương tác](#interactive-three-js-castle-2095048818203275584)
-- [NIGHTBAND: radio sóng ngắn tương tác](#nightband-interactive-shortwave-radio-2095026928210346175)
-- [Game tennis Unity hoàn chỉnh](#complete-unity-tennis-game-2095021275236495408)
-- [Đền cổ trên hẻm núi phát sáng](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
-- [Đường chân trời Toronto tương tác](#interactive-toronto-skyline-2095000329561485584)
-- [Mô phỏng đời sống tự chủ kiểu The Sims](#autonomous-sims-like-life-simulation-2094949450196090988)
-- [Làng voxel với NPC biết suy nghĩ](#voxel-village-with-thinking-npcs-2094930970675741171)
-- [Hành trình kỳ ảo lên núi Phú Sĩ](#fantasy-ascent-to-mount-fuji-2094930804296274414)
-- [Game đua xe Godot dựng từ đầu](#godot-racing-game-built-from-scratch-2094925359372284022)
-- [Từ mặt bằng đến video tham quan Blender](#floor-plan-to-blender-walkthrough-2094925117344428232)
-- [Chùa tháp 136.000 voxel sinh xác định](#deterministic-136-000-voxel-pagoda-2094916609219461211)
-- [Robot chi tiết bằng tự động hóa Blender](#detailed-robot-through-blender-automation-2094909825561805003)
 
 </details>
+<a id="text-to-explorable-unity-city-2095623452678144366"></a>
+
+### Từ mô tả đến thành phố Unity có thể khám phá
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Từ mô tả đến thành phố Unity có thể khám phá"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến ý tưởng thành phố được cung cấp thành môi trường Unity có nhà cao tầng, đường sá, xe cộ, cây cọ và ánh sáng giàu không khí. Thiết lập tỷ lệ hợp lý, điều hướng, chuyển động giao thông và camera góc nhìn thứ nhất mượt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Bài đăng gốc](https://x.com/0x0SojalSec/status/2095623452678144366) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="three-js-marble-factory-2095622065390772322"></a>
+
+### Nhà máy bi Three.js
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Nhà máy bi Three.js"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo mô phỏng nhà máy bi Three.js với quy trình sản xuất dễ hiểu, bi và máy móc chuyển động. Cho người xem theo dõi viên bi qua từng công đoạn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-js-marble-factory-2095622065390772322) · [Bài đăng gốc](https://x.com/JohnKlerAI/status/2095622065390772322) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
+
+### Studio mockup sản phẩm 3D chân thực
+
+[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="Studio mockup sản phẩm 3D chân thực"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo công cụ trình duyệt đặt hình ảnh tải lên lên mockup sản phẩm 3D chân thực. Hỗ trợ xoay camera, chỉnh vật liệu và màu, ánh sáng môi trường, nhiều sản phẩm và xuất ảnh độ phân giải cao.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Bài đăng gốc](https://x.com/joshmillgate/status/2095619319690400253) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
+
+### Tiền kỳ quay phim bảo tàng bằng 3D
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="Tiền kỳ quay phim bảo tàng bằng 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng bản tiền kỳ 3D bảo tàng thể hiện địa điểm, vị trí diễn viên, bố trí camera và danh sách cảnh quay. Giữ mọi thiết lập trong khung nhìn vật lý, rồi xuất hướng dẫn nhất quán cho bước tạo video sau đó.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095616529572503593) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
+
+### Từ tin Zillow đến phim bất động sản 3D
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Từ tin Zillow đến phim bất động sản 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
+
+**Prompt**
+
+```text
+Dùng tin đăng bất động sản và toàn bộ ảnh đi kèm để dựng lại ngôi nhà trong 3D, suy ra mặt bằng nhất quán rồi tạo video tham quan quảng bá chỉn chu. Đánh dấu phần hình học chưa chắc chắn và sửa sai lệch sau bản đầu tiên.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Bài đăng gốc](https://x.com/realYunfanYe/status/2095612137582526615) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
+
+### Dựng Manhattan trong Unreal Engine, từng con phố một
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Dựng Manhattan trong Unreal Engine, từng con phố một"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng một Manhattan có thể khám phá trong Unreal Engine. Làm lần lượt từng quận, từng con phố, giữ tỷ lệ dễ nhận biết, bố cục đường sá, địa danh, giao thông và đặc trưng khu phố. Duy trì danh sách tiêu chí đánh giá và hoàn thiện từng khu vực trước khi chuyển sang nơi tiếp theo.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095609734845927525) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
+
+### Tạo game 3D bằng giọng nói cho người mới
+
+[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="Tạo game 3D bằng giọng nói cho người mới"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Hãy làm người xây dựng game 3D cho tôi. Chỉ hỏi thêm về mục tiêu người chơi, định hướng hình ảnh và điều khiển còn thiếu, sau đó tạo game trình duyệt có thể chơi ngay và tiếp tục chỉnh sửa theo các chỉ dẫn giọng nói ngắn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Bài đăng gốc](https://x.com/EHuanglu/status/2095608358086840647) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="one-shot-browser-3d-game-2095599934766764338"></a>
+
+### Game 3D trên trình duyệt từ một yêu cầu
+
+[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="Game 3D trên trình duyệt từ một yêu cầu"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một game 3D hoàn chỉnh chạy trên trình duyệt trong một dự án độc lập. Có mục tiêu dễ hiểu, điều khiển nhạy, màn chơi hợp lý về không gian, kẻ địch hoặc chướng ngại, phản hồi rõ ràng, tính điểm, khởi động lại và biện pháp giữ hiệu năng ổn định.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Bài đăng gốc](https://x.com/theo/status/2095599934766764338) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
+
+### Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại ngôi nhà trong ảnh được cung cấp thành một cảnh Blender có thể chỉnh sửa hoàn toàn. Tách kiến trúc, đồ nội thất, thiết bị và đồ chơi thành từng đối tượng, giữ tỷ lệ hợp lý và tạo trải nghiệm đi tham quan chạy cục bộ mượt ở 60 FPS.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095598645190291775) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
+
+### FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo
+
+[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game bắn súng đấu trường nhiều người 10 đấu 10 lấy cảm hứng từ FPS khoa học viễn tưởng cổ điển. Có đội, hồi sinh, vũ khí dễ phân biệt, khiên, vật phẩm nhặt được, bản đồ gọn, tính điểm, tiến trình trận đấu và chơi trên trình duyệt với độ trễ thấp.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Bài đăng gốc](https://x.com/VikiingAI/status/2095598026916049024) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
+
+### Thành phố Unity có thể khám phá từ thư viện asset
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Thành phố Unity có thể khám phá từ thư viện asset"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Lắp ráp một thành phố Unity có thể khám phá từ thư viện asset được cung cấp. Tạo mạng đường nhất quán, nhà cao tầng, xe cộ, cây cọ, ánh sáng và điều hướng, rồi tối ưu cảnh để có chuyến tham quan góc nhìn thứ nhất ổn định.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Bài đăng gốc](https://x.com/chetaslua/status/2095597640587374887) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
+
+### Nguyên mẫu tương tác cao cấp trong một lượt
+
+[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="Nguyên mẫu tương tác cao cấp trong một lượt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Thiết kế và triển khai nguyên mẫu tương tác chỉn chu trong một lượt từ ý tưởng sản phẩm được cung cấp. Chọn hệ hình ảnh mạnh, ưu tiên hành động chính, thêm chuyển cảnh mượt và bàn giao bản responsive đã được đưa lên web.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Bài đăng gốc](https://x.com/AY_Orbach/status/2095597560253862065) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
+
+### Thế giới kiểu Minecraft từ một yêu cầu
+
+[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="Thế giới kiểu Minecraft từ một yêu cầu"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo ngay trong một lượt một thế giới voxel lấy cảm hứng từ Minecraft có thể chơi được: sinh địa hình, đặt và phá khối, điều khiển góc nhìn thứ nhất, hành trang, ánh sáng, nước và một vòng lặp sinh tồn gọn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Bài đăng gốc](https://x.com/flavioAd/status/2095597137849446688) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="open-world-browser-adventure-2095596341422440714"></a>
+
+### Phiêu lưu thế giới mở trên trình duyệt
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="Phiêu lưu thế giới mở trên trình duyệt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một game phiêu lưu 3D thế giới mở với nhiều quần xã kết nối, di chuyển, khám phá, chiến đấu nhẹ, nhiệm vụ, địa danh và bầu không khí ngày đêm. Có đủ chỉ dẫn để việc khám phá mang cảm giác có mục đích.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Bài đăng gốc](https://x.com/petergostev/status/2095596341422440714) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
 
 ### Xã hội sinh tồn của những con người tự chủ trong Unreal Engine
@@ -804,293 +1086,6 @@ Tạo game souls-like lấy cảm hứng Bloodborne bằng C++ gốc, với mỹ
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/native-c-souls-like-game-2095053114600755576) · [Bài đăng gốc](https://x.com/wizardbrainz/status/2095053114600755576) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
-
-### Game Rắn và Thang 3D hoàn chỉnh
-
-[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="Game Rắn và Thang 3D hoàn chỉnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng game Rắn và Thang 3D chơi được đầy đủ với hoạt ảnh xúc xắc, di chuyển trên bàn, rắn, thang, lượt chơi, trạng thái thắng và phản hồi rõ ràng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [Bài đăng gốc](https://x.com/karanC_12/status/2095050993184669825) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
-
-### Chân dung biến thành voxel chuyển động
-
-[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="Chân dung biến thành voxel chuyển động"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến chân dung tải lên thành hơn 10.000 voxel 3D tương tác với dịch chuyển theo sóng, shader cyberpunk, instancing hiệu quả và chuyển động theo con trỏ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [Bài đăng gốc](https://x.com/TenthPrime/status/2095048967092625663) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-three-js-castle-2095048818203275584"></a>
-
-### Lâu đài Three.js tương tác
-
-[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="Lâu đài Three.js tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lâu đài 3D tương tác trên Three.js với phòng khám phá được, tháp, cổng, địa hình, ánh sáng giàu không khí và điều khiển mượt trên máy tính lẫn di động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-castle-2095048818203275584) · [Bài đăng gốc](https://x.com/debugsenpai/status/2095048818203275584) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
-
-### NIGHTBAND: radio sóng ngắn tương tác
-
-[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="NIGHTBAND: radio sóng ngắn tương tác"></a>
-
-**Prompt**
-
-```text
-Tạo website ấn tượng nhất bạn có thể làm trong một tệp HTML độc lập. Bạn có toàn quyền sáng tạo. Mục tiêu là thể hiện trí thông minh, sức sáng tạo, năng lực kỹ thuật và sự độc đáo của bạn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [Bài đăng gốc](https://x.com/NeoAIForecast/status/2095026928210346175) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="complete-unity-tennis-game-2095021275236495408"></a>
-
-### Game tennis Unity hoàn chỉnh
-
-[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="Game tennis Unity hoàn chỉnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Hoàn thiện game tennis Unity chơi được với nhân vật dựng trong Blender, điều khiển đáng tin cậy, hoạt ảnh di chuyển và vung vợt, vật lý bóng, tính điểm, đối thủ và diễn tiến trận đấu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [Bài đăng gốc](https://x.com/chongdashu/status/2095021275236495408) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
-
-### Đền cổ trên hẻm núi phát sáng
-
-[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="Đền cổ trên hẻm núi phát sáng"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo cảnh Three.js thủ tục với đền cổ lơ lửng trên hẻm núi phát sáng lúc chạng vạng, có vải bay trong gió, tia sáng thể tích, sét và chuyển động tiến đến mang chất điện ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [Bài đăng gốc](https://x.com/pradeepXkapoor/status/2095012880383099339) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-toronto-skyline-2095000329561485584"></a>
-
-### Đường chân trời Toronto tương tác
-
-[Kevin](https://x.com/bienjamyn) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-toronto-skyline-2095000329561485584"><img src="../assets/previews/bef311e9c34b21d4ea7564dcb333b455bcf9e6d3639b42a775a16f0129f5f8b8.webp" width="840" loading="lazy" alt="Đường chân trời Toronto tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng đường chân trời Toronto 3D tương tác với địa danh dễ nhận biết, nước, chiều sâu không khí, ánh sáng ngày đêm và điều khiển xoay, bay qua mượt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-toronto-skyline-2095000329561485584) · [Bài đăng gốc](https://x.com/bienjamyn/status/2095000329561485584) · [Bản demo](https://toronto-voxel.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="autonomous-sims-like-life-simulation-2094949450196090988"></a>
-
-### Mô phỏng đời sống tự chủ kiểu The Sims
-
-[Ridark](https://x.com/ridark_eth) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988"><img src="../assets/previews/75063ba9f199aff5faed7420ab575b306bd749b3559de8f878632df397ccb858.webp" width="840" loading="lazy" alt="Mô phỏng đời sống tự chủ kiểu The Sims"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng mô phỏng đời sống kiểu The Sims với năm nhân vật tự chủ; nhu cầu, thói quen, quan hệ và quyết định của họ tạo ra câu chuyện mà không cần người chơi liên tục chỉ đạo.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988) · [Bài đăng gốc](https://x.com/ridark_eth/status/2094949450196090988) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="voxel-village-with-thinking-npcs-2094930970675741171"></a>
-
-### Làng voxel với NPC biết suy nghĩ
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171"><img src="../assets/previews/974d4c7d84097af10f8cd20d5d3c871e5bab197d946f589feca62acd4faa8455.webp" width="840" loading="lazy" alt="Làng voxel với NPC biết suy nghĩ"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng làng voxel nơi cư dân có nghề, lịch sinh hoạt, trí nhớ và bộ não mô hình ngôn ngữ cục bộ để phản ứng với người chơi và với nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171) · [Bài đăng gốc](https://x.com/Tech2Wild/status/2094930970675741171) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="fantasy-ascent-to-mount-fuji-2094930804296274414"></a>
-
-### Hành trình kỳ ảo lên núi Phú Sĩ
-
-[Techartist](https://x.com/techartist_) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414"><img src="../assets/previews/5a0525135a25d7094cac3c8a1632a12b7147aaf4d967d86191b0aab848dfc692.webp" width="840" loading="lazy" alt="Hành trình kỳ ảo lên núi Phú Sĩ"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo hành trình kỳ ảo đẹp mắt trên Three.js dẫn người chơi qua các lớp môi trường đến đỉnh núi Phú Sĩ, với ánh sáng giàu không khí, di chuyển và cảm giác đi lên rõ rệt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414) · [Bài đăng gốc](https://x.com/techartist_/status/2094930804296274414) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="godot-racing-game-built-from-scratch-2094925359372284022"></a>
-
-### Game đua xe Godot dựng từ đầu
-
-[atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022"><img src="../assets/previews/fb70f118a60a87d8b99b4707a1a06a1bf825bdf6efe4722966e954adfde6bf5f.webp" width="840" loading="lazy" alt="Game đua xe Godot dựng từ đầu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng game đua xe Godot từ đầu, dùng Blender tạo xe và môi trường, triển khai đường đua lớn, cảm giác lái thỏa mãn, đối thủ, HUD và tiến trình cuộc đua.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022) · [Bài đăng gốc](https://x.com/atomic_chat_hq/status/2094925359372284022) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="floor-plan-to-blender-walkthrough-2094925117344428232"></a>
-
-### Từ mặt bằng đến video tham quan Blender
-
-[AGIラボ](https://x.com/ctgptlb) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232"><img src="../assets/previews/378a03d3cd1c95f97f8e0d77b92491a424ae3aef5055dbd9aecf23abf408dc95.webp" width="840" loading="lazy" alt="Từ mặt bằng đến video tham quan Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dùng mặt bằng được cung cấp để tạo mô hình Blender 3D chính xác, render một bộ ảnh đại diện và dựng video tham quan liền mạch.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232) · [Bài đăng gốc](https://x.com/ctgptlb/status/2094925117344428232) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="deterministic-136-000-voxel-pagoda-2094916609219461211"></a>
-
-### Chùa tháp 136.000 voxel sinh xác định
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211"><img src="../assets/previews/5f6a8e2c47e18b32228a30647a33403b7a981de34409e709fb3db9f971cd8fe7.webp" width="840" loading="lazy" alt="Chùa tháp 136.000 voxel sinh xác định"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Sinh chùa tháp gồm 136.000 voxel có tính xác định trong Three.js, với lớp kiến trúc dễ đọc, instancing hiệu quả, đầu ra ổn định và camera quan sát.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2094916609219461211) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="detailed-robot-through-blender-automation-2094909825561805003"></a>
-
-### Robot chi tiết bằng tự động hóa Blender
-
-[Spectro](https://x.com/Spectromachina) · 2026-09-01 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003"><img src="../assets/previews/cc82b31325f194335c6a876aa83404dd10829652fc0cf8dc42009018a57acf0c.webp" width="840" loading="lazy" alt="Robot chi tiết bằng tự động hóa Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng robot hard-surface chi tiết trong Blender với tỷ lệ nhất quán, khớp, panel, vật liệu, ánh sáng và bản render giới thiệu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Bài đăng gốc](https://x.com/Spectromachina/status/2094909825561805003) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 
