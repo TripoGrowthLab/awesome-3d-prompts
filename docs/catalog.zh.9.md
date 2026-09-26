@@ -26,8 +26,23 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (32)</summary>
+<summary>浏览案例 (47)</summary>
 
+- [程序化体素城堡展示](#procedural-voxel-castle-showcase-2093690427849191855)
+- [用于 Blender 组装 Jeep 风格 4x4 的提示词](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [用于独立 HTML 场景的 3D 破坏物理提示词](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Claude Opus 5 机甲机器人蓝图提示集](#mech-robot-blueprint-set-2082760534500188606)
+- [Need for Speed 风格 Godot 游戏提示词](#need-for-speed-style-godot-game-2082714235373584582)
+- [Kimi K3 玻璃水族箱开裂爆裂 3D 仿真提示词](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Kimi K3 的可玩战斗游戏提示词](#playable-combat-game-2082507403598373134)
+- [Kimi K3 的《英雄联盟》风格 1v1 单页 HTML 游戏提示词](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [适用于 Claude Opus 5 的单文件 3D 太阳可视化提示词](#single-file-3d-sun-visualizer-2082461416049525077)
+- [围绕电脑工作站的 3D 房间提示词，用于单文件 Three.js 构建](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Claude Opus 5 的非欧几里得门传送门提示](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [用于 Three.js 游戏构建的简单 FPS 提示词](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [用于 Claude Opus 5 的 CS2 与 Battlefield 风格第一人称射击游戏提示词](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Claude Opus 5 AAA 射击游戏提示词](#aaa-shooter-game-2082180453889712318)
+- [在单个 HTML 文件中制作可玩的黑暗奇幻横版卷轴游戏](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
 - [Claude Opus 5 开发 3D MMO 的工作流程](#development-workflow-for-a-3d-mmo-2082035844836450334)
 - [制作一个可玩的 Chrome 恐龙游戏](#make-a-playable-chrome-dino-game-2081867025140650236)
 - [用于逼真直升机射击游戏的 Kimi K3 提示词](#realistic-helicopter-shooter-game-2081791572115435765)
@@ -62,6 +77,341 @@
 - [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
+
+### 程序化体素城堡展示
+
+[Hakm](https://x.com/hakmgpt) · 2026-08-29 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/23ae53933cb538d4d667ddafc25295f17b5ba7d553359586648ba59b74aa5bab.webp" width="840" loading="lazy" alt="程序化体素城堡展示"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+生成大型体素城堡，清晰表现防御层级、塔楼、城墙、城门、庭院与周边地形。使用实例化、环绕镜头、变化光照和确定性生成，让结果稳定且可检视。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [查看原帖](https://x.com/hakmgpt/status/2093690427849191855) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### 用于 Blender 组装 Jeep 风格 4x4 的提示词
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="用于 Blender 组装 Jeep 风格 4x4 的提示词"></a>
+
+**提示词**
+
+```text
+设计一辆 Jeep 风格的 4x4，并在 Blender 中逐部件组装，不进行任何手工建模
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [查看原帖](https://x.com/slash1sol/status/2082845759452463405) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### 用于独立 HTML 场景的 3D 破坏物理提示词
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="用于独立 HTML 场景的 3D 破坏物理提示词"></a>
+
+**提示词**
+
+```text
+一辆怪兽卡车碾过一排汽车
+两辆汽车飞跃峡谷，并在空中迎头相撞
+一把巨大的铁砧逐个压扁汽车
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [查看原帖](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Claude Opus 5 机甲机器人蓝图提示集
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Claude Opus 5 机甲机器人蓝图提示集"></a>
+
+**提示词**
+
+```text
+分享一下我用 Claude OPUS 5 + Blender 创建一台 GUNDAM 尺寸机甲机器人蓝图时使用的提示，基于真实数学和物理：
+
+"让我们来考虑机甲的设计，本质上它有 2 台涡轮轴发动机，并由电动马达 + 液压动力驱动，它还有一个辅助动力装置，或许也有气动系统；它有强力电池，在情况变糟时能让它稍微滑行一下。我在想把这 2 台发动机放在机甲的肩部，服务面板朝外，这样我们就可以对它进行维护。顺便再看一遍机甲的系统，然后我们就要把所有系统都物理化地创建出来。这会很棒，给你安排一个代理来帮你做这件事，然后重建躯干部分，但在中间留出一个大空间给驾驶舱 + 睡眠舱。"
+
+"如果我们给它的脚装上由电动马达驱动的轮子呢？这样大多数时候应该能辅助移动。"
+
+"分配一个代理来读取这些指标并创建腿部设计，把真实的电线接入执行器之类的东西。"
+
+"好，把新的 glb 模型注入场景。"
+
+"天啊，这也太疯狂了。伙计，快把其他部分先显示出来。"
+
+"给那个低多边形头部加上真正的 FLIR + NV 摄像头，以及一把 1980/1990 年代的 CROWS M2 机枪。"
+
+"它……太美了……T_T"
+
+"我们必须给腿部骨架做绑定，这样如果我给它做动画，它就会遵守约束，而且这对计算力等也很必要。"
+
+"没事，我反正也不太懂哈哈，"
+"好，所以你已经做好的那些东西，比如发动机、动力传动系统和腿部，把这些部分保存好以便以后使用，万一我们能在其他地方复用它们。话虽如此，指示一个代理去构建手臂和手。"
+
+"另外，正确设计髋部机构以适配腿部。"
+
+"在我看来，PELVIS 和 CHEST 之间的关节具有圆形扭矩。"
+
+"找一个代理，使用 bofors 系统创建一把手持半自动步枪，这样机器人就有些快速射击的半自动砰砰武器了。"
+
+"我想要 40mm 的，真的做一个出来，准确但保持低多边形，这样我们就能测量它是更适合作为手枪还是半自动步枪。"
+
+"两种都做，然后再做一个像 abrams 加农炮但带半自动机制的版本。"
+"创建一个像步枪那样的枪栓和弹簧。"
+
+"好，所以我在想，驾驶舱里把所有装饰性的线缆之类都去掉，真正做真实布线 o-O 你怎么看"
+
+"方案：做真实布线，但像一头野蛮动物那样布线。"
+
+"注入 120mm 加农炮那个东西。"
+
+"给 120mm 加农炮的运作做绑定和动画。"
+
+"我想在这里加一个装甲大舱门，这样我们就能让座椅升起，让驾驶员能从那个位置看到周围并驾驶机甲，而且驾驶舱内的 4 个伸缩式观察窗在顶部也需要有对应的终点，这样才合理。"
+"继续给 120mm 做绑定和动画，还有舱门命令，刚才是误触暂停。"
+
+"好，所以动力装置，我觉得腹部是个不错的位置，不过我不喜欢发动机现在的位置，我觉得我们应该把它们放到现有位置的上方，并用真实的桁架结构来支撑躯干和肩部……看你怎么决定，你想怎么做胸部？我们要做舱门入口，这样前胸就可以建出来……"
+
+"好，外壳可以用厚铝甚至碳纤维，我无所谓，但必须看起来很酷，我猜 NCT 可以作为装甲吗？不知道，你来决定，我们之后还得加一些东西让这个怪物看起来没那么难以接受……总之，带上你的团队开始建造。"
+
+"我发现这个 inverter PT125 到处漂着，我不知道它应该放在哪。"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [查看原帖](https://x.com/Spectromachina/status/2082760534500188606) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Need for Speed 风格 Godot 游戏提示词
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed 风格 Godot 游戏提示词"></a>
+
+**提示词**
+
+```text
+给我做一个 NFS 类型的游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [查看原帖](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### Kimi K3 玻璃水族箱开裂爆裂 3D 仿真提示词
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Kimi K3 玻璃水族箱开裂爆裂 3D 仿真提示词"></a>
+
+**提示词**
+
+```text
+创建一个玻璃水族箱，其侧板先出现可见裂纹，然后破裂。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [查看原帖](https://x.com/UnslothAI/status/2082528683747873194) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Kimi K3 的可玩战斗游戏提示词
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 的可玩战斗游戏提示词"></a>
+
+**提示词**
+
+```text
+构建一个可玩的战斗游戏
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-combat-game-2082507403598373134) · [查看原帖](https://x.com/darshal_/status/2082507403598373134) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### Kimi K3 的《英雄联盟》风格 1v1 单页 HTML 游戏提示词
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Kimi K3 的《英雄联盟》风格 1v1 单页 HTML 游戏提示词"></a>
+
+**提示词**
+
+```text
+我在 Verdent 上给 Kimi K3 和 GPT-5.6 输入了同一个提示词：在一个 HTML 文件里构建一个可玩的英雄联盟风格 1v1。
+
+两者都生成了一个游戏。我把它们并排打开逐个玩了一遍。
+
+我在两次运行之间只改了一个东西：https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm 下拉菜单里的模型
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [查看原帖](https://x.com/0x_fokki/status/2082474707727581564) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### 适用于 Claude Opus 5 的单文件 3D 太阳可视化提示词
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="适用于 Claude Opus 5 的单文件 3D 太阳可视化提示词"></a>
+
+**提示词**
+
+```text
+构建一个在太空中旋转的 3D 太阳可视化器。一个 HTML 文件。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [查看原帖](https://x.com/AlysisAI/status/2082461416049525077) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### 围绕电脑工作站的 3D 房间提示词，用于单文件 Three.js 构建
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="围绕电脑工作站的 3D 房间提示词，用于单文件 Three.js 构建"></a>
+
+**提示词**
+
+```text
+构建一个围绕电脑工作站的可探索 3D 房间，单个自包含 HTML 文件，使用通过 importmap 引入的 Three.js，仅用程序化几何，不要网格，不要图像纹理，不指定布局或风格。“你是设计师。给我惊喜”
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [查看原帖](https://x.com/thehypedotnews/status/2082451081733591520) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Claude Opus 5 的非欧几里得门传送门提示
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Claude Opus 5 的非欧几里得门传送门提示"></a>
+
+**提示词**
+
+```text
+"一扇孤零零地立在虚空中的门，周围什么都没有，身后也什么都没有，它打开后通向关卡中别处的一间教室。直接走过去——不要切换、淡出、加载界面，或者任何会让人感觉在传送的东西。它必须能从两侧、从各个角度正常工作。"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [查看原帖](https://x.com/ombrageplays/status/2082436347113951333) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### 用于 Three.js 游戏构建的简单 FPS 提示词
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="用于 Three.js 游戏构建的简单 FPS 提示词"></a>
+
+**提示词**
+
+```text
+帮我做一个 FPS
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [查看原帖](https://x.com/codewithantonio/status/2082242351372599770) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### 用于 Claude Opus 5 的 CS2 与 Battlefield 风格第一人称射击游戏提示词
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="用于 Claude Opus 5 的 CS2 与 Battlefield 风格第一人称射击游戏提示词"></a>
+
+**提示词**
+
+```text
+尝试制作一款结合 CS2 和 Battlefield 的第一人称射击游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [查看原帖](https://x.com/AnatoliKopadze/status/2082241827298557966) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Claude Opus 5 AAA 射击游戏提示词
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Claude Opus 5 AAA 射击游戏提示词"></a>
+
+**提示词**
+
+```text
+最近，Claude Opus 5 创建的《使命召唤》游戏开始在网上走红，作者声称只用了一个提示就实现了。很多人对此持怀疑态度，而作者已经直接开源了代码和提示。
+
+我原本以为这个提示会非常复杂，但结果只有短短几百个字。关键在于其中的循环。
+
+以下是提示：
+
+"我希望你开发一款能达到最新《使命召唤》水平的第一人称射击游戏。它必须完美无缺，拥有令人惊叹的美丽画面，从纹理到物理效果——你能想到的所有元素都必须达到 AAA 级质量。
+
+你需要创建多个子代理，让每个子代理分别处理每一个细节，以确保游戏达到完美。你应该对每个项目使用 /loop，并让一个独立子代理进行视觉检查，以确保其达到 AAA 级标准。这个独立子代理必须非常严格；如果没有达到 AAA 级标准，它就应该继续检查。
+
+在每个子代理与《使命召唤》游戏对比后，都不要停止，直到它们都对游戏画面质量惊叹不已。即使不看画面，它也应该能够将两款游戏并排比较，并指出哪一款更好。使用 ThreeJS 完成这项工作。/loop 直到游戏达到完美。创建多个子代理，并使用 UltraCode 进行优化。"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/aaa-shooter-game-2082180453889712318) · [查看原帖](https://x.com/ziqinyuan/status/2082180453889712318) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### 在单个 HTML 文件中制作可玩的黑暗奇幻横版卷轴游戏
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="在单个 HTML 文件中制作可玩的黑暗奇幻横版卷轴游戏"></a>
+
+**提示词**
+
+```text
+在一个 HTML 文件中，创建一个可玩的黑暗奇幻横版卷轴游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [查看原帖](https://x.com/slash1sol/status/2082096376763060575) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
 
 ### Claude Opus 5 开发 3D MMO 的工作流程
@@ -831,4 +1181,4 @@ The Hype 将 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同�
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 9**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 432 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 447 条案例与在线演示 →</a></strong></p>

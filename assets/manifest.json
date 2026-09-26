@@ -623,6 +623,16 @@
       ]
     },
     {
+      "path": "assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp",
+      "fingerprint": "b248c0752f1f60fa11623fd87e6d1e5f99302e1c16c44bbbe00c8a2a4b74a441",
+      "sha256": "1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38",
+      "bytes": 84812,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103502217583976448/img/SHWI3wAPRC8nMv8I.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103502454750920925"
+      ]
+    },
+    {
       "path": "assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp",
       "fingerprint": "6de1a89e95ff157645ac0a8cae5d6053e3597698895d030f401e841fa974304e",
       "sha256": "1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509",
@@ -754,6 +764,16 @@
       ]
     },
     {
+      "path": "assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp",
+      "fingerprint": "6abc4f261f4ee4e56fb5428fabb90ad731b7f8b727113f66019c059cebc2dfef",
+      "sha256": "2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8",
+      "bytes": 63080,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103478299351777280/img/XSf9fR69-3iy71yz.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103480081809346597"
+      ]
+    },
+    {
       "path": "assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp",
       "fingerprint": "0295391c5d1600ae80f129b74216a3299c17b91f6592f977a77d2a18f26e8812",
       "sha256": "233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3",
@@ -801,6 +821,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2082831997936840704-poster-db3e05c87b2b.webp",
       "promptIds": [
         "3d-destruction-physics-in-self-contained-html-2082832042702561372"
+      ]
+    },
+    {
+      "path": "assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp",
+      "fingerprint": "40dd3d2efad52988bb457e0e60568526ca7d7f86cc3a80f7a60b063dc2aedd56",
+      "sha256": "24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770",
+      "bytes": 21648,
+      "sourceUrl": "https://pbs.twimg.com/media/HTEsm9uXMAEANp0.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103428454355980558"
       ]
     },
     {
@@ -1042,6 +1072,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2096625868022149120/img/oOX2Wx0L-Zo3Xem5.jpg",
       "promptIds": [
         "gpt-6-astra-2096637091627364531"
+      ]
+    },
+    {
+      "path": "assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp",
+      "fingerprint": "7cbf02f39c3f6aa23178168fbadea7de6d89a0d014c7db0d75b1edb5d69c8da8",
+      "sha256": "307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479",
+      "bytes": 28618,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103482006965534720/img/WiHFU-VNbZV2axST.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103483174957597035"
       ]
     },
     {
@@ -1355,6 +1395,16 @@
       ]
     },
     {
+      "path": "assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp",
+      "fingerprint": "aad14f72683e535d3a96d58d3f40bb8bf77ba4a6c9a567a6132973d0b877804a",
+      "sha256": "4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935",
+      "bytes": 42668,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103303251235831808/img/wyC-py0PpYosTSdr.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103303303358534021"
+      ]
+    },
+    {
       "path": "assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp",
       "fingerprint": "ee04efd43107a62342d994fad6a5695278bc7c0df24adfeabba6aa8b3a68dddc",
       "sha256": "437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1",
@@ -1433,6 +1483,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2082035703840686080-poster-119d6f0eb72f.webp",
       "promptIds": [
         "development-workflow-for-a-3d-mmo-2082035844836450334"
+      ]
+    },
+    {
+      "path": "assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp",
+      "fingerprint": "099167a8f767d210d67aaa64810a169da174bfa924e21fee8358be213743e02c",
+      "sha256": "48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3",
+      "bytes": 53926,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103187610738810880/img/3R3ka9IcUOGR9_Qy.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103187935759655167"
       ]
     },
     {
@@ -1646,6 +1706,16 @@
       ]
     },
     {
+      "path": "assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp",
+      "fingerprint": "ccc4a8be19c599b309aae6d9a6bbb2aa9f63ffa9674c80c8764eb5f11615a354",
+      "sha256": "5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b",
+      "bytes": 16254,
+      "sourceUrl": "https://pbs.twimg.com/media/HTESEuGa0AMRuEm.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103482826519986544"
+      ]
+    },
+    {
       "path": "assets/previews/5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c.webp",
       "fingerprint": "73e9fc0239e14714cc20e36fbc21b69c99269de0c462b1715577f2ec4d674c42",
       "sha256": "5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c",
@@ -1764,6 +1834,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-a9594971f10e-poster-a9594971f10e.webp",
       "promptIds": [
         "vespa-125-3d-configurator-2081439705506435440"
+      ]
+    },
+    {
+      "path": "assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp",
+      "fingerprint": "f766f6adbb7e7a7d005c06e895f9e5c30b04fc3168c1d9ba21c41f6be8aae39c",
+      "sha256": "6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da",
+      "bytes": 12854,
+      "sourceUrl": "https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103456264785424530"
       ]
     },
     {
@@ -2017,6 +2097,16 @@
       ]
     },
     {
+      "path": "assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp",
+      "fingerprint": "1852740816f1e58a4f64c3e725748b6b777c67ce8c93a722fe594c1162302938",
+      "sha256": "706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a",
+      "bytes": 49078,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103210186911481856/img/esEEU5g4rsjlHtgN.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103211135214256350"
+      ]
+    },
+    {
       "path": "assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp",
       "fingerprint": "7c139ecff8a5dc9f432dbf0c0541fc4ef445fd7db7d2cecc1517e05880ef82ba",
       "sha256": "70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1",
@@ -2144,6 +2234,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095825686925893632-poster-d63104980af4.webp",
       "promptIds": [
         "oval-office-through-the-presidencies-2095830596069290077"
+      ]
+    },
+    {
+      "path": "assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp",
+      "fingerprint": "0050d06176da479d2775fac3438429abb5a7ef3fad4613f4351288536f721660",
+      "sha256": "7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8",
+      "bytes": 29608,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103432690808606720/img/1mq8ykYsaKitGqYh.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103432732386664591"
       ]
     },
     {
@@ -2697,6 +2797,16 @@
       ]
     },
     {
+      "path": "assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp",
+      "fingerprint": "77b926e975f9e1b5067e7488b9888a27831bd1aeafa4759ae84d9ec8ea737873",
+      "sha256": "9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1",
+      "bytes": 4096,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103307753414688768/img/mIjrMdTfxhds9Nhj.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103308083242082314"
+      ]
+    },
+    {
       "path": "assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp",
       "fingerprint": "fa8d70a96d8bb8c2253f4d01aed6900f12915a88f2ad4837a0421a9fb3ce3c74",
       "sha256": "9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c",
@@ -3027,6 +3137,16 @@
       ]
     },
     {
+      "path": "assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp",
+      "fingerprint": "e56949ec2467cd49ca9396049ed8993e569e5350b89c7fe1f3c36c54531539b3",
+      "sha256": "ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119",
+      "bytes": 40688,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103257546735669248/img/cLNAAk1jkUjTZ-zV.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103257687492374597"
+      ]
+    },
+    {
       "path": "assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp",
       "fingerprint": "28360b0b5afbe4c352bc9abc33f86147cce23488a9a8debc60f01cdc76f3c2c2",
       "sha256": "acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0",
@@ -3227,6 +3347,16 @@
       ]
     },
     {
+      "path": "assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp",
+      "fingerprint": "8d5d7267e939400e5ca147d4e7fa90aaaf103ed82bbfc1355f9db966bfaed082",
+      "sha256": "b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf",
+      "bytes": 44804,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103350546971361281/img/vcILOx3FI1G2AEMA.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103351755971207251"
+      ]
+    },
+    {
       "path": "assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp",
       "fingerprint": "f9565d8f5ed0598e74b968510c8164a6741d129ac911b818bca662814bba762f",
       "sha256": "b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022",
@@ -3294,6 +3424,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2095000253229379587-poster-5690ee2adf35.webp",
       "promptIds": [
         "interactive-toronto-skyline-2095000329561485584"
+      ]
+    },
+    {
+      "path": "assets/previews/bf836f2978107860bbdce244af8638a1b9a0d760bce02b1c950121215a8667b2.webp",
+      "fingerprint": "6c58f6055246b8b350fe7c09538264ae093b3fc89d201b01a2ba21bcf49ff2ff",
+      "sha256": "bf836f2978107860bbdce244af8638a1b9a0d760bce02b1c950121215a8667b2",
+      "bytes": 1160,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103504761467318272/img/er-Ls3WiL3JfLSFQ.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103504887439065439"
       ]
     },
     {
@@ -3544,6 +3684,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2101687781894258688/img/xBMtUr40jLcHUxp7.jpg",
       "promptIds": [
         "gpt-6-astra-2101687900723106104"
+      ]
+    },
+    {
+      "path": "assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp",
+      "fingerprint": "c6f01b2a799409baeeea0f9a803030915e8cea9d39c866bf1e8eb4a6f1c639f7",
+      "sha256": "cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd",
+      "bytes": 48542,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103486025536348160/img/Ot3eQtWHGyYY-Ewh.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103486103831339269"
       ]
     },
     {

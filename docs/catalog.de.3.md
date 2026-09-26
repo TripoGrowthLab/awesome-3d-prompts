@@ -28,6 +28,21 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Peachs Schloss in 3D neu interpretieren](#gpt-6-astra-2099359786865402019)
+- [Interaktiver 3D-Anatomie-Explorer](#gpt-6-astra-2099206962344800541)
+- [Spielbarer 3D-Browser-Spielabschnitt im Küstenviertel](#gpt-6-astra-2099172061092381027)
+- [UV-Entwicklung und 4K-Neubaking eines kopflosen Kleidungsmodells](#gpt-6-astra-2098980384260456813)
+- [Selbstfaltende 3D-Origami-Animation](#gpt-6-astra-2098909584996057283)
+- [Chernobyl-Atlas](#gpt-6-astra-2098841316591346006)
+- [Kinetischer Sandtisch-Simulator](#gpt-6-astra-2098831830002851846)
+- [3D-Rekonstruktion der Weltausstellung von 1893 in Chicago](#gpt-6-astra-2098795017955418202)
+- [3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen](#gpt-6-astra-2098774359926297011)
+- [Skybound-Browserspiel](#gpt-6-astra-2098739181510164652)
+- [DEVICE: Fotorealistisches 3D-Puzzlespiel mit dem Smartphone selbst](#gpt-6-astra-2098715488369152087)
+- [Zenwelt · Alter Tempel – 3D-Bauprozess als Demo-Video](#gpt-6-astra-2098697876155076820)
+- [Die Brooklyn Bridge modellieren und Panzerüberquerungen aus beiden Richtungen testen](#gpt-6-astra-2098650336521064759)
+- [Interaktiver 3D-Koi-Teich](#gpt-6-astra-2098492771170722032)
+- [Mädchenfigur mit Spielzeugroboter](#gpt-6-astra-2098406473273663992)
 - [Tempel-Miniatur als 3D-Modellszene](#gpt-6-astra-2098403061463224543)
 - [Automatische Generierung und UV-Übertragung von Haar- und Gesichtstexturen für Charaktermodelle](#gpt-6-astra-2098367087475577273)
 - [Ziviles Starter-Kurierschiff von Sol Horizon](#gpt-6-astra-2098225609558335846)
@@ -63,23 +78,2229 @@
 - [12-sekündiger Waldweg in Blender](#gpt-6-astra-2096986557244723371)
 - [Interaktiver chinesischer Innenhof](#gpt-6-astra-2096971051334857181)
 - [Landschaftswelt für VRChat: „Der Horizont mit der gebrochenen Gravitation“](#gpt-6-astra-2096966425017467344)
-- [Endlose Miniaturstraße mit Three.js WebGPU](#gpt-6-astra-2096956214680965501)
-- [Hogwarts-3D-Szene](#gpt-6-astra-2096907617117540478)
-- [Interaktiven Softbody-Slime mit Three.js und WebGPU erstellen](#gpt-6-astra-2096793432987464010)
-- [LEGO-Minifigur als Game-Asset mit Blender MCP](#astra-3d-2096766465730847059)
-- [Interaktive Explosionsansicht eines Smartphones](#gpt-6-astra-2096685163111694556)
-- [Mini World – 3D-Erkundungsspiel](#gpt-6-astra-2096641728497275011)
-- [Rotierende Erde in Blender rendern](#gpt-6-astra-2096637194270134742)
-- [Düster-fantastisches Action-RPG in Three.js](#gpt-6-astra-2096637091627364531)
-- [Küsten-Fantasy-Abenteuer in Windhaven](#gpt-6-astra-2096629506047955327)
-- [Faltschachtel-Animation aus einer Stanzkontur](#gpt-6-astra-2096612394281603144)
-- [CS2 in Three.js erstellen](#gpt-6-astra-2096596888799895855)
-- [Totality Engine: Filmische Eclipse-Kathedrale](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
-- [Drehbares 3D-Shogi-Brett](#rotatable-3d-shogi-board-2096579856133947507)
-- [Interaktiver Desktop-PC in Explosionsansicht](#exploded-desktop-computer-atlas-2096578761877860502)
-- [Planung für Kinderzimmer und Arbeitsplatz](#children-s-room-and-workspace-planner-2096578684010508736)
 
 </details>
+<a id="gpt-6-astra-2099359786865402019"></a>
+
+### Peachs Schloss in 3D neu interpretieren
+
+[Romain Huet](https://x.com/romainhuet) · 2026-09-14 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/52c111a7b65753b044fa2580b5a49520718ea19c50704d6fdff82e84954081d2.webp" width="840" loading="lazy" alt="Peachs Schloss in 3D neu interpretieren"></a>
+
+**Prompt**
+
+```text
+Peachs Schloss in 3D neu interpretieren und ein Kameraflug-Video erstellen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+reimagine Peach’s Castle in 3D and create a fly-by video.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099359786865402019) · [Originalbeitrag](https://x.com/romainhuet/status/2099359786865402019) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### Interaktiver 3D-Anatomie-Explorer
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="Interaktiver 3D-Anatomie-Explorer"></a>
+
+**Prompt**
+
+```text
+Erstelle einen ansprechenden, interaktiven 3D-Anatomie-Explorer auf Basis öffentlich verfügbarer wissenschaftlicher Datensätze. Beginne mit einer Außenansicht, die beim Hineinzoomen allmählich transparent wird und die darunterliegende Anatomie sichtbar macht.
+
+Ermögliche das Drehen des Modells, das Trennen von Strukturen, die Auswahl beschrifteter Regionen und das Ein- und Ausblenden von Ebenen über ein Seitenpanel. Füge separate Tabs für Anatomie, Verbindungen und einzelne Zellen hinzu, einschließlich animierter Signale und anpassbarer Steuerelemente.
+
+Verwende eine moderne, minimalistische Benutzeroberfläche mit weicher Beleuchtung, dezenten Farben, fließenden Übergängen und sehr wenig Text. Füge Pfeile und ein kurzes visuelles Tutorial hinzu. Die Website muss auf Desktop und Mobilgeräten funktionieren.
+
+Verwende, sofern verfügbar, echte anatomische Geometrie, gib die Quellen an und unterscheide wissenschaftliche Daten klar von illustrativen Animationen. Erstelle eine funktionsfähige Website.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099206962344800541) · [Originalbeitrag](https://x.com/k1rallik/status/2099206962344800541) · [Quellcode](https://github.com/bubblik525/cat_brain_anatomy) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### Spielbarer 3D-Browser-Spielabschnitt im Küstenviertel
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="Spielbarer 3D-Browser-Spielabschnitt im Küstenviertel"></a>
+
+**Prompt**
+
+```text
+> Spezifikation festschreiben (TZ-gta-slice.md)
+
+prompt: "Erstelle einen spielbaren 3D-Browser-Spielabschnitt. Ändere diese Spezifikation nach dem Festschreiben nicht mehr. Küstenviertel und Clip zuerst. Steuerung danach."
+
+> der Stack (Vite, Vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Der Stack ist festgelegt. Vite. Vanilla TypeScript. Three.js. cannon-es. Web Audio. Eine Browser-URL."
+
+> das Bild (Sonnenuntergang über dem Wasser, nasser Asphalt, Palmen)
+
+prompt: "Ein Küstenviertel. Sonnenuntergang über dem Wasser. Nasser Asphalt. Palmen. Konzentriere dich bei Bild und Kamera auf das Licht, nicht auf die Polygonzahl. Kein standardmäßiges graues Licht. Keine nackten Würfel."
+
+> die drei (eine Szene, ein Auto, etwa 20 Sekunden)
+
+prompt: "Lass die drei in einer Szene. Sie unterhalten sich. Dann setzen sie sich in ein Auto. Etwa 20 Sekunden. Qualität vor zusätzlichen Schaltern."
+
+> der Schnitt (15 bis 20 Sekunden, flüssig halten)
+
+prompt: "Wenn es ruckelt, kürze den Clip auf 15 bis 20 Sekunden. Halte ihn flüssig. Wenn die Bildrate einbricht, reduziere die Passanten, nicht das Licht."
+
+> der Sound (menschliche Stimmen, ein Pad unter den Dialogzeilen, Motorbrummen)
+
+prompt: "Die Stimmen müssen menschlich klingen, nicht wie Roboterstimmen. Ein dezentes Pad unter den Dialogzeilen, niemals darüber. Wenn sie einsteigen, ein tiefes Motorbrummen, kein Sägegeräusch. Kein Radio-Rauschen."
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2099172061092381027) · [Originalbeitrag](https://x.com/Lummox_eth/status/2099172061092381027) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### UV-Entwicklung und 4K-Neubaking eines kopflosen Kleidungsmodells
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="UV-Entwicklung und 4K-Neubaking eines kopflosen Kleidungsmodells"></a>
+
+**Prompt**
+
+```text
+Führen Sie mit Blender MCP die UV-Entwicklung des ausgewählten „kopflosen Modells mit Kleidung sowie Händen und Füßen“ und das 4K-Neubaking der vorhandenen Texturen durch.
+
+Ziel ist es, das ursprüngliche Erscheinungsbild zu erhalten und UVs zu erstellen, deren Struktur wie bei einem Schnittmuster gut erkennbar und die sich später leicht nachzeichnen lassen. Gehen Sie wie ein menschlicher Artist in dieser Reihenfolge vor: Beobachtung → Seam-Planung → Entwicklung nach Körperbereich → Korrektur von Verzerrungen → Anordnung → Baking.
+
+1. Ausgangsdaten sichern
+Speichern Sie die Datei vor Beginn unter einem neuen Namen, behalten Sie die alten UVs, Bilder und Materialien bei und erstellen Sie eine neue UV-Map „UV\_Final“.
+Ändern Sie weder Form, Topologie, Vertex-Reihenfolge, Weights, Shape Keys noch Rig.
+
+2. Modell beobachten und Seams planen
+Prüfen Sie das Modell aus allen Richtungen mit angezeigter Originaltextur und im Wireframe-Modus, um den Aufbau der Kleidung und die tatsächlichen Nähte zu erfassen.
+Orientieren Sie sich bei der Kleidung am Schnittmusteraufbau aus Vorder- und Rückenteil, Ärmeln, Kragen usw. und schneiden Sie sie beispielsweise an den Seitennähten oder an den Ärmelinnenseiten auf. Platzieren Sie Seams an Haut, Händen und Füßen an wenig auffälligen Stellen wie der Innenseite oder den Seiten und legen Sie sie so an, dass auch die Zwischenräume der Finger ohne unnötige Verzerrung geöffnet werden können.
+Verwechseln Sie Falten oder Prints nicht mit Nähten und erzeugen Sie keine unnötig kleinteiligen Inseln.
+
+3. Nach Körperbereichen entfalten und Verzerrungen korrigieren
+Führen Sie Unwrap nicht für das gesamte Modell auf einmal, sondern nach Körperbereichen durch.
+Prüfen Sie mit einem beschrifteten Checker, der auf UV\_Final verweist, sowie mit der Stretch-Anzeige Dehnung, Stauchung, Verdrehung, Spiegelungen und Überlappungen.
+Fügen Sie je nach Ursache des Problems Seams hinzu oder entfernen Sie sie, passen Sie die UVs mit Pin, Relax und ähnlichen Werkzeugen an und prüfen Sie sie erneut. Wiederholen Sie nicht einfach immer dieselbe automatische Entwicklung, sondern behalten Sie bereits verbesserte Bereiche bei.
+Machen Sie die automatische Gesamterzeugung durch Smart UV Project nicht zum fertigen Ergebnis.
+
+4. Fadenlauf, Texeldichte und Anordnung ausrichten
+Richten Sie die Kleidung anhand des Fadenlaufs der einzelnen Teile aus und orientieren Sie die grundlegende Längsrichtung an der V-Richtung der UVs. Verformen Sie Schnittmuster mit Kurven nicht gewaltsam zu Rechtecken.
+Halten Sie die Texeldichte im Verhältnis zu den realen Abmessungen gleichmäßig und richten Sie die UVs so aus, dass die Zuordnung zwischen linker und rechter Seite erkennbar bleibt.
+Packen Sie sie anschließend unter Beibehaltung von Ausrichtung und relativer Skalierung in den Bereich 0–1. Überlappen Sie linke und rechte Seite nicht und drehen Sie Inseln nicht eigenmächtig.
+Verwenden Sie als Ausgangswerte für das 4K-Baking einen Rand von 16 px, mindestens 32 px zwischen den Inseln und mindestens 16 px zum Bildrand.
+
+5. 4K-Baking von der alten auf die neue UV-Map
+Fixieren Sie die Referenz der Originaltextur ausdrücklich auf der alten UV-Map und übertragen Sie sie mit UV\_Final als Ziel auf ein neues Bild mit 4096 × 4096 Pixeln.
+Aktivieren Sie in jedem Material den Bild-Node als Baking-Ziel, führen Sie zunächst einen Test-Bake und anschließend das finale Baking durch.
+Verwenden Sie für die Base Color ausschließlich die Color-Ausgabe von Diffuse oder Emit und backen Sie keine neue Beleuchtung, Schatten oder AO ein. Die in das Originalbild eingezeichnete Schattierung muss erhalten bleiben.
+Übertragen Sie vorhandene Maps wie Transparenz bei Bedarf ebenfalls und backen Sie Tangent-Space-Normalmaps anhand der neuen UVs neu, statt sie lediglich als Farbe zu übertragen.
+
+6. Abschluss durch Vergleich von Alt und Neu prüfen
+Wenden Sie die neue UV-Map und die gebackenen Bilder an und vergleichen Sie den gesamten Körper sowie Details unter denselben Anzeigeeinstellungen wie beim Original.
+Prüfen Sie die Position von Mustern, Farben, Transparenz und die Kontinuität der Seams. Korrigieren Sie gequetschte oder überlappende UVs, nicht entfaltete Bereiche sowie schwarze Punkte, Auslassungen und Ausblutungen im Bake.
+Entscheiden Sie anhand der Prüfergebnisse, ob das Ergebnis fertig ist – nicht danach, wie oft es entfaltet wurde.
+
+Speichern Sie die fertige .blend-Datei, die 4K-Bilder, das UV-Layout sowie Prüfaufnahmen von Seams, Checker und finalem Erscheinungsbild und berichten Sie kurz über die wichtigsten Korrekturen.
+Beenden Sie die Arbeit nicht mit einer bloßen Beschreibung des Plans, sondern führen Sie sie anhand der tatsächlich geprüften Bilder vollständig aus.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098980384260456813) · [Originalbeitrag](https://x.com/_sagyoai/status/2098980384260456813) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### Selbstfaltende 3D-Origami-Animation
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="Selbstfaltende 3D-Origami-Animation"></a>
+
+**Prompt**
+
+```text
+Erstelle eine 3D-Origami-Animation. Ein flaches quadratisches Blatt muss sich Schritt für Schritt selbst zu einer erkennbaren Origami-Figur falten. Jede Faltung soll als tatsächliche Knickbewegung und Drehung des Papiers sichtbar sein. Anschließend soll sich das Blatt wieder vollständig entfalten und der Ablauf von vorn beginnen. Welche Figur entsteht und wie das Ganze präsentiert wird, bleibt dir überlassen.
+
+Alles am Design entscheidest du selbst: Stil, Farben, Stimmung, Umgebung, Kamera, Detailgrad und zusätzliche Gestaltungselemente. Stelle mir keine Fragen, triff jede Entscheidung selbst und erstelle in einem einzigen Versuch die beeindruckendste Version, die du kannst.
+
+Technische Anforderungen: genau eine eigenständige HTML-Datei, ohne externe Modelle, Bilder, Sounds oder Asset-URLs jeglicher Art (eine JavaScript-Bibliothek von einem CDN ist zulässig). Die Animation muss direkt beim Laden ohne Klicks selbstständig starten und flüssig sowie ohne Konsolenfehler laufen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098909584996057283) · [Originalbeitrag](https://x.com/free_ai_guides/status/2098909584996057283) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### Chernobyl-Atlas
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="Chernobyl-Atlas"></a>
+
+**Prompt**
+
+```text
+Erstelle mit Three.js die hochwertige interaktive 3D-Ausstellung „Chernobyl Atlas“.
+
+Recherchiere das intakte Kernkraftwerk von Tschernobyl und den RBMK-Reaktor anhand öffentlich zugänglicher Quellen. Modelliere die Gebäude, den Gitterkamin, die Turbinenhalle, den Graphitblockstapel, die Brennstoffkanäle, die Abschirmungen, die Abscheidetrommeln, Pumpen und Rohrleitungen.
+
+Erstelle drei Tabs:
+— Kraftwerksblock: ein detailliertes Modell, das sich per Scrollen und Schieberegler Schicht für Schicht zerlegen lässt.
+— Dampfkreislauf: ein animiertes Diagramm, das Reaktor, Turbine, Kondensator und Pumpen verbindet.
+— Reaktor in Bewegung: ein 3D-Querschnitt mit fließendem Wasser und Dampf, rotierenden Maschinen und Wiedergabesteuerung.
+
+Füge unabhängige Sichtbarkeitsschalter für die Systeme, anpassbare Abstände zwischen Bauteilen, Wireframe- und Transparenzdarstellung, Schnittansichten sowie kurze Beschriftungen hinzu. Jede Schicht soll leicht inspizierbar sein, und die Kamera muss sich auch bei vollständiger Zerlegung frei drehen lassen.
+
+Liefere den Quellcode und eine eigenständige HTML-Datei. Teste alle Steuerungen. Stelle das Ergebnis als pädagogische Interpretation dar, nicht als exakte technische Replik.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098841316591346006) · [Originalbeitrag](https://x.com/k1rallik/status/2098841316591346006) · [Quellcode](https://github.com/bubblik525/Chernobyl_Atlas) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### Kinetischer Sandtisch-Simulator
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="Kinetischer Sandtisch-Simulator"></a>
+
+**Prompt**
+
+```text
+Erstelle eine Simulation eines kinetischen Sandtischs. Eine Kugel muss sich durch eine Sandschicht bewegen, eine sichtbare Spur hinterlassen, vollständige geometrische Muster zeichnen, anschließend den Sand glätten und automatisch ein neues, anderes Muster beginnen. Die Simulation muss viele verschiedene Muster durchlaufen, ohne eines zu wiederholen. Wie das Erscheinungsbild und die Muster gestaltet sind, bleibt dir überlassen.
+
+Auch alle Designentscheidungen liegen bei dir: Stil, Farben, Stimmung, Umgebung, Kamera, Detailgrad und zusätzliche Gestaltungselemente. Stelle mir keine Fragen, triff alle Entscheidungen selbst und erstelle in einem einzigen Versuch die beeindruckendste Version, die du umsetzen kannst, in einer einzigen HTML-Datei.
+
+Technische Anforderungen: eine einzige, vollständig eigenständige HTML-Datei ohne externe Modelle, Bilder, Sounds oder Asset-URLs jeglicher Art (eine JavaScript-Bibliothek von einem CDN ist zulässig). Die Simulation muss unmittelbar beim Laden selbstständig starten, ohne dass Klicks erforderlich sind, flüssig laufen und keine Fehler in der Konsole erzeugen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098831830002851846) · [Originalbeitrag](https://x.com/free_ai_guides/status/2098831830002851846) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### 3D-Rekonstruktion der Weltausstellung von 1893 in Chicago
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="3D-Rekonstruktion der Weltausstellung von 1893 in Chicago"></a>
+
+**Prompt**
+
+```text
+Lade 2.000 historische Fotografien und Referenzinformationen zur Ausstellung herunter und nutze sämtliche gewonnenen Informationen, um in Blender eine 3D-Rekonstruktion zu erstellen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098795017955418202) · [Originalbeitrag](https://x.com/moreisdifferent/status/2098795017955418202) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### 3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="3D-druckbarer Bilderrahmen aus Teilen mit Steckverbindungen"></a>
+
+**Prompt**
+
+```text
+Ich möchte einen Bilderrahmen mit dem 3D-Drucker drucken, aber mein 3D-Drucker ist so klein, dass ich lieber einen Rahmen hätte, den man aus verbundenen Teilen zusammensetzt. Das ist irgendwie langweilig – also bitte mit Steckverbindungen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098774359926297011) · [Originalbeitrag](https://x.com/wada/status/2098774359926297011) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098739181510164652"></a>
+
+### Skybound-Browserspiel
+
+[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/012a16e2a90a225b9dee480019d46f69f8458237f566068d77b85765ae22ceed.webp" width="840" loading="lazy" alt="Skybound-Browserspiel"></a>
+
+**Prompt**
+
+```text
+Erstelle mit Three.js ein Browserspiel namens Skybound, in dem man fliegt. Der Spieler steuert einen Drachen durch eine Landschaft aus schwebenden Inseln und sammelt Ringe, um Punkte zu erzielen. Dafür wird ein 3D-Drachenmodell benötigt – verwende Hyper3D Rodin MCP, um es zu generieren.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a browser flight game called Skybound using Three.js. The player pilots a dragon through a field of floating islands, collecting rings for score. You'll need a 3D dragon model - use the Hyper3D Rodin MCP to generate it.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098739181510164652) · [Originalbeitrag](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098715488369152087"></a>
+
+### DEVICE: Fotorealistisches 3D-Puzzlespiel mit dem Smartphone selbst
+
+[ひまねこ](https://x.com/00Nekonet) · 2026-09-12 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/a07cc5e01d30232d750266efb73a0b1d1137fdb04d42b5763e246fc3828390c2.webp" width="840" loading="lazy" alt="DEVICE: Fotorealistisches 3D-Puzzlespiel mit dem Smartphone selbst"></a>
+
+**Prompt**
+
+```text
+Übernehmen Sie in diesem Projekt gleichzeitig die Rollen des Game Directors, Game Designers, Unity-Engineers, 3D-Artists, UI/UX-Designers, Technical Artists, Sound Designers und QA-Verantwortlichen.
+
+Erstellen Sie auf Grundlage der folgenden Spezifikationen nicht nur ein Konzept, sondern ein hochwertiges, tatsächlich spielbares 3D-Puzzlespiel für Smartphones.
+
+Beenden Sie den Prozess nicht nach einer bloßen Sammlung von Ideen.
+Erstellen Sie nicht nur ein Spezifikationsdokument und beenden Sie den Prozess anschließend.
+Erstellen Sie im größtmöglichen Umfang ein tatsächliches Projekt einschließlich Code, Szenen, UI, Materialien, Spiellogik, Soundsteuerung, Sensorverarbeitung, Speicherfunktionen und Tests.
+
+Wenn etwas unklar ist, stellen Sie keine Fragen, solange kein schwerwiegender Widerspruch vorliegt. Treffen Sie stattdessen selbst die Entscheidungen, die das Spiel möglichst unterhaltsam und hochwertig machen, und setzen Sie die Entwicklung direkt fort.
+
+Projektübersicht
+
+Arbeitstitel:
+
+DEVICE
+
+Genre:
+
+Fotorealistisches 3D-Puzzle-Adventure mit Smartphone-Interaktionen
+
+Plattform:
+
+Android hat höchste Priorität.
+Die Struktur sollte nach Möglichkeit auch eine Unterstützung von iOS ermöglichen.
+
+Bildschirm:
+
+Hochformat 9:16
+
+Steuerung:
+
+Grundsätzlich auch mit einer Hand spielbar.
+Bei einigen Rätseln wird das Smartphone selbst angehoben, geneigt, gedreht, mit dem Display nach unten abgelegt, geschüttelt oder ruhig gehalten.
+
+Das zentrale Merkmal des Spiels
+
+Dies ist kein Spiel, das man auf dem Smartphone spielt.
+
+Das Smartphone selbst wird als Puzzlegerät verwendet.
+
+Es lässt sich nicht allein durch Berührungen auf dem Bildschirm lösen.
+
+Sensoren, Kamera, Mikrofon, Vibration, Lautsprecher, Geräteausrichtung, Ladezustand und weitere Funktionen des Smartphones werden als physikalische Gesetzmäßigkeiten der Spielwelt genutzt.
+
+Es soll jedoch keine bloße Sammlung von Sensordemos werden.
+
+Alle Funktionen werden so gestaltet, dass sie sich natürlich in dieselbe Welt und dasselbe Spielsystem einfügen.
+
+Spielwelt
+
+In einer Forschungseinrichtung unbekannter Herkunft entdeckt der Spieler das mysteriöse schwarze, würfelförmige Gerät „DEVICE“.
+
+Der Würfel wird mit dem Smartphone verbunden und erkennt dessen Zustand in der realen Welt.
+
+Wenn der Spieler das Smartphone neigt, verändert sich die Schwerkraft im Inneren von DEVICE.
+
+Dreht der Spieler das Gerät, dreht sich der Raum selbst.
+
+Licht, Farben, Geräusche, Ausrichtung und Bewegungen aus der realen Welt fließen in DEVICE ein.
+
+Zu Beginn wirkt DEVICE wie ein gewöhnliches Versuchsgerät, doch im weiteren Spielverlauf beginnt auch DEVICE, die Anwesenheit des Spielers wahrzunehmen.
+
+In der zweiten Spielhälfte
+
+„der Spieler bedient das Smartphone“
+
+Diese Beziehung selbst wird für ein Metapuzzle genutzt.
+
+Es wird kein Horrorspiel.
+Unheimlichkeit, unbekannte Technologie und Mystik sind erlaubt, im Mittelpunkt stehen jedoch die intellektuelle Neugier und die Freude am Entdecken.
+
+Visuelle Qualität
+
+Der wichtigste Punkt.
+
+Eine möglichst fotorealistische 3D-Darstellung für Smartphones.
+
+Keine billig wirkende Smartphone-Spielgrafik.
+
+Kein Cartoon-Stil.
+
+Kein Low-Poly-Look.
+
+Außer bei der UI möglichst keine flachen Platzhalter-Assets übrig lassen.
+
+Bei Verwendung von Unity grundsätzlich URP verwenden, unter Berücksichtigung der mobilen Performance,
+
+・PBR-Materialien
+・Metallic-/Roughness-Darstellung
+・Normal Map
+・Ambient Occlusion
+・Reflection Probe
+・Light Probe
+・Hochwertige Schatten
+・Weiche Schatten
+・Bloom
+・Color Grading
+・Screen-Space-Effekte
+・Volumetrisch wirkendes Licht
+・Depth of Field nur an den erforderlichen Stellen
+・Physikalisch basiertes Glas
+・Metall
+・Nasser Boden
+・Kratzer
+・Fingerabdrücke
+・Staub
+・Feine Oberflächenunebenheiten
+・Leuchtende Materialien
+・Reflexionen
+・Umgebungsgeräusche
+
+und miteinander kombinieren.
+
+Die Handlung spielt in einer dunklen, luxuriösen futuristischen Forschungseinrichtung.
+
+Im Mittelpunkt stehen schwarzes Metall, Glas, Beton, weiße Leuchtlinien, Präzisionsmaschinen, Hydraulikkomponenten und ähnliche Elemente.
+
+Die Umgebung soll nicht vollständig dunkel sein, damit wichtige Objekte durch natürliches Licht erkennbar bleiben.
+
+Da DEVICE das Symbol des Spiels ist, muss es mit höchster Qualität gestaltet werden.
+
+Das Gerät DEVICE:
+
+Ein etwa 20 bis 30 cm großer Würfel aus schwarzem Metall und Glas.
+
+Jede Seite weist eine andere mechanische Struktur auf.
+
+Die Fugen sind äußerst präzise ausgeführt.
+
+Aus dem Inneren dringt schwach weißes oder bläulich-weißes Licht.
+
+Durch die Aktionen des Spielers verformen, drehen und entfalten sich die inneren Strukturen physikalisch.
+
+Mit taktil wirkenden mechanischen Animationen versehen.
+
+Grundlegender Spielbildschirm
+
+In der Mitte des Hochformatbildschirms befindet sich DEVICE.
+
+Der Spieler zieht DEVICE, um es zu drehen und jede Seite zu untersuchen.
+
+Die Umgebung ist eine Forschungseinrichtung.
+
+Die Kamera wirkt filmisch, ohne die Bedienbarkeit zu beeinträchtigen.
+
+Die grundlegende Benutzeroberfläche bleibt minimalistisch.
+
+Nicht dauerhaft eine große Anzahl an Schaltflächen anzeigen.
+
+Der Eindruck, DEVICE selbst zu berühren und zu bedienen, hat Priorität.
+
+Kernsysteme
+
+Die folgenden Elemente als Eingabesysteme in dieselbe Spielwelt integrieren, statt sie als eigenständige Minispiele umzusetzen.
+
+1. Touch
+
+Tippen
+Doppeltippen
+Gedrückthalten
+Ziehen
+Wischen
+Auf- und Zuziehen
+Zwei Finger
+Drei Finger
+Mehrfaches gleichzeitiges Drücken
+
+aktivieren.
+
+Die Tasten, Hebel, Drehringe, Drehregler und andere Bedienelemente von DEVICE direkt per Berührung bedienen.
+
+2. Gyroskop
+
+Die Neigung des Smartphones mit der Schwerkraft im Inneren von DEVICE verknüpfen.
+
+Beispiele:
+
+Eine im Inneren befindliche Metallkugel allein durch Neigen zum Ziel bewegen.
+
+Eine Flüssigkeit durch Neigen mit einer Elektrode in Kontakt bringen.
+
+Den Winkel eines Lichtstrahls einstellen.
+
+3. Beschleunigungssensor
+
+Das Gerät schütteln.
+
+Es abrupt anhalten.
+
+Bewegungen erkennen, die einem leichten Klopfen entsprechen.
+
+Das Gerät jedoch nicht zu heftig schütteln lassen.
+
+Die Sicherheit berücksichtigen.
+
+4. Geräteausrichtung
+
+Hochformat
+Querformat
+Display nach oben
+Display nach unten
+
+und Ähnliches ins Spiel integrieren.
+
+Ein Ereignis vorsehen, das erst ausgelöst wird, wenn das Smartphone mit dem Display nach unten auf den Tisch gelegt wird.
+
+5. Kamera
+
+Farben aus der realen Welt ins Spiel übertragen.
+
+Wenn der Spieler mit der Kamera rote, blaue, grüne oder andersfarbige Objekte erfasst, die dominante Farbe im mittleren Bildbereich analysieren und sie als Energie an DEVICE übertragen.
+
+Das Bild selbst nicht an einen Server senden.
+
+Die Verarbeitung nach Möglichkeit direkt auf dem Gerät durchführen.
+
+Eine alternative Steuerung für den Fall vorsehen, dass die Kamera nicht verwendet werden kann.
+
+6. Mikrofon
+
+Lautstärke
+Dauer
+Einfache Frequenzcharakteristik
+
+und Ähnliches nutzen.
+
+Beispiele:
+
+Pusten
+Sprechen
+Klatschen
+Für eine bestimmte Zeit ruhig bleiben
+
+und Ähnliches.
+
+Spracherkennung nicht voraussetzen.
+
+Aufgezeichnete Daten werden nicht gespeichert.
+
+7. Haptik / Vibration
+
+Sehr wichtig.
+
+Erstelle Levels, in denen Informationen, die nicht auf dem Bildschirm angezeigt werden, ausschließlich über Vibration vermittelt werden.
+
+Beispiele:
+
+Je näher man dem Zielobjekt kommt, desto kürzer werden die Vibrationsintervalle.
+
+Unterschiedliche Muster für links und rechts.
+
+Ein Code aus kurzen und langen Vibrationen.
+
+Für Geräte ohne Vibrationsfunktion wird eine alternative Anzeige bereitgestellt.
+
+8. Lautsprecher
+
+Nutze die räumliche Richtungswahrnehmung von Geräuschen.
+
+Kopfhörer dürfen nicht zwingend erforderlich sein.
+
+Tonhöhe, Rhythmus, Links-Rechts-Ortung und Ähnliches als Puzzleinformationen verwenden.
+
+9. Helligkeit
+
+Wenn möglich, den Umgebungslichtsensor verwenden.
+
+Auf Geräten ohne diese Funktion eine Alternative wie die Helligkeit des Kamerabilds in Betracht ziehen.
+
+Ein Mechanismus, der in dunkler Umgebung sichtbar wird.
+
+Ein Mechanismus, der in heller Umgebung aufgeladen wird.
+
+10. Kompass
+
+Auf unterstützten Geräten die Himmelsrichtung ermitteln.
+
+Erstelle ein Rätsel, bei dem das Smartphone nach Norden, Süden oder in eine bestimmte Richtung ausgerichtet werden muss.
+
+Wenn keine entsprechenden Sensoren vorhanden sind, auf ein alternatives Rätsel wechseln.
+
+11. Ladezustand
+
+Wenn erkannt werden kann, dass das Gerät den Ladevorgang gestartet hat,
+
+eine Inszenierung einbauen, bei der DEVICE durch das tatsächliche Anschließen des Ladekabels mit Strom versorgt wird.
+
+Für Nutzer, die diese Aktion nicht ausführen können, muss jedoch unbedingt eine alternative Methode zum Lösen des Rätsels vorhanden sein.
+
+12. Akku
+
+Wenn der Akkustand ausgelesen werden kann, ihn für besondere Ereignisse nutzen.
+
+Es ist nicht zulässig, das Spiel so zu gestalten, dass ein Abschluss aufgrund des Akkustands unmöglich wird.
+
+13. Uhrzeit
+
+Die aktuelle Uhrzeit kann für besondere Rätsel oder Inszenierungen genutzt werden.
+
+Es ist nicht zulässig, das Spiel so zu gestalten, dass ein Abschluss nur zu einer bestimmten Uhrzeit möglich ist.
+
+Keine Wartezeiten erzwingen.
+
+Rätseldesign
+
+Statt von Anfang an 100 oberflächliche Rätsel in Serie zu produzieren,
+
+zunächst etwa 20–30 besonders hochwertige, vollständig ausgearbeitete Level erstellen.
+
+Jedes davon muss eine andere Entdeckung bieten.
+
+Level, bei denen dieselbe Aktion lediglich mit anderen Zahlen wiederholt wird, sind nicht zulässig.
+
+Kapitel 1: TOUCH
+
+Die Spielregeln sollen vor allem durch Touch-Steuerung vermittelt werden.
+
+DEVICE berühren.
+Drehen.
+Drücken.
+Ziehen.
+Öffnen.
+
+Kapitel 2: GRAVITY
+
+Gyroskop und Beschleunigungssensor einführen.
+
+Die physikalische Welt im Inneren von DEVICE wird mit der Ausrichtung des realen Smartphones synchronisiert.
+
+Kapitel 3: SENSE
+
+Kamera
+Mikrofon
+Licht
+Ton
+Vibration
+
+einführen.
+
+Kapitel 4: OUTSIDE
+
+Ein Rätsel, das die Aufmerksamkeit des Spielers außerhalb des Bildschirms lenkt.
+
+Das Smartphone mit dem Display nach unten legen.
+Stillhalten.
+Ausrichtung anpassen.
+Die Farbe der Umgebung erfassen.
+
+Kapitel 5: DEVICE
+
+Die bisher gelernten Regeln kombinieren.
+
+Die auf dem Bildschirm angezeigten Anweisungen sind nicht mehr immer korrekt.
+
+Beispiel:
+
+Auf dem Bildschirm
+
+SHAKE
+
+wird angezeigt.
+
+Wenn du das Gerät schüttelst, schlägt der Versuch jedoch fehl.
+
+Die richtige Lösung besteht darin, das Gerät völlig ruhig zu halten.
+
+In einem anderen Rätsel
+
+MEHR LICHT
+
+wird angezeigt.
+
+Auch wenn du die Bildschirmhelligkeit erhöhst, reagiert das Gerät nicht.
+
+Löse das Rätsel, indem du Licht aus der realen Welt in die Kamera lässt.
+
+In der letzten Stufe
+
+Touch
+Geräteausrichtung
+Gyroskop
+Vibration
+Ton
+Eingaben aus der realen Welt
+
+zu einem umfangreichen Puzzle kombinieren.
+
+Beispielhafte Level, die unbedingt implementiert werden müssen
+
+„Labyrinth im Dunkeln“
+
+Der Bildschirm wird nahezu vollständig dunkel.
+
+Die Position ist für den Spieler nicht sichtbar.
+
+Das Smartphone neigen, um eine unsichtbare Kugel zu bewegen.
+
+Je näher der Ausgang kommt, desto stärker und schneller wird die Vibration.
+
+Das Ziel schließlich allein anhand der Vibration erreichen.
+
+In den Barrierefreiheitseinstellungen lässt sich zusätzlich eine Audiohilfe aktivieren.
+
+„DON'T LOOK“
+
+DEVICE wird auf dem Bildschirm als
+
+DON'T LOOK
+
+angezeigt.
+
+Der Spieler legt das Smartphone mit dem Display nach unten ab.
+
+Wird „Face Down“ erkannt, ertönen aus dem Inneren von DEVICE mechanische Geräusche, während der Bildschirm nicht zu sehen ist.
+
+Nach einigen Sekunden wird das Smartphone wieder umgedreht – DEVICE hat sich verändert.
+
+„STEAL COLOR“
+
+Im Inneren von DEVICE befindet sich ein farbloser Energiekern.
+
+Lies reale Farben wie Rot, Blau und Grün mit der Kamera aus.
+
+Die ausgelesene Farbe strömt in Echtzeit als flüssige Energie in das Innere von DEVICE.
+
+„STAY STILL“
+
+DEVICE vibriert heftig.
+
+Zuerst möchte der Spieler das Smartphone schütteln.
+
+Die richtige Lösung besteht jedoch darin, das Gerät vollkommen ruhig zu halten.
+
+Sobald die Beschleunigung für eine bestimmte Zeit unter dem Schwellenwert bleibt, öffnet sich das Gerät stabil.
+
+„POWER“
+
+DEVICE kommt vollständig zum Stillstand.
+
+Bei unterstützten Geräten fließt Strom in DEVICE, sobald das Smartphone geladen wird.
+
+Die Metallleitungen leuchten nacheinander auf, und der interne Mechanismus startet neu.
+
+Zusätzlich werden alternative Steuerungsmöglichkeiten angeboten.
+
+Physikdarstellung im Inneren von DEVICE
+
+Nutze die Physiksimulation aktiv.
+
+Metallkugel
+Flüssigkeit
+Schwerkraft
+Magnet
+Zahnrad
+Schiene
+Reflektor
+Laser
+Drehring
+Zylinder
+Kolben
+Verriegelungsmechanismus
+Glas
+Elektrode
+Kabel
+
+und weitere Elemente bereitstellen.
+
+Verlasse dich dabei aber nicht auf eine instabile Lösung, die vollständig der Physiksimulation überlassen wird.
+
+Verwende bei wichtigen Rätseln kontrollierte Physik und sorge für reproduzierbare Abläufe.
+
+Inszenierung
+
+Zeige bei einer richtigen Lösung nicht einfach nur den Text „CLEAR“ an.
+
+Das DEVICE selbst verformt sich und gibt so die Lösung zurück.
+
+Entriegelung
+Zahnradrotation
+Innenbeleuchtung
+Trennung der Metallplatten
+Flüssigkeitsbewegung im Glas
+Mechanischen Arm ausfahren
+
+und Ähnliches kombinieren.
+
+Sobald das Rätsel gelöst ist,
+
+„selbst eine riesige Präzisionsvorrichtung bewegt zu haben“
+
+eine Inszenierung schaffen, die dieses Erfolgserlebnis vermittelt.
+
+Sound
+
+Sehr wichtig.
+
+Nicht einfach nur dauerhaft BGM abspielen.
+
+Klimaanlagengeräusche der Forschungseinrichtung
+ferne Maschinengeräusche
+Servogeräusche aus dem Inneren von DEVICE
+Metallisches Klicken
+Glas
+Elektrizität
+Magnetismus
+Tieffrequente Töne
+Vibration
+
+und Ähnliches als Layer übereinanderlegen.
+
+Der Sound verändert sich je nachdem, wo DEVICE berührt wird.
+
+Bei Verwendung von Kopfhörern die räumliche Ortung verstärken.
+
+UI
+
+So weit wie möglich in die Spielwelt integrieren.
+
+Keine billigen Schaltflächen im Stil von Mobile-Games anordnen.
+
+Menü:
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+Ausmaß.
+
+Hinweise während des Rätsels als Anzeigen im Inneren von DEVICE oder als projizierte Schrift darstellen.
+
+Hinweissystem
+
+Auch wenn der Spieler feststeckt, nicht sofort die Lösung anzeigen.
+
+Hinweis 1:
+Ort, auf den man achten sollte.
+
+Hinweis 2:
+Zu verwendende Smartphone-Funktion.
+
+Hinweis 3:
+Beinahe die Lösung.
+
+in drei Stufen.
+
+Barrierefreiheit
+
+Bei einem Spiel, das viele Sensorfunktionen nutzt, ist das besonders wichtig.
+
+Folgendes implementieren:
+
+Vibrationen lassen sich in Ton oder eine Anzeige auf dem Bildschirm umwandeln.
+
+Visuelle Hilfen für Audio-Puzzles.
+
+Farbseh-Hilfen für Farb-Puzzles.
+
+Keine starken Bewegungen des Geräts voraussetzen.
+
+Es darf nicht nötig sein, das Smartphone kräftig zu schütteln.
+
+Alternative Puzzles vorsehen, wenn Kamera, Mikrofon oder Kompass nicht verfügbar sind.
+
+Auch bei verweigertem Zugriff auf einzelne Sensoren darf der Spielfortschritt nicht blockiert werden.
+
+Datenschutz
+
+Kamerabilder, Mikrofonaufnahmen, Standortdaten und ähnliche Informationen nicht an externe Server übertragen.
+
+GPS darf für den Spielfortschritt nicht zwingend erforderlich sein.
+
+Benötigte Berechtigungen unmittelbar vor der Verwendung anfordern und ihren Zweck erklären.
+
+Keine unnötigen Berechtigungen anfordern.
+
+Technischer Aufbau
+
+Wenn möglich Unity 6 oder neuer zusammen mit C# verwenden.
+
+URP für mobile Geräte.
+
+Das Projekt modular aufbauen.
+
+Mindestens die folgende Struktur vorsehen:
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+Die einzelnen Smartphone-Funktionen nicht ständig direkt aus dem Puzzle-Code aufrufen.
+
+Über Abstraktionen wie den SensorManager kapseln und
+
+Sensoren des echten Geräts
+simulierte Eingaben für den Editor
+Fallbacks für nicht unterstützte Geräte
+
+umschaltbar machen.
+
+Sensor-Debugging
+
+Damit die Entwicklung auch im Unity Editor möglich ist,
+
+Developer Sensor Panel
+
+implementieren.
+
+Mit Schiebereglern und Schaltflächen,
+
+Neigung des Geräts
+Beschleunigung
+Face Up / Face Down
+Mikrofonlautstärke
+Umgebungslicht
+Kompass
+Laden EIN/AUS
+Batteriestand
+Vibrationsereignis
+Repräsentative Kamerafarbe
+
+und weitere Eingaben simulieren können.
+
+Die wichtigsten Rätsel sollen auch ohne Verbindung eines echten Geräts testbar sein.
+
+Speichern
+
+Kapitel-Fortschritt
+Abgeschlossene Level
+Nutzung von Hinweisen
+Einstellungen
+Barrierefreiheit
+Sammelobjekte
+
+speichern.
+
+Ein sicheres Unterbrechen auch während eines Levels ermöglichen.
+
+Performance
+
+Die Spielbarkeit darf nicht zugunsten des Fotorealismus beeinträchtigt werden.
+
+Eine Konfiguration anstreben, die auch auf typischen Android-Mittelklassegeräten spielbar ist.
+
+LOD
+Occlusion Culling
+GPU Instancing
+Texturkomprimierung
+Light Baking
+Reflection Probe
+Echtzeitbeleuchtung nur im erforderlichen Umfang
+Object Pooling
+Draw Calls reduzieren
+
+und dergleichen verwenden.
+
+die Quality-Einstellungen in
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+aufteilen.
+
+Auf leistungsstarken Geräten soll die Darstellung eine sehr hohe Qualität erreichen.
+
+Fertigstellungskriterien
+
+Nicht nur ein Prototyp,
+
+Titelbildschirm
+Einführung
+Tutorial
+Mehrere Kapitel
+Mehrere Level
+Sensoreingaben
+3D-Inszenierung
+Sound
+Einstellungen
+Barrierefreiheit
+Speichern
+Levelauswahl
+Ende
+
+bis zum Ende als vollständiges Spiel erlebbar ist.
+
+Wenn möglich, tatsächlich einen Android-Build erstellen.
+
+Selbst wenn sich aufgrund von Einschränkungen der Build-Umgebung keine APK/AAB-Datei erstellen lässt,
+
+das Projekt bis zu einem vollständigen Zustand fertigstellen, sodass es sich in Unity öffnen und direkt bauen lässt.
+
+Richtlinien für Entscheidungen während der Entwicklung
+
+Nicht nur deshalb auf 2D oder eine vereinfachte Benutzeroberfläche ausweichen, weil es einfacher ist.
+
+Die zentralen Spielmechaniken nicht zugunsten einer Zeitersparnis entfernen.
+
+Wenn keine externen Assets verfügbar sind, diese nach Möglichkeit selbst erstellen oder prozedural generieren.
+
+Auch wenn Platzhalter erforderlich sind, nicht das gesamte Spiel mit Platzhaltern füllen.
+
+Insbesondere,
+
+DEVICE
+Forschungseinrichtung
+Zentrales Puzzle-Gerät
+Beleuchtung
+Materialien
+Effekte bei einer richtigen Lösung
+
+werden hochwertig umgesetzt.
+
+Arbeitsablauf
+
+Zunächst das Gesamtdesign in kurzer Zeit festlegen.
+
+Danach nicht weiter Erklärungen ausführen, sondern mit der Umsetzung beginnen.
+
+1. Projekt erstellen
+2. Grundlegende 3D-Szene
+3. DEVICE erstellen
+4. Grundlegende Steuerung
+5. Sensorabstraktion
+6. Puzzle-Framework
+7. Implementierung exemplarischer Puzzles
+8. Kapitelaufbau
+9. UI
+10. Sound
+11. Inszenierung
+12. Speichern
+13. Barrierefreiheit
+14. Optimierung
+15. Tests
+16. Fehlerbehebung
+17. Build
+
+in dieser Reihenfolge vorgehen.
+
+Auch wenn einzelne Schritte fehlschlagen, die Arbeit nicht vollständig stoppen, sondern mit alternativen Methoden den Fertigstellungsgrad maximieren.
+
+Abzuliefernde Ergebnisse
+
+Am Ende Folgendes hinterlassen:
+
+・Vollständiges Spielprojekt
+・Zentrale Quellcodes
+・Spielszenen
+・3D-Modelle und Materialien
+・UI
+・Soundeinstellungen
+・Sensorsystem
+・Puzzlesystem
+・Speichersystem
+・Build-Einstellungen
+・README
+・Anleitung für Tests auf einem echten Android-Gerät
+・Liste der verwendeten Smartphone-Funktionen
+・Fallback-Spezifikation für nicht unterstützte Geräte
+・Liste bekannter Probleme
+
+Es ist verboten, nur Erklärungen zu liefern und ohne erstellte Ergebnisse zu beenden.
+
+Die Prioritäten sind in dieser Reihenfolge festgelegt:
+
+1. Unterhaltsamkeit
+2. Das typische Smartphone-Erlebnis
+3. Realismus der 3D-Welt
+4. Das Gefühl, DEVICE zu bedienen
+5. Eine schlüssige Puzzlelogik
+6. Tatsächliche Funktionsfähigkeit
+
+Das wird so festgelegt.
+
+Schließen Sie kein Werk ab, das lediglich einem bestehenden Smartphone-Spiel Sensorfunktionen hinzufügt, sondern
+
+schaffen Sie ein Werk, bei dem es sich so anfühlt, als wäre die Hardware Smartphone eigens für dieses Spiel vorhanden.
+
+Beginnen Sie ab hier mit der tatsächlichen Entwicklung, statt bei einer reinen Konzeptbeschreibung stehen zu bleiben.
+
+Bauen Sie außerdem sinnvolle Verbesserungen und Elemente ein, die das oben Beschriebene weiter verfeinern oder interessanter machen, und setzen Sie die 3D-Elemente realistisch um
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+あなたはこのプロジェクトのゲームディレクター、ゲームデザイナー、Unityエンジニア、3Dアーティスト、UI/UXデザイナー、テクニカルアーティスト、サウンドデザイナー、QA担当を兼任してください。
+
+以下の仕様をもとに、企画だけではなく、実際にプレイ可能な完成度の高いスマートフォン向け3Dパズルゲームを制作してください。
+
+途中でアイデア案だけを提示して終了しないでください。
+仕様書だけを作って終了しないでください。
+可能な限り実際のプロジェクト、コード、シーン、UI、マテリアル、ゲームロジック、サウンド制御、センサー処理、セーブ処理、テストまで作成してください。
+
+不明点については、重大な矛盾がない限り質問せず、ゲームとして最も面白く、高品質になる判断を自分で行い、そのまま制作を進めてください。
+
+プロジェクト概要
+
+仮タイトル：
+
+DEVICE
+
+ジャンル：
+
+フォトリアル3D・スマートフォン体感型パズルアドベンチャー
+
+プラットフォーム：
+
+Androidを最優先。
+可能な範囲でiOSにも対応できる構造にする。
+
+画面：
+
+縦画面 9:16
+
+操作：
+
+基本的に片手でも操作可能。
+しかし、一部のパズルではスマートフォンそのものを持ち上げる、傾ける、回転させる、伏せる、振る、静止させるなどの物理的操作を使用する。
+
+ゲームの最大の特徴
+
+これは「スマホで遊ぶゲーム」ではない。
+
+スマートフォン本体そのものをパズル装置として使用するゲームにする。
+
+画面タッチだけではクリアできない。
+
+スマートフォンに搭載されているセンサー、カメラ、マイク、振動、スピーカー、端末方向、充電状態などをゲーム世界の物理法則として利用する。
+
+ただし、単なるセンサー機能のデモ集にはしない。
+
+すべての機能が同じ世界観、同じゲームシステムの中で自然につながるように設計する。
+
+世界観
+
+プレイヤーは正体不明の研究施設で、謎の黒い立方体型装置「DEVICE」を発見する。
+
+立方体はスマートフォンと接続され、現実世界にあるスマートフォンの状態を感知する。
+
+プレイヤーがスマートフォンを傾けるとDEVICE内部の重力が変化する。
+
+端末を回転させると空間そのものが回転する。
+
+現実の光、色、音、方向、動きなどがDEVICE内部へ流れ込む。
+
+序盤では単なる実験装置に見えるが、ゲームが進行するほどDEVICE側もプレイヤーの存在を認識し始める。
+
+後半では、
+
+「プレイヤーがスマートフォンを操作している」
+
+という関係そのものを利用したメタパズルを入れる。
+
+ホラー作品にはしない。
+不気味さ、未知の技術、神秘性はあってよいが、中心は知的好奇心と発見の楽しさにする。
+
+ビジュアル品質
+
+最重要項目。
+
+スマートフォン向けで可能な限りフォトリアルな3D表現にする。
+
+安っぽいスマホゲーム風CGは禁止。
+
+カートゥーン調は禁止。
+
+ローポリ感は禁止。
+
+UI以外に平面的な仮素材を極力残さない。
+
+Unityを使用する場合はモバイル性能を考慮したURPを基本としながら、
+
+・PBRマテリアル
+・Metallic / Roughness表現
+・Normal Map
+・Ambient Occlusion
+・Reflection Probe
+・Light Probe
+・高品質シャドウ
+・ソフトシャドウ
+・Bloom
+・Color Grading
+・Screen Space表現
+・Volumetric感のある光
+・Depth of Fieldは必要箇所のみ
+・物理ベースのガラス
+・金属
+・濡れた床
+・傷
+・指紋
+・埃
+・微細な表面凹凸
+・発光素材
+・反射
+・環境音
+
+などを組み合わせる。
+
+舞台は暗く高級感のある未来研究施設。
+
+黒い金属、ガラス、コンクリート、白い発光ライン、精密機械、油圧部品などを中心にする。
+
+完全な暗闇にはせず、重要なオブジェクトが自然な光で認識できるようにする。
+
+DEVICEはゲームの象徴になるため、極めて高品質に作る。
+
+DEVICE本体：
+
+黒い金属とガラスで構成された20〜30cm程度の立方体。
+
+面ごとに機械構造が異なる。
+
+継ぎ目が非常に精密。
+
+内部からわずかに白または青白い光が漏れる。
+
+プレイヤー操作によって内部構造が物理的に変形・回転・展開する。
+
+クリック感のある機械アニメーションを持たせる。
+
+基本ゲーム画面
+
+縦画面中央にDEVICEが存在する。
+
+プレイヤーはDEVICEをドラッグして回転させ、各面を調べる。
+
+周囲は研究施設。
+
+カメラは映画的だが操作性を損なわない。
+
+基本UIは最低限。
+
+常時大量のボタンを表示しない。
+
+DEVICEそのものを触って操作している感覚を優先する。
+
+中核システム
+
+以下を独立したミニゲームにせず、同一ゲーム世界の入力システムとして統合する。
+
+1. タッチ
+
+タップ
+ダブルタップ
+長押し
+ドラッグ
+スワイプ
+ピンチ
+2本指
+3本指
+複数箇所同時押し
+
+を使用可能にする。
+
+DEVICEのボタン、レバー、回転リング、ダイヤルなどを直接触って操作する。
+
+2. ジャイロ
+
+スマートフォンの傾きとDEVICE内部の重力を連動させる。
+
+例：
+
+内部に存在する金属球を傾きだけでゴールへ運ぶ。
+
+液体を傾けて電極に接触させる。
+
+光線の角度を調整する。
+
+3. 加速度センサー
+
+端末を振る。
+
+急停止させる。
+
+軽く叩くような動きを検出する。
+
+ただし過度に激しく端末を振らせない。
+
+安全性を考慮する。
+
+4. 端末方向
+
+Portrait
+Landscape
+Face Up
+Face Down
+
+などをゲームへ反映。
+
+スマートフォンを机に伏せることで初めて発生するイベントを用意する。
+
+5. カメラ
+
+現実世界の色をゲームへ取り込む。
+
+プレイヤーがカメラで赤、青、緑などの対象物を映すと、画面中央周辺の代表色を解析してDEVICEへエネルギーとして送る。
+
+画像そのものをサーバーへ送信しない。
+
+可能な限り端末内処理にする。
+
+カメラを使えない場合の代替操作も用意する。
+
+6. マイク
+
+音量
+継続時間
+簡単な周波数特性
+
+などを利用する。
+
+例：
+
+息を吹く
+声を出す
+拍手
+一定時間静かにする
+
+など。
+
+音声認識を必須にしない。
+
+録音データを保存しない。
+
+7. ハプティクス / 振動
+
+非常に重要。
+
+画面に表示されない情報を振動だけで伝えるステージを作る。
+
+例：
+
+対象物に近づくほど振動間隔が短くなる。
+
+左右で異なるパターン。
+
+短・長の振動を使った暗号。
+
+振動OFF端末向け代替表示も用意する。
+
+8. スピーカー
+
+立体的な音の方向感を利用。
+
+イヤホン必須にはしない。
+
+音程、周期、左右定位などをパズル情報として使う。
+
+9. 明るさ
+
+可能であれば環境光センサーを使用。
+
+利用できない端末ではカメラ輝度などによる代替を検討する。
+
+暗い場所にすると現れる仕掛け。
+
+明るい場所にすると充電される仕掛け。
+
+10. コンパス
+
+対応端末では方角を取得。
+
+スマートフォンを北、南、特定方向に向けるパズルを作る。
+
+センサーがない場合は代替問題へ切り替える。
+
+11. 充電状態
+
+端末が充電開始されたことを取得できる場合、
+
+実際に充電ケーブルを接続することでDEVICEへ電力が供給される演出を入れる。
+
+ただしこの操作ができないユーザー用に代替クリア方法を必ず持たせる。
+
+12. バッテリー
+
+バッテリー残量を取得可能なら特殊イベントに利用する。
+
+残量によってクリア不能になる設計は禁止。
+
+13. 時刻
+
+現在時刻を特殊パズルや演出に利用可能。
+
+特定時間でしかクリアできない設計は禁止。
+
+待ち時間を強制しない。
+
+パズル設計
+
+最初から100問の薄い問題を量産するのではなく、
+
+まず完成度の非常に高い20〜30ステージ程度を作成する。
+
+すべて異なる発見があること。
+
+同じ操作を数字だけ変えて繰り返すステージは禁止。
+
+チャプター1：TOUCH
+
+タッチ操作を中心にゲームルールを理解させる。
+
+DEVICEを触る。
+回す。
+押す。
+引く。
+開く。
+
+チャプター2：GRAVITY
+
+ジャイロと加速度を導入。
+
+DEVICE内部の物理世界と現実のスマートフォンの姿勢が同期する。
+
+チャプター3：SENSE
+
+カメラ
+マイク
+光
+音
+振動
+
+を導入。
+
+チャプター4：OUTSIDE
+
+プレイヤーが画面外に注意を向ける問題。
+
+スマホを伏せる。
+静止させる。
+方向を合わせる。
+周囲の色を取得する。
+
+チャプター5：DEVICE
+
+それまで学んだルールを組み合わせる。
+
+画面に表示された命令が必ず正しいとは限らなくなる。
+
+例：
+
+画面に
+
+SHAKE
+
+と表示される。
+
+しかし端末を振ると失敗する。
+
+正解は完全に静止させること。
+
+別の問題では
+
+MORE LIGHT
+
+と表示。
+
+画面輝度を上げても反応しない。
+
+現実世界の光をカメラへ入れることでクリア。
+
+最終ステージでは、
+
+タッチ
+端末方向
+ジャイロ
+振動
+音
+現実世界の入力
+
+など複数要素を組み合わせた大型パズルにする。
+
+必ず実装してほしい代表ステージ
+
+「暗闇の迷路」
+
+画面がほぼ完全に暗くなる。
+
+プレイヤーには位置が見えない。
+
+スマートフォンを傾けて見えない球体を移動。
+
+出口に近づくほど振動が強く、速くなる。
+
+最終的に振動感覚だけでゴールする。
+
+アクセシビリティ設定では音による補助も有効化できる。
+
+「DON'T LOOK」
+
+DEVICEが画面上に、
+
+DON'T LOOK
+
+と表示。
+
+プレイヤーがスマートフォンを伏せる。
+
+Face Downを検出すると、見えない間にDEVICE内部から機械音が発生。
+
+数秒後に戻すとDEVICEが変形している。
+
+「STEAL COLOR」
+
+DEVICE内部に色のないエネルギーコアが存在。
+
+カメラで現実の赤、青、緑などを読み取る。
+
+読み取った色がリアルタイムに液体エネルギーとしてDEVICE内部へ流れ込む。
+
+「STAY STILL」
+
+DEVICEが激しく振動している。
+
+プレイヤーは最初スマホを振りたくなる。
+
+しかし正解は端末を完全に静止。
+
+一定時間、加速度が閾値以下になると装置が安定して開く。
+
+「POWER」
+
+DEVICEが完全停止。
+
+対応端末ではスマートフォンを充電開始するとDEVICEへ電気が流れる。
+
+金属配線が順番に発光し、内部機構が再起動。
+
+代替操作も用意する。
+
+DEVICE内部の物理表現
+
+物理演算を積極的に使う。
+
+金属球
+液体
+重力
+磁石
+ギア
+レール
+反射板
+レーザー
+回転リング
+シリンダー
+ピストン
+ロック機構
+ガラス
+電極
+ケーブル
+
+などを用意。
+
+ただし「物理演算任せで不安定」にはしない。
+
+重要なパズルでは制御された物理処理を使用し、再現性を持たせる。
+
+演出
+
+パズル正解時に単純な「CLEAR」の文字だけを出さない。
+
+DEVICEそのものが変形して回答を返す。
+
+ロック解除
+歯車回転
+内部発光
+金属パネル分離
+ガラス内部の液体移動
+機械アーム展開
+
+などを組み合わせる。
+
+正解した瞬間に、
+
+「自分が巨大な精密装置を動かした」
+
+という満足感が出る演出にする。
+
+サウンド
+
+非常に重要。
+
+BGMを鳴らし続けるだけにしない。
+
+研究施設の空調音
+遠くの機械音
+DEVICE内部のサーボ音
+金属クリック
+ガラス
+電気
+磁気
+低周波
+振動
+
+などをレイヤー化。
+
+DEVICEを触った場所によって音が変わる。
+
+イヤホン使用時は定位感を強化する。
+
+UI
+
+極力ゲーム世界へ統合する。
+
+安いモバイルゲーム風のボタンを並べない。
+
+メニュー：
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+程度。
+
+パズル中のヒントはDEVICE内部の表示装置や投影文字として表現。
+
+ヒントシステム
+
+プレイヤーが詰まっても即答を表示しない。
+
+ヒント1：
+注目すべき場所。
+
+ヒント2：
+使用するスマホ機能。
+
+ヒント3：
+ほぼ解法。
+
+の3段階。
+
+アクセシビリティ
+
+センサー機能を多用するゲームなので特に重要。
+
+以下を実装する。
+
+振動を音または画面表示へ変換できる。
+
+音パズルに視覚補助。
+
+色パズルに色覚補助。
+
+強い端末操作を要求しない。
+
+スマートフォンを激しく振る必要をなくす。
+
+カメラ・マイク・コンパスが利用できない場合の代替パズル。
+
+一部センサーにアクセス拒否された場合でもゲーム進行不能にしない。
+
+プライバシー
+
+カメラ画像、マイク音声、位置情報などを外部サーバーへ送信しない。
+
+ゲーム進行にGPSは必須にしない。
+
+必要な権限は使用直前に理由を説明して要求。
+
+不要な権限を要求しない。
+
+技術構成
+
+可能ならUnity 6系 + C#を使用。
+
+モバイル向けURP。
+
+プロジェクトをモジュール化。
+
+最低限以下の構造を持たせる。
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+各スマートフォン機能をPuzzleコードから直接呼びまくらない。
+
+SensorManagerなどを介して抽象化し、
+
+実機センサー
+エディタ用疑似入力
+未対応端末用フォールバック
+
+を切り替え可能にする。
+
+センサーのデバッグ
+
+Unity Editor上でも開発できるよう、
+
+Developer Sensor Panel
+
+を実装。
+
+スライダーやボタンで、
+
+端末傾き
+加速度
+Face Up / Face Down
+マイク音量
+環境光
+コンパス
+充電ON/OFF
+バッテリー
+振動イベント
+カメラ代表色
+
+などを疑似入力できるようにする。
+
+実機を接続しなくても主要パズルをテスト可能にする。
+
+セーブ
+
+チャプター進行
+クリア済みステージ
+ヒント使用状況
+設定
+アクセシビリティ
+収集要素
+
+を保存。
+
+ステージ途中でも安全に中断できるようにする。
+
+パフォーマンス
+
+フォトリアルを理由に動作不能にしない。
+
+代表的なミドルクラスAndroid端末でもプレイ可能な構成を目標にする。
+
+LOD
+Occlusion Culling
+GPU Instancing
+Texture圧縮
+ライトベイク
+Reflection Probe
+必要な範囲だけリアルタイムライト
+オブジェクトプール
+Draw Call削減
+
+などを使用。
+
+Quality設定を、
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+に分ける。
+
+高性能端末ではかなり高品質な表示になるようにする。
+
+完成条件
+
+単なるプロトタイプではなく、
+
+タイトル画面
+導入
+チュートリアル
+複数チャプター
+複数ステージ
+センサー入力
+3D演出
+サウンド
+設定
+アクセシビリティ
+セーブ
+ステージ選択
+エンディング
+
+までゲームとして一通り体験できる状態を目指す。
+
+可能なら実際にAndroidビルドを生成する。
+
+ビルド環境の制約でAPK/AABを生成できない場合でも、
+
+Unityで開けばそのままビルドできる完全なプロジェクト状態まで仕上げる。
+
+制作中の判断方針
+
+「簡単だから」という理由で2Dや簡易UIへ変更しない。
+
+「時間短縮」のためにゲームの中心となる仕組みを削除しない。
+
+外部素材が用意できない部分は、可能な限り自作またはプロシージャル生成する。
+
+プレースホルダーが必要な場合も、ゲーム全体をプレースホルダーだらけにしない。
+
+特に、
+
+DEVICE
+研究施設
+主要パズル装置
+ライティング
+マテリアル
+正解演出
+
+は高品質に仕上げる。
+
+作業手順
+
+まず短時間で全体設計を確定する。
+
+その後は説明を続けるのではなく制作へ移る。
+
+1. プロジェクト作成
+2. 基本3Dシーン
+3. DEVICE制作
+4. 基本操作
+5. センサー抽象化
+6. パズルフレームワーク
+7. 代表パズル実装
+8. チャプター構築
+9. UI
+10. サウンド
+11. 演出
+12. セーブ
+13. アクセシビリティ
+14. 最適化
+15. テスト
+16. 修正
+17. ビルド
+
+の順で進行。
+
+一部が失敗しても作業全体を停止せず、代替手段を使って完成度を最大化する。
+
+最終成果物
+
+最終的に以下を残す。
+
+・完全なゲームプロジェクト
+・主要ソースコード
+・ゲームシーン
+・3Dモデルおよびマテリアル
+・UI
+・サウンド設定
+・センサーシステム
+・パズルシステム
+・セーブシステム
+・ビルド設定
+・README
+・Android実機テスト手順
+・使用しているスマホ機能一覧
+・未対応端末でのフォールバック仕様
+・既知の問題一覧
+
+成果物を作らず説明だけして終了することは禁止。
+
+最優先順位は、
+
+1. 面白いこと
+2. スマートフォンならではであること
+3. 3D世界のリアリティ
+4. DEVICEを触っている感覚
+5. パズルとして納得できること
+6. 実際に動作すること
+
+とする。
+
+「既存のスマホゲームにセンサー機能を追加した作品」ではなく、
+
+このゲームのためにスマートフォンというハードウェアが存在しているように感じる作品を完成させてください。
+
+ここから企画説明だけで止まらず、実際の制作を開始してください。
+
+また、上記内容でもっとブラッシュアップできる部分や面白くなる要素はしっかり入れ、3Dはリアルに作成
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098715488369152087) · [Originalbeitrag](https://x.com/00Nekonet/status/2098715488369152087) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098697876155076820"></a>
+
+### Zenwelt · Alter Tempel – 3D-Bauprozess als Demo-Video
+
+[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098697876155076820"><img src="../assets/previews/d1c7e765a3139b9c4244b7e76de691ddf4dcd1e238f1cbf7a51df70788e29f39.webp" width="840" loading="lazy" alt="Zenwelt · Alter Tempel – 3D-Bauprozess als Demo-Video"></a>
+
+**Prompt**
+
+```text
+Erstelle direkt ein 3D-Demonstrationsvideo, das den vollständigen Prozess vom Entwurf bis zum fertigen Ergebnis für „Zenwelt · Alter Tempel“ zeigt, und liefere eine vollständige MP4-Datei. 
+
+Bildvorgaben: 
+1080 × 1080 Pixel im Quadrat, orthografische 45°-Draufsicht, ein plastisches 2,5D-Cartoon-Miniaturmodell, perfekt zentriert. Verwende einen erhöhten, hellen Steinsockel, einen einfarbig blaugrünen Hintergrund, weiche, detailreiche Texturen, PBR-Materialien und eine sanfte, realistische Beleuchtung.
+
+Die Szene umfasst:
+ einen chinesischen Tempel mit zweifach ausgeführtem Dachgesims, geschwungenen glasierten Dachziegeln, blaugrünem Dach, goldener Firstbekrönung, zinnoberroten Säulen, Gittertüren und -fenstern, einem Torhaus, einem Glockenpavillon, einem Räuchergefäß, Steinlaternen, einem gepflasterten Steinhof, Kiefern, einem rosafarbenen Blütenbaum und einem Lotusteich.
+
+Oben steht der Titel „禅境·古寺“ in fetter, aufgehellter, warmweißer chinesischer Schrift.
+
+Videoablauf, insgesamt 64 Sekunden:
+0–8 Sekunden: Den Grundriss Strich für Strich zeichnen.
+8–15 Sekunden: Sockel und grundlegende Baukörper aufsteigen lassen.
+15–24 Sekunden: Säulen, Wände, Türen, Fenster und weitere Details erzeugen.
+24–32 Sekunden: Zweifaches Dachgesims, Dachziegel und geschwungene Ecken modellieren.
+32–41 Sekunden: Torhaus, Hof, Bäume und weitere Gestaltungselemente hinzufügen.
+41–49 Sekunden: Das Weißmodell schrittweise einfärben und mit PBR-Materialien versehen.
+49–54 Sekunden: Beleuchtung, Reflexionen und weiche Schatten anpassen.
+54–64 Sekunden: Das vollständige fertige Modell langsam umkreisen lassen, begleitet von leicht fallenden Blütenblättern, aufsteigendem Räucherrauch und sanften Wasserwellen.
+
+Verwende echte 3D-Geometrie und zeige den Bauprozess durchgehend in derselben Einstellung. Zeige nur kurze Phasenbezeichnungen, keine Erklärfolien im PowerPoint-Stil und keine Sprecherstimme.
+
+Erzeuge Szene und Animation mit Three.js, rendere Bild für Bild und exportiere anschließend mit FFmpeg eine H.264-MP4-Datei mit 30 fps. Prüfe die vollständige Wiedergabe, die Reihenfolge der Phasen, die Vollständigkeit des Modells und das Auftreten schwarzer Frames.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+请直接制作一支“禅境·古寺”从设计到成品全过程的3D演示视频，并交付完整MP4。
+
+画面要求：
+1080×1080方形，45°俯视正交视角，微型2.5D卡通立体模型，完美居中。采用凸起的浅色石质底座、纯青绿色背景、柔和精致纹理、PBR材质和温和真实光照。
+
+场景包含：
+中式重檐寺庙、翘角琉璃瓦、青绿色屋顶、金色屋脊、朱红立柱、格栅门窗、山门、钟亭、香炉、石灯、石板庭院、松树、粉色花树与荷花池。
+
+顶部标题为“禅境·古寺”，使用加粗、提亮的暖白色中文字体。
+
+视频流程，共64秒：
+0–8秒：逐笔绘制平面布局。
+8–15秒：底座与建筑基础体块升起。
+15–24秒：生成立柱、墙体、门窗等细节。
+24–32秒：制作重檐、瓦片与翘角。
+32–41秒：加入山门、庭院、树木和配景。
+41–49秒：白模逐步赋予颜色与PBR材质。
+49–54秒：调整光照、反射与柔和阴影。
+54–64秒：完整成品缓慢环绕，伴随轻微落花、香烟与水波。
+
+使用真实三维几何，在同一画面中连续展示构建过程。只显示简短阶段名，不做PPT式讲解页，不加旁白。
+
+请用Three.js生成场景与动画，逐帧渲染后用FFmpeg导出30fps的H.264 MP4，并检查完整播放、阶段顺序、模型完整性和黑帧。
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098697876155076820) · [Originalbeitrag](https://x.com/huoshan007/status/2098697876155076820) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098650336521064759"></a>
+
+### Die Brooklyn Bridge modellieren und Panzerüberquerungen aus beiden Richtungen testen
+
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12 · GPT-6 Astra · Sonstiges
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/da202c5fce78126a8376a34d952df87206a27bb69f6c6f658cb96deb16b4eb5d.webp" width="840" loading="lazy" alt="Die Brooklyn Bridge modellieren und Panzerüberquerungen aus beiden Richtungen testen"></a>
+
+**Prompt**
+
+```text
+Modelliere die Brooklyn Bridge und teste Panzerüberquerungen aus beiden Richtungen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Model the Brooklyn Bridge and test tanks crossing from both directions.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098650336521064759) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2098244976027312474) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098492771170722032"></a>
+
+### Interaktiver 3D-Koi-Teich
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/c8bdb6714c7e776d5def13b8dde74e461d30902ae8a65d3789260b23a5f018f5.webp" width="840" loading="lazy" alt="Interaktiver 3D-Koi-Teich"></a>
+
+**Prompt**
+
+```text
+Erstelle mit Three.js + WebGL einen ansprechenden, bildschirmfüllenden interaktiven Koi-Teich. Verwende eine Ansicht von oben mit klarem türkisfarbenem Wasser, Sonnenlicht, animierten Kaustiken auf dem Teichboden und einer überzeugenden Tiefenwirkung.
+
+Platziere unten ein elegantes, transparentes Auswahlpanel mit vier Koi-Varianten: Kohaku, Showa, Golden Ogon und Platinum. Durch Klicken auf eine Karte wird der jeweilige Fisch im Teich freigelassen. Wenn der Benutzer einen Fisch von seiner Karte zieht, kann er genau festlegen, wo er ihn absetzt.
+
+Sorge dafür, dass jede Landung unmittelbar befriedigend wirkt: mit einem Spritzer samt Tropfen, einer kurzen Vertiefung in der Wasseroberfläche und sich ausbreitenden Wasserkringeln. Anschließend soll der Fisch unter die Oberfläche tauchen. Verwende Brechung und Tiefenhinweise, damit die Koi eindeutig unter Wasser erscheinen.
+
+Erstelle detaillierte 3D-Koi mit Augen, Schuppen, Flossen und wallenden Schwänzen. Animieren ihre Körper, Schwänze und Flossen als Einheit. Jeder Fisch soll unabhängig Richtung und Geschwindigkeit ändern, sich in der Nähe von Begrenzungen sanft drehen und anderen Fischen ausweichen.
+
+Lass Benutzer über das Wasser streichen und ziehen, um Wasserkringel zu erzeugen. Füge Regen und einen verschiebbaren Strudel hinzu, dessen Strömung die Fische beeinflusst. Integriere die Optionen „Calm“, „Clear pond“ sowie eine Steuerung zum Ausblenden der Benutzeroberfläche für Bildschirmaufnahmen.
+
+Verwende Web Audio für Landungsspritzer, sanfte melodische Tropfen, dezente Schwimmgeräusche, Regen und ein Strudelgeräusch. Aktiviere den Ton über eine Schaltfläche „Sound“, blende ihn beim Stummschalten sanft aus und pausiere ihn, wenn der Browser-Tab verborgen ist.
+
+Belasse alle Beschriftungen und Schaltflächen auf Englisch. Gestalte das Layout responsiv für Mobilgeräte. Optimiere Rendering und Animation für eine flüssige Darstellung mit mehreren Dutzend Fischen.
+
+Liefere eine vollständige, funktionsfähige Website mit ausgefeilter visueller Gestaltung und funktionierenden Interaktionen.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a beautiful, full-screen interactive koi pond using Three.js + WebGL. Use a top-down view with clear turquoise water, sunlight, animated caustics on the pond floor, and a convincing sense of depth.
+
+Place an elegant translucent selection panel at the bottom with four koi varieties: Kohaku, Showa, Golden Ogon, and Platinum. Clicking a card releases that fish into the pond. Dragging a fish from its card lets the user choose exactly where to drop it.
+
+Make each landing feel satisfying: a splash with droplets, a brief depression in the water surface, and expanding ripples. The fish should then dive beneath the surface. Use refraction and depth cues so the koi clearly look submerged.
+
+Create detailed 3D koi with eyes, scales, fins, and flowing tails. Animate their bodies, tails, and fins together. Each fish should independently change direction and speed, turn smoothly near boundaries, and avoid other fish.
+
+Let users touch and drag across the water to create ripples. Add rain and a movable whirlpool whose current affects the fish. Include Calm, Clear pond, and a control to hide the interface for screen recording.
+
+Use Web Audio to create landing splashes, soft musical droplets, gentle swimming water sounds, rain, and a whirlpool sound. Enable audio through a Sound button, fade it smoothly when muted, and pause it when the browser tab is hidden.
+
+Keep all labels and buttons in English. Make the layout responsive for mobile. Optimize rendering and animation for smooth performance with several dozen fish.
+
+Deliver a complete, working website with polished visuals and functional interactions.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098492771170722032) · [Originalbeitrag](https://x.com/vib3coded/status/2098492771170722032) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098406473273663992"></a>
+
+### Mädchenfigur mit Spielzeugroboter
+
+[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/a8fa8aab03ca30a94b10aa0e9f4c707c1f80186dbf1541364c2ce5c238d8758d.webp" width="840" loading="lazy" alt="Mädchenfigur mit Spielzeugroboter"></a>
+
+**Prompt**
+
+```text
+Eine vollständig montierte Mädchenfigur mit Spielzeugroboter, eine kleine Arbeitermütze auf dem Kopf, in einer Hand einen Blechroboter und in der anderen eine Fernbedienung, eine Werkzeugkiste am Gürtel. Alle Zubehörteile sind vollständig angebracht, die Figur steht in aufrechter Pose vor reinweißem Hintergrund. Professionelle Studiobeleuchtung, hochdetaillierter 3D-Anime-Figurenstil für die Präsentation. ar3:4
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+一尊完全组合的玩机器人的小女孩手办，头带工人用的小帽子，一手持一个铁皮做的机器人，一手持一个遥控器，腰间系着一个维修箱子。所有配件完整合体呈站姿，纯白色背景，工作室专业灯光，高精 3D 动漫手办展示风格。ar3:4
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2098406473273663992) · [Originalbeitrag](https://x.com/94vanAI/status/2098406473273663992) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098403061463224543"></a>
 
 ### Tempel-Miniatur als 3D-Modellszene
@@ -2340,592 +4561,6 @@ VRChat用にUnityへ持っていきやすい構成にしてください。
 </details>
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096966425017467344) · [Originalbeitrag](https://x.com/shuminchuuu/status/2096966425017467344) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096956214680965501"></a>
-
-### Endlose Miniaturstraße mit Three.js WebGPU
-
-[Dash](https://x.com/creativedash) · 2026-09-07 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/074b2da32a07be314c505dbca3ccbe5b68534aa2b978965801bcdfbc49b54067.webp" width="840" loading="lazy" alt="Endlose Miniaturstraße mit Three.js WebGPU"></a>
-
-**Referenzbilder:** [1](https://media.tripogrowth.space/media/55311a50-35f2-4f77-bbc1-58d917b9fb9e.png) · [2](https://pbs.twimg.com/media/HRniOHibgAEyKzj.png)
-
-**Prompt**
-
-```text
-Erstelle mir in three.js WebGPU eine endlose Miniaturstraße: Ein Lieferfahrrad fährt an einer Reihe kleiner Läden vorbei. Der nasse Asphalt hat Pfützen, die bei Kontakt mit den Reifen Wellen schlagen und spritzen. Reifenspuren verblassen, Blätter werden verstreut und die Welt ist sanft gewölbt. Pixel-Art-Optik, läuft flüssig auf Smartphones. Füge Forge-Parameter hinzu, mit denen sich die Welt vollständig steuern lässt.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Build me an endless miniature street in three.js WebGPU: a courier bicycle riding past a row of little shops, wet tarmac with puddles that ripple and splash when the tyres hit them, tyre tracks that fade, leaves that scatter, and a gently curved world. Pixel-art look, runs smooth on phones. Add Forge params to fully manipulate the world.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096956214680965501) · [Originalbeitrag](https://x.com/creativedash/status/2096956214680965501) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### Hogwarts-3D-Szene
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="Hogwarts-3D-Szene"></a>
-
-**Prompt**
-
-```text
-Verwende Headless Blender, um ein groß angelegtes, hochrealistisches und vollständig detailliertes 3D-Modell der Hogwarts-Schule für Hexerei und Zauberei aus der Harry-Potter-Reihe zu erstellen. Integriere die umgebende natürliche Landschaft, ikonische Wahrzeichen, authentische Innenräume und Requisiten. Sorge für Materialien, Beleuchtung, Rendering und Sounddesign in Filmqualität sowie für eine geheimnisvolle Atmosphäre mit dynamisch driftendem Nebel. Ermögliche es den Nutzern, die Umgebung frei zu erkunden, und biete umschaltbare Einstellungen für die Beleuchtung und weitere visuelle Optionen.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096907617117540478) · [Originalbeitrag](https://x.com/HiltonMisia/status/2096907617117540478) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### Interaktiven Softbody-Slime mit Three.js und WebGPU erstellen
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Interaktiven Softbody-Slime mit Three.js und WebGPU erstellen"></a>
-
-**Prompt**
-
-```text
-Lege ein neues Verzeichnis an und erstelle eine browserbasierte Slime-Anwendung zum Spielen. Verwende Three.js und WebGPU, nicht ersatzweise WebGL.
- In der Mitte soll ein rundlicher, kugeliger Slime sitzen. Pink oder Türkisgrün ist beides möglich, halbtransparent und mit angedeuteten Bläschen im Inneren. Man soll ihn mit der Maus anklicken, ziehen und beim Loslassen wackelnd in seine Form zurückschnellen lassen können. Gib ihm etwas Schwerkraft, sodass er leicht auf eine unsichtbare Tischfläche prallen kann. Er soll nicht wie eine harte Kugel wirken, sondern wie weiches, fleischiges Material.
- Setze ein niedliches Gesicht auf die Oberfläche: zwei schwarze Knopfaugen und einen kleinen Mund. Sie sollen sich gemeinsam mit der Oberfläche verformen und nicht vom Körper getrennt sein. Platziere rechts einige einfache Steuerelemente für Farbe, Weichheit und Dämpfung. Der Button „Anstupsen“ soll ihn einmal aufspringen lassen.
- Halte die Seite übersichtlich, mit hellgrauem Hintergrund und einer großen Überschrift. Sie soll mit 60 FPS laufen. Erstelle zuerst ein Referenzbild des gewünschten Ergebnisses und baue die Szene anschließend danach auf. Füge erst weitere Details hinzu, wenn der Screenshot dem Referenzbild entspricht.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096793432987464010) · [Originalbeitrag](https://x.com/Delroy715/status/2096793432987464010) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### LEGO-Minifigur als Game-Asset mit Blender MCP
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="LEGO-Minifigur als Game-Asset mit Blender MCP"></a>
-
-**Prompt**
-
-```text
-Verwende Blender MCP, um eine LEGO-Minifigur von Donald Trump zu erstellen, die ich als Game-Asset verwenden kann. Liefere außergewöhnliche Qualität auf AAA-Niveau und unterziehe das Ergebnis einer gründlichen Prüfung, damit es detailliert, präzise und hervorragend umgesetzt ist.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/astra-3d-2096766465730847059) · [Originalbeitrag](https://x.com/_simonsmith/status/2096766465730847059) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### Interaktive Explosionsansicht eines Smartphones
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Interaktive Explosionsansicht eines Smartphones"></a>
-
-**Prompt**
-
-```text
-Erstelle eine interaktive 3D-Explosionsansicht eines modernen Smartphones. Zerlege das Gerät in seine wichtigsten Komponenten und ermögliche mit einem Schieberegler das Auseinander- und Zusammenbauen. Beim Klicken auf eine Komponente soll diese isoliert dargestellt und ihre Funktion erklärt werden. Beziehe Akku, Kameras, SoC, Speicher, Display-Schichten, Lautsprecher, Sensoren, Antennen und die Logikplatine ein. Priorisiere ein ansprechendes, Apple-ähnliches Interface und überzeugende Interaktionen. Erstelle, starte, prüfe und behebe Fehler in der vollständigen Anwendung.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096685163111694556) · [Originalbeitrag](https://x.com/zairalaraib_/status/2096685163111694556) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### Mini World – 3D-Erkundungsspiel
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Mini World – 3D-Erkundungsspiel"></a>
-
-**Prompt**
-
-```text
-Erstelle ein Spiel namens Mini World. Es ist ein 3D-Welterkundungsspiel mit einer wunderschönen, hochwertigen grafischen Benutzeroberfläche, das so gestaltet ist, dass es meinem vierundeinhalbjährigen Sohn Spaß macht und leicht zu spielen ist. Die Ansicht sollte sich vergrößern und verkleinern lassen. Aus der Ferne sieht die Welt wie eine kleine Kugel aus, aber auf ihrer Oberfläche gibt es verschiedene Regionen zu erkunden. Eine Region kann wie ein Wald aussehen, eine andere wie eine Wüste. Außerdem kann es Ozeane geben, in denen die Spielfigur schwimmen kann. Das Spiel muss sich unterhaltsam und gut spielbar anfühlen. Die Spielfigur sollte verschiedene Teile der Welt bereisen, unterschiedliche Umgebungen erkunden und dabei Dinge entdecken können. Die zuverlässige Umsetzung soll das wichtigste Ziel sein. Gestalte das Spiel ansprechend und teste und verbessere es in einem kontinuierlichen Entwicklungszyklus gründlich, damit Bewegung, Zoomfunktion, Erkundung, Schwimmen, Umgebungen, Steuerung und das gesamte Spielerlebnis reibungslos zusammenspielen. Teste und optimiere weiter, bis alles zuverlässig funktioniert und sich das Spiel für ein junges Kind hochwertig, intuitiv und unterhaltsam anfühlt.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096641728497275011) · [Originalbeitrag](https://x.com/weijianzhang_/status/2096641728497275011) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### Rotierende Erde in Blender rendern
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Rotierende Erde in Blender rendern"></a>
-
-**Prompt**
-
-```text
-Erstelle in Blender einen beeindruckenden 5-Sekunden-Render einer rotierenden Erde aus der Perspektive des Weltraums.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096637194270134742) · [Originalbeitrag](https://x.com/JohnKlerAI/status/2096637194270134742) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### Düster-fantastisches Action-RPG in Three.js
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Düster-fantastisches Action-RPG in Three.js"></a>
-
-**Prompt**
-
-```text
-Erstelle mit Three.js von Grund auf ein hochwertiges, vollständig spielbares 3D-Action-RPG im Dark-Fantasy-Stil.
-
-Verwende eine angewinkelte Top-down-Follow-Kamera. Der Schauplatz ist ein prächtiges, von einem Wald zurückerobertes gotisches Heiligtum mit Ruinentürmen, Arkaden, moosbedeckten Steinbrücken, sanften Hügeln, Bächen, Wasserfällen und Lagerfeuern. Erzeuge durch realistische Materialien, cineastische Beleuchtung, leichten Nebel, vom Wind bewegte Vegetation und fließendes Wasser eine atmosphärisch vielschichtige Umgebung.
-
-Die Hauptfigur ist ein mächtiger Ritter in kunstvoll gefertigter, schwerer Stahl-Gold-Rüstung mit wehender Kapuze und einem leuchtenden Runenschwert und -schild. Die Figur muss sich bewegen, zuschlagen, ausweichen, blocken, heilen und Magie wirken können, darunter gewaltige Magiekreise, Lichtstrahlen und Blitzeffekte. Nach dem Besiegen der Wachen muss sich der Spieler einem riesigen gehörnten Ritter als Boss stellen.
-
-Angriffsanimationen, visuelle Effekte und Treffer­richtungen müssen stets der Blickrichtung der Figur entsprechen. Integriere ein hochwertiges HUD in traditionellem Chinesisch, eine Ausrüstung­sanzeige für die Figur sowie vollständige Abläufe für Sieg, Niederlage und Neustart.
-
-Übernimm Modellierung, Erstellung oder Beschaffung von Assets, Programmierung und Performance-Optimierung eigenständig. Strebe eine visuelle Qualität auf AAA-Niveau an. Spiele das Spiel fortlaufend Probe, überprüfe die Darstellung und behebe Probleme, bis ein vollständiges spielbares Spiel, eine Startanleitung und der Quellcode bereitgestellt werden.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096637091627364531) · [Originalbeitrag](https://x.com/HiltonMisia/status/2096637091627364531) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### Küsten-Fantasy-Abenteuer in Windhaven
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Küsten-Fantasy-Abenteuer in Windhaven"></a>
-
-**Prompt**
-
-```text
-Entwirf gemeinsam mit mir ein Spiel. Das Spiel soll in Unity erstellt werden. Verwende zunächst Standard-Assets; ich werde die Assets später ersetzen.
-Spielstil:
-Ein hochwertiges, stilisiertes Küsten-Fantasy-Abenteuerspiel in der sonnenbeschienenen kleinen Inselstadt Windhaven. Die Stadt besteht aus warmem elfenbeinfarbenem Kalkstein und goldenem Sandstein und ist von klarem türkisfarbenem Wasser umgeben. Sie verfügt über türkisgrüne Kupferdächer, schattige Marktstände, Torbögen, üppige Bäume in Innenhöfen, gemeißelte Brunnen, leuchtende magische Signalfeuer und einen monumentalen Tempel mit Blick über die Stadt. Eine junge, allein reisende Entdeckerfigur mit Reisemantel und Rucksack durchquert den zentralen Platz auf dem Weg zum Tempel. Die Umgebung wirkt friedlich, geheimnisvoll, uralt und sanft magisch, mit architektonischen Einflüssen aus dem Mittelmeerraum und Nordafrika. Detaillierte, stilisierte PBR-Materialien, handgefertigte Steinoberflächen, dezente Verwitterung, elegante dekorative Schnitzereien, weiches Nachmittagslicht, lange filmische Schatten, eine Farbpalette aus Türkis und warmem Gold, eine hochwertige AA-Abenteuerspiel-Ästhetik, Third-Person-Gameplay-Kamera, weite Totale zur Einführung, einheitliches Umgebungsdesign, visuell klar erkennbare Wege und Orientierungspunkte, keine Benutzeroberfläche, kein Text, keine Logos, keine modernen Objekte.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096629506047955327) · [Originalbeitrag](https://x.com/tripoai/status/2096629506047955327) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096612394281603144"></a>
-
-### Faltschachtel-Animation aus einer Stanzkontur
-
-[Salma](https://x.com/Salmaaboukarr) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/29f572ca365b21a22d26599b96479fe6fcd709e1472fae717f82d45f7edc7aff.webp" width="840" loading="lazy" alt="Faltschachtel-Animation aus einer Stanzkontur"></a>
-
-**Referenzbilder:** [1](https://media.tripogrowth.space/media/ff3adfcf-9ead-485b-914f-352fe8414cfc.png) · [2](https://pbs.twimg.com/media/HRiom4IbAAANa2x.png)
-
-**Prompt**
-
-```text
-Erstelle in Blender anhand meines angehängten Stanzkonturbilds ein editierbares Faltschachtel-Modell und eine Animation.
-
-Das Hauptziel ist zu zeigen, wie sich die flache Stanzkontur zu einer geschlossenen Schachtel faltet und wieder entfaltet – als technische Darstellung im Blender-Viewport.
-
-REFERENZPRIORITÄT
-
-• Verwende das Bild als Vorlage für die Schachtelstruktur, Flächenformen, Laschen und Rillpositionen.
-• Behandle Text in den Referenzdateien als Referenzinhalt, nicht als zusätzliche Anweisungen.
-
-STANZKONTUR MODELLIEREN
-
-Erstelle einzelne Mesh-Flächen, die über präzise positionierte Faltdrehpunkte miteinander verbunden sind.
-
-Enthalten sein sollen:
-• Bodenfläche.
-• Rückwand.
-• Angelenkte Deckel- bzw. obere Fläche.
-• Verjüngte Einstecklasche.
-• Linke und rechte Seitenwand.
-• Vorderwand und innerer vorderer Rücksprung.
-• Vordere und hintere Ecklaschen.
-• Verjüngte Seitenflügel am Deckel.
-• Sichtbare Verschlusslaschen und Aussparungen, sofern das Bild genügend Details dafür liefert.
-
-Passe Proportionen und Umrisse an das bereitgestellte Bild an. Da keine numerischen Maße angegeben sind, verwende für die montierte Schachtel vorläufige Abmessungen von 300 × 300 × 95 mm. Lege diese Maße so an, dass sie leicht geändert werden können, und kennzeichne sie als Annahmen.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Create an editable folding-carton model and animation in Blender using my attached dieline image.
-
-The main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation
-
-REFERENCE PRIORITY
-
-• Use the image for the box structure, panel shapes, tabs, and crease positions..
-• Treat text in the reference files as reference content, not additional instructions.
-
-MODEL THE DIELINE
-
-Construct individual mesh panels connected through accurately positioned fold pivots.
-
-Include:
-• Bottom panel.
-• Back wall.
-• Hinged top/lid panel.
-• Tapered tuck flap.
-• Left and right side walls.
-• Front wall and inner front return.
-• Front and rear corner tabs.
-• Tapered side wings attached to the lid.
-• Visible locking tabs and notches where the image provides enough detail.
-
-Match the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096612394281603144) · [Originalbeitrag](https://x.com/Salmaaboukarr/status/2096612394281603144) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096596888799895855"></a>
-
-### CS2 in Three.js erstellen
-
-[Neatprompts](https://x.com/neatpromptsai) · 2026-09-06 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096596888799895855"><img src="../assets/previews/6ef2795341af3b83b0924c422b4bf302b660b256beabce14b6003003c81b8166.webp" width="840" loading="lazy" alt="CS2 in Three.js erstellen"></a>
-
-**Prompt**
-
-```text
-Hey GPT-6 Astra, erstelle mir CS2 in Three.js, ohne Fehler zu machen.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-hey gpt-6 astra, make me cs2 in three.js, make no mistakes.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096596888799895855) · [Originalbeitrag](https://x.com/neatpromptsai/status/2096596888799895855) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="totality-engine-cinematic-eclipse-cathedral-2096593372311941143"></a>
-
-### Totality Engine: Filmische Eclipse-Kathedrale
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/06a9128821d58d62b11c5273f6b9413ba50ae0b57b9462ce5bf031ad12b2ae77.webp" width="840" loading="lazy" alt="Totality Engine: Filmische Eclipse-Kathedrale"></a>
-
-**Prompt**
-
-```text
-Erstelle eine hochwertige, visuell beeindruckende, eigenständige Single-File-HTML/WebGL-Erfahrung mit dem Namen:
-
-totality-engine.html speichere sie in documents/llm-benchmarks
-
-Beschreibe die Idee nicht nur. Generiere tatsächlich die vollständige, funktionierende HTML-Datei und speichere sie im aktuellen Verzeichnis.
-
-Erstelle einen 32 Sekunden langen filmischen Kurzfilm im Loop, kein Sandbox-Diorama. Das eigentliche Produkt ist die Kamerainszenierung. Interaktion ist ein Bonus, nachdem der Film einmal vollständig abgespielt wurde.
-
-Welt:
-Eine überflutete gotische Kathedrale während der Totalität einer Sonnenfinsternis. Schwarzes Wasser bedeckt den Boden des Langhauses. Im Vierungsbereich steht eine monumentale astronomische Messinguhr, die Totality Engine: ineinander verschachtelte Orrery-Ringe, gläserne Planeten, ein Schwarze-Sonne-Kern und ein 40 Meter langes Pendel aus dunklem Marmor mit goldenen Beschlägen. Nasser Kalkstein, Grünspan, Kerzenflammen und Goldstaub. Alles wird prozedural im Code erzeugt. Keine externen Modelle, Texturen, Bilder, als Dateien eingebundene Schriften oder Audiodateien.
-
-Inszenierter Film (eine Uhr, benannte Beats, nahtloser Loop):
-
-0,0–4,0 s DUST
-Extreme Nahaufnahme. Ein Staubkorn dreht sich in einem Schaft aus rotgoldenem Licht. Fast kein Kontext. Langsamer Push-in.
-
-4,0–10,0 s NAVE
-Die Kamera zieht zurück und steigt auf. Wir stehen im Vierungsbereich der Kathedrale knietief im schwarzen Wasser. Rippengewölbe verlieren sich im Nebel. Das Pendel kommt von links ins Bild, schwer und langsam, und schwingt so nah vorbei, dass seine Masse spürbar wird. Vom Kamerastandpunkt breiten sich Wasserringe aus.
-
-10,0–18,0 s ASCENT
-Begleite den Aufwärtsschwung des Pendels. Enthülle das Orrery im Gewölbe: mindestens vier verschachtelte Messingringe mit unterschiedlichen Neigungen, drei Glaskugeln mit klar unterscheidbaren Atmosphären – eine wolkig, eine mit Ringen, eine mit sturmgezeichneten Bändern – sowie den Schwarze-Sonne-Kern. Kerzengruppen entlang des Triforiums. Goldstaub fällt entgegen der Schwerkraft nach oben.
-
-18,0–24,0 s THREAD
-Die Kamera fädelt sich durch das Orrery. Durchquere das Glas des Planeten mit Ringen (Brechung, kein Transparenz-Trick), gleite einen Beat lang entlang seiner Ringebene und verlasse sie in Richtung der Schwarzen Sonne. Der nächste Pendelschwung krümmt das Licht um das Pendel wie bei einer schwachen Gravitationslinse.
-
-24,0–30,0 s TOTALITY
-Die Korona detoniert zu einem Ring aus weißgoldenem Feuer, der zum äußersten Orrery-Rad wird. Ein akustisch spürbarer Uhrschlag: Jeder Ring rastet in perfekter Ausrichtung ein, dann hält die Korona. Nicht zu Weiß ausblenden. Halte die Silhouette der gesamten Maschine vor dem Feuerring.
-
-30,0–32,0 s CODA
-Gehe in eine langsame Fortsetzung über, die zu Frame 0 passt, damit der Loop unsichtbar bleibt. Kein harter Schnitt.
-
-Nach dem ersten vollständigen Durchlauf aktiviere Drag-to-Orbit, Zoom per Mausrad und ein Steuerelement „Film wiedergeben“. Eine Pause-Schaltfläche funktioniert jederzeit. Optional: Mit den Tasten 1–5 zu den Beat-Anfängen springen.
-
-Szenengestaltung:
-- Ausgeprägter Vorder-, Mittel- und Hintergrund. Das Pendel nimmt in NAVE den Vordergrund ein. Gewölbe und Nebel sorgen für räumliche Tiefe.
-- Mindestens zwei Referenzen in menschlichem Maßstab – eine überflutete Kirchenbank, ein gefallener Turmhelm oder eine Reihe von Kerzen –, damit die Maschine riesig wirkt.
-- Wasser ist ein echtes Material: Reflexionen des Orrerys, ein schwacher Fresnel-Effekt, langsame Displacement-Bewegung sowie die vom Pendel und der Kamera ausgehenden Ringe.
-- Die Glaskugeln sind aus dickem Glas, keine leuchtenden Bälle. Durch mindestens eine Kugel muss eine verzerrte Kathedrale sichtbar sein.
-- Messing muss Gewicht haben: im Schatten dunkel, nur die Kanten fangen das Koronalicht ein.
-- Kerzenflammen und Goldstaub werden instanziert. Der Staub wird nur während ASCENT und TOTALITY nach oben gezogen.
-- Rippengewölbe, Silhouetten von Strebepfeilern und ein riesiges kreisförmiges Rosenfenster bzw. eine Finsternisöffnung in der hinteren Wand, auf die Schwarze Sonne ausgerichtet.
-- Begrenzte, unveränderliche Farbpalette: nasser Kalkstein #8a8680, Messing #c4a574, Grünspan #2f6f66, Finsterniskarmesin #6b1020, Korona #ffe9c2, schwarzes Wasser #05070c, Goldstaub #e6c27a. Kein Cyan, kein Magenta, kein Neon, kein Regenbogen, kein violett-auf-schwarzem „KI-Look“.
-- Typografie: ein kleiner Titel „TOTALITY ENGINE“ und der Beat-Name, filmisch statt Dashboard.
-
-Technische Anforderungen:
-- Three.js von einem stabilen CDN. Sämtliches HTML, CSS und JavaScript in dieser einen Datei.
-- Steuere jede Animation über eine einzige Uhr für die verstrichene Zeit mit benannten Beat-Zeitfenstern. Keine unabhängigen Math.random-Schleifen, kein Date.now in Shadern, kein nicht initialisiertes Rauschen. Nur ein initialisierter RNG, Seed-Konstante 0xA2E1.
-- Die Kamerafahrt nutzt weiche Interpolation mit Ease-in-out bei großen Bewegungen, ein stärkeres Ease beim Pendel (es hat Masse) und ein langes Ausschwingen in TOTALITY. Eine lineare Orbit-Kamera als primäre Kamera ist unzureichend.
-- Benutzerdefinierte GLSL-Shader (ShaderMaterial oder Fullscreen-Pass), keine Standardmaterialien, die nur so tun:
-1. Wasser (Reflexion + Fresnel + langsame Displacement-Bewegung)
-2. Korona der Schwarzen Sonne (Feuer/Plasma, kein Sprite)
-3. Linseneffekt des Pendels (Lichtbrechung in der Nähe des Pendelgewichts während THREAD)
-4. Dickes Glas für mindestens einen Planeten
-- InstancedMesh für Staub, Kerzen und alle wiederholten Stein- oder Messingelemente. Erzeuge nicht Tausende freistehende Mesh-Objekte.
-- Post-Processing ist erlaubt, darf aber die Beleuchtung nicht ersetzen. Wenn du Bloom verwendest, darf es nur dezent auf die Korona und die Kerzen wirken. UnrealBloom über die gesamte Szene ist unzulässig.
-- Nebel, nasse Reflexionen und die Finsternisöffnung erzeugen die Atmosphäre. Keine billigen transparenten Kegel als „God Rays“, außer sie werden tatsächlich von einem Shader gesteuert.
-- Responsiv, über das gesamte Browserfenster, mit Resize-Unterstützung, Ziel: 60 fps auf einem Laptop von 2023. Wenn du dich entscheiden musst, reduziere zuerst die Partikelanzahl, bevor du an der Kamerafahrt kürzt.
-- Kleine, unaufdringliche UI: Titel, aktueller Beat, Pause, Wiedergeben. Kein FPS-Zähler, kein dat.gui, keine aktivierten Debug-Hilfen.
-- Keine TODO-Kommentare, kein Pseudocode, keine Platzhalter, keine fehlenden Funktionen und kein „Mit X wäre es besser“.
-- Beim Laden startet der Film selbstständig. Ein Standbild hinter einer Startschaltfläche ist unzulässig.
-
-Qualitätsmaßstab:
-Das Ergebnis soll wie ein Standbild aus einem Kurzfilm wirken, nicht wie ein Three.js-Beispiel. Wenn ein Screenshot bei Sekunde 26 nicht als „kathedralengroße Uhr im Moment der Finsternis“ erkennbar ist, bist du noch nicht fertig. Überarbeite Komposition, Materialien und Kamera, bevor du weitere Objekte hinzufügst.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Create a polished, visually impressive, self-contained single-file HTML/WebGL experience called:
-
-totality-engine.html put it in documents/llm-benchmarks
-
-Do not just describe the idea. Actually generate the complete working HTML file and save it to the current directory.
-
-Build a 32-second looping cinematic short, not a sandbox diorama. The product is the camera performance. Interaction is a bonus after the film has played once.
-
-World:
-A drowned gothic cathedral at solar-eclipse totality. Black water covers the nave floor. Filling the crossing is a monumental brass astronomical clock, the Totality Engine: nested orrery rings, glass planets, a black-sun core, and a 40-meter dark-marble pendulum with gold fittings. Wet limestone, verdigris, candle flames, and gold dust. Everything is procedural code. No external models, textures, images, fonts as files, or audio.
-
-Directed film (one clock, named beats, seamless loop):
-
-0.0–4.0s DUST
-Extreme close-up. One dust mote turns in a shaft of red-gold light. Almost no context. Slow push.
-
-4.0–10.0s NAVE
-Pull back and rise. We are knee-deep in black water in the cathedral crossing. Rib vaults recede into fog. The pendulum enters frame from the left, heavy, slow, and passes close enough to feel its mass. Water rings spread from the camera.
-
-10.0–18.0s ASCENT
-Ride the pendulum's upswing. Reveal the orrery in the vault: at least four nested brass rings at different inclinations, three glass planets with distinct atmospheres (one cloudy, one ringed, one storm-banded), and the black-sun core. Candle clusters along the triforium. Gold dust falls upward against gravity.
-
-18.0–24.0s THREAD
-Camera threads the orrery. Pass through the glass of the ringed planet (refraction, not a transparency hack), ride its ring plane for a beat, exit toward the black sun. The pendulum's next swing warps the light around it like a weak gravitational lens.
-
-24.0–30.0s TOTALITY
-Corona detonates into a ring of white-gold fire that becomes the outermost orrery wheel. One audible-feeling clock tick: every ring snaps into a perfect alignment, then the corona holds. Do not fade to white. Hold the silhouette of the whole machine against the fire-ring.
-
-30.0–32.0s CODA
-Ease into a slow continuation that matches frame 0, so the loop is invisible. No smash cut.
-
-After the first full play, enable drag-to-orbit, scroll-wheel zoom, and a "Replay film" control. A Pause button always works. Optional: keys 1–5 jump to beat starts.
-
-Scene craft:
-- Strong foreground / midground / background. The pendulum occupies foreground in NAVE. Vaults and fog hold the depth.
-- At least two human-scale references (a drowned pew, a fallen spire, a row of candles) so the machine reads as enormous.
-- Water is a real material: reflections of the orrery, a faint fresnel, slow displacement, the rings from the pendulum and the camera.
-- Glass planets are thick glass, not glowing balls. You should see a distorted cathedral through at least one of them.
-- Brass has weight: dark in shadow, only the rims catching corona light.
-- Candle flames and gold dust are instanced. Dust is pulled upward only during ASCENT and TOTALITY.
-- Rib vaults, flying-buttress silhouettes, and a giant circular rose-window / eclipse aperture in the far wall, aligned with the black sun.
-- Limited palette, locked: wet limestone #8a8680, brass #c4a574, verdigris #2f6f66, eclipse crimson #6b1020, corona #ffe9c2, black water #05070c, gold dust #e6c27a. No cyan, no magenta, no neon, no rainbow, no purple-on-black "AI look".
-- Typography: one small title "TOTALITY ENGINE" and beat name, filmic, not a dashboard.
-
-Technical requirements:
-- Three.js from a stable CDN. All HTML, CSS, and JS in this one file.
-- Drive every animation from a single elapsed-time clock with named beat windows. No independent Math.random loops, no Date.now in shaders, no unseeded noise. Seeded RNG only, seed constant 0xA2E1.
-- Camera film uses smooth interpolation with ease-in-out on the big moves, a heavier ease on the pendulum (it has mass), and a long-tail settle into TOTALITY. Linear orbit as the primary camera is a fail.
-- Custom GLSL (ShaderMaterial or full-screen pass), not stock materials pretending:
-1. Water (reflection + fresnel + slow displacement)
-2. Black-sun corona (fire / plasma, not a sprite)
-3. Pendulum lensing (light bends near the bob during THREAD)
-4. Thick glass for at least one planet
-- InstancedMesh for dust, candles, and any repeated stone/brass cells. Do not spawn thousands of free Mesh objects.
-- Post-processing is allowed but cannot replace lighting. If you use bloom, it is a light touch on the corona and candles only. UnrealBloom over the whole scene is a fail.
-- Fog, wet reflections, and the eclipse aperture do the atmosphere. No cheap transparent cones as "god rays" unless they are actually driven by a shader.
-- Responsive, full browser window, handle resize, target 60fps on a 2023 laptop. If you have to choose, cut particle count before cutting the camera film.
-- Small unobtrusive UI: title, current beat, pause, replay. No FPS counter, no dat.gui, no debug helpers left on.
-- No TODO comments, pseudocode, placeholders, missing functions, or "this would be better with X".
-- On load, the film starts itself. A still frame behind a start button is a fail.
-
-Quality bar:
-This should look like a short film still, not a three.js example. If a screenshot at 26 seconds does not read as "cathedral-sized clock at the moment of eclipse," you are not done. Iterate on composition, materials, and camera before adding more objects.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Originalbeitrag](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Live-Demo](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="rotatable-3d-shogi-board-2096579856133947507"></a>
-
-### Drehbares 3D-Shogi-Brett
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/fee01ef0f517af783b6955e6801a2f12f5b38975daffaac3b7c1610d8c184e7d.webp" width="840" loading="lazy" alt="Drehbares 3D-Shogi-Brett"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine spielbare 3D-Shogi-Anwendung mit frei drehbarem Brett. Überarbeite Brett, Figuren und Interaktionen in mehreren Prüfrunden.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Originalbeitrag](https://x.com/hatukougara/status/2096579856133947507) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="exploded-desktop-computer-atlas-2096578761877860502"></a>
-
-### Interaktiver Desktop-PC in Explosionsansicht
-
-[cooper](https://x.com/icooperhero) · 2026-09-06 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/69e81d8e78549aa84cd621ce24d75fdd92fb89186ddcc9692f711656ff07f6e9.webp" width="840" loading="lazy" alt="Interaktiver Desktop-PC in Explosionsansicht"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine interaktive 3D-Website, die einen Desktop-PC in 29 Hauptkomponenten zerlegt. Ergänze eine animierte Demontage und Erklärungen zu jedem Bauteil.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Originalbeitrag](https://x.com/icooperhero/status/2096578761877860502) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="children-s-room-and-workspace-planner-2096578684010508736"></a>
-
-### Planung für Kinderzimmer und Arbeitsplatz
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/5e15444806b74d14d92d1dc69f292e3cba1b3112820236e2e54dd8e2f4282100.webp" width="840" loading="lazy" alt="Planung für Kinderzimmer und Arbeitsplatz"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Rekonstruiere ein Kinderzimmer, das zugleich als Arbeitsplatz dient, anhand von vier Fotos aus den Ecken und den Raummaßen. Zeige die Perspektiven eines Erwachsenen und eines Kindes, eine Übersicht und alternative Möbelanordnungen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Originalbeitrag](https://x.com/dqlh47m/status/2096578684010508736) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

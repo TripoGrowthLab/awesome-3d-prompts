@@ -28,6 +28,21 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Đền rừng và hộ vệ vanara khổng lồ](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
+- [Từ mặt bằng đến chuyến tham quan 3D hoàn chỉnh](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
+- [Mô hình đường sắt voxel tương tác](#interactive-voxel-railway-table-2095719731860750613)
+- [Con tàu voxel sống động trong chai](#living-voxel-ship-in-a-bottle-2095699049722581065)
+- [Đại dương sống và mô phỏng bão dựng bằng thủ tục](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
+- [Game Three.js gây bất ngờ trong một lượt](#one-shot-three-js-surprise-game-2095663498101662198)
+- [Tái hiện Palace of Fine Arts trong Blender](#palace-of-fine-arts-blender-recreation-2095653641164329143)
+- [Thử nghiệm thủy cung từ một prompt](#single-aquarium-benchmark-2095650251902239139)
+- [RPG với camera góc nhìn thứ nhất và thứ ba](#rpg-with-first-and-third-person-cameras-2095648440978174276)
+- [Game 3D thời gian thực chơi được từ một prompt](#single-playable-real-time-3d-game-2095647685210669541)
+- [Cụm CAD USS Enterprise có thể in](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Cảnh biệt thự hiện đại trong Blender](#modern-villa-scene-in-blender-2095636679264780481)
+- [Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Game bay xuyên hào không gian trong Unity](#unity-space-trench-run-game-2095630044102279312)
+- [Archviz từ bản vẽ qua Blender đến Unreal](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
 - [Từ mô tả đến thành phố Unity có thể khám phá](#text-to-explorable-unity-city-2095623452678144366)
 - [Nhà máy bi Three.js](#three-js-marble-factory-2095622065390772322)
 - [Studio mockup sản phẩm 3D chân thực](#photoreal-3d-product-mockup-studio-2095619319690400253)
@@ -63,23 +78,308 @@
 - [Thành phố từ ảnh panorama equirectangular](#city-from-an-equirectangular-panorama-2095159781883597031)
 - [Hang rồng trong Blender](#dragon-lair-scene-in-blender-2095149546187653547)
 - [Thế giới cướp biển nhiều người trong Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
-- [Hoạt ảnh nồi bay trong Blender](#flying-pot-animation-in-blender-2095132939667255657)
-- [Mô phỏng tiến triển ung thư 3D](#3d-cancer-progression-simulation-2095130778342408331)
-- [Nâng cấp VFX thiên thạch vỡ](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
-- [Tàu đổ bộ không gian có LOD](#lod-ready-assault-pod-spaceship-2095126622319845478)
-- [Tái hiện sân vận động 3D chi tiết](#detailed-3d-stadium-recreation-2095123216419459454)
-- [Làng cối xay nước đúng cơ khí](#mechanically-accurate-water-mill-village-2095123063352561815)
-- [Dino-dex tương tác bằng shader](#interactive-shader-driven-dino-dex-2095121568297083067)
-- [Thế giới voxel sống trong chai](#living-voxel-world-inside-a-bottle-2095111213927510131)
-- [Hoạt ảnh bàn phím 3D chỉnh sửa được](#editable-3d-keyboard-animation-2095111032171876470)
-- [Trình diễn mecha lấy cảm hứng Gundam](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [Portfolio Three.js từ ảnh tham chiếu](#reference-driven-three-js-portfolio-2095104073590808644)
-- [Mô hình kỹ thuật F-35A tương tác](#interactive-f-35a-technical-model-2095094543339446572)
-- [Mecha Three.js lấy cảm hứng MS-06](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [Vũ trụ sống trong một tệp HTML](#living-universe-in-one-html-file-2095054116372508955)
-- [Game souls-like C++ gốc](#native-c-souls-like-game-2095053114600755576)
 
 </details>
+<a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
+
+### Đền rừng và hộ vệ vanara khổng lồ
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-04 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290"><img src="../assets/previews/867a825910e52a1f4ee03010a0ca7c11c6d7ba340d474277fbedece704f9e178.webp" width="840" loading="lazy" alt="Đền rừng và hộ vệ vanara khổng lồ"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo cảnh điện ảnh lấy cảm hứng Ramayana trong HTML và Three.js. Một ngôi đền bị lãng quên trong rừng đánh thức hộ vệ vanara khổng lồ; dựng bối cảnh, hoạt ảnh và nhạc nền bằng mã.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Bài đăng gốc](https://x.com/BuildFastWithAI/status/2095729606066348290) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
+
+### Từ mặt bằng đến chuyến tham quan 3D hoàn chỉnh
+
+[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="Từ mặt bằng đến chuyến tham quan 3D hoàn chỉnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Chuyển mặt bằng được cung cấp thành chuyến tham quan kiến trúc 3D đầy đủ. Tôn trọng kích thước phòng và luồng di chuyển, thêm cửa, cửa sổ, nội thất, vật liệu và ánh sáng, rồi tạo đường camera giải thích rõ bố cục.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Bài đăng gốc](https://x.com/aidarosgo3/status/2095725404883476661) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-voxel-railway-table-2095719731860750613"></a>
+
+### Mô hình đường sắt voxel tương tác
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="Mô hình đường sắt voxel tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo mô hình đường sắt voxel chi tiết trên Three.js. Cho người dùng chạy và dừng nhiều đoàn tàu, chuyển đường ray, xoay và phóng to quanh bàn, xem các thị trấn thu nhỏ và kích hoạt hoạt cảnh môi trường nhỏ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095719731860750613) · [Bản demo](https://lindenhafen-railway.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
+
+### Con tàu voxel sống động trong chai
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="Con tàu voxel sống động trong chai"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo con tàu voxel thế kỷ 17 chi tiết đang chạy bên trong chai thủy tinh. Mô phỏng sóng và chuyển động tàu, thêm hải âu bay vòng, cảng thu nhỏ và rạn san hô, rồi tạo chuỗi máy quay điện ảnh cùng nhạc nền êm dịu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095699049722581065) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
+
+### Đại dương sống và mô phỏng bão dựng bằng thủ tục
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="Đại dương sống và mô phỏng bão dựng bằng thủ tục"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Mở rộng trình tạo mặt biển bão trong một tệp được cung cấp thành đại dương thủ tục hoàn chỉnh. Thêm rạn san hô, vùng nước sâu, thời tiết hợp lý, quần thể động vật có hành vi nảy sinh từ tương tác, quan hệ sinh thái và camera di chuyển giữa trên mặt nước với dưới nước.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Bài đăng gốc](https://x.com/emollick/status/2095673885605630429) · [Mã nguồn](https://github.com/emollick/abyssal-living-deep) · [Bản demo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
+
+### Game Three.js gây bất ngờ trong một lượt
+
+[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="Game Three.js gây bất ngờ trong một lượt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một game Three.js nguyên bản trong một lượt, xứng đáng với tên “Amaze”. Chọn một cơ chế hình ảnh bất ngờ, dạy người chơi trong vài giây, xây dựng nhịp tiến triển ngắn và kết thúc bằng màn trình diễn mãn nhãn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Bài đăng gốc](https://x.com/pratt_builds/status/2095663498101662198) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
+
+### Tái hiện Palace of Fine Arts trong Blender
+
+[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Tái hiện Palace of Fine Arts trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái hiện Palace of Fine Arts ở San Francisco trong Blender với tỷ lệ nhà tròn dễ nhận biết, hàng cột, hồ nước, cây cối, vật liệu phong hóa và ánh sáng điện ảnh mang tinh thần lạc quan của thời hội chợ thế giới.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Bài đăng gốc](https://x.com/sharifshameem/status/2095653641164329143) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="single-aquarium-benchmark-2095650251902239139"></a>
+
+### Thử nghiệm thủy cung từ một prompt
+
+[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="Thử nghiệm thủy cung từ một prompt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Từ ảnh tham chiếu được cung cấp, tạo game thủy cung 3D bằng một prompt. Khớp bố cục và cảm xúc, thêm hành vi cá sống động, caustics nước, điều khiển xoay quanh và vòng tương tác nhỏ phù hợp để so sánh kết quả các mô hình.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Bài đăng gốc](https://x.com/iamtonyzhu/status/2095650251902239139) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
+
+### RPG với camera góc nhìn thứ nhất và thứ ba
+
+[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="RPG với camera góc nhìn thứ nhất và thứ ba"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Mở rộng game nhập vai Three.js với camera góc nhìn thứ nhất và thứ ba. Giữ hoạt động di chuyển, khám phá nhất quán khi đổi giữa hai góc nhìn.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Bài đăng gốc](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### Game 3D thời gian thực chơi được từ một prompt
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Game 3D thời gian thực chơi được từ một prompt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một game 3D thời gian thực có thể chơi từ một prompt. Xác định cơ chế cốt lõi gọn, mục tiêu rõ ràng và câu chuyện ngắn, rồi tạo cảnh, nhân vật, đạo cụ, phản hồi và trạng thái khởi động lại để chơi được ngay.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Bài đăng gốc](https://x.com/higgsfield/status/2095647685210669541) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### Cụm CAD USS Enterprise có thể in
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="Cụm CAD USS Enterprise có thể in"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Thiết kế trong CAD một mô hình nguyên bản tri ân USS Enterprise NCC-1701, sẵn sàng để in. Có tỷ lệ dễ nhận biết, cầu tàu và một số nội thất, ít nhất 28 chi tiết chuyển động hoạt động được, cụm lắp ráp tách riêng và tệp sản xuất có thể xuất.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095641163441254676) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Cảnh biệt thự hiện đại trong Blender
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Cảnh biệt thự hiện đại trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng một cảnh biệt thự hiện đại hoàn chỉnh trong Blender với kiến trúc nhất quán, nội thất đầy đủ, hồ bơi vô cực, cảnh quan, vật liệu chân thực và đường máy quay đậm chất điện ảnh trong giờ vàng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Bài đăng gốc](https://x.com/karankendre/status/2095636679264780481) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Chuyển mô tả thiết kế bối cảnh Phòng Bầu dục thành mã dựng cảnh có thể chạy. Tạo không gian trong Blender với nội thất, tường, ánh sáng và bố trí máy quay đều chỉnh sửa được, rồi render kết quả mang chất điện ảnh bằng Cycles.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095630197257367857) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Game bay xuyên hào không gian trong Unity
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Game bay xuyên hào không gian trong Unity"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái hiện cảm giác bay xuyên hào không gian kinh điển trong Unity: bay nhanh sát bề mặt, hỏa lực tháp súng, chướng ngại, ngắm mục tiêu, áp lực tăng dần, mục tiêu cuối và chuỗi thành công hoặc thất bại mang chất điện ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Bài đăng gốc](https://x.com/ronaldmannak/status/2095630044102279312) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### Archviz từ bản vẽ qua Blender đến Unreal
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Archviz từ bản vẽ qua Blender đến Unreal"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Bắt đầu từ bản vẽ kiến trúc được cung cấp, dựng mô hình chính xác và chỉnh sửa được trong Blender, rồi chuyển sang Unreal Engine thành trải nghiệm archviz có ánh sáng và đi tham quan được, đúng tỷ lệ và va chạm.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Bài đăng gốc](https://x.com/LinusEkenstam/status/2095624712244072551) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="text-to-explorable-unity-city-2095623452678144366"></a>
 
 ### Từ mô tả đến thành phố Unity có thể khám phá
@@ -779,313 +1079,6 @@ Dựng thế giới Three.js nhiều người lấy cảm hứng từ anime phi�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Bài đăng gốc](https://x.com/aman_kambojj/status/2095137561283010600) · [Bản demo](https://onepiece-world.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="flying-pot-animation-in-blender-2095132939667255657"></a>
-
-### Hoạt ảnh nồi bay trong Blender
-
-[Ben](https://x.com/alafrayme) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/flying-pot-animation-in-blender-2095132939667255657"><img src="../assets/previews/f3d795685e4ec323d879c05a0500ac6ac3cb27651c53a13f7b76f5bb0310a33d.webp" width="840" loading="lazy" alt="Hoạt ảnh nồi bay trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo chiếc nồi nấu ăn bay vui nhộn trong Blender với dáng hình rõ, rig hoặc chuyển động thủ tục, nghiêng lượn biểu cảm, vật liệu, ánh sáng và hoạt ảnh giới thiệu ngắn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [Bài đăng gốc](https://x.com/alafrayme/status/2095132939667255657) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
-
-### Mô phỏng tiến triển ung thư 3D
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="Mô phỏng tiến triển ung thư 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng mô phỏng tế bào ung thư 3D phục vụ giáo dục, thể hiện đột biến, phân chia, tạo mạch, xâm lấn và di căn, có dòng thời gian, nhãn và phân biệt hình ảnh cẩn thận giữa các giai đoạn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [Bài đăng gốc](https://x.com/viewsfrom02108/status/2095130778342408331) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
-
-### Nâng cấp VFX thiên thạch vỡ
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="Nâng cấp VFX thiên thạch vỡ"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Kiểm tra VFX thiên thạch vỡ hiện có và cải thiện mảnh vỡ, nhiệt, vệt, sóng xung kích, thời điểm, tỷ lệ và khả năng quan sát từ camera mà không làm hỏng điều khiển hiện tại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Bài đăng gốc](https://x.com/gladimdim/status/2095127248470692320) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
-
-### Tàu đổ bộ không gian có LOD
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="Tàu đổ bộ không gian có LOD"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Thiết kế lại mô hình LOD cao và thấp của tàu đổ bộ không gian, giữ dáng hình trong ngân sách tam giác, cải thiện thiết kế panel và chuẩn bị asset cho game thời gian thực.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [Bài đăng gốc](https://x.com/gladimdim/status/2095126622319845478) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
-
-### Tái hiện sân vận động 3D chi tiết
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="Tái hiện sân vận động 3D chi tiết"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại sân vận động tham chiếu thành cảnh 3D chi tiết có thể di chuyển, với tầng ghế, sân, mái, ánh sáng và tỷ lệ chính xác; sau đó so sánh độ trung thực hình ảnh và chi phí tạo.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2095123216419459454) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
-
-### Làng cối xay nước đúng cơ khí
-
-[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="Làng cối xay nước đúng cơ khí"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng làng cối xay nước Three.js hoạt động được, nơi bánh xe kéo bánh răng, cam và chày theo tỷ số hợp lý; dân làng và chuyển động môi trường khiến cảnh sống động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [Bài đăng gốc](https://x.com/mira_senor_1102/status/2095123063352561815) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
-
-### Dino-dex tương tác bằng shader
-
-[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Dino-dex tương tác bằng shader"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo Dino-dex tương tác, mỗi khủng long là mô hình 3D sống, dùng hiệu ứng Fresnel GLSL tùy chỉnh, tám ngữ cảnh WebGL hiệu quả, thẻ responsive và thông tin loài hữu ích.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [Bài đăng gốc](https://x.com/_Benviz/status/2095121568297083067) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
-
-### Thế giới voxel sống trong chai
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="Thế giới voxel sống trong chai"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo thế giới voxel sống trong chai thủy tinh với các cột nước đại dương nhiều lớp, thuyền buồm, hải đăng, sự sống trên đảo và chuyển đổi giữa yên ả, bão và đêm.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [Bài đăng gốc](https://x.com/vib3coded/status/2095111213927510131) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
-
-### Hoạt ảnh bàn phím 3D chỉnh sửa được
-
-[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="Hoạt ảnh bàn phím 3D chỉnh sửa được"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo hoạt ảnh bàn phím 3D chỉnh sửa được với hành trình phím đã mắt, ánh sáng, chuyển động camera và nhãn, màu, thời gian có thể tùy chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Bài đăng gốc](https://x.com/rege_dev/status/2095111032171876470) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### Trình diễn mecha lấy cảm hứng Gundam
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="Trình diễn mecha lấy cảm hứng Gundam"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo màn trình diễn Three.js chỉn chu cho mecha nguyên bản lấy cảm hứng Gundam, với khớp cơ khí, dấu hiệu tỷ lệ, ánh sáng kịch tính và camera quan sát.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [Bài đăng gốc](https://x.com/usecrayon/status/2095106919530930221) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### Portfolio Three.js từ ảnh tham chiếu
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="Portfolio Three.js từ ảnh tham chiếu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện ảnh tham chiếu thành website Three.js chỉn chu với hạt nhiều lớp, chất liệu VHS và CRT, chuyển cảnh uyển chuyển và tương tác nhạy.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [Bài đăng gốc](https://x.com/MengTo/status/2095104073590808644) · [Mã nguồn](https://github.com/MengTo/sublevel-studio) · [Bản demo](https://mengto.github.io/sublevel-studio/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### Mô hình kỹ thuật F-35A tương tác
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="Mô hình kỹ thuật F-35A tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo F-35A tương tác chi tiết bằng mã, với tỷ lệ chính xác, bề mặt điều khiển, càng đáp, dấu hiệu buồng lái, nhãn và hoạt ảnh quan sát.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [Bài đăng gốc](https://x.com/SahilExec/status/2095094543339446572) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Mecha Three.js lấy cảm hứng MS-06
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Mecha Three.js lấy cảm hứng MS-06"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo mecha chi tiết lấy cảm hứng MS-06 trong Three.js trên nền trắng sạch để vật thể chính nổi rõ, với tỷ lệ, vật liệu thuyết phục và điều khiển quan sát.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [Bài đăng gốc](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### Vũ trụ sống trong một tệp HTML
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="Vũ trụ sống trong một tệp HTML"></a>
-
-**Prompt**
-
-```text
-dựng một vũ trụ sống trong một tệp HTML.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [Bài đăng gốc](https://x.com/tiny_frontier/status/2095054116372508955) · [Bản demo](https://genesis-demo.tinyfrontier.xyz/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### Game souls-like C++ gốc
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="Game souls-like C++ gốc"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game souls-like lấy cảm hứng Bloodborne bằng C++ gốc, với mỹ thuật, hoạt ảnh, âm thanh và nhạc nguyên bản, chiến đấu nhạy, kẻ địch, boss và một màn ngắn hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/native-c-souls-like-game-2095053114600755576) · [Bài đăng gốc](https://x.com/wizardbrainz/status/2095053114600755576) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

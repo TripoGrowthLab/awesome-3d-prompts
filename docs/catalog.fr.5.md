@@ -28,6 +28,21 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Explorateur orbital du système solaire](#orbital-solar-system-explorer-2096339041679442428)
+- [Jeu de crabe aux mécaniques fondées sur l’action](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
+- [Reconstruction photoréaliste et éditable d’un dragon dans Blender](#gpt-6-astra-2096335588727349434)
+- [Scène de personnage inspirée de Warcraft dans Unity](#warcraft-inspired-character-scene-in-unity-2096308567863079420)
+- [Le Terreiro do Paço de Lisbonne dans Blender](#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021)
+- [Landing page abyssale bioluminescente](#bioluminescent-deep-sea-landing-page-2096269057544831175)
+- [Forêt procédurale dense dans Three.js](#dense-procedural-forest-in-three-js-2096263046918197609)
+- [La place de l’Union de Cluj-Napoca en voxels](#cluj-napoca-union-square-in-voxels-2096262733259837681)
+- [Une physique de course pour navigateur en C# et WASM](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
+- [Une bataille de kaijus en ville](#kaiju-city-battle-2096251574918013135)
+- [Une démo Hyperloop interactive](#interactive-hyperloop-demo-2096250748099068377)
+- [Un site de studio 3D animé par le défilement](#scroll-driven-3d-studio-website-2096245759121277132)
+- [Komorebi : du kayak en rivière](#komorebi-river-kayaking-2096244208533455049)
+- [Une bouteille réfractive au cœur d'un récit produit](#refractive-bottle-product-story-2096243989439713677)
+- [Une machine à capsules de souvenirs](#memory-capsule-machine-2096241295949975602)
 - [Simulateur de vol dans le navigateur avec une boucle de vol complète](#gpt-6-astra-2096236137266512181)
 - [Un buste procédural de Napoléon](#procedural-napoleon-bust-2096234355395903672)
 - [Un hall de gare](#railway-station-concourse-2096226711222546461)
@@ -63,23 +78,715 @@
 - [Des trains procéduraux en vue éclatée](#exploding-procedural-train-assemblies-2096082580554777041)
 - [Un tableau de bord avec globe interactif](#interactive-globe-dashboard-2096082432197837065)
 - [D'un schéma PDF à un circuit imprimé et sa vue 3D](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
-- [Astral War : un jeu de tir dans le navigateur](#astral-war-browser-shooter-2096079660605997264)
-- [Créer un petit jeu 3D rudimentaire avec Astra à partir d’une image conceptuelle](#astra-3d-2096068401294929940)
-- [Prototype de jeu The Legend of Astra](#the-legend-of-astra-game-prototype-2096064140510970318)
-- [Un simulateur Sinclair ZX Spectrum](#sinclair-zx-spectrum-simulator-2096062355692048605)
-- [Une perceuse reconstituée à partir d'une seule vue](#single-view-power-drill-reconstruction-2096059736693305794)
-- [Une tranche jouable Godot inspirée de Sonic](#sonic-inspired-godot-vertical-slice-2096056285896536086)
-- [Zork devient un jeu d'action-aventure 3D](#zork-as-a-3d-action-adventure-2096047660662722620)
-- [Un réseau de livraison avec fermeture de ponts](#delivery-network-with-bridge-closures-2096042360513904742)
-- [Un écosystème WebGL qui évolue](#evolving-webgl-ecosystem-2096040448477515874)
-- [Un Taj Mahal explorable](#explorable-taj-mahal-2096035962824335798)
-- [Un portfolio 3D personnel avec un globe des conférences](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [Gogh Strike : un FPS multijoueur](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [Modèle de l’enregistreur TP-7 d’après références](#tp-7-recorder-reference-model-2096013228090245181)
-- [Une Tesla Model X en vue éclatée](#tesla-model-x-exploded-view-2096009146248122416)
-- [Une gelée WebGPU rebondissante](#bouncy-webgpu-jelly-2096008241104711698)
 
 </details>
+<a id="orbital-solar-system-explorer-2096339041679442428"></a>
+
+### Explorateur orbital du système solaire
+
+[Andromedus](https://x.com/dzhohola) · 2026-09-05 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/4111d0814d9a9c2268143b6adc5367e2de9a3d807f77e4b1c18d82033e941185.webp" width="840" loading="lazy" alt="Explorateur orbital du système solaire"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée un explorateur du système solaire dans le navigateur avec Three.js, huit planètes et vingt lunes. Permets de déplacer la caméra et de planifier des vols spatiaux de manière simplifiée.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Publication originale](https://x.com/dzhohola/status/2096339041679442428) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="a-crab-game-with-action-driven-mechanics-2096337879173591171"></a>
+
+### Jeu de crabe aux mécaniques fondées sur l’action
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/c1f5f1674d05a9bfec5c5e37024796a6e28d0cafb8e35148b01d3865c6b48c46.webp" width="840" loading="lazy" alt="Jeu de crabe aux mécaniques fondées sur l’action"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée un jeu de crabe dans Three.js à partir d’un cahier des charges structuré couvrant l’apparence, le personnage, le monde, les actions, les objectifs, l’interface et la caméra. Fais s’élever les pièces puis voler vers le crabe à son passage ; signale les exigences contradictoires.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Publication originale](https://x.com/zeuuss_01/status/2096337879173591171) · [Démo](https://beach-crab-game.netlify.app/) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096335588727349434"></a>
+
+### Reconstruction photoréaliste et éditable d’un dragon dans Blender
+
+[Sarang Borude](https://x.com/doomdave) · 2026-09-05 · GPT-6 Astra · Ressources
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/e7c2fd347fd31e7e2c69be456ec1b437cd5cff2616cdf2a474f0c189d02af149.webp" width="840" loading="lazy" alt="Reconstruction photoréaliste et éditable d’un dragon dans Blender"></a>
+
+**Images de référence:** [1](https://media.tripogrowth.space/media/4d0bd23e-3879-4052-9e83-5c70656c5dc5.jpg) · [2](https://pbs.twimg.com/media/HReuaRUacAAtOFF.jpg)
+
+**Prompt**
+
+```text
+Créez dans Blender une reconstruction 3D photoréaliste et entièrement éditable du dragon présenté sur la planche de références jointe.
+
+Utilisez toutes les vues fournies — notamment les vues de profil, de face, de dessus, de dos, les différents angles de la tête, les gros plans de la tête et de l’œil, ainsi que les détails des écailles et des ailes — pour reconstruire un dragon cohérent et anatomiquement crédible.
+
+Respectez la référence le plus fidèlement possible, en particulier :
+
+- Les proportions générales du corps et la silhouette
+- Le cou long et musclé, ainsi que la queue effilée
+- Les quatre pattes et les deux grandes ailes de chauve-souris
+- La forme de la tête et de la mâchoire
+- Le nombre, la forme et l’implantation des cornes
+- Les épines dorsales le long du cou, du dos et de la queue
+- Les motifs d’écailles gris anthracite et brun terreux
+- Les écailles superposées semblables à une armure
+- Les yeux ambrés dorés à pupilles verticales
+- Les griffes, les dents et les membranes des ailes
+- L’apparence ancienne, réaliste et menaçante
+
+Les différents panneaux de référence peuvent présenter de petites incohérences. Réconciliez-les pour obtenir une créature de base physiquement cohérente et symétrique, tout en préservant l’identité visuelle du dragon. Utilisez la vue de profil pour les proportions générales, la vue de face pour la largeur et l’aplomb, les vues de dessus et de dos pour les ailes et la queue, et les gros plans pour la tête, les yeux, les écailles et les matériaux des ailes.
+
+Construisez le dragon à partir de zéro avec une véritable géométrie Blender éditable. Ne téléchargez pas et n’importez pas de modèle de dragon existant. N’utilisez ni panneaux 2D, ni projections 2D, ni illusions fondées sur des cartes de profondeur, ni vidéo générée à la place de la géométrie.
+
+Utilisez des scripts Python Blender modulaires (`bpy`) et l’exécutable Blender en mode arrière-plan ou sans interface comme méthode principale de construction. Veillez à ce que les scripts soient reproductibles et conservez les versions fonctionnelles du fichier `.blend`. Utilisez l’outil informatique pour ouvrir et inspecter la scène Blender chaque fois qu’une inspection visuelle est utile. N’installez pas de serveur MCP Blender et ne vous appuyez pas dessus.
+
+APPROCHE DE MODÉLISATION
+
+Commencez par un blockout anatomique avant d’ajouter les détails. Établissez :
+
+- Le crâne, la mâchoire et les orbites
+- Le cou, le poitrail, la cage thoracique et le bassin
+- Quatre pattes anatomiquement convaincantes
+- Des orteils séparés et des griffes recourbées
+- Des épaules d’ailes intégrées au torse
+- Des bras d’ailes articulés et les os des doigts
+- Des membranes d’ailes correctement raccordées
+- Une longue queue se prolongeant naturellement depuis le bassin
+- Les cornes principales et les épines dorsales
+
+Évitez les membres supplémentaires, les cornes en double, les membranes déconnectées, les articulations brisées, les écailles flottantes, les intersections, les formes trop fines, les asymétries accidentelles et les proportions évoquant un jouet.
+
+Après validation du blockout, ajoutez les détails secondaires et tertiaires :
+
+- Les plaques superposées du poitrail et du cou
+- Des écailles orientées qui suivent l’anatomie
+- Les arcades sourcilières et les paupières
+- De véritables ouvertures nasales
+- L’intérieur de la bouche, les gencives et les dents individualisées
+- Les arêtes des cornes, les éclats et les pointes usées
+- L’armure des pattes et les plaques des phalanges
+- Les tendons, plis, veines et cicatrices discrètes des ailes
+- Les épines dorsales se prolongeant le long de la queue
+- Une asymétrie naturelle et subtile
+
+Utilisez de la géométrie pour tout élément qui influence la silhouette, notamment les cornes, les griffes, les dents, les écailles principales, les épines dorsales, les doigts des ailes et les plis importants des membranes. Réservez les normal maps, le bump mapping ou un displacement modéré aux microdétails.
+
+MATÉRIAUX
+
+Créez des matériaux photoréalistes basés sur les principes physiques.
+
+Les écailles doivent être principalement noir charbon, avec de subtiles variations graphite et brun terreux. Ajoutez de légères variations de couleur, de rugosité et de micro-normales. Les écailles en relief, la peau en creux et les plaques blindées doivent réagir différemment à la lumière. Évitez les reflets plastiques uniformes et le bruit procédural appliqué indistinctement.
+
+Les membranes des ailes doivent évoquer un cuir de reptile patiné. Elles doivent paraître plus fines entre les os de soutien et plus épaisses près des articulations et des bords d’attaque. Ajoutez de subtiles veines, des plis, de la tension, des cicatrices, de la translucidité et des variations de couleur, sans leur donner l’apparence de tissu, de caoutchouc ou de papier.
+
+Créez des cornes et des griffes de type kératine, avec une base sombre, des pointes plus claires et usées, des arêtes longitudinales et de légères traces de dommages.
+
+Les yeux doivent comporter :
+
+- Des iris ambrés dorés
+- Des pupilles noires verticales
+- Une structure détaillée de l’iris
+- Des régions limbiques sombres
+- De véritables globes oculaires en trois dimensions
+- Des paupières réalistes
+- Des reflets humides sur la cornée
+- Une légère humidité le long du bord des paupières
+
+Ne rendez pas les yeux émissifs et ne leur donnez pas de lueur artificielle.
+
+ÉCLAIRAGE ET ENVIRONNEMENT
+
+Créez un environnement cinématographique discret, similaire à celui de la référence :
+
+- Un piédestal rocheux sombre ou un éperon montagneux
+- Des montagnes atmosphériques au loin
+- Un ciel couvert et spectaculaire
+- Une lumière ambiante froide
+- Une lumière directionnelle légèrement plus chaude révélant le visage et les écailles
+- Une légère brume atmosphérique
+- Aucune structure distrayante ni créature supplémentaire
+
+Placez le dragon dans une posture stable et imposante :
+
+- La tête relevée et alerte
+- Le cou légèrement incurvé
+- Les ailes entièrement ou presque entièrement déployées
+- Le poids réparti de façon crédible sur les quatre pattes
+- La queue posée ou incurvée naturellement derrière lui
+- La bouche fermée ou légèrement entrouverte
+- Le regard dirigé vers la caméra ou juste au-delà
+
+VÉRIFICATION VISUELLE
+
+Créez des caméras de validation correspondantes pour :
+
+- La vue de profil
+- La vue de face
+- La vue de dessus
+- La vue de dos
+- Les profils gauche et droit de la tête
+- Une vue héroïque en trois quarts
+- Un gros plan de la tête
+- Un gros plan de l’œil
+- Un gros plan des écailles
+- Un gros plan de l’aile
+
+Effectuez au moins trois boucles d’évaluation et de correction.
+
+À chaque boucle :
+
+1. Effectuez le rendu avec toutes les caméras de validation.
+2. Comparez chaque rendu au panneau de référence correspondant.
+3. Évaluez la silhouette, l’anatomie, les proportions, l’identité de la tête, les cornes, les ailes, les pattes, les pieds, la queue, la continuité des écailles, les matériaux, la symétrie, les intersections, l’ombrage et les normales.
+4. Établissez une liste hiérarchisée des écarts.
+5. Corrigez les problèmes les plus importants visuellement.
+6. Refaites le rendu avec les mêmes caméras.
+7. Conservez les comparaisons avant/après.
+
+Ne déclarez pas le travail terminé simplement parce que les objets ont été créés. La validation exige d’inspecter les rendus réels et de corriger les problèmes visibles.
+
+MOUVEMENT DE CAMÉRA DE 10 SECONDES
+
+Créez un mouvement de caméra cinématographique autour du dragon terminé en respectant les exigences suivantes :
+
+- Exactement 10 secondes
+- Résolution de 1920 × 1080
+- 30 images par seconde
+- Exactement 300 images
+- Mouvement de caméra continu et fluide
+- Aucune coupe
+- Environ une orbite complète de 360 degrés
+- Départ depuis une composition forte en trois quarts avant
+- Passage par le côté, l’arrière et le côté opposé
+- Arrivée dans une composition qui se raccorde naturellement à l’image d’ouverture
+- Ajout d’une variation modérée de hauteur pour révéler le dos et la structure des ailes
+- Dragon entièrement conservé dans le cadre
+- Tête et torse maintenus comme principaux éléments d’attention visuelle
+- Utilisation d’une interpolation de Bézier fluide
+- Éviter les accélérations soudaines et le roulis de caméra
+- Éviter de traverser les ailes, la queue, le terrain ou le corps
+- Utilisation d’un objectif à perspective naturelle, sans forte distorsion grand-angle
+- Profondeur de champ suffisamment discrète pour que le dragon reste lisible
+- Flou de mouvement modéré
+
+Avant le rendu final, générez un aperçu rapide en 1080p avec peu d’échantillons pour l’animation complète. Inspectez l’aperçu dans son intégralité et corrigez les mauvais cadrages, les collisions de caméra, les silhouettes maladroites, les vues obstruées, les mouvements brusques, les défauts d’ombrage et les intersections de géométrie visibles.
+
+RENDU FINAL
+
+Après avoir terminé les boucles d’évaluation et validé l’aperçu de l’animation :
+
+- Effectuez le rendu final de l’animation en 1920 × 1080.
+- Utilisez Cycles avec l’accélération GPU lorsqu’elle est disponible.
+- Effectuez le rendu à 30 i/s pendant exactement 300 images.
+- Utilisez l’échantillonnage adaptatif et le débruitage.
+- Effectuez d’abord le rendu sous forme d’images individuelles afin de pouvoir reprendre un rendu interrompu.
+- Utilisez des PNG 16 bits ou OpenEXR pour les images maîtres.
+- Assemblez les images rendues en vidéo H.264 MP4 haute qualité.
+- N’utilisez pas d’interpolation d’images par IA.
+- Conservez les images individuelles après l’assemblage de la vidéo.
+
+LIVRABLES
+
+Fournissez :
+
+1. Le fichier `.blend` final éditable
+2. Tous les scripts `bpy` reproductibles
+3. Un README contenant les instructions de reconstruction et de rendu
+4. Un rapport d’analyse des références et des hypothèses
+5. Des comparaisons avec les références à vues correspondantes
+6. Des comparaisons avant/après pour les boucles d’évaluation
+7. Des rendus fixes haute qualité du dragon complet et des détails importants
+8. Une séquence complète de 300 images
+9. Une vidéo H.264 finale de 10 secondes en 1080p
+10. Un rapport de validation de la géométrie et des matériaux
+11. Un manifeste identifiant les éventuelles ressources externes autorisées utilisées pour l’environnement et leurs licences
+
+CRITÈRES DE RÉUSSITE
+
+La réussite signifie que :
+
+- Le résultat est clairement le même dragon que celui de la référence.
+- Son anatomie reste cohérente sous tous les angles.
+- La tête, les cornes, les yeux ambrés, les ailes, les épines dorsales et les écailles sombres superposées correspondent étroitement à la référence.
+- Le dragon est entièrement tridimensionnel et éditable.
+- Les détails principaux et intermédiaires sont modélisés plutôt que simulés.
+- Les matériaux réagissent naturellement aux mouvements de la caméra.
+- Il n’y a aucune intersection évidente, écaille flottante, duplication anatomique ou normale incorrecte.
+- Le résultat évoque une créature physique photographiée plutôt qu’un jouet, une sculpture, un modèle procédural générique ou un asset de jeu ordinaire.
+- Le mouvement de caméra est fluide, cinématographique et dure exactement 10 secondes.
+
+Travaillez de manière autonome tout au long de ces étapes. Commencez par l’analyse des références et le blockout anatomique. Si vous rencontrez une ambiguïté majeure impossible à résoudre à partir de la référence, faites le choix le plus anatomiquement plausible, consignez cette hypothèse et poursuivez.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a photorealistic, fully editable 3D reconstruction of the dragon shown in the attached reference sheet inside Blender.
+
+Use every supplied view—including the side, front, top, back, head angles, head closeup, eye closeup, scale detail and wing detail—to reconstruct one coherent and anatomically believable dragon.
+
+Match the reference as closely as possible, especially:
+
+- Overall body proportions and silhouette
+- Long muscular neck and tapering tail
+- Four legs and two large bat-like wings
+- Head and jaw shape
+- Horn number, shape and placement
+- Dorsal spikes along the neck, back and tail
+- Dark charcoal and earthy-brown scale patterns
+- Layered armor-like scales
+- Golden-amber eyes with vertical pupils
+- Claws, teeth and wing membranes
+- Ancient, realistic and threatening appearance
+
+The reference panels may contain small inconsistencies. Reconcile them into a physically coherent, symmetrical base creature while preserving the dragon’s visual identity. Use the side view for overall proportions, the front view for width and stance, the top and back views for wings and tail, and the closeups for the head, eyes, scales and wing materials.
+
+Build the dragon from scratch as actual editable Blender geometry. Do not download or import an existing dragon model. Do not use billboards, 2D projections, depth-map illusions or generated video in place of geometry.
+
+Use modular Blender Python (`bpy`) scripts and Blender’s executable in background/headless mode as the primary construction method. Keep the scripts reproducible and preserve successful versions of the `.blend` file. Use computer use to open and inspect the Blender scene whenever visual inspection is helpful. Do not install or rely on a Blender MCP server.
+
+MODELING APPROACH
+
+Begin with an anatomical blockout before adding detail. Establish:
+
+- Skull, jaw and eye sockets
+- Neck, chest, rib cage and pelvis
+- Four anatomically convincing legs
+- Separated toes and curved claws
+- Wing shoulders integrated into the torso
+- Articulated wing arms and finger bones
+- Properly connected wing membranes
+- Long tail continuing naturally from the pelvis
+- Primary horns and dorsal spines
+
+Avoid extra limbs, duplicated horns, disconnected membranes, broken joints, floating scales, intersections, paper-thin forms, accidental asymmetry and toy-like proportions.
+
+After validating the blockout, add secondary and tertiary details:
+
+- Layered chest and neck plates
+- Directional scales that follow the anatomy
+- Brow ridges and eyelids
+- Real nostril openings
+- Mouth interior, gums and individual teeth
+- Horn ridges, chips and worn tips
+- Leg armor and knuckle plates
+- Wing tendons, folds, veins and restrained scars
+- Dorsal spikes continuing down the tail
+- Subtle natural asymmetry
+
+Use geometry for anything affecting the silhouette, including horns, claws, teeth, major scales, dorsal spines, wing fingers and important membrane folds. Use normal maps, bump or restrained displacement only for micro-detail.
+
+MATERIALS
+
+Create physically based, photorealistic materials.
+
+The scales should be predominantly charcoal-black with subtle graphite and earthy-brown variation. Add restrained color, roughness and micro-normal variation. Raised scales, recessed skin and armored plates should reflect light differently. Avoid uniform plastic shine and indiscriminate procedural noise.
+
+The wing membranes should look like weathered reptilian leather. They should appear thinner between the supporting bones and thicker near joints and leading edges. Include subtle veins, folds, tension, scars, translucency and color variation without making them resemble cloth, rubber or paper.
+
+Create keratin-like horns and claws with dark bases, lighter worn tips, lengthwise ridges and subtle damage.
+
+The eyes should have:
+
+- Golden-amber irises
+- Vertical black pupils
+- Detailed iris structures
+- Dark limbal regions
+- Proper three-dimensional eyeballs
+- Realistic eyelids
+- Wet corneal highlights
+- Subtle moisture along the eyelid edges
+
+Do not make the eyes emissive or artificially glowing.
+
+LIGHTING AND ENVIRONMENT
+
+Create a restrained cinematic environment similar to the reference:
+
+- Dark rocky pedestal or mountain outcrop
+- Distant atmospheric mountains
+- Dramatic overcast sky
+- Cool ambient illumination
+- Subtle warmer directional light revealing the face and scales
+- Light atmospheric mist
+- No distracting structures or additional creatures
+
+Pose the dragon in a stable, commanding stance:
+
+- Head raised and alert
+- Neck slightly curved
+- Wings fully or nearly fully displayed
+- Weight distributed credibly across all four feet
+- Tail resting or curving naturally behind it
+- Mouth closed or slightly parted
+- Eyes directed toward or just past the camera
+
+VISUAL VERIFICATION
+
+Create matched validation cameras for:
+
+- Side view
+- Front view
+- Top view
+- Back view
+- Left and right head profiles
+- Three-quarter hero view
+- Head closeup
+- Eye closeup
+- Scale closeup
+- Wing closeup
+
+Perform at least three critic-and-correction loops.
+
+During each loop:
+
+1. Render every validation camera.
+2. Compare each render with the corresponding reference panel.
+3. Evaluate silhouette, anatomy, proportions, head identity, horns, wings, legs, feet, tail, scale flow, materials, symmetry, intersections, shading and normals.
+4. Produce a ranked list of discrepancies.
+5. Correct the most visually important problems.
+6. Rerender the same cameras.
+7. Preserve before-and-after comparisons.
+
+Do not claim completion merely because the objects were created. Completion requires inspecting the actual renders and correcting visible problems.
+
+10-SECOND CAMERA FLYAROUND
+
+Create a cinematic camera flyaround of the completed dragon with these requirements:
+
+- Exactly 10 seconds
+- 1920 × 1080 resolution
+- 30 frames per second
+- Exactly 300 frames
+- Smooth continuous camera movement
+- No cuts
+- Approximately one complete 360-degree orbit
+- Start from a strong front three-quarter composition
+- Travel around the side, back and opposite side
+- End in a composition that connects smoothly with the opening frame
+- Add a restrained elevation change to reveal the back and wing construction
+- Keep the complete dragon inside the frame
+- Keep the head and torso as the main visual focus
+- Use smooth Bézier interpolation
+- Avoid sudden acceleration and camera roll
+- Avoid clipping through the wings, tail, terrain or body
+- Use a natural perspective lens without strong wide-angle distortion
+- Keep depth of field subtle enough that the dragon remains readable
+- Use restrained motion blur
+
+Before the final render, generate a fast, low-sample 1080p preview of the entire animation. Inspect the complete preview and correct bad framing, camera collisions, awkward silhouettes, obstructed views, abrupt motion, shading defects and visible geometry intersections.
+
+FINAL RENDER
+
+After completing the critic loops and approving the animation preview:
+
+- Render the final animation at 1920 × 1080.
+- Use Cycles with GPU acceleration when available.
+- Render at 30 fps for exactly 300 frames.
+- Use adaptive sampling and denoising.
+- Render to individual image frames first so an interrupted render can be resumed.
+- Use 16-bit PNG or OpenEXR for the master frames.
+- Assemble the rendered frames into a high-quality H.264 MP4.
+- Do not use AI frame interpolation.
+- Retain the individual frames after assembling the video.
+
+DELIVERABLES
+
+Provide:
+
+1. Final editable `.blend` file
+2. All reproducible `bpy` scripts
+3. README with rebuild and rendering instructions
+4. Reference-analysis and assumptions report
+5. Matched-view reference comparisons
+6. Before-and-after critic-loop comparisons
+7. High-quality still renders of the complete dragon and important details
+8. Complete 300-frame image sequence
+9. Final 10-second 1080p H.264 video
+10. Geometry and material validation report
+11. A manifest identifying any permitted external environment resources and their licenses
+
+SUCCESS CRITERIA
+
+Success means:
+
+- The result is recognizably the same dragon as the reference.
+- Its anatomy remains coherent from every angle.
+- The head, horns, amber eyes, wings, dorsal spines and dark layered scales closely match the reference.
+- The dragon is fully three-dimensional and editable.
+- Major and medium details are modeled rather than faked.
+- Materials respond naturally as the camera moves.
+- There are no obvious intersections, floating scales, duplicated anatomy or broken normals.
+- It resembles a photographed physical creature rather than a toy, sculpture, generic procedural model or ordinary game asset.
+- The camera movement is smooth, cinematic and exactly 10 seconds long.
+
+Work autonomously through these stages. Begin with reference analysis and the anatomical blockout. If you encounter a major ambiguity that cannot be resolved from the reference, make the most anatomically plausible choice, document the assumption and continue.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096335588727349434) · [Publication originale](https://x.com/doomdave/status/2096335588727349434) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="warcraft-inspired-character-scene-in-unity-2096308567863079420"></a>
+
+### Scène de personnage inspirée de Warcraft dans Unity
+
+[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/5d7b5f942c0c75a7fd99b056ed2c49ea92c1d2fc8698a81f2801c498007225f0.webp" width="840" loading="lazy" alt="Scène de personnage inspirée de Warcraft dans Unity"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée une scène de personnage inspirée de Warcraft avec Astra, Tripo P2, Blender et Unity. Génère le personnage, prépare-le dans Blender et assemble une scène jouable dans Unity.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Publication originale](https://x.com/luccacerf/status/2096308567863079420) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"></a>
+
+### Le Terreiro do Paço de Lisbonne dans Blender
+
+[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/77c44cd1909ca3d2ae1490936c946ba70a47c04e188bca6215192fae95c7c19c.webp" width="840" loading="lazy" alt="Le Terreiro do Paço de Lisbonne dans Blender"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Recrée le Terreiro do Paço de Lisbonne sous forme de scène Blender modifiable. Recherche des références pour guider l’architecture, les matériaux et l’éclairage de la place.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Publication originale](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="bioluminescent-deep-sea-landing-page-2096269057544831175"></a>
+
+### Landing page abyssale bioluminescente
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/e31de617c90349dcbe141c72fcea15ae67e789783549740c6c7904254caebcea.webp" width="840" loading="lazy" alt="Landing page abyssale bioluminescente"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée une landing page des grands fonds avec des effets d’eau Three.js, une interface sombre à l’aspect vitré et des mouvements liés au défilement. Associe l’ambiance 3D à des interactions web claires et adaptées aux différentes tailles d’écran.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Publication originale](https://x.com/himanshubuildss/status/2096269057544831175) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="dense-procedural-forest-in-three-js-2096263046918197609"></a>
+
+### Forêt procédurale dense dans Three.js
+
+[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/8b0fa0d915619e050c9da1c6daefd6e18ca80d78222a90660a4e7883a0d93845.webp" width="840" loading="lazy" alt="Forêt procédurale dense dans Three.js"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée une forêt détaillée dans Three.js avec des milliers d’arbres, de l’herbe dense et des fougères. Utilise des shaders sur mesure et une répétition efficace de la géométrie pour conserver le détail dans toute la scène.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Publication originale](https://x.com/LexnLin/status/2096263046918197609) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="cluj-napoca-union-square-in-voxels-2096262733259837681"></a>
+
+### La place de l’Union de Cluj-Napoca en voxels
+
+[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/930e422109c34a8f6e093f607165323b5b2f6cf472796fd6495b09f195deab7e.webp" width="840" loading="lazy" alt="La place de l’Union de Cluj-Napoca en voxels"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Crée un monde interactif en voxels de la Piața Unirii à Cluj-Napoca. Adapte le plan et les monuments reconnaissables de la place en une miniature explorable.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Publication originale](https://x.com/danmana/status/2096262733259837681) · [Code source](https://github.com/danmana/piata-unirii) · [Démo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="browser-racing-physics-in-c-and-wasm-2096258619574513880"></a>
+
+### Une physique de course pour navigateur en C# et WASM
+
+[achepta](https://x.com/achepta_tm) · 2026-09-05 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/50ecc7179fa30fbd26b46fa5f2b6d8cb48fe689c5c08a58a1008ad3f5bb57e3a.webp" width="840" loading="lazy" alt="Une physique de course pour navigateur en C# et WASM"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Recrée un système de physique de course façon Trackmania en C#, exécute-le via WASM et affiche le circuit dans Three.js. Utilise des maillages de piste avec collisions et teste le comportement du véhicule.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Publication originale](https://x.com/achepta_tm/status/2096258619574513880) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### Une bataille de kaijus en ville
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="Une bataille de kaijus en ville"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Construis un jeu Three.js inspiré des kaijus en utilisant des modèles de créatures et des effets sonores générés. Crée des combats de géants lisibles et un environnement qui fait ressentir leur taille.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/kaiju-city-battle-2096251574918013135) · [Publication originale](https://x.com/majidmanzarpour/status/2096251574918013135) · [Démo](https://stormcolossus.netlify.app/) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### Une démo Hyperloop interactive
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="Une démo Hyperloop interactive"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Construis une démonstration Three.js interactive d'Hyperloop montrant une capsule de transport, les tubes de l'infrastructure et les déplacements dans le système.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Publication originale](https://x.com/hbanay98/status/2096250748099068377) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### Un site de studio 3D animé par le défilement
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="Un site de studio 3D animé par le défilement"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Transforme l'image de référence fournie en scène Three.js au sein d'un site de studio au défilement fluide. Coordonne les mouvements de caméra, la typographie et les transitions entre sections.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Publication originale](https://x.com/mx_debbiee/status/2096245759121277132) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### Komorebi : du kayak en rivière
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi : du kayak en rivière"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Construis un jeu de kayak 3D en rivière à l'esthétique inspirée de l'anime. Permets au joueur de pagayer à gauche et à droite pour éviter les obstacles, avec eau courante, paysages, musique et effets sonores générés par le code.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Publication originale](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### Une bouteille réfractive au cœur d'un récit produit
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="Une bouteille réfractive au cœur d'un récit produit"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Construis un site produit interactif autour d'une bouteille en verre WebGL photoréaliste. Utilise un liquide réfractif, une rotation pilotée par le défilement et une typographie affirmée tout en préservant les performances du navigateur.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Publication originale](https://x.com/himanshubuildss/status/2096243989439713677) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### Une machine à capsules de souvenirs
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="Une machine à capsules de souvenirs"></a>
+
+*Consignes fondées sur l’œuvre liée*
+
+**Prompt**
+
+```text
+Construis une machine 3D à capsules de souvenirs. Tourne une molette pour libérer un souvenir, modélise le mécanisme dans Blender et donne aux capsules qui tombent des mouvements et des sons crédibles.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/memory-capsule-machine-2096241295949975602) · [Publication originale](https://x.com/gloria_zwq/status/2096241295949975602) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096236137266512181"></a>
 
 ### Simulateur de vol dans le navigateur avec une boucle de vol complète
@@ -988,313 +1695,6 @@ Utilise un schéma PDF pour réviser un circuit dans KiCad, router un PCB double
 ```
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Publication originale](https://x.com/swjtutl/status/2096079976433082502) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="astral-war-browser-shooter-2096079660605997264"></a>
-
-### Astral War : un jeu de tir dans le navigateur
-
-[Rishi](https://x.com/0xRishi) · 2026-09-05 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/6d8b4beb5ef0ca19d84022568666ed1172dda03dee1c9045199da3595b003f7b.webp" width="840" loading="lazy" alt="Astral War : un jeu de tir dans le navigateur"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Construis un jeu de tir pour navigateur inspiré de World at War dans Three.js. Crée un champ de bataille complet et jouable avec combats réactifs, audio spatial, assets de personnages et déroulement des matchs.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Publication originale](https://x.com/0xRishi/status/2096079660605997264) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="astra-3d-2096068401294929940"></a>
-
-### Créer un petit jeu 3D rudimentaire avec Astra à partir d’une image conceptuelle
-
-[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="Créer un petit jeu 3D rudimentaire avec Astra à partir d’une image conceptuelle"></a>
-
-**Prompt**
-
-```text
-Un monde dystopique triste, mais magnifique, dans un style voxel / low-poly : nuit pluvieuse, brume légère, reflets sur les zones humides, environnement bleu froid + éclairage orange chaud. L’éclairage doit être aussi réaliste et cinématographique que possible.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/astra-3d-2096068401294929940) · [Publication originale](https://x.com/ChenshuoAI/status/2096068401294929940) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
-
-### Prototype de jeu The Legend of Astra
-
-[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="Prototype de jeu The Legend of Astra"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée un prototype de jeu d’aventure 3D dans Unity avec des scènes préparées dans Blender et des assets Tripo. Intègre l’animation des personnages à la démo jouable.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [Publication originale](https://x.com/lofihashbloom/status/2096064140510970318) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
-
-### Un simulateur Sinclair ZX Spectrum
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Un simulateur Sinclair ZX Spectrum"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Recrée un Sinclair ZX Spectrum 48K sous forme d'application de bureau 3D interactive. Inclus son clavier en caoutchouc, son lecteur de cassettes, son écran de démarrage, un jeu jouable et une interface de programmation BASIC.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Publication originale](https://x.com/DeryaTR_/status/2096062355692048605) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
-
-### Une perceuse reconstituée à partir d'une seule vue
-
-[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · Ressources
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="Une perceuse reconstituée à partir d'une seule vue"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Reconstitue une perceuse électrique dans Blender à partir d'une seule vue de référence. Modélise le boîtier, la poignée, le mandrin et les commandes en géométrie modifiable, puis inspecte le résultat sous plusieurs angles.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Publication originale](https://x.com/SkyeSharkie/status/2096059736693305794) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
-
-### Une tranche jouable Godot inspirée de Sonic
-
-[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="Une tranche jouable Godot inspirée de Sonic"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Construis un niveau 3D soigné inspiré de Sonic dans Godot avec des assets locaux et procéduraux. Privilégie l'élan, des déplacements réactifs, les anneaux, les loopings, les rails de glisse et un littoral tropical continu.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Publication originale](https://x.com/AiBattle_/status/2096056285896536086) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
-
-### Zork devient un jeu d'action-aventure 3D
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork devient un jeu d'action-aventure 3D"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Transforme l'aventure textuelle classique Zork en jeu d'action-aventure 3D. Conserve son intrigue et ses énigmes, ajoute des scènes de combat et construis les personnages et environnements dans Three.js.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Publication originale](https://x.com/emollick/status/2096047660662722620) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
-
-### Un réseau de livraison avec fermeture de ponts
-
-[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="Un réseau de livraison avec fermeture de ponts"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Construis une simulation de livraison 3D où la fermeture des ponts modifie les trajets des camions. Détecte les destinations inaccessibles et rétablis les livraisons lorsqu'un itinéraire rouvre.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Publication originale](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
-
-### Un écosystème WebGL qui évolue
-
-[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="Un écosystème WebGL qui évolue"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Construis un écosystème évolutif 3D dans un seul fichier HTML en WebGL brut et GLSL. Fais interagir mutation, sélection naturelle, prédation, consommation d'énergie et liaisons multicellulaires.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Publication originale](https://x.com/yume_arasaki/status/2096040448477515874) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### Un Taj Mahal explorable
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Un Taj Mahal explorable"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Recrée le Taj Mahal sous forme de scène 3D explorable. Privilégie ses proportions reconnaissables, ses jardins symétriques, son dôme central, ses minarets et les relations entre les bâtiments.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Publication originale](https://x.com/vikassabbi/status/2096035962824335798) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### Un portfolio 3D personnel avec un globe des conférences
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Un portfolio 3D personnel avec un globe des conférences"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Transforme un portrait en personnage Blender au sein d'un portfolio WebGL éditorial. Ajoute un globe tournant qui situe les prises de parole et intègre les assets au site.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Publication originale](https://x.com/HowDevelop/status/2096023793772998704) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### Gogh Strike : un FPS multijoueur
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike : un FPS multijoueur"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Construis un FPS postimpressionniste à 5 contre 5 avec des personnages artistes rendus dans Blender, des équipes faciles à distinguer et un match multijoueur complet dans le navigateur.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Publication originale](https://x.com/petergostev/status/2096013280519016608) · [Code source](https://github.com/petergpt/gogh-strike) · [Démo](https://gogh-strike.surge.sh/) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### Modèle de l’enregistreur TP-7 d’après références
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Ressources
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Modèle de l’enregistreur TP-7 d’après références"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Recrée le Teenage Engineering TP-7 dans Three.js à partir d’images de référence. Reproduis sa forme et ses commandes visibles dans un modèle 3D que l’on peut examiner.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Publication originale](https://x.com/ty_kra_lab/status/2096013228090245181) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### Une Tesla Model X en vue éclatée
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Une Tesla Model X en vue éclatée"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée un site 3D qui décompose une Tesla Model X en composants modélisés. Permets aux visiteurs d'inspecter les assemblages et de remonter le véhicule de manière interactive.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Publication originale](https://x.com/ashebytes/status/2096009146248122416) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### Une gelée WebGPU rebondissante
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Une gelée WebGPU rebondissante"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée une gelée rebondissante appétissante avec Three.js et WebGPU. Fais-la se déformer puis se stabiliser naturellement après une interaction, avec un matériau translucide et un éclairage lisible.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Publication originale](https://x.com/scottstts/status/2096008241104711698) · [Retour aux exemples](#all-prompts)
 
 ---
 

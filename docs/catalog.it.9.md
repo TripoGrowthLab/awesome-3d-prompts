@@ -26,8 +26,23 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Esplora gli esempi (32)</summary>
+<summary>Esplora gli esempi (47)</summary>
 
+- [Un castello procedurale a voxel da esplorare](#procedural-voxel-castle-showcase-2093690427849191855)
+- [Prompt per assemblare un 4×4 in stile Jeep in Blender](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [Prompt di fisica della distruzione 3D per scene HTML autonome](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Una raccolta di prompt Claude Opus 5 per il progetto di un robot mecha](#mech-robot-blueprint-set-2082760534500188606)
+- [Prompt Godot per un gioco in stile Need for Speed](#need-for-speed-style-godot-game-2082714235373584582)
+- [Prompt di simulazione 3D di un acquario che si crepa per Kimi K3](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Prompt per un gioco di combattimento giocabile con Kimi K3](#playable-combat-game-2082507403598373134)
+- [Prompt Kimi K3 per un duello in stile League of Legends in un HTML](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [Prompt Claude Opus 5 per un visualizzatore 3D del Sole in un file](#single-file-3d-sun-visualizer-2082461416049525077)
+- [Prompt per una stanza 3D con computer in un unico file Three.js](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Prompt Claude Opus 5 per una porta non euclidea in Unreal Engine 5](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [Un prompt FPS semplice per un gioco Three.js](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [Prompt Claude Opus 5 per un FPS in stile CS2 e Battlefield](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Prompt Claude Opus 5 per uno sparatutto AAA](#aaa-shooter-game-2082180453889712318)
+- [Un gioco dark fantasy a scorrimento laterale in un unico HTML](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
 - [Un flusso di sviluppo Claude Opus 5 per un MMO 3D](#development-workflow-for-a-3d-mmo-2082035844836450334)
 - [Creare un Chrome Dino giocabile](#make-a-playable-chrome-dino-game-2081867025140650236)
 - [Prompt Kimi K3 per uno sparatutto realistico con elicotteri](#realistic-helicopter-shooter-game-2081791572115435765)
@@ -62,6 +77,341 @@
 - [Prompt Three.js per visitare un aereo dall'interno](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
+
+### Un castello procedurale a voxel da esplorare
+
+[Hakm](https://x.com/hakmgpt) · 2026-08-29 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/23ae53933cb538d4d667ddafc25295f17b5ba7d553359586648ba59b74aa5bab.webp" width="840" loading="lazy" alt="Un castello procedurale a voxel da esplorare"></a>
+
+*Istruzioni basate sull’opera collegata*
+
+**Prompt**
+
+```text
+Genera un grande castello a voxel con linee difensive chiare, torri, mura, porte, cortili e terreno circostante. Usa istanze, camera orbitale, luce variabile e generazione deterministica per ottenere un risultato stabile e ispezionabile.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Post originale](https://x.com/hakmgpt/status/2093690427849191855) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### Prompt per assemblare un 4×4 in stile Jeep in Blender
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Prompt per assemblare un 4×4 in stile Jeep in Blender"></a>
+
+**Prompt**
+
+```text
+Progetta un 4×4 in stile Jeep e assemblalo in Blender pezzo per pezzo, senza modellazione manuale
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [Post originale](https://x.com/slash1sol/status/2082845759452463405) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### Prompt di fisica della distruzione 3D per scene HTML autonome
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="Prompt di fisica della distruzione 3D per scene HTML autonome"></a>
+
+**Prompt**
+
+```text
+Un monster truck che schiaccia una fila di auto
+Due auto che saltano un canyon e si scontrano frontalmente in aria
+Un'incudine gigante che appiattisce auto una per una
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [Post originale](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Una raccolta di prompt Claude Opus 5 per il progetto di un robot mecha
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Una raccolta di prompt Claude Opus 5 per il progetto di un robot mecha"></a>
+
+**Prompt**
+
+```text
+Condivido i prompt che ho usato con Claude OPUS 5 + Blender per progettare un robot mecha GRANDE COME UN GUNDAM con matematica e fisica reali:
+
+“ragioniamo sul design del mecha: ha 2 motori turboalbero e funziona con motori elettrici e potenza idraulica, ha anche un'apu e forse un sistema pneumatico. ha batterie potenti per continuare un po' se le cose si mettono male. pensavo ai 2 motori sulle spalle, con pannello di servizio verso l'esterno per la manutenzione. rivedi i sistemi del mecha e poi li costruiremo tutti fisicamente. sarà fantastico. assegna un agente che ti aiuti e ricostruisci il torso, lasciando un grande spazio centrale per abitacolo e capsula letto.”
+
+“e se gli dessimo ruote sui piedi mosse da motori elettrici? potrebbero aiutare molto il movimento.”
+
+“assegna a un agente queste misure e la progettazione di una gamba, con veri cavi che arrivano agli attuatori e tutto il resto.”
+
+“ok, inserisci i nuovi glb nella scena.”
+
+“dio mio, è una follia assurda. amico, ok, mostra subito le altre parti.”
+
+“dai alla testa low poly vere camere FLIR e per visione notturna, più una CROWS M2 anni 1980/1990.”
+
+“è… bellissimo… T_T.”
+
+“dobbiamo fare il rig dello scheletro delle gambe così quando lo animo rispetta i vincoli; serve anche a calcolare forze e altro.”
+
+“tranquillo, tanto non capisco quasi niente ahah.”
+“ok, assicurati che motori, trasmissione e gambe che hai costruito siano salvati per dopo, nel caso si possano riutilizzare altrove. detto questo, chiedi a un agente di costruire braccia e mani.”
+
+“progetta anche bene il meccanismo delle anche per collegare le gambe.”
+
+“come la vedo io, la giunzione tra BACINO e TORACE ha la coppia circolare.”
+
+“fai creare a un agente un fucile semiautomatico portatile con sistema bofors, così il robot ha i suoi colpi semiautomatici rapidi, pew pew.”
+
+“in realtà lo voglio da 40 mm; costruiscine uno accurato ma low poly per misurare se sia meglio come pistola o fucile semiautomatico.”
+
+“fai entrambi, poi uno che sia un cannone da abrams con meccanismo semiautomatico.”
+“crea otturatore e molla come in un fucile.”
+
+“ok, per l'abitacolo pensavo di eliminare i cavi decorativi e fare cablaggi veri o-O che ne pensi?”
+
+“soluzione: fai cavi veri, ma cabla come un animale selvaggio.”
+
+“inserisci quella cosa del cannone da 120 mm.”
+
+“fai il RIG e anima il funzionamento del cannone da 120 mm.”
+
+“voglio qui un portello GRANDE corazzato, così il sedile può SOLLEVARSI e il pilota guardare intorno e guidare da lì. anche i 4 visori telescopici nell'abitacolo devono avere un'uscita corrispondente sopra per avere senso.”
+“continua rig e animazione del 120 mm e comando del portello; la pausa era un clic sbagliato.”
+
+“ok, per il gruppo propulsore penso che la pancia vada bene, ma non mi piace dove sono i motori. mettiamoli più in alto con una vera struttura reticolare che sostenga torso e spalle… decidi tu, come faresti il torace? entriamo dal portello superiore, quindi possiamo costruire la parte anteriore…”
+
+“e il guscio esterno può essere alluminio sottile o fibra di carbonio, non importa, ma deve essere bello. forse NCT può fare da corazza? non so, decidi tu. poi aggiungeremo parti per rendere questo mostro un po' più gradevole… comunque, raduna il gruppo e comincia a costruire.”
+
+“ho trovato questo inverter PT125 che fluttua e non so dove vada.”
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [Post originale](https://x.com/Spectromachina/status/2082760534500188606) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Prompt Godot per un gioco in stile Need for Speed
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Prompt Godot per un gioco in stile Need for Speed"></a>
+
+**Prompt**
+
+```text
+Fammi un gioco tipo NFS.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [Post originale](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### Prompt di simulazione 3D di un acquario che si crepa per Kimi K3
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Prompt di simulazione 3D di un acquario che si crepa per Kimi K3"></a>
+
+**Prompt**
+
+```text
+Crea un acquario di vetro il cui pannello laterale sviluppi una crepa visibile e poi scoppi.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [Post originale](https://x.com/UnslothAI/status/2082528683747873194) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Prompt per un gioco di combattimento giocabile con Kimi K3
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Prompt per un gioco di combattimento giocabile con Kimi K3"></a>
+
+**Prompt**
+
+```text
+costruisci un gioco di combattimento giocabile
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/playable-combat-game-2082507403598373134) · [Post originale](https://x.com/darshal_/status/2082507403598373134) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### Prompt Kimi K3 per un duello in stile League of Legends in un HTML
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Prompt Kimi K3 per un duello in stile League of Legends in un HTML"></a>
+
+**Prompt**
+
+```text
+HO DATO A KIMI K3 E GPT-5.6 LO STESSO PROMPT SU VERDENT: COSTRUIRE UN 1 CONTRO 1 GIOCABILE IN STILE LEAGUE OF LEGENDS IN UN UNICO FILE HTML.
+
+entrambi hanno consegnato un gioco. li ho aperti affiancati e li ho giocati entrambi.
+
+ho cambiato una sola cosa tra le esecuzioni: il modello nel menu su https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Post originale](https://x.com/0x_fokki/status/2082474707727581564) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### Prompt Claude Opus 5 per un visualizzatore 3D del Sole in un file
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 per un visualizzatore 3D del Sole in un file"></a>
+
+**Prompt**
+
+```text
+Costruisci un visualizzatore 3D del Sole che ruota nello spazio. Un file HTML.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [Post originale](https://x.com/AlysisAI/status/2082461416049525077) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### Prompt per una stanza 3D con computer in un unico file Three.js
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="Prompt per una stanza 3D con computer in un unico file Three.js"></a>
+
+**Prompt**
+
+```text
+costruisci una stanza 3d esplorabile intorno a una postazione informatica, un unico file html autonomo, Three.js via importmap, solo geometria procedurale, niente mesh esterne né texture immagine, nessun layout o stile specificato. “sei tu il designer. sorprendimi”
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [Post originale](https://x.com/thehypedotnews/status/2082451081733591520) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Prompt Claude Opus 5 per una porta non euclidea in Unreal Engine 5
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 per una porta non euclidea in Unreal Engine 5"></a>
+
+**Prompt**
+
+```text
+“Una porta sola nel vuoto, senza niente intorno né dietro, che si apra su un'aula situata altrove nel livello. Attraversala camminando: niente tagli, dissolvenze, caricamenti o sensazioni di teletrasporto. Deve funzionare da entrambi i lati e da ogni angolazione.”
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [Post originale](https://x.com/ombrageplays/status/2082436347113951333) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### Un prompt FPS semplice per un gioco Three.js
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Un prompt FPS semplice per un gioco Three.js"></a>
+
+**Prompt**
+
+```text
+Costruiscimi un FPS
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [Post originale](https://x.com/codewithantonio/status/2082242351372599770) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### Prompt Claude Opus 5 per un FPS in stile CS2 e Battlefield
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 per un FPS in stile CS2 e Battlefield"></a>
+
+**Prompt**
+
+```text
+prova a fare uno sparatutto in prima persona che sia un misto di CS2 e Battlefield.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [Post originale](https://x.com/AnatoliKopadze/status/2082241827298557966) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Prompt Claude Opus 5 per uno sparatutto AAA
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 per uno sparatutto AAA"></a>
+
+**Prompt**
+
+```text
+Di recente è diventato virale un gioco di Call of Duty creato con Claude Opus 5, il cui autore sostiene di averlo ottenuto con un solo prompt. Molti sono scettici e l'autore ha pubblicato direttamente codice e prompt.
+
+Pensavo che il prompt sarebbe stato molto complesso, ma era di poche centinaia di parole. La chiave è il ciclo.
+
+Ecco il prompt:
+
+“Voglio che sviluppi uno sparatutto in prima persona al livello dell'ultimo Call of Duty. Deve essere impeccabile, con grafica straordinariamente bella: dalle texture agli effetti fisici, tutto ciò che puoi immaginare deve raggiungere qualità AAA.
+
+Devi creare vari sottoagenti e far gestire a ciascuno ogni dettaglio separatamente per garantire la perfezione. Usa /loop su ogni progetto e fai eseguire a un sottoagente indipendente una verifica visiva del livello AAA. Deve essere estremamente severo; se non raggiunge gli standard AAA, deve continuare a controllare.
+
+Non fermarti finché ogni sottoagente, dopo il confronto con Call of Duty, non sia completamente stupito dalla qualità grafica. Deve poter confrontare i giochi affiancati anche senza guardare le immagini e indicare quale sia migliore. Usa ThreeJS per il lavoro. /loop finché il gioco sia perfetto. Crea vari sottoagenti e usa UltraCode per ottimizzare.”
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/aaa-shooter-game-2082180453889712318) · [Post originale](https://x.com/ziqinyuan/status/2082180453889712318) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### Un gioco dark fantasy a scorrimento laterale in un unico HTML
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="Un gioco dark fantasy a scorrimento laterale in un unico HTML"></a>
+
+**Prompt**
+
+```text
+In un unico file HTML, crea un gioco dark fantasy giocabile a scorrimento laterale.
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Post originale](https://x.com/slash1sol/status/2082096376763060575) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
 
 ### Un flusso di sviluppo Claude Opus 5 per un MMO 3D

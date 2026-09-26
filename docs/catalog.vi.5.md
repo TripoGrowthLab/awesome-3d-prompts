@@ -28,6 +28,21 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Khám phá quỹ đạo trong Hệ Mặt Trời](#orbital-solar-system-explorer-2096339041679442428)
+- [Trò chơi chú cua với cơ chế xoay quanh hành động](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
+- [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#gpt-6-astra-2096335588727349434)
+- [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#warcraft-inspired-character-scene-in-unity-2096308567863079420)
+- [Quảng trường Terreiro do Paço tại Lisbon trong Blender](#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021)
+- [Trang đích biển sâu với ánh sáng sinh học](#bioluminescent-deep-sea-landing-page-2096269057544831175)
+- [Khu rừng rậm tạo bằng thuật toán trong Three.js](#dense-procedural-forest-in-three-js-2096263046918197609)
+- [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#cluj-napoca-union-square-in-voxels-2096262733259837681)
+- [Vật lý đua xe trình duyệt bằng C# và WASM](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
+- [Kaiju giao chiến trong thành phố](#kaiju-city-battle-2096251574918013135)
+- [Demo Hyperloop tương tác](#interactive-hyperloop-demo-2096250748099068377)
+- [Website studio 3D theo cuộn trang](#scroll-driven-3d-studio-website-2096245759121277132)
+- [Komorebi: chèo kayak trên sông](#komorebi-river-kayaking-2096244208533455049)
+- [Câu chuyện sản phẩm với chai khúc xạ](#refractive-bottle-product-story-2096243989439713677)
+- [Máy viên nang ký ức](#memory-capsule-machine-2096241295949975602)
 - [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](#gpt-6-astra-2096236137266512181)
 - [Tượng bán thân Napoleon thủ tục](#procedural-napoleon-bust-2096234355395903672)
 - [Sảnh ga đường sắt](#railway-station-concourse-2096226711222546461)
@@ -63,23 +78,715 @@
 - [Cụm tàu thủ tục có thể tháo rời](#exploding-procedural-train-assemblies-2096082580554777041)
 - [Dashboard địa cầu tương tác](#interactive-globe-dashboard-2096082432197837065)
 - [Từ PDF sơ đồ đến PCB và bản dựng 3D](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
-- [Astral War: game bắn súng trình duyệt](#astral-war-browser-shooter-2096079660605997264)
-- [Dùng concept art để tạo game 3D nhỏ thô sơ với Astra](#astra-3d-2096068401294929940)
-- [Bản mẫu trò chơi The Legend of Astra](#the-legend-of-astra-game-prototype-2096064140510970318)
-- [Mô phỏng Sinclair ZX Spectrum](#sinclair-zx-spectrum-simulator-2096062355692048605)
-- [Dựng máy khoan từ một góc nhìn](#single-view-power-drill-reconstruction-2096059736693305794)
-- [Bản chơi mẫu Godot lấy cảm hứng Sonic](#sonic-inspired-godot-vertical-slice-2096056285896536086)
-- [Zork thành game phiêu lưu hành động 3D](#zork-as-a-3d-action-adventure-2096047660662722620)
-- [Mạng giao hàng khi cầu bị đóng](#delivery-network-with-bridge-closures-2096042360513904742)
-- [Hệ sinh thái WebGL tiến hóa](#evolving-webgl-ecosystem-2096040448477515874)
-- [Khám phá Taj Mahal](#explorable-taj-mahal-2096035962824335798)
-- [Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [Gogh Strike: FPS nhiều người](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [Mô hình máy ghi âm TP-7 từ ảnh tham khảo](#tp-7-recorder-reference-model-2096013228090245181)
-- [Tesla Model X dạng tháo rời](#tesla-model-x-exploded-view-2096009146248122416)
-- [Thạch nảy WebGPU](#bouncy-webgpu-jelly-2096008241104711698)
 
 </details>
+<a id="orbital-solar-system-explorer-2096339041679442428"></a>
+
+### Khám phá quỹ đạo trong Hệ Mặt Trời
+
+[Andromedus](https://x.com/dzhohola) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/4111d0814d9a9c2268143b6adc5367e2de9a3d807f77e4b1c18d82033e941185.webp" width="840" loading="lazy" alt="Khám phá quỹ đạo trong Hệ Mặt Trời"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo công cụ khám phá Hệ Mặt Trời trong trình duyệt bằng Three.js với tám hành tinh và hai mươi vệ tinh. Cho phép di chuyển camera và lập kế hoạch bay không gian ở mức đơn giản.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Bài đăng gốc](https://x.com/dzhohola/status/2096339041679442428) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="a-crab-game-with-action-driven-mechanics-2096337879173591171"></a>
+
+### Trò chơi chú cua với cơ chế xoay quanh hành động
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/c1f5f1674d05a9bfec5c5e37024796a6e28d0cafb8e35148b01d3865c6b48c46.webp" width="840" loading="lazy" alt="Trò chơi chú cua với cơ chế xoay quanh hành động"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Xây dựng trò chơi chú cua bằng Three.js từ bản yêu cầu có cấu trúc, bao gồm diện mạo, nhân vật, thế giới, hành động, mục tiêu, giao diện và camera. Làm cho đồng xu nổi lên rồi bay về phía cua khi cua đi ngang; chỉ rõ các yêu cầu mâu thuẫn nhau.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Bài đăng gốc](https://x.com/zeuuss_01/status/2096337879173591171) · [Bản demo](https://beach-crab-game.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096335588727349434"></a>
+
+### Dựng lại rồng chân thực có thể chỉnh sửa trong Blender
+
+[Sarang Borude](https://x.com/doomdave) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/e7c2fd347fd31e7e2c69be456ec1b437cd5cff2616cdf2a474f0c189d02af149.webp" width="840" loading="lazy" alt="Dựng lại rồng chân thực có thể chỉnh sửa trong Blender"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/4d0bd23e-3879-4052-9e83-5c70656c5dc5.jpg) · [2](https://pbs.twimg.com/media/HReuaRUacAAtOFF.jpg)
+
+**Prompt**
+
+```text
+Tạo bản dựng lại 3D chân thực, có thể chỉnh sửa hoàn toàn của con rồng trong bảng tham chiếu đính kèm bằng Blender.
+
+Sử dụng mọi góc nhìn được cung cấp—gồm góc bên, trước, trên, sau, các góc đầu, cận cảnh đầu, cận cảnh mắt, chi tiết vảy và chi tiết cánh—để dựng một con rồng thống nhất, có giải phẫu đáng tin cậy.
+
+Bám sát tham chiếu tối đa, đặc biệt là:
+
+- Tỷ lệ tổng thể và đường bao cơ thể
+- Cổ dài, cơ bắp và đuôi thuôn dần
+- Bốn chân và hai cánh lớn như cánh dơi
+- Hình dáng đầu và hàm
+- Số lượng, hình dáng và vị trí sừng
+- Gai sống lưng dọc theo cổ, lưng và đuôi
+- Họa tiết vảy màu than đậm và nâu đất
+- Các lớp vảy giống giáp
+- Mắt màu hổ phách vàng với đồng tử dọc
+- Móng vuốt, răng và màng cánh
+- Vẻ ngoài cổ xưa, chân thực và đáng sợ
+
+Các khung tham chiếu có thể chứa một số điểm không nhất quán nhỏ. Hãy dung hòa chúng thành một sinh vật nền có cấu trúc vật lý thống nhất và đối xứng, đồng thời giữ nguyên nhận diện hình ảnh của con rồng. Dùng góc bên để xác định tỷ lệ tổng thể, góc trước để xác định bề rộng và tư thế, góc trên và sau cho cánh và đuôi, còn các ảnh cận cảnh cho đầu, mắt, vảy và vật liệu cánh.
+
+Dựng con rồng từ đầu bằng hình học Blender thực tế có thể chỉnh sửa. Không tải xuống hoặc nhập một mô hình rồng có sẵn. Không dùng billboard, phép chiếu 2D, hiệu ứng đánh lừa bằng bản đồ độ sâu hoặc video tạo sinh thay cho hình học.
+
+Sử dụng các script Python Blender dạng mô-đun (`bpy`) và tệp thực thi Blender ở chế độ nền/headless làm phương thức dựng chính. Giữ các script có thể tái tạo và lưu lại những phiên bản thành công của tệp `.blend`. Dùng computer use để mở và kiểm tra cảnh Blender khi cần quan sát trực quan. Không cài đặt hoặc phụ thuộc vào máy chủ Blender MCP.
+
+PHƯƠNG PHÁP DỰNG HÌNH
+
+Bắt đầu bằng blockout giải phẫu trước khi thêm chi tiết. Xác lập:
+
+- Hộp sọ, hàm và hốc mắt
+- Cổ, ngực, lồng ngực và xương chậu
+- Bốn chân có giải phẫu thuyết phục
+- Các ngón chân tách biệt và móng vuốt cong
+- Vai cánh nối liền với thân
+- Cánh tay cánh và các xương ngón có khớp
+- Màng cánh nối liền đúng cách
+- Đuôi dài nối tự nhiên từ xương chậu
+- Sừng chính và gai sống lưng
+
+Tránh các chi thừa, sừng bị nhân đôi, màng cánh rời, khớp gãy, vảy lơ lửng, hình học giao nhau, hình khối mỏng như giấy, tình trạng đối xứng sai lệch ngoài ý muốn và tỷ lệ giống đồ chơi.
+
+Sau khi kiểm tra blockout, hãy thêm chi tiết cấp hai và cấp ba:
+
+- Các lớp giáp ở ngực và cổ
+- Vảy định hướng theo cấu trúc giải phẫu
+- Gờ chân mày và mí mắt
+- Lỗ mũi thực
+- Khoang miệng, nướu và từng chiếc răng
+- Gờ sừng, vết mẻ và đầu sừng bị mài mòn
+- Giáp chân và các mảng giáp ở khớp ngón
+- Gân cánh, nếp gấp, mạch máu và sẹo tiết chế
+- Gai sống lưng kéo dài xuống đuôi
+- Độ bất đối xứng tự nhiên nhẹ
+
+Dùng hình học cho mọi chi tiết ảnh hưởng đến đường bao, gồm sừng, móng vuốt, răng, vảy lớn, gai sống lưng, ngón cánh và các nếp gấp quan trọng trên màng cánh. Chỉ dùng normal map, bump hoặc displacement tiết chế cho chi tiết siêu nhỏ.
+
+VẬT LIỆU
+
+Tạo vật liệu dựa trên vật lý, chân thực.
+
+Vảy chủ yếu có màu đen than, với biến thiên nhẹ giữa màu graphite và nâu đất. Thêm biến thiên tiết chế về màu sắc, độ nhám và normal siêu nhỏ. Vảy nhô, da lõm và các mảng giáp phải phản xạ ánh sáng khác nhau. Tránh độ bóng nhựa đồng nhất và nhiễu procedural tràn lan.
+
+Màng cánh phải trông như da bò sát đã phong hóa. Màng cần mỏng hơn giữa các xương nâng đỡ và dày hơn gần khớp cũng như mép trước. Thêm các mạch máu, nếp gấp, độ căng, sẹo, độ trong mờ và biến thiên màu sắc tinh tế, nhưng không để chúng giống vải, cao su hoặc giấy.
+
+Tạo sừng và móng vuốt giống keratin, với phần gốc tối màu, đầu nhạt hơn do mài mòn, các gờ chạy dọc và hư tổn nhẹ.
+
+Mắt cần có:
+
+- Mống mắt màu hổ phách vàng
+- Đồng tử đen dọc
+- Cấu trúc mống mắt chi tiết
+- Vùng viền mống mắt tối màu
+- Nhãn cầu ba chiều đúng nghĩa
+- Mí mắt chân thực
+- Điểm bắt sáng ướt trên giác mạc
+- Độ ẩm nhẹ dọc mép mí
+
+Không làm mắt phát sáng hoặc phát quang nhân tạo.
+
+ÁNH SÁNG VÀ MÔI TRƯỜNG
+
+Tạo môi trường điện ảnh tiết chế, tương tự tham chiếu:
+
+- Bệ đá hoặc mỏm núi đá tối màu
+- Núi ở xa trong bầu khí quyển
+- Bầu trời nhiều mây đầy kịch tính
+- Ánh sáng môi trường mát
+- Ánh sáng định hướng ấm hơn, nhẹ, làm nổi bật khuôn mặt và vảy
+- Sương mù khí quyển nhẹ
+- Không có công trình gây xao nhãng hoặc sinh vật bổ sung
+
+Đặt con rồng trong tư thế vững vàng, uy nghi:
+
+- Đầu ngẩng cao và cảnh giác
+- Cổ hơi cong
+- Cánh xòe hoàn toàn hoặc gần hoàn toàn
+- Trọng lượng phân bổ đáng tin cậy trên cả bốn chân
+- Đuôi đặt phía sau hoặc cong tự nhiên
+- Miệng khép hoặc hơi hé
+- Mắt hướng vào camera hoặc nhìn lệch qua camera một chút
+
+KIỂM TRA HÌNH ẢNH
+
+Tạo các camera kiểm tra có góc khớp với:
+
+- Góc bên
+- Góc trước
+- Góc trên
+- Góc sau
+- Biên dạng đầu trái và phải
+- Góc hero ba phần tư
+- Cận cảnh đầu
+- Cận cảnh mắt
+- Cận cảnh vảy
+- Cận cảnh cánh
+
+Thực hiện ít nhất ba vòng đánh giá và chỉnh sửa.
+
+Trong mỗi vòng:
+
+1. Render mọi camera kiểm tra.
+2. So sánh từng bản render với khung tham chiếu tương ứng.
+3. Đánh giá đường bao, giải phẫu, tỷ lệ, nhận diện đầu, sừng, cánh, chân, bàn chân, đuôi, hướng vảy, vật liệu, độ đối xứng, giao nhau, shading và normal.
+4. Lập danh sách sai lệch theo thứ tự ưu tiên.
+5. Sửa các vấn đề quan trọng nhất về mặt hình ảnh.
+6. Render lại bằng chính các camera đó.
+7. Lưu lại các so sánh trước và sau.
+
+Không được tuyên bố hoàn tất chỉ vì các object đã được tạo. Hoàn tất nghĩa là phải kiểm tra các bản render thực tế và sửa những vấn đề nhìn thấy được.
+
+CHUYỂN ĐỘNG CAMERA XOAY QUANH 10 GIÂY
+
+Tạo chuyển động camera điện ảnh xoay quanh con rồng hoàn thiện với các yêu cầu sau:
+
+- Chính xác 10 giây
+- Độ phân giải 1920 × 1080
+- 30 khung hình/giây
+- Chính xác 300 khung hình
+- Camera chuyển động liên tục, mượt mà
+- Không cắt cảnh
+- Khoảng một vòng quỹ đạo 360 độ hoàn chỉnh
+- Bắt đầu bằng bố cục góc trước ba phần tư mạnh mẽ
+- Di chuyển qua bên hông, phía sau và bên đối diện
+- Kết thúc ở bố cục nối mượt với khung hình mở đầu
+- Thêm thay đổi độ cao tiết chế để thấy phần lưng và cấu trúc cánh
+- Giữ toàn bộ con rồng trong khung hình
+- Giữ đầu và thân là trọng tâm thị giác chính
+- Dùng nội suy Bézier mượt
+- Tránh tăng tốc đột ngột và camera bị lăn
+- Tránh xuyên qua cánh, đuôi, địa hình hoặc cơ thể
+- Dùng ống kính phối cảnh tự nhiên, không gây méo góc rộng mạnh
+- Giữ độ sâu trường ảnh đủ nhẹ để vẫn nhìn rõ con rồng
+- Dùng motion blur tiết chế
+
+Trước khi render cuối, hãy tạo bản xem trước nhanh, số mẫu thấp ở 1080p cho toàn bộ animation. Kiểm tra toàn bộ bản xem trước và sửa lỗi khung hình, va chạm camera, đường bao vụng về, góc nhìn bị che, chuyển động đột ngột, lỗi shading và các giao nhau hình học nhìn thấy được.
+
+RENDER CUỐI
+
+Sau khi hoàn tất các vòng đánh giá và duyệt bản xem trước animation:
+
+- Render animation cuối ở 1920 × 1080.
+- Dùng Cycles với tăng tốc GPU khi có thể.
+- Render ở 30 fps với chính xác 300 khung hình.
+- Dùng lấy mẫu thích ứng và khử nhiễu.
+- Trước tiên render thành từng khung hình ảnh riêng để có thể tiếp tục nếu render bị gián đoạn.
+- Dùng PNG 16-bit hoặc OpenEXR cho các khung hình master.
+- Ghép các khung hình đã render thành video H.264 MP4 chất lượng cao.
+- Không dùng nội suy khung hình bằng AI.
+- Giữ lại từng khung hình riêng sau khi ghép video.
+
+TỆP BÀN GIAO
+
+Cung cấp:
+
+1. Tệp `.blend` cuối có thể chỉnh sửa
+2. Toàn bộ script `bpy` có thể tái tạo
+3. README kèm hướng dẫn dựng lại và render
+4. Báo cáo phân tích tham chiếu và các giả định
+5. So sánh tham chiếu theo các góc nhìn khớp nhau
+6. So sánh trước và sau các vòng đánh giá
+7. Các bản render tĩnh chất lượng cao của toàn bộ con rồng và những chi tiết quan trọng
+8. Chuỗi 300 khung hình ảnh hoàn chỉnh
+9. Video H.264 1080p dài 10 giây
+10. Báo cáo kiểm tra hình học và vật liệu
+11. Manifest xác định mọi tài nguyên môi trường bên ngoài được phép sử dụng và giấy phép của chúng
+
+TIÊU CHÍ THÀNH CÔNG
+
+Thành công nghĩa là:
+
+- Kết quả được nhận ra là cùng một con rồng với tham chiếu.
+- Giải phẫu vẫn nhất quán từ mọi góc nhìn.
+- Đầu, sừng, mắt hổ phách, cánh, gai sống lưng và các lớp vảy tối màu khớp sát tham chiếu.
+- Con rồng hoàn toàn ba chiều và có thể chỉnh sửa.
+- Các chi tiết lớn và trung bình được mô hình hóa thay vì giả lập.
+- Vật liệu phản ứng tự nhiên khi camera di chuyển.
+- Không có giao nhau rõ rệt, vảy lơ lửng, chi tiết giải phẫu bị nhân đôi hoặc normal bị lỗi.
+- Hình ảnh giống một sinh vật vật lý được chụp lại hơn là đồ chơi, tác phẩm điêu khắc, mô hình procedural chung chung hoặc asset game thông thường.
+- Chuyển động camera mượt, mang tính điện ảnh và dài chính xác 10 giây.
+
+Tự chủ thực hiện các giai đoạn này. Bắt đầu bằng phân tích tham chiếu và blockout giải phẫu. Nếu gặp một điểm mơ hồ lớn không thể giải quyết từ tham chiếu, hãy chọn phương án hợp lý nhất về mặt giải phẫu, ghi lại giả định đó và tiếp tục.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a photorealistic, fully editable 3D reconstruction of the dragon shown in the attached reference sheet inside Blender.
+
+Use every supplied view—including the side, front, top, back, head angles, head closeup, eye closeup, scale detail and wing detail—to reconstruct one coherent and anatomically believable dragon.
+
+Match the reference as closely as possible, especially:
+
+- Overall body proportions and silhouette
+- Long muscular neck and tapering tail
+- Four legs and two large bat-like wings
+- Head and jaw shape
+- Horn number, shape and placement
+- Dorsal spikes along the neck, back and tail
+- Dark charcoal and earthy-brown scale patterns
+- Layered armor-like scales
+- Golden-amber eyes with vertical pupils
+- Claws, teeth and wing membranes
+- Ancient, realistic and threatening appearance
+
+The reference panels may contain small inconsistencies. Reconcile them into a physically coherent, symmetrical base creature while preserving the dragon’s visual identity. Use the side view for overall proportions, the front view for width and stance, the top and back views for wings and tail, and the closeups for the head, eyes, scales and wing materials.
+
+Build the dragon from scratch as actual editable Blender geometry. Do not download or import an existing dragon model. Do not use billboards, 2D projections, depth-map illusions or generated video in place of geometry.
+
+Use modular Blender Python (`bpy`) scripts and Blender’s executable in background/headless mode as the primary construction method. Keep the scripts reproducible and preserve successful versions of the `.blend` file. Use computer use to open and inspect the Blender scene whenever visual inspection is helpful. Do not install or rely on a Blender MCP server.
+
+MODELING APPROACH
+
+Begin with an anatomical blockout before adding detail. Establish:
+
+- Skull, jaw and eye sockets
+- Neck, chest, rib cage and pelvis
+- Four anatomically convincing legs
+- Separated toes and curved claws
+- Wing shoulders integrated into the torso
+- Articulated wing arms and finger bones
+- Properly connected wing membranes
+- Long tail continuing naturally from the pelvis
+- Primary horns and dorsal spines
+
+Avoid extra limbs, duplicated horns, disconnected membranes, broken joints, floating scales, intersections, paper-thin forms, accidental asymmetry and toy-like proportions.
+
+After validating the blockout, add secondary and tertiary details:
+
+- Layered chest and neck plates
+- Directional scales that follow the anatomy
+- Brow ridges and eyelids
+- Real nostril openings
+- Mouth interior, gums and individual teeth
+- Horn ridges, chips and worn tips
+- Leg armor and knuckle plates
+- Wing tendons, folds, veins and restrained scars
+- Dorsal spikes continuing down the tail
+- Subtle natural asymmetry
+
+Use geometry for anything affecting the silhouette, including horns, claws, teeth, major scales, dorsal spines, wing fingers and important membrane folds. Use normal maps, bump or restrained displacement only for micro-detail.
+
+MATERIALS
+
+Create physically based, photorealistic materials.
+
+The scales should be predominantly charcoal-black with subtle graphite and earthy-brown variation. Add restrained color, roughness and micro-normal variation. Raised scales, recessed skin and armored plates should reflect light differently. Avoid uniform plastic shine and indiscriminate procedural noise.
+
+The wing membranes should look like weathered reptilian leather. They should appear thinner between the supporting bones and thicker near joints and leading edges. Include subtle veins, folds, tension, scars, translucency and color variation without making them resemble cloth, rubber or paper.
+
+Create keratin-like horns and claws with dark bases, lighter worn tips, lengthwise ridges and subtle damage.
+
+The eyes should have:
+
+- Golden-amber irises
+- Vertical black pupils
+- Detailed iris structures
+- Dark limbal regions
+- Proper three-dimensional eyeballs
+- Realistic eyelids
+- Wet corneal highlights
+- Subtle moisture along the eyelid edges
+
+Do not make the eyes emissive or artificially glowing.
+
+LIGHTING AND ENVIRONMENT
+
+Create a restrained cinematic environment similar to the reference:
+
+- Dark rocky pedestal or mountain outcrop
+- Distant atmospheric mountains
+- Dramatic overcast sky
+- Cool ambient illumination
+- Subtle warmer directional light revealing the face and scales
+- Light atmospheric mist
+- No distracting structures or additional creatures
+
+Pose the dragon in a stable, commanding stance:
+
+- Head raised and alert
+- Neck slightly curved
+- Wings fully or nearly fully displayed
+- Weight distributed credibly across all four feet
+- Tail resting or curving naturally behind it
+- Mouth closed or slightly parted
+- Eyes directed toward or just past the camera
+
+VISUAL VERIFICATION
+
+Create matched validation cameras for:
+
+- Side view
+- Front view
+- Top view
+- Back view
+- Left and right head profiles
+- Three-quarter hero view
+- Head closeup
+- Eye closeup
+- Scale closeup
+- Wing closeup
+
+Perform at least three critic-and-correction loops.
+
+During each loop:
+
+1. Render every validation camera.
+2. Compare each render with the corresponding reference panel.
+3. Evaluate silhouette, anatomy, proportions, head identity, horns, wings, legs, feet, tail, scale flow, materials, symmetry, intersections, shading and normals.
+4. Produce a ranked list of discrepancies.
+5. Correct the most visually important problems.
+6. Rerender the same cameras.
+7. Preserve before-and-after comparisons.
+
+Do not claim completion merely because the objects were created. Completion requires inspecting the actual renders and correcting visible problems.
+
+10-SECOND CAMERA FLYAROUND
+
+Create a cinematic camera flyaround of the completed dragon with these requirements:
+
+- Exactly 10 seconds
+- 1920 × 1080 resolution
+- 30 frames per second
+- Exactly 300 frames
+- Smooth continuous camera movement
+- No cuts
+- Approximately one complete 360-degree orbit
+- Start from a strong front three-quarter composition
+- Travel around the side, back and opposite side
+- End in a composition that connects smoothly with the opening frame
+- Add a restrained elevation change to reveal the back and wing construction
+- Keep the complete dragon inside the frame
+- Keep the head and torso as the main visual focus
+- Use smooth Bézier interpolation
+- Avoid sudden acceleration and camera roll
+- Avoid clipping through the wings, tail, terrain or body
+- Use a natural perspective lens without strong wide-angle distortion
+- Keep depth of field subtle enough that the dragon remains readable
+- Use restrained motion blur
+
+Before the final render, generate a fast, low-sample 1080p preview of the entire animation. Inspect the complete preview and correct bad framing, camera collisions, awkward silhouettes, obstructed views, abrupt motion, shading defects and visible geometry intersections.
+
+FINAL RENDER
+
+After completing the critic loops and approving the animation preview:
+
+- Render the final animation at 1920 × 1080.
+- Use Cycles with GPU acceleration when available.
+- Render at 30 fps for exactly 300 frames.
+- Use adaptive sampling and denoising.
+- Render to individual image frames first so an interrupted render can be resumed.
+- Use 16-bit PNG or OpenEXR for the master frames.
+- Assemble the rendered frames into a high-quality H.264 MP4.
+- Do not use AI frame interpolation.
+- Retain the individual frames after assembling the video.
+
+DELIVERABLES
+
+Provide:
+
+1. Final editable `.blend` file
+2. All reproducible `bpy` scripts
+3. README with rebuild and rendering instructions
+4. Reference-analysis and assumptions report
+5. Matched-view reference comparisons
+6. Before-and-after critic-loop comparisons
+7. High-quality still renders of the complete dragon and important details
+8. Complete 300-frame image sequence
+9. Final 10-second 1080p H.264 video
+10. Geometry and material validation report
+11. A manifest identifying any permitted external environment resources and their licenses
+
+SUCCESS CRITERIA
+
+Success means:
+
+- The result is recognizably the same dragon as the reference.
+- Its anatomy remains coherent from every angle.
+- The head, horns, amber eyes, wings, dorsal spines and dark layered scales closely match the reference.
+- The dragon is fully three-dimensional and editable.
+- Major and medium details are modeled rather than faked.
+- Materials respond naturally as the camera moves.
+- There are no obvious intersections, floating scales, duplicated anatomy or broken normals.
+- It resembles a photographed physical creature rather than a toy, sculpture, generic procedural model or ordinary game asset.
+- The camera movement is smooth, cinematic and exactly 10 seconds long.
+
+Work autonomously through these stages. Begin with reference analysis and the anatomical blockout. If you encounter a major ambiguity that cannot be resolved from the reference, make the most anatomically plausible choice, document the assumption and continue.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434) · [Bài đăng gốc](https://x.com/doomdave/status/2096335588727349434) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="warcraft-inspired-character-scene-in-unity-2096308567863079420"></a>
+
+### Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity
+
+[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/5d7b5f942c0c75a7fd99b056ed2c49ea92c1d2fc8698a81f2801c498007225f0.webp" width="840" loading="lazy" alt="Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng một cảnh nhân vật lấy cảm hứng từ Warcraft bằng Astra, Tripo P2, Blender và Unity. Tạo mô hình nhân vật, chuẩn bị mô hình trong Blender rồi lắp ghép thành một cảnh có thể chơi được trong Unity.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Bài đăng gốc](https://x.com/luccacerf/status/2096308567863079420) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"></a>
+
+### Quảng trường Terreiro do Paço tại Lisbon trong Blender
+
+[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/77c44cd1909ca3d2ae1490936c946ba70a47c04e188bca6215192fae95c7c19c.webp" width="840" loading="lazy" alt="Quảng trường Terreiro do Paço tại Lisbon trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái hiện Terreiro do Paço tại Lisbon dưới dạng cảnh Blender có thể chỉnh sửa. Nghiên cứu tư liệu tham khảo để định hướng kiến trúc, vật liệu và ánh sáng của quảng trường.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Bài đăng gốc](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="bioluminescent-deep-sea-landing-page-2096269057544831175"></a>
+
+### Trang đích biển sâu với ánh sáng sinh học
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/e31de617c90349dcbe141c72fcea15ae67e789783549740c6c7904254caebcea.webp" width="840" loading="lazy" alt="Trang đích biển sâu với ánh sáng sinh học"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao diện kính tối màu và chuyển động theo thao tác cuộn. Kết hợp bầu không khí 3D với tương tác website rõ ràng, thích ứng với các kích thước màn hình.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096269057544831175) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="dense-procedural-forest-in-three-js-2096263046918197609"></a>
+
+### Khu rừng rậm tạo bằng thuật toán trong Three.js
+
+[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/8b0fa0d915619e050c9da1c6daefd6e18ca80d78222a90660a4e7883a0d93845.webp" width="840" loading="lazy" alt="Khu rừng rậm tạo bằng thuật toán trong Three.js"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một khu rừng Three.js chi tiết với hàng nghìn cây, cỏ dày và dương xỉ. Dùng shader tùy chỉnh và cơ chế lặp hình học hiệu quả để giữ độ chi tiết trên toàn cảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Bài đăng gốc](https://x.com/LexnLin/status/2096263046918197609) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cluj-napoca-union-square-in-voxels-2096262733259837681"></a>
+
+### Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel
+
+[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/930e422109c34a8f6e093f607165323b5b2f6cf472796fd6495b09f195deab7e.webp" width="840" loading="lazy" alt="Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca. Chuyển bố cục đặc trưng và các địa danh của quảng trường thành mô hình thu nhỏ có thể khám phá.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="browser-racing-physics-in-c-and-wasm-2096258619574513880"></a>
+
+### Vật lý đua xe trình duyệt bằng C# và WASM
+
+[achepta](https://x.com/achepta_tm) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/50ecc7179fa30fbd26b46fa5f2b6d8cb48fe689c5c08a58a1008ad3f5bb57e3a.webp" width="840" loading="lazy" alt="Vật lý đua xe trình duyệt bằng C# và WASM"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM và render đường đua trong Three.js. Dùng mesh đường đua có va chạm và kiểm tra cảm giác lái.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### Kaiju giao chiến trong thành phố
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hiệu ứng âm thanh đã tạo. Làm chiến đấu quy mô khổng lồ dễ hiểu và môi trường thể hiện rõ kích thước quái vật.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096251574918013135) · [Bản demo](https://stormcolossus.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### Demo Hyperloop tương tác
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="Demo Hyperloop tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận chuyển, hạ tầng ống và chuyển động qua hệ thống.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Bài đăng gốc](https://x.com/hbanay98/status/2096250748099068377) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### Website studio 3D theo cuộn trang
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="Website studio 3D theo cuộn trang"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều khiển bằng cuộn mượt. Đồng bộ chuyển động camera, chữ và chuyển giữa các phần.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Bài đăng gốc](https://x.com/mx_debbiee/status/2096245759121277132) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### Komorebi: chèo kayak trên sông
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi: chèo kayak trên sông"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trái phải để tránh vật cản, với nước chảy, phong cảnh, nhạc và hiệu ứng âm thanh đều tạo bằng mã.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Bài đăng gốc](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### Câu chuyện sản phẩm với chai khúc xạ
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="Câu chuyện sản phẩm với chai khúc xạ"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân thực. Dùng chất lỏng khúc xạ, xoay theo cuộn và chữ mạnh, đồng thời giữ hiệu năng trình duyệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### Máy viên nang ký ức
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="Máy viên nang ký ức"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô hình hóa cơ cấu trong Blender và cho viên nang rơi với chuyển động, âm thanh hợp lý.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096236137266512181"></a>
 
 ### Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh
@@ -988,313 +1695,6 @@ Dùng PDF sơ đồ để sửa mạch trong KiCad, đi dây PCB hai lớp 50 ×
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Bài đăng gốc](https://x.com/swjtutl/status/2096079976433082502) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="astral-war-browser-shooter-2096079660605997264"></a>
-
-### Astral War: game bắn súng trình duyệt
-
-[Rishi](https://x.com/0xRishi) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/6d8b4beb5ef0ca19d84022568666ed1172dda03dee1c9045199da3595b003f7b.webp" width="840" loading="lazy" alt="Astral War: game bắn súng trình duyệt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng game bắn súng Three.js trên trình duyệt lấy cảm hứng World at War. Tạo chiến trường chơi được đầy đủ với chiến đấu nhạy, âm thanh không gian, asset nhân vật và tiến trình trận đấu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Bài đăng gốc](https://x.com/0xRishi/status/2096079660605997264) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="astra-3d-2096068401294929940"></a>
-
-### Dùng concept art để tạo game 3D nhỏ thô sơ với Astra
-
-[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="Dùng concept art để tạo game 3D nhỏ thô sơ với Astra"></a>
-
-**Prompt**
-
-```text
-Thế giới phản địa đàng buồn bã nhưng tuyệt đẹp, phong cách voxel / Low Poly, đêm mưa, sương mỏng, phản chiếu trên mặt đất ướt, môi trường xanh lam lạnh kết hợp ánh đèn cam ấm; ánh sáng cần chân thực và có chất điện ảnh nhất có thể
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096068401294929940) · [Bài đăng gốc](https://x.com/ChenshuoAI/status/2096068401294929940) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
-
-### Bản mẫu trò chơi The Legend of Astra
-
-[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="Bản mẫu trò chơi The Legend of Astra"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng bản mẫu trò chơi phiêu lưu 3D trong Unity bằng các cảnh đã chuẩn bị trong Blender và tài nguyên Tripo. Tích hợp hoạt ảnh nhân vật vào bản chơi thử.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [Bài đăng gốc](https://x.com/lofihashbloom/status/2096064140510970318) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
-
-### Mô phỏng Sinclair ZX Spectrum
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Mô phỏng Sinclair ZX Spectrum"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện Sinclair ZX Spectrum 48K thành ứng dụng desktop 3D tương tác. Có bàn phím cao su, máy cassette, màn khởi động, game chơi được và giao diện lập trình BASIC.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2096062355692048605) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
-
-### Dựng máy khoan từ một góc nhìn
-
-[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="Dựng máy khoan từ một góc nhìn"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại máy khoan điện trong Blender từ một ảnh tham chiếu. Tạo vỏ, tay cầm, đầu kẹp và nút điều khiển thành hình học chỉnh sửa được, rồi kiểm tra từ nhiều góc.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Bài đăng gốc](https://x.com/SkyeSharkie/status/2096059736693305794) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
-
-### Bản chơi mẫu Godot lấy cảm hứng Sonic
-
-[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="Bản chơi mẫu Godot lấy cảm hứng Sonic"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng màn 3D Godot chỉn chu lấy cảm hứng Sonic bằng asset cục bộ và thủ tục. Ưu tiên quán tính, di chuyển nhạy, vòng nhẫn, vòng lượn, thanh trượt và bờ biển nhiệt đới liền mạch.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Bài đăng gốc](https://x.com/AiBattle_/status/2096056285896536086) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
-
-### Zork thành game phiêu lưu hành động 3D
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork thành game phiêu lưu hành động 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến game phiêu lưu văn bản Zork cổ điển thành game phiêu lưu hành động 3D. Giữ cốt truyện và câu đố, thêm cảnh chiến đấu, dựng nhân vật và môi trường bằng Three.js.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Bài đăng gốc](https://x.com/emollick/status/2096047660662722620) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
-
-### Mạng giao hàng khi cầu bị đóng
-
-[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="Mạng giao hàng khi cầu bị đóng"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng mô phỏng giao hàng 3D nơi đóng cầu làm thay đổi tuyến xe tải. Phát hiện điểm đến không thể tiếp cận và phục hồi giao hàng khi tuyến mở lại.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Bài đăng gốc](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
-
-### Hệ sinh thái WebGL tiến hóa
-
-[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="Hệ sinh thái WebGL tiến hóa"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng hệ sinh thái 3D tiến hóa trong một tệp HTML bằng WebGL và GLSL thuần. Cho đột biến, chọn lọc tự nhiên, săn mồi, tiêu hao năng lượng và liên kết đa bào tương tác với nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Bài đăng gốc](https://x.com/yume_arasaki/status/2096040448477515874) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### Khám phá Taj Mahal
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Khám phá Taj Mahal"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện Taj Mahal thành cảnh 3D có thể khám phá. Ưu tiên tỷ lệ dễ nhận biết, vườn đối xứng, mái vòm trung tâm, tháp và quan hệ giữa các công trình.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Bài đăng gốc](https://x.com/vikassabbi/status/2096035962824335798) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến chân dung thành nhân vật Blender trong portfolio WebGL phong cách tạp chí. Thêm địa cầu xoay đánh dấu các sự kiện diễn thuyết và tích hợp asset vào website.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Bài đăng gốc](https://x.com/HowDevelop/status/2096023793772998704) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### Gogh Strike: FPS nhiều người
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike: FPS nhiều người"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng FPS 5 đấu 5 phong cách Hậu Ấn tượng với nhân vật họa sĩ render bằng Blender, đội dễ phân biệt và trận nhiều người hoàn chỉnh trong trình duyệt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Bài đăng gốc](https://x.com/petergostev/status/2096013280519016608) · [Mã nguồn](https://github.com/petergpt/gogh-strike) · [Bản demo](https://gogh-strike.surge.sh/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### Mô hình máy ghi âm TP-7 từ ảnh tham khảo
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Mô hình máy ghi âm TP-7 từ ảnh tham khảo"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện Teenage Engineering TP-7 bằng Three.js từ ảnh tham khảo. Làm đúng hình dáng và các bộ phận điều khiển nhìn thấy được trong một mô hình 3D có thể quan sát từ nhiều phía.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Bài đăng gốc](https://x.com/ty_kra_lab/status/2096013228090245181) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### Tesla Model X dạng tháo rời
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X dạng tháo rời"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo website 3D tháo Tesla Model X thành các thành phần đã dựng. Cho khách xem cụm lắp ráp và lắp lại xe bằng tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Bài đăng gốc](https://x.com/ashebytes/status/2096009146248122416) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### Thạch nảy WebGPU
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Thạch nảy WebGPU"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo khối thạch nảy trông ngon mắt bằng Three.js và WebGPU. Cho nó biến dạng rồi ổn định tự nhiên sau tương tác, với vật liệu bán trong suốt và ánh sáng rõ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Bài đăng gốc](https://x.com/scottstts/status/2096008241104711698) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

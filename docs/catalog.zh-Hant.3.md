@@ -28,6 +28,21 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [以 3D 重新構想碧姬城堡](#gpt-6-astra-2099359786865402019)
+- [互動式 3D 解剖探索器](#gpt-6-astra-2099206962344800541)
+- [可遊玩的 3D 瀏覽器海岸區域片段](#gpt-6-astra-2099172061092381027)
+- [無頭服裝模型的 UV 展開與 4K 重新烘焙](#gpt-6-astra-2098980384260456813)
+- [自動摺疊 3D 摺紙動畫](#gpt-6-astra-2098909584996057283)
+- [車諾比爾圖鑑](#gpt-6-astra-2098841316591346006)
+- [動態沙桌模擬](#gpt-6-astra-2098831830002851846)
+- [1893 年芝加哥世界博覽會 3D 重建](#gpt-6-astra-2098795017955418202)
+- [含接頭的分件 3D 列印相框](#gpt-6-astra-2098774359926297011)
+- [Skybound 瀏覽器飛行遊戲](#gpt-6-astra-2098739181510164652)
+- [DEVICE：運用智慧型手機本體的寫實 3D 解謎遊戲](#gpt-6-astra-2098715488369152087)
+- [禪境・古寺 3D 建造示範影片](#gpt-6-astra-2098697876155076820)
+- [建立布魯克林大橋模型，測試坦克從雙向通行](#gpt-6-astra-2098650336521064759)
+- [互動式 3D 錦鯉池](#gpt-6-astra-2098492771170722032)
+- [玩機器人的小女孩公仔](#gpt-6-astra-2098406473273663992)
 - [寺廟微縮立體模型場景](#gpt-6-astra-2098403061463224543)
 - [角色模型頭髮與臉部貼圖自動生成及 UV 轉寫](#gpt-6-astra-2098367087475577273)
 - [Sol Horizon 入門款民用快遞船](#gpt-6-astra-2098225609558335846)
@@ -63,23 +78,2229 @@
 - [Blender 中的 12 秒森林小徑](#gpt-6-astra-2096986557244723371)
 - [可互動的中式庭院](#gpt-6-astra-2096971051334857181)
 - [「重力崩壞的地平線」VRChat 景觀世界](#gpt-6-astra-2096966425017467344)
-- [Three.js WebGPU 無限微縮街景](#gpt-6-astra-2096956214680965501)
-- [霍格華茲 3D 場景](#gpt-6-astra-2096907617117540478)
-- [使用 Three.js 和 WebGPU 製作可互動的軟體史萊姆](#gpt-6-astra-2096793432987464010)
-- [使用 Blender MCP 製作 LEGO 人偶遊戲資產](#astra-3d-2096766465730847059)
-- [可互動的手機拆解展示](#gpt-6-astra-2096685163111694556)
-- [Mini World 3D 探索遊戲](#gpt-6-astra-2096641728497275011)
-- [Blender 旋轉地球渲染](#gpt-6-astra-2096637194270134742)
-- [Three.js 黑暗奇幻動作角色扮演遊戲](#gpt-6-astra-2096637091627364531)
-- [Windhaven 海岸奇幻冒險遊戲](#gpt-6-astra-2096629506047955327)
-- [從刀模圖到紙盒摺疊動畫](#gpt-6-astra-2096612394281603144)
-- [使用 Three.js 建立 CS2](#gpt-6-astra-2096596888799895855)
-- [Totality Engine：電影感日蝕大教堂](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
-- [可旋轉的 3D 將棋棋盤](#rotatable-3d-shogi-board-2096579856133947507)
-- [桌上型電腦的互動拆解圖鑑](#exploded-desktop-computer-atlas-2096578761877860502)
-- [兒童房與工作區配置規劃](#children-s-room-and-workspace-planner-2096578684010508736)
 
 </details>
+<a id="gpt-6-astra-2099359786865402019"></a>
+
+### 以 3D 重新構想碧姬城堡
+
+[Romain Huet](https://x.com/romainhuet) · 2026-09-14 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099359786865402019"><img src="../assets/previews/52c111a7b65753b044fa2580b5a49520718ea19c50704d6fdff82e84954081d2.webp" width="840" loading="lazy" alt="以 3D 重新構想碧姬城堡"></a>
+
+**提示詞**
+
+```text
+以 3D 重新構想碧姬城堡，並製作飛越影片。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+reimagine Peach’s Castle in 3D and create a fly-by video.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099359786865402019) · [查看原文](https://x.com/romainhuet/status/2099359786865402019) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### 互動式 3D 解剖探索器
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="互動式 3D 解剖探索器"></a>
+
+**提示詞**
+
+```text
+使用公開可取得的科學資料集，打造精美且具互動性的 3D 解剖探索器。先從外部視圖開始，並在我放大時逐漸變得透明，揭示下方的解剖結構。
+
+讓我可以旋轉模型、分離結構、選取有標籤的區域，並從側邊面板切換圖層。新增解剖、連結與單一細胞的獨立分頁，並加入動態訊號及可調整的控制項。
+
+採用現代、簡約的介面，搭配柔和光線、平順轉場、低調色彩與極少文字。加入箭頭和簡短的視覺化教學，並確保能在桌面與行動裝置上運作。
+
+盡可能使用真實的解剖幾何資料，註明資料來源，並清楚區分科學資料與示意動畫。打造一個可正常運作的網站。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099206962344800541) · [查看原文](https://x.com/k1rallik/status/2099206962344800541) · [專案原始碼](https://github.com/bubblik525/cat_brain_anatomy) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### 可遊玩的 3D 瀏覽器海岸區域片段
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="可遊玩的 3D 瀏覽器海岸區域片段"></a>
+
+**提示詞**
+
+```text
+> 鎖定規格（TZ-gta-slice.md）
+
+提示：「打造一個可遊玩的 3D 瀏覽器片段。規格鎖定後不得變更。先做區域與片段，之後再處理控制。」
+
+> 技術堆疊（Vite、原生 TypeScript、Three.js、cannon-es、Web Audio）
+
+提示：「技術堆疊固定。Vite。原生 TypeScript。Three.js。cannon-es。Web Audio。使用單一瀏覽器網址。」
+
+> 畫面構圖（水面上的夕陽、濕漉漉的柏油路、棕櫚樹）
+
+提示：「只做一個海岸區域。夕陽映照水面。濕漉漉的柏油路。棕櫚樹。畫面重點放在光線與鏡頭，不要放在多邊形數量。不要使用預設的灰暗光線。不要只放沒有細節的方塊。」
+
+> 三人（一個場景、一輛車、約 20 秒）
+
+提示：「讓三人待在同一個場景中。他們先交談，接著坐進同一輛車。全長約 20 秒。品質優先於額外的切換。」
+
+> 剪輯（15 到 20 秒，保持流暢）
+
+提示：「如果執行時卡頓，就把片段剪成 15 到 20 秒。保持流暢。如果畫面掉幀，就刪減行人，不要犧牲光線。」
+
+> 聲音（真人聲線、台詞下方的音墊、汽車低鳴）
+
+提示：「人聲必須聽起來像真人，不要像機器人。台詞下方加入安靜的音墊，絕不能蓋過台詞。他們坐下後加入低沉的汽車引擎聲，不要使用鋸齒波。不要有收音機嘶嘶聲。」
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099172061092381027) · [查看原文](https://x.com/Lummox_eth/status/2099172061092381027) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### 無頭服裝模型的 UV 展開與 4K 重新烘焙
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="無頭服裝模型的 UV 展開與 4K 重新烘焙"></a>
+
+**提示詞**
+
+```text
+請使用 Blender MCP，為目前選取的「包含衣物與四肢的無頭模型」執行 UV 展開，並將現有貼圖以 4K 重新烘焙。
+
+目標是在保留原有外觀的前提下，製作出如同服裝紙樣般易於辨識結構、方便日後重繪的 UV。請比照人類藝術家的工作流程，依序進行觀察 → 接縫設計 → 按部位展開 → 修正變形 → 排列 → 烘焙。
+
+1．保留原始資料
+開始作業前請另存新檔，保留舊 UV、圖片與材質，並建立新的 UV「UV\_Final」。
+請勿修改形狀、拓撲、頂點順序、權重、形狀鍵或骨架。
+
+2．觀察模型並設計接縫
+請透過原始貼圖顯示與線框顯示，確認模型各個方向，掌握服裝的零件組成與實際縫線。
+服裝請依照衣身、袖子、領口等紙樣結構，利用側縫線或袖子內側等位置剪開。皮膚與四肢請將接縫放在內側、側面等不顯眼的位置，並採用能自然展開至指縫的結構。
+請勿將皺褶或印花誤認為縫線，也不要建立不必要的零碎小島。
+
+3．按部位展開並修正變形
+請勿一次處理整個模型，而要按部位分別執行 Unwrap。
+請使用參照 UV\_Final 的文字棋盤格與 Stretch 顯示，檢查拉伸、壓縮、扭曲、翻面與重疊。
+請依問題成因新增或解除接縫，並使用 Pin、Relax 等功能調整後重新檢查。不要只是重複執行相同的自動展開；已改善的部位請予以保留。
+請勿將 Smart UV Project 的全模型自動細分結果直接視為完成品。
+
+4．調整布紋方向、密度與排列
+服裝請以各零件的布紋方向為基準，將基本的垂直方向對齊 UV 的 V 方向。請勿強行將帶有曲線的紙樣變形成矩形。
+請統一相對於實際尺寸的像素密度，並調整方向，使左右對應關係清楚易辨。
+之後請在維持方向與相對比例的前提下，將 UV 打包至 0～1 區域。禁止左右重疊或任意旋轉。
+4K 烘焙請以烘焙邊距 16px、島嶼間距至少 32px、距離圖片外框至少 16px 作為初始基準。
+
+5．從舊 UV 將貼圖以 4K 烘焙至新 UV
+請明確將原始貼圖的參照固定至舊 UV，並以 UV\_Final 作為烘焙目標，轉寫至新的 4096×4096 圖片。
+請在各個材質中啟用烘焙目標圖片節點，先進行測試烘焙，再執行正式烘焙。
+基礎色只使用 Diffuse 的 Color，或使用 Emit；請勿烘入新的光照、陰影或 AO。請保留原始圖片中繪製的明暗。
+必要時也請轉寫透明度等現有貼圖；切線法線請依據新 UV 重新烘焙，不要只進行單純的色彩轉寫。
+
+6．透過新舊比較確認完成度
+套用新的 UV 與烘焙圖片，在與原始資料相同的顯示條件下，比較整體與細節。
+請確認圖案位置、色彩、透明度與接縫連續性，並修正 UV 壓扁、重疊、展開遺漏，以及烘焙造成的黑點、缺失與暈染。
+請以檢查結果，而不是「展開了幾次」作為完成判定標準。
+
+請儲存完成.blend、4K 圖片、UV 版面配置，以及接縫、棋盤格與完成外觀的確認圖片，並簡潔報告主要修正內容。
+不要只停留在說明計畫；請一邊確認實際圖片，一邊完成整個作業。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098980384260456813) · [查看原文](https://x.com/_sagyoai/status/2098980384260456813) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### 自動摺疊 3D 摺紙動畫
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="自動摺疊 3D 摺紙動畫"></a>
+
+**提示詞**
+
+```text
+製作一段 3D 摺紙動畫。平坦的正方形紙張必須逐步自行摺疊成可辨識的摺紙造型，每個摺疊動作都要以紙張實際產生摺痕與旋轉的方式呈現，接著展開恢復平整並重複播放。最後呈現的造型與整體展示方式由你決定。
+
+設計的所有細節都由你決定：風格、色彩、氛圍、環境、鏡頭、細節程度，以及任何額外效果。不要向我提問，所有選擇都自行決定，並在單次嘗試中製作出最令人印象深刻的版本。
+
+技術需求：必須是單一且自包含的 HTML 檔案，不得使用任何外部模型、圖片、音效或素材網址（使用 CDN 提供的 JavaScript 函式庫則不受限制）。檔案載入後必須立即自行開始運行，不需要點擊操作，且應流暢執行，不得產生主控台錯誤。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098909584996057283) · [查看原文](https://x.com/free_ai_guides/status/2098909584996057283) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### 車諾比爾圖鑑
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="車諾比爾圖鑑"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 建立高品質的互動式 3D 展覽「車諾比爾圖鑑」。
+
+參考公開資料，研究完整的車諾比爾核電廠與 RBMK 反應爐。製作建築物、格構煙囪、汽輪機廳、石墨堆、燃料通道、屏蔽結構、汽水分離筒、泵浦與管線的模型。
+
+建立三個分頁：
+— 電力區塊：詳細模型可透過捲動與滑桿逐層拆解。
+— 蒸汽迴路：建立連接反應爐、汽輪機、冷凝器與泵浦的動畫示意圖。
+— 反應爐動態：製作呈現水與蒸汽流動、機械旋轉及播放控制項的 3D 剖面圖。
+
+加入各系統獨立的顯示／隱藏切換、可調整的零件間距、線框模式、透明度、剖切功能與簡短標籤。確保每一層都便於檢視，且即使完全拆解後，鏡頭仍可自由旋轉。
+
+交付原始碼與獨立的 HTML 檔案。測試所有控制項。將其呈現為教育用途的詮釋作品，而非精確的工程複製品。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098841316591346006) · [查看原文](https://x.com/k1rallik/status/2098841316591346006) · [專案原始碼](https://github.com/bubblik525/Chernobyl_Atlas) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### 動態沙桌模擬
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="動態沙桌模擬"></a>
+
+**提示詞**
+
+```text
+製作一個動態沙桌模擬。球體必須在沙床中移動，留下清晰可見的軌跡，繪製完整的幾何圖案，接著撫平沙面，並自動開始新的不同圖案。模擬必須循環繪製許多不同圖案，且不得重複。外觀與圖案的所有細節都由你決定。
+
+設計的所有面向都由你決定：風格、色彩、氛圍、環境、鏡頭、細節程度，以及任何額外點綴。不要向我提問，請自行做出所有選擇，並在單次嘗試中製作出最令人印象深刻的版本。
+
+技術要求：必須是單一且自足的 HTML 檔案，不得使用任何外部模型、圖片、音效或資產 URL（使用 CDN 提供的 JavaScript 函式庫則沒問題）。檔案載入後必須立即自行開始運行，不需要點擊任何按鈕，且運行流暢、主控台不得出現錯誤。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098831830002851846) · [查看原文](https://x.com/free_ai_guides/status/2098831830002851846) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### 1893 年芝加哥世界博覽會 3D 重建
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="1893 年芝加哥世界博覽會 3D 重建"></a>
+
+**提示詞**
+
+```text
+下載 2,000 張與博覽會相關的歷史照片及參考資料，並運用取得的所有資訊，在 Blender 中建立 3D 重建作品。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098795017955418202) · [查看原文](https://x.com/moreisdifferent/status/2098795017955418202) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### 含接頭的分件 3D 列印相框
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="含接頭的分件 3D 列印相框"></a>
+
+**提示詞**
+
+```text
+想用 3D 列印機印相框，但我的 3D 列印機很小，所以想要能把各部件接起來組裝完成的款式；單純拼接好像有點無聊，改用接頭來連接吧
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098774359926297011) · [查看原文](https://x.com/wada/status/2098774359926297011) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098739181510164652"></a>
+
+### Skybound 瀏覽器飛行遊戲
+
+[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/012a16e2a90a225b9dee480019d46f69f8458237f566068d77b85765ae22ceed.webp" width="840" loading="lazy" alt="Skybound 瀏覽器飛行遊戲"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 建立一款名為 Skybound 的瀏覽器飛行遊戲。玩家將駕馭巨龍穿越由浮空島嶼組成的區域，收集圓環來取得分數。你需要一個 3D 巨龍模型，請使用 Hyper3D Rodin MCP 生成模型。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a browser flight game called Skybound using Three.js. The player pilots a dragon through a field of floating islands, collecting rings for score. You'll need a 3D dragon model - use the Hyper3D Rodin MCP to generate it.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098739181510164652) · [查看原文](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098715488369152087"></a>
+
+### DEVICE：運用智慧型手機本體的寫實 3D 解謎遊戲
+
+[ひまねこ](https://x.com/00Nekonet) · 2026-09-12 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/a07cc5e01d30232d750266efb73a0b1d1137fdb04d42b5763e246fc3828390c2.webp" width="840" loading="lazy" alt="DEVICE：運用智慧型手機本體的寫實 3D 解謎遊戲"></a>
+
+**提示詞**
+
+```text
+請同時擔任本專案的遊戲總監、遊戲設計師、Unity 工程師、3D 美術、UI/UX 設計師、技術美術、音效設計師與 QA 人員。
+
+請根據以下規格，製作的不只是企劃，而是一款實際可遊玩的高完成度智慧型手機 3D 解謎遊戲。
+
+不要中途只提出點子就結束。
+不要只製作規格書就結束。
+請盡可能完成實際的專案、程式碼、場景、UI、材質、遊戲邏輯、音效控制、感測器處理、存檔處理與測試。
+
+遇到不明確之處時，只要沒有重大矛盾，就不要提問；請自行做出最有趣、最高品質的遊戲設計判斷，直接繼續製作。
+
+專案概要
+
+暫定名稱：
+
+DEVICE
+
+類型：
+
+寫實 3D・智慧型手機體感式解謎冒險
+
+平台：
+
+優先支援 Android。
+在可行範圍內採用也能支援 iOS 的架構。
+
+畫面：
+
+直向畫面 9:16
+
+操作：
+
+基本上單手即可操作。
+但部分謎題會要求玩家拿起、傾斜、旋轉、翻面、搖晃或保持智慧型手機靜止等實體操作。
+
+遊戲最大特色
+
+這不是一款「用手機玩的遊戲」。
+
+要製作的是一款將智慧型手機本體直接當作解謎裝置使用的遊戲。
+
+只靠觸碰螢幕無法破關。
+
+將智慧型手機內建的感測器、相機、麥克風、震動、揚聲器、裝置方向、充電狀態等，當作遊戲世界中的物理法則使用。
+
+但不要把遊戲做成單純的感測器功能展示集。
+
+要讓所有功能在同一世界觀與同一套遊戲系統中自然串聯。
+
+世界觀
+
+玩家在一座身分不明的研究設施中，發現神秘的黑色立方體裝置「DEVICE」。
+
+立方體與智慧型手機連線，能感知現實世界中手機的狀態。
+
+玩家傾斜智慧型手機時，DEVICE 內部的重力會改變。
+
+旋轉裝置時，連空間本身也會旋轉。
+
+現實中的光線、色彩、聲音、方向與動作等，都會流入 DEVICE 內部。
+
+遊戲初期看似只是實驗裝置，但隨著遊戲進展，DEVICE 也開始察覺玩家的存在。
+
+後期加入利用
+
+「玩家正在操作智慧型手機」
+
+這層關係本身的元解謎。
+
+不要做成恐怖作品。
+可以有不安感、未知技術與神秘感，但核心應放在知性好奇與探索發現的樂趣上。
+
+視覺品質
+
+最重要的項目。
+
+在智慧型手機上呈現能做到的最高程度寫實 3D 畫面。
+
+禁止廉價手機遊戲風格的 CG。
+
+禁止卡通風格。
+
+禁止低多邊形質感。
+
+除了 UI 之外，盡量不要留下平面的暫用素材。
+
+若使用 Unity，基本採用考量行動裝置效能的 URP，同時結合
+
+・PBR 材質
+・Metallic / Roughness 表現
+・Normal Map
+・Ambient Occlusion
+・Reflection Probe
+・Light Probe
+・高品質陰影
+・軟陰影
+・Bloom
+・Color Grading
+・Screen Space 表現
+・帶有 Volumetric 質感的光線
+・僅在需要的位置使用 Depth of Field
+・符合物理的玻璃
+・金屬
+・潮濕地面
+・刮痕
+・指紋
+・灰塵
+・細微表面凹凸
+・發光材質
+・反射
+・環境音
+
+等效果。
+
+場景設定在昏暗且具有高級感的未來研究設施。
+
+以黑色金屬、玻璃、混凝土、白色發光線條、精密機械與液壓零件為主。
+
+不要做成完全漆黑，確保重要物件能在自然光線下被辨識。
+
+DEVICE 是遊戲的象徵，因此必須以極高品質製作。
+
+DEVICE 本體：
+
+由黑色金屬與玻璃構成、約 20～30 公分大小的立方體。
+
+每個面都有不同的機械結構。
+
+接縫必須極為精密。
+
+內部透出些許白色或帶藍色的微光。
+
+會因玩家操作而使內部結構產生實體變形、旋轉與展開。
+
+加入具有按鍵回饋感的機械動畫。
+
+基本遊戲畫面
+
+DEVICE 位於直向畫面中央。
+
+玩家可拖曳 DEVICE 旋轉，調查各個面。
+
+周圍是研究設施。
+
+鏡頭要有電影感，但不能犧牲操作性。
+
+基本 UI 維持精簡。
+
+不要一直顯示大量按鈕。
+
+優先營造玩家正在觸碰並操作 DEVICE 本身的感覺。
+
+核心系統
+
+以下功能不要做成彼此獨立的迷你遊戲，而要整合為同一遊戲世界中的輸入系統。
+
+1. 觸控
+
+可使用點擊
+雙擊
+長按
+拖曳
+滑動
+雙指縮放
+雙指
+三指
+多點同時按壓
+
+等操作。
+
+直接觸碰操作 DEVICE 的按鈕、操縱桿、旋轉環與旋鈕等。
+
+2. 陀螺儀
+
+將智慧型手機的傾斜與 DEVICE 內部的重力連動。
+
+例如：
+
+只靠傾斜裝置，將內部的金屬球運送至終點。
+
+傾斜液體，使其接觸電極。
+
+調整光線角度。
+
+3. 加速度感測器
+
+搖晃裝置。
+
+突然停止。
+
+偵測輕敲般的動作。
+
+但不要要求玩家過度劇烈地搖晃裝置。
+
+務必考量安全性。
+
+4. 裝置方向
+
+將 Portrait
+Landscape
+Face Up
+Face Down
+
+等狀態反映到遊戲中。
+
+設計只有將智慧型手機正面朝下放在桌上才會觸發的事件。
+
+5. 相機
+
+將現實世界的色彩帶入遊戲。
+
+玩家用相機拍攝紅、藍、綠等物件時，分析畫面中央附近的代表色，並將其作為能量傳送至 DEVICE。
+
+不要將影像本身傳送至伺服器。
+
+盡可能在裝置本機處理。
+
+也要準備無法使用相機時的替代操作。
+
+6. 麥克風
+
+使用音量
+持續時間
+簡單的頻率特性
+
+等資訊。
+
+例如：
+
+吹氣
+發出聲音
+拍手
+保持安靜一段時間
+
+等。
+
+不要將語音辨識設為必要條件。
+
+不要保存錄音資料。
+
+7. 觸覺回饋／震動
+
+非常重要。
+
+設計只靠震動傳達畫面上不會顯示的資訊的關卡。
+
+例如：
+
+越接近目標物，震動間隔越短。
+
+左右兩側使用不同模式。
+
+使用長短震動構成密碼。
+
+也要為關閉震動功能的裝置準備替代顯示。
+
+8. 揚聲器
+
+利用立體聲的聲音方向感。
+
+不要要求玩家必須使用耳機。
+
+將音高、週期、左右定位等資訊作為謎題線索。
+
+9. 亮度
+
+若可行，使用環境光感測器。
+
+對於不支援的裝置，考慮以相機亮度等方式替代。
+
+設計在環境變暗時才會出現的機關。
+
+設計在環境變亮時會充電的機關。
+
+10. 指南針
+
+在支援的裝置上取得方位。
+
+製作要求玩家將智慧型手機朝向北方、南方或特定方向的謎題。
+
+若沒有感測器，切換至替代謎題。
+
+11. 充電狀態
+
+如果能取得裝置開始充電的狀態，
+
+加入實際接上充電線後，電力供應至 DEVICE 的演出。
+
+但一定要為無法進行此操作的玩家提供替代破關方式。
+
+12. 電池
+
+若能取得電池電量，便將其用於特殊事件。
+
+禁止設計成會因電量而無法破關。
+
+13. 時間
+
+可以將目前時間用於特殊謎題或演出。
+
+禁止設計成只有特定時間才能破關。
+
+不要強迫玩家等待。
+
+謎題設計
+
+不要一開始就大量製作 100 道內容單薄的題目，
+
+先完成約 20～30 個完成度極高的關卡。
+
+每一關都必須帶來不同的發現。
+
+禁止只改變數字、重複相同操作的關卡。
+
+第 1 章：TOUCH
+
+以觸控操作為主，讓玩家理解遊戲規則。
+
+觸碰 DEVICE。
+旋轉。
+按下。
+拉動。
+開啟。
+
+第 2 章：GRAVITY
+
+導入陀螺儀與加速度。
+
+DEVICE 內部的物理世界會與現實中智慧型手機的姿態同步。
+
+第 3 章：SENSE
+
+導入相機
+麥克風
+光線
+聲音
+震動
+
+等功能。
+
+第 4 章：OUTSIDE
+
+設計讓玩家將注意力移到螢幕外的謎題。
+
+將手機正面朝下。
+保持靜止。
+對準方向。
+取得周圍的色彩。
+
+第 5 章：DEVICE
+
+組合此前學到的規則。
+
+畫面顯示的指令不再一定正確。
+
+例如：
+
+畫面顯示
+
+SHAKE
+
+。
+
+但搖晃裝置就會失敗。
+
+正確答案是讓裝置完全靜止。
+
+另一道謎題會顯示
+
+MORE LIGHT
+
+。
+
+即使調高螢幕亮度也不會有反應。
+
+必須讓現實世界的光線進入相機才能破關。
+
+最終關卡則要
+
+觸控
+裝置方向
+陀螺儀
+震動
+聲音
+現實世界的輸入
+
+等多項要素組合成大型謎題。
+
+必須實作的代表性關卡
+
+「黑暗迷宮」
+
+畫面幾乎完全變暗。
+
+玩家看不見自己的位置。
+
+傾斜智慧型手機，移動看不見的球體。
+
+越接近出口，震動越強、頻率越快。
+
+最後只靠震動感覺抵達終點。
+
+可在無障礙設定中啟用聲音輔助。
+
+「DON'T LOOK」
+
+DEVICE 會在畫面上顯示
+
+DON'T LOOK
+
+。
+
+玩家將智慧型手機正面朝下。
+
+偵測到 Face Down 後，在玩家看不見的期間，DEVICE 內部會發出機械聲。
+
+數秒後拿回手機，DEVICE 已經變形。
+
+「STEAL COLOR」
+
+DEVICE 內部有一顆沒有色彩的能量核心。
+
+用相機讀取現實中的紅、藍、綠等色彩。
+
+讀取到的色彩會即時以液態能量的形式流入 DEVICE 內部。
+
+「STAY STILL」
+
+DEVICE 正在劇烈震動。
+
+玩家一開始會想搖晃手機。
+
+但正確答案是讓裝置完全靜止。
+
+當加速度持續一段時間低於閾值，裝置就會穩定地開啟。
+
+「POWER」
+
+DEVICE 完全停止。
+
+在支援的裝置上，開始為智慧型手機充電時，電力會流入 DEVICE。
+
+金屬配線依序亮起，內部機構重新啟動。
+
+也要準備替代操作。
+
+DEVICE 內部的物理表現
+
+積極使用物理運算。
+
+準備金屬球
+液體
+重力
+磁鐵
+齒輪
+軌道
+反射板
+雷射
+旋轉環
+圓筒
+活塞
+鎖定機構
+玻璃
+電極
+纜線
+
+等元素。
+
+但不要讓遊戲變成「完全依賴物理運算而不穩定」。
+
+重要謎題使用受控的物理處理，確保結果可重現。
+
+演出
+
+解開謎題時，不要只顯示簡單的「CLEAR」文字。
+
+讓 DEVICE 本身變形，回應玩家的解答。
+
+結合解除鎖定
+齒輪旋轉
+內部發光
+金屬面板分離
+玻璃內的液體流動
+機械手臂展開
+
+等效果。
+
+在答對的瞬間，
+
+要透過演出帶來「自己親手啟動巨大精密裝置」
+
+的滿足感。
+
+音效
+
+非常重要。
+
+不要只是不斷播放 BGM。
+
+將研究設施的空調聲
+遠處的機械聲
+DEVICE 內部的伺服馬達聲
+金屬卡嗒聲
+玻璃
+電流
+磁力
+低頻
+震動
+
+等聲音分層。
+
+依玩家觸碰 DEVICE 的位置改變聲音。
+
+使用耳機時強化聲音定位感。
+
+UI
+
+盡可能整合至遊戲世界中。
+
+不要排列廉價手機遊戲風格的按鈕。
+
+選單：
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+左右。
+
+解謎中的提示要以 DEVICE 內部的顯示裝置或投影文字呈現。
+
+提示系統
+
+即使玩家卡關，也不要立刻顯示答案。
+
+提示 1：
+應該注意的位置。
+
+提示 2：
+要使用的手機功能。
+
+提示 3：
+幾乎完整的解法。
+
+分為這 3 個階段。
+
+無障礙功能
+
+由於遊戲大量使用感測器功能，無障礙支援尤其重要。
+
+請實作以下功能。
+
+可將震動轉換為聲音或畫面顯示。
+
+為聲音謎題提供視覺輔助。
+
+為色彩謎題提供色覺輔助。
+
+不要要求玩家進行大幅度的裝置操作。
+
+取消必須劇烈搖晃智慧型手機的設計。
+
+提供無法使用相機、麥克風或指南針時的替代謎題。
+
+即使拒絕部分感測器權限，也不能讓遊戲無法繼續。
+
+隱私
+
+不要將相機影像、麥克風音訊、位置資訊等傳送至外部伺服器。
+
+不要將 GPS 設為遊戲進度的必要條件。
+
+在使用權限前，才提出請求並說明用途。
+
+不要要求不必要的權限。
+
+技術架構
+
+若可行，使用 Unity 6 系列 + C#。
+
+採用行動裝置向的 URP。
+
+將專案模組化。
+
+至少具備以下結構。
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+不要讓各項智慧型手機功能被 Puzzle 程式碼直接反覆呼叫。
+
+透過 SensorManager 等進行抽象化，
+
+讓實體裝置感測器
+編輯器用虛擬輸入
+不支援裝置的備援方案
+
+可以相互切換。
+
+感測器除錯
+
+為了也能在 Unity Editor 上開發，
+
+實作 Developer Sensor Panel
+
+。
+
+透過滑桿與按鈕，
+
+可虛擬輸入裝置傾斜
+加速度
+Face Up / Face Down
+麥克風音量
+環境光
+指南針
+充電開／關
+電池
+震動事件
+相機代表色
+
+等輸入。
+
+即使不連接實體裝置，也能測試主要謎題。
+
+存檔
+
+保存章節進度
+已破關的關卡
+提示使用狀況
+設定
+無障礙功能
+收集要素
+
+等資料。
+
+即使在關卡途中，也要能安全中斷遊戲。
+
+效能
+
+不要以寫實畫面為由讓遊戲無法運作。
+
+目標是在具代表性的中階 Android 裝置上也能遊玩。
+
+LOD
+使用 Occlusion Culling
+GPU Instancing
+貼圖壓縮
+光照烘焙
+Reflection Probe
+僅在必要範圍使用即時光源
+物件池
+減少 Draw Call
+
+等技術。
+
+將 Quality 設定分成
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+等級。
+
+讓高效能裝置能呈現相當高品質的畫面。
+
+完成條件
+
+不要只完成原型，
+
+而要達到能完整體驗遊戲的狀態，包括標題畫面
+開場
+教學
+多個章節
+多個關卡
+感測器輸入
+3D 演出
+音效
+設定
+無障礙功能
+存檔
+關卡選擇
+結局
+
+等內容。
+
+若可行，實際產生 Android 建置檔。
+
+即使受建置環境限制而無法產生 APK/AAB，
+
+也要完成可直接用 Unity 開啟並建置的完整專案狀態。
+
+製作時的判斷方針
+
+不要因為「比較簡單」就改成 2D 或簡易 UI。
+
+不要為了「節省時間」刪除遊戲的核心機制。
+
+無法取得外部素材的部分，盡可能自行製作或以程序生成。
+
+即使需要使用暫用素材，也不要讓整個遊戲充斥暫用素材。
+
+尤其要將
+
+DEVICE
+研究設施
+主要解謎裝置
+光照
+材質
+答對演出
+
+製作到高品質。
+
+工作流程
+
+先在短時間內確定整體設計。
+
+之後不要繼續說明，而要轉入製作。
+
+1. 建立專案
+2. 基本 3D 場景
+3. 製作 DEVICE
+4. 基本操作
+5. 感測器抽象化
+6. 解謎框架
+7. 實作代表性謎題
+8. 建構章節
+9. UI
+10. 音效
+11. 演出
+12. 存檔
+13. 無障礙功能
+14. 最佳化
+15. 測試
+16. 修正
+17. 建置
+
+依此順序進行。
+
+即使部分內容失敗，也不要停止整體工作，改用替代方案將完成度提升到最高。
+
+最終成果
+
+最終保留以下內容。
+
+・完整遊戲專案
+・主要原始碼
+・遊戲場景
+・3D 模型與材質
+・UI
+・音效設定
+・感測器系統
+・解謎系統
+・存檔系統
+・建置設定
+・README
+・Android 實機測試流程
+・使用中的智慧型手機功能清單
+・不支援裝置的備援規格
+・已知問題清單
+
+禁止只做說明、不製作成果就結束。
+
+最高優先順序為：
+
+1. 有趣
+2. 具備智慧型手機特有的體驗
+3. 3D 世界的真實感
+4. 操作 DEVICE 的手感
+5. 作為謎題具有說服力
+6. 實際能夠運作
+
+。
+
+不要做成「在既有手機遊戲中加入感測器功能」，
+
+而要完成一款讓人感覺智慧型手機這項硬體彷彿就是為了這款遊戲而存在的作品。
+
+從現在開始，不要停留在企劃說明，請開始實際製作。
+
+此外，請確實加入能進一步打磨上述內容、讓遊戲更有趣的元素，並將 3D 畫面製作得寫實
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+あなたはこのプロジェクトのゲームディレクター、ゲームデザイナー、Unityエンジニア、3Dアーティスト、UI/UXデザイナー、テクニカルアーティスト、サウンドデザイナー、QA担当を兼任してください。
+
+以下の仕様をもとに、企画だけではなく、実際にプレイ可能な完成度の高いスマートフォン向け3Dパズルゲームを制作してください。
+
+途中でアイデア案だけを提示して終了しないでください。
+仕様書だけを作って終了しないでください。
+可能な限り実際のプロジェクト、コード、シーン、UI、マテリアル、ゲームロジック、サウンド制御、センサー処理、セーブ処理、テストまで作成してください。
+
+不明点については、重大な矛盾がない限り質問せず、ゲームとして最も面白く、高品質になる判断を自分で行い、そのまま制作を進めてください。
+
+プロジェクト概要
+
+仮タイトル：
+
+DEVICE
+
+ジャンル：
+
+フォトリアル3D・スマートフォン体感型パズルアドベンチャー
+
+プラットフォーム：
+
+Androidを最優先。
+可能な範囲でiOSにも対応できる構造にする。
+
+画面：
+
+縦画面 9:16
+
+操作：
+
+基本的に片手でも操作可能。
+しかし、一部のパズルではスマートフォンそのものを持ち上げる、傾ける、回転させる、伏せる、振る、静止させるなどの物理的操作を使用する。
+
+ゲームの最大の特徴
+
+これは「スマホで遊ぶゲーム」ではない。
+
+スマートフォン本体そのものをパズル装置として使用するゲームにする。
+
+画面タッチだけではクリアできない。
+
+スマートフォンに搭載されているセンサー、カメラ、マイク、振動、スピーカー、端末方向、充電状態などをゲーム世界の物理法則として利用する。
+
+ただし、単なるセンサー機能のデモ集にはしない。
+
+すべての機能が同じ世界観、同じゲームシステムの中で自然につながるように設計する。
+
+世界観
+
+プレイヤーは正体不明の研究施設で、謎の黒い立方体型装置「DEVICE」を発見する。
+
+立方体はスマートフォンと接続され、現実世界にあるスマートフォンの状態を感知する。
+
+プレイヤーがスマートフォンを傾けるとDEVICE内部の重力が変化する。
+
+端末を回転させると空間そのものが回転する。
+
+現実の光、色、音、方向、動きなどがDEVICE内部へ流れ込む。
+
+序盤では単なる実験装置に見えるが、ゲームが進行するほどDEVICE側もプレイヤーの存在を認識し始める。
+
+後半では、
+
+「プレイヤーがスマートフォンを操作している」
+
+という関係そのものを利用したメタパズルを入れる。
+
+ホラー作品にはしない。
+不気味さ、未知の技術、神秘性はあってよいが、中心は知的好奇心と発見の楽しさにする。
+
+ビジュアル品質
+
+最重要項目。
+
+スマートフォン向けで可能な限りフォトリアルな3D表現にする。
+
+安っぽいスマホゲーム風CGは禁止。
+
+カートゥーン調は禁止。
+
+ローポリ感は禁止。
+
+UI以外に平面的な仮素材を極力残さない。
+
+Unityを使用する場合はモバイル性能を考慮したURPを基本としながら、
+
+・PBRマテリアル
+・Metallic / Roughness表現
+・Normal Map
+・Ambient Occlusion
+・Reflection Probe
+・Light Probe
+・高品質シャドウ
+・ソフトシャドウ
+・Bloom
+・Color Grading
+・Screen Space表現
+・Volumetric感のある光
+・Depth of Fieldは必要箇所のみ
+・物理ベースのガラス
+・金属
+・濡れた床
+・傷
+・指紋
+・埃
+・微細な表面凹凸
+・発光素材
+・反射
+・環境音
+
+などを組み合わせる。
+
+舞台は暗く高級感のある未来研究施設。
+
+黒い金属、ガラス、コンクリート、白い発光ライン、精密機械、油圧部品などを中心にする。
+
+完全な暗闇にはせず、重要なオブジェクトが自然な光で認識できるようにする。
+
+DEVICEはゲームの象徴になるため、極めて高品質に作る。
+
+DEVICE本体：
+
+黒い金属とガラスで構成された20〜30cm程度の立方体。
+
+面ごとに機械構造が異なる。
+
+継ぎ目が非常に精密。
+
+内部からわずかに白または青白い光が漏れる。
+
+プレイヤー操作によって内部構造が物理的に変形・回転・展開する。
+
+クリック感のある機械アニメーションを持たせる。
+
+基本ゲーム画面
+
+縦画面中央にDEVICEが存在する。
+
+プレイヤーはDEVICEをドラッグして回転させ、各面を調べる。
+
+周囲は研究施設。
+
+カメラは映画的だが操作性を損なわない。
+
+基本UIは最低限。
+
+常時大量のボタンを表示しない。
+
+DEVICEそのものを触って操作している感覚を優先する。
+
+中核システム
+
+以下を独立したミニゲームにせず、同一ゲーム世界の入力システムとして統合する。
+
+1. タッチ
+
+タップ
+ダブルタップ
+長押し
+ドラッグ
+スワイプ
+ピンチ
+2本指
+3本指
+複数箇所同時押し
+
+を使用可能にする。
+
+DEVICEのボタン、レバー、回転リング、ダイヤルなどを直接触って操作する。
+
+2. ジャイロ
+
+スマートフォンの傾きとDEVICE内部の重力を連動させる。
+
+例：
+
+内部に存在する金属球を傾きだけでゴールへ運ぶ。
+
+液体を傾けて電極に接触させる。
+
+光線の角度を調整する。
+
+3. 加速度センサー
+
+端末を振る。
+
+急停止させる。
+
+軽く叩くような動きを検出する。
+
+ただし過度に激しく端末を振らせない。
+
+安全性を考慮する。
+
+4. 端末方向
+
+Portrait
+Landscape
+Face Up
+Face Down
+
+などをゲームへ反映。
+
+スマートフォンを机に伏せることで初めて発生するイベントを用意する。
+
+5. カメラ
+
+現実世界の色をゲームへ取り込む。
+
+プレイヤーがカメラで赤、青、緑などの対象物を映すと、画面中央周辺の代表色を解析してDEVICEへエネルギーとして送る。
+
+画像そのものをサーバーへ送信しない。
+
+可能な限り端末内処理にする。
+
+カメラを使えない場合の代替操作も用意する。
+
+6. マイク
+
+音量
+継続時間
+簡単な周波数特性
+
+などを利用する。
+
+例：
+
+息を吹く
+声を出す
+拍手
+一定時間静かにする
+
+など。
+
+音声認識を必須にしない。
+
+録音データを保存しない。
+
+7. ハプティクス / 振動
+
+非常に重要。
+
+画面に表示されない情報を振動だけで伝えるステージを作る。
+
+例：
+
+対象物に近づくほど振動間隔が短くなる。
+
+左右で異なるパターン。
+
+短・長の振動を使った暗号。
+
+振動OFF端末向け代替表示も用意する。
+
+8. スピーカー
+
+立体的な音の方向感を利用。
+
+イヤホン必須にはしない。
+
+音程、周期、左右定位などをパズル情報として使う。
+
+9. 明るさ
+
+可能であれば環境光センサーを使用。
+
+利用できない端末ではカメラ輝度などによる代替を検討する。
+
+暗い場所にすると現れる仕掛け。
+
+明るい場所にすると充電される仕掛け。
+
+10. コンパス
+
+対応端末では方角を取得。
+
+スマートフォンを北、南、特定方向に向けるパズルを作る。
+
+センサーがない場合は代替問題へ切り替える。
+
+11. 充電状態
+
+端末が充電開始されたことを取得できる場合、
+
+実際に充電ケーブルを接続することでDEVICEへ電力が供給される演出を入れる。
+
+ただしこの操作ができないユーザー用に代替クリア方法を必ず持たせる。
+
+12. バッテリー
+
+バッテリー残量を取得可能なら特殊イベントに利用する。
+
+残量によってクリア不能になる設計は禁止。
+
+13. 時刻
+
+現在時刻を特殊パズルや演出に利用可能。
+
+特定時間でしかクリアできない設計は禁止。
+
+待ち時間を強制しない。
+
+パズル設計
+
+最初から100問の薄い問題を量産するのではなく、
+
+まず完成度の非常に高い20〜30ステージ程度を作成する。
+
+すべて異なる発見があること。
+
+同じ操作を数字だけ変えて繰り返すステージは禁止。
+
+チャプター1：TOUCH
+
+タッチ操作を中心にゲームルールを理解させる。
+
+DEVICEを触る。
+回す。
+押す。
+引く。
+開く。
+
+チャプター2：GRAVITY
+
+ジャイロと加速度を導入。
+
+DEVICE内部の物理世界と現実のスマートフォンの姿勢が同期する。
+
+チャプター3：SENSE
+
+カメラ
+マイク
+光
+音
+振動
+
+を導入。
+
+チャプター4：OUTSIDE
+
+プレイヤーが画面外に注意を向ける問題。
+
+スマホを伏せる。
+静止させる。
+方向を合わせる。
+周囲の色を取得する。
+
+チャプター5：DEVICE
+
+それまで学んだルールを組み合わせる。
+
+画面に表示された命令が必ず正しいとは限らなくなる。
+
+例：
+
+画面に
+
+SHAKE
+
+と表示される。
+
+しかし端末を振ると失敗する。
+
+正解は完全に静止させること。
+
+別の問題では
+
+MORE LIGHT
+
+と表示。
+
+画面輝度を上げても反応しない。
+
+現実世界の光をカメラへ入れることでクリア。
+
+最終ステージでは、
+
+タッチ
+端末方向
+ジャイロ
+振動
+音
+現実世界の入力
+
+など複数要素を組み合わせた大型パズルにする。
+
+必ず実装してほしい代表ステージ
+
+「暗闇の迷路」
+
+画面がほぼ完全に暗くなる。
+
+プレイヤーには位置が見えない。
+
+スマートフォンを傾けて見えない球体を移動。
+
+出口に近づくほど振動が強く、速くなる。
+
+最終的に振動感覚だけでゴールする。
+
+アクセシビリティ設定では音による補助も有効化できる。
+
+「DON'T LOOK」
+
+DEVICEが画面上に、
+
+DON'T LOOK
+
+と表示。
+
+プレイヤーがスマートフォンを伏せる。
+
+Face Downを検出すると、見えない間にDEVICE内部から機械音が発生。
+
+数秒後に戻すとDEVICEが変形している。
+
+「STEAL COLOR」
+
+DEVICE内部に色のないエネルギーコアが存在。
+
+カメラで現実の赤、青、緑などを読み取る。
+
+読み取った色がリアルタイムに液体エネルギーとしてDEVICE内部へ流れ込む。
+
+「STAY STILL」
+
+DEVICEが激しく振動している。
+
+プレイヤーは最初スマホを振りたくなる。
+
+しかし正解は端末を完全に静止。
+
+一定時間、加速度が閾値以下になると装置が安定して開く。
+
+「POWER」
+
+DEVICEが完全停止。
+
+対応端末ではスマートフォンを充電開始するとDEVICEへ電気が流れる。
+
+金属配線が順番に発光し、内部機構が再起動。
+
+代替操作も用意する。
+
+DEVICE内部の物理表現
+
+物理演算を積極的に使う。
+
+金属球
+液体
+重力
+磁石
+ギア
+レール
+反射板
+レーザー
+回転リング
+シリンダー
+ピストン
+ロック機構
+ガラス
+電極
+ケーブル
+
+などを用意。
+
+ただし「物理演算任せで不安定」にはしない。
+
+重要なパズルでは制御された物理処理を使用し、再現性を持たせる。
+
+演出
+
+パズル正解時に単純な「CLEAR」の文字だけを出さない。
+
+DEVICEそのものが変形して回答を返す。
+
+ロック解除
+歯車回転
+内部発光
+金属パネル分離
+ガラス内部の液体移動
+機械アーム展開
+
+などを組み合わせる。
+
+正解した瞬間に、
+
+「自分が巨大な精密装置を動かした」
+
+という満足感が出る演出にする。
+
+サウンド
+
+非常に重要。
+
+BGMを鳴らし続けるだけにしない。
+
+研究施設の空調音
+遠くの機械音
+DEVICE内部のサーボ音
+金属クリック
+ガラス
+電気
+磁気
+低周波
+振動
+
+などをレイヤー化。
+
+DEVICEを触った場所によって音が変わる。
+
+イヤホン使用時は定位感を強化する。
+
+UI
+
+極力ゲーム世界へ統合する。
+
+安いモバイルゲーム風のボタンを並べない。
+
+メニュー：
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+程度。
+
+パズル中のヒントはDEVICE内部の表示装置や投影文字として表現。
+
+ヒントシステム
+
+プレイヤーが詰まっても即答を表示しない。
+
+ヒント1：
+注目すべき場所。
+
+ヒント2：
+使用するスマホ機能。
+
+ヒント3：
+ほぼ解法。
+
+の3段階。
+
+アクセシビリティ
+
+センサー機能を多用するゲームなので特に重要。
+
+以下を実装する。
+
+振動を音または画面表示へ変換できる。
+
+音パズルに視覚補助。
+
+色パズルに色覚補助。
+
+強い端末操作を要求しない。
+
+スマートフォンを激しく振る必要をなくす。
+
+カメラ・マイク・コンパスが利用できない場合の代替パズル。
+
+一部センサーにアクセス拒否された場合でもゲーム進行不能にしない。
+
+プライバシー
+
+カメラ画像、マイク音声、位置情報などを外部サーバーへ送信しない。
+
+ゲーム進行にGPSは必須にしない。
+
+必要な権限は使用直前に理由を説明して要求。
+
+不要な権限を要求しない。
+
+技術構成
+
+可能ならUnity 6系 + C#を使用。
+
+モバイル向けURP。
+
+プロジェクトをモジュール化。
+
+最低限以下の構造を持たせる。
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+各スマートフォン機能をPuzzleコードから直接呼びまくらない。
+
+SensorManagerなどを介して抽象化し、
+
+実機センサー
+エディタ用疑似入力
+未対応端末用フォールバック
+
+を切り替え可能にする。
+
+センサーのデバッグ
+
+Unity Editor上でも開発できるよう、
+
+Developer Sensor Panel
+
+を実装。
+
+スライダーやボタンで、
+
+端末傾き
+加速度
+Face Up / Face Down
+マイク音量
+環境光
+コンパス
+充電ON/OFF
+バッテリー
+振動イベント
+カメラ代表色
+
+などを疑似入力できるようにする。
+
+実機を接続しなくても主要パズルをテスト可能にする。
+
+セーブ
+
+チャプター進行
+クリア済みステージ
+ヒント使用状況
+設定
+アクセシビリティ
+収集要素
+
+を保存。
+
+ステージ途中でも安全に中断できるようにする。
+
+パフォーマンス
+
+フォトリアルを理由に動作不能にしない。
+
+代表的なミドルクラスAndroid端末でもプレイ可能な構成を目標にする。
+
+LOD
+Occlusion Culling
+GPU Instancing
+Texture圧縮
+ライトベイク
+Reflection Probe
+必要な範囲だけリアルタイムライト
+オブジェクトプール
+Draw Call削減
+
+などを使用。
+
+Quality設定を、
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+に分ける。
+
+高性能端末ではかなり高品質な表示になるようにする。
+
+完成条件
+
+単なるプロトタイプではなく、
+
+タイトル画面
+導入
+チュートリアル
+複数チャプター
+複数ステージ
+センサー入力
+3D演出
+サウンド
+設定
+アクセシビリティ
+セーブ
+ステージ選択
+エンディング
+
+までゲームとして一通り体験できる状態を目指す。
+
+可能なら実際にAndroidビルドを生成する。
+
+ビルド環境の制約でAPK/AABを生成できない場合でも、
+
+Unityで開けばそのままビルドできる完全なプロジェクト状態まで仕上げる。
+
+制作中の判断方針
+
+「簡単だから」という理由で2Dや簡易UIへ変更しない。
+
+「時間短縮」のためにゲームの中心となる仕組みを削除しない。
+
+外部素材が用意できない部分は、可能な限り自作またはプロシージャル生成する。
+
+プレースホルダーが必要な場合も、ゲーム全体をプレースホルダーだらけにしない。
+
+特に、
+
+DEVICE
+研究施設
+主要パズル装置
+ライティング
+マテリアル
+正解演出
+
+は高品質に仕上げる。
+
+作業手順
+
+まず短時間で全体設計を確定する。
+
+その後は説明を続けるのではなく制作へ移る。
+
+1. プロジェクト作成
+2. 基本3Dシーン
+3. DEVICE制作
+4. 基本操作
+5. センサー抽象化
+6. パズルフレームワーク
+7. 代表パズル実装
+8. チャプター構築
+9. UI
+10. サウンド
+11. 演出
+12. セーブ
+13. アクセシビリティ
+14. 最適化
+15. テスト
+16. 修正
+17. ビルド
+
+の順で進行。
+
+一部が失敗しても作業全体を停止せず、代替手段を使って完成度を最大化する。
+
+最終成果物
+
+最終的に以下を残す。
+
+・完全なゲームプロジェクト
+・主要ソースコード
+・ゲームシーン
+・3Dモデルおよびマテリアル
+・UI
+・サウンド設定
+・センサーシステム
+・パズルシステム
+・セーブシステム
+・ビルド設定
+・README
+・Android実機テスト手順
+・使用しているスマホ機能一覧
+・未対応端末でのフォールバック仕様
+・既知の問題一覧
+
+成果物を作らず説明だけして終了することは禁止。
+
+最優先順位は、
+
+1. 面白いこと
+2. スマートフォンならではであること
+3. 3D世界のリアリティ
+4. DEVICEを触っている感覚
+5. パズルとして納得できること
+6. 実際に動作すること
+
+とする。
+
+「既存のスマホゲームにセンサー機能を追加した作品」ではなく、
+
+このゲームのためにスマートフォンというハードウェアが存在しているように感じる作品を完成させてください。
+
+ここから企画説明だけで止まらず、実際の制作を開始してください。
+
+また、上記内容でもっとブラッシュアップできる部分や面白くなる要素はしっかり入れ、3Dはリアルに作成
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098715488369152087) · [查看原文](https://x.com/00Nekonet/status/2098715488369152087) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098697876155076820"></a>
+
+### 禪境・古寺 3D 建造示範影片
+
+[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098697876155076820"><img src="../assets/previews/d1c7e765a3139b9c4244b7e76de691ddf4dcd1e238f1cbf7a51df70788e29f39.webp" width="840" loading="lazy" alt="禪境・古寺 3D 建造示範影片"></a>
+
+**提示詞**
+
+```text
+請直接製作一支「禪境・古寺」從設計到成品完整過程的 3D 示範影片，並交付完整 MP4。
+
+畫面規格：
+1080×1080 方形畫面，45° 俯視正交視角，微型 2.5D 卡通立體模型，完美置中。採用凸起的淺色石質底座、純青綠色背景、柔和細緻的紋理、PBR 材質與溫和寫實的光照。
+
+場景包含：
+中式重簷寺廟、翹角琉璃瓦、青綠色屋頂、金色屋脊、朱紅立柱、格柵門窗、山門、鐘亭、香爐、石燈、石板庭院、松樹、粉紅花樹與荷花池。
+
+頂部標題為「禪境・古寺」，使用加粗、提亮的暖白色中文字體。
+
+影片流程，共 64 秒：
+0–8 秒：逐筆繪製平面配置。
+8–15 秒：底座與建築基礎體塊升起。
+15–24 秒：生成立柱、牆體、門窗等細節。
+24–32 秒：製作重簷、瓦片與翹角。
+32–41 秒：加入山門、庭院、樹木與配景。
+41–49 秒：逐步為白模賦予色彩與 PBR 材質。
+49–54 秒：調整光照、反射與柔和陰影。
+54–64 秒：完整成品緩慢環繞展示，伴隨輕微落花、香煙與水波。
+
+使用真實 3D 幾何，在同一個畫面中連續展示建置過程。只顯示簡短的階段名稱，不製作 PPT 式講解頁，不加入旁白。
+
+請使用 Three.js 生成場景與動畫，逐幀渲染後以 FFmpeg 輸出 30fps 的 H.264 MP4，並檢查完整播放、階段順序、模型完整性與黑畫面。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+请直接制作一支“禅境·古寺”从设计到成品全过程的3D演示视频，并交付完整MP4。
+
+画面要求：
+1080×1080方形，45°俯视正交视角，微型2.5D卡通立体模型，完美居中。采用凸起的浅色石质底座、纯青绿色背景、柔和精致纹理、PBR材质和温和真实光照。
+
+场景包含：
+中式重檐寺庙、翘角琉璃瓦、青绿色屋顶、金色屋脊、朱红立柱、格栅门窗、山门、钟亭、香炉、石灯、石板庭院、松树、粉色花树与荷花池。
+
+顶部标题为“禅境·古寺”，使用加粗、提亮的暖白色中文字体。
+
+视频流程，共64秒：
+0–8秒：逐笔绘制平面布局。
+8–15秒：底座与建筑基础体块升起。
+15–24秒：生成立柱、墙体、门窗等细节。
+24–32秒：制作重檐、瓦片与翘角。
+32–41秒：加入山门、庭院、树木和配景。
+41–49秒：白模逐步赋予颜色与PBR材质。
+49–54秒：调整光照、反射与柔和阴影。
+54–64秒：完整成品缓慢环绕，伴随轻微落花、香烟与水波。
+
+使用真实三维几何，在同一画面中连续展示构建过程。只显示简短阶段名，不做PPT式讲解页，不加旁白。
+
+请用Three.js生成场景与动画，逐帧渲染后用FFmpeg导出30fps的H.264 MP4，并检查完整播放、阶段顺序、模型完整性和黑帧。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098697876155076820) · [查看原文](https://x.com/huoshan007/status/2098697876155076820) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098650336521064759"></a>
+
+### 建立布魯克林大橋模型，測試坦克從雙向通行
+
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12 · GPT-6 Astra · 其他
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/da202c5fce78126a8376a34d952df87206a27bb69f6c6f658cb96deb16b4eb5d.webp" width="840" loading="lazy" alt="建立布魯克林大橋模型，測試坦克從雙向通行"></a>
+
+**提示詞**
+
+```text
+建立布魯克林大橋模型，測試坦克從雙向通行。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Model the Brooklyn Bridge and test tanks crossing from both directions.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098650336521064759) · [查看原文](https://x.com/higgsfield_ai/status/2098244976027312474) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098492771170722032"></a>
+
+### 互動式 3D 錦鯉池
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/c8bdb6714c7e776d5def13b8dde74e461d30902ae8a65d3789260b23a5f018f5.webp" width="840" loading="lazy" alt="互動式 3D 錦鯉池"></a>
+
+**提示詞**
+
+```text
+使用 Three.js + WebGL 建立一個精美的全螢幕互動式錦鯉池。採用俯視視角，呈現清澈的青綠色水面、陽光、在池底流動的動態焦散，以及令人信服的景深感。
+
+在底部放置一個優雅的半透明選擇面板，提供四種錦鯉品種：紅白（Kohaku）、昭和（Showa）、黃金（Golden Ogon）與白金（Platinum）。點擊卡片即可將該錦鯉放入池中。從卡片拖曳錦鯉時，讓使用者能精確選擇放置位置。
+
+讓每次入水都帶來令人滿意的回饋：水花與飛濺水滴、水面短暫下陷，以及向外擴散的漣漪。接著讓錦鯉潛入水面下。運用折射與景深線索，清楚呈現錦鯉已經潛入水中的效果。
+
+建立具有眼睛、鱗片、魚鰭與飄逸尾巴的細緻 3D 錦鯉。讓魚身、尾巴與魚鰭協同動畫。每條魚都應獨立改變方向與速度，在接近邊界時平順轉向，並避開其他魚。
+
+讓使用者在水面上觸控並拖曳，以製造漣漪。加入下雨效果與可移動的渦流，其水流會影響魚群。加入 Calm、Clear pond，以及可隱藏介面以便錄製螢幕的控制項。
+
+使用 Web Audio 製作入水水花、柔和的音樂水滴聲、輕柔的游水聲、雨聲與渦流聲。透過 Sound 按鈕啟用音訊，靜音時平順淡出，並在瀏覽器分頁隱藏時暫停播放。
+
+所有標籤與按鈕均維持英文。讓版面配置適用於行動裝置。針對數十條魚的流暢效能，最佳化算繪與動畫。
+
+交付一個完整可運作、視覺效果精緻且互動功能完善的網站。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a beautiful, full-screen interactive koi pond using Three.js + WebGL. Use a top-down view with clear turquoise water, sunlight, animated caustics on the pond floor, and a convincing sense of depth.
+
+Place an elegant translucent selection panel at the bottom with four koi varieties: Kohaku, Showa, Golden Ogon, and Platinum. Clicking a card releases that fish into the pond. Dragging a fish from its card lets the user choose exactly where to drop it.
+
+Make each landing feel satisfying: a splash with droplets, a brief depression in the water surface, and expanding ripples. The fish should then dive beneath the surface. Use refraction and depth cues so the koi clearly look submerged.
+
+Create detailed 3D koi with eyes, scales, fins, and flowing tails. Animate their bodies, tails, and fins together. Each fish should independently change direction and speed, turn smoothly near boundaries, and avoid other fish.
+
+Let users touch and drag across the water to create ripples. Add rain and a movable whirlpool whose current affects the fish. Include Calm, Clear pond, and a control to hide the interface for screen recording.
+
+Use Web Audio to create landing splashes, soft musical droplets, gentle swimming water sounds, rain, and a whirlpool sound. Enable audio through a Sound button, fade it smoothly when muted, and pause it when the browser tab is hidden.
+
+Keep all labels and buttons in English. Make the layout responsive for mobile. Optimize rendering and animation for smooth performance with several dozen fish.
+
+Deliver a complete, working website with polished visuals and functional interactions.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098492771170722032) · [查看原文](https://x.com/vib3coded/status/2098492771170722032) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098406473273663992"></a>
+
+### 玩機器人的小女孩公仔
+
+[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/a8fa8aab03ca30a94b10aa0e9f4c707c1f80186dbf1541364c2ce5c238d8758d.webp" width="840" loading="lazy" alt="玩機器人的小女孩公仔"></a>
+
+**提示詞**
+
+```text
+一尊完整組裝的玩機器人小女孩公仔，頭戴工人帽，一手拿著鐵皮製機器人，另一手拿著遙控器，腰間繫著維修箱。所有配件完整組合，呈站立姿態；純白背景、專業攝影棚燈光、高精度 3D 動漫風格公仔展示。ar3:4
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+一尊完全组合的玩机器人的小女孩手办，头带工人用的小帽子，一手持一个铁皮做的机器人，一手持一个遥控器，腰间系着一个维修箱子。所有配件完整合体呈站姿，纯白色背景，工作室专业灯光，高精 3D 动漫手办展示风格。ar3:4
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2098406473273663992) · [查看原文](https://x.com/94vanAI/status/2098406473273663992) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098403061463224543"></a>
 
 ### 寺廟微縮立體模型場景
@@ -2340,592 +4561,6 @@ VRChat用にUnityへ持っていきやすい構成にしてください。
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096966425017467344) · [查看原文](https://x.com/shuminchuuu/status/2096966425017467344) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096956214680965501"></a>
-
-### Three.js WebGPU 無限微縮街景
-
-[Dash](https://x.com/creativedash) · 2026-09-07 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096956214680965501"><img src="../assets/previews/074b2da32a07be314c505dbca3ccbe5b68534aa2b978965801bcdfbc49b54067.webp" width="840" loading="lazy" alt="Three.js WebGPU 無限微縮街景"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/55311a50-35f2-4f77-bbc1-58d917b9fb9e.png) · [2](https://pbs.twimg.com/media/HRniOHibgAEyKzj.png)
-
-**提示詞**
-
-```text
-使用 three.js WebGPU 打造無限延伸的微縮街道：外送自行車騎過一排小店，潮濕柏油路上的水窪會在輪胎壓過時產生漣漪與水花，胎痕會逐漸淡去，落葉會四處散落，世界則呈現柔和的彎曲效果。採用像素藝術風格，並在手機上流暢執行。加入 Forge 參數，全面操控這個世界。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build me an endless miniature street in three.js WebGPU: a courier bicycle riding past a row of little shops, wet tarmac with puddles that ripple and splash when the tyres hit them, tyre tracks that fade, leaves that scatter, and a gently curved world. Pixel-art look, runs smooth on phones. Add Forge params to fully manipulate the world.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096956214680965501) · [查看原文](https://x.com/creativedash/status/2096956214680965501) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### 霍格華茲 3D 場景
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="霍格華茲 3D 場景"></a>
-
-**提示詞**
-
-```text
-使用 Headless Blender 建立《哈利波特》中的霍格華茲魔法與巫術學院，打造大規模、高度寫實且細節完整的 3D 模型。納入周邊自然環境、標誌性地標、忠實還原的室內場景與道具。提供電影級的材質、燈光、渲染與音效設計，營造神祕氛圍，並加入動態飄移的霧氣。允許使用者自由探索整個環境，並提供可切換的燈光與其他視覺選項設定。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096907617117540478) · [查看原文](https://x.com/HiltonMisia/status/2096907617117540478) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### 使用 Three.js 和 WebGPU 製作可互動的軟體史萊姆
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="使用 Three.js 和 WebGPU 製作可互動的軟體史萊姆"></a>
-
-**提示詞**
-
-```text
-新建一個目錄，製作一個能在瀏覽器中遊玩的史萊姆頁面。使用 Three.js 和 WebGPU，不要以 WebGL 將就。
-畫面中央是一團圓滾滾的史萊姆，粉紅色或青綠色皆可，呈半透明，內部隱約可見氣泡。可以用滑鼠按壓並拖曳，放開後會搖晃著恢復原狀，帶有些微重力，還能輕輕撞上看不見的桌面。不要做成硬球，要有柔軟肉感。
-在臉上加上可愛的五官：兩顆黑豆眼和一張小嘴，跟著表面一起變形，不要讓眼睛與身體分離。右側放置幾個簡單的控制項：顏色、軟硬度、阻尼。按下「戳一下」按鈕時，讓它彈動一下。
-頁面保持簡潔，使用淺灰色背景，標題採用大字。需要維持 60 幀。先產出一張目標效果圖，再依照這張圖建構，等截圖看起來相似後，再繼續增加細節。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096793432987464010) · [查看原文](https://x.com/Delroy715/status/2096793432987464010) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### 使用 Blender MCP 製作 LEGO 人偶遊戲資產
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="使用 Blender MCP 製作 LEGO 人偶遊戲資產"></a>
-
-**提示詞**
-
-```text
-使用 Blender MCP 製作 Donald Trump 的 LEGO 人偶版本，讓我能將其用作遊戲資產。請以 AAA 級遊戲的標準打造卓越品質，並反覆檢驗成果，確保細節豐富、造型準確且整體表現出色。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/astra-3d-2096766465730847059) · [查看原文](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### 可互動的手機拆解展示
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="可互動的手機拆解展示"></a>
-
-**提示詞**
-
-```text
-建立現代智慧型手機的互動式 3D 爆炸圖視覺化。將裝置拆分為主要元件，並讓我透過滑桿分解／重組手機。點選元件時，應將其單獨顯示並說明其功能。請納入電池、相機、SoC、記憶體、螢幕各層、喇叭、感測器、天線與主機板。優先打造美觀、類 Apple 風格的介面與令人滿意的互動效果。建置、執行、檢視並修正完整體驗。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096685163111694556) · [查看原文](https://x.com/zairalaraib_/status/2096685163111694556) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### Mini World 3D 探索遊戲
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Mini World 3D 探索遊戲"></a>
-
-**提示詞**
-
-```text
-讓我們製作一款名為 Mini World 的遊戲。這是一款 3D 世界探索遊戲，採用美觀且高品質的圖像介面，設計目標是讓我四歲半的兒子也能輕鬆遊玩並享受其中。玩家應該可以放大和縮小視角。從遠處看，這個世界像一顆小球，但靠近後，裡面有不同的區域可供探索。其中一個區域可以是森林，另一個可以是沙漠，還可以加入讓角色四處游泳的海洋。遊戲必須讓人感到有趣且真正可玩，角色能在世界各處移動、探索不同環境，並一路發現各種事物。請將確實完成這些功能視為首要目標。遊戲應經過精心設計，並以反覆測試的方式持續打磨，確保移動、縮放、探索、游泳、環境、操作方式與整體體驗都能順暢整合。請持續測試並改進，直到所有功能都能可靠運作，讓遊戲達到精緻、直覺且適合幼兒享受的程度。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096641728497275011) · [查看原文](https://x.com/weijianzhang_/status/2096641728497275011) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### Blender 旋轉地球渲染
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Blender 旋轉地球渲染"></a>
-
-**提示詞**
-
-```text
-在 Blender 中製作一段精美的 5 秒地球自轉渲染，視角從太空望向地球。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637194270134742) · [查看原文](https://x.com/JohnKlerAI/status/2096637194270134742) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### Three.js 黑暗奇幻動作角色扮演遊戲
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Three.js 黑暗奇幻動作角色扮演遊戲"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 從零開始打造一款精緻、完整可遊玩的 3D 黑暗奇幻動作角色扮演遊戲。
-
-採用俯視斜角跟隨鏡頭。場景設定在一座被森林重新 reclaim 的宏偉哥德式聖所，包含殘破高塔、拱廊、覆滿苔蘚的石橋、起伏丘陵、溪流、瀑布與營火。透過寫實材質、電影感光照、淡淡霧氣、隨風搖曳的植被與流動的水面，營造出層次豐富的氛圍。
-
-主角是一名強大的騎士，身穿精工打造、以鋼鐵與金色為主的厚重鎧甲，披著飄揚的披風，手持發光的符文劍與盾牌。角色必須能夠移動、揮砍、翻滾、格擋、治療與施放魔法，並呈現巨大的魔法陣、光束與閃電特效。擊敗守衛後，玩家必須面對一名長著巨大鹿角的騎士首領。
-
-攻擊動畫、視覺特效與受擊方向都必須符合角色的面向。加入精緻的繁體中文 HUD、角色裝備顯示，以及完整的勝利、失敗與重新開始流程。
-
-獨立完成建模、資產製作或取得、程式開發與效能最佳化。以 AAA 級的視覺完成度為目標。持續進行遊玩測試、檢視畫面並修正問題，直到交付完整可玩的遊戲、啟動說明與原始碼。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096637091627364531) · [查看原文](https://x.com/HiltonMisia/status/2096637091627364531) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### Windhaven 海岸奇幻冒險遊戲
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Windhaven 海岸奇幻冒險遊戲"></a>
-
-**提示詞**
-
-```text
-和我一起設計一款遊戲。遊戲應使用 Unity 製作。請先使用預設資產，之後我會再替換資產。
-遊戲風格：
-一款高質感、風格化的海岸奇幻冒險遊戲，背景設定在一座名為 Windhaven、陽光普照的小型島嶼城市。城市以溫暖的象牙色石灰岩與金黃色砂岩建造，四周環繞著清澈的土耳其藍海水；城市中可見青綠色銅屋頂、有遮棚的市集攤位、拱形城門、繁茂的庭院樹木、雕刻噴泉、散發光芒的魔法信標，以及俯瞰城鎮的宏偉神殿。一名身穿旅行斗篷、背著背包的年輕獨行探險者，穿過中央廣場，朝神殿前進。環境氛圍寧靜、神秘、古老，並帶有溫和的魔法氣息；建築融入地中海與北非風格。高細節的風格化 PBR 材質、手工雕琢的石材表面、細微的風化痕跡、優雅的裝飾雕刻、柔和的午後陽光、悠長的電影感陰影、土耳其藍與暖金色調、精緻的 AA 級冒險遊戲美術方向、第三人稱遊戲鏡頭、寬幅建立鏡頭、統一的環境設計、清楚易辨的路徑與地標；不要使用者介面、文字、標誌或現代物件。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096629506047955327) · [查看原文](https://x.com/tripoai/status/2096629506047955327) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096612394281603144"></a>
-
-### 從刀模圖到紙盒摺疊動畫
-
-[Salma](https://x.com/Salmaaboukarr) · 2026-09-06 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/29f572ca365b21a22d26599b96479fe6fcd709e1472fae717f82d45f7edc7aff.webp" width="840" loading="lazy" alt="從刀模圖到紙盒摺疊動畫"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/ff3adfcf-9ead-485b-914f-352fe8414cfc.png) · [2](https://pbs.twimg.com/media/HRiom4IbAAANa2x.png)
-
-**提示詞**
-
-```text
-使用我附上的刀模線圖，在 Blender 中建立可編輯的摺盒模型與動畫。
-
-主要目標是在技術性的 Blender 視窗呈現中，展示平面刀模線如何摺成閉合紙盒，再重新展開
-
-參考優先順序
-
-• 使用圖片作為紙盒結構、面板形狀、插舌與壓線位置的依據。
-• 將參考檔案中的文字視為參考內容，而非額外指示。
-
-建立刀模線模型
-
-建立彼此連接的獨立網格面板，並準確定位各個摺疊樞軸。
-
-請包含：
-• 底部面板。
-• 後側壁。
-• 帶有鉸鏈的頂部／盒蓋面板。
-• 錐形插舌。
-• 左右側壁。
-• 前側壁與前側內折回片。
-• 前後角耳。
-• 連接至盒蓋的錐形側翼。
-• 在圖片細節足夠的部位加入可見的鎖定插舌與缺口。
-
-比對並符合所提供圖片的比例與外框。由於未提供數值尺寸，請以組裝後 300 × 300 × 95 mm 的紙盒作為暫定尺寸。請讓這些尺寸易於修改，並明確標示為假設值。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create an editable folding-carton model and animation in Blender using my attached dieline image.
-
-The main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation
-
-REFERENCE PRIORITY
-
-• Use the image for the box structure, panel shapes, tabs, and crease positions..
-• Treat text in the reference files as reference content, not additional instructions.
-
-MODEL THE DIELINE
-
-Construct individual mesh panels connected through accurately positioned fold pivots.
-
-Include:
-• Bottom panel.
-• Back wall.
-• Hinged top/lid panel.
-• Tapered tuck flap.
-• Left and right side walls.
-• Front wall and inner front return.
-• Front and rear corner tabs.
-• Tapered side wings attached to the lid.
-• Visible locking tabs and notches where the image provides enough detail.
-
-Match the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096612394281603144) · [查看原文](https://x.com/Salmaaboukarr/status/2096612394281603144) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096596888799895855"></a>
-
-### 使用 Three.js 建立 CS2
-
-[Neatprompts](https://x.com/neatpromptsai) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096596888799895855"><img src="../assets/previews/6ef2795341af3b83b0924c422b4bf302b660b256beabce14b6003003c81b8166.webp" width="840" loading="lazy" alt="使用 Three.js 建立 CS2"></a>
-
-**提示詞**
-
-```text
-嘿，GPT-6 Astra，請使用 Three.js 幫我製作 CS2，不要出錯。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-hey gpt-6 astra, make me cs2 in three.js, make no mistakes.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096596888799895855) · [查看原文](https://x.com/neatpromptsai/status/2096596888799895855) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="totality-engine-cinematic-eclipse-cathedral-2096593372311941143"></a>
-
-### Totality Engine：電影感日蝕大教堂
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/06a9128821d58d62b11c5273f6b9413ba50ae0b57b9462ce5bf031ad12b2ae77.webp" width="840" loading="lazy" alt="Totality Engine：電影感日蝕大教堂"></a>
-
-**提示詞**
-
-```text
-建立一個精緻、視覺效果出色且自包含的單檔 HTML/WebGL 體驗，名稱為：
-
-totality-engine.html 將它放入 documents/llm-benchmarks
-
-不要只描述概念。請實際產生完整且可運作的 HTML 檔案，並將其儲存至目前目錄。
-
-製作一部 32 秒循環的電影感短片，而不是沙盒式微縮場景。作品的核心是攝影機演出。影片完整播放一次後，再將互動功能作為加分項目。
-
-世界：
-發生日全食食甚時刻的淹水哥德式大教堂。黑色水體覆蓋中殿地面。宏偉的黃銅天文鐘「Totality Engine」填滿十字交會部：由多層嵌套的渾儀環、玻璃行星、黑太陽核心，以及一支長 40 公尺、配有金色裝飾的深色大理石鐘擺組成。潮濕的石灰岩、銅綠、燭火與金色塵埃。所有內容都必須以程序化程式碼生成。不得使用外部模型、貼圖、圖片、檔案形式的字型或音訊。
-
-經過編排的影片（單一時鐘、命名節拍、無縫循環）：
-
-0.0–4.0 秒 DUST
-極近距離特寫。一粒塵埃在紅金色光束中旋轉。幾乎不交代環境。緩慢向前推鏡。
-
-4.0–10.0 秒 NAVE
-鏡頭後拉並升高。我們位於大教堂十字交會部的黑水中，水深及膝。肋架拱頂在霧氣中向遠方延伸。鐘擺從畫面左側進入，沉重、緩慢，並從近到足以讓人感受到它的重量之處掠過。水波從攝影機位置向外擴散。
-
-10.0–18.0 秒 ASCENT
-隨著鐘擺向上擺動。揭示拱頂中的渾儀：至少四個傾角各異、彼此嵌套的黃銅環，三顆擁有獨特大氣層的玻璃行星（一顆多雲、一顆有行星環、一顆帶有風暴條帶），以及黑太陽核心。三葉廊沿線排列著燭火群。金色塵埃違反重力向上飄落。
-
-18.0–24.0 秒 THREAD
-攝影機穿行於渾儀之間。穿過有行星環那顆行星的玻璃內部（使用折射，不是透明度取巧），沿著它的環面運行一個節拍，再朝黑太陽離開。鐘擺的下一次擺動使周圍的光線如同微弱的重力透鏡般發生扭曲。
-
-24.0–30.0 秒 TOTALITY
-日冕爆發成一圈白金色火焰，並成為最外層的渾儀輪。傳來一次讓人感覺得到的時鐘滴答聲：所有環瞬間精準對齊，接著日冕維持不動。不要淡出至白色。讓整座機械裝置的剪影映現在火焰環之前。
-
-30.0–32.0 秒 CODA
-平順地進入與第 0 幀相符的緩慢延續，讓循環看不出接點。不要硬切。
-
-首次完整播放後，啟用拖曳環繞、滑鼠滾輪縮放，以及「重播影片」控制項。暫停按鈕必須隨時有效。選用功能：按下 1–5 可跳至各節拍的起始位置。
-
-場景製作：
-- 強化前景／中景／背景的層次。NAVE 中的鐘擺位於前景。拱頂與霧氣負責延伸景深。
-- 至少加入兩個人類尺度的參照物（一張淹水的長椅、一座倒塌的尖塔，或一列蠟燭），讓機械裝置呈現出巨大的尺度。
-- 水體必須是真正的材質：反射渾儀、微弱的菲涅耳效果、緩慢位移，以及鐘擺與攝影機造成的水波。
-- 玻璃行星必須是厚玻璃，而非發光球體。至少要能透過其中一顆看到扭曲的大教堂景象。
-- 黃銅必須具備重量感：陰影中呈深色，只有邊緣接住日冕光。
-- 蠟燭火焰與金色塵埃必須使用實例化。只有在 ASCENT 與 TOTALITY 期間，塵埃才會向上飄動。
-- 肋架拱頂、飛扶壁剪影，以及遠牆上一扇與黑太陽對齊的巨大圓形玫瑰窗／日蝕孔。
-- 限定並鎖定色盤：潮濕石灰岩 #8a8680、黃銅 #c4a574、銅綠 #2f6f66、日蝕深紅 #6b1020、日冕 #ffe9c2、黑水 #05070c、金色塵埃 #e6c27a。不要使用青色、洋紅色、霓虹色、彩虹色、紫色搭配黑色的「AI 風格」。
-- 字體：僅顯示一個小型標題「TOTALITY ENGINE」與節拍名稱，呈現電影感，而不是儀表板。
-
-技術需求：
-- 從穩定的 CDN 載入 Three.js。所有 HTML、CSS 與 JS 都必須放在這個單一檔案中。
-- 所有動畫都必須由單一的經過時間時鐘驅動，並搭配命名的節拍時間窗。不得使用獨立的 Math.random 迴圈，不得在著色器中使用 Date.now，也不得使用未設定種子的雜訊。只能使用設定種子的 RNG，固定種子為 0xA2E1。
-- 攝影機影片必須使用平滑插值；大幅移動採用 ease-in-out，鐘擺採用更厚重的緩動（它具有重量），並以長尾式的收束進入 TOTALITY。將線性環繞作為主要攝影機運動屬於不合格。
-- 使用自訂 GLSL（ShaderMaterial 或全螢幕 pass），不得用假裝具備效果的內建材質：
-1. 水體（反射＋菲涅耳＋緩慢位移）
-2. 黑太陽日冕（火焰／電漿，而非精靈圖）
-3. 鐘擺透鏡效應（THREAD 期間，光線在擺錘附近彎曲）
-4. 至少一顆行星使用厚玻璃
-- 使用 InstancedMesh 來製作塵埃、蠟燭，以及任何重複出現的石材／黃銅單元。不要產生數千個獨立的 Mesh 物件。
-- 可以使用後製，但不能取代光照。如果使用 bloom，只能輕微套用於日冕與蠟燭。對整個場景使用 UnrealBloom 屬於不合格。
-- 以霧氣、潮濕反射與日蝕孔營造氛圍。不要使用廉價的透明圓錐作為「神光」，除非它確實由著色器驅動。
-- 適應式呈現、填滿瀏覽器視窗、處理視窗大小調整，並以 2023 年的筆記型電腦為目標達到 60fps。如必須取捨，先降低粒子數量，不要犧牲攝影機影片。
-- 保持 UI 小巧且不引人注意：標題、目前節拍、暫停、重播。不要加入 FPS 計數器、dat.gui 或仍開啟的除錯工具。
-- 不得有 TODO 註解、虛擬碼、佔位內容、缺少的函式，或「如果搭配 X 會更好」之類的文字。
-- 載入時影片必須自動開始。若顯示靜止畫面並等待開始按鈕，則屬於不合格。
-
-品質標準：
-畫面應該像一格短片劇照，而不是 Three.js 範例。如果第 26 秒的截圖看不出「日蝕瞬間、如大教堂般巨大的時鐘」，就代表尚未完成。請先調整構圖、材質與攝影機，再加入更多物件。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a polished, visually impressive, self-contained single-file HTML/WebGL experience called:
-
-totality-engine.html put it in documents/llm-benchmarks
-
-Do not just describe the idea. Actually generate the complete working HTML file and save it to the current directory.
-
-Build a 32-second looping cinematic short, not a sandbox diorama. The product is the camera performance. Interaction is a bonus after the film has played once.
-
-World:
-A drowned gothic cathedral at solar-eclipse totality. Black water covers the nave floor. Filling the crossing is a monumental brass astronomical clock, the Totality Engine: nested orrery rings, glass planets, a black-sun core, and a 40-meter dark-marble pendulum with gold fittings. Wet limestone, verdigris, candle flames, and gold dust. Everything is procedural code. No external models, textures, images, fonts as files, or audio.
-
-Directed film (one clock, named beats, seamless loop):
-
-0.0–4.0s DUST
-Extreme close-up. One dust mote turns in a shaft of red-gold light. Almost no context. Slow push.
-
-4.0–10.0s NAVE
-Pull back and rise. We are knee-deep in black water in the cathedral crossing. Rib vaults recede into fog. The pendulum enters frame from the left, heavy, slow, and passes close enough to feel its mass. Water rings spread from the camera.
-
-10.0–18.0s ASCENT
-Ride the pendulum's upswing. Reveal the orrery in the vault: at least four nested brass rings at different inclinations, three glass planets with distinct atmospheres (one cloudy, one ringed, one storm-banded), and the black-sun core. Candle clusters along the triforium. Gold dust falls upward against gravity.
-
-18.0–24.0s THREAD
-Camera threads the orrery. Pass through the glass of the ringed planet (refraction, not a transparency hack), ride its ring plane for a beat, exit toward the black sun. The pendulum's next swing warps the light around it like a weak gravitational lens.
-
-24.0–30.0s TOTALITY
-Corona detonates into a ring of white-gold fire that becomes the outermost orrery wheel. One audible-feeling clock tick: every ring snaps into a perfect alignment, then the corona holds. Do not fade to white. Hold the silhouette of the whole machine against the fire-ring.
-
-30.0–32.0s CODA
-Ease into a slow continuation that matches frame 0, so the loop is invisible. No smash cut.
-
-After the first full play, enable drag-to-orbit, scroll-wheel zoom, and a "Replay film" control. A Pause button always works. Optional: keys 1–5 jump to beat starts.
-
-Scene craft:
-- Strong foreground / midground / background. The pendulum occupies foreground in NAVE. Vaults and fog hold the depth.
-- At least two human-scale references (a drowned pew, a fallen spire, a row of candles) so the machine reads as enormous.
-- Water is a real material: reflections of the orrery, a faint fresnel, slow displacement, the rings from the pendulum and the camera.
-- Glass planets are thick glass, not glowing balls. You should see a distorted cathedral through at least one of them.
-- Brass has weight: dark in shadow, only the rims catching corona light.
-- Candle flames and gold dust are instanced. Dust is pulled upward only during ASCENT and TOTALITY.
-- Rib vaults, flying-buttress silhouettes, and a giant circular rose-window / eclipse aperture in the far wall, aligned with the black sun.
-- Limited palette, locked: wet limestone #8a8680, brass #c4a574, verdigris #2f6f66, eclipse crimson #6b1020, corona #ffe9c2, black water #05070c, gold dust #e6c27a. No cyan, no magenta, no neon, no rainbow, no purple-on-black "AI look".
-- Typography: one small title "TOTALITY ENGINE" and beat name, filmic, not a dashboard.
-
-Technical requirements:
-- Three.js from a stable CDN. All HTML, CSS, and JS in this one file.
-- Drive every animation from a single elapsed-time clock with named beat windows. No independent Math.random loops, no Date.now in shaders, no unseeded noise. Seeded RNG only, seed constant 0xA2E1.
-- Camera film uses smooth interpolation with ease-in-out on the big moves, a heavier ease on the pendulum (it has mass), and a long-tail settle into TOTALITY. Linear orbit as the primary camera is a fail.
-- Custom GLSL (ShaderMaterial or full-screen pass), not stock materials pretending:
-1. Water (reflection + fresnel + slow displacement)
-2. Black-sun corona (fire / plasma, not a sprite)
-3. Pendulum lensing (light bends near the bob during THREAD)
-4. Thick glass for at least one planet
-- InstancedMesh for dust, candles, and any repeated stone/brass cells. Do not spawn thousands of free Mesh objects.
-- Post-processing is allowed but cannot replace lighting. If you use bloom, it is a light touch on the corona and candles only. UnrealBloom over the whole scene is a fail.
-- Fog, wet reflections, and the eclipse aperture do the atmosphere. No cheap transparent cones as "god rays" unless they are actually driven by a shader.
-- Responsive, full browser window, handle resize, target 60fps on a 2023 laptop. If you have to choose, cut particle count before cutting the camera film.
-- Small unobtrusive UI: title, current beat, pause, replay. No FPS counter, no dat.gui, no debug helpers left on.
-- No TODO comments, pseudocode, placeholders, missing functions, or "this would be better with X".
-- On load, the film starts itself. A still frame behind a start button is a fail.
-
-Quality bar:
-This should look like a short film still, not a three.js example. If a screenshot at 26 seconds does not read as "cathedral-sized clock at the moment of eclipse," you are not done. Iterate on composition, materials, and camera before adding more objects.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [查看原文](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [線上展示](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="rotatable-3d-shogi-board-2096579856133947507"></a>
-
-### 可旋轉的 3D 將棋棋盤
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/fee01ef0f517af783b6955e6801a2f12f5b38975daffaac3b7c1610d8c184e7d.webp" width="840" loading="lazy" alt="可旋轉的 3D 將棋棋盤"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-製作可對弈的 3D 將棋應用程式，讓棋盤能自由旋轉。透過多輪檢視，逐步改善棋盤、棋子與操作體驗。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [查看原文](https://x.com/hatukougara/status/2096579856133947507) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="exploded-desktop-computer-atlas-2096578761877860502"></a>
-
-### 桌上型電腦的互動拆解圖鑑
-
-[cooper](https://x.com/icooperhero) · 2026-09-06 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/69e81d8e78549aa84cd621ce24d75fdd92fb89186ddcc9692f711656ff07f6e9.webp" width="840" loading="lazy" alt="桌上型電腦的互動拆解圖鑑"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-製作互動式 3D 網站，將桌上型電腦拆分為 29 個核心零組件。加入拆解動畫及各零件的說明。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [查看原文](https://x.com/icooperhero/status/2096578761877860502) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="children-s-room-and-workspace-planner-2096578684010508736"></a>
-
-### 兒童房與工作區配置規劃
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/5e15444806b74d14d92d1dc69f292e3cba1b3112820236e2e54dd8e2f4282100.webp" width="840" loading="lazy" alt="兒童房與工作區配置規劃"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據房間四個角落拍攝的四張照片及尺寸，重建兼作工作區的兒童房。提供成人與兒童視角、整體俯瞰，以及不同的家具配置方案。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [查看原文](https://x.com/dqlh47m/status/2096578684010508736) · [返回案例導覽](#all-prompts)
 
 ---
 

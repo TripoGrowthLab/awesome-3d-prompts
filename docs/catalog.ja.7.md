@@ -28,6 +28,21 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [密林の神殿と巨大なヴァーナラの守護者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
+- [間取り図から完全な 3D ウォークスルーへ](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
+- [操作できるボクセル鉄道ジオラマ](#interactive-voxel-railway-table-2095719731860750613)
+- [ボトルの中で航海するボクセル帆船](#living-voxel-ship-in-a-bottle-2095699049722581065)
+- [生命と嵐を手続き生成する海洋シミュレーション](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
+- [一度で驚きを生む Three.js ゲーム](#one-shot-three-js-surprise-game-2095663498101662198)
+- [Blender で再現するパレス・オブ・ファイン・アーツ](#palace-of-fine-arts-blender-recreation-2095653641164329143)
+- [一つのプロンプトで比べるアクアリウム制作](#single-aquarium-benchmark-2095650251902239139)
+- [一人称・三人称カメラを備えた RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
+- [一つのプロンプトで遊べるリアルタイム 3D ゲーム](#single-playable-real-time-3d-game-2095647685210669541)
+- [3D プリントできる USS エンタープライズの CAD アセンブリ](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Blender で作るモダンなヴィラ](#modern-villa-scene-in-blender-2095636679264780481)
+- [Cycles 向けに手続き生成する大統領執務室](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Unity で作る宇宙トレンチラン](#unity-space-trench-run-game-2095630044102279312)
+- [設計図から Blender、Unreal へつなぐ建築ビジュアル](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
 - [文章から探索できる Unity 都市へ](#text-to-explorable-unity-city-2095623452678144366)
 - [Three.js のビー玉工場](#three-js-marble-factory-2095622065390772322)
 - [フォトリアルな 3D 商品モックアップスタジオ](#photoreal-3d-product-mockup-studio-2095619319690400253)
@@ -63,23 +78,308 @@
 - [正距円筒図法パノラマから作る都市](#city-from-an-equirectangular-panorama-2095159781883597031)
 - [Blender で作るドラゴンの巣窟](#dragon-lair-scene-in-blender-2095149546187653547)
 - [Three.js のマルチプレイ海賊世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
-- [Blender で作る空飛ぶ鍋のアニメーション](#flying-pot-animation-in-blender-2095132939667255657)
-- [がんの進行を示す 3D シミュレーション](#3d-cancer-progression-simulation-2095130778342408331)
-- [流星体崩壊 VFX の改良](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
-- [LOD 対応の強襲ポッド宇宙船](#lod-ready-assault-pod-spaceship-2095126622319845478)
-- [精細に再現する 3D スタジアム](#detailed-3d-stadium-recreation-2095123216419459454)
-- [機構が正しく動く水車村](#mechanically-accurate-water-mill-village-2095123063352561815)
-- [シェーダーで魅せる操作可能な恐竜図鑑](#interactive-shader-driven-dino-dex-2095121568297083067)
-- [ガラス瓶の中で息づくボクセル世界](#living-voxel-world-inside-a-bottle-2095111213927510131)
-- [編集できる 3D キーボードアニメーション](#editable-3d-keyboard-animation-2095111032171876470)
-- [ガンダムに着想を得たメカのショーケース](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [参考デザインから作る Three.js ポートフォリオ](#reference-driven-three-js-portfolio-2095104073590808644)
-- [操作できる F-35A 技術モデル](#interactive-f-35a-technical-model-2095094543339446572)
-- [Three.js で作る MS-06 風メカ](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [HTML ファイル一つで息づく宇宙](#living-universe-in-one-html-file-2095054116372508955)
-- [ネイティブ C++ で作るソウルライクゲーム](#native-c-souls-like-game-2095053114600755576)
 
 </details>
+<a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
+
+### 密林の神殿と巨大なヴァーナラの守護者
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-04 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290"><img src="../assets/previews/867a825910e52a1f4ee03010a0ca7c11c6d7ba340d474277fbedece704f9e178.webp" width="840" loading="lazy" alt="密林の神殿と巨大なヴァーナラの守護者"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+HTML と Three.js で『ラーマーヤナ』に着想を得た映画的作品を作成してください。忘れられた密林の神殿で巨大なヴァーナラの守護者が目覚めます。舞台、アニメーション、背景音楽をコードで制作してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [元の投稿](https://x.com/BuildFastWithAI/status/2095729606066348290) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
+
+### 間取り図から完全な 3D ウォークスルーへ
+
+[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="間取り図から完全な 3D ウォークスルーへ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された間取り図を、建物全体の 3D ウォークスルーに変換してください。部屋の寸法と動線を守り、扉、窓、家具、素材、照明を追加し、間取りが伝わるカメラパスを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [元の投稿](https://x.com/aidarosgo3/status/2095725404883476661) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-voxel-railway-table-2095719731860750613"></a>
+
+### 操作できるボクセル鉄道ジオラマ
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="操作できるボクセル鉄道ジオラマ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.js で精細なボクセル鉄道ジオラマを作成してください。複数の列車の発車と停止、線路切り替え、視点回転とズーム、ミニチュアの街の観察、小さな環境アニメーションの起動を可能にしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [元の投稿](https://x.com/DeryaTR_/status/2095719731860750613) · [デモ](https://lindenhafen-railway.vercel.app/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
+
+### ボトルの中で航海するボクセル帆船
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="ボトルの中で航海するボクセル帆船"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ガラス瓶の中を航海する、精細な 17 世紀のボクセル帆船を作成してください。うねる波と船の揺れ、旋回するカモメ、小さな港とサンゴ礁を加え、映画的なカメラシーケンスと穏やかな音楽を制作してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [元の投稿](https://x.com/DeryaTR_/status/2095699049722581065) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
+
+### 生命と嵐を手続き生成する海洋シミュレーション
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="生命と嵐を手続き生成する海洋シミュレーション"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された単一ファイルの海面・嵐ジェネレーターを、海洋全体の手続き生成へ拡張してください。サンゴ礁、深海、自然な天候、自発的な行動を示す動物群、生態系の相互作用、海上と水中を移動できるカメラを追加してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [元の投稿](https://x.com/emollick/status/2095673885605630429) · [ソースコード](https://github.com/emollick/abyssal-living-deep) · [デモ](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
+
+### 一度で驚きを生む Three.js ゲーム
+
+[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="一度で驚きを生む Three.js ゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+「Amaze」の名にふさわしい独創的な Three.js ゲームを一度で作ってください。驚きのある視覚的な仕組みを一つ選び、数秒で理解できる導入、短い成長の流れ、満足感のある華やかな結末を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [元の投稿](https://x.com/pratt_builds/status/2095663498101662198) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
+
+### Blender で再現するパレス・オブ・ファイン・アーツ
+
+[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Blender で再現するパレス・オブ・ファイン・アーツ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+サンフランシスコのパレス・オブ・ファイン・アーツを Blender で再現してください。円形建築の特徴的な比率、列柱、池、植物、経年変化した素材、万博時代の明るい未来観を感じる映画的照明を表現してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [元の投稿](https://x.com/sharifshameem/status/2095653641164329143) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="single-aquarium-benchmark-2095650251902239139"></a>
+
+### 一つのプロンプトで比べるアクアリウム制作
+
+[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="一つのプロンプトで比べるアクアリウム制作"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された参考画像から、一つのプロンプトで 3D アクアリウムゲームを作成してください。配置と雰囲気を合わせ、生き生きした魚、水の集光模様、周回操作、モデル出力の比較に適した小さな遊びを加えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [元の投稿](https://x.com/iamtonyzhu/status/2095650251902239139) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
+
+### 一人称・三人称カメラを備えた RPG
+
+[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="一人称・三人称カメラを備えた RPG"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.js の RPG に一人称と三人称カメラを追加してください。視点を切り替えても移動と探索を継続できるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [元の投稿](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### 一つのプロンプトで遊べるリアルタイム 3D ゲーム
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="一つのプロンプトで遊べるリアルタイム 3D ゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+一つのプロンプトから、遊べるリアルタイム 3D ゲームを作成してください。小さくまとまった中心的な遊び、明確な目標、短い物語を定め、シーン、キャラクター、小物、フィードバック、リスタート状態を生成して、すぐに遊べるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [元の投稿](https://x.com/higgsfield/status/2095647685210669541) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### 3D プリントできる USS エンタープライズの CAD アセンブリ
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="3D プリントできる USS エンタープライズの CAD アセンブリ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+USS エンタープライズ NCC-1701 へのオマージュとなる、独自の 3D プリント対応 CAD モデルを設計してください。特徴的な比率、ブリッジと一部の内装、少なくとも 28 個の機能する可動部品、分割されたアセンブリ、製造用ファイルの書き出しを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [元の投稿](https://x.com/DeryaTR_/status/2095641163441254676) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Blender で作るモダンなヴィラ
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender で作るモダンなヴィラ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blender でモダンなヴィラのシーンを完成させてください。整合性のある建築、家具付きの室内、インフィニティプール、植栽、リアルなマテリアル、夕日の時間帯を巡る映画的なカメラパスを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [元の投稿](https://x.com/karankendre/status/2095636679264780481) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Cycles 向けに手続き生成する大統領執務室
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Cycles 向けに手続き生成する大統領執務室"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+大統領執務室のセット説明を実行可能なシーンコードに変換してください。Blender で家具、壁、照明、カメラ位置を編集可能に構築し、Cycles で映画的にレンダリングしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [元の投稿](https://x.com/higgsfield_ai/status/2095630197257367857) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Unity で作る宇宙トレンチラン
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity で作る宇宙トレンチラン"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+往年の宇宙トレンチランの感覚を Unity で再現してください。高速の低空飛行、砲台射撃、障害物、照準、増す緊迫感、最終目標、成功または失敗の映画的演出を実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [元の投稿](https://x.com/ronaldmannak/status/2095630044102279312) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### 設計図から Blender、Unreal へつなぐ建築ビジュアル
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="設計図から Blender、Unreal へつなぐ建築ビジュアル"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された建築設計図から正確で編集可能なモデルを Blender で作成し、Unreal Engine に移してください。正しいスケールと衝突判定を備え、照明付きで歩ける建築ビジュアライゼーションに仕上げてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [元の投稿](https://x.com/LinusEkenstam/status/2095624712244072551) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="text-to-explorable-unity-city-2095623452678144366"></a>
 
 ### 文章から探索できる Unity 都市へ
@@ -779,313 +1079,6 @@ Blender で劇的なドラゴンの巣窟を作成してください。主役の
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [元の投稿](https://x.com/aman_kambojj/status/2095137561283010600) · [デモ](https://onepiece-world.vercel.app/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="flying-pot-animation-in-blender-2095132939667255657"></a>
-
-### Blender で作る空飛ぶ鍋のアニメーション
-
-[Ben](https://x.com/alafrayme) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/flying-pot-animation-in-blender-2095132939667255657"><img src="../assets/previews/f3d795685e4ec323d879c05a0500ac6ac3cb27651c53a13f7b76f5bb0310a33d.webp" width="840" loading="lazy" alt="Blender で作る空飛ぶ鍋のアニメーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blender で遊び心のある空飛ぶ料理鍋を作成してください。分かりやすいシルエット、リグまたは手続き的な動き、表情豊かな傾き、素材、照明、短い紹介アニメーションを用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [元の投稿](https://x.com/alafrayme/status/2095132939667255657) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
-
-### がんの進行を示す 3D シミュレーション
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="がんの進行を示す 3D シミュレーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-変異、分裂、血管新生、浸潤、転移を示す教育用 3D がん細胞シミュレーションを作成してください。タイムラインとラベルを加え、各段階を慎重に区別して可視化してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [元の投稿](https://x.com/viewsfrom02108/status/2095130778342408331) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
-
-### 流星体崩壊 VFX の改良
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="流星体崩壊 VFX の改良"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-既存の流星体崩壊 VFX を確認し、破片、熱、軌跡、衝撃波、タイミング、スケール、カメラからの見やすさを改善してください。現在の操作は壊さないでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [元の投稿](https://x.com/gladimdim/status/2095127248470692320) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
-
-### LOD 対応の強襲ポッド宇宙船
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="LOD 対応の強襲ポッド宇宙船"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-強襲ポッド宇宙船の高・低 LOD モデルを再設計してください。シルエットを保ちながら三角形数の予算を守り、パネルの表現を改善して、リアルタイムゲームに使えるアセットにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [元の投稿](https://x.com/gladimdim/status/2095126622319845478) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
-
-### 精細に再現する 3D スタジアム
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="精細に再現する 3D スタジアム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-参考のスタジアムを、移動して見て回れる精細な 3D シーンとして再現してください。客席の段、ピッチ、屋根、照明、スケールを正確に作り、見た目の忠実度と生成費用を比較してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [元の投稿](https://x.com/thebuggeddev/status/2095123216419459454) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
-
-### 機構が正しく動く水車村
-
-[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="機構が正しく動く水車村"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-水車が自然な回転比で歯車、カム、杵を駆動する、動く Three.js の水車村を作成してください。村人や環境の動きも加え、暮らしを感じる風景にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [元の投稿](https://x.com/mira_senor_1102/status/2095123063352561815) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
-
-### シェーダーで魅せる操作可能な恐竜図鑑
-
-[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="シェーダーで魅せる操作可能な恐竜図鑑"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-すべての恐竜がリアルタイム 3D モデルになった、操作できる恐竜図鑑を作成してください。独自の GLSL フレネル表現、効率的な 8 つの WebGL コンテキスト、レスポンシブなカード、詳しい種の説明を用いてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [元の投稿](https://x.com/_Benviz/status/2095121568297083067) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
-
-### ガラス瓶の中で息づくボクセル世界
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="ガラス瓶の中で息づくボクセル世界"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ガラス瓶の中に、層になった海、帆船、灯台、島の暮らしを備えた生きたボクセル世界を作成してください。穏やかな天候、嵐、夜へと移り変わるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [元の投稿](https://x.com/vib3coded/status/2095111213927510131) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
-
-### 編集できる 3D キーボードアニメーション
-
-[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="編集できる 3D キーボードアニメーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-気持ちよいキーの押し込み、照明、カメラ移動を備えた、編集可能な 3D キーボードアニメーションを作成してください。キー表示、色、タイミングを設定可能にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [元の投稿](https://x.com/rege_dev/status/2095111032171876470) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### ガンダムに着想を得たメカのショーケース
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="ガンダムに着想を得たメカのショーケース"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ガンダムに着想を得た独自メカの、完成度の高い Three.js ショーケースを作成してください。機械的な関節動作、大きさが伝わる要素、劇的な照明、細部を観察できるカメラを加えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [元の投稿](https://x.com/usecrayon/status/2095106919530930221) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### 参考デザインから作る Three.js ポートフォリオ
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="参考デザインから作る Three.js ポートフォリオ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された参考デザインを、完成度の高い Three.js サイトとして再現してください。重なり合う粒子、VHS と CRT の質感、流れるような遷移、操作に応じた反応を取り入れてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [元の投稿](https://x.com/MengTo/status/2095104073590808644) · [ソースコード](https://github.com/MengTo/sublevel-studio) · [デモ](https://mengto.github.io/sublevel-studio/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### 操作できる F-35A 技術モデル
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="操作できる F-35A 技術モデル"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-コードで精巧な操作可能 F-35A を生成してください。正確な比率、操縦翼面、着陸装置、コックピットの特徴、ラベル、観察用アニメーションを備えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [元の投稿](https://x.com/SahilExec/status/2095094543339446572) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Three.js で作る MS-06 風メカ
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js で作る MS-06 風メカ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-MS-06 に着想を得た精巧なメカを Three.js で作成してください。主役が明瞭に見える白い背景を使い、説得力のある比率と素材、観察用の操作を用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [元の投稿](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### HTML ファイル一つで息づく宇宙
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="HTML ファイル一つで息づく宇宙"></a>
-
-**プロンプト**
-
-```text
-HTML ファイル一つで、生きた宇宙を作ってください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [元の投稿](https://x.com/tiny_frontier/status/2095054116372508955) · [デモ](https://genesis-demo.tinyfrontier.xyz/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### ネイティブ C++ で作るソウルライクゲーム
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="ネイティブ C++ で作るソウルライクゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Bloodborne に着想を得たソウルライクゲームをネイティブ C++ で作成してください。独自のアート、アニメーション、効果音、音楽、反応のよい戦闘、敵、ボス、完結した短いステージを用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/native-c-souls-like-game-2095053114600755576) · [元の投稿](https://x.com/wizardbrainz/status/2095053114600755576) · [作例一覧に戻る](#all-prompts)
 
 ---
 

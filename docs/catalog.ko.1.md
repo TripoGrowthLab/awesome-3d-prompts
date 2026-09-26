@@ -28,6 +28,21 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [다이내믹한 15초 모션 디자인 쇼릴](#claude-opus-5-5-2103504887439065439)
+- [WebGL2 샌드박스 생존 게임](#claude-opus-5-5-2103502454750920925)
+- [Three.js로 구현한 복셀 스타일 일본식 정원](#gpt-6-astra-2103486103831339269)
+- [3D 불탑 탐색](#claude-opus-5-5-2103483174957597035)
+- [Blender에서 기니피그 만들기](#gpt-6-astra-2103482826519986544)
+- [자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을](#claude-opus-5-5-2103480081809346597)
+- [VRChat용 의상 3D 모델링](#gpt-6-astra-2103456264785424530)
+- [피타야 젤리](#gpt-6-astra-2103432732386664591)
+- [생애 주기 모션 그래픽 애니메이션](#claude-opus-5-5-2103428454355980558)
+- [골든아워의 로마 전장 세트 피스](#gpt-6-astra-2103351755971207251)
+- [STILLWATER — 달빛 어린 늪 브라우저 체험](#gpt-6-astra-2103308083242082314)
+- [인터랙티브 3D 해상 로켓 발사 시퀀스](#claude-opus-5-5-2103303303358534021)
+- [Claude Opus 5.5를 위한 인터랙티브 중세 왕국](#claude-opus-5-5-2103257687492374597)
+- [안개 낀 가을의 탐험형 Three.js 경험](#gpt-6-astra-2103211135214256350)
+- [Northbound: 인터랙티브 바이킹 롱십 여정](#gpt-6-astra-2103187935759655167)
 - [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](#claude-opus-5-5-2103145567945986461)
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](#claude-opus-5-5-2103144530157687114)
 - [시네마틱 아우스터리츠 전투 영화](#claude-opus-5-5-2103116235009347650)
@@ -63,23 +78,973 @@
 - [자동 실행되는 3D 루브 골드버그 장치](#claude-opus-5-5-2102544078927741369)
 - [피터 래빗풍 인터랙티브 농장 동물 게임](#claude-opus-5-5-2102538762731565085)
 - [해 질 무렵의 시네마틱 인터랙티브 해적선](#claude-opus-5-5-2102533729746882985)
-- [끝없이 절차적으로 생성되는 Three.js 월드](#claude-opus-5-5-2102529695908806728)
-- [내부 공간을 포함한 2층 교외 주택](#gpt-6-astra-2102473710724919614)
-- [인터랙티브 군중 대피 시뮬레이션](#claude-opus-5-5-2102467667978572092)
-- [Battle City 3D: 끝없는 탱크 디펜스](#battle-city-3d)
-- [인터랙티브 3D 선사시대 섬](#claude-opus-5-5-2102450239923720440)
-- [Sir, We Have Orc Problems 스타일의 TD 게임](#gpt-6-astra-2102411087002112256)
-- [도쿄 타워 낮·밤 3D 장면과 영상](#gpt-6-astra-2102276620124062065)
-- [버블 베이: 3D 물풍선 배틀](#bubble-bay)
-- [인터랙티브 3D 헬리콥터 디자인 프레젠테이션](#gpt-6-astra-2102215638311694336)
-- [Spline Rush 절차적 브라우저 레이싱 게임](#gpt-6-astra-2102150615635816866)
-- [인터랙티브 3D 태양 모델 웹사이트](#gpt-6-astra-2102038136725377200)
-- [Verdant — 인터랙티브 3D 공룡 섬](#gpt-6-astra-2101730386711634251)
-- [Three.js로 WALL-E 3D 모델 만들기](#gpt-6-astra-2101687900723106104)
-- [탁 트인 바다 위의 돛단배](#gpt-6-astra-2101616345720787130)
-- [타이타닉 — 마지막 빛](#titanic-the-last-light)
 
 </details>
+<a id="claude-opus-5-5-2103504887439065439"></a>
+
+### 다이내믹한 15초 모션 디자인 쇼릴
+
+[ajith\_io](https://x.com/ajith_io) · 2026-09-25 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103504887439065439"><img src="../assets/previews/bf836f2978107860bbdce244af8638a1b9a0d760bce02b1c950121215a8667b2.webp" width="840" loading="lazy" alt="다이내믹한 15초 모션 디자인 쇼릴"></a>
+
+**프롬프트**
+
+```text
+당신이 얼마나 뛰어난 모션 디자이너인지 보여 주는 다이내믹한 15초 모션 그래픽 영상을 제작해 주세요. 이력서에 넣을 쇼릴처럼 구성하고, 역량을 최대한 발휘해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103504887439065439) · [원본 게시물](https://x.com/ajith_io/status/2103449416325890146) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103502454750920925"></a>
+
+### WebGL2 샌드박스 생존 게임
+
+[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="WebGL2 샌드박스 생존 게임"></a>
+
+**프롬프트**
+
+```text
+Minecraft의 감성을 살린 브라우저 샌드박스 게임을 제작하되, 원작과 최대한 가까운 느낌이 들게 하세요. 게임 내 모든 텍스트는 영어로 표시합니다. 조작: 키보드와 마우스(데스크톱).  TECH - 단일 HTML 파일, 순수 WebGL2, 서드파티 라이브러리 사용 금지. - 16×16 텍스처는 모두 코드로 픽셀 아트 스타일로 생성합니다(돌, 흙, 잔디, 판자, 나뭇잎, 광석, 유리, 물, 용암 등). - WebAudio로 채굴, 발걸음, 블록 설치, 피해, 몹, 폭발, 잔잔한 배경 음악 등의 사운드를 합성합니다.  WORLD - 시드가 있는 16×16×128 청크로 구성된 무한 월드. - 바이옴: 평원, 숲, 자작나무 숲, 타이가, 눈 덮인 툰드라, 사막, 산악, 바다, 해변. - 동굴(구불구불한 터널과 거대한 공동), 낮은 지대의 용암, 깊이에 따른 광석 생성: 석탄, 철, 금, 다이아몬드. - 나무 3종, 키 큰 풀, 꽃, 선인장, 사탕수수, 호박. - Minecraft 스타일 조명: 셀 단위로 퍼지는 하늘빛과 블록빛(횃불, 발광석, 용암), 부드러운 조명과 앰비언트 오클루전. - 낮/밤 주기: 태양, 달, 별, 일몰, 3D 구름, 거리 안개, 비. - 물과 용암은 높이 단계에 따라 흐릅니다. 물 근원 2개가 무한한 물을 만들며, 물과 용암이 만나면 흑요석 또는 조약돌이 됩니다. 모래와 자갈은 낙하합니다.  PLAYER - 충돌 판정이 적용되는 1인칭 시점, 점프, 달리기, 웅크리기(가장자리에서 떨어지지 않음), 수영, 사다리, 낙하 피해. - 블록을 부수면 균열 단계와 파티클이 표시되며, 도구에 따라 파괴 시간이 달라집니다. - 휘두르기 애니메이션이 적용된 손과 들고 있는 아이템을 표시합니다. F5로 3인칭 시점으로 전환합니다.  SURVIVAL - 체력, 허기, 포화도, 수중 산소. - 내구도가 있는 5종 재료의 도구와 4종 재료의 방어구. - 2×2 제작이 가능한 인벤토리, 3×3 제작대, 연료를 사용하는 화로, 상자, 침대(밤 건너뛰기 및 스폰 지점 설정). - 아이템 드롭, 사망 및 리스폰. - 몹: 돼지, 소, 양, 닭(번식, 양털 깎기), 야간에 출현하는 좀비, 활을 쏘는 스켈레톤, 거미. 좀비와 스켈레톤은 햇빛을 받으면 불탑니다. - 농사: 괭이, 씨앗, 밀 성장, 빵. 문, 울타리, 울타리 문, TNT.  CREATIVE - Space 두 번 누르기로 비행, 블록 즉시 파괴, 탭과 검색 기능이 있는 모든 블록 카탈로그.  UI - 월드 파노라마가 표시되는 타이틀 화면, 월드 목록(생성 / 삭제 / 플레이), 옵션(FOV, 렌더 거리, 감도, 사운드, 밝기, GUI 크기). - 일시정지 메뉴, 사망 화면, HUD(핫바, 하트, 허기, 방어구, 산소 방울), F3 디버그 화면. - 다음 명령어를 지원하는 채팅: /gamemode, /time, /give, /tp, /summon, /weather. - 월드는 localStorage에 저장합니다.  RESTRICTIONS - Minecraft의 이름, 로고, 텍스처 또는 캐릭터(Steve, Creeper 등)를 사용하지 마세요. 게임에 고유한 이름을 붙이고 몹도 직접 디자인하세요.  TESTING - 헤드리스 브라우저에서 게임을 실행하고 모든 시스템을 점검한 뒤, 버그를 수정하고 전달하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103502454750920925) · [원본 게시물](https://x.com/kepochnik/status/2103524317443363241) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103486103831339269"></a>
+
+### Three.js로 구현한 복셀 스타일 일본식 정원
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Three.js로 구현한 복셀 스타일 일본식 정원"></a>
+
+**프롬프트**
+
+```text
+탑과 작은 마을 주민들, 하늘을 나는 용, 인터랙티브 요소가 어우러진 디테일한 복셀 스타일 일본식 정원을 Three.js로 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103486103831339269) · [원본 게시물](https://x.com/marcthecreatorr/status/2103486103831339269) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103483174957597035"></a>
+
+### 3D 불탑 탐색
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="3D 불탑 탐색"></a>
+
+**프롬프트**
+
+```text
+3D 불탑을 탐색할 수 있는 코드를 구현하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Implement code to be able to navigate in a pagoda in 3D.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103483174957597035) · [원본 게시물](https://x.com/BuildFastWithAI/status/2103483174957597035) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103482826519986544"></a>
+
+### Blender에서 기니피그 만들기
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="Blender에서 기니피그 만들기"></a>
+
+**프롬프트**
+
+```text
+Blender에서 기니피그를 만들어 줘
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103482826519986544) · [원본 게시물](https://x.com/kayokojoe/status/2103482826519986544) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103480081809346597"></a>
+
+### 자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을
+
+[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을"></a>
+
+**프롬프트**
+
+```text
+Three.js를 사용해 "자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을"을 단일 HTML 파일로 제작한 다음, 공유 가능한 웹 페이지로 게시해 주세요.
+
+[기술 제약]
+- cdnjs에서 three.js r128(UMD 빌드)만 사용하세요. 외부 모델이나 이미지를 불러오지 말고, 모든 모델과 텍스처, 상점 간판은 코드와 Canvas로 절차적으로 생성하세요.
+- 모든 상점 이름과 간판, 캐릭터에는 독창적인 콘텐츠를 사용하세요. 실제 브랜드나 기존 작품을 모방하지 마세요.
+- MeshStandardMaterial 또는 MeshPhongMaterial을 사용하세요. 금속도와 환경 반사 맵은 피하세요(일부 컴퓨터에서는 오브젝트가 색상 없이 렌더링될 수 있습니다).
+- 일반적인 컴퓨터에서도 원활하게 실행되도록 정적 오브젝트를 머티리얼별로 병합해 적은 수의 메시로 구성하세요. High / Medium / Low 품질 전환 기능을 제공하세요.
+
+[장면: 봄날 오후의 작은 일본 마을 "桜ヶ丘 (Sakuragaoka)"]
+1. 상점가: 남북으로 뻗은 중심 도로 양쪽에 20곳 이상의 상점이 늘어서 있습니다(라멘집, 카페, 자전거 가게, 서점, 꽃집, 일본식 과자점, 약국, 편의점 등). 각 상점에는 다음 요소를 포함하세요. 여러 줄로 구성된 간판(상점 이름 + 영문 이름 + 전화번호), 물결 모양 장식이 달린 줄무늬 차양, 안쪽으로 들어간 점포 전면과 깊이가 느껴지는 내부, 보도 진열물(과일 상자, 잡지 진열대, 음식 모형 진열장, 회전식 이발소 간판). 위층에는 창문, 에어컨 실외기, 빨래가 걸린 발코니, 옥상 TV 안테나를 배치하세요.
+2. 거리 세부 요소: 수많은 전선이 연결된 전신주, 상점가 배너가 달린 장식 가로등, 축제용 등불 줄, 노란 점자 블록이 있는 사각형 보도 타일, 배수구 덮개, "止まれ" 정지 표지판, 버스 정류장을 배치하세요.
+3. 철도 건널목과 열차: 복선 철도를 구성하세요. 열차가 접근하면 건널목의 빨간 경고등이 번갈아 점멸하고, 경종이 울리며, 차단기가 내려갑니다. 2량 편성 통근 열차는 역에 약 14초간 정차한 뒤 출발합니다. 창문은 투명하게 만들어 내부의 좌석과 손잡이가 보이게 하세요.
+4. 섬식 승강장 역: 역명판, 승강장 지붕, 벤치, 자판기를 배치하세요.
+5. 벚꽃 광장: 나무 둘레에 원형 벤치가 설치된 100년 된 벚나무를 배치하세요.
+6. 이나리 신사: 커다란 주홍색 도리이와 작은 도리이 행렬, 석등, 여우 석상, 배전(청록색 구리 지붕, 치기, 가쓰오기, 헌금함, 매달린 종), 데미즈야, 지장보살상, 에마, 신목, 자갈 바닥을 구성하세요.
+7. 강변 제방: 벚나무 두 줄이 꽃터널을 이루고, 등불과 강, 건너편 강둑의 집, 멀리 보이는 산을 배치하세요.
+
+[벚나무 제작 방법(핵심)]
+- 소메이요시노를 참고해 모델링하세요. 줄기는 낮은 위치에서 3~4개의 굵은 가지로 갈라지고, 각 가지는 다시 세 단계에 걸쳐 재귀적으로 분기됩니다. 가지는 바깥쪽으로 뻗으며 끝부분은 살짝 처져 전체적으로 우산형 수관을 이루게 하세요.
+- 수관은 수만 장의 "꽃송이 클러스터 카드"로 구성하세요. Canvas에 꽃잎 다섯 장의 꽃(끝부분에 홈이 있고, 붉은색 중심과 수술이 있음)을 그리며, 꽃 뒤에는 부드러운 분홍색 바탕 레이어를 배치하세요. 카드에는 alphaTest와 양면 렌더링을 사용하세요.
+- 수관 내부에 분홍색 보충 덩어리를 몇 개 추가해 볼륨감을 주세요. 바깥쪽과 위쪽은 더 밝게, 안쪽과 아래쪽은 따뜻한 장밋빛 그림자가 드리워지게 하세요.
+- 네온 핑크가 아닌 옅은 분홍색을 사용하세요. 수관은 바람에 부드럽게 흔들리고, 각 나무 아래 지면은 떨어진 꽃잎으로 뒤덮이며, 공중에서는 꽃잎이 계속 떨어지게 하세요(셰이더로 구현).
+
+[캐릭터]
+- 애니메이션풍 학생과 마을 사람을 20명 이상 배치하세요. 무릎과 팔꿈치 관절을 사용하는 걷기 애니메이션, Canvas로 그린 애니메이션풍 얼굴(큰 눈, 하이라이트, 홍조)과 눈 깜박임, 여러 가닥으로 나눈 앞머리, 다양한 헤어스타일(긴 머리, 단발, 흔들리는 포니테일, 트윈테일), 세일러복 / 블레이저 교복 / 캐주얼 복장을 적용하세요. 캐릭터는 2톤 셀 셰이딩과 어두운 외곽선으로 렌더링하세요.
+- 사람들이 거리를 걷고, 광장에서 대화하고, 승강장에서 기다리고, 신사에서 참배하며, 자전거를 타고 제방을 달리게 하세요.
+
+[차량]
+- 측면 실루엣을 돌출해 차체를 제작하세요(휠 아치, 창문, 램프, 일본식 번호판, 회전하는 바퀴 포함). 자동차는 철도 건널목 앞에서 정지하고, 경종이 울리는 동안 차단기가 올라갈 때까지 기다리게 하세요.
+
+[조명과 시간대]
+- 부드러운 애니메이션 배경 느낌을 연출하세요. 흰 구름이 있는 푸른 하늘(셰이더), 먼 곳의 옅은 안개, 푸른 보랏빛이 감도는 그림자를 사용하세요.
+- Afternoon / Dusk / Night Sakura 사이를 전환할 수 있게 하세요. 밤에는 창문과 등불, 가로등이 켜지게 하세요.
+
+[조작]
+- 1인칭 시점: WASD로 이동하고, Shift로 달리며, Space로 점프하고, F로 비행하세요. 마우스로 주변을 둘러보고(포인터 잠금), 숫자 키로 각 장소로 순간이동하며, H로 UI를 숨기고, M으로 음소거하세요.
+- 모바일: 화면 왼쪽 절반을 드래그해 이동하고, 오른쪽 절반을 드래그해 주변을 둘러보세요.
+- 충돌을 활성화하고, 플레이어가 승강장과 계단 위로 걸어 올라갈 수 있게 하세요.
+- Web Audio를 사용해 바람 소리, 새소리, 철도 건널목 경종, 열차 주행음을 환경음으로 생성하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
+
+[Technical constraints]
+- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
+- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
+- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
+- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
+
+[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
+1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
+2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
+3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
+4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
+5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
+6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
+7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
+
+[How to build the cherry trees (key part)]
+- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
+- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
+- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
+- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
+
+[Characters]
+- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
+- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
+
+[Vehicles]
+- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
+
+[Lighting and time of day]
+- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
+- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
+
+[Controls]
+- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
+- Mobile: drag on the left half to walk, drag on the right half to look around.
+- Collision is enabled, and the player can walk up onto the platform and steps.
+- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103480081809346597) · [원본 게시물](https://x.com/pound75423/status/2103480085319942353) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103456264785424530"></a>
+
+### VRChat용 의상 3D 모델링
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="VRChat용 의상 3D 모델링"></a>
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
+
+**프롬프트**
+
+```text
+VRChat용 의상 만들어 줘
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+VRChat用の衣装作って
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103456264785424530) · [원본 게시물](https://x.com/Noir4247/status/2103456264785424530) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103432732386664591"></a>
+
+### 피타야 젤리
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="피타야 젤리"></a>
+
+**프롬프트**
+
+```text
+“피타야 젤리”라는 이름의 인터랙티브 3D 장면을 제작하세요. 부드럽고 반투명한 젤리로 만든 용과 반쪽입니다. 실제 WebGPU 렌더링과 WGSL 셰이더를 사용해 전체 프로젝트를 하나의 HTML 파일로 구성하세요. 미리 제작된 모델이나 이미지 에셋은 사용하지 마세요.
+
+APPEARANCE
+
+밝은 스튜디오 표면 위에 자른 면이 위를 향하도록 놓인 커다란 용과 반쪽.
+짙은 라즈베리 핑크색 껍질, 얇고 옅은 색의 속껍질, 진주처럼 하얀 과육.
+과육 전체에 약 250개의 작은 검은 씨가 자연스럽게 분포.
+과일 주변에 12~14개의 도톰한 껍질 꽃잎을 배치하고, 밑동의 분홍색에서 끝부분의 초록색으로 자연스럽게 색이 이어지도록 하세요.
+빛의 굴절과 작은 내부 기포, 부드러운 접촉 그림자가 있는 윤기 나고 촉촉한 표면.
+머티리얼은 딱딱한 플라스틱이 아니라 부드러운 구미 캔디처럼 보여야 합니다. 하이라이트가 날아가지 않도록 채도 높은 색상을 유지하세요.
+
+물리 및 상호작용
+
+탄성 연결과 부피 보존 제약 조건을 적용한 볼류메트릭 메시로, XPBD와 같은 실제 소프트 바디 변형을 구현하세요.
+사용자는 마우스나 손가락으로 과육을 잡아 늘인 다음 놓을 수 있어야 합니다.
+변형은 물체 전체를 단순히 이동시키는 대신 잡은 지점 주변에 집중되어야 합니다.
+놓은 뒤에는 과일이 흔들리고 출렁이며 원래 형태로 서서히 돌아와야 합니다.
+껍질 꽃잎을 각각 드래그할 수 있게 하세요. 과육보다 더 부드럽게 휘고 탄성 있게 되돌아오되, 과일에 붙어 있어야 합니다.
+씨는 변형되는 표면을 따라 움직여야 하며, 떠오르거나 과육 안으로 파고들면 안 됩니다.
+강하게 당길 때도 바닥 접촉을 유지하고 요소가 뒤집히지 않도록 보호해 시뮬레이션을 안정적으로 유지하세요.
+
+비주얼 디자인
+
+에디토리얼 감성의 미니멀한 라이트 테마 스튜디오 인터페이스를 사용하세요. 여백은 넉넉하게 두고, 테두리는 얇게, 컨트롤은 절제된 형태로 구성하며 불필요한 장식은 배제하세요.
+
+왼쪽 상단:
+“MATERIAL STUDIES / NO. 019”
+두 줄로 배치한 큰 이탤릭 세리프 제목:
+“피타야 젤리.”
+
+그 아래에:
+“조금은 야생적이고.”
+“조금은 달콤하고.”
+“아주 부드러운 용.”
+오른쪽에는 “THE SPECIMEN”이라는 제목의 플로팅 패널을 추가하고 다음 항목을 포함하세요.
+
+밀도 배지: ρ 1.04 g/cm³.
+프리셋 3개:
+Pearl — 하얀 과육과 분홍색 껍질.
+Ruby — 라즈베리색 과육과 분홍색 껍질.
+Gold — 옅은 색 과육과 황금색 껍질.
+현재 값이 표시되는 Firmness 및 Internal damping 슬라이더.
+“살짝 밀어 보기” 및 “초기화” 버튼.
+
+“¼ 속도” 및 “메시 표시” 체크박스.
+
+“일시정지” 버튼.
+다음 항목도 포함하세요.
+종료 옵션이 있는 전체 화면 버튼.
+“WEBGPU · LIVE” 상태 표시기.
+질량, 기준 부피 대비 백분율, 운동 에너지를 실시간으로 표시하세요.
+짧은 상호작용 안내: “과육을 당기세요. 꽃잎을 잡아당기세요. 놓아 보세요.”
+구현 방식을 정확하게 설명하는 접을 수 있는 “실험의 내부” 섹션.
+기술 요구 사항
+pitaya-jelly-webgpu.html이라는 이름의 독립 실행형 파일 하나로 제공하세요.
+
+Canvas 2D를 흉내 내지 말고 실제 WebGPU 렌더링을 사용하세요.
+
+모든 지오메트리는 절차적으로 생성하세요.
+두께를 고려한 굴절, 프레넬 반사, 부드러운 스튜디오 조명을 사용하세요.
+일관된 동작을 위해 고정된 시뮬레이션 타임스텝을 사용하세요.
+반응형 레이아웃으로 데스크톱과 터치 상호작용을 지원하세요.
+드래그하는 동안 비용이 큰 지오메트리 재구성이나 셰이더 컴파일이 발생하지 않도록 하세요.
+
+WebGPU를 사용할 수 없을 때 명확한 대체 안내 메시지를 표시하세요.
+
+드래그, 놓기, 형태 복원, 프리셋, 초기화, 일시정지, 전체 화면, 모바일 레이아웃을 검증하세요.
+가장 중요한 우선순위는 설득력 있는 젤리 같은 동작, 아름다운 머티리얼, 만족스러운 상호작용입니다. 완성도 높고 직접 플레이할 수 있는 머티리얼 실험처럼 느껴져야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
+
+APPEARANCE
+
+A large dragon fruit half resting cut-side up on a light studio surface.
+Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
+Approximately 250 tiny black seeds distributed naturally across the flesh.
+12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
+A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
+The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
+
+PHYSICS AND INTERACTION
+
+Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
+Users can grab the flesh with a mouse or finger, stretch it, and release it.
+Deformation should concentrate around the grabbed point rather than simply translating the entire object.
+After release, the fruit should wobble, jiggle, and gradually recover its original shape.
+Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
+Seeds must follow the deforming surface without floating away or sinking into the flesh.
+Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
+
+VISUAL DESIGN
+
+Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
+
+Top left:
+“MATERIAL STUDIES / NO. 019”
+A large italic serif heading on two lines:
+“Pitaya Jelly.”
+
+Below it:
+“A little wild.”
+“A little sweet.”
+“A very soft dragon.”
+On the right, add a floating panel titled “THE SPECIMEN” containing:
+
+Density badge: ρ 1.04 g/cm³.
+Three presets:
+Pearl — white flesh and pink skin.
+Ruby — raspberry-colored flesh and pink skin.
+Gold — pale flesh and golden skin.
+Firmness and Internal damping sliders with visible values.
+“Give it a nudge” and “Reset” buttons.
+
+“¼ speed” and “Show mesh” checkboxes.
+
+A “Pause” button.
+Also include:
+A fullscreen button with an exit option.
+A “WEBGPU · LIVE” status indicator.
+Live readouts for mass, percentage of rest volume, and kinetic energy.
+A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
+A collapsible “Inside the experiment” section explaining the implementation accurately.
+TECHNICAL REQUIREMENTS
+Deliver one self-contained file named pitaya-jelly-webgpu.html.
+
+Use actual WebGPU rendering, not a Canvas 2D imitation.
+
+Build all geometry procedurally.
+Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
+Use a fixed simulation timestep for consistent behavior.
+Support desktop and touch interaction with a responsive layout.
+Avoid expensive geometry reconstruction or shader compilation during dragging.
+
+Show a clear fallback message when WebGPU is unavailable.
+
+Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
+The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103432732386664591) · [원본 게시물](https://x.com/vib3coded/status/2103433535604265052) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103428454355980558"></a>
+
+### 생애 주기 모션 그래픽 애니메이션
+
+[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="생애 주기 모션 그래픽 애니메이션"></a>
+
+**프롬프트**
+
+```text
+당신이 얼마나 뛰어난 모션 디자이너이자 애니메이터인지 보여 주는 역동적인 20초 모션 그래픽 애니메이션 영상을 만들어 주세요. 이력서에 넣을 쇼릴처럼 연출하고, 생애 주기를 주제로 한 인물이 어린 시절에서 청소년기를 거쳐 9 to 5 직장 생활, 가족 생활, 노년기를 지나 죽음에 이르는 과정을 보여 주세요. 그런 다음 처음으로 바로 이어져 반복 재생될 수 있도록 컷을 연결해 주세요. 가능한 모든 역량을 발휘하고, 필요한 것은 무엇이든 활용해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103428454355980558) · [원본 게시물](https://x.com/loicRambo/status/2103428454355980558) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103351755971207251"></a>
+
+### 골든아워의 로마 전장 세트 피스
+
+[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="골든아워의 로마 전장 세트 피스"></a>
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
+
+**프롬프트**
+
+```text
+작업
+제공된 콘셉트 이미지에서 골든아워의 로마 전장 세트 피스를 Blender로 제작합니다. 생성 기능을 사용해도 됩니다. 사용 가능한 생성 도구(Tripo on https://t.co/JV0K8OtuWC))로 환경과 구성 요소의 3D 모델을 생성한 뒤 조합할 수 있습니다. 모든 요소는 하나의 일관된 장면을 구성해야 합니다. 스케일을 맞추고, 머티리얼을 일관되게 유지하며, 조명을 통일하세요.  요구 사항: 지면에 범프 맵을 사용하고 지면을 매우 디테일하게 제작하세요.
+지면에 넓고 비어 있는 원형 공간을 만들고, 주변에 커다란 바위를 배치해 1대1 아레나를 구성하세요.
+모든 요소를 사실적으로 렌더링하세요.
+가능한 경우 에셋을 프로시저럴 방식으로 제작하세요.
+골든아워 하늘을 위한 스카이박스를 제작하세요.
+강한 그림자를 사용하세요.
+오브젝트(깃발, 배너, 투구, 바위 등)를 재사용하세요. 모든 오브젝트를 GLB로 내보내고 해당 에셋을 재사용하세요.
+제공된 이미지와 최대한 가깝고 정확하게 일치시키세요.
+타임랩스 요구 사항
+제작하는 동안 의미 있는 추가 작업이 완료될 때마다(새 오브젝트, 모디파이어 적용 단계, 머티리얼 작업 단계, 조명 작업 단계를 순서대로 포함) 뷰포트 스크린샷을 번호를 매겨 timelapse/ 폴더에 저장하세요. 작업이 끝나면 해당 프레임을 초당 2프레임(프레임당 0.5초)의 타임랩스 영상으로 조합해 처음부터 끝까지 전체 제작 과정을 볼 수 있도록 하세요. 타임랩스 영상은 메인 파일과 함께 납품하세요.
+DELIVERABLES
+카메라와 뷰포트를 설정해 원본 이미지와 시점이 정확히 일치하도록 구성한 .blend 파일.
+제작 타임랩스 영상.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+THE TASK
+Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
+Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
+Render everything realistically.
+Create assets procedurally where possible.
+Create a skybox for golden-hour sky.
+Use harsh shadows.
+Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
+Match the supplied image as closely and accurately as possible.
+TIMELAPSE REQUIREMENT
+While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
+DELIVERABLES
+The .blend file, with camera and viewport set so the view exactly matches the original image.
+The build timelapse video.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103351755971207251) · [원본 게시물](https://x.com/tonysurix/status/2103352274269675532) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103308083242082314"></a>
+
+### STILLWATER — 달빛 어린 늪 브라우저 체험
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — 달빛 어린 늪 브라우저 체험"></a>
+
+**프롬프트**
+
+```text
+Three.js로 STILLWATER라는 브라우저 체험을 제작하세요. 분위기: 길을 잃고 헤매게 되는 달빛 어린 늪. 적이 등장하는 게임이 아닙니다. 사실적인 언리얼 스타일도 아닙니다. 물의 반사가 핵심인, 조용하고 고급스러운 웹 세계를 만드세요. 사람들이 지나치다 싶을 만큼 오랫동안 물을 바라보게 해야 합니다.
+
+배경
+- 장소 제목: THE DEEP SWAMP
+- HUD 시간: 19:26
+- 첫 번째 지명: Heron bend
+- 지명 아래 태그라인: "Leave a little room for the wild."
+- 도착 시 발견 토스트: "Discovered: Heron bend"
+
+세계
+달이 떠오르는 시간대, 늦은 황혼의 물에 잠긴 사이프러스 늪.
+- 검푸른 물 위에 서 있는 키 크고 무릎처럼 울퉁불퉁한 뿌리의 나무
+- 길게 늘어진 스패니시 모스
+- 강둑을 따라 무리 지어 떠 있는 수련 잎
+- 좁고 구불구불한 수로가 더 넓은 물굽이로 이어지는 구성
+- 짙은 볼류메트릭 안개, 청록빛 초원경, 보랏빛과 분홍빛이 감도는 구름 낀 하늘
+- 밝은 달과 수면 위로 길고 끊겨 이어지는 달빛 반사 경로
+- 하늘을 가로지르는 몇 마리의 새
+- 어둠을 가르며 퍼지는 보트의 따뜻한 객실 조명
+
+물 (절대 대충 만들지 마세요)
+이 세계의 주인공입니다.
+- 나무, 달, 안개, 보트 조명의 실시간 반사
+- 바다의 파도가 아닌 잔잔한 너울
+- 수면에 떠서 살랑이는 수련 잎
+- 뿌리 주변의 물거품과 어두운 탄닌색 물
+- 달빛 경로가 영화적으로 보일 만큼 충분한 스크린 공간 반사 또는 평면 반사
+- 60fps를 유지하세요. 나무에는 LOD를 적용하고 식생은 인스턴싱하세요.
+
+보트
+작고 낡은 캐빈 스키프 또는 작업선입니다.
+- 선미의 선체 번호 86
+- 흰색 객실, 짙은 파란색 선체, 따뜻한 실내 램프
+- 수로를 따라 느긋하게 표류하며, 느린 안내 투어를 선택할 수 있음
+- HUD 속도 약 15.9 KNOTS
+- 모드 라벨: GUIDED DRIFT
+플레이어는 주변을 둘러볼 수 있습니다. 영화적인 추적 시점이나 측면 오비트 시점으로 보트를 따라갈 수 있습니다.
+
+카메라
+- 나무 사이에 있는 보트를 3/4 시점으로 시작
+- 달빛 어린 수로를 따라 선미 뒤쪽으로 표류
+- 때때로 전경의 나무줄기를 스치듯 옆으로 이동
+- 드래그하여 둘러보기
+- 선택 가능한 PHOTO MODE
+FPS가 아니라 자연 다큐멘터리처럼 느껴지게 하세요.
+
+UI — 게임스럽지 않은 에디토리얼 스타일
+왼쪽 상단: 작은 마크 + STILLWATER
+상단 중앙: THE DEEP SWAMP / 19:26, 나침반 방위(예: 314°)
+오른쪽 상단: 간결한 유틸리티 아이콘
+왼쪽 하단:
+  EXPLORING STILLWATER
+  Heron bend
+  Leave a little room for the wild.
+  15.9 KNOTS
+  GUIDED DRIFT
+오른쪽 하단: PHOTO MODE, fps, Pause
+화면 중앙 하단: 작은 토스트 "Discovered: Heron bend"
+작은 힌트 행: 셰이더 / 물 / 드래그하여 둘러보기 / 사진 / 야생동물
+
+비주얼
+어두운 필믹 그레이드, 채도를 낮춘 녹색, 마젠타빛 구름, 하나의 달빛 하이라이트. 사실성보다 감각과 완성도를 우선하세요. 비대하고 산만한 디버그 GUI는 사용하지 마세요.
+
+기술
+브라우저에서 실행되는 Three.js. 절차적 방식과 인스턴싱을 활용한 자연물. 커스텀 물 셰이더. 안개. 부드러운 그림자 또는 베이크한 듯한 황혼 조명. 직접 제작할 수 있다면 에셋 스토어의 늪 환경 팩은 사용하지 마세요.
+
+전투, 인벤토리, 깜짝 놀래키는 연출, 보물찾기는 추가하지 마세요. 나중에는 수중에 무언가가 도사리게 할 수 있지만, 지금은 넣지 않습니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103308083242082314) · [원본 게시물](https://x.com/YouWareAI/status/2103310302993621090) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103303303358534021"></a>
+
+### 인터랙티브 3D 해상 로켓 발사 시퀀스
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="인터랙티브 3D 해상 로켓 발사 시퀀스"></a>
+
+**프롬프트**
+
+```text
+새벽녘 해상 플랫폼에서 펼쳐지는 시네마틱하고 디테일이 뛰어난 인터랙티브 3D 로켓 발사 장면을 제작하세요. 완성된 프로젝트 전체를 Chrome에서 바로 열 수 있는 단일 HTML 파일로 제공하세요. Three.js와 WebGL, 절차적 에셋을 사용하세요. 가능한 에셋은 파일에 포함하고, 렌더링 라이브러리에는 신뢰할 수 있는 CDN을 사용해도 됩니다.
+
+아트 디렉션
+일출 전의 어둡고 청자주빛인 바다에서 대기권 위의 따뜻한 햇빛으로 이어지는 극적인 전환을 연출하세요. 설득력 있는 비례, 디테일한 머티리얼, 대기 원근감, 세심하게 구성한 카메라 앵글을 사용하세요. 완성도 높은 미니어처 우주비행 영화처럼 느껴져야 합니다.
+로켓 및 발사 플랫폼
+형태가 잡힌 노즈 콘, 패널 이음매, 구조 링, 단 간 연결부, 엔진 노즐, 두 부분으로 분리되는 페이로드 페어링을 갖춘 설득력 있는 다단 로켓을 제작하세요.
+
+지지 타워, 접이식 스트롱백, 서비스 암, 난간, 사다리, 파이프, 장비, 투광등, 점멸 경고등을 갖춘 디테일한 부유식 발사 플랫폼을 제작하세요. 모든 구조물이 물리적으로 연결되고 올바른 위치에 배치되도록 하세요.
+발사 시퀀스
+약 46초 분량의 시퀀스를 제작하세요.
+
+플랫폼 주변을 보여 주는 도입부 카메라 무브먼트.
+
+서비스 암과 스트롱백이 후퇴합니다.
+엔진이 점화되며 로켓과 플랫폼, 주변 수면을 밝힙니다.
+로켓이 이륙해 가속하는 동안 연기가 갑판 전체로 퍼집니다.
+카메라가 대기권에서 우주를 향한 상승을 따라갑니다.
+1단이 분리되어 떨어져 나갑니다.
+2단 엔진이 점화됩니다.
+페어링이 두 반쪽으로 분리되며 위성이 모습을 드러냅니다.
+엔진이 정지하고 위성이 전개되며 태양광 패널이 펼쳐집니다.
+지구의 굽은 지평선과 일출을 배경으로 한 위성의 궤도 뷰로 마무리하세요.
+프레젠테이션을 위해 비행 타임라인을 압축하되 움직임의 일관성은 유지하세요. 갑작스러운 위치 변화, 서로 교차하는 부품, 연결되지 않은 효과는 피하세요.
+바다, 대기 및 효과
+프레넬 반사와 따뜻한 엔진 라이트 반사가 적용된 애니메이션 셰이더 기반 바다 물결을 사용하세요. 밝은 중심부, 부드러운 외곽 불꽃, 떠다니는 연기 파티클로 구성된 다층 배기 효과를 제작하세요.
+연기는 바람에 반응하며 확산되고 희미해져야 합니다. 단 분리 과정에서도 배기 효과가 올바른 엔진에 계속 연결되어 있어야 합니다. 대기 안개에서 어두운 별빛 배경과 빛을 받은 지구의 가장자리로 자연스럽게 전환하세요.
+
+카메라 및 인터랙션
+넓은 도입부 뷰, 낮은 앵글의 점화 장면, 상승 추적, 단 분리, 위성 클로즈업 등 부드러운 시네마틱 카메라 전환을 사용하세요. 세로 및 가로 레이아웃 모두에서 주요 피사체가 화면에 보이도록 하세요.
+
+재생/일시정지, 다시 재생, 이벤트 마커가 포함된 스크러버를 구현하세요. 탐색 시 올바른 로켓 구성, 파티클 상태, 카메라 위치, 조명을 복원해야 합니다. 다시 재생하면 전체 시퀀스가 깔끔하게 초기화되어야 합니다.
+인터페이스는 최소한으로 구성하고 시선을 방해하지 않게 하세요. 녹화 시 숨길 수 있도록 하세요.
+
+기술적 완성도
+프레임 레이트에 독립적인 애니메이션과 효율적인 파티클 시스템을 사용하세요. 적절한 경우 지오메트리와 머티리얼을 재사용하고, 리사이즈를 올바르게 처리하며, 시각적 디테일과 부드러운 성능의 균형을 맞추세요.
+
+완성된 HTML을 데스크톱 브라우저에서 테스트하세요. 콘솔을 점검하고 점화, 이륙, 단 분리, 위성 전개 시점의 스크린샷을 캡처하세요. 파일을 제공하기 전에 로딩 오류, 클리핑, 지오메트리 문제, 깨진 탐색 기능, 부적절한 카메라 프레이밍을 수정하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
+
+ART DIRECTION
+Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
+ROCKET AND LAUNCH PLATFORM
+Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
+
+Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
+LAUNCH SEQUENCE
+Create an approximately 46-second sequence:
+
+Establishing camera move around the platform.
+
+Service arms and strongback retract.
+Engines ignite, illuminating the rocket, platform, and nearby water.
+Smoke spreads across the deck as the rocket lifts off and accelerates.
+The camera follows the climb from the atmosphere toward space.
+The first stage separates and falls away.
+The second-stage engine ignites.
+The fairing halves separate, revealing a satellite.
+The engine shuts down, the satellite deploys, and its solar panels unfold.
+Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
+Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
+OCEAN, ATMOSPHERE, AND EFFECTS
+Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
+Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
+
+CAMERA AND INTERACTION
+Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
+
+Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
+Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
+
+TECHNICAL QUALITY
+Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
+
+Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103303303358534021) · [원본 게시물](https://x.com/Artless101/status/2103303449831964679) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103257687492374597"></a>
+
+### Claude Opus 5.5를 위한 인터랙티브 중세 왕국
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Claude Opus 5.5를 위한 인터랙티브 중세 왕국"></a>
+
+**프롬프트**
+
+```text
+나만의 중세 왕국을 건설하세요.
+이 왕국은 Claude Opus 5.5를 상징합니다. 믿을 수 있는 중세 배경 안에서 이 모델의 정체성을 건축 양식, 문장 장식, 색상과 분위기로 표현하는 웅장하고 역사적 영감을 받은 성을 설계하세요. 그럴듯한 중세 설정을 지키는 한 예술적 표현에는 제한이 없습니다.
+평범한 성 위에 로고만 배치하지 마세요. 왕국만의 뚜렷한 건축적 개성과 일관된 시각적 아이덴티티를 부여하세요. 왕국의 문장, 왕실 색상과 독창적인 문장 엠블럼을 창작하세요. 애니메이션 깃발, 방패, 성문 장식과 성 경비병의 의상에 이를 표시하세요. 정문 위에는 왕국의 이름을 배치하세요.
+Three.js와 WebGL을 사용해 디테일이 풍부한 인터랙티브 3D 장면을 제작하세요. Chrome에서 바로 열 수 있는 독립 실행형 HTML 파일 하나에 모든 것을 담아 제공하세요.
+성
+중앙 성채, 탑, 흉벽, 성벽, 인상적인 성문, 작동하는 도개교와 안뜰을 갖춘 설득력 있는 요새를 건설하세요.
+정교하게 모델링한 석조 구조물, 아치형 창문, 나무문, 지붕 구조, 계단, 발코니, 철제 장식과 작은 건축 디테일을 포함하세요. 구조물이 실제처럼 느껴지도록 하세요. 탑에는 내부 공간이나 설득력 있는 깊이감이 있어야 하며, 계단은 접근 가능한 층을 연결해야 하고, 다리에는 적절한 지지 구조가 있어야 합니다.
+절벽, 언덕, 강, 해자, 숲 또는 작은 마을 등 왕국에 어울리는 매력적인 풍경으로 성을 둘러싸세요. 여러 각도에서 아름답게 보이는 탄탄한 구도를 설계하세요.
+생동감과 인터랙션
+성벽을 순찰하는 경비병, 안뜰을 오가는 주민, 부드럽게 펄럭이는 깃발, 굴뚝 연기, 새와 깜빡이는 랜턴을 배치해 왕국에 생기를 불어넣으세요.
+사용자가 다음을 수행할 수 있게 하세요.
+도개교와 정문을 열고 닫습니다.
+순찰 중인 경비병을 따라갑니다.
+영화 같은 전경, 안뜰과 성벽 위 시점 사이를 전환합니다.
+자유롭게 회전하고 확대/축소합니다.
+낮, 일몰과 밤 사이를 전환합니다.
+캐릭터가 걸을 수 있는 표면 위에 머물도록 하세요. 벽, 문 또는 서로를 통과하지 못하게 하세요.
+조명과 분위기
+건축물을 명확하게 보여 주는 시네마틱 조명을 연출하세요. 부드러운 그림자, 분위기 깊이감, 필요한 곳의 설득력 있는 물 표현과 절제된 후처리를 사용하세요.
+밤에는 창문, 횃불과 랜턴을 밝히되 성을 감상할 수 있을 만큼의 시야는 유지하세요.
+독창적인 건축과 풍부한 디테일을 갖춘 세련되고 완성도 높은 3D 작품을 목표로 하세요. 뻔한 기본 도형을 모아 놓거나 건축적 목적 없이 탑을 반복해서 배치하는 방식은 피하세요.
+기술적 완성도
+가능한 경우 에셋을 절차적으로 생성하세요. 텍스처와 기타 에셋은 HTML 내부에 포함하세요. 로컬 서버나 빌드 단계가 필요하지 않아야 합니다.
+적절한 곳에는 인스턴싱과 지오메트리 배칭을 사용하세요. 애니메이션과 카메라 조작이 매끄럽게 작동하도록 하세요. 간결하고 세련된 영어 인터페이스와 인터페이스를 숨기는 버튼을 제공하세요.
+실제로 데스크톱 Chrome에서 결과물을 테스트하세요. 스크린샷을 캡처하고 콘솔을 확인하며, 모든 인터랙션을 테스트하고 렌더링 오류, 공중에 떠 있는 오브젝트, 지오메트리 교차와 카메라 문제를 수정하세요.
+이름을 읽기 전부터 누구나 ‘당신의 왕국’이라고 알아볼 수 있는 성을 만드세요.
+완성된 독립 실행형 HTML 파일을 반환하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build your own medieval kingdom.
+Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
+Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
+Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
+THE CASTLE
+Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
+Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
+Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
+LIFE AND INTERACTION
+Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
+Let the viewer:
+Open and close the drawbridge and main gate.
+Follow a guard on patrol.
+Switch between a cinematic overview, the courtyard and the battlements.
+Rotate and zoom freely.
+Change between daylight, sunset and night.
+Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
+LIGHTING AND ATMOSPHERE
+Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
+At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
+Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
+TECHNICAL QUALITY
+Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
+Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
+Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
+Make this a castle people would recognize as YOUR kingdom, even before reading its name.
+Return the completed standalone HTML file.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103257687492374597) · [원본 게시물](https://x.com/vib3coded/status/2103257873203462412) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103211135214256350"></a>
+
+### 안개 낀 가을의 탐험형 Three.js 경험
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="안개 낀 가을의 탐험형 Three.js 경험"></a>
+
+**프롬프트**
+
+```text
+안개와 비가 자욱한 가을의 신비롭고 향수를 불러일으키는 분위기를 담은 탐험형 Three.js 경험을 단일 HTML/CSS/JS 파일로 제작해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103211135214256350) · [원본 게시물](https://x.com/SimonasLTU1/status/2103211135214256350) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103187935759655167"></a>
+
+### Northbound: 인터랙티브 바이킹 롱십 여정
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="Northbound: 인터랙티브 바이킹 롱십 여정"></a>
+
+**프롬프트**
+
+```text
+“Northbound”를 제작하세요. 정교한 바이킹 롱십을 타고 북유럽 피오르를 누비는 아름답고 인터랙티브한 3D 여정입니다.
+
+Three.js와 WebGL을 사용해 진정한 실시간 장면을 구축하고, 독립 실행형 HTML 파일 하나로 제공하세요. 미리 렌더링한 영상이나 평면 일러스트가 아니라, 브라우저에서 직접 탐험할 수 있는 경험이어야 합니다.
+
+비주얼 방향
+
+사실적인 머티리얼, 자연스러운 비율, 절제된 색상을 사용해 완성도 높고 영화적인 환경을 구현하세요. 만화풍이나 로우폴리 스타일은 피하세요.
+
+목조 롱십이 깊은 녹청색 물 위를 지나며 높은 절벽, 울창한 숲, 폭포, 작은 북유럽 정착지 사이를 항해합니다. 대기 원근, 은은한 안개, 부드러운 그림자, 설득력 있는 깊이감을 사용하세요. 처음 카메라 위치에서만 아름답게 보이는 것이 아니라, 여정 전체에서 멋진 장면을 연출하세요.
+
+롱십
+
+나무 판재가 겹쳐진 구조, 선명한 나뭇결, 늑재, 벤치, 끊김 없는 내부 공간을 갖춘 정교하고 물이 새지 않는 선체를 제작하세요.
+용을 조각한 선수, 줄무늬 천 돛, 돛대, 밧줄, 방패, 보급품, 따뜻한 랜턴을 추가하세요.
+비율에 맞는 바이킹 승객과 노잡이를 배치하고, 여러 겹의 의상과 자연스러운 착석 포즈를 적용하며, 손은 노 근처에 오도록 하세요.
+모든 구성 요소가 물리적으로 연결되어 있어야 합니다. 공중에 떠 있는 승객, 서로 관통하는 장신구, 선체 내부가 보이는 틈은 허용하지 마세요.
+미세한 부력, 피치, 롤을 애니메이션으로 표현하세요. 돛은 바람에 부드럽게 반응해야 합니다.
+
+물과 노 젓기
+
+물을 핵심 시각 요소로 구현하세요.
+
+평면 반사, 굴절, 프레넬 하이라이트, 깊이에 따른 흡수, 얕은 수역 표현, 여러 겹의 수면 잔물결을 지원하는 커스텀 셰이더를 사용하세요. 반사는 움직이는 카메라와 변화하는 조명에 올바르게 반응해야 합니다.
+
+선박 뒤에 설득력 있는 항적을 만드세요.
+
+완전한 노 젓기 사이클을 애니메이션으로 구현하세요. 노가 물에 들어가 뒤로 당겨지고, 물 밖으로 올라온 다음 수면 위로 돌아와야 합니다. 이 동작을 노잡이의 움직임과 동기화하세요.
+
+실제 노와 물이 접촉하는 지점에 잔물결, 거품, 작은 물방울을 생성하세요. 흔적은 월드 공간에 남아 서서히 사라져야 합니다. 노가 공중에 있을 때 효과가 나타나지 않도록 하세요.
+
+환경과 머티리얼
+
+정교한 지형, 불규칙한 암석 지형, 자연스러운 나무 실루엣, 가지가 뻗은 줄기, 개별 잎 또는 침엽 클러스터를 사용하세요.
+
+나무, 돌, 지면에 노멀 맵과 러프니스 맵을 적용한 PBR 머티리얼을 사용하세요. 적절한 라이선스를 획득한 텍스처는 임베드해도 되지만, 필요한 경우 출처를 표기하세요.
+
+수중 지형이 수면 아래로 계속 이어지도록 하세요. 밝은 이음새, 해안선의 틈, 공중에 떠 있는 식생, 항해 경로를 가로막는 나무가 없어야 합니다.
+
+CONTROLS
+
+A/D 또는 방향키: 좌우로 조타합니다.
+W/S: 속도를 조절합니다.
+마우스 드래그: 주변을 둘러봅니다.
+추적, 오빗, 시네마틱 카메라 모드를 제공하세요.
+선택 사항으로 자동 여정 모드를 추가하세요.
+일시정지, 초기화, 전체 화면, 인터페이스 숨기기 컨트롤을 추가하세요.
+모바일에서 터치 조타와 속도 조절을 지원하세요.
+선박이 지형과 바위를 뚫고 지나가지 않도록 하세요.
+
+분위기와 인터페이스
+
+아침, 흐림, 달빛의 세 가지 조명 프리셋을 부드럽게 전환할 수 있도록 하세요.
+
+선택 사항으로 잔잔한 물소리, 바람, 새소리, 노 젓는 소리를 추가하세요. 오디오는 사용자가 상호작용한 후에만 재생을 시작해야 합니다.
+
+미니멀한 에디토리얼 인터페이스를 디자인하세요. 우아한 세리프 서체로 “Northbound.”를 표시하고, 은은한 챕터 라벨과 작고 반투명한 컨트롤 바를 사용하세요. 풍경을 가리지 않도록 하세요.
+
+성능과 전달
+
+인스턴싱, 합리적인 지오메트리 예산, 거리에 따른 디테일 조절, 적절한 크기의 반사 렌더 타깃을 사용하세요. 고정 프레임 레이트를 보장한다고 약속하지 말고, 기기에 맞춰 렌더링 품질을 조정하세요.
+
+스크립트와 필요한 에셋을 임베드한 HTML 파일 하나로 제공하여 최신 브라우저에서 바로 열 수 있도록 하세요.
+
+조타, 카메라 모드, 조명 전환, 노 젓기를 테스트하세요. 여러 각도에서 선박을 살펴보고 낮은 시점에서 해안선을 확인하세요. 장면이 완성되었다고 판단하기 전에 지오메트리 교차, 반사 아티팩트, 과도한 눈부심, 콘솔 오류를 수정하세요.
+
+더 많은 오브젝트를 추가하기보다 설득력 있는 물, 아름답게 제작된 롱십, 조화로운 환경을 우선하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
+
+Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
+
+VISUAL DIRECTION
+
+Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
+
+A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
+
+THE LONGSHIP
+
+Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
+Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
+Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
+Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
+Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
+
+WATER AND ROWING
+
+Make the water a central visual feature.
+
+Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
+
+Create a believable wake behind the ship.
+
+Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
+
+Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
+
+ENVIRONMENT AND MATERIALS
+
+Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
+
+Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
+
+Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
+
+CONTROLS
+
+A/D or arrow keys: steer left and right.
+W/S: adjust speed.
+Mouse drag: look around.
+Provide follow, orbit, and cinematic camera modes.
+Include an optional automatic journey mode.
+Add pause, reset, fullscreen, and hide-interface controls.
+Support touch steering and speed controls on mobile.
+Prevent the ship from passing through land and rocks.
+
+ATMOSPHERE AND INTERFACE
+
+Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
+
+Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
+
+Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
+
+PERFORMANCE AND DELIVERY
+
+Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
+
+Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
+
+Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
+
+Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2103187935759655167) · [원본 게시물](https://x.com/vib3coded/status/2103189762672611675) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103145567945986461"></a>
 
 ### 여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상
@@ -1767,878 +2732,6 @@ Create from scratch a fully interactive 3D scene of a pirate ship sailing across
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102533729746882985) · [원본 게시물](https://x.com/vib3coded/status/2102534606121746589) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102529695908806728"></a>
-
-### 끝없이 절차적으로 생성되는 Three.js 월드
-
-[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="끝없이 절차적으로 생성되는 Three.js 월드"></a>
-
-**프롬프트**
-
-```text
-내 프로젝트 폴더에 "endless-game"이라는 새 프로젝트를 만들어 주세요. 브라우저에서 실행되는 Three.js 기반의 끝없이 절차적으로 생성되는 월드로, 제가 자유롭게 돌아다니며 그저 즐길 수 있게 해 주세요. 플레이 시간이 아무리 길어져도 모든 구역이 무작위로 생성되고 곳곳에서 surprises를 만날 수 있어야 합니다. 슈퍼마켓 시뮬레이터의 아늑하고 만족스러운 분위기처럼 차분하고 편안하면서도 정말 재미있어야 하지만, 슈퍼마켓 게임이어서는 안 됩니다. 돌아다니며 탐험할 만한 매우 흥미로운 월드와 만나서 상호작용할 수 있는 개체, 아주 멋진 그래픽을 구현해 주세요. 프로젝트의 명확한 목표를 설정하고 그 목표에 도달할 때까지 계속 작업한 다음, 제가 플레이하고 테스트할 준비가 되면 효과음을 재생해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102529695908806728) · [원본 게시물](https://x.com/argofowl/status/2102529695908806728) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102473710724919614"></a>
-
-### 내부 공간을 포함한 2층 교외 주택
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="내부 공간을 포함한 2층 교외 주택"></a>
-
-**프롬프트**
-
-```text
-안녕하세요. 내부 공간과 모든 요소를 포함한 2층 교외 주택의 3D 모델을 Blender로 최대한 완성도 높게 제작해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102473710724919614) · [원본 게시물](https://x.com/azer0lxm/status/2102473781830909995) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### 인터랙티브 군중 대피 시뮬레이션
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="인터랙티브 군중 대피 시뮬레이션"></a>
-
-**프롬프트**
-
-```text
-인터랙티브 군중 대피 시뮬레이션을 만들고 어디에서 이동이 정체되는지 확인해 보세요
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102467667978572092) · [원본 게시물](https://x.com/dominikmartn/status/2102467667978572092) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: 끝없는 탱크 디펜스
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D: 끝없는 탱크 디펜스"></a>
-
-**프롬프트**
-
-```text
-1. 프로젝트 목표
-1985년 패미컴 클래식에서 영감을 받은 브라우저 탱크 방어 게임 Battle City 3D를 제작합니다. 플레이어는 탱크를 조종해 적 20대를 한 웨이브에서 처치하고, 보급품을 수집하며 독수리 본부를 지킵니다. 레퍼런스 미디어에 표시된 현재의 원근 3D 버전을 재현하고, 시드 기반 무한 캠페인과 선택 가능한 클래식 레이아웃 35종을 포함합니다. 탱크, 벽, 배경에 실제 깊이감을 부여하되, 이해하기 쉬운 아케이드 규칙은 유지합니다.
-
-2. 비주얼 스타일
-Three.js PerspectiveCamera를 사용하고 시야각은 60도로 설정합니다. 기본 전장은 플레이어 뒤쪽 위에서 바라보며, 약 13월드 유닛 거리와 0.43라디안 높이에 배치합니다. 탱크의 위치와 탱크 앞쪽의 한 지점을 부드럽게 추적하되, 탱크가 회전할 때 카메라가 자동으로 회전하지 않도록 합니다. 더 높은 전술 시점, 수동 드래그 오비트, 휠 줌을 제공합니다. 이동과 사격에는 맵의 네 가지 기본 방향 축을 사용합니다. 오비트 후에는 방향키를 카메라 기준으로 가장 가까운 기본 방향에 매핑하되, 키보드 입력으로 대각선 이동이 발생하지 않도록 합니다. 차체의 진행 방향은 발사 방향과 즉시 일치시키고, 각 모델의 실제 포신 위치에 맞춰 탄환과 포구 섬광의 높이를 조정합니다.
-지면에 안정적으로 놓인 궤도형 탱크, 금속 포탑, 테라코타 벽돌, 짙은 강철 블록, 푸른 물, 낮은 식생과 반사되는 얼음을 사용합니다. 플레이 가능 영역 너머의 지면도 나무, 폐허 건물, 안개가 있는 배경으로 이어지게 합니다. 따뜻한 방향광, 부드러운 그림자, 주변광, ACES 톤 매핑을 사용하고, 포구 섬광·반동·불꽃·튀어 오르는 파편은 절제된 수준으로 표현합니다. 설원 스테이지에서는 지면과 나무의 색상 팔레트를 바꾸고, 산업 스테이지에서는 강철과 폐허 건물을 중심으로 구성합니다.
-게임 화면은 짙은 올리브색 지휘 인터페이스로 구성하고, 주요 액션은 따뜻한 노란색으로 강조합니다. 점수, 공유 목숨 수, 남은 적 아이콘, 스테이지 이름, 레이더를 표시합니다. 전장 위에는 큰 Tripo 3D / Three.js 모델 전환 UI를 배치해 현재 선택된 모드와 회전하는 탱크 미리보기를 보여 줍니다. 현지화된 일러스트 보급품 가이드와 지속시간 효과 표시기를 사용합니다. 좁은 화면에서도 플레이 영역과 필수 터치 조작부가 계속 보이게 합니다.
-
-3. 월드와 씬
-전장은 26×26 타일 그리드로 표현하고, 탱크 충돌 반너비는 0.72로 설정합니다. 독수리는 (13,25)에 배치하며, 파괴 가능한 U자형 벽돌 방어 시설로 둘러쌉니다. 플레이어 스폰 위치는 (9,25)와 (17,25), 적 게이트 위치는 (1,1), (13,1), (25,1)입니다.
-두 가지 캠페인을 제공합니다. 하나는 적 20대 웨이브 테이블이 포함된 클래식 레이아웃 35종 전체를 사용하고, 다른 하나는 풀밭·설원·산업 바이옴을 순환하는 시드 기반 무한 생성기입니다. 전체 차체가 통과할 수 있을 만큼 넓고 연결된 통로를 생성하며, 플레이어 스폰 지점·적 게이트·아이템 위치 사이에 통행 가능한 연결을 확보합니다. 중앙에는 어긋나게 배치한 강철 엄폐물을 추가해 스폰 지점에서 독수리로 곧장 사격할 수 없도록 하되, 교차로를 통한 접근은 유지합니다. 시작 바이옴이나 클래식 스테이지를 선택하고 무작위 맵을 다시 생성할 수 있게 합니다. 런 시드, 점수, 목숨, 생존한 플레이어의 업그레이드를 다음 스테이지로 이어 갑니다.
-벽돌은 파괴할 수 있고, 강철 블록은 일반 포탄과 탱크를 막습니다. 물은 탱크의 통과를 막지만 포탄은 통과시키며, 식생은 적 모델을 가리고, 얼음은 접지력을 낮춥니다. 원거리 환경은 장식용으로 유지하고 게임플레이 충돌과 분리합니다.
-
-4. 에셋 목록
-안정적으로 관리하고 개별 교체할 수 있는 다음 3D 모델 슬롯을 사용합니다. 플레이어, 적, 중전차, 독수리를 우선 배치한 뒤 보급품 모델 10종을 모두 추가합니다. 모든 에셋은 가장 낮은 지점이 지면에 닿도록 배치하고, 정면 방향·중심·스케일을 정규화합니다. 적마다 모델을 새로 로드하지 말고 템플릿을 재사용합니다.
-- player: 식별하기 쉬운 포탑과 전방 포신을 갖춘 겨자색 궤도형 탱크입니다. 플레이어 탱크에 사용하며, 두 번째 플레이어에는 별도의 링 색상을 적용합니다.
-- enemy: 소형 궤도형 적 탱크입니다. 기본형, 고속형, 강력형 변종에는 서로 다른 색조를 적용해 재사용합니다.
-- heavy: 표준 적 메시와 분리된, 눈에 띄게 무거운 장갑 탱크입니다. 차체 위에는 네 개의 장갑 세그먼트가 보이게 합니다.
-- eagle: 본부 받침대 위에 놓인 금속성 황금 독수리 동상입니다.
-- pickup-star: 다섯 꼭짓점을 가진 금색 업그레이드 별입니다.
-- pickup-helmet: 일시적인 방어막 효과를 위한 군용 보호 헬멧입니다.
-- pickup-clock: 적의 움직임을 멈추는 데 사용하는 식별하기 쉬운 시계입니다.
-- pickup-shovel: 본부를 강화하는 삽입니다.
-- pickup-life: 목숨 하나를 나타내는 미니어처 탱크입니다.
-- pickup-grenade: 활성 상태인 적을 파괴하는 수류탄입니다.
-- pickup-ammo: 연사 효과를 위한 탄약 상자입니다.
-- pickup-repair: 장갑을 복구하는 수리 공구 상자입니다.
-- pickup-magnet: 원거리에서 보급품을 수집하는 말굽 자석입니다.
-- pickup-boost: 일시적인 속도 증가 효과를 위한 에너지 배터리입니다.
-- environment-building: 풍화된 폐허 아파트 건물, Tripo P2.0, 요청 예산 1,800 트라이앵글입니다.
-- environment-tree: 줄기가 드러난 불규칙한 소나무, Tripo P2.0, 요청 예산 1,100 트라이앵글입니다.
-- environment-bush: 낮은 잎 관목과 풀숲, Tripo P2.0, 요청 예산 650 트라이앵글입니다.
-보급품은 색상 링과 일치하는 가이드 썸네일을 함께 사용하고, 회전하며 공중에 떠 있는 수집 가능 모델로 표시합니다. 반복되는 건물, 나무, 관목은 공유 지오메트리와 머티리얼 인스턴스로 렌더링합니다. 건물과 나무의 뿌리는 지면에 맞추고, 관목 밑부분은 지형과 자연스럽게 섞이도록 약간 묻습니다. 설원 스테이지에서는 위를 향한 표면에 눈을 추가합니다. 타일 벽, 물, 얼음, 탄환 메시, UI, 조명, 파티클, 충돌 프록시는 절차적으로 생성합니다. 물은 월드 공간에서 흐르는 파동, 변화하는 노멀, 작은 표면 변위를 사용해 애니메이션하며, 인접한 타일 사이에서도 끊김 없이 이어지게 합니다. Tripo 버전은 생성 모델 17개를 사용하고, 비교 버전은 동일한 규칙과 충돌을 유지하면서 탱크와 환경을 모두 코드로 제작한 지오메트리로 전환합니다. 두 버전 모두 Three.js로 렌더링합니다.
-
-5. 게임플레이와 피드백
-공유 목숨 3개를 사용하는 싱글 플레이와 로컬 2인 협동 플레이를 지원합니다. 싱글 플레이에서는 WASD 또는 방향키로 이동하고 Space/J로 사격합니다. 협동 플레이에서는 1P가 WASD와 Space/J를 사용하고, 2P가 방향키와 Enter/Numpad 0을 사용합니다. P/Escape로 일시정지하고, C로 카메라를 변경하며, 1/2로 모델 모드를 선택합니다. 터치스크린에서는 방향 패드와 발사 버튼을 동시에 누를 수 있게 하고, 포인터 취소 시 입력을 해제합니다. 스크롤하지 않고도 일시정지, 재개, 다음 스테이지, 재시도 동작을 사용할 수 있게 합니다.
-플레이어 속도는 초당 4.2유닛이며, 부스트 사용 시 6.3입니다. 적은 기본형, 고속형, 강력형, 중전차로 구성합니다. 중전차는 체력 4를 가지며, 방어막이 없는 상태에서 처음 세 번 피격되어도 생존합니다. 적 처치 점수는 유형별로 100, 200, 300, 400점이며, 보급품을 수집할 때마다 500점을 획득합니다. 적 20대를 처치하면 스테이지를 클리어합니다. 독수리가 파괴되거나, 생존한 플레이어가 없는 상태에서 공유 목숨이 모두 소진되면 패배합니다. 즉시 재시도, 명확한 다음 스테이지 진행, 로컬에 저장되는 최고 점수를 제공합니다.
-보급품 10종을 모두 구현합니다. 별은 세 단계로 업그레이드되며, 빠른 포탄, 포탄 2발 동시 발사, 강철을 파괴하는 포탄 순서로 효과가 강화됩니다. 헬멧은 12초 동안 방어막을 제공하고, 시계는 9초 동안 적을 멈춥니다. 삽은 16초 동안 기지를 강화하며, 미니 탱크는 목숨 1개를 추가합니다. 수류탄은 활성 상태인 적을 파괴하고, 탄약은 최대 4발의 포탄을 동시에 유지하는 14초 연사 효과를 부여합니다. 수리는 체력을 2 회복하되 최대 체력은 3으로 제한하고, 자석은 5유닛 이내에 보이는 보급품을 20초 동안 수집합니다. 부스트는 12초 동안 지속됩니다. 보급품 모델은 25초 동안 유지되며 도달 가능한 위치에 나타납니다. 종류가 다양하게 나오도록 섞은 덱을 사용합니다. 자석 수집은 단단한 장애물을 무시하지 않아야 합니다.
-수집한 NES 스타일 샘플을 4.333초 길이의 스테이지 오프닝, 발사, 주행, 대기, 벽돌·강철 충돌, 적·플레이어 폭발, 보급품 생성·수집, 추가 목숨, 장갑 피격, 얼음, 일시정지, 게임 오버에 사용합니다. 현재 프로젝트는 JustoSenka/BattleCity의 OGG 큐 15개와 커밋 3a07004ba8e53baea74ff70d2ecc22b017eb9b20을 사용합니다. 출처 표기와 저장소 라이선스 고지를 유지하고, 비트 단위로 완전히 동일한 하드웨어 캡처라고 주장하지 말고 수집된 리메이크 오디오로 설명합니다. 사용자 제스처로 오디오를 활성화하고, 샘플 게인을 조정하며, 볼륨·음소거 기능을 제공하고, 사운드를 이벤트에 동기화합니다. 관련 없는 연속 배틀 음악은 추가하지 않습니다.
-
-6. 기술 구현
-TypeScript, Three.js 0.180.0, Vite 7을 사용하고, package.json과 lockfile은 별도로 격리합니다. 시뮬레이션은 렌더링과 분리하고 120Hz로 업데이트합니다. 단단한 차체 AABB, 축 분리 이동, 경계 처리와 탱크 간 분리, 가장 가까운 접점을 연속적으로 검사하는 탄환 스윕을 사용하며, 서로 반대 방향으로 움직이는 탄환 사이의 상대 운동 충돌도 처리합니다. 탄환은 차체에서 생성되어 앞으로 스윕되므로 근거리에서 벽을 뚫고 지나가는 현상을 방지합니다. 얼음 위의 가속·감속과 감쇠된 바운스를 적용한 파편의 중력을 추가합니다. 이는 서스펜션 시뮬레이터가 아닌 아케이드 지상 물리입니다.
-GLTFLoader로 동일 출처의 GLB 에셋을 로드합니다. 충돌 프록시는 에셋 지오메트리와 분리합니다. 현재 런타임은 양자화된 속성과 WebP 텍스처를 사용하며(차량·기지는 1024px, 보급품·환경은 512px), 지오메트리 단순화나 WASM 디코더는 사용하지 않습니다. 로딩 워커는 4개로 제한하고, 해시 버전 URL과 256KiB 범위 요청을 사용하며, 각 범위 요청의 타임아웃은 20초, 시도 횟수는 최대 3회로 설정합니다. 핵심 모델 4개와 오디오가 준비되면 플레이를 활성화하고, 보급품과 환경 에셋은 백그라운드에서 로드합니다. 모델이 준비된 보급품 유형만 생성합니다. 모델 모드를 전환해도 게임플레이 상태는 유지합니다.
-영어, 중국어 간체, 일본어, 한국어 UI를 제공합니다. 기기 언어를 기준으로 기본 언어를 선택하되, zh-TW, zh-HK, zh-MO, zh-Hant는 영어를 기본값으로 사용합니다. 사용자가 명시적으로 선택한 언어는 저장합니다. 키보드, 데스크톱 포인터, 멀티터치를 지원하고 포커스를 잃으면 일시정지합니다. 모든 에셋, 크레딧, 재현 가능한 스크립트는 소스 프로젝트에 로컬로 포함하고, 비공개 자격 증명이나 런타임 백엔드 의존성 없이 정적 dist 디렉터리를 배포합니다.
-
-7. 완료 기준
-편집 가능한 소스, 에셋 출처와 라이선스 고지, npm 개발·빌드 워크플로, 플레이 가능한 정적 미리보기를 제공합니다. 기본 Tripo 씬, 모델 비교, 모든 바이옴, 네 번 피격되어야 하는 중전차, 모든 보급품 효과, 일시정지·재개, 패배·재시도, 스테이지 진행을 검증합니다. 차체 폭 기준 연결성과 안전한 스폰을 위해 시드 기반 맵 1,000개를 테스트하고, 모든 클래식 맵, 벽 관통, 대각선 사격, 탱크 분리, 얼음 관성, 여러 요에서의 카메라 상대 입력, 상태를 보존하는 모드 전환도 테스트합니다. 현지화된 UI와 좁은 화면의 두 손가락 조작을 검증하되, 실제 기기 테스트를 에뮬레이션만으로 수행한 경우에는 실제 기기에서 테스트했다고 주장하지 않습니다. 실제 시작 화면과 전투 프레임을 레퍼런스 이미지·영상과 비교하고, 모델 17개와 오디오 큐 15개가 모두 로드되는지 확인합니다. 기존 CMS Web Page 워크플로를 통해 게시한 뒤 최종 공개 페이지를 검증합니다. 저장된 CMS 레코드를 배포 완료로 간주해서는 안 됩니다.
-
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/battle-city-3d) · [데모](https://battle-city-3d.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102450239923720440"></a>
-
-### 인터랙티브 3D 선사시대 섬
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="인터랙티브 3D 선사시대 섬"></a>
-
-**프롬프트**
-
-```text
-Three.js와 WebGL을 사용해 아름답고 디테일이 뛰어난 완전한 인터랙티브 3D 선사시대 섬을 제작하세요. Chrome에서 바로 열 수 있는 독립 실행형 HTML 파일 하나로 모든 결과물을 제공하세요. 가능한 경우 에셋을 파일에 임베드하세요.
-
-비주얼 방향
-바다로 둘러싸인 크고 둥근 섬을 만들고, 투명한 수중 단면을 구현하세요. 결과물은 풍성한 식생, 생동감 있는 공룡, 질감이 풍부한 머티리얼, 분위기 있는 라이팅, 완성도 높은 애니메이션을 갖춘 프리미엄 미니어처 세계처럼 보여야 합니다. 단순한 기하학적 도형이 아니라 일관성 있는 스타일라이즈드 아트 디렉션을 사용하세요.
-ISLAND
-해변, 바위 절벽, 울창한 선사시대 숲, 거대한 양치식물, 폭포, 담수 연못, 화산이 어우러진 다양한 지형을 만드세요. 작은 연구 기지, 목재 보도, 관찰 플랫폼, 보급 상자, 공룡 둥지도 추가하세요. 섬은 공룡들이 서로 다른 구역 사이를 자연스럽게 이동할 수 있을 만큼 넓게 구성하세요.
-
-수중 단면
-물은 섬 주변을 감싸는 깊고 둥근 형태의 볼륨으로 만들고, 측면을 통해 수중 풍경이 뚜렷하게 보이게 하세요. 텍스처가 적용된 해저, 바위, 수생 식물, 물고기, 기포, 그리고 수면 아래를 헤엄치는 초록색 해양 파충류를 포함하세요. 일반적인 육상 공룡을 물속에 배치하지 말고 잠수함도 추가하지 마세요.
-애니메이션 웨이브, 프레넬 반사, 수중 빛무늬, 해안선의 포말과 물보라를 사용하세요. 투명도 정렬 아티팩트와 섬과 물 사이에 보이는 틈이 발생하지 않게 하세요.
-
-DINOSAURS
-긴 목의 용각류, 트리케라톱스, 스테고사우루스, 대형 수각류, 소형 무리 동물 등 서로 구분되는 여러 종을 포함하세요. 머리 위를 선회하는 익룡도 추가하세요.
-모든 종에 알아보기 쉬운 해부학적 특징, 형태가 잡힌 몸체, 관절이 표현된 팔다리, 디테일한 머리, 꼬리, 종에 맞는 피부 패턴을 부여하세요. 완성된 공룡을 뻔한 박스나 서로 분리된 구체만 조합해 만들지 마세요.
-
-자연스러운 애니메이션
-관절 위치가 정확한 계층형 스켈레톤을 사용하세요. 보행에는 명확한 지지 구간과 스윙 구간이 있어야 하며, 발은 접지 중 제자리에 유지되고 각 걸음마다 자연스럽게 들어 올려져야 합니다. 보폭은 이동 속도에 맞추세요.
-
-지형 샘플링과 역운동학을 사용해 발이 지면에 닿아 있도록 하세요. 체중 이동, 미세한 몸의 움직임, 균형 잡힌 꼬리 움직임, 머리 회전, 호흡을 추가하세요. 공룡이 떠 있거나 미끄러지거나 지면과 교차하거나 건물, 바위, 나무 또는 서로를 통과하는 일이 절대 없도록 하세요.
-장애물 회피와 안전한 이동 경로를 사용하세요. 종마다 이동 속도, 보행 패턴, 행동이 달라야 합니다. 해양 동물은 이동 방향을 향해야 합니다.
-
-INTERACTION
-사용자가 다음을 수행할 수 있게 하세요.
-
-카메라를 자유롭게 회전하고 확대·축소하며 수중 단면을 살펴볼 수 있게 하세요.
-공룡을 선택하면 부드럽게 움직이는 카메라가 해당 공룡을 따라가게 하세요.
-
-적절한 위치에 먹이를 놓고 주변 공룡들이 다가와 먹는 모습을 관찰할 수 있게 하세요.
-
-물을 마시기, 쉬기, 울음소리 내기, 무리 이동을 실행할 수 있게 하세요.
-
-둥지를 탐험하고 새끼가 부화해 나오는 모습을 관찰할 수 있게 하세요.
-물보라를 일으키며 해양 파충류가 수면 위로 올라오는 장면을 실행할 수 있게 하세요.
-낮, 노을, 밤 사이를 전환할 수 있게 하세요.
-비, 바람, 화산 활동을 조절할 수 있게 하세요.
-시뮬레이션을 일시 정지하고 장면을 초기화할 수 있게 하세요.
-모든 컨트롤이 명확하고 눈에 보이는 반응을 일으키게 하세요. 상호작용을 반복해서 사용할 수 있도록 하고, 애니메이션이 겹쳐 캐릭터 포즈가 망가지는 것을 방지하세요.
-분위기와 오디오
-흔들리는 식생, 흘러가는 구름, 새, 곤충, 빗방울 파티클, 밤에 따뜻하게 빛나는 연구 기지를 추가하세요. 잔잔한 분위기의 음악과 환경음을 포함하고, 정상적으로 작동하는 음악 토글과 볼륨 슬라이더를 제공하세요. 오디오는 사용자가 상호작용한 후에만 시작하세요.
-INTERFACE
-영어 레이블을 사용하는 작고 세련된 인터페이스를 구성하세요. 장면이 중심이 되도록 하고 섬을 가리는 큰 패널은 피하세요. 데스크톱과 모바일에 맞게 레이아웃을 반응형으로 만드세요.
-기술적 완성도
-반복되는 식생과 소품에는 인스턴싱을 사용하고, 효율적인 지오메트리, 적절한 그림자, 절제된 포스트 프로세싱을 적용하세요. 시각적 풍부함과 원활한 실시간 성능 사이의 균형을 맞추세요.
-목업이 아닌 완성된 장면을 제작하세요. 최종 HTML을 데스크톱 브라우저에서 직접 테스트하고, 스크린샷과 콘솔을 확인하며, 모든 상호작용을 실행해 보세요. 전달하기 전에 로딩 오류, 공중에 뜨는 공룡, 발 미끄러짐, 깨진 충돌 처리, 물 아티팩트, 카메라 문제를 수정하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102450239923720440) · [원본 게시물](https://x.com/vib3coded/status/2102450842070569099) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102411087002112256"></a>
-
-### Sir, We Have Orc Problems 스타일의 TD 게임
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="Sir, We Have Orc Problems 스타일의 TD 게임"></a>
-
-**프롬프트**
-
-```text
-Sir, we have orc problems 같은 TD 게임 만들어 줘
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Sir, we have orc problemsみたいなTDゲーム作って
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102411087002112256) · [원본 게시물](https://x.com/nikzu_/status/2102411087002112256) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102276620124062065"></a>
-
-### 도쿄 타워 낮·밤 3D 장면과 영상
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="도쿄 타워 낮·밤 3D 장면과 영상"></a>
-
-**프롬프트**
-
-```text
-도쿄 타워를 주인공으로 한 볼거리 있는 3D 작품과 X 게시용 약 30초 영상을 제작해 주세요.
-
-당신은 제작 디렉터입니다. 필요한 서브태스크를 만들고 조사와 제작을 요청해 주세요. 의뢰 내용 구체화, 진행 관리, 결과물 확인, 수정 지시, 최종 취합까지 맡아 주세요.
-
-【제작 항목】
-지상에서 올려다보는 높이감과 가까이 다가갔을 때 보이는 철골의 디테일이 전달되는 도쿄 타워를 제작해 주세요.
-낮과 밤을 모두 준비하고, 낮에는 구조와 도장 상태를, 밤에는 라이트업의 아름다움을 보여 주세요.
-
-“도쿄 타워를 충분히 관찰하고 제작했다”는 인상을 주는 작품을 원합니다. 탑의 실루엣뿐 아니라 다리가 벌어지는 방식, 철골의 조립 방식, 전망대, 하부 건물 등 특징적인 세부 요소를 조사해 반영해 주세요. 주변 도시는 탑의 규모와 장소의 분위기가 전달되는 범위로 간소화해도 됩니다.
-
-【제작 진행 방식】
-・공식 자료와 사진을 조사하고, 재현할 특징과 우선순위를 정합니다.
-・조사 결과를 바탕으로 각 서브태스크에 구체적인 제작 지시를 내립니다.
-・초기 단계부터 실제 3D 프리뷰를 확인하고 형태, 구도, 밝기를 조정합니다.
-・완성 이미지와 영상을 직접 검토해 어색한 부분이나 부족한 점을 찾아 수정하도록 요청합니다.
-・세부적인 기술 선택과 촬영 구성은 자율적으로 판단해 완성까지 진행합니다.
-
-사진이나 생성 이미지를 붙인 배경으로 대체하지 말고, 실제 3D 형상과 카메라 이동으로 표현해 주세요. 확인된 사실과 자료 부족으로 추정한 부분은 기록해 주세요.
-
-【영상】
-약 30초 분량으로 제작합니다. 지상에서 올려다보는 장면, 철골과 전망대를 가까이 보여 주는 장면, 타워 전체를 파악할 수 있는 원경을 조합하고 낮과 밤의 변화도 보여 주세요.
-
-
-【납품물】
-・편집 가능한 Blender 데이터
-・X 게시용 MP4 영상
-・낮과 밤의 전체 모습 및 세부 확인 이미지
-・짧은 게시글 초안
-・소재 출처, 재현 범위, 검증 결과를 기록한 README
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
-
-あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
-
-【作ってほしいもの】
-地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
-昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
-
-「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
-
-【制作の進め方】
-・公式資料や写真を調査し、再現する特徴と優先順位を決める。
-・その調査を基に、各サブタスクへ具体的な制作指示を出す。
-・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
-・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
-・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
-
-写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
-
-【動画】
-約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
-細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
-
-【納品】
-・編集可能なBlenderデータ
-・X投稿用MP4動画
-・昼夜の全景と細部の確認画像
-・短い投稿文案
-・素材の出典、再現範囲、検証結果を記したREADME
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102276620124062065) · [원본 게시물](https://x.com/wafffle_dev/status/2102276620124062065) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="bubble-bay"></a>
-
-### 버블 베이: 3D 물풍선 배틀
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="버블 베이: 3D 물풍선 배틀"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
-
-**프롬프트**
-
-```text
-Bubble Bay를 제작하세요. 클래식 버블 게임 특유의 큰 머리와 짧은 몸, 얼굴이 드러나는 코스튬 캐릭터 스타일을 적용한 플레이 가능한 Three.js 물풍선 아레나입니다. 기본값은 디테일한 Tripo 모델로 설정하고, 매치 상태를 유지한 채 전환할 수 있는 Three.js 지오메트리 비교 스위치를 눈에 잘 띄게 제공하세요. 새로운 캐릭터 3명인 Langya, Shantao, Tuanli를 사용하세요. 제공된 새 캐릭터 콘셉트 및 모델 레퍼런스를 따르되, 실루엣·얼굴·색상·의상을 유지하세요.
-
-Langya는 청록색 후드에 옆으로 이어진 하나의 물결 모양 장식, 주황색 칼라와 소맷부리, 네이비 반바지, 주황색 밑창이 달린 청록색 신발을 착용한 활기찬 인간 남자아이입니다. Shantao는 짙은 자두색 단발머리, 양옆에 짧은 꽃잎 장식이 3개씩 달린 복숭아빛 분홍색 보닛, 민트색 재킷, 자두색 숏 오버롤, 연한 노란색 부츠를 착용한 작은 인간 여자아이입니다. Tuanli는 넓은 배 모양의 통통한 체형, 크림색 얼굴 테두리가 있는 캐러멜색 둥근 패딩 모자, 청록색 짧은 재킷, 크림색 아랫배, 네이비 부츠를 착용한 통통한 인간 남자아이입니다. 세 캐릭터 모두 따뜻한 피부색의 어린이 얼굴에 단순한 짙은 타원형 눈과 작은 미소를 보여야 합니다. 이들은 새롭게 디자인된 의상을 입은 어린이이므로, 실제 수중 생물로 변형하거나 기존의 알아볼 수 있는 캐릭터 의상을 재사용하지 마세요. 각 캐릭터를 Tripo CLI에서 tripo-p2를 명시하고 앞면과 뒷면 이미지를 독립적으로 사용해 개별 생성한 다음, 유효한 바이페드 스켈레톤과 스킨을 바인딩하세요. Idle/Run/Jump 애니메이션은 실제 관절을 구동해야 합니다. 움직임을 점검하고 머리 장식·신발·신체의 웨이트를 수정하며, 출처 정보를 정확하게 유지하세요. 모션을 로컬에서 제작한 경우에는 그렇게 명시하세요.
-
-현지화된 이름은 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli입니다. 시작 능력치인 용량/사거리/속도 레벨은 각각 1/1/6, 1/2/5, 2/1/4이며, 최대치는 각각 6/7/9, 6/7/8, 9/8/8입니다. 속도는 초당 0.25 + 레벨*0.8 월드 유닛으로 변환하고, 타일 크기는 2유닛으로 설정하세요. 캐릭터를 선택하면 나머지 두 명을 동일한 프로필을 가진 서로 다른 라이벌로 배정하세요. 통통한 외형의 실루엣과 관계없이 실제 게임플레이의 피격 반경은 동일하게 유지하세요.
-
-기본 맵으로 15x13 크기의 Pirate/Patrit14와 Village10을 제공하세요. 알아볼 수 있는 금색 갑판, 노란색 화물, 나무 상자, 대포 4문, 중앙 돛대를 유지하세요. 마을에는 색상별 주거 지구 4곳, 중앙 도로, 생울타리, 장난감 블록이 있어야 합니다. 퍼블리셔 맵을 레퍼런스로 사용하되 런타임 아트워크는 직접 구성하고, 연속적인 3D 이동과 AI 탈출에 필요한 작은 경로 개방부를 문서화하세요. 밝은 머티리얼, 그림자, 바다 배경, 명확한 카메라 추적 및 오버뷰를 제공하세요.
-
-플레이어 1명이 협력하는 AI 라이벌 2명과 대결합니다. WASD/방향키로 이동하고, F로 2.5초 지속되는 물풍선을 설치하며, Space로 실제 플랫폼에 점프하고, Shift로 대시하며, Q/E로 공전하고, V로 시점을 전환하고, Escape로 일시정지합니다. 십자 형태로 퍼지는 물은 장애물을 따르고 첫 번째 부드러운 블록을 파괴하며 물풍선을 연쇄 작동시킵니다. 가두기, 탈출, 적 포획, 리스폰을 구현하고, 포획 목표를 3회·6회·9회·12회 중에서 선택할 수 있게 하세요(기본값 6회). 또는 180초 점수제 모드를 제공하고, 결과 화면과 재시작 기능도 포함하세요. 터치 조이스틱과 액션 버튼은 동시에 작동해야 합니다.
-
-생성된 Tripo 아이템 6종인 풍선, 사거리 포션, 롤러스케이트, 투척 글러브, 킥 부츠, 구조 바늘을 사용하세요. 상자는 85% 확률로 아이템을 드롭합니다. 조건부 아이템 가중치는 각각 30/30/30/2.5/3.5/4%입니다. 글러브는 투척 횟수를 3회 추가하며 최대 6회까지 누적됩니다. G를 누르면 근처의 물풍선을 엄폐물 너머 최대 4타일까지 던질 수 있습니다. 이때 소유자와 기존 도화선 시간을 유지하고, 궤적을 표시하며 착지 지점을 예약하세요. 비행 중 지속 시간이 끝난 물풍선은 착지 후 폭발합니다. K를 누르면 물풍선이 막힐 때까지 미끄러져 이동하며 도화선 시간은 초기화하지 않습니다. X로 구조 바늘을 사용하고, 기본 1개에서 최대 3개까지 보유할 수 있습니다. 인벤토리와 사용 가능한 조작을 명확하게 표시하세요.
-
-중국어·영어·한국어 UI를 제공하세요. 중국 본토의 IANA 시간대는 중국어, 한국/북한은 한국어, 홍콩·마카오·대만을 포함한 그 외 지역은 영어를 선택합니다. 수동 선택은 항상 자동 선택보다 우선합니다. 임베디드 텍스처가 포함된 표준 비압축 순수 스킨 GLB만 업로드할 수 있도록 하고, 용량은 최대 40MB, 삼각형 수는 최대 150k로 제한하세요. 본, 관절, 웨이트를 검증하고 정적 모델은 거부하세요. 애니메이션이 포함되어 있으면 이를 사용하고, 클립이 없는 인식 가능한 휴머노이드에는 기본 관절 모션을 제공하세요. 인식하지 못한 스켈레톤에는 애니메이션이 필요합니다. 리깅과 애니메이션의 차이를 쉽게 설명하고, 90도 방향 조정 기능을 제공하세요. 모든 처리는 브라우저에서 로컬로 수행하며, 파일 해시를 기준으로 안정적이고 균형 잡힌 능력치를 배정하세요.
-
-생성 CTA에는 정확히 https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character를 사용하세요. jared를 크레딧에 표시하고 https://x.com/jaredliu_bravo로 연결하세요.
-
-ElevenLabs 음향 효과 13종을 통합하세요. 정규화, 짧은 감쇠, 거리/패닝, 동시 재생 수 제한, 볼륨 및 음소거를 지원해야 합니다. 효과는 설치, 폭발, 상자, 아이템 획득, 희귀 아이템, 투척, 착지, 포획, 구조, 점프, 승리, 패배, 킥입니다. ElevenLabs music_v2_5로 오리지널 인스트루멘털 트랙 2개를 제작하고, 각각 90초 분량으로 해적풍 바다 맵과 햇살 가득한 동네 분위기에 맞추세요. 목표 -20 LUFS의 절제된 수준으로 정규화하고 루프 경계를 크로스페이드하세요. 음악 전용 볼륨 조절 기능을 제공하고 맵에 따라 트랙을 변경하며, 일시정지 시 페이드아웃하고 마스터 음소거를 따르세요. 기존 게임 사운드트랙을 재현하지 마세요.
-
-독립 소스, 의존성, 테스트, 에셋 출처 정보는 CMS 플랫폼 앱 외부에 유지하세요. 동일 출처의 정적 리소스와 MIT 고지문을 번들로 포함하세요. Ego Lite에서 실제 데스크톱 및 터치 플레이, 업로드 변형, 언어, 시각 전환을 검증하세요. 기존 CMS Web Page 12에 연결된 변경 불가 리뷰 버전을 생성하고, 리뷰가 진행되는 동안 기존 라이브 릴리스는 유지하세요. 출처와 에셋 권리 승인을 사실대로 확인한 경우에만 게시한 다음, 공개 URL, 모델 해시, 동작을 검증하세요. 기록을 보존하고 저장된 CMS 레코드, 프리뷰, 공개 릴리스를 서로 구분하세요.
-
-모델 에셋을 표시되는 진행률과 함께 로드하고, 동시에 다운로드하는 파일은 최대 3개로 제한하며, 유휴 타임아웃은 30초, 시도 횟수는 2회로 설정하세요. 재시도할 때 성공적으로 다운로드한 파일은 유지하세요. 모든 모델이 준비될 때까지 Tripo / Three.js 탭 전환 UI 전체를 숨겼다가 준비가 끝나면 표시하세요. 절차적 로딩 플레이스홀더를 로드된 Tripo 모델로 표시하지 마세요.
-
-
-스폰 지점 바깥에서 시작해 아레나 중앙을 바라보는 근접 원근 추적 카메라를 사용하세요. Q/E 공전, 마우스 드래그 피치, V 오버뷰를 유지하세요. 상단에는 간결한 스코어보드를 배치하고, 왼쪽 상단에는 모드 전환을, 하단 근처에는 짧은 알림을 표시하세요. 마우스 기반 데스크톱에서는 조이스틱과 큰 터치 액션 버튼을 숨기되, 작은 희귀 아이템 컨트롤은 유지하세요. 좁은 화면에서는 컴팩트한 터치 액션을 동시에 사용할 수 있게 하세요. 청록색 깊이 변화를 포함한 애니메이션 웨이브 셰이더, 곡선형 야자수와 바위가 있는 자연스러운 모래 섬, 은은한 나뭇결과 잔디 텍스처를 추가하세요. 갇힌 각 캐릭터를 크기에 맞는 반투명 버블로 감싸고, 무지갯빛 프레넬 림, 부드러운 부유감, 작은 물방울, 지면 파문을 적용하세요. 포즈가 적용된 스킨 버텍스가 잘 맞는지 검증하고, 구조 시 들어 올림 상태를 초기화하며, 전환을 반복한 뒤 리소스가 정상적으로 해제되는지 확인하세요. 물막에 비용이 큰 씬 전체 트랜스미션 패스를 사용하지 말고, 좁은 화면의 픽셀 비율은 1.5로 제한하세요.
-
-
-Follow / Overview 카메라 컨트롤과 V 전환을 화면에 표시하세요. Overview에서는 +/− 버튼, 마우스 휠, 두 손가락 핀치를 사용해 100~300%까지 확대·축소할 수 있게 하며, 맵 드래그 범위를 제한하고 Fit map으로 초기화하세요. 카메라 또는 렌더링 버전을 전환해도 줌 상태와 진행 중인 매치를 유지하세요. 중국어·영어·한국어로 겹치지 않는 간결한 희귀 아이템 컨트롤을 제공하세요.
-
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/bubble-bay) · [원본 게시물](https://x.com/jaredliu_bravo/status/2102300855387205871) · [데모](https://bubble-bay.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102215638311694336"></a>
-
-### 인터랙티브 3D 헬리콥터 디자인 프레젠테이션
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="인터랙티브 3D 헬리콥터 디자인 프레젠테이션"></a>
-
-**프롬프트**
-
-```text
-Three.js와 WebGL을 사용해 하나의 HTML 파일로 현대적인 헬리콥터의 세부적인 인터랙티브 3D 장면을 제작하세요. 이미지가 아닌, 모든 각도에서 볼 수 있는 실제 3D 형상을 구축하세요.
-
-비주얼 스타일:
-밝은 회색 스튜디오 배경, 원형 전시 플랫폼, 부드러운 그림자와 사실적인 반사가 어우러진 프리미엄 항공 디자인 프레젠테이션으로 구성하세요.
-헬리콥터:
-
-H145와 같은 경량 쌍발 헬리콥터에서 영감을 받은 매끄럽고 유선형의 동체를 구현하세요.
-흰색 동체에 짙은 네이비색 하부와 파란색 포인트 스트라이프를 적용하세요.
-반사 표현과 정교하게 맞춘 창문 실링이 있는 곡면 틴티드 조종석 창을 구현하세요.
-측면 도어, 손잡이, 패널 이음매, 리벳, 탑승 스텝과 안테나를 추가하세요.
-공기 흡입구, 환기 그릴, 배기구가 있는 엔진 하우징 2개를 구현하세요.
-세부적인 허브, 체결 하드웨어, 피치 제어 링크가 있는 5엽 메인 로터를 구현하세요.
-끝으로 갈수록 가늘어지는 테일 붐, 안정판, 그리고 하우징을 관통하는 실제 개구부가 있는 덕티드 테일 로터를 구현하세요.
-구조 지지대로 동체에 연결된 곡선형 랜딩 스키드를 구현하세요.
-항법등과 점멸 비컨을 추가하세요.
-모든 부품은 물리적으로 연결되어야 합니다. 부품이 공중에 떠 있거나, 섹션 사이에 틈이 생기거나, 로터 블레이드가 동체와 교차하거나, 창이 동체 위에 떠 있는 현상을 방지하세요.
-
-인터랙션:
-
-마우스를 드래그해 오비트하고, 스크롤해 확대·축소하며, 터치 조작도 지원하세요.
-두 로터 모두 점진적으로 가속·감속하며 시작하고 정지할 수 있게 하세요.
-로터 속도를 조절할 수 있게 하세요.
-호버 모드에서는 플랫폼에서 부드럽게 이륙하고 공중에서 가볍게 흔들리며, 모드를 해제하면 부드럽게 착륙하게 하세요.
-카메라가 자동으로 오비트하도록 하세요.
-정면, 측면, 꼬리 방향의 카메라 프리셋을 제공하세요.
-카메라 리셋 및 전체 화면 컨트롤을 제공하세요.
-리버리는 빙하 블루와 화이트, 레스큐 오렌지, 그래파이트의 3가지를 제공하세요.
-인터페이스:
-
-왼쪽 상단에 작은 “AERONAUT / OBJECT STUDIES” 라벨과 큰 “Horizon 05.” 제목을 배치하세요.
-오른쪽에는 제원, 헬리콥터 상태, 리버리 선택, 로터 속도를 표시하는 컴팩트한 패널을 배치하세요.
-하단에는 컨트롤과 인터랙션 안내를 배치하세요.
-절제된 타이포그래피, 얇은 테두리, 넉넉한 여백을 사용하세요. 헬리콥터가 가려지지 않도록 하세요.
-모든 인터페이스 텍스트는 영어로 표시하세요.
-기술 요구 사항:
-
-미리 제작된 헬리콥터 모델을 다운로드하지 말고 형상을 절차적으로 생성하세요.
-PBR 머티리얼, 스튜디오 반사 환경, 부드러운 그림자를 사용하세요.
-애니메이션이 프레임 레이트와 무관하게 동작하도록 하세요.
-적절한 경우 형상과 머티리얼을 재사용하고, 성능을 위해 픽셀 비율에 상한을 설정하세요.
-데스크톱과 모바일 레이아웃을 지원하고, 초기 화면에서 로터 전체 폭이 보이도록 하세요.
-가능하다면 의존성을 HTML에 포함해 파일이 오프라인에서도 작동하도록 하세요.
-WebGL을 사용할 수 없는 경우 이해하기 쉬운 대체 안내 메시지를 표시하세요.
-완성하기 전에 모델을 모든 방향에서 확인하고, 모든 컨트롤을 테스트하며, 콘솔 오류가 없는지 점검하세요. 실루엣, 구조적 연결부, 글레이징, 로터 메커니즘을 특히 주의 깊게 확인하세요.
-
-설명만 제공하지 말고 작동하는 HTML 파일을 제공하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
-
-Visual style:
-A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
-Helicopter:
-
-A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
-A white body with a dark navy underside and blue accent stripe.
-Curved, tinted cockpit windows with reflections and carefully fitted window seals.
-Side doors, handles, panel seams, rivets, boarding steps, and antennas.
-Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
-A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
-A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
-Curved landing skids attached to the fuselage with structural supports.
-Navigation lights and a blinking beacon.
-All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
-
-Interactions:
-
-Mouse drag to orbit, scroll to zoom, and touch controls.
-Start and stop both rotors with gradual acceleration and deceleration.
-Adjustable rotor speed.
-Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
-Automatic camera orbit.
-Front, side, and tail camera presets.
-Reset camera and fullscreen controls.
-Three liveries: glacier blue and white, rescue orange, and graphite.
-Interface:
-
-Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
-Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
-Bottom: controls and interaction hints.
-Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
-All interface text in English.
-Technical requirements:
-
-Generate the geometry procedurally without downloading a prebuilt helicopter model.
-Use PBR materials, a studio reflection environment, and soft shadows.
-Make animation independent of frame rate.
-Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
-Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
-If possible, embed dependencies in the HTML so the file works offline.
-Display a helpful fallback message if WebGL is unavailable.
-Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
-
-Deliver the working HTML file, not just an explanation.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102215638311694336) · [원본 게시물](https://x.com/vib3coded/status/2102217028052377910) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102150615635816866"></a>
-
-### Spline Rush 절차적 브라우저 레이싱 게임
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/28d71c2ef7fb89cb6d0cff7e49fb0414ee59901911a6c8240fe3fa508ed86767.webp" width="840" loading="lazy" alt="Spline Rush 절차적 브라우저 레이싱 게임"></a>
-
-**프롬프트**
-
-```text
-최신 Three.js(WebGPURenderer + 가능한 경우 TSL)를 사용해 Spline Rush라는 이름의 완성도 높은 프로덕션급 브라우저 레이싱 게임을 제작하세요. 100% 절차적 방식으로 구현하며 외부 모델, 텍스처, 오디오 파일 또는 폰트는 사용하지 마세요. 모든 요소는 실행 중 코드로 생성해야 합니다.
-
-핵심 게임
-- 고도 변화, 뱅킹, 터널, 헤어핀, 이름이 지정된 코너와 서로 다른 바이오메트(해안의 낮, 황혼의 산악, 석양의 사막, 비 내리는 숲, 네온으로 빛나는 야간 도시, 고속 오벌)를 갖춘 고유 트랙 6개.
-- 챔피언십 모드(예선 + 3개 레이스), 고스트를 지원하는 타임 트라이얼, 퀵 레이스.
-- 개성, 레이싱 라인, 브레이킹 포인트, 추월 및 방어 주행을 갖춘 AI 상대 8명.
-- 최고 랩 기록, 섹터 타임, 실시간 이벤트 피드, 리플레이 카메라.
-- 차고: 클리어코트 및 메탈 플레이크 도장, 패널 간격, 작동하는 라이트, 애니메이션 서스펜션, 손상 상태를 갖춘 파라메트릭 차량 5종.
-
-그래픽 목표(Ultra, 4K에서 RTX 5090에 걸맞은 품질)
-렌더러: THREE.WebGPURenderer. 물리 기반 파이프라인.
-조명:
-- 물리 기반 Rayleigh/Mie 스카이 + 별밭 + 달 + 완전한 낮/밤 주기를 구동하는 동적 태양.
-- 캐스케이드 섀도 맵(4개 캐스케이드, 안정적인 텍셀 스냅, 고해상도).
-- 시간대에 맞춰 업데이트되는 PMREM 기반 IBL.
-- 볼류메트릭 포그 + 갓 레이 + 아지랑이 효과.
-머티리얼:
-- MeshPhysicalMaterial / TSL 노드: 클리어코트, 비등방성, 유리의 투과, 메탈 플레이크 도장, 비에 반응하는 젖은 노면 셰이더.
-포스트 프로세싱 체인(RenderPipeline / TSL 또는 postprocessing 라이브러리):
-GTAO 또는 고품질 SSAO → SSR → 블룸(Karis) → 모션 블러(속도 기반) → DOF → 갓 레이 → 자동 노출 → 컬러 그레이딩 + 필름 그레인 + 비네트 → SMAA 또는 TAA.
-효과:
-- GPU 파티클 풀: 타이어 연기, 스파크, 먼지, 빗물 스프레이, 풀/자갈 튀김, 열 왜곡.
-- 지속되다가 서서히 사라지는 스키드 마크.
-- 비가 올 때 적용되는 동적 젖음과 물웅덩이 반사.
-
-물리 및 주행 감각
-- 120Hz 고정 스텝 시뮬레이션.
-- 레이캐스트 또는 스트럿 서스펜션, 하중 이동, 컴바인드 슬립 타이어, ABS/TC, 노면 유형(아스팔트, 커브, 잔디, 자갈, 젖은 노면).
-- 카메라: 모션 및 충돌 셰이크가 적용된 시네마틱 체이스 + 후드 + 온보드 시점.
-
-AUDIO
-- 완전 합성 방식의 Web Audio: RPM/부하에 따라 여러 레이어로 구성되는 엔진음, 바람 소리, 타이어 마찰음, 커브 진동음, 관중 소리, 동적 음악.
-
-품질 시스템
-- 프리셋: Low / Medium / High / Ultra.
-- Ultra는 RTX 5090급 GPU를 기준으로 합니다: 4K, 고해상도 섀도 맵, 최대 파티클 수, 모든 포스트 이펙트 활성화, 공격적인 LOD 미사용.
-- 프레임 시간이 목표치를 초과하면 효과를 낮출 수 있는 적응형 품질.
-
-먼저 플레이 가능한 첫 버전(트랙 1개, 차량 1대, 기본 조명)을 만든 다음, 요청한 순서와 내용에 따라 기능을 하나씩 정확히 추가하며 개선하세요. 모든 요소는 로컬에서 실행되는 하나의 깔끔한 HTML/JS(또는 Vite) 프로젝트로 구성하세요. 주요 시스템에는 주석을 작성하세요. 귀엽게 만들지 말고, 고급스럽고 값비싸 보이는 비주얼을 구현하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build a complete, production-quality browser racing game called Spline Rush using the latest Three.js (WebGPURenderer + TSL where possible). 100% procedural: no external models, textures, audio files or fonts. Everything generated in code at runtime.
-
-CORE GAME
-- 6 unique tracks with elevation, banking, tunnels, hairpins, named corners and distinct biomes (coastal day, mountain dusk, desert sunset, forest rain, night city neon, high-speed oval).
-- Championship mode (qualifying + 3 races), Time Trial with ghosts, Quick Race.
-- 8 AI opponents with personality, racing line, braking points, overtaking and defending.
-- Best lap records, sector times, live event feed, replay camera.
-- Garage: 5 parametric cars with clearcoat + metal-flake paint, panel gaps, working lights, animated suspension, damage states.
-
-GRAPHICS TARGET (Ultra, worthy of RTX 5090 at 4K)
-Renderer: THREE.WebGPURenderer. Physically based pipeline.
-Lighting:
-- Rayleigh/Mie physically based sky + starfield + moon + dynamic sun that drives a full day/night cycle.
-- Cascaded shadow maps (4 cascades, stable texel snapping, high-res).
-- IBL via PMREM updated with time of day.
-- Volumetric fog + god rays + heat haze.
-Materials:
-- MeshPhysicalMaterial / TSL nodes: clearcoat, anisotropy, transmission on glass, metal-flake paint, wet-road shader that reacts to rain.
-Post-processing chain (RenderPipeline / TSL or postprocessing library):
-GTAO or high-quality SSAO → SSR → bloom (Karis) → motion blur (velocity) → DOF → god rays → auto-exposure → color grading + film grain + vignette → SMAA or TAA.
-Effects:
-- GPU particle pools: tyre smoke, sparks, dust, rain spray, grass/gravel kick-up, heat distortion.
-- Skid marks that persist and fade.
-- Dynamic wetness and puddle reflections when raining.
-
-PHYSICS & FEEL
-- Fixed-step 120 Hz simulation.
-- Raycast or strut suspension, load transfer, combined-slip tyres, ABS/TC, surface types (asphalt, kerb, grass, gravel, wet).
-- Camera: cinematic chase + hood + onboard with motion and collision shake.
-
-AUDIO
-- Fully synthesised Web Audio: multi-layer engine by RPM/load, wind, tyre screech, kerb rumble, crowd, dynamic music.
-
-QUALITY SYSTEM
-- Presets: Low / Medium / High / Ultra.
-- Ultra assumes RTX 5090-class GPU: 4K, high shadow maps, max particles, all post effects on, no aggressive LOD.
-- Adaptive quality that can drop effects if frame time exceeds target.
-
-Start with a playable first version (one track, one car, basic lighting), then iterate feature-by-feature exactly as requested. Keep everything in a single clean HTML/JS (or Vite) project that runs locally. Comment major systems. Make it look expensive, not cute.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102150615635816866) · [원본 게시물](https://x.com/ToolBraidComp/status/2102150671340327384) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102038136725377200"></a>
-
-### 인터랙티브 3D 태양 모델 웹사이트
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/169472399e3e1991f493f8eb441b75a17cc26b6be6aeb26a54bd14323bd9bbc2.webp" width="840" loading="lazy" alt="인터랙티브 3D 태양 모델 웹사이트"></a>
-
-**프롬프트**
-
-```text
-Three.js를 사용해 인터랙티브 3D 태양 모델 웹사이트를 만들고 싶습니다.
-
-먼저 Blender에서 직접 실행할 수 있는 Python 스크립트를 작성해 매우 사실적인 3D 태양 모델을 만들어 주세요. 태양의 구형 구조, 표면 텍스처, 색상, 플라스마 같은 외관, 태양의 쌀알무늬, 빛나는 대기 등 실제 물리적·시각적 특성을 기반으로 모델을 제작해야 합니다. 단순한 주황색 구처럼 보이지 않도록 해 주세요. 사실적인 태양의 외관을 구현할 수 있는 적절한 머티리얼, 셰이더, 텍스처, 조명 효과를 사용해 주세요.
-
-그다음 Three.js를 사용한 완전한 웹사이트 코드를 작성해 주세요. 태양은 메인 시각 영역의 약 80%를 차지해야 합니다. 사용자가 태양을 회전하고 시점을 이동하며 확대·축소할 수 있어야 합니다. 장면에는 태양을 역동적이고 입체적으로 보이게 하는 사실적인 조명과 발광 효과를 포함해 주세요.
-
-사용자가 태양에 가까이 다가가 표면 세부 정보를 관찰할 수 있도록 확대 버튼을 추가해 주세요.
-
-웹사이트에는 태양과 태양계에서 태양이 담당하는 역할에 관한 유익한 콘텐츠도 포함해야 합니다. 전체 배경은 사실적인 우주 은하 및 우주 공간 환경으로 구성해 주세요.
-
-또한 태양의 내부 구조를 인터랙티브하게 보여 주는 보기를 여는 버튼을 추가해 주세요. 이 보기에는 핵, 복사층, 대류층, 광구, 채층, 코로나 등 태양의 주요 층을 표시해야 합니다. 각 층에는 해당 라벨과 간단한 설명을 제공해 주세요. 사용자가 다이어그램과 상호작용하며 각 층을 선택해 관련 정보를 확인할 수 있으면 좋겠습니다.
-
-웹사이트는 시각적으로 인상적이고 과학적으로 유익하며 완전히 인터랙티브해야 합니다. 현대적인 우주 테마 UI로 제작해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-I want to build an interactive 3D Sun model website using Three.js.
-
-First, please write a Python script that can be run directly in Blender to create a highly realistic 3D model of the Sun. The model should be based on the Sun's real physical and visual characteristics, including its spherical shape, surface texture, color, plasma-like appearance, solar granulation, and glowing atmosphere. It should not look like a simple orange sphere. Please use appropriate materials, shaders, textures, and lighting effects to create a realistic solar appearance.
-
-Then, write the complete website code using Three.js. The Sun should occupy approximately 80% of the main visual area. Users should be able to rotate the Sun, move the view, and zoom in and out. The scene should include realistic lighting and glowing effects to make the Sun look dynamic and three-dimensional.
-
-Add a zoom-in button that allows users to get closer to the Sun and observe its surface details.
-
-The website should also include informative content about the Sun and its role in the solar system. The overall background should be a realistic cosmic galaxy/space environment.
-
-In addition, add a button that opens an interactive internal anatomy view of the Sun. This view should show the major layers of the Sun, such as the core, radiative zone, convection zone, photosphere, chromosphere, and corona. Each layer should have a corresponding label and a short text description. Ideally, users should be able to interact with the diagram and select different layers to view their information.
-
-Please make the website visually impressive, scientifically informative, and fully interactive, with a modern space-themed UI.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102038136725377200) · [원본 게시물](https://x.com/HIX_AI_/status/2102038474752766239) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101730386711634251"></a>
-
-### Verdant — 인터랙티브 3D 공룡 섬
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/a535c40ebc8c7086dde5e627372c64ba5cdab5c252538c6c00e0ef5ec2c5e031.webp" width="840" loading="lazy" alt="Verdant — 인터랙티브 3D 공룡 섬"></a>
-
-**프롬프트**
-
-```text
-Three.js + WebGL로 제작하는 인터랙티브 3D 디오라마 Verdant를 만들어 주세요
-
-공룡이 돌아다니고 폭포가 흐르는 울창한 섬과, 바다 파충류가 헤엄치는 단면형 석호를 구현해 주세요. 무리에게 먹이를 주고 아기 공룡을 부화시키며 카메라를 수중으로 이동할 수 있게 해 주세요
-
-조수, 바람, 시간대를 조절하고, 편안한 음악이 재생되는 동안 열대성 비를 내리게 할 수 있게 해 주세요
-
-모든 기능은 브라우저에서 단일 HTML 파일로 바로 실행되어야 합니다
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-create Verdant - an interactive 3D diorama built with Three.js + WebGL
-
-A lush island with roaming dinosaurs, a waterfall, and a cutaway lagoon with a swimming marine reptile. Feed the herd, hatch a baby dinosaur, and take the camera underwater
-
-Adjust the tide, wind, and time of day, or bring in tropical rain while relaxing music plays
-
-Everything runs right in your browser, in a single HTML file
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101730386711634251) · [원본 게시물](https://x.com/vib3coded/status/2101570806702559235) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101687900723106104"></a>
-
-### Three.js로 WALL-E 3D 모델 만들기
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/cac68c08e650b70228db60cbf7a38e7f2d113b00c6420a411918d82aad4f7bb1.webp" width="840" loading="lazy" alt="Three.js로 WALL-E 3D 모델 만들기"></a>
-
-**프롬프트**
-
-```text
-Three.js로 WALL-E 3D 모델을 만들어 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-create a 3d model of wall-e in three.js.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101687900723106104) · [원본 게시물](https://x.com/marcthecreatorr/status/2101687900723106104) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101616345720787130"></a>
-
-### 탁 트인 바다 위의 돛단배
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b5b0b8a7e7c8425edf9299873ea284b3d4598bdac00bfc48ae9fcf178e4a0642.webp" width="840" loading="lazy" alt="탁 트인 바다 위의 돛단배"></a>
-
-**프롬프트**
-
-```text
-탁 트인 바다를 가로질러 작은 돛단배가 이동하는 3D 장면을 단일 HTML 파일로 구축하세요. 기본 조작으로 보트를 조종할 수 있어야 하며, 최근 모델 테스트에서 선보인 비교용 "보트 게임" 데모처럼 눈에 보이는 두 섬을 피해 항해하는 경로를 구현하세요.
-
-기능 요구 사항:
-
-수면은 애니메이션 파도 메시로 렌더링해야 합니다(절차적 물 셰이더, 움직이는 파도, 보는 각도에 따라 달라지는 빛 반사, 보트 뒤에 남는 항적). 평평하고 정적인 텍스처를 사용해서는 안 됩니다.
-단순한 형태로 돛단배 모델을 구성하세요(선체, 돛대, 바람을 받아 부풀어 오른 돛). 보트가 아래에서 움직이는 물과 동기화되어 파도에 따라 눈에 띄게 출렁이고 약간 기울어져야 합니다.
-서로 다른 위치에 두 개의 뚜렷한 섬을 배치하세요. 각 섬에는 간단한 지형 형태(융기 지형, 해변, 선택적으로 식생)를 만들고, 주변 수면에 그림자가 드리워지게 하세요.
-보트는 두 섬을 실제로 모두 피해 가는 경로를 따라야 합니다(섬의 실루엣을 뚫고 지나가거나 육지를 가로지르면 안 됩니다). 각도가 갑자기 전환되지 않고 부드럽게 방향을 바꿔야 합니다.
-카메라는 약간의 지연을 두고 보트를 따라가야 합니다(부드러운 카메라 추적). 이렇게 하면 보트에 rigid하게 붙은 탑다운 뷰가 아니라 역동적인 추적 장면처럼 보여야 합니다.
-그라데이션 하늘(예: 노을 하늘 또는 낮의 푸른 하늘, 모델 선택)을 만들고, 섬에 드리워지는 그림자와 방향이 일치하는 태양 또는 수면 반사를 표현하세요.
-
-기술 요구 사항:
-
-단일 .html 파일로 구성하세요. cdnjs의 three.js는 사용할 수 있지만, 다른 외부 에셋이나 텍스처는 사용하지 마세요. 모든 물과 지형은 코드 또는 셰이더로 절차적으로 생성해야 합니다.
-섬 주변 경로는 미리 계획한 경로(예: 두 섬 사이를 통과하는 베지어 곡선)로 만들거나 위치에 반응하는 간단한 조타 방식으로 구현할 수 있습니다(모델 선택). 단, 육지와 충돌해서는 안 됩니다.
-애니메이션은 최소 20초 동안 루프 또는 연속으로 매끄럽게 실행되어야 하며, 일반적인 노트북에서 최소 30fps를 유지해야 합니다. 과도한 고해상도 화면 부하를 피하도록 캔버스 해상도는 창 크기를 넘지 않게 제한하고, devicePixelRatio는 1.5를 초과하지 않게 설정하세요.
-
-주요 평가 기준은 물이 텍스처의 UV 오프셋만 애니메이션한 것이 아니라 실제로 움직이는 유체처럼 설득력 있게 보이는지, 보트가 파도에 실제로 반응하는지, 그리고 섬 주변 경로가 무작위로 스쳐 지나간 것이 아니라 의도적인 항해로 읽히는지입니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build a single HTML file with a 3D scene showing a small sailboat moving across open water, with native steering and a course that navigates around two visible islands, similar to the comparison "boat game" demos seen in recent model tests.
-
-Functional requirements:
-
-A water surface rendered as an animated wave mesh (procedural water shader, moving waves, light reflections that shift with viewing angle, a wake trail behind the boat), not a flat, static texture.
-A sailboat model built from simple shapes (hull, mast, sail filled by the wind), with visible bobbing and slight tilting on the waves, synchronized with the motion of the water beneath it.
-Two distinct islands placed at different points in the scene, each with simple terrain shaping (a rise, a beach, optionally vegetation) and a shadow cast onto the water around it.
-The boat should follow a route that genuinely avoids both islands (never clipping through their silhouette or crossing through the land), turning smoothly rather than snapping between angles.
-The camera follows the boat with a slight lag (smoothed camera follow), giving the impression of a dynamic chase rather than a rigidly attached top down view.
-A gradient sky (e.g. sunset or daytime blue, model's choice) with a sun or light reflection on the water, directionally consistent with the shadows on the islands.
-
-Technical requirements:
-
-A single .html file, three.js from cdnjs is allowed, no other external assets or textures, all water and terrain generated procedurally in code/shader.
-The route around the islands can be a pre-planned path (e.g. a Bezier curve threading between the islands) or simple steering that reacts to position, model's choice, but no collision with land is allowed.
-The animation must run smoothly for at least 20 seconds, looping or continuous, minimum 30fps on a typical laptop, canvas resolution capped to window size with a devicePixelRatio no higher than 1.5 to avoid overloading hidpi screens.
-
-Judged primarily on whether the water looks convincingly like a fluid in motion (not a texture with animated UV offset), whether the boat genuinely reacts to the waves, and whether the route around the islands reads as intentional navigation rather than a random near miss.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2101616345720787130) · [원본 게시물](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="titanic-the-last-light"></a>
-
-### 타이타닉 — 마지막 빛
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20 · GPT-6 Astra · 애니메이션
-
-리믹스 원작: [notjazii / Titanic reference](https://x.com/notjazii/status/2101007819592085586)
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/titanic-the-last-light"><img src="../assets/previews/3c31a5b7f6f105a35c837091241a0e6a71ebff7e6df20d1d8ee4e257da97e51f.webp" width="840" loading="lazy" alt="타이타닉 — 마지막 빛"></a>
-
-**프롬프트**
-
-```text
-1. 프로젝트 목표
-TITANIC — THE LAST LIGHT를 제작합니다. 배의 마지막 일몰부터 충돌, 대피와 침몰, 새벽의 추모 장면까지 이어지는 264초 분량의 인터랙티브 시네마틱 항해입니다. 관람객은 연출된 영화를 감상하고, 움직이는 3D 세계를 탐험하며, 챕터로 이동하고, 스틸 이미지를 저장하거나 완성된 영화를 다운로드할 수 있어야 합니다. 법의학적 정확성이나 공식 제휴를 주장하지 말고 예술적 해석으로 제시합니다.
-
-2. 비주얼 방향
-절제된 시네마틱 팔레트를 사용합니다. 깊은 대서양의 블루를 배경으로 따뜻한 크림색과 앰버색 선박 조명을 배치하고, 이후에는 별빛이 비치는 어두운 밤과 차가운 새벽으로 전환합니다. 2.39:1 영화 구도의 원근 장면을 렌더링하고, 은은한 블룸과 미세한 그레인, 비네트를 적용합니다. 캐릭터 포트레이트와 새벽 장면에는 피사계 심도를 사용하되, 조난 로켓의 파티클은 선명하게 유지합니다. 바다의 본체 색상은 짙은 파란색으로 설정하고, 월드 공간의 너울, 더 작은 밉맵 리플 노멀, 프레넬 반사를 사용합니다. 따뜻한 일몰 색상은 주로 반사광에 적용합니다. 동일한 바다 변위를 따르는 선체 부착형 웨이크 리본을 사용하고, 끝부분은 부드럽게 처리하며 포말은 끊어진 형태로 만듭니다. 파노라마 텍스처는 가로 방향으로 래핑하되 프랙트 불연속이 생기지 않게 하여 하늘의 수직 이음새와 반사 줄무늬를 방지합니다. 주황색 얕은 물 셰이딩, 작고 균일한 잔물결, 빛나는 원형 포말 데칼은 피합니다. 깊이 싸움을 방지하도록 숨겨진 지붕의 겹치는 윗면을 제거하고, 촬영 거리​​​​에 맞는 카메라 근접 클리핑 평면을 사용합니다. 침몰 중에는 고주파 플리커를 추가하지 말고 창문 조명을 단조롭게 어둡게 합니다. 차분한 세리프 타이틀, 영어/중국어 이중 언어 컨트롤, 화면 하단의 좁은 타임라인을 사용합니다.
-
-3. 월드, 지리 및 카메라 편집
-269m 선박을 기준으로 선수는 +X를 향하게 하고, 빙산은 (275, 0, 57)에 고정한 단일 연속 좌표계를 사용합니다. 선박은 전진하다가 96.727초에 빙산과 접촉하고, 관성으로 이동한 뒤 정지하며, 이후 선수부와 선미부로 나뉘어 침몰합니다. 엔딩까지 빙산을 계속 배치하고 새벽 구도에서도 보이게 합니다. 0, 63, 110, 163, 211, 241초에 시작하는 6개의 챕터를 유지합니다.
-
-의도적으로 구성한 23개의 샷을 제작합니다. 선수 포옹 장면은 29~61초에 걸쳐 배치합니다. 장면 설정용 접근 샷, 두 인물의 클로즈업 더블 포트레이트, 바다를 향한 뒤쪽 시점, 비스듬한 포트레이트로 구성합니다. 선수 끝부분에서 로즈를 앞에, 잭을 바로 뒤에 배치하고 두 사람 모두 선수 너머 바깥을 바라보게 합니다. 시퀀스 전체에서 일몰 조명을 유지합니다. 127~158초에는 실제 월드 트랜스폼을 따르는 구명정 부착 카메라 샷 3개를 사용합니다. 보트 갑판에서 출발하는 샷, 승객과 현수 로프를 더 가까이 보여주는 샷, 수면으로 접근하는 샷입니다. 이후 와이드 대피, 선체 기울어짐, 파단, 침몰 샷을 이어 붙입니다. 새벽에는 멀리 빙산이 보이는 생존 구명정들을 보여준 뒤 절제된 추모 타이틀을 표시합니다.
-
-4. 에셋 목록
-- titanic-vessel: Blender에서 269m 규모의 주 구조물을 제작합니다. 연속된 웰 데크, 닫힌 포어캐슬, 층층이 구성된 프로мена드, 속이 빈 경사형 버프색 깔때기 4개, 검은색 상부 선체와 붉은색 하부 선체를 구현합니다. 864개의 현창에는 실제 원형 림을, 360개의 창문에는 프레임을 사용합니다. 발광은 실제 유리 재질로 제한합니다. 머티리얼을 배치 처리하고 x=-32에서 분할하여 침몰에 사용합니다. 마스트, 리깅, 데빗, 데빗 로프, 청동 프로펠러와 방향타를 추가합니다. 티크 문과 황동 디테일이 있는 P2 동반 계단을 생성하고, 정규화한 뒤 제작한 데크에 두 번 재사용합니다. GLB를 조립할 때 노드 트랜스폼을 보존합니다.
-- atlantic-iceberg: 층층이 쌓인 서리, 다양한 러프니스, 절제된 노멀 맵, 설득력 있는 수면선을 갖춘 불규칙하고 침식된 청백색 빙산 하나를 제작합니다. 지리적으로 고정된 오브젝트로 유지합니다.
-- lifeboat: 흰색 목재 선체, 어두운 현측 상단, 벤치와 노가 있는 White Star 노 젓는 구명정 하나를 제작하고, 독립적으로 움직이는 보트 16척에 인스턴싱합니다.
-- bow-embrace: 요청된 1997년 영화의 의상과 포즈에서 영감을 받은 독립형 두 인물 에셋입니다. 로즈는 적갈색 머리, 네이비/아이보리 의상, 패턴 숄을 착용하고 팔을 뻗습니다. 잭은 어두운 코트와 아이보리 셔츠를 입고 바로 뒤에 섭니다. H v3.1로 변환하기 전에 깨끗한 전신 레퍼런스 이미지를 생성하여 각 인물의 머리, 목, 어깨와 의상이 일관되게 유지되도록 합니다. 로즈는 별도의 클로즈업 레퍼런스와 H 얼굴 디테일 도너를 사용해 다듬습니다. 눈, 코, 입술, 턱을 정합하고, 연속된 전신 메시로 로컬 형태와 색상을 전사한 뒤 UV 전환부를 블렌딩하고 리터치합니다. 잭은 자연스러운 피부색과 뚜렷한 눈과 입술이 있는 깨끗한 포트레이트를 생성합니다. 머리 전체와 목 위쪽을 유지하고, H 바디에 시선과 스케일을 맞춘 뒤 아래쪽 목을 밀착시키고 두 경계 루프를 용접합니다. 얼굴 디테일을 뭉개지 않도록 좁은 목 전환부를 베이크하고 리터치합니다. Blender에서 자세와 손 접촉을 수정합니다. 앞, 옆, 뒤에서 어두운 번짐, 텍스처 이음새, 구멍, 잘린 가장자리와 의상 교차를 검사합니다. 피부와 천에는 서로 다른 셰이딩을 적용합니다. 자연스러운 기본 표정을 유지하고 몸과 천의 움직임은 절제합니다. 실제로 구현하지 않았다면 얼굴 애니메이션 리그가 있는 것처럼 보이게 하지 않습니다.
-- seated-woman and seated-man: 1912년 복장과 옅은 코르크 구명조끼를 착용한 성인 승객 모델을 여성과 남성 각각 별도로 제작합니다. 무릎을 굽히고 손을 무릎 위에 올린 채 앉은 자세로 만듭니다. 보트 간에 지오메트리와 머티리얼을 공유하고, 배치와 방향은 약간씩 다르게 합니다. 승선을 위해 보트별 인스턴스 수를 되돌릴 수 있도록 구성합니다.
-
-주 선박은 Blender로, 데크 동반 계단과 빙산, 보트, 착석 승객은 Tripo P2.0으로, 두 명의 완전한 주연 캐릭터와 클로즈업 포트레이트 보정은 H v3.1로 제작합니다. 바다, 하늘 블렌드, 별, 조명, 연기, 조난 로켓, 포말, 물보라와 잔해는 씬 이펙트로 유지합니다. 텍스처를 압축한 가벼운 웹용 모델 변형을 제공하고, 편집을 위해 상세한 소스 에셋을 보존합니다. 웹사이트와 오프라인 영화 출력에는 동일하게 승인된 최적화 주연 캐릭터 페어를 사용합니다.
-
-5. 재생 및 피드백
-선박, 보트, 하늘, 바다 노멀에 필요한 에셋의 실제 로딩 진행률을 표시합니다. 첫 번째 씬이 준비되면 시작 버튼을 활성화하고, 나머지 모델과 음악은 지연 로드합니다. 필요한 캐릭터나 빙산 모델의 로딩이 늦어지면 해당 씬의 경계에서 대기했다가 준비되는 즉시 재개하며, 샷을 조용히 건너뛰지 않습니다. 오디오는 사용자가 상호작용한 뒤 시작합니다.
-
-타임라인은 앞으로/뒤로 탐색과 빠른 드래그를 지원하되 0초로 초기화되지 않아야 합니다. 탐색 중 재생/일시정지 및 음소거 상태를 유지하고, 기존 오디오 시계가 요청한 위치를 덮어쓰지 않게 합니다. MP3와 MP4에는 바이트 범위 전송을 제공합니다. 챕터 이동에는 29초의 선수 포옹과 127초의 구명정 하강으로 바로 이동하는 항목을 포함합니다. 이 항목들은 재생 상태를 유지하면서 감독 카메라를 복원합니다.
-
-탐험 중에도 월드, 선박과 사운드트랙은 계속 진행되며 궤도 회전, 드래그와 줌을 사용할 수 있어야 합니다. 시선 방향을 갑자기 스냅하지 말고 선박의 이동을 따라갑니다. 일시정지는 독립적으로 작동하며 영화로 돌아오면 현재 시간을 유지합니다. Space는 재생/일시정지, 화살표 키는 10초 이동, M은 사운드 전환, E는 탐험 모드 전환, F는 전체 화면을 실행합니다. 터치 궤도 회전/핀치와 타임라인 탭을 지원합니다.
-
-보트는 빈 상태로 시작합니다. 112초 이후 승객이 시간차를 두고 여러 그룹으로 승선하며, 각 보트가 내려가기 전에 승선을 완료합니다. 로프는 움직이는 데빗과 실제 보트 부착 지점 사이를 연결하고, 분리 후에는 사라집니다. 뒤로 탐색하면 이전 승객 탑승 상태와 로프 상태를 복원합니다. 충돌 시 선체/카메라 진동, 얼음 조각, 긁히는 물보라와 금속/얼음 충돌음의 순간 효과가 서로 맞물려야 합니다. 조난 로켓은 불타는 흰색 별, 짧은 개별 트레일, 중력, 드래그와 서서히 사라지는 연기를 사용합니다. 침몰로 생기는 교란은 불규칙하고 파도를 따라 움직이는 패치 형태로 만들며 점진적으로 감쇠시킵니다. 물보라는 선미의 실제 수면선을 따라 분산하고, 멀리 떨어진 단일 포인트 분수에서 나오게 하지 않습니다.
-
-6. 기술 구현 및 납품물
-Vite, JavaScript 모듈과 Three.js를 사용하고 결정론적인 시간 기반 애니메이션을 구현합니다. 카메라/타임라인, 선박 에셋, 캐릭터, 환경, 이펙트와 씬 준비 상태를 분리합니다. 웹 재생, 탐색과 오프라인 캡처에 동일한 시간 모델을 사용합니다. 웹 렌더링은 픽셀, 반사와 그림자 예산을 명시적으로 제한하고, 더 무거운 앰비언트 오클루전은 오프라인 프로필로 미룹니다. 긴 시작 전처리로 실행을 차단하지 않도록 에셋을 컴파일하고 디코딩합니다. 스크립트, 모델, 이미지, 폰트와 오디오는 동일 오리진에서 제공하고 정적 빌드에 시크릿을 포함하지 않습니다.
-
-오리지널 스코어와 유료 ElevenLabs 폴리를 사용합니다. 실제 공중 폭발 지점에서 분할한 자연스러운 휘파람 불꽃놀이 완성 테이크를 상승 비행 구간과 날카로운 폭발음 및 잔향의 파열음 구간으로 나누고, 금속/얼음 접촉음과 긁힘 소리, 구명정 로프와 수면 접촉음, 선체 응력/파단음, 선미의 물 변위음을 포함합니다. 소스 WAV 파일을 출력하고 프롬프트와 히스토리 ID를 보존한 뒤 타이밍이 맞는 큐로 편집합니다. 발사는 119, 151, 183초에 맞추고 공중 폭발은 각각 3.15초 뒤에 배치합니다. 원래 폭발음의 어택을 유지하고 오케스트라 스코어는 잠시 덕킹합니다. 믹스 아래에는 잔잔한 바다, 바람과 엔진 앰비언스를 유지합니다. 공개 웹사이트와 다운로드 가능한 영화 모두에 참고 영화의 사운드트랙을 승인 없이 포함하지 않습니다. 폴백을 서비스 생성 에셋으로 설명하지 말고 실제 에셋과 사운드 소스를 문서화합니다.
-
-3840×2160, 24fps, 시간 샘플 3개로 총 6,336프레임을 결정론적으로 출력합니다. 영어 타이틀을 영상에 번인하고 2.39:1 레터박스 이미지를 사용합니다. 4K H.264/AAC 마스터와 100MiB 미만의 1080p 웹 버전을 인코딩하며, 두 버전 모두 길이는 264초, 오디오는 48kHz 스테레오로 설정합니다. 선택 사항인 중국어/영어 자막, 오디오 마스터와 편집 가능한 소스를 보존합니다. 플랫폼 애플리케이션이나 페이지별 Worker를 추가하지 말고 기존 CMS Web Pages 호스팅을 통해 정적 빌드를 게시합니다.
-
-7. 검수 기준
-오프닝, 두 캐릭터 포트레이트, 충돌, 조난 로켓, 세 구명정 하강 샷 전체, 파단, 선미 소실과 새벽 장면을 검사합니다. 244초에 빙산이 사라지지 않는지, 바다가 짙은 파란색으로 보이는지, 침몰 장면에 규칙적인 흰색 링이 없는지, 제작된 샷에서 캐릭터가 계속 나타나는지, 하강 내내 보트 로프와 승객이 정렬을 유지하는지 확인합니다. 지연 모델 로딩, 앞/뒤 탐색, 빠른 스크러빙, 일시정지/음소거, 동적 탐험, 클로즈업 직접 진입과 터치 에뮬레이션을 테스트합니다. 출력된 모든 프레임을 검증하고, 두 영화를 완전히 디코딩하며, 실제 브라우저 다운로드 파일과 납품 파일을 비교하고, 공개 빌드와 CMS 연결을 확인합니다. 브라우저 모바일 에뮬레이션과 실제 휴대폰 테스트를 구분합니다.
-
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/titanic-the-last-light) · [데모](https://titanic-the-last-light.tripo.page/) · [사례 목록으로](#all-prompts)
 
 ---
 

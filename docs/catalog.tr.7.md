@@ -28,6 +28,21 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Orman tapınağı ve dev vanara bekçisi](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
+- [Kat planından eksiksiz 3B gezintiye](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
+- [Etkileşimli voksel tren maketi](#interactive-voxel-railway-table-2095719731860750613)
+- [Şişede yaşayan voksel gemi](#living-voxel-ship-in-a-bottle-2095699049722581065)
+- [Yaşayan prosedürel okyanus ve fırtına simülasyonu](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
+- [Tek istemle şaşırtıcı Three.js oyunu](#one-shot-three-js-surprise-game-2095663498101662198)
+- [Blender'da Güzel Sanatlar Sarayı'nın yeniden yapımı](#palace-of-fine-arts-blender-recreation-2095653641164329143)
+- [Modelleri karşılaştırmak için tek istemli akvaryum](#single-aquarium-benchmark-2095650251902239139)
+- [Birinci ve üçüncü şahıs kameralı RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
+- [Tek istemle gerçek zamanlı oynanabilir 3B oyun](#single-playable-real-time-3d-game-2095647685210669541)
+- [Yazdırılabilir USS Enterprise CAD montajı](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Blender'da modern villa sahnesi](#modern-villa-scene-in-blender-2095636679264780481)
+- [Cycles için prosedürel Oval Ofis dekoru](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Unity'de uzay hendeği uçuş oyunu](#unity-space-trench-run-game-2095630044102279312)
+- [Mimari çizimden Blender ve Unreal görselleştirmesine](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
 - [Metinden keşfedilebilir Unity şehrine](#text-to-explorable-unity-city-2095623452678144366)
 - [Three.js bilye fabrikası](#three-js-marble-factory-2095622065390772322)
 - [Fotogerçekçi 3B ürün maketi stüdyosu](#photoreal-3d-product-mockup-studio-2095619319690400253)
@@ -63,23 +78,308 @@
 - [Eşdikdörtgensel panoramadan şehir](#city-from-an-equirectangular-panorama-2095159781883597031)
 - [Blender'da ejderha ini sahnesi](#dragon-lair-scene-in-blender-2095149546187653547)
 - [Three.js'de çok oyunculu korsan dünyası](#multiplayer-pirate-world-in-three-js-2095137561283010600)
-- [Blender'da uçan tencere animasyonu](#flying-pot-animation-in-blender-2095132939667255657)
-- [3B kanser ilerleme simülasyonu](#3d-cancer-progression-simulation-2095130778342408331)
-- [Geliştirilmiş meteor parçalanma efektleri](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
-- [Ayrıntı seviyeleri hazır saldırı kapsülü uzay gemisi](#lod-ready-assault-pod-spaceship-2095126622319845478)
-- [Ayrıntılı 3B stadyum yeniden yapımı](#detailed-3d-stadium-recreation-2095123216419459454)
-- [Mekanik olarak doğru su değirmeni köyü](#mechanically-accurate-water-mill-village-2095123063352561815)
-- [Gölgelendiricili etkileşimli Dino-dex](#interactive-shader-driven-dino-dex-2095121568297083067)
-- [Şişenin içinde yaşayan voksel dünya](#living-voxel-world-inside-a-bottle-2095111213927510131)
-- [Düzenlenebilir 3B klavye animasyonu](#editable-3d-keyboard-animation-2095111032171876470)
-- [Gundam'dan esinlenen mecha sergisi](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [Referansla şekillenen Three.js portföyü](#reference-driven-three-js-portfolio-2095104073590808644)
-- [Etkileşimli F-35A teknik modeli](#interactive-f-35a-technical-model-2095094543339446572)
-- [Three.js'de MS-06 esintili mecha](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [Tek HTML dosyasında yaşayan evren](#living-universe-in-one-html-file-2095054116372508955)
-- [Yerel C++ soulslike oyunu](#native-c-souls-like-game-2095053114600755576)
 
 </details>
+<a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
+
+### Orman tapınağı ve dev vanara bekçisi
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-04 · Claude Fable 5.1 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290"><img src="../assets/previews/867a825910e52a1f4ee03010a0ca7c11c6d7ba340d474277fbedece704f9e178.webp" width="840" loading="lazy" alt="Orman tapınağı ve dev vanara bekçisi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+HTML ve Three.js ile Ramayana'dan esinlenen bir sinematik oluştur. Unutulmuş orman tapınağı dev bir vanara bekçisini uyandırsın. Ortamı, animasyonu ve arka plan müziğini kodla yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Orijinal gönderi](https://x.com/BuildFastWithAI/status/2095729606066348290) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
+
+### Kat planından eksiksiz 3B gezintiye
+
+[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="Kat planından eksiksiz 3B gezintiye"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen kat planını eksiksiz bir 3B mimari gezintiye dönüştür. Oda boyutlarına ve dolaşıma sadık kal; kapılar, pencereler, mobilyalar, malzemeler ve ışık ekle. Ardından yerleşimi anlatan bir kamera rotası oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Orijinal gönderi](https://x.com/aidarosgo3/status/2095725404883476661) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-voxel-railway-table-2095719731860750613"></a>
+
+### Etkileşimli voksel tren maketi
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="Etkileşimli voksel tren maketi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de ayrıntılı bir voksel tren maketi oluştur. Kullanıcılar birden fazla treni başlatıp durdurabilsin, rayları değiştirebilsin, masanın çevresinde dönebilip yakınlaşabilsin, minyatür kasabaları inceleyebilsin ve küçük çevre animasyonlarını tetikleyebilsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Orijinal gönderi](https://x.com/DeryaTR_/status/2095719731860750613) · [Canlı demo](https://lindenhafen-railway.vercel.app/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
+
+### Şişede yaşayan voksel gemi
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="Şişede yaşayan voksel gemi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Cam şişenin içinde yüzen, 17. yüzyıla ait ayrıntılı bir voksel gemi oluştur. Dalgaları ve geminin hareketini simüle et; dönen martılar, minyatür liman ve mercan resifleri ekle. Ardından sinematik bir kamera sekansı ve sakin bir müzik hazırla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Orijinal gönderi](https://x.com/DeryaTR_/status/2095699049722581065) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
+
+### Yaşayan prosedürel okyanus ve fırtına simülasyonu
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="Yaşayan prosedürel okyanus ve fırtına simülasyonu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen tek dosyalık okyanus yüzeyi fırtına üreticisini eksiksiz bir prosedürel okyanusa genişlet. Resifler, derin sular, inandırıcı hava koşulları, kendiliğinden davranışlar geliştiren hayvan popülasyonları, ekosistem etkileşimleri ve yüzey ile su altı arasında dolaşabilen bir kamera ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Orijinal gönderi](https://x.com/emollick/status/2095673885605630429) · [Kaynak kodu](https://github.com/emollick/abyssal-living-deep) · [Canlı demo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
+
+### Tek istemle şaşırtıcı Three.js oyunu
+
+[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="Tek istemle şaşırtıcı Three.js oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tek seferde “Amaze” adını hak eden özgün bir Three.js oyunu yap. Şaşırtıcı bir görsel mekanik seç, saniyeler içinde öğret, kısa bir ilerleme eğrisi kur ve tatmin edici bir gösteriyle bitir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Orijinal gönderi](https://x.com/pratt_builds/status/2095663498101662198) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
+
+### Blender'da Güzel Sanatlar Sarayı'nın yeniden yapımı
+
+[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Blender'da Güzel Sanatlar Sarayı'nın yeniden yapımı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+San Francisco'daki Güzel Sanatlar Sarayı'nı Blender'da yeniden oluştur. Tanınabilir kubbeli yapı oranları, sütun dizileri, gölet, bitki örtüsü, yıpranmış malzemeler ve dünya fuarları döneminin iyimserliğini yansıtan sinematik ışık kullan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Orijinal gönderi](https://x.com/sharifshameem/status/2095653641164329143) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="single-aquarium-benchmark-2095650251902239139"></a>
+
+### Modelleri karşılaştırmak için tek istemli akvaryum
+
+[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="Modelleri karşılaştırmak için tek istemli akvaryum"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen referans görüntüden tek istemle bir 3B akvaryum oyunu oluştur. Yerleşimi ve atmosferi eşleştir; canlı balık davranışları, su kaustikleri, yörünge kontrolleri ve model çıktılarını karşılaştırmaya uygun küçük bir etkileşim döngüsü ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Orijinal gönderi](https://x.com/iamtonyzhu/status/2095650251902239139) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
+
+### Birinci ve üçüncü şahıs kameralı RPG
+
+[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="Birinci ve üçüncü şahıs kameralı RPG"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js rol yapma oyununa birinci ve üçüncü şahıs kameraları ekle. İki görünüm arasında geçerken hareketi ve keşfi koru.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Orijinal gönderi](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### Tek istemle gerçek zamanlı oynanabilir 3B oyun
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Tek istemle gerçek zamanlı oynanabilir 3B oyun"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tek istemden gerçek zamanlı, oynanabilir bir 3B oyun oluştur. Kompakt bir temel mekanik, açık bir hedef ve kısa bir hikâye belirle. Ardından sahneyi, karakterleri, nesneleri, geri bildirimleri ve yeniden başlatma durumunu üreterek hemen oynanabilir hâle getir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Orijinal gönderi](https://x.com/higgsfield/status/2095647685210669541) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### Yazdırılabilir USS Enterprise CAD montajı
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="Yazdırılabilir USS Enterprise CAD montajı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+CAD'de USS Enterprise NCC-1701'e özgün bir saygı duruşu niteliğinde, baskıya hazır model tasarla. Tanınabilir oranlar, komuta köprüsü ve seçilmiş iç mekânlar, en az 28 işlevsel hareketli parça, ayrılmış montajlar ve dışa aktarılabilir üretim dosyaları ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Orijinal gönderi](https://x.com/DeryaTR_/status/2095641163441254676) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Blender'da modern villa sahnesi
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender'da modern villa sahnesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da tutarlı mimarisi, döşenmiş iç mekânları, sonsuzluk havuzu, peyzajı, gerçekçi malzemeleri ve altın saatte sinematik kamera rotası olan eksiksiz bir modern villa sahnesi oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Orijinal gönderi](https://x.com/karankendre/status/2095636679264780481) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Cycles için prosedürel Oval Ofis dekoru
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Cycles için prosedürel Oval Ofis dekoru"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Oval Ofis'in dekor açıklamasını çalıştırılabilir sahne koduna dönüştür. Blender'da mobilyaları, duvarları, ışıkları ve kamera yerleşimleri düzenlenebilir olan mekânı kur; ardından Cycles ile sinematik bir render al.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095630197257367857) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Unity'de uzay hendeği uçuş oyunu
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity'de uzay hendeği uçuş oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Unity'de klasik bir uzay hendeği saldırısının hissini yeniden yarat. Alçaktan hızlı uçuş, taret ateşi, engeller, hedefleme, artan baskı, son hedef ve sinematik başarı veya başarısızlık sekansı ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Orijinal gönderi](https://x.com/ronaldmannak/status/2095630044102279312) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### Mimari çizimden Blender ve Unreal görselleştirmesine
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Mimari çizimden Blender ve Unreal görselleştirmesine"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen mimari çizimden başlayarak Blender'da doğru ve düzenlenebilir bir model oluştur. Sonra doğru ölçek ve çarpışmalara sahip, aydınlatılmış ve yürünebilir bir mimari deneyim olarak Unreal Engine'e aktar.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Orijinal gönderi](https://x.com/LinusEkenstam/status/2095624712244072551) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="text-to-explorable-unity-city-2095623452678144366"></a>
 
 ### Metinden keşfedilebilir Unity şehrine
@@ -779,313 +1079,6 @@ Maceralı korsan animelerinden esinlenen, adalar, gemiler, dolaşım, savaş ve 
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Orijinal gönderi](https://x.com/aman_kambojj/status/2095137561283010600) · [Canlı demo](https://onepiece-world.vercel.app/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="flying-pot-animation-in-blender-2095132939667255657"></a>
-
-### Blender'da uçan tencere animasyonu
-
-[Ben](https://x.com/alafrayme) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/flying-pot-animation-in-blender-2095132939667255657"><img src="../assets/previews/f3d795685e4ec323d879c05a0500ac6ac3cb27651c53a13f7b76f5bb0310a33d.webp" width="840" loading="lazy" alt="Blender'da uçan tencere animasyonu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da eğlenceli bir uçan tencere oluştur. Anlaşılır silüet, iskelet veya prosedürel hareket, ifadeli yatışlar, malzemeler, ışık ve kısa sunum animasyonu ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [Orijinal gönderi](https://x.com/alafrayme/status/2095132939667255657) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
-
-### 3B kanser ilerleme simülasyonu
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="3B kanser ilerleme simülasyonu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Mutasyon, bölünme, anjiyogenez, yayılma ve metastazı gösteren eğitici bir 3B kanser hücresi simülasyonu yap. Zaman çizelgesi, etiketler ve aşamalar arasında dikkatli görsel ayrım kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [Orijinal gönderi](https://x.com/viewsfrom02108/status/2095130778342408331) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
-
-### Geliştirilmiş meteor parçalanma efektleri
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="Geliştirilmiş meteor parçalanma efektleri"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Mevcut meteoroid parçalanma efektlerini incele. Kontrolleri bozmadan parçalanma, ısı, izler, şok dalgası, zamanlama, ölçek ve kameradan anlaşılabilirliği iyileştir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Orijinal gönderi](https://x.com/gladimdim/status/2095127248470692320) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
-
-### Ayrıntı seviyeleri hazır saldırı kapsülü uzay gemisi
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="Ayrıntı seviyeleri hazır saldırı kapsülü uzay gemisi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Saldırı kapsülü uzay gemisinin yüksek ve düşük LOD modellerini yeniden tasarla. Silüeti korurken üçgen bütçelerine uy, panel dilini geliştir ve varlığı gerçek zamanlı oyuna hazırla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [Orijinal gönderi](https://x.com/gladimdim/status/2095126622319845478) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
-
-### Ayrıntılı 3B stadyum yeniden yapımı
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="Ayrıntılı 3B stadyum yeniden yapımı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Referans stadyumu doğru tribün katları, saha, çatı, ışık ve ölçekle ayrıntılı, gezilebilir bir 3B sahne olarak yeniden oluştur. Ardından görsel doğruluğu ve üretim maliyetini karşılaştır.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [Orijinal gönderi](https://x.com/thebuggeddev/status/2095123216419459454) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
-
-### Mekanik olarak doğru su değirmeni köyü
-
-[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="Mekanik olarak doğru su değirmeni köyü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de su çarkının dişlileri, kamı ve tokmakları inandırıcı oranlarla çalıştırdığı işleyen bir değirmen köyü kur. Köylüler ve çevresel hareket sahneyi canlı hissettirsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [Orijinal gönderi](https://x.com/mira_senor_1102/status/2095123063352561815) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
-
-### Gölgelendiricili etkileşimli Dino-dex
-
-[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Gölgelendiricili etkileşimli Dino-dex"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Her dinozorun canlı bir 3B model olduğu etkileşimli Dino-dex oluştur. Özel GLSL Fresnel efekti, sekiz verimli WebGL bağlamı, uyumlu kartlar ve bilgilendirici tür ayrıntıları kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [Orijinal gönderi](https://x.com/_Benviz/status/2095121568297083067) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
-
-### Şişenin içinde yaşayan voksel dünya
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="Şişenin içinde yaşayan voksel dünya"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Cam şişede katmanlı okyanus sütunları, yelkenli, deniz feneri, ada yaşamı ve sakinlik, fırtına, gece geçişleri içeren yaşayan bir voksel dünya oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [Orijinal gönderi](https://x.com/vib3coded/status/2095111213927510131) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
-
-### Düzenlenebilir 3B klavye animasyonu
-
-[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="Düzenlenebilir 3B klavye animasyonu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tatmin edici tuş hareketi, ışık, kamera hareketi ve ayarlanabilir etiketler, renkler ve zamanlamalar içeren düzenlenebilir bir 3B klavye animasyonu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Orijinal gönderi](https://x.com/rege_dev/status/2095111032171876470) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### Gundam'dan esinlenen mecha sergisi
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="Gundam'dan esinlenen mecha sergisi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de özgün, Gundam esintili mechaların özenli bir sergisini oluştur. Mekanik eklemler, ölçek ipuçları, dramatik ışık ve inceleme kamerası ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [Orijinal gönderi](https://x.com/usecrayon/status/2095106919530930221) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### Referansla şekillenen Three.js portföyü
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="Referansla şekillenen Three.js portföyü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen görsel referansı katmanlı parçacıklar, VHS ve CRT dokusu, akıcı geçişler ve ekranlara uyumlu etkileşim içeren özenli bir Three.js sitesine dönüştür.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [Orijinal gönderi](https://x.com/MengTo/status/2095104073590808644) · [Kaynak kodu](https://github.com/MengTo/sublevel-studio) · [Canlı demo](https://mengto.github.io/sublevel-studio/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### Etkileşimli F-35A teknik modeli
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="Etkileşimli F-35A teknik modeli"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Kodla ayrıntılı, etkileşimli bir F-35A üret. Doğru oranlar, kumanda yüzeyleri, iniş takımı, kokpit ayrıntıları, etiketler ve inceleme animasyonları ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [Orijinal gönderi](https://x.com/SahilExec/status/2095094543339446572) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Three.js'de MS-06 esintili mecha
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js'de MS-06 esintili mecha"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Ana nesnenin açıkça göründüğü temiz beyaz arka planda, inandırıcı oranlar, malzemeler ve inceleme kontrolleriyle Three.js'de ayrıntılı MS-06 esintili mecha oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [Orijinal gönderi](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### Tek HTML dosyasında yaşayan evren
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="Tek HTML dosyasında yaşayan evren"></a>
-
-**İstem**
-
-```text
-tek HTML dosyasında yaşayan bir evren oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [Orijinal gönderi](https://x.com/tiny_frontier/status/2095054116372508955) · [Canlı demo](https://genesis-demo.tinyfrontier.xyz/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### Yerel C++ soulslike oyunu
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="Yerel C++ soulslike oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Yerel C++ ile Bloodborne'dan esinlenen bir soulslike oyun oluştur. Özgün sanat, animasyon, ses ve müzik, hızlı tepki veren savaş, düşmanlar, bölüm sonu canavarı ve kısa ama eksiksiz bir bölüm ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/native-c-souls-like-game-2095053114600755576) · [Orijinal gönderi](https://x.com/wizardbrainz/status/2095053114600755576) · [Örneklere dön](#all-prompts)
 
 ---
 

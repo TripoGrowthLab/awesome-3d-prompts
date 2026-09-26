@@ -28,6 +28,21 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [軌道をたどる太陽系エクスプローラー](#orbital-solar-system-explorer-2096339041679442428)
+- [アクションを中心に設計するカニのゲーム](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
+- [Blenderで作るフォトリアルな編集可能ドラゴンの再構築](#gpt-6-astra-2096335588727349434)
+- [Warcraftに着想を得たUnityのキャラクターシーン](#warcraft-inspired-character-scene-in-unity-2096308567863079420)
+- [Blenderで再現するリスボンのテレイロ・ド・パソ](#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021)
+- [生物発光が彩る深海のランディングページ](#bioluminescent-deep-sea-landing-page-2096269057544831175)
+- [Three.jsで生成する密生した森](#dense-procedural-forest-in-three-js-2096263046918197609)
+- [ボクセルで再現するクルジュ＝ナポカの統一広場](#cluj-napoca-union-square-in-voxels-2096262733259837681)
+- [C# と WASM によるブラウザレース物理](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
+- [怪獣が戦う都市](#kaiju-city-battle-2096251574918013135)
+- [操作できる Hyperloop デモ](#interactive-hyperloop-demo-2096250748099068377)
+- [スクロールで動く 3D スタジオサイト](#scroll-driven-3d-studio-website-2096245759121277132)
+- [木漏れ日の川を下るカヤック](#komorebi-river-kayaking-2096244208533455049)
+- [屈折するボトルで伝える商品ストーリー](#refractive-bottle-product-story-2096243989439713677)
+- [思い出のカプセルマシン](#memory-capsule-machine-2096241295949975602)
 - [フライトループを完全再現したブラウザ版フライトシミュレーター](#gpt-6-astra-2096236137266512181)
 - [手続き生成するナポレオンの胸像](#procedural-napoleon-bust-2096234355395903672)
 - [鉄道駅のコンコース](#railway-station-concourse-2096226711222546461)
@@ -63,23 +78,715 @@
 - [手続き生成した列車の分解アニメーション](#exploding-procedural-train-assemblies-2096082580554777041)
 - [操作できる地球儀ダッシュボード](#interactive-globe-dashboard-2096082432197837065)
 - [回路図 PDF から基板と 3D 表示へ](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
-- [ブラウザシューター Astral War](#astral-war-browser-shooter-2096079660605997264)
-- [コンセプトアートを起点にAstraでラフな3Dミニゲームを制作](#astra-3d-2096068401294929940)
-- [The Legend of Astraのゲーム試作](#the-legend-of-astra-game-prototype-2096064140510970318)
-- [Sinclair ZX Spectrum シミュレーター](#sinclair-zx-spectrum-simulator-2096062355692048605)
-- [一方向の画像から電動ドリルを再現](#single-view-power-drill-reconstruction-2096059736693305794)
-- [Godot で作る Sonic 風の完成度の高い一ステージ](#sonic-inspired-godot-vertical-slice-2096056285896536086)
-- [Zork を 3D アクションアドベンチャーに](#zork-as-a-3d-action-adventure-2096047660662722620)
-- [橋の通行止めで変わる配送網](#delivery-network-with-bridge-closures-2096042360513904742)
-- [WebGL で進化する生態系](#evolving-webgl-ecosystem-2096040448477515874)
-- [探索できるタージ・マハル](#explorable-taj-mahal-2096035962824335798)
-- [講演活動を地球儀で見せる 3D ポートフォリオ](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [マルチプレイ FPS Gogh Strike](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [資料から再現するTP-7レコーダー](#tp-7-recorder-reference-model-2096013228090245181)
-- [Tesla Model X の分解表示](#tesla-model-x-exploded-view-2096009146248122416)
-- [WebGPU でぷるぷる揺れるゼリー](#bouncy-webgpu-jelly-2096008241104711698)
 
 </details>
+<a id="orbital-solar-system-explorer-2096339041679442428"></a>
+
+### 軌道をたどる太陽系エクスプローラー
+
+[Andromedus](https://x.com/dzhohola) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/orbital-solar-system-explorer-2096339041679442428"><img src="../assets/previews/4111d0814d9a9c2268143b6adc5367e2de9a3d807f77e4b1c18d82033e941185.webp" width="840" loading="lazy" alt="軌道をたどる太陽系エクスプローラー"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+8つの惑星と20の衛星を備えた、ブラウザー向け太陽系エクスプローラーをThree.jsで制作してください。カメラ移動と、簡略化した宇宙飛行計画の操作を可能にしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [元の投稿](https://x.com/dzhohola/status/2096339041679442428) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="a-crab-game-with-action-driven-mechanics-2096337879173591171"></a>
+
+### アクションを中心に設計するカニのゲーム
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/c1f5f1674d05a9bfec5c5e37024796a6e28d0cafb8e35148b01d3865c6b48c46.webp" width="840" loading="lazy" alt="アクションを中心に設計するカニのゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+外見、キャラクター、世界、アクション、目標、インターフェース、カメラを整理した仕様から、Three.jsでカニのゲームを制作してください。カニが通りかかるとコインが浮き上がり、カニに向かって飛ぶようにしてください。要件に矛盾があれば指摘してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [元の投稿](https://x.com/zeuuss_01/status/2096337879173591171) · [デモ](https://beach-crab-game.netlify.app/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096335588727349434"></a>
+
+### Blenderで作るフォトリアルな編集可能ドラゴンの再構築
+
+[Sarang Borude](https://x.com/doomdave) · 2026-09-05 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/e7c2fd347fd31e7e2c69be456ec1b437cd5cff2616cdf2a474f0c189d02af149.webp" width="840" loading="lazy" alt="Blenderで作るフォトリアルな編集可能ドラゴンの再構築"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/4d0bd23e-3879-4052-9e83-5c70656c5dc5.jpg) · [2](https://pbs.twimg.com/media/HReuaRUacAAtOFF.jpg)
+
+**プロンプト**
+
+```text
+添付されたリファレンスシートに描かれたドラゴンを、Blender内でフォトリアルかつ完全に編集可能な3Dモデルとして再構築してください。
+
+側面、正面、上面、背面、頭部の各アングル、頭部クローズアップ、目のクローズアップ、鱗のディテール、翼のディテールなど、提供されたすべてのビューを使い、解剖学的に説得力のある一体のドラゴンとして再構築してください。
+
+特に次の要素を含め、リファレンスにできるだけ忠実に合わせてください。
+
+- 全体の体のプロポーションとシルエット
+- 長く筋肉質な首と先細りの尾
+- 4本の脚と2枚の大きなコウモリ型の翼
+- 頭部と顎の形状
+- 角の数、形状、配置
+- 首、背中、尾に沿った背側の突起
+- 暗いチャコールブラックと土色のブラウンによる鱗のパターン
+- 層状の鎧のような鱗
+- 縦長の瞳孔を持つ黄金色〜アンバー色の目
+- 爪、牙、翼膜
+- 古代的でリアル、かつ威圧感のある外見
+
+リファレンスの各パネルには、小さな不整合が含まれている場合があります。ドラゴンの視覚的な個性を保ちながら、それらを物理的に一貫した左右対称のベースモデルへ統合してください。全体のプロポーションには側面図、幅と立ち姿には正面図、翼と尾には上面図および背面図、頭部、目、鱗、翼のマテリアルには各クローズアップを使用してください。
+
+ドラゴンはゼロから、実際に編集可能なBlenderジオメトリとして構築してください。既存のドラゴンモデルをダウンロードしたりインポートしたりしないでください。ジオメトリの代わりにビルボード、2D投影、デプスマップによる錯視、生成動画を使用しないでください。
+
+主な構築方法として、モジュール化したBlender Python（`bpy`）スクリプトと、バックグラウンド／ヘッドレスモードで実行するBlenderを使用してください。スクリプトは再現可能な状態に保ち、`.blend`ファイルの成功したバージョンを保存してください。視覚的な確認が役立つ場合は、コンピューター操作を使ってBlenderシーンを開き、確認してください。Blender MCPサーバーはインストールしたり、依存したりしないでください。
+
+モデリング方針
+
+ディテールを追加する前に、解剖学的なブロックアウトから始めてください。まず次の要素を確立します。
+
+- 頭蓋骨、顎、眼窩
+- 首、胸部、胸郭、骨盤
+- 解剖学的に説得力のある4本の脚
+- 分離した趾と湾曲した爪
+- 体幹に一体化した翼の付け根
+- 関節構造を持つ翼の腕と指骨
+- 正しく接続された翼膜
+- 骨盤から自然につながる長い尾
+- 主な角と背側の棘
+
+余分な四肢、重複した角、分離した翼膜、壊れた関節、浮いた鱗、ジオメトリの交差、紙のように薄い形状、意図しない左右非対称、玩具のようなプロポーションは避けてください。
+
+ブロックアウトを検証した後、二次ディテールと三次ディテールを追加してください。
+
+- 層状の胸部プレートと首のプレート
+- 解剖学の流れに沿った方向性のある鱗
+- 眉弓とまぶた
+- 実際に開口した鼻孔
+- 口内、歯茎、1本ずつ分離した歯
+- 角の隆起、欠け、摩耗した先端
+- 脚の装甲と指関節のプレート
+- 翼の腱、折り目、血管、控えめな傷跡
+- 尾に沿って続く背側の棘
+- 自然で控えめな左右非対称
+
+シルエットに影響するものは、角、爪、牙、大きな鱗、背側の棘、翼の指骨、重要な翼膜の折り目を含め、すべてジオメトリで作成してください。マイクロディテールに限り、ノーマルマップ、バンプ、または控えめなディスプレイスメントを使用してください。
+
+マテリアル
+
+物理ベースでフォトリアルなマテリアルを作成してください。
+
+鱗は主にチャコールブラックとし、グラファイト色と土色のブラウンで控えめな変化を加えてください。色、粗さ、マイクロノーマルに抑制の効いたバリエーションを付けます。隆起した鱗、へこんだ皮膚、装甲プレートは、それぞれ異なる光の反射特性を持つようにしてください。均一なプラスチック光沢や、無差別なプロシージャルノイズは避けてください。
+
+翼膜は風雨にさらされた爬虫類の革のように見せてください。支持骨の間では薄く、関節部と前縁付近では厚く見えるようにします。布、ゴム、紙のように見せず、控えめな血管、折り目、張力、傷跡、半透明性、色の変化を加えてください。
+
+暗い基部、摩耗して明るくなった先端、縦方向の隆起、微細な損傷を持つ、ケラチンのような角と爪を作成してください。
+
+目には次の要素を持たせてください。
+
+- 黄金色〜アンバー色の虹彩
+- 縦長の黒い瞳孔
+- 詳細な虹彩構造
+- 暗い輪部
+- 適切な立体形状の眼球
+- リアルなまぶた
+- 濡れた角膜のハイライト
+- まぶたの縁に沿った控えめな湿り気
+
+目を発光させたり、不自然に光らせたりしないでください。
+
+ライティングと環境
+
+リファレンスに似た、抑制の効いたシネマティックな環境を作成してください。
+
+- 暗い岩の台座または山の露頭
+- 遠景の大気遠近感を持つ山々
+- 劇的な曇天
+- 冷たい環境光
+- 顔と鱗を浮かび上がらせる、わずかに暖色の指向性ライト
+- 薄い大気の霧
+- 注意をそらす構造物や他の生物は置かない
+
+ドラゴンは、安定した威厳のある立ち姿にしてください。
+
+- 頭を上げ、警戒した状態
+- 首はわずかにカーブ
+- 翼は完全に、またはほぼ完全に広げる
+- 4本すべての足に説得力のある形で体重を分散
+- 尾は後方で自然に地面へ置くか、自然にカーブさせる
+- 口は閉じるか、わずかに開く
+- 目線はカメラ、またはカメラの少し先へ向ける
+
+ビジュアル検証
+
+次のビューに対応する検証カメラを作成してください。
+
+- 側面図
+- 正面図
+- 上面図
+- 背面図
+- 左右の頭部プロファイル
+- 斜め前からのヒーロービュー
+- 頭部クローズアップ
+- 目のクローズアップ
+- 鱗のクローズアップ
+- 翼のクローズアップ
+
+少なくとも3回、評価と修正のループを実行してください。
+
+各ループでは次の手順を実行します。
+
+1. すべての検証カメラでレンダーする。
+2. 各レンダーを対応するリファレンスパネルと比較する。
+3. シルエット、解剖学、プロポーション、頭部の個性、角、翼、脚、足、尾、鱗の流れ、マテリアル、左右対称性、交差、シェーディング、法線を評価する。
+4. 不一致を重要度順に並べたリストを作成する。
+5. 視覚的に最も重要な問題を修正する。
+6. 同じカメラで再レンダーする。
+7. 修正前後の比較を保存する。
+
+オブジェクトを作成しただけで完了と判断しないでください。実際のレンダーを確認し、目に見える問題を修正して初めて完了とします。
+
+10秒間のカメラ旋回
+
+完成したドラゴンを撮影するシネマティックなカメラ旋回を、次の要件で作成してください。
+
+- 正確に10秒
+- 解像度1920 × 1080
+- 30フレーム毎秒
+- 正確に300フレーム
+- 滑らかで途切れのないカメラ移動
+- カットなし
+- ほぼ1周する完全な360度のオービット
+- 力強い正面斜め構図から開始
+- 側面、背面、反対側の側面を回り込む
+- 開始フレームへ滑らかにつながる構図で終了
+- 背中と翼の構造が見えるよう、高さを控えめに変化させる
+- ドラゴン全体をフレーム内に収める
+- 頭部と胴体を主な視覚的焦点にする
+- 滑らかなベジェ補間を使用
+- 急加速とカメラのロールを避ける
+- 翼、尾、地面、胴体をカメラが貫通しないようにする
+- 強い広角歪みのない自然なパースペクティブレンズを使用
+- ドラゴンの形状が判別できる程度に被写界深度を控えめにする
+- モーションブラーは控えめにする
+
+最終レンダー前に、アニメーション全体の高速・低サンプル1080pプレビューを生成してください。プレビュー全体を確認し、不適切なフレーミング、カメラの衝突、不自然なシルエット、視界の遮り、急な動き、シェーディングの不具合、目に見えるジオメトリの交差を修正してください。
+
+最終レンダー
+
+評価ループを完了し、アニメーションプレビューを承認した後、次を実行してください。
+
+- 1920 × 1080で最終アニメーションをレンダーする。
+- 可能な場合はGPUアクセラレーション付きのCyclesを使用する。
+- 30fps、正確に300フレームでレンダーする。
+- アダプティブサンプリングとデノイズを使用する。
+- 中断したレンダーを再開できるよう、まず個別の画像フレームとしてレンダーする。
+- マスターフレームには16-bit PNGまたはOpenEXRを使用する。
+- レンダーしたフレームを高品質なH.264 MP4にまとめる。
+- AIによるフレーム補間は使用しない。
+- 動画化した後も個別のフレームを保持する。
+
+納品物
+
+次を納品してください。
+
+1. 最終版の編集可能な`.blend`ファイル
+2. 再現可能な`bpy`スクリプト一式
+3. 再構築とレンダリングの手順を記載したREADME
+4. リファレンス分析と前提条件のレポート
+5. ビューを合わせたリファレンス比較
+6. 評価ループ前後の比較
+7. 完成したドラゴンと重要なディテールの高品質なスチルレンダー
+8. 300フレームすべての画像シーケンス
+9. 最終10秒1080p H.264動画
+10. ジオメトリとマテリアルの検証レポート
+11. 使用を許可した外部環境リソースと、そのライセンスを特定するマニフェスト
+
+成功基準
+
+成功とは、次の条件を満たすことです。
+
+- リファレンスと同じドラゴンだと認識できる。
+- どの角度から見ても解剖学的な一貫性が保たれている。
+- 頭部、角、アンバー色の目、翼、背側の棘、暗く層状の鱗がリファレンスに近い。
+- ドラゴンが完全な3Dで、編集可能である。
+- 大・中サイズのディテールが偽物ではなくモデリングされている。
+- カメラの移動に応じてマテリアルが自然に反応する。
+- 明らかな交差、浮いた鱗、重複した解剖学的パーツ、壊れた法線がない。
+- 玩具、彫刻、一般的なプロシージャルモデル、通常のゲームアセットではなく、実在する生物を撮影したように見える。
+- カメラの動きが滑らかでシネマティックであり、正確に10秒間である。
+
+これらの工程を自律的に進めてください。まずリファレンスの分析と解剖学的ブロックアウトから始めます。リファレンスから解決できない重大な曖昧さに遭遇した場合は、最も解剖学的に妥当な選択を行い、その前提を記録して作業を続行してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a photorealistic, fully editable 3D reconstruction of the dragon shown in the attached reference sheet inside Blender.
+
+Use every supplied view—including the side, front, top, back, head angles, head closeup, eye closeup, scale detail and wing detail—to reconstruct one coherent and anatomically believable dragon.
+
+Match the reference as closely as possible, especially:
+
+- Overall body proportions and silhouette
+- Long muscular neck and tapering tail
+- Four legs and two large bat-like wings
+- Head and jaw shape
+- Horn number, shape and placement
+- Dorsal spikes along the neck, back and tail
+- Dark charcoal and earthy-brown scale patterns
+- Layered armor-like scales
+- Golden-amber eyes with vertical pupils
+- Claws, teeth and wing membranes
+- Ancient, realistic and threatening appearance
+
+The reference panels may contain small inconsistencies. Reconcile them into a physically coherent, symmetrical base creature while preserving the dragon’s visual identity. Use the side view for overall proportions, the front view for width and stance, the top and back views for wings and tail, and the closeups for the head, eyes, scales and wing materials.
+
+Build the dragon from scratch as actual editable Blender geometry. Do not download or import an existing dragon model. Do not use billboards, 2D projections, depth-map illusions or generated video in place of geometry.
+
+Use modular Blender Python (`bpy`) scripts and Blender’s executable in background/headless mode as the primary construction method. Keep the scripts reproducible and preserve successful versions of the `.blend` file. Use computer use to open and inspect the Blender scene whenever visual inspection is helpful. Do not install or rely on a Blender MCP server.
+
+MODELING APPROACH
+
+Begin with an anatomical blockout before adding detail. Establish:
+
+- Skull, jaw and eye sockets
+- Neck, chest, rib cage and pelvis
+- Four anatomically convincing legs
+- Separated toes and curved claws
+- Wing shoulders integrated into the torso
+- Articulated wing arms and finger bones
+- Properly connected wing membranes
+- Long tail continuing naturally from the pelvis
+- Primary horns and dorsal spines
+
+Avoid extra limbs, duplicated horns, disconnected membranes, broken joints, floating scales, intersections, paper-thin forms, accidental asymmetry and toy-like proportions.
+
+After validating the blockout, add secondary and tertiary details:
+
+- Layered chest and neck plates
+- Directional scales that follow the anatomy
+- Brow ridges and eyelids
+- Real nostril openings
+- Mouth interior, gums and individual teeth
+- Horn ridges, chips and worn tips
+- Leg armor and knuckle plates
+- Wing tendons, folds, veins and restrained scars
+- Dorsal spikes continuing down the tail
+- Subtle natural asymmetry
+
+Use geometry for anything affecting the silhouette, including horns, claws, teeth, major scales, dorsal spines, wing fingers and important membrane folds. Use normal maps, bump or restrained displacement only for micro-detail.
+
+MATERIALS
+
+Create physically based, photorealistic materials.
+
+The scales should be predominantly charcoal-black with subtle graphite and earthy-brown variation. Add restrained color, roughness and micro-normal variation. Raised scales, recessed skin and armored plates should reflect light differently. Avoid uniform plastic shine and indiscriminate procedural noise.
+
+The wing membranes should look like weathered reptilian leather. They should appear thinner between the supporting bones and thicker near joints and leading edges. Include subtle veins, folds, tension, scars, translucency and color variation without making them resemble cloth, rubber or paper.
+
+Create keratin-like horns and claws with dark bases, lighter worn tips, lengthwise ridges and subtle damage.
+
+The eyes should have:
+
+- Golden-amber irises
+- Vertical black pupils
+- Detailed iris structures
+- Dark limbal regions
+- Proper three-dimensional eyeballs
+- Realistic eyelids
+- Wet corneal highlights
+- Subtle moisture along the eyelid edges
+
+Do not make the eyes emissive or artificially glowing.
+
+LIGHTING AND ENVIRONMENT
+
+Create a restrained cinematic environment similar to the reference:
+
+- Dark rocky pedestal or mountain outcrop
+- Distant atmospheric mountains
+- Dramatic overcast sky
+- Cool ambient illumination
+- Subtle warmer directional light revealing the face and scales
+- Light atmospheric mist
+- No distracting structures or additional creatures
+
+Pose the dragon in a stable, commanding stance:
+
+- Head raised and alert
+- Neck slightly curved
+- Wings fully or nearly fully displayed
+- Weight distributed credibly across all four feet
+- Tail resting or curving naturally behind it
+- Mouth closed or slightly parted
+- Eyes directed toward or just past the camera
+
+VISUAL VERIFICATION
+
+Create matched validation cameras for:
+
+- Side view
+- Front view
+- Top view
+- Back view
+- Left and right head profiles
+- Three-quarter hero view
+- Head closeup
+- Eye closeup
+- Scale closeup
+- Wing closeup
+
+Perform at least three critic-and-correction loops.
+
+During each loop:
+
+1. Render every validation camera.
+2. Compare each render with the corresponding reference panel.
+3. Evaluate silhouette, anatomy, proportions, head identity, horns, wings, legs, feet, tail, scale flow, materials, symmetry, intersections, shading and normals.
+4. Produce a ranked list of discrepancies.
+5. Correct the most visually important problems.
+6. Rerender the same cameras.
+7. Preserve before-and-after comparisons.
+
+Do not claim completion merely because the objects were created. Completion requires inspecting the actual renders and correcting visible problems.
+
+10-SECOND CAMERA FLYAROUND
+
+Create a cinematic camera flyaround of the completed dragon with these requirements:
+
+- Exactly 10 seconds
+- 1920 × 1080 resolution
+- 30 frames per second
+- Exactly 300 frames
+- Smooth continuous camera movement
+- No cuts
+- Approximately one complete 360-degree orbit
+- Start from a strong front three-quarter composition
+- Travel around the side, back and opposite side
+- End in a composition that connects smoothly with the opening frame
+- Add a restrained elevation change to reveal the back and wing construction
+- Keep the complete dragon inside the frame
+- Keep the head and torso as the main visual focus
+- Use smooth Bézier interpolation
+- Avoid sudden acceleration and camera roll
+- Avoid clipping through the wings, tail, terrain or body
+- Use a natural perspective lens without strong wide-angle distortion
+- Keep depth of field subtle enough that the dragon remains readable
+- Use restrained motion blur
+
+Before the final render, generate a fast, low-sample 1080p preview of the entire animation. Inspect the complete preview and correct bad framing, camera collisions, awkward silhouettes, obstructed views, abrupt motion, shading defects and visible geometry intersections.
+
+FINAL RENDER
+
+After completing the critic loops and approving the animation preview:
+
+- Render the final animation at 1920 × 1080.
+- Use Cycles with GPU acceleration when available.
+- Render at 30 fps for exactly 300 frames.
+- Use adaptive sampling and denoising.
+- Render to individual image frames first so an interrupted render can be resumed.
+- Use 16-bit PNG or OpenEXR for the master frames.
+- Assemble the rendered frames into a high-quality H.264 MP4.
+- Do not use AI frame interpolation.
+- Retain the individual frames after assembling the video.
+
+DELIVERABLES
+
+Provide:
+
+1. Final editable `.blend` file
+2. All reproducible `bpy` scripts
+3. README with rebuild and rendering instructions
+4. Reference-analysis and assumptions report
+5. Matched-view reference comparisons
+6. Before-and-after critic-loop comparisons
+7. High-quality still renders of the complete dragon and important details
+8. Complete 300-frame image sequence
+9. Final 10-second 1080p H.264 video
+10. Geometry and material validation report
+11. A manifest identifying any permitted external environment resources and their licenses
+
+SUCCESS CRITERIA
+
+Success means:
+
+- The result is recognizably the same dragon as the reference.
+- Its anatomy remains coherent from every angle.
+- The head, horns, amber eyes, wings, dorsal spines and dark layered scales closely match the reference.
+- The dragon is fully three-dimensional and editable.
+- Major and medium details are modeled rather than faked.
+- Materials respond naturally as the camera moves.
+- There are no obvious intersections, floating scales, duplicated anatomy or broken normals.
+- It resembles a photographed physical creature rather than a toy, sculpture, generic procedural model or ordinary game asset.
+- The camera movement is smooth, cinematic and exactly 10 seconds long.
+
+Work autonomously through these stages. Begin with reference analysis and the anatomical blockout. If you encounter a major ambiguity that cannot be resolved from the reference, make the most anatomically plausible choice, document the assumption and continue.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096335588727349434) · [元の投稿](https://x.com/doomdave/status/2096335588727349434) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="warcraft-inspired-character-scene-in-unity-2096308567863079420"></a>
+
+### Warcraftに着想を得たUnityのキャラクターシーン
+
+[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/5d7b5f942c0c75a7fd99b056ed2c49ea92c1d2fc8698a81f2801c498007225f0.webp" width="840" loading="lazy" alt="Warcraftに着想を得たUnityのキャラクターシーン"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Astra、Tripo P2、Blender、Unityを使い、Warcraftに着想を得たキャラクターシーンを制作してください。キャラクターアセットを生成し、Blenderで調整してから、Unityでプレイ可能なシーンに組み込んでください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [元の投稿](https://x.com/luccacerf/status/2096308567863079420) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"></a>
+
+### Blenderで再現するリスボンのテレイロ・ド・パソ
+
+[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/77c44cd1909ca3d2ae1490936c946ba70a47c04e188bca6215192fae95c7c19c.webp" width="840" loading="lazy" alt="Blenderで再現するリスボンのテレイロ・ド・パソ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+リスボンのテレイロ・ド・パソを、編集可能なBlenderシーンとして再現してください。資料を調べ、広場の建築、マテリアル、照明に反映してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [元の投稿](https://x.com/goncalo_canhoto/status/2096298425914450021) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="bioluminescent-deep-sea-landing-page-2096269057544831175"></a>
+
+### 生物発光が彩る深海のランディングページ
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/e31de617c90349dcbe141c72fcea15ae67e789783549740c6c7904254caebcea.webp" width="840" loading="lazy" alt="生物発光が彩る深海のランディングページ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.jsの水表現、暗いガラス風のインターフェース、スクロールに連動する動きを使い、深海をテーマにしたランディングページを制作してください。3Dの雰囲気と、わかりやすく画面サイズに対応したサイト操作を両立してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [元の投稿](https://x.com/himanshubuildss/status/2096269057544831175) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="dense-procedural-forest-in-three-js-2096263046918197609"></a>
+
+### Three.jsで生成する密生した森
+
+[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/8b0fa0d915619e050c9da1c6daefd6e18ca80d78222a90660a4e7883a0d93845.webp" width="840" loading="lazy" alt="Three.jsで生成する密生した森"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+数千本の木、密生した草、シダからなる精細な森をThree.jsで制作してください。独自のシェーダーと効率的なジオメトリの反復配置を使い、シーン全体のディテールを保ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [元の投稿](https://x.com/LexnLin/status/2096263046918197609) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="cluj-napoca-union-square-in-voxels-2096262733259837681"></a>
+
+### ボクセルで再現するクルジュ＝ナポカの統一広場
+
+[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/930e422109c34a8f6e093f607165323b5b2f6cf472796fd6495b09f195deab7e.webp" width="840" loading="lazy" alt="ボクセルで再現するクルジュ＝ナポカの統一広場"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+クルジュ＝ナポカのピアツァ・ウニリイを、インタラクティブなボクセルワールドとして制作してください。広場だとわかる配置と名所を生かし、探索可能なミニチュアにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [元の投稿](https://x.com/danmana/status/2096262733259837681) · [ソースコード](https://github.com/danmana/piata-unirii) · [デモ](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="browser-racing-physics-in-c-and-wasm-2096258619574513880"></a>
+
+### C# と WASM によるブラウザレース物理
+
+[achepta](https://x.com/achepta_tm) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/50ecc7179fa30fbd26b46fa5f2b6d8cb48fe689c5c08a58a1008ad3f5bb57e3a.webp" width="840" loading="lazy" alt="C# と WASM によるブラウザレース物理"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Trackmania 風のレース物理を C# で再現し、WASM で動かして Three.js でコースを描画してください。衝突判定のあるコースメッシュを使い、車両の操縦感を検証してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [元の投稿](https://x.com/achepta_tm/status/2096258619574513880) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### 怪獣が戦う都市
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="怪獣が戦う都市"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+生成した怪獣モデルと効果音を使い、怪獣作品に着想を得た Three.js ゲームを作成してください。巨大な戦闘が分かりやすく、怪獣の大きさが伝わる環境を構築してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/kaiju-city-battle-2096251574918013135) · [元の投稿](https://x.com/majidmanzarpour/status/2096251574918013135) · [デモ](https://stormcolossus.netlify.app/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### 操作できる Hyperloop デモ
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="操作できる Hyperloop デモ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+輸送ポッド、チューブ設備、システム内の移動を見せる、操作可能な Three.js Hyperloop デモを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [元の投稿](https://x.com/hbanay98/status/2096250748099068377) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### スクロールで動く 3D スタジオサイト
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="スクロールで動く 3D スタジオサイト"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された参考画像を Three.js シーンにし、滑らかなスクロール連動のスタジオサイトに組み込んでください。カメラ移動、文字組み、セクション遷移を連動させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [元の投稿](https://x.com/mx_debbiee/status/2096245759121277132) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### 木漏れ日の川を下るカヤック
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="木漏れ日の川を下るカヤック"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+アニメ風の美しさを持つ 3D 川下りカヤックゲームを作成してください。左右に漕いで障害物を避ける操作を実装し、流れる水、風景、音楽、効果音をコードで生成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [元の投稿](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### 屈折するボトルで伝える商品ストーリー
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="屈折するボトルで伝える商品ストーリー"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+フォトリアルな WebGL ガラスボトルを中心に、インタラクティブな商品サイトを作成してください。ブラウザ性能を保ちつつ、光を屈折させる液体、スクロール連動の回転、大胆な文字組みを用いてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [元の投稿](https://x.com/himanshubuildss/status/2096243989439713677) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### 思い出のカプセルマシン
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="思い出のカプセルマシン"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+3D の思い出カプセルマシンを作成してください。つまみを回すと思い出が出てきます。機構を Blender でモデル化し、落ちるカプセルに自然な動きと音を付けてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/memory-capsule-machine-2096241295949975602) · [元の投稿](https://x.com/gloria_zwq/status/2096241295949975602) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096236137266512181"></a>
 
 ### フライトループを完全再現したブラウザ版フライトシミュレーター
@@ -978,313 +1685,6 @@ blenderを使用してデザインや見た目重視の近未来バイク、近�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [元の投稿](https://x.com/swjtutl/status/2096079976433082502) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="astral-war-browser-shooter-2096079660605997264"></a>
-
-### ブラウザシューター Astral War
-
-[Rishi](https://x.com/0xRishi) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/6d8b4beb5ef0ca19d84022568666ed1172dda03dee1c9045199da3595b003f7b.webp" width="840" loading="lazy" alt="ブラウザシューター Astral War"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-World at War に着想を得た Three.js ブラウザシューターを作成してください。反応のよい戦闘、空間音響、キャラクターアセット、試合進行を備えた、最後まで遊べる戦場を構築してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [元の投稿](https://x.com/0xRishi/status/2096079660605997264) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="astra-3d-2096068401294929940"></a>
-
-### コンセプトアートを起点にAstraでラフな3Dミニゲームを制作
-
-[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="コンセプトアートを起点にAstraでラフな3Dミニゲームを制作"></a>
-
-**プロンプト**
-
-```text
-悲しくも美しいディストピアの世界。ボクセル／ローポリスタイル、雨の夜、薄い霧、濡れた地面の反射、寒色の青い環境光＋暖かなオレンジ色のライト。ライティングはできるだけリアルで、映画的に。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/astra-3d-2096068401294929940) · [元の投稿](https://x.com/ChenshuoAI/status/2096068401294929940) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
-
-### The Legend of Astraのゲーム試作
-
-[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="The Legend of Astraのゲーム試作"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blenderで準備したシーンとTripoアセットを使い、Unityで3Dアドベンチャーゲームの試作を制作してください。プレイ可能なデモにキャラクターアニメーションを組み込んでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [元の投稿](https://x.com/lofihashbloom/status/2096064140510970318) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
-
-### Sinclair ZX Spectrum シミュレーター
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Sinclair ZX Spectrum シミュレーター"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリとして再現してください。ゴム製キーボード、テーププレーヤー、起動画面、遊べるゲーム、BASIC プログラミング画面を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [元の投稿](https://x.com/DeryaTR_/status/2096062355692048605) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
-
-### 一方向の画像から電動ドリルを再現
-
-[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="一方向の画像から電動ドリルを再現"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-一方向の参考画像から Blender で電動ドリルを再構築してください。本体、グリップ、チャック、操作部を編集可能な形状として作り、複数の角度から結果を確認してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [元の投稿](https://x.com/SkyeSharkie/status/2096059736693305794) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
-
-### Godot で作る Sonic 風の完成度の高い一ステージ
-
-[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="Godot で作る Sonic 風の完成度の高い一ステージ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ローカルおよび手続き生成のアセットを使い、Godot で Sonic に着想を得た 3D ステージを磨き上げてください。勢い、反応のよい移動、リング、ループ、グラインドレール、途切れない南国の海岸を優先してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [元の投稿](https://x.com/AiBattle_/status/2096056285896536086) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
-
-### Zork を 3D アクションアドベンチャーに
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork を 3D アクションアドベンチャーに"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-古典的なテキストアドベンチャー Zork を、3D アクションアドベンチャーにしてください。物語と謎解きを保ち、戦闘シーンを加え、キャラクターと環境を Three.js で構築してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [元の投稿](https://x.com/emollick/status/2096047660662722620) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
-
-### 橋の通行止めで変わる配送網
-
-[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="橋の通行止めで変わる配送網"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-橋を閉鎖するとトラックの経路が変わる 3D 配送シミュレーションを作成してください。到達不能な配送先を検出し、経路が再開したら配達を復旧させてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [元の投稿](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
-
-### WebGL で進化する生態系
-
-[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="WebGL で進化する生態系"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-素の WebGL と GLSL を使い、一つの HTML ファイルに進化する 3D 生態系を作成してください。突然変異、自然選択、捕食、エネルギー消費、多細胞の結合を相互に作用させてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [元の投稿](https://x.com/yume_arasaki/status/2096040448477515874) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### 探索できるタージ・マハル
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="探索できるタージ・マハル"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-タージ・マハルを探索できる 3D シーンとして再現してください。特徴的な比率、左右対称の庭園、中央ドーム、ミナレット、建物同士の位置関係を優先してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/explorable-taj-mahal-2096035962824335798) · [元の投稿](https://x.com/vikassabbi/status/2096035962824335798) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### 講演活動を地球儀で見せる 3D ポートフォリオ
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="講演活動を地球儀で見せる 3D ポートフォリオ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-人物写真から Blender キャラクターを作り、編集デザインを生かした WebGL ポートフォリオに配置してください。講演イベントの場所を示す回転地球儀を追加し、各アセットをサイトに統合してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [元の投稿](https://x.com/HowDevelop/status/2096023793772998704) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### マルチプレイ FPS Gogh Strike
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="マルチプレイ FPS Gogh Strike"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ポスト印象派の画風による 5 対 5 の一人称シューターを作成してください。Blender でレンダリングした画家キャラクター、区別しやすいチーム、ブラウザで完結するマルチプレイ試合を実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [元の投稿](https://x.com/petergostev/status/2096013280519016608) · [ソースコード](https://github.com/petergpt/gogh-strike) · [デモ](https://gogh-strike.surge.sh/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### 資料から再現するTP-7レコーダー
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="資料から再現するTP-7レコーダー"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-参考画像をもとに、Teenage Engineering TP-7をThree.jsで再現してください。形状と外から見える操作部を合わせ、細部を確認できる3Dモデルにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [元の投稿](https://x.com/ty_kra_lab/status/2096013228090245181) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### Tesla Model X の分解表示
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X の分解表示"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Tesla Model X をモデル化した部品に分解する 3D サイトを作成してください。各アセンブリを観察し、操作して車を再組み立てできるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [元の投稿](https://x.com/ashebytes/status/2096009146248122416) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### WebGPU でぷるぷる揺れるゼリー
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="WebGPU でぷるぷる揺れるゼリー"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js と WebGPU で、おいしそうに弾むゼリーを作成してください。触れると自然に変形して静まり、半透明の素材と形が分かる照明で表現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [元の投稿](https://x.com/scottstts/status/2096008241104711698) · [作例一覧に戻る](#all-prompts)
 
 ---
 

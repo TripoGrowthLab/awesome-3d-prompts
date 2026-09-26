@@ -16,11 +16,11 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [bubblik525/cat\_brain\_anatomy](https://github.com/bubblik525/cat_brain_anatomy)
 
-- [Interactive 3D Anatomy Explorer](../docs/catalog.en.2.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik)
+- [Interactive 3D Anatomy Explorer](../docs/catalog.en.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik)
 
 ## [bubblik525/Chernobyl\_Atlas](https://github.com/bubblik525/Chernobyl_Atlas)
 
-- [Chernobyl Atlas](../docs/catalog.en.2.md#gpt-6-astra-2098841316591346006) · [BuBBliK](https://x.com/k1rallik)
+- [Chernobyl Atlas](../docs/catalog.en.3.md#gpt-6-astra-2098841316591346006) · [BuBBliK](https://x.com/k1rallik)
 
 ## [bubblik525/head](https://github.com/bubblik525/head)
 
@@ -40,7 +40,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [danmana/piata-unirii](https://github.com/danmana/piata-unirii)
 
-- [Cluj-Napoca Union Square in voxels](../docs/catalog.en.4.md#cluj-napoca-union-square-in-voxels-2096262733259837681) · [Dan Manastireanu](https://x.com/danmana)
+- [Cluj-Napoca Union Square in voxels](../docs/catalog.en.5.md#cluj-napoca-union-square-in-voxels-2096262733259837681) · [Dan Manastireanu](https://x.com/danmana)
 
 ## [Parithosh-Varma/office](https://github.com/Parithosh-Varma/office)
 
@@ -48,7 +48,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [petergpt/gogh-strike](https://github.com/petergpt/gogh-strike)
 
-- [Gogh Strike multiplayer FPS](../docs/catalog.en.5.md#gogh-strike-multiplayer-fps-2096013280519016608) · [Peter Gostev](https://x.com/petergostev)
+- [Gogh Strike multiplayer FPS](../docs/catalog.en.6.md#gogh-strike-multiplayer-fps-2096013280519016608) · [Peter Gostev](https://x.com/petergostev)
 
 ## [alesha-pro/bench-portal](https://github.com/alesha-pro/bench-portal)
 
@@ -58,11 +58,11 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep)
 
-- [Procedural living ocean and storm simulation](../docs/catalog.en.6.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick)
+- [Procedural living ocean and storm simulation](../docs/catalog.en.7.md#procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Ethan Mollick](https://x.com/emollick)
 
 ## [MengTo/sublevel-studio](https://github.com/MengTo/sublevel-studio)
 
-- [Reference-driven Three.js portfolio](../docs/catalog.en.7.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo)
+- [Reference-driven Three.js portfolio](../docs/catalog.en.8.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo)
 
 ## [bridge-mind/turbo-kart-rush](https://github.com/bridge-mind/turbo-kart-rush)
 

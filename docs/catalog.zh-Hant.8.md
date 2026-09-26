@@ -28,6 +28,21 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [Blender 飛行鍋動畫](#flying-pot-animation-in-blender-2095132939667255657)
+- [3D 癌細胞演進模擬](#3d-cancer-progression-simulation-2095130778342408331)
+- [增強流星體解體特效](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
+- [支援 LOD 的突擊艙飛船](#lod-ready-assault-pod-spaceship-2095126622319845478)
+- [高細節 3D 體育場復刻](#detailed-3d-stadium-recreation-2095123216419459454)
+- [機械準確的水車村莊](#mechanically-accurate-water-mill-village-2095123063352561815)
+- [Shader 驅動的互動式恐龍圖鑑](#interactive-shader-driven-dino-dex-2095121568297083067)
+- [玻璃瓶中的鮮活體素世界](#living-voxel-world-inside-a-bottle-2095111213927510131)
+- [可編輯的 3D 鍵盤動畫](#editable-3d-keyboard-animation-2095111032171876470)
+- [高達風機甲展示](#gundam-inspired-mecha-showcase-2095106919530930221)
+- [參考圖驅動的 Three.js 作品集](#reference-driven-three-js-portfolio-2095104073590808644)
+- [互動式 F-35A 技術模型](#interactive-f-35a-technical-model-2095094543339446572)
+- [Three.js MS-06 風格機甲](#three-js-ms-06-inspired-mecha-2095085944391270759)
+- [單 HTML 檔案中的鮮活宇宙](#living-universe-in-one-html-file-2095054116372508955)
+- [原生 C++ 類魂遊戲](#native-c-souls-like-game-2095053114600755576)
 - [可玩的 3D 蛇梯棋](#playable-3d-snakes-and-ladders-2095050993184669825)
 - [肖像轉動態體素](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
 - [互動式 Three.js 城堡](#interactive-three-js-castle-2095048818203275584)
@@ -63,23 +78,315 @@
 - [多人恐龍生存遊戲](#multiplayer-dinosaur-survival-game-2094866225960493189)
 - [十分鐘生成並繼續完善 Three.js 遊戲](#ten-minute-three-js-game-then-refined-2094855905678446777)
 - [玻璃大腦能力演示](#glass-brain-capability-demo-2094853472864682360)
-- [程式化體素城堡展示](#procedural-voxel-castle-showcase-2093690427849191855)
-- [用於 Blender 組裝 Jeep 風格 4x4 的提示詞](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
-- [用於獨立 HTML 場景的 3D 破壞物理提示詞](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
-- [Claude Opus 5 機甲機器人藍圖提示集](#mech-robot-blueprint-set-2082760534500188606)
-- [Need for Speed 風格 Godot 遊戲提示詞](#need-for-speed-style-godot-game-2082714235373584582)
-- [Kimi K3 玻璃水族箱開裂爆裂 3D 模擬提示詞](#cracking-aquarium-3d-simulation-2082528683747873194)
-- [Kimi K3 的可玩戰鬥遊戲提示詞](#playable-combat-game-2082507403598373134)
-- [Kimi K3 的《英雄聯盟》風格 1v1 單頁 HTML 遊戲提示詞](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
-- [適用於 Claude Opus 5 的單檔案 3D 太陽視覺化提示詞](#single-file-3d-sun-visualizer-2082461416049525077)
-- [圍繞電腦工作站的 3D 房間提示詞，用於單檔案 Three.js 建置](#explorable-3d-room-with-computer-workstation-2082451081733591520)
-- [Claude Opus 5 的非歐幾里得門傳送門提示](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
-- [用於 Three.js 遊戲建置的簡單 FPS 提示詞](#simple-first-person-shooter-in-three-js-2082242351372599770)
-- [用於 Claude Opus 5 的 CS2 與 Battlefield 風格第一人稱射擊遊戲提示詞](#cs2-and-battlefield-style-fps-2082241827298557966)
-- [Claude Opus 5 AAA 射擊遊戲提示詞](#aaa-shooter-game-2082180453889712318)
-- [在單個 HTML 檔案中製作可玩的黑暗奇幻橫版卷軸遊戲](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
 
 </details>
+<a id="flying-pot-animation-in-blender-2095132939667255657"></a>
+
+### Blender 飛行鍋動畫
+
+[Ben](https://x.com/alafrayme) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/flying-pot-animation-in-blender-2095132939667255657"><img src="../assets/previews/f3d795685e4ec323d879c05a0500ac6ac3cb27651c53a13f7b76f5bb0310a33d.webp" width="840" loading="lazy" alt="Blender 飛行鍋動畫"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中建立會飛的趣味烹飪鍋，確保輪廓清晰，並加入繫結或程式化運動、富有表現力的傾斜、材質、燈光與短展示動畫。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [查看原文](https://x.com/alafrayme/status/2095132939667255657) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
+
+### 3D 癌細胞演進模擬
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="3D 癌細胞演進模擬"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置教育型 3D 癌細胞模擬，展示突變、分裂、血管生成、侵襲與轉移，並用時間軸、標籤和清晰視覺差異區分階段。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [查看原文](https://x.com/viewsfrom02108/status/2095130778342408331) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
+
+### 增強流星體解體特效
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="增強流星體解體特效"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+檢查現有流星體解體特效，在不破壞當前控制的前提下，改進碎裂、熱量、尾跡、衝擊波、時間節奏、尺度與鏡頭可讀性。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [查看原文](https://x.com/gladimdim/status/2095127248470692320) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
+
+### 支援 LOD 的突擊艙飛船
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="支援 LOD 的突擊艙飛船"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+為突擊艙飛船重新設計高低 LOD 模型，在滿足三角面預算的同時保留輪廓、改進面板語言，並讓資產適合實時遊戲。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [查看原文](https://x.com/gladimdim/status/2095126622319845478) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
+
+### 高細節 3D 體育場復刻
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="高細節 3D 體育場復刻"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把參考體育場復刻為高細節、可導航的 3D 場景，準確還原看臺層級、球場、屋頂、燈光和尺度，並比較視覺保真度與生成成本。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [查看原文](https://x.com/thebuggeddev/status/2095123216419459454) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
+
+### 機械準確的水車村莊
+
+[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="機械準確的水車村莊"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置可執行的 Three.js 水車村莊，讓水輪以可信傳動比驅動齒輪、凸輪和舂杵，並透過村民與環境動態讓場景鮮活。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [查看原文](https://x.com/mira_senor_1102/status/2095123063352561815) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
+
+### Shader 驅動的互動式恐龍圖鑑
+
+[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Shader 驅動的互動式恐龍圖鑑"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立互動式恐龍圖鑑，每種恐龍都是實時 3D 模型，並使用自定義 GLSL 菲涅爾效果、八個高效 WebGL 上下文、響應式卡片和物種資訊。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [查看原文](https://x.com/_Benviz/status/2095121568297083067) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
+
+### 玻璃瓶中的鮮活體素世界
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="玻璃瓶中的鮮活體素世界"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在玻璃瓶中建立一個鮮活體素世界，包含分層海洋、帆船、燈塔、島嶼生活，以及晴朗、暴風雨和夜晚之間的變化。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [查看原文](https://x.com/vib3coded/status/2095111213927510131) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
+
+### 可編輯的 3D 鍵盤動畫
+
+[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="可編輯的 3D 鍵盤動畫"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立可編輯的 3D 鍵盤動畫，細化按鍵行程、燈光與鏡頭運動，並允許配置標籤、顏色和時間。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [查看原文](https://x.com/rege_dev/status/2095111032171876470) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
+
+### 高達風機甲展示
+
+[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="高達風機甲展示"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立精緻的 Three.js 原創高達風機甲展示，包含機械關節、尺度參照、戲劇化燈光與檢視鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [查看原文](https://x.com/usecrayon/status/2095106919530930221) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
+
+### 參考圖驅動的 Three.js 作品集
+
+[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="參考圖驅動的 Three.js 作品集"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把給定視覺參考重建為精緻的 Three.js 網站，加入分層粒子、VHS 與 CRT 質感、流暢轉場和響應式互動。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [查看原文](https://x.com/MengTo/status/2095104073590808644) · [專案原始碼](https://github.com/MengTo/sublevel-studio) · [線上展示](https://mengto.github.io/sublevel-studio/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
+
+### 互動式 F-35A 技術模型
+
+[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="互動式 F-35A 技術模型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+透過程式碼生成高細節互動式 F-35A，準確處理比例、控制面、起落架、座艙提示、標籤和檢視動畫。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [查看原文](https://x.com/SahilExec/status/2095094543339446572) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
+
+### Three.js MS-06 風格機甲
+
+[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js MS-06 風格機甲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在乾淨白色背景上用 Three.js 建立高細節 MS-06 風格機甲，確保主體清晰，並完善比例、材質與檢視控制。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [查看原文](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="living-universe-in-one-html-file-2095054116372508955"></a>
+
+### 單 HTML 檔案中的鮮活宇宙
+
+[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="單 HTML 檔案中的鮮活宇宙"></a>
+
+**提示詞**
+
+```text
+在一個 HTML 檔案中建置一個鮮活宇宙。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build a living universe in one HTML file.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [查看原文](https://x.com/tiny_frontier/status/2095054116372508955) · [線上展示](https://genesis-demo.tinyfrontier.xyz/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="native-c-souls-like-game-2095053114600755576"></a>
+
+### 原生 C++ 類魂遊戲
+
+[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="原生 C++ 類魂遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用原生 C++ 建立受 Bloodborne 啟發的類魂遊戲，包含原創美術、動畫、音效和音樂，以及響應靈敏的戰鬥、敵人、Boss 與完整短關卡。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/native-c-souls-like-game-2095053114600755576) · [查看原文](https://x.com/wizardbrainz/status/2095053114600755576) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
 
 ### 可玩的 3D 蛇梯棋
@@ -800,341 +1107,6 @@ make a Three.js demo of your capabilities.
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [查看原文](https://x.com/viewsfrom02108/status/2094853472864682360) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
-
-### 程式化體素城堡展示
-
-[Hakm](https://x.com/hakmgpt) · 2026-08-29 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855"><img src="../assets/previews/23ae53933cb538d4d667ddafc25295f17b5ba7d553359586648ba59b74aa5bab.webp" width="840" loading="lazy" alt="程式化體素城堡展示"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-生成大型體素城堡，清晰表現防禦層級、塔樓、城牆、城門、庭院與周邊地形。使用例項化、環繞鏡頭、變化光照和確定性生成，讓結果穩定且可檢視。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [查看原文](https://x.com/hakmgpt/status/2093690427849191855) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
-
-### 用於 Blender 組裝 Jeep 風格 4x4 的提示詞
-
-[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="用於 Blender 組裝 Jeep 風格 4x4 的提示詞"></a>
-
-**提示詞**
-
-```text
-設計一輛 Jeep 風格的 4x4，並在 Blender 中逐部件組裝，不進行任何手工建模
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [查看原文](https://x.com/slash1sol/status/2082845759452463405) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
-
-### 用於獨立 HTML 場景的 3D 破壞物理提示詞
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="用於獨立 HTML 場景的 3D 破壞物理提示詞"></a>
-
-**提示詞**
-
-```text
-一輛怪獸卡車碾過一排汽車
-兩輛汽車飛躍峽谷，並在空中迎頭相撞
-一把巨大的鐵砧逐個壓扁汽車
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [查看原文](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="mech-robot-blueprint-set-2082760534500188606"></a>
-
-### Claude Opus 5 機甲機器人藍圖提示集
-
-[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Claude Opus 5 機甲機器人藍圖提示集"></a>
-
-**提示詞**
-
-```text
-分享一下我用 Claude OPUS 5 + Blender 建立一臺 GUNDAM 尺寸機甲機器人藍圖時使用的提示，基於真實數學和物理：
-
-"讓我們來考慮機甲的設計，本質上它有 2 臺渦輪軸發動機，並由電動馬達 + 液壓動力驅動，它還有一個輔助動力裝置，或許也有氣動系統；它有強力電池，在情況變糟時能讓它稍微滑行一下。我在想把這 2 臺發動機放在機甲的肩部，服務面板朝外，這樣我們就可以對它進行維護。順便再看一遍機甲的系統，然後我們就要把所有系統都物理化地建立出來。這會很棒，給你安排一個代理來幫你做這件事，然後重建軀幹部分，但在中間留出一個大空間給駕駛艙 + 睡眠艙。"
-
-"如果我們給它的腳裝上由電動馬達驅動的輪子呢？這樣大多數時候應該能輔助移動。"
-
-"分配一個代理來讀取這些指標並建立腿部設計，把真實的電線接入執行器之類的東西。"
-
-"好，把新的 glb 模型注入場景。"
-
-"天啊，這也太瘋狂了。夥計，快把其他部分先顯示出來。"
-
-"給那個低多邊形頭部加上真正的 FLIR + NV 攝像頭，以及一把 1980/1990 年代的 CROWS M2 機槍。"
-
-"它……太美了……T_T"
-
-"我們必須給腿部骨架做繫結，這樣如果我給它做動畫，它就會遵守約束，而且這對計算力等也很必要。"
-
-"沒事，我反正也不太懂哈哈，"
-"好，所以你已經做好的那些東西，比如發動機、動力傳動系統和腿部，把這些部分儲存好以便以後使用，萬一我們能在其他地方重複使用它們。話雖如此，指示一個代理去建置手臂和手。"
-
-"另外，正確設計髖部機構以適配腿部。"
-
-"在我看來，PELVIS 和 CHEST 之間的關節具有圓形扭矩。"
-
-"找一個代理，使用 bofors 系統建立一把手持半自動步槍，這樣機器人就有些快速射擊的半自動砰砰武器了。"
-
-"我想要 40mm 的，真的做一個出來，準確但保持低多邊形，這樣我們就能測量它是更適合作為手槍還是半自動步槍。"
-
-"兩種都做，然後再做一個像 abrams 加農炮但帶半自動機制的版本。"
-"建立一個像步槍那樣的槍栓和彈簧。"
-
-"好，所以我在想，駕駛艙裡把所有裝飾性的線纜之類都去掉，真正做真實佈線 o-O 你怎麼看"
-
-"方案：做真實佈線，但像一頭野蠻動物那樣佈線。"
-
-"注入 120mm 加農炮那個東西。"
-
-"給 120mm 加農炮的運作做繫結和動畫。"
-
-"我想在這裡加一個裝甲大艙門，這樣我們就能讓座椅升起，讓駕駛員能從那個位置看到周圍並駕駛機甲，而且駕駛艙內的 4 個伸縮式觀察窗在頂部也需要有對應的終點，這樣才合理。"
-"繼續給 120mm 做繫結和動畫，還有艙門命令，剛才是誤觸暫停。"
-
-"好，所以動力裝置，我覺得腹部是個不錯的位置，不過我不喜歡發動機現在的位置，我覺得我們應該把它們放到現有位置的上方，並用真實的桁架結構來支撐軀幹和肩部……看你怎麼決定，你想怎麼做胸部？我們要做艙門入口，這樣前胸就可以建出來……"
-
-"好，外殼可以用厚鋁甚至碳纖維，我無所謂，但必須看起來很酷，我猜 NCT 可以作為裝甲嗎？不知道，你來決定，我們之後還得加一些東西讓這個怪物看起來沒那麼難以接受……總之，帶上你的團隊開始建造。"
-
-"我發現這個 inverter PT125 到處漂著，我不知道它應該放在哪。"
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [查看原文](https://x.com/Spectromachina/status/2082760534500188606) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
-
-### Need for Speed 風格 Godot 遊戲提示詞
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed 風格 Godot 遊戲提示詞"></a>
-
-**提示詞**
-
-```text
-給我做一個 NFS 型別的遊戲。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [查看原文](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
-
-### Kimi K3 玻璃水族箱開裂爆裂 3D 模擬提示詞
-
-[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Kimi K3 玻璃水族箱開裂爆裂 3D 模擬提示詞"></a>
-
-**提示詞**
-
-```text
-建立一個玻璃水族箱，其側板先出現可見裂紋，然後破裂。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [查看原文](https://x.com/UnslothAI/status/2082528683747873194) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="playable-combat-game-2082507403598373134"></a>
-
-### Kimi K3 的可玩戰鬥遊戲提示詞
-
-[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 的可玩戰鬥遊戲提示詞"></a>
-
-**提示詞**
-
-```text
-建置一個可玩的戰鬥遊戲
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-combat-game-2082507403598373134) · [查看原文](https://x.com/darshal_/status/2082507403598373134) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
-
-### Kimi K3 的《英雄聯盟》風格 1v1 單頁 HTML 遊戲提示詞
-
-[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Kimi K3 的《英雄聯盟》風格 1v1 單頁 HTML 遊戲提示詞"></a>
-
-**提示詞**
-
-```text
-我在 Verdent 上給 Kimi K3 和 GPT-5.6 輸入了同一個提示詞：在一個 HTML 檔案裡建置一個可玩的英雄聯盟風格 1v1。
-
-兩者都生成了一個遊戲。我把它們並排開啟逐個玩了一遍。
-
-我在兩次執行之間只改了一個東西：https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm 下拉選單裡的模型
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [查看原文](https://x.com/0x_fokki/status/2082474707727581564) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
-
-### 適用於 Claude Opus 5 的單檔案 3D 太陽視覺化提示詞
-
-[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="適用於 Claude Opus 5 的單檔案 3D 太陽視覺化提示詞"></a>
-
-**提示詞**
-
-```text
-建置一個在太空中旋轉的 3D 太陽視覺化器。一個 HTML 檔案。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [查看原文](https://x.com/AlysisAI/status/2082461416049525077) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
-
-### 圍繞電腦工作站的 3D 房間提示詞，用於單檔案 Three.js 建置
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="圍繞電腦工作站的 3D 房間提示詞，用於單檔案 Three.js 建置"></a>
-
-**提示詞**
-
-```text
-建置一個圍繞電腦工作站的可探索 3D 房間，單個自包含 HTML 檔案，使用透過 importmap 引入的 Three.js，僅用程式化幾何，不要網格，不要影象紋理，不指定佈局或風格。“你是設計師。給我驚喜”
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [查看原文](https://x.com/thehypedotnews/status/2082451081733591520) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
-
-### Claude Opus 5 的非歐幾里得門傳送門提示
-
-[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Claude Opus 5 的非歐幾里得門傳送門提示"></a>
-
-**提示詞**
-
-```text
-"一扇孤零零地立在虛空中的門，周圍什麼都沒有，身後也什麼都沒有，它開啟後通向關卡中別處的一間教室。直接走過去——不要切換、淡出、載入介面，或者任何會讓人感覺在傳送的東西。它必須能從兩側、從各個角度正常工作。"
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [查看原文](https://x.com/ombrageplays/status/2082436347113951333) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
-
-### 用於 Three.js 遊戲建置的簡單 FPS 提示詞
-
-[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="用於 Three.js 遊戲建置的簡單 FPS 提示詞"></a>
-
-**提示詞**
-
-```text
-幫我做一個 FPS
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [查看原文](https://x.com/codewithantonio/status/2082242351372599770) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
-
-### 用於 Claude Opus 5 的 CS2 與 Battlefield 風格第一人稱射擊遊戲提示詞
-
-[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="用於 Claude Opus 5 的 CS2 與 Battlefield 風格第一人稱射擊遊戲提示詞"></a>
-
-**提示詞**
-
-```text
-嘗試製作一款結合 CS2 和 Battlefield 的第一人稱射擊遊戲。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [查看原文](https://x.com/AnatoliKopadze/status/2082241827298557966) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="aaa-shooter-game-2082180453889712318"></a>
-
-### Claude Opus 5 AAA 射擊遊戲提示詞
-
-[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Claude Opus 5 AAA 射擊遊戲提示詞"></a>
-
-**提示詞**
-
-```text
-最近，Claude Opus 5 建立的《使命召喚》遊戲開始在網上走紅，作者聲稱只用了一個提示就實現了。很多人對此持懷疑態度，而作者已經直接開源了程式碼和提示。
-
-我原本以為這個提示會非常複雜，但結果只有短短幾百個字。關鍵在於其中的迴圈。
-
-以下是提示：
-
-"我希望你開發一款能達到最新《使命召喚》水平的第一人稱射擊遊戲。它必須完美無缺，擁有令人驚歎的美麗畫面，從紋理到物理效果——你能想到的所有元素都必須達到 AAA 級質量。
-
-你需要建立多個子代理，讓每個子代理分別處理每一個細節，以確保遊戲達到完美。你應該對每個專案使用 /loop，並讓一個獨立子代理進行視覺檢查，以確保其達到 AAA 級標準。這個獨立子代理必須非常嚴格；如果沒有達到 AAA 級標準，它就應該繼續檢查。
-
-在每個子代理與《使命召喚》遊戲對比後，都不要停止，直到它們都對遊戲畫面質量驚歎不已。即使不看畫面，它也應該能夠將兩款遊戲並排比較，並指出哪一款更好。使用 ThreeJS 完成這項工作。/loop 直到遊戲達到完美。建立多個子代理，並使用 UltraCode 進行最佳化。"
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-shooter-game-2082180453889712318) · [查看原文](https://x.com/ziqinyuan/status/2082180453889712318) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
-
-### 在單個 HTML 檔案中製作可玩的黑暗奇幻橫版卷軸遊戲
-
-[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="在單個 HTML 檔案中製作可玩的黑暗奇幻橫版卷軸遊戲"></a>
-
-**提示詞**
-
-```text
-在一個 HTML 檔案中，建立一個可玩的黑暗奇幻橫版卷軸遊戲。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [查看原文](https://x.com/slash1sol/status/2082096376763060575) · [返回案例導覽](#all-prompts)
 
 ---
 

@@ -28,6 +28,21 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Храм в джунглях и гигантский страж-ванара](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
+- [Из плана этажа в полноценную 3D-прогулку](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
+- [Интерактивный воксельный железнодорожный макет](#interactive-voxel-railway-table-2095719731860750613)
+- [Живой воксельный корабль в бутылке](#living-voxel-ship-in-a-bottle-2095699049722581065)
+- [Процедурный живой океан и симуляция шторма](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
+- [Неожиданная игра на Three.js за один запрос](#one-shot-three-js-surprise-game-2095663498101662198)
+- [Дворец изящных искусств в Blender](#palace-of-fine-arts-blender-recreation-2095653641164329143)
+- [Тест моделей: аквариум по одному промпту](#single-aquarium-benchmark-2095650251902239139)
+- [RPG с камерами от первого и третьего лица](#rpg-with-first-and-third-person-cameras-2095648440978174276)
+- [Игровой 3D-мир в реальном времени по одному промпту](#single-playable-real-time-3d-game-2095647685210669541)
+- [CAD-сборка USS Enterprise для печати](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Современная вилла в Blender](#modern-villa-scene-in-blender-2095636679264780481)
+- [Процедурная декорация Овального кабинета для Cycles](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Космический полёт по траншее в Unity](#unity-space-trench-run-game-2095630044102279312)
+- [Архвиз: от чертежа через Blender к Unreal](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
 - [Из описания в город для исследования в Unity](#text-to-explorable-unity-city-2095623452678144366)
 - [Фабрика шариков на Three.js](#three-js-marble-factory-2095622065390772322)
 - [Студия фотореалистичных 3D-мокапов товаров](#photoreal-3d-product-mockup-studio-2095619319690400253)
@@ -63,23 +78,308 @@
 - [Город по эквидистантной панораме](#city-from-an-equirectangular-panorama-2095159781883597031)
 - [Логово дракона в Blender](#dragon-lair-scene-in-blender-2095149546187653547)
 - [Сетевой пиратский мир на Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
-- [Анимация летающей кастрюли в Blender](#flying-pot-animation-in-blender-2095132939667255657)
-- [3D-симуляция развития рака](#3d-cancer-progression-simulation-2095130778342408331)
-- [Улучшенный VFX распада метеороида](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
-- [Космическая десантная капсула с уровнями LOD](#lod-ready-assault-pod-spaceship-2095126622319845478)
-- [Детальное воссоздание 3D-стадиона](#detailed-3d-stadium-recreation-2095123216419459454)
-- [Деревня с механически точной водяной мельницей](#mechanically-accurate-water-mill-village-2095123063352561815)
-- [Интерактивный Dino-dex с шейдерами](#interactive-shader-driven-dino-dex-2095121568297083067)
-- [Живой воксельный мир в бутылке](#living-voxel-world-inside-a-bottle-2095111213927510131)
-- [Редактируемая 3D-анимация клавиатуры](#editable-3d-keyboard-animation-2095111032171876470)
-- [Витрина мехов в духе Gundam](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [Портфолио на Three.js по референсу](#reference-driven-three-js-portfolio-2095104073590808644)
-- [Интерактивная техническая модель F-35A](#interactive-f-35a-technical-model-2095094543339446572)
-- [Мех в духе MS-06 на Three.js](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [Живая вселенная в одном HTML-файле](#living-universe-in-one-html-file-2095054116372508955)
-- [Нативная souls-like игра на C++](#native-c-souls-like-game-2095053114600755576)
 
 </details>
+<a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
+
+### Храм в джунглях и гигантский страж-ванара
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-04 · Claude Fable 5.1 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290"><img src="../assets/previews/867a825910e52a1f4ee03010a0ca7c11c6d7ba340d474277fbedece704f9e178.webp" width="840" loading="lazy" alt="Храм в джунглях и гигантский страж-ванара"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай кинематографичную сцену по мотивам «Рамаяны» в HTML и Three.js. Забытый храм в джунглях пробуждает колоссального стража-ванару; создай окружение, анимацию и музыкальное сопровождение кодом.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Исходная публикация](https://x.com/BuildFastWithAI/status/2095729606066348290) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
+
+### Из плана этажа в полноценную 3D-прогулку
+
+[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="Из плана этажа в полноценную 3D-прогулку"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Преврати предоставленный план этажа в полноценную архитектурную 3D-прогулку. Соблюдай размеры комнат и связи между ними, добавь двери, окна, мебель, материалы и освещение, затем проложи маршрут камеры, раскрывающий планировку.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Исходная публикация](https://x.com/aidarosgo3/status/2095725404883476661) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="interactive-voxel-railway-table-2095719731860750613"></a>
+
+### Интерактивный воксельный железнодорожный макет
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="Интерактивный воксельный железнодорожный макет"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай детальный воксельный железнодорожный макет на Three.js. Позволь запускать и останавливать несколько поездов, переключать пути, вращать и приближать камеру, рассматривать миниатюрные города и включать небольшие анимации окружения.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Исходная публикация](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
+
+### Живой воксельный корабль в бутылке
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="Живой воксельный корабль в бутылке"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай детальный воксельный корабль XVII века, плывущий внутри стеклянной бутылки. Смоделируй волны и качку, добавь кружащих чаек, миниатюрную гавань и коралловые рифы, затем подготовь кинематографичный пролёт камеры и спокойную звуковую дорожку.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Исходная публикация](https://x.com/DeryaTR_/status/2095699049722581065) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
+
+### Процедурный живой океан и симуляция шторма
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="Процедурный живой океан и симуляция шторма"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Развей предоставленный однофайловый генератор штормовой поверхности в полноценный процедурный океан. Добавь рифы, глубины, правдоподобную погоду, популяции животных с возникающим из взаимодействий поведением, связи экосистемы и камеру, перемещающуюся над водой и под ней.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Исходная публикация](https://x.com/emollick/status/2095673885605630429) · [Исходный код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
+
+### Неожиданная игра на Three.js за один запрос
+
+[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="Неожиданная игра на Three.js за один запрос"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай за один запрос оригинальную игру на Three.js, достойную названия «Amaze». Выбери одну удивляющую визуальную механику, объясни её за несколько секунд, выстрой короткое развитие и заверши игру эффектным зрелищем.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Исходная публикация](https://x.com/pratt_builds/status/2095663498101662198) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
+
+### Дворец изящных искусств в Blender
+
+[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Дворец изящных искусств в Blender"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Воссоздай Дворец изящных искусств Сан-Франциско в Blender: узнаваемые пропорции ротонды, колоннады, лагуна, растительность, состаренные материалы и кинематографичный свет, передающий оптимизм эпохи всемирных выставок.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Исходная публикация](https://x.com/sharifshameem/status/2095653641164329143) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="single-aquarium-benchmark-2095650251902239139"></a>
+
+### Тест моделей: аквариум по одному промпту
+
+[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="Тест моделей: аквариум по одному промпту"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай по предоставленному референсу 3D-игру-аквариум одним промптом. Передай композицию и настроение, добавь живое поведение рыб, водную каустику, орбитальное управление и небольшой цикл взаимодействий для сравнения результатов моделей.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Исходная публикация](https://x.com/iamtonyzhu/status/2095650251902239139) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
+
+### RPG с камерами от первого и третьего лица
+
+[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="RPG с камерами от первого и третьего лица"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Дополни ролевую игру на Three.js камерами от первого и третьего лица. Сохрани работу перемещения и исследования при переключении между видами.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Исходная публикация](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### Игровой 3D-мир в реальном времени по одному промпту
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Игровой 3D-мир в реальном времени по одному промпту"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай по одному промпту 3D-игру, работающую в реальном времени. Определи небольшую основную механику, понятную цель и короткую историю, затем создай сцену, персонажей, предметы, обратную связь и состояние перезапуска, чтобы можно было сразу играть.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Исходная публикация](https://x.com/higgsfield/status/2095647685210669541) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### CAD-сборка USS Enterprise для печати
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="CAD-сборка USS Enterprise для печати"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай в CAD оригинальную модель по мотивам USS Enterprise NCC-1701, готовую к печати. Сохрани узнаваемые пропорции, добавь мостик и отдельные интерьеры, не менее 28 работающих подвижных деталей, раздельные сборки и экспортируемые производственные файлы.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Исходная публикация](https://x.com/DeryaTR_/status/2095641163441254676) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Современная вилла в Blender
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Современная вилла в Blender"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай полноценную сцену современной виллы в Blender: целостная архитектура, меблированные интерьеры, инфинити-бассейн, озеленение, реалистичные материалы и кинематографичная траектория камеры в золотой час.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Исходная публикация](https://x.com/karankendre/status/2095636679264780481) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Процедурная декорация Овального кабинета для Cycles
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Процедурная декорация Овального кабинета для Cycles"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Преобразуй описание декораций Овального кабинета в исполняемый код сцены. Построй помещение в Blender с редактируемой мебелью, стенами, освещением и расстановкой камер, затем создай кинематографичный рендер в Cycles.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Исходная публикация](https://x.com/higgsfield_ai/status/2095630197257367857) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Космический полёт по траншее в Unity
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Космический полёт по траншее в Unity"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Передай в Unity ощущение классического космического полёта по траншее: скоростной полёт на малой высоте, огонь турелей, препятствия, наведение, нарастающее напряжение, конечная цель и кинематографичная сцена успеха или поражения.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Исходная публикация](https://x.com/ronaldmannak/status/2095630044102279312) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### Архвиз: от чертежа через Blender к Unreal
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Архвиз: от чертежа через Blender к Unreal"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Возьми предоставленный архитектурный чертёж, создай точную редактируемую модель в Blender, затем перенеси её в Unreal Engine как освещённую архитектурную сцену для прогулок с правильным масштабом и коллизиями.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Исходная публикация](https://x.com/LinusEkenstam/status/2095624712244072551) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="text-to-explorable-unity-city-2095623452678144366"></a>
 
 ### Из описания в город для исследования в Unity
@@ -779,313 +1079,6 @@
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Исходная публикация](https://x.com/aman_kambojj/status/2095137561283010600) · [Демо](https://onepiece-world.vercel.app/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="flying-pot-animation-in-blender-2095132939667255657"></a>
-
-### Анимация летающей кастрюли в Blender
-
-[Ben](https://x.com/alafrayme) · 2026-09-02 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/flying-pot-animation-in-blender-2095132939667255657"><img src="../assets/previews/f3d795685e4ec323d879c05a0500ac6ac3cb27651c53a13f7b76f5bb0310a33d.webp" width="840" loading="lazy" alt="Анимация летающей кастрюли в Blender"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай забавную летающую кастрюлю в Blender: читаемый силуэт, риг или процедурное движение, выразительные крены, материалы, освещение и короткая презентационная анимация.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [Исходная публикация](https://x.com/alafrayme/status/2095132939667255657) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
-
-### 3D-симуляция развития рака
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="3D-симуляция развития рака"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай учебную 3D-симуляцию раковых клеток, показывающую мутации, деление, ангиогенез, инвазию и метастазирование. Добавь временную шкалу, подписи и чёткое визуальное различие стадий.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [Исходная публикация](https://x.com/viewsfrom02108/status/2095130778342408331) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
-
-### Улучшенный VFX распада метеороида
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="Улучшенный VFX распада метеороида"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Изучи существующий VFX распада метеороида и улучши фрагментацию, нагрев, следы, ударную волну, тайминг, масштаб и читаемость в кадре, не нарушив текущее управление.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Исходная публикация](https://x.com/gladimdim/status/2095127248470692320) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
-
-### Космическая десантная капсула с уровнями LOD
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="Космическая десантная капсула с уровнями LOD"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Переработай высоко- и низкодетализированные LOD-модели космического десантного корабля. Сохрани силуэт, соблюди лимиты треугольников, улучши оформление панелей и подготовь ассет для игры в реальном времени.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [Исходная публикация](https://x.com/gladimdim/status/2095126622319845478) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
-
-### Детальное воссоздание 3D-стадиона
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="Детальное воссоздание 3D-стадиона"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Воссоздай стадион по референсу как детальную 3D-сцену для перемещения с точными ярусами трибун, полем, крышей, освещением и масштабом. Затем сравни визуальную точность и стоимость генерации.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [Исходная публикация](https://x.com/thebuggeddev/status/2095123216419459454) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
-
-### Деревня с механически точной водяной мельницей
-
-[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="Деревня с механически точной водяной мельницей"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай действующую деревню с водяной мельницей на Three.js. Колесо должно приводить в движение шестерни, кулачок и песты с правдоподобными передаточными отношениями. Жители и движение окружения должны оживлять сцену.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [Исходная публикация](https://x.com/mira_senor_1102/status/2095123063352561815) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
-
-### Интерактивный Dino-dex с шейдерами
-
-[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Интерактивный Dino-dex с шейдерами"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай интерактивный Dino-dex, где каждый динозавр представлен живой 3D-моделью. Используй собственный эффект Френеля на GLSL, восемь эффективных контекстов WebGL, адаптивные карточки и содержательные сведения о видах.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [Исходная публикация](https://x.com/_Benviz/status/2095121568297083067) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
-
-### Живой воксельный мир в бутылке
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="Живой воксельный мир в бутылке"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай живой воксельный мир внутри стеклянной бутылки: многослойная толща океана, парусник, маяк, жизнь на острове и переходы между штилем, штормом и ночью.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [Исходная публикация](https://x.com/vib3coded/status/2095111213927510131) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
-
-### Редактируемая 3D-анимация клавиатуры
-
-[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="Редактируемая 3D-анимация клавиатуры"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай редактируемую 3D-анимацию клавиатуры с приятным ходом клавиш, освещением, движением камеры и настраиваемыми надписями, цветами и таймингом.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Исходная публикация](https://x.com/rege_dev/status/2095111032171876470) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### Витрина мехов в духе Gundam
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="Витрина мехов в духе Gundam"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай качественную витрину оригинальных мехов в духе Gundam на Three.js: подвижные механические сочленения, ориентиры масштаба, драматичное освещение и камера для подробного осмотра.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [Исходная публикация](https://x.com/usecrayon/status/2095106919530930221) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### Портфолио на Three.js по референсу
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="Портфолио на Three.js по референсу"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Воссоздай предоставленный визуальный референс как качественный сайт на Three.js с многослойными частицами, текстурами VHS и CRT, плавными переходами и отзывчивыми взаимодействиями.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [Исходная публикация](https://x.com/MengTo/status/2095104073590808644) · [Исходный код](https://github.com/MengTo/sublevel-studio) · [Демо](https://mengto.github.io/sublevel-studio/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### Интерактивная техническая модель F-35A
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="Интерактивная техническая модель F-35A"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Сгенерируй кодом детальный интерактивный F-35A с точными пропорциями, управляющими поверхностями, шасси, характерными деталями кабины, подписями и анимациями осмотра.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [Исходная публикация](https://x.com/SahilExec/status/2095094543339446572) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Мех в духе MS-06 на Three.js
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Мех в духе MS-06 на Three.js"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай детального меха в духе MS-06 на Three.js на чистом белом фоне, чтобы главный объект хорошо читался. Обеспечь убедительные пропорции, материалы и управление осмотром.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [Исходная публикация](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### Живая вселенная в одном HTML-файле
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="Живая вселенная в одном HTML-файле"></a>
-
-**Промпт**
-
-```text
-создай живую вселенную в одном HTML-файле.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [Исходная публикация](https://x.com/tiny_frontier/status/2095054116372508955) · [Демо](https://genesis-demo.tinyfrontier.xyz/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### Нативная souls-like игра на C++
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="Нативная souls-like игра на C++"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай souls-like игру в духе Bloodborne на нативном C++ с оригинальной графикой, анимацией, звуком и музыкой. Добавь отзывчивую боевую систему, врагов, босса и один законченный короткий уровень.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/native-c-souls-like-game-2095053114600755576) · [Исходная публикация](https://x.com/wizardbrainz/status/2095053114600755576) · [Назад к примерам](#all-prompts)
 
 ---
 

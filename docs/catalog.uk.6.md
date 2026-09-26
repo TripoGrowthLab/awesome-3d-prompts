@@ -28,6 +28,21 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Astral War — браузерний шутер](#astral-war-browser-shooter-2096079660605997264)
+- [Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту](#astra-3d-2096068401294929940)
+- [Прототип гри The Legend of Astra](#the-legend-of-astra-game-prototype-2096064140510970318)
+- [Симулятор Sinclair ZX Spectrum](#sinclair-zx-spectrum-simulator-2096062355692048605)
+- [Відтворення дриля за одним ракурсом](#single-view-power-drill-reconstruction-2096059736693305794)
+- [Вертикальний зріз гри в дусі Sonic на Godot](#sonic-inspired-godot-vertical-slice-2096056285896536086)
+- [Zork як тривимірна пригодницька гра](#zork-as-a-3d-action-adventure-2096047660662722620)
+- [Мережа доставки із закриттям мостів](#delivery-network-with-bridge-closures-2096042360513904742)
+- [Екосистема WebGL, що еволюціонує](#evolving-webgl-ecosystem-2096040448477515874)
+- [Тадж-Махал для дослідження](#explorable-taj-mahal-2096035962824335798)
+- [Особисте 3D-портфоліо з глобусом виступів](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
+- [Gogh Strike — мережевий FPS](#gogh-strike-multiplayer-fps-2096013280519016608)
+- [Модель рекордера TP-7 за референсами](#tp-7-recorder-reference-model-2096013228090245181)
+- [Розбірна модель Tesla Model X](#tesla-model-x-exploded-view-2096009146248122416)
+- [Пружне желе на WebGPU](#bouncy-webgpu-jelly-2096008241104711698)
 - [Аніме-файтинг на арені Roblox](#anime-arena-fighter-in-roblox-2095999578419929412)
 - [План квартири, синхронізований із 3D-прогулянкою](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
 - [Інтерактивна сцена з річкою в браузері](#interactive-browser-river-scene-2095993826569502785)
@@ -63,23 +78,315 @@
 - [З креслення паровоза в редаговану збірку Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
 - [Лісова вілла Solace: від завдання до UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
 - [Дитячий залізничний макет із керованими потягами](#driveable-childhood-train-table-2095742344293454148)
-- [Храм у джунглях і велетенський вартовий-ванара](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
-- [З плану поверху в повноцінну 3D-прогулянку](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
-- [Інтерактивний воксельний залізничний макет](#interactive-voxel-railway-table-2095719731860750613)
-- [Живий воксельний корабель у пляшці](#living-voxel-ship-in-a-bottle-2095699049722581065)
-- [Процедурний живий океан і симуляція шторму](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
-- [Несподівана гра на Three.js за один запит](#one-shot-three-js-surprise-game-2095663498101662198)
-- [Палац витончених мистецтв у Blender](#palace-of-fine-arts-blender-recreation-2095653641164329143)
-- [Тест моделей: акваріум за одним промптом](#single-aquarium-benchmark-2095650251902239139)
-- [RPG із камерами від першої та третьої особи](#rpg-with-first-and-third-person-cameras-2095648440978174276)
-- [Ігровий 3D-світ у реальному часі за одним промптом](#single-playable-real-time-3d-game-2095647685210669541)
-- [CAD-збірка USS Enterprise для друку](#printable-uss-enterprise-cad-assembly-2095641163441254676)
-- [Сучасна вілла в Blender](#modern-villa-scene-in-blender-2095636679264780481)
-- [Процедурна декорація Овального кабінету для Cycles](#procedural-oval-office-set-for-cycles-2095630197257367857)
-- [Космічний політ траншеєю в Unity](#unity-space-trench-run-game-2095630044102279312)
-- [Архвіз: від креслення через Blender до Unreal](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
 
 </details>
+<a id="astral-war-browser-shooter-2096079660605997264"></a>
+
+### Astral War — браузерний шутер
+
+[Rishi](https://x.com/0xRishi) · 2026-09-05 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/astral-war-browser-shooter-2096079660605997264"><img src="../assets/previews/6d8b4beb5ef0ca19d84022568666ed1172dda03dee1c9045199da3595b003f7b.webp" width="840" loading="lazy" alt="Astral War — браузерний шутер"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи браузерний шутер на Three.js у дусі World at War. Підготуй повноцінне ігрове поле бою з чутливими сутичками, просторовим звуком, асетами персонажів і повним перебігом матчу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/astral-war-browser-shooter-2096079660605997264) · [Оригінальний допис](https://x.com/0xRishi/status/2096079660605997264) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="astra-3d-2096068401294929940"></a>
+
+### Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту
+
+[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту"></a>
+
+**Промпт**
+
+```text
+Сумний, але прекрасний антиутопічний світ у воксельному стилі / Low Poly: дощова ніч, легкий туман, відбиття на мокрій поверхні, холодне синє навколишнє освітлення + тепле помаранчеве світло. Освітлення має бути якомога реалістичнішим і кінематографічним.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/astra-3d-2096068401294929940) · [Оригінальний допис](https://x.com/ChenshuoAI/status/2096068401294929940) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
+
+### Прототип гри The Legend of Astra
+
+[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="Прототип гри The Legend of Astra"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створіть в Unity прототип тривимірної пригодницької гри зі сценами, підготовленими в Blender, і моделями Tripo. Інтегруйте анімацію персонажа в демоверсію, у якій можна грати.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [Оригінальний допис](https://x.com/lofihashbloom/status/2096064140510970318) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
+
+### Симулятор Sinclair ZX Spectrum
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Симулятор Sinclair ZX Spectrum"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори Sinclair ZX Spectrum 48K як інтерактивний настільний 3D-застосунок. Додай гумову клавіатуру, касетний програвач, стартовий екран, робочу гру та інтерфейс програмування на BASIC.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [Оригінальний допис](https://x.com/DeryaTR_/status/2096062355692048605) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
+
+### Відтворення дриля за одним ракурсом
+
+[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="Відтворення дриля за одним ракурсом"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори електродриль у Blender за одним референсним ракурсом. Створи корпус, руків’я, патрон і органи керування як редаговану геометрію, потім оглянь результат із різних боків.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [Оригінальний допис](https://x.com/SkyeSharkie/status/2096059736693305794) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
+
+### Вертикальний зріз гри в дусі Sonic на Godot
+
+[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="Вертикальний зріз гри в дусі Sonic на Godot"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи якісний 3D-рівень у дусі Sonic на Godot, використовуючи локальні й процедурні асети. Зосередься на інерції, чутливому пересуванні, кільцях, петлях, рейках для ковзання та безперервному тропічному узбережжі.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [Оригінальний допис](https://x.com/AiBattle_/status/2096056285896536086) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
+
+### Zork як тривимірна пригодницька гра
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork як тривимірна пригодницька гра"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Перетвори класичну текстову пригоду Zork на тривимірну пригодницьку гру з екшеном. Збережи сюжет і загадки, додай бойові сцени та створи персонажів і оточення на Three.js.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [Оригінальний допис](https://x.com/emollick/status/2096047660662722620) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
+
+### Мережа доставки із закриттям мостів
+
+[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="Мережа доставки із закриттям мостів"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи 3D-симуляцію доставки, де закриття мостів змінює маршрути вантажівок. Виявляй недоступні пункти призначення й відновлюй доставку, коли маршрут знову відкривається.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [Оригінальний допис](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
+
+### Екосистема WebGL, що еволюціонує
+
+[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="Екосистема WebGL, що еволюціонує"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи 3D-екосистему, що еволюціонує, в одному HTML-файлі на чистому WebGL і GLSL. Нехай мутації, природний добір, хижацтво, витрати енергії та багатоклітинні об’єднання взаємодіють між собою.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Оригінальний допис](https://x.com/yume_arasaki/status/2096040448477515874) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="explorable-taj-mahal-2096035962824335798"></a>
+
+### Тадж-Махал для дослідження
+
+[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Тадж-Махал для дослідження"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори Тадж-Махал як 3D-сцену для дослідження. Зосередься на впізнаваних пропорціях, симетричних садах, центральному куполі, мінаретах і взаємному розташуванні будівель.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Оригінальний допис](https://x.com/vikassabbi/status/2096035962824335798) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
+
+### Особисте 3D-портфоліо з глобусом виступів
+
+[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Особисте 3D-портфоліо з глобусом виступів"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Перетвори портрет на персонажа Blender для WebGL-портфоліо з журнальним оформленням. Додай обертовий глобус із місцями виступів та інтегруй асети у сайт.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Оригінальний допис](https://x.com/HowDevelop/status/2096023793772998704) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
+
+### Gogh Strike — мережевий FPS
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike — мережевий FPS"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи постімпресіоністський шутер від першої особи 5 на 5 з персонажами-художниками, відрендереними в Blender, чітко розрізнюваними командами та повноцінним мережевим матчем у браузері.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Оригінальний допис](https://x.com/petergostev/status/2096013280519016608) · [Вихідний код](https://github.com/petergpt/gogh-strike) · [Демо](https://gogh-strike.surge.sh/) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
+
+### Модель рекордера TP-7 за референсами
+
+[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Модель рекордера TP-7 за референсами"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтворіть Teenage Engineering TP-7 у Three.js за зображеннями-референсами. Передайте його форму й видимі елементи керування у 3D-моделі, яку можна оглядати з різних боків.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Оригінальний допис](https://x.com/ty_kra_lab/status/2096013228090245181) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
+
+### Розбірна модель Tesla Model X
+
+[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Розбірна модель Tesla Model X"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи 3D-сайт, який розбирає Tesla Model X на змодельовані компоненти. Дай відвідувачам оглядати вузли й інтерактивно збирати автомобіль назад.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Оригінальний допис](https://x.com/ashebytes/status/2096009146248122416) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
+
+### Пружне желе на WebGPU
+
+[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Пружне желе на WebGPU"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи апетитне пружне желе за допомогою Three.js і WebGPU. Нехай після взаємодії воно природно деформується та заспокоюється. Використай напівпрозорий матеріал і наочне освітлення.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Оригінальний допис](https://x.com/scottstts/status/2096008241104711698) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
 
 ### Аніме-файтинг на арені Roblox
@@ -829,306 +1136,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Оригінальний допис](https://x.com/BigRyan/status/2095742344293454148) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
-
-### Храм у джунглях і велетенський вартовий-ванара
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-04 · Claude Fable 5.1 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290"><img src="../assets/previews/867a825910e52a1f4ee03010a0ca7c11c6d7ba340d474277fbedece704f9e178.webp" width="840" loading="lazy" alt="Храм у джунглях і велетенський вартовий-ванара"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи кінематографічну сцену за мотивами «Рамаяни» в HTML і Three.js. Забутий храм у джунглях пробуджує велетенського вартового-ванару; створи оточення, анімацію та музичний супровід кодом.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [Оригінальний допис](https://x.com/BuildFastWithAI/status/2095729606066348290) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
-
-### З плану поверху в повноцінну 3D-прогулянку
-
-[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="З плану поверху в повноцінну 3D-прогулянку"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Перетвори наданий план поверху на повноцінну архітектурну 3D-прогулянку. Дотримуйся розмірів кімнат і зв’язків між ними, додай двері, вікна, меблі, матеріали й освітлення, потім проклади маршрут камери, що пояснює планування.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Оригінальний допис](https://x.com/aidarosgo3/status/2095725404883476661) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="interactive-voxel-railway-table-2095719731860750613"></a>
-
-### Інтерактивний воксельний залізничний макет
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="Інтерактивний воксельний залізничний макет"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи докладний воксельний залізничний макет на Three.js. Дозволь запускати й зупиняти кілька потягів, перемикати колії, обертати та наближати камеру, оглядати мініатюрні міста й запускати невеликі анімації оточення.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095719731860750613) · [Демо](https://lindenhafen-railway.vercel.app/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
-
-### Живий воксельний корабель у пляшці
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="Живий воксельний корабель у пляшці"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи докладний воксельний корабель XVII століття, що пливе всередині скляної пляшки. Змоделюй хвилі й хитавицю, додай чайок, мініатюрну гавань і коралові рифи, потім підготуй кінематографічний проліт камери та спокійний звуковий супровід.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095699049722581065) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
-
-### Процедурний живий океан і симуляція шторму
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="Процедурний живий океан і симуляція шторму"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Розвинь наданий однофайловий генератор штормової поверхні у повноцінний процедурний океан. Додай рифи, глибини, правдоподібну погоду, популяції тварин з емерджентною поведінкою, взаємодії екосистеми та камеру, що переміщується над водою й під нею.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Оригінальний допис](https://x.com/emollick/status/2095673885605630429) · [Вихідний код](https://github.com/emollick/abyssal-living-deep) · [Демо](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
-
-### Несподівана гра на Three.js за один запит
-
-[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="Несподівана гра на Three.js за один запит"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи за один запит оригінальну гру на Three.js, гідну назви «Amaze». Обери одну дивовижну візуальну механіку, поясни її за кілька секунд, побудуй короткий розвиток і заверши гру захопливим видовищем.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Оригінальний допис](https://x.com/pratt_builds/status/2095663498101662198) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
-
-### Палац витончених мистецтв у Blender
-
-[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Палац витончених мистецтв у Blender"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Відтвори Палац витончених мистецтв Сан-Франциско в Blender: упізнавані пропорції ротонди, колонади, лагуна, рослинність, зістарені матеріали й кінематографічне світло, що передає оптимізм епохи всесвітніх виставок.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Оригінальний допис](https://x.com/sharifshameem/status/2095653641164329143) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="single-aquarium-benchmark-2095650251902239139"></a>
-
-### Тест моделей: акваріум за одним промптом
-
-[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="Тест моделей: акваріум за одним промптом"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-За наданим референсом створи 3D-гру-акваріум одним промптом. Передай композицію й настрій, додай жваву поведінку риб, водну каустику, орбітальне керування та невеликий цикл взаємодій для порівняння результатів моделей.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Оригінальний допис](https://x.com/iamtonyzhu/status/2095650251902239139) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
-
-### RPG із камерами від першої та третьої особи
-
-[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="RPG із камерами від першої та третьої особи"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Доповни рольову гру на Three.js камерами від першої та третьої особи. Збережи роботу пересування й дослідження під час перемикання між видами.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Оригінальний допис](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
-
-### Ігровий 3D-світ у реальному часі за одним промптом
-
-[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Ігровий 3D-світ у реальному часі за одним промптом"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи за одним промптом 3D-гру, що працює в реальному часі. Визнач невелику основну механіку, зрозумілу мету й коротку історію, потім згенеруй сцену, персонажів, предмети, зворотний зв’язок і стан перезапуску, щоб у результат можна було одразу грати.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Оригінальний допис](https://x.com/higgsfield/status/2095647685210669541) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
-
-### CAD-збірка USS Enterprise для друку
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="CAD-збірка USS Enterprise для друку"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Спроєктуй у CAD оригінальну модель за мотивами USS Enterprise NCC-1701, готову до друку. Збережи впізнавані пропорції, додай місток і вибрані інтер’єри, щонайменше 28 робочих рухомих деталей, окремі збірки та виробничі файли для експорту.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Оригінальний допис](https://x.com/DeryaTR_/status/2095641163441254676) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
-
-### Сучасна вілла в Blender
-
-[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Сучасна вілла в Blender"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи повноцінну сцену сучасної вілли в Blender: узгоджена архітектура, мебльовані інтер’єри, інфініті-басейн, озеленення, реалістичні матеріали та кінематографічна траєкторія камери в золоту годину.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Оригінальний допис](https://x.com/karankendre/status/2095636679264780481) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
-
-### Процедурна декорація Овального кабінету для Cycles
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Процедурна декорація Овального кабінету для Cycles"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Перетвори опис декорацій Овального кабінету на виконуваний код сцени. Побудуй приміщення в Blender з редагованими меблями, стінами, освітленням і постановкою камер, а тоді створи кінематографічний рендер у Cycles.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2095630197257367857) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="unity-space-trench-run-game-2095630044102279312"></a>
-
-### Космічний політ траншеєю в Unity
-
-[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Космічний політ траншеєю в Unity"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Передай в Unity відчуття класичного космічного прольоту траншеєю: швидкий політ на малій висоті, вогонь турелей, перешкоди, наведення, наростання напруги, кінцева мета та кінематографічна сцена успіху або поразки.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Оригінальний допис](https://x.com/ronaldmannak/status/2095630044102279312) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
-
-### Архвіз: від креслення через Blender до Unreal
-
-[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Архвіз: від креслення через Blender до Unreal"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Візьми надане архітектурне креслення, створи точну редаговану модель у Blender, потім перенеси її в Unreal Engine як освітлену архітектурну сцену для прогулянок із правильним масштабом і колізіями.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Оригінальний допис](https://x.com/LinusEkenstam/status/2095624712244072551) · [Назад до прикладів](#all-prompts)
 
 ---
 
