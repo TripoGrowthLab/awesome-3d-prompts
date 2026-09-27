@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[全カタログ](catalog.ja.md) · [←](catalog.ja.5.md) · **6 / 9** · [→](catalog.ja.7.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.5.md) · **6 / 10** · [→](catalog.ja.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>作例を見る (50)</summary>
 
+- [WebGLで学ぶブラックホールの形成](#black-hole-formation-in-webgl-2096093614397170104)
+- [近未来バイク・戦車と撮影用背景のBlenderモデル制作](#gpt-6-astra-2096083014845636816)
+- [手続き生成した列車の分解アニメーション](#exploding-procedural-train-assemblies-2096082580554777041)
+- [操作できる地球儀ダッシュボード](#interactive-globe-dashboard-2096082432197837065)
+- [回路図 PDF から基板と 3D 表示へ](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [ブラウザシューター Astral War](#astral-war-browser-shooter-2096079660605997264)
 - [コンセプトアートを起点にAstraでラフな3Dミニゲームを制作](#astra-3d-2096068401294929940)
 - [The Legend of Astraのゲーム試作](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,107 @@
 - [リアルタイム WebGL 銀河のヒーローセクション](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [散歩できる『星月夜』の街路](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [実在の家を 60 FPS の編集可能な Blender シーンに](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [分解して操作できる 3D ターボチャージャー](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [ゴッホの絵画 6 点から生まれる歩ける街](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [蒸気機関車の図面を編集可能な Blender アセンブリに](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [森のヴィラ Solace を構想から UE5 へ](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [運転できる思い出の鉄道テーブル](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### WebGLで学ぶブラックホールの形成
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGLで学ぶブラックホールの形成"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+WebGLの可視化を使い、ブラックホールの形成を解説する教育用スライドショーを制作してください。説明に合わせて、動きのある3Dシーンを表示してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [元の投稿](https://x.com/zeeeeeen/status/2096093614397170104) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### 近未来バイク・戦車と撮影用背景のBlenderモデル制作
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="近未来バイク・戦車と撮影用背景のBlenderモデル制作"></a>
+
+**プロンプト**
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096083014845636816) · [元の投稿](https://x.com/StelsRay2/status/2096083014845636816) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### 手続き生成した列車の分解アニメーション
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="手続き生成した列車の分解アニメーション"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+寸法、断面形状、ジオメトリ関数から、Three.js 内で直接 2 台の列車を生成してください。車輪を動かし、分解表示と再組み立てのシーケンスを用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [元の投稿](https://x.com/tomkrcha/status/2096082580554777041) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### 操作できる地球儀ダッシュボード
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="操作できる地球儀ダッシュボード"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+参考画像から Three.js の 3D 地球儀ダッシュボードを再構築してください。昼・夜モード、読みやすい地理データ、参考に合った動作する操作部を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [元の投稿](https://x.com/hqmank/status/2096082432197837065) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### 回路図 PDF から基板と 3D 表示へ
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · その他
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="回路図 PDF から基板と 3D 表示へ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+回路図 PDF を使って KiCad の回路を修正し、50 × 20 mm の 2 層基板を配線して、3D アセンブリをレンダリングしてください。部品のデータシートを確認し、設計ルール違反を解消してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [元の投稿](https://x.com/swjtutl/status/2096079976433082502) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### ブラウザシューター Astral War
@@ -1032,114 +1131,7 @@ Three.js で精細な海戦を一度のやり取りで作成してください�
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### 分解して操作できる 3D ターボチャージャー
-
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="分解して操作できる 3D ターボチャージャー"></a>
-
-**プロンプト**
-
-```text
-操作できる 3D ターボチャージャーを作ってください。動作する各系統を分けてください。回転させ、部品を個別に取り出し、機械が実際に何をしているか確認できるようにしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [元の投稿](https://x.com/Feraser8/status/2095776712579571725) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### ゴッホの絵画 6 点から生まれる歩ける街
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="ゴッホの絵画 6 点から生まれる歩ける街"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示されたゴッホの絵画 6 点を、一続きに歩ける Three.js の街にしてください。各作品の色彩と筆致を保ち、道路、名所、場面のつながりを統合した探索可能な世界を作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [元の投稿](https://x.com/petergostev/status/2095776685807346105) · [デモ](https://van-goghs-town.surge.sh/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### 蒸気機関車の図面を編集可能な Blender アセンブリに
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="蒸気機関車の図面を編集可能な Blender アセンブリに"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された古い蒸気機関車の図面を、Blender で精密な機械アセンブリとして再現してください。車輪、車軸、サスペンション、ロッド、ボイラー部品、車体パネルに名前を付け、個別に編集できるようにします。ディテールの量も調整可能にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [元の投稿](https://x.com/tomkrcha/status/2095756085890310311) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### 森のヴィラ Solace を構想から UE5 へ
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="森のヴィラ Solace を構想から UE5 へ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-寝室 3 室、書斎、中庭、プール、周囲の森を備えたモダンなヴィラ「Solace」を、歩ける空間として作成してください。Blender で手続き生成し、夕景の静止画をレンダリングして、60 FPS の UE5 ウォークスルーを書き出してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [元の投稿](https://x.com/NFT_Chen/status/2095752726886105375) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### 運転できる思い出の鉄道テーブル
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="運転できる思い出の鉄道テーブル"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-子どもの頃の鉄道テーブルを、ボクセルの線路と車両を使った、触れたくなる Three.js のおもちゃとして再現してください。列車の運転、分岐の切り替え、周回視点、動くミニチュア風景の発見を楽しめるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [元の投稿](https://x.com/BigRyan/status/2095742344293454148) · [作例一覧に戻る](#all-prompts)
-
----
-
-
-[全カタログ](catalog.ja.md) · [←](catalog.ja.5.md) · **6 / 9** · [→](catalog.ja.7.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.5.md) · **6 / 10** · [→](catalog.ja.7.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

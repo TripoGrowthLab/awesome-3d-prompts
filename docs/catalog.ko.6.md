@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.5.md) · **6 / 9** · [→](catalog.ko.7.md)
+[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.5.md) · **6 / 10** · [→](catalog.ko.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [WebGL로 살펴보는 블랙홀의 형성](#black-hole-formation-in-webgl-2096093614397170104)
+- [Blender로 제작하는 미래형 오토바이와 탱크](#gpt-6-astra-2096083014845636816)
+- [절차적 열차 조립체 분해 애니메이션](#exploding-procedural-train-assemblies-2096082580554777041)
+- [인터랙티브 지구본 대시보드](#interactive-globe-dashboard-2096082432197837065)
+- [회로도 PDF에서 PCB와 3D 보기까지](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [브라우저 슈터 Astral War](#astral-war-browser-shooter-2096079660605997264)
 - [콘셉트 이미지로 Astra를 활용해 투박한 3D 미니게임 만들기](#astra-3d-2096068401294929940)
 - [The Legend of Astra 게임 프로토타입](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,117 @@
 - [실시간 WebGL 은하로 만든 출시 페이지 히어로](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [직접 산책하는 ‘별이 빛나는 밤’의 거리](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [실제 집을 편집 가능한 60 FPS Blender 장면으로](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [분해하며 살펴보는 인터랙티브 3D 터보차저](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [증기기관차 도면을 편집 가능한 Blender 조립 모델로](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [숲속 빌라 Solace를 기획부터 UE5까지](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [직접 운전하는 어린 시절 기차 테이블](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### WebGL로 살펴보는 블랙홀의 형성
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGL로 살펴보는 블랙홀의 형성"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+WebGL 시각화를 활용해 블랙홀의 형성을 설명하는 교육용 슬라이드쇼를 만드세요. 설명에 맞춰 움직이는 3D 장면을 보여 주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [원본 게시물](https://x.com/zeeeeeen/status/2096093614397170104) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### Blender로 제작하는 미래형 오토바이와 탱크
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Blender로 제작하는 미래형 오토바이와 탱크"></a>
+
+**프롬프트**
+
+```text
+모델 제작 역량 평가
+Blender를 사용해 미래형 오토바이와 미래형 탱크, 그리고 프레젠테이션용으로 어울리는 배경을 제작하되 디자인과 외관을 우선합니다. 여러 각도에서 스크린샷을 촬영합니다. MCP도 사용할 수 있지만, 가장 높은 품질을 낼 수 있는 워크플로를 선택합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096083014845636816) · [원본 게시물](https://x.com/StelsRay2/status/2096083014845636816) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### 절차적 열차 조립체 분해 애니메이션
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="절차적 열차 조립체 분해 애니메이션"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+치수, 단면, 지오메트리 함수로 Three.js에서 기차 두 대를 직접 생성하세요. 바퀴를 움직이고 분해 보기와 재조립 시퀀스를 제공하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [원본 게시물](https://x.com/tomkrcha/status/2096082580554777041) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### 인터랙티브 지구본 대시보드
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="인터랙티브 지구본 대시보드"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+참고 이미지로 Three.js 3D 지구본 대시보드를 재구축하세요. 낮·밤 모드, 읽기 쉬운 지리 데이터, 참고 자료에 맞춰 실제 작동하는 조작 기능을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [원본 게시물](https://x.com/hqmank/status/2096082432197837065) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### 회로도 PDF에서 PCB와 3D 보기까지
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · 기타
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="회로도 PDF에서 PCB와 3D 보기까지"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+회로도 PDF로 KiCad 회로를 수정하고 50 × 20 mm 2층 PCB를 배선한 뒤 3D 조립 모델을 렌더링하세요. 부품 데이터시트를 검토하고 설계 규칙 위반을 해결하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [원본 게시물](https://x.com/swjtutl/status/2096079976433082502) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### 브라우저 슈터 Astral War
@@ -1032,114 +1141,7 @@ Three.js에서 정교한 해전을 한 번의 대화로 만드세요. 서로 구
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### 분해하며 살펴보는 인터랙티브 3D 터보차저
-
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="분해하며 살펴보는 인터랙티브 3D 터보차저"></a>
-
-**프롬프트**
-
-```text
-인터랙티브 3D 터보차저를 만드세요. 작동하는 각 계통을 분리하세요. 회전하고 부품을 따로 살펴보며, 기계가 실제로 무엇을 하는지 볼 수 있게 해주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [원본 게시물](https://x.com/Feraser8/status/2095776712579571725) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### 반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 반 고흐 그림 여섯 점을 하나로 이어지는 Three.js 마을로 만드세요. 각 그림의 색감과 붓질을 유지하면서 거리, 랜드마크, 장면 전환을 연결해 직접 걸으며 탐험할 수 있게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [원본 게시물](https://x.com/petergostev/status/2095776685807346105) · [데모](https://van-goghs-town.surge.sh/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### 증기기관차 도면을 편집 가능한 Blender 조립 모델로
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="증기기관차 도면을 편집 가능한 Blender 조립 모델로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 옛 증기기관차 도면을 Blender에서 정교한 기계 조립 모델로 재구성하세요. 바퀴, 차축, 서스펜션, 연결봉, 보일러 부품, 차체 패널을 이름이 있는 편집 가능한 개별 오브젝트로 유지하고, 디테일 예산을 조절할 수 있게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [원본 게시물](https://x.com/tomkrcha/status/2095756085890310311) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### 숲속 빌라 Solace를 기획부터 UE5까지
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="숲속 빌라 Solace를 기획부터 UE5까지"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-침실 3개, 서재, 중앙 안뜰, 수영장, 주변 숲을 갖춘 ‘Solace’라는 모던 빌라를 걸어 다닐 수 있게 만드세요. Blender에서 절차적으로 제작하고 골든아워 정지 이미지를 렌더링한 뒤 60 FPS UE5 워크스루를 내보내세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [원본 게시물](https://x.com/NFT_Chen/status/2095752726886105375) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### 직접 운전하는 어린 시절 기차 테이블
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="직접 운전하는 어린 시절 기차 테이블"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-어린 시절의 기차 테이블을 복셀 선로와 차량이 있는, 만지고 싶은 Three.js 장난감으로 재현하세요. 기차를 운전하고 분기점을 바꾸며 테이블 주변을 돌고, 움직이는 미니어처 장면을 발견하게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [원본 게시물](https://x.com/BigRyan/status/2095742344293454148) · [사례 목록으로](#all-prompts)
-
----
-
-
-[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.5.md) · **6 / 9** · [→](catalog.ko.7.md)
+[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.5.md) · **6 / 10** · [→](catalog.ko.7.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ko/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">전체 카탈로그 →</a></strong></p>

@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 2 / 9
+# Awesome 3D Prompts — 2 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.2.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Catálogo completo](catalog.pt.md) · [←](catalog.pt.1.md) · **2 / 9** · [→](catalog.pt.3.md)
+[Catálogo completo](catalog.pt.md) · [←](catalog.pt.1.md) · **2 / 10** · [→](catalog.pt.3.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Explorar exemplos (50)</summary>
 
+- [Renderização 3D em 360° de uma quadra de handebol a partir de uma imagem](#claude-opus-5-5-2102544406117286004)
+- [Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem](#claude-opus-5-5-2102544196808667471)
+- [Máquina 3D de Rube Goldberg autônoma](#claude-opus-5-5-2102544078927741369)
+- [Jogo interativo de animais de fazenda no estilo de Peter Rabbit](#claude-opus-5-5-2102538762731565085)
+- [Navio pirata cinematográfico e interativo ao pôr do sol](#claude-opus-5-5-2102533729746882985)
 - [Mundo infinito gerado proceduralmente em Three.js](#claude-opus-5-5-2102529695908806728)
 - [Casa suburbana de dois andares com interior](#gpt-6-astra-2102473710724919614)
 - [Simulação interativa de evacuação de multidões](#claude-opus-5-5-2102467667978572092)
@@ -73,13 +78,203 @@
 - [Ilha vulcânica interativa com barcos em fuga](#gpt-6-astra-2099643231659012553)
 - [Crie uma cena de corredor de hotel](#gpt-6-astra-2099588840419651890)
 - [Guerreiro Escala um Gigante e Acerta sua Mandíbula](#gpt-6-astra-2099519801139908951)
-- [Mundo 3D repleto de arranha-céus muito altos](#gpt-6-astra-2099487024256589970)
-- [Modelo de conífera com até 200 polígonos](#gpt-6-astra-2099472264270102705)
-- [Cena 3D interativa de samurai em uma floresta](#gpt-6-astra-2099450933067612421)
-- [Circuito de obstáculos 3D jogável](#gpt-6-astra-2099419671481249851)
-- [Ferrovia em Miniatura Autônoma com Prevenção de Colisões](#gpt-6-astra-2099362575339372780)
 
 </details>
+<a id="claude-opus-5-5-2102544406117286004"></a>
+
+### Renderização 3D em 360° de uma quadra de handebol a partir de uma imagem
+
+[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="Renderização 3D em 360° de uma quadra de handebol a partir de uma imagem"></a>
+
+**Imagens de referência:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
+
+**Prompt**
+
+```text
+Renderize em 3D a quadra de handebol, o gol, o árbitro, os jogadores e a bola presentes na imagem, permitindo visualização livre em 360°, de qualquer ângulo. Reproduza com precisão a pose de cada pessoa e as cores dos objetos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102544406117286004) · [Publicação original](https://x.com/chikaidev/status/2102545257372213581) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem"></a>
+
+**Imagens de referência:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**Prompt**
+
+```text
+recrie esta imagem com perfeição como um plano de fundo totalmente procedural e animado para o menu principal em 3D com Three.js, em um único arquivo HTML
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102544196808667471) · [Publicação original](https://x.com/majidmanzarpour/status/2102544198335373576) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### Máquina 3D de Rube Goldberg autônoma
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Animação
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Máquina 3D de Rube Goldberg autônoma"></a>
+
+**Prompt**
+
+```text
+Crie uma máquina 3D de Rube Goldberg que funcione sozinha, em um único index.html autocontido no diretório atual.
+
+A sequência, nesta ordem:
+1. Uma bolinha de gude é solta no topo e desce rolando por uma série de rampas em zigue-zague.
+2. Ela derruba uma fileira de pelo menos 12 dominós.
+3. O último dominó inclina uma gangorra, que lança uma bolinha em um balde suspenso.
+4. O peso do balde o puxa para baixo; sua corda passa por uma polia e puxa um sino, que balança visivelmente.
+5. O mesmo movimento ergue uma bandeira em um mastro. A bandeira chegar ao topo é o fim da sequência.
+
+Regras:
+- Escreva a física por conta própria: não use biblioteca de física. Todo movimento após a liberação da bolinha de gude deve vir da sua simulação (corpos rígidos, colisões, restrições, corda e polia). Não use animação com keyframes nem movimento interpolado de nenhuma parte da máquina.
+- Você pode carregar o Three.js de uma CDN para a renderização. Nada mais externo: não use imagens, modelos ou fontes.
+- O projeto deve funcionar sem interação do usuário: iniciar automaticamente ao carregar a página, usar uma câmera cinematográfica que acompanhe a ação e concluir toda a sequência em cerca de 15–20 segundos. Depois que a bandeira subir, aguarde 2 segundos, redefina e repita a sequência.
+- Determinístico: use um intervalo de tempo fixo e nenhuma aleatoriedade sem seed, para que todas as execuções tenham a mesma aparência.
+- Preencha a janela do navegador. A gravação de tela será feita em 1280×720.
+- Não exiba texto na tela nem qualquer tipo de interface.
+- Capriche no visual: use iluminação, sombras, materiais e um cenário que façam a engenhoca parecer real.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102544078927741369) · [Publicação original](https://x.com/leogao25/status/2102544081863717153) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### Jogo interativo de animais de fazenda no estilo de Peter Rabbit
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Jogo interativo de animais de fazenda no estilo de Peter Rabbit"></a>
+
+**Prompt**
+
+```text
+"Crie um jogo interativo de animais de fazenda usando o design/estilo artístico de "Peter Rabbit"
+menu principal = sons ativados/desativados + seletor de animais (cavalo, porco, vaca, gato, cachorro)
+esc = pausar: voltar ao ponto inicial/menu principal
+use WASD para se movimentar
+barra de espaço para pular e interagir com outros animais quando estiver por perto
+as interações são aleatorizadas quando a proximidade é detectada
+é possível interagir emitindo sons para o outro animal (diferentes dos sons passivos dele) e "dar um toquezinho nele"
+itens interativos: água para beber, feno para comer e frutas para comer. 
+terceira pessoa, mas como se a câmera estivesse ligeiramente atrás e acima do animal
+sons ambientes: pássaros e aviões no céu (aleatoriamente)
+cenário = área rural, celeiro e vila agrícola com casas (não é possível entrar nas casas)
+Tenha assets suficientes para prender a atenção, mas não tantos a ponto de exigir um acabamento de produção; isso serve apenas para passar 15 minutos do meu dia com minha filha e se divertir
+react, svg, js, webgl, threejs, ou o que for necessário para que a experiência fique "boa""
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102538762731565085) · [Publicação original](https://x.com/blaso96/status/2102538764749037738) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### Navio pirata cinematográfico e interativo ao pôr do sol
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Navio pirata cinematográfico e interativo ao pôr do sol"></a>
+
+**Prompt**
+
+```text
+Crie do zero uma cena 3D totalmente interativa de um navio pirata navegando por um oceano dinâmico ao pôr do sol. O estilo visual deve ser cinematográfico e estilizado, não fotorrealista, mas ainda assim excepcionalmente rico, detalhado, refinado e visualmente sofisticado. Modele o navio, o oceano, o céu, a iluminação, os materiais, as velas, o rigging, os canhões, os pequenos detalhes estruturais, a espuma do mar, a esteira, as partículas, a animação, o trabalho de câmera, a composição, a profundidade atmosférica e a gradação de cores. O resultado final deve transmitir a qualidade de uma obra 3D premium, produzida em alto nível, e não de um protótipo, demonstração técnica ou cena de baixa qualidade. Comece com uma página completamente em branco. Não reutilize nem dependa de nenhum projeto ou cena anterior. Você pode criar os assets por conta própria ou usar assets e bibliotecas confiáveis, de código aberto e de boa procedência quando necessário. Requisitos obrigatórios: nenhum texto de qualquer tipo pode aparecer em nenhum lugar da cena. Não inclua títulos, nomes, logotipos, descrições, créditos, rótulos ou instruções de controle em nenhum idioma. Entregue o projeto inteiro como um único arquivo de página independente, que possa ser aberto diretamente em um navegador, com os assets incorporados nele tanto quanto for razoavelmente possível. O oceano, o navio, as velas e a câmera devem ser animados de forma natural e fluida. Evite câmera lenta artificial ou movimentos lentos e pesados. O navio deve transmitir a sensação de estar realmente se deslocando pela água. Não use formas geométricas primitivas como resultado final. Crie um navio pirata visualmente convincente e detalhado, incluindo um casco cuidadosamente modelado, mastros, velas, rigging, cordas, canhões, corrimões, lanternas, estruturas do convés e detalhes claramente visíveis em pequena escala. A iluminação deve revelar com clareza a geometria e os materiais do navio. Crie uma atmosfera rica de pôr do sol, sombreamento profundo no oceano, reflexos, espuma do mar convincente e uma esteira detalhada atrás e ao redor da embarcação. Mantenha um equilíbrio sólido entre qualidade visual e desempenho em tempo real, preservando a interação e a animação fluidas sem sacrificar a qualidade de forma evidente. Use automaticamente as habilidades, ferramentas, bibliotecas, técnicas e assets disponíveis mais adequados para alcançar o melhor resultado. Não espere que eu especifique quais tecnologias usar. Teste de fato o resultado final em um navegador para desktop. Capture screenshots visuais, inspecione o console do navegador em busca de erros e corrija todos os problemas visíveis ou técnicos encontrados, incluindo geometria deformada, telas pretas, falhas no carregamento de assets, animação quebrada, composição ruim, artefatos de renderização ou problemas de câmera. No final, verifique se o arquivo final abre e funciona diretamente, se a cena não contém texto algum e se não restam erros de execução ou carregamento. Depois, conclua a tarefa com apenas uma resposta breve.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102533729746882985) · [Publicação original](https://x.com/vib3coded/status/2102534606121746589) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102529695908806728"></a>
 
 ### Mundo infinito gerado proceduralmente em Three.js
@@ -2360,142 +2555,7 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
-<a id="gpt-6-astra-2099487024256589970"></a>
 
-### Mundo 3D repleto de arranha-céus muito altos
-
-[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · Cenas
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="Mundo 3D repleto de arranha-céus muito altos"></a>
-
-**Prompt**
-
-```text
-crie um mundo 3D repleto de arranha-céus muito altos
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build a 3D world full of very high skyscrapers
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099487024256589970) · [Publicação original](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099472264270102705"></a>
-
-### Modelo de conífera com até 200 polígonos
-
-[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="Modelo de conífera com até 200 polígonos"></a>
-
-**Prompt**
-
-```text
-Você pode tentar criar uma conífera com até 200 polígonos?
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-200ポリゴン以下で針葉樹を作ってみてくれませんか？
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099472264270102705) · [Publicação original](https://x.com/Watamos827/status/2099472264270102705) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099450933067612421"></a>
-
-### Cena 3D interativa de samurai em uma floresta
-
-[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="Cena 3D interativa de samurai em uma floresta"></a>
-
-**Prompt**
-
-```text
-Crie uma cena 3D interativa com um samurai em uma floresta, incluindo controles de câmera, iluminação cinematográfica, detalhes do ambiente e uma apresentação limpa.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099450933067612421) · [Publicação original](https://x.com/JaynitMakwana/status/2099450933067612421) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099419671481249851"></a>
-
-### Circuito de obstáculos 3D jogável
-
-[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="Circuito de obstáculos 3D jogável"></a>
-
-**Prompt**
-
-```text
-Um pequeno circuito de obstáculos 3D com um personagem, barreiras móveis, objetos colecionáveis e uma área de chegada simples.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099419671481249851) · [Publicação original](https://x.com/heyDhavall/status/2099419671481249851) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099362575339372780"></a>
-
-### Ferrovia em Miniatura Autônoma com Prevenção de Colisões
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · Animação
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="Ferrovia em Miniatura Autônoma com Prevenção de Colisões"></a>
-
-**Prompt**
-
-```text
-Crie uma ferrovia em miniatura com pelo menos três trens circulando ao mesmo tempo em um layout de trilhos compartilhados que inclua entroncamentos e sinais. Os trens devem mudar de trilho e parar nos sinais por conta própria, para nunca colidirem, sem qualquer intervenção do usuário. O layout, o cenário e a aparência de tudo ficam a seu critério. Todas as decisões de design são suas: estilo, cores, clima, ambiente, câmera, nível de detalhe e quaisquer elementos adicionais. Não faça perguntas; tome todas as decisões por conta própria e crie a versão mais impressionante que puder em uma única tentativa. Requisitos técnicos: um único arquivo HTML autocontido, sem modelos, imagens, sons ou URLs de assets externos de qualquer tipo (uma biblioteca JavaScript carregada de uma CDN é permitida). A simulação deve começar a funcionar sozinha assim que for carregada, sem exigir cliques, e funcionar com fluidez e sem erros no console.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gpt-6-astra-2099362575339372780) · [Publicação original](https://x.com/free_ai_guides/status/2099362575339372780) · [Voltar aos exemplos](#all-prompts)
-
----
-
-
-[Catálogo completo](catalog.pt.md) · [←](catalog.pt.1.md) · **2 / 9** · [→](catalog.pt.3.md)
+[Catálogo completo](catalog.pt.md) · [←](catalog.pt.1.md) · **2 / 10** · [→](catalog.pt.3.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/pt/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Catálogo completo →</a></strong></p>

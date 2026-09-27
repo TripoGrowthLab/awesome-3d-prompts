@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 5 / 9
+# Awesome 3D Prompts — 5 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.5.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Полный каталог](catalog.ru.md) · [←](catalog.ru.4.md) · **5 / 9** · [→](catalog.ru.6.md)
+[Полный каталог](catalog.ru.md) · [←](catalog.ru.4.md) · **5 / 10** · [→](catalog.ru.6.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Создайте и отрендерите чёрную дыру в Blender](#gpt-6-astra-2096391653669953761)
+- [Игра-симулятор железнодорожной сети](#railway-network-simulation-game-2096362653480562751)
+- [Таверна с работающим персоналом и посетителями](#tavern-with-working-staff-and-guests-2096358854275543457)
+- [Интерактивный 3D-ансамбль с аудиосинхронной анимацией](#gpt-6-astra-2096354461652488562)
+- [От концепта персонажа до оснащённой ригом 3D-модели и мультфильма](#gpt-6-astra-2096342420543660277)
 - [Орбитальный исследователь Солнечной системы](#orbital-solar-system-explorer-2096339041679442428)
 - [Игра про краба с механиками, основанными на действиях](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
 - [Фотореалистичная редактируемая реконструкция дракона в Blender](#gpt-6-astra-2096335588727349434)
@@ -73,13 +78,165 @@
 - [Из рисунка в игрового персонажа](#artwork-to-a-playable-character-2096107343268257953)
 - [Башня Азади в Blender](#azadi-tower-in-blender-2096107322536051057)
 - [Прогулка по саду музея Сучжоу](#suzhou-museum-garden-walkthrough-2096096998092841449)
-- [Образование чёрных дыр в WebGL](#black-hole-formation-in-webgl-2096093614397170104)
-- [Футуристический мотоцикл и танк в Blender](#gpt-6-astra-2096083014845636816)
-- [Процедурные поезда с разборкой на узлы](#exploding-procedural-train-assemblies-2096082580554777041)
-- [Интерактивная панель с глобусом](#interactive-globe-dashboard-2096082432197837065)
-- [Из PDF-схемы в печатную плату и 3D-сборку](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 
 </details>
+<a id="gpt-6-astra-2096391653669953761"></a>
+
+### Создайте и отрендерите чёрную дыру в Blender
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="Создайте и отрендерите чёрную дыру в Blender"></a>
+
+**Промпт**
+
+```text
+Создай и отрендери в Blender красивую чёрную дыру, похожую на ту, что показана в «Интерстелларе».
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Make and render a beautiful black hole, like the one from Interstellar, in Blender.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096391653669953761) · [Исходная публикация](https://x.com/JohnKlerAI/status/2096391653669953761) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="railway-network-simulation-game-2096362653480562751"></a>
+
+### Игра-симулятор железнодорожной сети
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="Игра-симулятор железнодорожной сети"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Развейте модель поезда на Three.js в железнодорожную симуляцию с городами, развязками, реками и мостами. Добавьте камеру слежения за поездом, свободную 3D-камеру, изометрический вид и эффекты дыма.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Исходная публикация](https://x.com/tomkrcha/status/2096362653480562751) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
+
+### Таверна с работающим персоналом и посетителями
+
+[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="Таверна с работающим персоналом и посетителями"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Воссоздайте таверну по референсному изображению и наполните её посетителями и работниками. Посетители заказывают еду и напитки, персонал готовит их; добавьте обработку столкновений и поиск пути.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Исходная публикация](https://x.com/Rogue0114/status/2096358854275543457) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096354461652488562"></a>
+
+### Интерактивный 3D-ансамбль с аудиосинхронной анимацией
+
+[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="Интерактивный 3D-ансамбль с аудиосинхронной анимацией"></a>
+
+**Промпт**
+
+```text
+Сочините оригинальную короткую композицию и создайте интерактивный 3D-ансамбль. Синхронизируйте анимацию с таймингом аудио. Добавьте перемотку, замедленное воспроизведение, управление камерой, поддержку MIDI и исходные файлы.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096354461652488562) · [Исходная публикация](https://x.com/groovestreetgen/status/2096354461652488562) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096342420543660277"></a>
+
+### От концепта персонажа до оснащённой ригом 3D-модели и мультфильма
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="От концепта персонажа до оснащённой ригом 3D-модели и мультфильма"></a>
+
+**Промпт**
+
+```text
+Возьми под управление мой компьютер с помощью GPT-6 Astra и выполни следующие действия: 
+
+1. разработай концепт персонажа с помощью Higgsfield Soul 2.0, 
+
+2. создай его текстурированную 3D-модель, 
+
+3. импортируй её в Blender, 
+
+4. выполни ретопологию сетки, 
+
+5. создай UV-развёртку, 
+
+6. настрой риг персонажа, 
+
+7. оцени готовность модели к производству, 
+
+8. повтори предыдущие шаги, если результат тебя не устраивает,
+
+9. а затем преврати её в мультфильм с помощью Seedance 2.5 в Higgsfield
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Take control of my computer using GPT-6 Astra and do the following: 
+
+1. design a character concept using Higgsfield Soul 2.0, 
+
+2. build a textured 3D model of it, 
+
+3. import it into Blender, 
+
+4. retopologize the mesh, 
+
+5. create a UV map, 
+
+6. build a character rig, 
+
+7. evaluate how production-ready the model is, 
+
+8. redo previous steps if you're not satisfied with results,
+
+9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096342420543660277) · [Исходная публикация](https://x.com/higgsfield_ai/status/2096342420543660277) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="orbital-solar-system-explorer-2096339041679442428"></a>
 
 ### Орбитальный исследователь Солнечной системы
@@ -1589,116 +1746,7 @@ First define the full gameply loop and level designs and stuff for this game int
 
 ---
 
-<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
-### Образование чёрных дыр в WebGL
-
-[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="Образование чёрных дыр в WebGL"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создайте учебную презентацию об образовании чёрных дыр с визуализациями WebGL. Сопроводите объяснения анимированными 3D-сценами.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Исходная публикация](https://x.com/zeeeeeen/status/2096093614397170104) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096083014845636816"></a>
-
-### Футуристический мотоцикл и танк в Blender
-
-[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Футуристический мотоцикл и танк в Blender"></a>
-
-**Промпт**
-
-```text
-Оценка возможностей
-Используйте Blender, чтобы создать футуристический мотоцикл, футуристический танк и подходящий фон для презентационных кадров, уделяя приоритетное внимание дизайну и внешнему виду. Сделайте скриншоты с нескольких ракурсов. MCP также должен быть доступен, но выберите тот рабочий процесс, который обеспечит наивысшее качество.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-モデル性能評価試験
-blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096083014845636816) · [Исходная публикация](https://x.com/StelsRay2/status/2096083014845636816) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
-
-### Процедурные поезда с разборкой на узлы
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="Процедурные поезда с разборкой на узлы"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Сгенерируй два поезда непосредственно на Three.js по размерам, профилям и геометрическим функциям. Анимируй колёса и добавь последовательность разнесения деталей и обратной сборки.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Исходная публикация](https://x.com/tomkrcha/status/2096082580554777041) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="interactive-globe-dashboard-2096082432197837065"></a>
-
-### Интерактивная панель с глобусом
-
-[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="Интерактивная панель с глобусом"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Воссоздай по референсу панель с 3D-глобусом на Three.js. Добавь дневной и ночной режимы, читаемые географические данные и рабочие элементы управления, соответствующие референсу.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Исходная публикация](https://x.com/hqmank/status/2096082432197837065) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
-
-### Из PDF-схемы в печатную плату и 3D-сборку
-
-[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · Другое
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="Из PDF-схемы в печатную плату и 3D-сборку"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Используй PDF со схемой, чтобы доработать цепь в KiCad, развести двухслойную плату 50 × 20 мм и отрендерить её 3D-сборку. Изучи документацию компонентов и устрани нарушения правил проектирования.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Исходная публикация](https://x.com/swjtutl/status/2096079976433082502) · [Назад к примерам](#all-prompts)
-
----
-
-
-[Полный каталог](catalog.ru.md) · [←](catalog.ru.4.md) · **5 / 9** · [→](catalog.ru.6.md)
+[Полный каталог](catalog.ru.md) · [←](catalog.ru.4.md) · **5 / 10** · [→](catalog.ru.6.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ru/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Полный каталог →</a></strong></p>

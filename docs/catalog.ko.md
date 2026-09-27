@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**447 사례 · 14 🌐**
+**452 사례 · 14 🌐**
 
-[카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md) · [2](../docs/catalog.ko.2.md) · [3](../docs/catalog.ko.3.md) · [4](../docs/catalog.ko.4.md) · [5](../docs/catalog.ko.5.md) · [6](../docs/catalog.ko.6.md) · [7](../docs/catalog.ko.7.md) · [8](../docs/catalog.ko.8.md) · [9](../docs/catalog.ko.9.md)
+[카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md) · [2](../docs/catalog.ko.2.md) · [3](../docs/catalog.ko.3.md) · [4](../docs/catalog.ko.4.md) · [5](../docs/catalog.ko.5.md) · [6](../docs/catalog.ko.6.md) · [7](../docs/catalog.ko.7.md) · [8](../docs/catalog.ko.8.md) · [9](../docs/catalog.ko.9.md) · [10](../docs/catalog.ko.10.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 게임 · 121
+### 게임 · 122
 
+- [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Crazy Tanks — 3D 아일랜드 포병전](../docs/catalog.ko.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
@@ -40,7 +41,7 @@
 - [1인칭 버거 시뮬레이터](../docs/catalog.ko.1.md#gpt-6-astra-2102897258983313712) · [noclipepe](https://x.com/noclipepe)
 - [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [단일 HTML 파일로 제작하는 3D 카트 레이싱 게임](../docs/catalog.ko.1.md#gpt-6-astra-2102652927177617564) · [Anshul](https://x.com/realanshull)
-- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Battle City 3D: 끝없는 탱크 디펜스](../docs/catalog.ko.2.md#battle-city-3d) · [jared](https://x.com/jaredliu_bravo)
 - [Sir, We Have Orc Problems 스타일의 TD 게임](../docs/catalog.ko.2.md#gpt-6-astra-2102411087002112256) · [nkz/ぴたすぽ](https://x.com/nikzu_)
@@ -55,7 +56,7 @@
 - [키클롭스의 섬](../docs/catalog.ko.2.md#cyclops-island-threejs-game) · [Jared](https://x.com/jaredliu_bravo)
 - [PC판 스플래툰 개발 및 그래픽 재현](../docs/catalog.ko.2.md#gpt-6-astra-2100193512373592313) · [basio](https://x.com/basio39)
 - [탐험 가능한 절차적 우주 탐험 게임](../docs/catalog.ko.2.md#gpt-6-astra-2099785223827259515) · [developers.openai.com](https://developers.openai.com/)
-- [플레이 가능한 3D 장애물 코스](../docs/catalog.ko.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [플레이 가능한 3D 장애물 코스](../docs/catalog.ko.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
 - [플레이 가능한 3D 브라우저 해안 지구 데모](../docs/catalog.ko.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
 - [스카이바운드 브라우저 비행 게임](../docs/catalog.ko.3.md#gpt-6-astra-2098739181510164652) · [Aakash Kanojiya](https://x.com/Kanojiyaaakash1)
 - [DEVICE: 스마트폰 본체를 활용하는 포토리얼 3D 퍼즐 게임](../docs/catalog.ko.3.md#gpt-6-astra-2098715488369152087) · [ひまねこ](https://x.com/00Nekonet)
@@ -121,7 +122,7 @@
 - [GTA 스타일 오픈월드 멀티플레이 프로토타입](../docs/catalog.ko.7.md#gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Matt Shumer](https://x.com/mattshumer_)
 - [만화책 스타일 Three.js 카우보이 게임](../docs/catalog.ko.7.md#comic-book-three-js-cowboy-game-2095180091257209148) · [smallzer0](https://x.com/Smallzero)
 - [인간 대 정렬되지 않은 AGI 게임](../docs/catalog.ko.7.md#human-versus-unaligned-agi-game-2095180071221002441) · [Lucas Bai](https://x.com/lucasybai)
-- [Three.js 멀티플레이 해적 세계](../docs/catalog.ko.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Three.js 멀티플레이 해적 세계](../docs/catalog.ko.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [네이티브 C++로 만드는 소울라이크 게임](../docs/catalog.ko.8.md#native-c-souls-like-game-2095053114600755576) · [wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz)
 - [직접 플레이하는 3D 뱀과 사다리](../docs/catalog.ko.8.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [완성형 Unity 테니스 게임](../docs/catalog.ko.8.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
@@ -130,10 +131,10 @@
 - [Mini Militia 스타일 브라우저 게임](../docs/catalog.ko.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [세 가지 작은 물리 게임 아이디어](../docs/catalog.ko.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Three.js로 만드는 AAA급 카트 레이싱](../docs/catalog.ko.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
-- [WebGL 셰이더로 만드는 AAA급 군중 슈터](../docs/catalog.ko.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [직접 플레이하는 타이타닉 재난 게임](../docs/catalog.ko.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [멀티플레이 공룡 생존 게임](../docs/catalog.ko.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [10분 만에 만든 뒤 다듬는 Three.js 게임](../docs/catalog.ko.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [WebGL 셰이더로 만드는 AAA급 군중 슈터](../docs/catalog.ko.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [직접 플레이하는 타이타닉 재난 게임](../docs/catalog.ko.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [멀티플레이 공룡 생존 게임](../docs/catalog.ko.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [10분 만에 만든 뒤 다듬는 Three.js 게임](../docs/catalog.ko.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
 - [Need for Speed 스타일 Godot 게임 프롬프트](../docs/catalog.ko.9.md#need-for-speed-style-godot-game-2082714235373584582) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Kimi K3 플레이 가능한 전투 게임 프롬프트](../docs/catalog.ko.9.md#playable-combat-game-2082507403598373134) · [Darshal Jaitwar](https://x.com/darshal_)
 - [HTML 하나로 LoL 스타일 1 대 1을 만드는 Kimi K3 프롬프트](../docs/catalog.ko.9.md#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Fokki](https://x.com/0x_fokki)
@@ -157,8 +158,10 @@
 
 <a id="category-3d-scenes"></a>
 
-### 장면 · 97
+### 장면 · 99
 
+- [숲속 호수 마을 환경](../docs/catalog.ko.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [복셀 병 속의 배 WebGL 장면](../docs/catalog.ko.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Three.js로 구현한 복셀 스타일 일본식 정원](../docs/catalog.ko.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [골든아워의 로마 전장 세트 피스](../docs/catalog.ko.1.md#gpt-6-astra-2103351755971207251) · [tonysuri](https://x.com/tonysurix)
 - [STILLWATER — 달빛 어린 늪 브라우저 체험](../docs/catalog.ko.1.md#gpt-6-astra-2103308083242082314) · [YouWare](https://x.com/YouWareAI)
@@ -167,9 +170,9 @@
 - [브라우저에서 조작할 수 있는 중세 유럽풍 3D 성](../docs/catalog.ko.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [더 라스트 트레인 사이버펑크 메가시티 벤치마크](../docs/catalog.ko.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [중세 성 브라우저 애니메이션](../docs/catalog.ko.1.md#gpt-6-astra-2102672926285713456) · [juhapalomaki.fi](https://juhapalomaki.fi/)
-- [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [내부 공간을 포함한 2층 교외 주택](../docs/catalog.ko.2.md#gpt-6-astra-2102473710724919614) · [Azer](https://x.com/azer0lxm)
 - [도쿄 타워 낮·밤 3D 장면과 영상](../docs/catalog.ko.2.md#gpt-6-astra-2102276620124062065) · [Wafffle](https://x.com/wafffle_dev)
 - [사실적인 3D 환경 제작](../docs/catalog.ko.2.md#gpt-6-astra-2101224659861590399) · [Julian Goldie SEO](https://x.com/JulianGoldieSEO)
@@ -177,7 +180,7 @@
 - [가구가 움직이는 인터랙티브 3D 룸 장면](../docs/catalog.ko.2.md#gpt-6-astra-2100139076816916977) · [Wentao Zhu](https://x.com/walterzhu8)
 - [참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작](../docs/catalog.ko.2.md#gpt-6-astra-2099850719839109597) · [妖精アーヤ](https://x.com/aiehon_aya)
 - [호텔 복도 장면 만들기](../docs/catalog.ko.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
-- [초고층 빌딩으로 가득한 3D 월드](../docs/catalog.ko.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [초고층 빌딩으로 가득한 3D 월드](../docs/catalog.ko.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
 - [피치 성을 3D로 재해석하기](../docs/catalog.ko.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [1893년 시카고 세계 박람회 3D 재현](../docs/catalog.ko.3.md#gpt-6-astra-2098795017955418202) · [Dan Elton](https://x.com/moreisdifferent)
 - [사원 미니어처 3D 모델 장면](../docs/catalog.ko.3.md#gpt-6-astra-2098403061463224543) · [Rion Wu](https://x.com/rionaifantasy)
@@ -185,9 +188,9 @@
 - [백룸풍 Blender VHS 장면](../docs/catalog.ko.3.md#gpt-6-astra-2097534290112188602) · [CHRIS FIRST](https://x.com/chrisfirst)
 - [아늑한 습지 호수 세계](../docs/catalog.ko.3.md#gpt-6-astra-2097343467026289039) · [Givros](https://x.com/givros)
 - [생성한 레퍼런스 이미지로 만드는 스카이림풍 마을 지형](../docs/catalog.ko.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
-- [Blender에서 12초짜리 숲길](../docs/catalog.ko.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [인터랙티브 중국식 중정](../docs/catalog.ko.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [「중력이 망가진 지평선」 VRChat용 경관 월드](../docs/catalog.ko.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [Blender에서 12초짜리 숲길](../docs/catalog.ko.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [인터랙티브 중국식 중정](../docs/catalog.ko.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [「중력이 망가진 지평선」 VRChat용 경관 월드](../docs/catalog.ko.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [호그와트 3D 장면](../docs/catalog.ko.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [아이 방과 업무 공간 배치 도구](../docs/catalog.ko.4.md#children-s-room-and-workspace-planner-2096578684010508736) · [かのこ🌼AI×子育て×探究](https://x.com/dqlh47m)
 - [Blender에서 처음부터 만드는 주택](../docs/catalog.ko.4.md#a-house-modeled-from-scratch-in-blender-2096576154337734865) · [みずくん](https://x.com/mizkun)
@@ -197,7 +200,7 @@
 - [에스겔의 성전 환상을 3D로](../docs/catalog.ko.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [최상층 평면도에서 Blender 미리보기까지](../docs/catalog.ko.4.md#top-floor-plan-to-blender-preview-2096501340889374883) · [indigo](https://x.com/indigox)
 - [걸어서 둘러보는 로우폴리 과천 마을](../docs/catalog.ko.4.md#walkable-low-poly-gwacheon-village-2096490395614019793) · [Manas Joshi](https://x.com/ManasJoshi76254)
-- [Blender에서 블랙홀 제작 및 렌더링](../docs/catalog.ko.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Blender에서 블랙홀 제작 및 렌더링](../docs/catalog.ko.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
 - [Blender로 재현한 리스본 테헤이루 두 파수](../docs/catalog.ko.5.md#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto)
 - [Three.js로 생성한 울창한 숲](../docs/catalog.ko.5.md#dense-procedural-forest-in-three-js-2096263046918197609) · [Leon Lin](https://x.com/LexnLin)
 - [복셀로 재현한 클루지나포카 통일 광장](../docs/catalog.ko.5.md#cluj-napoca-union-square-in-voxels-2096262733259837681) · [Dan Manastireanu](https://x.com/danmana) · GitHub
@@ -215,8 +218,8 @@
 - [한 번의 대화로 만드는 Three.js 해전 장면](../docs/catalog.ko.6.md#single-turn-three-js-naval-war-scene-2095840435319001278) · [leo 🐾](https://x.com/synthwavedd)
 - [직접 산책하는 ‘별이 빛나는 밤’의 거리](../docs/catalog.ko.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [실제 집을 편집 가능한 60 FPS Blender 장면으로](../docs/catalog.ko.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을](../docs/catalog.ko.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [숲속 빌라 Solace를 기획부터 UE5까지](../docs/catalog.ko.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을](../docs/catalog.ko.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [숲속 빌라 Solace를 기획부터 UE5까지](../docs/catalog.ko.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
 - [평면도에서 완전한 3D 워크스루로](../docs/catalog.ko.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [병 안에서 항해하는 살아 있는 복셀 범선](../docs/catalog.ko.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Blender로 재현한 팰리스 오브 파인 아츠](../docs/catalog.ko.7.md#palace-of-fine-arts-blender-recreation-2095653641164329143) · [Sharif Shameem](https://x.com/sharifshameem)
@@ -232,8 +235,8 @@
 - [절차적 폭포 표현 실험](../docs/catalog.ko.7.md#procedural-waterfall-study-2095510069047660636) · [Fede(URU) 🇺🇾](https://x.com/RealFedeURU)
 - [살아 있는 복셀 섬 Aerie](../docs/catalog.ko.7.md#aerie-a-living-voxel-island-2095493630421340200) · [AI Guides](https://x.com/free_ai_guides)
 - [프루티거 에어로 3D 세계](../docs/catalog.ko.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
-- [정거원통 파노라마로 만드는 도시](../docs/catalog.ko.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Blender 드래곤 둥지 장면](../docs/catalog.ko.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [정거원통 파노라마로 만드는 도시](../docs/catalog.ko.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Blender 드래곤 둥지 장면](../docs/catalog.ko.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [정교하게 재현한 3D 경기장](../docs/catalog.ko.8.md#detailed-3d-stadium-recreation-2095123216419459454) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [병 안에서 살아 움직이는 복셀 세계](../docs/catalog.ko.8.md#living-voxel-world-inside-a-bottle-2095111213927510131) · [Vib3Coded](https://x.com/vib3coded)
 - [인터랙티브 Three.js 성](../docs/catalog.ko.8.md#interactive-three-js-castle-2095048818203275584) · [Jigs](https://x.com/debugsenpai)
@@ -271,7 +274,7 @@
 - [CAD로 직접 몸체 설계하기](../docs/catalog.ko.2.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [난간에 유지보수용 체인 추가](../docs/catalog.ko.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Apple 스타일 3D 하트 및 웃는 이모지](../docs/catalog.ko.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
-- [200폴리곤 이하의 침엽수 모델](../docs/catalog.ko.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [200폴리곤 이하의 침엽수 모델](../docs/catalog.ko.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [머리 없는 의상 모델 UV 언랩 및 4K 재베이크](../docs/catalog.ko.3.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
 - [조인트 결합식 분할 3D 프린트 액자](../docs/catalog.ko.3.md#gpt-6-astra-2098774359926297011) · [wada](https://x.com/wada)
 - [로봇과 노는 소녀 피규어](../docs/catalog.ko.3.md#gpt-6-astra-2098406473273663992) · [𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
@@ -286,7 +289,7 @@
 - [Geometry Nodes로 만드는 반복 수면 효과](../docs/catalog.ko.4.md#looping-water-with-geometry-nodes-2096521798150242631) · [黒曜陣](https://x.com/uB95A7tobA17057)
 - [잔잔한 3D 바다를 달리는 YF-24 보트](../docs/catalog.ko.4.md#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Yohei Matsumoto](https://x.com/yhmtmt1)
 - [생성한 3D 에셋의 조립과 애니메이션](../docs/catalog.ko.4.md#assemble-and-animate-generated-3d-assets-2096481425050743048) · [Stefan 3D AI](https://x.com/Stefan_3D_AI)
-- [캐릭터 콘셉트부터 리깅된 3D 모델과 카툰까지](../docs/catalog.ko.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [캐릭터 콘셉트부터 리깅된 3D 모델과 카툰까지](../docs/catalog.ko.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Blender에서 포토리얼한 편집 가능한 드래곤 재구성](../docs/catalog.ko.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
 - [절차적으로 만드는 나폴레옹 흉상](../docs/catalog.ko.5.md#procedural-napoleon-bust-2096234355395903672) · [Le PLOUTOS](https://x.com/leploutos)
 - [참고 이미지로 만드는 예인선 조립 모델](../docs/catalog.ko.5.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
@@ -295,13 +298,13 @@
 - [Blender로 만드는 포뮬러 원 차량](../docs/catalog.ko.5.md#formula-one-car-in-blender-2096125193580113957) · [Conor Dart](https://x.com/Conor_D_Dart)
 - [일러스트에서 플레이 가능한 캐릭터로](../docs/catalog.ko.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Blender로 만드는 아자디 타워](../docs/catalog.ko.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
-- [Blender로 제작하는 미래형 오토바이와 탱크](../docs/catalog.ko.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Blender로 제작하는 미래형 오토바이와 탱크](../docs/catalog.ko.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
 - [한 시점의 사진으로 재구성하는 전동드릴](../docs/catalog.ko.6.md#single-view-power-drill-reconstruction-2096059736693305794) · [Utah teapot 🫖](https://x.com/SkyeSharkie)
 - [참고 이미지로 재현하는 TP-7 레코더](../docs/catalog.ko.6.md#tp-7-recorder-reference-model-2096013228090245181) · [Tykra](https://x.com/ty_kra_lab)
 - [여러 레퍼런스 이미지로 제작한 리깅된 메카](../docs/catalog.ko.6.md#gpt-6-astra-2095975726558392570) · [Vatroslav Vrbanić](https://x.com/vatro_vrbanic)
 - [기계 구조까지 완성한 Blender 기관차](../docs/catalog.ko.6.md#mechanically-complete-blender-locomotive-2095868420327710840) · [sheemamoto](https://x.com/sheemamoto)
 - [레시피로 만드는 3D 치즈케이크 영상](../docs/catalog.ko.6.md#recipe-to-3d-cheesecake-film-2095829851206774987) · [سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976)
-- [증기기관차 도면을 편집 가능한 Blender 조립 모델로](../docs/catalog.ko.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [증기기관차 도면을 편집 가능한 Blender 조립 모델로](../docs/catalog.ko.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
 - [3D 프린트 가능한 USS 엔터프라이즈 CAD 조립 모델](../docs/catalog.ko.7.md#printable-uss-enterprise-cad-assembly-2095641163441254676) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [3D 프린트 가능한 관절 액션 피규어](../docs/catalog.ko.7.md#articulated-printable-action-figure-2095481098201387287) · [Max Blade](https://x.com/_MaxBlade)
 - [기업 공화국의 요격 드론 에셋](../docs/catalog.ko.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -343,7 +346,7 @@
 - [타일 옵션을 선택할 수 있는 인터랙티브 아파트 워크스루](../docs/catalog.ko.2.md#gpt-6-astra-2100222426705453318) · [Shimecki](https://x.com/scheemunai)
 - [인터랙티브 3D 생물체 신경계 패널](../docs/catalog.ko.2.md#gpt-6-astra-2099719427990134984) · [AiMind](https://x.com/AIMind_Ai)
 - [도망치는 보트가 있는 인터랙티브 화산섬](../docs/catalog.ko.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
-- [인터랙티브 3D 사무라이 숲 씬](../docs/catalog.ko.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [인터랙티브 3D 사무라이 숲 씬](../docs/catalog.ko.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
 - [인터랙티브 3D 해부학 탐색기](../docs/catalog.ko.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [체르노빌 아틀라스](../docs/catalog.ko.3.md#gpt-6-astra-2098841316591346006) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [인터랙티브 3D 잉어 연못](../docs/catalog.ko.3.md#gpt-6-astra-2098492771170722032) · [Vib3Coded](https://x.com/vib3coded)
@@ -354,8 +357,8 @@
 - [인터랙티브 3D 입자 충돌기](../docs/catalog.ko.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [몰입형 3D 논 웹사이트](../docs/catalog.ko.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [베이징 천단 기년전 TypeScript + Three.js WebGL 프로젝트](../docs/catalog.ko.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
-- [인터랙티브 젤리 레몬 나무](../docs/catalog.ko.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [작업대 위의 인터랙티브 로봇 펫](../docs/catalog.ko.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [인터랙티브 젤리 레몬 나무](../docs/catalog.ko.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [작업대 위의 인터랙티브 로봇 펫](../docs/catalog.ko.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Three.js WebGPU로 만드는 끝없이 이어지는 미니어처 거리](../docs/catalog.ko.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [인터랙티브 스마트폰 분해도](../docs/catalog.ko.4.md#gpt-6-astra-2096685163111694556) · [Zaira Laraib](https://x.com/zairalaraib_)
 - [데스크톱 컴퓨터 분해 도감](../docs/catalog.ko.4.md#exploded-desktop-computer-atlas-2096578761877860502) · [cooper](https://x.com/icooperhero)
@@ -363,7 +366,7 @@
 - [두 개의 링으로 이루어진 에너지 코어](../docs/catalog.ko.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [내 방을 인터랙티브 포트폴리오로](../docs/catalog.ko.4.md#personal-room-as-an-interactive-portfolio-2096506357868642342) · [Kalan ◂Ⓘ▸](https://x.com/kalanyei)
 - [D4에서 영감을 받은 플레이 가능한 아파트](../docs/catalog.ko.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [오디오 동기화 애니메이션이 적용된 플레이 가능한 3D 앙상블](../docs/catalog.ko.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [오디오 동기화 애니메이션이 적용된 플레이 가능한 3D 앙상블](../docs/catalog.ko.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
 - [궤도를 따라 탐색하는 태양계](../docs/catalog.ko.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [생물 발광으로 빛나는 심해 랜딩 페이지](../docs/catalog.ko.5.md#bioluminescent-deep-sea-landing-page-2096269057544831175) · [Himanshu Hingorani](https://x.com/himanshubuildss)
 - [인터랙티브 Hyperloop 데모](../docs/catalog.ko.5.md#interactive-hyperloop-demo-2096250748099068377) · [Amir](https://x.com/hbanay98)
@@ -375,8 +378,8 @@
 - [자전거를 타는 인터랙티브 펠리컨](../docs/catalog.ko.5.md#gpt-6-astra-2096213850383331489) · [AI Builder Club](https://x.com/aibuilderclub_)
 - [아이가 노는 따뜻한 장난감 세계](../docs/catalog.ko.5.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [32명이 움직이는 걸어 다닐 수 있는 사무실](../docs/catalog.ko.5.md#walkable-office-with-32-animated-people-2096131961345720477) · [Parithosh-varma](https://x.com/demgufever82151) · GitHub
-- [WebGL로 살펴보는 블랙홀의 형성](../docs/catalog.ko.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [인터랙티브 지구본 대시보드](../docs/catalog.ko.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [WebGL로 살펴보는 블랙홀의 형성](../docs/catalog.ko.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [인터랙티브 지구본 대시보드](../docs/catalog.ko.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
 - [Sinclair ZX Spectrum 시뮬레이터](../docs/catalog.ko.6.md#sinclair-zx-spectrum-simulator-2096062355692048605) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [강연 활동을 지구본에 담은 개인 3D 포트폴리오](../docs/catalog.ko.6.md#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Shivay Lamba](https://x.com/HowDevelop)
 - [Tesla Model X 분해 보기](../docs/catalog.ko.6.md#tesla-model-x-exploded-view-2096009146248122416) · [ashe](https://x.com/ashebytes)
@@ -388,15 +391,15 @@
 - [역대 대통령의 집무실을 둘러보기](../docs/catalog.ko.6.md#oval-office-through-the-presidencies-2095830596069290077) · [Min Zhou](https://x.com/fMinZhou)
 - [인터랙티브 Three.js 은하 홈페이지](../docs/catalog.ko.6.md#interactive-three-js-galaxy-homepage-2095806515579879457) · [Three.js Resources](https://x.com/threejsresource)
 - [실시간 WebGL 은하로 만든 출시 페이지 히어로](../docs/catalog.ko.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
-- [분해하며 살펴보는 인터랙티브 3D 터보차저](../docs/catalog.ko.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [직접 운전하는 어린 시절 기차 테이블](../docs/catalog.ko.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [분해하며 살펴보는 인터랙티브 3D 터보차저](../docs/catalog.ko.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [직접 운전하는 어린 시절 기차 테이블](../docs/catalog.ko.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [조작할 수 있는 복셀 철도 테이블](../docs/catalog.ko.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [사실적인 3D 제품 목업 스튜디오](../docs/catalog.ko.7.md#photoreal-3d-product-mockup-studio-2095619319690400253) · [Josh Millgate](https://x.com/joshmillgate)
 - [한 번에 만드는 고급 인터랙티브 프로토타입](../docs/catalog.ko.7.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [분해하며 보는 AI 서버 랙](../docs/catalog.ko.7.md#exploding-ai-server-rack-visualization-2095193022304792938) · [Kyle Jeong](https://x.com/kylejeong)
 - [10개 장면의 영화적 르네상스 웹사이트](../docs/catalog.ko.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [반려 염소가 있는 가상의 섬](../docs/catalog.ko.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [인터랙티브 3D 태양계](../docs/catalog.ko.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [반려 염소가 있는 가상의 섬](../docs/catalog.ko.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [인터랙티브 3D 태양계](../docs/catalog.ko.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
 - [셰이더로 표현하는 인터랙티브 공룡 도감](../docs/catalog.ko.8.md#interactive-shader-driven-dino-dex-2095121568297083067) · [Benji Viz](https://x.com/_Benviz)
 - [건담에서 영감을 받은 메카 쇼케이스](../docs/catalog.ko.8.md#gundam-inspired-mecha-showcase-2095106919530930221) · [Crayon](https://x.com/usecrayon)
 - [참고 디자인으로 만드는 Three.js 포트폴리오](../docs/catalog.ko.8.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo) · GitHub
@@ -404,17 +407,19 @@
 - [인터랙티브 단파 라디오 NIGHTBAND](../docs/catalog.ko.8.md#nightband-interactive-shortwave-radio-2095026928210346175) · [Neo](https://x.com/NeoAIForecast)
 - [생각하는 NPC가 사는 복셀 마을](../docs/catalog.ko.8.md#voxel-village-with-thinking-npcs-2094930970675741171) · [Tech2Wild](https://x.com/Tech2Wild)
 - [인터랙티브 3D 뇌 신호 시각화](../docs/catalog.ko.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
-- [유리 뇌로 보여주는 역량 데모](../docs/catalog.ko.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [유리 뇌로 보여주는 역량 데모](../docs/catalog.ko.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Claude Opus 5용 단일 파일 3D 태양 시각화 프롬프트](../docs/catalog.ko.9.md#single-file-3d-sun-visualizer-2082461416049525077) · [AlysisAI](https://x.com/AlysisAI)
 - [무한 Three.js 종이 머신을 만드는 Claude Fable 5 프롬프트](../docs/catalog.ko.9.md#infinite-three-js-paper-machine-2081533777340506251) · [0xMarioNawfal](https://x.com/RoundtableSpace)
 - [3D 구성 도구에 Vespa 125 추가하기](../docs/catalog.ko.9.md#vespa-125-3d-configurator-2081439705506435440) · [Raf Lorenz](https://x.com/rafintheloop)
 - [다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트](../docs/catalog.ko.9.md#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Harshith](https://x.com/HarshithLucky3)
-- [Three.js 비행기 내부 워크스루 체험 프롬프트](../docs/catalog.ko.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Three.js 비행기 내부 워크스루 체험 프롬프트](../docs/catalog.ko.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 82
+### 애니메이션 · 84
 
+- [완성도 높은 15초 모션 디자인 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify 테마 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [생애 주기 모션 그래픽 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [인터랙티브 3D 해상 로켓 발사 시퀀스](../docs/catalog.ko.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -429,7 +434,7 @@
 - [Claude Opus 5로 제작한 Tripo 3D 프로모션 필름](../docs/catalog.ko.1.md#tripo-claude-opus-5-5-paper-cut-3d-short) · [tripo3d](https://x.com/tripoai)
 - [인터랙티브 오일러리안 네온 유체 시뮬레이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenberg 사고 모델과 실사풍 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [인터랙티브 군중 대피 시뮬레이션](../docs/catalog.ko.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [타이타닉 — 마지막 빛](../docs/catalog.ko.2.md#titanic-the-last-light) · [jared](https://x.com/jaredliu_bravo)
 - [캣푸 무술 고양이 3D 애니메이션 및 영상 제작 워크플로](../docs/catalog.ko.2.md#gpt-6-astra-2101310374033428642) · [PixVerse](https://x.com/PixVerse)
@@ -437,7 +442,7 @@
 - [Sharpa 다지 손으로 펜 돌리기 전략 학습](../docs/catalog.ko.2.md#gpt-6-astra-2100751369619820923) · [AI Will](https://x.com/FinanceYF5)
 - [지하철역의 AAA CGI 초자연 격투 단편](../docs/catalog.ko.2.md#gpt-6-astra-2100233407108137349) · [MadMax](https://x.com/MadMax_Series)
 - [전사가 거인의 몸을 기어올라 턱을 가격하다](../docs/catalog.ko.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [충돌 방지 기능을 갖춘 자율 운행 모형 철도](../docs/catalog.ko.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [충돌 방지 기능을 갖춘 자율 운행 모형 철도](../docs/catalog.ko.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [스스로 접히는 3D 종이접기 애니메이션](../docs/catalog.ko.3.md#gpt-6-astra-2098909584996057283) · [AI Guides](https://x.com/free_ai_guides)
 - [키네틱 샌드 테이블 시뮬레이션](../docs/catalog.ko.3.md#gpt-6-astra-2098831830002851846) · [AI Guides](https://x.com/free_ai_guides)
 - [선경·고찰 3D 제작 시연 영상](../docs/catalog.ko.3.md#gpt-6-astra-2098697876155076820) · [火山哥🕊️](https://x.com/huoshan007)
@@ -459,15 +464,15 @@
 - [직접 조작하는 로렌츠 끌개](../docs/catalog.ko.4.md#interactive-lorenz-attractor-2096572156453028193) · [Juy \| AI experiments](https://x.com/juyeam)
 - [핵폭발 3D 도시 시뮬레이션](../docs/catalog.ko.4.md#gpt-6-astra-2096562462674079868) · [Ashish Thakur](https://x.com/ashishthakur___)
 - [표면을 타고 오르는 절차적 곤충](../docs/catalog.ko.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
-- [철도망 시뮬레이션 게임](../docs/catalog.ko.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [직원과 손님이 움직이는 선술집](../docs/catalog.ko.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [철도망 시뮬레이션 게임](../docs/catalog.ko.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [직원과 손님이 움직이는 선술집](../docs/catalog.ko.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
 - [C#·WASM으로 구현하는 브라우저 레이싱 물리](../docs/catalog.ko.5.md#browser-racing-physics-in-c-and-wasm-2096258619574513880) · [achepta](https://x.com/achepta_tm)
 - [궤도 랑데부 시뮬레이터](../docs/catalog.ko.5.md#orbital-rendezvous-simulator-2096225621303042258) · [Alican Kiraz](https://x.com/AlicanKiraz0)
 - [정육면체 안에 갇힌 폭풍](../docs/catalog.ko.5.md#a-storm-trapped-in-a-cube-2096220264413409648) · [zcw](https://x.com/zwb44)
 - [사용자에게 반응하는 WebGL 캐릭터 Zubli](../docs/catalog.ko.5.md#zubli-a-responsive-webgl-character-2096180133803561376) · [CoXis](https://x.com/coxis)
 - [자동 캐릭터 리그와 쿵후 동작](../docs/catalog.ko.5.md#automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [실시간으로 가동되는 제트기 공장](../docs/catalog.ko.5.md#live-jet-manufacturing-plant-2096122429319852319) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
-- [절차적 열차 조립체 분해 애니메이션](../docs/catalog.ko.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [절차적 열차 조립체 분해 애니메이션](../docs/catalog.ko.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
 - [다리 폐쇄에 반응하는 배송망](../docs/catalog.ko.6.md#delivery-network-with-bridge-closures-2096042360513904742) · [AgentworkflowLab](https://x.com/AgentWorkflowLa)
 - [진화하는 WebGL 생태계](../docs/catalog.ko.6.md#evolving-webgl-ecosystem-2096040448477515874) · [Yume\_X](https://x.com/yume_arasaki)
 - [탱글탱글한 WebGPU 젤리](../docs/catalog.ko.6.md#bouncy-webgpu-jelly-2096008241104711698) · [Scott](https://x.com/scottstts)
@@ -496,14 +501,14 @@
 - [베트남 정글 헬리콥터 시네마틱 애니메이션 프롬프트](../docs/catalog.ko.9.md#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Kirill](https://x.com/kirillk_web3)
 - [Kimi K3용 단일 파일 WebGL2 블랙홀 레이트레이서 프롬프트](../docs/catalog.ko.9.md#single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Harsh](https://x.com/devloper_hs)
 - [단일 HTML용 Three.js 복셀 축구 애니메이션 프롬프트](../docs/catalog.ko.9.md#voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Thành](https://x.com/Zmthanh)
-- [단일 파일 Three.js 복셀 축구 애니메이션용 Fable 5 프롬프트](../docs/catalog.ko.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [단일 파일 Three.js 복셀 축구 애니메이션용 Fable 5 프롬프트](../docs/catalog.ko.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
 
 <a id="category-other"></a>
 
 ### 기타 · 3
 
 - [브루클린 브리지를 모델링하고 양방향에서 전차가 통과하는 상황을 테스트하세요](../docs/catalog.ko.3.md#gpt-6-astra-2098650336521064759) · [Higgsfield](https://x.com/higgsfield_ai)
-- [회로도 PDF에서 PCB와 3D 보기까지](../docs/catalog.ko.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [회로도 PDF에서 PCB와 3D 보기까지](../docs/catalog.ko.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [쇼핑몰·인터랙티브 3D 박물관·RTS를 아우르는 제작 프롬프트](../docs/catalog.ko.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 
 <a id="models"></a>
@@ -512,8 +517,10 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 291
+### GPT-6 Astra · 293
 
+- [숲속 호수 마을 환경](../docs/catalog.ko.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [복셀 병 속의 배 WebGL 장면](../docs/catalog.ko.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Three.js로 구현한 복셀 스타일 일본식 정원](../docs/catalog.ko.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Blender에서 기니피그 만들기](../docs/catalog.ko.1.md#gpt-6-astra-2103482826519986544) · [かよこ](https://x.com/kayokojoe)
 - [VRChat용 의상 3D 모델링](../docs/catalog.ko.1.md#gpt-6-astra-2103456264785424530) · [のわ〜る👼🍆🐄](https://x.com/Noir4247)
@@ -575,11 +582,11 @@
 - [도망치는 보트가 있는 인터랙티브 화산섬](../docs/catalog.ko.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
 - [호텔 복도 장면 만들기](../docs/catalog.ko.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
 - [전사가 거인의 몸을 기어올라 턱을 가격하다](../docs/catalog.ko.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [초고층 빌딩으로 가득한 3D 월드](../docs/catalog.ko.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
-- [200폴리곤 이하의 침엽수 모델](../docs/catalog.ko.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
-- [인터랙티브 3D 사무라이 숲 씬](../docs/catalog.ko.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
-- [플레이 가능한 3D 장애물 코스](../docs/catalog.ko.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
-- [충돌 방지 기능을 갖춘 자율 운행 모형 철도](../docs/catalog.ko.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [초고층 빌딩으로 가득한 3D 월드](../docs/catalog.ko.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [200폴리곤 이하의 침엽수 모델](../docs/catalog.ko.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [인터랙티브 3D 사무라이 숲 씬](../docs/catalog.ko.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [플레이 가능한 3D 장애물 코스](../docs/catalog.ko.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [충돌 방지 기능을 갖춘 자율 운행 모형 철도](../docs/catalog.ko.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [피치 성을 3D로 재해석하기](../docs/catalog.ko.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [인터랙티브 3D 해부학 탐색기](../docs/catalog.ko.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [플레이 가능한 3D 브라우저 해안 지구 데모](../docs/catalog.ko.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
@@ -625,11 +632,11 @@
 - [생성한 레퍼런스 이미지로 만드는 스카이림풍 마을 지형](../docs/catalog.ko.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
 - [일본 꽃집 분해 뷰 애니메이션](../docs/catalog.ko.3.md#gpt-6-astra-2097153139795468365) · [KANA｜東京AI映像](https://x.com/KanaWorks_AI)
 - [Godot에서 디지그레이드형 메크 리깅 및 애니메이션 제작](../docs/catalog.ko.3.md#gpt-6-astra-2097123382852829230) · [Om Patel](https://x.com/om_patel5)
-- [인터랙티브 젤리 레몬 나무](../docs/catalog.ko.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [작업대 위의 인터랙티브 로봇 펫](../docs/catalog.ko.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
-- [Blender에서 12초짜리 숲길](../docs/catalog.ko.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [인터랙티브 중국식 중정](../docs/catalog.ko.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [「중력이 망가진 지평선」 VRChat용 경관 월드](../docs/catalog.ko.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [인터랙티브 젤리 레몬 나무](../docs/catalog.ko.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [작업대 위의 인터랙티브 로봇 펫](../docs/catalog.ko.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [Blender에서 12초짜리 숲길](../docs/catalog.ko.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [인터랙티브 중국식 중정](../docs/catalog.ko.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [「중력이 망가진 지평선」 VRChat용 경관 월드](../docs/catalog.ko.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [Three.js WebGPU로 만드는 끝없이 이어지는 미니어처 거리](../docs/catalog.ko.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [호그와트 3D 장면](../docs/catalog.ko.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임](../docs/catalog.ko.4.md#gpt-6-astra-2096793432987464010) · [码农暖爸](https://x.com/Delroy715)
@@ -675,11 +682,11 @@
 - [표면을 타고 오르는 절차적 곤충](../docs/catalog.ko.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
 - [Lego 1999 Racers 게임 재현](../docs/catalog.ko.4.md#gpt-6-astra-2096438110095585753) · [Mo Elgaraihy](https://x.com/EngMoElgaraihy)
 - [D4에서 영감을 받은 플레이 가능한 아파트](../docs/catalog.ko.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Blender에서 블랙홀 제작 및 렌더링](../docs/catalog.ko.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
-- [철도망 시뮬레이션 게임](../docs/catalog.ko.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [직원과 손님이 움직이는 선술집](../docs/catalog.ko.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
-- [오디오 동기화 애니메이션이 적용된 플레이 가능한 3D 앙상블](../docs/catalog.ko.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
-- [캐릭터 콘셉트부터 리깅된 3D 모델과 카툰까지](../docs/catalog.ko.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Blender에서 블랙홀 제작 및 렌더링](../docs/catalog.ko.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [철도망 시뮬레이션 게임](../docs/catalog.ko.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [직원과 손님이 움직이는 선술집](../docs/catalog.ko.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [오디오 동기화 애니메이션이 적용된 플레이 가능한 3D 앙상블](../docs/catalog.ko.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [캐릭터 콘셉트부터 리깅된 3D 모델과 카툰까지](../docs/catalog.ko.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [궤도를 따라 탐색하는 태양계](../docs/catalog.ko.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [행동 중심 규칙을 갖춘 게 게임](../docs/catalog.ko.5.md#a-crab-game-with-action-driven-mechanics-2096337879173591171) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Blender에서 포토리얼한 편집 가능한 드래곤 재구성](../docs/catalog.ko.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
@@ -723,11 +730,11 @@
 - [일러스트에서 플레이 가능한 캐릭터로](../docs/catalog.ko.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Blender로 만드는 아자디 타워](../docs/catalog.ko.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
 - [쑤저우 박물관 정원 워크스루](../docs/catalog.ko.5.md#suzhou-museum-garden-walkthrough-2096096998092841449) · [amber shen](https://x.com/whosamberella)
-- [WebGL로 살펴보는 블랙홀의 형성](../docs/catalog.ko.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Blender로 제작하는 미래형 오토바이와 탱크](../docs/catalog.ko.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
-- [절차적 열차 조립체 분해 애니메이션](../docs/catalog.ko.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
-- [인터랙티브 지구본 대시보드](../docs/catalog.ko.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
-- [회로도 PDF에서 PCB와 3D 보기까지](../docs/catalog.ko.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [WebGL로 살펴보는 블랙홀의 형성](../docs/catalog.ko.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Blender로 제작하는 미래형 오토바이와 탱크](../docs/catalog.ko.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [절차적 열차 조립체 분해 애니메이션](../docs/catalog.ko.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [인터랙티브 지구본 대시보드](../docs/catalog.ko.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [회로도 PDF에서 PCB와 3D 보기까지](../docs/catalog.ko.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [브라우저 슈터 Astral War](../docs/catalog.ko.6.md#astral-war-browser-shooter-2096079660605997264) · [Rishi](https://x.com/0xRishi)
 - [콘셉트 이미지로 Astra를 활용해 투박한 3D 미니게임 만들기](../docs/catalog.ko.6.md#astra-3d-2096068401294929940) · [陈硕KAI（耍门）](https://x.com/ChenshuoAI)
 - [The Legend of Astra 게임 프로토타입](../docs/catalog.ko.6.md#the-legend-of-astra-game-prototype-2096064140510970318) · [lofibloom](https://x.com/lofihashbloom)
@@ -770,11 +777,11 @@
 - [실시간 WebGL 은하로 만든 출시 페이지 히어로](../docs/catalog.ko.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
 - [직접 산책하는 ‘별이 빛나는 밤’의 거리](../docs/catalog.ko.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [실제 집을 편집 가능한 60 FPS Blender 장면으로](../docs/catalog.ko.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [분해하며 살펴보는 인터랙티브 3D 터보차저](../docs/catalog.ko.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을](../docs/catalog.ko.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [증기기관차 도면을 편집 가능한 Blender 조립 모델로](../docs/catalog.ko.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
-- [숲속 빌라 Solace를 기획부터 UE5까지](../docs/catalog.ko.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
-- [직접 운전하는 어린 시절 기차 테이블](../docs/catalog.ko.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [분해하며 살펴보는 인터랙티브 3D 터보차저](../docs/catalog.ko.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [반 고흐 그림 여섯 점으로 만든 걸어 다니는 마을](../docs/catalog.ko.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [증기기관차 도면을 편집 가능한 Blender 조립 모델로](../docs/catalog.ko.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [숲속 빌라 Solace를 기획부터 UE5까지](../docs/catalog.ko.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [직접 운전하는 어린 시절 기차 테이블](../docs/catalog.ko.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [평면도에서 완전한 3D 워크스루로](../docs/catalog.ko.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [조작할 수 있는 복셀 철도 테이블](../docs/catalog.ko.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [병 안에서 항해하는 살아 있는 복셀 범선](../docs/catalog.ko.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
@@ -834,11 +841,11 @@
 - [기업 공화국의 요격 드론 에셋](../docs/catalog.ko.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
 - [프루티거 에어로 3D 세계](../docs/catalog.ko.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
 - [10개 장면의 영화적 르네상스 웹사이트](../docs/catalog.ko.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [반려 염소가 있는 가상의 섬](../docs/catalog.ko.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [인터랙티브 3D 태양계](../docs/catalog.ko.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
-- [정거원통 파노라마로 만드는 도시](../docs/catalog.ko.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Blender 드래곤 둥지 장면](../docs/catalog.ko.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Three.js 멀티플레이 해적 세계](../docs/catalog.ko.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [반려 염소가 있는 가상의 섬](../docs/catalog.ko.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [인터랙티브 3D 태양계](../docs/catalog.ko.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [정거원통 파노라마로 만드는 도시](../docs/catalog.ko.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Blender 드래곤 둥지 장면](../docs/catalog.ko.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Three.js 멀티플레이 해적 세계](../docs/catalog.ko.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Blender 날아다니는 냄비 애니메이션](../docs/catalog.ko.8.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
 - [암의 진행을 보여주는 3D 시뮬레이션](../docs/catalog.ko.8.md#3d-cancer-progression-simulation-2095130778342408331) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [유성체 분열 VFX 개선](../docs/catalog.ko.8.md#enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -884,16 +891,19 @@
 - [절차적으로 생성한 Three.js 세계](../docs/catalog.ko.8.md#procedurally-generated-three-js-world-2094873862315843910) · [Swarogan](https://x.com/swarogan)
 - [인터랙티브 3D 뇌 신호 시각화](../docs/catalog.ko.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
 - [사실적인 Three.js 풍경](../docs/catalog.ko.8.md#photorealistic-three-js-landscape-2094871858206191667) · [Alix Ollivier](https://x.com/aollivier82)
-- [WebGL 셰이더로 만드는 AAA급 군중 슈터](../docs/catalog.ko.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [직접 플레이하는 타이타닉 재난 게임](../docs/catalog.ko.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [멀티플레이 공룡 생존 게임](../docs/catalog.ko.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [10분 만에 만든 뒤 다듬는 Three.js 게임](../docs/catalog.ko.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
-- [유리 뇌로 보여주는 역량 데모](../docs/catalog.ko.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [WebGL 셰이더로 만드는 AAA급 군중 슈터](../docs/catalog.ko.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [직접 플레이하는 타이타닉 재난 게임](../docs/catalog.ko.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [멀티플레이 공룡 생존 게임](../docs/catalog.ko.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [10분 만에 만든 뒤 다듬는 Three.js 게임](../docs/catalog.ko.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [유리 뇌로 보여주는 역량 데모](../docs/catalog.ko.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [완성도 높은 15초 모션 디자인 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify 테마 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [3D 불탑 탐색](../docs/catalog.ko.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
@@ -919,11 +929,11 @@
 - [인터랙티브 오일러리안 네온 유체 시뮬레이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](../docs/catalog.ko.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenberg 사고 모델과 실사풍 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [인터랙티브 군중 대피 시뮬레이션](../docs/catalog.ko.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [인터랙티브 3D 선사시대 섬](../docs/catalog.ko.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
@@ -973,8 +983,8 @@
 - [Claude Fable 5용 3D 벚나무 프롬프트](../docs/catalog.ko.9.md#3d-cherry-blossom-tree-2080178541979664741) · [zhod](https://x.com/zhodonx)
 - [쇼핑몰·인터랙티브 3D 박물관·RTS를 아우르는 제작 프롬프트](../docs/catalog.ko.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 - [Fable 5로 뉴욕을 만드는 Blender 도시 모델링 프롬프트](../docs/catalog.ko.9.md#modeling-new-york-city-in-blender-2079387760478073087) · [Martin Puli](https://x.com/MartinPulitano)
-- [단일 파일 Three.js 복셀 축구 애니메이션용 Fable 5 프롬프트](../docs/catalog.ko.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
-- [Three.js 비행기 내부 워크스루 체험 프롬프트](../docs/catalog.ko.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [단일 파일 Three.js 복셀 축구 애니메이션용 Fable 5 프롬프트](../docs/catalog.ko.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Three.js 비행기 내부 워크스루 체험 프롬프트](../docs/catalog.ko.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="model-claude-opus-5"></a>
 

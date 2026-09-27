@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Complete catalog](catalog.en.md) · [←](catalog.en.5.md) · **6 / 9** · [→](catalog.en.7.md)
+[Complete catalog](catalog.en.md) · [←](catalog.en.5.md) · **6 / 10** · [→](catalog.en.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Black-hole formation in WebGL](#black-hole-formation-in-webgl-2096093614397170104)
+- [Futuristic Motorcycle and Tank in Blender](#gpt-6-astra-2096083014845636816)
+- [Exploding procedural train assemblies](#exploding-procedural-train-assemblies-2096082580554777041)
+- [Interactive globe dashboard](#interactive-globe-dashboard-2096082432197837065)
+- [Schematic PDF to PCB and 3D view](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [Astral War browser shooter](#astral-war-browser-shooter-2096079660605997264)
 - [Build a Rough 3D Game in Astra from Concept Art](#astra-3d-2096068401294929940)
 - [The Legend of Astra game prototype](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,117 @@
 - [Real-time WebGL galaxy launch hero](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [Starry Night streets you can stroll](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [Real house to editable 60 FPS Blender scene](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [Exploded interactive 3D turbocharger](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [Walkable town made from six Van Gogh paintings](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [Steam-train drawing to editable Blender assembly](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [Solace forest villa from brief to UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [Driveable childhood train table](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### Black-hole formation in WebGL
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="Black-hole formation in WebGL"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create an educational slideshow about black-hole formation with WebGL visualizations. Use animated 3D scenes to accompany the explanations.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Original post](https://x.com/zeeeeeen/status/2096093614397170104) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### Futuristic Motorcycle and Tank in Blender
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Futuristic Motorcycle and Tank in Blender"></a>
+
+**Prompt**
+
+```text
+Model capability evaluation
+Use Blender to create a futuristic motorcycle, a futuristic tank, and a matching backdrop for presentation shots, prioritizing design and appearance. Take screenshots from multiple angles. MCP should also be available, but choose whichever workflow will produce the highest quality.
+```
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096083014845636816) · [Original post](https://x.com/StelsRay2/status/2096083014845636816) · [Back to examples](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### Exploding procedural train assemblies
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="Exploding procedural train assemblies"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Generate two trains directly in Three.js from dimensions, profiles and geometry functions. Animate wheels and provide an exploded-view and reassembly sequence.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Original post](https://x.com/tomkrcha/status/2096082580554777041) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### Interactive globe dashboard
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="Interactive globe dashboard"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Rebuild a Three.js 3D globe dashboard from a reference image. Include day and night modes, readable geographic data and functional controls matching the reference.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Original post](https://x.com/hqmank/status/2096082432197837065) · [Back to examples](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### Schematic PDF to PCB and 3D view
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · Other
+
+<a href="https://www.tripo3d.ai/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="Schematic PDF to PCB and 3D view"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Use a schematic PDF to revise a circuit in KiCad, route a 50 by 20 mm two-layer PCB and render its 3D assembly. Review component datasheets and resolve design-rule violations.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Original post](https://x.com/swjtutl/status/2096079976433082502) · [Back to examples](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### Astral War browser shooter
@@ -993,105 +1102,7 @@ Reconstruct the supplied real house as a fully editable Blender scene. Keep arch
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### Exploded interactive 3D turbocharger
+[Complete catalog](catalog.en.md) · [←](catalog.en.5.md) · **6 / 10** · [→](catalog.en.7.md)
 
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Exploded interactive 3D turbocharger"></a>
-
-**Prompt**
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Original post](https://x.com/Feraser8/status/2095776712579571725) · [Back to examples](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### Walkable town made from six Van Gogh paintings
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Walkable town made from six Van Gogh paintings"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Turn six supplied Van Gogh paintings into one coherent walkable Three.js town. Preserve each painting’s palette and brush-stroke character while connecting streets, landmarks and transitions into an explorable world.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Original post](https://x.com/petergostev/status/2095776685807346105) · [Live demo](https://van-goghs-town.surge.sh/) · [Back to examples](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### Steam-train drawing to editable Blender assembly
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="Steam-train drawing to editable Blender assembly"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Reconstruct the supplied vintage steam-train drawing in Blender as a detailed mechanical assembly. Keep wheels, axles, suspension, rods, boiler fittings and body panels as named editable objects, with a controllable detail budget.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Original post](https://x.com/tomkrcha/status/2095756085890310311) · [Back to examples](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### Solace forest villa from brief to UE5
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace forest villa from brief to UE5"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a walkable modern forest villa named Solace with three bedrooms, an office, central courtyard, pool and surrounding woodland. Build it procedurally in Blender, render golden-hour stills, then export a 60 FPS UE5 walkthrough.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Original post](https://x.com/NFT_Chen/status/2095752726886105375) · [Back to examples](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### Driveable childhood train table
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Driveable childhood train table"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Rebuild a childhood train table as a tactile Three.js toy with voxel tracks and rolling stock. Let the player drive trains, switch junctions, orbit the table and discover animated miniature scenes.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Original post](https://x.com/BigRyan/status/2095742344293454148) · [Back to examples](#all-prompts)
-
----
-
-
-[Complete catalog](catalog.en.md) · [←](catalog.en.5.md) · **6 / 9** · [→](catalog.en.7.md)
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 447 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 452 examples and live previews →</a></strong></p>

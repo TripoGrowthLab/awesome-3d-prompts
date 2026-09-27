@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Catálogo completo](catalog.es.md) · [←](catalog.es.8.md) · **9 / 9**
+[Catálogo completo](catalog.es.md) · [←](catalog.es.8.md) · **9 / 10** · [→](catalog.es.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar ejemplos (47)</summary>
+<summary>Explorar ejemplos (50)</summary>
 
+- [Un shooter de hordas de calidad AAA con shaders WebGL](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [Un juego sobre la catástrofe del Titanic](#playable-titanic-disaster-game-2094867850355679617)
+- [Un juego multijugador de supervivencia entre dinosaurios](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [Un juego en Three.js en diez minutos, después perfeccionado](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [Un cerebro de cristal para demostrar capacidades](#glass-brain-capability-demo-2094853472864682360)
 - [Un castillo procedural de vóxeles para explorar](#procedural-voxel-castle-showcase-2093690427849191855)
 - [Prompt para montar un 4×4 al estilo Jeep en Blender](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [Prompts de física de destrucción 3D para escenas HTML autónomas](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [Prompt de Kimi K3 para un trazador de rayos de agujero negro en WebGL2 de un solo archivo](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [Prompt de animación de fútbol de vóxeles en Three.js para un único HTML](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Prompt de Fable 5 para modelar Nueva York en Blender](#modeling-new-york-city-in-blender-2079387760478073087)
-- [Prompt de Fable 5 para una animación de fútbol de vóxeles en un solo archivo con Three.js](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Prompt para recorrer un avión en Three.js](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### Un shooter de hordas de calidad AAA con shaders WebGL
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="Un shooter de hordas de calidad AAA con shaders WebGL"></a>
+
+**Prompt**
+
+```text
+¡Hazme el shooter más bestia y divertido que puedas construir con ThreeJS y shaders web! Lo más importante son los disparos, la dinámica, el retroceso, los gráficos, los impactos y la sensación de las armas. Una arena preciosa en la que los enemigos lleguen en hordas. Incluye apuntado con la mira, inercia y peso de las armas, además de un fusil de asalto, una escopeta y un fusil de tirador.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Publicación original](https://x.com/superalesha/status/2094869490165039243) · [Código fuente](https://github.com/alesha-pro/bench-portal) · [Demo en línea](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### Un juego sobre la catástrofe del Titanic
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Un juego sobre la catástrofe del Titanic"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un juego cinematográfico del Titanic en el que el jugador recorra el barco, complete misiones e intente evitar el iceberg, con controles claros y peligro creciente.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Publicación original](https://x.com/vikktorrrre/status/2094867850355679617) · [Demo en línea](https://rms-titanic-1912.netlify.app/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### Un juego multijugador de supervivencia entre dinosaurios
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Un juego multijugador de supervivencia entre dinosaurios"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un juego multijugador de supervivencia con caza, cocina, fabricación, construcción de bases, dinosaurios peligrosos y una progresión que anime a seguir explorando.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Publicación original](https://x.com/Rubzem/status/2094866225960493189) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### Un juego en Three.js en diez minutos, después perfeccionado
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="Un juego en Three.js en diez minutos, después perfeccionado"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un pequeño juego en Three.js en diez minutos con objetivo claro, controles ágiles, peligros reconocibles y estados completos de victoria o derrota. Después revisa el resultado jugable y mejora el aspecto visual, el ritmo y las respuestas a las acciones mediante ajustes posteriores.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Publicación original](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### Un cerebro de cristal para demostrar capacidades
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Un cerebro de cristal para demostrar capacidades"></a>
+
+**Prompt**
+
+```text
+haz una demo en Three.js de lo que eres capaz.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Publicación original](https://x.com/viewsfrom02108/status/2094853472864682360) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### Un castillo procedural de vóxeles para explorar
@@ -1127,43 +1244,7 @@ Repositorio + .blend en el primer comentario 👇 Voy a seguir publicando cada p
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### Prompt de Fable 5 para una animación de fútbol de vóxeles en un solo archivo con Three.js
-
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="Prompt de Fable 5 para una animación de fútbol de vóxeles en un solo archivo con Three.js"></a>
-
-**Prompt**
-
-```text
-Crea un único archivo HTML con Three.js (CDN) para una animación sencilla de fútbol al estilo vóxel. Un jugador de bloques regatea a 2 defensas y marca un gol espectacular con partículas de celebración. Estética de estadio colorido. Devuelve SOLO el código HTML completo.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Publicación original](https://x.com/Zmthanh/status/2079198084689723560) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Prompt para recorrer un avión en Three.js
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Prompt para recorrer un avión en Three.js"></a>
-
-**Prompt**
-
-```text
-Genera en Three.js una experiencia que me permita visualizar un modelo 3D de un avión y caminar por su interior.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [Publicación original](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [Volver a los ejemplos](#all-prompts)
-
----
-
-
-[Catálogo completo](catalog.es.md) · [←](catalog.es.8.md) · **9 / 9**
+[Catálogo completo](catalog.es.md) · [←](catalog.es.8.md) · **9 / 10** · [→](catalog.es.10.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/es/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Catálogo completo →</a></strong></p>

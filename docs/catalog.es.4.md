@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 4 / 9
+# Awesome 3D Prompts — 4 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.4.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Catálogo completo](catalog.es.md) · [←](catalog.es.3.md) · **4 / 9** · [→](catalog.es.5.md)
+[Catálogo completo](catalog.es.md) · [←](catalog.es.3.md) · **4 / 10** · [→](catalog.es.5.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Limonero gelatinoso interactivo](#gpt-6-astra-2097065330728128920)
+- [Mascota robot interactiva en un banco de trabajo](#gpt-6-astra-2097004192627933279)
+- [Un camino forestal de 12 segundos en Blender](#gpt-6-astra-2096986557244723371)
+- [Patio chino interactivo](#gpt-6-astra-2096971051334857181)
+- [Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»](#gpt-6-astra-2096966425017467344)
 - [Calle en miniatura infinita en Three.js WebGPU](#gpt-6-astra-2096956214680965501)
 - [Escena 3D de Hogwarts](#gpt-6-astra-2096907617117540478)
 - [Crea un slime blando e interactivo con Three.js y WebGPU](#gpt-6-astra-2096793432987464010)
@@ -73,13 +78,953 @@
 - [Insecto procedural que trepa por superficies](#surface-climbing-procedural-insect-2096460081982304546)
 - [Reconstrucción de Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
 - [Apartamento jugable inspirado en D4](#playable-d4-inspired-apartment-2096413869841473930)
-- [Crea y renderiza un agujero negro en Blender](#gpt-6-astra-2096391653669953761)
-- [Juego de simulación de una red ferroviaria](#railway-network-simulation-game-2096362653480562751)
-- [Taberna con personal y clientes activos](#tavern-with-working-staff-and-guests-2096358854275543457)
-- [Ensamble 3D jugable con animación sincronizada con el audio](#gpt-6-astra-2096354461652488562)
-- [Del concepto de personaje a un modelo 3D con rig y una caricatura](#gpt-6-astra-2096342420543660277)
 
 </details>
+<a id="gpt-6-astra-2097065330728128920"></a>
+
+### Limonero gelatinoso interactivo
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-07 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/f961be372cbdd030026a4ff827932ad6790c2c3dd5d588be37fa918dc67809b3.webp" width="840" loading="lazy" alt="Limonero gelatinoso interactivo"></a>
+
+**Prompt**
+
+```text
+construye un limonero gelatinoso interactivo con WebGPU
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build an interactive jelly lemon tree using WebGPU
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097065330728128920) · [Publicación original](https://x.com/vib3coded/status/2097065330728128920) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097004192627933279"></a>
+
+### Mascota robot interactiva en un banco de trabajo
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/37d5dac5d594ea7e83a1cab04ca45dc29688ef30b9dd6ea18cc2d0df43537ced.webp" width="840" loading="lazy" alt="Mascota robot interactiva en un banco de trabajo"></a>
+
+**Prompt**
+
+```text
+LA ESPECIFICACIÓN COMPLETA.
+GUÁRDALA COMO ARCHIVO EN LA CARPETA DEL PROYECTO, NO COMO MENSAJE DE CHAT.
+DESPUÉS: /goal crea esto en three.js, lee SPEC.md y sigue sus instrucciones
+exactamente, sobre todo las secciones 9 y 10.
+
+{ START }
+
+1 QUÉ ES
+
+un pequeño robot de cuatro patas vive en un banco de trabajo. lo cargas,
+juegas con él y le asignas tres tareas. nunca abandona el banco
+y tú tampoco. ese es todo el juego.
+
+dos cosas sostienen este proyecto, y nada más: el aspecto del robot
+y cómo se mueve. el jugador pasa todo el juego
+mirando un objeto desde una distancia fija, así que ese objeto tiene
+que merecer la pena observar y debe moverse como si estuviera vivo.
+
+no es una mascota parlante. no tiene voz, boca ni rostro en una pantalla,
+y nunca repite lo que dices. es una máquina que presta
+atención a lo que haces, y eso es algo distinto y mejor.
+
+2 EL ROBOT
+
+aproximadamente del tamaño de un gato y con cuatro patas.
+
+proporciones, de ahí nace el encanto:
+- el cuerpo es un bloque redondeado, más ancho que alto, de unos dos
+  anchos de cabeza de largo. transmite pesadez.
+- la cabeza es grande en relación con el cuerpo, aproximadamente el 40 por
+  ciento de la altura del cuerpo, y está adelantada sobre un cuello corto. transmite curiosidad.
+  no es una cabeza chibi y los ojos no son grandes.
+- las patas son delgadas junto a ese cuerpo, así que algo pesado
+  se sostiene sobre extremidades ligeras. ese contraste hace que el paso
+  parezca delicado en vez de torpe.
+- una cola corta que en realidad funciona como contrapeso y se balancea como tal
+- una antena corta en la cabeza que se agita y se estabiliza medio
+  compás después de cada movimiento. cuesta casi nada y es la
+  mayor fuente de sensación de vida de todo el modelo.
+
+tres materiales, no más de tres:
+1 panel pintado, blanco hueso suave, mate y ligeramente cálido, en la
+  espalda, los cuartos traseros y la parte superior de la cabeza. al menos un 60 por
+  ciento de la superficie visible; de lo contrario parecerá un montón de piezas.
+2 metal mecanizado sin revestimiento, gris medio frío, en las patas, el bastidor, las articulaciones y
+  el cuello. latón cálido solo en el aro de cada articulación.
+3 goma oscura, casi negra y mate, en las cuatro patas, la funda
+  del cuello y el cable.
+
+el rostro: dos lentes redondas del mismo tamaño, separadas y encastradas
+detrás de una ranura mecanizada que cruza la frente. la ranura es un
+borde mecanizado, no una ceja, y nunca se mueve. toda la expresión
+proviene del ángulo de la cabeza, la antena y el brillo de las lentes.
+
+un defecto: un panel del hombro tiene un tono ligeramente distinto, como
+si lo hubieran sustituido una vez. nada llama la atención sobre ello.
+
+prueba de silueta, apto o no apto: renderiza el robot completamente negro sobre
+blanco a 64 por 64 píxeles, de perfil y en vista de tres cuartos. la
+cabeza elevada, el espacio entre la cabeza y el cuerpo, las cuatro patas con
+luz entre ellas y la cola deben distinguirse. si alguna pareja de
+masas se fusiona, cambia el modelo, no el render.
+
+3 LA BATERÍA ES LA BARRA DE PROGRESO
+
+una tira de cinco celdas recorre un costado, iluminada en ámbar. se
+apagan de una en una a medida que se descarga y se encienden de una en una al
+cargarse. nada en pantalla muestra un número ni una barra.
+
+5 celdas  enérgico, cabeza erguida, cola balanceándose
+4        normal
+3        más lento, cabeza ligeramente más baja
+2        se sienta entre acciones en vez de quedarse de pie
+1        camina por sí solo hasta la base de carga y espera
+0        pliega las patas y se apaga donde está,
+         lentes oscuras, esperando a que lo lleven a la base
+
+nunca se rompe, nunca muere y no se pierde nada al llegar a cero.
+
+4 CÓMO SE MUEVE
+
+- una caminata real. pares diagonales, con las patas apoyadas en el banco y
+  permaneciendo ahí mientras el cuerpo pasa sobre ellas. las patas no
+  resbalan.
+- peso. el cuerpo baja sobre el par que soporta la carga. al empezar, se inclina
+  hacia delante antes de moverse. al detenerse, da un paso corto para
+  recuperar el equilibrio.
+- te observa. la cabeza sigue el cursor siempre que este esté sobre el banco, y
+  el cuello inicia el giro antes que el cuerpo.
+- se recupera. empújalo y se tambalea, abre una pata y
+  recupera la vertical. nunca se cae.
+- se acomoda. cuando está quieto, cambia el peso cada pocos segundos,
+  y las lentes parpadean lentamente: se atenúan y vuelven a brillar, no
+  se cierran.
+
+mejora con la práctica. cada tarea completada hace que el tambaleo sea
+un poco menor y el movimiento un poco más rápido, hasta cierto límite.
+nada anuncia este cambio. en la tarea número veinte se mueve visiblemente
+como una máquina que sabe lo que hace, y ese cambio es
+la única progresión del juego.
+
+5 EL BANCO
+
+un banco de trabajo, visto desde una distancia fija. cálido y usado.
+
+superficie del banco de madera clara y desgastada. pared del fondo gris verdosa y fría, lisa.
+robot de metal sin revestimiento, con latón cálido en las articulaciones. lentes y celdas
+ámbar, el único color iluminado. luz cálida de una lámpara lateral,
+que proyecta una sombra larga y suave. todo lo demás, apagado.
+
+sobre el banco: una base de carga con un cable enrollado, un tarro de
+tornillos, un paño enrollado, una caja pequeña, una lámpara de escritorio, una pelota de goma
+y un cuenco de metal. nada más.
+
+la lámpara es la única fuente de luz. cuando el robot pasa por
+delante, su sombra recorre el banco.
+
+6 DESCRITO SOLO A TRAVÉS DEL USO
+
+- arrastras la pelota por el banco y la cabeza del robot la sigue
+  antes de que el cuerpo gire para seguirla
+- colocas el robot sobre la base de carga y se enciende una celda, después
+  la siguiente, con una pausa entre cada una
+- lo empujas de lado y se tambalea, se sostiene con una pata
+  bien abierta y recupera la postura
+- dejas caer un tornillo en el cuenco y camina hasta él, lo recoge
+  con las placas de la boca y lo lleva al tarro
+- lo dejas solo y camina hasta el borde del banco, mira
+  hacia abajo y retrocede
+- rascas el panel de su espalda y baja el cuerpo y
+  permanece quieto hasta que paras
+
+muestra todo esto mientras sucede. nunca lo expliques con un texto.
+
+7 LAS TRES TAREAS
+
+cada una existe para mostrar un tipo de movimiento distinto, y se activa
+colocando un objeto en el banco, nunca desde un menú.
+
+buscar  deja caer un tornillo en cualquier sitio. camina hasta él, lo recoge y lo lleva
+       al tarro. muestra la caminata y el giro.
+apilar  coloca tres cajas. las empuja hasta formar una pila, una por
+       una. muestra el empuje, el apoyo y el levantamiento.
+perseguir  haz rodar la pelota. corre tras ella, la detiene con una pata y
+       la devuelve. muestra la carrera, el deslizamiento y la parada.
+
+cada tarea consume un poco de carga. una tarea realizada con 2 celdas es más lenta
+y tambaleante que la misma tarea con 5. sin cola, sin orden, sin
+temporizador y sin recompensa.
+
+8 LA INTERFAZ
+
+abajo, en el centro: una única tarjeta de indicación cuando hay algo al alcance,
+que nombra la tecla o el arrastre y la acción; desaparece cuando
+deja de estarlo.
+
+nada más en pantalla. no hay barra de batería, medidor de felicidad,
+medidor de hambre, monedas, nivel, experiencia, estrellas,
+temporizador, menú, ajustes, ventana emergente de tutorial ni etiqueta flotante
+sobre el robot.
+
+todo lo que el jugador necesita saber está en el cuerpo del robot.
+
+cámara: fija sobre el banco, en tres cuartos desde delante y
+ligeramente elevada. campo de visión vertical de 40 grados. el robot ocupa
+entre el 30 y el 45 por ciento de la altura del encuadre en el centro del banco.
+cada celda de batería debe medir al menos 8 píxeles de ancho a 1080p. todo el
+banco debe estar siempre en el encuadre. arrastra para orbitar unos 60
+grados, no más. la cámara nunca abandona el banco y
+nunca hace cortes.
+
+9 PROHIBICIONES, TODAS NOMBRADAS
+
+la mascota: sin voz, sin hablar, sin repetir lo que dices, sin
+micrófono, sin rostro en una pantalla, sin boca, sin cejas, sin
+ojos de dibujos animados con pupilas, sin corazones, sin emojis, sin bocadillos de diálogo,
+sin introducir un nombre, sin disfraces, sin sombreros y sin taller de pintura.
+
+juego gratuito: sin monedas, gemas ni ningún tipo de divisa, sin
+tienda, anuncios, recompensa diaria, racha, notificación ni
+energía que haya que comprar, sin temporizador de espera, nivel,
+barra de experiencia, logros ni clasificación.
+
+jugabilidad: sin enemigos, combate, salud, daño, muerte,
+roturas, minijuego de reparación, estado de derrota, puntuación,
+temporizador, marcadores de misión, cinemática ni ilustración de pantalla de carga.
+
+repeticiones de mis proyectos anteriores: sin playa, palmeras, cangrejos,
+islas flotantes, faroles, flores de cerezo, ninjas,
+shuriken, bloques de vóxeles, picos, lava, coches, ciudades,
+entornos submarinos ni algas.
+
+renderizado: sin texturas realistas, sombras duras, destellos de lente,
+grano de película, formato panorámico con bandas negras, desenfoque de profundidad de campo, aberración
+cromática ni niebla gris en pantalla. bloom solo en las lentes y
+las celdas de batería, y en ningún otro elemento.
+
+10 EL PRESUPUESTO DEL PROYECTO
+
+este proyecto debe terminarse en una sola sesión de trabajo. todo lo que sigue
+queda estrictamente fuera de esta versión. no lo añadas, no dejes un esqueleto, no
+dejes una tarea pendiente para ello.
+
+sin una segunda habitación ni exteriores
+sin un segundo robot
+sin guardado ni carga; al recargar aparece un robot nuevo
+sin motor de físicas: cinemática inversa programada manualmente para cuatro patas
+  sobre un plano, más colisiones sencillas de cajas para los objetos del banco
+sin ragdoll
+sin sonido
+sin menús, ajustes ni pantalla de pausa
+sin más de tres tareas
+sin ciclo de día
+
+dónde debe emplearse el tiempo, en este orden:
+1 las proporciones del robot y la prueba de silueta
+2 el ciclo de caminata y el apoyo de las patas
+3 el seguimiento de la cabeza, la antena y la estabilización
+4 los estados de batería y la base de carga
+5 las tres tareas
+6 la ambientación del banco
+
+si se acaba el tiempo, entrega un banco vacío y un robot precioso
+que camine bien. nunca al revés. un banco desnudo con un
+buen robot es un juego terminado. un banco decorado con un robot rígido
+no es nada.
+
+antes de darlo por terminado, demuestra estas cuatro cosas con renders, no con
+palabras: la prueba de silueta a 64 px desde dos ángulos, un ciclo de caminata
+con 5 celdas y la misma caminata con 2 celdas, el seguimiento de la cabeza al
+cursor durante toda la órbita y el robot con 5 celdas y con 0
+celdas, uno junto al otro.
+
+constrúyelo y después dime las tres primeras cosas que corregirías.
+
+{ END }
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+THE FULL SPEC.
+SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
+THEN: /goal build this in three.js, read SPEC.md and follow it
+exactly, especially sections 9 and 10.
+
+{ START }
+
+1 WHAT THIS IS
+
+a small four-legged robot lives on a workbench. you charge it,
+play with it, and give it three jobs. it never leaves the bench
+and neither do you. that is the whole game.
+
+two things carry this build and nothing else does: how the robot
+looks, and how it moves. the player spends the entire game
+looking at one object from a fixed distance, so that object has
+to be worth looking at, and it has to move like it is alive.
+
+it is not a talking pet. no voice, no mouth, no face on a screen,
+and it never repeats what you say. it is a machine that pays
+attention to you, which is a different and better thing.
+
+2 THE ROBOT
+
+about the size of a cat, on four legs.
+
+proportion, which is where charm comes from:
+- the body is a rounded block, wider than tall, about two head
+  widths long. it reads heavy.
+- the head is large for the body, roughly 40 per cent of body
+  height, and sits forward on a short neck. it reads curious.
+  not a chibi head, and the eyes are not big.
+- the legs are slender next to that body, so a heavy thing is
+  carried on light limbs. that contrast is what makes the walk
+  look delicate rather than clumsy.
+- a stub tail that is really a counterweight, and swings like one
+- one short antenna on the head that whips and settles half a
+  beat behind every movement. costs almost nothing, and it is the
+  single biggest source of life in the whole model.
+
+three materials, no more than three:
+1 painted panel, soft bone white, matte, slightly warm. over the
+  back, the haunches and the top of the head. at least 60 per
+  cent of the visible surface or it reads as a pile of parts.
+2 bare machined metal, cool mid grey, on legs, frame, joints and
+  neck. warm brass at each joint ring only.
+3 dark rubber, near black and matte, on the four feet, the neck
+  sleeve and the cable.
+
+the face: two round lenses of equal size, set wide, recessed
+behind a machined groove across the brow. the groove is a
+machined edge, not an eyebrow, and it never moves. all expression
+comes from head angle, antenna and lens brightness.
+
+one flaw: one shoulder panel is a slightly different shade, as
+though replaced once. nothing draws attention to it.
+
+silhouette test, pass or fail: render the robot pure black on
+white at 64 by 64 pixels, from the side and three quarters. the
+raised head, the gap between head and body, four legs with
+daylight between them, and the tail must all still read. if any
+two masses merge, change the model, not the render.
+
+3 THE BATTERY IS THE PROGRESS BAR
+
+a strip of five cells runs along one flank, lit amber. they go
+out one at a time as it runs down and light one at a time as it
+charges. nothing on screen shows a number or a bar.
+
+5 cells  brisk, head up, tail swinging
+4        normal
+3        slower, head slightly lower
+2        it sits down between actions instead of standing
+1        it walks to the charging pad on its own and waits
+0        it folds its legs and powers down where it stands,
+         lenses dark, waiting to be carried to the pad
+
+it never breaks, never dies, and nothing is lost at zero.
+
+4 HOW IT MOVES
+
+- a real walk. diagonal pairs, feet planted on the bench and
+  staying there while the body passes over them. feet do not
+  slide.
+- weight. the body dips on the loaded pair. starting, it leans
+  forward before it moves. stopping, it takes one short step to
+  catch itself.
+- it watches you. the head follows the cursor whenever the cursor
+  is over the bench, and the neck leads the turn before the body.
+- it recovers. nudge it and it staggers, plants a leg wide, and
+  rights itself. it never falls over.
+- it settles. standing still it shifts weight every few seconds,
+  and the lenses do a slow blink: they dim and come back, they do
+  not close.
+
+it gets better with practice. every job done makes the wobble a
+little smaller and the movement a little faster, up to a limit.
+nothing announces this. by the twentieth job it visibly moves
+like a machine that knows what it is doing, and that change is
+the only progression in the game.
+
+5 THE BENCH
+
+one workbench, seen from a fixed distance. warm, worked in.
+
+bench top worn pale timber. wall behind cool grey green, plain.
+robot bare metal with warm brass at the joints. lenses and cells
+amber, the only lit colour. lamp light warm, from one side,
+casting a long soft shadow. everything else muted.
+
+on the bench: a charging pad with a coil of cable, a jar of
+bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
+a tin bowl. nothing else.
+
+the lamp is the only light source. when the robot crosses in
+front of it, its shadow sweeps across the bench.
+
+6 DESCRIBED ONLY THROUGH USES
+
+- you drag the ball across the bench and the robot's head tracks
+  it before its body turns to follow
+- you put the robot on the charging pad and one cell lights, then
+  the next, with a pause between each
+- you nudge it from the side and it staggers, catches itself on a
+  wide leg, and straightens
+- you drop a bolt in the tin bowl and it walks over, picks it up
+  in its mouth plates, and carries it to the jar
+- you leave it alone and it walks to the edge of the bench, looks
+  over, and backs away
+- you scratch the panel on its back and it lowers its body and
+  holds still until you stop
+
+show all of this happening. never explain it in a caption.
+
+7 THE THREE JOBS
+
+each exists to show a different kind of motion, and each is asked
+for by putting an object on the bench, never by a menu.
+
+fetch  drop a bolt anywhere. it walks over, picks it up, takes it
+       to the jar. shows the walk and the turn.
+stack  put three crates out. it pushes them into a stack, one at
+       a time. shows the push, the brace and the lift.
+chase  roll the ball. it runs it down, stops it with a foot, and
+       brings it back. shows the run, the skid and the stop.
+
+each job costs a little charge. a job done at 2 cells is slower
+and wobblier than the same job at 5. no queue, no order, no
+timer, no reward.
+
+8 THE INTERFACE
+
+bottom centre: a single prompt card when something is in reach,
+naming the key or the drag and the action, which disappears when
+it is not.
+
+nothing else on screen. no battery bar, no happiness meter, no
+hunger meter, no coins, no level, no experience, no stars, no
+timer, no menu, no settings, no tutorial popup, no floating label
+over the robot.
+
+everything the player needs to know is on the robot's body.
+
+camera: fixed on the bench, three quarters from the front and
+slightly above. 40 degree vertical field of view. the robot fills
+30 to 45 per cent of frame height at the centre of the bench.
+each battery cell at least 8 pixels wide at 1080p. the whole
+bench in frame at all times. drag to orbit through about 60
+degrees and no further. the camera never leaves the bench and
+never cuts.
+
+9 BANNED, EACH ONE NAMED
+
+the pet: no voice, no talking, no repeating what you say, no
+microphone, no face on a screen, no mouth, no eyebrows, no
+cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
+no name entry, no costume, no hats, no paint shop.
+
+free-to-play: no coins, no gems, no currency of any kind, no
+shop, no ads, no daily reward, no streak, no notification, no
+energy that must be bought, no wait timer, no level, no
+experience bar, no achievements, no leaderboard.
+
+gameplay: no enemies, no combat, no health, no damage, no dying,
+no breaking, no repair mini-game, no fail state, no score, no
+timer, no quest markers, no cutscene, no loading screen art.
+
+repeats of my earlier builds: no beach, no palm trees, no crabs,
+no floating islands, no lanterns, no cherry blossom, no ninja, no
+shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
+no underwater, no kelp.
+
+render: no realistic textures, no hard shadows, no lens flare, no
+film grain, no letterboxing, no depth of field blur, no chromatic
+aberration, no grey screen fog. bloom on the lenses and the
+battery cells and nothing else.
+
+10 THE BUILD BUDGET
+
+this build must finish in one working session. everything below
+is a hard no for this version. do not add it, do not stub it, do
+not leave a todo for it.
+
+no second room, no outdoors
+no second robot
+no saving or loading, a reload is a fresh robot
+no physics engine: hand-written inverse kinematics for four legs
+  on a flat plane, plus simple box collision on the bench props
+no ragdoll
+no sound
+no menus, no settings, no pause screen
+no more than three jobs
+no day cycle
+
+where the time must go, in this order:
+1 the robot's proportions and the silhouette test
+2 the walk cycle and the foot planting
+3 the head tracking, the antenna and the settle
+4 the battery states and the charging pad
+5 the three jobs
+6 the bench dressing
+
+if time runs out, ship with an empty bench and a beautiful robot
+that walks well. never the other way round. a bare bench with a
+good robot is a finished game. a dressed bench with a stiff robot
+is nothing.
+
+before you call it done, prove these four with renders, not with
+words: the silhouette test at 64 px from two angles, a walk cycle
+at 5 cells and the same walk at 2 cells, the head tracking the
+cursor across the full orbit, and the robot at 5 cells and at 0
+cells side by side.
+
+build it, then tell me the three things you would fix first.
+
+{ END }
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097004192627933279) · [Publicación original](https://x.com/zeuuss_01/status/2097004192627933279) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096986557244723371"></a>
+
+### Un camino forestal de 12 segundos en Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3aa6d0d4c63cd2fdf992963f8574169047d64b32012bdddd72df84f137a8d519.webp" width="840" loading="lazy" alt="Un camino forestal de 12 segundos en Blender"></a>
+
+> El extracto de la fuente es parcial.
+
+**Prompt**
+
+```text
+Un camino forestal de 12 segundos en Blender
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Blender’da 12 saniyelik bir orman yolu
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096986557244723371) · [Publicación original](https://x.com/Jomolos/status/2096986557244723371) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096971051334857181"></a>
+
+### Patio chino interactivo
+
+[Larus Canus](https://x.com/MrLarus) · 2026-09-07 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/afa942c78d5c1cccd6cecf00b5e59c53f0eea0e4e5271cc8dbf51b3fa6caf8e9.webp" width="840" loading="lazy" alt="Patio chino interactivo"></a>
+
+**Prompt**
+
+```text
+Crea un patio chino interactivo con Blender y Three.js que pueda explorar en el navegador.
+
+Incluye paredes blancas, tejados de tejas oscuras, una puerta lunar, pinos, un estanque y un jardín de rocas, además de una sala de estar, una sala de té y un dormitorio. Usa Python para ejecutar Blender en segundo plano, generar los modelos y exportar archivos GLB. Usa Three.js para la iluminación, los reflejos, las animaciones y la interacción.
+
+Admite controles orbitales, zoom, navegación con WASD, cambio entre día y noche y un control para mostrar u ocultar el tejado. Añade gradualmente agua corriente, carpas koi, ranas que salten, libélulas, un gato del patio, gorriones y luciérnagas nocturnas. Mantén los movimientos sutiles y naturales.
+
+Crea una interfaz original que no obstruya la escena. Desarrolla el proyecto por etapas, inspecciona los resultados en el navegador, corrige los problemas y entrega el proyecto ejecutable, los archivos fuente y las instrucciones de configuración.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.
+
+Include white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.
+
+Support orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.
+
+Create an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096971051334857181) · [Publicación original](https://x.com/MrLarus/status/2096971051334857181) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096966425017467344"></a>
+
+### Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»
+
+[Xenoah](https://x.com/shuminchuuu) · 2026-09-07 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/0495d0af2d899a6ca4a840202506ee1ecd4d45c049fa6de3bee6b6fbef82bfef.webp" width="840" loading="lazy" alt="Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»"></a>
+
+**Prompt**
+
+```text
+Crea en Blender el conjunto completo de modelos 3D de un mundo paisajístico para VRChat.
+
+El tema es 
+
+«El horizonte donde la gravedad se rompió»
+
+.
+
+Solo la cima de la colina donde se encuentra el jugador debe ser normal; únicamente el horizonte lejano debe mostrar una gran alteración de las leyes físicas.
+
+Mantén toda la escena con formas sencillas.
+Da prioridad a 
+las grandes siluetas
+
+, la anomalía del horizonte lejano
+, la forma de la plataforma de observación
+ y la composición espacial
+, por encima de los detalles decorativos.
+
+Composición
+
+Crea los siguientes elementos.
+
+Cima de la colina
+
+Sendero estrecho
+Desmonte poco profundo
+Plataforma de observación semicircular
+Unos pocos bancos
+Panel informativo roto
+Dispositivo central de observación
+Ciudad en el horizonte
+Mar en posición vertical
+Cordillera invertida
+Pilares negros gigantes
+Fracturas espaciales
+Nubes estáticas
+Plataforma de observación
+
+La plataforma de observación debe ser semicircular.
+
+No imites ninguna plataforma de observación existente; crea una forma completamente original.
+
+Características:
+
+Semicircular
+
+Asimétrica
+Una parte sobresale hacia el vacío
+Borde bajo
+Forma pensada para un material semitransparente
+Una parte deformada por una anomalía gravitatoria
+No la hagas demasiado compleja; debe ser una gran silueta reconocible incluso desde lejos.
+
+Dispositivo central de observación
+
+Coloca en el centro de la plataforma de observación un dispositivo sencillo que combine 
+
+una esfera semitransparente
+
+un anillo incompleto
+ y un marco de puntería orientado hacia los pilares negros
+.
+
+Horizonte lejano
+
+El horizonte lejano es lo más importante.
+
+Crea los siguientes elementos con formas grandes y simplificadas.
+
+Ciudad que cae hacia el cielo
+
+Haz que los edificios cúbicos se extiendan en direcciones distintas de las habituales.
+
+Mar vertical
+
+Coloca un enorme plano de superficie marina casi a 90 grados de la horizontal.
+
+Cordillera invertida
+
+Invierte verticalmente la silueta simplificada de una montaña.
+
+Pilares negros
+
+Coloca en el horizonte unos pilares negros extremadamente grandes y alargados.
+
+Haz que parezcan una ausencia en el espacio, no un edificio.
+
+Fracturas espaciales
+
+Coloca alrededor de los pilares negros formas grandes, planas o en forma de bandas, como si el espacio estuviera desgarrado.
+
+Deben estar pensadas para utilizar materiales emisivos.
+
+Terreno
+
+La colina debe ser una pradera de suaves pendientes.
+
+Crea desde el punto de aparición hasta la plataforma de observación 
+
+un sendero estrecho
+
+ y un desmonte poco profundo
+.
+
+Al salir del desmonte, la composición debe revelar de golpe todo el horizonte lejano.
+
+Vegetación
+
+Reduce la vegetación al mínimo.
+
+Hierba
+
+Unos pocos arbustos bajos
+ y unas pocas plantas inclinadas en direcciones anómalas
+ serán suficientes.
+
+Criterios de modelado
+
+Puedes usar un estilo cercano al low-poly.
+
+No trabajes demasiado los detalles.
+
+Usa activamente primitivas y construye la escena principalmente con 
+
+Cube
+
+Plane
+
+Cylinder
+
+Sphere
+
+Curve
+.
+Simplifica especialmente el horizonte lejano.
+
+Lo importante no son los detalles, sino 
+
+«que, al mirar a lo lejos, se entienda al instante que algo no funciona en este mundo»
+
+.
+
+Organización en Blender
+
+Divide los objetos en las siguientes colecciones.
+
+PLAYER_AREA
+OBSERVATION_DECK
+OBSERVATION_DEVICE
+VEGETATION
+DISTANT_CITY
+DISTANT_SEA
+DISTANT_MOUNTAINS
+BLACK_PILLAR
+SPACE_FRACTURE
+CLOUDS
+PROPS
+Organiza la escena para facilitar su exportación a Unity para VRChat.
+
+La máxima prioridad es 
+
+«el paisaje visto desde la plataforma de observación como una sola imagen»
+.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
+
+テーマは、
+
+「重力が壊れた地平線」
+
+です。
+
+プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
+
+全体はシンプルな造形にしてください。
+細かい装飾より、
+大きなシルエット
+
+遠景の異常さ
+展望台の形
+空間構成
+を優先してください。
+
+構成
+
+作るものは以下です。
+
+丘の頂上
+
+細い散策路
+浅い切通し
+半円形の観測デッキ
+少数のベンチ
+壊れた案内板
+中央観測装置
+遠景の都市
+垂直に立つ海
+逆さの山脈
+巨大な黒い柱
+空間断層
+静的な雲
+展望台
+
+展望台は半円形。
+
+既存の展望台を真似せず、完全オリジナル形状にしてください。
+
+特徴:
+
+半円形
+
+左右非対称
+一部が空中へ張り出す
+低い縁
+半透明素材を想定した形状
+一部だけ重力異常で変形
+複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
+
+中央観測装置
+
+展望台中央に、
+
+半透明球体
+
+不完全なリング
+黒い柱へ向いた照準フレーム
+を組み合わせたシンプルな装置を配置してください。
+
+遠景
+
+遠景は最重要です。
+
+以下を大きな簡略形状で作ってください。
+
+空へ落ちる都市
+
+箱形のビル群を、通常とは違う方向へ伸ばしてください。
+
+垂直の海
+
+巨大な水面プレーンを90度近く立てて配置してください。
+
+逆さの山脈
+
+簡略化した山のシルエットを上下反転してください。
+
+黒い柱
+
+非常に巨大で細長い黒い柱を遠景に配置してください。
+
+建物ではなく、空間の欠損のように見える形にしてください。
+
+空間断層
+
+黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
+
+発光マテリアルを想定します。
+
+地形
+
+丘はなだらかな草地。
+
+スポーン地点から展望台まで、
+
+細い散策路
+
+浅い切通し
+を作ってください。
+
+切通しを抜けると、遠景が一気に見える構図にしてください。
+
+植生
+
+植物は最小限。
+
+草
+
+少数の低木
+ごく一部だけ異常方向へ傾いた植物
+程度で十分です。
+
+モデリング方針
+
+ローポリ寄りで構いません。
+
+細部を作り込みすぎないでください。
+
+Primitiveを積極的に使い、
+
+Cube
+
+Plane
+Cylinder
+Sphere
+Curve
+を中心に作ってください。
+
+遠景は特に簡略化してください。
+
+重要なのはディテールではなく、
+
+「遠くを見た瞬間に世界がおかしいと分かること」
+
+です。
+
+Blender内の整理
+
+オブジェクトを以下のコレクションに分けてください。
+
+PLAYER_AREA
+
+OBSERVATION_DECK
+OBSERVATION_DEVICE
+VEGETATION
+DISTANT_CITY
+DISTANT_SEA
+DISTANT_MOUNTAINS
+BLACK_PILLAR
+SPACE_FRACTURE
+CLOUDS
+PROPS
+VRChat用にUnityへ持っていきやすい構成にしてください。
+
+最優先は、
+
+「展望台から見た一枚絵としての景観」
+
+です。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096966425017467344) · [Publicación original](https://x.com/shuminchuuu/status/2096966425017467344) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096956214680965501"></a>
 
 ### Calle en miniatura infinita en Three.js WebGPU
@@ -1324,164 +2269,7 @@ Investiga el apartamento del protagonista de D4 y recréalo como un prototipo 3D
 
 ---
 
-<a id="gpt-6-astra-2096391653669953761"></a>
 
-### Crea y renderiza un agujero negro en Blender
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="Crea y renderiza un agujero negro en Blender"></a>
-
-**Prompt**
-
-```text
-Crea y renderiza en Blender un hermoso agujero negro, como el de Interstellar.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Make and render a beautiful black hole, like the one from Interstellar, in Blender.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096391653669953761) · [Publicación original](https://x.com/JohnKlerAI/status/2096391653669953761) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="railway-network-simulation-game-2096362653480562751"></a>
-
-### Juego de simulación de una red ferroviaria
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="Juego de simulación de una red ferroviaria"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Amplía un modelo de tren en Three.js hasta convertirlo en una simulación ferroviaria con ciudades, cruces, ríos y puentes. Añade cámaras de seguimiento del tren, 3D libre e isométrica, además de efectos de humo.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Publicación original](https://x.com/tomkrcha/status/2096362653480562751) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
-
-### Taberna con personal y clientes activos
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="Taberna con personal y clientes activos"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Recrea una taberna a partir de una imagen de referencia y llénala de clientes y trabajadores. Haz que los clientes pidan comida y bebida y que el personal las prepare, con gestión de colisiones y búsqueda de rutas.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Publicación original](https://x.com/Rogue0114/status/2096358854275543457) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096354461652488562"></a>
-
-### Ensamble 3D jugable con animación sincronizada con el audio
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="Ensamble 3D jugable con animación sincronizada con el audio"></a>
-
-**Prompt**
-
-```text
-Compón una pieza corta original y crea un ensamble 3D jugable. Controla la animación según el tiempo del audio. Incluye navegación por la línea de tiempo, cámara lenta, controles de cámara, MIDI y código fuente.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096354461652488562) · [Publicación original](https://x.com/groovestreetgen/status/2096354461652488562) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096342420543660277"></a>
-
-### Del concepto de personaje a un modelo 3D con rig y una caricatura
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="Del concepto de personaje a un modelo 3D con rig y una caricatura"></a>
-
-**Prompt**
-
-```text
-Toma el control de mi ordenador con GPT-6 Astra y haz lo siguiente: 
-
-1. diseña un concepto de personaje con Higgsfield Soul 2.0, 
-
-2. crea un modelo 3D con texturas, 
-
-3. impórtalo en Blender, 
-
-4. retopologiza la malla, 
-
-5. crea un mapa UV, 
-
-6. crea un rig de personaje, 
-
-7. evalúa hasta qué punto el modelo está listo para producción, 
-
-8. repite los pasos anteriores si no estás satisfecho con los resultados,
-
-9. y después conviértelo en una caricatura con Seedance 2.5 en Higgsfield
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Take control of my computer using GPT-6 Astra and do the following: 
-
-1. design a character concept using Higgsfield Soul 2.0, 
-
-2. build a textured 3D model of it, 
-
-3. import it into Blender, 
-
-4. retopologize the mesh, 
-
-5. create a UV map, 
-
-6. build a character rig, 
-
-7. evaluate how production-ready the model is, 
-
-8. redo previous steps if you're not satisfied with results,
-
-9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096342420543660277) · [Publicación original](https://x.com/higgsfield_ai/status/2096342420543660277) · [Volver a los ejemplos](#all-prompts)
-
----
-
-
-[Catálogo completo](catalog.es.md) · [←](catalog.es.3.md) · **4 / 9** · [→](catalog.es.5.md)
+[Catálogo completo](catalog.es.md) · [←](catalog.es.3.md) · **4 / 10** · [→](catalog.es.5.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/es/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Catálogo completo →</a></strong></p>

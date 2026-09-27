@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.8.md) · **9 / 9**
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.8.md) · **9 / 10** · [→](catalog.vi.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (47)</summary>
+<summary>Khám phá ví dụ (50)</summary>
 
+- [Game bắn horde AAA với shader WebGL](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [Game thảm họa Titanic có thể chơi](#playable-titanic-disaster-game-2094867850355679617)
+- [Game sinh tồn nhiều người cùng khủng long](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [Game Three.js mười phút rồi tinh chỉnh](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [Não thủy tinh: demo năng lực](#glass-brain-capability-demo-2094853472864682360)
 - [Trình diễn lâu đài voxel thủ tục](#procedural-voxel-castle-showcase-2093690427849191855)
 - [Prompt Blender lắp xe 4x4 kiểu Jeep](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [Prompt vật lý phá hủy 3D cho cảnh HTML độc lập](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [Prompt Kimi K3 dựng raytracer hố đen WebGL2 một tệp](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [Prompt hoạt ảnh bóng đá voxel Three.js trong một tệp HTML](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Prompt Fable 5 dựng New York trong Blender](#modeling-new-york-city-in-blender-2079387760478073087)
-- [Prompt Fable 5: hoạt ảnh bóng đá voxel Three.js trong một tệp](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Prompt Three.js cho trải nghiệm đi bên trong máy bay](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### Game bắn horde AAA với shader WebGL
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="Game bắn horde AAA với shader WebGL"></a>
+
+**Prompt**
+
+```text
+Làm cho tôi game bắn súng điên rồ và bùng nổ nhất mà bạn có thể dựng bằng ThreeJS + web shader, bro! Quan trọng nhất là bắn, nhịp chuyển động, độ giật, đồ họa, cảm giác trúng đạn và thao tác súng. Đó là đấu trường thiết kế đẹp, nơi kẻ địch tràn đến thành bầy. Thêm ngắm qua kính ADS, quán tính và sức nặng của vũ khí, cùng súng trường tấn công, shotgun và súng trường thiện xạ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Bài đăng gốc](https://x.com/superalesha/status/2094869490165039243) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Bản demo](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### Game thảm họa Titanic có thể chơi
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Game thảm họa Titanic có thể chơi"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game Titanic mang chất điện ảnh, nơi người chơi di chuyển trên tàu, làm nhiệm vụ và tìm cách tránh tảng băng, với điều khiển dễ hiểu và nguy hiểm tăng dần.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Bài đăng gốc](https://x.com/vikktorrrre/status/2094867850355679617) · [Bản demo](https://rms-titanic-1912.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### Game sinh tồn nhiều người cùng khủng long
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Game sinh tồn nhiều người cùng khủng long"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game sinh tồn nhiều người có săn bắn, nấu ăn, chế tạo, xây căn cứ, khủng long nguy hiểm và vòng tiến triển thôi thúc người chơi tiếp tục khám phá.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Bài đăng gốc](https://x.com/Rubzem/status/2094866225960493189) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### Game Three.js mười phút rồi tinh chỉnh
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="Game Three.js mười phút rồi tinh chỉnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game Three.js nhỏ trong mười phút với mục tiêu rõ, điều khiển nhạy, hiểm họa dễ thấy và trạng thái thắng hoặc thua đầy đủ. Sau đó xem lại bản chơi được và tiếp tục chỉnh đồ họa, nhịp độ, phản hồi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Bài đăng gốc](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### Não thủy tinh: demo năng lực
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Não thủy tinh: demo năng lực"></a>
+
+**Prompt**
+
+```text
+làm một demo Three.js thể hiện năng lực của bạn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Bài đăng gốc](https://x.com/viewsfrom02108/status/2094853472864682360) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### Trình diễn lâu đài voxel thủ tục
@@ -1127,43 +1244,7 @@ Bạn muốn tôi dựng thành phố nào tiếp theo?
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### Prompt Fable 5: hoạt ảnh bóng đá voxel Three.js trong một tệp
-
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="Prompt Fable 5: hoạt ảnh bóng đá voxel Three.js trong một tệp"></a>
-
-**Prompt**
-
-```text
-Tạo một tệp HTML với Three.js qua CDN cho hoạt ảnh bóng đá voxel đơn giản. Cầu thủ dạng khối rê bóng qua 2 hậu vệ rồi ghi bàn ngoạn mục với hạt ăn mừng. Sân vận động đầy màu sắc. CHỈ xuất toàn bộ mã HTML.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Bài đăng gốc](https://x.com/Zmthanh/status/2079198084689723560) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Prompt Three.js cho trải nghiệm đi bên trong máy bay
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Prompt Three.js cho trải nghiệm đi bên trong máy bay"></a>
-
-**Prompt**
-
-```text
-Tạo trải nghiệm Three.js cho phép tôi xem mô hình máy bay 3D và đi bên trong.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.8.md) · **9 / 9**
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.8.md) · **9 / 10** · [→](catalog.vi.10.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

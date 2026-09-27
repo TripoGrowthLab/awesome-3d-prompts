@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.8.md) · **9 / 9**
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.8.md) · **9 / 10** · [→](catalog.zh-Hant.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>瀏覽案例 (47)</summary>
+<summary>瀏覽案例 (50)</summary>
 
+- [帶 WebGL Shader 的 AAA 屍潮射擊遊戲](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [可玩的泰坦尼克災難遊戲](#playable-titanic-disaster-game-2094867850355679617)
+- [多人恐龍生存遊戲](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [十分鐘生成並繼續完善 Three.js 遊戲](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [玻璃大腦能力演示](#glass-brain-capability-demo-2094853472864682360)
 - [程式化體素城堡展示](#procedural-voxel-castle-showcase-2093690427849191855)
 - [用於 Blender 組裝 Jeep 風格 4x4 的提示詞](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [用於獨立 HTML 場景的 3D 破壞物理提示詞](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [Kimi K3 的單檔案 WebGL2 黑洞光線追蹤器提示詞](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [用於單檔案 HTML 的 Three.js 體素風足球動畫提示詞](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [用於使用 Fable 5 建置紐約的 Blender 城市建模提示詞](#modeling-new-york-city-in-blender-2079387760478073087)
-- [用於 Fable 5 的單檔案 Three.js 體素足球動畫提示詞](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Three.js 飛機內部漫遊體驗提示詞](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### 帶 WebGL Shader 的 AAA 屍潮射擊遊戲
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="帶 WebGL Shader 的 AAA 屍潮射擊遊戲"></a>
+
+**提示詞**
+
+```text
+用 Three.js 與 Web Shader 做一款極具衝擊力的射擊遊戲。重點打磨射擊、動態、後坐力、畫面、命中回饋與槍感；在精心設計的競技場中迎戰屍潮，支援 ADS、武器慣性與重量，並提供突擊步槍、霰彈槍和精準步槍。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [查看原文](https://x.com/superalesha/status/2094869490165039243) · [專案原始碼](https://github.com/alesha-pro/bench-portal) · [線上展示](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### 可玩的泰坦尼克災難遊戲
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="可玩的泰坦尼克災難遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置一款電影感泰坦尼克號遊戲：玩家可以探索船體、完成任務並嘗試避開冰山，具有清晰控制和不斷升級的危險。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [查看原文](https://x.com/vikktorrrre/status/2094867850355679617) · [線上展示](https://rms-titanic-1912.netlify.app/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### 多人恐龍生存遊戲
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="多人恐龍生存遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立一款多人荒野生存遊戲，包含狩獵、烹飪、製作、基地建設、危險恐龍與持續探索的成長迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [查看原文](https://x.com/Rubzem/status/2094866225960493189) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### 十分鐘生成並繼續完善 Three.js 遊戲
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="十分鐘生成並繼續完善 Three.js 遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在十分鐘內建立一個小型 Three.js 遊戲，包含明確目標、靈敏控制、清晰危險物和完整成敗狀態。試玩後，再透過後續修改完善視覺、節奏與回饋。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [查看原文](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### 玻璃大腦能力演示
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="玻璃大腦能力演示"></a>
+
+**提示詞**
+
+```text
+用 Three.js 做一個展示你能力的 Demo。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [查看原文](https://x.com/viewsfrom02108/status/2094853472864682360) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### 程式化體素城堡展示
@@ -1142,43 +1259,7 @@ The Hype 將 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同�
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### 用於 Fable 5 的單檔案 Three.js 體素足球動畫提示詞
-
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="用於 Fable 5 的單檔案 Three.js 體素足球動畫提示詞"></a>
-
-**提示詞**
-
-```text
-建立一個包含 Three.js（CDN）的單個 HTML 檔案，用於一個簡單的體素風格足球動畫。一個方塊風球員帶球過掉 2 名防守隊員，並以壯觀的進球和慶祝粒子得分。球場風格色彩鮮明。僅輸出完整的 HTML 程式碼。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [查看原文](https://x.com/Zmthanh/status/2079198084689723560) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Three.js 飛機內部漫遊體驗提示詞
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Three.js 飛機內部漫遊體驗提示詞"></a>
-
-**提示詞**
-
-```text
-用 Three.js 生成一個體驗，讓我可以檢視一個 3D 飛機模型並在其中行走。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [查看原文](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [返回案例導覽](#all-prompts)
-
----
-
-
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.8.md) · **9 / 9**
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.8.md) · **9 / 10** · [→](catalog.zh-Hant.10.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">完整目錄 →</a></strong></p>

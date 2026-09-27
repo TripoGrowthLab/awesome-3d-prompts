@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.7.md) · **8 / 9** · [→](catalog.zh-Hant.9.md)
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.7.md) · **8 / 10** · [→](catalog.zh-Hant.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [帶寵物山羊的虛擬島嶼](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [互動式 3D 太陽系](#interactive-3d-solar-system-2095165395841999222)
+- [從等距柱狀全景建置城市](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Blender 巨龍巢穴場景](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Three.js 多人海盜世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Blender 飛行鍋動畫](#flying-pot-animation-in-blender-2095132939667255657)
 - [3D 癌細胞演進模擬](#3d-cancer-progression-simulation-2095130778342408331)
 - [增強流星體解體特效](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [程式化生成的 Three.js 世界](#procedurally-generated-three-js-world-2094873862315843910)
 - [互動式 3D 人腦訊號](#interactive-3d-human-brain-signals-2094873080590225728)
 - [照片級 Three.js 自然景觀](#photorealistic-three-js-landscape-2094871858206191667)
-- [帶 WebGL Shader 的 AAA 屍潮射擊遊戲](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [可玩的泰坦尼克災難遊戲](#playable-titanic-disaster-game-2094867850355679617)
-- [多人恐龍生存遊戲](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [十分鐘生成並繼續完善 Three.js 遊戲](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [玻璃大腦能力演示](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### 帶寵物山羊的虛擬島嶼
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="帶寵物山羊的虛擬島嶼"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立一座可探索的小型 Three.js 島嶼，加入會跟隨、反應和玩耍的寵物山羊，以及溫馨環境細節和簡單日常互動。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [查看原文](https://x.com/aollivier82/status/2095165578042335442) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### 互動式 3D 太陽系
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="互動式 3D 太陽系"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置互動式 3D 太陽系，包含行星軌道、兼顧尺度的導航、標籤、速度控制、鏡頭目標和有用科普資訊。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [查看原文](https://x.com/ego_agent/status/2095165395841999222) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### 從等距柱狀全景建置城市
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="從等距柱狀全景建置城市"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用給定等距柱狀城市全景作為視覺參考，一次建置資訊密集的 Blender 城市模型，保留主要道路、體塊、天際線與空間關係。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [查看原文](https://x.com/hayashimon1/status/2095159781883597031) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Blender 巨龍巢穴場景
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender 巨龍巢穴場景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中建置戲劇化巨龍巢穴，包含核心巨龍、洞穴尺度、寶藏、煙霧、火光、分層構圖與電影感鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [查看原文](https://x.com/majidmanzarpour/status/2095149546187653547) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Three.js 多人海盜世界
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js 多人海盜世界"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置一個受冒險海盜動漫啟發的 Three.js 多人世界，包含島嶼、船隻、移動、戰鬥與社交探索迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [查看原文](https://x.com/aman_kambojj/status/2095137561283010600) · [線上展示](https://onepiece-world.vercel.app/) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Blender 飛行鍋動畫
@@ -996,121 +1096,7 @@ Create the most impressive website you can in a single self-contained HTML file.
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### 帶 WebGL Shader 的 AAA 屍潮射擊遊戲
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="帶 WebGL Shader 的 AAA 屍潮射擊遊戲"></a>
-
-**提示詞**
-
-```text
-用 Three.js 與 Web Shader 做一款極具衝擊力的射擊遊戲。重點打磨射擊、動態、後坐力、畫面、命中回饋與槍感；在精心設計的競技場中迎戰屍潮，支援 ADS、武器慣性與重量，並提供突擊步槍、霰彈槍和精準步槍。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [查看原文](https://x.com/superalesha/status/2094869490165039243) · [專案原始碼](https://github.com/alesha-pro/bench-portal) · [線上展示](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### 可玩的泰坦尼克災難遊戲
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="可玩的泰坦尼克災難遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置一款電影感泰坦尼克號遊戲：玩家可以探索船體、完成任務並嘗試避開冰山，具有清晰控制和不斷升級的危險。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [查看原文](https://x.com/vikktorrrre/status/2094867850355679617) · [線上展示](https://rms-titanic-1912.netlify.app/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### 多人恐龍生存遊戲
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="多人恐龍生存遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立一款多人荒野生存遊戲，包含狩獵、烹飪、製作、基地建設、危險恐龍與持續探索的成長迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [查看原文](https://x.com/Rubzem/status/2094866225960493189) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### 十分鐘生成並繼續完善 Three.js 遊戲
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="十分鐘生成並繼續完善 Three.js 遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在十分鐘內建立一個小型 Three.js 遊戲，包含明確目標、靈敏控制、清晰危險物和完整成敗狀態。試玩後，再透過後續修改完善視覺、節奏與回饋。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [查看原文](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### 玻璃大腦能力演示
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="玻璃大腦能力演示"></a>
-
-**提示詞**
-
-```text
-用 Three.js 做一個展示你能力的 Demo。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [查看原文](https://x.com/viewsfrom02108/status/2094853472864682360) · [返回案例導覽](#all-prompts)
-
----
-
-
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.7.md) · **8 / 9** · [→](catalog.zh-Hant.9.md)
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.7.md) · **8 / 10** · [→](catalog.zh-Hant.9.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">完整目錄 →</a></strong></p>

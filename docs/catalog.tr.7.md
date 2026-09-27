@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.6.md) · **7 / 9** · [→](catalog.tr.8.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.6.md) · **7 / 10** · [→](catalog.tr.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Patlatılmış görünümde etkileşimli 3B turboşarj](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [Altı Van Gogh tablosundan yürünebilir kasaba](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [Buharlı tren çiziminden düzenlenebilir Blender montajına](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [Solace orman villası: yönergeden UE5'e](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [Çocukluk tren maketini sürmek](#driveable-childhood-train-table-2095742344293454148)
 - [Orman tapınağı ve dev vanara bekçisi](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [Kat planından eksiksiz 3B gezintiye](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [Etkileşimli voksel tren maketi](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [Kurumsal önleme dronu varlığı](#corporate-interceptor-drone-asset-2095176360238915978)
 - [Frutiger Aero 3B dünyası](#frutiger-aero-3d-world-2095171470607728926)
 - [On sahnelik sinematik Rönesans sitesi](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [Evcil keçili sanal ada](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [Etkileşimli 3B Güneş Sistemi](#interactive-3d-solar-system-2095165395841999222)
-- [Eşdikdörtgensel panoramadan şehir](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [Blender'da ejderha ini sahnesi](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Three.js'de çok oyunculu korsan dünyası](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### Patlatılmış görünümde etkileşimli 3B turboşarj
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Patlatılmış görünümde etkileşimli 3B turboşarj"></a>
+
+**İstem**
+
+```text
+Etkileşimli bir 3B turboşarj oluştur. Çalışan tüm sistemleri ayır. Döndürebileyim, parçaları tek başına görebileyim ve makinenin gerçekte ne yaptığını anlayabileyim.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Orijinal gönderi](https://x.com/Feraser8/status/2095776712579571725) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### Altı Van Gogh tablosundan yürünebilir kasaba
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Altı Van Gogh tablosundan yürünebilir kasaba"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen altı Van Gogh tablosunu Three.js'de tutarlı, yürünebilir tek bir kasabaya dönüştür. Sokakları, önemli yerleri ve geçişleri keşfedilebilir bir dünyada birleştirirken her tablonun renk paletini ve fırça karakterini koru.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Orijinal gönderi](https://x.com/petergostev/status/2095776685807346105) · [Canlı demo](https://van-goghs-town.surge.sh/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### Buharlı tren çiziminden düzenlenebilir Blender montajına
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="Buharlı tren çiziminden düzenlenebilir Blender montajına"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen eski buharlı tren çizimini Blender'da ayrıntılı bir mekanik montaj olarak yeniden oluştur. Tekerlekleri, aksları, süspansiyonu, biyelleri, kazan bağlantılarını ve gövde panellerini adlandırılmış, düzenlenebilir nesneler olarak tut. Ayrıntı bütçesi ayarlanabilir olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Orijinal gönderi](https://x.com/tomkrcha/status/2095756085890310311) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### Solace orman villası: yönergeden UE5'e
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace orman villası: yönergeden UE5'e"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Solace adlı yürünebilir modern bir orman villası oluştur. Üç yatak odası, çalışma odası, merkez avlu, havuz ve çevre ormanı olsun. Blender'da prosedürel kur, altın saatte sabit görüntüler render et ve UE5'te 60 FPS gezinti dışa aktar.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Orijinal gönderi](https://x.com/NFT_Chen/status/2095752726886105375) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### Çocukluk tren maketini sürmek
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Çocukluk tren maketini sürmek"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir çocukluk tren maketini, voksel rayları ve trenleri olan dokunsal bir Three.js oyuncağı olarak yeniden yap. Oyuncu trenleri sürsün, makasları değiştirsin, masanın çevresinde dönsün ve animasyonlu minyatür sahneleri keşfetsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Orijinal gönderi](https://x.com/BigRyan/status/2095742344293454148) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### Orman tapınağı ve dev vanara bekçisi
@@ -982,107 +1089,7 @@ Rönesans resmi, editoryal tipografi, GSAP geçişleri, WebGL gren efekti ve dü
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### Evcil keçili sanal ada
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Evcil keçili sanal ada"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Takip eden, tepki veren ve oynayan bir evcil keçisi olan küçük, keşfedilebilir Three.js adası yap. Sıcak çevre detayları ve basit günlük etkileşimler ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Orijinal gönderi](https://x.com/aollivier82/status/2095165578042335442) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### Etkileşimli 3B Güneş Sistemi
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Etkileşimli 3B Güneş Sistemi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Yörüngedeki gezegenler, ölçeğe duyarlı gezinme, etiketler, hız kontrolleri, kamera hedefleri ve faydalı eğitici ayrıntılarla etkileşimli 3B Güneş Sistemi oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Orijinal gönderi](https://x.com/ego_agent/status/2095165395841999222) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### Eşdikdörtgensel panoramadan şehir
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Eşdikdörtgensel panoramadan şehir"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen eşdikdörtgensel şehir panoramasını referans alarak Blender'da tek seferde yoğun şehir modeli oluştur. Ana yolları, kütleleri, silüeti ve mekânsal ilişkileri koru.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Orijinal gönderi](https://x.com/hayashimon1/status/2095159781883597031) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### Blender'da ejderha ini sahnesi
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender'da ejderha ini sahnesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da ana odakta ejderha, büyük mağara hissi, hazine, duman, ateş ışığı, katmanlı kompozisyon ve sinematik kamerayla dramatik bir ejderha ini oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2095149546187653547) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Three.js'de çok oyunculu korsan dünyası
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js'de çok oyunculu korsan dünyası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Maceralı korsan animelerinden esinlenen, adalar, gemiler, dolaşım, savaş ve sosyal keşif döngüsü içeren çok oyunculu Three.js dünyası kur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Orijinal gönderi](https://x.com/aman_kambojj/status/2095137561283010600) · [Canlı demo](https://onepiece-world.vercel.app/) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.6.md) · **7 / 9** · [→](catalog.tr.8.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.6.md) · **7 / 10** · [→](catalog.tr.8.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

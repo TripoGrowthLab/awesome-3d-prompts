@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.5.md) · **6 / 9** · [→](catalog.tr.7.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.5.md) · **6 / 10** · [→](catalog.tr.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [WebGL ile kara delik oluşumu](#black-hole-formation-in-webgl-2096093614397170104)
+- [Blender'da Fütüristik Motosiklet ve Tank](#gpt-6-astra-2096083014845636816)
+- [Parçalarına ayrılan prosedürel tren montajları](#exploding-procedural-train-assemblies-2096082580554777041)
+- [Etkileşimli dünya küresi paneli](#interactive-globe-dashboard-2096082432197837065)
+- [Şema PDF'sinden PCB ve 3B görünüme](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [Astral War tarayıcı nişancı oyunu](#astral-war-browser-shooter-2096079660605997264)
 - [Konsept görselini referans alarak Astra ile ham bir 3B mini oyun oluşturma](#astra-3d-2096068401294929940)
 - [The Legend of Astra oyun prototipi](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,117 @@
 - [Lansman açılışı için gerçek zamanlı WebGL galaksisi](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [Yıldızlı Gece sokaklarında yürüyüş](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [Gerçek evden düzenlenebilir 60 FPS Blender sahnesine](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [Patlatılmış görünümde etkileşimli 3B turboşarj](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [Altı Van Gogh tablosundan yürünebilir kasaba](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [Buharlı tren çiziminden düzenlenebilir Blender montajına](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [Solace orman villası: yönergeden UE5'e](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [Çocukluk tren maketini sürmek](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### WebGL ile kara delik oluşumu
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGL ile kara delik oluşumu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+WebGL görselleştirmeleriyle kara delik oluşumunu anlatan eğitici bir slayt sunumu oluşturun. Açıklamalara animasyonlu 3D sahneler eşlik etsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Orijinal gönderi](https://x.com/zeeeeeen/status/2096093614397170104) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### Blender'da Fütüristik Motosiklet ve Tank
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Blender'da Fütüristik Motosiklet ve Tank"></a>
+
+**İstem**
+
+```text
+Modelleme yeteneği değerlendirmesi
+Blender'ı kullanarak fütüristik bir motosiklet, fütüristik bir tank ve sunum görüntüleri için bunlarla uyumlu bir arka plan oluşturun; tasarım ve görünüme öncelik verin. Farklı açılardan ekran görüntüleri alın. MCP de kullanılabilir olmalı; ancak en yüksek kaliteyi sağlayacak iş akışını seçin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096083014845636816) · [Orijinal gönderi](https://x.com/StelsRay2/status/2096083014845636816) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### Parçalarına ayrılan prosedürel tren montajları
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="Parçalarına ayrılan prosedürel tren montajları"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Boyutlar, profiller ve geometri fonksiyonlarından doğrudan Three.js'de iki tren üret. Tekerlekleri canlandır; patlatılmış görünüm ve yeniden birleştirme sekansı sağla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Orijinal gönderi](https://x.com/tomkrcha/status/2096082580554777041) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### Etkileşimli dünya küresi paneli
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="Etkileşimli dünya küresi paneli"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Referans görüntüden Three.js 3B dünya küresi panelini yeniden yap. Gündüz ve gece modları, okunabilir coğrafi veriler ve referansa uyan işlevsel kontroller ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Orijinal gönderi](https://x.com/hqmank/status/2096082432197837065) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### Şema PDF'sinden PCB ve 3B görünüme
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · Diğer
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="Şema PDF'sinden PCB ve 3B görünüme"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Şema PDF'sini kullanarak KiCad'de devreyi düzenle, 50'ye 20 mm iki katmanlı PCB'nin yollarını çiz ve 3B montajını render et. Bileşen veri sayfalarını incele, tasarım kuralı ihlallerini çöz.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Orijinal gönderi](https://x.com/swjtutl/status/2096079976433082502) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### Astral War tarayıcı nişancı oyunu
@@ -1032,114 +1141,7 @@ Verilen gerçek evi tamamen düzenlenebilir bir Blender sahnesi olarak yeniden o
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### Patlatılmış görünümde etkileşimli 3B turboşarj
-
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Patlatılmış görünümde etkileşimli 3B turboşarj"></a>
-
-**İstem**
-
-```text
-Etkileşimli bir 3B turboşarj oluştur. Çalışan tüm sistemleri ayır. Döndürebileyim, parçaları tek başına görebileyim ve makinenin gerçekte ne yaptığını anlayabileyim.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Orijinal gönderi](https://x.com/Feraser8/status/2095776712579571725) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### Altı Van Gogh tablosundan yürünebilir kasaba
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Altı Van Gogh tablosundan yürünebilir kasaba"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen altı Van Gogh tablosunu Three.js'de tutarlı, yürünebilir tek bir kasabaya dönüştür. Sokakları, önemli yerleri ve geçişleri keşfedilebilir bir dünyada birleştirirken her tablonun renk paletini ve fırça karakterini koru.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Orijinal gönderi](https://x.com/petergostev/status/2095776685807346105) · [Canlı demo](https://van-goghs-town.surge.sh/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### Buharlı tren çiziminden düzenlenebilir Blender montajına
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="Buharlı tren çiziminden düzenlenebilir Blender montajına"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen eski buharlı tren çizimini Blender'da ayrıntılı bir mekanik montaj olarak yeniden oluştur. Tekerlekleri, aksları, süspansiyonu, biyelleri, kazan bağlantılarını ve gövde panellerini adlandırılmış, düzenlenebilir nesneler olarak tut. Ayrıntı bütçesi ayarlanabilir olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Orijinal gönderi](https://x.com/tomkrcha/status/2095756085890310311) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### Solace orman villası: yönergeden UE5'e
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace orman villası: yönergeden UE5'e"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Solace adlı yürünebilir modern bir orman villası oluştur. Üç yatak odası, çalışma odası, merkez avlu, havuz ve çevre ormanı olsun. Blender'da prosedürel kur, altın saatte sabit görüntüler render et ve UE5'te 60 FPS gezinti dışa aktar.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Orijinal gönderi](https://x.com/NFT_Chen/status/2095752726886105375) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### Çocukluk tren maketini sürmek
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Çocukluk tren maketini sürmek"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Bir çocukluk tren maketini, voksel rayları ve trenleri olan dokunsal bir Three.js oyuncağı olarak yeniden yap. Oyuncu trenleri sürsün, makasları değiştirsin, masanın çevresinde dönsün ve animasyonlu minyatür sahneleri keşfetsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Orijinal gönderi](https://x.com/BigRyan/status/2095742344293454148) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.5.md) · **6 / 9** · [→](catalog.tr.7.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.5.md) · **6 / 10** · [→](catalog.tr.7.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

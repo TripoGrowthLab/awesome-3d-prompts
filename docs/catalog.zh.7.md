@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.zh-CN.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目录](catalog.zh.md) · [←](catalog.zh.6.md) · **7 / 9** · [→](catalog.zh.8.md)
+[完整目录](catalog.zh.md) · [←](catalog.zh.6.md) · **7 / 10** · [→](catalog.zh.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [可拆解交互式 3D 涡轮增压器](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [六幅梵高画作组成的可漫游小镇](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [蒸汽火车图纸转 Blender 装配体](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [Solace 森林别墅从 Brief 到 UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [可驾驶的童年火车沙盘](#driveable-childhood-train-table-2095742344293454148)
 - [丛林神庙与巨型神猴守护者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [平面图转完整 3D 漫游](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [可交互体素铁路沙盘](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [企业共和国拦截无人机资产](#corporate-interceptor-drone-asset-2095176360238915978)
 - [Frutiger Aero 风格 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
 - [十场景文艺复兴电影感网站](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [带宠物山羊的虚拟岛屿](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [交互式 3D 太阳系](#interactive-3d-solar-system-2095165395841999222)
-- [从等距柱状全景构建城市](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [Blender 巨龙巢穴场景](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Three.js 多人海盗世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### 可拆解交互式 3D 涡轮增压器
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="可拆解交互式 3D 涡轮增压器"></a>
+
+**提示词**
+
+```text
+构建一个交互式 3D 涡轮增压器。拆分所有工作系统，让我能够旋转、隔离部件，并看清机器实际如何运作。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [查看原帖](https://x.com/Feraser8/status/2095776712579571725) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### 六幅梵高画作组成的可漫游小镇
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="六幅梵高画作组成的可漫游小镇"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+把六幅给定梵高画作融合成一个连贯、可漫游的 Three.js 小镇。保留每幅画的色板与笔触气质，同时用街道、地标与转场将其连接为可探索世界。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [查看原帖](https://x.com/petergostev/status/2095776685807346105) · [在线演示](https://van-goghs-town.surge.sh/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### 蒸汽火车图纸转 Blender 装配体
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="蒸汽火车图纸转 Blender 装配体"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+把给定复古蒸汽火车图纸在 Blender 中重建为高细节机械装配体。车轮、车轴、悬挂、连杆、锅炉配件与车身面板都要成为命名清晰、可编辑的对象，并允许控制细节预算。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [查看原帖](https://x.com/tomkrcha/status/2095756085890310311) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### Solace 森林别墅从 Brief 到 UE5
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace 森林别墅从 Brief 到 UE5"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建名为 Solace 的可漫游现代森林别墅，包含三间卧室、办公室、中央庭院、泳池和周边林地。在 Blender 中程序化构建，输出黄金时刻静帧，再导出 60 FPS 的 UE5 漫游。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [查看原帖](https://x.com/NFT_Chen/status/2095752726886105375) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### 可驾驶的童年火车沙盘
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="可驾驶的童年火车沙盘"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+把童年火车沙盘重建为具有触感的 Three.js 玩具，使用体素轨道与车辆。允许玩家驾驶火车、切换岔道、环绕查看沙盘并发现动态微缩场景。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [查看原帖](https://x.com/BigRyan/status/2095742344293454148) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### 丛林神庙与巨型神猴守护者
@@ -982,107 +1089,7 @@
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### 带宠物山羊的虚拟岛屿
+[完整目录](catalog.zh.md) · [←](catalog.zh.6.md) · **7 / 10** · [→](catalog.zh.8.md)
 
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="带宠物山羊的虚拟岛屿"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建一座可探索的小型 Three.js 岛屿，加入会跟随、反应和玩耍的宠物山羊，以及温馨环境细节和简单日常互动。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [查看原帖](https://x.com/aollivier82/status/2095165578042335442) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### 交互式 3D 太阳系
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="交互式 3D 太阳系"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建交互式 3D 太阳系，包含行星轨道、兼顾尺度的导航、标签、速度控制、镜头目标和有用科普信息。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [查看原帖](https://x.com/ego_agent/status/2095165395841999222) · [返回案例导航](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### 从等距柱状全景构建城市
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="从等距柱状全景构建城市"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-使用给定等距柱状城市全景作为视觉参考，一次构建信息密集的 Blender 城市模型，保留主要道路、体块、天际线与空间关系。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [查看原帖](https://x.com/hayashimon1/status/2095159781883597031) · [返回案例导航](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### Blender 巨龙巢穴场景
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender 巨龙巢穴场景"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Blender 中构建戏剧化巨龙巢穴，包含核心巨龙、洞穴尺度、宝藏、烟雾、火光、分层构图与电影感镜头。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [查看原帖](https://x.com/majidmanzarpour/status/2095149546187653547) · [返回案例导航](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Three.js 多人海盗世界
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js 多人海盗世界"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建一个受冒险海盗动漫启发的 Three.js 多人世界，包含岛屿、船只、移动、战斗与社交探索循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [查看原帖](https://x.com/aman_kambojj/status/2095137561283010600) · [在线演示](https://onepiece-world.vercel.app/) · [返回案例导航](#all-prompts)
-
----
-
-
-[完整目录](catalog.zh.md) · [←](catalog.zh.6.md) · **7 / 9** · [→](catalog.zh.8.md)
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 447 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>

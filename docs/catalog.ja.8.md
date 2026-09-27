@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[全カタログ](catalog.ja.md) · [←](catalog.ja.7.md) · **8 / 9** · [→](catalog.ja.9.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.7.md) · **8 / 10** · [→](catalog.ja.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>作例を見る (50)</summary>
 
+- [ペットのヤギと過ごす仮想の島](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [操作して学べる 3D 太陽系](#interactive-3d-solar-system-2095165395841999222)
+- [正距円筒図法パノラマから作る都市](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Blender で作るドラゴンの巣窟](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Three.js のマルチプレイ海賊世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Blender で作る空飛ぶ鍋のアニメーション](#flying-pot-animation-in-blender-2095132939667255657)
 - [がんの進行を示す 3D シミュレーション](#3d-cancer-progression-simulation-2095130778342408331)
 - [流星体崩壊 VFX の改良](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [手続き生成する Three.js の世界](#procedurally-generated-three-js-world-2094873862315843910)
 - [3D の脳を巡る信号を操作して観察](#interactive-3d-human-brain-signals-2094873080590225728)
 - [フォトリアルな Three.js の風景](#photorealistic-three-js-landscape-2094871858206191667)
-- [WebGL シェーダーで作る AAA 群れ撃ちシューター](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [タイタニック号の危機を体験するゲーム](#playable-titanic-disaster-game-2094867850355679617)
-- [マルチプレイ恐竜サバイバルゲーム](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [10 分で Three.js ゲームを作り、さらに改善](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [ガラスの脳で見せる能力デモ](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### ペットのヤギと過ごす仮想の島
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="ペットのヤギと過ごす仮想の島"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+後をついてきて、反応し、一緒に遊ぶペットのヤギがいる、小さな探索可能な Three.js 島を作成してください。居心地のよい風景と、簡単な日々のふれあいを加えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [元の投稿](https://x.com/aollivier82/status/2095165578042335442) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### 操作して学べる 3D 太陽系
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="操作して学べる 3D 太陽系"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+公転する惑星、スケールを考慮した移動、ラベル、速度調整、カメラの注視対象、学習に役立つ説明を備えた、操作可能な 3D 太陽系を作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [元の投稿](https://x.com/ego_agent/status/2095165395841999222) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### 正距円筒図法パノラマから作る都市
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="正距円筒図法パノラマから作る都市"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された正距円筒図法の都市パノラマを参考に、密度の高い Blender 都市モデルを一度で構築してください。主要道路、建物のボリューム、スカイライン、位置関係を保ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [元の投稿](https://x.com/hayashimon1/status/2095159781883597031) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Blender で作るドラゴンの巣窟
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender で作るドラゴンの巣窟"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blender で劇的なドラゴンの巣窟を作成してください。主役のドラゴン、洞窟の大きさ、財宝、煙、炎の光、奥行きのある構図、映画的なカメラを用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [元の投稿](https://x.com/majidmanzarpour/status/2095149546187653547) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Three.js のマルチプレイ海賊世界
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js のマルチプレイ海賊世界"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+冒険を描く海賊アニメに着想を得た、マルチプレイ Three.js 世界を作成してください。島、船、移動、戦闘、交流しながら探索を続ける遊びを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [元の投稿](https://x.com/aman_kambojj/status/2095137561283010600) · [デモ](https://onepiece-world.vercel.app/) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Blender で作る空飛ぶ鍋のアニメーション
@@ -996,121 +1096,7 @@ Three.js で Airbus H145 ヘリコプターの 3D モデルを作成してくだ
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### WebGL シェーダーで作る AAA 群れ撃ちシューター
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="WebGL シェーダーで作る AAA 群れ撃ちシューター"></a>
-
-**プロンプト**
-
-```text
-ThreeJS と Web シェーダーで、作れる限り最高にぶっ飛んだ爽快シューターを作って！ 大事なのは射撃、動き、反動、グラフィックス、着弾の手応え、銃を撃つ感覚。美しく設計されたアリーナに敵が大群で押し寄せる。ADS 照準、武器の慣性と重量感、アサルトライフル、ショットガン、マークスマンライフルを入れて。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [元の投稿](https://x.com/superalesha/status/2094869490165039243) · [ソースコード](https://github.com/alesha-pro/bench-portal) · [デモ](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### タイタニック号の危機を体験するゲーム
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="タイタニック号の危機を体験するゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-船内を移動し、任務をこなし、氷山を避けようとする映画的なタイタニックゲームを作成してください。分かりやすい操作と、次第に高まる危険を表現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [元の投稿](https://x.com/vikktorrrre/status/2094867850355679617) · [デモ](https://rms-titanic-1912.netlify.app/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### マルチプレイ恐竜サバイバルゲーム
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="マルチプレイ恐竜サバイバルゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-狩猟、料理、クラフト、拠点建築、危険な恐竜、探索を続けたくなる成長の流れを備えたマルチプレイサバイバルゲームを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [元の投稿](https://x.com/Rubzem/status/2094866225960493189) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### 10 分で Three.js ゲームを作り、さらに改善
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="10 分で Three.js ゲームを作り、さらに改善"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-10 分で小さな Three.js ゲームを作成してください。明確な目標、反応のよい操作、分かりやすい危険、完結した勝敗条件を用意します。その後、実際に遊べる結果を評価し、追加の修正で見た目、展開速度、フィードバックを磨いてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [元の投稿](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### ガラスの脳で見せる能力デモ
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="ガラスの脳で見せる能力デモ"></a>
-
-**プロンプト**
-
-```text
-あなたの能力を示す Three.js デモを作ってください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [元の投稿](https://x.com/viewsfrom02108/status/2094853472864682360) · [作例一覧に戻る](#all-prompts)
-
----
-
-
-[全カタログ](catalog.ja.md) · [←](catalog.ja.7.md) · **8 / 9** · [→](catalog.ja.9.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.7.md) · **8 / 10** · [→](catalog.ja.9.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

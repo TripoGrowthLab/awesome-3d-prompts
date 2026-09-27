@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.6.md) · **7 / 9** · [→](catalog.uk.8.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.6.md) · **7 / 10** · [→](catalog.uk.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Інтерактивна 3D-модель турбокомпресора з розбиранням](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [Місто для прогулянок із шести картин Ван Гога](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [З креслення паровоза в редаговану збірку Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [Лісова вілла Solace: від завдання до UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [Дитячий залізничний макет із керованими потягами](#driveable-childhood-train-table-2095742344293454148)
 - [Храм у джунглях і велетенський вартовий-ванара](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [З плану поверху в повноцінну 3D-прогулянку](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [Інтерактивний воксельний залізничний макет](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [Асет корпоративного дрона-перехоплювача](#corporate-interceptor-drone-asset-2095176360238915978)
 - [3D-світ Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
 - [Кінематографічний сайт доби Відродження з десяти сцен](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [Віртуальний острів із домашньою кізочкою](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [Інтерактивна 3D-Сонячна система](#interactive-3d-solar-system-2095165395841999222)
-- [Місто за еквідистантною панорамою](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [Лігво дракона в Blender](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Мережевий піратський світ на Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### Інтерактивна 3D-модель турбокомпресора з розбиранням
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Інтерактивна 3D-модель турбокомпресора з розбиранням"></a>
+
+**Промпт**
+
+```text
+Створи інтерактивний 3D-турбокомпресор. Розділи всі робочі системи. Дай мені обертати його, оглядати деталі окремо й бачити, що саме робить механізм.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Оригінальний допис](https://x.com/Feraser8/status/2095776712579571725) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### Місто для прогулянок із шести картин Ван Гога
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Місто для прогулянок із шести картин Ван Гога"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Перетвори шість наданих картин Ван Гога на єдине місто для прогулянок на Three.js. Збережи палітру й характер мазків кожної картини, поєднавши вулиці, орієнтири та переходи у світ, який можна досліджувати.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Оригінальний допис](https://x.com/petergostev/status/2095776685807346105) · [Демо](https://van-goghs-town.surge.sh/) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### З креслення паровоза в редаговану збірку Blender
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="З креслення паровоза в редаговану збірку Blender"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори старовинний паровоз із наданого креслення в Blender як докладну механічну збірку. Залиши колеса, осі, підвіску, тяги, арматуру котла й панелі корпусу окремими названими редагованими об’єктами та передбач керований рівень деталізації.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Оригінальний допис](https://x.com/tomkrcha/status/2095756085890310311) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### Лісова вілла Solace: від завдання до UE5
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Лісова вілла Solace: від завдання до UE5"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи сучасну лісову віллу Solace для прогулянок: три спальні, кабінет, центральне подвір’я, басейн і навколишній ліс. Побудуй її процедурно в Blender, відрендери кадри в золоту годину та експортуй прогулянку в UE5 зі швидкістю 60 FPS.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Оригінальний допис](https://x.com/NFT_Chen/status/2095752726886105375) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### Дитячий залізничний макет із керованими потягами
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Дитячий залізничний макет із керованими потягами"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори дитячий залізничний макет як тактильну іграшку на Three.js із воксельними коліями й рухомим складом. Дай гравцеві водити потяги, переводити стрілки, обертати камеру навколо стола та відкривати анімовані мініатюрні сценки.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Оригінальний допис](https://x.com/BigRyan/status/2095742344293454148) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### Храм у джунглях і велетенський вартовий-ванара
@@ -982,107 +1089,7 @@
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### Віртуальний острів із домашньою кізочкою
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Віртуальний острів із домашньою кізочкою"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи невеликий острів для дослідження на Three.js із домашньою кізочкою, яка йде за гравцем, реагує та грається. Додай затишні деталі оточення й прості щоденні взаємодії.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Оригінальний допис](https://x.com/aollivier82/status/2095165578042335442) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### Інтерактивна 3D-Сонячна система
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Інтерактивна 3D-Сонячна система"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи інтерактивну 3D-Сонячну систему з планетами на орбітах, навігацією з урахуванням масштабу, підписами, регулюванням швидкості, цілями камери та корисними навчальними відомостями.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Оригінальний допис](https://x.com/ego_agent/status/2095165395841999222) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### Місто за еквідистантною панорамою
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Місто за еквідистантною панорамою"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Використай надану еквідистантну панораму міста як візуальний референс, щоб за один прохід побудувати щільну міську модель у Blender. Збережи головні дороги, об’єми, силует забудови та просторові зв’язки.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Оригінальний допис](https://x.com/hayashimon1/status/2095159781883597031) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### Лігво дракона в Blender
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Лігво дракона в Blender"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи драматичну сцену лігва дракона в Blender. Зроби дракона центром уваги, передай масштаб печери, додай скарби, дим, світло вогню, багатопланову композицію та кінематографічну камеру.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2095149546187653547) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Мережевий піратський світ на Three.js
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Мережевий піратський світ на Three.js"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи багатокористувацький світ на Three.js у дусі пригодницького піратського аніме: острови, кораблі, пересування, бої та спільне дослідження.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Оригінальний допис](https://x.com/aman_kambojj/status/2095137561283010600) · [Демо](https://onepiece-world.vercel.app/) · [Назад до прикладів](#all-prompts)
-
----
-
-
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.6.md) · **7 / 9** · [→](catalog.uk.8.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.6.md) · **7 / 10** · [→](catalog.uk.8.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/uk/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Повний каталог →</a></strong></p>

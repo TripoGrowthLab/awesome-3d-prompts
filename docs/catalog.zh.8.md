@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.zh-CN.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目录](catalog.zh.md) · [←](catalog.zh.7.md) · **8 / 9** · [→](catalog.zh.9.md)
+[完整目录](catalog.zh.md) · [←](catalog.zh.7.md) · **8 / 10** · [→](catalog.zh.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [带宠物山羊的虚拟岛屿](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [交互式 3D 太阳系](#interactive-3d-solar-system-2095165395841999222)
+- [从等距柱状全景构建城市](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Blender 巨龙巢穴场景](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Three.js 多人海盗世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Blender 飞行锅动画](#flying-pot-animation-in-blender-2095132939667255657)
 - [3D 癌细胞演进模拟](#3d-cancer-progression-simulation-2095130778342408331)
 - [增强流星体解体特效](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [程序化生成的 Three.js 世界](#procedurally-generated-three-js-world-2094873862315843910)
 - [交互式 3D 人脑信号](#interactive-3d-human-brain-signals-2094873080590225728)
 - [照片级 Three.js 自然景观](#photorealistic-three-js-landscape-2094871858206191667)
-- [带 WebGL Shader 的 AAA 尸潮射击游戏](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [可玩的泰坦尼克灾难游戏](#playable-titanic-disaster-game-2094867850355679617)
-- [多人恐龙生存游戏](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [十分钟生成并继续完善 Three.js 游戏](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [玻璃大脑能力演示](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### 带宠物山羊的虚拟岛屿
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="带宠物山羊的虚拟岛屿"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建一座可探索的小型 Three.js 岛屿，加入会跟随、反应和玩耍的宠物山羊，以及温馨环境细节和简单日常互动。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [查看原帖](https://x.com/aollivier82/status/2095165578042335442) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### 交互式 3D 太阳系
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="交互式 3D 太阳系"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建交互式 3D 太阳系，包含行星轨道、兼顾尺度的导航、标签、速度控制、镜头目标和有用科普信息。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [查看原帖](https://x.com/ego_agent/status/2095165395841999222) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### 从等距柱状全景构建城市
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="从等距柱状全景构建城市"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+使用给定等距柱状城市全景作为视觉参考，一次构建信息密集的 Blender 城市模型，保留主要道路、体块、天际线与空间关系。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [查看原帖](https://x.com/hayashimon1/status/2095159781883597031) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Blender 巨龙巢穴场景
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender 巨龙巢穴场景"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Blender 中构建戏剧化巨龙巢穴，包含核心巨龙、洞穴尺度、宝藏、烟雾、火光、分层构图与电影感镜头。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [查看原帖](https://x.com/majidmanzarpour/status/2095149546187653547) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Three.js 多人海盗世界
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js 多人海盗世界"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建一个受冒险海盗动漫启发的 Three.js 多人世界，包含岛屿、船只、移动、战斗与社交探索循环。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [查看原帖](https://x.com/aman_kambojj/status/2095137561283010600) · [在线演示](https://onepiece-world.vercel.app/) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Blender 飞行锅动画
@@ -996,121 +1096,7 @@ Create the most impressive website you can in a single self-contained HTML file.
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### 带 WebGL Shader 的 AAA 尸潮射击游戏
+[完整目录](catalog.zh.md) · [←](catalog.zh.7.md) · **8 / 10** · [→](catalog.zh.9.md)
 
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="带 WebGL Shader 的 AAA 尸潮射击游戏"></a>
-
-**提示词**
-
-```text
-用 Three.js 与 Web Shader 做一款极具冲击力的射击游戏。重点打磨射击、动态、后坐力、画面、命中反馈与枪感；在精心设计的竞技场中迎战尸潮，支持 ADS、武器惯性与重量，并提供突击步枪、霰弹枪和精准步枪。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [查看原帖](https://x.com/superalesha/status/2094869490165039243) · [项目源码](https://github.com/alesha-pro/bench-portal) · [在线演示](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### 可玩的泰坦尼克灾难游戏
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="可玩的泰坦尼克灾难游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建一款电影感泰坦尼克号游戏：玩家可以探索船体、完成任务并尝试避开冰山，具有清晰控制和不断升级的危险。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [查看原帖](https://x.com/vikktorrrre/status/2094867850355679617) · [在线演示](https://rms-titanic-1912.netlify.app/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### 多人恐龙生存游戏
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="多人恐龙生存游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建一款多人荒野生存游戏，包含狩猎、烹饪、制作、基地建设、危险恐龙与持续探索的成长循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [查看原帖](https://x.com/Rubzem/status/2094866225960493189) · [返回案例导航](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### 十分钟生成并继续完善 Three.js 游戏
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="十分钟生成并继续完善 Three.js 游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在十分钟内创建一个小型 Three.js 游戏，包含明确目标、灵敏控制、清晰危险物和完整成败状态。试玩后，再通过后续修改完善视觉、节奏与反馈。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [查看原帖](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [返回案例导航](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### 玻璃大脑能力演示
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="玻璃大脑能力演示"></a>
-
-**提示词**
-
-```text
-用 Three.js 做一个展示你能力的 Demo。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [查看原帖](https://x.com/viewsfrom02108/status/2094853472864682360) · [返回案例导航](#all-prompts)
-
----
-
-
-[完整目录](catalog.zh.md) · [←](catalog.zh.7.md) · **8 / 9** · [→](catalog.zh.9.md)
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 447 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>

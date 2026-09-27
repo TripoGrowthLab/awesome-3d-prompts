@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**447 Приклади · 14 🌐**
+**452 Приклади · 14 🌐**
 
-[За категоріями](#categories) · [За моделями](#models) · [Вихідний код](with-code.md) · [1](../docs/catalog.uk.1.md) · [2](../docs/catalog.uk.2.md) · [3](../docs/catalog.uk.3.md) · [4](../docs/catalog.uk.4.md) · [5](../docs/catalog.uk.5.md) · [6](../docs/catalog.uk.6.md) · [7](../docs/catalog.uk.7.md) · [8](../docs/catalog.uk.8.md) · [9](../docs/catalog.uk.9.md)
+[За категоріями](#categories) · [За моделями](#models) · [Вихідний код](with-code.md) · [1](../docs/catalog.uk.1.md) · [2](../docs/catalog.uk.2.md) · [3](../docs/catalog.uk.3.md) · [4](../docs/catalog.uk.4.md) · [5](../docs/catalog.uk.5.md) · [6](../docs/catalog.uk.6.md) · [7](../docs/catalog.uk.7.md) · [8](../docs/catalog.uk.8.md) · [9](../docs/catalog.uk.9.md) · [10](../docs/catalog.uk.10.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Ігри · 121
+### Ігри · 122
 
+- [Воксельна гра в стилі Minecraft із просунутими шейдерами](../docs/catalog.uk.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2-гра у жанрі «пісочниця» на виживання](../docs/catalog.uk.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Гра в стилі Genshin Impact у Сан-Франциско](../docs/catalog.uk.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Crazy Tanks — 3D-артилерія на острові](../docs/catalog.uk.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
@@ -40,7 +41,7 @@
 - [Симулятор приготування бургерів від першої особи](../docs/catalog.uk.1.md#gpt-6-astra-2102897258983313712) · [noclipepe](https://x.com/noclipepe)
 - [CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері](../docs/catalog.uk.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [3D-гра про картинг в одному HTML-файлі](../docs/catalog.uk.1.md#gpt-6-astra-2102652927177617564) · [Anshul](https://x.com/realanshull)
-- [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](../docs/catalog.uk.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](../docs/catalog.uk.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Нескінченний процедурно згенерований світ на Three.js](../docs/catalog.uk.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Battle City 3D: нескінченна танкова оборона](../docs/catalog.uk.2.md#battle-city-3d) · [jared](https://x.com/jaredliu_bravo)
 - [TD-гра на кшталт Sir, We Have Orc Problems](../docs/catalog.uk.2.md#gpt-6-astra-2102411087002112256) · [nkz/ぴたすぽ](https://x.com/nikzu_)
@@ -55,7 +56,7 @@
 - [Острів циклопа](../docs/catalog.uk.2.md#cyclops-island-threejs-game) · [Jared](https://x.com/jaredliu_bravo)
 - [Розроблення ПК-версії Splatoon і відтворення графіки](../docs/catalog.uk.2.md#gpt-6-astra-2100193512373592313) · [basio](https://x.com/basio39)
 - [Процедурна космічна гра з повністю доступним світом](../docs/catalog.uk.2.md#gpt-6-astra-2099785223827259515) · [developers.openai.com](https://developers.openai.com/)
-- [Ігрова 3D-смуга перешкод](../docs/catalog.uk.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [Ігрова 3D-смуга перешкод](../docs/catalog.uk.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
 - [Ігровий 3D-фрагмент прибережного району в браузері](../docs/catalog.uk.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
 - [Skybound — браузерна гра про польоти](../docs/catalog.uk.3.md#gpt-6-astra-2098739181510164652) · [Aakash Kanojiya](https://x.com/Kanojiyaaakash1)
 - [DEVICE: фотореалістична 3D-головоломка зі смартфоном у головній ролі](../docs/catalog.uk.3.md#gpt-6-astra-2098715488369152087) · [ひまねこ](https://x.com/00Nekonet)
@@ -121,7 +122,7 @@
 - [Мережевий прототип відкритого світу в стилі GTA](../docs/catalog.uk.7.md#gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Matt Shumer](https://x.com/mattshumer_)
 - [Ковбойська гра на Three.js у стилі коміксу](../docs/catalog.uk.7.md#comic-book-three-js-cowboy-game-2095180091257209148) · [smallzer0](https://x.com/Smallzero)
 - [Людина проти AGI з неузгодженими цілями](../docs/catalog.uk.7.md#human-versus-unaligned-agi-game-2095180071221002441) · [Lucas Bai](https://x.com/lucasybai)
-- [Мережевий піратський світ на Three.js](../docs/catalog.uk.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Мережевий піратський світ на Three.js](../docs/catalog.uk.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Нативна souls-like гра на C++](../docs/catalog.uk.8.md#native-c-souls-like-game-2095053114600755576) · [wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz)
 - [Повноцінні 3D-«Змії та драбини»](../docs/catalog.uk.8.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Повноцінний теніс у Unity](../docs/catalog.uk.8.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
@@ -130,10 +131,10 @@
 - [Браузерна гра в стилі Mini Militia](../docs/catalog.uk.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Три невеликі фізичні мініігри](../docs/catalog.uk.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Картингові перегони AAA-рівня на Three.js](../docs/catalog.uk.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
-- [Шутер проти орд ворогів із WebGL-шейдерами](../docs/catalog.uk.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [Гра-катастрофа на «Титаніку»](../docs/catalog.uk.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [Мережева гра про виживання серед динозаврів](../docs/catalog.uk.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [Гра на Three.js за десять хвилин із доопрацюванням](../docs/catalog.uk.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [Шутер проти орд ворогів із WebGL-шейдерами](../docs/catalog.uk.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [Гра-катастрофа на «Титаніку»](../docs/catalog.uk.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [Мережева гра про виживання серед динозаврів](../docs/catalog.uk.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [Гра на Three.js за десять хвилин із доопрацюванням](../docs/catalog.uk.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
 - [Промпт гри в стилі Need for Speed на Godot](../docs/catalog.uk.9.md#need-for-speed-style-godot-game-2082714235373584582) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Промпт бойової гри для Kimi K3](../docs/catalog.uk.9.md#playable-combat-game-2082507403598373134) · [Darshal Jaitwar](https://x.com/darshal_)
 - [Промпт Kimi K3: гра 1 на 1 у стилі League of Legends в одному HTML-файлі](../docs/catalog.uk.9.md#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Fokki](https://x.com/0x_fokki)
@@ -157,8 +158,10 @@
 
 <a id="category-3d-scenes"></a>
 
-### Сцени · 97
+### Сцени · 99
 
+- [Лісове село біля озера](../docs/catalog.uk.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [WebGL-сцена з воксельним кораблем у пляшці](../docs/catalog.uk.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Воксельний японський сад у Three.js](../docs/catalog.uk.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Римська сцена битви в золотій годині](../docs/catalog.uk.1.md#gpt-6-astra-2103351755971207251) · [tonysuri](https://x.com/tonysurix)
 - [STILLWATER — браузерний досвід у місячному болоті](../docs/catalog.uk.1.md#gpt-6-astra-2103308083242082314) · [YouWare](https://x.com/YouWareAI)
@@ -167,9 +170,9 @@
 - [Середньовічний європейський 3D-замок, яким можна керувати в браузері](../docs/catalog.uk.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Бенчмарк кіберпанкового мегаполіса «Останній потяг»](../docs/catalog.uk.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Браузерна анімація середньовічного замку](../docs/catalog.uk.1.md#gpt-6-astra-2102672926285713456) · [juhapalomaki.fi](https://juhapalomaki.fi/)
-- [3D-рендеринг гандбольного майданчика на 360° за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Процедурний 3D-фон головного меню в Three.js за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Кінематографічний інтерактивний піратський корабель на заході сонця](../docs/catalog.uk.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [3D-рендеринг гандбольного майданчика на 360° за зображенням](../docs/catalog.uk.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Процедурний 3D-фон головного меню в Three.js за зображенням](../docs/catalog.uk.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Кінематографічний інтерактивний піратський корабель на заході сонця](../docs/catalog.uk.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Двоповерховий заміський будинок з інтер’єром](../docs/catalog.uk.2.md#gpt-6-astra-2102473710724919614) · [Azer](https://x.com/azer0lxm)
 - [3D-сцена й відео з Токійською вежею вдень і вночі](../docs/catalog.uk.2.md#gpt-6-astra-2102276620124062065) · [Wafffle](https://x.com/wafffle_dev)
 - [Завершене фотореалістичне 3D-середовище](../docs/catalog.uk.2.md#gpt-6-astra-2101224659861590399) · [Julian Goldie SEO](https://x.com/JulianGoldieSEO)
@@ -177,7 +180,7 @@
 - [Інтерактивна 3D-сцена кімнати з рухомими меблями](../docs/catalog.uk.2.md#gpt-6-astra-2100139076816916977) · [Wentao Zhu](https://x.com/walterzhu8)
 - [Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями](../docs/catalog.uk.2.md#gpt-6-astra-2099850719839109597) · [妖精アーヤ](https://x.com/aiehon_aya)
 - [Створіть сцену готельного коридору](../docs/catalog.uk.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
-- [3D-світ із дуже високими хмарочосами](../docs/catalog.uk.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [3D-світ із дуже високими хмарочосами](../docs/catalog.uk.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
 - [Переосмислення замку Піч у 3D](../docs/catalog.uk.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [3D-реконструкція Всесвітньої виставки в Чикаго 1893 року](../docs/catalog.uk.3.md#gpt-6-astra-2098795017955418202) · [Dan Elton](https://x.com/moreisdifferent)
 - [Мініатюрна об’ємна сцена храму](../docs/catalog.uk.3.md#gpt-6-astra-2098403061463224543) · [Rion Wu](https://x.com/rionaifantasy)
@@ -185,9 +188,9 @@
 - [Сцена у Blender у стилі VHS за мотивами Backrooms](../docs/catalog.uk.3.md#gpt-6-astra-2097534290112188602) · [CHRIS FIRST](https://x.com/chrisfirst)
 - [Затишний світ озера серед водно-болотних угідь](../docs/catalog.uk.3.md#gpt-6-astra-2097343467026289039) · [Givros](https://x.com/givros)
 - [Рельєф селища в стилі Skyrim за згенерованим референсом](../docs/catalog.uk.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
-- [12-секундна лісова дорога в Blender](../docs/catalog.uk.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [Інтерактивний китайський дворик](../docs/catalog.uk.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»](../docs/catalog.uk.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [12-секундна лісова дорога в Blender](../docs/catalog.uk.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [Інтерактивний китайський дворик](../docs/catalog.uk.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»](../docs/catalog.uk.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [3D-сцена Гоґвортсу](../docs/catalog.uk.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Планувальник дитячої кімнати з робочою зоною](../docs/catalog.uk.4.md#children-s-room-and-workspace-planner-2096578684010508736) · [かのこ🌼AI×子育て×探究](https://x.com/dqlh47m)
 - [Будинок, змодельований з нуля в Blender](../docs/catalog.uk.4.md#a-house-modeled-from-scratch-in-blender-2096576154337734865) · [みずくん](https://x.com/mizkun)
@@ -197,7 +200,7 @@
 - [Видіння храму Єзекіїля у 3D](../docs/catalog.uk.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Попередній огляд у Blender за планом верхнього поверху](../docs/catalog.uk.4.md#top-floor-plan-to-blender-preview-2096501340889374883) · [indigo](https://x.com/indigox)
 - [Прогулянка низькополігональним селом у дусі Квачхона](../docs/catalog.uk.4.md#walkable-low-poly-gwacheon-village-2096490395614019793) · [Manas Joshi](https://x.com/ManasJoshi76254)
-- [Створіть і відрендерте чорну діру в Blender](../docs/catalog.uk.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Створіть і відрендерте чорну діру в Blender](../docs/catalog.uk.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
 - [Лісабонська Террейру-ду-Пасу в Blender](../docs/catalog.uk.5.md#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto)
 - [Густий процедурний ліс у Three.js](../docs/catalog.uk.5.md#dense-procedural-forest-in-three-js-2096263046918197609) · [Leon Lin](https://x.com/LexnLin)
 - [Площа Єдності в Клуж-Напоці з вокселів](../docs/catalog.uk.5.md#cluj-napoca-union-square-in-voxels-2096262733259837681) · [Dan Manastireanu](https://x.com/danmana) · GitHub
@@ -215,8 +218,8 @@
 - [Морська битва на Three.js за один запит](../docs/catalog.uk.6.md#single-turn-three-js-naval-war-scene-2095840435319001278) · [leo 🐾](https://x.com/synthwavedd)
 - [Прогулянка вулицями «Зоряної ночі»](../docs/catalog.uk.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [Реальний будинок у редагованій сцені Blender при 60 FPS](../docs/catalog.uk.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [Місто для прогулянок із шести картин Ван Гога](../docs/catalog.uk.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [Лісова вілла Solace: від завдання до UE5](../docs/catalog.uk.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [Місто для прогулянок із шести картин Ван Гога](../docs/catalog.uk.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [Лісова вілла Solace: від завдання до UE5](../docs/catalog.uk.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
 - [З плану поверху в повноцінну 3D-прогулянку](../docs/catalog.uk.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [Живий воксельний корабель у пляшці](../docs/catalog.uk.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Палац витончених мистецтв у Blender](../docs/catalog.uk.7.md#palace-of-fine-arts-blender-recreation-2095653641164329143) · [Sharif Shameem](https://x.com/sharifshameem)
@@ -232,8 +235,8 @@
 - [Процедурний водоспад](../docs/catalog.uk.7.md#procedural-waterfall-study-2095510069047660636) · [Fede(URU) 🇺🇾](https://x.com/RealFedeURU)
 - [Aerie — живий воксельний острів](../docs/catalog.uk.7.md#aerie-a-living-voxel-island-2095493630421340200) · [AI Guides](https://x.com/free_ai_guides)
 - [3D-світ Frutiger Aero](../docs/catalog.uk.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
-- [Місто за еквідистантною панорамою](../docs/catalog.uk.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Лігво дракона в Blender](../docs/catalog.uk.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Місто за еквідистантною панорамою](../docs/catalog.uk.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Лігво дракона в Blender](../docs/catalog.uk.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Докладне відтворення 3D-стадіону](../docs/catalog.uk.8.md#detailed-3d-stadium-recreation-2095123216419459454) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [Живий воксельний світ у пляшці](../docs/catalog.uk.8.md#living-voxel-world-inside-a-bottle-2095111213927510131) · [Vib3Coded](https://x.com/vib3coded)
 - [Інтерактивний замок на Three.js](../docs/catalog.uk.8.md#interactive-three-js-castle-2095048818203275584) · [Jigs](https://x.com/debugsenpai)
@@ -271,7 +274,7 @@
 - [Astra сама створює собі тіло в CAD](../docs/catalog.uk.2.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [Додати ланцюг для технічного обслуговування до поручня](../docs/catalog.uk.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [3D-серце в стилі Apple та усміхнене емодзі](../docs/catalog.uk.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
-- [Модель хвойного дерева до 200 полігонів](../docs/catalog.uk.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [Модель хвойного дерева до 200 полігонів](../docs/catalog.uk.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [UV-розгортка та повторне 4K-запікання моделі одягу без голови](../docs/catalog.uk.3.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
 - [Розбірна 3D-друкована рамка зі з’єднувальними елементами](../docs/catalog.uk.3.md#gpt-6-astra-2098774359926297011) · [wada](https://x.com/wada)
 - [Фігурка дівчинки, яка грається з роботом](../docs/catalog.uk.3.md#gpt-6-astra-2098406473273663992) · [𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
@@ -286,7 +289,7 @@
 - [Зациклена вода в Geometry Nodes](../docs/catalog.uk.4.md#looping-water-with-geometry-nodes-2096521798150242631) · [黒曜陣](https://x.com/uB95A7tobA17057)
 - [Катер YF-24 на спокійному 3D-морі](../docs/catalog.uk.4.md#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Yohei Matsumoto](https://x.com/yhmtmt1)
 - [Компонування й анімація згенерованих 3D-моделей](../docs/catalog.uk.4.md#assemble-and-animate-generated-3d-assets-2096481425050743048) · [Stefan 3D AI](https://x.com/Stefan_3D_AI)
-- [Від концепту персонажа до 3D-моделі з ригом і мультфільму](../docs/catalog.uk.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Від концепту персонажа до 3D-моделі з ригом і мультфільму](../docs/catalog.uk.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Фотореалістична редагована реконструкція дракона в Blender](../docs/catalog.uk.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
 - [Процедурне погруддя Наполеона](../docs/catalog.uk.5.md#procedural-napoleon-bust-2096234355395903672) · [Le PLOUTOS](https://x.com/leploutos)
 - [Збірка буксира за референсами](../docs/catalog.uk.5.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
@@ -295,13 +298,13 @@
 - [Болід Формули-1 у Blender](../docs/catalog.uk.5.md#formula-one-car-in-blender-2096125193580113957) · [Conor Dart](https://x.com/Conor_D_Dart)
 - [З малюнка в ігрового персонажа](../docs/catalog.uk.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Вежа Азаді в Blender](../docs/catalog.uk.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
-- [Футуристичний мотоцикл і танк у Blender](../docs/catalog.uk.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Футуристичний мотоцикл і танк у Blender](../docs/catalog.uk.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
 - [Відтворення дриля за одним ракурсом](../docs/catalog.uk.6.md#single-view-power-drill-reconstruction-2096059736693305794) · [Utah teapot 🫖](https://x.com/SkyeSharkie)
 - [Модель рекордера TP-7 за референсами](../docs/catalog.uk.6.md#tp-7-recorder-reference-model-2096013228090245181) · [Tykra](https://x.com/ty_kra_lab)
 - [Мех із ригом за кількома референсними зображеннями](../docs/catalog.uk.6.md#gpt-6-astra-2095975726558392570) · [Vatroslav Vrbanić](https://x.com/vatro_vrbanic)
 - [Механічно докладний паровоз у Blender](../docs/catalog.uk.6.md#mechanically-complete-blender-locomotive-2095868420327710840) · [sheemamoto](https://x.com/sheemamoto)
 - [З рецепта чизкейка в 3D-фільм](../docs/catalog.uk.6.md#recipe-to-3d-cheesecake-film-2095829851206774987) · [سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976)
-- [З креслення паровоза в редаговану збірку Blender](../docs/catalog.uk.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [З креслення паровоза в редаговану збірку Blender](../docs/catalog.uk.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
 - [CAD-збірка USS Enterprise для друку](../docs/catalog.uk.7.md#printable-uss-enterprise-cad-assembly-2095641163441254676) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Рухома фігурка для 3D-друку](../docs/catalog.uk.7.md#articulated-printable-action-figure-2095481098201387287) · [Max Blade](https://x.com/_MaxBlade)
 - [Асет корпоративного дрона-перехоплювача](../docs/catalog.uk.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -343,7 +346,7 @@
 - [Інтерактивний тур квартирою з варіантами плитки](../docs/catalog.uk.2.md#gpt-6-astra-2100222426705453318) · [Shimecki](https://x.com/scheemunai)
 - [Інтерактивна 3D-панель нервової системи організму](../docs/catalog.uk.2.md#gpt-6-astra-2099719427990134984) · [AiMind](https://x.com/AIMind_Ai)
 - [Інтерактивний вулканічний острів із човнами, що тікають](../docs/catalog.uk.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
-- [Інтерактивна 3D-сцена із самураєм у лісі](../docs/catalog.uk.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [Інтерактивна 3D-сцена із самураєм у лісі](../docs/catalog.uk.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
 - [Інтерактивний 3D-оглядач анатомії](../docs/catalog.uk.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Чорнобильський атлас](../docs/catalog.uk.3.md#gpt-6-astra-2098841316591346006) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Інтерактивний 3D-ставок із коропами коі](../docs/catalog.uk.3.md#gpt-6-astra-2098492771170722032) · [Vib3Coded](https://x.com/vib3coded)
@@ -354,8 +357,8 @@
 - [Інтерактивний 3D-колайдер частинок](../docs/catalog.uk.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Захопливий 3D-сайт із рисовим полем](../docs/catalog.uk.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [Проєкт WebGL на TypeScript + Three.js: Зала молитов про врожай у Храмі Неба в Пекіні](../docs/catalog.uk.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
-- [Інтерактивне желейне лимонне дерево](../docs/catalog.uk.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [Інтерактивний робот-вихованець на верстаку](../docs/catalog.uk.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [Інтерактивне желейне лимонне дерево](../docs/catalog.uk.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [Інтерактивний робот-вихованець на верстаку](../docs/catalog.uk.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Нескінченна мініатюрна вулиця в Three.js WebGPU](../docs/catalog.uk.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [Інтерактивна вибухова схема смартфона](../docs/catalog.uk.4.md#gpt-6-astra-2096685163111694556) · [Zaira Laraib](https://x.com/zairalaraib_)
 - [Інтерактивний атлас розібраного комп’ютера](../docs/catalog.uk.4.md#exploded-desktop-computer-atlas-2096578761877860502) · [cooper](https://x.com/icooperhero)
@@ -363,7 +366,7 @@
 - [Інтерактивне енергетичне ядро з двома кільцями](../docs/catalog.uk.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [Власна кімната як інтерактивне портфоліо](../docs/catalog.uk.4.md#personal-room-as-an-interactive-portfolio-2096506357868642342) · [Kalan ◂Ⓘ▸](https://x.com/kalanyei)
 - [Квартира за мотивами D4 для дослідження в грі](../docs/catalog.uk.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Інтерактивний 3D-ансамбль з аудіосинхронною анімацією](../docs/catalog.uk.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [Інтерактивний 3D-ансамбль з аудіосинхронною анімацією](../docs/catalog.uk.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
 - [Дослідження Сонячної системи та орбіт](../docs/catalog.uk.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [Глибоководна цільова сторінка з біолюмінесценцією](../docs/catalog.uk.5.md#bioluminescent-deep-sea-landing-page-2096269057544831175) · [Himanshu Hingorani](https://x.com/himanshubuildss)
 - [Інтерактивна демонстрація Hyperloop](../docs/catalog.uk.5.md#interactive-hyperloop-demo-2096250748099068377) · [Amir](https://x.com/hbanay98)
@@ -375,8 +378,8 @@
 - [Інтерактивний пелікан їде на велосипеді](../docs/catalog.uk.5.md#gpt-6-astra-2096213850383331489) · [AI Builder Club](https://x.com/aibuilderclub_)
 - [Іграшковий світ малюка](../docs/catalog.uk.5.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [Офіс для прогулянок із 32 анімованими людьми](../docs/catalog.uk.5.md#walkable-office-with-32-animated-people-2096131961345720477) · [Parithosh-varma](https://x.com/demgufever82151) · GitHub
-- [Утворення чорної діри у WebGL](../docs/catalog.uk.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Інтерактивна панель із глобусом](../docs/catalog.uk.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [Утворення чорної діри у WebGL](../docs/catalog.uk.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Інтерактивна панель із глобусом](../docs/catalog.uk.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
 - [Симулятор Sinclair ZX Spectrum](../docs/catalog.uk.6.md#sinclair-zx-spectrum-simulator-2096062355692048605) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Особисте 3D-портфоліо з глобусом виступів](../docs/catalog.uk.6.md#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Shivay Lamba](https://x.com/HowDevelop)
 - [Розбірна модель Tesla Model X](../docs/catalog.uk.6.md#tesla-model-x-exploded-view-2096009146248122416) · [ashe](https://x.com/ashebytes)
@@ -388,15 +391,15 @@
 - [Овальний кабінет за різних президентів](../docs/catalog.uk.6.md#oval-office-through-the-presidencies-2095830596069290077) · [Min Zhou](https://x.com/fMinZhou)
 - [Головна сторінка з інтерактивною галактикою Three.js](../docs/catalog.uk.6.md#interactive-three-js-galaxy-homepage-2095806515579879457) · [Three.js Resources](https://x.com/threejsresource)
 - [Галактика WebGL на першому екрані лендингу](../docs/catalog.uk.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
-- [Інтерактивна 3D-модель турбокомпресора з розбиранням](../docs/catalog.uk.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [Дитячий залізничний макет із керованими потягами](../docs/catalog.uk.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [Інтерактивна 3D-модель турбокомпресора з розбиранням](../docs/catalog.uk.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [Дитячий залізничний макет із керованими потягами](../docs/catalog.uk.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [Інтерактивний воксельний залізничний макет](../docs/catalog.uk.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Студія фотореалістичних 3D-мокапів товарів](../docs/catalog.uk.7.md#photoreal-3d-product-mockup-studio-2095619319690400253) · [Josh Millgate](https://x.com/joshmillgate)
 - [Якісний інтерактивний прототип за один запит](../docs/catalog.uk.7.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [Розбірна візуалізація серверної стійки ШІ](../docs/catalog.uk.7.md#exploding-ai-server-rack-visualization-2095193022304792938) · [Kyle Jeong](https://x.com/kylejeong)
 - [Кінематографічний сайт доби Відродження з десяти сцен](../docs/catalog.uk.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [Віртуальний острів із домашньою кізочкою](../docs/catalog.uk.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [Інтерактивна 3D-Сонячна система](../docs/catalog.uk.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [Віртуальний острів із домашньою кізочкою](../docs/catalog.uk.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [Інтерактивна 3D-Сонячна система](../docs/catalog.uk.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
 - [Інтерактивний Dino-dex із шейдерами](../docs/catalog.uk.8.md#interactive-shader-driven-dino-dex-2095121568297083067) · [Benji Viz](https://x.com/_Benviz)
 - [Вітрина мехів у дусі Gundam](../docs/catalog.uk.8.md#gundam-inspired-mecha-showcase-2095106919530930221) · [Crayon](https://x.com/usecrayon)
 - [Портфоліо на Three.js за референсом](../docs/catalog.uk.8.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo) · GitHub
@@ -404,17 +407,19 @@
 - [NIGHTBAND — інтерактивний короткохвильовий приймач](../docs/catalog.uk.8.md#nightband-interactive-shortwave-radio-2095026928210346175) · [Neo](https://x.com/NeoAIForecast)
 - [Воксельне село з NPC, які мислять](../docs/catalog.uk.8.md#voxel-village-with-thinking-npcs-2094930970675741171) · [Tech2Wild](https://x.com/Tech2Wild)
 - [Інтерактивні сигнали 3D-мозку](../docs/catalog.uk.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
-- [Скляний мозок: демонстрація можливостей](../docs/catalog.uk.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [Скляний мозок: демонстрація можливостей](../docs/catalog.uk.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Промпт Claude Opus 5 для однофайлової 3D-візуалізації Сонця](../docs/catalog.uk.9.md#single-file-3d-sun-visualizer-2082461416049525077) · [AlysisAI](https://x.com/AlysisAI)
 - [Промпт Claude Fable 5 для нескінченної паперової машини Three.js](../docs/catalog.uk.9.md#infinite-three-js-paper-machine-2081533777340506251) · [0xMarioNawfal](https://x.com/RoundtableSpace)
 - [Промпт додавання Vespa 125 у 3D-конфігуратор](../docs/catalog.uk.9.md#vespa-125-3d-configurator-2081439705506435440) · [Raf Lorenz](https://x.com/rafintheloop)
 - [Промпт Claude Opus 5: орнітоптер Леонардо да Вінчі на Three.js](../docs/catalog.uk.9.md#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Harshith](https://x.com/HarshithLucky3)
-- [Промпт Three.js для прогулянки літаком](../docs/catalog.uk.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Промпт Three.js для прогулянки літаком](../docs/catalog.uk.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="category-animation-simulation"></a>
 
-### Анімація · 82
+### Анімація · 84
 
+- [Відшліфоване 15-секундне графічне відео в стилі моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Моушн-графіка у стилі Spotify](../docs/catalog.uk.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Динамічний 15-секундний шоуріл із моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Моушн-графічна анімація «Життєвий цикл»](../docs/catalog.uk.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Інтерактивна 3D-послідовність запуску ракети над океаном](../docs/catalog.uk.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -429,7 +434,7 @@
 - [Проморолик Tripo 3D, створений за допомогою Claude Opus 5](../docs/catalog.uk.1.md#tripo-claude-opus-5-5-paper-cut-3d-short) · [tripo3d](https://x.com/tripoai)
 - [Інтерактивна ейлерова симуляція неонової рідини](../docs/catalog.uk.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Модель аварії Hundenberg і реалістичне відео](../docs/catalog.uk.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Автономна 3D-машина Руба Ґолдберґа](../docs/catalog.uk.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Автономна 3D-машина Руба Ґолдберґа](../docs/catalog.uk.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Інтерактивна симуляція евакуації натовпу](../docs/catalog.uk.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [TITANIC — Останнє світло](../docs/catalog.uk.2.md#titanic-the-last-light) · [jared](https://x.com/jaredliu_bravo)
 - [Робочий процес створення 3D-анімації та відео про кота-майстра бойових мистецтв](../docs/catalog.uk.2.md#gpt-6-astra-2101310374033428642) · [PixVerse](https://x.com/PixVerse)
@@ -437,7 +442,7 @@
 - [Навчання стратегії обертання ручки за допомогою Dexterous Hand Sharpa](../docs/catalog.uk.2.md#gpt-6-astra-2100751369619820923) · [AI Will](https://x.com/FinanceYF5)
 - [AAA CGI-ролик про надприродний бій у підземній станції](../docs/catalog.uk.2.md#gpt-6-astra-2100233407108137349) · [MadMax](https://x.com/MadMax_Series)
 - [Воїн видирається на велетня й б’є його в щелепу](../docs/catalog.uk.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [Автономна модельна залізниця із запобіганням зіткненням](../docs/catalog.uk.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [Автономна модельна залізниця із запобіганням зіткненням](../docs/catalog.uk.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [Самоскладна 3D-анімація оріґамі](../docs/catalog.uk.3.md#gpt-6-astra-2098909584996057283) · [AI Guides](https://x.com/free_ai_guides)
 - [Симуляція кінетичного столу з піском](../docs/catalog.uk.3.md#gpt-6-astra-2098831830002851846) · [AI Guides](https://x.com/free_ai_guides)
 - [Дзенський храм · демонстраційне 3D-відео створення](../docs/catalog.uk.3.md#gpt-6-astra-2098697876155076820) · [火山哥🕊️](https://x.com/huoshan007)
@@ -459,15 +464,15 @@
 - [Інтерактивний атрактор Лоренца](../docs/catalog.uk.4.md#interactive-lorenz-attractor-2096572156453028193) · [Juy \| AI experiments](https://x.com/juyeam)
 - [3D-симуляція ядерного вибуху в місті](../docs/catalog.uk.4.md#gpt-6-astra-2096562462674079868) · [Ashish Thakur](https://x.com/ashishthakur___)
 - [Процедурна комаха, що повзає різними поверхнями](../docs/catalog.uk.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
-- [Гра-симулятор залізничної мережі](../docs/catalog.uk.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [Таверна з працівниками та відвідувачами](../docs/catalog.uk.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [Гра-симулятор залізничної мережі](../docs/catalog.uk.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [Таверна з працівниками та відвідувачами](../docs/catalog.uk.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
 - [Браузерна перегонова фізика на C# і WASM](../docs/catalog.uk.5.md#browser-racing-physics-in-c-and-wasm-2096258619574513880) · [achepta](https://x.com/achepta_tm)
 - [Симулятор орбітального зближення](../docs/catalog.uk.5.md#orbital-rendezvous-simulator-2096225621303042258) · [Alican Kiraz](https://x.com/AlicanKiraz0)
 - [Буря всередині куба](../docs/catalog.uk.5.md#a-storm-trapped-in-a-cube-2096220264413409648) · [zcw](https://x.com/zwb44)
 - [Zubli — чутливий персонаж WebGL](../docs/catalog.uk.5.md#zubli-a-responsive-webgl-character-2096180133803561376) · [CoXis](https://x.com/coxis)
 - [Автоматичний риг персонажа й рухи кунг-фу](../docs/catalog.uk.5.md#automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [Діючий завод реактивних літаків](../docs/catalog.uk.5.md#live-jet-manufacturing-plant-2096122429319852319) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
-- [Процедурні потяги з розбиранням на вузли](../docs/catalog.uk.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [Процедурні потяги з розбиранням на вузли](../docs/catalog.uk.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
 - [Мережа доставки із закриттям мостів](../docs/catalog.uk.6.md#delivery-network-with-bridge-closures-2096042360513904742) · [AgentworkflowLab](https://x.com/AgentWorkflowLa)
 - [Екосистема WebGL, що еволюціонує](../docs/catalog.uk.6.md#evolving-webgl-ecosystem-2096040448477515874) · [Yume\_X](https://x.com/yume_arasaki)
 - [Пружне желе на WebGPU](../docs/catalog.uk.6.md#bouncy-webgpu-jelly-2096008241104711698) · [Scott](https://x.com/scottstts)
@@ -496,14 +501,14 @@
 - [Промпт кінематографічної анімації гелікоптера у джунглях В’єтнаму](../docs/catalog.uk.9.md#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Kirill](https://x.com/kirillk_web3)
 - [Промпт Kimi K3 для однофайлового трасувальника чорної діри WebGL2](../docs/catalog.uk.9.md#single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Harsh](https://x.com/devloper_hs)
 - [Промпт воксельної футбольної анімації Three.js в одному HTML-файлі](../docs/catalog.uk.9.md#voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Thành](https://x.com/Zmthanh)
-- [Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі](../docs/catalog.uk.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі](../docs/catalog.uk.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
 
 <a id="category-other"></a>
 
 ### Інше · 3
 
 - [Змоделюйте Бруклінський міст і перевірте рух танків в обох напрямках](../docs/catalog.uk.3.md#gpt-6-astra-2098650336521064759) · [Higgsfield](https://x.com/higgsfield_ai)
-- [З PDF-схеми в друковану плату та 3D-збірку](../docs/catalog.uk.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [З PDF-схеми в друковану плату та 3D-збірку](../docs/catalog.uk.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [Спільний промпт для магазину, інтерактивного 3D-музею та RTS](../docs/catalog.uk.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 
 <a id="models"></a>
@@ -512,8 +517,10 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 291
+### GPT-6 Astra · 293
 
+- [Лісове село біля озера](../docs/catalog.uk.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [WebGL-сцена з воксельним кораблем у пляшці](../docs/catalog.uk.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Воксельний японський сад у Three.js](../docs/catalog.uk.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Створення морської свинки в Blender](../docs/catalog.uk.1.md#gpt-6-astra-2103482826519986544) · [かよこ](https://x.com/kayokojoe)
 - [3D-моделювання одягу для VRChat](../docs/catalog.uk.1.md#gpt-6-astra-2103456264785424530) · [のわ〜る👼🍆🐄](https://x.com/Noir4247)
@@ -575,11 +582,11 @@
 - [Інтерактивний вулканічний острів із човнами, що тікають](../docs/catalog.uk.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
 - [Створіть сцену готельного коридору](../docs/catalog.uk.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
 - [Воїн видирається на велетня й б’є його в щелепу](../docs/catalog.uk.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [3D-світ із дуже високими хмарочосами](../docs/catalog.uk.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
-- [Модель хвойного дерева до 200 полігонів](../docs/catalog.uk.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
-- [Інтерактивна 3D-сцена із самураєм у лісі](../docs/catalog.uk.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
-- [Ігрова 3D-смуга перешкод](../docs/catalog.uk.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
-- [Автономна модельна залізниця із запобіганням зіткненням](../docs/catalog.uk.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [3D-світ із дуже високими хмарочосами](../docs/catalog.uk.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [Модель хвойного дерева до 200 полігонів](../docs/catalog.uk.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [Інтерактивна 3D-сцена із самураєм у лісі](../docs/catalog.uk.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [Ігрова 3D-смуга перешкод](../docs/catalog.uk.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [Автономна модельна залізниця із запобіганням зіткненням](../docs/catalog.uk.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [Переосмислення замку Піч у 3D](../docs/catalog.uk.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [Інтерактивний 3D-оглядач анатомії](../docs/catalog.uk.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Ігровий 3D-фрагмент прибережного району в браузері](../docs/catalog.uk.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
@@ -625,11 +632,11 @@
 - [Рельєф селища в стилі Skyrim за згенерованим референсом](../docs/catalog.uk.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
 - [Анімація квіткової крамниці в Японії з вибуховим розкладанням](../docs/catalog.uk.3.md#gpt-6-astra-2097153139795468365) · [KANA｜東京AI映像](https://x.com/KanaWorks_AI)
 - [Ригінг і анімація меха з пальцеходими ногами в Godot](../docs/catalog.uk.3.md#gpt-6-astra-2097123382852829230) · [Om Patel](https://x.com/om_patel5)
-- [Інтерактивне желейне лимонне дерево](../docs/catalog.uk.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [Інтерактивний робот-вихованець на верстаку](../docs/catalog.uk.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
-- [12-секундна лісова дорога в Blender](../docs/catalog.uk.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [Інтерактивний китайський дворик](../docs/catalog.uk.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»](../docs/catalog.uk.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [Інтерактивне желейне лимонне дерево](../docs/catalog.uk.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [Інтерактивний робот-вихованець на верстаку](../docs/catalog.uk.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [12-секундна лісова дорога в Blender](../docs/catalog.uk.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [Інтерактивний китайський дворик](../docs/catalog.uk.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»](../docs/catalog.uk.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [Нескінченна мініатюрна вулиця в Three.js WebGPU](../docs/catalog.uk.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [3D-сцена Гоґвортсу](../docs/catalog.uk.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Інтерактивний м’який слим на Three.js і WebGPU](../docs/catalog.uk.4.md#gpt-6-astra-2096793432987464010) · [码农暖爸](https://x.com/Delroy715)
@@ -675,11 +682,11 @@
 - [Процедурна комаха, що повзає різними поверхнями](../docs/catalog.uk.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
 - [Відтворення гри Lego 1999 Racers](../docs/catalog.uk.4.md#gpt-6-astra-2096438110095585753) · [Mo Elgaraihy](https://x.com/EngMoElgaraihy)
 - [Квартира за мотивами D4 для дослідження в грі](../docs/catalog.uk.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Створіть і відрендерте чорну діру в Blender](../docs/catalog.uk.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
-- [Гра-симулятор залізничної мережі](../docs/catalog.uk.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [Таверна з працівниками та відвідувачами](../docs/catalog.uk.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
-- [Інтерактивний 3D-ансамбль з аудіосинхронною анімацією](../docs/catalog.uk.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
-- [Від концепту персонажа до 3D-моделі з ригом і мультфільму](../docs/catalog.uk.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Створіть і відрендерте чорну діру в Blender](../docs/catalog.uk.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Гра-симулятор залізничної мережі](../docs/catalog.uk.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [Таверна з працівниками та відвідувачами](../docs/catalog.uk.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [Інтерактивний 3D-ансамбль з аудіосинхронною анімацією](../docs/catalog.uk.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [Від концепту персонажа до 3D-моделі з ригом і мультфільму](../docs/catalog.uk.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Дослідження Сонячної системи та орбіт](../docs/catalog.uk.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [Гра про краба з механіками, побудованими навколо дій](../docs/catalog.uk.5.md#a-crab-game-with-action-driven-mechanics-2096337879173591171) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Фотореалістична редагована реконструкція дракона в Blender](../docs/catalog.uk.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
@@ -723,11 +730,11 @@
 - [З малюнка в ігрового персонажа](../docs/catalog.uk.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Вежа Азаді в Blender](../docs/catalog.uk.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
 - [Прогулянка садом музею Сучжоу](../docs/catalog.uk.5.md#suzhou-museum-garden-walkthrough-2096096998092841449) · [amber shen](https://x.com/whosamberella)
-- [Утворення чорної діри у WebGL](../docs/catalog.uk.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Футуристичний мотоцикл і танк у Blender](../docs/catalog.uk.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
-- [Процедурні потяги з розбиранням на вузли](../docs/catalog.uk.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
-- [Інтерактивна панель із глобусом](../docs/catalog.uk.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
-- [З PDF-схеми в друковану плату та 3D-збірку](../docs/catalog.uk.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [Утворення чорної діри у WebGL](../docs/catalog.uk.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Футуристичний мотоцикл і танк у Blender](../docs/catalog.uk.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Процедурні потяги з розбиранням на вузли](../docs/catalog.uk.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [Інтерактивна панель із глобусом](../docs/catalog.uk.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [З PDF-схеми в друковану плату та 3D-збірку](../docs/catalog.uk.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [Astral War — браузерний шутер](../docs/catalog.uk.6.md#astral-war-browser-shooter-2096079660605997264) · [Rishi](https://x.com/0xRishi)
 - [Створення грубо стилізованої 3D-гри в Astra на основі концепт-арту](../docs/catalog.uk.6.md#astra-3d-2096068401294929940) · [陈硕KAI（耍门）](https://x.com/ChenshuoAI)
 - [Прототип гри The Legend of Astra](../docs/catalog.uk.6.md#the-legend-of-astra-game-prototype-2096064140510970318) · [lofibloom](https://x.com/lofihashbloom)
@@ -770,11 +777,11 @@
 - [Галактика WebGL на першому екрані лендингу](../docs/catalog.uk.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
 - [Прогулянка вулицями «Зоряної ночі»](../docs/catalog.uk.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [Реальний будинок у редагованій сцені Blender при 60 FPS](../docs/catalog.uk.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [Інтерактивна 3D-модель турбокомпресора з розбиранням](../docs/catalog.uk.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [Місто для прогулянок із шести картин Ван Гога](../docs/catalog.uk.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [З креслення паровоза в редаговану збірку Blender](../docs/catalog.uk.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
-- [Лісова вілла Solace: від завдання до UE5](../docs/catalog.uk.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
-- [Дитячий залізничний макет із керованими потягами](../docs/catalog.uk.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [Інтерактивна 3D-модель турбокомпресора з розбиранням](../docs/catalog.uk.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [Місто для прогулянок із шести картин Ван Гога](../docs/catalog.uk.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [З креслення паровоза в редаговану збірку Blender](../docs/catalog.uk.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [Лісова вілла Solace: від завдання до UE5](../docs/catalog.uk.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [Дитячий залізничний макет із керованими потягами](../docs/catalog.uk.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [З плану поверху в повноцінну 3D-прогулянку](../docs/catalog.uk.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [Інтерактивний воксельний залізничний макет](../docs/catalog.uk.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Живий воксельний корабель у пляшці](../docs/catalog.uk.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
@@ -834,11 +841,11 @@
 - [Асет корпоративного дрона-перехоплювача](../docs/catalog.uk.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
 - [3D-світ Frutiger Aero](../docs/catalog.uk.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
 - [Кінематографічний сайт доби Відродження з десяти сцен](../docs/catalog.uk.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [Віртуальний острів із домашньою кізочкою](../docs/catalog.uk.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [Інтерактивна 3D-Сонячна система](../docs/catalog.uk.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
-- [Місто за еквідистантною панорамою](../docs/catalog.uk.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Лігво дракона в Blender](../docs/catalog.uk.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Мережевий піратський світ на Three.js](../docs/catalog.uk.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Віртуальний острів із домашньою кізочкою](../docs/catalog.uk.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [Інтерактивна 3D-Сонячна система](../docs/catalog.uk.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [Місто за еквідистантною панорамою](../docs/catalog.uk.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Лігво дракона в Blender](../docs/catalog.uk.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Мережевий піратський світ на Three.js](../docs/catalog.uk.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Анімація летючої каструлі в Blender](../docs/catalog.uk.8.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
 - [3D-симуляція розвитку раку](../docs/catalog.uk.8.md#3d-cancer-progression-simulation-2095130778342408331) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Удосконалений VFX розпаду метеороїда](../docs/catalog.uk.8.md#enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -884,16 +891,19 @@
 - [Процедурно згенерований світ на Three.js](../docs/catalog.uk.8.md#procedurally-generated-three-js-world-2094873862315843910) · [Swarogan](https://x.com/swarogan)
 - [Інтерактивні сигнали 3D-мозку](../docs/catalog.uk.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
 - [Фотореалістичний краєвид на Three.js](../docs/catalog.uk.8.md#photorealistic-three-js-landscape-2094871858206191667) · [Alix Ollivier](https://x.com/aollivier82)
-- [Шутер проти орд ворогів із WebGL-шейдерами](../docs/catalog.uk.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [Гра-катастрофа на «Титаніку»](../docs/catalog.uk.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [Мережева гра про виживання серед динозаврів](../docs/catalog.uk.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [Гра на Three.js за десять хвилин із доопрацюванням](../docs/catalog.uk.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Скляний мозок: демонстрація можливостей](../docs/catalog.uk.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [Шутер проти орд ворогів із WebGL-шейдерами](../docs/catalog.uk.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [Гра-катастрофа на «Титаніку»](../docs/catalog.uk.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [Мережева гра про виживання серед динозаврів](../docs/catalog.uk.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [Гра на Three.js за десять хвилин із доопрацюванням](../docs/catalog.uk.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [Скляний мозок: демонстрація можливостей](../docs/catalog.uk.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Відшліфоване 15-секундне графічне відео в стилі моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Воксельна гра в стилі Minecraft із просунутими шейдерами](../docs/catalog.uk.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Моушн-графіка у стилі Spotify](../docs/catalog.uk.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Динамічний 15-секундний шоуріл із моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2-гра у жанрі «пісочниця» на виживання](../docs/catalog.uk.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Навігація 3D-пагодою](../docs/catalog.uk.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
@@ -919,11 +929,11 @@
 - [Інтерактивна ейлерова симуляція неонової рідини](../docs/catalog.uk.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Інтерактивний 3D-ландшафт японської сакурової долини](../docs/catalog.uk.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Модель аварії Hundenberg і реалістичне відео](../docs/catalog.uk.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [3D-рендеринг гандбольного майданчика на 360° за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Процедурний 3D-фон головного меню в Three.js за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Автономна 3D-машина Руба Ґолдберґа](../docs/catalog.uk.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](../docs/catalog.uk.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [Кінематографічний інтерактивний піратський корабель на заході сонця](../docs/catalog.uk.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [3D-рендеринг гандбольного майданчика на 360° за зображенням](../docs/catalog.uk.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Процедурний 3D-фон головного меню в Three.js за зображенням](../docs/catalog.uk.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Автономна 3D-машина Руба Ґолдберґа](../docs/catalog.uk.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](../docs/catalog.uk.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Кінематографічний інтерактивний піратський корабель на заході сонця](../docs/catalog.uk.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Нескінченний процедурно згенерований світ на Three.js](../docs/catalog.uk.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Інтерактивна симуляція евакуації натовпу](../docs/catalog.uk.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [Інтерактивний 3D-острів доісторичної епохи](../docs/catalog.uk.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
@@ -973,8 +983,8 @@
 - [Промпт Claude Fable 5 для 3D-сакури](../docs/catalog.uk.9.md#3d-cherry-blossom-tree-2080178541979664741) · [zhod](https://x.com/zhodonx)
 - [Спільний промпт для магазину, інтерактивного 3D-музею та RTS](../docs/catalog.uk.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 - [Промпт Fable 5 для моделювання Нью-Йорка в Blender](../docs/catalog.uk.9.md#modeling-new-york-city-in-blender-2079387760478073087) · [Martin Puli](https://x.com/MartinPulitano)
-- [Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі](../docs/catalog.uk.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
-- [Промпт Three.js для прогулянки літаком](../docs/catalog.uk.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі](../docs/catalog.uk.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Промпт Three.js для прогулянки літаком](../docs/catalog.uk.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="model-claude-opus-5"></a>
 

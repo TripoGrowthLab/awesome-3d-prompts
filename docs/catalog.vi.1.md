@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 1 / 9
+# Awesome 3D Prompts — 1 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-[Danh mục đầy đủ](catalog.vi.md) · **1 / 9** · [→](catalog.vi.2.md)
+[Danh mục đầy đủ](catalog.vi.md) · **1 / 10** · [→](catalog.vi.2.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Môi trường làng ven hồ giữa rừng](#gpt-6-astra-2103860776419111285)
+- [Cảnh WebGL voxel tàu trong chai](#gpt-6-astra-2103855977376125161)
+- [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](#claude-opus-5-5-2103846630088716687)
+- [Game voxel phong cách Minecraft với shader nâng cao](#claude-opus-5-5-2103822946800165270)
+- [Video motion graphics theo chủ đề Spotify](#claude-opus-5-5-2103801834930606193)
 - [Showreel thiết kế chuyển động 15 giây đầy năng lượng](#claude-opus-5-5-2103504887439065439)
 - [Game sinh tồn sandbox WebGL2](#claude-opus-5-5-2103502454750920925)
 - [Vườn Nhật phong cách voxel trong Three.js](#gpt-6-astra-2103486103831339269)
@@ -73,13 +78,475 @@
 - [Mô phỏng chất lỏng neon Euler tương tác](#claude-opus-5-5-2102565611473661963)
 - [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](#claude-opus-5-5-2102565403109085669)
 - [Mô hình tai nạn Hundenberg và video chân thực](#claude-opus-5-5-2102547809140355250)
-- [Bản render 3D sân bóng ném 360 độ từ hình ảnh](#claude-opus-5-5-2102544406117286004)
-- [Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh](#claude-opus-5-5-2102544196808667471)
-- [Cỗ máy Rube Goldberg 3D tự vận hành](#claude-opus-5-5-2102544078927741369)
-- [Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit](#claude-opus-5-5-2102538762731565085)
-- [Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn](#claude-opus-5-5-2102533729746882985)
 
 </details>
+<a id="gpt-6-astra-2103860776419111285"></a>
+
+### Môi trường làng ven hồ giữa rừng
+
+[Givros](https://x.com/givros) · 2026-09-26 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/bb5336623e7ba06d8f082e8bd8cf2c577fc40a4883915d61e1da5aec2e299aa4.webp" width="840" loading="lazy" alt="Môi trường làng ven hồ giữa rừng"></a>
+
+**Prompt**
+
+```text
+Một khu rừng với hồ nước ở trung tâm. Giữa hồ là một ngôi nhà bỏ hoang. Xung quanh hồ là một ngôi làng Pháp ngập tràn hoa. Các lối đi kết nối những địa điểm quan trọng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+A forest with a lake in the center. In the middle of the lake, an abandoned house. Around the lake, a flower-filled French village. Paths connecting the important points.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103860776419111285) · [Bài đăng gốc](https://x.com/givros/status/2103860776419111285) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103855977376125161"></a>
+
+### Cảnh WebGL voxel tàu trong chai
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/2f45920bf771d92b9bce39284ff16726678fe0e30e9a656a8fc5a68f7ab463ff.webp" width="840" loading="lazy" alt="Cảnh WebGL voxel tàu trong chai"></a>
+
+**Prompt**
+
+```text
+Thiết kế và tạo một cảnh nghệ thuật voxel thật sáng tạo, công phu và chi tiết, mô phỏng một con tàu tinh xảo đang vượt đại dương bên trong một chiếc chai. Thêm các con sóng và hệ thống vật lý chân thực, đồng thời bao bọc toàn bộ cảnh trong chai. Hãy tạo một cảnh ấn tượng, đa dạng bằng các voxel nhiều màu, vật lý được mô phỏng cùng những đạo cụ và phong cảnh thú vị, tất cả đều nằm bên trong chai. Sử dụng WebGL và bất kỳ thư viện nào cần thiết, nhưng hãy đảm bảo tôi có thể dán toàn bộ mã vào một tệp HTML duy nhất và mở tệp đó trong Chrome
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Design and create a very creative, elaborate, and detailed voxel art scene of a intricate ship sailing through the ocean inside of a bottle. Include waves and realistic physics, with the whole scene encapsulated inside of the bottle. Make the scene impressive and varied and use colorful voxels, modeled physics, and interesting props / landscapes all encapsulated inside of the bottle. Use WebGL and whatever libraries to get this done but make sure I can paste it all into a single HTML file and open it in Chrome
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103855977376125161) · [Bài đăng gốc](https://x.com/Artless101/status/2103856049925071141) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103846630088716687"></a>
+
+### Video đồ họa motion design 15 giây, hoàn thiện chỉn chu
+
+[Tasher](https://x.com/Dannnnnok) · 2026-09-26 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103846630088716687"><img src="../assets/previews/5ac04e5937cd19c2305122056a57079333c484aac9d3a8551507e3616b0c9a19.webp" width="840" loading="lazy" alt="Video đồ họa motion design 15 giây, hoàn thiện chỉn chu"></a>
+
+**Prompt**
+
+```text
+Tôi muốn xem khả năng của bạn với vai trò nhà thiết kế motion design. Để chứng minh, hãy tạo một video đồ họa chuyển động 15 giây, hoàn thiện chỉn chu, thể hiện kỹ năng motion design của bạn. Tác phẩm này sẽ được trình chiếu cho 10.000 người trên X, vì vậy hãy làm cho video thật cuốn hút về mặt hình ảnh, chuyên nghiệp và đáng nhớ. Hãy tự do sáng tạo tối đa để tạo ra kết quả tốt nhất có thể
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I’m curious to see how strong you are as a motion designer. To prove it, create a polished 15-second animated graphic video that showcases your motion design skills. This piece will be presented to 10,000 people on X, so make it visually compelling, professional, and memorable. Take full creative freedom and make the strongest result you can
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103846630088716687) · [Bài đăng gốc](https://x.com/Dannnnnok/status/2103847239885939019) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103822946800165270"></a>
+
+### Game voxel phong cách Minecraft với shader nâng cao
+
+[DreykØ](https://x.com/dreyk0o0) · 2026-09-26 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103822946800165270"><img src="../assets/previews/4ef0cface56b3289b525d03044a300a6af2f051a6cd71444a36274edbd44da0e.webp" width="840" loading="lazy" alt="Game voxel phong cách Minecraft với shader nâng cao"></a>
+
+**Prompt**
+
+```text
+Xây dựng một game voxel phong cách Minecraft trong một tệp HTML duy nhất, chạy được trên trình duyệt.
+- Điều khiển góc nhìn thứ nhất: WASD, xoay góc nhìn bằng chuột, nhảy
+- Địa hình tạo theo quy trình gồm đồi, nước và cây
+- Đặt và phá khối bằng chuột, gồm 5 loại khối
+- Shader nâng cao: mặt trời chuyển động, bóng đổ mềm, đổ bóng môi trường, sương mù, phản chiếu mặt nước
+- Duy trì 60 fps mượt mà trên máy tính xách tay
+Sử dụng Three.js từ CDN. Hãy kiểm thử, sửa mọi lỗi, sau đó tiếp tục cải thiện hình ảnh cho đến khi đạt độ chân thực cao nhất có thể.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a Minecraft-style voxel game in a single HTML file that runs in the browser.
+- First-person controls: WASD, mouse look, jump
+- Procedural terrain with hills, water and trees
+- Place and break blocks with the mouse, 5 block types
+- Advanced shaders: moving sun, soft shadows, ambient occlusion, fog, water reflections
+- Smooth 60 fps on a laptop
+Use Three.js from a CDN. Test it, fix every bug, then keep improving the visuals until it looks as realistic as possible.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103822946800165270) · [Bài đăng gốc](https://x.com/dreyk0o0/status/2103822946800165270) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103801834930606193"></a>
+
+### Video motion graphics theo chủ đề Spotify
+
+[Brain](https://x.com/brainextends) · 2026-09-26 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103801834930606193"><img src="../assets/previews/75ebc1defe8d18a4ce53a2b3bcae792b69b6d9762c712cc422bf6217726662cb.webp" width="840" loading="lazy" alt="Video motion graphics theo chủ đề Spotify"></a>
+
+**Prompt**
+
+```text
+Tạo một video motion graphics hoàn chỉnh, chỉn chu theo chủ đề Spotify dựa trên brief sau. Prompt này độc lập: không cần video tham chiếu hay tài sản có sẵn.
+
+<deliverables> Video MP4 dài 18 giây ở độ phân giải 1920×1080 và đúng 60 fps, có nhạc cùng hiệu ứng âm thanh tinh tế Bộ source hoàn chỉnh có thể chỉnh sửa Xây dựng, render, kiểm tra và tinh chỉnh animation trước khi bàn giao Không dừng ở storyboard, ảnh tĩnh hay kế hoạch triển khai </deliverables>
+<art_direction>
+Một phim giới thiệu sản phẩm âm nhạc cao cấp, trình bày bên trong một sân khấu hình chữ nhật bo góc lớn, gần như đen hoàn toàn
+Sân khấu chiếm khoảng 80% chiều rộng và 75% chiều cao canvas, nằm giữa theo chiều ngang và thấp hơn một chút so với tâm dọc
+Bên ngoài sân khấu, dùng nền xanh lá giàu không khí: xanh lục bảo phát sáng gần góc trên bên trái, xanh rừng đậm hơn về hai bên, chuyển dần thành gần như đen ở phía dưới
+Bên trong sân khấu:
+Nền gần như đen
+Typography chính màu trắng
+Văn bản phụ màu xám dịu
+Màu xanh Spotify # 1ED760 để nhấn mạnh và dùng cho các nút điều khiển
+Một font sans-serif gọn gàng, chẳng hạn Geist hoặc Inter
+Nét icon nhất quán và đổ bóng tiết chế
+Giữ bố cục gọn, tập trung, với nhiều khoảng trống
+Văn bản phải gợi cảm giác quảng cáo sản phẩm âm nhạc, không phải tiêu đề thuyết trình quá khổ
+Không thêm chú thích bên ngoài, watermark của người tạo, footer trang trí hay bộ đếm tiến trình
+</art_direction>
+
+<artwork> Tạo artwork album hình vuông nguyên bản cho một ca khúc hư cấu tên “Glass Tides” của “AURA”
+Ảnh bìa chính là hình ảnh macro trừu tượng của lụa lỏng ánh ngọc trai và thủy tinh nóng chảy
+Dùng các màu lavender pastel, cyan phấn, hồng phấn, vàng champagne và xanh bạc hà nhẹ
+Bao gồm các nếp gấp ba chiều rộng, highlight phản chiếu chân thực, vân mảnh và một nếp gấp hình chữ S uốn lượn nổi bật
+Phủ kín toàn bộ khung vuông từ mép này đến mép kia
+Artwork chính không có chữ, logo hay viền
+Dùng nhất quán artwork này trong suốt video
+
+Tạo thêm các bìa playlist được thiết kế riêng:
+“Late Nights” màu vàng mù tạt
+“Good Energy” màu hồng
+“Deep Focus” màu xanh dương
+“Daily Mix 1”, “Daily Mix 2” và “Daily Mix 3” với các màu bổ trợ
+
+Các bìa này phải trông như sản phẩm thiết kế đồ họa hoàn thiện, với typography đậm và họa tiết hình học đơn giản
+</artwork>
+
+<timeline> 0.0–0.6 giây: Một icon Spotify màu xanh lớn dần một cách mượt mà vào chính giữa sân khấu tối Cho icon xuất hiện đầy tự tin với độ vượt nhẹ tối thiểu
+0.6–1.5 giây:
+Icon chuyển thành một nhận diện Spotify nhỏ phía trên hai dòng chữ căn giữa:
+“Khám phá”
+“nhạc mới”
+Dòng đầu màu trắng; dòng thứ hai màu xanh
+Cho hai dòng xuất hiện bằng các chuyển động dọc ngắn có mask
+1.5–2.4 giây:
+Một giao diện Spotify desktop cách điệu trượt lên
+Hiển thị sidebar mảnh, “Dành cho bạn”, ba thẻ album và các hàng thông tin phụ nhỏ
+Dùng góc nghiêng phối cảnh nhẹ khi giao diện xuất hiện, rồi ổn định dần về góc nhìn chính diện
+2.4–3.2 giây:
+Tiến gần hơn đến ba bìa nổi bật
+Hiển thị “Mới dành cho bạn” phía trên chúng
+Giữ artwork sắc nét, với tên album ngắn bên dưới
+Một thanh player mảnh, bo góc neo ở đáy sân khấu
+3.2–4.0 giây:
+Các thẻ nổi bật thu lại thành danh sách “Khám phá mới” gọn gàng
+Hiển thị lần lượt bốn hàng bài hát với độ trễ nhẹ
+Mỗi hàng gồm thumbnail, tên bài hát ngắn, nghệ sĩ và một icon menu nhỏ
+4.0–4.9 giây:
+Chuyển sang một dải bìa playlist nhiều màu theo chiều ngang
+Tiêu đề: “Mọi tâm trạng”
+Dòng phụ: “Tìm điều lay động bạn”
+Dải trượt mượt sang hai bên, các thẻ ở rìa bị sân khấu cắt một phần
+4.9–5.8 giây:
+Một ô tìm kiếm gọn xuất hiện
+Nhập “Glass Tides”
+Hiển thị một kết quả được chọn bên dưới, gồm artwork óng ánh, “AURA” và icon phát màu xanh
+
+5.8–6.6 giây:
+Artwork được chọn phóng to thành một bìa lớn ở chính giữa
+Hiển thị “Glass Tides” bên dưới, tiếp theo là “AURA” màu xanh
+Giữ thanh player luôn hiển thị
+6.6–7.5 giây:
+Cùng bìa album trượt sang trái
+Thông tin bài hát xuất hiện bên phải:
+“Glass Tides”
+“AURA”
+“Một tần số mới”
+Thêm nút Phát màu xanh, bo góc
+Điều phối chuyển động của bìa và phần hiển thị chữ
+7.5–8.3 giây:
+Một chuyển đổi màu thương hiệu ngắn phủ xanh toàn bộ sân khấu bên trong
+Artwork thu nhỏ thành một tile nhỏ ở chính giữa
+Đặt một nhận diện Spotify nhỏ màu tối bên dưới
+Thanh player tạm thời lùi lại
+8.3–9.8 giây:
+Quay lại sân khấu tối
+Cùng artwork phóng to mạnh về phía camera, trở nên quá khổ và bị sân khấu bo góc cắt khung
+Khôi phục player ở đáy
+Dùng motion blur có kiểm soát trong phần zoom nhanh nhất
+
+9.8–11.2 giây:
+Artwork biến mất để lộ một thông điệp typography ở chính giữa:
+“Tìm thấy”
+“nhịp điệu của bạn”
+Dùng màu trắng cho dòng đầu và màu xanh cho dòng thứ hai
+Player vẫn hiển thị ổn định bên dưới
+11.2–12.5 giây:
+Hiển thị “Dành cho mỗi ngày của bạn”
+Ba bìa playlist xuất hiện với phối cảnh nhẹ và các góc nghiêng nhỏ theo hai hướng đối lập
+Chúng tỏa ra thành sáu bìa nhỏ hơn trên toàn sân khấu
+Dòng phụ: “Âm thanh của bạn, luôn đổi mới”
+
+12.5–14.0 giây:
+Bố cục playlist chuyển thành bốn bìa album lơ lửng
+Bao gồm artwork chính óng ánh
+Dùng chuyển động xoay, phối cảnh, thứ tự chiều sâu và chồng lớp ở mức tiết chế
+Giữ chuyển động phối hợp với nhau thay vì lơ lửng ngẫu nhiên
+14.0–15.2 giây:
+Các bìa hội tụ về trung tâm và gập quanh một icon Spotify màu xanh
+Artwork rút lại khi icon trở thành tiêu điểm
+Làm player mờ dần
+Icon Spotify phải xuất hiện từ đúng vị trí trung tâm nơi các bìa hội tụ
+15.2–18.0 giây:
+Icon di chuyển nhẹ sang trái và dừng cạnh wordmark “Spotify” màu trắng lớn
+Giữ khoảng cách giữa icon và các chữ trong suốt chuyển động
+Hiển thị:
+“Khám phá nhạc mới”
+“mỗi ngày”
+Dòng đầu màu trắng; dòng thứ hai màu xanh
+Giữ nguyên bố cục hoàn thiện một cách gọn gàng đến hết video
+</timeline>
+<persistent_player>
+Trong phần lớn chuỗi cảnh ở giữa, giữ một thanh player mảnh, bo góc gần đáy sân khấu bên trong
+Bao gồm:
+Thumbnail artwork chính nhỏ
+“Glass Tides” và “AURA”
+Các nút phát và chuyển bài
+Một thanh tiến trình mảnh
+Một icon âm lượng nhỏ
+Phong cách tối, trong suốt nhẹ, với đường viền mảnh
+Player lặp lại này kết nối các cảnh thay đổi
+Nó phải luôn đóng vai trò phụ về mặt thị giác so với artwork
+</persistent_player>
+
+<motion_quality>
+Bắt đúng năng lượng của một phim sản phẩm cao cấp được dựng nhịp chặt
+Hầu hết ý tưởng hình ảnh kéo dài khoảng một giây, nhưng chuyển cảnh vẫn phải mượt
+Dùng gia tốc và giảm tốc liên tục
+Ưu tiên lò xo tắt dần tới hạn hoặc easing mượt được tinh chỉnh cẩn thận
+Không lặp lại hiệu ứng nảy hay tạo độ vượt đàn hồi lớn
+Giữ nhận diện artwork chính và mối quan hệ vị trí của nó xuyên suốt các cảnh tìm kiếm, chi tiết album, tile thương hiệu và zoom
+Dùng chuyển cảnh giữ nguyên vị trí tương ứng, scale phối hợp, reveal có mask và phối cảnh
+Tiêu đề cũ phải biến mất trước khi tiêu đề mới chiếm cùng không gian
+Tránh chữ chồng lên nhau, camera đột ngột reset, khoảng trống dài và các crossfade toàn khung tùy tiện
+Cắt gọn mọi bìa quá khổ và chuyển động camera theo đúng biên sân khấu bo góc
+Không dùng hạt, vòng shockwave, lens flare, rung camera hay footage stock không liên quan
+</motion_quality>
+
+<audio> Tạo hoặc chọn nhạc điện tử có thể sử dụng cho mục đích thương mại, khoảng 120 BPM Dùng nhịp pulse sạch, bass ấm, các yếu tố giai điệu tiết chế và điểm nhấn chuyển cảnh tinh tế Đồng bộ các lần xuất hiện, lựa chọn, zoom quan trọng và reveal logo với các sự kiện trong nhạc Giữ hiệu ứng nhỏ hơn nhạc Không dùng voiceover Không sử dụng các bản nhạc thương mại có bản quyền nếu chưa được cấp phép </audio>
+<implementation_and_validation>
+Xây dựng animation xác định, điều khiển bằng thời gian tuyệt đối thông qua hàm async window. seek(t)
+Mọi transform, opacity, mask và trạng thái UI phải tái hiện được khi seek đến các frame theo bất kỳ thứ tự nào
+Không phụ thuộc vào timer chạy thực, physics tích lũy hay trạng thái CSS transition trong quá trình export
+
+Render đúng 60 fps với khử răng cưa không gian
+Dùng 3–5 mẫu subframe theo thời gian cho mỗi frame đầu ra để tạo motion blur tiết chế
+Giữ chữ và artwork tĩnh sắc nét
+Kiểm tra contact sheet và bản playback chuyển động
+Kiểm tra các lần đổi heading nhanh, chuyển giao artwork, zoom, hội tụ bìa và khoảng cách của wordmark cuối
+Xác minh timestamp của các frame cách đều nhau và tổng thời lượng đủ 18 giây
+Sửa mọi lỗi hình ảnh trước khi bàn giao MP4 cuối cùng và source có thể chỉnh sửa
+</implementation_and_validation>
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video or supplied assets are required.
+
+<deliverables> An 18-second MP4 at 1920×1080 and true 60 fps, with music and subtle sound effects Complete editable source Build, render, inspect, and refine the animation before delivering it Do not stop at a storyboard, still images, or an implementation plan </deliverables>
+<art_direction>
+A premium music-product film presented inside a large, nearly black rounded rectangular stage
+The stage occupies roughly 80% of the canvas width and 75% of its height, centered horizontally and slightly below the vertical center
+Outside the stage, use a soft atmospheric green background: luminous emerald near the upper-left corner, deeper forest green toward the sides, fading to near-black at the bottom
+Inside the stage:
+Near-black background
+White primary typography
+Muted gray secondary text
+Spotify green # 1ED760 for emphasis and controls
+One clean sans-serif font, such as Geist or Inter
+Consistent icon strokes and restrained shadows
+Keep compositions compact and centered, with substantial negative space
+Text should feel like music-product advertising, not oversized presentation headings
+Do not add an outer caption, creator watermark, decorative footer, or progress counter
+</art_direction>
+
+<artwork> Create original square album artwork for a fictional track called “Glass Tides” by “AURA”
+The hero cover is an abstract macro image of flowing pearlescent liquid silk and molten glass
+Use pastel lavender, powder cyan, blush pink, champagne gold, and subtle mint
+Include broad three-dimensional folds, realistic reflective highlights, delicate striations, and a prominent sweeping S-shaped fold
+Fill the square edge to edge
+No text, logo, or border on this hero artwork
+Use this same artwork consistently throughout the film
+
+Create additional designed playlist sleeves:
+“Late Nights” in mustard yellow
+“Good Energy” in pink
+“Deep Focus” in blue
+“Daily Mix 1”, “Daily Mix 2”, and “Daily Mix 3” in complementary colors
+
+These should look like finished graphic-design covers, with bold typography and simple geometric motifs
+</artwork>
+
+<timeline> 0.0–0.6 seconds: A green Spotify icon grows smoothly into the center of the dark stage Give it a confident arrival with minimal overshoot
+0.6–1.5 seconds:
+The icon transitions into a small Spotify identity above two centered lines:
+“Discover”
+“new music”
+The first line is white; the second is green
+Reveal them with short masked vertical movements
+1.5–2.4 seconds:
+A stylized Spotify desktop interface rises into view
+Show a slim sidebar, “Made for you”, three album cards, and small supporting rows
+Use a subtle perspective tilt during the entrance, settling toward a frontal view
+2.4–3.2 seconds:
+Move closer to the three featured covers
+Show “New for you” above them
+Keep the artwork crisp, with short album titles beneath
+A narrow rounded player bar now anchors the bottom of the stage
+3.2–4.0 seconds:
+The featured cards withdraw into a compact “Fresh finds” list
+Reveal four song rows with a slight stagger
+Each row contains a thumbnail, short track title, artist, and a small menu icon
+4.0–4.9 seconds:
+Transition into a horizontal strip of colorful playlist covers
+Heading: “Every mood”
+Supporting line: “Find what moves you”
+The strip slides smoothly sideways, with edge cards partially cropped by the stage
+4.9–5.8 seconds:
+A compact search field appears
+Type “Glass Tides”
+Reveal one selected result beneath it, with the iridescent artwork, “AURA”, and a green play icon
+
+5.8–6.6 seconds:
+The selected artwork expands into a large centered cover
+Reveal “Glass Tides” underneath, followed by “AURA” in green
+Keep the player bar visible
+6.6–7.5 seconds:
+The same cover slides left
+Track information appears on the right:
+“Glass Tides”
+“AURA”
+“A new frequency”
+Add a rounded green Play button
+Coordinate the cover movement and text reveals
+7.5–8.3 seconds:
+A brief brand-color transformation fills the inner stage with green
+The artwork contracts into a smaller centered tile
+Place a small dark Spotify identity underneath
+The player briefly recedes
+8.3–9.8 seconds:
+Return to the dark stage
+The same artwork expands dramatically toward the camera, becoming oversized and cropped by the rounded stage
+Restore the player at the bottom
+Use controlled motion blur during the fastest part of the zoom
+
+9.8–11.2 seconds:
+The artwork clears into a centered typographic statement:
+“Find your”
+“rhythm”
+Use white for the first line and green for the second
+The player remains visible and stable beneath it
+11.2–12.5 seconds:
+Show “Made for your every day”
+Three playlist sleeves enter with gentle perspective and small opposing tilts
+They spread into six smaller sleeves across the stage
+Supporting line: “Your sound, always evolving”
+
+12.5–14.0 seconds:
+The playlist layout transitions into four floating album covers
+Include the iridescent hero artwork
+Use restrained rotation, perspective, depth ordering, and overlap
+Keep their movement coordinated rather than randomly floating
+14.0–15.2 seconds:
+The covers converge toward the center and fold around a green Spotify icon
+The artwork withdraws as the icon becomes the focal point
+Fade the player away
+The Spotify icon must emerge from the same central position as the converging covers
+15.2–18.0 seconds:
+The icon moves slightly left and settles beside a large white “Spotify” wordmark
+Keep the icon and letters separated throughout the movement
+Reveal:
+“Discover new music”
+“every day”
+The first line is white; the second is green
+Hold the finished composition cleanly through the end
+</timeline>
+<persistent_player>
+For most of the middle sequence, keep one narrow rounded player bar near the bottom of the inner stage
+Include:
+Small hero-art thumbnail
+“Glass Tides” and “AURA”
+Play and skip controls
+A thin progress track
+A small volume icon
+Subdued dark translucent styling with a fine border
+This recurring player connects the changing shots
+It must remain visually secondary to the artwork
+</persistent_player>
+
+<motion_quality>
+Match the energy of a tightly edited premium product film
+Most visual ideas last approximately one second, but transitions remain smooth
+Use continuous acceleration and deceleration
+Favor critically damped springs or carefully tuned smooth easing
+No repeated bouncing or large elastic overshoots
+Preserve the hero artwork’s identity and position relationships through search, album detail, brand tile, and zoom
+Use match-position transitions, coordinated scaling, masked reveals, and perspective
+Outgoing titles must disappear before incoming titles occupy the same space
+Avoid overlapping text, sudden camera resets, long blank intervals, and arbitrary full-frame crossfades
+Clip every oversized cover and camera move cleanly to the rounded stage
+No particles, shockwave rings, lens flares, camera shake, or unrelated stock footage
+</motion_quality>
+
+<audio> Create or select commercially usable electronic music around 120 BPM Use a clean pulse, warm bass, restrained melodic elements, and subtle transition accents Align important entrances, selections, zooms, and the logo reveal with musical events Keep effects quieter than the music No voiceover Do not use copyrighted commercial tracks without permission </audio>
+<implementation_and_validation>
+Build a deterministic animation driven by absolute time through an async window. seek(t) function
+Every transform, opacity, mask, and UI state must be reproducible when seeking frames in any order
+Do not depend on live timers, accumulated physics, or CSS transition state during export
+
+Render true 60 fps with spatial antialiasing
+Use 3–5 temporal subframe samples per output frame for restrained motion blur
+Keep stationary text and artwork sharp
+Inspect contact sheets and moving playback
+Check the fast heading changes, artwork handoffs, zoom, cover convergence, and final wordmark spacing
+Verify evenly spaced frame timestamps and the full 18-second duration
+Fix visual defects before delivering the final MP4 and editable source
+</implementation_and_validation>
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103801834930606193) · [Bài đăng gốc](https://x.com/brainextends/status/2103801834930606193) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103504887439065439"></a>
 
 ### Showreel thiết kế chuyển động 15 giây đầy năng lượng
@@ -2539,202 +3006,7 @@ make me a model of the Hundenberg on blender make me a realistic video of the ac
 
 ---
 
-<a id="claude-opus-5-5-2102544406117286004"></a>
 
-### Bản render 3D sân bóng ném 360 độ từ hình ảnh
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="Bản render 3D sân bóng ném 360 độ từ hình ảnh"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-**Prompt**
-
-```text
-Dựng 3D sân bóng ném, khung thành, trọng tài, cầu thủ và bóng trong hình ảnh để có thể xem từ mọi góc 360 độ. Tái hiện chính xác tư thế của từng nhân vật cũng như màu sắc của các vật thể.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544406117286004) · [Bài đăng gốc](https://x.com/chikaidev/status/2102545257372213581) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**Prompt**
-
-```text
-tái tạo hình ảnh này một cách hoàn hảo thành nền menu chính 3D bằng Three.js, hoàn toàn procedural và có hoạt ảnh, trong một tệp HTML duy nhất
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544196808667471) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2102544198335373576) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### Cỗ máy Rube Goldberg 3D tự vận hành
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Cỗ máy Rube Goldberg 3D tự vận hành"></a>
-
-**Prompt**
-
-```text
-Xây dựng một cỗ máy Rube Goldberg 3D tự vận hành dưới dạng một tệp index.html độc lập duy nhất trong thư mục hiện tại.
-
-Chuỗi hoạt động theo thứ tự:
-1. Một viên bi được thả từ trên cao và lăn xuống một loạt đường dốc ziczac.
-2. Viên bi làm đổ một hàng gồm ít nhất 12 quân đôminô.
-3. Quân đôminô cuối cùng làm nghiêng bập bênh, phóng một quả bóng nhỏ vào chiếc xô treo.
-4. Trọng lượng của chiếc xô kéo xô đi xuống; dây của xô vắt qua một ròng rọc và giật chuông, khiến chuông đung đưa rõ ràng.
-5. Cùng chuyển động đó kéo một lá cờ lên cột. Lá cờ chạm đỉnh là điểm kết thúc.
-
-Quy tắc:
-- Tự viết hệ vật lý, không dùng thư viện vật lý. Mọi chuyển động sau khi viên bi được thả phải xuất phát từ mô phỏng của bạn (vật thể cứng, va chạm, ràng buộc, dây và ròng rọc). Không dùng hoạt ảnh keyframe hoặc chuyển động tween cho bất kỳ bộ phận nào của máy.
-- Bạn có thể tải three.js từ CDN để kết xuất. Không được dùng bất kỳ tài nguyên bên ngoài nào khác: không hình ảnh, mô hình hay phông chữ.
-- Máy phải chạy mà không cần người dùng tương tác: tự động bắt đầu khi tải trang, sử dụng camera điện ảnh bám theo diễn biến và hoàn tất toàn bộ chuỗi trong khoảng 15–20 giây. Khi cờ đã được kéo lên, giữ nguyên trong 2 giây, sau đó đặt lại và phát lại.
-- Tính xác định: dùng bước thời gian cố định và không sử dụng tính ngẫu nhiên chưa khởi tạo seed, để mọi lần chạy đều giống nhau.
-- Hiển thị vừa toàn bộ cửa sổ trình duyệt. Nội dung sẽ được quay màn hình ở độ phân giải 1280×720.
-- Không hiển thị chữ hoặc bất kỳ giao diện người dùng nào trên màn hình.
-- Hãy tạo hình ảnh đẹp mắt: có ánh sáng, đổ bóng, vật liệu và bối cảnh khiến cỗ máy giống một cơ cấu thật.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544078927741369) · [Bài đăng gốc](https://x.com/leogao25/status/2102544081863717153) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit"></a>
-
-**Prompt**
-
-```text
-"Tạo một trò chơi tương tác về các con vật trong nông trại, sử dụng phong cách thiết kế/nghệ thuật của "Peter Rabbit"
-menu chính = bật/tắt âm thanh + chọn con vật (ngựa, lợn, bò, mèo, chó)
-esc = tạm dừng: đặt lại về điểm xuất phát/menu chính/
-dùng WASD để di chuyển
-phím cách để nhảy và tương tác với các con vật khác khi ở gần
-các tương tác được ngẫu nhiên hóa khi phát hiện ở gần
-có thể phát ra âm thanh với con vật kia (khác với âm thanh thụ động của chúng), kiểu "chạm nhẹ vào chúng"
-có thể tương tác với: nước để uống, cỏ khô để ăn, trái cây để ăn. 
-góc nhìn người thứ ba, nhưng camera ở hơi phía sau và phía trên con vật
-âm thanh nền gồm tiếng chim và máy bay thỉnh thoảng xuất hiện trên bầu trời (ngẫu nhiên)
-bối cảnh = vùng nông trại, chuồng ngựa, làng quê với các ngôi nhà (không thể vào nhà)
-Có đủ tài sản để thu hút sự chú ý, nhưng không cần nhiều đến mức phải đạt tiêu chuẩn sản xuất chuyên nghiệp; dự án này chỉ nhằm dành 15 phút trong ngày để tôi và con gái cùng vui chơi
-react, svg, js, webgl, threejs, hoặc bất cứ thứ gì cần thiết để trò chơi có cảm giác "mượt mà, thú vị""
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102538762731565085) · [Bài đăng gốc](https://x.com/blaso96/status/2102538764749037738) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn"></a>
-
-**Prompt**
-
-```text
-Tạo từ đầu một cảnh 3D tương tác hoàn toàn về một con tàu cướp biển đang vượt qua đại dương chuyển động dưới ánh hoàng hôn. Phong cách hình ảnh cần mang tính điện ảnh và cách điệu thay vì chân thực như ảnh chụp, nhưng vẫn phải cực kỳ phong phú, chi tiết, chỉn chu và tinh tế về mặt thị giác. Hãy xây dựng con tàu, đại dương, bầu trời, ánh sáng, vật liệu, cánh buồm, hệ thống dây chằng, đại bác, các chi tiết kết cấu nhỏ, bọt biển, vệt sóng, hạt, chuyển động, cách bố trí camera, bố cục, chiều sâu khí quyển và hiệu chỉnh màu. Kết quả cuối cùng phải tạo cảm giác như một tác phẩm 3D cao cấp, được sản xuất công phu, không phải nguyên mẫu, bản trình diễn kỹ thuật hay cảnh chất lượng thấp. Bắt đầu từ một trang hoàn toàn trống. Không sử dụng lại hoặc phụ thuộc vào bất kỳ dự án hay cảnh nào trước đó. Bạn có thể tự tạo các tài sản hoặc khi cần thì sử dụng tài sản và thư viện mã nguồn mở đáng tin cậy. Các yêu cầu bắt buộc: Không được xuất hiện bất kỳ loại văn bản nào ở bất cứ đâu trong cảnh. Không có tiêu đề, tên, logo, mô tả, ghi công, nhãn hoặc hướng dẫn điều khiển bằng bất kỳ ngôn ngữ nào. Bàn giao toàn bộ dự án dưới dạng một tệp trang độc lập duy nhất có thể mở trực tiếp trong trình duyệt web, với các tài sản được nhúng vào tệp trong phạm vi hợp lý nhất có thể. Đại dương, con tàu, cánh buồm và camera đều phải chuyển động tự nhiên, mượt mà. Tránh chuyển động chậm nhân tạo hoặc ì ạch. Con tàu phải tạo cảm giác thực sự đang di chuyển trên mặt nước. Không dùng các hình khối nguyên thủy làm kết quả hoàn thiện. Hãy xây dựng một con tàu cướp biển thuyết phục về hình ảnh và giàu chi tiết, bao gồm thân tàu được tạo hình cẩn thận, cột buồm, cánh buồm, hệ thống dây chằng, dây thừng, đại bác, lan can, đèn lồng, các cấu trúc trên boong và những chi tiết nhỏ dễ nhìn thấy. Ánh sáng phải làm nổi bật rõ hình học và vật liệu của con tàu. Tạo không khí hoàng hôn phong phú, đổ bóng đại dương có chiều sâu, phản chiếu, bọt biển thuyết phục và vệt sóng chi tiết phía sau cũng như xung quanh con tàu. Duy trì sự cân bằng hợp lý giữa chất lượng hình ảnh và hiệu năng thời gian thực, đảm bảo tương tác và chuyển động mượt mà mà không phải hy sinh chất lượng một cách rõ rệt. Tự động sử dụng các kỹ năng, công cụ, thư viện, kỹ thuật và tài sản hiện có phù hợp nhất để đạt kết quả tốt nhất. Không chờ tôi chỉ định nên sử dụng công nghệ nào. Hãy thực sự kiểm thử kết quả hoàn thiện trong trình duyệt web trên máy tính. Chụp ảnh màn hình, kiểm tra console của trình duyệt để tìm lỗi và khắc phục mọi vấn đề về hình ảnh hoặc kỹ thuật mà bạn phát hiện, bao gồm hình học bị biến dạng, màn hình đen, lỗi tải tài sản, chuyển động bị hỏng, bố cục kém, lỗi kết xuất hoặc vấn đề về camera. Cuối cùng, xác minh rằng tệp hoàn thiện có thể mở và hoạt động trực tiếp, cảnh hoàn toàn không có văn bản và không còn lỗi runtime hoặc lỗi tải nào. Sau đó kết thúc tác vụ chỉ bằng một phản hồi ngắn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102533729746882985) · [Bài đăng gốc](https://x.com/vib3coded/status/2102534606121746589) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-
-[Danh mục đầy đủ](catalog.vi.md) · **1 / 9** · [→](catalog.vi.2.md)
+[Danh mục đầy đủ](catalog.vi.md) · **1 / 10** · [→](catalog.vi.2.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

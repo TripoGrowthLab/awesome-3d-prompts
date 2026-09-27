@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 3 / 9
+# Awesome 3D Prompts — 3 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.3.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Полный каталог](catalog.ru.md) · [←](catalog.ru.2.md) · **3 / 9** · [→](catalog.ru.4.md)
+[Полный каталог](catalog.ru.md) · [←](catalog.ru.2.md) · **3 / 10** · [→](catalog.ru.4.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [3D-мир с очень высокими небоскрёбами](#gpt-6-astra-2099487024256589970)
+- [Модель хвойного дерева до 200 полигонов](#gpt-6-astra-2099472264270102705)
+- [Интерактивная 3D-сцена с самураем в лесу](#gpt-6-astra-2099450933067612421)
+- [Игровая 3D-полоса препятствий](#gpt-6-astra-2099419671481249851)
+- [Модельная железная дорога с автономным предотвращением столкновений](#gpt-6-astra-2099362575339372780)
 - [Переосмыслить замок Пич в 3D](#gpt-6-astra-2099359786865402019)
 - [Интерактивный 3D-атлас анатомии](#gpt-6-astra-2099206962344800541)
 - [Играбельный 3D-фрагмент прибрежного района для браузера](#gpt-6-astra-2099172061092381027)
@@ -73,13 +78,143 @@
 - [Деревенский ландшафт в духе Skyrim по сгенерированному референсу](#gpt-6-astra-2097167383576383502)
 - [Анимация японского цветочного магазина с разбором на слои](#gpt-6-astra-2097153139795468365)
 - [Риггинг и анимация пальцеходящего меха в Godot](#gpt-6-astra-2097123382852829230)
-- [Интерактивное желейное лимонное дерево](#gpt-6-astra-2097065330728128920)
-- [Интерактивный робот-питомец на верстаке](#gpt-6-astra-2097004192627933279)
-- [12-секундная лесная дорога в Blender](#gpt-6-astra-2096986557244723371)
-- [Интерактивный китайский дворик](#gpt-6-astra-2096971051334857181)
-- [Ландшафтный мир для VRChat «Горизонт, где сломалась гравитация»](#gpt-6-astra-2096966425017467344)
 
 </details>
+<a id="gpt-6-astra-2099487024256589970"></a>
+
+### 3D-мир с очень высокими небоскрёбами
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="3D-мир с очень высокими небоскрёбами"></a>
+
+**Промпт**
+
+```text
+создай 3D-мир с очень высокими небоскрёбами
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+build a 3D world full of very high skyscrapers
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099487024256589970) · [Исходная публикация](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099472264270102705"></a>
+
+### Модель хвойного дерева до 200 полигонов
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="Модель хвойного дерева до 200 полигонов"></a>
+
+**Промпт**
+
+```text
+Не могли бы вы создать хвойное дерево с количеством полигонов не более 200?
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+200ポリゴン以下で針葉樹を作ってみてくれませんか？
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099472264270102705) · [Исходная публикация](https://x.com/Watamos827/status/2099472264270102705) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099450933067612421"></a>
+
+### Интерактивная 3D-сцена с самураем в лесу
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="Интерактивная 3D-сцена с самураем в лесу"></a>
+
+**Промпт**
+
+```text
+Создайте интерактивную 3D-сцену с самураем в лесу, добавив управление камерой, кинематографичное освещение, детали окружения и аккуратную подачу.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099450933067612421) · [Исходная публикация](https://x.com/JaynitMakwana/status/2099450933067612421) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099419671481249851"></a>
+
+### Игровая 3D-полоса препятствий
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="Игровая 3D-полоса препятствий"></a>
+
+**Промпт**
+
+```text
+Небольшая 3D-полоса препятствий с персонажем, движущимися препятствиями, собираемыми предметами и простой зоной финиша.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099419671481249851) · [Исходная публикация](https://x.com/heyDhavall/status/2099419671481249851) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099362575339372780"></a>
+
+### Модельная железная дорога с автономным предотвращением столкновений
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="Модельная железная дорога с автономным предотвращением столкновений"></a>
+
+**Промпт**
+
+```text
+Создай модельную железную дорогу минимум с тремя поездами, одновременно движущимися по общей путевой схеме со стрелками и сигналами. Поезда должны самостоятельно переключать стрелки и останавливаться перед сигналами, чтобы никогда не сталкиваться, без какого-либо ввода со стороны пользователя. Схему, окружение и внешний вид всех элементов выбери самостоятельно. Все решения по дизайну — стиль, цвета, настроение, окружение, камеру, уровень детализации и любые дополнительные штрихи — оставь за собой. Не задавай мне вопросов: самостоятельно прими все решения и за одну попытку создай наиболее впечатляющую версию. Технические требования: один самодостаточный HTML-файл, без внешних моделей, изображений, звуков и URL-адресов ресурсов любого типа (JavaScript-библиотека из CDN разрешена). Симуляция должна запускаться автоматически сразу после загрузки, без необходимости нажимать какие-либо кнопки, и работать плавно, не выдавая ошибок в консоли.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099362575339372780) · [Исходная публикация](https://x.com/free_ai_guides/status/2099362575339372780) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099359786865402019"></a>
 
 ### Переосмыслить замок Пич в 3D
@@ -3635,952 +3770,7 @@ can you rig and animate this glb, i want to see the digitigrade legs walking con
 
 ---
 
-<a id="gpt-6-astra-2097065330728128920"></a>
 
-### Интерактивное желейное лимонное дерево
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/f961be372cbdd030026a4ff827932ad6790c2c3dd5d588be37fa918dc67809b3.webp" width="840" loading="lazy" alt="Интерактивное желейное лимонное дерево"></a>
-
-**Промпт**
-
-```text
-создайте интерактивное желейное лимонное дерево с помощью WebGPU
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-build an interactive jelly lemon tree using WebGPU
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097065330728128920) · [Исходная публикация](https://x.com/vib3coded/status/2097065330728128920) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097004192627933279"></a>
-
-### Интерактивный робот-питомец на верстаке
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/37d5dac5d594ea7e83a1cab04ca45dc29688ef30b9dd6ea18cc2d0df43537ced.webp" width="840" loading="lazy" alt="Интерактивный робот-питомец на верстаке"></a>
-
-**Промпт**
-
-```text
-ПОЛНАЯ СПЕЦИФИКАЦИЯ.
-СОХРАНИ ЕЁ В ФАЙЛЕ В ПАПКЕ ПРОЕКТА, А НЕ В ВИДЕ СООБЩЕНИЯ В ЧАТЕ.
-ЗАТЕМ: /goal собери это в three.js, прочитай SPEC.md и следуй ему
-в точности, особенно разделам 9 и 10.
-
-{ НАЧАЛО }
-
-1 ЧТО ЭТО ТАКОЕ
-
-на верстаке живёт небольшой четырёхногий робот. его можно заряжать,
-с ним можно играть и поручать ему три задания. он никогда не покидает верстак,
-и ты тоже. в этом и заключается вся игра.
-
-Эту сборку держат на себе только две вещи: внешний вид робота
-и его движения. всю игру игрок смотрит на один объект с фиксированного расстояния,
-поэтому на него должно быть интересно смотреть,
-а двигаться он должен так, будто живой.
-
-это не говорящий питомец. никаких голосов, рта, лица на экране,
-и он никогда не повторяет за тобой. это машина, которая обращает на тебя
-внимание, а это совсем другое — и гораздо лучше.
-
-2 РОБОТ
-
-размером примерно с кошку, на четырёх ногах.
-
-пропорции — вот откуда берётся обаяние:
-- корпус — скруглённый блок, шире, чем выше, длиной примерно в две ширины головы.
-  он должен выглядеть тяжёлым.
-- голова крупная относительно корпуса — примерно 40 процентов его высоты —
-  и вынесена вперёд на короткой шее. она должна выглядеть любопытной.
-  не голова в стиле чиби, и глаза не должны быть большими.
-- ноги тонкие по сравнению с корпусом, поэтому тяжёлая конструкция
-  держится на лёгких конечностях. этот контраст делает походку
-  изящной, а не неуклюжей.
-- короткий хвост, который на самом деле служит противовесом и качается как противовес
-- одна короткая антенна на голове, которая хлёстко отклоняется и успокаивается на пол
-  такта позже каждого движения. почти ничего не стоит, зато это
-  главный источник живости во всей модели.
-
-три материала, не больше:
-1 окрашенная панель — мягкий костяной белый цвет, матовая, слегка тёплая. покрывает
-  спину, бёдра и верхнюю часть головы. не менее 60 процентов
-  видимой поверхности, иначе робот будет выглядеть как куча деталей.
-2 голый обработанный металл — холодный средне-серый, на ногах, раме, суставах и
-  шее. тёплая латунь — только на кольцах суставов.
-3 тёмная резина, почти чёрная и матовая, на четырёх ступнях, защитном чехле шеи
-  и кабеле.
-
-лицо: две круглые линзы одинакового размера, широко расставленные и утопленные
-за обработанной канавкой поперёк лба. канавка — это обработанный край,
-а не бровь, и она никогда не двигается. вся выразительность
-передаётся углом наклона головы, антенной и яркостью линз.
-
-один дефект: одна панель на плече немного другого оттенка,
-словно её однажды заменили. ничто не должно привлекать к этому внимание.
-
-проверка силуэта, прошёл или не прошёл: отрендери робота чисто чёрным на
-белом фоне в разрешении 64 на 64 пикселя, сбоку и в ракурсе три четверти. голова, поднятая
-вверх, зазор между головой и корпусом, четыре ноги с
-просветами между ними и хвост — всё это должно по-прежнему читаться. если какие-либо
-две массы сливаются, меняй модель, а не рендер.
-
-3 БАТАРЕЯ — ЭТО ИНДИКАТОР ПРОГРЕССА
-
-вдоль одного бока проходит полоска из пяти ячеек, светящихся янтарным. они
-гаснут по одной по мере разрядки и загораются по одной во время
-зарядки. на экране нет ни числа, ни полосы.
-
-5 ячеек  бодрый, голова поднята, хвост качается
-4        нормально
-3        медленнее, голова слегка опущена
-2        между действиями садится, а не стоит
-1        сам идёт к зарядной площадке и ждёт
-0        складывает ноги и выключается там, где стоит,
-         линзы погасли — робот ждёт, когда его перенесут на площадку
-
-он никогда не ломается и не умирает, а при нулевом заряде ничего не теряется.
-
-4 КАК ОН ДВИГАЕТСЯ
-
-- настоящая походка. диагональные пары ног: лапы стоят на верстаке и
-  остаются на месте, пока корпус проходит над ними. лапы не
-  скользят.
-- вес. корпус проседает над нагруженной парой ног. при старте он наклоняется
-  вперёд ещё до начала движения. при остановке делает один короткий шаг, чтобы
-  удержать равновесие.
-- он следит за вами. голова следует за курсором, пока курсор находится над
-  верстаком, а шея начинает поворот раньше корпуса.
-- он восстанавливает равновесие. если его толкнуть, он пошатывается, широко ставит лапу и
-  выпрямляется. он никогда не падает.
-- он успокаивается. стоя без движения, он каждые несколько секунд переносит вес с ноги на ногу,
-  а линзы медленно моргают: тускнеют и снова загораются, но
-  не закрываются.
-
-с практикой он становится лучше. каждое выполненное задание немного уменьшает шаткость
-и немного ускоряет движения — до определённого предела.
-это никак не объявляется. после двадцатого задания он заметно двигается
-как машина, которая знает, что делает, и это изменение —
-единственный элемент прогрессии в игре.
-
-5 ВЕРСТАК
-
-один верстак, видимый с фиксированного расстояния. тёплый, с рабочими следами.
-
-столешница из потёртого светлого дерева. за ней — однотонная холодная серо-зелёная стена.
-робот из непокрытого металла, с тёплой латунью на шарнирах. линзы и элементы
-янтарные — это единственный светящийся цвет. тёплый свет лампы падает с одной стороны,
-отбрасывая длинную мягкую тень. всё остальное приглушено.
-
-на верстаке: зарядная площадка со свёрнутым кабелем, банка с
-болтами, свёрнутая ткань, небольшой ящик, настольная лампа, резиновый мяч,
-жестяная миска. больше ничего.
-
-лампа — единственный источник света. когда робот проходит
-перед ней, его тень скользит по верстаку.
-
-6 ПОКАЗЫВАТЬ ТОЛЬКО ЧЕРЕЗ ИСПОЛЬЗОВАНИЕ
-
-- вы тащите мяч по верстаку, и голова робота следит
-  за ним, прежде чем корпус поворачивается вслед
-- вы ставите робота на зарядную площадку, и загорается один элемент, затем
-  следующий, с паузой между каждым
-- вы толкаете его сбоку, и он пошатывается, ловит равновесие на широко поставленной
-  лапе и выпрямляется
-- вы бросаете болт в жестяную миску, робот подходит, подхватывает его
-  ротовыми пластинами и относит в банку
-- вы оставляете его без внимания, и он подходит к краю верстака, смотрит
-  вниз и отступает
-- вы проводите пальцем по панели на его спине, и он опускает корпус и
-  не двигается, пока вы не остановитесь
-
-покажите всё это в действии. никогда не объясняйте происходящее подписью.
-
-7 ТРИ ЗАДАНИЯ
-
-каждое нужно, чтобы показать отдельный тип движения; каждое запускается
-размещением предмета на верстаке, а не через меню.
-
-принести  бросьте болт куда угодно. робот подойдёт, подхватит его и отнесёт
-       к банке. показывает походку и поворот.
-сложить  выставьте три ящика. робот по одному сдвинет их в стопку.
-       показывает толкание, упор и подъём.
-догнать  катните мяч. робот пробежит за ним, остановит лапой и
-       принесёт обратно. показывает бег, скольжение и остановку.
-
-каждое задание немного расходует заряд. задание при 2 элементах выполняется медленнее
-и шатче, чем то же задание при 5. без очереди, без порядка, без
-таймера и без награды.
-
-8 ИНТЕРФЕЙС
-
-внизу по центру: одна карточка-подсказка, появляющаяся, когда что-то находится в пределах досягаемости,
-с указанием клавиши или жеста перетаскивания и действия; карточка исчезает, когда
-объект выходит из зоны досягаемости.
-
-больше ничего на экране нет. Никакой шкалы заряда, индикатора настроения,
-индикатора голода, монет, уровней, опыта, звёзд,
-таймера, меню, настроек, всплывающей подсказки, плавающей подписи
-над роботом.
-
-Всё, что игроку нужно знать, отображается на корпусе робота.
-
-Камера зафиксирована на верстаке: вид спереди в три четверти,
-с небольшим наклоном сверху. Вертикальный угол обзора — 40 градусов. Робот занимает
-от 30 до 45 процентов высоты кадра в центре верстака.
-Каждая ячейка батареи должна быть шириной не менее 8 пикселей при 1080p. Весь
-верстак всегда должен помещаться в кадре. Перетаскиванием можно вращать камеру примерно на 60
-градусов, но не больше. Камера никогда не покидает пределы верстака и
-никогда не переключается на другой план.
-
-9 ЧТО ЗАПРЕЩЕНО — ПОИМЁННО
-
-Питомец: никаких голосов, разговоров, повторения ваших слов,
-микрофона, лица на экране, рта, бровей,
-мультяшных глаз со зрачками, сердечек, эмодзи, облачка с репликой,
-ввода имени, костюмов, шляп и мастерской покраски.
-
-Монетизация free-to-play: никаких монет, кристаллов, валюты любого вида,
-магазина, рекламы, ежедневных наград, серий входов, уведомлений,
-энергии, которую нужно покупать, таймера ожидания, уровней,
-шкалы опыта, достижений и таблицы лидеров.
-
-Игровой процесс: никаких врагов, боёв, здоровья, урона и смерти,
-поломок, мини-игры с ремонтом, состояний проигрыша, счёта и
-таймера, маркеров заданий, кат-сцен и иллюстраций на экране загрузки.
-
-Повторы из моих предыдущих проектов: никаких пляжей, пальм, крабов,
-парящих островов, фонарей, цветущей сакуры, ниндзя и
-сюрикенов, воксельных блоков, кирок, лавы, машин, городов,
-подводного мира и ламинарии.
-
-Рендеринг: никаких реалистичных текстур, жёстких теней, бликов линз и
-плёночного зерна, чёрных полос, размытия глубины резкости и хроматической
-аберрации, серого тумана на экране. Свечение — только на линзах и
-ячейках батареи, больше нигде.
-
-10 БЮДЖЕТ РАЗРАБОТКИ
-
-Эту сборку нужно завершить за одну рабочую сессию. Всё перечисленное ниже
-категорически исключено из этой версии. Не добавляйте это, не оставляйте заглушки и не
-создавайте для этого задачи в TODO.
-
-никаких вторых комнат и открытых пространств
-никакого второго робота
-никаких сохранений и загрузок: после перезагрузки появляется новый робот
-никакого физического движка: самописная обратная кинематика для четырёх ног
-  на плоской поверхности плюс простые коробочные коллизии для предметов на верстаке
-никаких ragdoll-физик
-никакого звука
-никаких меню, настроек и экрана паузы
-не больше трёх заданий
-никакой смены дня и ночи
-
-Время нужно распределять в таком порядке:
-1 пропорции робота и проверка силуэта
-2 цикл ходьбы и постановка лап
-3 слежение головой, антенна и успокоение движений
-4 состояния батареи и зарядная площадка
-5 три задания
-6 оформление верстака
-
-Если время выйдет, выпускайте игру с пустым верстаком и красивым роботом,
-который хорошо ходит. Но не наоборот. Пустой верстак с
-хорошим роботом — это законченная игра. Нарядный верстак с деревянным роботом
-не стоит ничего.
-
-Прежде чем объявить работу законченной, докажите эти четыре пункта рендерами, а не
-словами: тест силуэта в разрешении 64 пикселя с двух ракурсов, цикл ходьбы
-при 5 ячейках и тот же цикл при 2 ячейках, отслеживание головой
-курсора по всей дуге вращения, а также робота при 5 ячейках и при 0
-ячейках — рядом друг с другом.
-
-собери это, а затем назови три вещи, которые ты бы исправил в первую очередь.
-
-{ END }
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-THE FULL SPEC.
-SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
-THEN: /goal build this in three.js, read SPEC.md and follow it
-exactly, especially sections 9 and 10.
-
-{ START }
-
-1 WHAT THIS IS
-
-a small four-legged robot lives on a workbench. you charge it,
-play with it, and give it three jobs. it never leaves the bench
-and neither do you. that is the whole game.
-
-two things carry this build and nothing else does: how the robot
-looks, and how it moves. the player spends the entire game
-looking at one object from a fixed distance, so that object has
-to be worth looking at, and it has to move like it is alive.
-
-it is not a talking pet. no voice, no mouth, no face on a screen,
-and it never repeats what you say. it is a machine that pays
-attention to you, which is a different and better thing.
-
-2 THE ROBOT
-
-about the size of a cat, on four legs.
-
-proportion, which is where charm comes from:
-- the body is a rounded block, wider than tall, about two head
-  widths long. it reads heavy.
-- the head is large for the body, roughly 40 per cent of body
-  height, and sits forward on a short neck. it reads curious.
-  not a chibi head, and the eyes are not big.
-- the legs are slender next to that body, so a heavy thing is
-  carried on light limbs. that contrast is what makes the walk
-  look delicate rather than clumsy.
-- a stub tail that is really a counterweight, and swings like one
-- one short antenna on the head that whips and settles half a
-  beat behind every movement. costs almost nothing, and it is the
-  single biggest source of life in the whole model.
-
-three materials, no more than three:
-1 painted panel, soft bone white, matte, slightly warm. over the
-  back, the haunches and the top of the head. at least 60 per
-  cent of the visible surface or it reads as a pile of parts.
-2 bare machined metal, cool mid grey, on legs, frame, joints and
-  neck. warm brass at each joint ring only.
-3 dark rubber, near black and matte, on the four feet, the neck
-  sleeve and the cable.
-
-the face: two round lenses of equal size, set wide, recessed
-behind a machined groove across the brow. the groove is a
-machined edge, not an eyebrow, and it never moves. all expression
-comes from head angle, antenna and lens brightness.
-
-one flaw: one shoulder panel is a slightly different shade, as
-though replaced once. nothing draws attention to it.
-
-silhouette test, pass or fail: render the robot pure black on
-white at 64 by 64 pixels, from the side and three quarters. the
-raised head, the gap between head and body, four legs with
-daylight between them, and the tail must all still read. if any
-two masses merge, change the model, not the render.
-
-3 THE BATTERY IS THE PROGRESS BAR
-
-a strip of five cells runs along one flank, lit amber. they go
-out one at a time as it runs down and light one at a time as it
-charges. nothing on screen shows a number or a bar.
-
-5 cells  brisk, head up, tail swinging
-4        normal
-3        slower, head slightly lower
-2        it sits down between actions instead of standing
-1        it walks to the charging pad on its own and waits
-0        it folds its legs and powers down where it stands,
-         lenses dark, waiting to be carried to the pad
-
-it never breaks, never dies, and nothing is lost at zero.
-
-4 HOW IT MOVES
-
-- a real walk. diagonal pairs, feet planted on the bench and
-  staying there while the body passes over them. feet do not
-  slide.
-- weight. the body dips on the loaded pair. starting, it leans
-  forward before it moves. stopping, it takes one short step to
-  catch itself.
-- it watches you. the head follows the cursor whenever the cursor
-  is over the bench, and the neck leads the turn before the body.
-- it recovers. nudge it and it staggers, plants a leg wide, and
-  rights itself. it never falls over.
-- it settles. standing still it shifts weight every few seconds,
-  and the lenses do a slow blink: they dim and come back, they do
-  not close.
-
-it gets better with practice. every job done makes the wobble a
-little smaller and the movement a little faster, up to a limit.
-nothing announces this. by the twentieth job it visibly moves
-like a machine that knows what it is doing, and that change is
-the only progression in the game.
-
-5 THE BENCH
-
-one workbench, seen from a fixed distance. warm, worked in.
-
-bench top worn pale timber. wall behind cool grey green, plain.
-robot bare metal with warm brass at the joints. lenses and cells
-amber, the only lit colour. lamp light warm, from one side,
-casting a long soft shadow. everything else muted.
-
-on the bench: a charging pad with a coil of cable, a jar of
-bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
-a tin bowl. nothing else.
-
-the lamp is the only light source. when the robot crosses in
-front of it, its shadow sweeps across the bench.
-
-6 DESCRIBED ONLY THROUGH USES
-
-- you drag the ball across the bench and the robot's head tracks
-  it before its body turns to follow
-- you put the robot on the charging pad and one cell lights, then
-  the next, with a pause between each
-- you nudge it from the side and it staggers, catches itself on a
-  wide leg, and straightens
-- you drop a bolt in the tin bowl and it walks over, picks it up
-  in its mouth plates, and carries it to the jar
-- you leave it alone and it walks to the edge of the bench, looks
-  over, and backs away
-- you scratch the panel on its back and it lowers its body and
-  holds still until you stop
-
-show all of this happening. never explain it in a caption.
-
-7 THE THREE JOBS
-
-each exists to show a different kind of motion, and each is asked
-for by putting an object on the bench, never by a menu.
-
-fetch  drop a bolt anywhere. it walks over, picks it up, takes it
-       to the jar. shows the walk and the turn.
-stack  put three crates out. it pushes them into a stack, one at
-       a time. shows the push, the brace and the lift.
-chase  roll the ball. it runs it down, stops it with a foot, and
-       brings it back. shows the run, the skid and the stop.
-
-each job costs a little charge. a job done at 2 cells is slower
-and wobblier than the same job at 5. no queue, no order, no
-timer, no reward.
-
-8 THE INTERFACE
-
-bottom centre: a single prompt card when something is in reach,
-naming the key or the drag and the action, which disappears when
-it is not.
-
-nothing else on screen. no battery bar, no happiness meter, no
-hunger meter, no coins, no level, no experience, no stars, no
-timer, no menu, no settings, no tutorial popup, no floating label
-over the robot.
-
-everything the player needs to know is on the robot's body.
-
-camera: fixed on the bench, three quarters from the front and
-slightly above. 40 degree vertical field of view. the robot fills
-30 to 45 per cent of frame height at the centre of the bench.
-each battery cell at least 8 pixels wide at 1080p. the whole
-bench in frame at all times. drag to orbit through about 60
-degrees and no further. the camera never leaves the bench and
-never cuts.
-
-9 BANNED, EACH ONE NAMED
-
-the pet: no voice, no talking, no repeating what you say, no
-microphone, no face on a screen, no mouth, no eyebrows, no
-cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
-no name entry, no costume, no hats, no paint shop.
-
-free-to-play: no coins, no gems, no currency of any kind, no
-shop, no ads, no daily reward, no streak, no notification, no
-energy that must be bought, no wait timer, no level, no
-experience bar, no achievements, no leaderboard.
-
-gameplay: no enemies, no combat, no health, no damage, no dying,
-no breaking, no repair mini-game, no fail state, no score, no
-timer, no quest markers, no cutscene, no loading screen art.
-
-repeats of my earlier builds: no beach, no palm trees, no crabs,
-no floating islands, no lanterns, no cherry blossom, no ninja, no
-shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
-no underwater, no kelp.
-
-render: no realistic textures, no hard shadows, no lens flare, no
-film grain, no letterboxing, no depth of field blur, no chromatic
-aberration, no grey screen fog. bloom on the lenses and the
-battery cells and nothing else.
-
-10 THE BUILD BUDGET
-
-this build must finish in one working session. everything below
-is a hard no for this version. do not add it, do not stub it, do
-not leave a todo for it.
-
-no second room, no outdoors
-no second robot
-no saving or loading, a reload is a fresh robot
-no physics engine: hand-written inverse kinematics for four legs
-  on a flat plane, plus simple box collision on the bench props
-no ragdoll
-no sound
-no menus, no settings, no pause screen
-no more than three jobs
-no day cycle
-
-where the time must go, in this order:
-1 the robot's proportions and the silhouette test
-2 the walk cycle and the foot planting
-3 the head tracking, the antenna and the settle
-4 the battery states and the charging pad
-5 the three jobs
-6 the bench dressing
-
-if time runs out, ship with an empty bench and a beautiful robot
-that walks well. never the other way round. a bare bench with a
-good robot is a finished game. a dressed bench with a stiff robot
-is nothing.
-
-before you call it done, prove these four with renders, not with
-words: the silhouette test at 64 px from two angles, a walk cycle
-at 5 cells and the same walk at 2 cells, the head tracking the
-cursor across the full orbit, and the robot at 5 cells and at 0
-cells side by side.
-
-build it, then tell me the three things you would fix first.
-
-{ END }
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2097004192627933279) · [Исходная публикация](https://x.com/zeuuss_01/status/2097004192627933279) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096986557244723371"></a>
-
-### 12-секундная лесная дорога в Blender
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3aa6d0d4c63cd2fdf992963f8574169047d64b32012bdddd72df84f137a8d519.webp" width="840" loading="lazy" alt="12-секундная лесная дорога в Blender"></a>
-
-> Источник приведён частично.
-
-**Промпт**
-
-```text
-12-секундная лесная дорога в Blender
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Blender’da 12 saniyelik bir orman yolu
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096986557244723371) · [Исходная публикация](https://x.com/Jomolos/status/2096986557244723371) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096971051334857181"></a>
-
-### Интерактивный китайский дворик
-
-[Larus Canus](https://x.com/MrLarus) · 2026-09-07 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/afa942c78d5c1cccd6cecf00b5e59c53f0eea0e4e5271cc8dbf51b3fa6caf8e9.webp" width="840" loading="lazy" alt="Интерактивный китайский дворик"></a>
-
-**Промпт**
-
-```text
-Создай интерактивный китайский дворик с помощью Blender и Three.js, чтобы я мог исследовать его в браузере.
-
-Добавь белые стены, крыши с тёмной черепицей, лунные ворота, сосны, пруд и сад камней, а также гостиную, чайную комнату и спальню. Используй Python для запуска Blender в фоновом режиме, создания моделей и экспорта файлов GLB. Используй Three.js для освещения, отражений, анимации и интерактивности.
-
-Добавь управление орбитальной камерой, масштабирование, навигацию с помощью WASD, переключение дня и ночи, а также возможность скрывать и отображать крышу. Постепенно добавь текущую воду, карпов кои, прыгающих лягушек, стрекоз, дворового кота, воробьёв и светлячков, появляющихся ночью. Движения должны быть плавными, сдержанными и естественными.
-
-Создай оригинальный интерфейс, который не закрывает сцену. Работай поэтапно, проверяй результат в браузере, исправляй ошибки и подготовь запускаемый проект, исходные файлы и инструкции по настройке.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.
-
-Include white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.
-
-Support orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.
-
-Create an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096971051334857181) · [Исходная публикация](https://x.com/MrLarus/status/2096971051334857181) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096966425017467344"></a>
-
-### Ландшафтный мир для VRChat «Горизонт, где сломалась гравитация»
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/0495d0af2d899a6ca4a840202506ee1ecd4d45c049fa6de3bee6b6fbef82bfef.webp" width="840" loading="lazy" alt="Ландшафтный мир для VRChat «Горизонт, где сломалась гравитация»"></a>
-
-**Промпт**
-
-```text
-Создайте в Blender полный набор 3D-моделей ландшафтного мира для VRChat.
-
-Тема — 
-
-«Горизонт, где сломалась гравитация»
-
-.
-
-Только вершина холма, где стоит игрок, должна оставаться нормальной, тогда как весь дальний план должен быть сильно искажён с физической точки зрения.
-
-Сделайте всю сцену простой по форме.
-Вместо мелких деталей отдайте приоритет 
-крупным силуэтам
-
-аномальности дальнего плана
-форме смотровой площадки
-пространственной композиции
-.
-
-Состав
-
-Создайте следующие элементы.
-
-Вершина холма
-
-узкая прогулочная тропа
-неглубокий проход в грунте
-полукруглая смотровая площадка
-несколько скамеек
-сломанный информационный стенд
-центральное наблюдательное устройство
-город на дальнем плане
-вертикально стоящее море
-перевёрнутый горный хребет
-огромные чёрные柱ы
-пространственные разломы
-неподвижные облака
-смотровая площадка
-
-Смотровая площадка должна быть полукруглой.
-
-Не копируйте существующие смотровые площадки — форма должна быть полностью оригинальной.
-
-Особенности:
-
-полукруглая форма
-
-асимметрия по сторонам
-часть конструкции выступает в空中
-низкий бортик
-форма, рассчитанная на полупрозрачный материал
-частично деформирована из-за аномальной гравитации
-Не усложняйте конструкцию: она должна читаться как крупный силуэт даже издалека.
-
-Центральное наблюдательное устройство
-
-В центре смотровой площадки разместите простое устройство, сочетающее 
-
-полупрозрачную сферу
-
-незамкнутое кольцо
-прицельную рамку, направленную на чёрные柱ы
-.
-
-Дальний план
-
-Дальний план — главный приоритет.
-
-Создайте следующие элементы в виде крупных упрощённых форм.
-
-Город, падающий в небо
-
-Расположите группы коробчатых зданий так, чтобы они вытягивались в необычном направлении.
-
-Вертикальное море
-
-Установите огромную плоскость водной поверхности почти вертикально, под углом около 90 градусов.
-
-Перевёрнутый горный хребет
-
-Переверните по вертикали упрощённый силуэт гор.
-
-Чёрные柱ы
-
-Разместите на дальнем плане чрезвычайно огромные, тонкие и вытянутые чёрные柱ы.
-
-Они должны выглядеть не как здания, а как провалы в пространстве.
-
-Пространственные разломы
-
-Вокруг чёрных柱ов разместите крупные разорванные формы в виде пластин или лент.
-
-Предусмотрите для них эмиссионный материал.
-
-Рельеф
-
-Холм должен быть пологим и покрытым травой.
-
-От точки спавна до смотровой площадки проложите 
-
-узкую прогулочную тропу
-
-неглубокий проход в грунте
-.
-
-После выхода из прохода композиция должна открывать внезапный широкий вид на дальний план.
-
-Растительность
-
-Растительности должно быть минимум.
-
-Трава
-
-несколько низких кустарников
-лишь отдельные растения, наклонённые в аномальном направлении
-— этого достаточно.
-
-Принципы моделирования
-
-Допустима стилистика, близкая к low-poly.
-
-Не прорабатывайте мелкие детали чрезмерно.
-
-Активно используйте примитивы и в основном создавайте сцену из 
-
-Cube
-
-Plane
-
-Sphere
-
-Curve
-.
-Особенно сильно упростите дальний план.
-
-Важно не количество деталей, а 
-
-«чтобы при первом взгляде вдаль сразу было понятно: с миром что-то не так»
-
-.
-
-Организация сцены в Blender
-
-Разделите объекты по следующим коллекциям.
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-Организуйте сцену так, чтобы её было удобно переносить из Blender в Unity для VRChat.
-
-Главный приоритет — 
-
-«пейзаж как единый кадр, открывающийся со смотровой площадки»
-
-.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
-
-テーマは、
-
-「重力が壊れた地平線」
-
-です。
-
-プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
-
-全体はシンプルな造形にしてください。
-細かい装飾より、
-大きなシルエット
-
-遠景の異常さ
-展望台の形
-空間構成
-を優先してください。
-
-構成
-
-作るものは以下です。
-
-丘の頂上
-
-細い散策路
-浅い切通し
-半円形の観測デッキ
-少数のベンチ
-壊れた案内板
-中央観測装置
-遠景の都市
-垂直に立つ海
-逆さの山脈
-巨大な黒い柱
-空間断層
-静的な雲
-展望台
-
-展望台は半円形。
-
-既存の展望台を真似せず、完全オリジナル形状にしてください。
-
-特徴:
-
-半円形
-
-左右非対称
-一部が空中へ張り出す
-低い縁
-半透明素材を想定した形状
-一部だけ重力異常で変形
-複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
-
-中央観測装置
-
-展望台中央に、
-
-半透明球体
-
-不完全なリング
-黒い柱へ向いた照準フレーム
-を組み合わせたシンプルな装置を配置してください。
-
-遠景
-
-遠景は最重要です。
-
-以下を大きな簡略形状で作ってください。
-
-空へ落ちる都市
-
-箱形のビル群を、通常とは違う方向へ伸ばしてください。
-
-垂直の海
-
-巨大な水面プレーンを90度近く立てて配置してください。
-
-逆さの山脈
-
-簡略化した山のシルエットを上下反転してください。
-
-黒い柱
-
-非常に巨大で細長い黒い柱を遠景に配置してください。
-
-建物ではなく、空間の欠損のように見える形にしてください。
-
-空間断層
-
-黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
-
-発光マテリアルを想定します。
-
-地形
-
-丘はなだらかな草地。
-
-スポーン地点から展望台まで、
-
-細い散策路
-
-浅い切通し
-を作ってください。
-
-切通しを抜けると、遠景が一気に見える構図にしてください。
-
-植生
-
-植物は最小限。
-
-草
-
-少数の低木
-ごく一部だけ異常方向へ傾いた植物
-程度で十分です。
-
-モデリング方針
-
-ローポリ寄りで構いません。
-
-細部を作り込みすぎないでください。
-
-Primitiveを積極的に使い、
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
-を中心に作ってください。
-
-遠景は特に簡略化してください。
-
-重要なのはディテールではなく、
-
-「遠くを見た瞬間に世界がおかしいと分かること」
-
-です。
-
-Blender内の整理
-
-オブジェクトを以下のコレクションに分けてください。
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat用にUnityへ持っていきやすい構成にしてください。
-
-最優先は、
-
-「展望台から見た一枚絵としての景観」
-
-です。
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096966425017467344) · [Исходная публикация](https://x.com/shuminchuuu/status/2096966425017467344) · [Назад к примерам](#all-prompts)
-
----
-
-
-[Полный каталог](catalog.ru.md) · [←](catalog.ru.2.md) · **3 / 9** · [→](catalog.ru.4.md)
+[Полный каталог](catalog.ru.md) · [←](catalog.ru.2.md) · **3 / 10** · [→](catalog.ru.4.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ru/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Полный каталог →</a></strong></p>

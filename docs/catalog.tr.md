@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**447 Örnekler · 14 🌐**
+**452 Örnekler · 14 🌐**
 
-[Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md) · [2](../docs/catalog.tr.2.md) · [3](../docs/catalog.tr.3.md) · [4](../docs/catalog.tr.4.md) · [5](../docs/catalog.tr.5.md) · [6](../docs/catalog.tr.6.md) · [7](../docs/catalog.tr.7.md) · [8](../docs/catalog.tr.8.md) · [9](../docs/catalog.tr.9.md)
+[Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md) · [2](../docs/catalog.tr.2.md) · [3](../docs/catalog.tr.3.md) · [4](../docs/catalog.tr.4.md) · [5](../docs/catalog.tr.5.md) · [6](../docs/catalog.tr.6.md) · [7](../docs/catalog.tr.7.md) · [8](../docs/catalog.tr.8.md) · [9](../docs/catalog.tr.9.md) · [10](../docs/catalog.tr.10.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 121
+### Oyunlar · 122
 
+- [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Crazy Tanks — 3B Ada Topçuluğu](../docs/catalog.tr.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
@@ -40,7 +41,7 @@
 - [Birinci şahıs burger simülatörü](../docs/catalog.tr.1.md#gpt-6-astra-2102897258983313712) · [noclipepe](https://x.com/noclipepe)
 - [CatWalk: Gece şehrinde ilerleyen 3B yandan kaydırmalı kedi oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Tek bir HTML dosyasında 3B kart yarışı](../docs/catalog.tr.1.md#gpt-6-astra-2102652927177617564) · [Anshul](https://x.com/realanshull)
-- [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](../docs/catalog.tr.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](../docs/catalog.tr.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Battle City 3D: Sonsuz Tank Savunması](../docs/catalog.tr.2.md#battle-city-3d) · [jared](https://x.com/jaredliu_bravo)
 - [Sir, We Have Orc Problems tarzında kule savunma oyunu](../docs/catalog.tr.2.md#gpt-6-astra-2102411087002112256) · [nkz/ぴたすぽ](https://x.com/nikzu_)
@@ -55,7 +56,7 @@
 - [Kiklop’un Adası](../docs/catalog.tr.2.md#cyclops-island-threejs-game) · [Jared](https://x.com/jaredliu_bravo)
 - [PC için Splatoon geliştirme ve grafiklerin yeniden oluşturulması](../docs/catalog.tr.2.md#gpt-6-astra-2100193512373592313) · [basio](https://x.com/basio39)
 - [Erişilebilir prosedürel uzay keşif oyunu](../docs/catalog.tr.2.md#gpt-6-astra-2099785223827259515) · [developers.openai.com](https://developers.openai.com/)
-- [Oynanabilir 3B Engel Parkuru](../docs/catalog.tr.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [Oynanabilir 3B Engel Parkuru](../docs/catalog.tr.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
 - [Tarayıcıda oynanabilir 3B kıyı bölümü](../docs/catalog.tr.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
 - [Skybound tarayıcı uçuş oyunu](../docs/catalog.tr.3.md#gpt-6-astra-2098739181510164652) · [Aakash Kanojiya](https://x.com/Kanojiyaaakash1)
 - [DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu](../docs/catalog.tr.3.md#gpt-6-astra-2098715488369152087) · [ひまねこ](https://x.com/00Nekonet)
@@ -121,7 +122,7 @@
 - [GTA tarzı açık dünya çok oyunculu prototip](../docs/catalog.tr.7.md#gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Matt Shumer](https://x.com/mattshumer_)
 - [Çizgi roman görünümlü Three.js kovboy oyunu](../docs/catalog.tr.7.md#comic-book-three-js-cowboy-game-2095180091257209148) · [smallzer0](https://x.com/Smallzero)
 - [İnsan ile hizalanmamış genel yapay zekâ savaşı](../docs/catalog.tr.7.md#human-versus-unaligned-agi-game-2095180071221002441) · [Lucas Bai](https://x.com/lucasybai)
-- [Three.js'de çok oyunculu korsan dünyası](../docs/catalog.tr.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Three.js'de çok oyunculu korsan dünyası](../docs/catalog.tr.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Yerel C++ soulslike oyunu](../docs/catalog.tr.8.md#native-c-souls-like-game-2095053114600755576) · [wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz)
 - [Oynanabilir 3B Yılanlar ve Merdivenler](../docs/catalog.tr.8.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Eksiksiz Unity tenis oyunu](../docs/catalog.tr.8.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
@@ -130,10 +131,10 @@
 - [Mini Militia tarzı tarayıcı oyunu](../docs/catalog.tr.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Üç kompakt fizik oyunu fikri](../docs/catalog.tr.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [Three.js'de AAA kalitesinde kart yarışı](../docs/catalog.tr.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
-- [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](../docs/catalog.tr.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [Oynanabilir Titanic felaketi oyunu](../docs/catalog.tr.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [Çok oyunculu dinozor hayatta kalma oyunu](../docs/catalog.tr.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [On dakikada Three.js oyunu, ardından iyileştirme](../docs/catalog.tr.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](../docs/catalog.tr.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [Oynanabilir Titanic felaketi oyunu](../docs/catalog.tr.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [Çok oyunculu dinozor hayatta kalma oyunu](../docs/catalog.tr.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [On dakikada Three.js oyunu, ardından iyileştirme](../docs/catalog.tr.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
 - [Need for Speed tarzı Godot oyunu istemi](../docs/catalog.tr.9.md#need-for-speed-style-godot-game-2082714235373584582) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Kimi K3 için oynanabilir savaş oyunu istemi](../docs/catalog.tr.9.md#playable-combat-game-2082507403598373134) · [Darshal Jaitwar](https://x.com/darshal_)
 - [Kimi K3 için tek HTML'de League of Legends tarzı 1'e 1 oyun istemi](../docs/catalog.tr.9.md#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Fokki](https://x.com/0x_fokki)
@@ -157,8 +158,10 @@
 
 <a id="category-3d-scenes"></a>
 
-### Sahneler · 97
+### Sahneler · 99
 
+- [Orman gölü köyü ortamı](../docs/catalog.tr.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [Şişede voksel gemi WebGL sahnesi](../docs/catalog.tr.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Three.js'te voxel tarzı Japon bahçesi](../docs/catalog.tr.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Altın saat ışığında Roma savaş alanı sahnesi](../docs/catalog.tr.1.md#gpt-6-astra-2103351755971207251) · [tonysuri](https://x.com/tonysurix)
 - [STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi](../docs/catalog.tr.1.md#gpt-6-astra-2103308083242082314) · [YouWare](https://x.com/YouWareAI)
@@ -167,9 +170,9 @@
 - [Tarayıcıda Etkileşimli Ortaçağ Avrupa Tarzı 3B Kale](../docs/catalog.tr.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [Son Tren siberpunk mega kent benchmark’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Orta Çağ kalesi tarayıcı animasyonu](../docs/catalog.tr.1.md#gpt-6-astra-2102672926285713456) · [juhapalomaki.fi](https://juhapalomaki.fi/)
-- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [İç mekânı dâhil iki katlı banliyö evi](../docs/catalog.tr.2.md#gpt-6-astra-2102473710724919614) · [Azer](https://x.com/azer0lxm)
 - [Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu](../docs/catalog.tr.2.md#gpt-6-astra-2102276620124062065) · [Wafffle](https://x.com/wafffle_dev)
 - [Eksiksiz Fotogerçekçi 3B Ortam](../docs/catalog.tr.2.md#gpt-6-astra-2101224659861590399) · [Julian Goldie SEO](https://x.com/JulianGoldieSEO)
@@ -177,7 +180,7 @@
 - [Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi](../docs/catalog.tr.2.md#gpt-6-astra-2100139076816916977) · [Wentao Zhu](https://x.com/walterzhu8)
 - [Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma](../docs/catalog.tr.2.md#gpt-6-astra-2099850719839109597) · [妖精アーヤ](https://x.com/aiehon_aya)
 - [Bir otel koridoru sahnesi oluştur](../docs/catalog.tr.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
-- [Çok yüksek gökdelenlerle dolu 3B dünya](../docs/catalog.tr.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [Çok yüksek gökdelenlerle dolu 3B dünya](../docs/catalog.tr.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
 - [Peach’s Castle’ı 3B olarak yeniden tasarla](../docs/catalog.tr.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](../docs/catalog.tr.3.md#gpt-6-astra-2098795017955418202) · [Dan Elton](https://x.com/moreisdifferent)
 - [Tapınak minyatür 3B model sahnesi](../docs/catalog.tr.3.md#gpt-6-astra-2098403061463224543) · [Rion Wu](https://x.com/rionaifantasy)
@@ -185,9 +188,9 @@
 - [Backrooms esintili Blender VHS sahnesi](../docs/catalog.tr.3.md#gpt-6-astra-2097534290112188602) · [CHRIS FIRST](https://x.com/chrisfirst)
 - [Sıcacık Sulak Alan Göl Dünyası](../docs/catalog.tr.3.md#gpt-6-astra-2097343467026289039) · [Givros](https://x.com/givros)
 - [Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi](../docs/catalog.tr.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
-- [Blender’da 12 saniyelik bir orman yolu](../docs/catalog.tr.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [Etkileşimli Çin Avlusu](../docs/catalog.tr.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](../docs/catalog.tr.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [Blender’da 12 saniyelik bir orman yolu](../docs/catalog.tr.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [Etkileşimli Çin Avlusu](../docs/catalog.tr.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](../docs/catalog.tr.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [Hogwarts 3B sahnesi](../docs/catalog.tr.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Çocuk odası ve çalışma alanı planlayıcısı](../docs/catalog.tr.4.md#children-s-room-and-workspace-planner-2096578684010508736) · [かのこ🌼AI×子育て×探究](https://x.com/dqlh47m)
 - [Blender’da sıfırdan modellenen ev](../docs/catalog.tr.4.md#a-house-modeled-from-scratch-in-blender-2096576154337734865) · [みずくん](https://x.com/mizkun)
@@ -197,7 +200,7 @@
 - [Hezekiel’in Tapınak Vizyonu: 3B](../docs/catalog.tr.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Üst kat planından Blender önizlemesine](../docs/catalog.tr.4.md#top-floor-plan-to-blender-preview-2096501340889374883) · [indigo](https://x.com/indigox)
 - [Yürüyerek keşfedilen düşük poligonlu Gwacheon köyü](../docs/catalog.tr.4.md#walkable-low-poly-gwacheon-village-2096490395614019793) · [Manas Joshi](https://x.com/ManasJoshi76254)
-- [Blender’da kara delik oluşturma ve render alma](../docs/catalog.tr.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Blender’da kara delik oluşturma ve render alma](../docs/catalog.tr.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
 - [Lizbon’daki Terreiro do Paço Blender’da](../docs/catalog.tr.5.md#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto)
 - [Three.js ile yoğun prosedürel orman](../docs/catalog.tr.5.md#dense-procedural-forest-in-three-js-2096263046918197609) · [Leon Lin](https://x.com/LexnLin)
 - [Voksellerle Cluj-Napoca Birlik Meydanı](../docs/catalog.tr.5.md#cluj-napoca-union-square-in-voxels-2096262733259837681) · [Dan Manastireanu](https://x.com/danmana) · GitHub
@@ -215,8 +218,8 @@
 - [Tek turda Three.js deniz savaşı sahnesi](../docs/catalog.tr.6.md#single-turn-three-js-naval-war-scene-2095840435319001278) · [leo 🐾](https://x.com/synthwavedd)
 - [Yıldızlı Gece sokaklarında yürüyüş](../docs/catalog.tr.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [Gerçek evden düzenlenebilir 60 FPS Blender sahnesine](../docs/catalog.tr.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [Altı Van Gogh tablosundan yürünebilir kasaba](../docs/catalog.tr.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [Solace orman villası: yönergeden UE5'e](../docs/catalog.tr.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [Altı Van Gogh tablosundan yürünebilir kasaba](../docs/catalog.tr.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [Solace orman villası: yönergeden UE5'e](../docs/catalog.tr.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
 - [Kat planından eksiksiz 3B gezintiye](../docs/catalog.tr.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [Şişede yaşayan voksel gemi](../docs/catalog.tr.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Blender'da Güzel Sanatlar Sarayı'nın yeniden yapımı](../docs/catalog.tr.7.md#palace-of-fine-arts-blender-recreation-2095653641164329143) · [Sharif Shameem](https://x.com/sharifshameem)
@@ -232,8 +235,8 @@
 - [Prosedürel şelale çalışması](../docs/catalog.tr.7.md#procedural-waterfall-study-2095510069047660636) · [Fede(URU) 🇺🇾](https://x.com/RealFedeURU)
 - [Aerie: yaşayan voksel ada](../docs/catalog.tr.7.md#aerie-a-living-voxel-island-2095493630421340200) · [AI Guides](https://x.com/free_ai_guides)
 - [Frutiger Aero 3B dünyası](../docs/catalog.tr.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
-- [Eşdikdörtgensel panoramadan şehir](../docs/catalog.tr.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Blender'da ejderha ini sahnesi](../docs/catalog.tr.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Eşdikdörtgensel panoramadan şehir](../docs/catalog.tr.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Blender'da ejderha ini sahnesi](../docs/catalog.tr.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Ayrıntılı 3B stadyum yeniden yapımı](../docs/catalog.tr.8.md#detailed-3d-stadium-recreation-2095123216419459454) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [Şişenin içinde yaşayan voksel dünya](../docs/catalog.tr.8.md#living-voxel-world-inside-a-bottle-2095111213927510131) · [Vib3Coded](https://x.com/vib3coded)
 - [Etkileşimli Three.js kalesi](../docs/catalog.tr.8.md#interactive-three-js-castle-2095048818203275584) · [Jigs](https://x.com/debugsenpai)
@@ -271,7 +274,7 @@
 - [CAD ile kendi gövdesi](../docs/catalog.tr.2.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [Korkuluğa bakım zinciri ekle](../docs/catalog.tr.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [Apple tarzı 3B kalp ve gülümseyen emoji](../docs/catalog.tr.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
-- [200 poligonun altında kozalaklı ağaç modeli](../docs/catalog.tr.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [200 poligonun altında kozalaklı ağaç modeli](../docs/catalog.tr.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](../docs/catalog.tr.3.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
 - [Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve](../docs/catalog.tr.3.md#gpt-6-astra-2098774359926297011) · [wada](https://x.com/wada)
 - [Robotla Oynayan Küçük Kız Figürü](../docs/catalog.tr.3.md#gpt-6-astra-2098406473273663992) · [𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
@@ -286,7 +289,7 @@
 - [Geometry Nodes ile döngüsel su yüzeyi](../docs/catalog.tr.4.md#looping-water-with-geometry-nodes-2096521798150242631) · [黒曜陣](https://x.com/uB95A7tobA17057)
 - [Sakin bir 3D denizde YF-24 teknesi](../docs/catalog.tr.4.md#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Yohei Matsumoto](https://x.com/yhmtmt1)
 - [Üretilen 3D varlıkları birleştirme ve canlandırma](../docs/catalog.tr.4.md#assemble-and-animate-generated-3d-assets-2096481425050743048) · [Stefan 3D AI](https://x.com/Stefan_3D_AI)
-- [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](../docs/catalog.tr.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](../docs/catalog.tr.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu](../docs/catalog.tr.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
 - [Prosedürel Napolyon büstü](../docs/catalog.tr.5.md#procedural-napoleon-bust-2096234355395903672) · [Le PLOUTOS](https://x.com/leploutos)
 - [Referans görüntülerden römorkör montajı](../docs/catalog.tr.5.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
@@ -295,13 +298,13 @@
 - [Blender'da Formula 1 aracı](../docs/catalog.tr.5.md#formula-one-car-in-blender-2096125193580113957) · [Conor Dart](https://x.com/Conor_D_Dart)
 - [Çizimden oynanabilir karaktere](../docs/catalog.tr.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Blender'da Azadi Kulesi](../docs/catalog.tr.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
-- [Blender'da Fütüristik Motosiklet ve Tank](../docs/catalog.tr.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Blender'da Fütüristik Motosiklet ve Tank](../docs/catalog.tr.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
 - [Tek görünümden matkap yeniden yapımı](../docs/catalog.tr.6.md#single-view-power-drill-reconstruction-2096059736693305794) · [Utah teapot 🫖](https://x.com/SkyeSharkie)
 - [Referanslardan TP-7 kayıt cihazı modeli](../docs/catalog.tr.6.md#tp-7-recorder-reference-model-2096013228090245181) · [Tykra](https://x.com/ty_kra_lab)
 - [Birden Fazla Referans Görselinden Rig’lenmiş Mech](../docs/catalog.tr.6.md#gpt-6-astra-2095975726558392570) · [Vatroslav Vrbanić](https://x.com/vatro_vrbanic)
 - [Blender'da mekanik olarak eksiksiz lokomotif](../docs/catalog.tr.6.md#mechanically-complete-blender-locomotive-2095868420327710840) · [sheemamoto](https://x.com/sheemamoto)
 - [Tariften 3B cheesecake filmine](../docs/catalog.tr.6.md#recipe-to-3d-cheesecake-film-2095829851206774987) · [سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976)
-- [Buharlı tren çiziminden düzenlenebilir Blender montajına](../docs/catalog.tr.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [Buharlı tren çiziminden düzenlenebilir Blender montajına](../docs/catalog.tr.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
 - [Yazdırılabilir USS Enterprise CAD montajı](../docs/catalog.tr.7.md#printable-uss-enterprise-cad-assembly-2095641163441254676) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Eklemlendirilebilir, yazdırılabilir aksiyon figürü](../docs/catalog.tr.7.md#articulated-printable-action-figure-2095481098201387287) · [Max Blade](https://x.com/_MaxBlade)
 - [Kurumsal önleme dronu varlığı](../docs/catalog.tr.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -343,7 +346,7 @@
 - [Fayans seçenekleriyle interaktif daire turu](../docs/catalog.tr.2.md#gpt-6-astra-2100222426705453318) · [Shimecki](https://x.com/scheemunai)
 - [Etkileşimli 3B organizma sinir sistemi paneli](../docs/catalog.tr.2.md#gpt-6-astra-2099719427990134984) · [AiMind](https://x.com/AIMind_Ai)
 - [Kaçan teknelerin bulunduğu etkileşimli volkanik ada](../docs/catalog.tr.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
-- [Etkileşimli 3B Samuray Ormanı Sahnesi](../docs/catalog.tr.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [Etkileşimli 3B Samuray Ormanı Sahnesi](../docs/catalog.tr.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
 - [Etkileşimli 3B Anatomi Gezgini](../docs/catalog.tr.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Çernobil Atlası](../docs/catalog.tr.3.md#gpt-6-astra-2098841316591346006) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Etkileşimli 3B Koi Göleti](../docs/catalog.tr.3.md#gpt-6-astra-2098492771170722032) · [Vib3Coded](https://x.com/vib3coded)
@@ -354,8 +357,8 @@
 - [Etkileşimli 3B parçacık çarpıştırıcısı](../docs/catalog.tr.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Sürükleyici 3B pirinç tarlası web sitesi](../docs/catalog.tr.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu TypeScript + Three.js WebGL projesi](../docs/catalog.tr.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
-- [Etkileşimli jöle limon ağacı](../docs/catalog.tr.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](../docs/catalog.tr.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [Etkileşimli jöle limon ağacı](../docs/catalog.tr.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](../docs/catalog.tr.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Three.js WebGPU’da Sonsuz Minyatür Sokak](../docs/catalog.tr.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [Etkileşimli Akıllı Telefon Patlatılmış Görünümü](../docs/catalog.tr.4.md#gpt-6-astra-2096685163111694556) · [Zaira Laraib](https://x.com/zairalaraib_)
 - [Parçalarına ayrılan masaüstü bilgisayar atlası](../docs/catalog.tr.4.md#exploded-desktop-computer-atlas-2096578761877860502) · [cooper](https://x.com/icooperhero)
@@ -363,7 +366,7 @@
 - [Çift halkalı etkileşimli enerji çekirdeği](../docs/catalog.tr.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [Kişisel odadan etkileşimli portfolyoya](../docs/catalog.tr.4.md#personal-room-as-an-interactive-portfolio-2096506357868642342) · [Kalan ◂Ⓘ▸](https://x.com/kalanyei)
 - [D4 esintili oynanabilir daire](../docs/catalog.tr.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](../docs/catalog.tr.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](../docs/catalog.tr.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
 - [Yörüngeleriyle Güneş Sistemi gezgini](../docs/catalog.tr.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [Biyolüminesanslı derin deniz açılış sayfası](../docs/catalog.tr.5.md#bioluminescent-deep-sea-landing-page-2096269057544831175) · [Himanshu Hingorani](https://x.com/himanshubuildss)
 - [Etkileşimli Hyperloop demosu](../docs/catalog.tr.5.md#interactive-hyperloop-demo-2096250748099068377) · [Amir](https://x.com/hbanay98)
@@ -375,8 +378,8 @@
 - [Bisiklete Binen Etkileşimli Pelikan](../docs/catalog.tr.5.md#gpt-6-astra-2096213850383331489) · [AI Builder Club](https://x.com/aibuilderclub_)
 - [Küçük çocuk için eğlenceli oyuncak dünyası](../docs/catalog.tr.5.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [32 animasyonlu insanla yürünebilir ofis](../docs/catalog.tr.5.md#walkable-office-with-32-animated-people-2096131961345720477) · [Parithosh-varma](https://x.com/demgufever82151) · GitHub
-- [WebGL ile kara delik oluşumu](../docs/catalog.tr.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Etkileşimli dünya küresi paneli](../docs/catalog.tr.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [WebGL ile kara delik oluşumu](../docs/catalog.tr.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Etkileşimli dünya küresi paneli](../docs/catalog.tr.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
 - [Sinclair ZX Spectrum simülatörü](../docs/catalog.tr.6.md#sinclair-zx-spectrum-simulator-2096062355692048605) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Konuşma etkinliklerini gösteren küreli kişisel 3B portföy](../docs/catalog.tr.6.md#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Shivay Lamba](https://x.com/HowDevelop)
 - [Tesla Model X patlatılmış görünümü](../docs/catalog.tr.6.md#tesla-model-x-exploded-view-2096009146248122416) · [ashe](https://x.com/ashebytes)
@@ -388,15 +391,15 @@
 - [Başkanlık dönemleri boyunca Oval Ofis](../docs/catalog.tr.6.md#oval-office-through-the-presidencies-2095830596069290077) · [Min Zhou](https://x.com/fMinZhou)
 - [Etkileşimli Three.js galaksi ana sayfası](../docs/catalog.tr.6.md#interactive-three-js-galaxy-homepage-2095806515579879457) · [Three.js Resources](https://x.com/threejsresource)
 - [Lansman açılışı için gerçek zamanlı WebGL galaksisi](../docs/catalog.tr.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
-- [Patlatılmış görünümde etkileşimli 3B turboşarj](../docs/catalog.tr.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [Çocukluk tren maketini sürmek](../docs/catalog.tr.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [Patlatılmış görünümde etkileşimli 3B turboşarj](../docs/catalog.tr.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [Çocukluk tren maketini sürmek](../docs/catalog.tr.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [Etkileşimli voksel tren maketi](../docs/catalog.tr.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Fotogerçekçi 3B ürün maketi stüdyosu](../docs/catalog.tr.7.md#photoreal-3d-product-mockup-studio-2095619319690400253) · [Josh Millgate](https://x.com/joshmillgate)
 - [Tek seferde özenli etkileşimli prototip](../docs/catalog.tr.7.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [Yapay zekâ sunucu kabininin parçalı görünümü](../docs/catalog.tr.7.md#exploding-ai-server-rack-visualization-2095193022304792938) · [Kyle Jeong](https://x.com/kylejeong)
 - [On sahnelik sinematik Rönesans sitesi](../docs/catalog.tr.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [Evcil keçili sanal ada](../docs/catalog.tr.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [Etkileşimli 3B Güneş Sistemi](../docs/catalog.tr.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [Evcil keçili sanal ada](../docs/catalog.tr.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [Etkileşimli 3B Güneş Sistemi](../docs/catalog.tr.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
 - [Gölgelendiricili etkileşimli Dino-dex](../docs/catalog.tr.8.md#interactive-shader-driven-dino-dex-2095121568297083067) · [Benji Viz](https://x.com/_Benviz)
 - [Gundam'dan esinlenen mecha sergisi](../docs/catalog.tr.8.md#gundam-inspired-mecha-showcase-2095106919530930221) · [Crayon](https://x.com/usecrayon)
 - [Referansla şekillenen Three.js portföyü](../docs/catalog.tr.8.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo) · GitHub
@@ -404,17 +407,19 @@
 - [NIGHTBAND etkileşimli kısa dalga radyo](../docs/catalog.tr.8.md#nightband-interactive-shortwave-radio-2095026928210346175) · [Neo](https://x.com/NeoAIForecast)
 - [Düşünen NPC'lerle voksel köy](../docs/catalog.tr.8.md#voxel-village-with-thinking-npcs-2094930970675741171) · [Tech2Wild](https://x.com/Tech2Wild)
 - [Etkileşimli 3B insan beyninde sinyaller](../docs/catalog.tr.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
-- [Cam beyin yetenek demosu](../docs/catalog.tr.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [Cam beyin yetenek demosu](../docs/catalog.tr.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Claude Opus 5 için tek dosyalı 3B Güneş görselleştirme istemi](../docs/catalog.tr.9.md#single-file-3d-sun-visualizer-2082461416049525077) · [AlysisAI](https://x.com/AlysisAI)
 - [Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi](../docs/catalog.tr.9.md#infinite-three-js-paper-machine-2081533777340506251) · [0xMarioNawfal](https://x.com/RoundtableSpace)
 - [3B yapılandırıcıya Vespa 125 ekleme istemi](../docs/catalog.tr.9.md#vespa-125-3d-configurator-2081439705506435440) · [Raf Lorenz](https://x.com/rafintheloop)
 - [Claude Opus 5'te Three.js Leonardo da Vinci ornitopter istemi](../docs/catalog.tr.9.md#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Harshith](https://x.com/HarshithLucky3)
-- [Three.js uçak içi gezinti deneyimi istemi](../docs/catalog.tr.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Three.js uçak içi gezinti deneyimi istemi](../docs/catalog.tr.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 82
+### Animasyon · 84
 
+- [Profesyonel 15 saniyelik motion design grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify temalı hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Yaşam döngüsünü anlatan hareketli grafik animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Etkileşimli 3B okyanus roket fırlatma sekansı](../docs/catalog.tr.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -429,7 +434,7 @@
 - [Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi](../docs/catalog.tr.1.md#tripo-claude-opus-5-5-paper-cut-3d-short) · [tripo3d](https://x.com/tripoai)
 - [Etkileşimli Euleryen Neon Akışkan Simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenberg kaza modeli ve gerçekçi video](../docs/catalog.tr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Kendi kendine çalışan 3B Rube Goldberg makinesi](../docs/catalog.tr.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Kendi kendine çalışan 3B Rube Goldberg makinesi](../docs/catalog.tr.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Etkileşimli kalabalık tahliye simülasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [TITANIC — Son Işık](../docs/catalog.tr.2.md#titanic-the-last-light) · [jared](https://x.com/jaredliu_bravo)
 - [Catfu dövüş sanatları kedisi için 3B animasyon ve video iş akışı](../docs/catalog.tr.2.md#gpt-6-astra-2101310374033428642) · [PixVerse](https://x.com/PixVerse)
@@ -437,7 +442,7 @@
 - [Sharpa becerikli eliyle kalem çevirme politikası eğitimi](../docs/catalog.tr.2.md#gpt-6-astra-2100751369619820923) · [AI Will](https://x.com/FinanceYF5)
 - [Yeraltı İstasyonunda AAA CGI Doğaüstü Dövüş Kısa Filmi](../docs/catalog.tr.2.md#gpt-6-astra-2100233407108137349) · [MadMax](https://x.com/MadMax_Series)
 - [Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor](../docs/catalog.tr.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [Çarpışma Önlemeli Otonom Model Demiryolu](../docs/catalog.tr.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [Çarpışma Önlemeli Otonom Model Demiryolu](../docs/catalog.tr.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [Kendi kendine katlanan 3B origami animasyonu](../docs/catalog.tr.3.md#gpt-6-astra-2098909584996057283) · [AI Guides](https://x.com/free_ai_guides)
 - [Kinetik Kum Masası Simülasyonu](../docs/catalog.tr.3.md#gpt-6-astra-2098831830002851846) · [AI Guides](https://x.com/free_ai_guides)
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](../docs/catalog.tr.3.md#gpt-6-astra-2098697876155076820) · [火山哥🕊️](https://x.com/huoshan007)
@@ -459,15 +464,15 @@
 - [Etkileşimli Lorenz çekicisi](../docs/catalog.tr.4.md#interactive-lorenz-attractor-2096572156453028193) · [Juy \| AI experiments](https://x.com/juyeam)
 - [3B Şehirde Nükleer Patlama Simülasyonu](../docs/catalog.tr.4.md#gpt-6-astra-2096562462674079868) · [Ashish Thakur](https://x.com/ashishthakur___)
 - [Yüzeylere tırmanan prosedürel böcek](../docs/catalog.tr.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
-- [Demiryolu ağı simülasyon oyunu](../docs/catalog.tr.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [Çalışanları ve müşterileriyle işleyen taverna](../docs/catalog.tr.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [Demiryolu ağı simülasyon oyunu](../docs/catalog.tr.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [Çalışanları ve müşterileriyle işleyen taverna](../docs/catalog.tr.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
 - [C# ve WASM ile tarayıcı yarış fiziği](../docs/catalog.tr.5.md#browser-racing-physics-in-c-and-wasm-2096258619574513880) · [achepta](https://x.com/achepta_tm)
 - [Yörüngede buluşma simülatörü](../docs/catalog.tr.5.md#orbital-rendezvous-simulator-2096225621303042258) · [Alican Kiraz](https://x.com/AlicanKiraz0)
 - [Küpe hapsolmuş fırtına](../docs/catalog.tr.5.md#a-storm-trapped-in-a-cube-2096220264413409648) · [zcw](https://x.com/zwb44)
 - [Zubli: tepki veren WebGL karakteri](../docs/catalog.tr.5.md#zubli-a-responsive-webgl-character-2096180133803561376) · [CoXis](https://x.com/coxis)
 - [Otomatik karakter iskeleti ve kung fu hareketleri](../docs/catalog.tr.5.md#automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [Canlı jet üretim tesisi](../docs/catalog.tr.5.md#live-jet-manufacturing-plant-2096122429319852319) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
-- [Parçalarına ayrılan prosedürel tren montajları](../docs/catalog.tr.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [Parçalarına ayrılan prosedürel tren montajları](../docs/catalog.tr.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
 - [Köprü kapanmalarından etkilenen teslimat ağı](../docs/catalog.tr.6.md#delivery-network-with-bridge-closures-2096042360513904742) · [AgentworkflowLab](https://x.com/AgentWorkflowLa)
 - [Evrilen WebGL ekosistemi](../docs/catalog.tr.6.md#evolving-webgl-ecosystem-2096040448477515874) · [Yume\_X](https://x.com/yume_arasaki)
 - [Esnek WebGPU jölesi](../docs/catalog.tr.6.md#bouncy-webgpu-jelly-2096008241104711698) · [Scott](https://x.com/scottstts)
@@ -496,14 +501,14 @@
 - [Vietnam ormanında sinematik helikopter animasyonu istemi](../docs/catalog.tr.9.md#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Kirill](https://x.com/kirillk_web3)
 - [Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi](../docs/catalog.tr.9.md#single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Harsh](https://x.com/devloper_hs)
 - [Tek HTML dosyasında Three.js voksel futbol animasyonu istemi](../docs/catalog.tr.9.md#voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Thành](https://x.com/Zmthanh)
-- [Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi](../docs/catalog.tr.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi](../docs/catalog.tr.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
 
 <a id="category-other"></a>
 
 ### Diğer · 3
 
 - [Brooklyn Köprüsü’nü modelleyin ve her iki yönden geçen tankları test edin](../docs/catalog.tr.3.md#gpt-6-astra-2098650336521064759) · [Higgsfield](https://x.com/higgsfield_ai)
-- [Şema PDF'sinden PCB ve 3B görünüme](../docs/catalog.tr.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [Şema PDF'sinden PCB ve 3B görünüme](../docs/catalog.tr.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi](../docs/catalog.tr.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 
 <a id="models"></a>
@@ -512,8 +517,10 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 291
+### GPT-6 Astra · 293
 
+- [Orman gölü köyü ortamı](../docs/catalog.tr.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [Şişede voksel gemi WebGL sahnesi](../docs/catalog.tr.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Three.js'te voxel tarzı Japon bahçesi](../docs/catalog.tr.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Blender'da kobay oluştur](../docs/catalog.tr.1.md#gpt-6-astra-2103482826519986544) · [かよこ](https://x.com/kayokojoe)
 - [VRChat için kıyafet 3B modelleme](../docs/catalog.tr.1.md#gpt-6-astra-2103456264785424530) · [のわ〜る👼🍆🐄](https://x.com/Noir4247)
@@ -575,11 +582,11 @@
 - [Kaçan teknelerin bulunduğu etkileşimli volkanik ada](../docs/catalog.tr.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
 - [Bir otel koridoru sahnesi oluştur](../docs/catalog.tr.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
 - [Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor](../docs/catalog.tr.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [Çok yüksek gökdelenlerle dolu 3B dünya](../docs/catalog.tr.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
-- [200 poligonun altında kozalaklı ağaç modeli](../docs/catalog.tr.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
-- [Etkileşimli 3B Samuray Ormanı Sahnesi](../docs/catalog.tr.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
-- [Oynanabilir 3B Engel Parkuru](../docs/catalog.tr.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
-- [Çarpışma Önlemeli Otonom Model Demiryolu](../docs/catalog.tr.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [Çok yüksek gökdelenlerle dolu 3B dünya](../docs/catalog.tr.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [200 poligonun altında kozalaklı ağaç modeli](../docs/catalog.tr.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [Etkileşimli 3B Samuray Ormanı Sahnesi](../docs/catalog.tr.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [Oynanabilir 3B Engel Parkuru](../docs/catalog.tr.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [Çarpışma Önlemeli Otonom Model Demiryolu](../docs/catalog.tr.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [Peach’s Castle’ı 3B olarak yeniden tasarla](../docs/catalog.tr.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [Etkileşimli 3B Anatomi Gezgini](../docs/catalog.tr.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Tarayıcıda oynanabilir 3B kıyı bölümü](../docs/catalog.tr.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
@@ -625,11 +632,11 @@
 - [Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi](../docs/catalog.tr.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
 - [Japon Çiçekçi Dükkânı Patlatılmış Görünüm Animasyonu](../docs/catalog.tr.3.md#gpt-6-astra-2097153139795468365) · [KANA｜東京AI映像](https://x.com/KanaWorks_AI)
 - [Godot'ta digitigrad meche rig kurun ve animasyon verin](../docs/catalog.tr.3.md#gpt-6-astra-2097123382852829230) · [Om Patel](https://x.com/om_patel5)
-- [Etkileşimli jöle limon ağacı](../docs/catalog.tr.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](../docs/catalog.tr.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
-- [Blender’da 12 saniyelik bir orman yolu](../docs/catalog.tr.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [Etkileşimli Çin Avlusu](../docs/catalog.tr.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](../docs/catalog.tr.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [Etkileşimli jöle limon ağacı](../docs/catalog.tr.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](../docs/catalog.tr.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [Blender’da 12 saniyelik bir orman yolu](../docs/catalog.tr.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [Etkileşimli Çin Avlusu](../docs/catalog.tr.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](../docs/catalog.tr.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [Three.js WebGPU’da Sonsuz Minyatür Sokak](../docs/catalog.tr.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [Hogwarts 3B sahnesi](../docs/catalog.tr.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma](../docs/catalog.tr.4.md#gpt-6-astra-2096793432987464010) · [码农暖爸](https://x.com/Delroy715)
@@ -675,11 +682,11 @@
 - [Yüzeylere tırmanan prosedürel böcek](../docs/catalog.tr.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
 - [Lego 1999 Racers'ı yeniden oluşturma](../docs/catalog.tr.4.md#gpt-6-astra-2096438110095585753) · [Mo Elgaraihy](https://x.com/EngMoElgaraihy)
 - [D4 esintili oynanabilir daire](../docs/catalog.tr.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Blender’da kara delik oluşturma ve render alma](../docs/catalog.tr.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
-- [Demiryolu ağı simülasyon oyunu](../docs/catalog.tr.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [Çalışanları ve müşterileriyle işleyen taverna](../docs/catalog.tr.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
-- [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](../docs/catalog.tr.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
-- [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](../docs/catalog.tr.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Blender’da kara delik oluşturma ve render alma](../docs/catalog.tr.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Demiryolu ağı simülasyon oyunu](../docs/catalog.tr.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [Çalışanları ve müşterileriyle işleyen taverna](../docs/catalog.tr.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](../docs/catalog.tr.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](../docs/catalog.tr.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Yörüngeleriyle Güneş Sistemi gezgini](../docs/catalog.tr.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [Eylem odaklı mekaniklere sahip yengeç oyunu](../docs/catalog.tr.5.md#a-crab-game-with-action-driven-mechanics-2096337879173591171) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu](../docs/catalog.tr.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
@@ -723,11 +730,11 @@
 - [Çizimden oynanabilir karaktere](../docs/catalog.tr.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Blender'da Azadi Kulesi](../docs/catalog.tr.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
 - [Suzhou Müzesi bahçesi gezintisi](../docs/catalog.tr.5.md#suzhou-museum-garden-walkthrough-2096096998092841449) · [amber shen](https://x.com/whosamberella)
-- [WebGL ile kara delik oluşumu](../docs/catalog.tr.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Blender'da Fütüristik Motosiklet ve Tank](../docs/catalog.tr.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
-- [Parçalarına ayrılan prosedürel tren montajları](../docs/catalog.tr.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
-- [Etkileşimli dünya küresi paneli](../docs/catalog.tr.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
-- [Şema PDF'sinden PCB ve 3B görünüme](../docs/catalog.tr.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [WebGL ile kara delik oluşumu](../docs/catalog.tr.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Blender'da Fütüristik Motosiklet ve Tank](../docs/catalog.tr.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Parçalarına ayrılan prosedürel tren montajları](../docs/catalog.tr.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [Etkileşimli dünya küresi paneli](../docs/catalog.tr.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [Şema PDF'sinden PCB ve 3B görünüme](../docs/catalog.tr.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [Astral War tarayıcı nişancı oyunu](../docs/catalog.tr.6.md#astral-war-browser-shooter-2096079660605997264) · [Rishi](https://x.com/0xRishi)
 - [Konsept görselini referans alarak Astra ile ham bir 3B mini oyun oluşturma](../docs/catalog.tr.6.md#astra-3d-2096068401294929940) · [陈硕KAI（耍门）](https://x.com/ChenshuoAI)
 - [The Legend of Astra oyun prototipi](../docs/catalog.tr.6.md#the-legend-of-astra-game-prototype-2096064140510970318) · [lofibloom](https://x.com/lofihashbloom)
@@ -770,11 +777,11 @@
 - [Lansman açılışı için gerçek zamanlı WebGL galaksisi](../docs/catalog.tr.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
 - [Yıldızlı Gece sokaklarında yürüyüş](../docs/catalog.tr.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [Gerçek evden düzenlenebilir 60 FPS Blender sahnesine](../docs/catalog.tr.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [Patlatılmış görünümde etkileşimli 3B turboşarj](../docs/catalog.tr.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [Altı Van Gogh tablosundan yürünebilir kasaba](../docs/catalog.tr.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [Buharlı tren çiziminden düzenlenebilir Blender montajına](../docs/catalog.tr.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
-- [Solace orman villası: yönergeden UE5'e](../docs/catalog.tr.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
-- [Çocukluk tren maketini sürmek](../docs/catalog.tr.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [Patlatılmış görünümde etkileşimli 3B turboşarj](../docs/catalog.tr.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [Altı Van Gogh tablosundan yürünebilir kasaba](../docs/catalog.tr.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [Buharlı tren çiziminden düzenlenebilir Blender montajına](../docs/catalog.tr.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [Solace orman villası: yönergeden UE5'e](../docs/catalog.tr.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [Çocukluk tren maketini sürmek](../docs/catalog.tr.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [Kat planından eksiksiz 3B gezintiye](../docs/catalog.tr.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [Etkileşimli voksel tren maketi](../docs/catalog.tr.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Şişede yaşayan voksel gemi](../docs/catalog.tr.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
@@ -834,11 +841,11 @@
 - [Kurumsal önleme dronu varlığı](../docs/catalog.tr.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
 - [Frutiger Aero 3B dünyası](../docs/catalog.tr.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
 - [On sahnelik sinematik Rönesans sitesi](../docs/catalog.tr.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [Evcil keçili sanal ada](../docs/catalog.tr.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [Etkileşimli 3B Güneş Sistemi](../docs/catalog.tr.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
-- [Eşdikdörtgensel panoramadan şehir](../docs/catalog.tr.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Blender'da ejderha ini sahnesi](../docs/catalog.tr.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Three.js'de çok oyunculu korsan dünyası](../docs/catalog.tr.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Evcil keçili sanal ada](../docs/catalog.tr.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [Etkileşimli 3B Güneş Sistemi](../docs/catalog.tr.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [Eşdikdörtgensel panoramadan şehir](../docs/catalog.tr.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Blender'da ejderha ini sahnesi](../docs/catalog.tr.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Three.js'de çok oyunculu korsan dünyası](../docs/catalog.tr.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Blender'da uçan tencere animasyonu](../docs/catalog.tr.8.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
 - [3B kanser ilerleme simülasyonu](../docs/catalog.tr.8.md#3d-cancer-progression-simulation-2095130778342408331) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Geliştirilmiş meteor parçalanma efektleri](../docs/catalog.tr.8.md#enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -884,16 +891,19 @@
 - [Prosedürel üretilmiş Three.js dünyası](../docs/catalog.tr.8.md#procedurally-generated-three-js-world-2094873862315843910) · [Swarogan](https://x.com/swarogan)
 - [Etkileşimli 3B insan beyninde sinyaller](../docs/catalog.tr.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
 - [Fotogerçekçi Three.js manzarası](../docs/catalog.tr.8.md#photorealistic-three-js-landscape-2094871858206191667) · [Alix Ollivier](https://x.com/aollivier82)
-- [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](../docs/catalog.tr.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [Oynanabilir Titanic felaketi oyunu](../docs/catalog.tr.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [Çok oyunculu dinozor hayatta kalma oyunu](../docs/catalog.tr.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [On dakikada Three.js oyunu, ardından iyileştirme](../docs/catalog.tr.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Cam beyin yetenek demosu](../docs/catalog.tr.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](../docs/catalog.tr.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [Oynanabilir Titanic felaketi oyunu](../docs/catalog.tr.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [Çok oyunculu dinozor hayatta kalma oyunu](../docs/catalog.tr.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [On dakikada Three.js oyunu, ardından iyileştirme](../docs/catalog.tr.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [Cam beyin yetenek demosu](../docs/catalog.tr.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Profesyonel 15 saniyelik motion design grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify temalı hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
@@ -919,11 +929,11 @@
 - [Etkileşimli Euleryen Neon Akışkan Simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenberg kaza modeli ve gerçekçi video](../docs/catalog.tr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Kendi kendine çalışan 3B Rube Goldberg makinesi](../docs/catalog.tr.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Kendi kendine çalışan 3B Rube Goldberg makinesi](../docs/catalog.tr.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](../docs/catalog.tr.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](../docs/catalog.tr.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Etkileşimli kalabalık tahliye simülasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
@@ -973,8 +983,8 @@
 - [Claude Fable 5 için 3B çiçekli kiraz ağacı istemi](../docs/catalog.tr.9.md#3d-cherry-blossom-tree-2080178541979664741) · [zhod](https://x.com/zhodonx)
 - [E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi](../docs/catalog.tr.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 - [Fable 5 ile New York kurmak için Blender şehir modelleme istemi](../docs/catalog.tr.9.md#modeling-new-york-city-in-blender-2079387760478073087) · [Martin Puli](https://x.com/MartinPulitano)
-- [Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi](../docs/catalog.tr.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
-- [Three.js uçak içi gezinti deneyimi istemi](../docs/catalog.tr.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi](../docs/catalog.tr.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Three.js uçak içi gezinti deneyimi istemi](../docs/catalog.tr.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="model-claude-opus-5"></a>
 

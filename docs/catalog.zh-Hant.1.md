@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 1 / 9
+# Awesome 3D Prompts — 1 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目錄](catalog.zh-Hant.md) · **1 / 9** · [→](catalog.zh-Hant.2.md)
+[完整目錄](catalog.zh-Hant.md) · **1 / 10** · [→](catalog.zh-Hant.2.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [森林湖畔村落環境](#gpt-6-astra-2103860776419111285)
+- [瓶中船體素 WebGL 場景](#gpt-6-astra-2103855977376125161)
+- [精緻的 15 秒動態設計圖像影片](#claude-opus-5-5-2103846630088716687)
+- [Minecraft 風格體素遊戲，搭載進階著色器](#claude-opus-5-5-2103822946800165270)
+- [Spotify 主題動態圖像影片](#claude-opus-5-5-2103801834930606193)
 - [動感十足的 15 秒動態設計作品集影片](#claude-opus-5-5-2103504887439065439)
 - [WebGL2 沙盒生存遊戲](#claude-opus-5-5-2103502454750920925)
 - [Three.js 體素風格日本庭園](#gpt-6-astra-2103486103831339269)
@@ -73,13 +78,475 @@
 - [互動式歐拉霓虹流體模擬](#claude-opus-5-5-2102565611473661963)
 - [日式櫻花山谷互動式 3D 景觀網頁](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg 事故模型與逼真影片](#claude-opus-5-5-2102547809140355250)
-- [以圖片為基礎的手球場 360 度 3D 渲染](#claude-opus-5-5-2102544406117286004)
-- [從影像打造程序化 Three.js 3D 主選單背景](#claude-opus-5-5-2102544196808667471)
-- [自動運行的 3D 魯布・戈德堡機械](#claude-opus-5-5-2102544078927741369)
-- [互動式彼得兔風格農場動物遊戲](#claude-opus-5-5-2102538762731565085)
-- [電影感互動式夕陽海盜船](#claude-opus-5-5-2102533729746882985)
 
 </details>
+<a id="gpt-6-astra-2103860776419111285"></a>
+
+### 森林湖畔村落環境
+
+[Givros](https://x.com/givros) · 2026-09-26 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/bb5336623e7ba06d8f082e8bd8cf2c577fc40a4883915d61e1da5aec2e299aa4.webp" width="840" loading="lazy" alt="森林湖畔村落環境"></a>
+
+**提示詞**
+
+```text
+中央有一座湖泊的森林。湖泊中央有一棟廢棄房屋。湖泊周圍是一座繁花盛開的法式村落。以道路連接各個重要地點。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+A forest with a lake in the center. In the middle of the lake, an abandoned house. Around the lake, a flower-filled French village. Paths connecting the important points.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103860776419111285) · [查看原文](https://x.com/givros/status/2103860776419111285) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103855977376125161"></a>
+
+### 瓶中船體素 WebGL 場景
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/2f45920bf771d92b9bce39284ff16726678fe0e30e9a656a8fc5a68f7ab463ff.webp" width="840" loading="lazy" alt="瓶中船體素 WebGL 場景"></a>
+
+**提示詞**
+
+```text
+設計並建立一個極具創意、精巧且細節豐富的體素藝術場景，呈現一艘精緻的船在瓶中海洋裡航行。加入波浪與逼真的物理效果，讓整個場景完整封裝在瓶中。讓場景令人印象深刻且充滿變化，使用繽紛的體素、模擬物理效果，以及有趣的道具與景觀，並將所有內容封裝在瓶中。使用 WebGL 與任何必要的函式庫完成，但請確保所有程式碼都能貼入單一 HTML 檔案，並在 Chrome 中開啟。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Design and create a very creative, elaborate, and detailed voxel art scene of a intricate ship sailing through the ocean inside of a bottle. Include waves and realistic physics, with the whole scene encapsulated inside of the bottle. Make the scene impressive and varied and use colorful voxels, modeled physics, and interesting props / landscapes all encapsulated inside of the bottle. Use WebGL and whatever libraries to get this done but make sure I can paste it all into a single HTML file and open it in Chrome
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103855977376125161) · [查看原文](https://x.com/Artless101/status/2103856049925071141) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103846630088716687"></a>
+
+### 精緻的 15 秒動態設計圖像影片
+
+[Tasher](https://x.com/Dannnnnok) · 2026-09-26 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103846630088716687"><img src="../assets/previews/5ac04e5937cd19c2305122056a57079333c484aac9d3a8551507e3616b0c9a19.webp" width="840" loading="lazy" alt="精緻的 15 秒動態設計圖像影片"></a>
+
+**提示詞**
+
+```text
+我很想看看你的動態設計能力有多強。為了證明這一點，請製作一支精緻的 15 秒動畫圖像影片，展現你的動態設計技巧。這支作品將在 X 上呈現給 10,000 人觀看，因此請讓它具備吸引力、專業感與令人難忘的視覺效果。請充分發揮創意，盡可能製作出最出色的成果
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I’m curious to see how strong you are as a motion designer. To prove it, create a polished 15-second animated graphic video that showcases your motion design skills. This piece will be presented to 10,000 people on X, so make it visually compelling, professional, and memorable. Take full creative freedom and make the strongest result you can
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103846630088716687) · [查看原文](https://x.com/Dannnnnok/status/2103847239885939019) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103822946800165270"></a>
+
+### Minecraft 風格體素遊戲，搭載進階著色器
+
+[DreykØ](https://x.com/dreyk0o0) · 2026-09-26 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103822946800165270"><img src="../assets/previews/4ef0cface56b3289b525d03044a300a6af2f051a6cd71444a36274edbd44da0e.webp" width="840" loading="lazy" alt="Minecraft 風格體素遊戲，搭載進階著色器"></a>
+
+**提示詞**
+
+```text
+在單一 HTML 檔案中建立 Minecraft 風格的體素遊戲，並讓它能在瀏覽器中執行。
+- 第一人稱控制：WASD、滑鼠視角、跳躍
+- 程序化地形，包含丘陵、水域與樹木
+- 使用滑鼠放置及破壞方塊，共 5 種方塊類型
+- 進階著色器：移動中的太陽、柔和陰影、環境光遮蔽、霧效、水面反射
+- 在筆記型電腦上維持流暢的 60 fps
+使用 CDN 載入 Three.js。測試遊戲、修正所有錯誤，接著持續改善視覺效果，直到看起來盡可能逼真。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a Minecraft-style voxel game in a single HTML file that runs in the browser.
+- First-person controls: WASD, mouse look, jump
+- Procedural terrain with hills, water and trees
+- Place and break blocks with the mouse, 5 block types
+- Advanced shaders: moving sun, soft shadows, ambient occlusion, fog, water reflections
+- Smooth 60 fps on a laptop
+Use Three.js from a CDN. Test it, fix every bug, then keep improving the visuals until it looks as realistic as possible.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103822946800165270) · [查看原文](https://x.com/dreyk0o0/status/2103822946800165270) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103801834930606193"></a>
+
+### Spotify 主題動態圖像影片
+
+[Brain](https://x.com/brainextends) · 2026-09-26 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103801834930606193"><img src="../assets/previews/75ebc1defe8d18a4ce53a2b3bcae792b69b6d9762c712cc422bf6217726662cb.webp" width="840" loading="lazy" alt="Spotify 主題動態圖像影片"></a>
+
+**提示詞**
+
+```text
+請根據以下簡述，製作一部完整、精緻的 Spotify 主題動態圖像影片。本提示詞可獨立使用：不需要參考影片或提供素材。
+
+<deliverables> 一部 18 秒、1920×1080、原生 60 fps 的 MP4，包含音樂與細微音效 完整且可編輯的來源檔案 在交付前建置、算圖、檢查並優化動畫 不要只停留在分鏡腳本、靜態圖片或實作計畫階段 </deliverables>
+<art_direction>
+在一個大型、近乎黑色的圓角矩形舞台內，呈現高級音樂產品廣告影片
+舞台約佔畫布寬度的 80% 與高度的 75%，水平置中，並略低於垂直中心
+舞台外使用柔和、具氛圍感的綠色背景：左上角附近為明亮的祖母綠，兩側轉為更深的森林綠，底部逐漸淡至近黑色
+舞台內：
+近黑色背景
+白色主要文字
+低彩度灰色次要文字
+使用 Spotify 綠色 # 1ED760 作為強調色與控制項顏色
+使用一款乾淨的無襯線字體，例如 Geist 或 Inter
+一致的圖示線條粗細與克制的陰影
+構圖保持緊湊並置中，保留充足的負空間
+文字應具有音樂產品廣告的感覺，而不是過大的簡報標題
+不要加入外部說明文字、創作者浮水印、裝飾性頁尾或進度計數器
+</art_direction>
+
+<artwork> 為虛構曲目「Glass Tides」及藝人「AURA」創作原創方形專輯封面
+主視覺封面是一張流動的珠光液態絲綢與熔融玻璃抽象微距影像
+使用淡紫色、粉霧青、腮紅粉、香檳金與細緻的薄荷綠
+加入寬大的立體褶皺、寫實反光高光、細緻的紋理，以及一道醒目的流動 S 形褶皺
+填滿整個方形畫面，不留邊緣
+主視覺作品不得包含文字、標誌或邊框
+整部影片中一致使用這張作品
+
+另外設計播放清單封套：
+「Late Nights」使用芥末黃色
+「Good Energy」使用粉紅色
+「Deep Focus」使用藍色
+「Daily Mix 1」、「Daily Mix 2」與「Daily Mix 3」使用相互搭配的色彩
+
+這些封套應呈現完成度高的平面設計效果，搭配粗體字與簡潔的幾何圖樣
+</artwork>
+
+<timeline> 0.0–0.6 秒：綠色 Spotify 圖示平滑放大，進入深色舞台中央 以極少的過衝營造俐落而自信的登場效果
+0.6–1.5 秒：
+圖示轉換為位於兩行置中文字上方的小型 Spotify 品牌識別：
+「Discover」
+「new music」
+第一行為白色；第二行為綠色
+以短促的遮罩垂直移動揭示文字
+1.5–2.4 秒：
+風格化的 Spotify 桌面介面向上升起並進入畫面
+顯示窄版側邊欄、「Made for you」、三張專輯卡片與幾列小型輔助內容
+進場時使用細微的透視傾斜，最後穩定至正面視角
+2.4–3.2 秒：
+拉近三張主打封面
+在上方顯示「New for you」
+保持作品清晰，並在下方加入簡短專輯名稱
+窄版圓角播放器列此時固定於舞台底部
+3.2–4.0 秒：
+主打卡片退回，轉為精簡的「Fresh finds」清單
+以些微交錯的時間差揭示四列歌曲
+每列包含縮圖、簡短曲名、藝人與小型選單圖示
+4.0–4.9 秒：
+轉場為一條由多彩播放清單封面組成的水平帶
+標題：「Every mood」
+輔助文字：「Find what moves you」
+封面帶平順地左右滑動，邊緣卡片部分被舞台裁切
+4.9–5.8 秒：
+顯示精簡的搜尋欄位
+輸入「Glass Tides」
+在下方揭示一個選取結果，包含彩虹般的作品、「AURA」與綠色播放圖示
+
+5.8–6.6 秒：
+選取的作品放大為置中的大型封面
+在下方揭示「Glass Tides」，接著以綠色顯示「AURA」
+保持播放器列可見
+6.6–7.5 秒：
+同一張封面向左滑動
+右側顯示曲目資訊：
+「Glass Tides」
+「AURA」
+「A new frequency」
+加入圓角綠色播放按鈕
+協調封面移動與文字揭示
+7.5–8.3 秒：
+短暫的品牌色轉換以綠色填滿內部舞台
+作品收縮為置中的小型圖塊
+在下方放置小型深色 Spotify 品牌識別
+播放器短暫退至背景
+8.3–9.8 秒：
+回到深色舞台
+同一張作品朝鏡頭大幅放大，變得超大並被圓角舞台裁切
+恢復底部的播放器
+在縮放最快的部分使用受控的動態模糊
+
+9.8–11.2 秒：
+作品清除後，轉為置中的文字宣告：
+「Find your」
+「rhythm」
+第一行使用白色，第二行使用綠色
+播放器穩定地保持在下方並持續可見
+11.2–12.5 秒：
+顯示「Made for your every day」
+三個播放清單封套以柔和透視與小幅相反傾斜進場
+它們在舞台中展開為六個較小的封套
+輔助文字：「Your sound, always evolving」
+
+12.5–14.0 秒：
+播放清單版面轉換為四張漂浮的專輯封面
+包含彩虹般的主視覺作品
+使用克制的旋轉、透視、深度排序與重疊
+保持移動彼此協調，不要任意漂浮
+14.0–15.2 秒：
+封面向中心匯聚，並環繞折疊於綠色 Spotify 圖示周圍
+作品退去，讓圖示成為視覺焦點
+淡出播放器
+Spotify 圖示必須從匯聚封面所在的同一個中心位置出現
+15.2–18.0 秒：
+圖示稍微向左移動，停在大型白色「Spotify」字標旁邊
+移動過程中，圖示與字母始終保持分離
+揭示：
+「Discover new music」
+「every day」
+第一行為白色；第二行為綠色
+保持完成的構圖乾淨俐落，直到影片結束
+</timeline>
+<persistent_player>
+在中段的大部分序列中，於內部舞台底部附近保留一條窄版圓角播放器列
+包含：
+主視覺作品的小型縮圖
+「Glass Tides」與「AURA」
+播放與跳過控制項
+細窄的進度軌
+小型音量圖示
+低調的深色半透明樣式與細邊框
+這個反覆出現的播放器串聯不斷變化的鏡頭
+其視覺層級必須低於作品本身
+</persistent_player>
+
+<motion_quality>
+符合剪輯緊湊的高級產品廣告影片節奏
+大多數視覺概念約持續一秒，但轉場仍須平順
+使用連續的加速與減速
+優先使用臨界阻尼彈簧或經過細緻調整的平滑緩動
+不要反覆彈跳或出現大幅彈性過衝
+在搜尋、專輯詳細資訊、品牌圖塊與縮放過程中，維持主視覺作品的辨識度與位置關係
+使用位置匹配轉場、協調縮放、遮罩揭示與透視
+離場標題必須在入場標題佔據相同空間前消失
+避免文字重疊、突然重設鏡頭、長時間空白間隔與任意的全畫面交叉淡化
+所有超大封面與鏡頭移動都必須乾淨地裁切至圓角舞台範圍內
+不要加入粒子、衝擊波圓環、鏡頭光暈、攝影機震動或無關的庫存影片
+</motion_quality>
+
+<audio> 創作或選用約 120 BPM、可商業使用的電子音樂 使用乾淨的脈衝、溫暖的低音、克制的旋律元素與細微的轉場點綴 讓重要的進場、選取、縮放與標誌揭示對齊音樂事件 音效音量低於音樂 不要使用旁白 未經授權不得使用受著作權保護的商業曲目 </audio>
+<implementation_and_validation>
+透過 async window.seek(t) 函式，以絕對時間驅動並建置可重現的動畫
+每個變形、透明度、遮罩與 UI 狀態，都必須在以任意順序搜尋影格時保持可重現
+輸出時不得依賴即時計時器、累積式物理模擬或 CSS 轉場狀態
+
+以原生 60 fps 搭配空間抗鋸齒進行算圖
+每個輸出影格使用 3–5 個時間子影格樣本，以產生克制的動態模糊
+保持靜止文字與作品清晰銳利
+檢查聯絡表與動態播放畫面
+確認快速標題變換、作品交接、縮放、封面匯聚與最終字標間距
+驗證影格時間戳等距分布，以及完整的 18 秒時長
+在交付最終 MP4 與可編輯來源檔案前修正視覺瑕疵
+</implementation_and_validation>
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video or supplied assets are required.
+
+<deliverables> An 18-second MP4 at 1920×1080 and true 60 fps, with music and subtle sound effects Complete editable source Build, render, inspect, and refine the animation before delivering it Do not stop at a storyboard, still images, or an implementation plan </deliverables>
+<art_direction>
+A premium music-product film presented inside a large, nearly black rounded rectangular stage
+The stage occupies roughly 80% of the canvas width and 75% of its height, centered horizontally and slightly below the vertical center
+Outside the stage, use a soft atmospheric green background: luminous emerald near the upper-left corner, deeper forest green toward the sides, fading to near-black at the bottom
+Inside the stage:
+Near-black background
+White primary typography
+Muted gray secondary text
+Spotify green # 1ED760 for emphasis and controls
+One clean sans-serif font, such as Geist or Inter
+Consistent icon strokes and restrained shadows
+Keep compositions compact and centered, with substantial negative space
+Text should feel like music-product advertising, not oversized presentation headings
+Do not add an outer caption, creator watermark, decorative footer, or progress counter
+</art_direction>
+
+<artwork> Create original square album artwork for a fictional track called “Glass Tides” by “AURA”
+The hero cover is an abstract macro image of flowing pearlescent liquid silk and molten glass
+Use pastel lavender, powder cyan, blush pink, champagne gold, and subtle mint
+Include broad three-dimensional folds, realistic reflective highlights, delicate striations, and a prominent sweeping S-shaped fold
+Fill the square edge to edge
+No text, logo, or border on this hero artwork
+Use this same artwork consistently throughout the film
+
+Create additional designed playlist sleeves:
+“Late Nights” in mustard yellow
+“Good Energy” in pink
+“Deep Focus” in blue
+“Daily Mix 1”, “Daily Mix 2”, and “Daily Mix 3” in complementary colors
+
+These should look like finished graphic-design covers, with bold typography and simple geometric motifs
+</artwork>
+
+<timeline> 0.0–0.6 seconds: A green Spotify icon grows smoothly into the center of the dark stage Give it a confident arrival with minimal overshoot
+0.6–1.5 seconds:
+The icon transitions into a small Spotify identity above two centered lines:
+“Discover”
+“new music”
+The first line is white; the second is green
+Reveal them with short masked vertical movements
+1.5–2.4 seconds:
+A stylized Spotify desktop interface rises into view
+Show a slim sidebar, “Made for you”, three album cards, and small supporting rows
+Use a subtle perspective tilt during the entrance, settling toward a frontal view
+2.4–3.2 seconds:
+Move closer to the three featured covers
+Show “New for you” above them
+Keep the artwork crisp, with short album titles beneath
+A narrow rounded player bar now anchors the bottom of the stage
+3.2–4.0 seconds:
+The featured cards withdraw into a compact “Fresh finds” list
+Reveal four song rows with a slight stagger
+Each row contains a thumbnail, short track title, artist, and a small menu icon
+4.0–4.9 seconds:
+Transition into a horizontal strip of colorful playlist covers
+Heading: “Every mood”
+Supporting line: “Find what moves you”
+The strip slides smoothly sideways, with edge cards partially cropped by the stage
+4.9–5.8 seconds:
+A compact search field appears
+Type “Glass Tides”
+Reveal one selected result beneath it, with the iridescent artwork, “AURA”, and a green play icon
+
+5.8–6.6 seconds:
+The selected artwork expands into a large centered cover
+Reveal “Glass Tides” underneath, followed by “AURA” in green
+Keep the player bar visible
+6.6–7.5 seconds:
+The same cover slides left
+Track information appears on the right:
+“Glass Tides”
+“AURA”
+“A new frequency”
+Add a rounded green Play button
+Coordinate the cover movement and text reveals
+7.5–8.3 seconds:
+A brief brand-color transformation fills the inner stage with green
+The artwork contracts into a smaller centered tile
+Place a small dark Spotify identity underneath
+The player briefly recedes
+8.3–9.8 seconds:
+Return to the dark stage
+The same artwork expands dramatically toward the camera, becoming oversized and cropped by the rounded stage
+Restore the player at the bottom
+Use controlled motion blur during the fastest part of the zoom
+
+9.8–11.2 seconds:
+The artwork clears into a centered typographic statement:
+“Find your”
+“rhythm”
+Use white for the first line and green for the second
+The player remains visible and stable beneath it
+11.2–12.5 seconds:
+Show “Made for your every day”
+Three playlist sleeves enter with gentle perspective and small opposing tilts
+They spread into six smaller sleeves across the stage
+Supporting line: “Your sound, always evolving”
+
+12.5–14.0 seconds:
+The playlist layout transitions into four floating album covers
+Include the iridescent hero artwork
+Use restrained rotation, perspective, depth ordering, and overlap
+Keep their movement coordinated rather than randomly floating
+14.0–15.2 seconds:
+The covers converge toward the center and fold around a green Spotify icon
+The artwork withdraws as the icon becomes the focal point
+Fade the player away
+The Spotify icon must emerge from the same central position as the converging covers
+15.2–18.0 seconds:
+The icon moves slightly left and settles beside a large white “Spotify” wordmark
+Keep the icon and letters separated throughout the movement
+Reveal:
+“Discover new music”
+“every day”
+The first line is white; the second is green
+Hold the finished composition cleanly through the end
+</timeline>
+<persistent_player>
+For most of the middle sequence, keep one narrow rounded player bar near the bottom of the inner stage
+Include:
+Small hero-art thumbnail
+“Glass Tides” and “AURA”
+Play and skip controls
+A thin progress track
+A small volume icon
+Subdued dark translucent styling with a fine border
+This recurring player connects the changing shots
+It must remain visually secondary to the artwork
+</persistent_player>
+
+<motion_quality>
+Match the energy of a tightly edited premium product film
+Most visual ideas last approximately one second, but transitions remain smooth
+Use continuous acceleration and deceleration
+Favor critically damped springs or carefully tuned smooth easing
+No repeated bouncing or large elastic overshoots
+Preserve the hero artwork’s identity and position relationships through search, album detail, brand tile, and zoom
+Use match-position transitions, coordinated scaling, masked reveals, and perspective
+Outgoing titles must disappear before incoming titles occupy the same space
+Avoid overlapping text, sudden camera resets, long blank intervals, and arbitrary full-frame crossfades
+Clip every oversized cover and camera move cleanly to the rounded stage
+No particles, shockwave rings, lens flares, camera shake, or unrelated stock footage
+</motion_quality>
+
+<audio> Create or select commercially usable electronic music around 120 BPM Use a clean pulse, warm bass, restrained melodic elements, and subtle transition accents Align important entrances, selections, zooms, and the logo reveal with musical events Keep effects quieter than the music No voiceover Do not use copyrighted commercial tracks without permission </audio>
+<implementation_and_validation>
+Build a deterministic animation driven by absolute time through an async window. seek(t) function
+Every transform, opacity, mask, and UI state must be reproducible when seeking frames in any order
+Do not depend on live timers, accumulated physics, or CSS transition state during export
+
+Render true 60 fps with spatial antialiasing
+Use 3–5 temporal subframe samples per output frame for restrained motion blur
+Keep stationary text and artwork sharp
+Inspect contact sheets and moving playback
+Check the fast heading changes, artwork handoffs, zoom, cover convergence, and final wordmark spacing
+Verify evenly spaced frame timestamps and the full 18-second duration
+Fix visual defects before delivering the final MP4 and editable source
+</implementation_and_validation>
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103801834930606193) · [查看原文](https://x.com/brainextends/status/2103801834930606193) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103504887439065439"></a>
 
 ### 動感十足的 15 秒動態設計作品集影片
@@ -2582,202 +3049,7 @@ make me a model of the Hundenberg on blender make me a realistic video of the ac
 
 ---
 
-<a id="claude-opus-5-5-2102544406117286004"></a>
 
-### 以圖片為基礎的手球場 360 度 3D 渲染
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="以圖片為基礎的手球場 360 度 3D 渲染"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-**提示詞**
-
-```text
-將圖片中的手球場、球門、裁判、選手與球進行 3D 渲染，讓人可以從 360 度自由角度觀看。請精準重現每位人物的姿勢，以及物體的色彩。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544406117286004) · [查看原文](https://x.com/chikaidev/status/2102545257372213581) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### 從影像打造程序化 Three.js 3D 主選單背景
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="從影像打造程序化 Three.js 3D 主選單背景"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**提示詞**
-
-```text
-在單一 HTML 檔案中，以 Three.js 3D 完美重現這個完全程序化、具動畫效果的主選單背景
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544196808667471) · [查看原文](https://x.com/majidmanzarpour/status/2102544198335373576) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### 自動運行的 3D 魯布・戈德堡機械
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="自動運行的 3D 魯布・戈德堡機械"></a>
-
-**提示詞**
-
-```text
-在目前目錄中，將一台會自行運轉的 3D 魯布・戈德堡機械建立為單一且自包含的 index.html。
-
-連鎖流程依序如下：
-1. 從頂端釋放一顆彈珠，讓它沿著一連串的鋸齒形斜坡滾下。
-2. 彈珠撞倒一排至少 12 塊骨牌。
-3. 最後一塊骨牌壓下翹翹板，將一顆小球彈進懸掛的桶子。
-4. 桶子的重量將它向下拉；桶子的繩索繞過滑輪並猛拉一口鐘，使鐘明顯地擺動。
-5. 同一個動作會將旗幟沿著旗桿升起。旗幟升至頂端即為完成。
-
-規則：
-- 自行撰寫物理系統：不得使用物理函式庫。彈珠釋放後的所有運動都必須來自你的模擬（剛體、碰撞、約束、繩索／滑輪）。機械的任何部件都不得使用關鍵影格動畫或補間動畫來驅動運動。
-- 可從 CDN 載入 three.js 以進行渲染。不得使用其他外部資源：不可使用圖片、模型或字型。
-- 不得需要使用者輸入：頁面載入時自動開始，使用跟隨動作的電影感攝影機，並在約 15–20 秒內完成整個連鎖流程。旗幟升起後停留 2 秒，接著重設並重新播放。
-- 具確定性：使用固定時間步長，且不得使用未設種子的隨機性，讓每次執行看起來都一樣。
-- 填滿瀏覽器視窗。畫面會以 1280×720 進行螢幕錄影。
-- 不得顯示任何螢幕文字或任何形式的使用者介面。
-- 打造良好的視覺效果：加入燈光、陰影、材質，以及能讓整體感覺像真實機械裝置的場景。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544078927741369) · [查看原文](https://x.com/leogao25/status/2102544081863717153) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### 互動式彼得兔風格農場動物遊戲
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="互動式彼得兔風格農場動物遊戲"></a>
-
-**提示詞**
-
-```text
-「使用《彼得兔》的設計／美術風格，建立一款互動式農場動物遊戲」
-主選單＝音效開／關＋動物選擇器（馬、豬、牛、貓、狗）
-Esc＝暫停：重設並返回出生點／主選單／
-使用 WASD 四處移動
-按空白鍵跳躍；靠近其他動物時可與牠們互動
-偵測到接近時，隨機觸發互動
-互動可以是對其他動物發出聲音（不同於牠們平時的被動叫聲），或「輕碰牠們」
-可互動的物件：飲水、吃乾草、吃水果。
-第三人稱視角，但鏡頭要稍微位於動物後方並高於動物
-環境中的動物包括鳥類；天空中會隨機出現飛機
-場景＝農田、穀倉，以及有房屋的農村（不能進入房屋）
-準備足以吸引注意力的資產，但不必多到被視為正式製作等級；這只是想在一天中抽出 15 分鐘，和女兒一起玩得開心
-React、SVG、JS、WebGL、Three.js，凡是能讓遊戲感覺「好玩」所需的一切」
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102538762731565085) · [查看原文](https://x.com/blaso96/status/2102538764749037738) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### 電影感互動式夕陽海盜船
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="電影感互動式夕陽海盜船"></a>
-
-**提示詞**
-
-```text
-從零開始建立一個完全可互動的 3D 海盜船場景，呈現海盜船在夕陽下穿越動態海面的情景。視覺風格應具電影感與風格化特色，而非追求寫實，但仍須極其豐富、細緻、精緻且具高度視覺質感。製作船體、海面、天空、燈光、材質、船帆、骨架綁定、火砲、細小結構細節、海沫、尾流、粒子、動畫、鏡頭運動、構圖、空氣透視與色彩分級。最終成果應呈現高級、高製作水準的 3D 藝術作品，而不是原型、技術展示或低品質場景。從完全空白的頁面開始。不要重複使用或依賴任何先前的專案或場景。必要時，可以自行製作資產，或使用可靠、值得信賴的開源資產與函式庫。強制要求：場景內任何位置都不得出現任何形式的文字。不得出現任何語言的標題、名稱、標誌、描述、製作人員名單、標籤或操作說明。將整個專案交付為一個最終的獨立頁面檔案，可直接在網頁瀏覽器中開啟，並在合理可行的範圍內將資產嵌入其中。海面、船隻、船帆與鏡頭都必須自然且流暢地動態呈現。避免人為的慢動作或遲滯的移動。船隻應讓人感覺確實正在水中航行。不要以原始幾何形狀作為最終成果。製作具視覺說服力且細節豐富的海盜船，包括經過仔細塑形的船體、桅杆、船帆、骨架綁定、繩索、火砲、欄杆、提燈、甲板結構，以及清楚可見的小尺度細節。燈光必須清楚呈現船隻的幾何結構與材質。營造豐富的夕陽氛圍、深邃的海面明暗、反射、可信的海沫，以及船隻後方與周圍細節豐富的航行尾流。在視覺品質與即時效能之間維持良好平衡，確保互動與動畫流暢，不要為了效能而明顯犧牲品質。自動運用達成最佳成果所需的適當技能、工具、函式庫、技術與可用資產。不要等我指定要使用哪些技術。實際在桌面網頁瀏覽器中測試完成的成果。擷取視覺畫面、檢查瀏覽器主控台是否有錯誤，並修正你發現的每一項可見或技術問題，包括變形的幾何結構、黑畫面、資產載入失敗、動畫故障、構圖不佳、渲染瑕疵或鏡頭問題。最後，確認最終檔案能直接開啟並正常運作、場景完全不含任何文字，且不再有任何執行階段或載入錯誤。接著僅以簡短回覆結束任務。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102533729746882985) · [查看原文](https://x.com/vib3coded/status/2102534606121746589) · [返回案例導覽](#all-prompts)
-
----
-
-
-[完整目錄](catalog.zh-Hant.md) · **1 / 9** · [→](catalog.zh-Hant.2.md)
+[完整目錄](catalog.zh-Hant.md) · **1 / 10** · [→](catalog.zh-Hant.2.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">完整目錄 →</a></strong></p>

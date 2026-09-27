@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.8.md) · **9 / 9**
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.8.md) · **9 / 10** · [→](catalog.tr.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (47)</summary>
+<summary>Örnekleri keşfet (50)</summary>
 
+- [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [Oynanabilir Titanic felaketi oyunu](#playable-titanic-disaster-game-2094867850355679617)
+- [Çok oyunculu dinozor hayatta kalma oyunu](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [On dakikada Three.js oyunu, ardından iyileştirme](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [Cam beyin yetenek demosu](#glass-brain-capability-demo-2094853472864682360)
 - [Prosedürel voksel kale gösterimi](#procedural-voxel-castle-showcase-2093690427849191855)
 - [Jeep tarzı bir 4x4 için Blender montaj istemi](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [Bağımsız HTML sahneleri için 3B yıkım fiziği istemleri](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [Tek HTML dosyasında Three.js voksel futbol animasyonu istemi](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Fable 5 ile New York kurmak için Blender şehir modelleme istemi](#modeling-new-york-city-in-blender-2079387760478073087)
-- [Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Three.js uçak içi gezinti deneyimi istemi](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### WebGL gölgelendiricileriyle AAA sürü nişancı oyunu
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="WebGL gölgelendiricileriyle AAA sürü nişancı oyunu"></a>
+
+**İstem**
+
+```text
+Dostum, ThreeJS ve web gölgelendiricileriyle yapabileceğin en çılgın, en eğlenceli nişancı oyununu yap! En önemli şeyler ateş etme, dinamikler, geri tepme, grafikler, vuruş etkisi ve silah hissi. Düşmanların sürüler hâlinde geldiği harika tasarlanmış bir arena olsun. Nişangâhtan bakma, silah ataleti ve ağırlığı; ayrıca saldırı tüfeği, pompalı tüfek ve keskin nişancı destek tüfeği ekle.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Orijinal gönderi](https://x.com/superalesha/status/2094869490165039243) · [Kaynak kodu](https://github.com/alesha-pro/bench-portal) · [Canlı demo](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### Oynanabilir Titanic felaketi oyunu
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Oynanabilir Titanic felaketi oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Oyuncunun gemide dolaştığı, görevleri yaptığı ve buzdağından kaçınmaya çalıştığı sinematik Titanic oyunu oluştur. Kontroller anlaşılır, tehlike giderek artan yapıda olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Orijinal gönderi](https://x.com/vikktorrrre/status/2094867850355679617) · [Canlı demo](https://rms-titanic-1912.netlify.app/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### Çok oyunculu dinozor hayatta kalma oyunu
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Çok oyunculu dinozor hayatta kalma oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Avlanma, yemek pişirme, eşya üretme, üs kurma, tehlikeli dinozorlar ve oyuncuyu keşfe yönelten ilerleme döngüsü olan çok oyunculu hayatta kalma oyunu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Orijinal gönderi](https://x.com/Rubzem/status/2094866225960493189) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### On dakikada Three.js oyunu, ardından iyileştirme
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="On dakikada Three.js oyunu, ardından iyileştirme"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+On dakikada açık hedefli, tepkili kontrollü, anlaşılır tehlikeli ve eksiksiz kazanma veya kaybetme durumu olan küçük Three.js oyunu oluştur. Sonra oynanabilir sonucu incele; görselleri, tempoyu ve geri bildirimi sonraki düzenlemelerle geliştir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Orijinal gönderi](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### Cam beyin yetenek demosu
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Cam beyin yetenek demosu"></a>
+
+**İstem**
+
+```text
+yeteneklerini gösteren bir Three.js demosu yap.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Orijinal gönderi](https://x.com/viewsfrom02108/status/2094853472864682360) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### Prosedürel voksel kale gösterimi
@@ -1127,43 +1244,7 @@ Sırada hangi şehri modellememi istersiniz?
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi
-
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi"></a>
-
-**İstem**
-
-```text
-Basit voksel tarzı futbol animasyonu için Three.js (CDN) kullanan tek HTML dosyası oluştur. Blok oyuncu 2 savunmacıyı çalımlayıp kutlama parçacıklarıyla muhteşem gol atsın. Renkli stadyum görünümü kullan. YALNIZCA eksiksiz HTML kodunu döndür.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Orijinal gönderi](https://x.com/Zmthanh/status/2079198084689723560) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Three.js uçak içi gezinti deneyimi istemi
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Three.js uçak içi gezinti deneyimi istemi"></a>
-
-**İstem**
-
-```text
-Three.js'de 3B uçak modelini görselleştirip içinde yürüyebileceğim bir deneyim üret.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.8.md) · **9 / 9**
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.8.md) · **9 / 10** · [→](catalog.tr.10.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

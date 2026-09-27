@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[全カタログ](catalog.ja.md) · [←](catalog.ja.8.md) · **9 / 9**
+[全カタログ](catalog.ja.md) · [←](catalog.ja.8.md) · **9 / 10** · [→](catalog.ja.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (47)</summary>
+<summary>作例を見る (50)</summary>
 
+- [WebGL シェーダーで作る AAA 群れ撃ちシューター](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [タイタニック号の危機を体験するゲーム](#playable-titanic-disaster-game-2094867850355679617)
+- [マルチプレイ恐竜サバイバルゲーム](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [10 分で Three.js ゲームを作り、さらに改善](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [ガラスの脳で見せる能力デモ](#glass-brain-capability-demo-2094853472864682360)
 - [手続き生成するボクセル城のショーケース](#procedural-voxel-castle-showcase-2093690427849191855)
 - [Jeep 風 4×4 の Blender 組み立てプロンプト](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [自己完結型 HTML シーンの 3D 破壊物理プロンプト](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [HTML 一つで WebGL2 ブラックホールを光線追跡する Kimi K3 プロンプト](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [HTML 一つで作る Three.js ボクセル風サッカーアニメーション](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Fable 5 でニューヨークを作る Blender 都市モデリングのプロンプト](#modeling-new-york-city-in-blender-2079387760478073087)
-- [単一ファイルでボクセルサッカーを動かす Fable 5 の Three.js プロンプト](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Three.js の飛行機内を歩く体験プロンプト](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### WebGL シェーダーで作る AAA 群れ撃ちシューター
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="WebGL シェーダーで作る AAA 群れ撃ちシューター"></a>
+
+**プロンプト**
+
+```text
+ThreeJS と Web シェーダーで、作れる限り最高にぶっ飛んだ爽快シューターを作って！ 大事なのは射撃、動き、反動、グラフィックス、着弾の手応え、銃を撃つ感覚。美しく設計されたアリーナに敵が大群で押し寄せる。ADS 照準、武器の慣性と重量感、アサルトライフル、ショットガン、マークスマンライフルを入れて。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [元の投稿](https://x.com/superalesha/status/2094869490165039243) · [ソースコード](https://github.com/alesha-pro/bench-portal) · [デモ](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### タイタニック号の危機を体験するゲーム
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="タイタニック号の危機を体験するゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+船内を移動し、任務をこなし、氷山を避けようとする映画的なタイタニックゲームを作成してください。分かりやすい操作と、次第に高まる危険を表現してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [元の投稿](https://x.com/vikktorrrre/status/2094867850355679617) · [デモ](https://rms-titanic-1912.netlify.app/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### マルチプレイ恐竜サバイバルゲーム
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="マルチプレイ恐竜サバイバルゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+狩猟、料理、クラフト、拠点建築、危険な恐竜、探索を続けたくなる成長の流れを備えたマルチプレイサバイバルゲームを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [元の投稿](https://x.com/Rubzem/status/2094866225960493189) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### 10 分で Three.js ゲームを作り、さらに改善
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="10 分で Three.js ゲームを作り、さらに改善"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+10 分で小さな Three.js ゲームを作成してください。明確な目標、反応のよい操作、分かりやすい危険、完結した勝敗条件を用意します。その後、実際に遊べる結果を評価し、追加の修正で見た目、展開速度、フィードバックを磨いてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [元の投稿](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### ガラスの脳で見せる能力デモ
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="ガラスの脳で見せる能力デモ"></a>
+
+**プロンプト**
+
+```text
+あなたの能力を示す Three.js デモを作ってください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [元の投稿](https://x.com/viewsfrom02108/status/2094853472864682360) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### 手続き生成するボクセル城のショーケース
@@ -1127,43 +1244,7 @@ Three.js（CDN）を使い、単一の HTML ファイルでシンプルなボク
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### 単一ファイルでボクセルサッカーを動かす Fable 5 の Three.js プロンプト
-
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="単一ファイルでボクセルサッカーを動かす Fable 5 の Three.js プロンプト"></a>
-
-**プロンプト**
-
-```text
-Three.js（CDN）を使い、単一の HTML ファイルでシンプルなボクセル風サッカーアニメーションを作成してください。ブロック状の選手が守備 2 人をドリブルで抜き、見事なゴールを決め、祝福の粒子が舞います。色鮮やかなスタジアム風にしてください。完全な HTML コードだけを出力してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [元の投稿](https://x.com/Zmthanh/status/2079198084689723560) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Three.js の飛行機内を歩く体験プロンプト
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Three.js の飛行機内を歩く体験プロンプト"></a>
-
-**プロンプト**
-
-```text
-3D の飛行機モデルを眺め、その中を歩ける体験を Three.js で生成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [元の投稿](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [作例一覧に戻る](#all-prompts)
-
----
-
-
-[全カタログ](catalog.ja.md) · [←](catalog.ja.8.md) · **9 / 9**
+[全カタログ](catalog.ja.md) · [←](catalog.ja.8.md) · **9 / 10** · [→](catalog.ja.10.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

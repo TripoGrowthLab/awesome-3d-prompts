@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.zh-CN.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 9**
+[完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 10** · [→](catalog.zh.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (47)</summary>
+<summary>浏览案例 (50)</summary>
 
+- [带 WebGL Shader 的 AAA 尸潮射击游戏](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [可玩的泰坦尼克灾难游戏](#playable-titanic-disaster-game-2094867850355679617)
+- [多人恐龙生存游戏](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [十分钟生成并继续完善 Three.js 游戏](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [玻璃大脑能力演示](#glass-brain-capability-demo-2094853472864682360)
 - [程序化体素城堡展示](#procedural-voxel-castle-showcase-2093690427849191855)
 - [用于 Blender 组装 Jeep 风格 4x4 的提示词](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [用于独立 HTML 场景的 3D 破坏物理提示词](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [Kimi K3 的单文件 WebGL2 黑洞光线追踪器提示词](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [用于单文件 HTML 的 Three.js 体素风足球动画提示词](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [用于使用 Fable 5 构建纽约的 Blender 城市建模提示词](#modeling-new-york-city-in-blender-2079387760478073087)
-- [用于 Fable 5 的单文件 Three.js 体素足球动画提示词](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### 带 WebGL Shader 的 AAA 尸潮射击游戏
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="带 WebGL Shader 的 AAA 尸潮射击游戏"></a>
+
+**提示词**
+
+```text
+用 Three.js 与 Web Shader 做一款极具冲击力的射击游戏。重点打磨射击、动态、后坐力、画面、命中反馈与枪感；在精心设计的竞技场中迎战尸潮，支持 ADS、武器惯性与重量，并提供突击步枪、霰弹枪和精准步枪。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [查看原帖](https://x.com/superalesha/status/2094869490165039243) · [项目源码](https://github.com/alesha-pro/bench-portal) · [在线演示](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### 可玩的泰坦尼克灾难游戏
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="可玩的泰坦尼克灾难游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建一款电影感泰坦尼克号游戏：玩家可以探索船体、完成任务并尝试避开冰山，具有清晰控制和不断升级的危险。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [查看原帖](https://x.com/vikktorrrre/status/2094867850355679617) · [在线演示](https://rms-titanic-1912.netlify.app/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### 多人恐龙生存游戏
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="多人恐龙生存游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建一款多人荒野生存游戏，包含狩猎、烹饪、制作、基地建设、危险恐龙与持续探索的成长循环。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [查看原帖](https://x.com/Rubzem/status/2094866225960493189) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### 十分钟生成并继续完善 Three.js 游戏
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="十分钟生成并继续完善 Three.js 游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在十分钟内创建一个小型 Three.js 游戏，包含明确目标、灵敏控制、清晰危险物和完整成败状态。试玩后，再通过后续修改完善视觉、节奏与反馈。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [查看原帖](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### 玻璃大脑能力演示
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="玻璃大脑能力演示"></a>
+
+**提示词**
+
+```text
+用 Three.js 做一个展示你能力的 Demo。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [查看原帖](https://x.com/viewsfrom02108/status/2094853472864682360) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### 程序化体素城堡展示
@@ -1142,43 +1259,7 @@ The Hype 将 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同�
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### 用于 Fable 5 的单文件 Three.js 体素足球动画提示词
+[完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 10** · [→](catalog.zh.10.md)
 
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="用于 Fable 5 的单文件 Three.js 体素足球动画提示词"></a>
-
-**提示词**
-
-```text
-创建一个包含 Three.js（CDN）的单个 HTML 文件，用于一个简单的体素风格足球动画。一个方块风球员带球过掉 2 名防守队员，并以壮观的进球和庆祝粒子得分。球场风格色彩鲜明。仅输出完整的 HTML 代码。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [查看原帖](https://x.com/Zmthanh/status/2079198084689723560) · [返回案例导航](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Three.js 飞机内部漫游体验提示词
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Three.js 飞机内部漫游体验提示词"></a>
-
-**提示词**
-
-```text
-用 Three.js 生成一个体验，让我可以查看一个 3D 飞机模型并在其中行走。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [查看原帖](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [返回案例导航](#all-prompts)
-
----
-
-
-[完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 9**
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 447 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>

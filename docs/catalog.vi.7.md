@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.6.md) · **7 / 9** · [→](catalog.vi.8.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.6.md) · **7 / 10** · [→](catalog.vi.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Mô hình turbo 3D tương tác dạng tháo rời](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [Biệt thự rừng Solace: từ yêu cầu đến UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [Bàn tàu hỏa tuổi thơ có thể điều khiển](#driveable-childhood-train-table-2095742344293454148)
 - [Đền rừng và hộ vệ vanara khổng lồ](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [Từ mặt bằng đến chuyến tham quan 3D hoàn chỉnh](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [Mô hình đường sắt voxel tương tác](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [Asset drone đánh chặn của phe doanh nghiệp](#corporate-interceptor-drone-asset-2095176360238915978)
 - [Thế giới 3D Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
 - [Website Phục hưng điện ảnh gồm mười cảnh](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [Đảo ảo cùng dê cưng](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [Hệ Mặt Trời 3D tương tác](#interactive-3d-solar-system-2095165395841999222)
-- [Thành phố từ ảnh panorama equirectangular](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [Hang rồng trong Blender](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Thế giới cướp biển nhiều người trong Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### Mô hình turbo 3D tương tác dạng tháo rời
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Mô hình turbo 3D tương tác dạng tháo rời"></a>
+
+**Prompt**
+
+```text
+Dựng một bộ tăng áp turbo 3D tương tác. Tách riêng mọi hệ thống hoạt động. Cho tôi xoay nó, cô lập từng phần và thấy rõ cỗ máy đang làm gì.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Bài đăng gốc](https://x.com/Feraser8/status/2095776712579571725) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến sáu bức tranh Van Gogh được cung cấp thành một thị trấn Three.js thống nhất có thể đi dạo. Giữ bảng màu và nét cọ riêng của từng tranh, đồng thời nối đường phố, địa danh và các đoạn chuyển tiếp thành một thế giới có thể khám phá.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Bài đăng gốc](https://x.com/petergostev/status/2095776685807346105) · [Bản demo](https://van-goghs-town.surge.sh/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại đầu máy hơi nước cổ trong bản vẽ thành cụm cơ khí chi tiết trong Blender. Giữ bánh xe, trục, hệ treo, thanh truyền, phụ kiện nồi hơi và các tấm vỏ thành đối tượng có tên, chỉnh sửa được, với ngân sách chi tiết có thể kiểm soát.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095756085890310311) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### Biệt thự rừng Solace: từ yêu cầu đến UE5
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Biệt thự rừng Solace: từ yêu cầu đến UE5"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo biệt thự hiện đại trong rừng tên Solace có thể đi tham quan, với ba phòng ngủ, phòng làm việc, sân trung tâm, hồ bơi và rừng bao quanh. Dựng bằng thủ tục trong Blender, render ảnh giờ vàng rồi xuất trải nghiệm UE5 ở 60 FPS.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Bài đăng gốc](https://x.com/NFT_Chen/status/2095752726886105375) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### Bàn tàu hỏa tuổi thơ có thể điều khiển
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Bàn tàu hỏa tuổi thơ có thể điều khiển"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại bàn tàu hỏa tuổi thơ thành đồ chơi Three.js có cảm giác chạm, với đường ray và toa tàu voxel. Cho người chơi lái tàu, đổi nhánh ray, xoay quanh bàn và khám phá các cảnh nhỏ chuyển động.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Bài đăng gốc](https://x.com/BigRyan/status/2095742344293454148) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### Đền rừng và hộ vệ vanara khổng lồ
@@ -982,107 +1089,7 @@ Dựng trải nghiệm trình duyệt điện ảnh gồm mười cảnh, kết 
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### Đảo ảo cùng dê cưng
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Đảo ảo cùng dê cưng"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo đảo Three.js nhỏ có thể khám phá với dê cưng biết đi theo, phản ứng và chơi, cùng chi tiết môi trường ấm cúng và tương tác hằng ngày đơn giản.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Bài đăng gốc](https://x.com/aollivier82/status/2095165578042335442) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### Hệ Mặt Trời 3D tương tác
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Hệ Mặt Trời 3D tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng Hệ Mặt Trời 3D tương tác với hành tinh chạy theo quỹ đạo, điều hướng có tính đến tỷ lệ, nhãn, điều chỉnh tốc độ, mục tiêu camera và thông tin giáo dục hữu ích.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Bài đăng gốc](https://x.com/ego_agent/status/2095165395841999222) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### Thành phố từ ảnh panorama equirectangular
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Thành phố từ ảnh panorama equirectangular"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dùng panorama thành phố equirectangular được cung cấp làm tham chiếu để dựng mô hình thành phố Blender dày đặc trong một lượt, giữ đường chính, khối công trình, đường chân trời và quan hệ không gian.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Bài đăng gốc](https://x.com/hayashimon1/status/2095159781883597031) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### Hang rồng trong Blender
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Hang rồng trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng hang rồng kịch tính trong Blender với rồng làm tâm điểm, tỷ lệ hang lớn, kho báu, khói, ánh lửa, bố cục nhiều lớp và camera điện ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2095149546187653547) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Thế giới cướp biển nhiều người trong Three.js
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Thế giới cướp biển nhiều người trong Three.js"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng thế giới Three.js nhiều người lấy cảm hứng từ anime phiêu lưu cướp biển, với đảo, tàu, di chuyển, chiến đấu và vòng khám phá cùng nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Bài đăng gốc](https://x.com/aman_kambojj/status/2095137561283010600) · [Bản demo](https://onepiece-world.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.6.md) · **7 / 9** · [→](catalog.vi.8.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.6.md) · **7 / 10** · [→](catalog.vi.8.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

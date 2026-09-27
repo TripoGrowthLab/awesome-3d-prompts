@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 2 / 9
+# Awesome 3D Prompts — 2 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.2.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.1.md) · **2 / 9** · [→](catalog.uk.3.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.1.md) · **2 / 10** · [→](catalog.uk.3.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [3D-рендеринг гандбольного майданчика на 360° за зображенням](#claude-opus-5-5-2102544406117286004)
+- [Процедурний 3D-фон головного меню в Three.js за зображенням](#claude-opus-5-5-2102544196808667471)
+- [Автономна 3D-машина Руба Ґолдберґа](#claude-opus-5-5-2102544078927741369)
+- [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](#claude-opus-5-5-2102538762731565085)
+- [Кінематографічний інтерактивний піратський корабель на заході сонця](#claude-opus-5-5-2102533729746882985)
 - [Нескінченний процедурно згенерований світ на Three.js](#claude-opus-5-5-2102529695908806728)
 - [Двоповерховий заміський будинок з інтер’єром](#gpt-6-astra-2102473710724919614)
 - [Інтерактивна симуляція евакуації натовпу](#claude-opus-5-5-2102467667978572092)
@@ -73,13 +78,203 @@
 - [Інтерактивний вулканічний острів із човнами, що тікають](#gpt-6-astra-2099643231659012553)
 - [Створіть сцену готельного коридору](#gpt-6-astra-2099588840419651890)
 - [Воїн видирається на велетня й б’є його в щелепу](#gpt-6-astra-2099519801139908951)
-- [3D-світ із дуже високими хмарочосами](#gpt-6-astra-2099487024256589970)
-- [Модель хвойного дерева до 200 полігонів](#gpt-6-astra-2099472264270102705)
-- [Інтерактивна 3D-сцена із самураєм у лісі](#gpt-6-astra-2099450933067612421)
-- [Ігрова 3D-смуга перешкод](#gpt-6-astra-2099419671481249851)
-- [Автономна модельна залізниця із запобіганням зіткненням](#gpt-6-astra-2099362575339372780)
 
 </details>
+<a id="claude-opus-5-5-2102544406117286004"></a>
+
+### 3D-рендеринг гандбольного майданчика на 360° за зображенням
+
+[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="3D-рендеринг гандбольного майданчика на 360° за зображенням"></a>
+
+**Референси:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
+
+**Промпт**
+
+```text
+Виконай 3D-рендеринг гандбольного майданчика, воріт, арбітра, гравців і м’яча із зображення, щоб сцену можна було вільно оглядати на 360° з будь-якого ракурсу. Точно відтвори пози кожної людини та кольори об’єктів.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544406117286004) · [Оригінальний допис](https://x.com/chikaidev/status/2102545257372213581) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### Процедурний 3D-фон головного меню в Three.js за зображенням
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Процедурний 3D-фон головного меню в Three.js за зображенням"></a>
+
+**Референси:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**Промпт**
+
+```text
+відтворіть це ідеально: повністю процедурний анімований фон головного меню у 3D на Three.js в одному HTML-файлі
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544196808667471) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2102544198335373576) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### Автономна 3D-машина Руба Ґолдберґа
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Автономна 3D-машина Руба Ґолдберґа"></a>
+
+**Промпт**
+
+```text
+Створіть 3D-машину Руба Ґолдберґа, яка запускається й працює самостійно, як один самодостатній index.html у поточній директорії.
+
+Ланцюжок дій у такому порядку:
+1. Мармурова кулька випускається згори й котиться низкою зигзагоподібних рамп.
+2. Вона перекидає ряд щонайменше з 12 доміно.
+3. Остання кісточка доміно нахиляє гойдалку, яка запускає маленьку кульку в підвішене відро.
+4. Вага відра тягне його вниз; його мотузка проходить через блок і смикає дзвін, який має помітно розгойдуватися.
+5. Цей самий рух піднімає прапор уздовж щогли. Завершенням є момент, коли прапор досягає вершини.
+
+Правила:
+- Напишіть фізику самостійно: жодних фізичних бібліотек. Увесь рух після запуску мармурової кульки має походити із вашої симуляції (тверді тіла, зіткнення, обмеження, мотузка та блок). Жодної покадрової анімації чи руху будь-якої частини механізму за допомогою tween-анімації.
+- Для рендерингу можна завантажити three.js із CDN. Більше нічого зовнішнього: жодних зображень, моделей чи шрифтів.
+- Сцена має працювати без введення користувача: автоматично запускатися під час завантаження сторінки, використовувати кінематографічну камеру, що стежить за дією, і завершувати весь ланцюжок приблизно за 15–20 секунд. Після підняття прапора утримуйте його положення 2 секунди, потім скиньте сцену й повторіть відтворення.
+- Детермінованість: фіксований часовий крок і жодної неініціалізованої випадковості, щоб кожен запуск виглядав однаково.
+- Заповнюйте все вікно браузера. Відео записуватиметься у форматі 1280×720.
+- Жодного екранного тексту чи інтерфейсу будь-якого типу.
+- Зробіть сцену привабливою: додайте освітлення, тіні, матеріали й оточення, щоб механізм виглядав справжнім.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544078927741369) · [Оригінальний допис](https://x.com/leogao25/status/2102544081863717153) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»"></a>
+
+**Промпт**
+
+```text
+«Створіть інтерактивну гру про фермерських тварин у стилі «Кролика Пітера»
+головне меню = увімкнення/вимкнення звуків + вибір тварини (кінь, свиня, корова, кіт, собака)
+esc = пауза: скинути гру до початкової точки/головного меню/
+переміщення за допомогою WASD
+пробіл — стрибок і взаємодія з іншими тваринами поблизу
+взаємодії рандомізуються після виявлення близької відстані
+під час взаємодії можна видавати звуки, звертаючись до іншої тварини (унікальні, відмінні від її звуків у стані спокою), або «легенько тицьнути її носом»
+взаємодія з водою для пиття, сіном і фруктами для їжі. 
+гра від третьої особи, але камера має бути трохи позаду тварини й над нею
+для атмосфери — птахи та літаки в небі (з’являються випадково)
+місце дії = фермерські угіддя, сарай, фермерське село з будинками (заходити в будинки не можна)
+Активів має бути достатньо, щоб привернути увагу, але не настільки багато, щоб гру можна було вважати виробничою версією. Це лише спосіб весело провести 15 хвилин мого дня разом із донькою
+react, svg, js, webgl, threejs — використайте все необхідне, щоб гра відчувалася «якісною»»
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102538762731565085) · [Оригінальний допис](https://x.com/blaso96/status/2102538764749037738) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### Кінематографічний інтерактивний піратський корабель на заході сонця
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Кінематографічний інтерактивний піратський корабель на заході сонця"></a>
+
+**Промпт**
+
+```text
+Створіть із нуля повністю інтерактивну 3D-сцену з піратським кораблем, який пливе динамічним океаном на заході сонця. Візуальний стиль має бути кінематографічним і стилізованим, а не фотореалістичним, але водночас надзвичайно насиченим, деталізованим, відшліфованим і візуально витонченим. Створіть корабель, океан, небо, освітлення, матеріали, вітрила, такелаж, гармати, дрібні конструктивні деталі, морську піну, кільватерний слід, частинки, анімацію, роботу камери, композицію, атмосферну перспективу та колірну корекцію. Фінальний результат має сприйматися як преміальна 3D-робота високого виробничого рівня, а не прототип, технічна демонстрація чи низькоякісна сцена. Почніть із повністю порожньої сторінки. Не використовуйте повторно попередні проєкти чи сцени й не покладайтеся на них. За потреби ви можете самостійно створити ресурси або скористатися надійними перевіреними ресурсами й бібліотеками з відкритим кодом. Обов’язкові вимоги: у сцені ніде не має з’являтися жодного тексту. Заборонені заголовки, назви, логотипи, описи, титри, підписи чи інструкції з керування будь-якою мовою. Подайте весь проєкт як один фінальний окремий файл сторінки, який можна безпосередньо відкрити у веббраузері; ресурси слід вбудувати в нього настільки повно, наскільки це розумно можливо. Океан, корабель, вітрила й камера мають рухатися природно та плавно. Уникайте штучного уповільнення або млявої анімації. Корабель має створювати відчуття справжнього руху водою. Не використовуйте примітивні геометричні форми як фінальний результат. Створіть переконливий і деталізований піратський корабель із ретельно сформованим корпусом, щоглами, вітрилами, такелажем, канатами, гарматами, поручнями, ліхтарями, надбудовами палуби та чітко помітними дрібними деталями. Освітлення має виразно передавати геометрію й матеріали корабля. Створіть насичену атмосферу заходу сонця, глибокі відтінки океану, відбиття, переконливу морську піну та деталізований кільватерний слід позаду й навколо судна. Забезпечте вдалий баланс між візуальною якістю та продуктивністю в реальному часі, зберігши плавну взаємодію й анімацію без очевидного погіршення якості. Автоматично використовуйте найвідповідніші навички, інструменти, бібліотеки, методи та доступні ресурси, потрібні для найкращого результату. Не чекайте, поки я вкажу, які технології використовувати. Обов’язково протестуйте готовий результат у веббраузері на комп’ютері. Зробіть візуальні скриншоти, перевірте консоль браузера на наявність помилок і виправте всі виявлені візуальні чи технічні проблеми, зокрема спотворену геометрію, чорний екран, помилки завантаження ресурсів, непрацюючу анімацію, невдалу композицію, артефакти рендерингу чи проблеми з камерою. Наприкінці перевірте, що фінальний файл безпосередньо відкривається й працює, у сцені немає жодного тексту, а помилок виконання чи завантаження не залишилося. Після цього завершіть завдання лише короткою відповіддю.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102533729746882985) · [Оригінальний допис](https://x.com/vib3coded/status/2102534606121746589) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102529695908806728"></a>
 
 ### Нескінченний процедурно згенерований світ на Three.js
@@ -2396,142 +2591,7 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
-<a id="gpt-6-astra-2099487024256589970"></a>
 
-### 3D-світ із дуже високими хмарочосами
-
-[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="3D-світ із дуже високими хмарочосами"></a>
-
-**Промпт**
-
-```text
-створити 3D-світ із дуже високими хмарочосами
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-build a 3D world full of very high skyscrapers
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099487024256589970) · [Оригінальний допис](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099472264270102705"></a>
-
-### Модель хвойного дерева до 200 полігонів
-
-[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="Модель хвойного дерева до 200 полігонів"></a>
-
-**Промпт**
-
-```text
-Чи не могли б ви створити хвойне дерево не більш як із 200 полігонів?
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-200ポリゴン以下で針葉樹を作ってみてくれませんか？
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099472264270102705) · [Оригінальний допис](https://x.com/Watamos827/status/2099472264270102705) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099450933067612421"></a>
-
-### Інтерактивна 3D-сцена із самураєм у лісі
-
-[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="Інтерактивна 3D-сцена із самураєм у лісі"></a>
-
-**Промпт**
-
-```text
-Створіть інтерактивну 3D-сцену із самураєм у лісі, додавши керування камерою, кінематографічне освітлення, деталізоване оточення та лаконічну подачу.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099450933067612421) · [Оригінальний допис](https://x.com/JaynitMakwana/status/2099450933067612421) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099419671481249851"></a>
-
-### Ігрова 3D-смуга перешкод
-
-[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="Ігрова 3D-смуга перешкод"></a>
-
-**Промпт**
-
-```text
-Невелика 3D-смуга перешкод із персонажем, рухомими бар’єрами, предметами для збору та простою фінішною зоною.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099419671481249851) · [Оригінальний допис](https://x.com/heyDhavall/status/2099419671481249851) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099362575339372780"></a>
-
-### Автономна модельна залізниця із запобіганням зіткненням
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="Автономна модельна залізниця із запобіганням зіткненням"></a>
-
-**Промпт**
-
-```text
-Створіть модельну залізницю, на спільній схемі колій якої одночасно рухаються щонайменше три потяги; схема має містити стрілки та сигнали. Потяги повинні самостійно перемикати колії й зупинятися перед сигналами, щоб ніколи не зіткнутися, без будь-якого введення від користувача. Схема, оточення та вигляд усіх елементів — на ваш розсуд. Усі дизайнерські рішення приймайте самостійно: стиль, кольори, настрій, оточення, камеру, рівень деталізації та будь-які додаткові ефекти. Не ставте мені запитань, самостійно зробіть усі вибори й за одну спробу створіть найефектнішу версію. Технічні вимоги: один самодостатній HTML-файл, без зовнішніх моделей, зображень, звуків і URL-адрес ресурсів будь-якого типу (дозволено JavaScript-бібліотеку з CDN). Симуляція має запускатися автоматично одразу після завантаження, без потреби в кліках, і працювати плавно, без помилок у консолі.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099362575339372780) · [Оригінальний допис](https://x.com/free_ai_guides/status/2099362575339372780) · [Назад до прикладів](#all-prompts)
-
----
-
-
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.1.md) · **2 / 9** · [→](catalog.uk.3.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.1.md) · **2 / 10** · [→](catalog.uk.3.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/uk/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Повний каталог →</a></strong></p>

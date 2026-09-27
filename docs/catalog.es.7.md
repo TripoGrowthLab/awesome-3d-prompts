@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Catálogo completo](catalog.es.md) · [←](catalog.es.6.md) · **7 / 9** · [→](catalog.es.8.md)
+[Catálogo completo](catalog.es.md) · [←](catalog.es.6.md) · **7 / 10** · [→](catalog.es.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Un turbocompresor 3D interactivo en vista explosionada](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [Un pueblo que puedes recorrer a partir de seis cuadros de Van Gogh](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [De un dibujo de un tren de vapor a un conjunto editable en Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [Solace: de una villa en el bosque a UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [Una maqueta de trenes de la infancia que puedes conducir](#driveable-childhood-train-table-2095742344293454148)
 - [Un templo en la selva y su guardián vanara gigante](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [De un plano a un recorrido arquitectónico 3D completo](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [Una maqueta ferroviaria interactiva de vóxeles](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [Un dron interceptor para una facción corporativa](#corporate-interceptor-drone-asset-2095176360238915978)
 - [Un mundo 3D de estética Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
 - [Una web renacentista cinematográfica en diez escenas](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [Una isla virtual con una cabra como mascota](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [Un sistema solar 3D interactivo](#interactive-3d-solar-system-2095165395841999222)
-- [Una ciudad a partir de una panorámica equirectangular](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [La guarida de un dragón en Blender](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Un mundo pirata multijugador en Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### Un turbocompresor 3D interactivo en vista explosionada
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Un turbocompresor 3D interactivo en vista explosionada"></a>
+
+**Prompt**
+
+```text
+Construye un turbocompresor 3D interactivo. Separa todos sus sistemas de funcionamiento. Déjame girarlo, aislar piezas y ver qué está haciendo realmente la máquina.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Publicación original](https://x.com/Feraser8/status/2095776712579571725) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### Un pueblo que puedes recorrer a partir de seis cuadros de Van Gogh
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Un pueblo que puedes recorrer a partir de seis cuadros de Van Gogh"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Convierte los seis cuadros de Van Gogh proporcionados en un pueblo coherente y transitable en Three.js. Conserva la paleta y el carácter de las pinceladas de cada cuadro mientras conectas calles, puntos de referencia y transiciones en un mundo explorable.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Publicación original](https://x.com/petergostev/status/2095776685807346105) · [Demo en línea](https://van-goghs-town.surge.sh/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### De un dibujo de un tren de vapor a un conjunto editable en Blender
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="De un dibujo de un tren de vapor a un conjunto editable en Blender"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Reconstruye en Blender el dibujo proporcionado de un tren de vapor antiguo como un conjunto mecánico detallado. Conserva ruedas, ejes, suspensión, bielas, accesorios de la caldera y paneles de carrocería como objetos editables con nombre propio, con un nivel de detalle ajustable.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Publicación original](https://x.com/tomkrcha/status/2095756085890310311) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### Solace: de una villa en el bosque a UE5
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace: de una villa en el bosque a UE5"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una villa moderna transitable en el bosque llamada Solace, con tres dormitorios, despacho, patio central, piscina y arboleda alrededor. Constrúyela de forma procedural en Blender, renderiza imágenes durante la hora dorada y exporta un recorrido en UE5 a 60 FPS.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Publicación original](https://x.com/NFT_Chen/status/2095752726886105375) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### Una maqueta de trenes de la infancia que puedes conducir
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Una maqueta de trenes de la infancia que puedes conducir"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Reconstruye una maqueta de trenes de la infancia como un juguete táctil en Three.js, con vías y material rodante de vóxeles. Permite conducir los trenes, cambiar los desvíos, girar alrededor de la mesa y descubrir escenas animadas en miniatura.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Publicación original](https://x.com/BigRyan/status/2095742344293454148) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### Un templo en la selva y su guardián vanara gigante
@@ -982,107 +1089,7 @@ Construye una experiencia cinematográfica de navegador en diez escenas que comb
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### Una isla virtual con una cabra como mascota
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Una isla virtual con una cabra como mascota"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea una pequeña isla explorable en Three.js con una cabra como mascota que te siga, reaccione y juegue. Añade detalles acogedores al entorno e interacciones cotidianas sencillas.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Publicación original](https://x.com/aollivier82/status/2095165578042335442) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### Un sistema solar 3D interactivo
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Un sistema solar 3D interactivo"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye un sistema solar 3D interactivo con planetas en órbita, navegación que tenga en cuenta la escala, etiquetas, controles de velocidad, objetivos de cámara y contenido educativo útil.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Publicación original](https://x.com/ego_agent/status/2095165395841999222) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### Una ciudad a partir de una panorámica equirectangular
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Una ciudad a partir de una panorámica equirectangular"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Usa la panorámica urbana equirectangular proporcionada como referencia visual para construir de una sola vez una ciudad densa en Blender. Conserva las vías principales, los volúmenes, el perfil urbano y las relaciones espaciales.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Publicación original](https://x.com/hayashimon1/status/2095159781883597031) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### La guarida de un dragón en Blender
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="La guarida de un dragón en Blender"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye una guarida de dragón dramática en Blender, con el dragón como foco, una caverna que transmita escala, tesoros, humo, luz de fuego, composición en capas y cámara cinematográfica.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Publicación original](https://x.com/majidmanzarpour/status/2095149546187653547) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Un mundo pirata multijugador en Three.js
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Un mundo pirata multijugador en Three.js"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye un mundo multijugador en Three.js inspirado en el anime de aventuras piratas, con islas, barcos, desplazamiento, combate y exploración social.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Publicación original](https://x.com/aman_kambojj/status/2095137561283010600) · [Demo en línea](https://onepiece-world.vercel.app/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-
-[Catálogo completo](catalog.es.md) · [←](catalog.es.6.md) · **7 / 9** · [→](catalog.es.8.md)
+[Catálogo completo](catalog.es.md) · [←](catalog.es.6.md) · **7 / 10** · [→](catalog.es.8.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/es/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Catálogo completo →</a></strong></p>

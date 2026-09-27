@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 3 / 9
+# Awesome 3D Prompts — 3 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.3.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.2.md) · **3 / 9** · [→](catalog.vi.4.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.2.md) · **3 / 10** · [→](catalog.vi.4.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Thế giới 3D với những tòa nhà chọc trời cao vút](#gpt-6-astra-2099487024256589970)
+- [Mô hình cây lá kim dưới 200 polygon](#gpt-6-astra-2099472264270102705)
+- [Cảnh rừng Samurai 3D tương tác](#gpt-6-astra-2099450933067612421)
+- [Màn vượt chướng ngại vật 3D có thể chơi](#gpt-6-astra-2099419671481249851)
+- [Đường sắt mô hình tự động tránh va chạm](#gpt-6-astra-2099362575339372780)
 - [Tái hiện Lâu đài Peach trong 3D](#gpt-6-astra-2099359786865402019)
 - [Trình khám phá giải phẫu 3D tương tác](#gpt-6-astra-2099206962344800541)
 - [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#gpt-6-astra-2099172061092381027)
@@ -73,13 +78,143 @@
 - [Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI](#gpt-6-astra-2097167383576383502)
 - [Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản](#gpt-6-astra-2097153139795468365)
 - [Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot](#gpt-6-astra-2097123382852829230)
-- [Cây chanh vàng thạch tương tác](#gpt-6-astra-2097065330728128920)
-- [Thú cưng robot tương tác trên bàn làm việc](#gpt-6-astra-2097004192627933279)
-- [Con đường rừng dài 12 giây trong Blender](#gpt-6-astra-2096986557244723371)
-- [Sân trong Trung Hoa tương tác](#gpt-6-astra-2096971051334857181)
-- [Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”](#gpt-6-astra-2096966425017467344)
 
 </details>
+<a id="gpt-6-astra-2099487024256589970"></a>
+
+### Thế giới 3D với những tòa nhà chọc trời cao vút
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="Thế giới 3D với những tòa nhà chọc trời cao vút"></a>
+
+**Prompt**
+
+```text
+xây dựng một thế giới 3D với những tòa nhà chọc trời cao vút
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build a 3D world full of very high skyscrapers
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099487024256589970) · [Bài đăng gốc](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099472264270102705"></a>
+
+### Mô hình cây lá kim dưới 200 polygon
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="Mô hình cây lá kim dưới 200 polygon"></a>
+
+**Prompt**
+
+```text
+Bạn có thể thử tạo một cây lá kim với không quá 200 polygon không?
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+200ポリゴン以下で針葉樹を作ってみてくれませんか？
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099472264270102705) · [Bài đăng gốc](https://x.com/Watamos827/status/2099472264270102705) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099450933067612421"></a>
+
+### Cảnh rừng Samurai 3D tương tác
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="Cảnh rừng Samurai 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng một cảnh 3D tương tác với samurai trong rừng, có điều khiển camera, ánh sáng điện ảnh, các chi tiết môi trường và cách trình bày gọn gàng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099450933067612421) · [Bài đăng gốc](https://x.com/JaynitMakwana/status/2099450933067612421) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099419671481249851"></a>
+
+### Màn vượt chướng ngại vật 3D có thể chơi
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="Màn vượt chướng ngại vật 3D có thể chơi"></a>
+
+**Prompt**
+
+```text
+Một màn vượt chướng ngại vật 3D nhỏ với một nhân vật, các chướng ngại vật di động, vật phẩm thu thập và một khu vực đích đơn giản.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099419671481249851) · [Bài đăng gốc](https://x.com/heyDhavall/status/2099419671481249851) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099362575339372780"></a>
+
+### Đường sắt mô hình tự động tránh va chạm
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="Đường sắt mô hình tự động tránh va chạm"></a>
+
+**Prompt**
+
+```text
+Xây dựng một hệ thống đường sắt mô hình với ít nhất ba đoàn tàu chạy đồng thời trên một bố cục đường ray dùng chung, có các nút giao và tín hiệu. Các đoàn tàu phải tự chuyển tuyến và dừng trước tín hiệu để không bao giờ va chạm, không cần bất kỳ thao tác nào từ người dùng. Bạn tự quyết định bố cục, bối cảnh và diện mạo của mọi thứ. Mọi yếu tố thiết kế đều do bạn lựa chọn: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không đặt câu hỏi cho tôi; hãy tự đưa ra mọi quyết định và xây dựng phiên bản ấn tượng nhất có thể chỉ trong một lần thử. Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML độc lập duy nhất, không dùng mô hình, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (cho phép dùng thư viện JavaScript từ CDN). Tệp phải tự chạy ngay khi tải, không cần nhấp chuột, hoạt động mượt mà và không có lỗi trong console.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099362575339372780) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2099362575339372780) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099359786865402019"></a>
 
 ### Tái hiện Lâu đài Peach trong 3D
@@ -3635,952 +3770,7 @@ can you rig and animate this glb, i want to see the digitigrade legs walking con
 
 ---
 
-<a id="gpt-6-astra-2097065330728128920"></a>
 
-### Cây chanh vàng thạch tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/f961be372cbdd030026a4ff827932ad6790c2c3dd5d588be37fa918dc67809b3.webp" width="840" loading="lazy" alt="Cây chanh vàng thạch tương tác"></a>
-
-**Prompt**
-
-```text
-xây dựng cây chanh vàng thạch tương tác bằng WebGPU
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build an interactive jelly lemon tree using WebGPU
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097065330728128920) · [Bài đăng gốc](https://x.com/vib3coded/status/2097065330728128920) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097004192627933279"></a>
-
-### Thú cưng robot tương tác trên bàn làm việc
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/37d5dac5d594ea7e83a1cab04ca45dc29688ef30b9dd6ea18cc2d0df43537ced.webp" width="840" loading="lazy" alt="Thú cưng robot tương tác trên bàn làm việc"></a>
-
-**Prompt**
-
-```text
-TOÀN BỘ ĐẶC TẢ.
-LƯU NỘI DUNG NÀY THÀNH TỆP TRONG THƯ MỤC DỰ ÁN, KHÔNG PHẢI DƯỚI DẠNG TIN NHẮN CHAT.
-SAU ĐÓ: /goal xây dựng nội dung này bằng three.js, đọc SPEC.md và làm theo
-chính xác, đặc biệt là các mục 9 và 10.
-
-{ BẮT ĐẦU }
-
-1 NỘI DUNG NÀY LÀ GÌ
-
-một chú robot bốn chân nhỏ sống trên bàn làm việc. bạn sạc pin cho nó,
-chơi cùng nó và giao cho nó ba công việc. nó không bao giờ rời khỏi bàn
-và bạn cũng vậy. đó là toàn bộ trò chơi.
-
-bản dựng này chỉ dựa vào hai yếu tố, không có gì khác: diện mạo của robot
-và cách nó chuyển động. người chơi dành toàn bộ thời gian nhìn một vật thể
-từ khoảng cách cố định, nên vật thể đó phải đủ cuốn hút để ngắm nhìn,
-và phải chuyển động như thể nó đang sống.
-
-đây không phải thú cưng biết nói. không giọng nói, không miệng, không khuôn mặt trên màn hình,
-và nó không bao giờ lặp lại lời bạn nói. nó là một cỗ máy chú ý đến bạn,
-và đó là một điều khác biệt, thậm chí tốt hơn.
-
-2 ROBOT
-
-kích thước khoảng bằng một con mèo, có bốn chân.
-
-tỷ lệ, yếu tố tạo nên sự duyên dáng:
-- thân robot là một khối bo tròn, rộng hơn chiều cao, dài khoảng bằng hai lần
-  chiều rộng của đầu. tạo cảm giác nặng nề.
-- đầu lớn so với thân, cao khoảng 40 phần trăm chiều cao thân,
-  và nhô về phía trước trên một chiếc cổ ngắn. tạo cảm giác tò mò.
-  không phải đầu chibi, và mắt không được quá to.
-- chân thanh mảnh khi đặt cạnh thân, khiến một vật thể nặng nề
-  được nâng đỡ bởi những chi nhẹ. sự tương phản này khiến dáng đi
-  trông thanh thoát thay vì vụng về.
-- một chiếc đuôi ngắn thực chất là đối trọng, đung đưa đúng như vậy
-- một ăng-ten ngắn trên đầu, quật theo rồi lắng xuống chậm nửa
-  nhịp sau mỗi chuyển động. gần như không tốn chi phí, nhưng đây là
-  nguồn tạo sức sống lớn nhất cho toàn bộ mô hình.
-
-ba vật liệu, không quá ba:
-1 tấm ốp sơn màu trắng ngà dịu, bề mặt mờ, hơi ấm. phủ trên
-  lưng, phần hông và đỉnh đầu. ít nhất 60 phần trăm
-  bề mặt nhìn thấy, nếu không robot sẽ trông như một đống linh kiện.
-2 kim loại gia công để trần, màu xám trung tính mát, dùng cho chân, khung, khớp và
-  cổ. chỉ vòng khớp mới có màu đồng thau ấm.
-3 cao su tối màu, gần như đen và bề mặt mờ, dùng cho bốn bàn chân, ống bọc
-  cổ và dây cáp.
-
-khuôn mặt: hai thấu kính tròn cùng kích thước, đặt cách xa nhau, lõm vào
-sau một rãnh gia công chạy ngang trán. rãnh này là một
-cạnh gia công, không phải lông mày, và không bao giờ chuyển động. mọi biểu cảm
-đều đến từ góc nghiêng của đầu, ăng-ten và độ sáng của thấu kính.
-
-một khuyết điểm: một tấm ốp vai có sắc độ hơi khác, như thể
-đã từng được thay. không cần làm nổi bật chi tiết này.
-
-kiểm tra hình dáng, đạt hoặc không đạt: render robot màu đen hoàn toàn trên
-nền trắng ở kích thước 64 × 64 pixel, từ góc bên và góc ba phần tư. chiếc đầu
-ngẩng lên, khoảng hở giữa đầu và thân, bốn chân với
-ánh sáng lọt qua giữa chúng và chiếc đuôi đều phải vẫn dễ nhận ra. nếu bất kỳ
-hai khối nào hòa vào nhau, hãy sửa mô hình, không phải bản render.
-
-3 PIN LÀ THANH TIẾN TRÌNH
-
-một dải gồm năm ô pin chạy dọc một bên sườn, phát sáng màu hổ phách. chúng sẽ
-tắt lần lượt khi pin giảm và sáng lần lượt khi đang
-sạc. không hiển thị con số hay thanh trạng thái nào trên màn hình.
-
-5 ô pin  nhanh nhẹn, đầu ngẩng, đuôi đung đưa
-4          bình thường
-3          chậm hơn, đầu hơi cúi
-2          ngồi xuống giữa các hành động thay vì đứng
-1          tự đi đến đế sạc và chờ
-0          gập chân lại và tắt nguồn ngay tại chỗ,
-         thấu kính tối om, chờ được mang đến đế sạc
-
-nó không bao giờ hỏng, không bao giờ chết và không mất gì khi về 0.
-
-4 CÁCH DI CHUYỂN
-
-- bước đi thực sự. các cặp chân chéo nhau, bàn chân đặt trên bàn và
-  giữ nguyên vị trí trong khi thân mình di chuyển qua chúng. bàn chân không
-  trượt.
-- trọng lượng. thân mình hạ xuống ở cặp chân đang chịu tải. khi bắt đầu, nó nghiêng
-  về phía trước trước khi di chuyển. khi dừng lại, nó bước thêm một bước ngắn để
-  giữ thăng bằng.
-- nó quan sát bạn. đầu dõi theo con trỏ mỗi khi con trỏ nằm trên bàn, và cổ dẫn hướng xoay trước thân mình.
-  khi con trỏ nằm trên bàn, cổ dẫn hướng xoay trước thân mình.
-- nó tự lấy lại thăng bằng. chạm nhẹ vào nó, nó loạng choạng, dang rộng một chân để trụ và
-  tự đứng thẳng lại. nó không bao giờ bị ngã.
-- nó ổn định lại. khi đứng yên, nó chuyển trọng lượng sau vài giây, và
-  thấu kính chớp chậm: chúng mờ đi rồi sáng trở lại, chứ
-  không khép lại.
-
-nó tiến bộ qua luyện tập. mỗi lần hoàn thành một công việc, độ lắc lư lại
-giảm đi một chút và chuyển động nhanh hơn một chút, cho đến khi đạt giới hạn.
-không có thông báo nào về điều này. đến công việc thứ hai mươi, nó chuyển động rõ ràng
-như một cỗ máy biết mình đang làm gì, và sự thay đổi đó là
-tiến trình duy nhất trong trò chơi.
-
-5 BÀN THỢ
-
-một chiếc bàn thợ, được nhìn từ khoảng cách cố định. ấm áp, in đậm dấu vết sử dụng.
-
-mặt bàn bằng gỗ sáng màu đã mòn. bức tường phía sau màu xanh xám lạnh, đơn giản.
-robot bằng kim loại trần, các khớp nối bằng đồng thau ấm. thấu kính và các cell pin
-phát sáng màu hổ phách, là màu duy nhất được chiếu sáng. ánh đèn ấm từ một bên,
-đổ bóng dài, mềm. mọi thứ khác đều trầm màu.
-
-trên bàn: một đế sạc với cuộn dây cáp, một lọ đựng
-bu lông, một mảnh vải cuộn, một chiếc thùng nhỏ, một đèn bàn, một quả bóng cao su,
-một bát thiếc. không có gì khác.
-
-chiếc đèn là nguồn sáng duy nhất. khi robot đi ngang
-phía trước đèn, bóng của nó quét ngang mặt bàn.
-
-6 CHỈ THỂ HIỆN QUA CÁCH SỬ DỤNG
-
-- bạn kéo quả bóng ngang mặt bàn, đầu robot dõi theo
-  nó trước khi xoay thân mình để đi theo
-- bạn đặt robot lên đế sạc, một cell pin sáng lên, rồi đến
-  cell tiếp theo, giữa mỗi lần sáng có một khoảng dừng
-- bạn chạm nhẹ vào sườn robot, nó loạng choạng, chống lại bằng một
-  chân dang rộng rồi đứng thẳng lại
-- bạn thả một chiếc bu lông vào bát thiếc, nó đi tới, nhặt bu lông
-  bằng các tấm hàm kẹp ở miệng rồi mang đến chiếc lọ
-- bạn để mặc nó, nó đi đến mép bàn, nhìn
-  xuống dưới rồi lùi lại
-- bạn gãi lên tấm ốp trên lưng, nó hạ thấp thân mình và
-  giữ yên cho đến khi bạn dừng lại
-
-hãy thể hiện tất cả những điều này qua hành động. không bao giờ giải thích bằng chú thích.
-
-7 BA CÔNG VIỆC
-
-mỗi công việc nhằm thể hiện một kiểu chuyển động khác nhau, và người chơi yêu cầu chúng
-bằng cách đặt một vật lên bàn, không bao giờ qua menu.
-
-nhặt  thả một chiếc bu lông ở bất kỳ đâu. nó đi tới, nhặt lên rồi mang
-       đến chiếc lọ. thể hiện bước đi và cú xoay.
-xếp  đặt ba chiếc thùng ra bàn. nó đẩy chúng thành một chồng, từng chiếc
-       một. thể hiện động tác đẩy, chống trụ và nâng.
-đuổi  lăn quả bóng. nó chạy theo, dùng một chân chặn lại rồi
-       mang về. thể hiện chạy, trượt và dừng.
-
-mỗi công việc tiêu tốn một ít điện. công việc thực hiện ở mức 2 cell pin sẽ chậm hơn
-và lắc lư nhiều hơn so với cùng công việc ở mức 5. không hàng đợi, không thứ tự, không
-hẹn giờ, không phần thưởng.
-
-8 GIAO DIỆN
-
-giữa cạnh dưới màn hình: một thẻ nhắc duy nhất xuất hiện khi có vật trong tầm với,
-nêu phím hoặc thao tác kéo cùng hành động tương ứng; thẻ này sẽ biến mất khi
-không còn phù hợp.
-
-không có gì khác trên màn hình. không có thanh pin, chỉ số hạnh phúc, không có
-chỉ số đói, tiền xu, cấp độ, kinh nghiệm, ngôi sao, không có
-bộ đếm giờ, menu, cài đặt, cửa sổ hướng dẫn, nhãn nổi
-bên trên robot.
-
-mọi thông tin người chơi cần biết đều thể hiện trên thân robot.
-
-camera: cố định theo hướng bàn, nhìn chếch ba phần tư từ phía trước và
-hơi từ trên xuống. trường nhìn dọc 40 độ. robot chiếm
-30 đến 45 phần trăm chiều cao khung hình ở giữa bàn.
-mỗi ô pin rộng ít nhất 8 pixel ở độ phân giải 1080p. toàn bộ
-bàn luôn nằm trong khung hình. kéo để xoay khoảng 60
-độ, không hơn. camera không bao giờ rời khỏi bàn và
-không bao giờ cắt cảnh.
-
-9 NHỮNG ĐIỀU BỊ CẤM, LIỆT KÊ CỤ THỂ
-
-thú cưng: không có giọng nói, không nói chuyện, không lặp lại lời bạn nói, không
-micro, không có khuôn mặt trên màn hình, không miệng, không lông mày, không
-mắt hoạt hình có con ngươi, không trái tim, không emoji, không bong bóng thoại,
-không nhập tên, không trang phục, không mũ, không cửa hàng sơn.
-
-mô hình free-to-play: không tiền xu, không đá quý, không bất kỳ loại tiền tệ nào, không
-cửa hàng, quảng cáo, phần thưởng hằng ngày, chuỗi thành tích, thông báo, không
-năng lượng phải mua, bộ đếm thời gian chờ, cấp độ, không
-thanh kinh nghiệm, thành tựu, bảng xếp hạng.
-
-gameplay: không kẻ địch, chiến đấu, máu, sát thương, chết,
-hỏng hóc, mini-game sửa chữa, trạng thái thất bại, điểm số, không
-bộ đếm giờ, dấu nhiệm vụ, đoạn cắt cảnh, hình minh họa màn hình tải.
-
-lặp lại từ các bản dựng trước của tôi: không bãi biển, cây cọ, cua,
-đảo bay, đèn lồng, hoa anh đào, ninja, không
-shuriken, khối voxel, cuốc chim, dung nham, ô tô, thành phố,
-không có cảnh dưới nước, rong biển.
-
-kết xuất: không kết cấu bề mặt chân thực, bóng cứng, lóe sáng ống kính, không
-hạt phim, khung viền điện ảnh, nhòe độ sâu trường ảnh, quang sai màu
-sắc, sương mù xám trên màn hình. chỉ tạo bloom trên thấu kính và
-các ô pin, không thêm bất kỳ chỗ nào khác.
-
-10 NGÂN SÁCH DỰNG
-
-bản dựng này phải hoàn thành trong một buổi làm việc. mọi thứ dưới đây
-đều tuyệt đối không được có trong phiên bản này. không thêm, không dựng stub, không
-để lại TODO cho chúng.
-
-không có phòng thứ hai, không có ngoại cảnh
-không có robot thứ hai
-không lưu hoặc tải; mỗi lần tải lại là một robot mới
-không dùng engine vật lý: tự viết inverse kinematics cho bốn chân
-  trên mặt phẳng, cùng va chạm hộp đơn giản cho các vật thể trên bàn
-không ragdoll
-không âm thanh
-không menu, không cài đặt, không màn hình tạm dừng
-không quá ba công việc
-không có chu kỳ ngày đêm
-
-phải dành thời gian cho các phần sau, theo thứ tự này:
-1 tỷ lệ cơ thể robot và bài kiểm tra silhouette
-2 chu kỳ bước đi và cách đặt chân
-3 khả năng dõi theo bằng đầu, ăng-ten và chuyển động ổn định
-4 các trạng thái pin và đế sạc
-5 ba công việc
-6 trang trí bàn làm việc
-
-nếu hết thời gian, hãy phát hành bản dựng với một chiếc bàn trống và robot đẹp mắt
-có dáng đi tốt. tuyệt đối không làm ngược lại. một chiếc bàn trống với
-robot tốt đã là một game hoàn chỉnh. chiếc bàn được trang trí nhưng robot cứng đờ
-thì chẳng có ý nghĩa gì.
-
-trước khi tuyên bố hoàn tất, hãy chứng minh bốn điều này bằng bản kết xuất, không phải bằng
-lời: bài kiểm tra dáng đen ở 64 px từ hai góc, một chu kỳ bước đi
-ở mức 5 ô pin và cùng chu kỳ bước đi đó ở mức 2 ô pin, phần đầu bám theo
-con trỏ trong toàn bộ cung xoay, và robot ở mức 5 ô pin và ở mức 0
-ô pin cạnh nhau.
-
-hãy dựng nó, rồi cho tôi biết ba điều bạn sẽ sửa đầu tiên.
-
-{ END }
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-THE FULL SPEC.
-SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
-THEN: /goal build this in three.js, read SPEC.md and follow it
-exactly, especially sections 9 and 10.
-
-{ START }
-
-1 WHAT THIS IS
-
-a small four-legged robot lives on a workbench. you charge it,
-play with it, and give it three jobs. it never leaves the bench
-and neither do you. that is the whole game.
-
-two things carry this build and nothing else does: how the robot
-looks, and how it moves. the player spends the entire game
-looking at one object from a fixed distance, so that object has
-to be worth looking at, and it has to move like it is alive.
-
-it is not a talking pet. no voice, no mouth, no face on a screen,
-and it never repeats what you say. it is a machine that pays
-attention to you, which is a different and better thing.
-
-2 THE ROBOT
-
-about the size of a cat, on four legs.
-
-proportion, which is where charm comes from:
-- the body is a rounded block, wider than tall, about two head
-  widths long. it reads heavy.
-- the head is large for the body, roughly 40 per cent of body
-  height, and sits forward on a short neck. it reads curious.
-  not a chibi head, and the eyes are not big.
-- the legs are slender next to that body, so a heavy thing is
-  carried on light limbs. that contrast is what makes the walk
-  look delicate rather than clumsy.
-- a stub tail that is really a counterweight, and swings like one
-- one short antenna on the head that whips and settles half a
-  beat behind every movement. costs almost nothing, and it is the
-  single biggest source of life in the whole model.
-
-three materials, no more than three:
-1 painted panel, soft bone white, matte, slightly warm. over the
-  back, the haunches and the top of the head. at least 60 per
-  cent of the visible surface or it reads as a pile of parts.
-2 bare machined metal, cool mid grey, on legs, frame, joints and
-  neck. warm brass at each joint ring only.
-3 dark rubber, near black and matte, on the four feet, the neck
-  sleeve and the cable.
-
-the face: two round lenses of equal size, set wide, recessed
-behind a machined groove across the brow. the groove is a
-machined edge, not an eyebrow, and it never moves. all expression
-comes from head angle, antenna and lens brightness.
-
-one flaw: one shoulder panel is a slightly different shade, as
-though replaced once. nothing draws attention to it.
-
-silhouette test, pass or fail: render the robot pure black on
-white at 64 by 64 pixels, from the side and three quarters. the
-raised head, the gap between head and body, four legs with
-daylight between them, and the tail must all still read. if any
-two masses merge, change the model, not the render.
-
-3 THE BATTERY IS THE PROGRESS BAR
-
-a strip of five cells runs along one flank, lit amber. they go
-out one at a time as it runs down and light one at a time as it
-charges. nothing on screen shows a number or a bar.
-
-5 cells  brisk, head up, tail swinging
-4        normal
-3        slower, head slightly lower
-2        it sits down between actions instead of standing
-1        it walks to the charging pad on its own and waits
-0        it folds its legs and powers down where it stands,
-         lenses dark, waiting to be carried to the pad
-
-it never breaks, never dies, and nothing is lost at zero.
-
-4 HOW IT MOVES
-
-- a real walk. diagonal pairs, feet planted on the bench and
-  staying there while the body passes over them. feet do not
-  slide.
-- weight. the body dips on the loaded pair. starting, it leans
-  forward before it moves. stopping, it takes one short step to
-  catch itself.
-- it watches you. the head follows the cursor whenever the cursor
-  is over the bench, and the neck leads the turn before the body.
-- it recovers. nudge it and it staggers, plants a leg wide, and
-  rights itself. it never falls over.
-- it settles. standing still it shifts weight every few seconds,
-  and the lenses do a slow blink: they dim and come back, they do
-  not close.
-
-it gets better with practice. every job done makes the wobble a
-little smaller and the movement a little faster, up to a limit.
-nothing announces this. by the twentieth job it visibly moves
-like a machine that knows what it is doing, and that change is
-the only progression in the game.
-
-5 THE BENCH
-
-one workbench, seen from a fixed distance. warm, worked in.
-
-bench top worn pale timber. wall behind cool grey green, plain.
-robot bare metal with warm brass at the joints. lenses and cells
-amber, the only lit colour. lamp light warm, from one side,
-casting a long soft shadow. everything else muted.
-
-on the bench: a charging pad with a coil of cable, a jar of
-bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
-a tin bowl. nothing else.
-
-the lamp is the only light source. when the robot crosses in
-front of it, its shadow sweeps across the bench.
-
-6 DESCRIBED ONLY THROUGH USES
-
-- you drag the ball across the bench and the robot's head tracks
-  it before its body turns to follow
-- you put the robot on the charging pad and one cell lights, then
-  the next, with a pause between each
-- you nudge it from the side and it staggers, catches itself on a
-  wide leg, and straightens
-- you drop a bolt in the tin bowl and it walks over, picks it up
-  in its mouth plates, and carries it to the jar
-- you leave it alone and it walks to the edge of the bench, looks
-  over, and backs away
-- you scratch the panel on its back and it lowers its body and
-  holds still until you stop
-
-show all of this happening. never explain it in a caption.
-
-7 THE THREE JOBS
-
-each exists to show a different kind of motion, and each is asked
-for by putting an object on the bench, never by a menu.
-
-fetch  drop a bolt anywhere. it walks over, picks it up, takes it
-       to the jar. shows the walk and the turn.
-stack  put three crates out. it pushes them into a stack, one at
-       a time. shows the push, the brace and the lift.
-chase  roll the ball. it runs it down, stops it with a foot, and
-       brings it back. shows the run, the skid and the stop.
-
-each job costs a little charge. a job done at 2 cells is slower
-and wobblier than the same job at 5. no queue, no order, no
-timer, no reward.
-
-8 THE INTERFACE
-
-bottom centre: a single prompt card when something is in reach,
-naming the key or the drag and the action, which disappears when
-it is not.
-
-nothing else on screen. no battery bar, no happiness meter, no
-hunger meter, no coins, no level, no experience, no stars, no
-timer, no menu, no settings, no tutorial popup, no floating label
-over the robot.
-
-everything the player needs to know is on the robot's body.
-
-camera: fixed on the bench, three quarters from the front and
-slightly above. 40 degree vertical field of view. the robot fills
-30 to 45 per cent of frame height at the centre of the bench.
-each battery cell at least 8 pixels wide at 1080p. the whole
-bench in frame at all times. drag to orbit through about 60
-degrees and no further. the camera never leaves the bench and
-never cuts.
-
-9 BANNED, EACH ONE NAMED
-
-the pet: no voice, no talking, no repeating what you say, no
-microphone, no face on a screen, no mouth, no eyebrows, no
-cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
-no name entry, no costume, no hats, no paint shop.
-
-free-to-play: no coins, no gems, no currency of any kind, no
-shop, no ads, no daily reward, no streak, no notification, no
-energy that must be bought, no wait timer, no level, no
-experience bar, no achievements, no leaderboard.
-
-gameplay: no enemies, no combat, no health, no damage, no dying,
-no breaking, no repair mini-game, no fail state, no score, no
-timer, no quest markers, no cutscene, no loading screen art.
-
-repeats of my earlier builds: no beach, no palm trees, no crabs,
-no floating islands, no lanterns, no cherry blossom, no ninja, no
-shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
-no underwater, no kelp.
-
-render: no realistic textures, no hard shadows, no lens flare, no
-film grain, no letterboxing, no depth of field blur, no chromatic
-aberration, no grey screen fog. bloom on the lenses and the
-battery cells and nothing else.
-
-10 THE BUILD BUDGET
-
-this build must finish in one working session. everything below
-is a hard no for this version. do not add it, do not stub it, do
-not leave a todo for it.
-
-no second room, no outdoors
-no second robot
-no saving or loading, a reload is a fresh robot
-no physics engine: hand-written inverse kinematics for four legs
-  on a flat plane, plus simple box collision on the bench props
-no ragdoll
-no sound
-no menus, no settings, no pause screen
-no more than three jobs
-no day cycle
-
-where the time must go, in this order:
-1 the robot's proportions and the silhouette test
-2 the walk cycle and the foot planting
-3 the head tracking, the antenna and the settle
-4 the battery states and the charging pad
-5 the three jobs
-6 the bench dressing
-
-if time runs out, ship with an empty bench and a beautiful robot
-that walks well. never the other way round. a bare bench with a
-good robot is a finished game. a dressed bench with a stiff robot
-is nothing.
-
-before you call it done, prove these four with renders, not with
-words: the silhouette test at 64 px from two angles, a walk cycle
-at 5 cells and the same walk at 2 cells, the head tracking the
-cursor across the full orbit, and the robot at 5 cells and at 0
-cells side by side.
-
-build it, then tell me the three things you would fix first.
-
-{ END }
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097004192627933279) · [Bài đăng gốc](https://x.com/zeuuss_01/status/2097004192627933279) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096986557244723371"></a>
-
-### Con đường rừng dài 12 giây trong Blender
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3aa6d0d4c63cd2fdf992963f8574169047d64b32012bdddd72df84f137a8d519.webp" width="840" loading="lazy" alt="Con đường rừng dài 12 giây trong Blender"></a>
-
-> Nguồn chỉ được trích một phần.
-
-**Prompt**
-
-```text
-Con đường rừng dài 12 giây trong Blender
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Blender’da 12 saniyelik bir orman yolu
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096986557244723371) · [Bài đăng gốc](https://x.com/Jomolos/status/2096986557244723371) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096971051334857181"></a>
-
-### Sân trong Trung Hoa tương tác
-
-[Larus Canus](https://x.com/MrLarus) · 2026-09-07 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/afa942c78d5c1cccd6cecf00b5e59c53f0eea0e4e5271cc8dbf51b3fa6caf8e9.webp" width="840" loading="lazy" alt="Sân trong Trung Hoa tương tác"></a>
-
-**Prompt**
-
-```text
-Tạo một sân trong Trung Hoa tương tác bằng Blender và Three.js để tôi có thể khám phá trên trình duyệt.
-
-Gồm tường trắng, mái ngói sẫm màu, cổng nguyệt, cây tùng, hồ nước và vườn đá, cùng phòng khách, phòng trà và phòng ngủ. Dùng Python để chạy Blender ở chế độ nền, tạo các mô hình và xuất tệp GLB. Dùng Three.js cho ánh sáng, phản chiếu, hoạt ảnh và tương tác.
-
-Hỗ trợ điều khiển xoay quanh, thu phóng, di chuyển bằng WASD, chuyển đổi ngày/đêm và bật/tắt mái. Từng bước bổ sung dòng nước chảy, cá koi, ếch nhảy, chuồn chuồn, mèo trong sân, chim sẻ và đom đóm ban đêm. Giữ chuyển động tinh tế và tự nhiên.
-
-Tạo giao diện độc đáo nhưng không che khuất khung cảnh. Xây dựng theo từng giai đoạn, kiểm tra kết quả trên trình duyệt, sửa các vấn đề và bàn giao dự án có thể chạy, tệp nguồn cùng hướng dẫn thiết lập.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.
-
-Include white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.
-
-Support orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.
-
-Create an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096971051334857181) · [Bài đăng gốc](https://x.com/MrLarus/status/2096971051334857181) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096966425017467344"></a>
-
-### Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/0495d0af2d899a6ca4a840202506ee1ecd4d45c049fa6de3bee6b6fbef82bfef.webp" width="840" loading="lazy" alt="Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”"></a>
-
-**Prompt**
-
-```text
-Hãy tạo trọn bộ mô hình 3D cho một thế giới cảnh quan VRChat trong Blender. 
-
-Chủ đề là 
-
-“Đường chân trời nơi trọng lực tan vỡ”
-
-. 
-
-Chỉ đỉnh đồi nơi người chơi đứng là vẫn bình thường; chỉ cảnh quan xa bị phá vỡ vật lý ở quy mô lớn. 
-
-Tổng thể cần có hình khối đơn giản. 
-Thay vì tập trung vào chi tiết trang trí, hãy ưu tiên 
-các silhouette lớn
-
-sự bất thường của cảnh quan xa
-hình dáng đài quan sát
-bố cục không gian
-.
-
-Các hạng mục
-
-cần tạo gồm:
-
-đỉnh đồi
-
-lối đi bộ hẹp
-đoạn đường đào nông
-đài quan sát hình bán nguyệt
-một vài băng ghế
-bảng chỉ dẫn bị hỏng
-thiết bị quan sát trung tâm
-thành phố ở xa
-biển dựng đứng
-dãy núi lộn ngược
-những cột đen khổng lồ
-các vết nứt không gian
-mây tĩnh
-đài quan sát
-
-Đài quan sát có dạng bán nguyệt.
-
-Không sao chép các đài quan sát có sẵn; hãy tạo một hình dáng hoàn toàn nguyên bản.
-
-Đặc điểm:
-
-hình bán nguyệt
-
-bất đối xứng trái phải
-một phần nhô ra giữa không trung
-thành thấp
-hình dáng phù hợp với vật liệu bán trong suốt
-chỉ một phần bị biến dạng do trọng lực bất thường
-Đừng làm hình khối quá phức tạp; hãy tạo silhouette lớn để vẫn nhận ra hình dạng từ xa.
-
-Thiết bị quan sát trung tâm
-
-Ở trung tâm đài quan sát, hãy đặt một thiết bị đơn giản kết hợp 
-
-quả cầu bán trong suốt
-
-vòng tròn không hoàn chỉnh
-khung ngắm hướng về các cột đen
-.
-
-Cảnh quan xa
-
-Cảnh quan xa là yếu tố quan trọng nhất.
-
-Hãy tạo các thành phần sau bằng những hình khối lớn, đơn giản hóa.
-
-Thành phố rơi lên bầu trời
-
-Hãy cho các cụm tòa nhà dạng hộp vươn theo những hướng khác thường.
-
-Biển dựng đứng
-
-Hãy dựng một plane mặt nước khổng lồ lên gần 90 độ.
-
-Dãy núi lộn ngược
-
-Hãy lật ngược theo chiều dọc silhouette núi đã được đơn giản hóa.
-
-Cột đen
-
-Hãy đặt những cột đen cực lớn và thon dài ở cảnh quan xa.
-
-Hình dạng này không được trông giống công trình, mà phải giống một phần không gian bị khuyết.
-
-Vết nứt không gian
-
-Xung quanh các cột đen, hãy bố trí những hình dạng dạng tấm hoặc dải bị xé rách trên quy mô lớn.
-
-Hãy giả định sử dụng vật liệu phát sáng.
-
-Địa hình
-
-Đồi là một bãi cỏ thoai thoải.
-
-Từ điểm spawn đến đài quan sát, hãy tạo 
-
-một lối đi bộ hẹp
-
-và một đoạn đường đào nông
-.
-
-Hãy bố trí để khi đi qua đoạn đường đào, toàn cảnh xa bất ngờ mở ra trước mắt.
-
-Thảm thực vật
-
-Giảm thực vật đến mức tối thiểu.
-
-Cỏ
-
-một vài bụi cây thấp
-và chỉ một số rất ít cây cối nghiêng theo hướng bất thường
- là đủ.
-
-Định hướng dựng hình
-
-Có thể thiên về low-poly.
-
-Đừng đi quá sâu vào chi tiết.
-
-Hãy tích cực sử dụng các primitive, tập trung vào 
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
-.
-
-Đặc biệt hãy đơn giản hóa cảnh quan xa.
-
-Điều quan trọng không phải là chi tiết, mà là 
-
-“ngay khi nhìn ra xa, người xem nhận ra thế giới này có gì đó sai lệch”
-
-.
-
-Tổ chức trong Blender
-
-Hãy chia các đối tượng vào những collection sau.
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-Hãy tổ chức theo cách dễ đưa vào Unity để sử dụng cho VRChat.
-
-Ưu tiên cao nhất là 
-
-“cảnh quan như một khung hình duy nhất nhìn từ đài quan sát”
-
-.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
-
-テーマは、
-
-「重力が壊れた地平線」
-
-です。
-
-プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
-
-全体はシンプルな造形にしてください。
-細かい装飾より、
-大きなシルエット
-
-遠景の異常さ
-展望台の形
-空間構成
-を優先してください。
-
-構成
-
-作るものは以下です。
-
-丘の頂上
-
-細い散策路
-浅い切通し
-半円形の観測デッキ
-少数のベンチ
-壊れた案内板
-中央観測装置
-遠景の都市
-垂直に立つ海
-逆さの山脈
-巨大な黒い柱
-空間断層
-静的な雲
-展望台
-
-展望台は半円形。
-
-既存の展望台を真似せず、完全オリジナル形状にしてください。
-
-特徴:
-
-半円形
-
-左右非対称
-一部が空中へ張り出す
-低い縁
-半透明素材を想定した形状
-一部だけ重力異常で変形
-複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
-
-中央観測装置
-
-展望台中央に、
-
-半透明球体
-
-不完全なリング
-黒い柱へ向いた照準フレーム
-を組み合わせたシンプルな装置を配置してください。
-
-遠景
-
-遠景は最重要です。
-
-以下を大きな簡略形状で作ってください。
-
-空へ落ちる都市
-
-箱形のビル群を、通常とは違う方向へ伸ばしてください。
-
-垂直の海
-
-巨大な水面プレーンを90度近く立てて配置してください。
-
-逆さの山脈
-
-簡略化した山のシルエットを上下反転してください。
-
-黒い柱
-
-非常に巨大で細長い黒い柱を遠景に配置してください。
-
-建物ではなく、空間の欠損のように見える形にしてください。
-
-空間断層
-
-黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
-
-発光マテリアルを想定します。
-
-地形
-
-丘はなだらかな草地。
-
-スポーン地点から展望台まで、
-
-細い散策路
-
-浅い切通し
-を作ってください。
-
-切通しを抜けると、遠景が一気に見える構図にしてください。
-
-植生
-
-植物は最小限。
-
-草
-
-少数の低木
-ごく一部だけ異常方向へ傾いた植物
-程度で十分です。
-
-モデリング方針
-
-ローポリ寄りで構いません。
-
-細部を作り込みすぎないでください。
-
-Primitiveを積極的に使い、
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
-を中心に作ってください。
-
-遠景は特に簡略化してください。
-
-重要なのはディテールではなく、
-
-「遠くを見た瞬間に世界がおかしいと分かること」
-
-です。
-
-Blender内の整理
-
-オブジェクトを以下のコレクションに分けてください。
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat用にUnityへ持っていきやすい構成にしてください。
-
-最優先は、
-
-「展望台から見た一枚絵としての景観」
-
-です。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096966425017467344) · [Bài đăng gốc](https://x.com/shuminchuuu/status/2096966425017467344) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.2.md) · **3 / 9** · [→](catalog.vi.4.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.2.md) · **3 / 10** · [→](catalog.vi.4.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

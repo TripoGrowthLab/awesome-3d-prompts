@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.7.md) · **8 / 9** · [→](catalog.uk.9.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.7.md) · **8 / 10** · [→](catalog.uk.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Віртуальний острів із домашньою кізочкою](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [Інтерактивна 3D-Сонячна система](#interactive-3d-solar-system-2095165395841999222)
+- [Місто за еквідистантною панорамою](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Лігво дракона в Blender](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Мережевий піратський світ на Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Анімація летючої каструлі в Blender](#flying-pot-animation-in-blender-2095132939667255657)
 - [3D-симуляція розвитку раку](#3d-cancer-progression-simulation-2095130778342408331)
 - [Удосконалений VFX розпаду метеороїда](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [Процедурно згенерований світ на Three.js](#procedurally-generated-three-js-world-2094873862315843910)
 - [Інтерактивні сигнали 3D-мозку](#interactive-3d-human-brain-signals-2094873080590225728)
 - [Фотореалістичний краєвид на Three.js](#photorealistic-three-js-landscape-2094871858206191667)
-- [Шутер проти орд ворогів із WebGL-шейдерами](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [Гра-катастрофа на «Титаніку»](#playable-titanic-disaster-game-2094867850355679617)
-- [Мережева гра про виживання серед динозаврів](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [Гра на Three.js за десять хвилин із доопрацюванням](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [Скляний мозок: демонстрація можливостей](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### Віртуальний острів із домашньою кізочкою
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Віртуальний острів із домашньою кізочкою"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи невеликий острів для дослідження на Three.js із домашньою кізочкою, яка йде за гравцем, реагує та грається. Додай затишні деталі оточення й прості щоденні взаємодії.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Оригінальний допис](https://x.com/aollivier82/status/2095165578042335442) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### Інтерактивна 3D-Сонячна система
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Інтерактивна 3D-Сонячна система"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи інтерактивну 3D-Сонячну систему з планетами на орбітах, навігацією з урахуванням масштабу, підписами, регулюванням швидкості, цілями камери та корисними навчальними відомостями.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Оригінальний допис](https://x.com/ego_agent/status/2095165395841999222) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### Місто за еквідистантною панорамою
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Місто за еквідистантною панорамою"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Використай надану еквідистантну панораму міста як візуальний референс, щоб за один прохід побудувати щільну міську модель у Blender. Збережи головні дороги, об’єми, силует забудови та просторові зв’язки.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Оригінальний допис](https://x.com/hayashimon1/status/2095159781883597031) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Лігво дракона в Blender
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Лігво дракона в Blender"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи драматичну сцену лігва дракона в Blender. Зроби дракона центром уваги, передай масштаб печери, додай скарби, дим, світло вогню, багатопланову композицію та кінематографічну камеру.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2095149546187653547) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Мережевий піратський світ на Three.js
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Мережевий піратський світ на Three.js"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи багатокористувацький світ на Three.js у дусі пригодницького піратського аніме: острови, кораблі, пересування, бої та спільне дослідження.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Оригінальний допис](https://x.com/aman_kambojj/status/2095137561283010600) · [Демо](https://onepiece-world.vercel.app/) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Анімація летючої каструлі в Blender
@@ -996,121 +1096,7 @@ Create the most impressive website you can in a single self-contained HTML file.
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### Шутер проти орд ворогів із WebGL-шейдерами
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="Шутер проти орд ворогів із WebGL-шейдерами"></a>
-
-**Промпт**
-
-```text
-Зроби мені найбожевільніший і найдрайвовіший шутер, який тільки можеш, на ThreeJS + вебшейдерах, друже! Найважливіше — стрільба, динаміка, віддача, графіка, відчуття влучання й поводження зі зброєю. Це красиво оформлена арена, куди вороги пруть ордами. Додай прицілювання через приціл, інерцію й вагу зброї, а також штурмову гвинтівку, дробовик і марксманську гвинтівку.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Оригінальний допис](https://x.com/superalesha/status/2094869490165039243) · [Вихідний код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### Гра-катастрофа на «Титаніку»
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Гра-катастрофа на «Титаніку»"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи кінематографічну гру про «Титанік», де гравець пересувається кораблем, виконує завдання й намагається уникнути айсберга. Керування має бути зрозумілим, а небезпека — наростати.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Оригінальний допис](https://x.com/vikktorrrre/status/2094867850355679617) · [Демо](https://rms-titanic-1912.netlify.app/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### Мережева гра про виживання серед динозаврів
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Мережева гра про виживання серед динозаврів"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи багатокористувацьку гру на виживання з полюванням, приготуванням їжі, ремеслом, будівництвом бази, небезпечними динозаврами та системою розвитку, що заохочує гравців досліджувати світ.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Оригінальний допис](https://x.com/Rubzem/status/2094866225960493189) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### Гра на Three.js за десять хвилин із доопрацюванням
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="Гра на Three.js за десять хвилин із доопрацюванням"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи невелику гру на Three.js за десять хвилин: чітка мета, чутливе керування, добре помітні небезпеки та повні стани перемоги й поразки. Потім перевір ігровий результат і наступними правками вдоскональ графіку, темп і зворотний зв’язок.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Оригінальний допис](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### Скляний мозок: демонстрація можливостей
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Скляний мозок: демонстрація можливостей"></a>
-
-**Промпт**
-
-```text
-зроби демонстрацію своїх можливостей на Three.js.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Оригінальний допис](https://x.com/viewsfrom02108/status/2094853472864682360) · [Назад до прикладів](#all-prompts)
-
----
-
-
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.7.md) · **8 / 9** · [→](catalog.uk.9.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.7.md) · **8 / 10** · [→](catalog.uk.9.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/uk/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Повний каталог →</a></strong></p>

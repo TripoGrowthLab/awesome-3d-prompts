@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 1 / 9
+# Awesome 3D Prompts — 1 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Полный каталог](catalog.ru.md) · **1 / 9** · [→](catalog.ru.2.md)
+[Полный каталог](catalog.ru.md) · **1 / 10** · [→](catalog.ru.2.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Лесная деревня у озера](#gpt-6-astra-2103860776419111285)
+- [Воксельная WebGL-сцена «корабль в бутылке»](#gpt-6-astra-2103855977376125161)
+- [Профессиональный 15-секундный ролик с моушн-дизайном и графикой](#claude-opus-5-5-2103846630088716687)
+- [Воксельная игра в стиле Minecraft с продвинутыми шейдерами](#claude-opus-5-5-2103822946800165270)
+- [Моушн-дизайн-видео в стиле Spotify](#claude-opus-5-5-2103801834930606193)
 - [Динамичный 15-секундный шоурил по моушн-дизайну](#claude-opus-5-5-2103504887439065439)
 - [Воксельная survival-игра-песочница на WebGL2](#claude-opus-5-5-2103502454750920925)
 - [Японский сад в воксельном стиле на Three.js](#gpt-6-astra-2103486103831339269)
@@ -73,13 +78,475 @@
 - [Интерактивная эйлерова неоновая симуляция жидкости](#claude-opus-5-5-2102565611473661963)
 - [Интерактивный 3D-ландшафт японской сакурной долины](#claude-opus-5-5-2102565403109085669)
 - [Модель аварии Hundenberg и реалистичное видео](#claude-opus-5-5-2102547809140355250)
-- [360-градусный 3D-рендеринг гандбольной площадки по изображению](#claude-opus-5-5-2102544406117286004)
-- [Процедурный 3D-фон главного меню в Three.js по изображению](#claude-opus-5-5-2102544196808667471)
-- [Самозапускающаяся 3D-машина Руба Голдберга](#claude-opus-5-5-2102544078927741369)
-- [Интерактивная игра о фермерских животных в стиле «Питера Кролика»](#claude-opus-5-5-2102538762731565085)
-- [Кинематографичный интерактивный пиратский корабль на закате](#claude-opus-5-5-2102533729746882985)
 
 </details>
+<a id="gpt-6-astra-2103860776419111285"></a>
+
+### Лесная деревня у озера
+
+[Givros](https://x.com/givros) · 2026-09-26 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103860776419111285"><img src="../assets/previews/bb5336623e7ba06d8f082e8bd8cf2c577fc40a4883915d61e1da5aec2e299aa4.webp" width="840" loading="lazy" alt="Лесная деревня у озера"></a>
+
+**Промпт**
+
+```text
+Лес в окружении озера, расположенного в центре. Посреди озера — заброшенный дом. Вокруг озера — французская деревня, утопающая в цветах. Дорожки соединяют ключевые точки.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+A forest with a lake in the center. In the middle of the lake, an abandoned house. Around the lake, a flower-filled French village. Paths connecting the important points.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103860776419111285) · [Исходная публикация](https://x.com/givros/status/2103860776419111285) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103855977376125161"></a>
+
+### Воксельная WebGL-сцена «корабль в бутылке»
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-26 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103855977376125161"><img src="../assets/previews/2f45920bf771d92b9bce39284ff16726678fe0e30e9a656a8fc5a68f7ab463ff.webp" width="840" loading="lazy" alt="Воксельная WebGL-сцена «корабль в бутылке»"></a>
+
+**Промпт**
+
+```text
+Спроектируйте и создайте очень креативную, сложную и детализированную воксельную сцену с необычным кораблём, плывущим по океану внутри бутылки. Добавьте волны и реалистичную физику, полностью разместив сцену внутри бутылки. Сделайте сцену впечатляющей и разнообразной: используйте красочные воксели, смоделированную физику, интересные объекты и пейзажи, полностью заключённые в бутылке. Используйте WebGL и любые необходимые библиотеки, но убедитесь, что весь код можно вставить в один HTML-файл и открыть в Chrome
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Design and create a very creative, elaborate, and detailed voxel art scene of a intricate ship sailing through the ocean inside of a bottle. Include waves and realistic physics, with the whole scene encapsulated inside of the bottle. Make the scene impressive and varied and use colorful voxels, modeled physics, and interesting props / landscapes all encapsulated inside of the bottle. Use WebGL and whatever libraries to get this done but make sure I can paste it all into a single HTML file and open it in Chrome
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103855977376125161) · [Исходная публикация](https://x.com/Artless101/status/2103856049925071141) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103846630088716687"></a>
+
+### Профессиональный 15-секундный ролик с моушн-дизайном и графикой
+
+[Tasher](https://x.com/Dannnnnok) · 2026-09-26 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103846630088716687"><img src="../assets/previews/5ac04e5937cd19c2305122056a57079333c484aac9d3a8551507e3616b0c9a19.webp" width="840" loading="lazy" alt="Профессиональный 15-секундный ролик с моушн-дизайном и графикой"></a>
+
+**Промпт**
+
+```text
+Мне интересно увидеть, насколько вы сильны в моушн-дизайне. Чтобы это доказать, создайте профессионально выполненный 15-секундный анимированный графический ролик, демонстрирующий ваши навыки моушн-дизайна. Этот ролик увидят 10 000 человек в X, поэтому сделайте его визуально выразительным, профессиональным и запоминающимся. Полностью полагайтесь на свою творческую свободу и добейтесь наилучшего результата.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+I’m curious to see how strong you are as a motion designer. To prove it, create a polished 15-second animated graphic video that showcases your motion design skills. This piece will be presented to 10,000 people on X, so make it visually compelling, professional, and memorable. Take full creative freedom and make the strongest result you can
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103846630088716687) · [Исходная публикация](https://x.com/Dannnnnok/status/2103847239885939019) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103822946800165270"></a>
+
+### Воксельная игра в стиле Minecraft с продвинутыми шейдерами
+
+[DreykØ](https://x.com/dreyk0o0) · 2026-09-26 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103822946800165270"><img src="../assets/previews/4ef0cface56b3289b525d03044a300a6af2f051a6cd71444a36274edbd44da0e.webp" width="840" loading="lazy" alt="Воксельная игра в стиле Minecraft с продвинутыми шейдерами"></a>
+
+**Промпт**
+
+```text
+Создай воксельную игру в стиле Minecraft в одном HTML-файле, которая запускается в браузере.
+- Управление от первого лица: WASD, обзор мышью, прыжок
+- Процедурно генерируемый ландшафт с холмами, водой и деревьями
+- Установка и разрушение блоков мышью, 5 типов блоков
+- Продвинутые шейдеры: движущееся солнце, мягкие тени, затенение от окружающей среды, туман, отражения в воде
+- Стабильные 60 кадров/с на ноутбуке
+Подключи Three.js через CDN. Протестируй игру, исправь все ошибки, затем продолжай улучшать графику, пока она не станет максимально реалистичной.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a Minecraft-style voxel game in a single HTML file that runs in the browser.
+- First-person controls: WASD, mouse look, jump
+- Procedural terrain with hills, water and trees
+- Place and break blocks with the mouse, 5 block types
+- Advanced shaders: moving sun, soft shadows, ambient occlusion, fog, water reflections
+- Smooth 60 fps on a laptop
+Use Three.js from a CDN. Test it, fix every bug, then keep improving the visuals until it looks as realistic as possible.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103822946800165270) · [Исходная публикация](https://x.com/dreyk0o0/status/2103822946800165270) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103801834930606193"></a>
+
+### Моушн-дизайн-видео в стиле Spotify
+
+[Brain](https://x.com/brainextends) · 2026-09-26 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103801834930606193"><img src="../assets/previews/75ebc1defe8d18a4ce53a2b3bcae792b69b6d9762c712cc422bf6217726662cb.webp" width="840" loading="lazy" alt="Моушн-дизайн-видео в стиле Spotify"></a>
+
+**Промпт**
+
+```text
+Создайте полностью готовое, отполированное моушн-дизайн-видео в стиле Spotify по следующему брифу. Этот промпт самодостаточен: референсное видео и предоставленные ассеты не требуются.
+
+<deliverables> MP4 длительностью 18 секунд, разрешением 1920×1080 и настоящей частотой 60 fps, с музыкой и тонкими звуковыми эффектами Редактируемый исходник целиком Соберите, отрендерьте, проверьте и доработайте анимацию перед выдачей результата Не останавливайтесь на раскадровке, статичных изображениях или плане реализации </deliverables>
+<art_direction>
+Премиальный рекламный ролик музыкального продукта, представленный внутри большой почти чёрной сцены со скруглёнными углами
+Сцена занимает примерно 80% ширины и 75% высоты холста, расположена по центру горизонтали и немного ниже вертикального центра
+За пределами сцены используйте мягкий атмосферный зелёный фон: светящийся изумрудный оттенок в левом верхнем углу, более глубокий лесной зелёный по бокам, переходящий в почти чёрный у нижнего края
+Внутри сцены:
+Почти чёрный фон
+Основная типографика белого цвета
+Вторичный текст приглушённого серого цвета
+Spotify-зелёный # 1ED760 для акцентов и элементов управления
+Один чистый гротескный шрифт, например Geist или Inter
+Единая толщина линий иконок и сдержанные тени
+Композиции должны быть компактными и центрированными, с большим количеством негативного пространства
+Текст должен восприниматься как реклама музыкального продукта, а не как крупные заголовки презентации
+Не добавляйте внешнюю подпись, водяной знак автора, декоративный футер или счётчик прогресса
+</art_direction>
+
+<artwork> Создайте оригинальную квадратную обложку альбома для вымышленного трека «Glass Tides» исполнителя «AURA»
+Главная обложка — абстрактное макроизображение струящегося перламутрового жидкого шёлка и расплавленного стекла
+Используйте пастельные оттенки лавандового, пудрово-цианового, нежно-розового, шампанского золота и лёгкого мятного
+Добавьте широкие объёмные складки, реалистичные блики, тонкие прожилки и заметную широкую складку в форме буквы S
+Заполните квадрат от края до края
+На главной обложке не должно быть текста, логотипа или рамки
+Последовательно используйте эту же обложку на протяжении всего фильма
+
+Создайте дополнительные оформленные обложки плейлистов:
+«Late Nights» — горчично-жёлтая
+«Good Energy» — розовая
+«Deep Focus» — синяя
+«Daily Mix 1», «Daily Mix 2» и «Daily Mix 3» — в сочетающихся цветах
+
+Они должны выглядеть как завершённые графические обложки с выразительной типографикой и простыми геометрическими мотивами
+</artwork>
+
+<timeline> 0,0–0,6 секунды: Зелёная иконка Spotify плавно увеличивается в центре тёмной сцены. Задайте уверенное появление с минимальным перелётом
+0,6–1,5 секунды:
+Иконка превращается в небольшую фирменную связку Spotify над двумя центрированными строками:
+«Discover»
+«new music»
+Первая строка белая, вторая — зелёная
+Покажите их короткими вертикальными движениями в маске
+1,5–2,4 секунды:
+Стилизованный интерфейс Spotify для компьютера поднимается в поле зрения
+Покажите узкую боковую панель, «Made for you», три карточки альбомов и небольшие вспомогательные строки
+Во время появления используйте лёгкий перспективный наклон, постепенно переходящий во фронтальный вид
+2,4–3,2 секунды:
+Приблизьтесь к трём главным обложкам
+Разместите над ними заголовок «New for you»
+Сохраните чёткость обложек, добавьте под ними короткие названия альбомов
+Теперь в нижней части сцены появляется узкая панель плеера со скруглёнными углами
+3,2–4,0 секунды:
+Главные карточки складываются в компактный список «Fresh finds»
+Покажите четыре строки треков с небольшим последовательным смещением по времени
+Каждая строка содержит миниатюру, короткое название трека, имя исполнителя и небольшую иконку меню
+4,0–4,9 секунды:
+Перейдите к горизонтальной ленте красочных обложек плейлистов
+Заголовок: «Every mood»
+Вспомогательная строка: «Find what moves you»
+Лента плавно скользит вбок, а крайние карточки частично обрезаются границами сцены
+4,9–5,8 секунды:
+Появляется компактное поле поиска
+Введите «Glass Tides»
+Покажите под ним один выбранный результат с переливающейся обложкой, «AURA» и зелёной иконкой воспроизведения
+
+5,8–6,6 секунды:
+Выбранная обложка увеличивается до крупного изображения по центру
+Покажите под ней «Glass Tides», а ниже — «AURA» зелёного цвета
+Панель плеера должна оставаться видимой
+6,6–7,5 секунды:
+Та же обложка сдвигается влево
+Справа появляется информация о треке:
+«Glass Tides»
+«AURA»
+«A new frequency»
+Добавьте зелёную кнопку Play со скруглёнными углами
+Синхронизируйте движение обложки и появление текста
+7,5–8,3 секунды:
+Короткое преобразование в фирменном цвете заполняет внутреннюю сцену зелёным
+Обложка сжимается до небольшой плитки по центру
+Разместите под ней небольшую тёмную фирменную связку Spotify
+Плеер на короткое время отступает на второй план
+8,3–9,8 секунды:
+Вернитесь к тёмной сцене
+Та же обложка резко увеличивается по направлению к камере, становится огромной и обрезается скруглёнными границами сцены
+Верните плеер в нижнюю часть
+Используйте контролируемое размытие в движении на самом быстром участке приближения
+
+9,8–11,2 секунды:
+Обложка исчезает, уступая место центрированному типографическому сообщению:
+«Find your»
+«rhythm»
+Первая строка белая, вторая — зелёная
+Плеер остаётся видимым и неподвижным под текстом
+11,2–12,5 секунды:
+Покажите «Made for your every day»
+Три обложки плейлистов появляются с лёгкой перспективой и небольшими наклонами в разные стороны
+Они распределяются в шесть небольших обложек по всей сцене
+Вспомогательная строка: «Your sound, always evolving»
+
+12,5–14,0 секунды:
+Композиция с плейлистами переходит в четыре парящие обложки альбомов
+Добавьте переливающуюся главную обложку
+Используйте сдержанное вращение, перспективу, распределение по глубине и перекрытия
+Движение должно быть скоординированным, а не случайным
+14,0–15,2 секунды:
+Обложки сходятся к центру и складываются вокруг зелёной иконки Spotify
+Обложка отступает, а иконка становится главным визуальным акцентом
+Плавно уберите плеер
+Иконка Spotify должна появиться из той же центральной точки, к которой сходятся обложки
+15,2–18,0 секунды:
+Иконка немного смещается влево и останавливается рядом с крупным белым логотипом Spotify
+На протяжении движения между иконкой и буквами должно сохраняться расстояние
+Покажите:
+«Discover new music»
+«every day»
+Первая строка белая, вторая — зелёная
+Чисто удерживайте готовую композицию до самого конца
+</timeline>
+<persistent_player>
+На большей части средней последовательности сохраняйте одну узкую панель плеера со скруглёнными углами в нижней части внутренней сцены
+Добавьте:
+Небольшую миниатюру главной обложки
+«Glass Tides» и «AURA»
+Кнопки воспроизведения и переключения треков
+Тонкую шкалу прогресса
+Небольшую иконку громкости
+Приглушённое тёмное полупрозрачное оформление с тонкой рамкой
+Этот повторяющийся плеер связывает сменяющиеся кадры
+Он должен оставаться визуально второстепенным по отношению к обложке
+</persistent_player>
+
+<motion_quality>
+Передайте энергию динамично смонтированного премиального рекламного ролика
+Большинство визуальных идей длится примерно одну секунду, но переходы остаются плавными
+Используйте непрерывное ускорение и замедление
+Отдавайте предпочтение критически затухающим пружинам или тщательно настроенному плавному сглаживанию
+Не используйте повторяющиеся отскоки или сильные упругие перелёты
+Сохраняйте узнаваемость главной обложки и взаимное расположение объектов при переходах от поиска к деталям альбома, фирменной плитке и приближению
+Используйте переходы с совпадением позиции, согласованное масштабирование, появления через маску и перспективу
+Исходные заголовки должны исчезать до того, как на то же место попадут новые
+Избегайте перекрытия текста, резких сбросов камеры, длинных пустых интервалов и произвольных полноэкранных кроссфейдов
+Аккуратно обрезайте каждую слишком крупную обложку и движение камеры по границам сцены со скруглёнными углами
+Никаких частиц, колец ударной волны, бликов объектива, тряски камеры или нерелевантных стоковых кадров
+</motion_quality>
+
+<audio> Создайте или выберите электронную музыку, пригодную для коммерческого использования, примерно на 120 BPM. Используйте чистый пульс, тёплый бас, сдержанные мелодические элементы и тонкие акценты переходов. Синхронизируйте важные появления, выбор элементов, приближения и появление логотипа с музыкальными событиями. Эффекты должны быть тише музыки. Без закадрового голоса. Не используйте коммерческие треки, защищённые авторским правом, без разрешения </audio>
+<implementation_and_validation>
+Соберите детерминированную анимацию, управляемую абсолютным временем через асинхронную функцию window.seek(t)
+Каждое преобразование, значение прозрачности, маска и состояние интерфейса должны воспроизводиться при переходе к кадрам в любом порядке
+При экспорте не полагайтесь на таймеры реального времени, накопленную физику или состояние CSS-переходов
+
+Рендерьте с настоящей частотой 60 fps и пространственным сглаживанием
+Используйте 3–5 временных субкадровых сэмплов на выходной кадр для сдержанного размытия в движении
+Сохраняйте неподвижный текст и обложку резкими
+Проверьте контактные листы и воспроизведение в движении
+Проверьте быстрые смены заголовков, передачу обложки, приближение, схождение обложек и интервалы в финальном логотипе
+Убедитесь в равномерном распределении временных меток кадров и полной длительности 18 секунд
+Исправьте визуальные дефекты перед выдачей финального MP4 и редактируемого исходника
+</implementation_and_validation>
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video or supplied assets are required.
+
+<deliverables> An 18-second MP4 at 1920×1080 and true 60 fps, with music and subtle sound effects Complete editable source Build, render, inspect, and refine the animation before delivering it Do not stop at a storyboard, still images, or an implementation plan </deliverables>
+<art_direction>
+A premium music-product film presented inside a large, nearly black rounded rectangular stage
+The stage occupies roughly 80% of the canvas width and 75% of its height, centered horizontally and slightly below the vertical center
+Outside the stage, use a soft atmospheric green background: luminous emerald near the upper-left corner, deeper forest green toward the sides, fading to near-black at the bottom
+Inside the stage:
+Near-black background
+White primary typography
+Muted gray secondary text
+Spotify green # 1ED760 for emphasis and controls
+One clean sans-serif font, such as Geist or Inter
+Consistent icon strokes and restrained shadows
+Keep compositions compact and centered, with substantial negative space
+Text should feel like music-product advertising, not oversized presentation headings
+Do not add an outer caption, creator watermark, decorative footer, or progress counter
+</art_direction>
+
+<artwork> Create original square album artwork for a fictional track called “Glass Tides” by “AURA”
+The hero cover is an abstract macro image of flowing pearlescent liquid silk and molten glass
+Use pastel lavender, powder cyan, blush pink, champagne gold, and subtle mint
+Include broad three-dimensional folds, realistic reflective highlights, delicate striations, and a prominent sweeping S-shaped fold
+Fill the square edge to edge
+No text, logo, or border on this hero artwork
+Use this same artwork consistently throughout the film
+
+Create additional designed playlist sleeves:
+“Late Nights” in mustard yellow
+“Good Energy” in pink
+“Deep Focus” in blue
+“Daily Mix 1”, “Daily Mix 2”, and “Daily Mix 3” in complementary colors
+
+These should look like finished graphic-design covers, with bold typography and simple geometric motifs
+</artwork>
+
+<timeline> 0.0–0.6 seconds: A green Spotify icon grows smoothly into the center of the dark stage Give it a confident arrival with minimal overshoot
+0.6–1.5 seconds:
+The icon transitions into a small Spotify identity above two centered lines:
+“Discover”
+“new music”
+The first line is white; the second is green
+Reveal them with short masked vertical movements
+1.5–2.4 seconds:
+A stylized Spotify desktop interface rises into view
+Show a slim sidebar, “Made for you”, three album cards, and small supporting rows
+Use a subtle perspective tilt during the entrance, settling toward a frontal view
+2.4–3.2 seconds:
+Move closer to the three featured covers
+Show “New for you” above them
+Keep the artwork crisp, with short album titles beneath
+A narrow rounded player bar now anchors the bottom of the stage
+3.2–4.0 seconds:
+The featured cards withdraw into a compact “Fresh finds” list
+Reveal four song rows with a slight stagger
+Each row contains a thumbnail, short track title, artist, and a small menu icon
+4.0–4.9 seconds:
+Transition into a horizontal strip of colorful playlist covers
+Heading: “Every mood”
+Supporting line: “Find what moves you”
+The strip slides smoothly sideways, with edge cards partially cropped by the stage
+4.9–5.8 seconds:
+A compact search field appears
+Type “Glass Tides”
+Reveal one selected result beneath it, with the iridescent artwork, “AURA”, and a green play icon
+
+5.8–6.6 seconds:
+The selected artwork expands into a large centered cover
+Reveal “Glass Tides” underneath, followed by “AURA” in green
+Keep the player bar visible
+6.6–7.5 seconds:
+The same cover slides left
+Track information appears on the right:
+“Glass Tides”
+“AURA”
+“A new frequency”
+Add a rounded green Play button
+Coordinate the cover movement and text reveals
+7.5–8.3 seconds:
+A brief brand-color transformation fills the inner stage with green
+The artwork contracts into a smaller centered tile
+Place a small dark Spotify identity underneath
+The player briefly recedes
+8.3–9.8 seconds:
+Return to the dark stage
+The same artwork expands dramatically toward the camera, becoming oversized and cropped by the rounded stage
+Restore the player at the bottom
+Use controlled motion blur during the fastest part of the zoom
+
+9.8–11.2 seconds:
+The artwork clears into a centered typographic statement:
+“Find your”
+“rhythm”
+Use white for the first line and green for the second
+The player remains visible and stable beneath it
+11.2–12.5 seconds:
+Show “Made for your every day”
+Three playlist sleeves enter with gentle perspective and small opposing tilts
+They spread into six smaller sleeves across the stage
+Supporting line: “Your sound, always evolving”
+
+12.5–14.0 seconds:
+The playlist layout transitions into four floating album covers
+Include the iridescent hero artwork
+Use restrained rotation, perspective, depth ordering, and overlap
+Keep their movement coordinated rather than randomly floating
+14.0–15.2 seconds:
+The covers converge toward the center and fold around a green Spotify icon
+The artwork withdraws as the icon becomes the focal point
+Fade the player away
+The Spotify icon must emerge from the same central position as the converging covers
+15.2–18.0 seconds:
+The icon moves slightly left and settles beside a large white “Spotify” wordmark
+Keep the icon and letters separated throughout the movement
+Reveal:
+“Discover new music”
+“every day”
+The first line is white; the second is green
+Hold the finished composition cleanly through the end
+</timeline>
+<persistent_player>
+For most of the middle sequence, keep one narrow rounded player bar near the bottom of the inner stage
+Include:
+Small hero-art thumbnail
+“Glass Tides” and “AURA”
+Play and skip controls
+A thin progress track
+A small volume icon
+Subdued dark translucent styling with a fine border
+This recurring player connects the changing shots
+It must remain visually secondary to the artwork
+</persistent_player>
+
+<motion_quality>
+Match the energy of a tightly edited premium product film
+Most visual ideas last approximately one second, but transitions remain smooth
+Use continuous acceleration and deceleration
+Favor critically damped springs or carefully tuned smooth easing
+No repeated bouncing or large elastic overshoots
+Preserve the hero artwork’s identity and position relationships through search, album detail, brand tile, and zoom
+Use match-position transitions, coordinated scaling, masked reveals, and perspective
+Outgoing titles must disappear before incoming titles occupy the same space
+Avoid overlapping text, sudden camera resets, long blank intervals, and arbitrary full-frame crossfades
+Clip every oversized cover and camera move cleanly to the rounded stage
+No particles, shockwave rings, lens flares, camera shake, or unrelated stock footage
+</motion_quality>
+
+<audio> Create or select commercially usable electronic music around 120 BPM Use a clean pulse, warm bass, restrained melodic elements, and subtle transition accents Align important entrances, selections, zooms, and the logo reveal with musical events Keep effects quieter than the music No voiceover Do not use copyrighted commercial tracks without permission </audio>
+<implementation_and_validation>
+Build a deterministic animation driven by absolute time through an async window. seek(t) function
+Every transform, opacity, mask, and UI state must be reproducible when seeking frames in any order
+Do not depend on live timers, accumulated physics, or CSS transition state during export
+
+Render true 60 fps with spatial antialiasing
+Use 3–5 temporal subframe samples per output frame for restrained motion blur
+Keep stationary text and artwork sharp
+Inspect contact sheets and moving playback
+Check the fast heading changes, artwork handoffs, zoom, cover convergence, and final wordmark spacing
+Verify evenly spaced frame timestamps and the full 18-second duration
+Fix visual defects before delivering the final MP4 and editable source
+</implementation_and_validation>
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103801834930606193) · [Исходная публикация](https://x.com/brainextends/status/2103801834930606193) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103504887439065439"></a>
 
 ### Динамичный 15-секундный шоурил по моушн-дизайну
@@ -2539,202 +3006,7 @@ make me a model of the Hundenberg on blender make me a realistic video of the ac
 
 ---
 
-<a id="claude-opus-5-5-2102544406117286004"></a>
 
-### 360-градусный 3D-рендеринг гандбольной площадки по изображению
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="360-градусный 3D-рендеринг гандбольной площадки по изображению"></a>
-
-**Референсы:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-**Промпт**
-
-```text
-Отрендери в 3D изображённые на картинке гандбольную площадку, ворота, судью, игроков и мяч, чтобы сцену можно было свободно рассматривать под любым углом на все 360 градусов. Точно воспроизведи позы каждого человека и цвета всех объектов.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544406117286004) · [Исходная публикация](https://x.com/chikaidev/status/2102545257372213581) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### Процедурный 3D-фон главного меню в Three.js по изображению
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Процедурный 3D-фон главного меню в Three.js по изображению"></a>
-
-**Референсы:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**Промпт**
-
-```text
-идеально воссоздай этот полностью процедурный анимированный 3D-фон главного меню в Three.js в одном HTML-файле
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544196808667471) · [Исходная публикация](https://x.com/majidmanzarpour/status/2102544198335373576) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### Самозапускающаяся 3D-машина Руба Голдберга
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Самозапускающаяся 3D-машина Руба Голдберга"></a>
-
-**Промпт**
-
-```text
-Создай самозапускающуюся 3D-машину Руба Голдберга в виде одного автономного файла index.html в текущем каталоге.
-
-Цепочка должна работать в следующем порядке:
-1. В верхней точке отпускается шарик, который скатывается по нескольким зигзагообразным рампам.
-2. Он опрокидывает ряд из как минимум 12 домино.
-3. Последняя костяшка домино наклоняет качели, которые запускают небольшой шарик в подвесное ведро.
-4. Под весом ведро опускается; его верёвка проходит через блок и дёргает колокол, который должен заметно раскачиваться.
-5. Это же движение поднимает флаг по флагштоку. Завершением служит момент, когда флаг достигает вершины.
-
-Правила:
-- Напиши физику самостоятельно, без физических библиотек. Всякое движение после запуска шарика должно происходить благодаря твоей симуляции: твёрдые тела, столкновения, ограничения, верёвка и блок. Никакой заранее заданной покадровой анимации или интерполированного движения деталей машины.
-- Для рендеринга можно загрузить three.js из CDN. Ничего другого извне использовать нельзя: никаких изображений, моделей или шрифтов.
-- Всё должно работать без участия пользователя: автоматически запускаться при загрузке страницы, использовать кинематографичную камеру, следующую за действием, и полностью проходить всю цепочку примерно за 15–20 секунд. После подъёма флага выжди 2 секунды, затем сбрось состояние и запусти воспроизведение заново.
-- Детерминированность: используй фиксированный шаг по времени и неинициализированную случайность не применяй, чтобы каждый запуск выглядел одинаково.
-- Заполняй всё окно браузера. Запись экрана будет выполняться в разрешении 1280×720.
-- Никакого текста на экране и интерфейса любого вида.
-- Сделай сцену привлекательной: используй освещение, тени, материалы и окружение, чтобы конструкция выглядела как настоящий механизм.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544078927741369) · [Исходная публикация](https://x.com/leogao25/status/2102544081863717153) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### Интерактивная игра о фермерских животных в стиле «Питера Кролика»
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Интерактивная игра о фермерских животных в стиле «Питера Кролика»"></a>
-
-**Промпт**
-
-```text
-"Создай интерактивную игру о фермерских животных в стиле «Питера Кролика»
-главное меню = звуки вкл./выкл. + выбор животного (лошадь, свинья, корова, кошка, собака)
-Esc = пауза: сброс до точки появления/возврат в главное меню/
-перемещение с помощью WASD
-пробел — прыжок и взаимодействие с другими животными, когда они находятся рядом
-взаимодействия случайно выбираются при обнаружении близости
-взаимодействия могут включать звуки в адрес другого животного (уникальные, отличающиеся от его пассивных звуков), «потыкать его носом»
-можно взаимодействовать с водой, чтобы попить, сеном, чтобы поесть, и фруктами, чтобы поесть. 
-вид от третьего лица, камера расположена немного позади животного и выше него
-живые элементы окружения: птицы и самолёты в небе (появляются случайным образом)
-место действия = фермерские угодья, амбар, фермерская деревня с домами (в дома нельзя войти)
-Добавь достаточно ассетов, чтобы игра привлекала внимание, но не настолько много, чтобы она требовала производственного качества: это всего лишь способ провести 15 минут с дочерью и весело провести время
-react, svg, js, webgl, threejs — используй всё необходимое, чтобы игра ощущалась «хорошо»"
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102538762731565085) · [Исходная публикация](https://x.com/blaso96/status/2102538764749037738) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### Кинематографичный интерактивный пиратский корабль на закате
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Кинематографичный интерактивный пиратский корабль на закате"></a>
-
-**Промпт**
-
-```text
-Создай с нуля полностью интерактивную 3D-сцену с пиратским кораблём, который плывёт по динамичному океану на закате. Визуальный стиль должен быть кинематографичным и стилизованным, а не фотореалистичным, но при этом исключительно насыщенным, детализированным, отполированным и визуально продуманным. Создай корабль, океан, небо, освещение, материалы, паруса, такелаж, пушки, мелкие конструктивные детали, морскую пену, кильватерный след, частицы, анимацию, работу камеры, композицию, атмосферную перспективу и цветокоррекцию. Итог должен выглядеть как премиальная 3D-работа высокого production-уровня, а не прототип, техническая демонстрация или низкокачественная сцена. Начни с полностью пустой страницы. Не переиспользуй предыдущий проект или сцену и не опирайся на них. При необходимости можешь самостоятельно создать ассеты либо использовать надёжные проверенные ассеты и библиотеки с открытым исходным кодом. Обязательные требования: внутри сцены нигде не должно появляться никаких текстов. Запрещены заголовки, имена, логотипы, описания, титры, подписи и инструкции по управлению на любом языке. Представь весь проект в виде одного итогового автономного файла страницы, который можно напрямую открыть в веб-браузере; по возможности размести ассеты внутри него. Океан, корабль, паруса и камера должны двигаться естественно и плавно. Избегай искусственного замедленного режима и вялого движения. Должно ощущаться, что корабль действительно движется по воде. Не используй примитивные геометрические формы в качестве готового результата. Создай визуально убедительный детализированный пиратский корабль с тщательно сформированным корпусом, мачтами, парусами, такелажем, канатами, пушками, поручнями, фонарями, надпалубными конструкциями и хорошо заметными мелкими деталями. Освещение должно чётко раскрывать геометрию и материалы корабля. Создай насыщенную атмосферу заката, глубокие оттенки океана, отражения, убедительную морскую пену и детализированный кильватерный след позади судна и вокруг него. Соблюдай баланс между визуальным качеством и производительностью в реальном времени: сохрани плавное взаимодействие и анимацию, не допуская явного ухудшения качества. Автоматически используй наиболее подходящие навыки, инструменты, библиотеки, методы и доступные ассеты, необходимые для достижения наилучшего результата. Не жди, пока я укажу, какие технологии использовать. Обязательно протестируй готовый результат в веб-браузере на компьютере. Сделай визуальные скриншоты, проверь консоль браузера на наличие ошибок и исправь все обнаруженные визуальные и технические проблемы, включая искажённую геометрию, чёрный экран, ошибки загрузки ассетов, неработающую анимацию, неудачную композицию, артефакты рендеринга и проблемы с камерой. В конце убедись, что итоговый файл открывается и работает напрямую, в сцене вообще нет текста и не осталось ошибок выполнения или загрузки. После этого заверши задачу только кратким ответом.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102533729746882985) · [Исходная публикация](https://x.com/vib3coded/status/2102534606121746589) · [Назад к примерам](#all-prompts)
-
----
-
-
-[Полный каталог](catalog.ru.md) · **1 / 9** · [→](catalog.ru.2.md)
+[Полный каталог](catalog.ru.md) · **1 / 10** · [→](catalog.ru.2.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ru/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Полный каталог →</a></strong></p>

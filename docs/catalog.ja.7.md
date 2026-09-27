@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[全カタログ](catalog.ja.md) · [←](catalog.ja.6.md) · **7 / 9** · [→](catalog.ja.8.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.6.md) · **7 / 10** · [→](catalog.ja.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>作例を見る (50)</summary>
 
+- [分解して操作できる 3D ターボチャージャー](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [ゴッホの絵画 6 点から生まれる歩ける街](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [蒸気機関車の図面を編集可能な Blender アセンブリに](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [森のヴィラ Solace を構想から UE5 へ](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [運転できる思い出の鉄道テーブル](#driveable-childhood-train-table-2095742344293454148)
 - [密林の神殿と巨大なヴァーナラの守護者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [間取り図から完全な 3D ウォークスルーへ](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [操作できるボクセル鉄道ジオラマ](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [企業共和国の迎撃ドローンアセット](#corporate-interceptor-drone-asset-2095176360238915978)
 - [フルティガーエアロの 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
 - [10 シーンで描く映画的なルネサンスサイト](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [ペットのヤギと過ごす仮想の島](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [操作して学べる 3D 太陽系](#interactive-3d-solar-system-2095165395841999222)
-- [正距円筒図法パノラマから作る都市](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [Blender で作るドラゴンの巣窟](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Three.js のマルチプレイ海賊世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### 分解して操作できる 3D ターボチャージャー
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="分解して操作できる 3D ターボチャージャー"></a>
+
+**プロンプト**
+
+```text
+操作できる 3D ターボチャージャーを作ってください。動作する各系統を分けてください。回転させ、部品を個別に取り出し、機械が実際に何をしているか確認できるようにしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [元の投稿](https://x.com/Feraser8/status/2095776712579571725) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### ゴッホの絵画 6 点から生まれる歩ける街
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="ゴッホの絵画 6 点から生まれる歩ける街"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示されたゴッホの絵画 6 点を、一続きに歩ける Three.js の街にしてください。各作品の色彩と筆致を保ち、道路、名所、場面のつながりを統合した探索可能な世界を作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [元の投稿](https://x.com/petergostev/status/2095776685807346105) · [デモ](https://van-goghs-town.surge.sh/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### 蒸気機関車の図面を編集可能な Blender アセンブリに
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="蒸気機関車の図面を編集可能な Blender アセンブリに"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された古い蒸気機関車の図面を、Blender で精密な機械アセンブリとして再現してください。車輪、車軸、サスペンション、ロッド、ボイラー部品、車体パネルに名前を付け、個別に編集できるようにします。ディテールの量も調整可能にしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [元の投稿](https://x.com/tomkrcha/status/2095756085890310311) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### 森のヴィラ Solace を構想から UE5 へ
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="森のヴィラ Solace を構想から UE5 へ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+寝室 3 室、書斎、中庭、プール、周囲の森を備えたモダンなヴィラ「Solace」を、歩ける空間として作成してください。Blender で手続き生成し、夕景の静止画をレンダリングして、60 FPS の UE5 ウォークスルーを書き出してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [元の投稿](https://x.com/NFT_Chen/status/2095752726886105375) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### 運転できる思い出の鉄道テーブル
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="運転できる思い出の鉄道テーブル"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+子どもの頃の鉄道テーブルを、ボクセルの線路と車両を使った、触れたくなる Three.js のおもちゃとして再現してください。列車の運転、分岐の切り替え、周回視点、動くミニチュア風景の発見を楽しめるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [元の投稿](https://x.com/BigRyan/status/2095742344293454148) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### 密林の神殿と巨大なヴァーナラの守護者
@@ -982,107 +1089,7 @@ Sunset Riders のアーケードらしい勢いとコミック調の描画を組
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### ペットのヤギと過ごす仮想の島
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="ペットのヤギと過ごす仮想の島"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-後をついてきて、反応し、一緒に遊ぶペットのヤギがいる、小さな探索可能な Three.js 島を作成してください。居心地のよい風景と、簡単な日々のふれあいを加えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [元の投稿](https://x.com/aollivier82/status/2095165578042335442) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### 操作して学べる 3D 太陽系
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="操作して学べる 3D 太陽系"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-公転する惑星、スケールを考慮した移動、ラベル、速度調整、カメラの注視対象、学習に役立つ説明を備えた、操作可能な 3D 太陽系を作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [元の投稿](https://x.com/ego_agent/status/2095165395841999222) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### 正距円筒図法パノラマから作る都市
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="正距円筒図法パノラマから作る都市"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された正距円筒図法の都市パノラマを参考に、密度の高い Blender 都市モデルを一度で構築してください。主要道路、建物のボリューム、スカイライン、位置関係を保ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [元の投稿](https://x.com/hayashimon1/status/2095159781883597031) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### Blender で作るドラゴンの巣窟
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender で作るドラゴンの巣窟"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blender で劇的なドラゴンの巣窟を作成してください。主役のドラゴン、洞窟の大きさ、財宝、煙、炎の光、奥行きのある構図、映画的なカメラを用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [元の投稿](https://x.com/majidmanzarpour/status/2095149546187653547) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Three.js のマルチプレイ海賊世界
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js のマルチプレイ海賊世界"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-冒険を描く海賊アニメに着想を得た、マルチプレイ Three.js 世界を作成してください。島、船、移動、戦闘、交流しながら探索を続ける遊びを含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [元の投稿](https://x.com/aman_kambojj/status/2095137561283010600) · [デモ](https://onepiece-world.vercel.app/) · [作例一覧に戻る](#all-prompts)
-
----
-
-
-[全カタログ](catalog.ja.md) · [←](catalog.ja.6.md) · **7 / 9** · [→](catalog.ja.8.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.6.md) · **7 / 10** · [→](catalog.ja.8.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

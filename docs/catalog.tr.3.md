@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 3 / 9
+# Awesome 3D Prompts — 3 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.3.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.2.md) · **3 / 9** · [→](catalog.tr.4.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.2.md) · **3 / 10** · [→](catalog.tr.4.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Çok yüksek gökdelenlerle dolu 3B dünya](#gpt-6-astra-2099487024256589970)
+- [200 poligonun altında kozalaklı ağaç modeli](#gpt-6-astra-2099472264270102705)
+- [Etkileşimli 3B Samuray Ormanı Sahnesi](#gpt-6-astra-2099450933067612421)
+- [Oynanabilir 3B Engel Parkuru](#gpt-6-astra-2099419671481249851)
+- [Çarpışma Önlemeli Otonom Model Demiryolu](#gpt-6-astra-2099362575339372780)
 - [Peach’s Castle’ı 3B olarak yeniden tasarla](#gpt-6-astra-2099359786865402019)
 - [Etkileşimli 3B Anatomi Gezgini](#gpt-6-astra-2099206962344800541)
 - [Tarayıcıda oynanabilir 3B kıyı bölümü](#gpt-6-astra-2099172061092381027)
@@ -73,13 +78,143 @@
 - [Oluşturulmuş Referanstan Skyrim Esintili Köy Arazisi](#gpt-6-astra-2097167383576383502)
 - [Japon Çiçekçi Dükkânı Patlatılmış Görünüm Animasyonu](#gpt-6-astra-2097153139795468365)
 - [Godot'ta digitigrad meche rig kurun ve animasyon verin](#gpt-6-astra-2097123382852829230)
-- [Etkileşimli jöle limon ağacı](#gpt-6-astra-2097065330728128920)
-- [Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan](#gpt-6-astra-2097004192627933279)
-- [Blender’da 12 saniyelik bir orman yolu](#gpt-6-astra-2096986557244723371)
-- [Etkileşimli Çin Avlusu](#gpt-6-astra-2096971051334857181)
-- [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](#gpt-6-astra-2096966425017467344)
 
 </details>
+<a id="gpt-6-astra-2099487024256589970"></a>
+
+### Çok yüksek gökdelenlerle dolu 3B dünya
+
+[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="Çok yüksek gökdelenlerle dolu 3B dünya"></a>
+
+**İstem**
+
+```text
+Çok yüksek gökdelenlerle dolu bir 3B dünya oluştur
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a 3D world full of very high skyscrapers
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099487024256589970) · [Orijinal gönderi](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099472264270102705"></a>
+
+### 200 poligonun altında kozalaklı ağaç modeli
+
+[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="200 poligonun altında kozalaklı ağaç modeli"></a>
+
+**İstem**
+
+```text
+200 poligondan az sayıda poligon kullanarak bir kozalaklı ağaç oluşturabilir misin?
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+200ポリゴン以下で針葉樹を作ってみてくれませんか？
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099472264270102705) · [Orijinal gönderi](https://x.com/Watamos827/status/2099472264270102705) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099450933067612421"></a>
+
+### Etkileşimli 3B Samuray Ormanı Sahnesi
+
+[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="Etkileşimli 3B Samuray Ormanı Sahnesi"></a>
+
+**İstem**
+
+```text
+Kamera kontrolleri, sinematik aydınlatma ve çevresel ayrıntılar içeren, ormanda bir samurayın yer aldığı etkileşimli bir 3B sahne oluşturun. Sunum sade ve temiz olsun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099450933067612421) · [Orijinal gönderi](https://x.com/JaynitMakwana/status/2099450933067612421) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099419671481249851"></a>
+
+### Oynanabilir 3B Engel Parkuru
+
+[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="Oynanabilir 3B Engel Parkuru"></a>
+
+**İstem**
+
+```text
+Karakter, hareketli engeller, toplanabilir nesneler ve basit bir hedef alanı içeren küçük bir 3B engel parkuru.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099419671481249851) · [Orijinal gönderi](https://x.com/heyDhavall/status/2099419671481249851) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099362575339372780"></a>
+
+### Çarpışma Önlemeli Otonom Model Demiryolu
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="Çarpışma Önlemeli Otonom Model Demiryolu"></a>
+
+**İstem**
+
+```text
+Ortak bir hat düzeninde aynı anda çalışan en az üç tren içeren bir model demiryolu oluştur. Hat düzeninde makaslar ve sinyaller bulunsun. Trenler, hiç çarpışmamaları için kullanıcıdan herhangi bir girdi almadan kendi kendilerine hat değiştirmeli ve sinyallerde durmalı. Hat düzeni, ortam ve her şeyin görünümü sana kalmış. Tasarımla ilgili tüm kararları sen ver: stil, renkler, atmosfer, çevre, kamera, ayrıntı düzeyi ve tüm ek dokunuşlar. Bana hiçbir soru sorma; tüm seçimleri kendin yap ve tek seferde mümkün olan en etkileyici sürümü oluştur. Teknik gereksinimler: Tek bir bağımsız HTML dosyası kullan; harici model, görsel, ses veya herhangi bir türde varlık URL’si kullanma (CDN’den yüklenen bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda, tıklama gerektirmeden kendiliğinden çalışmaya başlamalı ve konsol hatası olmadan akıcı biçimde çalışmalıdır.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099362575339372780) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2099362575339372780) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099359786865402019"></a>
 
 ### Peach’s Castle’ı 3B olarak yeniden tasarla
@@ -3619,943 +3754,7 @@ can you rig and animate this glb, i want to see the digitigrade legs walking con
 
 ---
 
-<a id="gpt-6-astra-2097065330728128920"></a>
 
-### Etkileşimli jöle limon ağacı
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-07 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/f961be372cbdd030026a4ff827932ad6790c2c3dd5d588be37fa918dc67809b3.webp" width="840" loading="lazy" alt="Etkileşimli jöle limon ağacı"></a>
-
-**İstem**
-
-```text
-WebGPU kullanarak etkileşimli bir jöle limon ağacı oluşturun
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build an interactive jelly lemon tree using WebGPU
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097065330728128920) · [Orijinal gönderi](https://x.com/vib3coded/status/2097065330728128920) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097004192627933279"></a>
-
-### Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/37d5dac5d594ea7e83a1cab04ca45dc29688ef30b9dd6ea18cc2d0df43537ced.webp" width="840" loading="lazy" alt="Tezgâh Üzerinde Etkileşimli Robot Evcil Hayvan"></a>
-
-**İstem**
-
-```text
-TAM SPESİFİKASYON.
-BUNU SOHBET MESAJI OLARAK DEĞİL, PROJE KLASÖRÜNE DOSYA OLARAK KAYDEDİN.
-ARDINDAN: /goal bunu three.js ile oluşturun, SPEC.md dosyasını okuyup izleyin
-özellikle 9. ve 10. bölümlere harfiyen uyun.
-
-{ BAŞLANGIÇ }
-
-1 BU NEDİR
-
-küçük, dört ayaklı bir robot bir çalışma tezgâhında yaşar. onu şarj eder,
-onunla oynar ve ona üç iş verirsin. tezgahtan hiç ayrılmaz
-sen de ayrılmazsın. bütün oyun bundan ibarettir.
-
-bu yapıyı taşıyan yalnızca iki şey var, başka hiçbir şey değil: robotun
-nasıl göründüğü ve nasıl hareket ettiği. oyuncu tüm oyun boyunca
-sabit bir mesafeden tek bir nesneye bakıyor; bu yüzden o nesne
-bakmaya değer olmalı ve canlıymış gibi hareket etmeli.
-
-bu konuşan bir evcil hayvan değil. sesi yok, ağzı yok, ekranda yüzü yok
-ve söylediklerini asla tekrarlamıyor. sana dikkat eden bir makine;
-bu farklı ve daha iyi bir şey.
-
-2 ROBOT
-
-dört ayaklı ve yaklaşık bir kedi büyüklüğünde.
-
-çekiciliğin kaynağı olan oranlar:
-- gövde, yüksekliğinden geniş, yuvarlatılmış bir blok; uzunluğu yaklaşık iki kafa
-    genişliği kadar. ağır görünüyor.
-- kafa gövdeye göre büyük; gövde yüksekliğinin yaklaşık yüzde 40'ı kadar
-    ve kısa bir boynun üzerinde öne doğru oturuyor. meraklı görünüyor.
-    chibi tarzı bir kafa değil ve gözleri de büyük değil.
-- bacaklar gövdenin yanında ince kalıyor; böylece ağır bir şey
-    hafif uzuvlar üzerinde taşınıyor. yürüyüşün hantal değil de
-    narin görünmesini sağlayan şey bu karşıtlık.
-- aslında bir karşı ağırlık olan ve öylece sallanan kısa bir kuyruk
-- kafada, her hareketin yarım vuruş gerisinden kamçı gibi savrulup
-    sonra duran kısa bir anten. neredeyse hiç maliyeti yok ve modelin
-    tamamındaki en büyük canlılık kaynağı bu.
-
-üç malzeme, en fazla üç:
-1 boyalı panel; yumuşak kemik beyazı, mat ve hafif sıcak tonlu. sırtın,
-    kalçaların ve kafanın üstünde. görünür yüzeyin en az yüzde 60'ı
-    böyle olmalı; yoksa parça yığını gibi görünür.
-2 bacaklarda, iskelette, eklemlerde ve boyunda çıplak işlenmiş metal;
-    soğuk orta gri. yalnızca her eklem halkasında sıcak pirinç.
-3 dört ayağın, boyun kılıfının ve kablonun üzerinde koyu kauçuk;
-    siyaha yakın ve mat.
-
-yüz: eşit büyüklükte, geniş aralıklı iki yuvarlak lens; kaş çizgisi boyunca
-işlenmiş bir oluğun arkasına gömülü. bu oluk bir
-işlenmiş kenar, kaş değil ve asla hareket etmiyor. tüm ifade
-kafa açısı, anten ve lens parlaklığından geliyor.
-
-tek kusur: bir omuz paneli, sanki bir kez değiştirilmiş gibi
-biraz farklı tonda. dikkat çekmiyor.
-
-siluet testi, geçer ya da kalır: robotu yandan ve üç çeyrek açıdan
-64'e 64 piksel boyutunda beyaz üzerine tamamen siyah render alın. kafa
-yukarı kalkık olmalı, kafa ile gövde arasındaki boşluk, aralarında
-gün ışığı görünen dört bacak ve kuyruk hâlâ seçilebilmeli. eğer herhangi
-iki kütle birleşiyorsa renderı değil, modeli değiştirin.
-
-3 BATARYA İLERLEME ÇUBUĞUDUR
-
-bir yan taraf boyunca kehribar renginde yanan beş hücrelik bir şerit uzanır. şarjı
-azaldıkça hücreler birer birer söner, şarj olurken de birer birer yanar.
-ekranda sayı ya da çubuk gösterilmez.
-
-5 hücre  canlı, kafa yukarıda, kuyruk sallanıyor
-4        normal
-3        daha yavaş, kafa biraz daha aşağıda
-2        ayakta durmak yerine eylemler arasında oturur
-1        kendi kendine şarj pedine yürür ve bekler
-0        bacaklarını katlar ve olduğu yerde kapanır,
-         lensleri karanlık, şarj pedine taşınmayı bekler
-
-asla bozulmaz, asla ölmez ve sıfırda hiçbir şey kaybolmaz.
-
-4 NASIL HAREKET EDER
-
-- gerçek bir yürüyüş. çapraz çiftler halinde; ayaklar tezgâha basar ve
-  gövde üzerlerinden geçerken yerlerinde kalır. ayaklar
-  kaymaz.
-- ağırlık. yük taşıyan çiftin üzerinde gövde alçalır. başlarken hareket
-  etmeden önce öne doğru eğilir. dururken kendini dengelemek için kısa bir
-  adım atar.
-- seni izler. imleç tezgâhın üzerindeyken kafa imleci takip eder ve boyun
-  gövde dönmeden önce dönüşü başlatır.
-- toparlanır. onu dürttüğünde sendeleyip bir bacağını yana açarak basar ve
-  dengesini yeniden bulur. asla devrilmez.
-- durulur. hareketsiz dururken birkaç saniyede bir ağırlığını değiştirir
-  ve lensler yavaşça göz kırpar: kararır ve yeniden parlar, ama
-  kapanmaz.
-
-pratik yaptıkça gelişir. tamamlanan her görev yalpalamayı biraz
-azaltır ve hareketi bir sınıra kadar biraz hızlandırır.
-bunu hiçbir şey duyurmaz. yirminci görevde ne yaptığını bilen bir
-makine gibi hareket ettiği açıkça görülür ve bu değişim oyundaki
-tek ilerleme unsurudur.
-
-5 TEZGÂH
-
-tek bir çalışma tezgâhı, sabit bir mesafeden görülür. sıcak, kullanılmış.
-
-tezgâh yüzeyi aşınmış, açık renkli ahşap. arkadaki duvar düz, soğuk gri-yeşil.
-robot çıplak metalden, eklemlerinde sıcak pirinç bulunur. lensler ve hücreler
-kehribar renginde; yanan tek renk budur. lamba ışığı tek yandan sıcak gelir ve
-uzun, yumuşak bir gölge oluşturur. diğer her şey soluk tonlardadır.
-
-tezgâhın üzerinde: kablo bobinli bir şarj pedi, bir kavanoz
-cıvata, rulo hâlinde bir bez, küçük bir sandık, masa lambası, lastik top,
-teneke bir kâse. başka hiçbir şey yok.
-
-tek ışık kaynağı lambadır. robot önünden geçtiğinde
-gölgesi tezgâhın üzerinde süzülür.
-
-6 YALNIZCA KULLANIMLA ANLATILIR
-
-- topu tezgâhın üzerinde sürüklersin ve robotun kafası
-  gövdesi dönüp onu takip etmeden önce topu izler
-- robotu şarj pedine koyarsın ve önce bir hücre, ardından
-  diğeri yanar; her birinin arasında kısa bir bekleme olur
-- onu yandan dürtersin; sendeleyip genişçe açtığı bir
-  bacakla kendini dengeler ve doğrulur
-- teneke kâseye bir cıvata bırakırsın; robot yanına gider, onu
-  ağız plakalarıyla alır ve kavanoza taşır
-- onu kendi hâline bırakırsın; tezgâhın kenarına yürür, aşağıya
-  bakar ve geri çekilir
-- sırtındaki panele dokunursun; robot gövdesini alçaltır ve
-  sen durana kadar kıpırdamadan bekler
-
-tüm bunları gerçekleşirken göster. hiçbirini açıklama yazısıyla anlatma.
-
-7 ÜÇ GÖREV
-
-her biri farklı bir hareket türünü göstermek için vardır ve her biri
-menüden değil, tezgâha bir nesne koyularak başlatılır.
-
-getir  bir cıvatayı herhangi bir yere bırak. yanına yürür, alır ve onu
-       kavanoza götürür. yürüyüşü ve dönüşü gösterir.
-istifle  üç sandık koy. onları teker teker iterek üst üste dizer. itme,
-       dayanma ve kaldırma hareketlerini gösterir.
-kovala  topu yuvarla. peşinden koşar, bir ayağıyla durdurur ve
-       geri getirir. koşuyu, kaymayı ve duruşu gösterir.
-
-her görev biraz şarj harcar. 2 hücrede tamamlanan görev, 5 hücredeki
-aynı göreve göre daha yavaş ve daha dengesiz olur. sıra yok, düzen yok,
-zamanlayıcı yok, ödül yok.
-
-8 ARAYÜZ
-
-alt orta: erişim mesafesinde bir şey olduğunda tek bir komut kartı görünür;
-tuşu veya sürükleme hareketini ve eylemi belirten; bir şey erişim alanından çıktığında
-kaybolur.
-
-ekranda başka hiçbir şey yok. pil göstergesi yok, mutluluk göstergesi yok,
-açlık göstergesi yok, jeton yok, seviye yok, deneyim yok, yıldız yok,
-zamanlayıcı yok, menü yok, ayarlar yok, öğretici açılır pencere yok, robotun üzerinde yüzen etiket
-yok.
-
-oyuncunun bilmesi gereken her şey robotun gövdesinde.
-
-kamera: tezgâha sabitlenmiş, önden üç çeyrek açıyla ve
-hafifçe yukarıdan bakmalı. Dikey görüş alanı 40 derece olmalı. Robot,
-tezgâhın ortasında kare yüksekliğinin yüzde 30 ila 45'ini doldurmalı.
-1080p'de her pil hücresi en az 8 piksel genişliğinde olmalı. Tezgâhın tamamı
-her zaman kadrajda olmalı. Yaklaşık 60 derece boyunca ve daha fazla değil, yörüngede döndürmek için sürükleyin.
-Kamera hiçbir zaman tezgâhtan ayrılmamalı ve
-hiçbir zaman kesme yapmamalı.
-
-9 YASAKLAR, HER BİRİ AÇIKÇA BELİRTİLMİŞ
-
-evcil hayvan: ses yok, konuşma yok, söylediklerinizi tekrarlama yok,
-mikrofon yok, ekranda yüz yok, ağız yok, kaş yok,
-gözbebekli çizgi film gözleri yok, kalp yok, emoji yok, konuşma balonu yok,
-isim girme yok, kostüm yok, şapka yok, boya atölyesi yok.
-
-ücretsiz oynama modeli: jeton yok, mücevher yok, hiçbir türden para birimi yok,
-mağaza yok, reklam yok, günlük ödül yok, seri ödülü yok, bildirim yok,
-satın alınması gereken enerji yok, bekleme zamanlayıcısı yok, seviye yok,
-deneyim çubuğu yok, başarımlar yok, liderlik tablosu yok.
-
-oynanış: düşman yok, çatışma yok, can yok, hasar yok, ölme yok,
-kırılma yok, tamir mini oyunu yok, başarısızlık durumu yok, skor yok,
-zamanlayıcı yok, görev işaretleri yok, ara sahne yok, yükleme ekranı görseli yok.
-
-önceki yapımlarımın tekrarları: plaj yok, palmiye yok, yengeç yok,
-yüzen adalar yok, fener yok, kiraz çiçeği yok, ninja yok,
-shuriken yok, voxel blokları yok, kazma yok, lav yok, araba yok, şehir yok,
-sualtı yok, kelp yok.
-
-render: gerçekçi dokular yok, sert gölgeler yok, lens parlaması yok,
-film greni yok, sinemaskop çerçeve yok, alan derinliği bulanıklığı yok, kromatik
-aberasyon yok, gri ekran sisi yok. Lenslerde ve pil hücrelerinde
-bloom olsun, başka hiçbir yerde olmasın.
-
-10 YAPIM BÜTÇESİ
-
-bu yapım tek bir çalışma oturumunda tamamlanmalı. Aşağıdakilerin tamamı
-bu sürüm için kesinlikle yasak. Eklemeyin, taslak olarak bile bırakmayın ve
-bunun için yapılacaklar listesine bir madde bile eklemeyin.
-
-ikinci oda yok, dış mekân yok
-ikinci robot yok
-kayıt veya yükleme yok; yeniden yükleme yeni bir robot oluşturur
-fizik motoru yok: düz bir düzlemde dört bacak için elle yazılmış ters kinematik
-  ve tezgâhtaki nesneler için basit kutu çarpışması
-ragdoll yok
-ses yok
-menü yok, ayarlar yok, duraklatma ekranı yok
-üçten fazla iş yok
-gündüz-gece döngüsü yok
-
-zaman şu sırayla harcanmalı:
-1 robotun oranları ve siluet testi
-2 yürüme döngüsü ve ayakların yere basması
-3 kafa takibi, anten ve durulma hareketi
-4 pil durumları ve şarj pedi
-5 üç iş
-6 tezgâhın dekorasyonu
-
-zaman yetmezse boş bir tezgâh ve güzel,
-iyi yürüyen bir robotla yayınlayın. Asla tersi olmasın. İyi bir robotun bulunduğu sade bir tezgâh
-tamamlanmış bir oyundur. Sert hareket eden bir robotun bulunduğu süslü bir tezgâh
-hiçbir şey değildir.
-
-tamamlandı demeden önce şu dört şeyi sözle değil, renderlarla kanıtlayın:
-sözlerle değil, iki açıdan 64 pikselde silüet testi, 5 hücrede bir yürüme döngüsü
-ve aynı yürüyüşün 2 hücredeki hâli, başın
-tam yörünge boyunca imleci takip etmesi ve robotun 5 hücrede ve 0
-hücrede yan yana görüntüsü.
-
-bunu inşa et, ardından ilk olarak düzelteceğin üç şeyi söyle.
-
-{ END }
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-THE FULL SPEC.
-SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
-THEN: /goal build this in three.js, read SPEC.md and follow it
-exactly, especially sections 9 and 10.
-
-{ START }
-
-1 WHAT THIS IS
-
-a small four-legged robot lives on a workbench. you charge it,
-play with it, and give it three jobs. it never leaves the bench
-and neither do you. that is the whole game.
-
-two things carry this build and nothing else does: how the robot
-looks, and how it moves. the player spends the entire game
-looking at one object from a fixed distance, so that object has
-to be worth looking at, and it has to move like it is alive.
-
-it is not a talking pet. no voice, no mouth, no face on a screen,
-and it never repeats what you say. it is a machine that pays
-attention to you, which is a different and better thing.
-
-2 THE ROBOT
-
-about the size of a cat, on four legs.
-
-proportion, which is where charm comes from:
-- the body is a rounded block, wider than tall, about two head
-  widths long. it reads heavy.
-- the head is large for the body, roughly 40 per cent of body
-  height, and sits forward on a short neck. it reads curious.
-  not a chibi head, and the eyes are not big.
-- the legs are slender next to that body, so a heavy thing is
-  carried on light limbs. that contrast is what makes the walk
-  look delicate rather than clumsy.
-- a stub tail that is really a counterweight, and swings like one
-- one short antenna on the head that whips and settles half a
-  beat behind every movement. costs almost nothing, and it is the
-  single biggest source of life in the whole model.
-
-three materials, no more than three:
-1 painted panel, soft bone white, matte, slightly warm. over the
-  back, the haunches and the top of the head. at least 60 per
-  cent of the visible surface or it reads as a pile of parts.
-2 bare machined metal, cool mid grey, on legs, frame, joints and
-  neck. warm brass at each joint ring only.
-3 dark rubber, near black and matte, on the four feet, the neck
-  sleeve and the cable.
-
-the face: two round lenses of equal size, set wide, recessed
-behind a machined groove across the brow. the groove is a
-machined edge, not an eyebrow, and it never moves. all expression
-comes from head angle, antenna and lens brightness.
-
-one flaw: one shoulder panel is a slightly different shade, as
-though replaced once. nothing draws attention to it.
-
-silhouette test, pass or fail: render the robot pure black on
-white at 64 by 64 pixels, from the side and three quarters. the
-raised head, the gap between head and body, four legs with
-daylight between them, and the tail must all still read. if any
-two masses merge, change the model, not the render.
-
-3 THE BATTERY IS THE PROGRESS BAR
-
-a strip of five cells runs along one flank, lit amber. they go
-out one at a time as it runs down and light one at a time as it
-charges. nothing on screen shows a number or a bar.
-
-5 cells  brisk, head up, tail swinging
-4        normal
-3        slower, head slightly lower
-2        it sits down between actions instead of standing
-1        it walks to the charging pad on its own and waits
-0        it folds its legs and powers down where it stands,
-         lenses dark, waiting to be carried to the pad
-
-it never breaks, never dies, and nothing is lost at zero.
-
-4 HOW IT MOVES
-
-- a real walk. diagonal pairs, feet planted on the bench and
-  staying there while the body passes over them. feet do not
-  slide.
-- weight. the body dips on the loaded pair. starting, it leans
-  forward before it moves. stopping, it takes one short step to
-  catch itself.
-- it watches you. the head follows the cursor whenever the cursor
-  is over the bench, and the neck leads the turn before the body.
-- it recovers. nudge it and it staggers, plants a leg wide, and
-  rights itself. it never falls over.
-- it settles. standing still it shifts weight every few seconds,
-  and the lenses do a slow blink: they dim and come back, they do
-  not close.
-
-it gets better with practice. every job done makes the wobble a
-little smaller and the movement a little faster, up to a limit.
-nothing announces this. by the twentieth job it visibly moves
-like a machine that knows what it is doing, and that change is
-the only progression in the game.
-
-5 THE BENCH
-
-one workbench, seen from a fixed distance. warm, worked in.
-
-bench top worn pale timber. wall behind cool grey green, plain.
-robot bare metal with warm brass at the joints. lenses and cells
-amber, the only lit colour. lamp light warm, from one side,
-casting a long soft shadow. everything else muted.
-
-on the bench: a charging pad with a coil of cable, a jar of
-bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
-a tin bowl. nothing else.
-
-the lamp is the only light source. when the robot crosses in
-front of it, its shadow sweeps across the bench.
-
-6 DESCRIBED ONLY THROUGH USES
-
-- you drag the ball across the bench and the robot's head tracks
-  it before its body turns to follow
-- you put the robot on the charging pad and one cell lights, then
-  the next, with a pause between each
-- you nudge it from the side and it staggers, catches itself on a
-  wide leg, and straightens
-- you drop a bolt in the tin bowl and it walks over, picks it up
-  in its mouth plates, and carries it to the jar
-- you leave it alone and it walks to the edge of the bench, looks
-  over, and backs away
-- you scratch the panel on its back and it lowers its body and
-  holds still until you stop
-
-show all of this happening. never explain it in a caption.
-
-7 THE THREE JOBS
-
-each exists to show a different kind of motion, and each is asked
-for by putting an object on the bench, never by a menu.
-
-fetch  drop a bolt anywhere. it walks over, picks it up, takes it
-       to the jar. shows the walk and the turn.
-stack  put three crates out. it pushes them into a stack, one at
-       a time. shows the push, the brace and the lift.
-chase  roll the ball. it runs it down, stops it with a foot, and
-       brings it back. shows the run, the skid and the stop.
-
-each job costs a little charge. a job done at 2 cells is slower
-and wobblier than the same job at 5. no queue, no order, no
-timer, no reward.
-
-8 THE INTERFACE
-
-bottom centre: a single prompt card when something is in reach,
-naming the key or the drag and the action, which disappears when
-it is not.
-
-nothing else on screen. no battery bar, no happiness meter, no
-hunger meter, no coins, no level, no experience, no stars, no
-timer, no menu, no settings, no tutorial popup, no floating label
-over the robot.
-
-everything the player needs to know is on the robot's body.
-
-camera: fixed on the bench, three quarters from the front and
-slightly above. 40 degree vertical field of view. the robot fills
-30 to 45 per cent of frame height at the centre of the bench.
-each battery cell at least 8 pixels wide at 1080p. the whole
-bench in frame at all times. drag to orbit through about 60
-degrees and no further. the camera never leaves the bench and
-never cuts.
-
-9 BANNED, EACH ONE NAMED
-
-the pet: no voice, no talking, no repeating what you say, no
-microphone, no face on a screen, no mouth, no eyebrows, no
-cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
-no name entry, no costume, no hats, no paint shop.
-
-free-to-play: no coins, no gems, no currency of any kind, no
-shop, no ads, no daily reward, no streak, no notification, no
-energy that must be bought, no wait timer, no level, no
-experience bar, no achievements, no leaderboard.
-
-gameplay: no enemies, no combat, no health, no damage, no dying,
-no breaking, no repair mini-game, no fail state, no score, no
-timer, no quest markers, no cutscene, no loading screen art.
-
-repeats of my earlier builds: no beach, no palm trees, no crabs,
-no floating islands, no lanterns, no cherry blossom, no ninja, no
-shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
-no underwater, no kelp.
-
-render: no realistic textures, no hard shadows, no lens flare, no
-film grain, no letterboxing, no depth of field blur, no chromatic
-aberration, no grey screen fog. bloom on the lenses and the
-battery cells and nothing else.
-
-10 THE BUILD BUDGET
-
-this build must finish in one working session. everything below
-is a hard no for this version. do not add it, do not stub it, do
-not leave a todo for it.
-
-no second room, no outdoors
-no second robot
-no saving or loading, a reload is a fresh robot
-no physics engine: hand-written inverse kinematics for four legs
-  on a flat plane, plus simple box collision on the bench props
-no ragdoll
-no sound
-no menus, no settings, no pause screen
-no more than three jobs
-no day cycle
-
-where the time must go, in this order:
-1 the robot's proportions and the silhouette test
-2 the walk cycle and the foot planting
-3 the head tracking, the antenna and the settle
-4 the battery states and the charging pad
-5 the three jobs
-6 the bench dressing
-
-if time runs out, ship with an empty bench and a beautiful robot
-that walks well. never the other way round. a bare bench with a
-good robot is a finished game. a dressed bench with a stiff robot
-is nothing.
-
-before you call it done, prove these four with renders, not with
-words: the silhouette test at 64 px from two angles, a walk cycle
-at 5 cells and the same walk at 2 cells, the head tracking the
-cursor across the full orbit, and the robot at 5 cells and at 0
-cells side by side.
-
-build it, then tell me the three things you would fix first.
-
-{ END }
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097004192627933279) · [Orijinal gönderi](https://x.com/zeuuss_01/status/2097004192627933279) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096986557244723371"></a>
-
-### Blender’da 12 saniyelik bir orman yolu
-
-[Can Matrix](https://x.com/Jomolos) · 2026-09-07 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3aa6d0d4c63cd2fdf992963f8574169047d64b32012bdddd72df84f137a8d519.webp" width="840" loading="lazy" alt="Blender’da 12 saniyelik bir orman yolu"></a>
-
-> Kaynak alıntısı eksiktir.
-
-**İstem**
-
-```text
-Blender’da 12 saniyelik bir orman yolu
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096986557244723371) · [Orijinal gönderi](https://x.com/Jomolos/status/2096986557244723371) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096971051334857181"></a>
-
-### Etkileşimli Çin Avlusu
-
-[Larus Canus](https://x.com/MrLarus) · 2026-09-07 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/afa942c78d5c1cccd6cecf00b5e59c53f0eea0e4e5271cc8dbf51b3fa6caf8e9.webp" width="840" loading="lazy" alt="Etkileşimli Çin Avlusu"></a>
-
-**İstem**
-
-```text
-Blender ve Three.js kullanarak tarayıcıda keşfedebileceğim etkileşimli bir Çin avlusu oluştur.
-
-Beyaz duvarlar, koyu kiremit çatılar, ay kapısı, çam ağaçları, bir gölet ve kaya bahçesinin yanı sıra bir oturma odası, çay odası ve yatak odası ekle. Blender'ı arka planda çalıştırmak, modelleri oluşturmak ve GLB dosyalarını dışa aktarmak için Python kullan. Aydınlatma, yansımalar, animasyon ve etkileşim için Three.js kullan.
-
-Yörünge kontrollerini, yakınlaştırmayı, WASD ile gezinmeyi, gündüz/gece geçişini ve çatı görünümünü açıp kapatmayı destekle. Zamanla akan su, koi balıkları, zıplayan kurbağalar, yusufçuklar, avlu kedisi, serçeler ve gece ateş böcekleri ekle. Hareketleri ölçülü ve doğal tut.
-
-Sahneyi kapatmayan özgün bir arayüz oluştur. Aşamalar hâlinde ilerle, sonuçları tarayıcıda incele, sorunları düzelt ve çalıştırılabilir projeyi, kaynak dosyaları ve kurulum talimatlarını teslim et.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.
-
-Include white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.
-
-Support orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.
-
-Create an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096971051334857181) · [Orijinal gönderi](https://x.com/MrLarus/status/2096971051334857181) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096966425017467344"></a>
-
-### “Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası
-
-[Xenoah](https://x.com/shuminchuuu) · 2026-09-07 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/0495d0af2d899a6ca4a840202506ee1ecd4d45c049fa6de3bee6b6fbef82bfef.webp" width="840" loading="lazy" alt="“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası"></a>
-
-**İstem**
-
-```text
-Blender’da VRChat için bir manzara dünyasının tüm 3B model setini oluşturun.
-
-Tema, 
-
-“Yerçekiminin Bozulduğu Ufuk”
-
- olsun.
-
-Oyuncunun üzerinde durduğu tepenin zirvesi normal kalsın; yalnızca uzak manzara büyük ölçekte fizik kurallarını ihlal etsin.
-
-Genel tasarım sade olsun.
-Küçük ayrıntılardan çok, 
-büyük silüetleri
-
-uzak manzaranın anormalliğini
-gözlem platformunun biçimini
-mekânsal kompozisyonu
- önceliklendirin.
-
-Kompozisyon
-
-Şunları oluşturun:
-
-tepe zirvesi
-
-dar bir yürüyüş yolu
-sığ bir yarma
-yarım daire biçimli gözlem platformu
-az sayıda bank
-kırık bir yönlendirme tabelası
-merkezî gözlem cihazı
-uzak şehir
-dikey duran deniz
-ters dönmüş sıradağlar
-dev siyah sütun
-uzay yarıkları
-sabit bulutlar
-gözlem platformu
-
-Gözlem platformu yarım daire biçiminde olsun.
-
-Mevcut gözlem platformlarını taklit etmeyin; tamamen özgün bir biçim oluşturun.
-
-Özellikler:
-
-yarım daire biçimi
-
-asimetrik yapı
-bir bölümünün havaya doğru uzanması
-alçak kenar
-yarı saydam malzeme öngören bir biçim
-yerçekimi anomalisi nedeniyle yalnızca bir bölümünün deforme olması
-Aşırı karmaşıklaştırmadan, uzaktan bakıldığında biçimi kolayca anlaşılabilen büyük bir silüet oluşturun.
-
-Merkezî gözlem cihazı
-
-Gözlem platformunun merkezine, 
-
-yarı saydam bir küreyi
-
-eksik bir halkayı
-siyah sütuna yöneltilmiş bir nişan çerçevesini
-birleştiren sade bir cihaz yerleştirin.
-
-Uzak manzara
-
-Uzak manzara en önemli unsurdur.
-
-Aşağıdakileri büyük ve basitleştirilmiş biçimlerle oluşturun:
-
-Gökyüzüne düşen şehir
-
-Kutu biçimli bina gruplarını alışılmışın dışında bir yöne doğru uzatın.
-
-Dikey deniz
-
-Dev bir su yüzeyi düzlemini yaklaşık 90 derece dik konumda yerleştirin.
-
-Ters dönmüş sıradağlar
-
-Basitleştirilmiş dağ silüetini baş aşağı çevirin.
-
-Siyah sütun
-
-Uzak manzaraya son derece büyük ve ince, uzun bir siyah sütun yerleştirin.
-
-Bir bina gibi değil, uzayda oluşmuş bir eksiklik gibi görünmesini sağlayın.
-
-Uzay yarığı
-
-Siyah sütunun çevresine büyük, yırtılmış levha veya şerit biçimli şekiller yerleştirin.
-
-Emissive malzemeler kullanılması öngörülmektedir.
-
-Arazi
-
-Tepe, hafif eğimli bir çayırlık olsun.
-
-Spawn noktasından gözlem platformuna kadar 
-
-dar bir yürüyüş yolu
-
-sığ bir yarma
-oluşturun.
-
-Yarmadan çıkıldığında uzak manzaranın bir anda tümüyle görünmesini sağlayan bir kompozisyon oluşturun.
-
-Bitki örtüsü
-
-Bitkiler minimum düzeyde olsun.
-
-çim
-
-az sayıda çalı
-yalnızca birkaç bitkinin anormal bir yöne doğru eğilmesi
-yeterlidir.
-
-Modelleme yaklaşımı
-
-Low-poly ağırlıklı bir yaklaşım uygundur.
-
-Ayrıntıları gereğinden fazla işlemeyin.
-
-Primitive’leri etkin biçimde kullanın; ağırlıklı olarak 
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
- kullanarak oluşturun.
-
-Uzak manzarayı özellikle basitleştirin.
-
-Önemli olan ayrıntı değil, 
-
-“uzaklara bakar bakmaz dünyada bir tuhaflık olduğunu anlamak”
-
- olsun.
-
-Blender içindeki düzen
-
-Nesneleri aşağıdaki koleksiyonlara ayırın.
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat için Unity’ye kolayca aktarılabilecek bir yapı kullanın.
-
-En yüksek öncelik, 
-
-“gözlem platformundan görülen tek karelik bir manzara”
-
- olsun.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
-
-テーマは、
-
-「重力が壊れた地平線」
-
-です。
-
-プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
-
-全体はシンプルな造形にしてください。
-細かい装飾より、
-大きなシルエット
-
-遠景の異常さ
-展望台の形
-空間構成
-を優先してください。
-
-構成
-
-作るものは以下です。
-
-丘の頂上
-
-細い散策路
-浅い切通し
-半円形の観測デッキ
-少数のベンチ
-壊れた案内板
-中央観測装置
-遠景の都市
-垂直に立つ海
-逆さの山脈
-巨大な黒い柱
-空間断層
-静的な雲
-展望台
-
-展望台は半円形。
-
-既存の展望台を真似せず、完全オリジナル形状にしてください。
-
-特徴:
-
-半円形
-
-左右非対称
-一部が空中へ張り出す
-低い縁
-半透明素材を想定した形状
-一部だけ重力異常で変形
-複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
-
-中央観測装置
-
-展望台中央に、
-
-半透明球体
-
-不完全なリング
-黒い柱へ向いた照準フレーム
-を組み合わせたシンプルな装置を配置してください。
-
-遠景
-
-遠景は最重要です。
-
-以下を大きな簡略形状で作ってください。
-
-空へ落ちる都市
-
-箱形のビル群を、通常とは違う方向へ伸ばしてください。
-
-垂直の海
-
-巨大な水面プレーンを90度近く立てて配置してください。
-
-逆さの山脈
-
-簡略化した山のシルエットを上下反転してください。
-
-黒い柱
-
-非常に巨大で細長い黒い柱を遠景に配置してください。
-
-建物ではなく、空間の欠損のように見える形にしてください。
-
-空間断層
-
-黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
-
-発光マテリアルを想定します。
-
-地形
-
-丘はなだらかな草地。
-
-スポーン地点から展望台まで、
-
-細い散策路
-
-浅い切通し
-を作ってください。
-
-切通しを抜けると、遠景が一気に見える構図にしてください。
-
-植生
-
-植物は最小限。
-
-草
-
-少数の低木
-ごく一部だけ異常方向へ傾いた植物
-程度で十分です。
-
-モデリング方針
-
-ローポリ寄りで構いません。
-
-細部を作り込みすぎないでください。
-
-Primitiveを積極的に使い、
-
-Cube
-
-Plane
-Cylinder
-Sphere
-Curve
-を中心に作ってください。
-
-遠景は特に簡略化してください。
-
-重要なのはディテールではなく、
-
-「遠くを見た瞬間に世界がおかしいと分かること」
-
-です。
-
-Blender内の整理
-
-オブジェクトを以下のコレクションに分けてください。
-
-PLAYER_AREA
-
-OBSERVATION_DECK
-OBSERVATION_DEVICE
-VEGETATION
-DISTANT_CITY
-DISTANT_SEA
-DISTANT_MOUNTAINS
-BLACK_PILLAR
-SPACE_FRACTURE
-CLOUDS
-PROPS
-VRChat用にUnityへ持っていきやすい構成にしてください。
-
-最優先は、
-
-「展望台から見た一枚絵としての景観」
-
-です。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096966425017467344) · [Orijinal gönderi](https://x.com/shuminchuuu/status/2096966425017467344) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.2.md) · **3 / 9** · [→](catalog.tr.4.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.2.md) · **3 / 10** · [→](catalog.tr.4.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

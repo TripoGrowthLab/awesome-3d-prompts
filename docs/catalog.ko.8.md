@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.7.md) · **8 / 9** · [→](catalog.ko.9.md)
+[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.7.md) · **8 / 10** · [→](catalog.ko.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [반려 염소가 있는 가상의 섬](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [인터랙티브 3D 태양계](#interactive-3d-solar-system-2095165395841999222)
+- [정거원통 파노라마로 만드는 도시](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Blender 드래곤 둥지 장면](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Three.js 멀티플레이 해적 세계](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Blender 날아다니는 냄비 애니메이션](#flying-pot-animation-in-blender-2095132939667255657)
 - [암의 진행을 보여주는 3D 시뮬레이션](#3d-cancer-progression-simulation-2095130778342408331)
 - [유성체 분열 VFX 개선](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [절차적으로 생성한 Three.js 세계](#procedurally-generated-three-js-world-2094873862315843910)
 - [인터랙티브 3D 뇌 신호 시각화](#interactive-3d-human-brain-signals-2094873080590225728)
 - [사실적인 Three.js 풍경](#photorealistic-three-js-landscape-2094871858206191667)
-- [WebGL 셰이더로 만드는 AAA급 군중 슈터](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [직접 플레이하는 타이타닉 재난 게임](#playable-titanic-disaster-game-2094867850355679617)
-- [멀티플레이 공룡 생존 게임](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [10분 만에 만든 뒤 다듬는 Three.js 게임](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [유리 뇌로 보여주는 역량 데모](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### 반려 염소가 있는 가상의 섬
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="반려 염소가 있는 가상의 섬"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+따라오고 반응하며 함께 노는 반려 염소가 있는 작은 탐험형 Three.js 섬을 만드세요. 아늑한 환경 디테일과 간단한 일상 상호작용을 추가하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [원본 게시물](https://x.com/aollivier82/status/2095165578042335442) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### 인터랙티브 3D 태양계
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="인터랙티브 3D 태양계"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+공전하는 행성, 크기를 고려한 이동, 라벨, 속도 조절, 카메라 대상, 유용한 교육 정보를 갖춘 인터랙티브 3D 태양계를 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [원본 게시물](https://x.com/ego_agent/status/2095165395841999222) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### 정거원통 파노라마로 만드는 도시
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="정거원통 파노라마로 만드는 도시"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 정거원통 도법의 도시 파노라마를 시각 참고 자료로 삼아 밀도 높은 Blender 도시 모델을 한 번에 만드세요. 주요 도로, 건물 덩어리, 스카이라인, 공간 관계를 유지하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [원본 게시물](https://x.com/hayashimon1/status/2095159781883597031) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Blender 드래곤 둥지 장면
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender 드래곤 둥지 장면"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender에서 극적인 드래곤 둥지 장면을 만드세요. 주인공 드래곤, 동굴의 규모, 보물, 연기, 불빛, 층이 있는 구도, 영화적인 카메라를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [원본 게시물](https://x.com/majidmanzarpour/status/2095149546187653547) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Three.js 멀티플레이 해적 세계
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js 멀티플레이 해적 세계"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+모험적인 해적 애니메이션에서 영감을 받은 멀티플레이 Three.js 세계를 만드세요. 섬, 배, 이동, 전투, 함께 소통하며 탐험하는 플레이 흐름을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [원본 게시물](https://x.com/aman_kambojj/status/2095137561283010600) · [데모](https://onepiece-world.vercel.app/) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Blender 날아다니는 냄비 애니메이션
@@ -996,121 +1096,7 @@ Three.js로 Airbus H145 헬리콥터 3D 모델을 만드세요. 객실, 스키�
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### WebGL 셰이더로 만드는 AAA급 군중 슈터
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="WebGL 셰이더로 만드는 AAA급 군중 슈터"></a>
-
-**프롬프트**
-
-```text
-ThreeJS와 Web 셰이더로 만들 수 있는 가장 미친 듯이 신나는 슈터를 만들어줘! 가장 중요한 건 사격, 역동성, 반동, 그래픽, 명중의 타격감, 총을 쏘는 손맛이야. 아름답게 디자인된 아레나에 적이 떼로 몰려와야 해. ADS 조준, 무기의 관성과 무게감, 돌격소총·산탄총·지정사수소총도 넣어줘.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [원본 게시물](https://x.com/superalesha/status/2094869490165039243) · [소스 코드](https://github.com/alesha-pro/bench-portal) · [데모](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### 직접 플레이하는 타이타닉 재난 게임
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="직접 플레이하는 타이타닉 재난 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-플레이어가 배 안을 이동하며 임무를 수행하고 빙산을 피하려 애쓰는 영화적인 타이타닉 게임을 만드세요. 명확한 조작과 점점 커지는 위험을 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [원본 게시물](https://x.com/vikktorrrre/status/2094867850355679617) · [데모](https://rms-titanic-1912.netlify.app/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### 멀티플레이 공룡 생존 게임
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="멀티플레이 공룡 생존 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-사냥, 요리, 제작, 기지 건설, 위험한 공룡, 계속 탐험하게 만드는 성장 흐름을 갖춘 멀티플레이 생존 게임을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [원본 게시물](https://x.com/Rubzem/status/2094866225960493189) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### 10분 만에 만든 뒤 다듬는 Three.js 게임
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="10분 만에 만든 뒤 다듬는 Three.js 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-10분 안에 작은 Three.js 게임을 만드세요. 명확한 목표, 빠른 조작 반응, 알아보기 쉬운 위험 요소, 완결된 승리·실패 상태를 포함하세요. 이후 실제 플레이 결과를 검토하고 추가 편집으로 시각 표현, 진행 속도, 피드백을 다듬으세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [원본 게시물](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### 유리 뇌로 보여주는 역량 데모
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="유리 뇌로 보여주는 역량 데모"></a>
-
-**프롬프트**
-
-```text
-당신의 능력을 보여주는 Three.js 데모를 만들어주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [원본 게시물](https://x.com/viewsfrom02108/status/2094853472864682360) · [사례 목록으로](#all-prompts)
-
----
-
-
-[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.7.md) · **8 / 9** · [→](catalog.ko.9.md)
+[전체 카탈로그](catalog.ko.md) · [←](catalog.ko.7.md) · **8 / 10** · [→](catalog.ko.9.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ko/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">전체 카탈로그 →</a></strong></p>

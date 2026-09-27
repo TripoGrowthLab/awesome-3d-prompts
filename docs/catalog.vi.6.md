@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.5.md) · **6 / 9** · [→](catalog.vi.7.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.5.md) · **6 / 10** · [→](catalog.vi.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Sự hình thành hố đen qua WebGL](#black-hole-formation-in-webgl-2096093614397170104)
+- [Mô hình xe máy và xe tăng tương lai trong Blender](#gpt-6-astra-2096083014845636816)
+- [Cụm tàu thủ tục có thể tháo rời](#exploding-procedural-train-assemblies-2096082580554777041)
+- [Dashboard địa cầu tương tác](#interactive-globe-dashboard-2096082432197837065)
+- [Từ PDF sơ đồ đến PCB và bản dựng 3D](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [Astral War: game bắn súng trình duyệt](#astral-war-browser-shooter-2096079660605997264)
 - [Dùng concept art để tạo game 3D nhỏ thô sơ với Astra](#astra-3d-2096068401294929940)
 - [Bản mẫu trò chơi The Legend of Astra](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,117 @@
 - [Hero thiên hà WebGL thời gian thực](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [Dạo bước trên phố “Đêm đầy sao”](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [Mô hình turbo 3D tương tác dạng tháo rời](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [Biệt thự rừng Solace: từ yêu cầu đến UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [Bàn tàu hỏa tuổi thơ có thể điều khiển](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### Sự hình thành hố đen qua WebGL
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="Sự hình thành hố đen qua WebGL"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo bài trình chiếu giáo dục về sự hình thành hố đen với hình ảnh trực quan WebGL. Dùng các cảnh 3D động để minh họa phần giải thích.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Bài đăng gốc](https://x.com/zeeeeeen/status/2096093614397170104) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### Mô hình xe máy và xe tăng tương lai trong Blender
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Mô hình xe máy và xe tăng tương lai trong Blender"></a>
+
+**Prompt**
+
+```text
+Đánh giá khả năng dựng mô hình
+Sử dụng Blender để tạo một xe máy tương lai, một xe tăng tương lai và bối cảnh phù hợp để chụp ảnh trình bày, ưu tiên thiết kế và hình thức. Chụp ảnh màn hình từ nhiều góc độ. MCP cũng cần khả dụng, nhưng hãy chọn quy trình nào tạo ra chất lượng cao nhất.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096083014845636816) · [Bài đăng gốc](https://x.com/StelsRay2/status/2096083014845636816) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### Cụm tàu thủ tục có thể tháo rời
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="Cụm tàu thủ tục có thể tháo rời"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Sinh hai đoàn tàu trực tiếp trong Three.js từ kích thước, tiết diện và hàm hình học. Tạo hoạt ảnh bánh xe, chế độ tháo rời và chuỗi lắp lại.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Bài đăng gốc](https://x.com/tomkrcha/status/2096082580554777041) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### Dashboard địa cầu tương tác
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="Dashboard địa cầu tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại dashboard địa cầu 3D Three.js từ ảnh tham chiếu. Có chế độ ngày đêm, dữ liệu địa lý dễ đọc và điều khiển hoạt động khớp ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Bài đăng gốc](https://x.com/hqmank/status/2096082432197837065) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### Từ PDF sơ đồ đến PCB và bản dựng 3D
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · Khác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="Từ PDF sơ đồ đến PCB và bản dựng 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng PDF sơ đồ để sửa mạch trong KiCad, đi dây PCB hai lớp 50 × 20 mm rồi render cụm 3D. Xem datasheet linh kiện và xử lý vi phạm quy tắc thiết kế.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Bài đăng gốc](https://x.com/swjtutl/status/2096079976433082502) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### Astral War: game bắn súng trình duyệt
@@ -1032,114 +1141,7 @@ Dựng lại ngôi nhà thật được cung cấp thành cảnh Blender có th�
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### Mô hình turbo 3D tương tác dạng tháo rời
-
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Mô hình turbo 3D tương tác dạng tháo rời"></a>
-
-**Prompt**
-
-```text
-Dựng một bộ tăng áp turbo 3D tương tác. Tách riêng mọi hệ thống hoạt động. Cho tôi xoay nó, cô lập từng phần và thấy rõ cỗ máy đang làm gì.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Bài đăng gốc](https://x.com/Feraser8/status/2095776712579571725) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến sáu bức tranh Van Gogh được cung cấp thành một thị trấn Three.js thống nhất có thể đi dạo. Giữ bảng màu và nét cọ riêng của từng tranh, đồng thời nối đường phố, địa danh và các đoạn chuyển tiếp thành một thế giới có thể khám phá.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Bài đăng gốc](https://x.com/petergostev/status/2095776685807346105) · [Bản demo](https://van-goghs-town.surge.sh/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại đầu máy hơi nước cổ trong bản vẽ thành cụm cơ khí chi tiết trong Blender. Giữ bánh xe, trục, hệ treo, thanh truyền, phụ kiện nồi hơi và các tấm vỏ thành đối tượng có tên, chỉnh sửa được, với ngân sách chi tiết có thể kiểm soát.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095756085890310311) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### Biệt thự rừng Solace: từ yêu cầu đến UE5
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Biệt thự rừng Solace: từ yêu cầu đến UE5"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo biệt thự hiện đại trong rừng tên Solace có thể đi tham quan, với ba phòng ngủ, phòng làm việc, sân trung tâm, hồ bơi và rừng bao quanh. Dựng bằng thủ tục trong Blender, render ảnh giờ vàng rồi xuất trải nghiệm UE5 ở 60 FPS.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Bài đăng gốc](https://x.com/NFT_Chen/status/2095752726886105375) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### Bàn tàu hỏa tuổi thơ có thể điều khiển
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Bàn tàu hỏa tuổi thơ có thể điều khiển"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại bàn tàu hỏa tuổi thơ thành đồ chơi Three.js có cảm giác chạm, với đường ray và toa tàu voxel. Cho người chơi lái tàu, đổi nhánh ray, xoay quanh bàn và khám phá các cảnh nhỏ chuyển động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Bài đăng gốc](https://x.com/BigRyan/status/2095742344293454148) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.5.md) · **6 / 9** · [→](catalog.vi.7.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.5.md) · **6 / 10** · [→](catalog.vi.7.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

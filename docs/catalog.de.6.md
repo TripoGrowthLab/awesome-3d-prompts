@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Vollständiger Katalog](catalog.de.md) · [←](catalog.de.5.md) · **6 / 9** · [→](catalog.de.7.md)
+[Vollständiger Katalog](catalog.de.md) · [←](catalog.de.5.md) · **6 / 10** · [→](catalog.de.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Entstehung schwarzer Löcher in WebGL](#black-hole-formation-in-webgl-2096093614397170104)
+- [Futuristisches Motorrad und futuristischer Panzer in Blender](#gpt-6-astra-2096083014845636816)
+- [Prozedurale Züge in Explosionsansicht](#exploding-procedural-train-assemblies-2096082580554777041)
+- [Interaktives Globus-Dashboard](#interactive-globe-dashboard-2096082432197837065)
+- [Vom Schaltplan-PDF zur Platine und 3D-Ansicht](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [Astral War: Browser-Shooter](#astral-war-browser-shooter-2096079660605997264)
 - [Mit Konzeptbildern Astra zur Erstellung eines groben 3D-Minispiels steuern](#astra-3d-2096068401294929940)
 - [Spielprototyp The Legend of Astra](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,117 @@
 - [Echtzeit-WebGL-Galaxie als Launch-Hero](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [Ein Spaziergang durch die Straßen der Sternennacht](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [Reales Haus als bearbeitbare Blender-Szene mit 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [Interaktiver 3D-Turbolader mit Explosionsansicht](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [Eine begehbare Stadt aus sechs Van-Gogh-Gemälden](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [Von der Dampflokzeichnung zur bearbeitbaren Blender-Baugruppe](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [Waldvilla Solace: vom Briefing bis UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [Fahrbarer Eisenbahntisch aus Kindertagen](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### Entstehung schwarzer Löcher in WebGL
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="Entstehung schwarzer Löcher in WebGL"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine lehrreiche Präsentation zur Entstehung schwarzer Löcher mit WebGL-Visualisierungen. Begleite die Erklärungen mit animierten 3D-Szenen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Originalbeitrag](https://x.com/zeeeeeen/status/2096093614397170104) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### Futuristisches Motorrad und futuristischer Panzer in Blender
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Futuristisches Motorrad und futuristischer Panzer in Blender"></a>
+
+**Prompt**
+
+```text
+Bewertung der Modellierungsfähigkeiten
+Verwende Blender, um ein futuristisches Motorrad, einen futuristischen Panzer und einen passenden Hintergrund für Präsentationsaufnahmen zu erstellen. Lege den Schwerpunkt auf Design und Erscheinungsbild. Erstelle Screenshots aus mehreren Blickwinkeln. MCP sollte ebenfalls verfügbar sein, aber wähle den Workflow, der die höchste Qualität liefert.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096083014845636816) · [Originalbeitrag](https://x.com/StelsRay2/status/2096083014845636816) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### Prozedurale Züge in Explosionsansicht
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="Prozedurale Züge in Explosionsansicht"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Generiere zwei Züge direkt in Three.js aus Maßen, Profilen und Geometriefunktionen. Animiere Räder und ergänze eine Explosions- und Wiederzusammensetzungssequenz.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Originalbeitrag](https://x.com/tomkrcha/status/2096082580554777041) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### Interaktives Globus-Dashboard
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="Interaktives Globus-Dashboard"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Three.js-Globus-Dashboard nach einem Referenzbild nach. Integriere Tag- und Nachtmodus, lesbare geografische Daten und funktionierende Bedienelemente entsprechend der Vorlage.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Originalbeitrag](https://x.com/hqmank/status/2096082432197837065) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### Vom Schaltplan-PDF zur Platine und 3D-Ansicht
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · Sonstiges
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="Vom Schaltplan-PDF zur Platine und 3D-Ansicht"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Überarbeite anhand eines Schaltplan-PDFs eine Schaltung in KiCad, route eine zweilagige 50 × 20 mm große Platine und rendere ihre 3D-Baugruppe. Prüfe Bauteildatenblätter und behebe Designregelverletzungen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Originalbeitrag](https://x.com/swjtutl/status/2096079976433082502) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### Astral War: Browser-Shooter
@@ -1032,114 +1141,7 @@ Rekonstruiere das reale Haus als vollständig bearbeitbare Blender-Szene. Halte 
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### Interaktiver 3D-Turbolader mit Explosionsansicht
-
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="Interaktiver 3D-Turbolader mit Explosionsansicht"></a>
-
-**Prompt**
-
-```text
-Baue einen interaktiven 3D-Turbolader. Trenne jedes funktionierende System. Lass mich ihn drehen, Teile isolieren und sehen, was die Maschine tatsächlich macht.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [Originalbeitrag](https://x.com/Feraser8/status/2095776712579571725) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### Eine begehbare Stadt aus sechs Van-Gogh-Gemälden
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Eine begehbare Stadt aus sechs Van-Gogh-Gemälden"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Verbinde sechs bereitgestellte Van-Gogh-Gemälde zu einer zusammenhängenden, begehbaren Three.js-Stadt. Bewahre Palette und Pinselcharakter jedes Bildes und verknüpfe Straßen, Wahrzeichen und Übergänge zu einer erkundbaren Welt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Originalbeitrag](https://x.com/petergostev/status/2095776685807346105) · [Live-Demo](https://van-goghs-town.surge.sh/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### Von der Dampflokzeichnung zur bearbeitbaren Blender-Baugruppe
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="Von der Dampflokzeichnung zur bearbeitbaren Blender-Baugruppe"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Rekonstruiere die historische Dampflokzeichnung in Blender als detaillierte mechanische Baugruppe. Halte Räder, Achsen, Federung, Gestänge, Kesselarmaturen und Karosseriebleche als benannte, bearbeitbare Objekte getrennt und mache den Detailumfang steuerbar.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Originalbeitrag](https://x.com/tomkrcha/status/2095756085890310311) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### Waldvilla Solace: vom Briefing bis UE5
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Waldvilla Solace: vom Briefing bis UE5"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine begehbare moderne Waldvilla namens Solace mit drei Schlafzimmern, Büro, zentralem Hof, Pool und Wald. Baue sie prozedural in Blender, rendere Bilder zur goldenen Stunde und exportiere einen UE5-Rundgang mit 60 FPS.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [Originalbeitrag](https://x.com/NFT_Chen/status/2095752726886105375) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### Fahrbarer Eisenbahntisch aus Kindertagen
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="Fahrbarer Eisenbahntisch aus Kindertagen"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue einen Eisenbahntisch aus Kindertagen als haptisch wirkendes Three.js-Spielzeug mit Voxelgleisen und -fahrzeugen nach. Lass Spieler Züge steuern, Weichen stellen, den Tisch umkreisen und animierte Miniaturszenen entdecken.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [Originalbeitrag](https://x.com/BigRyan/status/2095742344293454148) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-
-[Vollständiger Katalog](catalog.de.md) · [←](catalog.de.5.md) · **6 / 9** · [→](catalog.de.7.md)
+[Vollständiger Katalog](catalog.de.md) · [←](catalog.de.5.md) · **6 / 10** · [→](catalog.de.7.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/de/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Vollständiger Katalog →</a></strong></p>

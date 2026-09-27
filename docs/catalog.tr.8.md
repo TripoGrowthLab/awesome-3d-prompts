@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.7.md) · **8 / 9** · [→](catalog.tr.9.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.7.md) · **8 / 10** · [→](catalog.tr.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Evcil keçili sanal ada](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [Etkileşimli 3B Güneş Sistemi](#interactive-3d-solar-system-2095165395841999222)
+- [Eşdikdörtgensel panoramadan şehir](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Blender'da ejderha ini sahnesi](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Three.js'de çok oyunculu korsan dünyası](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Blender'da uçan tencere animasyonu](#flying-pot-animation-in-blender-2095132939667255657)
 - [3B kanser ilerleme simülasyonu](#3d-cancer-progression-simulation-2095130778342408331)
 - [Geliştirilmiş meteor parçalanma efektleri](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [Prosedürel üretilmiş Three.js dünyası](#procedurally-generated-three-js-world-2094873862315843910)
 - [Etkileşimli 3B insan beyninde sinyaller](#interactive-3d-human-brain-signals-2094873080590225728)
 - [Fotogerçekçi Three.js manzarası](#photorealistic-three-js-landscape-2094871858206191667)
-- [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [Oynanabilir Titanic felaketi oyunu](#playable-titanic-disaster-game-2094867850355679617)
-- [Çok oyunculu dinozor hayatta kalma oyunu](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [On dakikada Three.js oyunu, ardından iyileştirme](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [Cam beyin yetenek demosu](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### Evcil keçili sanal ada
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Evcil keçili sanal ada"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Takip eden, tepki veren ve oynayan bir evcil keçisi olan küçük, keşfedilebilir Three.js adası yap. Sıcak çevre detayları ve basit günlük etkileşimler ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Orijinal gönderi](https://x.com/aollivier82/status/2095165578042335442) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### Etkileşimli 3B Güneş Sistemi
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Etkileşimli 3B Güneş Sistemi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Yörüngedeki gezegenler, ölçeğe duyarlı gezinme, etiketler, hız kontrolleri, kamera hedefleri ve faydalı eğitici ayrıntılarla etkileşimli 3B Güneş Sistemi oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Orijinal gönderi](https://x.com/ego_agent/status/2095165395841999222) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### Eşdikdörtgensel panoramadan şehir
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Eşdikdörtgensel panoramadan şehir"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen eşdikdörtgensel şehir panoramasını referans alarak Blender'da tek seferde yoğun şehir modeli oluştur. Ana yolları, kütleleri, silüeti ve mekânsal ilişkileri koru.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Orijinal gönderi](https://x.com/hayashimon1/status/2095159781883597031) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Blender'da ejderha ini sahnesi
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender'da ejderha ini sahnesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da ana odakta ejderha, büyük mağara hissi, hazine, duman, ateş ışığı, katmanlı kompozisyon ve sinematik kamerayla dramatik bir ejderha ini oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2095149546187653547) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Three.js'de çok oyunculu korsan dünyası
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js'de çok oyunculu korsan dünyası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Maceralı korsan animelerinden esinlenen, adalar, gemiler, dolaşım, savaş ve sosyal keşif döngüsü içeren çok oyunculu Three.js dünyası kur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Orijinal gönderi](https://x.com/aman_kambojj/status/2095137561283010600) · [Canlı demo](https://onepiece-world.vercel.app/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Blender'da uçan tencere animasyonu
@@ -996,121 +1096,7 @@ Three.js'de inandırıcı arazi, bitki örtüsü, gökyüzü, su, derinlik ve ı
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### WebGL gölgelendiricileriyle AAA sürü nişancı oyunu
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="WebGL gölgelendiricileriyle AAA sürü nişancı oyunu"></a>
-
-**İstem**
-
-```text
-Dostum, ThreeJS ve web gölgelendiricileriyle yapabileceğin en çılgın, en eğlenceli nişancı oyununu yap! En önemli şeyler ateş etme, dinamikler, geri tepme, grafikler, vuruş etkisi ve silah hissi. Düşmanların sürüler hâlinde geldiği harika tasarlanmış bir arena olsun. Nişangâhtan bakma, silah ataleti ve ağırlığı; ayrıca saldırı tüfeği, pompalı tüfek ve keskin nişancı destek tüfeği ekle.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Orijinal gönderi](https://x.com/superalesha/status/2094869490165039243) · [Kaynak kodu](https://github.com/alesha-pro/bench-portal) · [Canlı demo](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### Oynanabilir Titanic felaketi oyunu
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Oynanabilir Titanic felaketi oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Oyuncunun gemide dolaştığı, görevleri yaptığı ve buzdağından kaçınmaya çalıştığı sinematik Titanic oyunu oluştur. Kontroller anlaşılır, tehlike giderek artan yapıda olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Orijinal gönderi](https://x.com/vikktorrrre/status/2094867850355679617) · [Canlı demo](https://rms-titanic-1912.netlify.app/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### Çok oyunculu dinozor hayatta kalma oyunu
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Çok oyunculu dinozor hayatta kalma oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Avlanma, yemek pişirme, eşya üretme, üs kurma, tehlikeli dinozorlar ve oyuncuyu keşfe yönelten ilerleme döngüsü olan çok oyunculu hayatta kalma oyunu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Orijinal gönderi](https://x.com/Rubzem/status/2094866225960493189) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### On dakikada Three.js oyunu, ardından iyileştirme
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="On dakikada Three.js oyunu, ardından iyileştirme"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-On dakikada açık hedefli, tepkili kontrollü, anlaşılır tehlikeli ve eksiksiz kazanma veya kaybetme durumu olan küçük Three.js oyunu oluştur. Sonra oynanabilir sonucu incele; görselleri, tempoyu ve geri bildirimi sonraki düzenlemelerle geliştir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Orijinal gönderi](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### Cam beyin yetenek demosu
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Cam beyin yetenek demosu"></a>
-
-**İstem**
-
-```text
-yeteneklerini gösteren bir Three.js demosu yap.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Orijinal gönderi](https://x.com/viewsfrom02108/status/2094853472864682360) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.7.md) · **8 / 9** · [→](catalog.tr.9.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.7.md) · **8 / 10** · [→](catalog.tr.9.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

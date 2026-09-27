@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 6 / 9
+# Awesome 3D Prompts — 6 / 10
 
 [← Awesome 3D Prompts](../README.zh-CN.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.6.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 9** · [→](catalog.zh.7.md)
+[完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 10** · [→](catalog.zh.7.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [WebGL 黑洞形成演示](#black-hole-formation-in-webgl-2096093614397170104)
+- [Blender 未来风格摩托车与坦克建模](#gpt-6-astra-2096083014845636816)
+- [可拆解的程序化火车组件](#exploding-procedural-train-assemblies-2096082580554777041)
+- [交互式地球仪仪表盘](#interactive-globe-dashboard-2096082432197837065)
+- [原理图 PDF 转 PCB 与 3D 视图](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 - [Astral War 浏览器射击游戏](#astral-war-browser-shooter-2096079660605997264)
 - [用概念图驱动 Astra 制作粗糙的 3D 小游戏](#astra-3d-2096068401294929940)
 - [Astra 传说游戏原型](#the-legend-of-astra-game-prototype-2096064140510970318)
@@ -73,13 +78,117 @@
 - [实时 WebGL 星系首屏](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
 - [可漫步的星月夜街道](#starry-night-streets-you-can-stroll-2095805115580199372)
 - [真实住宅转 60 FPS 可编辑 Blender 场景](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
-- [可拆解交互式 3D 涡轮增压器](#exploded-interactive-3d-turbocharger-2095776712579571725)
-- [六幅梵高画作组成的可漫游小镇](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
-- [蒸汽火车图纸转 Blender 装配体](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
-- [Solace 森林别墅从 Brief 到 UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
-- [可驾驶的童年火车沙盘](#driveable-childhood-train-table-2095742344293454148)
 
 </details>
+<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
+
+### WebGL 黑洞形成演示
+
+[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGL 黑洞形成演示"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+制作介绍黑洞形成的教学幻灯片，使用 WebGL 动态 3D 场景配合说明。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [查看原帖](https://x.com/zeeeeeen/status/2096093614397170104) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096083014845636816"></a>
+
+### Blender 未来风格摩托车与坦克建模
+
+[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Blender 未来风格摩托车与坦克建模"></a>
+
+**提示词**
+
+```text
+模型能力评测
+使用 Blender 创建一辆未来风格的摩托车、一辆未来风格的坦克，以及用于展示镜头的配套背景，优先考虑设计和外观。截取多个角度的屏幕截图。还应支持 MCP，但应选择能够带来最高质量效果的工作流程。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+モデル性能評価試験
+blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096083014845636816) · [查看原帖](https://x.com/StelsRay2/status/2096083014845636816) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
+
+### 可拆解的程序化火车组件
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="可拆解的程序化火车组件"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据尺寸、截面和几何函数在 Three.js 中生成两列火车，制作车轮动画，提供爆炸分解与重组展示。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [查看原帖](https://x.com/tomkrcha/status/2096082580554777041) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="interactive-globe-dashboard-2096082432197837065"></a>
+
+### 交互式地球仪仪表盘
+
+[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="交互式地球仪仪表盘"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据参考图重建 Three.js 地球仪仪表盘，包含昼夜模式、清晰地理数据与符合参考的可用控件。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [查看原帖](https://x.com/hqmank/status/2096082432197837065) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
+
+### 原理图 PDF 转 PCB 与 3D 视图
+
+[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · 其他
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="原理图 PDF 转 PCB 与 3D 视图"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据原理图 PDF 在 KiCad 中修改电路，布线 50×20 毫米双层 PCB 并渲染 3D 装配，核对元件资料并解决设计规则错误。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [查看原帖](https://x.com/swjtutl/status/2096079976433082502) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="astral-war-browser-shooter-2096079660605997264"></a>
 
 ### Astral War 浏览器射击游戏
@@ -1023,114 +1132,7 @@ Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at
 
 ---
 
-<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
-### 可拆解交互式 3D 涡轮增压器
+[完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 10** · [→](catalog.zh.7.md)
 
-[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="可拆解交互式 3D 涡轮增压器"></a>
-
-**提示词**
-
-```text
-构建一个交互式 3D 涡轮增压器。拆分所有工作系统，让我能够旋转、隔离部件，并看清机器实际如何运作。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [查看原帖](https://x.com/Feraser8/status/2095776712579571725) · [返回案例导航](#all-prompts)
-
----
-
-<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
-
-### 六幅梵高画作组成的可漫游小镇
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="六幅梵高画作组成的可漫游小镇"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把六幅给定梵高画作融合成一个连贯、可漫游的 Three.js 小镇。保留每幅画的色板与笔触气质，同时用街道、地标与转场将其连接为可探索世界。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [查看原帖](https://x.com/petergostev/status/2095776685807346105) · [在线演示](https://van-goghs-town.surge.sh/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
-
-### 蒸汽火车图纸转 Blender 装配体
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="蒸汽火车图纸转 Blender 装配体"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把给定复古蒸汽火车图纸在 Blender 中重建为高细节机械装配体。车轮、车轴、悬挂、连杆、锅炉配件与车身面板都要成为命名清晰、可编辑的对象，并允许控制细节预算。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [查看原帖](https://x.com/tomkrcha/status/2095756085890310311) · [返回案例导航](#all-prompts)
-
----
-
-<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
-
-### Solace 森林别墅从 Brief 到 UE5
-
-[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace 森林别墅从 Brief 到 UE5"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建名为 Solace 的可漫游现代森林别墅，包含三间卧室、办公室、中央庭院、泳池和周边林地。在 Blender 中程序化构建，输出黄金时刻静帧，再导出 60 FPS 的 UE5 漫游。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [查看原帖](https://x.com/NFT_Chen/status/2095752726886105375) · [返回案例导航](#all-prompts)
-
----
-
-<a id="driveable-childhood-train-table-2095742344293454148"></a>
-
-### 可驾驶的童年火车沙盘
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="可驾驶的童年火车沙盘"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把童年火车沙盘重建为具有触感的 Three.js 玩具，使用体素轨道与车辆。允许玩家驾驶火车、切换岔道、环绕查看沙盘并发现动态微缩场景。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [查看原帖](https://x.com/BigRyan/status/2095742344293454148) · [返回案例导航](#all-prompts)
-
----
-
-
-[完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 9** · [→](catalog.zh.7.md)
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 447 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>

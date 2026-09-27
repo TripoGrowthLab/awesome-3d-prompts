@@ -1055,6 +1055,16 @@
       ]
     },
     {
+      "path": "assets/previews/2f45920bf771d92b9bce39284ff16726678fe0e30e9a656a8fc5a68f7ab463ff.webp",
+      "fingerprint": "f5830b3cebe07d5cf6e2414df2540cbc10adea4b60125b8e55eeb293f1e6a291",
+      "sha256": "2f45920bf771d92b9bce39284ff16726678fe0e30e9a656a8fc5a68f7ab463ff",
+      "bytes": 68352,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103855887706202112/img/rNAY4gYm7AqvTI5J.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103855977376125161"
+      ]
+    },
+    {
       "path": "assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp",
       "fingerprint": "59bac9119d4718f580f559e8922ce04260e37329d61574c07c0be1dd6cdd8549",
       "sha256": "2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928",
@@ -1596,6 +1606,16 @@
       ]
     },
     {
+      "path": "assets/previews/4ef0cface56b3289b525d03044a300a6af2f051a6cd71444a36274edbd44da0e.webp",
+      "fingerprint": "50a9bbefd6f8479f2672ae712c642dd0946fef6ca9a0536540fed8348c6fea56",
+      "sha256": "4ef0cface56b3289b525d03044a300a6af2f051a6cd71444a36274edbd44da0e",
+      "bytes": 17308,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103821312711913472/img/24zAofg43XdtCCb9.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103822946800165270"
+      ]
+    },
+    {
       "path": "assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp",
       "fingerprint": "e7bf1d13039c7fe1c5be6c675add615bc90c8e64c2416d6abfc08da2a5f22b16",
       "sha256": "5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2",
@@ -1703,6 +1723,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2094873031919448064-poster-8d0f2c0f88cf.webp",
       "promptIds": [
         "fantasy-ascent-to-mount-fuji-2094930804296274414"
+      ]
+    },
+    {
+      "path": "assets/previews/5ac04e5937cd19c2305122056a57079333c484aac9d3a8551507e3616b0c9a19.webp",
+      "fingerprint": "e2cae5a3eae2e563476a2cd8bd9f7c2fdd27fc5d6b0b344d9dc8c69fcd6fc3a3",
+      "sha256": "5ac04e5937cd19c2305122056a57079333c484aac9d3a8551507e3616b0c9a19",
+      "bytes": 1974,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103781198417788928/img/wGOsQjt4SWpmNrE4.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103846630088716687"
       ]
     },
     {
@@ -2174,6 +2204,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2082474662324318208-poster-0e2a378f09c3.webp",
       "promptIds": [
         "league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"
+      ]
+    },
+    {
+      "path": "assets/previews/75ebc1defe8d18a4ce53a2b3bcae792b69b6d9762c712cc422bf6217726662cb.webp",
+      "fingerprint": "2b42f8f30ec4763519f82bf9aae5e5d3c9c477932f83aeddfe6e75eb3518c7be",
+      "sha256": "75ebc1defe8d18a4ce53a2b3bcae792b69b6d9762c712cc422bf6217726662cb",
+      "bytes": 5292,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103801393534652417/img/duzCcucyFHeAlkgx.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2103801834930606193"
       ]
     },
     {
@@ -3384,6 +3424,16 @@
       "sourceUrl": "https://cdn-blog.holymolly.ai/media/production/3d-prompt-2079197922663772160-poster-ef0242c46e2d.webp",
       "promptIds": [
         "single-file-three-js-voxel-soccer-animation-2079198084689723560"
+      ]
+    },
+    {
+      "path": "assets/previews/bb5336623e7ba06d8f082e8bd8cf2c577fc40a4883915d61e1da5aec2e299aa4.webp",
+      "fingerprint": "76d56cb24a0d0a34c11d7e9d3f7936e66ab7d453d5251e5960e4df17ba177319",
+      "sha256": "bb5336623e7ba06d8f082e8bd8cf2c577fc40a4883915d61e1da5aec2e299aa4",
+      "bytes": 5794,
+      "sourceUrl": "https://pbs.twimg.com/media/HTJp02QWgAAeT0n.jpg",
+      "promptIds": [
+        "gpt-6-astra-2103860776419111285"
       ]
     },
     {

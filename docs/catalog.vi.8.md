@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.7.md) · **8 / 9** · [→](catalog.vi.9.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.7.md) · **8 / 10** · [→](catalog.vi.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Đảo ảo cùng dê cưng](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [Hệ Mặt Trời 3D tương tác](#interactive-3d-solar-system-2095165395841999222)
+- [Thành phố từ ảnh panorama equirectangular](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Hang rồng trong Blender](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Thế giới cướp biển nhiều người trong Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Hoạt ảnh nồi bay trong Blender](#flying-pot-animation-in-blender-2095132939667255657)
 - [Mô phỏng tiến triển ung thư 3D](#3d-cancer-progression-simulation-2095130778342408331)
 - [Nâng cấp VFX thiên thạch vỡ](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [Thế giới Three.js sinh thủ tục](#procedurally-generated-three-js-world-2094873862315843910)
 - [Tín hiệu não người 3D tương tác](#interactive-3d-human-brain-signals-2094873080590225728)
 - [Cảnh quan Three.js chân thực](#photorealistic-three-js-landscape-2094871858206191667)
-- [Game bắn horde AAA với shader WebGL](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [Game thảm họa Titanic có thể chơi](#playable-titanic-disaster-game-2094867850355679617)
-- [Game sinh tồn nhiều người cùng khủng long](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [Game Three.js mười phút rồi tinh chỉnh](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [Não thủy tinh: demo năng lực](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### Đảo ảo cùng dê cưng
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Đảo ảo cùng dê cưng"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo đảo Three.js nhỏ có thể khám phá với dê cưng biết đi theo, phản ứng và chơi, cùng chi tiết môi trường ấm cúng và tương tác hằng ngày đơn giản.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Bài đăng gốc](https://x.com/aollivier82/status/2095165578042335442) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### Hệ Mặt Trời 3D tương tác
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Hệ Mặt Trời 3D tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng Hệ Mặt Trời 3D tương tác với hành tinh chạy theo quỹ đạo, điều hướng có tính đến tỷ lệ, nhãn, điều chỉnh tốc độ, mục tiêu camera và thông tin giáo dục hữu ích.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Bài đăng gốc](https://x.com/ego_agent/status/2095165395841999222) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### Thành phố từ ảnh panorama equirectangular
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="Thành phố từ ảnh panorama equirectangular"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng panorama thành phố equirectangular được cung cấp làm tham chiếu để dựng mô hình thành phố Blender dày đặc trong một lượt, giữ đường chính, khối công trình, đường chân trời và quan hệ không gian.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Bài đăng gốc](https://x.com/hayashimon1/status/2095159781883597031) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Hang rồng trong Blender
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Hang rồng trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng hang rồng kịch tính trong Blender với rồng làm tâm điểm, tỷ lệ hang lớn, kho báu, khói, ánh lửa, bố cục nhiều lớp và camera điện ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2095149546187653547) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Thế giới cướp biển nhiều người trong Three.js
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Thế giới cướp biển nhiều người trong Three.js"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng thế giới Three.js nhiều người lấy cảm hứng từ anime phiêu lưu cướp biển, với đảo, tàu, di chuyển, chiến đấu và vòng khám phá cùng nhau.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Bài đăng gốc](https://x.com/aman_kambojj/status/2095137561283010600) · [Bản demo](https://onepiece-world.vercel.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Hoạt ảnh nồi bay trong Blender
@@ -996,121 +1096,7 @@ Tạo cảnh quan Three.js chân thực với địa hình, cây cối, bầu tr
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### Game bắn horde AAA với shader WebGL
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="Game bắn horde AAA với shader WebGL"></a>
-
-**Prompt**
-
-```text
-Làm cho tôi game bắn súng điên rồ và bùng nổ nhất mà bạn có thể dựng bằng ThreeJS + web shader, bro! Quan trọng nhất là bắn, nhịp chuyển động, độ giật, đồ họa, cảm giác trúng đạn và thao tác súng. Đó là đấu trường thiết kế đẹp, nơi kẻ địch tràn đến thành bầy. Thêm ngắm qua kính ADS, quán tính và sức nặng của vũ khí, cùng súng trường tấn công, shotgun và súng trường thiện xạ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Bài đăng gốc](https://x.com/superalesha/status/2094869490165039243) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Bản demo](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### Game thảm họa Titanic có thể chơi
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Game thảm họa Titanic có thể chơi"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game Titanic mang chất điện ảnh, nơi người chơi di chuyển trên tàu, làm nhiệm vụ và tìm cách tránh tảng băng, với điều khiển dễ hiểu và nguy hiểm tăng dần.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Bài đăng gốc](https://x.com/vikktorrrre/status/2094867850355679617) · [Bản demo](https://rms-titanic-1912.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### Game sinh tồn nhiều người cùng khủng long
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Game sinh tồn nhiều người cùng khủng long"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game sinh tồn nhiều người có săn bắn, nấu ăn, chế tạo, xây căn cứ, khủng long nguy hiểm và vòng tiến triển thôi thúc người chơi tiếp tục khám phá.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Bài đăng gốc](https://x.com/Rubzem/status/2094866225960493189) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### Game Three.js mười phút rồi tinh chỉnh
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="Game Three.js mười phút rồi tinh chỉnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game Three.js nhỏ trong mười phút với mục tiêu rõ, điều khiển nhạy, hiểm họa dễ thấy và trạng thái thắng hoặc thua đầy đủ. Sau đó xem lại bản chơi được và tiếp tục chỉnh đồ họa, nhịp độ, phản hồi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Bài đăng gốc](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### Não thủy tinh: demo năng lực
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Não thủy tinh: demo năng lực"></a>
-
-**Prompt**
-
-```text
-làm một demo Three.js thể hiện năng lực của bạn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Bài đăng gốc](https://x.com/viewsfrom02108/status/2094853472864682360) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-
-[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.7.md) · **8 / 9** · [→](catalog.vi.9.md)
+[Danh mục đầy đủ](catalog.vi.md) · [←](catalog.vi.7.md) · **8 / 10** · [→](catalog.vi.9.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

@@ -54,7 +54,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 - [Cathedral hack-and-slash arena](../docs/catalog.en.6.md#cathedral-hack-and-slash-arena-2095988972879335792) · [Alexey Fateev](https://x.com/superalesha)
 - [Anti-gravity combat racer](../docs/catalog.en.6.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha)
-- [AAA horde shooter with WebGL shaders](../docs/catalog.en.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha)
+- [AAA horde shooter with WebGL shaders](../docs/catalog.en.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha)
 
 ## [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep)
 

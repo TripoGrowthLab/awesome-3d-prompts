@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 4 / 9
+# Awesome 3D Prompts — 4 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.4.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.3.md) · **4 / 9** · [→](catalog.uk.5.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.3.md) · **4 / 10** · [→](catalog.uk.5.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Інтерактивне желейне лимонне дерево](#gpt-6-astra-2097065330728128920)
+- [Інтерактивний робот-вихованець на верстаку](#gpt-6-astra-2097004192627933279)
+- [12-секундна лісова дорога в Blender](#gpt-6-astra-2096986557244723371)
+- [Інтерактивний китайський дворик](#gpt-6-astra-2096971051334857181)
+- [Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»](#gpt-6-astra-2096966425017467344)
 - [Нескінченна мініатюрна вулиця в Three.js WebGPU](#gpt-6-astra-2096956214680965501)
 - [3D-сцена Гоґвортсу](#gpt-6-astra-2096907617117540478)
 - [Інтерактивний м’який слим на Three.js і WebGPU](#gpt-6-astra-2096793432987464010)
@@ -73,13 +78,953 @@
 - [Процедурна комаха, що повзає різними поверхнями](#surface-climbing-procedural-insect-2096460081982304546)
 - [Відтворення гри Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
 - [Квартира за мотивами D4 для дослідження в грі](#playable-d4-inspired-apartment-2096413869841473930)
-- [Створіть і відрендерте чорну діру в Blender](#gpt-6-astra-2096391653669953761)
-- [Гра-симулятор залізничної мережі](#railway-network-simulation-game-2096362653480562751)
-- [Таверна з працівниками та відвідувачами](#tavern-with-working-staff-and-guests-2096358854275543457)
-- [Інтерактивний 3D-ансамбль з аудіосинхронною анімацією](#gpt-6-astra-2096354461652488562)
-- [Від концепту персонажа до 3D-моделі з ригом і мультфільму](#gpt-6-astra-2096342420543660277)
 
 </details>
+<a id="gpt-6-astra-2097065330728128920"></a>
+
+### Інтерактивне желейне лимонне дерево
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-07 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/f961be372cbdd030026a4ff827932ad6790c2c3dd5d588be37fa918dc67809b3.webp" width="840" loading="lazy" alt="Інтерактивне желейне лимонне дерево"></a>
+
+**Промпт**
+
+```text
+створіть інтерактивне желейне лимонне дерево за допомогою WebGPU
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build an interactive jelly lemon tree using WebGPU
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097065330728128920) · [Оригінальний допис](https://x.com/vib3coded/status/2097065330728128920) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097004192627933279"></a>
+
+### Інтерактивний робот-вихованець на верстаку
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/37d5dac5d594ea7e83a1cab04ca45dc29688ef30b9dd6ea18cc2d0df43537ced.webp" width="840" loading="lazy" alt="Інтерактивний робот-вихованець на верстаку"></a>
+
+**Промпт**
+
+```text
+ПОВНА СПЕЦИФІКАЦІЯ.
+ЗБЕРЕЖИ ЇЇ ЯК ФАЙЛ У ПАПЦІ ПРОЄКТУ, А НЕ ЯК ПОВІДОМЛЕННЯ В ЧАТІ.
+ПОТІМ: /goal build this in three.js, read SPEC.md and follow it
+точно, особливо розділи 9 і 10.
+
+{ ПОЧАТОК }
+
+1 ЩО ЦЕ
+
+На верстаку живе невеликий чотириногий робот. його можна заряджати,
+гратися з ним і давати йому три завдання. він ніколи не залишає верстак
+і ти теж. це вся гра.
+
+Цю збірку тримають на собі лише дві речі: вигляд робота
+і його рухи. гравець усю гру дивиться на один об’єкт із фіксованої відстані,
+тому на нього має бути варто дивитися, а рухатися він має так,
+ніби живий.
+
+Це не балакучий вихованець. без голосу, без рота, без обличчя на екрані,
+і він ніколи не повторює твої слова. це машина, яка звертає
+на тебе увагу, а це зовсім інше — і значно краще.
+
+2 РОБОТ
+
+Розміром приблизно з кота, на чотирьох ногах.
+
+Пропорції — саме вони створюють чарівність:
+- корпус — округлий блок, ширший, ніж високий, завдовжки приблизно у дві ширини голови. він виглядає важким.
+
+- голова велика щодо корпусу, приблизно 40 відсотків висоти корпусу, і винесена вперед на короткій шиї. вона здається допитливою.
+  це не голова чібі, а очі не великі.
+
+- ноги тонкі поруч із таким корпусом, тож важку конструкцію несуть легкі кінцівки. саме цей контраст робить ходу
+  делікатною, а не незграбною.
+
+- короткий хвіст, який насправді є противагою й розгойдується як противага
+- одна коротка антена на голові, що різко відхиляється й осідає на півтакту
+  позаду кожного руху. майже нічого не коштує, зате це
+  найбільше джерело життя в усій моделі.
+
+Три матеріали, не більше:
+1 пофарбована панель — м’який кістяно-білий колір, матова, трохи тепла. покриває
+  спину, стегна й верхню частину голови. щонайменше 60 відсотків
+  видимої поверхні, інакше робот виглядатиме як купа деталей.
+2 необроблений машинний метал — холодний середньо-сірий, на ногах, каркасі, суглобах і
+  шиї. на кожному суглобі — лише кільце з теплого латунного сплаву.
+3 темна гума — майже чорна й матова, на чотирьох ступнях, втулці шиї
+  і кабелі.
+
+Обличчя: дві круглі лінзи однакового розміру, широко розставлені й утоплені
+за машинною канавкою вздовж брів. ця канавка — оброблений край,
+а не брова, і вона ніколи не рухається. уся міміка
+передається нахилом голови, антеною та яскравістю лінз.
+
+Одна вада: одна плечова панель трохи іншого відтінку, ніби її
+колись замінили. ніщо не привертає до цього уваги.
+
+Перевірка силуету, пройдено чи ні: відрендерити робота суцільно чорним
+на білому тлі у 64 на 64 пікселі, збоку та у ракурсі три чверті. піднята
+голова, проміжок між головою й корпусом, чотири ноги з
+просвітом між ними та хвіст мають залишатися добре помітними. якщо
+будь-які дві маси зливаються, змінити модель, а не рендер.
+
+3 БАТАРЕЯ — ЦЕ ІНДИКАТОР ПРОГРЕСУ
+
+Уздовж одного боку проходить смуга з п’яти бурштинових елементів батареї. вони
+гаснуть по одному в міру розряджання і загоряються по одному під час
+заряджання. на екрані немає ані чисел, ані смуги-індикатора.
+
+5 елементів  жвавий, голова піднята, хвіст розгойдується
+4        звичайний темп
+3        повільніший, голова трохи нижче
+2        між діями сідає замість того, щоб стояти
+1        сам іде до зарядної панелі й чекає
+0        підгинає ноги й вимикається там, де стоїть,
+         лінзи темні, чекає, коли його перенесуть до панелі
+
+Він ніколи не ламається, не гине, і при нульовому заряді нічого не втрачається.
+
+4 ЯК ВІН РУХАЄТЬСЯ
+
+- справжня хода. діагональні пари, ступні стоять на верстаку
+  і залишаються на місці, поки корпус проходить над ними. ступні не
+  ковзають.
+- вага. корпус просідає на опорній парі. перед початком руху він
+  нахиляється вперед. під час зупинки робить один короткий крок, щоб
+  втримати рівновагу.
+- він стежить за тобою. голова стежить за курсором, коли курсор
+  перебуває над верстаком, а шия починає поворот раніше за корпус.
+- він відновлює рівновагу. якщо його підштовхнути, він хитається, широко
+  розставляє ногу й випрямляється. він ніколи не падає.
+- він заспокоюється. стоячи нерухомо, кожні кілька секунд переносить вагу,
+  а лінзи повільно моргають: тьмяніють і знову світяться, але не
+  закриваються.
+
+З практикою він стає кращим. кожне виконане завдання трохи зменшує хитання
+і трохи пришвидшує рухи — до певної межі.
+Ніщо цього не оголошує. до двадцятого завдання він уже помітно рухається
+як машина, яка знає, що робить, і ця зміна —
+єдиний прогрес у грі.
+
+5 ВЕРСТАК
+
+Один верстак, показаний із фіксованої відстані. теплий, із власною історією використання.
+
+Стільниця — потерта світла деревина. стіна позаду — холодного сіро-зеленого кольору, без деталей.
+Робот — із необробленого металу, з теплими латунними суглобами. лінзи й елементи
+батареї — бурштинові, це єдиний освітлений колір. світло лампи тепле, з одного боку,
+кидає довгу м’яку тінь. усе інше приглушене.
+
+На верстаку: зарядна панель зі змотаним кабелем, банка з
+болтами, згорнута ганчірка, невелика скринька, настільна лампа, гумовий м’яч,
+жерстяна миска. нічого більше.
+
+Лампа — єдине джерело світла. коли робот проходить перед
+нею, його тінь ковзає по верстаку.
+
+6 ОПИСУЄТЬСЯ ЛИШЕ ЧЕРЕЗ ВИКОРИСТАННЯ
+
+- ти перетягуєш м’яч верстаком, і голова робота стежить за
+  ним, перш ніж корпус повертається слідом
+- ти ставиш робота на зарядну панель, і один елемент засвічується, потім
+  наступний, із паузою між кожним
+- ти підштовхуєш його збоку, він хитається, широко ставить ногу, щоб
+  втриматися, і випрямляється
+- ти кидаєш болт у жерстяну миску, і він підходить, підбирає його
+  пластинами рота та переносить до банки
+- ти залишаєш його самого, і він іде до краю верстака, визирає
+  вниз, а потім відступає
+- ти чухаєш панель на його спині, і він опускає корпус та
+  стоїть нерухомо, доки ти не припиниш
+
+Покажи все це в дії. ніколи не пояснюй це підписом.
+
+7 ТРИ ЗАВДАННЯ
+
+Кожне показує інший тип руху, і кожне запускається
+розміщенням об’єкта на верстаку, а не через меню.
+
+принести  поклади болт будь-де. він підходить, підбирає його й несе
+       до банки. показує ходу та поворот.
+скласти  вистав три скриньки. він штовхає їх у стос, по одній за
+       раз. показує поштовх, упор і піднімання.
+наздогнати  покоти м’яч. він біжить за ним, зупиняє його ногою й
+       приносить назад. показує біг, ковзання та зупинку.
+
+Кожне завдання витрачає трохи заряду. завдання, виконане за 2 елементів, повільніше
+і хиткіше за те саме завдання за 5. без черги, без порядку, без
+таймера, без нагород.
+
+8 ІНТЕРФЕЙС
+
+Унизу по центру з’являється одна картка-підказка, коли щось перебуває в зоні досяжності:
+вона називає клавішу або перетягування та дію і зникає, коли
+об’єкт виходить із цієї зони.
+
+На екрані більше нічого немає. без індикатора батареї, без шкали щастя, без
+шкали голоду, без монет, рівня, досвіду, зірок,
+таймера, меню, налаштувань, спливної навчальної підказки чи плаваючого підпису
+над роботом.
+
+Усе, що гравцеві потрібно знати, видно на корпусі робота.
+
+Камера: зафіксована на верстаку, спереду під кутом три чверті й
+трохи зверху. вертикальне поле огляду — 40 градусів. у центрі верстака робот займає
+від 30 до 45 відсотків висоти кадру.
+Ширина кожного елемента батареї — щонайменше 8 пікселів у 1080p. увесь
+верстак завжди в кадрі. перетягуванням можна обертати камеру приблизно на 60
+градусів, але не більше. камера ніколи не залишає верстак і
+ніколи не змінює план.
+
+9 ЗАБОРОНЕНО — КОЖЕН ПУНКТ НАЗВАНО
+
+Вихованець: без голосу, розмов, повторення твоїх слів, мікрофона,
+обличчя на екрані, рота, брів, мультяшних очей із зіницями, сердець,
+емодзі, хмаринок із репліками, введення імені, костюмів, капелюхів чи
+майстерні фарбування.
+
+Умовно-безплатна модель: без монет, самоцвітів, будь-якої валюти,
+крамниці, реклами, щоденної нагороди, серії входів, сповіщень,
+енергії, яку треба купувати, таймера очікування, рівня,
+шкали досвіду, досягнень чи таблиці лідерів.
+
+Ігровий процес: без ворогів, бою, здоров’я, шкоди, смерті,
+ламання, мінігри з ремонтом, стану поразки, рахунку,
+таймера, маркерів завдань, катсцен чи ілюстрацій екрана завантаження.
+
+Повтори з моїх попередніх збірок: без пляжу, пальм, крабів,
+плавучих островів, ліхтарів, цвітіння сакури, ніндзя,
+сюрикенів, воксельних блоків, кайла, лави, автомобілів, міста,
+підводного середовища чи ламінарії.
+
+Рендер: без реалістичних текстур, різких тіней, відблисків об’єктива,
+кінозернистості, каше, розмиття глибини різкості, хроматичної
+аберації чи сірого туману на екрані. сяйво — лише на лінзах і
+елементах батареї, більше ніде.
+
+10 БЮДЖЕТ ЗБІРКИ
+
+Ця збірка має бути завершена за одну робочу сесію. усе нижче
+для цієї версії категорично заборонено. не додавай цього, не роби заглушок і
+не залишай для цього todo.
+
+без другої кімнати, без відкритого простору
+без другого робота
+без збереження чи завантаження: після перезавантаження з’являється новий робот
+без фізичного рушія: власноруч написана інверсна кінематика для чотирьох ніг
+  на плоскій площині, плюс прості коробкові колізії для об’єктів верстака
+без регдолу
+без звуку
+без меню, налаштувань чи екрана паузи
+не більше трьох завдань
+без циклу дня
+
+Час потрібно витрачати в такому порядку:
+1 пропорції робота й перевірка силуету
+2 цикл ходи та постановка ступень
+3 стеження голови, антена й заспокоєння рухів
+4 стани батареї та зарядна панель
+5 три завдання
+6 оформлення верстака
+
+Якщо час спливає, випускай гру з порожнім верстаком і красивим роботом,
+який добре ходить. ніколи не навпаки. порожній верстак із
+хорошим роботом — завершена гра. оформлений верстак із неповоротким роботом
+не вартий нічого.
+
+Перш ніж оголошувати роботу завершеною, доведи ці чотири речі рендерами, а не
+словами: перевірку силуету у 64 пікселі з двох ракурсів, цикл ходи
+за 5 елементів і ту саму ходу за 2 елементів, стеження голови за
+курсором по всій дузі обертання та робота з 5 елементами й із 0
+елементами поруч.
+
+Збери це, а потім скажи, які три речі ти виправив би першими.
+
+{ КІНЕЦЬ }
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+THE FULL SPEC.
+SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
+THEN: /goal build this in three.js, read SPEC.md and follow it
+exactly, especially sections 9 and 10.
+
+{ START }
+
+1 WHAT THIS IS
+
+a small four-legged robot lives on a workbench. you charge it,
+play with it, and give it three jobs. it never leaves the bench
+and neither do you. that is the whole game.
+
+two things carry this build and nothing else does: how the robot
+looks, and how it moves. the player spends the entire game
+looking at one object from a fixed distance, so that object has
+to be worth looking at, and it has to move like it is alive.
+
+it is not a talking pet. no voice, no mouth, no face on a screen,
+and it never repeats what you say. it is a machine that pays
+attention to you, which is a different and better thing.
+
+2 THE ROBOT
+
+about the size of a cat, on four legs.
+
+proportion, which is where charm comes from:
+- the body is a rounded block, wider than tall, about two head
+  widths long. it reads heavy.
+- the head is large for the body, roughly 40 per cent of body
+  height, and sits forward on a short neck. it reads curious.
+  not a chibi head, and the eyes are not big.
+- the legs are slender next to that body, so a heavy thing is
+  carried on light limbs. that contrast is what makes the walk
+  look delicate rather than clumsy.
+- a stub tail that is really a counterweight, and swings like one
+- one short antenna on the head that whips and settles half a
+  beat behind every movement. costs almost nothing, and it is the
+  single biggest source of life in the whole model.
+
+three materials, no more than three:
+1 painted panel, soft bone white, matte, slightly warm. over the
+  back, the haunches and the top of the head. at least 60 per
+  cent of the visible surface or it reads as a pile of parts.
+2 bare machined metal, cool mid grey, on legs, frame, joints and
+  neck. warm brass at each joint ring only.
+3 dark rubber, near black and matte, on the four feet, the neck
+  sleeve and the cable.
+
+the face: two round lenses of equal size, set wide, recessed
+behind a machined groove across the brow. the groove is a
+machined edge, not an eyebrow, and it never moves. all expression
+comes from head angle, antenna and lens brightness.
+
+one flaw: one shoulder panel is a slightly different shade, as
+though replaced once. nothing draws attention to it.
+
+silhouette test, pass or fail: render the robot pure black on
+white at 64 by 64 pixels, from the side and three quarters. the
+raised head, the gap between head and body, four legs with
+daylight between them, and the tail must all still read. if any
+two masses merge, change the model, not the render.
+
+3 THE BATTERY IS THE PROGRESS BAR
+
+a strip of five cells runs along one flank, lit amber. they go
+out one at a time as it runs down and light one at a time as it
+charges. nothing on screen shows a number or a bar.
+
+5 cells  brisk, head up, tail swinging
+4        normal
+3        slower, head slightly lower
+2        it sits down between actions instead of standing
+1        it walks to the charging pad on its own and waits
+0        it folds its legs and powers down where it stands,
+         lenses dark, waiting to be carried to the pad
+
+it never breaks, never dies, and nothing is lost at zero.
+
+4 HOW IT MOVES
+
+- a real walk. diagonal pairs, feet planted on the bench and
+  staying there while the body passes over them. feet do not
+  slide.
+- weight. the body dips on the loaded pair. starting, it leans
+  forward before it moves. stopping, it takes one short step to
+  catch itself.
+- it watches you. the head follows the cursor whenever the cursor
+  is over the bench, and the neck leads the turn before the body.
+- it recovers. nudge it and it staggers, plants a leg wide, and
+  rights itself. it never falls over.
+- it settles. standing still it shifts weight every few seconds,
+  and the lenses do a slow blink: they dim and come back, they do
+  not close.
+
+it gets better with practice. every job done makes the wobble a
+little smaller and the movement a little faster, up to a limit.
+nothing announces this. by the twentieth job it visibly moves
+like a machine that knows what it is doing, and that change is
+the only progression in the game.
+
+5 THE BENCH
+
+one workbench, seen from a fixed distance. warm, worked in.
+
+bench top worn pale timber. wall behind cool grey green, plain.
+robot bare metal with warm brass at the joints. lenses and cells
+amber, the only lit colour. lamp light warm, from one side,
+casting a long soft shadow. everything else muted.
+
+on the bench: a charging pad with a coil of cable, a jar of
+bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
+a tin bowl. nothing else.
+
+the lamp is the only light source. when the robot crosses in
+front of it, its shadow sweeps across the bench.
+
+6 DESCRIBED ONLY THROUGH USES
+
+- you drag the ball across the bench and the robot's head tracks
+  it before its body turns to follow
+- you put the robot on the charging pad and one cell lights, then
+  the next, with a pause between each
+- you nudge it from the side and it staggers, catches itself on a
+  wide leg, and straightens
+- you drop a bolt in the tin bowl and it walks over, picks it up
+  in its mouth plates, and carries it to the jar
+- you leave it alone and it walks to the edge of the bench, looks
+  over, and backs away
+- you scratch the panel on its back and it lowers its body and
+  holds still until you stop
+
+show all of this happening. never explain it in a caption.
+
+7 THE THREE JOBS
+
+each exists to show a different kind of motion, and each is asked
+for by putting an object on the bench, never by a menu.
+
+fetch  drop a bolt anywhere. it walks over, picks it up, takes it
+       to the jar. shows the walk and the turn.
+stack  put three crates out. it pushes them into a stack, one at
+       a time. shows the push, the brace and the lift.
+chase  roll the ball. it runs it down, stops it with a foot, and
+       brings it back. shows the run, the skid and the stop.
+
+each job costs a little charge. a job done at 2 cells is slower
+and wobblier than the same job at 5. no queue, no order, no
+timer, no reward.
+
+8 THE INTERFACE
+
+bottom centre: a single prompt card when something is in reach,
+naming the key or the drag and the action, which disappears when
+it is not.
+
+nothing else on screen. no battery bar, no happiness meter, no
+hunger meter, no coins, no level, no experience, no stars, no
+timer, no menu, no settings, no tutorial popup, no floating label
+over the robot.
+
+everything the player needs to know is on the robot's body.
+
+camera: fixed on the bench, three quarters from the front and
+slightly above. 40 degree vertical field of view. the robot fills
+30 to 45 per cent of frame height at the centre of the bench.
+each battery cell at least 8 pixels wide at 1080p. the whole
+bench in frame at all times. drag to orbit through about 60
+degrees and no further. the camera never leaves the bench and
+never cuts.
+
+9 BANNED, EACH ONE NAMED
+
+the pet: no voice, no talking, no repeating what you say, no
+microphone, no face on a screen, no mouth, no eyebrows, no
+cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
+no name entry, no costume, no hats, no paint shop.
+
+free-to-play: no coins, no gems, no currency of any kind, no
+shop, no ads, no daily reward, no streak, no notification, no
+energy that must be bought, no wait timer, no level, no
+experience bar, no achievements, no leaderboard.
+
+gameplay: no enemies, no combat, no health, no damage, no dying,
+no breaking, no repair mini-game, no fail state, no score, no
+timer, no quest markers, no cutscene, no loading screen art.
+
+repeats of my earlier builds: no beach, no palm trees, no crabs,
+no floating islands, no lanterns, no cherry blossom, no ninja, no
+shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
+no underwater, no kelp.
+
+render: no realistic textures, no hard shadows, no lens flare, no
+film grain, no letterboxing, no depth of field blur, no chromatic
+aberration, no grey screen fog. bloom on the lenses and the
+battery cells and nothing else.
+
+10 THE BUILD BUDGET
+
+this build must finish in one working session. everything below
+is a hard no for this version. do not add it, do not stub it, do
+not leave a todo for it.
+
+no second room, no outdoors
+no second robot
+no saving or loading, a reload is a fresh robot
+no physics engine: hand-written inverse kinematics for four legs
+  on a flat plane, plus simple box collision on the bench props
+no ragdoll
+no sound
+no menus, no settings, no pause screen
+no more than three jobs
+no day cycle
+
+where the time must go, in this order:
+1 the robot's proportions and the silhouette test
+2 the walk cycle and the foot planting
+3 the head tracking, the antenna and the settle
+4 the battery states and the charging pad
+5 the three jobs
+6 the bench dressing
+
+if time runs out, ship with an empty bench and a beautiful robot
+that walks well. never the other way round. a bare bench with a
+good robot is a finished game. a dressed bench with a stiff robot
+is nothing.
+
+before you call it done, prove these four with renders, not with
+words: the silhouette test at 64 px from two angles, a walk cycle
+at 5 cells and the same walk at 2 cells, the head tracking the
+cursor across the full orbit, and the robot at 5 cells and at 0
+cells side by side.
+
+build it, then tell me the three things you would fix first.
+
+{ END }
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097004192627933279) · [Оригінальний допис](https://x.com/zeuuss_01/status/2097004192627933279) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096986557244723371"></a>
+
+### 12-секундна лісова дорога в Blender
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3aa6d0d4c63cd2fdf992963f8574169047d64b32012bdddd72df84f137a8d519.webp" width="840" loading="lazy" alt="12-секундна лісова дорога в Blender"></a>
+
+> Джерело наведено частково.
+
+**Промпт**
+
+```text
+12-секундна лісова дорога в Blender
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Blender’da 12 saniyelik bir orman yolu
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096986557244723371) · [Оригінальний допис](https://x.com/Jomolos/status/2096986557244723371) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096971051334857181"></a>
+
+### Інтерактивний китайський дворик
+
+[Larus Canus](https://x.com/MrLarus) · 2026-09-07 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/afa942c78d5c1cccd6cecf00b5e59c53f0eea0e4e5271cc8dbf51b3fa6caf8e9.webp" width="840" loading="lazy" alt="Інтерактивний китайський дворик"></a>
+
+**Промпт**
+
+```text
+Створіть інтерактивний китайський дворик за допомогою Blender і Three.js, щоб я міг досліджувати його в браузері.
+
+Додайте білі стіни, дахи з темною черепицею, місячні ворота, сосни, ставок і сад каміння, а також вітальню, чайну кімнату та спальню. Використайте Python для запуску Blender у фоновому режимі, генерації моделей та експорту файлів GLB. Застосуйте Three.js для освітлення, відбиттів, анімації та взаємодії.
+
+Додайте керування орбітою, масштабування, навігацію за допомогою WASD, перемикання дня й ночі та можливість приховувати й показувати дах. Поступово додайте воду, що тече, коропів кої, жаб, які стрибають, бабок, дворикового кота, горобців і нічних світлячків. Рухи мають бути стриманими й природними.
+
+Створіть оригінальний інтерфейс, який не перекриватиме сцену. Працюйте поетапно, перевіряйте результати в браузері, виправляйте проблеми та передайте готовий до запуску проєкт, файли вихідного коду й інструкції з налаштування.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.
+
+Include white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.
+
+Support orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.
+
+Create an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096971051334857181) · [Оригінальний допис](https://x.com/MrLarus/status/2096971051334857181) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096966425017467344"></a>
+
+### Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»
+
+[Xenoah](https://x.com/shuminchuuu) · 2026-09-07 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/0495d0af2d899a6ca4a840202506ee1ecd4d45c049fa6de3bee6b6fbef82bfef.webp" width="840" loading="lazy" alt="Пейзажний світ для VRChat «Горизонт зі зламаною гравітацією»"></a>
+
+**Промпт**
+
+```text
+Створіть у Blender повний набір 3D-моделей пейзажного світу для VRChat.
+
+Тема: 
+
+«Горизонт зі зламаною гравітацією»
+
+.
+
+Лише вершина пагорба, де стоїть гравець, має залишатися нормальною, тоді як далекий план має демонструвати масштабні фізичні аномалії.
+
+Уся композиція має бути простою.
+Замість дрібних декоративних деталей пріоритет надайте 
+великим силуетам
+
+аномальності далекого плану
+формі оглядового майданчика
+просторовій композиції
+.
+
+Компоненти
+
+Створіть такі елементи:
+
+вершина пагорба
+
+вузька стежка
+неглибокий прохід у ґрунті
+напівкругла оглядова платформа
+кілька лавок
+зламаний інформаційний стенд
+центральний спостережний пристрій
+місто вдалині
+вертикально поставлене море
+перевернутий гірський хребет
+гігантські чорні колони
+просторові розломи
+статичні хмари
+оглядовий майданчик
+
+Майданчик має бути напівкруглим.
+
+Не копіюйте наявні оглядові майданчики — створіть повністю оригінальну форму.
+
+Характеристики:
+
+напівкругла форма
+
+асиметрія зліва і справа
+частина конструкції виступає в повітря
+низький бортик
+форма, розрахована на напівпрозорий матеріал
+деформована лише частково через аномалію гравітації
+Не ускладнюйте конструкцію надміру: це має бути великий силует, який добре читається навіть здалеку.
+
+Центральний спостережний пристрій
+
+У центрі оглядового майданчика розмістіть простий пристрій, що поєднує 
+
+напівпрозору сферу
+
+незамкнене кільце
+прицільну раму, спрямовану на чорні колони
+.
+
+Далекий план
+
+Далекий план — найважливіший.
+
+Створіть наведені нижче елементи у вигляді великих спрощених форм.
+
+Місто, що падає в небо
+
+Розташуйте групи коробкоподібних будівель так, щоб вони витягувалися в незвичному напрямку.
+
+Вертикальне море
+
+Поставте величезну площину водної поверхні майже вертикально, під кутом близько 90 градусів.
+
+Перевернутий гірський хребет
+
+Переверніть вертикально спрощений силует гір.
+
+Чорні колони
+
+Розмістіть удалині надзвичайно великі й тонкі чорні колони.
+
+Вони мають бути схожими не на будівлі, а на дефекти самого простору.
+
+Просторові розломи
+
+Навколо чорних колон розмістіть великі розірвані форми у вигляді пластин або смуг.
+
+Передбачте для них випромінювальний матеріал.
+
+Рельєф
+
+Пагорб має бути пологим і вкритим травою.
+
+Від точки появи до оглядового майданчика прокладіть 
+
+вузьку стежку
+
+неглибокий прохід у ґрунті
+.
+
+Побудуйте композицію так, щоб після виходу з проходу далекий план раптово відкривався перед гравцем.
+
+Рослинність
+
+Рослинність має бути мінімальною.
+
+трава
+
+кілька невисоких кущів
+лише деякі рослини, нахилені в аномальному напрямку
+ — цього достатньо.
+
+Підхід до моделювання
+
+Можна використовувати переважно low-poly стиль.
+
+Не опрацьовуйте дрібні деталі надміру.
+
+Активно використовуйте примітиви, а основу моделі складайте з 
+
+Cube
+
+Plane
+
+Cylinder
+
+Sphere
+
+Curve
+.
+Особливо спростіть далекий план.
+
+Важливі не деталі, а 
+
+«щоб під час першого погляду вдалину одразу було зрозуміло: зі світом щось не так»
+
+.
+
+Організація в Blender
+
+Розподіліть об’єкти за такими колекціями:
+
+PLAYER_AREA
+OBSERVATION_DECK
+OBSERVATION_DEVICE
+VEGETATION
+DISTANT_CITY
+DISTANT_SEA
+DISTANT_MOUNTAINS
+BLACK_PILLAR
+SPACE_FRACTURE
+CLOUDS
+PROPS
+Структура має спрощувати перенесення сцени з VRChat до Unity.
+
+Найвищий пріоритет — 
+
+«пейзаж як цілісна картина, яку видно з оглядового майданчика»
+.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
+
+テーマは、
+
+「重力が壊れた地平線」
+
+です。
+
+プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
+
+全体はシンプルな造形にしてください。
+細かい装飾より、
+大きなシルエット
+
+遠景の異常さ
+展望台の形
+空間構成
+を優先してください。
+
+構成
+
+作るものは以下です。
+
+丘の頂上
+
+細い散策路
+浅い切通し
+半円形の観測デッキ
+少数のベンチ
+壊れた案内板
+中央観測装置
+遠景の都市
+垂直に立つ海
+逆さの山脈
+巨大な黒い柱
+空間断層
+静的な雲
+展望台
+
+展望台は半円形。
+
+既存の展望台を真似せず、完全オリジナル形状にしてください。
+
+特徴:
+
+半円形
+
+左右非対称
+一部が空中へ張り出す
+低い縁
+半透明素材を想定した形状
+一部だけ重力異常で変形
+複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
+
+中央観測装置
+
+展望台中央に、
+
+半透明球体
+
+不完全なリング
+黒い柱へ向いた照準フレーム
+を組み合わせたシンプルな装置を配置してください。
+
+遠景
+
+遠景は最重要です。
+
+以下を大きな簡略形状で作ってください。
+
+空へ落ちる都市
+
+箱形のビル群を、通常とは違う方向へ伸ばしてください。
+
+垂直の海
+
+巨大な水面プレーンを90度近く立てて配置してください。
+
+逆さの山脈
+
+簡略化した山のシルエットを上下反転してください。
+
+黒い柱
+
+非常に巨大で細長い黒い柱を遠景に配置してください。
+
+建物ではなく、空間の欠損のように見える形にしてください。
+
+空間断層
+
+黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
+
+発光マテリアルを想定します。
+
+地形
+
+丘はなだらかな草地。
+
+スポーン地点から展望台まで、
+
+細い散策路
+
+浅い切通し
+を作ってください。
+
+切通しを抜けると、遠景が一気に見える構図にしてください。
+
+植生
+
+植物は最小限。
+
+草
+
+少数の低木
+ごく一部だけ異常方向へ傾いた植物
+程度で十分です。
+
+モデリング方針
+
+ローポリ寄りで構いません。
+
+細部を作り込みすぎないでください。
+
+Primitiveを積極的に使い、
+
+Cube
+
+Plane
+Cylinder
+Sphere
+Curve
+を中心に作ってください。
+
+遠景は特に簡略化してください。
+
+重要なのはディテールではなく、
+
+「遠くを見た瞬間に世界がおかしいと分かること」
+
+です。
+
+Blender内の整理
+
+オブジェクトを以下のコレクションに分けてください。
+
+PLAYER_AREA
+
+OBSERVATION_DECK
+OBSERVATION_DEVICE
+VEGETATION
+DISTANT_CITY
+DISTANT_SEA
+DISTANT_MOUNTAINS
+BLACK_PILLAR
+SPACE_FRACTURE
+CLOUDS
+PROPS
+VRChat用にUnityへ持っていきやすい構成にしてください。
+
+最優先は、
+
+「展望台から見た一枚絵としての景観」
+
+です。
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096966425017467344) · [Оригінальний допис](https://x.com/shuminchuuu/status/2096966425017467344) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096956214680965501"></a>
 
 ### Нескінченна мініатюрна вулиця в Three.js WebGPU
@@ -1324,164 +2269,7 @@ What would Ezekiel’s temple vision look like in 3D?
 
 ---
 
-<a id="gpt-6-astra-2096391653669953761"></a>
 
-### Створіть і відрендерте чорну діру в Blender
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="Створіть і відрендерте чорну діру в Blender"></a>
-
-**Промпт**
-
-```text
-Створи й відрендер красиву чорну діру в Blender — на кшталт тієї, що у фільмі «Інтерстеллар».
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Make and render a beautiful black hole, like the one from Interstellar, in Blender.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096391653669953761) · [Оригінальний допис](https://x.com/JohnKlerAI/status/2096391653669953761) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="railway-network-simulation-game-2096362653480562751"></a>
-
-### Гра-симулятор залізничної мережі
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="Гра-симулятор залізничної мережі"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Розвиньте модель потяга в Three.js у залізничний симулятор із містами, розв’язками, річками та мостами. Додайте камеру стеження за потягом, вільну 3D-камеру, ізометричний вид та ефекти диму.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Оригінальний допис](https://x.com/tomkrcha/status/2096362653480562751) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
-
-### Таверна з працівниками та відвідувачами
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="Таверна з працівниками та відвідувачами"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Відтворіть таверну за зображенням-референсом і заселіть її відвідувачами та працівниками. Відвідувачі замовляють їжу й напої, а персонал їх готує. Реалізуйте обробку зіткнень і пошук шляху.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Оригінальний допис](https://x.com/Rogue0114/status/2096358854275543457) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096354461652488562"></a>
-
-### Інтерактивний 3D-ансамбль з аудіосинхронною анімацією
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="Інтерактивний 3D-ансамбль з аудіосинхронною анімацією"></a>
-
-**Промпт**
-
-```text
-Створіть оригінальний короткий музичний твір і побудуйте інтерактивний 3D-ансамбль. Керуйте анімацією за часом відтворення аудіо. Додайте перемотування, уповільнене відтворення, керування камерою, MIDI та вихідні матеріали.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096354461652488562) · [Оригінальний допис](https://x.com/groovestreetgen/status/2096354461652488562) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096342420543660277"></a>
-
-### Від концепту персонажа до 3D-моделі з ригом і мультфільму
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="Від концепту персонажа до 3D-моделі з ригом і мультфільму"></a>
-
-**Промпт**
-
-```text
-Візьми під керування мій комп’ютер за допомогою GPT-6 Astra і виконай такі дії: 
-
-1. розроби концепт персонажа за допомогою Higgsfield Soul 2.0, 
-
-2. створи його текстуровану 3D-модель, 
-
-3. імпортуй її в Blender, 
-
-4. виконай ретопологію сітки, 
-
-5. створи UV-розгортку, 
-
-6. створи риг персонажа, 
-
-7. оціни, наскільки модель готова до продакшену, 
-
-8. повтори попередні кроки, якщо результат тебе не задовольняє,
-
-9. а потім перетвори її на мультфільм за допомогою Seedance 2.5 у Higgsfield
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Take control of my computer using GPT-6 Astra and do the following: 
-
-1. design a character concept using Higgsfield Soul 2.0, 
-
-2. build a textured 3D model of it, 
-
-3. import it into Blender, 
-
-4. retopologize the mesh, 
-
-5. create a UV map, 
-
-6. build a character rig, 
-
-7. evaluate how production-ready the model is, 
-
-8. redo previous steps if you're not satisfied with results,
-
-9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096342420543660277) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2096342420543660277) · [Назад до прикладів](#all-prompts)
-
----
-
-
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.3.md) · **4 / 9** · [→](catalog.uk.5.md)
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.3.md) · **4 / 10** · [→](catalog.uk.5.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/uk/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Повний каталог →</a></strong></p>

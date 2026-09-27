@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 7 / 9
+# Awesome 3D Prompts — 7 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.7.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.6.md) · **7 / 9** · [→](catalog.zh-Hant.8.md)
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.6.md) · **7 / 10** · [→](catalog.zh-Hant.8.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [可拆解互動式 3D 渦輪增壓器](#exploded-interactive-3d-turbocharger-2095776712579571725)
+- [六幅梵高畫作組成的可漫遊小鎮](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
+- [蒸汽火車圖紙轉 Blender 裝配體](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
+- [Solace 森林別墅從 Brief 到 UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
+- [可駕駛的童年火車沙盤](#driveable-childhood-train-table-2095742344293454148)
 - [叢林神廟與巨型神猴守護者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
 - [平面圖轉完整 3D 漫遊](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
 - [可互動體素鐵路沙盤](#interactive-voxel-railway-table-2095719731860750613)
@@ -73,13 +78,115 @@
 - [企業共和國攔截無人機資產](#corporate-interceptor-drone-asset-2095176360238915978)
 - [Frutiger Aero 風格 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
 - [十場景文藝復興電影感網站](#ten-scene-cinematic-renaissance-website-2095167881004908897)
-- [帶寵物山羊的虛擬島嶼](#virtual-island-with-a-pet-goat-2095165578042335442)
-- [互動式 3D 太陽系](#interactive-3d-solar-system-2095165395841999222)
-- [從等距柱狀全景建置城市](#city-from-an-equirectangular-panorama-2095159781883597031)
-- [Blender 巨龍巢穴場景](#dragon-lair-scene-in-blender-2095149546187653547)
-- [Three.js 多人海盜世界](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 
 </details>
+<a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
+
+### 可拆解互動式 3D 渦輪增壓器
+
+[Feraser](https://x.com/Feraser8) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725"><img src="../assets/previews/a1a9732f77b56831a300e0ab0eb04508cd2d48145274a73d1d82f07250865985.webp" width="840" loading="lazy" alt="可拆解互動式 3D 渦輪增壓器"></a>
+
+**提示詞**
+
+```text
+建置一個互動式 3D 渦輪增壓器。拆分所有工作系統，讓我能夠旋轉、隔離部件，並看清機器實際如何運作。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build an interactive 3D turbocharger. Separate every working system. Let me rotate it, isolate parts, and see what the machine is actually doing.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-3d-turbocharger-2095776712579571725) · [查看原文](https://x.com/Feraser8/status/2095776712579571725) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"></a>
+
+### 六幅梵高畫作組成的可漫遊小鎮
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="六幅梵高畫作組成的可漫遊小鎮"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把六幅給定梵高畫作融合成一個連貫、可漫遊的 Three.js 小鎮。保留每幅畫的色板與筆觸氣質，同時用街道、地標與轉場將其連線為可探索世界。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [查看原文](https://x.com/petergostev/status/2095776685807346105) · [線上展示](https://van-goghs-town.surge.sh/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="steam-train-drawing-to-editable-blender-assembly-2095756085890310311"></a>
+
+### 蒸汽火車圖紙轉 Blender 裝配體
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-04 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311"><img src="../assets/previews/fb33c6c09beb36f8b5160da0660517ea6bdea9c5f64abdcdc76eb7fd75ad632b.webp" width="840" loading="lazy" alt="蒸汽火車圖紙轉 Blender 裝配體"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把給定復古蒸汽火車圖紙在 Blender 中重建為高細節機械裝配體。車輪、車軸、懸掛、連桿、鍋爐配件與車身面板都要成為命名清晰、可編輯的物件，並允許控制細節預算。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [查看原文](https://x.com/tomkrcha/status/2095756085890310311) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="solace-forest-villa-from-brief-to-ue5-2095752726886105375"></a>
+
+### Solace 森林別墅從 Brief 到 UE5
+
+[SuSu\_酥酥👅](https://x.com/NFT_Chen) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Solace 森林別墅從 Brief 到 UE5"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立名為 Solace 的可漫遊現代森林別墅，包含三間臥室、辦公室、中央庭院、泳池和周邊林地。在 Blender 中程式化建置，輸出黃金時刻靜幀，再匯出 60 FPS 的 UE5 漫遊。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [查看原文](https://x.com/NFT_Chen/status/2095752726886105375) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="driveable-childhood-train-table-2095742344293454148"></a>
+
+### 可駕駛的童年火車沙盤
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/driveable-childhood-train-table-2095742344293454148"><img src="../assets/previews/4780d100331653026f741fa48d6ccde0b5f7d676cc66dc05418d65c5a879d648.webp" width="840" loading="lazy" alt="可駕駛的童年火車沙盤"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把童年火車沙盤重建為具有觸感的 Three.js 玩具，使用體素軌道與車輛。允許玩家駕駛火車、切換岔道、環繞檢視沙盤並發現動態微縮場景。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/driveable-childhood-train-table-2095742344293454148) · [查看原文](https://x.com/BigRyan/status/2095742344293454148) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="jungle-temple-and-giant-vanara-guardian-2095729606066348290"></a>
 
 ### 叢林神廟與巨型神猴守護者
@@ -982,107 +1089,7 @@
 
 ---
 
-<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
-### 帶寵物山羊的虛擬島嶼
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="帶寵物山羊的虛擬島嶼"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立一座可探索的小型 Three.js 島嶼，加入會跟隨、反應和玩耍的寵物山羊，以及溫馨環境細節和簡單日常互動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [查看原文](https://x.com/aollivier82/status/2095165578042335442) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-3d-solar-system-2095165395841999222"></a>
-
-### 互動式 3D 太陽系
-
-[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="互動式 3D 太陽系"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置互動式 3D 太陽系，包含行星軌道、兼顧尺度的導航、標籤、速度控制、鏡頭目標和有用科普資訊。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [查看原文](https://x.com/ego_agent/status/2095165395841999222) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
-
-### 從等距柱狀全景建置城市
-
-[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="從等距柱狀全景建置城市"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用給定等距柱狀城市全景作為視覺參考，一次建置資訊密集的 Blender 城市模型，保留主要道路、體塊、天際線與空間關係。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [查看原文](https://x.com/hayashimon1/status/2095159781883597031) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
-
-### Blender 巨龍巢穴場景
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Blender 巨龍巢穴場景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Blender 中建置戲劇化巨龍巢穴，包含核心巨龍、洞穴尺度、寶藏、煙霧、火光、分層構圖與電影感鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [查看原文](https://x.com/majidmanzarpour/status/2095149546187653547) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
-
-### Three.js 多人海盜世界
-
-[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Three.js 多人海盜世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置一個受冒險海盜動漫啟發的 Three.js 多人世界，包含島嶼、船隻、移動、戰鬥與社交探索迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [查看原文](https://x.com/aman_kambojj/status/2095137561283010600) · [線上展示](https://onepiece-world.vercel.app/) · [返回案例導覽](#all-prompts)
-
----
-
-
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.6.md) · **7 / 9** · [→](catalog.zh-Hant.8.md)
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.6.md) · **7 / 10** · [→](catalog.zh-Hant.8.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">完整目錄 →</a></strong></p>

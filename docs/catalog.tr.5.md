@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 5 / 9
+# Awesome 3D Prompts — 5 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.5.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.4.md) · **5 / 9** · [→](catalog.tr.6.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.4.md) · **5 / 10** · [→](catalog.tr.6.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Blender’da kara delik oluşturma ve render alma](#gpt-6-astra-2096391653669953761)
+- [Demiryolu ağı simülasyon oyunu](#railway-network-simulation-game-2096362653480562751)
+- [Çalışanları ve müşterileriyle işleyen taverna](#tavern-with-working-staff-and-guests-2096358854275543457)
+- [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](#gpt-6-astra-2096354461652488562)
+- [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](#gpt-6-astra-2096342420543660277)
 - [Yörüngeleriyle Güneş Sistemi gezgini](#orbital-solar-system-explorer-2096339041679442428)
 - [Eylem odaklı mekaniklere sahip yengeç oyunu](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
 - [Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu](#gpt-6-astra-2096335588727349434)
@@ -73,13 +78,165 @@
 - [Çizimden oynanabilir karaktere](#artwork-to-a-playable-character-2096107343268257953)
 - [Blender'da Azadi Kulesi](#azadi-tower-in-blender-2096107322536051057)
 - [Suzhou Müzesi bahçesi gezintisi](#suzhou-museum-garden-walkthrough-2096096998092841449)
-- [WebGL ile kara delik oluşumu](#black-hole-formation-in-webgl-2096093614397170104)
-- [Blender'da Fütüristik Motosiklet ve Tank](#gpt-6-astra-2096083014845636816)
-- [Parçalarına ayrılan prosedürel tren montajları](#exploding-procedural-train-assemblies-2096082580554777041)
-- [Etkileşimli dünya küresi paneli](#interactive-globe-dashboard-2096082432197837065)
-- [Şema PDF'sinden PCB ve 3B görünüme](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 
 </details>
+<a id="gpt-6-astra-2096391653669953761"></a>
+
+### Blender’da kara delik oluşturma ve render alma
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="Blender’da kara delik oluşturma ve render alma"></a>
+
+**İstem**
+
+```text
+Blender’da Interstellar’daki gibi etkileyici bir kara delik oluşturup render alın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Make and render a beautiful black hole, like the one from Interstellar, in Blender.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096391653669953761) · [Orijinal gönderi](https://x.com/JohnKlerAI/status/2096391653669953761) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="railway-network-simulation-game-2096362653480562751"></a>
+
+### Demiryolu ağı simülasyon oyunu
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="Demiryolu ağı simülasyon oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir Three.js tren modelini şehirler, kavşaklar, nehirler ve köprüler içeren bir demiryolu simülasyonuna dönüştürün. Tren takip, serbest 3D ve izometrik kameralar ile duman efektleri ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/railway-network-simulation-game-2096362653480562751) · [Orijinal gönderi](https://x.com/tomkrcha/status/2096362653480562751) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
+
+### Çalışanları ve müşterileriyle işleyen taverna
+
+[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="Çalışanları ve müşterileriyle işleyen taverna"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir referans görselinden tavernayı yeniden oluşturup müşteriler ve çalışanlarla doldurun. Müşteriler yiyecek ve içecek siparişi versin, çalışanlar bunları hazırlasın; çarpışma yönetimi ve yol bulma ekleyin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [Orijinal gönderi](https://x.com/Rogue0114/status/2096358854275543457) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096354461652488562"></a>
+
+### Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble
+
+[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble"></a>
+
+**İstem**
+
+```text
+Özgün bir kısa eser bestele ve oynanabilir bir 3B ensemble oluştur. Animasyonu ses zamanına göre yönlendir. Zaman içinde gezinme, ağır çekim, kamera kontrolleri, MIDI ve kaynak dosyalarını dahil et.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096354461652488562) · [Orijinal gönderi](https://x.com/groovestreetgen/status/2096354461652488562) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096342420543660277"></a>
+
+### Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme"></a>
+
+**İstem**
+
+```text
+GPT-6 Astra'yı kullanarak bilgisayarımın kontrolünü ele al ve şunları yap: 
+
+1. Higgsfield Soul 2.0 ile bir karakter konsepti tasarla, 
+
+2. bunun dokulu bir 3B modelini oluştur, 
+
+3. modeli Blender'a aktar, 
+
+4. ağ yapısında retopoloji yap, 
+
+5. bir UV haritası oluştur, 
+
+6. bir karakter rig'i oluştur, 
+
+7. modelin üretime ne kadar hazır olduğunu değerlendir, 
+
+8. sonuçlardan memnun değilsen önceki adımları tekrarla,
+
+9. ardından Higgsfield'da Seedance 2.5 kullanarak modeli çizgi filme dönüştür
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Take control of my computer using GPT-6 Astra and do the following: 
+
+1. design a character concept using Higgsfield Soul 2.0, 
+
+2. build a textured 3D model of it, 
+
+3. import it into Blender, 
+
+4. retopologize the mesh, 
+
+5. create a UV map, 
+
+6. build a character rig, 
+
+7. evaluate how production-ready the model is, 
+
+8. redo previous steps if you're not satisfied with results,
+
+9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096342420543660277) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2096342420543660277) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="orbital-solar-system-explorer-2096339041679442428"></a>
 
 ### Yörüngeleriyle Güneş Sistemi gezgini
@@ -1589,116 +1746,7 @@ Suzhou Müzesi hakkındaki bir web sayfasını referans alarak bahçeyi Blender'
 
 ---
 
-<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
-### WebGL ile kara delik oluşumu
-
-[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGL ile kara delik oluşumu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-WebGL görselleştirmeleriyle kara delik oluşumunu anlatan eğitici bir slayt sunumu oluşturun. Açıklamalara animasyonlu 3D sahneler eşlik etsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [Orijinal gönderi](https://x.com/zeeeeeen/status/2096093614397170104) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096083014845636816"></a>
-
-### Blender'da Fütüristik Motosiklet ve Tank
-
-[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Blender'da Fütüristik Motosiklet ve Tank"></a>
-
-**İstem**
-
-```text
-Modelleme yeteneği değerlendirmesi
-Blender'ı kullanarak fütüristik bir motosiklet, fütüristik bir tank ve sunum görüntüleri için bunlarla uyumlu bir arka plan oluşturun; tasarım ve görünüme öncelik verin. Farklı açılardan ekran görüntüleri alın. MCP de kullanılabilir olmalı; ancak en yüksek kaliteyi sağlayacak iş akışını seçin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-モデル性能評価試験
-blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096083014845636816) · [Orijinal gönderi](https://x.com/StelsRay2/status/2096083014845636816) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
-
-### Parçalarına ayrılan prosedürel tren montajları
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="Parçalarına ayrılan prosedürel tren montajları"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Boyutlar, profiller ve geometri fonksiyonlarından doğrudan Three.js'de iki tren üret. Tekerlekleri canlandır; patlatılmış görünüm ve yeniden birleştirme sekansı sağla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [Orijinal gönderi](https://x.com/tomkrcha/status/2096082580554777041) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-globe-dashboard-2096082432197837065"></a>
-
-### Etkileşimli dünya küresi paneli
-
-[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="Etkileşimli dünya küresi paneli"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Referans görüntüden Three.js 3B dünya küresi panelini yeniden yap. Gündüz ve gece modları, okunabilir coğrafi veriler ve referansa uyan işlevsel kontroller ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [Orijinal gönderi](https://x.com/hqmank/status/2096082432197837065) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
-
-### Şema PDF'sinden PCB ve 3B görünüme
-
-[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · Diğer
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="Şema PDF'sinden PCB ve 3B görünüme"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Şema PDF'sini kullanarak KiCad'de devreyi düzenle, 50'ye 20 mm iki katmanlı PCB'nin yollarını çiz ve 3B montajını render et. Bileşen veri sayfalarını incele, tasarım kuralı ihlallerini çöz.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Orijinal gönderi](https://x.com/swjtutl/status/2096079976433082502) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · [←](catalog.tr.4.md) · **5 / 9** · [→](catalog.tr.6.md)
+[Tam katalog](catalog.tr.md) · [←](catalog.tr.4.md) · **5 / 10** · [→](catalog.tr.6.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

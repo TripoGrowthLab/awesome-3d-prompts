@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 2 / 9
+# Awesome 3D Prompts — 2 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.2.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Полный каталог](catalog.ru.md) · [←](catalog.ru.1.md) · **2 / 9** · [→](catalog.ru.3.md)
+[Полный каталог](catalog.ru.md) · [←](catalog.ru.1.md) · **2 / 10** · [→](catalog.ru.3.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [360-градусный 3D-рендеринг гандбольной площадки по изображению](#claude-opus-5-5-2102544406117286004)
+- [Процедурный 3D-фон главного меню в Three.js по изображению](#claude-opus-5-5-2102544196808667471)
+- [Самозапускающаяся 3D-машина Руба Голдберга](#claude-opus-5-5-2102544078927741369)
+- [Интерактивная игра о фермерских животных в стиле «Питера Кролика»](#claude-opus-5-5-2102538762731565085)
+- [Кинематографичный интерактивный пиратский корабль на закате](#claude-opus-5-5-2102533729746882985)
 - [Бесконечный процедурно генерируемый мир на Three.js](#claude-opus-5-5-2102529695908806728)
 - [Двухэтажный пригородный дом с интерьером](#gpt-6-astra-2102473710724919614)
 - [Интерактивная симуляция эвакуации толпы](#claude-opus-5-5-2102467667978572092)
@@ -73,13 +78,203 @@
 - [Интерактивный вулканический остров с убегающими лодками](#gpt-6-astra-2099643231659012553)
 - [Создать сцену гостиничного коридора](#gpt-6-astra-2099588840419651890)
 - [Воин взбирается на гиганта и наносит удар в челюсть](#gpt-6-astra-2099519801139908951)
-- [3D-мир с очень высокими небоскрёбами](#gpt-6-astra-2099487024256589970)
-- [Модель хвойного дерева до 200 полигонов](#gpt-6-astra-2099472264270102705)
-- [Интерактивная 3D-сцена с самураем в лесу](#gpt-6-astra-2099450933067612421)
-- [Игровая 3D-полоса препятствий](#gpt-6-astra-2099419671481249851)
-- [Модельная железная дорога с автономным предотвращением столкновений](#gpt-6-astra-2099362575339372780)
 
 </details>
+<a id="claude-opus-5-5-2102544406117286004"></a>
+
+### 360-градусный 3D-рендеринг гандбольной площадки по изображению
+
+[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="360-градусный 3D-рендеринг гандбольной площадки по изображению"></a>
+
+**Референсы:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
+
+**Промпт**
+
+```text
+Отрендери в 3D изображённые на картинке гандбольную площадку, ворота, судью, игроков и мяч, чтобы сцену можно было свободно рассматривать под любым углом на все 360 градусов. Точно воспроизведи позы каждого человека и цвета всех объектов.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544406117286004) · [Исходная публикация](https://x.com/chikaidev/status/2102545257372213581) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### Процедурный 3D-фон главного меню в Three.js по изображению
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Процедурный 3D-фон главного меню в Three.js по изображению"></a>
+
+**Референсы:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**Промпт**
+
+```text
+идеально воссоздай этот полностью процедурный анимированный 3D-фон главного меню в Three.js в одном HTML-файле
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544196808667471) · [Исходная публикация](https://x.com/majidmanzarpour/status/2102544198335373576) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### Самозапускающаяся 3D-машина Руба Голдберга
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Самозапускающаяся 3D-машина Руба Голдберга"></a>
+
+**Промпт**
+
+```text
+Создай самозапускающуюся 3D-машину Руба Голдберга в виде одного автономного файла index.html в текущем каталоге.
+
+Цепочка должна работать в следующем порядке:
+1. В верхней точке отпускается шарик, который скатывается по нескольким зигзагообразным рампам.
+2. Он опрокидывает ряд из как минимум 12 домино.
+3. Последняя костяшка домино наклоняет качели, которые запускают небольшой шарик в подвесное ведро.
+4. Под весом ведро опускается; его верёвка проходит через блок и дёргает колокол, который должен заметно раскачиваться.
+5. Это же движение поднимает флаг по флагштоку. Завершением служит момент, когда флаг достигает вершины.
+
+Правила:
+- Напиши физику самостоятельно, без физических библиотек. Всякое движение после запуска шарика должно происходить благодаря твоей симуляции: твёрдые тела, столкновения, ограничения, верёвка и блок. Никакой заранее заданной покадровой анимации или интерполированного движения деталей машины.
+- Для рендеринга можно загрузить three.js из CDN. Ничего другого извне использовать нельзя: никаких изображений, моделей или шрифтов.
+- Всё должно работать без участия пользователя: автоматически запускаться при загрузке страницы, использовать кинематографичную камеру, следующую за действием, и полностью проходить всю цепочку примерно за 15–20 секунд. После подъёма флага выжди 2 секунды, затем сбрось состояние и запусти воспроизведение заново.
+- Детерминированность: используй фиксированный шаг по времени и неинициализированную случайность не применяй, чтобы каждый запуск выглядел одинаково.
+- Заполняй всё окно браузера. Запись экрана будет выполняться в разрешении 1280×720.
+- Никакого текста на экране и интерфейса любого вида.
+- Сделай сцену привлекательной: используй освещение, тени, материалы и окружение, чтобы конструкция выглядела как настоящий механизм.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544078927741369) · [Исходная публикация](https://x.com/leogao25/status/2102544081863717153) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### Интерактивная игра о фермерских животных в стиле «Питера Кролика»
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Интерактивная игра о фермерских животных в стиле «Питера Кролика»"></a>
+
+**Промпт**
+
+```text
+"Создай интерактивную игру о фермерских животных в стиле «Питера Кролика»
+главное меню = звуки вкл./выкл. + выбор животного (лошадь, свинья, корова, кошка, собака)
+Esc = пауза: сброс до точки появления/возврат в главное меню/
+перемещение с помощью WASD
+пробел — прыжок и взаимодействие с другими животными, когда они находятся рядом
+взаимодействия случайно выбираются при обнаружении близости
+взаимодействия могут включать звуки в адрес другого животного (уникальные, отличающиеся от его пассивных звуков), «потыкать его носом»
+можно взаимодействовать с водой, чтобы попить, сеном, чтобы поесть, и фруктами, чтобы поесть. 
+вид от третьего лица, камера расположена немного позади животного и выше него
+живые элементы окружения: птицы и самолёты в небе (появляются случайным образом)
+место действия = фермерские угодья, амбар, фермерская деревня с домами (в дома нельзя войти)
+Добавь достаточно ассетов, чтобы игра привлекала внимание, но не настолько много, чтобы она требовала производственного качества: это всего лишь способ провести 15 минут с дочерью и весело провести время
+react, svg, js, webgl, threejs — используй всё необходимое, чтобы игра ощущалась «хорошо»"
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102538762731565085) · [Исходная публикация](https://x.com/blaso96/status/2102538764749037738) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### Кинематографичный интерактивный пиратский корабль на закате
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Кинематографичный интерактивный пиратский корабль на закате"></a>
+
+**Промпт**
+
+```text
+Создай с нуля полностью интерактивную 3D-сцену с пиратским кораблём, который плывёт по динамичному океану на закате. Визуальный стиль должен быть кинематографичным и стилизованным, а не фотореалистичным, но при этом исключительно насыщенным, детализированным, отполированным и визуально продуманным. Создай корабль, океан, небо, освещение, материалы, паруса, такелаж, пушки, мелкие конструктивные детали, морскую пену, кильватерный след, частицы, анимацию, работу камеры, композицию, атмосферную перспективу и цветокоррекцию. Итог должен выглядеть как премиальная 3D-работа высокого production-уровня, а не прототип, техническая демонстрация или низкокачественная сцена. Начни с полностью пустой страницы. Не переиспользуй предыдущий проект или сцену и не опирайся на них. При необходимости можешь самостоятельно создать ассеты либо использовать надёжные проверенные ассеты и библиотеки с открытым исходным кодом. Обязательные требования: внутри сцены нигде не должно появляться никаких текстов. Запрещены заголовки, имена, логотипы, описания, титры, подписи и инструкции по управлению на любом языке. Представь весь проект в виде одного итогового автономного файла страницы, который можно напрямую открыть в веб-браузере; по возможности размести ассеты внутри него. Океан, корабль, паруса и камера должны двигаться естественно и плавно. Избегай искусственного замедленного режима и вялого движения. Должно ощущаться, что корабль действительно движется по воде. Не используй примитивные геометрические формы в качестве готового результата. Создай визуально убедительный детализированный пиратский корабль с тщательно сформированным корпусом, мачтами, парусами, такелажем, канатами, пушками, поручнями, фонарями, надпалубными конструкциями и хорошо заметными мелкими деталями. Освещение должно чётко раскрывать геометрию и материалы корабля. Создай насыщенную атмосферу заката, глубокие оттенки океана, отражения, убедительную морскую пену и детализированный кильватерный след позади судна и вокруг него. Соблюдай баланс между визуальным качеством и производительностью в реальном времени: сохрани плавное взаимодействие и анимацию, не допуская явного ухудшения качества. Автоматически используй наиболее подходящие навыки, инструменты, библиотеки, методы и доступные ассеты, необходимые для достижения наилучшего результата. Не жди, пока я укажу, какие технологии использовать. Обязательно протестируй готовый результат в веб-браузере на компьютере. Сделай визуальные скриншоты, проверь консоль браузера на наличие ошибок и исправь все обнаруженные визуальные и технические проблемы, включая искажённую геометрию, чёрный экран, ошибки загрузки ассетов, неработающую анимацию, неудачную композицию, артефакты рендеринга и проблемы с камерой. В конце убедись, что итоговый файл открывается и работает напрямую, в сцене вообще нет текста и не осталось ошибок выполнения или загрузки. После этого заверши задачу только кратким ответом.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102533729746882985) · [Исходная публикация](https://x.com/vib3coded/status/2102534606121746589) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102529695908806728"></a>
 
 ### Бесконечный процедурно генерируемый мир на Three.js
@@ -2360,142 +2555,7 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
-<a id="gpt-6-astra-2099487024256589970"></a>
 
-### 3D-мир с очень высокими небоскрёбами
-
-[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="3D-мир с очень высокими небоскрёбами"></a>
-
-**Промпт**
-
-```text
-создай 3D-мир с очень высокими небоскрёбами
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-build a 3D world full of very high skyscrapers
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099487024256589970) · [Исходная публикация](https://x.com/MohdBilalArshad/status/2099487024256589970) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099472264270102705"></a>
-
-### Модель хвойного дерева до 200 полигонов
-
-[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="Модель хвойного дерева до 200 полигонов"></a>
-
-**Промпт**
-
-```text
-Не могли бы вы создать хвойное дерево с количеством полигонов не более 200?
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-200ポリゴン以下で針葉樹を作ってみてくれませんか？
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099472264270102705) · [Исходная публикация](https://x.com/Watamos827/status/2099472264270102705) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099450933067612421"></a>
-
-### Интерактивная 3D-сцена с самураем в лесу
-
-[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="Интерактивная 3D-сцена с самураем в лесу"></a>
-
-**Промпт**
-
-```text
-Создайте интерактивную 3D-сцену с самураем в лесу, добавив управление камерой, кинематографичное освещение, детали окружения и аккуратную подачу.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099450933067612421) · [Исходная публикация](https://x.com/JaynitMakwana/status/2099450933067612421) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099419671481249851"></a>
-
-### Игровая 3D-полоса препятствий
-
-[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="Игровая 3D-полоса препятствий"></a>
-
-**Промпт**
-
-```text
-Небольшая 3D-полоса препятствий с персонажем, движущимися препятствиями, собираемыми предметами и простой зоной финиша.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099419671481249851) · [Исходная публикация](https://x.com/heyDhavall/status/2099419671481249851) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099362575339372780"></a>
-
-### Модельная железная дорога с автономным предотвращением столкновений
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="Модельная железная дорога с автономным предотвращением столкновений"></a>
-
-**Промпт**
-
-```text
-Создай модельную железную дорогу минимум с тремя поездами, одновременно движущимися по общей путевой схеме со стрелками и сигналами. Поезда должны самостоятельно переключать стрелки и останавливаться перед сигналами, чтобы никогда не сталкиваться, без какого-либо ввода со стороны пользователя. Схему, окружение и внешний вид всех элементов выбери самостоятельно. Все решения по дизайну — стиль, цвета, настроение, окружение, камеру, уровень детализации и любые дополнительные штрихи — оставь за собой. Не задавай мне вопросов: самостоятельно прими все решения и за одну попытку создай наиболее впечатляющую версию. Технические требования: один самодостаточный HTML-файл, без внешних моделей, изображений, звуков и URL-адресов ресурсов любого типа (JavaScript-библиотека из CDN разрешена). Симуляция должна запускаться автоматически сразу после загрузки, без необходимости нажимать какие-либо кнопки, и работать плавно, не выдавая ошибок в консоли.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2099362575339372780) · [Исходная публикация](https://x.com/free_ai_guides/status/2099362575339372780) · [Назад к примерам](#all-prompts)
-
----
-
-
-[Полный каталог](catalog.ru.md) · [←](catalog.ru.1.md) · **2 / 9** · [→](catalog.ru.3.md)
+[Полный каталог](catalog.ru.md) · [←](catalog.ru.1.md) · **2 / 10** · [→](catalog.ru.3.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ru/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Полный каталог →</a></strong></p>

@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 4 / 9
+# Awesome 3D Prompts — 4 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.4.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[全カタログ](catalog.ja.md) · [←](catalog.ja.3.md) · **4 / 9** · [→](catalog.ja.5.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.3.md) · **4 / 10** · [→](catalog.ja.5.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>作例を見る (50)</summary>
 
+- [インタラクティブなゼリー状レモンの木](#gpt-6-astra-2097065330728128920)
+- [作業台の上のインタラクティブなロボットペット](#gpt-6-astra-2097004192627933279)
+- [Blenderで作る12秒の森の道](#gpt-6-astra-2096986557244723371)
+- [インタラクティブな中国式中庭](#gpt-6-astra-2096971051334857181)
+- [「重力が壊れた地平線」のVRChat向け景観ワールド](#gpt-6-astra-2096966425017467344)
 - [Three.js WebGPUで作る無限ミニチュアストリート](#gpt-6-astra-2096956214680965501)
 - [ホグワーツの3Dシーン](#gpt-6-astra-2096907617117540478)
 - [Three.jsとWebGPUで作るインタラクティブなソフトボディ・スライム](#gpt-6-astra-2096793432987464010)
@@ -73,13 +78,781 @@
 - [さまざまな面をよじ登るプロシージャル昆虫](#surface-climbing-procedural-insect-2096460081982304546)
 - [Lego 1999 Racersの再現](#gpt-6-astra-2096438110095585753)
 - [D4に着想を得た、歩き回れるアパート](#playable-d4-inspired-apartment-2096413869841473930)
-- [Blenderでブラックホールを作成・レンダリング](#gpt-6-astra-2096391653669953761)
-- [鉄道ネットワークのシミュレーションゲーム](#railway-network-simulation-game-2096362653480562751)
-- [店員と客が活動する酒場](#tavern-with-working-staff-and-guests-2096358854275543457)
-- [音声同期アニメーション対応の操作可能な3Dアンサンブル](#gpt-6-astra-2096354461652488562)
-- [キャラクターコンセプトからリギング済み3Dモデル、カートゥーン制作まで](#gpt-6-astra-2096342420543660277)
 
 </details>
+<a id="gpt-6-astra-2097065330728128920"></a>
+
+### インタラクティブなゼリー状レモンの木
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-07 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097065330728128920"><img src="../assets/previews/f961be372cbdd030026a4ff827932ad6790c2c3dd5d588be37fa918dc67809b3.webp" width="840" loading="lazy" alt="インタラクティブなゼリー状レモンの木"></a>
+
+**プロンプト**
+
+```text
+WebGPUでインタラクティブなゼリー状レモンの木を構築する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive jelly lemon tree using WebGPU
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097065330728128920) · [元の投稿](https://x.com/vib3coded/status/2097065330728128920) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097004192627933279"></a>
+
+### 作業台の上のインタラクティブなロボットペット
+
+[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-07 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097004192627933279"><img src="../assets/previews/37d5dac5d594ea7e83a1cab04ca45dc29688ef30b9dd6ea18cc2d0df43537ced.webp" width="840" loading="lazy" alt="作業台の上のインタラクティブなロボットペット"></a>
+
+**プロンプト**
+
+```text
+完全版仕様書。
+チャットメッセージではなく、プロジェクトフォルダー内のファイルとして保存する。
+次に：/goal これをthree.jsで構築し、SPEC.mdを読んでその内容に従う
+特にセクション9と10を厳守する。
+
+{ START }
+
+1 これは何か
+
+小さな四足歩行ロボットが作業台で暮らしている。充電し、
+一緒に遊び、3つの仕事を任せる。ロボットは作業台から出ず、
+あなたもそこを離れない。それがこのゲームのすべてだ。
+
+このビルドを支えるのは、ロボットの見た目と
+動きの2つだけだ。プレイヤーはゲーム中ずっと
+固定された距離から1体のオブジェクトを見続ける。だからその対象は
+見ていたくなるものであり、生きているように動かなければならない。
+
+会話するペットではない。声も、口も、画面上の顔もなく、
+あなたの言葉を繰り返すこともない。あなたに注意を向ける機械であり、
+それは別物で、より良いものだ。
+
+2 ロボット
+
+大きさは猫ほどで、4本の脚を持つ。
+
+魅力を生むのはプロポーションだ。
+- ボディは丸みを帯びたブロックで、高さより幅があり、頭部幅の約2倍の
+  長さにする。重量感が伝わる。
+- ボディに対して頭部は大きく、ボディの高さの約40パーセントで、短い首の前方に
+  載せる。好奇心が伝わる。
+  ちびキャラのような頭部にはせず、目も大きくしない。
+- 脚はボディに比べて細身にし、重いものを
+  軽い四肢で支える。この対比によって、歩行が不器用ではなく
+  繊細に見える。
+- 実質的にはカウンターウェイトである短い尾。重りらしく揺れる
+- 頭部に短いアンテナを1本付ける。あらゆる動きの半拍後に、素早くしなって
+  落ち着く。コストはほとんどかからないが、モデル全体に生命感を与える
+  最大の要素となる。
+
+素材は3種類まで。3種類を超えない。
+1 塗装パネル。柔らかなボーンホワイトで、マット、わずかに暖色。背中、
+  臀部、頭部の上面に使う。見えている表面の少なくとも60パー
+  セントを占めること。そうでなければ、部品を積み上げただけに見える。
+2 むき出しの切削金属。ひんやりした中間色のグレーで、脚、フレーム、関節、
+  首に使う。各関節リングだけは暖色の真鍮にする。
+3 暗いラバー。ほぼ黒でマット。4つの足、首のスリーブ、
+  ケーブルに使う。
+
+顔：同じ大きさの丸いレンズを2つ、左右に離して配置し、埋め込む。
+額を横切る切削溝の奥に収める。この溝は
+切削されたエッジであり、眉ではない。動くこともない。表情はすべて
+頭部の角度、アンテナ、レンズの明るさで表現する。
+
+欠点を1つ設ける。片方の肩パネルだけが、
+一度交換されたように少し色合いが違う。目立たせない。
+
+シルエットテスト、合否判定：ロボットを純粋な黒一色で白背景にレンダリングする。
+64×64ピクセルで、横向きと斜め前方から撮影する。
+持ち上がった頭部、頭部とボディの隙間、4本の脚とその間の
+空間、尾がすべて判別できなければならない。どれか2つの塊が融合したら、
+レンダリングではなくモデルを修正する。
+
+3 バッテリーをプログレスバーにする
+
+片側に5つのセルを帯状に並べ、アンバー色に点灯させる。残量が減ると
+1つずつ消え、充電すると1つずつ点灯する。画面上に数字やバーは
+一切表示しない。
+
+5セル  軽快に動き、頭を上げ、尾を振る
+4        通常
+3        動きが遅くなり、頭が少し下がる
+2        立ったままではなく、動作の合間に座る
+1        自力で充電パッドまで歩き、そこで待つ
+0        脚を折りたたみ、その場で電源を切る。
+         レンズは暗くなり、その場でパッドへ運ばれるのを待つ
+
+壊れることも、停止して動かなくなることもなく、0になっても失われるものはない。
+
+4 動き
+
+- 本物らしい歩行。対角線上の脚を一対ずつ動かし、足は作業台に接地したまま
+  胴体がその上を通過しても、足はその場に留まる。足は滑らせない。
+  。
+- 重み。荷重された脚の対に合わせて胴体が沈む。歩き出すときは、動く前に前へ
+  傾く。止まるときは、体勢を立て直すために短い一歩を踏み出す。
+  。
+- プレイヤーを見ている。カーソルが作業台の上にある間は、頭部がカーソルを追い、
+  胴体より先に首が旋回方向を向く。
+- 姿勢を立て直す。横から軽く押すとよろめき、脚を大きく踏み出して
+  体勢を戻す。決して倒れない。
+- 静止して落ち着く。立ち止まっている間も数秒おきに重心を移し、
+  レンズがゆっくり瞬きする。暗くなってから明るさが戻るだけで、完全には
+  閉じない。
+
+練習するほど上達する。ジョブを1回こなすごとに、ふらつきが少しずつ小さくなり、
+動きが少しずつ速くなる。ただし上限がある。
+この変化を知らせる表示はない。20回目のジョブを終える頃には、何をすべきか心得た
+機械のように、目に見えて動きが洗練されている。その変化こそが、
+このゲームにおける唯一の進行要素となる。
+
+5 作業台
+
+ひとつの作業台を、固定距離から見る。温かみがあり、使い込まれている。
+
+天板は使い込まれて白っぽくなった木材。背後の壁は落ち着いた青みがかったグレーグリーンで、無地。
+ロボットは無塗装の金属で、関節には温かみのある真ちゅう。レンズとバッテリーセルは
+琥珀色で、光る色はこれだけ。片側から暖色のランプ光が差し、
+長く柔らかな影を落とす。それ以外はすべて彩度を抑える。
+
+作業台の上には、ケーブルを巻いた充電パッド、ボルトの入った瓶、
+丸めた布、小さな木箱、デスクランプ、ゴムボール、
+ブリキのボウル。それ以外は何も置かない。
+
+ランプだけが光源となる。ロボットがその前を横切ると、
+影が作業台の上を掃くように移動する。
+
+6 用途だけで描写する
+
+- 作業台の上でボールをドラッグすると、ロボットは胴体を向ける前に
+  頭部でボールを追い、その後に体を向けて追従する
+- ロボットを充電パッドに乗せると、ひとつ目のセルが点灯し、続いて
+  次のセルが、ひとつずつ間を置いて点灯する
+- 横から軽く押すとよろめき、脚を大きく踏み出して
+  体勢を支え、まっすぐに戻る
+- ボルトをブリキのボウルに落とすと、ロボットが歩いて近づき、ボルトを
+  口元のプレートで拾い、瓶まで運ぶ
+- 何もせずにいると、作業台の端まで歩き、下をのぞき込み、
+  後ずさりする
+- 背中のパネルをかくと、ロボットは体を低くし、
+  かくのをやめるまでじっとしている
+
+これらはすべて実際の動きで見せる。キャプションで説明してはいけない。
+
+7 3つのジョブ
+
+それぞれ異なる動きの種類を見せるためのもので、各ジョブはオブジェクトを作業台に置くことで
+依頼される。メニューから選ばせてはいけない。
+
+fetch  ボルトをどこかに落とす。ロボットが歩いて近づき、拾い上げ、
+       瓶まで運ぶ。歩行と方向転換を見せる。
+stack  木箱を3つ置く。ロボットが1つずつ押して積み上げる。
+       押す動作、踏ん張り、持ち上げを見せる。
+chase  ボールを転がす。ロボットが走って追いつき、足で止めて、
+       持ち帰る。走行、滑り、停止を見せる。
+
+各ジョブでバッテリーを少し消費する。セル2個の状態で行うジョブは、
+セル5個のときと同じジョブより遅く、ふらつきも大きい。キューも、順番指定も、
+タイマーも、報酬もない。
+
+8 インターフェース
+
+画面下部中央：何かに手が届く範囲に入ったときだけ、キーやドラッグ操作とそのアクションを示す
+キーまたはドラッグ操作とアクションを示し、リーチ範囲から外れると消える
+範囲外では表示しない。
+
+画面にはそれ以外何も表示しない。バッテリーバーも、満足度メーターも、
+空腹度メーターも、コインも、レベルも、経験値も、星も、
+タイマーも、メニューも、設定も、チュートリアルのポップアップも、浮遊ラベルも
+ロボットの上に表示しない。
+
+プレイヤーが知る必要のあることは、すべてロボットのボディに表示する。
+
+カメラは作業台に固定し、正面から斜め前方、やや上の位置に置く。
+垂直視野角は40度。ロボットは画面中央の作業台の高さの
+30〜45パーセントを占める。
+1080pでは各バッテリーセルの幅を少なくとも8ピクセルにする。画面には作業台全体を
+常に収める。ドラッグで約60度まで軌道回転できるが、これ以上は回転させない。
+カメラが作業台から離れることも、カットが入ることも
+ない。
+
+9 禁止事項（すべて明記）
+
+ペット要素：音声なし、会話なし、プレイヤーの言葉の復唱なし、
+マイクなし、画面上の顔なし、口なし、眉なし、
+瞳孔のある漫画調の目なし、ハートなし、絵文字なし、吹き出しなし、
+名前入力なし、コスチュームなし、帽子なし、ペイントショップなし。
+
+基本プレイ無料要素：コインなし、ジェムなし、いかなる通貨もなし、
+ショップなし、広告なし、デイリー報酬なし、連続ログイン報酬なし、通知なし、
+購入が必要なエネルギーなし、待ち時間タイマーなし、レベルなし、
+経験値バーなし、実績なし、リーダーボードなし。
+
+ゲームプレイ：敵なし、戦闘なし、体力なし、ダメージなし、死亡なし、
+破損なし、修理ミニゲームなし、失敗状態なし、スコアなし、
+タイマーなし、クエストマーカーなし、カットシーンなし、ロード画面のアートなし。
+
+過去のビルドの繰り返し：ビーチなし、ヤシの木なし、カニなし、
+浮遊島なし、ランタンなし、桜なし、忍者なし、
+手裏剣なし、ボクセルブロックなし、つるはしなし、溶岩なし、車なし、都市なし、
+水中要素なし、コンブなし。
+
+レンダリング：リアルなテクスチャなし、硬い影なし、レンズフレアなし、
+フィルムグレインなし、レターボックスなし、被写界深度によるぼけなし、色収差なし、
+灰色の画面フォグなし。ブルームを付けるのはレンズと
+バッテリーセルだけにする。
+
+10 ビルドの予算
+
+このビルドは1回の作業セッションで完成させる。以下の項目は
+このバージョンでは絶対に追加しない。追加も、仮実装も、
+TODOを残すこともしない。
+
+2つ目の部屋なし、屋外なし
+2体目のロボットなし
+セーブもロードもなし、リロード時は新しいロボットにする
+物理エンジンなし：4本脚のための手書きの逆運動学を、平面上で実装し、
+  作業台上の小道具には単純なボックス衝突判定を使う
+ラグドールなし
+サウンドなし
+メニューなし、設定なし、一時停止画面なし
+ジョブは3つまで
+昼夜サイクルなし
+
+時間を使う優先順位は次のとおり：
+1 ロボットのプロポーションとシルエットテスト
+2 歩行サイクルと足の接地
+3 ヘッドトラッキング、アンテナ、静止時の落ち着き
+4 バッテリー状態と充電パッド
+5 3つのジョブ
+6 作業台の小物類
+
+時間が足りなくなったら、何も置いていない作業台と、美しく
+しっかり歩くロボットの状態でリリースする。決して逆にしない。何もない作業台と
+よくできたロボットがあれば、ゲームは完成している。小物で飾った作業台に動きの硬いロボットでは、
+何も意味がない。
+
+完成と呼ぶ前に、言葉ではなくレンダーで次の4点を証明する：
+言葉ではなく、次の4点をレンダリングで証明する：2つの角度から見た64ピクセルのシルエットテストと、歩行サイクル
+5セル時の歩行サイクルと、同じ歩行を2セル時に行ったもの、ヘッドが追従する
+全周回転の範囲でカーソルを追う様子、そして5セル時と0セル時のロボットを
+並べて比較したもの。
+
+これを作り、まず最初に修正する3つの点を教えてほしい。
+
+{ END }
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+THE FULL SPEC.
+SAVE IT AS A FILE IN THE PROJECT FOLDER, NOT AS A CHAT MESSAGE.
+THEN: /goal build this in three.js, read SPEC.md and follow it
+exactly, especially sections 9 and 10.
+
+{ START }
+
+1 WHAT THIS IS
+
+a small four-legged robot lives on a workbench. you charge it,
+play with it, and give it three jobs. it never leaves the bench
+and neither do you. that is the whole game.
+
+two things carry this build and nothing else does: how the robot
+looks, and how it moves. the player spends the entire game
+looking at one object from a fixed distance, so that object has
+to be worth looking at, and it has to move like it is alive.
+
+it is not a talking pet. no voice, no mouth, no face on a screen,
+and it never repeats what you say. it is a machine that pays
+attention to you, which is a different and better thing.
+
+2 THE ROBOT
+
+about the size of a cat, on four legs.
+
+proportion, which is where charm comes from:
+- the body is a rounded block, wider than tall, about two head
+  widths long. it reads heavy.
+- the head is large for the body, roughly 40 per cent of body
+  height, and sits forward on a short neck. it reads curious.
+  not a chibi head, and the eyes are not big.
+- the legs are slender next to that body, so a heavy thing is
+  carried on light limbs. that contrast is what makes the walk
+  look delicate rather than clumsy.
+- a stub tail that is really a counterweight, and swings like one
+- one short antenna on the head that whips and settles half a
+  beat behind every movement. costs almost nothing, and it is the
+  single biggest source of life in the whole model.
+
+three materials, no more than three:
+1 painted panel, soft bone white, matte, slightly warm. over the
+  back, the haunches and the top of the head. at least 60 per
+  cent of the visible surface or it reads as a pile of parts.
+2 bare machined metal, cool mid grey, on legs, frame, joints and
+  neck. warm brass at each joint ring only.
+3 dark rubber, near black and matte, on the four feet, the neck
+  sleeve and the cable.
+
+the face: two round lenses of equal size, set wide, recessed
+behind a machined groove across the brow. the groove is a
+machined edge, not an eyebrow, and it never moves. all expression
+comes from head angle, antenna and lens brightness.
+
+one flaw: one shoulder panel is a slightly different shade, as
+though replaced once. nothing draws attention to it.
+
+silhouette test, pass or fail: render the robot pure black on
+white at 64 by 64 pixels, from the side and three quarters. the
+raised head, the gap between head and body, four legs with
+daylight between them, and the tail must all still read. if any
+two masses merge, change the model, not the render.
+
+3 THE BATTERY IS THE PROGRESS BAR
+
+a strip of five cells runs along one flank, lit amber. they go
+out one at a time as it runs down and light one at a time as it
+charges. nothing on screen shows a number or a bar.
+
+5 cells  brisk, head up, tail swinging
+4        normal
+3        slower, head slightly lower
+2        it sits down between actions instead of standing
+1        it walks to the charging pad on its own and waits
+0        it folds its legs and powers down where it stands,
+         lenses dark, waiting to be carried to the pad
+
+it never breaks, never dies, and nothing is lost at zero.
+
+4 HOW IT MOVES
+
+- a real walk. diagonal pairs, feet planted on the bench and
+  staying there while the body passes over them. feet do not
+  slide.
+- weight. the body dips on the loaded pair. starting, it leans
+  forward before it moves. stopping, it takes one short step to
+  catch itself.
+- it watches you. the head follows the cursor whenever the cursor
+  is over the bench, and the neck leads the turn before the body.
+- it recovers. nudge it and it staggers, plants a leg wide, and
+  rights itself. it never falls over.
+- it settles. standing still it shifts weight every few seconds,
+  and the lenses do a slow blink: they dim and come back, they do
+  not close.
+
+it gets better with practice. every job done makes the wobble a
+little smaller and the movement a little faster, up to a limit.
+nothing announces this. by the twentieth job it visibly moves
+like a machine that knows what it is doing, and that change is
+the only progression in the game.
+
+5 THE BENCH
+
+one workbench, seen from a fixed distance. warm, worked in.
+
+bench top worn pale timber. wall behind cool grey green, plain.
+robot bare metal with warm brass at the joints. lenses and cells
+amber, the only lit colour. lamp light warm, from one side,
+casting a long soft shadow. everything else muted.
+
+on the bench: a charging pad with a coil of cable, a jar of
+bolts, a rolled cloth, a small crate, a desk lamp, a rubber ball,
+a tin bowl. nothing else.
+
+the lamp is the only light source. when the robot crosses in
+front of it, its shadow sweeps across the bench.
+
+6 DESCRIBED ONLY THROUGH USES
+
+- you drag the ball across the bench and the robot's head tracks
+  it before its body turns to follow
+- you put the robot on the charging pad and one cell lights, then
+  the next, with a pause between each
+- you nudge it from the side and it staggers, catches itself on a
+  wide leg, and straightens
+- you drop a bolt in the tin bowl and it walks over, picks it up
+  in its mouth plates, and carries it to the jar
+- you leave it alone and it walks to the edge of the bench, looks
+  over, and backs away
+- you scratch the panel on its back and it lowers its body and
+  holds still until you stop
+
+show all of this happening. never explain it in a caption.
+
+7 THE THREE JOBS
+
+each exists to show a different kind of motion, and each is asked
+for by putting an object on the bench, never by a menu.
+
+fetch  drop a bolt anywhere. it walks over, picks it up, takes it
+       to the jar. shows the walk and the turn.
+stack  put three crates out. it pushes them into a stack, one at
+       a time. shows the push, the brace and the lift.
+chase  roll the ball. it runs it down, stops it with a foot, and
+       brings it back. shows the run, the skid and the stop.
+
+each job costs a little charge. a job done at 2 cells is slower
+and wobblier than the same job at 5. no queue, no order, no
+timer, no reward.
+
+8 THE INTERFACE
+
+bottom centre: a single prompt card when something is in reach,
+naming the key or the drag and the action, which disappears when
+it is not.
+
+nothing else on screen. no battery bar, no happiness meter, no
+hunger meter, no coins, no level, no experience, no stars, no
+timer, no menu, no settings, no tutorial popup, no floating label
+over the robot.
+
+everything the player needs to know is on the robot's body.
+
+camera: fixed on the bench, three quarters from the front and
+slightly above. 40 degree vertical field of view. the robot fills
+30 to 45 per cent of frame height at the centre of the bench.
+each battery cell at least 8 pixels wide at 1080p. the whole
+bench in frame at all times. drag to orbit through about 60
+degrees and no further. the camera never leaves the bench and
+never cuts.
+
+9 BANNED, EACH ONE NAMED
+
+the pet: no voice, no talking, no repeating what you say, no
+microphone, no face on a screen, no mouth, no eyebrows, no
+cartoon eyes with pupils, no hearts, no emoji, no speech bubble,
+no name entry, no costume, no hats, no paint shop.
+
+free-to-play: no coins, no gems, no currency of any kind, no
+shop, no ads, no daily reward, no streak, no notification, no
+energy that must be bought, no wait timer, no level, no
+experience bar, no achievements, no leaderboard.
+
+gameplay: no enemies, no combat, no health, no damage, no dying,
+no breaking, no repair mini-game, no fail state, no score, no
+timer, no quest markers, no cutscene, no loading screen art.
+
+repeats of my earlier builds: no beach, no palm trees, no crabs,
+no floating islands, no lanterns, no cherry blossom, no ninja, no
+shuriken, no voxel blocks, no pickaxe, no lava, no car, no city,
+no underwater, no kelp.
+
+render: no realistic textures, no hard shadows, no lens flare, no
+film grain, no letterboxing, no depth of field blur, no chromatic
+aberration, no grey screen fog. bloom on the lenses and the
+battery cells and nothing else.
+
+10 THE BUILD BUDGET
+
+this build must finish in one working session. everything below
+is a hard no for this version. do not add it, do not stub it, do
+not leave a todo for it.
+
+no second room, no outdoors
+no second robot
+no saving or loading, a reload is a fresh robot
+no physics engine: hand-written inverse kinematics for four legs
+  on a flat plane, plus simple box collision on the bench props
+no ragdoll
+no sound
+no menus, no settings, no pause screen
+no more than three jobs
+no day cycle
+
+where the time must go, in this order:
+1 the robot's proportions and the silhouette test
+2 the walk cycle and the foot planting
+3 the head tracking, the antenna and the settle
+4 the battery states and the charging pad
+5 the three jobs
+6 the bench dressing
+
+if time runs out, ship with an empty bench and a beautiful robot
+that walks well. never the other way round. a bare bench with a
+good robot is a finished game. a dressed bench with a stiff robot
+is nothing.
+
+before you call it done, prove these four with renders, not with
+words: the silhouette test at 64 px from two angles, a walk cycle
+at 5 cells and the same walk at 2 cells, the head tracking the
+cursor across the full orbit, and the robot at 5 cells and at 0
+cells side by side.
+
+build it, then tell me the three things you would fix first.
+
+{ END }
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097004192627933279) · [元の投稿](https://x.com/zeuuss_01/status/2097004192627933279) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096986557244723371"></a>
+
+### Blenderで作る12秒の森の道
+
+[Can Matrix](https://x.com/Jomolos) · 2026-09-07 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096986557244723371"><img src="../assets/previews/3aa6d0d4c63cd2fdf992963f8574169047d64b32012bdddd72df84f137a8d519.webp" width="840" loading="lazy" alt="Blenderで作る12秒の森の道"></a>
+
+> 出典は部分的な抜粋です。
+
+**プロンプト**
+
+```text
+Blenderで12秒間の森の道のシーンを作成する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Blender’da 12 saniyelik bir orman yolu
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096986557244723371) · [元の投稿](https://x.com/Jomolos/status/2096986557244723371) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096971051334857181"></a>
+
+### インタラクティブな中国式中庭
+
+[Larus Canus](https://x.com/MrLarus) · 2026-09-07 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096971051334857181"><img src="../assets/previews/afa942c78d5c1cccd6cecf00b5e59c53f0eea0e4e5271cc8dbf51b3fa6caf8e9.webp" width="840" loading="lazy" alt="インタラクティブな中国式中庭"></a>
+
+**プロンプト**
+
+```text
+BlenderとThree.jsを使って、ブラウザ上で探索できるインタラクティブな中国式中庭を作成してください。
+
+白い壁、濃色の瓦屋根、月門、松、池、枯山水を配置し、居間、茶室、寝室も設けてください。Pythonを使ってBlenderをバックグラウンドで実行し、モデルを生成してGLBファイルを書き出してください。照明、反射、アニメーション、インタラクションにはThree.jsを使用してください。
+
+オービット操作、ズーム、WASD移動、昼夜の切り替え、屋根の表示切り替えに対応させてください。水の流れ、鯉、跳ねるカエル、トンボ、中庭の猫、スズメ、夜のホタルを段階的に追加してください。動きは控えめで自然にしてください。
+
+シーンを遮らないオリジナルのインターフェースを作成してください。段階的に構築し、ブラウザで結果を確認しながら問題を修正して、実行可能なプロジェクト、ソースファイル、セットアップ手順を納品してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.
+
+Include white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.
+
+Support orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.
+
+Create an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096971051334857181) · [元の投稿](https://x.com/MrLarus/status/2096971051334857181) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096966425017467344"></a>
+
+### 「重力が壊れた地平線」のVRChat向け景観ワールド
+
+[Xenoah](https://x.com/shuminchuuu) · 2026-09-07 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344"><img src="../assets/previews/0495d0af2d899a6ca4a840202506ee1ecd4d45c049fa6de3bee6b6fbef82bfef.webp" width="840" loading="lazy" alt="「重力が壊れた地平線」のVRChat向け景観ワールド"></a>
+
+**プロンプト**
+
+```text
+Blenderで、VRChat向け景観ワールドの3Dモデル一式を作ってください。
+
+テーマは、
+
+「重力が壊れた地平線」
+
+です。
+
+プレイヤーが立つ丘の頂上だけは正常で、遠景だけが大きく物理破綻しています。
+
+全体はシンプルな造形にしてください。
+細かい装飾より、
+大きなシルエット
+
+遠景の異常さ
+展望台の形
+空間構成
+を優先してください。
+
+構成
+
+作るものは以下です。
+
+丘の頂上
+
+細い散策路
+浅い切通し
+半円形の観測デッキ
+少数のベンチ
+壊れた案内板
+中央観測装置
+遠景の都市
+垂直に立つ海
+逆さの山脈
+巨大な黒い柱
+空間断層
+静的な雲
+展望台
+
+展望台は半円形。
+
+既存の展望台を真似せず、完全オリジナル形状にしてください。
+
+特徴:
+
+半円形
+
+左右非対称
+一部が空中へ張り出す
+低い縁
+半透明素材を想定した形状
+一部だけ重力異常で変形
+複雑にしすぎず、遠くから見ても形が分かる大きなシルエットにしてください。
+
+中央観測装置
+
+展望台中央に、
+
+半透明球体
+
+不完全なリング
+黒い柱へ向いた照準フレーム
+を組み合わせたシンプルな装置を配置してください。
+
+遠景
+
+遠景は最重要です。
+
+以下を大きな簡略形状で作ってください。
+
+空へ落ちる都市
+
+箱形のビル群を、通常とは違う方向へ伸ばしてください。
+
+垂直の海
+
+巨大な水面プレーンを90度近く立てて配置してください。
+
+逆さの山脈
+
+簡略化した山のシルエットを上下反転してください。
+
+黒い柱
+
+非常に巨大で細長い黒い柱を遠景に配置してください。
+
+建物ではなく、空間の欠損のように見える形にしてください。
+
+空間断層
+
+黒い柱の周囲に、大きく裂けた板状または帯状の形状を配置してください。
+
+発光マテリアルを想定します。
+
+地形
+
+丘はなだらかな草地。
+
+スポーン地点から展望台まで、
+
+細い散策路
+
+浅い切通し
+を作ってください。
+
+切通しを抜けると、遠景が一気に見える構図にしてください。
+
+植生
+
+植物は最小限。
+
+草
+
+少数の低木
+ごく一部だけ異常方向へ傾いた植物
+程度で十分です。
+
+モデリング方針
+
+ローポリ寄りで構いません。
+
+細部を作り込みすぎないでください。
+
+Primitiveを積極的に使い、
+
+Cube
+
+Plane
+Cylinder
+Sphere
+Curve
+を中心に作ってください。
+
+遠景は特に簡略化してください。
+
+重要なのはディテールではなく、
+
+「遠くを見た瞬間に世界がおかしいと分かること」
+
+です。
+
+Blender内の整理
+
+オブジェクトを以下のコレクションに分けてください。
+
+PLAYER_AREA
+
+OBSERVATION_DECK
+OBSERVATION_DEVICE
+VEGETATION
+DISTANT_CITY
+DISTANT_SEA
+DISTANT_MOUNTAINS
+BLACK_PILLAR
+SPACE_FRACTURE
+CLOUDS
+PROPS
+VRChat用にUnityへ持っていきやすい構成にしてください。
+
+最優先は、
+
+「展望台から見た一枚絵としての景観」
+
+です。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096966425017467344) · [元の投稿](https://x.com/shuminchuuu/status/2096966425017467344) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096956214680965501"></a>
 
 ### Three.js WebGPUで作る無限ミニチュアストリート
@@ -1324,164 +2097,7 @@ D4の主人公のアパートについて調べ、プレイ可能な3D試作と�
 
 ---
 
-<a id="gpt-6-astra-2096391653669953761"></a>
 
-### Blenderでブラックホールを作成・レンダリング
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="Blenderでブラックホールを作成・レンダリング"></a>
-
-**プロンプト**
-
-```text
-Blenderで、『インターステラー』に登場するような美しいブラックホールを作成し、レンダリングしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Make and render a beautiful black hole, like the one from Interstellar, in Blender.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096391653669953761) · [元の投稿](https://x.com/JohnKlerAI/status/2096391653669953761) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="railway-network-simulation-game-2096362653480562751"></a>
-
-### 鉄道ネットワークのシミュレーションゲーム
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="鉄道ネットワークのシミュレーションゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.jsの列車モデルを、都市、分岐、川、橋を備えた鉄道シミュレーションへ発展させてください。列車追尾、自由移動の3D視点、アイソメトリック視点のカメラと、煙のエフェクトを追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/railway-network-simulation-game-2096362653480562751) · [元の投稿](https://x.com/tomkrcha/status/2096362653480562751) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
-
-### 店員と客が活動する酒場
-
-[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="店員と客が活動する酒場"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-参考画像をもとに酒場を再現し、客と従業員を配置してください。客が料理や飲み物を注文し、従業員が用意する動作を実装してください。衝突処理と経路探索も組み込んでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [元の投稿](https://x.com/Rogue0114/status/2096358854275543457) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096354461652488562"></a>
-
-### 音声同期アニメーション対応の操作可能な3Dアンサンブル
-
-[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="音声同期アニメーション対応の操作可能な3Dアンサンブル"></a>
-
-**プロンプト**
-
-```text
-オリジナルの短編作品を作曲し、操作可能な3Dアンサンブルを構築してください。音声の再生時間に合わせてアニメーションを駆動します。シーク、スローモーション、カメラ操作、MIDI、ソースコードを含めてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096354461652488562) · [元の投稿](https://x.com/groovestreetgen/status/2096354461652488562) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096342420543660277"></a>
-
-### キャラクターコンセプトからリギング済み3Dモデル、カートゥーン制作まで
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="キャラクターコンセプトからリギング済み3Dモデル、カートゥーン制作まで"></a>
-
-**プロンプト**
-
-```text
-GPT-6 Astraで私のコンピューターを操作し、次の作業を行ってください：
-
-1. Higgsfield Soul 2.0を使ってキャラクターコンセプトをデザインする、
-
-2. そのキャラクターのテクスチャ付き3Dモデルを作成する、
-
-3. Blenderにインポートする、
-
-4. メッシュをリトポロジーする、
-
-5. UVマップを作成する、
-
-6. キャラクターリグを構築する、
-
-7. モデルが制作現場で使える状態か評価する、
-
-8. 結果に満足できない場合は、前の手順をやり直す、
-
-9. その後、Higgsfield上のSeedance 2.5を使ってカートゥーンに仕上げる
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Take control of my computer using GPT-6 Astra and do the following: 
-
-1. design a character concept using Higgsfield Soul 2.0, 
-
-2. build a textured 3D model of it, 
-
-3. import it into Blender, 
-
-4. retopologize the mesh, 
-
-5. create a UV map, 
-
-6. build a character rig, 
-
-7. evaluate how production-ready the model is, 
-
-8. redo previous steps if you're not satisfied with results,
-
-9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096342420543660277) · [元の投稿](https://x.com/higgsfield_ai/status/2096342420543660277) · [作例一覧に戻る](#all-prompts)
-
----
-
-
-[全カタログ](catalog.ja.md) · [←](catalog.ja.3.md) · **4 / 9** · [→](catalog.ja.5.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.3.md) · **4 / 10** · [→](catalog.ja.5.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

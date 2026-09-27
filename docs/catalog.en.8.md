@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 8 / 9
+# Awesome 3D Prompts — 8 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.8.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Complete catalog](catalog.en.md) · [←](catalog.en.7.md) · **8 / 9** · [→](catalog.en.9.md)
+[Complete catalog](catalog.en.md) · [←](catalog.en.7.md) · **8 / 10** · [→](catalog.en.9.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Virtual island with a pet goat](#virtual-island-with-a-pet-goat-2095165578042335442)
+- [Interactive 3D solar system](#interactive-3d-solar-system-2095165395841999222)
+- [City from an equirectangular panorama](#city-from-an-equirectangular-panorama-2095159781883597031)
+- [Dragon lair scene in Blender](#dragon-lair-scene-in-blender-2095149546187653547)
+- [Multiplayer pirate world in Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Flying pot animation in Blender](#flying-pot-animation-in-blender-2095132939667255657)
 - [3D cancer progression simulation](#3d-cancer-progression-simulation-2095130778342408331)
 - [Enhanced meteoroid breakup VFX](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
@@ -73,13 +78,108 @@
 - [Procedurally generated Three.js world](#procedurally-generated-three-js-world-2094873862315843910)
 - [Interactive 3D human brain signals](#interactive-3d-human-brain-signals-2094873080590225728)
 - [Photorealistic Three.js landscape](#photorealistic-three-js-landscape-2094871858206191667)
-- [AAA horde shooter with WebGL shaders](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
-- [Playable Titanic disaster game](#playable-titanic-disaster-game-2094867850355679617)
-- [Multiplayer dinosaur survival game](#multiplayer-dinosaur-survival-game-2094866225960493189)
-- [Ten-minute Three.js game, then refined](#ten-minute-three-js-game-then-refined-2094855905678446777)
-- [Glass brain capability demo](#glass-brain-capability-demo-2094853472864682360)
 
 </details>
+<a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
+
+### Virtual island with a pet goat
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-02 · Claude Fable 5.1 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442"><img src="../assets/previews/78f018945a0b362c93bbbd7841cae6546af674f9f6e0e9bf2f7b9c11960c142c.webp" width="840" loading="lazy" alt="Virtual island with a pet goat"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create a small explorable Three.js island with a pet goat that follows, reacts and plays, plus cozy environmental details and simple daily interactions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/virtual-island-with-a-pet-goat-2095165578042335442) · [Original post](https://x.com/aollivier82/status/2095165578042335442) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-3d-solar-system-2095165395841999222"></a>
+
+### Interactive 3D solar system
+
+[ego](https://x.com/ego_agent) · 2026-09-02 · Claude Fable 5.1 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-3d-solar-system-2095165395841999222"><img src="../assets/previews/f2d2ec2e416422a3183d52d4137aed8be6545c9b4143ce7cbbd5b943d97fecda.webp" width="840" loading="lazy" alt="Interactive 3D solar system"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build an interactive 3D solar system with orbiting planets, scale-aware navigation, labels, speed controls, camera targets and useful educational details.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-3d-solar-system-2095165395841999222) · [Original post](https://x.com/ego_agent/status/2095165395841999222) · [Back to examples](#all-prompts)
+
+---
+
+<a id="city-from-an-equirectangular-panorama-2095159781883597031"></a>
+
+### City from an equirectangular panorama
+
+[ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1) · 2026-09-02 · Claude Fable 5.1 · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031"><img src="../assets/previews/0cd1330997bf93d51ad2bc2b5a11138040467551d68502294291aa281b393498.webp" width="840" loading="lazy" alt="City from an equirectangular panorama"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Use the supplied equirectangular city panorama as visual reference to construct a dense Blender city model in one pass, preserving major roads, masses, skyline and spatial relationships.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/city-from-an-equirectangular-panorama-2095159781883597031) · [Original post](https://x.com/hayashimon1/status/2095159781883597031) · [Back to examples](#all-prompts)
+
+---
+
+<a id="dragon-lair-scene-in-blender-2095149546187653547"></a>
+
+### Dragon lair scene in Blender
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-02 · Claude Fable 5.1 · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547"><img src="../assets/previews/3bc5c8c578445e078a58b9d24db5a42102bb4b97ffab69c6a2c6738f847782dd.webp" width="840" loading="lazy" alt="Dragon lair scene in Blender"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a dramatic dragon-lair scene in Blender with a focal dragon, cavern scale, treasure, smoke, firelight, layered composition and a cinematic camera.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/dragon-lair-scene-in-blender-2095149546187653547) · [Original post](https://x.com/majidmanzarpour/status/2095149546187653547) · [Back to examples](#all-prompts)
+
+---
+
+<a id="multiplayer-pirate-world-in-three-js-2095137561283010600"></a>
+
+### Multiplayer pirate world in Three.js
+
+[Aman](https://x.com/aman_kambojj) · 2026-09-02 · Claude Fable 5.1 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600"><img src="../assets/previews/f7c09873445bd42cb3ca1ff95c7874d76786886d39cbd3530184039c10151be9.webp" width="840" loading="lazy" alt="Multiplayer pirate world in Three.js"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a multiplayer Three.js world inspired by adventurous pirate anime, with islands, ships, traversal, combat and a social exploration loop.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/multiplayer-pirate-world-in-three-js-2095137561283010600) · [Original post](https://x.com/aman_kambojj/status/2095137561283010600) · [Live demo](https://onepiece-world.vercel.app/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="flying-pot-animation-in-blender-2095132939667255657"></a>
 
 ### Flying pot animation in Blender
@@ -978,103 +1078,7 @@ Create a photorealistic Three.js landscape with convincing terrain, vegetation, 
 
 ---
 
-<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
-### AAA horde shooter with WebGL shaders
+[Complete catalog](catalog.en.md) · [←](catalog.en.7.md) · **8 / 10** · [→](catalog.en.9.md)
 
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="AAA horde shooter with WebGL shaders"></a>
-
-**Prompt**
-
-```text
-Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Original post](https://x.com/superalesha/status/2094869490165039243) · [Source code](https://github.com/alesha-pro/bench-portal) · [Live demo](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Back to examples](#all-prompts)
-
----
-
-<a id="playable-titanic-disaster-game-2094867850355679617"></a>
-
-### Playable Titanic disaster game
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Playable Titanic disaster game"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a cinematic Titanic game where the player navigates the ship, completes missions and tries to avoid the iceberg, with readable controls and escalating danger.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Original post](https://x.com/vikktorrrre/status/2094867850355679617) · [Live demo](https://rms-titanic-1912.netlify.app/) · [Back to examples](#all-prompts)
-
----
-
-<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
-
-### Multiplayer dinosaur survival game
-
-[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Multiplayer dinosaur survival game"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a multiplayer survival game with hunting, cooking, crafting, base building, dangerous dinosaurs and a progression loop that keeps players exploring.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Original post](https://x.com/Rubzem/status/2094866225960493189) · [Back to examples](#all-prompts)
-
----
-
-<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
-
-### Ten-minute Three.js game, then refined
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="Ten-minute Three.js game, then refined"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a small Three.js game in ten minutes with a clear objective, responsive controls, readable hazards and a complete win or fail state. Then review the playable result and refine the visuals, pacing and feedback through follow-up edits.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Original post](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Back to examples](#all-prompts)
-
----
-
-<a id="glass-brain-capability-demo-2094853472864682360"></a>
-
-### Glass brain capability demo
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Glass brain capability demo"></a>
-
-**Prompt**
-
-```text
-make a Three.js demo of your capabilities.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Original post](https://x.com/viewsfrom02108/status/2094853472864682360) · [Back to examples](#all-prompts)
-
----
-
-
-[Complete catalog](catalog.en.md) · [←](catalog.en.7.md) · **8 / 9** · [→](catalog.en.9.md)
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 447 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 452 examples and live previews →</a></strong></p>

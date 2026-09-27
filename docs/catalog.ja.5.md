@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 5 / 9
+# Awesome 3D Prompts — 5 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.5.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[全カタログ](catalog.ja.md) · [←](catalog.ja.4.md) · **5 / 9** · [→](catalog.ja.6.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.4.md) · **5 / 10** · [→](catalog.ja.6.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>作例を見る (50)</summary>
 
+- [Blenderでブラックホールを作成・レンダリング](#gpt-6-astra-2096391653669953761)
+- [鉄道ネットワークのシミュレーションゲーム](#railway-network-simulation-game-2096362653480562751)
+- [店員と客が活動する酒場](#tavern-with-working-staff-and-guests-2096358854275543457)
+- [音声同期アニメーション対応の操作可能な3Dアンサンブル](#gpt-6-astra-2096354461652488562)
+- [キャラクターコンセプトからリギング済み3Dモデル、カートゥーン制作まで](#gpt-6-astra-2096342420543660277)
 - [軌道をたどる太陽系エクスプローラー](#orbital-solar-system-explorer-2096339041679442428)
 - [アクションを中心に設計するカニのゲーム](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
 - [Blenderで作るフォトリアルな編集可能ドラゴンの再構築](#gpt-6-astra-2096335588727349434)
@@ -73,13 +78,165 @@
 - [イラストから操作できるキャラクターへ](#artwork-to-a-playable-character-2096107343268257953)
 - [Blender で作るアーザーディー・タワー](#azadi-tower-in-blender-2096107322536051057)
 - [蘇州博物館の庭園ウォークスルー](#suzhou-museum-garden-walkthrough-2096096998092841449)
-- [WebGLで学ぶブラックホールの形成](#black-hole-formation-in-webgl-2096093614397170104)
-- [近未来バイク・戦車と撮影用背景のBlenderモデル制作](#gpt-6-astra-2096083014845636816)
-- [手続き生成した列車の分解アニメーション](#exploding-procedural-train-assemblies-2096082580554777041)
-- [操作できる地球儀ダッシュボード](#interactive-globe-dashboard-2096082432197837065)
-- [回路図 PDF から基板と 3D 表示へ](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 
 </details>
+<a id="gpt-6-astra-2096391653669953761"></a>
+
+### Blenderでブラックホールを作成・レンダリング
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="Blenderでブラックホールを作成・レンダリング"></a>
+
+**プロンプト**
+
+```text
+Blenderで、『インターステラー』に登場するような美しいブラックホールを作成し、レンダリングしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Make and render a beautiful black hole, like the one from Interstellar, in Blender.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096391653669953761) · [元の投稿](https://x.com/JohnKlerAI/status/2096391653669953761) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="railway-network-simulation-game-2096362653480562751"></a>
+
+### 鉄道ネットワークのシミュレーションゲーム
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="鉄道ネットワークのシミュレーションゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.jsの列車モデルを、都市、分岐、川、橋を備えた鉄道シミュレーションへ発展させてください。列車追尾、自由移動の3D視点、アイソメトリック視点のカメラと、煙のエフェクトを追加してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/railway-network-simulation-game-2096362653480562751) · [元の投稿](https://x.com/tomkrcha/status/2096362653480562751) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
+
+### 店員と客が活動する酒場
+
+[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="店員と客が活動する酒場"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+参考画像をもとに酒場を再現し、客と従業員を配置してください。客が料理や飲み物を注文し、従業員が用意する動作を実装してください。衝突処理と経路探索も組み込んでください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [元の投稿](https://x.com/Rogue0114/status/2096358854275543457) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096354461652488562"></a>
+
+### 音声同期アニメーション対応の操作可能な3Dアンサンブル
+
+[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="音声同期アニメーション対応の操作可能な3Dアンサンブル"></a>
+
+**プロンプト**
+
+```text
+オリジナルの短編作品を作曲し、操作可能な3Dアンサンブルを構築してください。音声の再生時間に合わせてアニメーションを駆動します。シーク、スローモーション、カメラ操作、MIDI、ソースコードを含めてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096354461652488562) · [元の投稿](https://x.com/groovestreetgen/status/2096354461652488562) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096342420543660277"></a>
+
+### キャラクターコンセプトからリギング済み3Dモデル、カートゥーン制作まで
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="キャラクターコンセプトからリギング済み3Dモデル、カートゥーン制作まで"></a>
+
+**プロンプト**
+
+```text
+GPT-6 Astraで私のコンピューターを操作し、次の作業を行ってください：
+
+1. Higgsfield Soul 2.0を使ってキャラクターコンセプトをデザインする、
+
+2. そのキャラクターのテクスチャ付き3Dモデルを作成する、
+
+3. Blenderにインポートする、
+
+4. メッシュをリトポロジーする、
+
+5. UVマップを作成する、
+
+6. キャラクターリグを構築する、
+
+7. モデルが制作現場で使える状態か評価する、
+
+8. 結果に満足できない場合は、前の手順をやり直す、
+
+9. その後、Higgsfield上のSeedance 2.5を使ってカートゥーンに仕上げる
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Take control of my computer using GPT-6 Astra and do the following: 
+
+1. design a character concept using Higgsfield Soul 2.0, 
+
+2. build a textured 3D model of it, 
+
+3. import it into Blender, 
+
+4. retopologize the mesh, 
+
+5. create a UV map, 
+
+6. build a character rig, 
+
+7. evaluate how production-ready the model is, 
+
+8. redo previous steps if you're not satisfied with results,
+
+9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096342420543660277) · [元の投稿](https://x.com/higgsfield_ai/status/2096342420543660277) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="orbital-solar-system-explorer-2096339041679442428"></a>
 
 ### 軌道をたどる太陽系エクスプローラー
@@ -1589,106 +1746,7 @@ Noctavia のキャラクターイラストを、操作できる 3D キャラク�
 
 ---
 
-<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
-### WebGLで学ぶブラックホールの形成
-
-[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGLで学ぶブラックホールの形成"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-WebGLの可視化を使い、ブラックホールの形成を解説する教育用スライドショーを制作してください。説明に合わせて、動きのある3Dシーンを表示してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [元の投稿](https://x.com/zeeeeeen/status/2096093614397170104) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096083014845636816"></a>
-
-### 近未来バイク・戦車と撮影用背景のBlenderモデル制作
-
-[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="近未来バイク・戦車と撮影用背景のBlenderモデル制作"></a>
-
-**プロンプト**
-
-```text
-モデル性能評価試験
-blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096083014845636816) · [元の投稿](https://x.com/StelsRay2/status/2096083014845636816) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
-
-### 手続き生成した列車の分解アニメーション
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="手続き生成した列車の分解アニメーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-寸法、断面形状、ジオメトリ関数から、Three.js 内で直接 2 台の列車を生成してください。車輪を動かし、分解表示と再組み立てのシーケンスを用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [元の投稿](https://x.com/tomkrcha/status/2096082580554777041) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-globe-dashboard-2096082432197837065"></a>
-
-### 操作できる地球儀ダッシュボード
-
-[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="操作できる地球儀ダッシュボード"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-参考画像から Three.js の 3D 地球儀ダッシュボードを再構築してください。昼・夜モード、読みやすい地理データ、参考に合った動作する操作部を用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [元の投稿](https://x.com/hqmank/status/2096082432197837065) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
-
-### 回路図 PDF から基板と 3D 表示へ
-
-[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · その他
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="回路図 PDF から基板と 3D 表示へ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-回路図 PDF を使って KiCad の回路を修正し、50 × 20 mm の 2 層基板を配線して、3D アセンブリをレンダリングしてください。部品のデータシートを確認し、設計ルール違反を解消してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [元の投稿](https://x.com/swjtutl/status/2096079976433082502) · [作例一覧に戻る](#all-prompts)
-
----
-
-
-[全カタログ](catalog.ja.md) · [←](catalog.ja.4.md) · **5 / 9** · [→](catalog.ja.6.md)
+[全カタログ](catalog.ja.md) · [←](catalog.ja.4.md) · **5 / 10** · [→](catalog.ja.6.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

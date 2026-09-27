@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 5 / 9
+# Awesome 3D Prompts — 5 / 10
 
 [← Awesome 3D Prompts](../README.zh-CN.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.5.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 9** · [→](catalog.zh.6.md)
+[完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 10** · [→](catalog.zh.6.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [在 Blender 中创建并渲染黑洞](#gpt-6-astra-2096391653669953761)
+- [铁路网络模拟游戏](#railway-network-simulation-game-2096362653480562751)
+- [有员工与顾客互动的酒馆](#tavern-with-working-staff-and-guests-2096358854275543457)
+- [可玩的3D乐团与音频同步动画](#gpt-6-astra-2096354461652488562)
+- [从角色概念到 3D 建模、绑定与动画](#gpt-6-astra-2096342420543660277)
 - [Orbital 太阳系探索](#orbital-solar-system-explorer-2096339041679442428)
 - [以动作效果定义机制的螃蟹游戏](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
 - [在 Blender 中重建可编辑的写实巨龙](#gpt-6-astra-2096335588727349434)
@@ -73,13 +78,165 @@
 - [艺术作品转可玩角色](#artwork-to-a-playable-character-2096107343268257953)
 - [Blender 自由纪念塔](#azadi-tower-in-blender-2096107322536051057)
 - [苏州博物馆花园漫游](#suzhou-museum-garden-walkthrough-2096096998092841449)
-- [WebGL 黑洞形成演示](#black-hole-formation-in-webgl-2096093614397170104)
-- [Blender 未来风格摩托车与坦克建模](#gpt-6-astra-2096083014845636816)
-- [可拆解的程序化火车组件](#exploding-procedural-train-assemblies-2096082580554777041)
-- [交互式地球仪仪表盘](#interactive-globe-dashboard-2096082432197837065)
-- [原理图 PDF 转 PCB 与 3D 视图](#schematic-pdf-to-pcb-and-3d-view-2096079976433082502)
 
 </details>
+<a id="gpt-6-astra-2096391653669953761"></a>
+
+### 在 Blender 中创建并渲染黑洞
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096391653669953761"><img src="../assets/previews/14bfc33746bd8de96f7381031caddb573d5f2088ec9fb32941ef4cccad936acd.webp" width="840" loading="lazy" alt="在 Blender 中创建并渲染黑洞"></a>
+
+**提示词**
+
+```text
+在 Blender 中制作并渲染一个像《星际穿越》中那样的精美黑洞。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Make and render a beautiful black hole, like the one from Interstellar, in Blender.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096391653669953761) · [查看原帖](https://x.com/JohnKlerAI/status/2096391653669953761) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="railway-network-simulation-game-2096362653480562751"></a>
+
+### 铁路网络模拟游戏
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/railway-network-simulation-game-2096362653480562751"><img src="../assets/previews/2d03c15ea08fc25285ed2c06fa30a6af9f711beadec287f504b1713c2e103322.webp" width="840" loading="lazy" alt="铁路网络模拟游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+将 Three.js 列车模型扩展为包含城市、道岔、河流和桥梁的铁路模拟游戏，加入列车跟随、自由 3D 与等距视角，以及烟雾效果。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/railway-network-simulation-game-2096362653480562751) · [查看原帖](https://x.com/tomkrcha/status/2096362653480562751) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="tavern-with-working-staff-and-guests-2096358854275543457"></a>
+
+### 有员工与顾客互动的酒馆
+
+[Rogue](https://x.com/Rogue0114) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457"><img src="../assets/previews/6389acc24bfea29710e1f6ee3a5f2347a281dd7c82f1df5efeecdb04c6b72846.webp" width="840" loading="lazy" alt="有员工与顾客互动的酒馆"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据参考图重建酒馆，加入顾客与员工。让顾客点餐点酒、员工准备食物和饮品，并实现碰撞处理与寻路。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/tavern-with-working-staff-and-guests-2096358854275543457) · [查看原帖](https://x.com/Rogue0114/status/2096358854275543457) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096354461652488562"></a>
+
+### 可玩的3D乐团与音频同步动画
+
+[Generator](https://x.com/groovestreetgen) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096354461652488562"><img src="../assets/previews/088da2681d256ad02525045b2479300d137223f3601b683f4694d994e4b2df86.webp" width="840" loading="lazy" alt="可玩的3D乐团与音频同步动画"></a>
+
+**提示词**
+
+```text
+创作一段原创短篇作品，并打造一个可玩的3D乐团。根据音频时间驱动动画。加入时间轴定位、慢动作、摄像机控制、MIDI和源文件。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Compose an original short piece and build a playable 3D ensemble. Drive animation from audio time. Include seeking, slow motion, camera controls, MIDI and source.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096354461652488562) · [查看原帖](https://x.com/groovestreetgen/status/2096354461652488562) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096342420543660277"></a>
+
+### 从角色概念到 3D 建模、绑定与动画
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096342420543660277"><img src="../assets/previews/f5dbae2ddf345d90f4be753348bf11f87da7bbdbb5fcda8d0cd140e7df348c66.webp" width="840" loading="lazy" alt="从角色概念到 3D 建模、绑定与动画"></a>
+
+**提示词**
+
+```text
+使用 GPT-6 Astra 接管我的电脑，并完成以下操作：
+
+1. 使用 Higgsfield Soul 2.0 设计角色概念，
+
+2. 制作带纹理的角色3D模型，
+
+3. 将其导入 Blender，
+
+4. 对网格进行重拓扑，
+
+5. 创建 UV 映射，
+
+6. 创建角色骨骼绑定，
+
+7. 评估模型是否达到制作就绪状态，
+
+8. 如果对结果不满意，重新执行之前的步骤，
+
+9. 然后使用 Higgsfield 上的 Seedance 2.5 将其制作成卡通动画
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Take control of my computer using GPT-6 Astra and do the following: 
+
+1. design a character concept using Higgsfield Soul 2.0, 
+
+2. build a textured 3D model of it, 
+
+3. import it into Blender, 
+
+4. retopologize the mesh, 
+
+5. create a UV map, 
+
+6. build a character rig, 
+
+7. evaluate how production-ready the model is, 
+
+8. redo previous steps if you're not satisfied with results,
+
+9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096342420543660277) · [查看原帖](https://x.com/higgsfield_ai/status/2096342420543660277) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="orbital-solar-system-explorer-2096339041679442428"></a>
 
 ### Orbital 太阳系探索
@@ -1589,116 +1746,7 @@ First define the full gameply loop and level designs and stuff for this game int
 
 ---
 
-<a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
-### WebGL 黑洞形成演示
+[完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 10** · [→](catalog.zh.6.md)
 
-[ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen) · 2026-09-05 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/black-hole-formation-in-webgl-2096093614397170104"><img src="../assets/previews/b9d688b75c97ca4dad12b012a0f4c4da1e117240003265ac584dea17a8aef473.webp" width="840" loading="lazy" alt="WebGL 黑洞形成演示"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-制作介绍黑洞形成的教学幻灯片，使用 WebGL 动态 3D 场景配合说明。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/black-hole-formation-in-webgl-2096093614397170104) · [查看原帖](https://x.com/zeeeeeen/status/2096093614397170104) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096083014845636816"></a>
-
-### Blender 未来风格摩托车与坦克建模
-
-[ステスロス@2号機](https://x.com/StelsRay2) · 2026-09-05 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096083014845636816"><img src="../assets/previews/ad6fa1159056b0cabc28c1cc29f5ca494526dcb078475e38258fc8466b028925.webp" width="840" loading="lazy" alt="Blender 未来风格摩托车与坦克建模"></a>
-
-**提示词**
-
-```text
-模型能力评测
-使用 Blender 创建一辆未来风格的摩托车、一辆未来风格的坦克，以及用于展示镜头的配套背景，优先考虑设计和外观。截取多个角度的屏幕截图。还应支持 MCP，但应选择能够带来最高质量效果的工作流程。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-モデル性能評価試験
-blenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096083014845636816) · [查看原帖](https://x.com/StelsRay2/status/2096083014845636816) · [返回案例导航](#all-prompts)
-
----
-
-<a id="exploding-procedural-train-assemblies-2096082580554777041"></a>
-
-### 可拆解的程序化火车组件
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-05 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041"><img src="../assets/previews/1137bdfb2ccdce1718d42c802e38685079851f7f67902dd8261ce4d6950ae34a.webp" width="840" loading="lazy" alt="可拆解的程序化火车组件"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据尺寸、截面和几何函数在 Three.js 中生成两列火车，制作车轮动画，提供爆炸分解与重组展示。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploding-procedural-train-assemblies-2096082580554777041) · [查看原帖](https://x.com/tomkrcha/status/2096082580554777041) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-globe-dashboard-2096082432197837065"></a>
-
-### 交互式地球仪仪表盘
-
-[Kai](https://x.com/hqmank) · 2026-09-05 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-globe-dashboard-2096082432197837065"><img src="../assets/previews/88cd3bdf9e5ad4d3f4673492b8fc8cf7e45cdbb5919f774544d011279d309ca1.webp" width="840" loading="lazy" alt="交互式地球仪仪表盘"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据参考图重建 Three.js 地球仪仪表盘，包含昼夜模式、清晰地理数据与符合参考的可用控件。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-globe-dashboard-2096082432197837065) · [查看原帖](https://x.com/hqmank/status/2096082432197837065) · [返回案例导航](#all-prompts)
-
----
-
-<a id="schematic-pdf-to-pcb-and-3d-view-2096079976433082502"></a>
-
-### 原理图 PDF 转 PCB 与 3D 视图
-
-[Titlist400](https://x.com/swjtutl) · 2026-09-05 · GPT-6 Astra · 其他
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502"><img src="../assets/previews/2cd4635703d7d28aedf1f6ae610e3aea090393cb391e22ce4a71af52ef157903.webp" width="840" loading="lazy" alt="原理图 PDF 转 PCB 与 3D 视图"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据原理图 PDF 在 KiCad 中修改电路，布线 50×20 毫米双层 PCB 并渲染 3D 装配，核对元件资料并解决设计规则错误。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [查看原帖](https://x.com/swjtutl/status/2096079976433082502) · [返回案例导航](#all-prompts)
-
----
-
-
-[完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 9** · [→](catalog.zh.6.md)
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 447 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>

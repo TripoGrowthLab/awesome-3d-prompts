@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 2 / 9
+# Awesome 3D Prompts — 2 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.2.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.1.md) · **2 / 9** · [→](catalog.zh-Hant.3.md)
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.1.md) · **2 / 10** · [→](catalog.zh-Hant.3.md)
 
 <a id="all-prompts"></a>
 
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [以圖片為基礎的手球場 360 度 3D 渲染](#claude-opus-5-5-2102544406117286004)
+- [從影像打造程序化 Three.js 3D 主選單背景](#claude-opus-5-5-2102544196808667471)
+- [自動運行的 3D 魯布・戈德堡機械](#claude-opus-5-5-2102544078927741369)
+- [互動式彼得兔風格農場動物遊戲](#claude-opus-5-5-2102538762731565085)
+- [電影感互動式夕陽海盜船](#claude-opus-5-5-2102533729746882985)
 - [無限程序生成的 Three.js 世界](#claude-opus-5-5-2102529695908806728)
 - [含室內空間的兩層樓郊區住宅](#gpt-6-astra-2102473710724919614)
 - [互動式人群疏散模擬](#claude-opus-5-5-2102467667978572092)
@@ -73,13 +78,203 @@
 - [可互動火山島與逃離中的船隻](#gpt-6-astra-2099643231659012553)
 - [建立飯店走廊場景](#gpt-6-astra-2099588840419651890)
 - [戰士攀上巨人並重擊其下顎](#gpt-6-astra-2099519801139908951)
-- [充滿超高摩天大樓的 3D 世界](#gpt-6-astra-2099487024256589970)
-- [200 個多邊形以下的針葉樹模型](#gpt-6-astra-2099472264270102705)
-- [互動式 3D 武士森林場景](#gpt-6-astra-2099450933067612421)
-- [可遊玩的 3D 障礙賽道](#gpt-6-astra-2099419671481249851)
-- [具備防撞功能的自動模型鐵路](#gpt-6-astra-2099362575339372780)
 
 </details>
+<a id="claude-opus-5-5-2102544406117286004"></a>
+
+### 以圖片為基礎的手球場 360 度 3D 渲染
+
+[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="以圖片為基礎的手球場 360 度 3D 渲染"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
+
+**提示詞**
+
+```text
+將圖片中的手球場、球門、裁判、選手與球進行 3D 渲染，讓人可以從 360 度自由角度觀看。請精準重現每位人物的姿勢，以及物體的色彩。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544406117286004) · [查看原文](https://x.com/chikaidev/status/2102545257372213581) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### 從影像打造程序化 Three.js 3D 主選單背景
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="從影像打造程序化 Three.js 3D 主選單背景"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**提示詞**
+
+```text
+在單一 HTML 檔案中，以 Three.js 3D 完美重現這個完全程序化、具動畫效果的主選單背景
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544196808667471) · [查看原文](https://x.com/majidmanzarpour/status/2102544198335373576) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### 自動運行的 3D 魯布・戈德堡機械
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="自動運行的 3D 魯布・戈德堡機械"></a>
+
+**提示詞**
+
+```text
+在目前目錄中，將一台會自行運轉的 3D 魯布・戈德堡機械建立為單一且自包含的 index.html。
+
+連鎖流程依序如下：
+1. 從頂端釋放一顆彈珠，讓它沿著一連串的鋸齒形斜坡滾下。
+2. 彈珠撞倒一排至少 12 塊骨牌。
+3. 最後一塊骨牌壓下翹翹板，將一顆小球彈進懸掛的桶子。
+4. 桶子的重量將它向下拉；桶子的繩索繞過滑輪並猛拉一口鐘，使鐘明顯地擺動。
+5. 同一個動作會將旗幟沿著旗桿升起。旗幟升至頂端即為完成。
+
+規則：
+- 自行撰寫物理系統：不得使用物理函式庫。彈珠釋放後的所有運動都必須來自你的模擬（剛體、碰撞、約束、繩索／滑輪）。機械的任何部件都不得使用關鍵影格動畫或補間動畫來驅動運動。
+- 可從 CDN 載入 three.js 以進行渲染。不得使用其他外部資源：不可使用圖片、模型或字型。
+- 不得需要使用者輸入：頁面載入時自動開始，使用跟隨動作的電影感攝影機，並在約 15–20 秒內完成整個連鎖流程。旗幟升起後停留 2 秒，接著重設並重新播放。
+- 具確定性：使用固定時間步長，且不得使用未設種子的隨機性，讓每次執行看起來都一樣。
+- 填滿瀏覽器視窗。畫面會以 1280×720 進行螢幕錄影。
+- 不得顯示任何螢幕文字或任何形式的使用者介面。
+- 打造良好的視覺效果：加入燈光、陰影、材質，以及能讓整體感覺像真實機械裝置的場景。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544078927741369) · [查看原文](https://x.com/leogao25/status/2102544081863717153) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### 互動式彼得兔風格農場動物遊戲
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="互動式彼得兔風格農場動物遊戲"></a>
+
+**提示詞**
+
+```text
+「使用《彼得兔》的設計／美術風格，建立一款互動式農場動物遊戲」
+主選單＝音效開／關＋動物選擇器（馬、豬、牛、貓、狗）
+Esc＝暫停：重設並返回出生點／主選單／
+使用 WASD 四處移動
+按空白鍵跳躍；靠近其他動物時可與牠們互動
+偵測到接近時，隨機觸發互動
+互動可以是對其他動物發出聲音（不同於牠們平時的被動叫聲），或「輕碰牠們」
+可互動的物件：飲水、吃乾草、吃水果。
+第三人稱視角，但鏡頭要稍微位於動物後方並高於動物
+環境中的動物包括鳥類；天空中會隨機出現飛機
+場景＝農田、穀倉，以及有房屋的農村（不能進入房屋）
+準備足以吸引注意力的資產，但不必多到被視為正式製作等級；這只是想在一天中抽出 15 分鐘，和女兒一起玩得開心
+React、SVG、JS、WebGL、Three.js，凡是能讓遊戲感覺「好玩」所需的一切」
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102538762731565085) · [查看原文](https://x.com/blaso96/status/2102538764749037738) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### 電影感互動式夕陽海盜船
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="電影感互動式夕陽海盜船"></a>
+
+**提示詞**
+
+```text
+從零開始建立一個完全可互動的 3D 海盜船場景，呈現海盜船在夕陽下穿越動態海面的情景。視覺風格應具電影感與風格化特色，而非追求寫實，但仍須極其豐富、細緻、精緻且具高度視覺質感。製作船體、海面、天空、燈光、材質、船帆、骨架綁定、火砲、細小結構細節、海沫、尾流、粒子、動畫、鏡頭運動、構圖、空氣透視與色彩分級。最終成果應呈現高級、高製作水準的 3D 藝術作品，而不是原型、技術展示或低品質場景。從完全空白的頁面開始。不要重複使用或依賴任何先前的專案或場景。必要時，可以自行製作資產，或使用可靠、值得信賴的開源資產與函式庫。強制要求：場景內任何位置都不得出現任何形式的文字。不得出現任何語言的標題、名稱、標誌、描述、製作人員名單、標籤或操作說明。將整個專案交付為一個最終的獨立頁面檔案，可直接在網頁瀏覽器中開啟，並在合理可行的範圍內將資產嵌入其中。海面、船隻、船帆與鏡頭都必須自然且流暢地動態呈現。避免人為的慢動作或遲滯的移動。船隻應讓人感覺確實正在水中航行。不要以原始幾何形狀作為最終成果。製作具視覺說服力且細節豐富的海盜船，包括經過仔細塑形的船體、桅杆、船帆、骨架綁定、繩索、火砲、欄杆、提燈、甲板結構，以及清楚可見的小尺度細節。燈光必須清楚呈現船隻的幾何結構與材質。營造豐富的夕陽氛圍、深邃的海面明暗、反射、可信的海沫，以及船隻後方與周圍細節豐富的航行尾流。在視覺品質與即時效能之間維持良好平衡，確保互動與動畫流暢，不要為了效能而明顯犧牲品質。自動運用達成最佳成果所需的適當技能、工具、函式庫、技術與可用資產。不要等我指定要使用哪些技術。實際在桌面網頁瀏覽器中測試完成的成果。擷取視覺畫面、檢查瀏覽器主控台是否有錯誤，並修正你發現的每一項可見或技術問題，包括變形的幾何結構、黑畫面、資產載入失敗、動畫故障、構圖不佳、渲染瑕疵或鏡頭問題。最後，確認最終檔案能直接開啟並正常運作、場景完全不含任何文字，且不再有任何執行階段或載入錯誤。接著僅以簡短回覆結束任務。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102533729746882985) · [查看原文](https://x.com/vib3coded/status/2102534606121746589) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102529695908806728"></a>
 
 ### 無限程序生成的 Three.js 世界
@@ -2398,142 +2593,7 @@ music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
 
 ---
 
-<a id="gpt-6-astra-2099487024256589970"></a>
 
-### 充滿超高摩天大樓的 3D 世界
-
-[Bilal Arshad](https://x.com/MohdBilalArshad) · 2026-09-14 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099487024256589970"><img src="../assets/previews/70cbc31ad17e4f97a3a5d9d8e3ce646ff30f91f1727ce9b39e5f398de2c7d8d1.webp" width="840" loading="lazy" alt="充滿超高摩天大樓的 3D 世界"></a>
-
-**提示詞**
-
-```text
-建立一個充滿超高摩天大樓的 3D 世界
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-build a 3D world full of very high skyscrapers
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099487024256589970) · [查看原文](https://x.com/MohdBilalArshad/status/2099487024256589970) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099472264270102705"></a>
-
-### 200 個多邊形以下的針葉樹模型
-
-[わたもす / ゲーム制作](https://x.com/Watamos827) · 2026-09-14 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099472264270102705"><img src="../assets/previews/a5f27df42c276cb06417e03db609d8ad050116a1bd0b169d50e6c60862fa8dc5.webp" width="840" loading="lazy" alt="200 個多邊形以下的針葉樹模型"></a>
-
-**提示詞**
-
-```text
-可以試著製作一棵面數不超過 200 個多邊形的針葉樹嗎？
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-200ポリゴン以下で針葉樹を作ってみてくれませんか？
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099472264270102705) · [查看原文](https://x.com/Watamos827/status/2099472264270102705) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099450933067612421"></a>
-
-### 互動式 3D 武士森林場景
-
-[Jaynit Makwana](https://x.com/JaynitMakwana) · 2026-09-14 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099450933067612421"><img src="../assets/previews/023fc664e83e59335692255f1590e91915889a3e31214a5b3b4556623ce80c56.webp" width="840" loading="lazy" alt="互動式 3D 武士森林場景"></a>
-
-**提示詞**
-
-```text
-打造一個以森林中的武士為主角的互動式 3D 場景，加入鏡頭控制、電影感光影、環境細節，以及簡潔俐落的呈現方式。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build an interactive 3D scene featuring a samurai in a forest, with camera controls, cinematic lighting, environmental details, and a clean presentation.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099450933067612421) · [查看原文](https://x.com/JaynitMakwana/status/2099450933067612421) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099419671481249851"></a>
-
-### 可遊玩的 3D 障礙賽道
-
-[Dhaval Makwana](https://x.com/heyDhavall) · 2026-09-14 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099419671481249851"><img src="../assets/previews/d19e4ae1e9087218e9bfee0cfe5742fa941e07e442d98e7ff0e7e4e9993070af.webp" width="840" loading="lazy" alt="可遊玩的 3D 障礙賽道"></a>
-
-**提示詞**
-
-```text
-一個小型 3D 障礙賽道，包含角色、移動障礙物、可收集物與簡易終點區域。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-A small 3D obstacle course with a character, moving barriers, collectible objects, and a simple goal area.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099419671481249851) · [查看原文](https://x.com/heyDhavall/status/2099419671481249851) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099362575339372780"></a>
-
-### 具備防撞功能的自動模型鐵路
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-14 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099362575339372780"><img src="../assets/previews/c0307d4bbd0374560f7a02c9e9b49513fe4d03c28849a27be8a9c99781269950.webp" width="840" loading="lazy" alt="具備防撞功能的自動模型鐵路"></a>
-
-**提示詞**
-
-```text
-建立一套模型鐵路，至少讓三列火車同時在包含轉轍器與號誌的共用軌道路線上運行。火車必須自行切換軌道，並在號誌前停車，確保彼此永不碰撞，過程中不得需要使用者輸入。路線配置、場景與所有元素的外觀皆由你決定。設計的每個部分都由你選擇，包括風格、色彩、氛圍、環境、鏡頭、細節程度及任何額外的點綴。不必向我提問，請自行做出所有決定，並在單次嘗試中製作出最具震撼力的版本。技術要求：使用單一、完整自足的 HTML 檔案，不得使用任何外部模型、圖片、音效或資源 URL（從 CDN 載入的 JavaScript 函式庫除外）。載入後必須立即自行開始運行，不需要任何點擊，且須流暢執行，不得出現主控台錯誤。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a model railway with at least three trains running at the same time on a shared track layout that includes junctions and signals. The trains must switch tracks and stop at signals on their own so they never collide, without any input from the user. The layout, the setting, and the look of everything are up to you. Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt. Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2099362575339372780) · [查看原文](https://x.com/free_ai_guides/status/2099362575339372780) · [返回案例導覽](#all-prompts)
-
----
-
-
-[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.1.md) · **2 / 9** · [→](catalog.zh-Hant.3.md)
+[完整目錄](catalog.zh-Hant.md) · [←](catalog.zh-Hant.1.md) · **2 / 10** · [→](catalog.zh-Hant.3.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/zh-Hant/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">完整目錄 →</a></strong></p>

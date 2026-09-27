@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**447 examples · 6 models · 14 languages · 17 with source code**
+**452 examples · 6 models · 14 languages · 17 with source code**
 
-[Browse by category](#categories) · [Browse by model](#models) · [Source code](with-code.md) · [1](../docs/catalog.en.1.md) · [2](../docs/catalog.en.2.md) · [3](../docs/catalog.en.3.md) · [4](../docs/catalog.en.4.md) · [5](../docs/catalog.en.5.md) · [6](../docs/catalog.en.6.md) · [7](../docs/catalog.en.7.md) · [8](../docs/catalog.en.8.md) · [9](../docs/catalog.en.9.md)
+[Browse by category](#categories) · [Browse by model](#models) · [Source code](with-code.md) · [1](../docs/catalog.en.1.md) · [2](../docs/catalog.en.2.md) · [3](../docs/catalog.en.3.md) · [4](../docs/catalog.en.4.md) · [5](../docs/catalog.en.5.md) · [6](../docs/catalog.en.6.md) · [7](../docs/catalog.en.7.md) · [8](../docs/catalog.en.8.md) · [9](../docs/catalog.en.9.md) · [10](../docs/catalog.en.10.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Games · 121
+### Games · 122
 
+- [Minecraft-style voxel game with advanced shaders](../docs/catalog.en.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox survival game](../docs/catalog.en.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Genshin Impact–style game set in San Francisco](../docs/catalog.en.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Crazy Tanks — 3D Island Artillery](../docs/catalog.en.1.md#crazy-tanks-3d-island-artillery) · [jared](https://x.com/jaredliu_bravo)
@@ -40,7 +41,7 @@
 - [First-person burger simulator](../docs/catalog.en.1.md#gpt-6-astra-2102897258983313712) · [noclipepe](https://x.com/noclipepe)
 - [CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City](../docs/catalog.en.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [3D kart racer in a single HTML file](../docs/catalog.en.1.md#gpt-6-astra-2102652927177617564) · [Anshul](https://x.com/realanshull)
-- [Interactive Peter Rabbit-style farm animal game](../docs/catalog.en.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Interactive Peter Rabbit-style farm animal game](../docs/catalog.en.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Endless procedurally generated Three.js world](../docs/catalog.en.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Battle City 3D: Endless Tank Defense](../docs/catalog.en.2.md#battle-city-3d) · [jared](https://x.com/jaredliu_bravo)
 - [A Tower Defense Game Inspired by Sir, We Have Orc Problems](../docs/catalog.en.2.md#gpt-6-astra-2102411087002112256) · [nkz/ぴたすぽ](https://x.com/nikzu_)
@@ -55,7 +56,7 @@
 - [The Cyclops' Island](../docs/catalog.en.2.md#cyclops-island-threejs-game) · [Jared](https://x.com/jaredliu_bravo)
 - [PC Splatoon Development and Graphics Recreation](../docs/catalog.en.2.md#gpt-6-astra-2100193512373592313) · [basio](https://x.com/basio39)
 - [Reachable procedural space exploration game](../docs/catalog.en.2.md#gpt-6-astra-2099785223827259515) · [developers.openai.com](https://developers.openai.com/)
-- [Playable 3D Obstacle Course](../docs/catalog.en.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [Playable 3D Obstacle Course](../docs/catalog.en.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
 - [Playable 3D browser shore-district slice](../docs/catalog.en.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
 - [Skybound browser flight game](../docs/catalog.en.3.md#gpt-6-astra-2098739181510164652) · [Aakash Kanojiya](https://x.com/Kanojiyaaakash1)
 - [DEVICE: A Photorealistic 3D Puzzle Game That Uses the Smartphone Itself](../docs/catalog.en.3.md#gpt-6-astra-2098715488369152087) · [ひまねこ](https://x.com/00Nekonet)
@@ -121,7 +122,7 @@
 - [GTA-style open-world multiplayer prototype](../docs/catalog.en.7.md#gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Matt Shumer](https://x.com/mattshumer_)
 - [Comic-book Three.js cowboy game](../docs/catalog.en.7.md#comic-book-three-js-cowboy-game-2095180091257209148) · [smallzer0](https://x.com/Smallzero)
 - [Human versus unaligned AGI game](../docs/catalog.en.7.md#human-versus-unaligned-agi-game-2095180071221002441) · [Lucas Bai](https://x.com/lucasybai)
-- [Multiplayer pirate world in Three.js](../docs/catalog.en.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Multiplayer pirate world in Three.js](../docs/catalog.en.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Native C++ souls-like game](../docs/catalog.en.8.md#native-c-souls-like-game-2095053114600755576) · [wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz)
 - [Playable 3D Snakes and Ladders](../docs/catalog.en.8.md#playable-3d-snakes-and-ladders-2095050993184669825) · [KC](https://x.com/karanC_12)
 - [Complete Unity tennis game](../docs/catalog.en.8.md#complete-unity-tennis-game-2095021275236495408) · [Chong-U](https://x.com/chongdashu)
@@ -130,10 +131,10 @@
 - [Mini Militia-style browser game](../docs/catalog.en.8.md#mini-militia-style-browser-game-2094900523900219725) · [Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec)
 - [Three compact physics game concepts](../docs/catalog.en.8.md#three-compact-physics-game-concepts-2094895071304839400) · [Atomic Agent](https://x.com/atomicagent_io)
 - [AAA kart racing game in Three.js](../docs/catalog.en.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/) · GitHub
-- [AAA horde shooter with WebGL shaders](../docs/catalog.en.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [Playable Titanic disaster game](../docs/catalog.en.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [Multiplayer dinosaur survival game](../docs/catalog.en.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [Ten-minute Three.js game, then refined](../docs/catalog.en.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [AAA horde shooter with WebGL shaders](../docs/catalog.en.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [Playable Titanic disaster game](../docs/catalog.en.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [Multiplayer dinosaur survival game](../docs/catalog.en.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [Ten-minute Three.js game, then refined](../docs/catalog.en.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
 - [Need for Speed-style Godot game prompt](../docs/catalog.en.9.md#need-for-speed-style-godot-game-2082714235373584582) · [FHILY👑](https://x.com/Oluwaphilemon1)
 - [Playable combat game prompt for Kimi K3](../docs/catalog.en.9.md#playable-combat-game-2082507403598373134) · [Darshal Jaitwar](https://x.com/darshal_)
 - [Kimi K3 prompt for a League of Legends style 1v1 game in one HTML file](../docs/catalog.en.9.md#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Fokki](https://x.com/0x_fokki)
@@ -157,8 +158,10 @@
 
 <a id="category-3d-scenes"></a>
 
-### Scenes · 97
+### Scenes · 99
 
+- [Forest lake village environment](../docs/catalog.en.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [Voxel ship-in-a-bottle WebGL scene](../docs/catalog.en.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Voxel-style Japanese garden in Three.js](../docs/catalog.en.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Golden-hour Roman battlefield set piece](../docs/catalog.en.1.md#gpt-6-astra-2103351755971207251) · [tonysuri](https://x.com/tonysurix)
 - [STILLWATER — Moonlit Swamp Browser Experience](../docs/catalog.en.1.md#gpt-6-astra-2103308083242082314) · [YouWare](https://x.com/YouWareAI)
@@ -167,9 +170,9 @@
 - [Browser-Based Medieval European-Style 3D Castle](../docs/catalog.en.1.md#gpt-6-astra-2102780850706567390) · [もぎ＠ボードゲーム](https://x.com/luxurytax150)
 - [The Last Train cyberpunk megacity benchmark](../docs/catalog.en.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Medieval castle browser animation](../docs/catalog.en.1.md#gpt-6-astra-2102672926285713456) · [juhapalomaki.fi](https://juhapalomaki.fi/)
-- [360-Degree 3D Rendering of a Handball Court from an Image](../docs/catalog.en.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Procedural Three.js 3D main menu background from an image](../docs/catalog.en.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Cinematic interactive pirate ship at sunset](../docs/catalog.en.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [360-Degree 3D Rendering of a Handball Court from an Image](../docs/catalog.en.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Procedural Three.js 3D main menu background from an image](../docs/catalog.en.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Cinematic interactive pirate ship at sunset](../docs/catalog.en.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Two-story suburban house with interior](../docs/catalog.en.2.md#gpt-6-astra-2102473710724919614) · [Azer](https://x.com/azer0lxm)
 - [Tokyo Tower Day-and-Night 3D Scene and Video](../docs/catalog.en.2.md#gpt-6-astra-2102276620124062065) · [Wafffle](https://x.com/wafffle_dev)
 - [Complete Photorealistic 3D Environment](../docs/catalog.en.2.md#gpt-6-astra-2101224659861590399) · [Julian Goldie SEO](https://x.com/JulianGoldieSEO)
@@ -177,7 +180,7 @@
 - [Interactive 3D room scene with articulated furniture](../docs/catalog.en.2.md#gpt-6-astra-2100139076816916977) · [Wentao Zhu](https://x.com/walterzhu8)
 - [Create an Animated 3D Environment and Game Character from Reference Images](../docs/catalog.en.2.md#gpt-6-astra-2099850719839109597) · [妖精アーヤ](https://x.com/aiehon_aya)
 - [Create a hotel corridor scene](../docs/catalog.en.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
-- [3D world full of very high skyscrapers](../docs/catalog.en.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [3D world full of very high skyscrapers](../docs/catalog.en.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
 - [Reimagine Peach’s Castle in 3D](../docs/catalog.en.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [3D reconstruction of the 1893 Chicago World's Fair](../docs/catalog.en.3.md#gpt-6-astra-2098795017955418202) · [Dan Elton](https://x.com/moreisdifferent)
 - [Temple Miniature Diorama Scene](../docs/catalog.en.3.md#gpt-6-astra-2098403061463224543) · [Rion Wu](https://x.com/rionaifantasy)
@@ -185,9 +188,9 @@
 - [Backrooms-inspired Blender VHS scene](../docs/catalog.en.3.md#gpt-6-astra-2097534290112188602) · [CHRIS FIRST](https://x.com/chrisfirst)
 - [Cozy Wetland Lake World](../docs/catalog.en.3.md#gpt-6-astra-2097343467026289039) · [Givros](https://x.com/givros)
 - [Skyrim-Inspired Village Terrain from a Generated Reference](../docs/catalog.en.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
-- [A 12-Second Forest Road in Blender](../docs/catalog.en.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [Interactive Chinese Courtyard](../docs/catalog.en.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [“The Horizon Where Gravity Broke” — A VRChat Landscape World](../docs/catalog.en.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [A 12-Second Forest Road in Blender](../docs/catalog.en.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [Interactive Chinese Courtyard](../docs/catalog.en.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [“The Horizon Where Gravity Broke” — A VRChat Landscape World](../docs/catalog.en.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [Hogwarts 3D scene](../docs/catalog.en.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Children's room and workspace planner](../docs/catalog.en.4.md#children-s-room-and-workspace-planner-2096578684010508736) · [かのこ🌼AI×子育て×探究](https://x.com/dqlh47m)
 - [A house modeled from scratch in Blender](../docs/catalog.en.4.md#a-house-modeled-from-scratch-in-blender-2096576154337734865) · [みずくん](https://x.com/mizkun)
@@ -197,7 +200,7 @@
 - [Ezekiel’s Temple Vision in 3D](../docs/catalog.en.4.md#gpt-6-astra-2096547658164834788) · [KrixAi](https://x.com/KrixOnok)
 - [Top-floor plan to Blender preview](../docs/catalog.en.4.md#top-floor-plan-to-blender-preview-2096501340889374883) · [indigo](https://x.com/indigox)
 - [Walkable low-poly Gwacheon village](../docs/catalog.en.4.md#walkable-low-poly-gwacheon-village-2096490395614019793) · [Manas Joshi](https://x.com/ManasJoshi76254)
-- [Create and render a black hole in Blender](../docs/catalog.en.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Create and render a black hole in Blender](../docs/catalog.en.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
 - [Lisbon's Terreiro do Paço in Blender](../docs/catalog.en.5.md#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto)
 - [Dense procedural forest in Three.js](../docs/catalog.en.5.md#dense-procedural-forest-in-three-js-2096263046918197609) · [Leon Lin](https://x.com/LexnLin)
 - [Cluj-Napoca Union Square in voxels](../docs/catalog.en.5.md#cluj-napoca-union-square-in-voxels-2096262733259837681) · [Dan Manastireanu](https://x.com/danmana) · GitHub
@@ -215,8 +218,8 @@
 - [Single-turn Three.js naval war scene](../docs/catalog.en.6.md#single-turn-three-js-naval-war-scene-2095840435319001278) · [leo 🐾](https://x.com/synthwavedd)
 - [Starry Night streets you can stroll](../docs/catalog.en.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [Real house to editable 60 FPS Blender scene](../docs/catalog.en.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [Walkable town made from six Van Gogh paintings](../docs/catalog.en.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [Solace forest villa from brief to UE5](../docs/catalog.en.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [Walkable town made from six Van Gogh paintings](../docs/catalog.en.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [Solace forest villa from brief to UE5](../docs/catalog.en.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
 - [Floor plan to complete 3D walkthrough](../docs/catalog.en.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [Living voxel ship in a bottle](../docs/catalog.en.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Palace of Fine Arts Blender recreation](../docs/catalog.en.7.md#palace-of-fine-arts-blender-recreation-2095653641164329143) · [Sharif Shameem](https://x.com/sharifshameem)
@@ -232,8 +235,8 @@
 - [Procedural waterfall study](../docs/catalog.en.7.md#procedural-waterfall-study-2095510069047660636) · [Fede(URU) 🇺🇾](https://x.com/RealFedeURU)
 - [Aerie, a living voxel island](../docs/catalog.en.7.md#aerie-a-living-voxel-island-2095493630421340200) · [AI Guides](https://x.com/free_ai_guides)
 - [Frutiger Aero 3D world](../docs/catalog.en.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
-- [City from an equirectangular panorama](../docs/catalog.en.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Dragon lair scene in Blender](../docs/catalog.en.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [City from an equirectangular panorama](../docs/catalog.en.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Dragon lair scene in Blender](../docs/catalog.en.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Detailed 3D stadium recreation](../docs/catalog.en.8.md#detailed-3d-stadium-recreation-2095123216419459454) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [Living voxel world inside a bottle](../docs/catalog.en.8.md#living-voxel-world-inside-a-bottle-2095111213927510131) · [Vib3Coded](https://x.com/vib3coded)
 - [Interactive Three.js castle](../docs/catalog.en.8.md#interactive-three-js-castle-2095048818203275584) · [Jigs](https://x.com/debugsenpai)
@@ -271,7 +274,7 @@
 - [CAD itself a body](../docs/catalog.en.2.md#gpt-6-astra-2100614534423540102) · [vitalduval](https://x.com/vitalduval)
 - [Add a Maintenance Chain to a Handrail](../docs/catalog.en.2.md#gpt-6-astra-2100519026720231698) · [きのした](https://x.com/ujiden_type0)
 - [3D Apple-style heart and smiling emoji](../docs/catalog.en.2.md#gpt-6-astra-2099750376530657300) · [Sharon Riley](https://x.com/Just_sharon7)
-- [Conifer Model Under 200 Polygons](../docs/catalog.en.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [Conifer Model Under 200 Polygons](../docs/catalog.en.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
 - [UV Unwrapping and 4K Rebaking for a Headless Clothing Model](../docs/catalog.en.3.md#gpt-6-astra-2098980384260456813) · [さ🥺](https://x.com/_sagyoai)
 - [Modular 3D-Printed Picture Frame with Connectors](../docs/catalog.en.3.md#gpt-6-astra-2098774359926297011) · [wada](https://x.com/wada)
 - [Girl Playing with a Robot Figurine](../docs/catalog.en.3.md#gpt-6-astra-2098406473273663992) · [𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
@@ -286,7 +289,7 @@
 - [Looping water with Geometry Nodes](../docs/catalog.en.4.md#looping-water-with-geometry-nodes-2096521798150242631) · [黒曜陣](https://x.com/uB95A7tobA17057)
 - [YF-24 boat on a gentle 3D sea](../docs/catalog.en.4.md#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Yohei Matsumoto](https://x.com/yhmtmt1)
 - [Assemble and animate generated 3D assets](../docs/catalog.en.4.md#assemble-and-animate-generated-3d-assets-2096481425050743048) · [Stefan 3D AI](https://x.com/Stefan_3D_AI)
-- [Character Concept to Rigged 3D Model and Cartoon](../docs/catalog.en.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Character Concept to Rigged 3D Model and Cartoon](../docs/catalog.en.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Photorealistic Editable Dragon Reconstruction in Blender](../docs/catalog.en.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
 - [Procedural Napoleon bust](../docs/catalog.en.5.md#procedural-napoleon-bust-2096234355395903672) · [Le PLOUTOS](https://x.com/leploutos)
 - [Reference-image tugboat assembly](../docs/catalog.en.5.md#reference-image-tugboat-assembly-2096180220839760375) · [Alex](https://x.com/NarvisAlex)
@@ -295,13 +298,13 @@
 - [Formula One car in Blender](../docs/catalog.en.5.md#formula-one-car-in-blender-2096125193580113957) · [Conor Dart](https://x.com/Conor_D_Dart)
 - [Artwork to a playable character](../docs/catalog.en.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Azadi Tower in Blender](../docs/catalog.en.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
-- [Futuristic Motorcycle and Tank in Blender](../docs/catalog.en.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Futuristic Motorcycle and Tank in Blender](../docs/catalog.en.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
 - [Single-view power drill reconstruction](../docs/catalog.en.6.md#single-view-power-drill-reconstruction-2096059736693305794) · [Utah teapot 🫖](https://x.com/SkyeSharkie)
 - [TP-7 recorder reference model](../docs/catalog.en.6.md#tp-7-recorder-reference-model-2096013228090245181) · [Tykra](https://x.com/ty_kra_lab)
 - [Rigged Mech from Multiple Reference Images](../docs/catalog.en.6.md#gpt-6-astra-2095975726558392570) · [Vatroslav Vrbanić](https://x.com/vatro_vrbanic)
 - [Mechanically complete Blender locomotive](../docs/catalog.en.6.md#mechanically-complete-blender-locomotive-2095868420327710840) · [sheemamoto](https://x.com/sheemamoto)
 - [Recipe-to-3D cheesecake film](../docs/catalog.en.6.md#recipe-to-3d-cheesecake-film-2095829851206774987) · [سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976)
-- [Steam-train drawing to editable Blender assembly](../docs/catalog.en.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [Steam-train drawing to editable Blender assembly](../docs/catalog.en.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
 - [Printable USS Enterprise CAD assembly](../docs/catalog.en.7.md#printable-uss-enterprise-cad-assembly-2095641163441254676) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Articulated printable action figure](../docs/catalog.en.7.md#articulated-printable-action-figure-2095481098201387287) · [Max Blade](https://x.com/_MaxBlade)
 - [Corporate interceptor drone asset](../docs/catalog.en.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -343,7 +346,7 @@
 - [Interactive apartment walkthrough with tile options](../docs/catalog.en.2.md#gpt-6-astra-2100222426705453318) · [Shimecki](https://x.com/scheemunai)
 - [Interactive 3D organism nervous-system panel](../docs/catalog.en.2.md#gpt-6-astra-2099719427990134984) · [AiMind](https://x.com/AIMind_Ai)
 - [Interactive volcanic island with fleeing boats](../docs/catalog.en.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
-- [Interactive 3D Samurai Forest Scene](../docs/catalog.en.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [Interactive 3D Samurai Forest Scene](../docs/catalog.en.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
 - [Interactive 3D Anatomy Explorer](../docs/catalog.en.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Chernobyl Atlas](../docs/catalog.en.3.md#gpt-6-astra-2098841316591346006) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Interactive 3D Koi Pond](../docs/catalog.en.3.md#gpt-6-astra-2098492771170722032) · [Vib3Coded](https://x.com/vib3coded)
@@ -354,8 +357,8 @@
 - [Interactive 3D particle collider](../docs/catalog.en.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Immersive 3D rice-field website](../docs/catalog.en.3.md#gpt-6-astra-2097602565110419781) · [YouWare](https://x.com/YouWareAI)
 - [Temple of Heaven Hall of Prayer for Good Harvest — TypeScript + Three.js WebGL Project](../docs/catalog.en.3.md#gpt-6-astra-2097323734504017936) · [govin.eth \| G哥](https://x.com/goan999999)
-- [Interactive jelly lemon tree](../docs/catalog.en.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [Interactive Robot Pet on a Workbench](../docs/catalog.en.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [Interactive jelly lemon tree](../docs/catalog.en.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [Interactive Robot Pet on a Workbench](../docs/catalog.en.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Endless Miniature Street in Three.js WebGPU](../docs/catalog.en.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [Interactive Smartphone Exploded View](../docs/catalog.en.4.md#gpt-6-astra-2096685163111694556) · [Zaira Laraib](https://x.com/zairalaraib_)
 - [Exploded desktop-computer atlas](../docs/catalog.en.4.md#exploded-desktop-computer-atlas-2096578761877860502) · [cooper](https://x.com/icooperhero)
@@ -363,7 +366,7 @@
 - [Interactive dual-ring energy core](../docs/catalog.en.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng) · GitHub
 - [Personal room as an interactive portfolio](../docs/catalog.en.4.md#personal-room-as-an-interactive-portfolio-2096506357868642342) · [Kalan ◂Ⓘ▸](https://x.com/kalanyei)
 - [Playable D4-inspired apartment](../docs/catalog.en.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Playable 3D Ensemble with Audio-Synchronized Animation](../docs/catalog.en.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [Playable 3D Ensemble with Audio-Synchronized Animation](../docs/catalog.en.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
 - [Orbital solar-system explorer](../docs/catalog.en.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [Bioluminescent deep-sea landing page](../docs/catalog.en.5.md#bioluminescent-deep-sea-landing-page-2096269057544831175) · [Himanshu Hingorani](https://x.com/himanshubuildss)
 - [Interactive Hyperloop demo](../docs/catalog.en.5.md#interactive-hyperloop-demo-2096250748099068377) · [Amir](https://x.com/hbanay98)
@@ -375,8 +378,8 @@
 - [Interactive Pelican Riding a Bicycle](../docs/catalog.en.5.md#gpt-6-astra-2096213850383331489) · [AI Builder Club](https://x.com/aibuilderclub_)
 - [A playful toddler toy world](../docs/catalog.en.5.md#a-playful-toddler-toy-world-2096201415051911597) · [AI少年](https://x.com/aehyok)
 - [Walkable office with 32 animated people](../docs/catalog.en.5.md#walkable-office-with-32-animated-people-2096131961345720477) · [Parithosh-varma](https://x.com/demgufever82151) · GitHub
-- [Black-hole formation in WebGL](../docs/catalog.en.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Interactive globe dashboard](../docs/catalog.en.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [Black-hole formation in WebGL](../docs/catalog.en.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Interactive globe dashboard](../docs/catalog.en.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
 - [Sinclair ZX Spectrum simulator](../docs/catalog.en.6.md#sinclair-zx-spectrum-simulator-2096062355692048605) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Personal 3D portfolio with a speaking globe](../docs/catalog.en.6.md#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Shivay Lamba](https://x.com/HowDevelop)
 - [Tesla Model X exploded view](../docs/catalog.en.6.md#tesla-model-x-exploded-view-2096009146248122416) · [ashe](https://x.com/ashebytes)
@@ -388,15 +391,15 @@
 - [Oval Office through the presidencies](../docs/catalog.en.6.md#oval-office-through-the-presidencies-2095830596069290077) · [Min Zhou](https://x.com/fMinZhou)
 - [Interactive Three.js galaxy homepage](../docs/catalog.en.6.md#interactive-three-js-galaxy-homepage-2095806515579879457) · [Three.js Resources](https://x.com/threejsresource)
 - [Real-time WebGL galaxy launch hero](../docs/catalog.en.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
-- [Exploded interactive 3D turbocharger](../docs/catalog.en.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [Driveable childhood train table](../docs/catalog.en.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [Exploded interactive 3D turbocharger](../docs/catalog.en.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [Driveable childhood train table](../docs/catalog.en.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [Interactive voxel railway table](../docs/catalog.en.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Photoreal 3D product mockup studio](../docs/catalog.en.7.md#photoreal-3d-product-mockup-studio-2095619319690400253) · [Josh Millgate](https://x.com/joshmillgate)
 - [One-shot premium interactive prototype](../docs/catalog.en.7.md#one-shot-premium-interactive-prototype-2095597560253862065) · [AJ Orbach 🐳](https://x.com/AY_Orbach)
 - [Exploding AI server rack visualization](../docs/catalog.en.7.md#exploding-ai-server-rack-visualization-2095193022304792938) · [Kyle Jeong](https://x.com/kylejeong)
 - [Ten-scene cinematic Renaissance website](../docs/catalog.en.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [Virtual island with a pet goat](../docs/catalog.en.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [Interactive 3D solar system](../docs/catalog.en.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [Virtual island with a pet goat](../docs/catalog.en.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [Interactive 3D solar system](../docs/catalog.en.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
 - [Interactive shader-driven Dino-dex](../docs/catalog.en.8.md#interactive-shader-driven-dino-dex-2095121568297083067) · [Benji Viz](https://x.com/_Benviz)
 - [Gundam-inspired mecha showcase](../docs/catalog.en.8.md#gundam-inspired-mecha-showcase-2095106919530930221) · [Crayon](https://x.com/usecrayon)
 - [Reference-driven Three.js portfolio](../docs/catalog.en.8.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo) · GitHub
@@ -404,17 +407,19 @@
 - [NIGHTBAND interactive shortwave radio](../docs/catalog.en.8.md#nightband-interactive-shortwave-radio-2095026928210346175) · [Neo](https://x.com/NeoAIForecast)
 - [Voxel village with thinking NPCs](../docs/catalog.en.8.md#voxel-village-with-thinking-npcs-2094930970675741171) · [Tech2Wild](https://x.com/Tech2Wild)
 - [Interactive 3D human brain signals](../docs/catalog.en.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
-- [Glass brain capability demo](../docs/catalog.en.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [Glass brain capability demo](../docs/catalog.en.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Single-file 3D Sun visualizer prompt for Claude Opus 5](../docs/catalog.en.9.md#single-file-3d-sun-visualizer-2082461416049525077) · [AlysisAI](https://x.com/AlysisAI)
 - [Claude Fable 5 prompt for an infinite Three.js paper machine](../docs/catalog.en.9.md#infinite-three-js-paper-machine-2081533777340506251) · [0xMarioNawfal](https://x.com/RoundtableSpace)
 - [Prompt for adding a Vespa 125 to a 3D configurator](../docs/catalog.en.9.md#vespa-125-3d-configurator-2081439705506435440) · [Raf Lorenz](https://x.com/rafintheloop)
 - [Three.js prompt for a Leonardo da Vinci ornithopter in Claude Opus 5](../docs/catalog.en.9.md#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Harshith](https://x.com/HarshithLucky3)
-- [Three.js airplane walkthrough experience prompt](../docs/catalog.en.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Three.js airplane walkthrough experience prompt](../docs/catalog.en.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 82
+### Animation · 84
 
+- [Polished 15-second motion-design graphic video](../docs/catalog.en.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify-themed motion graphics video](../docs/catalog.en.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dynamic 15-second motion-design showreel](../docs/catalog.en.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Cycle of life motion-graphics animation](../docs/catalog.en.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Interactive 3D ocean rocket launch sequence](../docs/catalog.en.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -429,7 +434,7 @@
 - [Tripo 3D Promo Film Made with Claude Opus 5](../docs/catalog.en.1.md#tripo-claude-opus-5-5-paper-cut-3d-short) · [tripo3d](https://x.com/tripoai)
 - [Interactive Eulerian Neon Fluid Simulation](../docs/catalog.en.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenberg accident model and realistic video](../docs/catalog.en.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Self-running 3D Rube Goldberg machine](../docs/catalog.en.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Self-running 3D Rube Goldberg machine](../docs/catalog.en.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Interactive crowd evacuation simulation](../docs/catalog.en.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [TITANIC — The Last Light](../docs/catalog.en.2.md#titanic-the-last-light) · [jared](https://x.com/jaredliu_bravo)
 - [Catfu martial-arts cat 3D animation and video workflow](../docs/catalog.en.2.md#gpt-6-astra-2101310374033428642) · [PixVerse](https://x.com/PixVerse)
@@ -437,7 +442,7 @@
 - [Train a Pen-Spinning Policy with the Sharpa Dexterous Hand](../docs/catalog.en.2.md#gpt-6-astra-2100751369619820923) · [AI Will](https://x.com/FinanceYF5)
 - [AAA CGI Supernatural Fight Short Set in an Underground Station](../docs/catalog.en.2.md#gpt-6-astra-2100233407108137349) · [MadMax](https://x.com/MadMax_Series)
 - [Warrior Climbs a Giant and Strikes Its Jaw](../docs/catalog.en.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [Autonomous Model Railway With Collision Avoidance](../docs/catalog.en.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [Autonomous Model Railway With Collision Avoidance](../docs/catalog.en.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [Self-folding 3D origami animation](../docs/catalog.en.3.md#gpt-6-astra-2098909584996057283) · [AI Guides](https://x.com/free_ai_guides)
 - [Kinetic Sand Table Simulation](../docs/catalog.en.3.md#gpt-6-astra-2098831830002851846) · [AI Guides](https://x.com/free_ai_guides)
 - [Zen Realm · Ancient Temple 3D Build Demo Video](../docs/catalog.en.3.md#gpt-6-astra-2098697876155076820) · [火山哥🕊️](https://x.com/huoshan007)
@@ -459,15 +464,15 @@
 - [Interactive Lorenz attractor](../docs/catalog.en.4.md#interactive-lorenz-attractor-2096572156453028193) · [Juy \| AI experiments](https://x.com/juyeam)
 - [Nuclear Explosion 3D City Simulation](../docs/catalog.en.4.md#gpt-6-astra-2096562462674079868) · [Ashish Thakur](https://x.com/ashishthakur___)
 - [Surface-climbing procedural insect](../docs/catalog.en.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
-- [Railway network simulation game](../docs/catalog.en.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [Tavern with working staff and guests](../docs/catalog.en.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [Railway network simulation game](../docs/catalog.en.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [Tavern with working staff and guests](../docs/catalog.en.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
 - [Browser racing physics in C# and WASM](../docs/catalog.en.5.md#browser-racing-physics-in-c-and-wasm-2096258619574513880) · [achepta](https://x.com/achepta_tm)
 - [Orbital rendezvous simulator](../docs/catalog.en.5.md#orbital-rendezvous-simulator-2096225621303042258) · [Alican Kiraz](https://x.com/AlicanKiraz0)
 - [A storm trapped in a cube](../docs/catalog.en.5.md#a-storm-trapped-in-a-cube-2096220264413409648) · [zcw](https://x.com/zwb44)
 - [Zubli, a responsive WebGL character](../docs/catalog.en.5.md#zubli-a-responsive-webgl-character-2096180133803561376) · [CoXis](https://x.com/coxis)
 - [Automatic character rig and kung fu moves](../docs/catalog.en.5.md#automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [The Bugged Dev](https://x.com/thebuggeddev)
 - [Live jet-manufacturing plant](../docs/catalog.en.5.md#live-jet-manufacturing-plant-2096122429319852319) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
-- [Exploding procedural train assemblies](../docs/catalog.en.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [Exploding procedural train assemblies](../docs/catalog.en.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
 - [Delivery network with bridge closures](../docs/catalog.en.6.md#delivery-network-with-bridge-closures-2096042360513904742) · [AgentworkflowLab](https://x.com/AgentWorkflowLa)
 - [Evolving WebGL ecosystem](../docs/catalog.en.6.md#evolving-webgl-ecosystem-2096040448477515874) · [Yume\_X](https://x.com/yume_arasaki)
 - [Bouncy WebGPU jelly](../docs/catalog.en.6.md#bouncy-webgpu-jelly-2096008241104711698) · [Scott](https://x.com/scottstts)
@@ -496,14 +501,14 @@
 - [Prompt for a cinematic Vietnam jungle helicopter animation](../docs/catalog.en.9.md#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Kirill](https://x.com/kirillk_web3)
 - [Single-file WebGL2 black hole raytracer prompt for Kimi K3](../docs/catalog.en.9.md#single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Harsh](https://x.com/devloper_hs)
 - [Three.js voxel-style soccer animation prompt for a single HTML file](../docs/catalog.en.9.md#voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Thành](https://x.com/Zmthanh)
-- [Single-file Three.js voxel soccer animation prompt for Fable 5](../docs/catalog.en.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Single-file Three.js voxel soccer animation prompt for Fable 5](../docs/catalog.en.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
 
 <a id="category-other"></a>
 
 ### Other · 3
 
 - [Model the Brooklyn Bridge and test tanks crossing from both directions](../docs/catalog.en.3.md#gpt-6-astra-2098650336521064759) · [Higgsfield](https://x.com/higgsfield_ai)
-- [Schematic PDF to PCB and 3D view](../docs/catalog.en.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [Schematic PDF to PCB and 3D view](../docs/catalog.en.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [Multi-build prompt covering e-commerce, interactive 3D museum, and RTS clone](../docs/catalog.en.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 
 <a id="models"></a>
@@ -512,8 +517,10 @@
 
 <a id="model-gpt-6-astra"></a>
 
-### GPT-6 Astra · 291
+### GPT-6 Astra · 293
 
+- [Forest lake village environment](../docs/catalog.en.1.md#gpt-6-astra-2103860776419111285) · [Givros](https://x.com/givros)
+- [Voxel ship-in-a-bottle WebGL scene](../docs/catalog.en.1.md#gpt-6-astra-2103855977376125161) · [PEP PEPICH](https://x.com/Artless101)
 - [Voxel-style Japanese garden in Three.js](../docs/catalog.en.1.md#gpt-6-astra-2103486103831339269) · [Marcel](https://x.com/marcthecreatorr)
 - [Create a Guinea Pig in Blender](../docs/catalog.en.1.md#gpt-6-astra-2103482826519986544) · [かよこ](https://x.com/kayokojoe)
 - [3D Modeling for VRChat Outfits](../docs/catalog.en.1.md#gpt-6-astra-2103456264785424530) · [のわ〜る👼🍆🐄](https://x.com/Noir4247)
@@ -575,11 +582,11 @@
 - [Interactive volcanic island with fleeing boats](../docs/catalog.en.2.md#gpt-6-astra-2099643231659012553) · [Wësche](https://x.com/WescheNex1q)
 - [Create a hotel corridor scene](../docs/catalog.en.2.md#gpt-6-astra-2099588840419651890) · [West Lord](https://x.com/MyWestLord)
 - [Warrior Climbs a Giant and Strikes Its Jaw](../docs/catalog.en.2.md#gpt-6-astra-2099519801139908951) · [MadMax](https://x.com/MadMax_Series)
-- [3D world full of very high skyscrapers](../docs/catalog.en.2.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
-- [Conifer Model Under 200 Polygons](../docs/catalog.en.2.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
-- [Interactive 3D Samurai Forest Scene](../docs/catalog.en.2.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
-- [Playable 3D Obstacle Course](../docs/catalog.en.2.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
-- [Autonomous Model Railway With Collision Avoidance](../docs/catalog.en.2.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
+- [3D world full of very high skyscrapers](../docs/catalog.en.3.md#gpt-6-astra-2099487024256589970) · [Bilal Arshad](https://x.com/MohdBilalArshad)
+- [Conifer Model Under 200 Polygons](../docs/catalog.en.3.md#gpt-6-astra-2099472264270102705) · [わたもす / ゲーム制作](https://x.com/Watamos827)
+- [Interactive 3D Samurai Forest Scene](../docs/catalog.en.3.md#gpt-6-astra-2099450933067612421) · [Jaynit Makwana](https://x.com/JaynitMakwana)
+- [Playable 3D Obstacle Course](../docs/catalog.en.3.md#gpt-6-astra-2099419671481249851) · [Dhaval Makwana](https://x.com/heyDhavall)
+- [Autonomous Model Railway With Collision Avoidance](../docs/catalog.en.3.md#gpt-6-astra-2099362575339372780) · [AI Guides](https://x.com/free_ai_guides)
 - [Reimagine Peach’s Castle in 3D](../docs/catalog.en.3.md#gpt-6-astra-2099359786865402019) · [Romain Huet](https://x.com/romainhuet)
 - [Interactive 3D Anatomy Explorer](../docs/catalog.en.3.md#gpt-6-astra-2099206962344800541) · [BuBBliK](https://x.com/k1rallik) · GitHub
 - [Playable 3D browser shore-district slice](../docs/catalog.en.3.md#gpt-6-astra-2099172061092381027) · [Lummox](https://x.com/Lummox_eth)
@@ -625,11 +632,11 @@
 - [Skyrim-Inspired Village Terrain from a Generated Reference](../docs/catalog.en.3.md#gpt-6-astra-2097167383576383502) · [Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo)
 - [Japanese Flower Shop Exploded-View Animation](../docs/catalog.en.3.md#gpt-6-astra-2097153139795468365) · [KANA｜東京AI映像](https://x.com/KanaWorks_AI)
 - [Rig and animate a digitigrade mech in Godot](../docs/catalog.en.3.md#gpt-6-astra-2097123382852829230) · [Om Patel](https://x.com/om_patel5)
-- [Interactive jelly lemon tree](../docs/catalog.en.3.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
-- [Interactive Robot Pet on a Workbench](../docs/catalog.en.3.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
-- [A 12-Second Forest Road in Blender](../docs/catalog.en.3.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
-- [Interactive Chinese Courtyard](../docs/catalog.en.3.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
-- [“The Horizon Where Gravity Broke” — A VRChat Landscape World](../docs/catalog.en.3.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
+- [Interactive jelly lemon tree](../docs/catalog.en.4.md#gpt-6-astra-2097065330728128920) · [Vib3Coded](https://x.com/vib3coded)
+- [Interactive Robot Pet on a Workbench](../docs/catalog.en.4.md#gpt-6-astra-2097004192627933279) · [ZEUS⚡️](https://x.com/zeuuss_01)
+- [A 12-Second Forest Road in Blender](../docs/catalog.en.4.md#gpt-6-astra-2096986557244723371) · [Can Matrix](https://x.com/Jomolos)
+- [Interactive Chinese Courtyard](../docs/catalog.en.4.md#gpt-6-astra-2096971051334857181) · [Larus Canus](https://x.com/MrLarus)
+- [“The Horizon Where Gravity Broke” — A VRChat Landscape World](../docs/catalog.en.4.md#gpt-6-astra-2096966425017467344) · [Xenoah](https://x.com/shuminchuuu)
 - [Endless Miniature Street in Three.js WebGPU](../docs/catalog.en.4.md#gpt-6-astra-2096956214680965501) · [Dash](https://x.com/creativedash)
 - [Hogwarts 3D scene](../docs/catalog.en.4.md#gpt-6-astra-2096907617117540478) · [Prompt Case](https://x.com/HiltonMisia)
 - [Create an Interactive Soft-Body Slime with Three.js and WebGPU](../docs/catalog.en.4.md#gpt-6-astra-2096793432987464010) · [码农暖爸](https://x.com/Delroy715)
@@ -675,11 +682,11 @@
 - [Surface-climbing procedural insect](../docs/catalog.en.4.md#surface-climbing-procedural-insect-2096460081982304546) · [XiaoLei Liu](https://x.com/leo_xiaolei)
 - [Rebuilding Lego 1999 Racers](../docs/catalog.en.4.md#gpt-6-astra-2096438110095585753) · [Mo Elgaraihy](https://x.com/EngMoElgaraihy)
 - [Playable D4-inspired apartment](../docs/catalog.en.4.md#playable-d4-inspired-apartment-2096413869841473930) · [Hidetaka SWERY SueHERO](https://x.com/Swery65)
-- [Create and render a black hole in Blender](../docs/catalog.en.4.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
-- [Railway network simulation game](../docs/catalog.en.4.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
-- [Tavern with working staff and guests](../docs/catalog.en.4.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
-- [Playable 3D Ensemble with Audio-Synchronized Animation](../docs/catalog.en.4.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
-- [Character Concept to Rigged 3D Model and Cartoon](../docs/catalog.en.4.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Create and render a black hole in Blender](../docs/catalog.en.5.md#gpt-6-astra-2096391653669953761) · [John Kler](https://x.com/JohnKlerAI)
+- [Railway network simulation game](../docs/catalog.en.5.md#railway-network-simulation-game-2096362653480562751) · [Tom Krcha](https://x.com/tomkrcha)
+- [Tavern with working staff and guests](../docs/catalog.en.5.md#tavern-with-working-staff-and-guests-2096358854275543457) · [Rogue](https://x.com/Rogue0114)
+- [Playable 3D Ensemble with Audio-Synchronized Animation](../docs/catalog.en.5.md#gpt-6-astra-2096354461652488562) · [Generator](https://x.com/groovestreetgen)
+- [Character Concept to Rigged 3D Model and Cartoon](../docs/catalog.en.5.md#gpt-6-astra-2096342420543660277) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [Orbital solar-system explorer](../docs/catalog.en.5.md#orbital-solar-system-explorer-2096339041679442428) · [Andromedus](https://x.com/dzhohola)
 - [A crab game with action-driven mechanics](../docs/catalog.en.5.md#a-crab-game-with-action-driven-mechanics-2096337879173591171) · [ZEUS⚡️](https://x.com/zeuuss_01)
 - [Photorealistic Editable Dragon Reconstruction in Blender](../docs/catalog.en.5.md#gpt-6-astra-2096335588727349434) · [Sarang Borude](https://x.com/doomdave)
@@ -723,11 +730,11 @@
 - [Artwork to a playable character](../docs/catalog.en.5.md#artwork-to-a-playable-character-2096107343268257953) · [NOCTAVIA™](https://x.com/noctav1a)
 - [Azadi Tower in Blender](../docs/catalog.en.5.md#azadi-tower-in-blender-2096107322536051057) · [taesiri](https://x.com/taesiri)
 - [Suzhou Museum garden walkthrough](../docs/catalog.en.5.md#suzhou-museum-garden-walkthrough-2096096998092841449) · [amber shen](https://x.com/whosamberella)
-- [Black-hole formation in WebGL](../docs/catalog.en.5.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
-- [Futuristic Motorcycle and Tank in Blender](../docs/catalog.en.5.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
-- [Exploding procedural train assemblies](../docs/catalog.en.5.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
-- [Interactive globe dashboard](../docs/catalog.en.5.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
-- [Schematic PDF to PCB and 3D view](../docs/catalog.en.5.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
+- [Black-hole formation in WebGL](../docs/catalog.en.6.md#black-hole-formation-in-webgl-2096093614397170104) · [ゼン🍣🐟🇳🇿](https://x.com/zeeeeeen)
+- [Futuristic Motorcycle and Tank in Blender](../docs/catalog.en.6.md#gpt-6-astra-2096083014845636816) · [ステスロス@2号機](https://x.com/StelsRay2)
+- [Exploding procedural train assemblies](../docs/catalog.en.6.md#exploding-procedural-train-assemblies-2096082580554777041) · [Tom Krcha](https://x.com/tomkrcha)
+- [Interactive globe dashboard](../docs/catalog.en.6.md#interactive-globe-dashboard-2096082432197837065) · [Kai](https://x.com/hqmank)
+- [Schematic PDF to PCB and 3D view](../docs/catalog.en.6.md#schematic-pdf-to-pcb-and-3d-view-2096079976433082502) · [Titlist400](https://x.com/swjtutl)
 - [Astral War browser shooter](../docs/catalog.en.6.md#astral-war-browser-shooter-2096079660605997264) · [Rishi](https://x.com/0xRishi)
 - [Build a Rough 3D Game in Astra from Concept Art](../docs/catalog.en.6.md#astra-3d-2096068401294929940) · [陈硕KAI（耍门）](https://x.com/ChenshuoAI)
 - [The Legend of Astra game prototype](../docs/catalog.en.6.md#the-legend-of-astra-game-prototype-2096064140510970318) · [lofibloom](https://x.com/lofihashbloom)
@@ -770,11 +777,11 @@
 - [Real-time WebGL galaxy launch hero](../docs/catalog.en.6.md#real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Fluxora](https://x.com/Fluxora_Studios)
 - [Starry Night streets you can stroll](../docs/catalog.en.6.md#starry-night-streets-you-can-stroll-2095805115580199372) · [₿IGRYAN](https://x.com/BigRyan)
 - [Real house to editable 60 FPS Blender scene](../docs/catalog.en.6.md#real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Alvin Foo](https://x.com/alvinfoo)
-- [Exploded interactive 3D turbocharger](../docs/catalog.en.6.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
-- [Walkable town made from six Van Gogh paintings](../docs/catalog.en.6.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
-- [Steam-train drawing to editable Blender assembly](../docs/catalog.en.6.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
-- [Solace forest villa from brief to UE5](../docs/catalog.en.6.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
-- [Driveable childhood train table](../docs/catalog.en.6.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
+- [Exploded interactive 3D turbocharger](../docs/catalog.en.7.md#exploded-interactive-3d-turbocharger-2095776712579571725) · [Feraser](https://x.com/Feraser8)
+- [Walkable town made from six Van Gogh paintings](../docs/catalog.en.7.md#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105) · [Peter Gostev](https://x.com/petergostev)
+- [Steam-train drawing to editable Blender assembly](../docs/catalog.en.7.md#steam-train-drawing-to-editable-blender-assembly-2095756085890310311) · [Tom Krcha](https://x.com/tomkrcha)
+- [Solace forest villa from brief to UE5](../docs/catalog.en.7.md#solace-forest-villa-from-brief-to-ue5-2095752726886105375) · [SuSu\_酥酥👅](https://x.com/NFT_Chen)
+- [Driveable childhood train table](../docs/catalog.en.7.md#driveable-childhood-train-table-2095742344293454148) · [₿IGRYAN](https://x.com/BigRyan)
 - [Floor plan to complete 3D walkthrough](../docs/catalog.en.7.md#floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [AidarosGo](https://x.com/aidarosgo3)
 - [Interactive voxel railway table](../docs/catalog.en.7.md#interactive-voxel-railway-table-2095719731860750613) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - [Living voxel ship in a bottle](../docs/catalog.en.7.md#living-voxel-ship-in-a-bottle-2095699049722581065) · [Derya Unutmaz, MD](https://x.com/DeryaTR_)
@@ -834,11 +841,11 @@
 - [Corporate interceptor drone asset](../docs/catalog.en.7.md#corporate-interceptor-drone-asset-2095176360238915978) · [Dmytro Gladkyi](https://x.com/gladimdim)
 - [Frutiger Aero 3D world](../docs/catalog.en.7.md#frutiger-aero-3d-world-2095171470607728926) · [Oliver Benns](https://x.com/oliverbenns)
 - [Ten-scene cinematic Renaissance website](../docs/catalog.en.7.md#ten-scene-cinematic-renaissance-website-2095167881004908897) · [Henry Fan](https://x.com/Henry_Fan_lh)
-- [Virtual island with a pet goat](../docs/catalog.en.7.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
-- [Interactive 3D solar system](../docs/catalog.en.7.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
-- [City from an equirectangular panorama](../docs/catalog.en.7.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
-- [Dragon lair scene in Blender](../docs/catalog.en.7.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Multiplayer pirate world in Three.js](../docs/catalog.en.7.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
+- [Virtual island with a pet goat](../docs/catalog.en.8.md#virtual-island-with-a-pet-goat-2095165578042335442) · [Alix Ollivier](https://x.com/aollivier82)
+- [Interactive 3D solar system](../docs/catalog.en.8.md#interactive-3d-solar-system-2095165395841999222) · [ego](https://x.com/ego_agent)
+- [City from an equirectangular panorama](../docs/catalog.en.8.md#city-from-an-equirectangular-panorama-2095159781883597031) · [ハヤシモン｜AI × 個人開発](https://x.com/hayashimon1)
+- [Dragon lair scene in Blender](../docs/catalog.en.8.md#dragon-lair-scene-in-blender-2095149546187653547) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Multiplayer pirate world in Three.js](../docs/catalog.en.8.md#multiplayer-pirate-world-in-three-js-2095137561283010600) · [Aman](https://x.com/aman_kambojj)
 - [Flying pot animation in Blender](../docs/catalog.en.8.md#flying-pot-animation-in-blender-2095132939667255657) · [Ben](https://x.com/alafrayme)
 - [3D cancer progression simulation](../docs/catalog.en.8.md#3d-cancer-progression-simulation-2095130778342408331) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 - [Enhanced meteoroid breakup VFX](../docs/catalog.en.8.md#enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Dmytro Gladkyi](https://x.com/gladimdim)
@@ -884,16 +891,19 @@
 - [Procedurally generated Three.js world](../docs/catalog.en.8.md#procedurally-generated-three-js-world-2094873862315843910) · [Swarogan](https://x.com/swarogan)
 - [Interactive 3D human brain signals](../docs/catalog.en.8.md#interactive-3d-human-brain-signals-2094873080590225728) · [Greg](https://x.com/GregFeingold)
 - [Photorealistic Three.js landscape](../docs/catalog.en.8.md#photorealistic-three-js-landscape-2094871858206191667) · [Alix Ollivier](https://x.com/aollivier82)
-- [AAA horde shooter with WebGL shaders](../docs/catalog.en.8.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
-- [Playable Titanic disaster game](../docs/catalog.en.8.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
-- [Multiplayer dinosaur survival game](../docs/catalog.en.8.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
-- [Ten-minute Three.js game, then refined](../docs/catalog.en.8.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
-- [Glass brain capability demo](../docs/catalog.en.8.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
+- [AAA horde shooter with WebGL shaders](../docs/catalog.en.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha) · GitHub
+- [Playable Titanic disaster game](../docs/catalog.en.9.md#playable-titanic-disaster-game-2094867850355679617) · [Veee](https://x.com/vikktorrrre)
+- [Multiplayer dinosaur survival game](../docs/catalog.en.9.md#multiplayer-dinosaur-survival-game-2094866225960493189) · [S](https://x.com/Rubzem)
+- [Ten-minute Three.js game, then refined](../docs/catalog.en.9.md#ten-minute-three-js-game-then-refined-2094855905678446777) · [Andrei](https://x.com/HangoutWHAndrei)
+- [Glass brain capability demo](../docs/catalog.en.9.md#glass-brain-capability-demo-2094853472864682360) · [Not Harris \| Builds Apps](https://x.com/viewsfrom02108)
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Polished 15-second motion-design graphic video](../docs/catalog.en.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Minecraft-style voxel game with advanced shaders](../docs/catalog.en.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify-themed motion graphics video](../docs/catalog.en.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dynamic 15-second motion-design showreel](../docs/catalog.en.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 sandbox survival game](../docs/catalog.en.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Navigate a 3D pagoda](../docs/catalog.en.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
@@ -919,11 +929,11 @@
 - [Interactive Eulerian Neon Fluid Simulation](../docs/catalog.en.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Interactive 3D Japanese Cherry Blossom Valley Web Experience](../docs/catalog.en.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenberg accident model and realistic video](../docs/catalog.en.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [360-Degree 3D Rendering of a Handball Court from an Image](../docs/catalog.en.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Procedural Three.js 3D main menu background from an image](../docs/catalog.en.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Self-running 3D Rube Goldberg machine](../docs/catalog.en.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [Interactive Peter Rabbit-style farm animal game](../docs/catalog.en.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [Cinematic interactive pirate ship at sunset](../docs/catalog.en.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [360-Degree 3D Rendering of a Handball Court from an Image](../docs/catalog.en.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Procedural Three.js 3D main menu background from an image](../docs/catalog.en.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Self-running 3D Rube Goldberg machine](../docs/catalog.en.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Interactive Peter Rabbit-style farm animal game](../docs/catalog.en.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Cinematic interactive pirate ship at sunset](../docs/catalog.en.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Endless procedurally generated Three.js world](../docs/catalog.en.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Interactive crowd evacuation simulation](../docs/catalog.en.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [Interactive 3D Prehistoric Island](../docs/catalog.en.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
@@ -973,8 +983,8 @@
 - [3D cherry blossom tree prompt for Claude Fable 5](../docs/catalog.en.9.md#3d-cherry-blossom-tree-2080178541979664741) · [zhod](https://x.com/zhodonx)
 - [Multi-build prompt covering e-commerce, interactive 3D museum, and RTS clone](../docs/catalog.en.9.md#interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Atlas](https://x.com/crptAtlas)
 - [Blender city modeling prompt for building New York with Fable 5](../docs/catalog.en.9.md#modeling-new-york-city-in-blender-2079387760478073087) · [Martin Puli](https://x.com/MartinPulitano)
-- [Single-file Three.js voxel soccer animation prompt for Fable 5](../docs/catalog.en.9.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
-- [Three.js airplane walkthrough experience prompt](../docs/catalog.en.9.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
+- [Single-file Three.js voxel soccer animation prompt for Fable 5](../docs/catalog.en.10.md#single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Thành](https://x.com/Zmthanh)
+- [Three.js airplane walkthrough experience prompt](../docs/catalog.en.10.md#three-js-airplane-walkthrough-experience-2078806166122197132) · [FHILY👑](https://x.com/Oluwaphilemon1)
 
 <a id="model-claude-opus-5"></a>
 
@@ -995,4 +1005,4 @@
 - [Three.js prompt for a Leonardo da Vinci ornithopter in Claude Opus 5](../docs/catalog.en.9.md#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Harshith](https://x.com/HarshithLucky3)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 447 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 452 examples and live previews →</a></strong></p>

@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome 3D Prompts — 9 / 9
+# Awesome 3D Prompts — 9 / 10
 
 [← Awesome 3D Prompts](../README.md)
 
@@ -21,13 +21,18 @@
   <a href="../docs/catalog.vi.9.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.8.md) · **9 / 9**
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.8.md) · **9 / 10** · [→](catalog.uk.10.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Переглянути приклади (47)</summary>
+<summary>Переглянути приклади (50)</summary>
 
+- [Шутер проти орд ворогів із WebGL-шейдерами](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
+- [Гра-катастрофа на «Титаніку»](#playable-titanic-disaster-game-2094867850355679617)
+- [Мережева гра про виживання серед динозаврів](#multiplayer-dinosaur-survival-game-2094866225960493189)
+- [Гра на Three.js за десять хвилин із доопрацюванням](#ten-minute-three-js-game-then-refined-2094855905678446777)
+- [Скляний мозок: демонстрація можливостей](#glass-brain-capability-demo-2094853472864682360)
 - [Процедурний воксельний замок](#procedural-voxel-castle-showcase-2093690427849191855)
 - [Промпт складання позашляховика 4×4 у стилі Jeep в Blender](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
 - [Промпти 3D-фізики руйнувань для самодостатніх HTML-сцен](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
@@ -73,10 +78,122 @@
 - [Промпт Kimi K3 для однофайлового трасувальника чорної діри WebGL2](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
 - [Промпт воксельної футбольної анімації Three.js в одному HTML-файлі](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
 - [Промпт Fable 5 для моделювання Нью-Йорка в Blender](#modeling-new-york-city-in-blender-2079387760478073087)
-- [Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
-- [Промпт Three.js для прогулянки літаком](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
+
+### Шутер проти орд ворогів із WebGL-шейдерами
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-01 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243"><img src="../assets/previews/ed235a6257e81e5b3e6152136ede1b48a5eb520c3f24d11ff5d502e5107dbc28.webp" width="840" loading="lazy" alt="Шутер проти орд ворогів із WebGL-шейдерами"></a>
+
+**Промпт**
+
+```text
+Зроби мені найбожевільніший і найдрайвовіший шутер, який тільки можеш, на ThreeJS + вебшейдерах, друже! Найважливіше — стрільба, динаміка, віддача, графіка, відчуття влучання й поводження зі зброєю. Це красиво оформлена арена, куди вороги пруть ордами. Додай прицілювання через приціл, інерцію й вагу зброї, а також штурмову гвинтівку, дробовик і марксманську гвинтівку.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro! The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It is a beautifully designed arena where enemies swarm in hordes. Include ADS aiming, weapon inertia and weight, plus an assault rifle, shotgun and marksman rifle.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Оригінальний допис](https://x.com/superalesha/status/2094869490165039243) · [Вихідний код](https://github.com/alesha-pro/bench-portal) · [Демо](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="playable-titanic-disaster-game-2094867850355679617"></a>
+
+### Гра-катастрофа на «Титаніку»
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/playable-titanic-disaster-game-2094867850355679617"><img src="../assets/previews/a3ca9edb9c55538219259d288202662dad4d16cbb2d88d412911c5ab5ff3d12b.webp" width="840" loading="lazy" alt="Гра-катастрофа на «Титаніку»"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи кінематографічну гру про «Титанік», де гравець пересувається кораблем, виконує завдання й намагається уникнути айсберга. Керування має бути зрозумілим, а небезпека — наростати.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-titanic-disaster-game-2094867850355679617) · [Оригінальний допис](https://x.com/vikktorrrre/status/2094867850355679617) · [Демо](https://rms-titanic-1912.netlify.app/) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="multiplayer-dinosaur-survival-game-2094866225960493189"></a>
+
+### Мережева гра про виживання серед динозаврів
+
+[S](https://x.com/Rubzem) · 2026-09-01 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189"><img src="../assets/previews/4e3af3b553cc2353333a1142b4f795e1f4559b342180e63c5f641a0c631fa568.webp" width="840" loading="lazy" alt="Мережева гра про виживання серед динозаврів"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи багатокористувацьку гру на виживання з полюванням, приготуванням їжі, ремеслом, будівництвом бази, небезпечними динозаврами та системою розвитку, що заохочує гравців досліджувати світ.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/multiplayer-dinosaur-survival-game-2094866225960493189) · [Оригінальний допис](https://x.com/Rubzem/status/2094866225960493189) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="ten-minute-three-js-game-then-refined-2094855905678446777"></a>
+
+### Гра на Three.js за десять хвилин із доопрацюванням
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-01 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777"><img src="../assets/previews/46bfafc740a3aab385c0190a26e8b249dd6edd1872dbf150699436bc7c249961.webp" width="840" loading="lazy" alt="Гра на Three.js за десять хвилин із доопрацюванням"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи невелику гру на Three.js за десять хвилин: чітка мета, чутливе керування, добре помітні небезпеки та повні стани перемоги й поразки. Потім перевір ігровий результат і наступними правками вдоскональ графіку, темп і зворотний зв’язок.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/ten-minute-three-js-game-then-refined-2094855905678446777) · [Оригінальний допис](https://x.com/HangoutWHAndrei/status/2094855905678446777) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="glass-brain-capability-demo-2094853472864682360"></a>
+
+### Скляний мозок: демонстрація можливостей
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-01 · Claude Fable 5.1 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/glass-brain-capability-demo-2094853472864682360"><img src="../assets/previews/95809f796374ee1dd52b9b6f72e3e1363e25651d1c2ca833731c213316440274.webp" width="840" loading="lazy" alt="Скляний мозок: демонстрація можливостей"></a>
+
+**Промпт**
+
+```text
+зроби демонстрацію своїх можливостей на Three.js.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+make a Three.js demo of your capabilities.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/glass-brain-capability-demo-2094853472864682360) · [Оригінальний допис](https://x.com/viewsfrom02108/status/2094853472864682360) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="procedural-voxel-castle-showcase-2093690427849191855"></a>
 
 ### Процедурний воксельний замок
@@ -1127,43 +1244,7 @@ The Hype порівняв Claude Opus 5, Fable 5, GPT-5.6 Sol і Kimi K3 на ц
 
 ---
 
-<a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
-### Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі
-
-[Thành](https://x.com/Zmthanh) · 2026-07-20 · Claude Fable 5 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560"><img src="../assets/previews/b9f30819cb6139a05f901035cc1270fd3ee098356dac161654629d6bef2db479.webp" width="840" loading="lazy" alt="Промпт Fable 5: воксельна футбольна анімація Three.js в одному файлі"></a>
-
-**Промпт**
-
-```text
-Створи один HTML-файл із Three.js через CDN для простої футбольної анімації у воксельному стилі. Блоковий гравець обводить двох захисників і забиває видовищний гол зі святковими частинками. Яскравий стадіон. Виведи ЛИШЕ повний HTML-код.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-file-three-js-voxel-soccer-animation-2079198084689723560) · [Оригінальний допис](https://x.com/Zmthanh/status/2079198084689723560) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="three-js-airplane-walkthrough-experience-2078806166122197132"></a>
-
-### Промпт Three.js для прогулянки літаком
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-19 · Claude Fable 5 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132"><img src="../assets/previews/b045acf671506422acd90bc04f190e5d99618706982967e8f7a505cbe29507f2.webp" width="840" loading="lazy" alt="Промпт Three.js для прогулянки літаком"></a>
-
-**Промпт**
-
-```text
-Створи на Three.js сцену, яка дає мені оглядати 3D-модель літака та ходити всередині нього.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/three-js-airplane-walkthrough-experience-2078806166122197132) · [Оригінальний допис](https://x.com/Oluwaphilemon1/status/2078806166122197132) · [Назад до прикладів](#all-prompts)
-
----
-
-
-[Повний каталог](catalog.uk.md) · [←](catalog.uk.8.md) · **9 / 9**
+[Повний каталог](catalog.uk.md) · [←](catalog.uk.8.md) · **9 / 10** · [→](catalog.uk.10.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/uk/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Повний каталог →</a></strong></p>
