@@ -28,6 +28,14 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [穏やかな3Dの海を進むYF-24](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
+- [最上階の間取り図からBlenderプレビューへ](#top-floor-plan-to-blender-preview-2096501340889374883)
+- [歩いて巡るローポリの果川の村](#walkable-low-poly-gwacheon-village-2096490395614019793)
+- [生成した3Dアセットの組み立てとアニメーション](#assemble-and-animate-generated-3d-assets-2096481425050743048)
+- [日本の森を飛ぶライトフライヤー号](#wright-flyer-through-a-japanese-forest-2096467585785286808)
+- [さまざまな面をよじ登るプロシージャル昆虫](#surface-climbing-procedural-insect-2096460081982304546)
+- [Lego 1999 Racersの再現](#gpt-6-astra-2096438110095585753)
+- [D4に着想を得た、歩き回れるアパート](#playable-d4-inspired-apartment-2096413869841473930)
 - [Blenderでブラックホールを作成・レンダリング](#gpt-6-astra-2096391653669953761)
 - [鉄道ネットワークのシミュレーションゲーム](#railway-network-simulation-game-2096362653480562751)
 - [店員と客が活動する酒場](#tavern-with-working-staff-and-guests-2096358854275543457)
@@ -70,16 +78,212 @@
 - [Blender で作るヴァイキングのキャラクター](#viking-character-in-blender-2096140378777010278)
 - [Odyssey 風の足場アドベンチャー](#odyssey-inspired-platform-adventure-2096135808243876152)
 - [リグを付けて動かすティラノサウルス](#rigged-and-animated-t-rex-2096133339329536249)
-- [32 人が動く、歩いて巡れるオフィス](#walkable-office-with-32-animated-people-2096131961345720477)
-- [夕暮れのアディヨギを巡るフライスルー](#adiyogi-evening-fly-through-2096128774203171021)
-- [Blender で作る F1 マシン](#formula-one-car-in-blender-2096125193580113957)
-- [稼働するジェット機製造工場](#live-jet-manufacturing-plant-2096122429319852319)
-- [モバイルゲーム広告を本当に遊べる作品に](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
-- [イラストから操作できるキャラクターへ](#artwork-to-a-playable-character-2096107343268257953)
-- [Blender で作るアーザーディー・タワー](#azadi-tower-in-blender-2096107322536051057)
-- [蘇州博物館の庭園ウォークスルー](#suzhou-museum-garden-walkthrough-2096096998092841449)
 
 </details>
+<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
+
+### 穏やかな3Dの海を進むYF-24
+
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="穏やかな3Dの海を進むYF-24"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+BlenderでYF-24をモデリングし、ビューフォート風力階級2の3Dの海を進むアニメーションを制作してください。船の資料を使って形状の再現度を高めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [元の投稿](https://x.com/yhmtmt1/status/2096503275910832461) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
+
+### 最上階の間取り図からBlenderプレビューへ
+
+[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="最上階の間取り図からBlenderプレビューへ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+住宅の最上階の間取り図からBlenderシーンを制作し、サンプル数を抑えた10秒のプレビューをレンダリングしてください。マテリアルを作り込む前に、空間配置が明確に伝わることを優先してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [元の投稿](https://x.com/indigox/status/2096501340889374883) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
+
+### 歩いて巡るローポリの果川の村
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="歩いて巡るローポリの果川の村"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+果川に着想を得た、温かみのある探索可能なローポリの村を、単一のHTMLファイルで制作してください。プロシージャルな3D風景、雰囲気づくり、インターフェース、インタラクションを組み合わせてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [元の投稿](https://x.com/ManasJoshi76254/status/2096490395614019793) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
+
+### 生成した3Dアセットの組み立てとアニメーション
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="生成した3Dアセットの組み立てとアニメーション"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Tripo P2で最適化された3Dアセットを生成し、Blenderで組み合わせてください。キャラクターにリグとアニメーションを設定し、キャラクターとシーンの空間的な収まりを確認してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [元の投稿](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
+
+### 日本の森を飛ぶライトフライヤー号
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · ゲーム
+
+リミックス元: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="日本の森を飛ぶライトフライヤー号"></a>
+
+**プロンプト**
+
+```text
+# KOMOREBI — 森のフライト
+
+## 1. 目標
+ゲーム内のUIテキストはすべて英語にする。
+ブラウザで完結するフライトゲームを制作します。1903年型ライトフライヤーを操縦して日本の森林を流れる川に沿って飛び、精霊のランタンを集め、鳥居をくぐり、山の聖域を目指します。完成時の構図にはhttps://komorebi-forest-flight.tripo.page/と提供された参考資料を使用してください。Jaredへのクレジットはhttps://x.com/jaredliu_bravo、インスピレーション元であるThe Bugged Devへのクレジットはhttps://x.com/thebuggeddev/status/2096467585785286808.
+
+## 2. ビジュアル方針
+深い杉の緑、青緑色の水、温かみのあるアイボリーのリネン、風化した木材、苔むした石、控えめなアンバーの光で、静かで映画的なミニチュアの森を作ります。滑らかな背後追従カメラで機体を明瞭に捉え、次の収集アイテムが翼の上に見えるようにします。前方視界の外側から差し込む柔らかな日差し、環境光、接触影、霧に包まれた山、水面の反射、漂う浮遊粒子、控えめなブルームを使います。白飛び、宙に浮く家、大きすぎる光の塊、角張った岩壁は避けてください。
+
+テキストは温かみのあるオフホワイト、境界線は細く半透明にし、ローカルフォントのCormorant Garamond風セリフ見出しとDM Sans風の操作系フォントを使います。左上にはKOMOREBI、木漏れ日、A FOREST FLIGHTを配置します。コンパスとCompare操作は上部、ユーティリティボタンは右上、スコアとハートは左、標高と対気速度は右、チャプターの進行状況は下部に置きます。開始時の誘い文句は「森に身を委ねよう。」、ボタンは「フライトを開始」です。スマートフォンでは機体を隠さない範囲でオーバーレイをコンパクトにします。
+
+## 3. ワールド
+全長3.6kmの決定論的なルートを作り、4つのチャプターを等間隔に配置します：Whispering Woods、Hidden Falls、Lantern Valley、Cloud Sanctuary。景観チャンクはストリーミングまたは再利用します。ゆるやかに蛇行するターコイズ色の川を飛行コースの軸とし、開始時のカーブにはx(z) = sin(0.006z) × 19 + sin(0.017z) × 5を使います。アシスト飛行ルートに沿って鳥居の開口部を配置し、その周囲に森、木造家屋、滝、丸い川石、霧に包まれた山を重ねていきます。各家屋の設置面は必ず段差を整え、四隅すべてで基礎を地面に埋め込んでください。
+
+## 4. アセット一覧
+モデルスロットを次の順番で安定して用意します：
+- `aircraft`：開放構造の1903年型ライトフライヤー。幅広いアイボリーのリネン翼2枚、露出した細い木製フレーム、支柱と張り線、前方カナード、後部の推進式プロペラ2基を備えます。プロペラは重複したブレードを作らず、個別にアニメーションできるパーツとして保持します。
+- `cedar`：赤褐色の高い幹、不規則に層を成す濃緑色の葉、まとまりのある枝、地面に根付いた根を持つ木。スケールと回転を変えて再利用します。
+- `minka`：暗く風化した木材、土壁、幅広い瓦葺きの切妻屋根、深い軒、温かな障子窓、石の基礎を持つ家屋。
+- `torii`：2本の柱と幅広く湾曲した笠木を持つ、風化した日本の木造鳥居。開口部は既存のコリジョン領域と一致させます。
+- `lantern`：温かな紙と木材でできた精霊のランタン。繰り返し配置する収集アイテムと小型の装飾照明には同じモデル系列を使いながら、用途の違いが視覚的に明確になるようにします。
+- `rock`：地面にしっかり接した丸い苔むした川石。飛行コースを塞がないよう、川岸にインスタンス配置します。
+川、地形、山、滝のシート、発光リング、霧、パーティクル、UIはプロシージャルにします。すべてのスロットをレジストリに登録し、モデルを変更した場合は、繰り返し配置されたすべてのインスタンスを更新します。
+
+## 5. 飛行とフィードバック
+「フライトを開始」を押すと自動的に前進します。W/Sまたは上下キーで高度を調整し、A/Dまたは左右キーで旋回とバンク操作を行います。Shiftで、画面に表示され再充填されるウインドブーストのゲージを消費します。加速は滑らかにし、後方追従カメラの操作感を維持します。デフォルトのフライトアシストは、入力を離すと機体を川と目標高度へゆるやかに戻します。アシスト切り替えと画質設定を用意します。タッチ操作による旋回とブーストにも対応します。Escで一時停止します。ヘルプ、設定、機体ビューアを開いた場合も飛行を一時停止し、直前の状態に戻します。フォーカスを失ったら、押しっぱなしの入力を解除します。
+
+ハートは3つ用意します。精霊のランタン1個につき100ポイント、鳥居を正しく通過するたびに250ポイントを獲得します。どちらも各対象につき1回だけ加点します。地面、川岸、ビームとの衝突でハートを1つ失い、短時間の無敵状態になります。3.6km地点でスコア、ベストスコア、リプレイを表示して終了し、ハートが0になるとリトライできます。ベストスコアはローカルに保存し、ストレージに失敗した場合のフォールバックも用意します。
+
+ランタンは大きな楕円形の金色の収集リングの中に配置し、上下に揺れる動き、呼吸するようなハロー、火花を加えます。最寄りの対象には「+100 · FLY THROUGH」と表示します。余裕を持たせたヒットボリュームをアニメーションするリングに合わせます。取得時には拡大するリング、温かなパーティクル、浮かび上がるスコア、HUDのパルスを表示します。通過済みのゲートは、背後追従カメラを遮る前にフェードアウトさせます。
+
+## 6. 実装
+Vite、Three.js、JavaScript ES modulesを使い、ルート／コリジョン／スコア、景観、モデル、エフェクト、UIを分離します。依存関係、フォント、ランタイムアセットはローカルにバンドルし、静的サイトとして配信します。GLTFLoaderと、スロットごとのバウンズ、向き、出典、フォールバックファクトリを含むアセットマニフェストを使います。コリジョンはインポートしたメッシュ形状から独立させます。2基のプロペラはデルタタイムで回転させ、背後追従カメラと、軌道回転・ズームに対応した機体ビューアの両方から動作を確認します。利用可能な場合は、実際のローカル機体ファイルをダウンロードできるようにします。Blenderの使用は任意です。焼き込み済みプロペラの分離、ピボットの修正、または計測したパフォーマンス上必要な場合の軽量メッシュのベイクに使用できます。
+
+元のビジュアルベースラインを維持します。インポート済みのスロットが存在する場合、CompareまたはCで、そのベースラインと利用可能な置き換えモデルを切り替えます。ナビゲーションや、飛行、カメラ、ハート、ブースト、スコア、取得アイテムの状態はリセットしません。切り替え中は進行を停止し、次のシーンの準備ができるまで最後に完全に描画されたフレームを保持してから、約650msかけてクロスフェードします。視差効果を減らす設定を尊重し、連続クリックをガードし、失敗時は直前のシーンに戻します。インラインの暗い起動画面、上限を設定したDPR、上限数を設けたパーティクル、最大2種類のシーンバリアントのキャッシュを使用します。
+
+## 7. 受け入れ条件
+ソースコード、ロックファイル、npm run dev、npm run build、静的なdist出力を納品します。完全な飛行、ブースト、ランタンとゲートの取得、衝突後の無敵状態、一時停止と再開、タッチ操作、リプレイ、ビューア、独立したスロットインポートを検証します。Compareの両方向で、白いフレームが発生せず、GPUリソース使用量が増加しないまま状態が保持されることを確認します。家屋の接地、機体のシルエット、プロペラの動き、読みやすいライティング、低速ロードからの復帰を点検します。実際に実施したテストとパフォーマンス条件を報告します。アセット生成については以下の共有ワークフローに従い、返却してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [元の投稿](https://x.com/thebuggeddev/status/2096467585785286808) · [デモ](https://komorebi-forest-flight.tripo.page/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="surface-climbing-procedural-insect-2096460081982304546"></a>
+
+### さまざまな面をよじ登るプロシージャル昆虫
+
+[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/180bfc6400787d7a531ec7bdc8c33161f9a94bfdd166b8f490d2f03fed90abe2.webp" width="840" loading="lazy" alt="さまざまな面をよじ登るプロシージャル昆虫"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+さまざまな面に張り付いて歩く、多脚の3D昆虫を制作してください。段差を越えるときは、脚と胴体の動きを連動させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [元の投稿](https://x.com/leo_xiaolei/status/2096460081982304546) · [デモ](https://threerocks.github.io/web-3d-pages/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096438110095585753"></a>
+
+### Lego 1999 Racersの再現
+
+[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/eadc2c49ec0c9896087cb2efa4ccc31733fb118023f46791eb56fd594c96758f.webp" width="840" loading="lazy" alt="Lego 1999 Racersの再現"></a>
+
+**プロンプト**
+
+```text
+名作レーシングゲーム『Lego 1999 Racers』を完全に再現する。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+إعادة بناء لعبة السيارات الشهيرة Lego 1999 Racers بالكامل.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096438110095585753) · [元の投稿](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="playable-d4-inspired-apartment-2096413869841473930"></a>
+
+### D4に着想を得た、歩き回れるアパート
+
+[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/cb01061a6f625c0910e02e414d9825df2a6bf0f1b2fb460c1f56fdfd0d1e28cd.webp" width="840" loading="lazy" alt="D4に着想を得た、歩き回れるアパート"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+D4の主人公のアパートについて調べ、プレイ可能な3D試作として再現してください。完全に再現できたと決めつけず、間取りやインタラクションを資料と照らし合わせて確認してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [元の投稿](https://x.com/Swery65/status/2096413869841473930) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096391653669953761"></a>
 
 ### Blenderでブラックホールを作成・レンダリング
@@ -1583,166 +1787,6 @@ Blender で編集可能な 3D ヴァイキングを作成してください。�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [元の投稿](https://x.com/majidmanzarpour/status/2096133339329536249) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
-
-### 32 人が動く、歩いて巡れるオフィス
-
-[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="32 人が動く、歩いて巡れるオフィス"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js でブラウザ用オフィスを作成してください。一人称移動、来訪者を名前で迎えるリグ付きの 32 人、クリックできる扉、周回操作、設計図表示を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [元の投稿](https://x.com/demgufever82151/status/2096131961345720477) · [ソースコード](https://github.com/Parithosh-Varma/office) · [デモ](https://office-2nw.pages.dev/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
-
-### 夕暮れのアディヨギを巡るフライスルー
-
-[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="夕暮れのアディヨギを巡るフライスルー"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-広い敷地、精細なクローズアップ、暖かな夕暮れの光を備えたアディヨギのシーンをBlenderで制作してください。30秒のフライスルーをレンダリングし、編集可能なシーンも保持してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [元の投稿](https://x.com/thejothiram/status/2096128774203171021) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="formula-one-car-in-blender-2096125193580113957"></a>
-
-### Blender で作る F1 マシン
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Blender で作る F1 マシン"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-コンピューター操作を使い、Blender で Formula One の 3D モデルを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [元の投稿](https://x.com/Conor_D_Dart/status/2096125193580113957) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
-
-### 稼働するジェット機製造工場
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="稼働するジェット機製造工場"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-航空機製造を調査し、稼働する Three.js ジェット機工場シミュレーションを作成してください。機械の作業サイクル、生産ステーション、搬送、ボトルネックをモデル化し、工程の流れを検証してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [元の投稿](https://x.com/konstantinsaifo/status/2096122429319852319) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
-
-### モバイルゲーム広告を本当に遊べる作品に
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="モバイルゲーム広告を本当に遊べる作品に"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-モバイルゲーム広告を参考に、遊べるブラウザゲームを作成してください。中心的な操作を再現し、Blender アセットで広告の見た目の構想に合わせてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [元の投稿](https://x.com/buildingadlicio/status/2096111709496680842) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="artwork-to-a-playable-character-2096107343268257953"></a>
-
-### イラストから操作できるキャラクターへ
-
-[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="イラストから操作できるキャラクターへ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Noctavia のキャラクターイラストを、操作できる 3D キャラクターとして再現してください。デザインの特徴を保ち、インタラクティブな展示に適した完成モデルを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [元の投稿](https://x.com/noctav1a/status/2096107343268257953) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="azadi-tower-in-blender-2096107322536051057"></a>
-
-### Blender で作るアーザーディー・タワー
-
-[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="Blender で作るアーザーディー・タワー"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-編集可能なアーザーディー・タワーの Blender モデルを作成してください。広がる基部、交差するアーチ、表面模様、特徴的な比率を重視してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [元の投稿](https://x.com/taesiri/status/2096107322536051057) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
-
-### 蘇州博物館の庭園ウォークスルー
-
-[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="蘇州博物館の庭園ウォークスルー"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-蘇州博物館についてのウェブページを参考に、Blender で庭園を再現してください。現代建築と伝統的な中国庭園の関係を保った、連続したウォークスルーを制作してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [元の投稿](https://x.com/whosamberella/status/2096096998092841449) · [作例一覧に戻る](#all-prompts)
 
 ---
 

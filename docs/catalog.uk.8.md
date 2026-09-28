@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Гра про дослідження космосу й торгівлю](#space-exploration-and-trading-game-2095191999255035993)
+- [Мережевий прототип відкритого світу в стилі GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [Ковбойська гра на Three.js у стилі коміксу](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [Людина проти AGI з неузгодженими цілями](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Фізичний тест кулі для знесення в Blender](#blender-wrecking-ball-physics-test-2095177102400081940)
+- [Асет корпоративного дрона-перехоплювача](#corporate-interceptor-drone-asset-2095176360238915978)
+- [3D-світ Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
+- [Кінематографічний сайт доби Відродження з десяти сцен](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 - [Віртуальний острів із домашньою кізочкою](#virtual-island-with-a-pet-goat-2095165578042335442)
 - [Інтерактивна 3D-Сонячна система](#interactive-3d-solar-system-2095165395841999222)
 - [Місто за еквідистантною панорамою](#city-from-an-equirectangular-panorama-2095159781883597031)
@@ -70,16 +78,168 @@
 - [Процес створення текстурованого 3D-асета](#textured-3d-asset-production-workflow-2094896750234378508)
 - [Три невеликі фізичні мініігри](#three-compact-physics-game-concepts-2094895071304839400)
 - [Картингові перегони AAA-рівня на Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [Симуляція аеропорту на Three.js за один запит](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [Летюче японське місто з пагодою](#floating-japanese-pagoda-city-2094886088963690607)
-- [Airbus H145 на Three.js](#airbus-h145-in-three-js-2094882571083735351)
-- [Воксельний симулятор Першої світової](#world-war-i-voxel-simulator-2094881469155914170)
-- [Футуристичний маєток на приватному острові](#futuristic-private-island-mansion-2094879208304685524)
-- [Процедурно згенерований світ на Three.js](#procedurally-generated-three-js-world-2094873862315843910)
-- [Інтерактивні сигнали 3D-мозку](#interactive-3d-human-brain-signals-2094873080590225728)
-- [Фотореалістичний краєвид на Three.js](#photorealistic-three-js-landscape-2094871858206191667)
 
 </details>
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### Гра про дослідження космосу й торгівлю
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Гра про дослідження космосу й торгівлю"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи гру про дослідження космосу й торгівлю: керовані кораблі, зоряні системи, станції, товари, контракти, поліпшення, ризики та захопливий цикл подорожей.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Оригінальний допис](https://x.com/RealFedeURU/status/2095191999255035993) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### Мережевий прототип відкритого світу в стилі GTA
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="Мережевий прототип відкритого світу в стилі GTA"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи ранній багатокористувацький прототип відкритого світу в стилі GTA, дія якого відбувається в Нью-Йорку: водіння, пересування пішки, міський транспорт, завдання й переконливий цикл життя світу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Оригінальний допис](https://x.com/mattshumer_/status/2095187868746383758) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### Ковбойська гра на Three.js у стилі коміксу
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Ковбойська гра на Three.js у стилі коміксу"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи ковбойську гру мрії на Three.js, що поєднує аркадну енергію Sunset Riders із коміксним рендерингом, чутливою стрільбою, верховою їздою та незабутніми постановочними епізодами.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Оригінальний допис](https://x.com/Smallzero/status/2095180091257209148) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### Людина проти AGI з неузгодженими цілями
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Людина проти AGI з неузгодженими цілями"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи за один запит гру на Three.js, у якій людина бореться з AGI, чиї цілі не узгоджені з людськими, та його роботами. Додай зрозумілий бойовий цикл, дедалі сильніші хвилі й кінцеву мету.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Оригінальний допис](https://x.com/lucasybai/status/2095180071221002441) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Фізичний тест кулі для знесення в Blender
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Фізичний тест кулі для знесення в Blender"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи окремий фізичний тест у Blender: підвішена куля для знесення вдаряє цегляну вежу. Потрібні правдоподібна поведінка троса, руйнування кладки, зіткнення із землею та зручна камера.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Оригінальний допис](https://x.com/abyssallD/status/2095177102400081940) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
+
+### Асет корпоративного дрона-перехоплювача
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="Асет корпоративного дрона-перехоплювача"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи готовий для гри важкий дрон-перехоплювач фракції корпоративної республіки: сильний силует, модульна зброя, зрозумілий масштаб, матеріали й дотримання обмежень асетів реального часу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [Оригінальний допис](https://x.com/gladimdim/status/2095176360238915978) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="frutiger-aero-3d-world-2095171470607728926"></a>
+
+### 3D-світ Frutiger Aero
+
+[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="3D-світ Frutiger Aero"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи невеликий інтерактивний 3D-світ у дусі Frutiger Aero початку 2000-х: яскраві поля, чиста вода, бульбашки, напівпрозорі скляні форми й оптимістичний фоновий звук.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [Оригінальний допис](https://x.com/oliverbenns/status/2095171470607728926) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
+
+### Кінематографічний сайт доби Відродження з десяти сцен
+
+[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="Кінематографічний сайт доби Відродження з десяти сцен"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи кінематографічний браузерний проєкт із десяти сцен, що поєднує живопис Відродження, журнальну типографіку, переходи GSAP, зернистість WebGL і тему вигадування світу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [Оригінальний допис](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
 ### Віртуальний острів із домашньою кізочкою
@@ -933,166 +1093,6 @@ Create the most impressive website you can in a single self-contained HTML file.
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Оригінальний допис](https://x.com/bridgemindai/status/2094894312370692443) · [Вихідний код](https://github.com/bridge-mind/turbo-kart-rush) · [Демо](https://bridge-mind.github.io/turbo-kart-rush/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### Симуляція аеропорту на Three.js за один запит
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="Симуляція аеропорту на Three.js за один запит"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи за один запит симуляцію аеропорту на Three.js: злітно-посадкові смуги, термінали, руління і зліт літаків, наземний транспорт, освітлення в різний час доби й оглядова камера.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [Оригінальний допис](https://x.com/AlexYTScaling/status/2094893572617044439) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### Летюче японське місто з пагодою
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="Летюче японське місто з пагодою"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи інтерактивне летюче японське місто навколо багато оздобленої пагоди: острови на різній висоті, мости, туман, світло ліхтарів і кінематографічне керування польотом.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [Оригінальний допис](https://x.com/vib3coded/status/2094886088963690607) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Airbus H145 на Three.js
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Airbus H145 на Three.js"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи 3D-модель гелікоптера Airbus H145 на Three.js. Зроби кабіну, посадкові полози й гвинтову збірку впізнаваними та зручними для огляду.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [Оригінальний допис](https://x.com/HarshithLucky3/status/2094882571083735351) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### Воксельний симулятор Першої світової
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="Воксельний симулятор Першої світової"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи воксельний симулятор поля бою Першої світової війни з окопами, солдатами, технікою, артилерією, руйнуваннями та зручною тактичною камерою.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [Оригінальний допис](https://x.com/Tech2Wild/status/2094881469155914170) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### Футуристичний маєток на приватному острові
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="Футуристичний маєток на приватному острові"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Спроєктуй футуристичний маєток на приватному острові, доступний для дослідження через п’ять пов’язаних сцен Three.js. Додай кінематографічний рух камери, якісні матеріали й розповідь через деталі оточення.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [Оригінальний допис](https://x.com/aimlapi/status/2094879208304685524) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
-
-### Процедурно згенерований світ на Three.js
-
-[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="Процедурно згенерований світ на Three.js"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи за одним промптом процедурний світ на Three.js із різноманітним рельєфом, біомами, цікавими місцями, фоновим життям і плавним керуванням дослідженням.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [Оригінальний допис](https://x.com/swarogan/status/2094873862315843910) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
-
-### Інтерактивні сигнали 3D-мозку
-
-[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="Інтерактивні сигнали 3D-мозку"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи інтерактивний 3D-мозок людини з упізнаваними звивинами кори. Анімуй сигнал, схожий на речення, що рухається між ділянками мозку, використовуючи візуалізацію в дусі ЕЕГ або МЕГ.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [Оригінальний допис](https://x.com/GregFeingold/status/2094873080590225728) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
-
-### Фотореалістичний краєвид на Three.js
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="Фотореалістичний краєвид на Three.js"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи фотореалістичний краєвид на Three.js із переконливим рельєфом, рослинністю, небом, водою, глибиною та світлом. Проклади маршрут камери, що природно розкриває оточення.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [Оригінальний допис](https://x.com/aollivier82/status/2094871858206191667) · [Назад до прикладів](#all-prompts)
 
 ---
 

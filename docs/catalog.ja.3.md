@@ -28,6 +28,14 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [可動家具を備えたインタラクティブな3Dルームシーン](#gpt-6-astra-2100139076816916977)
+- [参考画像から動かせる3D空間とゲームキャラクターを制作](#gpt-6-astra-2099850719839109597)
+- [到達可能なプロシージャル宇宙探索ゲーム](#gpt-6-astra-2099785223827259515)
+- [Apple風の3Dハートと笑顔の絵文字](#gpt-6-astra-2099750376530657300)
+- [インタラクティブな3D生物の神経系パネル](#gpt-6-astra-2099719427990134984)
+- [逃げるボートがあるインタラクティブな火山島](#gpt-6-astra-2099643231659012553)
+- [ホテルの廊下シーンを作成](#gpt-6-astra-2099588840419651890)
+- [巨人に登り、顎を打ち抜く戦士](#gpt-6-astra-2099519801139908951)
 - [非常に高い超高層ビルが立ち並ぶ3Dワールド](#gpt-6-astra-2099487024256589970)
 - [200ポリゴン以下の針葉樹モデル](#gpt-6-astra-2099472264270102705)
 - [インタラクティブな3D侍の森シーン](#gpt-6-astra-2099450933067612421)
@@ -70,16 +78,427 @@
 - [GPT-6 AstraとBlenderで作る、機械アームが猫を追いかけるコメディシーン](#gpt-6-astra-2097675660873605422)
 - [没入感のある3D田園風景サイト](#gpt-6-astra-2097602565110419781)
 - [Backrooms風のBlender VHSシーン](#gpt-6-astra-2097534290112188602)
-- [居心地のよい湿地の湖畔ワールド](#gpt-6-astra-2097343467026289039)
-- [『リーグ・オブ・レジェンド』を再現したブラウザゲーム](#gpt-6-astra-2097336230078013598)
-- [北京・天壇祈年殿 TypeScript + Three.js WebGLプロジェクト](#gpt-6-astra-2097323734504017936)
-- [『リーグ・オブ・レジェンド』のミニ版3Dゲームを再現](#gpt-6-astra-2097320830602809682)
-- [参照画像を使ってBlenderの3Dモデルの顔立ちを改善する](#gpt-6-astra-2097313247116341424)
-- [Skyrimのような立体的な村の地形を作る](#gpt-6-astra-2097167383576383502)
-- [日本の花屋：分解表示アニメーション](#gpt-6-astra-2097153139795468365)
-- [Godot向け趾行型メカのリギングとアニメーション](#gpt-6-astra-2097123382852829230)
 
 </details>
+<a id="gpt-6-astra-2100139076816916977"></a>
+
+### 可動家具を備えたインタラクティブな3Dルームシーン
+
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="可動家具を備えたインタラクティブな3Dルームシーン"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
+
+**プロンプト**
+
+```text
+提供した部屋の写真をもとに、Blender MCPを使ってインタラクティブな3Dシーンを構築し、デモ動画としてレンダリングしてください。ヒンジやドア、引き出しなどの可動部の動きを取り入れ、その動きが分かるように適切なカメラワークを使用してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2100139076816916977) · [元の投稿](https://x.com/walterzhu8/status/2100139076816916977) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099850719839109597"></a>
+
+### 参考画像から動かせる3D空間とゲームキャラクターを制作
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="参考画像から動かせる3D空間とゲームキャラクターを制作"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
+
+**プロンプト**
+
+```text
+【先に用意するもの】
+・作りたい世界観の参考画像（外観・部屋など）
+・キャラクターの正典画像（三面図など）
+　※画像がないと再現できません。添付してねん
+
+【プロンプト】
+添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
+
+① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
+　↓
+② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
+　↓
+③ Blenderに読み込みパーツの配置・サイズを調整する
+　↓
+④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
+　↓
+⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
+　↓
+⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099850719839109597) · [元の投稿](https://x.com/aiehon_aya/status/2099850721646784894) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099785223827259515"></a>
+
+### 到達可能なプロシージャル宇宙探索ゲーム
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="到達可能なプロシージャル宇宙探索ゲーム"></a>
+
+**プロンプト**
+
+```text
+見えているものはすべて到達可能にしてください。距離は現実のスケールを維持し、スケールと速度によって移動を実用的にします。宇宙から惑星の大気圏へ入り、地表まで飛行できるようにしてください。惑星は地球サイズまで対応できるよう、プロシージャル地形とチャンク分割レンダラーが必要です。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099785223827259515) · [元の投稿](https://developers.openai.com/blog/how-to-build-games-with-astra) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099750376530657300"></a>
+
+### Apple風の3Dハートと笑顔の絵文字
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Apple風の3Dハートと笑顔の絵文字"></a>
+
+**プロンプト**
+
+```text
+Apple風の3Dハート絵文字と笑顔の絵文字
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+3D Apple style heart emoji and smiling emoji
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099750376530657300) · [元の投稿](https://x.com/Just_sharon7/status/2099751278234767673) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099719427990134984"></a>
+
+### インタラクティブな3D生物の神経系パネル
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="インタラクティブな3D生物の神経系パネル"></a>
+
+**プロンプト**
+
+```text
+インタラクティブパネル。左側に[organism]の神経系を模式的に表示し、各領域をクリック可能にする。右側にプロシージャルにリギングされた3Dの[organism]を配置。領域をクリックすると、2.5秒間の運動反応を発生させる。ダークなUIにし、速度と進行方向のテレメトリを表示する。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099719427990134984) · [元の投稿](https://x.com/AIMind_Ai/status/2099719427990134984) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099643231659012553"></a>
+
+### 逃げるボートがあるインタラクティブな火山島
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="逃げるボートがあるインタラクティブな火山島"></a>
+
+**プロンプト**
+
+```text
+流れる溶岩と、逃げるボートを備えたインタラクティブな火山島を作成してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive volcanic island with flowing lava and boats that flee.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099643231659012553) · [元の投稿](https://x.com/WescheNex1q/status/2099643231659012553) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099588840419651890"></a>
+
+### ホテルの廊下シーンを作成
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="ホテルの廊下シーンを作成"></a>
+
+**プロンプト**
+
+```text
+ホテルの廊下シーンを作成
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+create hotel corridor scene
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099588840419651890) · [元の投稿](https://x.com/MyWestLord/status/2099588840419651890) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099519801139908951"></a>
+
+### 巨人に登り、顎を打ち抜く戦士
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="巨人に登り、顎を打ち抜く戦士"></a>
+
+**プロンプト**
+
+```text
+キャラクター設定:
+成人男性の山岳戦士は1人のみ。
+小柄で横幅があり、極めて力強い体格。中世ファンタジー風のオリジナルのダークガンメタル製プレートアーマーを着用している。密閉型の尖ったヘルメット、重ね合わせた肩当て、可動式の腕部防具、重いガントレット、補強された胸当て、革製の腰部パネル、ダークカラーのズボン、スチール製のグリーブ、重厚な装甲ブーツを備える。鎧は風雨にさらされ、傷が付き、嵐の雨で濡れている。
+巨大な両手持ちのウォーハンマーを1本だけ携える。長く補強されたダークメタル製の柄と、重厚で左右対称の長方形のハンマーヘッドを持つ。武器は全編を通して長さ、形状、重量が変わらない。ジャンプ、よじ登り、攻撃の間、必ず両手で扱う。
+成人男性戦士の身長の30倍を超える、巨大な生身の人型巨人は1体のみ。極めて筋肉質で巨大な肩、非常に長い腕、人間に似た巨大な手、粗いチャコールグレーの肌、見える毛穴と傷、張り出した眉、幅広い鼻、力強い顎、長くもつれた黒髪を持つ。生きた有機的な巨人であり、像、ロボット、機械、石のゴーレムではない。
+追加の戦士、巨人、背景の軍勢は登場させない。
+環境:
+激しい青灰色の雷雨の下に広がる、風に吹きさらされた高地の戦場。不整地は、暗く濡れた土、なぎ倒された草、何千もの小さな淡い花に覆われている。強風によって草と花が不規則な波のようにたわむ。
+画面左側の遠い丘に、崩壊した中世の城塞が立っている。壊れた塔が低く漂う霧の向こうに見える。稲妻が断続的に城塞と嵐の雲を照らす。
+巨人は戦場の画面右側を占める。戦士は手前中央から始まり、巨人に向かって走る。すべてのカットでこの位置関係と画面方向を維持する。
+時系列のアクションとカメラ:
+0.00～3.30秒 — 巨人へ向かって突進
+鎧をまとった戦士のすぐ後ろから追従する、低いアングルのリアトラッキングショットで直ちに始める。戦士は巨大な巨人に向かい、濡れた野原を力強く走る。
+ウォーハンマーを両手で体の前に水平に構える。重いハンマーヘッドは画面右側を向き、柄の下端は画面左側へ伸びる。ブーツが一歩ごとに濡れた地面を踏みしめ、土、押しつぶされた花、しずくを、物理的な接触の後にのみ後方へ跳ね飛ばす。
+巨人の脚と巨大な右手が画面右上からフレーム内に入る。巨人は身をかがめ、突進する戦士を地面からすくい上げようと、開いた手を伸ばす。
+指は説得力のある関節と重量感を伴って、それぞれ独立して動く。巨人が戦士を突然つかんだり、テレポートさせたりしない。
+カメラは低く、速く、滑らかに動き、極端なスケール差を強調する。崩壊した城塞は、遠い画面左の地平線上に見え続ける。
+3.30～5.80秒 — 巨人の手へ飛び乗る
+巨人の開いた手が戦士の進路を低く横切ると、戦士は右足を地面にしっかり踏み込む。膝が沈み、腰が下がり、後ろ脚が上向きに踏み出す。
+力強く前方へ1回だけ跳ぶ。
+巨人の開いた指の間で上昇する様子を、制御されたシネマティックなスローモーションで描く。両手で同じウォーハンマーを肩より上に掲げ、バランスを取りながら脚をわずかにたたむ。
+巨人の中指と薬指の背に両足で着地する。明確な物理的接触を見せる。ブーツが肌に触れ、膝が衝撃を吸収し、巨人の肉がわずかに沈み、戦士の鎧が着地に反応する。
+巨人は顔へ向けて手を持ち上げ始める。戦士が空中に浮いたり、何もない場所にぶら下がったりしない。
+戦士の下方を通って上昇する、ドラマチックなローアングルのクレーンショットを使う。背景は巨大な手で埋める。
+5.80～9.00秒 — 腕を駆け上がる
+速い自然なアクションに戻す。
+巨人が腕を上げる間、戦士は指から手の甲を横切り、手首へ走る。足音は正しく交互になり、動く不均一な表面を目に見えて踏みしめる。
+巨人は手首を回し、戦士を振り落とそうとする。戦士は重心を下げ、足幅を広げ、腕が安定するまでハンマーを胴体の近くに保つ。
+その後、巨人の前腕を肘へ向かって加速する。各ステップは腕の変化する角度に沿い、ブーツが肌の中を滑り抜けない。
+カメラは戦士の横やや下を追従し、巨人の腕の長さに沿って上昇する。腕の近い部分は前景を素早く横切る一方、巨人の頭部と遠くの城塞はゆっくり動き、力強いパララックスとスケール感を生み出す。
+9.00～12.00秒 — 肩まで登る
+戦士は、巨人の肩へ急角度で伸びる上腕に到達する。
+片方の前腕とウォーハンマーの柄を筋肉の自然な隆起に引っかけて支点とし、右足を踏み込み、脚で押し、体を引き上げて肩に乗る。一連のつながったクライミング動作として描く。
+巨人は戦士の方へ頭を向ける。目で戦士を追い、眉をひそめ、顎を開いて深い非言語の咆哮を上げる。頭部の回転に合わせて髪と肌が動く。
+戦士は手とブーツの実際の接触によって肩にとどまる。巨人の首の付け根に向かって、上肩部を斜めに登る。
+戦士、ウォーハンマー、巨人の顔の輪郭全体が同じフレームで読み取れる、近距離のサイドトラッキングショットを使う。
+12.00～15.00秒 — 顎へのフルハンマーストライク
+戦士は、首の近くにある巨人の傾斜した肩の上で安定した位置に着く。
+左足を前に踏み出し、右足を後ろに置いて支える。両足が巨人の肌を明確に押している。標的から腰を反らし、両手でウォーハンマーを後方へ引く。
+衝撃までの準備動作をすべて見せる:
+足を踏み込む → 膝を沈める → 腰に力をためる → 胴体を回転させる → 肩でハンマーを後方へ引く → 腕で重いハンマーヘッドを初期位置へ導く。
+13.00秒で、巨人の顎へ向けて両手による水平スイングを1回、最後まで完了させる。
+力が脚から腰、胴体、肩、腕へ連続的に伝わる。ハンマーヘッドは途切れのない明確な1本の弧を描く。スイングが完了する前に位置が飛んだり、顔に触れたりしない。
+14.00秒で、決定的な接触のため明示的な超スローモーションに入る。
+長方形のハンマーヘッドが、柄やハンドルではなく、幅広い打撃面で巨人の下顎の側面を打つ。衝撃の周囲で肌と頬の組織がつぶれ、巨人の顎が横にずれ、乱れた髪が外側へなびき、雨、ほこり、皮膚の破片が放射状に飛び散る様子を見せる。
+戦士の腕は突然の減速に耐える。肩が反動で引かれる一方、体は制御されたフォロースルーを続ける。
+血、露出した組織、ゴア、切断描写は一切なし。
+15.00～17.30秒 — 巨人の反動と戦士の落下
+直ちに自然な速度へ戻す。
+衝撃で巨人の頭が横に跳ね、上半身がのけぞり、打たれた側の肩が急激に下がる。この突然の下降によって戦士の足場が失われ、巨人から投げ出される。
+戦士は同じウォーハンマーを両手で持ったまま戦場へ落下する。浮いたり、追加のジャンプをしたりしない。
+地面の高さからのサイドビューにカットする。最初にブーツが接地し、勢いで膝が崩れ、片方の肩を軸に1回転がる。ハンマーヘッドが横の土に当たって浅い溝を掘り、濡れた土と淡い花を外側へ跳ね飛ばす。
+巨人がバランスを取り戻そうともがく中、その巨大な顔がフレーム右上へ降りてくる。戦士を押しつぶしたり、体を交差させたりしない。
+17.30～20.00秒 — 立て直しと最後の対峙
+戦士は低い膝立ちの姿勢で転がりを止める。
+ウォーハンマーのヘッドを土に突き立て、両手で柄を握り、支えにしてゆっくり片膝立ちまで起き上がる。その後ハンマーを引き抜き、準備の整った防御姿勢として柄を肩の前に水平に構える。
+巨人は巨大な頭を戦士へ下げる。顎は打撃で明らかに腫れているが、意識を保ち、脅威を与え続ける。巨人の息が、草、花、霧、そして戦士の鎧の緩んだ革製パネルを揺らす。
+戦士は決意を込めた短い一瞬だけ静止するが、呼吸と鎧には自然な微細な動きが残る。
+稲妻が画面左の崩壊した城塞を照らし、2人の姿を浮かび上がらせ、圧倒的なスケール差を示す。
+20.00秒ちょうどで、低いワイド構図のまま終える。花に覆われた手前でウォーハンマーを構えて膝立ちする戦士、その上に迫る巨人の顔、嵐の中で見える遠方の城塞を映す。
+黒にフェードアウトしない。フリーズフレーム、タイトル、エンドカードは禁止。
+アクション物理法則ロック:
+すべての動作は、読み取れる物理的因果関係に従う:
+走る: 足の接地 → 体重移動 → 後ろ脚で踏み出す → 次の一歩。
+ジャンプ: 踏み込んだ足 → 膝の圧縮 → 脚の伸展 → 空中軌道 → 着地接触 → 膝による衝撃吸収。
+よじ登る: 手または武器で支える → ブーツを踏み込む → 体重を移す → 上方向へ引く。
+ハンマーストライク: 足を安定させる → 腰に力をためる → 胴体を回転させる → 肩で押し出す → ハンマーの軌道を途切れさせない → ハンマーの打撃面を広く接触させる → 抵抗 → フォロースルー。
+落下: 巨人の反動によって足場を失う → 重力による下降 → ブーツの接地 → 膝が崩れる → 肩から転がる → 立て直す。
+戦士が地面、手、腕、肩の間をテレポートしない。巨人が直接の物理的接触または目に見える力なしに戦士を動かさない。
+動作速度ルール:
+0.00～3.30秒: 速い自然な走行速度。
+3.30～5.80秒: ジャンプと着地を制御されたシネマティックなスローモーションで。
+5.80～13.90秒: 自然で速いアクション。
+13.90～15.00秒: ハンマーの最終アプローチ、接触、直後の変形に限り、明示的な超スローモーション。
+15.00～20.00秒: 明確に自然な速度へ戻す。
+全編にスローモーションを適用しない。スローモーション中のキャラクターを宙に浮かせない。
+ライティングとカラー:
+冷たいスチールブルー、チャコールグレー、低彩度シルバーの嵐のカラーグレーディングを維持する。稲妻は短時間だけ冷たい白色の指向性照明を与える。濡れた鎧には細いシルバーのハイライトを入れ、巨人の暗い肌はディテールが読み取れる状態に保つ。
+淡い花は控えめな暖かいアイボリーのコントラストを与えるが、シーン全体をカラフルにしない。遠くの城塞周辺に濃い大気霧を残す。稲妻による露出変化は短時間にとどめ、キャラクターの解剖学的形状を消したり、動作の欠落を隠したりしない。
+音声:
+同期したダイエジェティックな環境音とアクション効果音のみ。背景音楽やスコアは絶対に使用しない。
+嵐の風、遠雷、鎧の動き、重い足音、乱れる土、たわむ草、巨人の非言語的な呼吸と咆哮、手が空気を切る音、戦士のジャンプ、肌へのブーツの接触音、よじ登る衝撃音、ウォーハンマーの動作音、深く金属的なハンマーの衝撃音を1回、巨人の反動、落下時の風切り音、鎧が土に当たる音、ハンマーヘッドが地面に当たる音、最後に近くで鳴る稲妻の鋭い音を含める。
+会話、ナレーション、発話、詠唱、歌詞、理解可能な言語音声は禁止。
+継続性と失敗防止:
+戦士1人、巨人1体、ウォーハンマー1本のみを全編で維持する。
+戦士が巨人によじ登るのは1回のみで、決定的なハンマーストライクは正確に1回行う。
+ウォーハンマーが複製されたり、大きさを変えたり、浮遊したり、曲がったり、どちらかの体を貫通したり、目に見える動作なしに持ち手を切り替えたりしない。
+巨人はすべてのショットで同じ生身の人型生物であり続ける。ロボットの特徴、石への変化、複製された手、余分な指、変化する顔は禁止。
+戦士の鎧、ヘルメット、プロポーション、損傷状態を全編で維持する。
+登る経路が物理的に成立するよう、巨人の右手から右腕、肩へ続くルートを維持する。
+融合した手、余分な手足、逆向きの関節、滑るブーツ、交差する体、テレポート、支えのない浮遊は禁止。
+完全なスイングの後、ハンマーの幅広いヘッドが、柄ではなく、巨人の顎に明確に接触しなければならない。
+血、ゴア、露出した組織、押しつぶされた人体、切断描写は禁止。
+実写風の外観、認識可能なフランチャイズキャラクター、字幕、キャプション、ロゴ、UI、再生オーバーレイ、常時表示の黒帯、透かしは禁止。
+背景音楽や音楽スコアが入った生成は失敗とする。
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+CHARACTER REGISTRY:
+Exactly one adult male mountain warrior.
+He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
+He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
+Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
+No additional warriors, giants or background armies.
+ENVIRONMENT:
+A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
+A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
+The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
+CHRONOLOGICAL ACTION AND CAMERA:
+0.00–3.30 — CHARGE TOWARD THE GIANT
+Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
+He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
+The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
+The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
+Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
+3.30–5.80 — LEAP ONTO THE GIANT’S HAND
+As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
+He performs one powerful forward jump.
+Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
+The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
+The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
+Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
+5.80–9.00 — RUNNING UP THE ARM
+Return to fast natural action.
+As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
+The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
+He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
+Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
+9.00–12.00 — CLIMB TO THE SHOULDER
+The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
+He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
+The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
+The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
+Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
+12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
+The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
+He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
+Show the complete preparation before impact:
+feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
+At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
+The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
+At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
+The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
+The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
+No blood, exposed tissue, gore or dismemberment.
+15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
+Return immediately to natural speed.
+The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
+The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
+Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
+The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
+17.30–20.00 — RECOVERY AND FINAL STANDOFF
+The warrior stops his roll in a low kneeling position.
+He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
+The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
+The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
+A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
+End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
+Do not fade to black. No freeze frame, title or end card.
+ACTION-PHYSICS LOCK:
+Every action must follow readable physical causality:
+Running: foot contact → weight transfer → rear-leg push → next step.
+Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
+Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
+Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
+Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
+The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
+MOTION-SPEED RULES:
+0.00–3.30: fast natural running speed.
+3.30–5.80: controlled cinematic slow motion for the jump and landing.
+5.80–13.90: natural fast action.
+13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
+15.00–20.00: clear return to natural speed.
+Do not apply global slow motion. Do not allow slow-motion characters to hover.
+LIGHTING AND COLOR:
+Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
+The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
+AUDIO:
+Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
+Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
+No dialogue, narration, spoken words, chants, lyrics or intelligible language.
+CONTINUITY AND FAILURE PREVENTION:
+Exactly one warrior, one giant and one warhammer throughout.
+The warrior climbs the giant once and performs exactly one decisive hammer strike.
+The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
+The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
+Preserve the warrior’s armor, helmet, proportions and damage throughout.
+Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
+No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
+The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
+No blood, gore, exposed tissue, crushed human body or dismemberment.
+No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
+Any background music or musical score is a failed generation.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099519801139908951) · [元の投稿](https://x.com/MadMax_Series/status/2099519801139908951) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099487024256589970"></a>
 
 ### 非常に高い超高層ビルが立ち並ぶ3Dワールド
@@ -2609,283 +3028,6 @@ Render a scene in Blender that looks like a first person VHS tape recording of s
 </details>
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097534290112188602) · [元の投稿](https://x.com/chrisfirst/status/2097534290112188602) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097343467026289039"></a>
-
-### 居心地のよい湿地の湖畔ワールド
-
-[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="居心地のよい湿地の湖畔ワールド"></a>
-
-**プロンプト**
-
-```text
-湿地の岸辺に釣り人の小屋がある、居心地のよい湖を作成してください。水の中央には小さな島を配置し、木々の間に廃屋をひっそりと隠してください。小屋のそばに釣りボートを置き、スイレンの葉、ヨシ、跳ねる魚、湿地に生息する野生動物、小さな砂浜を加えてください。砂浜と小屋へ続く小道を1本、森の奥へ戻っていく小道をもう1本配置し、シーン全体を取り囲むように樹木の列を作ってください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097343467026289039) · [元の投稿](https://x.com/givros/status/2097343467026289039) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097336230078013598"></a>
-
-### 『リーグ・オブ・レジェンド』を再現したブラウザゲーム
-
-[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="『リーグ・オブ・レジェンド』を再現したブラウザゲーム"></a>
-
-**プロンプト**
-
-```text
-『リーグ・オブ・レジェンド』とまったく同じゲームを制作してください。『リーグ・オブ・レジェンド』のすべての要素を備え、同じマップと同等のグラフィック品質にしてください。チャンピオン、ミニオン、タワーなどを含め、ゲーム開始時には5人のチャンピオンを選択できるようにしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097336230078013598) · [元の投稿](https://x.com/liyue_ai/status/2097336230078013598) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097323734504017936"></a>
-
-### 北京・天壇祈年殿 TypeScript + Three.js WebGLプロジェクト
-
-[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="北京・天壇祈年殿 TypeScript + Three.js WebGLプロジェクト"></a>
-
-**プロンプト**
-
-```text
-TypeScript + Three.js で、完全に動作する北京・天壇祈年殿のWebGLプロジェクトを作成してください。建築物のジオメトリ、テクスチャ、アニメーションはすべて実行時にコードでプロシージャル生成し、.glb、.gltf、.obj、.fbx などの外部モデルは読み込まないでください。
-
-建築の再現：
-サイズと高さの異なる3層の青い瑠璃瓦の円形屋根、金色の宝頂、赤い円柱、円形の殿堂本体、青・緑・金色の彩色、斗拱、扉や窓を再現してください。
-屋根には曲線の輪郭、回転体、またはカスタムジオメトリを使用し、伸びやかでわずかに反り上がった軒先を表現してください。単純な円錐で代用してはいけません。
-白い漢白玉による3層の円形基壇を作り、中央の石段、欄干、柱を配置してください。全体のプロポーションを整え、各層を明確に表現します。
-瓦のテクスチャと装飾はプロシージャルに生成し、繰り返し使用する部材には InstancedMesh を優先してください。
-
-シーンとインタラクション：
-北京の青空、広場の地面、少量の植栽を用意してください。DirectionalLight と AmbientLight／HemisphereLight を組み合わせ、シャドウ、アンビエントオクルージョン、適度なシネマティックトーンマッピングを有効にします。
-OrbitControls による回転とズームに対応し、オン／オフを切り替えられるゆっくりとした自動周回表示も実装してください。
-ボタンで「分解／再組立」を切り替えられるようにします。屋根、柱、斗拱、壁、扉や窓、欄干、基壇を階層に沿って滑らかに展開し、その後、正確に元の位置へ戻してください。アニメーションはコードで制御し、時間差のあるリズムを付け、瞬間移動のような動きは避けます。
-
-完全なプロジェクトと起動手順をそのまま納品してください。ページはウィンドウサイズに応じてレスポンシブに対応し、高品質なビジュアルと滑らかな操作感を備えるものとします。インスタンシング、適切なジオメトリのディテール、レンダリング最適化によって、一般的なデスクトップブラウザでも性能を確保してください。コードは明確にモジュール化し、拡張しやすくします。ビルドと主要機能を検証し、未検証の項目があれば正直に記載してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
-
-建筑还原：
-三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
-屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
-白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
-程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
-
-场景与交互：
-北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
-支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
-按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
-
-直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097323734504017936) · [元の投稿](https://x.com/goan999999/status/2097323734504017936) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097320830602809682"></a>
-
-### 『リーグ・オブ・レジェンド』のミニ版3Dゲームを再現
-
-[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="『リーグ・オブ・レジェンド』のミニ版3Dゲームを再現"></a>
-
-**プロンプト**
-
-```text
-ステップ1：『リーグ・オブ・レジェンド』とまったく同じゲームを作る。LOLにあるものはすべて入れること：同じマップ、同等のグラフィック品質、チャンピオン、ミニオン、タワーなど。まずはチャンピオン5体から始める。 
-
-ステップ2：Astraに言い返す：「これはLeagueじゃない、安っぽいパクリだ」。まず計画を書き、そのうえで実際のサイズとゲームメカニクスに基づいて正確に実装すること。UIをHTMLで上に貼り付けるのは禁止。ネイティブUIとして、見栄えよく、本物のゲームらしく仕上げること。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
-
-第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097320830602809682) · [元の投稿](https://x.com/LufzzLiz/status/2097320830602809682) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097313247116341424"></a>
-
-### 参照画像を使ってBlenderの3Dモデルの顔立ちを改善する
-
-[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="参照画像を使ってBlenderの3Dモデルの顔立ちを改善する"></a>
-
-**参照画像:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
-
-**プロンプト**
-
-```text
-1枚目の画像を参照し、2枚目の画像の顔立ちを改善する。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097313247116341424) · [元の投稿](https://x.com/carlos_olivera/status/2097313247116341424) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097167383576383502"></a>
-
-### Skyrimのような立体的な村の地形を作る
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="Skyrimのような立体的な村の地形を作る"></a>
-
-**プロンプト**
-
-```text
-img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097167383576383502) · [元の投稿](https://x.com/TaroKichijo/status/2097167383576383502) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097153139795468365"></a>
-
-### 日本の花屋：分解表示アニメーション
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="日本の花屋：分解表示アニメーション"></a>
-
-**プロンプト**
-
-```text
-Blender MCPを使って、小さくスタイライズされた日本の花屋のシーンを構築します。緑色のひさし、日本語の「花屋」と表示された屋上看板、店先に並ぶ植木鉢や植物、自動販売機、自転車、信号機、電柱、周囲の木々など、認識しやすい街のディテールを忠実に再現することを重視してください。柔らかなライティング、魅力的なマテリアル、居心地のよい雰囲気を備えた、温かみのあるチャーミングなカートゥーン調でシーンをレンダリングします。
-
-花屋全体を対象に、インパクトのあるダイナミックな分解表示アニメーションを作成します。分解は控えめではなく、大胆かつ誇張された表現にしてください。各コンポーネントを滑らかかつ体系的に外側へ分離し、花屋の構造と内部を劇的に見せます。
-
-分解中は、外壁、周囲の木々、電柱、看板、ひさし、自転車、植木鉢、植物、街路 props などの環境要素を外側または後方へ飛び出させ、見る人が花屋の内部をはっきり確認できる十分な空間を作ります。建物は意味のある構造レイヤーに分解し、内部の建築、家具、装飾、花、植物、棚、小さなディテールまで明確に見えるようにしてください。
-
-自動販売機も個々のコンポーネントに分解します。外装パネルを分離し、内部の soda ボトルや缶を一本ずつダイナミックに外へ飛ばして、見やすさを保てる整然とした配置に広げます。小さなコンポーネントやディテールは、シーケンスをより視覚的に印象的にするため、さらに遠くまで移動させてもかまいません。
-
-時間差のある動き、異なる移動速度、回転、奥行き、レイヤー状の軌道を使い、すべてのコンポーネントを視覚的に整理して追いやすく保ちながら、分解に強いエネルギーとインパクトを与えます。すべてがまったく同じタイミングや速度で外側へ動く演出は避けてください。
-
-シーン全体が完全に分解されたら、分解状態を短時間保持し、内部構造と分離したすべてのコンポーネントをはっきり観察できるようにします。
-
-その後、シーケンスを逆再生します。soda ボトル、自動販売機のパーツ、植物、props、内部オブジェクト、壁、木々、電柱、看板、自転車、その他すべてのコンポーネントが滑らかに元の位置へ戻り、完全な花屋のシーンとして再構成されるようにしてください。
-
-アニメーション全体を、エネルギッシュでシネマティック、満足感があり、視覚的にインパクトの強いものにします。強い動きと、完成したシーン、完全に分解された状態、最後に再構成されたシーンの間の明確な変化を表現してください。全体を通して、動きをレイヤー化し、見やすく、綿密に振り付けられたものに保ちます。
-
-分解表示のシーケンスでは、分離したオブジェクトと内部構造を明確に見せるため、ニュートラルなスタジオ背景を使用します。
-
-最終納品物：
-完全にレンダリングされたアニメーションと、編集可能なBlender 3Dプロジェクトファイル。すべてのオブジェクト、コンポーネント、コレクション、マテリアル、主要なシーン要素には、明確で一貫した、プロフェッショナルな名前を付け、整理してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
-
-Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
-
-During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
-
-The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
-
-Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
-
-Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
-
-Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
-
-The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
-
-Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
-
-Final deliverables:
-A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097153139795468365) · [元の投稿](https://x.com/KanaWorks_AI/status/2097153139795468365) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097123382852829230"></a>
-
-### Godot向け趾行型メカのリギングとアニメーション
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="Godot向け趾行型メカのリギングとアニメーション"></a>
-
-**プロンプト**
-
-```text
-このGLBにリギングを施してアニメーションさせ、Godotのプレビューで趾行型の脚が説得力のある歩き方をする様子を確認できるようにしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097123382852829230) · [元の投稿](https://x.com/om_patel5/status/2097123382852829230) · [作例一覧に戻る](#all-prompts)
 
 ---
 

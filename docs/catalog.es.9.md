@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Un aeropuerto simulado en Three.js con una sola instrucción](#one-shot-three-js-airport-simulation-2094893572617044439)
+- [Una ciudad japonesa flotante con pagoda](#floating-japanese-pagoda-city-2094886088963690607)
+- [Un Airbus H145 en Three.js](#airbus-h145-in-three-js-2094882571083735351)
+- [Un simulador de la Primera Guerra Mundial en vóxeles](#world-war-i-voxel-simulator-2094881469155914170)
+- [Una mansión futurista en una isla privada](#futuristic-private-island-mansion-2094879208304685524)
+- [Un mundo procedural en Three.js](#procedurally-generated-three-js-world-2094873862315843910)
+- [Señales en un cerebro humano 3D interactivo](#interactive-3d-human-brain-signals-2094873080590225728)
+- [Un paisaje fotorrealista en Three.js](#photorealistic-three-js-landscape-2094871858206191667)
 - [Un shooter de hordas de calidad AAA con shaders WebGL](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
 - [Un juego sobre la catástrofe del Titanic](#playable-titanic-disaster-game-2094867850355679617)
 - [Un juego multijugador de supervivencia entre dinosaurios](#multiplayer-dinosaur-survival-game-2094866225960493189)
@@ -70,16 +78,168 @@
 - [Prompt de Claude Opus 5 para un ornitóptero de Leonardo da Vinci en Three.js](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
 - [Un clon al estilo Angry Birds con aves únicas y varios niveles](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
 - [La tarea de construir un estadio de fútbol 3D para comparar Claude Fable 5 y Kimi K3](#3d-soccer-stadium-2080473039834333229)
-- [Prompt de Three.js para una escena de tren maglev futurista](#futuristic-maglev-train-in-three-js-2080454415400493332)
-- [Prompt de un juego 3D de escondite con camaleón y robot](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
-- [Prompt de Claude Fable 5 para un cerezo en flor 3D](#3d-cherry-blossom-tree-2080178541979664741)
-- [Un prompt para una tienda, un museo 3D interactivo y un clon de estrategia en tiempo real](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
-- [Prompt para un juego de Three.js al estilo Hole.io](#hole-io-style-three-js-game-2079898758427324573)
-- [Prompt de Kimi K3 para un trazador de rayos de agujero negro en WebGL2 de un solo archivo](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
-- [Prompt de animación de fútbol de vóxeles en Three.js para un único HTML](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
-- [Prompt de Fable 5 para modelar Nueva York en Blender](#modeling-new-york-city-in-blender-2079387760478073087)
 
 </details>
+<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
+
+### Un aeropuerto simulado en Three.js con una sola instrucción
+
+[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="Un aeropuerto simulado en Three.js con una sola instrucción"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye de una sola vez una simulación de aeropuerto en Three.js, con pistas, terminales, aviones que rueden y despeguen, vehículos de tierra, iluminación según la hora del día y una cámara panorámica.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [Publicación original](https://x.com/AlexYTScaling/status/2094893572617044439) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
+
+### Una ciudad japonesa flotante con pagoda
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="Una ciudad japonesa flotante con pagoda"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una ciudad japonesa flotante e interactiva centrada en una pagoda muy detallada, con islas a distintas alturas, puentes, niebla, luz de farolillos y controles de vuelo cinematográficos.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [Publicación original](https://x.com/vib3coded/status/2094886088963690607) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="airbus-h145-in-three-js-2094882571083735351"></a>
+
+### Un Airbus H145 en Three.js
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Un Airbus H145 en Three.js"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un modelo 3D de un helicóptero Airbus H145 en Three.js. Haz que su cabina, patines de aterrizaje y conjunto del rotor sean reconocibles y se puedan examinar.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [Publicación original](https://x.com/HarshithLucky3/status/2094882571083735351) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
+
+### Un simulador de la Primera Guerra Mundial en vóxeles
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="Un simulador de la Primera Guerra Mundial en vóxeles"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un simulador de un campo de batalla de la Primera Guerra Mundial en vóxeles, con trincheras, soldados, vehículos, artillería, destrucción y una cámara táctica fácil de interpretar.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [Publicación original](https://x.com/Tech2Wild/status/2094881469155914170) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="futuristic-private-island-mansion-2094879208304685524"></a>
+
+### Una mansión futurista en una isla privada
+
+[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="Una mansión futurista en una isla privada"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Diseña una mansión futurista explorable en una isla privada, presentada mediante cinco escenas conectadas de Three.js, con cámara cinematográfica, materiales de gran calidad y un entorno que cuente una historia.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [Publicación original](https://x.com/aimlapi/status/2094879208304685524) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
+
+### Un mundo procedural en Three.js
+
+[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="Un mundo procedural en Three.js"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea con un solo prompt un mundo procedural en Three.js con terreno variado, biomas, puntos de interés, vida ambiental y controles de exploración fluidos.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [Publicación original](https://x.com/swarogan/status/2094873862315843910) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
+
+### Señales en un cerebro humano 3D interactivo
+
+[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="Señales en un cerebro humano 3D interactivo"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un cerebro humano 3D interactivo con pliegues corticales reconocibles. Anima una señal semejante a una frase que viaje entre regiones mediante una visualización inspirada en EEG o MEG.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [Publicación original](https://x.com/GregFeingold/status/2094873080590225728) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
+
+### Un paisaje fotorrealista en Three.js
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="Un paisaje fotorrealista en Three.js"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un paisaje fotorrealista en Three.js con terreno, vegetación, cielo, agua, profundidad e iluminación convincentes y un recorrido de cámara que descubra el entorno de forma natural.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [Publicación original](https://x.com/aollivier82/status/2094871858206191667) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
 ### Un shooter de hordas de calidad AAA con shaders WebGL
@@ -1061,186 +1221,6 @@ Un desarrollador comparó modelos asignándoles la misma tarea: «construir un e
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Publicación original](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
-
-### Prompt de Three.js para una escena de tren maglev futurista
-
-[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="Prompt de Three.js para una escena de tren maglev futurista"></a>
-
-**Prompt**
-
-```text
-Un tren bala maglev futurista que circula a gran velocidad por un tubo de vacío de cristal transparente.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [Publicación original](https://x.com/Pixel_Neuron/status/2080454415400493332) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
-
-### Prompt de un juego 3D de escondite con camaleón y robot
-
-[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="Prompt de un juego 3D de escondite con camaleón y robot"></a>
-
-**Prompt**
-
-```text
-Un prompt enviado a ambos: un juego del escondite. Un camaleón se pinta para confundirse con la pared mientras un robot lo busca. Un archivo, jugable, con rondas, puntuación y porcentaje de coincidencia. No una demo: un juego terminado.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Publicación original](https://x.com/sonicsmarta/status/2080392777515311115) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
-
-### Prompt de Claude Fable 5 para un cerezo en flor 3D
-
-[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="Prompt de Claude Fable 5 para un cerezo en flor 3D"></a>
-
-**Prompt**
-
-```text
-Construye un cerezo en flor 3D; no le des bibliotecas de árboles prefabricados: el modelo tiene que generar la estructura por sí mismo
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [Publicación original](https://x.com/zhodonx/status/2080178541979664741) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
-
-### Un prompt para una tienda, un museo 3D interactivo y un clon de estrategia en tiempo real
-
-[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · Otros
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="Un prompt para una tienda, un museo 3D interactivo y un clon de estrategia en tiempo real"></a>
-
-**Prompt**
-
-```text
-Proyecto 1: una tienda online con 30 productos y 30 imágenes generadas
-Proyecto 2: un museo 3D interactivo que importe casi 1.000 cuadros reales de Wikipedia a una base de datos
-Proyecto 3: un clon de Age of Empires
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Publicación original](https://x.com/crptAtlas/status/2080050176132300960) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="hole-io-style-three-js-game-2079898758427324573"></a>
-
-### Prompt para un juego de Three.js al estilo Hole.io
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Prompt para un juego de Three.js al estilo Hole.io"></a>
-
-**Prompt**
-
-```text
-Construye un juego completo al estilo Hole.io en HTML + Three.js en un solo intento.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [Publicación original](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
-
-### Prompt de Kimi K3 para un trazador de rayos de agujero negro en WebGL2 de un solo archivo
-
-[Harsh](https://x.com/devloper_hs) · 2026-07-21 · Kimi K3 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205"><img src="../assets/previews/5aff9deb1b2b504e0a15e14b6c97f70d2e06974efefa1eda0515703c4b1e4a08.webp" width="840" loading="lazy" alt="Prompt de Kimi K3 para un trazador de rayos de agujero negro en WebGL2 de un solo archivo"></a>
-
-**Prompt**
-
-```text
-Crea un único archivo HTML completo y autónomo, sin bibliotecas externas como Three.js, que implemente un trazador de rayos geodésicos en tiempo real para un agujero negro de Schwarzschild inspirado en Gargantua.
-
-Usa WebGL2 puro con GLSL ES 3.00 en un solo fragment shader. Implementa físicas precisas: integración de geodésicas nulas mediante un solucionador Runge-Kutta de cuarto orden, horizonte de sucesos, esfera de fotones, disco de acreción correctamente renderizado, lente gravitacional, intensificación Doppler y desplazamiento gravitacional al rojo. Busca un rendimiento estable de 60 FPS.
-
-Incluye cámara orbital y zoom controlados con el ratón y un panel ciberpunk con deslizadores para parámetros como masa, espín, densidad del disco y ángulo de visión. Añade efectos sutiles de partículas para la materia que cae e iluminación y sombras dinámicas.
-
-El resultado debe estar completo al 100 % y funcionar de inmediato en un navegador moderno, sin pantallas negras, NaN, errores ni funciones ausentes. Prioriza por encima de todo la corrección numérica, la gestión de los límites, el rigor del solucionador y la precisión física. Verifica y comenta las ecuaciones físicas principales en el código. Haz que sea visualmente espectacular e interactivo, como una demo o juego de física de gran calidad.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Publicación original](https://x.com/devloper_hs/status/2079590483727442205) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="voxel-soccer-animation-in-a-single-html-file-2079553757302710442"></a>
-
-### Prompt de animación de fútbol de vóxeles en Three.js para un único HTML
-
-[Thành](https://x.com/Zmthanh) · 2026-07-21 · Kimi K3 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442"><img src="../assets/previews/771fe49a27ee707d5b3e4fe6f4ff4b4ab7eada49eda5ec2a5bd000b8fefb33da.webp" width="840" loading="lazy" alt="Prompt de animación de fútbol de vóxeles en Three.js para un único HTML"></a>
-
-**Prompt**
-
-```text
-Crea un único archivo HTML con Three.js (CDN) para una animación sencilla de fútbol al estilo vóxel. Un jugador de bloques regatea a 2 defensas y marca un gol espectacular con partículas de celebración. Estética de estadio colorido. Devuelve SOLO el código HTML completo.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Publicación original](https://x.com/Zmthanh/status/2079553757302710442) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="modeling-new-york-city-in-blender-2079387760478073087"></a>
-
-### Prompt de Fable 5 para modelar Nueva York en Blender
-
-[Martin Puli](https://x.com/MartinPulitano) · 2026-07-21 · Claude Fable 5 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087"><img src="../assets/previews/c1df84f5898cf9fec4ed0c498e4b43b923257fa908fc65dc156c5f84920caffb.webp" width="840" loading="lazy" alt="Prompt de Fable 5 para modelar Nueva York en Blender"></a>
-
-**Prompt**
-
-```text
-Esto es Nueva York. Un agente la construyó solo, con UN prompt. No moví un dedo. Todavía no lo termino de procesar.
-
-Hace unos días me crucé con publicaciones de gente modelando en Blender con GPT 5.6 Sol y no podía pensar en otra cosa. Tenía que probarlo con algo real.
-
-Empecé por mi propia casa. Salió horrible: deformada, gris, como una maqueta de plástico.
-
-Podría haberlo dejado ahí. Pero empecé a iterar.
-
-Armé unos agentes que rastrean datos reales del lugar en mil fuentes. Huellas de edificios, alturas, coordenadas. Con Blender MCP + skills + bibliotecas, construyen el modelo usando las herramientas del propio Blender.
-
-Cuando el sistema estuvo listo, escribí un prompt: «armá Nueva York».
-
-Me devolvió Manhattan. Medidas reales, ubicación clavada al metro, sin que yo tocara un solo vértice.
-
-Lo que no esperaba es que probé varios modelos y, en esto, GPT 5.6 Sol le gana por MUCHO a Fable 5.
-
-Esto fue en apenas unos días. Sigo iterando el detalle de los edificios. Si mirás los vídeos anteriores de mi perfil, vas a ver cuánto mejoró de una actualización a otra.
-
-Ahora estoy intentando que abarque más superficie y detalle con un solo prompt. (Si sabés de texturas y materiales en Blender, te escucho 🙏).
-
-Pero lo que de verdad me vuela la cabeza no es el modelo. Es lo que se abre después.
-
-El .blend sigue vivo. Con un par de frases podés agregar una torre, mover una avenida o fusionar ciudades enteras. Buenos Aires sobre Nueva York. El Obelisco en medio de Times Square.
-
-No estoy modelando una ciudad. Estoy convirtiendo la realidad en un borrador editable.
-
-Repositorio + .blend en el primer comentario 👇 Voy a seguir publicando cada paso acá. Si te gusta cómo avanza, seguime, que recién empezamos.
-
-¿Qué ciudad querés que modele ahora?
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087) · [Publicación original](https://x.com/MartinPulitano/status/2079387760478073087) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

@@ -26,12 +26,200 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (2)</summary>
+<summary>Örnekleri keşfet (10)</summary>
 
+- [Fütüristik maglev tren sahnesi için Three.js istemi](#futuristic-maglev-train-in-three-js-2080454415400493332)
+- [Bukalemun ve robotlu 3B saklambaç istemi](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
+- [Claude Fable 5 için 3B çiçekli kiraz ağacı istemi](#3d-cherry-blossom-tree-2080178541979664741)
+- [E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
+- [Hole.io tarzı Three.js oyun istemi](#hole-io-style-three-js-game-2079898758427324573)
+- [Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
+- [Tek HTML dosyasında Three.js voksel futbol animasyonu istemi](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
+- [Fable 5 ile New York kurmak için Blender şehir modelleme istemi](#modeling-new-york-city-in-blender-2079387760478073087)
 - [Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
 - [Three.js uçak içi gezinti deneyimi istemi](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
+
+### Fütüristik maglev tren sahnesi için Three.js istemi
+
+[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="Fütüristik maglev tren sahnesi için Three.js istemi"></a>
+
+**İstem**
+
+```text
+Şeffaf cam vakum tüpünde hızla ilerleyen fütüristik maglev hızlı tren.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [Orijinal gönderi](https://x.com/Pixel_Neuron/status/2080454415400493332) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
+
+### Bukalemun ve robotlu 3B saklambaç istemi
+
+[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="Bukalemun ve robotlu 3B saklambaç istemi"></a>
+
+**İstem**
+
+```text
+İkisine de aynı istem: saklambaç oyunu. Robot ararken bukalemun duvara uymak için kendini boyuyor. Tek dosya, oynanabilir, raundlar, puan, eşleşme yüzdesi. Demo değil, bitmiş oyun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Orijinal gönderi](https://x.com/sonicsmarta/status/2080392777515311115) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
+
+### Claude Fable 5 için 3B çiçekli kiraz ağacı istemi
+
+[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="Claude Fable 5 için 3B çiçekli kiraz ağacı istemi"></a>
+
+**İstem**
+
+```text
+3B çiçekli kiraz ağacı oluştur; hazır ağaç kitaplığı verme; model yapıyı kendi üretmeli
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [Orijinal gönderi](https://x.com/zhodonx/status/2080178541979664741) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
+
+### E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi
+
+[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · Diğer
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi"></a>
+
+**İstem**
+
+```text
+Proje 1: 30 ürün ve 30 üretilmiş görselle e-ticaret mağazası
+Proje 2: Wikipedia'dan yaklaşık 1.000 gerçek tabloyu veri tabanına alan etkileşimli 3B müze
+Proje 3: Age of Empires klonu
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Orijinal gönderi](https://x.com/crptAtlas/status/2080050176132300960) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="hole-io-style-three-js-game-2079898758427324573"></a>
+
+### Hole.io tarzı Three.js oyun istemi
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Hole.io tarzı Three.js oyun istemi"></a>
+
+**İstem**
+
+```text
+Tek denemede HTML + Three.js ile eksiksiz Hole.io tarzı oyun oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
+
+### Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi
+
+[Harsh](https://x.com/devloper_hs) · 2026-07-21 · Kimi K3 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205"><img src="../assets/previews/5aff9deb1b2b504e0a15e14b6c97f70d2e06974efefa1eda0515703c4b1e4a08.webp" width="840" loading="lazy" alt="Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi"></a>
+
+**İstem**
+
+```text
+Gargantua'dan esinlenen bir Schwarzschild kara deliği için gerçek zamanlı jeodezik ışın izleyici uygulayan, eksiksiz ve bağımsız tek bir HTML dosyası oluştur (Three.js gibi harici kütüphaneler olmasın).
+
+Tek bir fragment shader içinde GLSL ES 3.00 ile doğrudan WebGL2 kullan. Doğru fiziği uygula: dördüncü dereceden Runge-Kutta çözücüsüyle ışık benzeri jeodeziklerin integrasyonu, olay ufku, foton küresi, doğru render edilen yığılma diski, kütleçekimsel merceklenme, Doppler ışın demetleme ve kütleçekimsel kırmızıya kayma etkileri. Kararlı 60 FPS performansı hedefle.
+
+Fareyle kamera yörüngesi ve yakınlaştırma kontrolleri, ayrıca parametreler için (kütle, spin, disk yoğunluğu, görüş açısı vb.) kaydırıcılar içeren siberpunk tarzı bir kontrol paneli ekle. İçeri düşen madde için hafif parçacık efektleri ve dinamik ışık/gölge ekle.
+
+Çıktı %100 eksiksiz olmalı; modern bir tarayıcıda hemen çalışmalı, siyah ekran, NaN, hata veya eksik özellik içermemeli. Sayısal doğruluğu, sınır koşullarını, çözücü disiplinini ve fiziksel doğruluğu her şeyin önünde tut. Temel fizik denklemlerini doğrula ve kodda açıkla. Üst düzey bir fizik demosu/oyunu gibi görsel açıdan etkileyici ve etkileşimli olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Orijinal gönderi](https://x.com/devloper_hs/status/2079590483727442205) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="voxel-soccer-animation-in-a-single-html-file-2079553757302710442"></a>
+
+### Tek HTML dosyasında Three.js voksel futbol animasyonu istemi
+
+[Thành](https://x.com/Zmthanh) · 2026-07-21 · Kimi K3 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442"><img src="../assets/previews/771fe49a27ee707d5b3e4fe6f4ff4b4ab7eada49eda5ec2a5bd000b8fefb33da.webp" width="840" loading="lazy" alt="Tek HTML dosyasında Three.js voksel futbol animasyonu istemi"></a>
+
+**İstem**
+
+```text
+Basit voksel tarzı futbol animasyonu için Three.js (CDN) kullanan tek HTML dosyası oluştur. Blok oyuncu 2 savunmacıyı çalımlayıp kutlama parçacıklarıyla muhteşem gol atsın. Renkli stadyum görünümü kullan. YALNIZCA eksiksiz HTML kodunu döndür.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Orijinal gönderi](https://x.com/Zmthanh/status/2079553757302710442) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="modeling-new-york-city-in-blender-2079387760478073087"></a>
+
+### Fable 5 ile New York kurmak için Blender şehir modelleme istemi
+
+[Martin Puli](https://x.com/MartinPulitano) · 2026-07-21 · Claude Fable 5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087"><img src="../assets/previews/c1df84f5898cf9fec4ed0c498e4b43b923257fa908fc65dc156c5f84920caffb.webp" width="840" loading="lazy" alt="Fable 5 ile New York kurmak için Blender şehir modelleme istemi"></a>
+
+**İstem**
+
+```text
+Burası New York. Bir ajan TEK istemle kendi başına yaptı. Parmağımı bile oynatmadım. Hâlâ aklım almıyor.
+
+Birkaç gün önce GPT 5.6 Sol ile Blender'da modelleme yapanların gönderilerini gördüm ve başka bir şey düşünemedim. Gerçek bir şeyle denemeliydim.
+
+Kendi evimle başladım. Berbat oldu: yamuk, gri, plastik maket gibi.
+
+Orada bırakabilirdim. Ama yinelemeye başladım.
+
+Yer hakkında binlerce kaynaktan gerçek veri toplayan ajanlar kurdum. Bina ayak izleri, yükseklikler, koordinatlar. Blender MCP + skill'ler + kitaplıklarla Blender'ın kendi araçlarını kullanarak modeli kuruyorlar.
+
+Sistem hazır olunca bir istem yazdım: “New York'u kur”.
+
+Manhattan'ı verdi. Gerçek ölçüler, metre hassasiyetinde konum; tek bir köşeye dokunmadım.
+
+Beklemediğim şey, farklı modelleri denediğimde GPT 5.6 Sol'un bu işte Fable 5'i ÇOK büyük farkla geçmesiydi.
+
+Bu sadece birkaç gün sürdü. Bina ayrıntılarını hâlâ iyileştiriyorum. Profilimdeki önceki videolarda güncellemeler arasındaki ilerlemeyi görebilirsiniz.
+
+Şimdi tek istemle daha fazla alanı ve ayrıntıyı kapsamasını sağlamaya çalışıyorum. (Blender'da doku ve malzemeden anlıyorsanız dinliyorum 🙏).
+
+Ama beni asıl şaşırtan model değil. Sonrasında açılan olasılıklar.
+
+.blend canlı kalıyor. Birkaç cümleyle yeni kule ekleyebilir, cadde taşıyabilir veya şehirleri birleştirebilirsiniz. New York'un üstünde Buenos Aires. Times Square'in ortasında Dikilitaş.
+
+Şehir modellemiyorum. Gerçekliği düzenlenebilir bir taslağa dönüştürüyorum.
+
+Depo + .blend ilk yorumda 👇 Her adımı burada paylaşmaya devam edeceğim. İlerleyişi seviyorsanız takip edin; daha yeni başlıyoruz.
+
+Sırada hangi şehri modellememi istersiniz?
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087) · [Orijinal gönderi](https://x.com/MartinPulitano/status/2079387760478073087) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
 ### Fable 5 için tek dosyalık Three.js voksel futbol animasyonu istemi

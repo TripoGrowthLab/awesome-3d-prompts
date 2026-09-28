@@ -28,6 +28,14 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Single-turn Three.js naval war scene](#single-turn-three-js-naval-war-scene-2095840435319001278)
+- [Oval Office through the presidencies](#oval-office-through-the-presidencies-2095830596069290077)
+- [Recipe-to-3D cheesecake film](#recipe-to-3d-cheesecake-film-2095829851206774987)
+- [Tidal Rush eight-racer browser game](#tidal-rush-eight-racer-browser-game-2095819786651374023)
+- [Interactive Three.js galaxy homepage](#interactive-three-js-galaxy-homepage-2095806515579879457)
+- [Real-time WebGL galaxy launch hero](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
+- [Starry Night streets you can stroll](#starry-night-streets-you-can-stroll-2095805115580199372)
+- [Real house to editable 60 FPS Blender scene](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 - [Exploded interactive 3D turbocharger](#exploded-interactive-3d-turbocharger-2095776712579571725)
 - [Walkable town made from six Van Gogh paintings](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
 - [Steam-train drawing to editable Blender assembly](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
@@ -70,16 +78,168 @@
 - [Articulated printable action figure](#articulated-printable-action-figure-2095481098201387287)
 - [Cinematic WebGL black hole](#cinematic-webgl-black-hole-2095409039005933910)
 - [Exploding AI server rack visualization](#exploding-ai-server-rack-visualization-2095193022304792938)
-- [Space exploration and trading game](#space-exploration-and-trading-game-2095191999255035993)
-- [GTA-style open-world multiplayer prototype](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
-- [Comic-book Three.js cowboy game](#comic-book-three-js-cowboy-game-2095180091257209148)
-- [Human versus unaligned AGI game](#human-versus-unaligned-agi-game-2095180071221002441)
-- [Blender wrecking-ball physics test](#blender-wrecking-ball-physics-test-2095177102400081940)
-- [Corporate interceptor drone asset](#corporate-interceptor-drone-asset-2095176360238915978)
-- [Frutiger Aero 3D world](#frutiger-aero-3d-world-2095171470607728926)
-- [Ten-scene cinematic Renaissance website](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 
 </details>
+<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
+
+### Single-turn Three.js naval war scene
+
+[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Single-turn Three.js naval war scene"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create a detailed naval battle in Three.js in one turn. Include several distinct ships, physically convincing water interaction, wakes and spray, aerial action, explosions, cinematic lighting, camera motion and performance-aware rendering.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Original post](https://x.com/synthwavedd/status/2095840435319001278) · [Back to examples](#all-prompts)
+
+---
+
+<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
+
+### Oval Office through the presidencies
+
+[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Oval Office through the presidencies"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build an interactive Three.js project exploring how the Oval Office changed across presidencies. Allow switching periods to inspect furniture, decor and room composition.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Original post](https://x.com/fMinZhou/status/2095830596069290077) · [Back to examples](#all-prompts)
+
+---
+
+<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
+
+### Recipe-to-3D cheesecake film
+
+[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Recipe-to-3D cheesecake film"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Rebuild a real cheesecake as a Three.js scene from its recipe. Model the six layers, springform and parchment separately, then create a one-minute presentation of the cake.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Original post](https://x.com/sarit69976/status/2095829851206774987) · [Back to examples](#all-prompts)
+
+---
+
+<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
+
+### Tidal Rush eight-racer browser game
+
+[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush eight-racer browser game"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a complete browser kart-racing game with eight racers, three laps, drifting, collectible items, responsive physics, clear HUD, attractive graphics and a finish-state results screen.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Original post](https://x.com/amazing13_13/status/2095819786651374023) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
+
+### Interactive Three.js galaxy homepage
+
+[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Interactive Three.js galaxy homepage"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create a premium launch-page hero around a real-time Three.js galaxy. Make the particles form a subtle number-six silhouette, respond to scroll and pointer motion, preserve text readability and gracefully reduce effects on weaker devices.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Original post](https://x.com/threejsresource/status/2095806515579879457) · [Back to examples](#all-prompts)
+
+---
+
+<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
+
+### Real-time WebGL galaxy launch hero
+
+[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="Real-time WebGL galaxy launch hero"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Reverse-engineer the visual language of the supplied galaxy hero and rebuild it as real-time WebGL rather than video. Use depth-aware particles, luminous dust, smooth pointer response, restrained typography space and adaptive performance.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Original post](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Back to examples](#all-prompts)
+
+---
+
+<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
+
+### Starry Night streets you can stroll
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="Starry Night streets you can stroll"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Combine six Van Gogh paintings into one explorable town where visitors can stroll through Starry Night streets. Design natural portals between paintings, maintain a coherent scale and add gentle ambient interaction.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Original post](https://x.com/BigRyan/status/2095805115580199372) · [Back to examples](#all-prompts)
+
+---
+
+<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
+
+### Real house to editable 60 FPS Blender scene
+
+[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="Real house to editable 60 FPS Blender scene"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Reconstruct the supplied real house as a fully editable Blender scene. Keep architectural and furnishing elements separate, optimize geometry and materials, and deliver a locally rendered walkthrough that sustains 60 FPS.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Original post](https://x.com/alvinfoo/status/2095777502681825541) · [Back to examples](#all-prompts)
+
+---
+
 <a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
 ### Exploded interactive 3D turbocharger
@@ -920,167 +1080,7 @@ Build a Three.js exploded-view visualization of an NVL72 rack and GB300 system, 
 
 ---
 
-<a id="space-exploration-and-trading-game-2095191999255035993"></a>
-
-### Space exploration and trading game
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Space exploration and trading game"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a space exploration and trading game with flyable ships, star systems, stations, commodities, contracts, upgrades, risk and a satisfying travel loop.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Original post](https://x.com/RealFedeURU/status/2095191999255035993) · [Back to examples](#all-prompts)
-
----
-
-<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
-
-### GTA-style open-world multiplayer prototype
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA-style open-world multiplayer prototype"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build an early GTA-style open-world multiplayer prototype set in New York City, with driving, on-foot movement, city traffic, missions and a convincing living-world loop.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Original post](https://x.com/mattshumer_/status/2095187868746383758) · [Back to examples](#all-prompts)
-
----
-
-<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
-
-### Comic-book Three.js cowboy game
-
-[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Comic-book Three.js cowboy game"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a dream cowboy game in Three.js that combines the arcade energy of Sunset Riders with comic-book rendering, responsive shooting, horseback action and memorable set pieces.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Original post](https://x.com/Smallzero/status/2095180091257209148) · [Back to examples](#all-prompts)
-
----
-
-<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
-
-### Human versus unaligned AGI game
-
-[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Human versus unaligned AGI game"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a one-shot Three.js game where a human fights an unaligned AGI and its robot minions, with a clear combat loop, escalating waves and a final objective.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Original post](https://x.com/lucasybai/status/2095180071221002441) · [Back to examples](#all-prompts)
-
----
-
-<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
-
-### Blender wrecking-ball physics test
-
-[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender wrecking-ball physics test"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a focused Blender physics test where a suspended wrecking ball hits a brick tower, with believable cable behavior, masonry breakup, ground collision and a readable camera.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Original post](https://x.com/abyssallD/status/2095177102400081940) · [Back to examples](#all-prompts)
-
----
-
-<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
-
-### Corporate interceptor drone asset
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="Corporate interceptor drone asset"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a game-ready heavy interceptor drone for a corporate republic faction, with a strong silhouette, modular weapons, readable scale, materials and real-time asset constraints.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [Original post](https://x.com/gladimdim/status/2095176360238915978) · [Back to examples](#all-prompts)
-
----
-
-<a id="frutiger-aero-3d-world-2095171470607728926"></a>
-
-### Frutiger Aero 3D world
-
-[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="Frutiger Aero 3D world"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a small interactive 3D world inspired by early-2000s Frutiger Aero, with bright fields, clean water, bubbles, translucent glass forms and optimistic ambient sound.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [Original post](https://x.com/oliverbenns/status/2095171470607728926) · [Back to examples](#all-prompts)
-
----
-
-<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
-
-### Ten-scene cinematic Renaissance website
-
-[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="Ten-scene cinematic Renaissance website"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a ten-scene cinematic browser experience that combines Renaissance painting, editorial typography, GSAP transitions, WebGL grain and the theme of inventing a world.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [Original post](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.6.md) · **7 / 10** · [→](catalog.en.8.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 452 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 460 examples and live previews →</a></strong></p>

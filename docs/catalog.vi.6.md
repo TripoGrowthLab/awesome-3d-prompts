@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Văn phòng đi lại được với 32 người có hoạt ảnh](#walkable-office-with-32-animated-people-2096131961345720477)
+- [Bay quanh Adiyogi trong ánh chiều](#adiyogi-evening-fly-through-2096128774203171021)
+- [Xe Formula One trong Blender](#formula-one-car-in-blender-2096125193580113957)
+- [Nhà máy chế tạo phản lực đang hoạt động](#live-jet-manufacturing-plant-2096122429319852319)
+- [Làm lại quảng cáo game di động thành game thật](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
+- [Từ tranh đến nhân vật chơi được](#artwork-to-a-playable-character-2096107343268257953)
+- [Tháp Azadi trong Blender](#azadi-tower-in-blender-2096107322536051057)
+- [Tham quan vườn Bảo tàng Tô Châu](#suzhou-museum-garden-walkthrough-2096096998092841449)
 - [Sự hình thành hố đen qua WebGL](#black-hole-formation-in-webgl-2096093614397170104)
 - [Mô hình xe máy và xe tăng tương lai trong Blender](#gpt-6-astra-2096083014845636816)
 - [Cụm tàu thủ tục có thể tháo rời](#exploding-procedural-train-assemblies-2096082580554777041)
@@ -70,16 +78,168 @@
 - [Thị trấn Van Gogh trong Three.js](#van-gogh-town-in-three-js-2095871735824339279)
 - [Đầu máy Blender đầy đủ cấu tạo cơ khí](#mechanically-complete-blender-locomotive-2095868420327710840)
 - [Thử thách dựng cảnh Blender trong ba mươi giây](#thirty-second-blender-scene-challenge-2095844872171421771)
-- [Cảnh hải chiến Three.js trong một lượt](#single-turn-three-js-naval-war-scene-2095840435319001278)
-- [Phòng Bầu dục qua các đời tổng thống](#oval-office-through-the-presidencies-2095830596069290077)
-- [Từ công thức cheesecake đến phim 3D](#recipe-to-3d-cheesecake-film-2095829851206774987)
-- [Tidal Rush: game trình duyệt với tám tay đua](#tidal-rush-eight-racer-browser-game-2095819786651374023)
-- [Trang chủ thiên hà Three.js tương tác](#interactive-three-js-galaxy-homepage-2095806515579879457)
-- [Hero thiên hà WebGL thời gian thực](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
-- [Dạo bước trên phố “Đêm đầy sao”](#starry-night-streets-you-can-stroll-2095805115580199372)
-- [Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 
 </details>
+<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
+
+### Văn phòng đi lại được với 32 người có hoạt ảnh
+
+[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="Văn phòng đi lại được với 32 người có hoạt ảnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng văn phòng Three.js trên trình duyệt với điều hướng góc nhìn thứ nhất, 32 người có rig chào khách bằng tên, cửa bấm được, điều khiển xoay quanh và chế độ xem bản vẽ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Bài đăng gốc](https://x.com/demgufever82151/status/2096131961345720477) · [Mã nguồn](https://github.com/Parithosh-Varma/office) · [Bản demo](https://office-2nw.pages.dev/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
+
+### Bay quanh Adiyogi trong ánh chiều
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Bay quanh Adiyogi trong ánh chiều"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng cảnh Adiyogi trong Blender với khuôn viên rộng, các góc cận cảnh chi tiết và ánh chiều ấm. Kết xuất đoạn bay tham quan 30 giây và giữ lại cảnh có thể chỉnh sửa.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Bài đăng gốc](https://x.com/thejothiram/status/2096128774203171021) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="formula-one-car-in-blender-2096125193580113957"></a>
+
+### Xe Formula One trong Blender
+
+[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Xe Formula One trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo mô hình Formula One 3D trong Blender bằng thao tác máy tính.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Bài đăng gốc](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
+
+### Nhà máy chế tạo phản lực đang hoạt động
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Nhà máy chế tạo phản lực đang hoạt động"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Nghiên cứu chế tạo máy bay và dựng mô phỏng nhà máy phản lực Three.js trực tiếp. Mô hình hóa chu kỳ máy, trạm sản xuất, vận chuyển và nút thắt, rồi kiểm tra dòng công việc.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2096122429319852319) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
+
+### Làm lại quảng cáo game di động thành game thật
+
+[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="Làm lại quảng cáo game di động thành game thật"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng quảng cáo game di động làm tham chiếu để dựng game trình duyệt chơi được. Tái hiện tương tác chính và dùng asset Blender để khớp ý tưởng hình ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Bài đăng gốc](https://x.com/buildingadlicio/status/2096111709496680842) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="artwork-to-a-playable-character-2096107343268257953"></a>
+
+### Từ tranh đến nhân vật chơi được
+
+[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="Từ tranh đến nhân vật chơi được"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại tranh nhân vật Noctavia thành nhân vật 3D chơi được. Giữ ngôn ngữ thiết kế và tạo mô hình đầy đủ phù hợp để trình diễn tương tác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Bài đăng gốc](https://x.com/noctav1a/status/2096107343268257953) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="azadi-tower-in-blender-2096107322536051057"></a>
+
+### Tháp Azadi trong Blender
+
+[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="Tháp Azadi trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo mô hình tháp Azadi có thể chỉnh sửa trong Blender, tập trung phần đế loe, vòm giao nhau, bề mặt hoa văn và tỷ lệ dễ nhận biết.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Bài đăng gốc](https://x.com/taesiri/status/2096107322536051057) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
+
+### Tham quan vườn Bảo tàng Tô Châu
+
+[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="Tham quan vườn Bảo tàng Tô Châu"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng trang web về Bảo tàng Tô Châu làm tham chiếu để dựng lại vườn trong Blender. Tạo chuyến tham quan liên tục, giữ quan hệ giữa kiến trúc hiện đại và cảnh quan truyền thống Trung Hoa.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Bài đăng gốc](https://x.com/whosamberella/status/2096096998092841449) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
 ### Sự hình thành hố đen qua WebGL
@@ -978,166 +1138,6 @@ Dựng một cảnh Blender nhất quán dưới giới hạn thời gian cực 
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Bài đăng gốc](https://x.com/_satyam_ai/status/2095844872171421771) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
-
-### Cảnh hải chiến Three.js trong một lượt
-
-[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Cảnh hải chiến Three.js trong một lượt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo trận hải chiến chi tiết trên Three.js trong một lượt. Có nhiều tàu khác nhau, tương tác với nước thuyết phục về vật lý, vệt sóng và nước bắn, hoạt động trên không, vụ nổ, ánh sáng điện ảnh, chuyển động camera và render có cân nhắc hiệu năng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Bài đăng gốc](https://x.com/synthwavedd/status/2095840435319001278) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
-
-### Phòng Bầu dục qua các đời tổng thống
-
-[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Phòng Bầu dục qua các đời tổng thống"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng dự án Three.js tương tác tìm hiểu Phòng Bầu dục thay đổi qua các đời tổng thống. Cho chuyển thời kỳ để xem nội thất, trang trí và bố cục phòng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Bài đăng gốc](https://x.com/fMinZhou/status/2095830596069290077) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
-
-### Từ công thức cheesecake đến phim 3D
-
-[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Từ công thức cheesecake đến phim 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại chiếc cheesecake thật thành cảnh Three.js từ công thức. Mô hình hóa sáu lớp, khuôn rời và giấy nến riêng biệt, rồi tạo phần giới thiệu bánh dài một phút.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Bài đăng gốc](https://x.com/sarit69976/status/2095829851206774987) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
-
-### Tidal Rush: game trình duyệt với tám tay đua
-
-[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: game trình duyệt với tám tay đua"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game đua kart trên trình duyệt hoàn chỉnh với tám tay đua, ba vòng, drift, vật phẩm nhặt được, vật lý nhạy, HUD rõ ràng, đồ họa đẹp và màn kết quả sau khi về đích.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Bài đăng gốc](https://x.com/amazing13_13/status/2095819786651374023) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
-
-### Trang chủ thiên hà Three.js tương tác
-
-[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Trang chủ thiên hà Three.js tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo hero trang ra mắt cao cấp xoay quanh thiên hà Three.js thời gian thực. Cho các hạt tạo thành bóng dáng số sáu tinh tế, phản ứng với cuộn trang và con trỏ; giữ chữ dễ đọc và giảm hiệu ứng nhẹ nhàng trên thiết bị yếu.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Bài đăng gốc](https://x.com/threejsresource/status/2095806515579879457) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
-
-### Hero thiên hà WebGL thời gian thực
-
-[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="Hero thiên hà WebGL thời gian thực"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Phân tích ngôn ngữ hình ảnh của hero thiên hà được cung cấp và dựng lại bằng WebGL thời gian thực thay vì video. Dùng hạt có chiều sâu, bụi phát sáng, phản ứng con trỏ mượt, không gian chữ tiết chế và hiệu năng thích ứng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Bài đăng gốc](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
-
-### Dạo bước trên phố “Đêm đầy sao”
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="Dạo bước trên phố “Đêm đầy sao”"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Kết hợp sáu bức tranh Van Gogh thành thị trấn có thể khám phá, nơi khách đi dạo trên phố “Đêm đầy sao”. Thiết kế cổng chuyển cảnh tự nhiên giữa các tranh, duy trì tỷ lệ nhất quán và thêm tương tác môi trường nhẹ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Bài đăng gốc](https://x.com/BigRyan/status/2095805115580199372) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
-
-### Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS
-
-[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại ngôi nhà thật được cung cấp thành cảnh Blender có thể chỉnh sửa hoàn toàn. Tách riêng các thành phần kiến trúc và nội thất, tối ưu hình học và vật liệu, bàn giao chuyến tham quan render cục bộ giữ ổn định 60 FPS.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Bài đăng gốc](https://x.com/alvinfoo/status/2095777502681825541) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

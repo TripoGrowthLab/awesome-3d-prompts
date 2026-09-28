@@ -28,6 +28,14 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [32 個動畫人物的可漫遊辦公室](#walkable-office-with-32-animated-people-2096131961345720477)
+- [夕照下的阿迪瑜伽飛行巡覽](#adiyogi-evening-fly-through-2096128774203171021)
+- [Blender 一級方程式賽車](#formula-one-car-in-blender-2096125193580113957)
+- [實時飛機制造工廠](#live-jet-manufacturing-plant-2096122429319852319)
+- [手遊廣告轉可玩遊戲](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
+- [藝術作品轉可玩角色](#artwork-to-a-playable-character-2096107343268257953)
+- [Blender 自由紀念塔](#azadi-tower-in-blender-2096107322536051057)
+- [蘇州博物館花園漫遊](#suzhou-museum-garden-walkthrough-2096096998092841449)
 - [用 WebGL 解說黑洞形成](#black-hole-formation-in-webgl-2096093614397170104)
 - [Blender 未來風格機車與戰車建模](#gpt-6-astra-2096083014845636816)
 - [可拆解的程式化火車元件](#exploding-procedural-train-assemblies-2096082580554777041)
@@ -70,16 +78,168 @@
 - [Three.js 梵高小鎮](#van-gogh-town-in-three-js-2095871735824339279)
 - [機械結構完整的 Blender 機車](#mechanically-complete-blender-locomotive-2095868420327710840)
 - [30 秒 Blender 場景挑戰](#thirty-second-blender-scene-challenge-2095844872171421771)
-- [單輪 Three.js 海戰場景](#single-turn-three-js-naval-war-scene-2095840435319001278)
-- [歷任總統時期的橢圓形辦公室](#oval-office-through-the-presidencies-2095830596069290077)
-- [食譜轉 3D 芝士蛋糕影片](#recipe-to-3d-cheesecake-film-2095829851206774987)
-- [Tidal Rush 八人卡丁車遊戲](#tidal-rush-eight-racer-browser-game-2095819786651374023)
-- [互動式 Three.js 星系首頁](#interactive-three-js-galaxy-homepage-2095806515579879457)
-- [實時 WebGL 星系首屏](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
-- [可漫步的星月夜街道](#starry-night-streets-you-can-stroll-2095805115580199372)
-- [真實住宅轉 60 FPS 可編輯 Blender 場景](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 
 </details>
+<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
+
+### 32 個動畫人物的可漫遊辦公室
+
+[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="32 個動畫人物的可漫遊辦公室"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+用 Three.js 建立瀏覽器辦公室，提供第一人稱漫遊、32 個按名字打招呼的繫結人物、可點選的門、環繞與平面圖模式。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [查看原文](https://x.com/demgufever82151/status/2096131961345720477) · [專案原始碼](https://github.com/Parithosh-Varma/office) · [線上展示](https://office-2nw.pages.dev/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
+
+### 夕照下的阿迪瑜伽飛行巡覽
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="夕照下的阿迪瑜伽飛行巡覽"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中製作阿迪瑜伽（Adiyogi）場景，包含寬闊場地、細緻特寫與溫暖夕照。算繪 30 秒飛行巡覽影片，並保留可編輯場景。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [查看原文](https://x.com/thejothiram/status/2096128774203171021) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="formula-one-car-in-blender-2096125193580113957"></a>
+
+### Blender 一級方程式賽車
+
+[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Blender 一級方程式賽車"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+透過計算機操作在 Blender 中建立 3D 一級方程式賽車模型。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [查看原文](https://x.com/Conor_D_Dart/status/2096125193580113957) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
+
+### 實時飛機制造工廠
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="實時飛機制造工廠"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+研究飛機制造並建立實時 Three.js 工廠模擬，建模機械週期、生產工位、運輸與瓶頸，並測試流程。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [查看原文](https://x.com/konstantinsaifo/status/2096122429319852319) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
+
+### 手遊廣告轉可玩遊戲
+
+[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="手遊廣告轉可玩遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+以手遊廣告為參考製作可玩的瀏覽器遊戲，還原核心互動並透過 Blender 資產匹配視覺設定。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [查看原文](https://x.com/buildingadlicio/status/2096111709496680842) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="artwork-to-a-playable-character-2096107343268257953"></a>
+
+### 藝術作品轉可玩角色
+
+[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="藝術作品轉可玩角色"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把 Noctavia 角色藝術作品重建為可玩的 3D 角色，保留設計語言並建立適合互動展示的完整模型。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [查看原文](https://x.com/noctav1a/status/2096107343268257953) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="azadi-tower-in-blender-2096107322536051057"></a>
+
+### Blender 自由紀念塔
+
+[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="Blender 自由紀念塔"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立可編輯的 Blender 自由紀念塔模型，重點還原外展基座、交叉拱門、表面圖案與可識別比例。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [查看原文](https://x.com/taesiri/status/2096107322536051057) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
+
+### 蘇州博物館花園漫遊
+
+[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="蘇州博物館花園漫遊"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+參考蘇州博物館網頁在 Blender 中重建花園，製作連續漫遊，保留現代建築與傳統中式園林之間的關係。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [查看原文](https://x.com/whosamberella/status/2096096998092841449) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
 ### 用 WebGL 解說黑洞形成
@@ -978,166 +1138,6 @@ Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [查看原文](https://x.com/_satyam_ai/status/2095844872171421771) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
-
-### 單輪 Three.js 海戰場景
-
-[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="單輪 Three.js 海戰場景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-單輪建立高細節 Three.js 海戰場景，包含多種不同艦船、可信水體互動、尾流與飛沫、空中行動、爆炸、電影燈光、鏡頭運動和兼顧效能的渲染。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [查看原文](https://x.com/synthwavedd/status/2095840435319001278) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
-
-### 歷任總統時期的橢圓形辦公室
-
-[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="歷任總統時期的橢圓形辦公室"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立互動式 Three.js 專案，探索不同總統時期的橢圓形辦公室，切換時期觀察傢俱、裝飾與佈局。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [查看原文](https://x.com/fMinZhou/status/2095830596069290077) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
-
-### 食譜轉 3D 芝士蛋糕影片
-
-[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="食譜轉 3D 芝士蛋糕影片"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據真實食譜用 Three.js 重建芝士蛋糕，分別建模六層結構、活底模具與烘焙紙，製作一分鐘展示影片。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [查看原文](https://x.com/sarit69976/status/2095829851206774987) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
-
-### Tidal Rush 八人卡丁車遊戲
-
-[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush 八人卡丁車遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置完整瀏覽器卡丁車遊戲，包含 8 名車手、3 圈比賽、漂移、可拾取道具、靈敏物理、清晰 HUD、精緻畫面和終點結果頁。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [查看原文](https://x.com/amazing13_13/status/2095819786651374023) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
-
-### 互動式 Three.js 星系首頁
-
-[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="互動式 Three.js 星系首頁"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-圍繞實時 Three.js 星系建立高階釋出頁首屏。讓粒子形成隱約的數字 6 輪廓，響應滾動和指標，同時保證文字可讀，並在低效能裝置優雅降級。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [查看原文](https://x.com/threejsresource/status/2095806515579879457) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
-
-### 實時 WebGL 星系首屏
-
-[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="實時 WebGL 星系首屏"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-分析給定星系首屏的視覺語言，並用實時 WebGL 而不是影片重建。使用具有景深的粒子、發光塵埃、流暢指標響應、剋制的排版留白與自適應效能。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [查看原文](https://x.com/Fluxora_Studios/status/2095805694603673631) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
-
-### 可漫步的星月夜街道
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="可漫步的星月夜街道"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把六幅梵高畫作組合成一座可探索小鎮，讓訪客能漫步在《星月夜》的街道中。為畫作之間設計自然入口，保持尺度連貫，並加入輕柔環境互動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [查看原文](https://x.com/BigRyan/status/2095805115580199372) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
-
-### 真實住宅轉 60 FPS 可編輯 Blender 場景
-
-[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="真實住宅轉 60 FPS 可編輯 Blender 場景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把給定真實住宅重建為完全可編輯的 Blender 場景。分離建築與傢俱元素，最佳化幾何和材質，並交付可在本地穩定 60 FPS 渲染的漫遊。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [查看原文](https://x.com/alvinfoo/status/2095777502681825541) · [返回案例導覽](#all-prompts)
 
 ---
 

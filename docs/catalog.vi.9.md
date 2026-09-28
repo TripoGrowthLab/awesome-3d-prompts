@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Mô phỏng sân bay Three.js trong một lượt](#one-shot-three-js-airport-simulation-2094893572617044439)
+- [Thành phố chùa Nhật Bản nổi trên không](#floating-japanese-pagoda-city-2094886088963690607)
+- [Airbus H145 trong Three.js](#airbus-h145-in-three-js-2094882571083735351)
+- [Mô phỏng Thế chiến I bằng voxel](#world-war-i-voxel-simulator-2094881469155914170)
+- [Dinh thự tương lai trên đảo riêng](#futuristic-private-island-mansion-2094879208304685524)
+- [Thế giới Three.js sinh thủ tục](#procedurally-generated-three-js-world-2094873862315843910)
+- [Tín hiệu não người 3D tương tác](#interactive-3d-human-brain-signals-2094873080590225728)
+- [Cảnh quan Three.js chân thực](#photorealistic-three-js-landscape-2094871858206191667)
 - [Game bắn horde AAA với shader WebGL](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
 - [Game thảm họa Titanic có thể chơi](#playable-titanic-disaster-game-2094867850355679617)
 - [Game sinh tồn nhiều người cùng khủng long](#multiplayer-dinosaur-survival-game-2094866225960493189)
@@ -70,16 +78,168 @@
 - [Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
 - [Bản sao Angry Birds với chim riêng và nhiều màn](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
 - [Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3](#3d-soccer-stadium-2080473039834333229)
-- [Prompt Three.js cho cảnh tàu maglev tương lai](#futuristic-maglev-train-in-three-js-2080454415400493332)
-- [Prompt game trốn tìm 3D với tắc kè và robot](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
-- [Prompt Claude Fable 5 cho cây anh đào 3D](#3d-cherry-blossom-tree-2080178541979664741)
-- [Prompt đa dự án: thương mại điện tử, bảo tàng 3D tương tác và bản sao RTS](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
-- [Prompt game Three.js kiểu Hole.io](#hole-io-style-three-js-game-2079898758427324573)
-- [Prompt Kimi K3 dựng raytracer hố đen WebGL2 một tệp](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
-- [Prompt hoạt ảnh bóng đá voxel Three.js trong một tệp HTML](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
-- [Prompt Fable 5 dựng New York trong Blender](#modeling-new-york-city-in-blender-2079387760478073087)
 
 </details>
+<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
+
+### Mô phỏng sân bay Three.js trong một lượt
+
+[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="Mô phỏng sân bay Three.js trong một lượt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng mô phỏng sân bay Three.js trong một lượt với đường băng, nhà ga, máy bay lăn bánh và cất cánh, xe mặt đất, ánh sáng theo thời gian và camera tổng quan.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [Bài đăng gốc](https://x.com/AlexYTScaling/status/2094893572617044439) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
+
+### Thành phố chùa Nhật Bản nổi trên không
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="Thành phố chùa Nhật Bản nổi trên không"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo thành phố Nhật Bản nổi tương tác, tập trung quanh ngôi chùa tháp giàu chi tiết, với đảo nhiều tầng, cầu, sương, ánh đèn lồng và điều khiển bay điện ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [Bài đăng gốc](https://x.com/vib3coded/status/2094886088963690607) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="airbus-h145-in-three-js-2094882571083735351"></a>
+
+### Airbus H145 trong Three.js
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Airbus H145 trong Three.js"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo mô hình trực thăng Airbus H145 3D trong Three.js. Làm khoang lái, càng trượt và cụm rotor dễ nhận biết, quan sát được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [Bài đăng gốc](https://x.com/HarshithLucky3/status/2094882571083735351) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
+
+### Mô phỏng Thế chiến I bằng voxel
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="Mô phỏng Thế chiến I bằng voxel"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo mô phỏng chiến trường Thế chiến I dạng voxel với chiến hào, binh lính, xe cộ, pháo binh, phá hủy và camera chiến thuật dễ quan sát.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [Bài đăng gốc](https://x.com/Tech2Wild/status/2094881469155914170) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="futuristic-private-island-mansion-2094879208304685524"></a>
+
+### Dinh thự tương lai trên đảo riêng
+
+[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="Dinh thự tương lai trên đảo riêng"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Thiết kế dinh thự tương lai trên đảo riêng có thể khám phá qua năm cảnh Three.js kết nối, với chuyển động camera điện ảnh, vật liệu cao cấp và kể chuyện qua môi trường.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [Bài đăng gốc](https://x.com/aimlapi/status/2094879208304685524) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
+
+### Thế giới Three.js sinh thủ tục
+
+[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="Thế giới Three.js sinh thủ tục"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Từ một prompt, tạo thế giới Three.js sinh thủ tục với địa hình đa dạng, quần xã, điểm thú vị, sự sống nền và điều khiển khám phá mượt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [Bài đăng gốc](https://x.com/swarogan/status/2094873862315843910) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
+
+### Tín hiệu não người 3D tương tác
+
+[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="Tín hiệu não người 3D tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng bộ não người 3D tương tác có nếp gấp vỏ não dễ nhận biết, rồi tạo tín hiệu giống một câu nói di chuyển qua các vùng bằng cách trực quan hóa lấy cảm hứng từ EEG hoặc MEG.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [Bài đăng gốc](https://x.com/GregFeingold/status/2094873080590225728) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
+
+### Cảnh quan Three.js chân thực
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="Cảnh quan Three.js chân thực"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo cảnh quan Three.js chân thực với địa hình, cây cối, bầu trời, nước, chiều sâu, ánh sáng thuyết phục và đường camera hé lộ môi trường tự nhiên.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [Bài đăng gốc](https://x.com/aollivier82/status/2094871858206191667) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
 ### Game bắn horde AAA với shader WebGL
@@ -1061,186 +1221,6 @@ Một nhà phát triển so sánh các mô hình bằng cùng yêu cầu: “d�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Bài đăng gốc](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
-
-### Prompt Three.js cho cảnh tàu maglev tương lai
-
-[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="Prompt Three.js cho cảnh tàu maglev tương lai"></a>
-
-**Prompt**
-
-```text
-Tàu cao tốc maglev tương lai lao qua ống chân không thủy tinh trong suốt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [Bài đăng gốc](https://x.com/Pixel_Neuron/status/2080454415400493332) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
-
-### Prompt game trốn tìm 3D với tắc kè và robot
-
-[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="Prompt game trốn tìm 3D với tắc kè và robot"></a>
-
-**Prompt**
-
-```text
-Một prompt gửi cho cả hai: game trốn tìm. Tắc kè tự đổi màu khớp tường trong khi robot săn nó. Một tệp, chơi được, vòng, điểm, phần trăm khớp. Không phải demo mà là game hoàn chỉnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Bài đăng gốc](https://x.com/sonicsmarta/status/2080392777515311115) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
-
-### Prompt Claude Fable 5 cho cây anh đào 3D
-
-[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="Prompt Claude Fable 5 cho cây anh đào 3D"></a>
-
-**Prompt**
-
-```text
-Dựng cây hoa anh đào 3D; không cho thư viện cây dựng sẵn; mô hình phải tự sinh cấu trúc
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [Bài đăng gốc](https://x.com/zhodonx/status/2080178541979664741) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
-
-### Prompt đa dự án: thương mại điện tử, bảo tàng 3D tương tác và bản sao RTS
-
-[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · Khác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="Prompt đa dự án: thương mại điện tử, bảo tàng 3D tương tác và bản sao RTS"></a>
-
-**Prompt**
-
-```text
-Bản dựng 1: cửa hàng trực tuyến có 30 sản phẩm và 30 ảnh được tạo
-Bản dựng 2: bảo tàng 3D tương tác đưa gần 1.000 tranh thật từ Wikipedia vào cơ sở dữ liệu
-Bản dựng 3: bản sao Age of Empires
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Bài đăng gốc](https://x.com/crptAtlas/status/2080050176132300960) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="hole-io-style-three-js-game-2079898758427324573"></a>
-
-### Prompt game Three.js kiểu Hole.io
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Prompt game Three.js kiểu Hole.io"></a>
-
-**Prompt**
-
-```text
-Dựng game kiểu Hole.io hoàn chỉnh bằng HTML + Three.js trong một lần thử.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
-
-### Prompt Kimi K3 dựng raytracer hố đen WebGL2 một tệp
-
-[Harsh](https://x.com/devloper_hs) · 2026-07-21 · Kimi K3 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205"><img src="../assets/previews/5aff9deb1b2b504e0a15e14b6c97f70d2e06974efefa1eda0515703c4b1e4a08.webp" width="840" loading="lazy" alt="Prompt Kimi K3 dựng raytracer hố đen WebGL2 một tệp"></a>
-
-**Prompt**
-
-```text
-Tạo một tệp HTML hoàn chỉnh, độc lập, không dùng thư viện ngoài như Three.js, triển khai raytracer trắc địa thời gian thực cho hố đen Schwarzschild lấy cảm hứng Gargantua.
-
-Dùng WebGL2 thuần với GLSL ES 3.00 trong một fragment shader. Triển khai vật lý chính xác: tích phân đường trắc địa null bằng bộ giải Runge-Kutta bậc 4, chân trời sự kiện, cầu photon, đĩa bồi tụ render đúng, thấu kính hấp dẫn, tăng sáng Doppler và dịch đỏ hấp dẫn. Hướng đến hiệu năng ổn định 60 FPS.
-
-Có camera xoay/phóng to bằng chuột và bảng điều khiển cyberpunk với thanh trượt thông số: khối lượng, spin, mật độ đĩa, góc nhìn, v.v. Thêm hiệu ứng hạt nhẹ cho vật chất rơi vào và ánh sáng/bóng động.
-
-Đầu ra phải hoàn chỉnh 100%, chạy ngay trong trình duyệt hiện đại, không màn đen, NaN, lỗi hay tính năng thiếu. Ưu tiên cao nhất tính đúng số học, xử lý biên, kỷ luật bộ giải và độ chính xác vật lý. Xác minh và chú thích các phương trình vật lý quan trọng trong mã. Làm hình ảnh ấn tượng, tương tác như demo/game vật lý cao cấp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Bài đăng gốc](https://x.com/devloper_hs/status/2079590483727442205) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="voxel-soccer-animation-in-a-single-html-file-2079553757302710442"></a>
-
-### Prompt hoạt ảnh bóng đá voxel Three.js trong một tệp HTML
-
-[Thành](https://x.com/Zmthanh) · 2026-07-21 · Kimi K3 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442"><img src="../assets/previews/771fe49a27ee707d5b3e4fe6f4ff4b4ab7eada49eda5ec2a5bd000b8fefb33da.webp" width="840" loading="lazy" alt="Prompt hoạt ảnh bóng đá voxel Three.js trong một tệp HTML"></a>
-
-**Prompt**
-
-```text
-Tạo một tệp HTML với Three.js qua CDN cho hoạt ảnh bóng đá voxel đơn giản. Cầu thủ dạng khối rê bóng qua 2 hậu vệ rồi ghi bàn ngoạn mục với hạt ăn mừng. Sân vận động đầy màu sắc. CHỈ xuất toàn bộ mã HTML.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Bài đăng gốc](https://x.com/Zmthanh/status/2079553757302710442) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="modeling-new-york-city-in-blender-2079387760478073087"></a>
-
-### Prompt Fable 5 dựng New York trong Blender
-
-[Martin Puli](https://x.com/MartinPulitano) · 2026-07-21 · Claude Fable 5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087"><img src="../assets/previews/c1df84f5898cf9fec4ed0c498e4b43b923257fa908fc65dc156c5f84920caffb.webp" width="840" loading="lazy" alt="Prompt Fable 5 dựng New York trong Blender"></a>
-
-**Prompt**
-
-```text
-Đây là New York. Một agent tự dựng nó bằng MỘT prompt. Tôi không động tay. Đến giờ vẫn chưa tin nổi.
-
-Vài ngày trước tôi thấy các bài về việc dựng hình Blender bằng GPT 5.6 Sol và không thể nghĩ đến điều gì khác. Tôi phải thử với thứ gì đó thật.
-
-Tôi bắt đầu từ nhà mình. Kết quả tệ hại: méo mó, xám xịt, như mô hình nhựa.
-
-Tôi có thể dừng ở đó. Nhưng tôi bắt đầu lặp và sửa.
-
-Tôi ghép vài agent thu thập dữ liệu thật về địa điểm từ hàng nghìn nguồn: dấu chân công trình, chiều cao, tọa độ. Với Blender MCP + skills + thư viện, chúng dựng mô hình bằng công cụ của chính Blender.
-
-Khi hệ thống sẵn sàng, tôi gõ: “dựng New York”.
-
-Nó trả về Manhattan. Kích thước thật, vị trí chính xác đến từng mét, tôi không chạm một đỉnh nào.
-
-Điều tôi không ngờ là khi thử nhiều mô hình, GPT 5.6 Sol vượt Fable 5 RẤT XA ở tác vụ này.
-
-Mới chỉ vài ngày. Tôi vẫn đang tinh chỉnh chi tiết công trình. Xem các video trước trong hồ sơ sẽ thấy nó tiến bộ bao nhiêu sau mỗi lần cập nhật.
-
-Giờ tôi đang cố tăng diện tích và độ chi tiết với một prompt. Nếu bạn hiểu texture và vật liệu Blender, tôi rất muốn nghe 🙏
-
-Nhưng thứ khiến tôi choáng nhất không phải mô hình, mà là những khả năng mở ra sau đó.
-
-Tệp .blend vẫn sống. Chỉ vài câu là có thể thêm tòa tháp, chuyển đại lộ hay nhập cả thành phố với nhau. Buenos Aires nằm trên New York. Tháp Obelisk đứng giữa Times Square.
-
-Tôi không dựng một thành phố. Tôi biến thực tế thành bản nháp có thể chỉnh sửa.
-
-Repo + .blend ở bình luận đầu 👇 Tôi sẽ tiếp tục đăng từng bước ở đây. Nếu thích tiến trình này, hãy theo dõi vì chúng ta mới bắt đầu.
-
-Bạn muốn tôi dựng thành phố nào tiếp theo?
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087) · [Bài đăng gốc](https://x.com/MartinPulitano/status/2079387760478073087) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

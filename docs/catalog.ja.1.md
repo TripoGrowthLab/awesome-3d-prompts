@@ -28,6 +28,14 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [機能を網羅したLEGO フォード・モデルTセット](#claude-opus-5-5-2104232297167716457)
+- [雪の路地を舞台にした超リアルなマルチプレイFPS](#claude-opus-5-5-2104232013578617241)
+- [データセンターから原子までを描く55秒の3Dシーン](#claude-opus-5-5-2104223449849761837)
+- [Kiiwi向け、躍動感あふれる30秒モーショングラフィックスプロモーション](#claude-opus-5-5-2104204312624918810)
+- [3機の乗り物が変形合体するアニメ風3D CG](#claude-opus-5-5-2104193522715029657)
+- [Claude Code向けAIオーブUIモーション — Opus 5.5](#claude-opus-5-5-2104162483888062945)
+- [インタラクティブな3Dカメラレンズの光路デモ](#gpt-6-astra-2104077535315144878)
+- [BlenderでSuper Heavyブースターをキャッチするシーン](#gpt-6-astra-2103966922127630820)
 - [森に囲まれた湖畔の村の環境](#gpt-6-astra-2103860776419111285)
 - [ボクセルのボトルシップ WebGLシーン](#gpt-6-astra-2103855977376125161)
 - [洗練された15秒のモーションデザイン映像](#claude-opus-5-5-2103846630088716687)
@@ -70,16 +78,223 @@
 - [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](#claude-opus-5-5-2102775461701091531)
 - [Orbit Lab：太陽・地球・月の3Dシミュレーション](#gpt-6-astra-2102752217375899659)
 - [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](#claude-opus-5-5-2102740078347087940)
-- [ボクセル風サッカーアニメーション](#claude-opus-5-5-2102739444256383089)
-- [想像上の惑星を扱うインタラクティブなウェブサイト](#claude-opus-5-5-2102729710174196022)
-- [中世の城のブラウザアニメーション](#gpt-6-astra-2102672926285713456)
-- [Claude Opus 5で制作したTripo 3Dプロモーション映像](#tripo-claude-opus-5-5-paper-cut-3d-short)
-- [1つのHTMLファイルで動く3Dカートレーサー](#gpt-6-astra-2102652927177617564)
-- [インタラクティブなオイラー型ネオン流体シミュレーション](#claude-opus-5-5-2102565611473661963)
-- [日本の桜の谷を描くインタラクティブ3D景観Webページ](#claude-opus-5-5-2102565403109085669)
-- [Hundenbergの事故モデルとリアルな動画](#claude-opus-5-5-2102547809140355250)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### 機能を網羅したLEGO フォード・モデルTセット
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="機能を網羅したLEGO フォード・モデルTセット"></a>
+
+**プロンプト**
+
+```text
+初代フォード・モデルTのLEGOセットを作りたいです。
+
+可能な限り動きやインタラクティブな機能を盛り込み、LEGOのマスタービルダーが誇りに思える品質にしてください。
+
+最終出力には、LEGOセットのレンダリング画像、LEGOに注文する必要があるすべてのパーツ、そして組み立て用の説明書を含めてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104232297167716457) · [元の投稿](https://x.com/businessbarista/status/2104233375791718456) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### 雪の路地を舞台にした超リアルなマルチプレイFPS
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="雪の路地を舞台にした超リアルなマルチプレイFPS"></a>
+
+**プロンプト**
+
+```text
+超リアルなマルチプレイFPSを作ってください。舞台はレンガ造りの建物が並ぶ、雪の積もった街の路地にします。キレのある反動と薬莢が飛び散るアサルトライフルを用意してください。撃ち合える敵、乗り越えアクション、血しぶきのある画面ダメージ演出を追加してください。銃撃のヒット判定は完璧なレスポンスに仕上げ、雰囲気を活かして一本のゲームとしてまとめてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104232013578617241) · [元の投稿](https://x.com/zenvnt/status/2104232358811676833) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### データセンターから原子までを描く55秒の3Dシーン
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="データセンターから原子までを描く55秒の3Dシーン"></a>
+
+**プロンプト**
+
+```text
+55秒の3Dシーンを作成してください。カメラがデータセンター内へ飛び込み、ラックを開き、GPUを分解してチップへズームインし、トランジスタの間を通り抜けて、最後に1個のシリコン原子へ到達します。右側にはメートル単位のスケールレールを表示してください。ラベルはクライアントの言語にしてください。ブラウザで動作し、1ファイルで完結し、依存関係は不要です。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104223449849761837) · [元の投稿](https://x.com/Cranefomo/status/2104223449849761837) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Kiiwi向け、躍動感あふれる30秒モーショングラフィックスプロモーション
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Kiiwi向け、躍動感あふれる30秒モーショングラフィックスプロモーション"></a>
+
+**プロンプト**
+
+```text
+https://t.co/fCRvqmOamH.のために、あなたがいかに優れたモーションデザイナーであるかを示す、躍動感あふれる30秒のモーショングラフィックス動画を作成してください
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104204312624918810) · [元の投稿](https://x.com/iniyanai/status/2104204318085931054) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### 3機の乗り物が変形合体するアニメ風3D CG
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="3機の乗り物が変形合体するアニメ風3D CG"></a>
+
+**プロンプト**
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104193522715029657) · [元の投稿](https://x.com/allforbigfire/status/2104193522715029657) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Claude Code向けAIオーブUIモーション — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Claude Code向けAIオーブUIモーション — Opus 5.5"></a>
+
+**プロンプト**
+
+```text
+次の項目を確認してください：AIエージェントがユーザーのために完了するタスク（デフォルト：3日間の京都旅行を計画して予約する）、カラーパレット（デフォルト：ウォームグレーのキャンバス #E6E3DE、UIは純粋な黒／白、色が付くのはオーブだけ――パール調の虹色で、青 → 紫 → ピーチへ変化）、および120 BPM前後のロイヤリティフリー楽曲（Mixkitは自分で検索し、numpyでBPMを測定し、フルトラックをダウンロードする前にプレビューリンク付きで候補を3曲提示してください）。AIチャットエージェントツールの、Dribbble級のUIコンセプトモーションです。白いシェイプは1つだけで、途中で切り替えないでください。すべての状態は同じ要素がサイズ、角丸、色を変形させ、短いブラーを伴って内容を入れ替えます。主役はGLSL製の「AIオーブ」です（ChatGPT／Siriの音声オーブのような、流体的で呼吸する虹色のブロブ）。連続性を保つ要素としてシェイプの外側に配置し、映像全体で役割を変化させます：待機時のヒーロー → リスニング中に音声へ反応 → 入力バー内のアバターへ縮小 → 思考中に回転が加速 → 回答画面のアバター → タスク完了時に開花 → 待機状態へ戻る。すべての変化は、実際のクリックとドラッグでカーソルが駆動します。UIフォントはクリーンなものを1つだけ（Geist）。全体にスプリングを使い、オーバーシュートはごく小さく、最大限に抑えます。カメラは各状態がフレームの約60〜75%を占めるようにズームします。オーブはすべてのビートで控えめに脈動します。最後のフレームは最初のフレームと同一にしてループさせます。禁止事項：弾むイージング、パーティクルの噴出、UIクロームへのグローやグラデーション（オーブはクロームではなくコンテンツです）、線幅が揃っていないアイコン、無音の空白時間、テンプレートに見える表現。120 BPM、8小節 = 32ビート = 16秒。毎ビートで何かが起こります（ビート n は (n-1)*0.5秒）：1小節目：オーブが待機し、カーソルが近づく | オーブをクリック → シェイプが「LISTENING」ピルへ伸び、オーブが左へ移動し、音節エンベロープに合わせて揺れる | ライブ文字起こしで「Plan 3 days in Kyoto」と入力 | 「…under 1,500,」の値がリアルタイムで変化 | スライダーを1,248の「cheapest plan」より先までドラッグ 6小節目：スライダー → 黒いスワイプ確認UI「Book trip · $1,248」 | ノブをつかんで右へドラッグ | 端を越える → ラバーバンド | 離す → 端へスナップし、矢印がスピナーに変わる 7小節目：→ トースト「Trip booked」 | チップ「Flights ✓」「Ryokan ✓」がポップイン | オーブが開花（色＋スケール） | トーストがオーブに向かって折りたたまれる 8小節目：シェイプがフェードし、オーブがヒーローサイズに戻る | 静止する | ビートに合わせて呼吸し、カーソルが外へ漂う | 待機状態へ戻る（ループ） 1. 自己完結型のHTMLファイルを1つ作成します。正方形の1440×1440で、フォントと音声を含まないアセットはデータURIとしてインライン化します。すべてのスタイルは純粋な`seek(t)`内で時間から計算します：CSSトランジション、タイマー、フレーム間で保持される状態は禁止し、seek内でトラックを作成しないでください。 2. スプリングは閉形式のステップ応答にします。ターゲットが何度も変わる値は、変化1回ごとのスプリングの合計にします。ループさせるには、最後のターゲットを開始値として、前2サイクル（t + L、t + 2L）のスプリングの減衰尾部も加え、シームで位置と速度の両方を一致させます。減衰比は0.72以上にします。 3. コンテンツレイヤーにはそれぞれ独自の入場／退場ウィンドウを設けます：退場はビートに正確に着地させ、約80ms後に入場を開始します（不透明度＋画面上約12pxのブラー＋0.965→1のスケール）。テキストが重ならないようにしてください。 4. ドラッグはダイレクトマニピュレーションにします：押している間、値 = 開始値 + (カーソルX − 押下時のカーソルX)。限界を越えた場合は rubber(over, R) = R·(1 − e^(−over/R)) を適用します。離すと、離した位置と速度からスナップ先のターゲットへ向かう自由スプリングを実行します。カーソルのウェイポイントは、スプリング上の [出発時刻, x, y] とします。最後のウェイポイントを最初と同じにして、ループをまたいでもカーソルの位置と速度が連続するようにします。 5. オーブ：OFFSCREEN 640×640キャンバスにWebGLフラグメントシェーダーを描画し、seek内で表示用の2Dキャンバスへ同期的にdrawImageします（WebGLキャンバスを直接スクリーンショットすると、ヘッドレス環境では信頼性が低いためです）。時間は周期的にしてください：uniformには整数kを使った (cos, sin)(2π·k·t/L)（例：k=2とk=5）を渡し、生のtは使わないでください。シルエットの半径 = 0.74 + amp·noise(direction·1.4 + T)。ノイズは単位方向ベクトル上でサンプリングし、中心のシームを作らないでください。表面には球面法線に対する低周波でドメインワープした3Dノイズを使い、大きく滑らかな色帯を作ります。16%をパールホワイト、明るい内側のコア、小さく鋭いスペキュラ（pow 70）、淡いライラック色のフレネルリムにし、ボリューム感を出すため下半分を暗くします。待機中のオーブの下には柔らかな楕円形の影を置きます。uniform：amp（待機時0.08、リスニング中は音節エンベロープ分を加算、思考中は少し加算）、think（より強く／速くワープ）、bloom（完了時の色のバースト）。1ピクセルあたりのノイズ呼び出しは5回以下に抑えます。 6. 音声：numpyで楽曲を分析します（スペクトルフラックスによるオンセット、位相ロックBPM、キック＋クロマ変化によるダウンビート、1小節ごとのRMS）。エネルギーが最大の8小節フレーズのダウンビートから開始し、音声ループがフレーズ境界に着地するようにします。大きな分析ウィンドウではビートが約15〜25ms早く推定されます。256サンプルのウィンドウでカット位置を再測定し、残差の中央値が2ms未満になるまで開始位置をずらします。最後の60msを開始前の60msとクロスフェードします。UIサウンドはnumpyで合成します（クリック、送信スウッシュ、つかむ／落とす音、ティック、成功音、チャイム）。それぞれをイベント時刻の実測ピークに配置し、複数音のサウンドでは最初の音を最も大きくします。 7. Playwright Chromiumでレンダリングします：1フレームにつき4つのサブフレームを、半フレームの範囲に分散して配置します（180°シャッター、フレーム時刻を中央にする）。並列ワーカーは16個にします。各seek後、スクリーンショットを撮る前にrequestAnimationFrameを2回待機してください。screenshot(animations='disabled')は使用しないでください。シーンがWebGLを使用するため、 --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdogを付けて起動します（デフォルトのSwiftShader-Vulkanパスでは、ほとんどの場合WebGLコンテキストが失われます）。RGBAのスクリーンショットはRGBに変換します。 8. ffmpegでエンコードします：-reinit_filter 0、tmix=frames=4の後に4フレームごとに選択、60fps、libx264 -crf 10 -x264-params aq-mode=3、AAC 256k、-tで再生時間を正確に指定します。selectのオフセットを決める前に、使用するffmpegのバージョンでtmixが実際にどのサブフレームを平均するかを検証してください。また、共有用のcrf 20版と、3回ループしたコピーも作成します。 9. フルレンダリングの前に、各ビートのフレームを1枚と、その0.3秒後のフレームを1枚レンダリングし、コンタクトシートにタイル配置します。グリッドから外れている、窮屈、クリップされている、読みにくい、またはオーブが欠けている箇所を修正します。その後、トランジションのフレームをフル解像度で抜き打ち確認します。 10. 検証して報告します：t=0とt=Lのスクリーンショットがピクセル単位で同一であること、フレーム数が960で映像／音声が正確に16.000秒であること、シームのフレーム差分が前後のフレームと同程度であること、RGBAのサブフレームがないこと、最終音声のビートオフセットが10ms未満であること、待機中のフレームをサンプリングしてすべてにオーブが存在することを確認します。- GLSLではe0 > e1のsmoothstep(e0, e1, x)は未定義です。SwiftShaderでは0が返され、オーブが消えます。必ず1.0 - smoothstep(lo, hi, x)と記述してください。- ソフトウェアGLで重いシェーダーを使うとGPUウォッチドッグが作動し（CONTEXT_LOST_WEBGL）、WebGLコンテキストが失われます。キャンバスは640²に保ち、ノイズの回数を少なくしてください。すべてのテストで、コンソールのコンテキスト喪失メッセージを監視します。- カメラでスケールする要素にはwill-changeを設定しないでください。テキストがぼやけます。- フォロワー（オーブ、アバター）はシェイプより少し遅いスプリングを使い、シェイプの端でクリップされないようにします。- レイヤー順：背景プレートがあるものは、その上に載るテキスト／アイコンより前に置きます。- センタリング用のtranslate()をアニメーション中のtransformで上書きしないでください。代わりにレイヤーでラップします。- ffmpegの-shortestは最後のフレームを落とすことがあります。-tを明示的に設定してください。- 最後のフレームはカーソルの位置と速度まで含め、最初のフレームと同一にしてください。そうしないとループがカクつきます。入力項目を確認し、まずオーブシェーダー単体をプロトタイプしてください（t=0、t=4、t=8をレンダリングし、t=0 == t=16がピクセル単位で一致することを証明し、8回の新規ページ読み込みを通してコンテキストが一度も失われないことを確認）。その後、8小節のビートグリッド上の状態一覧を表で提示し、私のOKを待ってから完全なシーンを書いてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104162483888062945) · [元の投稿](https://x.com/listudio/status/2104162483888062945) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104077535315144878"></a>
+
+### インタラクティブな3Dカメラレンズの光路デモ
+
+[noah helms](https://x.com/haonv2) · 2026-09-27 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/c25990cf0e605481e3e3cb5e2883ecc6940658a121f64d661faa6d1dfc78f0c3.webp" width="840" loading="lazy" alt="インタラクティブな3Dカメラレンズの光路デモ"></a>
+
+**プロンプト**
+
+```text
+光がカメラレンズを通ってセンサーに届くまでの様子を、インタラクティブな3Dレンダーとして作成してください。滝と美しい緑の草原が広がる、魅力的な山岳風景を舞台にしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2104077535315144878) · [元の投稿](https://x.com/haonv2/status/2104077535315144878) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103966922127630820"></a>
+
+### BlenderでSuper Heavyブースターをキャッチするシーン
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/b907f0a1db0e0cf1ef3f183393df49f4ab38dd9a0bdda15bc078b816b1bf0130.webp" width="840" loading="lazy" alt="BlenderでSuper Heavyブースターをキャッチするシーン"></a>
+
+**プロンプト**
+
+```text
+Pythonだけを使って、BlenderでSuper Heavyブースターのキャッチシーンを作成する。ダウンロードしたモデル、テクスチャ、HDRIは使用せず、すべてコードで生成する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build a Super Heavy booster catch in Blender using only Python. no downloaded models, no textures, no HDRIs, everything generated by code
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2103966922127630820) · [元の投稿](https://x.com/Vortlyn/status/2103966922127630820) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103860776419111285"></a>
 
 ### 森に囲まれた湖畔の村の環境
@@ -2278,610 +2493,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102740078347087940) · [元の投稿](https://x.com/builderhelmai/status/2102740078347087940) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### ボクセル風サッカーアニメーション
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="ボクセル風サッカーアニメーション"></a>
-
-**プロンプト**
-
-```text
-Three.js（CDN）を使った、シンプルなボクセル風サッカーアニメーションを1つのHTMLファイルで作成してください。ブロック状の選手が2人のディフェンダーをドリブルでかわし、祝福のパーティクルが舞う華麗なゴールを決めます。カラフルなスタジアムの雰囲気にしてください。出力は完全なHTMLコードのみとしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102739444256383089) · [元の投稿](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### 想像上の惑星を扱うインタラクティブなウェブサイト
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="想像上の惑星を扱うインタラクティブなウェブサイト"></a>
-
-**プロンプト**
-
-```text
-想像上の惑星をテーマにしたインタラクティブなウェブサイトを作成してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102729710174196022) · [元の投稿](https://x.com/Kappaemme1926/status/2102729710174196022) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102672926285713456"></a>
-
-### 中世の城のブラウザアニメーション
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="中世の城のブラウザアニメーション"></a>
-
-**プロンプト**
-
-```text
-ブラウザだけで完全に動作する3Dアニメーションを作成してください。広大な森の中にある丘の頂上に建つ中世の城を登場させます。キーボード操作は追加せず、城をあらゆる方向から見られるように、カメラだけが城の周囲を回転するようにしてください。城の塔の頂上には、風になびく旗を設置してください。
-
-実行すると城を表示し、ループアニメーションを開始するindex.htmlファイルを出力してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
-
-The output should contain index.html file that when executed shows the castle and starts the looping animation.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102672926285713456) · [元の投稿](https://juhapalomaki.fi/blog/castle-model-comparison/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
-
-### Claude Opus 5で制作したTripo 3Dプロモーション映像
-
-[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Claude Opus 5で制作したTripo 3Dプロモーション映像"></a>
-
-**プロンプト**
-
-```text
-1. プロジェクトの目的
-「Claude × Tripo」と題した、約44秒のインタラクティブなアニメーションショートを制作します。小さなオレンジ色のClaudeのスパークが手作りの紙の机に舞い降り、Tripoブランドのノートパソコンで5つの遊び心あふれるアイデアをスケッチまたは入力すると、それらの創作物が命を吹き込まれていきます。視聴者はアニメーションの再生・一時停止・シーク・リプレイ、アスペクト比の変更、サウンドの有効化、録画を行えます。これは演出されたショート作品であり、スコア、戦闘、勝利条件はありません。提供された動画とシーン構成を再現してください。
-
-2. ビジュアルスタイル
-破れたクリーム色の縁、ガッシュの粒子感、手描きの線、方眼紙のディテール、ミッドナイトブルーの空を取り入れた、レイヤー構造のペーパーカット風ジオラマにします。クレセントムーン、暖色の黄色い星、青い紙の丘、小さな町をクラフト紙の机の背後に重ねます。開いたノートパソコンを左、Claudeを中央付近、小さな円形のディスプレイ台を右に配置します。暖色のオレンジ、ライラック、ミント、バターイエロー、クリーム色のアクセントを維持します。パースカメラはワイドショットとクローズアップの間をゆっくり移動し、深度ごとに分けた平面の切り抜きでパララックスを生み出します。段階的なカートゥーン調ライティング、クールなリムライト、控えめな輪郭線、柔らかな影、最後に紙の質感とビネットのポストエフェクトを使います。最後は白いカメラフラッシュで締め、キャスト全員を写した、少し傾いてテープで留められたポラロイド写真を表示します。冒頭、各創作物の登場シーン、全員が揃うフィナーレで、参照動画のフレーミングを合わせてください。
-
-3. シーンとストーリー
-すべてのポーズとカメラを、単一の決定論的なupdate(t)から駆動し、任意のタイムスタンプへ直接シークしても、過去のフレームを再生し直さず正しいフレームが表示されるようにします。ストーリーのビートは1つの共有スケジュールで管理します。Claudeは約0.55秒に到着し、約1.7秒に着地、2.92秒にノートパソコンを起動します。パンの猫は約7.2秒、カタツムリの家は約13.85秒、トースター型ロケットは約19.8秒、ティーポットのタコは約26.1秒、空飛ぶクジラは約33.3秒に登場させます。ロケットは約21.25秒に発射し、約24.05秒に戻ります。クジラは約35～37秒に全員の上を泳ぎます。カメラフラッシュは40.5秒に発生させ、44.2秒で終了します。カメラショットを滑らかにつなぎ、イーズ付きの予備動作、スプリングによるオーバーシュート、スクワッシュ＆ストレッチ、小さな跳ね、減衰する揺れを使います。シーン間の切り替えで急にリセットされないようにしてください。
-
-4. アセット一覧
-- claude-spark：クリーム色の破れた縁を持つ、平面的なオレンジ色の12本の光線のスパーク。親しみやすい表情を持ちます。まばたきし、現在の動作を見つめ、笑顔や赤面を見せ、喜び・目が回る表情・きらめく目を使います。2本の光線を腕のように伸ばし、キーや絵、ほかのキャラクターに手を伸ばします。顔と腕の動きはプロシージャルシェーダーとして保持してください。静的な書き出しでは、このキャラクターの個性や演技を再現できません。
-- cat：丸みのある体、焼き色のついたクラスト模様、小さな耳、前足、尻尾、光沢のある目、ピンクの頬、ひげを持つ、黄金色のパン型の猫。ディスプレイ台に現れ、確認のために回転し、なでられた後、机の手前に落ち着きます。
-- snail：サンゴ色の屋根、煙突、光る窓、小さなフラワーボックスが付いたクリーム色の家を背負う、淡い緑色のカタツムリ。持ち上げて滑らせる間も、目の柄をはっきり分け、家を直立させ、顔が見える状態を保ちます。
-- toaster：ミント色のトースターに、サンゴ色の縁取りとレバー、丸みのあるクリーム色のディテール、小さなロケットフィン、底面のノズルを備えます。オレンジ色の炎、煙のパフ、通過時のカメラ音とともに離陸し、その後戻ってきます。炎と煙は別々のエフェクトとして扱います。
-- octopus：6本の柔軟な触手、注ぎ口と持ち手、陽気な表情、金色のモノクル、紫色の蝶ネクタイを持つ、ピンクとライラック色のティーポット型クリーチャー。触手、傾けるジェスチャー、小さな歩行をアニメーションさせます。触手のポーズは、剛体のティーポット本体とは分けて制御してください。
-- whale：クリーム色の腹、ヒレ、表情豊かな顔を持ち、草の生えたミニチュアの町、カラフルな家々、木々、ストライプ柄の灯台を載せた、青い空のクジラ。最も大きな創作物なので、フィナーレでも目立つ位置を保ちます。灯台の光線は、別の透明エフェクトとして扱います。
-- environment：机、ノートパソコン、ランプ、鉛筆立て、鉢植え、ディスプレイ台、紙でできた空と町のレイヤー、メモ、鉛筆。これらを全編で再利用します。紙の背景、ノートパソコンのUI、落書き、パーティクル、煙、光線、ポストプロセスはプロシージャルのままにします。
-ワールド配置、回転・スクワッシュ、可動パーツ用に、安定したアセット識別子と個別のトランスフォームを使用します。元プロジェクトの比率と色を維持します。ポータブルGLB版では標準マテリアルと静的ポーズを使用して構いませんが、カスタムの登場シェーダー、演技、完全なアニメーションが含まれるとは主張しないでください。
-
-5. インタラクションとフィードバック
-再生・一時停止、リプレイ、経過時間と合計時間を表示するシークスライダー、1:1／16:9／9:16のアスペクト比選択、サウンド切り替え、クリーンビュー、録画を用意します。Spaceキーで再生を切り替え、Rキーでリプレイ、HキーまたはCキーでクリーンビューを切り替え、Escapeキーでコントロールを復元、Mキーでサウンドを切り替えます。左右キーで1秒単位にシークし、Shiftキーを押すと刻み幅を0.1秒にします。幅の狭いタッチスクリーンでも操作できるようにしてください。サウンドはユーザー操作の後にのみ開始し、自動再生の音声がブロックされた場合は「サウンド付きで再生」を提示します。シークやリプレイを行ったときは、正しい時刻からサウンドを再開します。最後は停止し、リプレイを提示します。
-ノートパソコンには、現在の絵または入力されたアイデア、アニメーションする進行バー、完了マークを表示します。画面上のGenerate操作は作り込まれたアニメーションの一部です。元のショートではプロシージャルジオメトリを使用しており、モデル生成APIは呼び出していません。各創作物は下から上へ登場させ、最初はライラック色の粘土として現れ、その後、暖かく光るスキャンバンドで本来の色を塗り上げます。Claudeの視線と腕の動きを、これらのイベントに合わせてください。
-
-6. 技術実装と音声
-JavaScript ES modulesとThree.js r170を使用し、WebGL、カスタムシェーダー、CanvasTexture、Web Audio APIで実装します。アプリケーションとフォントは、再現可能なビルドで同一オリジンの静的リソースとしてバンドルし、実行時のCDNや非公開サービスの認証情報には依存しません。コントロールにはローカルのFredoka、手書き文字にはCaveatを使用します。3種類すべてのアスペクト比に合わせてカメラ距離とレンダーサイズを調整し、過剰なピクセル密度には上限を設けます。書き出し用アセットをページの初回ネットワークリクエストに含めないでください。
-スコアとエフェクトはWeb Audioで合成します。オルゴール風のFM音色、フィルターをかけたプラックド・トライアングルのベース、マリンバ、柔らかくデチューンしたパッド、キック、クラップ／シェイカー、生成リバーブ、最終コンプレッションを使用します。小節のゼロを2.92秒のノートパソコン起動に、16小節目を40.5秒のフラッシュに合わせ、テンポは約102 BPMとします。コード進行はF–Dm–B♭–Cを繰り返します。名前を付けたストーリービートに、鉛筆、キーボード、ウーシュ、ポップ、ボイン、猫、クジラ、ロケット、シャッターのエフェクトを追加します。ロケットエンジンはカメラに対する相対的な動きを使ってパンと音色を調整します。サウンドトラックを小さなオフラインスライスでレンダリングして1つのバッファに組み立て、アクティブなオーディオクロックで映像を駆動します。クロックが停止した場合のフォールバックも用意します。録画ではキャンバスの映像とサウンドトラックを組み合わせ、ブラウザーが対応する形式で書き出します。通常の再生やブラウザー録画で、元プロジェクトの任意のローカルPythonキャプチャサーバーに依存しないでください。
-
-7. 完了条件
-編集可能なソース、固定済みの依存関係、静的ビルド、起動手順、実際に操作できるショートを納品します。8、15、22、28、36、41秒付近への直接シークを確認し、リプレイと一時停止でも決定論的な状態が維持されることを検証します。アンサンブルの構図を参照動画と比較します。音声のアンロック、ミュート、リプレイ時の同期、映像と音声の両トラックを含む実際の録画ダウンロードを確認します。正方形、横長、縦長のフレーミングと、デスクトップおよび狭い画面でのコントロールを確認します。ホストされたページを親サイトの分離されたiframe内で検証し、フォントの欠落、ブロックされたスクリプト、外部リソースのエラーがないことを確認します。再利用可能なGLBは、ジオメトリ、向き、マテリアル、バウンディングボックスが正しいことを個別に確認し、サムネイルには実際のファイルの内容を表示します。ポータブルアセットとアニメーションするシェーダー版の違いを記録します。
-
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102652927177617564"></a>
-
-### 1つのHTMLファイルで動く3Dカートレーサー
-
-[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="1つのHTMLファイルで動く3Dカートレーサー"></a>
-
-**プロンプト**
-
-```text
-1つのHTMLファイルで動作する3Dカートレーシングゲームを作成してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-build a 3D kart racer in a single HTML file.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102652927177617564) · [元の投稿](https://x.com/realanshull/status/2102652927177617564) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### インタラクティブなオイラー型ネオン流体シミュレーション
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="インタラクティブなオイラー型ネオン流体シミュレーション"></a>
-
-**プロンプト**
-
-```text
-高性能なGPUアクセラレーション対応のインタラクティブなオイラー型ネオン流体シミュレーションを含む、完全な単一ファイルHTMLドキュメントを作成してください。
-
-厳格な技術要件と美的要件：
-
-1. アーキテクチャとパフォーマンス：
-   - 単一ファイル：HTML、CSS、JavaScript／GLSLシェーダーをすべてインラインで記述すること。
-   - 外部依存関係ゼロ：Pure WebGL 1.0または2.0を使用すること（Three.js、Pixi、外部ライブラリは禁止）。
-   - GPUで計算する流体力学：シミュレーション全体を、以下の処理用カスタムフラグメントシェーダーと、ピンポン方式のFramebuffer Object（FBO）だけで実行すること：
-     a) 移流（速度と色素）
-     b) 発散の計算
-     c) 圧力ポアソンソルバー（ヤコビ反復を1フレームあたり20～30回）
-     d) 勾配の減算／速度場の射影
-     e) 渦度閉じ込め（乱流の渦を加え、流体が単調でぼやけた塊になるのを防ぐ）。
-
-2. ビジュアルの忠実度（「ネオンスモーク」の表現）：
-   - 真っ黒な虚無の背景（`#050508`）。
-   - 色素の注入には加算合成／ハイダイナミックレンジブレンディングを使用すること。
-   - ダイナミックパレット：カーソルを素早く動かしたりタッチでドラッグしたりするたびに、高輝度のネオン色素を注入すること。色は鮮やかなサイバーカラー（エレクトリックシアン`#00F0FF`、ホットマゼンタ`#FF007F`、ディープウルトラバイオレット、輝くゴールド）を滑らかに循環させること。
-   - 表示シェーダーの拡張：最終レンダーシェーダーにポストプロセスパスを直接組み込み、流体の渦巻くエッジ周辺に控えめなブルーム／グロー、トーンマッピング、色収差を適用すること。
-
-3. インタラクション：
-   - マウスとタッチ：カーソルの素早い移動やドラッグに応じて、マウス速度に比例した速度と、密度の高い発光色素を注入すること。
-   - パッシブなアンビエントモーション：アイドル時には、控えめなプロシージャル・カールノイズまたは穏やかに漂う渦を生成し、キャンバスが完全に静止しないようにすること。
-   - コントロール：画面の隅に、洗練された極めてミニマルなグラスモーフィズムのHUDを配置すること（非アクティブ時は自動的に非表示）：
-     * 粘度スライダー
-     * 色素の散逸／残留スライダー
-     * スプラット半径スライダー
-     * 「キャンバスをクリア」ボタン
-     * カラーテーマ（サイバーパンク、サーマル・インフェルノ、生物発光ディープ）を切り替えるトグルボタン。
-
-4. プロダクション品質の仕上げ：
-   - 高DPIディスプレイと`resize`イベントを自動的に処理し、FBOテクスチャが引き伸ばされたりクリアされたりしないようにすること。
-   - 浮動小数点テクスチャ対応のフォールバックチェックを適切に実装すること（`OES_texture_float`／`OES_texture_half_float`）。
-   - プレースホルダーや途中で切れたコメントを一切含まない、クリーンでバグのない完全実装のコードにすること。
-
-Chrome／Safari／Firefoxで直接実行できる、完全に内容を埋めたHTMLファイルのみを返してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565611473661963) · [元の投稿](https://x.com/theailoser/status/2102565612874596411) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### 日本の桜の谷を描くインタラクティブ3D景観Webページ
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="日本の桜の谷を描くインタラクティブ3D景観Webページ"></a>
-
-**プロンプト**
-
-```text
-ブラウザ上でリアルタイムに操作できる、完成度の高い3D景観のWebページを直接制作してください。
-
-テーマ：日本の桜の谷。
-HTML、CSS、JavaScriptで実装してください。画像は生成せず、設計案だけを提示するのもやめてください。
-1枚の背景画像にパララックス効果を加えて3Dに見せかけないでください。実際に動作し、歩き回れる完成品が必要です。
-
-【1. 作品の方向性】
-
-遠近のレイヤーがあり、ひと続きになった、完成された谷の景観にしてください。
-孤立した小さな置き物や浮遊島、台座付きのジオラマでも、単なる技術デモでもありません。
-
-スタイルは現代的で精細なボクセルアートです。
-立方体形状の造形言語は保ちつつ、高解像度でアンチエイリアスが効き、光と影が繊細な画面にしてください。
-レトロな低解像度のピクセル表現や、大きな積み木を積み上げたような造形、画面全体にピクセルフィルターをかける表現は避けてください。
-
-ビジュアル品質を最優先にしてください。機能をいくつか減らしても、構図、マテリアル、ライティングを犠牲にしないでください。
-
-【2. 参考画像の使い方】
-
-参考画像がある場合は、まず構図のレイヤー、スケール、光、色彩の関係を理解してください。
-雰囲気とビジュアル表現だけを参考にして、シーンを新たに設計してください。
-建物、木々、山、道の配置をそのまま流用したり、1:1で再現したりしないでください。
-
-参考画像はWebページの背景素材ではありません。シーン自体を実際の3Dジオメトリで構成してください。
-
-【3. シーン構成】
-
-初期表示の時点で、完成度が高く魅力的な画面を見せてください。
-ユーザーがまずカメラを回して、見栄えのよいアングルを探す必要がないようにしてください。
-
-ジオラマのような等角投影の俯瞰カメラではなく、パースペクティブカメラを使用してください。
-画面には明確な前景・中景・遠景を設けてください。
-
-前景：
-存在感のある古い桜の木を中心に、岩、草木、石灯籠、少量の花びらを添えてください。
-画面の縁を自然に縁取る構図にしつつ、川、橋、主要な建物を隠さないでください。
-
-中景：
-曲がりくねった川で視線を画面の奥へ導き、赤い木橋を川に架けてください。
-集落、茶屋、神社、小道を地形に沿って配置し、建物同士を実際に行き来できる関係にしてください。
-地面には起伏や水際のライン、自然な遷移を設け、平面上にモデルを均等に並べないでください。
-
-遠景：
-斜面に建つ多層塔、距離の異なる森林と山稜、さらに遠くの雪山を配置してください。
-スケールの変化、遮蔽、色温度の変化、空気遠近法で距離を表現してください。
-遠くの物体を単に小さくするだけでは不十分です。
-
-すべての要素を均等に詰め込まないでください。主役と脇役、密度の変化、余白、明確な視線の焦点が必要です。
-
-【4. 造形と画面品質】
-
-桜の木：
-幹には曲がり、分岐、根元を作り、樹冠は不規則な花の塊で構成してください。
-隙間や厚みの変化、見える枝を設け、規則的な球体や立方体の塊をいくつか置いただけの形にはしないでください。
-
-建物：
-屋根には重なった瓦、せり出した軒、梁や柱、格子窓を作ってください。
-建物ごとに用途、規模、高さを変え、同じ家を複製して谷全体に並べないでください。
-
-地形：
-水際には濡れた石、草むら、植生への自然な遷移を設けてください。
-規則的すぎる段差、反復するストライプ、チェッカーボード模様、明らかなプロシージャル生成のグリッドは避けてください。
-
-水面：
-周囲の景物を映し、適度な波紋、深浅の変化、水際への自然なつながりを持たせてください。
-可能な限り実際のシーンを反射させ、パフォーマンスのために品質を下げる場合も、見た目の信頼感を保ってください。
-ちらつくノイズ、強すぎる歪み、一面の青い平面で水を表現しないでください。
-
-ディテール：
-錦鯉、花びら、ホタル、滝、遠くを飛ぶ鳥などを少量加えても構いません。
-ただし、すべて雰囲気を高めるために使い、画面を雑然とさせないでください。
-モデル数の多さをアピールするためだけにディテールを詰め込まないでください。
-
-【5. 色彩と雰囲気】
-
-デフォルトはブルーアワーにしてください。
-冷たさのある谷と遠山、柔らかなピンクの桜、暖かくても白飛びしない灯籠の明かりと窓明かりを表現してください。
-暖色の光は人の気配がある場所に集中させ、環境全体をオレンジ色に染めないでください。
-
-柔らかな影、物体の接地部に生じる明暗、適切な露出を設定してください。
-ブルームは控えめにし、アンチエイリアスと距離感のある薄い霧を加えてください。
-
-白っぽく色あせた見た目、灰色がかった画面、過度な彩度、画面を覆う濃霧、白飛びしたライト、目立つジャギーは避けてください。
-立方体のジオメトリはくっきり見せて構いませんが、レンダリング自体を粗雑にしないでください。
-
-「朝」と「雨」の2種類の雰囲気も用意してください。
-切り替え時には、空、環境光、霧、局所的なエフェクトも連動して変化させ、
-背景色だけを変更するものにはしないでください。
-
-【六、インタラクションとUI】
-
-設計されたカメラアングルを4つ用意してください。
-谷の全景、川辺のローアングル、寺院へ続く小径、山腹からの俯瞰。
-切り替えは滑らかにし、それぞれのアングルに独自の構図上の価値を持たせてください。
-
-基本操作：
-マウスのドラッグで視点を動かし、ホイールでズームまたは前進できるようにします。タッチ画面ではドラッグとピンチズームに対応してください。
-視点のリセット、UIの非表示、現在の画面の保存機能を用意してください。
-
-追加機能（任意）：
-自由探索、ゆっくりしたカメラツアー、環境音。
-環境音はデフォルトでオフにし、ユーザーが明示的にクリックした後だけ再生してください。
-追加機能によって、デフォルト画面の完成度を損なわないでください。
-
-UIは控えめで洗練されたデザインにし、景観を主役にしてください。
-タイトルとコントロールバーは画面の端に配置し、視覚的な焦点を遮らないようにしてください。
-デスクトップでもスマートフォンでも、ボタンが画面からはみ出したり、テキストが重なったり、操作できなくなったりしないようにしてください。
-
-【七、実装とパフォーマンス】
-
-Three.js / WebGL、およびバージョンを固定した互換性のあるCDN依存関係を使用して構いません。
-成熟したレンダリング機能を優先し、「依存関係ゼロ」にするためにエンジン全体を書き直さないでください。
-
-自作のHTML、CSS、JavaScriptは、できるだけ1つのHTMLファイルにまとめてください。
-景物はプロシージャルなジオメトリとマテリアルで生成し、外部の画像や3Dモデル素材に依存しないでください。
-
-繰り返し配置するオブジェクトには、適切なバッチ描画またはインスタンシング描画を使用し、
-サブディビジョン、シャドウ、反射、レンダリング解像度を適切に調整してください。
-高画質モードと軽量モードを用意し、スマートフォンではデフォルトで軽量設定を使用してください。
-ディテールを増やすために、ボクセル数を際限なく増やさないでください。
-
-読み込み中の表示、WebGL非対応時の案内、必要なエラーハンドリングを追加してください。
-サウンドが有効になっていない状態では自動再生せず、システムの「視差効果を減らす」などの設定を尊重してください。
-
-【八、納品前の検収】
-
-コードを書き終えたら、すぐに納品しないでください。
-
-現在の環境がブラウザでの実行とスクリーンショット撮影に対応している場合は、まず実際にページを開き、
-デフォルトのカメラ、4つの視点、雰囲気の切り替え、デスクトップとスマートフォンでのレイアウトを確認し、
-そのうえでスクリーンショットを見ながら、明らかな構図、露出、遮蔽、レンダリング上の問題を修正してください。
-
-重点的に確認する項目：
-画面が真っ白または真っ黒になっていないか、読み込みに失敗していないか、コンソールエラーがないか。
-メッシュの貫通、ちらつき、シャドウの縞模様、露出オーバー、水面の異常がないか。
-デフォルト画面が小さな箱庭ではなく、本当に完成した景観に見えるか。
-機能ボタンが実際に使えるか、モバイル画面からはみ出していないか。
-
-検収にはブラウザのスクリーンショットを使用して構いませんが、画像生成ツールは呼び出さないでください。
-完了していないテストについては正直に説明し、検証済みだと主張しないでください。
-
-最終納品物：
-1. 実際に存在し、開くことのできるHTMLファイル、または現在の環境で利用できるインタラクティブプレビュー。
-2. スクリーンショットを撮影できる場合は、実際のブラウザレンダリングによるスクリーンショットを1枚添付してください。
-3. 操作方法と必要な実行条件を簡潔に説明してください。
-
-制作はそのまま完了させてください。重要でない細部については、全体に一貫性のある設計判断を自分で行い、
-自力で解決できる実装上の問題を、何度も私に判断させないでください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565403109085669) · [元の投稿](https://x.com/dotey/status/2102565403109085669) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Hundenbergの事故モデルとリアルな動画
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenbergの事故モデルとリアルな動画"></a>
-
-**プロンプト**
-
-```text
-BlenderでHundenbergのモデルを作成し、事故のリアルな動画を作ってください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102547809140355250) · [元の投稿](https://x.com/aimanhasnoname/status/2102547809140355250) · [作例一覧に戻る](#all-prompts)
 
 ---
 

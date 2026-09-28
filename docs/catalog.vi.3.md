@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Cảnh phòng 3D tương tác với nội thất có cơ cấu chuyển động](#gpt-6-astra-2100139076816916977)
+- [Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo](#gpt-6-astra-2099850719839109597)
+- [Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận](#gpt-6-astra-2099785223827259515)
+- [Trái tim và emoji mặt cười phong cách Apple 3D](#gpt-6-astra-2099750376530657300)
+- [Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D](#gpt-6-astra-2099719427990134984)
+- [Đảo núi lửa tương tác với những chiếc thuyền tháo chạy](#gpt-6-astra-2099643231659012553)
+- [Tạo cảnh hành lang khách sạn](#gpt-6-astra-2099588840419651890)
+- [Chiến binh trèo lên người khổng lồ và giáng búa vào hàm](#gpt-6-astra-2099519801139908951)
 - [Thế giới 3D với những tòa nhà chọc trời cao vút](#gpt-6-astra-2099487024256589970)
 - [Mô hình cây lá kim dưới 200 polygon](#gpt-6-astra-2099472264270102705)
 - [Cảnh rừng Samurai 3D tương tác](#gpt-6-astra-2099450933067612421)
@@ -70,16 +78,454 @@
 - [Dựng cảnh hài hước mèo bị cánh tay robot đuổi bắt bằng GPT-6 Astra và Blender](#gpt-6-astra-2097675660873605422)
 - [Website cánh đồng lúa 3D sống động](#gpt-6-astra-2097602565110419781)
 - [Cảnh VHS Backrooms lấy cảm hứng từ Blender](#gpt-6-astra-2097534290112188602)
-- [Thế giới hồ đất ngập nước ấm cúng](#gpt-6-astra-2097343467026289039)
-- [Tái tạo game web 《Liên Minh Huyền Thoại》](#gpt-6-astra-2097336230078013598)
-- [Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh](#gpt-6-astra-2097323734504017936)
-- [Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại](#gpt-6-astra-2097320830602809682)
-- [Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu](#gpt-6-astra-2097313247116341424)
-- [Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI](#gpt-6-astra-2097167383576383502)
-- [Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản](#gpt-6-astra-2097153139795468365)
-- [Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot](#gpt-6-astra-2097123382852829230)
 
 </details>
+<a id="gpt-6-astra-2100139076816916977"></a>
+
+### Cảnh phòng 3D tương tác với nội thất có cơ cấu chuyển động
+
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="Cảnh phòng 3D tương tác với nội thất có cơ cấu chuyển động"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
+
+**Prompt**
+
+```text
+Dựa trên ảnh phòng tôi đã cung cấp, hãy sử dụng Blender MCP để dựng một cảnh 3D tương tác và kết xuất thành video demo. Bao gồm chuyển động của các bộ phận có khớp (bản lề, cửa, ngăn kéo) và sử dụng các chuyển động camera hợp lý để thể hiện rõ những hiệu ứng này.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100139076816916977) · [Bài đăng gốc](https://x.com/walterzhu8/status/2100139076816916977) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099850719839109597"></a>
+
+### Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="Tạo không gian 3D có thể điều khiển và nhân vật game từ ảnh tham khảo"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
+
+**Prompt**
+
+```text
+【Chuẩn bị trước】
+・Ảnh tham khảo về thế giới bạn muốn tạo (ngoại thất, phòng ốc, v.v.)
+・Ảnh chuẩn của nhân vật (chẳng hạn như bản vẽ ba góc)
+　※Không có ảnh thì không thể tái hiện. Hãy đính kèm ảnh nhé
+
+【Prompt】
+Dựa trên các ảnh đã đính kèm, hãy thiết kế thế giới của tôi và nhân vật game thành một không gian 3D có thể điều khiển, với chất lượng chuyên nghiệp.
+
+① Xem các ảnh đính kèm để kiểm tra hình dạng, màu sắc và họa tiết của ngôi nhà và nhân vật
+　↓
+② Dùng Tripo để tạo mô hình 3D từ ảnh (ba ảnh toàn thân gồm mặt trước, mặt sau và mặt bên, với cùng một tỷ lệ khung hình)
+　↓
+③ Nhập vào Blender, điều chỉnh vị trí và kích thước các bộ phận
+　↓
+④ Thiết lập rig tự động, rồi thêm các chuyển động phù hợp với cá tính của nhân vật như đi bộ, đung đưa, v.v.
+　↓
+⑤ Nếu có điểm cần quyết định (chẳng hạn như sử dụng asset trả phí), hãy hỏi ý kiến tôi trước khi tiếp tục
+　↓
+⑥ Ghi chép nội dung công việc, các điểm bị vướng và vị trí tài nguyên ở mức chi tiết để một AI khác cũng có thể đọc và tái hiện quy trình
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+【先に用意するもの】
+・作りたい世界観の参考画像（外観・部屋など）
+・キャラクターの正典画像（三面図など）
+　※画像がないと再現できません。添付してねん
+
+【プロンプト】
+添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
+
+① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
+　↓
+② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
+　↓
+③ Blenderに読み込みパーツの配置・サイズを調整する
+　↓
+④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
+　↓
+⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
+　↓
+⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099850719839109597) · [Bài đăng gốc](https://x.com/aiehon_aya/status/2099850721646784894) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099785223827259515"></a>
+
+### Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="Game khám phá không gian tạo sinh với mọi điểm đến đều có thể tiếp cận"></a>
+
+**Prompt**
+
+```text
+Mọi thứ tôi nhìn thấy đều phải có thể đi tới. Hãy giữ khoảng cách theo quy mô thực, sau đó khiến việc di chuyển trở nên khả thi nhờ quy mô và tốc độ. Tôi muốn bay từ ngoài không gian, xuyên vào khí quyển của một hành tinh rồi xuống mặt đất. Các hành tinh có thể lớn ngang Trái Đất, vì vậy chúng ta sẽ cần địa hình tạo sinh và trình kết xuất theo chunk.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099785223827259515) · [Bài đăng gốc](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099750376530657300"></a>
+
+### Trái tim và emoji mặt cười phong cách Apple 3D
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Trái tim và emoji mặt cười phong cách Apple 3D"></a>
+
+**Prompt**
+
+```text
+Emoji trái tim và emoji mặt cười phong cách Apple 3D
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+3D Apple style heart emoji and smiling emoji
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099750376530657300) · [Bài đăng gốc](https://x.com/Just_sharon7/status/2099751278234767673) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099719427990134984"></a>
+
+### Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="Bảng điều khiển hệ thần kinh tương tác của sinh vật 3D"></a>
+
+**Prompt**
+
+```text
+Bảng điều khiển tương tác. Bên trái: sơ đồ hệ thần kinh của [organism], gồm các vùng có thể nhấp. Bên phải: sinh vật 3D [organism] được rigging procedural. Nhấp vào một vùng sẽ kích hoạt phản ứng vận động kéo dài 2,5 giây. Giao diện tối, hiển thị dữ liệu telemetry về tốc độ và hướng di chuyển.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099719427990134984) · [Bài đăng gốc](https://x.com/AIMind_Ai/status/2099719427990134984) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099643231659012553"></a>
+
+### Đảo núi lửa tương tác với những chiếc thuyền tháo chạy
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="Đảo núi lửa tương tác với những chiếc thuyền tháo chạy"></a>
+
+**Prompt**
+
+```text
+xây dựng một hòn đảo núi lửa tương tác với dòng dung nham chảy và những chiếc thuyền tháo chạy.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build an interactive volcanic island with flowing lava and boats that flee.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099643231659012553) · [Bài đăng gốc](https://x.com/WescheNex1q/status/2099643231659012553) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099588840419651890"></a>
+
+### Tạo cảnh hành lang khách sạn
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="Tạo cảnh hành lang khách sạn"></a>
+
+**Prompt**
+
+```text
+tạo cảnh hành lang khách sạn
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+create hotel corridor scene
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099588840419651890) · [Bài đăng gốc](https://x.com/MyWestLord/status/2099588840419651890) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099519801139908951"></a>
+
+### Chiến binh trèo lên người khổng lồ và giáng búa vào hàm
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="Chiến binh trèo lên người khổng lồ và giáng búa vào hàm"></a>
+
+**Prompt**
+
+```text
+DANH MỤC NHÂN VẬT:
+Chính xác một chiến binh miền núi nam trưởng thành.
+Anh có thân hình chắc gọn, vai rộng và cực kỳ mạnh mẽ. Anh mặc một bộ giáp tấm fantasy trung cổ màu kim loại súng tối nguyên bản: mũ trùm kín có chóp nhọn, giáp vai nhiều lớp, giáp tay khớp nối, găng tay giáp nặng, giáp ngực gia cố, các mảng thắt lưng bằng da, quần tối màu, ủng giáp thép và bốt giáp nặng. Bộ giáp bị phong hóa, trầy xước và ướt sũng vì bão.
+Anh mang chính xác một chiếc búa chiến khổng lồ dùng bằng hai tay. Búa có một cán kim loại tối màu dài được gia cố và một đầu búa hình chữ nhật nặng, đối xứng. Vũ khí giữ nguyên chiều dài, hình dạng và trọng lượng trong suốt cảnh. Anh điều khiển búa bằng cả hai tay khi nhảy, trèo và tấn công.
+Chính xác một người khổng lồ hình người hữu cơ khổng lồ, cao hơn chiến binh trên ba mươi lần. Hắn có đôi vai cơ bắp đồ sộ, hai cánh tay cực dài, đôi bàn tay khổng lồ giống tay người, làn da xám than thô ráp với lỗ chân lông và sẹo rõ ràng, trán nặng, mũi rộng, quai hàm mạnh mẽ và mái tóc đen dài rối tung. Đây là một titan hữu cơ còn sống—không phải tượng, robot, máy móc hay golem đá.
+Không có chiến binh, người khổng lồ hoặc đội quân nào khác ở hậu cảnh.
+MÔI TRƯỜNG:
+Một chiến trường cao nguyên lộng gió dưới cơn giông xanh xám dữ dội. Mặt đất gồ ghề phủ đầy đất tối ẩm, cỏ bị giẫm rạp và hàng nghìn bông hoa nhỏ màu nhạt. Gió mạnh uốn cong cỏ và hoa thành những làn sóng không đều.
+Một pháo đài trung cổ đổ nát nằm trên ngọn đồi xa ở phía trái khung hình. Những tòa tháp vỡ vẫn hiện rõ qua lớp sương mù trôi thấp. Chớp thỉnh thoảng soi sáng pháo đài và các đám mây bão.
+Người khổng lồ chiếm phía phải khung hình của chiến trường. Chiến binh bắt đầu ở trung tâm tiền cảnh, chạy về phía người khổng lồ. Giữ nguyên vị trí địa lý và hướng màn hình này trong mọi lần cắt cảnh.
+DIỄN BIẾN HÀNH ĐỘNG VÀ MÁY QUAY THEO TRÌNH TỰ THỜI GIAN:
+0.00–3.30 — LAO VỀ PHÍA NGƯỜI KHỔNG LỒ
+Mở cảnh ngay bằng một cú máy bám đuôi thấp, áp sát phía sau chiến binh mặc giáp khi anh mạnh mẽ chạy qua cánh đồng ướt về phía người khổng lồ khổng lồ.
+Anh cầm búa chiến nằm ngang trước người bằng cả hai tay. Đầu búa nặng luôn hướng về phía phải khung hình, trong khi phần cán dưới kéo dài về phía trái. Bốt của anh nén mặt đất ướt sau mỗi bước, chỉ hất đất, hoa bị nghiền nát và giọt nước ra phía sau sau khi có tiếp xúc vật lý.
+Chân và bàn tay phải khổng lồ của người khổng lồ tiến vào từ phía trên bên phải khung hình. Người khổng lồ cúi xuống và đưa bàn tay mở về phía chiến binh đang lao tới, định hốt anh khỏi mặt đất.
+Các ngón tay chuyển động độc lập với khớp nối và trọng lượng hợp lý. Người khổng lồ không lập tức chộp lấy hoặc dịch chuyển tức thời chiến binh.
+Chuyển động máy quay vẫn thấp, nhanh và mượt, nhấn mạnh chênh lệch kích thước cực lớn. Pháo đài đổ nát vẫn hiện rõ trên đường chân trời xa ở phía trái khung hình.
+3.30–5.80 — NHẢY LÊN BÀN TAY NGƯỜI KHỔNG LỒ
+Khi bàn tay mở của người khổng lồ quét thấp ngang đường chạy, chiến binh đạp mạnh bốt phải xuống đất. Đầu gối khuỵu xuống, hông hạ thấp và chân sau đẩy người bật lên.
+Anh thực hiện một cú nhảy mạnh về phía trước.
+Dùng chuyển động chậm điện ảnh có kiểm soát khi anh bay lên phía trước những ngón tay tách rời của người khổng lồ. Hai chân hơi co bên dưới, trong khi cả hai tay nâng cùng chiếc búa chiến lên trên vai để giữ thăng bằng.
+Chiến binh tiếp đất bằng cả hai bốt trên mặt sau của ngón giữa và ngón áp út của người khổng lồ. Thể hiện rõ tiếp xúc vật lý: bốt chạm da, đầu gối hấp thụ lực, thịt của người khổng lồ hơi lõm xuống và bộ giáp của chiến binh phản ứng với cú đáp.
+Người khổng lồ bắt đầu nâng bàn tay về phía mặt. Chiến binh không lơ lửng hay treo giữa không trung.
+Dùng một cú cẩu máy quay góc thấp đầy kịch tính, di chuyển lên phía dưới chiến binh, với bàn tay khổng lồ lấp đầy hậu cảnh.
+5.80–9.00 — CHẠY LÊN CÁNH TAY
+Trở lại nhịp hành động tự nhiên, nhanh.
+Khi người khổng lồ nâng cánh tay, chiến binh chạy từ các ngón tay băng qua mu bàn tay rồi lên cổ tay. Bước chân luân phiên chính xác và nhìn thấy rõ, bám vào bề mặt chuyển động gồ ghề.
+Người khổng lồ xoay cổ tay, cố hất anh ra. Chiến binh hạ thấp trọng tâm, dang rộng thế đứng và giữ búa sát thân cho đến khi cánh tay ổn định.
+Sau đó anh tăng tốc dọc theo cẳng tay người khổng lồ về phía khuỷu. Mỗi bước bám theo góc thay đổi của cánh tay; bốt không trượt xuyên qua da.
+Máy quay bám theo bên cạnh và hơi thấp hơn anh, nâng dần theo chiều dài cánh tay người khổng lồ. Những phần cánh tay ở gần lướt nhanh qua tiền cảnh, trong khi đầu người khổng lồ và pháo đài xa chuyển động chậm hơn, tạo hiệu ứng thị sai và cảm giác về quy mô mạnh mẽ.
+9.00–12.00 — TRÈO LÊN VAI
+Chiến binh tới phần bắp tay khi cánh tay vươn dốc lên vai người khổng lồ.
+Anh móc một cẳng tay và cán búa chiến vào một gờ cơ tự nhiên để lấy đòn bẩy, đặt bốt phải xuống, dồn lực qua chân rồi tự kéo người lên vai trong một động tác trèo liền mạch.
+Người khổng lồ quay đầu về phía anh. Mắt hắn dõi theo chiến binh, lông mày siết lại và hàm há ra trong một tiếng gầm sâu không lời. Tóc và da chuyển động theo vòng xoay của đầu.
+Chiến binh vẫn bám trên vai nhờ tiếp xúc thật giữa tay và bốt. Anh trèo chéo qua phần vai trên về phía gốc cổ người khổng lồ.
+Dùng một cú máy bám ngang cận cảnh, giữ trọn chiến binh, búa chiến và góc nghiêng khuôn mặt người khổng lồ dễ nhận diện trong cùng một khung hình.
+12.00–15.00 — GIÁNG BÚA TOÀN LỰC VÀO HÀM
+Chiến binh tới một vị trí vững trên bờ vai dốc của người khổng lồ, gần cổ.
+Anh đặt bốt trái về phía trước và chống bốt phải phía sau. Cả hai bàn chân nhìn rõ đang ép vào da người khổng lồ. Anh xoay hông ra xa mục tiêu và kéo búa chiến về sau bằng cả hai tay.
+Thể hiện đầy đủ quá trình chuẩn bị trước va chạm:
+đặt chân → đầu gối khuỵu → dồn lực vào hông → xoay thân → vai kéo búa về sau → cánh tay đưa đầu búa nặng vào vị trí bắt đầu.
+Ở giây 13.00, chiến binh tung một cú vung ngang hoàn chỉnh bằng hai tay về phía hàm người khổng lồ.
+Lực truyền liên tục từ chân qua hông, thân, vai rồi cánh tay. Đầu búa đi theo một cung vung rõ ràng, không gián đoạn. Nó không nhảy vị trí hoặc chạm vào mặt trước khi cú vung hoàn tất.
+Ở giây 14.00, chuyển sang chuyển động siêu chậm rõ rệt cho khoảnh khắc va chạm quyết định.
+Mặt đánh rộng của đầu búa hình chữ nhật giáng vào bên hàm dưới của người khổng lồ—không phải cán hay tay cầm. Thể hiện da và mô má bị ép quanh điểm va chạm, hàm người khổng lồ lệch sang bên, tóc rời tung ra ngoài và một luồng tỏa tròn gồm mưa, bụi cùng mảnh da bắn ra.
+Cánh tay chiến binh chống lại lực giảm tốc đột ngột. Vai anh giật lùi trong khi cơ thể tiếp tục theo đà kết thúc cú vung có kiểm soát.
+Không có máu, mô lộ ra, cảnh bạo lực đẫm máu hoặc chặt lìa cơ thể.
+15.00–17.30 — NGƯỜI KHỔNG LỒ LẢO ĐẢO VÀ CHIẾN BINH NGÃ
+Lập tức trở về tốc độ tự nhiên.
+Đầu người khổng lồ giật sang một bên do va chạm. Thân trên hắn giật lùi và vai bị đánh rơi mạnh xuống. Chuyển động đột ngột này làm chiến binh mất điểm tựa và hất anh văng khỏi người khổng lồ.
+Chiến binh ngã về phía chiến trường nhưng vẫn giữ nguyên chiếc búa chiến bằng cả hai tay. Anh không lơ lửng hoặc thực hiện thêm một cú nhảy.
+Cắt sang góc nhìn ngang ở tầm mặt đất. Bốt chạm đất trước, đầu gối khuỵu xuống theo quán tính và anh lăn một vòng qua một bên vai. Đầu búa đập xuống đất bên cạnh rồi cày thành một rãnh nông, hất đất ướt và hoa nhạt ra ngoài.
+Khuôn mặt khổng lồ của người khổng lồ hạ xuống phần trên bên phải khung hình khi hắn cố lấy lại thăng bằng. Hắn không nghiền nát hoặc giao cắt với chiến binh.
+17.30–20.00 — HỒI PHỤC VÀ ĐỐI ĐẦU LẦN CUỐI
+Chiến binh dừng cú lăn ở tư thế quỳ thấp.
+Anh cắm đầu búa vào đất, nắm cán bằng cả hai tay và dùng nó làm điểm tựa để từ từ đứng lên một gối. Sau đó anh rút búa ra và đưa cán nằm ngang qua vai trong tư thế phòng thủ sẵn sàng.
+Người khổng lồ hạ cái đầu khổng lồ về phía anh, hàm hiện rõ vết bầm do cú đánh nhưng vẫn tỉnh táo và đầy đe dọa. Hơi thở của hắn làm cỏ, hoa, sương mù và các mảng da lỏng trên giáp chiến binh lay động.
+Chiến binh chỉ đứng yên trong một nhịp quyết tâm ngắn ngủi, trong khi hơi thở và bộ giáp vẫn giữ chuyển động tự nhiên tinh tế.
+Một tia sét soi sáng pháo đài đổ nát ở phía trái khung hình, viền sáng cả hai nhân vật và khẳng định chênh lệch kích thước khổng lồ giữa họ.
+Kết thúc chính xác ở giây 20.00 bằng bố cục rộng góc thấp: chiến binh quỳ trong tiền cảnh phủ đầy hoa, sẵn sàng với búa chiến; khuôn mặt người khổng lồ lơ lửng phía trên anh và pháo đài xa hiện ra qua cơn bão.
+Không chuyển dần sang màn hình đen. Không khung hình đóng băng, tiêu đề hoặc thẻ kết thúc.
+KHÓA VẬT LÝ HÀNH ĐỘNG:
+Mọi hành động phải tuân theo quan hệ nhân quả vật lý có thể quan sát rõ:
+Chạy: bàn chân chạm đất → chuyển trọng lượng → chân sau đẩy → bước tiếp theo.
+Nhảy: chân trụ → đầu gối nén xuống → duỗi chân → quỹ đạo trên không → tiếp xúc khi tiếp đất → đầu gối hấp thụ lực.
+Trèo: tay hoặc vũ khí làm điểm tựa → bốt trụ → chuyển trọng lượng cơ thể → kéo người lên.
+Đánh búa: chân vững → dồn lực vào hông → xoay thân → đẩy bằng vai → đường đi liên tục của búa → mặt búa rộng tiếp xúc → chống lực → kết thúc cú vung.
+Ngã: mất điểm tựa do người khổng lồ giật lùi → hạ xuống do trọng lực → bốt chạm đất → đầu gối khuỵu → lăn qua vai → hồi phục.
+Chiến binh không bao giờ dịch chuyển tức thời giữa mặt đất, bàn tay, cánh tay hoặc vai. Người khổng lồ không bao giờ di chuyển chiến binh nếu không có tiếp xúc vật lý trực tiếp hoặc lực tác động nhìn thấy rõ.
+QUY TẮC TỐC ĐỘ CHUYỂN ĐỘNG:
+0.00–3.30: tốc độ chạy nhanh tự nhiên.
+3.30–5.80: chuyển động chậm điện ảnh có kiểm soát cho cú nhảy và tiếp đất.
+5.80–13.90: hành động nhanh tự nhiên.
+13.90–15.00: chỉ dùng chuyển động siêu chậm rõ rệt cho pha tiếp cận cuối, va chạm và biến dạng tức thời của búa.
+15.00–20.00: trở lại rõ ràng với tốc độ tự nhiên.
+Không áp dụng chuyển động chậm cho toàn cảnh. Không để nhân vật chuyển động chậm lơ lửng.
+ÁNH SÁNG VÀ MÀU SẮC:
+Duy trì tông bão xanh thép lạnh, xám than và bạc khử bão hòa. Chớp tạo ánh sáng định hướng trắng lạnh trong thời gian ngắn. Giáp ướt nhận các điểm sáng bạc hẹp, trong khi làn da tối của người khổng lồ vẫn có chi tiết và dễ đọc.
+Những bông hoa nhạt tạo độ tương phản ngà ấm vừa phải mà không khiến cảnh trở nên sặc sỡ. Giữ lớp sương mù khí quyển dày quanh pháo đài xa. Thay đổi phơi sáng do chớp phải ngắn và không được xóa cấu trúc cơ thể nhân vật hoặc che giấu hành động bị thiếu.
+ÂM THANH:
+Chỉ sử dụng hiệu ứng âm thanh môi trường và hành động đồng bộ, có nguồn phát trong cảnh. Tuyệt đối không có nhạc nền hoặc nhạc phim.
+Bao gồm tiếng gió bão, sấm ở xa, chuyển động của giáp, tiếng bước chân nặng, đất bị xới, cỏ lay, tiếng thở và tiếng gầm không lời của người khổng lồ, tiếng bàn tay quét trong không khí, cú nhảy của chiến binh, bốt chạm da, tiếng va chạm khi trèo, chuyển động của búa chiến, một tiếng va chạm kim loại trầm của búa, cú giật lùi của người khổng lồ, tiếng không khí khi rơi, giáp đập xuống đất, đầu búa chạm mặt đất và tiếng sét nổ gần ở cuối cảnh.
+Không có hội thoại, lời thuyết minh, lời nói, tiếng tụng, ca từ hoặc ngôn ngữ có thể hiểu được.
+TÍNH LIÊN TỤC VÀ NGĂN LỖI:
+Chính xác một chiến binh, một người khổng lồ và một búa chiến trong suốt cảnh.
+Chiến binh chỉ trèo lên người khổng lồ một lần và thực hiện chính xác một cú giáng búa quyết định.
+Búa chiến không bao giờ nhân bản, thay đổi kích thước, lơ lửng, cong, xuyên qua cơ thể nào hoặc đổi tay mà không có chuyển động nhìn thấy rõ.
+Người khổng lồ vẫn là cùng một sinh vật hình người hữu cơ trong mọi cảnh quay. Không có đặc điểm robot, biến đổi thành đá, bàn tay nhân đôi, ngón tay thừa hoặc khuôn mặt thay đổi.
+Giữ nguyên bộ giáp, mũ, tỷ lệ cơ thể và hư hại của chiến binh trong suốt cảnh.
+Giữ nguyên tuyến đường từ bàn tay phải đến cánh tay phải rồi vai phải của người khổng lồ để địa lý trèo vẫn khả thi về mặt vật lý.
+Không có bàn tay dính liền, chi thừa, khớp đảo ngược, bốt trượt, cơ thể giao cắt, dịch chuyển tức thời hoặc lơ lửng không có điểm tựa.
+Đầu búa rộng—không phải cán—phải nhìn thấy rõ đang chạm vào hàm người khổng lồ sau khi cú vung hoàn tất.
+Không có máu, cảnh bạo lực đẫm máu, mô lộ ra, cơ thể người bị nghiền nát hoặc chặt lìa.
+Không có vẻ ngoài live-action, nhân vật nhượng quyền dễ nhận diện, phụ đề, chú thích, logo, giao diện người dùng, lớp phủ phát video, dải đen cố định hoặc watermark.
+Mọi nhạc nền hoặc nhạc phim đều khiến lần tạo bị xem là thất bại.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+CHARACTER REGISTRY:
+Exactly one adult male mountain warrior.
+He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
+He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
+Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
+No additional warriors, giants or background armies.
+ENVIRONMENT:
+A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
+A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
+The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
+CHRONOLOGICAL ACTION AND CAMERA:
+0.00–3.30 — CHARGE TOWARD THE GIANT
+Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
+He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
+The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
+The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
+Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
+3.30–5.80 — LEAP ONTO THE GIANT’S HAND
+As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
+He performs one powerful forward jump.
+Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
+The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
+The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
+Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
+5.80–9.00 — RUNNING UP THE ARM
+Return to fast natural action.
+As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
+The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
+He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
+Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
+9.00–12.00 — CLIMB TO THE SHOULDER
+The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
+He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
+The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
+The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
+Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
+12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
+The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
+He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
+Show the complete preparation before impact:
+feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
+At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
+The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
+At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
+The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
+The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
+No blood, exposed tissue, gore or dismemberment.
+15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
+Return immediately to natural speed.
+The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
+The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
+Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
+The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
+17.30–20.00 — RECOVERY AND FINAL STANDOFF
+The warrior stops his roll in a low kneeling position.
+He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
+The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
+The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
+A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
+End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
+Do not fade to black. No freeze frame, title or end card.
+ACTION-PHYSICS LOCK:
+Every action must follow readable physical causality:
+Running: foot contact → weight transfer → rear-leg push → next step.
+Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
+Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
+Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
+Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
+The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
+MOTION-SPEED RULES:
+0.00–3.30: fast natural running speed.
+3.30–5.80: controlled cinematic slow motion for the jump and landing.
+5.80–13.90: natural fast action.
+13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
+15.00–20.00: clear return to natural speed.
+Do not apply global slow motion. Do not allow slow-motion characters to hover.
+LIGHTING AND COLOR:
+Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
+The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
+AUDIO:
+Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
+Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
+No dialogue, narration, spoken words, chants, lyrics or intelligible language.
+CONTINUITY AND FAILURE PREVENTION:
+Exactly one warrior, one giant and one warhammer throughout.
+The warrior climbs the giant once and performs exactly one decisive hammer strike.
+The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
+The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
+Preserve the warrior’s armor, helmet, proportions and damage throughout.
+Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
+No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
+The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
+No blood, gore, exposed tissue, crushed human body or dismemberment.
+No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
+Any background music or musical score is a failed generation.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099519801139908951) · [Bài đăng gốc](https://x.com/MadMax_Series/status/2099519801139908951) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099487024256589970"></a>
 
 ### Thế giới 3D với những tòa nhà chọc trời cao vút
@@ -3481,292 +3927,6 @@ Render a scene in Blender that looks like a first person VHS tape recording of s
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097534290112188602) · [Bài đăng gốc](https://x.com/chrisfirst/status/2097534290112188602) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097343467026289039"></a>
-
-### Thế giới hồ đất ngập nước ấm cúng
-
-[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="Thế giới hồ đất ngập nước ấm cúng"></a>
-
-**Prompt**
-
-```text
-Tạo một hồ nước ấm cúng với nhà gỗ của ngư dân bên bờ đầm lầy. Đặt một hòn đảo nhỏ giữa hồ, trên đó có một ngôi nhà bỏ hoang ẩn giữa những tán cây. Thêm một chiếc thuyền đánh cá bên cạnh nhà, bèo tây, lau sậy, cá đang nhảy, các loài động vật hoang dã tiêu biểu của vùng đất ngập nước, một bãi biển nhỏ, một lối đi dẫn đến bãi biển và căn nhà, một lối khác quay vào rừng, cùng hàng cây bao quanh toàn bộ cảnh.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097343467026289039) · [Bài đăng gốc](https://x.com/givros/status/2097343467026289039) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097336230078013598"></a>
-
-### Tái tạo game web 《Liên Minh Huyền Thoại》
-
-[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Tái tạo game web 《Liên Minh Huyền Thoại》"></a>
-
-**Prompt**
-
-```text
-Tạo một game giống hệt 《Liên Minh Huyền Thoại》. Game cần có đầy đủ nội dung của Liên Minh Huyền Thoại, cùng bản đồ và chất lượng hình ảnh tương đương, bao gồm tướng, lính, trụ và các thành phần khác. Khi bắt đầu, chọn 5 tướng.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097336230078013598) · [Bài đăng gốc](https://x.com/liyue_ai/status/2097336230078013598) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097323734504017936"></a>
-
-### Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh
-
-[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="Dự án WebGL TypeScript + Three.js mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh"></a>
-
-**Prompt**
-
-```text
-Hãy dùng TypeScript + Three.js để tạo một dự án WebGL hoàn chỉnh, có thể chạy ngay, mô phỏng Điện Kỳ Niên ở Thiên Đàn Bắc Kinh. Toàn bộ hình học kiến trúc, kết cấu bề mặt và animation phải được tạo thủ tục bằng code trong thời gian chạy; không được tải các mô hình bên ngoài như .glb, .gltf, .obj, .fbx.
-
-Tái hiện kiến trúc:
-mái vòm ba tầng với kích thước và độ cao khác nhau, lợp ngói lưu ly xanh lam; đỉnh mái mạ vàng, cột đỏ, thân điện hình tròn, hoa văn sơn xanh lam, xanh lục và vàng, đấu củng, cửa ra vào và cửa sổ.
-Sử dụng biên dạng cong, hình tròn xoay hoặc hình học tùy chỉnh cho mái, thể hiện phần hiên mái mềm mại, hơi hất lên; không được thay thế bằng hình nón đơn giản.
-Đài nền tròn ba tầng bằng đá cẩm thạch trắng, có cầu thang đá ở trung tâm, lan can và trụ; tổng thể cần cân đối về tỷ lệ, các lớp rõ ràng.
-Tạo thủ tục kết cấu ngói và các chi tiết trang trí; ưu tiên InstancedMesh cho những cấu kiện lặp lại.
-
-Bối cảnh và tương tác:
-bầu trời xanh Bắc Kinh, nền quảng trường và một ít cây xanh; sử dụng DirectionalLight kết hợp với AmbientLight／HemisphereLight, bật đổ bóng, ambient occlusion và tone mapping điện ảnh ở mức vừa phải.
-Hỗ trợ OrbitControls để xoay, phóng to, thu nhỏ, cùng chế độ trình diễn tự động xoay quanh chậm có thể bật hoặc tắt.
-Dùng nút để chuyển giữa “bung tách／lắp ráp”: mái, cột, đấu củng, tường, cửa ra vào, cửa sổ, lan can và đài nền lần lượt tách ra mượt mà theo từng lớp, sau đó trở về chính xác vị trí ban đầu. Animation phải do code điều khiển, có nhịp lệch pha giữa các bộ phận và tránh dịch chuyển tức thời.
-
-Bàn giao trực tiếp toàn bộ dự án kèm hướng dẫn khởi chạy. Trang web cần responsive theo kích thước cửa sổ, có chất lượng hình ảnh cao và tương tác mượt mà; đồng thời, nhờ instancing, mức độ chi tiết hình học hợp lý và tối ưu hóa kết xuất, vẫn đảm bảo hiệu năng trên các trình duyệt máy tính để bàn phổ biến. Code cần được tổ chức thành các module rõ ràng để dễ mở rộng; hãy kiểm tra quá trình build và các chức năng chính, đồng thời nêu trung thực những hạng mục chưa được kiểm tra.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
-
-建筑还原：
-三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
-屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
-白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
-程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
-
-场景与交互：
-北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
-支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
-按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
-
-直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097323734504017936) · [Bài đăng gốc](https://x.com/goan999999/status/2097323734504017936) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097320830602809682"></a>
-
-### Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại
-
-[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Tái tạo một game 3D mini kiểu Liên Minh Huyền Thoại"></a>
-
-**Prompt**
-
-```text
-Bước 1: Làm một game giống hệt Liên Minh Huyền Thoại. LOL có gì thì game phải có nấy: cùng một bản đồ, chất lượng đồ họa tương đương, tướng, lính, trụ, v.v. Bắt đầu với 5 tướng. 
-
-Bước 2: PUA (mắng ngược lại) Astra: Đây không phải League, mà là hàng nhái giá rẻ. Hãy lập kế hoạch trước, sau đó triển khai chính xác theo kích thước và cơ chế thực tế; không được chồng UI HTML lên trên, UI phải là giao diện gốc, đẹp mắt và giống một game thực thụ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
-
-第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097320830602809682) · [Bài đăng gốc](https://x.com/LufzzLiz/status/2097320830602809682) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097313247116341424"></a>
-
-### Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu
-
-[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="Cải thiện đường nét khuôn mặt của mô hình 3D trong Blender bằng hình ảnh tham chiếu"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
-
-**Prompt**
-
-```text
-sử dụng hình ảnh đầu tiên làm tham chiếu và cải thiện đường nét khuôn mặt trong hình ảnh thứ hai.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097313247116341424) · [Bài đăng gốc](https://x.com/carlos_olivera/status/2097313247116341424) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097167383576383502"></a>
-
-### Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="Địa hình làng quê lấy cảm hứng từ Skyrim từ ảnh tham chiếu được tạo bằng AI"></a>
-
-**Prompt**
-
-```text
-Sử dụng img2threejs/img2threejs để tạo địa hình làng quê 3D mang phong cách như trong Skyrim. Tự tạo ảnh tham chiếu.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097167383576383502) · [Bài đăng gốc](https://x.com/TaroKichijo/status/2097167383576383502) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097153139795468365"></a>
-
-### Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="Hoạt ảnh tách lớp cửa hàng hoa Nhật Bản"></a>
-
-**Prompt**
-
-```text
-Dùng Blender MCP để dựng một cảnh cửa hàng hoa Nhật Bản nhỏ, cách điệu. Tập trung tái hiện trung thực các yếu tố hình ảnh chính: mái hiên màu xanh, biển hiệu trên mái có dòng chữ tiếng Nhật “花屋”, các chậu hoa và cây cảnh được sắp trước cửa hàng, máy bán hàng tự động, xe đạp, đèn giao thông, cột điện, cây cối xung quanh và những chi tiết đường phố dễ nhận biết khác. Kết xuất cảnh theo phong cách hoạt hình ấm áp, đáng yêu, với ánh sáng dịu, vật liệu bắt mắt và bầu không khí thân thiện.
-
-Tạo một hoạt ảnh tách lớp có tác động thị giác mạnh và giàu chuyển động cho toàn bộ cảnh cửa hàng hoa. Hiệu ứng tách lớp cần rõ ràng, phóng đại thay vì tinh tế. Tách riêng từng thành phần ra phía ngoài một cách mượt mà, có hệ thống để làm nổi bật cấu trúc và phần bên trong của cửa hàng hoa.
-
-Trong quá trình tách lớp, cho các bức tường bên ngoài, cây cối xung quanh, cột điện, biển hiệu, mái hiên, xe đạp, chậu hoa, cây cảnh, đạo cụ đường phố và các yếu tố môi trường khác bay ra phía ngoài hoặc lùi về phía sau, tạo đủ khoảng trống để người xem nhìn rõ bên trong cửa hàng hoa. Chia tòa nhà thành các lớp kết cấu có ý nghĩa để kiến trúc nội thất, đồ nội thất, vật trang trí, hoa, cây cảnh, kệ và các chi tiết nhỏ hơn hiện rõ.
-
-Máy bán hàng tự động cũng cần tách thành các bộ phận riêng. Các tấm vỏ bên ngoài phải tách ra, còn từng chai và lon nước ngọt bên trong bay ra linh hoạt, giãn thành một đội hình có trật tự để vẫn dễ nhận biết. Các bộ phận và chi tiết nhỏ có thể di chuyển xa hơn nhằm tăng sức hấp dẫn thị giác cho phân đoạn.
-
-Sử dụng thời điểm xuất hiện lệch nhau, tốc độ chuyển động khác nhau, chuyển động xoay, chiều sâu và các quỹ đạo phân lớp để tạo cảm giác năng lượng và lực tác động mạnh, đồng thời giữ mọi thành phần gọn gàng, dễ theo dõi. Tránh để tất cả cùng di chuyển ra ngoài chính xác cùng lúc hoặc cùng tốc độ.
-
-Khi toàn bộ cảnh đã tách hoàn toàn, giữ bố cục trong giây lát để người xem quan sát rõ cấu trúc bên trong và tất cả các thành phần đã tách rời.
-
-Sau đó đảo ngược trình tự: các chai nước ngọt, bộ phận của máy bán hàng tự động, cây cảnh, đạo cụ, đồ vật nội thất, tường, cây cối, cột điện, biển hiệu, xe đạp và mọi thành phần khác bay mượt mà trở về vị trí, lắp ráp lại thành cảnh cửa hàng hoa hoàn chỉnh.
-
-Toàn bộ hoạt ảnh cần có cảm giác giàu năng lượng, điện ảnh, thỏa mãn và tạo ấn tượng thị giác mạnh, với chuyển động rõ ràng và sự chuyển đổi dễ nhận biết giữa cảnh hoàn chỉnh, trạng thái tách lớp hoàn toàn và cảnh được lắp ráp lại ở cuối. Duy trì chuyển động có lớp lang, dễ theo dõi và được dàn dựng cẩn thận trong suốt hoạt ảnh.
-
-Sử dụng nền studio trung tính trong phân đoạn tách lớp để các vật thể đã tách rời và cấu trúc bên trong luôn hiện rõ.
-
-Sản phẩm bàn giao cuối cùng:
-Một hoạt ảnh được kết xuất hoàn chỉnh và một tệp dự án Blender 3D có thể chỉnh sửa. Tất cả vật thể, bộ phận, collection, vật liệu và các thành phần chính của cảnh phải được đặt tên, sắp xếp rõ ràng, nhất quán và chuyên nghiệp.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
-
-Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
-
-During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
-
-The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
-
-Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
-
-Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
-
-Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
-
-The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
-
-Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
-
-Final deliverables:
-A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097153139795468365) · [Bài đăng gốc](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097123382852829230"></a>
-
-### Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="Rigging và tạo hoạt ảnh cho mech chân digitigrade trong Godot"></a>
-
-**Prompt**
-
-```text
-Bạn có thể rigging và tạo hoạt ảnh cho GLB này không? Tôi muốn xem đôi chân digitigrade bước đi thật thuyết phục trong bản xem trước Godot.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2097123382852829230) · [Bài đăng gốc](https://x.com/om_patel5/status/2097123382852829230) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

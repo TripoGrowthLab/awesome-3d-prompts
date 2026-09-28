@@ -28,6 +28,14 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Tüm özellikleri eksiksiz LEGO Ford Model T seti](#claude-opus-5-5-2104232297167716457)
+- [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](#claude-opus-5-5-2104232013578617241)
+- [55 saniyelik veri merkezinden atoma 3B sahne](#claude-opus-5-5-2104223449849761837)
+- [Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı](#claude-opus-5-5-2104204312624918810)
+- [Dönüşüp birleşen üç aracın anime tarzı 3B CG’si](#claude-opus-5-5-2104193522715029657)
+- [Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5](#claude-opus-5-5-2104162483888062945)
+- [Etkileşimli 3B kamera lensi ışık yolu demosu](#gpt-6-astra-2104077535315144878)
+- [Blender'da Super Heavy güçlendirici yakalama sahnesi](#gpt-6-astra-2103966922127630820)
 - [Orman gölü köyü ortamı](#gpt-6-astra-2103860776419111285)
 - [Şişede voksel gemi WebGL sahnesi](#gpt-6-astra-2103855977376125161)
 - [Profesyonel 15 saniyelik motion design grafik videosu](#claude-opus-5-5-2103846630088716687)
@@ -70,16 +78,232 @@
 - [CatWalk: Gece şehrinde ilerleyen 3B yandan kaydırmalı kedi oyunu](#claude-opus-5-5-2102775461701091531)
 - [Orbit Lab: Güneş, Dünya ve Ay'ın 3B simülasyonu](#gpt-6-astra-2102752217375899659)
 - [Son Tren siberpunk mega kent benchmark’ı](#claude-opus-5-5-2102740078347087940)
-- [Voksel tarzı futbol animasyonu](#claude-opus-5-5-2102739444256383089)
-- [Hayali gezegenler hakkında etkileşimli web sitesi](#claude-opus-5-5-2102729710174196022)
-- [Orta Çağ kalesi tarayıcı animasyonu](#gpt-6-astra-2102672926285713456)
-- [Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi](#tripo-claude-opus-5-5-paper-cut-3d-short)
-- [Tek bir HTML dosyasında 3B kart yarışı](#gpt-6-astra-2102652927177617564)
-- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](#claude-opus-5-5-2102565611473661963)
-- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](#claude-opus-5-5-2102565403109085669)
-- [Hundenberg kaza modeli ve gerçekçi video](#claude-opus-5-5-2102547809140355250)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### Tüm özellikleri eksiksiz LEGO Ford Model T seti
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="Tüm özellikleri eksiksiz LEGO Ford Model T seti"></a>
+
+**İstem**
+
+```text
+Orijinal Ford Model T'nin LEGO setini yapmak istiyorum.
+
+Setin tüm özellikleri eksiksiz olsun; mümkün olan yerlerde hareketli ve etkileşimli özellikler içersin ve bir LEGO ustasının gurur duyacağı kalitede olsun.
+
+Son çıktıda LEGO'dan sipariş etmem gereken tüm parçaların listesini, LEGO setinin bir render'ını ve seti kurmak için gereken kullanım kılavuzunu istiyorum.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232297167716457) · [Orijinal gönderi](https://x.com/businessbarista/status/2104233375791718456) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS"></a>
+
+**İstem**
+
+```text
+Hiper gerçekçi bir çok oyunculu FPS oluştur. Oyunu, tuğla binalarla çevrili karlı bir şehir ara sokağında geçir. Belirgin geri tepmeye ve havaya saçılan mermi kovanlarına sahip bir saldırı tüfeği ekle. Ateş edilecek düşmanlar, engel aşma mekanikleri ve kanlı ekran hasarı efektleri ekle. Silah kullanımında isabet kaydı kusursuz olsun; akışına bırakıp bunu eksiksiz bir oyuna dönüştür.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232013578617241) · [Orijinal gönderi](https://x.com/zenvnt/status/2104232358811676833) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### 55 saniyelik veri merkezinden atoma 3B sahne
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="55 saniyelik veri merkezinden atoma 3B sahne"></a>
+
+**İstem**
+
+```text
+Bana 55 saniyelik bir 3B sahne oluştur. Kamera bir veri merkezinin içine uçsun, bir rafı açsın, bir GPU'yu söksün, çipe yakınlaşsın, transistörlerin içinden geçsin ve tek bir silikon atomuna ulaşsın. Sağ tarafta metre cinsinden bir ölçek çubuğu bulunsun. Etiketler müşterinin dilinde olsun. Tarayıcıda çalışsın; tek dosya olsun ve bağımlılık içermesin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104223449849761837) · [Orijinal gönderi](https://x.com/Cranefomo/status/2104223449849761837) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı"></a>
+
+**İstem**
+
+```text
+https://t.co/fCRvqmOamH. için ne kadar yetenekli bir hareketli grafik tasarımcısı olduğunuzu gösteren dinamik, 30 saniyelik bir hareketli grafik videosu oluşturun
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104204312624918810) · [Orijinal gönderi](https://x.com/iniyanai/status/2104204318085931054) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### Dönüşüp birleşen üç aracın anime tarzı 3B CG’si
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="Dönüşüp birleşen üç aracın anime tarzı 3B CG’si"></a>
+
+**İstem**
+
+```text
+Robot animesindeki gibi üç aracın dönüşüp birleşerek robota dönüştüğü bir sahneyi de anime tarzı 3B CG olarak oluşturabilir misin?
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104193522715029657) · [Orijinal gönderi](https://x.com/allforbigfire/status/2104193522715029657) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5"></a>
+
+**İstem**
+
+```text
+Benden şunları iste: yapay zekâ aracısının kullanıcı için tamamladığı görev (varsayılan: 3 günlük Kyoto gezisi planla + rezerve et), renk paleti (varsayılan: sıcak gri tuval #E6E3DE, saf siyah/beyaz arayüz; renkli olan tek şey küre — inci ışıltılı mavi → mor → şeftali) ve yaklaşık 120 BPM'lik telifsiz bir şarkı (Mixkit'te kendin ara, BPM'i numpy ile ölç, parçanın tamamını indirmeden önce önizleme bağlantılarıyla 3 aday göster). Yapay zekâ sohbet aracısı için Dribbble düzeyinde arayüz konsept hareketi. Tek bir beyaz şekil, asla kesme: her durum, boyutunu, yarıçapını ve rengini değiştirirken içeriğini kısa bir bulanıklıkla değiştiren aynı öğedir. Yıldız, şeklin DIŞINDA bir süreklilik öğesi olarak yaşayan bir GLSL "yapay zekâ küresi"dir (akışkan, nefes alan, iridescent blob — ChatGPT / Siri ses küresi gibi) ve film boyunca rol değiştirir: bekleme kahramanı → dinlerken sese tepki verir → avatar olarak giriş çubuğunun içine küçülür → düşünürken daha hızlı döner → yanıtta avatar olur → görev tamamlandığında açılır → beklemeye döner. Her değişimi gerçek tıklamalar ve sürüklemelerle bir imleç yönetir. Tek ve temiz bir arayüz yazı tipi (Geist). Her yerde spring animasyonları, en fazla küçük bir taşma. Kamera, her durum karenin yaklaşık %60–75'ini dolduracak şekilde yakınlaşır. Küre her vuruşta hafifçe titreşir. Son kare ilk karedir; böylece döngü oluşur. Yasaklar: zıplayan easing, parçacık patlamaları, arayüz kabuğunda glow veya gradient (küre içeriktir, arayüz kabuğu değil), eşleşmeyen ikon çizgi kalınlıkları, boş bekleme süresi, şablon gibi görünen her şey. 120 BPM, 8 ölçü = 32 vuruş = 16 sn; her vuruşta bir şey olur (n. vuruş (n-1)*0.5 sn'de): 1. ölçü: küre beklemede, imleç yaklaşır | küreye tıkla → şekil "LISTENING" hapine uzanır, küre soluna taşınır ve hece zarfıyla sallanır | canlı döküm "Plan 3 days in Kyoto" yazar | "…under 1,500, the value rolls live | 1,248'i geçene kadar sürükle "cheapest plan" 6. ölçü: kaydırıcı → siyah kaydırarak onayla "Book trip · $1,248" | düğmeyi tut, sağa sürükle | sonu geç → lastik bant | bırak → sona oturur, ok spinner'a dönüşür 7. ölçü: → bildirim "Trip booked" | "Flights ✓" "Ryokan ✓" çipleri belirir | küre açılır (renk + ölçek) | bildirim küreye doğru çöker 8. ölçü: şekil solar, küre kahraman boyutuna geri büyür | yerleşir | vuruşla nefes alır, imleç dışarı süzülür | beklemeye döner (döngü) 1. Kendi içinde çalışan tek bir HTML dosyası; kare 1440x1440, yazı tipleri ve ses içermeyen varlıklar data URI olarak satır içine gömülü. Her stil, saf bir `seek(t)` içinde zamandan hesaplanır: CSS transition yok, timer yok, kareler arasında taşınan durum yok, seek içinde asla track oluşturma. 2. Spring animasyonları kapalı biçimli step response'larıdır. Hedefi birçok kez değişen bir değer, her değişim için bir spring'in toplamıdır; döngü için SON hedefi başlangıç değeri olarak al ve önceki iki döngünün (t + L, t + 2L) spring kuyruklarını da ekle; böylece dikişte hem konum hem hız eşleşir. Sönüm oranı ≥ 0.72. 3. İçerik katmanlarının kendilerine ait giriş/çıkış pencereleri vardır: çıkış tam olarak vuruşta tamamlanır, giriş yaklaşık 80 ms sonra başlar (opaklık + yaklaşık 12 px ekran bulanıklığı + 0.965→1 ölçek) veya metinler üst üste biner. 4. Sürüklemeler doğrudan manipülasyondur: basılı tutulurken değer = başlangıç + (cursorX − basıldığı andaki cursorX); bir sınır aşılırsa rubber(over, R) = R·(1 − e^(−over/R)) uygula; bırakıldığında, bırakma konumu VE hızından snap hedefine doğru serbest bir spring çalışır. İmleç ara noktaları bir spring üzerindeki [ayrılma zamanı, x, y] değerleridir; son ara nokta ilkine eşittir, böylece imlecin konumu ve hızı döngü boyunca süreklidir. 5. Küre: OFFSCREEN 640×640 canvas'a çizilen WebGL fragment shader, ardından seek içinde görünür 2D canvas'a eşzamanlı olarak drawImage edilir (WebGL canvas'ın doğrudan ekran görüntüsünü almak başsız ortamda güvenilir değildir). Zaman periyodik olmalıdır: uniforms için tam sayı k değerleriyle (ör. k=2 ve k=5) (cos, sin)(2π·k·t/L) kullan; ham t kullanma. Silüet yarıçapı = birim yön vektöründe örneklenen direction·1.4 + T üzerindeki amp·noise ile 0.74 + amp·noise (merkez dikişi yok); yüzey = küre normaline uygulanan düşük frekanslı, domain-warp edilmiş 3B noise → büyük ve yumuşak renk bantları; %16 inci beyazı, parlak bir iç çekirdek, küçük ve keskin bir specular (pow 70), soluk lila fresnel kenarı; hacim hissi için daha koyu alt yarı; beklemedeki kürenin altında yumuşak eliptik gölge. Uniforms: amp (beklemede 0.08, dinlerken + hece zarfı, düşünürken biraz +), think (daha güçlü/hızlı warp), bloom (tamamlanma renk patlaması). Piksel başına ≤5 noise çağrısı kullan. 6. Ses: şarkıyı numpy ile analiz et (spectral-flux onset, phase-locked BPM, kick + chroma change ile downbeat, ölçü başına RMS). Tam enerjili 8 ölçülük bir cümlenin downbeat'inde başlat; böylece ses döngüsü bir cümle sınırında birleşir. Büyük analiz pencereleri vuruşları yaklaşık 15–25 ms erken tahmin eder: kesmeyi 256 örnekli pencereyle yeniden ölç ve medyan artık < 2 ms olana kadar başlangıcı kaydır. Son 60 ms'yi başlangıçtan önceki 60 ms ile crossfade et. Arayüz seslerini numpy ile sentezle (click, send swoosh, grab/drop, tick, success, chime) ve her birini olay zamanında ÖLÇÜLMÜŞ TEPE noktasına yerleştir; çok notalı seslerde ilk notayı en yüksek sesli tut. 7. Playwright Chromium ile render al: her kare için yarım kareye yayılan 4 alt kare (180° shutter, kare zamanının merkezinde), 16 paralel worker. Her seek işleminden sonra ekran görüntüsünü almadan önce iki requestAnimationFrame bekle; screenshot(animations='disabled') KULLANMA. Sahne WebGL kullandığı için  --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog ile başlat (varsayılan SwiftShader-Vulkan yolu çoğu zaman WebGL context'ini kaybeder). RGBA ekran görüntülerini RGB'ye dönüştür. 8. ffmpeg ile kodla: -reinit_filter 0, tmix=frames=4 ardından her 4. kareyi seç, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, süreyi tam olarak -t ile belirt. tmix'in ffmpeg sürümünde gerçekten hangi alt karelerin ortalamasını aldığını doğrula ve select offset'ini buna göre seç. Ayrıca paylaşım için crf 20 sürümü ve 3× döngülü bir kopya oluştur. 9. Tam render'dan önce her vuruşta bir kare ve vuruştan 0.3 sn sonra bir kare render al, bunları contact sheet'lerde döşe ve ızgara dışında, sıkışık, kırpılmış, okunaksız veya kürenin eksik olduğu her şeyi düzelt. Ardından geçiş karelerini tam çözünürlükte örnekleyerek kontrol et. 10. Doğrula ve raporla: t=0 ve t=L ekran görüntüleri piksel düzeyinde aynı; kare sayısı = 960 ve video/ses tam olarak 16.000 sn; dikiş karesi farkı komşularıyla aynı mertebede; RGBA alt kare yok; son sesin vuruş ofseti < 10 ms; kürenin her birinde bulunduğunu doğrulamak için bekleme karelerinden örnek al. - e0 > e1 olan smoothstep(e0, e1, x) GLSL'de tanımsızdır — SwiftShader 0 döndürür ve küre kaybolur. Her zaman 1.0 - smoothstep(lo, hi, x) yaz. - Yazılım GL üzerinde ağır bir shader GPU watchdog'u tetikler (CONTEXT_LOST_WEBGL): canvas'ı 640²'de tut ve noise sayısını düşük tut; her testte console context-loss mesajlarını dinle. - Kameranın ölçeklediği hiçbir öğeye will-change ekleme; aksi hâlde metin bulanık render edilir. - Takipçiler (küre, avatarlar), şekilden biraz daha yavaş bir spring kullanır; böylece şeklin kenarı tarafından asla kırpılmazlar. - Katman sırası: arka plan plakası olan her şey, üzerinde duran metin/ikonlardan ÖNCE gelir. - Bir merkezleme translate() işlevini animasyonlu bir transform ile geçersiz kılma — bunun yerine bir katmana sar. - ffmpeg -shortest son kareyi düşürebilir; -t'yi açıkça ayarla. - Son kareyi, imleç konumu ve hızı da dâhil olmak üzere ilk kareyle aynı yap; aksi hâlde döngü takılır. Girdileri benden iste, önce yalnızca küre shader'ının prototipini oluştur (t=0, t=4, t=8 render'larını al ve 8 yeni sayfa yüklemesi boyunca context kaybı olmadan t=0 == t=16 piksel piksele eşit olduğunu kanıtla), ardından 8 ölçülük vuruş ızgarasındaki durum listesini tablo olarak göster ve tam sahneyi yazmadan önce OK'imi bekle.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104162483888062945) · [Orijinal gönderi](https://x.com/listudio/status/2104162483888062945) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104077535315144878"></a>
+
+### Etkileşimli 3B kamera lensi ışık yolu demosu
+
+[noah helms](https://x.com/haonv2) · 2026-09-27 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/c25990cf0e605481e3e3cb5e2883ecc6940658a121f64d661faa6d1dfc78f0c3.webp" width="840" loading="lazy" alt="Etkileşimli 3B kamera lensi ışık yolu demosu"></a>
+
+**İstem**
+
+```text
+Işığın bir kamera lensinden geçerek sensöre nasıl ulaştığını gösteren etkileşimli bir 3B render oluşturmanı istiyorum. Demoda şelaleler ve yemyeşil çimlerle bezeli güzel bir dağ manzarası kullan.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104077535315144878) · [Orijinal gönderi](https://x.com/haonv2/status/2104077535315144878) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103966922127630820"></a>
+
+### Blender'da Super Heavy güçlendirici yakalama sahnesi
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/b907f0a1db0e0cf1ef3f183393df49f4ab38dd9a0bdda15bc078b816b1bf0130.webp" width="840" loading="lazy" alt="Blender'da Super Heavy güçlendirici yakalama sahnesi"></a>
+
+**İstem**
+
+```text
+Yalnızca Python kullanarak Blender'da bir Super Heavy güçlendirici yakalama sahnesi oluşturun. İndirilen model, doku veya HDRI kullanmayın; her şeyi kodla oluşturun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a Super Heavy booster catch in Blender using only Python. no downloaded models, no textures, no HDRIs, everything generated by code
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103966922127630820) · [Orijinal gönderi](https://x.com/Vortlyn/status/2103966922127630820) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103860776419111285"></a>
 
 ### Orman gölü köyü ortamı
@@ -2399,610 +2623,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102740078347087940) · [Orijinal gönderi](https://x.com/builderhelmai/status/2102740078347087940) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### Voksel tarzı futbol animasyonu
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Voksel tarzı futbol animasyonu"></a>
-
-**İstem**
-
-```text
-Three.js (CDN) kullanarak basit, voksel tarzı bir futbol animasyonu içeren tek bir HTML dosyası oluştur. Bloklu bir oyuncu 2 savunmacıyı top sürerek geçsin ve kutlama parçacıkları eşliğinde gösterişli bir gol atsın. Renkli bir stadyum görünümü kullan. YALNIZCA tam HTML kodunu çıktı olarak ver.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102739444256383089) · [Orijinal gönderi](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### Hayali gezegenler hakkında etkileşimli web sitesi
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Hayali gezegenler hakkında etkileşimli web sitesi"></a>
-
-**İstem**
-
-```text
-Hayali gezegenler hakkında etkileşimli bir web sitesi oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102729710174196022) · [Orijinal gönderi](https://x.com/Kappaemme1926/status/2102729710174196022) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102672926285713456"></a>
-
-### Orta Çağ kalesi tarayıcı animasyonu
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Orta Çağ kalesi tarayıcı animasyonu"></a>
-
-**İstem**
-
-```text
-Tamamen tarayıcıda çalışan bir 3B animasyon oluşturun. Animasyonda, geniş bir ormanın içindeki bir tepede yer alan Orta Çağ kalesi bulunsun. Klavye kontrolleri eklemeyin; kaleyi her yönden görebilmemiz için kamerayı yalnızca kalenin çevresinde döndürün. Kale kulesinin tepesinde rüzgârda dalgalanan bir bayrak bulunmalı.
-
-Çıktı, çalıştırıldığında kaleyi gösteren ve döngüsel animasyonu başlatan bir index.html dosyası içermelidir.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
-
-The output should contain index.html file that when executed shows the castle and starts the looping animation.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456) · [Orijinal gönderi](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
-
-### Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi
-
-[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi"></a>
-
-**İstem**
-
-```text
-1. Projenin amacı
-“Claude × Tripo” adlı, yaklaşık 44 saniyelik etkileşimli bir animasyon kısa filmi oluşturun. Küçük turuncu bir Claude kıvılcımı el yapımı kâğıt bir masaya konar, Tripo markalı bir dizüstü bilgisayarda beş eğlenceli fikrin taslağını çizer veya bunları yazar ve fikirler canlanırken onlarla tanışır. Ziyaretçi animasyonu izleyebilir, duraklatabilir, zaman çizelgesinde gezinebilir, yeniden oynatabilir, en-boy oranını değiştirebilir, sesi açabilir veya animasyonu kaydedebilir. Bu, müzik, çatışma ya da kazanma koşulu içermeyen, koreografisi hazırlanmış bir kısa filmdir. Sağlanan videoyu ve sahne kompozisyonunu yeniden oluşturun.
-
-2. Görsel stil
-Yırtık krem rengi kenarlara, guaj dokusuna, karalamalara, grafik kâğıdı ayrıntılarına ve gece mavisi gökyüzüne sahip katmanlı bir kâğıt diyoraması kullanın. Kraft kâğıt masanın arkasına hilal şeklinde bir ay, sıcak sarı yıldızlar, mavi kâğıt tepeler ve küçük bir kasaba katmanı yerleştirin. Açık dizüstü bilgisayarı sola, Claude'u ortaya yakın bir yere ve küçük dairesel sergileme platformunu sağa yerleştirin. Sıcak turuncu, leylak, nane yeşili, tereyağı sarısı ve krem tonlarındaki vurguları koruyun. Perspektif kamera geniş planlar ile yakın çekimler arasında yumuşakça hareket eder; derinlik açısından ayrılmış düz kesimler paralaks oluşturur. Basamaklı çizgi film ışığı, soğuk kenar ışığı, ölçülü konturlar, yumuşak gölgeler ve son aşamada kâğıt dokusu/vinyet uygulaması kullanın. Finalde beyaz bir kamera flaşı patlasın ve tüm karakter kadrosunu gösteren, hafifçe eğik ve bantla tutturulmuş bir Polaroid fotoğrafıyla bitirin. Açılışta, her yaratığın ortaya çıkışında ve toplu finalde referanstaki kadrajı eşleştirin.
-
-3. Sahne ve hikâye
-Her pozu ve kamera hareketini tek bir deterministik update(t) işlevinden yönetin; böylece herhangi bir zaman damgasına doğrudan gidildiğinde önceki kareleri yeniden oynatmadan doğru kare üretilsin. Hikâye vuruşlarını ortak tek bir zaman çizelgesinde adlandırın. Claude yaklaşık 0,55. saniyede gelir, yaklaşık 1,7. saniyede konar ve dizüstü bilgisayarı 2,92. saniyede uyandırır. Ekmek kedisini yaklaşık 7,2. saniyede, salyangoz kulübesini yaklaşık 13,85. saniyede, ekmek kızartma makinesi roketini yaklaşık 19,8. saniyede, çaydanlık ahtapotu yaklaşık 26,1. saniyede ve gökyüzü balinasını yaklaşık 33,3. saniyede gösterin. Roket yaklaşık 21,25. saniyede fırlatılmalı ve yaklaşık 24,05. saniyede geri dönmelidir. Balina, toplu karakterlerin üzerinde yaklaşık 35–37. saniyelerde yüzmelidir. Kamera flaşı 40,5. saniyede patlamalı; film 44,2. saniyede bitmelidir. Kamera planlarını yumuşak geçişlerle birleştirin; geçişlerde yumuşatılmış beklenti, yay taşması, squash/stretch, küçük sıçramalar ve giderek azalan yalpalamalar kullanın. Sahneler arasında geçiş yaparken ani sıfırlamalardan kaçının.
-
-4. Varlık listesi
-- claude-spark: krem rengi yırtık kenarlara sahip, düz turuncu, on iki ışınlı bir kıvılcım ve dost canlısı animasyonlu yüz. Göz kırpsın, o anki harekete baksın, gülümsesin, yanakları kızarsın; mutlu, sersemlemiş ve parıltılı göz ifadelerini kullansın. İki ışın kola dönüşerek tuşlara, çizimlere ve diğer karakterlere uzansın. Yüzünü ve kol davranışlarını prosedürel shader olarak koruyun; statik dışa aktarma bu karakterin kimliğini veya oyunculuğunu yansıtmaz.
-- cat: yuvarlak gövdeli, altın renkli, somun ekmek biçiminde bir kedi; pişmiş kabuk izleri, küçük kulakları, patileri, kuyruğu, parlak gözleri, pembe yanakları ve bıyıkları olsun. Sergileme platformunda görünsün, incelenmesi için dönsün, başı okşansın ve masanın ön kısmına yerleşsin.
-- snail: mercan renkli çatısı, bacası, ışıklı pencereleri ve küçük çiçekliği olan krem rengi bir kulübe taşıyan soluk yeşil bir salyangoz. Göz saplarını birbirinden ayrı tutun; kaldırma ve kaydırma sırasında ev dik, yüzü görünür kalsın.
-- toaster: mercan renkli kenarlara ve koluna, yuvarlak krem rengi ayrıntılara, küçük roket kanatçıklarına ve alt nozula sahip nane yeşili bir ekmek kızartma makinesi. Turuncu alev, puf duman izleri ve üzerinden geçen kamera sesiyle havalansın, ardından geri dönsün. Alev ve duman ayrı efektler olarak kalsın.
-- octopus: altı esnek dokunaçlı, emzikli ve saplı, neşeli yüzlü, altın renkli tek gözlüklü ve mor papyonlu pembe/leylak renkli bir çaydanlık yaratığı. Dokunaçları, eğilme hareketini ve küçük yürüyüşünü canlandırın. Dokunaç pozlarını sert çaydanlık gövdesinden ayrı tutun.
-- whale: krem rengi karın bölgesi, yüzgeçleri ve etkileyici yüzü olan mavi bir gökyüzü balinası; çimenlik minyatür bir kasaba, renkli kulübeler, ağaçlar ve çizgili bir deniz feneri taşısın. En büyük yaratık odur ve finalde belirgin kalmalıdır. Deniz fenerinin ışını ayrı bir saydam efekt olsun.
-- environment: masa, dizüstü bilgisayar, lamba, kalemlik, saksı bitkisi, sergileme platformu, kâğıt gökyüzü/kasaba katmanları, notlar ve kalem. Bunları film boyunca yeniden kullanın. Kâğıt arka planlar, dizüstü bilgisayar arayüzü, karalamalar, parçacıklar, duman, ışık huzmeleri ve post-processing prosedürel kalsın.
-Varlık tanımlayıcılarını sabit tutun; dünya konumu, dönüş/squash ve eklemli parçalar için ayrı dönüşümler kullanın. Kaynak projenin oranlarını ve renklerini koruyun. Taşınabilir GLB sürümleri standart materyaller ve statik poz kullanabilir; özel reveal shader'ını, oyunculuğu veya tam animasyonu içerdiklerini iddia etmeyin.
-
-5. Etkileşim ve geri bildirim
-Oynat/duraklat, yeniden oynat, geçen/toplam süreyi gösteren bir arama kaydırıcısı, 1:1 / 16:9 / 9:16 en-boy seçenekleri, ses açma/kapatma, temiz görünüm ve kayıt özellikleri sağlayın. Boşluk çubuğu oynatmayı açıp kapatsın; R yeniden oynatsın; H veya C temiz görünümü açıp kapatsın; Escape kontrolleri geri getirsin; M sesi açıp kapatsın; sol/sağ oklar birer saniyelik, Shift ise 0,1 saniyelik arama adımı kullansın. Kontrolleri dar bir dokunmatik ekranda kullanılabilir hâle getirin. Ses yalnızca kullanıcı etkileşiminden sonra başlamalıdır; otomatik oynatma sesi engellendiğinde “Sesle oynat” seçeneği sunun. Zaman çizelgesinde gezinme ve yeniden oynatma, sesi doğru zamanda yeniden başlatmalıdır. Filmin sonunda durun ve yeniden oynatma seçeneği sunun.
-Dizüstü bilgisayar geçerli çizimi veya yazılan fikri, animasyonlu bir ilerleme çubuğunu ve tamamlanma işaretini gösterir. Ekrandaki Generate eylemi hazırlanmış animasyonun bir parçasıdır: mevcut kısa film prosedürel geometri kullanır ve model oluşturma API'si çağırmaz. Her yaratığı alttan üste doğru ortaya çıkarın; başlangıçta leylak rengi kil gibi görünsün, ardından sıcak parlayan bir tarama bandıyla kendi rengine boyansın. Claude'un bakışlarını ve kollarını bu olaylarla eş zamanlayın.
-
-6. Teknik uygulama ve ses
-JavaScript ES modüllerini ve Three.js r170'i WebGL, özel shader'lar, CanvasTexture ve Web Audio API ile kullanın. Uygulamayı ve yazı tiplerini yeniden üretilebilir bir derlemeyle aynı kaynaklı statik kaynaklar olarak paketleyin; çalışma zamanında CDN veya özel servis kimlik bilgileri kullanmayın. Kontroller için yerel Fredoka'yı, el yazısı metinler için Caveat'ı kullanın. Kamera mesafesini ve render boyutunu üç en-boy oranına da uyarlayın, aşırı piksel yoğunluğunu sınırlayın ve dışa aktarımları sayfanın ilk ağ isteklerinin dışında tutun.
-Müziği ve efektleri Web Audio'da sentezleyin. Müzik kutusu FM sesi, filtrelenmiş üçgen dalga bas, marimba, hafif detune uygulanmış pad, kick, clap/shaker, üretilmiş reverb ve final kompresyon kullanın. Ölçü sıfırını dizüstü bilgisayarın 2,92. saniyede uyanmasıyla, on altıncı ölçüyü ise 40,5. saniyedeki flaşla hizalayarak yaklaşık 102 BPM elde edin; akor döngüsü F–Dm–B-flat–C olsun. Adlandırılmış hikâye vuruşlarına kalem, klavye, whoosh, pop, boing, kedi, balina, roket ve deklanşör efektleri ekleyin. Roket motorunun sesini kamera göreli hareketini kullanarak panoramalandırın ve şekillendirin. Film müziğini küçük çevrimdışı dilimler hâlinde render edip tek bir arabellekte birleştirin; etkin ses saati görüntüyü sürsün, saat duraklarsa geri dönüş mekanizması devreye girsin. Kayıt, canvas videosunu film müziğiyle birleştirmeli ve tarayıcının desteklediği bir biçime dışa aktarmalıdır. Normal oynatma veya tarayıcı kaydı için kaynak projenin isteğe bağlı yerel Python yakalama sunucusuna bağlı kalmayın.
-
-7. Tamamlanma ölçütleri
-Düzenlenebilir kaynak kodu, sabitlenmiş bağımlılıkları, statik derlemeyi, başlatma talimatlarını ve kullanılabilir kısa filmi teslim edin. 8, 15, 22, 28, 36 ve 41. saniyelere doğrudan gitmeyi doğrulayın; yeniden oynatma ve duraklatma deterministik durumu korumalıdır. Toplu karakter kompozisyonunu referans videoyla karşılaştırın. Ses kilidinin açılmasını, sessize almayı, yeniden oynatma senkronizasyonunu ve her iki kanalı içeren gerçek bir kayıt indirmesini doğrulayın. Kare, yatay ve dikey kadrajların yanı sıra masaüstü ve dar ekran kontrollerini kontrol edin. Barındırılan sayfayı üst sitenin yalıtılmış iframe'i içinde doğrulayın; eksik yazı tipi, engellenen komut dosyası veya harici kaynak hatası bulunmamalıdır. Yeniden kullanılabilir GLB'leri doğru geometri, yön, materyaller ve sınırlayıcı kutu açısından bağımsız olarak kontrol edin; kapak görselleri gerçek dosyaları göstermelidir. Taşınabilir varlıklarla animasyonlu shader sürümü arasındaki farkları belgeleyin.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102652927177617564"></a>
-
-### Tek bir HTML dosyasında 3B kart yarışı
-
-[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="Tek bir HTML dosyasında 3B kart yarışı"></a>
-
-**İstem**
-
-```text
-Tek bir HTML dosyasında 3B kart yarışı oyunu oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build a 3D kart racer in a single HTML file.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564) · [Orijinal gönderi](https://x.com/realanshull/status/2102652927177617564) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### Etkileşimli Euleryen Neon Akışkan Simülasyonu
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Etkileşimli Euleryen Neon Akışkan Simülasyonu"></a>
-
-**İstem**
-
-```text
-Yüksek performanslı, GPU hızlandırmalı, etkileşimli ve eksiksiz bir Euleryen Neon Akışkan Simülasyonu içeren tek dosyalık bir HTML belgesi yazın.
-
-Kesin Teknik ve Estetik Gereksinimler:
-
-1. Mimari ve Performans:
-   - Tek dosya: Tüm HTML, CSS ve JavaScript/GLSL shader'ları dosyanın içinde yer almalı.
-   - Sıfır harici bağımlılık: Yalnızca saf WebGL 1.0 veya 2.0 kullanın (Three.js, Pixi veya harici kütüphaneler yok).
-   - GPU Üzerinde Hesaplanan Akışkanlar Dinamiği: Simülasyon, aşağıdaki işlemler için özel fragment shader'lar kullanılarak tamamen ping-pong Framebuffer Object'leri (FBO) üzerinden çalışmalı:
-     a) Adveksiyon (hız ve boya)
-     b) Diverjans hesabı
-     c) Basınç Poisson çözücüsü (kareler yöntemi iterasyonu, kare başına 20-30 iterasyon)
-     d) Gradyan çıkarma / hız projeksiyonu
-     e) Vortisite sınırlandırma (türbülanslı girdaplar ekler ve akışkanın cansız, bulanık bir pelteye dönüşmesini önler).
-
-2. Görsel Gerçekçilik (“Neon Duman” Görünümü):
-   - Zifiri siyah boşluk arka planı (`#050508`).
-   - Boya enjeksiyonu için toplamsal / Yüksek Dinamik Aralık (HDR) harmanlama.
-   - Dinamik palet: Her imleç hareketi veya dokunarak sürükleme, canlı siber tonlar (elektrik camgöbeği `#00F0FF`, parlak macenta `#FF007F`, koyu ultraviyole ve ışıldayan altın) arasında yumuşak geçiş yapan, yüksek parlaklıklı neon boya enjekte etmeli.
-   - Görüntüleme shader'ı geliştirmeleri: Nihai render shader'ına doğrudan, akışkanın girdap oluşturan kenarları çevresine ince bir bloom/parlama, ton eşleme ve kromatik sapma uygulayan bir post-processing geçişi ekleyin.
-
-3. Etkileşim:
-   - Fare ve Dokunmatik: İmlecin hızlı hareketi veya sürükleme, fare hızına orantılı hızın yanı sıra yoğun, parlayan boya enjekte etmeli.
-   - Pasif Ortam Hareketi: Boştayken ince prosedürel curl noise veya yumuşak sürüklenen girdaplar üretin; böylece canvas hiçbir zaman tamamen statik kalmasın.
-   - Kontroller: Bir köşeye yerleştirilmiş, etkinlik olmadığında otomatik olarak gizlenen, şık ve son derece minimal bir cam görünümlü HUD:
-     * Viskozite kaydırıcısı
-     * Boya dağılımı / kalıcılığı kaydırıcısı
-     * Sıçrama yarıçapı kaydırıcısı
-     * “Canvas'ı Temizle” düğmesi
-     * Renk temaları arasında geçiş yapan düğme (Cyberpunk, Termal Cehennem, Biyolüminesans Derinlik).
-
-4. Üretim Kalitesi:
-   - Yüksek DPI ekranları ve `resize` olaylarını, FBO dokularını esnetmeden veya temizlemeden otomatik olarak yönetin.
-   - Kayan noktalı doku desteği için güvenli bir geri dönüş denetimi (`OES_texture_float` / `OES_texture_half_float`).
-   - Yer tutucu veya yarım bırakılmış yorum içermeyen, temiz, hatasız ve eksiksiz uygulanmış kod.
-
-Yalnızca Chrome/Safari/Firefox'ta doğrudan çalıştırılmaya hazır, eksiksiz HTML dosyasını döndürün.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565611473661963) · [Orijinal gönderi](https://x.com/theailoser/status/2102565612874596411) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası"></a>
-
-**İstem**
-
-```text
-Tarayıcıda gerçek zamanlı olarak etkileşim kurulabilen, tamamlanmış ve yüksek kaliteli bir 3B peyzaj web sayfası oluştur.
-
-Tema: Japon tarzı kiraz çiçekli vadi.
-HTML, CSS ve JavaScript kullan. Görsel oluşturma; yalnızca tasarım önerisi sunma,
-tek bir arka plan görselini paralaks efektiyle 3B gibi gösterme. İstediğim şey gerçekten çalıştırılabilen ve içinde gezilebilen tamamlanmış bir ürün.
-
-【1. Çalışmanın konumlandırması】
-
-Bu; yakın ve uzak katmanları belirgin, bütünlüklü ve kesintisiz bir vadi peyzajı olmalı,
-izole edilmiş küçük bir dekor, yüzen ada, tabanlı maket ya da yalnızca teknik bir demo olmamalı.
-
-Stil, modern ve ayrıntılı voxel art:
-Küp geometrisinin biçim dilini koru; ancak görüntü yüksek çözünürlüklü, kenar yumuşatmalı, ışık ve gölgeler de incelikli olmalı.
-Retro düşük çözünürlüklü pikselli görünüm kullanma; kaba blok yığınları oluşturma ve sahneye piksel filtresi uygulama.
-
-Öncelik görsel kalite. Kompozisyon, malzemeler ve aydınlatmadan ödün vermek yerine birkaç işlev daha az olsun.
-
-【2. Referans görsellerin kullanım biçimi】
-
-Referans görseller eklenmişse önce kompozisyon katmanlarını, ölçeği, ışığı ve renk ilişkilerini analiz et.
-Yalnızca atmosferi ve görsel dili ilham olarak alıp sahneyi yeniden tasarla;
-yapıların, ağaçların, dağların ve yolların konumlarını kopyalama, 1:1 yeniden oluşturma.
-
-Referans görsel web sayfasında kullanılacak bir arka plan varlığı değildir. Sahnenin kendisi gerçek 3B geometriden oluşmalı.
-
-【3. Sahne kompozisyonu】
-
-Sayfa ilk açıldığında eksiksiz ve ilgi çekici bir görüntü sunmalı,
-kullanıcının güzel bir açı bulmak için önce kamerayı döndürmesi gerekmemeli.
-
-Maket tarzı izometrik üstten bakış kamerası yerine perspektif kamera kullan.
-Görüntüde belirgin bir ön plan, orta plan ve arka plan bulunmalı:
-
-Ön plan:
-Belirgin bir varlığı olan yaşlı bir kiraz ağacı; kayalar, çalılar, bitkiler, taş fener ve az miktarda dökülmüş çiçekle birlikte görüntünün kenarlarında doğal bir çerçeve oluşturmalı, ancak nehri, köprüyü ve ana yapıları kapatmamalı.
-
-
-Orta plan:
-Kıvrılarak ilerleyen bir nehir bakışı sahnenin içine yönlendirmeli; kırmızı ahşap bir köprü nehrin üzerinden geçmeli;
-köy, çay evi, tapınak ve patikalar arazinin eğimine uyacak şekilde yerleşmeli, yapılar arasında gerçekçi bir ulaşım ilişkisi bulunmalı.
-Zemin engebeli olmalı; kıyı çizgileri ve doğal geçişler bulunmalı, modeller düz bir yüzeye eşit aralıklarla dizilmemeli.
-
-Arka plan:
-Yamaçta çok katlı bir pagoda, farklı uzaklıklarda ormanlar ve dağ sırtları ile uzakta karlı dağlar.
-Mesafeyi yalnızca uzaktaki nesneleri küçülterek değil; ölçek değişimi, örtüşme, sıcak-soğuk renk farklılıkları ve atmosferik perspektifle göster.
-
-Tüm öğeleri her yeri eşit biçimde dolduracak şekilde yerleştirme. Öncelik sırası, yoğunluk dengesi, negatif alan ve net bir görsel odak gerekli.
-
-
-【4. Biçim ve görüntü kalitesi】
-
-Kiraz ağacı:
-Gövdesinde kıvrımlar, dallanma ve kök bölgesi bulunmalı; taç kısmı düzensiz çiçek kümelerinden oluşmalı, aralarında boşluklar ve farklı yoğunluklar olmalı, dallar görünür kalmalı. Birkaç düzgün küre ya da küp yığını oluşturma.
-
-
-Yapılar:
-Çatılarda üst üste dizilmiş kiremitler, saçaklar, kiriş ve sütunlar ile pencere kafesleri bulunmalı;
-farklı yapıların kullanım amacı, hacmi ve yüksekliği birbirinden ayrışmalı; aynı evi kopyalayıp vadiyi onunla doldurma.
-
-Arazi:
-Kıyılarda ıslak kayalar, çimen kümeleri ve bitki örtüsüne doğal geçişler bulunmalı.
-Aşırı düzenli basamaklardan, tekrarlanan şeritlerden, dama tahtası desenlerinden ve belirgin prosedürel üretim ızgaralarından kaçın.
-
-Su yüzeyi:
-Çevredeki manzarayı yansıtabilmeli; ölçülü dalgalanmalara, derinlik ve renk değişimlerine, kıyıya doğal geçişlere sahip olmalı.
-Mümkün olduğunca gerçek sahne yansımalarını kullan; performans için kalite düşürmek gerektiğinde bile görsel inandırıcılığı koru.
-Suyun yerine titreşen gürültü, aşırı bozulma veya tek parça mavi bir düzlem kullanma.
-
-Ayrıntılar:
-Az sayıda koi balığı, dökülmüş çiçek, ateş böceği, şelale ve uzakta uçan kuş bulunabilir,
-ancak bunların tümü atmosfere hizmet etmeli ve görüntüyü karmaşıklaştırmamalı.
-Model sayısını yüksek göstermek uğruna ayrıntıları yığma.
-
-【5. Renk ve atmosfer】
-
-Varsayılan atmosfer mavi saat olmalı:
-Soğuk tonlu vadi ve uzak dağlar, yumuşak pembe kiraz çiçekleri, sıcak ancak patlamayan fener ve pencere ışıkları.
-Sıcak ışığı insanların bulunduğu alanlarda yoğunlaştır; tüm çevreyi turuncuya boyama.
-
-Yumuşak gölgeler, nesnelerin temas noktalarında doğal koyuluklar, dengeli pozlama, ölçülü bloom, kenar yumuşatma ve mesafe katmanlarını hissettiren hafif sis kullan.
-
-Beyazlamış, gri ve puslu görünümden, aşırı doygunluktan, tüm ekranı kaplayan yoğun sisten, patlayan ışıklardan ve belirgin tırtıklı kenarlardan kaçın.
-Küp geometrisi net olabilir, ancak render işlemi kaba görünmemeli.
-
-
-Ayrıca “sabah erken saatler” ve “yağmur” olmak üzere iki atmosfer seçeneği sun;
-geçiş sırasında gökyüzünü, ortam ışığını, sisi ve yerel efektleri eş zamanlı olarak değiştir,
-sadece arka plan rengini değiştirmekle yetinme.
-
-【6. Etkileşim ve arayüz】
-
-Tasarlanmış dört kamera açısı sun:
-vadi panoraması, nehir kenarında alçak kamera açısı, tapınak patikası ve yamaçtan kuşbakışı görünüm.
-Geçişler akıcı olmalı ve her kamera açısının bağımsız bir kompozisyon değeri bulunmalı.
-
-Temel etkileşimler:
-Fareyle sürükleyerek görüntüyü inceleme, tekerlekle yakınlaştırma veya ilerleme; dokunmatik ekranlarda sürükleme ve iki parmakla yakınlaştırma desteği.
-Kamera açısını sıfırlama, arayüzü gizleme ve mevcut görüntüyü kaydetme işlevleri sun.
-
-İsteğe bağlı geliştirmeler:
-serbest keşif, yavaş kamera gezintisi ve ortam sesi.
-Ortam sesi varsayılan olarak kapalı olmalı ve yalnızca kullanıcı tıkladıktan sonra çalmalı.
-Ek işlevler varsayılan görüntünün tamamlanmışlık düzeyini etkilememeli.
-
-Arayüz ölçülü ve tasarım sahibi olmalı; odağı manzara oluşturmalı.
-Başlık ve kontrol çubukları kenarlarda yer almalı, görsel odağı kapatmamalı.
-Masaüstü ve mobil cihazlarda düğmelerin ekran dışına taşması, metinlerin üst üste binmesi veya kontrollerin kullanılamaması gibi sorunlar görülmemeli.
-
-【7. Mühendislik ve performans】
-
-Three.js / WebGL ile sürümü sabitlenmiş ve birbiriyle uyumlu CDN bağımlılıklarının kullanımına izin verilir.
-Olgun render özelliklerini önceliklendir; “sıfır bağımlılık” uğruna tüm motoru baştan yazma.
-
-Yazdığın HTML, CSS ve JavaScript kodunu mümkün olduğunca tek bir HTML dosyasında düzenli tut.
-Sahne öğeleri dış görsellere veya 3B model kaynaklarına bağlı olmadan prosedürel geometri ve malzemelerle oluşturulmalı.
-
-Tekrarlanan nesneleri uygun toplu çizim veya instancing yöntemleriyle oluştur;
-alt bölümlendirme, gölgeler, yansımalar ve render çözünürlüğünü makul ölçüde kontrol et.
-Yüksek kalite ve hafif olmak üzere iki mod sun; mobil cihazlarda varsayılan olarak daha hafif ayarları kullan.
-Ayrıntı elde etmek için voxel sayısını sınırsız biçimde artırma.
-
-Yükleme göstergesi, WebGL desteklenmediğinde gösterilecek bir uyarı ve gerekli hata işleme mekanizmalarını ekle.
-Ses etkinleştirilmemişse otomatik oynatma yapma; sistemin hareketleri azaltma tercihine saygı göster.
-
-【8. Teslimat öncesi kabul kontrolü】
-
-Kodu yazmayı bitirir bitirmez teslim etme.
-
-Mevcut ortam tarayıcıda çalıştırmayı ve ekran görüntüsü almayı destekliyorsa sayfayı önce gerçekten aç,
-varsayılan kamera açısını, dört görünümü, atmosfer geçişlerini ve masaüstü ile mobil yerleşimleri kontrol et,
-ardından ekran görüntülerine göre belirgin kompozisyon, pozlama, örtüşme ve render sorunlarını düzelt.
-
-Özellikle şunları kontrol et:
-boş ekran, yükleme hatası veya konsol hatası var mı;
-geometri çakışmaları, titreşim, gölge bantları, patlayan ışıklar veya anormal su yüzeyi görülüyor mu;
-varsayılan görüntü gerçekten eksiksiz bir peyzaj gibi mi görünüyor, yoksa küçük bir maket izlenimi mi veriyor;
-işlev düğmeleri gerçekten çalışıyor mu ve mobil cihazlarda ekran dışına taşıyor mu.
-
-Kabul kontrolü için tarayıcı ekran görüntülerini kullanabilirsin, ancak görsel oluşturma araçlarını çağırma.
-Tamamlanmamış testleri dürüstçe belirt; doğrulanmış olduklarını iddia etme.
-
-Nihai teslimat:
-1. Gerçekte mevcut olan ve açılabilen bir HTML dosyası veya mevcut ortamın desteklediği etkileşimli önizleme.
-2. Ekran görüntüsü alınabiliyorsa gerçek tarayıcı render’ından bir ekran görüntüsü ekle.
-3. Kullanım şeklini ve gerekli çalıştırma koşullarını kısaca açıkla.
-
-Lütfen üretimi doğrudan tamamla; kritik olmayan ayrıntılarda tutarlı tasarım kararlarını kendin ver,
-kendi başına çözebileceğin uygulama sorunlarını tekrar tekrar bana bırakma.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565403109085669) · [Orijinal gönderi](https://x.com/dotey/status/2102565403109085669) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Hundenberg kaza modeli ve gerçekçi video
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg kaza modeli ve gerçekçi video"></a>
-
-**İstem**
-
-```text
-Blender'da Hundenberg'in bir modelini oluştur ve kazayı gerçekçi bir videoya dönüştür.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102547809140355250) · [Orijinal gönderi](https://x.com/aimanhasnoname/status/2102547809140355250) · [Örneklere dön](#all-prompts)
 
 ---
 

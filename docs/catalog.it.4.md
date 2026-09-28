@@ -28,6 +28,14 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Mondo lacustre di zona umida dal fascino accogliente](#gpt-6-astra-2097343467026289039)
+- [Ricreare un gioco per browser in stile League of Legends](#gpt-6-astra-2097336230078013598)
+- [Progetto WebGL in TypeScript + Three.js: Sala della Preghiera per il Buon Raccolto del Tempio del Cielo di Pechino](#gpt-6-astra-2097323734504017936)
+- [Ricrea un mini gioco 3D in stile League of Legends](#gpt-6-astra-2097320830602809682)
+- [Migliorare i tratti del viso di un modello 3D in Blender usando un’immagine di riferimento](#gpt-6-astra-2097313247116341424)
+- [Terreno di un villaggio ispirato a Skyrim da un’immagine di riferimento generata](#gpt-6-astra-2097167383576383502)
+- [Animazione in vista esplosa di un fioraio giapponese](#gpt-6-astra-2097153139795468365)
+- [Rigging e animazione di un mech digitigrade in Godot](#gpt-6-astra-2097123382852829230)
 - [Albero di limoni gelatinosi interattivo](#gpt-6-astra-2097065330728128920)
 - [Animale robot interattivo su un banco da lavoro](#gpt-6-astra-2097004192627933279)
 - [Sentiero nella foresta di 12 secondi in Blender](#gpt-6-astra-2096986557244723371)
@@ -70,16 +78,294 @@
 - [Mondo di navigazione ispirato a One Piece](#one-piece-inspired-sailing-world-2096518775042707700)
 - [Una stanza personale come portfolio interattivo](#personal-room-as-an-interactive-portfolio-2096506357868642342)
 - [Livello completo di rompicapo in Three.js](#complete-three-js-puzzle-level-2096505740643246231)
-- [Barca YF-24 su un mare 3D tranquillo](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
-- [Dalla pianta dell’ultimo piano a un’anteprima Blender](#top-floor-plan-to-blender-preview-2096501340889374883)
-- [Villaggio low poly di Gwacheon da esplorare a piedi](#walkable-low-poly-gwacheon-village-2096490395614019793)
-- [Assemblaggio e animazione di asset 3D generati](#assemble-and-animate-generated-3d-assets-2096481425050743048)
-- [Wright Flyer in volo attraverso una foresta giapponese](#wright-flyer-through-a-japanese-forest-2096467585785286808)
-- [Insetto procedurale che si arrampica sulle superfici](#surface-climbing-procedural-insect-2096460081982304546)
-- [Ricostruzione di Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
-- [Appartamento giocabile ispirato a D4](#playable-d4-inspired-apartment-2096413869841473930)
 
 </details>
+<a id="gpt-6-astra-2097343467026289039"></a>
+
+### Mondo lacustre di zona umida dal fascino accogliente
+
+[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="Mondo lacustre di zona umida dal fascino accogliente"></a>
+
+**Prompt**
+
+```text
+Crea un lago dall’atmosfera accogliente, con una capanna di pescatori sulla riva paludosa. Inserisci una piccola isola al centro del lago, con una casa abbandonata nascosta tra gli alberi. Aggiungi una barca da pesca accanto alla capanna, ninfee, canne, pesci che saltano, la fauna tipica delle zone umide, una piccola spiaggia, un sentiero che conduce alla spiaggia e alla capanna, un altro sentiero che si inoltra nella foresta e una linea di alberi tutt’intorno alla scena.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097343467026289039) · [Post originale](https://x.com/givros/status/2097343467026289039) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097336230078013598"></a>
+
+### Ricreare un gioco per browser in stile League of Legends
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Ricreare un gioco per browser in stile League of Legends"></a>
+
+**Prompt**
+
+```text
+Crea un gioco identico a League of Legends. Deve includere tutti i contenuti di League of Legends, con la stessa mappa e un livello di qualità grafica equivalente, oltre a campioni, minion, torri difensive e altro. All’inizio, seleziona 5 campioni.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097336230078013598) · [Post originale](https://x.com/liyue_ai/status/2097336230078013598) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097323734504017936"></a>
+
+### Progetto WebGL in TypeScript + Three.js: Sala della Preghiera per il Buon Raccolto del Tempio del Cielo di Pechino
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="Progetto WebGL in TypeScript + Three.js: Sala della Preghiera per il Buon Raccolto del Tempio del Cielo di Pechino"></a>
+
+**Prompt**
+
+```text
+Crea con TypeScript + Three.js un progetto WebGL completo e funzionante della Sala della Preghiera per il Buon Raccolto del Tempio del Cielo di Pechino. Tutte le geometrie architettoniche, le texture e le animazioni devono essere generate proceduralmente dal codice durante l’esecuzione; è vietato caricare modelli esterni .glb, .gltf, .obj, .fbx o di altri formati.
+
+Ricostruzione architettonica:
+tre coperture circolari a più livelli, con dimensioni e altezze diverse, rivestite da tegole smaltate blu, un pinnacolo dorato, colonne rosse, corpo circolare dell’edificio, decorazioni dipinte in blu, verde e oro, mensole dougong, porte e finestre.
+Per il tetto usa profili curvi, superfici di rivoluzione o geometrie personalizzate, così da rendere gronde ampie e leggermente rialzate; non sostituirle con un semplice cono.
+Realizza una piattaforma circolare bianca a tre livelli in marmo Han, con scalinata centrale in pietra, balaustre e colonne; mantieni proporzioni armoniose e una gerarchia visiva chiara.
+Genera proceduralmente le texture delle tegole e gli elementi decorativi; per i componenti ripetuti dai priorità a InstancedMesh.
+
+Scena e interazione:
+Cielo azzurro di Pechino, pavimentazione della piazza e una vegetazione contenuta; usa DirectionalLight insieme ad AmbientLight／HemisphereLight, attiva le ombre, l’occlusione ambientale e un tone mapping cinematografico moderato.
+Supporta la rotazione e lo zoom con OrbitControls, oltre a una modalità attivabile e disattivabile di lenta rotazione automatica intorno al modello.
+Un pulsante deve alternare le modalità “esplosione／ricomposizione”: tetto, colonne, mensole dougong, pareti, porte e finestre, balaustre e piattaforma devono distribuirsi gradualmente per livelli e poi tornare con precisione nella posizione originale. L’animazione deve essere gestita dal codice, con tempi sfalsati e senza spostamenti istantanei.
+
+Consegna direttamente il progetto completo e le istruzioni per l’avvio. La pagina deve adattarsi in modo responsive alle dimensioni della finestra, offrire una resa visiva di alta qualità e un’interazione fluida, mantenendo buone prestazioni sui normali browser desktop grazie a istanziazione, dettagli geometrici adeguati e ottimizzazione del rendering. Organizza il codice in moduli chiari e facili da estendere; verifica la build e le funzionalità principali, indicando con trasparenza gli elementi non verificati.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建筑还原：
+三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
+屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
+白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
+程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
+
+场景与交互：
+北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
+支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
+按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
+
+直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097323734504017936) · [Post originale](https://x.com/goan999999/status/2097323734504017936) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097320830602809682"></a>
+
+### Ricrea un mini gioco 3D in stile League of Legends
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Ricrea un mini gioco 3D in stile League of Legends"></a>
+
+**Prompt**
+
+```text
+Primo passo: crea un gioco identico a League of Legends. Deve avere tutto ciò che ha LoL: la stessa mappa, una qualità grafica all'altezza, campioni, minion, torri e così via. Inizia selezionando 5 campioni. 
+
+Secondo passo: rispondi a tono ad Astra: questo non è League, è una copia economica. Prima scrivi un piano, poi realizza tutto con precisione, rispettando dimensioni e meccaniche reali; niente HTML sovrapposto per la UI: deve essere nativa, curata e sembrare quella di un vero gioco.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
+
+第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097320830602809682) · [Post originale](https://x.com/LufzzLiz/status/2097320830602809682) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097313247116341424"></a>
+
+### Migliorare i tratti del viso di un modello 3D in Blender usando un’immagine di riferimento
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="Migliorare i tratti del viso di un modello 3D in Blender usando un’immagine di riferimento"></a>
+
+**Immagini di riferimento:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
+
+**Prompt**
+
+```text
+prendere come riferimento la prima immagine e migliorare i tratti del viso della seconda immagine.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097313247116341424) · [Post originale](https://x.com/carlos_olivera/status/2097313247116341424) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097167383576383502"></a>
+
+### Terreno di un villaggio ispirato a Skyrim da un’immagine di riferimento generata
+
+[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="Terreno di un villaggio ispirato a Skyrim da un’immagine di riferimento generata"></a>
+
+**Prompt**
+
+```text
+Usa img2threejs/img2threejs per creare un terreno tridimensionale di un villaggio, nello stile di Skyrim. Genera tu l’immagine di riferimento.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097167383576383502) · [Post originale](https://x.com/TaroKichijo/status/2097167383576383502) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097153139795468365"></a>
+
+### Animazione in vista esplosa di un fioraio giapponese
+
+[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="Animazione in vista esplosa di un fioraio giapponese"></a>
+
+**Prompt**
+
+```text
+Usa Blender MCP per creare una scena piccola e stilizzata con un fioraio giapponese. Concentrati sulla riproduzione fedele degli elementi visivi principali: le tende da sole verdi, l’insegna sul tetto con il testo giapponese “花屋”, i vasi e le piante disposti davanti al negozio, il distributore automatico, le biciclette, il semaforo, i pali della luce, gli alberi circostanti e gli altri dettagli riconoscibili della strada. Esegui il rendering della scena in uno stile cartoon caldo e affascinante, con illuminazione morbida, materiali curati e un’atmosfera accogliente.
+
+Crea un’animazione dinamica e d’impatto in vista esplosa dell’intera scena del fioraio. L’esplosione deve essere decisa ed esagerata, non discreta. Separa in modo fluido e sistematico i singoli componenti verso l’esterno, per rivelare in maniera spettacolare la struttura e l’interno del fioraio.
+
+Durante l’esplosione, fai volare verso l’esterno o all’indietro le pareti esterne, gli alberi circostanti, i pali della luce, le insegne, le tende da sole, le biciclette, i vasi, le piante, gli elementi della strada e gli altri componenti dell’ambiente, creando spazio sufficiente affinché lo spettatore possa vedere chiaramente l’interno del fioraio. Scomponi l’edificio in livelli strutturali significativi, così che l’architettura interna, gli arredi, le decorazioni, i fiori, le piante, gli scaffali e i dettagli più piccoli risultino chiaramente visibili.
+
+Anche il distributore automatico deve esplodere nei suoi singoli componenti. I pannelli esterni devono separarsi, mentre le singole bottiglie e lattine all’interno devono volare dinamicamente verso l’esterno e disporsi in una formazione ordinata, rimanendo facilmente riconoscibili. I componenti e i dettagli più piccoli possono spingersi più lontano, per rendere la sequenza visivamente più coinvolgente.
+
+Usa tempi sfalsati, velocità di movimento diverse, rotazioni, profondità e traiettorie su più livelli per dare all’esplosione una forte sensazione di energia e impatto, mantenendo ogni componente visivamente ordinato e facile da seguire. Evita che tutto si muova verso l’esterno esattamente nello stesso momento o alla stessa velocità.
+
+Quando l’intera scena è completamente esplosa, mantieni brevemente la composizione, così che lo spettatore possa osservare chiaramente la struttura interna e tutti i componenti separati.
+
+Poi inverti la sequenza: le bottiglie e le lattine, i componenti del distributore automatico, le piante, gli elementi di scena, gli oggetti interni, le pareti, gli alberi, i pali della luce, le insegne, le biciclette e tutti gli altri componenti devono tornare fluidamente al loro posto e ricomporsi nella scena completa del fioraio.
+
+L’intera animazione deve risultare energica, cinematografica, appagante e visivamente d’impatto, con movimenti decisi e una trasformazione chiara tra la scena completa, lo stato completamente esploso e la scena finale ricomposta. Mantieni per tutta la durata un movimento stratificato, leggibile e accuratamente coreografato.
+
+Durante la sequenza in vista esplosa, usa uno sfondo neutro da studio, così che gli oggetti separati e le strutture interne rimangano chiaramente visibili.
+
+Deliverable finali:
+Un’animazione completamente renderizzata e un file di progetto 3D di Blender modificabile. Tutti gli oggetti, i componenti, le raccolte, i materiali e gli elementi principali della scena devono avere nomi chiari e coerenti ed essere organizzati in modo professionale.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
+
+Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
+
+During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
+
+The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
+
+Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
+
+Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
+
+Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
+
+The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
+
+Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
+
+Final deliverables:
+A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097153139795468365) · [Post originale](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097123382852829230"></a>
+
+### Rigging e animazione di un mech digitigrade in Godot
+
+[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="Rigging e animazione di un mech digitigrade in Godot"></a>
+
+**Prompt**
+
+```text
+puoi fare il rigging e animare questo GLB? Vorrei vedere le gambe digitigrade camminare in modo convincente in un’anteprima Godot, per favore
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097123382852829230) · [Post originale](https://x.com/om_patel5/status/2097123382852829230) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097065330728128920"></a>
 
 ### Albero di limoni gelatinosi interattivo
@@ -2062,210 +2348,6 @@ Crea un livello completo di un rompicapo 3D in Three.js, incluse le meccaniche g
 ```
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Post originale](https://x.com/TvWoo/status/2096505740643246231) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
-
-### Barca YF-24 su un mare 3D tranquillo
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="Barca YF-24 su un mare 3D tranquillo"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Modella una barca YF-24 in Blender e animala mentre naviga su un mare tridimensionale con vento di forza 2 sulla scala Beaufort. Usa riferimenti della barca per migliorarne la forma.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Post originale](https://x.com/yhmtmt1/status/2096503275910832461) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
-
-### Dalla pianta dell’ultimo piano a un’anteprima Blender
-
-[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Dalla pianta dell’ultimo piano a un’anteprima Blender"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Usa la pianta dell’ultimo piano di una casa per creare una scena Blender e renderizza un’anteprima di 10 secondi con pochi campioni. Dai priorità a una disposizione spaziale chiara prima di rifinire i materiali.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Post originale](https://x.com/indigox/status/2096501340889374883) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
-
-### Villaggio low poly di Gwacheon da esplorare a piedi
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Villaggio low poly di Gwacheon da esplorare a piedi"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea in un singolo file HTML un villaggio low poly accogliente ed esplorabile ispirato a Gwacheon. Combina paesaggio 3D procedurale, atmosfera, interfaccia e interazioni.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Post originale](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
-
-### Assemblaggio e animazione di asset 3D generati
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Assemblaggio e animazione di asset 3D generati"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Genera asset 3D ottimizzati con Tripo P2, assemblali in Blender ed esegui rigging e animazione dei personaggi. Verifica come personaggi e scena si combinano nello spazio.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Post originale](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
-
-### Wright Flyer in volo attraverso una foresta giapponese
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Giochi
-
-Remix di: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="Wright Flyer in volo attraverso una foresta giapponese"></a>
-
-**Prompt**
-
-```text
-# KOMOREBI — Un volo nella foresta
-
-## 1. Obiettivo
-Mantieni tutti i testi dell’interfaccia di gioco in inglese.
-Realizza un gioco di volo completo per browser: pilota un riconoscibile Wright Flyer del 1903 lungo un fiume in una foresta giapponese, raccogli lanterne degli spiriti, attraversa portali torii e raggiungi un santuario di montagna. Usa https://komorebi-forest-flight.tripo.page/ e i riferimenti forniti per la composizione finale. Dai credito a Jared su https://x.com/jaredliu_bravo e all'ispirazione, The Bugged Dev, su https://x.com/thebuggeddev/status/2096467585785286808.
-
-## 2. Direzione visiva
-Crea una tranquilla foresta cinematografica in miniatura, con verdi profondi di cedro, acqua color teal, lino avorio caldo, legno segnato dal tempo, pietre coperte di muschio e una luce ambrata discreta. Inquadra chiaramente l'aereo con una fluida telecamera in inseguimento posteriore, lasciando visibile sopra le ali il prossimo oggetto da raccogliere. Usa luce solare morbida proveniente dall'esterno dell'inquadratura frontale, luce di riempimento ambientale, ombre di contatto, montagne nella foschia, riflessi sull'acqua, particelle sospese e un bloom discreto. Evita sovraesposizione, case sospese, bagliori troppo grandi e pareti rocciose angolari.
-
-Usa testo bianco caldo, bordi sottili traslucidi, titoli serif nello stile di Cormorant Garamond e controlli nello stile di DM Sans. In alto a sinistra: KOMOREBI, 木漏れ日 e A FOREST FLIGHT. Posiziona la bussola e il controllo Compare in alto, i pulsanti degli strumenti in alto a destra, punteggio e cuori a sinistra, quota e velocità indicata a destra e l'avanzamento del capitolo lungo il bordo inferiore. L'invito iniziale è «Lascia che sia la foresta a trasportarti.» con «Inizia il volo». Compatta la sovrimpressione sui telefoni senza coprire l'aereo.
-
-## 3. Mondo
-Costruisci un percorso deterministico di 3.6 km, suddiviso in quattro capitoli equidistanti: Whispering Woods, Hidden Falls, Lantern Valley e Cloud Sanctuary. Carica dinamicamente o ricicla i segmenti dello scenario. Un fiume turchese dal corso dolcemente sinuoso definisce il corridoio; usa x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 come curva iniziale. Posiziona aperture torii lungo la traiettoria di volo assistita, disponendovi intorno foresta, case in legno, cascate, rocce arrotondate del fiume e montagne nella foschia. Crea una terrazza per ogni ingombro delle case e incassa le fondamenta in tutti e quattro gli angoli.
-
-## 4. Inventario degli asset
-Prepara gli slot dei modelli in quest'ordine:
-- `aircraft`: Wright Flyer del 1903 aperto, con due ampie ali in lino avorio, telaio sottile in legno a vista, montanti e cavi di tensione, canard anteriore e due eliche spingenti posteriori. Mantieni le eliche come parti animate separate, senza pale duplicate.
-- `cedar`: tronco alto bruno-rossastro, chiome irregolari stratificate di verde intenso, rami coerenti e radici ben ancorate; riutilizzalo variando scala e rotazione.
-- `minka`: legno scuro segnato dal tempo, tamponamento in intonaco, ampio tetto a falde rivestito di tegole, gronde generose, calde finestre shoji e fondazione in pietra.
-- `torii`: portale torii giapponese in legno segnato dal tempo, con due montanti e un ampio architrave superiore curvo; il passaggio aperto deve corrispondere all'attuale volume di collisione.
-- `lantern`: lanterna degli spiriti calda, in carta e legno; usa la stessa famiglia di modelli per gli oggetti da raccogliere ripetuti e per le luci decorative più piccole, distinguendone visibilmente i ruoli.
-- `rock`: roccia arrotondata del fiume coperta di muschio, con base ben ancorata; istanziala lungo le rive senza bloccare il corridoio di volo.
-Mantieni procedurali fiume, terreno, montagne, superfici delle cascate, anelli luminosi, foschia, particelle e interfaccia. Elenca ogni slot nel registro e aggiorna tutte le istanze ripetute quando cambia il relativo modello.
-
-## 5. Volo e feedback
-Dopo «Inizia il volo», procedi automaticamente in avanti. W/S o su/giù regolano la quota; A/D o destra/sinistra controllano la direzione e l'inclinazione. Shift consuma una riserva visibile di spinta del vento, che si ricarica. L'accelerazione fluida e la telecamera al seguito devono restare reattive. L'assistenza al volo predefinita riporta dolcemente l'aereo verso il fiume e la quota obiettivo quando si rilascia il comando; offri un interruttore per l'assistenza e impostazioni di qualità. Fornisci controlli touch per la direzione e la spinta. Esc mette in pausa; aiuto, impostazioni e visualizzatore dell'aereo mettono in pausa il volo e ripristinano lo stato precedente. Cancella i comandi mantenuti quando si perde il focus.
-
-Assegna tre cuori. Ogni lanterna degli spiriti vale 100 punti e ogni attraversamento riuscito di un torii vale 250 punti, una sola volta per obiettivo. Le collisioni con terreno, rive e travi fanno perdere un cuore e concedono una breve invulnerabilità. Completa il percorso a 3.6 km con punteggio, record e possibilità di rigiocare; con zero cuori, consenti di riprovare. Salva localmente il record, con un fallback in caso di errore di archiviazione.
-
-Le lanterne si trovano all'interno di grandi anelli dorati ovali per la raccolta, con aloni oscillanti e pulsanti e scintille. Etichetta l'obiettivo più vicino «+100 · ATTRAVERSA IN VOLO». Allinea il generoso volume di collisione con l'anello animato. Le raccolte generano un anello in espansione, particelle calde, un punteggio fluttuante e un impulso nell'HUD. Fai sfumare i portali superati prima che oscurino la telecamera in inseguimento.
-
-## 6. Implementazione
-Usa Vite, Three.js e moduli JavaScript ES, separando gestione del percorso, collisioni e punteggio, scenario, modelli, effetti e interfaccia. Includi localmente dipendenze, font e asset di runtime; distribuisci un sito statico. Usa GLTFLoader e un manifest degli asset con limiti, orientamento, provenienza e factory di fallback per ogni slot. Mantieni le collisioni indipendenti dalla forma della mesh importata. Ruota le due eliche usando il delta time; esaminale dalla telecamera in inseguimento e da un visualizzatore dell'aereo orbitabile e con zoom. Offri il download del file locale effettivo dell'aereo quando disponibile. Blender è facoltativo per separare eliche incorporate, correggere i pivot o generare una mesh più leggera se le prestazioni misurate lo richiedono.
-
-Mantieni il baseline visivo originale. Quando esiste uno slot importato, Compare o C alterna tra quel baseline e le sostituzioni disponibili, senza navigare né reimpostare volo, telecamera, cuori, spinta, punteggio o oggetti raccolti. Blocca l'avanzamento durante la transizione, conserva l'ultimo frame completo finché la scena successiva non è pronta, quindi applica una dissolvenza incrociata di circa 650 ms. Rispetta la riduzione del movimento; impedisci i clic ripetuti e ripristina la scena precedente in caso di errore. Usa uno sfondo scuro di avvio inline, DPR limitato, un numero di particelle controllato e al massimo due varianti di scena memorizzate nella cache.
-
-## 7. Criteri di accettazione
-Consegna il codice sorgente, il lockfile, npm run dev, npm run build e l'output statico dist. Verifica un volo completo, la spinta, la raccolta di lanterne e torii, l'immunità alle collisioni, la pausa/ripresa, i controlli touch, la rigiocabilità, il visualizzatore e le importazioni indipendenti degli slot. Controlla che entrambe le direzioni di Compare preservino lo stato senza frame bianchi né aumento dell'uso delle risorse GPU. Verifica l'ancoraggio delle case, la silhouette dell'aereo, il movimento delle eliche, l'illuminazione leggibile e il recupero dai caricamenti lenti. Riporta i test effettivi e le condizioni delle prestazioni. Segui il flusso di lavoro condiviso qui sotto per la generazione degli asset e restituisci.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Post originale](https://x.com/thebuggeddev/status/2096467585785286808) · [Demo](https://komorebi-forest-flight.tripo.page/) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="surface-climbing-procedural-insect-2096460081982304546"></a>
-
-### Insetto procedurale che si arrampica sulle superfici
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/180bfc6400787d7a531ec7bdc8c33161f9a94bfdd166b8f490d2f03fed90abe2.webp" width="840" loading="lazy" alt="Insetto procedurale che si arrampica sulle superfici"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Crea un insetto 3D a più zampe che cammini aderendo a superfici diverse. Coordina zampe e corpo mentre supera variazioni di altezza.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Post originale](https://x.com/leo_xiaolei/status/2096460081982304546) · [Demo](https://threerocks.github.io/web-3d-pages/) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096438110095585753"></a>
-
-### Ricostruzione di Lego 1999 Racers
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/eadc2c49ec0c9896087cb2efa4ccc31733fb118023f46791eb56fd594c96758f.webp" width="840" loading="lazy" alt="Ricostruzione di Lego 1999 Racers"></a>
-
-**Prompt**
-
-```text
-Ricostruisci completamente il celebre gioco di corse Lego 1999 Racers.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-إعادة بناء لعبة السيارات الشهيرة Lego 1999 Racers بالكامل.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2096438110095585753) · [Post originale](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="playable-d4-inspired-apartment-2096413869841473930"></a>
-
-### Appartamento giocabile ispirato a D4
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/cb01061a6f625c0910e02e414d9825df2a6bf0f1b2fb460c1f56fdfd0d1e28cd.webp" width="840" loading="lazy" alt="Appartamento giocabile ispirato a D4"></a>
-
-*Istruzioni basate sull’opera collegata*
-
-**Prompt**
-
-```text
-Studia l’appartamento del protagonista di D4 e ricrealo come prototipo 3D giocabile. Confronta la disposizione e le interazioni con i riferimenti, senza presumere che la ricostruzione sia esatta.
-```
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Post originale](https://x.com/Swery65/status/2096413869841473930) · [Torna agli esempi](#all-prompts)
 
 ---
 

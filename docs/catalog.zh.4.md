@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [温馨湿地湖泊世界](#gpt-6-astra-2097343467026289039)
+- [复刻《英雄联盟》的网页版游戏](#gpt-6-astra-2097336230078013598)
+- [北京天坛祈年殿 TypeScript + Three.js WebGL 项目](#gpt-6-astra-2097323734504017936)
+- [复刻《英雄联盟》的迷你版3D游戏](#gpt-6-astra-2097320830602809682)
+- [参考图辅助改善 Blender 3D 模型面部特征](#gpt-6-astra-2097313247116341424)
+- [从参考图生成 Skyrim 风格村庄地形](#gpt-6-astra-2097167383576383502)
+- [日式花店拆解与复原动画](#gpt-6-astra-2097153139795468365)
+- [在 Godot 中为跖行式机甲绑定骨骼并制作动画](#gpt-6-astra-2097123382852829230)
 - [互动果冻柠檬树](#gpt-6-astra-2097065330728128920)
 - [工作台上的机器人宠物](#gpt-6-astra-2097004192627933279)
 - [Blender：12 秒森林小路](#gpt-6-astra-2096986557244723371)
@@ -70,16 +78,252 @@
 - [海贼王风格航海世界](#one-piece-inspired-sailing-world-2096518775042707700)
 - [用自己的房间做交互式作品集](#personal-room-as-an-interactive-portfolio-2096506357868642342)
 - [完整的 Three.js 解谜关卡](#complete-three-js-puzzle-level-2096505740643246231)
-- [YF-24 船只与轻浪 3D 海面](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
-- [顶层平面图转 Blender 预览](#top-floor-plan-to-blender-preview-2096501340889374883)
-- [可漫游的低多边形果川村落](#walkable-low-poly-gwacheon-village-2096490395614019793)
-- [组装并动画化生成的 3D 资产](#assemble-and-animate-generated-3d-assets-2096481425050743048)
-- [莱特飞行器穿越日本森林](#wright-flyer-through-a-japanese-forest-2096467585785286808)
-- [沿表面爬行的程序化昆虫](#surface-climbing-procedural-insect-2096460081982304546)
-- [重制 Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
-- [可游玩的 D4 风格公寓](#playable-d4-inspired-apartment-2096413869841473930)
 
 </details>
+<a id="gpt-6-astra-2097343467026289039"></a>
+
+### 温馨湿地湖泊世界
+
+[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="温馨湿地湖泊世界"></a>
+
+**提示词**
+
+```text
+创建一个温馨的湖泊场景，在沼泽湿地岸边放置一间渔民小屋。在水面中央设置一座小岛，岛上有一栋隐藏在树丛中的废弃房屋。在小屋旁添加一艘渔船、睡莲叶、芦苇、跃出水面的鱼类和湿地常见野生动物，再加入一小片沙滩：一条小径通往沙滩和小屋，另一条小径延伸回森林，并用环绕整个场景的树林作为边界。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097343467026289039) · [查看原帖](https://x.com/givros/status/2097343467026289039) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097336230078013598"></a>
+
+### 复刻《英雄联盟》的网页版游戏
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="复刻《英雄联盟》的网页版游戏"></a>
+
+**提示词**
+
+```text
+制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097336230078013598) · [查看原帖](https://x.com/liyue_ai/status/2097336230078013598) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097323734504017936"></a>
+
+### 北京天坛祈年殿 TypeScript + Three.js WebGL 项目
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="北京天坛祈年殿 TypeScript + Three.js WebGL 项目"></a>
+
+**提示词**
+
+```text
+请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建筑还原：
+三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
+屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
+白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
+程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
+
+场景与交互：
+北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
+支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
+按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
+
+直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097323734504017936) · [查看原帖](https://x.com/goan999999/status/2097323734504017936) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097320830602809682"></a>
+
+### 复刻《英雄联盟》的迷你版3D游戏
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="复刻《英雄联盟》的迷你版3D游戏"></a>
+
+**提示词**
+
+```text
+第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
+
+第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097320830602809682) · [查看原帖](https://x.com/LufzzLiz/status/2097320830602809682) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097313247116341424"></a>
+
+### 参考图辅助改善 Blender 3D 模型面部特征
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="参考图辅助改善 Blender 3D 模型面部特征"></a>
+
+**参考图片:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
+
+**提示词**
+
+```text
+以第一张图为参考，改善第二张图的面部特征。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097313247116341424) · [查看原帖](https://x.com/carlos_olivera/status/2097313247116341424) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097167383576383502"></a>
+
+### 从参考图生成 Skyrim 风格村庄地形
+
+[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="从参考图生成 Skyrim 风格村庄地形"></a>
+
+**提示词**
+
+```text
+使用 img2threejs/img2threejs 创建类似《天际》的三维村庄地形。请自行生成参考图。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097167383576383502) · [查看原帖](https://x.com/TaroKichijo/status/2097167383576383502) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097153139795468365"></a>
+
+### 日式花店拆解与复原动画
+
+[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="日式花店拆解与复原动画"></a>
+
+**提示词**
+
+```text
+使用 Blender MCP 构建一个小型、风格化的日本花店场景。重点忠实还原关键视觉元素：绿色遮阳篷、展示日文“花屋”的屋顶招牌、店前摆放的花盆和植物、自动售货机、自行车、交通信号灯、电线杆、周围的树木，以及其他具有辨识度的街景细节。以温暖、讨喜的卡通风格渲染场景，搭配柔和光照、吸引人的材质和温馨氛围。
+
+为完整花店场景制作高冲击力、富有动感的爆炸视图动画。爆炸效果应大胆夸张，而不是含蓄微妙。将各个组件平滑且有条理地向外分离，显著展示花店的结构和内部空间。
+
+爆炸过程中，让外墙、周围的树木、电线杆、招牌、遮阳篷、自行车、花盆、植物、街道道具及其他环境元素向外或向后飞散，为观众清晰观察花店内部留出足够空间。将建筑拆分为具有明确意义的结构层，使内部建筑结构、家具、装饰、花卉、植物、货架和更小的细节都清晰可见。
+
+自动售货机也应拆解为独立组件。外部面板需要彼此分离，内部的汽水瓶和罐装饮料逐个动态飞出，并扩散成有组织的编队，确保它们仍然清晰易辨。较小的组件和细节可以飞得更远，让整个过程更具视觉冲击力。
+
+使用错落的时间安排、不同的移动速度、旋转、景深和分层运动轨迹，让爆炸效果充满能量和冲击力，同时确保每个组件在画面中井然有序、易于跟随。避免所有物体完全同时、以完全相同的速度向外移动。
+
+当整个场景完全爆炸展开后，短暂保持这一构图，让观众能够清楚观察内部结构和所有分离的组件。
+
+然后反向播放这一过程：让汽水瓶、自动售货机部件、植物、道具、室内物件、墙体、树木、电线杆、招牌、自行车及其他所有组件平滑地飞回原位，重新组装成完整的花店场景。
+
+整段动画应充满活力，具有电影感、令人满足且富有视觉冲击力，通过强烈的运动效果，清晰呈现完整场景、完全爆炸展开状态和最终重新组装场景之间的变化。始终保持运动层次分明、易于理解，并进行细致编排。
+
+在爆炸视图动画过程中使用中性的摄影棚背景，确保分离的物体和内部结构清晰可见。
+
+最终交付：
+一段完整渲染的动画，以及一个可编辑的 Blender 3D 项目文件。所有对象、组件、集合、材质和主要场景元素都必须采用清晰、统一且专业的命名，并进行有条理的组织。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
+
+Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
+
+During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
+
+The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
+
+Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
+
+Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
+
+Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
+
+The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
+
+Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
+
+Final deliverables:
+A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097153139795468365) · [查看原帖](https://x.com/KanaWorks_AI/status/2097153139795468365) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097123382852829230"></a>
+
+### 在 Godot 中为跖行式机甲绑定骨骼并制作动画
+
+[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="在 Godot 中为跖行式机甲绑定骨骼并制作动画"></a>
+
+**提示词**
+
+```text
+可以帮我为这个 GLB 绑定骨骼并制作动画吗？我想在 Godot 预览中看到它的跖行式腿部以可信的方式行走。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097123382852829230) · [查看原帖](https://x.com/om_patel5/status/2097123382852829230) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097065330728128920"></a>
 
 ### 互动果冻柠檬树
@@ -1950,211 +2194,7 @@ What would Ezekiel’s temple vision look like in 3D?
 
 ---
 
-<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
-
-### YF-24 船只与轻浪 3D 海面
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="YF-24 船只与轻浪 3D 海面"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Blender 中制作 YF-24 船只模型，让它航行于蒲福风级 2 级的三维海面，使用船只参考资料改善外形。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [查看原帖](https://x.com/yhmtmt1/status/2096503275910832461) · [返回案例导航](#all-prompts)
-
----
-
-<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
-
-### 顶层平面图转 Blender 预览
-
-[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="顶层平面图转 Blender 预览"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据住宅顶层平面图搭建 Blender 场景，渲染 10 秒低采样预览。先清楚呈现空间布局，再细化材质。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [查看原帖](https://x.com/indigox/status/2096501340889374883) · [返回案例导航](#all-prompts)
-
----
-
-<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
-
-### 可漫游的低多边形果川村落
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="可漫游的低多边形果川村落"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在单个 HTML 文件中制作以果川为灵感、可探索的温馨低多边形村落，将程序化 3D 场景、氛围、界面与交互结合起来。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [查看原帖](https://x.com/ManasJoshi76254/status/2096490395614019793) · [返回案例导航](#all-prompts)
-
----
-
-<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
-
-### 组装并动画化生成的 3D 资产
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="组装并动画化生成的 3D 资产"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-使用 Tripo P2 生成优化的 3D 资产，在 Blender 中组装，为角色绑定骨骼并添加动画，检查角色与场景在空间中的配合。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [查看原帖](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [返回案例导航](#all-prompts)
-
----
-
-<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
-
-### 莱特飞行器穿越日本森林
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · 游戏
-
-改编自: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="莱特飞行器穿越日本森林"></a>
-
-**提示词**
-
-```text
-# KOMOREBI——森林飞行
-
-## 1. 目标
-游戏内的所有界面文案保持英文。
-制作一款完整的浏览器飞行游戏：驾驶一架外形易辨认的 1903 年莱特飞行器，沿日本森林中的河流飞行，收集灵灯，穿过鸟居，抵达山间圣所。使用 https://komorebi-forest-flight.tripo.page/ 和所提供的参考素材完成最终构图。注明 Jared 的出处：https://x.com/jaredliu_bravo，并标注灵感来源 The Bugged Dev：https://x.com/thebuggeddev/status/2096467585785286808.
-
-## 2. 视觉方向
-打造一座安静、电影感十足的微缩森林：以深沉的雪松绿、青绿色水面、温暖的象牙白亚麻、风化木材、覆苔岩石和克制的琥珀色光线为主。使用平滑的后方追踪镜头，清晰呈现飞行器，并让下一个可收集目标出现在机翼上方的视野中。使用来自前方视野外的柔和阳光、环境补光、接触阴影、雾中山峦、水面反射、漂浮微粒和轻微泛光。避免过度曝光、漂浮的房屋、过大的光斑和棱角分明的岩壁。
-
-使用暖白色文字、纤细的半透明边框、本地 Cormorant Garamond 风格的衬线标题，以及 DM Sans 风格的控件。左上角显示 KOMOREBI、木漏日和 A FOREST FLIGHT。将指南针和“对比”控件放在上方，工具按钮放在右上角，左侧显示分数和生命，右侧显示高度和空速，底部显示章节进度。开场邀请语为“让森林载你前行。”，按钮文字为“开始飞行”。在手机上收紧叠加层布局，但不要遮挡飞行器。
-
-## 3. 世界
-构建一条全长 3.6 km、由四个等距章节组成的确定性路线：低语森林、隐秘瀑布、灯笼谷和云端圣所。对场景区块进行流式加载或循环复用。以一条缓缓蜿蜒的青绿色河流作为飞行通道的主轴；可使用 x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 作为初始曲线。沿辅助飞行路径布置鸟居入口，并在周围分层布置森林、木屋、瀑布、圆润的河滩岩石和雾中山峦。为每座房屋的占地做地形台阶处理，并将地基的四个角全部嵌入地面。
-
-## 4. 资产清单
-按以下顺序准备稳定的模型槽位：
-- `aircraft`：敞开的 1903 年莱特飞行器，配有两片宽大的象牙白亚麻机翼、外露的纤细木质框架、支柱和张力钢丝、前置鸭翼，以及后方的双推动式螺旋桨。螺旋桨必须作为独立的动画部件保留，且不得出现重复桨叶。
-- `cedar`：高大的红褐色树干、不规则分层的深绿色树冠、连贯的枝条和扎实的根部；通过改变缩放和旋转重复使用。
-- `minka`：深色风化木材、灰泥填充墙、宽大的瓦片坡屋顶、宽阔的屋檐、温暖的障子窗和石质地基。
-- `torii`：风化的日式木制鸟居，由两根立柱和宽大的弧形上梁组成；开放通道必须与现有碰撞范围匹配。
-- `lantern`：由暖色纸张和木材制成的灵灯；重复出现的可收集灵灯和较小的装饰灯使用同一模型系列，同时要让两者的用途在视觉上明显区分。
-- `rock`：底部稳固、外形圆润的覆苔河石；沿河岸实例化摆放，但不要阻挡飞行通道。
-河流、地形、山峦、瀑布水帘、光环、雾、粒子和 UI 均使用程序化生成。将每个槽位列入注册表；模型发生变化时，更新所有重复实例。
-
-## 5. 飞行与反馈
-点击“开始飞行”后自动向前飞行。使用 W/S 或上/下方向键调整高度；使用 A/D 或左/右方向键转向和侧倾。Shift 消耗一个可见且会自动充能的风力加速储备。平滑的加速度和跟随镜头应始终保持灵敏。默认飞行辅助会在松开输入后，轻柔地将飞行器拉回河流和目标高度附近；提供辅助开关和画质设置。提供触控转向和加速操作。按 Esc 暂停；打开帮助、设置或飞行器查看器时暂停飞行，并恢复之前的状态。失去焦点时清除所有持续输入。
-
-提供三颗生命。每盏灵灯奖励 100 分；每个完整穿过的鸟居奖励 250 分，每个目标只能计分一次。与地面、河岸或横梁发生碰撞会损失一颗生命，并获得短暂的无敌时间。飞行 3.6 km 后完成，显示分数、最高分和重新开始选项；生命归零时提供重试。将最高分本地保存，并处理存储失败时的回退方案。
-
-灵灯放置在大型椭圆形金色收集环内，带有上下浮动、呼吸式光晕和火花效果。将最近的目标标记为“+100 · 穿越收集”。让宽松的命中体积与动画光环对齐。收集时播放扩张光环、暖色粒子、浮动分数和 HUD 脉冲反馈。让已通过的鸟居淡出，避免遮挡追踪镜头。
-
-## 6. 实现
-使用 Vite、Three.js 和 JavaScript ES 模块，并将路线/碰撞/计分、场景、模型、特效和 UI 分离。将依赖、字体和运行时资产全部本地打包，交付静态网站。使用 GLTFLoader 和资产清单，为每个槽位记录包围范围、朝向、来源信息和回退工厂。碰撞逻辑必须独立于导入网格的形状。使用增量时间旋转两具螺旋桨；分别从追踪镜头，以及支持环绕旋转和缩放的飞行器查看器中检查螺旋桨。可用时，提供实际本地飞行器文件的下载功能。仅当实测性能确有需要时，才可选用 Blender 来分离烘焙在模型中的螺旋桨、修正枢轴或烘焙更轻量的网格。
-
-保留原始视觉基线。导入槽位存在后，“对比”控件或 C 键可在该基线与可用替代项之间切换，且不得触发页面跳转或重置飞行、镜头、生命、加速储备、分数或收集进度。过渡期间冻结进度；在下一场景准备好之前保留最后一帧完整画面，然后用约 650 ms 完成交叉淡化。遵循减少动态效果设置；防止重复点击，并在失败时恢复之前的场景。使用内嵌的深色启动背景、限制 DPR、控制粒子数量，且最多缓存两个场景变体。
-
-## 7. 验收
-交付源代码、锁定文件、npm run dev、npm run build 以及静态 dist 输出。验证完整飞行、加速、灵灯/鸟居收集、碰撞无敌、暂停/继续、触控操作、重新开始、查看器和独立槽位导入。检查“对比”两个方向都能保留状态，不出现白屏帧或持续增长的 GPU 资源占用。检查房屋接地、飞行器轮廓、螺旋桨运动、光照可读性和慢速加载恢复。报告实际测试结果和性能测试条件。按照下方共享工作流生成资产并返回。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [查看原帖](https://x.com/thebuggeddev/status/2096467585785286808) · [在线演示](https://komorebi-forest-flight.tripo.page/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="surface-climbing-procedural-insect-2096460081982304546"></a>
-
-### 沿表面爬行的程序化昆虫
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/180bfc6400787d7a531ec7bdc8c33161f9a94bfdd166b8f490d2f03fed90abe2.webp" width="840" loading="lazy" alt="沿表面爬行的程序化昆虫"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-制作能够贴着不同表面行走的多足 3D 昆虫，让腿部与身体在跨越高度变化时协调运动。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [查看原帖](https://x.com/leo_xiaolei/status/2096460081982304546) · [在线演示](https://threerocks.github.io/web-3d-pages/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096438110095585753"></a>
-
-### 重制 Lego 1999 Racers
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/eadc2c49ec0c9896087cb2efa4ccc31733fb118023f46791eb56fd594c96758f.webp" width="840" loading="lazy" alt="重制 Lego 1999 Racers"></a>
-
-**提示词**
-
-```text
-完整重制知名赛车游戏 Lego 1999 Racers。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-إعادة بناء لعبة السيارات الشهيرة Lego 1999 Racers بالكامل.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096438110095585753) · [查看原帖](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [返回案例导航](#all-prompts)
-
----
-
-<a id="playable-d4-inspired-apartment-2096413869841473930"></a>
-
-### 可游玩的 D4 风格公寓
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/cb01061a6f625c0910e02e414d9825df2a6bf0f1b2fb460c1f56fdfd0d1e28cd.webp" width="840" loading="lazy" alt="可游玩的 D4 风格公寓"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-研究 D4 主角的公寓，将其重建为可游玩的 3D 原型。对照参考资料检查布局与交互，不要假定结果已经精确还原。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [查看原帖](https://x.com/Swery65/status/2096413869841473930) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.3.md) · **4 / 10** · [→](catalog.zh.5.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>

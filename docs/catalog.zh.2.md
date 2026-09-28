@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [体素风足球动画](#claude-opus-5-5-2102739444256383089)
+- [虚构行星互动网站](#claude-opus-5-5-2102729710174196022)
+- [中世纪城堡浏览器动画](#gpt-6-astra-2102672926285713456)
+- [使用 Claude Opus 5 制作的 Tripo 3D 宣传片](#tripo-claude-opus-5-5-paper-cut-3d-short)
+- [单个 HTML 文件中的 3D 卡丁车竞速游戏](#gpt-6-astra-2102652927177617564)
+- [交互式欧拉霓虹流体模拟](#claude-opus-5-5-2102565611473661963)
+- [日式樱花山谷交互式 3D 景观网页](#claude-opus-5-5-2102565403109085669)
+- [Hundenberg 事故模型与逼真视频](#claude-opus-5-5-2102547809140355250)
 - [基于图片的手球场 360° 3D 渲染](#claude-opus-5-5-2102544406117286004)
 - [根据图片制作程序化 Three.js 3D 主菜单背景](#claude-opus-5-5-2102544196808667471)
 - [自动运行的 3D 鲁布·戈德堡机械装置](#claude-opus-5-5-2102544078927741369)
@@ -70,16 +78,456 @@
 - [地下车站中的AAA CGI超自然格斗短片](#gpt-6-astra-2100233407108137349)
 - [交互式公寓漫游与瓷砖方案选择](#gpt-6-astra-2100222426705453318)
 - [PC 版《喷射战士》的开发与画面还原](#gpt-6-astra-2100193512373592313)
-- [带可动家具的交互式 3D 房间场景](#gpt-6-astra-2100139076816916977)
-- [根据参考图片制作可动的 3D 空间和游戏角色](#gpt-6-astra-2099850719839109597)
-- [可抵达的程序化太空探索游戏](#gpt-6-astra-2099785223827259515)
-- [苹果风格爱心与笑脸 3D 表情](#gpt-6-astra-2099750376530657300)
-- [交互式 3D 生物神经系统面板](#gpt-6-astra-2099719427990134984)
-- [会逃离的船只与交互式火山岛](#gpt-6-astra-2099643231659012553)
-- [创建酒店走廊场景](#gpt-6-astra-2099588840419651890)
-- [战士攀上巨人，重击其下颌](#gpt-6-astra-2099519801139908951)
 
 </details>
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 体素风足球动画
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="体素风足球动画"></a>
+
+**提示词**
+
+```text
+使用 Three.js（CDN）创建一个单独的 HTML 文件，实现简单的体素风足球动画。一名方块风格球员带球突破 2 名防守球员，以精彩进球得分，并触发庆祝粒子效果。整体呈现色彩缤纷的体育场风格。仅输出完整的 HTML 代码。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089) · [查看原帖](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 虚构行星互动网站
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="虚构行星互动网站"></a>
+
+**提示词**
+
+```text
+构建一个关于虚构行星的互动网站。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022) · [查看原帖](https://x.com/Kappaemme1926/status/2102729710174196022) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### 中世纪城堡浏览器动画
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="中世纪城堡浏览器动画"></a>
+
+**提示词**
+
+```text
+创建一个完全在浏览器中运行的 3D 动画。动画场景为一座中世纪城堡，城堡坐落在一片广袤森林中的山顶上。不要添加任何键盘控制，只需让镜头围绕城堡旋转，使我们能够从各个角度看到城堡。城堡塔楼顶部应有一面随风飘动的旗帜。
+
+输出应包含一个 index.html 文件，执行该文件后显示城堡并开始循环播放动画。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102672926285713456) · [查看原帖](https://juhapalomaki.fi/blog/castle-model-comparison/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
+
+### 使用 Claude Opus 5 制作的 Tripo 3D 宣传片
+
+[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="使用 Claude Opus 5 制作的 Tripo 3D 宣传片"></a>
+
+**提示词**
+
+```text
+1. 项目目标
+制作一部约 44 秒、可交互的动画短片，标题为“Claude × Tripo”。一颗橙色的小 Claude 火花落在手工纸艺书桌上，在 Tripo 品牌笔记本电脑中绘制或输入五个有趣的想法，并见证这些创作逐一获得生命。观众可以观看、暂停、拖动进度、重播、切换画面比例、开启声音或录制动画。这是一部经过编排的短片，不包含配乐、战斗或胜负条件。复现所提供的视频和场景构图。
+
+2. 视觉风格
+使用层叠式纸艺立体场景，呈现撕纸质感的奶油色边缘、油画棒颗粒、涂鸦、方格纸细节和午夜蓝天空。在牛皮纸书桌后方叠放弦月、暖黄色星星、蓝色纸艺山丘和一座小镇。将打开的笔记本电脑放在左侧，Claude 放在中央附近，右侧放置一个小型圆形展示台。保持暖橙色、淡紫色、薄荷绿、奶油黄和奶油色点缀。使用透视摄像机，在远景和特写之间平缓移动；通过按深度分层的平面剪纸元素制造视差。采用分层的卡通光照、冷色轮廓光、克制的描边、柔和阴影，并在最后添加纸张颗粒和暗角效果。结尾使用白色相机闪光，随后出现一张略微倾斜、用胶带贴住的宝丽来照片，展示全体角色。开场、每次创作揭示以及全员登场结尾的构图都要匹配参考画面。
+
+3. 场景与故事
+让所有姿态和摄像机状态都由单一的确定性 update(t) 驱动，从而直接跳转到任意时间戳时，无需重放之前的画面就能得到正确帧。在一份共享时间表中定义所有故事节点。Claude 约在 0.55 秒时出现，约在 1.7 秒时落地，并在 2.92 秒时唤醒笔记本电脑。约在 7.2 秒揭示面包猫，13.85 秒揭示蜗牛小屋，19.8 秒揭示烤面包机火箭，26.1 秒揭示茶壶章鱼，33.3 秒揭示天空鲸鱼。火箭约在 21.25 秒发射，并在 24.05 秒返回。鲸鱼在约 35–37 秒时游过全员上方。相机闪光发生在 40.5 秒，44.2 秒结束。平滑衔接镜头，并使用缓动式预备动作、弹簧式过冲、挤压与拉伸、小幅跳跃和逐渐衰减的摇摆。切换场景时避免突然重置。
+
+4. 资产列表
+- claude-spark：一个扁平的橙色十二射线火花，带奶油色撕纸边缘和友好的动画表情。它会眨眼、看向当前动作、微笑、脸红，并切换开心、眩晕和闪光眼睛。两条射线会伸展成手臂，触碰按键、图画和其他角色。将其面部和手臂行为保留为程序化着色器；静态导出无法体现这个角色的身份特征或表演效果。
+- cat：一个金色面包形猫咪，身体圆润，带烘烤焦痕、小耳朵、爪子、尾巴、亮晶晶的眼睛、粉色脸颊和胡须。它出现在展示台上，旋转供人查看，接受抚摸，最后在书桌前方安定下来。
+- snail：一只淡绿色蜗牛，背着一座奶油色小屋；小屋带珊瑚色屋顶、烟囱、发光窗户和迷你花箱。抬起和滑动过程中，要保持眼柄清晰可辨、房屋直立且面部可见。
+- toaster：一台薄荷绿色烤面包机，带珊瑚色饰边和拉杆、圆润的奶油色细节、小型火箭翼以及底部喷口。它伴随橙色火焰、喷气 puff 轨迹和掠过摄像机的音效升空，随后返回。火焰和烟雾必须作为独立效果处理。
+- octopus：一个粉色与淡紫色相间的茶壶生物，带六条柔韧触手、壶嘴和把手、欢快的表情、金色单片眼镜和紫色领结。为触手制作动画，加入倾斜动作和小步行走。触手姿态要与僵硬的茶壶主体分开控制。
+- whale：一条蓝色天空鲸鱼，带奶油色腹部、鳍和富有表情的面孔，背着一座长满青草的迷你小镇，以及彩色小屋、树木和条纹灯塔。它是体型最大的创作，必须在结尾全员登场时保持突出。灯塔光束作为独立的透明效果处理。
+- environment：书桌、笔记本电脑、台灯、铅笔杯、盆栽、展示台、纸艺天空与小镇层、便签和铅笔。全程重复使用这些元素。纸张背景、笔记本电脑界面、涂鸦、粒子、烟雾、光束和后期处理都保持为程序化效果。
+保持稳定的资产标识符，并分别为世界空间摆放、自转/挤压以及可活动部件设置独立变换。保留源项目的比例和配色。便携式 GLB 版本可以使用标准材质和静态姿势；不要声称其中包含自定义揭示着色器、角色表演或完整动画。
+
+5. 交互与反馈
+提供播放/暂停、重播、带已用时长/总时长的进度条、1:1 / 16:9 / 9:16 画面比例选项、声音开关、纯净视图和录制功能。空格键切换播放；R 键重播；H 键或 C 键切换纯净视图；Escape 键恢复控件；M 键切换声音；左右方向键按 1 秒跳转，Shift 键将步长缩短至 0.1 秒。确保控件在窄屏触摸设备上也易于使用。声音只能在用户手势后启动；浏览器阻止自动播放音频时，提供“带声音播放”选项。拖动进度和重播时，要从正确时间点重新启动声音。结束时停止播放并提供重播选项。
+笔记本电脑显示当前绘制或输入的想法、动画进度条和完成标记。屏幕上的 Generate 操作属于预先编排好的动画：现有短片使用程序化几何体，并不会调用模型生成 API。每个创作都从底部向上揭示，最初呈淡紫色黏土质感，随后用暖色发光扫描带为其填充颜色。让 Claude 的视线和手臂动作与这些事件同步。
+
+6. 技术实现与音频
+使用 JavaScript ES 模块和基于 WebGL 的 Three.js r170、自定义着色器、CanvasTexture 以及 Web Audio API。将应用和字体打包为同源静态资源，并采用可复现构建；不得使用运行时 CDN 或私有服务凭据。控件使用本地 Fredoka 字体，手写文本使用 Caveat 字体。适配三种画面比例下的摄像机距离和渲染尺寸，限制过高的像素密度，并将导出资源排除在页面初始网络请求之外。
+使用 Web Audio 合成配乐和音效。配乐包含音乐盒 FM 音色、经滤波的拨弦三角波贝斯、木琴、轻柔的失谐铺底、底鼓、拍手/沙锤、生成式混响和最终压缩。让第 0 小节与笔记本电脑在 2.92 秒唤醒的时间点对齐，让第 16 小节与 40.5 秒的闪光对齐，速度约为 102 BPM；循环和弦为 F–Dm–B-flat–C。在指定故事节点加入铅笔、键盘、呼啸、啵声、弹簧声、猫、鲸鱼、火箭和快门音效。根据火箭相对于摄像机的运动为引擎声进行声像定位和塑形。将配乐分成较小的离线片段渲染后组装成一个缓冲区；由活动音频时钟驱动画面，并在音频时钟卡顿时提供回退机制。录制时应将画布视频与配乐合并，并导出浏览器支持的格式。正常播放或浏览器录制不得依赖源项目中可选的本地 Python 捕获服务器。
+
+7. 完成标准
+交付可编辑源文件、固定版本的依赖、静态构建、启动说明和可用的短片。验证在 8、15、22、28、36 和 41 秒附近直接跳转；重播和暂停必须保持确定性状态。将全员登场构图与参考视频进行比对。确认音频解锁、静音、重播同步，以及包含两条轨道的实际录制下载。检查正方形、横屏和竖屏构图，以及桌面端和窄屏控件。在父站点的隔离 iframe 中验证托管页面，确保没有缺失字体、被阻止的脚本或外部资源错误。独立检查可复用 GLB 的几何体、朝向、材质和包围盒是否正确；其封面必须展示实际文件。记录便携式资产与动画着色器版本之间的所有差异。
+
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102652927177617564"></a>
+
+### 单个 HTML 文件中的 3D 卡丁车竞速游戏
+
+[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="单个 HTML 文件中的 3D 卡丁车竞速游戏"></a>
+
+**提示词**
+
+```text
+在单个 HTML 文件中制作一款 3D 卡丁车竞速游戏。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102652927177617564) · [查看原帖](https://x.com/realanshull/status/2102652927177617564) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565611473661963"></a>
+
+### 交互式欧拉霓虹流体模拟
+
+[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="交互式欧拉霓虹流体模拟"></a>
+
+**提示词**
+
+```text
+编写一个完整的单文件 HTML 文档，其中包含高性能、GPU 加速的交互式欧拉霓虹流体模拟。
+
+严格的技术与美术要求：
+
+1. 架构与性能：
+   - 单文件：所有 HTML、CSS 以及 JavaScript/GLSL 着色器均须内联。
+   - 零外部依赖：使用纯 WebGL 1.0 或 2.0（不得使用 Three.js、Pixi 或其他外部库）。
+   - GPU 流体动力学计算：模拟必须完全通过乒乓式帧缓冲对象（FBO）运行，并使用自定义片元着色器实现：
+     a) 平流（速度与染料）
+     b) 散度计算
+     c) 压力泊松求解器（雅可比迭代，每帧迭代 20–30 次）
+     d) 梯度减法 / 速度投影
+     e) 涡量约束（增加湍流旋涡，防止流体变成沉闷、模糊的一团）。
+
+2. 视觉效果（“霓虹烟雾”风格）：
+   - 漆黑如墨的虚空背景（`#050508`）。
+   - 为染料注入启用加法 / 高动态范围混合。
+   - 动态调色板：每次光标快速划动或触摸拖拽都要注入高亮度霓虹染料，并在鲜艳的赛博色调之间平滑循环（电光青 `#00F0FF`、炽热洋红 `#FF007F`、深紫外和 radiant gold）。
+   - 显示着色器增强：在最终渲染着色器中直接加入后处理阶段，为流体翻涌的边缘应用细微的泛光、色调映射和色差效果。
+
+3. 交互：
+   - 鼠标与触摸：快速移动光标或拖拽时，注入与鼠标速度成正比的速度，同时注入高密度发光染料。
+   - 被动环境运动：闲置时生成细微的程序化卷曲噪声或缓慢漂移的涡旋，使画布不会完全静止。
+   - 控件：在角落放置简洁利落、极简至上的玻璃拟态 HUD（无操作时自动隐藏）：
+     * 黏度滑块
+     * 染料耗散 / 持久度滑块
+     * 喷溅半径滑块
+     * “清空画布”按钮
+     * 用于循环切换配色主题的按钮（赛博朋克、热能炼狱、生物荧光深海）。
+
+4. 生产级打磨：
+   - 自动处理高 DPI 显示屏和 `resize` 事件，不得拉伸画面或清空 FBO 纹理。
+   - 优雅地检测浮点纹理支持情况（`OES_texture_float` / `OES_texture_half_float`）。
+   - 代码整洁、无错误且完整实现，不得包含任何占位内容或截断的注释。
+
+只返回完整填充、可直接在 Chrome/Safari/Firefox 中运行的 HTML 文件。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565611473661963) · [查看原帖](https://x.com/theailoser/status/2102565612874596411) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565403109085669"></a>
+
+### 日式樱花山谷交互式 3D 景观网页
+
+[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="日式樱花山谷交互式 3D 景观网页"></a>
+
+**提示词**
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565403109085669) · [查看原帖](https://x.com/dotey/status/2102565403109085669) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102547809140355250"></a>
+
+### Hundenberg 事故模型与逼真视频
+
+[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg 事故模型与逼真视频"></a>
+
+**提示词**
+
+```text
+在 Blender 中制作 Hundenberg 的模型，并生成一段逼真的事故视频。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102547809140355250) · [查看原帖](https://x.com/aimanhasnoname/status/2102547809140355250) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102544406117286004"></a>
 
 ### 基于图片的手球场 360° 3D 渲染
@@ -2091,453 +2539,7 @@ I want you to build a completely realistic HD 3D render model in blender, then b
 
 ---
 
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### 带可动家具的交互式 3D 房间场景
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="带可动家具的交互式 3D 房间场景"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**提示词**
-
-```text
-根据我提供的房间照片，使用 Blender MCP 构建交互式 3D 场景，并将其渲染为演示视频。加入可动部件的运动效果（铰链、门和抽屉），并使用合理的镜头运动来展示这些效果。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100139076816916977) · [查看原帖](https://x.com/walterzhu8/status/2100139076816916977) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### 根据参考图片制作可动的 3D 空间和游戏角色
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="根据参考图片制作可动的 3D 空间和游戏角色"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**提示词**
-
-```text
-【提前准备】
-・想要制作的世界观参考图片（外观、房间等）
-・角色正典图片（三视图等）
-　※没有图片就无法还原，请附上图片哦。
-
-【提示词】
-根据你附上的图片，以专业品质设计出真正可以活动的、体现我的世界观和角色的 3D 空间与游戏角色。
-
-① 查看附上的图片，确认房屋和角色的形状、颜色与设计细节
-　↓
-② 使用 Tripo 根据图片生成 3D 模型（正面、背面、侧面三张全身图，且保持相同的宽高比）
-　↓
-③ 导入 Blender，调整各部件的位置和尺寸
-　↓
-④ 设置自动骨骼绑定，为角色添加符合其个性的动作，例如行走、摇摆等
-　↓
-⑤ 如果遇到需要判断的分支（例如使用付费资产），请在继续之前向我确认
-　↓
-⑥ 详细记录工作内容、遇到的问题以及素材位置，确保其他 AI 阅读后也能复现整个流程
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099850719839109597) · [查看原帖](https://x.com/aiehon_aya/status/2099850721646784894) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### 可抵达的程序化太空探索游戏
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="可抵达的程序化太空探索游戏"></a>
-
-**提示词**
-
-```text
-我能看到的一切都应该可以抵达。保持真实的距离尺度，再通过尺度和速度让旅行变得可行。我希望能够从太空飞入行星大气层，一路抵达地面。行星可以大到地球的规模，因此我们需要程序化地形和分块渲染器。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099785223827259515) · [查看原帖](https://developers.openai.com/blog/how-to-build-games-with-astra) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### 苹果风格爱心与笑脸 3D 表情
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="苹果风格爱心与笑脸 3D 表情"></a>
-
-**提示词**
-
-```text
-苹果风格爱心表情和笑脸表情 3D 模型
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099750376530657300) · [查看原帖](https://x.com/Just_sharon7/status/2099751278234767673) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### 交互式 3D 生物神经系统面板
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="交互式 3D 生物神经系统面板"></a>
-
-**提示词**
-
-```text
-交互式面板。左侧显示 [organism] 的神经系统示意图，并设有可点击区域。右侧显示经过程序化骨骼绑定的 3D [organism]。点击某个区域后，触发持续 2.5 秒的运动响应。深色 UI，显示速度和航向遥测数据。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099719427990134984) · [查看原帖](https://x.com/AIMind_Ai/status/2099719427990134984) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099643231659012553"></a>
-
-### 会逃离的船只与交互式火山岛
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="会逃离的船只与交互式火山岛"></a>
-
-**提示词**
-
-```text
-构建一个带有流动熔岩和逃离船只的交互式火山岛。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-build an interactive volcanic island with flowing lava and boats that flee.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099643231659012553) · [查看原帖](https://x.com/WescheNex1q/status/2099643231659012553) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099588840419651890"></a>
-
-### 创建酒店走廊场景
-
-[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="创建酒店走廊场景"></a>
-
-**提示词**
-
-```text
-创建酒店走廊场景
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-create hotel corridor scene
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099588840419651890) · [查看原帖](https://x.com/MyWestLord/status/2099588840419651890) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099519801139908951"></a>
-
-### 战士攀上巨人，重击其下颌
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="战士攀上巨人，重击其下颌"></a>
-
-**提示词**
-
-```text
-角色设定：
-仅有一名成年男性山地战士。
-他身材紧凑、肩宽体壮，力量极强。他穿着原创的深枪灰色中世纪奇幻板甲：封闭式尖顶头盔、层叠肩甲、关节式臂甲、厚重护手、加固胸甲、皮革腰甲片、深色长裤、钢制胫甲和厚重装甲靴。铠甲因暴风雨而陈旧、布满划痕并被雨水打湿。
-他只携带一把巨大的双手战锤。战锤由一根加固的深色金属长柄和一个沉重、对称的矩形锤头组成。整个过程中，武器的长度、形状和重量保持不变。在跳跃、攀爬和攻击时，他都用双手操控战锤。
-仅有一名巨大的有机类人巨人，其身高超过战士的三十倍。它拥有极其宽阔、肌肉发达的肩膀，异常修长的手臂，巨大的类人手掌，粗糙的炭灰色皮肤，可见的毛孔和伤疤，厚重的眉骨，宽鼻，强壮的下颌，以及纠结垂落的黑色长发。它是有机的活体巨人，不是雕像、机器人、机器或石头魔像。
-不得出现其他战士、巨人或背景军队。
-环境：
-狂风席卷的高地战场，位于猛烈的蓝灰色雷暴之下。崎岖不平的地面覆盖着深色湿土、被压倒的草和数千朵浅色小花。强风以不规则的波浪状吹弯草叶和花朵。
-远处左侧画面的一座山丘上矗立着一座残破的中世纪堡垒。残存的塔楼穿过低空飘移的雾气依稀可见。闪电间歇性地照亮堡垒和雷云。
-巨人位于战场画面右侧。战士从前景中央开始，朝巨人奔跑。每次剪辑都必须保持这一地理关系和画面方向。
-按时间顺序的动作与镜头：
-0.00–3.30——冲向巨人
-立即从低机位后方跟拍开始，镜头紧贴在铠甲战士身后，拍摄他有力地穿过湿润的原野，朝巨大的巨人奔去。
-他双手将战锤横置在身前。沉重的锤头始终朝向画面右侧，较低的锤柄延伸向画面左侧。他的战靴每一步都压实湿润地面，只有发生实际接触后，才将泥土、被踩碎的花朵和水滴向后溅起。
-巨人的双腿和巨大的右手从画面右上方进入。巨人弯下身，将张开的手掌伸向迎面冲来的战士，意图将他从地面铲起。
-手指应独立运动，关节和重量感真实可信。巨人不能瞬间抓住战士，也不能让战士瞬移。
-镜头保持低位、快速且平滑的运动，突出双方极端的尺度差异。远处画面左侧的堡垒始终清晰可见。
-3.30–5.80——跃上巨人的手掌
-当巨人张开的手掌低低扫过战士的行进路线时，战士用右脚稳稳蹬地。他屈膝压低身体，髋部下沉，后腿向上蹬出。
-他完成一次有力的向前跳跃。
-战士在巨人分开的手指前方上升时，使用受控的电影感慢动作。双腿在身下略微收起，同时双手将同一把战锤举过肩部，以保持平衡。
-战士双脚落在巨人中指和无名指的手背上。明确表现实际接触：战靴触碰皮肤，膝盖吸收冲击，巨人的肉体略微凹陷，战士的铠甲对着陆产生相应反应。
-巨人开始将手掌抬向自己的脸。战士不能漂浮或悬挂在空中。
-使用戏剧性的低角度升降镜头，从战士下方向上移动，巨大的手掌充满背景。
-5.80–9.00——沿手臂向上奔跑
-恢复快速、自然的动作速度。
-巨人抬起手臂时，战士从手指沿手背跑到手腕。他的脚步应正确交替，并清晰地抓住不断移动且凹凸不平的表面。
-巨人旋转手腕，试图将他甩下。战士降低重心、扩大站距，并让战锤贴近躯干，直到手臂稳定下来。
-随后他沿巨人的前臂加速跑向肘部。每一步都跟随手臂不断变化的角度；战靴不能在皮肤表面滑动穿行。
-镜头从战士侧面略低的位置跟拍，沿巨人手臂的长度向上升起。手臂的近处部分快速掠过前景，而巨人的头部和远处堡垒移动得更慢，形成强烈的视差和尺度感。
-9.00–12.00——攀上肩部
-战士抵达上臂，此处手臂陡峭地向上延伸至巨人的肩部。
-他将一只前臂和战锤长柄抵住肌肉的天然凸脊借力，稳稳踩下右脚，发力蹬腿并拉起身体，以一个连贯的攀爬动作登上肩部。
-巨人转头看向他。它的眼睛追踪战士，眉头收紧，下颌张开，发出深沉的非语言咆哮。头部转动带动头发和皮肤运动。
-战士通过真实的手部和战靴接触保持在肩上。他沿上肩部斜向攀爬，朝巨人颈部根部前进。
-使用近距离侧向跟拍镜头，在同一画面中清晰呈现完整的战士、战锤以及巨人的面部侧影。
-12.00–15.00——全力挥锤击中下颌
-战士抵达巨人颈部附近倾斜肩部上的稳定位置。
-他将左脚向前踏稳，右脚支在后方。双脚都要清晰地压住巨人的皮肤。他将髋部转离目标，并用双手向后收起战锤。
-完整展示击打前的准备动作：
-双脚站稳 → 膝盖压缩 → 髋部蓄力 → 躯干旋转 → 肩膀向后带动战锤 → 双臂将沉重的锤头引导至起始位置。
-在 13.00 秒时，战士用双手完成一次朝巨人下颌的完整水平挥击。
-力量应连续地从双腿传递至髋部、躯干、肩膀和双臂。锤头沿一条清晰且不中断的弧线运动。挥击完成前，锤头不能跳变位置，也不能提前接触面部。
-在 14.00 秒时，进入明确的超慢动作，表现决定性接触。
-矩形锤头以宽大的击打面击中巨人下颌侧面，而不是用锤柄或握柄接触。表现撞击周围的皮肤和面颊组织受压，巨人下颌向侧面偏移，散乱的头发向外甩动，并产生雨水、尘土和皮肤碎屑的放射状爆散。
-战士的双臂抵抗突然减速。肩膀向后回弹，同时身体以受控的收势动作继续完成挥击。
-不得出现鲜血、裸露组织、血腥画面或肢解。
-15.00–17.30——巨人后仰，战士坠落
-立即恢复自然速度。
-巨人的头部因撞击猛地向侧面甩去。其上半身向后仰，受击一侧的肩膀骤然下沉。突如其来的向下运动使战士失去立足点，将他从巨人身边甩出。
-战士双手仍握着同一把战锤，朝战场坠落。他不能漂浮，也不能进行额外跳跃。
-切换至贴地侧面视角。他的战靴先着地，膝盖在惯性作用下塌下，随后向一侧肩膀翻滚一周。锤头击中身旁的泥土，挖出一道浅沟，将湿土和浅色花朵向外溅开。
-巨人的巨大面孔从画面右上方下探，它努力恢复平衡。它不能碾压战士，也不能与战士发生穿插。
-17.30–20.00——恢复姿态，最终对峙
-战士以低跪姿停下翻滚。
-他将战锤头插入泥土，双手握住锤柄，以其为支撑稳定地起身至单膝跪地。随后他拔出战锤，将锤柄横置在肩膀前方，摆出准备防御的姿态。
-巨人将巨大的头部低低俯向他，下颌因受击明显肿胀，但仍保持清醒并充满威胁。它的呼吸吹动草、花、雾气和战士铠甲上松动的皮革甲片。
-战士只在短暂而坚定的停顿中保持静止，同时呼吸和铠甲仍保留细微自然的运动。
-一道闪电照亮画面左侧的残破堡垒，勾勒出两人的轮廓，并进一步确认双方巨大的尺度差异。
-在恰好 20.00 秒时结束于低机位宽幅构图：战士跪在铺满花朵的前景中，战锤处于待击状态；巨人的面孔在他上方俯视，远处堡垒穿过暴风雨清晰可见。
-不得淡出至黑屏。不得使用定格画面、标题或片尾卡。
-动作物理锁定：
-所有动作都必须遵循清晰可读的物理因果关系：
-奔跑：脚部接触 → 重心转移 → 后腿蹬地 → 下一步。
-跳跃：脚部站稳 → 膝盖压缩 → 腿部伸展 → 腾空轨迹 → 着地接触 → 膝盖吸收冲击。
-攀爬：手部或武器支撑 → 战靴踩稳 → 体重转移 → 向上拉起。
-战锤击打：双脚稳定 → 髋部蓄力 → 躯干旋转 → 肩部驱动 → 战锤连续运动 → 锤头宽面接触 → 抵抗冲击 → 收势。
-坠落：巨人后仰导致失去立足点 → 重力驱动下落 → 战靴接触地面 → 膝盖塌下 → 肩部翻滚 → 恢复姿态。
-战士绝不能在地面、手掌、手臂和肩部之间瞬移。除非有直接的物理接触或可见的外力，否则巨人不能移动战士。
-动作速度规则：
-0.00–3.30：快速自然的奔跑速度。
-3.30–5.80：跳跃和着陆使用受控的电影感慢动作。
-5.80–13.90：自然的快速动作。
-13.90–15.00：仅在战锤最后的接近、接触和即时形变过程中使用明确的超慢动作。
-15.00–20.00：清晰恢复自然速度。
-不得全局应用慢动作。慢动作中的角色不得悬浮。
-灯光与色彩：
-保持冷钢蓝、炭灰和低饱和银色的暴风雨色调。闪电提供短暂的冷白色方向光。湿润铠甲呈现窄幅银色高光，同时保持巨人深色皮肤的细节和可读性。
-浅色花朵提供克制的暖象牙色对比，不要让场景变得色彩鲜艳。远处堡垒周围保持浓重的氛围雾。闪电曝光变化必须短暂，不能抹去角色解剖结构或遮蔽缺失的动作。
-音频：
-仅使用同步的场景内环境音和动作音效。绝对不要背景音乐或配乐。
-加入暴风雨中的风声、远处雷声、铠甲摩擦声、沉重的奔跑脚步声、受扰动的泥土声、弯折草叶声、巨人的非语言呼吸声和咆哮声、巨手挥动时的破风声、战士的跳跃声、战靴接触皮肤的声音、攀爬撞击声、战锤运动声、一次深沉的金属战锤撞击声、巨人后仰声、坠落时的风声、铠甲撞击泥土的声音、锤头击中地面的声音，以及最后近距离的闪电炸裂声。
-不得出现对白、旁白、口语、吟唱、歌词或任何可辨识的语言。
-连续性与失败预防：
-全程只出现一名战士、一名巨人和一把战锤。
-战士只攀爬巨人一次，并且只完成一次决定性的战锤攻击。
-战锤不得复制、改变尺寸、漂浮、弯曲、穿过任一身体，也不得在没有可见动作的情况下切换握持的手。
-每个镜头中的巨人都必须是同一个有机类人生物。不得出现机器人特征、石化变形、重复手掌、多余手指或不断变化的面部。
-始终保持战士的铠甲、头盔、比例和受损状态一致。
-保持巨人右手—右臂—肩部的攀爬路线，使攀爬地理关系在物理上成立。
-不得出现手部融合、多余肢体、关节反转、战靴滑动、身体穿插、瞬移或无支撑悬浮。
-完成整套挥击后，必须清晰呈现战锤宽大的锤头，而非锤柄，与巨人的下颌接触。
-不得出现鲜血、血腥画面、裸露组织、人体被压碎或肢解。
-不得出现真人实拍质感、可识别的影视或游戏系列角色、字幕、说明文字、标志、UI、播放控件叠加层、永久黑边或水印。
-任何背景音乐或配乐都会导致生成失败。
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-CHARACTER REGISTRY:
-Exactly one adult male mountain warrior.
-He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
-He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
-Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
-No additional warriors, giants or background armies.
-ENVIRONMENT:
-A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
-A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
-The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
-CHRONOLOGICAL ACTION AND CAMERA:
-0.00–3.30 — CHARGE TOWARD THE GIANT
-Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
-He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
-The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
-The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
-Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
-3.30–5.80 — LEAP ONTO THE GIANT’S HAND
-As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
-He performs one powerful forward jump.
-Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
-The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
-The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
-Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
-5.80–9.00 — RUNNING UP THE ARM
-Return to fast natural action.
-As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
-The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
-He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
-Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
-9.00–12.00 — CLIMB TO THE SHOULDER
-The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
-He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
-The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
-The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
-Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
-12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
-The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
-He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
-Show the complete preparation before impact:
-feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
-At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
-The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
-At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
-The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
-The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
-No blood, exposed tissue, gore or dismemberment.
-15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
-Return immediately to natural speed.
-The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
-The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
-Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
-The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
-17.30–20.00 — RECOVERY AND FINAL STANDOFF
-The warrior stops his roll in a low kneeling position.
-He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
-The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
-The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
-A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
-End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
-Do not fade to black. No freeze frame, title or end card.
-ACTION-PHYSICS LOCK:
-Every action must follow readable physical causality:
-Running: foot contact → weight transfer → rear-leg push → next step.
-Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
-Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
-Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
-Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
-The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
-MOTION-SPEED RULES:
-0.00–3.30: fast natural running speed.
-3.30–5.80: controlled cinematic slow motion for the jump and landing.
-5.80–13.90: natural fast action.
-13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
-15.00–20.00: clear return to natural speed.
-Do not apply global slow motion. Do not allow slow-motion characters to hover.
-LIGHTING AND COLOR:
-Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
-The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
-AUDIO:
-Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
-Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
-No dialogue, narration, spoken words, chants, lyrics or intelligible language.
-CONTINUITY AND FAILURE PREVENTION:
-Exactly one warrior, one giant and one warhammer throughout.
-The warrior climbs the giant once and performs exactly one decisive hammer strike.
-The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
-The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
-Preserve the warrior’s armor, helmet, proportions and damage throughout.
-Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
-No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
-The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
-No blood, gore, exposed tissue, crushed human body or dismemberment.
-No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
-Any background music or musical score is a failed generation.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099519801139908951) · [查看原帖](https://x.com/MadMax_Series/status/2099519801139908951) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.1.md) · **2 / 10** · [→](catalog.zh.3.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>

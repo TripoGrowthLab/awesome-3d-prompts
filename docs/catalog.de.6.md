@@ -28,6 +28,14 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Begehbares Büro mit 32 animierten Menschen](#walkable-office-with-32-animated-people-2096131961345720477)
+- [Abendlicher Kameraflug durch eine Adiyogi-Szene](#adiyogi-evening-fly-through-2096128774203171021)
+- [Formel-1-Auto in Blender](#formula-one-car-in-blender-2096125193580113957)
+- [Lebendige Jetfertigung](#live-jet-manufacturing-plant-2096122429319852319)
+- [Spielbares Remake einer Mobile-Game-Werbung](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
+- [Vom Artwork zur spielbaren Figur](#artwork-to-a-playable-character-2096107343268257953)
+- [Azadi-Turm in Blender](#azadi-tower-in-blender-2096107322536051057)
+- [Rundgang durch den Garten des Suzhou-Museums](#suzhou-museum-garden-walkthrough-2096096998092841449)
 - [Entstehung schwarzer Löcher in WebGL](#black-hole-formation-in-webgl-2096093614397170104)
 - [Futuristisches Motorrad und futuristischer Panzer in Blender](#gpt-6-astra-2096083014845636816)
 - [Prozedurale Züge in Explosionsansicht](#exploding-procedural-train-assemblies-2096082580554777041)
@@ -70,16 +78,168 @@
 - [Van-Gogh-Stadt in Three.js](#van-gogh-town-in-three-js-2095871735824339279)
 - [Mechanisch vollständig modellierte Blender-Lokomotive](#mechanically-complete-blender-locomotive-2095868420327710840)
 - [Blender-Szenenchallenge in 30 Sekunden](#thirty-second-blender-scene-challenge-2095844872171421771)
-- [Three.js-Seeschlacht in einer Gesprächsrunde](#single-turn-three-js-naval-war-scene-2095840435319001278)
-- [Das Oval Office im Wandel der Präsidentschaften](#oval-office-through-the-presidencies-2095830596069290077)
-- [Vom Rezept zum 3D-Käsekuchenfilm](#recipe-to-3d-cheesecake-film-2095829851206774987)
-- [Tidal Rush: Browserrennen mit acht Fahrern](#tidal-rush-eight-racer-browser-game-2095819786651374023)
-- [Interaktive Three.js-Galaxie als Homepage](#interactive-three-js-galaxy-homepage-2095806515579879457)
-- [Echtzeit-WebGL-Galaxie als Launch-Hero](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
-- [Ein Spaziergang durch die Straßen der Sternennacht](#starry-night-streets-you-can-stroll-2095805115580199372)
-- [Reales Haus als bearbeitbare Blender-Szene mit 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 
 </details>
+<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
+
+### Begehbares Büro mit 32 animierten Menschen
+
+[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="Begehbares Büro mit 32 animierten Menschen"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Three.js-Browserbüro mit Ego-Navigation, 32 geriggten Menschen, die Besucher beim Namen begrüßen, anklickbaren Türen, Orbitsteuerung und einer Grundrissansicht.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Originalbeitrag](https://x.com/demgufever82151/status/2096131961345720477) · [Quellcode](https://github.com/Parithosh-Varma/office) · [Live-Demo](https://office-2nw.pages.dev/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
+
+### Abendlicher Kameraflug durch eine Adiyogi-Szene
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Abendlicher Kameraflug durch eine Adiyogi-Szene"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine Adiyogi-Szene in Blender mit weitläufigem Gelände, detaillierten Nahaufnahmen und warmem Abendlicht. Rendere einen 30-sekündigen Kameraflug und bewahre die bearbeitbare Szene auf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Originalbeitrag](https://x.com/thejothiram/status/2096128774203171021) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="formula-one-car-in-blender-2096125193580113957"></a>
+
+### Formel-1-Auto in Blender
+
+[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Formel-1-Auto in Blender"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle durch Computerbedienung ein 3D-Formel-1-Modell in Blender.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Originalbeitrag](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
+
+### Lebendige Jetfertigung
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Lebendige Jetfertigung"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Recherchiere Flugzeugfertigung und baue eine live laufende Three.js-Jetfabriksimulation. Modelliere Maschinenzyklen, Produktionsstationen, Transporte und Engpässe und teste den Ablauf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Originalbeitrag](https://x.com/konstantinsaifo/status/2096122429319852319) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
+
+### Spielbares Remake einer Mobile-Game-Werbung
+
+[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="Spielbares Remake einer Mobile-Game-Werbung"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Nutze eine Mobile-Game-Werbung als Vorlage für ein spielbares Browserspiel. Rekonstruiere ihre Kerninteraktion und passe mit Blender-Assets die visuelle Grundidee an.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Originalbeitrag](https://x.com/buildingadlicio/status/2096111709496680842) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="artwork-to-a-playable-character-2096107343268257953"></a>
+
+### Vom Artwork zur spielbaren Figur
+
+[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="Vom Artwork zur spielbaren Figur"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Rekonstruiere ein Noctavia-Figurenartwork als spielbare 3D-Figur. Bewahre die Designsprache und erstelle ein vollständiges Modell für eine interaktive Präsentation.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Originalbeitrag](https://x.com/noctav1a/status/2096107343268257953) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="azadi-tower-in-blender-2096107322536051057"></a>
+
+### Azadi-Turm in Blender
+
+[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="Azadi-Turm in Blender"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle ein bearbeitbares Blender-Modell des Azadi-Turms. Konzentriere dich auf den ausgestellten Sockel, den kreuzenden Bogen, gemusterte Oberflächen und erkennbare Proportionen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Originalbeitrag](https://x.com/taesiri/status/2096107322536051057) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
+
+### Rundgang durch den Garten des Suzhou-Museums
+
+[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="Rundgang durch den Garten des Suzhou-Museums"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Nutze eine Webseite über das Suzhou-Museum als Referenz und rekonstruiere seinen Garten in Blender. Produziere einen durchgehenden Rundgang, der die Beziehung zwischen moderner Architektur und traditioneller chinesischer Gartenkunst bewahrt.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Originalbeitrag](https://x.com/whosamberella/status/2096096998092841449) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
 ### Entstehung schwarzer Löcher in WebGL
@@ -978,166 +1138,6 @@ Baue unter extremem Zeitdruck eine stimmige Blender-Szene. Priorisiere eine star
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Originalbeitrag](https://x.com/_satyam_ai/status/2095844872171421771) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
-
-### Three.js-Seeschlacht in einer Gesprächsrunde
-
-[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Three.js-Seeschlacht in einer Gesprächsrunde"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle in einer Gesprächsrunde eine detaillierte Seeschlacht in Three.js. Integriere unterschiedliche Schiffe, physikalisch glaubwürdige Wasserinteraktion, Kielwasser und Gischt, Luftkampf, Explosionen, filmisches Licht, Kamerabewegung und performantes Rendering.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Originalbeitrag](https://x.com/synthwavedd/status/2095840435319001278) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
-
-### Das Oval Office im Wandel der Präsidentschaften
-
-[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Das Oval Office im Wandel der Präsidentschaften"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein interaktives Three.js-Projekt zur Veränderung des Oval Office über verschiedene Präsidentschaften. Ermögliche Zeitwechsel, um Möbel, Dekoration und Raumaufteilung zu untersuchen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Originalbeitrag](https://x.com/fMinZhou/status/2095830596069290077) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
-
-### Vom Rezept zum 3D-Käsekuchenfilm
-
-[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Vom Rezept zum 3D-Käsekuchenfilm"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue einen echten Käsekuchen anhand seines Rezepts als Three.js-Szene nach. Modelliere sechs Schichten, Springform und Backpapier getrennt und erstelle eine einminütige Präsentation des Kuchens.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Originalbeitrag](https://x.com/sarit69976/status/2095829851206774987) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
-
-### Tidal Rush: Browserrennen mit acht Fahrern
-
-[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: Browserrennen mit acht Fahrern"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein vollständiges Browser-Kartspiel mit acht Fahrern, drei Runden, Driften, Sammelitems, direkter Physik, verständlichem HUD, attraktiver Grafik und einem Ergebnisbildschirm nach dem Zieleinlauf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Originalbeitrag](https://x.com/amazing13_13/status/2095819786651374023) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
-
-### Interaktive Three.js-Galaxie als Homepage
-
-[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Interaktive Three.js-Galaxie als Homepage"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle einen hochwertigen Launch-Hero mit einer Echtzeit-Three.js-Galaxie. Die Partikel sollen dezent eine Sechs formen und auf Scrollen und Zeigerbewegung reagieren. Erhalte die Textlesbarkeit und reduziere Effekte auf schwächeren Geräten behutsam.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Originalbeitrag](https://x.com/threejsresource/status/2095806515579879457) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
-
-### Echtzeit-WebGL-Galaxie als Launch-Hero
-
-[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="Echtzeit-WebGL-Galaxie als Launch-Hero"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Analysiere die Gestaltung des bereitgestellten Galaxie-Heros und baue sie als Echtzeit-WebGL statt Video nach. Nutze räumliche Partikel, leuchtenden Staub, sanfte Zeigerreaktion, zurückhaltende Typografieflächen und adaptive Performance.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Originalbeitrag](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
-
-### Ein Spaziergang durch die Straßen der Sternennacht
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="Ein Spaziergang durch die Straßen der Sternennacht"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Verbinde sechs Van-Gogh-Gemälde zu einer erkundbaren Stadt, durch deren Sternennacht-Straßen Besucher spazieren können. Entwirf natürliche Übergänge zwischen Bildern, halte den Maßstab einheitlich und ergänze sanfte Umgebungsinteraktionen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Originalbeitrag](https://x.com/BigRyan/status/2095805115580199372) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
-
-### Reales Haus als bearbeitbare Blender-Szene mit 60 FPS
-
-[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="Reales Haus als bearbeitbare Blender-Szene mit 60 FPS"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Rekonstruiere das reale Haus als vollständig bearbeitbare Blender-Szene. Halte Architektur und Einrichtung getrennt, optimiere Geometrie und Materialien und liefere einen lokal gerenderten Rundgang mit konstanten 60 FPS.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Originalbeitrag](https://x.com/alvinfoo/status/2095777502681825541) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

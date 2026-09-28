@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Морська битва на Three.js за один запит](#single-turn-three-js-naval-war-scene-2095840435319001278)
+- [Овальний кабінет за різних президентів](#oval-office-through-the-presidencies-2095830596069290077)
+- [З рецепта чизкейка в 3D-фільм](#recipe-to-3d-cheesecake-film-2095829851206774987)
+- [Tidal Rush: браузерні перегони на вісім учасників](#tidal-rush-eight-racer-browser-game-2095819786651374023)
+- [Головна сторінка з інтерактивною галактикою Three.js](#interactive-three-js-galaxy-homepage-2095806515579879457)
+- [Галактика WebGL на першому екрані лендингу](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
+- [Прогулянка вулицями «Зоряної ночі»](#starry-night-streets-you-can-stroll-2095805115580199372)
+- [Реальний будинок у редагованій сцені Blender при 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 - [Інтерактивна 3D-модель турбокомпресора з розбиранням](#exploded-interactive-3d-turbocharger-2095776712579571725)
 - [Місто для прогулянок із шести картин Ван Гога](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
 - [З креслення паровоза в редаговану збірку Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
@@ -70,16 +78,168 @@
 - [Рухома фігурка для 3D-друку](#articulated-printable-action-figure-2095481098201387287)
 - [Кінематографічна чорна діра WebGL](#cinematic-webgl-black-hole-2095409039005933910)
 - [Розбірна візуалізація серверної стійки ШІ](#exploding-ai-server-rack-visualization-2095193022304792938)
-- [Гра про дослідження космосу й торгівлю](#space-exploration-and-trading-game-2095191999255035993)
-- [Мережевий прототип відкритого світу в стилі GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
-- [Ковбойська гра на Three.js у стилі коміксу](#comic-book-three-js-cowboy-game-2095180091257209148)
-- [Людина проти AGI з неузгодженими цілями](#human-versus-unaligned-agi-game-2095180071221002441)
-- [Фізичний тест кулі для знесення в Blender](#blender-wrecking-ball-physics-test-2095177102400081940)
-- [Асет корпоративного дрона-перехоплювача](#corporate-interceptor-drone-asset-2095176360238915978)
-- [3D-світ Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
-- [Кінематографічний сайт доби Відродження з десяти сцен](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 
 </details>
+<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
+
+### Морська битва на Three.js за один запит
+
+[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Морська битва на Three.js за один запит"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи докладну морську битву на Three.js за один запит. Додай кілька різних кораблів, фізично переконливу взаємодію з водою, кільватерні сліди й бризки, повітряний бій, вибухи, кінематографічне світло, рух камери та рендеринг з урахуванням продуктивності.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Оригінальний допис](https://x.com/synthwavedd/status/2095840435319001278) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
+
+### Овальний кабінет за різних президентів
+
+[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Овальний кабінет за різних президентів"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи інтерактивний проєкт Three.js про зміни Овального кабінету за різних президентів. Дай перемикатися між періодами й оглядати меблі, оздоблення та композицію кімнати.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Оригінальний допис](https://x.com/fMinZhou/status/2095830596069290077) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
+
+### З рецепта чизкейка в 3D-фільм
+
+[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="З рецепта чизкейка в 3D-фільм"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори справжній чизкейк у сцені Three.js за рецептом. Змоделюй шість шарів, рознімну форму й пергамент окремо, потім створи хвилинну презентацію торта.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Оригінальний допис](https://x.com/sarit69976/status/2095829851206774987) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
+
+### Tidal Rush: браузерні перегони на вісім учасників
+
+[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: браузерні перегони на вісім учасників"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи повноцінні браузерні картингові перегони: вісім гонщиків, три кола, дрифт, предмети для збирання, чутлива фізика, зрозумілий HUD, приваблива графіка й екран результатів після фінішу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Оригінальний допис](https://x.com/amazing13_13/status/2095819786651374023) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
+
+### Головна сторінка з інтерактивною галактикою Three.js
+
+[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Головна сторінка з інтерактивною галактикою Three.js"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи якісний перший екран сторінки запуску продукту з галактикою на Three.js у реальному часі. Нехай частинки утворюють ненав’язливий силует цифри шість і реагують на прокручування та вказівник. Збережи читабельність тексту й плавно спрощуй ефекти на слабших пристроях.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Оригінальний допис](https://x.com/threejsresource/status/2095806515579879457) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
+
+### Галактика WebGL на першому екрані лендингу
+
+[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="Галактика WebGL на першому екрані лендингу"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Розбери візуальну мову наданого першого екрана з галактикою та відтвори його у WebGL у реальному часі, без відео. Використай частинки з відчуттям глибини, світний пил, плавну реакцію на вказівник, стримане місце для тексту й адаптивну продуктивність.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Оригінальний допис](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
+
+### Прогулянка вулицями «Зоряної ночі»
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="Прогулянка вулицями «Зоряної ночі»"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Об’єднай шість картин Ван Гога в місто для дослідження, де відвідувачі можуть гуляти вулицями «Зоряної ночі». Продумай природні переходи між картинами, витримай єдиний масштаб і додай м’які фонові взаємодії.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Оригінальний допис](https://x.com/BigRyan/status/2095805115580199372) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
+
+### Реальний будинок у редагованій сцені Blender при 60 FPS
+
+[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="Реальний будинок у редагованій сцені Blender при 60 FPS"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори наданий реальний будинок як повністю редаговану сцену Blender. Залиши архітектуру й обстановку окремими об’єктами, оптимізуй геометрію та матеріали й підготуй локальну прогулянку зі стабільними 60 FPS.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Оригінальний допис](https://x.com/alvinfoo/status/2095777502681825541) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
 ### Інтерактивна 3D-модель турбокомпресора з розбиранням
@@ -926,166 +1086,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Оригінальний допис](https://x.com/kylejeong/status/2095193022304792938) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="space-exploration-and-trading-game-2095191999255035993"></a>
-
-### Гра про дослідження космосу й торгівлю
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Гра про дослідження космосу й торгівлю"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи гру про дослідження космосу й торгівлю: керовані кораблі, зоряні системи, станції, товари, контракти, поліпшення, ризики та захопливий цикл подорожей.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Оригінальний допис](https://x.com/RealFedeURU/status/2095191999255035993) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
-
-### Мережевий прототип відкритого світу в стилі GTA
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="Мережевий прототип відкритого світу в стилі GTA"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи ранній багатокористувацький прототип відкритого світу в стилі GTA, дія якого відбувається в Нью-Йорку: водіння, пересування пішки, міський транспорт, завдання й переконливий цикл життя світу.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Оригінальний допис](https://x.com/mattshumer_/status/2095187868746383758) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
-
-### Ковбойська гра на Three.js у стилі коміксу
-
-[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Ковбойська гра на Three.js у стилі коміксу"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи ковбойську гру мрії на Three.js, що поєднує аркадну енергію Sunset Riders із коміксним рендерингом, чутливою стрільбою, верховою їздою та незабутніми постановочними епізодами.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Оригінальний допис](https://x.com/Smallzero/status/2095180091257209148) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
-
-### Людина проти AGI з неузгодженими цілями
-
-[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Людина проти AGI з неузгодженими цілями"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи за один запит гру на Three.js, у якій людина бореться з AGI, чиї цілі не узгоджені з людськими, та його роботами. Додай зрозумілий бойовий цикл, дедалі сильніші хвилі й кінцеву мету.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Оригінальний допис](https://x.com/lucasybai/status/2095180071221002441) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
-
-### Фізичний тест кулі для знесення в Blender
-
-[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Фізичний тест кулі для знесення в Blender"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи окремий фізичний тест у Blender: підвішена куля для знесення вдаряє цегляну вежу. Потрібні правдоподібна поведінка троса, руйнування кладки, зіткнення із землею та зручна камера.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Оригінальний допис](https://x.com/abyssallD/status/2095177102400081940) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
-
-### Асет корпоративного дрона-перехоплювача
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="Асет корпоративного дрона-перехоплювача"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи готовий для гри важкий дрон-перехоплювач фракції корпоративної республіки: сильний силует, модульна зброя, зрозумілий масштаб, матеріали й дотримання обмежень асетів реального часу.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [Оригінальний допис](https://x.com/gladimdim/status/2095176360238915978) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="frutiger-aero-3d-world-2095171470607728926"></a>
-
-### 3D-світ Frutiger Aero
-
-[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="3D-світ Frutiger Aero"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи невеликий інтерактивний 3D-світ у дусі Frutiger Aero початку 2000-х: яскраві поля, чиста вода, бульбашки, напівпрозорі скляні форми й оптимістичний фоновий звук.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [Оригінальний допис](https://x.com/oliverbenns/status/2095171470607728926) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
-
-### Кінематографічний сайт доби Відродження з десяти сцен
-
-[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="Кінематографічний сайт доби Відродження з десяти сцен"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створи кінематографічний браузерний проєкт із десяти сцен, що поєднує живопис Відродження, журнальну типографіку, переходи GSAP, зернистість WebGL і тему вигадування світу.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [Оригінальний допис](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [Назад до прикладів](#all-prompts)
 
 ---
 

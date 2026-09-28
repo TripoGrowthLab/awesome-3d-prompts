@@ -28,6 +28,14 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Voksel tarzı futbol animasyonu](#claude-opus-5-5-2102739444256383089)
+- [Hayali gezegenler hakkında etkileşimli web sitesi](#claude-opus-5-5-2102729710174196022)
+- [Orta Çağ kalesi tarayıcı animasyonu](#gpt-6-astra-2102672926285713456)
+- [Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi](#tripo-claude-opus-5-5-paper-cut-3d-short)
+- [Tek bir HTML dosyasında 3B kart yarışı](#gpt-6-astra-2102652927177617564)
+- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](#claude-opus-5-5-2102565611473661963)
+- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](#claude-opus-5-5-2102565403109085669)
+- [Hundenberg kaza modeli ve gerçekçi video](#claude-opus-5-5-2102547809140355250)
 - [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](#claude-opus-5-5-2102544406117286004)
 - [Bir görselden prosedürel Three.js 3B ana menü arka planı](#claude-opus-5-5-2102544196808667471)
 - [Kendi kendine çalışan 3B Rube Goldberg makinesi](#claude-opus-5-5-2102544078927741369)
@@ -70,16 +78,612 @@
 - [Yeraltı İstasyonunda AAA CGI Doğaüstü Dövüş Kısa Filmi](#gpt-6-astra-2100233407108137349)
 - [Fayans seçenekleriyle interaktif daire turu](#gpt-6-astra-2100222426705453318)
 - [PC için Splatoon geliştirme ve grafiklerin yeniden oluşturulması](#gpt-6-astra-2100193512373592313)
-- [Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi](#gpt-6-astra-2100139076816916977)
-- [Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma](#gpt-6-astra-2099850719839109597)
-- [Erişilebilir prosedürel uzay keşif oyunu](#gpt-6-astra-2099785223827259515)
-- [Apple tarzı 3B kalp ve gülümseyen emoji](#gpt-6-astra-2099750376530657300)
-- [Etkileşimli 3B organizma sinir sistemi paneli](#gpt-6-astra-2099719427990134984)
-- [Kaçan teknelerin bulunduğu etkileşimli volkanik ada](#gpt-6-astra-2099643231659012553)
-- [Bir otel koridoru sahnesi oluştur](#gpt-6-astra-2099588840419651890)
-- [Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor](#gpt-6-astra-2099519801139908951)
 
 </details>
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Voksel tarzı futbol animasyonu
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Voksel tarzı futbol animasyonu"></a>
+
+**İstem**
+
+```text
+Three.js (CDN) kullanarak basit, voksel tarzı bir futbol animasyonu içeren tek bir HTML dosyası oluştur. Bloklu bir oyuncu 2 savunmacıyı top sürerek geçsin ve kutlama parçacıkları eşliğinde gösterişli bir gol atsın. Renkli bir stadyum görünümü kullan. YALNIZCA tam HTML kodunu çıktı olarak ver.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102739444256383089) · [Orijinal gönderi](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Hayali gezegenler hakkında etkileşimli web sitesi
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Hayali gezegenler hakkında etkileşimli web sitesi"></a>
+
+**İstem**
+
+```text
+Hayali gezegenler hakkında etkileşimli bir web sitesi oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102729710174196022) · [Orijinal gönderi](https://x.com/Kappaemme1926/status/2102729710174196022) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### Orta Çağ kalesi tarayıcı animasyonu
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Orta Çağ kalesi tarayıcı animasyonu"></a>
+
+**İstem**
+
+```text
+Tamamen tarayıcıda çalışan bir 3B animasyon oluşturun. Animasyonda, geniş bir ormanın içindeki bir tepede yer alan Orta Çağ kalesi bulunsun. Klavye kontrolleri eklemeyin; kaleyi her yönden görebilmemiz için kamerayı yalnızca kalenin çevresinde döndürün. Kale kulesinin tepesinde rüzgârda dalgalanan bir bayrak bulunmalı.
+
+Çıktı, çalıştırıldığında kaleyi gösteren ve döngüsel animasyonu başlatan bir index.html dosyası içermelidir.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102672926285713456) · [Orijinal gönderi](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
+
+### Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi
+
+[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Claude Opus 5 ile Hazırlanan Tripo 3D Tanıtım Filmi"></a>
+
+**İstem**
+
+```text
+1. Projenin amacı
+“Claude × Tripo” adlı, yaklaşık 44 saniyelik etkileşimli bir animasyon kısa filmi oluşturun. Küçük turuncu bir Claude kıvılcımı el yapımı kâğıt bir masaya konar, Tripo markalı bir dizüstü bilgisayarda beş eğlenceli fikrin taslağını çizer veya bunları yazar ve fikirler canlanırken onlarla tanışır. Ziyaretçi animasyonu izleyebilir, duraklatabilir, zaman çizelgesinde gezinebilir, yeniden oynatabilir, en-boy oranını değiştirebilir, sesi açabilir veya animasyonu kaydedebilir. Bu, müzik, çatışma ya da kazanma koşulu içermeyen, koreografisi hazırlanmış bir kısa filmdir. Sağlanan videoyu ve sahne kompozisyonunu yeniden oluşturun.
+
+2. Görsel stil
+Yırtık krem rengi kenarlara, guaj dokusuna, karalamalara, grafik kâğıdı ayrıntılarına ve gece mavisi gökyüzüne sahip katmanlı bir kâğıt diyoraması kullanın. Kraft kâğıt masanın arkasına hilal şeklinde bir ay, sıcak sarı yıldızlar, mavi kâğıt tepeler ve küçük bir kasaba katmanı yerleştirin. Açık dizüstü bilgisayarı sola, Claude'u ortaya yakın bir yere ve küçük dairesel sergileme platformunu sağa yerleştirin. Sıcak turuncu, leylak, nane yeşili, tereyağı sarısı ve krem tonlarındaki vurguları koruyun. Perspektif kamera geniş planlar ile yakın çekimler arasında yumuşakça hareket eder; derinlik açısından ayrılmış düz kesimler paralaks oluşturur. Basamaklı çizgi film ışığı, soğuk kenar ışığı, ölçülü konturlar, yumuşak gölgeler ve son aşamada kâğıt dokusu/vinyet uygulaması kullanın. Finalde beyaz bir kamera flaşı patlasın ve tüm karakter kadrosunu gösteren, hafifçe eğik ve bantla tutturulmuş bir Polaroid fotoğrafıyla bitirin. Açılışta, her yaratığın ortaya çıkışında ve toplu finalde referanstaki kadrajı eşleştirin.
+
+3. Sahne ve hikâye
+Her pozu ve kamera hareketini tek bir deterministik update(t) işlevinden yönetin; böylece herhangi bir zaman damgasına doğrudan gidildiğinde önceki kareleri yeniden oynatmadan doğru kare üretilsin. Hikâye vuruşlarını ortak tek bir zaman çizelgesinde adlandırın. Claude yaklaşık 0,55. saniyede gelir, yaklaşık 1,7. saniyede konar ve dizüstü bilgisayarı 2,92. saniyede uyandırır. Ekmek kedisini yaklaşık 7,2. saniyede, salyangoz kulübesini yaklaşık 13,85. saniyede, ekmek kızartma makinesi roketini yaklaşık 19,8. saniyede, çaydanlık ahtapotu yaklaşık 26,1. saniyede ve gökyüzü balinasını yaklaşık 33,3. saniyede gösterin. Roket yaklaşık 21,25. saniyede fırlatılmalı ve yaklaşık 24,05. saniyede geri dönmelidir. Balina, toplu karakterlerin üzerinde yaklaşık 35–37. saniyelerde yüzmelidir. Kamera flaşı 40,5. saniyede patlamalı; film 44,2. saniyede bitmelidir. Kamera planlarını yumuşak geçişlerle birleştirin; geçişlerde yumuşatılmış beklenti, yay taşması, squash/stretch, küçük sıçramalar ve giderek azalan yalpalamalar kullanın. Sahneler arasında geçiş yaparken ani sıfırlamalardan kaçının.
+
+4. Varlık listesi
+- claude-spark: krem rengi yırtık kenarlara sahip, düz turuncu, on iki ışınlı bir kıvılcım ve dost canlısı animasyonlu yüz. Göz kırpsın, o anki harekete baksın, gülümsesin, yanakları kızarsın; mutlu, sersemlemiş ve parıltılı göz ifadelerini kullansın. İki ışın kola dönüşerek tuşlara, çizimlere ve diğer karakterlere uzansın. Yüzünü ve kol davranışlarını prosedürel shader olarak koruyun; statik dışa aktarma bu karakterin kimliğini veya oyunculuğunu yansıtmaz.
+- cat: yuvarlak gövdeli, altın renkli, somun ekmek biçiminde bir kedi; pişmiş kabuk izleri, küçük kulakları, patileri, kuyruğu, parlak gözleri, pembe yanakları ve bıyıkları olsun. Sergileme platformunda görünsün, incelenmesi için dönsün, başı okşansın ve masanın ön kısmına yerleşsin.
+- snail: mercan renkli çatısı, bacası, ışıklı pencereleri ve küçük çiçekliği olan krem rengi bir kulübe taşıyan soluk yeşil bir salyangoz. Göz saplarını birbirinden ayrı tutun; kaldırma ve kaydırma sırasında ev dik, yüzü görünür kalsın.
+- toaster: mercan renkli kenarlara ve koluna, yuvarlak krem rengi ayrıntılara, küçük roket kanatçıklarına ve alt nozula sahip nane yeşili bir ekmek kızartma makinesi. Turuncu alev, puf duman izleri ve üzerinden geçen kamera sesiyle havalansın, ardından geri dönsün. Alev ve duman ayrı efektler olarak kalsın.
+- octopus: altı esnek dokunaçlı, emzikli ve saplı, neşeli yüzlü, altın renkli tek gözlüklü ve mor papyonlu pembe/leylak renkli bir çaydanlık yaratığı. Dokunaçları, eğilme hareketini ve küçük yürüyüşünü canlandırın. Dokunaç pozlarını sert çaydanlık gövdesinden ayrı tutun.
+- whale: krem rengi karın bölgesi, yüzgeçleri ve etkileyici yüzü olan mavi bir gökyüzü balinası; çimenlik minyatür bir kasaba, renkli kulübeler, ağaçlar ve çizgili bir deniz feneri taşısın. En büyük yaratık odur ve finalde belirgin kalmalıdır. Deniz fenerinin ışını ayrı bir saydam efekt olsun.
+- environment: masa, dizüstü bilgisayar, lamba, kalemlik, saksı bitkisi, sergileme platformu, kâğıt gökyüzü/kasaba katmanları, notlar ve kalem. Bunları film boyunca yeniden kullanın. Kâğıt arka planlar, dizüstü bilgisayar arayüzü, karalamalar, parçacıklar, duman, ışık huzmeleri ve post-processing prosedürel kalsın.
+Varlık tanımlayıcılarını sabit tutun; dünya konumu, dönüş/squash ve eklemli parçalar için ayrı dönüşümler kullanın. Kaynak projenin oranlarını ve renklerini koruyun. Taşınabilir GLB sürümleri standart materyaller ve statik poz kullanabilir; özel reveal shader'ını, oyunculuğu veya tam animasyonu içerdiklerini iddia etmeyin.
+
+5. Etkileşim ve geri bildirim
+Oynat/duraklat, yeniden oynat, geçen/toplam süreyi gösteren bir arama kaydırıcısı, 1:1 / 16:9 / 9:16 en-boy seçenekleri, ses açma/kapatma, temiz görünüm ve kayıt özellikleri sağlayın. Boşluk çubuğu oynatmayı açıp kapatsın; R yeniden oynatsın; H veya C temiz görünümü açıp kapatsın; Escape kontrolleri geri getirsin; M sesi açıp kapatsın; sol/sağ oklar birer saniyelik, Shift ise 0,1 saniyelik arama adımı kullansın. Kontrolleri dar bir dokunmatik ekranda kullanılabilir hâle getirin. Ses yalnızca kullanıcı etkileşiminden sonra başlamalıdır; otomatik oynatma sesi engellendiğinde “Sesle oynat” seçeneği sunun. Zaman çizelgesinde gezinme ve yeniden oynatma, sesi doğru zamanda yeniden başlatmalıdır. Filmin sonunda durun ve yeniden oynatma seçeneği sunun.
+Dizüstü bilgisayar geçerli çizimi veya yazılan fikri, animasyonlu bir ilerleme çubuğunu ve tamamlanma işaretini gösterir. Ekrandaki Generate eylemi hazırlanmış animasyonun bir parçasıdır: mevcut kısa film prosedürel geometri kullanır ve model oluşturma API'si çağırmaz. Her yaratığı alttan üste doğru ortaya çıkarın; başlangıçta leylak rengi kil gibi görünsün, ardından sıcak parlayan bir tarama bandıyla kendi rengine boyansın. Claude'un bakışlarını ve kollarını bu olaylarla eş zamanlayın.
+
+6. Teknik uygulama ve ses
+JavaScript ES modüllerini ve Three.js r170'i WebGL, özel shader'lar, CanvasTexture ve Web Audio API ile kullanın. Uygulamayı ve yazı tiplerini yeniden üretilebilir bir derlemeyle aynı kaynaklı statik kaynaklar olarak paketleyin; çalışma zamanında CDN veya özel servis kimlik bilgileri kullanmayın. Kontroller için yerel Fredoka'yı, el yazısı metinler için Caveat'ı kullanın. Kamera mesafesini ve render boyutunu üç en-boy oranına da uyarlayın, aşırı piksel yoğunluğunu sınırlayın ve dışa aktarımları sayfanın ilk ağ isteklerinin dışında tutun.
+Müziği ve efektleri Web Audio'da sentezleyin. Müzik kutusu FM sesi, filtrelenmiş üçgen dalga bas, marimba, hafif detune uygulanmış pad, kick, clap/shaker, üretilmiş reverb ve final kompresyon kullanın. Ölçü sıfırını dizüstü bilgisayarın 2,92. saniyede uyanmasıyla, on altıncı ölçüyü ise 40,5. saniyedeki flaşla hizalayarak yaklaşık 102 BPM elde edin; akor döngüsü F–Dm–B-flat–C olsun. Adlandırılmış hikâye vuruşlarına kalem, klavye, whoosh, pop, boing, kedi, balina, roket ve deklanşör efektleri ekleyin. Roket motorunun sesini kamera göreli hareketini kullanarak panoramalandırın ve şekillendirin. Film müziğini küçük çevrimdışı dilimler hâlinde render edip tek bir arabellekte birleştirin; etkin ses saati görüntüyü sürsün, saat duraklarsa geri dönüş mekanizması devreye girsin. Kayıt, canvas videosunu film müziğiyle birleştirmeli ve tarayıcının desteklediği bir biçime dışa aktarmalıdır. Normal oynatma veya tarayıcı kaydı için kaynak projenin isteğe bağlı yerel Python yakalama sunucusuna bağlı kalmayın.
+
+7. Tamamlanma ölçütleri
+Düzenlenebilir kaynak kodu, sabitlenmiş bağımlılıkları, statik derlemeyi, başlatma talimatlarını ve kullanılabilir kısa filmi teslim edin. 8, 15, 22, 28, 36 ve 41. saniyelere doğrudan gitmeyi doğrulayın; yeniden oynatma ve duraklatma deterministik durumu korumalıdır. Toplu karakter kompozisyonunu referans videoyla karşılaştırın. Ses kilidinin açılmasını, sessize almayı, yeniden oynatma senkronizasyonunu ve her iki kanalı içeren gerçek bir kayıt indirmesini doğrulayın. Kare, yatay ve dikey kadrajların yanı sıra masaüstü ve dar ekran kontrollerini kontrol edin. Barındırılan sayfayı üst sitenin yalıtılmış iframe'i içinde doğrulayın; eksik yazı tipi, engellenen komut dosyası veya harici kaynak hatası bulunmamalıdır. Yeniden kullanılabilir GLB'leri doğru geometri, yön, materyaller ve sınırlayıcı kutu açısından bağımsız olarak kontrol edin; kapak görselleri gerçek dosyaları göstermelidir. Taşınabilir varlıklarla animasyonlu shader sürümü arasındaki farkları belgeleyin.
+
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102652927177617564"></a>
+
+### Tek bir HTML dosyasında 3B kart yarışı
+
+[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="Tek bir HTML dosyasında 3B kart yarışı"></a>
+
+**İstem**
+
+```text
+Tek bir HTML dosyasında 3B kart yarışı oyunu oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102652927177617564) · [Orijinal gönderi](https://x.com/realanshull/status/2102652927177617564) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565611473661963"></a>
+
+### Etkileşimli Euleryen Neon Akışkan Simülasyonu
+
+[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Etkileşimli Euleryen Neon Akışkan Simülasyonu"></a>
+
+**İstem**
+
+```text
+Yüksek performanslı, GPU hızlandırmalı, etkileşimli ve eksiksiz bir Euleryen Neon Akışkan Simülasyonu içeren tek dosyalık bir HTML belgesi yazın.
+
+Kesin Teknik ve Estetik Gereksinimler:
+
+1. Mimari ve Performans:
+   - Tek dosya: Tüm HTML, CSS ve JavaScript/GLSL shader'ları dosyanın içinde yer almalı.
+   - Sıfır harici bağımlılık: Yalnızca saf WebGL 1.0 veya 2.0 kullanın (Three.js, Pixi veya harici kütüphaneler yok).
+   - GPU Üzerinde Hesaplanan Akışkanlar Dinamiği: Simülasyon, aşağıdaki işlemler için özel fragment shader'lar kullanılarak tamamen ping-pong Framebuffer Object'leri (FBO) üzerinden çalışmalı:
+     a) Adveksiyon (hız ve boya)
+     b) Diverjans hesabı
+     c) Basınç Poisson çözücüsü (kareler yöntemi iterasyonu, kare başına 20-30 iterasyon)
+     d) Gradyan çıkarma / hız projeksiyonu
+     e) Vortisite sınırlandırma (türbülanslı girdaplar ekler ve akışkanın cansız, bulanık bir pelteye dönüşmesini önler).
+
+2. Görsel Gerçekçilik (“Neon Duman” Görünümü):
+   - Zifiri siyah boşluk arka planı (`#050508`).
+   - Boya enjeksiyonu için toplamsal / Yüksek Dinamik Aralık (HDR) harmanlama.
+   - Dinamik palet: Her imleç hareketi veya dokunarak sürükleme, canlı siber tonlar (elektrik camgöbeği `#00F0FF`, parlak macenta `#FF007F`, koyu ultraviyole ve ışıldayan altın) arasında yumuşak geçiş yapan, yüksek parlaklıklı neon boya enjekte etmeli.
+   - Görüntüleme shader'ı geliştirmeleri: Nihai render shader'ına doğrudan, akışkanın girdap oluşturan kenarları çevresine ince bir bloom/parlama, ton eşleme ve kromatik sapma uygulayan bir post-processing geçişi ekleyin.
+
+3. Etkileşim:
+   - Fare ve Dokunmatik: İmlecin hızlı hareketi veya sürükleme, fare hızına orantılı hızın yanı sıra yoğun, parlayan boya enjekte etmeli.
+   - Pasif Ortam Hareketi: Boştayken ince prosedürel curl noise veya yumuşak sürüklenen girdaplar üretin; böylece canvas hiçbir zaman tamamen statik kalmasın.
+   - Kontroller: Bir köşeye yerleştirilmiş, etkinlik olmadığında otomatik olarak gizlenen, şık ve son derece minimal bir cam görünümlü HUD:
+     * Viskozite kaydırıcısı
+     * Boya dağılımı / kalıcılığı kaydırıcısı
+     * Sıçrama yarıçapı kaydırıcısı
+     * “Canvas'ı Temizle” düğmesi
+     * Renk temaları arasında geçiş yapan düğme (Cyberpunk, Termal Cehennem, Biyolüminesans Derinlik).
+
+4. Üretim Kalitesi:
+   - Yüksek DPI ekranları ve `resize` olaylarını, FBO dokularını esnetmeden veya temizlemeden otomatik olarak yönetin.
+   - Kayan noktalı doku desteği için güvenli bir geri dönüş denetimi (`OES_texture_float` / `OES_texture_half_float`).
+   - Yer tutucu veya yarım bırakılmış yorum içermeyen, temiz, hatasız ve eksiksiz uygulanmış kod.
+
+Yalnızca Chrome/Safari/Firefox'ta doğrudan çalıştırılmaya hazır, eksiksiz HTML dosyasını döndürün.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565611473661963) · [Orijinal gönderi](https://x.com/theailoser/status/2102565612874596411) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565403109085669"></a>
+
+### Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası
+
+[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası"></a>
+
+**İstem**
+
+```text
+Tarayıcıda gerçek zamanlı olarak etkileşim kurulabilen, tamamlanmış ve yüksek kaliteli bir 3B peyzaj web sayfası oluştur.
+
+Tema: Japon tarzı kiraz çiçekli vadi.
+HTML, CSS ve JavaScript kullan. Görsel oluşturma; yalnızca tasarım önerisi sunma,
+tek bir arka plan görselini paralaks efektiyle 3B gibi gösterme. İstediğim şey gerçekten çalıştırılabilen ve içinde gezilebilen tamamlanmış bir ürün.
+
+【1. Çalışmanın konumlandırması】
+
+Bu; yakın ve uzak katmanları belirgin, bütünlüklü ve kesintisiz bir vadi peyzajı olmalı,
+izole edilmiş küçük bir dekor, yüzen ada, tabanlı maket ya da yalnızca teknik bir demo olmamalı.
+
+Stil, modern ve ayrıntılı voxel art:
+Küp geometrisinin biçim dilini koru; ancak görüntü yüksek çözünürlüklü, kenar yumuşatmalı, ışık ve gölgeler de incelikli olmalı.
+Retro düşük çözünürlüklü pikselli görünüm kullanma; kaba blok yığınları oluşturma ve sahneye piksel filtresi uygulama.
+
+Öncelik görsel kalite. Kompozisyon, malzemeler ve aydınlatmadan ödün vermek yerine birkaç işlev daha az olsun.
+
+【2. Referans görsellerin kullanım biçimi】
+
+Referans görseller eklenmişse önce kompozisyon katmanlarını, ölçeği, ışığı ve renk ilişkilerini analiz et.
+Yalnızca atmosferi ve görsel dili ilham olarak alıp sahneyi yeniden tasarla;
+yapıların, ağaçların, dağların ve yolların konumlarını kopyalama, 1:1 yeniden oluşturma.
+
+Referans görsel web sayfasında kullanılacak bir arka plan varlığı değildir. Sahnenin kendisi gerçek 3B geometriden oluşmalı.
+
+【3. Sahne kompozisyonu】
+
+Sayfa ilk açıldığında eksiksiz ve ilgi çekici bir görüntü sunmalı,
+kullanıcının güzel bir açı bulmak için önce kamerayı döndürmesi gerekmemeli.
+
+Maket tarzı izometrik üstten bakış kamerası yerine perspektif kamera kullan.
+Görüntüde belirgin bir ön plan, orta plan ve arka plan bulunmalı:
+
+Ön plan:
+Belirgin bir varlığı olan yaşlı bir kiraz ağacı; kayalar, çalılar, bitkiler, taş fener ve az miktarda dökülmüş çiçekle birlikte görüntünün kenarlarında doğal bir çerçeve oluşturmalı, ancak nehri, köprüyü ve ana yapıları kapatmamalı.
+
+
+Orta plan:
+Kıvrılarak ilerleyen bir nehir bakışı sahnenin içine yönlendirmeli; kırmızı ahşap bir köprü nehrin üzerinden geçmeli;
+köy, çay evi, tapınak ve patikalar arazinin eğimine uyacak şekilde yerleşmeli, yapılar arasında gerçekçi bir ulaşım ilişkisi bulunmalı.
+Zemin engebeli olmalı; kıyı çizgileri ve doğal geçişler bulunmalı, modeller düz bir yüzeye eşit aralıklarla dizilmemeli.
+
+Arka plan:
+Yamaçta çok katlı bir pagoda, farklı uzaklıklarda ormanlar ve dağ sırtları ile uzakta karlı dağlar.
+Mesafeyi yalnızca uzaktaki nesneleri küçülterek değil; ölçek değişimi, örtüşme, sıcak-soğuk renk farklılıkları ve atmosferik perspektifle göster.
+
+Tüm öğeleri her yeri eşit biçimde dolduracak şekilde yerleştirme. Öncelik sırası, yoğunluk dengesi, negatif alan ve net bir görsel odak gerekli.
+
+
+【4. Biçim ve görüntü kalitesi】
+
+Kiraz ağacı:
+Gövdesinde kıvrımlar, dallanma ve kök bölgesi bulunmalı; taç kısmı düzensiz çiçek kümelerinden oluşmalı, aralarında boşluklar ve farklı yoğunluklar olmalı, dallar görünür kalmalı. Birkaç düzgün küre ya da küp yığını oluşturma.
+
+
+Yapılar:
+Çatılarda üst üste dizilmiş kiremitler, saçaklar, kiriş ve sütunlar ile pencere kafesleri bulunmalı;
+farklı yapıların kullanım amacı, hacmi ve yüksekliği birbirinden ayrışmalı; aynı evi kopyalayıp vadiyi onunla doldurma.
+
+Arazi:
+Kıyılarda ıslak kayalar, çimen kümeleri ve bitki örtüsüne doğal geçişler bulunmalı.
+Aşırı düzenli basamaklardan, tekrarlanan şeritlerden, dama tahtası desenlerinden ve belirgin prosedürel üretim ızgaralarından kaçın.
+
+Su yüzeyi:
+Çevredeki manzarayı yansıtabilmeli; ölçülü dalgalanmalara, derinlik ve renk değişimlerine, kıyıya doğal geçişlere sahip olmalı.
+Mümkün olduğunca gerçek sahne yansımalarını kullan; performans için kalite düşürmek gerektiğinde bile görsel inandırıcılığı koru.
+Suyun yerine titreşen gürültü, aşırı bozulma veya tek parça mavi bir düzlem kullanma.
+
+Ayrıntılar:
+Az sayıda koi balığı, dökülmüş çiçek, ateş böceği, şelale ve uzakta uçan kuş bulunabilir,
+ancak bunların tümü atmosfere hizmet etmeli ve görüntüyü karmaşıklaştırmamalı.
+Model sayısını yüksek göstermek uğruna ayrıntıları yığma.
+
+【5. Renk ve atmosfer】
+
+Varsayılan atmosfer mavi saat olmalı:
+Soğuk tonlu vadi ve uzak dağlar, yumuşak pembe kiraz çiçekleri, sıcak ancak patlamayan fener ve pencere ışıkları.
+Sıcak ışığı insanların bulunduğu alanlarda yoğunlaştır; tüm çevreyi turuncuya boyama.
+
+Yumuşak gölgeler, nesnelerin temas noktalarında doğal koyuluklar, dengeli pozlama, ölçülü bloom, kenar yumuşatma ve mesafe katmanlarını hissettiren hafif sis kullan.
+
+Beyazlamış, gri ve puslu görünümden, aşırı doygunluktan, tüm ekranı kaplayan yoğun sisten, patlayan ışıklardan ve belirgin tırtıklı kenarlardan kaçın.
+Küp geometrisi net olabilir, ancak render işlemi kaba görünmemeli.
+
+
+Ayrıca “sabah erken saatler” ve “yağmur” olmak üzere iki atmosfer seçeneği sun;
+geçiş sırasında gökyüzünü, ortam ışığını, sisi ve yerel efektleri eş zamanlı olarak değiştir,
+sadece arka plan rengini değiştirmekle yetinme.
+
+【6. Etkileşim ve arayüz】
+
+Tasarlanmış dört kamera açısı sun:
+vadi panoraması, nehir kenarında alçak kamera açısı, tapınak patikası ve yamaçtan kuşbakışı görünüm.
+Geçişler akıcı olmalı ve her kamera açısının bağımsız bir kompozisyon değeri bulunmalı.
+
+Temel etkileşimler:
+Fareyle sürükleyerek görüntüyü inceleme, tekerlekle yakınlaştırma veya ilerleme; dokunmatik ekranlarda sürükleme ve iki parmakla yakınlaştırma desteği.
+Kamera açısını sıfırlama, arayüzü gizleme ve mevcut görüntüyü kaydetme işlevleri sun.
+
+İsteğe bağlı geliştirmeler:
+serbest keşif, yavaş kamera gezintisi ve ortam sesi.
+Ortam sesi varsayılan olarak kapalı olmalı ve yalnızca kullanıcı tıkladıktan sonra çalmalı.
+Ek işlevler varsayılan görüntünün tamamlanmışlık düzeyini etkilememeli.
+
+Arayüz ölçülü ve tasarım sahibi olmalı; odağı manzara oluşturmalı.
+Başlık ve kontrol çubukları kenarlarda yer almalı, görsel odağı kapatmamalı.
+Masaüstü ve mobil cihazlarda düğmelerin ekran dışına taşması, metinlerin üst üste binmesi veya kontrollerin kullanılamaması gibi sorunlar görülmemeli.
+
+【7. Mühendislik ve performans】
+
+Three.js / WebGL ile sürümü sabitlenmiş ve birbiriyle uyumlu CDN bağımlılıklarının kullanımına izin verilir.
+Olgun render özelliklerini önceliklendir; “sıfır bağımlılık” uğruna tüm motoru baştan yazma.
+
+Yazdığın HTML, CSS ve JavaScript kodunu mümkün olduğunca tek bir HTML dosyasında düzenli tut.
+Sahne öğeleri dış görsellere veya 3B model kaynaklarına bağlı olmadan prosedürel geometri ve malzemelerle oluşturulmalı.
+
+Tekrarlanan nesneleri uygun toplu çizim veya instancing yöntemleriyle oluştur;
+alt bölümlendirme, gölgeler, yansımalar ve render çözünürlüğünü makul ölçüde kontrol et.
+Yüksek kalite ve hafif olmak üzere iki mod sun; mobil cihazlarda varsayılan olarak daha hafif ayarları kullan.
+Ayrıntı elde etmek için voxel sayısını sınırsız biçimde artırma.
+
+Yükleme göstergesi, WebGL desteklenmediğinde gösterilecek bir uyarı ve gerekli hata işleme mekanizmalarını ekle.
+Ses etkinleştirilmemişse otomatik oynatma yapma; sistemin hareketleri azaltma tercihine saygı göster.
+
+【8. Teslimat öncesi kabul kontrolü】
+
+Kodu yazmayı bitirir bitirmez teslim etme.
+
+Mevcut ortam tarayıcıda çalıştırmayı ve ekran görüntüsü almayı destekliyorsa sayfayı önce gerçekten aç,
+varsayılan kamera açısını, dört görünümü, atmosfer geçişlerini ve masaüstü ile mobil yerleşimleri kontrol et,
+ardından ekran görüntülerine göre belirgin kompozisyon, pozlama, örtüşme ve render sorunlarını düzelt.
+
+Özellikle şunları kontrol et:
+boş ekran, yükleme hatası veya konsol hatası var mı;
+geometri çakışmaları, titreşim, gölge bantları, patlayan ışıklar veya anormal su yüzeyi görülüyor mu;
+varsayılan görüntü gerçekten eksiksiz bir peyzaj gibi mi görünüyor, yoksa küçük bir maket izlenimi mi veriyor;
+işlev düğmeleri gerçekten çalışıyor mu ve mobil cihazlarda ekran dışına taşıyor mu.
+
+Kabul kontrolü için tarayıcı ekran görüntülerini kullanabilirsin, ancak görsel oluşturma araçlarını çağırma.
+Tamamlanmamış testleri dürüstçe belirt; doğrulanmış olduklarını iddia etme.
+
+Nihai teslimat:
+1. Gerçekte mevcut olan ve açılabilen bir HTML dosyası veya mevcut ortamın desteklediği etkileşimli önizleme.
+2. Ekran görüntüsü alınabiliyorsa gerçek tarayıcı render’ından bir ekran görüntüsü ekle.
+3. Kullanım şeklini ve gerekli çalıştırma koşullarını kısaca açıkla.
+
+Lütfen üretimi doğrudan tamamla; kritik olmayan ayrıntılarda tutarlı tasarım kararlarını kendin ver,
+kendi başına çözebileceğin uygulama sorunlarını tekrar tekrar bana bırakma.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565403109085669) · [Orijinal gönderi](https://x.com/dotey/status/2102565403109085669) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102547809140355250"></a>
+
+### Hundenberg kaza modeli ve gerçekçi video
+
+[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg kaza modeli ve gerçekçi video"></a>
+
+**İstem**
+
+```text
+Blender'da Hundenberg'in bir modelini oluştur ve kazayı gerçekçi bir videoya dönüştür.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102547809140355250) · [Orijinal gönderi](https://x.com/aimanhasnoname/status/2102547809140355250) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102544406117286004"></a>
 
 ### Görselden oluşturulan hentbol sahasının 360° 3B render’ı
@@ -2106,452 +2710,6 @@ I want you to build a completely realistic HD 3D render model in blender, then b
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100193512373592313) · [Orijinal gönderi](https://x.com/basio39/status/2100194321987461503) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="Hareketli mobilyalara sahip etkileşimli 3B oda sahnesi"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**İstem**
-
-```text
-Sağladığım oda fotoğrafını temel alarak Blender MCP ile etkileşimli bir 3B sahne oluşturun ve bunu demo videosu olarak işleyin. Hareketli nesneleri (menteşeler, kapılar ve çekmeceler) dahil edin ve bu efektleri göstermek için amaca uygun kamera hareketleri kullanın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2100139076816916977) · [Orijinal gönderi](https://x.com/walterzhu8/status/2100139076816916977) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="Referans görsellerden hareketli 3B ortam ve oyun karakteri oluşturma"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**İstem**
-
-```text
-【Önceden hazırlamanız gerekenler】
-・Oluşturmak istediğiniz dünya tasarımına ait referans görseller (dış görünüm, odalar vb.)
-・Karakterin kanonik görselleri (üç görünüş çizimi vb.)
-　※Görseller olmadan yeniden oluşturulamaz. Lütfen ekleyin
-
-【Prompt】
-Eklediğiniz görsellere dayanarak dünya tasarımınızı ve karakterinizi, gerçekten hareket ettirilebilen bir 3B ortam ve oyun karakteri olarak profesyonel kalitede tasarlayacağım.
-
-① Ekli görselleri inceleyerek evin ve karakterin şekillerini, renklerini ve tasarım ayrıntılarını kontrol edin
-　↓
-② Görsellerden Tripo ile 3B model oluşturun (aynı en-boy oranına sahip ön, arka ve yan tam boy olmak üzere üç görsel kullanın)
-　↓
-③ Blender'a aktararak parçaların yerleşimini ve boyutunu ayarlayın
-　↓
-④ Otomatik rig kurun; karakterin kişiliğine uygun yürüme, sallanma ve benzeri hareketler ekleyin
-　↓
-⑤ Ücretli varlık kullanımı gibi karar vermekte zorlanılan bir durum varsa ilerlemeden önce bana danışın
-　↓
-⑥ Yapılan işleri, karşılaşılan sorunları ve varlıkların konumunu, başka bir yapay zekâ tarafından okunduğunda da yeniden uygulanabilecek ayrıntı düzeyinde kayda geçirin
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099850719839109597) · [Orijinal gönderi](https://x.com/aiehon_aya/status/2099850721646784894) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### Erişilebilir prosedürel uzay keşif oyunu
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="Erişilebilir prosedürel uzay keşif oyunu"></a>
-
-**İstem**
-
-```text
-Görebildiğim her yere ulaşılabilmeli. Mesafeleri gerçek ölçeklerinde koru; seyahati ise ölçek ve hız sayesinde uygulanabilir hâle getir. Uzaydan bir gezegenin atmosferine girip yüzeye kadar uçabilmek istiyorum. Gezegenler Dünya kadar büyük olabilir; bu nedenle prosedürel araziye ve parça tabanlı bir render sistemine ihtiyacımız olacak.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099785223827259515) · [Orijinal gönderi](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### Apple tarzı 3B kalp ve gülümseyen emoji
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Apple tarzı 3B kalp ve gülümseyen emoji"></a>
-
-**İstem**
-
-```text
-Apple tarzı 3B kalp emojisi ve gülümseyen emoji
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099750376530657300) · [Orijinal gönderi](https://x.com/Just_sharon7/status/2099751278234767673) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### Etkileşimli 3B organizma sinir sistemi paneli
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="Etkileşimli 3B organizma sinir sistemi paneli"></a>
-
-**İstem**
-
-```text
-Etkileşimli panel. Sol: [organism] için şematik sinir sistemi ve tıklanabilir bölgeler. Sağ: prosedürel rigging uygulanmış 3B [organism]. Bir bölgeye tıklamak, 2,5 saniyelik bir motor tepkisini tetikler. Koyu arayüz; hız ve yön için telemetri.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099719427990134984) · [Orijinal gönderi](https://x.com/AIMind_Ai/status/2099719427990134984) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099643231659012553"></a>
-
-### Kaçan teknelerin bulunduğu etkileşimli volkanik ada
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="Kaçan teknelerin bulunduğu etkileşimli volkanik ada"></a>
-
-**İstem**
-
-```text
-Akışkan lavlar ve kaçan tekneler içeren etkileşimli bir volkanik ada oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build an interactive volcanic island with flowing lava and boats that flee.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099643231659012553) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2099643231659012553) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099588840419651890"></a>
-
-### Bir otel koridoru sahnesi oluştur
-
-[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="Bir otel koridoru sahnesi oluştur"></a>
-
-**İstem**
-
-```text
-otel koridoru sahnesi oluştur
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-create hotel corridor scene
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099588840419651890) · [Orijinal gönderi](https://x.com/MyWestLord/status/2099588840419651890) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099519801139908951"></a>
-
-### Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="Savaşçı Devin Üzerine Tırmanıp Çenesine Vuruyor"></a>
-
-**İstem**
-
-```text
-KARAKTER KAYDI:
-Yalnızca bir yetişkin erkek dağ savaşçısı.
-Kompakt, geniş yapılı ve son derece güçlü bir fiziğe sahip. Orta Çağ fantezi tarzında, özgün koyu silah metali renginde plaka zırh giyiyor: tamamen kapalı sivri miğfer, katmanlı omuz plakaları, eklemli kol korumaları, ağır eldivenler, takviyeli göğüs zırhı, deri bel panelleri, koyu renk pantolon, çelik baldır zırhları ve ağır zırhlı botlar. Zırhı fırtınadan dolayı yıpranmış, çizilmiş ve ıslak.
-Tam olarak bir adet devasa, iki elle kullanılan savaş çekici taşıyor. Çekicin uzun, takviyeli koyu metal bir sapı ve ağır, simetrik, dikdörtgen bir başı var. Silahın uzunluğu, şekli ve ağırlığı boyunca değişmiyor. Savaşçı atlayış, tırmanış ve vuruş sırasında çekici iki eliyle kontrol ediyor.
-Savaşçının boyunun otuz katından daha uzun, tam olarak bir adet devasa organik insansı dev. Muazzam kaslı omuzları, son derece uzun kolları, insanı andıran dev elleri, kaba kömür grisi derisi, görünür gözenekleri ve yara izleri, çıkık kaşları, geniş burnu, güçlü çenesi ve uzun, dolaşık siyah saçları var. Organik ve canlı bir titan; heykel, robot, makine veya taştan golem değil.
-Başka savaşçı, dev veya arka plan ordusu olmasın.
-ÇEVRE:
-Şiddetli mavi-gri gök gürültülü fırtınanın altındaki, rüzgâra açık bir yüksek plato savaş alanı. Engebeli zemin koyu ıslak toprak, ezilmiş çimen ve binlerce küçük soluk çiçekle kaplı. Güçlü rüzgâr çimenleri ve çiçekleri düzensiz dalgalar hâlinde eğer.
-Uzakta, ekranın solundaki bir tepede yıkık bir Orta Çağ kalesi duruyor. Kırık kuleler, alçaktan süzülen sisin arasından hâlâ görünür. Şimşek, kaleyi ve fırtına bulutlarını aralıklı olarak aydınlatır.
-Dev, savaş alanının ekranın sağ tarafındaki bölümünü kaplıyor. Savaşçı ön planda, merkezde başlar ve deve doğru koşar. Her kesitte bu coğrafyayı ve ekran yönünü koru.
-KRONOLOJİK AKIŞ VE KAMERA:
-0.00–3.30 — DEVE DOĞRU HÜCUM
-Zırhlı savaşçının hemen arkasından, ona yakın, alçak bir takip çekimiyle başla; savaşçı ıslak arazide devasa deve doğru güçlü biçimde koşsun.
-Savaş çekicini iki eliyle vücudunun önünde yatay olarak taşıyor. Ağır çekiç başı ekranın sağında kalırken sapın alt kısmı ekranın soluna uzanıyor. Botları her adımda ıslak zemini bastırıyor; toprak, ezilmiş çiçekler ve damlacıklar yalnızca fiziksel temasın ardından geriye savruluyor.
-Devin bacakları ve devasa sağ eli kadrajın sağ üst tarafından giriyor. Dev eğilip açık elini hücum eden savaşçıya doğru uzatıyor; amacı onu yerden kepçeler gibi almak.
-Parmaklar inandırıcı eklemler ve ağırlıkla bağımsız hareket ediyor. Dev, savaşçıyı anında yakalamıyor veya ışınlamıyor.
-Kamera hareketi alçak, hızlı ve akıcı kalmalı; ölçek farkının aşırılığını vurgulamalı. Yıkık kale uzaktaki ekranın sol ufkunda görünür kalmalı.
-3.30–5.80 — DEVİN ELİNE SIÇRAMA
-Devin açık eli savaşçının yolunu alçaktan süpürerek geçerken savaşçı sağ botunu sağlam biçimde yere basar. Dizi bükülür, kalçaları alçalır ve arka bacağı yukarı doğru itiş sağlar.
-Tek ve güçlü bir ileri sıçrayış yapar.
-Devden ayrılmış parmakların önünde yükselirken kontrollü sinematik ağır çekim kullan. Bacakları hafifçe altına çekilir; denge için iki eliyle aynı savaş çekicini omuzlarının üzerinde kaldırır.
-Savaşçı iki botuyla devin orta ve yüzük parmaklarının sırtına iner. Net fiziksel temas göster: botlar deriye dokunur, dizler darbeyi emer, devin eti hafifçe sıkışır ve savaşçının zırhı inişe tepki verir.
-Dev elini yüzüne doğru kaldırmaya başlar. Savaşçı boşlukta süzülmez veya asılı kalmaz.
-Savaşçının altından yukarı doğru ilerleyen, devasa elin arka planı doldurduğu dramatik bir alçak açı vinç çekimi kullan.
-5.80–9.00 — KOL BOYUNCA KOŞU
-Hızlı, doğal aksiyona dön.
-Dev kolunu kaldırırken savaşçı parmaklardan elin sırtına, oradan da bileğe koşar. Adımları doğru sırayla değişir ve hareket eden engebeli yüzeyi görünür biçimde kavrar.
-Dev bileğini döndürerek onu sarsıp düşürmeye çalışır. Savaşçı ağırlık merkezini alçaltır, duruşunu genişletir ve kol sabitlenene kadar çekici gövdesine yakın tutar.
-Ardından devin ön kolu boyunca dirseğe doğru hızlanır. Her adım kolun değişen açısını izler; botları derinin üzerinde kaymaz.
-Kamera onun yanında ve biraz altında ilerleyerek devin kolunun uzunluğu boyunca yükselir. Kolun yakın bölümleri ön plandan hızla geçerken devin başı ve uzaktaki kale daha yavaş hareket eder; böylece güçlü bir paralaks ve ölçek hissi oluşur.
-9.00–12.00 — OMUZA TIRMANIŞ
-Savaşçı, dik bir açıyla devin omzuna yükselen üst kola ulaşır.
-Bir ön kolunu ve savaş çekicinin sapını kaldıraç için doğal bir kas çıkıntısına takar, sağ botunu basar, bacağından güç alarak iter ve tek bağlantılı bir tırmanma hareketiyle omzun üzerine çıkar.
-Dev başını ona doğru çevirir. Gözü savaşçıyı takip eder, kaşları gerilir ve çenesi derin, sözsüz bir kükremeyle açılır. Başının dönüşüyle saçları ve derisi hareket eder.
-Savaşçı gerçek el ve bot temasıyla omza bağlı kalır. Devin boynunun tabanına doğru üst omuz boyunca çapraz tırmanır.
-Savaşçının tamamını, savaş çekicini ve devin yüz profilini aynı kadrajda okunabilir tutan yakın, yandan takip çekimi kullan.
-12.00–15.00 — ÇENEYE TAM GÜÇLÜ ÇEKİÇ DARBESİ
-Savaşçı, boynunun yakınındaki eğimli omuzda dengeli bir konuma ulaşır.
-Sol botunu öne basar, sağ botunu arkasında destek olarak konumlandırır. İki ayağı da devin derisine görünür biçimde basar. Kalçalarını hedeften uzağa döndürür ve savaş çekicini iki eliyle geriye çeker.
-Darbe öncesindeki hazırlığın tamamını göster:
-ayaklar basar → dizler bükülür → kalçalar yüklenir → gövde döner → omuzlar çekici geriye alır → kollar ağır çekiç başını başlangıç konumuna yönlendirir.
-13.00 saniyede savaşçı, devin çenesine doğru tek ve eksiksiz bir yatay iki elli savuruş yapar.
-Güç, bacaklarından kalçalarına, gövdesine, omuzlarına ve kollarına kesintisiz biçimde aktarılır. Çekiç başı tek ve kesintisiz, net bir yay izler. Savuruş tamamlanmadan konum atlamaz veya yüze dokunmaz.
-14.00 saniyede belirleyici temas için açıkça ultra ağır çekime geç.
-Dikdörtgen çekiç başı, sap veya tutacakla değil, geniş darbe yüzüyle devin alt çenesinin yanına vurur. Derinin ve yanak dokusunun darbe çevresinde sıkışmasını, devin çenesinin yana kaymasını, gevşek saçların dışa savrulmasını ve yağmur, toz ile deri parçacıklarının radyal biçimde patlamasını göster.
-Savaşçının kolları ani yavaşlamaya karşı koyar. Omuzları geri savrulurken bedeni kontrollü bir devam hareketini sürdürür.
-Kan, açıkta kalan doku, vahşet veya parçalanma olmasın.
-15.00–17.30 — DEVİN GERİ TEPMESİ VE SAVAŞÇININ DÜŞÜŞÜ
-Hemen doğal hıza dön.
-Devin başı darbenin etkisiyle yana doğru savrulur. Üst gövdesi geri teper ve darbe alan omzu keskin biçimde aşağı iner. Bu ani aşağı hareket savaşçının ayağının altındaki desteği kaldırır ve onu devden uzağa fırlatır.
-Savaşçı aynı savaş çekicini iki eliyle tutmaya devam ederek savaş alanına doğru düşer. Havada süzülmez veya ek bir sıçrayış yapmaz.
-Zemin seviyesinde yandan bir görünüme kes. Önce botları temas eder, dizleri momentumun etkisiyle çöker ve bir omzunun üzerinden bir kez yuvarlanır. Çekiç başı yanında toprağa çarparak sığ bir hendek açar; ıslak toprak ve soluk çiçekleri dışa savurur.
-Devin kocaman yüzü, dengesini yeniden kazanmaya çalışırken kadrajın sağ üst bölümüne iner. Savaşçıyı ezmez veya onunla kesişmez.
-17.30–20.00 — TOPARLANMA VE SON KARŞILAŞMA
-Savaşçı yuvarlanmasını alçak diz çökme pozisyonunda durdurur.
-Savaş çekicinin başını toprağa saplar, sapı iki eliyle kavrar ve destek olarak kullanıp istikrarlı biçimde tek dizinin üzerine doğrulur. Ardından çekici yerden çıkarır ve sapı hazırlanmış savunma duruşunda omuzlarının önünde yatay biçimde tutar.
-Dev, darbeden dolayı çenesi gözle görülür biçimde morarmış ama hâlâ bilinçli ve tehditkâr hâlde, devasa başını ona doğru indirir. Nefesi çimleri, çiçekleri, sisi ve savaşçının zırhındaki gevşek deri panellerini hareket ettirir.
-Savaşçı kısa ve kararlı bir an boyunca hareketsiz kalır; nefesi ve zırhı ince, doğal hareketini sürdürür.
-Bir yıldırım ekranın solundaki yıkık kaleyi aydınlatır, iki figürün siluetini belirginleştirir ve aralarındaki muazzam ölçek farkını doğrular.
-Tam olarak 20.00 saniyede alçak ve geniş bir kompozisyonda bitir: çiçeklerle kaplı ön planda savaşçı diz çökmüş, savaş çekici hazır; devin yüzü onun üzerinde yükseliyor ve uzaktaki kale fırtınanın içinden görünüyor.
-Karartmayla bitirme. Donmuş kare, başlık veya bitiş kartı olmasın.
-AKSİYON-FİZİK KİLİDİ:
-Her aksiyon okunabilir fiziksel nedenselliğe uymalı:
-Koşu: ayak teması → ağırlık aktarımı → arka bacak itişi → sonraki adım.
-Sıçrama: basan ayak → dizlerin bükülmesi → bacakların açılması → havadaki yörünge → iniş teması → dizlerin darbeyi emmesi.
-Tırmanış: el veya silah desteği → basan bot → vücut ağırlığı aktarımı → yukarı çekiş.
-Çekiç darbesi: dengeli ayaklar → kalçaların yüklenmesi → gövde dönüşü → omuz itişi → kesintisiz çekiç yolu → çekiç yüzünün geniş darbe teması → direnç → devam hareketi.
-Düşüş: devin geri tepmesinin neden olduğu denge kaybı → yerçekimiyle aşağı iniş → bot teması → dizlerin çökmesi → omuz üzerinden yuvarlanma → toparlanma.
-Savaşçı zemin, el, kol veya omuz arasında asla ışınlanmaz. Dev, doğrudan fiziksel temas veya görünür bir kuvvet olmadan savaşçıyı asla hareket ettirmez.
-HAREKET HIZI KURALLARI:
-0.00–3.30: hızlı, doğal koşu hızı.
-3.30–5.80: sıçrama ve iniş için kontrollü sinematik ağır çekim.
-5.80–13.90: doğal ve hızlı aksiyon.
-13.90–15.00: yalnızca çekicin son yaklaşması, teması ve hemen gerçekleşen deformasyonu için açıkça ultra ağır çekim.
-15.00–20.00: doğal hıza net biçimde dön.
-Genel ağır çekim uygulama. Ağır çekimdeki karakterlerin havada süzülmesine izin verme.
-IŞIKLANDIRMA VE RENK:
-Soğuk çelik mavisi, kömür grisi ve desatüre gümüş tonlarında fırtına renk düzenini koru. Yıldırım kısa süreli, soğuk beyaz yönlü aydınlatma sağlar. Islak zırhta dar gümüş yansımalar oluşurken devin koyu derisi ayrıntılı ve okunabilir kalır.
-Soluk çiçekler, sahneyi renkli hâle getirmeden ölçülü bir sıcak fildişi kontrastı sağlar. Uzak kalenin çevresindeki yoğun atmosferik sisi koru. Yıldırım pozlamasındaki değişimler kısa olmalı; karakter anatomisini silmemeli veya eksik aksiyonları gizlememeli.
-SES:
-Yalnızca senkronize diegetik çevre ve aksiyon ses efektleri kullan. Arka plan müziği veya müzik kesinlikle olmasın.
-Fırtına rüzgârı, uzaktan gök gürültüsü, zırh hareketleri, ağır koşu ayak sesleri, yerinden oynayan toprak, eğilen çimenler, devin sözsüz nefesi ve kükremesi, elinin yarattığı hava akımı, savaşçının sıçrayışı, botların deriye teması, tırmanış darbeleri, savaş çekicinin hareketi, tek ve derin metalik çekiç darbesi, devin geri tepmesi, düşüşteki hava sesi, zırhın toprağa çarpması, çekiç başının yere vurması ve yakındaki son yıldırım çatlamasını ekle.
-Diyalog, anlatım, konuşulan sözcükler, ilahiler, şarkı sözleri veya anlaşılır herhangi bir dil olmasın.
-SÜREKLİLİK VE HATA ÖNLEME:
-Baştan sona tam olarak bir savaşçı, bir dev ve bir savaş çekici olsun.
-Savaşçı deve bir kez tırmansın ve tam olarak bir belirleyici çekiç darbesi gerçekleştirsin.
-Savaş çekici asla çoğalmaz, boyut değiştirmez, havada süzülmez, bedenlerden birinin içinden geçmez veya görünür bir hareket olmadan el değiştirmez.
-Dev her çekimde aynı organik insansı yaratık olarak kalır. Robotik özellikler, taşa dönüşüm, çoğaltılmış eller, fazladan parmaklar veya değişen yüz olmasın.
-Savaşçının zırhını, miğferini, oranlarını ve hasarını baştan sona koru.
-Tırmanış coğrafyasının fiziksel olarak mümkün kalması için devin sağ elinden sağ koluna ve omzuna uzanan rotayı koru.
-Birleşmiş eller, fazladan uzuvlar, ters eklemler, kayan botlar, kesişen bedenler, ışınlanma veya desteksiz havada süzülme olmasın.
-Tam savuruşun ardından devin çenesine görünür biçimde temas etmesi gereken parça, sap değil, çekicin geniş başıdır.
-Kan, vahşet, açıkta kalan doku, ezilmiş insan bedeni veya parçalanma olmasın.
-Canlı çekim görünümü, tanınabilir seri karakterleri, altyazılar, açıklama yazıları, logolar, kullanıcı arayüzü, oynatma katmanları, kalıcı siyah bantlar veya filigranlar olmasın.
-Herhangi bir arka plan müziği veya müzik, başarısız üretim sayılır.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-CHARACTER REGISTRY:
-Exactly one adult male mountain warrior.
-He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
-He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
-Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
-No additional warriors, giants or background armies.
-ENVIRONMENT:
-A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
-A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
-The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
-CHRONOLOGICAL ACTION AND CAMERA:
-0.00–3.30 — CHARGE TOWARD THE GIANT
-Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
-He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
-The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
-The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
-Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
-3.30–5.80 — LEAP ONTO THE GIANT’S HAND
-As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
-He performs one powerful forward jump.
-Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
-The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
-The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
-Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
-5.80–9.00 — RUNNING UP THE ARM
-Return to fast natural action.
-As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
-The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
-He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
-Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
-9.00–12.00 — CLIMB TO THE SHOULDER
-The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
-He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
-The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
-The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
-Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
-12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
-The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
-He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
-Show the complete preparation before impact:
-feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
-At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
-The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
-At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
-The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
-The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
-No blood, exposed tissue, gore or dismemberment.
-15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
-Return immediately to natural speed.
-The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
-The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
-Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
-The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
-17.30–20.00 — RECOVERY AND FINAL STANDOFF
-The warrior stops his roll in a low kneeling position.
-He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
-The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
-The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
-A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
-End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
-Do not fade to black. No freeze frame, title or end card.
-ACTION-PHYSICS LOCK:
-Every action must follow readable physical causality:
-Running: foot contact → weight transfer → rear-leg push → next step.
-Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
-Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
-Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
-Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
-The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
-MOTION-SPEED RULES:
-0.00–3.30: fast natural running speed.
-3.30–5.80: controlled cinematic slow motion for the jump and landing.
-5.80–13.90: natural fast action.
-13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
-15.00–20.00: clear return to natural speed.
-Do not apply global slow motion. Do not allow slow-motion characters to hover.
-LIGHTING AND COLOR:
-Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
-The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
-AUDIO:
-Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
-Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
-No dialogue, narration, spoken words, chants, lyrics or intelligible language.
-CONTINUITY AND FAILURE PREVENTION:
-Exactly one warrior, one giant and one warhammer throughout.
-The warrior climbs the giant once and performs exactly one decisive hammer strike.
-The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
-The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
-Preserve the warrior’s armor, helmet, proportions and damage throughout.
-Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
-No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
-The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
-No blood, gore, exposed tissue, crushed human body or dismemberment.
-No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
-Any background music or musical score is a failed generation.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099519801139908951) · [Orijinal gönderi](https://x.com/MadMax_Series/status/2099519801139908951) · [Örneklere dön](#all-prompts)
 
 ---
 

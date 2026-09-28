@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Bộ LEGO Ford Model T đầy đủ tính năng](#claude-opus-5-5-2104232297167716457)
+- [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](#claude-opus-5-5-2104232013578617241)
+- [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](#claude-opus-5-5-2104223449849761837)
+- [Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng](#claude-opus-5-5-2104204312624918810)
+- [Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể](#claude-opus-5-5-2104193522715029657)
+- [Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5](#claude-opus-5-5-2104162483888062945)
+- [Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh](#gpt-6-astra-2104077535315144878)
+- [Mô phỏng bắt tầng đẩy Super Heavy trong Blender](#gpt-6-astra-2103966922127630820)
 - [Môi trường làng ven hồ giữa rừng](#gpt-6-astra-2103860776419111285)
 - [Cảnh WebGL voxel tàu trong chai](#gpt-6-astra-2103855977376125161)
 - [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](#claude-opus-5-5-2103846630088716687)
@@ -70,16 +78,232 @@
 - [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](#claude-opus-5-5-2102775461701091531)
 - [Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng](#gpt-6-astra-2102752217375899659)
 - [bài benchmark đại đô thị cyberpunk The Last Train](#claude-opus-5-5-2102740078347087940)
-- [Hoạt ảnh bóng đá phong cách voxel](#claude-opus-5-5-2102739444256383089)
-- [Trang web tương tác về các hành tinh tưởng tượng](#claude-opus-5-5-2102729710174196022)
-- [Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt](#gpt-6-astra-2102672926285713456)
-- [Phim quảng bá Tripo 3D được thực hiện bằng Claude Opus 5](#tripo-claude-opus-5-5-paper-cut-3d-short)
-- [Game đua xe kart 3D trong một tệp HTML duy nhất](#gpt-6-astra-2102652927177617564)
-- [Mô phỏng chất lỏng neon Euler tương tác](#claude-opus-5-5-2102565611473661963)
-- [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](#claude-opus-5-5-2102565403109085669)
-- [Mô hình tai nạn Hundenberg và video chân thực](#claude-opus-5-5-2102547809140355250)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### Bộ LEGO Ford Model T đầy đủ tính năng
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="Bộ LEGO Ford Model T đầy đủ tính năng"></a>
+
+**Prompt**
+
+```text
+Tôi muốn xây dựng một bộ LEGO về chiếc Ford Model T nguyên bản.
+
+Bộ xe cần có đầy đủ tính năng, bao gồm các chuyển động hoặc tương tác khi có thể, và đạt chất lượng mà một bậc thầy lắp ráp LEGO có thể tự hào.
+
+Đầu ra cuối cùng cần bao gồm bản dựng hình của bộ LEGO, tất cả các linh kiện tôi cần đặt mua từ LEGO và sách hướng dẫn lắp ráp.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232297167716457) · [Bài đăng gốc](https://x.com/businessbarista/status/2104233375791718456) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết"></a>
+
+**Prompt**
+
+```text
+Hãy xây dựng cho tôi một game FPS nhiều người chơi siêu chân thực. Đặt game trong một con hẻm thành phố phủ tuyết, với các tòa nhà gạch. Trang bị cho tôi một khẩu súng trường tấn công có độ giật rõ ràng, đã tay và vỏ đạn bay ra khi bắn. Thêm kẻ địch để đấu súng, cơ chế trèo vượt và hiệu ứng màn hình dính máu khi bị thương. Hãy khiến cơ chế đấu súng ghi nhận đòn đánh thật chính xác, rồi tự do hoàn thiện thành một game đầy đủ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232013578617241) · [Bài đăng gốc](https://x.com/zenvnt/status/2104232358811676833) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây"></a>
+
+**Prompt**
+
+```text
+Tạo cho tôi một cảnh 3D dài 55 giây. Camera bay vào một trung tâm dữ liệu, mở một tủ rack, tháo rời một GPU, phóng to vào chip, đi xuyên qua các transistor rồi dừng ở một nguyên tử silicon. Bên phải có thước tỷ lệ theo đơn vị mét. Nhãn hiển thị bằng ngôn ngữ của khách hàng. Chạy trên trình duyệt, chỉ một tệp, không có dependency.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104223449849761837) · [Bài đăng gốc](https://x.com/Cranefomo/status/2104223449849761837) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng"></a>
+
+**Prompt**
+
+```text
+tạo một video đồ họa chuyển động dài 30 giây, đầy năng lượng, thể hiện bạn là một nhà thiết kế đồ họa chuyển động xuất sắc đến mức nào cho https://t.co/fCRvqmOamH.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104204312624918810) · [Bài đăng gốc](https://x.com/iniyanai/status/2104204318085931054) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể"></a>
+
+**Prompt**
+
+```text
+Liệu có thể tạo một cảnh đồ họa 3D phong cách anime, trong đó 3 phương tiện giống như trong anime robot biến hình, hợp thể thành một robot không?
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104193522715029657) · [Bài đăng gốc](https://x.com/allforbigfire/status/2104193522715029657) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5"></a>
+
+**Prompt**
+
+```text
+Hãy hỏi tôi: tác vụ mà tác nhân AI hoàn tất cho người dùng (mặc định: lên kế hoạch và đặt chuyến đi Kyoto 3 ngày), bảng màu (mặc định: nền xám ấm #E6E3DE, UI đen/trắng thuần, quả cầu là thành phần duy nhất có màu — xanh lam óng ánh ngọc trai → tím violet → đào), và một bài hát miễn phí bản quyền khoảng 120 BPM (tự tìm trên Mixkit, đo BPM bằng numpy, hiển thị 3 ứng viên kèm liên kết nghe thử trước khi tải toàn bộ bản nhạc). Tạo chuyển động concept UI ở cấp độ Dribbble cho công cụ tác nhân trò chuyện AI. Một hình trắng, không bao giờ bị cắt: mọi trạng thái đều là cùng một phần tử biến đổi kích thước, bán kính và màu sắc, trong khi nội dung thay đổi kèm hiệu ứng mờ ngắn. Điểm nhấn là một "quả cầu AI" GLSL (khối chất lỏng, phập phồng, óng ánh — giống quả cầu giọng nói của ChatGPT / Siri), nằm BÊN NGOÀI hình để duy trì tính liên tục và thay đổi vai trò xuyên suốt phim: nhân vật chính ở trạng thái chờ → phản ứng với giọng nói khi đang lắng nghe → thu nhỏ vào thanh nhập liệu thành avatar → xoáy nhanh hơn khi đang suy nghĩ → avatar trên câu trả lời → nở rộ khi hoàn tất tác vụ → trở về trạng thái chờ. Một con trỏ điều khiển mọi thay đổi bằng các thao tác nhấp và kéo thực. Chỉ dùng một font UI gọn gàng (Geist). Dùng spring ở mọi nơi, độ vượt quá điểm đích tối đa chỉ một chút. Camera phóng to để mỗi trạng thái chiếm khoảng 60–75% khung hình. Quả cầu nhịp nhẹ theo từng beat. Khung hình cuối là khung hình đầu tiên để tạo vòng lặp. Cấm: easing nảy, bùng hạt, glow hoặc gradient trên phần khung UI (quả cầu là nội dung, không phải khung), nét icon không đồng nhất, khoảng trống chết, bất kỳ thứ gì trông như template. 120 BPM, 8 ô nhịp = 32 beat = 16 giây, beat nào cũng phải có sự kiện (beat n tại (n-1)*0.5 giây): Ô nhịp 1: quả cầu chờ, con trỏ tiến lại gần | nhấp vào quả cầu → hình kéo dài thành pill "ĐANG LẮNG NGHE", quả cầu di chuyển sang trái và lắc theo đường bao âm tiết | bản chép lời trực tiếp gõ "Lên kế hoạch 3 ngày ở Kyoto" | "…dưới 1.500, giá trị cuộn trực tiếp | kéo vượt qua 1.248 "phương án rẻ nhất" Ô nhịp 6: thanh trượt → thao tác vuốt màu đen để xác nhận "Đặt chuyến đi · $1,248" | nắm nút kéo sang phải | kéo vượt quá điểm cuối → dây cao su | thả ra → bật về điểm cuối, mũi tên biến thành spinner Ô nhịp 7: → toast "Đã đặt chuyến đi" | các chip "Chuyến bay ✓" "Ryokan ✓" hiện ra | quả cầu nở rộ (màu + tỷ lệ) | toast thu lại về phía quả cầu Ô nhịp 8: hình mờ dần, quả cầu lớn trở lại kích thước nhân vật chính | ổn định | phập phồng theo beat, con trỏ trôi ra ngoài | trở về trạng thái chờ (lặp) 1. Một tệp HTML độc lập duy nhất, hình vuông 1440x1440, font và tài nguyên không chứa âm thanh được nhúng dưới dạng data URI. Mọi style được tính từ thời gian bên trong một `seek(t)` thuần: không dùng CSS transition, không dùng timer, không giữ state giữa các frame, không bao giờ tạo track bên trong seek. 2. Spring là các đáp ứng bước dạng đóng. Giá trị thay đổi target nhiều lần là tổng của một spring cho mỗi lần thay đổi; để lặp, lấy target CUỐI CÙNG làm giá trị bắt đầu và cộng thêm phần đuôi spring của hai chu kỳ trước (t + L, t + 2L) để cả vị trí VÀ vận tốc khớp nhau tại điểm nối. Tỷ số damping ≥ 0.72. 3. Các layer nội dung có cửa sổ vào/ra riêng: hiệu ứng ra kết thúc chính xác tại beat, hiệu ứng vào bắt đầu sau khoảng 80ms (opacity + độ mờ màn hình khoảng 12px + scale 0.965→1), hoặc chồng lấp văn bản. 4. Kéo là thao tác trực tiếp: khi đang giữ, giá trị = giá trị bắt đầu + (cursorX − cursorX tại thời điểm nhấn); vượt quá giới hạn thì áp dụng rubber(over, R) = R·(1 − e^(−over/R)); khi thả, một free spring chạy từ vị trí VÀ vận tốc lúc thả đến target snap. Các waypoint của con trỏ có dạng [thời điểm rời đi, x, y] trên một spring; waypoint cuối bằng waypoint đầu tiên để vị trí và tốc độ của con trỏ liên tục qua điểm nối vòng lặp. 5. Quả cầu: shader phân mảnh WebGL được vẽ trên canvas 640×640 OFFSCREEN, sau đó gọi drawImage đồng bộ để đưa vào canvas 2D hiển thị bên trong seek (chụp trực tiếp canvas WebGL không đáng tin cậy khi kết xuất không giao diện). Thời gian phải tuần hoàn: uniforms (cos, sin)(2π·k·t/L) với k nguyên (ví dụ k=2 và k=5), tuyệt đối không dùng t thô. Bán kính silhouette = 0.74 + amp·noise(direction·1.4 + T) được lấy mẫu trên vector hướng đơn vị (không có đường nối ở tâm); bề mặt = noise 3D tần số thấp, biến dạng miền theo pháp tuyến hình cầu → các dải màu lớn, mượt; 16% trắng ngọc trai, lõi trong sáng, một điểm specular nhỏ và sắc (pow 70), viền fresnel tím lilac nhạt; nửa dưới tối hơn để tạo thể tích; bóng elip mềm bên dưới quả cầu chờ. Uniforms: amp (chờ 0.08, + đường bao âm tiết khi lắng nghe, + thêm một chút khi suy nghĩ), think (biến dạng mạnh/nhanh hơn), bloom (bùng màu khi hoàn tất). Giữ ≤5 lần gọi noise trên mỗi pixel. 6. Âm thanh: phân tích bài hát bằng numpy (onset spectral-flux, BPM khóa pha, downbeat dựa trên kick + thay đổi chroma, RMS theo từng ô nhịp). Bắt đầu tại downbeat của một đoạn 8 ô nhịp đầy năng lượng để vòng lặp âm thanh rơi đúng ranh giới đoạn nhạc. Các cửa sổ phân tích lớn ước tính beat sớm khoảng 15–25ms: đo lại điểm cắt bằng cửa sổ 256 mẫu và dịch thời điểm bắt đầu cho đến khi residual trung vị < 2ms. Crossfade 60ms cuối với 60ms trước thời điểm bắt đầu. Tổng hợp âm thanh UI bằng numpy (click, swoosh gửi, nắm/thả, tick, thành công, chime) và đặt từng âm theo ĐỈNH ĐO ĐƯỢC của nó tại thời điểm sự kiện; âm thanh nhiều nốt phải giữ nốt đầu tiên lớn nhất. 7. Kết xuất bằng Playwright Chromium: 4 subframe cho mỗi frame, trải đều trong nửa frame (màn trập 180°, căn giữa theo thời điểm frame), 16 worker chạy song song. Sau mỗi seek, await hai requestAnimationFrames trước khi chụp màn hình; KHÔNG dùng screenshot(animations='disabled'). Vì cảnh sử dụng WebGL, khởi chạy với --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (đường dẫn SwiftShader-Vulkan mặc định thường làm mất context WebGL). Chuyển mọi ảnh chụp RGBA sang RGB. 8. Mã hóa bằng ffmpeg: -reinit_filter 0, tmix=frames=4 rồi chọn mỗi frame thứ 4, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t đúng bằng thời lượng. Xác minh phiên bản ffmpeg của bạn thực sự lấy trung bình những subframe nào bằng tmix trước khi chọn offset select. Đồng thời tạo bản chia sẻ crf 20 và bản sao lặp 3×. 9. Trước khi kết xuất toàn bộ: kết xuất một frame tại mỗi beat và một frame sau đó 0.3 giây, xếp chúng thành contact sheet, sửa mọi thứ lệch grid, chật, bị cắt, khó đọc hoặc thiếu quả cầu. Sau đó kiểm tra ngẫu nhiên các frame chuyển cảnh ở độ phân giải đầy đủ. 10. Xác minh và báo cáo: ảnh chụp tại t=0 và t=L giống hệt nhau theo từng pixel; số frame = 960 và video/âm thanh đều chính xác 16.000 giây; độ chênh frame tại điểm nối cùng bậc với các frame lân cận; không có subframe RGBA; độ lệch beat của âm thanh cuối < 10ms; lấy mẫu các frame chờ để xác nhận quả cầu xuất hiện trong tất cả frame. - smoothstep(e0, e1, x) với e0 > e1 là không xác định trong GLSL — SwiftShader trả về 0 và quả cầu biến mất. Luôn viết 1.0 - smoothstep(lo, hi, x). - Shader nặng trên GL phần mềm sẽ kích hoạt watchdog GPU (CONTEXT_LOST_WEBGL): giữ canvas ở 640² và số lần gọi noise thấp; kiểm tra các thông báo mất context trong console ở mọi lần test. - Không bao giờ đặt will-change trên đối tượng bị camera scale, nếu không văn bản sẽ bị mờ. - Các phần tử bám theo (quả cầu, avatar) dùng spring chậm hơn một chút so với hình để không bao giờ bị mép hình cắt mất. - Thứ tự layer: mọi thứ có plate nền phải nằm TRƯỚC văn bản/icon đặt trên đó. - Không ghi đè translate() căn giữa bằng transform động — hãy bọc nó trong một layer khác. - ffmpeg -shortest có thể làm mất frame cuối; hãy đặt -t một cách tường minh. - Làm cho frame cuối giống hệt frame đầu tiên, bao gồm cả vị trí và tốc độ con trỏ, nếu không vòng lặp sẽ bị giật. Hãy hỏi tôi các đầu vào, trước tiên prototype riêng shader của quả cầu (kết xuất t=0, t=4, t=8 và chứng minh t=0 == t=16 theo từng pixel, không mất context trong 8 lần tải trang mới), sau đó hiển thị danh sách trạng thái trên grid beat 8 ô nhịp dưới dạng bảng và chờ tôi OK trước khi viết toàn bộ cảnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104162483888062945) · [Bài đăng gốc](https://x.com/listudio/status/2104162483888062945) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104077535315144878"></a>
+
+### Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh
+
+[noah helms](https://x.com/haonv2) · 2026-09-27 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/c25990cf0e605481e3e3cb5e2883ecc6940658a121f64d661faa6d1dfc78f0c3.webp" width="840" loading="lazy" alt="Demo tương tác 3D về đường đi của ánh sáng qua ống kính máy ảnh"></a>
+
+**Prompt**
+
+```text
+Tôi muốn bạn tạo một bản dựng 3D tương tác minh họa cách ánh sáng đi qua ống kính máy ảnh và đến cảm biến. Hãy đặt bản demo trong một phong cảnh núi non tuyệt đẹp, với những thác nước và thảm cỏ xanh tươi.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104077535315144878) · [Bài đăng gốc](https://x.com/haonv2/status/2104077535315144878) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103966922127630820"></a>
+
+### Mô phỏng bắt tầng đẩy Super Heavy trong Blender
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/b907f0a1db0e0cf1ef3f183393df49f4ab38dd9a0bdda15bc078b816b1bf0130.webp" width="840" loading="lazy" alt="Mô phỏng bắt tầng đẩy Super Heavy trong Blender"></a>
+
+**Prompt**
+
+```text
+dựng hệ thống bắt tầng đẩy Super Heavy trong Blender chỉ bằng Python. không dùng mô hình tải xuống, không dùng kết cấu bề mặt hay HDRI, mọi thứ đều được tạo bằng mã
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build a Super Heavy booster catch in Blender using only Python. no downloaded models, no textures, no HDRIs, everything generated by code
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103966922127630820) · [Bài đăng gốc](https://x.com/Vortlyn/status/2103966922127630820) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103860776419111285"></a>
 
 ### Môi trường làng ven hồ giữa rừng
@@ -2399,610 +2623,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102740078347087940) · [Bài đăng gốc](https://x.com/builderhelmai/status/2102740078347087940) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### Hoạt ảnh bóng đá phong cách voxel
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Hoạt ảnh bóng đá phong cách voxel"></a>
-
-**Prompt**
-
-```text
-Tạo một tệp HTML duy nhất sử dụng Three.js (CDN) cho hoạt ảnh bóng đá phong cách voxel đơn giản. Một cầu thủ dạng khối rê bóng vượt qua 2 hậu vệ và ghi một bàn thắng đẹp mắt với các hạt hiệu ứng ăn mừng. Sân vận động có diện mạo đầy màu sắc. CHỈ xuất toàn bộ mã HTML.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102739444256383089) · [Bài đăng gốc](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### Trang web tương tác về các hành tinh tưởng tượng
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Trang web tương tác về các hành tinh tưởng tượng"></a>
-
-**Prompt**
-
-```text
-xây dựng một trang web tương tác về các hành tinh tưởng tượng.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102729710174196022) · [Bài đăng gốc](https://x.com/Kappaemme1926/status/2102729710174196022) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102672926285713456"></a>
-
-### Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Hoạt ảnh lâu đài thời Trung cổ trên trình duyệt"></a>
-
-**Prompt**
-
-```text
-Tạo một hoạt ảnh 3D chạy hoàn toàn trên trình duyệt. Hoạt ảnh có một lâu đài thời Trung cổ nằm trên đỉnh một ngọn đồi giữa khu rừng rộng lớn. Không thêm điều khiển bằng bàn phím; chỉ cần để máy quay xoay quanh lâu đài để có thể quan sát lâu đài từ mọi phía. Trên đỉnh tháp lâu đài phải có một lá cờ tung bay trong gió.
-
-Đầu ra phải chứa tệp index.html; khi chạy tệp này, lâu đài sẽ hiển thị và hoạt ảnh lặp sẽ bắt đầu.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
-
-The output should contain index.html file that when executed shows the castle and starts the looping animation.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102672926285713456) · [Bài đăng gốc](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
-
-### Phim quảng bá Tripo 3D được thực hiện bằng Claude Opus 5
-
-[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Phim quảng bá Tripo 3D được thực hiện bằng Claude Opus 5"></a>
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Xây dựng một phim ngắn hoạt hình tương tác dài khoảng 44 giây với tựa đề “Claude × Tripo”. Một tia sáng Claude màu cam nhỏ đáp xuống chiếc bàn giấy thủ công, phác thảo hoặc gõ năm ý tưởng tinh nghịch vào laptop mang thương hiệu Tripo, rồi gặp các sáng tạo lần lượt bước ra đời thực. Người xem có thể xem, tạm dừng, tua đến thời điểm bất kỳ, phát lại, đổi tỷ lệ khung hình, bật âm thanh hoặc quay lại hoạt ảnh. Đây là một phim ngắn được dàn dựng theo kịch bản, không có nhạc nền tính điểm, chiến đấu hay điều kiện chiến thắng. Tái tạo video và bố cục cảnh được cung cấp.
-
-2. Phong cách hình ảnh
-Sử dụng một mô hình diorama nhiều lớp theo phong cách cắt giấy, với mép giấy kem xé tự nhiên, hạt màu gouache, nét vẽ nguệch ngoạc, chi tiết giấy kẻ ô và bầu trời xanh đêm. Xếp lớp trăng lưỡi liềm, các ngôi sao vàng ấm, những ngọn đồi giấy xanh và một thị trấn nhỏ phía sau chiếc bàn giấy kraft. Đặt laptop đang mở ở bên trái, Claude gần trung tâm và một bục trưng bày hình tròn nhỏ ở bên phải. Giữ các điểm nhấn màu cam ấm, tím lilac, xanh bạc hà, vàng bơ và kem. Camera phối cảnh di chuyển nhẹ nhàng giữa các cảnh rộng và cận cảnh; những mảng cắt phẳng được tách theo chiều sâu tạo hiệu ứng thị sai. Dùng ánh sáng hoạt hình theo bậc, viền sáng lạnh, đường viền tiết chế, bóng mềm và một lớp hậu kỳ hạt giấy/vignette ở cuối. Kết thúc bằng đèn flash trắng của máy ảnh và một tấm polaroid hơi nghiêng, được dán băng keo, chụp toàn bộ dàn nhân vật. Khớp khung hình tham chiếu ở phần mở đầu, mỗi lần nhân vật xuất hiện và cảnh kết có đầy đủ dàn nhân vật.
-
-3. Cảnh và cốt truyện
-Điều khiển mọi tư thế và chuyển động camera từ một hàm cập nhật xác định duy nhất update(t), để khi tua thẳng đến bất kỳ mốc thời gian nào, khung hình chính xác được tạo ra mà không cần phát lại các khung trước đó. Đặt tên các nhịp truyện trong một lịch chung. Claude xuất hiện khoảng giây 0,55, đáp xuống khoảng giây 1,7 và đánh thức laptop ở giây 2,92. Lần lượt giới thiệu mèo-bánh mì khoảng giây 7,2, ngôi nhà ốc sên khoảng giây 13,85, tên lửa-lò nướng bánh mì khoảng giây 19,8, bạch tuộc ấm trà khoảng giây 26,1 và cá voi bầu trời khoảng giây 33,3. Tên lửa phóng khoảng giây 21,25 và quay về khoảng giây 24,05. Cá voi bơi phía trên cả nhóm trong khoảng giây 35–37. Đèn flash xuất hiện ở giây 40,5; kết thúc ở giây 44,2. Chuyển mượt giữa các cảnh camera, sử dụng chuyển động lấy đà có easing, độ nảy vượt đích kiểu lò xo, squash/stretch, những cú nhảy nhỏ và các dao động tắt dần. Tránh đặt lại đột ngột khi chuyển cảnh.
-
-4. Danh sách tài sản
-- claude-spark: tia sáng phẳng màu cam gồm mười hai tia, viền giấy kem xé tự nhiên và khuôn mặt hoạt hình thân thiện. Cho nhân vật chớp mắt, nhìn theo hành động hiện tại, mỉm cười, ửng hồng và sử dụng các kiểu mắt vui vẻ, choáng váng, lấp lánh. Hai tia kéo dài thành cánh tay để với tới phím, hình vẽ và các nhân vật khác. Giữ khuôn mặt và hành vi của cánh tay dưới dạng shader thủ tục; bản xuất tĩnh không thể thể hiện bản sắc hay diễn xuất của nhân vật này.
-- cat: mèo hình ổ bánh mì màu vàng óng, thân tròn, các vệt vỏ nướng, tai nhỏ, bàn chân, đuôi, mắt long lanh, má hồng và ria. Nhân vật xuất hiện trên bục trưng bày, xoay để quan sát, được vuốt ve rồi ổn định ở phía trước bàn.
-- snail: ốc sên xanh nhạt mang trên lưng một ngôi nhà kem với mái màu san hô, ống khói, cửa sổ phát sáng và một bồn hoa nhỏ. Giữ các cuống mắt tách biệt, ngôi nhà luôn thẳng đứng và khuôn mặt nhìn rõ trong lúc nâng lên và trượt đi.
-- toaster: lò nướng bánh mì màu bạc hà với viền và cần gạt màu san hô, các chi tiết kem bo tròn, cánh tên lửa nhỏ và vòi phun bên dưới. Nhân vật cất lên cùng ngọn lửa cam, vệt khói phồng và âm thanh lướt qua camera, sau đó quay về. Giữ hiệu ứng lửa và khói tách biệt.
-- octopus: sinh vật hình ấm trà màu hồng/tím lilac với sáu xúc tu linh hoạt, vòi rót và quai cầm, khuôn mặt vui vẻ, kính một mắt vàng và nơ tím. Hoạt ảnh hóa các xúc tu, cử chỉ nghiêng người và một đoạn bước đi nhỏ. Tạo tư thế cho xúc tu riêng biệt với thân ấm trà cứng.
-- whale: cá voi bầu trời màu xanh với bụng, vây và khuôn mặt biểu cảm màu kem, mang theo một thị trấn thu nhỏ phủ cỏ, những ngôi nhà nhiều màu, cây cối và ngọn hải đăng sọc. Đây là sáng tạo lớn nhất và phải luôn nổi bật trong cảnh kết. Tia sáng từ hải đăng là một hiệu ứng trong suốt riêng biệt.
-- environment: bàn, laptop, đèn, cốc đựng bút chì, chậu cây, bục trưng bày, các lớp giấy tạo bầu trời/thị trấn, giấy ghi chú và bút chì. Tái sử dụng các thành phần này xuyên suốt. Nền giấy, giao diện laptop, nét vẽ nguệch ngoạc, hạt bụi, khói, tia sáng và hậu kỳ đều được tạo theo dạng thủ tục.
-Giữ các mã định danh tài sản ổn định và tách riêng các phép biến đổi cho vị trí trong thế giới, xoay/ép và các bộ phận khớp nối. Giữ nguyên tỷ lệ và màu sắc của dự án nguồn. Các phiên bản GLB có tính di động có thể dùng vật liệu tiêu chuẩn và một tư thế tĩnh; không được tuyên bố rằng chúng bao gồm shader xuất hiện tùy chỉnh, diễn xuất hoặc đầy đủ hoạt ảnh.
-
-5. Tương tác và phản hồi
-Cung cấp các chức năng phát/tạm dừng, phát lại, thanh trượt tua với thời gian đã chạy/tổng thời lượng, lựa chọn tỷ lệ 1:1 / 16:9 / 9:16, nút bật/tắt âm thanh, chế độ xem gọn và quay màn hình. Phím cách bật/tắt phát; R phát lại; H hoặc C bật/tắt chế độ xem gọn; Escape khôi phục các điều khiển; M bật/tắt âm thanh; phím trái/phải tua mỗi lần một giây và Shift giảm bước tua xuống 0,1 giây. Đảm bảo các điều khiển có thể sử dụng trên màn hình cảm ứng hẹp. Âm thanh chỉ được bắt đầu sau thao tác của người dùng; hiển thị “Phát kèm âm thanh” khi âm thanh tự động phát bị chặn. Khi tua hoặc phát lại, âm thanh phải bắt đầu lại đúng thời điểm. Khi kết thúc, dừng phim và cung cấp tùy chọn phát lại.
-Laptop hiển thị hình vẽ hoặc ý tưởng đã gõ hiện tại, thanh tiến trình hoạt ảnh và dấu hoàn tất. Thao tác Generate trên màn hình là một phần của hoạt ảnh được dàn dựng: phim ngắn hiện tại sử dụng hình học thủ tục và không gọi API tạo mô hình. Giới thiệu từng sáng tạo từ dưới lên, ban đầu có dạng đất sét lilac, sau đó tô màu bằng một dải quét phát sáng ấm. Đồng bộ ánh mắt và cánh tay của Claude với các sự kiện này.
-
-6. Triển khai kỹ thuật và âm thanh
-Sử dụng JavaScript ES modules và Three.js r170 với WebGL, shader tùy chỉnh, CanvasTexture và Web Audio API. Đóng gói ứng dụng cùng font chữ dưới dạng tài nguyên tĩnh cùng origin với bản build có thể tái tạo; không dùng CDN thời gian chạy hoặc thông tin xác thực dịch vụ riêng tư. Sử dụng Fredoka cục bộ cho các điều khiển và Caveat cho chữ viết tay. Điều chỉnh khoảng cách camera và kích thước render cho cả ba tỷ lệ khung hình, giới hạn mật độ pixel quá cao và không đưa các bản xuất vào các yêu cầu mạng ban đầu của trang.
-Tổng hợp nhạc nền và hiệu ứng bằng Web Audio. Sử dụng âm sắc FM kiểu hộp nhạc, bass tam giác lọc dạng gảy, marimba, pad mềm lệch tông nhẹ, kick, clap/shaker, reverb tạo thủ tục và compressor ở khâu cuối. Căn nhịp 0 với lúc laptop thức dậy ở giây 2,92 và nhịp 16 với đèn flash ở giây 40,5, tương đương khoảng 102 BPM; lặp vòng hợp âm F–Dm–B-flat–C. Thêm hiệu ứng bút chì, bàn phím, tiếng vút, pop, boing, mèo, cá voi, tên lửa và màn trập tại các nhịp truyện đã đặt tên. Pan và định hình âm thanh động cơ tên lửa theo chuyển động tương đối với camera. Render nhạc nền thành các lát offline nhỏ rồi ghép thành một buffer; đồng hồ âm thanh đang hoạt động điều khiển hình ảnh, kèm cơ chế dự phòng khi đồng hồ bị dừng. Tính năng quay phải kết hợp video canvas với nhạc nền và xuất ra định dạng được trình duyệt hỗ trợ. Không phụ thuộc vào máy chủ capture Python cục bộ tùy chọn của dự án nguồn trong quá trình phát thông thường hoặc quay bằng trình duyệt.
-
-7. Tiêu chí hoàn tất
-Bàn giao mã nguồn có thể chỉnh sửa, các dependency cố định, bản build tĩnh, hướng dẫn khởi động và phim ngắn có thể sử dụng. Kiểm tra việc tua trực tiếp đến gần các mốc 8, 15, 22, 28, 36 và 41 giây; phát lại và tạm dừng phải duy trì trạng thái xác định. So sánh bố cục toàn bộ dàn nhân vật với video tham chiếu. Xác nhận mở khóa âm thanh, tắt tiếng, đồng bộ phát lại và tải xuống bản quay thực tế có cả hai track. Kiểm tra khung hình vuông, ngang và dọc cùng các điều khiển trên màn hình máy tính và màn hình hẹp. Xác thực trang được lưu trữ bên trong iframe cô lập của trang cha, không có font bị thiếu, script bị chặn hoặc lỗi tài nguyên bên ngoài. Kiểm tra độc lập các GLB có thể tái sử dụng về hình học, hướng, vật liệu và bounding box; ảnh bìa của chúng phải mô tả đúng các tệp thực tế. Ghi lại mọi khác biệt giữa tài sản có tính di động và phiên bản shader hoạt ảnh.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102652927177617564"></a>
-
-### Game đua xe kart 3D trong một tệp HTML duy nhất
-
-[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="Game đua xe kart 3D trong một tệp HTML duy nhất"></a>
-
-**Prompt**
-
-```text
-Tạo một game đua xe kart 3D trong một tệp HTML duy nhất.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build a 3D kart racer in a single HTML file.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102652927177617564) · [Bài đăng gốc](https://x.com/realanshull/status/2102652927177617564) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### Mô phỏng chất lỏng neon Euler tương tác
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Mô phỏng chất lỏng neon Euler tương tác"></a>
-
-**Prompt**
-
-```text
-Viết một tài liệu HTML hoàn chỉnh trong một tệp duy nhất, chứa Mô phỏng chất lỏng neon Euler tương tác, hiệu năng cao và được tăng tốc bằng GPU.
-
-Yêu cầu kỹ thuật và thẩm mỹ nghiêm ngặt:
-
-1. Kiến trúc và hiệu năng:
-   - Một tệp duy nhất: Nhúng toàn bộ HTML, CSS và JavaScript/các shader GLSL trực tiếp trong tệp.
-   - Không phụ thuộc bên ngoài: Chỉ sử dụng WebGL 1.0 hoặc 2.0 thuần túy (không dùng Three.js, Pixi hay thư viện bên ngoài).
-   - Tính toán động lực học chất lỏng trên GPU: Mô phỏng phải chạy hoàn toàn thông qua các Framebuffer Object (FBO) ping-pong, sử dụng fragment shader tùy chỉnh cho:
-     a) Phép chuyển lưu (vận tốc và thuốc nhuộm)
-     b) Tính độ phân kỳ
-     c) Bộ giải Poisson cho áp suất (lặp Jacobi, 20–30 lần mỗi khung hình)
-     d) Trừ gradient / chiếu vận tốc
-     e) Khống chế độ xoáy (tạo thêm các xoáy hỗn loạn và ngăn chất lỏng biến thành một khối nhòe nhạt, vô hồn).
-
-2. Độ trung thực hình ảnh (phong cách “Khói neon”):
-   - Nền hư không đen tuyền (`#050508`).
-   - Sử dụng hòa trộn cộng / HDR để bơm thuốc nhuộm.
-   - Bảng màu động: Mỗi cú lướt con trỏ hoặc thao tác kéo cảm ứng sẽ bơm thuốc nhuộm neon có độ sáng cao, chuyển mượt qua các màu cyber rực rỡ (cyan điện `#00F0FF`, magenta rực `#FF007F`, tím cực sâu và vàng phát sáng).
-   - Cải thiện shader hiển thị: Thêm một bước hậu kỳ trực tiếp trong shader kết xuất cuối, áp dụng bloom/glow nhẹ, ánh xạ tông màu và hiện tượng quang sai màu quanh các mép chất lỏng đang xoáy.
-
-3. Tương tác:
-   - Chuột và cảm ứng: Di chuyển con trỏ nhanh hoặc kéo sẽ bơm vận tốc tỷ lệ với tốc độ chuột, đồng thời tạo ra thuốc nhuộm phát sáng dày đặc.
-   - Chuyển động nền thụ động: Khi không có thao tác, tạo curl noise theo thủ tục tinh tế hoặc các xoáy trôi nhẹ để canvas không bao giờ hoàn toàn tĩnh.
-   - Điều khiển: HUD glassmorphism tinh gọn, hiện đại, đặt gọn ở một góc (tự động ẩn khi không hoạt động):
-     * Thanh trượt độ nhớt
-     * Thanh trượt độ tiêu tán / duy trì của thuốc nhuộm
-     * Thanh trượt bán kính splat
-     * Nút “Xóa canvas”
-     * Nút chuyển đổi để luân phiên giữa các chủ đề màu (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Hoàn thiện để đưa vào sản phẩm:
-   - Tự động xử lý màn hình DPI cao và các sự kiện `resize` mà không làm biến dạng hoặc xóa các texture FBO.
-   - Có cơ chế kiểm tra dự phòng phù hợp cho khả năng hỗ trợ texture dấu phẩy động (`OES_texture_float` / `OES_texture_half_float`).
-   - Mã nguồn sạch, không lỗi, được triển khai đầy đủ, không có phần giữ chỗ hoặc chú thích bị cắt ngắn.
-
-Chỉ trả về tệp HTML hoàn chỉnh, sẵn sàng chạy trực tiếp trong Chrome/Safari/Firefox.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102565611473661963) · [Bài đăng gốc](https://x.com/theailoser/status/2102565612874596411) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản"></a>
-
-**Prompt**
-
-```text
-Hãy trực tiếp tạo một trang web cảnh quan 3D hoàn thiện cao, có thể tương tác theo thời gian thực trong trình duyệt. 
-
-Chủ đề: thung lũng hoa anh đào Nhật Bản. 
-Sử dụng HTML, CSS và JavaScript để triển khai. Không tạo hình ảnh, không chỉ đưa ra phương án thiết kế, 
-không dùng một ảnh nền kèm hiệu ứng thị sai để giả lập 3D. Tôi cần sản phẩm thực tế có thể chạy và khám phá được.
-
-【I. Định vị tác phẩm】
-
-Đây phải là một cảnh quan thung lũng hoàn chỉnh, liền mạch, có phân lớp chiều sâu theo khoảng cách, 
-không phải một vật trang trí nhỏ đứng riêng, đảo lơ lửng, sa bàn có đế hay bản trình diễn kỹ thuật đơn thuần.
-
-Phong cách là voxel art hiện đại, tinh xảo:
-giữ lại ngôn ngữ tạo hình hình học khối lập phương, nhưng hình ảnh phải có độ phân giải cao, khử răng cưa và ánh sáng, bóng đổ tinh tế.
-Không dùng kiểu pixel hóa độ phân giải thấp mang hơi hướng hoài cổ, không xếp những khối hộp lớn thô kệch, không phủ bộ lọc pixel lên hình ảnh.
-
-Ưu tiên chất lượng hình ảnh. Thà bớt một vài tính năng còn hơn hy sinh bố cục, vật liệu và ánh sáng.
-
-【II. Cách sử dụng hình ảnh tham khảo】
-
-Nếu có hình ảnh tham khảo, trước tiên hãy phân tích phân lớp bố cục, tỷ lệ, ánh sáng và mối quan hệ màu sắc trong đó.
-Chỉ mượn bầu không khí và ngôn ngữ thị giác để thiết kế lại cảnh, 
-không sao chép vị trí của công trình, cây cối, núi và đường đi, không tái tạo theo tỷ lệ 1:1.
-
-Hình ảnh tham khảo không phải tài nguyên ảnh nền của trang web. Bản thân cảnh phải được cấu thành từ hình học 3D thực.
-
-【III. Bố cục cảnh】
-
-Ngay khi mở trang, phải hiển thị một khung cảnh hoàn chỉnh và cuốn hút, 
-không yêu cầu người dùng xoay camera trước mới tìm được góc đẹp.
-
-Sử dụng camera phối cảnh, không dùng camera nhìn từ trên xuống kiểu đẳng phối để tạo cảm giác sa bàn.
-Khung hình phải có tiền cảnh, trung cảnh và hậu cảnh rõ ràng:
-
-Tiền cảnh:
-một cây anh đào cổ thụ có điểm nhấn, kết hợp với đá, cỏ cây, đèn đá và một ít cánh hoa rơi, 
-tạo thành khung cảnh tự nhiên ở rìa khung hình nhưng không che sông, cầu và các công trình chính.
-
-Trung cảnh:
-một dòng sông uốn lượn dẫn hướng nhìn vào cảnh, với cây cầu gỗ đỏ bắc qua sông;
-làng, quán trà, đền thờ và lối đi phân bố theo địa hình, giữa các công trình phải có mối liên hệ giao thông thực tế.
-Mặt đất có độ gồ ghề, đường bờ và các vùng chuyển tiếp tự nhiên, không phải các mô hình được đặt đều trên một mặt phẳng.
-
-Hậu cảnh:
-những ngôi chùa nhiều tầng trên sườn núi, rừng ở các khoảng cách khác nhau, các dãy núi và núi tuyết ở xa.
-Thể hiện khoảng cách bằng thay đổi tỷ lệ, che khuất, biến thiên nóng lạnh và phối cảnh khí quyển, 
-thay vì chỉ thu nhỏ các vật thể ở xa.
-
-Không phủ kín mọi thành phần một cách đồng đều. Cần có trọng tâm chính phụ, nhịp độ dày thưa, khoảng trống và điểm nhấn thị giác rõ ràng.
-
-【IV. Tạo hình và chất lượng hình ảnh】
-
-Cây anh đào:
-thân cây có các đoạn uốn, nhánh phân tách và phần rễ; tán cây gồm những cụm hoa không đều, 
-có khoảng hở, biến thiên về độ dày và các cành cây lộ rõ. Không tạo thành vài khối cầu hoặc cụm khối vuông đều tăm tắp.
-
-Công trình:
-mái có các lớp ngói xếp chồng, mái hiên đua, xà cột và khung cửa;
-các công trình khác nhau phải có công năng, quy mô và độ cao khác nhau, không sao chép cùng một ngôi nhà rồi rải kín thung lũng.
-
-Địa hình:
-ven bờ có đá ướt, bụi cỏ và vùng chuyển tiếp thực vật.
-Tránh các bậc thang quá đều, sọc lặp lại, họa tiết bàn cờ và lưới sinh theo quy trình lộ rõ.
-
-Mặt nước:
-phải phản chiếu được cảnh vật xung quanh, có gợn sóng vừa phải, biến thiên độ sâu và vùng chuyển tiếp ở bờ.
-Ưu tiên sử dụng phản chiếu từ cảnh thực; khi cần hạ cấp hiệu năng, hình ảnh vẫn phải đáng tin về mặt thị giác.
-Không dùng nhiễu nhấp nháy, biến dạng mạnh hay một mặt phẳng xanh dương đơn sắc để thay thế mặt nước.
-
-Chi tiết:
-có thể thêm một ít cá koi, cánh hoa rơi, đom đóm, thác nước và chim bay ở xa, 
-nhưng tất cả phải phục vụ bầu không khí, không khiến khung cảnh trở nên rối mắt.
-Không chất đống chi tiết chỉ để khoe số lượng mô hình.
-
-【V. Màu sắc và bầu không khí】
-
-Mặc định là thời khắc xanh:
-thung lũng và núi xa thiên về tông lạnh, hoa anh đào hồng dịu, đèn lồng và ánh sáng cửa sổ ấm áp nhưng không cháy sáng.
-Ánh sáng ấm tập trung ở những nơi có người sinh hoạt, không nhuộm cam toàn bộ môi trường.
-
-Cần có bóng mềm, độ sáng tối tại các điểm tiếp xúc giữa vật thể, phơi sáng hợp lý, 
-bloom tiết chế, khử răng cưa và sương mỏng có phân lớp theo khoảng cách.
-
-Tránh hình ảnh bạc trắng, xám đục, quá bão hòa, sương dày kín khung hình, đèn cháy sáng và răng cưa rõ rệt.
-Hình học khối hộp có thể sắc nét, nhưng bản thân phần render không được thô ráp.
-
-Cung cấp thêm hai bầu không khí “sáng sớm” và “trời mưa”;
-khi chuyển đổi phải đồng bộ thay đổi bầu trời, ánh sáng môi trường, sương và các hiệu ứng cục bộ, 
-không chỉ đổi màu nền.
-
-【VI. Tương tác và giao diện】
-
-Cung cấp bốn góc máy được thiết kế riêng:
-toàn cảnh thung lũng, góc máy thấp bên sông, lối đi đến chùa và góc nhìn từ trên sườn núi.
-Việc chuyển cảnh phải mượt mà, mỗi góc máy đều cần có giá trị bố cục riêng.
-
-Tương tác cơ bản:
-kéo chuột để quan sát, dùng con lăn để thu phóng hoặc tiến về phía trước; màn hình cảm ứng hỗ trợ kéo và thu phóng bằng hai ngón tay.
-Cung cấp các chức năng đặt lại góc nhìn, ẩn giao diện và lưu khung hình hiện tại.
-
-Tùy chọn nâng cao:
-tự do khám phá, camera tuần tra chậm và âm thanh môi trường.
-Âm thanh môi trường mặc định tắt, chỉ phát sau khi người dùng chủ động nhấp vào.
-Các tính năng bổ sung không được ảnh hưởng đến độ hoàn thiện của khung cảnh mặc định.
-
-Giao diện phải tiết chế và có tính thiết kế, lấy cảnh quan làm trọng tâm.
-Đặt tiêu đề và thanh điều khiển ở rìa khung hình, không che điểm nhấn thị giác.
-Trên cả máy tính và điện thoại, không được xảy ra lỗi nút tràn khỏi khung, chữ chồng lên nhau hoặc không thể thao tác.
-
-【VII. Kỹ thuật và hiệu năng】
-
-Được phép sử dụng Three.js / WebGL cùng các dependency CDN cố định phiên bản và tương thích lẫn nhau.
-Ưu tiên năng lực render成熟, không viết lại toàn bộ engine chỉ để đạt mục tiêu “không dependency”.
-
-Cố gắng sắp xếp HTML, CSS và JavaScript tự viết trong một tệp HTML duy nhất.
-Cảnh vật được tạo bằng hình học và vật liệu procedural, không phụ thuộc vào ảnh bên ngoài hoặc tài nguyên mô hình 3D.
-
-Với các vật thể lặp lại, hãy dùng phương thức vẽ theo lô hoặc instancing phù hợp;
-kiểm soát hợp lý mức độ chia nhỏ, bóng đổ, phản chiếu và độ phân giải render.
-Cung cấp chế độ chất lượng cao và chế độ nhẹ; điện thoại mặc định dùng thiết lập nhẹ hơn.
-Không tăng vô hạn số lượng voxel chỉ để đổi lấy chi tiết.
-
-Thêm thông báo đang tải, thông báo khi không hỗ trợ WebGL và cơ chế xử lý lỗi cần thiết.
-Khi âm thanh chưa được bật thì không tự động phát; tôn trọng tùy chọn hệ thống về giảm chuyển động.
-
-【VIII. Nghiệm thu trước khi bàn giao】
-
-Không viết xong mã rồi bàn giao ngay.
-
-Nếu môi trường hiện tại hỗ trợ chạy trình duyệt và chụp màn hình, hãy mở trang thực tế trước, 
-kiểm tra camera mặc định, bốn góc nhìn, chuyển đổi bầu không khí, bố cục trên máy tính và điện thoại, 
-sau đó sửa các vấn đề rõ ràng về bố cục, phơi sáng, che khuất và render dựa trên ảnh chụp.
-
-Đặc biệt kiểm tra:
-có khung hình trống, lỗi tải hoặc lỗi console hay không;
-có lỗi xuyên hình, nhấp nháy, sọc bóng đổ, cháy sáng hoặc bất thường trên mặt nước hay không;
-khung cảnh mặc định có thực sự giống một cảnh quan hoàn chỉnh thay vì một sa bàn nhỏ hay không;
-các nút chức năng có thực sự hoạt động và có bị tràn khung trên thiết bị di động hay không.
-
-Có thể dùng ảnh chụp màn hình trình duyệt để nghiệm thu, nhưng không được gọi công cụ tạo ảnh.
-Nếu chưa hoàn tất việc kiểm thử, phải mô tả trung thực, không tuyên bố đã xác minh.
-
-Bàn giao cuối cùng:
-1. Một tệp HTML thực sự tồn tại và có thể mở được, hoặc bản xem trước tương tác được môi trường hiện tại hỗ trợ.
-2. Nếu có thể chụp màn hình, đính kèm một ảnh chụp render thực tế từ trình duyệt.
-3. Mô tả ngắn gọn cách thao tác và các điều kiện chạy cần thiết.
-
-Hãy trực tiếp hoàn tất việc tạo sản phẩm; tự đưa ra các lựa chọn thiết kế nhất quán cho những chi tiết không quan trọng, 
-đừng liên tục yêu cầu tôi quyết định những vấn đề triển khai mà bạn có thể tự xử lý.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102565403109085669) · [Bài đăng gốc](https://x.com/dotey/status/2102565403109085669) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Mô hình tai nạn Hundenberg và video chân thực
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Mô hình tai nạn Hundenberg và video chân thực"></a>
-
-**Prompt**
-
-```text
-Hãy tạo cho tôi mô hình Hundenberg trong Blender và một video chân thực về vụ tai nạn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102547809140355250) · [Bài đăng gốc](https://x.com/aimanhasnoname/status/2102547809140355250) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

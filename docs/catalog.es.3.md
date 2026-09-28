@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Escena de habitación 3D interactiva con muebles articulados](#gpt-6-astra-2100139076816916977)
+- [Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia](#gpt-6-astra-2099850719839109597)
+- [Juego de exploración espacial procedural totalmente explorable](#gpt-6-astra-2099785223827259515)
+- [Corazón y emoji sonriente en 3D con estilo Apple](#gpt-6-astra-2099750376530657300)
+- [Panel interactivo del sistema nervioso de un organismo en 3D](#gpt-6-astra-2099719427990134984)
+- [Isla volcánica interactiva con barcos que huyen](#gpt-6-astra-2099643231659012553)
+- [Crea una escena de pasillo de hotel](#gpt-6-astra-2099588840419651890)
+- [El guerrero trepa a un gigante y le golpea la mandíbula](#gpt-6-astra-2099519801139908951)
 - [Mundo 3D lleno de rascacielos muy altos](#gpt-6-astra-2099487024256589970)
 - [Modelo de conífera de menos de 200 polígonos](#gpt-6-astra-2099472264270102705)
 - [Escena 3D interactiva de un samurái en el bosque](#gpt-6-astra-2099450933067612421)
@@ -70,16 +78,454 @@
 - [Crear con GPT-6 Astra y Blender una escena cómica de un brazo robótico persiguiendo a un gato](#gpt-6-astra-2097675660873605422)
 - [Sitio web inmersivo en 3D sobre un arrozal](#gpt-6-astra-2097602565110419781)
 - [Escena VHS de Blender inspirada en Backrooms](#gpt-6-astra-2097534290112188602)
-- [Mundo acogedor de humedal y lago](#gpt-6-astra-2097343467026289039)
-- [Recrear League of Legends como juego web](#gpt-6-astra-2097336230078013598)
-- [Proyecto WebGL con TypeScript + Three.js del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing](#gpt-6-astra-2097323734504017936)
-- [Recreación de un minijuego 3D de League of Legends](#gpt-6-astra-2097320830602809682)
-- [Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia](#gpt-6-astra-2097313247116341424)
-- [Terreno de aldea inspirado en Skyrim a partir de una referencia generada](#gpt-6-astra-2097167383576383502)
-- [Animación de una floristería japonesa en vista explosionada](#gpt-6-astra-2097153139795468365)
-- [Crear el rig y animar un meca digitígrado en Godot](#gpt-6-astra-2097123382852829230)
 
 </details>
+<a id="gpt-6-astra-2100139076816916977"></a>
+
+### Escena de habitación 3D interactiva con muebles articulados
+
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="Escena de habitación 3D interactiva con muebles articulados"></a>
+
+**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
+
+**Prompt**
+
+```text
+Dada la foto de la habitación que proporcioné, usa Blender MCP para crear una escena 3D interactiva y renderizarla como vídeo de demostración. Incluye movimiento articulado de los objetos (bisagras, puertas y cajones) y utiliza movimientos de cámara adecuados para mostrar estos efectos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2100139076816916977) · [Publicación original](https://x.com/walterzhu8/status/2100139076816916977) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099850719839109597"></a>
+
+### Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="Crea un espacio 3D y un personaje de videojuego articulados a partir de imágenes de referencia"></a>
+
+**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
+
+**Prompt**
+
+```text
+【Qué preparar antes】
+・Imágenes de referencia del mundo que quieres crear (exteriores, habitaciones, etc.)
+・Imágenes canónicas del personaje (como una vista de tres ángulos)
+　※Sin imágenes no se puede reproducir el resultado. ¡No olvides adjuntarlas!
+
+【Prompt】
+Diseñaré con calidad profesional un espacio 3D realmente interactivo y un personaje de videojuego basados en las imágenes adjuntas, respetando tu mundo y tu personaje.
+
+① Revisar las imágenes adjuntas para comprobar la forma, los colores y los detalles de diseño de la casa y el personaje
+　↓
+② Generar modelos 3D a partir de las imágenes con Tripo (tres imágenes del personaje de cuerpo entero: frontal, posterior y lateral, todas con la misma relación de aspecto)
+　↓
+③ Importarlos en Blender y ajustar la disposición y el tamaño de las piezas
+　↓
+④ Configurar un rig automático y añadir movimientos acordes con la personalidad del personaje, como caminar o balancearse
+　↓
+⑤ Si surge una decisión ambigua, como utilizar un recurso de pago, consultarme antes de continuar
+　↓
+⑥ Dejar un registro del trabajo realizado, los problemas encontrados y la ubicación de los recursos con el nivel de detalle necesario para que otra IA pueda leerlo y reproducir el proceso
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+【先に用意するもの】
+・作りたい世界観の参考画像（外観・部屋など）
+・キャラクターの正典画像（三面図など）
+　※画像がないと再現できません。添付してねん
+
+【プロンプト】
+添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
+
+① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
+　↓
+② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
+　↓
+③ Blenderに読み込みパーツの配置・サイズを調整する
+　↓
+④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
+　↓
+⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
+　↓
+⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099850719839109597) · [Publicación original](https://x.com/aiehon_aya/status/2099850721646784894) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099785223827259515"></a>
+
+### Juego de exploración espacial procedural totalmente explorable
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="Juego de exploración espacial procedural totalmente explorable"></a>
+
+**Prompt**
+
+```text
+Todo lo que pueda ver debe ser alcanzable. Mantén las distancias a escala real y haz que viajar resulte viable mediante la escala y la velocidad. Quiero volar desde el espacio, atravesar la atmósfera de un planeta y descender hasta el suelo. Los planetas pueden tener el tamaño de la Tierra, así que necesitaremos terreno procedural y un renderizador por chunks.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099785223827259515) · [Publicación original](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099750376530657300"></a>
+
+### Corazón y emoji sonriente en 3D con estilo Apple
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Corazón y emoji sonriente en 3D con estilo Apple"></a>
+
+**Prompt**
+
+```text
+Emoji de corazón y emoji sonriente en 3D con estilo Apple
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+3D Apple style heart emoji and smiling emoji
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099750376530657300) · [Publicación original](https://x.com/Just_sharon7/status/2099751278234767673) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099719427990134984"></a>
+
+### Panel interactivo del sistema nervioso de un organismo en 3D
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="Panel interactivo del sistema nervioso de un organismo en 3D"></a>
+
+**Prompt**
+
+```text
+Panel interactivo. A la izquierda: sistema nervioso esquemático de [organism], con regiones en las que se puede hacer clic. A la derecha: [organism] 3D con rigging procedural. Al hacer clic en una región, se activa una respuesta motora de 2,5 segundos. Interfaz oscura, con telemetría de velocidad y rumbo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099719427990134984) · [Publicación original](https://x.com/AIMind_Ai/status/2099719427990134984) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099643231659012553"></a>
+
+### Isla volcánica interactiva con barcos que huyen
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="Isla volcánica interactiva con barcos que huyen"></a>
+
+**Prompt**
+
+```text
+crea una isla volcánica interactiva con lava fluyendo y barcos que huyen.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build an interactive volcanic island with flowing lava and boats that flee.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099643231659012553) · [Publicación original](https://x.com/WescheNex1q/status/2099643231659012553) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099588840419651890"></a>
+
+### Crea una escena de pasillo de hotel
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="Crea una escena de pasillo de hotel"></a>
+
+**Prompt**
+
+```text
+crea una escena de pasillo de hotel
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+create hotel corridor scene
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099588840419651890) · [Publicación original](https://x.com/MyWestLord/status/2099588840419651890) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099519801139908951"></a>
+
+### El guerrero trepa a un gigante y le golpea la mandíbula
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="El guerrero trepa a un gigante y le golpea la mandíbula"></a>
+
+**Prompt**
+
+```text
+REGISTRO DE PERSONAJES:
+Exactamente un guerrero montañés adulto de sexo masculino.
+Tiene una complexión compacta, ancha y extremadamente poderosa. Lleva un diseño original de armadura medieval fantástica de placas, en metal oscuro color gunmetal: casco puntiagudo cerrado, placas de hombros superpuestas, protección articulada para los brazos, guanteletes pesados, peto reforzado, paneles de cuero en la cintura, pantalones oscuros, grebas de acero y botas blindadas pesadas. La armadura está desgastada, arañada y mojada por la tormenta.
+Lleva exactamente un enorme martillo de guerra para dos manos. Tiene un único mango largo reforzado de metal oscuro y una cabeza de martillo rectangular, pesada y simétrica. El arma mantiene la misma longitud, forma y peso durante toda la secuencia. La controla con ambas manos durante los saltos, la escalada y el golpe.
+Exactamente un gigante humanoide orgánico colosal, de más de treinta veces la altura del guerrero. Tiene hombros musculosos inmensos, brazos extremadamente largos, manos enormes de aspecto humano, piel gris carbón áspera, poros y cicatrices visibles, cejas prominentes, nariz ancha, mandíbula poderosa y cabello negro largo y enmarañado. Es un titán orgánico vivo, no una estatua, un robot, una máquina ni un gólem de piedra.
+No debe haber guerreros, gigantes ni ejércitos de fondo adicionales.
+ENTORNO:
+Un campo de batalla de las tierras altas, azotado por el viento, bajo una violenta tormenta azul grisácea. El terreno irregular está cubierto de tierra oscura y mojada, hierba aplastada y miles de pequeñas flores pálidas. El viento fuerte dobla la hierba y las flores en oleadas irregulares.
+Una fortaleza medieval en ruinas se alza sobre una colina distante, a la izquierda de la pantalla. Sus torres derruidas siguen visibles a través de la niebla baja y errante. Los relámpagos iluminan intermitentemente la fortaleza y las nubes de tormenta.
+El gigante ocupa el lado derecho de la pantalla del campo de batalla. El guerrero comienza en el centro del primer plano y corre hacia el gigante. Conserva esta geografía y dirección en pantalla durante todos los cortes.
+ACCIÓN CRONOLÓGICA Y CÁMARA:
+0.00–3.30 — CARGA HACIA EL GIGANTE
+Comienza de inmediato con un plano de seguimiento trasero y bajo, muy cerca del guerrero con armadura mientras corre con fuerza por el campo mojado hacia el gigante colosal.
+Lleva el martillo de guerra horizontalmente frente al cuerpo con ambas manos. La cabeza pesada del martillo permanece hacia la derecha de la pantalla, mientras que el extremo inferior del mango se extiende hacia la izquierda. Las botas comprimen el suelo mojado con cada paso y solo después del contacto físico lanzan hacia atrás tierra, flores aplastadas y gotas.
+Las piernas y la enorme mano derecha del gigante entran por la zona superior derecha del encuadre. El gigante se agacha y extiende la mano abierta hacia el guerrero que carga, con la intención de recogerlo del suelo.
+Los dedos se mueven de forma independiente, con articulaciones y peso creíbles. El gigante no agarra al guerrero de inmediato ni lo teletransporta.
+El movimiento de cámara se mantiene bajo, rápido y fluido, enfatizando la enorme diferencia de escala. La fortaleza en ruinas sigue visible en el horizonte distante de la izquierda de la pantalla.
+3.30–5.80 — SALTO A LA MANO DEL GIGANTE
+Cuando la mano abierta del gigante pasa a ras del suelo por la trayectoria del guerrero, este apoya firmemente la bota derecha en el suelo. Flexiona la rodilla, baja las caderas y propulsa hacia arriba la pierna trasera.
+Realiza un único salto potente hacia delante.
+Usa una cámara lenta cinematográfica controlada mientras asciende frente a los dedos separados del gigante. Recoge ligeramente las piernas bajo el cuerpo y eleva con ambas manos el mismo martillo de guerra por encima de los hombros para mantener el equilibrio.
+Aterriza con ambas botas sobre la parte posterior de los dedos medio y anular del gigante. Muestra un contacto físico claro: las botas tocan la piel, las rodillas absorben el impacto, la carne del gigante se comprime ligeramente y la armadura del guerrero reacciona al aterrizaje.
+El gigante comienza a levantar la mano hacia el rostro. El guerrero no flota ni queda suspendido en el aire.
+Usa un travelling de grúa dramático en contrapicado que ascienda por debajo del guerrero, con la enorme mano llenando el fondo.
+5.80–9.00 — CORRER POR EL BRAZO
+Vuelve a una acción rápida y natural.
+Mientras el gigante levanta el brazo, el guerrero corre desde los dedos por el dorso de la mano hasta la muñeca. Sus pisadas se alternan correctamente y se aferran de forma visible a la superficie irregular y en movimiento.
+El gigante gira la muñeca e intenta sacudírselo de encima. El guerrero baja el centro de gravedad, amplía la base de apoyo y mantiene el martillo cerca del torso hasta que el brazo se estabiliza.
+Después acelera por el antebrazo del gigante hacia el codo. Cada paso sigue el ángulo cambiante del brazo; las botas no se deslizan a través de la piel.
+La cámara lo sigue de lado y ligeramente desde abajo, elevándose a lo largo del brazo del gigante. Las partes cercanas del brazo atraviesan rápidamente el primer plano, mientras que la cabeza del gigante y la fortaleza distante se desplazan más despacio, creando un potente paralaje y una sensación de escala.
+9.00–12.00 — TREPAR HASTA EL HOMBRO
+El guerrero alcanza la parte superior del brazo, que asciende en una pendiente pronunciada hacia el hombro del gigante.
+Engancha un antebrazo y el mango del martillo de guerra contra una cresta muscular natural para hacer palanca, apoya la bota derecha, empuja con la pierna y se incorpora al hombro en una única acción de escalada conectada.
+El gigante gira la cabeza hacia él. Su ojo sigue al guerrero, frunce el ceño y abre la mandíbula en un rugido profundo y no verbal. El cabello y la piel se mueven con la rotación de la cabeza.
+El guerrero permanece sujeto al hombro mediante un contacto real de manos y botas. Trepa en diagonal por la parte superior del hombro hacia la base del cuello del gigante.
+Usa un plano de seguimiento lateral cercano que mantenga visibles y legibles en el mismo encuadre al guerrero completo, el martillo de guerra y el perfil facial del gigante.
+12.00–15.00 — GOLPE COMPLETO DEL MARTILLO EN LA MANDÍBULA
+El guerrero alcanza una posición estable sobre el hombro inclinado del gigante, cerca del cuello.
+Adelanta la bota izquierda y apoya la derecha detrás. Ambos pies presionan visiblemente contra la piel del gigante. Gira las caderas en dirección opuesta al objetivo y lleva el martillo de guerra hacia atrás con ambas manos.
+Muestra toda la preparación antes del impacto:
+los pies se apoyan → las rodillas se flexionan → las caderas cargan la fuerza → el torso gira → los hombros llevan el martillo hacia atrás → los brazos guían la pesada cabeza del martillo hasta su posición inicial.
+En el segundo 13.00, el guerrero ejecuta un único golpe horizontal completo con ambas manos hacia la mandíbula del gigante.
+La fuerza se transmite de forma continua desde las piernas, pasando por las caderas, el torso, los hombros y los brazos. La cabeza del martillo sigue un único arco claro e ininterrumpido. No salta de posición ni toca el rostro antes de completar el golpe.
+En el segundo 14.00, entra en cámara ultralenta explícita para el contacto decisivo.
+La cabeza rectangular del martillo golpea el lateral de la mandíbula inferior del gigante con su amplia cara de impacto, no con el mango ni el asta. Muestra cómo la piel y el tejido de la mejilla se comprimen alrededor del impacto, cómo la mandíbula del gigante se desplaza lateralmente, cómo el cabello suelto sale despedido y cómo se produce una ráfaga radial de lluvia, polvo y residuos de piel.
+Los brazos del guerrero resisten la desaceleración repentina. Sus hombros retroceden mientras el cuerpo continúa en un seguimiento controlado del movimiento.
+No debe haber sangre, tejido expuesto, gore ni desmembramiento.
+15.00–17.30 — RETROCESO DEL GIGANTE Y CAÍDA DEL GUERRERO
+Vuelve de inmediato a la velocidad natural.
+La cabeza del gigante se sacude hacia un lado por el impacto. La parte superior de su cuerpo retrocede y el hombro golpeado desciende bruscamente. Este movimiento repentino hacia abajo hace que el guerrero pierda el apoyo y salga despedido en dirección contraria al gigante.
+El guerrero cae hacia el campo de batalla mientras conserva el mismo martillo de guerra con ambas manos. No flota ni realiza un salto adicional.
+Corta a una vista lateral a nivel del suelo. Sus botas aterrizan primero, las rodillas ceden por el impulso y rueda una vez sobre un hombro. La cabeza del martillo golpea la tierra a su lado y abre un surco poco profundo, lanzando hacia fuera tierra mojada y flores pálidas.
+El enorme rostro del gigante desciende por la zona superior derecha del encuadre mientras intenta recuperar el equilibrio. No aplasta ni atraviesa al guerrero.
+17.30–20.00 — RECUPERACIÓN Y ENFRENTAMIENTO FINAL
+El guerrero detiene la voltereta en una posición baja de rodillas.
+Clava la cabeza del martillo de guerra en la tierra, sujeta el mango con ambas manos y lo usa como apoyo para incorporarse de forma constante hasta quedar sobre una rodilla. Después extrae el martillo y coloca el mango horizontalmente sobre los hombros, en una postura defensiva preparada.
+El gigante baja su enorme cabeza hacia él; la mandíbula, visiblemente amoratada por el golpe, sigue consciente y amenazante. Su aliento agita la hierba, las flores, la niebla y los paneles de cuero sueltos de la armadura del guerrero.
+El guerrero permanece inmóvil solo durante un breve instante de determinación, mientras su respiración y su armadura conservan un movimiento natural sutil.
+Un relámpago ilumina la fortaleza en ruinas a la izquierda de la pantalla, recortando ambas figuras y confirmando su inmensa diferencia de escala.
+Termina exactamente en el segundo 20.00 con una composición amplia y baja: el guerrero arrodillado en el primer plano cubierto de flores, con el martillo de guerra preparado; el rostro del gigante se cierne sobre él y la fortaleza distante es visible a través de la tormenta.
+No fundir a negro. No incluir fotograma congelado, título ni tarjeta final.
+BLOQUEO DE FÍSICA DE LA ACCIÓN:
+Toda acción debe seguir una causalidad física clara y legible:
+Carrera: contacto del pie → transferencia del peso → empuje de la pierna trasera → siguiente paso.
+Salto: pie apoyado → compresión de la rodilla → extensión de la pierna → trayectoria aérea → contacto del aterrizaje → absorción con la rodilla.
+Escalada: apoyo de la mano o del arma → bota apoyada → transferencia del peso corporal → tracción ascendente.
+Golpe de martillo: pies estables → carga de las caderas → rotación del torso → impulso del hombro → trayectoria continua del martillo → contacto con la cara ancha del martillo → resistencia → continuación del movimiento.
+Caída: pérdida del apoyo causada por el retroceso del gigante → descenso impulsado por la gravedad → contacto de las botas → flexión de las rodillas → giro sobre el hombro → recuperación.
+El guerrero nunca se teletransporta entre el suelo, la mano, el brazo o el hombro. El gigante nunca mueve al guerrero sin contacto físico directo o una fuerza visible.
+REGLAS DE VELOCIDAD DEL MOVIMIENTO:
+0.00–3.30: velocidad de carrera rápida y natural.
+3.30–5.80: cámara lenta cinematográfica controlada para el salto y el aterrizaje.
+5.80–13.90: acción rápida y natural.
+13.90–15.00: cámara ultralenta explícita solo para la aproximación final del martillo, el contacto y la deformación inmediata.
+15.00–20.00: regreso claro a la velocidad natural.
+No aplicar cámara lenta global. No permitir que los personajes en cámara lenta floten.
+ILUMINACIÓN Y COLOR:
+Mantén una gradación de tormenta fría en azul acero, gris carbón y plata desaturada. Los relámpagos proporcionan una iluminación direccional blanca y fría durante breves instantes. La armadura mojada recibe reflejos plateados estrechos, mientras que la piel oscura del gigante sigue detallada y legible.
+Las flores pálidas aportan un contraste marfil cálido y contenido sin volver colorida la escena. Conserva la niebla atmosférica densa alrededor de la fortaleza distante. Los cambios de exposición de los relámpagos deben ser breves y no deben borrar la anatomía de los personajes ni ocultar acciones faltantes.
+AUDIO:
+Solo efectos de sonido ambientales y de acción diegéticos y sincronizados. No debe haber música de fondo ni banda sonora en absoluto.
+Incluye el viento de la tormenta, truenos lejanos, movimiento de la armadura, pisadas pesadas al correr, tierra removida, hierba doblándose, la respiración y el rugido no verbal del gigante, el desplazamiento de su mano, el salto del guerrero, las botas al entrar en contacto con la piel, impactos de la escalada, movimiento del martillo de guerra, un único impacto metálico profundo del martillo, el retroceso del gigante, el aire durante la caída, la armadura al golpear la tierra, la cabeza del martillo al golpear el suelo y un último chasquido de relámpago cercano.
+No debe haber diálogos, narración, palabras habladas, cánticos, letras ni lenguaje inteligible.
+CONTINUIDAD Y PREVENCIÓN DE FALLOS:
+Exactamente un guerrero, un gigante y un martillo de guerra durante toda la secuencia.
+El guerrero trepa al gigante una sola vez y ejecuta exactamente un golpe decisivo con el martillo.
+El martillo de guerra nunca se duplica, cambia de tamaño, flota, se dobla, atraviesa ninguno de los dos cuerpos ni cambia de mano sin un movimiento visible.
+El gigante sigue siendo la misma criatura humanoide orgánica en todos los planos. No incluir rasgos robóticos, transformación en piedra, manos duplicadas, dedos adicionales ni cambios en el rostro.
+Conserva la armadura, el casco, las proporciones y los daños del guerrero durante toda la secuencia.
+Conserva la ruta de la mano derecha al brazo derecho y al hombro del gigante para que la geografía de la escalada siga siendo físicamente posible.
+No incluir manos fusionadas, extremidades adicionales, articulaciones invertidas, botas deslizándose, cuerpos que se intersecan, teletransportación ni suspensión sin apoyo.
+La cabeza ancha del martillo, no el mango, debe entrar visiblemente en contacto con la mandíbula del gigante después de completar el golpe.
+No debe haber sangre, gore, tejido expuesto, cuerpos humanos aplastados ni desmembramiento.
+No incluir apariencia de acción real, personajes de franquicias reconocibles, subtítulos, textos superpuestos, logotipos, interfaz de usuario, controles de reproducción, barras negras permanentes ni marcas de agua.
+Cualquier música de fondo o banda sonora musical implica una generación fallida.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+CHARACTER REGISTRY:
+Exactly one adult male mountain warrior.
+He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
+He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
+Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
+No additional warriors, giants or background armies.
+ENVIRONMENT:
+A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
+A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
+The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
+CHRONOLOGICAL ACTION AND CAMERA:
+0.00–3.30 — CHARGE TOWARD THE GIANT
+Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
+He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
+The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
+The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
+Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
+3.30–5.80 — LEAP ONTO THE GIANT’S HAND
+As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
+He performs one powerful forward jump.
+Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
+The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
+The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
+Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
+5.80–9.00 — RUNNING UP THE ARM
+Return to fast natural action.
+As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
+The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
+He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
+Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
+9.00–12.00 — CLIMB TO THE SHOULDER
+The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
+He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
+The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
+The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
+Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
+12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
+The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
+He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
+Show the complete preparation before impact:
+feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
+At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
+The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
+At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
+The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
+The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
+No blood, exposed tissue, gore or dismemberment.
+15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
+Return immediately to natural speed.
+The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
+The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
+Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
+The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
+17.30–20.00 — RECOVERY AND FINAL STANDOFF
+The warrior stops his roll in a low kneeling position.
+He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
+The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
+The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
+A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
+End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
+Do not fade to black. No freeze frame, title or end card.
+ACTION-PHYSICS LOCK:
+Every action must follow readable physical causality:
+Running: foot contact → weight transfer → rear-leg push → next step.
+Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
+Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
+Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
+Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
+The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
+MOTION-SPEED RULES:
+0.00–3.30: fast natural running speed.
+3.30–5.80: controlled cinematic slow motion for the jump and landing.
+5.80–13.90: natural fast action.
+13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
+15.00–20.00: clear return to natural speed.
+Do not apply global slow motion. Do not allow slow-motion characters to hover.
+LIGHTING AND COLOR:
+Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
+The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
+AUDIO:
+Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
+Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
+No dialogue, narration, spoken words, chants, lyrics or intelligible language.
+CONTINUITY AND FAILURE PREVENTION:
+Exactly one warrior, one giant and one warhammer throughout.
+The warrior climbs the giant once and performs exactly one decisive hammer strike.
+The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
+The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
+Preserve the warrior’s armor, helmet, proportions and damage throughout.
+Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
+No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
+The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
+No blood, gore, exposed tissue, crushed human body or dismemberment.
+No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
+Any background music or musical score is a failed generation.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099519801139908951) · [Publicación original](https://x.com/MadMax_Series/status/2099519801139908951) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099487024256589970"></a>
 
 ### Mundo 3D lleno de rascacielos muy altos
@@ -3481,283 +3927,6 @@ Render a scene in Blender that looks like a first person VHS tape recording of s
 </details>
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097534290112188602) · [Publicación original](https://x.com/chrisfirst/status/2097534290112188602) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097343467026289039"></a>
-
-### Mundo acogedor de humedal y lago
-
-[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="Mundo acogedor de humedal y lago"></a>
-
-**Prompt**
-
-```text
-Crea un lago acogedor con una cabaña de pescador en la orilla pantanosa. Coloca una pequeña isla en el centro del agua, con una casa abandonada oculta entre los árboles. Añade una barca de pesca junto a la cabaña, nenúfares, juncos, peces saltando, fauna típica de humedales, una pequeña playa, un sendero que conduzca a la playa y a la cabaña, otro sendero que se adentre de nuevo en el bosque y una franja de árboles que rodee toda la escena.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097343467026289039) · [Publicación original](https://x.com/givros/status/2097343467026289039) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097336230078013598"></a>
-
-### Recrear League of Legends como juego web
-
-[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Recrear League of Legends como juego web"></a>
-
-**Prompt**
-
-```text
-Crea un juego idéntico a League of Legends. Debe incluir todo el contenido de League of Legends, con el mismo mapa y un nivel de calidad gráfica equivalente, además de héroes, súbditos, torres defensivas y otros elementos. Al comenzar la partida, selecciona 5 héroes.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097336230078013598) · [Publicación original](https://x.com/liyue_ai/status/2097336230078013598) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097323734504017936"></a>
-
-### Proyecto WebGL con TypeScript + Three.js del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing
-
-[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="Proyecto WebGL con TypeScript + Three.js del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing"></a>
-
-**Prompt**
-
-```text
-Crea con TypeScript + Three.js un proyecto WebGL completo y ejecutable del Salón de Oración por las Buenas Cosechas del Templo del Cielo de Beijing. Toda la geometría arquitectónica, las texturas y las animaciones deben generarse mediante código y de forma procedural durante la ejecución; no cargues modelos externos .glb, .gltf, .obj, .fbx ni de otros formatos.
-
-Recreación arquitectónica:
-tres cubiertas circulares escalonadas, con distintos tamaños y alturas, revestidas de tejas vidriadas azules; un remate dorado, columnas rojas, cuerpo circular, decoración pintada en azul, verde y dorado, soportes dougong, puertas y ventanas.
-Usa perfiles curvos, superficies de revolución o geometría personalizada para las cubiertas, de modo que los aleros se vean amplios y ligeramente levantados; no los sustituyas por conos simples.
-Crea una plataforma circular blanca de tres niveles de mármol blanco de Han, con una escalinata central de piedra, barandillas y balaustres; mantén proporciones equilibradas y una jerarquía visual clara.
-Genera proceduralmente las texturas de las tejas y los elementos decorativos; prioriza InstancedMesh para los componentes repetidos.
-
-Escena e interacción:
-incluye el cielo azul de Beijing, el pavimento de la plaza y una pequeña cantidad de vegetación; usa DirectionalLight junto con AmbientLight／HemisphereLight, activa las sombras y la oclusión ambiental, y aplica un mapeo de tonos cinematográfico moderado.
-Admite rotación y zoom mediante OrbitControls, además de una vista de recorrido orbital lento que se pueda activar y desactivar.
-Añade un botón para alternar entre «explosión» y «recomposición»: la cubierta, las columnas, los soportes dougong, los muros, las puertas y ventanas, las barandillas y la plataforma deben separarse suavemente por niveles y volver después con precisión a su posición original. La animación debe estar controlada por código, tener un ritmo escalonado y evitar los saltos instantáneos.
-
-Entrega directamente el proyecto completo junto con las instrucciones de inicio. La página debe adaptarse de forma responsive al tamaño de la ventana, ofrecer una calidad visual alta y una interacción fluida, y mantener un buen rendimiento en navegadores de escritorio comunes mediante instanciación, un nivel razonable de detalle geométrico y optimizaciones de renderizado. Organiza el código en módulos claros para facilitar su ampliación; verifica la compilación y las funciones principales, e indica con honestidad qué elementos no se hayan podido verificar.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
-
-建筑还原：
-三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
-屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
-白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
-程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
-
-场景与交互：
-北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
-支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
-按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
-
-直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097323734504017936) · [Publicación original](https://x.com/goan999999/status/2097323734504017936) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097320830602809682"></a>
-
-### Recreación de un minijuego 3D de League of Legends
-
-[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Recreación de un minijuego 3D de League of Legends"></a>
-
-**Prompt**
-
-```text
-Paso 1: crea un juego exactamente igual que League of Legends. Tiene que incluir todo lo que tiene LOL: el mismo mapa, una calidad gráfica equivalente, campeones, súbditos, torres y demás. Empieza seleccionando 5 campeones. 
-
-Paso 2: PUA (insulta a Astra de vuelta): esto no es League, es una copia barata. Primero redacta un plan y después impleméntalo con precisión, respetando las dimensiones y mecánicas reales; nada de una interfaz HTML superpuesta: la UI debe ser nativa, atractiva y parecer la de un juego de verdad.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
-
-第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097320830602809682) · [Publicación original](https://x.com/LufzzLiz/status/2097320830602809682) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097313247116341424"></a>
-
-### Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia
-
-[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="Mejorar las facciones de un modelo 3D en Blender usando una imagen de referencia"></a>
-
-**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
-
-**Prompt**
-
-```text
-tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097313247116341424) · [Publicación original](https://x.com/carlos_olivera/status/2097313247116341424) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097167383576383502"></a>
-
-### Terreno de aldea inspirado en Skyrim a partir de una referencia generada
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="Terreno de aldea inspirado en Skyrim a partir de una referencia generada"></a>
-
-**Prompt**
-
-```text
-Usa img2threejs/img2threejs para crear un terreno tridimensional de aldea, como los de Skyrim. Genera tú mismo la imagen de referencia.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097167383576383502) · [Publicación original](https://x.com/TaroKichijo/status/2097167383576383502) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097153139795468365"></a>
-
-### Animación de una floristería japonesa en vista explosionada
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="Animación de una floristería japonesa en vista explosionada"></a>
-
-**Prompt**
-
-```text
-Usa Blender MCP para crear una escena pequeña y estilizada de una floristería japonesa. Concéntrate en recrear fielmente sus elementos visuales principales: los toldos verdes, el letrero del tejado con el texto japonés “花屋”, las macetas y plantas colocadas delante de la tienda, la máquina expendedora, las bicicletas, el semáforo, los postes de servicios, los árboles del entorno y otros detalles reconocibles de la calle. Representa la escena con un estilo de dibujos animados cálido y encantador, iluminación suave, materiales atractivos y una atmósfera acogedora.
-
-Crea una animación de vista explosionada de alto impacto y dinámica de toda la escena de la floristería. La explosión debe ser marcada y exagerada, no sutil. Separa de forma fluida y sistemática los componentes individuales hacia el exterior para revelar de manera espectacular la construcción y el interior de la floristería.
-
-Durante la explosión, haz que las paredes exteriores, los árboles del entorno, los postes de servicios, los letreros, los toldos, las bicicletas, las macetas, las plantas, los elementos de la calle y los demás elementos ambientales salgan disparados hacia el exterior o hacia atrás, creando suficiente espacio abierto para que el espectador pueda ver claramente el interior de la floristería. Divide el edificio en capas estructurales significativas para que la arquitectura interior, el mobiliario, la decoración, las flores, las plantas, las estanterías y los detalles más pequeños sean claramente visibles.
-
-La máquina expendedora también debe explotar y dividirse en sus componentes individuales. Sus paneles exteriores deben separarse, y las botellas y latas de refresco del interior deben salir disparadas de forma dinámica y distribuirse en una formación organizada para que sigan siendo claramente legibles. Los componentes y detalles pequeños pueden desplazarse más lejos para hacer que la secuencia resulte visualmente más emocionante.
-
-Usa tiempos escalonados, distintas velocidades de movimiento, rotación, profundidad y trayectorias por capas para dar a la explosión una gran sensación de energía e impacto, manteniendo todos los componentes organizados y fáciles de seguir visualmente. Evita que todo se mueva hacia el exterior exactamente al mismo tiempo o a la misma velocidad.
-
-Cuando toda la escena esté completamente explosionada, mantén la composición brevemente para que el espectador pueda observar con claridad la estructura interna y todos los componentes separados.
-
-Después, invierte la secuencia: las botellas de refresco, las piezas de la máquina expendedora, las plantas, los elementos de utilería, los objetos interiores, las paredes, los árboles, los postes de servicios, los letreros, las bicicletas y todos los demás componentes deben volver a su sitio suavemente y reensamblarse para formar de nuevo la escena completa de la floristería.
-
-Toda la animación debe transmitir energía, una estética cinematográfica y una transformación satisfactoria y visualmente impactante, con movimientos contundentes y una transición clara entre la escena completa, el estado completamente explosionado y la escena final reensamblada. Mantén el movimiento organizado por capas, legible y cuidadosamente coreografiado en todo momento.
-
-Usa un fondo de estudio neutro durante la secuencia de vista explosionada para que los objetos separados y las estructuras internas sigan siendo claramente visibles.
-
-Entregables finales:
-Una animación completamente renderizada y un archivo de proyecto 3D de Blender editable. Todos los objetos, componentes, colecciones, materiales y elementos principales de la escena deben tener nombres claros y coherentes, y estar organizados de forma profesional.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
-
-Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
-
-During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
-
-The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
-
-Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
-
-Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
-
-Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
-
-The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
-
-Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
-
-Final deliverables:
-A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097153139795468365) · [Publicación original](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097123382852829230"></a>
-
-### Crear el rig y animar un meca digitígrado en Godot
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="Crear el rig y animar un meca digitígrado en Godot"></a>
-
-**Prompt**
-
-```text
-¿Puedes crear el rig y animar este GLB? Quiero ver sus patas digitígradas caminar de forma convincente en una vista previa de Godot, por favor.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2097123382852829230) · [Publicación original](https://x.com/om_patel5/status/2097123382852829230) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

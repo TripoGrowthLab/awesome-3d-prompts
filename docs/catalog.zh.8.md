@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [太空探索与交易游戏](#space-exploration-and-trading-game-2095191999255035993)
+- [GTA 风格开放世界多人原型](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [漫画风 Three.js 牛仔游戏](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [人类对抗失控 AGI 游戏](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Blender 拆楼球物理测试](#blender-wrecking-ball-physics-test-2095177102400081940)
+- [企业共和国拦截无人机资产](#corporate-interceptor-drone-asset-2095176360238915978)
+- [Frutiger Aero 风格 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
+- [十场景文艺复兴电影感网站](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 - [带宠物山羊的虚拟岛屿](#virtual-island-with-a-pet-goat-2095165578042335442)
 - [交互式 3D 太阳系](#interactive-3d-solar-system-2095165395841999222)
 - [从等距柱状全景构建城市](#city-from-an-equirectangular-panorama-2095159781883597031)
@@ -70,16 +78,168 @@
 - [带纹理的 3D 资产生产流程](#textured-3d-asset-production-workflow-2094896750234378508)
 - [三款紧凑物理小游戏](#three-compact-physics-game-concepts-2094895071304839400)
 - [Three.js AAA 卡丁车竞速游戏](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [一次生成的 Three.js 机场模拟](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [悬浮日本宝塔城市](#floating-japanese-pagoda-city-2094886088963690607)
-- [Three.js 空客 H145 直升机](#airbus-h145-in-three-js-2094882571083735351)
-- [第一次世界大战体素模拟器](#world-war-i-voxel-simulator-2094881469155914170)
-- [未来私人岛屿豪宅](#futuristic-private-island-mansion-2094879208304685524)
-- [程序化生成的 Three.js 世界](#procedurally-generated-three-js-world-2094873862315843910)
-- [交互式 3D 人脑信号](#interactive-3d-human-brain-signals-2094873080590225728)
-- [照片级 Three.js 自然景观](#photorealistic-three-js-landscape-2094871858206191667)
 
 </details>
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### 太空探索与交易游戏
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="太空探索与交易游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建太空探索与交易游戏，包含可驾驶飞船、星系、空间站、商品、合约、升级、风险和令人满意的旅行循环。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [查看原帖](https://x.com/RealFedeURU/status/2095191999255035993) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### GTA 风格开放世界多人原型
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA 风格开放世界多人原型"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建一个以纽约为背景的 GTA 风格开放世界多人原型，包含驾驶、步行、城市交通、任务与可信的动态世界循环。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [查看原帖](https://x.com/mattshumer_/status/2095187868746383758) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### 漫画风 Three.js 牛仔游戏
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="漫画风 Three.js 牛仔游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+用 Three.js 创建梦想中的牛仔游戏，结合《日落骑士》的街机活力与漫画渲染，并加入灵敏射击、骑马动作和令人难忘的场面。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [查看原帖](https://x.com/Smallzero/status/2095180091257209148) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### 人类对抗失控 AGI 游戏
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="人类对抗失控 AGI 游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建一款一次生成的 Three.js 游戏，让人类对抗失控 AGI 及其机器人爪牙，并具备清晰战斗循环、升级波次和最终目标。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [查看原帖](https://x.com/lucasybai/status/2095180071221002441) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Blender 拆楼球物理测试
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender 拆楼球物理测试"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建聚焦的 Blender 物理测试：悬挂拆楼球撞击砖塔，确保缆绳行为、砖石破碎、地面碰撞可信，并使用清晰镜头。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [查看原帖](https://x.com/abyssallD/status/2095177102400081940) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
+
+### 企业共和国拦截无人机资产
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="企业共和国拦截无人机资产"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+为企业共和国阵营创建可用于游戏的重型拦截无人机，包含有力轮廓、模块化武器、清晰尺度、材质和实时资产约束。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [查看原帖](https://x.com/gladimdim/status/2095176360238915978) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="frutiger-aero-3d-world-2095171470607728926"></a>
+
+### Frutiger Aero 风格 3D 世界
+
+[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="Frutiger Aero 风格 3D 世界"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建一个受 2000 年代早期 Frutiger Aero 启发的小型交互式 3D 世界，包含明亮草地、清澈水体、气泡、半透明玻璃形体和乐观环境音。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [查看原帖](https://x.com/oliverbenns/status/2095171470607728926) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
+
+### 十场景文艺复兴电影感网站
+
+[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="十场景文艺复兴电影感网站"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建包含十个场景的电影感浏览器体验，融合文艺复兴绘画、编辑式排版、GSAP 转场、WebGL 颗粒和“创造一个世界”的主题。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [查看原帖](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
 ### 带宠物山羊的虚拟岛屿
@@ -936,167 +1096,7 @@ Create the most impressive website you can in a single self-contained HTML file.
 
 ---
 
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### 一次生成的 Three.js 机场模拟
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="一次生成的 Three.js 机场模拟"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-一次构建完整的 Three.js 机场模拟，包含跑道、航站楼、飞机滑行与起飞、地勤车辆、昼夜灯光和总览镜头。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [查看原帖](https://x.com/AlexYTScaling/status/2094893572617044439) · [返回案例导航](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### 悬浮日本宝塔城市
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="悬浮日本宝塔城市"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建一座以高细节宝塔为中心的交互式悬浮日本城市，包含分层岛屿、桥梁、雾气、灯笼光与电影感飞行控制。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [查看原帖](https://x.com/vib3coded/status/2094886088963690607) · [返回案例导航](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Three.js 空客 H145 直升机
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Three.js 空客 H145 直升机"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-使用 Three.js 创建空客 H145 直升机，让座舱、滑橇与旋翼组件清晰可辨并可检视。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [查看原帖](https://x.com/HarshithLucky3/status/2094882571083735351) · [返回案例导航](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### 第一次世界大战体素模拟器
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="第一次世界大战体素模拟器"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建一款第一次世界大战体素战场模拟器，包含战壕、士兵、载具、火炮、破坏效果和清晰的战术镜头。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [查看原帖](https://x.com/Tech2Wild/status/2094881469155914170) · [返回案例导航](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### 未来私人岛屿豪宅
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="未来私人岛屿豪宅"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-设计一座可探索的未来私人岛屿豪宅，通过五个相连的 Three.js 场景呈现，并加入电影感镜头、高级材质与环境叙事。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [查看原帖](https://x.com/aimlapi/status/2094879208304685524) · [返回案例导航](#all-prompts)
-
----
-
-<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
-
-### 程序化生成的 Three.js 世界
-
-[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="程序化生成的 Three.js 世界"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-通过一条提示词创建程序化生成的 Three.js 世界，包含多样地形、生物群落、兴趣点、环境生命和流畅探索控制。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [查看原帖](https://x.com/swarogan/status/2094873862315843910) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
-
-### 交互式 3D 人脑信号
-
-[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="交互式 3D 人脑信号"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建带有可辨识皮层沟回的交互式 3D 人脑，并用受 EEG 或 MEG 启发的视觉形式展示类似句子的信号在脑区间传播。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [查看原帖](https://x.com/GregFeingold/status/2094873080590225728) · [返回案例导航](#all-prompts)
-
----
-
-<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
-
-### 照片级 Three.js 自然景观
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="照片级 Three.js 自然景观"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建照片级 Three.js 自然景观，细化地形、植被、天空、水体、纵深与灯光，并设计自然揭示环境的镜头路径。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [查看原帖](https://x.com/aollivier82/status/2094871858206191667) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.7.md) · **8 / 10** · [→](catalog.zh.9.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>

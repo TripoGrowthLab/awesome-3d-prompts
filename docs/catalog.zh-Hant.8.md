@@ -28,6 +28,14 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [太空探索與交易遊戲](#space-exploration-and-trading-game-2095191999255035993)
+- [GTA 風格開放世界多人原型](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [漫畫風 Three.js 牛仔遊戲](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [人類對抗失控 AGI 遊戲](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Blender 拆樓球物理測試](#blender-wrecking-ball-physics-test-2095177102400081940)
+- [企業共和國攔截無人機資產](#corporate-interceptor-drone-asset-2095176360238915978)
+- [Frutiger Aero 風格 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
+- [十場景文藝復興電影感網站](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 - [帶寵物山羊的虛擬島嶼](#virtual-island-with-a-pet-goat-2095165578042335442)
 - [互動式 3D 太陽系](#interactive-3d-solar-system-2095165395841999222)
 - [從等距柱狀全景建置城市](#city-from-an-equirectangular-panorama-2095159781883597031)
@@ -70,16 +78,168 @@
 - [帶紋理的 3D 資產生產流程](#textured-3d-asset-production-workflow-2094896750234378508)
 - [三款緊湊物理小遊戲](#three-compact-physics-game-concepts-2094895071304839400)
 - [Three.js AAA 卡丁車競速遊戲](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [一次生成的 Three.js 機場模擬](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [懸浮日本寶塔城市](#floating-japanese-pagoda-city-2094886088963690607)
-- [Three.js 空客 H145 直升機](#airbus-h145-in-three-js-2094882571083735351)
-- [第一次世界大戰體素模擬器](#world-war-i-voxel-simulator-2094881469155914170)
-- [未來私人島嶼豪宅](#futuristic-private-island-mansion-2094879208304685524)
-- [程式化生成的 Three.js 世界](#procedurally-generated-three-js-world-2094873862315843910)
-- [互動式 3D 人腦訊號](#interactive-3d-human-brain-signals-2094873080590225728)
-- [照片級 Three.js 自然景觀](#photorealistic-three-js-landscape-2094871858206191667)
 
 </details>
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### 太空探索與交易遊戲
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="太空探索與交易遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置太空探索與交易遊戲，包含可駕駛飛船、星系、空間站、商品、合約、升級、風險和令人滿意的旅行迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [查看原文](https://x.com/RealFedeURU/status/2095191999255035993) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### GTA 風格開放世界多人原型
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA 風格開放世界多人原型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置一個以紐約為背景的 GTA 風格開放世界多人原型，包含駕駛、步行、城市交通、任務與可信的動態世界迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [查看原文](https://x.com/mattshumer_/status/2095187868746383758) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### 漫畫風 Three.js 牛仔遊戲
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="漫畫風 Three.js 牛仔遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+用 Three.js 建立夢想中的牛仔遊戲，結合《日落騎士》的街機活力與漫畫渲染，並加入靈敏射擊、騎馬動作和令人難忘的場面。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [查看原文](https://x.com/Smallzero/status/2095180091257209148) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### 人類對抗失控 AGI 遊戲
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="人類對抗失控 AGI 遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立一款一次生成的 Three.js 遊戲，讓人類對抗失控 AGI 及其機器人爪牙，並具備清晰戰鬥迴圈、升級波次和最終目標。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [查看原文](https://x.com/lucasybai/status/2095180071221002441) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Blender 拆樓球物理測試
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender 拆樓球物理測試"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立聚焦的 Blender 物理測試：懸掛拆樓球撞擊磚塔，確保纜繩行為、磚石破碎、地面碰撞可信，並使用清晰鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [查看原文](https://x.com/abyssallD/status/2095177102400081940) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
+
+### 企業共和國攔截無人機資產
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="企業共和國攔截無人機資產"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+為企業共和國陣營建立可用於遊戲的重型攔截無人機，包含有力輪廓、模組化武器、清晰尺度、材質和實時資產約束。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [查看原文](https://x.com/gladimdim/status/2095176360238915978) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="frutiger-aero-3d-world-2095171470607728926"></a>
+
+### Frutiger Aero 風格 3D 世界
+
+[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="Frutiger Aero 風格 3D 世界"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立一個受 2000 年代早期 Frutiger Aero 啟發的小型互動式 3D 世界，包含明亮草地、清澈水體、氣泡、半透明玻璃形體和樂觀環境音。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [查看原文](https://x.com/oliverbenns/status/2095171470607728926) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
+
+### 十場景文藝復興電影感網站
+
+[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="十場景文藝復興電影感網站"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置包含十個場景的電影感瀏覽器體驗，融合文藝復興繪畫、編輯式排版、GSAP 轉場、WebGL 顆粒和“創造一個世界”的主題。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [查看原文](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
 ### 帶寵物山羊的虛擬島嶼
@@ -933,166 +1093,6 @@ Create the most impressive website you can in a single self-contained HTML file.
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [查看原文](https://x.com/bridgemindai/status/2094894312370692443) · [專案原始碼](https://github.com/bridge-mind/turbo-kart-rush) · [線上展示](https://bridge-mind.github.io/turbo-kart-rush/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### 一次生成的 Three.js 機場模擬
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="一次生成的 Three.js 機場模擬"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-一次建置完整的 Three.js 機場模擬，包含跑道、航站樓、飛機滑行與起飛、地勤車輛、晝夜燈光和總覽鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [查看原文](https://x.com/AlexYTScaling/status/2094893572617044439) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### 懸浮日本寶塔城市
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="懸浮日本寶塔城市"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立一座以高細節寶塔為中心的互動式懸浮日本城市，包含分層島嶼、橋樑、霧氣、燈籠光與電影感飛行控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [查看原文](https://x.com/vib3coded/status/2094886088963690607) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Three.js 空客 H145 直升機
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Three.js 空客 H145 直升機"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用 Three.js 建立空客 H145 直升機，讓座艙、滑橇與旋翼元件清晰可辨並可檢視。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [查看原文](https://x.com/HarshithLucky3/status/2094882571083735351) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### 第一次世界大戰體素模擬器
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="第一次世界大戰體素模擬器"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立一款第一次世界大戰體素戰場模擬器，包含戰壕、士兵、載具、火炮、破壞效果和清晰的戰術鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [查看原文](https://x.com/Tech2Wild/status/2094881469155914170) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### 未來私人島嶼豪宅
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="未來私人島嶼豪宅"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-設計一座可探索的未來私人島嶼豪宅，透過五個相連的 Three.js 場景呈現，並加入電影感鏡頭、高階材質與環境敘事。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [查看原文](https://x.com/aimlapi/status/2094879208304685524) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
-
-### 程式化生成的 Three.js 世界
-
-[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="程式化生成的 Three.js 世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-透過一條提示詞建立程式化生成的 Three.js 世界，包含多樣地形、生物群落、興趣點、環境生命和流暢探索控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [查看原文](https://x.com/swarogan/status/2094873862315843910) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
-
-### 互動式 3D 人腦訊號
-
-[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="互動式 3D 人腦訊號"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置帶有可辨識皮層溝回的互動式 3D 人腦，並用受 EEG 或 MEG 啟發的視覺形式展示類似句子的訊號在腦區間傳播。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [查看原文](https://x.com/GregFeingold/status/2094873080590225728) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
-
-### 照片級 Three.js 自然景觀
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="照片級 Three.js 自然景觀"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立照片級 Three.js 自然景觀，細化地形、植被、天空、水體、縱深與燈光，並設計自然揭示環境的鏡頭路徑。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [查看原文](https://x.com/aollivier82/status/2094871858206191667) · [返回案例導覽](#all-prompts)
 
 ---
 

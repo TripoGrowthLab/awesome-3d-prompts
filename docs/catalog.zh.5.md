@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [YF-24 船只与轻浪 3D 海面](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
+- [顶层平面图转 Blender 预览](#top-floor-plan-to-blender-preview-2096501340889374883)
+- [可漫游的低多边形果川村落](#walkable-low-poly-gwacheon-village-2096490395614019793)
+- [组装并动画化生成的 3D 资产](#assemble-and-animate-generated-3d-assets-2096481425050743048)
+- [莱特飞行器穿越日本森林](#wright-flyer-through-a-japanese-forest-2096467585785286808)
+- [沿表面爬行的程序化昆虫](#surface-climbing-procedural-insect-2096460081982304546)
+- [重制 Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
+- [可游玩的 D4 风格公寓](#playable-d4-inspired-apartment-2096413869841473930)
 - [在 Blender 中创建并渲染黑洞](#gpt-6-astra-2096391653669953761)
 - [铁路网络模拟游戏](#railway-network-simulation-game-2096362653480562751)
 - [有员工与顾客互动的酒馆](#tavern-with-working-staff-and-guests-2096358854275543457)
@@ -70,16 +78,212 @@
 - [Blender 维京角色](#viking-character-in-blender-2096140378777010278)
 - [奥德赛风格平台冒险](#odyssey-inspired-platform-adventure-2096135808243876152)
 - [绑定与动画霸王龙](#rigged-and-animated-t-rex-2096133339329536249)
-- [32 个动画人物的可漫游办公室](#walkable-office-with-32-animated-people-2096131961345720477)
-- [阿迪瑜伽雕像黄昏飞行浏览](#adiyogi-evening-fly-through-2096128774203171021)
-- [Blender 一级方程式赛车](#formula-one-car-in-blender-2096125193580113957)
-- [实时飞机制造工厂](#live-jet-manufacturing-plant-2096122429319852319)
-- [手游广告转可玩游戏](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
-- [艺术作品转可玩角色](#artwork-to-a-playable-character-2096107343268257953)
-- [Blender 自由纪念塔](#azadi-tower-in-blender-2096107322536051057)
-- [苏州博物馆花园漫游](#suzhou-museum-garden-walkthrough-2096096998092841449)
 
 </details>
+<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
+
+### YF-24 船只与轻浪 3D 海面
+
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="YF-24 船只与轻浪 3D 海面"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Blender 中制作 YF-24 船只模型，让它航行于蒲福风级 2 级的三维海面，使用船只参考资料改善外形。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [查看原帖](https://x.com/yhmtmt1/status/2096503275910832461) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
+
+### 顶层平面图转 Blender 预览
+
+[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="顶层平面图转 Blender 预览"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据住宅顶层平面图搭建 Blender 场景，渲染 10 秒低采样预览。先清楚呈现空间布局，再细化材质。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [查看原帖](https://x.com/indigox/status/2096501340889374883) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
+
+### 可漫游的低多边形果川村落
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="可漫游的低多边形果川村落"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在单个 HTML 文件中制作以果川为灵感、可探索的温馨低多边形村落，将程序化 3D 场景、氛围、界面与交互结合起来。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [查看原帖](https://x.com/ManasJoshi76254/status/2096490395614019793) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
+
+### 组装并动画化生成的 3D 资产
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="组装并动画化生成的 3D 资产"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+使用 Tripo P2 生成优化的 3D 资产，在 Blender 中组装，为角色绑定骨骼并添加动画，检查角色与场景在空间中的配合。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [查看原帖](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
+
+### 莱特飞行器穿越日本森林
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · 游戏
+
+改编自: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="莱特飞行器穿越日本森林"></a>
+
+**提示词**
+
+```text
+# KOMOREBI——森林飞行
+
+## 1. 目标
+游戏内的所有界面文案保持英文。
+制作一款完整的浏览器飞行游戏：驾驶一架外形易辨认的 1903 年莱特飞行器，沿日本森林中的河流飞行，收集灵灯，穿过鸟居，抵达山间圣所。使用 https://komorebi-forest-flight.tripo.page/ 和所提供的参考素材完成最终构图。注明 Jared 的出处：https://x.com/jaredliu_bravo，并标注灵感来源 The Bugged Dev：https://x.com/thebuggeddev/status/2096467585785286808.
+
+## 2. 视觉方向
+打造一座安静、电影感十足的微缩森林：以深沉的雪松绿、青绿色水面、温暖的象牙白亚麻、风化木材、覆苔岩石和克制的琥珀色光线为主。使用平滑的后方追踪镜头，清晰呈现飞行器，并让下一个可收集目标出现在机翼上方的视野中。使用来自前方视野外的柔和阳光、环境补光、接触阴影、雾中山峦、水面反射、漂浮微粒和轻微泛光。避免过度曝光、漂浮的房屋、过大的光斑和棱角分明的岩壁。
+
+使用暖白色文字、纤细的半透明边框、本地 Cormorant Garamond 风格的衬线标题，以及 DM Sans 风格的控件。左上角显示 KOMOREBI、木漏日和 A FOREST FLIGHT。将指南针和“对比”控件放在上方，工具按钮放在右上角，左侧显示分数和生命，右侧显示高度和空速，底部显示章节进度。开场邀请语为“让森林载你前行。”，按钮文字为“开始飞行”。在手机上收紧叠加层布局，但不要遮挡飞行器。
+
+## 3. 世界
+构建一条全长 3.6 km、由四个等距章节组成的确定性路线：低语森林、隐秘瀑布、灯笼谷和云端圣所。对场景区块进行流式加载或循环复用。以一条缓缓蜿蜒的青绿色河流作为飞行通道的主轴；可使用 x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 作为初始曲线。沿辅助飞行路径布置鸟居入口，并在周围分层布置森林、木屋、瀑布、圆润的河滩岩石和雾中山峦。为每座房屋的占地做地形台阶处理，并将地基的四个角全部嵌入地面。
+
+## 4. 资产清单
+按以下顺序准备稳定的模型槽位：
+- `aircraft`：敞开的 1903 年莱特飞行器，配有两片宽大的象牙白亚麻机翼、外露的纤细木质框架、支柱和张力钢丝、前置鸭翼，以及后方的双推动式螺旋桨。螺旋桨必须作为独立的动画部件保留，且不得出现重复桨叶。
+- `cedar`：高大的红褐色树干、不规则分层的深绿色树冠、连贯的枝条和扎实的根部；通过改变缩放和旋转重复使用。
+- `minka`：深色风化木材、灰泥填充墙、宽大的瓦片坡屋顶、宽阔的屋檐、温暖的障子窗和石质地基。
+- `torii`：风化的日式木制鸟居，由两根立柱和宽大的弧形上梁组成；开放通道必须与现有碰撞范围匹配。
+- `lantern`：由暖色纸张和木材制成的灵灯；重复出现的可收集灵灯和较小的装饰灯使用同一模型系列，同时要让两者的用途在视觉上明显区分。
+- `rock`：底部稳固、外形圆润的覆苔河石；沿河岸实例化摆放，但不要阻挡飞行通道。
+河流、地形、山峦、瀑布水帘、光环、雾、粒子和 UI 均使用程序化生成。将每个槽位列入注册表；模型发生变化时，更新所有重复实例。
+
+## 5. 飞行与反馈
+点击“开始飞行”后自动向前飞行。使用 W/S 或上/下方向键调整高度；使用 A/D 或左/右方向键转向和侧倾。Shift 消耗一个可见且会自动充能的风力加速储备。平滑的加速度和跟随镜头应始终保持灵敏。默认飞行辅助会在松开输入后，轻柔地将飞行器拉回河流和目标高度附近；提供辅助开关和画质设置。提供触控转向和加速操作。按 Esc 暂停；打开帮助、设置或飞行器查看器时暂停飞行，并恢复之前的状态。失去焦点时清除所有持续输入。
+
+提供三颗生命。每盏灵灯奖励 100 分；每个完整穿过的鸟居奖励 250 分，每个目标只能计分一次。与地面、河岸或横梁发生碰撞会损失一颗生命，并获得短暂的无敌时间。飞行 3.6 km 后完成，显示分数、最高分和重新开始选项；生命归零时提供重试。将最高分本地保存，并处理存储失败时的回退方案。
+
+灵灯放置在大型椭圆形金色收集环内，带有上下浮动、呼吸式光晕和火花效果。将最近的目标标记为“+100 · 穿越收集”。让宽松的命中体积与动画光环对齐。收集时播放扩张光环、暖色粒子、浮动分数和 HUD 脉冲反馈。让已通过的鸟居淡出，避免遮挡追踪镜头。
+
+## 6. 实现
+使用 Vite、Three.js 和 JavaScript ES 模块，并将路线/碰撞/计分、场景、模型、特效和 UI 分离。将依赖、字体和运行时资产全部本地打包，交付静态网站。使用 GLTFLoader 和资产清单，为每个槽位记录包围范围、朝向、来源信息和回退工厂。碰撞逻辑必须独立于导入网格的形状。使用增量时间旋转两具螺旋桨；分别从追踪镜头，以及支持环绕旋转和缩放的飞行器查看器中检查螺旋桨。可用时，提供实际本地飞行器文件的下载功能。仅当实测性能确有需要时，才可选用 Blender 来分离烘焙在模型中的螺旋桨、修正枢轴或烘焙更轻量的网格。
+
+保留原始视觉基线。导入槽位存在后，“对比”控件或 C 键可在该基线与可用替代项之间切换，且不得触发页面跳转或重置飞行、镜头、生命、加速储备、分数或收集进度。过渡期间冻结进度；在下一场景准备好之前保留最后一帧完整画面，然后用约 650 ms 完成交叉淡化。遵循减少动态效果设置；防止重复点击，并在失败时恢复之前的场景。使用内嵌的深色启动背景、限制 DPR、控制粒子数量，且最多缓存两个场景变体。
+
+## 7. 验收
+交付源代码、锁定文件、npm run dev、npm run build 以及静态 dist 输出。验证完整飞行、加速、灵灯/鸟居收集、碰撞无敌、暂停/继续、触控操作、重新开始、查看器和独立槽位导入。检查“对比”两个方向都能保留状态，不出现白屏帧或持续增长的 GPU 资源占用。检查房屋接地、飞行器轮廓、螺旋桨运动、光照可读性和慢速加载恢复。报告实际测试结果和性能测试条件。按照下方共享工作流生成资产并返回。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [查看原帖](https://x.com/thebuggeddev/status/2096467585785286808) · [在线演示](https://komorebi-forest-flight.tripo.page/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="surface-climbing-procedural-insect-2096460081982304546"></a>
+
+### 沿表面爬行的程序化昆虫
+
+[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/180bfc6400787d7a531ec7bdc8c33161f9a94bfdd166b8f490d2f03fed90abe2.webp" width="840" loading="lazy" alt="沿表面爬行的程序化昆虫"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+制作能够贴着不同表面行走的多足 3D 昆虫，让腿部与身体在跨越高度变化时协调运动。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [查看原帖](https://x.com/leo_xiaolei/status/2096460081982304546) · [在线演示](https://threerocks.github.io/web-3d-pages/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096438110095585753"></a>
+
+### 重制 Lego 1999 Racers
+
+[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/eadc2c49ec0c9896087cb2efa4ccc31733fb118023f46791eb56fd594c96758f.webp" width="840" loading="lazy" alt="重制 Lego 1999 Racers"></a>
+
+**提示词**
+
+```text
+完整重制知名赛车游戏 Lego 1999 Racers。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+إعادة بناء لعبة السيارات الشهيرة Lego 1999 Racers بالكامل.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096438110095585753) · [查看原帖](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="playable-d4-inspired-apartment-2096413869841473930"></a>
+
+### 可游玩的 D4 风格公寓
+
+[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/cb01061a6f625c0910e02e414d9825df2a6bf0f1b2fb460c1f56fdfd0d1e28cd.webp" width="840" loading="lazy" alt="可游玩的 D4 风格公寓"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+研究 D4 主角的公寓，将其重建为可游玩的 3D 原型。对照参考资料检查布局与交互，不要假定结果已经精确还原。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [查看原帖](https://x.com/Swery65/status/2096413869841473930) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096391653669953761"></a>
 
 ### 在 Blender 中创建并渲染黑洞
@@ -1586,167 +1790,7 @@ First define the full gameply loop and level designs and stuff for this game int
 
 ---
 
-<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
-
-### 32 个动画人物的可漫游办公室
-
-[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="32 个动画人物的可漫游办公室"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-用 Three.js 创建浏览器办公室，提供第一人称漫游、32 个按名字打招呼的绑定人物、可点击的门、环绕与平面图模式。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [查看原帖](https://x.com/demgufever82151/status/2096131961345720477) · [项目源码](https://github.com/Parithosh-Varma/office) · [在线演示](https://office-2nw.pages.dev/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
-
-### 阿迪瑜伽雕像黄昏飞行浏览
-
-[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="阿迪瑜伽雕像黄昏飞行浏览"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Blender 中搭建阿迪瑜伽雕像场景，呈现宽阔场地、细节特写和温暖的黄昏光线。渲染 30 秒飞行浏览视频，保留可编辑场景。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [查看原帖](https://x.com/thejothiram/status/2096128774203171021) · [返回案例导航](#all-prompts)
-
----
-
-<a id="formula-one-car-in-blender-2096125193580113957"></a>
-
-### Blender 一级方程式赛车
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Blender 一级方程式赛车"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-通过计算机操作在 Blender 中创建 3D 一级方程式赛车模型。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [查看原帖](https://x.com/Conor_D_Dart/status/2096125193580113957) · [返回案例导航](#all-prompts)
-
----
-
-<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
-
-### 实时飞机制造工厂
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="实时飞机制造工厂"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-研究飞机制造并创建实时 Three.js 工厂模拟，建模机械周期、生产工位、运输与瓶颈，并测试流程。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [查看原帖](https://x.com/konstantinsaifo/status/2096122429319852319) · [返回案例导航](#all-prompts)
-
----
-
-<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
-
-### 手游广告转可玩游戏
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="手游广告转可玩游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-以手游广告为参考制作可玩的浏览器游戏，还原核心交互并通过 Blender 资产匹配视觉设定。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [查看原帖](https://x.com/buildingadlicio/status/2096111709496680842) · [返回案例导航](#all-prompts)
-
----
-
-<a id="artwork-to-a-playable-character-2096107343268257953"></a>
-
-### 艺术作品转可玩角色
-
-[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="艺术作品转可玩角色"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把 Noctavia 角色艺术作品重建为可玩的 3D 角色，保留设计语言并创建适合交互展示的完整模型。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [查看原帖](https://x.com/noctav1a/status/2096107343268257953) · [返回案例导航](#all-prompts)
-
----
-
-<a id="azadi-tower-in-blender-2096107322536051057"></a>
-
-### Blender 自由纪念塔
-
-[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="Blender 自由纪念塔"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建可编辑的 Blender 自由纪念塔模型，重点还原外展基座、交叉拱门、表面图案与可识别比例。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [查看原帖](https://x.com/taesiri/status/2096107322536051057) · [返回案例导航](#all-prompts)
-
----
-
-<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
-
-### 苏州博物馆花园漫游
-
-[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="苏州博物馆花园漫游"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-参考苏州博物馆网页在 Blender 中重建花园，制作连续漫游，保留现代建筑与传统中式园林之间的关系。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [查看原帖](https://x.com/whosamberella/status/2096096998092841449) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 10** · [→](catalog.zh.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>

@@ -28,6 +28,14 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Tek istemle Three.js havaalanı simülasyonu](#one-shot-three-js-airport-simulation-2094893572617044439)
+- [Pagodalı uçan Japon şehri](#floating-japanese-pagoda-city-2094886088963690607)
+- [Three.js'de Airbus H145](#airbus-h145-in-three-js-2094882571083735351)
+- [Birinci Dünya Savaşı voksel simülatörü](#world-war-i-voxel-simulator-2094881469155914170)
+- [Özel adada fütüristik malikâne](#futuristic-private-island-mansion-2094879208304685524)
+- [Prosedürel üretilmiş Three.js dünyası](#procedurally-generated-three-js-world-2094873862315843910)
+- [Etkileşimli 3B insan beyninde sinyaller](#interactive-3d-human-brain-signals-2094873080590225728)
+- [Fotogerçekçi Three.js manzarası](#photorealistic-three-js-landscape-2094871858206191667)
 - [WebGL gölgelendiricileriyle AAA sürü nişancı oyunu](#aaa-horde-shooter-with-webgl-shaders-2094869490165039243)
 - [Oynanabilir Titanic felaketi oyunu](#playable-titanic-disaster-game-2094867850355679617)
 - [Çok oyunculu dinozor hayatta kalma oyunu](#multiplayer-dinosaur-survival-game-2094866225960493189)
@@ -70,16 +78,168 @@
 - [Claude Opus 5'te Three.js Leonardo da Vinci ornitopter istemi](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
 - [Özgün kuşlar ve çoklu bölümlerle Angry Birds tarzı klon](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
 - [Claude Fable 5 ve Kimi K3 karşılaştırmasında kullanılan 3B futbol stadyumu görevi](#3d-soccer-stadium-2080473039834333229)
-- [Fütüristik maglev tren sahnesi için Three.js istemi](#futuristic-maglev-train-in-three-js-2080454415400493332)
-- [Bukalemun ve robotlu 3B saklambaç istemi](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
-- [Claude Fable 5 için 3B çiçekli kiraz ağacı istemi](#3d-cherry-blossom-tree-2080178541979664741)
-- [E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
-- [Hole.io tarzı Three.js oyun istemi](#hole-io-style-three-js-game-2079898758427324573)
-- [Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
-- [Tek HTML dosyasında Three.js voksel futbol animasyonu istemi](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
-- [Fable 5 ile New York kurmak için Blender şehir modelleme istemi](#modeling-new-york-city-in-blender-2079387760478073087)
 
 </details>
+<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
+
+### Tek istemle Three.js havaalanı simülasyonu
+
+[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="Tek istemle Three.js havaalanı simülasyonu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Pistler, terminaller, taksi ve kalkış yapan uçaklar, yer araçları, saate göre ışık ve genel görünüm kamerasıyla tek seferde bir Three.js havaalanı simülasyonu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [Orijinal gönderi](https://x.com/AlexYTScaling/status/2094893572617044439) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
+
+### Pagodalı uçan Japon şehri
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="Pagodalı uçan Japon şehri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Ayrıntılı bir pagoda etrafında katmanlı adalar, köprüler, sis, fener ışıkları ve sinematik uçuş kontrolleri bulunan etkileşimli, uçan Japon şehri oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [Orijinal gönderi](https://x.com/vib3coded/status/2094886088963690607) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="airbus-h145-in-three-js-2094882571083735351"></a>
+
+### Three.js'de Airbus H145
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Three.js'de Airbus H145"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de Airbus H145 helikopterinin 3B modelini oluştur. Kabini, iniş kızakları ve rotor düzeneği tanınabilir ve incelenebilir olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [Orijinal gönderi](https://x.com/HarshithLucky3/status/2094882571083735351) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
+
+### Birinci Dünya Savaşı voksel simülatörü
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="Birinci Dünya Savaşı voksel simülatörü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Siperler, askerler, araçlar, topçu, yıkım ve anlaşılır taktik kamera içeren Birinci Dünya Savaşı voksel savaş alanı simülatörü oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [Orijinal gönderi](https://x.com/Tech2Wild/status/2094881469155914170) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="futuristic-private-island-mansion-2094879208304685524"></a>
+
+### Özel adada fütüristik malikâne
+
+[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="Özel adada fütüristik malikâne"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Özel bir adada keşfedilebilir fütüristik malikâne tasarla. Sinematik kamera hareketleri, kaliteli malzemeler ve çevresel hikâye anlatımıyla birbirine bağlı beş Three.js sahnesi üzerinden sun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [Orijinal gönderi](https://x.com/aimlapi/status/2094879208304685524) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
+
+### Prosedürel üretilmiş Three.js dünyası
+
+[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="Prosedürel üretilmiş Three.js dünyası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tek istemden farklı araziler, biyomlar, ilgi noktaları, çevresel yaşam ve akıcı keşif kontrolleri olan prosedürel bir Three.js dünyası oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [Orijinal gönderi](https://x.com/swarogan/status/2094873862315843910) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
+
+### Etkileşimli 3B insan beyninde sinyaller
+
+[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="Etkileşimli 3B insan beyninde sinyaller"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tanınabilir korteks kıvrımları olan etkileşimli bir 3B insan beyni oluştur. EEG veya MEG'den esinlenen görselleştirmeyle cümle benzeri bir sinyali bölgeler arasında hareket ettir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [Orijinal gönderi](https://x.com/GregFeingold/status/2094873080590225728) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
+
+### Fotogerçekçi Three.js manzarası
+
+[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="Fotogerçekçi Three.js manzarası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de inandırıcı arazi, bitki örtüsü, gökyüzü, su, derinlik ve ışıkla fotogerçekçi manzara oluştur. Kamera rotası ortamı doğal biçimde açığa çıkarsın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [Orijinal gönderi](https://x.com/aollivier82/status/2094871858206191667) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="aaa-horde-shooter-with-webgl-shaders-2094869490165039243"></a>
 
 ### WebGL gölgelendiricileriyle AAA sürü nişancı oyunu
@@ -1061,186 +1221,6 @@ Bir geliştirici modellere aynı görevi vererek karşılaştırdı: “3B futbo
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Orijinal gönderi](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
-
-### Fütüristik maglev tren sahnesi için Three.js istemi
-
-[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="Fütüristik maglev tren sahnesi için Three.js istemi"></a>
-
-**İstem**
-
-```text
-Şeffaf cam vakum tüpünde hızla ilerleyen fütüristik maglev hızlı tren.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [Orijinal gönderi](https://x.com/Pixel_Neuron/status/2080454415400493332) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
-
-### Bukalemun ve robotlu 3B saklambaç istemi
-
-[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="Bukalemun ve robotlu 3B saklambaç istemi"></a>
-
-**İstem**
-
-```text
-İkisine de aynı istem: saklambaç oyunu. Robot ararken bukalemun duvara uymak için kendini boyuyor. Tek dosya, oynanabilir, raundlar, puan, eşleşme yüzdesi. Demo değil, bitmiş oyun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [Orijinal gönderi](https://x.com/sonicsmarta/status/2080392777515311115) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
-
-### Claude Fable 5 için 3B çiçekli kiraz ağacı istemi
-
-[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="Claude Fable 5 için 3B çiçekli kiraz ağacı istemi"></a>
-
-**İstem**
-
-```text
-3B çiçekli kiraz ağacı oluştur; hazır ağaç kitaplığı verme; model yapıyı kendi üretmeli
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [Orijinal gönderi](https://x.com/zhodonx/status/2080178541979664741) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
-
-### E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi
-
-[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · Diğer
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="E-ticaret, etkileşimli 3B müze ve RTS klonunu kapsayan çoklu proje istemi"></a>
-
-**İstem**
-
-```text
-Proje 1: 30 ürün ve 30 üretilmiş görselle e-ticaret mağazası
-Proje 2: Wikipedia'dan yaklaşık 1.000 gerçek tabloyu veri tabanına alan etkileşimli 3B müze
-Proje 3: Age of Empires klonu
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [Orijinal gönderi](https://x.com/crptAtlas/status/2080050176132300960) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="hole-io-style-three-js-game-2079898758427324573"></a>
-
-### Hole.io tarzı Three.js oyun istemi
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Hole.io tarzı Three.js oyun istemi"></a>
-
-**İstem**
-
-```text
-Tek denemede HTML + Three.js ile eksiksiz Hole.io tarzı oyun oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
-
-### Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi
-
-[Harsh](https://x.com/devloper_hs) · 2026-07-21 · Kimi K3 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205"><img src="../assets/previews/5aff9deb1b2b504e0a15e14b6c97f70d2e06974efefa1eda0515703c4b1e4a08.webp" width="840" loading="lazy" alt="Kimi K3 için tek dosyalı WebGL2 kara delik ışın izleyici istemi"></a>
-
-**İstem**
-
-```text
-Gargantua'dan esinlenen bir Schwarzschild kara deliği için gerçek zamanlı jeodezik ışın izleyici uygulayan, eksiksiz ve bağımsız tek bir HTML dosyası oluştur (Three.js gibi harici kütüphaneler olmasın).
-
-Tek bir fragment shader içinde GLSL ES 3.00 ile doğrudan WebGL2 kullan. Doğru fiziği uygula: dördüncü dereceden Runge-Kutta çözücüsüyle ışık benzeri jeodeziklerin integrasyonu, olay ufku, foton küresi, doğru render edilen yığılma diski, kütleçekimsel merceklenme, Doppler ışın demetleme ve kütleçekimsel kırmızıya kayma etkileri. Kararlı 60 FPS performansı hedefle.
-
-Fareyle kamera yörüngesi ve yakınlaştırma kontrolleri, ayrıca parametreler için (kütle, spin, disk yoğunluğu, görüş açısı vb.) kaydırıcılar içeren siberpunk tarzı bir kontrol paneli ekle. İçeri düşen madde için hafif parçacık efektleri ve dinamik ışık/gölge ekle.
-
-Çıktı %100 eksiksiz olmalı; modern bir tarayıcıda hemen çalışmalı, siyah ekran, NaN, hata veya eksik özellik içermemeli. Sayısal doğruluğu, sınır koşullarını, çözücü disiplinini ve fiziksel doğruluğu her şeyin önünde tut. Temel fizik denklemlerini doğrula ve kodda açıkla. Üst düzey bir fizik demosu/oyunu gibi görsel açıdan etkileyici ve etkileşimli olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205) · [Orijinal gönderi](https://x.com/devloper_hs/status/2079590483727442205) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="voxel-soccer-animation-in-a-single-html-file-2079553757302710442"></a>
-
-### Tek HTML dosyasında Three.js voksel futbol animasyonu istemi
-
-[Thành](https://x.com/Zmthanh) · 2026-07-21 · Kimi K3 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442"><img src="../assets/previews/771fe49a27ee707d5b3e4fe6f4ff4b4ab7eada49eda5ec2a5bd000b8fefb33da.webp" width="840" loading="lazy" alt="Tek HTML dosyasında Three.js voksel futbol animasyonu istemi"></a>
-
-**İstem**
-
-```text
-Basit voksel tarzı futbol animasyonu için Three.js (CDN) kullanan tek HTML dosyası oluştur. Blok oyuncu 2 savunmacıyı çalımlayıp kutlama parçacıklarıyla muhteşem gol atsın. Renkli stadyum görünümü kullan. YALNIZCA eksiksiz HTML kodunu döndür.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [Orijinal gönderi](https://x.com/Zmthanh/status/2079553757302710442) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="modeling-new-york-city-in-blender-2079387760478073087"></a>
-
-### Fable 5 ile New York kurmak için Blender şehir modelleme istemi
-
-[Martin Puli](https://x.com/MartinPulitano) · 2026-07-21 · Claude Fable 5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087"><img src="../assets/previews/c1df84f5898cf9fec4ed0c498e4b43b923257fa908fc65dc156c5f84920caffb.webp" width="840" loading="lazy" alt="Fable 5 ile New York kurmak için Blender şehir modelleme istemi"></a>
-
-**İstem**
-
-```text
-Burası New York. Bir ajan TEK istemle kendi başına yaptı. Parmağımı bile oynatmadım. Hâlâ aklım almıyor.
-
-Birkaç gün önce GPT 5.6 Sol ile Blender'da modelleme yapanların gönderilerini gördüm ve başka bir şey düşünemedim. Gerçek bir şeyle denemeliydim.
-
-Kendi evimle başladım. Berbat oldu: yamuk, gri, plastik maket gibi.
-
-Orada bırakabilirdim. Ama yinelemeye başladım.
-
-Yer hakkında binlerce kaynaktan gerçek veri toplayan ajanlar kurdum. Bina ayak izleri, yükseklikler, koordinatlar. Blender MCP + skill'ler + kitaplıklarla Blender'ın kendi araçlarını kullanarak modeli kuruyorlar.
-
-Sistem hazır olunca bir istem yazdım: “New York'u kur”.
-
-Manhattan'ı verdi. Gerçek ölçüler, metre hassasiyetinde konum; tek bir köşeye dokunmadım.
-
-Beklemediğim şey, farklı modelleri denediğimde GPT 5.6 Sol'un bu işte Fable 5'i ÇOK büyük farkla geçmesiydi.
-
-Bu sadece birkaç gün sürdü. Bina ayrıntılarını hâlâ iyileştiriyorum. Profilimdeki önceki videolarda güncellemeler arasındaki ilerlemeyi görebilirsiniz.
-
-Şimdi tek istemle daha fazla alanı ve ayrıntıyı kapsamasını sağlamaya çalışıyorum. (Blender'da doku ve malzemeden anlıyorsanız dinliyorum 🙏).
-
-Ama beni asıl şaşırtan model değil. Sonrasında açılan olasılıklar.
-
-.blend canlı kalıyor. Birkaç cümleyle yeni kule ekleyebilir, cadde taşıyabilir veya şehirleri birleştirebilirsiniz. New York'un üstünde Buenos Aires. Times Square'in ortasında Dikilitaş.
-
-Şehir modellemiyorum. Gerçekliği düzenlenebilir bir taslağa dönüştürüyorum.
-
-Depo + .blend ilk yorumda 👇 Her adımı burada paylaşmaya devam edeceğim. İlerleyişi seviyorsanız takip edin; daha yeni başlıyoruz.
-
-Sırada hangi şehri modellememi istersiniz?
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087) · [Orijinal gönderi](https://x.com/MartinPulitano/status/2079387760478073087) · [Örneklere dön](#all-prompts)
 
 ---
 

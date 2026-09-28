@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [32 个动画人物的可漫游办公室](#walkable-office-with-32-animated-people-2096131961345720477)
+- [阿迪瑜伽雕像黄昏飞行浏览](#adiyogi-evening-fly-through-2096128774203171021)
+- [Blender 一级方程式赛车](#formula-one-car-in-blender-2096125193580113957)
+- [实时飞机制造工厂](#live-jet-manufacturing-plant-2096122429319852319)
+- [手游广告转可玩游戏](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
+- [艺术作品转可玩角色](#artwork-to-a-playable-character-2096107343268257953)
+- [Blender 自由纪念塔](#azadi-tower-in-blender-2096107322536051057)
+- [苏州博物馆花园漫游](#suzhou-museum-garden-walkthrough-2096096998092841449)
 - [WebGL 黑洞形成演示](#black-hole-formation-in-webgl-2096093614397170104)
 - [Blender 未来风格摩托车与坦克建模](#gpt-6-astra-2096083014845636816)
 - [可拆解的程序化火车组件](#exploding-procedural-train-assemblies-2096082580554777041)
@@ -70,16 +78,168 @@
 - [Three.js 梵高小镇](#van-gogh-town-in-three-js-2095871735824339279)
 - [机械结构完整的 Blender 机车](#mechanically-complete-blender-locomotive-2095868420327710840)
 - [30 秒 Blender 场景挑战](#thirty-second-blender-scene-challenge-2095844872171421771)
-- [单轮 Three.js 海战场景](#single-turn-three-js-naval-war-scene-2095840435319001278)
-- [历任总统时期的椭圆形办公室](#oval-office-through-the-presidencies-2095830596069290077)
-- [食谱转 3D 芝士蛋糕影片](#recipe-to-3d-cheesecake-film-2095829851206774987)
-- [Tidal Rush 八人卡丁车游戏](#tidal-rush-eight-racer-browser-game-2095819786651374023)
-- [交互式 Three.js 星系首页](#interactive-three-js-galaxy-homepage-2095806515579879457)
-- [实时 WebGL 星系首屏](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
-- [可漫步的星月夜街道](#starry-night-streets-you-can-stroll-2095805115580199372)
-- [真实住宅转 60 FPS 可编辑 Blender 场景](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 
 </details>
+<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
+
+### 32 个动画人物的可漫游办公室
+
+[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="32 个动画人物的可漫游办公室"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+用 Three.js 创建浏览器办公室，提供第一人称漫游、32 个按名字打招呼的绑定人物、可点击的门、环绕与平面图模式。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [查看原帖](https://x.com/demgufever82151/status/2096131961345720477) · [项目源码](https://github.com/Parithosh-Varma/office) · [在线演示](https://office-2nw.pages.dev/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
+
+### 阿迪瑜伽雕像黄昏飞行浏览
+
+[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="阿迪瑜伽雕像黄昏飞行浏览"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Blender 中搭建阿迪瑜伽雕像场景，呈现宽阔场地、细节特写和温暖的黄昏光线。渲染 30 秒飞行浏览视频，保留可编辑场景。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [查看原帖](https://x.com/thejothiram/status/2096128774203171021) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="formula-one-car-in-blender-2096125193580113957"></a>
+
+### Blender 一级方程式赛车
+
+[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Blender 一级方程式赛车"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+通过计算机操作在 Blender 中创建 3D 一级方程式赛车模型。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [查看原帖](https://x.com/Conor_D_Dart/status/2096125193580113957) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
+
+### 实时飞机制造工厂
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="实时飞机制造工厂"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+研究飞机制造并创建实时 Three.js 工厂模拟，建模机械周期、生产工位、运输与瓶颈，并测试流程。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [查看原帖](https://x.com/konstantinsaifo/status/2096122429319852319) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
+
+### 手游广告转可玩游戏
+
+[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="手游广告转可玩游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+以手游广告为参考制作可玩的浏览器游戏，还原核心交互并通过 Blender 资产匹配视觉设定。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [查看原帖](https://x.com/buildingadlicio/status/2096111709496680842) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="artwork-to-a-playable-character-2096107343268257953"></a>
+
+### 艺术作品转可玩角色
+
+[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="艺术作品转可玩角色"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+把 Noctavia 角色艺术作品重建为可玩的 3D 角色，保留设计语言并创建适合交互展示的完整模型。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [查看原帖](https://x.com/noctav1a/status/2096107343268257953) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="azadi-tower-in-blender-2096107322536051057"></a>
+
+### Blender 自由纪念塔
+
+[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="Blender 自由纪念塔"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建可编辑的 Blender 自由纪念塔模型，重点还原外展基座、交叉拱门、表面图案与可识别比例。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [查看原帖](https://x.com/taesiri/status/2096107322536051057) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
+
+### 苏州博物馆花园漫游
+
+[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="苏州博物馆花园漫游"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+参考苏州博物馆网页在 Blender 中重建花园，制作连续漫游，保留现代建筑与传统中式园林之间的关系。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [查看原帖](https://x.com/whosamberella/status/2096096998092841449) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="black-hole-formation-in-webgl-2096093614397170104"></a>
 
 ### WebGL 黑洞形成演示
@@ -972,167 +1132,7 @@ Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at
 
 ---
 
-<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
-
-### 单轮 Three.js 海战场景
-
-[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="单轮 Three.js 海战场景"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-单轮创建高细节 Three.js 海战场景，包含多种不同舰船、可信水体交互、尾流与飞沫、空中行动、爆炸、电影灯光、镜头运动和兼顾性能的渲染。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [查看原帖](https://x.com/synthwavedd/status/2095840435319001278) · [返回案例导航](#all-prompts)
-
----
-
-<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
-
-### 历任总统时期的椭圆形办公室
-
-[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="历任总统时期的椭圆形办公室"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建交互式 Three.js 项目，探索不同总统时期的椭圆形办公室，切换时期观察家具、装饰与布局。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [查看原帖](https://x.com/fMinZhou/status/2095830596069290077) · [返回案例导航](#all-prompts)
-
----
-
-<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
-
-### 食谱转 3D 芝士蛋糕影片
-
-[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="食谱转 3D 芝士蛋糕影片"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据真实食谱用 Three.js 重建芝士蛋糕，分别建模六层结构、活底模具与烘焙纸，制作一分钟展示影片。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [查看原帖](https://x.com/sarit69976/status/2095829851206774987) · [返回案例导航](#all-prompts)
-
----
-
-<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
-
-### Tidal Rush 八人卡丁车游戏
-
-[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush 八人卡丁车游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建完整浏览器卡丁车游戏，包含 8 名车手、3 圈比赛、漂移、可拾取道具、灵敏物理、清晰 HUD、精致画面和终点结果页。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [查看原帖](https://x.com/amazing13_13/status/2095819786651374023) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
-
-### 交互式 Three.js 星系首页
-
-[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="交互式 Three.js 星系首页"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-围绕实时 Three.js 星系创建高级发布页首屏。让粒子形成隐约的数字 6 轮廓，响应滚动和指针，同时保证文字可读，并在低性能设备优雅降级。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [查看原帖](https://x.com/threejsresource/status/2095806515579879457) · [返回案例导航](#all-prompts)
-
----
-
-<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
-
-### 实时 WebGL 星系首屏
-
-[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="实时 WebGL 星系首屏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-分析给定星系首屏的视觉语言，并用实时 WebGL 而不是视频重建。使用具有景深的粒子、发光尘埃、流畅指针响应、克制的排版留白与自适应性能。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [查看原帖](https://x.com/Fluxora_Studios/status/2095805694603673631) · [返回案例导航](#all-prompts)
-
----
-
-<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
-
-### 可漫步的星月夜街道
-
-[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="可漫步的星月夜街道"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把六幅梵高画作组合成一座可探索小镇，让访客能漫步在《星月夜》的街道中。为画作之间设计自然入口，保持尺度连贯，并加入轻柔环境互动。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [查看原帖](https://x.com/BigRyan/status/2095805115580199372) · [返回案例导航](#all-prompts)
-
----
-
-<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
-
-### 真实住宅转 60 FPS 可编辑 Blender 场景
-
-[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="真实住宅转 60 FPS 可编辑 Blender 场景"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把给定真实住宅重建为完全可编辑的 Blender 场景。分离建筑与家具元素，优化几何和材质，并交付可在本地稳定 60 FPS 渲染的漫游。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [查看原帖](https://x.com/alvinfoo/status/2095777502681825541) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 10** · [→](catalog.zh.7.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>

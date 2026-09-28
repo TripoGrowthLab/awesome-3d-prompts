@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Cảnh hải chiến Three.js trong một lượt](#single-turn-three-js-naval-war-scene-2095840435319001278)
+- [Phòng Bầu dục qua các đời tổng thống](#oval-office-through-the-presidencies-2095830596069290077)
+- [Từ công thức cheesecake đến phim 3D](#recipe-to-3d-cheesecake-film-2095829851206774987)
+- [Tidal Rush: game trình duyệt với tám tay đua](#tidal-rush-eight-racer-browser-game-2095819786651374023)
+- [Trang chủ thiên hà Three.js tương tác](#interactive-three-js-galaxy-homepage-2095806515579879457)
+- [Hero thiên hà WebGL thời gian thực](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
+- [Dạo bước trên phố “Đêm đầy sao”](#starry-night-streets-you-can-stroll-2095805115580199372)
+- [Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 - [Mô hình turbo 3D tương tác dạng tháo rời](#exploded-interactive-3d-turbocharger-2095776712579571725)
 - [Thị trấn có thể đi dạo từ sáu bức tranh Van Gogh](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
 - [Từ bản vẽ đầu máy hơi nước đến cụm lắp ráp Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
@@ -70,16 +78,168 @@
 - [Figure có khớp để in 3D](#articulated-printable-action-figure-2095481098201387287)
 - [Hố đen WebGL điện ảnh](#cinematic-webgl-black-hole-2095409039005933910)
 - [Trực quan hóa tháo rời rack máy chủ AI](#exploding-ai-server-rack-visualization-2095193022304792938)
-- [Game khám phá và buôn bán trong không gian](#space-exploration-and-trading-game-2095191999255035993)
-- [Nguyên mẫu thế giới mở nhiều người kiểu GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
-- [Game cao bồi Three.js phong cách truyện tranh](#comic-book-three-js-cowboy-game-2095180091257209148)
-- [Game con người đối đầu AGI lệch mục tiêu](#human-versus-unaligned-agi-game-2095180071221002441)
-- [Thử nghiệm vật lý quả cầu phá dỡ trong Blender](#blender-wrecking-ball-physics-test-2095177102400081940)
-- [Asset drone đánh chặn của phe doanh nghiệp](#corporate-interceptor-drone-asset-2095176360238915978)
-- [Thế giới 3D Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
-- [Website Phục hưng điện ảnh gồm mười cảnh](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 
 </details>
+<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
+
+### Cảnh hải chiến Three.js trong một lượt
+
+[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Cảnh hải chiến Three.js trong một lượt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo trận hải chiến chi tiết trên Three.js trong một lượt. Có nhiều tàu khác nhau, tương tác với nước thuyết phục về vật lý, vệt sóng và nước bắn, hoạt động trên không, vụ nổ, ánh sáng điện ảnh, chuyển động camera và render có cân nhắc hiệu năng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Bài đăng gốc](https://x.com/synthwavedd/status/2095840435319001278) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
+
+### Phòng Bầu dục qua các đời tổng thống
+
+[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="Phòng Bầu dục qua các đời tổng thống"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng dự án Three.js tương tác tìm hiểu Phòng Bầu dục thay đổi qua các đời tổng thống. Cho chuyển thời kỳ để xem nội thất, trang trí và bố cục phòng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Bài đăng gốc](https://x.com/fMinZhou/status/2095830596069290077) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
+
+### Từ công thức cheesecake đến phim 3D
+
+[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Từ công thức cheesecake đến phim 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại chiếc cheesecake thật thành cảnh Three.js từ công thức. Mô hình hóa sáu lớp, khuôn rời và giấy nến riêng biệt, rồi tạo phần giới thiệu bánh dài một phút.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Bài đăng gốc](https://x.com/sarit69976/status/2095829851206774987) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
+
+### Tidal Rush: game trình duyệt với tám tay đua
+
+[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: game trình duyệt với tám tay đua"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game đua kart trên trình duyệt hoàn chỉnh với tám tay đua, ba vòng, drift, vật phẩm nhặt được, vật lý nhạy, HUD rõ ràng, đồ họa đẹp và màn kết quả sau khi về đích.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Bài đăng gốc](https://x.com/amazing13_13/status/2095819786651374023) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
+
+### Trang chủ thiên hà Three.js tương tác
+
+[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Trang chủ thiên hà Three.js tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo hero trang ra mắt cao cấp xoay quanh thiên hà Three.js thời gian thực. Cho các hạt tạo thành bóng dáng số sáu tinh tế, phản ứng với cuộn trang và con trỏ; giữ chữ dễ đọc và giảm hiệu ứng nhẹ nhàng trên thiết bị yếu.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Bài đăng gốc](https://x.com/threejsresource/status/2095806515579879457) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
+
+### Hero thiên hà WebGL thời gian thực
+
+[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="Hero thiên hà WebGL thời gian thực"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Phân tích ngôn ngữ hình ảnh của hero thiên hà được cung cấp và dựng lại bằng WebGL thời gian thực thay vì video. Dùng hạt có chiều sâu, bụi phát sáng, phản ứng con trỏ mượt, không gian chữ tiết chế và hiệu năng thích ứng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Bài đăng gốc](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
+
+### Dạo bước trên phố “Đêm đầy sao”
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="Dạo bước trên phố “Đêm đầy sao”"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Kết hợp sáu bức tranh Van Gogh thành thị trấn có thể khám phá, nơi khách đi dạo trên phố “Đêm đầy sao”. Thiết kế cổng chuyển cảnh tự nhiên giữa các tranh, duy trì tỷ lệ nhất quán và thêm tương tác môi trường nhẹ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Bài đăng gốc](https://x.com/BigRyan/status/2095805115580199372) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
+
+### Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS
+
+[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="Ngôi nhà thật thành cảnh Blender chỉnh sửa được ở 60 FPS"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng lại ngôi nhà thật được cung cấp thành cảnh Blender có thể chỉnh sửa hoàn toàn. Tách riêng các thành phần kiến trúc và nội thất, tối ưu hình học và vật liệu, bàn giao chuyến tham quan render cục bộ giữ ổn định 60 FPS.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Bài đăng gốc](https://x.com/alvinfoo/status/2095777502681825541) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
 ### Mô hình turbo 3D tương tác dạng tháo rời
@@ -926,166 +1086,6 @@ Dựng màn trực quan hóa tháo rời rack NVL72 và hệ GB300 trên Three.j
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Bài đăng gốc](https://x.com/kylejeong/status/2095193022304792938) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="space-exploration-and-trading-game-2095191999255035993"></a>
-
-### Game khám phá và buôn bán trong không gian
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Game khám phá và buôn bán trong không gian"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng game khám phá và buôn bán trong không gian với tàu lái được, hệ sao, trạm, hàng hóa, hợp đồng, nâng cấp, rủi ro và vòng du hành hấp dẫn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095191999255035993) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
-
-### Nguyên mẫu thế giới mở nhiều người kiểu GTA
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="Nguyên mẫu thế giới mở nhiều người kiểu GTA"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo nguyên mẫu ban đầu của game thế giới mở nhiều người kiểu GTA tại New York, có lái xe, di chuyển bộ, giao thông thành phố, nhiệm vụ và vòng hoạt động tạo cảm giác thế giới đang sống.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095187868746383758) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
-
-### Game cao bồi Three.js phong cách truyện tranh
-
-[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Game cao bồi Three.js phong cách truyện tranh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game cao bồi trong mơ trên Three.js, kết hợp năng lượng arcade của Sunset Riders với render truyện tranh, bắn súng nhạy, hành động cưỡi ngựa và các trường đoạn đáng nhớ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Bài đăng gốc](https://x.com/Smallzero/status/2095180091257209148) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
-
-### Game con người đối đầu AGI lệch mục tiêu
-
-[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Game con người đối đầu AGI lệch mục tiêu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game Three.js trong một lượt, nơi con người chiến đấu với AGI có mục tiêu không phù hợp với con người và robot tay sai, với vòng chiến đấu rõ, làn sóng tăng dần và mục tiêu cuối.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Bài đăng gốc](https://x.com/lucasybai/status/2095180071221002441) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
-
-### Thử nghiệm vật lý quả cầu phá dỡ trong Blender
-
-[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Thử nghiệm vật lý quả cầu phá dỡ trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo thử nghiệm vật lý Blender tập trung vào quả cầu phá dỡ treo đánh trúng tháp gạch, với dây cáp hợp lý, gạch vỡ, va chạm mặt đất và camera dễ xem.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Bài đăng gốc](https://x.com/abyssallD/status/2095177102400081940) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
-
-### Asset drone đánh chặn của phe doanh nghiệp
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="Asset drone đánh chặn của phe doanh nghiệp"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo drone đánh chặn hạng nặng sẵn sàng cho game của phe cộng hòa doanh nghiệp, với dáng hình mạnh, vũ khí mô-đun, tỷ lệ rõ, vật liệu và giới hạn asset thời gian thực.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [Bài đăng gốc](https://x.com/gladimdim/status/2095176360238915978) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="frutiger-aero-3d-world-2095171470607728926"></a>
-
-### Thế giới 3D Frutiger Aero
-
-[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="Thế giới 3D Frutiger Aero"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo thế giới 3D tương tác nhỏ lấy cảm hứng Frutiger Aero đầu thập niên 2000, với đồng cỏ sáng, nước sạch, bong bóng, hình khối thủy tinh bán trong suốt và âm thanh nền lạc quan.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [Bài đăng gốc](https://x.com/oliverbenns/status/2095171470607728926) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
-
-### Website Phục hưng điện ảnh gồm mười cảnh
-
-[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="Website Phục hưng điện ảnh gồm mười cảnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng trải nghiệm trình duyệt điện ảnh gồm mười cảnh, kết hợp tranh Phục hưng, chữ kiểu tạp chí, chuyển cảnh GSAP, hạt nhiễu WebGL và chủ đề sáng tạo một thế giới.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [Bài đăng gốc](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

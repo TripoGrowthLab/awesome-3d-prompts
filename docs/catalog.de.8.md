@@ -28,6 +28,14 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Weltraumerkundung und Handel](#space-exploration-and-trading-game-2095191999255035993)
+- [GTA-artiger Open-World-Multiplayer-Prototyp](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [Three.js-Cowboyspiel im Comicstil](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [Mensch gegen nicht ausgerichtete AGI](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Blender-Physiktest mit Abrissbirne](#blender-wrecking-ball-physics-test-2095177102400081940)
+- [Abfangdrohne einer Konzernrepublik](#corporate-interceptor-drone-asset-2095176360238915978)
+- [3D-Welt im Frutiger-Aero-Stil](#frutiger-aero-3d-world-2095171470607728926)
+- [Filmische Renaissance-Website mit zehn Szenen](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 - [Virtuelle Insel mit einer Hausziege](#virtual-island-with-a-pet-goat-2095165578042335442)
 - [Interaktives 3D-Sonnensystem](#interactive-3d-solar-system-2095165395841999222)
 - [Stadt aus einem equirektangularen Panorama](#city-from-an-equirectangular-panorama-2095159781883597031)
@@ -70,16 +78,168 @@
 - [Produktionsablauf für texturierte 3D-Assets](#textured-3d-asset-production-workflow-2094896750234378508)
 - [Drei kompakte Physikspiel-Ideen](#three-compact-physics-game-concepts-2094895071304839400)
 - [AAA-Kartrennen in Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [Three.js-Flughafensimulation in einem Versuch](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [Schwebende japanische Pagodenstadt](#floating-japanese-pagoda-city-2094886088963690607)
-- [Airbus H145 in Three.js](#airbus-h145-in-three-js-2094882571083735351)
-- [Voxel-Simulator des Ersten Weltkriegs](#world-war-i-voxel-simulator-2094881469155914170)
-- [Futuristische Villa auf einer Privatinsel](#futuristic-private-island-mansion-2094879208304685524)
-- [Prozedural generierte Three.js-Welt](#procedurally-generated-three-js-world-2094873862315843910)
-- [Interaktive Signale im 3D-Gehirn](#interactive-3d-human-brain-signals-2094873080590225728)
-- [Fotorealistische Three.js-Landschaft](#photorealistic-three-js-landscape-2094871858206191667)
 
 </details>
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### Weltraumerkundung und Handel
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Weltraumerkundung und Handel"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Weltraumerkundungs- und Handelsspiel mit fliegbaren Schiffen, Sternsystemen, Stationen, Waren, Aufträgen, Verbesserungen, Risiken und einem befriedigenden Reiseablauf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Originalbeitrag](https://x.com/RealFedeURU/status/2095191999255035993) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### GTA-artiger Open-World-Multiplayer-Prototyp
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA-artiger Open-World-Multiplayer-Prototyp"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue einen frühen GTA-artigen Multiplayer-Open-World-Prototyp in New York City mit Autofahren, Bewegung zu Fuß, Stadtverkehr, Missionen und einem überzeugenden Ablauf in einer lebendigen Welt.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Originalbeitrag](https://x.com/mattshumer_/status/2095187868746383758) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### Three.js-Cowboyspiel im Comicstil
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Three.js-Cowboyspiel im Comicstil"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle ein Traum-Cowboyspiel in Three.js, das die Arcade-Energie von Sunset Riders mit Comicrendering, direktem Schießen, Reitaction und einprägsamen Szenen verbindet.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Originalbeitrag](https://x.com/Smallzero/status/2095180091257209148) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### Mensch gegen nicht ausgerichtete AGI
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Mensch gegen nicht ausgerichtete AGI"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle in einem Versuch ein Three.js-Spiel, in dem ein Mensch gegen eine nicht ausgerichtete AGI und ihre Robotergehilfen kämpft. Integriere einen klaren Kampfablauf, steigende Angriffswellen und ein finales Ziel.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Originalbeitrag](https://x.com/lucasybai/status/2095180071221002441) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Blender-Physiktest mit Abrissbirne
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender-Physiktest mit Abrissbirne"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle einen gezielten Blender-Physiktest, bei dem eine hängende Abrissbirne einen Ziegelturm trifft. Integriere plausibles Seilverhalten, Mauerzerfall, Bodenkollision und eine übersichtliche Kamera.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Originalbeitrag](https://x.com/abyssallD/status/2095177102400081940) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
+
+### Abfangdrohne einer Konzernrepublik
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="Abfangdrohne einer Konzernrepublik"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine spielbereite schwere Abfangdrohne für eine Konzernrepublik-Fraktion mit starker Silhouette, modularer Bewaffnung, klaren Größenverhältnissen, Materialien und Echtzeit-Assetgrenzen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [Originalbeitrag](https://x.com/gladimdim/status/2095176360238915978) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="frutiger-aero-3d-world-2095171470607728926"></a>
+
+### 3D-Welt im Frutiger-Aero-Stil
+
+[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="3D-Welt im Frutiger-Aero-Stil"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine kleine interaktive 3D-Welt im Frutiger-Aero-Stil der frühen 2000er mit hellen Wiesen, klarem Wasser, Blasen, durchscheinenden Glasformen und optimistischen Umgebungsgeräuschen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [Originalbeitrag](https://x.com/oliverbenns/status/2095171470607728926) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
+
+### Filmische Renaissance-Website mit zehn Szenen
+
+[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="Filmische Renaissance-Website mit zehn Szenen"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein filmisches Browsererlebnis mit zehn Szenen, das Renaissancemalerei, redaktionelle Typografie, GSAP-Übergänge, WebGL-Körnung und das Thema einer erfundenen Welt verbindet.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [Originalbeitrag](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
 ### Virtuelle Insel mit einer Hausziege
@@ -933,166 +1093,6 @@ Baue ein Three.js-Kartrennspiel auf AAA-Niveau mit ausgefeiltem Fahrgefühl, aus
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Originalbeitrag](https://x.com/bridgemindai/status/2094894312370692443) · [Quellcode](https://github.com/bridge-mind/turbo-kart-rush) · [Live-Demo](https://bridge-mind.github.io/turbo-kart-rush/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### Three.js-Flughafensimulation in einem Versuch
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="Three.js-Flughafensimulation in einem Versuch"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue in einem Versuch eine Three.js-Flughafensimulation mit Startbahnen, Terminals, rollenden und startenden Flugzeugen, Bodenfahrzeugen, tageszeitabhängigem Licht und Übersichtskamera.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [Originalbeitrag](https://x.com/AlexYTScaling/status/2094893572617044439) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### Schwebende japanische Pagodenstadt
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="Schwebende japanische Pagodenstadt"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine interaktive schwebende japanische Stadt um eine reich detaillierte Pagode. Ergänze gestaffelte Inseln, Brücken, Nebel, Laternenlicht und filmische Flugsteuerung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [Originalbeitrag](https://x.com/vib3coded/status/2094886088963690607) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Airbus H145 in Three.js
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Airbus H145 in Three.js"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle ein 3D-Modell eines Airbus-H145-Hubschraubers in Three.js. Kabine, Landekufen und Rotorbaugruppe sollen erkennbar und untersuchbar sein.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [Originalbeitrag](https://x.com/HarshithLucky3/status/2094882571083735351) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### Voxel-Simulator des Ersten Weltkriegs
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="Voxel-Simulator des Ersten Weltkriegs"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle einen Voxel-Schlachtfeldsimulator des Ersten Weltkriegs mit Schützengräben, Soldaten, Fahrzeugen, Artillerie, Zerstörung und einer übersichtlichen taktischen Kamera.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [Originalbeitrag](https://x.com/Tech2Wild/status/2094881469155914170) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### Futuristische Villa auf einer Privatinsel
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="Futuristische Villa auf einer Privatinsel"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Entwirf eine erkundbare futuristische Villa auf einer Privatinsel. Zeige sie in fünf verbundenen Three.js-Szenen mit filmischer Kamerabewegung, hochwertigen Materialien und Umgebungsgeschichten.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [Originalbeitrag](https://x.com/aimlapi/status/2094879208304685524) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
-
-### Prozedural generierte Three.js-Welt
-
-[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="Prozedural generierte Three.js-Welt"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle aus einem Prompt eine prozedurale Three.js-Welt mit abwechslungsreichem Gelände, Biomen, interessanten Orten, Umgebungsleben und flüssiger Erkundungssteuerung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [Originalbeitrag](https://x.com/swarogan/status/2094873862315843910) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
-
-### Interaktive Signale im 3D-Gehirn
-
-[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="Interaktive Signale im 3D-Gehirn"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein interaktives menschliches 3D-Gehirn mit erkennbaren Rindenfalten. Animiere ein satzartiges Signal, das durch Regionen wandert, mit einer von EEG oder MEG inspirierten Visualisierung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [Originalbeitrag](https://x.com/GregFeingold/status/2094873080590225728) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
-
-### Fotorealistische Three.js-Landschaft
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="Fotorealistische Three.js-Landschaft"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine fotorealistische Three.js-Landschaft mit überzeugendem Gelände, Vegetation, Himmel, Wasser, Tiefe, Licht und einer Kamerafahrt, die die Umgebung natürlich erschließt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [Originalbeitrag](https://x.com/aollivier82/status/2094871858206191667) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

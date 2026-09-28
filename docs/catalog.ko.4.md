@@ -28,6 +28,14 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [아늑한 습지 호수 세계](#gpt-6-astra-2097343467026289039)
+- [《리그 오브 레전드》 웹 게임 재현](#gpt-6-astra-2097336230078013598)
+- [베이징 천단 기년전 TypeScript + Three.js WebGL 프로젝트](#gpt-6-astra-2097323734504017936)
+- [《리그 오브 레전드》 미니 3D 게임 재현](#gpt-6-astra-2097320830602809682)
+- [참조 이미지를 활용해 Blender에서 3D 모델의 얼굴 특징 개선하기](#gpt-6-astra-2097313247116341424)
+- [생성한 레퍼런스 이미지로 만드는 스카이림풍 마을 지형](#gpt-6-astra-2097167383576383502)
+- [일본 꽃집 분해 뷰 애니메이션](#gpt-6-astra-2097153139795468365)
+- [Godot에서 디지그레이드형 메크 리깅 및 애니메이션 제작](#gpt-6-astra-2097123382852829230)
 - [인터랙티브 젤리 레몬 나무](#gpt-6-astra-2097065330728128920)
 - [작업대 위의 인터랙티브 로봇 펫](#gpt-6-astra-2097004192627933279)
 - [Blender에서 12초짜리 숲길](#gpt-6-astra-2096986557244723371)
@@ -70,16 +78,294 @@
 - [원피스에서 영감을 받은 항해 세계](#one-piece-inspired-sailing-world-2096518775042707700)
 - [내 방을 인터랙티브 포트폴리오로](#personal-room-as-an-interactive-portfolio-2096506357868642342)
 - [Three.js로 완성하는 퍼즐 스테이지](#complete-three-js-puzzle-level-2096505740643246231)
-- [잔잔한 3D 바다를 달리는 YF-24 보트](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
-- [최상층 평면도에서 Blender 미리보기까지](#top-floor-plan-to-blender-preview-2096501340889374883)
-- [걸어서 둘러보는 로우폴리 과천 마을](#walkable-low-poly-gwacheon-village-2096490395614019793)
-- [생성한 3D 에셋의 조립과 애니메이션](#assemble-and-animate-generated-3d-assets-2096481425050743048)
-- [일본 숲을 가로지르는 라이트 플라이어](#wright-flyer-through-a-japanese-forest-2096467585785286808)
-- [표면을 타고 오르는 절차적 곤충](#surface-climbing-procedural-insect-2096460081982304546)
-- [Lego 1999 Racers 게임 재현](#gpt-6-astra-2096438110095585753)
-- [D4에서 영감을 받은 플레이 가능한 아파트](#playable-d4-inspired-apartment-2096413869841473930)
 
 </details>
+<a id="gpt-6-astra-2097343467026289039"></a>
+
+### 아늑한 습지 호수 세계
+
+[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="아늑한 습지 호수 세계"></a>
+
+**프롬프트**
+
+```text
+습지 가장자리에 낚시꾼의 오두막이 있는 아늑한 호수를 만드세요. 물 한가운데에는 작은 섬을 배치하고, 나무 사이에 버려진 집이 숨겨져 있도록 하세요. 오두막 옆에는 낚싯배를 추가하고, 수련 잎, 갈대, 뛰어오르는 물고기, 습지에서 볼 수 있는 야생동물, 작은 해변을 배치하세요. 해변과 오두막으로 이어지는 길 하나와 숲 안쪽으로 이어지는 길 하나를 만들고, 장면 전체를 나무 선으로 둘러싸세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097343467026289039) · [원본 게시물](https://x.com/givros/status/2097343467026289039) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097336230078013598"></a>
+
+### 《리그 오브 레전드》 웹 게임 재현
+
+[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="《리그 오브 레전드》 웹 게임 재현"></a>
+
+**프롬프트**
+
+```text
+《리그 오브 레전드》와 완전히 똑같은 게임을 제작합니다. 리그 오브 레전드의 모든 콘텐츠를 포함하고, 동일한 맵과 이에 준하는 그래픽 품질을 구현하며, 챔피언, 미니언, 포탑 등을 추가합니다. 게임 시작 시 챔피언 5명을 선택할 수 있게 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097336230078013598) · [원본 게시물](https://x.com/liyue_ai/status/2097336230078013598) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097323734504017936"></a>
+
+### 베이징 천단 기년전 TypeScript + Three.js WebGL 프로젝트
+
+[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="베이징 천단 기년전 TypeScript + Three.js WebGL 프로젝트"></a>
+
+**프롬프트**
+
+```text
+TypeScript + Three.js를 사용해 완전히 실행 가능한 베이징 천단 기년전 WebGL 프로젝트를 제작해 주세요. 모든 건축물의 지오메트리, 텍스처, 애니메이션은 실행 중 코드로 프로시저럴하게 생성해야 하며, .glb, .gltf, .obj, .fbx 등의 외부 모델은 로드하지 마세요.
+
+건축물 재현:
+크기와 높이가 서로 다른 3단 구조의 파란 유리기와 원형 지붕, 도금한 보정, 붉은 원기둥, 원형 전각 본체, 청색·녹색·금색 단청, 공포와 문·창호를 구현하세요.
+지붕은 곡선 윤곽, 회전체 또는 커스텀 지오메트리를 사용해 완만하게 펼쳐지고 끝이 살짝 올라간 처마를 표현해야 하며, 단순한 원뿔로 대체하지 마세요.
+흰색 한백옥으로 된 3단 원형 기단을 만들고, 중앙 석계단과 난간, 기둥을 배치하세요. 전체 비율은 조화롭고 구조적 레이어가 명확해야 합니다.
+기와 텍스처와 장식은 프로시저럴하게 생성하고, 반복되는 요소에는 InstancedMesh를 우선 사용하세요.
+
+장면 및 인터랙션:
+베이징의 푸른 하늘, 광장 바닥과 소량의 녹지를 구성하세요. DirectionalLight와 AmbientLight／HemisphereLight를 함께 사용하고, 그림자와 앰비언트 오클루전을 활성화하며 과하지 않은 시네마틱 톤 매핑을 적용하세요.
+OrbitControls로 회전과 확대·축소를 지원하고, 켜고 끌 수 있는 느린 자동 선회 프리뷰를 추가하세요.
+버튼으로 “분해／재조립”을 전환할 수 있게 하세요. 지붕, 기둥, 공포, 벽체, 문·창호, 난간과 기단이 계층에 따라 부드럽게 펼쳐졌다가 정확히 원위치로 돌아와야 합니다. 애니메이션은 코드로 구동하고 요소마다 시간차를 두며, 순간이동처럼 보이지 않게 하세요.
+
+완성된 프로젝트와 실행 안내를 함께 제공하세요. 페이지는 창 크기에 반응형으로 대응해야 하며, 높은 수준의 비주얼과 매끄러운 인터랙션을 갖춰야 합니다. 또한 인스턴싱, 적절한 지오메트리 디테일과 렌더링 최적화를 활용해 일반적인 데스크톱 브라우저에서도 성능을 유지하세요. 코드는 모듈별로 명확하게 구성해 확장하기 쉽게 만들고, 빌드와 주요 기능을 검증한 뒤 검증하지 못한 항목은 사실대로 명시하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
+
+建筑还原：
+三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
+屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
+白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
+程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
+
+场景与交互：
+北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
+支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
+按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
+
+直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097323734504017936) · [원본 게시물](https://x.com/goan999999/status/2097323734504017936) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097320830602809682"></a>
+
+### 《리그 오브 레전드》 미니 3D 게임 재현
+
+[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="《리그 오브 레전드》 미니 3D 게임 재현"></a>
+
+**프롬프트**
+
+```text
+1단계: 《리그 오브 레전드》와 완전히 똑같은 게임을 만드세요. LOL에 있는 것은 전부 있어야 합니다. 같은 맵과 비슷한 수준의 그래픽은 물론, 챔피언, 미니언, 포탑 등도 포함하세요. 우선 챔피언 5명으로 시작하세요. 
+
+2단계: PUA(욕설로 되받아치기) Astra: 이건 League가 아니라 싸구려 짝퉁입니다. 먼저 계획을 세운 다음, 실제 크기와 게임 메커니즘을 기준으로 정확하게 구현하세요. UI를 HTML로 위에 덧씌우지 말고, 실제 게임처럼 자연스럽고 보기 좋은 네이티브 UI로 만드세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
+
+第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097320830602809682) · [원본 게시물](https://x.com/LufzzLiz/status/2097320830602809682) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097313247116341424"></a>
+
+### 참조 이미지를 활용해 Blender에서 3D 모델의 얼굴 특징 개선하기
+
+[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="참조 이미지를 활용해 Blender에서 3D 모델의 얼굴 특징 개선하기"></a>
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
+
+**프롬프트**
+
+```text
+첫 번째 이미지를 참조해 두 번째 이미지의 얼굴 특징을 개선합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097313247116341424) · [원본 게시물](https://x.com/carlos_olivera/status/2097313247116341424) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097167383576383502"></a>
+
+### 생성한 레퍼런스 이미지로 만드는 스카이림풍 마을 지형
+
+[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="생성한 레퍼런스 이미지로 만드는 스카이림풍 마을 지형"></a>
+
+**프롬프트**
+
+```text
+img2threejs/img2threejs를 사용해 스카이림에 등장할 법한 입체적인 마을 지형을 만드세요. 레퍼런스 이미지는 직접 생성하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097167383576383502) · [원본 게시물](https://x.com/TaroKichijo/status/2097167383576383502) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097153139795468365"></a>
+
+### 일본 꽃집 분해 뷰 애니메이션
+
+[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="일본 꽃집 분해 뷰 애니메이션"></a>
+
+**프롬프트**
+
+```text
+Blender MCP를 사용해 작고 스타일라이즈드한 일본 꽃집 장면을 제작합니다. 초록색 어닝, 일본어 “花屋”가 표시된 옥상 간판, 가게 앞에 배치된 화분과 식물, 자판기, 자전거, 신호등, 전신주, 주변 나무와 그 밖의 알아보기 쉬운 거리 요소를 충실하게 재현하는 데 집중합니다. 부드러운 조명과 매력적인 머티리얼을 사용해 따뜻하고 아늑한 분위기의 사랑스러운 카툰 스타일로 렌더링합니다.
+
+꽃집 전체 장면을 강렬하고 역동적인 분해 뷰 애니메이션으로 연출합니다. 분해는 미묘한 수준이 아니라 대담하고 과장되게 표현합니다. 개별 구성 요소를 바깥쪽으로 부드럽고 체계적으로 분리해 꽃집의 구조와 내부를 극적으로 드러냅니다.
+
+분해가 진행되는 동안 외벽, 주변 나무, 전신주, 간판, 어닝, 자전거, 화분, 식물, 거리 소품과 그 밖의 환경 요소가 바깥쪽 또는 뒤쪽으로 날아가도록 연출해, 관람자가 꽃집 내부를 명확하게 볼 수 있는 충분한 공간을 확보합니다. 건물을 의미 있는 구조 레이어로 분해해 내부 건축 요소, 가구, 장식, 꽃, 식물, 선반과 작은 디테일까지 분명하게 드러냅니다.
+
+자판기도 개별 구성 요소로 분해합니다. 외장 패널이 분리되고, 내부의 탄산음료 병과 캔이 역동적으로 바깥쪽으로 날아가 알아보기 쉬운 정돈된 형태로 펼쳐지도록 합니다. 작은 부품과 디테일은 시퀀스를 더욱 시각적으로 흥미롭게 만들 수 있도록 더 멀리 이동시켜도 됩니다.
+
+시간차, 서로 다른 이동 속도, 회전, 깊이감과 레이어별 궤적을 사용해 분해 장면에 강한 에너지와 충격을 부여하면서도 모든 구성 요소가 정돈되고 따라가기 쉽게 유지합니다. 모든 요소가 정확히 같은 시점과 속도로 바깥쪽으로 움직이지 않도록 합니다.
+
+장면 전체가 완전히 분해된 후에는 구성을 잠시 유지해 관람자가 내부 구조와 분리된 모든 구성 요소를 명확하게 살펴볼 수 있도록 합니다.
+
+그다음 시퀀스를 반대로 재생합니다. 탄산음료 병, 자판기 부품, 식물, 소품, 내부 오브젝트, 벽, 나무, 전신주, 간판, 자전거와 그 밖의 모든 구성 요소가 부드럽게 제자리로 돌아와 완전한 꽃집 장면으로 재조립되도록 합니다.
+
+전체 애니메이션은 완성된 장면, 완전히 분해된 상태, 최종적으로 재조립된 장면 사이의 변화를 강한 움직임과 함께 명확하게 보여주며, 에너지가 넘치고 영화적이며 만족감과 시각적 임팩트가 느껴져야 합니다. 처음부터 끝까지 움직임을 레이어별로 구성하고, 알아보기 쉽게 유지하며, 세심하게 안무합니다.
+
+분해 뷰 시퀀스에서는 중립적인 스튜디오 배경을 사용해 분리된 오브젝트와 내부 구조가 선명하게 보이도록 합니다.
+
+최종 결과물:
+완전히 렌더링된 애니메이션과 편집 가능한 Blender 3D 프로젝트 파일을 제공합니다. 모든 오브젝트, 구성 요소, 컬렉션, 머티리얼과 주요 장면 요소는 명확하고 일관되며 전문적인 방식으로 이름을 지정하고 정리해야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
+
+Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
+
+During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
+
+The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
+
+Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
+
+Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
+
+Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
+
+The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
+
+Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
+
+Final deliverables:
+A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097153139795468365) · [원본 게시물](https://x.com/KanaWorks_AI/status/2097153139795468365) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097123382852829230"></a>
+
+### Godot에서 디지그레이드형 메크 리깅 및 애니메이션 제작
+
+[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="Godot에서 디지그레이드형 메크 리깅 및 애니메이션 제작"></a>
+
+**프롬프트**
+
+```text
+이 GLB를 리깅하고 애니메이션을 제작해 주세요. Godot 프리뷰에서 디지그레이드형 다리가 설득력 있게 걷는 모습을 보고 싶습니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2097123382852829230) · [원본 게시물](https://x.com/om_patel5/status/2097123382852829230) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097065330728128920"></a>
 
 ### 인터랙티브 젤리 레몬 나무
@@ -2062,210 +2348,6 @@ Blender 선박과 Three.js 바다로 플레이 가능한 항해 세계를 만드
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [원본 게시물](https://x.com/TvWoo/status/2096505740643246231) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
-
-### 잔잔한 3D 바다를 달리는 YF-24 보트
-
-[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="잔잔한 3D 바다를 달리는 YF-24 보트"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Blender에서 YF-24 보트를 모델링하고 보퍼트 풍력 계급 2의 3차원 바다를 항해하는 애니메이션을 만드세요. 보트 참고 자료를 활용해 형태를 개선하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [원본 게시물](https://x.com/yhmtmt1/status/2096503275910832461) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
-
-### 최상층 평면도에서 Blender 미리보기까지
-
-[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="최상층 평면도에서 Blender 미리보기까지"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-주택 최상층의 평면도로 Blender 장면을 만들고 낮은 샘플 수로 10초 미리보기를 렌더링하세요. 재질을 다듬기 전에 공간 배치가 명확히 드러나도록 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [원본 게시물](https://x.com/indigox/status/2096501340889374883) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
-
-### 걸어서 둘러보는 로우폴리 과천 마을
-
-[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="걸어서 둘러보는 로우폴리 과천 마을"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-과천에서 영감을 받은 아늑하고 탐색 가능한 로우폴리 마을을 단일 HTML 파일로 만드세요. 절차적 3D 풍경, 분위기, 인터페이스, 상호작용을 함께 구성하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [원본 게시물](https://x.com/ManasJoshi76254/status/2096490395614019793) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
-
-### 생성한 3D 에셋의 조립과 애니메이션
-
-[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="생성한 3D 에셋의 조립과 애니메이션"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Tripo P2로 최적화된 3D 에셋을 생성하고 Blender에서 조립한 뒤 캐릭터를 리깅하고 애니메이션을 적용하세요. 캐릭터와 장면이 공간적으로 잘 어울리는지 검토하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [원본 게시물](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
-
-### 일본 숲을 가로지르는 라이트 플라이어
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · 게임
-
-리믹스 원작: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="일본 숲을 가로지르는 라이트 플라이어"></a>
-
-**프롬프트**
-
-```text
-# KOMOREBI — 숲을 가르는 비행
-
-## 1. 목표
-게임 내 모든 UI 문구는 영어로 유지한다.
-완성도 높은 브라우저 비행 게임을 제작합니다. 플레이어는 일본 삼림 지대의 강을 따라 식별하기 쉬운 1903년형 라이트 플라이어를 조종하고, 정령 랜턴을 수집하며, 도리이 관문을 통과해 산속 성소에 도달합니다. 완성된 구도에는 https://komorebi-forest-flight.tripo.page/ 및 제공된 레퍼런스를 사용합니다. Jared를 https://x.com/jaredliu_bravo에서 크레딧하고, 영감을 준 The Bugged Dev는 https://x.com/thebuggeddev/status/2096467585785286808.에서 크레딧합니다.
-
-## 2. 비주얼 방향
-짙은 삼나무 숲의 녹색, 청록색 물, 따뜻한 아이보리 리넨, 풍화된 목재, 이끼 낀 돌, 절제된 호박색 조명이 어우러진 고요하고 시네마틱한 미니어처 숲을 만듭니다. 부드러운 후방 추적 카메라로 항공기를 선명하게 보여 주고, 다음 수집 아이템이 날개 너머로 보이게 합니다. 전방 시야 바깥에서 들어오는 부드러운 햇빛, 앰비언트 필, 접촉 그림자, 안개 낀 산, 수면 반사, 떠다니는 먼지 입자와 은은한 블룸을 사용합니다. 과도한 노출, 공중에 떠 있는 집, 지나치게 큰 빛 덩어리와 각진 바위 벽은 피합니다.
-
-따뜻한 오프화이트 텍스트, 얇은 반투명 테두리, 현지 Cormorant Garamond 스타일의 세리프 헤딩과 DM Sans 스타일의 컨트롤을 사용합니다. 왼쪽 상단에는 KOMOREBI, 木漏れ日, A FOREST FLIGHT를 배치합니다. 나침반과 비교 컨트롤은 상단에, 유틸리티 버튼은 오른쪽 상단에, 점수와 하트는 왼쪽에, 고도와 대기 속도는 오른쪽에, 챕터 진행 상황은 하단에 배치합니다. 시작 화면의 문구는 “숲이 이끄는 대로 날아가세요.”와 “비행 시작”으로 표시합니다. 휴대폰에서는 비행기를 가리지 않도록 오버레이를 압축합니다.
-
-## 3. 월드
-길이 3.6km의 결정론적 경로를 만들고, Whispering Woods, Hidden Falls, Lantern Valley, Cloud Sanctuary의 네 챕터를 동일한 간격으로 배치합니다. 경관 청크를 스트리밍하거나 재활용합니다. 완만하게 굽이치는 청록색 강이 비행 통로를 정의하도록 하고, 시작 곡선으로 x(z) = sin(0.006z) × 19 + sin(0.017z) × 5를 사용합니다. 지원 비행 경로를 따라 도리이 개구부를 배치하고, 주변에는 숲, 목조 가옥, 폭포, 둥근 강돌과 안개 낀 산을 층층이 구성합니다. 모든 집의 바닥 면적에 테라스를 만들고 네 모서리 모두에 기초를 매립합니다.
-
-## 4. 에셋 목록
-다음 순서로 안정적인 모델 슬롯을 준비합니다.
-- `aircraft`: 개방형 1903년형 라이트 플라이어. 넓은 아이보리 리넨 날개 2장, 노출된 가느다란 목재 프레임, 스트럿과 장력 와이어, 전방 카나드, 후방 푸셔 프로펠러 2개로 구성합니다. 프로펠러는 중복 블레이드 없이 별도의 애니메이션 파트로 유지합니다.
-- `cedar`: 키가 큰 적갈색 줄기, 불규칙하게 겹친 짙은 녹색 잎, 자연스럽게 이어지는 가지와 지면에 단단히 자리 잡은 뿌리로 구성합니다. 크기와 회전을 달리해 재사용합니다.
-- `minka`: 짙은 풍화 목재, 회벽 인필, 넓은 기와 경사지붕, 깊은 처마, 따뜻한 쇼지 창과 석조 기초로 구성합니다.
-- `torii`: 두 기둥과 넓게 굽은 상부 인방으로 이루어진 풍화된 일본식 목조 관문입니다. 열린 통로는 기존 충돌 영역과 일치해야 합니다.
-- `lantern`: 따뜻한 색감의 종이와 목재로 만든 정령 랜턴입니다. 반복 수집 아이템과 더 작은 장식용 조명에는 같은 모델 계열을 사용하되, 용도는 시각적으로 분명히 구분합니다.
-- `rock`: 바닥에 안정적으로 놓인 둥글고 이끼 낀 강돌입니다. 비행 통로를 막지 않도록 강둑을 따라 인스턴싱합니다.
-강, 지형, 산, 폭포 시트, 글로우 링, 안개, 파티클과 UI는 프로시저럴 방식으로 유지합니다. 레지스트리에 모든 슬롯을 등록하고, 모델이 변경되면 반복 인스턴스를 모두 업데이트합니다.
-
-## 5. 비행과 피드백
-비행 시작 후 자동으로 전진합니다. W/S 또는 위/아래 방향키로 고도를 조절하고, A/D 또는 왼쪽/오른쪽 방향키로 조향과 뱅크를 조절합니다. Shift를 누르면 눈에 보이는 충전식 윈드 부스트를 소모합니다. 부드러운 가속과 후방 추적 카메라는 항상 즉각적으로 반응해야 합니다. 기본 비행 보조는 입력을 놓으면 강과 목표 고도를 향해 부드럽게 복귀합니다. 비행 보조 토글과 품질 설정을 제공합니다. 터치 조향과 부스트도 지원합니다. Esc는 일시 정지 키입니다. 도움말, 설정, 항공기 뷰어를 열면 비행을 일시 정지하고 이전 상태를 복원합니다. 포커스를 잃으면 누르고 있던 입력을 초기화합니다.
-
-하트는 3개를 제공합니다. 정령 랜턴을 하나 수집할 때마다 100점을, 도리이 관문을 정상적으로 통과할 때마다 250점을 한 번만 지급합니다. 지면, 강둑, 빔과 충돌하면 하트 1개를 잃고 잠시 무적 상태가 됩니다. 3.6km 지점에서 점수, 최고 기록, 다시 플레이 옵션을 표시하며, 하트가 0개가 되면 재시도할 수 있게 합니다. 최고 기록은 로컬에 저장하고, 저장 실패 시 대체 동작을 제공합니다.
-
-랜턴은 커다란 타원형 금색 수집 링 안에 배치하고, 위아래로 흔들리는 모션, 호흡하듯 밝아지는 헤일로와 불꽃 파티클을 적용합니다. 가장 가까운 목표에는 “+100 · 통과 비행”이라고 표시합니다. 넉넉한 히트 영역을 애니메이션 링과 정렬합니다. 수집 시 확장되는 링, 따뜻한 색상의 파티클, 떠오르는 점수와 HUD 펄스를 표시합니다. 통과한 관문은 추적 카메라를 가리기 전에 페이드아웃합니다.
-
-## 6. 구현
-Vite, Three.js, JavaScript ES 모듈을 사용하고 경로/충돌/점수, 경관, 모델, 이펙트, UI를 분리합니다. 의존성, 폰트와 런타임 에셋은 로컬에 번들링하고 정적 사이트로 제공합니다. GLTFLoader와 슬롯별 바운드, 방향, 출처, 폴백 팩토리를 포함한 에셋 매니페스트를 사용합니다. 충돌 판정은 임포트한 메시 형태와 독립적으로 유지합니다. 두 프로펠러는 델타 타임을 사용해 회전시키고, 후방 추적 카메라와 궤도 회전 및 줌이 가능한 항공기 뷰어에서 확인합니다. 실제 로컬 항공기 파일을 사용할 수 있으면 해당 파일을 다운로드할 수 있게 합니다. 임포트된 프로펠러를 분리하거나 피벗을 수정하거나, 측정된 성능상 필요한 경우 더 가벼운 메시를 베이크할 때만 Blender를 선택적으로 사용합니다.
-
-기존 비주얼 기준선을 유지합니다. 임포트된 슬롯이 존재하면 Compare 또는 C 키로 해당 기준선과 사용 가능한 대체 모델을 전환하되, 내비게이션이나 비행, 카메라, 하트, 부스트, 점수, 수집 아이템을 초기화하지 않습니다. 전환 중에는 진행을 일시 정지하고, 다음 장면이 준비될 때까지 마지막으로 완성된 프레임을 유지한 다음 약 650ms 동안 크로스페이드합니다. 모션 감소 설정을 존중하고, 반복 클릭을 방지하며, 실패 시 이전 장면을 복원합니다. 인라인 다크 시작 배경, 제한된 DPR, 상한이 있는 파티클 수와 최대 2개의 캐시된 장면 변형을 사용합니다.
-
-## 7. 검수 기준
-소스 코드, lockfile, npm run dev, npm run build와 정적 dist 출력을 제공합니다. 전체 비행, 부스트, 랜턴/관문 수집, 충돌 무적, 일시 정지/재개, 터치 컨트롤, 다시 플레이, 뷰어와 독립적인 슬롯 임포트를 검증합니다. Compare의 양방향 전환에서 상태가 유지되고 흰 화면이나 GPU 리소스 증가가 발생하지 않는지 확인합니다. 집의 지면 접지, 항공기 실루엣, 프로펠러 움직임, 가독성 있는 조명과 느린 로드 상황에서의 복구를 점검합니다. 실제 테스트 결과와 성능 조건을 보고합니다. 아래의 공용 워크플로에 따라 에셋을 생성하고 반환합니다.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [원본 게시물](https://x.com/thebuggeddev/status/2096467585785286808) · [데모](https://komorebi-forest-flight.tripo.page/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="surface-climbing-procedural-insect-2096460081982304546"></a>
-
-### 표면을 타고 오르는 절차적 곤충
-
-[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/180bfc6400787d7a531ec7bdc8c33161f9a94bfdd166b8f490d2f03fed90abe2.webp" width="840" loading="lazy" alt="표면을 타고 오르는 절차적 곤충"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-여러 표면에 붙어 걸어 다니는 다족 3D 곤충을 만드세요. 높이가 달라지는 구간을 통과할 때 다리와 몸통이 조화를 이루어 움직이도록 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [원본 게시물](https://x.com/leo_xiaolei/status/2096460081982304546) · [데모](https://threerocks.github.io/web-3d-pages/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096438110095585753"></a>
-
-### Lego 1999 Racers 게임 재현
-
-[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/eadc2c49ec0c9896087cb2efa4ccc31733fb118023f46791eb56fd594c96758f.webp" width="840" loading="lazy" alt="Lego 1999 Racers 게임 재현"></a>
-
-**프롬프트**
-
-```text
-유명한 자동차 게임 Lego 1999 Racers를 완전히 재현하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-إعادة بناء لعبة السيارات الشهيرة Lego 1999 Racers بالكامل.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096438110095585753) · [원본 게시물](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="playable-d4-inspired-apartment-2096413869841473930"></a>
-
-### D4에서 영감을 받은 플레이 가능한 아파트
-
-[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/cb01061a6f625c0910e02e414d9825df2a6bf0f1b2fb460c1f56fdfd0d1e28cd.webp" width="840" loading="lazy" alt="D4에서 영감을 받은 플레이 가능한 아파트"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-D4 주인공의 아파트를 조사하고 플레이 가능한 3D 프로토타입으로 재현하세요. 정확한 복제라고 단정하지 말고, 참고 자료와 비교해 구조와 상호작용을 확인하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [원본 게시물](https://x.com/Swery65/status/2096413869841473930) · [사례 목록으로](#all-prompts)
 
 ---
 

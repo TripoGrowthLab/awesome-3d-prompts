@@ -44,7 +44,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [Parithosh-Varma/office](https://github.com/Parithosh-Varma/office)
 
-- [Walkable office with 32 animated people](../docs/catalog.en.5.md#walkable-office-with-32-animated-people-2096131961345720477) · [Parithosh-varma](https://x.com/demgufever82151)
+- [Walkable office with 32 animated people](../docs/catalog.en.6.md#walkable-office-with-32-animated-people-2096131961345720477) · [Parithosh-varma](https://x.com/demgufever82151)
 
 ## [petergpt/gogh-strike](https://github.com/petergpt/gogh-strike)
 

@@ -26,12 +26,200 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (2)</summary>
+<summary>浏览案例 (10)</summary>
 
+- [用于未来磁悬浮列车场景的 Three.js 提示词](#futuristic-maglev-train-in-three-js-2080454415400493332)
+- [变色龙与机器人捉迷藏 3D 游戏提示词](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
+- [用于 Claude Fable 5 的 3D 樱花树提示词](#3d-cherry-blossom-tree-2080178541979664741)
+- [涵盖电商、交互式 3D 博物馆和 RTS 克隆的多项目提示词](#interactive-3d-museum-and-rts-prototypes-2080050176132300960)
+- [Hole.io 风格的 Three.js 游戏提示](#hole-io-style-three-js-game-2079898758427324573)
+- [Kimi K3 的单文件 WebGL2 黑洞光线追踪器提示词](#single-file-webgl2-black-hole-raytracer-2079590483727442205)
+- [用于单文件 HTML 的 Three.js 体素风足球动画提示词](#voxel-soccer-animation-in-a-single-html-file-2079553757302710442)
+- [用于使用 Fable 5 构建纽约的 Blender 城市建模提示词](#modeling-new-york-city-in-blender-2079387760478073087)
 - [用于 Fable 5 的单文件 Three.js 体素足球动画提示词](#single-file-three-js-voxel-soccer-animation-2079198084689723560)
 - [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
+
+### 用于未来磁悬浮列车场景的 Three.js 提示词
+
+[Pixel](https://x.com/Pixel_Neuron) · 2026-07-24 · Claude Fable 5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332"><img src="../assets/previews/11dd3ef05d1d26f4eedbd0eb082a08c46df64dc399760c59818ea1d4c0d8aa77.webp" width="840" loading="lazy" alt="用于未来磁悬浮列车场景的 Three.js 提示词"></a>
+
+**提示词**
+
+```text
+一列未来感磁悬浮子弹列车在透明玻璃真空管中高速穿行。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/futuristic-maglev-train-in-three-js-2080454415400493332) · [查看原帖](https://x.com/Pixel_Neuron/status/2080454415400493332) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="chameleon-and-robot-hide-and-seek-game-2080392777515311115"></a>
+
+### 变色龙与机器人捉迷藏 3D 游戏提示词
+
+[Sonicsmart](https://x.com/sonicsmarta) · 2026-07-23 · Claude Fable 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115"><img src="../assets/previews/921db00a1eb66ed801fc204754a282694fb5402afcf76a18923b7ded86fc8c6a.webp" width="840" loading="lazy" alt="变色龙与机器人捉迷藏 3D 游戏提示词"></a>
+
+**提示词**
+
+```text
+一个提示，同时发给两个模型：一个捉迷藏游戏。变色龙会把自己涂成与墙面相匹配的颜色，而机器人会追捕它。单文件、可玩、回合制、计分、匹配百分比。不是演示，而是一个完整游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/chameleon-and-robot-hide-and-seek-game-2080392777515311115) · [查看原帖](https://x.com/sonicsmarta/status/2080392777515311115) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="3d-cherry-blossom-tree-2080178541979664741"></a>
+
+### 用于 Claude Fable 5 的 3D 樱花树提示词
+
+[zhod](https://x.com/zhodonx) · 2026-07-23 · Claude Fable 5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-cherry-blossom-tree-2080178541979664741"><img src="../assets/previews/4c672a3dccc3e3e61b896f460f0f2bd5a108ae522099e86d25e5c827ba12707a.webp" width="840" loading="lazy" alt="用于 Claude Fable 5 的 3D 樱花树提示词"></a>
+
+**提示词**
+
+```text
+构建一棵 3D 樱花树；不要使用任何预制树木库；模型必须自行生成结构
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-cherry-blossom-tree-2080178541979664741) · [查看原帖](https://x.com/zhodonx/status/2080178541979664741) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="interactive-3d-museum-and-rts-prototypes-2080050176132300960"></a>
+
+### 涵盖电商、交互式 3D 博物馆和 RTS 克隆的多项目提示词
+
+[Atlas](https://x.com/crptAtlas) · 2026-07-22 · Claude Fable 5 · 其他
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960"><img src="../assets/previews/b912ed5a62cc70881615ae0015c2a82ab07a58ab31a8436255feb10e36beb022.webp" width="840" loading="lazy" alt="涵盖电商、交互式 3D 博物馆和 RTS 克隆的多项目提示词"></a>
+
+**提示词**
+
+```text
+构建 1：带有 30 个产品和 30 张生成图片的电商商店
+构建 2：一个交互式 3D 博物馆，将将近 1,000 幅真实画作从维基百科拉取到数据库中
+构建 3：一个 Age of Empires 克隆
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-3d-museum-and-rts-prototypes-2080050176132300960) · [查看原帖](https://x.com/crptAtlas/status/2080050176132300960) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="hole-io-style-three-js-game-2079898758427324573"></a>
+
+### Hole.io 风格的 Three.js 游戏提示
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-22 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/hole-io-style-three-js-game-2079898758427324573"><img src="../assets/previews/6bcefa7a622391a1dc9f44b43383b9eec77f3dd12ef2bf5213c138c7e0ac329c.webp" width="840" loading="lazy" alt="Hole.io 风格的 Three.js 游戏提示"></a>
+
+**提示词**
+
+```text
+用 HTML + Three.js 在一次尝试中构建一个完整的 Hole.io 风格游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/hole-io-style-three-js-game-2079898758427324573) · [查看原帖](https://x.com/Oluwaphilemon1/status/2079898758427324573) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="single-file-webgl2-black-hole-raytracer-2079590483727442205"></a>
+
+### Kimi K3 的单文件 WebGL2 黑洞光线追踪器提示词
+
+[Harsh](https://x.com/devloper_hs) · 2026-07-21 · Kimi K3 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205"><img src="../assets/previews/5aff9deb1b2b504e0a15e14b6c97f70d2e06974efefa1eda0515703c4b1e4a08.webp" width="840" loading="lazy" alt="Kimi K3 的单文件 WebGL2 黑洞光线追踪器提示词"></a>
+
+**提示词**
+
+```text
+创建一个完整的、自包含的单个 HTML 文件（不使用 Three.js 等外部库），实现一个受 Gargantua 启发的史瓦西黑洞实时测地线光线追踪器。
+
+使用原生 WebGL2 和单个片段着色器中的 GLSL ES 3.00。实现准确的物理效果：带有四阶 Runge-Kutta 求解器的零测地线积分、事件视界、光子球、具有正确渲染的吸积盘、引力透镜、多普勒增亮和引力红移效应。目标是稳定 60 FPS 性能。
+
+包含鼠标控制的摄像机环绕/缩放，以及一个赛博朋克风格的控制面板，带有参数滑块（质量、自旋、盘密度、视角等）。添加用于落入物质的细微粒子效果和动态光照/阴影。
+
+输出必须 100% 完整，可在现代浏览器中立即运行，没有黑屏、NaN、错误或缺失功能。优先保证数值正确性、边界处理、求解器纪律和物理准确性。请在代码中验证并注释关键物理方程。让它在视觉上令人惊艳，并像高级物理演示/游戏一样具有交互性。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-file-webgl2-black-hole-raytracer-2079590483727442205) · [查看原帖](https://x.com/devloper_hs/status/2079590483727442205) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="voxel-soccer-animation-in-a-single-html-file-2079553757302710442"></a>
+
+### 用于单文件 HTML 的 Three.js 体素风足球动画提示词
+
+[Thành](https://x.com/Zmthanh) · 2026-07-21 · Kimi K3 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442"><img src="../assets/previews/771fe49a27ee707d5b3e4fe6f4ff4b4ab7eada49eda5ec2a5bd000b8fefb33da.webp" width="840" loading="lazy" alt="用于单文件 HTML 的 Three.js 体素风足球动画提示词"></a>
+
+**提示词**
+
+```text
+创建一个包含 Three.js（CDN）的单个 HTML 文件，用于一个简单的体素风格足球动画。一个方块风球员带球过掉 2 名防守队员，并以壮观的进球和庆祝粒子得分。球场风格色彩鲜明。仅输出完整的 HTML 代码。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/voxel-soccer-animation-in-a-single-html-file-2079553757302710442) · [查看原帖](https://x.com/Zmthanh/status/2079553757302710442) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="modeling-new-york-city-in-blender-2079387760478073087"></a>
+
+### 用于使用 Fable 5 构建纽约的 Blender 城市建模提示词
+
+[Martin Puli](https://x.com/MartinPulitano) · 2026-07-21 · Claude Fable 5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087"><img src="../assets/previews/c1df84f5898cf9fec4ed0c498e4b43b923257fa908fc65dc156c5f84920caffb.webp" width="840" loading="lazy" alt="用于使用 Fable 5 构建纽约的 Blender 城市建模提示词"></a>
+
+**提示词**
+
+```text
+这是纽约。一个代理自己建出来的，只用了一条提示词。我一点都没动手。我到现在还是无法理解。
+
+几天前，我看到了人们用 GPT 5.6 Sol 在 Blender 里建模的帖子，之后就再也没法想别的了。我必须用真实的东西试试。
+
+我先从自己的房子开始。结果烂得离谱：变形、灰色、像个塑料模型。
+
+我本可以就此停下。但我开始迭代。
+
+我组装了一些代理，它们从上千个来源抓取关于这个地方的真实数据。占地、高度、坐标。借助 Blender MCP + skills + libraries，它们使用 Blender 自己的工具来构建模型。
+
+当系统准备好后，我输入了一条提示词：“armá Nueva York”
+
+它返回了曼哈顿。真实尺寸，位置精确到米，完全不用我碰一个顶点。
+
+我没想到的是，我测试了好几个模型，在这方面 GPT 5.6 Sol 远远胜过 Fable 5。
+
+这只用了几天。我还在继续迭代建筑细节。如果你看看我个人主页上之前的视频，就会发现它在每次更新之间进步了多少。
+
+现在我正尝试用一条提示词覆盖更大的区域并增加更多细节。（如果你了解 Blender 里的纹理和材质，我在听 🙏）
+
+但真正让我震惊的不是模型本身，而是之后能开启的东西。
+
+.blend 文件是“活着”的。只需几句话，你就能添加一座新塔楼，移动一条大道，或者把整座城市融合在一起。布宜诺斯艾利斯叠在纽约上方。方尖碑矗立在时代广场中央。
+
+我不是在建模一座城市。我是在把现实变成一个可以编辑的草稿。
+
+仓库 + .blend 在第一条评论里 👇 我会继续在这里发每一步。如果你喜欢它的进展，请关注我，因为我们才刚刚开始。
+
+你想让我接下来建模哪个城市？
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/modeling-new-york-city-in-blender-2079387760478073087) · [查看原帖](https://x.com/MartinPulitano/status/2079387760478073087) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="single-file-three-js-voxel-soccer-animation-2079198084689723560"></a>
 
 ### 用于 Fable 5 的单文件 Three.js 体素足球动画提示词
@@ -71,4 +259,4 @@
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.9.md) · **10 / 10**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>

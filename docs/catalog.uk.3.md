@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Інтерактивна 3D-сцена кімнати з рухомими меблями](#gpt-6-astra-2100139076816916977)
+- [Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями](#gpt-6-astra-2099850719839109597)
+- [Процедурна космічна гра з повністю доступним світом](#gpt-6-astra-2099785223827259515)
+- [3D-серце в стилі Apple та усміхнене емодзі](#gpt-6-astra-2099750376530657300)
+- [Інтерактивна 3D-панель нервової системи організму](#gpt-6-astra-2099719427990134984)
+- [Інтерактивний вулканічний острів із човнами, що тікають](#gpt-6-astra-2099643231659012553)
+- [Створіть сцену готельного коридору](#gpt-6-astra-2099588840419651890)
+- [Воїн видирається на велетня й б’є його в щелепу](#gpt-6-astra-2099519801139908951)
 - [3D-світ із дуже високими хмарочосами](#gpt-6-astra-2099487024256589970)
 - [Модель хвойного дерева до 200 полігонів](#gpt-6-astra-2099472264270102705)
 - [Інтерактивна 3D-сцена із самураєм у лісі](#gpt-6-astra-2099450933067612421)
@@ -70,16 +78,454 @@
 - [Комедійна сцена з механічною рукою, що переслідує кота, створена в GPT-6 Astra та Blender](#gpt-6-astra-2097675660873605422)
 - [Захопливий 3D-сайт із рисовим полем](#gpt-6-astra-2097602565110419781)
 - [Сцена у Blender у стилі VHS за мотивами Backrooms](#gpt-6-astra-2097534290112188602)
-- [Затишний світ озера серед водно-болотних угідь](#gpt-6-astra-2097343467026289039)
-- [Відтворення вебгри League of Legends](#gpt-6-astra-2097336230078013598)
-- [Проєкт WebGL на TypeScript + Three.js: Зала молитов про врожай у Храмі Неба в Пекіні](#gpt-6-astra-2097323734504017936)
-- [Відтворення мініверсії 3D-гри в стилі League of Legends](#gpt-6-astra-2097320830602809682)
-- [Покращення рис обличчя 3D-моделі в Blender за допомогою референсного зображення](#gpt-6-astra-2097313247116341424)
-- [Рельєф селища в стилі Skyrim за згенерованим референсом](#gpt-6-astra-2097167383576383502)
-- [Анімація квіткової крамниці в Японії з вибуховим розкладанням](#gpt-6-astra-2097153139795468365)
-- [Ригінг і анімація меха з пальцеходими ногами в Godot](#gpt-6-astra-2097123382852829230)
 
 </details>
+<a id="gpt-6-astra-2100139076816916977"></a>
+
+### Інтерактивна 3D-сцена кімнати з рухомими меблями
+
+[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="Інтерактивна 3D-сцена кімнати з рухомими меблями"></a>
+
+**Референси:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
+
+**Промпт**
+
+```text
+Використовуючи надану мною фотографію кімнати, створіть за допомогою Blender MCP інтерактивну 3D-сцену та візуалізуйте її в демонстраційне відео. Додайте рухомі елементи (шарніри, дверцята, шухляди) і використайте продумані рухи камери, щоб показати ці ефекти.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2100139076816916977) · [Оригінальний допис](https://x.com/walterzhu8/status/2100139076816916977) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099850719839109597"></a>
+
+### Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями
+
+[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="Створення рухомого 3D-простору та ігрового персонажа за референсними зображеннями"></a>
+
+**Референси:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
+
+**Промпт**
+
+```text
+【Підготуйте заздалегідь】
+・Референсні зображення потрібного світу (зовнішній вигляд, кімнати тощо)
+・Канонічні зображення персонажа (наприклад, вигляд у трьох проєкціях)
+　※Без зображень відтворити результат неможливо. Обов’язково прикріпіть їх
+
+【Промпт】
+На основі прикріплених зображень я створю професійно опрацьований 3D-простір і персонажа для гри, якими можна буде керувати, зберігши мій задум світу та образ персонажа.
+
+① Переглянути прикріплені зображення та перевірити форму, кольори й декоративні елементи будинку та персонажа
+　↓
+② Згенерувати 3D-моделі із зображень у Tripo (три повнорозмірні зображення персонажа — спереду, ззаду та збоку — з однаковим співвідношенням сторін)
+　↓
+③ Імпортувати моделі в Blender і налаштувати розташування та розміри частин
+　↓
+④ Налаштувати автоматичний ригінг і додати рухи, що відповідають характеру персонажа, наприклад ходьбу та похитування
+　↓
+⑤ Якщо виникнуть варіанти, що потребують рішення (наприклад, використання платного асета), перш ніж продовжувати, узгодити їх зі мною
+　↓
+⑥ Документувати виконану роботу, проблемні місця та розташування матеріалів так докладно, щоб інший ШІ міг відтворити процес
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+【先に用意するもの】
+・作りたい世界観の参考画像（外観・部屋など）
+・キャラクターの正典画像（三面図など）
+　※画像がないと再現できません。添付してねん
+
+【プロンプト】
+添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
+
+① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
+　↓
+② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
+　↓
+③ Blenderに読み込みパーツの配置・サイズを調整する
+　↓
+④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
+　↓
+⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
+　↓
+⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099850719839109597) · [Оригінальний допис](https://x.com/aiehon_aya/status/2099850721646784894) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099785223827259515"></a>
+
+### Процедурна космічна гра з повністю доступним світом
+
+[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="Процедурна космічна гра з повністю доступним світом"></a>
+
+**Промпт**
+
+```text
+Усе, що я бачу, має бути доступним для досягнення. Збережімо реальні відстані, а подорож зробімо практичною завдяки масштабу й швидкості. Я хочу летіти з космосу крізь атмосферу планети й спускатися до поверхні. Планети можуть бути розміром із Землю, тож нам знадобляться процедурно згенерований ландшафт і рендерер, що працює за чанками.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099785223827259515) · [Оригінальний допис](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099750376530657300"></a>
+
+### 3D-серце в стилі Apple та усміхнене емодзі
+
+[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="3D-серце в стилі Apple та усміхнене емодзі"></a>
+
+**Промпт**
+
+```text
+3D-емодзі-серце та усміхнене емодзі в стилі Apple
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+3D Apple style heart emoji and smiling emoji
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099750376530657300) · [Оригінальний допис](https://x.com/Just_sharon7/status/2099751278234767673) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099719427990134984"></a>
+
+### Інтерактивна 3D-панель нервової системи організму
+
+[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="Інтерактивна 3D-панель нервової системи організму"></a>
+
+**Промпт**
+
+```text
+Інтерактивна панель. Ліворуч — схематичне зображення нервової системи [organism] із клікабельними ділянками. Праворуч — 3D-модель [organism] із процедурним ригінгом. Натискання на ділянку запускає рухову реакцію тривалістю 2,5 секунди. Темний інтерфейс, телеметрія швидкості та курсу.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099719427990134984) · [Оригінальний допис](https://x.com/AIMind_Ai/status/2099719427990134984) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099643231659012553"></a>
+
+### Інтерактивний вулканічний острів із човнами, що тікають
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="Інтерактивний вулканічний острів із човнами, що тікають"></a>
+
+**Промпт**
+
+```text
+створи інтерактивний вулканічний острів із потоками лави та човнами, що тікають.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build an interactive volcanic island with flowing lava and boats that flee.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099643231659012553) · [Оригінальний допис](https://x.com/WescheNex1q/status/2099643231659012553) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099588840419651890"></a>
+
+### Створіть сцену готельного коридору
+
+[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="Створіть сцену готельного коридору"></a>
+
+**Промпт**
+
+```text
+створи сцену готельного коридору
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+create hotel corridor scene
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099588840419651890) · [Оригінальний допис](https://x.com/MyWestLord/status/2099588840419651890) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099519801139908951"></a>
+
+### Воїн видирається на велетня й б’є його в щелепу
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="Воїн видирається на велетня й б’є його в щелепу"></a>
+
+**Промпт**
+
+```text
+РЕЄСТР ПЕРСОНАЖІВ:
+Рівно один дорослий чоловік — гірський воїн.
+Він має компактну, широку й надзвичайно могутню статуру. На ньому оригінальний темний середньовічний фентезійний латний обладунок кольору гарматного металу: закритий загострений шолом, багатошарові наплічники, шарнірний захист рук, важкі рукавиці, посилений нагрудник, шкіряні панелі на поясі, темні штани, сталеві поножі та важкі броньовані чоботи. Його обладунок потертий, подряпаний і мокрий від грози.
+Він несе рівно один величезний дворучний бойовий молот. Він має одне довге посилене держално з темного металу та одну важку симетричну прямокутну бойову головку. Зброя зберігає ту саму довжину, форму й вагу протягом усієї сцени. Під час стрибків, лазіння та удару він тримає її обома руками.
+Рівно один колосальний органічний гуманоїдний велетень, більш ніж у тридцять разів вищий за воїна. У нього величезні м’язисті плечі, надзвичайно довгі руки, гігантські людиноподібні кисті, груба вугільно-сіра шкіра з видимими порами та шрамами, важкі надбрівні дуги, широкий ніс, потужна щелепа й довге скуйовджене чорне волосся. Це органічний живий титан — не статуя, робот, машина чи кам’яний голем.
+Жодних додаткових воїнів, велетнів або армій на задньому плані.
+СЕРЕДОВИЩЕ:
+Поле бою у вітряному високогір’ї під бурхливою синьо-сірою грозою. Нерівна земля вкрита темним мокрим ґрунтом, прим’ятою травою та тисячами дрібних блідо-жовтих квітів. Сильний вітер згинає траву й квіти нерегулярними хвилями.
+На далекому пагорбі ліворуч у кадрі стоїть зруйнована середньовічна фортеця. Крізь низький серпанок видно рештки веж. Блискавки час від часу освітлюють фортецю та грозові хмари.
+Велетень займає праву частину поля бою в кадрі. Воїн починає рух у центрі переднього плану й біжить до велетня. Зберігайте цю географію та напрямки в кадрі під час кожної склейки.
+ХРОНОЛОГІЯ ДІЙ І КАМЕРА:
+0.00–3.30 — РИВОК ДО ВЕЛЕТНЯ
+Одразу почніть із низького трекінгового плану ззаду, знятого зблизька просто за спиною закутого в броню воїна, який потужно біжить мокрим полем до колосального велетня.
+Він тримає бойовий молот горизонтально перед собою обома руками. Важка головка молота залишається праворуч у кадрі, а нижня частина держака тягнеться ліворуч. Його чоботи стискають мокру землю з кожним кроком, викидаючи ґрунт, розчавлені квіти й краплі назад лише після фізичного контакту.
+Ноги велетня та його величезна права кисть входять у кадр із верхнього правого боку. Велетень нахиляється й простягає відкриту долоню до воїна, який мчить, маючи намір підхопити його із землі.
+Пальці рухаються незалежно, із правдоподібною роботою суглобів і відчутною вагою. Велетень не хапає воїна миттєво й не телепортує його.
+Камера рухається низько, швидко й плавно, підкреслюючи величезну різницю в масштабі. Зруйнована фортеця залишається видимою на далекому лівому горизонті в кадрі.
+3.30–5.80 — СТРИБОК НА РУКУ ВЕЛЕТНЯ
+Коли відкрита долоня велетня низько проходить траєкторією воїна, воїн твердо ставить правий чобіт на землю. Його коліно стискається, стегна опускаються, а задня нога штовхає тіло вгору.
+Він виконує один потужний стрибок уперед.
+Застосуйте контрольоване кінематографічне сповільнення, коли він підіймається перед розведеними пальцями велетня. Його ноги злегка підтягуються під тулуб, а обидві руки підіймають той самий бойовий молот над плечима для рівноваги.
+Воїн приземляється обома чоботами на тильну поверхню середнього та безіменного пальців велетня. Покажіть чіткий фізичний контакт: чоботи торкаються шкіри, коліна амортизують удар, плоть велетня злегка стискається, а обладунок воїна реагує на приземлення.
+Велетень починає піднімати руку до обличчя. Воїн не зависає й не висить у порожньому повітрі.
+Застосуйте ефектний нижній ракурс із крановим рухом, який підіймається під воїном, тоді як величезна кисть заповнює задній план.
+5.80–9.00 — БІГ УГОРУ РУКОЮ
+Поверніться до швидкої природної дії.
+Коли велетень підіймає руку, воїн біжить від пальців по тильній поверхні кисті до зап’ястка. Його кроки правильно й помітно чергуються та чіпко втримуються на нерівній рухомій поверхні.
+Велетень обертає зап’ясток і намагається струсити його. Воїн опускає центр ваги, розширює стійку й тримає молот близько до тулуба, доки рука не стабілізується.
+Потім він пришвидшується вздовж передпліччя велетня до ліктя. Кожен крок відповідає зміні кута руки; його чоботи не ковзають крізь шкіру.
+Камера рухається поруч і трохи нижче за нього, підіймаючись уздовж руки велетня. Ближні частини руки швидко перетинають передній план, тоді як голова велетня й далека фортеця рухаються повільніше, створюючи виразний паралакс і відчуття масштабу.
+9.00–12.00 — ПІДЙОМ НА ПЛЕЧЕ
+Воїн досягає верхньої частини руки, яка круто підіймається до плеча велетня.
+Він чіпляється одним передпліччям і держаком бойового молота за природний м’язовий виступ для опори, ставить правий чобіт, відштовхується ногою й одним цілісним рухом підтягується на плече.
+Велетень повертає до нього голову. Його око стежить за воїном, надбрівна дуга напружується, а щелепа розкривається в глибокому невербальному ревінні. Волосся та шкіра рухаються разом із поворотом голови.
+Воїн залишається прикріпленим до плеча завдяки реальному контакту рук і чобіт. Він діагонально перебирається верхньою частиною плеча до основи шиї велетня.
+Використайте крупний боковий трекінговий план, у якому повністю видно воїна, бойовий молот і профіль обличчя велетня в одному кадрі.
+12.00–15.00 — ПОВНИЙ УДАР МОЛОТОМ У ЩЕЛЕПУ
+Воїн займає стійке положення на похилому плечі велетня біля його шиї.
+Він виставляє лівий чобіт уперед, а правий ставить позаду. Обидві стопи помітно притискаються до шкіри велетня. Він розвертає стегна від цілі й відводить бойовий молот назад обома руками.
+Покажіть повну підготовку до удару:
+стопи фіксуються → коліна стискаються → стегна навантажуються → тулуб обертається → плечі відводять молот назад → руки спрямовують важку головку молота у вихідне положення.
+На 13.00 секунді воїн виконує один повний горизонтальний дворучний замах у напрямку щелепи велетня.
+Сила безперервно передається від ніг через стегна, тулуб, плечі та руки. Головка молота рухається однією чіткою безперервною дугою. Вона не змінює положення стрибком і не торкається обличчя до завершення замаху.
+На 14.00 секунді перейдіть до виразного надповільного руху для вирішального контакту.
+Прямокутна головка молота вдаряє широкою ударною поверхнею в бік нижньої щелепи велетня — не держаком і не руків’ям. Покажіть, як шкіра й тканини щоки стискаються навколо місця удару, щелепа зміщується вбік, розпущене волосся розлітається, а дощ, пил і частинки шкіри радіально розлітаються від точки контакту.
+Руки воїна протидіють раптовому гальмуванню. Його плечі відкидаються назад, а тіло продовжує рух у контрольованому завершенні замаху.
+Без крові, оголених тканин, кривавих сцен або розчленування.
+15.00–17.30 — ВІДДАЧА ВЕЛЕТНЯ І ПАДІННЯ ВОЇНА
+Негайно поверніться до природної швидкості.
+Голова велетня різко відхиляється вбік від удару. Його верхня частина тулуба відкидається назад, а вражене плече різко опускається. Цей раптовий рух униз позбавляє воїна опори й відкидає його від велетня.
+Воїн падає до поля бою, утримуючи той самий бойовий молот обома руками. Він не зависає й не виконує додаткового стрибка.
+Перейдіть до бічного ракурсу на рівні землі. Першими торкаються землі його чоботи, коліна підламуються від інерції, і він один раз перекочується через плече. Головка молота вдаряється об ґрунт поруч із ним і прорізає неглибоку борозну, розкидаючи мокру землю та бліді квіти.
+Величезне обличчя велетня опускається у верхню праву частину кадру, поки він намагається відновити рівновагу. Він не розчавлює воїна й не перетинається з ним.
+17.30–20.00 — ВІДНОВЛЕННЯ І ФІНАЛЬНЕ ПРОТИСТОЯННЯ
+Воїн зупиняє перекочування в низькому положенні на одному коліні.
+Він встромляє головку бойового молота в ґрунт, обома руками стискає держак і використовує його як опору, щоб плавно підвестися на одне коліно. Потім витягає молот і розташовує держак горизонтально поперек плечей у готовій оборонній стійці.
+Велетень опускає до нього свою величезну голову; його щелепа помітно забита від удару, але він залишається при свідомості й загрозливим. Його подих ворушить траву, квіти, туман і вільні шкіряні панелі на обладунку воїна.
+Воїн залишається нерухомим лише протягом короткої рішучої миті, а його дихання й обладунок зберігають ледь помітний природний рух.
+Удар блискавки освітлює зруйновану фортецю ліворуч у кадрі, окреслюючи обидві постаті й підтверджуючи величезну різницю в масштабі.
+Завершіть рівно на 20.00 секунді низькою широкою композицією: воїн стоїть на коліні на вкритому квітами передньому плані, тримаючи напоготові бойовий молот; над ним нависає обличчя велетня, а далеку фортецю видно крізь грозу.
+Не робіть затемнення до чорного. Без стоп-кадру, заголовка чи фінальної заставки.
+ФІКСАЦІЯ ФІЗИКИ ДІЇ:
+Кожна дія має підпорядковуватися зрозумілій фізичній причинно-наслідковості:
+Біг: контакт стопи → перенесення ваги → поштовх задньою ногою → наступний крок.
+Стрибок: опорна стопа → стискання коліна → розгинання ноги → траєкторія в повітрі → контакт під час приземлення → амортизація колінами.
+Лазіння: опора на руку або зброю → опорний чобіт → перенесення ваги тіла → підтягування вгору.
+Удар молотом: стійкі стопи → навантаження стегон → обертання тулуба → поштовх плечем → безперервна траєкторія молота → контакт широкою ударною поверхнею → опір → завершення замаху.
+Падіння: втрата опори, спричинена віддачею велетня → спуск під дією сили тяжіння → контакт чобіт із землею → підгинання колін → перекочування через плече → відновлення.
+Воїн ніколи не телепортується між землею, кистю, рукою та плечем. Велетень ніколи не переміщує воїна без прямого фізичного контакту або видимої сили.
+ПРАВИЛА ШВИДКОСТІ РУХУ:
+0.00–3.30: швидкий природний темп бігу.
+3.30–5.80: контрольоване кінематографічне сповільнення для стрибка й приземлення.
+5.80–13.90: природна швидка дія.
+13.90–15.00: виразне надповільне відтворення лише для фінального наближення молота, контакту й безпосередньої деформації.
+15.00–20.00: чітке повернення до природної швидкості.
+Не застосовуйте глобальне сповільнення. Не дозволяйте персонажам у сповільненій зйомці зависати.
+ОСВІТЛЕННЯ Й КОЛІР:
+Зберігайте холодну сталево-синю, вугільно-сіру та ненасичену сріблясту кольорокорекцію грози. Блискавка забезпечує короткочасне холодно-біле спрямоване освітлення. Мокрий обладунок отримує вузькі сріблясті відблиски, а темна шкіра велетня залишається деталізованою та добре видимою.
+Бліді квіти створюють стриманий теплий відтінок слонової кістки, не роблячи сцену барвистою. Зберігайте глибокий атмосферний туман навколо далекої фортеці. Зміни експозиції від блискавок мають бути короткими й не повинні стирати анатомію персонажів або приховувати пропущені дії.
+АУДІО:
+Лише синхронізовані дієгетичні звуки довкілля та дії. Абсолютно без фонової музики чи музичного супроводу.
+Додайте грозовий вітер, далекий грім, рух обладунку, важкі удари ніг під час бігу, потривожений ґрунт, шелестіння трави, невербальне дихання й ревіння велетня, свист руху його руки, стрибок воїна, контакт чобіт зі шкірою, удари під час лазіння, рух бойового молота, один глибокий металевий удар молота, віддачу велетня, шум падіння в повітрі, удар обладунку об землю, удар головки молота об землю та фінальний близький тріск блискавки.
+Без діалогів, оповіді, вимовлених слів, скандувань, текстів пісень або зрозумілої мови.
+БЕЗПЕРЕРВНІСТЬ І ЗАПОБІГАННЯ ПОМИЛКАМ:
+Протягом усієї сцени рівно один воїн, один велетень і один бойовий молот.
+Воїн один раз видирається на велетня й виконує рівно один вирішальний удар молотом.
+Бойовий молот ніколи не дублюється, не змінює розмір, не зависає, не згинається, не проходить крізь жодне тіло й не переходить з руки в руку без видимого руху.
+Велетень залишається тією самою органічною гуманоїдною істотою в кожному кадрі. Жодних роботизованих рис, перетворення на камінь, дубльованих кистей, додаткових пальців або змін обличчя.
+Зберігайте обладунок, шолом, пропорції та пошкодження воїна протягом усієї сцени.
+Зберігайте маршрут від правої кисті велетня через праву руку до плеча, щоб географія лазіння залишалася фізично можливою.
+Без злитих кистей, зайвих кінцівок, вивернутих суглобів, ковзання чобіт, перетину тіл, телепортації або зависання без опори.
+Широка головка молота, а не держак, має бути помітно в контакті зі щелепою велетня після завершення замаху.
+Без крові, кривавих сцен, оголених тканин, розчавленого людського тіла або розчленування.
+Без вигляду ігрового кіно, впізнаваних персонажів франшиз, субтитрів, написів, логотипів, інтерфейсу, накладок програвача, постійних чорних смуг або водяних знаків.
+Будь-яка фонова музика чи музичний супровід означає невдалу генерацію.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+CHARACTER REGISTRY:
+Exactly one adult male mountain warrior.
+He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
+He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
+Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
+No additional warriors, giants or background armies.
+ENVIRONMENT:
+A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
+A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
+The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
+CHRONOLOGICAL ACTION AND CAMERA:
+0.00–3.30 — CHARGE TOWARD THE GIANT
+Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
+He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
+The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
+The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
+Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
+3.30–5.80 — LEAP ONTO THE GIANT’S HAND
+As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
+He performs one powerful forward jump.
+Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
+The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
+The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
+Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
+5.80–9.00 — RUNNING UP THE ARM
+Return to fast natural action.
+As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
+The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
+He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
+Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
+9.00–12.00 — CLIMB TO THE SHOULDER
+The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
+He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
+The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
+The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
+Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
+12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
+The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
+He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
+Show the complete preparation before impact:
+feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
+At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
+The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
+At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
+The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
+The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
+No blood, exposed tissue, gore or dismemberment.
+15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
+Return immediately to natural speed.
+The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
+The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
+Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
+The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
+17.30–20.00 — RECOVERY AND FINAL STANDOFF
+The warrior stops his roll in a low kneeling position.
+He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
+The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
+The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
+A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
+End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
+Do not fade to black. No freeze frame, title or end card.
+ACTION-PHYSICS LOCK:
+Every action must follow readable physical causality:
+Running: foot contact → weight transfer → rear-leg push → next step.
+Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
+Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
+Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
+Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
+The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
+MOTION-SPEED RULES:
+0.00–3.30: fast natural running speed.
+3.30–5.80: controlled cinematic slow motion for the jump and landing.
+5.80–13.90: natural fast action.
+13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
+15.00–20.00: clear return to natural speed.
+Do not apply global slow motion. Do not allow slow-motion characters to hover.
+LIGHTING AND COLOR:
+Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
+The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
+AUDIO:
+Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
+Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
+No dialogue, narration, spoken words, chants, lyrics or intelligible language.
+CONTINUITY AND FAILURE PREVENTION:
+Exactly one warrior, one giant and one warhammer throughout.
+The warrior climbs the giant once and performs exactly one decisive hammer strike.
+The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
+The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
+Preserve the warrior’s armor, helmet, proportions and damage throughout.
+Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
+No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
+The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
+No blood, gore, exposed tissue, crushed human body or dismemberment.
+No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
+Any background music or musical score is a failed generation.
+music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2099519801139908951) · [Оригінальний допис](https://x.com/MadMax_Series/status/2099519801139908951) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2099487024256589970"></a>
 
 ### 3D-світ із дуже високими хмарочосами
@@ -3465,292 +3911,6 @@ Render a scene in Blender that looks like a first person VHS tape recording of s
 </details>
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097534290112188602) · [Оригінальний допис](https://x.com/chrisfirst/status/2097534290112188602) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097343467026289039"></a>
-
-### Затишний світ озера серед водно-болотних угідь
-
-[Givros](https://x.com/givros) · 2026-09-08 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097343467026289039"><img src="../assets/previews/cc684506ace13143d6d1dc8e90c6e18d6930dbe26ab72a8bf912e4a1a8320899.webp" width="840" loading="lazy" alt="Затишний світ озера серед водно-болотних угідь"></a>
-
-**Промпт**
-
-```text
-Створіть затишне озеро з хатинкою рибалки на заболоченому березі. Посеред водойми розмістіть невеликий острів, а серед дерев на ньому сховайте покинутий будинок. Додайте поруч із хатинкою рибальський човен, латаття, очерет, рибу, що вистрибує з води, типових мешканців водно-болотних угідь, невеликий пляж, одну стежку до пляжу й хатинки, іншу стежку, що веде назад у ліс, а також смугу дерев навколо всієї сцени.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create a cozy lake with a fisherman’s cabin on the marshy shore. Put a small island in the middle of the water, with an abandoned house hidden among the trees. Add a fishing boat beside the cabin, lily pads, reeds, jumping fish, typical wetland wildlife, a small beach, one path leading to the beach and cabin, another path returning into the forest, and a tree line around the entire scene.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097343467026289039) · [Оригінальний допис](https://x.com/givros/status/2097343467026289039) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097336230078013598"></a>
-
-### Відтворення вебгри League of Legends
-
-[李岳](https://x.com/liyue_ai) · 2026-09-08 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097336230078013598"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Відтворення вебгри League of Legends"></a>
-
-**Промпт**
-
-```text
-Створіть гру, ідентичну League of Legends. Вона має містити весь контент League of Legends, ту саму карту та зіставний рівень графіки, а також героїв, міньйонів, вежі тощо. На початку оберіть 5 героїв.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-制作一款和《英雄联盟》一模一样的游戏。它需要拥有英雄联盟的全部内容 ，相同的地图、画质水平相当，包含英雄、小兵、防御塔等等。开局选用 5 名英雄。
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097336230078013598) · [Оригінальний допис](https://x.com/liyue_ai/status/2097336230078013598) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097323734504017936"></a>
-
-### Проєкт WebGL на TypeScript + Three.js: Зала молитов про врожай у Храмі Неба в Пекіні
-
-[govin.eth \| G哥](https://x.com/goan999999) · 2026-09-08 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097323734504017936"><img src="../assets/previews/18043f548c9d629a2d1a5213a1a774358904e0878196dbca86611ffad1c0f401.webp" width="840" loading="lazy" alt="Проєкт WebGL на TypeScript + Three.js: Зала молитов про врожай у Храмі Неба в Пекіні"></a>
-
-**Промпт**
-
-```text
-За допомогою TypeScript + Three.js створіть повністю працездатний WebGL-проєкт із відтворенням Зали молитов про врожай у Храмі Неба в Пекіні. Уся геометрія будівлі, текстури й анімації мають програмно генеруватися кодом під час виконання; заборонено завантажувати зовнішні моделі у форматах .glb, .gltf, .obj, .fbx тощо.
-
-Відтворення архітектури:
- три сині куполи з глазурованою черепицею, різні за розміром і висотою, позолочена верхівка, червоні колони, круглий корпус будівлі, синьо-золотий розпис із зеленими деталями, кронштейнова система доугун, двері та вікна.
- Для даху використовуйте криволінійний профіль, тіло обертання або власну геометрію, щоб передати плавні, злегка підняті карнизи; не замінюйте їх простим конусом.
- Білий триярусний круглий стилобат із ханьбайського мармуру, центральними кам'яними сходами, балюстрадами та колонами; загальні пропорції мають бути гармонійними, а яруси — чітко помітними.
- Текстури черепиці й декоративні елементи генеруйте процедурно; для повторюваних компонентів віддавайте перевагу InstancedMesh.
-
-Сцена та взаємодія:
- Блакитне небо Пекіна, площа та невелика кількість озеленення; використовуйте DirectionalLight у поєднанні з AmbientLight／HemisphereLight, увімкніть тіні, затінення навколишнього середовища та помірне кінематографічне тональне відображення.
- Реалізуйте обертання й масштабування через OrbitControls, а також повільний автоматичний обліт, який можна вмикати та вимикати.
- Додайте перемикач режимів «вибухове розбирання／збирання»: дах, колони, доугун, стіни, двері й вікна, балюстради та стилобат мають плавно розходитися пошарово, а потім точно повертатися на початкові місця. Анімація повинна керуватися кодом і мати рознесений у часі ритм без телепортації елементів.
-
- Одразу надайте повний проєкт та інструкції із запуску. Сторінка має адаптивно підлаштовуватися під розмір вікна, забезпечувати якісну візуалізацію та плавну взаємодію, а завдяки інстансингу, продуманій деталізації геометрії й оптимізації рендерингу — зберігати належну продуктивність у звичайних настільних браузерах. Структура коду має бути чіткою та зручною для розширення; перевірте збірку й основні функції та чесно зазначте, що саме не було перевірено.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-请用 TypeScript + Three.js 创建完整可运行的北京天坛祈年殿 WebGL 项目。所有建筑几何、纹理和动画必须由代码在运行时程序化生成，禁止加载 .glb、.gltf、.obj、.fbx 等外部模型。
-
-建筑还原：
-三层不同尺寸与高度的蓝色琉璃瓦圆顶、鎏金宝顶、红色圆柱、圆形殿身、蓝绿金色彩绘、斗拱及门窗。
-屋顶使用曲线轮廓、旋转体或自定义几何，表现舒展、微翘的屋檐，不能用简单圆锥代替。
-白色汉白玉三层圆形台基，配中央石阶、栏杆和立柱；整体比例协调、层次清晰。
-程序化生成瓦片纹理和装饰，重复构件优先使用 InstancedMesh。
-
-场景与交互：
-北京蓝天、广场地面与少量绿化；使用 DirectionalLight 搭配 AmbientLight／HemisphereLight，开启阴影、环境遮蔽和适度电影色调映射。
-支持 OrbitControls 旋转、缩放，以及可开关的缓慢自动环绕展示。
-按钮切换“爆炸／重组”：屋顶、柱子、斗拱、墙体、门窗、栏杆和台基按层次平滑散开，再准确恢复原位。动画须由代码驱动，有错峰节奏，避免瞬移。
-
-直接交付完整项目及启动说明。页面应响应式适配窗口，具备高质量视觉效果和流畅交互，并通过实例化、合理几何细节及渲染优化兼顾普通桌面浏览器性能。代码模块清晰，方便扩展；验证构建与主要功能，如实说明未验证项。
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097323734504017936) · [Оригінальний допис](https://x.com/goan999999/status/2097323734504017936) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097320830602809682"></a>
-
-### Відтворення мініверсії 3D-гри в стилі League of Legends
-
-[岚叔](https://x.com/LufzzLiz) · 2026-09-08 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097320830602809682"><img src="../assets/previews/4406419b3cef4e077cf7093e0e3b8f8ede0945adfab8afdd277ac976b99a1554.webp" width="840" loading="lazy" alt="Відтворення мініверсії 3D-гри в стилі League of Legends"></a>
-
-**Промпт**
-
-```text
-Крок 1: зроби гру, повністю ідентичну League of Legends. У ній має бути все, що є в LoL: та сама карта, зіставна якість графіки, герої, міньйони, вежі тощо. Для початку обери 5 героїв. 
-
-Крок 2: провокація (відповісти різко) Astra: це не League, а дешева підробка. Спочатку склади план, а потім точно реалізуй усе в реальному масштабі та з відповідними механіками; UI не можна накладати поверх гри як HTML — він має бути нативним, привабливим і схожим на UI справжньої гри.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-第一步：做个跟英雄联盟完全一样的游戏。LOL 有什么它就得有什么：同一张图、画质也要对得上，英雄、小兵、塔等等。先选 5 个英雄起步。 
-
-第二步：PUA（骂回去）Astra ：这不是 League，是廉价山寨。先写计划，再按真实尺寸和机制精确实现；UI 不许 HTML 贴在上面，要原生、好看、像真游戏。
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097320830602809682) · [Оригінальний допис](https://x.com/LufzzLiz/status/2097320830602809682) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097313247116341424"></a>
-
-### Покращення рис обличчя 3D-моделі в Blender за допомогою референсного зображення
-
-[Carlos Olivera Terrazas](https://x.com/carlos_olivera) · 2026-09-08 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097313247116341424"><img src="../assets/previews/ac3c2f3a9b67af171d3bd7f4821fa5cc4d3fd3474f2ec8a82325bc72ca4df612.webp" width="840" loading="lazy" alt="Покращення рис обличчя 3D-моделі в Blender за допомогою референсного зображення"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/225f0995-0ca1-4fde-983a-cde30af503a5.png) · [2](https://media.tripogrowth.space/media/1225371b-f32f-414f-91d6-a2c47927ad7d.png) · [3](https://pbs.twimg.com/media/HRsmvR_bMAEVw2q.png) · [4](https://pbs.twimg.com/media/HRsmzrfbUAA0Em3.png)
-
-**Промпт**
-
-```text
-взяти перше зображення за референс і покращити риси обличчя на другому зображенні.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-tomar como referencia la primera imagen y mejorar las facciones de la segunda imagen.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097313247116341424) · [Оригінальний допис](https://x.com/carlos_olivera/status/2097313247116341424) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097167383576383502"></a>
-
-### Рельєф селища в стилі Skyrim за згенерованим референсом
-
-[Kichitaro (Kichi Shotaro)](https://x.com/TaroKichijo) · 2026-09-08 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097167383576383502"><img src="../assets/previews/76ed36f7bf3729753959ae274ef586d395a3a97402e89c3c434ee357e47047b8.webp" width="840" loading="lazy" alt="Рельєф селища в стилі Skyrim за згенерованим референсом"></a>
-
-**Промпт**
-
-```text
-Використайте img2threejs/img2threejs, щоб створити тривимірний рельєф селища на кшталт тих, що є у Skyrim. Самостійно згенеруйте референсне зображення.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097167383576383502) · [Оригінальний допис](https://x.com/TaroKichijo/status/2097167383576383502) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097153139795468365"></a>
-
-### Анімація квіткової крамниці в Японії з вибуховим розкладанням
-
-[KANA｜東京AI映像](https://x.com/KanaWorks_AI) · 2026-09-08 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097153139795468365"><img src="../assets/previews/91831482715fb8874de093c72d45721512ffbfbf63801b0899fbb4567f3ea61e.webp" width="840" loading="lazy" alt="Анімація квіткової крамниці в Японії з вибуховим розкладанням"></a>
-
-**Промпт**
-
-```text
-За допомогою Blender MCP створіть невелику стилізовану сцену японської квіткової крамниці. Зосередьтеся на точному відтворенні ключових візуальних елементів: зелених маркіз, вивіски на даху з японським написом «花屋», квіткових горщиків і рослин перед крамницею, торговельного автомата, велосипедів, світлофора, електричних стовпів, навколишніх дерев та інших упізнаваних деталей вулиці. Візуалізуйте сцену в теплому, чарівному мультяшному стилі з м’яким освітленням, привабливими матеріалами й затишною атмосферою.
-
-Створіть видовищну динамічну анімацію вибухового розкладання всієї сцени квіткової крамниці. Розкладання має бути сміливим і перебільшеним, а не ледь помітним. Плавно та послідовно розведіть окремі компоненти назовні, щоб ефектно показати конструкцію та інтер’єр крамниці.
-
-Під час розкладання зовнішні стіни, навколишні дерева, електричні стовпи, вивіски, маркізи, велосипеди, квіткові горщики, рослини, вуличні об’єкти та інші елементи оточення мають відлітати назовні або назад, звільняючи достатньо простору, щоб глядач чітко бачив інтер’єр квіткової крамниці. Розділіть будівлю на змістовні конструктивні шари, аби архітектура інтер’єру, меблі, декор, квіти, рослини, полиці та дрібні деталі стали добре видимими.
-
-Торговельний автомат також має розкластися на окремі компоненти. Його зовнішні панелі повинні відокремитися, а окремі пляшки та бляшанки з газованими напоями всередині — динамічно вилетіти назовні й розподілитися в упорядкованій формації, щоб залишатися добре помітними. Дрібні компоненти та деталі можуть відлітати далі, щоб зробити послідовність візуально захопливішою.
-
-Використовуйте поетапний таймінг, різну швидкість руху, обертання, глибину та багатошарові траєкторії, щоб надати вибуховому розкладанню відчуття енергії й сили, водночас зберігаючи візуальний порядок і зрозумілість кожного компонента. Не допускайте, щоб усе рухалося назовні в один і той самий момент або з однаковою швидкістю.
-
-Коли вся сцена буде повністю розкладена, ненадовго затримайте композицію, щоб глядач міг чітко розглянути внутрішню структуру та всі відокремлені компоненти.
-
-Потім відтворіть послідовність у зворотному напрямку: пляшки з газованими напоями, деталі торговельного автомата, рослини, вуличні об’єкти, предмети інтер’єру, стіни, дерева, електричні стовпи, вивіски, велосипеди та всі інші компоненти мають плавно повернутися на свої місця й зібратися в цілісну сцену квіткової крамниці.
-
-Уся анімація має бути енергійною, кінематографічною, приємною для перегляду та візуально ефектною, із виразним рухом і чітким переходом між цілісною сценою, повністю розкладеним станом і фінально зібраною сценою. Упродовж усієї анімації зберігайте багатошаровість, зрозумілість і ретельно вибудувану хореографію руху.
-
-Під час послідовності вибухового розкладання використовуйте нейтральне студійне тло, щоб відокремлені об’єкти та внутрішні конструкції залишалися добре видимими.
-
-Фінальні матеріали:
-Повністю візуалізована анімація та редагований файл 3D-проєкту Blender. Усі об’єкти, компоненти, колекції, матеріали й основні елементи сцени мають бути чітко, послідовно та професійно названі й упорядковані.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Use Blender MCP to build a small, stylized Japanese flower shop scene. Focus on faithfully recreating the key visual elements: the green awnings, the rooftop sign displaying the Japanese text “花屋”, flower pots and plants arranged in front of the shop, the vending machine, bicycles, traffic light, utility poles, surrounding trees, and other recognizable street details. Render the scene in a warm, charming cartoon style, with soft lighting, appealing materials, and a cozy atmosphere.
-
-Create a high-impact, dynamic exploded-view animation of the entire flower shop scene. The explosion should be bold and exaggerated rather than subtle. Smoothly and systematically separate the individual components outward to dramatically reveal the construction and interior of the flower shop.
-
-During the explosion, have the exterior walls, surrounding trees, utility poles, signs, awnings, bicycles, flower pots, plants, street props, and other environmental elements fly outward or backward, creating enough open space for the viewer to clearly see inside the flower shop. Break the building into meaningful structural layers so that the interior architecture, furniture, decorations, flowers, plants, shelves, and smaller details become clearly visible.
-
-The vending machine should also explode into its individual components. Its exterior panels should separate, and the individual soda bottles and cans inside should dynamically fly outward, spreading into an organized formation so they remain clearly readable. Small components and details can travel farther to make the sequence more visually exciting.
-
-Use staggered timing, different movement speeds, rotation, depth, and layered trajectories to give the explosion a strong sense of energy and impact while keeping every component visually organized and easy to follow. Avoid having everything move outward at exactly the same time or speed.
-
-Once the entire scene is fully exploded, hold the composition briefly so the viewer can clearly observe the internal structure and all the separated components.
-
-Then reverse the sequence: the soda bottles, vending machine parts, plants, props, interior objects, walls, trees, utility poles, signs, bicycles, and all other components should fly smoothly back into place and reassemble into the complete flower shop scene.
-
-The entire animation should feel energetic, cinematic, satisfying, and visually impactful, with strong motion and clear transformation between the complete scene, the fully exploded state, and the final reassembled scene. Keep the motion layered, readable, and carefully choreographed throughout.
-
-Use a neutral studio background during the exploded-view sequence so that the separated objects and internal structures remain clearly visible.
-
-Final deliverables:
-A fully rendered animation and an editable Blender 3D project file. All objects, components, collections, materials, and major scene elements must be clearly, consistently, and professionally named and organized.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097153139795468365) · [Оригінальний допис](https://x.com/KanaWorks_AI/status/2097153139795468365) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097123382852829230"></a>
-
-### Ригінг і анімація меха з пальцеходими ногами в Godot
-
-[Om Patel](https://x.com/om_patel5) · 2026-09-08 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097123382852829230"><img src="../assets/previews/2994b22dab78c7dedb3fdc1b4d0b65139bfc7d0060b16b451b68a32820839d2d.webp" width="840" loading="lazy" alt="Ригінг і анімація меха з пальцеходими ногами в Godot"></a>
-
-**Промпт**
-
-```text
-Чи можете ви виконати ригінг і анімацію цього GLB? Хочу переконливо побачити, як його пальцеході ноги крокують, у попередньому перегляді Godot.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-can you rig and animate this glb, i want to see the digitigrade legs walking convincingly in a godot preview please
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2097123382852829230) · [Оригінальний допис](https://x.com/om_patel5/status/2097123382852829230) · [Назад до прикладів](#all-prompts)
 
 ---
 

@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Barco YF-24 en un mar 3D tranquilo](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
+- [Del plano de la última planta a una vista previa en Blender](#top-floor-plan-to-blender-preview-2096501340889374883)
+- [Pueblo low poly de Gwacheon para recorrer a pie](#walkable-low-poly-gwacheon-village-2096490395614019793)
+- [Montaje y animación de recursos 3D generados](#assemble-and-animate-generated-3d-assets-2096481425050743048)
+- [El Wright Flyer atraviesa un bosque japonés](#wright-flyer-through-a-japanese-forest-2096467585785286808)
+- [Insecto procedural que trepa por superficies](#surface-climbing-procedural-insect-2096460081982304546)
+- [Reconstrucción de Lego 1999 Racers](#gpt-6-astra-2096438110095585753)
+- [Apartamento jugable inspirado en D4](#playable-d4-inspired-apartment-2096413869841473930)
 - [Crea y renderiza un agujero negro en Blender](#gpt-6-astra-2096391653669953761)
 - [Juego de simulación de una red ferroviaria](#railway-network-simulation-game-2096362653480562751)
 - [Taberna con personal y clientes activos](#tavern-with-working-staff-and-guests-2096358854275543457)
@@ -70,16 +78,212 @@
 - [Un personaje vikingo en Blender](#viking-character-in-blender-2096140378777010278)
 - [Una aventura de plataformas inspirada en Odyssey](#odyssey-inspired-platform-adventure-2096135808243876152)
 - [Un T. rex articulado y animado](#rigged-and-animated-t-rex-2096133339329536249)
-- [Una oficina transitable con 32 personas animadas](#walkable-office-with-32-animated-people-2096131961345720477)
-- [Vuelo al atardecer por una escena de Adiyogi](#adiyogi-evening-fly-through-2096128774203171021)
-- [Un Fórmula 1 en Blender](#formula-one-car-in-blender-2096125193580113957)
-- [Una fábrica de reactores en funcionamiento](#live-jet-manufacturing-plant-2096122429319852319)
-- [La versión jugable de un anuncio de juego móvil](#playable-remake-of-a-mobile-game-ad-2096111709496680842)
-- [De una ilustración a un personaje jugable](#artwork-to-a-playable-character-2096107343268257953)
-- [La torre Azadi en Blender](#azadi-tower-in-blender-2096107322536051057)
-- [Un recorrido por el jardín del Museo de Suzhou](#suzhou-museum-garden-walkthrough-2096096998092841449)
 
 </details>
+<a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
+
+### Barco YF-24 en un mar 3D tranquilo
+
+[Yohei Matsumoto](https://x.com/yhmtmt1) · 2026-09-06 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"><img src="../assets/previews/40a1d36486ff0f869b72d205683ff7b2de25307f081d506c32664bb58589a133.webp" width="840" loading="lazy" alt="Barco YF-24 en un mar 3D tranquilo"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Modela un barco YF-24 en Blender y anímalo navegando por un mar tridimensional con fuerza 2 en la escala de Beaufort. Usa referencias del barco para mejorar su forma.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/yf-24-boat-on-a-gentle-3d-sea-2096503275910832461) · [Publicación original](https://x.com/yhmtmt1/status/2096503275910832461) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="top-floor-plan-to-blender-preview-2096501340889374883"></a>
+
+### Del plano de la última planta a una vista previa en Blender
+
+[indigo](https://x.com/indigox) · 2026-09-06 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883"><img src="../assets/previews/d9f7caddefd8c2ff51f0e58712804af469b52bcbc988d98f08dc4caa8acb7631.webp" width="840" loading="lazy" alt="Del plano de la última planta a una vista previa en Blender"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Usa el plano de la última planta de una vivienda para crear una escena en Blender y renderiza una vista previa de 10 segundos con pocas muestras. Prioriza una distribución espacial clara antes de perfeccionar los materiales.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/top-floor-plan-to-blender-preview-2096501340889374883) · [Publicación original](https://x.com/indigox/status/2096501340889374883) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="walkable-low-poly-gwacheon-village-2096490395614019793"></a>
+
+### Pueblo low poly de Gwacheon para recorrer a pie
+
+[Manas Joshi](https://x.com/ManasJoshi76254) · 2026-09-06 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793"><img src="../assets/previews/2a91eb480da4a8e5d0469d527b08cc695a23aef7a681f9360c34b130a7249dea.webp" width="840" loading="lazy" alt="Pueblo low poly de Gwacheon para recorrer a pie"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea en un único archivo HTML un pueblo low poly acogedor y explorable inspirado en Gwacheon. Combina escenario 3D procedural, ambientación, interfaz e interacciones.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-low-poly-gwacheon-village-2096490395614019793) · [Publicación original](https://x.com/ManasJoshi76254/status/2096490395614019793) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="assemble-and-animate-generated-3d-assets-2096481425050743048"></a>
+
+### Montaje y animación de recursos 3D generados
+
+[Stefan 3D AI](https://x.com/Stefan_3D_AI) · 2026-09-06 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048"><img src="../assets/previews/06c8bc4b988ad3aacd5e5bfef72fe43208b80c21b25f8619cbc77358df358dcb.webp" width="840" loading="lazy" alt="Montaje y animación de recursos 3D generados"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Genera recursos 3D optimizados con Tripo P2, móntalos en Blender y crea el rig y la animación de los personajes. Revisa cómo encajan espacialmente los personajes y la escena.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/assemble-and-animate-generated-3d-assets-2096481425050743048) · [Publicación original](https://x.com/Stefan_3D_AI/status/2096481425050743048) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="wright-flyer-through-a-japanese-forest-2096467585785286808"></a>
+
+### El Wright Flyer atraviesa un bosque japonés
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-06 · GPT-6 Astra · Juegos
+
+Remix de: [The Bugged Dev](https://x.com/thebuggeddev/status/2096467585785286808)
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="../assets/previews/6976bde32327fb6b016775684864900794bbc038d4984d12f69ee546905611c4.webp" width="840" loading="lazy" alt="El Wright Flyer atraviesa un bosque japonés"></a>
+
+**Prompt**
+
+```text
+# KOMOREBI — Un vuelo por el bosque
+
+## 1. Objetivo
+Mantén todos los textos de la interfaz del juego en inglés.
+Crea un juego de vuelo completo para navegador: pilota un Wright Flyer de 1903 reconocible por un río en un bosque japonés, recoge linternas espirituales, atraviesa puertas torii y llega a un santuario de montaña. Usa https://komorebi-forest-flight.tripo.page/ y las referencias proporcionadas para la composición final. Da crédito a Jared en https://x.com/jaredliu_bravo y a la fuente de inspiración, The Bugged Dev, en https://x.com/thebuggeddev/status/2096467585785286808.
+
+## 2. Dirección visual
+Crea un bosque en miniatura, silencioso y cinematográfico, con verdes profundos de cedro, agua verde azulado, lino marfil cálido, madera desgastada, piedras cubiertas de musgo y una luz ámbar contenida. Encuadra el avión con claridad desde una cámara de persecución suave situada detrás, con el siguiente objeto coleccionable visible sobre sus alas. Usa luz solar suave desde fuera de la vista frontal, luz de relleno ambiental, sombras de contacto, montañas brumosas, reflejos en el agua, partículas flotantes y un bloom sutil. Evita la sobreexposición, las casas flotantes, las manchas de luz demasiado grandes y los muros de roca angulosos.
+
+Usa texto en blanco roto cálido, bordes finos translúcidos, encabezados serif de estilo Cormorant Garamond local y controles de estilo DM Sans. Arriba a la izquierda: KOMOREBI, 木漏れ日 y A FOREST FLIGHT. Coloca la brújula y el control Comparar arriba, los botones de utilidad en la esquina superior derecha, la puntuación y los corazones a la izquierda, la altitud y la velocidad indicada a la derecha, y el progreso del capítulo en la parte inferior. La invitación inicial es «Deja que el bosque te lleve». con «Comenzar vuelo». Compacta la superposición en teléfonos sin ocultar el avión.
+
+## 3. Mundo
+Crea una ruta determinista de 3.6 km con cuatro capítulos igualmente espaciados: Bosque Susurrante, Cascadas Ocultas, Valle de las Linternas y Santuario entre las Nubes. Transmite o recicla los fragmentos del escenario. Un río turquesa con curvas suaves define el corredor; usa x(z) = sin(0.006z) × 19 + sin(0.017z) × 5 como curva inicial. Coloca aberturas torii a lo largo de la ruta de vuelo asistido, con bosques, casas de madera, cascadas, rocas redondeadas de río y montañas brumosas distribuidas alrededor. Crea una terraza para la huella de cada casa y encaja sus cimientos en las cuatro esquinas.
+
+## 4. Inventario de recursos
+Prepara ranuras de modelos estables en este orden:
+- `aircraft`: Wright Flyer de 1903 abierto, con dos alas anchas de lino marfil, estructura de madera fina expuesta, montantes y cables tensores, canard frontal y dos hélices propulsoras traseras. Mantén las hélices como piezas animadas independientes, sin duplicar las palas.
+- `cedar`: tronco alto de color marrón rojizo, follaje irregular en capas de verde profundo, ramas coherentes y raíces asentadas en el suelo; reutilízalo con variaciones de escala y rotación.
+- `minka`: madera oscura desgastada, entramado con relleno de yeso, amplio tejado inclinado de tejas, aleros generosos, ventanas shoji cálidas y cimientos de piedra.
+- `torii`: puerta torii japonesa de madera desgastada, con dos postes y un dintel superior ancho y curvado; su paso abierto debe coincidir con el volumen de colisión existente.
+- `lantern`: linterna espiritual cálida de papel y madera; usa la misma familia de modelos para los coleccionables repetidos y las luces decorativas más pequeñas, diferenciando visualmente sus funciones.
+- `rock`: piedra redondeada de río cubierta de musgo, con una base asentada; distribúyela mediante instancias por las orillas sin bloquear el corredor de vuelo.
+Mantén el río, el terreno, las montañas, las láminas de cascada, los anillos luminosos, la niebla, las partículas y la interfaz como elementos procedurales. Incluye todas las ranuras en el registro y actualiza todas las instancias repetidas cuando cambie su modelo.
+
+## 5. Vuelo y respuesta
+Avanza automáticamente después de seleccionar Comenzar vuelo. W/S o arriba/abajo ajustan la altitud; A/D o izquierda/derecha controlan el rumbo y la inclinación. Shift consume una reserva visible de impulso de viento que se recarga. La aceleración suave y la cámara que sigue al avión deben mantener una respuesta ágil. La asistencia de vuelo predeterminada devuelve suavemente el avión hacia el río y la altitud objetivo cuando se suelta el control; ofrece un interruptor de asistencia y ajustes de calidad. Incluye controles táctiles para dirigir y activar el impulso. Esc pausa el juego; la ayuda, los ajustes y el visor del avión pausan el vuelo y restauran el estado anterior. Borra los controles mantenidos cuando se pierde el foco.
+
+Concede tres corazones. Cada linterna espiritual otorga 100 puntos y atravesar una puerta torii sin colisionar otorga 250, solo una vez por objetivo. Las colisiones con el suelo, la orilla o una viga quitan un corazón y conceden una breve invulnerabilidad. Termina a los 3.6 km mostrando la puntuación, la mejor puntuación y la opción de volver a jugar; quedarse sin corazones ofrece reintentar. Guarda la mejor puntuación localmente e incluye una alternativa para los fallos de almacenamiento.
+
+Las linternas se sitúan dentro de grandes anillos dorados ovalados de recolección, con halos que suben y bajan y respiran, además de chispas. Etiqueta el objetivo más cercano como «+100 · ATRAVIESA VOLANDO». Alinea su generoso volumen de impacto con el anillo animado. Las recogidas producen un anillo expansivo, partículas cálidas, una puntuación flotante y un pulso en la interfaz. Atenúa las puertas atravesadas antes de que oculten la cámara de persecución.
+
+## 6. Implementación
+Usa Vite, Three.js y módulos JavaScript ES, separando la ruta, las colisiones y la puntuación; el escenario; los modelos; los efectos; y la interfaz. Incluye localmente las dependencias, las fuentes y los recursos de ejecución; entrega un sitio estático. Usa GLTFLoader y un manifiesto de recursos con límites, orientación, procedencia y fábricas alternativas por ranura. Mantén las colisiones independientes de la forma de la malla importada. Gira las dos hélices usando el tiempo delta; inspecciónalas desde la cámara de persecución y desde un visor del avión con órbita y zoom. Ofrece la descarga del archivo local real del avión cuando esté disponible. Blender es opcional para separar hélices integradas, corregir pivotes o generar una malla más ligera si el rendimiento medido lo requiere.
+
+Conserva la referencia visual original. Cuando exista una ranura importada, Comparar o C alterna entre esa referencia y las sustituciones disponibles, sin cambiar de navegación ni restablecer el vuelo, la cámara, los corazones, el impulso, la puntuación o los objetos recogidos. Congela el progreso durante la transición, conserva el último fotograma completo hasta que la siguiente escena esté lista y después aplica un fundido cruzado de unos 650 ms. Respeta la reducción de movimiento; evita los clics repetidos y restaura la escena anterior si se produce un error. Usa un fondo oscuro de inicio integrado, un DPR limitado, un número acotado de partículas y como máximo dos variantes de escena en caché.
+
+## 7. Criterios de aceptación
+Entrega el código fuente, el archivo lock, npm run dev, npm run build y la salida estática dist. Verifica un vuelo completo, el impulso, la recogida de linternas y puertas, la inmunidad a las colisiones, pausar y reanudar, los controles táctiles, volver a jugar, el visor y las importaciones independientes por ranura. Comprueba que ambas direcciones de Comparar conservan el estado sin fotogramas blancos ni un aumento del uso de recursos de la GPU. Inspecciona el asentamiento de las casas, la silueta del avión, el movimiento de las hélices, la iluminación legible y la recuperación durante cargas lentas. Informa de las pruebas reales y de las condiciones de rendimiento. Sigue el flujo de trabajo compartido a continuación para la generación de recursos y devuelve el resultado.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808) · [Publicación original](https://x.com/thebuggeddev/status/2096467585785286808) · [Demo en línea](https://komorebi-forest-flight.tripo.page/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="surface-climbing-procedural-insect-2096460081982304546"></a>
+
+### Insecto procedural que trepa por superficies
+
+[XiaoLei Liu](https://x.com/leo_xiaolei) · 2026-09-06 · GPT-6 Astra · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/surface-climbing-procedural-insect-2096460081982304546"><img src="../assets/previews/180bfc6400787d7a531ec7bdc8c33161f9a94bfdd166b8f490d2f03fed90abe2.webp" width="840" loading="lazy" alt="Insecto procedural que trepa por superficies"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un insecto 3D de varias patas que camine adherido a distintas superficies. Coordina las patas y el cuerpo al superar cambios de altura.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surface-climbing-procedural-insect-2096460081982304546) · [Publicación original](https://x.com/leo_xiaolei/status/2096460081982304546) · [Demo en línea](https://threerocks.github.io/web-3d-pages/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096438110095585753"></a>
+
+### Reconstrucción de Lego 1999 Racers
+
+[Mo Elgaraihy](https://x.com/EngMoElgaraihy) · 2026-09-06 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096438110095585753"><img src="../assets/previews/eadc2c49ec0c9896087cb2efa4ccc31733fb118023f46791eb56fd594c96758f.webp" width="840" loading="lazy" alt="Reconstrucción de Lego 1999 Racers"></a>
+
+**Prompt**
+
+```text
+Reconstruye por completo el popular juego de carreras Lego 1999 Racers.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+إعادة بناء لعبة السيارات الشهيرة Lego 1999 Racers بالكامل.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096438110095585753) · [Publicación original](https://x.com/EngMoElgaraihy/status/2096438110095585753) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="playable-d4-inspired-apartment-2096413869841473930"></a>
+
+### Apartamento jugable inspirado en D4
+
+[Hidetaka SWERY SueHERO](https://x.com/Swery65) · 2026-09-06 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/playable-d4-inspired-apartment-2096413869841473930"><img src="../assets/previews/cb01061a6f625c0910e02e414d9825df2a6bf0f1b2fb460c1f56fdfd0d1e28cd.webp" width="840" loading="lazy" alt="Apartamento jugable inspirado en D4"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Investiga el apartamento del protagonista de D4 y recréalo como un prototipo 3D jugable. Contrasta la distribución y las interacciones con las referencias, sin dar por hecho que la recreación sea exacta.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-d4-inspired-apartment-2096413869841473930) · [Publicación original](https://x.com/Swery65/status/2096413869841473930) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096391653669953761"></a>
 
 ### Crea y renderiza un agujero negro en Blender
@@ -1583,166 +1787,6 @@ Toma un modelo generado de T. rex, crea su esqueleto de animación y dale movimi
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Publicación original](https://x.com/majidmanzarpour/status/2096133339329536249) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
-
-### Una oficina transitable con 32 personas animadas
-
-[Parithosh-varma](https://x.com/demgufever82151) · 2026-09-05 · Claude Fable 5.1 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477"><img src="../assets/previews/f38dfd9eafe90d66eb4310d701b11a94e8820e34d86f48742b31460444ea2ee3.webp" width="840" loading="lazy" alt="Una oficina transitable con 32 personas animadas"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye una oficina de navegador en Three.js con navegación en primera persona, 32 personas articuladas que saluden al visitante por su nombre, puertas pulsables, controles orbitales y una vista en plano.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/walkable-office-with-32-animated-people-2096131961345720477) · [Publicación original](https://x.com/demgufever82151/status/2096131961345720477) · [Código fuente](https://github.com/Parithosh-Varma/office) · [Demo en línea](https://office-2nw.pages.dev/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="adiyogi-evening-fly-through-2096128774203171021"></a>
-
-### Vuelo al atardecer por una escena de Adiyogi
-
-[Adi](https://x.com/thejothiram) · 2026-09-05 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/adiyogi-evening-fly-through-2096128774203171021"><img src="../assets/previews/fa49cd99b07c2b0c7e4b36ca229423b32171bda2a18bd1ad06048dd6954593eb.webp" width="840" loading="lazy" alt="Vuelo al atardecer por una escena de Adiyogi"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea una escena de Adiyogi en Blender con un entorno amplio, primeros planos detallados y luz cálida de atardecer. Renderiza un vuelo de cámara de 30 segundos y conserva la escena editable.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/adiyogi-evening-fly-through-2096128774203171021) · [Publicación original](https://x.com/thejothiram/status/2096128774203171021) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="formula-one-car-in-blender-2096125193580113957"></a>
-
-### Un Fórmula 1 en Blender
-
-[Conor Dart](https://x.com/Conor_D_Dart) · 2026-09-05 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/formula-one-car-in-blender-2096125193580113957"><img src="../assets/previews/f293ca3e32224349f077da6e5bf83981a6b069bcb0b3e81b030a506e9e707f9e.webp" width="840" loading="lazy" alt="Un Fórmula 1 en Blender"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un modelo 3D de Fórmula 1 en Blender mediante el control del ordenador.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/formula-one-car-in-blender-2096125193580113957) · [Publicación original](https://x.com/Conor_D_Dart/status/2096125193580113957) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="live-jet-manufacturing-plant-2096122429319852319"></a>
-
-### Una fábrica de reactores en funcionamiento
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-05 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/live-jet-manufacturing-plant-2096122429319852319"><img src="../assets/previews/dfa81222b0638a3a6ea87fc1f4fbdb990bb1e3d933f460e509789b35bc450385.webp" width="840" loading="lazy" alt="Una fábrica de reactores en funcionamiento"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Investiga la fabricación de aeronaves y construye una simulación activa de una fábrica de reactores en Three.js. Modela ciclos de máquinas, puestos de producción, transporte y cuellos de botella; después prueba el flujo de trabajo.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/live-jet-manufacturing-plant-2096122429319852319) · [Publicación original](https://x.com/konstantinsaifo/status/2096122429319852319) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="playable-remake-of-a-mobile-game-ad-2096111709496680842"></a>
-
-### La versión jugable de un anuncio de juego móvil
-
-[daniel](https://x.com/buildingadlicio) · 2026-09-05 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842"><img src="../assets/previews/8e8c62e756b115454c7686df229cd4a1aece0ad3cf35bd2ea0bb97ebce990ea9.webp" width="840" loading="lazy" alt="La versión jugable de un anuncio de juego móvil"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Usa un anuncio de un juego móvil como referencia para construir un juego de navegador jugable. Recrea su interacción principal y utiliza recursos de Blender para reproducir su propuesta visual.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-remake-of-a-mobile-game-ad-2096111709496680842) · [Publicación original](https://x.com/buildingadlicio/status/2096111709496680842) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="artwork-to-a-playable-character-2096107343268257953"></a>
-
-### De una ilustración a un personaje jugable
-
-[NOCTAVIA™](https://x.com/noctav1a) · 2026-09-05 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/artwork-to-a-playable-character-2096107343268257953"><img src="../assets/previews/aee2ed11a73d4465685233a34a7d1d063b4ef415fe4b345f38dca4997ee0fa1f.webp" width="840" loading="lazy" alt="De una ilustración a un personaje jugable"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Recrea una ilustración de un personaje de Noctavia como un personaje 3D jugable. Conserva su lenguaje de diseño y construye un modelo completo apto para una presentación interactiva.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/artwork-to-a-playable-character-2096107343268257953) · [Publicación original](https://x.com/noctav1a/status/2096107343268257953) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="azadi-tower-in-blender-2096107322536051057"></a>
-
-### La torre Azadi en Blender
-
-[taesiri](https://x.com/taesiri) · 2026-09-05 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/azadi-tower-in-blender-2096107322536051057"><img src="../assets/previews/55470000e670b8ab99ecb821898ee76bca603b7feb6692535887d609d1052714.webp" width="840" loading="lazy" alt="La torre Azadi en Blender"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un modelo editable de la torre Azadi en Blender, prestando atención a su base ensanchada, los arcos que se cruzan, las superficies con patrones y sus proporciones reconocibles.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/azadi-tower-in-blender-2096107322536051057) · [Publicación original](https://x.com/taesiri/status/2096107322536051057) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="suzhou-museum-garden-walkthrough-2096096998092841449"></a>
-
-### Un recorrido por el jardín del Museo de Suzhou
-
-[amber shen](https://x.com/whosamberella) · 2026-09-05 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449"><img src="../assets/previews/b8103b01f745dd8e884841f40a6072c43bb1aad73f188e9508b8707b3403d167.webp" width="840" loading="lazy" alt="Un recorrido por el jardín del Museo de Suzhou"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Usa una página web sobre el Museo de Suzhou como referencia para recrear su jardín en Blender. Produce un recorrido continuo que conserve la relación entre la arquitectura moderna y el paisajismo tradicional chino.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/suzhou-museum-garden-walkthrough-2096096998092841449) · [Publicación original](https://x.com/whosamberella/status/2096096998092841449) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

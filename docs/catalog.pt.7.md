@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar exemplos (50)</summary>
 
+- [Uma batalha naval no Three.js em um único turno](#single-turn-three-js-naval-war-scene-2095840435319001278)
+- [O Salão Oval ao longo das presidências](#oval-office-through-the-presidencies-2095830596069290077)
+- [Da receita a um filme 3D de cheesecake](#recipe-to-3d-cheesecake-film-2095829851206774987)
+- [Tidal Rush: oito pilotos no navegador](#tidal-rush-eight-racer-browser-game-2095819786651374023)
+- [Uma página inicial com galáxia interativa no Three.js](#interactive-three-js-galaxy-homepage-2095806515579879457)
+- [Uma galáxia WebGL em tempo real para a abertura de um lançamento](#real-time-webgl-galaxy-launch-hero-2095805694603673631)
+- [Ruas de A Noite Estrelada para passear](#starry-night-streets-you-can-stroll-2095805115580199372)
+- [Uma casa real como cena editável no Blender a 60 FPS](#real-house-to-editable-60-fps-blender-scene-2095777502681825541)
 - [Um turbocompressor 3D interativo em vista explodida](#exploded-interactive-3d-turbocharger-2095776712579571725)
 - [Uma cidade para passear a partir de seis pinturas de Van Gogh](#walkable-town-made-from-six-van-gogh-paintings-2095776685807346105)
 - [Do desenho de um trem a vapor a um conjunto editável no Blender](#steam-train-drawing-to-editable-blender-assembly-2095756085890310311)
@@ -70,16 +78,168 @@
 - [Uma figura de ação articulada para impressão](#articulated-printable-action-figure-2095481098201387287)
 - [Um buraco negro cinematográfico em WebGL](#cinematic-webgl-black-hole-2095409039005933910)
 - [Visualização explodida de um rack de servidores de IA](#exploding-ai-server-rack-visualization-2095193022304792938)
-- [Um jogo de exploração e comércio espacial](#space-exploration-and-trading-game-2095191999255035993)
-- [Um protótipo multijogador de mundo aberto no estilo GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
-- [Um jogo de faroeste com visual de quadrinhos no Three.js](#comic-book-three-js-cowboy-game-2095180091257209148)
-- [Um humano contra uma inteligência artificial geral desalinhada](#human-versus-unaligned-agi-game-2095180071221002441)
-- [Um teste de física com bola de demolição no Blender](#blender-wrecking-ball-physics-test-2095177102400081940)
-- [Um drone interceptor de uma facção corporativa](#corporate-interceptor-drone-asset-2095176360238915978)
-- [Um mundo 3D com estética Frutiger Aero](#frutiger-aero-3d-world-2095171470607728926)
-- [Um site renascentista cinematográfico em dez cenas](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 
 </details>
+<a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
+
+### Uma batalha naval no Three.js em um único turno
+
+[leo 🐾](https://x.com/synthwavedd) · 2026-09-04 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278"><img src="../assets/previews/c7ad310617210ddebaa7a7dba1b0e3ec6e6107bf16a24451aff88d352d008989.webp" width="840" loading="lazy" alt="Uma batalha naval no Three.js em um único turno"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Crie uma batalha naval detalhada no Three.js em um único turno. Inclua vários navios distintos, interação fisicamente convincente com a água, rastros e respingos, ação aérea, explosões, iluminação cinematográfica, movimento de câmera e renderização com atenção ao desempenho.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/single-turn-three-js-naval-war-scene-2095840435319001278) · [Publicação original](https://x.com/synthwavedd/status/2095840435319001278) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="oval-office-through-the-presidencies-2095830596069290077"></a>
+
+### O Salão Oval ao longo das presidências
+
+[Min Zhou](https://x.com/fMinZhou) · 2026-09-04 · Claude Fable 5.1 · Interativo
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/oval-office-through-the-presidencies-2095830596069290077"><img src="../assets/previews/78f5cd2c86e45cc94269ed03eacf439bea1cf542939e7d09469cdc2b41d63a97.webp" width="840" loading="lazy" alt="O Salão Oval ao longo das presidências"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Construa um projeto interativo no Three.js explorando como o Salão Oval mudou entre presidências. Permita alternar épocas para examinar móveis, decoração e composição do ambiente.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/oval-office-through-the-presidencies-2095830596069290077) · [Publicação original](https://x.com/fMinZhou/status/2095830596069290077) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="recipe-to-3d-cheesecake-film-2095829851206774987"></a>
+
+### Da receita a um filme 3D de cheesecake
+
+[سارة - تؤمن بالعدالة- Sara - believes in justice.](https://x.com/sarit69976) · 2026-09-04 · Claude Fable 5.1 · Recursos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987"><img src="../assets/previews/778b63ecbe258dce929236ac3ba70ee89089a4417865795c6533f338dcc89950.webp" width="840" loading="lazy" alt="Da receita a um filme 3D de cheesecake"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Reconstrua um cheesecake real como uma cena no Three.js a partir de sua receita. Modele as seis camadas, a forma de fundo removível e o papel-manteiga separadamente e crie uma apresentação de um minuto.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/recipe-to-3d-cheesecake-film-2095829851206774987) · [Publicação original](https://x.com/sarit69976/status/2095829851206774987) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="tidal-rush-eight-racer-browser-game-2095819786651374023"></a>
+
+### Tidal Rush: oito pilotos no navegador
+
+[RESONANCE SCIENCE 🧬🔬](https://x.com/amazing13_13) · 2026-09-04 · GPT-6 Astra · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023"><img src="../assets/previews/6ae11a03998db0f3896a6add524c52ba9eae1d0cf398fbaf9991903c5e2d0adb.webp" width="840" loading="lazy" alt="Tidal Rush: oito pilotos no navegador"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Construa um jogo completo de corrida de kart no navegador com oito pilotos, três voltas, derrapagens, itens coletáveis, físicas responsivas, HUD claro, gráficos atraentes e uma tela de resultados ao final.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/tidal-rush-eight-racer-browser-game-2095819786651374023) · [Publicação original](https://x.com/amazing13_13/status/2095819786651374023) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="interactive-three-js-galaxy-homepage-2095806515579879457"></a>
+
+### Uma página inicial com galáxia interativa no Three.js
+
+[Three.js Resources](https://x.com/threejsresource) · 2026-09-04 · GPT-6 Astra · Interativo
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457"><img src="../assets/previews/8453e98dc237c7bd3e37f3435538246776735234782944ba50432e23c8ddcf8c.webp" width="840" loading="lazy" alt="Uma página inicial com galáxia interativa no Three.js"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Crie uma abertura de página de lançamento de alta qualidade em torno de uma galáxia Three.js em tempo real. Faça as partículas formarem sutilmente o número seis, reagirem à rolagem e ao ponteiro, preservarem a legibilidade do texto e reduzirem os efeitos de forma gradual em dispositivos menos potentes.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/interactive-three-js-galaxy-homepage-2095806515579879457) · [Publicação original](https://x.com/threejsresource/status/2095806515579879457) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="real-time-webgl-galaxy-launch-hero-2095805694603673631"></a>
+
+### Uma galáxia WebGL em tempo real para a abertura de um lançamento
+
+[Fluxora](https://x.com/Fluxora_Studios) · 2026-09-04 · GPT-6 Astra · Interativo
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631"><img src="../assets/previews/f4d41bb53957afd96b9a710f7fd4307897a512685aa2e308f3ba73256b095e94.webp" width="840" loading="lazy" alt="Uma galáxia WebGL em tempo real para a abertura de um lançamento"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Analise a linguagem visual da abertura galáctica fornecida e a reconstrua em WebGL em tempo real, não em vídeo. Use partículas com profundidade, poeira luminosa, resposta suave ao ponteiro, espaço reservado à tipografia e desempenho adaptável.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/real-time-webgl-galaxy-launch-hero-2095805694603673631) · [Publicação original](https://x.com/Fluxora_Studios/status/2095805694603673631) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="starry-night-streets-you-can-stroll-2095805115580199372"></a>
+
+### Ruas de A Noite Estrelada para passear
+
+[₿IGRYAN](https://x.com/BigRyan) · 2026-09-04 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372"><img src="../assets/previews/aab4c3f0d8abb42e301182736dffbd3b1c73155d326321fd840d9d57e5bdc4ee.webp" width="840" loading="lazy" alt="Ruas de A Noite Estrelada para passear"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Combine seis pinturas de Van Gogh em uma cidade explorável onde os visitantes possam passear pelas ruas de A Noite Estrelada. Projete passagens naturais entre as pinturas, mantenha uma escala coerente e adicione interações ambientais suaves.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/starry-night-streets-you-can-stroll-2095805115580199372) · [Publicação original](https://x.com/BigRyan/status/2095805115580199372) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="real-house-to-editable-60-fps-blender-scene-2095777502681825541"></a>
+
+### Uma casa real como cena editável no Blender a 60 FPS
+
+[Alvin Foo](https://x.com/alvinfoo) · 2026-09-04 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541"><img src="../assets/previews/916547e1a360c3ef18e05fa7cca21d5c2e7d40df3feb6ffc671906abfbde78f9.webp" width="840" loading="lazy" alt="Uma casa real como cena editável no Blender a 60 FPS"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Reconstrua a casa real fornecida como uma cena totalmente editável no Blender. Mantenha os elementos arquitetônicos e os móveis separados, otimize geometria e materiais e entregue um passeio renderizado localmente que sustente 60 FPS.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/real-house-to-editable-60-fps-blender-scene-2095777502681825541) · [Publicação original](https://x.com/alvinfoo/status/2095777502681825541) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="exploded-interactive-3d-turbocharger-2095776712579571725"></a>
 
 ### Um turbocompressor 3D interativo em vista explodida
@@ -926,166 +1086,6 @@ Construa no Three.js uma visualização em vista explodida de um rack NVL72 e um
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Publicação original](https://x.com/kylejeong/status/2095193022304792938) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="space-exploration-and-trading-game-2095191999255035993"></a>
-
-### Um jogo de exploração e comércio espacial
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="Um jogo de exploração e comércio espacial"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Construa um jogo de exploração e comércio espacial com naves pilotáveis, sistemas estelares, estações, mercadorias, contratos, melhorias, risco e um ciclo de viagens satisfatório.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [Publicação original](https://x.com/RealFedeURU/status/2095191999255035993) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
-
-### Um protótipo multijogador de mundo aberto no estilo GTA
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="Um protótipo multijogador de mundo aberto no estilo GTA"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Construa um protótipo inicial multijogador de mundo aberto no estilo GTA ambientado em Nova York, com direção de veículos, deslocamento a pé, trânsito urbano, missões e um ciclo convincente de mundo vivo.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [Publicação original](https://x.com/mattshumer_/status/2095187868746383758) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
-
-### Um jogo de faroeste com visual de quadrinhos no Three.js
-
-[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="Um jogo de faroeste com visual de quadrinhos no Three.js"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie um jogo de faroeste dos sonhos no Three.js que combine a energia arcade de Sunset Riders com renderização de quadrinhos, tiros responsivos, ação a cavalo e sequências memoráveis.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [Publicação original](https://x.com/Smallzero/status/2095180091257209148) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
-
-### Um humano contra uma inteligência artificial geral desalinhada
-
-[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="Um humano contra uma inteligência artificial geral desalinhada"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie de uma só vez um jogo no Three.js em que um humano enfrente uma inteligência artificial geral desalinhada e seus robôs, com um ciclo de combate claro, ondas crescentes e um objetivo final.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [Publicação original](https://x.com/lucasybai/status/2095180071221002441) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
-
-### Um teste de física com bola de demolição no Blender
-
-[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · Animação
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Um teste de física com bola de demolição no Blender"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie um teste de física focado no Blender em que uma bola de demolição suspensa atinja uma torre de tijolos, com comportamento convincente do cabo, quebra da alvenaria, colisão com o chão e uma câmera que mostre bem a ação.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [Publicação original](https://x.com/abyssallD/status/2095177102400081940) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
-
-### Um drone interceptor de uma facção corporativa
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Recursos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="Um drone interceptor de uma facção corporativa"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie um drone interceptor pesado pronto para jogo, para uma facção de república corporativa, com silhueta forte, armas modulares, escala clara, materiais e restrições próprias de recursos em tempo real.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [Publicação original](https://x.com/gladimdim/status/2095176360238915978) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="frutiger-aero-3d-world-2095171470607728926"></a>
-
-### Um mundo 3D com estética Frutiger Aero
-
-[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · Cenas
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="Um mundo 3D com estética Frutiger Aero"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie um pequeno mundo 3D interativo inspirado no Frutiger Aero do início dos anos 2000, com campos luminosos, água limpa, bolhas, formas translúcidas de vidro e som ambiente otimista.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [Publicação original](https://x.com/oliverbenns/status/2095171470607728926) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
-
-### Um site renascentista cinematográfico em dez cenas
-
-[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="Um site renascentista cinematográfico em dez cenas"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Construa uma experiência cinematográfica de navegador em dez cenas que combine pintura renascentista, tipografia editorial, transições GSAP, granulação WebGL e o tema de inventar um mundo.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [Publicação original](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [Voltar aos exemplos](#all-prompts)
 
 ---
 

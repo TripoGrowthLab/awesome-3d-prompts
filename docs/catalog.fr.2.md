@@ -28,6 +28,14 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Animation de football en style voxel](#claude-opus-5-5-2102739444256383089)
+- [Site web interactif sur des planètes imaginaires](#claude-opus-5-5-2102729710174196022)
+- [Animation médiévale de château dans le navigateur](#gpt-6-astra-2102672926285713456)
+- [Film promotionnel Tripo 3D réalisé avec Claude Opus 5](#tripo-claude-opus-5-5-paper-cut-3d-short)
+- [Jeu de course de karts en 3D dans un seul fichier HTML](#gpt-6-astra-2102652927177617564)
+- [Simulation interactive de fluide néon eulérienne](#claude-opus-5-5-2102565611473661963)
+- [Page web paysagère 3D interactive — vallée japonaise de cerisiers](#claude-opus-5-5-2102565403109085669)
+- [Modèle de l’accident du Hundenberg et vidéo réaliste](#claude-opus-5-5-2102547809140355250)
 - [Rendu 3D à 360° d’un terrain de handball à partir d’une image](#claude-opus-5-5-2102544406117286004)
 - [Arrière-plan 3D procédural de menu principal Three.js à partir d’une image](#claude-opus-5-5-2102544196808667471)
 - [Machine de Rube Goldberg 3D autonome](#claude-opus-5-5-2102544078927741369)
@@ -70,16 +78,612 @@
 - [Court-métrage CGI AAA de combat surnaturel dans une station de métro](#gpt-6-astra-2100233407108137349)
 - [Visite interactive d’un appartement avec choix de carrelage](#gpt-6-astra-2100222426705453318)
 - [Développement de Splatoon sur PC et reproduction des graphismes](#gpt-6-astra-2100193512373592313)
-- [Scène 3D interactive d’une pièce avec mobilier articulé](#gpt-6-astra-2100139076816916977)
-- [Créer un espace 3D et un personnage de jeu animables à partir d’images de référence](#gpt-6-astra-2099850719839109597)
-- [Jeu d’exploration spatiale procédurale sans zones inaccessibles](#gpt-6-astra-2099785223827259515)
-- [Cœur et émoji souriant en 3D, style Apple](#gpt-6-astra-2099750376530657300)
-- [Panneau interactif du système nerveux d’un organisme en 3D](#gpt-6-astra-2099719427990134984)
-- [Île volcanique interactive avec des bateaux en fuite](#gpt-6-astra-2099643231659012553)
-- [Créer une scène de couloir d’hôtel](#gpt-6-astra-2099588840419651890)
-- [Le guerrier escalade un géant et lui frappe la mâchoire](#gpt-6-astra-2099519801139908951)
 
 </details>
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Animation de football en style voxel
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Animation de football en style voxel"></a>
+
+**Prompt**
+
+```text
+Créez un fichier HTML unique avec Three.js (CDN) pour une animation de football simple en style voxel. Un joueur au style cubique dribble deux défenseurs et marque un but spectaculaire avec des particules de célébration. Donnez au stade un aspect coloré. Produisez UNIQUEMENT le code HTML complet.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102739444256383089) · [Publication originale](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Site web interactif sur des planètes imaginaires
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Site web interactif sur des planètes imaginaires"></a>
+
+**Prompt**
+
+```text
+Créez un site web interactif sur des planètes imaginaires.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102729710174196022) · [Publication originale](https://x.com/Kappaemme1926/status/2102729710174196022) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### Animation médiévale de château dans le navigateur
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Animation médiévale de château dans le navigateur"></a>
+
+**Prompt**
+
+```text
+Créez une animation 3D qui s’exécute entièrement dans le navigateur. Elle doit mettre en scène un château médiéval situé au sommet d’une colline au cœur d’une vaste forêt. N’ajoutez aucun contrôle au clavier : faites simplement tourner la caméra autour du château afin qu’il soit visible sous tous les angles. Un drapeau placé au sommet de la tour du château doit flotter au vent.
+
+La sortie doit contenir un fichier index.html qui, une fois exécuté, affiche le château et lance l’animation en boucle.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102672926285713456) · [Publication originale](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
+
+### Film promotionnel Tripo 3D réalisé avec Claude Opus 5
+
+[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Film promotionnel Tripo 3D réalisé avec Claude Opus 5"></a>
+
+**Prompt**
+
+```text
+1. Objectif du projet
+Créer un court métrage animé interactif d’environ 44 secondes, intitulé « Claude × Tripo ». Une petite étincelle orange représentant Claude atterrit sur un bureau en papier fait main, esquisse ou saisit au clavier cinq idées fantaisistes sur un ordinateur portable portant la marque Tripo, puis rencontre les créations lorsqu’elles prennent vie. Le visiteur peut regarder, mettre en pause, parcourir la timeline, revoir l’animation, changer de format, activer le son ou enregistrer l’animation. Il s’agit d’un court métrage chorégraphié, sans musique de score, combat ni condition de victoire. Reproduire la vidéo fournie et la composition de la scène.
+
+2. Style visuel
+Utiliser un diorama en papier découpé multicouche, avec bords crème déchirés, grain de gouache, gribouillis, détails de papier quadrillé et ciel bleu nuit. Disposer en arrière-plan une lune en croissant, des étoiles jaune chaud, des collines en papier bleu et une petite ville derrière un bureau en papier kraft. Placer l’ordinateur portable ouvert à gauche, Claude près du centre et une petite plateforme circulaire de présentation à droite. Conserver des touches orange chaud, lilas, menthe, jaune beurre et crème. La caméra en perspective se déplace doucement entre plans larges et gros plans ; des silhouettes plates séparées en profondeur créent un effet de parallaxe. Utiliser un éclairage cartoon par paliers, une lumière de liseré froide, des contours discrets, des ombres douces et une passe finale de grain de papier/vignettage. Terminer par un flash blanc et un polaroïd légèrement incliné, fixé avec du ruban adhésif, représentant toute la distribution. Reproduire le cadrage de référence à l’ouverture, lors de la révélation de chaque création et pour le final de groupe.
+
+3. Scène et récit
+Piloter chaque pose et chaque mouvement de caméra depuis une unique fonction déterministe update(t), afin qu’un accès direct à n’importe quel timestamp produise la bonne image sans rejouer les images précédentes. Nommer les temps forts du récit dans un planning partagé. Claude arrive vers 0,55 seconde, atterrit vers 1,7 seconde et réveille l’ordinateur portable à 2,92 secondes. Révéler le chat-pain vers 7,2 secondes, la maison-escargot vers 13,85 secondes, la fusée-grille-pain vers 19,8 secondes, la pieuvre-théière vers 26,1 secondes et la baleine céleste vers 33,3 secondes. La fusée décolle vers 21,25 secondes et revient vers 24,05 secondes. La baleine nage au-dessus du groupe vers 35–37 secondes. Le flash de l’appareil photo se déclenche à 40,5 secondes ; terminer à 44,2 secondes. Mélanger les plans de caméra et utiliser une anticipation progressive, un dépassement élastique, des effets d’écrasement/étirement, de petits bonds et des oscillations amorties. Éviter les réinitialisations abruptes lors des transitions entre les scènes.
+
+4. Liste des assets
+- claude-spark : une étincelle orange plate à douze rayons, avec bord crème déchiré et visage animé sympathique. Elle cligne des yeux, regarde l’action en cours, sourit, rougit et adopte des yeux joyeux, étourdis ou scintillants. Deux rayons s’étirent pour former des bras qui atteignent les touches, les dessins et les autres personnages. Préserver son visage et le comportement de ses bras sous forme de shader procédural ; un export statique ne restitue ni l’identité ni le jeu de ce personnage.
+- cat : un chat en forme de miche de pain dorée, au corps arrondi, avec marques de croûte cuite, petites oreilles, pattes, queue, yeux brillants, joues roses et moustaches. Il apparaît sur la plateforme de présentation, pivote pour être inspecté, reçoit une caresse puis s’installe à l’avant du bureau.
+- snail : un escargot vert pâle portant une maison crème au toit corail, avec cheminée, fenêtres lumineuses et minière jardinière. Garder ses pédoncules oculaires distincts, la maison droite et le visage visible pendant le soulèvement et le déplacement.
+- toaster : un grille-pain menthe aux finitions et au levier corail, avec détails crème arrondis, petites ailettes de fusée et tuyère sous le châssis. Il décolle avec une flamme orange, des traînées de bouffées et un son de passage devant la caméra, puis revient. La flamme et la fumée restent des effets distincts.
+- octopus : une créature en forme de théière rose/lilas, avec six tentacules souples, un bec verseur et une anse, un visage joyeux, un monocle doré et un nœud papillon violet. Animer les tentacules, un geste de bascule et une petite marche. Les poses des tentacules doivent rester distinctes du corps rigide de la théière.
+- whale : une baleine céleste bleue au ventre crème, avec nageoires et visage expressif, portant une ville miniature verdoyante, des maisonnettes colorées, des arbres et un phare rayé. C’est la plus grande création ; elle doit rester bien visible dans le final. Le faisceau du phare est un effet transparent distinct.
+- environment : bureau, ordinateur portable, lampe, pot à crayons, plante en pot, plateforme de présentation, couches de ciel et de ville en papier, notes et crayon. Réutiliser ces éléments tout au long de l’animation. Les arrière-plans en papier, l’interface de l’ordinateur portable, les doodles, les particules, la fumée, les faisceaux lumineux et le post-traitement restent procéduraux.
+Conserver des identifiants d’assets stables et des transformations distinctes pour le placement dans le monde, la rotation/l’écrasement et les parties articulées. Préserver les proportions et les couleurs du projet source. Les versions GLB portables peuvent utiliser des matériaux standard et une pose statique ; ne pas prétendre qu’elles incluent le shader de révélation personnalisé, le jeu des personnages ou l’animation complète.
+
+5. Interaction et retours
+Fournir des commandes de lecture/pause, de relecture, un curseur de navigation avec le temps écoulé et la durée totale, les formats 1:1 / 16:9 / 9:16, un bouton de son, une vue épurée et l’enregistrement. La barre d’espace active ou désactive la lecture ; R relance l’animation ; H ou C active ou désactive la vue épurée ; Échap rétablit les commandes ; M active ou désactive le son ; les flèches gauche/droite avancent ou reculent d’une seconde, et Maj réduit le pas à 0,1 seconde. Les commandes doivent rester utilisables sur un écran tactile étroit. Le son ne doit démarrer qu’après un geste de l’utilisateur ; proposer « Lire avec le son » lorsque la lecture audio automatique est bloquée. La navigation dans la timeline et la relecture doivent redémarrer le son au bon moment. À la fin, arrêter la lecture et proposer de revoir l’animation.
+L’ordinateur portable affiche le dessin ou l’idée saisie en cours, une barre de progression animée et une marque de fin. L’action Générer à l’écran fait partie de l’animation conçue : le court métrage existant utilise une géométrie procédurale et n’appelle pas d’API de génération de modèle. Révéler chaque création de bas en haut, d’abord sous forme d’argile lilas, puis appliquer ses couleurs avec une bande de balayage lumineuse et chaude. Synchroniser le regard et les bras de Claude avec ces événements.
+
+6. Implémentation technique et audio
+Utiliser des modules JavaScript ES et Three.js r170 avec WebGL, des shaders personnalisés, CanvasTexture et l’API Web Audio. Regrouper l’application et les polices sous forme de ressources statiques de même origine, avec un build reproductible ; aucun CDN à l’exécution ni identifiant privé de service. Utiliser Fredoka en local pour les commandes et Caveat pour le texte manuscrit. Adapter la distance de caméra et la taille du rendu aux trois formats, limiter la densité de pixels excessive et exclure les exports des requêtes réseau initiales de la page.
+Synthétiser la musique et les effets avec Web Audio. Utiliser une voix FM de boîte à musique, une basse en triangle filtré pincé, un marimba, un pad doux désaccordé, une grosse caisse, un clap/shaker, une réverbération générée et une compression finale. Aligner le début de la mesure sur le réveil de l’ordinateur portable à 2,92 secondes et la mesure seize sur le flash à 40,5 secondes, pour obtenir environ 102 BPM ; faire tourner la progression Fa–Ré mineur–Si bémol–Do. Ajouter des effets de crayon, clavier, whoosh, pop, boing, chat, baleine, fusée et obturateur aux temps forts nommés du récit. Panorer et modeler le moteur de la fusée selon son mouvement relatif à la caméra. Rendre la bande-son par petites tranches hors ligne et les assembler en un seul buffer ; l’horloge audio active pilote l’image, avec une solution de secours en cas de blocage. L’enregistrement doit combiner la vidéo du canvas et la bande-son, puis exporter dans un format pris en charge par le navigateur. Ne pas dépendre du serveur local Python optionnel de capture du projet source pour la lecture normale ou l’enregistrement dans le navigateur.
+
+7. Critères de validation
+Fournir le code source modifiable, des dépendances figées, un build statique, des instructions de démarrage et le court métrage utilisable. Vérifier la navigation directe vers environ 8, 15, 22, 28, 36 et 41 secondes ; la relecture et la pause doivent préserver un état déterministe. Comparer la composition du groupe avec la vidéo de référence. Confirmer l’activation audio, la coupure du son, la synchronisation de la relecture et le téléchargement réel d’un enregistrement contenant les deux pistes. Vérifier le cadrage carré, paysage et portrait, ainsi que les commandes sur ordinateur et écran étroit. Valider la page hébergée dans l’iframe isolée du site parent, sans polices manquantes, scripts bloqués ni erreurs liées aux ressources externes. Vérifier séparément les GLB réutilisables pour la géométrie, l’orientation, les matériaux et la boîte englobante ; leurs aperçus doivent représenter les fichiers réels. Documenter toute différence entre les assets portables et la version animée avec shader.
+
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102652927177617564"></a>
+
+### Jeu de course de karts en 3D dans un seul fichier HTML
+
+[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="Jeu de course de karts en 3D dans un seul fichier HTML"></a>
+
+**Prompt**
+
+```text
+créez un jeu de course de karts en 3D dans un seul fichier HTML.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2102652927177617564) · [Publication originale](https://x.com/realanshull/status/2102652927177617564) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565611473661963"></a>
+
+### Simulation interactive de fluide néon eulérienne
+
+[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Simulation interactive de fluide néon eulérienne"></a>
+
+**Prompt**
+
+```text
+Rédigez un document HTML complet, contenu dans un seul fichier, qui implémente une simulation interactive de fluide néon eulérienne, accélérée par GPU et hautement performante.
+
+Exigences techniques et esthétiques strictes :
+
+1. Architecture et performances :
+   - Fichier unique : tout le HTML, le CSS et le JavaScript/les shaders GLSL doivent être intégrés directement dans le fichier.
+   - Zéro dépendance externe : WebGL 1.0 ou 2.0 natif uniquement (ni Three.js, ni Pixi, ni aucune bibliothèque externe).
+   - Dynamique des fluides calculée sur le GPU : la simulation doit s’exécuter entièrement au moyen d’objets framebuffer (FBO) utilisés en ping-pong, avec des shaders de fragment personnalisés pour :
+     a) l’advection (vitesse et colorant)
+     b) le calcul de la divergence
+     c) le solveur de Poisson pour la pression (itérations de Jacobi, 20 à 30 itérations par image)
+     d) la soustraction du gradient / projection de la vitesse
+     e) le confinement de la vorticité (ajoute des tourbillons turbulents et empêche le fluide de se transformer en une masse terne et floue).
+
+2. Fidélité visuelle (rendu « fumée néon ») :
+   - Arrière-plan noir absolu, semblable à un vide (`#050508`).
+   - Mélange additif / HDR pour l’injection du colorant.
+   - Palette dynamique : chaque mouvement vif du curseur ou glissement tactile injecte un colorant néon très lumineux, dont la teinte évolue progressivement parmi des couleurs cybernétiques éclatantes (cyan électrique `#00F0FF`, magenta vif `#FF007F`, ultraviolet profond et or rayonnant).
+   - Améliorations du shader d’affichage : inclure directement dans le shader de rendu final une passe de post-traitement appliquant un bloom/glow subtil, un tone mapping et une aberration chromatique autour des bords tourbillonnants du fluide.
+
+3. Interaction :
+   - Souris et tactile : un déplacement rapide du curseur ou un glissement injecte une vitesse proportionnelle à la vitesse de la souris, ainsi qu’un colorant lumineux dense.
+   - Mouvement ambiant passif : lorsqu’il n’y a aucune interaction, générer un curl noise procédural subtil ou de légers vortex dérivants afin que la toile ne soit jamais complètement statique.
+   - Contrôles : un HUD de contrôle élégant et ultra-minimaliste en glassmorphism, placé dans un coin et masqué automatiquement en cas d’inactivité :
+     * Curseur de viscosité
+     * Curseur de dissipation / persistance du colorant
+     * Curseur du rayon d’injection
+     * Bouton « Effacer la toile »
+     * Bouton permettant de faire défiler les thèmes de couleurs (Cyberpunk, Inferno thermique, Bioluminescent profond).
+
+4. Finitions de production :
+   - Gérer automatiquement les écrans haute densité de pixels et les `resize` événements sans étirer ni effacer les textures FBO.
+   - Prévoir une vérification de compatibilité avec repli élégant pour la prise en charge des textures en virgule flottante (`OES_texture_float` / `OES_texture_half_float`).
+   - Fournir un code propre, sans bogue et entièrement implémenté, sans aucun placeholder ni commentaire tronqué.
+
+Retournez uniquement le fichier HTML entièrement rempli, prêt à être exécuté directement dans Chrome/Safari/Firefox.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102565611473661963) · [Publication originale](https://x.com/theailoser/status/2102565612874596411) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565403109085669"></a>
+
+### Page web paysagère 3D interactive — vallée japonaise de cerisiers
+
+[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Page web paysagère 3D interactive — vallée japonaise de cerisiers"></a>
+
+**Prompt**
+
+```text
+Crée directement une page web paysagère 3D aboutie, interactive en temps réel dans le navigateur. 
+
+Thème : vallée japonaise de cerisiers. 
+Utilise HTML, CSS et JavaScript. Ne génère pas d’image et ne fournis pas seulement une proposition de design ; 
+n’utilise pas une simple image d’arrière-plan avec un effet de parallaxe pour faire passer cela pour de la 3D. Je veux un résultat réellement fonctionnel et explorable. 
+
+【I. Positionnement de l’œuvre】
+
+Il s’agit d’un paysage de vallée complet et continu, avec une véritable profondeur entre le premier plan et l’arrière-plan, 
+pas d’un petit objet isolé, d’une île flottante, d’une maquette sur socle ni d’une simple démonstration technique. 
+
+Le style est un voxel art moderne et détaillé : 
+conserve le langage formel de la géométrie cubique, mais l’image doit être en haute résolution, avec antialiasing et un éclairage fin. 
+Pas de pixel art rétro basse résolution, pas d’empilement de gros blocs et pas de filtre pixelisé appliqué à l’image. 
+
+La qualité visuelle est prioritaire. Mieux vaut quelques fonctionnalités en moins que de sacrifier la composition, les matériaux ou l’éclairage. 
+
+【II. Utilisation des images de référence】
+
+Si des images de référence sont fournies, commence par en comprendre la composition, les différents plans, l’échelle, la lumière et les relations colorimétriques. 
+Inspire-toi uniquement de leur ambiance et de leur langage visuel, puis reconçois la scène ; 
+ne reprends pas à l’identique l’emplacement des bâtiments, des arbres, des reliefs et des chemins, et ne fais pas une reproduction à l’échelle 1:1. 
+
+Les images de référence ne sont pas des ressources d’arrière-plan pour la page web. La scène doit être constituée de véritable géométrie 3D. 
+
+【III. Composition de la scène】
+
+Dès son ouverture, la page doit présenter une image complète et attrayante ; 
+l’utilisateur ne doit pas avoir à faire pivoter la caméra pour trouver un bel angle de vue. 
+
+Utilise une caméra en perspective, et non une caméra isométrique en plongée de type maquette. 
+L’image doit présenter clairement un premier plan, un plan intermédiaire et un arrière-plan : 
+
+Premier plan : 
+un vieux cerisier particulièrement marquant, accompagné de rochers, d’herbes, de végétation, de lanternes de pierre et de quelques pétales tombés, 
+forme un cadrage naturel sur le bord de l’image, sans masquer la rivière, le pont ni les bâtiments principaux. 
+
+Plan intermédiaire : 
+une rivière sinueuse guide le regard vers l’intérieur de l’image, avec un pont japonais rouge enjambant son cours ; 
+le village, les maisons de thé, le sanctuaire et les sentiers se répartissent en suivant le relief, avec de véritables relations de circulation entre les bâtiments. 
+Le sol doit présenter des ondulations, des berges et des transitions naturelles, et non des modèles répartis uniformément sur une surface plane. 
+
+Arrière-plan : 
+une pagode à plusieurs niveaux sur le versant, des forêts à différentes distances, des crêtes montagneuses et des montagnes enneigées au loin. 
+Exprime la distance par les variations d’échelle, les occultations, les écarts de température de couleur et la perspective atmosphérique, 
+plutôt que de simplement réduire la taille des objets éloignés. 
+
+Ne répartis pas tous les éléments de manière uniforme. Il faut une hiérarchie, des variations de densité, des espaces dégagés et un point focal visuel clairement défini. 
+
+【IV. Formes et qualité d’image】
+
+Cerisier : 
+le tronc doit présenter des inflexions, des ramifications et des racines ; la cime doit être composée de bouquets de fleurs irréguliers, 
+avec des espaces entre eux, des variations d’épaisseur et des branches visibles. Ne le transforme pas en quelques sphères régulières ou en amas cubiques. 
+
+Bâtiments : 
+les toits doivent comporter des rangées de tuiles superposées, des avant-toits, des poutres, des poteaux et des claustras ; 
+les bâtiments doivent varier par leur fonction, leur volume et leur hauteur ; ne répète pas la même maison dans toute la vallée. 
+
+Terrain : 
+les berges doivent présenter des pierres humides, des touffes d’herbe et des transitions végétales. 
+Évite les escaliers trop réguliers, les bandes répétitives, les damiers et les grilles procédurales trop visibles. 
+
+Surface de l’eau : 
+elle doit refléter les éléments environnants et présenter des ondulations modérées, des variations de profondeur et une transition avec les berges. 
+Utilise autant que possible les réflexions de la scène réelle ; même en cas de dégradation des performances, le résultat doit rester visuellement crédible. 
+Ne remplace pas l’eau par un bruit scintillant, une forte distorsion ou un grand plan bleu uniforme. 
+
+Détails : 
+tu peux ajouter quelques carpes koï, pétales tombés, lucioles, cascades et oiseaux volant au loin, 
+mais tous ces éléments doivent servir l’ambiance sans rendre l’image chargée. 
+N’empile pas des détails uniquement pour pouvoir revendiquer un nombre élevé de modèles. 
+
+【V. Couleurs et ambiance】
+
+L’ambiance par défaut est celle de l’heure bleue : 
+une vallée et des montagnes lointaines aux teintes froides, des fleurs de cerisier rose tendre, et la lumière chaleureuse mais non surexposée des lanternes et des fenêtres. 
+La lumière chaude doit se concentrer dans les zones occupées, sans teinter tout l’environnement d’orange. 
+
+Prévois des ombres douces, un assombrissement aux points de contact entre les objets, une exposition cohérente, 
+un bloom maîtrisé, de l’antialiasing et une brume légère dont la densité varie avec la distance. 
+
+Évite les tons blanchis, l’aspect grisâtre, la sursaturation, la brume couvrant tout l’écran, les lumières surexposées et l’aliasing marqué. 
+La géométrie cubique peut rester nette, mais le rendu ne doit pas paraître grossier. 
+
+Propose également deux ambiances : « matin » et « sous la pluie » ; 
+lors du changement, modifie simultanément le ciel, la lumière ambiante, la brume et les effets locaux, 
+et pas uniquement la couleur de l’arrière-plan. 
+
+【VI. Interactions et interface】
+
+Propose quatre caméras conçues avec soin : 
+vue panoramique de la vallée, vue basse au bord de la rivière, sentier du temple et vue plongeante depuis le versant. 
+Le passage d’une caméra à l’autre doit être fluide et chacune doit apporter une composition qui lui est propre. 
+
+Interactions de base : 
+faire glisser la souris pour observer, utiliser la molette pour zoomer ou avancer ; sur écran tactile, prendre en charge le glissement et le pincement à deux doigts. 
+Prévois des fonctions pour réinitialiser la vue, masquer l’interface et enregistrer l’image actuelle. 
+
+Améliorations facultatives : 
+exploration libre, promenade lente de la caméra et ambiance sonore. 
+Le son d’ambiance doit être désactivé par défaut et ne se lancer qu’après un clic volontaire de l’utilisateur. 
+Les fonctionnalités supplémentaires ne doivent pas nuire à la qualité de la vue par défaut. 
+
+L’interface doit rester discrète et soignée, en laissant le paysage au premier plan. 
+Place le titre et la barre de commandes sur les bords, sans masquer le point focal visuel. 
+Sur ordinateur comme sur mobile, aucun bouton ne doit sortir de l’écran, aucun texte ne doit se chevaucher et aucune commande ne doit être inutilisable. 
+
+【VII. Technique et performances】
+
+Tu peux utiliser Three.js / WebGL ainsi que des dépendances CDN dont les versions sont figées et compatibles entre elles. 
+Privilégie des capacités de rendu éprouvées ; ne réécris pas tout un moteur pour obtenir une solution « sans dépendances ». 
+
+Regroupe autant que possible le HTML, le CSS et le JavaScript écrits sur mesure dans un seul fichier HTML. 
+Génère les éléments de la scène à partir de géométrie et de matériaux procéduraux, sans dépendre d’images ou de ressources de modèles 3D externes. 
+
+Pour les objets répétés, utilise une méthode adaptée de rendu par lots ou d’instanciation ; 
+contrôle raisonnablement la tessellation, les ombres, les réflexions et la résolution de rendu. 
+Propose un mode haute qualité et un mode léger ; sur mobile, utilise par défaut les réglages légers. 
+N’augmente pas indéfiniment le nombre de voxels pour obtenir davantage de détails. 
+
+Ajoute un indicateur de chargement, un message si WebGL n’est pas pris en charge et la gestion des erreurs nécessaires. 
+Ne lance pas automatiquement le son lorsqu’il n’a pas été activé ; respecte les préférences système de réduction des animations. 
+
+【VIII. Validation avant livraison】
+
+Ne livre pas le résultat immédiatement après avoir écrit le code. 
+
+Si l’environnement permet d’exécuter le projet dans un navigateur et de prendre des captures, ouvre d’abord réellement la page, 
+vérifie la caméra par défaut, les quatre vues, le changement d’ambiance ainsi que la mise en page sur ordinateur et sur mobile, 
+puis corrige à partir des captures les problèmes évidents de composition, d’exposition, d’occultation et de rendu. 
+
+Vérifie en particulier : 
+l’absence d’écran vide, d’échec du chargement et d’erreurs dans la console ; 
+l’absence de pénétration de géométrie, de scintillement, de bandes dans les ombres, de surexposition et d’anomalies sur l’eau ; 
+que la vue par défaut ressemble réellement à un paysage complet et non à une petite maquette ; 
+que les boutons fonctionnent vraiment et ne débordent pas sur mobile. 
+
+Tu peux utiliser des captures du navigateur pour la validation, mais n’appelle aucun outil de génération d’images. 
+Indique honnêtement les tests qui n’ont pas pu être effectués ; ne prétends pas qu’ils ont été vérifiés. 
+
+Livraison finale : 
+1. Un fichier HTML réellement présent et ouvrable, ou un aperçu interactif pris en charge par l’environnement actuel. 
+2. Si des captures sont possibles, joins une véritable capture du rendu dans le navigateur. 
+3. Explique brièvement le mode d’utilisation et les conditions d’exécution nécessaires. 
+
+Réalise directement le projet ; pour les détails non essentiels, prends des décisions de conception cohérentes de ton propre chef, 
+et ne me renvoie pas à plusieurs reprises les problèmes d’implémentation que tu peux résoudre toi-même.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102565403109085669) · [Publication originale](https://x.com/dotey/status/2102565403109085669) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102547809140355250"></a>
+
+### Modèle de l’accident du Hundenberg et vidéo réaliste
+
+[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Modèle de l’accident du Hundenberg et vidéo réaliste"></a>
+
+**Prompt**
+
+```text
+Crée-moi un modèle du Hundenberg dans Blender, puis une vidéo réaliste de l’accident.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2102547809140355250) · [Publication originale](https://x.com/aimanhasnoname/status/2102547809140355250) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102544406117286004"></a>
 
 ### Rendu 3D à 360° d’un terrain de handball à partir d’une image
@@ -2106,452 +2710,6 @@ I want you to build a completely realistic HD 3D render model in blender, then b
 </details>
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100193512373592313) · [Publication originale](https://x.com/basio39/status/2100194321987461503) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### Scène 3D interactive d’une pièce avec mobilier articulé
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="Scène 3D interactive d’une pièce avec mobilier articulé"></a>
-
-**Images de référence:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**Prompt**
-
-```text
-À partir de la photo de la pièce que j’ai fournie, utilisez Blender MCP pour créer une scène 3D interactive et la restituer sous forme de vidéo de démonstration. Intégrez des mouvements d’objets articulés (charnières, portes, tiroirs) et utilisez des mouvements de caméra pertinents pour mettre ces effets en valeur.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2100139076816916977) · [Publication originale](https://x.com/walterzhu8/status/2100139076816916977) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### Créer un espace 3D et un personnage de jeu animables à partir d’images de référence
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="Créer un espace 3D et un personnage de jeu animables à partir d’images de référence"></a>
-
-**Images de référence:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**Prompt**
-
-```text
-【À préparer】
-・Images de référence de l’univers à créer (extérieur, pièces, etc.)
-・Images canoniques du personnage (vue de face, de profil et de dos, par exemple)
-　※ La reproduction est impossible sans images. Pensez à les joindre, hein 
-
-【Prompt】
-À partir des images jointes, concevez avec un niveau de qualité professionnelle un espace 3D et un personnage de jeu réellement animables, fidèles à mon univers et à mon personnage.
-
-① Examinez les images jointes pour vérifier la forme, les couleurs et les éléments de design de la maison et du personnage
-　↓
-② Générez un modèle 3D à partir des images avec Tripo (trois vues en pied — face, dos et profil — au même format d’image)
-　↓
-③ Importez-le dans Blender, puis ajustez la disposition et la taille des éléments
-　↓
-④ Configurez un rig automatique et ajoutez des mouvements adaptés à la personnalité du personnage, comme la marche ou les balancements
-　↓
-⑤ Si une décision doit être prise, par exemple utiliser un asset payant, demandez-moi confirmation avant de poursuivre
-　↓
-⑥ Consignez le travail effectué, les blocages rencontrés et l’emplacement des ressources à un niveau de détail permettant à une autre IA de reproduire le processus
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099850719839109597) · [Publication originale](https://x.com/aiehon_aya/status/2099850721646784894) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### Jeu d’exploration spatiale procédurale sans zones inaccessibles
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="Jeu d’exploration spatiale procédurale sans zones inaccessibles"></a>
-
-**Prompt**
-
-```text
-Tout ce que je peux voir doit être accessible. Conservez des distances à l’échelle réelle, puis rendez les déplacements viables grâce à l’échelle et à la vitesse. Je veux pouvoir voler depuis l’espace, pénétrer dans l’atmosphère d’une planète et descendre jusqu’au sol. Les planètes peuvent être aussi grandes que la Terre : nous aurons donc besoin d’un terrain procédural et d’un rendu par chunks.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099785223827259515) · [Publication originale](https://developers.openai.com/blog/how-to-build-games-with-astra) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### Cœur et émoji souriant en 3D, style Apple
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · Ressources
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Cœur et émoji souriant en 3D, style Apple"></a>
-
-**Prompt**
-
-```text
-Émoji cœur et émoji souriant en 3D, dans le style Apple
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099750376530657300) · [Publication originale](https://x.com/Just_sharon7/status/2099751278234767673) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### Panneau interactif du système nerveux d’un organisme en 3D
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="Panneau interactif du système nerveux d’un organisme en 3D"></a>
-
-**Prompt**
-
-```text
-Panneau interactif. À gauche : système nerveux schématique de [organism], avec des régions cliquables. À droite : [organism] en 3D doté d’un rigging procédural. Un clic sur une région déclenche une réponse motrice de 2,5 secondes. Interface sombre, télémétrie de la vitesse et du cap.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099719427990134984) · [Publication originale](https://x.com/AIMind_Ai/status/2099719427990134984) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099643231659012553"></a>
-
-### Île volcanique interactive avec des bateaux en fuite
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="Île volcanique interactive avec des bateaux en fuite"></a>
-
-**Prompt**
-
-```text
-construisez une île volcanique interactive avec de la lave qui s’écoule et des bateaux qui fuient.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build an interactive volcanic island with flowing lava and boats that flee.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099643231659012553) · [Publication originale](https://x.com/WescheNex1q/status/2099643231659012553) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099588840419651890"></a>
-
-### Créer une scène de couloir d’hôtel
-
-[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="Créer une scène de couloir d’hôtel"></a>
-
-**Prompt**
-
-```text
-créer une scène de couloir d’hôtel
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-create hotel corridor scene
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099588840419651890) · [Publication originale](https://x.com/MyWestLord/status/2099588840419651890) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099519801139908951"></a>
-
-### Le guerrier escalade un géant et lui frappe la mâchoire
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="Le guerrier escalade un géant et lui frappe la mâchoire"></a>
-
-**Prompt**
-
-```text
-REGISTRE DES PERSONNAGES :
-Un seul guerrier montagnard adulte de sexe masculin.
-Il possède une carrure compacte, large et extrêmement puissante. Il porte une armure originale en plaques de métal sombre couleur gunmetal, de style fantasy médiévale : casque pointu fermé, épaulières superposées, protections articulées des bras, gantelets lourds, plastron renforcé, pans de cuir à la taille, pantalon sombre, jambières en acier et lourdes bottes blindées. Son armure est usée, rayée et trempée par la tempête.
-Il porte exactement un immense marteau de guerre à deux mains. Il possède un long manche renforcé en métal sombre et une lourde tête de marteau rectangulaire et symétrique. L’arme conserve la même longueur, la même forme et le même poids pendant toute la séquence. Il la manie à deux mains pendant les sauts, l’escalade et les frappes.
-Un seul géant humanoïde organique colossal, mesurant plus de trente fois la taille du guerrier. Il possède des épaules musculeuses immenses, des bras extrêmement longs, de grandes mains d’apparence humaine, une peau gris charbon rugueuse, des pores et des cicatrices visibles, un front épais, un nez large, une mâchoire puissante et de longs cheveux noirs emmêlés. C’est un titan organique vivant — pas une statue, un robot, une machine ni un golem de pierre.
-Aucun autre guerrier, géant ou armée en arrière-plan.
-ENVIRONNEMENT :
-Un champ de bataille d’altitude balayé par le vent, sous un violent orage bleu-gris. Le sol irrégulier est couvert de terre sombre et humide, d’herbe aplatie et de milliers de petites fleurs pâles. Un vent puissant courbe l’herbe et les fleurs en vagues irrégulières.
-Une forteresse médiévale en ruines se dresse sur une colline éloignée à gauche de l’image. Des tours brisées restent visibles à travers un brouillard bas qui dérive. Les éclairs illuminent par intermittence la forteresse et les nuages d’orage.
-Le géant occupe le côté droit de l’image. Le guerrier commence au centre du premier plan et court vers le géant. Préserver cette géographie et cette direction à l’écran pendant chaque changement de plan.
-ACTION CHRONOLOGIQUE ET CAMÉRA :
-0,00–3,30 — CHARGE VERS LE GÉANT
-Commencer immédiatement par un travelling arrière en caméra basse, très près derrière le guerrier en armure tandis qu’il court avec puissance à travers le champ détrempé vers le géant colossal.
-Il porte le marteau de guerre horizontalement devant lui à deux mains. La tête lourde du marteau reste orientée vers la droite de l’image, tandis que le bas du manche s’étend vers la gauche. Ses bottes compriment le sol humide à chaque pas, projetant de la terre, des fleurs écrasées et des gouttelettes vers l’arrière uniquement après le contact physique.
-Les jambes du géant et son immense main droite apparaissent dans la partie supérieure droite du cadre. Le géant se penche et tend sa main ouverte vers le guerrier qui charge, avec l’intention de le ramasser au sol.
-Les doigts bougent indépendamment, avec des articulations et un poids crédibles. Le géant n’attrape pas instantanément le guerrier et celui-ci ne se téléporte pas.
-La caméra reste basse, rapide et fluide, en soulignant l’écart d’échelle extrême. La forteresse en ruines reste visible sur l’horizon éloigné à gauche de l’image.
-3,30–5,80 — SAUT SUR LA MAIN DU GÉANT
-Alors que la main ouverte du géant balaie le passage du guerrier à faible hauteur, celui-ci plante fermement sa botte droite dans le sol. Son genou s’enfonce, ses hanches s’abaissent et sa jambe arrière pousse vers le haut.
-Il effectue un seul saut puissant vers l’avant.
-Utiliser un ralenti cinématographique maîtrisé tandis qu’il s’élève devant les doigts écartés du géant. Ses jambes se replient légèrement sous lui, tandis que ses deux mains lèvent le même marteau de guerre au-dessus de ses épaules pour garder l’équilibre.
-Le guerrier atterrit avec ses deux bottes sur le dos du majeur et de l’annulaire du géant. Montrer clairement le contact physique : les bottes touchent la peau, les genoux absorbent l’impact, la chair du géant se comprime légèrement et l’armure du guerrier réagit à l’atterrissage.
-Le géant commence à lever sa main vers son visage. Le guerrier ne flotte pas et ne reste pas suspendu dans le vide.
-Utiliser un travelling grue spectaculaire en contre-plongée, qui monte sous le guerrier, avec l’immense main remplissant l’arrière-plan.
-5,80–9,00 — COURSE LE LONG DU BRAS
-Revenir à une action rapide et naturelle.
-À mesure que le géant lève son bras, le guerrier court des doigts jusqu’au dos de la main, puis jusqu’au poignet. Ses foulées alternent correctement et ses pieds adhèrent visiblement à la surface irrégulière en mouvement.
-Le géant fait pivoter son poignet et tente de le déséquilibrer. Le guerrier abaisse son centre de gravité, élargit sa posture et garde le marteau près de son torse jusqu’à ce que le bras se stabilise.
-Il accélère ensuite le long de l’avant-bras du géant vers le coude. Chaque pas suit l’angle changeant du bras ; ses bottes ne glissent pas à travers la peau.
-La caméra le suit de côté et légèrement en dessous, en montant le long du bras du géant. Les parties proches du bras traversent rapidement le premier plan, tandis que la tête du géant et la forteresse éloignée se déplacent plus lentement, créant un parallaxe et une impression d’échelle puissants.
-9,00–12,00 — ESCALADE JUSQU’À L’ÉPAULE
-Le guerrier atteint le haut du bras, qui s’élève en pente raide vers l’épaule du géant.
-Il accroche un avant-bras et le manche du marteau de guerre contre une arête musculaire naturelle pour prendre appui, plante sa botte droite, pousse sur sa jambe et se hisse sur l’épaule en un seul mouvement d’escalade continu.
-Le géant tourne la tête vers lui. Son œil suit le guerrier, son front se contracte et sa mâchoire s’ouvre sur un rugissement profond et non verbal. Les cheveux et la peau bougent avec la rotation de sa tête.
-Le guerrier reste accroché à l’épaule grâce à un contact réel de ses mains et de ses bottes. Il grimpe en diagonale sur le haut de l’épaule vers la base du cou du géant.
-Utiliser un travelling latéral rapproché qui maintient le guerrier en entier, le marteau de guerre et le profil du visage du géant clairement lisibles dans le même cadre.
-12,00–15,00 — FRAPPE COMPLÈTE DU MARTEAU SUR LA MÂCHOIRE
-Le guerrier atteint une position stable sur l’épaule inclinée du géant, près de son cou.
-Il place sa botte gauche en avant et cale sa botte droite derrière. Les deux pieds appuient visiblement contre la peau du géant. Il tourne ses hanches à l’opposé de la cible et tire le marteau de guerre vers l’arrière à deux mains.
-Montrer toute la préparation avant l’impact :
-pieds plantés → genoux comprimés → hanches chargées → torse en rotation → épaules tirant le marteau vers l’arrière → bras guidant la lourde tête du marteau jusqu’à sa position de départ.
-À 13,00 secondes, le guerrier déclenche un seul mouvement horizontal complet du marteau à deux mains vers la mâchoire du géant.
-La puissance se transmet continûment des jambes aux hanches, au torse, aux épaules et aux bras. La tête du marteau suit un seul arc net et ininterrompu. Elle ne change pas de position par à-coups et ne touche pas le visage avant la fin du mouvement.
-À 14,00 secondes, passer explicitement en ultra-ralenti pour le contact décisif.
-La tête rectangulaire du marteau frappe le côté de la mâchoire inférieure du géant avec sa large face de frappe — pas avec le manche ni la poignée. Montrer la peau et les tissus de la joue qui se compriment autour de l’impact, la mâchoire du géant qui se déplace sur le côté, les cheveux détachés qui fouettent l’air et une gerbe radiale de pluie, de poussière et de débris cutanés.
-Les bras du guerrier résistent à la décélération soudaine. Ses épaules partent en arrière tandis que son corps poursuit un accompagnement maîtrisé du mouvement.
-Pas de sang, de tissus exposés, de gore ni de démembrement.
-15,00–17,30 — RECUL DU GÉANT ET CHUTE DU GUERRIER
-Revenir immédiatement à la vitesse naturelle.
-La tête du géant part brusquement sur le côté sous l’impact. Son haut du corps recule et l’épaule frappée s’abaisse brutalement. Ce mouvement soudain vers le bas fait perdre son appui au guerrier et le projette loin du géant.
-Le guerrier tombe vers le champ de bataille en conservant le même marteau de guerre à deux mains. Il ne flotte pas et n’effectue pas de saut supplémentaire.
-Passer à une vue latérale au niveau du sol. Ses bottes touchent le sol en premier, ses genoux s’effondrent sous l’élan et il roule une fois sur une épaule. La tête du marteau frappe la terre à côté de lui et y creuse une tranchée peu profonde, projetant de la terre humide et des fleurs pâles vers l’extérieur.
-L’immense visage du géant descend dans la partie supérieure droite du cadre tandis qu’il lutte pour retrouver son équilibre. Il n’écrase pas le guerrier et ne le traverse pas.
-17,30–20,00 — RELÈVEMENT ET FACE-À-FACE FINAL
-Le guerrier arrête sa roulade en position basse, à genoux.
-Il plante la tête du marteau de guerre dans la terre, saisit le manche à deux mains et s’en sert comme appui pour se redresser progressivement sur un genou. Il retire ensuite le marteau du sol et place le manche horizontalement sur ses épaules, dans une posture défensive prête à l’action.
-Le géant abaisse son immense tête vers lui, la mâchoire visiblement contusionnée par le coup mais toujours consciente et menaçante. Son souffle fait onduler l’herbe, les fleurs, le brouillard et les pans de cuir détachés de l’armure du guerrier.
-Le guerrier reste immobile seulement le temps d’un bref instant déterminé, tandis que sa respiration et son armure conservent de subtils mouvements naturels.
-Un éclair illumine la forteresse en ruines à gauche de l’image, dessinant la silhouette des deux personnages et confirmant leur différence d’échelle immense.
-Terminer exactement à 20,00 secondes sur une composition large en caméra basse : le guerrier agenouillé au premier plan couvert de fleurs, le marteau de guerre prêt à frapper, le visage du géant dominant la scène au-dessus de lui et la forteresse éloignée visible à travers la tempête.
-Ne pas faire de fondu au noir. Pas d’image figée, de titre ni de carton de fin.
-VERROUILLAGE DE LA PHYSIQUE DES ACTIONS :
-Chaque action doit suivre une causalité physique lisible :
-Course : contact du pied → transfert du poids → poussée de la jambe arrière → pas suivant.
-Saut : pied planté → compression du genou → extension de la jambe → trajectoire aérienne → contact à l’atterrissage → absorption par le genou.
-Escalade : appui de la main ou de l’arme → botte plantée → transfert du poids du corps → traction vers le haut.
-Frappe du marteau : pieds stables → charge des hanches → rotation du torse → impulsion des épaules → trajectoire continue du marteau → contact avec la large face du marteau → résistance → accompagnement du mouvement.
-Chute : perte d’appui causée par le recul du géant → descente entraînée par la gravité → contact des bottes → effondrement des genoux → roulade sur l’épaule → récupération.
-Le guerrier ne se téléporte jamais entre le sol, la main, le bras ou l’épaule. Le géant ne déplace jamais le guerrier sans contact physique direct ni force visible.
-RÈGLES DE VITESSE DES MOUVEMENTS :
-0,00–3,30 : vitesse de course naturelle et rapide.
-3,30–5,80 : ralenti cinématographique maîtrisé pour le saut et l’atterrissage.
-5,80–13,90 : action naturelle et rapide.
-13,90–15,00 : ultra-ralenti explicite uniquement pour l’approche finale du marteau, le contact et la déformation immédiate.
-15,00–20,00 : retour net à la vitesse naturelle.
-Ne pas appliquer de ralenti global. Ne pas laisser les personnages au ralenti flotter dans les airs.
-ÉCLAIRAGE ET COULEURS :
-Conserver un étalonnage orageux froid, bleu acier, gris charbon et argent désaturé. Les éclairs fournissent une brève lumière directionnelle blanc froid. L’armure mouillée reçoit de fins reflets argentés, tandis que la peau sombre du géant reste détaillée et lisible.
-Les fleurs pâles apportent un contraste ivoire chaud et discret, sans rendre la scène colorée. Préserver le brouillard atmosphérique dense autour de la forteresse éloignée. Les variations d’exposition dues aux éclairs doivent être brèves et ne doivent ni effacer l’anatomie des personnages ni masquer des actions manquantes.
-AUDIO :
-Uniquement des effets sonores environnementaux et d’action synchronisés, diégétiques. Absolument aucune musique ni bande originale.
-Inclure le vent de la tempête, le tonnerre lointain, les mouvements de l’armure, les lourds bruits de pas de la course, la terre déplacée, l’herbe qui plie, la respiration et le rugissement non verbaux du géant, le déplacement d’air de sa main, le saut du guerrier, les bottes touchant la peau, les impacts de l’escalade, le mouvement du marteau de guerre, un unique impact métallique profond du marteau, le recul du géant, l’air de la chute, l’armure frappant la terre, la tête du marteau touchant le sol et le craquement final d’un éclair proche.
-Aucun dialogue, narration, parole, chant, paroles de chanson ni langage intelligible.
-CONTINUITÉ ET PRÉVENTION DES ERREURS :
-Exactement un guerrier, un géant et un marteau de guerre pendant toute la séquence.
-Le guerrier escalade le géant une seule fois et effectue exactement une frappe décisive avec le marteau.
-Le marteau de guerre ne se duplique jamais, ne change pas de taille, ne flotte pas, ne se plie pas, ne traverse aucun des deux corps et ne change pas de main sans mouvement visible.
-Le géant reste la même créature humanoïde organique dans chaque plan. Aucun élément robotique, aucune transformation en pierre, aucune main dupliquée, aucun doigt supplémentaire ni changement de visage.
-Préserver l’armure, le casque, les proportions et les dommages du guerrier pendant toute la séquence.
-Préserver le trajet main droite-bras droit-épaule du géant afin que la géographie de l’escalade reste physiquement possible.
-Pas de mains fusionnées, de membres supplémentaires, d’articulations inversées, de bottes qui glissent, de corps qui s’interpénètrent, de téléportation ni de suspension sans appui.
-La large tête du marteau — et non son manche — doit entrer visiblement en contact avec la mâchoire du géant après le mouvement complet.
-Pas de sang, de gore, de tissus exposés, de corps humain écrasé ni de démembrement.
-Pas d’apparence prise de vues réelles, de personnages issus de franchises reconnaissables, de sous-titres, de légendes, de logos, d’interface utilisateur, de superpositions de lecture, de bandes noires permanentes ni de filigranes.
-Toute musique ou bande originale entraîne l’échec de la génération.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-CHARACTER REGISTRY:
-Exactly one adult male mountain warrior.
-He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
-He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
-Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
-No additional warriors, giants or background armies.
-ENVIRONMENT:
-A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
-A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
-The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
-CHRONOLOGICAL ACTION AND CAMERA:
-0.00–3.30 — CHARGE TOWARD THE GIANT
-Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
-He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
-The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
-The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
-Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
-3.30–5.80 — LEAP ONTO THE GIANT’S HAND
-As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
-He performs one powerful forward jump.
-Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
-The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
-The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
-Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
-5.80–9.00 — RUNNING UP THE ARM
-Return to fast natural action.
-As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
-The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
-He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
-Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
-9.00–12.00 — CLIMB TO THE SHOULDER
-The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
-He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
-The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
-The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
-Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
-12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
-The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
-He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
-Show the complete preparation before impact:
-feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
-At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
-The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
-At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
-The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
-The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
-No blood, exposed tissue, gore or dismemberment.
-15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
-Return immediately to natural speed.
-The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
-The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
-Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
-The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
-17.30–20.00 — RECOVERY AND FINAL STANDOFF
-The warrior stops his roll in a low kneeling position.
-He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
-The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
-The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
-A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
-End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
-Do not fade to black. No freeze frame, title or end card.
-ACTION-PHYSICS LOCK:
-Every action must follow readable physical causality:
-Running: foot contact → weight transfer → rear-leg push → next step.
-Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
-Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
-Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
-Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
-The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
-MOTION-SPEED RULES:
-0.00–3.30: fast natural running speed.
-3.30–5.80: controlled cinematic slow motion for the jump and landing.
-5.80–13.90: natural fast action.
-13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
-15.00–20.00: clear return to natural speed.
-Do not apply global slow motion. Do not allow slow-motion characters to hover.
-LIGHTING AND COLOR:
-Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
-The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
-AUDIO:
-Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
-Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
-No dialogue, narration, spoken words, chants, lyrics or intelligible language.
-CONTINUITY AND FAILURE PREVENTION:
-Exactly one warrior, one giant and one warhammer throughout.
-The warrior climbs the giant once and performs exactly one decisive hammer strike.
-The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
-The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
-Preserve the warrior’s armor, helmet, proportions and damage throughout.
-Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
-No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
-The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
-No blood, gore, exposed tissue, crushed human body or dismemberment.
-No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
-Any background music or musical score is a failed generation.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2099519801139908951) · [Publication originale](https://x.com/MadMax_Series/status/2099519801139908951) · [Retour aux exemples](#all-prompts)
 
 ---
 

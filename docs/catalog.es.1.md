@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Set de LEGO del Ford Model T con todas sus funciones](#claude-opus-5-5-2104232297167716457)
+- [FPS multijugador hiperrealista en un callejón nevado](#claude-opus-5-5-2104232013578617241)
+- [Escena 3D de 55 segundos: del centro de datos al átomo](#claude-opus-5-5-2104223449849761837)
+- [Promo dinámica de motion graphics de 30 segundos](#claude-opus-5-5-2104204312624918810)
+- [CG 3D de estilo anime con tres vehículos que se transforman y se combinan](#claude-opus-5-5-2104193522715029657)
+- [Animación de interfaz de una esfera de IA para Claude Code — Opus 5.5](#claude-opus-5-5-2104162483888062945)
+- [Demostración interactiva en 3D del recorrido de la luz por un objetivo de cámara](#gpt-6-astra-2104077535315144878)
+- [Captura del propulsor Super Heavy en Blender](#gpt-6-astra-2103966922127630820)
 - [Entorno de aldea forestal junto a un lago](#gpt-6-astra-2103860776419111285)
 - [Escena WebGL de un barco de vóxeles dentro de una botella](#gpt-6-astra-2103855977376125161)
 - [Vídeo gráfico de motion design pulido de 15 segundos](#claude-opus-5-5-2103846630088716687)
@@ -70,16 +78,232 @@
 - [CatWalk: juego de gatos de desplazamiento lateral en 3D por la ciudad de noche](#claude-opus-5-5-2102775461701091531)
 - [Orbit Lab: simulación 3D del Sol, la Tierra y la Luna](#gpt-6-astra-2102752217375899659)
 - [Benchmark de megaciudad ciberpunk «The Last Train»](#claude-opus-5-5-2102740078347087940)
-- [Animación de fútbol con estilo voxel](#claude-opus-5-5-2102739444256383089)
-- [Sitio web interactivo sobre planetas imaginarios](#claude-opus-5-5-2102729710174196022)
-- [Animación de un castillo medieval en el navegador](#gpt-6-astra-2102672926285713456)
-- [Película promocional de Tripo 3D creada con Claude Opus 5](#tripo-claude-opus-5-5-paper-cut-3d-short)
-- [Juego de karts en 3D en un solo archivo HTML](#gpt-6-astra-2102652927177617564)
-- [Simulación de fluidos euleriana de neón interactiva](#claude-opus-5-5-2102565611473661963)
-- [Página web interactiva de paisaje 3D: valle japonés de cerezos en flor](#claude-opus-5-5-2102565403109085669)
-- [Modelo del accidente del Hundenberg y vídeo realista](#claude-opus-5-5-2102547809140355250)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### Set de LEGO del Ford Model T con todas sus funciones
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="Set de LEGO del Ford Model T con todas sus funciones"></a>
+
+**Prompt**
+
+```text
+Quiero construir un set de LEGO del Ford Model T original.
+
+Quiero que tenga todas sus funciones, que incluya movimiento e interactividad siempre que sea posible y que ofrezca una calidad de la que un maestro constructor de LEGO se sentiría orgulloso.
+
+Quiero que el resultado final incluya un renderizado del set de LEGO, todas las piezas que necesito pedir a LEGO y el manual de instrucciones para montarlo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232297167716457) · [Publicación original](https://x.com/businessbarista/status/2104233375791718456) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### FPS multijugador hiperrealista en un callejón nevado
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="FPS multijugador hiperrealista en un callejón nevado"></a>
+
+**Prompt**
+
+```text
+Crea un FPS multijugador hiperrealista. Ambientado en un callejón urbano nevado, rodeado de edificios de ladrillo. Incluye un fusil de asalto con un retroceso contundente y casquillos que salgan despedidos. Añade enemigos a los que disparar, mecánicas para saltar obstáculos y efectos de daño con sangre en pantalla. Haz que el registro de impactos del tiroteo sea impecable y conviértelo, con ese estilo, en un juego completo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232013578617241) · [Publicación original](https://x.com/zenvnt/status/2104232358811676833) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### Escena 3D de 55 segundos: del centro de datos al átomo
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="Escena 3D de 55 segundos: del centro de datos al átomo"></a>
+
+**Prompt**
+
+```text
+Crea una escena 3D de 55 segundos. La cámara entra en un centro de datos, abre un rack, desmonta una GPU, se acerca al chip, atraviesa los transistores y llega hasta un solo átomo de silicio. Incluye a la derecha una escala métrica en metros. Usa etiquetas en el idioma del cliente. Debe ejecutarse en un navegador, en un solo archivo y sin dependencias.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104223449849761837) · [Publicación original](https://x.com/Cranefomo/status/2104223449849761837) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Promo dinámica de motion graphics de 30 segundos
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Promo dinámica de motion graphics de 30 segundos"></a>
+
+**Prompt**
+
+```text
+crea un video dinámico de motion graphics de 30 segundos que demuestre lo increíble que eres como diseñador de motion graphics para https://t.co/fCRvqmOamH.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104204312624918810) · [Publicación original](https://x.com/iniyanai/status/2104204318085931054) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### CG 3D de estilo anime con tres vehículos que se transforman y se combinan
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="CG 3D de estilo anime con tres vehículos que se transforman y se combinan"></a>
+
+**Prompt**
+
+```text
+¿Sería posible crear también en CG 3D de estilo anime una escena en la que tres vehículos, como en un anime de robots, se transformen y se combinen para convertirse en un robot?
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104193522715029657) · [Publicación original](https://x.com/allforbigfire/status/2104193522715029657) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Animación de interfaz de una esfera de IA para Claude Code — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Animación de interfaz de una esfera de IA para Claude Code — Opus 5.5"></a>
+
+**Prompt**
+
+```text
+Pregúntame por: la tarea que el agente de IA completa para el usuario (por defecto: planificar y reservar un viaje de 3 días a Kioto), la paleta (por defecto: lienzo gris cálido #E6E3DE, interfaz en blanco y negro puros; la esfera es el único elemento con color: azul iridiscente perlado → violeta → melocotón) y una canción libre de regalías de unos 120 BPM (busca tú mismo en Mixkit, mide los BPM con numpy y muéstrame 3 candidatas con enlaces de vista previa antes de descargar la pista completa). Animación conceptual de interfaz para una herramienta de agente de chat de IA, con nivel de Dribbble. Una forma blanca, nunca se corta: cada estado es el mismo elemento, que cambia de tamaño, radio y color mientras su contenido se intercambia con un desenfoque breve. La protagonista es una «esfera de IA» creada con GLSL (una masa fluida, palpitante e iridiscente, como la esfera de voz de ChatGPT / Siri) que vive FUERA de la forma como elemento de continuidad y cambia de función a lo largo de la pieza: protagonista en reposo → reacciona a la voz mientras escucha → se encoge y entra en la barra de entrada como avatar → gira más rápido mientras piensa → avatar en la respuesta → florece al completar la tarea → vuelve al reposo. Un cursor controla cada cambio con clics y arrastres reales. Una sola fuente de interfaz limpia (Geist). Muelles en todas partes, con un pequeño sobreimpulso como máximo. La cámara hace zoom para que cada estado ocupe aproximadamente entre el 60 y el 75 % del encuadre. La esfera pulsa sutilmente en cada beat. El último fotograma es el primero, para crear un bucle. Prohibido: easing rebotado, estallidos de partículas, brillos o degradados en la interfaz (la esfera es contenido, no interfaz), trazos de iconos desparejados, tiempos muertos o cualquier cosa que parezca una plantilla. 120 BPM, 8 compases = 32 beats = 16 s; ocurre algo en cada beat (el beat n está en (n-1)*0,5 s): Compás 1: esfera en reposo, el cursor se acerca | clic en la esfera → la forma se estira hasta convertirse en una píldora «LISTENING», la esfera se desplaza a su izquierda y se balancea siguiendo una envolvente silábica | la transcripción en directo escribe «Plan 3 days in Kyoto» | «…por debajo de 1.500», el valor se actualiza en directo | arrastra más allá de 1.248, el «cheapest plan» Compás 6: control deslizante → gesto negro de deslizar para confirmar «Book trip · $1,248» | agarra el control y arrástralo a la derecha | al superar el final → banda elástica | suelta → se ajusta al final y la flecha se convierte en un indicador de carga Compás 7: → aviso «Trip booked» | aparecen los chips «Flights ✓» y «Ryokan ✓» | la esfera florece (color + escala) | el aviso se contrae hacia la esfera Compás 8: la forma se desvanece y la esfera recupera su tamaño protagonista | se estabiliza | respira al ritmo, el cursor se aleja | vuelve al reposo (bucle) 1. Un único archivo HTML autocontenido, cuadrado de 1440×1440, con las fuentes y los recursos sin audio integrados como URI de datos. Cada estilo se calcula a partir del tiempo dentro de un `seek(t)` puro: sin transiciones CSS, sin temporizadores, sin estado conservado entre fotogramas y nunca crees pistas dentro de seek. 2. Los muelles son respuestas escalonadas en forma cerrada. Un valor cuyo objetivo cambia muchas veces es la suma de un muelle por cada cambio; para crear el bucle, toma el ÚLTIMO objetivo como valor inicial y añade también las colas de los muelles de los dos ciclos anteriores (t + L, t + 2L), de modo que la posición Y la velocidad coincidan en la unión. Relación de amortiguación ≥ 0,72. 3. Las capas de contenido tienen sus propias ventanas de entrada y salida: la salida termina exactamente en el beat, la entrada comienza unos 80 ms después (opacidad + desenfoque de pantalla de unos 12 px + escala de 0,965→1), o el texto se superpone. 4. Los arrastres son manipulación directa: mientras se mantiene pulsado, el valor = inicio + (cursorX − cursorX al pulsar); al superar un límite, aplica rubber(over, R) = R·(1 − e^(−over/R)); al soltar, un muelle libre parte de la posición Y velocidad de liberación hasta el objetivo de ajuste. Los puntos de paso del cursor son [tiempo de salida, x, y] en un muelle; el punto de paso final es igual al primero para que la posición y la velocidad del cursor sean continuas a través del bucle. 5. La esfera: un shader de fragmentos WebGL dibujado en un lienzo OFFSCREEN de 640×640, que después se dibuja sincrónicamente mediante drawImage en un lienzo 2D visible dentro de seek (capturar directamente el lienzo WebGL no es fiable en un entorno sin interfaz). El tiempo debe ser periódico: uniforms (cos, sin)(2π·k·t/L) con k entero (por ejemplo, k=2 y k=5), nunca t sin transformar. El radio de la silueta = 0,74 + amp·noise(direction·1.4 + T), muestreado sobre el vector de dirección unitario (sin unión central); la superficie = ruido 3D de baja frecuencia con deformación de dominio sobre la normal de la esfera → grandes bandas de color suaves; 16 % de blanco perlado, un núcleo interior brillante, un pequeño brillo especular definido (pow 70), un borde fresnel lila pálido; mitad inferior más oscura para dar volumen; sombra elíptica suave bajo la esfera en reposo. Uniformes: amp (en reposo 0,08, + envolvente silábica mientras escucha, + un poco mientras piensa), think (deformación más intensa y rápida), bloom (estallido de color al completar). Mantén ≤5 llamadas a noise por píxel. 6. Audio: analiza la canción con numpy (inicio por flujo espectral, BPM sincronizados por fase, primer beat de cada compás mediante kick + cambio de cromagrama, RMS por compás). Empieza en el primer beat de una frase de 8 compases con toda la energía, para que el bucle de audio termine en el límite de una frase. Las ventanas de análisis grandes estiman los beats unos 15–25 ms antes: vuelve a medir el corte con una ventana de 256 muestras y desplaza el inicio hasta que el residuo mediano sea < 2 ms. Aplica un fundido cruzado de los últimos 60 ms con los 60 ms anteriores al inicio. Sintetiza sonidos de interfaz con numpy (clic, swoosh de envío, agarre/soltado, tic, éxito, campanilla) y coloca cada uno según su PICO MEDIDO en el momento del evento; en los sonidos de varias notas, la primera nota debe ser la más fuerte. 7. Renderiza con Playwright Chromium: 4 subfotogramas por fotograma distribuidos en la mitad de un fotograma (obturador de 180°, centrado en el tiempo del fotograma), con 16 trabajadores en paralelo. Después de cada seek, espera dos requestAnimationFrames antes de la captura de pantalla; NO uses screenshot(animations='disabled'). Como la escena usa WebGL, inicia con --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (la ruta predeterminada SwiftShader-Vulkan pierde el contexto WebGL la mayoría de las veces). Convierte a RGB cualquier captura RGBA. 8. Codifica con ffmpeg: -reinit_filter 0, tmix=frames=4 y después selecciona cada cuarto fotograma, 60 fps, libx264 -crf 10 -x264-params aq-mode=3, AAC a 256k, -t con la duración exacta. Verifica qué subfotogramas promedia realmente tmix en tu versión de ffmpeg antes de elegir el desplazamiento de select. Crea también una versión para compartir con crf 20 y una copia con 3 bucles. 9. Antes del renderizado completo: renderiza un fotograma en cada beat y otro 0,3 s después, compón hojas de contacto y corrige todo lo que esté fuera de la cuadrícula, apretado, recortado, ilegible o sin la esfera. Después, comprueba visualmente fotogramas de transición a resolución completa. 10. Verifica e informa: las capturas en t=0 y t=L son idénticas píxel por píxel; el número de fotogramas = 960 y el vídeo/audio duran exactamente 16,000 s; la diferencia entre fotogramas en la unión es del mismo orden que la de sus vecinos; no hay subfotogramas RGBA; el desfase del beat del audio final es < 10 ms; muestrea los fotogramas en reposo para confirmar que la esfera aparece en todos. - smoothstep(e0, e1, x) con e0 > e1 no está definido en GLSL — SwiftShader devuelve 0 y la esfera desaparece. Escribe siempre 1.0 - smoothstep(lo, hi, x). - Un shader pesado en GL por software activa el watchdog de la GPU (CONTEXT_LOST_WEBGL): mantén el lienzo en 640² y bajo el número de llamadas a noise; busca mensajes de pérdida de contexto en la consola en cada prueba. - No pongas nunca will-change en nada que la cámara escale, o el texto se renderizará borroso. - Los elementos seguidores (la esfera, los avatares) usan un muelle ligeramente más lento que la forma para que nunca queden recortados por su borde. - Orden de las capas: cualquier elemento con una placa de fondo va ANTES que el texto o los iconos colocados sobre ella. - No anules un translate() de centrado con un transform animado; envuélvelo en una capa. - ffmpeg -shortest puede omitir el último fotograma; establece -t explícitamente. - Haz que el último fotograma sea idéntico al primero, incluida la posición y la velocidad del cursor, o el bucle dará un tirón. Pregúntame por los datos de entrada, crea primero un prototipo del shader de la esfera por separado (renderiza t=0, t=4, t=8 y demuestra que t=0 == t=16 píxel por píxel, sin pérdida de contexto durante 8 cargas de página nuevas), después muéstrame la lista de estados en la cuadrícula de beats de 8 compases como tabla y espera mi OK antes de escribir la escena completa.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104162483888062945) · [Publicación original](https://x.com/listudio/status/2104162483888062945) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104077535315144878"></a>
+
+### Demostración interactiva en 3D del recorrido de la luz por un objetivo de cámara
+
+[noah helms](https://x.com/haonv2) · 2026-09-27 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104077535315144878"><img src="../assets/previews/c25990cf0e605481e3e3cb5e2883ecc6940658a121f64d661faa6d1dfc78f0c3.webp" width="840" loading="lazy" alt="Demostración interactiva en 3D del recorrido de la luz por un objetivo de cámara"></a>
+
+**Prompt**
+
+```text
+Quiero que crees un render 3D interactivo que muestre cómo viaja la luz a través del objetivo de una cámara hasta llegar al sensor. Haz que la demostración utilice un hermoso paisaje montañoso con cascadas y una exuberante hierba verde.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104077535315144878) · [Publicación original](https://x.com/haonv2/status/2104077535315144878) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103966922127630820"></a>
+
+### Captura del propulsor Super Heavy en Blender
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103966922127630820"><img src="../assets/previews/b907f0a1db0e0cf1ef3f183393df49f4ab38dd9a0bdda15bc078b816b1bf0130.webp" width="840" loading="lazy" alt="Captura del propulsor Super Heavy en Blender"></a>
+
+**Prompt**
+
+```text
+construye en Blender un sistema de captura del propulsor Super Heavy usando únicamente Python. no descargues modelos, no uses texturas ni HDRI; genera todo mediante código
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build a Super Heavy booster catch in Blender using only Python. no downloaded models, no textures, no HDRIs, everything generated by code
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103966922127630820) · [Publicación original](https://x.com/Vortlyn/status/2103966922127630820) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103860776419111285"></a>
 
 ### Entorno de aldea forestal junto a un lago
@@ -2399,610 +2623,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102740078347087940) · [Publicación original](https://x.com/builderhelmai/status/2102740078347087940) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### Animación de fútbol con estilo voxel
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Animación de fútbol con estilo voxel"></a>
-
-**Prompt**
-
-```text
-Crea un único archivo HTML con Three.js (CDN) para una animación de fútbol sencilla con estilo voxel. Un jugador de bloques regatea a 2 defensas y marca un gol espectacular con partículas de celebración. Estética de estadio colorida. Muestra SOLO el código HTML completo.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102739444256383089) · [Publicación original](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### Sitio web interactivo sobre planetas imaginarios
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Sitio web interactivo sobre planetas imaginarios"></a>
-
-**Prompt**
-
-```text
-Crea un sitio web interactivo sobre planetas imaginarios.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102729710174196022) · [Publicación original](https://x.com/Kappaemme1926/status/2102729710174196022) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102672926285713456"></a>
-
-### Animación de un castillo medieval en el navegador
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="Animación de un castillo medieval en el navegador"></a>
-
-**Prompt**
-
-```text
-Crea una animación 3D que se ejecute por completo en el navegador. La animación debe mostrar un castillo medieval situado en lo alto de una colina ubicada en un extenso bosque. No añadas controles de teclado; haz que la cámara gire alrededor del castillo para que podamos verlo desde todos los ángulos. En lo alto de la torre del castillo debe haber una bandera que ondee con el viento.
-
-El resultado debe contener un archivo index.html que, al ejecutarse, muestre el castillo e inicie la animación en bucle.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
-
-The output should contain index.html file that when executed shows the castle and starts the looping animation.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102672926285713456) · [Publicación original](https://juhapalomaki.fi/blog/castle-model-comparison/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
-
-### Película promocional de Tripo 3D creada con Claude Opus 5
-
-[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Película promocional de Tripo 3D creada con Claude Opus 5"></a>
-
-**Prompt**
-
-```text
-1. Objetivo del proyecto
-Crea un corto animado interactivo de aproximadamente 44 segundos titulado “Claude × Tripo”. Una pequeña chispa naranja de Claude aterriza sobre un escritorio de papel hecho a mano, dibuja o escribe cinco ideas divertidas en un portátil con la marca Tripo y conoce las creaciones cuando cobran vida. El visitante puede ver, pausar, desplazar la reproducción, repetir, cambiar la relación de aspecto, activar el sonido o grabar la animación. Es un corto coreografiado, sin puntuación, combate ni condición de victoria. Reproduce el vídeo proporcionado y la composición de la escena.
-
-2. Estilo visual
-Usa un diorama de papel recortado por capas, con bordes rasgados de color crema, grano de gouache, garabatos, detalles de papel cuadriculado y un cielo azul medianoche. Coloca una luna creciente, estrellas amarillas cálidas, colinas de papel azul y un pequeño pueblo detrás de un escritorio de papel kraft. Sitúa el portátil abierto a la izquierda, a Claude cerca del centro y una pequeña plataforma de exposición circular a la derecha. Mantén acentos naranja cálido, lila, menta, amarillo mantequilla y crema. La cámara en perspectiva se mueve suavemente entre planos generales y primeros planos; las piezas planas separadas por profundidad crean paralaje. Usa iluminación de dibujos animados escalonada, luz de contorno fría, contornos discretos, sombras suaves y una pasada final de grano de papel y viñeta. Termina con un destello blanco de cámara y una polaroid del elenco completo, ligeramente inclinada y pegada con cinta. Igualá el encuadre de referencia al inicio, en cada aparición de una creación y en el desenlace grupal.
-
-3. Escena e historia
-Controla cada pose y movimiento de cámara desde una única función determinista update(t), de modo que saltar directamente a cualquier marca de tiempo produzca el fotograma correcto sin reproducir los fotogramas anteriores. Nombra los momentos clave de la historia en un único cronograma compartido. Claude llega alrededor de los 0,55 segundos, aterriza alrededor de los 1,7 segundos y activa el portátil a los 2,92 segundos. Muestra el gato-pan alrededor de los 7,2 segundos, la casita-caracol alrededor de los 13,85 segundos, el cohete-tostadora alrededor de los 19,8 segundos, el pulpo-tetera alrededor de los 26,1 segundos y la ballena celeste alrededor de los 33,3 segundos. El cohete despega alrededor de los 21,25 segundos y regresa alrededor de los 24,05 segundos. La ballena nada sobre el elenco entre los 35 y 37 segundos. El destello de cámara ocurre a los 40,5 segundos; termina a los 44,2 segundos. Fusiona los planos de cámara y usa anticipación suavizada, sobreimpulso elástico, squash/stretch, pequeños saltos y bamboleos que se amortigüen. Evita reinicios bruscos al pasar de una escena a otra.
-
-4. Lista de recursos
-- claude-spark: una chispa naranja plana de doce rayos, con borde crema rasgado y un rostro animado amistoso. Parpadea, mira la acción actual, sonríe, se sonroja y usa ojos alegres, mareados y brillantes. Dos rayos se estiran para formar brazos que alcanzan teclas, dibujos y otros personajes. Conserva su rostro y el comportamiento de sus brazos como un shader procedural; una exportación estática no captura la identidad ni la actuación de este personaje.
-- cat: un gato con forma de hogaza de pan dorada, cuerpo redondeado, marcas de corteza horneada, orejas pequeñas, patas, cola, ojos brillantes, mejillas rosas y bigotes. Aparece en la plataforma de exposición, gira para que se lo pueda inspeccionar, recibe una caricia y acaba instalado en la parte delantera del escritorio.
-- snail: un caracol verde pálido que lleva una casita de color crema con tejado coral, chimenea, ventanas luminosas y una diminuta jardinera. Mantén sus tentáculos oculares diferenciados, la casa erguida y el rostro visible durante la elevación y el desplazamiento.
-- toaster: una tostadora menta con detalles y palanca coral, remates redondeados de color crema, pequeñas aletas de cohete y una tobera inferior. Despega con una llama naranja, estelas de humo y un sonido de cámara que pasa, y luego regresa. La llama y el humo deben seguir siendo efectos separados.
-- octopus: una criatura con forma de tetera rosa/lila, seis tentáculos flexibles, pico vertedor y asa, rostro alegre, monóculo dorado y pajarita morada. Anima los tentáculos, un gesto de inclinación y un pequeño paseo. Mantén las poses de los tentáculos diferenciadas del cuerpo rígido de la tetera.
-- whale: una ballena celeste azul con vientre crema, aletas y rostro expresivo, que lleva un pueblo diminuto cubierto de césped, casitas coloridas, árboles y un faro a rayas. Es la creación más grande y debe seguir destacando en el desenlace. El haz del faro es un efecto transparente independiente.
-- environment: escritorio, portátil, lámpara, portalápices, planta en maceta, plataforma de exposición, capas de cielo y pueblo de papel, notas y lápiz. Reutiliza estos elementos durante todo el corto. Los fondos de papel, la interfaz del portátil, los garabatos, las partículas, el humo, los haces de luz y el posprocesado deben seguir siendo procedurales.
-Mantén identificadores de recursos estables y transformaciones separadas para la colocación en el mundo, el giro y squash, y las piezas articuladas. Conserva las proporciones y los colores del proyecto original. Las versiones GLB portátiles pueden usar materiales estándar y una pose estática; no afirmes que incluyen el shader de aparición personalizado, la actuación ni la animación completa.
-
-5. Interacción y respuesta
-Incluye reproducir/pausar, repetir, un control deslizante de búsqueda con el tiempo transcurrido y el total, opciones de relación de aspecto 1:1 / 16:9 / 9:16, un interruptor de sonido, una vista limpia y grabación. La barra espaciadora alterna la reproducción; R repite; H o C alternan la vista limpia; Escape restaura los controles; M activa o desactiva el sonido; las flechas izquierda/derecha avanzan o retroceden un segundo, y Shift reduce el paso a 0,1 segundos. Haz que los controles se puedan usar en una pantalla táctil estrecha. El sonido debe comenzar solo después de un gesto del usuario; ofrece “Reproducir con sonido” cuando el audio de reproducción automática esté bloqueado. Al desplazar la reproducción o repetir, reinicia el sonido en el momento correcto. Al finalizar, detén el corto y ofrece repetir.
-El portátil muestra el dibujo o la idea escrita actual, una barra de progreso animada y una marca de finalización. La acción Generar en pantalla forma parte de la animación creada: el corto existente usa geometría procedural y no llama a una API de generación de modelos. Muestra cada creación desde abajo hacia arriba, primero como arcilla lila y después coloreándola con una banda de escaneo cálida y luminosa. Coordina la mirada y los brazos de Claude con estos eventos.
-
-6. Implementación técnica y audio
-Usa módulos JavaScript ES y Three.js r170 con WebGL, shaders personalizados, CanvasTexture y la API Web Audio. Incluye la aplicación y las fuentes como recursos estáticos del mismo origen mediante una compilación reproducible; no uses una CDN en tiempo de ejecución ni credenciales de servicios privados. Usa Fredoka local para los controles y Caveat para el texto manuscrito. Adapta la distancia de la cámara y el tamaño de renderizado a las tres relaciones de aspecto, limita la densidad excesiva de píxeles y mantén las exportaciones fuera de las solicitudes de red iniciales de la página.
-Sintetiza la música y los efectos en Web Audio. Usa una voz FM de caja de música, un bajo de triángulo filtrado punteado, marimba, pad suave desafinado, bombo, palmada/shaker, reverberación generada y compresión final. Alinea el compás cero con la activación del portátil a los 2,92 segundos y el compás dieciséis con el destello a los 40,5 segundos, para obtener aproximadamente 102 BPM; usa el ciclo F–Dm–B-flat–C. Añade efectos de lápiz, teclado, whoosh, pop, boing, gato, ballena, cohete y obturador en los momentos clave nombrados. Desplaza y moldea el sonido del motor del cohete según su movimiento relativo a la cámara. Renderiza la banda sonora en pequeños fragmentos sin conexión y ensambla un único búfer; el reloj de audio activo controla la imagen, con una alternativa de respaldo si se detiene. La grabación debe combinar el vídeo del lienzo con la banda sonora y exportar un formato compatible con el navegador. No dependas del servidor local opcional de captura en Python del proyecto original para la reproducción normal ni para la grabación en el navegador.
-
-7. Criterios de finalización
-Entrega el código fuente editable, las dependencias fijadas, una compilación estática, instrucciones de inicio y el corto listo para usar. Verifica el desplazamiento directo cerca de los segundos 8, 15, 22, 28, 36 y 41; repetir y pausar deben conservar el estado determinista. Compara la composición del elenco con el vídeo de referencia. Confirma la activación del audio, el silencio, la sincronización al repetir y una descarga de grabación real con ambas pistas. Comprueba el encuadre cuadrado, horizontal y vertical, además de los controles en escritorio y pantallas estrechas. Valida la página alojada dentro del iframe aislado del sitio principal, sin fuentes faltantes, scripts bloqueados ni errores de recursos externos. Comprueba por separado que los GLB reutilizables tengan la geometría, orientación, materiales y caja delimitadora correctos; sus portadas deben mostrar los archivos reales. Documenta cualquier diferencia entre los recursos portátiles y la versión con shader animado.
-
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102652927177617564"></a>
-
-### Juego de karts en 3D en un solo archivo HTML
-
-[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="Juego de karts en 3D en un solo archivo HTML"></a>
-
-**Prompt**
-
-```text
-crea un juego de carreras de karts en 3D en un solo archivo HTML.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build a 3D kart racer in a single HTML file.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102652927177617564) · [Publicación original](https://x.com/realanshull/status/2102652927177617564) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### Simulación de fluidos euleriana de neón interactiva
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Simulación de fluidos euleriana de neón interactiva"></a>
-
-**Prompt**
-
-```text
-Escribe un documento HTML completo en un solo archivo que contenga una simulación de fluidos euleriana de neón interactiva, acelerada por GPU y de alto rendimiento.
-
-Requisitos técnicos y estéticos estrictos:
-
-1. Arquitectura y rendimiento:
-   - Un solo archivo: todo el HTML, CSS y JavaScript/los sombreadores GLSL deben estar integrados en línea.
-   - Cero dependencias externas: WebGL 1.0 o 2.0 puro (sin Three.js, sin Pixi ni bibliotecas externas).
-   - Dinámica de fluidos calculada en la GPU: la simulación debe ejecutarse íntegramente mediante objetos Framebuffer (FBO) ping-pong, usando sombreadores de fragmentos personalizados para:
-     a) Advección (velocidad y tinte)
-     b) Cálculo de la divergencia
-     c) Solucionador de Poisson para la presión (iteración de Jacobi, 20-30 iteraciones por fotograma)
-     d) Resta del gradiente/proyección de la velocidad
-     e) Confinamiento de la vorticidad (añade remolinos turbulentos y evita que el fluido se convierta en una masa apagada y borrosa).
-
-2. Fidelidad visual (aspecto de «humo de neón»):
-   - Fondo de vacío completamente negro (`#050508`).
-   - Mezcla aditiva/de alto rango dinámico para la inyección del tinte.
-   - Paleta dinámica: cada movimiento rápido del cursor o arrastre táctil debe inyectar tinte de neón de alta luminosidad, con una transición suave entre tonos ciberintensos (cian eléctrico `#00F0FF`, magenta intenso `#FF007F`, ultravioleta profundo y dorado radiante).
-   - Mejoras del sombreador de pantalla: incluye una pasada de posprocesado directamente en el sombreador de renderizado final, que aplique un bloom/resplandor sutil, mapeo de tonos y aberración cromática alrededor de los bordes arremolinados del fluido.
-
-3. Interacción:
-   - Ratón y táctil: el movimiento rápido del cursor o el arrastre deben inyectar una velocidad proporcional a la velocidad del ratón, junto con un tinte luminoso y denso.
-   - Movimiento ambiental pasivo: cuando esté inactivo, genera ruido curl procedural sutil o vórtices de deriva suaves para que el lienzo nunca quede completamente estático.
-   - Controles: un HUD de glassmorphism elegante y ultraminimalista, ubicado en una esquina (con ocultación automática tras un periodo de inactividad):
-     * Control deslizante de viscosidad
-     * Control deslizante de disipación/ persistencia del tinte
-     * Control deslizante del radio de la salpicadura
-     * Botón «Limpiar lienzo»
-     * Botón de alternancia para cambiar entre temas de color (Cyberpunk, Inferno térmico, Bioluminiscente profundo).
-
-4. Acabado de producción:
-   - Gestiona automáticamente las pantallas de alta densidad de píxeles y los eventos de `resize` sin estirar ni borrar las texturas FBO.
-   - Comprobación de compatibilidad con texturas de coma flotante como alternativa segura (`OES_texture_float` / `OES_texture_half_float`).
-   - Código limpio, sin errores y completamente implementado, sin marcadores de posición ni comentarios truncados.
-
-Devuelve únicamente el archivo HTML completamente generado, listo para ejecutarse directamente en Chrome/Safari/Firefox.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565611473661963) · [Publicación original](https://x.com/theailoser/status/2102565612874596411) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### Página web interactiva de paisaje 3D: valle japonés de cerezos en flor
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Página web interactiva de paisaje 3D: valle japonés de cerezos en flor"></a>
-
-**Prompt**
-
-```text
-Crea directamente una página web de paisaje 3D de alta calidad que permita interactuar en tiempo real desde el navegador. 
-
-Tema: valle japonés de cerezos en flor. 
-Utiliza HTML, CSS y JavaScript. No generes imágenes ni entregues únicamente una propuesta de diseño; 
-no simules el 3D con una sola imagen de fondo y un efecto de paralaje. Necesito un producto final que funcione y pueda recorrerse de verdad. 
-
-【1. Enfoque de la obra】
-
-Debe ser un paisaje de valle completo y continuo, con profundidad y capas claramente diferenciadas, 
-no una decoración aislada, una isla flotante, una maqueta sobre una base ni una simple demostración técnica. 
-
-El estilo debe ser voxel art moderno y detallado: 
-conserva el lenguaje formal de la geometría cúbica, pero la imagen debe tener alta resolución, antialiasing y una iluminación y unas sombras refinadas. 
-No uses pixelado retro de baja resolución, no apiles bloques grandes y toscos ni apliques un filtro de píxeles a la imagen. 
-
-La calidad visual es prioritaria. Es preferible ofrecer algunas funciones menos que sacrificar la composición, los materiales y la iluminación. 
-
-【2. Uso de las imágenes de referencia】
-
-Si se adjuntan imágenes de referencia, analiza primero sus capas compositivas, escala, iluminación y relaciones de color. 
-Toma únicamente la atmósfera y el lenguaje visual como referencia, y rediseña la escena; 
-no copies la posición de los edificios, árboles, montañas y caminos ni hagas una réplica 1:1. 
-
-La imagen de referencia no es un recurso de fondo para la página web. La escena debe estar compuesta por geometría 3D real. 
-
-【3. Composición de la escena】
-
-Al abrirse, debe mostrar de inmediato una imagen completa y atractiva, 
-sin obligar al usuario a girar primero la cámara para encontrar un ángulo interesante. 
-
-Utiliza una cámara en perspectiva, no una cámara isométrica cenital propia de una maqueta. 
-La imagen debe tener un primer plano, un plano medio y un fondo claramente definidos: 
-
-Primer plano: 
-un antiguo cerezo de fuerte presencia, acompañado de rocas, hierbas, un farol de piedra y algunas flores caídas, 
-para crear un enmarcado natural en el borde de la imagen, sin ocultar el río, el puente ni los edificios principales. 
-
-Plano medio: 
-un río serpenteante que guíe la mirada hacia el interior de la escena, con un puente de madera roja que lo cruce; 
-la aldea, la casa de té, el santuario y los senderos deben distribuirse siguiendo el terreno, con conexiones de paso reales entre los edificios. 
-El suelo debe presentar desniveles, orillas y transiciones naturales, no modelos colocados de manera uniforme sobre una superficie plana. 
-
-Fondo: 
-una pagoda de varios niveles en la ladera, bosques y crestas montañosas a distintas distancias, además de montañas nevadas en la lejanía. 
-Representa la distancia mediante variaciones de escala, oclusión, cambios de temperatura de color y perspectiva atmosférica, 
-en lugar de limitarte a reducir el tamaño de los objetos lejanos. 
-
-No distribuyas todos los elementos de manera uniforme por toda la escena. Debe haber jerarquía, variación de densidad, espacios vacíos y un foco visual claro. 
-
-【4. Modelado y calidad de imagen】
-
-Cerezos: 
-los troncos deben tener cambios de dirección, bifurcaciones y raíces; las copas deben estar formadas por grupos irregulares de flores, 
-con huecos, variaciones de grosor y ramas visibles. No los conviertas en unas cuantas esferas o masas cúbicas regulares. 
-
-Edificios: 
-los tejados deben incluir hileras superpuestas de tejas, aleros, vigas, pilares y celosías; 
-los distintos edificios deben variar en función, volumen y altura. No repitas la misma casa por todo el valle. 
-
-Terreno: 
-en las orillas debe haber piedras húmedas, hierba y transiciones de vegetación. 
-Evita escalones demasiado regulares, franjas repetitivas, patrones de tablero de ajedrez y una cuadrícula procedural evidente. 
-
-Agua: 
-debe reflejar el entorno, con ondulaciones moderadas, variaciones de profundidad y una transición natural en las orillas. 
-Utiliza reflejos de la escena real siempre que sea posible; si es necesario reducir la calidad para mejorar el rendimiento, conserva una apariencia visual creíble. 
-No sustituyas el agua por ruido parpadeante, distorsiones intensas ni una superficie azul uniforme. 
-
-Detalles: 
-puedes incluir algunos peces koi, flores caídas, luciérnagas, una cascada y aves volando a lo lejos, 
-pero todos deben contribuir a la atmósfera sin volver la imagen caótica. 
-No amontones detalles solo para presumir de la cantidad de modelos. 
-
-【5. Color y atmósfera】
-
-La atmósfera predeterminada debe ser la hora azul: 
-un valle y unas montañas lejanas de tonos fríos, cerezos de un rosa suave y la luz cálida, pero sin sobreexposición, de los faroles y las ventanas. 
-Concentra la luz cálida en las zonas donde haya actividad humana; no tiñas todo el entorno de naranja. 
-
-Necesito sombras suaves, oclusión ambiental en las zonas de contacto, una exposición adecuada, 
-un bloom moderado, antialiasing y una niebla sutil con profundidad atmosférica. 
-
-Evita una imagen blanquecina, gris y apagada, la sobresaturación, una niebla densa que cubra toda la pantalla, luces sobreexpuestas y un aliasing evidente. 
-La geometría cúbica puede ser nítida, pero el renderizado no debe verse tosco. 
-
-Ofrece también las atmósferas «amanecer» y «lluvia»; 
-al cambiar entre ellas deben modificarse simultáneamente el cielo, la luz ambiental, la niebla y los efectos locales, 
-no limitarse a cambiar el color del fondo. 
-
-【6. Interacción e interfaz】
-
-Incluye cuatro cámaras diseñadas específicamente: 
-panorámica del valle, vista baja junto al río, sendero del templo y vista elevada desde la ladera. 
-El cambio debe ser fluido y cada cámara debe aportar un valor compositivo propio. 
-
-Interacción básica: 
-arrastrar con el ratón para observar y usar la rueda para hacer zoom o avanzar; en pantallas táctiles, admite arrastre y zoom con dos dedos. 
-Incluye funciones para restablecer la vista, ocultar la interfaz y guardar la imagen actual. 
-
-Mejoras opcionales: 
-exploración libre, recorrido lento de la cámara y sonido ambiental. 
-El sonido ambiental debe estar desactivado por defecto y reproducirse solo después de que el usuario haga clic. 
-Las funciones adicionales no deben afectar a la calidad de la imagen predeterminada. 
-
-La interfaz debe ser discreta y estar bien diseñada, con el paisaje como protagonista. 
-Coloca el título y la barra de controles en los bordes, sin tapar el foco visual. 
-Tanto en escritorio como en móvil, evita que los botones se salgan de la pantalla, que el texto se superponga o que haya elementos imposibles de usar. 
-
-【7. Ingeniería y rendimiento】
-
-Puedes utilizar Three.js / WebGL y dependencias CDN con versiones fijas y compatibles entre sí. 
-Da prioridad a capacidades de renderizado consolidadas; no reescribas un motor completo solo para lograr «cero dependencias». 
-
-Organiza, en la medida de lo posible, el HTML, CSS y JavaScript escritos específicamente para el proyecto en un único archivo HTML. 
-Genera el paisaje mediante geometría y materiales procedurales, sin depender de imágenes externas ni recursos de modelos 3D. 
-
-Para los objetos repetidos, utiliza métodos adecuados de renderizado por lotes o instanciado; 
-controla de forma razonable la teselación, las sombras, los reflejos y la resolución de renderizado. 
-Ofrece un modo de alta calidad y otro ligero; en móviles, utiliza por defecto una configuración más liviana. 
-No aumentes indefinidamente la cantidad de vóxeles para obtener más detalle. 
-
-Añade un indicador de carga, un aviso cuando WebGL no sea compatible y la gestión de errores necesaria. 
-No reproduzcas sonido automáticamente si el usuario no lo ha activado; respeta la preferencia del sistema para reducir el movimiento. 
-
-【8. Revisión antes de la entrega】
-
-No entregues el proyecto inmediatamente después de terminar el código. 
-
-Si el entorno permite ejecutar el proyecto en un navegador y hacer capturas de pantalla, abre primero la página de forma real, 
-comprueba la cámara predeterminada, las cuatro vistas, los cambios de atmósfera y la distribución en escritorio y móvil, 
-y después corrige, a partir de las capturas, los problemas evidentes de composición, exposición, oclusión y renderizado. 
-
-Comprueba especialmente: 
-si hay una pantalla en blanco, fallos de carga o errores en la consola; 
-si aparecen intersecciones de geometría, parpadeos, bandas en las sombras, sobreexposición o anomalías en el agua; 
-si la imagen predeterminada parece realmente un paisaje completo y no una maqueta pequeña; 
-y si los botones funcionan de verdad y no se salen de la pantalla en dispositivos móviles. 
-
-Puedes utilizar capturas de pantalla del navegador para la revisión, pero no llames a herramientas de generación de imágenes. 
-Describe honestamente las pruebas que no se hayan completado; no afirmes que has verificado algo que no hayas comprobado. 
-
-Entrega final: 
-1. Un archivo HTML que exista y pueda abrirse, o una vista previa interactiva compatible con el entorno actual. 
-2. Si es posible hacer capturas, adjunta una captura real del renderizado en el navegador. 
-3. Explica brevemente los controles y las condiciones de ejecución necesarias. 
-
-Completa directamente la creación; toma por tu cuenta decisiones de diseño coherentes para los detalles no esenciales, 
-y no me devuelvas repetidamente problemas de implementación que puedas resolver por tu cuenta.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565403109085669) · [Publicación original](https://x.com/dotey/status/2102565403109085669) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Modelo del accidente del Hundenberg y vídeo realista
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Modelo del accidente del Hundenberg y vídeo realista"></a>
-
-**Prompt**
-
-```text
-Hazme un modelo del Hundenberg en Blender y crea un vídeo realista del accidente.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102547809140355250) · [Publicación original](https://x.com/aimanhasnoname/status/2102547809140355250) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

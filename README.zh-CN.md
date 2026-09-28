@@ -29,7 +29,7 @@
 
 汇集 Astra、Claude、Kimi 等模型的 3D 创作案例，覆盖游戏、场景、模型资产、动画与互动体验。 每条案例保留作者与来源；先看效果，再复制提示词，改成自己的作品。
 
-**452 条案例 · 6 个模型 · 14 种语言 · 17 条附源码**
+**460 条案例 · 6 个模型 · 14 种语言 · 17 条附源码**
 
 [开始使用](#start-here) · [按用途浏览](#browse) · [最新案例](#latest) · [完整目录](docs/catalog.zh.md) · [项目源码](docs/with-code.md)
 
@@ -47,20 +47,20 @@
 
 | 按用途浏览 | 案例 |
 | :--- | ---: |
-| [游戏](docs/catalog.zh.md#category-games) | 122 |
-| [场景](docs/catalog.zh.md#category-3d-scenes) | 99 |
-| [资产](docs/catalog.zh.md#category-3d-assets) | 54 |
-| [互动](docs/catalog.zh.md#category-interactive-3d) | 90 |
-| [动画](docs/catalog.zh.md#category-animation-simulation) | 84 |
+| [游戏](docs/catalog.zh.md#category-games) | 123 |
+| [场景](docs/catalog.zh.md#category-3d-scenes) | 100 |
+| [资产](docs/catalog.zh.md#category-3d-assets) | 56 |
+| [互动](docs/catalog.zh.md#category-interactive-3d) | 91 |
+| [动画](docs/catalog.zh.md#category-animation-simulation) | 87 |
 | [其他](docs/catalog.zh.md#category-other) | 3 |
 
 ### 按模型浏览
 
 | 按模型浏览 | 案例 |
 | :--- | ---: |
-| [GPT-6 Astra](docs/catalog.zh.md#model-gpt-6-astra) | 293 |
+| [GPT-6 Astra](docs/catalog.zh.md#model-gpt-6-astra) | 295 |
 | [Claude Fable 5.1](docs/catalog.zh.md#model-claude-fable-5-1) | 79 |
-| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 36 |
+| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 42 |
 | [Kimi K3](docs/catalog.zh.md#model-kimi-k3) | 20 |
 | [Claude Fable 5](docs/catalog.zh.md#model-claude-fable-5) | 18 |
 | [Claude Opus 5](docs/catalog.zh.md#model-claude-opus-5) | 13 |
@@ -69,7 +69,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="assets/featured/wright-flyer-through-a-japanese-forest-2096467585785286808.webp" width="420" alt="莱特飞行器穿越日本森林"></a><br><strong><a href="docs/catalog.zh.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808">莱特飞行器穿越日本森林</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.zh.4.md#wright-flyer-through-a-japanese-forest-2096467585785286808">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/wright-flyer-through-a-japanese-forest-2096467585785286808"><img src="assets/featured/wright-flyer-through-a-japanese-forest-2096467585785286808.webp" width="420" alt="莱特飞行器穿越日本森林"></a><br><strong><a href="docs/catalog.zh.5.md#wright-flyer-through-a-japanese-forest-2096467585785286808">莱特飞行器穿越日本森林</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.zh.5.md#wright-flyer-through-a-japanese-forest-2096467585785286808">提示词 →</a></td>
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="assets/featured/jelly-jungle-3d-browser-game-2081024333120733188.webp" width="420" alt="果冻丛林：3D 平台跳跃游戏"></a><br><strong><a href="docs/catalog.zh.9.md#jelly-jungle-3d-browser-game-2081024333120733188">果冻丛林：3D 平台跳跃游戏</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.zh.9.md#jelly-jungle-3d-browser-game-2081024333120733188">提示词 →</a></td>
 </tr>
 <tr>
@@ -82,7 +82,275 @@
 
 ## 最新案例
 
-[完整目录 (452) →](docs/catalog.zh.md)
+[完整目录 (460) →](docs/catalog.zh.md)
+
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### 功能齐全的 LEGO Ford Model T 套装
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="功能齐全的 LEGO Ford Model T 套装"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+我想制作一套最初的 Ford Model T LEGO 模型。
+
+我希望它功能齐全，在可能的情况下加入运动和互动机制，并达到足以让 LEGO 大师级拼搭师引以为傲的品质。
+
+我希望最终输出包括这套 LEGO 模型的渲染图、需要从 LEGO 订购的全部零件，以及组装说明书。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104232297167716457) · [查看原帖](https://x.com/businessbarista/status/2104233375791718456) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### 雪地小巷中的超写实多人第一人称射击游戏
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="雪地小巷中的超写实多人第一人称射击游戏"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+为我制作一款超写实多人第一人称射击游戏。场景设定在一条铺满积雪、两侧是砖砌建筑的城市小巷中。加入一把具有干脆利落后坐力反馈、会抛出飞舞弹壳的突击步枪。添加可供射击的敌人、翻越机制，以及带血的屏幕受伤效果。让枪战拥有无可挑剔的命中判定，并自由发挥，将其打磨成一款完整游戏。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104232013578617241) · [查看原帖](https://x.com/zenvnt/status/2104232358811676833) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### 55 秒数据中心到原子的 3D 场景
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="55 秒数据中心到原子的 3D 场景"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+为我制作一个 55 秒的 3D 场景。镜头飞入数据中心，打开一个机架，拆解一块 GPU，推进到芯片内部，穿过晶体管，最终落在一个硅原子上。右侧显示以米为单位的尺度标尺。标签使用客户的语言。可在浏览器中运行，使用单个文件，无需依赖。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104223449849761837) · [查看原帖](https://x.com/Cranefomo/status/2104223449849761837) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### 动感十足的 30 秒 Kiiwi 动态设计宣传片
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="动感十足的 30 秒 Kiiwi 动态设计宣传片"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+制作一支动感十足的 30 秒动态设计视频，展现你作为一名出色动态设计师的非凡能力，用于 https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104204312624918810) · [查看原帖](https://x.com/iniyanai/status/2104204318085931054) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### 三台载具变形合体的动画风格 3D CG
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="三台载具变形合体的动画风格 3D CG"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+请问能不能用动画风格 3D CG 制作这样一个场景：像机器人动画一样，三台载具变形合体成为机器人？
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104193522715029657) · [查看原帖](https://x.com/allforbigfire/status/2104193522715029657) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Claude Code 的 AI 球体 UI 动效 — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Claude Code 的 AI 球体 UI 动效 — Opus 5.5"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+向我询问：AI 代理为用户完成的任务（默认：规划并预订一次 3 天京都之旅）、配色（默认：暖灰色画布 #E6E3DE，纯黑/白 UI，球体是唯一的彩色元素——珍珠虹彩蓝 → 紫罗兰 → 桃色），以及一首约 120 BPM 的免版税歌曲（自行搜索 Mixkit，使用 numpy 测量 BPM，下载完整音轨前先向我展示 3 个候选及预览链接）。制作 Dribbble 级别的 AI 聊天代理工具 UI 概念动效。只有一个白色形状，绝不裁切：每个状态都是同一元素通过改变尺寸、圆角和颜色进行形变，内容切换时加入短暂模糊。核心是 GLSL“AI 球体”（流动、呼吸般的虹彩 blob——类似 ChatGPT / Siri 的语音球体），位于形状之外，作为贯穿始终的连续元素，并在影片中改变角色：待机主视觉 → 监听时对语音做出反应 → 缩小为输入栏中的头像 → 思考时加速旋转 → 显示答案时作为头像 → 任务完成时绽放 → 回到待机。每次变化都由光标通过真实点击和拖拽驱动。只使用一种简洁的 UI 字体（Geist）。全程使用弹簧动画，最多只有极轻微的过冲。镜头缩放，使每个状态约占画面的 60–75%。球体在每个节拍上都轻微脉动。最后一帧与第一帧相同，因此可以循环播放。禁止：弹跳式缓动、粒子爆发、UI 外框上的发光或渐变（球体是内容，不是 UI 外框）、不一致的图标线宽、无动作停顿，以及任何看起来像模板的效果。
+120 BPM，8 小节 = 32 拍 = 16 秒，每一拍都要发生变化（第 n 拍位于 (n-1)*0.5s）：第 1 小节：球体待机，光标靠近 | 点击球体 → 形状拉伸为“LISTENING”胶囊，球体移动到其左侧，并随音节包络抖动 | 实时转录输入“Plan 3 days in Kyoto” | 输入“……under 1,500”，数值实时滚动 | 拖动超过 1,248 的“最便宜方案”滑块。第 6 小节：滑块 → 黑色滑动确认条“Book trip · $1,248” | 抓住旋钮向右拖动 | 超过终点 → 橡皮筋效果 | 松开 → 弹簧吸附到终点，箭头变为加载旋转图标。第 7 小节：→ 提示条“Trip booked” | 芯片“Flights ✓”“Ryokan ✓”弹出 | 球体绽放（颜色 + 缩放）| 提示条向球体方向收拢。第 8 小节：形状淡出，球体恢复为主视觉尺寸 | 稳定下来 | 随节拍呼吸，光标漂出 | 回到待机（循环）。
+1. 使用一个自包含的 HTML 文件，尺寸为 1440x1440 方形；字体和不含音频的资源以内联 data URI 形式写入。所有样式都必须在纯 `seek(t)` 内根据时间计算：不得使用 CSS transition、计时器，也不得在帧之间保留状态；不得在 seek 内创建轨道。
+2. 弹簧使用闭式阶跃响应。目标值多次变化的数值，等于每次变化对应一个弹簧的总和；要实现循环，将最后一个目标值作为起始值，并加上前两个循环的弹簧尾部（t + L、t + 2L），确保接缝处的位置和速度都匹配。阻尼比 ≥ 0.72。
+3. 内容图层拥有独立的进入/退出时间窗：退出恰好落在节拍点，进入约晚 80ms 开始（不透明度 + 约 12px 的屏幕模糊 + 0.965→1 缩放），否则就让文本重叠。
+4. 拖拽采用直接操控：按住期间，数值 = 起始值 +（cursorX − 按下时的 cursorX）；超过限制时应用 rubber(over, R) = R·(1 − e^(−over/R))；松开后，从松开位置和速度开始使用自由弹簧，运动至吸附目标。光标路径点格式为 [departure time, x, y]，并使用弹簧连接；最后一个路径点必须等于第一个，使循环前后的光标位置和速度连续。
+5. 球体：使用 WebGL 片元着色器绘制到一个 OFFSCREEN 640×640 画布，然后在 seek 内同步 drawImage 到可见的 2D 画布中（在无头环境中直接截取 WebGL 画布并不可靠）。时间必须具有周期性：uniform 使用 (cos, sin)(2π·k·t/L)，其中 k 为整数（例如 k=2 和 k=5），绝不能使用原始 t。轮廓半径 = 0.74 + amp·noise(direction·1.4 + T)，在单位方向向量上采样（不要产生中心接缝）；表面使用球体法线上的低频域扭曲 3D 噪声，形成大面积平滑色带；16% 为珍珠白，带明亮的内部核心、小而锐利的高光（pow 70）和淡紫色菲涅耳边缘；下半部加深以体现体积；待机球体下方加入柔和的椭圆阴影。uniform：amp（待机 0.08，监听时加上音节包络，思考时再增加少量）、think（更强/更快的扭曲）、bloom（完成时的颜色爆发）。每个像素的噪声调用次数保持 ≤5 次。
+6. 音频：使用 numpy 分析歌曲（频谱通量起音检测、锁相 BPM、通过底鼓 + 色度变化检测强拍、逐小节 RMS）。从一个能量完整的 8 小节乐句的强拍开始，使音频循环在乐句边界处衔接。较大的分析窗口会使估计的节拍提前约 15–25ms：使用 256 样本窗口重新测量剪辑点，并移动起始位置，直到残差中位数 < 2ms。将最后 60ms 与起点之前的 60ms 交叉淡化。使用 numpy 合成 UI 音效（点击、发送呼啸、抓取/放下、滴答、成功、提示音），并按各事件发生时间对应的实测峰值放置；多音符音效中第一音符保持最大音量。
+7. 使用 Playwright Chromium 渲染：每帧取 4 个子帧，分布在半帧时间内（180° 快门，以帧时间为中心），使用 16 个并行 worker。每次 seek 后，等待两次 requestAnimationFrame 再截图；不要使用 screenshot(animations='disabled')。由于场景使用 WebGL，启动时加入 --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog（默认的 SwiftShader-Vulkan 路径大多数时候会丢失 WebGL 上下文）。将所有 RGBA 截图转换为 RGB。
+8. 使用 ffmpeg 编码：-reinit_filter 0，tmix=frames=4，然后每 4 帧选取 1 帧，60fps，libx264 -crf 10 -x264-params aq-mode=3，AAC 256k，使用 -t 明确设置为准确时长。先确认当前 ffmpeg 版本中 tmix 实际平均的是哪些子帧，再选择 select 偏移量。另制作一个 crf 20 的分享版本和一个循环 3 次的副本。
+9. 在完整渲染前：在每个节拍点以及其后 0.3 秒各渲染一帧，将它们拼成联系表，修复所有偏离网格、拥挤、裁切、不可读或缺少球体的问题。然后以完整分辨率抽查过渡帧。
+10. 验证并报告：t=0 和 t=L 的截图逐像素一致；帧数 = 960，视频/音频准确时长均为 16.000 秒；接缝帧差异与相邻帧处于同一数量级；不存在 RGBA 子帧；最终音频的节拍偏移 < 10ms；抽样检查待机帧，确认每一帧都存在球体。
+- 在 GLSL 中，e0 > e1 时 smoothstep(e0, e1, x) 未定义——SwiftShader 会返回 0，导致球体消失。始终写成 1.0 - smoothstep(lo, hi, x)。
+- 软件 GL 上过重的着色器会触发 GPU watchdog（CONTEXT_LOST_WEBGL）：将画布保持为 640²，并降低噪声调用次数；每次测试都监听控制台中的上下文丢失消息。
+- 任何被镜头缩放的元素都不要设置 will-change，否则文本会变模糊。
+- 跟随元素（球体、头像）使用比形状略慢的弹簧，避免被形状边缘裁切。
+- 图层顺序：带背景底板的元素必须位于其上的文本/图标之前。
+- 不要用动画 transform 覆盖居中用的 translate()——应改为包裹在单独图层中。
+- ffmpeg 的 -shortest 可能会丢弃最后一帧；请明确设置 -t。
+- 最后一帧必须与第一帧完全一致，包括光标位置和速度，否则循环会卡顿。
+先向我询问输入，先单独制作球体着色器原型（渲染 t=0、t=4、t=8，并证明 t=0 == t=16 逐像素一致；连续加载 8 个全新页面且无上下文丢失），然后在 8 小节节拍网格上以表格形式向我展示状态列表，等待我确认后再编写完整场景。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104162483888062945) · [查看原帖](https://x.com/listudio/status/2104162483888062945) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2104077535315144878"></a>
+
+### 交互式 3D 相机镜头光路演示
+
+[noah helms](https://x.com/haonv2) · 2026-09-27 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878"><img src="assets/previews/c25990cf0e605481e3e3cb5e2883ecc6940658a121f64d661faa6d1dfc78f0c3.webp" width="840" loading="lazy" alt="交互式 3D 相机镜头光路演示"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+请创建一个交互式 3D 渲染，展示光线如何穿过相机镜头并到达传感器。演示场景应采用优美的山地景观，包含瀑布和葱郁的绿草。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+i want you to create an interactive 3d render of how light travels through a camera lens and gets to the sensor. make the demo use a beautiful mountain scape with waterfalls and beautiful green grass
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104077535315144878) · [查看原帖](https://x.com/haonv2/status/2104077535315144878) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2103966922127630820"></a>
+
+### 在 Blender 中制作 Super Heavy 助推器捕获装置
+
+[Vortlyn](https://x.com/Vortlyn) · 2026-09-26 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103966922127630820"><img src="assets/previews/b907f0a1db0e0cf1ef3f183393df49f4ab38dd9a0bdda15bc078b816b1bf0130.webp" width="840" loading="lazy" alt="在 Blender 中制作 Super Heavy 助推器捕获装置"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+仅使用 Python 在 Blender 中制作 Super Heavy 助推器捕获装置。不使用下载的模型、纹理或 HDRI，所有内容均通过代码生成
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build a Super Heavy booster catch in Blender using only Python. no downloaded models, no textures, no HDRIs, everything generated by code
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103966922127630820) · [查看原帖](https://x.com/Vortlyn/status/2103966922127630820) · [返回案例导航](#latest)
+
+---
 
 <a id="gpt-6-astra-2103860776419111285"></a>
 
@@ -2467,480 +2735,8 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 
 ---
 
-<a id="claude-opus-5-5-2102739444256383089"></a>
 
-### 体素风足球动画
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="体素风足球动画"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-使用 Three.js（CDN）创建一个单独的 HTML 文件，实现简单的体素风足球动画。一名方块风格球员带球突破 2 名防守球员，以精彩进球得分，并触发庆祝粒子效果。整体呈现色彩缤纷的体育场风格。仅输出完整的 HTML 代码。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089) · [查看原帖](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### 虚构行星互动网站
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="虚构行星互动网站"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-构建一个关于虚构行星的互动网站。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022) · [查看原帖](https://x.com/Kappaemme1926/status/2102729710174196022) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2102672926285713456"></a>
-
-### 中世纪城堡浏览器动画
-
-[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102672926285713456"><img src="assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="中世纪城堡浏览器动画"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-创建一个完全在浏览器中运行的 3D 动画。动画场景为一座中世纪城堡，城堡坐落在一片广袤森林中的山顶上。不要添加任何键盘控制，只需让镜头围绕城堡旋转，使我们能够从各个角度看到城堡。城堡塔楼顶部应有一面随风飘动的旗帜。
-
-输出应包含一个 index.html 文件，执行该文件后显示城堡并开始循环播放动画。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
-
-The output should contain index.html file that when executed shows the castle and starts the looping animation.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102672926285713456) · [查看原帖](https://juhapalomaki.fi/blog/castle-model-comparison/) · [返回案例导航](#latest)
-
----
-
-<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
-
-### 使用 Claude Opus 5 制作的 Tripo 3D 宣传片
-
-[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="使用 Claude Opus 5 制作的 Tripo 3D 宣传片"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-1. 项目目标
-制作一部约 44 秒、可交互的动画短片，标题为“Claude × Tripo”。一颗橙色的小 Claude 火花落在手工纸艺书桌上，在 Tripo 品牌笔记本电脑中绘制或输入五个有趣的想法，并见证这些创作逐一获得生命。观众可以观看、暂停、拖动进度、重播、切换画面比例、开启声音或录制动画。这是一部经过编排的短片，不包含配乐、战斗或胜负条件。复现所提供的视频和场景构图。
-
-2. 视觉风格
-使用层叠式纸艺立体场景，呈现撕纸质感的奶油色边缘、油画棒颗粒、涂鸦、方格纸细节和午夜蓝天空。在牛皮纸书桌后方叠放弦月、暖黄色星星、蓝色纸艺山丘和一座小镇。将打开的笔记本电脑放在左侧，Claude 放在中央附近，右侧放置一个小型圆形展示台。保持暖橙色、淡紫色、薄荷绿、奶油黄和奶油色点缀。使用透视摄像机，在远景和特写之间平缓移动；通过按深度分层的平面剪纸元素制造视差。采用分层的卡通光照、冷色轮廓光、克制的描边、柔和阴影，并在最后添加纸张颗粒和暗角效果。结尾使用白色相机闪光，随后出现一张略微倾斜、用胶带贴住的宝丽来照片，展示全体角色。开场、每次创作揭示以及全员登场结尾的构图都要匹配参考画面。
-
-3. 场景与故事
-让所有姿态和摄像机状态都由单一的确定性 update(t) 驱动，从而直接跳转到任意时间戳时，无需重放之前的画面就能得到正确帧。在一份共享时间表中定义所有故事节点。Claude 约在 0.55 秒时出现，约在 1.7 秒时落地，并在 2.92 秒时唤醒笔记本电脑。约在 7.2 秒揭示面包猫，13.85 秒揭示蜗牛小屋，19.8 秒揭示烤面包机火箭，26.1 秒揭示茶壶章鱼，33.3 秒揭示天空鲸鱼。火箭约在 21.25 秒发射，并在 24.05 秒返回。鲸鱼在约 35–37 秒时游过全员上方。相机闪光发生在 40.5 秒，44.2 秒结束。平滑衔接镜头，并使用缓动式预备动作、弹簧式过冲、挤压与拉伸、小幅跳跃和逐渐衰减的摇摆。切换场景时避免突然重置。
-
-4. 资产列表
-- claude-spark：一个扁平的橙色十二射线火花，带奶油色撕纸边缘和友好的动画表情。它会眨眼、看向当前动作、微笑、脸红，并切换开心、眩晕和闪光眼睛。两条射线会伸展成手臂，触碰按键、图画和其他角色。将其面部和手臂行为保留为程序化着色器；静态导出无法体现这个角色的身份特征或表演效果。
-- cat：一个金色面包形猫咪，身体圆润，带烘烤焦痕、小耳朵、爪子、尾巴、亮晶晶的眼睛、粉色脸颊和胡须。它出现在展示台上，旋转供人查看，接受抚摸，最后在书桌前方安定下来。
-- snail：一只淡绿色蜗牛，背着一座奶油色小屋；小屋带珊瑚色屋顶、烟囱、发光窗户和迷你花箱。抬起和滑动过程中，要保持眼柄清晰可辨、房屋直立且面部可见。
-- toaster：一台薄荷绿色烤面包机，带珊瑚色饰边和拉杆、圆润的奶油色细节、小型火箭翼以及底部喷口。它伴随橙色火焰、喷气 puff 轨迹和掠过摄像机的音效升空，随后返回。火焰和烟雾必须作为独立效果处理。
-- octopus：一个粉色与淡紫色相间的茶壶生物，带六条柔韧触手、壶嘴和把手、欢快的表情、金色单片眼镜和紫色领结。为触手制作动画，加入倾斜动作和小步行走。触手姿态要与僵硬的茶壶主体分开控制。
-- whale：一条蓝色天空鲸鱼，带奶油色腹部、鳍和富有表情的面孔，背着一座长满青草的迷你小镇，以及彩色小屋、树木和条纹灯塔。它是体型最大的创作，必须在结尾全员登场时保持突出。灯塔光束作为独立的透明效果处理。
-- environment：书桌、笔记本电脑、台灯、铅笔杯、盆栽、展示台、纸艺天空与小镇层、便签和铅笔。全程重复使用这些元素。纸张背景、笔记本电脑界面、涂鸦、粒子、烟雾、光束和后期处理都保持为程序化效果。
-保持稳定的资产标识符，并分别为世界空间摆放、自转/挤压以及可活动部件设置独立变换。保留源项目的比例和配色。便携式 GLB 版本可以使用标准材质和静态姿势；不要声称其中包含自定义揭示着色器、角色表演或完整动画。
-
-5. 交互与反馈
-提供播放/暂停、重播、带已用时长/总时长的进度条、1:1 / 16:9 / 9:16 画面比例选项、声音开关、纯净视图和录制功能。空格键切换播放；R 键重播；H 键或 C 键切换纯净视图；Escape 键恢复控件；M 键切换声音；左右方向键按 1 秒跳转，Shift 键将步长缩短至 0.1 秒。确保控件在窄屏触摸设备上也易于使用。声音只能在用户手势后启动；浏览器阻止自动播放音频时，提供“带声音播放”选项。拖动进度和重播时，要从正确时间点重新启动声音。结束时停止播放并提供重播选项。
-笔记本电脑显示当前绘制或输入的想法、动画进度条和完成标记。屏幕上的 Generate 操作属于预先编排好的动画：现有短片使用程序化几何体，并不会调用模型生成 API。每个创作都从底部向上揭示，最初呈淡紫色黏土质感，随后用暖色发光扫描带为其填充颜色。让 Claude 的视线和手臂动作与这些事件同步。
-
-6. 技术实现与音频
-使用 JavaScript ES 模块和基于 WebGL 的 Three.js r170、自定义着色器、CanvasTexture 以及 Web Audio API。将应用和字体打包为同源静态资源，并采用可复现构建；不得使用运行时 CDN 或私有服务凭据。控件使用本地 Fredoka 字体，手写文本使用 Caveat 字体。适配三种画面比例下的摄像机距离和渲染尺寸，限制过高的像素密度，并将导出资源排除在页面初始网络请求之外。
-使用 Web Audio 合成配乐和音效。配乐包含音乐盒 FM 音色、经滤波的拨弦三角波贝斯、木琴、轻柔的失谐铺底、底鼓、拍手/沙锤、生成式混响和最终压缩。让第 0 小节与笔记本电脑在 2.92 秒唤醒的时间点对齐，让第 16 小节与 40.5 秒的闪光对齐，速度约为 102 BPM；循环和弦为 F–Dm–B-flat–C。在指定故事节点加入铅笔、键盘、呼啸、啵声、弹簧声、猫、鲸鱼、火箭和快门音效。根据火箭相对于摄像机的运动为引擎声进行声像定位和塑形。将配乐分成较小的离线片段渲染后组装成一个缓冲区；由活动音频时钟驱动画面，并在音频时钟卡顿时提供回退机制。录制时应将画布视频与配乐合并，并导出浏览器支持的格式。正常播放或浏览器录制不得依赖源项目中可选的本地 Python 捕获服务器。
-
-7. 完成标准
-交付可编辑源文件、固定版本的依赖、静态构建、启动说明和可用的短片。验证在 8、15、22、28、36 和 41 秒附近直接跳转；重播和暂停必须保持确定性状态。将全员登场构图与参考视频进行比对。确认音频解锁、静音、重播同步，以及包含两条轨道的实际录制下载。检查正方形、横屏和竖屏构图，以及桌面端和窄屏控件。在父站点的隔离 iframe 中验证托管页面，确保没有缺失字体、被阻止的脚本或外部资源错误。独立检查可复用 GLB 的几何体、朝向、材质和包围盒是否正确；其封面必须展示实际文件。记录便携式资产与动画着色器版本之间的所有差异。
-
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2102652927177617564"></a>
-
-### 单个 HTML 文件中的 3D 卡丁车竞速游戏
-
-[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102652927177617564"><img src="assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="单个 HTML 文件中的 3D 卡丁车竞速游戏"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-在单个 HTML 文件中制作一款 3D 卡丁车竞速游戏。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-build a 3D kart racer in a single HTML file.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102652927177617564) · [查看原帖](https://x.com/realanshull/status/2102652927177617564) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### 交互式欧拉霓虹流体模拟
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="交互式欧拉霓虹流体模拟"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-编写一个完整的单文件 HTML 文档，其中包含高性能、GPU 加速的交互式欧拉霓虹流体模拟。
-
-严格的技术与美术要求：
-
-1. 架构与性能：
-   - 单文件：所有 HTML、CSS 以及 JavaScript/GLSL 着色器均须内联。
-   - 零外部依赖：使用纯 WebGL 1.0 或 2.0（不得使用 Three.js、Pixi 或其他外部库）。
-   - GPU 流体动力学计算：模拟必须完全通过乒乓式帧缓冲对象（FBO）运行，并使用自定义片元着色器实现：
-     a) 平流（速度与染料）
-     b) 散度计算
-     c) 压力泊松求解器（雅可比迭代，每帧迭代 20–30 次）
-     d) 梯度减法 / 速度投影
-     e) 涡量约束（增加湍流旋涡，防止流体变成沉闷、模糊的一团）。
-
-2. 视觉效果（“霓虹烟雾”风格）：
-   - 漆黑如墨的虚空背景（`#050508`）。
-   - 为染料注入启用加法 / 高动态范围混合。
-   - 动态调色板：每次光标快速划动或触摸拖拽都要注入高亮度霓虹染料，并在鲜艳的赛博色调之间平滑循环（电光青 `#00F0FF`、炽热洋红 `#FF007F`、深紫外和 radiant gold）。
-   - 显示着色器增强：在最终渲染着色器中直接加入后处理阶段，为流体翻涌的边缘应用细微的泛光、色调映射和色差效果。
-
-3. 交互：
-   - 鼠标与触摸：快速移动光标或拖拽时，注入与鼠标速度成正比的速度，同时注入高密度发光染料。
-   - 被动环境运动：闲置时生成细微的程序化卷曲噪声或缓慢漂移的涡旋，使画布不会完全静止。
-   - 控件：在角落放置简洁利落、极简至上的玻璃拟态 HUD（无操作时自动隐藏）：
-     * 黏度滑块
-     * 染料耗散 / 持久度滑块
-     * 喷溅半径滑块
-     * “清空画布”按钮
-     * 用于循环切换配色主题的按钮（赛博朋克、热能炼狱、生物荧光深海）。
-
-4. 生产级打磨：
-   - 自动处理高 DPI 显示屏和 `resize` 事件，不得拉伸画面或清空 FBO 纹理。
-   - 优雅地检测浮点纹理支持情况（`OES_texture_float` / `OES_texture_half_float`）。
-   - 代码整洁、无错误且完整实现，不得包含任何占位内容或截断的注释。
-
-只返回完整填充、可直接在 Chrome/Safari/Firefox 中运行的 HTML 文件。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565611473661963) · [查看原帖](https://x.com/theailoser/status/2102565612874596411) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### 日式樱花山谷交互式 3D 景观网页
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="日式樱花山谷交互式 3D 景观网页"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565403109085669) · [查看原帖](https://x.com/dotey/status/2102565403109085669) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Hundenberg 事故模型与逼真视频
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg 事故模型与逼真视频"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-在 Blender 中制作 Hundenberg 的模型，并生成一段逼真的事故视频。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102547809140355250) · [查看原帖](https://x.com/aimanhasnoname/status/2102547809140355250) · [返回案例导航](#latest)
-
----
-
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 452 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
 
 ## 给你的作品补上角色和道具
 

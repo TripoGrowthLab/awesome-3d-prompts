@@ -28,6 +28,14 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [복셀 스타일 축구 애니메이션](#claude-opus-5-5-2102739444256383089)
+- [상상 속 행성 인터랙티브 웹사이트](#claude-opus-5-5-2102729710174196022)
+- [중세 성 브라우저 애니메이션](#gpt-6-astra-2102672926285713456)
+- [Claude Opus 5로 제작한 Tripo 3D 프로모션 필름](#tripo-claude-opus-5-5-paper-cut-3d-short)
+- [단일 HTML 파일로 제작하는 3D 카트 레이싱 게임](#gpt-6-astra-2102652927177617564)
+- [인터랙티브 오일러리안 네온 유체 시뮬레이션](#claude-opus-5-5-2102565611473661963)
+- [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](#claude-opus-5-5-2102565403109085669)
+- [Hundenberg 사고 모델과 실사풍 영상](#claude-opus-5-5-2102547809140355250)
 - [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](#claude-opus-5-5-2102544406117286004)
 - [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](#claude-opus-5-5-2102544196808667471)
 - [자동 실행되는 3D 루브 골드버그 장치](#claude-opus-5-5-2102544078927741369)
@@ -70,16 +78,612 @@
 - [지하철역의 AAA CGI 초자연 격투 단편](#gpt-6-astra-2100233407108137349)
 - [타일 옵션을 선택할 수 있는 인터랙티브 아파트 워크스루](#gpt-6-astra-2100222426705453318)
 - [PC판 스플래툰 개발 및 그래픽 재현](#gpt-6-astra-2100193512373592313)
-- [가구가 움직이는 인터랙티브 3D 룸 장면](#gpt-6-astra-2100139076816916977)
-- [참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작](#gpt-6-astra-2099850719839109597)
-- [탐험 가능한 절차적 우주 탐험 게임](#gpt-6-astra-2099785223827259515)
-- [Apple 스타일 3D 하트 및 웃는 이모지](#gpt-6-astra-2099750376530657300)
-- [인터랙티브 3D 생물체 신경계 패널](#gpt-6-astra-2099719427990134984)
-- [도망치는 보트가 있는 인터랙티브 화산섬](#gpt-6-astra-2099643231659012553)
-- [호텔 복도 장면 만들기](#gpt-6-astra-2099588840419651890)
-- [전사가 거인의 몸을 기어올라 턱을 가격하다](#gpt-6-astra-2099519801139908951)
 
 </details>
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 복셀 스타일 축구 애니메이션
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="복셀 스타일 축구 애니메이션"></a>
+
+**프롬프트**
+
+```text
+Three.js(CDN)를 사용하는 단일 HTML 파일로 간단한 복셀 스타일 축구 애니메이션을 제작하세요. 블록 형태의 선수가 수비수 2명을 제치고 화려한 골을 넣은 뒤 세리머니 파티클을 발생시킵니다. 경기장은 알록달록한 분위기로 표현하세요. 전체 HTML 코드만 출력하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089) · [원본 게시물](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 상상 속 행성 인터랙티브 웹사이트
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="상상 속 행성 인터랙티브 웹사이트"></a>
+
+**프롬프트**
+
+```text
+상상 속 행성을 주제로 한 인터랙티브 웹사이트를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022) · [원본 게시물](https://x.com/Kappaemme1926/status/2102729710174196022) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102672926285713456"></a>
+
+### 중세 성 브라우저 애니메이션
+
+[juhapalomaki.fi](https://juhapalomaki.fi/) · 2026-09-23 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102672926285713456"><img src="../assets/previews/02d7b77761d3e2cbda11998248d22866af034e67600492c08d6045464d5740de.webp" width="840" loading="lazy" alt="중세 성 브라우저 애니메이션"></a>
+
+**프롬프트**
+
+```text
+브라우저에서 완전히 실행되는 3D 애니메이션을 제작하세요. 넓은 숲에 위치한 언덕 꼭대기에 중세 성이 자리한 장면이어야 합니다. 키보드 조작은 추가하지 말고, 성의 모든 면을 볼 수 있도록 카메라가 성 주변을 회전하게 하세요. 성 탑 꼭대기에는 바람에 펄럭이는 깃발이 있어야 합니다.
+
+실행하면 성이 표시되고 반복 애니메이션이 시작되는 index.html 파일을 출력해야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a 3d animation that runs completely in browser. The animation features a medieval castle, sitting on top of a hill that is located on large forest. Do not add any keyboard controls, just make the camera spin around the castle so that we see it from all sides. On top of the castle tower there should be a flag that waves in the wind.
+
+The output should contain index.html file that when executed shows the castle and starts the looping animation.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102672926285713456) · [원본 게시물](https://juhapalomaki.fi/blog/castle-model-comparison/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="tripo-claude-opus-5-5-paper-cut-3d-short"></a>
+
+### Claude Opus 5로 제작한 Tripo 3D 프로모션 필름
+
+[tripo3d](https://x.com/tripoai) · 2026-09-23 · Claude Opus 5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short"><img src="../assets/previews/ad197ab90fa537a64d111a5989d7f805eeb2d32c017ee9e5ea7eaeb520723d58.webp" width="840" loading="lazy" alt="Claude Opus 5로 제작한 Tripo 3D 프로모션 필름"></a>
+
+**프롬프트**
+
+```text
+1. 프로젝트 목표
+“Claude × Tripo”라는 제목의 약 44초 분량 인터랙티브 애니메이션 단편을 제작합니다. 작은 주황색 Claude 스파크가 손으로 만든 종이 책상 위에 내려앉아 Tripo 로고가 있는 노트북에 다섯 가지 장난스러운 아이디어를 스케치하거나 입력하고, 아이디어가 생명력을 얻는 과정을 지켜봅니다. 사용자는 애니메이션을 재생·일시 정지하고, 탐색하고, 다시 재생하고, 화면비를 바꾸고, 사운드를 켜거나 녹화할 수 있어야 합니다. 점수, 전투 또는 승리 조건이 없는 연출 중심의 단편입니다. 제공된 영상과 장면 구성을 재현합니다.
+
+2. 비주얼 스타일
+가장자리가 찢긴 크림색 종이, 과슈 질감, 낙서, 모눈종이 디테일, 짙은 미드나이트 블루 하늘을 활용한 레이어드 페이퍼 컷 디오라마를 사용합니다. 크라프트지 책상 뒤에 초승달, 따뜻한 노란색 별, 파란 종이 언덕, 작은 마을을 겹겹이 배치합니다. 왼쪽에는 열린 노트북을, 중앙 근처에는 Claude를, 오른쪽에는 작은 원형 디스플레이 플랫폼을 둡니다. 따뜻한 오렌지, 라일락, 민트, 버터 옐로, 크림색 포인트를 유지합니다. 원근 카메라는 와이드 숏과 클로즈업 사이를 부드럽게 이동하며, 깊이를 분리한 평면 컷아웃으로 패럴랙스를 만듭니다. 단계적인 카툰 조명, 차가운 림 라이트, 절제된 아웃라인, 부드러운 그림자, 마지막 종이 질감 및 비네트 패스를 적용합니다. 흰색 카메라 플래시로 마무리하고, 전체 캐릭터가 담긴 사진을 살짝 기울여 테이프로 붙인 폴라로이드로 끝냅니다. 오프닝, 각 창작물의 등장 장면, 앙상블 피날레에서 레퍼런스와 동일한 구도를 맞춥니다.
+
+3. 장면과 스토리
+모든 포즈와 카메라 동작을 하나의 결정론적 update(t)에서 제어하여, 어떤 타임스탬프로 바로 이동해도 이전 프레임을 다시 재생하지 않고 정확한 프레임이 표시되도록 합니다. 스토리 비트는 하나의 공유 스케줄에 이름을 지정해 관리합니다. Claude는 약 0.55초에 등장하고, 약 1.7초에 착지하며, 약 2.92초에 노트북을 깨웁니다. 빵 고양이는 약 7.2초, 달팽이 오두막은 약 13.85초, 토스터 로켓은 약 19.8초, 주전자 문어는 약 26.1초, 하늘 고래는 약 33.3초에 등장시킵니다. 로켓은 약 21.25초에 발사하고 약 24.05초에 돌아옵니다. 고래는 약 35~37초에 앙상블 위를 헤엄칩니다. 카메라 플래시는 40.5초에 발생하며, 44.2초에 종료합니다. 카메라 숏을 블렌딩하고, 완화된 기대 동작, 스프링 오버슈트, 스쿼시와 스트레치, 작은 점프, 감쇠되는 흔들림을 사용합니다. 장면이 전환될 때 갑자기 리셋되지 않도록 합니다.
+
+4. 에셋 목록
+- claude-spark: 크림색으로 찢긴 테두리가 있는 납작한 주황색 12방향 스파크로, 친근한 표정이 있습니다. 눈을 깜빡이고 현재 상황을 바라보며 미소 짓고 볼을 붉히며, 행복한 눈·어지러운 눈·반짝이는 눈을 사용합니다. 광선 두 개가 팔처럼 늘어나 키, 그림, 다른 캐릭터에 닿습니다. 표정과 팔의 움직임은 프로시저럴 셰이더로 유지해야 합니다. 정적 익스포트만으로는 이 캐릭터의 정체성과 연기를 재현할 수 없습니다.
+- cat: 둥근 몸통과 구운 빵 껍질 자국, 작은 귀, 발, 꼬리, 반짝이는 눈, 분홍색 볼, 수염이 있는 황금빛 식빵 고양이입니다. 디스플레이 플랫폼 위에 나타나 관찰할 수 있도록 회전하고, 쓰다듬은 뒤 책상 앞쪽에 자리 잡습니다.
+- snail: 산호색 지붕, 굴뚝, 빛나는 창문, 작은 화분 상자가 있는 크림색 오두막을 짊어진 연한 녹색 달팽이입니다. 들어 올리고 미끄러지는 동안 눈자루가 서로 구분되고, 집은 똑바로 서 있으며, 얼굴이 보이도록 유지합니다.
+- toaster: 산호색 테두리와 레버, 둥근 크림색 디테일, 작은 로켓 핀, 하단 노즐이 있는 민트색 토스터입니다. 주황색 불꽃과 뭉게뭉게 이어지는 흔적을 내며 이륙하고, 카메라를 스쳐 지나가는 사운드를 낸 뒤 돌아옵니다. 불꽃과 연기는 서로 분리된 이펙트로 유지합니다.
+- octopus: 유연한 촉수 여섯 개, 주둥이와 손잡이, 쾌활한 얼굴, 금색 모노클, 보라색 나비넥타이를 갖춘 분홍색·라일락색 주전자 생물입니다. 촉수를 움직이고, 기울여 인사하는 동작과 짧은 걸음을 애니메이션으로 표현합니다. 촉수 포즈는 단단한 주전자 본체와 분리해 제어합니다.
+- whale: 크림색 배, 지느러미, 표정이 있는 파란 하늘 고래로, 잔디가 깔린 미니어처 마을과 알록달록한 오두막, 나무, 줄무늬 등대를 싣고 있습니다. 가장 큰 창작물이므로 피날레에서 눈에 잘 띄는 위치를 유지해야 합니다. 등대 빛은 별도의 투명 이펙트로 처리합니다.
+- environment: 책상, 노트북, 램프, 연필꽂이, 화분, 디스플레이 플랫폼, 종이로 만든 하늘과 마을 레이어, 메모, 연필입니다. 이 요소들은 전체 장면에서 재사용합니다. 종이 배경, 노트북 UI, 낙서, 파티클, 연기, 광선, 포스트프로세싱은 프로시저럴 방식으로 유지합니다.
+월드 배치, 회전·스쿼시, 관절 파츠에 각각 별도의 트랜스폼을 사용하고 에셋 식별자를 안정적으로 유지합니다. 원본 프로젝트의 비율과 색상을 보존합니다. 포터블 GLB 버전은 표준 머티리얼과 정적 포즈를 사용해도 되지만, 커스텀 등장 셰이더, 연기 또는 전체 애니메이션이 포함되어 있다고 주장해서는 안 됩니다.
+
+5. 상호작용과 피드백
+재생·일시 정지, 다시 재생, 경과 시간과 전체 시간이 표시되는 탐색 슬라이더, 1:1 / 16:9 / 9:16 화면비 선택, 사운드 토글, 클린 뷰, 녹화 기능을 제공합니다. 스페이스 키로 재생을 전환하고, R 키로 다시 재생하며, H 또는 C 키로 클린 뷰를 전환합니다. Escape 키를 누르면 컨트롤을 복원하고, M 키로 사운드를 전환합니다. 왼쪽·오른쪽 화살표 키로 1초씩 탐색하고 Shift 키를 함께 누르면 간격을 0.1초로 줄입니다. 좁은 터치스크린에서도 컨트롤을 사용할 수 있도록 합니다. 사운드는 사용자 제스처 이후에만 시작해야 하며, 자동 재생 오디오가 차단되면 “사운드와 함께 재생”을 제공합니다. 스크럽과 다시 재생할 때는 정확한 시점에서 사운드를 재시작합니다. 마지막에는 정지하고 다시 재생할 수 있는 옵션을 제공합니다.
+노트북에는 현재 그리고 있는 그림 또는 입력한 아이디어, 애니메이션 진행 바, 완료 표시가 나타납니다. 화면의 Generate 동작은 미리 제작된 애니메이션의 일부이며, 기존 단편은 프로시저럴 지오메트리를 사용하고 모델 생성 API를 호출하지 않습니다. 각 창작물은 아래에서 위로 등장시키고, 처음에는 라일락색 클레이로 보이게 한 다음 따뜻하게 빛나는 스캔 밴드로 색을 칠합니다. Claude의 시선과 팔 동작을 이 이벤트에 맞춰 조정합니다.
+
+6. 기술 구현 및 오디오
+JavaScript ES 모듈과 WebGL 기반 Three.js r170, 커스텀 셰이더, CanvasTexture, Web Audio API를 사용합니다. 애플리케이션과 폰트는 재현 가능한 빌드 방식의 동일 출처 정적 리소스로 번들링하며, 런타임 CDN이나 비공개 서비스 인증 정보는 사용하지 않습니다. 컨트롤에는 로컬 Fredoka를, 손글씨 텍스트에는 Caveat를 사용합니다. 세 가지 화면비 모두에 맞춰 카메라 거리와 렌더링 크기를 조정하고, 과도한 픽셀 밀도는 제한하며, 익스포트 파일이 페이지 초기 네트워크 요청에 포함되지 않도록 합니다.
+Web Audio로 음악과 이펙트를 합성합니다. 뮤직박스 FM 보이스, 플럭 방식의 필터드 트라이앵글 베이스, 마림바, 살짝 디튠된 패드, 킥, 클랩/셰이커, 생성 리버브, 최종 컴프레션을 사용합니다. 마디 0을 2.92초의 노트북 작동 시점에, 16마디를 40.5초의 플래시에 맞춰 약 102 BPM으로 설정하고, F–Dm–B-flat–C 코드 진행을 반복합니다. 이름이 지정된 스토리 비트에 연필, 키보드, 윙윙거림, 팝, 뿅, 고양이, 고래, 로켓, 셔터 이펙트를 추가합니다. 로켓 엔진은 카메라 기준 움직임에 따라 패닝하고 음색을 조정합니다. 사운드트랙을 작은 오프라인 슬라이스로 렌더링해 하나의 버퍼로 조합하고, 활성 오디오 클록이 영상 재생을 구동하도록 하되 클록이 멈출 때를 대비한 폴백을 제공합니다. 녹화 시 캔버스 영상과 사운드트랙을 결합하고 브라우저가 지원하는 형식으로 익스포트합니다. 일반 재생이나 브라우저 녹화를 위해 원본 프로젝트의 선택적 로컬 Python 캡처 서버에 의존하지 않습니다.
+
+7. 완료 기준
+편집 가능한 소스, 고정된 의존성, 정적 빌드, 시작 안내, 실제로 사용할 수 있는 단편을 제공합니다. 8, 15, 22, 28, 36, 41초 부근으로 직접 이동하는 기능을 확인하고, 다시 재생과 일시 정지에서도 결정론적 상태가 유지되는지 검증합니다. 앙상블 구성을 레퍼런스 영상과 비교합니다. 오디오 잠금 해제, 음소거, 다시 재생 동기화, 두 트랙이 모두 포함된 실제 녹화 다운로드를 확인합니다. 정사각형·가로·세로 구도와 데스크톱 및 좁은 화면용 컨트롤을 점검합니다. 호스팅된 페이지를 상위 사이트의 격리된 iframe 안에서 검증하고, 누락된 폰트, 차단된 스크립트, 외부 리소스 오류가 없는지 확인합니다. 재사용 가능한 GLB를 각각 검사해 지오메트리, 방향, 머티리얼, 바운딩 박스가 올바른지 확인하고, 썸네일에는 실제 파일의 모습이 표시되도록 합니다. 포터블 에셋과 애니메이션 셰이더 버전의 차이를 문서화합니다.
+
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/tripo-claude-opus-5-5-paper-cut-3d-short) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102652927177617564"></a>
+
+### 단일 HTML 파일로 제작하는 3D 카트 레이싱 게임
+
+[Anshul](https://x.com/realanshull) · 2026-09-23 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102652927177617564"><img src="../assets/previews/3b0c9e75680b7a858ec82e6aa811ea55cd28c88a5cde9382c3e611c51f89b946.webp" width="840" loading="lazy" alt="단일 HTML 파일로 제작하는 3D 카트 레이싱 게임"></a>
+
+**프롬프트**
+
+```text
+단일 HTML 파일로 3D 카트 레이싱 게임을 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a 3D kart racer in a single HTML file.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102652927177617564) · [원본 게시물](https://x.com/realanshull/status/2102652927177617564) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565611473661963"></a>
+
+### 인터랙티브 오일러리안 네온 유체 시뮬레이션
+
+[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="인터랙티브 오일러리안 네온 유체 시뮬레이션"></a>
+
+**프롬프트**
+
+```text
+고성능 GPU 가속 인터랙티브 오일러리안 네온 유체 시뮬레이션을 포함한 완전한 단일 파일 HTML 문서를 작성하세요.
+
+엄격한 기술 및 미적 요구 사항:
+
+1. 아키텍처 및 성능:
+   - 단일 파일: 모든 HTML, CSS, JavaScript/GLSL 셰이더를 인라인으로 포함하세요.
+   - 외부 의존성 없음: 순수 WebGL 1.0 또는 2.0을 사용하세요(Three.js, Pixi 및 외부 라이브러리 사용 금지).
+   - GPU 기반 유체 역학: 커스텀 프래그먼트 셰이더를 사용한 핑퐁 프레임버퍼 오브젝트(FBO)만으로 시뮬레이션을 실행해야 합니다. 다음을 구현하세요.
+     a) 이류(속도 및 염료)
+     b) 발산 계산
+     c) 압력 포아송 솔버(프레임당 자코비 반복 20~30회)
+     d) 그래디언트 제거 / 속도 프로젝션
+     e) 와도 구속(난류성 소용돌이를 추가하고 유체가 밋밋하고 흐릿한 덩어리로 변하는 것을 방지)
+
+2. 시각적 완성도(“네온 연기” 스타일):
+   - 칠흑 같은 빈 공간 배경(`#050508`).
+   - 염료 주입에 가산 / HDR 블렌딩을 적용하세요.
+   - 다이내믹 팔레트: 커서를 빠르게 움직이거나 터치로 드래그할 때마다 높은 광도의 네온 염료를 주입하고, 선명한 사이버 색상(일렉트릭 시안 `#00F0FF`, 핫 마젠타 `#FF007F`, 딥 울트라바이올렛, 빛나는 골드) 사이를 부드럽게 순환시키세요.
+   - 디스플레이 셰이더 개선: 최종 렌더 셰이더에 포스트 프로세싱 패스를 직접 포함하여 유체의 소용돌이 가장자리에 은은한 블룸/글로우, 톤 매핑, 색수차를 적용하세요.
+
+3. 인터랙션:
+   - 마우스 및 터치: 커서를 빠르게 움직이거나 드래그하면 마우스 속도에 비례한 속도와 함께 빛나는 고밀도 염료를 주입하세요.
+   - 패시브 앰비언트 모션: 유휴 상태에서도 은은한 프로시저럴 컬 노이즈 또는 부드럽게 떠다니는 소용돌이를 생성하여 캔버스가 완전히 정지하지 않게 하세요.
+   - 컨트롤: 모서리에 배치하고 비활성 상태에서는 자동으로 숨겨지는 세련되고 극도로 미니멀한 글래스모피즘 HUD를 구현하세요.
+     * 점도 슬라이더
+     * 염료 감쇠 / 지속성 슬라이더
+     * 스플랫 반경 슬라이더
+     * “캔버스 지우기” 버튼
+     * 색상 테마를 순환하는 토글 버튼(Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. 프로덕션 완성도:
+   - 고DPI 디스플레이와 `resize` 이벤트를 자동으로 처리하되, FBO 텍스처가 늘어나거나 초기화되지 않게 하세요.
+   - 부동 소수점 텍스처 지원 여부를 우아하게 확인하는 폴백을 구현하세요(`OES_texture_float` / `OES_texture_half_float`).
+   - 플레이스홀더나 잘린 주석 없이 깔끔하고 버그가 없으며 완전히 구현된 코드를 작성하세요.
+
+Chrome/Safari/Firefox에서 직접 실행할 수 있는 완성된 HTML 파일만 반환하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565611473661963) · [원본 게시물](https://x.com/theailoser/status/2102565612874596411) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565403109085669"></a>
+
+### 일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지
+
+[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지"></a>
+
+**프롬프트**
+
+```text
+브라우저에서 실시간으로 상호작용할 수 있는 완성도 높은 3D 경관 웹페이지를 바로 제작해 주세요.
+
+테마: 일본식 벚꽃 계곡.
+HTML, CSS, JavaScript로 구현해 주세요. 이미지를 생성하지 말고, 디자인 계획만 제시하지도 마세요.
+배경 이미지 한 장에 패럴랙스 효과를 더해 3D처럼 보이게 만들지 마세요. 실제로 실행하고 탐험할 수 있는 완성물을 원합니다.
+
+【1. 작품 방향】
+
+완전하고 연속적이며 원근감이 살아 있는 계곡 경관이어야 합니다.
+고립된 작은 소품이나 공중에 뜬 섬, 받침대가 있는 디오라마가 아니며 단순한 기술 데모도 아닙니다.
+
+스타일은 현대적인 고급 복셀 / voxel art입니다.
+입방체 기하의 조형 언어는 유지하되, 화면은 고해상도와 안티앨리어싱을 적용하고 빛과 그림자는 섬세하게 표현해 주세요.
+복고풍의 저해상도 픽셀 아트처럼 만들지 말고, 큼직한 블록을 거칠게 쌓지도 말며, 화면 전체에 픽셀 필터를 씌우지도 마세요.
+
+시각적 품질을 우선하세요. 기능을 몇 가지 줄이더라도 구도, 머티리얼과 조명을 희생하지 마세요.
+
+【2. 레퍼런스 이미지 사용 방식】
+
+레퍼런스 이미지가 있다면 먼저 구도의 위계, 스케일, 조명과 색상 관계를 파악하세요.
+분위기와 시각적 언어만 참고해 장면을 새롭게 설계하세요.
+건물, 나무, 산과 도로의 위치를 그대로 옮기거나 1:1로 복제하지 마세요.
+
+레퍼런스 이미지는 웹페이지의 배경 소재가 아닙니다. 장면 자체가 실제 3D 지오메트리로 구성되어야 합니다.
+
+【3. 장면 구성】
+
+페이지를 처음 열었을 때부터 완성도 높고 매력적인 화면이 보여야 합니다.
+사용자가 먼저 카메라를 돌려야 보기 좋은 구도를 찾을 수 있어서는 안 됩니다.
+
+디오라마식 아이소메트릭 탑뷰 카메라가 아니라 원근 카메라를 사용하세요.
+화면에는 전경, 중경, 원경이 뚜렷하게 드러나야 합니다.
+
+전경:
+존재감 있는 오래된 벚나무 한 그루에 바위, 풀과 식물, 석등, 소량의 낙화를 배치하세요.
+화면 가장자리에 자연스러운 프레임을 만들되, 강과 다리, 주요 건물을 가리지 않게 하세요.
+
+중경:
+구불구불한 강이 시선을 화면 안쪽으로 이끌고, 붉은 목조 다리가 강을 가로지르게 하세요.
+마을, 찻집, 신사와 오솔길은 지형을 따라 배치하고, 건물 사이에는 실제로 이동할 수 있는 동선을 구현하세요.
+지면에는 고저 차이와 강변, 자연스러운 지형 전환을 만들고, 평면 위에 모델을 균일하게 배치하지 마세요.
+
+원경:
+산비탈의 다층 탑, 서로 다른 거리에 있는 숲과 산등성이, 그리고 멀리 보이는 설산을 배치하세요.
+거리감은 스케일 변화, 가림, 색온도 변화와 대기 원근으로 표현하세요.
+먼 곳의 오브젝트를 단순히 작게 만드는 방식만 사용하지 마세요.
+
+모든 요소를 균일하게 채워 넣지 마세요. 주제와 보조 요소의 위계, 밀도 변화, 여백과 분명한 시각적 초점이 필요합니다.
+
+【4. 조형과 화면 품질】
+
+벚나무:
+줄기에는 굴곡과 가지 분기, 뿌리를 표현하고, 수관은 불규칙한 꽃송이 군집으로 구성하세요.
+빈틈과 두께 변화를 주고 가지가 보이게 하세요. 규칙적인 구체 몇 개나 네모난 덩어리처럼 만들지 마세요.
+
+건축물:
+지붕에는 겹쳐진 기와, 처마, 보와 기둥, 창살을 표현하세요.
+건물마다 용도와 규모, 높이에 차이를 두고, 같은 집 한 채를 복제해 계곡 전체를 채우지 마세요.
+
+지형:
+강변에는 젖은 바위와 풀숲, 식생으로 이어지는 자연스러운 전환을 넣으세요.
+지나치게 규칙적인 계단, 반복되는 줄무늬, 체크무늬와 눈에 띄는 프로시저럴 생성 격자는 피하세요.
+
+수면:
+주변 경관이 비치고, 적당한 물결과 깊이 변화, 강변과의 자연스러운 전환이 반드시 표현되어야 합니다.
+가능하면 실제 장면의 반사를 사용하세요. 성능을 낮춰야 하는 경우에도 시각적으로 자연스러운 결과를 유지해야 합니다.
+깜빡이는 노이즈, 과도한 왜곡이나 파란색 평면 하나로 물을 대신하지 마세요.
+
+디테일:
+비단잉어, 낙화, 반딧불이, 폭포와 멀리 나는 새를 소량 추가할 수 있습니다.
+모든 디테일은 분위기를 살리는 역할을 해야 하며, 화면이 산만해 보이게 해서는 안 됩니다.
+모델 수를 많아 보이게 하려고 디테일을 무작정 쌓지 마세요.
+
+【5. 색상과 분위기】
+
+기본 분위기는 블루 아워입니다.
+차가운 색감의 계곡과 먼 산, 부드러운 분홍빛 벚꽃, 따뜻하지만 과노출되지 않은 등불과 창가의 빛을 표현하세요.
+따뜻한 빛은 사람이 활동하는 장소에 집중하고, 환경 전체를 주황색으로 물들이지 마세요.
+
+부드러운 그림자, 오브젝트가 맞닿는 부분의 명암, 적절한 노출이 필요합니다.
+번짐 효과는 절제하고, 안티앨리어싱과 거리에 따른 층위가 있는 옅은 안개를 적용하세요.
+
+화면이 하얗게 뜨거나 잿빛으로 흐려지지 않게 하고, 과도한 채도와 짙은 안개, 과노출된 조명, 눈에 띄는 계단 현상을 피하세요.
+복셀 형태는 선명하게 보여도 되지만, 렌더링 자체가 거칠어서는 안 됩니다.
+
+추가로 ‘이른 아침’과 ‘비 오는 날’ 두 가지 분위기도 제공하세요.
+전환할 때 하늘, 환경광, 안개와 국소 효과도 함께 변경하고,
+배경색만 바꾸는 데 그치지 마세요.
+
+【6. 인터랙션 및 인터페이스】
+
+완성도 있게 구성한 카메라 시점 네 가지를 제공하세요:
+계곡 전경, 강변 로우 앵글, 사찰 오솔길, 산비탈 부감 시점.
+전환은 부드러워야 하며, 각 시점마다 독립적인 구도상의 가치가 있어야 합니다.
+
+기본 인터랙션:
+마우스를 드래그해 시점을 둘러보고, 휠로 확대·축소하거나 앞으로 이동할 수 있게 하세요. 터치스크린에서는 드래그와 두 손가락 확대·축소를 지원하세요.
+시점 초기화, 인터페이스 숨기기, 현재 화면 저장 기능을 제공하세요.
+
+선택 기능:
+자유 탐색, 느린 카메라 투어, 환경음.
+환경음은 기본적으로 꺼 두고, 사용자가 직접 클릭한 경우에만 재생하세요.
+추가 기능 때문에 기본 화면의 완성도가 떨어져서는 안 됩니다.
+
+인터페이스는 절제되고 세련된 디자인으로 구성하되, 경관이 중심이 되게 하세요.
+제목과 컨트롤 바는 가장자리에 배치해 시각적 초점을 가리지 않게 하세요.
+데스크톱과 모바일 모두에서 버튼이 화면 밖으로 벗어나거나, 텍스트가 겹치거나, 조작할 수 없는 문제가 없어야 합니다.
+
+【7. 개발 및 성능】
+
+Three.js / WebGL과 버전이 고정되고 서로 호환되는 CDN 의존성을 사용할 수 있습니다.
+검증된 렌더링 기능을 우선 사용하고, ‘의존성 없음’을 위해 엔진 전체를 다시 작성하지 마세요.
+
+직접 작성하는 HTML, CSS, JavaScript는 가능한 한 하나의 HTML 파일에 정리하세요.
+장면은 프로시저럴 지오메트리와 머티리얼로 생성하고, 외부 이미지나 3D 모델 리소스에 의존하지 마세요.
+
+반복되는 오브젝트에는 적절한 배치 렌더링 또는 인스턴싱을 사용하세요.
+세분화, 그림자, 반사와 렌더링 해상도를 합리적인 수준으로 제어하세요.
+고화질 모드와 경량 모드를 제공하고, 모바일에서는 기본적으로 가벼운 설정을 사용하세요.
+복셀 수를 무한정 늘려 디테일을 확보하려 하지 마세요.
+
+로딩 안내, WebGL을 지원하지 않을 때의 안내와 필요한 오류 처리를 추가하세요.
+사운드를 켜지 않은 상태에서는 자동 재생하지 말고, 동작 줄이기 시스템 설정을 존중하세요.
+
+【8. 납품 전 검수】
+
+코드 작성이 끝났다고 바로 납품하지 마세요.
+
+현재 환경에서 브라우저 실행과 스크린샷 촬영을 지원한다면, 먼저 페이지를 실제로 열어 보고
+기본 카메라, 네 가지 시점, 분위기 전환, 데스크톱 및 모바일 레이아웃을 점검한 다음,
+스크린샷을 바탕으로 눈에 띄는 구도, 노출, 오브젝트 가림과 렌더링 문제를 수정하세요.
+
+중점적으로 확인할 항목:
+빈 화면, 로딩 실패, 콘솔 오류가 발생하지 않는지 확인하세요.
+클리핑, 깜빡임, 그림자 밴딩, 과다 노출, 수면 이상이 없는지 확인하세요.
+기본 화면이 작은 샌드박스가 아니라 실제로 완성된 경관처럼 보이는지 확인하세요.
+기능 버튼이 실제로 작동하고 모바일에서 화면 밖으로 벗어나지 않는지 확인하세요.
+
+브라우저 스크린샷으로 검수할 수 있지만, 이미지 생성 도구는 호출하지 마세요.
+완료하지 못한 테스트는 사실대로 설명하고, 검증했다고 주장하지 마세요.
+
+최종 납품물:
+1. 실제로 존재하고 열 수 있는 HTML 파일 또는 현재 환경에서 지원하는 인터랙티브 프리뷰.
+2. 스크린샷을 촬영할 수 있다면 실제 브라우저 렌더링 스크린샷 한 장을 첨부하세요.
+3. 조작 방법과 필요한 실행 조건을 간단히 설명하세요.
+
+바로 제작을 완료하세요. 중요하지 않은 세부 사항은 일관된 디자인 원칙에 따라 스스로 결정하고,
+스스로 해결할 수 있는 구현 문제를 반복해서 저에게 결정해 달라고 하지 마세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565403109085669) · [원본 게시물](https://x.com/dotey/status/2102565403109085669) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102547809140355250"></a>
+
+### Hundenberg 사고 모델과 실사풍 영상
+
+[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg 사고 모델과 실사풍 영상"></a>
+
+**프롬프트**
+
+```text
+Blender에서 Hundenberg 모델을 만들고 사고 장면을 실사풍 영상으로 제작해 줘.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102547809140355250) · [원본 게시물](https://x.com/aimanhasnoname/status/2102547809140355250) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102544406117286004"></a>
 
 ### 이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링
@@ -2106,452 +2710,6 @@ I want you to build a completely realistic HD 3D render model in blender, then b
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100193512373592313) · [원본 게시물](https://x.com/basio39/status/2100194321987461503) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100139076816916977"></a>
-
-### 가구가 움직이는 인터랙티브 3D 룸 장면
-
-[Wentao Zhu](https://x.com/walterzhu8) · 2026-09-16 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100139076816916977"><img src="../assets/previews/cfd4d3caf15cb65b29ca3851601f41246df0dbe885c316b2320d20742b9bf364.webp" width="840" loading="lazy" alt="가구가 움직이는 인터랙티브 3D 룸 장면"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/2bee2240-1d9e-488c-aa10-f8882e7b5bb1.png) · [2](https://pbs.twimg.com/media/HSUxfRaWEAAxime.png)
-
-**프롬프트**
-
-```text
-제가 제공한 방 사진을 바탕으로 Blender MCP를 사용해 인터랙티브 3D 장면을 제작하고 데모 영상으로 렌더링하세요. 힌지, 문, 서랍 등 오브젝트가 실제로 움직이도록 구성하고, 이러한 동작이 잘 보이도록 자연스러운 카메라 무브를 사용하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2100139076816916977) · [원본 게시물](https://x.com/walterzhu8/status/2100139076816916977) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099850719839109597"></a>
-
-### 참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작
-
-[妖精アーヤ](https://x.com/aiehon_aya) · 2026-09-15 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099850719839109597"><img src="../assets/previews/c661dcda3ce95f5d91c81e842eac8765adead31524252780a4fa67157826b598.webp" width="840" loading="lazy" alt="참고 이미지로 움직이는 3D 공간과 게임 캐릭터 제작"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/fe8fc9c7-78f7-4702-9ec7-8f1625869a2d.jpg) · [2](https://media.tripogrowth.space/media/aafd4fd9-d485-42ad-b945-ef1056c16867.jpg) · [3](https://pbs.twimg.com/media/HSQqHw5a4AARmX8.jpg) · [4](https://pbs.twimg.com/media/HSQqHxEaEAAeRLp.jpg)
-
-**프롬프트**
-
-```text
-【미리 준비할 것】
-·만들고 싶은 세계관의 참고 이미지(외관·방 등)
-·캐릭터 공식 설정 이미지(삼면도 등)
-　※이미지가 없으면 재현할 수 없습니다. 꼭 첨부해 주세요.
-
-【프롬프트】
-첨부한 이미지를 바탕으로 제 세계관과 캐릭터를 실제로 움직일 수 있는 3D 공간과 게임 캐릭터로 전문가 수준에서 디자인합니다.
-
-① 첨부 이미지를 확인해 집과 캐릭터의 형태·색상·디테일을 파악합니다.
-　↓
-② Tripo에서 이미지로 3D 모델을 생성합니다(정면·후면·측면 전신 이미지 3장을 동일한 가로세로 비율로 준비).
-　↓
-③ Blender로 가져와 파츠의 배치와 크기를 조정합니다.
-　↓
-④ 자동 리깅을 설정하고 걷기·흔들림 등 캐릭터의 개성에 어울리는 동작을 적용합니다.
-　↓
-⑤ 유료 에셋 사용 등 판단이 필요한 분기점이 있으면 진행하기 전에 제게 확인을 요청합니다.
-　↓
-⑥ 작업 내용·막힌 부분·소재 위치를 다른 AI가 읽어도 재현할 수 있는 수준으로 기록합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-【先に用意するもの】
-・作りたい世界観の参考画像（外観・部屋など）
-・キャラクターの正典画像（三面図など）
-　※画像がないと再現できません。添付してねん
-
-【プロンプト】
-添付した画像をもとに私の世界観とキャラクターを実際に動かせる3D空間とゲームのキャラをプロクオリティでデザインします。
-
-① 添付画像を見て、家・キャラクターの形状/色/意匠を確認する
-　↓
-② Tripoで画像から3Dモデルを生成する（正面、背面、サイドの全身の３枚を同じアスペクト比で）
-　↓
-③ Blenderに読み込みパーツの配置・サイズを調整する
-　↓
-④ 自動リグを設定し歩く・揺れる等キャラクターの個性にあう動きをつける
-　↓
-⑤ 判断に迷う分岐（有料アセットを使う等）があれば進める前に私に確認する
-　↓
-⑥ 作業内容・詰まった点・素材の場所を別のAIが読んでも再現できるレベルで記録に残す
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099850719839109597) · [원본 게시물](https://x.com/aiehon_aya/status/2099850721646784894) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099785223827259515"></a>
-
-### 탐험 가능한 절차적 우주 탐험 게임
-
-[developers.openai.com](https://developers.openai.com/) · 2026-09-15 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099785223827259515"><img src="../assets/previews/d63c5e95c6965409ded72dd6d7104ca12b3f458e73fcbd91d3dea1cded250ea4.webp" width="840" loading="lazy" alt="탐험 가능한 절차적 우주 탐험 게임"></a>
-
-**프롬프트**
-
-```text
-제가 볼 수 있는 모든 곳에 도달할 수 있어야 합니다. 거리는 실제 규모로 유지하고, 규모와 속도를 조정해 이동이 실용적으로 느껴지게 만들어 주세요. 우주에서 행성 대기로 진입한 뒤 지상까지 비행할 수 있어야 합니다. 행성은 지구만큼 클 수 있으므로 절차적 지형과 청크 기반 렌더러가 필요합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Everything I can see should be reachable. Keep the distances real, then make travel work through scale and speed. I want to fly from space into a planet’s atmosphere and down to the ground. Planets can be as large as Earth, so we’ll need procedural terrain and a chunked renderer.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099785223827259515) · [원본 게시물](https://developers.openai.com/blog/how-to-build-games-with-astra) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099750376530657300"></a>
-
-### Apple 스타일 3D 하트 및 웃는 이모지
-
-[Sharon Riley](https://x.com/Just_sharon7) · 2026-09-15 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099750376530657300"><img src="../assets/previews/fde4defd421177f112a80f9858d57130b49067bf238fcf3229166aa86a906110.webp" width="840" loading="lazy" alt="Apple 스타일 3D 하트 및 웃는 이모지"></a>
-
-**프롬프트**
-
-```text
-Apple 스타일의 3D 하트 이모지와 웃는 이모지
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-3D Apple style heart emoji and smiling emoji
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099750376530657300) · [원본 게시물](https://x.com/Just_sharon7/status/2099751278234767673) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099719427990134984"></a>
-
-### 인터랙티브 3D 생물체 신경계 패널
-
-[AiMind](https://x.com/AIMind_Ai) · 2026-09-15 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099719427990134984"><img src="../assets/previews/c89e66cbe3dee780c22179018214370e3934ccceb17e86e685f35a8588cb94e3.webp" width="840" loading="lazy" alt="인터랙티브 3D 생물체 신경계 패널"></a>
-
-**프롬프트**
-
-```text
-인터랙티브 패널. 왼쪽에는 [organism]의 신경계 도식과 클릭 가능한 영역을 배치합니다. 오른쪽에는 프로시저럴 리깅이 적용된 3D [organism]을 배치합니다. 영역을 클릭하면 2.5초 동안 운동 반응이 실행됩니다. 어두운 UI와 속도 및 진행 방향 텔레메트리를 사용합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Interactive panel. Left: schematic nervous system of [organism], clickable regions. Right: procedurally rigged 3D [organism]. Clicking a region triggers a 2.5 second motor response. Dark UI, telemetry for speed and heading.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099719427990134984) · [원본 게시물](https://x.com/AIMind_Ai/status/2099719427990134984) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099643231659012553"></a>
-
-### 도망치는 보트가 있는 인터랙티브 화산섬
-
-[Wësche](https://x.com/WescheNex1q) · 2026-09-14 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099643231659012553"><img src="../assets/previews/00ffdd8e68d5e5b179142f34e8cf17875717c0c5f8179cf6ead985187945451b.webp" width="840" loading="lazy" alt="도망치는 보트가 있는 인터랙티브 화산섬"></a>
-
-**프롬프트**
-
-```text
-용암이 흐르고 분화 중 보트가 달아나는 인터랙티브 화산섬을 제작하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-build an interactive volcanic island with flowing lava and boats that flee.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099643231659012553) · [원본 게시물](https://x.com/WescheNex1q/status/2099643231659012553) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099588840419651890"></a>
-
-### 호텔 복도 장면 만들기
-
-[West Lord](https://x.com/MyWestLord) · 2026-09-14 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099588840419651890"><img src="../assets/previews/c94b2048cbc8afec2d6ba31dbf945a52626d37ff238e4956fba89db6c05fbb38.webp" width="840" loading="lazy" alt="호텔 복도 장면 만들기"></a>
-
-**프롬프트**
-
-```text
-호텔 복도 장면 생성
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-create hotel corridor scene
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099588840419651890) · [원본 게시물](https://x.com/MyWestLord/status/2099588840419651890) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099519801139908951"></a>
-
-### 전사가 거인의 몸을 기어올라 턱을 가격하다
-
-[MadMax](https://x.com/MadMax_Series) · 2026-09-14 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099519801139908951"><img src="../assets/previews/45bb7b6dbf60d1178be8c265d2c9f45c7bcc30c1c0b15e4f3f25fbdb0747671b.webp" width="840" loading="lazy" alt="전사가 거인의 몸을 기어올라 턱을 가격하다"></a>
-
-**프롬프트**
-
-```text
-캐릭터 설정:
-성인 남성 산악 전사는 정확히 한 명만 등장합니다.
-전사는 작고 넓으며 매우 강인한 체격입니다. 중세 판타지풍의 독창적인 짙은 건메탈 색 판금 갑옷을 착용합니다. 갑옷은 얼굴을 완전히 덮는 뾰족한 투구, 겹겹의 어깨 판금, 관절형 팔 보호대, 중장갑 건틀릿, 보강 흉갑, 가죽 허리 패널, 짙은색 바지, 강철 각반과 중장갑 부츠로 구성됩니다. 갑옷은 폭풍우에 젖어 낡고 긁힌 상태입니다.
-전사는 양손으로 사용하는 거대한 워해머를 정확히 하나만 소지합니다. 무기에는 보강된 짙은 금속제 긴 자루 하나와, 무겁고 대칭적인 직사각형 해머 헤드 하나가 달려 있습니다. 무기는 전체 시퀀스에서 길이, 형태, 무게가 변하지 않습니다. 전사는 점프, 등반, 공격 중에도 양손으로 무기를 조작합니다.
-거대한 유기체 인간형 거인은 정확히 한 명만 등장하며, 전사 키의 30배가 넘습니다. 거대한 근육질 어깨, 극도로 긴 팔, 거대한 인간형 손, 거칠고 차콜 그레이 색인 피부, 뚜렷한 모공과 흉터, 두꺼운 눈썹, 넓은 코, 강인한 턱, 길고 헝클어진 검은 머리카락을 지녔습니다. 석상, 로봇, 기계 또는 돌 골렘이 아닌 살아 있는 유기체 타이탄입니다.
-추가 전사, 거인 또는 배경 군대는 등장하지 않습니다.
-환경:
-거센 푸른 회색 뇌우가 몰아치는 황량한 고지대 전장입니다. 울퉁불퉁한 지면은 짙고 젖은 흙, 짓눌린 풀, 수천 송이의 작은 연한 색 꽃으로 덮여 있습니다. 강풍이 불규칙한 물결처럼 풀과 꽃을 휘게 합니다.
-화면 왼쪽 먼 언덕에 폐허가 된 중세 요새가 있습니다. 부서진 탑들이 낮게 흐르는 안개 너머로 보입니다. 번개가 간헐적으로 요새와 폭풍 구름을 밝힙니다.
-거인은 전장의 화면 오른쪽을 차지합니다. 전사는 전경 중앙에서 시작해 거인을 향해 달려갑니다. 모든 컷에서 이 지리적 배치와 화면 방향을 유지합니다.
-시간순 액션 및 카메라:
-0.00–3.30 — 거인을 향해 돌진
-갑옷을 입은 전사의 바로 뒤에서 바짝 따라가는 낮은 위치의 트래킹 숏으로 즉시 시작합니다. 전사는 젖은 들판을 힘차게 달려 거대한 거인을 향해 돌진합니다.
-전사는 양손으로 워해머를 몸 앞에 수평으로 들고 있습니다. 무거운 해머 헤드는 화면 오른쪽을 향하고, 자루의 아래쪽은 화면 왼쪽으로 뻗습니다. 부츠가 매 걸음 젖은 지면을 실제로 밟고 누를 때만 흙, 으깨진 꽃과 물방울이 뒤로 튑니다.
-거인의 다리와 거대한 오른손이 프레임 오른쪽 위에서 들어옵니다. 거인은 몸을 숙여 충돌하는 전사를 땅에서 퍼 올리려는 듯 손을 펼쳐 전사 쪽으로 뻗습니다.
-손가락은 그럴듯한 관절과 무게감을 유지하며 서로 독립적으로 움직입니다. 거인이 전사를 갑자기 움켜쥐거나 순간이동시키지 않습니다.
-카메라는 낮고 빠르며 부드럽게 움직여 극단적인 스케일 차이를 강조합니다. 폐허가 된 요새는 먼 화면 왼쪽 수평선에 계속 보입니다.
-3.30–5.80 — 거인의 손으로 도약
-거인의 펼친 손이 전사의 진로를 낮게 가로쓸고 지나갈 때, 전사는 오른쪽 부츠를 지면에 단단히 디딥니다. 무릎을 굽혀 충격을 흡수하고, 엉덩이를 낮춘 뒤 뒷다리로 위쪽을 강하게 밀어냅니다.
-전사는 힘차게 한 번 앞으로 도약합니다.
-거인의 벌어진 손가락 앞에서 상승하는 순간, 제어된 시네마틱 슬로 모션을 사용합니다. 두 다리는 몸 아래에서 살짝 접히고, 양손은 균형을 잡기 위해 같은 워해머를 어깨 위로 들어 올립니다.
-전사는 거인의 중지와 약지 뒷면에 양쪽 부츠로 착지합니다. 부츠가 피부에 닿고, 무릎이 충격을 흡수하며, 거인의 살이 살짝 눌리고, 전사의 갑옷이 착지에 반응하는 명확한 물리적 접촉을 보여줍니다.
-거인은 얼굴 쪽으로 손을 들어 올리기 시작합니다. 전사가 허공에 뜨거나 매달리지 않습니다.
-전사 아래에서 위로 이동하는 역동적인 로우 앵글 크레인 숏을 사용하고, 거대한 손이 배경을 가득 채우게 합니다.
-5.80–9.00 — 팔을 타고 달리기
-빠르고 자연스러운 액션으로 돌아옵니다.
-거인이 팔을 들어 올리는 동안 전사는 손가락에서 손등을 가로질러 손목으로 달려갑니다. 발걸음은 올바른 순서로 번갈아 이어지며, 움직이는 울퉁불퉁한 표면을 발로 확실히 붙잡는 모습이 보입니다.
-거인은 손목을 회전해 전사를 떼어내려 합니다. 전사는 무게 중심을 낮추고 스탠스를 넓히며, 팔이 안정될 때까지 해머를 몸통 가까이에 유지합니다.
-그런 다음 거인의 팔꿈치를 향해 전완을 따라 속도를 높입니다. 매 걸음은 팔의 변화하는 각도를 따라가며, 부츠가 피부 위에서 미끄러지지 않습니다.
-카메라는 전사의 옆쪽이자 약간 아래에서 따라가며 거인의 팔 길이를 따라 상승합니다. 팔의 가까운 부분은 전경을 빠르게 가로지르고, 거인의 머리와 먼 요새는 더 느리게 움직여 강한 시차와 스케일감을 만듭니다.
-9.00–12.00 — 어깨까지 기어오르기
-전사는 거인의 어깨를 향해 가파르게 솟은 상완에 도달합니다.
-한쪽 팔뚝과 워해머 자루를 근육의 자연스러운 능선에 걸어 지렛대로 삼고, 오른쪽 부츠를 디딘 뒤 다리로 밀어 올립니다. 몸을 당겨 한 번의 연결된 등반 동작으로 어깨 위에 올라섭니다.
-거인이 전사 쪽으로 고개를 돌립니다. 눈이 전사를 따라가고, 눈썹이 좁혀지며, 턱이 벌어져 낮고 비언어적인 포효를 냅니다. 고개가 회전하면서 머리카락과 피부도 함께 움직입니다.
-전사는 실제 손과 부츠의 접촉을 통해 어깨에 계속 붙어 있습니다. 거인의 목 밑동을 향해 위쪽 어깨를 대각선으로 가로지르며 올라갑니다.
-전사 전체와 워해머, 거인의 얼굴 옆모습을 같은 프레임에서 명확히 읽을 수 있는 근접 사이드 트래킹 숏을 사용합니다.
-12.00–15.00 — 턱을 향한 전력 해머 타격
-전사는 목 근처의 기울어진 어깨 위에서 안정적인 자세를 잡습니다.
-왼쪽 부츠를 앞에 내딛고 오른쪽 부츠를 뒤에 받칩니다. 두 발이 거인의 피부를 확실히 누르는 모습이 보여야 합니다. 목표에서 엉덩이를 틀어 양손으로 워해머를 뒤로 당깁니다.
-타격 전 준비 동작 전체를 보여줍니다:
-발 디딤 → 무릎 압축 → 엉덩이에 힘을 축적 → 몸통 회전 → 어깨로 해머를 뒤로 당김 → 팔로 무거운 해머 헤드를 시작 위치로 유도.
-13.00초에 전사는 거인의 턱을 향해 양손으로 수평 스윙을 정확히 한 번 완성합니다.
-힘은 다리에서 엉덩이, 몸통, 어깨, 팔을 거쳐 끊김 없이 전달됩니다. 해머 헤드는 명확하고 중단되지 않는 하나의 궤적을 그립니다. 스윙이 끝나기 전에 위치가 순간적으로 바뀌거나 얼굴에 닿지 않습니다.
-14.00초에 결정적인 접촉 순간에만 명시적인 초슬로 모션으로 전환합니다.
-직사각형 해머 헤드의 넓은 타격면이 자루나 손잡이가 아닌 거인의 아래턱 측면을 가격합니다. 충격 지점 주변의 피부와 뺨 조직이 눌리고, 거인의 턱이 옆으로 밀리며, 흩날린 머리카락이 바깥쪽으로 휘고, 비와 먼지와 피부 잔해가 방사형으로 튀는 모습을 보여줍니다.
-전사의 팔은 갑작스러운 감속에 저항합니다. 어깨는 뒤로 젖혀지지만 몸은 제어된 후속 동작을 이어갑니다.
-피, 노출된 조직, 고어 또는 절단은 없습니다.
-15.00–17.30 — 거인의 반동과 전사의 추락
-즉시 자연스러운 속도로 돌아옵니다.
-거인의 머리가 충격으로 옆으로 튕겨 나갑니다. 상체가 뒤로 젖혀지고 가격당한 어깨가 급격히 내려갑니다. 이 갑작스러운 하강으로 전사의 발판이 사라지고, 전사는 거인에게서 멀어지는 방향으로 튕겨 나갑니다.
-전사는 양손으로 같은 워해머를 계속 쥔 채 전장 쪽으로 추락합니다. 허공에 뜨거나 추가로 도약하지 않습니다.
-지면 높이의 사이드 뷰로 컷 전환합니다. 부츠가 먼저 닿고, 무릎이 관성에 의해 꺾인 뒤 한쪽 어깨를 축으로 한 번 구릅니다. 해머 헤드가 전사 옆의 흙을 때려 얕은 도랑을 파고, 젖은 흙과 연한 색 꽃을 바깥으로 튀깁니다.
-거인의 거대한 얼굴이 균형을 되찾으려 몸부림치며 프레임 오른쪽 위로 내려옵니다. 전사를 짓누르거나 전사와 겹쳐 관통하지 않습니다.
-17.30–20.00 — 회복과 마지막 대치
-전사는 낮게 무릎 꿇은 자세로 구르기를 멈춥니다.
-워해머 헤드를 흙에 박고 자루를 양손으로 잡은 뒤, 지지대로 삼아 한쪽 무릎까지 천천히 일어납니다. 이어서 해머를 뽑아 자루를 어깨 앞에 수평으로 가져오고 방어 준비 자세를 취합니다.
-거인은 거대한 머리를 전사 쪽으로 낮춥니다. 턱은 타격으로 눈에 띄게 멍들었지만 의식이 있고 위협적입니다. 거인의 숨결이 풀과 꽃, 안개, 전사의 갑옷에 달린 헐거운 가죽 패널을 흔듭니다.
-전사는 잠시 결연한 자세로 움직임을 멈추지만, 호흡과 갑옷에는 미세하고 자연스러운 움직임이 남아 있습니다.
-번개가 화면 왼쪽의 폐허 요새를 밝히고 두 인물의 윤곽을 드러내며, 압도적인 스케일 차이를 확인시킵니다.
-정확히 20.00초에 낮고 넓은 구도로 끝냅니다. 꽃으로 뒤덮인 전경에서 전사가 워해머를 준비한 채 무릎 꿇고 있고, 그 위로 거인의 얼굴이 내려다보이며, 먼 요새가 폭풍 너머로 보입니다.
-검은 화면으로 페이드아웃하지 않습니다. 프리즈 프레임, 타이틀 또는 엔드 카드를 사용하지 않습니다.
-액션 물리 고정:
-모든 액션은 이해할 수 있는 물리적 인과관계를 따라야 합니다:
-달리기: 발 접촉 → 체중 이동 → 뒷다리로 밀어냄 → 다음 발걸음.
-점프: 발 디딤 → 무릎 압축 → 다리 신전 → 공중 궤적 → 착지 접촉 → 무릎으로 충격 흡수.
-등반: 손 또는 무기 지지 → 부츠 디딤 → 체중 이동 → 위쪽으로 당김.
-해머 타격: 안정적인 발 디딤 → 엉덩이에 힘을 축적 → 몸통 회전 → 어깨 추진 → 끊김 없는 해머 경로 → 넓은 해머 타격면의 접촉 → 저항 → 후속 동작.
-추락: 거인의 반동으로 발판을 잃음 → 중력에 의한 하강 → 부츠 접촉 → 무릎 꺾임 → 어깨 구르기 → 회복.
-전사는 지면, 손, 팔, 어깨 사이를 절대 순간이동하지 않습니다. 거인도 직접적인 물리 접촉이나 눈에 보이는 힘 없이 전사를 움직이지 않습니다.
-동작 속도 규칙:
-0.00–3.30: 빠르고 자연스러운 달리기 속도.
-3.30–5.80: 점프와 착지에 제어된 시네마틱 슬로 모션.
-5.80–13.90: 자연스럽고 빠른 액션.
-13.90–15.00: 해머의 최종 접근, 접촉 및 직후 변형에만 명시적인 초슬로 모션.
-15.00–20.00: 자연스러운 속도로 확실히 복귀.
-전체에 슬로 모션을 적용하지 않습니다. 슬로 모션 중인 캐릭터가 허공에 떠 있지 않게 합니다.
-조명 및 색상:
-차가운 스틸 블루, 차콜 그레이, 채도 낮은 실버 톤의 폭풍 색보정을 유지합니다. 번개는 짧고 차가운 백색의 방향성 조명을 제공합니다. 젖은 갑옷에는 가느다란 실버 하이라이트가 나타나고, 거인의 어두운 피부는 디테일과 가독성을 유지합니다.
-연한 색 꽃은 장면을 화려하게 만들지 않으면서 절제된 따뜻한 아이보리 대비를 제공합니다. 먼 요새 주변의 깊은 대기 안개를 유지합니다. 번개로 인한 노출 변화는 짧아야 하며, 캐릭터의 해부학적 형태를 지우거나 누락된 액션을 가려서는 안 됩니다.
-오디오:
-동기화된 다이제틱 환경음과 액션 효과음만 사용합니다. 배경 음악이나 스코어는 절대 사용하지 않습니다.
-폭풍우, 먼 천둥, 갑옷의 움직임, 무거운 달리기 발소리, 흩날리는 흙, 휘어지는 풀, 거인의 비언어적 호흡과 포효, 거인의 손이 가르는 바람 소리, 전사의 점프, 피부에 닿는 부츠, 등반 충격음, 워해머의 움직임, 한 번의 깊고 금속성인 해머 충격음, 거인의 반동, 추락하며 가르는 바람, 흙에 부딪히는 갑옷, 지면을 때리는 해머 헤드, 마지막으로 가까이서 울리는 번개 소리를 포함합니다.
-대사, 내레이션, 말, 구호, 가사 또는 알아들을 수 있는 언어는 없습니다.
-연속성 및 오류 방지:
-전체 시퀀스에서 전사 한 명, 거인 한 명, 워해머 하나만 등장합니다.
-전사는 거인을 정확히 한 번 올라가며, 결정적인 해머 타격도 정확히 한 번만 수행합니다.
-워해머는 복제되거나 크기가 변하거나 허공에 뜨거나 휘어지지 않습니다. 어느 쪽 몸을 관통하지 않으며, 눈에 보이는 동작 없이 손을 바꾸지도 않습니다.
-모든 숏에서 거인은 동일한 유기체 인간형 생명체로 유지됩니다. 로봇 특징, 석화 변형, 복제된 손, 여분의 손가락 또는 변하는 얼굴은 없습니다.
-전사의 갑옷, 투구, 비율과 손상 상태를 전체 시퀀스에서 유지합니다.
-등반 경로가 물리적으로 가능하도록 거인의 오른손에서 오른팔, 어깨로 이어지는 경로를 유지합니다.
-붙어버린 손, 추가 팔다리, 뒤집힌 관절, 미끄러지는 부츠, 서로 관통하는 몸, 순간이동 또는 근거 없는 부유는 없습니다.
-완전한 스윙이 끝난 뒤 해머의 넓은 헤드가 자루가 아닌 타격면으로 거인의 턱에 닿는 모습이 명확히 보여야 합니다.
-피, 고어, 노출된 조직, 으깨진 인체 또는 절단은 없습니다.
-실사풍 표현, 식별 가능한 프랜차이즈 캐릭터, 자막, 캡션, 로고, UI, 재생 오버레이, 고정된 레터박스 또는 워터마크는 없습니다.
-모든 배경 음악이나 뮤지컬 스코어가 포함되면 생성 실패로 간주합니다.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-CHARACTER REGISTRY:
-Exactly one adult male mountain warrior.
-He has a compact, broad and extremely powerful build. He wears an original dark gunmetal suit of medieval fantasy plate armor: enclosed pointed helmet, layered shoulder plates, articulated arm protection, heavy gauntlets, reinforced breastplate, leather waist panels, dark trousers, steel greaves and heavy armored boots. His armor is weathered, scratched and wet from the storm.
-He carries exactly one enormous two-handed warhammer. It has one long reinforced dark-metal shaft and one heavy symmetrical rectangular hammer head. The weapon remains the same length, shape and weight throughout. He controls it with both hands during jumps, climbing and striking.
-Exactly one colossal organic humanoid giant, more than thirty times the warrior’s height. It has immense muscular shoulders, extremely long arms, huge humanlike hands, coarse charcoal-gray skin, visible pores and scars, a heavy brow, broad nose, powerful jaw and long tangled black hair. It is an organic living titan—not a statue, robot, machine or stone golem.
-No additional warriors, giants or background armies.
-ENVIRONMENT:
-A windswept highland battlefield beneath a violent blue-gray thunderstorm. The uneven ground is covered with dark wet soil, flattened grass and thousands of small pale flowers. Strong wind bends the grass and flowers in irregular waves.
-A ruined medieval fortress stands on a distant hill at screen-left. Broken towers remain visible through low drifting fog. Lightning intermittently illuminates the fortress and storm clouds.
-The giant occupies the battlefield’s screen-right side. The warrior begins in the center foreground, running toward the giant. Preserve this geography and screen direction throughout every cut.
-CHRONOLOGICAL ACTION AND CAMERA:
-0.00–3.30 — CHARGE TOWARD THE GIANT
-Begin immediately with a low rear tracking shot, close behind the armored warrior as he runs powerfully through the wet field toward the colossal giant.
-He carries the warhammer horizontally across his body with both hands. The heavy hammer head remains toward screen-right while the lower shaft extends toward screen-left. His boots compress the wet ground with every step, throwing soil, crushed flowers and droplets backward only after physical contact.
-The giant’s legs and enormous right hand enter from the upper-right side of the frame. The giant bends down and extends its open hand toward the charging warrior, intending to scoop him from the ground.
-The fingers move independently with believable joints and weight. The giant does not instantly grab or teleport the warrior.
-Camera movement remains low, fast and smooth, emphasizing the extreme difference in scale. The ruined fortress stays visible on the distant screen-left horizon.
-3.30–5.80 — LEAP ONTO THE GIANT’S HAND
-As the giant’s open hand sweeps low across the warrior’s path, the warrior plants his right boot firmly into the ground. His knee compresses, hips lower and rear leg drives upward.
-He performs one powerful forward jump.
-Use controlled cinematic slow motion as he rises in front of the giant’s separated fingers. His legs tuck slightly beneath him while both hands raise the same warhammer above his shoulders for balance.
-The warrior lands with both boots on the back of the giant’s middle and ring fingers. Show clear physical contact: boots touch skin, knees absorb impact, the giant’s flesh compresses slightly and the warrior’s armor reacts to the landing.
-The giant begins lifting its hand toward its face. The warrior does not float or hang in empty air.
-Use a dramatic low-angle crane that travels upward beneath the warrior, with the enormous hand filling the background.
-5.80–9.00 — RUNNING UP THE ARM
-Return to fast natural action.
-As the giant raises its arm, the warrior runs from the fingers across the back of the hand and onto the wrist. His footfalls alternate correctly and visibly grip the uneven moving surface.
-The giant rotates its wrist and attempts to shake him loose. The warrior lowers his center of gravity, widens his stance and keeps the hammer close to his torso until the arm stabilizes.
-He then accelerates along the giant’s forearm toward the elbow. Each step follows the arm’s changing angle; his boots do not slide through the skin.
-Camera tracks beside and slightly below him, rising along the length of the giant’s arm. Near parts of the arm cross the foreground quickly while the giant’s head and distant fortress move more slowly, creating powerful parallax and scale.
-9.00–12.00 — CLIMB TO THE SHOULDER
-The warrior reaches the upper arm as it rises steeply toward the giant’s shoulder.
-He hooks one forearm and the warhammer shaft against a natural ridge of muscle for leverage, plants his right boot, pushes through his leg and pulls himself onto the shoulder in one connected climbing action.
-The giant turns its head toward him. Its eye tracks the warrior, its brow tightens and its jaw opens in a deep nonverbal roar. Hair and skin move from the rotation of its head.
-The warrior remains attached to the shoulder through real hand and boot contact. He climbs diagonally across the upper shoulder toward the base of the giant’s neck.
-Use a close side-tracking shot that keeps the complete warrior, warhammer and giant’s facial profile readable in the same frame.
-12.00–15.00 — FULL HAMMER STRIKE TO THE JAW
-The warrior reaches a stable position on the giant’s sloped shoulder near its neck.
-He plants his left boot forward and braces his right boot behind it. Both feet visibly press against the giant’s skin. He rotates his hips away from the target and draws the warhammer backward with both hands.
-Show the complete preparation before impact:
-feet plant → knees compress → hips load → torso rotates → shoulders draw the hammer backward → arms guide the heavy hammer head into its starting position.
-At 13.00 seconds, the warrior releases one complete horizontal two-handed swing toward the giant’s jaw.
-The power travels continuously from his legs through his hips, torso, shoulders and arms. The hammer head follows one clear uninterrupted arc. It does not jump positions or touch the face before the swing is complete.
-At 14.00 seconds, enter explicit ultra slow motion for the decisive contact.
-The rectangular hammer head strikes the side of the giant’s lower jaw with its broad striking face—not the shaft or handle. Show skin and cheek tissue compressing around the impact, the giant’s jaw shifting sideways, loose hair whipping outward and a radial burst of rain, dust and skin debris.
-The warrior’s arms resist the sudden deceleration. His shoulders recoil while his body continues through a controlled follow-through.
-No blood, exposed tissue, gore or dismemberment.
-15.00–17.30 — GIANT RECOIL AND WARRIOR FALL
-Return immediately to natural speed.
-The giant’s head snaps sideways from the impact. Its upper body recoils and the struck shoulder drops sharply. This sudden downward movement removes the warrior’s footing and throws him away from the giant.
-The warrior falls toward the battlefield while retaining the same warhammer with both hands. He does not float or perform an additional jump.
-Cut to a ground-level side view. His boots contact first, his knees collapse under the momentum and he rolls once across one shoulder. The hammer head strikes the soil beside him and digs a shallow trench, throwing wet earth and pale flowers outward.
-The giant’s huge face descends into the upper-right portion of the frame as it struggles to regain balance. It does not crush or intersect the warrior.
-17.30–20.00 — RECOVERY AND FINAL STANDOFF
-The warrior stops his roll in a low kneeling position.
-He plants the warhammer head into the soil, grips the shaft with both hands and uses it as support to rise steadily to one knee. He then pulls the hammer free and brings the shaft horizontally across his shoulders in a prepared defensive posture.
-The giant lowers its enormous head toward him, jaw visibly bruised from the strike but still conscious and threatening. Its breath disturbs the grass, flowers, fog and loose leather panels on the warrior’s armor.
-The warrior remains motionless only for a brief determined beat while his breathing and armor retain subtle natural movement.
-A lightning strike illuminates the ruined fortress at screen-left, outlining both figures and confirming their immense difference in scale.
-End exactly at 20.00 seconds on a low wide composition: the warrior kneeling in the flower-covered foreground with the warhammer ready, the giant’s face looming above him and the distant fortress visible through the storm.
-Do not fade to black. No freeze frame, title or end card.
-ACTION-PHYSICS LOCK:
-Every action must follow readable physical causality:
-Running: foot contact → weight transfer → rear-leg push → next step.
-Jump: planted foot → knee compression → leg extension → airborne trajectory → landing contact → knee absorption.
-Climbing: hand or weapon support → planted boot → body-weight transfer → upward pull.
-Hammer strike: stable feet → hip loading → torso rotation → shoulder drive → continuous hammer path → broad hammer-face contact → resistance → follow-through.
-Fall: lost footing caused by the giant’s recoil → gravity-driven descent → boot contact → knee collapse → shoulder roll → recovery.
-The warrior never teleports between the ground, hand, arm or shoulder. The giant never moves the warrior without direct physical contact or a visible force.
-MOTION-SPEED RULES:
-0.00–3.30: fast natural running speed.
-3.30–5.80: controlled cinematic slow motion for the jump and landing.
-5.80–13.90: natural fast action.
-13.90–15.00: explicit ultra slow motion only for the hammer’s final approach, contact and immediate deformation.
-15.00–20.00: clear return to natural speed.
-Do not apply global slow motion. Do not allow slow-motion characters to hover.
-LIGHTING AND COLOR:
-Maintain a cold steel-blue, charcoal-gray and desaturated silver storm grade. Lightning provides brief cold-white directional illumination. Wet armor receives narrow silver highlights, while the giant’s dark skin remains detailed and readable.
-The pale flowers provide restrained warm ivory contrast without making the scene colorful. Preserve deep atmospheric fog around the distant fortress. Lightning exposure changes must be brief and must not erase character anatomy or hide missing actions.
-AUDIO:
-Only synchronized diegetic environmental and action sound effects. Absolutely no background music or score.
-Include storm wind, distant thunder, armor movement, heavy running footfalls, disturbed soil, bending grass, the giant’s nonverbal breathing and roar, the rush of its hand, the warrior’s jump, boots contacting skin, climbing impacts, warhammer movement, one deep metallic hammer impact, the giant’s recoil, falling air, armor striking soil, the hammer head hitting the ground and a final nearby lightning crack.
-No dialogue, narration, spoken words, chants, lyrics or intelligible language.
-CONTINUITY AND FAILURE PREVENTION:
-Exactly one warrior, one giant and one warhammer throughout.
-The warrior climbs the giant once and performs exactly one decisive hammer strike.
-The warhammer never duplicates, changes size, floats, bends, passes through either body or switches hands without visible motion.
-The giant remains the same organic humanoid creature in every shot. No robotic features, stone transformation, duplicated hands, extra fingers or changing face.
-Preserve the warrior’s armor, helmet, proportions and damage throughout.
-Preserve the giant’s right-hand-to-right-arm-to-shoulder route so the climbing geography remains physically possible.
-No fused hands, extra limbs, reversed joints, sliding boots, intersecting bodies, teleportation or unsupported hovering.
-The hammer’s broad head—not its shaft—must visibly contact the giant’s jaw after the complete swing.
-No blood, gore, exposed tissue, crushed human body or dismemberment.
-No live-action appearance, recognizable franchise characters, subtitles, captions, logos, UI, playback overlays, permanent black bars or watermarks.
-Any background music or musical score is a failed generation.
-music=0; no_music=1; strict_no_music=1; audio=diegetic_only.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099519801139908951) · [원본 게시물](https://x.com/MadMax_Series/status/2099519801139908951) · [사례 목록으로](#all-prompts)
 
 ---
 

@@ -28,6 +28,14 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [宇宙探索と交易のゲーム](#space-exploration-and-trading-game-2095191999255035993)
+- [GTA 風マルチプレイオープンワールドの試作](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
+- [コミック表現の Three.js カウボーイゲーム](#comic-book-three-js-cowboy-game-2095180091257209148)
+- [人間対アラインメントされていない AGI のゲーム](#human-versus-unaligned-agi-game-2095180071221002441)
+- [Blender の鉄球による破壊物理テスト](#blender-wrecking-ball-physics-test-2095177102400081940)
+- [企業共和国の迎撃ドローンアセット](#corporate-interceptor-drone-asset-2095176360238915978)
+- [フルティガーエアロの 3D 世界](#frutiger-aero-3d-world-2095171470607728926)
+- [10 シーンで描く映画的なルネサンスサイト](#ten-scene-cinematic-renaissance-website-2095167881004908897)
 - [ペットのヤギと過ごす仮想の島](#virtual-island-with-a-pet-goat-2095165578042335442)
 - [操作して学べる 3D 太陽系](#interactive-3d-solar-system-2095165395841999222)
 - [正距円筒図法パノラマから作る都市](#city-from-an-equirectangular-panorama-2095159781883597031)
@@ -70,16 +78,168 @@
 - [テクスチャ付き 3D アセットの制作手順](#textured-3d-asset-production-workflow-2094896750234378508)
 - [物理を使った 3 つのミニゲーム案](#three-compact-physics-game-concepts-2094895071304839400)
 - [Three.js で作る AAA 品質のカートレース](#aaa-kart-racing-game-in-three-js-2094894312370692443)
-- [一度で作る Three.js 空港シミュレーション](#one-shot-three-js-airport-simulation-2094893572617044439)
-- [五重塔を中心に浮かぶ和風都市](#floating-japanese-pagoda-city-2094886088963690607)
-- [Three.js で作る Airbus H145](#airbus-h145-in-three-js-2094882571083735351)
-- [第一次世界大戦のボクセルシミュレーター](#world-war-i-voxel-simulator-2094881469155914170)
-- [プライベートアイランドの未来的な邸宅](#futuristic-private-island-mansion-2094879208304685524)
-- [手続き生成する Three.js の世界](#procedurally-generated-three-js-world-2094873862315843910)
-- [3D の脳を巡る信号を操作して観察](#interactive-3d-human-brain-signals-2094873080590225728)
-- [フォトリアルな Three.js の風景](#photorealistic-three-js-landscape-2094871858206191667)
 
 </details>
+<a id="space-exploration-and-trading-game-2095191999255035993"></a>
+
+### 宇宙探索と交易のゲーム
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/space-exploration-and-trading-game-2095191999255035993"><img src="../assets/previews/a0bc98b28ba06884465f63e1d6293d03c148e0808f879e757285ca6633f6f05d.webp" width="840" loading="lazy" alt="宇宙探索と交易のゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+操縦できる宇宙船、恒星系、ステーション、商品、契約、強化、リスク、旅を続けたくなる流れを備えた宇宙探索・交易ゲームを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/space-exploration-and-trading-game-2095191999255035993) · [元の投稿](https://x.com/RealFedeURU/status/2095191999255035993) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gta-style-open-world-multiplayer-prototype-2095187868746383758"></a>
+
+### GTA 風マルチプレイオープンワールドの試作
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758"><img src="../assets/previews/d72949ad33c55b1e8eb6a07c3c7692829b646937d52f934a6f46e8b4c346c8a3.webp" width="840" loading="lazy" alt="GTA 風マルチプレイオープンワールドの試作"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ニューヨークを舞台にした、GTA 風オープンワールドの初期マルチプレイ試作を作成してください。運転、徒歩移動、都市交通、ミッション、街が生きていると感じるゲームの流れを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gta-style-open-world-multiplayer-prototype-2095187868746383758) · [元の投稿](https://x.com/mattshumer_/status/2095187868746383758) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="comic-book-three-js-cowboy-game-2095180091257209148"></a>
+
+### コミック表現の Three.js カウボーイゲーム
+
+[smallzer0](https://x.com/Smallzero) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148"><img src="../assets/previews/73ce602f62d2d198ce4fbefcd8763ebc34d0201c85cb8445bf2deeaab5d0cd80.webp" width="840" loading="lazy" alt="コミック表現の Three.js カウボーイゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Sunset Riders のアーケードらしい勢いとコミック調の描画を組み合わせた、理想の Three.js カウボーイゲームを作成してください。反応のよい射撃、騎乗アクション、印象に残る見せ場を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/comic-book-three-js-cowboy-game-2095180091257209148) · [元の投稿](https://x.com/Smallzero/status/2095180091257209148) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="human-versus-unaligned-agi-game-2095180071221002441"></a>
+
+### 人間対アラインメントされていない AGI のゲーム
+
+[Lucas Bai](https://x.com/lucasybai) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441"><img src="../assets/previews/ebe58811af40683dbf159a65730503dc69dc9abda88c1fa9b0474e4c367f44cc.webp" width="840" loading="lazy" alt="人間対アラインメントされていない AGI のゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+人間がアラインメントされていない AGI とその配下のロボットに立ち向かう Three.js ゲームを一度で作成してください。明快な戦闘の流れ、強くなる敵の波、最終目標を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/human-versus-unaligned-agi-game-2095180071221002441) · [元の投稿](https://x.com/lucasybai/status/2095180071221002441) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="blender-wrecking-ball-physics-test-2095177102400081940"></a>
+
+### Blender の鉄球による破壊物理テスト
+
+[Abyssal](https://x.com/abyssallD) · 2026-09-02 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940"><img src="../assets/previews/fe3cbaed40c6d3d64ea793709263272a6e33268e3546ec41bb32ec841fafb0c3.webp" width="840" loading="lazy" alt="Blender の鉄球による破壊物理テスト"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+吊られた鉄球がレンガの塔に衝突する、焦点を絞った Blender 物理テストを作成してください。自然なケーブルの挙動、レンガの崩壊、地面との衝突、状況の分かるカメラを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blender-wrecking-ball-physics-test-2095177102400081940) · [元の投稿](https://x.com/abyssallD/status/2095177102400081940) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="corporate-interceptor-drone-asset-2095176360238915978"></a>
+
+### 企業共和国の迎撃ドローンアセット
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978"><img src="../assets/previews/3a939b768d3e9dcaf727f4b7b1337fedfbd4baa2278227ff1e3fb64be3523fd0.webp" width="840" loading="lazy" alt="企業共和国の迎撃ドローンアセット"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+企業共和国陣営向けの、ゲームで使える重迎撃ドローンを作成してください。強いシルエット、交換式武装、伝わりやすいスケール、素材、リアルタイムアセットの制約を考慮してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/corporate-interceptor-drone-asset-2095176360238915978) · [元の投稿](https://x.com/gladimdim/status/2095176360238915978) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="frutiger-aero-3d-world-2095171470607728926"></a>
+
+### フルティガーエアロの 3D 世界
+
+[Oliver Benns](https://x.com/oliverbenns) · 2026-09-02 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/frutiger-aero-3d-world-2095171470607728926"><img src="../assets/previews/5fb666acd6c19622f9384b8a9ae96cceb2c0c70511bdf11ee634a7c06bb745c9.webp" width="840" loading="lazy" alt="フルティガーエアロの 3D 世界"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+2000 年代初頭のフルティガーエアロに着想を得た、小さなインタラクティブ 3D 世界を作成してください。明るい草原、澄んだ水、泡、半透明のガラス形状、前向きな雰囲気の環境音を取り入れてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/frutiger-aero-3d-world-2095171470607728926) · [元の投稿](https://x.com/oliverbenns/status/2095171470607728926) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="ten-scene-cinematic-renaissance-website-2095167881004908897"></a>
+
+### 10 シーンで描く映画的なルネサンスサイト
+
+[Henry Fan](https://x.com/Henry_Fan_lh) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897"><img src="../assets/previews/febb9ddae37551f999965ed7c97eb2238d855a732287a1f0570beff5b12ae7f9.webp" width="840" loading="lazy" alt="10 シーンで描く映画的なルネサンスサイト"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ルネサンス絵画、編集デザイン的な文字組み、GSAP の遷移、WebGL の粒状表現、「世界を発明する」というテーマを組み合わせた、10 シーンの映画的なブラウザ体験を作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ten-scene-cinematic-renaissance-website-2095167881004908897) · [元の投稿](https://x.com/Henry_Fan_lh/status/2095167881004908897) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="virtual-island-with-a-pet-goat-2095165578042335442"></a>
 
 ### ペットのヤギと過ごす仮想の島
@@ -933,166 +1093,6 @@ GTA 6 に着想を得たオープンワールドゲームを試作してくだ�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [元の投稿](https://x.com/bridgemindai/status/2094894312370692443) · [ソースコード](https://github.com/bridge-mind/turbo-kart-rush) · [デモ](https://bridge-mind.github.io/turbo-kart-rush/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
-
-### 一度で作る Three.js 空港シミュレーション
-
-[Alex - i do YouTube](https://x.com/AlexYTScaling) · 2026-09-01 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439"><img src="../assets/previews/9e08c2528800717054b963840c3f091364a79e1a72dc242ca544e37d60e9479c.webp" width="840" loading="lazy" alt="一度で作る Three.js 空港シミュレーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-滑走路、ターミナル、飛行機の地上走行と離陸、地上車両、時間帯で変わる光、全体を見渡すカメラを備えた Three.js 空港シミュレーションを一度で作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-airport-simulation-2094893572617044439) · [元の投稿](https://x.com/AlexYTScaling/status/2094893572617044439) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="floating-japanese-pagoda-city-2094886088963690607"></a>
-
-### 五重塔を中心に浮かぶ和風都市
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/floating-japanese-pagoda-city-2094886088963690607"><img src="../assets/previews/997e3aa77838a5b854f413269e780ebeda6d44fe2b9cba633e44df54f236309d.webp" width="840" loading="lazy" alt="五重塔を中心に浮かぶ和風都市"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-精巧な仏塔を中心にした、操作できる空中の和風都市を作成してください。重なる島、橋、霧、灯籠の光、映画的な飛行操作を取り入れてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floating-japanese-pagoda-city-2094886088963690607) · [元の投稿](https://x.com/vib3coded/status/2094886088963690607) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="airbus-h145-in-three-js-2094882571083735351"></a>
-
-### Three.js で作る Airbus H145
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-01 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/airbus-h145-in-three-js-2094882571083735351"><img src="../assets/previews/60fb258481d14ee63db1bab8c2b7b44f1858262168511f78b343f09e95d420d1.webp" width="840" loading="lazy" alt="Three.js で作る Airbus H145"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js で Airbus H145 ヘリコプターの 3D モデルを作成してください。キャビン、スキッド式着陸装置、ローター機構の特徴を再現し、細部を観察できるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/airbus-h145-in-three-js-2094882571083735351) · [元の投稿](https://x.com/HarshithLucky3/status/2094882571083735351) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="world-war-i-voxel-simulator-2094881469155914170"></a>
-
-### 第一次世界大戦のボクセルシミュレーター
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/world-war-i-voxel-simulator-2094881469155914170"><img src="../assets/previews/a2a683020d1376909d2ae03e9e6d6d88692fe3f81950006fa1e2d5027a4e392d.webp" width="840" loading="lazy" alt="第一次世界大戦のボクセルシミュレーター"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-塹壕、兵士、車両、大砲、破壊表現、状況を把握しやすい戦術カメラを備えた、第一次世界大戦のボクセル戦場シミュレーターを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/world-war-i-voxel-simulator-2094881469155914170) · [元の投稿](https://x.com/Tech2Wild/status/2094881469155914170) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="futuristic-private-island-mansion-2094879208304685524"></a>
-
-### プライベートアイランドの未来的な邸宅
-
-[AI/ML API](https://x.com/aimlapi) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/futuristic-private-island-mansion-2094879208304685524"><img src="../assets/previews/6b87b81a629c8c9dfa4c651864c0960401dba01390480871acc3addd95477bfd.webp" width="840" loading="lazy" alt="プライベートアイランドの未来的な邸宅"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-私有島に建つ未来的な邸宅を、探索できる空間として設計してください。つながった 5 つの Three.js シーン、映画的カメラ移動、上質な素材、環境から伝わる物語で表現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/futuristic-private-island-mansion-2094879208304685524) · [元の投稿](https://x.com/aimlapi/status/2094879208304685524) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="procedurally-generated-three-js-world-2094873862315843910"></a>
-
-### 手続き生成する Three.js の世界
-
-[Swarogan](https://x.com/swarogan) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/procedurally-generated-three-js-world-2094873862315843910"><img src="../assets/previews/3881c0c6a09af024b129fc99f8cc19d56db8af99102e5351d563c7060cf37889.webp" width="840" loading="lazy" alt="手続き生成する Three.js の世界"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-一つのプロンプトから、多様な地形、バイオーム、見どころ、生き物、滑らかな探索操作を備えた Three.js の世界を手続き生成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedurally-generated-three-js-world-2094873862315843910) · [元の投稿](https://x.com/swarogan/status/2094873862315843910) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-3d-human-brain-signals-2094873080590225728"></a>
-
-### 3D の脳を巡る信号を操作して観察
-
-[Greg](https://x.com/GregFeingold) · 2026-09-01 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728"><img src="../assets/previews/a7d4ce45672cc261d023c6fbd442505bc1bb41a47de55ef3f91e38664c8e98f3.webp" width="840" loading="lazy" alt="3D の脳を巡る信号を操作して観察"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-大脳皮質のしわが分かる操作可能な 3D 人体脳を作成してください。EEG または MEG に着想を得た可視化で、文のような信号が脳領域を移る様子をアニメーションにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-human-brain-signals-2094873080590225728) · [元の投稿](https://x.com/GregFeingold/status/2094873080590225728) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="photorealistic-three-js-landscape-2094871858206191667"></a>
-
-### フォトリアルな Three.js の風景
-
-[Alix Ollivier](https://x.com/aollivier82) · 2026-09-01 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/photorealistic-three-js-landscape-2094871858206191667"><img src="../assets/previews/ab303300df416dfcd66f944b8d94d3fe7d5b0257f25aaac2bf665daef9d0a5dc.webp" width="840" loading="lazy" alt="フォトリアルな Three.js の風景"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-説得力のある地形、植生、空、水、奥行き、照明を備えたフォトリアルな Three.js 風景を作成してください。環境を自然に見せるカメラパスも用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/photorealistic-three-js-landscape-2094871858206191667) · [元の投稿](https://x.com/aollivier82/status/2094871858206191667) · [作例一覧に戻る](#all-prompts)
 
 ---
 
