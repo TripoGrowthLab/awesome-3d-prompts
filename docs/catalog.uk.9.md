@@ -28,6 +28,12 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Океанська пісочниця від першої особи під дощем](#rainy-first-person-ocean-sandbox-2094900247000654222)
+- [Летючий воксельний острів](#floating-voxel-island-2094899802588713418)
+- [Живе воксельне середньовічне королівство](#living-voxel-medieval-kingdom-2094899477626720403)
+- [Процес створення текстурованого 3D-асета](#textured-3d-asset-production-workflow-2094896750234378508)
+- [Три невеликі фізичні мініігри](#three-compact-physics-game-concepts-2094895071304839400)
+- [Картингові перегони AAA-рівня на Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 - [Симуляція аеропорту на Three.js за один запит](#one-shot-three-js-airport-simulation-2094893572617044439)
 - [Летюче японське місто з пагодою](#floating-japanese-pagoda-city-2094886088963690607)
 - [Airbus H145 на Three.js](#airbus-h145-in-three-js-2094882571083735351)
@@ -72,14 +78,130 @@
 - [Промпт Three.js: японська приміська вулиця в мальованому аніме-стилі](#explorable-anime-style-japanese-street-2080834581247435102)
 - [Браузерна гра в дусі Counter-Strike з Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Промпт Kimi K3 для хованок за один запит](#one-shot-hide-and-seek-game-2080806989169307780)
-- [Завдання процедурного моделювання зброї Three.js для Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
-- [Три промпти процедурної зброї Three.js в одному HTML-файлі](#procedural-guns-in-single-file-three-js-2080757148078768504)
-- [Промпт Kimi K3 для міського кварталу Three.js, що змінюється](#transforming-three-js-city-block-scene-2080724552422924382)
-- [Промпт Claude Opus 5: орнітоптер Леонардо да Вінчі на Three.js](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
-- [Клон Angry Birds з унікальними птахами й кількома рівнями](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
-- [Завдання 3D-стадіону для порівняння Claude Fable 5 і Kimi K3](#3d-soccer-stadium-2080473039834333229)
 
 </details>
+<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
+
+### Океанська пісочниця від першої особи під дощем
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="Океанська пісочниця від першої особи під дощем"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи 3D-пісочницю океану від першої особи з хвилями, краплями дощу й атмосферним світлом. Дай глядачеві досліджувати воду через камеру з відчуттям присутності.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [Оригінальний допис](https://x.com/TimJayas/status/2094900247000654222) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="floating-voxel-island-2094899802588713418"></a>
+
+### Летючий воксельний острів
+
+[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="Летючий воксельний острів"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи летючий воксельний острів із виразними шарами рельєфу, рослинністю, водою, спорудами, фоновим рухом і камерою для кругового огляду всієї сцени.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/floating-voxel-island-2094899802588713418) · [Оригінальний допис](https://x.com/loktar00/status/2094899802588713418) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
+
+### Живе воксельне середньовічне королівство
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="Живе воксельне середньовічне королівство"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи велике воксельне середньовічне королівство з тисячами солдатів, працьовитими жителями, облоговими системами, руйнованими спорудами й драконом, здатним змінити перебіг битви.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [Оригінальний допис](https://x.com/knowixbuilds/status/2094899477626720403) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
+
+### Процес створення текстурованого 3D-асета
+
+[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="Процес створення текстурованого 3D-асета"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Перетвори референс на охайний 3D-асет, виправ нормалі й матеріали в Blender, потім створи готові до використання текстури в Substance Painter.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [Оригінальний допис](https://x.com/MrCollison/status/2094896750234378508) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
+
+### Три невеликі фізичні мініігри
+
+[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="Три невеликі фізичні мініігри"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи три якісні мініігри: смугу перешкод для липкої кульки, річковий серфінг із капібарою та ухиляння від пельменів на конвеєрі. Кожна має мати зрозуміле керування, очки й умову програшу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [Оригінальний допис](https://x.com/atomicagent_io/status/2094895071304839400) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
+
+### Картингові перегони AAA-рівня на Three.js
+
+[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · Ігри
+
+Ремікс роботи: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Картингові перегони AAA-рівня на Three.js"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи картингову гру AAA-рівня на Three.js із відшліфованим водінням, виразними трасами, суперниками, предметами, інтерфейсом, звуком і повноцінним ігровим циклом перегонів.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Оригінальний допис](https://x.com/bridgemindai/status/2094894312370692443) · [Вихідний код](https://github.com/bridge-mind/turbo-kart-rush) · [Демо](https://bridge-mind.github.io/turbo-kart-rush/) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
 
 ### Симуляція аеропорту на Three.js за один запит
@@ -1102,125 +1224,6 @@ CLAUDE OPUS 5 створив клон minecraft за 30 хвилин за про
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Оригінальний допис](https://x.com/0x_scalp/status/2080806989169307780) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
-
-### Завдання процедурного моделювання зброї Three.js для Claude Fable 5
-
-[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Завдання процедурного моделювання зброї Three.js для Claude Fable 5"></a>
-
-**Промпт**
-
-```text
-The Hype порівняв Claude Opus 5, Fable 5, GPT-5.6 Sol і Kimi K3 на цілком однакових інженерних завданнях процедурного моделювання Three.js.
-
-Кожна модель мала створити:
-• M4 Carbine
-• Glock 18C
-• Steyr TMP
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Оригінальний допис](https://x.com/adxtyahq/status/2080759312008503365) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
-
-### Три промпти процедурної зброї Three.js в одному HTML-файлі
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Три промпти процедурної зброї Three.js в одному HTML-файлі"></a>
-
-**Промпт**
-
-```text
-наш тест — 3 промпти, один html-файл, @threejs, усе процедурно, без асетів. кожна модель має маленьку кнопку вогню (постріл через web audio + спалах біля дула + віддача + викидання гільзи) і перемикач розбирання, який розносить зброю на підписані деталі та збирає назад:
-
-1. карабін m4 5,56 — телескопічний приклад, нижня частина ствольної коробки з режимами запобіжник·одиночний·черга, чотири планки з номерами панелей r14–r28, коліматор aimpoint, вертикальне переднє руків’я, складані сошки, полум’ягасник a2, розбирання на 10 частин
-
-2. glock 18c — автоматичний пістолет із вибором режиму вогню, компенсаційні прорізи 18c, маркування «glock 18c / austria 9x19», подовжений магазин на 33 набої; неповне розбирання на затвор, ствол з отворами, зворотну пружину, рамку й магазин
-
-3. steyr tmp — ребристий полімерний корпус, ствол із різьбою, вбудоване переднє вертикальне руків’я, похилий напівпрозорий магазин на 30 набоїв
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Оригінальний допис](https://x.com/thehypedotnews/status/2080757148078768504) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
-
-### Промпт Kimi K3 для міського кварталу Three.js, що змінюється
-
-[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Промпт Kimi K3 для міського кварталу Three.js, що змінюється"></a>
-
-**Промпт**
-
-```text
-Я дав йому жорсткий промпт Three.js: створи один міський квартал, що змінюється з 1945 до 2055 року, зі зміною будівель, машин, крамниць, натовпів, освітлення та звукових ефектів в одному HTML-файлі.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Оригінальний допис](https://x.com/ggg78g89/status/2080724552422924382) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
-
-### Промпт Claude Opus 5: орнітоптер Леонардо да Вінчі на Three.js
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Промпт Claude Opus 5: орнітоптер Леонардо да Вінчі на Three.js"></a>
-
-**Промпт**
-
-```text
-орнітоптер леонардо да вінчі на three js
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Оригінальний допис](https://x.com/HarshithLucky3/status/2080720533277319587) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
-
-### Клон Angry Birds з унікальними птахами й кількома рівнями
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Клон Angry Birds з унікальними птахами й кількома рівнями"></a>
-
-**Промпт**
-
-```text
-Створи клон Angry Birds з унікальними птахами, кількома рівнями та механіками.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Оригінальний допис](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="3d-soccer-stadium-2080473039834333229"></a>
-
-### Завдання 3D-стадіону для порівняння Claude Fable 5 і Kimi K3
-
-[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Завдання 3D-стадіону для порівняння Claude Fable 5 і Kimi K3"></a>
-
-**Промпт**
-
-```text
-Розробник порівняв моделі, давши їм однакове завдання: «побудувати 3D-футбольний стадіон».
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Оригінальний допис](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Назад до прикладів](#all-prompts)
 
 ---
 

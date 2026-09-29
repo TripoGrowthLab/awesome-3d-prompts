@@ -29,7 +29,7 @@
 
 汇集 Astra、Claude、Kimi 等模型的 3D 创作案例，覆盖游戏、场景、模型资产、动画与互动体验。 每条案例保留作者与来源；先看效果，再复制提示词，改成自己的作品。
 
-**460 条案例 · 6 个模型 · 14 种语言 · 17 条附源码**
+**466 条案例 · 6 个模型 · 14 种语言 · 17 条附源码**
 
 [开始使用](#start-here) · [按用途浏览](#browse) · [最新案例](#latest) · [完整目录](docs/catalog.zh.md) · [项目源码](docs/with-code.md)
 
@@ -47,20 +47,20 @@
 
 | 按用途浏览 | 案例 |
 | :--- | ---: |
-| [游戏](docs/catalog.zh.md#category-games) | 123 |
+| [游戏](docs/catalog.zh.md#category-games) | 125 |
 | [场景](docs/catalog.zh.md#category-3d-scenes) | 100 |
-| [资产](docs/catalog.zh.md#category-3d-assets) | 56 |
-| [互动](docs/catalog.zh.md#category-interactive-3d) | 91 |
-| [动画](docs/catalog.zh.md#category-animation-simulation) | 87 |
+| [资产](docs/catalog.zh.md#category-3d-assets) | 57 |
+| [互动](docs/catalog.zh.md#category-interactive-3d) | 92 |
+| [动画](docs/catalog.zh.md#category-animation-simulation) | 89 |
 | [其他](docs/catalog.zh.md#category-other) | 3 |
 
 ### 按模型浏览
 
 | 按模型浏览 | 案例 |
 | :--- | ---: |
-| [GPT-6 Astra](docs/catalog.zh.md#model-gpt-6-astra) | 295 |
+| [GPT-6 Astra](docs/catalog.zh.md#model-gpt-6-astra) | 298 |
 | [Claude Fable 5.1](docs/catalog.zh.md#model-claude-fable-5-1) | 79 |
-| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 42 |
+| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 45 |
 | [Kimi K3](docs/catalog.zh.md#model-kimi-k3) | 20 |
 | [Claude Fable 5](docs/catalog.zh.md#model-claude-fable-5) | 18 |
 | [Claude Opus 5](docs/catalog.zh.md#model-claude-opus-5) | 13 |
@@ -73,8 +73,8 @@
 <td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="assets/featured/jelly-jungle-3d-browser-game-2081024333120733188.webp" width="420" alt="果冻丛林：3D 平台跳跃游戏"></a><br><strong><a href="docs/catalog.zh.9.md#jelly-jungle-3d-browser-game-2081024333120733188">果冻丛林：3D 平台跳跃游戏</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.zh.9.md#jelly-jungle-3d-browser-game-2081024333120733188">提示词 →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" alt="AKARI：名古屋屋顶火炬接力"></a><br><strong><a href="docs/catalog.zh.2.md#akari-nagoya-rooftop-flame-relay">AKARI：名古屋屋顶火炬接力</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="docs/catalog.zh.2.md#akari-nagoya-rooftop-flame-relay">提示词 →</a></td>
-<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/cyclops-island-threejs-game"><img src="assets/featured/cyclops-island-threejs-game.webp" width="420" alt="独眼巨人之岛"></a><br><strong><a href="docs/catalog.zh.2.md#cyclops-island-threejs-game">独眼巨人之岛</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.zh.2.md#cyclops-island-threejs-game">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="assets/featured/akari-nagoya-rooftop-flame-relay.webp" width="420" alt="AKARI：名古屋屋顶火炬接力"></a><br><strong><a href="docs/catalog.zh.3.md#akari-nagoya-rooftop-flame-relay">AKARI：名古屋屋顶火炬接力</a></strong><br><sub><a href="https://growthengineer.space/">Jared</a></sub><br><a href="docs/catalog.zh.3.md#akari-nagoya-rooftop-flame-relay">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://www.tripo3d.ai/zh/3d-prompts/cyclops-island-threejs-game"><img src="assets/featured/cyclops-island-threejs-game.webp" width="420" alt="独眼巨人之岛"></a><br><strong><a href="docs/catalog.zh.3.md#cyclops-island-threejs-game">独眼巨人之岛</a></strong><br><sub><a href="https://x.com/jaredliu_bravo">Jared</a></sub><br><a href="docs/catalog.zh.3.md#cyclops-island-threejs-game">提示词 →</a></td>
 </tr>
 </table>
 
@@ -82,7 +82,292 @@
 
 ## 最新案例
 
-[完整目录 (460) →](docs/catalog.zh.md)
+[完整目录 (466) →](docs/catalog.zh.md)
+
+<a id="gpt-6-astra-2104590493191479337"></a>
+
+### 用于强度测试的可 3D 打印 J 形挂钩
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104590493191479337"><img src="assets/previews/d878c00828b551d7a80fe45eaf7bc5e363192ba0200a2335b721eaaef66fae7f.webp" width="840" loading="lazy" alt="用于强度测试的可 3D 打印 J 形挂钩"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+设计一个用于强度测试的可 3D 打印 J 形挂钩。
+挂钩悬挂在直径 8 mm 的钢杆上。一根直径 8 mm 的销钉放置在钩嘴处，砝码通过这根销钉悬挂。我希望在钢杆或销钉不会滑出的前提下，获得尽可能高的断裂载荷。
+规则：
+- 只能有一个打印件。不得使用螺钉、嵌件、胶水或其他额外零件。
+- 必须能够徒手卡扣到钢杆和销钉上。不得设计成封闭环。
+- 销钉座中心之间的间距为 40 mm。
+- 材料为 PLA。打印完成后的质量不得超过 35 g。
+- 必须适配 80 × 60 × 25 mm 的尺寸范围。
+- 销钉必须至少向上抬起 10 mm 才能脱出。如果销钉可以从侧面滚出，则该设计无效。
+请提供：
+1. 对形状的简短说明。
+2. 一份完整的 OpenSCAD 文件，我可以编译并导出为 STL，以便在 Bambu Studio 中使用。
+不要提供 STL 文本。不要提供 G-code。只能使用 OpenSCAD。如果第一个方案会滑脱，请在同一答案中替换为不会滑脱的方案。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Design one 3D-printable J-hook for a strength test.
+The hook hangs from an 8 mm steel bar. An 8 mm pin sits in the bill and we hang weight from that pin. I want the highest breaking load I can get without the bar or the pin slipping out.
+Rules:
+- One printed part. No screws, inserts, glue, or extra pieces.
+- Must clip onto the bar and the pin by hand. No closed rings.
+- Pin seats 40 mm apart, center to center.
+- PLA. Max 35 g as printed.
+- Must fit 80 x 60 x 25 mm.
+- The pin should have to lift at least 10 mm to come out. If it can roll out the side, that design is invalid.
+Give me:
+1. A short explanation of the shape.
+2. A complete OpenSCAD file I can compile and export to STL for Bambu Studio.
+No STL text. No G-code. OpenSCAD only. If the first idea would slip off, replace it in the same answer.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104590493191479337) · [查看原帖](https://x.com/WescheNex1q/status/2104590493191479337) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### 行走的建筑
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="行走的建筑"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+做一个会行走的建筑
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104590334152056983) · [查看原帖](https://x.com/shion_takk/status/2104590334152056983) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### 可玩的像素风古罗马横版动作闯关游戏
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="可玩的像素风古罗马横版动作闯关游戏"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Magnific MCP，制作一款以古罗马为背景、可在移动设备上运行的像素风横版动作闯关游戏，并将其实现为单个 HTML 文件。先生成一张主视觉图，将其作为所有素材的风格参考，包括关卡、主角、敌人、战象首领和道具。使用图生视频并以绿幕背景制作角色动画，挑选能够循环播放的帧，抠除绿色背景，并确保所有动画采用统一的尺寸比例和调色板。加入触控操作、连招、盾牌、闪避、可投掷的罗马标枪、拾取物、1 分钟演示模式和芯片音乐 soundtrack。每次生成前告诉我所需的积分。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104571944842498150) · [查看原帖](https://x.com/koldo2k/status/2104571946989985812) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2104531704740512143"></a>
+
+### 原神风格游戏与地形编辑工具
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143"><img src="assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp" width="840" loading="lazy" alt="原神风格游戏与地形编辑工具"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+制作一款类似《原神》的游戏，以及一个可以编辑其地形的工具
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+原神みたいなゲームとそれを地形編集できるツールを作って
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104531704740512143) · [查看原帖](https://x.com/fuguai1/status/2104531704740512143) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### 可交互的 WebGPU 草莓蛋糕
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="可交互的 WebGPU 草莓蛋糕"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+立即构建一个名为“Strawberry Cake”的完整可交互 WebGPU 网站。 
+使用原生 WebGPU + WGSL、程序化几何、鼠标/触摸操作和实时体积软体物理。不要使用 Three.js/Babylon.js、Canvas2D、外部资源、视频/GIF 或仅依靠 CSS 的变形。
+视觉：高级韩式/日式草莓奶油蛋糕——低矮、宽大、圆润，具有枕头般柔软的质感；包含粉色蛋糕胚、奶油夹层、浅色糖霜、裱花奶油和草莓。暖象牙色背景，柔和的摄影棚灯光，呈现湿润可口的材质。
+布局：左上角显示“SOFT STUDIES / NO.001”及斜体“Strawberry Cake”。右上角显示“WEBGPU · LIVE”。中央放置大型蛋糕。右侧控件：Hand/Knife、预设、Firmness、Damping、Drop、Reset、Pause、¼ speed、Show mesh。左下角显示：Mass、Volume、Kinetic、Pieces。
+物理：使用稳定的 XPBD/共旋转软体，包含四面体模拟网格、平滑渲染网格、体积保持、阻尼、重力、地面摩擦和碎片碰撞。蛋糕应呈现柔软而有重量的感觉，释放后会持续晃动。
+手部交互：按住=Press，向内拖动=Squeeze，向外拖动=Grab，快速释放=Throw。使用加权抓取、平滑的 3D 目标点、指针速度和动量。蛋糕保持自由状态；蛋糕交互输入优先于视角轨道控制。
+切刀：使用程序化 3D 刀具。绘制切割线，并依次播放接触→压缩→刺入→切穿→抬起的动画。先变形再分裂；保持切缝纤薄。
+必须支持重复切割：使用动态碎片列表；每一块碎片都必须保持可切割。将笔划转换为垂直切割平面，分割与其相交的碎片，创建新的软体网格/渲染网格，传递变形和速度，保留顶部配料，保持两半对齐，并更新 Pieces。支持 14 块以上的碎片以及多碎片切割。不要使用固定的整体/左半/右半状态。
+Drop 释放所有碎片。Reset 恢复为一整块完整蛋糕，并将 Pieces=1。使用固定时间步长/子步，DPR≤2，限制不稳定性，避免 NaN/GPU 错误。暴露 window.__cake。
+在本地运行，测试交互和重复切割，并持续迭代，直到整体效果精致完善。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2104514806443303238) · [查看原帖](https://x.com/ImaStudio_ai/status/2104517586092458039) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2104504957173153951"></a>
+
+### 可交互 3D 果冻西瓜切片
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104504957173153951"><img src="assets/previews/3fb7cd9ade55d534246324137d2c1c9f8b244b21ddc5bb850e5d8b2c693b8b34.webp" width="840" loading="lazy" alt="可交互 3D 果冻西瓜切片"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
+Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
+THE WATERMELON
+Create a thick, rounded triangular watermelon wedge with:
+Translucent ruby-red jelly flesh.
+A pale, slightly translucent layer between the flesh and rind.
+A glossy green outer rind with irregular dark-green stripes.
+
+Individually modeled dark seeds embedded in both exposed sides.
+Softly rounded corners and an appealing, substantial thickness.
+Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
+SOFT-BODY PHYSICS
+Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
+The user must be able to:
+Grab the tip, a corner, the flesh, or the rind.
+Stretch, bend, lift, and gently twist the slice.
+
+Release it and watch it wobble before gradually settling.
+The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
+Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
+After release, the motion should decay naturally - no instant snapping back and no endless oscillation.
+Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
+Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
+RENDERING
+Use native WebGPU with WGSL shaders.
+Include:
+Thickness-dependent light absorption.
+Refraction through the jelly.
+
+Fresnel reflections and glossy highlights.
+Soft transmitted light through thin edges.
+Subtle internal details and a few tiny air bubbles.
+
+Soft contact shadows beneath the slice.
+A light, neutral studio background.
+The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
+Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
+INTERFACE
+Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
+Top left:
+“MATERIAL STUDIES / NO. 009”
+A large italic serif heading split across two lines: “Melon” and “Jelly.”
+Small caption:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Top right:
+A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
+
+Right-side panel:
+“THE SPECIMEN”
+Three coordinated watermelon-inspired color presets.
+Firmness slider with its current value.
+Internal damping slider with its current value.
+“Give it a nudge” and “Reset” buttons.
+“¼ speed” and “Show mesh” checkboxes.
+
+Pause / Resume button.
+Bottom left:
+A short hint explaining that the slice can be grabbed and stretched.
+Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
+Bottom right:
+
+A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
+BEHAVIOR AND PERFORMANCE
+Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
+Make the layout work on desktop and mobile without controls covering the slice.
+Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
+Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
+VALIDATION
+Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
+Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
+Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2104504957173153951) · [查看原帖](https://x.com/esrhengwu/status/2104505413857415515) · [返回案例导航](#latest)
+
+---
 
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
@@ -2505,238 +2790,8 @@ I want you to imagine a story. And then using threejs I want you to create full 
 
 ---
 
-<a id="gpt-6-astra-2102788013902213508"></a>
 
-### 用于学习国际象棋弃兵的互动式 3D 棋盘
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102788013902213508"><img src="assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="用于学习国际象棋弃兵的互动式 3D 棋盘"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-创建一个带有互动式 3D 棋盘的 Web 应用，用于学习国际象棋中的主要弃兵开局。加入走法动画、前进和后退控制、变化分支，以及对每种开局背后思路的讲解。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102788013902213508) · [查看原帖](https://x.com/diogosantosbr/status/2102788013902213508) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102781807179735211"></a>
-
-### 无缝循环的代码水循环动画
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="无缝循环的代码水循环动画"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-创建一个完全通过代码实现的水循环无缝循环动画。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a seamless looping animation of the water cycle, entirely in code.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102781807179735211) · [查看原帖](https://x.com/higgsfield_ai/status/2102781807179735211) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2102780850706567390"></a>
-
-### 可在浏览器中操作的中世纪欧洲风格 3D 城堡
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102780850706567390"><img src="assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="可在浏览器中操作的中世纪欧洲风格 3D 城堡"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-制作一座可在浏览器中操作的中世纪欧洲风格 3D 城堡。加入护城河、吊桥、塔楼、石墙、旗帜、森林和昼夜切换。 
-这是一个基准测试，因此请尽可能丰富视觉效果，最大限度优先保证 3D 模型的品质。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
-これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102780850706567390) · [查看原帖](https://x.com/luxurytax150/status/2102780850706567390) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102775461701091531"></a>
-
-### CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏
-
-[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-开始开发这款游戏吧
-图形表现不限定使用 2D 还是 3D，请分析游戏系统等内容，选择更易于开发的方案即可
-我个人倾向于 3D，但希望画面呈现横版动作游戏的感觉
-我想通过照明等效果营造时尚的氛围，因此认为使用 3D 应该能实现更出色的画面表现（例如街灯或灯笼等效果）
-我想制作的游戏名为 CatWalk
-顾名思义
-猫咪向侧面前进
-猫步走台不断延伸，画面会自动滚动，玩家需要跟上滚动速度，仅通过跳跃等简单操作越过障碍物和缺口。这种玩法在紧张感和系统机制上，或许有些接近《Flappy Bird》。
-不过，我希望画面成熟、酷帅，打造一款注重氛围的游戏
-如果可以表现出猫咪柔韧优雅的行走、奔跑和跳跃动作，就再好不过了
-关卡世界观由你决定，起初采用普通的夜晚街头之类的场景也可以
-如果整体调暗一些，能够更好地表现间接照明等效果，我会非常满意
-我知道有些内容可以实现，有些不行，也有些比较困难
-请以我的这些需求为参考，开发出你认为可行的方案
-首先实现一个关卡完整游玩一轮
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-ゲームを開発しましょう
-グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
-個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
-照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
-作りたいゲームは CatWalk というゲーム
-名前の通りです
-猫が横に進む
-キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
-ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
-可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
-ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
-暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
-できることできないこと難しいことがあると思うので
-この私の要望をヒントにあなたなりにできそうなものを開発してほしい
-まずは１ステージのワンループができるように
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102775461701091531) · [查看原帖](https://x.com/blitast_studio/status/2102775632933654585) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2102752217375899659"></a>
-
-### Orbit Lab：太阳、地球与月球 3D 模拟
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102752217375899659"><img src="assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab：太阳、地球与月球 3D 模拟"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-这是一次对比实验。请在你的工作目录中实现并完成以下规格完全相同的 Web 应用。名称为“Orbit Lab”。使用 Three.js 0.186.0，并加载相同版本的核心库和 OrbitControls（可以使用 CDN import map，也可以使用 npm）。无需发布或部署。
-
-要求：
-1. 使用程序化几何体和材质表现太阳、地球和月球的 3D 模型。不要使用外部图片或 3D 资源。将太阳设置为点光源，确保通过镜头操作可以看出地球和月球的明暗变化。
-2. 使用 delta time 驱动地球公转与自转、地轴倾斜以及月球公转。将轨道面的倾角可视化，并显示地球和月球的轨道线。比例和速度可以为了教学效果进行夸张处理。
-3. 使用可复现的随机数生成恒星背景。使用 OrbitControls 实现旋转和缩放。点击天体后，切换其选中状态和说明面板。
-4. 提供播放/暂停、速度滑块、轨道线显示切换、聚焦太阳/地球/月球的镜头功能，以及恢复初始状态的按钮。也应支持使用键盘播放/暂停和重置。
-5. 确保在手机屏幕宽度下也能操作，加入 WebGL 不受支持时的提示、窗口大小变化适配，以及限制像素比以避免过高的渲染负载。
-6. 在 README 中写明启动步骤和操作方法。如有可能，请实际启动并确认运行情况；如果无法启动，请明确说明原因。在完成报告中简要列出创建的文件、已实现的功能和确认结果。
-
-无需中途提问，请合理判断并完成全部实现。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
-
-要件:
-1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
-2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
-3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
-4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
-5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
-6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
-
-途中で質問せず、合理的に判断して最後まで実装してください。
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2102752217375899659) · [查看原帖](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102740078347087940"></a>
-
-### 《末班列车》赛博朋克巨型城市基准项目
-
-[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="《末班列车》赛博朋克巨型城市基准项目"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-在 Blender 中构建一座完整的赛博朋克巨型城市，包括主角列车、程序化建筑、高架轨道系统、雨景、体积氛围、电影感灯光、多组摄像机设置，以及一段完整的动画序列。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102740078347087940) · [查看原帖](https://x.com/builderhelmai/status/2102740078347087940) · [返回案例导航](#latest)
-
----
-
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 466 条案例与在线演示 →</a></strong></p>
 
 ## 给你的作品补上角色和道具
 

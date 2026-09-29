@@ -28,6 +28,12 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Etkileşimli 3B parçacık çarpıştırıcısı](#gpt-6-astra-2097781208596029936)
+- [Canlı 3B fabrika ve fırlatma rampası simülasyonu](#gpt-6-astra-2097730920224534868)
+- [THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu](#gpt-6-astra-2097678911882809407)
+- [GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi](#gpt-6-astra-2097675660873605422)
+- [Sürükleyici 3B pirinç tarlası web sitesi](#gpt-6-astra-2097602565110419781)
+- [Backrooms esintili Blender VHS sahnesi](#gpt-6-astra-2097534290112188602)
 - [Sıcacık Sulak Alan Göl Dünyası](#gpt-6-astra-2097343467026289039)
 - [League of Legends tarzında web oyunu oluşturma](#gpt-6-astra-2097336230078013598)
 - [Pekin Cennet Tapınağı İyi Hasatlar İçin Dua Salonu TypeScript + Three.js WebGL projesi](#gpt-6-astra-2097323734504017936)
@@ -72,14 +78,388 @@
 - [Telefonda oynanabilen Unity ralli oyunu](#mobile-playable-unity-rally-game-2096556692842348826)
 - [Koleksiyon kartı savaş oyununun döngüsü](#trading-card-battle-game-loop-2096555856204644550)
 - [Çift halkalı etkileşimli enerji çekirdeği](#interactive-dual-ring-energy-core-2096551010089263181)
-- [Hezekiel’in Tapınak Vizyonu: 3B](#gpt-6-astra-2096547658164834788)
-- [Blender’da değiştirilebilir karakter ifadeleri](#switchable-character-expressions-in-blender-2096525100518453342)
-- [Geometry Nodes ile döngüsel su yüzeyi](#looping-water-with-geometry-nodes-2096521798150242631)
-- [One Piece esintili denizcilik dünyası](#one-piece-inspired-sailing-world-2096518775042707700)
-- [Kişisel odadan etkileşimli portfolyoya](#personal-room-as-an-interactive-portfolio-2096506357868642342)
-- [Three.js ile tamamlanmış bulmaca bölümü](#complete-three-js-puzzle-level-2096505740643246231)
 
 </details>
+<a id="gpt-6-astra-2097781208596029936"></a>
+
+### Etkileşimli 3B parçacık çarpıştırıcısı
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="Etkileşimli 3B parçacık çarpıştırıcısı"></a>
+
+**İstem**
+
+```text
+Three.js kullanarak CERN’in LHC’sinden ve ATLAS dedektöründen esinlenen, ayrıntılı ve etkileşimli bir 3B parçacık çarpıştırıcısı oluşturun.
+
+Üç görünüm oluşturun: tek tek animasyonlu binlerce parçaya sahip bir dedektör, zıt yönlerde dönen demetlere sahip bir hızlandırıcı halkası ve sentetik bir çarpışma görüntüsü.
+
+Dedektörün büyük uç kapak tekerlekleri ve mıknatıslardan tek tek sensör modüllerine kadar altı aşamada sökülerek açılmasını sağlayın. Kaydırmayla kontrol edilen demontaj, 30/60/90 saniyelik oynatma, duraklatma ve montajı tersine alma özelliklerini ekleyin.
+
+Her sistem için görünürlük anahtarları, bileşen sayıları, eğitici açıklamalar ve halka çevresinde kamera uçuşu ekleyin.
+
+Premium görünümlü koyu bir arayüz, metalik malzemeler, ince altın vurgular ve sinematik aydınlatma kullanın. Parçaların ayırt edilebilir olmasını sağlayın ve aşırı üst üste binmeden kaçının.
+
+Resmî CERN kaynaklarına başvurun. Basitleştirilmiş geometrileri ve sentetik olayları açıkça etiketleyin.
+
+Çevrimdışı çalışan, kendi içinde tamamlanmış tek bir HTML dosyasının yanı sıra taşınabilir kaynak kodu ve bir README teslim edin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
+
+Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
+
+Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
+
+Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
+
+Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
+
+Consult official CERN references. Clearly label simplified geometry and synthetic events.
+
+Deliver one self-contained HTML file that works offline, plus portable source code and a README.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097781208596029936) · [Orijinal gönderi](https://x.com/k1rallik/status/2097781208596029936) · [Kaynak kodu](https://github.com/bubblik525/collider) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097730920224534868"></a>
+
+### Canlı 3B fabrika ve fırlatma rampası simülasyonu
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="Canlı 3B fabrika ve fırlatma rampası simülasyonu"></a>
+
+**İstem**
+
+```text
+@AirsupHQ yalın üretim kitaplarını incele, 10 fırlatma rampalı bir fabrika konsepti geliştir ve canlı bir 3B simülasyon oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097730920224534868) · [Orijinal gönderi](https://x.com/konstantinsaifo/status/2097730920224534868) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097678911882809407"></a>
+
+### THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="THE LAST GATE'i oluştur: Aritmetik kapıları olan kalabalık koşu oyunu"></a>
+
+**İstem**
+
+```text
+THE LAST GATE'i oluştur THE LAST GATE'i oluştur: Aritmetik kapıları olan oynanabilir bir dikey kalabalık koşu oyunu. Görünen takım büyüklüğü gerçek kişi sayısıyla her zaman eşleşmeli; gerçek sonuçları olan engel kayıpları uygulanmalı ve final karşılaşması kişi sayısına göre belirlenmelidir. Üç kısa rota, anında yeniden deneme ve tohum değerli girdi tekrar oynatma sunun; zaferi uydurmayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097678911882809407) · [Orijinal gönderi](https://x.com/KeWai386772/status/2097678911882809407) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097675660873605422"></a>
+
+### GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="GPT-6 Astra ve Blender ile Kedi Kovalayan Robot Kol Komedisi"></a>
+
+**Referans görseller:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
+
+**İstem**
+
+```text
+10 saniyelik, 16:9 yatay kadrajda, gerçek çekim hissine sahip sinematik bir hayvan komedisi kısa filmi oluşturun
+ Ev tipi robot kol turuncu-beyaz kediyi kovalamaya ve yakalamaya çalışır; kedi çevikçe sıyrılıp yaramazca saklama kutusunun arkasına dolanır. Robot pençesi, kutunun arkasından görünen turuncu kuyruğu kavrar. Yukarı kaldırdığında bunun kedi kuyruğu biçimli bir oyuncak olduğu anlaşılır. Gerçek kedi bu sırada robot kolun tabanının yanına dolanmış ve patisiyle tabandaki kırmızı kapatma düğmesine basmıştır. Robot kol durur; kedi mutlu ve memnun görünür.
+ Açılışta kovalamaca ve yakalama eylemi doğrudan başlamalıdır. Ortada, engelleme yoluyla merak korunmalı; oyuncağın kaldırılması ters köşeyi oluşturmalı; finalde kedinin robotu kendi isteğiyle kapatması ikinci espriyi tamamlamalıdır. Baştan sona yalnızca ortam sesleri üretin; arka plan müziği, BGM, anlatıcı sesi veya diyalog üretmeyin.
+【Varlık sabitleme ve referans kuralları】
+ cat_robot_previs referans videosunu kamera hareketleri, zamanlama, hareket yörüngeleri ve mekânsal ilişkiler için referans alın.
+ Referans videodaki turuncu küp gövde, beyaz ayaklar, kulakları ve kuyruğu olan geometrik karakter, Görsel 1'deki gerçek turuncu-beyaz kediye karşılık gelir.
+ Krem beyazı bağlantı kolları, turuncu eklemler, üç parmaklı kavrayıcı ve kırmızı düğmeli taban, Görsel 2'deki robot kola karşılık gelir.
+ Turuncu dikey kuyruk, gri bağlantı çubuğu ve yeşil tabandan oluşan küçük karakter, Görsel 3'teki kedi kuyruğu biçimli oyuncağa karşılık gelir. Oyuncak ve kedi iki ayrı nesnedir.
+ Ortadaki beyaz gövde, gerçek krem beyazı saklama kutusuna karşılık gelir; kutunun konumunu, hacmini ve engelleme işlevini koruyun. İç mekân için Görsel 4'ü referans alın.
+ Referans videodaki kurgu zamanlamasına, kamera konumlarına, plan ölçeklerine, kedinin hareket rotasına, robot pençesinin takip yoluna, kutunun arkasındaki engellemeye, oyuncağın kaldırılma rotasına ve kedinin patisiyle düğme arasındaki temas ilişkisine göre üretin.
+ Kedinin geometrik ötelemesi yalnızca hareket rotasını belirtmek için kullanılmıştır; bunun yerine doğal yana sıçrama, koşma, yön değiştirme, çömelme, baş çevirme ve pati kaldırma hareketleri üretin. Ana olayları ve mekânsal ilişkileri değiştirmeden, belirtilen konum ve zaman aralıklarında ince yüz ifadeleri ve vücut hareketleri ekleyebilirsiniz. Tüm beyaz modelleri, geometrik yer tutucuları ve yardımcı işaretleri kaldırın.
+ Görsel 1image: Kedinin tek ve değişmez görünümü.
+ Aynı genç yetişkin, turuncu-beyaz, kısa tüylü kedi: başının üstünde ve sırtında turuncu tekir desenleri; ağız çevresi ve göğsü beyaz; dört patisi beyaz; gözleri kehribar rengi; burnu pembe; kuyruğu turuncu halkalı ve uç kısmı açık renklidir. Gerçekçi vücut oranlarını, tüy rengi dağılımını, yüz özelliklerini ve kuyruk uzunluğunu koruyun. Tüyler ince ve ayrıntılı, bıyıklar doğal olsun; aksesuar veya kıyafet kullanmayın.
+ Görsel 2image: Robot kolun tek ve değişmez görünümü.
+ Krem beyazı gövde, turuncu eklem kapakları, koyu gri bağlantı parçaları, üç parmaklı yumuşak kavrayıcı ve bilekte kehribar renkli durum ışığı; tümü alçak ve geniş bir tabana monte edilmiştir. Robot kol tabanındaki kırmızı kapatma düğmesi, yerde duran kedinin erişebileceği yükseklikte olmalıdır. Taban sabit kalmalı; robot kol kovalamaca ve yakalama hareketini eklemlerini döndürerek gerçekleştirmelidir.
+ Görsel 3image: Kedi kuyruğu biçimli oyuncağın tek ve değişmez görünümü.
+ Turuncu halkalı tüylü kuyruk, açık renkli kuyruk ucu, altına bağlı metal yay ve nane yeşili devrilmez tabandan oluşur; tabanda beyaz balık kılçığı deseni bulunur. Robot pençesi tüylü kuyruğu kavradığında yay ve taban, bağlantıları her zaman net biçimde görülecek şekilde tek parça oyuncak olarak birlikte kaldırılmalıdır.
+ Görsel 4image: Sahne görünümü.
+ Görsel 4'teki sıcak salonu, açık renk ahşap zemini, geniş pencereden gelen gün ışığını, açık renkli kanepeyi, ahşap mobilyaları, yeşil bitkileri ve evcil hayvan yaşamına ait ayrıntıları referans alın. Tüm aksiyon iç mekân zemininde gerçekleşmelidir. Referans görseldeki stüdyo arka planı ve ızgara yerleşimi nihai videoda yer almamalıdır.
+【Görsel stil ve sahne】
+ Gerçek bir evcil hayvan kısa filmiyle özenli bir ev robotu reklamının sinematografik görünümü; doğal ışık, gerçekçi malzemeler ve davranış ile ritimden doğan komedi.
+ Geniş bir evin salonunda, ince ahşap damarlarına ve yumuşak yansımaya sahip açık meşe zemin bulunur. Sol taraftaki tavandan tabana pencere sıcak gün ışığını içeri alır; tül perdeler zemine yumuşak ışık ve gölge desenleri düşürür. Kedi tüylerinin kenarlarında ve robot kolun gövdesinde doğal bir kontur ışığı oluşur.
+ Arka planda açık gri kanepe, minderler, küçük sehpa, halı, sıcak tonlu lambader ve saklama dolabı bulunur; pencerenin yanında yeşil bitkiler, yanda ise kedi yatağı ve tırmalama direği yer alır. Halı uzakta konumlanmalı; ön plandaki hareket alanında kesintisiz ve açık ahşap zemin korunmalıdır.
+ Merkezin biraz arkasına, açık turuncu kulplu krem beyazı, yuvarlatılmış köşeli bir saklama kutusu yerleştirin. Kutu çömelmiş kediyi ve oyuncağın tabanını gizleyebilmeli; sağında, solunda ve arkasında bağlantılı hareket yolları bulunmalıdır. Robot kol kutunun sağında yer almalı, kırmızı düğmesi kedinin sonunda ulaşacağı yöne bakmalıdır.
+ Kamera yaklaşık kedi göz hizasında olmalı; ana özneler net, arka plan ise ölçülü biçimde flu görünmelidir. Alçak kamera açısı, robot pençesinin aşağıdan yakalamasındaki ani etkiyi, kedinin hafif ve çevik hareketlerini ve kutunun arkasındaki açığa çıkışın katmanlı yapısını vurgulamalıdır. Tüm temaslarda doğal gölgeler ve kuvvet tepkileri bulunmalıdır.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
+家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
+开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
+【资产锚点与参考规则】
+参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
+参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
+奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
+橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
+中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
+按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
+猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
+图1image：唯一猫咪外观。
+同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
+图2image：唯一机械臂外观。
+奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
+图3image：唯一猫尾形玩具外观。
+橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
+图4image：场景外观。
+参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
+【视觉风格与场景】
+真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
+宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
+背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
+中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
+摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097675660873605422) · [Orijinal gönderi](https://x.com/TanLuAI/status/2097675660873605422) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097602565110419781"></a>
+
+### Sürükleyici 3B pirinç tarlası web sitesi
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="Sürükleyici 3B pirinç tarlası web sitesi"></a>
+
+**İstem**
+
+```text
+Tarayıcıda çalışan, sürükleyici bir 3B pirinç tarlası web sitesi oluşturun. Tema:
+“Yeşil bir deniz / Pirinç tarlalarında rüzgâr.”
+Kodu tamamlayın, gerekli bağımlılıkları yükleyin ve bir önizleme başlatın. Yalnızca öneri veya uygulama planı sunup durmayın.
+
+1. Görsel yön
+
+Genel atmosfer; etkileşimli bir manzara web sitesindeki tutarlı sanat yönetimi hissini verecek şekilde doğal, huzurlu ve rafine olmalıdır.
+
+Sahnede şunlar bulunmalıdır:
+
+Ön plan: net biçimde ayırt edilebilen ince yapraklar, kıvrımlı saplar ve aşağı doğru eğilen birkaç pirinç salkımı.
+
+Orta plan: yeterli yoğunluğa ve aralıklarında doğal farklılıklara sahip, uzaklara doğru uzanan kesintisiz bir pirinç tarlası.
+Arka plan: düzensiz bir ağaç hattı, katmanlı alçak tepeler ve hafif atmosferik perspektif.
+Gökyüzü: yumuşak gri-mavi tonlar, hafif bulut çeşitliliği ve ufukta doğal bir geçiş.
+Varsayılan kamerayı pirinç salkımlarının biraz üzerine yerleştirin ve tarlanın üzerinden uzaktaki tepelere doğru bakmasını sağlayın.
+Gökyüzü kadrajın yaklaşık üçte birini kaplamalı, kompozisyona pirinç tarlası hâkim olmalıdır.
+Bitki renklerinde ağırlıklı olarak koyu yeşil, zeytin yeşili ve sarı-yeşil tonları kullanın. Floresan yeşilden kaçının.
+Pirinç bitkilerinin yüksekliğini, yönünü, kıvrımını ve rengini doğal biçimde çeşitlendirin.
+
+2. Animasyon gereksinimleri
+Rüzgâr, tarlanın üzerinden yanal yönde ilerleyen sürekli dalgalar şeklinde görünmelidir:
+Kökleri büyük ölçüde sabit tutun; yaprak uçlarına ve salkımlara doğru ilerledikçe hareketi kademeli olarak güçlendirin.
+Aynı bölgedeki bitkiler, bireysel farklılıklarını korurken uyumlu biçimde hareket etmelidir.
+
+Yavaş, geniş ölçekli rüzgâr dalgalarını hafif yerel hareketlerle birleştirin.
+
+Tüm bitkilerin kusursuz bir senkronizasyonla sallanmasını önleyin. Bitkilerin tamamını bir bütün olarak ötelemeyin ve yaprakların titreşmesine neden olmayın.
+
+Zaman içinde izlenmesi rahat olan, hafif bir varsayılan esinti kullanın.
+3. Etkileşim gereksinimleri
+Sahneyi gerçekten etkileyen basit kontroller sağlayın:
+Rüzgâr hızı kaydırıcısı: rüzgâr animasyonunun gücünü ve hızını akıcı biçimde ayarlayın.
+Aydınlatma modları: Sabah, Öğleden Sonra ve Altın Saat. Gökyüzü, ışık yönü, renk sıcaklığı ve sis rengindeki değişiklikleri birbiriyle uyumlu hâle getirin.
+
+Görünüm modları: Açık Tarla ve Pirinçlerin Arasında; kamera geçişleri akıcı olmalıdır.
+
+Duraklat/Sürdür: çevresel animasyonu duraklatıp sürdürün.
+
+Fare hareketi kamerada çok hafif bir tepki oluşturabilir, ancak baş dönmesine neden olmamalıdır.
+Varsayılan olarak kamerayı geniş açılar boyunca sürekli döndürmeyin.
+4. Arayüz tasarımı
+Tam ekran bir sahne kullanın ve üzerine bir arayüz yerleştirin:
+Sol üst: küçük bir VERDANT logotipi.
+
+Sol alt: serif yazı tipinde “Yeşil bir deniz.” başlığı.
+Hemen altında daha küçük puntolu “Yapacak bir şey yok. Sadece esintiyi takip et.” alt başlığı.
+Sağ alt: kompakt, yarı saydam koyu yeşil bir kontrol paneli.
+
+Metinler okunaklı olmalı, cömert aralıklar kullanılmalı ve kontroller ana manzaranın önünü kapatmamalıdır.
+
+Kontroller, dar ekranlarda üst üste binmeden kullanılabilir kalmalıdır.
+
+5. Teknoloji ve performans
+Three.js kullanın. Mevcut bir proje varsa derleme ortamını koruyun.
+Büyük miktarda bitki örtüsünü işlemek için instancing ve GPU vertex animasyonu kullanın.
+Her bitki için ayrı bir çizim nesnesi oluşturmaktan veya her karede tüm bitkileri CPU üzerinde güncellemekten kaçının.
+Uzak mesafelerde bitki örtüsü ayrıntısını azaltın ve makul bir piksel oranı sınırı uygulayın.
+Güvenilir varlık yükleme sağlamak için prosedürel geometriyi ve materyalleri tercih edin.
+Sahne gerçek zamanlı olarak işlenmelidir. Ana sahne olarak tam bir manzara görseli veya video kullanmayın.
+Model adları ve karşılaştırma etiketleri post prodüksiyonda eklenecek; bunları sahneye dahil etmeyin.
+6. Tamamlanma ölçütleri
+Uygulama tamamlandıktan sonra, şunları doğrulamak için mevcut tarayıcı araçlarını kullanın:
+Başlangıç görünümü, belirgin konsol hataları olmadan doğru şekilde işleniyor.
+
+Her kontrol sahneyi gerçekten etkiliyor.
+
+Ön plan, orta plan ve arka planın ayırt edilebilir bir derinliği ve katmanlanması var.
+Pirinç bitkileri basit, dik yeşil çizgilerden ibaret değil.
+Rüzgâr hareketi sürekli ve doğal; belirgin biçimde tekdüze bir tekrar yok.
+Kamera geçişleri akıcı ve arayüz dar ekranlarda kullanılabilir durumda.
+Belirli bir kontrolü gerçekleştiremiyorsanız bunu açıkça belirtin.
+Son olarak başlangıç talimatlarını ve gerçekten uygulanan özelliklerin özetini sunun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build an immersive 3D rice-field website that runs in the browser, with the theme:
+“A sea of green / Wind through the rice fields.”
+Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
+
+1. Visual Direction
+
+The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
+
+The scene should include:
+
+Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
+
+Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
+Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
+Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
+Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
+The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
+Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
+Vary the height, orientation, curvature, and color of the rice plants naturally.
+
+2. Animation Requirements
+Wind must appear as continuous waves traveling laterally across the field:
+Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
+Plants in the same area should move coherently while retaining individual variation.
+
+Combine slow, large-scale wind waves with subtle local disturbances.
+
+Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
+
+Use a gentle default breeze that remains comfortable to watch over time.
+3. Interaction Requirements
+Provide simple controls that genuinely affect the scene:
+Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
+Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
+
+View modes: Open Field and Among the Rice, with smooth camera transitions.
+
+Pause/Resume: pause and resume the environmental animation.
+
+Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
+Do not continuously rotate the camera through large angles by default.
+4. Interface Design
+Use a full-screen scene with an interface overlaid on top:
+Top left: a small VERDANT wordmark.
+
+Bottom left: the serif heading “A sea of green.”
+Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
+Bottom right: a compact, semi-transparent dark-green control panel.
+
+Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
+
+Controls must remain usable on narrow screens without overlapping.
+
+5. Technology and Performance
+Use Three.js. If an existing project is available, retain its build environment.
+Use instancing and GPU vertex animation to handle large amounts of vegetation.
+Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
+Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
+Prefer procedural geometry and materials to ensure reliable asset loading.
+The scene must render in real time. Do not use a full landscape image or video as the main scene.
+Model names and comparison labels will be added in post-production; do not include them in the scene.
+6. Completion Criteria
+After implementation, use the available browser tools to verify that:
+The initial view renders correctly, with no obvious console errors.
+
+Every control genuinely affects the scene.
+
+The foreground, midground, and background have distinguishable depth and layering.
+The rice plants are more than simple upright green lines.
+Wind movement is continuous and natural, without obvious uniform repetition.
+Camera transitions are smooth, and the interface remains usable on narrow screens.
+If you cannot perform a particular check, state that clearly.
+Finally, provide startup instructions and a summary of the features actually implemented.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097602565110419781) · [Orijinal gönderi](https://x.com/YouWareAI/status/2097602565110419781) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097534290112188602"></a>
+
+### Backrooms esintili Blender VHS sahnesi
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="Backrooms esintili Blender VHS sahnesi"></a>
+
+**İstem**
+
+```text
+Blender’da, birinin Backrooms’ta yürürken çektiği birinci şahıs VHS kaydı gibi görünen bir sahne oluştur. Görüntü fotogerçekçi, kamera hareketleri ise elde çekilmiş panik hissi vermeli. Kişi etrafına bakınmalı, ardından Backrooms’un labirentinde koşmaya başlamalı. Bazı odalar büyük ve geniş, diğerleri ise sonsuz koridorlar gibi görünmeli. Yoğun bir panik hissi yarat. Süre 30 saniye olmalı.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2097534290112188602) · [Orijinal gönderi](https://x.com/chrisfirst/status/2097534290112188602) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097343467026289039"></a>
 
 ### Sıcacık Sulak Alan Göl Dünyası
@@ -2212,133 +2592,6 @@ Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Ma
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096547658164834788"></a>
-
-### Hezekiel’in Tapınak Vizyonu: 3B
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Hezekiel’in Tapınak Vizyonu: 3B"></a>
-
-**İstem**
-
-```text
-Hezekiel’in tapınak vizyonu 3B olarak nasıl görünürdü?
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-What would Ezekiel’s temple vision look like in 3D?
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096547658164834788) · [Orijinal gönderi](https://x.com/KrixOnok/status/2096547658164834788) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
-
-### Blender’da değiştirilebilir karakter ifadeleri
-
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Blender’da değiştirilebilir karakter ifadeleri"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Bir Tripo karakterinin ifade varyantlarını rig oluşturmadan önce Blender’da hazırlayın. Mesh’leri hizalayın ve aralarında yumuşak geçiş yapmadan değiştirin; etkin olmayan varyantları küçülterek başın içine alın. Bu yöntemin ifadeleri yumuşak biçimde harmanladığını veya VRM uyumlu olduğunu ima etmeyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Orijinal gönderi](https://x.com/Dstudio_ai/status/2096525100518453342) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
-
-### Geometry Nodes ile döngüsel su yüzeyi
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Geometry Nodes ile döngüsel su yüzeyi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender Geometry Nodes ile bake işlemi gerektirmeyen periyodik bir su yüzeyi efekti oluşturun. Düğüm düzenini düzenlenebilir tutun ve bunu tam bir akışkan simülasyonu değil, yüzey modeli olarak açıklayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Orijinal gönderi](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
-
-### One Piece esintili denizcilik dünyası
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="One Piece esintili denizcilik dünyası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender gemisi ve Three.js okyanusuyla oynanabilir bir denizcilik dünyası oluşturun. Değişen hava koşulları, su altı keşfi, gemi izi, köpük, su sıçramaları ve hareketli yelkenler ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Orijinal gönderi](https://x.com/yash_yk45/status/2096518775042707700) · [Canlı demo](https://one-piece-sea-world.vercel.app/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
-
-### Kişisel odadan etkileşimli portfolyoya
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Kişisel odadan etkileşimli portfolyoya"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Kişisel bir odayı etkileşimli bir tanıtım sitesine dönüştürün. Sahneyi Blender’da oluşturup bake işlemini yapın; ardından kahve buharı, Matrix tarzı animasyon ve hafif shader efektleri ekleyin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Orijinal gönderi](https://x.com/kalanyei/status/2096506357868642342) · [Canlı demo](https://room.kalan.dev/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
-
-### Three.js ile tamamlanmış bulmaca bölümü
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Three.js ile tamamlanmış bulmaca bölümü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js ile oynanabilir mekanikleri de içeren eksiksiz bir 3D bulmaca oyunu bölümü oluşturun. Bölüm ve etkileşimler çalıştıktan sonra sağlanan sesleri entegre edin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Orijinal gönderi](https://x.com/TvWoo/status/2096505740643246231) · [Örneklere dön](#all-prompts)
 
 ---
 

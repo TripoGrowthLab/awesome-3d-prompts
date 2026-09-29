@@ -28,6 +28,12 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Rainy first-person ocean sandbox](#rainy-first-person-ocean-sandbox-2094900247000654222)
+- [Floating voxel island](#floating-voxel-island-2094899802588713418)
+- [Living voxel medieval kingdom](#living-voxel-medieval-kingdom-2094899477626720403)
+- [Textured 3D asset production workflow](#textured-3d-asset-production-workflow-2094896750234378508)
+- [Three compact physics game concepts](#three-compact-physics-game-concepts-2094895071304839400)
+- [AAA kart racing game in Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 - [One-shot Three.js airport simulation](#one-shot-three-js-airport-simulation-2094893572617044439)
 - [Floating Japanese pagoda city](#floating-japanese-pagoda-city-2094886088963690607)
 - [Airbus H145 in Three.js](#airbus-h145-in-three-js-2094882571083735351)
@@ -72,14 +78,130 @@
 - [Three.js prompt for an explorable Japanese suburban street in hand-drawn anime style](#explorable-anime-style-japanese-street-2080834581247435102)
 - [Browser Counter-Strike-Inspired Game Built with Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [One-shot hide-and-seek game prompt for Kimi K3](#one-shot-hide-and-seek-game-2080806989169307780)
-- [Procedural Three.js Weapon Modeling Task for Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
-- [Three single-file HTML Three.js procedural gun prompts](#procedural-guns-in-single-file-three-js-2080757148078768504)
-- [Kimi K3 prompt for a transforming Three.js city block scene](#transforming-three-js-city-block-scene-2080724552422924382)
-- [Three.js prompt for a Leonardo da Vinci ornithopter in Claude Opus 5](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
-- [Angry Birds-style clone with unique birds and multiple levels](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
-- [3D soccer stadium build task used to compare Claude Fable 5 and Kimi K3](#3d-soccer-stadium-2080473039834333229)
 
 </details>
+<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
+
+### Rainy first-person ocean sandbox
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="Rainy first-person ocean sandbox"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a first-person 3D ocean sandbox with waves, rain droplets and atmospheric lighting. Let the viewer explore the water from an immersive camera.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [Original post](https://x.com/TimJayas/status/2094900247000654222) · [Back to examples](#all-prompts)
+
+---
+
+<a id="floating-voxel-island-2094899802588713418"></a>
+
+### Floating voxel island
+
+[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="Floating voxel island"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a floating voxel island with readable terrain layers, vegetation, water, structures, ambient motion and a camera that can orbit and inspect the whole scene.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/floating-voxel-island-2094899802588713418) · [Original post](https://x.com/loktar00/status/2094899802588713418) · [Back to examples](#all-prompts)
+
+---
+
+<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
+
+### Living voxel medieval kingdom
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="Living voxel medieval kingdom"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a large voxel medieval kingdom with thousands of soldiers, working villagers, siege systems, destructible structures and a dragon that can change the battle.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [Original post](https://x.com/knowixbuilds/status/2094899477626720403) · [Back to examples](#all-prompts)
+
+---
+
+<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
+
+### Textured 3D asset production workflow
+
+[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="Textured 3D asset production workflow"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Turn a reference image into a clean 3D asset, correct normals and materials in Blender, then create production-ready textures in Substance Painter.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [Original post](https://x.com/MrCollison/status/2094896750234378508) · [Back to examples](#all-prompts)
+
+---
+
+<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
+
+### Three compact physics game concepts
+
+[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="Three compact physics game concepts"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build three polished mini-games: a sticky-ball obstacle challenge, capybara river surfing and a dumpling conveyor dodge game. Give each one a clear input, score and fail state.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [Original post](https://x.com/atomicagent_io/status/2094895071304839400) · [Back to examples](#all-prompts)
+
+---
+
+<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
+
+### AAA kart racing game in Three.js
+
+[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · Games
+
+Remix of: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
+
+<a href="https://www.tripo3d.ai/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="AAA kart racing game in Three.js"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build an AAA-quality kart racing game in Three.js with polished driving, expressive tracks, opponents, items, UI, sound and a complete playable race loop.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Original post](https://x.com/bridgemindai/status/2094894312370692443) · [Source code](https://github.com/bridge-mind/turbo-kart-rush) · [Live demo](https://bridge-mind.github.io/turbo-kart-rush/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
 
 ### One-shot Three.js airport simulation
@@ -1087,126 +1209,7 @@ A one-shot hide-and-seek game: a white chameleon hiding in a hand-drawn room, pa
 
 ---
 
-<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
-
-### Procedural Three.js Weapon Modeling Task for Claude Fable 5
-
-[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Procedural Three.js Weapon Modeling Task for Claude Fable 5"></a>
-
-**Prompt**
-
-```text
-The Hype compared Claude Opus 5, Fable 5, GPT-5.6 Sol, and Kimi K3 on the exact same procedural Three.js engineering tasks
-
-Each model had to build:
-• M4 Carbine
-• Glock 18C
-• Steyr TMP
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Original post](https://x.com/adxtyahq/status/2080759312008503365) · [Back to examples](#all-prompts)
-
----
-
-<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
-
-### Three single-file HTML Three.js procedural gun prompts
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Three single-file HTML Three.js procedural gun prompts"></a>
-
-**Prompt**
-
-```text
-our test – 3 prompts, single-file html, @threejs, fully procedural, no assets. each has a small fire button (web audio gunshot + muzzle flash + recoil + ejected brass) and a disassemble toggle that explodes the gun into labelled parts and rebuilds it:
-
-1. 5.56 m4 carbine – collapsible stock, safe·semi·burst lower, quad-rail with r14–r28 panel numbers, aimpoint red-dot, vertical foregrip, folding bipod, a2 flash hider, breaks into 10 parts
-
-2. glock 18c – select-fire machine pistol, ported 18c compensator slots, "glock 18c / austria 9x19" roll-marks, extended 33-round mag, field-strips into slide, ported barrel, recoil spring, frame, mag
-
-3. steyr tmp – ribbed polymer housing, threaded barrel, integral forward vertical foregrip, canted translucent 30-round mag
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Original post](https://x.com/thehypedotnews/status/2080757148078768504) · [Back to examples](#all-prompts)
-
----
-
-<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
-
-### Kimi K3 prompt for a transforming Three.js city block scene
-
-[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Kimi K3 prompt for a transforming Three.js city block scene"></a>
-
-**Prompt**
-
-```text
-I gave it a brutal Three.js prompt: build one city block that transforms from 1945 to 2055, changing buildings, cars, shops, crowds, lighting and SFX in a single HTML file.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Original post](https://x.com/ggg78g89/status/2080724552422924382) · [Back to examples](#all-prompts)
-
----
-
-<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
-
-### Three.js prompt for a Leonardo da Vinci ornithopter in Claude Opus 5
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Three.js prompt for a Leonardo da Vinci ornithopter in Claude Opus 5"></a>
-
-**Prompt**
-
-```text
-leonardo da vinci ornithopter in three js
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Original post](https://x.com/HarshithLucky3/status/2080720533277319587) · [Back to examples](#all-prompts)
-
----
-
-<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
-
-### Angry Birds-style clone with unique birds and multiple levels
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Angry Birds-style clone with unique birds and multiple levels"></a>
-
-**Prompt**
-
-```text
-Make an Angry Bird Clone with unique birds, multiple levels and mechanics.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Original post](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Back to examples](#all-prompts)
-
----
-
-<a id="3d-soccer-stadium-2080473039834333229"></a>
-
-### 3D soccer stadium build task used to compare Claude Fable 5 and Kimi K3
-
-[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="3D soccer stadium build task used to compare Claude Fable 5 and Kimi K3"></a>
-
-**Prompt**
-
-```text
-A developer compared models by giving them the same task: "build a 3D soccer stadium."
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Original post](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.8.md) · **9 / 10** · [→](catalog.en.10.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 460 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 466 examples and live previews →</a></strong></p>

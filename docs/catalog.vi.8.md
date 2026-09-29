@@ -28,6 +28,12 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Ba game đua kart theo chủ đề từ một bản greybox](#three-themed-kart-games-from-one-greybox-2095580402505400369)
+- [Nghiên cứu thác nước thủ tục](#procedural-waterfall-study-2095510069047660636)
+- [Aerie, hòn đảo voxel sống](#aerie-a-living-voxel-island-2095493630421340200)
+- [Figure có khớp để in 3D](#articulated-printable-action-figure-2095481098201387287)
+- [Hố đen WebGL điện ảnh](#cinematic-webgl-black-hole-2095409039005933910)
+- [Trực quan hóa tháo rời rack máy chủ AI](#exploding-ai-server-rack-visualization-2095193022304792938)
 - [Game khám phá và buôn bán trong không gian](#space-exploration-and-trading-game-2095191999255035993)
 - [Nguyên mẫu thế giới mở nhiều người kiểu GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
 - [Game cao bồi Three.js phong cách truyện tranh](#comic-book-three-js-cowboy-game-2095180091257209148)
@@ -72,14 +78,128 @@
 - [Robot chi tiết bằng tự động hóa Blender](#detailed-robot-through-blender-automation-2094909825561805003)
 - [Nguyên mẫu game tội phạm thế giới mở](#open-world-crime-game-prototype-2094907986942591338)
 - [Game trình duyệt kiểu Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
-- [Sandbox đại dương góc nhìn thứ nhất dưới mưa](#rainy-first-person-ocean-sandbox-2094900247000654222)
-- [Đảo voxel nổi](#floating-voxel-island-2094899802588713418)
-- [Vương quốc trung cổ voxel sống động](#living-voxel-medieval-kingdom-2094899477626720403)
-- [Quy trình tạo asset 3D có texture](#textured-3d-asset-production-workflow-2094896750234378508)
-- [Ba ý tưởng game vật lý nhỏ gọn](#three-compact-physics-game-concepts-2094895071304839400)
-- [Game đua kart chất lượng AAA trong Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 
 </details>
+<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
+
+### Ba game đua kart theo chủ đề từ một bản greybox
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="Ba game đua kart theo chủ đề từ một bản greybox"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng bản greybox đua kart Unity được cung cấp để tạo ba phiên bản chơi được: cướp biển, kẹo ngọt và cyberpunk. Tái sử dụng vòng lặp lái xe cốt lõi, thay môi trường và phản hồi, chơi thử từng bản rồi sửa các lỗi dễ thấy nhất.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Bài đăng gốc](https://x.com/chetaslua/status/2095580402505400369) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="procedural-waterfall-study-2095510069047660636"></a>
+
+### Nghiên cứu thác nước thủ tục
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="Nghiên cứu thác nước thủ tục"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo cảnh thác nước Three.js với nước chảy, bụi nước, đá và tỷ lệ rõ ràng. Dùng ánh sáng và khung hình để chuyển động nước dễ quan sát.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-waterfall-study-2095510069047660636) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095510069047660636) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
+
+### Aerie, hòn đảo voxel sống
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie, hòn đảo voxel sống"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng thế giới voxel 3D có thể khám phá, xoay và phóng to. Thêm chuyển động tự chủ để thế giới sống động; tự chọn bối cảnh và cư dân.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2095493630421340200) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="articulated-printable-action-figure-2095481098201387287"></a>
+
+### Figure có khớp để in 3D
+
+[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="Figure có khớp để in 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến ý tưởng nhân vật thành figure có thể in. Dựng khớp cầu trong Blender và kiểm tra figure sau khi lắp ráp có thể đứng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [Bài đăng gốc](https://x.com/_MaxBlade/status/2095481098201387287) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
+
+### Hố đen WebGL điện ảnh
+
+[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="Hố đen WebGL điện ảnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng hố đen điện ảnh trong một tệp HTML bằng WebGL2 thuần. Có thấu kính hấp dẫn ray marching, đĩa bồi tụ thủ tục, tăng sáng Doppler và các hạt bay theo quỹ đạo.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [Bài đăng gốc](https://x.com/ekibuilds/status/2095409039005933910) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
+
+### Trực quan hóa tháo rời rack máy chủ AI
+
+[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="Trực quan hóa tháo rời rack máy chủ AI"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng màn trực quan hóa tháo rời rack NVL72 và hệ GB300 trên Three.js, với thành phần có nhãn, tách theo giai đoạn, ánh sáng kỹ thuật và chuyển camera mượt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Bài đăng gốc](https://x.com/kylejeong/status/2095193022304792938) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="space-exploration-and-trading-game-2095191999255035993"></a>
 
 ### Game khám phá và buôn bán trong không gian
@@ -971,128 +1091,6 @@ Tạo game hành động kiểu Mini Militia với di chuyển nhạy, ngắm b�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [Bài đăng gốc](https://x.com/0x0SojalSec/status/2094900523900219725) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
-
-### Sandbox đại dương góc nhìn thứ nhất dưới mưa
-
-[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="Sandbox đại dương góc nhìn thứ nhất dưới mưa"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng sandbox đại dương 3D góc nhìn thứ nhất với sóng, giọt mưa và ánh sáng giàu không khí. Cho người xem khám phá nước qua camera tạo cảm giác hiện diện.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [Bài đăng gốc](https://x.com/TimJayas/status/2094900247000654222) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="floating-voxel-island-2094899802588713418"></a>
-
-### Đảo voxel nổi
-
-[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="Đảo voxel nổi"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng đảo voxel nổi với các tầng địa hình rõ, cây cối, nước, công trình, chuyển động môi trường và camera xoay để xem toàn cảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floating-voxel-island-2094899802588713418) · [Bài đăng gốc](https://x.com/loktar00/status/2094899802588713418) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
-
-### Vương quốc trung cổ voxel sống động
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="Vương quốc trung cổ voxel sống động"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng vương quốc trung cổ voxel lớn với hàng nghìn binh lính, dân làng làm việc, hệ thống công thành, công trình phá hủy được và rồng có thể thay đổi cục diện trận chiến.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [Bài đăng gốc](https://x.com/knowixbuilds/status/2094899477626720403) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
-
-### Quy trình tạo asset 3D có texture
-
-[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="Quy trình tạo asset 3D có texture"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến ảnh tham chiếu thành asset 3D sạch, sửa normal và vật liệu trong Blender, rồi tạo texture sẵn sàng sử dụng trong Substance Painter.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [Bài đăng gốc](https://x.com/MrCollison/status/2094896750234378508) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
-
-### Ba ý tưởng game vật lý nhỏ gọn
-
-[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="Ba ý tưởng game vật lý nhỏ gọn"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo ba mini game chỉn chu: thử thách bóng dính vượt chướng ngại, capybara lướt sông và né bánh bao trên băng chuyền. Mỗi game có điều khiển, điểm và trạng thái thua rõ ràng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [Bài đăng gốc](https://x.com/atomicagent_io/status/2094895071304839400) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
-
-### Game đua kart chất lượng AAA trong Three.js
-
-[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
-
-Phỏng theo: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Game đua kart chất lượng AAA trong Three.js"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game đua kart chất lượng AAA trong Three.js với cảm giác lái chỉn chu, đường đua giàu cá tính, đối thủ, vật phẩm, giao diện, âm thanh và vòng đua hoàn chỉnh có thể chơi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Bài đăng gốc](https://x.com/bridgemindai/status/2094894312370692443) · [Mã nguồn](https://github.com/bridge-mind/turbo-kart-rush) · [Bản demo](https://bridge-mind.github.io/turbo-kart-rush/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

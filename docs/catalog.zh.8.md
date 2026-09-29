@@ -28,6 +28,12 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [一个灰盒生成三款主题卡丁车游戏](#three-themed-kart-games-from-one-greybox-2095580402505400369)
+- [程序化瀑布场景](#procedural-waterfall-study-2095510069047660636)
+- [Aerie 鲜活体素岛屿](#aerie-a-living-voxel-island-2095493630421340200)
+- [可动关节打印人偶](#articulated-printable-action-figure-2095481098201387287)
+- [电影感 WebGL 黑洞](#cinematic-webgl-black-hole-2095409039005933910)
+- [爆炸式 AI 服务器机架可视化](#exploding-ai-server-rack-visualization-2095193022304792938)
 - [太空探索与交易游戏](#space-exploration-and-trading-game-2095191999255035993)
 - [GTA 风格开放世界多人原型](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
 - [漫画风 Three.js 牛仔游戏](#comic-book-three-js-cowboy-game-2095180091257209148)
@@ -72,14 +78,128 @@
 - [通过 Blender 自动化构建高细节机器人](#detailed-robot-through-blender-automation-2094909825561805003)
 - [开放世界犯罪游戏原型](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia 风格浏览器游戏](#mini-militia-style-browser-game-2094900523900219725)
-- [雨中第一人称海洋沙盒](#rainy-first-person-ocean-sandbox-2094900247000654222)
-- [悬浮体素岛屿](#floating-voxel-island-2094899802588713418)
-- [鲜活的体素中世纪王国](#living-voxel-medieval-kingdom-2094899477626720403)
-- [带纹理的 3D 资产生产流程](#textured-3d-asset-production-workflow-2094896750234378508)
-- [三款紧凑物理小游戏](#three-compact-physics-game-concepts-2094895071304839400)
-- [Three.js AAA 卡丁车竞速游戏](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 
 </details>
+<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
+
+### 一个灰盒生成三款主题卡丁车游戏
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="一个灰盒生成三款主题卡丁车游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+基于给定 Unity 卡丁车灰盒制作海盗、糖果和赛博朋克三款可玩主题版本。复用核心驾驶循环，替换环境与反馈，亲自测试每个版本并修复最明显的问题。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [查看原帖](https://x.com/chetaslua/status/2095580402505400369) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="procedural-waterfall-study-2095510069047660636"></a>
+
+### 程序化瀑布场景
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="程序化瀑布场景"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建 Three.js 瀑布场景，包含流水、水雾、岩石和清晰尺度，以灯光和镜头突出水流运动。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-waterfall-study-2095510069047660636) · [查看原帖](https://x.com/RealFedeURU/status/2095510069047660636) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
+
+### Aerie 鲜活体素岛屿
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie 鲜活体素岛屿"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建可以环绕和缩放的 3D 体素世界，加入自主运动，让世界鲜活起来，自行选择环境与居民。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [查看原帖](https://x.com/free_ai_guides/status/2095493630421340200) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="articulated-printable-action-figure-2095481098201387287"></a>
+
+### 可动关节打印人偶
+
+[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="可动关节打印人偶"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+把角色概念制作为可打印人偶，在 Blender 中创建可动球形关节，并检查组装后能否站立。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [查看原帖](https://x.com/_MaxBlade/status/2095481098201387287) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
+
+### 电影感 WebGL 黑洞
+
+[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="电影感 WebGL 黑洞"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+用原生 WebGL2 在单个 HTML 文件中构建电影感黑洞，包含光线步进引力透镜、程序化吸积盘、多普勒增亮与轨道粒子。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [查看原帖](https://x.com/ekibuilds/status/2095409039005933910) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
+
+### 爆炸式 AI 服务器机架可视化
+
+[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="爆炸式 AI 服务器机架可视化"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建 NVL72 机架与 GB300 系统的 Three.js 爆炸图可视化，包含部件标签、分步拆解、技术感灯光和流畅镜头转场。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [查看原帖](https://x.com/kylejeong/status/2095193022304792938) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="space-exploration-and-trading-game-2095191999255035993"></a>
 
 ### 太空探索与交易游戏
@@ -974,129 +1094,7 @@ Create the most impressive website you can in a single self-contained HTML file.
 
 ---
 
-<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
-
-### 雨中第一人称海洋沙盒
-
-[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="雨中第一人称海洋沙盒"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建第一人称 3D 海洋沙盒，加入波浪、雨滴和环境光，让用户从沉浸式镜头探索水面。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [查看原帖](https://x.com/TimJayas/status/2094900247000654222) · [返回案例导航](#all-prompts)
-
----
-
-<a id="floating-voxel-island-2094899802588713418"></a>
-
-### 悬浮体素岛屿
-
-[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="悬浮体素岛屿"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建一座悬浮体素岛屿，包含清晰地形层级、植被、水体、建筑、环境动态和可环绕查看全景的镜头。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/floating-voxel-island-2094899802588713418) · [查看原帖](https://x.com/loktar00/status/2094899802588713418) · [返回案例导航](#all-prompts)
-
----
-
-<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
-
-### 鲜活的体素中世纪王国
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="鲜活的体素中世纪王国"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建一个大型体素中世纪王国，包含数千士兵、会工作的村民、攻城系统、可破坏建筑，以及能改变战局的巨龙。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [查看原帖](https://x.com/knowixbuilds/status/2094899477626720403) · [返回案例导航](#all-prompts)
-
----
-
-<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
-
-### 带纹理的 3D 资产生产流程
-
-[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="带纹理的 3D 资产生产流程"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把参考图转成干净的 3D 资产，在 Blender 中修正法线和材质，再用 Substance Painter 制作可用于生产的纹理。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [查看原帖](https://x.com/MrCollison/status/2094896750234378508) · [返回案例导航](#all-prompts)
-
----
-
-<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
-
-### 三款紧凑物理小游戏
-
-[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="三款紧凑物理小游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-构建三款精致小游戏：黏性球障碍挑战、水豚冲浪和饺子传送带躲避。每款都要有清晰输入、计分与失败状态。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [查看原帖](https://x.com/atomicagent_io/status/2094895071304839400) · [返回案例导航](#all-prompts)
-
----
-
-<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
-
-### Three.js AAA 卡丁车竞速游戏
-
-[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · 游戏
-
-改编自: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Three.js AAA 卡丁车竞速游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-使用 Three.js 构建 AAA 质感的卡丁车竞速游戏，包含精细驾驶手感、表现力赛道、对手、道具、UI、音效与完整可玩比赛循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [查看原帖](https://x.com/bridgemindai/status/2094894312370692443) · [项目源码](https://github.com/bridge-mind/turbo-kart-rush) · [在线演示](https://bridge-mind.github.io/turbo-kart-rush/) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.7.md) · **8 / 10** · [→](catalog.zh.9.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 466 条案例与在线演示 →</a></strong></p>

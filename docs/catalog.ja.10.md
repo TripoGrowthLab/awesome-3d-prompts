@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (10)</summary>
+<summary>作例を見る (16)</summary>
 
+- [Claude Fable 5 の手続き型 Three.js 武器モデリング課題](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [街区が時代を超えて変化する Kimi K3 の Three.js プロンプト](#transforming-three-js-city-block-scene-2080724552422924382)
+- [ダ・ヴィンチの羽ばたき機を Three.js で作る Claude Opus 5 プロンプト](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [Claude Fable 5 と Kimi K3 を比較した 3D サッカースタジアム制作課題](#3d-soccer-stadium-2080473039834333229)
 - [未来のリニア列車を描く Three.js プロンプト](#futuristic-maglev-train-in-three-js-2080454415400493332)
 - [カメレオンとロボットの 3D かくれんぼプロンプト](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
 - [Claude Fable 5 で 3D の桜を作るプロンプト](#3d-cherry-blossom-tree-2080178541979664741)
@@ -40,6 +46,125 @@
 - [Three.js の飛行機内を歩く体験プロンプト](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Claude Fable 5 の手続き型 Three.js 武器モデリング課題
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5 の手続き型 Three.js 武器モデリング課題"></a>
+
+**プロンプト**
+
+```text
+The Hype は Claude Opus 5、Fable 5、GPT-5.6 Sol、Kimi K3 に、まったく同じ Three.js 手続き生成の技術課題を与えて比較しました。
+
+各モデルが作るもの：
+• M4 Carbine
+• Glock 18C
+• Steyr TMP
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [元の投稿](https://x.com/adxtyahq/status/2080759312008503365) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### 単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト"></a>
+
+**プロンプト**
+
+```text
+今回のテスト：3 つのプロンプト、単一 HTML、@threejs、完全な手続き生成、外部アセットなし。それぞれ小さな発砲ボタン（Web Audio の発砲音、マズルフラッシュ、反動、排莢）と分解切り替えを備え、ラベル付き部品に分解してから再組み立てする：
+
+1. 5.56 M4 カービン：伸縮式ストック、safe・semi・burst 表示のロア、r14–r28 の番号付きクアッドレール、Aimpoint レッドドット、垂直フォアグリップ、折りたたみバイポッド、A2 フラッシュハイダー。10 部品に分解。
+
+2. Glock 18C：射撃モードを切り替えられるマシンピストル、18C のポート付きコンペンセーター溝、「glock 18c / austria 9x19」の刻印、33 発の延長マガジン。スライド、ポート付きバレル、リコイルスプリング、フレーム、マガジンに分解。
+
+3. Steyr TMP：リブ付きポリマー外装、ねじ付きバレル、一体型の前方垂直フォアグリップ、傾いた半透明の 30 発マガジン。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [元の投稿](https://x.com/thehypedotnews/status/2080757148078768504) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### 街区が時代を超えて変化する Kimi K3 の Three.js プロンプト
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="街区が時代を超えて変化する Kimi K3 の Three.js プロンプト"></a>
+
+**プロンプト**
+
+```text
+厳しい Three.js のプロンプトを与えました。一つの HTML ファイルで、建物、車、店、人々、照明、効果音を変化させ、1945 年から 2055 年へ変わる街区を作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [元の投稿](https://x.com/ggg78g89/status/2080724552422924382) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### ダ・ヴィンチの羽ばたき機を Three.js で作る Claude Opus 5 プロンプト
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="ダ・ヴィンチの羽ばたき機を Three.js で作る Claude Opus 5 プロンプト"></a>
+
+**プロンプト**
+
+```text
+Three.js でレオナルド・ダ・ヴィンチの羽ばたき機。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [元の投稿](https://x.com/HarshithLucky3/status/2080720533277319587) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### 個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム"></a>
+
+**プロンプト**
+
+```text
+独自の鳥、複数のステージ、ゲームの仕組みを備えた Angry Birds のクローンを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [元の投稿](https://x.com/BuildFastWithAI/status/2080624574883123541) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### Claude Fable 5 と Kimi K3 を比較した 3D サッカースタジアム制作課題
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Claude Fable 5 と Kimi K3 を比較した 3D サッカースタジアム制作課題"></a>
+
+**プロンプト**
+
+```text
+開発者は「3D サッカースタジアムを作って」という同じ課題をモデルに与えて比較しました。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-soccer-stadium-2080473039834333229) · [元の投稿](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
 
 ### 未来のリニア列車を描く Three.js プロンプト

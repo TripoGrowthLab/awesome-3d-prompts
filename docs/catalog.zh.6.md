@@ -28,6 +28,12 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [浏览器飞行游戏](#browser-flight-game-2096149823216898445)
+- [咖啡店照片转竖屏漫游](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [自动角色绑定与功夫动作](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Blender 维京角色](#viking-character-in-blender-2096140378777010278)
+- [奥德赛风格平台冒险](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [绑定与动画霸王龙](#rigged-and-animated-t-rex-2096133339329536249)
 - [32 个动画人物的可漫游办公室](#walkable-office-with-32-animated-people-2096131961345720477)
 - [阿迪瑜伽雕像黄昏飞行浏览](#adiyogi-evening-fly-through-2096128774203171021)
 - [Blender 一级方程式赛车](#formula-one-car-in-blender-2096125193580113957)
@@ -72,14 +78,128 @@
 - [子弹时间第三人称射击](#bullet-time-third-person-shooter-2095962376344309843)
 - [Street Heat 浏览器漂移赛车](#street-heat-browser-drift-racer-2095916820431827408)
 - [快速可玩游戏原型](#rapid-playable-game-prototype-2095907526566990013)
-- [Blender 循环赛博朋克卧室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [自动游玩的国家文化街机游戏](#self-playing-cultural-arcade-game-2095898198413922791)
-- [提示词生成开放世界游戏](#open-world-game-from-a-prompt-2095872986477908108)
-- [Three.js 梵高小镇](#van-gogh-town-in-three-js-2095871735824339279)
-- [机械结构完整的 Blender 机车](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [30 秒 Blender 场景挑战](#thirty-second-blender-scene-challenge-2095844872171421771)
 
 </details>
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### 浏览器飞行游戏
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="浏览器飞行游戏"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+从空项目构建完整浏览器 3D 飞行游戏，提供可控飞行、可探索环境、明确目标与连贯视觉呈现。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/browser-flight-game-2096149823216898445) · [查看原帖](https://x.com/givros/status/2096149823216898445) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### 咖啡店照片转竖屏漫游
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="咖啡店照片转竖屏漫游"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据照片在 Blender 中重建咖啡店，包括木质吊顶、灯带、烘豆机、货架和绿植。交付可编辑场景与 15 秒竖屏镜头漫游。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [查看原帖](https://x.com/harrisonitsme/status/2096143359505269079) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### 自动角色绑定与功夫动作
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="自动角色绑定与功夫动作"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+为给定 3D 角色创建骨骼，增加行走、跑步及几段功夫动作，并检查动画中的关节破损和姿态不稳。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [查看原帖](https://x.com/thebuggeddev/status/2096141728487178503) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Blender 维京角色
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender 维京角色"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Blender 中制作可编辑 3D 维京角色，重点处理可识别服装、面部结构、身体比例和清晰展示姿态。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/viking-character-in-blender-2096140378777010278) · [查看原帖](https://x.com/fre4kspace/status/2096140378777010278) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### 奥德赛风格平台冒险
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="奥德赛风格平台冒险"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+制作奥德赛风格 Three.js 关卡，包含八个平台、三枚可收集月亮、回旋帽攻击、敌人和检查点，加入触摸操作并完成试玩。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [查看原帖](https://x.com/AiHubMix/status/2096135808243876152) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### 绑定与动画霸王龙
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="绑定与动画霸王龙"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+将生成的霸王龙模型绑定并制作可信运动，在 Three.js 中渲染并检查模型变形是否协调。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [查看原帖](https://x.com/majidmanzarpour/status/2096133339329536249) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
 
 ### 32 个动画人物的可漫游办公室
@@ -1005,134 +1125,7 @@ Make me the most insane and blast of a high-speed anti-gravity combat racer you 
 
 ---
 
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Blender 循环赛博朋克卧室
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender 循环赛博朋克卧室"></a>
-
-**提示词**
-
-```text
-在 Blender 中创建一个电影感赛博朋克卧室，俯瞰雨夜霓虹城市。加入动态广告牌，让画面达到照片级并实现无缝循环。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [查看原帖](https://x.com/CoinSh0t/status/2095898303019856230) · [返回案例导航](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### 自动游玩的国家文化街机游戏
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="自动游玩的国家文化街机游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-为一个 G7 国家构建自动游玩的街机游戏。把一个可辨识文化地标转成核心机制，让无人操作时也能看懂玩法，并加入计分、升级挑战和记忆点揭晓。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [查看原帖](https://x.com/say_gm_/status/2095898198413922791) · [返回案例导航](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### 提示词生成开放世界游戏
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="提示词生成开放世界游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据这个概念构建开放世界游戏：[世界设定]。包含三个不同区域、移动、动态遭遇、简单任务链、地标、保存与重开，并做足优化以在浏览器运行。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [查看原帖](https://x.com/aeejazkhan/status/2095872986477908108) · [返回案例导航](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Three.js 梵高小镇
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js 梵高小镇"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建受梵高启发的可漫游 Three.js 小镇。把画中的街道、星空、咖啡馆与田野转为分层 3D 空间，并通过 Shader、纹理和动态灯光保留笔触生命力。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [查看原帖](https://x.com/RealFedeURU/status/2095871735824339279) · [返回案例导航](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### 机械结构完整的 Blender 机车
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="机械结构完整的 Blender 机车"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Blender 中把蒸汽机车建成真正的机械分解体，而不是贴图外壳。命名并分离车轴、轴箱导轨、轴颈座、拉杆、悬挂连杆、蒸汽穹顶和各主要装配件。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [查看原帖](https://x.com/sheemamoto/status/2095868420327710840) · [返回案例导航](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### 30 秒 Blender 场景挑战
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="30 秒 Blender 场景挑战"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在极限时间内构建连贯 Blender 场景。优先保证鲜明轮廓、三层景深、一个主角材质、电影灯光和可直接出图的构图，并保持所有对象可编辑。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [查看原帖](https://x.com/_satyam_ai/status/2095844872171421771) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.5.md) · **6 / 10** · [→](catalog.zh.7.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 466 条案例与在线演示 →</a></strong></p>

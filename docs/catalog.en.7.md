@@ -28,6 +28,12 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Looping cyberpunk bedroom in Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
+- [Self-playing cultural arcade game](#self-playing-cultural-arcade-game-2095898198413922791)
+- [Prompt-to-open-world game](#open-world-game-from-a-prompt-2095872986477908108)
+- [Van Gogh town in Three.js](#van-gogh-town-in-three-js-2095871735824339279)
+- [Mechanically complete Blender locomotive](#mechanically-complete-blender-locomotive-2095868420327710840)
+- [Thirty-second Blender scene challenge](#thirty-second-blender-scene-challenge-2095844872171421771)
 - [Single-turn Three.js naval war scene](#single-turn-three-js-naval-war-scene-2095840435319001278)
 - [Oval Office through the presidencies](#oval-office-through-the-presidencies-2095830596069290077)
 - [Recipe-to-3D cheesecake film](#recipe-to-3d-cheesecake-film-2095829851206774987)
@@ -72,14 +78,126 @@
 - [Open-world browser adventure](#open-world-browser-adventure-2095596341422440714)
 - [Surviving society of autonomous Unreal humans](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Arcadia Base on Mars](#arcadia-base-on-mars-2095595678214873212)
-- [Three themed kart games from one greybox](#three-themed-kart-games-from-one-greybox-2095580402505400369)
-- [Procedural waterfall study](#procedural-waterfall-study-2095510069047660636)
-- [Aerie, a living voxel island](#aerie-a-living-voxel-island-2095493630421340200)
-- [Articulated printable action figure](#articulated-printable-action-figure-2095481098201387287)
-- [Cinematic WebGL black hole](#cinematic-webgl-black-hole-2095409039005933910)
-- [Exploding AI server rack visualization](#exploding-ai-server-rack-visualization-2095193022304792938)
 
 </details>
+<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
+
+### Looping cyberpunk bedroom in Blender
+
+[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Looping cyberpunk bedroom in Blender"></a>
+
+**Prompt**
+
+```text
+Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Original post](https://x.com/CoinSh0t/status/2095898303019856230) · [Back to examples](#all-prompts)
+
+---
+
+<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
+
+### Self-playing cultural arcade game
+
+[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Self-playing cultural arcade game"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a self-playing arcade game for a G7 country. Translate one recognizable cultural landmark into the core mechanic, make the action readable without input, and add score, escalating challenge and a memorable reveal.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Original post](https://x.com/say_gm_/status/2095898198413922791) · [Back to examples](#all-prompts)
+
+---
+
+<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
+
+### Prompt-to-open-world game
+
+[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="Prompt-to-open-world game"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build an open-world game from this concept: [world premise]. Include three distinct regions, traversal, dynamic encounters, a simple quest chain, landmarks, save and restart behavior, and enough optimization to run in-browser.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Original post](https://x.com/aeejazkhan/status/2095872986477908108) · [Back to examples](#all-prompts)
+
+---
+
+<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
+
+### Van Gogh town in Three.js
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Van Gogh town in Three.js"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create a walkable Three.js town inspired by Van Gogh. Turn painted streets, stars, cafés and fields into layered 3D spaces while keeping the brushwork alive through shaders, texture and animated light.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Original post](https://x.com/RealFedeURU/status/2095871735824339279) · [Back to examples](#all-prompts)
+
+---
+
+<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
+
+### Mechanically complete Blender locomotive
+
+[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Mechanically complete Blender locomotive"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Model a steam locomotive in Blender as a real mechanical breakdown rather than a textured shell. Name and separate the axles, horn guides, journal blocks, stays, suspension links, steam dome and every major assembly.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Original post](https://x.com/sheemamoto/status/2095868420327710840) · [Back to examples](#all-prompts)
+
+---
+
+<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
+
+### Thirty-second Blender scene challenge
+
+[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Thirty-second Blender scene challenge"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a coherent Blender scene under an extreme time limit. Prioritize a strong silhouette, three depth layers, one hero material, cinematic lighting and a camera-ready composition; leave every object editable.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Original post](https://x.com/_satyam_ai/status/2095844872171421771) · [Back to examples](#all-prompts)
+
+---
+
 <a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
 
 ### Single-turn Three.js naval war scene
@@ -960,127 +1078,7 @@ Build a playable voxel Mars colony with landing spacecraft, construction robots,
 
 ---
 
-<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
-
-### Three themed kart games from one greybox
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="Three themed kart games from one greybox"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Take the supplied Unity kart-racing greybox and produce three playable themed variants: pirate, candy and cyberpunk. Reuse the core driving loop, replace environments and feedback, play-test each build and fix the most visible bugs.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Original post](https://x.com/chetaslua/status/2095580402505400369) · [Back to examples](#all-prompts)
-
----
-
-<a id="procedural-waterfall-study-2095510069047660636"></a>
-
-### Procedural waterfall study
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="Procedural waterfall study"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a Three.js waterfall scene with flowing water, spray, rocks and a clear sense of scale. Use lighting and camera framing to make the water motion readable.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-waterfall-study-2095510069047660636) · [Original post](https://x.com/RealFedeURU/status/2095510069047660636) · [Back to examples](#all-prompts)
-
----
-
-<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
-
-### Aerie, a living voxel island
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie, a living voxel island"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build an explorable 3D voxel world that can be orbited and zoomed. Include autonomous motion so the world feels alive; choose the setting and its inhabitants.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [Original post](https://x.com/free_ai_guides/status/2095493630421340200) · [Back to examples](#all-prompts)
-
----
-
-<a id="articulated-printable-action-figure-2095481098201387287"></a>
-
-### Articulated printable action figure
-
-[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="Articulated printable action figure"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Turn a character concept into a printable action figure. Build articulating ball joints in Blender and check that the assembled figure can stand.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [Original post](https://x.com/_MaxBlade/status/2095481098201387287) · [Back to examples](#all-prompts)
-
----
-
-<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
-
-### Cinematic WebGL black hole
-
-[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="Cinematic WebGL black hole"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a cinematic black hole in one HTML file using raw WebGL2. Include ray-marched gravitational lensing, a procedural accretion disk, Doppler beaming and orbiting particles.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [Original post](https://x.com/ekibuilds/status/2095409039005933910) · [Back to examples](#all-prompts)
-
----
-
-<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
-
-### Exploding AI server rack visualization
-
-[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="Exploding AI server rack visualization"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a Three.js exploded-view visualization of an NVL72 rack and GB300 system, with labeled components, staged separation, technical lighting and smooth camera transitions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Original post](https://x.com/kylejeong/status/2095193022304792938) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.6.md) · **7 / 10** · [→](catalog.en.8.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 460 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 466 examples and live previews →</a></strong></p>

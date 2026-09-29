@@ -28,6 +28,12 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Sandbox đại dương góc nhìn thứ nhất dưới mưa](#rainy-first-person-ocean-sandbox-2094900247000654222)
+- [Đảo voxel nổi](#floating-voxel-island-2094899802588713418)
+- [Vương quốc trung cổ voxel sống động](#living-voxel-medieval-kingdom-2094899477626720403)
+- [Quy trình tạo asset 3D có texture](#textured-3d-asset-production-workflow-2094896750234378508)
+- [Ba ý tưởng game vật lý nhỏ gọn](#three-compact-physics-game-concepts-2094895071304839400)
+- [Game đua kart chất lượng AAA trong Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 - [Mô phỏng sân bay Three.js trong một lượt](#one-shot-three-js-airport-simulation-2094893572617044439)
 - [Thành phố chùa Nhật Bản nổi trên không](#floating-japanese-pagoda-city-2094886088963690607)
 - [Airbus H145 trong Three.js](#airbus-h145-in-three-js-2094882571083735351)
@@ -72,14 +78,130 @@
 - [Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay](#explorable-anime-style-japanese-street-2080834581247435102)
 - [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Prompt Kimi K3 cho game trốn tìm một lượt](#one-shot-hide-and-seek-game-2080806989169307780)
-- [Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
-- [Ba prompt súng thủ tục Three.js trong một tệp HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
-- [Prompt Kimi K3 cho khu phố Three.js biến đổi](#transforming-three-js-city-block-scene-2080724552422924382)
-- [Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
-- [Bản sao Angry Birds với chim riêng và nhiều màn](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
-- [Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3](#3d-soccer-stadium-2080473039834333229)
 
 </details>
+<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
+
+### Sandbox đại dương góc nhìn thứ nhất dưới mưa
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="Sandbox đại dương góc nhìn thứ nhất dưới mưa"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng sandbox đại dương 3D góc nhìn thứ nhất với sóng, giọt mưa và ánh sáng giàu không khí. Cho người xem khám phá nước qua camera tạo cảm giác hiện diện.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [Bài đăng gốc](https://x.com/TimJayas/status/2094900247000654222) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="floating-voxel-island-2094899802588713418"></a>
+
+### Đảo voxel nổi
+
+[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="Đảo voxel nổi"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng đảo voxel nổi với các tầng địa hình rõ, cây cối, nước, công trình, chuyển động môi trường và camera xoay để xem toàn cảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/floating-voxel-island-2094899802588713418) · [Bài đăng gốc](https://x.com/loktar00/status/2094899802588713418) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
+
+### Vương quốc trung cổ voxel sống động
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="Vương quốc trung cổ voxel sống động"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng vương quốc trung cổ voxel lớn với hàng nghìn binh lính, dân làng làm việc, hệ thống công thành, công trình phá hủy được và rồng có thể thay đổi cục diện trận chiến.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [Bài đăng gốc](https://x.com/knowixbuilds/status/2094899477626720403) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
+
+### Quy trình tạo asset 3D có texture
+
+[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="Quy trình tạo asset 3D có texture"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến ảnh tham chiếu thành asset 3D sạch, sửa normal và vật liệu trong Blender, rồi tạo texture sẵn sàng sử dụng trong Substance Painter.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [Bài đăng gốc](https://x.com/MrCollison/status/2094896750234378508) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
+
+### Ba ý tưởng game vật lý nhỏ gọn
+
+[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="Ba ý tưởng game vật lý nhỏ gọn"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo ba mini game chỉn chu: thử thách bóng dính vượt chướng ngại, capybara lướt sông và né bánh bao trên băng chuyền. Mỗi game có điều khiển, điểm và trạng thái thua rõ ràng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [Bài đăng gốc](https://x.com/atomicagent_io/status/2094895071304839400) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
+
+### Game đua kart chất lượng AAA trong Three.js
+
+[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · Trò chơi
+
+Phỏng theo: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Game đua kart chất lượng AAA trong Three.js"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game đua kart chất lượng AAA trong Three.js với cảm giác lái chỉn chu, đường đua giàu cá tính, đối thủ, vật phẩm, giao diện, âm thanh và vòng đua hoàn chỉnh có thể chơi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Bài đăng gốc](https://x.com/bridgemindai/status/2094894312370692443) · [Mã nguồn](https://github.com/bridge-mind/turbo-kart-rush) · [Bản demo](https://bridge-mind.github.io/turbo-kart-rush/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
 
 ### Mô phỏng sân bay Three.js trong một lượt
@@ -1102,125 +1224,6 @@ Game trốn tìm trong một lượt: tắc kè trắng ẩn trong phòng vẽ t
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Bài đăng gốc](https://x.com/0x_scalp/status/2080806989169307780) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
-
-### Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5
-
-[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5"></a>
-
-**Prompt**
-
-```text
-The Hype so sánh Claude Opus 5, Fable 5, GPT-5.6 Sol và Kimi K3 bằng các nhiệm vụ kỹ thuật Three.js thủ tục hoàn toàn giống nhau.
-
-Mỗi mô hình phải dựng:
-• M4 Carbine
-• Glock 18C
-• Steyr TMP
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Bài đăng gốc](https://x.com/adxtyahq/status/2080759312008503365) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
-
-### Ba prompt súng thủ tục Three.js trong một tệp HTML
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Ba prompt súng thủ tục Three.js trong một tệp HTML"></a>
-
-**Prompt**
-
-```text
-bài thử của chúng tôi — 3 prompt, html một tệp, @threejs, hoàn toàn thủ tục, không asset. mỗi khẩu có nút bắn nhỏ (tiếng súng web audio + chớp đầu nòng + giật + vỏ đạn văng) và nút tháo rời tách súng thành các bộ phận có nhãn rồi lắp lại:
-
-1. carbine m4 5,56 — báng thu gọn, thân dưới với chế độ an toàn·phát một·loạt, bốn ray có số panel r14–r28, kính red-dot aimpoint, tay cầm trước dọc, chân chống gập, bộ giấu lửa a2, tách thành 10 phần
-
-2. glock 18c — súng ngắn tự động chọn chế độ, khe bù giật 18c, dấu khắc “glock 18c / austria 9x19”, hộp tiếp đạn dài 33 viên; tháo cơ bản thành slide, nòng có lỗ, lò xo hồi, khung, hộp tiếp đạn
-
-3. steyr tmp — vỏ polymer có gân, nòng ren, tay cầm trước dọc liền khối, hộp tiếp đạn nghiêng bán trong suốt 30 viên
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Bài đăng gốc](https://x.com/thehypedotnews/status/2080757148078768504) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
-
-### Prompt Kimi K3 cho khu phố Three.js biến đổi
-
-[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho khu phố Three.js biến đổi"></a>
-
-**Prompt**
-
-```text
-Tôi giao một prompt Three.js cực khó: dựng khu phố biến đổi từ năm 1945 đến 2055, thay tòa nhà, xe, cửa hàng, đám đông, ánh sáng và SFX trong một tệp HTML.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Bài đăng gốc](https://x.com/ggg78g89/status/2080724552422924382) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
-
-### Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js"></a>
-
-**Prompt**
-
-```text
-máy bay vỗ cánh leonardo da vinci trong three js
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Bài đăng gốc](https://x.com/HarshithLucky3/status/2080720533277319587) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
-
-### Bản sao Angry Birds với chim riêng và nhiều màn
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Bản sao Angry Birds với chim riêng và nhiều màn"></a>
-
-**Prompt**
-
-```text
-Tạo bản sao Angry Birds với các loài chim riêng, nhiều màn và cơ chế.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Bài đăng gốc](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="3d-soccer-stadium-2080473039834333229"></a>
-
-### Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3
-
-[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3"></a>
-
-**Prompt**
-
-```text
-Một nhà phát triển so sánh các mô hình bằng cùng yêu cầu: “dựng sân vận động bóng đá 3D”.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Bài đăng gốc](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

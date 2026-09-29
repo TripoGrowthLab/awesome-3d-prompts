@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (10)</summary>
+<summary>Khám phá ví dụ (16)</summary>
 
+- [Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [Ba prompt súng thủ tục Three.js trong một tệp HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [Prompt Kimi K3 cho khu phố Three.js biến đổi](#transforming-three-js-city-block-scene-2080724552422924382)
+- [Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [Bản sao Angry Birds với chim riêng và nhiều màn](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3](#3d-soccer-stadium-2080473039834333229)
 - [Prompt Three.js cho cảnh tàu maglev tương lai](#futuristic-maglev-train-in-three-js-2080454415400493332)
 - [Prompt game trốn tìm 3D với tắc kè và robot](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
 - [Prompt Claude Fable 5 cho cây anh đào 3D](#3d-cherry-blossom-tree-2080178541979664741)
@@ -40,6 +46,125 @@
 - [Prompt Three.js cho trải nghiệm đi bên trong máy bay](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5"></a>
+
+**Prompt**
+
+```text
+The Hype so sánh Claude Opus 5, Fable 5, GPT-5.6 Sol và Kimi K3 bằng các nhiệm vụ kỹ thuật Three.js thủ tục hoàn toàn giống nhau.
+
+Mỗi mô hình phải dựng:
+• M4 Carbine
+• Glock 18C
+• Steyr TMP
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Bài đăng gốc](https://x.com/adxtyahq/status/2080759312008503365) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### Ba prompt súng thủ tục Three.js trong một tệp HTML
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Ba prompt súng thủ tục Three.js trong một tệp HTML"></a>
+
+**Prompt**
+
+```text
+bài thử của chúng tôi — 3 prompt, html một tệp, @threejs, hoàn toàn thủ tục, không asset. mỗi khẩu có nút bắn nhỏ (tiếng súng web audio + chớp đầu nòng + giật + vỏ đạn văng) và nút tháo rời tách súng thành các bộ phận có nhãn rồi lắp lại:
+
+1. carbine m4 5,56 — báng thu gọn, thân dưới với chế độ an toàn·phát một·loạt, bốn ray có số panel r14–r28, kính red-dot aimpoint, tay cầm trước dọc, chân chống gập, bộ giấu lửa a2, tách thành 10 phần
+
+2. glock 18c — súng ngắn tự động chọn chế độ, khe bù giật 18c, dấu khắc “glock 18c / austria 9x19”, hộp tiếp đạn dài 33 viên; tháo cơ bản thành slide, nòng có lỗ, lò xo hồi, khung, hộp tiếp đạn
+
+3. steyr tmp — vỏ polymer có gân, nòng ren, tay cầm trước dọc liền khối, hộp tiếp đạn nghiêng bán trong suốt 30 viên
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Bài đăng gốc](https://x.com/thehypedotnews/status/2080757148078768504) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### Prompt Kimi K3 cho khu phố Three.js biến đổi
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho khu phố Three.js biến đổi"></a>
+
+**Prompt**
+
+```text
+Tôi giao một prompt Three.js cực khó: dựng khu phố biến đổi từ năm 1945 đến 2055, thay tòa nhà, xe, cửa hàng, đám đông, ánh sáng và SFX trong một tệp HTML.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Bài đăng gốc](https://x.com/ggg78g89/status/2080724552422924382) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5: máy bay vỗ cánh Leonardo da Vinci trong Three.js"></a>
+
+**Prompt**
+
+```text
+máy bay vỗ cánh leonardo da vinci trong three js
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Bài đăng gốc](https://x.com/HarshithLucky3/status/2080720533277319587) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### Bản sao Angry Birds với chim riêng và nhiều màn
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Bản sao Angry Birds với chim riêng và nhiều màn"></a>
+
+**Prompt**
+
+```text
+Tạo bản sao Angry Birds với các loài chim riêng, nhiều màn và cơ chế.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Bài đăng gốc](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Yêu cầu sân bóng 3D để so sánh Claude Fable 5 và Kimi K3"></a>
+
+**Prompt**
+
+```text
+Một nhà phát triển so sánh các mô hình bằng cùng yêu cầu: “dựng sân vận động bóng đá 3D”.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Bài đăng gốc](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
 
 ### Prompt Three.js cho cảnh tàu maglev tương lai

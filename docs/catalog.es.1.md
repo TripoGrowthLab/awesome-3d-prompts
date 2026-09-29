@@ -28,6 +28,12 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Gancho en J imprimible en 3D para una prueba de resistencia](#gpt-6-astra-2104590493191479337)
+- [Arquitectura andante](#claude-opus-5-5-2104590334152056983)
+- [Beat 'em up jugable de pixel art ambientado en la Antigua Roma](#claude-opus-5-5-2104571944842498150)
+- [Juego estilo Genshin Impact y herramienta de edición de terrenos](#gpt-6-astra-2104531704740512143)
+- [Tarta de fresa interactiva con WebGPU](#claude-opus-5-5-2104514806443303238)
+- [Rodaja de sandía de gelatina 3D interactiva](#gpt-6-astra-2104504957173153951)
 - [Set de LEGO del Ford Model T con todas sus funciones](#claude-opus-5-5-2104232297167716457)
 - [FPS multijugador hiperrealista en un callejón nevado](#claude-opus-5-5-2104232013578617241)
 - [Escena 3D de 55 segundos: del centro de datos al átomo](#claude-opus-5-5-2104223449849761837)
@@ -72,14 +78,356 @@
 - [Shader de ciudad solarpunk infinita](#gpt-6-astra-2102826333550133520)
 - [Montaje de entrenamiento: evolución de Claude](#claude-opus-5-5-2102788371114246177)
 - [Crea una animación de dibujos animados de los 90, con calidad de Pixar, en Three.js](#claude-opus-5-5-2102788223835463902)
-- [Tablero 3D interactivo para estudiar gambitos de ajedrez](#gpt-6-astra-2102788013902213508)
-- [Animación programada del ciclo del agua en bucle continuo](#claude-opus-5-5-2102781807179735211)
-- [Castillo medieval europeo en 3D controlable desde el navegador](#gpt-6-astra-2102780850706567390)
-- [CatWalk: juego de gatos de desplazamiento lateral en 3D por la ciudad de noche](#claude-opus-5-5-2102775461701091531)
-- [Orbit Lab: simulación 3D del Sol, la Tierra y la Luna](#gpt-6-astra-2102752217375899659)
-- [Benchmark de megaciudad ciberpunk «The Last Train»](#claude-opus-5-5-2102740078347087940)
 
 </details>
+<a id="gpt-6-astra-2104590493191479337"></a>
+
+### Gancho en J imprimible en 3D para una prueba de resistencia
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/d878c00828b551d7a80fe45eaf7bc5e363192ba0200a2335b721eaaef66fae7f.webp" width="840" loading="lazy" alt="Gancho en J imprimible en 3D para una prueba de resistencia"></a>
+
+**Prompt**
+
+```text
+Diseña un gancho en J imprimible en 3D para una prueba de resistencia.
+El gancho cuelga de una barra de acero de 8 mm. En el pico se coloca un pasador de 8 mm, del que colgamos el peso. Quiero obtener la mayor carga de rotura posible sin que la barra ni el pasador se salgan por deslizamiento.
+Reglas:
+- Una sola pieza impresa. No se permiten tornillos, insertos, adhesivo ni piezas adicionales.
+- Debe poder colocarse a mano en la barra y el pasador. No se permiten anillos cerrados.
+- Los centros de apoyo del pasador deben estar separados 40 mm.
+- PLA. Máximo 35 g una vez impreso.
+- Debe caber en un volumen de 80 × 60 × 25 mm.
+- Para extraer el pasador, debe ser necesario levantarlo al menos 10 mm. Si puede salirse rodando por un lateral, el diseño no es válido.
+Dame:
+1. Una explicación breve de la forma.
+2. Un archivo completo de OpenSCAD que pueda compilar y exportar a STL para Bambu Studio.
+No incluyas texto STL. No incluyas G-code. Solo OpenSCAD. Si la primera idea pudiera deslizarse y soltarse, sustitúyela en la misma respuesta.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Design one 3D-printable J-hook for a strength test.
+The hook hangs from an 8 mm steel bar. An 8 mm pin sits in the bill and we hang weight from that pin. I want the highest breaking load I can get without the bar or the pin slipping out.
+Rules:
+- One printed part. No screws, inserts, glue, or extra pieces.
+- Must clip onto the bar and the pin by hand. No closed rings.
+- Pin seats 40 mm apart, center to center.
+- PLA. Max 35 g as printed.
+- Must fit 80 x 60 x 25 mm.
+- The pin should have to lift at least 10 mm to come out. If it can roll out the side, that design is invalid.
+Give me:
+1. A short explanation of the shape.
+2. A complete OpenSCAD file I can compile and export to STL for Bambu Studio.
+No STL text. No G-code. OpenSCAD only. If the first idea would slip off, replace it in the same answer.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104590493191479337) · [Publicación original](https://x.com/WescheNex1q/status/2104590493191479337) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### Arquitectura andante
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="Arquitectura andante"></a>
+
+**Prompt**
+
+```text
+Crea una arquitectura que camine
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104590334152056983) · [Publicación original](https://x.com/shion_takk/status/2104590334152056983) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### Beat 'em up jugable de pixel art ambientado en la Antigua Roma
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="Beat 'em up jugable de pixel art ambientado en la Antigua Roma"></a>
+
+**Prompt**
+
+```text
+Usa Magnific MCP para crear un beat 'em up jugable de pixel art ambientado en la Antigua Roma, en un único archivo HTML que funcione en dispositivos móviles. Genera primero una ilustración principal y úsala como referencia de estilo para todos los recursos: escenario, héroe, enemigos, un jefe elefante de guerra y objetos. Anima a los personajes con image-to-video sobre fondo verde, elige los fotogramas que formen un bucle, elimina el fondo verde y mantén todas las animaciones con la misma escala y paleta. Añade controles táctiles, combos, escudo, esquiva, un pilum arrojable, objetos coleccionables, un modo de demostración de 1 minuto y una banda sonora chiptune. Indícame el coste en créditos antes de cada generación.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104571944842498150) · [Publicación original](https://x.com/koldo2k/status/2104571946989985812) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104531704740512143"></a>
+
+### Juego estilo Genshin Impact y herramienta de edición de terrenos
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp" width="840" loading="lazy" alt="Juego estilo Genshin Impact y herramienta de edición de terrenos"></a>
+
+**Prompt**
+
+```text
+Crea un juego parecido a Genshin Impact y una herramienta para editar sus terrenos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+原神みたいなゲームとそれを地形編集できるツールを作って
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104531704740512143) · [Publicación original](https://x.com/fuguai1/status/2104531704740512143) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### Tarta de fresa interactiva con WebGPU
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="Tarta de fresa interactiva con WebGPU"></a>
+
+**Prompt**
+
+```text
+Crea de inmediato un sitio completo e interactivo con WebGPU llamado «Tarta de fresa». 
+Usa WebGPU + WGSL auténticos, geometría procedural, ratón/táctil y física volumétrica de cuerpos blandos en tiempo real. No uses Three.js/Babylon.js, Canvas2D, recursos externos, vídeo/GIF ni deformación basada únicamente en CSS.
+Estética: tarta de fresas premium al estilo coreano/japonés: baja, ancha, redondeada y suave como una almohada, con bizcocho rosa, capas de crema, cobertura clara, crema escudillada y fresas. Fondo marfil cálido, luz de estudio suave y materiales húmedos y apetecibles.
+Diseño: arriba a la izquierda, «SOFT STUDIES / NO.001» + «Strawberry Cake» en cursiva. Arriba a la derecha, «WEBGPU · LIVE». Tarta grande centrada. Controles a la derecha: Mano/Cuchillo, preajustes, Firmeza, Amortiguación, Soltar, Restablecer, Pausar, velocidad ¼, Mostrar malla. Abajo a la izquierda: Masa, Volumen, Cinética, Piezas.
+Física: cuerpo blando XPBD/co-rotacional estable con malla de simulación tetraédrica, malla de renderizado suavizada, conservación del volumen, amortiguación, gravedad, fricción con el suelo y colisiones entre piezas. La tarta debe sentirse blanda y pesada, y oscilar después de soltarla.
+Mano: mantener pulsado=Presionar, arrastrar hacia dentro=Apretar, arrastrar hacia fuera=Agarrar, soltar rápidamente=Lanzar. Usa agarres ponderados, un objetivo 3D suavizado, la velocidad del puntero y el impulso. La tarta permanece libre; la entrada sobre la tarta tiene prioridad frente a la órbita.
+Cuchillo: cuchillo 3D procedural. Dibuja una línea de corte; anima las fases contacto→compresión→penetración→ruptura→elevación. Deforma antes de dividir y mantén la costura fina.
+Los cortes repetidos son obligatorios: usa una lista dinámica de piezas; cada pieza debe seguir siendo cortable. Convierte los trazos en planos de corte verticales, divide las piezas atravesadas, crea nuevas mallas de cuerpos blandos y de renderizado, transfiere la deformación y la velocidad, conserva las coberturas, mantén las mitades alineadas y actualiza Piezas. Admite más de 14 piezas y cortes sobre varias piezas. No uses estados fijos de tarta completa/izquierda/derecha.
+Soltar libera todas las piezas. Restablecer recupera una sola tarta intacta y Piezas=1. Usa un paso de tiempo fijo con subpasos, DPR≤2, limita la inestabilidad y evita NaN/errores de GPU. Expón window.__cake.
+Ejecuta localmente, prueba las interacciones y los cortes repetidos, y sigue iterando hasta conseguir un resultado pulido.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104514806443303238) · [Publicación original](https://x.com/ImaStudio_ai/status/2104517586092458039) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104504957173153951"></a>
+
+### Rodaja de sandía de gelatina 3D interactiva
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28 · GPT-6 Astra · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/3fb7cd9ade55d534246324137d2c1c9f8b244b21ddc5bb850e5d8b2c693b8b34.webp" width="840" loading="lazy" alt="Rodaja de sandía de gelatina 3D interactiva"></a>
+
+**Prompt**
+
+```text
+Crea “Melon Jelly”: una rodaja de sandía de gelatina 3D pulida e interactiva que se ejecute directamente en el navegador mediante WebGPU real y shaders WGSL.
+Entrega un único archivo HTML autónomo, con JavaScript y CSS integrados. Debe ser una simulación 3D interactiva real, no un render estático, un vídeo ni una imitación en 2D.
+LA SANDÍA
+Crea una porción de sandía triangular, gruesa y de bordes redondeados, con:
+Pulpa de gelatina rojo rubí translúcida.
+Una capa pálida y ligeramente translúcida entre la pulpa y la corteza.
+Una corteza exterior verde brillante con franjas irregulares de color verde oscuro.
+
+Semillas oscuras modeladas individualmente e incrustadas en ambos lados expuestos.
+Esquinas suavemente redondeadas y un grosor atractivo y considerable.
+Haz que parezca una golosina de gominola de lujo fotografiada en un estudio. Debe transmitir una sensación jugosa, blanda y casi comestible. Mantén los colores intensos sin sobreexponer las altas luces.
+FÍSICA DE CUERPO BLANDO
+Usa una simulación volumétrica de cuerpo blando, como una malla tetraédrica con restricciones XPBD elásticas y de conservación del volumen.
+El usuario debe poder:
+Agarrar la punta, una esquina, la pulpa o la corteza.
+Estirar, doblar, levantar y retorcer suavemente la rodaja.
+
+Soltarla y observar cómo se tambalea antes de asentarse gradualmente.
+La rodaja debe deformarse de forma visible y localizada, no limitarse a moverse o escalar como un único objeto rígido. Haz que la corteza sea ligeramente más firme que la pulpa, manteniendo flexible toda la rodaja.
+Conserva razonablemente el volumen durante el estiramiento. Evita elementos invertidos, movimientos explosivos y colapsos permanentes. Usa un paso de tiempo fijo para la simulación y un número acotado de subpasos para garantizar la estabilidad.
+Después de soltarla, el movimiento debe amortiguarse de forma natural: sin volver a su posición de golpe ni oscilar indefinidamente.
+Mantén las semillas unidas a la pulpa deformable. Deben moverse y rotar con la superficie, en lugar de flotar de forma independiente o permanecer fijas en el espacio.
+Incluye contacto con el suelo, una fricción suave y un rebote ligero. Evita que el suelo atraviese visiblemente la pieza.
+RENDERING
+Usa WebGPU nativo con shaders WGSL.
+Incluye:
+Absorción de luz en función del grosor.
+Refracción a través de la gelatina.
+
+Reflejos de Fresnel y brillos especulares.
+Luz transmitida y suave a través de los bordes finos.
+Detalles internos sutiles y unas pocas burbujas de aire diminutas.
+
+Sombras de contacto suaves bajo la rodaja.
+Un fondo de estudio claro y neutro.
+La pulpa, la corteza pálida y la piel verde deben tener respuestas materiales diferenciadas. Evita que todo parezca vidrio transparente o plástico opaco.
+Mantén la rodaja grande y fácil de examinar, con una cámara en ángulo de tres cuartos que muestre la pulpa, las semillas y el grosor.
+INTERFACE
+Usa una composición editorial minimalista, con mucho espacio en blanco, bordes finos, controles discretos y sin degradados decorativos en la interfaz.
+Arriba a la izquierda:
+“MATERIAL STUDIES / NO. 009”
+Un encabezado grande en cursiva y con serifas, dividido en dos líneas: “Melon” y “Jelly”.
+Texto pequeño:
+“Un trozo de verano.”
+“Un pequeño tambaleo.”
+“Demasiado blando para compartir.”
+Arriba a la derecha:
+Un pequeño indicador de estado que muestre “WEBGPU · EN DIRECTO” cuando el renderizador esté funcionando.
+
+Panel lateral derecho:
+“EL ESPÉCIMEN”
+Tres preajustes de color inspirados en la sandía y coordinados entre sí.
+Un control deslizante de firmeza con su valor actual.
+Un control deslizante de amortiguación interna con su valor actual.
+Botones “Dale un toque” y “Restablecer”.
+Casillas “¼ de velocidad” y “Mostrar malla”.
+
+Botón Pausar / Reanudar.
+Abajo a la izquierda:
+Una indicación breve que explique que la rodaja se puede agarrar y estirar.
+Lecturas en directo de la masa, el volumen relativo y la energía cinética, calculadas a partir de la simulación. Describe claramente las unidades ilustrativas o los valores aproximados cuando corresponda.
+Abajo a la derecha:
+
+Una sección plegable titulada “Dentro del experimento” que explique brevemente la física y el renderizado.
+COMPORTAMIENTO Y RENDIMIENTO
+Admite entrada mediante ratón y pantalla táctil. Usa la captura del puntero para que el arrastre siga siendo fiable cuando el puntero salga del objeto.
+Haz que la composición funcione en ordenadores y dispositivos móviles sin que los controles cubran la rodaja.
+Reutiliza los buffers y evita reconstruir la geometría o compilar shaders durante el arrastre. Mantén una interacción fluida y reactiva.
+Respeta las preferencias de reducción de movimiento. Si WebGPU no está disponible, muestra una explicación clara en lugar de sustituirlo silenciosamente por un renderizador falso.
+VALIDATION
+Prueba a arrastrar desde varias posiciones, realizar estiramientos intensos, soltarla repetidamente, comprobar las colisiones con el suelo, usar todos los controles deslizantes y preajustes, pausar, restablecer y activar la cámara lenta.
+Comprueba que el modelo vuelva a una forma estable de reposo, que las semillas sigan unidas, que la malla permanezca intacta y que no haya errores de renderizado.
+Da prioridad a la calidad de la respuesta de la gelatina y de la iluminación. El resultado debe invitar a seguir agarrándolo y jugando con él.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
+Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
+THE WATERMELON
+Create a thick, rounded triangular watermelon wedge with:
+Translucent ruby-red jelly flesh.
+A pale, slightly translucent layer between the flesh and rind.
+A glossy green outer rind with irregular dark-green stripes.
+
+Individually modeled dark seeds embedded in both exposed sides.
+Softly rounded corners and an appealing, substantial thickness.
+Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
+SOFT-BODY PHYSICS
+Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
+The user must be able to:
+Grab the tip, a corner, the flesh, or the rind.
+Stretch, bend, lift, and gently twist the slice.
+
+Release it and watch it wobble before gradually settling.
+The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
+Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
+After release, the motion should decay naturally - no instant snapping back and no endless oscillation.
+Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
+Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
+RENDERING
+Use native WebGPU with WGSL shaders.
+Include:
+Thickness-dependent light absorption.
+Refraction through the jelly.
+
+Fresnel reflections and glossy highlights.
+Soft transmitted light through thin edges.
+Subtle internal details and a few tiny air bubbles.
+
+Soft contact shadows beneath the slice.
+A light, neutral studio background.
+The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
+Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
+INTERFACE
+Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
+Top left:
+“MATERIAL STUDIES / NO. 009”
+A large italic serif heading split across two lines: “Melon” and “Jelly.”
+Small caption:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Top right:
+A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
+
+Right-side panel:
+“THE SPECIMEN”
+Three coordinated watermelon-inspired color presets.
+Firmness slider with its current value.
+Internal damping slider with its current value.
+“Give it a nudge” and “Reset” buttons.
+“¼ speed” and “Show mesh” checkboxes.
+
+Pause / Resume button.
+Bottom left:
+A short hint explaining that the slice can be grabbed and stretched.
+Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
+Bottom right:
+
+A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
+BEHAVIOR AND PERFORMANCE
+Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
+Make the layout work on desktop and mobile without controls covering the slice.
+Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
+Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
+VALIDATION
+Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
+Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
+Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2104504957173153951) · [Publicación original](https://x.com/esrhengwu/status/2104505413857415515) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### Set de LEGO del Ford Model T con todas sus funciones
@@ -2411,218 +2759,6 @@ I want you to imagine a story. And then using threejs I want you to create full 
 </details>
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102788223835463902) · [Publicación original](https://x.com/scheemunai/status/2102788223835463902) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102788013902213508"></a>
-
-### Tablero 3D interactivo para estudiar gambitos de ajedrez
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="Tablero 3D interactivo para estudiar gambitos de ajedrez"></a>
-
-**Prompt**
-
-```text
-Crea una aplicación web con un tablero 3D interactivo para estudiar los principales gambitos de ajedrez. Incluye animaciones de los movimientos, controles para avanzar y retroceder, variantes y explicaciones de las ideas detrás de cada apertura.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102788013902213508) · [Publicación original](https://x.com/diogosantosbr/status/2102788013902213508) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102781807179735211"></a>
-
-### Animación programada del ciclo del agua en bucle continuo
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Animación programada del ciclo del agua en bucle continuo"></a>
-
-**Prompt**
-
-```text
-Crea una animación en bucle continuo del ciclo del agua, completamente mediante código.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a seamless looping animation of the water cycle, entirely in code.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102781807179735211) · [Publicación original](https://x.com/higgsfield_ai/status/2102781807179735211) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102780850706567390"></a>
-
-### Castillo medieval europeo en 3D controlable desde el navegador
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="Castillo medieval europeo en 3D controlable desde el navegador"></a>
-
-**Prompt**
-
-```text
-Crear un castillo medieval europeo en 3D controlable desde el navegador. Incluir un foso de agua, un puente levadizo, torres, murallas de piedra, banderas, un bosque y un cambio entre el día y la noche. 
-Como se trata de una especie de prueba de referencia, prioriza al máximo la calidad del modelo 3D y hasta dónde se puede llevar su aspecto visual.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
-これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102780850706567390) · [Publicación original](https://x.com/luxurytax150/status/2102780850706567390) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102775461701091531"></a>
-
-### CatWalk: juego de gatos de desplazamiento lateral en 3D por la ciudad de noche
-
-[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: juego de gatos de desplazamiento lateral en 3D por la ciudad de noche"></a>
-
-**Prompt**
-
-```text
-Desarrollemos un juego
-Los gráficos pueden ser en 2D o 3D; analiza el sistema del juego y demás aspectos, y elige la opción que facilite más el desarrollo
-Personalmente, imagino algo en 3D, pero con una pantalla similar a la de un juego de acción de desplazamiento lateral
-Quiero crear una atmósfera elegante mediante la iluminación y otros elementos, así que creo que el 3D podría permitir una representación visual hermosa (por ejemplo, elementos como farolas o linternas)
-El juego que quiero crear se llama CatWalk
-Tal como indica el nombre
-Un gato avanza lateralmente
-La pasarela continúa y la pantalla se desplaza automáticamente. El jugador debe superar obstáculos y agujeros ajustándose a esa velocidad, usando únicamente controles sencillos, como saltar. En cierto sentido, quizá se acerque a la tensión y al sistema de Flappy
-Sin embargo, quiero unos gráficos elegantes, maduros y con mucha atmósfera
-Si es posible, me gustaría que se pudieran representar los movimientos ágiles del gato al caminar, correr y saltar
-Dejo en tus manos la ambientación del nivel, aunque para empezar una calle nocturna convencional también estaría bien
-Me alegraría mucho que, al oscurecer la escena, se pudiera representar de forma hermosa la iluminación indirecta y otros efectos de luz
-Entiendo que habrá cosas que se puedan hacer, cosas que no y otras que sean difíciles
-Tomando mis deseos como inspiración, desarrolla algo que consideres viable
-Para empezar, haz posible jugar un bucle completo de un nivel
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-ゲームを開発しましょう
-グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
-個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
-照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
-作りたいゲームは CatWalk というゲーム
-名前の通りです
-猫が横に進む
-キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
-ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
-可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
-ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
-暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
-できることできないこと難しいことがあると思うので
-この私の要望をヒントにあなたなりにできそうなものを開発してほしい
-まずは１ステージのワンループができるように
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102775461701091531) · [Publicación original](https://x.com/blitast_studio/status/2102775632933654585) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102752217375899659"></a>
-
-### Orbit Lab: simulación 3D del Sol, la Tierra y la Luna
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab: simulación 3D del Sol, la Tierra y la Luna"></a>
-
-**Prompt**
-
-```text
-Es un experimento comparativo. Implementa y deja terminada en tu directorio de trabajo la siguiente obra web con especificaciones idénticas. El nombre será «Orbit Lab». Usa Three.js 0.186.0 y carga el núcleo y OrbitControls de la misma versión (puedes usar un import map desde un CDN o npm). No es necesario publicar ni desplegar el proyecto.
-
-Requisitos:
-1. Representa modelos 3D del Sol, la Tierra y la Luna mediante geometría y materiales creados de forma procedimental. No uses imágenes ni recursos 3D externos. El Sol debe actuar como fuente de luz puntual, y la iluminación de la Tierra y la Luna debe poder apreciarse al controlar la cámara.
-2. Anima la traslación y la rotación de la Tierra, la inclinación de su eje y la traslación de la Luna usando tiempo delta. Visualiza la inclinación del plano orbital y muestra las líneas orbitales de la Tierra y la Luna. La escala y la velocidad pueden exagerarse con fines educativos.
-3. Genera un fondo estrellado con números aleatorios reproducibles. Permite rotar y ampliar o alejar la vista con OrbitControls. Al hacer clic en un cuerpo celeste, cambia su estado de selección y el panel descriptivo.
-4. Incluye controles de reproducir/detener, un deslizador de velocidad, un interruptor para mostrar u ocultar las líneas orbitales, enfoque de cámara en el Sol, la Tierra o la Luna, y un botón para volver al estado inicial. También debe ser posible reproducir/detener y restablecer la simulación mediante el teclado.
-5. Adapta la interfaz para poder manejarla en pantallas de móvil, incluye un aviso cuando WebGL no sea compatible, responde al cambio de tamaño y limita la densidad de píxeles para evitar una carga de renderizado excesiva.
-6. Escribe en el README las instrucciones de inicio y los controles. Si es posible, inicia realmente la aplicación y comprueba su funcionamiento; si no, indica claramente el motivo. En el informe final, resume brevemente los archivos creados, los elementos implementados y los resultados de la comprobación.
-
-No hagas preguntas durante el proceso: toma decisiones razonables y completa la implementación hasta el final.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
-
-要件:
-1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
-2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
-3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
-4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
-5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
-6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
-
-途中で質問せず、合理的に判断して最後まで実装してください。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102752217375899659) · [Publicación original](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102740078347087940"></a>
-
-### Benchmark de megaciudad ciberpunk «The Last Train»
-
-[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="Benchmark de megaciudad ciberpunk «The Last Train»"></a>
-
-**Prompt**
-
-```text
-Construye una megaciudad ciberpunk completa dentro de Blender, con un tren protagonista, arquitectura procedural, sistemas ferroviarios elevados, lluvia, atmósfera volumétrica, iluminación cinematográfica, varias configuraciones de cámara y una secuencia animada completa.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102740078347087940) · [Publicación original](https://x.com/builderhelmai/status/2102740078347087940) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

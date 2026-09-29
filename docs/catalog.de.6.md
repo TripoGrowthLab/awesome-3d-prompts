@@ -28,6 +28,12 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Flugspiel im Browser](#browser-flight-game-2096149823216898445)
+- [Vom Café-Foto zum Hochformat-Rundgang](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [Automatisches Figurenrig mit Kung-Fu-Bewegungen](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Wikingerfigur in Blender](#viking-character-in-blender-2096140378777010278)
+- [Odyssey-inspiriertes Plattformabenteuer](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [Geriggter und animierter T. rex](#rigged-and-animated-t-rex-2096133339329536249)
 - [Begehbares Büro mit 32 animierten Menschen](#walkable-office-with-32-animated-people-2096131961345720477)
 - [Abendlicher Kameraflug durch eine Adiyogi-Szene](#adiyogi-evening-fly-through-2096128774203171021)
 - [Formel-1-Auto in Blender](#formula-one-car-in-blender-2096125193580113957)
@@ -72,14 +78,128 @@
 - [Third-Person-Shooter mit Bullet-Time](#bullet-time-third-person-shooter-2095962376344309843)
 - [Street Heat: Drift-Rennspiel im Browser](#street-heat-browser-drift-racer-2095916820431827408)
 - [Schneller spielbarer Spieleprototyp](#rapid-playable-game-prototype-2095907526566990013)
-- [Nahtloses Cyberpunk-Schlafzimmer in Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [Selbstspielendes Arcade-Spiel mit Kulturmotiv](#self-playing-cultural-arcade-game-2095898198413922791)
-- [Vom Prompt zum Open-World-Spiel](#open-world-game-from-a-prompt-2095872986477908108)
-- [Van-Gogh-Stadt in Three.js](#van-gogh-town-in-three-js-2095871735824339279)
-- [Mechanisch vollständig modellierte Blender-Lokomotive](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [Blender-Szenenchallenge in 30 Sekunden](#thirty-second-blender-scene-challenge-2095844872171421771)
 
 </details>
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### Flugspiel im Browser
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Flugspiel im Browser"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle aus einem leeren Projekt ein vollständiges 3D-Flugspiel im Browser. Integriere steuerbaren Flug, navigierbare Umgebung, ein klares Ziel und eine stimmige Präsentation.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/browser-flight-game-2096149823216898445) · [Originalbeitrag](https://x.com/givros/status/2096149823216898445) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### Vom Café-Foto zum Hochformat-Rundgang
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Vom Café-Foto zum Hochformat-Rundgang"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Café anhand seines Fotos in Blender nach, einschließlich Holzdecke, Lichtbändern, Kaffeeröster, Regalen und Pflanzen. Liefere eine bearbeitbare Szene und einen 15-sekündigen Kamerarundgang im Hochformat.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Originalbeitrag](https://x.com/harrisonitsme/status/2096143359505269079) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### Automatisches Figurenrig mit Kung-Fu-Bewegungen
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Automatisches Figurenrig mit Kung-Fu-Bewegungen"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle für die bereitgestellte 3D-Figur ein Rig und ergänze Gehen, Laufen und mehrere Kung-Fu-Bewegungen. Prüfe die Animationen auf kaputte Gelenke und instabile Posen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Originalbeitrag](https://x.com/thebuggeddev/status/2096141728487178503) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Wikingerfigur in Blender
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Wikingerfigur in Blender"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine bearbeitbare 3D-Wikingerfigur in Blender. Konzentriere dich auf erkennbare Kleidung, Gesichtsstruktur, Körperproportionen und eine klare Präsentationspose.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/viking-character-in-blender-2096140378777010278) · [Originalbeitrag](https://x.com/fre4kspace/status/2096140378777010278) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Odyssey-inspiriertes Plattformabenteuer
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey-inspiriertes Plattformabenteuer"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue einen Odyssey-inspirierten Three.js-Level mit acht Plattformen, drei sammelbaren Monden, zurückkehrenden Kappenangriffen, Gegnern und Checkpoints. Ergänze Touchsteuerung und teste einen vollständigen Durchlauf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Originalbeitrag](https://x.com/AiHubMix/status/2096135808243876152) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### Geriggter und animierter T. rex
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="Geriggter und animierter T. rex"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Rigg ein generiertes T.-rex-Modell und erstelle glaubwürdige Bewegungen. Rendere die Figur in Three.js und prüfe, ob die Animation das Modell stimmig verformt.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Originalbeitrag](https://x.com/majidmanzarpour/status/2096133339329536249) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
 
 ### Begehbares Büro mit 32 animierten Menschen
@@ -1011,133 +1131,6 @@ Erstelle unter einem strengen Zeit- und Tokenbudget einen visuell stimmigen spie
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Originalbeitrag](https://x.com/gibglue/status/2095907526566990013) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Nahtloses Cyberpunk-Schlafzimmer in Blender
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Nahtloses Cyberpunk-Schlafzimmer in Blender"></a>
-
-**Prompt**
-
-```text
-Erstelle in Blender ein filmisches Cyberpunk-Schlafzimmer mit Blick auf eine regnerische Neonstadt bei Nacht. Ergänze animierte Werbetafeln und gestalte die Szene fotorealistisch und nahtlos wiederholbar.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Originalbeitrag](https://x.com/CoinSh0t/status/2095898303019856230) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### Selbstspielendes Arcade-Spiel mit Kulturmotiv
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Selbstspielendes Arcade-Spiel mit Kulturmotiv"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein selbstspielendes Arcade-Spiel für ein G7-Land. Übersetze ein bekanntes kulturelles Wahrzeichen in die Kernmechanik. Die Aktion soll ohne Eingabe verständlich sein. Ergänze Punkte, steigende Schwierigkeit und einen einprägsamen Höhepunkt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Originalbeitrag](https://x.com/say_gm_/status/2095898198413922791) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### Vom Prompt zum Open-World-Spiel
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="Vom Prompt zum Open-World-Spiel"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue aus diesem Konzept ein Open-World-Spiel: [Weltprämisse]. Integriere drei unterschiedliche Regionen, Fortbewegung, dynamische Begegnungen, eine einfache Questkette, Orientierungspunkte, Speichern und Neustart sowie ausreichende Browseroptimierung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Originalbeitrag](https://x.com/aeejazkhan/status/2095872986477908108) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Van-Gogh-Stadt in Three.js
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Van-Gogh-Stadt in Three.js"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine begehbare, von Van Gogh inspirierte Three.js-Stadt. Verwandle gemalte Straßen, Sterne, Cafés und Felder in geschichtete 3D-Räume und bewahre den Pinselstrich durch Shader, Texturen und animiertes Licht.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Originalbeitrag](https://x.com/RealFedeURU/status/2095871735824339279) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### Mechanisch vollständig modellierte Blender-Lokomotive
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Mechanisch vollständig modellierte Blender-Lokomotive"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Modelliere eine Dampflokomotive in Blender als echte mechanische Aufgliederung statt als texturierte Hülle. Benenne und trenne Achsen, Achslagerführungen, Lagerblöcke, Stehbolzen, Federungsglieder, Dampfdom und jede wichtige Baugruppe.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Originalbeitrag](https://x.com/sheemamoto/status/2095868420327710840) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### Blender-Szenenchallenge in 30 Sekunden
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Blender-Szenenchallenge in 30 Sekunden"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue unter extremem Zeitdruck eine stimmige Blender-Szene. Priorisiere eine starke Silhouette, drei Tiefenebenen, ein prägendes Material, filmisches Licht und eine kamerafertige Komposition. Alle Objekte müssen bearbeitbar bleiben.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Originalbeitrag](https://x.com/_satyam_ai/status/2095844872171421771) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

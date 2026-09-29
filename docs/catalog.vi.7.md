@@ -28,6 +28,12 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Phòng ngủ cyberpunk lặp vô tận trong Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
+- [Game arcade văn hóa tự chơi](#self-playing-cultural-arcade-game-2095898198413922791)
+- [Từ prompt đến game thế giới mở](#open-world-game-from-a-prompt-2095872986477908108)
+- [Thị trấn Van Gogh trong Three.js](#van-gogh-town-in-three-js-2095871735824339279)
+- [Đầu máy Blender đầy đủ cấu tạo cơ khí](#mechanically-complete-blender-locomotive-2095868420327710840)
+- [Thử thách dựng cảnh Blender trong ba mươi giây](#thirty-second-blender-scene-challenge-2095844872171421771)
 - [Cảnh hải chiến Three.js trong một lượt](#single-turn-three-js-naval-war-scene-2095840435319001278)
 - [Phòng Bầu dục qua các đời tổng thống](#oval-office-through-the-presidencies-2095830596069290077)
 - [Từ công thức cheesecake đến phim 3D](#recipe-to-3d-cheesecake-film-2095829851206774987)
@@ -72,14 +78,135 @@
 - [Phiêu lưu thế giới mở trên trình duyệt](#open-world-browser-adventure-2095596341422440714)
 - [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Căn cứ Arcadia trên sao Hỏa](#arcadia-base-on-mars-2095595678214873212)
-- [Ba game đua kart theo chủ đề từ một bản greybox](#three-themed-kart-games-from-one-greybox-2095580402505400369)
-- [Nghiên cứu thác nước thủ tục](#procedural-waterfall-study-2095510069047660636)
-- [Aerie, hòn đảo voxel sống](#aerie-a-living-voxel-island-2095493630421340200)
-- [Figure có khớp để in 3D](#articulated-printable-action-figure-2095481098201387287)
-- [Hố đen WebGL điện ảnh](#cinematic-webgl-black-hole-2095409039005933910)
-- [Trực quan hóa tháo rời rack máy chủ AI](#exploding-ai-server-rack-visualization-2095193022304792938)
 
 </details>
+<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
+
+### Phòng ngủ cyberpunk lặp vô tận trong Blender
+
+[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Phòng ngủ cyberpunk lặp vô tận trong Blender"></a>
+
+**Prompt**
+
+```text
+Tạo phòng ngủ cyberpunk đậm chất điện ảnh trong Blender nhìn ra thành phố neon về đêm dưới mưa. Thêm bảng quảng cáo động, làm hình ảnh chân thực và vòng lặp liền mạch.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Bài đăng gốc](https://x.com/CoinSh0t/status/2095898303019856230) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
+
+### Game arcade văn hóa tự chơi
+
+[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Game arcade văn hóa tự chơi"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo một game arcade tự chơi cho một quốc gia G7. Biến địa danh văn hóa dễ nhận biết thành cơ chế chính, làm hành động dễ hiểu mà không cần nhập lệnh, thêm điểm, thử thách tăng dần và màn hé lộ đáng nhớ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Bài đăng gốc](https://x.com/say_gm_/status/2095898198413922791) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
+
+### Từ prompt đến game thế giới mở
+
+[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="Từ prompt đến game thế giới mở"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game thế giới mở từ ý tưởng: [bối cảnh thế giới]. Có ba vùng riêng biệt, di chuyển, các cuộc gặp động, chuỗi nhiệm vụ đơn giản, địa danh, lưu và khởi động lại cùng mức tối ưu đủ để chạy trên trình duyệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Bài đăng gốc](https://x.com/aeejazkhan/status/2095872986477908108) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
+
+### Thị trấn Van Gogh trong Three.js
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Thị trấn Van Gogh trong Three.js"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo thị trấn Three.js có thể đi dạo lấy cảm hứng từ Van Gogh. Biến đường phố, sao, quán cà phê và cánh đồng trong tranh thành không gian 3D nhiều lớp, giữ nét cọ sống động qua shader, texture và ánh sáng động.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095871735824339279) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
+
+### Đầu máy Blender đầy đủ cấu tạo cơ khí
+
+[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Đầu máy Blender đầy đủ cấu tạo cơ khí"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng đầu máy hơi nước trong Blender như một cấu trúc cơ khí thực sự, không phải lớp vỏ có texture. Đặt tên và tách riêng trục, dẫn hướng hộp trục, hộp trục, thanh giằng, liên kết hệ treo, vòm hơi và mọi cụm chính.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Bài đăng gốc](https://x.com/sheemamoto/status/2095868420327710840) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
+
+### Thử thách dựng cảnh Blender trong ba mươi giây
+
+[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Thử thách dựng cảnh Blender trong ba mươi giây"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng một cảnh Blender nhất quán dưới giới hạn thời gian cực ngắn. Ưu tiên dáng hình rõ, ba lớp chiều sâu, một vật liệu chủ đạo, ánh sáng điện ảnh và bố cục sẵn sàng lên hình; giữ mọi đối tượng có thể chỉnh sửa.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Bài đăng gốc](https://x.com/_satyam_ai/status/2095844872171421771) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
 
 ### Cảnh hải chiến Three.js trong một lượt
@@ -966,126 +1093,6 @@ Dựng thuộc địa sao Hỏa voxel chơi được với tàu hạ cánh, robo
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [Bài đăng gốc](https://x.com/knowixbuilds/status/2095595678214873212) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
-
-### Ba game đua kart theo chủ đề từ một bản greybox
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="Ba game đua kart theo chủ đề từ một bản greybox"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dùng bản greybox đua kart Unity được cung cấp để tạo ba phiên bản chơi được: cướp biển, kẹo ngọt và cyberpunk. Tái sử dụng vòng lặp lái xe cốt lõi, thay môi trường và phản hồi, chơi thử từng bản rồi sửa các lỗi dễ thấy nhất.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Bài đăng gốc](https://x.com/chetaslua/status/2095580402505400369) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="procedural-waterfall-study-2095510069047660636"></a>
-
-### Nghiên cứu thác nước thủ tục
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="Nghiên cứu thác nước thủ tục"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo cảnh thác nước Three.js với nước chảy, bụi nước, đá và tỷ lệ rõ ràng. Dùng ánh sáng và khung hình để chuyển động nước dễ quan sát.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-waterfall-study-2095510069047660636) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095510069047660636) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
-
-### Aerie, hòn đảo voxel sống
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie, hòn đảo voxel sống"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng thế giới voxel 3D có thể khám phá, xoay và phóng to. Thêm chuyển động tự chủ để thế giới sống động; tự chọn bối cảnh và cư dân.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2095493630421340200) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="articulated-printable-action-figure-2095481098201387287"></a>
-
-### Figure có khớp để in 3D
-
-[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="Figure có khớp để in 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến ý tưởng nhân vật thành figure có thể in. Dựng khớp cầu trong Blender và kiểm tra figure sau khi lắp ráp có thể đứng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [Bài đăng gốc](https://x.com/_MaxBlade/status/2095481098201387287) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
-
-### Hố đen WebGL điện ảnh
-
-[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="Hố đen WebGL điện ảnh"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng hố đen điện ảnh trong một tệp HTML bằng WebGL2 thuần. Có thấu kính hấp dẫn ray marching, đĩa bồi tụ thủ tục, tăng sáng Doppler và các hạt bay theo quỹ đạo.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [Bài đăng gốc](https://x.com/ekibuilds/status/2095409039005933910) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
-
-### Trực quan hóa tháo rời rack máy chủ AI
-
-[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="Trực quan hóa tháo rời rack máy chủ AI"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng màn trực quan hóa tháo rời rack NVL72 và hệ GB300 trên Three.js, với thành phần có nhãn, tách theo giai đoạn, ánh sáng kỹ thuật và chuyển camera mượt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Bài đăng gốc](https://x.com/kylejeong/status/2095193022304792938) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

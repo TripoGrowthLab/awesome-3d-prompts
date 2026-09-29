@@ -28,6 +28,12 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [강도 테스트용 3D 프린팅 J자 후크](#gpt-6-astra-2104590493191479337)
+- [걸어 다니는 건축물](#claude-opus-5-5-2104590334152056983)
+- [플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임](#claude-opus-5-5-2104571944842498150)
+- [원신풍 게임과 지형 편집 툴](#gpt-6-astra-2104531704740512143)
+- [인터랙티브 WebGPU 딸기 케이크](#claude-opus-5-5-2104514806443303238)
+- [인터랙티브 3D 젤리 수박 슬라이스](#gpt-6-astra-2104504957173153951)
 - [기능을 모두 갖춘 LEGO Ford Model T 세트](#claude-opus-5-5-2104232297167716457)
 - [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](#claude-opus-5-5-2104232013578617241)
 - [데이터센터에서 원자까지 이어지는 55초 3D 장면](#claude-opus-5-5-2104223449849761837)
@@ -72,14 +78,356 @@
 - [무한한 솔라펑크 도시 셰이더](#gpt-6-astra-2102826333550133520)
 - [Claude 성장 훈련 몽타주](#claude-opus-5-5-2102788371114246177)
 - [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](#claude-opus-5-5-2102788223835463902)
-- [체스 갬빗 학습을 위한 인터랙티브 3D 체스판](#gpt-6-astra-2102788013902213508)
-- [끊김 없는 코드 기반 물 순환 애니메이션](#claude-opus-5-5-2102781807179735211)
-- [브라우저에서 조작할 수 있는 중세 유럽풍 3D 성](#gpt-6-astra-2102780850706567390)
-- [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](#claude-opus-5-5-2102775461701091531)
-- [Orbit Lab: 태양·지구·달 3D 시뮬레이션](#gpt-6-astra-2102752217375899659)
-- [더 라스트 트레인 사이버펑크 메가시티 벤치마크](#claude-opus-5-5-2102740078347087940)
 
 </details>
+<a id="gpt-6-astra-2104590493191479337"></a>
+
+### 강도 테스트용 3D 프린팅 J자 후크
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/d878c00828b551d7a80fe45eaf7bc5e363192ba0200a2335b721eaaef66fae7f.webp" width="840" loading="lazy" alt="강도 테스트용 3D 프린팅 J자 후크"></a>
+
+**프롬프트**
+
+```text
+강도 테스트용 3D 프린팅 J자 후크 하나를 설계하세요.
+후크는 8mm 강철 봉에 걸립니다. 8mm 핀을 후크 끝부분에 끼우고, 그 핀에 추를 매답니다. 봉이나 핀이 빠지지 않는 조건에서 최대 파단 하중을 견딜 수 있게 해 주세요.
+규칙:
+- 출력물은 한 부품이어야 합니다. 나사, 인서트, 접착제 또는 추가 부품은 사용할 수 없습니다.
+- 봉과 핀에 손으로 끼울 수 있어야 합니다. 완전히 닫힌 링 형태는 사용할 수 없습니다.
+- 핀 안착 위치의 중심 간 거리는 40mm입니다.
+- 재질은 PLA입니다. 출력 후 중량은 최대 35g입니다.
+- 80 × 60 × 25mm 안에 들어와야 합니다.
+- 핀이 빠지려면 최소 10mm 이상 들어 올려야 합니다. 옆으로 굴러 빠질 수 있는 설계는 유효하지 않습니다.
+다음 결과를 제공하세요:
+1. 형상에 대한 간단한 설명.
+2. Bambu Studio에서 컴파일하고 STL로 내보낼 수 있는 완전한 OpenSCAD 파일.
+STL 텍스트는 제공하지 마세요. G-code도 제공하지 마세요. OpenSCAD만 사용하세요. 첫 번째 아이디어가 빠질 가능성이 있다면 같은 답변에서 이를 수정한 설계로 대체하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Design one 3D-printable J-hook for a strength test.
+The hook hangs from an 8 mm steel bar. An 8 mm pin sits in the bill and we hang weight from that pin. I want the highest breaking load I can get without the bar or the pin slipping out.
+Rules:
+- One printed part. No screws, inserts, glue, or extra pieces.
+- Must clip onto the bar and the pin by hand. No closed rings.
+- Pin seats 40 mm apart, center to center.
+- PLA. Max 35 g as printed.
+- Must fit 80 x 60 x 25 mm.
+- The pin should have to lift at least 10 mm to come out. If it can roll out the side, that design is invalid.
+Give me:
+1. A short explanation of the shape.
+2. A complete OpenSCAD file I can compile and export to STL for Bambu Studio.
+No STL text. No G-code. OpenSCAD only. If the first idea would slip off, replace it in the same answer.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104590493191479337) · [원본 게시물](https://x.com/WescheNex1q/status/2104590493191479337) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### 걸어 다니는 건축물
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="걸어 다니는 건축물"></a>
+
+**프롬프트**
+
+```text
+걸어 다니는 건축물 만들어 줘
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104590334152056983) · [원본 게시물](https://x.com/shion_takk/status/2104590334152056983) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### 플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임"></a>
+
+**프롬프트**
+
+```text
+Magnific MCP를 사용해 고대 로마를 배경으로 한 플레이 가능한 픽셀 아트 벨트스크롤 액션 게임을 제작하세요. 모바일에서 작동하는 단일 HTML 파일로 구현하세요. 먼저 키 아트를 생성하고, 이를 모든 에셋의 스타일 레퍼런스로 사용하세요. 에셋에는 스테이지, 주인공, 적, 전쟁 코끼리 보스, 아이템이 포함됩니다. 그린 스크린에서 이미지-투-비디오 기능으로 캐릭터를 애니메이션화하고, 반복 재생에 적합한 프레임을 선택하세요. 그린 스크린을 크로마 키로 제거하고 모든 애니메이션의 스케일과 팔레트를 동일하게 유지하세요. 터치 조작, 콤보, 방패, 회피, 투척 가능한 필룸, 아이템 획득 요소, 1분 데모 모드, 칩튠 사운드트랙을 추가하세요. 생성하기 전에 매번 크레딧 비용을 알려 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104571944842498150) · [원본 게시물](https://x.com/koldo2k/status/2104571946989985812) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104531704740512143"></a>
+
+### 원신풍 게임과 지형 편집 툴
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp" width="840" loading="lazy" alt="원신풍 게임과 지형 편집 툴"></a>
+
+**프롬프트**
+
+```text
+원신 같은 게임과 게임 내 지형을 편집할 수 있는 툴을 만들어 줘
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+原神みたいなゲームとそれを地形編集できるツールを作って
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104531704740512143) · [원본 게시물](https://x.com/fuguai1/status/2104531704740512143) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### 인터랙티브 WebGPU 딸기 케이크
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="인터랙티브 WebGPU 딸기 케이크"></a>
+
+**프롬프트**
+
+```text
+지금 바로 “Strawberry Cake”라는 이름의 완전한 인터랙티브 WebGPU 사이트를 제작하세요. 
+순수 WebGPU + WGSL, 절차적 지오메트리, 마우스/터치 입력, 실시간 볼류메트릭 소프트 바디 물리를 사용하세요. Three.js/Babylon.js, Canvas2D, 외부 에셋, 동영상/GIF, CSS만으로 구현한 변형은 사용하지 마세요.
+비주얼: 고급스러운 한국/일본식 딸기 쇼트케이크—낮고 넓으며 둥글고, 폭신한 쿠션처럼 부드러운 형태. 분홍색 스펀지, 크림 레이어, 옅은 프로스팅, 짜서 올린 크림, 딸기를 사용하세요. 따뜻한 아이보리색 배경과 부드러운 스튜디오 조명, 촉촉하고 먹음직스러운 재질을 적용하세요.
+레이아웃: 왼쪽 상단에 “SOFT STUDIES / NO.001”과 이탤릭체 “Strawberry Cake”. 오른쪽 상단에 “WEBGPU · LIVE”. 케이크는 중앙에 크게 배치하세요. 오른쪽 컨트롤에는 Hand/Knife, 프리셋, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh를 배치하세요. 왼쪽 하단에는 Mass, Volume, Kinetic, Pieces를 표시하세요.
+물리: 사면체 시뮬레이션 메시와 매끄러운 렌더링 메시를 사용하는 안정적인 XPBD/공회전 소프트 바디를 구현하세요. 부피 보존, 감쇠, 중력, 바닥 마찰, 조각 간 충돌을 지원하세요. 케이크는 부드럽고 묵직하게 느껴져야 하며, 놓은 뒤에는 흔들려야 합니다.
+손: 누르고 있으면 Press, 안쪽으로 드래그하면 Squeeze, 바깥쪽으로 드래그하면 Grab, 빠르게 놓으면 Throw가 되게 하세요. 가중치가 적용된 잡기, 평활화된 3D 타깃, 포인터 속도와 운동량을 사용하세요. 케이크는 자유롭게 움직이는 상태를 유지하고, 케이크 입력이 오비트 조작보다 우선하도록 하세요.
+칼: 절차적으로 생성된 3D 칼을 사용하세요. 절단선을 그리면 접촉→압축→관통→절단 완료→들어 올리기의 순서로 애니메이션을 재생하세요. 분할하기 전에 변형을 적용하고, 절단면은 얇게 유지하세요.
+반복 절단은 필수입니다. 동적 조각 목록을 사용하고, 모든 조각을 계속 절단할 수 있게 하세요. 스트로크를 수직 절단 평면으로 변환하고, 절단면이 교차한 조각을 분할하며, 새로운 소프트 바디/렌더링 메시를 생성하세요. 변형과 속도를 전달하고, 토핑을 보존하며, 양쪽 조각을 정렬하고, Pieces를 업데이트하세요. 14개 이상의 조각과 여러 조각을 가로지르는 절단을 지원하세요. 고정된 전체/왼쪽/오른쪽 상태는 사용하지 마세요.
+Drop은 모든 조각을 놓아야 합니다. Reset은 온전한 케이크 하나와 Pieces=1 상태로 복원해야 합니다. 고정 타임스텝/서브스텝을 사용하고, DPR≤2로 제한하며, 불안정성을 클램프하고, NaN/GPU 오류를 방지하세요. window.__cake을 노출하세요.
+로컬에서 실행하고, 상호작용과 반복 절단을 테스트한 뒤, 완성도가 높아질 때까지 반복 개선하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104514806443303238) · [원본 게시물](https://x.com/ImaStudio_ai/status/2104517586092458039) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104504957173153951"></a>
+
+### 인터랙티브 3D 젤리 수박 슬라이스
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/3fb7cd9ade55d534246324137d2c1c9f8b244b21ddc5bb850e5d8b2c693b8b34.webp" width="840" loading="lazy" alt="인터랙티브 3D 젤리 수박 슬라이스"></a>
+
+**프롬프트**
+
+```text
+“Melon Jelly”를 제작하세요. WebGPU와 WGSL 셰이더를 직접 사용해 브라우저에서 실행되는 완성도 높고 인터랙티브한 3D 수박 젤리 슬라이스를 구현하세요.
+ JavaScript와 CSS가 포함된 단일 독립 실행형 HTML 파일로 제공하세요. 정적 렌더, 동영상 또는 2D 모방물이 아닌 실제 인터랙티브 3D 시뮬레이션이어야 합니다.
+수박
+다음 요소를 갖춘 두껍고 둥근 삼각형 모양의 수박 조각을 제작하세요.
+반투명한 루비 레드 젤리 과육.
+과육과 껍질 사이에 있는 옅고 약간 반투명한 층.
+불규칙한 짙은 녹색 줄무늬가 있는 윤기 나는 녹색 겉껍질.
+
+드러난 양쪽 면에 각각 모델링해 박아 넣은 짙은 색 씨.
+부드럽게 둥근 모서리와 보기 좋고 충분한 두께.
+스튜디오에서 촬영한 고급 구미 캔디처럼 보이게 하세요. 과즙이 풍부하고 부드러우며 거의 먹음직스럽게 느껴져야 합니다. 하이라이트를 과도하게 날리지 않으면서 색상은 풍부하게 유지하세요.
+소프트 바디 물리
+XPBD 탄성 및 체적 보존 제약이 적용된 사면체 메시와 같은 체적 소프트 바디 시뮬레이션을 사용하세요.
+사용자는 다음과 같은 조작을 할 수 있어야 합니다.
+끝부분, 모서리, 과육 또는 껍질을 잡습니다.
+조각을 늘이고, 구부리고, 들어 올리고, 부드럽게 비틉니다.
+
+놓은 뒤 흔들리다가 서서히 안정되는 모습을 확인할 수 있어야 합니다.
+조각 전체가 단순히 하나의 강체처럼 이동하거나 크기만 변하지 말고, 국소적으로 눈에 띄게 변형되어야 합니다. 전체 조각은 유연하게 유지하되 껍질은 과육보다 약간 더 단단하게 설정하세요.
+늘릴 때 체적을 합리적인 수준으로 유지하세요. 요소가 뒤집히거나 움직임이 폭발적으로 커지거나 영구적으로 무너지지 않도록 하세요. 안정성을 위해 고정 시뮬레이션 타임스텝과 제한된 서브스텝을 사용하세요.
+놓은 뒤에는 움직임이 자연스럽게 감쇠되어야 합니다. 즉시 튕겨 돌아오거나 끝없이 진동하지 않게 하세요.
+씨가 변형되는 과육에 붙어 있도록 하세요. 씨는 표면과 함께 이동하고 회전해야 하며, 따로 떠다니거나 공간에 고정되어 있어서는 안 됩니다.
+바닥 접촉, 약한 마찰과 부드러운 바운스를 포함하세요. 바닥을 뚫고 들어가는 현상이 눈에 띄지 않도록 하세요.
+RENDERING
+네이티브 WebGPU와 WGSL 셰이더를 사용하세요.
+다음 요소를 포함하세요.
+두께에 따른 빛 흡수.
+젤리를 통과하는 굴절.
+
+프레넬 반사와 윤기 나는 하이라이트.
+얇은 가장자리를 통과하는 부드러운 투과광.
+은은한 내부 디테일과 소량의 작은 기포.
+
+조각 아래에 드리워지는 부드러운 접촉 그림자.
+밝고 중립적인 스튜디오 배경.
+과육, 옅은색 껍질, 녹색 외피가 서로 다른 머티리얼 반응을 보여야 합니다. 모든 부분이 투명한 유리나 불투명한 플라스틱처럼 보이지 않게 하세요.
+조각을 크게 표시해 쉽게 살펴볼 수 있게 하고, 과육과 씨, 두께가 드러나는 3/4 카메라 앵글을 사용하세요.
+INTERFACE
+여백을 넉넉히 두고 얇은 테두리와 절제된 컨트롤을 사용하는 미니멀한 에디토리얼 레이아웃을 구성하세요. 장식적인 UI 그라디언트는 사용하지 마세요.
+왼쪽 상단:
+“MATERIAL STUDIES / NO. 009”
+두 줄로 나뉜 큰 이탤릭 세리프 제목: “Melon”과 “Jelly”.
+작은 캡션:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+오른쪽 상단:
+렌더러가 실행 중일 때 “WEBGPU · LIVE”를 표시하는 작은 상태 표시기.
+
+오른쪽 패널:
+“THE SPECIMEN”
+수박에서 영감을 받은 조화로운 색상 프리셋 3개.
+현재 값이 표시되는 탄성 슬라이더.
+현재 값이 표시되는 내부 감쇠 슬라이더.
+“Give it a nudge” 및 “Reset” 버튼.
+“¼ speed” 및 “Show mesh” 체크박스.
+
+일시정지 / 재개 버튼.
+왼쪽 하단:
+조각을 잡아 늘일 수 있다는 짧은 안내 문구.
+시뮬레이션에서 산출한 실시간 질량, 상대 체적, 운동 에너지 수치. 필요한 경우 예시 단위나 대략적인 값임을 명확히 표시하세요.
+오른쪽 하단:
+
+물리와 렌더링을 간략히 설명하는 접을 수 있는 “Inside the experiment” 섹션.
+동작 및 성능
+마우스와 터치 입력을 모두 지원하세요. 포인터가 오브젝트 영역을 벗어나도 드래그가 안정적으로 유지되도록 포인터 캡처를 사용하세요.
+컨트롤이 조각을 가리지 않도록 데스크톱과 모바일 모두에 맞는 레이아웃을 구성하세요.
+버퍼를 재사용하고 드래그 중에 지오메트리를 다시 생성하거나 셰이더를 컴파일하지 마세요. 인터랙션은 부드럽고 즉각적으로 반응해야 합니다.
+모션 감소 설정을 따르세요. WebGPU를 사용할 수 없는 경우 가짜 렌더러로 조용히 대체하지 말고 명확한 설명을 표시하세요.
+VALIDATION
+여러 위치에서의 드래그, 강하게 늘이기, 반복해서 놓기, 바닥 충돌, 모든 슬라이더, 프리셋, 일시정지, 리셋 및 슬로 모션을 테스트하세요.
+모델이 안정적인 정지 형태로 돌아오는지, 씨가 붙어 있는지, 메시가 손상되지 않는지, 렌더링 오류가 없는지 확인하세요.
+젤리의 반응과 조명의 품질을 우선하세요. 사람들이 계속 잡고 움직여 보고 싶어 하는 결과물을 만들어야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
+Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
+THE WATERMELON
+Create a thick, rounded triangular watermelon wedge with:
+Translucent ruby-red jelly flesh.
+A pale, slightly translucent layer between the flesh and rind.
+A glossy green outer rind with irregular dark-green stripes.
+
+Individually modeled dark seeds embedded in both exposed sides.
+Softly rounded corners and an appealing, substantial thickness.
+Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
+SOFT-BODY PHYSICS
+Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
+The user must be able to:
+Grab the tip, a corner, the flesh, or the rind.
+Stretch, bend, lift, and gently twist the slice.
+
+Release it and watch it wobble before gradually settling.
+The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
+Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
+After release, the motion should decay naturally - no instant snapping back and no endless oscillation.
+Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
+Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
+RENDERING
+Use native WebGPU with WGSL shaders.
+Include:
+Thickness-dependent light absorption.
+Refraction through the jelly.
+
+Fresnel reflections and glossy highlights.
+Soft transmitted light through thin edges.
+Subtle internal details and a few tiny air bubbles.
+
+Soft contact shadows beneath the slice.
+A light, neutral studio background.
+The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
+Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
+INTERFACE
+Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
+Top left:
+“MATERIAL STUDIES / NO. 009”
+A large italic serif heading split across two lines: “Melon” and “Jelly.”
+Small caption:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Top right:
+A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
+
+Right-side panel:
+“THE SPECIMEN”
+Three coordinated watermelon-inspired color presets.
+Firmness slider with its current value.
+Internal damping slider with its current value.
+“Give it a nudge” and “Reset” buttons.
+“¼ speed” and “Show mesh” checkboxes.
+
+Pause / Resume button.
+Bottom left:
+A short hint explaining that the slice can be grabbed and stretched.
+Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
+Bottom right:
+
+A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
+BEHAVIOR AND PERFORMANCE
+Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
+Make the layout work on desktop and mobile without controls covering the slice.
+Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
+Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
+VALIDATION
+Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
+Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
+Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2104504957173153951) · [원본 게시물](https://x.com/esrhengwu/status/2104505413857415515) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### 기능을 모두 갖춘 LEGO Ford Model T 세트
@@ -2412,218 +2760,6 @@ I want you to imagine a story. And then using threejs I want you to create full 
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788223835463902) · [원본 게시물](https://x.com/scheemunai/status/2102788223835463902) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102788013902213508"></a>
-
-### 체스 갬빗 학습을 위한 인터랙티브 3D 체스판
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="체스 갬빗 학습을 위한 인터랙티브 3D 체스판"></a>
-
-**프롬프트**
-
-```text
-주요 체스 갬빗을 학습할 수 있는 인터랙티브 3D 체스판 웹 애플리케이션을 만드세요. 수의 애니메이션을 포함하고, 앞뒤로 진행할 수 있는 컨트롤과 변형 수순, 각 오프닝의 핵심 아이디어를 설명하는 기능을 추가하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102788013902213508) · [원본 게시물](https://x.com/diogosantosbr/status/2102788013902213508) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102781807179735211"></a>
-
-### 끊김 없는 코드 기반 물 순환 애니메이션
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="끊김 없는 코드 기반 물 순환 애니메이션"></a>
-
-**프롬프트**
-
-```text
-물 순환을 주제로 한 끊김 없는 루프 애니메이션을 전부 코드로 제작하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a seamless looping animation of the water cycle, entirely in code.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102781807179735211) · [원본 게시물](https://x.com/higgsfield_ai/status/2102781807179735211) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102780850706567390"></a>
-
-### 브라우저에서 조작할 수 있는 중세 유럽풍 3D 성
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="브라우저에서 조작할 수 있는 중세 유럽풍 3D 성"></a>
-
-**프롬프트**
-
-```text
-브라우저에서 조작할 수 있는 3D 중세 유럽풍 성을 만듭니다. 해자, 도개교, 탑, 석벽, 깃발, 숲과 낮밤 전환을 구현합니다. 
-벤치마크의 일종이므로, 외관을 얼마나 풍부하게 구현할 수 있는지에 초점을 맞춰 3D 모델의 품질을 최우선으로 해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
-これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102780850706567390) · [원본 게시물](https://x.com/luxurytax150/status/2102780850706567390) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102775461701091531"></a>
-
-### CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임
-
-[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임"></a>
-
-**프롬프트**
-
-```text
-게임을 개발해 봅시다
-그래픽은 2D든 3D든 상관없지만, 게임 시스템 등을 분석해 개발하기 더 쉬운 방향으로 진행해도 좋습니다
-개인적으로는 3D를 생각하고 있지만, 화면 구성은 횡스크롤 액션 게임 같은 형태를 상정하고 있습니다
-조명 등을 활용해 세련된 분위기를 내고 싶으므로, 3D를 사용하면 아름다운 표현이 가능하지 않을까 생각합니다(예: 가로등이나 랜턴 같은 연출)
-만들고 싶은 게임의 이름은 CatWalk입니다
-이름 그대로
-고양이가 옆으로 이동하고
-캣워크가 계속 이어지며 화면은 자동으로 스크롤됩니다. 플레이어는 그 속도에 맞춰 장애물과 구멍을 점프 같은 간단한 조작만으로 넘어가는 방식입니다. 어떤 의미에서는 플래피류 게임과 비슷한 긴장감과 시스템일 수도 있습니다.
-다만 그래픽은 성숙하고 스타일리시한 분위기 중심의 게임을 목표로 하고 싶습니다
-가능하다면 고양이의 유연한 걷기, 달리기, 점프 동작을 표현할 수 있으면 좋겠습니다
-스테이지의 세계관은 맡기겠지만, 처음에는 무난하게 밤거리 같은 배경도 괜찮을 것 같습니다
-어둡게 연출해 간접 조명 등을 아름답게 표현할 수 있다면 정말 좋겠습니다
-구현할 수 있는 것과 없는 것, 어려운 부분이 있을 거라고 생각하므로
-이 제 요구 사항을 힌트 삼아, 당신의 판단으로 구현할 수 있을 만한 것을 개발해 주세요
-우선 한 스테이지를 한 바퀴 플레이할 수 있도록
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-ゲームを開発しましょう
-グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
-個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
-照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
-作りたいゲームは CatWalk というゲーム
-名前の通りです
-猫が横に進む
-キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
-ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
-可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
-ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
-暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
-できることできないこと難しいことがあると思うので
-この私の要望をヒントにあなたなりにできそうなものを開発してほしい
-まずは１ステージのワンループができるように
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102775461701091531) · [원본 게시물](https://x.com/blitast_studio/status/2102775632933654585) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102752217375899659"></a>
-
-### Orbit Lab: 태양·지구·달 3D 시뮬레이션
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab: 태양·지구·달 3D 시뮬레이션"></a>
-
-**프롬프트**
-
-```text
-비교 실험입니다. 다음의 동일한 사양으로 웹 작품을 작업 디렉터리에 구현하고 완성해 주세요. 이름은 ‘Orbit Lab’입니다. Three.js 0.186.0을 사용하고, 동일한 버전의 본체와 OrbitControls를 불러와 주세요(CDN import map이나 npm 모두 사용 가능). 공개하거나 배포할 필요는 없습니다.
-
-요구 사항:
-1. 태양·지구·달의 3D 모델을 절차적 지오메트리와 머티리얼로 표현합니다. 외부 이미지나 3D 에셋은 사용하지 않습니다. 태양을 점광원으로 설정하고, 카메라를 조작했을 때 지구와 달의 명암을 확인할 수 있어야 합니다.
-2. delta time을 사용해 지구의 공전과 자전, 지축 기울기, 달의 공전을 움직입니다. 궤도면의 기울기를 시각화하고 지구와 달의 궤도선을 표시합니다. 스케일과 속도는 교육을 위해 과장해도 됩니다.
-3. 재현 가능한 난수로 별이 있는 배경을 생성합니다. OrbitControls로 회전과 줌을 지원합니다. 천체를 클릭하면 선택 상태와 설명 패널이 전환됩니다.
-4. 재생/일시정지, 속도 슬라이더, 궤도선 표시 전환, 태양/지구/달로 카메라 포커스, 초기 상태로 되돌리는 버튼을 제공합니다. 키보드로도 재생/일시정지와 리셋을 조작할 수 있어야 합니다.
-5. 스마트폰 화면 너비에서도 조작할 수 있는 UI, WebGL을 지원하지 않을 때의 안내, 리사이즈 대응, 과도한 렌더링 부하를 피하기 위한 픽셀 비율 제한을 포함합니다.
-6. README에 실행 절차와 조작 방법을 작성합니다. 가능하다면 실제로 실행해 동작을 확인하고, 실행할 수 없다면 그 이유를 명시합니다. 완료 보고에는 생성한 파일, 구현된 항목, 확인 결과를 간결하게 작성합니다.
-
-중간에 질문하지 말고 합리적으로 판단해 끝까지 구현해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
-
-要件:
-1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
-2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
-3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
-4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
-5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
-6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
-
-途中で質問せず、合理的に判断して最後まで実装してください。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2102752217375899659) · [원본 게시물](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102740078347087940"></a>
-
-### 더 라스트 트레인 사이버펑크 메가시티 벤치마크
-
-[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="더 라스트 트레인 사이버펑크 메가시티 벤치마크"></a>
-
-**프롬프트**
-
-```text
-Blender에서 히어로 열차, 프로시저럴 건축물, 고가 철도 시스템, 비, 볼류메트릭 분위기, 시네마틱 조명, 여러 카메라 설정과 전체 애니메이션 시퀀스를 포함한 완전한 사이버펑크 메가시티를 제작하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940) · [원본 게시물](https://x.com/builderhelmai/status/2102740078347087940) · [사례 목록으로](#all-prompts)
 
 ---
 

@@ -28,6 +28,12 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [等距视角奇幻图形演示](#gpt-6-astra-2100271998618177864)
+- [AKARI：名古屋屋顶火炬接力](#akari-nagoya-rooftop-flame-relay)
+- [独眼巨人之岛](#cyclops-island-threejs-game)
+- [地下车站中的AAA CGI超自然格斗短片](#gpt-6-astra-2100233407108137349)
+- [交互式公寓漫游与瓷砖方案选择](#gpt-6-astra-2100222426705453318)
+- [PC 版《喷射战士》的开发与画面还原](#gpt-6-astra-2100193512373592313)
 - [带可动家具的交互式 3D 房间场景](#gpt-6-astra-2100139076816916977)
 - [根据参考图片制作可动的 3D 空间和游戏角色](#gpt-6-astra-2099850719839109597)
 - [可抵达的程序化太空探索游戏](#gpt-6-astra-2099785223827259515)
@@ -72,14 +78,248 @@
 - [无对白 3D 猫咪短片](#gpt-6-astra-2097900087901106244)
 - [互动奇幻画面演示](#gpt-6-astra-2097821164093480999)
 - [支持多人游戏的 Minecraft 克隆版](#gpt-6-astra-2097797479488246071)
-- [交互式 3D 粒子对撞机](#gpt-6-astra-2097781208596029936)
-- [实时 3D 工厂发射台模拟](#gpt-6-astra-2097730920224534868)
-- [构建 THE LAST GATE：带算术门的人群跑酷](#gpt-6-astra-2097678911882809407)
-- [GPT-6 Astra与Blender搭建机械臂追猫喜剧场景](#gpt-6-astra-2097675660873605422)
-- [沉浸式 3D 稻田网站](#gpt-6-astra-2097602565110419781)
-- [Blender 后室风格 VHS 场景](#gpt-6-astra-2097534290112188602)
 
 </details>
+<a id="gpt-6-astra-2100271998618177864"></a>
+
+### 等距视角奇幻图形演示
+
+[Anshu Chimala](https://x.com/anshuc) · 2026-09-16 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864"><img src="../assets/previews/efb3df2ad348026ea45dd7aadc01690c2f219342df652f170cb2b8727429a6e1.webp" width="840" loading="lazy" alt="等距视角奇幻图形演示"></a>
+
+**提示词**
+
+```text
+为我制作一个图形演示：使用等距视角、带有写实着色和湿润反光地面的体素风美术风格，并在有趣的场景中放置一个角色。背景设定为奇幻世界（可以参考《Elden Ring》和《Diablo》）。使用浏览器中的 Three.js，帧率需达到 >60fps。不要下载资源。时间限制为 1 小时。操作方式：点击移动角色，摄像机进行延迟跟随；拖动旋转摄像机；滚动缩放视图。暂时不要加入玩法。世界应当充满生气：包含动态效果、动画和细微的环境行为。玩家周围的区域应显得开阔，但只允许在有限空间内移动。不需要向我确认美术方向，也不要提问，直接开始！
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build me a graphics demo: isometric camera, voxel-ish art style with realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Don't download assets. Time limit of 1 hour. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors. Area around player should look expansive, but only allow movement in a limited space. No need to confirm the art with me or ask questions, just go!
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100271998618177864) · [查看原帖](https://github.com/achimala/dream-loop) · [项目源码](https://github.com/achimala/dream-loop) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="akari-nagoya-rooftop-flame-relay"></a>
+
+### AKARI：名古屋屋顶火炬接力
+
+[Jared](https://growthengineer.space/) · 2026-09-16 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/akari-nagoya-rooftop-flame-relay"><img src="../assets/previews/f82d75310164041451311a5b943e2d18ec847828627c3905d3c1119f4435fbb4.webp" width="840" loading="lazy" alt="AKARI：名古屋屋顶火炬接力"></a>
+
+**提示词**
+
+```text
+# AKARI — 名古屋光之图
+
+## 1. 目标
+制作一款完整的日语优先浏览器游戏：抽象火焰进行七次计时跳跃，在 2026 年 9 月 19 日至 10 月 4 日爱知·名古屋亚运会前点亮一座微缩名古屋。匹配https://akari-nagoya-rooftop-relay.tripo.page/中的当前双地图开场版本及提供的视觉参考。此前的通用屋顶场景不是目标。
+
+## 2. 视觉方向
+采用抬高的四分之三地图视角、午夜藏青色背景、暖象牙色日文衬线标题、精细金线和克制的颗粒质感。桌面端左侧三分之一用于开场邀请，右侧放置两块凸起的地图图块；手机端则将地图调整到控件上方。开场使用昏暗、低饱和的建筑和青绿色水道。成功后恢复绿色植被、青绿色铜屋顶、温暖窗光和金色路线灯。确保火焰和下一个目标清晰可读。使用柔和阴影、空间氛围感和受控泛光；避免白色眩光。匹配参考图中可见的日文开场标题、地标标签以及纤细的编辑风格页眉和页脚。
+
+## 3. 世界
+较大的西北图块覆盖名城公园、名古屋城、爱知国际竞技场、久屋大通公园、MIRAI TOWER 和 Oasis 21。东南图块覆盖市博物馆、瑞穗通、瑞穗公园及其田径场，山崎川位于田径场东侧。添加低矮的现代街区、公园树木、道路标线、河岸和暖色灯具；城堡建筑仅用于城堡。
+
+第 1 章：名城公园 → 外堀／久屋大通 → 久屋大通公园 → Oasis 21，共三次跳跃。设置清晰标识的不可玩章节转场前往市博物馆。第 2 章：市博物馆 → 瑞穗通 → 瑞穗运动场西 → 朝向瑞穗公园 → 南广场，共四次跳跃。绝不要把转场绘制成连续街道，也不要将其计为一次跳跃。在第二章保存进度。两张地图使用不同的比例尺，并为游戏体验压缩距离。在 About 中简要说明这一点，同时注明历史接力日期 2026 年 8 月 22 日和 9 月 16 日；这些日期不是即将举行的活动邀请。引用https://www.aichi-nagoya2026.org/ja/torch-relay/和https://www.nagoyajo.city.nagoya.jp/guide/kinshachi/.。使用原创装饰和抽象火焰，不要使用官方吉祥物或徽章。
+
+## 4. 资源清单
+按优先级顺序使用以下稳定替换槽位；两种视觉模式都必须保留相同的布局和碰撞代理：
+- `shachi`：古董质感的抛光金色屋顶装饰，带有虎状头部、弯曲的鳞片鲤鱼身体和向上卷曲的尾巴；城堡上重复使用。
+- `castle`：象牙色、受名古屋启发的城郭建筑，深色木结构，层叠的青绿色歇山屋顶和石质地基。
+- `mizuho`：宽阔的椭圆形田径场，浅色敞心屋顶和节奏分布的支撑结构；确保能透过中心看到跑道和绿色场地。
+- `arena`：低矮的现代竞技场，宽阔屋顶配暖色垂直立面鳍片，位于公园轴线以北。
+- `tower`：纤细的银色格构观景塔，带盒状观景台和天线。
+- `oasis`：细长的椭圆形青绿色玻璃／水面顶棚，架设在纤细的浅色支柱上。
+- `midrise`：简洁克制的现代日式街区建筑；通过改变高度和朝向重复使用，包括简单的博物馆体块。
+- `tree`：紧凑的成熟公园树木，棕色树干和分层绿色树冠；在两块地图中实例化使用。
+地形、道路、水体、跑道标线、跳跃标记、抽象火焰、光轨、烟花和 UI 均使用程序化生成。每个模型都必须是完整且相互独立的对象；保留开放通道和田径场中心。必须跟踪清单中的每个槽位，包括重复使用的背景资源。
+
+## 5. 游戏玩法与奖励
+按住指针／触摸或 Space 进行蓄力；松开后自动朝下一个标记跳跃。使用确定性的 delta-time 物理：距离 = 1.8 + 7 × 蓄力值，蓄力值在 0 到 1 之间往返变化，弧线在插值高度上额外增加 4 × t × (1 − t) × 3.6。蓄力周期从每个方向约 1.42 秒加速至 0.92 秒。轨迹、绿色安全区和金色完美区必须由同一套计算得出：误差 ≤0.36 判定为完美；≤1.15 判定为安全，前两次跳跃额外放宽 0.28。
+
+安全落地得 100 分；完美落地得 200 × 连续倍率，最高 ×4。在 2.35 秒内接着起跳可加 50 分；安全落地、章节转场或等待 3.4 秒后重置连击。每次成功都会向街区传递一道光波，点亮窗户并增加灯笼。显示七步进度、分数、连击和最高分。失误后快速重新开始；转场后恢复章节检查点。提供暂停、重新开始、隐藏标签页恢复，以及交互后可选的声音。
+
+最后一次跳跃结束后，用 4.6 秒的拉远镜头展示两张已点亮的地图，并播放受边界限制的烟花。七次跳跃全部完美时显示 S 级，四次或以上完美时显示 A 级，否则显示 B 级。加入重玩、同机位的城市点亮前后对比视图，以及一张真正的 1800×1200 PNG 海报，包含标题、日期、分数和独立项目署名。
+
+## 6. 实现
+使用 Vite、TypeScript 和 Three.js；将地理数据、纯物理／计分逻辑、场景、特效、模型注册表、日语／英语本地化和 UI 分离。无论提示使用何种语言，日语始终为默认语言；语言切换状态需要持久化。将字体和资源本地打包。使用 GLTFLoader，并按槽位进行归一化；导入无效模型时保留上一个可用模型。在对比简易视觉和导入视觉时，保留分数、检查点、摄像机和灯光状态。对树木和建筑使用实例化，合并兼容的静态几何体，限制 DPR 并控制粒子数量。应评估实际帧耗时和模型复杂度，不要仅因模型超过三角面数目标就拒绝它。只有在返回的资源需要网格清理、枢轴修复或打开体育场中心时才使用 Blender；保留其原始文件。
+
+## 7. 验收
+交付可运行的源代码、锁文件、开发／构建命令和静态构建版本。验证两章中的七次跳跃、转场／检查点恢复、失误／重试、计分、触摸输入、暂停、日语／英语设置持久化、所有槽位回退，以及实际海报导出。将稳定后的开场和结尾截图与当前双地图参考进行对比。报告实测性能以及实际执行过的测试。以下共享工作流规定模型生成和返回流程。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/akari-nagoya-rooftop-flame-relay) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="cyclops-island-threejs-game"></a>
+
+### 独眼巨人之岛
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-09-16 · GPT-6 Astra · 游戏
+
+改编自: [Jason Chew](https://x.com/jasoncjs_/status/2099414001851449430)
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cyclops-island-threejs-game"><img src="../assets/previews/5adc8832591214ea7e0a684c500b77f31cdd61e2dc6f5c61120d06ca11998f9c.webp" width="840" loading="lazy" alt="独眼巨人之岛"></a>
+
+**提示词**
+
+```text
+# 奥德赛——独眼巨人的岛
+
+## 1. 目标
+构建一款完整的等距视角逃脱游戏，灵感来自《奥德赛》第九卷。玩家扮演奥德修斯，带领三名船员偷取洞穴补给，在波吕斐摩斯的追击和攻击下生存，并登上希腊船只逃离。游戏 UI 全部使用英文。使用 https://cyclops-island.tripo.page/ 和所提供的参考资料；保留 Jared 的署名，以及对 Jason Chew“奥德赛岛屿”概念的致敬。
+
+## 2. 视觉方向
+制作一座纹理丰富的地中海桌游风格岛屿，约 25 个世界单位宽，坐落于深青色的爱琴海中。使用接近 (19,31,34) 的正交三分之四视角摄像机，搭配暖色石灰岩、鼠尾草绿橄榄树、赤陶色布料、青铜铠甲和奶油色羊皮纸。应用 ACES 色调映射、暖色定向阴影、景深雾效、克制的泛光、暗角和颗粒。确保危险标记在这些效果下仍清晰可读。
+
+使用 Cormorant Garamond 风格的本地衬线标题字体和 DM Sans 风格的 UI 字体。左上角显示 Ω 印章、ODYSSEY / AN INTERACTIVE MYTH、BOOK IX 和 The Cyclops’ Island。右上方放置醒目的奶油色对比卡片，显示“One island. Two worlds.”，并提供 Tripo World 和 Original 控件。左下角显示任务阶段、三颗心、体力和船员人数。上方显示首领状态，下方显示小型指南针/小地图，同时提供可见的摄像机控制和简洁的操作提示。在手机上使用紧凑的装饰性文案，并分开展示任务、首领、对比和 Dodge 控件。
+
+## 3. 世界
+一条蜿蜒的浅色沙路从南侧登陆海滩向北延伸，穿过橄榄树林，通往一座石灰岩洞穴。巨人睡在洞穴附近；奥德修斯和船员从南侧道路出发。在码头西南侧放置一艘挂着红帆的木船。海岸周围布置形状不规则的巨石、草地、柏树和碧 turquoise 色浅滩。为海面波纹、岸边泡沫、树木、火光、鸟群和船只摇摆添加动画。摄像机旋转时，海洋运动必须保持正确。
+
+## 4. 资产清单
+按以下顺序准备替换槽位：
+- `odysseus`：留着胡子的希腊冒险者，佩戴带深红色马鬃饰的青铜科林斯头盔，穿旧式胸甲、象牙色束腰外衣和赤陶色披风，脚穿凉鞋，配备小盾牌和带鞘长剑。供三名船员复用，但每人使用独立骨架和动画阶段。
+- `polyphemus`：魁梧的巨人，正中只有一只眼睛，棕褐色橄榄色皮肤，卷曲的深色头发和胡须，穿毛皮/皮革缠腰布，双脚粗壮且赤裸，手持木棒；以中立、便于绑定的姿势呈现完整身体。
+- `ship`：狭长的深胡桃木船体、高耸的船首、青铜撞角、桅杆、赤陶红色船帆、绳索装具和侧舷桨；不要水面或展示底座。
+- `olive`：盘曲的灰棕色树干、向外伸展的根系和不规则的鼠尾草色树冠；复用约 25 次。
+- `cave`：宽阔、独立放置的风化石灰岩拱门，通道真正贯通，带有厚重岩石和稀疏苔藓；单独制作深色内部空间。
+- `cypress`：纤细、尖顶的地中海树木，拥有浓密的深绿色枝叶。
+- `boulder`：形状不规则的暖色石灰岩海岸岩石；通过改变比例和旋转角度复用。
+地形、道路、水面、草地、补给标记、战斗预警、粒子和 UI 均保持程序化生成。替换外观时，跟踪每个槽位，并保留游戏地图布局。
+
+## 5. 逃脱遭遇战
+使用相对于摄像机方向的 WASD/方向键，以及带移动半径感知的 A* 导航，支持点击/轻触移动。船员进行松散跟随；玩家和巨人需根据各自不同的体型，遵守地形、边界和障碍物限制。按住 Shift 冲刺，按 Space 或大型触控按钮闪避，按 E 拾取附近补给，按 P 暂停，按 Q/R 旋转摄像机，按 F 跟随英雄。支持拖拽/平移、右键拖拽/旋转、滚轮/缩放和触控双指捏合。追击期间，点击移动会在体力允许时触发冲刺。
+
+阶段 1：接近洞穴；距离过近和高噪音冲刺会提高警觉度，并可能惊醒巨人。阶段 2：只能在近距离拾取补给，且每次都会惊醒巨人。阶段 3：船员登船期间，在位于 (-0.8,8.7) 附近、半径约 2.7 个单位的标记码头范围内累计存活 11 秒；离开范围会暂停进度。
+
+生命值设为三点，体力设为 100。初始速度：行走 2.35、冲刺 4.15、巨人奔跑 3.4 个单位/秒。巨人必须追至 3.6 个单位范围内才能攻击。使用睡眠、苏醒、追击、蓄力、命中、恢复和终止状态。Ground Breaker 在 1.12 秒蓄力开始时锁定玩家位置，显示半径为 2.45 的圆圈并攻击一次；目标不得跟随玩家移动。巨人每第三次猛击都会释放一个清晰标记的蓄力扩张冲击波；伤害沿移动中的环形边缘判定。
+
+闪避持续约 0.34 秒，消耗 24 点体力，冷却时间为 1.25 秒，并提供短暂无敌和有效地面限制。冲刺会消耗体力；休息可恢复体力。受到攻击时产生击退、受伤反馈和临时免疫。失败时重置所有角色、计时器、效果和任务状态。逃脱成功后停止受到伤害，并打开重玩总结。暂停时冻结模拟、动画和效果。调整登船流程，要求玩家进行多次闪避，其中包括一次蓄力攻击。
+
+## 6. 实现与动画
+使用 Vite、Three.js 和 JavaScript ES 模块，将世界、导航、遭遇战、角色、效果、音频和 UI 分开组织。将所有运行时资产本地打包到静态构建中。初始绑定模型必须能够行走/奔跑、睡眠/苏醒、闪避，并清晰表现蓄力和攻击动作。对于蒙皮替换模型，使用 AnimationMixer、实际动画片段名称、短时交叉淡化，以及 SkeletonUtils.clone 来创建独立的船员骨架。避免根运动重复和脚底滑动。将巨人的下砸攻击与游戏中的命中时刻同步；静态导入不得被报告为动画。必要时保留可正常工作的绑定模型备用方案。仅在确有需要修复绑定、枢轴、动画片段或网格时使用 Blender。
+
+同步橙色/金色战斗预警、命中闪光、地面裂纹、尘土、火花、坠落的碎石、扩张环、短暂灯光和摄像机震动。添加闪避拖尾，并支持可选的手势触发合成音频。复用效果对象，实例化场景装饰，并测量帧时间。规范化导入模型，确保脚和根节点落地，同时保持碰撞代理不变。对比功能需保留位置、任务、生命值、体力、摄像机和动画状态；导入失败时保留可用模型。加入低调的 Change hero 控件和本地模型导入功能，并显示每个槽位的状态。
+
+## 7. 验收
+交付源代码、锁文件、npm 开发/构建命令和静态输出。验证障碍物导航、提前惊醒、近距离拾取、攻击前的追击、目标锁定、定时攻击、闪避无敌、冲击波边缘伤害、失败/重置以及成功逃脱。检查船员独立动画、所有槽位的备用方案、保留状态的对比功能、桌面端/移动端布局和加载错误。将稳定后的截图与参考资料进行对比，并报告实际性能。使用下方的共享工作流生成模型并返回。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
+
+Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
+
+Make it feel like a small playable game:
+
+Control Odysseus with WASD or arrow keys
+Click the ground to walk
+Drag to pan the camera
+Scroll to zoom
+Add subtle water, tree, character, and environmental animation
+Add camera rotate, zoom, reset-view, and pause controls
+Use collision so the player cannot walk through rocks, trees, or water
+
+Add a dark literary UI panel in the bottom-left:
+
+“Lead Odysseus along the sandy path to the cave.”
+Show the current character and movement state below it.
+Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
+Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cyclops-island-threejs-game) · [查看原帖](https://x.com/jaredliu_bravo) · [在线演示](https://cyclops-island.tripo.page/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100233407108137349"></a>
+
+### 地下车站中的AAA CGI超自然格斗短片
+
+[MadMax](https://x.com/MadMax_Series) · 2026-09-16 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100233407108137349"><img src="../assets/previews/a480866311ee8faa564828c07283035ea6fe728ab7d676c468934bb5f75438a4.webp" width="840" loading="lazy" alt="地下车站中的AAA CGI超自然格斗短片"></a>
+
+**提示词**
+
+```text
+全部角色、背景群众与车站环境统一使用明显经过数字雕刻的高级AAA奇幻游戏CG外观，人物近景必须保持精修游戏角色脸、清楚的编辫发束与风格化写实皮肤，不变成真人演员、cosplay、普通gameplay、2D动画或赛璐璐。保留现代地下车站中的超自然格斗场景，不改成中世纪城堡、雪山或拳击擂台。色彩为低饱和冷青灰、深炭黑、青灰鳞皮与冷白灯带，少量黄色护栏、红色信号灯、青铜护目框、铜锈绿肩甲和赭红腰带形成局部色彩；眼睛的蜂蜜金光与击柱时的短紫光只出现在对应瞬间，不全片染成紫色。环境：宽阔而昏暗的地下铁路站，中央下沉轨道区、钢轨与碎石，两侧高出轨道的站台；站台边缘是玻璃金属屏蔽栏与黄色竖向边框，地面有黄色安全带、灰色砖面、排水格栅，粗大白色圆柱支撑低天花板，顶部连续冷白长灯带与圆形灯、远处小红信号灯延伸至深处。站台有数十名穿普通深浅外套的成年乘客，分散在柱旁或栏后，受战斗惊动后退、缩身和抬臂保护，始终为背景群众，不参与格斗、不变成主角、不复制相同面孔。没有列车驶入，标牌只保留模糊几何色块，无可读文字。两名主战者固定：A护目武者为高挑精瘦运动体型成年男性，暖深棕肤色、清楚的颧骨与下颌，黑色贴头短辫在脑后束成短辫结；前额固定一副窄青铜框烟灰色可掀护目罩，平时遮住双眼，鼻梁下方与嘴部露出。穿灰蓝色无袖交叠领战斗上衣、深褐束腰带、炭黑长裤和深棕低帮靴；双前臂缠灰色布带，双手手指外露，始终空手，无披风、手持武器或可读徽章。表情从容，动作敏捷而果断；仅在指定镜头用右手短暂抬起护目罩边缘，露出一只明亮蜂蜜金色眼睛，随后护目罩放回遮眼位置；这是同一件固定在前额的实体护目装备，不变成布条，不消失。B鳞脊斗兽为比A更高、更宽厚的肌肉型双足人形异兽，深青灰色粗鳞覆盖宽厚胸背与四肢，腹部为较细密的灰青鳞片；宽扁的蜥蜴状头部、短钝吻、厚颌、两只深琥珀眼睛和短粗牙齿，头部没有人类头发、面具或树枝状突起。B自身左肩至左前臂生长厚实的铜锈绿色天然甲片，左肩上缘固定一排短而钝的骨鳍；右臂保留较浅灰青色粗鳞，左右绝不互换，骨鳍与甲片属于身体，肩上没有花朵。穿暗棕色宽松阔腿战裤、赭红色织物腰带与两条垂下的窄带尾，脚踝缠深褐布，脚掌宽大有鳞，保持适合抵墙的清楚脚底；没有尾巴、翅膀、额外手臂、长角、剑、枪、盾牌或手持道具。B是能进入正常车站的高大异兽，保持与A及乘客的稳定比例，不膨胀成高楼巨人。0.00–3.70秒：第一帧便进入交锋。贴近轨道的低机位短镜头看见B快速踏步逼近，随即切A背后中景，B从前方冲来，抬腿转髋，横扫一记头部高度的旋踢；A屈膝低头并侧倾上身，踢腿从黑色短辫上方掠过，B落脚转回，A随即起身。切明显Dutch angle的轨道低位双人宽景，A提膝接一记高位横踢，B降低头肩避过，A收腿落回支撑脚。镜头回到A肩后近距离跟拍，B追上一组连续摆臂拳击，A以短距离偏头、沉肩和转身让拳从脸旁擦过，不原地反复摆拳等对方出招；天花板灯带随镜头甩动形成方向性拖影，身体关系保持清楚。3.70–6.40秒：B的浅灰青色右拳再次伸到A面前，A张掌截住其手腕与前臂，接触位置可见；摄影机贴近A从容的侧脸，然后随他转脚、旋髋和转肩迅速绕至低位全身视角。A保持抓住同一条右臂，将B拉离支撑、沿身体侧上方甩起，B双脚离地，赭红腰带和宽裤随惯性滞后。甩起最高处只有极短ultra slow motion，随即恢复高速；A完成转体后松手，B沿原弧线头下脚上翻落，肩背接触轨道地面，碎石与灰尘从接触处迸出。低机位摄影机追随翻落并短促震动，B顺势滚动、撑起上身，保持四肢完整；不是断臂、无接触念力投掷或凭空重新站起。6.40–9.20秒：B仍在低位恢复，A已经蹬地跃近，镜头从B身后仰拍A在半空转髋展腿，跳跃最高点短暂放慢，然后下落时以横向飞踢压向B头肩；B抬起双臂迎挡并被压得偏转，A落脚后立刻跟进，不落地站着等待。摄影机随A下落和绕侧迅速拉近，形成略倾斜的肩上与面部交替近景；A闪过B回扫的手臂，用短拳击向躯干，再以一记张掌接触脸侧把B的头推偏，接触后头颈才顺方向转动。手掌、脸与前臂不能融合，B左肩骨鳍随同一侧肩甲和躯干转动。9.20–11.20秒：A借脸侧推压后的空间转体收腿，随即向前送出有力侧踹，鞋底接触B腹部至下胸；B躯干先折起、双脚随后离地，沿侧上方飞向站台。镜头跟着他掠过站台边缘，B上背和肩撞上白色圆柱，柱面由接触点向外开裂，浅色碎片和粉尘落下，B沿柱面回落到站台地面。A收腿后从轨道区跃上同一站台追近，切镜后出现在该柱旁的连续位置，不瞬移到另一个车站；乘客向两侧躲开，柱子受损但不整体倒塌。11.20–12.80秒：切B受撞后的脸部近景，它抬头、转脸寻找A，左肩铜锈绿甲片与短骨鳍仍在；迅速转为同柱两侧的近景构图，B占右前景，A在柱旁左后景，轻微冷笑但不说话。A用右手抬起青铜框护目罩边缘，露出一只明亮蜂蜜金色眼睛，直视B，停留很短；他用右手放下护目罩使其重新遮住双眼，身体同时准备避让，不留下原本对白的停顿或说话口型。12.80–13.80秒：B转肩挥出浅灰青色右拳打向A所在位置，A在拳头到达前迅速侧移绕出柱后；拳头击中实体白柱，接触瞬间爆出紧凑紫色能量闪光，裂缝延伸，碎屑向下掉，短紫光立刻消散。近景先看拳面压入柱面，再快速拉宽显露B打空而A已经绕到侧方，柱子仍是先前那根受损柱，不把A变成紫色烟雾，也不让拳穿过人体。13.80–16.00秒：低位倾斜宽景，A在柱子侧前方压低身体、抬手作一个短促招引手势，B转身扑来。A蹬地腾空完成一次连续后空翻，先仰身、双脚向上越过头顶，再收腹转过倒置阶段，躲过B横扫的手臂；镜头随身体向上倾转，在倒置阶段短暂放慢，灯带沿背景倾斜掠过。A继续同一次翻转，双脚回到身体下方，落在B侧后的站台空地，屈膝吸收落地力量，衣角与脑后短辫随惯性回落；背景乘客惊惧闪避，不被当成额外攻击者，A没有被打飞，也不在半空反复翻跟头拖时。16.00–18.50秒：A刚站起，B便转身追上，一记宽幅摆臂打向A头侧；A先后仰再下潜，让B的浅灰青色右臂从头顶横过，双手顺势控制那条前臂，踏入对方身体前侧并转背降低重心。A把B的手臂带过自己肩上，利用B仍向前的动量完成一次过肩摔；B的髋部翻过支点，双脚离地，背侧落在站台砖面，碎砖和粉尘沿地面散开。镜头从贴肩近景退到低位中广景，完整交代翻转与落地，A保持站立，松手让B落下。B立即翻身支撑并屈腿起身，A转向它继续施压，把起身与追近接起来，不保留站着说台词的长停顿。18.50–20.65秒：B冲回贴身距离，A抢先用短直拳击向脸侧，回手护住胸前，随后压低身体打向腹肋；B抬臂挡住其中一击并以粗重手臂横扫反击，A贴近其胸肩内侧低头避开，抬前臂拨开回收的拳，再以紧凑短拳接触下颌与上胸。镜头绕两人肩侧高速小幅移动，头部与身体在实际接触后才出现回弹；以一组连续进攻、挡拨和回击完成这一段，不拍成轮流挥空拳、互不反应或双拳持续贴在一起。20.65–21.85秒：直接切正上方俯拍，清楚看见两人围绕同一小片地砖转动，A的黑色短辫与青铜护目框、B左肩铜锈绿甲片与赭红腰带是固定辨识点；B宽幅手臂从A身侧扫过，A缩肩钻入手臂内侧，左右脚依次换位，一手拨开对方前臂，另一只拳打入胸腹，再收手随B的转体调整位置。地面的落砖与排水格栅保持原位，俯拍展示近身攻防路线，不增加一个替身或第三名格斗者。21.85–24.00秒：切回越过B肩部的紧近景，A继续一组短促上、下段交替拳击并侧头闪开B从上方绕来的手臂，缠布前臂与灰青粗鳞拳臂交错但边界清楚。镜头追随A的拳头急推，在两处强接触点加入仅数帧的黑白高反差曝光闪变与立体冲击轮廓，立即回到原来的冷青灰AAA CGI，不切成漫画、文字或2D插画。最后一记直拳明确压中B腹部，腹部向内压缩、上身折起，B上方挥来的手臂随躯干失去前进方向；A脚底稳住，力量由腿、髋、肩传到拳面，拳头不穿透身体。24.00–28.00秒：紧接同一记腹部重击的后果，B双脚离地向后飞出，镜头低贴站台边缘沿车站长轴高速追踪，连续掠过白柱、黄色边框、玻璃栏板和惊愕的人群；背景线条因速度拖长，B的青灰鳞躯、暗棕裤、赭红腰带与左肩铜锈绿甲片始终能辨认。通过长轴宽景、柱子擦过前景的快速切镜和从下方仰看的近景，展示B在惯性中翻转、伸臂试图恢复平衡，带起的碎片沿同一飞行方向掠过轨道。B随后撞破站台边缘一段玻璃金属屏蔽栏，玻璃在身体接触后碎开、金属框弯折，他越过破口继续进入轨道区，切至轨道侧壁方向的宽景；这仍是上一记腹部重击引起的连续飞行，不新增画外踢击、第二次发射或击飞乘客，A不会复制到每根柱子后方。28.00–30.00秒：固定侧向中广景，深灰垂直轨道墙在画面左侧，对面站台和栏后乘客在右后方，长灯带指向车站深处。B在空中转到脚先朝墙，双脚脚掌明确接触垂直墙面，屈膝收腹形成紧凑蜷曲，脚下擦出少量墙灰，随后在ultra slow motion中缓缓伸膝、躯干向外转开，身体逐渐接近水平；脚掌仍抵住墙面，赭红腰带、宽裤与小碎片持续运动，体现接触、压缩和蓄力的连续过程，不是背部撞墙、悬空冻结或站在横倒的地面。30.00秒结束在B仍以双脚抵墙、身体向外展开的活画面，不添加完整蹬墙反扑、落地、死亡或胜负结局，无黑屏、无淡出、无片尾卡。节奏与连续性：保留快速追击、贴身闪避、投摔、空翻、飞踢、击柱、俯拍短打和跨站台位移的动作顺序，缩短观察与原对白停顿；只有甩起最高处、空中闪避和最终抵墙阶段使用局部慢动作，最终明确ultra slow motion，正常攻防必须高速流畅，不全局慢放，不用定格补足时长。A的黑色短辫、深棕肤色、青铜框护目罩、灰蓝无袖上衣与缠布前臂保持，露眼动作前后护目罩状态明确；B的左侧铜锈绿甲片与短骨鳍、右侧灰青粗鳞臂、蜥蜴状宽头、暗棕裤与赭红带保持，骨鳍不掉落、不换边、不变武器。被击倒者先接触地面再恢复支撑，主动跳跃先蹬地，受击飞行先有接触，墙面制动先脚掌接触再屈膝，所有运动保留重量、惯性与方向。背景群众持续作不同的自然避让动作，和主战者保持清楚空间，不融合、不突然穿进拳脚路径；受损柱面、落砖和破碎栏板在后续镜头保持破坏状态。无额外兵器、无多肢、无喷血、无肢解。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：地下站内通风与空间回响、鞋底踩踏和擦地、衣料与赭红腰带甩动、拳脚破风、实际接触的闷击、非语言呼吸和短促痛哼、碎石翻滚、混凝土开裂、玻璃碎裂、金属栏框弯折、乘客后退脚步、短暂紫光接触的非旋律电裂声，以及最后脚掌抵墙摩擦和墙灰落下。无对白、无旁白、无可懂喊词、无歌曲、无字幕；不得用脉冲声、管弦乐重击、旋律化音效设计或节奏性音效填补没有音乐的空缺，不把连拳、脚步或碎玻璃声编排成鼓点，不把通风声延伸成音乐性持续音。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 无标题、可读站名、logo、interface、播放器控件或watermark。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100233407108137349) · [查看原帖](https://x.com/MadMax_Series/status/2100233407108137349) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100222426705453318"></a>
+
+### 交互式公寓漫游与瓷砖方案选择
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-16 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100222426705453318"><img src="../assets/previews/0c6d0d55a3e8911c68a86b2e83152c98ca4d199a428c8b29f9ad12657dd497b3.webp" width="840" loading="lazy" alt="交互式公寓漫游与瓷砖方案选择"></a>
+
+**提示词**
+
+```text
+我希望你先在 Blender 中构建一个完全逼真的高清 3D 渲染模型，然后打造一个交互式网页体验，让我可以在公寓内漫游并选择瓷砖方案。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+I want you to build a completely realistic HD 3D render model in blender, then build interactive web experience so I can walk within the apartment, and choose tile options.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100222426705453318) · [查看原帖](https://x.com/scheemunai/status/2100222426705453318) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100193512373592313"></a>
+
+### PC 版《喷射战士》的开发与画面还原
+
+[basio](https://x.com/basio39) · 2026-09-16 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100193512373592313"><img src="../assets/previews/3b94a60f8ba9d15fb567a8dcf50e930940ecebcc2c3e91bbd4ea99b98dd0c014.webp" width="840" loading="lazy" alt="PC 版《喷射战士》的开发与画面还原"></a>
+
+**提示词**
+
+```text
+/goal 请开发 PC 版《喷射战士》。请完整还原游戏画面。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+/goal PC版スプラトゥーンを開発してください。グラフィックは完全に再現してください。
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2100193512373592313) · [查看原帖](https://x.com/basio39/status/2100194321987461503) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100139076816916977"></a>
 
 ### 带可动家具的交互式 3D 房间场景
@@ -3501,345 +3741,7 @@ Create a perfect end-to-end Minecraft clone, and let me know if you need anythin
 
 ---
 
-<a id="gpt-6-astra-2097781208596029936"></a>
-
-### 交互式 3D 粒子对撞机
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="交互式 3D 粒子对撞机"></a>
-
-**提示词**
-
-```text
-使用 Three.js 构建一个细节丰富的交互式 3D 粒子对撞机，灵感来自 CERN 的 LHC 和 ATLAS 探测器。
-
-创建三种视图：包含数千个独立动画部件的探测器、带有反向旋转束流的加速器环，以及模拟碰撞显示。
-
-让探测器分六个阶段展开，从大型端盖轮和磁体逐步细化到独立的传感器模块。加入由滚动控制的拆解动画、30/60/90 秒播放、暂停和反向组装功能。
-
-为各系统添加可见性开关、部件数量、科普说明，以及环形轨道环绕飞行镜头。
-
-采用高级感深色界面、金属材质、低调的金色点缀和电影感灯光。确保部件清晰可辨，避免过度重叠。
-
-参考 CERN 官方资料。明确标注简化几何体和模拟事件。
-
-交付一个可离线运行的单个自包含 HTML 文件，以及可移植的源代码和 README。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
-
-Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
-
-Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
-
-Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
-
-Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
-
-Consult official CERN references. Clearly label simplified geometry and synthetic events.
-
-Deliver one self-contained HTML file that works offline, plus portable source code and a README.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097781208596029936) · [查看原帖](https://x.com/k1rallik/status/2097781208596029936) · [项目源码](https://github.com/bubblik525/collider) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097730920224534868"></a>
-
-### 实时 3D 工厂发射台模拟
-
-[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="实时 3D 工厂发射台模拟"></a>
-
-**提示词**
-
-```text
-研究 @AirsupHQ 的精益生产书籍，设计一座拥有 10 个发射台的工厂方案，并构建一个实时 3D 模拟。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868) · [查看原帖](https://x.com/konstantinsaifo/status/2097730920224534868) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097678911882809407"></a>
-
-### 构建 THE LAST GATE：带算术门的人群跑酷
-
-[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="构建 THE LAST GATE：带算术门的人群跑酷"></a>
-
-**提示词**
-
-```text
-构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097678911882809407) · [查看原帖](https://x.com/KeWai386772/status/2097678911882809407) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097675660873605422"></a>
-
-### GPT-6 Astra与Blender搭建机械臂追猫喜剧场景
-
-[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="GPT-6 Astra与Blender搭建机械臂追猫喜剧场景"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
-
-**提示词**
-
-```text
-生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
-家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
-开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
-【资产锚点与参考规则】
-参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
-参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
-奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
-橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
-中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
-按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
-猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
-图1image：唯一猫咪外观。
-同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
-图2image：唯一机械臂外观。
-奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
-图3image：唯一猫尾形玩具外观。
-橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
-图4image：场景外观。
-参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
-【视觉风格与场景】
-真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
-宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
-背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
-中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
-摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097675660873605422) · [查看原帖](https://x.com/TanLuAI/status/2097675660873605422) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097602565110419781"></a>
-
-### 沉浸式 3D 稻田网站
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="沉浸式 3D 稻田网站"></a>
-
-**提示词**
-
-```text
-构建一个可在浏览器中运行的沉浸式 3D 稻田网站，主题为：
-“一片绿色的海洋 / 风吹过稻田。”
-完成代码，安装必要的依赖并启动预览。不要停留在提案或实现计划阶段。
-
-1. 视觉方向
-
-整体氛围应自然、宁静而精致，像一个艺术指导统一的互动景观网站。
-
-场景应包含：
-
-前景：清晰可辨的细长叶片、弯曲的茎秆，以及少量低垂的稻穗。
-
-中景：向远处延伸的连续稻田，植株密度充足，间距自然且富有变化。
-背景：不规则的林带、层叠的低矮山丘，以及 subtle 的大气透视效果。
-天空：柔和的灰蓝色调、细微的云层变化，以及地平线处自然的过渡。
-将默认相机放置在略高于稻穗的位置，横向望向稻田和远处的山丘。
-天空约占画面的三分之一，构图以稻田为主体。
-植被主要使用深绿色、橄榄绿和黄绿色。避免使用荧光绿。
-自然改变稻株的高度、朝向、弯曲程度和颜色。
-
-2. 动画要求
-风必须表现为横向穿过稻田、连续传播的波浪：
-根部基本保持固定，向叶尖和稻穗方向逐渐增强位移。
-同一区域的植株应保持协调运动，同时保留个体差异。
-
-将缓慢的大范围风浪与细微的局部扰动结合起来。
-
-避免所有植株完全同步摇摆。不要整体平移植株，也不要让叶片闪烁。
-
-默认风力应轻柔，长时间观看也保持舒适。
-3. 交互要求
-提供能够真正影响场景的简单控件：
-风速滑块：平滑调节风动画的强度和速度。
-光照模式：清晨、下午和黄金时刻。协调调整天空、光照方向、色温和雾色。
-
-视角模式：开阔稻田和稻田之间，并提供平滑的相机过渡。
-
-暂停/继续：暂停和继续环境动画。
-
-鼠标移动可以产生非常细微的相机响应，但不应造成眩晕。
-默认情况下不要让相机持续进行大角度旋转。
-4. 界面设计
-使用全屏场景，并在其上叠加界面：
-左上角：小尺寸的 VERDANT 字标。
-
-左下角：衬线标题“一片绿色的海洋。”
-标题下方：较小的副标题“无事可做，只需跟随微风。”
-右下角：紧凑的半透明深绿色控制面板。
-
-确保文字清晰易读，留出充足间距，避免控件遮挡主要景观。
-
-在窄屏上控件也必须保持可用，且不得相互重叠。
-
-5. 技术与性能
-使用 Three.js。如果已有项目，请保留其构建环境。
-使用实例化和 GPU 顶点动画处理大量植被。
-避免为每株植物创建独立的绘制对象，也不要在每一帧通过 CPU 更新所有植株。
-随着距离增加降低植被细节，并设置合理的像素比上限。
-优先使用程序化几何体和材质，确保资源加载可靠。
-场景必须实时渲染。不要使用完整的景观图片或视频作为主场景。
-模型名称和对比标签将在后期制作中添加；不要将其包含在场景内。
-6. 完成标准
-实现完成后，使用可用的浏览器工具验证以下内容：
-初始视图能够正确渲染，控制台没有明显错误。
-
-每个控件都确实能够影响场景。
-
-前景、中景和背景具有清晰可辨的景深与层次。
-稻株不能只是简单的竖直绿色线条。
-风的运动应连续且自然，不能出现明显的整齐重复。
-相机过渡应平滑，界面在窄屏上仍保持可用。
-如果无法执行某项检查，请明确说明。
-最后提供启动说明，并总结实际实现的功能。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build an immersive 3D rice-field website that runs in the browser, with the theme:
-“A sea of green / Wind through the rice fields.”
-Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
-
-1. Visual Direction
-
-The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
-
-The scene should include:
-
-Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
-
-Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
-Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
-Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
-Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
-The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
-Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
-Vary the height, orientation, curvature, and color of the rice plants naturally.
-
-2. Animation Requirements
-Wind must appear as continuous waves traveling laterally across the field:
-Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
-Plants in the same area should move coherently while retaining individual variation.
-
-Combine slow, large-scale wind waves with subtle local disturbances.
-
-Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
-
-Use a gentle default breeze that remains comfortable to watch over time.
-3. Interaction Requirements
-Provide simple controls that genuinely affect the scene:
-Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
-Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
-
-View modes: Open Field and Among the Rice, with smooth camera transitions.
-
-Pause/Resume: pause and resume the environmental animation.
-
-Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
-Do not continuously rotate the camera through large angles by default.
-4. Interface Design
-Use a full-screen scene with an interface overlaid on top:
-Top left: a small VERDANT wordmark.
-
-Bottom left: the serif heading “A sea of green.”
-Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
-Bottom right: a compact, semi-transparent dark-green control panel.
-
-Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
-
-Controls must remain usable on narrow screens without overlapping.
-
-5. Technology and Performance
-Use Three.js. If an existing project is available, retain its build environment.
-Use instancing and GPU vertex animation to handle large amounts of vegetation.
-Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
-Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
-Prefer procedural geometry and materials to ensure reliable asset loading.
-The scene must render in real time. Do not use a full landscape image or video as the main scene.
-Model names and comparison labels will be added in post-production; do not include them in the scene.
-6. Completion Criteria
-After implementation, use the available browser tools to verify that:
-The initial view renders correctly, with no obvious console errors.
-
-Every control genuinely affects the scene.
-
-The foreground, midground, and background have distinguishable depth and layering.
-The rice plants are more than simple upright green lines.
-Wind movement is continuous and natural, without obvious uniform repetition.
-Camera transitions are smooth, and the interface remains usable on narrow screens.
-If you cannot perform a particular check, state that clearly.
-Finally, provide startup instructions and a summary of the features actually implemented.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097602565110419781) · [查看原帖](https://x.com/YouWareAI/status/2097602565110419781) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097534290112188602"></a>
-
-### Blender 后室风格 VHS 场景
-
-[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="Blender 后室风格 VHS 场景"></a>
-
-**提示词**
-
-```text
-在 Blender 中渲染一个场景，效果应像某人行走在后室中时拍摄的第一人称 VHS 录像。整体要有照片级写实感，镜头运动呈现手持拍摄般的慌乱。角色先环顾四周，随后开始在后室迷宫中奔跑。场景中既要有宽敞开阔的房间，也要有仿佛没有尽头的走廊。营造极度恐慌的氛围。时长 30 秒。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097534290112188602) · [查看原帖](https://x.com/chrisfirst/status/2097534290112188602) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.2.md) · **3 / 10** · [→](catalog.zh.4.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 466 条案例与在线演示 →</a></strong></p>

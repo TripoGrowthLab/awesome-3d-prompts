@@ -28,6 +28,12 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [에스겔의 성전 환상을 3D로](#gpt-6-astra-2096547658164834788)
+- [Blender에서 전환하는 캐릭터 표정](#switchable-character-expressions-in-blender-2096525100518453342)
+- [Geometry Nodes로 만드는 반복 수면 효과](#looping-water-with-geometry-nodes-2096521798150242631)
+- [원피스에서 영감을 받은 항해 세계](#one-piece-inspired-sailing-world-2096518775042707700)
+- [내 방을 인터랙티브 포트폴리오로](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [Three.js로 완성하는 퍼즐 스테이지](#complete-three-js-puzzle-level-2096505740643246231)
 - [잔잔한 3D 바다를 달리는 YF-24 보트](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
 - [최상층 평면도에서 Blender 미리보기까지](#top-floor-plan-to-blender-preview-2096501340889374883)
 - [걸어서 둘러보는 로우폴리 과천 마을](#walkable-low-poly-gwacheon-village-2096490395614019793)
@@ -72,14 +78,135 @@
 - [커피잔 속 해양 생물](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [어항에서 바다까지: 물고기 생존 게임](#gpt-6-astra-2096156244180664627)
 - [배틀로얄 아레나 Dropzone](#dropzone-battle-royale-arena-2096155883122413946)
-- [브라우저 비행 게임](#browser-flight-game-2096149823216898445)
-- [카페 사진을 세로형 실내 투어로](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [자동 캐릭터 리그와 쿵후 동작](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Blender 바이킹 캐릭터](#viking-character-in-blender-2096140378777010278)
-- [Odyssey 스타일 플랫폼 모험](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [리깅하고 움직이는 티라노사우루스](#rigged-and-animated-t-rex-2096133339329536249)
 
 </details>
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### 에스겔의 성전 환상을 3D로
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="에스겔의 성전 환상을 3D로"></a>
+
+**프롬프트**
+
+```text
+에스겔의 성전 환상은 3D로 어떻게 보일까요?
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096547658164834788) · [원본 게시물](https://x.com/KrixOnok/status/2096547658164834788) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### Blender에서 전환하는 캐릭터 표정
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Blender에서 전환하는 캐릭터 표정"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+리깅에 앞서 Blender에서 Tripo 캐릭터의 표정별 변형을 준비하세요. 메시의 위치를 맞추고, 비활성 표정은 머리 안쪽으로 축소해 숨겨 표정이 단계적으로 전환되게 하세요. 부드러운 블렌딩이나 VRM 호환성을 지원한다고 표현하지 마세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [원본 게시물](https://x.com/Dstudio_ai/status/2096525100518453342) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### Geometry Nodes로 만드는 반복 수면 효과
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Geometry Nodes로 만드는 반복 수면 효과"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+베이킹 없이 Blender Geometry Nodes를 사용해 주기적으로 반복되는 수면 효과를 만드세요. 노드 구성을 편집 가능한 상태로 유지하고, 완전한 유체 시뮬레이션이 아닌 수면 모델임을 설명하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [원본 게시물](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### 원피스에서 영감을 받은 항해 세계
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="원피스에서 영감을 받은 항해 세계"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender 선박과 Three.js 바다로 플레이 가능한 항해 세계를 만드세요. 변화하는 날씨, 수중 탐험, 항적, 거품, 물보라, 움직이는 돛을 추가하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [원본 게시물](https://x.com/yash_yk45/status/2096518775042707700) · [데모](https://one-piece-sea-world.vercel.app/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### 내 방을 인터랙티브 포트폴리오로
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="내 방을 인터랙티브 포트폴리오로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+개인 방을 인터랙티브 자기소개 웹사이트로 바꾸세요. Blender에서 장면을 만들고 베이킹한 뒤, 커피 김, Matrix 스타일 애니메이션, 은은한 셰이더 효과를 추가하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [원본 게시물](https://x.com/kalanyei/status/2096506357868642342) · [데모](https://room.kalan.dev/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### Three.js로 완성하는 퍼즐 스테이지
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Three.js로 완성하는 퍼즐 스테이지"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+실제 플레이 규칙까지 갖춘 완전한 3D 퍼즐 게임 스테이지를 Three.js로 만드세요. 스테이지와 상호작용이 작동한 뒤 제공된 오디오를 통합하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [원본 게시물](https://x.com/TvWoo/status/2096505740643246231) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
 
 ### 잔잔한 3D 바다를 달리는 YF-24 보트
@@ -1667,126 +1794,6 @@ First define the full gameply loop and level designs and stuff for this game int
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [원본 게시물](https://x.com/Motion_Viz/status/2096155883122413946) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### 브라우저 비행 게임
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="브라우저 비행 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-빈 프로젝트에서 완전한 브라우저 3D 비행 게임을 만드세요. 조종 가능한 비행, 이동 가능한 환경, 명확한 목표, 일관된 표현을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/browser-flight-game-2096149823216898445) · [원본 게시물](https://x.com/givros/status/2096149823216898445) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### 카페 사진을 세로형 실내 투어로
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="카페 사진을 세로형 실내 투어로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-사진을 참고해 목재 천장, 띠 조명, 로스터, 선반, 식물을 갖춘 카페를 Blender에서 재구성하세요. 편집 가능한 장면과 15초 분량의 세로형 카메라 투어를 제공하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [원본 게시물](https://x.com/harrisonitsme/status/2096143359505269079) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### 자동 캐릭터 리그와 쿵후 동작
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="자동 캐릭터 리그와 쿵후 동작"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 3D 캐릭터에 리그를 만들고 걷기, 달리기, 여러 쿵후 동작을 추가하세요. 애니메이션에서 관절이 깨지거나 자세가 불안정한지 살펴보세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [원본 게시물](https://x.com/thebuggeddev/status/2096141728487178503) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Blender 바이킹 캐릭터
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender 바이킹 캐릭터"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Blender에서 편집 가능한 3D 바이킹 캐릭터를 만드세요. 특징적인 의상, 얼굴 구조, 몸의 비율, 알아보기 쉬운 전시 포즈에 집중하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/viking-character-in-blender-2096140378777010278) · [원본 게시물](https://x.com/fre4kspace/status/2096140378777010278) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### Odyssey 스타일 플랫폼 모험
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey 스타일 플랫폼 모험"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-발판 8개, 수집할 달 3개, 돌아오는 모자 공격, 적, 체크포인트가 있는 Odyssey 스타일 Three.js 레벨을 만드세요. 터치 조작을 추가하고 처음부터 끝까지 플레이 테스트하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [원본 게시물](https://x.com/AiHubMix/status/2096135808243876152) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### 리깅하고 움직이는 티라노사우루스
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="리깅하고 움직이는 티라노사우루스"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-생성된 티라노사우루스 모델에 리그를 만들고 자연스러운 움직임을 추가하세요. Three.js에서 캐릭터를 렌더링하고 애니메이션이 모델을 일관되게 변형하는지 확인하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [원본 게시물](https://x.com/majidmanzarpour/status/2096133339329536249) · [사례 목록으로](#all-prompts)
 
 ---
 

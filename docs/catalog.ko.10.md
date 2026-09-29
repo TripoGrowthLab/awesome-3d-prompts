@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (10)</summary>
+<summary>사례 둘러보기 (16)</summary>
 
+- [Claude Fable 5의 절차적 Three.js 무기 모델링 과제](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [도시 블록이 변화하는 Kimi K3 Three.js 프롬프트](#transforming-three-js-city-block-scene-2080724552422924382)
+- [다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [개성 있는 새와 여러 레벨이 있는 Angry Birds 스타일 클론](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [Claude Fable 5와 Kimi K3 비교에 쓰인 3D 축구장 제작 과제](#3d-soccer-stadium-2080473039834333229)
 - [미래형 자기부상 열차 장면의 Three.js 프롬프트](#futuristic-maglev-train-in-three-js-2080454415400493332)
 - [카멜레온과 로봇의 3D 숨바꼭질 프롬프트](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
 - [Claude Fable 5용 3D 벚나무 프롬프트](#3d-cherry-blossom-tree-2080178541979664741)
@@ -40,6 +46,125 @@
 - [Three.js 비행기 내부 워크스루 체험 프롬프트](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Claude Fable 5의 절차적 Three.js 무기 모델링 과제
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5의 절차적 Three.js 무기 모델링 과제"></a>
+
+**프롬프트**
+
+```text
+The Hype는 Claude Opus 5, Fable 5, GPT-5.6 Sol, Kimi K3에 완전히 동일한 Three.js 절차적 제작 과제를 주어 비교했습니다.
+
+각 모델이 만들어야 할 것:
+• M4 Carbine
+• Glock 18C
+• Steyr TMP
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [원본 게시물](https://x.com/adxtyahq/status/2080759312008503365) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### 단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="단일 HTML로 만드는 세 가지 Three.js 절차적 총기 프롬프트"></a>
+
+**프롬프트**
+
+```text
+이번 테스트: 프롬프트 3개, 단일 HTML, @threejs, 완전한 절차적 생성, 외부 에셋 없음. 각각 작은 발사 버튼(Web Audio 총성, 총구 섬광, 반동, 탄피 배출)과 분해 전환 기능을 넣어 라벨이 있는 부품으로 펼쳤다가 다시 조립한다.
+
+1. 5.56 M4 카빈: 길이 조절 개머리판, safe·semi·burst 표시 하부, r14–r28 패널 번호가 있는 쿼드레일, Aimpoint 레드닷, 수직 손잡이, 접이식 양각대, A2 소염기. 10개 부품으로 분해.
+
+2. Glock 18C: 발사 모드 선택형 기관권총, 18C의 포트형 보정기 슬롯, ‘glock 18c / austria 9x19’ 각인, 33발 연장 탄창. 슬라이드, 포트형 총열, 복좌 용수철, 프레임, 탄창으로 분해.
+
+3. Steyr TMP: 리브가 있는 폴리머 외장, 나사산 총열, 일체형 전방 수직 손잡이, 기울어진 반투명 30발 탄창.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [원본 게시물](https://x.com/thehypedotnews/status/2080757148078768504) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### 도시 블록이 변화하는 Kimi K3 Three.js 프롬프트
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="도시 블록이 변화하는 Kimi K3 Three.js 프롬프트"></a>
+
+**프롬프트**
+
+```text
+아주 까다로운 Three.js 프롬프트를 줬습니다. HTML 파일 하나에서 건물, 자동차, 가게, 군중, 조명, 효과음이 변하며 1945년부터 2055년까지 바뀌는 도시 블록을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [원본 게시물](https://x.com/ggg78g89/status/2080724552422924382) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### 다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="다빈치의 날갯짓 비행기를 만드는 Claude Opus 5 Three.js 프롬프트"></a>
+
+**프롬프트**
+
+```text
+Three.js로 레오나르도 다빈치의 날갯짓 비행기.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [원본 게시물](https://x.com/HarshithLucky3/status/2080720533277319587) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### 개성 있는 새와 여러 레벨이 있는 Angry Birds 스타일 클론
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="개성 있는 새와 여러 레벨이 있는 Angry Birds 스타일 클론"></a>
+
+**프롬프트**
+
+```text
+독특한 새, 여러 레벨과 게임 규칙이 있는 Angry Birds 클론을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [원본 게시물](https://x.com/BuildFastWithAI/status/2080624574883123541) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### Claude Fable 5와 Kimi K3 비교에 쓰인 3D 축구장 제작 과제
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Claude Fable 5와 Kimi K3 비교에 쓰인 3D 축구장 제작 과제"></a>
+
+**프롬프트**
+
+```text
+개발자가 ‘3D 축구장을 만들어주세요’라는 동일한 과제로 모델을 비교했습니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-soccer-stadium-2080473039834333229) · [원본 게시물](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
 
 ### 미래형 자기부상 열차 장면의 Three.js 프롬프트

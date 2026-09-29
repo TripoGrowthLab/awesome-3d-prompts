@@ -28,6 +28,12 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Móc chữ J có thể in 3D để thử độ bền](#gpt-6-astra-2104590493191479337)
+- [Kiến trúc biết đi](#claude-opus-5-5-2104590334152056983)
+- [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](#claude-opus-5-5-2104571944842498150)
+- [Game phong cách Genshin và công cụ chỉnh sửa địa hình](#gpt-6-astra-2104531704740512143)
+- [Bánh dâu WebGPU tương tác](#claude-opus-5-5-2104514806443303238)
+- [Lát dưa hấu thạch 3D tương tác](#gpt-6-astra-2104504957173153951)
 - [Bộ LEGO Ford Model T đầy đủ tính năng](#claude-opus-5-5-2104232297167716457)
 - [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](#claude-opus-5-5-2104232013578617241)
 - [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](#claude-opus-5-5-2104223449849761837)
@@ -72,14 +78,356 @@
 - [Shader thành phố solarpunk vô tận](#gpt-6-astra-2102826333550133520)
 - [Montage huấn luyện quá trình phát triển của Claude](#claude-opus-5-5-2102788371114246177)
 - [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](#claude-opus-5-5-2102788223835463902)
-- [Bàn cờ 3D tương tác để học các gambit cờ vua](#gpt-6-astra-2102788013902213508)
-- [Hoạt ảnh chu trình nước lập trình liền mạch](#claude-opus-5-5-2102781807179735211)
-- [Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt](#gpt-6-astra-2102780850706567390)
-- [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](#claude-opus-5-5-2102775461701091531)
-- [Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng](#gpt-6-astra-2102752217375899659)
-- [bài benchmark đại đô thị cyberpunk The Last Train](#claude-opus-5-5-2102740078347087940)
 
 </details>
+<a id="gpt-6-astra-2104590493191479337"></a>
+
+### Móc chữ J có thể in 3D để thử độ bền
+
+[Wësche](https://x.com/WescheNex1q) · 2026-09-28 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104590493191479337"><img src="../assets/previews/d878c00828b551d7a80fe45eaf7bc5e363192ba0200a2335b721eaaef66fae7f.webp" width="840" loading="lazy" alt="Móc chữ J có thể in 3D để thử độ bền"></a>
+
+**Prompt**
+
+```text
+Thiết kế một móc chữ J có thể in 3D để thử độ bền.
+Móc treo trên một thanh thép 8 mm. Một chốt 8 mm nằm trong miệng móc và tải trọng được treo từ chốt này. Tôi muốn đạt tải trọng phá hủy cao nhất có thể mà không để thanh hoặc chốt bị tuột ra.
+Yêu cầu:
+- Một chi tiết in duy nhất. Không dùng vít, insert, keo hoặc chi tiết bổ sung.
+- Phải kẹp được vào thanh và chốt bằng tay. Không dùng vòng kín.
+- Khoảng cách giữa hai tâm vị trí đặt chốt là 40 mm.
+- PLA. Khối lượng tối đa 35 g sau khi in.
+- Phải nằm gọn trong kích thước 80 x 60 x 25 mm.
+- Chốt phải nâng lên ít nhất 10 mm mới có thể thoát ra. Nếu chốt có thể lăn ngang ra ngoài thì thiết kế đó không hợp lệ.
+Hãy cung cấp:
+1. Giải thích ngắn gọn về hình dạng.
+2. Tệp OpenSCAD hoàn chỉnh để tôi biên dịch và xuất STL cho Bambu Studio.
+Không cung cấp mã STL. Không cung cấp G-code. Chỉ dùng OpenSCAD. Nếu ý tưởng đầu tiên có thể bị tuột ra, hãy thay thế bằng phương án khác ngay trong cùng câu trả lời.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Design one 3D-printable J-hook for a strength test.
+The hook hangs from an 8 mm steel bar. An 8 mm pin sits in the bill and we hang weight from that pin. I want the highest breaking load I can get without the bar or the pin slipping out.
+Rules:
+- One printed part. No screws, inserts, glue, or extra pieces.
+- Must clip onto the bar and the pin by hand. No closed rings.
+- Pin seats 40 mm apart, center to center.
+- PLA. Max 35 g as printed.
+- Must fit 80 x 60 x 25 mm.
+- The pin should have to lift at least 10 mm to come out. If it can roll out the side, that design is invalid.
+Give me:
+1. A short explanation of the shape.
+2. A complete OpenSCAD file I can compile and export to STL for Bambu Studio.
+No STL text. No G-code. OpenSCAD only. If the first idea would slip off, replace it in the same answer.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104590493191479337) · [Bài đăng gốc](https://x.com/WescheNex1q/status/2104590493191479337) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### Kiến trúc biết đi
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="Kiến trúc biết đi"></a>
+
+**Prompt**
+
+```text
+Tạo một công trình kiến trúc biết đi
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104590334152056983) · [Bài đăng gốc](https://x.com/shion_takk/status/2104590334152056983) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại"></a>
+
+**Prompt**
+
+```text
+Sử dụng Magnific MCP, hãy xây dựng một game beat ’em up pixel art chơi được, lấy bối cảnh La Mã cổ đại, dưới dạng một tệp HTML duy nhất hoạt động trên thiết bị di động. Trước tiên, hãy tạo một ảnh chủ đạo và dùng ảnh đó làm tham chiếu phong cách cho mọi thành phần: màn chơi, nhân vật chính, kẻ địch, trùm voi chiến và vật phẩm. Tạo hoạt ảnh cho nhân vật bằng image-to-video trên phông xanh, chọn các khung hình có thể lặp, tách nền xanh và giữ mọi hoạt ảnh cùng tỉ lệ cũng như bảng màu. Thêm điều khiển cảm ứng, combo, khiên, né đòn, lao pilum có thể ném, vật phẩm nhặt được, chế độ chơi thử 1 phút và nhạc nền chiptune. Hãy cho tôi biết chi phí credit trước mỗi lần tạo.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104571944842498150) · [Bài đăng gốc](https://x.com/koldo2k/status/2104571946989985812) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104531704740512143"></a>
+
+### Game phong cách Genshin và công cụ chỉnh sửa địa hình
+
+[ふぐあい(ふぐおん)](https://x.com/fuguai1) · 2026-09-28 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143"><img src="../assets/previews/2c3e380b8ff93c61c74421f3217becf171ac346c55ffff41efac5fafb3be3a77.webp" width="840" loading="lazy" alt="Game phong cách Genshin và công cụ chỉnh sửa địa hình"></a>
+
+**Prompt**
+
+```text
+Tạo một game giống Genshin và công cụ cho phép chỉnh sửa địa hình trong game.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+原神みたいなゲームとそれを地形編集できるツールを作って
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104531704740512143) · [Bài đăng gốc](https://x.com/fuguai1/status/2104531704740512143) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### Bánh dâu WebGPU tương tác
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="Bánh dâu WebGPU tương tác"></a>
+
+**Prompt**
+
+```text
+Lập tức xây dựng một trang web WebGPU tương tác hoàn chỉnh có tên “Strawberry Cake.” 
+Sử dụng WebGPU + WGSL thực thụ, hình học dựng theo quy trình, chuột/cảm ứng và vật lý thân mềm thể tích theo thời gian thực. Không dùng Three.js/Babylon.js, Canvas2D, tài nguyên bên ngoài, video/GIF hoặc biến dạng chỉ bằng CSS.
+Hình ảnh: bánh shortcake dâu kiểu Hàn/Nhật cao cấp—thấp, bè rộng, bo tròn, mềm như gối, với cốt bánh màu hồng, các lớp kem, lớp phủ nhạt màu, kem bắt bông và dâu tây. Nền màu ngà ấm, ánh sáng studio dịu, vật liệu ẩm mọng như có thể ăn được.
+Bố cục: góc trên bên trái hiển thị “SOFT STUDIES / NO.001” + “Strawberry Cake” in nghiêng. Góc trên bên phải hiển thị “WEBGPU · LIVE”. Bánh lớn đặt chính giữa. Điều khiển bên phải: Bàn tay/Dao, preset, Độ cứng, Giảm chấn, Thả, Đặt lại, Tạm dừng, tốc độ ¼, Hiện lưới. Góc dưới bên trái: Khối lượng, Thể tích, Động năng, Số miếng.
+Vật lý: thân mềm XPBD/đồng quay ổn định với lưới mô phỏng tứ diện, lưới hiển thị mượt, bảo toàn thể tích, giảm chấn, trọng lực, ma sát sàn và va chạm giữa các miếng. Bánh phải cho cảm giác mềm nhưng nặng, đồng thời lắc lư sau khi thả.
+Bàn tay: giữ=Ấn, kéo vào=Bóp, kéo ra=Nắm, thả nhanh=Ném. Sử dụng thao tác nắm có trọng số, mục tiêu 3D được làm mượt, vận tốc con trỏ và động lượng. Bánh vẫn tự do chuyển động; thao tác với bánh được ưu tiên hơn xoay góc nhìn.
+Dao: dao 3D dựng theo quy trình. Vẽ một đường cắt; tạo hoạt ảnh theo trình tự tiếp xúc→nén→xuyên qua→đột phá→nhấc lên. Làm biến dạng trước khi tách; giữ đường ráp thật mảnh.
+Bắt buộc hỗ trợ cắt lặp lại: sử dụng danh sách miếng động; mọi miếng đều tiếp tục có thể cắt. Chuyển nét vẽ thành các mặt phẳng cắt dọc, tách những miếng bị cắt qua, tạo lưới thân mềm/lưới hiển thị mới, truyền biến dạng/vận tốc, bảo toàn phần phủ bên trên, giữ hai nửa thẳng hàng và cập nhật Số miếng. Hỗ trợ từ 14 miếng trở lên và cắt qua nhiều miếng. Không dùng các trạng thái cố định kiểu nguyên chiếc/trái/phải.
+Thả sẽ giải phóng tất cả các miếng. Đặt lại khôi phục một chiếc bánh nguyên vẹn và Số miếng=1. Sử dụng bước thời gian cố định/các bước con, DPR≤2, giới hạn tình trạng mất ổn định, tránh NaN/lỗi GPU. Cung cấp window.__cake.
+Chạy cục bộ, kiểm thử các tương tác và việc cắt lặp lại, rồi tinh chỉnh đến khi hoàn thiện.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104514806443303238) · [Bài đăng gốc](https://x.com/ImaStudio_ai/status/2104517586092458039) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104504957173153951"></a>
+
+### Lát dưa hấu thạch 3D tương tác
+
+[基恩-Keane 🌊](https://x.com/esrhengwu) · 2026-09-28 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104504957173153951"><img src="../assets/previews/3fb7cd9ade55d534246324137d2c1c9f8b244b21ddc5bb850e5d8b2c693b8b34.webp" width="840" loading="lazy" alt="Lát dưa hấu thạch 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo “Melon Jelly” — một lát dưa hấu thạch 3D tương tác, hoàn thiện về hình ảnh, chạy trực tiếp trong trình duyệt bằng WebGPU và shader WGSL thực thụ.
+Cung cấp một tệp HTML duy nhất, tự chứa, với JavaScript và CSS được nhúng bên trong. Đây phải là một mô phỏng 3D tương tác thực sự, không phải ảnh tĩnh, video hay mô phỏng 2D.
+DƯA HẤU
+Tạo một miếng dưa hấu hình nêm tam giác dày, bo tròn, với:
+Phần thịt thạch đỏ ruby trong mờ.
+Một lớp nhạt màu, hơi trong mờ nằm giữa phần thịt và vỏ.
+Lớp vỏ xanh bóng với các sọc xanh đậm không đều.
+
+Các hạt màu sẫm được mô hình hóa riêng và nằm bên trong cả hai mặt cắt lộ ra.
+Các góc bo mềm và độ dày rõ rệt, bắt mắt.
+Hãy khiến nó trông như một viên kẹo dẻo cao cấp được chụp trong studio. Nó cần gợi cảm giác mọng nước, mềm mại và gần như có thể ăn được. Giữ màu sắc đậm và giàu sức sống nhưng không để vùng sáng bị cháy sáng.
+VẬT LÝ VẬT THỂ MỀM
+Sử dụng mô phỏng vật thể mềm theo thể tích, chẳng hạn lưới tứ diện với các ràng buộc đàn hồi và bảo toàn thể tích XPBD.
+Người dùng phải có thể:
+Nắm phần chóp, một góc, phần thịt hoặc lớp vỏ.
+Kéo giãn, bẻ cong, nhấc lên và xoắn nhẹ lát dưa hấu.
+
+Thả ra và quan sát nó rung lắc trước khi dần ổn định.
+Lát dưa hấu phải biến dạng rõ rệt tại từng vùng, không chỉ di chuyển hoặc co giãn như một vật thể cứng duy nhất. Làm lớp vỏ cứng hơn phần thịt một chút nhưng vẫn giữ cho toàn bộ lát dưa hấu mềm dẻo.
+Duy trì thể tích ở mức hợp lý khi kéo giãn. Ngăn các phần tử bị lộn ngược, chuyển động bùng nổ và sụp đổ vĩnh viễn. Sử dụng bước thời gian mô phỏng cố định và số bước phụ có giới hạn để đảm bảo ổn định.
+Sau khi được thả ra, chuyển động phải suy giảm tự nhiên — không bật về ngay lập tức và cũng không dao động mãi.
+Giữ các hạt gắn với phần thịt đang biến dạng. Chúng phải di chuyển và xoay theo bề mặt, không được tự trôi độc lập hoặc đứng cố định trong không gian.
+Bao gồm tiếp xúc với mặt đất, ma sát nhẹ và độ nảy mềm. Tránh để sàn bị xuyên qua rõ rệt.
+RENDERING
+Sử dụng WebGPU gốc cùng shader WGSL.
+Bao gồm:
+Khả năng hấp thụ ánh sáng phụ thuộc vào độ dày.
+Khúc xạ xuyên qua lớp thạch.
+
+Phản xạ Fresnel và vùng sáng bóng.
+Ánh sáng truyền qua mềm ở các cạnh mỏng.
+Chi tiết bên trong tinh tế và một vài bong bóng khí rất nhỏ.
+
+Bóng đổ tiếp xúc mềm bên dưới lát dưa hấu.
+Phông nền studio sáng màu, trung tính.
+Phần thịt, lớp vỏ nhạt màu và lớp da xanh cần có phản hồi vật liệu riêng biệt. Tránh khiến mọi thứ trông như kính trong suốt hoặc nhựa đục.
+Giữ lát dưa hấu đủ lớn và dễ quan sát, với góc máy ba phần tư làm lộ rõ phần thịt, hạt và độ dày.
+INTERFACE
+Sử dụng bố cục biên tập tối giản với nhiều khoảng trắng, đường viền mảnh, các nút điều khiển tiết chế và không dùng gradient trang trí trong giao diện.
+Góc trên bên trái:
+“MATERIAL STUDIES / NO. 009”
+Một tiêu đề serif in nghiêng cỡ lớn, chia thành hai dòng: “Melon” và “Jelly.”
+Chú thích nhỏ:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Góc trên bên phải:
+Một chỉ báo trạng thái nhỏ hiển thị “WEBGPU · LIVE” khi trình kết xuất đang chạy.
+
+Bảng điều khiển bên phải:
+“THE SPECIMEN”
+Ba preset màu lấy cảm hứng từ dưa hấu, phối hợp với nhau.
+Thanh trượt độ cứng kèm giá trị hiện tại.
+Thanh trượt giảm chấn bên trong kèm giá trị hiện tại.
+Các nút “Give it a nudge” và “Reset”.
+Các ô chọn “¼ speed” và “Show mesh”.
+
+Nút Tạm dừng / Tiếp tục.
+Góc dưới bên trái:
+Một gợi ý ngắn giải thích rằng có thể nắm và kéo giãn lát dưa hấu.
+Các thông số thời gian thực về khối lượng, thể tích tương đối và động năng, được suy ra từ mô phỏng. Mô tả rõ đơn vị minh họa hoặc giá trị gần đúng khi phù hợp.
+Góc dưới bên phải:
+
+Một mục có thể thu gọn mang tên “Inside the experiment”, giải thích ngắn gọn về vật lý và quá trình kết xuất.
+HÀNH VI VÀ HIỆU NĂNG
+Hỗ trợ thao tác bằng chuột và cảm ứng. Sử dụng pointer capture để thao tác kéo vẫn ổn định khi con trỏ rời khỏi vật thể.
+Đảm bảo bố cục hoạt động tốt trên máy tính và thiết bị di động, không để các nút điều khiển che lên lát dưa hấu.
+Tái sử dụng buffer và tránh dựng lại hình học hoặc biên dịch shader trong lúc kéo. Giữ trải nghiệm tương tác mượt mà và phản hồi nhanh.
+Tôn trọng tùy chọn giảm chuyển động. Nếu không có WebGPU, hãy hiển thị giải thích rõ ràng thay vì âm thầm thay thế bằng trình kết xuất giả.
+VALIDATION
+Kiểm thử thao tác kéo từ nhiều vị trí, kéo giãn mạnh, thả nhiều lần, va chạm với mặt đất, tất cả thanh trượt, preset, tạm dừng, đặt lại và chuyển động chậm.
+Kiểm tra để đảm bảo mô hình trở về hình dạng nghỉ ổn định, các hạt vẫn gắn với bề mặt, lưới không bị hỏng và không có lỗi kết xuất.
+Ưu tiên chất lượng phản hồi của thạch và ánh sáng. Kết quả cần khiến người dùng muốn tiếp tục nắm và chơi với nó.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.
+Deliver a single, self-contained HTML file with embedded JavaScript and CSS. This must be an actual interactive 3D simulation, not a static render, video, or 2D imitation.
+THE WATERMELON
+Create a thick, rounded triangular watermelon wedge with:
+Translucent ruby-red jelly flesh.
+A pale, slightly translucent layer between the flesh and rind.
+A glossy green outer rind with irregular dark-green stripes.
+
+Individually modeled dark seeds embedded in both exposed sides.
+Softly rounded corners and an appealing, substantial thickness.
+Make it look like an expensive gummy candy photographed in a studio. It should feel juicy, soft, and almost edible. Keep the colors rich without overexposing the highlights.
+SOFT-BODY PHYSICS
+Use a volumetric soft-body simulation, such as a tetrahedral mesh with XPBD elastic and volume-preservation constraints.
+The user must be able to:
+Grab the tip, a corner, the flesh, or the rind.
+Stretch, bend, lift, and gently twist the slice.
+
+Release it and watch it wobble before gradually settling.
+The slice must visibly deform locally, not simply move or scale as one rigid object. Make the rind slightly firmer than the flesh while keeping the whole slice flexible.
+Preserve volume reasonably during stretching. Prevent inverted elements, explosive motion, and permanent collapse. Use a fixed simulation timestep and bounded substeps for stability.
+After release, the motion should decay naturally - no instant snapping back and no endless oscillation.
+Keep seeds attached to the deforming flesh. They must move and rotate with the surface rather than float independently or remain fixed in space.
+Include ground contact, gentle friction, and soft bouncing. Avoid visible floor penetration.
+RENDERING
+Use native WebGPU with WGSL shaders.
+Include:
+Thickness-dependent light absorption.
+Refraction through the jelly.
+
+Fresnel reflections and glossy highlights.
+Soft transmitted light through thin edges.
+Subtle internal details and a few tiny air bubbles.
+
+Soft contact shadows beneath the slice.
+A light, neutral studio background.
+The flesh, pale rind, and green skin should have distinct material responses. Avoid making everything look like clear glass or opaque plastic.
+Keep the slice large and easy to inspect, with a three-quarter camera angle that reveals the flesh, seeds, and thickness.
+INTERFACE
+Use a minimal editorial layout with generous whitespace, thin borders, restrained controls, and no decorative UI gradients.
+Top left:
+“MATERIAL STUDIES / NO. 009”
+A large italic serif heading split across two lines: “Melon” and “Jelly.”
+Small caption:
+“A slice of summer.”
+“A little wobble.”
+“Too soft to share.”
+Top right:
+A small status indicator showing “WEBGPU · LIVE” when the renderer is running.
+
+Right-side panel:
+“THE SPECIMEN”
+Three coordinated watermelon-inspired color presets.
+Firmness slider with its current value.
+Internal damping slider with its current value.
+“Give it a nudge” and “Reset” buttons.
+“¼ speed” and “Show mesh” checkboxes.
+
+Pause / Resume button.
+Bottom left:
+A short hint explaining that the slice can be grabbed and stretched.
+Live mass, relative volume, and kinetic-energy readouts derived from the simulation. Clearly describe illustrative units or approximate values where appropriate.
+Bottom right:
+
+A collapsible “Inside the experiment” section briefly explaining the physics and rendering.
+BEHAVIOR AND PERFORMANCE
+Support both mouse and touch input. Use pointer capture so dragging remains reliable when the pointer leaves the object.
+Make the layout work on desktop and mobile without controls covering the slice.
+Reuse buffers and avoid rebuilding geometry or compiling shaders during dragging. Keep interaction smooth and responsive.
+Respect reduced-motion preferences. If WebGPU is unavailable, display a clear explanation instead of silently substituting a fake renderer.
+VALIDATION
+Test dragging from several locations, strong stretches, repeated releases, ground collisions, all sliders, presets, pause, reset, and slow motion.
+Check that the model returns to a stable resting shape, seeds stay attached, the mesh remains intact, and there are no rendering errors.
+Prioritize the quality of the jelly response and lighting. The result should be something people want to keep grabbing and playing with.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104504957173153951) · [Bài đăng gốc](https://x.com/esrhengwu/status/2104505413857415515) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### Bộ LEGO Ford Model T đầy đủ tính năng
@@ -2411,218 +2759,6 @@ I want you to imagine a story. And then using threejs I want you to create full 
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902) · [Bài đăng gốc](https://x.com/scheemunai/status/2102788223835463902) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102788013902213508"></a>
-
-### Bàn cờ 3D tương tác để học các gambit cờ vua
-
-[Diogo Santos](https://x.com/diogosantosbr) · 2026-09-23 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508"><img src="../assets/previews/353516426d20a93f84c053754d43af63c57d032ab733aa190f5e0ee39209b9c4.webp" width="840" loading="lazy" alt="Bàn cờ 3D tương tác để học các gambit cờ vua"></a>
-
-**Prompt**
-
-```text
-Tạo một ứng dụng web có bàn cờ 3D tương tác để học các gambit cờ vua phổ biến. Thêm hoạt ảnh cho các nước đi, điều khiển tiến và lùi, các biến và phần giải thích ý tưởng đằng sau từng khai cuộc.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Crie uma aplicação web com um tabuleiro 3D interativo para estudar os principais gambitos do xadrez. Inclua animação dos movimentos, controles para avançar e voltar, variantes e explicações das ideias por trás de cada abertura.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102788013902213508) · [Bài đăng gốc](https://x.com/diogosantosbr/status/2102788013902213508) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102781807179735211"></a>
-
-### Hoạt ảnh chu trình nước lập trình liền mạch
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Hoạt ảnh chu trình nước lập trình liền mạch"></a>
-
-**Prompt**
-
-```text
-Tạo một hoạt ảnh chu trình nước phát theo vòng lặp liền mạch, hoàn toàn bằng mã.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a seamless looping animation of the water cycle, entirely in code.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102781807179735211) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2102781807179735211) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102780850706567390"></a>
-
-### Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt
-
-[もぎ＠ボードゲーム](https://x.com/luxurytax150) · 2026-09-23 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390"><img src="../assets/previews/e74d404db5584e5dcd5c9733ff0312a3d34dc5966787a90296c787435782da29.webp" width="840" loading="lazy" alt="Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt"></a>
-
-**Prompt**
-
-```text
-Tạo một lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt, bao gồm hào nước, cầu kéo, các tòa tháp, tường đá, cờ, rừng và tính năng chuyển đổi ngày đêm. 
-Vì đây là một dạng benchmark, hãy ưu tiên tối đa chất lượng mô hình 3D và mức độ trau chuốt hình ảnh.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-ブラウザで操作できる3Dの中世ヨーロッパ風の城を作る。水堀、跳ね橋、塔、石壁、旗、森、昼夜切替を入れる。 
-これはベンチマークの一種であるから、どこまで見た目を盛れるか、3Dモデルの品質を最大限優先して。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102780850706567390) · [Bài đăng gốc](https://x.com/luxurytax150/status/2102780850706567390) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102775461701091531"></a>
-
-### CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm
-
-[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm"></a>
-
-**Prompt**
-
-```text
-Hãy phát triển một game
-Đồ họa có thể là 2D hoặc 3D, tùy phương án nào dễ phân tích hệ thống game và triển khai hơn
-Cá nhân tôi thiên về 3D, nhưng hình thức trên màn hình mà tôi hình dung là game hành động đi cảnh ngang
-Tôi muốn tạo bầu không khí phong cách nhờ ánh sáng và các yếu tố tương tự, nên nghĩ rằng 3D có thể mang lại hình ảnh đẹp hơn (ví dụ như đèn đường hoặc đèn lồng)
-Game tôi muốn làm có tên là CatWalk
-Đúng như tên gọi
-Một chú mèo di chuyển sang ngang
-Sàn catwalk nối dài và màn hình tự động cuộn, vì vậy người chơi chỉ cần dùng các thao tác đơn giản như nhảy để vượt qua chướng ngại vật và hố, đồng thời bắt kịp tốc độ cuộn. Xét ở một khía cạnh nào đó, cảm giác căng thẳng và hệ thống game có thể gần với Flappy Bird.
-Tuy nhiên, tôi muốn đồ họa mang vẻ trưởng thành, ngầu và giàu không khí
-Nếu có thể thể hiện được dáng đi, chạy và nhảy uyển chuyển của mèo thì càng tốt
-Bạn có thể tự quyết định thế giới của màn chơi, nhưng ban đầu có lẽ một con phố đêm quen thuộc cũng là lựa chọn phù hợp
-Tôi sẽ rất hài lòng nếu tông màu tối giúp thể hiện đẹp mắt ánh sáng gián tiếp và các hiệu ứng tương tự
-Tôi hiểu sẽ có những điều làm được, không làm được và khó thực hiện
-Hãy dựa trên những mong muốn này để phát triển một sản phẩm mà theo đánh giá của bạn là khả thi
-Trước tiên, hãy làm cho một màn có thể chơi trọn một vòng
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-ゲームを開発しましょう
-グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
-個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
-照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
-作りたいゲームは CatWalk というゲーム
-名前の通りです
-猫が横に進む
-キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
-ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
-可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
-ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
-暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
-できることできないこと難しいことがあると思うので
-この私の要望をヒントにあなたなりにできそうなものを開発してほしい
-まずは１ステージのワンループができるように
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102775461701091531) · [Bài đăng gốc](https://x.com/blitast_studio/status/2102775632933654585) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102752217375899659"></a>
-
-### Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng
-
-[technewsradio.tokyo](https://technewsradio.tokyo/) · 2026-09-23 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102752217375899659"><img src="../assets/previews/b8cc5a7fd788e781cc6aece26ee6620bc630d8c128b65d17c295df71fdadb74c.webp" width="840" loading="lazy" alt="Orbit Lab: Mô phỏng 3D Mặt Trời, Trái Đất và Mặt Trăng"></a>
-
-**Prompt**
-
-```text
-Đây là một thử nghiệm so sánh. Hãy triển khai và hoàn thiện tác phẩm web theo cùng một đặc tả dưới đây trong thư mục làm việc của bạn. Tên sản phẩm là “Orbit Lab”. Sử dụng Three.js 0.186.0 và tải core cùng OrbitControls đúng phiên bản đó (có thể dùng import map từ CDN hoặc npm). Không cần xuất bản hay triển khai.
-
-Yêu cầu:
-1. Biểu diễn mô hình 3D của Mặt Trời, Trái Đất và Mặt Trăng bằng hình học và vật liệu tạo theo phương pháp thủ tục. Không sử dụng hình ảnh hoặc tài sản 3D bên ngoài. Dùng Mặt Trời làm nguồn sáng điểm để người dùng có thể phân biệt vùng sáng tối của Trái Đất và Mặt Trăng khi điều khiển camera.
-2. Dùng delta time để mô phỏng chuyển động quay quanh Mặt Trời và tự quay của Trái Đất, độ nghiêng trục Trái Đất cũng như chuyển động quay quanh Trái Đất của Mặt Trăng. Trực quan hóa độ nghiêng của các mặt phẳng quỹ đạo, đồng thời hiển thị đường quỹ đạo của Trái Đất và Mặt Trăng. Có thể phóng đại quy mô và tốc độ để phục vụ mục đích giáo dục.
-3. Tạo nền sao bằng các số ngẫu nhiên có thể tái lập. Dùng OrbitControls để xoay và thu phóng. Khi nhấp vào một thiên thể, hãy chuyển trạng thái được chọn và bảng thông tin mô tả tương ứng.
-4. Cung cấp các tính năng phát/tạm dừng, thanh trượt tốc độ, bật/tắt hiển thị đường quỹ đạo, lấy nét camera vào Mặt Trời/Trái Đất/Mặt Trăng và nút khôi phục trạng thái ban đầu. Có thể phát/tạm dừng và đặt lại bằng bàn phím.
-5. Giao diện phải có thể thao tác trên màn hình điện thoại, hiển thị hướng dẫn khi không hỗ trợ WebGL, đáp ứng khi thay đổi kích thước và giới hạn pixel ratio để tránh tải kết xuất quá cao.
-6. Viết hướng dẫn khởi chạy và cách thao tác trong README. Nếu có thể, hãy thực sự khởi chạy để kiểm tra hoạt động; nếu không thể, phải nêu rõ lý do. Trong báo cáo hoàn thành, hãy ghi ngắn gọn các tệp đã tạo, các hạng mục đã triển khai và kết quả kiểm tra.
-
-Không đặt câu hỏi giữa chừng; hãy tự đưa ra các phán đoán hợp lý và triển khai đến cùng.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-比較実験です。次の同一仕様のWeb作品を、あなたの作業ディレクトリに実装して完成させてください。名称は「Orbit Lab」。Three.js 0.186.0を使用し、同一バージョンの本体とOrbitControlsを読み込んでください（CDNのimport mapでもnpmでも可）。公開・デプロイは不要です。
-
-要件:
-1. 太陽・地球・月の3Dモデルを手続き的なジオメトリとマテリアルで表現。外部画像・3Dアセットは使わない。太陽を点光源とし、地球と月の明暗がカメラ操作で分かること。
-2. 地球の公転と自転、地軸の傾き、月の公転をdelta timeで動かす。軌道面の傾きを視覚化し、地球と月の軌道線を表示する。スケールと速度は教育用の誇張でよい。
-3. 恒星背景を再現可能な乱数で生成する。OrbitControlsで回転・ズーム。天体をクリックすると選択状態と説明パネルが切り替わる。
-4. 再生/停止、速度スライダー、軌道線表示切替、太陽/地球/月へのカメラフォーカス、初期状態に戻すボタンを備える。キーボードでも再生/停止とリセットができる。
-5. スマホ幅でも操作できる見た目、WebGL非対応時の案内、リサイズ対応、過剰な描画負荷を避けるピクセル比制限を入れる。
-6. READMEに起動手順と操作方法を書く。可能なら実際に起動して動作確認し、できなければ理由を明記する。完了報告には作成ファイル、実装済み項目、確認結果を簡潔に書く。
-
-途中で質問せず、合理的に判断して最後まで実装してください。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102752217375899659) · [Bài đăng gốc](https://technewsradio.tokyo/lab/gpt6-vs-opus55) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102740078347087940"></a>
-
-### bài benchmark đại đô thị cyberpunk The Last Train
-
-[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="bài benchmark đại đô thị cyberpunk The Last Train"></a>
-
-**Prompt**
-
-```text
-dựng một đại đô thị cyberpunk hoàn chỉnh trong Blender với đoàn tàu chủ đạo, kiến trúc tạo sinh, hệ thống đường ray trên cao, mưa, hiệu ứng khí quyển thể tích, ánh sáng điện ảnh, nhiều thiết lập camera và một chuỗi hoạt ảnh hoàn chỉnh.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102740078347087940) · [Bài đăng gốc](https://x.com/builderhelmai/status/2102740078347087940) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

@@ -28,6 +28,12 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [交互式 3D 粒子对撞机](#gpt-6-astra-2097781208596029936)
+- [实时 3D 工厂发射台模拟](#gpt-6-astra-2097730920224534868)
+- [构建 THE LAST GATE：带算术门的人群跑酷](#gpt-6-astra-2097678911882809407)
+- [GPT-6 Astra与Blender搭建机械臂追猫喜剧场景](#gpt-6-astra-2097675660873605422)
+- [沉浸式 3D 稻田网站](#gpt-6-astra-2097602565110419781)
+- [Blender 后室风格 VHS 场景](#gpt-6-astra-2097534290112188602)
 - [温馨湿地湖泊世界](#gpt-6-astra-2097343467026289039)
 - [复刻《英雄联盟》的网页版游戏](#gpt-6-astra-2097336230078013598)
 - [北京天坛祈年殿 TypeScript + Three.js WebGL 项目](#gpt-6-astra-2097323734504017936)
@@ -72,14 +78,346 @@
 - [可在手机试玩的 Unity 拉力赛](#mobile-playable-unity-rally-game-2096556692842348826)
 - [集换式卡牌战斗循环](#trading-card-battle-game-loop-2096555856204644550)
 - [双环能量核心交互展示](#interactive-dual-ring-energy-core-2096551010089263181)
-- [以西结的圣殿异象：3D 场景](#gpt-6-astra-2096547658164834788)
-- [Blender 角色表情切换](#switchable-character-expressions-in-blender-2096525100518453342)
-- [几何节点循环水面](#looping-water-with-geometry-nodes-2096521798150242631)
-- [海贼王风格航海世界](#one-piece-inspired-sailing-world-2096518775042707700)
-- [用自己的房间做交互式作品集](#personal-room-as-an-interactive-portfolio-2096506357868642342)
-- [完整的 Three.js 解谜关卡](#complete-three-js-puzzle-level-2096505740643246231)
 
 </details>
+<a id="gpt-6-astra-2097781208596029936"></a>
+
+### 交互式 3D 粒子对撞机
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="交互式 3D 粒子对撞机"></a>
+
+**提示词**
+
+```text
+使用 Three.js 构建一个细节丰富的交互式 3D 粒子对撞机，灵感来自 CERN 的 LHC 和 ATLAS 探测器。
+
+创建三种视图：包含数千个独立动画部件的探测器、带有反向旋转束流的加速器环，以及模拟碰撞显示。
+
+让探测器分六个阶段展开，从大型端盖轮和磁体逐步细化到独立的传感器模块。加入由滚动控制的拆解动画、30/60/90 秒播放、暂停和反向组装功能。
+
+为各系统添加可见性开关、部件数量、科普说明，以及环形轨道环绕飞行镜头。
+
+采用高级感深色界面、金属材质、低调的金色点缀和电影感灯光。确保部件清晰可辨，避免过度重叠。
+
+参考 CERN 官方资料。明确标注简化几何体和模拟事件。
+
+交付一个可离线运行的单个自包含 HTML 文件，以及可移植的源代码和 README。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
+
+Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
+
+Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
+
+Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
+
+Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
+
+Consult official CERN references. Clearly label simplified geometry and synthetic events.
+
+Deliver one self-contained HTML file that works offline, plus portable source code and a README.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097781208596029936) · [查看原帖](https://x.com/k1rallik/status/2097781208596029936) · [项目源码](https://github.com/bubblik525/collider) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097730920224534868"></a>
+
+### 实时 3D 工厂发射台模拟
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="实时 3D 工厂发射台模拟"></a>
+
+**提示词**
+
+```text
+研究 @AirsupHQ 的精益生产书籍，设计一座拥有 10 个发射台的工厂方案，并构建一个实时 3D 模拟。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097730920224534868) · [查看原帖](https://x.com/konstantinsaifo/status/2097730920224534868) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097678911882809407"></a>
+
+### 构建 THE LAST GATE：带算术门的人群跑酷
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="构建 THE LAST GATE：带算术门的人群跑酷"></a>
+
+**提示词**
+
+```text
+构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097678911882809407) · [查看原帖](https://x.com/KeWai386772/status/2097678911882809407) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097675660873605422"></a>
+
+### GPT-6 Astra与Blender搭建机械臂追猫喜剧场景
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="GPT-6 Astra与Blender搭建机械臂追猫喜剧场景"></a>
+
+**参考图片:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
+
+**提示词**
+
+```text
+生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
+家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
+开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
+【资产锚点与参考规则】
+参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
+参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
+奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
+橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
+中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
+按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
+猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
+图1image：唯一猫咪外观。
+同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
+图2image：唯一机械臂外观。
+奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
+图3image：唯一猫尾形玩具外观。
+橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
+图4image：场景外观。
+参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
+【视觉风格与场景】
+真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
+宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
+背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
+中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
+摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097675660873605422) · [查看原帖](https://x.com/TanLuAI/status/2097675660873605422) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097602565110419781"></a>
+
+### 沉浸式 3D 稻田网站
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="沉浸式 3D 稻田网站"></a>
+
+**提示词**
+
+```text
+构建一个可在浏览器中运行的沉浸式 3D 稻田网站，主题为：
+“一片绿色的海洋 / 风吹过稻田。”
+完成代码，安装必要的依赖并启动预览。不要停留在提案或实现计划阶段。
+
+1. 视觉方向
+
+整体氛围应自然、宁静而精致，像一个艺术指导统一的互动景观网站。
+
+场景应包含：
+
+前景：清晰可辨的细长叶片、弯曲的茎秆，以及少量低垂的稻穗。
+
+中景：向远处延伸的连续稻田，植株密度充足，间距自然且富有变化。
+背景：不规则的林带、层叠的低矮山丘，以及 subtle 的大气透视效果。
+天空：柔和的灰蓝色调、细微的云层变化，以及地平线处自然的过渡。
+将默认相机放置在略高于稻穗的位置，横向望向稻田和远处的山丘。
+天空约占画面的三分之一，构图以稻田为主体。
+植被主要使用深绿色、橄榄绿和黄绿色。避免使用荧光绿。
+自然改变稻株的高度、朝向、弯曲程度和颜色。
+
+2. 动画要求
+风必须表现为横向穿过稻田、连续传播的波浪：
+根部基本保持固定，向叶尖和稻穗方向逐渐增强位移。
+同一区域的植株应保持协调运动，同时保留个体差异。
+
+将缓慢的大范围风浪与细微的局部扰动结合起来。
+
+避免所有植株完全同步摇摆。不要整体平移植株，也不要让叶片闪烁。
+
+默认风力应轻柔，长时间观看也保持舒适。
+3. 交互要求
+提供能够真正影响场景的简单控件：
+风速滑块：平滑调节风动画的强度和速度。
+光照模式：清晨、下午和黄金时刻。协调调整天空、光照方向、色温和雾色。
+
+视角模式：开阔稻田和稻田之间，并提供平滑的相机过渡。
+
+暂停/继续：暂停和继续环境动画。
+
+鼠标移动可以产生非常细微的相机响应，但不应造成眩晕。
+默认情况下不要让相机持续进行大角度旋转。
+4. 界面设计
+使用全屏场景，并在其上叠加界面：
+左上角：小尺寸的 VERDANT 字标。
+
+左下角：衬线标题“一片绿色的海洋。”
+标题下方：较小的副标题“无事可做，只需跟随微风。”
+右下角：紧凑的半透明深绿色控制面板。
+
+确保文字清晰易读，留出充足间距，避免控件遮挡主要景观。
+
+在窄屏上控件也必须保持可用，且不得相互重叠。
+
+5. 技术与性能
+使用 Three.js。如果已有项目，请保留其构建环境。
+使用实例化和 GPU 顶点动画处理大量植被。
+避免为每株植物创建独立的绘制对象，也不要在每一帧通过 CPU 更新所有植株。
+随着距离增加降低植被细节，并设置合理的像素比上限。
+优先使用程序化几何体和材质，确保资源加载可靠。
+场景必须实时渲染。不要使用完整的景观图片或视频作为主场景。
+模型名称和对比标签将在后期制作中添加；不要将其包含在场景内。
+6. 完成标准
+实现完成后，使用可用的浏览器工具验证以下内容：
+初始视图能够正确渲染，控制台没有明显错误。
+
+每个控件都确实能够影响场景。
+
+前景、中景和背景具有清晰可辨的景深与层次。
+稻株不能只是简单的竖直绿色线条。
+风的运动应连续且自然，不能出现明显的整齐重复。
+相机过渡应平滑，界面在窄屏上仍保持可用。
+如果无法执行某项检查，请明确说明。
+最后提供启动说明，并总结实际实现的功能。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build an immersive 3D rice-field website that runs in the browser, with the theme:
+“A sea of green / Wind through the rice fields.”
+Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
+
+1. Visual Direction
+
+The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
+
+The scene should include:
+
+Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
+
+Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
+Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
+Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
+Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
+The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
+Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
+Vary the height, orientation, curvature, and color of the rice plants naturally.
+
+2. Animation Requirements
+Wind must appear as continuous waves traveling laterally across the field:
+Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
+Plants in the same area should move coherently while retaining individual variation.
+
+Combine slow, large-scale wind waves with subtle local disturbances.
+
+Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
+
+Use a gentle default breeze that remains comfortable to watch over time.
+3. Interaction Requirements
+Provide simple controls that genuinely affect the scene:
+Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
+Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
+
+View modes: Open Field and Among the Rice, with smooth camera transitions.
+
+Pause/Resume: pause and resume the environmental animation.
+
+Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
+Do not continuously rotate the camera through large angles by default.
+4. Interface Design
+Use a full-screen scene with an interface overlaid on top:
+Top left: a small VERDANT wordmark.
+
+Bottom left: the serif heading “A sea of green.”
+Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
+Bottom right: a compact, semi-transparent dark-green control panel.
+
+Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
+
+Controls must remain usable on narrow screens without overlapping.
+
+5. Technology and Performance
+Use Three.js. If an existing project is available, retain its build environment.
+Use instancing and GPU vertex animation to handle large amounts of vegetation.
+Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
+Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
+Prefer procedural geometry and materials to ensure reliable asset loading.
+The scene must render in real time. Do not use a full landscape image or video as the main scene.
+Model names and comparison labels will be added in post-production; do not include them in the scene.
+6. Completion Criteria
+After implementation, use the available browser tools to verify that:
+The initial view renders correctly, with no obvious console errors.
+
+Every control genuinely affects the scene.
+
+The foreground, midground, and background have distinguishable depth and layering.
+The rice plants are more than simple upright green lines.
+Wind movement is continuous and natural, without obvious uniform repetition.
+Camera transitions are smooth, and the interface remains usable on narrow screens.
+If you cannot perform a particular check, state that clearly.
+Finally, provide startup instructions and a summary of the features actually implemented.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097602565110419781) · [查看原帖](https://x.com/YouWareAI/status/2097602565110419781) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097534290112188602"></a>
+
+### Blender 后室风格 VHS 场景
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="Blender 后室风格 VHS 场景"></a>
+
+**提示词**
+
+```text
+在 Blender 中渲染一个场景，效果应像某人行走在后室中时拍摄的第一人称 VHS 录像。整体要有照片级写实感，镜头运动呈现手持拍摄般的慌乱。角色先环顾四周，随后开始在后室迷宫中奔跑。场景中既要有宽敞开阔的房间，也要有仿佛没有尽头的走廊。营造极度恐慌的氛围。时长 30 秒。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2097534290112188602) · [查看原帖](https://x.com/chrisfirst/status/2097534290112188602) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097343467026289039"></a>
 
 ### 温馨湿地湖泊世界
@@ -2067,134 +2405,7 @@ Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave
 
 ---
 
-<a id="gpt-6-astra-2096547658164834788"></a>
-
-### 以西结的圣殿异象：3D 场景
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="以西结的圣殿异象：3D 场景"></a>
-
-**提示词**
-
-```text
-以西结的圣殿异象呈现在 3D 场景中会是什么样？
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-What would Ezekiel’s temple vision look like in 3D?
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096547658164834788) · [查看原帖](https://x.com/KrixOnok/status/2096547658164834788) · [返回案例导航](#all-prompts)
-
----
-
-<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
-
-### Blender 角色表情切换
-
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Blender 角色表情切换"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在绑定骨骼前，将 Tripo 角色的不同表情模型在 Blender 中对齐，通过离散切换显示表情，把未启用的网格缩小收进头部。不要将这种方法描述为平滑表情混合，也不要假定它兼容 VRM。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原帖](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例导航](#all-prompts)
-
----
-
-<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
-
-### 几何节点循环水面
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="几何节点循环水面"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-使用 Blender 几何节点制作无需烘焙的周期性水面效果。保留可编辑节点，并说明它是水面模型，而非完整的流体模拟。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [查看原帖](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [返回案例导航](#all-prompts)
-
----
-
-<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
-
-### 海贼王风格航海世界
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="海贼王风格航海世界"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-使用 Blender 船只模型和 Three.js 海洋搭建可玩的航海世界，加入天气变化、水下探索、尾流、泡沫、水花和飘动的船帆。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [查看原帖](https://x.com/yash_yk45/status/2096518775042707700) · [在线演示](https://one-piece-sea-world.vercel.app/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
-
-### 用自己的房间做交互式作品集
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="用自己的房间做交互式作品集"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-将自己的房间变成互动式自我介绍网站，在 Blender 中搭建并烘焙场景，再加入咖啡热气、Matrix 风格动画和细腻的着色器效果。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [查看原帖](https://x.com/kalanyei/status/2096506357868642342) · [在线演示](https://room.kalan.dev/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
-
-### 完整的 Three.js 解谜关卡
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="完整的 Three.js 解谜关卡"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Three.js 中搭建完整的 3D 解谜关卡及可玩的机制，在关卡与交互正常运行后接入提供的音频。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [查看原帖](https://x.com/TvWoo/status/2096505740643246231) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.3.md) · **4 / 10** · [→](catalog.zh.5.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 466 条案例与在线演示 →</a></strong></p>

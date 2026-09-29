@@ -28,6 +28,12 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [ブラウザで遊ぶ飛行ゲーム](#browser-flight-game-2096149823216898445)
+- [カフェの写真から作る縦型ウォークスルー](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [自動リギングとカンフーの動作](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Blender で作るヴァイキングのキャラクター](#viking-character-in-blender-2096140378777010278)
+- [Odyssey 風の足場アドベンチャー](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [リグを付けて動かすティラノサウルス](#rigged-and-animated-t-rex-2096133339329536249)
 - [32 人が動く、歩いて巡れるオフィス](#walkable-office-with-32-animated-people-2096131961345720477)
 - [夕暮れのアディヨギを巡るフライスルー](#adiyogi-evening-fly-through-2096128774203171021)
 - [Blender で作る F1 マシン](#formula-one-car-in-blender-2096125193580113957)
@@ -72,14 +78,128 @@
 - [バレットタイムの三人称シューター](#bullet-time-third-person-shooter-2095962376344309843)
 - [ブラウザでドリフトする Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 - [短時間で遊べるゲームプロトタイプ](#rapid-playable-game-prototype-2095907526566990013)
-- [Blender で作るループするサイバーパンクの寝室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [文化を題材にした自動進行アーケードゲーム](#self-playing-cultural-arcade-game-2095898198413922791)
-- [プロンプトから作るオープンワールドゲーム](#open-world-game-from-a-prompt-2095872986477908108)
-- [Three.js で歩くゴッホの街](#van-gogh-town-in-three-js-2095871735824339279)
-- [機構まで作り込む Blender 蒸気機関車](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [30 秒で作る Blender シーンの挑戦](#thirty-second-blender-scene-challenge-2095844872171421771)
 
 </details>
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### ブラウザで遊ぶ飛行ゲーム
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="ブラウザで遊ぶ飛行ゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+空のプロジェクトから、ブラウザ用 3D 飛行ゲームを完成させてください。操縦できる飛行、移動可能な環境、明確な目標、一貫した見せ方を含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/browser-flight-game-2096149823216898445) · [元の投稿](https://x.com/givros/status/2096149823216898445) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### カフェの写真から作る縦型ウォークスルー
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="カフェの写真から作る縦型ウォークスルー"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+写真をもとに、木製の天井、ライン照明、焙煎機、棚、植物を含むカフェをBlenderで再構築してください。編集可能なシーンと、15秒の縦型カメラウォークスルーを納品してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [元の投稿](https://x.com/harrisonitsme/status/2096143359505269079) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### 自動リギングとカンフーの動作
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="自動リギングとカンフーの動作"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された 3D キャラクターにリグを作成し、歩行、走行、複数のカンフー動作を追加してください。関節の破綻や不安定な姿勢がないかアニメーションを確認してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [元の投稿](https://x.com/thebuggeddev/status/2096141728487178503) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Blender で作るヴァイキングのキャラクター
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender で作るヴァイキングのキャラクター"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blender で編集可能な 3D ヴァイキングを作成してください。特徴的な衣装、顔の構造、体の比率、見やすい展示ポーズに重点を置いてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/viking-character-in-blender-2096140378777010278) · [元の投稿](https://x.com/fre4kspace/status/2096140378777010278) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Odyssey 風の足場アドベンチャー
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey 風の足場アドベンチャー"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+8 つの足場、3 個の収集ムーン、戻ってくる帽子攻撃、敵、チェックポイントを備えた、Odyssey に着想を得た Three.js ステージを作成してください。タッチ操作を加え、最後まで通して試遊してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [元の投稿](https://x.com/AiHubMix/status/2096135808243876152) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### リグを付けて動かすティラノサウルス
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="リグを付けて動かすティラノサウルス"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+生成したティラノサウルスのモデルにリグを付け、自然な動きを作成してください。Three.js で描画し、アニメーションによるモデルの変形に整合性があるか確認してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [元の投稿](https://x.com/majidmanzarpour/status/2096133339329536249) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
 
 ### 32 人が動く、歩いて巡れるオフィス
@@ -1001,133 +1121,6 @@ Max Payne に着想を得た Three.js の三人称シューターを作成して
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [元の投稿](https://x.com/gibglue/status/2095907526566990013) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Blender で作るループするサイバーパンクの寝室
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender で作るループするサイバーパンクの寝室"></a>
-
-**プロンプト**
-
-```text
-夜の雨に濡れたネオン街を見下ろす、映画的なサイバーパンクの寝室を Blender で作成してください。動く広告看板を追加し、フォトリアルで継ぎ目なくループする映像にしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [元の投稿](https://x.com/CoinSh0t/status/2095898303019856230) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### 文化を題材にした自動進行アーケードゲーム
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="文化を題材にした自動進行アーケードゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-G7 の一国を題材に、自動で進行するアーケードゲームを作成してください。有名な文化的名所を中心的な遊びに変換し、操作しなくても状況が分かるようにします。スコア、段階的な難易度、印象的な見せ場を加えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [元の投稿](https://x.com/say_gm_/status/2095898198413922791) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### プロンプトから作るオープンワールドゲーム
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="プロンプトから作るオープンワールドゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-次の構想からオープンワールドゲームを作ってください：[世界の設定]。異なる 3 地域、移動、動的な遭遇、簡単な連続クエスト、名所、保存と再開、ブラウザで動くための最適化を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [元の投稿](https://x.com/aeejazkhan/status/2095872986477908108) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Three.js で歩くゴッホの街
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js で歩くゴッホの街"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ゴッホに着想を得た、歩ける Three.js の街を作成してください。絵の街路、星、カフェ、畑を立体的に重なる空間へ変え、シェーダー、テクスチャ、動く光で筆致を生かしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [元の投稿](https://x.com/RealFedeURU/status/2095871735824339279) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### 機構まで作り込む Blender 蒸気機関車
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="機構まで作り込む Blender 蒸気機関車"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-蒸気機関車を、テクスチャ付きの外殻ではなく、機構を分解できる Blender モデルとして制作してください。車軸、軸箱守、軸箱、ステー、サスペンションリンク、蒸気ドーム、主要アセンブリをそれぞれ分けて命名してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [元の投稿](https://x.com/sheemamoto/status/2095868420327710840) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### 30 秒で作る Blender シーンの挑戦
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="30 秒で作る Blender シーンの挑戦"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-極端に短い制限時間で、一貫した Blender シーンを作成してください。印象的なシルエット、3 層の奥行き、一つの主役素材、映画的照明、撮影に適した構図を優先し、すべてのオブジェクトを編集可能にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [元の投稿](https://x.com/_satyam_ai/status/2095844872171421771) · [作例一覧に戻る](#all-prompts)
 
 ---
 

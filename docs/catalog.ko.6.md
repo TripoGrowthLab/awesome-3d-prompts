@@ -28,6 +28,12 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [브라우저 비행 게임](#browser-flight-game-2096149823216898445)
+- [카페 사진을 세로형 실내 투어로](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [자동 캐릭터 리그와 쿵후 동작](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Blender 바이킹 캐릭터](#viking-character-in-blender-2096140378777010278)
+- [Odyssey 스타일 플랫폼 모험](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [리깅하고 움직이는 티라노사우루스](#rigged-and-animated-t-rex-2096133339329536249)
 - [32명이 움직이는 걸어 다닐 수 있는 사무실](#walkable-office-with-32-animated-people-2096131961345720477)
 - [저녁빛 속 아디요기 비행 투어](#adiyogi-evening-fly-through-2096128774203171021)
 - [Blender로 만드는 포뮬러 원 차량](#formula-one-car-in-blender-2096125193580113957)
@@ -72,14 +78,128 @@
 - [불릿 타임 3인칭 슈터](#bullet-time-third-person-shooter-2095962376344309843)
 - [브라우저 드리프트 레이싱 Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
 - [빠르게 만드는 플레이 가능한 게임 프로토타입](#rapid-playable-game-prototype-2095907526566990013)
-- [Blender로 만드는 반복 재생 사이버펑크 침실](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [문화를 소재로 자동 진행되는 아케이드 게임](#self-playing-cultural-arcade-game-2095898198413922791)
-- [프롬프트로 만드는 오픈월드 게임](#open-world-game-from-a-prompt-2095872986477908108)
-- [Three.js로 걷는 반 고흐의 마을](#van-gogh-town-in-three-js-2095871735824339279)
-- [기계 구조까지 완성한 Blender 기관차](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [30초 Blender 장면 제작 도전](#thirty-second-blender-scene-challenge-2095844872171421771)
 
 </details>
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### 브라우저 비행 게임
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="브라우저 비행 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+빈 프로젝트에서 완전한 브라우저 3D 비행 게임을 만드세요. 조종 가능한 비행, 이동 가능한 환경, 명확한 목표, 일관된 표현을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/browser-flight-game-2096149823216898445) · [원본 게시물](https://x.com/givros/status/2096149823216898445) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### 카페 사진을 세로형 실내 투어로
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="카페 사진을 세로형 실내 투어로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+사진을 참고해 목재 천장, 띠 조명, 로스터, 선반, 식물을 갖춘 카페를 Blender에서 재구성하세요. 편집 가능한 장면과 15초 분량의 세로형 카메라 투어를 제공하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [원본 게시물](https://x.com/harrisonitsme/status/2096143359505269079) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### 자동 캐릭터 리그와 쿵후 동작
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="자동 캐릭터 리그와 쿵후 동작"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 3D 캐릭터에 리그를 만들고 걷기, 달리기, 여러 쿵후 동작을 추가하세요. 애니메이션에서 관절이 깨지거나 자세가 불안정한지 살펴보세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [원본 게시물](https://x.com/thebuggeddev/status/2096141728487178503) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Blender 바이킹 캐릭터
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender 바이킹 캐릭터"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender에서 편집 가능한 3D 바이킹 캐릭터를 만드세요. 특징적인 의상, 얼굴 구조, 몸의 비율, 알아보기 쉬운 전시 포즈에 집중하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/viking-character-in-blender-2096140378777010278) · [원본 게시물](https://x.com/fre4kspace/status/2096140378777010278) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Odyssey 스타일 플랫폼 모험
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey 스타일 플랫폼 모험"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+발판 8개, 수집할 달 3개, 돌아오는 모자 공격, 적, 체크포인트가 있는 Odyssey 스타일 Three.js 레벨을 만드세요. 터치 조작을 추가하고 처음부터 끝까지 플레이 테스트하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [원본 게시물](https://x.com/AiHubMix/status/2096135808243876152) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### 리깅하고 움직이는 티라노사우루스
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="리깅하고 움직이는 티라노사우루스"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+생성된 티라노사우루스 모델에 리그를 만들고 자연스러운 움직임을 추가하세요. Three.js에서 캐릭터를 렌더링하고 애니메이션이 모델을 일관되게 변형하는지 확인하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [원본 게시물](https://x.com/majidmanzarpour/status/2096133339329536249) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
 
 ### 32명이 움직이는 걸어 다닐 수 있는 사무실
@@ -1011,133 +1131,6 @@ Max Payne에서 영감을 받은 Three.js 3인칭 슈터를 만드세요. 슬로
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [원본 게시물](https://x.com/gibglue/status/2095907526566990013) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Blender로 만드는 반복 재생 사이버펑크 침실
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender로 만드는 반복 재생 사이버펑크 침실"></a>
-
-**프롬프트**
-
-```text
-밤에 비 내리는 네온 도시를 내려다보는 영화적인 사이버펑크 침실을 Blender로 만드세요. 움직이는 광고판을 추가하고 사실적이며 끊김 없이 반복되게 하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [원본 게시물](https://x.com/CoinSh0t/status/2095898303019856230) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### 문화를 소재로 자동 진행되는 아케이드 게임
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="문화를 소재로 자동 진행되는 아케이드 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-G7 국가 하나를 소재로 자동 진행되는 아케이드 게임을 만드세요. 알아보기 쉬운 문화적 랜드마크 하나를 핵심 규칙으로 바꾸고, 입력 없이도 동작을 이해할 수 있게 하세요. 점수, 높아지는 난도, 기억에 남는 장면을 추가하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [원본 게시물](https://x.com/say_gm_/status/2095898198413922791) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### 프롬프트로 만드는 오픈월드 게임
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="프롬프트로 만드는 오픈월드 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-다음 콘셉트로 오픈월드 게임을 만드세요: [세계관 설정]. 서로 다른 지역 3곳, 이동, 동적인 만남, 간단한 연속 퀘스트, 랜드마크, 저장·재시작 동작, 브라우저 실행에 충분한 최적화를 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [원본 게시물](https://x.com/aeejazkhan/status/2095872986477908108) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Three.js로 걷는 반 고흐의 마을
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js로 걷는 반 고흐의 마을"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-반 고흐에서 영감을 받은 걸어 다닐 수 있는 Three.js 마을을 만드세요. 그림 속 거리, 별, 카페, 들판을 층이 있는 3D 공간으로 바꾸고, 셰이더·텍스처·움직이는 빛으로 붓질의 느낌을 살리세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [원본 게시물](https://x.com/RealFedeURU/status/2095871735824339279) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### 기계 구조까지 완성한 Blender 기관차
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="기계 구조까지 완성한 Blender 기관차"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-증기기관차를 텍스처를 입힌 껍데기가 아니라 실제 기계 구조를 분해할 수 있는 Blender 모델로 만드세요. 차축, 축상 가이드, 축상 블록, 스테이, 서스펜션 링크, 증기 돔, 모든 주요 조립 단위를 분리하고 이름을 붙이세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [원본 게시물](https://x.com/sheemamoto/status/2095868420327710840) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### 30초 Blender 장면 제작 도전
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="30초 Blender 장면 제작 도전"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-극도로 짧은 제한 시간 안에 일관된 Blender 장면을 만드세요. 강한 실루엣, 3개 깊이 층, 주인공 재질 하나, 영화적인 조명, 촬영에 적합한 구도를 우선하고 모든 오브젝트를 편집 가능하게 남기세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [원본 게시물](https://x.com/_satyam_ai/status/2095844872171421771) · [사례 목록으로](#all-prompts)
 
 ---
 

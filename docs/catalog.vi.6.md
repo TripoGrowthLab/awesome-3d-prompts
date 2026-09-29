@@ -28,6 +28,12 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Game bay trên trình duyệt](#browser-flight-game-2096149823216898445)
+- [Từ ảnh quán cà phê đến video tham quan khung dọc](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [Tự động rig nhân vật và động tác kung fu](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Nhân vật Viking trong Blender](#viking-character-in-blender-2096140378777010278)
+- [Phiêu lưu platform lấy cảm hứng Odyssey](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [T. rex có rig và hoạt ảnh](#rigged-and-animated-t-rex-2096133339329536249)
 - [Văn phòng đi lại được với 32 người có hoạt ảnh](#walkable-office-with-32-animated-people-2096131961345720477)
 - [Bay quanh Adiyogi trong ánh chiều](#adiyogi-evening-fly-through-2096128774203171021)
 - [Xe Formula One trong Blender](#formula-one-car-in-blender-2096125193580113957)
@@ -72,14 +78,128 @@
 - [Game bắn súng góc nhìn thứ ba với bullet time](#bullet-time-third-person-shooter-2095962376344309843)
 - [Street Heat: game drift trên trình duyệt](#street-heat-browser-drift-racer-2095916820431827408)
 - [Nguyên mẫu game chơi được thật nhanh](#rapid-playable-game-prototype-2095907526566990013)
-- [Phòng ngủ cyberpunk lặp vô tận trong Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [Game arcade văn hóa tự chơi](#self-playing-cultural-arcade-game-2095898198413922791)
-- [Từ prompt đến game thế giới mở](#open-world-game-from-a-prompt-2095872986477908108)
-- [Thị trấn Van Gogh trong Three.js](#van-gogh-town-in-three-js-2095871735824339279)
-- [Đầu máy Blender đầy đủ cấu tạo cơ khí](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [Thử thách dựng cảnh Blender trong ba mươi giây](#thirty-second-blender-scene-challenge-2095844872171421771)
 
 </details>
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### Game bay trên trình duyệt
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Game bay trên trình duyệt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game bay 3D hoàn chỉnh trên trình duyệt từ dự án trống, với điều khiển bay, môi trường điều hướng được, mục tiêu rõ và trình bày nhất quán.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-flight-game-2096149823216898445) · [Bài đăng gốc](https://x.com/givros/status/2096149823216898445) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### Từ ảnh quán cà phê đến video tham quan khung dọc
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Từ ảnh quán cà phê đến video tham quan khung dọc"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái dựng quán cà phê từ ảnh trong Blender, gồm trần gỗ, đèn dải, máy rang, kệ và cây xanh. Bàn giao cảnh có thể chỉnh sửa và video camera tham quan dài 15 giây theo khung hình dọc.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Bài đăng gốc](https://x.com/harrisonitsme/status/2096143359505269079) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### Tự động rig nhân vật và động tác kung fu
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Tự động rig nhân vật và động tác kung fu"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Lấy nhân vật 3D được cung cấp, tạo rig và thêm đi bộ, chạy cùng vài động tác kung fu. Kiểm tra hoạt ảnh để phát hiện khớp gãy và tư thế thiếu ổn định.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Bài đăng gốc](https://x.com/thebuggeddev/status/2096141728487178503) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Nhân vật Viking trong Blender
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Nhân vật Viking trong Blender"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo nhân vật Viking 3D chỉnh sửa được trong Blender. Tập trung trang phục dễ nhận biết, cấu trúc mặt, tỷ lệ cơ thể và tư thế giới thiệu rõ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/viking-character-in-blender-2096140378777010278) · [Bài đăng gốc](https://x.com/fre4kspace/status/2096140378777010278) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Phiêu lưu platform lấy cảm hứng Odyssey
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Phiêu lưu platform lấy cảm hứng Odyssey"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng màn Three.js lấy cảm hứng Odyssey với tám bệ, ba mặt trăng thu thập được, ném mũ quay lại, kẻ địch và checkpoint. Thêm điều khiển cảm ứng, kiểm tra toàn bộ lượt chơi.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Bài đăng gốc](https://x.com/AiHubMix/status/2096135808243876152) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### T. rex có rig và hoạt ảnh
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="T. rex có rig và hoạt ảnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Lấy mô hình T. rex đã tạo, gắn rig và tạo chuyển động hợp lý. Render nhân vật trong Three.js và kiểm tra hoạt ảnh biến dạng mô hình nhất quán.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096133339329536249) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
 
 ### Văn phòng đi lại được với 32 người có hoạt ảnh
@@ -1011,133 +1131,6 @@ Tạo nguyên mẫu game nhất quán về hình ảnh dưới giới hạn th�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Bài đăng gốc](https://x.com/gibglue/status/2095907526566990013) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Phòng ngủ cyberpunk lặp vô tận trong Blender
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Phòng ngủ cyberpunk lặp vô tận trong Blender"></a>
-
-**Prompt**
-
-```text
-Tạo phòng ngủ cyberpunk đậm chất điện ảnh trong Blender nhìn ra thành phố neon về đêm dưới mưa. Thêm bảng quảng cáo động, làm hình ảnh chân thực và vòng lặp liền mạch.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Bài đăng gốc](https://x.com/CoinSh0t/status/2095898303019856230) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### Game arcade văn hóa tự chơi
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Game arcade văn hóa tự chơi"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một game arcade tự chơi cho một quốc gia G7. Biến địa danh văn hóa dễ nhận biết thành cơ chế chính, làm hành động dễ hiểu mà không cần nhập lệnh, thêm điểm, thử thách tăng dần và màn hé lộ đáng nhớ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Bài đăng gốc](https://x.com/say_gm_/status/2095898198413922791) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### Từ prompt đến game thế giới mở
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="Từ prompt đến game thế giới mở"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game thế giới mở từ ý tưởng: [bối cảnh thế giới]. Có ba vùng riêng biệt, di chuyển, các cuộc gặp động, chuỗi nhiệm vụ đơn giản, địa danh, lưu và khởi động lại cùng mức tối ưu đủ để chạy trên trình duyệt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Bài đăng gốc](https://x.com/aeejazkhan/status/2095872986477908108) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Thị trấn Van Gogh trong Three.js
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Thị trấn Van Gogh trong Three.js"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo thị trấn Three.js có thể đi dạo lấy cảm hứng từ Van Gogh. Biến đường phố, sao, quán cà phê và cánh đồng trong tranh thành không gian 3D nhiều lớp, giữ nét cọ sống động qua shader, texture và ánh sáng động.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Bài đăng gốc](https://x.com/RealFedeURU/status/2095871735824339279) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### Đầu máy Blender đầy đủ cấu tạo cơ khí
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Đầu máy Blender đầy đủ cấu tạo cơ khí"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng đầu máy hơi nước trong Blender như một cấu trúc cơ khí thực sự, không phải lớp vỏ có texture. Đặt tên và tách riêng trục, dẫn hướng hộp trục, hộp trục, thanh giằng, liên kết hệ treo, vòm hơi và mọi cụm chính.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Bài đăng gốc](https://x.com/sheemamoto/status/2095868420327710840) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### Thử thách dựng cảnh Blender trong ba mươi giây
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Thử thách dựng cảnh Blender trong ba mươi giây"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng một cảnh Blender nhất quán dưới giới hạn thời gian cực ngắn. Ưu tiên dáng hình rõ, ba lớp chiều sâu, một vật liệu chủ đạo, ánh sáng điện ảnh và bố cục sẵn sàng lên hình; giữ mọi đối tượng có thể chỉnh sửa.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Bài đăng gốc](https://x.com/_satyam_ai/status/2095844872171421771) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

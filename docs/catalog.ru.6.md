@@ -28,6 +28,12 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Браузерная игра о полётах](#browser-flight-game-2096149823216898445)
+- [Из фотографии кофейни в вертикальную видеопрогулку](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
+- [Автоматический риг персонажа и движения кунг-фу](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
+- [Викинг в Blender](#viking-character-in-blender-2096140378777010278)
+- [Платформенное приключение в духе Odyssey](#odyssey-inspired-platform-adventure-2096135808243876152)
+- [Тираннозавр с ригом и анимацией](#rigged-and-animated-t-rex-2096133339329536249)
 - [Офис для прогулок с 32 анимированными людьми](#walkable-office-with-32-animated-people-2096131961345720477)
 - [Вечерний пролёт по сцене Адийоги](#adiyogi-evening-fly-through-2096128774203171021)
 - [Болид Формулы-1 в Blender](#formula-one-car-in-blender-2096125193580113957)
@@ -72,14 +78,128 @@
 - [Шутер от третьего лица с замедлением времени](#bullet-time-third-person-shooter-2095962376344309843)
 - [Street Heat: браузерные дрифт-гонки](#street-heat-browser-drift-racer-2095916820431827408)
 - [Быстрый игровой прототип](#rapid-playable-game-prototype-2095907526566990013)
-- [Зацикленная киберпанк-спальня в Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
-- [Аркада с культурной темой, играющая сама](#self-playing-cultural-arcade-game-2095898198413922791)
-- [Из промпта в игру с открытым миром](#open-world-game-from-a-prompt-2095872986477908108)
-- [Город Ван Гога на Three.js](#van-gogh-town-in-three-js-2095871735824339279)
-- [Механически подробный паровоз в Blender](#mechanically-complete-blender-locomotive-2095868420327710840)
-- [Blender-сцена за тридцать секунд](#thirty-second-blender-scene-challenge-2095844872171421771)
 
 </details>
+<a id="browser-flight-game-2096149823216898445"></a>
+
+### Браузерная игра о полётах
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Браузерная игра о полётах"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай полноценную браузерную 3D-игру о полётах с нуля. Реализуй управляемый полёт, доступное для навигации окружение, понятную цель и целостное оформление.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/browser-flight-game-2096149823216898445) · [Исходная публикация](https://x.com/givros/status/2096149823216898445) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
+
+### Из фотографии кофейни в вертикальную видеопрогулку
+
+[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Из фотографии кофейни в вертикальную видеопрогулку"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Воссоздайте кофейню в Blender по фотографии, включая деревянный потолок, световые полосы, ростер, полки и растения. Подготовьте редактируемую сцену и 15-секундную прогулку камеры в вертикальном формате.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Исходная публикация](https://x.com/harrisonitsme/status/2096143359505269079) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
+
+### Автоматический риг персонажа и движения кунг-фу
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Автоматический риг персонажа и движения кунг-фу"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Возьми предоставленного 3D-персонажа, создай риг и добавь ходьбу, бег и несколько движений кунг-фу. Проверь анимации на изломы суставов и неустойчивые позы.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Исходная публикация](https://x.com/thebuggeddev/status/2096141728487178503) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="viking-character-in-blender-2096140378777010278"></a>
+
+### Викинг в Blender
+
+[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Викинг в Blender"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай редактируемого 3D-викинга в Blender. Удели внимание узнаваемому костюму, строению лица, пропорциям тела и выразительной презентационной позе.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/viking-character-in-blender-2096140378777010278) · [Исходная публикация](https://x.com/fre4kspace/status/2096140378777010278) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
+
+### Платформенное приключение в духе Odyssey
+
+[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Платформенное приключение в духе Odyssey"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай уровень на Three.js в духе Odyssey: восемь платформ, три собираемые луны, атаки возвращающейся шляпой, враги и контрольные точки. Добавь сенсорное управление и протестируй полное прохождение.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Исходная публикация](https://x.com/AiHubMix/status/2096135808243876152) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
+
+### Тираннозавр с ригом и анимацией
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="Тираннозавр с ригом и анимацией"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Возьми сгенерированную модель тираннозавра, создай риг и правдоподобные движения. Покажи персонажа на Three.js и проверь, что анимация корректно деформирует модель.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Исходная публикация](https://x.com/majidmanzarpour/status/2096133339329536249) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="walkable-office-with-32-animated-people-2096131961345720477"></a>
 
 ### Офис для прогулок с 32 анимированными людьми
@@ -1011,133 +1131,6 @@ Make me the most insane and blast of a high-speed anti-gravity combat racer you 
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Исходная публикация](https://x.com/gibglue/status/2095907526566990013) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
-
-### Зацикленная киберпанк-спальня в Blender
-
-[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Зацикленная киберпанк-спальня в Blender"></a>
-
-**Промпт**
-
-```text
-Создай кинематографичную киберпанк-спальню в Blender с видом на ночной неоновый город под дождём. Добавь анимированные рекламные экраны, добейся фотореализма и бесшовного зацикливания.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Исходная публикация](https://x.com/CoinSh0t/status/2095898303019856230) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
-
-### Аркада с культурной темой, играющая сама
-
-[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Аркада с культурной темой, играющая сама"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай автоматически играющую аркаду для одной из стран G7. Преврати узнаваемую культурную достопримечательность в основную механику, сделай происходящее понятным без управления, добавь очки, нарастающую сложность и запоминающееся раскрытие замысла.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Исходная публикация](https://x.com/say_gm_/status/2095898198413922791) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
-
-### Из промпта в игру с открытым миром
-
-[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="Из промпта в игру с открытым миром"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай игру с открытым миром по концепции: [замысел мира]. Добавь три разных региона, перемещение, динамические встречи, простую цепочку заданий, ориентиры, сохранение и перезапуск, а также оптимизацию для работы в браузере.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Исходная публикация](https://x.com/aeejazkhan/status/2095872986477908108) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
-
-### Город Ван Гога на Three.js
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Город Ван Гога на Three.js"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай город для прогулок на Three.js, вдохновлённый Ван Гогом. Преврати нарисованные улицы, звёзды, кафе и поля в многослойные 3D-пространства, сохранив живые мазки с помощью шейдеров, текстур и анимированного света.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Исходная публикация](https://x.com/RealFedeURU/status/2095871735824339279) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
-
-### Механически подробный паровоз в Blender
-
-[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Механически подробный паровоз в Blender"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай паровоз в Blender как настоящую разборную механическую модель, а не текстурированную оболочку. Раздели и назови оси, буксовые направляющие, буксы, связи, элементы подвески, паровой колпак и все основные узлы.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Исходная публикация](https://x.com/sheemamoto/status/2095868420327710840) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
-
-### Blender-сцена за тридцать секунд
-
-[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Blender-сцена за тридцать секунд"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай целостную сцену Blender за предельно короткое время. Сосредоточься на выразительном силуэте, трёх планах глубины, одном основном материале, кинематографичном свете и готовой к съёмке композиции. Оставь все объекты редактируемыми.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Исходная публикация](https://x.com/_satyam_ai/status/2095844872171421771) · [Назад к примерам](#all-prompts)
 
 ---
 

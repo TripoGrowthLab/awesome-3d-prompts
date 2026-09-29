@@ -28,6 +28,12 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [Blender で作るループするサイバーパンクの寝室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
+- [文化を題材にした自動進行アーケードゲーム](#self-playing-cultural-arcade-game-2095898198413922791)
+- [プロンプトから作るオープンワールドゲーム](#open-world-game-from-a-prompt-2095872986477908108)
+- [Three.js で歩くゴッホの街](#van-gogh-town-in-three-js-2095871735824339279)
+- [機構まで作り込む Blender 蒸気機関車](#mechanically-complete-blender-locomotive-2095868420327710840)
+- [30 秒で作る Blender シーンの挑戦](#thirty-second-blender-scene-challenge-2095844872171421771)
 - [一度のやり取りで作る Three.js 海戦シーン](#single-turn-three-js-naval-war-scene-2095840435319001278)
 - [歴代大統領の執務室を見比べる](#oval-office-through-the-presidencies-2095830596069290077)
 - [レシピから作る 3D チーズケーキ動画](#recipe-to-3d-cheesecake-film-2095829851206774987)
@@ -72,14 +78,135 @@
 - [ブラウザで探索するオープンワールド冒険](#open-world-browser-adventure-2095596341422440714)
 - [自律する人々が生き抜く Unreal の社会](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [火星の Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
-- [一つのグレーボックスから 3 テーマのカートゲームへ](#three-themed-kart-games-from-one-greybox-2095580402505400369)
-- [手続き生成による滝の表現研究](#procedural-waterfall-study-2095510069047660636)
-- [生命が息づくボクセル島 Aerie](#aerie-a-living-voxel-island-2095493630421340200)
-- [3D プリントできる可動フィギュア](#articulated-printable-action-figure-2095481098201387287)
-- [映画的な WebGL ブラックホール](#cinematic-webgl-black-hole-2095409039005933910)
-- [分解表示する AI サーバーラック](#exploding-ai-server-rack-visualization-2095193022304792938)
 
 </details>
+<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
+
+### Blender で作るループするサイバーパンクの寝室
+
+[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender で作るループするサイバーパンクの寝室"></a>
+
+**プロンプト**
+
+```text
+夜の雨に濡れたネオン街を見下ろす、映画的なサイバーパンクの寝室を Blender で作成してください。動く広告看板を追加し、フォトリアルで継ぎ目なくループする映像にしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [元の投稿](https://x.com/CoinSh0t/status/2095898303019856230) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
+
+### 文化を題材にした自動進行アーケードゲーム
+
+[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="文化を題材にした自動進行アーケードゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+G7 の一国を題材に、自動で進行するアーケードゲームを作成してください。有名な文化的名所を中心的な遊びに変換し、操作しなくても状況が分かるようにします。スコア、段階的な難易度、印象的な見せ場を加えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [元の投稿](https://x.com/say_gm_/status/2095898198413922791) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
+
+### プロンプトから作るオープンワールドゲーム
+
+[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="プロンプトから作るオープンワールドゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+次の構想からオープンワールドゲームを作ってください：[世界の設定]。異なる 3 地域、移動、動的な遭遇、簡単な連続クエスト、名所、保存と再開、ブラウザで動くための最適化を含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [元の投稿](https://x.com/aeejazkhan/status/2095872986477908108) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
+
+### Three.js で歩くゴッホの街
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js で歩くゴッホの街"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ゴッホに着想を得た、歩ける Three.js の街を作成してください。絵の街路、星、カフェ、畑を立体的に重なる空間へ変え、シェーダー、テクスチャ、動く光で筆致を生かしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [元の投稿](https://x.com/RealFedeURU/status/2095871735824339279) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
+
+### 機構まで作り込む Blender 蒸気機関車
+
+[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="機構まで作り込む Blender 蒸気機関車"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+蒸気機関車を、テクスチャ付きの外殻ではなく、機構を分解できる Blender モデルとして制作してください。車軸、軸箱守、軸箱、ステー、サスペンションリンク、蒸気ドーム、主要アセンブリをそれぞれ分けて命名してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [元の投稿](https://x.com/sheemamoto/status/2095868420327710840) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
+
+### 30 秒で作る Blender シーンの挑戦
+
+[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="30 秒で作る Blender シーンの挑戦"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+極端に短い制限時間で、一貫した Blender シーンを作成してください。印象的なシルエット、3 層の奥行き、一つの主役素材、映画的照明、撮影に適した構図を優先し、すべてのオブジェクトを編集可能にしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [元の投稿](https://x.com/_satyam_ai/status/2095844872171421771) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
 
 ### 一度のやり取りで作る Three.js 海戦シーン
@@ -966,126 +1093,6 @@ Minecraft に着想を得た、遊べるボクセル世界を一度で作成し�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [元の投稿](https://x.com/knowixbuilds/status/2095595678214873212) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
-
-### 一つのグレーボックスから 3 テーマのカートゲームへ
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="一つのグレーボックスから 3 テーマのカートゲームへ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された Unity のカートレース用グレーボックスから、海賊、お菓子、サイバーパンクの 3 種類の遊べる作品を作成してください。走行の仕組みは再利用し、環境と演出を変更します。各ビルドを試遊し、目立つ不具合を修正してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [元の投稿](https://x.com/chetaslua/status/2095580402505400369) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="procedural-waterfall-study-2095510069047660636"></a>
-
-### 手続き生成による滝の表現研究
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="手続き生成による滝の表現研究"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-流れる水、飛沫、岩、大きさの感覚が伝わる Three.js の滝を作成してください。照明とカメラの構図で水の動きが分かるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-waterfall-study-2095510069047660636) · [元の投稿](https://x.com/RealFedeURU/status/2095510069047660636) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
-
-### 生命が息づくボクセル島 Aerie
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="生命が息づくボクセル島 Aerie"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-周回とズームで探索できる 3D ボクセル世界を作成してください。自律的な動きで生命感を出し、舞台と住人は自由に選んでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [元の投稿](https://x.com/free_ai_guides/status/2095493630421340200) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="articulated-printable-action-figure-2095481098201387287"></a>
-
-### 3D プリントできる可動フィギュア
-
-[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="3D プリントできる可動フィギュア"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-キャラクター案を、3D プリントできるアクションフィギュアにしてください。Blender で可動ボールジョイントを作り、組み立てたフィギュアが自立できるか確認してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [元の投稿](https://x.com/_MaxBlade/status/2095481098201387287) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
-
-### 映画的な WebGL ブラックホール
-
-[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="映画的な WebGL ブラックホール"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-素の WebGL2 を使い、一つの HTML ファイルで映画的なブラックホールを作成してください。レイマーチングによる重力レンズ、手続き生成の降着円盤、ドップラービーミング、周回する粒子を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [元の投稿](https://x.com/ekibuilds/status/2095409039005933910) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
-
-### 分解表示する AI サーバーラック
-
-[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="分解表示する AI サーバーラック"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-NVL72 ラックと GB300 システムの分解表示を Three.js で作成してください。部品ラベル、段階的な分離、構造が分かる照明、滑らかなカメラ遷移を実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [元の投稿](https://x.com/kylejeong/status/2095193022304792938) · [作例一覧に戻る](#all-prompts)
 
 ---
 

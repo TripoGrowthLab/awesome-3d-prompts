@@ -28,6 +28,12 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [以西結的聖殿異象：3D 場景](#gpt-6-astra-2096547658164834788)
+- [在 Blender 中切換角色表情](#switchable-character-expressions-in-blender-2096525100518453342)
+- [用 Geometry Nodes 製作循環水面](#looping-water-with-geometry-nodes-2096521798150242631)
+- [以《航海王》為靈感的航海世界](#one-piece-inspired-sailing-world-2096518775042707700)
+- [把自己的房間變成互動作品集](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [完整的 Three.js 解謎關卡](#complete-three-js-puzzle-level-2096505740643246231)
 - [行駛在平靜 3D 海面的 YF-24 船艇](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
 - [從頂樓平面圖製作 Blender 預覽](#top-floor-plan-to-blender-preview-2096501340889374883)
 - [可步行探索的低多邊形果川村落](#walkable-low-poly-gwacheon-village-2096490395614019793)
@@ -72,14 +78,135 @@
 - [咖啡杯裡的海洋生命](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [從魚缸到海洋的魚類生存遊戲](#gpt-6-astra-2096156244180664627)
 - [Dropzone 大逃殺競技場](#dropzone-battle-royale-arena-2096155883122413946)
-- [瀏覽器飛行遊戲](#browser-flight-game-2096149823216898445)
-- [將咖啡店照片變成直式漫遊影片](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [自動角色繫結與功夫動作](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Blender 維京角色](#viking-character-in-blender-2096140378777010278)
-- [奧德賽風格平臺冒險](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [繫結與動畫霸王龍](#rigged-and-animated-t-rex-2096133339329536249)
 
 </details>
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### 以西結的聖殿異象：3D 場景
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="以西結的聖殿異象：3D 場景"></a>
+
+**提示詞**
+
+```text
+以西結的聖殿異象以 3D 呈現會是什麼樣子？
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096547658164834788) · [查看原文](https://x.com/KrixOnok/status/2096547658164834788) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### 在 Blender 中切換角色表情
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="在 Blender 中切換角色表情"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在綁定骨架前，先於 Blender 中準備 Tripo 角色的不同表情版本。對齊網格，將未啟用的版本縮小並藏入頭部，以逐個切換的方式改變表情。不要宣稱能平滑混合表情或相容 VRM。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原文](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### 用 Geometry Nodes 製作循環水面
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="用 Geometry Nodes 製作循環水面"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Blender Geometry Nodes 製作可週期循環的水面效果，不進行烘焙。保留可編輯的節點設定，並明確說明這是水面模型，不是完整的流體模擬。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [查看原文](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### 以《航海王》為靈感的航海世界
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="以《航海王》為靈感的航海世界"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+結合 Blender 船隻與 Three.js 海洋，製作可遊玩的航海世界。加入多變天氣、水下探索、航跡、泡沫、水花與會動的船帆。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [查看原文](https://x.com/yash_yk45/status/2096518775042707700) · [線上展示](https://one-piece-sea-world.vercel.app/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### 把自己的房間變成互動作品集
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="把自己的房間變成互動作品集"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將自己的房間改造成互動式自我介紹網站。在 Blender 中建立並烘焙場景，再加入咖啡蒸氣、《駭客任務》風格動畫與細微的著色器效果。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [查看原文](https://x.com/kalanyei/status/2096506357868642342) · [線上展示](https://room.kalan.dev/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### 完整的 Three.js 解謎關卡
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="完整的 Three.js 解謎關卡"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Three.js 製作完整的 3D 解謎遊戲關卡，包含能實際遊玩的機制。待關卡與互動正常運作後，再整合提供的音訊。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [查看原文](https://x.com/TvWoo/status/2096505740643246231) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
 
 ### 行駛在平靜 3D 海面的 YF-24 船艇
@@ -1667,126 +1794,6 @@ First define the full gameply loop and level designs and stuff for this game int
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [查看原文](https://x.com/Motion_Viz/status/2096155883122413946) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### 瀏覽器飛行遊戲
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="瀏覽器飛行遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-從空專案建置完整瀏覽器 3D 飛行遊戲，提供可控飛行、可探索環境、明確目標與連貫視覺呈現。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/browser-flight-game-2096149823216898445) · [查看原文](https://x.com/givros/status/2096149823216898445) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### 將咖啡店照片變成直式漫遊影片
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="將咖啡店照片變成直式漫遊影片"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據照片在 Blender 中重建咖啡店，包含木質天花板、燈條、烘豆機、層架與植物。交付可編輯場景及 15 秒的直式鏡頭漫遊影片。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [查看原文](https://x.com/harrisonitsme/status/2096143359505269079) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### 自動角色繫結與功夫動作
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="自動角色繫結與功夫動作"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-為給定 3D 角色建立骨骼，增加行走、跑步及幾段功夫動作，並檢查動畫中的關節破損和姿態不穩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [查看原文](https://x.com/thebuggeddev/status/2096141728487178503) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Blender 維京角色
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender 維京角色"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Blender 中製作可編輯 3D 維京角色，重點處理可識別服裝、面部結構、身體比例和清晰展示姿態。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/viking-character-in-blender-2096140378777010278) · [查看原文](https://x.com/fre4kspace/status/2096140378777010278) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### 奧德賽風格平臺冒險
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="奧德賽風格平臺冒險"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-製作奧德賽風格 Three.js 關卡，包含八個平臺、三枚可收集月亮、迴旋帽攻擊、敵人和檢查點，加入觸控操作並完成試玩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [查看原文](https://x.com/AiHubMix/status/2096135808243876152) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### 繫結與動畫霸王龍
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="繫結與動畫霸王龍"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-將生成的霸王龍模型繫結並製作可信運動，在 Three.js 中渲染並檢查模型變形是否協調。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [查看原文](https://x.com/majidmanzarpour/status/2096133339329536249) · [返回案例導覽](#all-prompts)
 
 ---
 

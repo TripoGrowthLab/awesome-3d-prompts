@@ -12,7 +12,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [achimala/dream-loop](https://github.com/achimala/dream-loop)
 
-- [Isometric fantasy graphics demo](../docs/catalog.en.2.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc)
+- [Isometric fantasy graphics demo](../docs/catalog.en.3.md#gpt-6-astra-2100271998618177864) · [Anshu Chimala](https://x.com/anshuc)
 
 ## [bubblik525/cat\_brain\_anatomy](https://github.com/bubblik525/cat_brain_anatomy)
 
@@ -32,7 +32,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [bubblik525/collider](https://github.com/bubblik525/collider)
 
-- [Interactive 3D particle collider](../docs/catalog.en.3.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik)
+- [Interactive 3D particle collider](../docs/catalog.en.4.md#gpt-6-astra-2097781208596029936) · [BuBBliK](https://x.com/k1rallik)
 
 ## [wangruofeng/orbital-core-showcase](https://github.com/wangruofeng/orbital-core-showcase)
 
@@ -66,4 +66,4 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [bridge-mind/turbo-kart-rush](https://github.com/bridge-mind/turbo-kart-rush)
 
-- [AAA kart racing game in Three.js](../docs/catalog.en.8.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/)
+- [AAA kart racing game in Three.js](../docs/catalog.en.9.md#aaa-kart-racing-game-in-three-js-2094894312370692443) · [Jared](https://growthengineer.space/)

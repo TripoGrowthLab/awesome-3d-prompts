@@ -28,6 +28,12 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Ezechiels Tempelvision in 3D](#gpt-6-astra-2096547658164834788)
+- [Umschaltbare Gesichtsausdrücke in Blender](#switchable-character-expressions-in-blender-2096525100518453342)
+- [Wasser in Endlosschleife mit Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
+- [Von One Piece inspirierte Segelwelt](#one-piece-inspired-sailing-world-2096518775042707700)
+- [Das eigene Zimmer als interaktives Portfolio](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [Vollständiger Rätselspiel-Level in Three.js](#complete-three-js-puzzle-level-2096505740643246231)
 - [YF-24-Boot auf einer ruhigen 3D-See](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
 - [Vom Grundriss des obersten Stockwerks zur Blender-Vorschau](#top-floor-plan-to-blender-preview-2096501340889374883)
 - [Begehbares Low-Poly-Dorf nach dem Vorbild Gwacheons](#walkable-low-poly-gwacheon-village-2096490395614019793)
@@ -72,14 +78,135 @@
 - [Meeresleben in einer Kaffeetasse](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [Fisch-Überlebensspiel vom Aquarium bis zum Ozean](#gpt-6-astra-2096156244180664627)
 - [Dropzone: Battle-Royale-Arena](#dropzone-battle-royale-arena-2096155883122413946)
-- [Flugspiel im Browser](#browser-flight-game-2096149823216898445)
-- [Vom Café-Foto zum Hochformat-Rundgang](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [Automatisches Figurenrig mit Kung-Fu-Bewegungen](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Wikingerfigur in Blender](#viking-character-in-blender-2096140378777010278)
-- [Odyssey-inspiriertes Plattformabenteuer](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [Geriggter und animierter T. rex](#rigged-and-animated-t-rex-2096133339329536249)
 
 </details>
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### Ezechiels Tempelvision in 3D
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="Ezechiels Tempelvision in 3D"></a>
+
+**Prompt**
+
+```text
+Wie würde Ezechiels Tempelvision in 3D aussehen?
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2096547658164834788) · [Originalbeitrag](https://x.com/KrixOnok/status/2096547658164834788) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### Umschaltbare Gesichtsausdrücke in Blender
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Umschaltbare Gesichtsausdrücke in Blender"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Bereite vor dem Rigging mehrere Ausdrucksvarianten einer Tripo-Figur in Blender vor. Richte die Meshes aus und schalte ohne Interpolation zwischen ihnen um; verkleinere inaktive Varianten ins Innere des Kopfes. Stelle das nicht als weiche Überblendung oder als VRM-kompatibel dar.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [Originalbeitrag](https://x.com/Dstudio_ai/status/2096525100518453342) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### Wasser in Endlosschleife mit Geometry Nodes
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Wasser in Endlosschleife mit Geometry Nodes"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle mit Blender Geometry Nodes einen periodischen Wasseroberflächeneffekt ohne Baking. Halte den Node-Aufbau bearbeitbar und beschreibe ihn als Oberflächenmodell, nicht als vollständige Flüssigkeitssimulation.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [Originalbeitrag](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### Von One Piece inspirierte Segelwelt
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="Von One Piece inspirierte Segelwelt"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine spielbare Segelwelt mit einem Blender-Schiff und einem Three.js-Ozean. Ergänze wechselndes Wetter, Unterwassererkundung, Kielwasser, Schaum, Gischt und bewegte Segel.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [Originalbeitrag](https://x.com/yash_yk45/status/2096518775042707700) · [Live-Demo](https://one-piece-sea-world.vercel.app/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### Das eigene Zimmer als interaktives Portfolio
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="Das eigene Zimmer als interaktives Portfolio"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Verwandle ein persönliches Zimmer in eine interaktive Vorstellungswebsite. Baue die Szene in Blender und führe das Baking durch. Ergänze anschließend Kaffeedampf, eine Animation im Matrix-Stil und subtile Shader-Effekte.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [Originalbeitrag](https://x.com/kalanyei/status/2096506357868642342) · [Live-Demo](https://room.kalan.dev/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### Vollständiger Rätselspiel-Level in Three.js
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Vollständiger Rätselspiel-Level in Three.js"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle einen vollständigen 3D-Rätselspiel-Level in Three.js samt spielbarer Mechaniken. Binde die bereitgestellten Audiodateien ein, sobald Level und Interaktionen funktionieren.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [Originalbeitrag](https://x.com/TvWoo/status/2096505740643246231) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
 
 ### YF-24-Boot auf einer ruhigen 3D-See
@@ -1667,126 +1794,6 @@ Baue ein Third-Person-Browser-Battle-Royale mit Sturmkreis, neun KI-Gegnern, Pul
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Originalbeitrag](https://x.com/Motion_Viz/status/2096155883122413946) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### Flugspiel im Browser
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="Flugspiel im Browser"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle aus einem leeren Projekt ein vollständiges 3D-Flugspiel im Browser. Integriere steuerbaren Flug, navigierbare Umgebung, ein klares Ziel und eine stimmige Präsentation.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/browser-flight-game-2096149823216898445) · [Originalbeitrag](https://x.com/givros/status/2096149823216898445) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### Vom Café-Foto zum Hochformat-Rundgang
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="Vom Café-Foto zum Hochformat-Rundgang"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein Café anhand seines Fotos in Blender nach, einschließlich Holzdecke, Lichtbändern, Kaffeeröster, Regalen und Pflanzen. Liefere eine bearbeitbare Szene und einen 15-sekündigen Kamerarundgang im Hochformat.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [Originalbeitrag](https://x.com/harrisonitsme/status/2096143359505269079) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### Automatisches Figurenrig mit Kung-Fu-Bewegungen
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="Automatisches Figurenrig mit Kung-Fu-Bewegungen"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle für die bereitgestellte 3D-Figur ein Rig und ergänze Gehen, Laufen und mehrere Kung-Fu-Bewegungen. Prüfe die Animationen auf kaputte Gelenke und instabile Posen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [Originalbeitrag](https://x.com/thebuggeddev/status/2096141728487178503) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Wikingerfigur in Blender
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Wikingerfigur in Blender"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine bearbeitbare 3D-Wikingerfigur in Blender. Konzentriere dich auf erkennbare Kleidung, Gesichtsstruktur, Körperproportionen und eine klare Präsentationspose.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/viking-character-in-blender-2096140378777010278) · [Originalbeitrag](https://x.com/fre4kspace/status/2096140378777010278) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### Odyssey-inspiriertes Plattformabenteuer
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="Odyssey-inspiriertes Plattformabenteuer"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue einen Odyssey-inspirierten Three.js-Level mit acht Plattformen, drei sammelbaren Monden, zurückkehrenden Kappenangriffen, Gegnern und Checkpoints. Ergänze Touchsteuerung und teste einen vollständigen Durchlauf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [Originalbeitrag](https://x.com/AiHubMix/status/2096135808243876152) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### Geriggter und animierter T. rex
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="Geriggter und animierter T. rex"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Rigg ein generiertes T.-rex-Modell und erstelle glaubwürdige Bewegungen. Rendere die Figur in Three.js und prüfe, ob die Animation das Modell stimmig verformt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [Originalbeitrag](https://x.com/majidmanzarpour/status/2096133339329536249) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

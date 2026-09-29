@@ -28,6 +28,12 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [以西结的圣殿异象：3D 场景](#gpt-6-astra-2096547658164834788)
+- [Blender 角色表情切换](#switchable-character-expressions-in-blender-2096525100518453342)
+- [几何节点循环水面](#looping-water-with-geometry-nodes-2096521798150242631)
+- [海贼王风格航海世界](#one-piece-inspired-sailing-world-2096518775042707700)
+- [用自己的房间做交互式作品集](#personal-room-as-an-interactive-portfolio-2096506357868642342)
+- [完整的 Three.js 解谜关卡](#complete-three-js-puzzle-level-2096505740643246231)
 - [YF-24 船只与轻浪 3D 海面](#yf-24-boat-on-a-gentle-3d-sea-2096503275910832461)
 - [顶层平面图转 Blender 预览](#top-floor-plan-to-blender-preview-2096501340889374883)
 - [可漫游的低多边形果川村落](#walkable-low-poly-gwacheon-village-2096490395614019793)
@@ -72,14 +78,135 @@
 - [咖啡杯里的海洋生命](#marine-life-in-a-coffee-cup-2096174858837074198)
 - [从鱼缸到海洋的鱼类生存游戏](#gpt-6-astra-2096156244180664627)
 - [Dropzone 大逃杀竞技场](#dropzone-battle-royale-arena-2096155883122413946)
-- [浏览器飞行游戏](#browser-flight-game-2096149823216898445)
-- [咖啡店照片转竖屏漫游](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
-- [自动角色绑定与功夫动作](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
-- [Blender 维京角色](#viking-character-in-blender-2096140378777010278)
-- [奥德赛风格平台冒险](#odyssey-inspired-platform-adventure-2096135808243876152)
-- [绑定与动画霸王龙](#rigged-and-animated-t-rex-2096133339329536249)
 
 </details>
+<a id="gpt-6-astra-2096547658164834788"></a>
+
+### 以西结的圣殿异象：3D 场景
+
+[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="以西结的圣殿异象：3D 场景"></a>
+
+**提示词**
+
+```text
+以西结的圣殿异象呈现在 3D 场景中会是什么样？
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+What would Ezekiel’s temple vision look like in 3D?
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096547658164834788) · [查看原帖](https://x.com/KrixOnok/status/2096547658164834788) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
+
+### Blender 角色表情切换
+
+[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Blender 角色表情切换"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在绑定骨骼前，将 Tripo 角色的不同表情模型在 Blender 中对齐，通过离散切换显示表情，把未启用的网格缩小收进头部。不要将这种方法描述为平滑表情混合，也不要假定它兼容 VRM。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [查看原帖](https://x.com/Dstudio_ai/status/2096525100518453342) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
+
+### 几何节点循环水面
+
+[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="几何节点循环水面"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+使用 Blender 几何节点制作无需烘焙的周期性水面效果。保留可编辑节点，并说明它是水面模型，而非完整的流体模拟。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [查看原帖](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
+
+### 海贼王风格航海世界
+
+[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="海贼王风格航海世界"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+使用 Blender 船只模型和 Three.js 海洋搭建可玩的航海世界，加入天气变化、水下探索、尾流、泡沫、水花和飘动的船帆。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [查看原帖](https://x.com/yash_yk45/status/2096518775042707700) · [在线演示](https://one-piece-sea-world.vercel.app/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
+
+### 用自己的房间做交互式作品集
+
+[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="用自己的房间做交互式作品集"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+将自己的房间变成互动式自我介绍网站，在 Blender 中搭建并烘焙场景，再加入咖啡热气、Matrix 风格动画和细腻的着色器效果。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [查看原帖](https://x.com/kalanyei/status/2096506357868642342) · [在线演示](https://room.kalan.dev/) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
+
+### 完整的 Three.js 解谜关卡
+
+[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="完整的 Three.js 解谜关卡"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Three.js 中搭建完整的 3D 解谜关卡及可玩的机制，在关卡与交互正常运行后接入提供的音频。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [查看原帖](https://x.com/TvWoo/status/2096505740643246231) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="yf-24-boat-on-a-gentle-3d-sea-2096503275910832461"></a>
 
 ### YF-24 船只与轻浪 3D 海面
@@ -1670,127 +1797,7 @@ First define the full gameply loop and level designs and stuff for this game int
 
 ---
 
-<a id="browser-flight-game-2096149823216898445"></a>
-
-### 浏览器飞行游戏
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/browser-flight-game-2096149823216898445"><img src="../assets/previews/8770c37cc67aa3bafb4f09f4b87c63b40feb13540bac0614910dfefb97f49df7.webp" width="840" loading="lazy" alt="浏览器飞行游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-从空项目构建完整浏览器 3D 飞行游戏，提供可控飞行、可探索环境、明确目标与连贯视觉呈现。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/browser-flight-game-2096149823216898445) · [查看原帖](https://x.com/givros/status/2096149823216898445) · [返回案例导航](#all-prompts)
-
----
-
-<a id="coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"></a>
-
-### 咖啡店照片转竖屏漫游
-
-[森叔](https://x.com/harrisonitsme) · 2026-09-05 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079"><img src="../assets/previews/a116a4753f80ed06e4c3f1fdaf0cd6cc1a7c8b084125099466b1ed664f655899.webp" width="840" loading="lazy" alt="咖啡店照片转竖屏漫游"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据照片在 Blender 中重建咖啡店，包括木质吊顶、灯带、烘豆机、货架和绿植。交付可编辑场景与 15 秒竖屏镜头漫游。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/coffee-shop-photo-to-vertical-walkthrough-2096143359505269079) · [查看原帖](https://x.com/harrisonitsme/status/2096143359505269079) · [返回案例导航](#all-prompts)
-
----
-
-<a id="automatic-character-rig-and-kung-fu-moves-2096141728487178503"></a>
-
-### 自动角色绑定与功夫动作
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-05 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503"><img src="../assets/previews/0cbf00f01758794a40dd776a264209ed8273b0735c848b5f8b078648dc80c9c6.webp" width="840" loading="lazy" alt="自动角色绑定与功夫动作"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-为给定 3D 角色创建骨骼，增加行走、跑步及几段功夫动作，并检查动画中的关节破损和姿态不稳。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/automatic-character-rig-and-kung-fu-moves-2096141728487178503) · [查看原帖](https://x.com/thebuggeddev/status/2096141728487178503) · [返回案例导航](#all-prompts)
-
----
-
-<a id="viking-character-in-blender-2096140378777010278"></a>
-
-### Blender 维京角色
-
-[Emil](https://x.com/fre4kspace) · 2026-09-05 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/viking-character-in-blender-2096140378777010278"><img src="../assets/previews/e8e53b52c328c11c97dc135914814d59e5652b638cbe1f2c6a0c9758c98e5f1d.webp" width="840" loading="lazy" alt="Blender 维京角色"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Blender 中制作可编辑 3D 维京角色，重点处理可识别服装、面部结构、身体比例和清晰展示姿态。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/viking-character-in-blender-2096140378777010278) · [查看原帖](https://x.com/fre4kspace/status/2096140378777010278) · [返回案例导航](#all-prompts)
-
----
-
-<a id="odyssey-inspired-platform-adventure-2096135808243876152"></a>
-
-### 奥德赛风格平台冒险
-
-[AIHubmix](https://x.com/AiHubMix) · 2026-09-05 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152"><img src="../assets/previews/aa844349789b94d484cce071e2c4b6b64fdb53b874322a9aff7dffcd9c505377.webp" width="840" loading="lazy" alt="奥德赛风格平台冒险"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-制作奥德赛风格 Three.js 关卡，包含八个平台、三枚可收集月亮、回旋帽攻击、敌人和检查点，加入触摸操作并完成试玩。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/odyssey-inspired-platform-adventure-2096135808243876152) · [查看原帖](https://x.com/AiHubMix/status/2096135808243876152) · [返回案例导航](#all-prompts)
-
----
-
-<a id="rigged-and-animated-t-rex-2096133339329536249"></a>
-
-### 绑定与动画霸王龙
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/rigged-and-animated-t-rex-2096133339329536249"><img src="../assets/previews/99289cd4ad70a00ee868f267220207200344ee83ed8f7d793d3e413dc53727c3.webp" width="840" loading="lazy" alt="绑定与动画霸王龙"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-将生成的霸王龙模型绑定并制作可信运动，在 Three.js 中渲染并检查模型变形是否协调。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/rigged-and-animated-t-rex-2096133339329536249) · [查看原帖](https://x.com/majidmanzarpour/status/2096133339329536249) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.4.md) · **5 / 10** · [→](catalog.zh.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 460 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 466 条案例与在线演示 →</a></strong></p>

@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Beispiele ansehen (10)</summary>
+<summary>Beispiele ansehen (16)</summary>
 
+- [Prozedurale Three.js-Waffenmodellierung für Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
+- [Drei Ein-Datei-HTML-Prompts für prozedurale Three.js-Waffen](#procedural-guns-in-single-file-three-js-2080757148078768504)
+- [Kimi-K3-Prompt für einen sich wandelnden Three.js-Stadtblock](#transforming-three-js-city-block-scene-2080724552422924382)
+- [Three.js-Prompt für Leonardo da Vincis Ornithopter mit Claude Opus 5](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
+- [Angry-Birds-artiger Klon mit eigenen Vögeln und mehreren Leveln](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
+- [3D-Fußballstadion als Vergleichsaufgabe für Claude Fable 5 und Kimi K3](#3d-soccer-stadium-2080473039834333229)
 - [Three.js-Prompt für einen futuristischen Magnetschwebezug](#futuristic-maglev-train-in-three-js-2080454415400493332)
 - [3D-Versteckspiel-Prompt mit Chamäleon und Roboter](#chameleon-and-robot-hide-and-seek-game-2080392777515311115)
 - [3D-Kirschblütenbaum-Prompt für Claude Fable 5](#3d-cherry-blossom-tree-2080178541979664741)
@@ -40,6 +46,125 @@
 - [Three.js-Prompt für einen Rundgang im Flugzeug](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
+
+### Prozedurale Three.js-Waffenmodellierung für Claude Fable 5
+
+[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Prozedurale Three.js-Waffenmodellierung für Claude Fable 5"></a>
+
+**Prompt**
+
+```text
+The Hype verglich Claude Opus 5, Fable 5, GPT-5.6 Sol und Kimi K3 mit exakt denselben prozeduralen Three.js-Technikaufgaben.
+
+Jedes Modell musste bauen:
+• M4 Carbine
+• Glock 18C
+• Steyr TMP
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [Originalbeitrag](https://x.com/adxtyahq/status/2080759312008503365) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
+
+### Drei Ein-Datei-HTML-Prompts für prozedurale Three.js-Waffen
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Drei Ein-Datei-HTML-Prompts für prozedurale Three.js-Waffen"></a>
+
+**Prompt**
+
+```text
+Unser Test: 3 Prompts, eine HTML-Datei, @threejs, vollständig prozedural, keine Assets. Jede Waffe hat einen kleinen Feuerknopf (Web-Audio-Schuss, Mündungsblitz, Rückstoß, Hülsenauswurf) und einen Zerlegungsschalter für beschriftete Einzelteile mit Wiederzusammenbau:
+
+1. 5.56 M4 Carbine: ausziehbare Schulterstütze, Untergehäuse mit safe·semi·burst, Quadrail mit Panelnummern r14–r28, Aimpoint-Rotpunktvisier, vertikaler Vordergriff, klappbares Zweibein, A2-Mündungsfeuerdämpfer, Zerlegung in 10 Teile.
+
+2. Glock 18C: Maschinenpistole mit Feuerwahl, geschlitzten 18C-Kompensatoröffnungen, Prägung „glock 18c / austria 9x19“, verlängertem 33-Schuss-Magazin; Zerlegung in Schlitten, gelochten Lauf, Rückholfeder, Rahmen und Magazin.
+
+3. Steyr TMP: geripptes Polymergehäuse, Gewindelauf, integrierter vorderer Vertikalgriff, schräges durchscheinendes 30-Schuss-Magazin.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [Originalbeitrag](https://x.com/thehypedotnews/status/2080757148078768504) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
+
+### Kimi-K3-Prompt für einen sich wandelnden Three.js-Stadtblock
+
+[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="Kimi-K3-Prompt für einen sich wandelnden Three.js-Stadtblock"></a>
+
+**Prompt**
+
+```text
+Ich gab ihm einen brutalen Three.js-Prompt: Baue einen Stadtblock, der sich von 1945 bis 2055 verändert, mit wechselnden Gebäuden, Autos, Geschäften, Menschen, Licht und Soundeffekten in einer einzigen HTML-Datei.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [Originalbeitrag](https://x.com/ggg78g89/status/2080724552422924382) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
+
+### Three.js-Prompt für Leonardo da Vincis Ornithopter mit Claude Opus 5
+
+[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Three.js-Prompt für Leonardo da Vincis Ornithopter mit Claude Opus 5"></a>
+
+**Prompt**
+
+```text
+Leonardo da Vincis Ornithopter in Three.js.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [Originalbeitrag](https://x.com/HarshithLucky3/status/2080720533277319587) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
+
+### Angry-Birds-artiger Klon mit eigenen Vögeln und mehreren Leveln
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="Angry-Birds-artiger Klon mit eigenen Vögeln und mehreren Leveln"></a>
+
+**Prompt**
+
+```text
+Baue einen Angry-Birds-Klon mit einzigartigen Vögeln, mehreren Leveln und Mechaniken.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [Originalbeitrag](https://x.com/BuildFastWithAI/status/2080624574883123541) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="3d-soccer-stadium-2080473039834333229"></a>
+
+### 3D-Fußballstadion als Vergleichsaufgabe für Claude Fable 5 und Kimi K3
+
+[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="3D-Fußballstadion als Vergleichsaufgabe für Claude Fable 5 und Kimi K3"></a>
+
+**Prompt**
+
+```text
+Ein Entwickler verglich Modelle mit derselben Aufgabe: „Baue ein 3D-Fußballstadion.“
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-soccer-stadium-2080473039834333229) · [Originalbeitrag](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="futuristic-maglev-train-in-three-js-2080454415400493332"></a>
 
 ### Three.js-Prompt für einen futuristischen Magnetschwebezug

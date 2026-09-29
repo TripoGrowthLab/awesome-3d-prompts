@@ -28,6 +28,12 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Blender'da döngüsel siberpunk yatak odası](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
+- [Kendi kendine oynayan kültürel arcade oyunu](#self-playing-cultural-arcade-game-2095898198413922791)
+- [İstemden açık dünya oyununa](#open-world-game-from-a-prompt-2095872986477908108)
+- [Three.js'de Van Gogh kasabası](#van-gogh-town-in-three-js-2095871735824339279)
+- [Blender'da mekanik olarak eksiksiz lokomotif](#mechanically-complete-blender-locomotive-2095868420327710840)
+- [Otuz saniyelik Blender sahnesi meydan okuması](#thirty-second-blender-scene-challenge-2095844872171421771)
 - [Tek turda Three.js deniz savaşı sahnesi](#single-turn-three-js-naval-war-scene-2095840435319001278)
 - [Başkanlık dönemleri boyunca Oval Ofis](#oval-office-through-the-presidencies-2095830596069290077)
 - [Tariften 3B cheesecake filmine](#recipe-to-3d-cheesecake-film-2095829851206774987)
@@ -72,14 +78,135 @@
 - [Tarayıcıda açık dünya macerası](#open-world-browser-adventure-2095596341422440714)
 - [Unreal'da kendi kendine hayatta kalan insan toplumu](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
 - [Mars'ta Arcadia Üssü](#arcadia-base-on-mars-2095595678214873212)
-- [Tek kaba prototipten üç temalı kart yarışı](#three-themed-kart-games-from-one-greybox-2095580402505400369)
-- [Prosedürel şelale çalışması](#procedural-waterfall-study-2095510069047660636)
-- [Aerie: yaşayan voksel ada](#aerie-a-living-voxel-island-2095493630421340200)
-- [Eklemlendirilebilir, yazdırılabilir aksiyon figürü](#articulated-printable-action-figure-2095481098201387287)
-- [Sinematik WebGL kara deliği](#cinematic-webgl-black-hole-2095409039005933910)
-- [Yapay zekâ sunucu kabininin parçalı görünümü](#exploding-ai-server-rack-visualization-2095193022304792938)
 
 </details>
+<a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
+
+### Blender'da döngüsel siberpunk yatak odası
+
+[Coin Shot ☁️](https://x.com/CoinSh0t) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230"><img src="../assets/previews/8b48c345c1a8c8a435c98f5b7d7ceeacb1f2b91d135a24ce2570e5acdf0358ca.webp" width="840" loading="lazy" alt="Blender'da döngüsel siberpunk yatak odası"></a>
+
+**İstem**
+
+```text
+Blender'da gece yağmurlu neon şehre bakan sinematik bir siberpunk yatak odası oluştur. Animasyonlu reklam panoları ekle; fotogerçekçi ve kesintisiz döngü hâlinde olsun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a cinematic cyberpunk bedroom in Blender overlooking a rainy neon city at night. Add animated billboards and make it photorealistic and seamlessly looped.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/looping-cyberpunk-bedroom-in-blender-2095898303019856230) · [Orijinal gönderi](https://x.com/CoinSh0t/status/2095898303019856230) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="self-playing-cultural-arcade-game-2095898198413922791"></a>
+
+### Kendi kendine oynayan kültürel arcade oyunu
+
+[Good Morning](https://x.com/say_gm_) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791"><img src="../assets/previews/ea76b680c6d84aa0936fb399dfcf457dd661458cf52dbf6ce1fd314219863102.webp" width="840" loading="lazy" alt="Kendi kendine oynayan kültürel arcade oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir G7 ülkesi için kendi kendine oynayan arcade oyunu oluştur. Tanınabilir bir kültürel simgeyi temel mekaniğe dönüştür, eylem giriş olmadan anlaşılabilsin. Puan, artan zorluk ve akılda kalıcı bir açığa çıkış ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/self-playing-cultural-arcade-game-2095898198413922791) · [Orijinal gönderi](https://x.com/say_gm_/status/2095898198413922791) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="open-world-game-from-a-prompt-2095872986477908108"></a>
+
+### İstemden açık dünya oyununa
+
+[Ejaj AHmed 🦅](https://x.com/aeejazkhan) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/open-world-game-from-a-prompt-2095872986477908108"><img src="../assets/previews/eceaf86d5adf23a3f61c388b1f2de2b035b38613d706c223e69215d4818179e0.webp" width="840" loading="lazy" alt="İstemden açık dünya oyununa"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Şu fikirden açık dünya oyunu oluştur: [dünyanın ana fikri]. Üç ayrı bölge, dolaşım, dinamik karşılaşmalar, basit görev zinciri, önemli yerler, kaydetme ve yeniden başlatma davranışı ile tarayıcıda çalışmaya yetecek optimizasyon ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-game-from-a-prompt-2095872986477908108) · [Orijinal gönderi](https://x.com/aeejazkhan/status/2095872986477908108) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="van-gogh-town-in-three-js-2095871735824339279"></a>
+
+### Three.js'de Van Gogh kasabası
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/van-gogh-town-in-three-js-2095871735824339279"><img src="../assets/previews/5afa278a925af47d7bbec9e713e5fd5c992b8ab36eb692fe81eb9cdfa2c3fd40.webp" width="840" loading="lazy" alt="Three.js'de Van Gogh kasabası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Van Gogh'dan esinlenen yürünebilir bir Three.js kasabası oluştur. Boyalı sokakları, yıldızları, kafeleri ve tarlaları katmanlı 3B mekânlara dönüştürürken gölgelendiriciler, dokular ve animasyonlu ışıkla fırça izlerini canlı tut.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/van-gogh-town-in-three-js-2095871735824339279) · [Orijinal gönderi](https://x.com/RealFedeURU/status/2095871735824339279) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="mechanically-complete-blender-locomotive-2095868420327710840"></a>
+
+### Blender'da mekanik olarak eksiksiz lokomotif
+
+[sheemamoto](https://x.com/sheemamoto) · 2026-09-04 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840"><img src="../assets/previews/f845728fa55d35607a3bf34a24deed1e61d9d8466192fa3c44b24e04efa1c906.webp" width="840" loading="lazy" alt="Blender'da mekanik olarak eksiksiz lokomotif"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da bir buharlı lokomotifi dokulu bir kabuk olarak değil, gerçek mekanik parçalara ayrılmış biçimde modelle. Aksları, aks kutusu kılavuzlarını, yatak bloklarını, gergileri, süspansiyon bağlantılarını, buhar kubbesini ve tüm ana montajları ayrı tutup adlandır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mechanically-complete-blender-locomotive-2095868420327710840) · [Orijinal gönderi](https://x.com/sheemamoto/status/2095868420327710840) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="thirty-second-blender-scene-challenge-2095844872171421771"></a>
+
+### Otuz saniyelik Blender sahnesi meydan okuması
+
+[Satyam Kumar](https://x.com/_satyam_ai) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771"><img src="../assets/previews/19abbada682497c716772aa71d1f19e81836cdc66e3c100b04b6c41862e3b816.webp" width="840" loading="lazy" alt="Otuz saniyelik Blender sahnesi meydan okuması"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Çok sıkı bir sürede tutarlı bir Blender sahnesi kur. Güçlü silüet, üç derinlik katmanı, bir ana malzeme, sinematik ışık ve çekime hazır kompozisyona öncelik ver. Tüm nesneler düzenlenebilir kalsın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/thirty-second-blender-scene-challenge-2095844872171421771) · [Orijinal gönderi](https://x.com/_satyam_ai/status/2095844872171421771) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="single-turn-three-js-naval-war-scene-2095840435319001278"></a>
 
 ### Tek turda Three.js deniz savaşı sahnesi
@@ -966,126 +1093,6 @@ Unreal Engine'de otonom insan ajanlarının yaşadığı bir dünya oluştur. He
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [Orijinal gönderi](https://x.com/knowixbuilds/status/2095595678214873212) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
-
-### Tek kaba prototipten üç temalı kart yarışı
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="Tek kaba prototipten üç temalı kart yarışı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen Unity kart yarışı kaba prototipinden korsan, şekerleme ve siberpunk temalı üç oynanabilir sürüm üret. Temel sürüş döngüsünü yeniden kullan, ortamları ve geri bildirimleri değiştir, her sürümü oynayarak test et ve en belirgin hataları düzelt.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Orijinal gönderi](https://x.com/chetaslua/status/2095580402505400369) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="procedural-waterfall-study-2095510069047660636"></a>
-
-### Prosedürel şelale çalışması
-
-[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="Prosedürel şelale çalışması"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de akan su, sıçrama, kayalar ve açık ölçek hissiyle şelale sahnesi oluştur. Su hareketini anlaşılır kılmak için ışık ve kamera kadrajı kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-waterfall-study-2095510069047660636) · [Orijinal gönderi](https://x.com/RealFedeURU/status/2095510069047660636) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
-
-### Aerie: yaşayan voksel ada
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie: yaşayan voksel ada"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Etrafında dönülüp yakınlaşılabilen, keşfedilebilir bir 3B voksel dünya oluştur. Canlı hissettirmek için otonom hareket ekle; ortamı ve sakinlerini sen seç.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2095493630421340200) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="articulated-printable-action-figure-2095481098201387287"></a>
-
-### Eklemlendirilebilir, yazdırılabilir aksiyon figürü
-
-[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="Eklemlendirilebilir, yazdırılabilir aksiyon figürü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Karakter fikrini yazdırılabilir aksiyon figürüne dönüştür. Blender'da hareketli küresel eklemler kur ve birleştirilmiş figürün ayakta durabildiğini kontrol et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [Orijinal gönderi](https://x.com/_MaxBlade/status/2095481098201387287) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
-
-### Sinematik WebGL kara deliği
-
-[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="Sinematik WebGL kara deliği"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Saf WebGL2 kullanarak tek HTML dosyasında sinematik kara delik oluştur. Işın yürütmeli kütleçekimsel merceklenme, prosedürel birikim diski, Doppler parlaması ve yörüngedeki parçacıkları ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [Orijinal gönderi](https://x.com/ekibuilds/status/2095409039005933910) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
-
-### Yapay zekâ sunucu kabininin parçalı görünümü
-
-[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="Yapay zekâ sunucu kabininin parçalı görünümü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-NVL72 kabini ve GB300 sistemini Three.js'de patlatılmış görünümle görselleştir. Etiketli bileşenler, aşamalı ayrılma, teknik ışık ve yumuşak kamera geçişleri kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Orijinal gönderi](https://x.com/kylejeong/status/2095193022304792938) · [Örneklere dön](#all-prompts)
 
 ---
 

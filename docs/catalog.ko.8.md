@@ -28,6 +28,12 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [하나의 그레이박스로 만드는 세 가지 카트 게임](#three-themed-kart-games-from-one-greybox-2095580402505400369)
+- [절차적 폭포 표현 실험](#procedural-waterfall-study-2095510069047660636)
+- [살아 있는 복셀 섬 Aerie](#aerie-a-living-voxel-island-2095493630421340200)
+- [3D 프린트 가능한 관절 액션 피규어](#articulated-printable-action-figure-2095481098201387287)
+- [영화적인 WebGL 블랙홀](#cinematic-webgl-black-hole-2095409039005933910)
+- [분해하며 보는 AI 서버 랙](#exploding-ai-server-rack-visualization-2095193022304792938)
 - [우주 탐험과 무역 게임](#space-exploration-and-trading-game-2095191999255035993)
 - [GTA 스타일 오픈월드 멀티플레이 프로토타입](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
 - [만화책 스타일 Three.js 카우보이 게임](#comic-book-three-js-cowboy-game-2095180091257209148)
@@ -72,14 +78,128 @@
 - [Blender 자동화로 만드는 정교한 로봇](#detailed-robot-through-blender-automation-2094909825561805003)
 - [오픈월드 범죄 게임 프로토타입](#open-world-crime-game-prototype-2094907986942591338)
 - [Mini Militia 스타일 브라우저 게임](#mini-militia-style-browser-game-2094900523900219725)
-- [비 내리는 1인칭 바다 샌드박스](#rainy-first-person-ocean-sandbox-2094900247000654222)
-- [하늘에 떠 있는 복셀 섬](#floating-voxel-island-2094899802588713418)
-- [사람들이 살아가는 복셀 중세 왕국](#living-voxel-medieval-kingdom-2094899477626720403)
-- [텍스처가 있는 3D 에셋 제작 과정](#textured-3d-asset-production-workflow-2094896750234378508)
-- [세 가지 작은 물리 게임 아이디어](#three-compact-physics-game-concepts-2094895071304839400)
-- [Three.js로 만드는 AAA급 카트 레이싱](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 
 </details>
+<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
+
+### 하나의 그레이박스로 만드는 세 가지 카트 게임
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="하나의 그레이박스로 만드는 세 가지 카트 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 Unity 카트 레이싱 그레이박스로 해적, 사탕, 사이버펑크 테마의 플레이 가능한 버전 세 가지를 만드세요. 핵심 주행 흐름을 재사용하고 환경과 피드백을 바꾸세요. 각 빌드를 직접 플레이하며 가장 눈에 띄는 버그를 고치세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [원본 게시물](https://x.com/chetaslua/status/2095580402505400369) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="procedural-waterfall-study-2095510069047660636"></a>
+
+### 절차적 폭포 표현 실험
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="절차적 폭포 표현 실험"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+흐르는 물, 물보라, 바위, 명확한 규모감이 있는 Three.js 폭포 장면을 만드세요. 조명과 카메라 구도로 물의 움직임을 쉽게 읽을 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-waterfall-study-2095510069047660636) · [원본 게시물](https://x.com/RealFedeURU/status/2095510069047660636) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
+
+### 살아 있는 복셀 섬 Aerie
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="살아 있는 복셀 섬 Aerie"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+회전하고 확대하며 탐험할 수 있는 3D 복셀 세계를 만드세요. 자율적인 움직임으로 생명감을 더하세요. 배경과 그곳의 주민은 자유롭게 선택하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [원본 게시물](https://x.com/free_ai_guides/status/2095493630421340200) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="articulated-printable-action-figure-2095481098201387287"></a>
+
+### 3D 프린트 가능한 관절 액션 피규어
+
+[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="3D 프린트 가능한 관절 액션 피규어"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+캐릭터 콘셉트를 3D 프린트 가능한 액션 피규어로 바꾸세요. Blender에서 움직이는 볼 관절을 만들고 조립한 피규어가 스스로 설 수 있는지 확인하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [원본 게시물](https://x.com/_MaxBlade/status/2095481098201387287) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
+
+### 영화적인 WebGL 블랙홀
+
+[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="영화적인 WebGL 블랙홀"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+순수 WebGL2를 사용해 HTML 파일 하나에 영화적인 블랙홀을 만드세요. 레이마칭 중력 렌즈, 절차적 강착 원반, 도플러 비밍, 궤도를 도는 입자를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [원본 게시물](https://x.com/ekibuilds/status/2095409039005933910) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
+
+### 분해하며 보는 AI 서버 랙
+
+[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="분해하며 보는 AI 서버 랙"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+NVL72 랙과 GB300 시스템의 분해 시각화를 Three.js로 만드세요. 부품 라벨, 단계적 분리, 기술 구조를 보여주는 조명, 부드러운 카메라 전환을 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [원본 게시물](https://x.com/kylejeong/status/2095193022304792938) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="space-exploration-and-trading-game-2095191999255035993"></a>
 
 ### 우주 탐험과 무역 게임
@@ -971,128 +1091,6 @@ GTA 6에서 영감을 받은 오픈월드 게임을 시제품으로 만드세요
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [원본 게시물](https://x.com/0x0SojalSec/status/2094900523900219725) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
-
-### 비 내리는 1인칭 바다 샌드박스
-
-[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="비 내리는 1인칭 바다 샌드박스"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-파도, 빗방울, 분위기 있는 조명이 있는 1인칭 3D 바다 샌드박스를 만드세요. 몰입감 있는 카메라로 물 위를 탐험할 수 있게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [원본 게시물](https://x.com/TimJayas/status/2094900247000654222) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="floating-voxel-island-2094899802588713418"></a>
-
-### 하늘에 떠 있는 복셀 섬
-
-[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="하늘에 떠 있는 복셀 섬"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-지형의 층이 잘 보이는 공중 복셀 섬을 만드세요. 식생, 물, 구조물, 환경 움직임, 장면 전체를 회전하며 살펴볼 수 있는 카메라를 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/floating-voxel-island-2094899802588713418) · [원본 게시물](https://x.com/loktar00/status/2094899802588713418) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
-
-### 사람들이 살아가는 복셀 중세 왕국
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="사람들이 살아가는 복셀 중세 왕국"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-수천 명의 병사, 일하는 주민, 공성 시스템, 파괴 가능한 구조물, 전황을 바꿀 수 있는 드래곤이 있는 거대한 복셀 중세 왕국을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [원본 게시물](https://x.com/knowixbuilds/status/2094899477626720403) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
-
-### 텍스처가 있는 3D 에셋 제작 과정
-
-[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="텍스처가 있는 3D 에셋 제작 과정"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-참고 이미지로 깔끔한 3D 에셋을 만든 뒤 Blender에서 노멀과 재질을 수정하고, Substance Painter에서 실제 제작에 사용할 수 있는 텍스처를 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [원본 게시물](https://x.com/MrCollison/status/2094896750234378508) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
-
-### 세 가지 작은 물리 게임 아이디어
-
-[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="세 가지 작은 물리 게임 아이디어"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-끈끈이 공 장애물 도전, 카피바라 강 서핑, 만두 컨베이어 피하기라는 세 가지 미니게임을 완성도 있게 만드세요. 각각 명확한 입력 방식, 점수, 실패 상태를 마련하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [원본 게시물](https://x.com/atomicagent_io/status/2094895071304839400) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
-
-### Three.js로 만드는 AAA급 카트 레이싱
-
-[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · 게임
-
-리믹스 원작: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Three.js로 만드는 AAA급 카트 레이싱"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-매끄러운 주행, 개성 있는 트랙, 상대 선수, 아이템, UI, 소리, 처음부터 끝까지 플레이 가능한 경기 흐름을 갖춘 AAA급 Three.js 카트 레이싱 게임을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [원본 게시물](https://x.com/bridgemindai/status/2094894312370692443) · [소스 코드](https://github.com/bridge-mind/turbo-kart-rush) · [데모](https://bridge-mind.github.io/turbo-kart-rush/) · [사례 목록으로](#all-prompts)
 
 ---
 

@@ -28,6 +28,12 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Три тематические гонки из одного прототипа](#three-themed-kart-games-from-one-greybox-2095580402505400369)
+- [Процедурный водопад](#procedural-waterfall-study-2095510069047660636)
+- [Aerie — живой воксельный остров](#aerie-a-living-voxel-island-2095493630421340200)
+- [Подвижная фигурка для 3D-печати](#articulated-printable-action-figure-2095481098201387287)
+- [Кинематографичная чёрная дыра WebGL](#cinematic-webgl-black-hole-2095409039005933910)
+- [Разборная визуализация серверной стойки ИИ](#exploding-ai-server-rack-visualization-2095193022304792938)
 - [Игра об исследовании космоса и торговле](#space-exploration-and-trading-game-2095191999255035993)
 - [Сетевой прототип открытого мира в стиле GTA](#gta-style-open-world-multiplayer-prototype-2095187868746383758)
 - [Ковбойская игра на Three.js в стиле комикса](#comic-book-three-js-cowboy-game-2095180091257209148)
@@ -72,14 +78,128 @@
 - [Детальный робот с помощью автоматизации Blender](#detailed-robot-through-blender-automation-2094909825561805003)
 - [Прототип криминальной игры с открытым миром](#open-world-crime-game-prototype-2094907986942591338)
 - [Браузерная игра в стиле Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
-- [Океанская песочница от первого лица под дождём](#rainy-first-person-ocean-sandbox-2094900247000654222)
-- [Парящий воксельный остров](#floating-voxel-island-2094899802588713418)
-- [Живое воксельное средневековое королевство](#living-voxel-medieval-kingdom-2094899477626720403)
-- [Процесс создания текстурированного 3D-ассета](#textured-3d-asset-production-workflow-2094896750234378508)
-- [Три небольшие физические мини-игры](#three-compact-physics-game-concepts-2094895071304839400)
-- [Картинговые гонки AAA-уровня на Three.js](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 
 </details>
+<a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
+
+### Три тематические гонки из одного прототипа
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369"><img src="../assets/previews/d8dc0d9155f7c76afe827c6ab13d3b4c82f6688b7b4207b5b9dc7348de605b61.webp" width="840" loading="lazy" alt="Три тематические гонки из одного прототипа"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Преврати предоставленный черновой прототип картинговых гонок в Unity в три игровых варианта: пиратский, конфетный и киберпанк. Сохрани основную механику вождения, замени окружение и обратную связь, протестируй каждую сборку и исправь наиболее заметные ошибки.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369) · [Исходная публикация](https://x.com/chetaslua/status/2095580402505400369) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="procedural-waterfall-study-2095510069047660636"></a>
+
+### Процедурный водопад
+
+[Fede(URU) 🇺🇾](https://x.com/RealFedeURU) · 2026-09-03 · Claude Fable 5.1 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/procedural-waterfall-study-2095510069047660636"><img src="../assets/previews/149a3493d17f44f5aa4d02005dbce7be27aec9305a2e3e4b9cd62f669adee9cd.webp" width="840" loading="lazy" alt="Процедурный водопад"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай сцену водопада на Three.js с текущей водой, брызгами, скалами и понятным масштабом. Освещением и кадрированием сделай движение воды хорошо различимым.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/procedural-waterfall-study-2095510069047660636) · [Исходная публикация](https://x.com/RealFedeURU/status/2095510069047660636) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="aerie-a-living-voxel-island-2095493630421340200"></a>
+
+### Aerie — живой воксельный остров
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-03 · Claude Fable 5.1 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/aerie-a-living-voxel-island-2095493630421340200"><img src="../assets/previews/11c361dcfa2b76c48a0aa3187c2bd19a614d6d424c807c43c910feff91aff5d1.webp" width="840" loading="lazy" alt="Aerie — живой воксельный остров"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай воксельный 3D-мир для исследования с вращением и приближением камеры. Добавь автономное движение, чтобы мир казался живым; выбери место действия и его обитателей.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/aerie-a-living-voxel-island-2095493630421340200) · [Исходная публикация](https://x.com/free_ai_guides/status/2095493630421340200) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="articulated-printable-action-figure-2095481098201387287"></a>
+
+### Подвижная фигурка для 3D-печати
+
+[Max Blade](https://x.com/_MaxBlade) · 2026-09-03 · Claude Fable 5.1 · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/articulated-printable-action-figure-2095481098201387287"><img src="../assets/previews/fc2e346714d28460ad0c4427233fab5b8fd5af95498f2ae6910f59143fff4bdc.webp" width="840" loading="lazy" alt="Подвижная фигурка для 3D-печати"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Преврати концепцию персонажа в фигурку для печати. Создай подвижные шаровые суставы в Blender и проверь, что собранная фигурка может стоять.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/articulated-printable-action-figure-2095481098201387287) · [Исходная публикация](https://x.com/_MaxBlade/status/2095481098201387287) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="cinematic-webgl-black-hole-2095409039005933910"></a>
+
+### Кинематографичная чёрная дыра WebGL
+
+[eki](https://x.com/ekibuilds) · 2026-09-03 · Claude Fable 5.1 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/cinematic-webgl-black-hole-2095409039005933910"><img src="../assets/previews/5875d7b87200159118f21dd81183a54d1ba8391bfe2420a71687799ce5305dd9.webp" width="840" loading="lazy" alt="Кинематографичная чёрная дыра WebGL"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай кинематографичную чёрную дыру в одном HTML-файле на чистом WebGL2. Добавь гравитационное линзирование с ray marching, процедурный аккреционный диск, доплеровское усиление излучения и частицы на орбитах.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/cinematic-webgl-black-hole-2095409039005933910) · [Исходная публикация](https://x.com/ekibuilds/status/2095409039005933910) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="exploding-ai-server-rack-visualization-2095193022304792938"></a>
+
+### Разборная визуализация серверной стойки ИИ
+
+[Kyle Jeong](https://x.com/kylejeong) · 2026-09-02 · Claude Fable 5.1 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938"><img src="../assets/previews/da23e751e31067e13d49685bb5d8ed2abaa3f8cbce447452c162a4485dcbfecd.webp" width="840" loading="lazy" alt="Разборная визуализация серверной стойки ИИ"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создай на Three.js разборную визуализацию стойки NVL72 и системы GB300 с подписями компонентов, поэтапным разнесением деталей, техническим освещением и плавными переходами камеры.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploding-ai-server-rack-visualization-2095193022304792938) · [Исходная публикация](https://x.com/kylejeong/status/2095193022304792938) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="space-exploration-and-trading-game-2095191999255035993"></a>
 
 ### Игра об исследовании космоса и торговле
@@ -971,128 +1091,6 @@ Create the most impressive website you can in a single self-contained HTML file.
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [Исходная публикация](https://x.com/0x0SojalSec/status/2094900523900219725) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
-
-### Океанская песочница от первого лица под дождём
-
-[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="Океанская песочница от первого лица под дождём"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай 3D-песочницу океана от первого лица с волнами, каплями дождя и атмосферным освещением. Дай зрителю исследовать воду через камеру с эффектом присутствия.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [Исходная публикация](https://x.com/TimJayas/status/2094900247000654222) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="floating-voxel-island-2094899802588713418"></a>
-
-### Парящий воксельный остров
-
-[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="Парящий воксельный остров"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай парящий воксельный остров с отчётливыми слоями ландшафта, растительностью, водой, строениями, фоновым движением и камерой для кругового осмотра всей сцены.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/floating-voxel-island-2094899802588713418) · [Исходная публикация](https://x.com/loktar00/status/2094899802588713418) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
-
-### Живое воксельное средневековое королевство
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="Живое воксельное средневековое королевство"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай большое воксельное средневековое королевство с тысячами солдат, работающими жителями, осадными механизмами, разрушаемыми постройками и драконом, способным изменить ход битвы.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [Исходная публикация](https://x.com/knowixbuilds/status/2094899477626720403) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
-
-### Процесс создания текстурированного 3D-ассета
-
-[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="Процесс создания текстурированного 3D-ассета"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Преврати референс в аккуратный 3D-ассет, исправь нормали и материалы в Blender, затем создай готовые к использованию текстуры в Substance Painter.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [Исходная публикация](https://x.com/MrCollison/status/2094896750234378508) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
-
-### Три небольшие физические мини-игры
-
-[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="Три небольшие физические мини-игры"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай три качественные мини-игры: полосу препятствий для липкого шарика, речной сёрфинг с капибарой и уклонение от пельменей на конвейере. У каждой должны быть понятное управление, очки и условие проигрыша.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [Исходная публикация](https://x.com/atomicagent_io/status/2094895071304839400) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
-
-### Картинговые гонки AAA-уровня на Three.js
-
-[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · Игры
-
-Ремикс работы: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Картинговые гонки AAA-уровня на Three.js"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай картинговую игру AAA-уровня на Three.js с отточенным вождением, выразительными трассами, соперниками, предметами, интерфейсом, звуком и полноценным игровым циклом гонки.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [Исходная публикация](https://x.com/bridgemindai/status/2094894312370692443) · [Исходный код](https://github.com/bridge-mind/turbo-kart-rush) · [Демо](https://bridge-mind.github.io/turbo-kart-rush/) · [Назад к примерам](#all-prompts)
 
 ---
 

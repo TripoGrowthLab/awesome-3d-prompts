@@ -28,6 +28,12 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [雨中第一人稱海洋沙盒](#rainy-first-person-ocean-sandbox-2094900247000654222)
+- [懸浮體素島嶼](#floating-voxel-island-2094899802588713418)
+- [鮮活的體素中世紀王國](#living-voxel-medieval-kingdom-2094899477626720403)
+- [帶紋理的 3D 資產生產流程](#textured-3d-asset-production-workflow-2094896750234378508)
+- [三款緊湊物理小遊戲](#three-compact-physics-game-concepts-2094895071304839400)
+- [Three.js AAA 卡丁車競速遊戲](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 - [一次生成的 Three.js 機場模擬](#one-shot-three-js-airport-simulation-2094893572617044439)
 - [懸浮日本寶塔城市](#floating-japanese-pagoda-city-2094886088963690607)
 - [Three.js 空客 H145 直升機](#airbus-h145-in-three-js-2094882571083735351)
@@ -72,14 +78,130 @@
 - [用於可探索日本郊區街道的 Three.js 提示詞，採用手繪動漫風格](#explorable-anime-style-japanese-street-2080834581247435102)
 - [使用 Kimi K3 建置的瀏覽器版《反恐精英》風格遊戲](#counter-strike-inspired-browser-game-2080821527365218759)
 - [用於 Kimi K3 的一次性捉迷藏遊戲提示](#one-shot-hide-and-seek-game-2080806989169307780)
-- [Claude Fable 5 的程式化 Three.js 武器建模任務](#procedural-three-js-weapon-modeling-task-2080759312008503365)
-- [三個單檔案 HTML Three.js 程式化槍械提示](#procedural-guns-in-single-file-three-js-2080757148078768504)
-- [用於可變換 Three.js 城市街區場景的 Kimi K3 提示詞](#transforming-three-js-city-block-scene-2080724552422924382)
-- [Claude Opus 5 中用於製作達·芬奇撲翼機的 Three.js 提示詞](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
-- [帶有獨特角色和多關卡機制的憤怒的小鳥風格復刻遊戲](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
-- [用於比較 Claude Fable 5 和 Kimi K3 的3D足球場建置任務](#3d-soccer-stadium-2080473039834333229)
 
 </details>
+<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
+
+### 雨中第一人稱海洋沙盒
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="雨中第一人稱海洋沙盒"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置第一人稱 3D 海洋沙盒，加入波浪、雨滴和環境光，讓使用者從沉浸式鏡頭探索水面。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [查看原文](https://x.com/TimJayas/status/2094900247000654222) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="floating-voxel-island-2094899802588713418"></a>
+
+### 懸浮體素島嶼
+
+[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="懸浮體素島嶼"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置一座懸浮體素島嶼，包含清晰地形層級、植被、水體、建築、環境動態和可環繞檢視全景的鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/floating-voxel-island-2094899802588713418) · [查看原文](https://x.com/loktar00/status/2094899802588713418) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
+
+### 鮮活的體素中世紀王國
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="鮮活的體素中世紀王國"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置一個大型體素中世紀王國，包含數千士兵、會工作的村民、攻城系統、可破壞建築，以及能改變戰局的巨龍。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [查看原文](https://x.com/knowixbuilds/status/2094899477626720403) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
+
+### 帶紋理的 3D 資產生產流程
+
+[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="帶紋理的 3D 資產生產流程"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把參考圖轉成乾淨的 3D 資產，在 Blender 中修正法線和材質，再用 Substance Painter 製作可用於生產的紋理。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [查看原文](https://x.com/MrCollison/status/2094896750234378508) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
+
+### 三款緊湊物理小遊戲
+
+[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="三款緊湊物理小遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置三款精緻小遊戲：黏性球障礙挑戰、水豚衝浪和餃子傳送帶躲避。每款都要有清晰輸入、計分與失敗狀態。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [查看原文](https://x.com/atomicagent_io/status/2094895071304839400) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
+
+### Three.js AAA 卡丁車競速遊戲
+
+[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · 遊戲
+
+改編自: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Three.js AAA 卡丁車競速遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Three.js 建置 AAA 質感的卡丁車競速遊戲，包含精細駕駛手感、表現力賽道、對手、道具、UI、音效與完整可玩比賽迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [查看原文](https://x.com/bridgemindai/status/2094894312370692443) · [專案原始碼](https://github.com/bridge-mind/turbo-kart-rush) · [線上展示](https://bridge-mind.github.io/turbo-kart-rush/) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
 
 ### 一次生成的 Three.js 機場模擬
@@ -1117,125 +1239,6 @@ Classic 使用三種程序化變體；匯入模式使用可用的替換資產，
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [查看原文](https://x.com/0x_scalp/status/2080806989169307780) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
-
-### Claude Fable 5 的程式化 Three.js 武器建模任務
-
-[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5 的程式化 Three.js 武器建模任務"></a>
-
-**提示詞**
-
-```text
-The Hype 將 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同的程式化 Three.js 工程任務上進行了比較
-
-每個模型都必須建置：
-• M4 卡賓槍
-• Glock 18C
-• Steyr TMP
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [查看原文](https://x.com/adxtyahq/status/2080759312008503365) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
-
-### 三個單檔案 HTML Three.js 程式化槍械提示
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="三個單檔案 HTML Three.js 程式化槍械提示"></a>
-
-**提示詞**
-
-```text
-我們的測試——3 個提示，單檔案 HTML，@threejs，完全程式化，無資原始檔。每個都帶一個小型開火按鈕（Web Audio 槍聲 + 槍口閃光 + 後坐力 + 拋殼）和一個分解切換，可將槍械炸開成帶標籤的部件並重新組裝：
-
-1. 5.56 M4 卡賓槍——可伸縮槍托、safe·semi·burst 下機匣、帶 r14–r28 面板編號的四面導軌、Aimpoint 紅點、垂直前握把、摺疊兩腳架、A2 消焰器，拆成 10 個部件
-
-2. glock 18c——可選射擊模式的衝鋒手槍、帶開槽的 18c 補償器、"glock 18c / austria 9x19" 滾印、加長 33 發彈匣，拆解為套筒、開槽槍管、復進簧、套筒座、彈匣
-
-3. steyr tmp——帶筋紋的聚合物外殼、帶螺紋槍管、一體式前垂直握把、傾斜的半透明 30 發彈匣
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [查看原文](https://x.com/thehypedotnews/status/2080757148078768504) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
-
-### 用於可變換 Three.js 城市街區場景的 Kimi K3 提示詞
-
-[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="用於可變換 Three.js 城市街區場景的 Kimi K3 提示詞"></a>
-
-**提示詞**
-
-```text
-我給了它一個很狠的 Three.js 提示詞：在一個 HTML 檔案裡，建置一個從 1945 年到 2055 年不斷變化的城市街區，建築、汽車、商店、人群、燈光和 SFX 都會變化。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [查看原文](https://x.com/ggg78g89/status/2080724552422924382) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
-
-### Claude Opus 5 中用於製作達·芬奇撲翼機的 Three.js 提示詞
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="Claude Opus 5 中用於製作達·芬奇撲翼機的 Three.js 提示詞"></a>
-
-**提示詞**
-
-```text
-用 Three.js 製作達·芬奇撲翼機
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [查看原文](https://x.com/HarshithLucky3/status/2080720533277319587) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
-
-### 帶有獨特角色和多關卡機制的憤怒的小鳥風格復刻遊戲
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="帶有獨特角色和多關卡機制的憤怒的小鳥風格復刻遊戲"></a>
-
-**提示詞**
-
-```text
-製作一個《憤怒的小鳥》復刻遊戲，具有獨特小鳥、多個關卡和機制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [查看原文](https://x.com/BuildFastWithAI/status/2080624574883123541) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="3d-soccer-stadium-2080473039834333229"></a>
-
-### 用於比較 Claude Fable 5 和 Kimi K3 的3D足球場建置任務
-
-[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="用於比較 Claude Fable 5 和 Kimi K3 的3D足球場建置任務"></a>
-
-**提示詞**
-
-```text
-有開發者給模型下達了相同任務：“製作一個3D足球場”。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-soccer-stadium-2080473039834333229) · [查看原文](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [返回案例導覽](#all-prompts)
 
 ---
 

@@ -28,6 +28,12 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [インタラクティブ3D粒子衝突型加速器](#gpt-6-astra-2097781208596029936)
+- [リアルタイム3D工場・発射台シミュレーション](#gpt-6-astra-2097730920224534868)
+- [THE LAST GATE：算術ゲート搭載の群衆ランゲーム](#gpt-6-astra-2097678911882809407)
+- [GPT-6 AstraとBlenderで作る、機械アームが猫を追いかけるコメディシーン](#gpt-6-astra-2097675660873605422)
+- [没入感のある3D田園風景サイト](#gpt-6-astra-2097602565110419781)
+- [Backrooms風のBlender VHSシーン](#gpt-6-astra-2097534290112188602)
 - [居心地のよい湿地の湖畔ワールド](#gpt-6-astra-2097343467026289039)
 - [『リーグ・オブ・レジェンド』を再現したブラウザゲーム](#gpt-6-astra-2097336230078013598)
 - [北京・天壇祈年殿 TypeScript + Three.js WebGLプロジェクト](#gpt-6-astra-2097323734504017936)
@@ -72,14 +78,388 @@
 - [スマートフォンで遊べるUnityのラリーゲーム](#mobile-playable-unity-rally-game-2096556692842348826)
 - [トレーディングカードの対戦ループ](#trading-card-battle-game-loop-2096555856204644550)
 - [二重リングのエネルギーコアを操作する3Dビューアー](#interactive-dual-ring-energy-core-2096551010089263181)
-- [エゼキエルの神殿の幻を3Dで](#gpt-6-astra-2096547658164834788)
-- [Blenderで切り替えるキャラクターの表情](#switchable-character-expressions-in-blender-2096525100518453342)
-- [Geometry Nodesで作るループする水面](#looping-water-with-geometry-nodes-2096521798150242631)
-- [ONE PIECEに着想を得た航海ワールド](#one-piece-inspired-sailing-world-2096518775042707700)
-- [自分の部屋をインタラクティブなポートフォリオに](#personal-room-as-an-interactive-portfolio-2096506357868642342)
-- [Three.jsで完成させるパズルのステージ](#complete-three-js-puzzle-level-2096505740643246231)
 
 </details>
+<a id="gpt-6-astra-2097781208596029936"></a>
+
+### インタラクティブ3D粒子衝突型加速器
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-09 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097781208596029936"><img src="../assets/previews/a18f8b64e418e8ede81bf976052f36d15d623077528f0ea7b50c15e0712efe12.webp" width="840" loading="lazy" alt="インタラクティブ3D粒子衝突型加速器"></a>
+
+**プロンプト**
+
+```text
+Three.jsを使い、CERNのLHCとATLAS検出器に着想を得た、詳細でインタラクティブな3D粒子衝突型加速器を構築してください。
+
+3つのビューを作成します。数千個のパーツを個別にアニメーション表示する検出器、逆方向に回転するビームを備えた加速器リング、そして模擬衝突ディスプレイです。
+
+検出器は、大型のエンドキャップホイールやマグネットから個々のセンサーモジュールまで、6段階で展開するようにします。スクロール操作による分解、30秒・60秒・90秒の再生、一時停止、組み立ての逆再生に対応させてください。
+
+システムごとの表示切り替え、コンポーネント数、教育向けの説明、リング周辺をカメラが移動するフライト表示を追加します。
+
+高級感のあるダークなインターフェース、メタリックなマテリアル、控えめなゴールドのアクセント、映画的なライティングを使用してください。各パーツを見分けやすくし、過度な重なりは避けてください。
+
+CERNの公式資料を参照してください。簡略化したジオメトリと模擬イベントであることを明確に表示してください。
+
+オフラインで動作する自己完結型のHTMLファイル1つに加え、持ち運び可能なソースコードとREADMEを納品してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build a detailed, interactive 3D particle collider inspired by CERN’s LHC and the ATLAS detector using Three.js.
+
+Create three views: a detector with thousands of individually animated parts, an accelerator ring with counter-rotating beams, and a synthetic collision display.
+
+Make the detector unfold in six stages - from large end-cap wheels and magnets down to individual sensor modules. Include scroll-controlled disassembly, 30/60/90-second playback, pause, and reverse assembly.
+
+Add per-system visibility switches, component counts, educational descriptions, and a camera flight around the ring.
+
+Use a premium dark interface, metallic materials, subtle gold accents, and cinematic lighting. Keep parts readable and avoid excessive overlap.
+
+Consult official CERN references. Clearly label simplified geometry and synthetic events.
+
+Deliver one self-contained HTML file that works offline, plus portable source code and a README.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097781208596029936) · [元の投稿](https://x.com/k1rallik/status/2097781208596029936) · [ソースコード](https://github.com/bubblik525/collider) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097730920224534868"></a>
+
+### リアルタイム3D工場・発射台シミュレーション
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-09 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097730920224534868"><img src="../assets/previews/7cfa2b6ec9f0c95d88a8c5b8fb05cd2c488cb300835870ee9f60df63d003b190.webp" width="840" loading="lazy" alt="リアルタイム3D工場・発射台シミュレーション"></a>
+
+**プロンプト**
+
+```text
+@AirsupHQのリーン生産に関する書籍を調査し、10基の発射台を備えた工場のコンセプトを立案して、リアルタイム3Dシミュレーションを構築する。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+study @AirsupHQ lean production books, and develop a concept for a factory with 10 launch pads, and build a live 3D simulation.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097730920224534868) · [元の投稿](https://x.com/konstantinsaifo/status/2097730920224534868) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097678911882809407"></a>
+
+### THE LAST GATE：算術ゲート搭載の群衆ランゲーム
+
+[MSB](https://x.com/KeWai386772) · 2026-09-09 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097678911882809407"><img src="../assets/previews/13eb405ac06a98f4ec14bc025106c72e3615593076032f525653cd6e8d7ed312.webp" width="840" loading="lazy" alt="THE LAST GATE：算術ゲート搭載の群衆ランゲーム"></a>
+
+**プロンプト**
+
+```text
+THE LAST GATEを構築 THE LAST GATEを構築：算術ゲートを備えたプレイ可能な縦画面の群衆ランゲーム。画面に表示される隊列の規模は実際の人数と必ず一致させ、障害物による損失が実際の結果につながるようにし、ゴールでの遭遇を人数によって決定します。3つの短いルート、即時リトライ、シード付き入力リプレイを実装し、勝利を捏造してはなりません。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+构建 THE LAST GATE 构建 THE LAST GATE：一款带算术门的可玩竖屏人群跑酷。可见队伍规模必须与实际人数一致，实现有实际后果的障碍损失，以及由人数决定的终点遭遇。交付三条短路线、即时重试与带种子的输入回放，不得编造胜利。
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097678911882809407) · [元の投稿](https://x.com/KeWai386772/status/2097678911882809407) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097675660873605422"></a>
+
+### GPT-6 AstraとBlenderで作る、機械アームが猫を追いかけるコメディシーン
+
+[探路AI](https://x.com/TanLuAI) · 2026-09-09 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097675660873605422"><img src="../assets/previews/8b9b35ca466d63f88f32ecb976dd2450964ba0411a7ab7b01c2d51454cbe3ef7.webp" width="840" loading="lazy" alt="GPT-6 AstraとBlenderで作る、機械アームが猫を追いかけるコメディシーン"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/15d648ed-2f2a-49a7-8242-ba6bfa1edfd4.jpg) · [2](https://media.tripogrowth.space/media/ba0d8ab8-ab50-4c6a-8eda-26add98c9660.jpg) · [3](https://media.tripogrowth.space/media/7a8e646c-6328-41bb-b909-541205827891.jpg) · [4](https://media.tripogrowth.space/media/c644a55a-aab7-444d-abd9-69974aa469e3.jpg) · [5](https://pbs.twimg.com/media/HRxwtztaIAAPHTL.jpg) · [6](https://pbs.twimg.com/media/HRxwtztaYAAPo9F.jpg) · [7](https://pbs.twimg.com/media/HRxwzQYbYAATOON.jpg) · [8](https://pbs.twimg.com/media/HRxwzQabsAAPLI5.jpg)
+
+**プロンプト**
+
+```text
+10秒、16:9の横長、実写映画のような質感で、動物コメディの短編映像を生成する
+家庭用ロボットアームが茶白猫を追いかけてつかもうとする。猫は身軽にかわし、いたずらっぽく収納ボックスの後ろへ回り込む。ロボットアームのグリッパーが箱の後ろから見えているオレンジ色のしっぽをつかみ、持ち上げると、それが猫のしっぽ型玩具だと判明する。本物の猫はすでにロボットアームのベースのそばへ回り込み、前足を伸ばしてベースの赤い停止ボタンを押す。ロボットアームが停止し、猫は楽しそうに満足げな表情を見せる。
+冒頭から追跡と捕獲の動きを始め、中盤は遮蔽によって suspense を保ち、玩具を持ち上げることでどんでん返しを作る。最後は猫が自分で電源を切り、二つ目の笑いどころを完成させる。全編、現場音のみを生成し、背景音楽、BGM、ナレーション、台詞は生成しない。
+【アセットアンカーと参照ルール】
+参照動画cat_robot_previsのカメラワーク、タイミング、動線、空間関係を基準にする。
+参照動画に登場するオレンジ色の立方体ボディ、白い足、耳としっぽの付いた幾何学的なボディは、図1の実在する茶白猫に対応させる。
+クリームホワイトのリンク、オレンジ色の関節、三指グリッパー、赤いボタン付きのベースは、図2のロボットアームに対応させる。
+オレンジ色の直立したしっぽ、グレーの接続ロッド、グリーンのベースで構成された小型のボディは、図3の猫のしっぽ型玩具に対応させる。玩具と猫は別々のオブジェクトとして扱う。
+中央の白いボックスは実物のクリームホワイトの収納ボックスに対応させ、位置、サイズ、遮蔽効果を維持する。室内環境は図4を参照する。
+参照動画のカットのタイミング、カメラ位置、ショットサイズ、猫の移動ルート、グリッパーの追跡経路、箱の後ろでの遮蔽、玩具を持ち上げる経路、猫の前足とボタンの接触関係に沿って生成する。
+猫の幾何学的な平行移動は動線を示すためだけに使用し、自然な横跳び、走行、方向転換、身をかがめる動き、振り向き、前足を上げる動作として再生成する。元の位置と時間の範囲内で、細かな表情や身体の動きを追加してよいが、主要な出来事と空間関係は変更しない。白モデル、仮置き用のジオメトリ、補助マーカーはすべて削除する。
+図1image：猫の外見はこれだけを使用する。
+同じ若い成猫の茶白短毛猫。頭頂部と背中はオレンジ色のトラ柄、口元と胸元は白、四本の足先も白。琥珀色の目、ピンクの鼻、オレンジ色のリング模様のしっぽと淡い色のしっぽ先。実際の身体比率、毛色の分布、顔立ち、しっぽの長さを維持する。毛並みは繊細で、ひげは自然にし、服は着せない。
+図2image：ロボットアームの外見はこれだけを使用する。
+クリームホワイトの外装、オレンジ色の関節カバー、ダークグレーの接続部品、三指のソフトグリッパー、手首の琥珀色のステータスランプ。背が低く幅広のベースに取り付ける。ロボットアームのベースにある赤い停止ボタンは、猫が床に立ったまま前足で届く位置にする。ベースは固定し、ロボットアームは関節を回転させて追跡と捕獲を行う。
+図3image：猫のしっぽ型玩具の外見はこれだけを使用する。
+オレンジ色のリング模様が入った毛足のあるしっぽ、淡い色のしっぽ先、その下に接続された金属製スプリングとミントグリーンの起き上がりこぼし型ベース。ベースには白い魚の骨の模様を入れる。グリッパーが毛足のあるしっぽをつかんだ後は、スプリングとベースも一体の玩具として一緒に持ち上がり、接続関係が常に明確に見えるようにする。
+図4image：シーンの外見。
+図4を参考に、温かみのあるリビングルーム、明るい木の床、大きな窓からの自然光、淡い色のソファ、木製家具、観葉植物、ペットとの暮らしが感じられるディテールを再現する。すべての動作は室内の床面で行う。参照画像の撮影スタジオ背景やグリッド状のレイアウトは完成映像に含めない。
+【ビジュアルスタイルとシーン】
+リアルなペット短編と洗練された家庭用ロボット広告を融合した撮影の質感。自然光、リアルなマテリアルを用い、コメディは行動とテンポから生み出す。
+広々とした住宅のリビングルーム。明るいオーク材の床には繊細な木目と柔らかな反射を入れる。左側の掃き出し窓から暖かな日差しが差し込み、薄手のカーテンが床に柔らかな光と影を落とす。猫の毛の輪郭とロボットアームの外装には自然なリムライトが入る。
+背景にはライトグレーのソファ、クッション、小さなコーヒーテーブル、ラグ、暖色のフロアランプ、収納棚を置く。窓辺には観葉植物、側面には猫用ベッドとキャットタワーを配置する。ラグは奥に置き、前景のアクションエリアは途切れのない開けた木の床にする。
+中央よりやや奥に、淡いオレンジ色の取っ手が付いたクリームホワイトの角丸収納ボックスを置く。箱で、身をかがめた猫と玩具のベースが隠れるようにし、左右と後方にはつながった移動ルートを残す。ロボットアームは箱の右側に配置し、赤いボタンを猫が最後に到達する方向へ向ける。
+カメラは猫の目線に近い高さにし、被写体を明瞭に捉え、背景は適度にぼかす。ローアングルで、グリッパーが下から急に迫る意外性、猫の軽やかな動き、箱の後ろで明かされる展開のレイヤー感を強調する。すべての接触に自然な影と力のかかり方を反映させる。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+生成一段 10秒、16:9横屏、真实实拍电影质感的动物喜剧短片
+家庭机械臂追抓橘白猫，猫灵巧闪开，调皮地绕到收纳箱后。机械爪夹住箱后露出的橘色尾巴，提起来才发现是一件猫尾形玩具。真正的猫已绕到机械臂底座旁，伸爪按下机械臂底座的红色关闭按钮。机械臂停机，猫表现出开心、满足的情绪。
+开场直接发生追抓动作，中间通过遮挡保留悬念，提起玩具形成反转，最后猫主动关机完成第二个笑点。全程仅生成现场音效，不生成背景音乐、BGM、旁白或对白。
+【资产锚点与参考规则】
+参考视频cat_robot_previs：运镜、时间、运动轨迹与空间关系参考。
+参考视频中橘色方块身体、白色脚部、带耳朵和尾巴的几何主体，对应图1的真实橘白猫。
+奶油白连杆、橙色关节、三指抓手，以及带红色按钮的底座，对应图2的机械臂。
+橘色竖直尾巴、灰色连接杆和绿色底座组成的小型主体，对应图3的猫尾形玩具。玩具与猫是两个独立对象。
+中央白色箱体对应真实奶油白收纳箱，保留箱体的位置、体积和遮挡作用。室内环境参考图4。
+按照参考视频的切镜时间、机位、景别、猫的移动路线、机械爪追踪路径、箱后遮挡、玩具提起路径以及猫爪与按钮的接触关系生成。
+猫的几何平移仅用于标明运动路线，重新生成自然的侧跳、跑动、转向、蹲伏、转头和抬爪动作。允许在原位置和时间范围内增加细微表情与身体动作，不改变关键事件和空间关系。移除全部白模、几何占位形状和辅助标记。
+图1image：唯一猫咪外观。
+同一只年轻成年橘白短毛猫，橘色虎斑头顶与背部、白色口鼻和胸口、四只白爪，琥珀色眼睛、粉色鼻头，橘色环纹尾巴与浅色尾尖。保持真实身体比例、毛色分布、面部特征和尾巴长度。毛发细腻，胡须自然，无服饰。
+图2image：唯一机械臂外观。
+奶油白外壳、橙色关节盖、深灰连接件、三指软质抓手、腕部琥珀色状态灯，安装在低矮宽底座上。机械臂底座的红色关闭按钮，猫站在地面就能触及。底座固定，机械臂通过关节转动完成追抓。
+图3image：唯一猫尾形玩具外观。
+橘色环纹绒毛尾巴，浅色尾尖，下方连接金属弹簧和薄荷绿色不倒翁底座，底座带白色鱼骨图案。机械爪抓住绒毛尾巴后，弹簧和底座作为完整玩具一起被提起，连接关系始终清楚。
+图4image：场景外观。
+参考图4的温暖客厅、浅木地板、大窗日光、浅色沙发、木质家具、绿植与宠物生活细节。动作全部发生在室内地面。参考图的摄影棚背景、宫格排版不进入成片。
+【视觉风格与场景】
+真实宠物短片与精致家用机器人广告的摄影质感，自然光照、真实材质，喜剧来自行为与节奏。
+宽敞住宅客厅，浅橡木地板具有细腻木纹和柔和反光。左侧落地窗透入温暖日光，薄纱窗帘在地面投下柔软光影，猫毛边缘与机械臂外壳形成自然轮廓光。
+背景是浅灰沙发、抱枕、小茶几、地毯、暖色落地灯与收纳柜，窗边有绿植，侧面有猫窝和猫抓架。地毯位于远处，前景活动区保持连续开阔木地板。
+中央偏后放置奶油白圆角收纳箱，带浅橙色把手。箱体能遮住蹲伏的猫和玩具底座，左右及后方留有连通路线。机械臂位于箱体右侧，红按钮面向猫最终到达的位置。
+摄影机接近猫眼高度，主体清楚，背景适度虚化。低机位突出机械爪下抓的突然性、猫的轻巧动作和箱后揭晓的层次。所有接触都有自然阴影与受力反馈。
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097675660873605422) · [元の投稿](https://x.com/TanLuAI/status/2097675660873605422) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097602565110419781"></a>
+
+### 没入感のある3D田園風景サイト
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-09 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097602565110419781"><img src="../assets/previews/31f5d8e253839bddb73acb0852b2a4c85fcb004f27a83dce944811b890cb78a0.webp" width="840" loading="lazy" alt="没入感のある3D田園風景サイト"></a>
+
+**プロンプト**
+
+```text
+ブラウザで動作する、没入感のある3D田園風景サイトを構築してください。テーマは次のとおりです：
+「緑の海／田園を渡る風」
+コードを完成させ、必要な依存関係をインストールして、プレビューを起動してください。提案や実装計画だけで終わらせないでください。
+
+1. ビジュアル方針
+
+全体の雰囲気は、アートディレクションに一貫性のあるインタラクティブな風景サイトのように、自然で穏やか、洗練されたものにしてください。
+
+シーンには次の要素を含めてください：
+
+前景：細く見分けやすい葉、曲がった茎、垂れ下がった稲穂をいくつか配置してください。
+
+中景：遠くまで続く水田を、十分な密度と自然な間隔の変化を持たせて表現してください。
+背景：不規則な樹木のシルエット、重なり合う低い丘、控えめな空気遠近法を配置してください。
+空：柔らかなグレーブルーの色調、雲の微妙な変化、地平線での自然な色の移り変わりを表現してください。
+デフォルトのカメラは稲穂より少し高い位置に置き、遠くの丘に向かって水田を見渡すようにしてください。
+フレームの約3分の1を空が占め、水田が構図の中心となるようにしてください。
+植生には主に深緑、オリーブグリーン、黄緑を使用してください。蛍光色のような緑は避けてください。
+稲の高さ、向き、曲がり具合、色に自然なばらつきを持たせてください。
+
+2. アニメーション要件
+風は、水田を横方向に伝わる連続した波として見えるようにしてください：
+根元はほぼ固定したまま、葉先や稲穂に向かうほど動きを段階的に強くしてください。
+同じエリアの植物はまとまりを持って動かしつつ、個体ごとの違いも残してください。
+
+ゆっくりとした大規模な風の波に、局所的な小さな揺らぎを組み合わせてください。
+
+すべての植物が完全に同期して揺れないようにしてください。植物全体を平行移動させたり、葉をちらつかせたりしないでください。
+
+デフォルトでは、長時間見ていても心地よい穏やかな風にしてください。
+3. インタラクション要件
+シーンに実際に作用する、シンプルな操作系を用意してください：
+風速スライダー：風のアニメーションの強さと速度を滑らかに調整できるようにしてください。
+ライティングモード：Morning、Afternoon、Golden Hourを用意してください。空、光の方向、色温度、フォグの色を連動して変化させてください。
+
+ビュー モード：Open FieldとAmong the Riceを用意し、カメラを滑らかに切り替えてください。
+
+一時停止／再開：環境アニメーションを一時停止・再開できるようにしてください。
+
+マウスの動きにごく subtle なカメラ反応を加えても構いませんが、めまいを起こすような動きにはしないでください。
+デフォルトでカメラを大きな角度まで連続回転させないでください。
+4. インターフェースデザイン
+全画面のシーン上にインターフェースを重ねて表示してください：
+左上：小さなVERDANTのワードマーク。
+
+左下：セリフ体の見出し「緑の海」。
+その下に、小さめのサブタイトル「何もしなくていい。風のそよぎを感じて。」を配置してください。
+右下：コンパクトで半透明なダークグリーンのコントロールパネル。
+
+テキストは読みやすく、余白を十分に取り、操作系が主な風景を遮らないようにしてください。
+
+狭い画面でも、コントロール同士が重ならず操作できるようにしてください。
+
+5. 技術要件とパフォーマンス
+Three.jsを使用してください。既存のプロジェクトがある場合は、そのビルド環境を維持してください。
+大量の植生を処理するため、インスタンシングとGPU頂点アニメーションを使用してください。
+植物ごとに個別の描画オブジェクトを作成したり、毎フレームすべての植物をCPUで更新したりしないでください。
+遠距離では植生のディテールを減らし、適切なピクセル比の上限を設定してください。
+アセットの読み込みを安定させるため、プロシージャルなジオメトリとマテリアルを優先してください。
+シーンはリアルタイムで描画してください。メインシーンとして風景の静止画や動画を全面的に使用しないでください。
+モデル名や比較用ラベルはポストプロダクションで追加します。シーンには含めないでください。
+6. 完了条件
+実装後、利用可能なブラウザツールを使って次の項目を確認してください：
+初期ビューが正しく描画され、明らかなコンソールエラーがないこと。
+
+すべてのコントロールが実際にシーンへ作用すること。
+
+前景・中景・背景の奥行きとレイヤーが見分けられること。
+稲が単純な直立した緑の線以上の表現になっていること。
+風の動きが連続的かつ自然で、明らかに均一な反復になっていないこと。
+カメラの切り替えが滑らかで、狭い画面でもインターフェースが使用できること。
+特定の確認を実行できない場合は、そのことを明確に記載してください。
+最後に、起動手順と、実際に実装した機能の概要を提示してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build an immersive 3D rice-field website that runs in the browser, with the theme:
+“A sea of green / Wind through the rice fields.”
+Complete the code, install the necessary dependencies, and launch a preview. Do not stop at a proposal or implementation plan.
+
+1. Visual Direction
+
+The overall atmosphere should feel natural, peaceful, and refined, like an interactive landscape website with cohesive art direction.
+
+The scene should include:
+
+Foreground: clearly distinguishable slender leaves, curved stems, and a few drooping rice panicles.
+
+Midground: a continuous rice field extending into the distance, with sufficient density and natural variations in spacing.
+Background: an irregular tree line, layered low hills, and subtle atmospheric perspective.
+Sky: soft gray-blue tones, subtle cloud variation, and a natural transition at the horizon.
+Position the default camera slightly above the rice panicles, looking across the field toward the distant hills.
+The sky should occupy approximately one-third of the frame, with the rice field dominating the composition.
+Use primarily deep green, olive green, and yellow-green vegetation colors. Avoid fluorescent green.
+Vary the height, orientation, curvature, and color of the rice plants naturally.
+
+2. Animation Requirements
+Wind must appear as continuous waves traveling laterally across the field:
+Keep the roots mostly fixed, with progressively stronger movement toward the leaf tips and panicles.
+Plants in the same area should move coherently while retaining individual variation.
+
+Combine slow, large-scale wind waves with subtle local disturbances.
+
+Avoid making all plants sway in perfect synchronization. Avoid translating entire plants or causing leaves to flicker.
+
+Use a gentle default breeze that remains comfortable to watch over time.
+3. Interaction Requirements
+Provide simple controls that genuinely affect the scene:
+Wind-speed slider: smoothly adjust the strength and speed of the wind animation.
+Lighting modes: Morning, Afternoon, and Golden Hour. Coordinate changes to the sky, light direction, color temperature, and fog color.
+
+View modes: Open Field and Among the Rice, with smooth camera transitions.
+
+Pause/Resume: pause and resume the environmental animation.
+
+Mouse movement may produce a very subtle camera response, but it should not cause dizziness.
+Do not continuously rotate the camera through large angles by default.
+4. Interface Design
+Use a full-screen scene with an interface overlaid on top:
+Top left: a small VERDANT wordmark.
+
+Bottom left: the serif heading “A sea of green.”
+Below it, the smaller subtitle “Nothing to do. Just follow the breeze.”
+Bottom right: a compact, semi-transparent dark-green control panel.
+
+Keep text legible, provide generous spacing, and avoid obstructing the main landscape with controls.
+
+Controls must remain usable on narrow screens without overlapping.
+
+5. Technology and Performance
+Use Three.js. If an existing project is available, retain its build environment.
+Use instancing and GPU vertex animation to handle large amounts of vegetation.
+Avoid creating a separate draw object for every plant or updating every plant on the CPU each frame.
+Reduce vegetation detail at greater distances and apply a reasonable pixel-ratio cap.
+Prefer procedural geometry and materials to ensure reliable asset loading.
+The scene must render in real time. Do not use a full landscape image or video as the main scene.
+Model names and comparison labels will be added in post-production; do not include them in the scene.
+6. Completion Criteria
+After implementation, use the available browser tools to verify that:
+The initial view renders correctly, with no obvious console errors.
+
+Every control genuinely affects the scene.
+
+The foreground, midground, and background have distinguishable depth and layering.
+The rice plants are more than simple upright green lines.
+Wind movement is continuous and natural, without obvious uniform repetition.
+Camera transitions are smooth, and the interface remains usable on narrow screens.
+If you cannot perform a particular check, state that clearly.
+Finally, provide startup instructions and a summary of the features actually implemented.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097602565110419781) · [元の投稿](https://x.com/YouWareAI/status/2097602565110419781) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2097534290112188602"></a>
+
+### Backrooms風のBlender VHSシーン
+
+[CHRIS FIRST](https://x.com/chrisfirst) · 2026-09-09 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097534290112188602"><img src="../assets/previews/03f4bb0064583336ffb2e03a83658e6424708d427b2a253a067be5dc3146e8d7.webp" width="840" loading="lazy" alt="Backrooms風のBlender VHSシーン"></a>
+
+**プロンプト**
+
+```text
+Blenderで、誰かがBackroomsを歩き回る様子を一人称視点のVHSテープ録画のように見せるシーンをレンダリングしてください。フォトリアルな質感にし、カメラはパニック状態の手持ち撮影のように揺らしてください。周囲を見回した後、Backroomsの迷路を走り始める展開にします。広く開けた部屋もあれば、果てしなく続く廊下もある構成にしてください。極度のパニック感を演出し、尺は30秒にしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Render a scene in Blender that looks like a first person VHS tape recording of someone walking through the Backrooms. It should feel photorealistic and the motion handheld panic. They should be looking around then begin running through the maze that is the Backrooms. Some rooms big and open and others with endless hallways. Absolute panic. 30 seconds long.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2097534290112188602) · [元の投稿](https://x.com/chrisfirst/status/2097534290112188602) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2097343467026289039"></a>
 
 ### 居心地のよい湿地の湖畔ワールド
@@ -2040,133 +2420,6 @@ Blenderでエネルギーコア、2つのリング、金属製の台座をモデ
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [元の投稿](https://x.com/oneruofeng/status/2096551010089263181) · [ソースコード](https://github.com/wangruofeng/orbital-core-showcase) · [デモ](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096547658164834788"></a>
-
-### エゼキエルの神殿の幻を3Dで
-
-[KrixAi](https://x.com/KrixOnok) · 2026-09-06 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096547658164834788"><img src="../assets/previews/a28a8973d330a23a598fe74a2769dfa1a40ecbe44a58404490ecb631965f12c8.webp" width="840" loading="lazy" alt="エゼキエルの神殿の幻を3Dで"></a>
-
-**プロンプト**
-
-```text
-エゼキエルが見た神殿の幻は、3Dではどのように見えるでしょうか？
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-What would Ezekiel’s temple vision look like in 3D?
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2096547658164834788) · [元の投稿](https://x.com/KrixOnok/status/2096547658164834788) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="switchable-character-expressions-in-blender-2096525100518453342"></a>
-
-### Blenderで切り替えるキャラクターの表情
-
-[Nano(ナノ)](https://x.com/Dstudio_ai) · 2026-09-06 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342"><img src="../assets/previews/c635aa09fffc74c680ea08efe0222e194588a88a07b182fd2b0bd5cf71db61ff.webp" width="840" loading="lazy" alt="Blenderで切り替えるキャラクターの表情"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-リギング前に、Tripoキャラクターの表情差分をBlenderで用意してください。メッシュの位置をそろえ、使用していない差分は頭の内側に縮小して格納し、表情を段階的に切り替えてください。滑らかなブレンドやVRMへの対応をうたわないでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/switchable-character-expressions-in-blender-2096525100518453342) · [元の投稿](https://x.com/Dstudio_ai/status/2096525100518453342) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="looping-water-with-geometry-nodes-2096521798150242631"></a>
-
-### Geometry Nodesで作るループする水面
-
-[黒曜陣](https://x.com/uB95A7tobA17057) · 2026-09-06 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631"><img src="../assets/previews/40854b55a44f8b0c17c7e3b3f9a452fbbcbf44e2aad0993b18eb9c3f362208b9.webp" width="840" loading="lazy" alt="Geometry Nodesで作るループする水面"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ベイクを使わず、BlenderのGeometry Nodesで周期的にループする水面エフェクトを制作してください。ノード構成を編集可能に保ち、完全な流体シミュレーションではなく水面モデルとして説明してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/looping-water-with-geometry-nodes-2096521798150242631) · [元の投稿](https://x.com/uB95A7tobA17057/status/2096521798150242631) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-piece-inspired-sailing-world-2096518775042707700"></a>
-
-### ONE PIECEに着想を得た航海ワールド
-
-[Yash](https://x.com/yash_yk45) · 2026-09-06 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700"><img src="../assets/previews/2d8db7742a5a9a1226f3d8a1ce4fa0a1bd8a7ee16747c9b152fd4a4b62d10b0c.webp" width="840" loading="lazy" alt="ONE PIECEに着想を得た航海ワールド"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blender製の船とThree.jsの海を組み合わせ、プレイ可能な航海ワールドを制作してください。変化する天候、水中探索、航跡、泡、しぶき、動く帆を追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-piece-inspired-sailing-world-2096518775042707700) · [元の投稿](https://x.com/yash_yk45/status/2096518775042707700) · [デモ](https://one-piece-sea-world.vercel.app/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="personal-room-as-an-interactive-portfolio-2096506357868642342"></a>
-
-### 自分の部屋をインタラクティブなポートフォリオに
-
-[Kalan ◂Ⓘ▸](https://x.com/kalanyei) · 2026-09-06 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342"><img src="../assets/previews/ed51daa550355a24657d9fd48358a6710720bbd52f9e29691dc3ed14b7a94eae.webp" width="840" loading="lazy" alt="自分の部屋をインタラクティブなポートフォリオに"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-自分の部屋を、操作して楽しめる自己紹介サイトにしてください。Blenderでシーンを制作してベイクし、コーヒーの湯気、Matrix風のアニメーション、控えめなシェーダーエフェクトを追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/personal-room-as-an-interactive-portfolio-2096506357868642342) · [元の投稿](https://x.com/kalanyei/status/2096506357868642342) · [デモ](https://room.kalan.dev/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="complete-three-js-puzzle-level-2096505740643246231"></a>
-
-### Three.jsで完成させるパズルのステージ
-
-[Steve的花园儿](https://x.com/TvWoo) · 2026-09-06 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/complete-three-js-puzzle-level-2096505740643246231"><img src="../assets/previews/fdaa107c09ebf23bc2dfa4900cbff525b02c8d36df5f883fc2423081bf14581c.webp" width="840" loading="lazy" alt="Three.jsで完成させるパズルのステージ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-プレイに必要な仕組みを含めて、3DパズルゲームのステージをThree.jsで完成させてください。ステージと操作が動作してから、提供された音声を組み込んでください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/complete-three-js-puzzle-level-2096505740643246231) · [元の投稿](https://x.com/TvWoo/status/2096505740643246231) · [作例一覧に戻る](#all-prompts)
 
 ---
 

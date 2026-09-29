@@ -28,6 +28,12 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [雨の海を一人称で探索するサンドボックス](#rainy-first-person-ocean-sandbox-2094900247000654222)
+- [空に浮かぶボクセル島](#floating-voxel-island-2094899802588713418)
+- [人々が暮らすボクセル中世王国](#living-voxel-medieval-kingdom-2094899477626720403)
+- [テクスチャ付き 3D アセットの制作手順](#textured-3d-asset-production-workflow-2094896750234378508)
+- [物理を使った 3 つのミニゲーム案](#three-compact-physics-game-concepts-2094895071304839400)
+- [Three.js で作る AAA 品質のカートレース](#aaa-kart-racing-game-in-three-js-2094894312370692443)
 - [一度で作る Three.js 空港シミュレーション](#one-shot-three-js-airport-simulation-2094893572617044439)
 - [五重塔を中心に浮かぶ和風都市](#floating-japanese-pagoda-city-2094886088963690607)
 - [Three.js で作る Airbus H145](#airbus-h145-in-three-js-2094882571083735351)
@@ -72,14 +78,130 @@
 - [手描きアニメ風の日本の住宅街を探索する Three.js プロンプト](#explorable-anime-style-japanese-street-2080834581247435102)
 - [Kimi K3 で作った Counter-Strike 風ブラウザゲーム](#counter-strike-inspired-browser-game-2080821527365218759)
 - [Kimi K3 で一度に作るかくれんぼゲームのプロンプト](#one-shot-hide-and-seek-game-2080806989169307780)
-- [Claude Fable 5 の手続き型 Three.js 武器モデリング課題](#procedural-three-js-weapon-modeling-task-2080759312008503365)
-- [単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト](#procedural-guns-in-single-file-three-js-2080757148078768504)
-- [街区が時代を超えて変化する Kimi K3 の Three.js プロンプト](#transforming-three-js-city-block-scene-2080724552422924382)
-- [ダ・ヴィンチの羽ばたき機を Three.js で作る Claude Opus 5 プロンプト](#leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587)
-- [個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム](#angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541)
-- [Claude Fable 5 と Kimi K3 を比較した 3D サッカースタジアム制作課題](#3d-soccer-stadium-2080473039834333229)
 
 </details>
+<a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
+
+### 雨の海を一人称で探索するサンドボックス
+
+[Tim Jayas](https://x.com/TimJayas) · 2026-09-01 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222"><img src="../assets/previews/4baeab15a6c47128c92ce8fee83edf4556c79d59b3a409140e35638e38642b95.webp" width="840" loading="lazy" alt="雨の海を一人称で探索するサンドボックス"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+波、雨粒、雰囲気のある照明を備えた、一人称 3D 海洋サンドボックスを作成してください。没入感のあるカメラで水上を探索できるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rainy-first-person-ocean-sandbox-2094900247000654222) · [元の投稿](https://x.com/TimJayas/status/2094900247000654222) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="floating-voxel-island-2094899802588713418"></a>
+
+### 空に浮かぶボクセル島
+
+[Loktar 🇺🇸](https://x.com/loktar00) · 2026-09-01 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/floating-voxel-island-2094899802588713418"><img src="../assets/previews/4698aa8793f879e8e67172e7154a0af5ff80a04224c324a8fb07b8d476574810.webp" width="840" loading="lazy" alt="空に浮かぶボクセル島"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+地形の層が分かる浮遊ボクセル島を作成してください。植物、水、建造物、環境の動きを加え、シーン全体を周回・観察できるカメラを用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floating-voxel-island-2094899802588713418) · [元の投稿](https://x.com/loktar00/status/2094899802588713418) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="living-voxel-medieval-kingdom-2094899477626720403"></a>
+
+### 人々が暮らすボクセル中世王国
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-01 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403"><img src="../assets/previews/2cab73fd783910fc004ec97483d741815da5f7c2df3177c83aae67f2a601e49b.webp" width="840" loading="lazy" alt="人々が暮らすボクセル中世王国"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+何千もの兵士、働く村人、攻城兵器、破壊可能な建造物、戦局を変えるドラゴンを備えた大規模なボクセル中世王国を作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-medieval-kingdom-2094899477626720403) · [元の投稿](https://x.com/knowixbuilds/status/2094899477626720403) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="textured-3d-asset-production-workflow-2094896750234378508"></a>
+
+### テクスチャ付き 3D アセットの制作手順
+
+[Matt](https://x.com/MrCollison) · 2026-09-01 · Claude Fable 5.1 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508"><img src="../assets/previews/a03456d9de3b7f6a91fdcc5d06ee6027d114213c1708a06eaef45912c7b7971d.webp" width="840" loading="lazy" alt="テクスチャ付き 3D アセットの制作手順"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+参考画像から整った 3D アセットを作り、Blender で法線とマテリアルを修正してから、Substance Painter で実制作に使えるテクスチャを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/textured-3d-asset-production-workflow-2094896750234378508) · [元の投稿](https://x.com/MrCollison/status/2094896750234378508) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="three-compact-physics-game-concepts-2094895071304839400"></a>
+
+### 物理を使った 3 つのミニゲーム案
+
+[Atomic Agent](https://x.com/atomicagent_io) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/three-compact-physics-game-concepts-2094895071304839400"><img src="../assets/previews/6b49f2664c9d4f035ca44da045da6f0d0c221c0a613d9d8fabccd39935f57d39.webp" width="840" loading="lazy" alt="物理を使った 3 つのミニゲーム案"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+粘着ボールの障害物チャレンジ、カピバラの川サーフィン、餃子コンベアの回避ゲームという 3 つのミニゲームを磨き上げてください。それぞれに分かりやすい操作、得点、失敗条件を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-compact-physics-game-concepts-2094895071304839400) · [元の投稿](https://x.com/atomicagent_io/status/2094895071304839400) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="aaa-kart-racing-game-in-three-js-2094894312370692443"></a>
+
+### Three.js で作る AAA 品質のカートレース
+
+[Jared](https://growthengineer.space/) · 2026-09-01 · Claude Fable 5.1 · ゲーム
+
+リミックス元: [BridgeMind](https://x.com/bridgemindai/status/2094894312370692443)
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443"><img src="../assets/previews/2031348e7646736e7319f5ae71064a1f2164d303e5fa3e8dd67df96283589982.webp" width="840" loading="lazy" alt="Three.js で作る AAA 品質のカートレース"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+洗練された走行、個性的なコース、対戦相手、アイテム、UI、音、最初から最後まで遊べるレースの流れを備えた、AAA 品質の Three.js カートレースを作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aaa-kart-racing-game-in-three-js-2094894312370692443) · [元の投稿](https://x.com/bridgemindai/status/2094894312370692443) · [ソースコード](https://github.com/bridge-mind/turbo-kart-rush) · [デモ](https://bridge-mind.github.io/turbo-kart-rush/) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="one-shot-three-js-airport-simulation-2094893572617044439"></a>
 
 ### 一度で作る Three.js 空港シミュレーション
@@ -1102,125 +1224,6 @@ HTML ファイル一つ。3,700 行超のコード。ビルド工程なし。
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [元の投稿](https://x.com/0x_scalp/status/2080806989169307780) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
-
-### Claude Fable 5 の手続き型 Three.js 武器モデリング課題
-
-[aditya](https://x.com/adxtyahq) · 2026-07-24 · Claude Fable 5 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="Claude Fable 5 の手続き型 Three.js 武器モデリング課題"></a>
-
-**プロンプト**
-
-```text
-The Hype は Claude Opus 5、Fable 5、GPT-5.6 Sol、Kimi K3 に、まったく同じ Three.js 手続き生成の技術課題を与えて比較しました。
-
-各モデルが作るもの：
-• M4 Carbine
-• Glock 18C
-• Steyr TMP
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-three-js-weapon-modeling-task-2080759312008503365) · [元の投稿](https://x.com/adxtyahq/status/2080759312008503365) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="procedural-guns-in-single-file-three-js-2080757148078768504"></a>
-
-### 単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-24 · Kimi K3 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504"><img src="../assets/previews/208c9d1cbbfb2bd2d854fe3bd437569112d9fdf75db94e0d27d825ef7262aaeb.webp" width="840" loading="lazy" alt="単一 HTML で作る 3 種の Three.js 銃モデルのプロンプト"></a>
-
-**プロンプト**
-
-```text
-今回のテスト：3 つのプロンプト、単一 HTML、@threejs、完全な手続き生成、外部アセットなし。それぞれ小さな発砲ボタン（Web Audio の発砲音、マズルフラッシュ、反動、排莢）と分解切り替えを備え、ラベル付き部品に分解してから再組み立てする：
-
-1. 5.56 M4 カービン：伸縮式ストック、safe・semi・burst 表示のロア、r14–r28 の番号付きクアッドレール、Aimpoint レッドドット、垂直フォアグリップ、折りたたみバイポッド、A2 フラッシュハイダー。10 部品に分解。
-
-2. Glock 18C：射撃モードを切り替えられるマシンピストル、18C のポート付きコンペンセーター溝、「glock 18c / austria 9x19」の刻印、33 発の延長マガジン。スライド、ポート付きバレル、リコイルスプリング、フレーム、マガジンに分解。
-
-3. Steyr TMP：リブ付きポリマー外装、ねじ付きバレル、一体型の前方垂直フォアグリップ、傾いた半透明の 30 発マガジン。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-guns-in-single-file-three-js-2080757148078768504) · [元の投稿](https://x.com/thehypedotnews/status/2080757148078768504) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="transforming-three-js-city-block-scene-2080724552422924382"></a>
-
-### 街区が時代を超えて変化する Kimi K3 の Three.js プロンプト
-
-[Ali Haider](https://x.com/ggg78g89) · 2026-07-24 · Kimi K3 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382"><img src="../assets/previews/2ca46fb10275401624b068443571de0e8b133a58c6c47150a3d3575cfd68bc5c.webp" width="840" loading="lazy" alt="街区が時代を超えて変化する Kimi K3 の Three.js プロンプト"></a>
-
-**プロンプト**
-
-```text
-厳しい Three.js のプロンプトを与えました。一つの HTML ファイルで、建物、車、店、人々、照明、効果音を変化させ、1945 年から 2055 年へ変わる街区を作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/transforming-three-js-city-block-scene-2080724552422924382) · [元の投稿](https://x.com/ggg78g89/status/2080724552422924382) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"></a>
-
-### ダ・ヴィンチの羽ばたき機を Three.js で作る Claude Opus 5 プロンプト
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-07-24 · Claude Opus 5 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587"><img src="../assets/previews/a909bb10fbcc3a005388ff9dda05b6b84213d560925c9345772053686e8f10a8.webp" width="840" loading="lazy" alt="ダ・ヴィンチの羽ばたき機を Three.js で作る Claude Opus 5 プロンプト"></a>
-
-**プロンプト**
-
-```text
-Three.js でレオナルド・ダ・ヴィンチの羽ばたき機。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/leonardo-da-vinci-ornithopter-in-three-js-2080720533277319587) · [元の投稿](https://x.com/HarshithLucky3/status/2080720533277319587) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"></a>
-
-### 個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-24 · Claude Fable 5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541"><img src="../assets/previews/29fe4eddd9ac2436c287487eb416d9c1e6e4dfb6bc99752a14156a72a7b2fc1f.webp" width="840" loading="lazy" alt="個性的な鳥と複数ステージを備えた Angry Birds 風ゲーム"></a>
-
-**プロンプト**
-
-```text
-独自の鳥、複数のステージ、ゲームの仕組みを備えた Angry Birds のクローンを作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/angry-birds-style-clone-with-unique-birds-and-multiple-levels-2080624574883123541) · [元の投稿](https://x.com/BuildFastWithAI/status/2080624574883123541) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="3d-soccer-stadium-2080473039834333229"></a>
-
-### Claude Fable 5 と Kimi K3 を比較した 3D サッカースタジアム制作課題
-
-[東大ClaudeCode研究所](https://x.com/ClaudeCode_UT) · 2026-07-24 · Kimi K3 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-soccer-stadium-2080473039834333229"><img src="../assets/previews/1fda4bf0c0505fc4a8abdbc5957b218f8a238d0c484983c8b4a2d1e8f986f738.webp" width="840" loading="lazy" alt="Claude Fable 5 と Kimi K3 を比較した 3D サッカースタジアム制作課題"></a>
-
-**プロンプト**
-
-```text
-開発者は「3D サッカースタジアムを作って」という同じ課題をモデルに与えて比較しました。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-soccer-stadium-2080473039834333229) · [元の投稿](https://x.com/ClaudeCode_UT/status/2080473039834333229) · [作例一覧に戻る](#all-prompts)
 
 ---
 
