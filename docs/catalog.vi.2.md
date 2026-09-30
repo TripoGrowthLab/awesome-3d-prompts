@@ -28,6 +28,16 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Trò chơi đạp xe thời gian thực với bồ nông](#claude-opus-5-5-2103083781490176212)
+- [Lát cam dẻo 3D tương tác](#gpt-6-astra-2103062348168618280)
+- [Xây dựng thành phố đế quốc](#claude-opus-5-5-2103046279253168554)
+- [Codex dạng voxel trong Three.js](#gpt-6-astra-2102956340482289944)
+- [Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực](#gpt-6-astra-2102915300295369208)
+- [Trình mô phỏng làm burger góc nhìn thứ nhất](#gpt-6-astra-2102897258983313712)
+- [Dựng Bugatti Chiron Super Sport bằng Three.js](#claude-opus-5-5-2102828216289566725)
+- [Shader thành phố solarpunk vô tận](#gpt-6-astra-2102826333550133520)
+- [Montage huấn luyện quá trình phát triển của Claude](#claude-opus-5-5-2102788371114246177)
+- [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](#claude-opus-5-5-2102788223835463902)
 - [Bàn cờ 3D tương tác để học các gambit cờ vua](#gpt-6-astra-2102788013902213508)
 - [Hoạt ảnh chu trình nước lập trình liền mạch](#claude-opus-5-5-2102781807179735211)
 - [Lâu đài 3D phong cách châu Âu thời Trung cổ có thể tương tác trong trình duyệt](#gpt-6-astra-2102780850706567390)
@@ -68,18 +78,396 @@
 - [Môi trường 3D chân thực như ảnh hoàn chỉnh](#gpt-6-astra-2101224659861590399)
 - [Thiên hà dựa trên vật lý quỹ đạo thực tế](#gpt-6-astra-2101055500599054437)
 - [Monster Block — 45 giây phá tan thành phố](#monster-block)
-- [Mô hình đồng hồ IWC Schaffhausen 3D tương tác](#gpt-6-astra-2100956517633761447)
-- [ODD ARMS — Game sinh tồn với vũ khí kỳ quặc](#odd-arms)
-- [Tạo một thế giới 3D chân thực như ảnh](#gpt-6-astra-2100844566718926949)
-- [Game xe điện trên không 3D giữa những hòn đảo bay](#gpt-6-astra-2100838090210431302)
-- [Huấn luyện chiến lược xoay bút với bàn tay khéo léo Sharpa](#gpt-6-astra-2100751369619820923)
-- [Tự thiết kế một cơ thể bằng CAD](#gpt-6-astra-2100614534423540102)
-- [Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa](#gpt-6-astra-2100595652703199281)
-- [Tạo game đua xe 3D](#gpt-6-astra-2100526922770026874)
-- [Thêm xích bảo trì vào lan can](#gpt-6-astra-2100519026720231698)
-- [Cảnh lửa trại voxel tương tác với hiệp sĩ](#gpt-6-astra-2100350159540596760)
 
 </details>
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### Trò chơi đạp xe thời gian thực với bồ nông
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Trò chơi đạp xe thời gian thực với bồ nông"></a>
+
+**Prompt**
+
+```text
+Tạo một trò chơi 3D thời gian thực, trong đó một chú bồ nông đạp xe qua thế giới ven biển sống động, với đầy đủ vật lý, sóng biển, câu cá, thời tiết biến đổi, camera điện ảnh, chế độ lái tự động và âm nhạc thích ứng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103083781490176212) · [Bài đăng gốc](https://x.com/code_hiyouga/status/2103083781490176212) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103062348168618280"></a>
+
+### Lát cam dẻo 3D tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="Lát cam dẻo 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo một lát cam dẻo 3D đẹp mắt, có thể tương tác bằng WebGPU. Cung cấp toàn bộ trải nghiệm trong một tệp HTML độc lập duy nhất, với JavaScript và shader WGSL được nhúng.
+
+Đây phải là mô phỏng 3D thời gian thực, không phải video, hình ảnh hay hoạt ảnh lặp.
+
+APPEARANCE
+
+Tạo một lát cam dày hình bán nguyệt với phần tép mọng nước bán trong suốt, tám múi riêng biệt, các màng bên trong mảnh, những bong bóng li ti, một lớp cùi trắng nhạt và vỏ cam mềm.
+
+Tạo vẻ ngoài như kẹo dẻo cao cấp: màu sắc bão hòa, điểm sáng bóng, ánh sáng xuyên qua phần tép, khúc xạ thuyết phục và bóng tiếp xúc mềm. Tránh bloom quá mức, màu bị nhợt hoặc vẻ ngoài như nhựa cứng.
+
+Sử dụng phông nền studio sáng, ấm và giao diện biên tập gọn gàng với nhiều khoảng trắng. Thêm tiêu đề serif in nghiêng cỡ lớn “Citrus Jelly.” Giữ các điều khiển nhỏ gọn và để lát cam luôn hiển thị rõ ràng.
+
+VẬT LÝ VẬT THỂ MỀM
+
+Cảm giác như thạch là yếu tố quan trọng nhất.
+
+- Dùng chuột hoặc ngón tay để nắm bất kỳ phần nào của lát cam.
+- Kéo, nhấc, kéo giãn, xoắn rồi thả nó ra.
+- Biến dạng phải mang tính cục bộ: kéo một mép sẽ làm phần tép gần đó giãn ra, trong khi phần còn lại chuyển động theo một cách tự nhiên.
+- Sau khi thả, lát cam phải rung lắc, vượt quá vị trí cân bằng rồi dần trở lại hình dạng ban đầu.
+- Bao gồm trọng lực, quán tính, lực giảm chấn, va chạm với mặt đất và độ nảy mềm.
+- Duy trì thể tích ở mức gần đúng và ngăn lưới bị sụp hoặc lộn mặt vào trong.
+- Làm phần vỏ cứng hơn phần tép một chút.
+- Các múi bên trong, màng và bong bóng phải biến dạng theo mà không trôi ra ngoài thân lát cam.
+
+Sử dụng bộ giải vật thể mềm thể tích ổn định, chẳng hạn lưới tứ diện với các ràng buộc XPBD. Không mô phỏng độ mềm bằng cách chỉ phóng to, thu nhỏ hoặc xoay toàn bộ đối tượng.
+
+CONTROLS
+
+Bao gồm ba thiết lập màu: Cam, Chanh và Ruby.
+
+Thêm:
+- Thanh trượt Độ cứng.
+- Thanh trượt Lực giảm chấn bên trong.
+- Nút “Đẩy nhẹ”.
+- Nút Đặt lại.
+- Ô chọn Tốc độ 1/4.
+- Ô chọn Hiện lưới.
+- Nút Tạm dừng/tiếp tục.
+
+Hiển thị các thông số trực tiếp nhỏ cho khối lượng, phần trăm thể tích ở trạng thái nghỉ và động năng.
+
+YÊU CẦU KỸ THUẬT
+
+Sử dụng kết xuất WebGPU thực sự với shader WGSL. Tạo toàn bộ hình học và chi tiết hình ảnh theo quy trình, không dùng mô hình hoặc tệp hình ảnh nhập vào.
+
+Tách độc lập việc cập nhật mô phỏng khỏi tốc độ khung hình kết xuất. Hỗ trợ thiết bị máy tính và thiết bị cảm ứng. Hiển thị thông báo dự phòng rõ ràng nếu WebGPU không khả dụng.
+
+Kiểm thử thao tác kéo mạnh, thả liên tiếp, toàn bộ điều khiển và màn hình hẹp. Khắc phục vật lý không ổn định, hình học bị lỗi và hiện tượng bất thường trong hình ảnh trước khi bàn giao tệp HTML hoàn chỉnh.
+
+Kết quả phải mang lại cảm giác như một thí nghiệm kẹo nhỏ bé, giàu tính tương tác và thực sự thú vị khi chơi.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
+
+This must be a real-time 3D simulation, not a video, image, or looping animation.
+
+APPEARANCE
+
+Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
+
+Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
+
+Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
+
+SOFT-BODY PHYSICS
+
+The jelly feel is the most important part.
+
+- Grab any part of the slice with a mouse or finger.
+- Pull, lift, stretch, twist, and release it.
+- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
+- After release, the slice should wobble, overshoot, and gradually recover its original shape.
+- Include gravity, inertia, damping, ground collisions, and soft bouncing.
+- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
+- Make the rind slightly firmer than the flesh.
+- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
+
+Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
+
+CONTROLS
+
+Include three color presets: Orange, Lemon, and Ruby.
+
+Add:
+- Firmness slider.
+- Internal damping slider.
+- “Give it a nudge” button.
+- Reset button.
+- Quarter-speed checkbox.
+- Show mesh checkbox.
+- Pause/resume button.
+
+Display small live readouts for mass, percentage of rest volume, and kinetic energy.
+
+TECHNICAL REQUIREMENTS
+
+Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
+
+Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
+
+Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
+
+The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280) · [Bài đăng gốc](https://x.com/vib3coded/status/2103062415533371646) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### Xây dựng thành phố đế quốc
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Xây dựng thành phố đế quốc"></a>
+
+**Prompt**
+
+```text
+DỰNG MỘT THÀNH PHỐ ĐẾ QUỐC
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103046279253168554) · [Bài đăng gốc](https://x.com/Enzoxbt01/status/2103046279253168554) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102956340482289944"></a>
+
+### Codex dạng voxel trong Three.js
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Codex dạng voxel trong Three.js"></a>
+
+**Prompt**
+
+```text
+tự tạo Codex trong Three.js bằng voxel, dựng mọi thứ từ đầu, không dùng bất kỳ skill nào
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944) · [Bài đăng gốc](https://x.com/be_arsh/status/2102956424120979838) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102915300295369208"></a>
+
+### Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực"></a>
+
+**Prompt**
+
+```text
+Không tham chiếu đến bất kỳ tệp nào khác hoặc tác phẩm trước đó. Tác vụ này phải hoàn toàn nguyên bản và không được tạo theo kiểu gian lận dựa trên bất kỳ tác phẩm nào khác ở đây.
+
+Tạo một tệp HTML duy nhất mô phỏng lửa trại đang cháy giữa sa mạc. Bối cảnh là ban đêm và có thể nhìn thấy các vì sao. Xung quanh đống lửa là những gốc cây được bố trí làm chỗ ngồi. Không có người nào trong khung hình. Thỉnh thoảng có thể có các loài động vật hoang dã xuất hiện rồi khuất khỏi tầm nhìn.
+
+Âm thanh cũng phải phù hợp với khung cảnh và có chất lượng cao.
+Làm cho mọi thứ siêu chân thực
+
+đặt tên tệp dựa trên model
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
+
+Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
+
+noises should also match the scene and be of high quality.
+Make everything hyper realistic
+
+name the file (based on model)
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102915300295369208) · [Bài đăng gốc](https://x.com/Nixtrodamis/status/2102915567845794029) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102897258983313712"></a>
+
+### Trình mô phỏng làm burger góc nhìn thứ nhất
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="Trình mô phỏng làm burger góc nhìn thứ nhất"></a>
+
+**Prompt**
+
+```text
+tạo một game mô phỏng làm burger góc nhìn thứ nhất.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build a first-person burger simulator.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102897258983313712) · [Bài đăng gốc](https://x.com/noclipepe/status/2102897258983313712) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Dựng Bugatti Chiron Super Sport bằng Three.js
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Dựng Bugatti Chiron Super Sport bằng Three.js"></a>
+
+**Prompt**
+
+```text
+dựng Bugatti Chiron Super Sport bằng Three.js.
+
+Không dùng mô hình 3D. Không dùng kết cấu bề mặt. Không dùng tài nguyên.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102828216289566725) · [Bài đăng gốc](https://x.com/srikanthvaluri/status/2102828216289566725) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102826333550133520"></a>
+
+### Shader thành phố solarpunk vô tận
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="Shader thành phố solarpunk vô tận"></a>
+
+**Prompt**
+
+```text
+Tạo một shader có hình ảnh thú vị, có thể chạy trên twigl-dot-app, mô phỏng một thành phố vô tận với những con đường và tòa tháp mang phong cách solarpunk, cùng hiệu ứng gió nhẹ hiển thị liên tục.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520) · [Bài đăng gốc](https://x.com/jonasfroeller/status/2102826333550133520) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Montage huấn luyện quá trình phát triển của Claude
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Montage huấn luyện quá trình phát triển của Claude"></a>
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh dài 30 giây hoàn toàn bằng mã, thể hiện montage quá trình phát triển lấy cảm hứng từ phân cảnh huấn luyện trong Kung Fu Panda, với linh vật Claude là nhân vật chính. Cho thấy Claude ngày càng nâng cao năng lực kể từ khi ra mắt ở nhiều kỹ năng như tìm kiếm trên internet, viết mã, tạo mô hình 3D và giải quyết những vấn đề khó khăn nhất của nhân loại, kết hợp với phần nhạc giàu cảm xúc.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788371114246177) · [Bài đăng gốc](https://x.com/ishuagra02/status/2102788832273801700) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js"></a>
+
+**Prompt**
+
+```text
+Tôi muốn bạn tưởng tượng ra một câu chuyện. Sau đó, sử dụng threejs để tạo một bộ phim hoạt hình hoàn chỉnh từ câu chuyện bạn nghĩ ra, theo phong cách hoạt hình thập niên 90 với chất lượng cấp Pixar.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902) · [Bài đăng gốc](https://x.com/scheemunai/status/2102788223835463902) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2102788013902213508"></a>
 
 ### Bàn cờ 3D tương tác để học các gambit cờ vua
@@ -2217,462 +2605,6 @@ Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100956517633761447"></a>
-
-### Mô hình đồng hồ IWC Schaffhausen 3D tương tác
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/a426633024453e686b5eecffb2a0acdbc37cd9b2069a53128441eeff3e7fa22f.webp" width="840" loading="lazy" alt="Mô hình đồng hồ IWC Schaffhausen 3D tương tác"></a>
-
-**Prompt**
-
-```text
-Sử dụng Three.js để phát triển mô hình đồng hồ IWC Schaffhausen 3D tương tác với độ trung thực cao. Yêu cầu: 1) Cấu trúc mặt số phải cực kỳ chính xác, mọi bộ phận cơ khí đều được dựng riêng và dễ dàng phân biệt; 2) Mặt kính đồng hồ phải sử dụng vật liệu kính sapphire với hiệu ứng trong suốt, khúc xạ và phản xạ chân thực; 3) Kim phút và kim giây phải là các kim chính xác, vận hành theo logic đo thời gian thực, với hoạt ảnh quét kim liên tục và tự động; 4) Hỗ trợ tháo rời và lắp ráp lại đồng hồ, cho phép tách và quan sát từng bộ phận riêng lẻ; 5) Mức độ chi tiết tổng thể phải cực kỳ cao, bám sát cấu trúc và tỷ lệ của đồng hồ thật, với kết cấu vật liệu chân thực cho ốc vít, các chi tiết kim loại và những bộ phận khác, thể hiện tay nghề chế tác tinh xảo. Hãy đảm bảo mô hình chạy mượt trên trình duyệt và tương tác tự nhiên.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100956517633761447) · [Bài đăng gốc](https://x.com/YouWareAI/status/2100958838350643553) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="odd-arms"></a>
-
-### ODD ARMS — Game sinh tồn với vũ khí kỳ quặc
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/odd-arms"><img src="../assets/previews/48f26395f6cf5e8bccb59f37d79965f9da76605aa246ecdb1baa041bfc742b28.webp" width="840" loading="lazy" alt="ODD ARMS — Game sinh tồn với vũ khí kỳ quặc"></a>
-
-**Prompt**
-
-```text
-# ODD ARMS — Ý tưởng của bạn. Anh hùng của bạn.
-
-## 1. Mục tiêu
-Giữ toàn bộ giao diện game bằng tiếng Anh (thêm tiếng Nhật dưới dạng tùy chọn chuyển ngôn ngữ).
-Xây dựng một game sinh tồn trên trình duyệt hoàn chỉnh, kéo dài ba phút, thuộc thể loại "bầy đàn tự động tấn công": người chơi chọn một anh hùng cỡ đồ chơi và hai vũ khí cực kỳ kỳ quặc, sau đó sống sót 180 giây giữa những bầy quái vật trên bàn làm việc của thợ thủ công. Vũ khí tự động tấn công; người chơi chỉ cần di chuyển, lướt, thu thập tinh thể, chọn nâng cấp và tung một đợt nova tích năng lượng. Điểm hấp dẫn nằm ở tính cá nhân hóa: người chơi có thể tạo anh hùng hoặc vũ khí riêng trong Tripo, tải xuống GLB rồi đưa vào game. Sử dụng https://odd-arms.tripo.page/ và các tài liệu tham khảo được cung cấp cho thành phẩm. Ghi công Deniffer tại https://x.com/lumina__team.
-
-## 2. Định hướng hình ảnh
-Định hình game như một mô hình đồ chơi thu nhỏ, nhìn từ camera cố định chếch từ trên xuống và bám theo anh hùng. Khu vực chơi là một tấm thảm cắt màu xanh navy đậm, có lưới mờ và các dấu góc in chữ "ODD ARMS", đặt trên bàn gỗ màu ấm. Viền bàn chất đầy đạo cụ thủ công cỡ lớn (cuộn chỉ, hộp hoa thị bằng đồng trang trí, túi đựng dụng cụ bằng da, đèn bàn bằng đồng, tàu hỏa đồ chơi, các bộ phận đồ chơi), để đấu trường trông như một mặt bàn thật. Dùng ánh sáng chính ấm từ phía đèn, ánh sáng môi trường dịu, bóng tiếp xúc và hiệu ứng bloom nhẹ; nhân vật có bề mặt bóng, hình khối mập mạp theo phong cách tượng sưu tầm, màu sắc bão hòa.
-
-UI: thẻ bo tròn màu trắng kem với chữ navy và điểm nhấn cam san hô, dùng phông hiển thị đậm, cô đọng cho tiêu đề ("LET'S MAKE SOME TROUBLE.") và sans cô đọng rõ ràng cho nội dung. Trong trận đấu: thẻ máu ở góc trên trái, bộ đếm chuỗi hạ gục bên dưới, bộ đếm ngược "SURVIVE THE WEIRD" ở chính giữa phía trên, nhãn đợt quái + âm thanh + cài đặt + Pause ở góc trên phải, số quái đã hạ ở bên phải, thẻ cấp độ/XP ở chính giữa phía dưới, ba chip vũ khí (xoay quanh / quay về / bắn, kèm cấp độ) ở góc dưới trái, điều khiển + thời gian hồi lướt ở góc dưới phải, thẻ "Q NOVA READY!" phía trên. Tăng cảm giác khi chơi: số sát thương, đòn chí mạng, kẻ địch co giãn squash-and-stretch, hất văng, hạt bật nổ, rung camera nhẹ (tắt rung khi prefers-reduced-motion được thiết lập).
-
-## 3. Thế giới
-Một đấu trường hình vuông; giới hạn anh hùng trong khoảng ±23 đơn vị trên cả hai trục. Tấm thảm cắt phủ kín khu vực chơi; bàn và đạo cụ nằm ngoài giới hạn, chỉ làm cảnh nền (không va chạm). Đấu trường bắt đầu trống rồi được lấp đầy từ các cạnh: kẻ địch xuất hiện trên một vòng tròn cách anh hùng 12–16 đơn vị (8–11 trong giây đầu tiên) và đi thẳng về phía anh hùng. Cứ mỗi 22 giây, một đợt tràn xuất hiện, tạo thành một vòng tròn đầy kẻ địch ở bán kính 13. Các vòng cảnh báo màu đỏ xuất hiện dưới vị trí hiện tại của anh hùng (lần đầu ở 28 giây, sau đó mỗi max(4.4, 9 − t/50) giây) và phát nổ sau 2 giây.
-
-## 4. Danh mục tài sản
-Chuẩn bị các khe mô hình ổn định; mỗi khe phải tải một GLB duy nhất, căn giữa, tự động scale theo chiều cao mục tiêu và chuyển sang placeholder đơn giản nếu tải thất bại.
-
-Anh hùng (10, `hero:<id>`), mỗi anh hùng là một nhân vật đồ chơi hình khối rõ dáng:
-- `cat` Astro Cat — mèo mướp cam mặc bộ đồ phi hành gia màu trắng và đội mũ kính. HP 100, tốc độ 6.8, nam châm ×1.35, thời gian hồi lướt 2.4 s.
-- `frog` Frog Fighter — ếch xanh đeo găng đấm bốc đỏ. HP 130, tốc độ 6.8, sát thương lướt 135.
-- `shroom` Mushroom Hero — nấm mũ đỏ với một chiếc áo choàng nhỏ. HP 90, tốc độ 7.6, lướt 1.8 s.
-- `capybara` Chill Capybara — chuột lang nước thư thái trong suối nước nóng. HP 160, tốc độ 5.8, nam châm ×1.15, lướt 3 s, sát thương lướt 110.
-- `ramen` Ramen Ronin — samurai mang một bát ramen nghi ngút khói. HP 105, tốc độ 7.2, lướt 2.2 s, sát thương lướt 120.
-- `penguin` Office Penguin — chim cánh cụt mặc sơ mi và cà vạt. HP 80, tốc độ 7.1, lướt 1.5 s, sát thương lướt 75.
-- `axolotl` Axolotl — axolotl hồng thám hiểm. HP 85, tốc độ 7.3, nam châm ×1.6, sát thương lướt 75.
-- `avocado` Avo Boxer — võ sĩ quyền anh quả bơ với lõi hạt. HP 120, tốc độ 6.4, lướt 2.1 s, sát thương lướt 130.
-- `robot` Clockwork Bot — robot thiếc lên dây cót với chiếc chìa khóa. HP 115, tốc độ 6.2, lướt 2.8 s, sát thương lướt 165.
-- `snail` Snail Knight — hiệp sĩ ốc sên mang chiếc vỏ to như ngôi nhà. HP 190, tốc độ 5.2, nam châm ×1.2, lướt 3.2 s, sát thương lướt 120.
-Sát thương lướt mặc định là 90 nếu không được nêu.
-
-Vũ khí (12, `weapon:<id>`), được nhóm theo ô tấn công:
-- Xoay quanh: `sardine` Sardine Chainsaw (3 con cá, bán kính 2.9, sát thương 1, tốc độ 1.2); `cactus` Cactus Club (2 gậy, bán kính 3.3, sát thương 1.65, tốc độ 0.78, bán kính đánh trúng 1.25, hất văng 1.5); `plunger` Plunger Patrol (4 pít-tông, bán kính 2.25, sát thương 0.85, tốc độ 1.5).
-- Quay về: `banana` Banana Blades (2 lưỡi, sát thương 1, tốc độ 1.25); `pizza` Pizza Cutter (1 đĩa lớn, sát thương 1.5, tốc độ 0.82, bán kính đánh trúng 1.65); `croissant` Croissant Blades (3 lưỡi, sát thương 0.75, tốc độ 1.45); `boomerang` Boomerang (1, sát thương 1.15, tốc độ 1.6); `donut-disc` Donut Disc (1, sát thương 1.5, tốc độ 0.9, bán kính đánh trúng 1.3).
-- Bắn: `duck` Duck Rocket (tự tìm mục tiêu, lan 2, khoảng cách 0.42 s); `toaster` Angry Toaster (chùm 3 phát xuyên mục tiêu, sát thương 0.7); `teapot` Raging Teapot (2 phát chậm, lan 2.8, khoảng cách 0.8 s); `bubble-gun` Bubble Gun (2 bong bóng xuyên mục tiêu, sát thương 0.45, khoảng cách 0.3 s).
-Trang bị mặc định: Astro Cat, Banana Blades, Angry Toaster; vũ khí xoay quanh được mở khóa ở lần nâng cấp đầu tiên.
-
-Kẻ địch (3, `enemy:<id>`), là những quái vật đồ chơi lên dây cót: `red-chomper` (đồ chơi tròn màu đỏ biết cắn, cơ bản, 30 HP cơ sở, tốc độ 2.35), `spring-rabbit` (thỏ chân lò xo màu vàng, nhanh, 23 HP cơ sở, tốc độ 3.5), `crown-bear` (gấu chắp vá lớn đội vương miện, xe tăng, 130 HP cơ sở, tốc độ 1.7, xuất hiện sau 60 s với tỷ lệ 17%, rơi 3 XP).
-
-Đạo cụ cảnh (`prop:<id>`): bàn làm việc, khung và miếng góc của tấm thảm cắt, đèn bàn, tàu hỏa đồ chơi, cuộn chỉ, hộp hoa thị trang trí, túi đựng dụng cụ, khay linh kiện đồ chơi. Giữ tấm thảm, lưới, tinh thể, đạn, vòng cảnh báo, hạt, đèn và UI ở dạng tạo bằng procedural.
-
-## 5. Gameplay và phản hồi
-Luồng: Nhân vật → Trang bị (một vũ khí quay về + một vũ khí bắn) → Sẵn sàng (bản xem trước 3D dạng bàn xoay của anh hùng với các vũ khí đã chọn, kéo để xoay) → "Let's play". Mỗi bước làm quen chỉ hiển thị danh mục tương ứng cùng mô tả, phong cách chơi và điểm yếu. Ghi nhớ trang bị gần nhất.
-
-Điều khiển: WASD/phím mũi tên để di chuyển; Space lướt theo hướng đang đi (tốc độ ×3.7, bất tử trong thời gian ngắn, gây sát thương một lần mỗi lượt lướt lên kẻ địch trong phạm vi 2 đơn vị); Q tung nova khi năng lượng đạt 100 (bán kính 11, sát thương 200, hất văng mạnh, hút tinh thể); 1/2/3 hoặc nhấp chuột để chọn nâng cấp; Esc để tạm dừng; tự động tạm dừng khi cửa sổ mất tiêu điểm. Di động: cần analog ảo bên trái, các nút Dash và Nova bên phải với vòng hồi chiêu/tích năng lượng, hỗ trợ đa chạm để cần analog và các nút hoạt động cùng lúc; nâng cấp nằm phía trên cần analog khi cầm dọc và giữa hai ngón cái khi cầm ngang.
-
-Luật: HP kẻ địch = base × (1 + t/260) × 1.3. Khoảng thời gian xuất hiện max(0.18, 0.52 − 0.0016·t) s, tối đa 180 kẻ địch. Sát thương va chạm 9 (18 đối với gấu), bất tử 0.85 s sau khi trúng đòn. Mỗi lần hạ gục cộng 2 năng lượng và rơi một tinh thể; mỗi đòn đánh trúng thứ 9 của mỗi vũ khí gây chí mạng ×1.7. Chuỗi 25 lần hạ gục kích hoạt cuồng nộ trong 5 s (tốc độ tấn công ×1.65, hồi chiêu 13 s); nhận sát thương sẽ đặt lại chuỗi. XP để lên cấp: 20, sau đó round(need × 1.4 + 10). Lên cấp không bao giờ tạm dừng game: các lựa chọn được xếp hàng dưới dạng thẻ không chặn luồng chơi. Nâng cấp đầu tiên đưa ra ba vũ khí xoay quanh; sau đó đưa ra ba trong số các lựa chọn: Orbit overload (+1 vật thể xoay quanh, tối đa 7, +22% sát thương), Another round (bắn nhanh hơn, quay về lâu hơn và mạnh hơn), Full blast (bắn nhanh hơn, +20% sát thương, nhiều đạn hơn), Live a little (+10% tốc độ, +30 HP). Mỗi lựa chọn hồi 8 HP.
-
-Kết thúc: sống sót 180 s → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess." Cả hai đều hiển thị số kẻ địch đã hạ, chuỗi tốt nhất và thời gian sống sót, cùng các tùy chọn tạo lại lượt chơi / thay đổi trang bị và lời nhắc tự tạo.
-
-Tạo dấu ấn riêng: từ màn hình trang bị, tạm dừng và kết quả, "Create my hero / weapon in Tripo" mở https://studio.tripo3d.ai/ trong tab mới; "Import GLB" tải một tệp .glb cục bộ (≤15 MB, chỉ dùng kết cấu nhúng, phân tích ngay trong trình duyệt, không bao giờ tải lên), căn giữa và scale tệp, rồi chỉ thay đổi diện mạo của anh hùng hoặc vũ khí được chọn trong khi giữ nguyên chỉ số. Hiển thị lỗi rõ ràng với tệp không hợp lệ và giữ lại mô hình gốc.
-
-So sánh mô hình: một nút chuyển ở phần đầu trang, "Tripo3D ⇄ Simple3D (Blender)", thay thế mọi anh hùng, vũ khí, kẻ địch và đạo cụ bằng bộ hình nguyên thủy đơn giản tương ứng mà không đặt lại lượt chơi. Tải toàn bộ bộ thay thế trước khi chuyển; nếu có bất kỳ tệp nào lỗi, giữ nguyên bộ hiện tại.
-
-## 6. Triển khai kỹ thuật
-Vite + JavaScript thuần + Three.js với GLTFLoader, ánh sáng RoomEnvironment và ánh xạ tông màu ACES. Giữ phần mô phỏng trong một mô-đun timestep cố định, thuần, có nguồn ngẫu nhiên có thể tiêm vào để chạy toàn bộ lượt chơi trong các bài kiểm thử; renderer chỉ đọc state. Cache mỗi GLB một lần và clone cho các instance; dùng instancing hoặc LOD cho các vật trang trí lặp lại. Giới hạn tỷ lệ pixel (1.5 trên di động, giảm xuống 1 trong các đợt dày), làm mới bóng tối đa 30 lần mỗi giây và chỉ cập nhật văn bản HUD khi giá trị thay đổi. Tách va chạm (các hình tròn đơn giản) khỏi mesh hiển thị. Đóng gói phông chữ, mô hình và kết cấu cùng origin để bản build là một thư mục tĩnh. Nhắm đến trình duyệt máy tính và điện thoại, từ bề rộng 320 px trở lên, bao gồm điện thoại xoay ngang và vùng an toàn. Độ phức tạp mô hình nên theo kích thước hiển thị trên màn hình; không đặt giới hạn đa giác cứng.
-
-## 7. Hoàn tất khi
-- Toàn bộ luồng hoạt động: làm quen, chiến đấu đến khi thắng hoặc thua, tạm dừng/tiếp tục, khởi động lại với cùng trang bị, thay đổi trang bị.
-- Cả 10 anh hùng và 12 vũ khí đều tải và hoạt động đúng theo các chỉ số trên; một lượt chơi 180 s với bất kỳ trang bị nào cũng kết thúc mà không có lỗi.
-- Điều khiển bằng bàn phím và cảm ứng đều hoạt động, bao gồm cần analog và Dash cùng lúc.
-- Nhập GLB thay thế diện mạo của anh hùng hoặc vũ khí được chọn và xử lý từ chối tệp lỗi một cách phù hợp.
-- Nút chuyển Tripo3D / Simple3D thay thế toàn bộ mô hình ngay giữa lượt chơi.
-- Màn hình mở đầu, giữa trận và kết quả khớp với tài liệu tham khảo; cung cấp mã nguồn có thể chạy, lệnh khởi động và bản build tĩnh dành cho production.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/odd-arms) · [Bài đăng gốc](https://odd-arms.tripo.page/) · [Bản demo](https://odd-arms.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100844566718926949"></a>
-
-### Tạo một thế giới 3D chân thực như ảnh
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Tạo một thế giới 3D chân thực như ảnh"></a>
-
-**Prompt**
-
-```text
-Tạo một thế giới 3D chân thực như ảnh. Hãy khiến tôi bất ngờ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a photorealistic 3D world. Surprise me.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100844566718926949) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100838090210431302"></a>
-
-### Game xe điện trên không 3D giữa những hòn đảo bay
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/e2d1851a486e080772aa36d6e517463595d8981ac121dde5a72f8d572e9c96fd.webp" width="840" loading="lazy" alt="Game xe điện trên không 3D giữa những hòn đảo bay"></a>
-
-**Prompt**
-
-```text
-Tạo một game 3D HTML/JS một tệp (Three.js) có thể chơi trực tiếp trên trình duyệt, với phong cách game indie low-poly ấm áp nhưng trau chuốt, gợi không khí một thị trấn ven biển kiểu Ghibli kết hợp sự mượt mà của đường ray xe goòng trong Zelda.     
-【Lối chơi chính】  Người chơi điều khiển một xe điện trên không phong cách retro, di chuyển giữa những hòn đảo bay phía trên biển mây và mặt biển.  - Đường ray là một tuyến đường sắt 3D liên tục, gồm các đoạn thẳng, dốc lên, dốc xuống, khúc cua trên cao và những cây cầu dài bắc qua biển  - Điều khiển: W để tăng tốc (Power), S để phanh (Brake), phím trái và phải để tinh chỉnh hoặc đổi góc nhìn  - Hiển thị theo thời gian thực: tốc độ tính bằng km/h, số hành khách trên xe (ví dụ: 12/16 người), điều kiện đường ray (Ổn định / Gió ngang)  - Hệ thống độ thoải mái của hành khách: tăng tốc đột ngột, phanh gấp, vào cua quá nhanh và gió ngang đều làm giảm “độ êm chân”; đến ga đích một cách êm ái sẽ nhận điểm thưởng (ví dụ: +75 khi đến nơi)  - Chuỗi điểm: lái quá xóc sẽ hiện thông báo “Đã mất chuỗi điểm. Hãy tìm lại sự cân bằng để tích lũy tiền boa.”  - Đến ga và mở cửa để hành khách lên xuống. Trên sân ga, người dân xếp hàng chờ, kèm phụ đề như “Đang mở cửa - Mango Tide”, “Vui lòng chờ…”     [Thế giới và nhà ga]  Có ít nhất hai tuyến đường/hai hòn đảo:  1. Saltlight Terminus  2. Mango Tide  Hòn đảo là một đảo đá bay phía trên mây, có những ngôi nhà nhỏ theo phong cách Địa Trung Hải/Nam Âu với mái ngói đỏ, một ngọn hải đăng, bến tàu, cây xanh, đèn đường và những ô cửa sổ vàng ấm áp vào ban đêm. Xa xa là thêm nhiều hòn đảo bay và các quỹ đạo xoay vòng. Bầu trời chuyển sắc xanh lam-tím từ chạng vạng đến đêm, có sao và những đám mây dày; phía dưới là mặt biển xanh ngọc.     [Ngoại hình xe điện]  Xe điện retro: thân xanh lá đậm, khung gầm màu gỗ, cửa sổ kính cong, hành lý trên nóc, mái che/trang trí dây leo màu xanh và nhiều hành khách ngồi bên trong. Khi di chuyển, xe hơi lắc nhẹ và tạo cảm giác có âm thanh đường ray (có thể thể hiện bằng hiệu ứng âm thanh đơn giản hoặc tín hiệu hình ảnh).     [Cảnh 2: Xưởng nâng cấp]  Chuyển sang góc nhìn isometric từ trên xuống của xưởng “Cloudworks / Oliver Cloudworks / hòn đảo quê nhà của Oliver”.  Người chơi có thể thay linh kiện cho xe điện, với giao diện dạng cửa sổ nâng cấp:  - Hearth leaves — Đang tháo linh kiện cũ  - Little Companion — Đang chuẩn bị xe điện  Thanh tiến trình + “Hãy ngồi lại và quan sát xưởng.”  Sau khi nâng cấp, ngoại hình xe điện thay đổi (ví dụ: nóc xanh lá, thêm giá hành lý, đèn lồng, dây leo), rồi xe chạy ra khỏi xưởng, với phụ đề “Mời lên xe.” / “Điểm dừng tiếp theo: Tuyến Ven Biển.”     [Giao diện]  Giao diện game casual hiện đại, gọn gàng: điểm đến và tiền tệ/chuỗi điểm ở góc trên bên trái, thanh tốc độ cùng các nút Power/Brake ở phía dưới, thanh tiến trình độ thoải mái nối tên hai nhà ga. Không rườm rà, không biến game thành kinh dị hay cyberpunk.     [Yêu cầu kỹ thuật]  - Một tệp hoặc số tệp tối thiểu, sử dụng Three.js  - Dùng curve cho đường ray (CatmullRom, v.v.) để xe điện bám theo đường ray; camera bám theo với cảm giác chuyển động nhẹ trên ray  - Tạo cảm giác vật lý đơn giản: quán tính khi tăng tốc, giảm tốc khi phanh, thân xe nghiêng khi vào cua  - Trên thiết bị di động, cố gắng hỗ trợ chạm để tăng tốc/phanh  - Mã dễ đọc, có chú thích và chơi được ngay khi mở tệp.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.     
-【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100838090210431302) · [Bài đăng gốc](https://x.com/YouWareAI/status/2100838828433179037) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100751369619820923"></a>
-
-### Huấn luyện chiến lược xoay bút với bàn tay khéo léo Sharpa
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/ca147480aaf4e9faab8d21e1675a0977a1953d45a78809c76f60ef9258df645f.webp" width="840" loading="lazy" alt="Huấn luyện chiến lược xoay bút với bàn tay khéo léo Sharpa"></a>
-
-**Prompt**
-
-```text
-Hãy để bàn tay khéo léo thực hiện động tác xoay bút. Sử dụng Isaac Lab để học tăng cường với Sharpa hand, đồng thời tự tạo lưới 3D của cây bút. Cuối cùng, bàn giao chiến lược đã huấn luyện và video trực quan hóa. Có thể tự do tìm kiếm trên Internet, tải xuống các bài nghiên cứu và tài liệu cần thiết.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100751369619820923) · [Bài đăng gốc](https://x.com/FinanceYF5/status/2100751369619820923) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100614534423540102"></a>
-
-### Tự thiết kế một cơ thể bằng CAD
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/138579840f9de4ce31b0d5320ac7fd1f9772a567ef4c00743d5ac10716256006.webp" width="840" loading="lazy" alt="Tự thiết kế một cơ thể bằng CAD"></a>
-
-**Prompt**
-
-```text
-Tôi đã bảo Astra tự thiết kế một cơ thể bằng CAD.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-I told Astra to CAD itself a body.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100614534423540102) · [Bài đăng gốc](https://x.com/vitalduval/status/2100343136077877251) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100595652703199281"></a>
-
-### Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/72f6d766a135c0c5dbb4c1ace35342212b0a05ecdb6fd494c550d3be50af7141.webp" width="840" loading="lazy" alt="Game 3D trên trình duyệt: Thoát khỏi cơ sở nghiên cứu bị phong tỏa"></a>
-
-**Prompt**
-
-```text
-Hãy tạo một game 3D giải đố thoát hiểm có thể chơi trên trình duyệt. Nội dung xoay quanh việc trốn thoát khỏi một cơ sở nghiên cứu bị phong tỏa và thời lượng chơi khoảng 5–10 phút. Hãy thêm các cơ chế như chìa khóa và công tắc, giúp người chơi dễ hiểu cách chơi và bảo đảm có thể hoàn thành game đến cuối. Gói mọi thứ vào một tệp HTML duy nhất để người chơi chỉ cần mở tệp bằng trình duyệt là có thể chơi.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-ブラウザーで遊べる3D脱出ゲームを作ってください。閉鎖された研究施設から脱出する内容で、5～10分程度で遊べるものにしてください。鍵やスイッチなどの仕掛けを入れ、遊び方がわかり、最後までクリアできる状態にしてください。HTMLファイル1つにまとめ、ブラウザーで開くだけで遊べるようにしてください。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100595652703199281) · [Bài đăng gốc](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100526922770026874"></a>
-
-### Tạo game đua xe 3D
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/72ac86b5949942e8a18e7adedd1ceae4b3290c76145424d2362cca0a3c353f73.webp" width="840" loading="lazy" alt="Tạo game đua xe 3D"></a>
-
-**Prompt**
-
-```text
-Tạo một game đua xe
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-レーシングゲーム作って
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100526922770026874) · [Bài đăng gốc](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100519026720231698"></a>
-
-### Thêm xích bảo trì vào lan can
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Thêm xích bảo trì vào lan can"></a>
-
-**Prompt**
-
-```text
-Thêm xích bảo trì vào lan can nhé!
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-手摺にメンテ用のチェーン付けて！
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100519026720231698) · [Bài đăng gốc](https://x.com/ujiden_type0/status/2100519026720231698) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100350159540596760"></a>
-
-### Cảnh lửa trại voxel tương tác với hiệp sĩ
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="Cảnh lửa trại voxel tương tác với hiệp sĩ"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
-
-**Prompt**
-
-```text
-Bạn là Nhà phát triển WebGL & Three.js Sáng tạo Cấp cao. Nhiệm vụ của bạn là xây dựng một cảnh 3D tương tác hoàn chỉnh, sẵn sàng cho môi trường production, nằm hoàn toàn trong một tệp HTML độc lập duy nhất (index.html), sử dụng Three.js + webgl
-
-### 1. Chủ đề hình ảnh & Định hướng nghệ thuật
-
-- Không khí: Khu rừng đêm sâu thẳm, lửa trại ấm áp phát sáng, một hiệp sĩ đơn độc mệt mỏi đang nghỉ bên khu cắm trại (thẩm mỹ lửa trại Dark Souls / RPG retro kinh điển).
-- Thẩm mỹ: Pixel Art 3D / Voxel / Low-Poly.
-- Đổ bóng & Hậu kỳ: Tích hợp tính năng hậu kỳ của Three.js (RenderPixelatedPass hoặc hiệu ứng tạo điểm ảnh/làm nhiễu ở độ phân giải thấp tương đương) để đạt diện mạo retro 16-bit/32-bit chân thực.
-
-### 2. Hình học cảnh & Tài nguyên (100% tạo thủ tục — Không dùng tệp .gltf/.obj bên ngoài)
-
-Tất cả tài nguyên phải được dựng bằng thủ tục, sử dụng các hình học nguyên thủy của Three.js (BoxGeometry, CylinderGeometry, v.v.) và vật liệu cơ bản để tệp có thể chạy cục bộ mà không gặp vấn đề CORS.
-
-1. Môi trường rừng:
-
-   - Mặt đất: Địa hình cách điệu tối màu với đá voxel, nấm và thảm thực vật low-poly được tạo thủ tục.
-   - Cây cối: Các cây thông/vân sam hoặc cây có tán hình khối được tạo thủ tục, bao quanh khoảng trống để tạo chiều sâu và cảm giác biệt lập.
-   - Bầu trời & Ánh sáng: Bầu trời nửa đêm sâu thẳm với các ngôi sao voxel nhấp nháy và DirectionalLight ánh trăng lạnh tạo bóng mềm.
-   - Chiều sâu: THREE.FogExp2 với màu khí quyển tối để hòa trộn đường chân trời.
-
-2. Lửa trại:
-
-   - Vòng đá bao quanh các khúc gỗ đang âm ỉ cháy và các hạt than hồng được tạo thủ tục.
-   - Hệ thống lửa: Các hạt điểm ảnh động (Points hoặc mesh voxel dao động) bay lên trên.
-   - Ánh sáng động: PointLight màu cam-đỏ ấm với logic nhấp nháy liên tục, tự nhiên (sử dụng Math.sin, nhiễu hoặc các biến thể giả ngẫu nhiên).
-
-3. Hiệp sĩ:
-
-   - Cây phân cấp của cảnh (các group cho đầu, thân, cánh tay trên/dưới, chân, áo choàng và kiếm) được dựng từ các hình nguyên thủy voxel hóa.
-   - Chi tiết hình ảnh: Mũ trụ có khe, giáp ngực, giáp vai, bao tay giáp và bao kiếm/kiếm.
-   - Các điểm pivot phải được căn chỉnh chính xác tại các khớp (vai, khuỷu tay, hông, đầu gối) để chuyển động xoay tạo thủ tục mượt mà.
-
-### 3. Máy trạng thái tương tác của hiệp sĩ
-
-Triển khai các animation tạo thủ tục mượt mà bằng phép nội suy tuyến tính (lerp) hoặc các đường cong lượng giác bên trong vòng lặp render cho những trạng thái có thể chọn sau:
-
-- Ngồi bên lửa (Nghỉ mặc định): Ngồi xếp bằng hoặc ngồi xổm, thở nhẹ theo chu kỳ, sưởi tay gần ngọn lửa.
-- Thêm củi: Hiệp sĩ đứng dậy, lấy một khúc gỗ rồi ném vào lửa. Ngọn lửa bùng lên rõ rệt, bán kính chiếu sáng tạm thời mở rộng và phát ra một loạt tia lửa.
-- Luyện kiếm: Đứng dậy, rút kiếm, thực hiện một chuỗi tấn công/đỡ đòn gồm 3 phần gọn gàng rồi trở về tư thế thủ chiến.
-- Nhìn về phía xa: Đi đến rìa khoảng trống, cắm kiếm xuống đất và nhìn chằm chằm vào bóng tối trong khi áo choàng lay động.
-- Ngủ: Nằm xuống tấm đệm ngủ cạnh lửa; các hạt điểm ảnh "Z z z" động bay lên từ mũ trụ.
-- Nướng thịt: Cầm một que xiên thức ăn trên ngọn lửa; phát ra các hạt khói/hơi nước tạo thủ tục nhẹ.
-
-### 4. Hệ thống camera
-
-Cung cấp các chế độ camera thiết lập sẵn với chuyển tiếp nội suy mượt mà (lerp vị trí và điểm đích):
-
-- Cận cảnh ấm cúng: Khung hình trung, tập trung vào hiệp sĩ và ánh lửa.
-- RPG đẳng phối: Góc nhìn chiến thuật cao 45 độ kinh điển bao quát khoảng trống.
-- Điện ảnh mặt đất: Góc máy thấp đầy kịch tính, hướng lên hiệp sĩ giữa bầu trời sao và các tán thông.
-- Xoay tự do: Chuyển liền mạch sang OrbitControls tiêu chuẩn để quan sát tương tác.
-
-### 5. UI & Âm thanh
-
-- Phong cách UI: Bố cục HUD RPG retro 8-bit/16-bit, sử dụng các khung tối bán trong suốt với viền điểm ảnh và Google Font được nhúng (ví dụ: 'Press Start 2P').
-- Bảng điều khiển dưới: Các nút hành động tương tác, kích hoạt từng trạng thái của hiệp sĩ.
-- Bảng phía trên bên phải: Các nút chuyển góc camera.
-- Bộ đếm củi: Theo dõi số khúc gỗ đã thêm và cường độ lửa hiện tại.
-- Âm thanh (Web Audio API): Tiếng lửa tí tách và gió đêm/dế kêu môi trường được tổng hợp bằng thủ tục, kèm một nút bật/tắt tiếng.
-
-### 6. Thông số kỹ thuật
-
-- Một tệp index.html độc lập, tự chứa.
-- Sử dụng ES Modules được tải qua CDN (https://t.co/W8o3SZwkCj hoặc unpkg).
-- Cấu trúc mã dạng module, có chú thích đầy đủ (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Hoàn toàn đáp ứng kích thước cửa sổ, với trình xử lý thay đổi kích thước cập nhật tỷ lệ khung hình camera và độ phân giải của lớp tạo điểm ảnh.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2100350159540596760) · [Bài đăng gốc](https://x.com/vib3coded/status/2100350602316558428) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

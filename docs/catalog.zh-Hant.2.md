@@ -28,6 +28,16 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [即時 3D 鵜鶘騎車遊戲](#claude-opus-5-5-2103083781490176212)
+- [互動式 3D 果凍柑橘切片](#gpt-6-astra-2103062348168618280)
+- [打造帝國城市](#claude-opus-5-5-2103046279253168554)
+- [使用 Three.js 製作體素 Codex](#gpt-6-astra-2102956340482289944)
+- [超寫實互動式沙漠營火 HTML 場景](#gpt-6-astra-2102915300295369208)
+- [第一人稱漢堡模擬器](#gpt-6-astra-2102897258983313712)
+- [使用 Three.js 建立 Bugatti Chiron Super Sport](#claude-opus-5-5-2102828216289566725)
+- [無限太陽朋克城市著色器](#gpt-6-astra-2102826333550133520)
+- [Claude 成長訓練蒙太奇](#claude-opus-5-5-2102788371114246177)
+- [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](#claude-opus-5-5-2102788223835463902)
 - [用於研究西洋棋棄兵的互動式 3D 棋盤](#gpt-6-astra-2102788013902213508)
 - [無縫程式碼水循環動畫](#claude-opus-5-5-2102781807179735211)
 - [可在瀏覽器中操作的中世紀歐洲風 3D 城堡](#gpt-6-astra-2102780850706567390)
@@ -68,18 +78,396 @@
 - [完整的照片級寫實 3D 環境](#gpt-6-astra-2101224659861590399)
 - [以真實軌道物理打造的星系](#gpt-6-astra-2101055500599054437)
 - [怪獸街區——45 秒摧毀城市](#monster-block)
-- [互動式 IWC Schaffhausen 手錶模型](#gpt-6-astra-2100956517633761447)
-- [ODD ARMS — 怪奇武器生存遊戲](#odd-arms)
-- [打造照片級寫實的 3D 世界](#gpt-6-astra-2100844566718926949)
-- [漂浮群島間的 3D 空中電車遊戲](#gpt-6-astra-2100838090210431302)
-- [以 Sharpa 靈巧手訓練轉筆策略](#gpt-6-astra-2100751369619820923)
-- [用 CAD 設計身體](#gpt-6-astra-2100614534423540102)
-- [逃離封閉研究設施的瀏覽器 3D 遊戲](#gpt-6-astra-2100595652703199281)
-- [製作 3D 賽車遊戲](#gpt-6-astra-2100526922770026874)
-- [為欄杆新增維修用鏈條](#gpt-6-astra-2100519026720231698)
-- [互動式體素騎士篝火場景](#gpt-6-astra-2100350159540596760)
 
 </details>
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### 即時 3D 鵜鶘騎車遊戲
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="即時 3D 鵜鶘騎車遊戲"></a>
+
+**提示詞**
+
+```text
+打造一款即時 3D 遊戲，讓鵜鶘騎著自行車穿越生動的海濱世界，完整呈現物理效果、海浪、釣魚、動態天氣、電影式鏡頭、自動駕駛與自適應音樂。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103083781490176212) · [查看原文](https://x.com/code_hiyouga/status/2103083781490176212) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103062348168618280"></a>
+
+### 互動式 3D 果凍柑橘切片
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="互動式 3D 果凍柑橘切片"></a>
+
+**提示詞**
+
+```text
+使用 WebGPU 製作精美、可互動的 3D 果凍柑橘切片。將完整體驗放在單一獨立 HTML 檔案中，內嵌 JavaScript 與 WGSL 著色器。
+
+這必須是真正的即時 3D 模擬，而不是影片、圖片或循環動畫。
+
+APPEARANCE
+
+製作一片厚實的半圓形橙子切片，具有半透明、多汁的果肉、八個清楚分隔的瓣片、細緻的內部膜、微小氣泡、淡色白膜層，以及柔軟的橙色果皮。
+
+讓它呈現高級果凍糖果的質感：高飽和色彩、亮澤高光、光線穿透果肉、逼真的折射，以及柔和的接觸陰影。避免過度泛光、色彩泛白或堅硬的塑膠外觀。
+
+使用溫暖明亮的工作室背景，以及留白充足、簡潔俐落的編輯風介面。加入大型斜體襯線標題「柑橘果凍」。控制項保持精簡，並確保切片清楚可見。
+
+軟體物理
+
+果凍般的柔軟手感是最重要的部分。
+
+- 使用滑鼠或手指抓住切片的任意部位。
+- 拉動、提起、拉伸、扭轉，然後放開。
+- 讓變形具有局部性：拉動一側時，附近的果肉應被拉伸，其餘部分則自然跟隨。
+- 放開後，切片應先晃動並略微回彈，然後逐漸恢復原本形狀。
+- 加入重力、慣性、阻尼、與地面碰撞及柔軟彈跳。
+- 大致維持體積，避免網格塌陷或翻轉到內外顛倒。
+- 讓果皮比果肉稍微硬一些。
+- 內部瓣片、薄膜與氣泡必須隨變形一起移動，不得飄浮到本體外。
+
+使用穩定的體積式軟體求解器，例如搭配 XPBD 約束的四面體網格。不要透過縮放或旋轉整個物件來模擬柔軟感。
+
+CONTROLS
+
+加入三種色彩預設：橙子、檸檬與紅寶石。
+
+加入：
+- 紮實度滑桿。
+- 內部阻尼滑桿。
+- 「推它一下」按鈕。
+- 重設按鈕。
+- 四分之一速核取方塊。
+- 顯示網格核取方塊。
+- 暫停／繼續按鈕。
+
+顯示質量、靜止體積百分比與動能的小型即時讀值。
+
+技術要求
+
+使用真正的 WebGPU 搭配 WGSL 著色器進行渲染。所有幾何與視覺細節都必須以程序式方式產生，不得匯入模型或圖片檔案。
+
+讓模擬更新獨立於渲染影格率。支援桌面裝置與觸控裝置。若無法使用 WebGPU，請顯示清楚的替代提示訊息。
+
+測試大力拖曳、連續多次放開、所有控制項及窄螢幕顯示。交付完成的 HTML 前，修正不穩定的物理效果、損壞的幾何結構與視覺瑕疵。
+
+成品應該像一個小巧、可觸摸互動的糖果實驗，讓人玩起來確實感到滿足。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
+
+This must be a real-time 3D simulation, not a video, image, or looping animation.
+
+APPEARANCE
+
+Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
+
+Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
+
+Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
+
+SOFT-BODY PHYSICS
+
+The jelly feel is the most important part.
+
+- Grab any part of the slice with a mouse or finger.
+- Pull, lift, stretch, twist, and release it.
+- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
+- After release, the slice should wobble, overshoot, and gradually recover its original shape.
+- Include gravity, inertia, damping, ground collisions, and soft bouncing.
+- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
+- Make the rind slightly firmer than the flesh.
+- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
+
+Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
+
+CONTROLS
+
+Include three color presets: Orange, Lemon, and Ruby.
+
+Add:
+- Firmness slider.
+- Internal damping slider.
+- “Give it a nudge” button.
+- Reset button.
+- Quarter-speed checkbox.
+- Show mesh checkbox.
+- Pause/resume button.
+
+Display small live readouts for mass, percentage of rest volume, and kinetic energy.
+
+TECHNICAL REQUIREMENTS
+
+Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
+
+Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
+
+Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
+
+The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103062348168618280) · [查看原文](https://x.com/vib3coded/status/2103062415533371646) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### 打造帝國城市
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="打造帝國城市"></a>
+
+**提示詞**
+
+```text
+打造帝國城市
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103046279253168554) · [查看原文](https://x.com/Enzoxbt01/status/2103046279253168554) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102956340482289944"></a>
+
+### 使用 Three.js 製作體素 Codex
+
+[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="使用 Three.js 製作體素 Codex"></a>
+
+**提示詞**
+
+```text
+自行製作使用體素呈現的 Three.js Codex，所有內容都從零開始製作，不要使用任何技能
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102956340482289944) · [查看原文](https://x.com/be_arsh/status/2102956424120979838) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102915300295369208"></a>
+
+### 超寫實互動式沙漠營火 HTML 場景
+
+[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="超寫實互動式沙漠營火 HTML 場景"></a>
+
+**提示詞**
+
+```text
+不得參照任何其他檔案或先前作品。此任務必須完全原創，不得取巧挪用這裡的任何其他作品。
+
+建立一個單一 HTML 檔案，呈現沙漠中的真實營火。現在是夜晚，可以看見星星。營火周圍擺放著木樁座椅。畫面中不得出現任何人。不同的野生動物可能會不時進入或離開畫面。
+
+音效也應符合場景，並具備高品質。
+讓所有內容都達到超寫實效果
+
+命名檔案（依模型命名）
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
+
+Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
+
+noises should also match the scene and be of high quality.
+Make everything hyper realistic
+
+name the file (based on model)
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102915300295369208) · [查看原文](https://x.com/Nixtrodamis/status/2102915567845794029) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102897258983313712"></a>
+
+### 第一人稱漢堡模擬器
+
+[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="第一人稱漢堡模擬器"></a>
+
+**提示詞**
+
+```text
+建立一款第一人稱漢堡模擬器。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build a first-person burger simulator.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102897258983313712) · [查看原文](https://x.com/noclipepe/status/2102897258983313712) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### 使用 Three.js 建立 Bugatti Chiron Super Sport
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="使用 Three.js 建立 Bugatti Chiron Super Sport"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 建立 Bugatti Chiron Super Sport。
+
+不要使用 3D 模型。不要使用貼圖。不要使用素材。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102828216289566725) · [查看原文](https://x.com/srikanthvaluri/status/2102828216289566725) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102826333550133520"></a>
+
+### 無限太陽朋克城市著色器
+
+[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="無限太陽朋克城市著色器"></a>
+
+**提示詞**
+
+```text
+建立可在 twigl.app 執行、具有視覺吸引力的著色器，呈現由太陽朋克道路與高塔構成的無限城市，並持續顯示可見的微風效果
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102826333550133520) · [查看原文](https://x.com/jonasfroeller/status/2102826333550133520) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude 成長訓練蒙太奇
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 成長訓練蒙太奇"></a>
+
+**提示詞**
+
+```text
+完全以程式碼製作一段 30 秒動畫，呈現受《功夫熊貓》訓練橋段啟發的成長蒙太奇，並以 Claude 吉祥物為主角，展示它自首次發布以來在各項技能上的能力提升，例如搜尋網路、撰寫程式碼、建立 3D 模型，以及解決人類最棘手的問題，搭配富有情感張力的音樂。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177) · [查看原文](https://x.com/ishuagra02/status/2102788832273801700) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### 使用 Three.js 製作皮克斯等級的 90 年代卡通動畫
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="使用 Three.js 製作皮克斯等級的 90 年代卡通動畫"></a>
+
+**提示詞**
+
+```text
+我希望你先發想一個故事，接著使用 Three.js，將你構思的故事製作成一部完整動畫，呈現皮克斯等級品質的 90 年代卡通風格。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902) · [查看原文](https://x.com/scheemunai/status/2102788223835463902) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2102788013902213508"></a>
 
 ### 用於研究西洋棋棄兵的互動式 3D 棋盤
@@ -2217,462 +2605,6 @@ a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 sec
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/monster-block) · [查看原文](https://x.com/abc30037274/status/2100636075039629796) · [線上展示](https://monster-block.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100956517633761447"></a>
-
-### 互動式 IWC Schaffhausen 手錶模型
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/a426633024453e686b5eecffb2a0acdbc37cd9b2069a53128441eeff3e7fa22f.webp" width="840" loading="lazy" alt="互動式 IWC Schaffhausen 手錶模型"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 開發高度忠實的 IWC Schaffhausen 腕錶 3D 互動模型。需求如下：1）錶盤結構必須高度精確，每個機械零件都要個別建模，並能清楚辨識；2）錶面必須使用具備逼真透光、折射與反射效果的藍寶石玻璃材質；3）分針與秒針必須依照正確的走時邏輯運作，並自動以連續掃行方式播放指針動畫；4）支援手錶的拆解與重新組裝，且每個零件都能分離並個別檢視；5）整體細節層級必須極高，精確貼近真實手錶的結構與比例，螺絲、金屬零件及其他組件也要具備逼真的材質貼圖與精細工藝。請確保模型能在瀏覽器中順暢運作，互動自然。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100956517633761447) · [查看原文](https://x.com/YouWareAI/status/2100958838350643553) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="odd-arms"></a>
-
-### ODD ARMS — 怪奇武器生存遊戲
-
-[Deniffer](https://x.com/lumina__team) · 2026-09-18 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/odd-arms"><img src="../assets/previews/48f26395f6cf5e8bccb59f37d79965f9da76605aa246ecdb1baa041bfc742b28.webp" width="840" loading="lazy" alt="ODD ARMS — 怪奇武器生存遊戲"></a>
-
-**提示詞**
-
-```text
-# ODD ARMS — 你的點子，你的英雄。
-
-## 1. 目標
-讓所有遊戲 UI 維持英文（另提供日文選項語言切換）。
-打造一款完整的三分鐘瀏覽器生存遊戲，類型為「自動攻擊群怪」：玩家選擇一名玩具尺寸的英雄與兩種奇妙又怪異的武器，在工匠工作檯上存活 180 秒、抵禦成群怪物。武器會自動攻擊；玩家只需移動、衝刺、收集水晶、選擇強化，並施放蓄力新星。遊戲的核心魅力在於個人化：玩家可以在 Tripo 中建立自己的英雄或武器，下載 GLB 後匯入遊戲。使用 https://odd-arms.tripo.page/ 以及提供的參考資料完成最終成果。請在 https://x.com/lumina__team.
-
- 標註 Deniffer。## 2. 視覺方向
-將遊戲呈現為微型玩具立體模型場景，採固定的三分之四俯視攝影機，並跟隨英雄移動。遊戲區域是一張深海軍藍裁切墊，帶有淡淡的網格與印刷的「ODD ARMS」角落標記，裁切墊放在溫暖色調的木桌上。桌緣擺滿放大的手作道具（線軸、華麗黃銅玫瑰飾盒、皮革工具卷、黃銅檯燈、木製玩具火車、玩具零件），讓競技場看起來確實位於真實桌面上。使用來自檯燈一側的暖色主光、柔和環境補光、接觸陰影與輕微泛光；角色採亮面、厚實的收藏玩偶風格，使用高飽和色彩。
-
-UI：奶油白圓角卡片搭配海軍藍文字與珊瑚橘點綴；標題使用厚重的窄體展示字型（「LET'S MAKE SOME TROUBLE.」），內文使用清爽的窄體無襯線字型。戰鬥中：左上顯示生命值卡片，下方顯示連殺計數；正上方顯示「SURVIVE THE WEIRD」倒數計時；右上顯示波次標籤、音效、設定與 Pause；右側顯示擊敗數；正下方顯示等級／XP 膠囊；左下方顯示三個武器晶片（環繞／返回／射擊，含等級）；右下方顯示操作方式與衝刺冷卻時間，其上方顯示「Q NOVA READY!」膠囊。強化遊戲手感：傷害數字、暴擊、敵人的擠壓與拉伸動畫、擊退、爆散粒子、輕微鏡頭震動（設定 prefers-reduced-motion 時停用震動）。
-
-## 3. 世界
-建立一個正方形競技場，將英雄限制在兩個軸向皆為 ±23 單位的範圍內。裁切墊填滿遊戲區域；桌面與道具位於限制範圍外，僅作為場景裝飾（不具碰撞）。競技場起初是空的，敵人從邊緣湧入：敵人在距離英雄 12–16 單位的圓環上生成（第一秒為 8–11 單位），並直線朝英雄移動。每 22 秒會出現一次突襲，在半徑 13 的完整圓周上生成一整圈敵人。紅色警告圈會出現在英雄目前位置下方（第一次於 28 秒出現，之後每隔 max(4.4, 9 − t/50) 秒出現一次），並在 2 秒後爆炸。
-
-## 4. 資產清單
-準備穩定的模型插槽；每個插槽都必須載入單一 GLB、置中、自動縮放至目標高度，載入失敗時則退回簡單的佔位模型。
-
-英雄（10 名，`hero:<id>`），每名都是輪廓鮮明、厚實的玩具公仔：
-- `cat` Astro Cat — 穿著白色太空衣、戴玻璃頭盔的橘色虎斑貓。HP 100、速度 6.8、磁力 ×1.35、衝刺冷卻 2.4 秒。
-- `frog` Frog Fighter — 戴紅色拳擊手套的綠色青蛙。HP 130、速度 6.8、衝刺傷害 135。
-- `shroom` Mushroom Hero — 戴紅帽、披著小披風的蘑菇。HP 90、速度 7.6、衝刺 1.8 秒。
-- `capybara` Chill Capybara — 慵懶泡在溫泉中的水豚。HP 160、速度 5.8、磁力 ×1.15、衝刺 3 秒、衝刺傷害 110。
-- `ramen` Ramen Ronin — 手捧熱騰騰拉麵碗的武士。HP 105、速度 7.2、衝刺 2.2 秒、衝刺傷害 120。
-- `penguin` Office Penguin — 穿襯衫打領帶的企鵝。HP 80、速度 7.1、衝刺 1.5 秒、衝刺傷害 75。
-- `axolotl` Axolotl — 粉紅色的探險六角恐龍。HP 85、速度 7.3、磁力 ×1.6、衝刺傷害 75。
-- `avocado` Avo Boxer — 以種子為核心的酪梨拳擊手。HP 120、速度 6.4、衝刺 2.1 秒、衝刺傷害 130。
-- `robot` Clockwork Bot — 帶有發條鑰匙的錫製發條機器人。HP 115、速度 6.2、衝刺 2.8 秒、衝刺傷害 165。
-- `snail` Snail Knight — 背著房子般巨大外殼的騎士蝸牛。HP 190、速度 5.2、磁力 ×1.2、衝刺 3.2 秒、衝刺傷害 120。
-未列出的英雄，預設衝刺傷害為 90。
-
-武器（12 種，`weapon:<id>`），依攻擊欄位分組：
-- 環繞：`sardine` Sardine Chainsaw（3 條魚，半徑 2.9、傷害 1、速度 1.2）；`cactus` Cactus Club（2 根球棒，半徑 3.3、傷害 1.65、速度 0.78、命中半徑 1.25、擊退 1.5）；`plunger` Plunger Patrol（4 個馬桶吸盤，半徑 2.25、傷害 0.85、速度 1.5）。
-- 返回：`banana` Banana Blades（2 把，傷害 1、速度 1.25）；`pizza` Pizza Cutter（1 個大型圓盤，傷害 1.5、速度 0.82、命中半徑 1.65）；`croissant` Croissant Blades（3 把，傷害 0.75、速度 1.45）；`boomerang` Boomerang（1 個，傷害 1.15、速度 1.6）；`donut-disc` Donut Disc（1 個，傷害 1.5、速度 0.9、命中半徑 1.3）。
-- 射擊：`duck` Duck Rocket（追蹤，爆炸範圍 2，間隔 0.42 秒）；`toaster` Angry Toaster（扇形穿透三連射，傷害 0.7）；`teapot` Raging Teapot（2 發慢速射擊，爆炸範圍 2.8，間隔 0.8 秒）；`bubble-gun` Bubble Gun（2 顆穿透泡泡，傷害 0.45，間隔 0.3 秒）。
-預設配置：Astro Cat、Banana Blades、Angry Toaster；第一次強化時解鎖環繞武器。
-
-敵人（3 種，`enemy:<id>`），發條玩具怪物：`red-chomper`（紅色圓形咬人玩具，基本型，基礎 HP 30、速度 2.35）、`spring-rabbit`（黃色彈簧腿兔子，快速型，基礎 HP 23、速度 3.5）、`crown-bear`（戴皇冠的大型拼布熊，坦克型，基礎 HP 130、速度 1.7，60 秒後出現，佔 17%，掉落 3 XP）。
-
-場景道具（`prop:<id>`）：工作檯、裁切墊框架與角落金屬片、檯燈、玩具火車、線軸、華麗玫瑰飾盒、工具卷、玩具零件盤。裁切墊、網格、水晶、投射物、警告圈、粒子、燈光與 UI 都維持程序化生成。
-
-## 5. 遊戲流程與回饋
-流程：角色 → 配置（1 個返回武器 + 1 個射擊武器）→ 準備（以 3D 旋轉展示檢視英雄與所選武器，可拖曳旋轉）→「Let's play」。每個引導步驟只顯示該分類，並提供描述、遊玩風格與弱點文字。記住上次的配置。
-
-操作：使用 WASD／方向鍵移動；Space 朝移動方向衝刺（速度 ×3.7、短暫無敵，每次衝刺對 2 單位內的敵人造成一次傷害）；能量達到 100 時按 Q 施放新星（半徑 11、傷害 200、強力擊退並吸入水晶）；按 1／2／3 或點擊選擇強化；按 Esc 暫停；視窗失去焦點時自動暫停。行動裝置：左側類比虛擬搖桿，右側 Dash 與 Nova 按鈕，附冷卻／蓄力圓環；支援多點觸控，讓搖桿與按鈕可同時操作；直向時強化選項位於搖桿上方，橫向時位於雙手拇指之間。
-
-規則：敵人 HP = base × (1 + t/260) × 1.3。生成間隔為 max(0.18, 0.52 − 0.0016·t) 秒，敵人上限 180。接觸傷害為 9（熊為 18），受擊後有 0.85 秒無敵時間。每擊殺一名敵人增加 2 點能量並掉落一顆水晶；每把武器每第 9 次命中造成 ×1.7 暴擊。25 連殺會觸發持續 5 秒的狂暴（攻擊速度 ×1.65，冷卻 13 秒）；受到傷害會重置連殺數。升級所需 XP：20，之後為 round(need × 1.4 + 10)。升級時遊戲不會暫停，而是以不阻塞流程的選擇卡排隊顯示。第一次強化提供三種環繞武器；之後從以下選擇三種：Orbit overload（+1 個環繞物，上限 7 個，傷害 +22%）、Another round（更快、更遠、更強的返回攻擊）、Full blast（射速更快、傷害 +20%、投射物更多）、Live a little（速度 +10%、HP +30）。每次選擇都會恢復 8 點 HP。
-
-結束：存活 180 秒 →「Beautifully weird. You made it.」；HP 歸零 →「That was a glorious mess.」兩種結果都顯示擊敗敵人數、最高連殺數與存活時間，並提供 Run it back／Change loadout 與自訂內容提示。
-
-打造專屬內容：在配置、暫停與結果畫面中，點選「Create my hero / weapon in Tripo」會在新分頁開啟 https://studio.tripo3d.ai/；「Import GLB」可載入本機 .glb（≤15 MB、僅限內嵌貼圖、在瀏覽器內解析、絕不上傳），將模型置中並縮放，只替換所選英雄或武器的外觀，同時保留原有數值。針對無效檔案顯示清楚的錯誤訊息，並保留原始模型。
-
-比較模型：標頭切換按鈕「Tripo3D ⇄ Simple3D (Blender)」可將所有英雄、武器、敵人與道具替換為相對應的簡單幾何體組合，且不重置目前遊戲。切換前先載入完整的替代資產組；若有任何檔案載入失敗，則保留目前的資產組。
-
-## 6. 技術實作
-使用 Vite + 原生 JavaScript + Three.js，搭配 GLTFLoader、RoomEnvironment 燈光與 ACES 色調映射。將模擬系統放在純粹、固定時間步長的模組中，並注入可替換的隨機來源，讓完整流程能在測試中模擬；渲染器只讀取狀態。每個 GLB 僅快取一次，再複製供各實例使用；重複裝飾物使用實例化或 LOD。限制像素比例（行動裝置為 1.5，敵人密集波次時降至 1），陰影每秒最多更新 30 次，只有數值變更時才更新 HUD 文字。將碰撞（簡單圓形）與視覺網格分離。字型、模型與貼圖使用同源打包，讓建置結果成為靜態資料夾。目標支援桌面與手機瀏覽器，寬度最低 320 px，包含手機橫向模式與安全區域。模型複雜度應依畫面上的顯示尺寸調整；不設硬性多邊形上限。
-
-## 7. 完成條件
-- 完整流程皆可運作：新手引導、戰鬥勝利與失敗、暫停／繼續、使用相同配置重新開始，以及變更配置。
-- 全部 10 名英雄與 12 種武器都能載入，且行為符合上述數值；使用任何配置進行 180 秒遊戲都能無錯誤完成。
-- 鍵盤與觸控操作皆可運作，包括同時使用搖桿與 Dash。
-- GLB 匯入會替換所選英雄或武器的外觀，並能妥善拒絕無效檔案。
-- Tripo3D／Simple3D 切換可在遊戲進行中替換所有模型。
-- 開始畫面、戰鬥中畫面與結果畫面皆符合參考資料；提供可執行原始碼、啟動指令與靜態正式版建置。
-
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/odd-arms) · [查看原文](https://odd-arms.tripo.page/) · [線上展示](https://odd-arms.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100844566718926949"></a>
-
-### 打造照片級寫實的 3D 世界
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="打造照片級寫實的 3D 世界"></a>
-
-**提示詞**
-
-```text
-打造照片級寫實的 3D 世界。給我驚喜。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a photorealistic 3D world. Surprise me.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100844566718926949) · [查看原文](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100838090210431302"></a>
-
-### 漂浮群島間的 3D 空中電車遊戲
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/e2d1851a486e080772aa36d6e517463595d8981ac121dde5a72f8d572e9c96fd.webp" width="840" loading="lazy" alt="漂浮群島間的 3D 空中電車遊戲"></a>
-
-**提示詞**
-
-```text
-製作一款單一 HTML/JS 檔案的 3D 遊戲（Three.js），可直接在瀏覽器中遊玩；採用溫暖、低多邊形但精緻的獨立遊戲風格，營造出吉卜力海濱小鎮與《薩爾達傳說》礦車軌道般流暢感的結合。     
-【核心玩法】玩家駕駛復古空中電車，在漂浮於雲海與海面上方的群島之間行駛。 - 軌道是一條連續的 3D 鐵路，包含直線路段、上坡、下坡、高架彎道，以及橫跨海面的長橋 - 操作：W 加速（動力）、S 煞車（煞車），左右鍵用於微調或切換視角 - 即時顯示：速度（km/h）、車上乘客人數（例如 12/16 人乘車）、路況（穩定／側風） - 乘客舒適度系統：突然加速、急煞、過快過彎與側風都會降低「腿部舒適度」；平穩抵達目的地可獲得額外分數（例如抵達時 +75） - 連勝：行駛過於顛簸時會觸發訊息「連勝中斷。找到平衡，重新累積小費。」 - 抵達車站後開門，讓乘客上下車。月台上有排隊等候的居民，並顯示「車門開啟——芒果潮汐」、「請稍候……」等字幕     【世界與車站】至少包含兩條路線／兩座島嶼：  1. 鹽光終點站  2. 芒果潮汐  島嶼是一座漂浮在雲層上方的岩石島，島上有採地中海／南歐風格的小屋、紅瓦屋頂、燈塔、碼頭、綠樹、街燈，以及夜間散發暖黃色光芒的窗戶。遠處可見更多漂浮島嶼與環繞運行的軌道。天空從黃昏至夜晚呈現藍紫色漸層，有星星與厚重雲層，下方則是蔚藍海水。     【電車外觀】復古電車：深綠色車身、木色底盤、弧形玻璃窗、車頂行李，以及綠色遮棚／藤蔓裝飾；車內坐著各式各樣的乘客。行駛時有輕微搖晃感與軌道行駛聲（可用簡單音效或視覺提示呈現）。     【場景 2：工坊改造】切換至工坊「Cloudworks／Oliver Cloudworks／Oliver 的家鄉島」的俯視等距視角。玩家可以替電車更換零件，介面類似升級彈出視窗： - 爐心葉片——拆卸舊零件 - 小小夥伴——準備電車 進度條＋「坐下來看看工坊的作業吧。」改造後電車外觀有所變化（例如綠色車頂、加裝行李架、燈籠、藤蔓），接著駛出工坊，顯示「各位乘客請上車。」／「下一站：海岸線。」等字幕。     【UI】簡潔現代的休閒遊戲 UI：左上角顯示目的地與貨幣／連勝；底部顯示速度條與動力／煞車按鈕；舒適度進度條連接兩座車站的名稱。畫面不要雜亂，也不要做成恐怖或賽博龐克風格。     【技術需求】 - 單一檔案或最少檔案數，使用 Three.js - 使用曲線（CatmullRom 等）製作軌道，讓電車沿著鐵軌行駛；鏡頭跟隨電車，帶有些微沿軌道移動的感覺 - 簡單的物理感：加速慣性、煞車減速、轉彎時車身側傾 - 在行動裝置上，也請盡量支援點按加速／煞車 - 程式碼易讀並附上註解，開啟後即可遊玩。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.     
-【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100838090210431302) · [查看原文](https://x.com/YouWareAI/status/2100838828433179037) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100751369619820923"></a>
-
-### 以 Sharpa 靈巧手訓練轉筆策略
-
-[AI Will](https://x.com/FinanceYF5) · 2026-09-18 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/ca147480aaf4e9faab8d21e1675a0977a1953d45a78809c76f60ef9258df645f.webp" width="840" loading="lazy" alt="以 Sharpa 靈巧手訓練轉筆策略"></a>
-
-**提示詞**
-
-```text
-讓靈巧手完成轉筆。使用 Isaac Lab 進行強化學習，採用 Sharpa hand，並自行建立筆的 3D 網格。最終交付訓練完成的策略與視覺化影片。可以自由搜尋網路、下載論文及所需資料。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100751369619820923) · [查看原文](https://x.com/FinanceYF5/status/2100751369619820923) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100614534423540102"></a>
-
-### 用 CAD 設計身體
-
-[vitalduval](https://x.com/vitalduval) · 2026-09-17 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/138579840f9de4ce31b0d5320ac7fd1f9772a567ef4c00743d5ac10716256006.webp" width="840" loading="lazy" alt="用 CAD 設計身體"></a>
-
-**提示詞**
-
-```text
-我讓 Astra 用 CAD 設計出自己的身體。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-I told Astra to CAD itself a body.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100614534423540102) · [查看原文](https://x.com/vitalduval/status/2100343136077877251) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100595652703199281"></a>
-
-### 逃離封閉研究設施的瀏覽器 3D 遊戲
-
-[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/72f6d766a135c0c5dbb4c1ace35342212b0a05ecdb6fd494c550d3be50af7141.webp" width="840" loading="lazy" alt="逃離封閉研究設施的瀏覽器 3D 遊戲"></a>
-
-**提示詞**
-
-```text
-請製作一款可在瀏覽器中遊玩的 3D 密室逃脫遊戲。遊戲內容是從封閉的研究設施中逃脫，遊玩時間約為 5～10 分鐘。請加入鑰匙、開關等機關，讓玩家容易理解遊玩方式，並確保能順利遊玩至通關。請將遊戲整合為單一 HTML 檔案，讓玩家只要在瀏覽器中開啟檔案即可遊玩。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-ブラウザーで遊べる3D脱出ゲームを作ってください。閉鎖された研究施設から脱出する内容で、5～10分程度で遊べるものにしてください。鍵やスイッチなどの仕掛けを入れ、遊び方がわかり、最後までクリアできる状態にしてください。HTMLファイル1つにまとめ、ブラウザーで開くだけで遊べるようにしてください。
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100595652703199281) · [查看原文](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100526922770026874"></a>
-
-### 製作 3D 賽車遊戲
-
-[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/72ac86b5949942e8a18e7adedd1ceae4b3290c76145424d2362cca0a3c353f73.webp" width="840" loading="lazy" alt="製作 3D 賽車遊戲"></a>
-
-**提示詞**
-
-```text
-幫我製作賽車遊戲
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-レーシングゲーム作って
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100526922770026874) · [查看原文](https://x.com/taiyaki_ai3/status/2100526934082105683) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100519026720231698"></a>
-
-### 為欄杆新增維修用鏈條
-
-[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="為欄杆新增維修用鏈條"></a>
-
-**提示詞**
-
-```text
-幫我在欄杆上加裝維修用鏈條！
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-手摺にメンテ用のチェーン付けて！
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100519026720231698) · [查看原文](https://x.com/ujiden_type0/status/2100519026720231698) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2100350159540596760"></a>
-
-### 互動式體素騎士篝火場景
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="互動式體素騎士篝火場景"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
-
-**提示詞**
-
-```text
-你是一名資深創意 WebGL 與 Three.js 開發者。你的任務是使用 Three.js + WebGL，建立一個完整、可用於正式環境的互動式 3D 場景，並將其完全收納在單一獨立 HTML 檔案（index.html）中
-
-### 1. 視覺主題與美術方向
-
-- 氛圍：深沉的夜間森林、溫暖閃耀的營火，以及獨自疲憊地在營地休息的騎士（《Dark Souls》篝火／經典復古 RPG 美學）。
-- 美學：3D 像素藝術／體素／低多邊形美學。
-- 著色與後製：整合 Three.js 後製效果（RenderPixelatedPass 或等效的低解析度像素化／抖動效果），呈現真實的 16 位元／32 位元復古風格。
-
-### 2. 場景幾何與資產（100% 程序化建立——不可使用外部 .gltf/.obj 檔案）
-
-所有資產都必須使用 Three.js 幾何圖元（BoxGeometry、CylinderGeometry 等）與基本材質以程序化方式建立，確保檔案能在本機執行且不會遇到 CORS 問題。
-
-1. 森林環境：
-
-   - 地面：深色風格化地形，搭配程序化生成的體素石頭、蘑菇與低多邊形植被。
-   - 樹木：在空地周圍程序化生成松樹／雲杉或塊狀樹冠的樹木，營造深度與隱密感。
-   - 天空與光照：深邃的午夜天空，搭配閃爍的體素星星，以及投射柔和陰影的冷色月光 DirectionalLight。
-   - 深度：使用帶有深色大氣色彩的 THREE.FogExp2，融合地平線。
-
-2. 營火：
-
-   - 以石頭圍成圓圈，環繞著悶燒的木柴與程序化生成的餘燼。
-   - 火焰系統：向上升起的動畫像素粒子（Points 或脈動的體素網格）。
-   - 動態光照：使用暖橙紅色 PointLight，搭配持續且自然的閃爍邏輯（使用 Math.sin、雜訊或 شبه隨機變化）。
-
-3. 騎士：
-
-   - 使用體素化圖元建立階層式場景圖（包含頭部、軀幹、上臂／前臂、腿部、披風與劍的群組）。
-   - 視覺細節：開槽頭盔、胸甲、肩甲、護手，以及劍鞘／劍。
-   - 樞軸點必須在關節（肩膀、手肘、髖部、膝蓋）處正確對齊，以實現流暢的程序化旋轉動畫。
-
-### 3. 互動式騎士狀態機
-
-在渲染迴圈中使用線性插值（lerp）或三角函數曲線，為以下可選狀態實作平滑的程序化動畫：
-
-- 坐在火旁（預設待機）：盤腿或蹲坐，進行細微的呼吸循環，並在火焰附近暖手。
-- 添柴：騎士起身、取回一根木柴並將其丟進火中。火焰會明顯竄升，光照半徑暫時擴大，並爆發出一陣火花。
-- 練劍：起身、拔劍，完成流暢的三段式攻擊／格擋動作，最後回到戰鬥防禦姿勢。
-- 遙望遠方：走到空地邊緣，將劍插入地面，在披風飄動的同時凝視黑暗深處。
-- 睡覺：躺在火堆旁的睡墊上；帶動畫效果的像素「Z z z」粒子從頭盔上方飄起。
-- 烤肉：拿著串有食物的木棍在火焰上方烘烤，並散發細微的程序化煙霧／蒸氣粒子。
-
-### 4. 攝影機系統
-
-提供預設攝影機切換功能，並以平滑的轉場插值（對位置與目標點進行 lerp）：
-
-- 溫馨特寫：聚焦騎士與火光的中景。
-- 等角 RPG：以經典的高位 45 度戰術視角俯瞰空地。
-- 電影感地面視角：以低角度戲劇性地向上拍攝騎士，背景是繁星天空與松樹樹冠。
-- 自由環繞：無縫切換至標準 OrbitControls，以便互動檢視。
-
-### 5. UI 與音效
-
-- UI 風格：採用復古 8 位元／16 位元 RPG HUD 版面，以半透明深色框架、像素化邊框，以及嵌入的 Google Font（例如 'Press Start 2P'）構成。
-- 底部面板：提供可觸發各個騎士狀態的互動式動作按鈕。
-- 右上方面板：提供切換攝影機角度的按鈕。
-- 木柴計數器：追蹤已添加的木柴數量與目前的火焰強度。
-- 音效（Web Audio API）：程序化合成的火焰劈啪聲與夜間微風／蟲鳴環境音，並提供靜音／取消靜音切換按鈕。
-
-### 6. 技術規格
-
-- 單一、自包含的 index.html 檔案。
-- 使用透過 CDN 載入的 ES Modules（https://t.co/W8o3SZwkCj 或 unpkg）。
-- 模組化且附有完善註解的程式碼結構（initScene、buildEnvironment、buildKnight、buildCampfire、setupUI、setupAudio、animate）。
-- 完整支援響應式視窗大小調整處理常式，更新攝影機長寬比與像素化後製通道的解析度。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
-
-### 1. Visual Theme & Art Direction
-
-- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
-- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
-- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
-
-### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
-
-All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
-
-1. Forest Environment:
-
-   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
-   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
-   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
-   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
-
-2. Campfire:
-
-   - Stone circle surrounding smoldering logs and procedural ember embers.
-   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
-   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
-
-3. The Knight:
-
-   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
-   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
-   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
-
-### 3. Interactive Knight State Machine
-
-Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
-
-- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
-- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
-- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
-- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
-- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
-- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
-
-### 4. Camera System
-
-Provide preset camera switches with smooth transition interpolation (lerping position and target):
-
-- Cozy Close-up: Medium shot focusing on the knight and the firelight.
-- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
-- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
-- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
-
-### 5. UI & Audio
-
-- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
-- Bottom Panel: Interactive action buttons triggering each knight state.
-- Top-Right Panel: Camera angle switcher buttons.
-- Firewood Counter: Tracks logs added and current fire intensity.
-- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
-
-### 6. Technical Specifications
-
-- Single, self-contained index.html file.
-- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
-- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
-- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2100350159540596760) · [查看原文](https://x.com/vib3coded/status/2100350602316558428) · [返回案例導覽](#all-prompts)
 
 ---
 

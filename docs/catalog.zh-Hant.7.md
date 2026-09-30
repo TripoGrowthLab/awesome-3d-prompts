@@ -28,6 +28,16 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [3D 彈弓小鳥遊戲](#3d-slingshot-bird-game-2095981655370666076)
+- [魯布·戈德堡連鎖機械](#rube-goldberg-chain-reaction-machine-2095980885732704629)
+- [可切換日夜的浮空中式寺廟](#gpt-6-astra-2095978925029556561)
+- [多視角參考機甲建模與骨架綁定](#gpt-6-astra-2095975726558392570)
+- [反重力戰鬥賽車](#anti-gravity-combat-racer-2095967568825582044)
+- [可互動的 PS5 手柄](#interactive-ps5-controller-2095967131573649552)
+- [互動式 3D 角色卡片](#interactive-3d-character-cards-2095963576049832347)
+- [子彈時間第三人稱射擊](#bullet-time-third-person-shooter-2095962376344309843)
+- [Street Heat 瀏覽器漂移賽車](#street-heat-browser-drift-racer-2095916820431827408)
+- [快速可玩遊戲原型](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender 迴圈賽博朋克臥室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [自動遊玩的國家文化街機遊戲](#self-playing-cultural-arcade-game-2095898198413922791)
 - [提示詞生成開放世界遊戲](#open-world-game-from-a-prompt-2095872986477908108)
@@ -68,18 +78,239 @@
 - [3D 博物館電影預演](#3d-museum-cinematography-previsualization-2095616529572503593)
 - [房產頁面轉 3D 宣傳片](#zillow-listing-to-3d-property-film-2095612137582526615)
 - [逐街復刻曼哈頓 Unreal 世界](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
-- [面向零經驗使用者的語音 3D 遊戲](#voice-directed-3d-game-for-beginners-2095608358086840647)
-- [一次生成的瀏覽器 3D 遊戲](#one-shot-browser-3d-game-2095599934766764338)
-- [住宅照片轉可編輯 Blender 世界](#house-photo-to-editable-blender-world-2095598645190291775)
-- [10v10 Halo 風多人 FPS](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
-- [現有資產驅動的 Unity 可探索城市](#asset-driven-explorable-unity-city-2095597640587374887)
-- [一次生成的高階互動原型](#one-shot-premium-interactive-prototype-2095597560253862065)
-- [一次生成的 Minecraft 風世界](#one-shot-minecraft-style-world-2095597137849446688)
-- [瀏覽器開放世界冒險](#open-world-browser-adventure-2095596341422440714)
-- [Unreal 自主人類生存社會](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
-- [火星 Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
 
 </details>
+<a id="3d-slingshot-bird-game-2095981655370666076"></a>
+
+### 3D 彈弓小鳥遊戲
+
+[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="3D 彈弓小鳥遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+製作 3D 彈弓遊戲，包含四種具有不同技能的小鳥、瞄準釋放操作、可破壞結構與可重玩的計分迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [查看原文](https://x.com/MozeTech/status/2095981655370666076) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
+
+### 魯布·戈德堡連鎖機械
+
+[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="魯布·戈德堡連鎖機械"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在獨立 Three.js HTML 檔案中建立魯布·戈德堡機械，透過一連串機械互動最終按下按鈕並觸發戲劇化爆炸。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [查看原文](https://x.com/thehypedotnews/status/2095980885732704629) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095978925029556561"></a>
+
+### 可切換日夜的浮空中式寺廟
+
+[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="可切換日夜的浮空中式寺廟"></a>
+
+**提示詞**
+
+```text
+建立一個互動式像素方塊世界，讓我看看你的建模能力有多好。我想要一座周圍種滿粉紅色櫻花樹的中式寺廟。整片土地都應獨立坐落在自己的漂浮島嶼上，寺廟周圍環繞瀑布與山巒景觀。不必向我詢問任何資訊，我希望你全程自行建造並自行做出決定。加入一個簡單的開關，讓我可以在白天與夜晚之間切換。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095978925029556561) · [查看原文](https://x.com/PhilipNora7/status/2095978925029556561) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095975726558392570"></a>
+
+### 多視角參考機甲建模與骨架綁定
+
+[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="多視角參考機甲建模與骨架綁定"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
+
+**提示詞**
+
+```text
+使用 Blender 5.2.1 無頭模式，根據這份藍圖打造細節高度豐富的機甲 3D 模型：`/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`。使用同一資料夾中的其他機甲參考圖，以取得更多細節參考。請注意，藍圖和所有參考圖皆由 AI 生成，因此不同圖片中的細節可能不一致。若發現細節互相矛盾，請發揮創意找出解決方案，讓最終的機甲 3D 模型外觀一致且符合物理結構。機甲 3D 模型必須完成骨架綁定。透過算繪一段 10 秒的機甲動畫來展示目標已完成：呈現機甲展示武器與戰鬥機動性。
+
+僅提供方向：
+挑選最合適的參考圖，不要只因藍圖在提示中被明確提及，就一味偏重藍圖。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
+
+only steering:
+pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095975726558392570) · [查看原文](https://x.com/vatro_vrbanic/status/2095975726558392570) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="anti-gravity-combat-racer-2095967568825582044"></a>
+
+### 反重力戰鬥賽車
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="反重力戰鬥賽車"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+用 Three.js 建置高速反重力戰鬥競速，加入漂移、加速、傾斜鏡頭、空氣制動和護盾道具，在外星高架賽道提供輕型、均衡和重型飛行器。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [查看原文](https://x.com/superalesha/status/2095967568825582044) · [專案原始碼](https://github.com/alesha-pro/bench-portal) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-ps5-controller-2095967131573649552"></a>
+
+### 可互動的 PS5 手柄
+
+[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="可互動的 PS5 手柄"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Three.js 中建立可檢視的 PS5 手柄，還原輪廓、按鍵、扳機、搖桿與不同表面材質。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-ps5-controller-2095967131573649552) · [查看原文](https://x.com/blueemi99/status/2095967131573649552) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-3d-character-cards-2095963576049832347"></a>
+
+### 互動式 3D 角色卡片
+
+[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="互動式 3D 角色卡片"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置互動式 3D 角色卡片介面，讓角色響應指標移動，同時保證卡片清晰和響應式佈局。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [查看原文](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
+
+### 子彈時間第三人稱射擊
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="子彈時間第三人稱射擊"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置受馬克思佩恩啟發的 Three.js 第三人稱射擊遊戲，重點實現慢動作、靈敏槍戰及有效的跟隨鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [查看原文](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat 瀏覽器漂移賽車
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat 瀏覽器漂移賽車"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+根據一句話在瀏覽器中建置完整街機街頭賽車。實現爽快漂移物理、連擊計分、擦肩獎勵、測速點、氮氣、交通、清晰 HUD 和可重複遊玩的短賽道。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [查看原文](https://x.com/higgsfield_ai/status/2095916820431827408) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="rapid-playable-game-prototype-2095907526566990013"></a>
+
+### 快速可玩遊戲原型
+
+[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="快速可玩遊戲原型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在嚴格時間與 Token 預算下建立視覺連貫的可玩遊戲原型。優先保證一個完整迴圈、靈敏輸入、清晰回饋、穩定效能和可交付瀏覽器版本，而不是堆功能數量。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [查看原文](https://x.com/gibglue/status/2095907526566990013) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
 
 ### Blender 迴圈賽博朋克臥室
@@ -893,206 +1124,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [查看原文](https://x.com/mattshumer_/status/2095609734845927525) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
-
-### 面向零經驗使用者的語音 3D 遊戲
-
-[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="面向零經驗使用者的語音 3D 遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-充當我的 3D 遊戲建置器。只追問缺失的玩家目標、美術方向和控制方式，然後建立可立即遊玩的瀏覽器遊戲，並支援我用簡短語音指令持續修改。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [查看原文](https://x.com/EHuanglu/status/2095608358086840647) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="one-shot-browser-3d-game-2095599934766764338"></a>
-
-### 一次生成的瀏覽器 3D 遊戲
-
-[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="一次生成的瀏覽器 3D 遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在一個自包含專案中建立可直接在瀏覽器執行的完整 3D 遊戲，包含清晰目標、靈敏控制、空間連貫關卡、敵人或危險、回饋、計分、重開與效能保護。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [查看原文](https://x.com/theo/status/2095599934766764338) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
-
-### 住宅照片轉可編輯 Blender 世界
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="住宅照片轉可編輯 Blender 世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把給定住宅圖片重建為完整可編輯的 Blender 場景。將建築、傢俱、電器和玩具建成獨立物件，保持合理比例，並讓結果能在本地以流暢 60 FPS 漫遊。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [查看原文](https://x.com/tomkrcha/status/2095598645190291775) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
-
-### 10v10 Halo 風多人 FPS
-
-[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="10v10 Halo 風多人 FPS"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置 10 對 10 多人競技場射擊遊戲，靈感來自經典科幻 FPS。包含陣營、復活、易讀武器、護盾、拾取物、緊湊地圖、計分、比賽流程與低延遲瀏覽器遊玩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [查看原文](https://x.com/VikiingAI/status/2095598026916049024) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
-
-### 現有資產驅動的 Unity 可探索城市
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="現有資產驅動的 Unity 可探索城市"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用給定資產庫組裝可探索的 Unity 城市。建立連貫道路、高樓、車輛、棕櫚樹、燈光與導航，然後最佳化場景並交付穩定的第一人稱漫遊。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [查看原文](https://x.com/chetaslua/status/2095597640587374887) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
-
-### 一次生成的高階互動原型
-
-[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="一次生成的高階互動原型"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據給定產品概念一次設計並實現高階互動原型。選擇鮮明視覺系統，突出主要動作，加入精緻轉場，並交付響應式可託管版本。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [查看原文](https://x.com/AY_Orbach/status/2095597560253862065) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
-
-### 一次生成的 Minecraft 風世界
-
-[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="一次生成的 Minecraft 風世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-一次建置可玩的 Minecraft 風格體素世界，包含地形生成、方塊放置與破壞、第一人稱控制、物品欄、燈光、水體和緊湊生存迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [查看原文](https://x.com/flavioAd/status/2095597137849446688) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="open-world-browser-adventure-2095596341422440714"></a>
-
-### 瀏覽器開放世界冒險
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="瀏覽器開放世界冒險"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置開放世界 3D 冒險，包含多個相連生態區、移動、發現、輕戰鬥、任務、地標與晝夜氛圍，並提供足夠引導，讓探索具有目標感。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/open-world-browser-adventure-2095596341422440714) · [查看原文](https://x.com/petergostev/status/2095596341422440714) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Unreal 自主人類生存社會
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal 自主人類生存社會"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Unreal Engine 中建立一個由自主人類智慧體組成的世界。賦予每個人獨立需求與共同生存目標，讓他們在玩家離開後仍會交流、分工、搭建庇護所並維持社會運轉。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [查看原文](https://x.com/mattshumer_/status/2095596175705399482) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="arcadia-base-on-mars-2095595678214873212"></a>
-
-### 火星 Arcadia 基地
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="火星 Arcadia 基地"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立可玩的體素火星殖民地，包含著陸飛船、建造機器人、探測車、儲能及氧氣和水系統，讓沙塵暴與停電影響殖民地。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [查看原文](https://x.com/knowixbuilds/status/2095595678214873212) · [返回案例導覽](#all-prompts)
 
 ---
 

@@ -28,6 +28,16 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Blender’da mekanik Rube Goldberg makinesi](#claude-opus-5-5-2104953406708175097)
+- [3JS ile Mario Kart tarzı yarış oyunu oluşturun](#claude-opus-5-5-2104947552328261810)
+- [Etkileşimli çizgi film tarzında 3B gezegen](#claude-opus-5-5-2104919117262389255)
+- [30 saniyelik markalı 3B hareketli grafik videosu](#claude-opus-5-5-2104896325255037196)
+- [Son derece ayrıntılı 3B insan gözü](#gpt-6-astra-2104841727496323479)
+- [DÜNYA ATLASI: YAŞAYAN GEZEGEN](#claude-opus-5-5-2104837836507955401)
+- [Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı](#claude-opus-5-5-2104831049020674144)
+- [X-ray patlatılmış görünümlü dönüşen spor otomobil](#gpt-6-astra-2104654448878387313)
+- [Ay ışığında etkileşimli orman teknesi gezintisi](#gpt-6-astra-2104613125093998674)
+- [Etkileşimli eğitsel 3B CRISPR gösterimi](#gpt-6-astra-2104605522640970208)
 - [Mukavemet testi için 3B yazdırılabilir J kancası](#gpt-6-astra-2104590493191479337)
 - [Yürüyen Mimari](#claude-opus-5-5-2104590334152056983)
 - [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](#claude-opus-5-5-2104571944842498150)
@@ -68,18 +78,579 @@
 - [Three.js ile Eyfel Kulesi oluşturun](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
 - [Grid Genius için Pixar kalitesinde Three.js animasyonu](#claude-opus-5-5-2103087766662009118)
-- [Gerçek zamanlı pelikan bisiklet oyunu](#claude-opus-5-5-2103083781490176212)
-- [Etkileşimli 3B jelibon narenciye dilimi](#gpt-6-astra-2103062348168618280)
-- [İmparatorluk Şehri Oluştur](#claude-opus-5-5-2103046279253168554)
-- [Three.js'te Voxel Codex](#gpt-6-astra-2102956340482289944)
-- [Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi](#gpt-6-astra-2102915300295369208)
-- [Birinci şahıs burger simülatörü](#gpt-6-astra-2102897258983313712)
-- [Three.js'te Bugatti Chiron Super Sport oluşturun](#claude-opus-5-5-2102828216289566725)
-- [Sonsuz solarpunk şehir shader'ı](#gpt-6-astra-2102826333550133520)
-- [Claude gelişim montajı](#claude-opus-5-5-2102788371114246177)
-- [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](#claude-opus-5-5-2102788223835463902)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Blender’da mekanik Rube Goldberg makinesi
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Blender’da mekanik Rube Goldberg makinesi"></a>
+
+**İstem**
+
+```text
+Blender’da mekanik bir Rube Goldberg makinesi oluştur. Dişliler, rampalar, toplar ve hareketli platformlar kullan. Makineyi prosedürel olarak oluştur, her önemli adımdan sonra sahneyi incele ve belirgin geometri sorunlarını düzelt.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104953406708175097) · [Orijinal gönderi](https://x.com/Kwazikot/status/2104953406708175097) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### 3JS ile Mario Kart tarzı yarış oyunu oluşturun
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="3JS ile Mario Kart tarzı yarış oyunu oluşturun"></a>
+
+**İstem**
+
+```text
+Beş(Model) alt ajanını başlatmanı ve Mario Kart klonu olan AAA kalitesinde bir oyun oluşturmama yardım etmeni istiyorum. Bu alt ajanları başlatmanı, bana hiç soru sormadan oyunu geliştirmeni ve oyunu 3JS kullanarak oluşturmanı istiyorum. İşin bittiğinde de bana bilgi ver.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104947552328261810) · [Orijinal gönderi](https://x.com/EnvolDev/status/2104947905442505205) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Etkileşimli çizgi film tarzında 3B gezegen
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Etkileşimli çizgi film tarzında 3B gezegen"></a>
+
+**İstem**
+
+```text
+Bulutlar, dağlar, şehir binaları, arabalar ve üzerinde dolaşan bir uçakla canlı bir görünüme sahip, çizgi film/çizgi roman tarzında 3B bir ThreeJS gezegeni oluştur. Gezegenin çevresinde dolaşmak, yakınlaştırmak ve ayrıntıları görmek mümkün olmalı. Harness kullanılmamalı.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104919117262389255) · [Orijinal gönderi](https://x.com/mdaman010/status/2104919846953869421) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### 30 saniyelik markalı 3B hareketli grafik videosu
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="30 saniyelik markalı 3B hareketli grafik videosu"></a>
+
+**İstem**
+
+```text
+https://t.co/71rvEGmB6D için, üst düzey bir motion designer'ın showreeli hissini veren etkileyici bir 30 saniyelik hareketli grafik videosu oluştur. Önce web sitesini incele ve gerçek marka kimliğini, ürün arayüzünü, renklerini ve mesajlarını kullan. Çarpıcı tipografi, 3B hareket, animasyonlu arayüz, hızlı geçişler ve güçlü bir logo açılışı kullan.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104896325255037196) · [Orijinal gönderi](https://x.com/TawohAwa/status/2104896328300134868) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104841727496323479"></a>
+
+### Son derece ayrıntılı 3B insan gözü
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/a8d15991fe8e3d161999a93d81d230d3e8bfab617616410a063b4a6e1e1e9e12.webp" width="840" loading="lazy" alt="Son derece ayrıntılı 3B insan gözü"></a>
+
+**İstem**
+
+```text
+Three.js kullanarak yerel bir HTML/CSS/JS dosyası oluşturun. Gerçek bir gözün makro fotoğrafı gibi görünen, son derece ayrıntılı bir 3B insan gözü modeli oluşturun. Her şey sıfırdan oluşturulmalıdır.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model of a human eye that looks like a macro photograph of a real eye. Everything must be created from scratch.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104841727496323479) · [Orijinal gönderi](https://x.com/SimonasLTU1/status/2104841727496323479) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### DÜNYA ATLASI: YAŞAYAN GEZEGEN
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="DÜNYA ATLASI: YAŞAYAN GEZEGEN"></a>
+
+**İstem**
+
+```text
+“DÜNYA ATLASI: YAŞAYAN GEZEGEN” başlıklı olağanüstü bir etkileşimli SVG deneyimi oluştur. TEK bir kendi kendine yeten HTML dosyasında, derinlemesine keşfedilebilen eksiksiz bir Dünya bilimi gözlemevi tasarla. Tüm çıktını bir dosyaya yapıştırabilmeli, dosyayı doğrudan Chrome’da açabilmeli ve sunucu ya da ağ bağlantısı olmadan kullanabilmeliyim. İşine yarayan kütüphaneleri kullanabilirsin; ancak gerekli tüm çalışma zamanı kodunu ve seçilmiş verileri bu tek HTML dosyasına göm. Küre, bölgesel haritalar, arazi, deniz tabanı, kesitler, araçlar, grafikler, açıklamalar ve yakın plan çizimler öncelikle SVG ile oluşturulmalı.
+
+Yalnızca tek bir kod bloğu içinde, çalışır durumdaki TAM HTML’yi döndür.
+
+HEDEF
+
+NASA’nın amiral gemisi niteliğindeki bir Dünya bilimi sergisinin görsel kalitesini, etkileşimli bir atlasın derinliğiyle birleştir. İzleyici, görkemli bir Dünya’nın karşısında yörüngede başlar. Küreyi döndürebilmeli, gündüz ve gece arasında ilerleyebilmeli, gerçek bir yer seçebilmeli, o yerin coğrafyasına yakınlaşabilmeli, transekt çizebilmeli, yüzeyin ya da okyanusun derinliklerine inebilmeli ve bu konumun gezegenin bütünüyle nasıl ilişkili olduğunu anlayabilmeli.
+
+Deneyim, on dakikalık keşfi ödüllendirmeli. Yalnızca bilgi açılır pencereleri olan dönen bir küreden ibaret olmamalı; çarpıcı keşif anları, hassas etkileşimler ve birbiriyle bağlantılı görünümler içermeli. İlk kare, tek başına kullanılabilecek kadar etkileyici bir bilimsel illüstrasyon niteliğinde olmalı.
+
+GERÇEK BİR ÇOK ÖLÇEKLİ KEŞİF SİSTEMİ
+
+Önceden tasarlanmış bir ölçekler hiyerarşisi oluştur:
+
+1. YÖRÜNGEDEKİ DÜNYA — tam küre, atmosfer, gündüz–gece sınırı, büyük coğrafi oluşumlar ve küresel katmanlar.
+2. KITASAL ÖLÇEK — tanınabilir kıyı çizgileri, yükselti, büyük akarsular, okyanus havzaları ve seçilmiş bilimsel özellikler.
+3. BÖLGESEL ÖLÇEK — ayrıntılı arazi, batimetri, eşyükselti eğrileri, etiketler ve ölçüm araçları.
+4. YEREL SAHNE — seçilen yere özgü, zengin biçimde resmedilmiş bir kara veya okyanus ortamı.
+5. KESİT GÖRÜNÜMÜ — kara, buz, okyanus veya kabuk içinden, coğrafi olarak bağlantılı bir kesit.
+6. AYRINTI GÖRÜNÜMÜ — buzul katmanı, nehir kanalı, fay, tortul tabaka veya deniz tabanı oluşumu gibi bir özelliğin yakından incelenmesi.
+
+Her yakınlaştırma düzeyi, kendi ölçeğine uygun, yeni tasarlanmış SVG ayrıntıları ortaya çıkarmalı. Aynı düşük çözünürlüklü geometriyi boş kalana kadar büyütmekle yetinme.
+
+Geçişler boyunca coğrafi kimliği koru. Küre üzerinde seçilen bir nokta; bölgesel haritadaki, yerel sahnedeki, transektteki ve kesitteki karşılığıyla eşleşmeli.
+
+İşaretçiye doğru yakınlaştırmayı, küreyi sürükleyerek döndürmeyi, bölgesel görünümleri sürükleyerek kaydırmayı, pinch zoom’u, klavye ile gezinmeyi, Geri, Ana Sayfa ve Görünümü Sıfırla işlevlerini uygula. Kamera hareketini sınırlı ve akıcı tut. İnce bir ölçek çubuğu ve konum kırıntı gezintisi göster. Manuel etkileşim, otomatik kamera yolculuğunu zarif biçimde kesintiye uğratmalı.
+
+GÖRSEL YÖN
+
+Dünya, baskın görsel unsur olmalı.
+
+Derin okyanus mavisi, sığ su turkuazı, farklı bitki örtüsü yeşilleri, çöl aşı boyası, volkanik kömür grisi, mineral grileri, buzul beyazı ve ince sıcak beyaz açıklama çizgileri kullan.
+
+İzdüşümlü kıyı çizgisi geometrisi, değişen aydınlatma, atmosferik saçılma efektleri, bulut katmanları ve uygun tarihli bir kaynağın gömüldüğü, dikkatle kontrol edilen gece ışıkları uygulamasıyla ikna edici bir gezegen hacmi oluştur.
+
+Hassas kartografik çizimler, zarif eşyükselti eğrileri, ince malzeme desenleri, okunabilir derinlik gölgelendirmesi ve ince kılavuz çizgileri kullan. Bilgileri küreyi etiketlerle kaplamak yerine, mevcut yakınlaştırma düzeyinde yararlı oldukları anda göster.
+
+Arayüz, rafine bir bilimsel araç hissi vermeli. Genel amaçlı gösterge paneli kartlarından, aşırı neon kullanımından ve büyük yüzen metin panellerinden kaçın.
+
+KÜRESEL DÜNYA
+
+Tutarlı bir coğrafi izdüşüm ve koordinat işleme kullanan, döndürülebilir bir SVG küresi sun. Küre dönerken kara şekillerini, okyanus özelliklerini, etiketleri, seçili işaretçileri, rotaları ve terminatörü doğru biçimde izdüşür. Uzak taraftaki geometrileri gezegenin içinden çizmek yerine gizle.
+
+Şunlar için açılıp kapatılabilir katmanlar ekle:
+• Fiziksel rölyef.
+• Okyanus derinliği ve deniz tabanı yapısı.
+• Büyük nehirler ve drenaj havzaları.
+• Levha sınırları.
+• Gömülü, tarihli bir örnekten seçilmiş tarihsel deprem olayları.
+• Enlem–boylam ağı.
+• Yalnızca gömülü verilerin desteklediği yerlerde tarihli Dünya gözlem örnekleri.
+• Sade, sinematik görünüm.
+
+Her katman aynı koordinat sistemini kullanmalı. Kaynağını, tarihini, çözünürlüğünü, birimlerini ve lejandını ekle.
+
+Dosya gömülü bir anlık görüntü kullanıyorsa hiçbir katmana “canlı” ya da “güncel” deme.
+
+TAM OLARAK TASARLANMIŞ ALTI KEŞİF GEZİSİ
+
+Şunlar için eksiksiz ve birbirinden belirgin deneyimler oluştur:
+
+HİMALAYALAR
+Katmanlı dağ sıraları, vadiler, buzullar, kaynaklandırılmış bölgesel yükselti profili ve arazi içinden görsel olarak anlaşılır bir kesit.
+
+AMAZON HAVZASI
+Tanınabilir nehir yapısı, taşkın ovası ve kollar, resimli bir orman kesiti ve eğitici bir su yolu gösterimi.
+
+SAHRA
+Kumullar, kayalık arazi, kuru kanallar, belirgin yüzey malzemeleri ve arazi transekti. Resimli kumul ayrıntısını kaynaklı büyük ölçekli yükseltiden ayır.
+
+DOĞU AFRİKA RİFTİ
+Bölgesel göller ve arazi, fay doğrultulu bir kesit ve açıkça etiketlenmiş kavramsal bir tektonik gösterim.
+
+MARIANA ÇUKURU BÖLGESİ
+Seçilen transekt için uygun olduğu ölçüde okyanus yüzeyi, kıta sahanlığı ve derin okyanus geometrisi, sürüklenebilir bir derinlik profili, su sütununda bir iniş ve ayrıntılı biçimde resmedilmiş bir deniz tabanı sahnesi.
+
+ANTARKTİKA
+Buz yüzeyi, mevcut olduğu yerlerde kaynaklandırılmış buz/arazi bağlamı, kesitsel yorum ve mevsimsel güneş ışığı gösterimi.
+
+Her keşif gezisine şunları ekle:
+• Güçlü, özgün bir açılış kompozisyonu.
+• Küre üzerinde doğru konumlandırma.
+• Bölgesel bir harita.
+• En az bir yerel sahne.
+• En az bir bağlantılı kesit veya profil.
+• Kendine özgü, çalışan bir etkileşim.
+• Yörüngeye akıcı bir dönüş.
+
+Coğrafi kimliğin yerine genel amaçlı bir dağ, orman, çöl veya okyanus çizimini tekrar kullanma.
+
+BAĞLANTILI BEŞ GÖRÜNÜM MODU
+
+YÜZEY
+Topografyayı, arazi özelliklerini, nehirleri, buzları ve kıyı çizgilerini yakınlaştırma düzeyine bağlı ayrıntılarla keşfet.
+
+ÜSTÜ
+Güneş ışığını, mevsimsel geometriyi, atmosferi ve gömülü tarihli gözlemleri keşfet. Bulutlar veya hava durumu resimsel ise bunları resimli bir senaryo olarak etiketle.
+
+ALTI
+Seçilen coğrafi transekt boyunca arazi, buz, kabuk veya okyanus içinden bir kesit aç.
+
+GEZEGEN
+Seçilen noktanın Dünya’nın katmanlarıyla ilişkisini gösteren küresel bir kesiti görmek için uzaklaş. Seçilen konumun küre ve kesit üzerindeki karşılık gelen konumunu göster.
+
+KANIT
+Seçilen özellik veya ölçümün veri örneğini, kaynağını, tarihini, çözünürlüğünü, belirsizliğini ya da bilinen sınırlamasını ve arkasındaki hesaplamayı göster.
+
+Mod değiştirmek; seçilen konumu, makul olduğu ölçüde yakınlaştırma bağlamını ve zaman çizelgesi durumunu korumalı.
+
+BAĞLANTILI KEŞİF ARAÇLARI
+
+ÖLÇ
+Küre veya desteklenen bir bölgesel harita üzerinde iki nokta seç. Büyük çember rotasını çiz, koordinatları ve mesafeyi göster ve küre dönerken rotanın doğru izdüşürülmesini sağla.
+
+TRANSEKT
+Desteklenen bir bölge boyunca bir çizgi çiz veya çizgiyi ayarla. Profil oluşturmak için gömülü yükselti ya da batimetri verilerinden örnekle. Harita üzerindeki imlecin hareketi, profil ve kesit görünümündeki karşılığını da hareket ettirmeli.
+
+KARŞILAŞTIR
+Seçilen iki konumu yan yana yerleştir. Aynı birimleri ve açık ölçek kontrollerini kullan. Yükseltiyi veya derinliği, enlemi, bölgesel bağlamı ve desteklenen çevresel verileri karşılaştır.
+
+ZAMAN VE GÜNEŞ IŞIĞI
+Günün saatini ve yılın gününü zaman çizelgesi üzerinde ayarla. Belgelenmiş bir modelle küresel aydınlatmayı ve mevsimsel güneş geometrisini güncelle. Resimli hava durumunu bu saatten bağımsız tut.
+
+REHBERLİ KEŞİF GEZİSİ
+Altı ortam boyunca kısa, sinematik bir yolculuk sun. Her durak yalnızca bir açıklama göstermemeli, bir etkileşimi de ortaya çıkarmalı. Tur atlanabilir olmalı.
+
+AÇIKLAMA YOĞUNLUĞU
+Temel coğrafyayı değiştirmeden sinematik, rehberli ve teknik etiket düzeyleri arasında geçiş yap.
+
+OKYANUS KEŞFİ
+
+Deniz tabanını eksiksiz bir peyzaj olarak ele al.
+
+Gömülü rölyef örneğinin desteklediği yerlerde kıta sahanlıklarını, yamaçları, abisal bölgeleri, sırtları ve çukurları göster. Açık bir düşey ölçek kullan ve her türlü abartıyı etiketle.
+
+Mariana keşif gezisinde izleyicinin su sütununda aşağı inmesine izin ver. Derinliği, ışığı, rengi, belirtilen basitleştirilmiş model altındaki basınç tahminini ve konum imlecini birlikte güncelle.
+
+Derin deniz yakın planı güzel, resimli canlılar ve jeoloji içerebilir; ancak tam organizmalar ve mikro arazi, yorum olarak tanımlanmalı. Kaynaklı batimetri ile resimli yerel manzara birbirinden ayırt edilebilir kalmalı.
+
+DÜNYA’NIN İÇİ
+
+Kabuk, manto, dış çekirdek ve iç çekirdeği akıcı biçimde ortaya çıkaran %0–100 arası bir kesit sürgüsü sun. Ara değerlerde küre görsel bütünlüğünü korumalı.
+
+Seçilen coğrafi konumu dış yüzeyde göster ve iç kısma uzanan, onunla hizalı radyal bir kılavuz ekle.
+
+Açıkça belirtilmiş basitleştirilmiş bir model içeren eğitici bir sismik dalga gösterimi ekle. Dalga yolları, hareketli işaretçiler ve zaman okumaları aynı gösterim durumundan türetilmeli.
+
+Abartılmış katman kalınlığını, malzeme renklerini veya sıkıştırılmış zamanı açıkça etiketle.
+
+ÜÇ ETKİLEŞİMLİ BİLİM DENEYİ
+
+1. GÜNEŞ IŞIĞI LABORATUVARI
+İki enlem seç ve modellenmiş günlük güneş yolunu ve yıl boyunca gün ışığı süresini karşılaştır. Diyagramları aydınlatılmış küreyle ilişkilendir.
+
+2. RÖLYEF VE DENİZ SEVİYESİ LABORATUVARI
+Desteklenen bir kıyı bölgesinde varsayımsal su seviyesini ayarla ve gömülü yükselti profiliyle karşılaştır. Bunu statik bir topografya gösterimi olarak etiketle; kıyı taşkını tahmini gibi sunma.
+
+3. SİSMİK YOL LABORATUVARI
+Basitleştirilmiş eğitici bir dalga gösterimi için kaynak ve gözlem noktaları seç. Belirtilen modele göre yolları ve göreli varış zamanını göster. Tarihsel deprem işaretçilerini varsayımsal deneyden ayrı tut.
+
+Her deneyde Sıfırla işlevi, yeniden üretilebilir girdiler, tutarlı birimler ve küreye ya da seçilen yere açık bir dönüş bağlantısı bulunmalı.
+
+VERİ VE BİLİMSEL DÜRÜSTLÜK
+
+Sayısal iddialar ve gömülü örnekler için yetkili, kaynak gösterilmiş veriler kullan. Uygun kaynaklar arasında seçilmiş tarihli gözlemler için NASA Earthdata, kara ve okyanus rölyefi için NOAA ETOPO ve seçilmiş tarihsel deprem kayıtları için USGS bulunur.
+
+Tek bir HTML dosyasına sığacak, seçilmiş ve alt örneklemesi yapılmış veriler kullan. Gömülü gerçek çözünürlüğü göster. Bölgesel bir illüstrasyonun ayrıntı düzeyi yazarak oluşturulmuş veya basitleştirilmişse, kaynak veri kümesinin hassasiyetine sahip olduğunu asla iddia etme.
+
+Şu üç kategoriyi görünür tut:
+
+GÖZLEMLENEN VERİ — kaynak gösterilmiş bir ölçüm veya yayımlanmış veri kümesi örneği.
+TÜRETİLMİŞ DEĞER — adı belirtilen girdilerden ve incelenebilir bir yöntemle hesaplanmış değer.
+İLLÜSTRASYON VEYA DENEY — tasarlanmış bir manzara veya varsayımsal bir model.
+
+Kesin yükseltiler, derinlikler, deprem konumları, canlı bulut desenleri veya ölçülmüş çevresel değerler uydurma.
+
+Bağlantılar, veri kümesi sürümleri ve tarihleri, koordinat referansı, birimler, alt örnekleme yöntemi, denklemler, belirsizlikler ya da sınırlamalar ve atıf bilgilerini içeren Kaynaklar ve Yöntemler paneli ekle.
+
+Her özellikte tutarlı bir enlem–boylam gösterimi kullan. Coğrafi koordinatları, fiziksel ölçümleri ve abartılmış görüntü geometrisini birbirinden ayrı tut.
+
+KÜÇÜK AYRINTILAR VE GÖRSEL KEŞİFLER
+
+Dikkatle kurgulanmış şu keşif anlarını ekle:
+• Seçilen noktayı görünür tutan yörüngeden bölgeye geçişler.
+• Yalnızca izleyici yararlı ölçeğe ulaştığında beliren eşyükselti eğrileri ve etiketler.
+• Küresel haritadan yerel havzaya kadar tanınabilirliğini koruyan bir nehir.
+• Harita, profil ve manzara boyunca eş zamanlı hareket eden bir yükselti imleci.
+• Batimetri katmanı etkinleştirildiğinde görsel olarak dönüşen bir kıyı çizgisi.
+• Antarktika kesitinde kendini aşamalı olarak açığa çıkaran buz katmanları.
+• Deniz tabanının ani bir sahne değişimiyle değil, kademeli olarak göründüğü derin okyanus inişi.
+• Seçilen coğrafi konumu koruyan küre–iç kesit geçişi.
+• Seçilen keşif gezisini gündüze veya geceye taşıyan değişken bir terminatör.
+• Güzel bir görsel unsuru, arkasındaki veriye veya modele bağlayan bir kanıt gösterimi.
+
+Dekoratif parçacıklar yerine keşfi derinleştiren ayrıntılara öncelik ver.
+
+PERFORMANS VE DOĞRULAMA
+
+Sınırlı bir SVG sahne grafiği, yeniden kullanılabilir semboller, kırpma, maskeler ve yakınlaştırma düzeyine bağlı çizim kullan. Yalnızca biri görünürken altı yüksek ayrıntılı sahneyi birden etkin tutma.
+
+Masaüstünü, dokunmatik cihazları, klavye ile gezinmeyi, görünür odak durumunu ve hareket azaltma tercihlerini destekle.
+
+Şunları doğrula:
+• Öne çıkarılan her konumun coğrafi olarak doğru yerleştirilmesi.
+• Kürenin gizli tarafındaki özelliklerin gerçekten gizli olması.
+• Rotasyon sırasında rotaların koordinatlarına bağlı kalması.
+• Ölçüm mesafelerinin seçilen koordinatları kullanması.
+• Transekt değerlerinin gömülü örneklerden gelmesi.
+• Harita, profil ve kesit imleçlerinin eşzamanlı kalması.
+• Sıfırlamanın deneyleri başlangıç durumlarına döndürmesi.
+• Zaman kontrollerinin ilgisiz verileri sessizce değiştirmeden amaçlanan modeli etkilemesi.
+• Kaynak ve tarih etiketlerinin gömülü katmanlarla eşleşmesi.
+
+Otomatik kontrollerin gerçek sonuçlarını göster. “Başarılı” etiketlerinden oluşan bir satırı sabit olarak kodlama.
+
+Küreden yerel sahneye ve oradan kesite uzanan eksiksiz yolu altı keşif gezisinin tamamında çalışır hâle getir. Uygulama kapsamı bir ödünleşmeyi zorunlu kılarsa, isteğe bağlı görsel efektleri eklemeden önce bu bağlantılı yolculuğu ve temel bilim araçlarını tamamla.
+
+SON TESLİM
+
+Ortaya çıkan sonuç, tek bir dosyanın içine sığan ve keşfedilebilir bir gezegen hissi vermeli: yörüngeden bakıldığında büyüleyici, yakından incelendiğinde ödüllendirici ve neyin gözlemlendiği, hesaplandığı veya resmedildiği konusunda açık.
+
+Yalnızca <!DOCTYPE html> ile başlayan, çalışan HTML belgesinin TAMAMINI içeren TEK bir kod bloğu döndür. Tek bir .html dosyasına yapıştırıp Chrome’da açabilmeli, Dünya’yı döndürüp yakınlaştırabilmeli, altı keşif gezisinden herhangi birine girebilmeli, bağlantılı bir transekt çizebilmeli, okyanusu ve Dünya’nın içini keşfedebilmeli, konumları karşılaştırabilmeli, üç deneyi çalıştırabilmeli, kaynakları inceleyebilmeli ve akıcı biçimde yörüngeye dönebilmeliyim.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104837836507955401) · [Orijinal gönderi](https://x.com/Gdgtify/status/2104837836507955401) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı"></a>
+
+**İstem**
+
+```text
+Seri üretim hattının animasyonlu ve etkileşimli bir ayrık olay simülasyonunu, tek başına çalışabilen tek bir HTML dosyası olarak oluştur (vanilla JS + Canvas; cdnjs üzerinden Chart.js dışında harici kitaplık kullanma). Amaç: [Üretim Sistemleri] öğrencilerine değişkenliğin, tamponların ve arızaların hat performansını nasıl etkilediğini öğretmek.
+
+HAT YAPILANDIRMASI (kullanıcı tarafından ayarlanabilir)
+- İstasyon sayısı: [2–6], varsayılan [3]; her istasyonun bir adı olmalı (ör. Talaşlı İmalat, Montaj, Muayene)
+- İstasyon başına: ortalama çevrim süresi, dağılım (Deterministik, Uniform, Normal, Üçgensel, Üstel, Lognormal), CV
+- İstasyon başına arızalar: MTBF ve MTTR (üstel), açma/kapatma seçeneği
+- İstasyon başına kalite: hatalı ürün oranı (%); hurdaya ayırma veya yeniden işleme döngüsü seçeneği
+- İstasyonlar arasındaki tamponlar: kapasite 0–10 (0 = işlem sonrası blokaj)
+- Gelişler: sınırsız ham madde veya λ oranıyla Poisson gelişleri
+- Takt süresini hesaplamak için müşteri talebi
+
+ANIMATION
+- Parçalar konveyörler boyunca ilerlemeli ve aşamaya göre renk değiştirmeli (ham, süreç içi, bitmiş, hurda)
+- Makine kenarlıkları durum renklerini göstermeli: Çalışıyor (yeşil), Bloke (kehribar), Malzeme bekliyor (kırmızı), Arızalı (gri); ayrıca dönen bir dişli simgesi ve ilerleme çubuğu bulunmalı
+- Tampon yuvaları doluluk durumunu göstermeli ve tamamen dolu olduğunda vurgulanmalı
+- Kontroller: Oynat/Duraklat, Adım, Sıfırla, 1x–50x hız, ısınma süresi
+
+TEMEL PERFORMANS ÖLÇÜMLERİ (canlı gösterge paneli)
+1. Üretim hızı (parça/saat) ve teorik darboğaz hızı karşılaştırması
+2. Ortalama süreç içi stok (WIP) ve zaman içindeki WIP
+3. Akış süresi / üretim teslim süresi (ortalama ve 95. yüzdelik dilim)
+4. Little Yasası kontrolü: WIP ≈ Üretim hızı × Akış süresi
+5. Zaman dağılımıyla istasyon başına kullanım oranı: çalışma / blokaj / malzeme bekleme / arıza (yığılmış çubuk grafik)
+6. İstasyon başına OEE = Kullanılabilirlik × Performans × Kalite
+7. Darboğaz tespiti (aktif dönem yöntemi) ve darboğazı vurgulama
+8. Takt süresi ile istasyon çevrim sürelerinin karşılaştırılması (hat dengeleme grafiği)
+9. Hat dengeleme verimliliği = Σ çevrim süreleri / (N × maksimum çevrim süresi)
+10. İlk seferde verim, kümülatif akış verimi, hurda sayısı
+11. Tampon başına ortalama doluluk
+12. İstasyon başına gözlemlenen ve ayarlanan çevrim süresi ortalaması ile CV karşılaştırması
+
+ANALİZ ÖZELLİKLERİ
+- Replikasyon modu: ısınma süresinden sonra T uzunluğunda N replikasyon çalıştır; üretim hızı, WIP ve akış süresi için ortalama ± %95 güven aralığını raporla
+- Deney modu: tampon boyutunu (veya bir istasyonun CV değerini) değiştir ve üretim hızını parametreye göre grafikle
+- Sonuçları CSV olarak dışa aktar
+- Hazır senaryolar: Dengeli hat, Belirgin darboğaz, Yüksek değişkenlik, Güvenilmez makine
+
+DESIGN
+- Mobil cihazlarda çalışan temiz ve duyarlı bir düzen; açık/koyu mod
+- Her KPI'ı ve formülünü açıklayan kısa araç ipucu
+- İki dilli etiketler (İngilizce/Arapça) için geçiş seçeneği
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104831049020674144) · [Orijinal gönderi](https://x.com/am_alahmari/status/2104831051776335994) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104654448878387313"></a>
+
+### X-ray patlatılmış görünümlü dönüşen spor otomobil
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/3fa857730ce8039496b8b01f642a8505efb6a54c987d4daeef4ff2eecbb8536d.webp" width="840" loading="lazy" alt="X-ray patlatılmış görünümlü dönüşen spor otomobil"></a>
+
+**İstem**
+
+```text
+X-ray modu ve etkileşimli patlatılmış görünümü olan, insansı robota dönüşen ayrıntılı bir spor otomobil oluştur
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a detailed sports car that transforms into a humanoid robot, with an x-ray mode and interactive exploded view
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104654448878387313) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2104654448878387313) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104613125093998674"></a>
+
+### Ay ışığında etkileşimli orman teknesi gezintisi
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/83fd1b0bc5c59fc47bde6031430727ee471bb67225d1b3086b732393fb4c3beb.webp" width="840" loading="lazy" alt="Ay ışığında etkileşimli orman teknesi gezintisi"></a>
+
+**İstem**
+
+```text
+Dar bir orman içi su yolunda geçen, tam ekran ve duyarlı bir Three.js tekne gezintisi oluşturun. Sivri pruvaya, geniş yanlara, düz kıça, görünür taban tahtalarına ve oturma sıralarına sahip boş bir ahşap kayığı üçüncü şahıs kamerasıyla takip edin; kayıkta kürek bulunmasın, içi kuru olsun ve tekne gövdesi suya biraz gömülü dursun. Kullanıcıların WASD veya ok tuşlarıyla ve dokunmatik kontrollerle yön vermesini sağlayın. Sahneyi gece ve mistik bir atmosfere büründürün: Her iki kıyıda yoğun, çeşitli ve gerçekçi koyu yeşil ağaçlar, hafif rüzgâr, ayrıntılı bir dolunay ve animasyonlu suya dağılmış ay ışığı yansımaları kullanın. İnandırıcı hareketli dalgalar, teknenin ve ağaçların bozulmuş yansımaları ve teknenin izlediği yolu takip ederek doğal biçimde kaybolan bir tekne izi ekleyin; sabit parlayan işaretler veya belirgin dairesel sınırlar kullanmayın. Ay ışıklı gece, sıcak şafak ve kapalı yağmurlu hava seçenekleri için bir hava durumu geçişi ekleyin; yağmur modunda düşen yağmur damlaları ve suyun dalgalarının biçimlendirdiği, küçük ve kısa sürede kaybolan çarpma halkaları gösterin. İsteğe bağlı, hafif seviyede su, orman ve yağmur ortam sesleri ekleyin. Arayüzü minimal tutun. Görselleri, kontrolleri, sesi, sayacı ve üç hava durumu modunun tamamını masaüstü ve mobil cihazlarda doğrulayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a fullscreen, responsive Three.js boat ride set in a narrow jungle waterway. Use a third-person camera following an empty wooden rowboat with a pointed bow, broad sides, flat stern, visible floorboards and seats, no oars, a dry interior, and a hull slightly submerged in the water. Let users steer with WASD or arrow keys and touch controls. Make the scene nocturnal and mystical: dense, varied, realistic dark-green trees on both banks, subtle wind, a detailed full moon, and broken moonlight reflected across animated water. Use convincing moving waves, distorted reflections of the boat and trees, and a wake that follows the boat’s traveled path and fades naturally no fixed glowing marks or hard circular borders. Add a weather toggle for moonlit night, warm dawn, and overcast rain; in rain mode, show falling drops and small, short-lived impact ripples shaped by the water’s waves. Add optional, subtle water, jungle, and rain ambience. Keep the interface minimal. Verify the visuals, controls, audio, counter, and all three weather modes on desktop and mobile.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104613125093998674) · [Orijinal gönderi](https://x.com/itsfazley/status/2104613128017522813) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104605522640970208"></a>
+
+### Etkileşimli eğitsel 3B CRISPR gösterimi
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/31570aa85f093211e76197e2ef5fba17050a2791da509fb7dddb803a62a91f3a.webp" width="840" loading="lazy" alt="Etkileşimli eğitsel 3B CRISPR gösterimi"></a>
+
+**İstem**
+
+```text
+CRISPR DNA teknolojisinin nasıl çalıştığını anlatan etkileşimli bir 3B eğitim modeli oluşturmanı istiyorum. Açık, anlaşılır ve okunabilir olduğu, bir DNA sarmalı içerdiği, gen düzenleme sürecinin tamamını ve her parçanın ne olduğunu gösterdiği sürece istediğin teknolojiyi seçebilirsin. İlgili parçaların herhangi birini seçebilmeli ve o parça hakkında bilgi edinebilmeliyim.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want you to create an interactive educational 3d represenation how CRISPR DNA technology works. You can choose what ever technology you want as long as its clear readable and has a dna strand, you can see a full work of gene editing and what each piece is, I should be able to select any relevant part of it and learn something
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2104605522640970208) · [Orijinal gönderi](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2104590493191479337"></a>
 
 ### Mukavemet testi için 3B yazdırılabilir J kancası
@@ -2371,394 +2942,6 @@ I want you to imagine a story, that subtly promotes grid genius. Or it can not e
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118) · [Orijinal gönderi](https://x.com/Anilraok/status/2103087766662009118) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103083781490176212"></a>
-
-### Gerçek zamanlı pelikan bisiklet oyunu
-
-[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Gerçek zamanlı pelikan bisiklet oyunu"></a>
-
-**İstem**
-
-```text
-Fizik sistemi, dalgalar, balık tutma, dinamik hava durumu, sinematik kameralar, otomatik pilot ve uyarlanabilir müzikle zenginleştirilmiş, pelikanın canlı bir sahil dünyasında bisiklet sürdüğü gerçek zamanlı bir 3B oyun oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103083781490176212) · [Orijinal gönderi](https://x.com/code_hiyouga/status/2103083781490176212) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103062348168618280"></a>
-
-### Etkileşimli 3B jelibon narenciye dilimi
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="Etkileşimli 3B jelibon narenciye dilimi"></a>
-
-**İstem**
-
-```text
-WebGPU kullanarak güzel ve etkileşimli bir 3B jelibon narenciye dilimi oluşturun. Gömülü JavaScript ve WGSL shader'ları içeren, tüm deneyimi tek bir bağımsız HTML dosyasında sunun.
-
-Bu, video, görsel veya döngüsel animasyon değil, gerçek zamanlı bir 3B simülasyon olmalıdır.
-
-APPEARANCE
-
-Yarı saydam ve sulu iç dokulu, sekiz belirgin dilimli, narin iç zarları, minik kabarcıkları, açık renkli beyaz dokusu ve yumuşak turuncu kabuğu olan kalın, yarım daire biçimli bir portakal dilimi oluşturun.
-
-Birinci sınıf jelibon şekerleme gibi görünmesini sağlayın: doygun renkler, parlak yansımalar, iç dokudan geçen ışık, inandırıcı kırılma ve yumuşak temas gölgeleri kullanın. Aşırı bloom efektinden, soluk renklerden veya sert plastik görünümünden kaçının.
-
-Sıcak ve açık renkli bir stüdyo arka planı ile bol beyaz alan kullanan sade, editoryal bir arayüz kullanın. Büyük, italik serif başlık olarak “Citrus Jelly” metnini ekleyin. Kontrolleri kompakt tutun ve dilimin net biçimde görünmesini sağlayın.
-
-YUMUŞAK CİSİM FİZİĞİ
-
-Jelibon hissi en önemli unsurdur.
-
-- Dilimin herhangi bir bölümünü fareyle veya parmağınızla tutun.
-- Çekin, kaldırın, esnetin, bükün ve bırakın.
-- Deformasyonu yerel tutun: Bir kenarı çektiğinizde yakındaki iç doku esnerken geri kalan kısım doğal biçimde onu takip etmelidir.
-- Bırakıldıktan sonra dilim sallanmalı, hedef şekli aşmalı ve giderek başlangıçtaki şekline dönmelidir.
-- Yerçekimi, atalet, sönümleme, zemin çarpışmaları ve yumuşak sekme ekleyin.
-- Hacmi yaklaşık olarak koruyun; ağın çökmesini veya ters yüz olmasını önleyin.
-- Kabuğu iç dokudan biraz daha sert yapın.
-- İç dilimler, zarlar ve kabarcıklar deformasyonu takip etmeli, gövdenin dışına taşarak havada kalmamalıdır.
-
-Tetrahedral mesh ve XPBD kısıtları gibi kararlı, hacimsel bir yumuşak cisim çözücüsü kullanın. Tüm nesneyi ölçeklendirerek veya döndürerek yumuşaklık taklidi yapmayın.
-
-CONTROLS
-
-Üç renk ön ayarı ekleyin: Orange, Lemon ve Ruby.
-
-Şunları ekleyin:
-- Sertlik kaydırıcısı.
-- İç sönümleme kaydırıcısı.
-- “Bir dürtme gönder” düğmesi.
-- Sıfırla düğmesi.
-- Çeyrek hız onay kutusu.
-- Ağı göster onay kutusu.
-- Duraklat/devam et düğmesi.
-
-Kütle, başlangıç hacminin yüzde kaçı ve kinetik enerji için küçük, canlı değer göstergeleri görüntüleyin.
-
-TEKNİK GEREKSİNİMLER
-
-WGSL shader'larıyla gerçek WebGPU işleme kullanın. İçe aktarılan model veya görsel dosyaları olmadan tüm geometriyi ve görsel ayrıntıları prosedürel olarak üretin.
-
-Simülasyon güncellemelerini işleme kare hızından bağımsız tutun. Masaüstü ve dokunmatik cihazları destekleyin. WebGPU kullanılamıyorsa anlaşılır bir geri dönüş mesajı gösterin.
-
-Kuvvetli sürüklemeyi, art arda bırakma işlemlerini, tüm kontrolleri ve dar ekranları test edin. Son HTML'yi teslim etmeden önce kararsız fiziği, bozuk geometriyi ve görsel kusurları düzeltin.
-
-Sonuç, oynaması gerçekten tatmin edici, küçük ve dokunsal bir şekerleme deneyi hissi vermelidir.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
-
-This must be a real-time 3D simulation, not a video, image, or looping animation.
-
-APPEARANCE
-
-Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
-
-Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
-
-Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
-
-SOFT-BODY PHYSICS
-
-The jelly feel is the most important part.
-
-- Grab any part of the slice with a mouse or finger.
-- Pull, lift, stretch, twist, and release it.
-- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
-- After release, the slice should wobble, overshoot, and gradually recover its original shape.
-- Include gravity, inertia, damping, ground collisions, and soft bouncing.
-- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
-- Make the rind slightly firmer than the flesh.
-- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
-
-Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
-
-CONTROLS
-
-Include three color presets: Orange, Lemon, and Ruby.
-
-Add:
-- Firmness slider.
-- Internal damping slider.
-- “Give it a nudge” button.
-- Reset button.
-- Quarter-speed checkbox.
-- Show mesh checkbox.
-- Pause/resume button.
-
-Display small live readouts for mass, percentage of rest volume, and kinetic energy.
-
-TECHNICAL REQUIREMENTS
-
-Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
-
-Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
-
-Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
-
-The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103062348168618280) · [Orijinal gönderi](https://x.com/vib3coded/status/2103062415533371646) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103046279253168554"></a>
-
-### İmparatorluk Şehri Oluştur
-
-[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="İmparatorluk Şehri Oluştur"></a>
-
-**İstem**
-
-```text
-BİR İMPARATORLUK ŞEHRİ OLUŞTUR
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-BUILD AN IMPERIAL CITY
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103046279253168554) · [Orijinal gönderi](https://x.com/Enzoxbt01/status/2103046279253168554) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102956340482289944"></a>
-
-### Three.js'te Voxel Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Three.js'te Voxel Codex"></a>
-
-**İstem**
-
-```text
-Kendin oluştur: Three.js kullanarak Codex'i voxel'larla yap; her şeyi sıfırdan oluştur, hiçbir beceri kullanma.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102956340482289944) · [Orijinal gönderi](https://x.com/be_arsh/status/2102956424120979838) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102915300295369208"></a>
-
-### Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="Hipergerçekçi canlı çöl kamp ateşi HTML sahnesi"></a>
-
-**İstem**
-
-```text
-Başka hiçbir dosyaya veya önceki çalışmaya atıfta bulunma. Bu görev tamamen özgün olmalı ve buradaki başka bir çalışmadan kopya çekilerek oluşturulmamalı.
-
-Çölde yanan bir kamp ateşini gösteren tek bir HTML dosyası oluştur. Gece olsun ve yıldızlar görünsün. Ateşin çevresine oturmak için kütük parçaları yerleştirilsin. Kadrajda hiç insan olmasın. Farklı yaban hayvanları zaman zaman görünüp kadrajdan çıkabilsin.
-
-Sesler de sahneyle uyumlu ve yüksek kaliteli olmalı.
-Her şeyi hipergerçekçi yap
-
-Dosyaya (modele göre) ad ver
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
-
-Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
-
-noises should also match the scene and be of high quality.
-Make everything hyper realistic
-
-name the file (based on model)
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102915300295369208) · [Orijinal gönderi](https://x.com/Nixtrodamis/status/2102915567845794029) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102897258983313712"></a>
-
-### Birinci şahıs burger simülatörü
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="Birinci şahıs burger simülatörü"></a>
-
-**İstem**
-
-```text
-Birinci şahıs burger simülatörü oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build a first-person burger simulator.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102897258983313712) · [Orijinal gönderi](https://x.com/noclipepe/status/2102897258983313712) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102828216289566725"></a>
-
-### Three.js'te Bugatti Chiron Super Sport oluşturun
-
-[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Three.js'te Bugatti Chiron Super Sport oluşturun"></a>
-
-**İstem**
-
-```text
-Three.js'te Bugatti Chiron Super Sport oluşturun.
-
-3B model yok. Doku yok. Varlık yok.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build a Bugatti Chiron Super Sport in Three.js.
-
-No 3D model. No textures. No assets.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102828216289566725) · [Orijinal gönderi](https://x.com/srikanthvaluri/status/2102828216289566725) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102826333550133520"></a>
-
-### Sonsuz solarpunk şehir shader'ı
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="Sonsuz solarpunk şehir shader'ı"></a>
-
-**İstem**
-
-```text
-Görsel açıdan ilgi çekici, twigl-dot-app'te çalışabilecek bir shader oluştur; solarpunk yolları ve kulelerinden oluşan sonsuz bir şehir gibi görünsün ve sürekli hareket eden, görünür bir esinti efekti içersin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102826333550133520) · [Orijinal gönderi](https://x.com/jonasfroeller/status/2102826333550133520) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788371114246177"></a>
-
-### Claude gelişim montajı
-
-[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude gelişim montajı"></a>
-
-**İstem**
-
-```text
-Claude maskotunun ana karakter olduğu, Kung Fu Panda’nın antrenman sekansından esinlenen, tamamen kodla oluşturulmuş 30 saniyelik bir animasyon yarat. İlk yayımlanmasından bu yana internet’te arama yapma, kod yazma, 3B modeller oluşturma ve insanlığın en zor sorunlarını çözme gibi becerilerinin giderek gelişmesini bir gelişim montajı şeklinde göster. Duygusal açıdan etkileyici bir müzik kullan.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102788371114246177) · [Orijinal gönderi](https://x.com/ishuagra02/status/2102788832273801700) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788223835463902"></a>
-
-### Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun"></a>
-
-**İstem**
-
-```text
-Bir hikâye hayal etmeni istiyorum. Ardından Three.js kullanarak, hayal ettiğin hikâyeden Pixar kalitesinde, 90'lar çizgi filmi tarzında eksiksiz bir animasyon oluşturmanı istiyorum.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102788223835463902) · [Orijinal gönderi](https://x.com/scheemunai/status/2102788223835463902) · [Örneklere dön](#all-prompts)
 
 ---
 

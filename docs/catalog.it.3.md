@@ -28,6 +28,16 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Modello interattivo di orologio IWC Schaffhausen](#gpt-6-astra-2100956517633761447)
+- [ODD ARMS — Gioco survival con armi stravaganti](#odd-arms)
+- [Crea un mondo 3D fotorealistico](#gpt-6-astra-2100844566718926949)
+- [Gioco 3D di tram aereo tra isole fluttuanti](#gpt-6-astra-2100838090210431302)
+- [Addestramento di una policy per far roteare una penna con la mano robotica Sharpa](#gpt-6-astra-2100751369619820923)
+- [Un corpo progettato in CAD](#gpt-6-astra-2100614534423540102)
+- [Gioco 3D di fuga nel browser da una struttura di ricerca chiusa](#gpt-6-astra-2100595652703199281)
+- [Creare un gioco di corse 3D](#gpt-6-astra-2100526922770026874)
+- [Aggiungi una catena di manutenzione al corrimano](#gpt-6-astra-2100519026720231698)
+- [Scena interattiva voxel con cavaliere e falò](#gpt-6-astra-2100350159540596760)
 - [Demo di grafica fantasy isometrica](#gpt-6-astra-2100271998618177864)
 - [AKARI: Staffetta della fiamma sui tetti di Nagoya](#akari-nagoya-rooftop-flame-relay)
 - [L’isola del Ciclope](#cyclops-island-threejs-game)
@@ -68,18 +78,464 @@
 - [Dimostrazione interattiva 3D di una mano robotica che suona il pianoforte](#gpt-6-astra-2098109252720078891)
 - [Atlante 3D interattivo della testa e del cervello umano](#gpt-6-astra-2098105648106078541)
 - [Animazione fantasy: spadaccino distrugge un portale](#gpt-6-astra-2098094339759149067)
-- [Volo di uno shuttle in modello bianco attraverso un canyon urbano](#gpt-6-astra-2098079379297608050)
-- [Animazione di un’accademia magica fluttuante](#gpt-6-astra-2098071577309122854)
-- [City Pulse](#gpt-6-astra-2098063352832610473)
-- [Workflow per un inseguimento automobilistico cartoon ispirato a GTA](#gpt-6-astra-2098049032195293190)
-- [Banco interattivo di calamari](#gpt-6-astra-2098043033446912315)
-- [Rendi più impegnativo un campo da golf a 18 buche](#gpt-6-astra-2098038909514944562)
-- [Mosswing: gioco 3D mobile tap-to-flap](#mosswing-mobile-3d-tap-to-flap-game)
-- [Corto d’animazione 3D senza parole: il gatto e il premietto](#gpt-6-astra-2097900087901106244)
-- [Demo di grafica fantasy interattiva](#gpt-6-astra-2097821164093480999)
-- [Clone di Minecraft multigiocatore](#gpt-6-astra-2097797479488246071)
 
 </details>
+<a id="gpt-6-astra-2100956517633761447"></a>
+
+### Modello interattivo di orologio IWC Schaffhausen
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100956517633761447"><img src="../assets/previews/a426633024453e686b5eecffb2a0acdbc37cd9b2069a53128441eeff3e7fa22f.webp" width="840" loading="lazy" alt="Modello interattivo di orologio IWC Schaffhausen"></a>
+
+**Prompt**
+
+```text
+Usa Three.js per sviluppare un modello 3D interattivo estremamente fedele di un orologio IWC Schaffhausen. Requisiti: 1) la struttura del quadrante deve essere estremamente precisa, con ogni componente meccanico rappresentato individualmente e chiaramente distinguibile; 2) il quadrante dell’orologio deve utilizzare un materiale in vetro zaffiro con effetti realistici di trasparenza, rifrazione e riflessione; 3) la lancetta dei minuti e quella dei secondi devono essere accurate e seguire la logica della misurazione del tempo in tempo reale, con un’animazione continua e automatica del movimento delle lancette; 4) supporta lo smontaggio e il riassemblaggio dell’orologio, consentendo di separare e visualizzare individualmente ogni componente; 5) il livello di dettaglio complessivo deve essere estremamente elevato e riprodurre fedelmente la struttura e le proporzioni di un orologio reale, con texture realistiche per viti, parti metalliche e altri componenti, oltre a una lavorazione finemente curata. Assicurati che il modello funzioni in modo fluido nel browser e offra un’interazione naturale.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Use Three.js to develop a highly faithful 3D interactive watch model of an IWC Schaffhausen timepiece. Requirements: 1) The dial structure must be highly precise, with every mechanical component individually rendered and clearly distinguishable; 2) The watch face must use a sapphire glass material with realistic transparency, refraction, and reflection effects; 3) The minute hand and second hand must be correct hands that follow real timekeeping logic, with automatic continuous hand-sweep animation; 4) Support disassembly and reassembly of the watch, with each part able to be separated and viewed individually; 5) The overall level of detail must be extremely high, closely matching the structure and proportions of a real watch, with realistic material textures for screws, metal parts, and other components, and fine craftsmanship. Please ensure the model runs smoothly in the browser and interacts naturally.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100956517633761447) · [Post originale](https://x.com/YouWareAI/status/2100958838350643553) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="odd-arms"></a>
+
+### ODD ARMS — Gioco survival con armi stravaganti
+
+[Deniffer](https://x.com/lumina__team) · 2026-09-18 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/odd-arms"><img src="../assets/previews/48f26395f6cf5e8bccb59f37d79965f9da76605aa246ecdb1baa041bfc742b28.webp" width="840" loading="lazy" alt="ODD ARMS — Gioco survival con armi stravaganti"></a>
+
+**Prompt**
+
+```text
+# ODD ARMS — La tua idea. Il tuo eroe.
+
+## 1. Obiettivo
+Mantieni tutta l'interfaccia di gioco in inglese (aggiungi il giapponese come lingua opzionale).
+Crea un gioco survival completo per browser di tre minuti, appartenente al genere "orda con attacco automatico": il giocatore sceglie un eroe grande quanto un giocattolo e due armi meravigliosamente stravaganti, poi sopravvive per 180 secondi a sciami di mostri su un banco da lavoro artigianale. Le armi attaccano automaticamente; il giocatore deve solo muoversi, fare scatti, raccogliere cristalli, scegliere potenziamenti e attivare una nova caricata. Il punto forte è la personalizzazione: i giocatori possono creare il proprio eroe o la propria arma in Tripo, scaricare il GLB e inserirlo nel gioco. Usa https://odd-arms.tripo.page/ e i riferimenti forniti per il risultato finale. Attribuisci i crediti a Deniffer su https://x.com/lumina__team.
+
+## 2. Direzione visiva
+Presenta il gioco come un diorama giocattolo in miniatura visto da una telecamera fissa dall'alto, a tre quarti, che segue l'eroe. L'area di gioco è un tappetino da taglio blu navy scuro con una griglia discreta e i simboli angolari stampati "ODD ARMS", appoggiato su una scrivania di legno caldo. Il bordo della scrivania è affollato di oggetti artigianali sovradimensionati (rocchetti di filo, scatole ornate con rosoni in ottone, un rotolo portautensili in pelle, una lampada da scrivania in ottone, un trenino di legno e parti di giocattoli), così l'arena deve sembrare davvero appoggiata su un tavolo. Usa una luce principale calda dal lato della lampada, un riempimento ambientale morbido, ombre di contatto e un bloom delicato; i personaggi devono avere uno stile lucido, massiccio e simile a quello delle statuine da collezione, con colori saturi.
+
+UI: schede arrotondate color crema e bianco con testo navy e un accento arancione corallo, un carattere display condensato e pesante per i titoli ("LET'S MAKE SOME TROUBLE.") e un sans serif condensato pulito per il testo. Durante la battaglia: scheda della salute in alto a sinistra, contatore della serie sotto di essa, conto alla rovescia "SURVIVE THE WEIRD" in alto al centro, etichetta dell'ondata + audio + impostazioni + Pausa in alto a destra, conteggio degli sconfitti a destra, indicatore livello/XP in basso al centro, tre chip delle armi (orbitante / a ritorno / sparatutto con relativi livelli) in basso a sinistra, comandi + ricarica dello scatto in basso a destra e indicatore "Q NOVA READY!" sopra di esso. Feedback d'impatto: numeri dei danni, colpi critici, nemici che si comprimono e si allungano, contraccolpi, particelle che esplodono e un leggero tremolio della telecamera (disattiva il tremolio quando è impostato prefers-reduced-motion).
+
+## 3. Mondo
+Un'unica arena quadrata; limita l'eroe a ±23 unità su entrambi gli assi. Il tappetino da taglio riempie l'area di gioco; la scrivania e gli oggetti di scena restano fuori dal limite e servono solo come sfondo (nessuna collisione). L'arena inizia vuota e si riempie dai bordi: i nemici compaiono su un anello a 12–16 unità dall'eroe (8–11 nel primo secondo) e camminano dritti verso di lui. Ogni 22 secondi un'ondata improvvisa genera un cerchio completo di nemici a raggio 13. Sotto la posizione attuale dell'eroe compaiono cerchi rossi di avvertimento (il primo a 28 s, poi ogni max(4.4, 9 − t/50) s) che esplodono dopo 2 s.
+
+## 4. Inventario degli asset
+Prepara slot stabili per i modelli; ogni slot deve caricare un singolo GLB, centrarlo, ridimensionarlo automaticamente a un'altezza target e usare un semplice placeholder se il caricamento non riesce.
+
+Eroi (10, `hero:<id>`), ciascuno con una silhouette distinta e l'aspetto massiccio di una statuina giocattolo:
+- `cat` Astro Cat — gatto soriano arancione in tuta spaziale bianca e casco di vetro. HP 100, velocità 6.8, magnete ×1.35, ricarica dello scatto 2.4 s.
+- `frog` Frog Fighter — rana verde con guantoni da boxe rossi. HP 130, velocità 6.8, danno dello scatto 135.
+- `shroom` Mushroom Hero — fungo dal cappello rosso con una piccola mantella. HP 90, velocità 7.6, scatto 1.8 s.
+- `capybara` Chill Capybara — capibara rilassato delle terme. HP 160, velocità 5.8, magnete ×1.15, scatto 3 s, danno dello scatto 110.
+- `ramen` Ramen Ronin — samurai che trasporta una ciotola di ramen fumante. HP 105, velocità 7.2, scatto 2.2 s, danno dello scatto 120.
+- `penguin` Office Penguin — pinguino con camicia e cravatta. HP 80, velocità 7.1, scatto 1.5 s, danno dello scatto 75.
+- `axolotl` Axolotl — axolotl rosa esploratore. HP 85, velocità 7.3, magnete ×1.6, danno dello scatto 75.
+- `avocado` Avo Boxer — pugile avocado con un nocciolo al centro. HP 120, velocità 6.4, scatto 2.1 s, danno dello scatto 130.
+- `robot` Clockwork Bot — robot di latta a molla con chiave. HP 115, velocità 6.2, scatto 2.8 s, danno dello scatto 165.
+- `snail` Snail Knight — cavaliere lumaca con un guscio grande quanto una casa. HP 190, velocità 5.2, magnete ×1.2, scatto 3.2 s, danno dello scatto 120.
+Il danno predefinito dello scatto è 90 quando non è specificato.
+
+Armi (12, `weapon:<id>`), raggruppate per slot d'attacco:
+- Orbitanti: `sardine` Sardine Chainsaw (3 pesci, raggio 2.9, danno 1, velocità 1.2); `cactus` Cactus Club (2 mazze, raggio 3.3, danno 1.65, velocità 0.78, raggio d'impatto 1.25, contraccolpo 1.5); `plunger` Plunger Patrol (4 sturalavandini, raggio 2.25, danno 0.85, velocità 1.5).
+- A ritorno: `banana` Banana Blades (2, danno 1, velocità 1.25); `pizza` Pizza Cutter (1 disco grande, danno 1.5, velocità 0.82, raggio d'impatto 1.65); `croissant` Croissant Blades (3, danno 0.75, velocità 1.45); `boomerang` Boomerang (1, danno 1.15, velocità 1.6); `donut-disc` Donut Disc (1, danno 1.5, velocità 0.9, raggio d'impatto 1.3).
+- Sparatutto: `duck` Duck Rocket (a ricerca, area d'effetto 2, intervallo 0.42 s); `toaster` Angry Toaster (ventaglio perforante a 3 colpi, danno 0.7); `teapot` Raging Teapot (2 colpi lenti, area d'effetto 2.8, intervallo 0.8 s); `bubble-gun` Bubble Gun (2 bolle perforanti, danno 0.45, intervallo 0.3 s).
+Equipaggiamento predefinito: Astro Cat, Banana Blades, Angry Toaster; l'arma orbitante si sblocca con il primo potenziamento.
+
+Nemici (3, `enemy:<id>`), mostri giocattolo a molla: `red-chomper` (giocattolo mordace rotondo e rosso, base, 30 HP di base, velocità 2.35), `spring-rabbit` (coniglio giallo dalle zampe a molla, veloce, 23 HP di base, velocità 3.5), `crown-bear` (grande orso patchwork con una corona, tank, 130 HP di base, velocità 1.7, compare dopo 60 s con probabilità del 17%, rilascia 3 XP).
+
+Oggetti di scena (`prop:<id>`): banco da lavoro, cornice del tappetino da taglio e piastre angolari, lampada da scrivania, trenino giocattolo, rocchetti di filo, scatole ornate con rosoni, rotolo portautensili e vassoio per parti di giocattoli. Mantieni procedurali il tappetino, la griglia, i cristalli, i proiettili, i cerchi di avvertimento, le particelle, le luci e l'interfaccia.
+
+## 5. Gameplay e feedback
+Flusso: Personaggio → Equipaggiamento (uno a ritorno + uno sparatutto) → Pronto (anteprima 3D a 360° dell'eroe con le armi scelte, trascina per ruotare) → "Let's play". Ogni passaggio dell'onboarding mostra solo quella categoria, con descrizione, stile di gioco e testo sui punti deboli. Ricorda l'ultimo equipaggiamento.
+
+Comandi: WASD/frecce per muoversi; Spazio esegue uno scatto nella direzione di movimento (velocità ×3.7, breve invulnerabilità, danneggia i nemici entro 2 unità una volta per scatto); Q attiva una nova quando l'energia è a 100 (raggio 11, 200 danni, forte contraccolpo, attira i cristalli); 1/2/3 o clic per scegliere i potenziamenti; Esc mette in pausa; pausa automatica quando la finestra perde il focus. Mobile: joystick virtuale analogico a sinistra, pulsanti Scatto e Nova a destra con indicatori circolari di ricarica/carica, multitouch per usare contemporaneamente joystick e pulsanti; in verticale i potenziamenti si trovano sopra il joystick, in orizzontale tra i pollici.
+
+Regole: HP dei nemici = base × (1 + t/260) × 1.3. Intervallo di generazione max(0.18, 0.52 − 0.0016·t) s, massimo 180 nemici. Danno da contatto 9 (18 dall'orso), con 0.85 s di invulnerabilità dopo un colpo. Ogni uccisione aggiunge 2 energia e rilascia un cristallo; ogni nono colpo per arma è critico ×1.7. Una serie di 25 uccisioni attiva una frenesia di 5 s (velocità d'attacco ×1.65, ricarica 13 s); subire danni azzera la serie. XP per salire di livello: 20, poi round(need × 1.4 + 10). I passaggi di livello non mettono mai in pausa il gioco: vengono messi in coda come schede di scelta non bloccanti. Il primo potenziamento propone le tre armi orbitanti; in seguito proponi tre tra: Orbit overload (+1 orbitante fino a 7, +22% danni), Another round (ritorni più rapidi, più lunghi e potenti), Full blast (fuoco più rapido, +20% danni, più proiettili), Live a little (+10% velocità, +30 HP). Ogni scelta cura 8 HP.
+
+Fine: sopravvivi per 180 s → "Beautifully weird. You made it."; HP 0 → "That was a glorious mess.". Entrambi mostrano i nemici sconfitti, la serie migliore e il tempo di sopravvivenza, con le opzioni Run it back / Change loadout e il prompt per creare il proprio personaggio.
+
+Fallo tuo: dalle schermate dell'equipaggiamento, di pausa e dei risultati, "Create my hero / weapon in Tripo" apre https://studio.tripo3d.ai/ in una nuova scheda; "Import GLB" carica un file .glb locale (≤15 MB, solo texture incorporate, analizzato nel browser, mai caricato online), lo centra e lo ridimensiona, sostituendo solo l'aspetto dell'eroe o dell'arma selezionati e mantenendone le statistiche. Mostra errori chiari per i file non validi e conserva il modello originale.
+
+Confronta i modelli: un toggle nell'intestazione, "Tripo3D ⇄ Simple3D (Blender)", sostituisce ogni eroe, arma, nemico e oggetto di scena con un set corrispondente di primitive semplici, senza azzerare la partita. Carica l'intero set alternativo prima della sostituzione; se un file non viene caricato, mantieni il set attuale.
+
+## 6. Implementazione tecnica
+Vite + JavaScript vanilla + Three.js con GLTFLoader, illuminazione RoomEnvironment e tone mapping ACES. Mantieni la simulazione in un modulo puro con timestep fisso e una sorgente casuale iniettabile, così da poter simulare partite complete nei test; il renderer deve solo leggere lo stato. Metti ogni GLB in cache una sola volta e clonalo per le istanze; usa l'instancing o gli LOD per gli ornamenti ripetuti. Limita il pixel ratio (1.5 su mobile, riducilo a 1 durante le ondate dense), aggiorna le ombre al massimo 30 volte al secondo e aggiorna il testo dell'HUD solo quando i valori cambiano. Separa le collisioni (cerchi semplici) dalle mesh visive. Includi font, modelli e texture della stessa origine in modo che la build sia una cartella statica. Punta ai browser desktop e mobile, a partire da 320 px di larghezza, inclusi i telefoni in orizzontale e le aree sicure. La complessità dei modelli deve seguire le dimensioni sullo schermo; nessun limite rigido al numero di poligoni.
+
+## 7. È pronto quando
+- L'intero flusso funziona: onboarding, battaglia fino alla vittoria o alla sconfitta, pausa/ripresa, riavvio con lo stesso equipaggiamento e cambio dell'equipaggiamento.
+- Tutti i 10 eroi e le 12 armi vengono caricati e si comportano secondo i numeri indicati sopra; una partita di 180 s con qualsiasi equipaggiamento termina senza errori.
+- I comandi da tastiera e touch funzionano entrambi, incluso l'uso simultaneo di joystick e Scatto.
+- L'importazione di un GLB sostituisce l'aspetto dell'eroe o dell'arma scelti e rifiuta con eleganza i file non validi.
+- Il toggle Tripo3D / Simple3D sostituisce tutti i modelli durante la partita.
+- Le schermate iniziale, di metà battaglia e dei risultati corrispondono ai riferimenti; fornisci il codice sorgente eseguibile, il comando di avvio e una build statica di produzione.
+
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/odd-arms) · [Post originale](https://odd-arms.tripo.page/) · [Demo](https://odd-arms.tripo.page/) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100844566718926949"></a>
+
+### Crea un mondo 3D fotorealistico
+
+[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-18 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100844566718926949"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Crea un mondo 3D fotorealistico"></a>
+
+**Prompt**
+
+```text
+Crea un mondo 3D fotorealistico. Sorprendimi.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Build a photorealistic 3D world. Surprise me.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100844566718926949) · [Post originale](https://x.com/JulianGoldieSEO/status/2100844566718926949) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100838090210431302"></a>
+
+### Gioco 3D di tram aereo tra isole fluttuanti
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-18 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100838090210431302"><img src="../assets/previews/e2d1851a486e080772aa36d6e517463595d8981ac121dde5a72f8d572e9c96fd.webp" width="840" loading="lazy" alt="Gioco 3D di tram aereo tra isole fluttuanti"></a>
+
+**Prompt**
+
+```text
+Crea un gioco 3D in HTML/JS a file singolo (Three.js), giocabile direttamente nel browser, con uno stile indie caldo, low-poly ma curato, che evochi l'atmosfera di una cittadina sul mare di Ghibli unita alla fluidità dei binari dei carrelli da miniera di Zelda.     
+【Gameplay principale】 Il giocatore guida un tram aereo rétro, viaggiando tra isole fluttuanti sopra un mare di nuvole e la superficie dell'oceano.  - Il tracciato è una ferrovia 3D continua, con sezioni rettilinee, salite, discese, curve sopraelevate e lunghi ponti sul mare  - Comandi: W per accelerare (Potenza), S per frenare (Freno), sinistra e destra per le regolazioni di precisione o per cambiare visuale  - Visualizzazione in tempo reale: velocità in km/h, numero di passeggeri a bordo (ad es. 12/16 a bordo), condizioni del percorso (Stabile / Vento laterale)  - Sistema di comfort dei passeggeri: accelerazioni improvvise, frenate brusche, curve affrontate a velocità eccessiva e venti laterali riducono il «comfort delle gambe»; arrivare a destinazione senza scossoni assegna punti bonus (ad es. +75 all'arrivo)  - Serie: guidare in modo troppo irregolare attiva il messaggio «Serie interrotta. Trova il tuo equilibrio per ricostruire le mance.»  - Arriva alla stazione e apri le porte per far salire e scendere i passeggeri. Sulla banchina, gli abitanti del paese fanno la fila, con sottotitoli come «Porte in apertura - Mango Tide», «Attendere…»     [Mondo e stazioni]  Almeno due tratte/due isole:  1. Saltlight Terminus  2. Mango Tide  L'isola è un'isola rocciosa sospesa sopra le nuvole, con piccole case in stile mediterraneo/sud-europeo dai tetti di tegole rosse, un faro, un molo, alberi verdi, lampioni e finestre illuminate di giallo caldo durante la notte. In lontananza si vedono altre isole fluttuanti e orbite circolari. Il cielo sfuma dal blu al viola, dal crepuscolo alla notte, con stelle e nuvole dense; più in basso si estende l'acqua azzurra del mare.     [Esterno del tram]  Tram rétro: carrozzeria verde scuro, telaio color legno, finestrini curvi in vetro, bagagli sul tetto, decorazioni con tendalino verde e rampicanti, e vari passeggeri seduti all'interno. Durante la marcia, il tram oscilla leggermente e trasmette la sensazione del rumore sui binari (ottenibile con semplici effetti sonori o segnali visivi).     [Scena 2: Modifica nell'officina]  Passa alla visuale isometrica dall'alto dell'officina «Cloudworks / Oliver Cloudworks / isola natale di Oliver».  I giocatori possono sostituire i componenti del tram tramite un'interfaccia simile a un pop-up di potenziamento:  - Foglie del focolare — Rimozione del vecchio componente  - Piccolo compagno — Preparazione del tram  Barra di avanzamento + «Rilassati e guarda l'officina al lavoro.»  Dopo la modifica, cambia l'aspetto del tram (ad es. tetto verde, portabagagli aggiuntivo, lanterne, rampicanti); poi il tram esce dall'officina, con i sottotitoli «Tutti a bordo.» / «Prossima fermata: la Linea costiera.»     [UI]  Interfaccia pulita, moderna e informale da gioco: destinazione e valuta/serie in alto a sinistra, barra della velocità e pulsanti Potenza/Freno in basso, barra di avanzamento del comfort che collega i nomi delle due stazioni. Niente elementi superflui; evita l'horror e il cyberpunk.     [Requisiti tecnici]  - File singolo o numero minimo di file, Three.js  - Usa curve per il tracciato (CatmullRom, ecc.) in modo che il tram segua i binari; la telecamera deve seguire il tram con una leggera sensazione di movimento su rotaia  - Sensazione fisica semplice: inerzia in accelerazione, decelerazione in frenata, rollio della carrozzeria in curva  - Su dispositivi mobili, prova a supportare anche il tocco per accelerare e frenare  - Codice leggibile, con commenti, giocabile non appena viene aperto.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a single-file HTML/JS 3D game (Three.js) that can be played directly in the browser, with a warm, low-poly but polished indie game style, evoking the feel of a Ghibli seaside town combined with the smoothness of Zelda's mine cart tracks.     
+【Core Gameplay】  The player drives a retro aerial tram, traveling between islands floating above a sea of clouds and the ocean surface.  - The track is a continuous 3D railway, featuring straight sections, uphill slopes, downhill slopes, elevated curves, and long bridges across the sea  - Controls: W to accelerate (Power), S to brake (Brake), left and right for fine-tuning or switching the view  - Real-time display: speed in km/h, number of passengers on board (e.g., 12/16 aboard), road conditions (Steady / Crosswind)  - Passenger comfort system: sudden acceleration, hard braking, taking corners too fast, and crosswinds all reduce "leg comfort"; arriving at the destination smoothly earns bonus points (e.g., +75 at arrival)  - Streak: driving too bumpily will trigger the message "Streak broken. Find your balance to rebuild your tips."  - Arrive at the station, open the doors for passengers to get on and off. On the platform, there are townsfolk queuing up, with subtitles such as "Doors opening - Mango Tide," "Please wait…"     [World and Stations]  At least two routes/two islands:  1. Saltlight Terminus  2. Mango Tide  The island is a rocky island floating above the clouds, with small Mediterranean/Southern European-style houses with red-tiled roofs, a lighthouse, a dock, green trees, streetlights, and warm yellow windows at night. In the distance, there are more floating islands and circling orbits. The sky is a blue-purple gradient from dusk to night, with stars and thick clouds, and below is azure seawater.     [Tram Exterior]  Retro tram: dark green body, wood-colored chassis, curved glass windows, roof luggage, green awning/vine decorations, and various passengers sitting inside. While moving, there is a slight swaying motion and a sense of track sounds (which can be conveyed with simple sound effects or visual cues).     [Scene 2: Workshop Modification]  Switch to the top-down isometric view of the workshop "Cloudworks / Oliver Cloudworks / Oliver's home island."  Players can swap parts for the tram, with an interface like an upgrade pop-up:  - Hearth leaves — Lifting the old part  - Little Companion — Preparing the tram  Progress bar + "Sit back and watch the workshop."  Changes to the tram's appearance after modification (e.g., green roof, added luggage rack, lanterns, vines), then it drives out of the workshop, subtitles "All aboard." / "Next stop: the Coastal Line."     [UI]  Clean modern casual game UI: destination and currency/streak in the top-left, speed bar and Power/Brake buttons at the bottom, comfort progress bar connecting the two station names. No clutter, don't make it horror or cyberpunk.     [Technical Requirements]  - Single file or minimal files, Three.js  - Use curves for the track (CatmullRom, etc.) so the tram follows the rails, camera follows with a slight rail feel  - Simple physics feel: acceleration inertia, braking deceleration, body roll when cornering  - On mobile, try to also support tap to accelerate/brake  - Readable code, with comments, playable as soon as it's opened.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100838090210431302) · [Post originale](https://x.com/YouWareAI/status/2100838828433179037) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100751369619820923"></a>
+
+### Addestramento di una policy per far roteare una penna con la mano robotica Sharpa
+
+[AI Will](https://x.com/FinanceYF5) · 2026-09-18 · GPT-6 Astra · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100751369619820923"><img src="../assets/previews/ca147480aaf4e9faab8d21e1675a0977a1953d45a78809c76f60ef9258df645f.webp" width="840" loading="lazy" alt="Addestramento di una policy per far roteare una penna con la mano robotica Sharpa"></a>
+
+**Prompt**
+
+```text
+Fai in modo che la mano robotica ad alta destrezza riesca a far roteare una penna. Usa Isaac Lab per l’apprendimento per rinforzo e la Sharpa hand, creando autonomamente la mesh 3D della penna. Consegna infine la policy addestrata e un video dimostrativo. Puoi cercare liberamente online e scaricare gli articoli scientifici e il materiale necessario.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+让灵巧手完成转笔。使用 Isaac Lab 进行强化学习，采用 Sharpa hand，并自行创建笔的 3D 网格。最终交付训练好的策略和可视化视频。可以自由联网搜索、下载论文及所需资料。
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100751369619820923) · [Post originale](https://x.com/FinanceYF5/status/2100751369619820923) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100614534423540102"></a>
+
+### Un corpo progettato in CAD
+
+[vitalduval](https://x.com/vitalduval) · 2026-09-17 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100614534423540102"><img src="../assets/previews/138579840f9de4ce31b0d5320ac7fd1f9772a567ef4c00743d5ac10716256006.webp" width="840" loading="lazy" alt="Un corpo progettato in CAD"></a>
+
+**Prompt**
+
+```text
+Ho detto ad Astra di progettarsi un corpo in CAD.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+I told Astra to CAD itself a body.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100614534423540102) · [Post originale](https://x.com/vitalduval/status/2100343136077877251) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100595652703199281"></a>
+
+### Gioco 3D di fuga nel browser da una struttura di ricerca chiusa
+
+[forest.watch.impress.co.jp](https://forest.watch.impress.co.jp/) · 2026-09-17 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100595652703199281"><img src="../assets/previews/72f6d766a135c0c5dbb4c1ace35342212b0a05ecdb6fd494c550d3be50af7141.webp" width="840" loading="lazy" alt="Gioco 3D di fuga nel browser da una struttura di ricerca chiusa"></a>
+
+**Prompt**
+
+```text
+Crea un gioco 3D di fuga giocabile nel browser. L’obiettivo deve essere fuggire da una struttura di ricerca chiusa e la partita deve durare circa 5–10 minuti. Inserisci enigmi con chiavi, interruttori e altri meccanismi; assicurati che sia chiaro come giocare e che il gioco sia completabile fino alla fine. Racchiudi tutto in un unico file HTML, in modo che basti aprirlo nel browser per giocare.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+ブラウザーで遊べる3D脱出ゲームを作ってください。閉鎖された研究施設から脱出する内容で、5～10分程度で遊べるものにしてください。鍵やスイッチなどの仕掛けを入れ、遊び方がわかり、最後までクリアできる状態にしてください。HTMLファイル1つにまとめ、ブラウザーで開くだけで遊べるようにしてください。
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100595652703199281) · [Post originale](https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100526922770026874"></a>
+
+### Creare un gioco di corse 3D
+
+[たい焼き｜Claude Codeの人](https://x.com/taiyaki_ai3) · 2026-09-17 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100526922770026874"><img src="../assets/previews/72ac86b5949942e8a18e7adedd1ceae4b3290c76145424d2362cca0a3c353f73.webp" width="840" loading="lazy" alt="Creare un gioco di corse 3D"></a>
+
+**Prompt**
+
+```text
+Crea un gioco di corse
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+レーシングゲーム作って
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100526922770026874) · [Post originale](https://x.com/taiyaki_ai3/status/2100526934082105683) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100519026720231698"></a>
+
+### Aggiungi una catena di manutenzione al corrimano
+
+[きのした](https://x.com/ujiden_type0) · 2026-09-17 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100519026720231698"><img src="../assets/previews/ceef15996af713b298c999e50be9f469ed20a6330cdac5628efb1ba2695411a8.webp" width="840" loading="lazy" alt="Aggiungi una catena di manutenzione al corrimano"></a>
+
+**Prompt**
+
+```text
+Aggiungi una catena di manutenzione al corrimano!
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+手摺にメンテ用のチェーン付けて！
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100519026720231698) · [Post originale](https://x.com/ujiden_type0/status/2100519026720231698) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2100350159540596760"></a>
+
+### Scena interattiva voxel con cavaliere e falò
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-16 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100350159540596760"><img src="../assets/previews/1daad03c6e1659db1ed8a09f9762ec3d77921189440006b6b7a8d3a8aa732744.webp" width="840" loading="lazy" alt="Scena interattiva voxel con cavaliere e falò"></a>
+
+**Immagini di riferimento:** [1](https://media.tripogrowth.space/media/8cbcd267-6a33-4c3e-8599-29ffdb729f3b.jpg) · [2](https://pbs.twimg.com/media/HSXxvD0XcAEG8Jg.jpg)
+
+**Prompt**
+
+```text
+Sei uno sviluppatore senior di WebGL creativo e Three.js. Il tuo compito è creare una scena 3D interattiva completa e pronta per la produzione, contenuta interamente in un unico file HTML autonomo (index.html) usando Three.js + webgl
+
+### 1. Tema visivo e direzione artistica
+
+- Atmosfera: foresta nella notte profonda, falò accogliente e luminoso, cavaliere solitario e stanco che riposa nell’accampamento (falò di Dark Souls / estetica dei classici GDR rétro).
+- Estetica: pixel art 3D / voxel / low-poly.
+- Shading e post-processing: integra il post-processing di Three.js (RenderPixelatedPass o un effetto equivalente di pixelizzazione e dithering a bassa risoluzione) per ottenere un autentico look rétro a 16/32 bit.
+
+### 2. Geometria della scena e asset (100% procedurali — nessun file .gltf/.obj esterno)
+
+Tutti gli asset devono essere creati proceduralmente usando le primitive geometriche di Three.js (BoxGeometry, CylinderGeometry ecc.) e materiali di base, così che il file possa essere eseguito localmente senza problemi di CORS.
+
+1. Ambiente della foresta:
+
+   - Terreno: paesaggio stilizzato e scuro con pietre voxel, funghi e vegetazione low-poly generati proceduralmente.
+   - Alberi: pini/abeti procedurali o alberi dalla chioma squadrata attorno alla radura, per creare profondità e isolamento.
+   - Cielo e illuminazione: cielo notturno molto scuro con stelle voxel tremolanti e una DirectionalLight di luce lunare fredda che proietta ombre morbide.
+   - Profondità: usa THREE.FogExp2 con un colore atmosferico scuro per fondere l’orizzonte.
+
+2. Falò:
+
+   - Cerchio di pietre attorno a ceppi fumanti e braci procedurali.
+   - Sistema del fuoco: particelle animate pixelate (Points o mesh voxel pulsanti) che salgono verso l’alto.
+   - Illuminazione dinamica: PointLight arancione-rossa e calda, con una logica di sfarfallio continua e naturale (usando Math.sin, rumore o variazioni pseudocasuali).
+
+3. Il cavaliere:
+
+   - Grafo della scena gerarchico (gruppi per testa, torso, parte superiore e inferiore delle braccia, gambe, mantello e spada) costruito con primitive voxel.
+   - Dettagli visivi: elmo con feritoie, armatura toracica, spallacci, guanti corazzati e fodero/spada.
+   - I punti pivot devono essere correttamente allineati alle articolazioni (spalle, gomiti, anche e ginocchia) per ottenere animazioni di rotazione procedurali fluide.
+
+### 3. Macchina a stati interattiva del cavaliere
+
+Implementa animazioni procedurali fluide usando l’interpolazione lineare (lerp) o curve trigonometriche all’interno del render loop per i seguenti stati selezionabili:
+
+- Seduto accanto al fuoco (idle predefinito): è seduto a gambe incrociate o accovacciato, con lievi cicli di respirazione e le mani riscaldate vicino alle fiamme.
+- Aggiungi legna: il cavaliere si alza, recupera un ceppo e lo getta sul fuoco. Le fiamme si ravvivano visibilmente, il raggio della luce aumenta temporaneamente e viene emessa una raffica di scintille.
+- Allenamento con la spada: si alza, estrae la spada, esegue una sequenza pulita di attacco e parata in 3 parti, poi torna in posizione di guardia da combattimento.
+- Guarda in lontananza: cammina fino al bordo della radura, pianta la spada nel terreno e fissa il buio mentre il mantello ondeggia.
+- Dormi: si sdraia su un sacco a pelo accanto al fuoco; particelle animate con la scritta pixel «Z z z» fluttuano sopra l’elmo.
+- Arrostisci la carne: tiene un bastoncino con del cibo sopra la fiamma; emette sottili particelle procedurali di fumo/vapore.
+
+### 4. Sistema della telecamera
+
+Fornisci preset della telecamera selezionabili con transizioni fluide interpolate (interpolando posizione e target):
+
+- Primo piano accogliente: inquadratura media focalizzata sul cavaliere e sulla luce del fuoco.
+- GDR isometrico: classica panoramica tattica dall’alto a 45 gradi sulla radura.
+- Cinematografica dal suolo: inquadratura drammatica dal basso verso l’alto, con il cavaliere stagliato contro il cielo stellato e le chiome dei pini.
+- Orbita libera: passaggio fluido agli OrbitControls standard per esplorare la scena interattivamente.
+
+### 5. UI e audio
+
+- Stile UI: layout HUD da GDR rétro a 8/16 bit, con riquadri scuri semitrasparenti, bordi pixelati e un Google Font integrato (ad es. «Press Start 2P»).
+- Pannello inferiore: pulsanti interattivi per le azioni che attivano ciascuno stato del cavaliere.
+- Pannello in alto a destra: pulsanti per cambiare angolazione della telecamera.
+- Contatore della legna: tiene traccia dei ceppi aggiunti e dell’intensità attuale del fuoco.
+- Audio (Web Audio API): crepitio del fuoco e brezza notturna/grilli ambientali sintetizzati proceduralmente, con un pulsante per attivare o disattivare l’audio.
+
+### 6. Specifiche tecniche
+
+- Un unico file index.html autonomo.
+- Usa ES Modules caricati tramite CDN (https://t.co/W8o3SZwkCj o unpkg).
+- Struttura del codice modulare e ampiamente commentata (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
+- Gestisci completamente il ridimensionamento della finestra, aggiornando il rapporto d’aspetto della telecamera e la risoluzione del pass di pixelizzazione.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+You are a Senior Creative WebGL & Three.js Developer. Your task is to build a complete, production-ready, interactive 3D scene contained entirely within a single standalone HTML file (index.html) using Three.js + webgl
+
+### 1. Visual Theme & Art Direction
+
+- Atmosphere: Deep night forest, cozy glowing campfire, solitary weary knight resting at the campsite (Dark Souls bonfire / classic retro RPG aesthetic).
+- Aesthetic: 3D Pixel Art / Voxel / Low-Poly aesthetic.
+- Shading & Post-Processing: Integrate Three.js post-processing (RenderPixelatedPass or an equivalent low-resolution pixelation/dithering effect) to achieve an authentic 16-bit/32-bit retro look.
+
+### 2. Scene Geometry & Assets (100% Procedural — No External .gltf/.obj Files)
+
+All assets must be constructed procedurally using Three.js geometric primitives (BoxGeometry, CylinderGeometry, etc.) and basic materials so the file runs locally without CORS issues.
+
+1. Forest Environment:
+
+   - Ground: Dark stylized terrain with procedural voxel stones, mushrooms, and low-poly foliage.
+   - Trees: Procedural pine/spruce or blocky canopy trees surrounding the clearing to create depth and seclusion.
+   - Sky & Lighting: Deep midnight sky with flickering voxel stars and a cool moonlight DirectionalLight casting soft shadows.
+   - Depth: THREE.FogExp2 with a dark atmospheric color to blend the horizon.
+
+2. Campfire:
+
+   - Stone circle surrounding smoldering logs and procedural ember embers.
+   - Fire System: Animated pixelated particles (Points or pulsing voxel meshes) rising upward.
+   - Dynamic Lighting: Warm orange-red PointLight with continuous, natural flicker logic (using Math.sin, noise, or pseudo-random variations).
+
+3. The Knight:
+
+   - Hierarchical scene graph (groups for head, torso, upper/lower arms, legs, cape, and sword) built from voxelized primitives.
+   - Visual details: Slotted helmet, chest armor, pauldrons, gauntlets, and a sheath/sword.
+   - Pivot points must be aligned correctly at joints (shoulders, elbows, hips, knees) for clean procedural rotation animations.
+
+### 3. Interactive Knight State Machine
+
+Implement smooth procedural animations using linear interpolation (lerp) or trigonometric curves inside the render loop for the following selectable states:
+
+- Sit by Fire (Default Idle): Sits cross-legged or crouched, subtle breathing cycles, warming hands near the flames.
+- Add Firewood: Knight stands up, retrieves a log, and tosses it onto the fire. The fire visibly flares up, expands its light radius temporarily, and emits a burst of sparks.
+- Sword Practice: Stands up, draws the sword, executes a clean 3-part attack/parry routine, and returns to a combat guard stance.
+- Look into the Distance: Walks to the edge of the clearing, plants the sword into the ground, and stares out into the dark while the cape sways.
+- Sleep: Lies down on a bedroll beside the fire; floating animated pixel "Z z z" particles rise from the helmet.
+- Roast Meat: Holds a stick with food over the flame; emits subtle procedural smoke/steam particles.
+
+### 4. Camera System
+
+Provide preset camera switches with smooth transition interpolation (lerping position and target):
+
+- Cozy Close-up: Medium shot focusing on the knight and the firelight.
+- Isometric RPG: Classic high 45-degree tactical overview of the clearing.
+- Cinematic Ground: Low-angle dramatic shot looking upward at the knight against the starry sky and pine canopies.
+- Free Orbit: Seamless switch to standard OrbitControls for interactive inspection.
+
+### 5. UI & Audio
+
+- UI Style: Retro 8-bit/16-bit RPG HUD layout using semi-transparent dark frames with pixelated borders and an embedded Google Font (e.g., 'Press Start 2P').
+- Bottom Panel: Interactive action buttons triggering each knight state.
+- Top-Right Panel: Camera angle switcher buttons.
+- Firewood Counter: Tracks logs added and current fire intensity.
+- Sound (Web Audio API): Procedurally synthesized fire crackle and ambient night breeze/crickets, with a mute/unmute toggle button.
+
+### 6. Technical Specifications
+
+- Single, self-contained index.html file.
+- Use ES Modules loaded via CDN (https://t.co/W8o3SZwkCj or unpkg).
+- Modular, well-commented code structure (initScene, buildEnvironment, buildKnight, buildCampfire, setupUI, setupAudio, animate).
+- Fully responsive window resize handler updating camera aspect ratio and pixelation pass resolution.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2100350159540596760) · [Post originale](https://x.com/vib3coded/status/2100350602316558428) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2100271998618177864"></a>
 
 ### Demo di grafica fantasy isometrica
@@ -3413,410 +3869,6 @@ Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blen
 </details>
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098094339759149067) · [Post originale](https://x.com/PixVerse/status/2098094339759149067) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098079379297608050"></a>
-
-### Volo di uno shuttle in modello bianco attraverso un canyon urbano
-
-[PixVerseCreators](https://x.com/PixVerseCreator) · 2026-09-10 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098079379297608050"><img src="../assets/previews/fb62923c0a12f233e640a7b0ca3338732a39186d9c99168ef4e14b3248ae21a4.webp" width="840" loading="lazy" alt="Volo di uno shuttle in modello bianco attraverso un canyon urbano"></a>
-
-**Prompt**
-
-```text
-Crea in Blender il volo, in un’unica ripresa di 10 secondi, di uno shuttle in modello bianco. Costruisci uno shuttle originale e un fitto canyon urbano che si estenda per diversi chilometri. Anima un volo in avanti a velocità estrema lungo un percorso esteso, coprendo oltre due chilometri senza rallentare. Passa attraverso varchi stretti e sotto i ponti, cambia quota ed esegui due barrel roll fluidi in direzioni opposte. Rendi inequivocabile la velocità: gli edifici vicini devono scorrere rapidamente all’indietro, i ponti sfrecciare sopra lo shuttle e le strutture in primo piano attraversare rapidamente i bordi dell’inquadratura. Applica un forte motion blur direzionale all’ambiente, mantenendo lo shuttle leggibile. Ostacoli fitti, passaggi ravvicinati e un forte effetto di parallasse tra primo piano e sfondo devono trasmettere un volo continuo a tutta potenza. Usa una camera chase fluida e grandangolare, ravvicinata, dietro e leggermente sopra lo shuttle, che avanzi alla sua stessa velocità. Mantieni il muso rivolto verso la città e i motori orientati verso la camera. Nessun taglio, movimento della camera, barrel roll della camera, ralenti o decelerazione finale. Verifica la distanza dagli ostacoli, la continuità del movimento e la percezione della velocità a velocità di riproduzione normale. Usa PixVerse per renderizzare l’animazione finale in modello bianco a partire dai riferimenti di Blender, mantenendo la velocità estrema, il percorso di volo e il movimento della camera. Consegna il file MP4 finale, il progetto Blender modificabile e brevi note sui limiti.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create a 10-second, single-take white-model shuttle flight in Blender. Build an original shuttle and a dense city canyon stretching several kilometers. Animate extremely fast forward flight along an extended route, covering over two kilometers without slowing down. Weave through narrow gaps and under bridges, change altitude, and perform two smooth barrel rolls in opposite directions. Make the speed unmistakable: nearby buildings streak backward, bridges whip overhead, and foreground structures rapidly sweep past the frame edges. Use strong directional motion blur on the environment while keeping the shuttle readable. Dense obstacles, close passes, and strong foreground-to-background parallax should convey sustained, full-throttle flight. Use a smooth wide-angle chase camera close behind and slightly above the shuttle, racing forward at matching speed. Keep the nose pointing into the city and the engines facing the camera. No cuts, camera shake, camera barrel rolls, slow motion, or deceleration at the ending. Test clearance, motion continuity, and the sense of speed at normal playback. Use PixVerse to render the final white-model animation from Blender references, preserving the extreme speed, flight path, and camera movement. Deliver the final MP4, editable Blender project, and brief notes on limitations.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098079379297608050) · [Post originale](https://x.com/PixVerseCreator/status/2098079379297608050) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098071577309122854"></a>
-
-### Animazione di un’accademia magica fluttuante
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098071577309122854"><img src="../assets/previews/36a241be384820d5cea3c337fbd4bafeb7f5410f7ffbe11d0cead98d05b1d821.webp" width="840" loading="lazy" alt="Animazione di un’accademia magica fluttuante"></a>
-
-**Prompt**
-
-```text
-Crea in Blender un’animazione di 12 secondi, in un’unica ripresa, con modello bianco, poi usa @PixVerse per trasformare l’animazione esportata in una spettacolare sequenza cinematografica fantasy in stile live action.
-
-In Blender, costruisci un ingresso monumentale, uno strumento astronomico rotante e una vasta accademia magica fluttuante. Usa geometrie semplici bianche o grigio chiaro, con silhouette leggibili e un’illuminazione di base. Mostra l’intera porta d’ingresso all’inizio, con muri solidi tutt’intorno che nascondano completamente il mondo retrostante. Dai alla porta un piccolo buco della serratura dalle proporzioni realistiche. Oltre l’ingresso, disponi un grande castello centrale, torri, isole fluttuanti più piccole e ponti di collegamento. Definisci una scala architettonica imponente e distanze generose tra le strutture.
-
-Inizia con un lento avvicinamento alla porta, poi accelera bruscamente e attraversa il buco della serratura con un movimento di volo continuo. Anima una chiave fluttuante che ruota e si sposta di lato prima del passaggio della camera. Prosegui attraverso anelli astronomici in rapida rotazione, rivela l’accademia fluttuante e passa a un’orbita fluida intorno all’architettura. Fai sollevare rapidamente le isole vicine e ruotare le sezioni dei ponti fino a portarle in posizione. Mantieni i movimenti degli oggetti energici e decisi. L’orbita deve scorrere senza interruzioni, con variazioni di velocità fluide e senza pause ripetute. Controlla il passaggio nel buco della serratura, il margine libero della camera, la continuità spaziale e il movimento a velocità di riproduzione normale.
-
-Esporta l’MP4 pulito di 12 secondi con modello bianco. Usa poi @PixVerse per generare un video di 12 secondi renderizzato dall’IA, utilizzando l’animazione Blender come riferimento strutturale e di movimento non vincolante. Mantieni la progressione riconoscibile dall’avvicinamento alla porta al passaggio nel buco della serratura, allo strumento astronomico, alla rivelazione dell’accademia e all’orbita, arricchendo liberamente il mondo e la messa in scena cinematografica.
-
-Trasforma l’accademia in un’immensa città fluttuante antica: un castello centrale circondato da quartieri, biblioteche, osservatori, cortili, tetti sovrapposti, enormi ponti in pietra e cascate che precipitano tra le nuvole. Estendi l’ambiente circostante con valli boscose, laghi, montagne lontane e altre isole fluttuanti. Aggiungi minuscoli pedoni, imbarcazioni volanti, bandiere al vento, uccelli e attività atmosferiche per comunicare la scala. Durante l’orbita finale, fai emergere dalle nuvole, dietro l’accademia, un drago enorme che scivoli oltre le torri proiettando un’ombra in movimento sulla città.
-
-Punta alla ricchezza visiva di un lungometraggio fantasy in stile live action, con materiali segnati dagli agenti atmosferici, una morbida luce dorata che filtra attraverso nuvole fredde, profondità atmosferica naturale e delicati riflessi fotografici. Includi musica orchestrale originale e suoni ambientali e d’azione sincronizzati.
-
-Fornisci l’MP4 con modello bianco, l’MP4 renderizzato dall’IA di PixVerse e il progetto Blender modificabile.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create a 12-second, single-take white-model animation in Blender, then use @PixVerse to transform the exported animation into a spectacular live-action fantasy film sequence.
-
-In Blender, build a monumental entrance, a rotating astronomical instrument, and a vast floating magical academy. Use simple white or light-gray geometry with readable silhouettes and basic lighting. Show the complete entrance door at the beginning, with solid walls surrounding it and fully concealing the world behind it. Give the door a realistically proportioned small keyhole. Beyond the entrance, arrange a large central castle, towers, smaller floating islands, and connecting bridges. Establish an impressive architectural scale and generous distances between structures.
-
-Begin with a slow approach toward the door, then accelerate sharply and fly continuously through the keyhole. Animate a floating key turning and moving aside before the camera passes. Continue through rapidly rotating astronomical rings, reveal the floating academy, and transition into a smooth orbit around the architecture. Let nearby islands rise quickly and bridge sections rotate into place. Keep object movements energetic and decisive. The orbit should flow continuously, with smooth changes in speed and no repeated pauses. Check the keyhole passage, camera clearance, spatial continuity, and motion at normal playback.
-
-Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose structural and motion reference. Preserve the recognizable progression from door approach to keyhole passage, astronomical instrument, academy reveal, and orbit, while freely enriching the world and cinematic staging.
-
-Turn the academy into an immense, ancient floating city: a central castle surrounded by districts, libraries, observatories, courtyards, layered rooftops, enormous stone bridges, and waterfalls plunging into clouds. Extend the surroundings into forested valleys, lakes, distant mountains, and additional floating islands. Add tiny pedestrians, flying vessels, moving flags, birds, and atmospheric activity to communicate scale. During the later orbit, let an enormous dragon emerge from clouds behind the academy and glide past the towers, casting a moving shadow over the city.
-
-Aim for the richness of a live-action fantasy feature film, with weathered materials, soft golden sunlight breaking through cool clouds, natural atmospheric depth, and gentle photographic highlights. Include original orchestral music and synchronized environmental and action sounds.
-
-Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098071577309122854) · [Post originale](https://x.com/PixVerse/status/2098071577309122854) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098063352832610473"></a>
-
-### City Pulse
-
-[Seoyeon Jun 📊](https://x.com/tableau_viz) · 2026-09-10 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098063352832610473"><img src="../assets/previews/671137468943e22cd21c2d6b26bb8ac516a4ac1c6c632962514453836a984d59.webp" width="840" loading="lazy" alt="City Pulse"></a>
-
-**Prompt**
-
-```text
-# Crea "City Pulse": un atlante interattivo 3D della mobilità di New York basato sull'attività dei taxi della città (gennaio 2025)
-
-## Obiettivo
-Una visualizzazione web in inglese, a pagina singola, che mostri come si muove New York nell'arco di un mese:
-31 giorni, 24 ore, 263 zone taxi. Il lettore deve poter osservare il ritmo quotidiano della città,
-confrontare qualsiasi giorno con un giorno feriale o del fine settimana tipo e analizzare nel dettaglio qualsiasi zona.
-È uno strumento di analisi descrittiva, non un prodotto in tempo reale né basato su dati GPS. Ogni elemento visivo deve indicare chiaramente che cosa rappresenta un singolo segno.
-
-## Dati
-Fonti (pubbliche):
-- Dati NYC TLC sui viaggi registrati, taxi gialli, gennaio 2025 (Parquet)
-- Zone taxi di NYC TLC (263 zone, forme geometriche + corrispondenza con i borough)
-- Impronte degli edifici di NYC Open Data (solo Manhattan, come contesto visivo)
-
-Pre-elaborazione (Python + DuckDB o pandas), con output in piccoli file JSON statici:
-- Filtra i viaggi non validi: presa a bordo fuori da gennaio 2025, durata non positiva o superiore a 3 ore, zone sconosciute (264/265).
-- Per giorno, zona e ora: numero di prese a bordo, durata mediana del viaggio.
-- Per giorno e ora: principali coppie zona di origine → zona di destinazione (flussi aggregati, prime N coppie per ora).
-- Medie di riferimento per zona e ora: media dei giorni feriali (23 giorni) e media del fine settimana (8 giorni), medie giornaliere; le festività restano nel gruppo dei giorni feriali.
-- Scala fissa a livello mensile: massimo numero di prese a bordo per zona e ora, usato per ogni giorno affinché le altezze restino confrontabili.
-- Metadati delle zone: ID, nome, borough, centroide, punto di ancoraggio dell'etichetta. Semplifica la geometria delle zone.
-File: month.json (totali giornalieri, scala, zone principali), weekday.json, weekend.json, days/2025-01-DD.json, GeoJSON delle zone.
-Carica pigramente i dati del giorno corrente; mantieni rapido il primo rendering.
-
-## Stack
-- Un unico file HTML autonomo (oppure una piccola app Vite) con Three.js 0.160 (moduli ES tramite importmap), OrbitControls, EffectComposer + bloom.
-- D3 solo per scale/formattazione e piccoli grafici SVG.
-- Nessun framework obbligatorio. Nessuna chiamata ad API esterne durante l'esecuzione; tutto legge i JSON statici.
-
-## Layout (su desktop 1920×1080 deve stare in un'unica schermata senza scorrimento)
-1. Header: "CITY PULSE / ATLANTE DELLA MOBILITÀ", stato "Riproduzione registrata", link "Dati e metodi".
-2. Riga di stato: "Una città in movimento." + tre KPI: prese a bordo in tutta la città (ora selezionata), confronto con la media, durata mediana del viaggio.
-3. Fascia del mese: 31 pulsanti giornalieri come mini barre (altezza della barra = prese a bordo giornaliere, fine settimana contrassegnato), giorno precedente/successivo, selezione della data, selettore "Confronta con" (Media dei giorni feriali · 23 giorni / Media del fine settimana · 8 giorni).
-4. Barra narrativa: "Ogni movimento lascia una traccia." con 4 capitoli (01 Osserva, 02 Svela, 03 Confronta, 04 Condividi) e "Inizia la storia".
-5. Schede delle viste: 01 Connessioni, 02 Volume della città, 03 Svela le 24 ore, 04 Città fantasma, oltre a "Condividi il risultato" e "Crea un briefing".
-6. Area di lavoro: scena con mappa 3D (a sinistra) + pannello di analisi "Insight sulla posizione" (a destra, circa 330 px, con scorrimento interno).
-7. Timeline: Riproduci la giornata, velocità (0,25×–4×), cursore delle ore sopra un grafico a barre di 24 ore del giorno selezionato a confronto con la media.
-L'altezza della scena con la mappa deve adattarsi alla viewport (clamp tra circa 470 px e circa 780 px), così l'intera console, inclusa la timeline, resta visibile con zoom al 100%.
-
-## Scena 3D
-- Sfondo scuro, contorni delle zone tracciati con linee sottili, impronte degli edifici di Manhattan come tenue contesto reale.
-- Telecamera prospettica, orbita + zoom, pulsante per ricentrare la vista. Mantieni la telecamera dell'utente quando si cambia vista, tranne in "Svela le 24 ore", che deve sempre ridefinire l'inquadratura per mostrare l'intera matrice.
-- Al passaggio del mouse su una zona: tooltip con nome e prese a bordo. Al clic su una zona: selezionala (aggiorna il pannello di analisi e i flussi).
-
-Viste (ogni cambio è animato, senza stacchi bruschi):
-- 01 Connessioni: viaggi aggregati da zona a zona rappresentati come archi luminosi con particelle di luce in movimento; densità delle particelle ∝ viaggi; etichetta per il flusso in evidenza ("DA / Midtown Center → A / Upper East Side North, 71 viaggi / 18:00"). Didascalia: "Viaggi registrati da zona a zona · movimento schematico. Non GPS."
-- 02 Volume della città: ogni zona viene estrusa; altezza = prese a bordo sulla scala mensile fissa; la zona selezionata è evidenziata.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-# Build "City Pulse": an interactive 3D mobility atlas of New York City taxi activity (January 2025)
-
-## Goal
-A single-page, English-language web visualization that shows how New York moves across one month:
-31 days, 24 hours, 263 taxi zones. The reader should be able to watch the city's daily rhythm,
-compare any day against a typical weekday or weekend, and inspect any zone in detail.
-It is a descriptive analysis tool, not a real-time or GPS product. Every visual must state what one mark represents.
-
-## Data
-Sources (public):
-- NYC TLC Trip Record Data, Yellow Taxi, January 2025 (parquet)
-- NYC TLC Taxi Zones (263 zones, shapes + borough lookup)
-- NYC Open Data building footprints (Manhattan only, as visual context)
-
-Preprocessing (Python + DuckDB or pandas), output small static JSON files:
-- Filter invalid trips: pickup outside Jan 2025, non-positive or > 3h duration, unknown zones (264/265).
-- Per day, per zone, per hour: pickup count, median trip duration.
-- Per day, per hour: top origin → destination zone pairs (aggregated flows, top N per hour).
-- Reference averages per zone-hour: weekday average (23 days) and weekend average (8 days), per-day means, holidays kept in the weekday group.
-- Month-level fixed scale: max zone-hour pickups, used for every day so heights stay comparable.
-- Zone metadata: id, name, borough, centroid, label anchor. Simplify zone geometry.
-Files: month.json (daily totals, scale, top zones), weekday.json, weekend.json, days/2025-01-DD.json, zones geojson.
-Load the current day lazily; keep the first paint fast.
-
-## Stack
-- One self-contained HTML file (or small Vite app) with Three.js 0.160 (ES modules via importmap), OrbitControls, EffectComposer + bloom.
-- D3 only for scales/formatting and small SVG charts.
-- No framework required. No external API calls at runtime; everything reads the static JSON.
-
-## Layout (desktop 1920×1080 must fit in one screen without scrolling)
-1. Header: "CITY PULSE / MOBILITY ATLAS", "Recorded replay" status, "Data & methods" link.
-2. Status row: "A city, in motion." + three KPIs: citywide pickups (selected hour), vs. comparison average, median trip time.
-3. Month strip: 31 day buttons as mini bars (bar height = daily pickups, weekends marked), prev/next day, date select, "Compare with" select (Weekday average · 23 days / Weekend average · 8 days).
-4. Story bar: "Every movement leaves a pattern." with 4 chapters (01 Watch, 02 Unfold, 03 Compare, 04 Share) and "Start the story".
-5. View tabs: 01 Connections, 02 Volume city, 03 Unfold 24h, 04 Ghost city, plus "Share finding" and "Create briefing".
-6. Workspace: 3D map stage (left) + Location Insight inspector (right, ~330px, scrolls internally).
-7. Timeline: Play day, speed (0.25×–4×), hour scrubber over a 24-hour bar chart of the selected day vs. average.
-Map stage height must adapt to the viewport (clamp between ~470px and ~780px) so the whole console, including the timeline, is visible at 100% zoom.
-
-## 3D scene
-- Dark ground, zone outlines as thin lines, Manhattan building footprints as faint real-world context.
-- Camera: perspective, orbit + zoom, a recenter button. Keep the user's camera when switching views, except "Unfold 24h", which always reframes to show the whole matrix.
-- Hover a zone: tooltip with name and pickups. Click a zone: select it (updates inspector and flows).
-
-Views (each switch animates, no hard pops):
-- 01 Connections: aggregated zone-to-zone trips as glowing arcs with moving light particles; particle density ∝ trips; label the featured flow ("FROM / Midtown Center → TO / Upper East Side North, 71 trips / 18:00"). Caption: "Recorded zone-to-zone trips · schematic motion. Not GPS."
-- 02 Volume city: each zone extruded; height = pickups on the fixed monthly scale; selected zone highlighted.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098063352832610473) · [Post originale](https://x.com/tableau_viz/status/2098063352832610473) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098049032195293190"></a>
-
-### Workflow per un inseguimento automobilistico cartoon ispirato a GTA
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098049032195293190"><img src="../assets/previews/be13e0d4ad47b5adc703986ff06c40b3da5a9fbca659046ccfae3614f618320b.webp" width="840" loading="lazy" alt="Workflow per un inseguimento automobilistico cartoon ispirato a GTA"></a>
-
-**Prompt**
-
-```text
-Crea un inseguimento automobilistico cartoon originale ispirato a GTA usando questo workflow:
-Progettazione: definisci un pilota principale, un'auto in fuga, un'auto inseguitrice e un ambiente urbano. Mantieni coerenti i loro design. Pianifica tre inquadrature da 4 secondi: inseguimento con tracking posteriore, tracking laterale durante una curva stretta e un'inquadratura panoramica dell'uscita.
-Costruzione in Blender: crea modelli grigi puliti e rig funzionali per personaggi e veicoli. Non sono necessarie texture né scartatura UV.
-Anima e verifica: anima il pilota, lo sterzo, la rotazione delle ruote, i veicoli e le camere. Mantieni coerenti la direzione di marcia e l'ordine dei veicoli. Correggi intersezioni, ruote sospese, pneumatici che slittano, pose deformate e mani che perdono il contatto con il volante.
-Renderizza in Blender: esegui il rendering dei fotogrammi da 1 a 288 a 1280×720, 24 fps. Assembla i fotogrammi effettivamente renderizzati in Blender in un master completo di 12 secondi con modelli grigi. Esporta ogni inquadratura separatamente e renderizza immagini fisse corrispondenti in grigio come riferimenti per forme e composizione.
-Completa con il plugin [@PixVerse](plugin://pixverse@openai-curated-remote): usa Seedance 2.5 a 720p, elaborando ogni inquadratura separatamente. Usa le clip di Blender come riferimenti per il movimento e le immagini fisse in grigio come riferimenti per le forme. Definisci una palette di colori cartoon coerente nel prompt di generazione. Mantieni il movimento della camera, i tempi d'azione, i design dei personaggi e dei veicoli e il numero di veicoli.
-Rivedi e consegna: controlla entrambi i video completi per individuare difetti visivi e problemi di continuità. Correggi i problemi in Blender e rigenera solo le inquadrature Seedance non riuscite, con un massimo di due tentativi per inquadratura. Consegna il file .blend modificabile, il video nativo a 720p con modelli grigi renderizzato in Blender, la versione Seedance a 720p con inquadrature etichettate separatamente e una breve valutazione dei limiti ancora presenti.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create an original GTA-inspired cartoon car chase using this workflow:
-Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot.
-Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required.
-Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel.
-Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references.
-Finish with [@PixVerse](plugin://pixverse@openai-curated-remote) Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count.
-Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098049032195293190) · [Post originale](https://x.com/PixVerse/status/2098049032195293190) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098043033446912315"></a>
-
-### Banco interattivo di calamari
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-10 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098043033446912315"><img src="../assets/previews/e75365c0d5394d6f38e8113afc4ec791456e5e46799814200ba48f679ad4be86.webp" width="840" loading="lazy" alt="Banco interattivo di calamari"></a>
-
-**Prompt**
-
-```text
-crea un banco interattivo di calamari
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-create an interactive squid shoal
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098043033446912315) · [Post originale](https://x.com/vib3coded/status/2098043033446912315) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098038909514944562"></a>
-
-### Rendi più impegnativo un campo da golf a 18 buche
-
-[Rory Flynn](https://x.com/Ror_Fly) · 2026-09-10 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098038909514944562"><img src="../assets/previews/6c08365ca5db7b55f666bd46e4f46f4e0b5f28a36cc57cbc152cbe9f0978ee7d.webp" width="840" loading="lazy" alt="Rendi più impegnativo un campo da golf a 18 buche"></a>
-
-**Prompt**
-
-```text
-Rendi più impegnativa ogni buca
->Interrompi la linearità dei fairway
->Aggiungi bunker e ostacoli più marcati
->Crea scelte di tiro più significative
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Make every hole more demanding
->Break up the straight fairways
->Add bolder bunkers + hazards
->Build more meaningful shot choices
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098038909514944562) · [Post originale](https://x.com/Ror_Fly/status/2098038909514944562) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="mosswing-mobile-3d-tap-to-flap-game"></a>
-
-### Mosswing: gioco 3D mobile tap-to-flap
-
-[Ayi1337](https://github.com/Ayi1337) · 2026-09-10 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/mosswing-mobile-3d-tap-to-flap-game"><img src="../assets/previews/6785692e613325d845661924a28011ea02f5ee6ef33ca664d20f81f2ae38fdec.webp" width="840" loading="lazy" alt="Mosswing: gioco 3D mobile tap-to-flap"></a>
-
-**Prompt**
-
-```text
-Rielabora il classico gioco "tap-to-flap" — quello in cui tocchi lo schermo per mantenere in volo una piccola creatura mentre attraversa una serie infinita di varchi — trasformandolo in un gioco 3D giocabile da browser mobile. Un solo index.html, apertura e avvio immediati, nessuna risorsa esterna (le librerie da CDN sono consentite; scegli tu). Mantieni esattamente il nucleo che tutti ricordano: controllo a un tocco, gravità, varchi che scorrono verso il giocatore, un solo impatto e la partita è finita, punteggio basato sui varchi superati. Per tutto il resto, decidi tu: che creatura sia, quali siano gli ostacoli, il mondo, la telecamera, la sensazione del battito d'ali e fin dove spingere l'aspetto visivo. Progetta un personaggio e uno stile originali, senza copiare l'arte del gioco originale. Non risponderò a domande di chiarimento. Valuterò un lavoro completo, elegante e piacevole da giocare — non un semplice elenco di funzionalità. Meglio piccolo e rifinito che grande e approssimativo.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Remaster the classic "tap-to-flap" game — the one where you tap to keep a small creature airborne while gliding through an endless series of gaps — as a 3D game playable in a mobile browser. One index.html, opens and plays instantly, no external assets (CDN libraries are allowed; your call).  Keep the core exactly as everyone remembers it: one-tap control, gravity, gaps that scroll toward you, one hit and you're done, score is gaps passed. Everything else is yours to decide: what the creature is, what the obstacles are, the world, the camera, the feel of the flap, how far to take the visuals. Design an original character and style rather than copying the original's art. I won't answer clarifying questions.  I'm judging a complete, elegant, great-feeling piece of work — not a feature list. Small and finished beats big and rough.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/mosswing-mobile-3d-tap-to-flap-game) · [Post originale](https://github.com/Ayi1337/gpt6-astra-one-shot-games#02--mosswing) · [Codice sorgente](https://github.com/Ayi1337/gpt6-astra-one-shot-games) · [Demo](https://mosswing-quiet-flight.jack-514.chatgpt.site/) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097900087901106244"></a>
-
-### Corto d’animazione 3D senza parole: il gatto e il premietto
-
-[AI実践ラボ](https://x.com/boboga777) · 2026-09-10 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097900087901106244"><img src="../assets/previews/92c32613ae2b3c859ba424f99071a6eac6c05a87e445d48ee321d3a160a07237.webp" width="840" loading="lazy" alt="Corto d’animazione 3D senza parole: il gatto e il premietto"></a>
-
-**Prompt**
-
-```text
-Crea un corto 3D senza parole con un gatto: un solo pulsante per il premietto, caos totale e una piccola ricompensa. Aggiungi recitazione espressiva, movimenti di camera, musica e un loop.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Make a wordless 3D cat short: one treat button, total chaos, a tiny payoff. Add expressive acting, camera moves, music and a loop.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097900087901106244) · [Post originale](https://x.com/boboga777/status/2097900087901106244) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097821164093480999"></a>
-
-### Demo di grafica fantasy interattiva
-
-[Anshu](https://x.com/anshuc) · 2026-09-09 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097821164093480999"><img src="../assets/previews/1c42936977daaa0cf0f1c1420f7c053059cd5bd5a9f1500c115f1564541fe0a6.webp" width="840" loading="lazy" alt="Demo di grafica fantasy interattiva"></a>
-
-**Prompt**
-
-```text
-Usa Dream Loop Plus per realizzare una demo grafica: camera isometrica, shading realistico e pavimenti bagnati riflettenti, con un personaggio inserito in una scena interessante. Ambientazione fantasy (pensa a Elden Ring e Diablo). Three.js nel browser, >60 fps. Comandi: fai clic per muovere il personaggio; la camera lo segue con inerzia; trascina per ruotare la camera; usa la rotellina per aumentare o ridurre lo zoom. Per ora, niente gameplay. Il mondo deve sembrare vivo: movimento, animazioni e comportamenti ambientali sottili.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Use Dream Loop Plus to build me a graphics demo: isometric camera, realistic shading and reflective wet floors, a character in an interesting scene. Fantasy setting (think Elden Ring, Diablo). Three.js in browser, >60fps. Controls: click to move the character, camera lazy-follows; drag to rotate camera; scroll to zoom in/out. No gameplay for now. World should feel alive: motion, animations, subtle environmental behaviors.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097821164093480999) · [Post originale](https://x.com/anshuc/status/2097821164093480999) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2097797479488246071"></a>
-
-### Clone di Minecraft multigiocatore
-
-[Armaan Jain](https://x.com/Armaan_Jain123) · 2026-09-09 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097797479488246071"><img src="../assets/previews/7c094bee3d162f406b0aedead6396b7bab3d03671669049c5809929cff7fd07a.webp" width="840" loading="lazy" alt="Clone di Minecraft multigiocatore"></a>
-
-**Prompt**
-
-```text
-Crea un clone di Minecraft perfetto e completo dall’inizio alla fine e fammi sapere se ti serve qualcosa da parte mia. Ho allegato un documento di ricerca approfondito su Minecraft che potrà esserti utile. Assicurati di riprodurre alla perfezione meccaniche, animazioni e grafica. Ogni nuovo mondo deve essere generato proceduralmente e casualmente usando un seed. Includi tutti i mob che i giocatori si aspettano da Minecraft e assicurati che compaiano nei biomi corretti. Una volta completata l’implementazione per giocatore singolo, aggiungi la possibilità di aprire i mondi in LAN e di unirsi ai server degli altri giocatori. Il gioco deve usare la modalità Sopravvivenza per impostazione predefinita. Fai in modo che le texture siano identiche a quelle di Minecraft e, se trovi online le texture esatte, puoi usarle. Quando dico che lo voglio identico a Minecraft, intendo proprio questo. Nessuno dovrebbe riuscire a distinguere il sito web che crei dal vero Minecraft. È tutto a scopo didattico, quindi non preoccuparti del copyright. Non usare semplicemente HTML per l’interfaccia di gioco. Realizzala nativamente all’interno del motore di gioco. I modelli del personaggio e dei mob devono essere quelli reali e devono avere l’aspetto, il comportamento e le animazioni identici a quelli del gioco originale. Aggiungi audio e suoni direzionali. Analizza ogni pagina, ogni interazione e ogni meccanica, una per una, per ottenere un risultato perfetto. Una volta completato tutto e creato un clone perfetto di Minecraft, inizia a ottimizzarne le prestazioni usando tecniche come il culling, la distanza di rendering, la distanza di simulazione, il LOD basato sulla distanza, l’ottimizzazione degli FPS e altro ancora. Assicurati che la logica di gioco sia accurata. Per esempio, se viene rotto un blocco di sabbia o ghiaia sotto ad altri blocchi di sabbia o ghiaia, quelli sopra devono cadere. Se viene rotto un blocco di supporto, anche i fiori o l’erba sopra di esso devono rompersi. L’interfaccia dell’inventario deve essere identica e le interazioni devono risultare uguali, incluse scorciatoie, animazioni ed effetti d’impatto di spade, armi e altri strumenti. Ricrea accuratamente le interazioni con l’acqua e con i mob che si trovano al suo interno, il salto automatico e tutti gli altri piccoli dettagli. Concentrati sulla precisione di questi dettagli e sulla perfezione del risultato. Il gioco non deve dare una sensazione di instabilità o presentare glitch. Deve risultare fluido e identico al vero Minecraft. Presta attenzione anche a dettagli minori come le nuvole, il ciclo giorno-notte, il meteo, la musica di sottofondo di Minecraft e altro ancora. Assicurati che acqua e lava scorrano come previsto e che il loro rendering sia implementato alla perfezione. I mob non devono generarsi uno sopra l’altro, dentro gli alberi o all’interno dei blocchi. Aggiungi le strutture di Minecraft, i villici, il bottino e tutto ciò che li riguarda. Perfeziona la logica di generazione dei mob, assicurati che le loro animazioni siano fluide e che le dimensioni di ogni mob e del personaggio del giocatore siano identiche a quelle del vero Minecraft. Concentrati sulle azioni che i giocatori di Minecraft compiono comunemente, come saltare mentre piazzano blocchi per costruire ponti più velocemente o salire più in alto, usare Ctrl + W mentre saltano e altro ancora. Fai in modo che gli oggetti abbiano un bell’aspetto quando vengono tenuti in mano dal giocatore e assicurati che la posizione della mano corrisponda esattamente a quella del vero Minecraft. Aggiungi effetti d’impatto sui mob e fai in modo che ogni sprite degli oggetti nell’inventario sia identico a quello del vero Minecraft.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create a perfect end-to-end Minecraft clone, and let me know if you need anything from me. I’ve attached a deep research document on Minecraft that will be helpful. Make sure you absolutely nail the mechanics, animations, and graphics. Every new world should be procedurally and randomly generated using a seed. Include all the mobs players expect from Minecraft and ensure they appear in the correct biomes. Once the single-player implementation is complete, add the ability for players to open their worlds to LAN and join each other’s servers. The game should use Survival mode by default. Make the textures look exactly like Minecraft, and if you can find the exact textures online, you may use them. When I say I want it to be exactly like Minecraft, I mean it. No one should be able to tell the difference between the website you create and the real Minecraft. This is all for educational purposes, so don’t worry about copyright. Don’t simply use HTML for the game’s UI. Build it natively within the game engine. The character and mob models should be the real ones, and they should look, work, and animate exactly like they do in the real game. Add directional audio and sounds. Go page by page, interaction by interaction, and mechanic by mechanic to make it perfect. Once everything is complete and you have created a perfect Minecraft clone, start optimizing its performance using techniques such as culling, render distance, simulation distance, distance-based LOD, FPS optimization, and more. Make sure the game logic is accurate. For example, if a sand or gravel block underneath other sand or gravel blocks is broken, the blocks above it should fall. If a supporting block is broken, any flowers or grass above it should also break. The inventory UI should look exactly the same, and its interactions should feel identical, including shortcuts, animations, and the hit effects of swords and other weapons and tools. Accurately recreate interactions with water and mobs inside it, auto-jump, and all the other small details. Focus on getting these details right and making everything perfect. The game should not feel glitchy. It should feel smooth and exactly like the real Minecraft. Pay attention to smaller details such as clouds, the day-night cycle, weather, Minecraft background music, and more. Make sure water and lava flow as expected, and ensure their rendering is implemented perfectly. Mobs should not spawn on top of one another, inside trees, or inside blocks. Add Minecraft structures, villagers, loot, and everything related to them. Perfect the mob-spawning logic, ensure that mob animations are smooth, and make the size of every mob and the player character accurate to the real Minecraft. Focus on actions Minecraft players commonly perform, such as jumping while placing blocks to speed bridge or climb higher, using Ctrl + W while jumping, and more. Make items look good when held in the player’s hand, and ensure the hand position exactly matches the real Minecraft. Add hit effects on mobs, and make every item sprite in the inventory look exactly like it does in the real Minecraft.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2097797479488246071) · [Post originale](https://x.com/Armaan_Jain123/status/2097797479488246071) · [Torna agli esempi](#all-prompts)
 
 ---
 

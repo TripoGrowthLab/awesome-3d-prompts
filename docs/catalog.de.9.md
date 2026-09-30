@@ -28,6 +28,16 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Interaktive Skyline von Toronto](#interactive-toronto-skyline-2095000329561485584)
+- [Autonome Sims-artige Lebenssimulation](#autonomous-sims-like-life-simulation-2094949450196090988)
+- [Voxeldorf mit denkenden NPCs](#voxel-village-with-thinking-npcs-2094930970675741171)
+- [Fantastischer Aufstieg zum Fuji](#fantasy-ascent-to-mount-fuji-2094930804296274414)
+- [Godot-Rennspiel von Grund auf](#godot-racing-game-built-from-scratch-2094925359372284022)
+- [Vom Grundriss zum Blender-Rundgang](#floor-plan-to-blender-walkthrough-2094925117344428232)
+- [Deterministische Pagode aus 136.000 Voxeln](#deterministic-136-000-voxel-pagoda-2094916609219461211)
+- [Detaillierter Roboter durch Blender-Automatisierung](#detailed-robot-through-blender-automation-2094909825561805003)
+- [Open-World-Kriminalspiel als Prototyp](#open-world-crime-game-prototype-2094907986942591338)
+- [Browserspiel im Stil von Mini Militia](#mini-militia-style-browser-game-2094900523900219725)
 - [Regnerische Ozean-Sandbox aus der Ego-Perspektive](#rainy-first-person-ocean-sandbox-2094900247000654222)
 - [Schwebende Voxelinsel](#floating-voxel-island-2094899802588713418)
 - [Lebendiges mittelalterliches Voxel-Königreich](#living-voxel-medieval-kingdom-2094899477626720403)
@@ -68,18 +78,208 @@
 - [Kimi-K3-Prompt für ein Subway-Surfers-artiges Spiel](#subway-surfers-style-game-2081766198082220514)
 - [Claude-Opus-5-Prompt für einen Counter-Strike-inspirierten Three.js-FPS](#counter-strike-inspired-three-js-fps-2081607528790856068)
 - [Claude-Fable-5-Prompt für eine endlose Three.js-Papiermaschine](#infinite-three-js-paper-machine-2081533777340506251)
-- [Claude-Opus-5-Prompt für eine interaktive 3D-Roboterhandsimulation](#interactive-3d-robotic-hand-simulation-2081475055536820506)
-- [Prompt zum Ergänzen einer Vespa 125 im 3D-Konfigurator](#vespa-125-3d-configurator-2081439705506435440)
-- [Prompt für einen ultrarealistischen 3D-Flugsimulator](#ultra-realistic-3d-flight-simulator-2081403842256605254)
-- [Prompt für einen 3D-Minecraft-Klon mit Claude Opus 5](#build-a-3d-minecraft-clone-2081305039159620085)
-- [Prompt für ein 3D-Flappy-Bird-Spiel](#3d-flappy-bird-game-2081260140117045275)
-- [Prompt für eine filmische Hubschrauberanimation im Vietnam-Dschungel](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
-- [Jelly-Dschungel: 3D-Plattformer](#jelly-jungle-3d-browser-game-2081024333120733188)
-- [Three.js-Prompt für eine erkundbare japanische Vorstadtstraße im handgezeichneten Anime-Stil](#explorable-anime-style-japanese-street-2080834581247435102)
-- [Counter-Strike-inspiriertes Browserspiel mit Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
-- [Einmal-Prompt für ein Versteckspiel mit Kimi K3](#one-shot-hide-and-seek-game-2080806989169307780)
 
 </details>
+<a id="interactive-toronto-skyline-2095000329561485584"></a>
+
+### Interaktive Skyline von Toronto
+
+[Kevin](https://x.com/bienjamyn) · 2026-09-02 · Claude Fable 5.1 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-toronto-skyline-2095000329561485584"><img src="../assets/previews/bef311e9c34b21d4ea7564dcb333b455bcf9e6d3639b42a775a16f0129f5f8b8.webp" width="840" loading="lazy" alt="Interaktive Skyline von Toronto"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue eine interaktive 3D-Skyline von Toronto mit erkennbaren Wahrzeichen, Wasser, atmosphärischer Tiefe, Tag-Nacht-Licht und sanfter Orbit- und Durchflugsteuerung.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-toronto-skyline-2095000329561485584) · [Originalbeitrag](https://x.com/bienjamyn/status/2095000329561485584) · [Live-Demo](https://toronto-voxel.vercel.app/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="autonomous-sims-like-life-simulation-2094949450196090988"></a>
+
+### Autonome Sims-artige Lebenssimulation
+
+[Ridark](https://x.com/ridark_eth) · 2026-09-02 · Claude Fable 5.1 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988"><img src="../assets/previews/75063ba9f199aff5faed7420ab575b306bd749b3559de8f878632df397ccb858.webp" width="840" loading="lazy" alt="Autonome Sims-artige Lebenssimulation"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue eine Sims-artige Lebenssimulation mit fünf autonomen Figuren. Ihre Bedürfnisse, Routinen, Beziehungen und Entscheidungen sollen ohne ständige Spielereingaben emergente Geschichten erzeugen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988) · [Originalbeitrag](https://x.com/ridark_eth/status/2094949450196090988) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="voxel-village-with-thinking-npcs-2094930970675741171"></a>
+
+### Voxeldorf mit denkenden NPCs
+
+[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171"><img src="../assets/previews/974d4c7d84097af10f8cd20d5d3c871e5bab197d946f589feca62acd4faa8455.webp" width="840" loading="lazy" alt="Voxeldorf mit denkenden NPCs"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Voxeldorf, dessen Bewohner Berufe, Routinen, Erinnerungen und lokale Sprachmodell-Gehirne haben, um auf den Spieler und aufeinander zu reagieren.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171) · [Originalbeitrag](https://x.com/Tech2Wild/status/2094930970675741171) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="fantasy-ascent-to-mount-fuji-2094930804296274414"></a>
+
+### Fantastischer Aufstieg zum Fuji
+
+[Techartist](https://x.com/techartist_) · 2026-09-01 · Claude Fable 5.1 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414"><img src="../assets/previews/5a0525135a25d7094cac3c8a1632a12b7147aaf4d967d86191b0aab848dfc692.webp" width="840" loading="lazy" alt="Fantastischer Aufstieg zum Fuji"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine schöne Three.js-Fantasiereise durch gestaffelte Umgebungen zum Gipfel des Fuji. Ergänze atmosphärisches Licht, Fortbewegung und ein klares Gefühl des Aufstiegs.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414) · [Originalbeitrag](https://x.com/techartist_/status/2094930804296274414) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="godot-racing-game-built-from-scratch-2094925359372284022"></a>
+
+### Godot-Rennspiel von Grund auf
+
+[atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022"><img src="../assets/previews/fb70f118a60a87d8b99b4707a1a06a1bf825bdf6efe4722966e954adfde6bf5f.webp" width="840" loading="lazy" alt="Godot-Rennspiel von Grund auf"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Godot-Rennspiel von Grund auf. Erstelle Fahrzeug- und Umgebungsassets in Blender und implementiere eine große Strecke, befriedigendes Handling, Gegner, HUD und Rennablauf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022) · [Originalbeitrag](https://x.com/atomic_chat_hq/status/2094925359372284022) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="floor-plan-to-blender-walkthrough-2094925117344428232"></a>
+
+### Vom Grundriss zum Blender-Rundgang
+
+[AGIラボ](https://x.com/ctgptlb) · 2026-09-01 · Claude Fable 5.1 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232"><img src="../assets/previews/378a03d3cd1c95f97f8e0d77b92491a424ae3aef5055dbd9aecf23abf408dc95.webp" width="840" loading="lazy" alt="Vom Grundriss zum Blender-Rundgang"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle aus dem Grundriss ein präzises Blender-3D-Modell, rendere repräsentative Standbilder und produziere ein zusammenhängendes Rundgangvideo.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232) · [Originalbeitrag](https://x.com/ctgptlb/status/2094925117344428232) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="deterministic-136-000-voxel-pagoda-2094916609219461211"></a>
+
+### Deterministische Pagode aus 136.000 Voxeln
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01 · Claude Fable 5.1 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211"><img src="../assets/previews/5f6a8e2c47e18b32228a30647a33403b7a981de34409e709fb3db9f971cd8fe7.webp" width="840" loading="lazy" alt="Deterministische Pagode aus 136.000 Voxeln"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Generiere in Three.js eine deterministische Pagode aus 136.000 Voxeln mit lesbaren Architekturebenen, effizientem Instancing, stabiler Ausgabe und Untersuchungskamera.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211) · [Originalbeitrag](https://x.com/Oluwaphilemon1/status/2094916609219461211) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="detailed-robot-through-blender-automation-2094909825561805003"></a>
+
+### Detaillierter Roboter durch Blender-Automatisierung
+
+[Spectro](https://x.com/Spectromachina) · 2026-09-01 · Claude Fable 5.1 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003"><img src="../assets/previews/cc82b31325f194335c6a876aa83404dd10829652fc0cf8dc42009018a57acf0c.webp" width="840" loading="lazy" alt="Detaillierter Roboter durch Blender-Automatisierung"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue einen detaillierten Hard-Surface-Roboter in Blender mit stimmigen Proportionen, Gelenken, Verkleidungen, Materialien, Licht und einem Präsentationsrender.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Originalbeitrag](https://x.com/Spectromachina/status/2094909825561805003) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="open-world-crime-game-prototype-2094907986942591338"></a>
+
+### Open-World-Kriminalspiel als Prototyp
+
+[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Open-World-Kriminalspiel als Prototyp"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle einen von GTA 6 inspirierten Open-World-Prototyp mit dichter Stadt, Bewegung zu Fuß, fahrbaren Fahrzeugen, Verkehr, Polizeireaktion und mehreren spielbaren Aktivitäten.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Originalbeitrag](https://x.com/vikktorrrre/status/2094907986942591338) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="mini-militia-style-browser-game-2094900523900219725"></a>
+
+### Browserspiel im Stil von Mini Militia
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/mini-militia-style-browser-game-2094900523900219725"><img src="../assets/previews/a72fb4b678a92d881096fcc6a02adc888425ee7da10d568b65ef164adc8b70c3.webp" width="840" loading="lazy" alt="Browserspiel im Stil von Mini Militia"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle ein Mini-Militia-artiges Actionspiel mit direkter Bewegung, Zielen, Waffen, kompakten Arenen, Bots und sofortiger Treffer- und Schadensrückmeldung.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [Originalbeitrag](https://x.com/0x0SojalSec/status/2094900523900219725) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="rainy-first-person-ocean-sandbox-2094900247000654222"></a>
 
 ### Regnerische Ozean-Sandbox aus der Ego-Perspektive
@@ -978,251 +1178,6 @@ Baue mit einem Prompt eine endlose Three.js-Papiermaschine. Verwandle ein statis
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Originalbeitrag](https://x.com/RoundtableSpace/status/2081533777340506251) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
-
-### Claude-Opus-5-Prompt für eine interaktive 3D-Roboterhandsimulation
-
-[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="Claude-Opus-5-Prompt für eine interaktive 3D-Roboterhandsimulation"></a>
-
-**Prompt**
-
-```text
-Ich gab 9 Modell-/Denk-Konfigurationen denselben Einmal-Prompt: Baue eine interaktive 3D-Roboterhandsimulation.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [Originalbeitrag](https://x.com/ThomasMWWalker/status/2081475055536820506) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="vespa-125-3d-configurator-2081439705506435440"></a>
-
-### Prompt zum Ergänzen einer Vespa 125 im 3D-Konfigurator
-
-[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="Prompt zum Ergänzen einer Vespa 125 im 3D-Konfigurator"></a>
-
-**Prompt**
-
-```text
-Füge meinem 3D-Konfigurator eine Vespa 125 hinzu, von Anfang bis Ende.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [Originalbeitrag](https://x.com/rafintheloop/status/2081439705506435440) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
-
-### Prompt für einen ultrarealistischen 3D-Flugsimulator
-
-[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="Prompt für einen ultrarealistischen 3D-Flugsimulator"></a>
-
-**Prompt**
-
-```text
-Baue einen ultrarealistischen 3D-Flugsimulator.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [Originalbeitrag](https://x.com/noclipepe/status/2081403842256605254) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
-
-### Prompt für einen 3D-Minecraft-Klon mit Claude Opus 5
-
-[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="Prompt für einen 3D-Minecraft-Klon mit Claude Opus 5"></a>
-
-**Prompt**
-
-```text
-Claude Opus 5 baute in 30 Minuten einen Minecraft-Klon mit dem einfachen Prompt: „Erstelle einen vollwertigen 3D-Minecraft-Klon.“
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [Originalbeitrag](https://x.com/BuilderGuest/status/2081305039159620085) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="3d-flappy-bird-game-2081260140117045275"></a>
-
-### Prompt für ein 3D-Flappy-Bird-Spiel
-
-[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="Prompt für ein 3D-Flappy-Bird-Spiel"></a>
-
-**Prompt**
-
-```text
-Baue ein 3D-Flappy-Bird-Spiel.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [Originalbeitrag](https://x.com/SrijibBose/status/2081260140117045275) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
-
-### Prompt für eine filmische Hubschrauberanimation im Vietnam-Dschungel
-
-[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="Prompt für eine filmische Hubschrauberanimation im Vietnam-Dschungel"></a>
-
-**Prompt**
-
-```text
-Eine filmische 3D-Animation eines Militärhubschraubers, der während des Krieges durch den vietnamesischen Dschungel fliegt.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Originalbeitrag](https://x.com/kirillk_web3/status/2081200833656451322) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
-
-### Jelly-Dschungel: 3D-Plattformer
-
-[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · Spiele
-
-Remix von: [aditya](https://x.com/adxtyahq)
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="Jelly-Dschungel: 3D-Plattformer"></a>
-
-**Prompt**
-
-```text
-# Jelly Jungle – Ein Abenteuer hoch oben
-
-## 1. Ziel
-Erstelle einen vollständigen Third-Person-Plattformer, in dem ein rosafarbener Jelly mit einem Minzsprössling mithilfe von Dreifachsprüngen und Sprungpilzen 13 schwebende Inseln überquert. Verwende https://jelly-jungle.tripo.page/ und die bereitgestellten Referenzen für Kurs, Komposition und fertigen visuellen Stil. Dies ist Jareds Rekonstruktion, inspiriert von adityas Jelly-Jungle-Post unter https://x.com/adxtyahq/status/2081024333120733188. Die gesamte Spieloberfläche bleibt auf Englisch.
-
-## 2. Visuelle Ausrichtung
-Erstelle eine weich modellierte Spielzeugwelt in Minzgrün, Salbeigrün, Creme, Türkis, Korallenrosa und warmem Gold. Verwende dicke, grasbewachsene Inseln mit abgerundeten Kanten, unregelmäßige Felsunterseiten in warmem Grau, herabhängende Ranken, Blumen, Kiesel, kleine Pilze, gelegentliche Wasserfälle und ein blasses Wolkenmeer. Füge weiche Schatten, sanften Nebel, dezente Umgebungsreflexionen, atmende Squash-and-Stretch-Animationen, im Wind schwingende Bäume und rotierende Kristalle hinzu. Halte Felsen unterhalb der Landeebene und die Vegetation vom nächsten Landeplatz fern.
-
-Reserviere bei Desktop-Breiten die linken 35–40 % für den gestapelten JELLY-/JUNGLE-Titel und den CTA. Platziere die Startinsel mittig rechts, während der Kurs nach rechts oben in die Tiefe führt. Verwende eine Perspektivkamera nahe (13,20,25) mit Zielpunkt (-5,1.5,-5) und einem vertikalen FOV von etwa 40°; gleiche sie anschließend an die Referenz an. Richte die Ansicht auf einem 390-px-Handy so ein, dass Jelly und Insel oberhalb des Titels stehen, statt die Desktop-Ansicht zuzuschneiden. Folge dem Spieler während des Spiels von hinten mit einem ungefähren Offset von (0,8.8,15.3) und richte die Kamera etwa 5,8 Einheiten voraus. Bewahre einen stabilen Horizont und einen gut sichtbaren Bodenschatten.
-
-Verwende lokal verfügbare Display-Schriften im Stil von Barlow Condensed, Steuerelemente im Stil von DM Sans, dunkelgrüne Buttons und weich gefrostete Panels. Eröffnungstexte: „Born to bounce.“ und „Let’s bounce“. Zeige oben Utility-Buttons, während des Spiels ein kompaktes Run-HUD, darunter eine Sprunganzeige mit drei Segmenten sowie einen auffälligen Umschalter für den Vergleich Classic / Tripo AI. Touch-Joystick, Jump, HUD und Footer müssen getrennt bleiben.
-
-## 3. Kurs
-Verwende die folgende Grundlage. Vorwärts bedeutet negative Z-Richtung; y bezeichnet die Landehöhe und r den Kollisionsradius. Füge ein Startbanner und ein Abschlussportal in warmem Gold hinzu.
-
-| Insel | x | z | y | r | Typ / Name |
-| --- | --- | --- | --- | --- | --- |
-| 01 | 0 | 0 | 1.2 | 5.4 | Start / Erster Sprung |
-| 02 | 0 | -10 | 1.6 | 3.1 | Normal / Ganz entspannt |
-| 03 | -4 | -19 | 2.0 | 3.1 | Sprung / Pilzstart |
-| 04 | 2 | -29 | 3.2 | 3.6 | Drehscheibe / Candy-Spinner |
-| 05 | 7 | -39 | 3.8 | 4.0 | Checkpoint / Wolkencamp |
-| 06 | 1 | -49 | 4.1 | 3.1 | Beweglich / Wanderinsel |
-| 07 | -6 | -59 | 4.7 | 3.2 | Sprung / Noch ein Bounce |
-| 08 | -1 | -71 | 5.8 | 3.8 | Drehscheibe / Doppelte Probleme |
-| 09 | 7 | -82 | 6.5 | 4.0 | Checkpoint / Sternenlicht-Camp |
-| 10 | 4 | -92 | 7.1 | 3.0 | Zerfallend / In Bewegung bleiben |
-| 11 | -3 | -102 | 7.7 | 3.2 | Beweglich / Wolkenpassage |
-| 12 | -7 | -113 | 8.2 | 3.3 | Sprung / Ein letzter Bounce |
-| 13 | 0 | -127 | 10.0 | 5.0 | Ziel / Über den Wolken |
-
-## 4. Asset-Verzeichnis
-Bereite in dieser Reihenfolge drei Ersatzfamilien vor:
-- `jelly`: eine rundliche, bonbonrosa Figur aus Softvinyl mit kleinen Armen und Füßen, großen dunklen ovalen Augen mit Lichtreflexen, rosigen Wangen, einem kleinen Lächeln und einem zweiblättrigen Minzsprössling. Das Gesicht muss sichtbar bleiben; die Höhe soll etwa 1,65 Einheiten betragen.
-- `mushroom`: eine breite korallenrosa Kuppel mit erhabenen elfenbeinfarbenen Punkten, cremefarbenen Lamellen und einem kurzen, dicken Stiel. Für jeden Sprungpilz wiederverwenden und eine großzügige, stabile Kappe verwenden.
-- `tree`: ein gebogener pfirsichbrauner Stamm, übergroße, abgerundete Palmenblätter in Türkis und Minzgrün sowie kleine Gruppen pfirsichfarbener Früchte. Im gesamten Kurs wiederverwenden.
-Halte Inseln, Wolken, Ranken, Blumen, kleine Felsen, Wasserfallflächen, Kristalle, Flaggen, Spinner und Portal prozedural. Sie definieren den Kurs und die Effekte, statt zusätzliche Aufgaben für generierte Modelle zu sein. Passe jedes Modell in einen Wrapper ohne Skalierung ein; Füße beziehungsweise Stammbasis liegen bei lokalem y=0. Richte Pilzkappe und Kollisionsfläche numerisch ebenso wie visuell aus. Verwende in beiden Modi dieselben Collider.
-
-## 5. Physik und Feedback
-Verwende einen festen Zeitschritt von 1/120 Sekunde, eine Gravitation von etwa 22 Einheiten/s², eine Bewegungsgeschwindigkeit von etwa 8,8 Einheiten/s, eine direkte Beschleunigung am Boden und eine sanftere Steuerung in der Luft. Normalisiere diagonale Eingaben. WASD/Pfeiltasten bewegen die Figur; ein neuer Druck auf die Leertaste springt. Erlaube genau drei Sprünge vor der nächsten Landung: eine anfängliche Aufwärtsgeschwindigkeit von etwa 9,2 und zwei Sprünge in der Luft mit etwa 8,5. Gedrückthalten darf Sprünge nicht wiederholen. Bei der Landung werden alle drei Sprünge wieder aufgeladen. Ein Sprungpilz schleudert die Figur mit etwa 16 nach oben, lädt die Sprünge wieder auf und wird mit einer erneuten Auslöseverzögerung zusammengedrückt und zurückfedert.
-
-Drehscheiben transportieren Spieler, die auf ihnen stehen. Niedrige rotierende Candy-Balken stoßen nur bei Kontakt mit dem Segment und vertikaler Überlappung zurück. Durch Springen lassen sie sich überwinden. Gewähre nach einem Treffer etwa 1,7 Sekunden Unverwundbarkeit. Bewegliche Inseln schwingen horizontal um etwa 2,6 Einheiten und nehmen Spieler am Boden entsprechend ihrer Verschiebung mit. Zerfallende Inseln zittern, verschwinden 1,5 Sekunden nach der Landung und kehren nach etwa 4 Sekunden zurück; verborgene Plattformen haben keine Kollision.
-
-Checkpoints auf den Inseln 05 und 09 stellen nach einem Sturz Position, Geschwindigkeit und Sprünge wieder her; gesammelte Kristalle bleiben erhalten und die Anzahl der Stürze wird erhöht. R kehrt manuell zurück, ohne eine Sturzstrafe auszulösen. Platziere drei Kristalle pro Insel, insgesamt 39. Jeder Kristall kann mit Sound, Partikeln und HUD-Feedback genau einmal eingesammelt werden. Das Erreichen der letzten Insel schließt den Durchlauf genau einmal ab; Kristalle sind optional. Zeige Zeit, Kristalle, Insel und Fortschritt an. Beende den Durchlauf mit Zeit, Stürzen und Sternen: drei Sterne für ≥30 Kristalle, zwei für ≥18, andernfalls einen. Speichere die Bestzeit und biete eine Wiederholung an. Keine Lebenspunkte und kein Kampf.
-
-Stelle einen Touch-Joystick mit Pointer-Capture und einen großen Jump-Button bereit; jeder Tap darf höchstens einen Sprung auslösen. Lösche abgebrochene und gehaltene Eingaben. Füge Hilfe- und Pausedialoge, eine Wiederherstellung nach verstecktem Tab, nicht blockierendes Feedback und optionales, standardmäßig stummgeschaltetes Web Audio hinzu. Ein Neustart setzt den gesamten Lauf-, Sammelobjekt- und Plattformstatus zurück.
-
-## 6. Implementierung
-Verwende Vite, Three.js und reines JavaScript/HTML/CSS mit getrennten Modulen für Physik/Kurs, Welt-/Asset-Registry, Anpassung, Eingabe/UI und Audio. Bündle Abhängigkeiten, Schriften und Assets lokal. GLTFLoader importiert eigenständige Modelle. Validiere vor dem Austausch endliche Bounds, sichtbare Geometrie und eingebettete Ressourcen. Behalte bei einem Fehler das aktuelle Modell bei, verhindere veraltete asynchrone Ladevorgänge und entsorge ersetzte Ressourcen. Blender ist optional, falls Mesh-Bereinigung oder eine Pivot-Korrektur nötig ist.
-
-Classic verwendet die drei prozeduralen Varianten. Der importierte Modus verwendet verfügbare Ersatzmodelle und meldet deren tatsächlichen Status. Beim Wechsel oder Import bleiben Position, Geschwindigkeit, Sprungladungen, Zeit, Kristalle und Checkpoints ohne Neuladen erhalten. Instanziiere oder vereine wiederholte statische Szenerie, begrenze die DPR auf etwa 1,5 und begrenze Effekte. Miss Draw Calls, Dreiecke und Framezeiten mit der tatsächlichen Kamera; reduziere zuerst entfernte Dekoration.
-
-## 7. Abnahme
-Liefere den vollständigen Quellcode, die Lockfile, die exakten Entwicklungs-/Build-Befehle und die statische Ausgabe. Überprüfe drei frische Sprünge und keinen vierten, die Ausrichtung der Sprungpilze, das Mitnehmen durch bewegliche Plattformen, den Kontakt mit den Kehrbalken, Zerfall/Wiederherstellung, Checkpoints, einzigartige Sammelobjekte, Pause/Neustart und den Abschluss. Absolviere alle 13 Inseln mit tatsächlicher Eingabe und Physik; Teleportieren beweist keine Erreichbarkeit. Prüfe Tastatur und Touch, beide Grafikmodi sowie jeden Import-, Zurücksetz- und Fehlerpfad und die Erhaltung des Zustands. Vergleiche die stabilisierten Desktop-/Mobilansichten von Eröffnung und Spiel, prüfe Überläufe und Ladefehler und dokumentiere die tatsächlichen Performance-Bedingungen. Befolge den untenstehenden gemeinsamen Asset-Workflow.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [Originalbeitrag](https://x.com/adxtyahq/status/2081024333120733188) · [Live-Demo](https://jelly-jungle.tripo.page/) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
-
-### Three.js-Prompt für eine erkundbare japanische Vorstadtstraße im handgezeichneten Anime-Stil
-
-[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="Three.js-Prompt für eine erkundbare japanische Vorstadtstraße im handgezeichneten Anime-Stil"></a>
-
-**Prompt**
-
-```text
-Baue eine erkundbare japanische Vorstadtstraße in Three.js, vollständig in 3D und wie ein handgezeichneter Anime-Hintergrund gerendert.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Originalbeitrag](https://x.com/gmi_cloud/status/2080834581247435102) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
-
-### Counter-Strike-inspiriertes Browserspiel mit Kimi K3
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Counter-Strike-inspiriertes Browserspiel mit Kimi K3"></a>
-
-**Prompt**
-
-```text
-Mit Kimi K3 ein Counter-Strike-inspiriertes Spiel im Browser gebaut.
-
-Eine HTML-Datei. Über 3.700 Codezeilen. Kein Buildschritt.
-
-Enthalten sind:
-🔫 Dust2-inspiriertes Layout mit Tunneln, Catwalk und Long A
-🎯 AK, AWP mit Zielfernrohr, MP5, Messer und Nachladen
-🤖 10 KI-Bots, die patrouillieren, auf Schüsse reagieren und deine Position angreifen
-💥 Kopftreffer, Killfeed und ein 2-Minuten-Rundensystem
-🔊 Vollständig prozedurales Audio ohne Sounddateien
-🌐 Mit Three.js und PBR-Materialien gebaut, vollständig im Browser ausgeführt
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Originalbeitrag](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
-
-### Einmal-Prompt für ein Versteckspiel mit Kimi K3
-
-[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="Einmal-Prompt für ein Versteckspiel mit Kimi K3"></a>
-
-**Prompt**
-
-```text
-Ein Versteckspiel in einem Versuch: Ein weißes Chamäleon versteckt sich in einem handgezeichneten Raum, bemalt sich passend zur Wand und übersteht drei Suchläufe eines Roboters. Live-Pixelvergleich in Prozent, fünf prozedurale Zonen, synthetischer Ton, drei gewertete Runden – eine HTML-Datei, keine Bibliotheken.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Originalbeitrag](https://x.com/0x_scalp/status/2080806989169307780) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

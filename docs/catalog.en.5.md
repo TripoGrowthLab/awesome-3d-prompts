@@ -28,6 +28,16 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Apartment sketch to rendered interiors](#apartment-sketch-to-rendered-interiors-2096566686266597754)
+- [Texture and rig a Tripo character](#texture-and-rig-a-tripo-character-2096566598689783878)
+- [Nuclear Explosion 3D City Simulation](#gpt-6-astra-2096562462674079868)
+- [Vinyl-player tabletop scene](#vinyl-player-tabletop-scene-2096561346766877106)
+- [Blender models with Unity VFX](#blender-models-with-unity-vfx-2096560142871658589)
+- [A 2D logo becomes an animated character](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
+- [Interactive miniature of Seoul](#interactive-miniature-of-seoul-2096557555086725159)
+- [Mobile-playable Unity rally game](#mobile-playable-unity-rally-game-2096556692842348826)
+- [Trading-card battle game loop](#trading-card-battle-game-loop-2096555856204644550)
+- [Interactive dual-ring energy core](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Ezekiel’s Temple Vision in 3D](#gpt-6-astra-2096547658164834788)
 - [Switchable character expressions in Blender](#switchable-character-expressions-in-blender-2096525100518453342)
 - [Looping water with Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
@@ -68,18 +78,206 @@
 - [Orbital rendezvous simulator](#orbital-rendezvous-simulator-2096225621303042258)
 - [Animated onboarding diorama](#animated-onboarding-diorama-2096222790894661841)
 - [Exploded interactive human anatomy](#exploded-interactive-human-anatomy-2096221988763173186)
-- [A storm trapped in a cube](#a-storm-trapped-in-a-cube-2096220264413409648)
-- [Playable Roblox Kart Racer with Custom 3D Assets](#gpt-6-astra-2096219700879331665)
-- [Interactive Pelican Riding a Bicycle](#gpt-6-astra-2096213850383331489)
-- [OX Vice Drive open-city racer](#ox-vice-drive-open-city-racer-2096206082712768897)
-- [A playful toddler toy world](#a-playful-toddler-toy-world-2096201415051911597)
-- [Reference-image tugboat assembly](#reference-image-tugboat-assembly-2096180220839760375)
-- [Zubli, a responsive WebGL character](#zubli-a-responsive-webgl-character-2096180133803561376)
-- [Marine life in a coffee cup](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Fish Survival Game from Aquarium to Ocean](#gpt-6-astra-2096156244180664627)
-- [Dropzone battle royale arena](#dropzone-battle-royale-arena-2096155883122413946)
 
 </details>
+<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
+
+### Apartment sketch to rendered interiors
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="Apartment sketch to rendered interiors"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Combine apartment reference images with a simple floor-plan sketch to reconstruct the interior in Blender. Deliver an editable scene, room renders and a short edited walkthrough.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Original post](https://x.com/WorldEverett/status/2096566686266597754) · [Back to examples](#all-prompts)
+
+---
+
+<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
+
+### Texture and rig a Tripo character
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Texture and rig a Tripo character"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Take a Tripo Smart Mesh character into Blender. Apply its textures and build a usable body rig before moving on to facial expressions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Original post](https://x.com/chimerast/status/2096566598689783878) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096562462674079868"></a>
+
+### Nuclear Explosion 3D City Simulation
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="Nuclear Explosion 3D City Simulation"></a>
+
+**Prompt**
+
+```text
+Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096562462674079868) · [Original post](https://x.com/ashishthakur___/status/2096562462674079868) · [Back to examples](#all-prompts)
+
+---
+
+<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
+
+### Vinyl-player tabletop scene
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="Vinyl-player tabletop scene"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a Three.js vinyl-player scene on a table. Stage a product-style demonstration with lamps switching on and a camera that shows the player and surrounding furniture.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Original post](https://x.com/niteshseram/status/2096561346766877106) · [Back to examples](#all-prompts)
+
+---
+
+<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
+
+### Blender models with Unity VFX
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="Blender models with Unity VFX"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create scene models in Blender and import them into Unity. Add effects with VFX Graph and light the scene so the models and effects read clearly together.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Original post](https://x.com/CST_negi/status/2096560142871658589) · [Back to examples](#all-prompts)
+
+---
+
+<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
+
+### A 2D logo becomes an animated character
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="A 2D logo becomes an animated character"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Turn a supplied 2D character logo into an animated 3D version. Preserve its recognizable identity as the character gains volume and movement.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Original post](https://x.com/anthonyriera/status/2096559197999501724) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
+
+### Interactive miniature of Seoul
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="Interactive miniature of Seoul"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a Three.js miniature of Seoul from open map data. Add district navigation, landmark fly-throughs, day and night modes and touch controls. Disclose simplified buildings, estimated heights and data licenses.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Original post](https://x.com/synabreu/status/2096557555086725159) · [Live demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Back to examples](#all-prompts)
+
+---
+
+<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
+
+### Mobile-playable Unity rally game
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="Mobile-playable Unity rally game"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a rally-driving prototype with Codex, Blender and Unity. Prepare its 3D assets and controls for playtesting on a phone.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Original post](https://x.com/kevinkern/status/2096556692842348826) · [Back to examples](#all-prompts)
+
+---
+
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Trading-card battle game loop
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Trading-card battle game loop"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a Three.js trading-card prototype: buy decks and boosters, construct a deck, enter a battle arena and earn rewards. Keep placeholder meshes replaceable with finished assets.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Original post](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### Interactive dual-ring energy core
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Interactive dual-ring energy core"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Model an energy core, two rings and a metal base in Blender. Export the materials to a Three.js viewer with rotation, zoom, automatic orbit and pulse controls.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Original post](https://x.com/oneruofeng/status/2096551010089263181) · [Source code](https://github.com/wangruofeng/orbital-core-showcase) · [Live demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Back to examples](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096547658164834788"></a>
 
 ### Ezekiel’s Temple Vision in 3D
@@ -1213,206 +1411,7 @@ Build a 3D anatomy website where the human body separates into individually insp
 
 ---
 
-<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
-
-### A storm trapped in a cube
-
-[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="A storm trapped in a cube"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Generate a storm trapped in a cube with weather you can control in Three.js.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Original post](https://x.com/zwb44/status/2096220264413409648) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096219700879331665"></a>
-
-### Playable Roblox Kart Racer with Custom 3D Assets
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="Playable Roblox Kart Racer with Custom 3D Assets"></a>
-
-**Prompt**
-
-```text
-Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096219700879331665) · [Original post](https://x.com/givros/status/2096219700879331665) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096213850383331489"></a>
-
-### Interactive Pelican Riding a Bicycle
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="Interactive Pelican Riding a Bicycle"></a>
-
-**Prompt**
-
-```text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096213850383331489) · [Original post](https://x.com/aibuilderclub_/status/2096213850383331489) · [Back to examples](#all-prompts)
-
----
-
-<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
-
-### OX Vice Drive open-city racer
-
-[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="OX Vice Drive open-city racer"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build an open-city browser driving game with traffic, drifting and delivery races. Design a coastal city that is enjoyable to navigate and supports a complete driving loop.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Original post](https://x.com/qok_ai/status/2096206082712768897) · [Back to examples](#all-prompts)
-
----
-
-<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
-
-### A playful toddler toy world
-
-[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="A playful toddler toy world"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a warm Three.js playroom where a toddler moves between toys and uses each with a different animation. Include a play mat, books, shelves and climbing structures, with orbit and zoom controls.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Original post](https://x.com/aehyok/status/2096201415051911597) · [Back to examples](#all-prompts)
-
----
-
-<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
-
-### Reference-image tugboat assembly
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="Reference-image tugboat assembly"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Reconstruct a tugboat in Blender from reference images. Model the hull, slanted wheelhouse, deck fittings and towing equipment, resolving inconsistent viewpoints into one coherent vessel.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Original post](https://x.com/NarvisAlex/status/2096180220839760375) · [Back to examples](#all-prompts)
-
----
-
-<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
-
-### Zubli, a responsive WebGL character
-
-[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="Zubli, a responsive WebGL character"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Turn six static character poses into a WebGL character that breathes, blinks, waves and follows the cursor. Optimize the deformation and rendering toward smooth 60 FPS playback.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [Original post](https://x.com/coxis/status/2096180133803561376) · [Back to examples](#all-prompts)
-
----
-
-<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
-
-### Marine life in a coffee cup
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="Marine life in a coffee cup"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a miniature marine ecosystem inside a cup of coffee in Three.js. Use a directed camera to reveal the aquatic life while keeping the cup and small-scale setting readable.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Original post](https://x.com/PolaczekSagi/status/2096174858837074198) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Fish Survival Game from Aquarium to Ocean
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Fish Survival Game from Aquarium to Ocean"></a>
-
-**Prompt**
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096156244180664627) · [Original post](https://x.com/AVachaspat92841/status/2096156244180664627) · [Back to examples](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone battle royale arena
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone battle royale arena"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a third-person browser battle royale with a storm circle, nine AI enemies, a pulse rifle, health and reloading. Include placeable cover walls and a complete elimination loop.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Original post](https://x.com/Motion_Viz/status/2096155883122413946) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.4.md) · **5 / 10** · [→](catalog.en.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 466 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 476 examples and live previews →</a></strong></p>

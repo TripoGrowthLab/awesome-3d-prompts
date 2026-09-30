@@ -28,6 +28,16 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Из эскиза квартиры в рендеры интерьера](#apartment-sketch-to-rendered-interiors-2096566686266597754)
+- [Текстуры и риг персонажа Tripo](#texture-and-rig-a-tripo-character-2096566598689783878)
+- [3D-симуляция ядерного взрыва в городе](#gpt-6-astra-2096562462674079868)
+- [Сцена с виниловым проигрывателем на столе](#vinyl-player-tabletop-scene-2096561346766877106)
+- [Модели Blender с эффектами Unity VFX](#blender-models-with-unity-vfx-2096560142871658589)
+- [Из 2D-логотипа в анимированного персонажа](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
+- [Интерактивный Сеул в миниатюре](#interactive-miniature-of-seoul-2096557555086725159)
+- [Раллийная игра Unity для телефона](#mobile-playable-unity-rally-game-2096556692842348826)
+- [Игровой цикл сражений коллекционными картами](#trading-card-battle-game-loop-2096555856204644550)
+- [Интерактивное энергетическое ядро с двумя кольцами](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Видение храма Иезекииля в 3D](#gpt-6-astra-2096547658164834788)
 - [Переключаемые выражения лица в Blender](#switchable-character-expressions-in-blender-2096525100518453342)
 - [Зацикленная вода с Geometry Nodes](#looping-water-with-geometry-nodes-2096521798150242631)
@@ -68,18 +78,215 @@
 - [Симулятор орбитального сближения](#orbital-rendezvous-simulator-2096225621303042258)
 - [Анимированная диорама для знакомства с продуктом](#animated-onboarding-diorama-2096222790894661841)
 - [Интерактивная анатомия человека с разнесением структур](#exploded-interactive-human-anatomy-2096221988763173186)
-- [Буря внутри куба](#a-storm-trapped-in-a-cube-2096220264413409648)
-- [Играбельная гонка на картах в Roblox с авторскими 3D-ассетами](#gpt-6-astra-2096219700879331665)
-- [Интерактивный пеликан на велосипеде](#gpt-6-astra-2096213850383331489)
-- [OX Vice Drive — гонки в открытом городе](#ox-vice-drive-open-city-racer-2096206082712768897)
-- [Игровой мир малыша](#a-playful-toddler-toy-world-2096201415051911597)
-- [Сборка буксира по референсам](#reference-image-tugboat-assembly-2096180220839760375)
-- [Zubli — отзывчивый персонаж WebGL](#zubli-a-responsive-webgl-character-2096180133803561376)
-- [Морская жизнь в чашке кофе](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Игра про выживание рыбы: от аквариума до океана](#gpt-6-astra-2096156244180664627)
-- [Dropzone — арена королевской битвы](#dropzone-battle-royale-arena-2096155883122413946)
 
 </details>
+<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
+
+### Из эскиза квартиры в рендеры интерьера
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="Из эскиза квартиры в рендеры интерьера"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Совместите референсные изображения квартиры с простым эскизом плана, чтобы восстановить интерьер в Blender. Подготовьте редактируемую сцену, рендеры комнат и короткую смонтированную видеопрогулку.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Исходная публикация](https://x.com/WorldEverett/status/2096566686266597754) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
+
+### Текстуры и риг персонажа Tripo
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Текстуры и риг персонажа Tripo"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Перенесите персонажа Tripo Smart Mesh в Blender. Примените его текстуры и создайте пригодный для работы риг тела, прежде чем переходить к выражениям лица.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Исходная публикация](https://x.com/chimerast/status/2096566598689783878) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096562462674079868"></a>
+
+### 3D-симуляция ядерного взрыва в городе
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="3D-симуляция ядерного взрыва в городе"></a>
+
+**Промпт**
+
+```text
+Создайте демонстрацию ядерного взрыва с 3D-городом, ядерной вспышкой, расширяющейся ударной волной, огненным шаром и дымом. Здания должны постепенно разрушаться и обрушиваться по мере того, как до них доходит ударная волна.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096562462674079868) · [Исходная публикация](https://x.com/ashishthakur___/status/2096562462674079868) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
+
+### Сцена с виниловым проигрывателем на столе
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="Сцена с виниловым проигрывателем на столе"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создайте сцену Three.js с виниловым проигрывателем на столе. Поставьте демонстрацию в стиле презентации продукта: лампы включаются, а камера показывает проигрыватель и окружающую мебель.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Исходная публикация](https://x.com/niteshseram/status/2096561346766877106) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
+
+### Модели Blender с эффектами Unity VFX
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="Модели Blender с эффектами Unity VFX"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создайте модели сцены в Blender и импортируйте их в Unity. Добавьте эффекты через VFX Graph и настройте освещение так, чтобы модели и эффекты были хорошо различимы вместе.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Исходная публикация](https://x.com/CST_negi/status/2096560142871658589) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
+
+### Из 2D-логотипа в анимированного персонажа
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="Из 2D-логотипа в анимированного персонажа"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Преобразуйте предоставленный 2D-логотип персонажа в анимированную 3D-версию. Сохраните узнаваемый образ, добавляя персонажу объём и движение.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Исходная публикация](https://x.com/anthonyriera/status/2096559197999501724) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
+
+### Интерактивный Сеул в миниатюре
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="Интерактивный Сеул в миниатюре"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создайте миниатюру Сеула в Three.js по открытым картографическим данным. Добавьте навигацию по районам, пролёты между достопримечательностями, дневной и ночной режимы и сенсорное управление. Укажите упрощённые здания, приблизительные высоты и лицензии данных.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Исходная публикация](https://x.com/synabreu/status/2096557555086725159) · [Демо](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
+
+### Раллийная игра Unity для телефона
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="Раллийная игра Unity для телефона"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создайте прототип раллийной езды с Codex, Blender и Unity. Подготовьте 3D-модели и управление для игровых тестов на телефоне.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Исходная публикация](https://x.com/kevinkern/status/2096556692842348826) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Игровой цикл сражений коллекционными картами
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Игровой цикл сражений коллекционными картами"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Создайте прототип коллекционной карточной игры на Three.js: покупка колод и бустеров, сборка колоды, выход на боевую арену и получение наград. Сохраните возможность заменить временные сетки готовыми моделями.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Исходная публикация](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### Интерактивное энергетическое ядро с двумя кольцами
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Интерактивное энергетическое ядро с двумя кольцами"></a>
+
+*Техническое задание на основе работы по ссылке*
+
+**Промпт**
+
+```text
+Смоделируйте в Blender энергетическое ядро, два кольца и металлическое основание. Экспортируйте материалы в просмотрщик Three.js с управлением вращением, масштабом, автоматическим облётом и пульсацией.
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Исходная публикация](https://x.com/oneruofeng/status/2096551010089263181) · [Исходный код](https://github.com/wangruofeng/orbital-core-showcase) · [Демо](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096547658164834788"></a>
 
 ### Видение храма Иезекииля в 3D
@@ -1563,237 +1770,6 @@ Before finishing, run the game in the browser and test the entire gameplay loop 
 ```
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Исходная публикация](https://x.com/ashebytes/status/2096221988763173186) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
-
-### Буря внутри куба
-
-[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="Буря внутри куба"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Сгенерируй бурю, заключённую в кубе, с управляемой погодой на Three.js.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Исходная публикация](https://x.com/zwb44/status/2096220264413409648) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096219700879331665"></a>
-
-### Играбельная гонка на картах в Roblox с авторскими 3D-ассетами
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="Играбельная гонка на картах в Roblox с авторскими 3D-ассетами"></a>
-
-**Промпт**
-
-```text
-Создайте завершённую, тщательно отполированную гонку на картах в Roblox Studio через Roblox MCP. Разработайте цельные, детализированные ассеты с помощью процедурной генерации в Blender и Three.js; подготовьте финальные меши, UV-развёртки и запечённые текстуры в Blender, затем импортируйте их в Roblox как оптимизированные MeshPart с совместимыми PBR-текстурами. Проверьте масштаб, точки привязки, материалы и коллизии в игре. Используйте рендеринг Roblox и игровую логику на Luau; Three.js — это инструмент для создания ассетов, а не среда выполнения. Сосредоточьтесь на одной красивой, полностью оформленной трассе с отзывчивым управлением и дрифтом, соперниками под управлением ИИ, контрольными точками, подсчётом кругов и полноценным игровым циклом от обратного отсчёта до экрана результатов с возможностью перезапуска. Отполируйте освещение, визуальные эффекты, звук и интерфейс. Проведите полноценные тестовые заезды, изучите реальные скриншоты игрового процесса и вносите изменения, пока не будут исправлены ошибки импорта, визуальные дефекты и баги игровой логики, сохраняя плавную производительность. Никаких заглушек, грубых ассетов или прототипной графики. Предоставьте полностью собранный, играбельный проект Roblox — не только скрипты или экспортированные ассеты.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096219700879331665) · [Исходная публикация](https://x.com/givros/status/2096219700879331665) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096213850383331489"></a>
-
-### Интерактивный пеликан на велосипеде
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="Интерактивный пеликан на велосипеде"></a>
-
-**Промпт**
-
-```text
-Создайте стильную интерактивную 3D-сцену с пеликаном, который едет на велосипеде, и выведите её в браузере.
-Пеликан должен быть в красно-белой велосипедной кепке и солнцезащитных очках. Сделайте велосипеду винтажную раму мятно-зелёного цвета и добавьте анимированные линии скорости, подчёркивающие движение.
-Предусмотрите возможность вращать сцену, приближать и отдалять изображение, а также регулировать скорость езды. Уделите особое внимание геометрии велосипеда, пропорциям персонажа и естественному движению педалей. При изменении скорости анимация должна оставаться плавной.
-Сделайте страницу тщательно проработанной и готовой для публичной демонстрации: продумайте освещение, выдержите единую цветовую палитру и добавьте аккуратные элементы управления.
-Самостоятельно протестируйте сцену в браузере и до завершения исправьте все визуальные ошибки и проблемы с взаимодействием.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096213850383331489) · [Исходная публикация](https://x.com/aibuilderclub_/status/2096213850383331489) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
-
-### OX Vice Drive — гонки в открытом городе
-
-[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="OX Vice Drive — гонки в открытом городе"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай браузерную игру о вождении в открытом городе с транспортом, дрифтом и гонками-доставками. Спроектируй прибрежный город, по которому приятно ездить и который поддерживает полноценный игровой цикл вождения.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Исходная публикация](https://x.com/qok_ai/status/2096206082712768897) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
-
-### Игровой мир малыша
-
-[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="Игровой мир малыша"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай уютную игровую комнату на Three.js, где малыш переходит между игрушками и играет с каждой по-своему. Добавь игровой коврик, книги, полки и конструкции для лазания, а также вращение и приближение камеры.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Исходная публикация](https://x.com/aehyok/status/2096201415051911597) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
-
-### Сборка буксира по референсам
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="Сборка буксира по референсам"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Воссоздай буксир в Blender по референсным изображениям. Смоделируй корпус, наклонную рубку, палубную арматуру и буксировочное оборудование, согласовав противоречивые ракурсы в одно целостное судно.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Исходная публикация](https://x.com/NarvisAlex/status/2096180220839760375) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
-
-### Zubli — отзывчивый персонаж WebGL
-
-[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="Zubli — отзывчивый персонаж WebGL"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Преврати шесть статичных поз персонажа в WebGL-персонажа, который дышит, моргает, машет рукой и следит за курсором. Оптимизируй деформации и рендеринг для плавного воспроизведения при 60 FPS.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [Исходная публикация](https://x.com/coxis/status/2096180133803561376) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
-
-### Морская жизнь в чашке кофе
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="Морская жизнь в чашке кофе"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай миниатюрную морскую экосистему внутри чашки кофе на Three.js. Постановочной камерой покажи водных обитателей так, чтобы чашка и миниатюрный масштаб оставались понятными.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Исходная публикация](https://x.com/PolaczekSagi/status/2096174858837074198) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Игра про выживание рыбы: от аквариума до океана
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Игра про выживание рыбы: от аквариума до океана"></a>
-
-**Промпт**
-
-```text
-Я хочу создать игру-симулятор рыбы, где мы играем за рыбу, которую можно выбрать. В начале мы находимся в домашнем аквариуме: частицы корма падают сверху, появляются в воде или делают что-то подобное. Мы можем подплывать к ним и есть корм, чтобы расти. Также могут встречаться препятствия и другие объекты, которые наносят урон и уменьшают нас. По мере повышения уровня мы постепенно переходим во всё более просторные локации, пока не доберёмся до океана и других подобных мест. Корм, который мы едим, может постоянно меняться: мы сможем есть других рыб, различных существ и всё в таком духе.
-Сначала опишите полный игровой цикл, дизайн уровней и другие составляющие этой игры в MD-файле, а затем реализуйте её, чтобы я мог локально запускать и играть в неё в браузере. Выберите подходящий технологический стек.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2096156244180664627) · [Исходная публикация](https://x.com/AVachaspat92841/status/2096156244180664627) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone — арена королевской битвы
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone — арена королевской битвы"></a>
-
-*Техническое задание на основе работы по ссылке*
-
-**Промпт**
-
-```text
-Создай браузерную королевскую битву от третьего лица: сужающийся штормовой круг, девять ИИ-противников, импульсная винтовка, здоровье и перезарядка. Добавь устанавливаемые стены-укрытия и полный цикл выбывания.
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Исходная публикация](https://x.com/Motion_Viz/status/2096155883122413946) · [Назад к примерам](#all-prompts)
 
 ---
 

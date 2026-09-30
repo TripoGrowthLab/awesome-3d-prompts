@@ -28,6 +28,16 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [Blender 中的機械式魯布・戈德堡機械](#claude-opus-5-5-2104953406708175097)
+- [使用 3JS 打造《Mario Kart》風格的賽車遊戲](#claude-opus-5-5-2104947552328261810)
+- [互動式卡通風 3D 星球](#claude-opus-5-5-2104919117262389255)
+- [30 秒品牌 3D 動態設計影片](#claude-opus-5-5-2104896325255037196)
+- [高細節 3D 人眼](#gpt-6-astra-2104841727496323479)
+- [地球圖鑑：生生不息的行星](#claude-opus-5-5-2104837836507955401)
+- [互動式串列生產線模擬實驗室](#claude-opus-5-5-2104831049020674144)
+- [可變形跑車的 X 光爆炸視圖](#gpt-6-astra-2104654448878387313)
+- [互動式月光叢林泛舟體驗](#gpt-6-astra-2104613125093998674)
+- [互動式 CRISPR 教學 3D 模型](#gpt-6-astra-2104605522640970208)
 - [用於強度測試的可 3D 列印 J 形掛鉤](#gpt-6-astra-2104590493191479337)
 - [會走路的建築](#claude-opus-5-5-2104590334152056983)
 - [可遊玩的像素風古羅馬橫向捲軸格鬥遊戲](#claude-opus-5-5-2104571944842498150)
@@ -68,18 +78,587 @@
 - [使用 Three.js 建立艾菲爾鐵塔](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — 3D 島嶼火砲戰](#crazy-tanks-3d-island-artillery)
 - [Grid Genius 的 Pixar 級 Three.js 動畫](#claude-opus-5-5-2103087766662009118)
-- [即時 3D 鵜鶘騎車遊戲](#claude-opus-5-5-2103083781490176212)
-- [互動式 3D 果凍柑橘切片](#gpt-6-astra-2103062348168618280)
-- [打造帝國城市](#claude-opus-5-5-2103046279253168554)
-- [使用 Three.js 製作體素 Codex](#gpt-6-astra-2102956340482289944)
-- [超寫實互動式沙漠營火 HTML 場景](#gpt-6-astra-2102915300295369208)
-- [第一人稱漢堡模擬器](#gpt-6-astra-2102897258983313712)
-- [使用 Three.js 建立 Bugatti Chiron Super Sport](#claude-opus-5-5-2102828216289566725)
-- [無限太陽朋克城市著色器](#gpt-6-astra-2102826333550133520)
-- [Claude 成長訓練蒙太奇](#claude-opus-5-5-2102788371114246177)
-- [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](#claude-opus-5-5-2102788223835463902)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Blender 中的機械式魯布・戈德堡機械
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Blender 中的機械式魯布・戈德堡機械"></a>
+
+**提示詞**
+
+```text
+在 Blender 中建立一套機械式魯布・戈德堡機械。使用齒輪、斜坡、球體與移動平台。以程序化方式建構，完成每個主要步驟後檢查場景，並修正明顯的幾何問題。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104953406708175097) · [查看原文](https://x.com/Kwazikot/status/2104953406708175097) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### 使用 3JS 打造《Mario Kart》風格的賽車遊戲
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="使用 3JS 打造《Mario Kart》風格的賽車遊戲"></a>
+
+**提示詞**
+
+```text
+我需要你啟動五個（Model）子代理程式，協助我打造一款 AAA 品質、複製《Mario Kart》玩法的遊戲。我希望你啟動這些子代理程式，完全不要問我任何問題，直接使用 3JS 完成遊戲。完成後再向我回報。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104947552328261810) · [查看原文](https://x.com/EnvolDev/status/2104947905442505205) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### 互動式卡通風 3D 星球
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="互動式卡通風 3D 星球"></a>
+
+**提示詞**
+
+```text
+輸出一個 Three.js 3D 卡通／漫畫風星球，呈現充滿活力的景象：星球上有雲朵、山脈和城市建築，周圍還有汽車與飛機。使用者應能繞著星球旋轉瀏覽並縮放，以查看細節。不得使用任何 harness。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104919117262389255) · [查看原文](https://x.com/mdaman010/status/2104919846953869421) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### 30 秒品牌 3D 動態設計影片
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="30 秒品牌 3D 動態設計影片"></a>
+
+**提示詞**
+
+```text
+為 https://t.co/71rvEGmB6D 製作一支令人驚豔的 30 秒動態設計影片，呈現頂尖動態設計師作品集影片般的質感。先研究網站，再使用真實的品牌識別、產品 UI、色彩與訊息。加入醒目的字體排版、3D 動態效果、動畫化 UI、快速轉場，以及強而有力的 Logo 揭示動畫。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104896325255037196) · [查看原文](https://x.com/TawohAwa/status/2104896328300134868) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104841727496323479"></a>
+
+### 高細節 3D 人眼
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/a8d15991fe8e3d161999a93d81d230d3e8bfab617616410a063b4a6e1e1e9e12.webp" width="840" loading="lazy" alt="高細節 3D 人眼"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 建立一個可在本機執行的 HTML/CSS/JS 檔案。製作高細節的 3D 人眼模型，讓它看起來像真實眼睛的微距照片。所有內容都必須從零開始製作。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model of a human eye that looks like a macro photograph of a real eye. Everything must be created from scratch.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104841727496323479) · [查看原文](https://x.com/SimonasLTU1/status/2104841727496323479) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### 地球圖鑑：生生不息的行星
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="地球圖鑑：生生不息的行星"></a>
+
+**提示詞**
+
+```text
+建立一個名為「地球圖鑑：生生不息的行星」的非凡互動式 SVG 體驗。在一個自包含的 HTML 檔案中，打造完整且可深度探索的地球科學觀測站。我必須能將你輸出的全部內容貼入檔案，直接在 Chrome 中開啟，無須伺服器或網路連線即可使用。可使用任何有幫助的函式庫，但所有必要的執行期程式碼與精選資料都必須包含在這一個 HTML 檔案中。地球儀、區域地圖、地形、海床、剖切視圖、儀器、圖表、註記與特寫插圖，主要都必須以 SVG 繪製。
+
+只回傳一個程式碼區塊，其中包含完整可運作的 HTML。
+
+雄心
+
+打造出結合 NASA 旗艦級地球科學展覽視覺品質與互動式圖鑑深度的體驗。觀看者一開始位於壯麗地球前方的軌道上。他們可以旋轉地球儀、穿越日夜、選擇真實地點、放大其地理環境、繪製剖面測線、穿過地表或海洋向下探索，並理解該地點如何融入整顆行星。
+
+這套體驗必須能獎勵十分鐘的探索。它應包含令人驚嘆的揭示、精準的互動與彼此連結的視圖，而不只是附有資訊彈出視窗的旋轉地球儀。第一個畫面必須美到足以獨立作為一幅科學插圖。
+
+真正的多尺度探索系統
+
+建立一套經過設計的尺度階層：
+
+1. 軌道地球——完整地球儀、大氣層、晝夜分界、大型地理形貌與全球疊加圖層。
+2. 大陸尺度——可辨識的海岸線、地勢、主要河流、海盆與選定的科學特徵。
+3. 區域尺度——詳細地形、海底地形、等高線、標籤與測量工具。
+4. 當地場景——專屬於所選地點、富有插畫細節的陸地或海洋環境。
+5. 剖面視圖——穿越陸地、冰層、海洋或地殼，且與地理位置連結的剖面。
+6. 細節視圖——近距離檢視冰川層、河道、斷層、沉積層或海床構造等特徵。
+
+每個縮放層級都必須揭示符合該尺度、全新繪製的 SVG 細節。不要只是把同一份低解析度幾何圖形放大到空洞不堪。
+
+在轉場過程中維持地理辨識度。地球儀上的選定點必須對應到區域地圖、當地場景、剖面測線與剖面視圖。
+
+實作指向游標縮放、拖曳旋轉地球儀、拖曳平移區域視圖、雙指縮放、鍵盤導覽、「返回」、「首頁」與「重設視圖」。限制鏡頭移動範圍，並使其保持流暢。顯示低調的比例尺與位置階層路徑。手動互動必須能優雅地中斷任何自動鏡頭旅程。
+
+視覺方向
+
+讓地球成為主要視覺元素。
+
+使用深海洋藍、淺水青綠、層次多變的植被綠、沙漠赭黃、火山炭灰、礦物灰、冰川白，以及細緻的暖白色註記線。
+
+透過投影海岸線幾何、變化中的照明、大氣散射效果、雲層，以及經過謹慎控制的夜間燈光處理，營造令人信服的行星立體感；若使用夜間燈光，請嵌入適當且有日期的來源資料。
+
+使用精準的製圖線稿、優雅的等高線、細微的材質紋理、易讀的深度陰影與纖細的引導線。讓資訊在目前縮放層級真正有用時才出現，不要用標籤覆蓋整個地球儀。
+
+介面應有精緻科學儀器的感覺。避免通用的儀表板卡片、過量霓虹色與大型浮動文字面板。
+
+全球地球
+
+提供具一致地理投影與座標處理方式的可旋轉 SVG 地球儀。
+
+地球儀旋轉時，正確投影地貌、海洋特徵、標籤、選定標記、路線與晨昏線。隱藏背面的幾何圖形，不要讓它們穿透行星繪製出來。
+
+提供可切換的疊加圖層：
+
+• 實體地形。
+• 海洋深度與海床結構。
+• 主要河流與集水盆地。
+• 板塊邊界。
+• 內嵌具日期樣本中的選定歷史地震事件。
+• 緯度－經度網格。
+• 具日期的地球觀測樣本，僅限內嵌資料能支持的範圍。
+• 純粹的電影感視圖。
+
+每個疊加圖層都必須使用同一座標系統。包含其來源、日期、解析度、單位與圖例。
+
+當檔案使用的是內嵌快照時，不要將任何圖層稱為「即時」或「目前」。
+
+六個完整製作的探勘旅程
+
+為以下地區打造完整且各具特色的體驗：
+
+喜馬拉雅山脈
+分層山脈、山谷、冰川、有來源依據的區域高程剖面，以及清楚呈現地形剖面的視圖。
+
+亞馬遜盆地
+可辨識的河流結構、洪泛平原與支流、森林剖面插圖，以及具教育意義的水流路徑示範。
+
+撒哈拉
+沙丘、岩質地形、乾涸河道、具辨識度的地表材質與地形測線。將插畫式沙丘細節與有來源依據的大尺度高程區分開來。
+
+東非大裂谷
+區域湖泊與地形、以斷層為主軸的剖面，以及清楚標示為概念性的板塊構造示範。
+
+馬里亞納海溝區域
+在所選測線適用的範圍內，呈現海面、陸棚與深海幾何；提供可拖曳的深度剖面、穿越水柱的下潛體驗，以及詳細繪製的海床場景。
+
+南極洲
+冰層表面、可取得時具來源依據的冰層／地形背景、剖面解讀，以及季節性日照示範。
+
+每個探勘旅程都必須具備：
+
+• 強烈且經過設計的開場構圖。
+• 在地球儀上的正確位置。
+• 一張區域地圖。
+• 至少一個當地場景。
+• 至少一個相互連結的剖面或剖面圖。
+• 一項獨特且可運作的互動。
+• 一段流暢返回軌道視圖的旅程。
+
+不要用通用的山脈、森林、沙漠或海洋圖畫來取代地理辨識度。
+
+五種相互連結的視圖模式
+
+地表
+以依縮放層級變化的細節探索地形、地貌特徵、河流、冰層與海岸線。
+
+上方
+探索日照、季節幾何、大氣與任何內嵌的具日期觀測資料。若雲層或天氣為插畫，請標示為插畫式情境。
+
+下方
+沿著選定的地理測線，開啟穿越地形、冰層、地殼或海洋的剖面。
+
+行星
+拉遠至全球剖切視圖，顯示選定點與地球各層的關係。顯示所選地點在地球儀與剖切圖中相互對應的位置。
+
+證據
+揭示資料樣本、來源、日期、解析度、不確定性或已知限制，以及所選特徵或測量值背後的計算方式。
+
+切換模式時，必須保留選定位置、合理範圍內的縮放脈絡，以及時間軸狀態。
+
+相互連結的探索工具
+
+測量
+在地球儀或支援的區域地圖上選取兩個點。繪製大圓航線，顯示座標與距離，並在地球儀旋轉時維持路線的正確投影。
+
+剖面測線
+在支援的區域上繪製或調整一條線。取樣其內嵌的高程或海底地形資料，產生剖面圖。在地圖上移動游標時，剖面圖與剖面視圖中的對應游標也必須同步移動。
+
+比較
+將兩個選定地點並排放置。使用一致的單位與明確的比例控制項，比較兩地的高程或深度、緯度、區域脈絡與受支援的環境資料。
+
+時間與日照
+拖曳調整一天中的時間與一年中的日期。使用有文件說明的模型更新全球照明與季節性太陽幾何。讓插畫式天氣與這個時鐘彼此獨立。
+
+導覽探勘
+提供一段穿越六種環境的短篇電影式旅程。每個停靠點都必須揭示一項互動，而不只是顯示說明文字。導覽必須可跳過。
+
+註記密度
+在電影感、導覽與技術標籤層級之間切換，但不得改變底層地理內容。
+
+海洋探索
+
+將海床視為完整的地景。
+
+在內嵌地形起伏樣本支援的範圍內，揭示陸棚、陸坡、深海平原、海脊與海溝。使用明確的垂直比例，並標示任何誇大的比例。
+
+在馬里亞納探勘旅程中，讓觀看者穿越水柱向下探索。同步更新深度、光線、色彩、在明確陳述的簡化模型下估算的壓力，以及位置游標。
+
+深海特寫可以包含美麗的插畫式生物與地質景觀，但其中的確切生物與微地形必須標示為詮釋內容。有來源依據的海底地形資料與插畫式當地景觀必須清楚區分。
+
+地球內部
+
+提供 0–100% 的剖切滑桿，平順揭示地殼、地函、外核與內核。滑桿位於中間位置時，地球儀的視覺仍應保持連貫。
+
+在外部表面顯示選定的地理位置，並提供一條對齊的徑向導引線通往內部。
+
+加入具教育意義的地震波示範，並清楚說明其簡化模型。波的路徑、移動標記與計時讀數，都必須源自同一個示範狀態。
+
+明確標示誇大的地層厚度、材質色彩或壓縮時間。
+
+三項互動科學實驗
+
+1. 日照實驗室
+選擇兩個緯度，比較全年模擬的每日太陽路徑與日照長度。將圖表與受照亮的地球儀連結。
+
+2. 地形起伏與海平面實驗室
+在支援的沿海區域調整假設水位，並與內嵌的高程剖面比較。標示這是靜態地形示範；不要將其呈現為沿海洪水預報。
+
+3. 地震路徑實驗室
+選擇來源點與觀測點，進行簡化的教育性波動示範。依照明確說明的模型顯示路徑與相對抵達時間。讓歷史地震標記與假設實驗分開。
+
+每項實驗都必須有「重設」功能、可重現的輸入、一致的單位，以及清楚連回地球儀或所選地點的連結。
+
+資料與科學誠信
+
+針對數值主張與內嵌樣本，使用具權威性且附有引用的來源。適合的來源包括 NASA Earthdata 的選定具日期觀測資料、NOAA ETOPO 的陸地與海洋地形起伏資料，以及 USGS 的選定歷史地震紀錄。
+
+使用適合放入單一 HTML 檔案的精選、降採樣資料。顯示實際的內嵌解析度。若區域插圖的細節是自行製作或經過簡化，絕不宣稱其精度等同於來源資料集。
+
+清楚呈現以下三類：
+
+觀測資料——具來源依據的測量值或已發布資料集樣本。
+衍生值——根據具名輸入與可檢視方法計算而得的數值。
+插圖或實驗——自行製作的景觀或假設模型。
+
+不要捏造精確的高程、深度、地震位置、即時雲層型態或測得的環境數值。
+
+加入「來源與方法」面板，內容包含連結、資料集版本與日期、座標參考系統、單位、降採樣方法、方程式、不確定性或限制，以及出處標示。
+
+所有特徵都使用一致的經緯度慣例。將地理座標、物理測量值與誇大的顯示幾何彼此分開。
+
+細節與視覺揭示
+
+加入經過仔細編排的探索發現：
+
+• 從軌道到區域的轉場，讓選定點始終保持在視野中。
+• 只有當觀看者到達適用尺度時，等高線與標籤才逐步出現。
+• 一條河流從全球地圖到當地盆地都維持可辨識度。
+• 高程游標同步在地圖、剖面圖與景觀之間移動。
+• 啟用海底地形圖層時，海岸線產生視覺上的變化。
+• 南極剖面中的冰層逐步揭示。
+• 深海下潛過程中，海床逐漸出現，而不是突然切換場景。
+• 從地球儀到內部剖切的轉換保留選定地理位置。
+• 不斷變化的晨昏線將所選探勘地點帶入白晝或黑夜。
+• 證據揭示功能將美麗的視覺元素連結至其背後的資料或模型。
+
+優先加入能深化探索的細節，而非裝飾性粒子。
+
+效能與驗證
+
+使用受控的 SVG 場景圖、可重複使用的符號、裁切、遮罩與依縮放層級繪製的內容。當只有一個高細節場景可見時，避免讓六個場景全部保持啟用。
+
+支援桌面裝置、觸控裝置、鍵盤導覽、可見焦點與減少動態效果偏好設定。
+
+確認以下事項：
+
+• 每個重點地點都正確放置於地理位置上。
+• 地球儀背面的特徵確實會隱藏。
+• 路線在旋轉過程中仍附著於其座標。
+• 測量距離使用選定的座標。
+• 剖面測線數值來自內嵌樣本。
+• 地圖、剖面圖與剖面視圖中的游標保持同步。
+• 重設會將實驗恢復至初始狀態。
+• 時間控制項只改變預期模型，不會在沒有提示的情況下修改無關資料。
+• 來源與日期標籤符合內嵌圖層。
+
+顯示任何自動檢查的實際結果。不要硬編碼一排「已通過」標籤。
+
+讓從地球儀到當地場景再到剖面的完整路徑，對六個探勘旅程全部有效。如果實作範圍迫使你取捨，請先完成這條相互連結的旅程與必要的科學工具，再加入選用的視覺效果。
+
+最終交付
+
+完成後的成果應讓人感覺像是將一顆可探索的行星裝進單一檔案：從軌道上看令人驚豔，近距離探索時充滿回饋，並清楚說明哪些內容是觀測、計算或插畫。
+
+只回傳一個程式碼區塊，其中包含完整可運作的 HTML 文件，並以 <!DOCTYPE html> 開頭。
+
+我應該能將它貼入單一 .html 檔案，在 Chrome 中開啟，旋轉並縮放地球、進入六個探勘旅程中的任一個、繪製相互連結的剖面測線、探索海洋與地球內部、比較地點、執行三項實驗、檢視來源，並順暢返回軌道視圖。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104837836507955401) · [查看原文](https://x.com/Gdgtify/status/2104837836507955401) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### 互動式串列生產線模擬實驗室
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="互動式串列生產線模擬實驗室"></a>
+
+**提示詞**
+
+```text
+建立一個動畫化、互動式的串列生產線離散事件模擬，並以單一自包含的 HTML 檔案呈現（原生 JS + Canvas，除來自 cdnjs 的 Chart.js 外，不使用任何外部函式庫）。目的：教導【製造系統】學生了解變異性、緩衝區與故障如何影響生產線績效。
+
+生產線設定（使用者可調整）
+- 工作站數量：[2–6]，預設為 [3]；每個工作站皆可設定名稱（例如：加工、組裝、檢驗）
+- 每個工作站：平均週期時間、分布（確定性、均勻、常態、三角、指數、對數常態）、變異係數（CV）
+- 各工作站故障：平均故障間隔時間（MTBF）與平均修復時間（MTTR）（指數分布），以及啟用／停用切換
+- 各工作站品質：不良率（%），並提供報廢或返工迴圈選項
+- 工作站之間的緩衝區：容量 0–10（0 = 服務完成後阻塞）
+- 到料方式：無限原物料，或以速率 λ 產生的卜瓦松到料
+- 客戶需求，用於計算節拍時間
+
+ANIMATION
+- 零件沿輸送帶移動，並依階段變更顏色（原物料、在製品、成品、報廢品）
+- 機台邊框以顏色顯示狀態：運轉中（綠色）、阻塞（琥珀色）、缺料（紅色）、停機（灰色）；另顯示旋轉齒輪圖示與進度列
+- 緩衝區槽位顯示占用情況，並在緩衝區滿載時醒目提示
+- 控制項：播放／暫停、單步執行、重設、1x–50x 速度、預熱期間
+
+關鍵績效指標（即時儀表板）
+1. 產出率（零件／小時）與理論瓶頸產能比較
+2. 平均在製品數量，以及隨時間變化的在製品數量
+3. 流動時間／製造前置時間（平均值與第 95 百分位數）
+4. Little 定律檢查：在製品數量 ≈ 產出率 × 流動時間
+5. 各工作站的稼動率，並依時間拆分為：運轉中／阻塞／缺料／停機（堆疊長條圖）
+6. 各工作站 OEE = 可用率 × 績效 × 品質
+7. 瓶頸偵測（啟用期間法），並醒目標示瓶頸
+8. 節拍時間與各工作站週期時間比較（生產線平衡圖）
+9. 生產線平衡效率 = Σ 週期時間 /（N × 最大週期時間）
+10. 首次良率、累計直通率、報廢數量
+11. 各緩衝區的平均占用量
+12. 各工作站的實測週期時間平均值與變異係數（CV），並與設定值比較
+
+分析功能
+- 重複模擬模式：預熱後執行 N 次、長度為 T 的重複模擬，並回報產出率、在製品數量與流動時間的平均值 ± 95% 信賴區間
+- 實驗模式：掃描緩衝區大小（或單一工作站的 CV），並繪製產出率與參數的關係圖
+- 將結果匯出為 CSV
+- 預設情境：平衡生產線、明顯瓶頸、高變異性、不可靠機台
+
+DESIGN
+- 乾淨、響應式的版面配置，適用於行動裝置；支援淺色／深色模式
+- 以簡短工具提示說明每項 KPI 及其公式
+- 英文／阿拉伯文標籤切換
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104831049020674144) · [查看原文](https://x.com/am_alahmari/status/2104831051776335994) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104654448878387313"></a>
+
+### 可變形跑車的 X 光爆炸視圖
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/3fa857730ce8039496b8b01f642a8505efb6a54c987d4daeef4ff2eecbb8536d.webp" width="840" loading="lazy" alt="可變形跑車的 X 光爆炸視圖"></a>
+
+**提示詞**
+
+```text
+製作一輛精細的跑車，能變形成一具人形機器人，並提供 X 光模式與可互動的爆炸視圖
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a detailed sports car that transforms into a humanoid robot, with an x-ray mode and interactive exploded view
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104654448878387313) · [查看原文](https://x.com/marcthecreatorr/status/2104654448878387313) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104613125093998674"></a>
+
+### 互動式月光叢林泛舟體驗
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/83fd1b0bc5c59fc47bde6031430727ee471bb67225d1b3086b732393fb4c3beb.webp" width="840" loading="lazy" alt="互動式月光叢林泛舟體驗"></a>
+
+**提示詞**
+
+```text
+建立一款全螢幕、響應式的 Three.js 泛舟體驗，場景設定在狹窄的叢林水道中。使用第三人稱攝影機跟隨一艘空無一人的木製划艇；船頭尖、船身寬、船尾平坦，需呈現可見的底板與座椅，不要放置船槳，內部保持乾燥，船身略微浸入水中。讓使用者透過 WASD、方向鍵或觸控操作駕駛。打造神祕的夜間場景：兩岸生長著茂密、多樣且寫實的深綠色樹木，加入微風吹拂、細節豐富的滿月，以及在動態水面上破碎延展的月光倒影。呈現可信的流動波浪、船隻與樹木的扭曲倒影，以及沿著船隻行進路徑形成並自然淡出的尾流；不要使用固定的發光痕跡或生硬的圓形邊界。加入天氣切換功能，可選擇月夜、溫暖黎明或陰雨天；在下雨模式中顯示落下的雨滴，以及受水面波浪影響、形狀不規則且短暫存在的落雨漣漪。提供可選且低調的水聲、叢林與雨聲環境音效。介面保持簡潔。確認桌面與行動裝置上的畫面、控制項、音效、計數器，以及三種天氣模式都能正常運作。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a fullscreen, responsive Three.js boat ride set in a narrow jungle waterway. Use a third-person camera following an empty wooden rowboat with a pointed bow, broad sides, flat stern, visible floorboards and seats, no oars, a dry interior, and a hull slightly submerged in the water. Let users steer with WASD or arrow keys and touch controls. Make the scene nocturnal and mystical: dense, varied, realistic dark-green trees on both banks, subtle wind, a detailed full moon, and broken moonlight reflected across animated water. Use convincing moving waves, distorted reflections of the boat and trees, and a wake that follows the boat’s traveled path and fades naturally no fixed glowing marks or hard circular borders. Add a weather toggle for moonlit night, warm dawn, and overcast rain; in rain mode, show falling drops and small, short-lived impact ripples shaped by the water’s waves. Add optional, subtle water, jungle, and rain ambience. Keep the interface minimal. Verify the visuals, controls, audio, counter, and all three weather modes on desktop and mobile.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104613125093998674) · [查看原文](https://x.com/itsfazley/status/2104613128017522813) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104605522640970208"></a>
+
+### 互動式 CRISPR 教學 3D 模型
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/31570aa85f093211e76197e2ef5fba17050a2791da509fb7dddb803a62a91f3a.webp" width="840" loading="lazy" alt="互動式 CRISPR 教學 3D 模型"></a>
+
+**提示詞**
+
+```text
+我想製作一個互動式 3D 教學模型，說明 CRISPR DNA 技術的運作方式。只要畫面清楚、易於閱讀，並包含 DNA 鏈即可自由選擇技術；使用者應能查看完整的基因編輯流程及各個元件，並選取任何相關部位來學習相關知識。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I want you to create an interactive educational 3d represenation how CRISPR DNA technology works. You can choose what ever technology you want as long as its clear readable and has a dna strand, you can see a full work of gene editing and what each piece is, I should be able to select any relevant part of it and learn something
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2104605522640970208) · [查看原文](https://x.com/AlejandroRomaan/status/2104605522640970208) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2104590493191479337"></a>
 
 ### 用於強度測試的可 3D 列印 J 形掛鉤
@@ -2414,394 +2993,6 @@ I want you to imagine a story, that subtly promotes grid genius. Or it can not e
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103087766662009118) · [查看原文](https://x.com/Anilraok/status/2103087766662009118) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103083781490176212"></a>
-
-### 即時 3D 鵜鶘騎車遊戲
-
-[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="即時 3D 鵜鶘騎車遊戲"></a>
-
-**提示詞**
-
-```text
-打造一款即時 3D 遊戲，讓鵜鶘騎著自行車穿越生動的海濱世界，完整呈現物理效果、海浪、釣魚、動態天氣、電影式鏡頭、自動駕駛與自適應音樂。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103083781490176212) · [查看原文](https://x.com/code_hiyouga/status/2103083781490176212) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103062348168618280"></a>
-
-### 互動式 3D 果凍柑橘切片
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="互動式 3D 果凍柑橘切片"></a>
-
-**提示詞**
-
-```text
-使用 WebGPU 製作精美、可互動的 3D 果凍柑橘切片。將完整體驗放在單一獨立 HTML 檔案中，內嵌 JavaScript 與 WGSL 著色器。
-
-這必須是真正的即時 3D 模擬，而不是影片、圖片或循環動畫。
-
-APPEARANCE
-
-製作一片厚實的半圓形橙子切片，具有半透明、多汁的果肉、八個清楚分隔的瓣片、細緻的內部膜、微小氣泡、淡色白膜層，以及柔軟的橙色果皮。
-
-讓它呈現高級果凍糖果的質感：高飽和色彩、亮澤高光、光線穿透果肉、逼真的折射，以及柔和的接觸陰影。避免過度泛光、色彩泛白或堅硬的塑膠外觀。
-
-使用溫暖明亮的工作室背景，以及留白充足、簡潔俐落的編輯風介面。加入大型斜體襯線標題「柑橘果凍」。控制項保持精簡，並確保切片清楚可見。
-
-軟體物理
-
-果凍般的柔軟手感是最重要的部分。
-
-- 使用滑鼠或手指抓住切片的任意部位。
-- 拉動、提起、拉伸、扭轉，然後放開。
-- 讓變形具有局部性：拉動一側時，附近的果肉應被拉伸，其餘部分則自然跟隨。
-- 放開後，切片應先晃動並略微回彈，然後逐漸恢復原本形狀。
-- 加入重力、慣性、阻尼、與地面碰撞及柔軟彈跳。
-- 大致維持體積，避免網格塌陷或翻轉到內外顛倒。
-- 讓果皮比果肉稍微硬一些。
-- 內部瓣片、薄膜與氣泡必須隨變形一起移動，不得飄浮到本體外。
-
-使用穩定的體積式軟體求解器，例如搭配 XPBD 約束的四面體網格。不要透過縮放或旋轉整個物件來模擬柔軟感。
-
-CONTROLS
-
-加入三種色彩預設：橙子、檸檬與紅寶石。
-
-加入：
-- 紮實度滑桿。
-- 內部阻尼滑桿。
-- 「推它一下」按鈕。
-- 重設按鈕。
-- 四分之一速核取方塊。
-- 顯示網格核取方塊。
-- 暫停／繼續按鈕。
-
-顯示質量、靜止體積百分比與動能的小型即時讀值。
-
-技術要求
-
-使用真正的 WebGPU 搭配 WGSL 著色器進行渲染。所有幾何與視覺細節都必須以程序式方式產生，不得匯入模型或圖片檔案。
-
-讓模擬更新獨立於渲染影格率。支援桌面裝置與觸控裝置。若無法使用 WebGPU，請顯示清楚的替代提示訊息。
-
-測試大力拖曳、連續多次放開、所有控制項及窄螢幕顯示。交付完成的 HTML 前，修正不穩定的物理效果、損壞的幾何結構與視覺瑕疵。
-
-成品應該像一個小巧、可觸摸互動的糖果實驗，讓人玩起來確實感到滿足。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
-
-This must be a real-time 3D simulation, not a video, image, or looping animation.
-
-APPEARANCE
-
-Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
-
-Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
-
-Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
-
-SOFT-BODY PHYSICS
-
-The jelly feel is the most important part.
-
-- Grab any part of the slice with a mouse or finger.
-- Pull, lift, stretch, twist, and release it.
-- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
-- After release, the slice should wobble, overshoot, and gradually recover its original shape.
-- Include gravity, inertia, damping, ground collisions, and soft bouncing.
-- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
-- Make the rind slightly firmer than the flesh.
-- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
-
-Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
-
-CONTROLS
-
-Include three color presets: Orange, Lemon, and Ruby.
-
-Add:
-- Firmness slider.
-- Internal damping slider.
-- “Give it a nudge” button.
-- Reset button.
-- Quarter-speed checkbox.
-- Show mesh checkbox.
-- Pause/resume button.
-
-Display small live readouts for mass, percentage of rest volume, and kinetic energy.
-
-TECHNICAL REQUIREMENTS
-
-Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
-
-Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
-
-Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
-
-The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103062348168618280) · [查看原文](https://x.com/vib3coded/status/2103062415533371646) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103046279253168554"></a>
-
-### 打造帝國城市
-
-[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="打造帝國城市"></a>
-
-**提示詞**
-
-```text
-打造帝國城市
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-BUILD AN IMPERIAL CITY
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103046279253168554) · [查看原文](https://x.com/Enzoxbt01/status/2103046279253168554) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102956340482289944"></a>
-
-### 使用 Three.js 製作體素 Codex
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="使用 Three.js 製作體素 Codex"></a>
-
-**提示詞**
-
-```text
-自行製作使用體素呈現的 Three.js Codex，所有內容都從零開始製作，不要使用任何技能
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102956340482289944) · [查看原文](https://x.com/be_arsh/status/2102956424120979838) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102915300295369208"></a>
-
-### 超寫實互動式沙漠營火 HTML 場景
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="超寫實互動式沙漠營火 HTML 場景"></a>
-
-**提示詞**
-
-```text
-不得參照任何其他檔案或先前作品。此任務必須完全原創，不得取巧挪用這裡的任何其他作品。
-
-建立一個單一 HTML 檔案，呈現沙漠中的真實營火。現在是夜晚，可以看見星星。營火周圍擺放著木樁座椅。畫面中不得出現任何人。不同的野生動物可能會不時進入或離開畫面。
-
-音效也應符合場景，並具備高品質。
-讓所有內容都達到超寫實效果
-
-命名檔案（依模型命名）
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
-
-Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
-
-noises should also match the scene and be of high quality.
-Make everything hyper realistic
-
-name the file (based on model)
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102915300295369208) · [查看原文](https://x.com/Nixtrodamis/status/2102915567845794029) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102897258983313712"></a>
-
-### 第一人稱漢堡模擬器
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="第一人稱漢堡模擬器"></a>
-
-**提示詞**
-
-```text
-建立一款第一人稱漢堡模擬器。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-build a first-person burger simulator.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102897258983313712) · [查看原文](https://x.com/noclipepe/status/2102897258983313712) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102828216289566725"></a>
-
-### 使用 Three.js 建立 Bugatti Chiron Super Sport
-
-[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="使用 Three.js 建立 Bugatti Chiron Super Sport"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 建立 Bugatti Chiron Super Sport。
-
-不要使用 3D 模型。不要使用貼圖。不要使用素材。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-build a Bugatti Chiron Super Sport in Three.js.
-
-No 3D model. No textures. No assets.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102828216289566725) · [查看原文](https://x.com/srikanthvaluri/status/2102828216289566725) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102826333550133520"></a>
-
-### 無限太陽朋克城市著色器
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="無限太陽朋克城市著色器"></a>
-
-**提示詞**
-
-```text
-建立可在 twigl.app 執行、具有視覺吸引力的著色器，呈現由太陽朋克道路與高塔構成的無限城市，並持續顯示可見的微風效果
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102826333550133520) · [查看原文](https://x.com/jonasfroeller/status/2102826333550133520) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788371114246177"></a>
-
-### Claude 成長訓練蒙太奇
-
-[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 成長訓練蒙太奇"></a>
-
-**提示詞**
-
-```text
-完全以程式碼製作一段 30 秒動畫，呈現受《功夫熊貓》訓練橋段啟發的成長蒙太奇，並以 Claude 吉祥物為主角，展示它自首次發布以來在各項技能上的能力提升，例如搜尋網路、撰寫程式碼、建立 3D 模型，以及解決人類最棘手的問題，搭配富有情感張力的音樂。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177) · [查看原文](https://x.com/ishuagra02/status/2102788832273801700) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788223835463902"></a>
-
-### 使用 Three.js 製作皮克斯等級的 90 年代卡通動畫
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="使用 Three.js 製作皮克斯等級的 90 年代卡通動畫"></a>
-
-**提示詞**
-
-```text
-我希望你先發想一個故事，接著使用 Three.js，將你構思的故事製作成一部完整動畫，呈現皮克斯等級品質的 90 年代卡通風格。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902) · [查看原文](https://x.com/scheemunai/status/2102788223835463902) · [返回案例導覽](#all-prompts)
 
 ---
 

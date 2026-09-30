@@ -28,6 +28,16 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Game bắn chim bằng ná 3D](#3d-slingshot-bird-game-2095981655370666076)
+- [Cỗ máy phản ứng dây chuyền Rube Goldberg](#rube-goldberg-chain-reaction-machine-2095980885732704629)
+- [Đền Trung Hoa nổi trên đảo với nút chuyển ngày/đêm](#gpt-6-astra-2095978925029556561)
+- [Mech có rig từ nhiều ảnh tham chiếu](#gpt-6-astra-2095975726558392570)
+- [Game đua chiến đấu phản trọng lực](#anti-gravity-combat-racer-2095967568825582044)
+- [Tay cầm PS5 tương tác](#interactive-ps5-controller-2095967131573649552)
+- [Thẻ nhân vật 3D tương tác](#interactive-3d-character-cards-2095963576049832347)
+- [Game bắn súng góc nhìn thứ ba với bullet time](#bullet-time-third-person-shooter-2095962376344309843)
+- [Street Heat: game drift trên trình duyệt](#street-heat-browser-drift-racer-2095916820431827408)
+- [Nguyên mẫu game chơi được thật nhanh](#rapid-playable-game-prototype-2095907526566990013)
 - [Phòng ngủ cyberpunk lặp vô tận trong Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Game arcade văn hóa tự chơi](#self-playing-cultural-arcade-game-2095898198413922791)
 - [Từ prompt đến game thế giới mở](#open-world-game-from-a-prompt-2095872986477908108)
@@ -68,18 +78,239 @@
 - [Tiền kỳ quay phim bảo tàng bằng 3D](#3d-museum-cinematography-previsualization-2095616529572503593)
 - [Từ tin Zillow đến phim bất động sản 3D](#zillow-listing-to-3d-property-film-2095612137582526615)
 - [Dựng Manhattan trong Unreal Engine, từng con phố một](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
-- [Tạo game 3D bằng giọng nói cho người mới](#voice-directed-3d-game-for-beginners-2095608358086840647)
-- [Game 3D trên trình duyệt từ một yêu cầu](#one-shot-browser-3d-game-2095599934766764338)
-- [Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa](#house-photo-to-editable-blender-world-2095598645190291775)
-- [FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
-- [Thành phố Unity có thể khám phá từ thư viện asset](#asset-driven-explorable-unity-city-2095597640587374887)
-- [Nguyên mẫu tương tác cao cấp trong một lượt](#one-shot-premium-interactive-prototype-2095597560253862065)
-- [Thế giới kiểu Minecraft từ một yêu cầu](#one-shot-minecraft-style-world-2095597137849446688)
-- [Phiêu lưu thế giới mở trên trình duyệt](#open-world-browser-adventure-2095596341422440714)
-- [Xã hội sinh tồn của những con người tự chủ trong Unreal Engine](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
-- [Căn cứ Arcadia trên sao Hỏa](#arcadia-base-on-mars-2095595678214873212)
 
 </details>
+<a id="3d-slingshot-bird-game-2095981655370666076"></a>
+
+### Game bắn chim bằng ná 3D
+
+[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="Game bắn chim bằng ná 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game ná 3D với bốn chú chim có năng lực riêng. Có ngắm và thả, công trình phá hủy được và vòng tính điểm chơi lại được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Bài đăng gốc](https://x.com/MozeTech/status/2095981655370666076) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
+
+### Cỗ máy phản ứng dây chuyền Rube Goldberg
+
+[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="Cỗ máy phản ứng dây chuyền Rube Goldberg"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo cỗ máy Rube Goldberg trong một tệp HTML Three.js độc lập. Dùng chuỗi tương tác cơ khí cuối cùng nhấn nút và kích hoạt vụ nổ đầy kịch tính.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Bài đăng gốc](https://x.com/thehypedotnews/status/2095980885732704629) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095978925029556561"></a>
+
+### Đền Trung Hoa nổi trên đảo với nút chuyển ngày/đêm
+
+[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="Đền Trung Hoa nổi trên đảo với nút chuyển ngày/đêm"></a>
+
+**Prompt**
+
+```text
+Hãy tạo một thế giới khối pixel tương tác để cho tôi thấy khả năng của bạn. Tôi muốn một ngôi đền Trung Hoa được bao quanh bởi những cây hoa anh đào màu hồng. Toàn bộ khu đất phải nằm tách biệt trên một hòn đảo nổi, với các thác nước và phong cảnh núi non bao quanh ngôi đền. Không cần hỏi thêm thông tin từ tôi; hãy tự xây dựng toàn bộ cảnh và tự đưa ra các quyết định. Hãy thêm một công tắc đơn giản để tôi có thể chuyển đổi giữa ngày và đêm.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095978925029556561) · [Bài đăng gốc](https://x.com/PhilipNora7/status/2095978925029556561) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095975726558392570"></a>
+
+### Mech có rig từ nhiều ảnh tham chiếu
+
+[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="Mech có rig từ nhiều ảnh tham chiếu"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
+
+**Prompt**
+
+```text
+sử dụng Blender 5.2.1 chạy không giao diện để dựng một mô hình 3D mech có độ chi tiết cao dựa trên bản thiết kế này: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. sử dụng thêm các ảnh tham chiếu mech trong cùng thư mục để có thêm thông tin chi tiết. lưu ý rằng bản thiết kế và tất cả ảnh tham chiếu đều do AI tạo, vì vậy các chi tiết có thể không nhất quán giữa các ảnh. nếu phát hiện chi tiết không nhất quán, hãy sáng tạo để tìm giải pháp sao cho mô hình 3D mech tạo ra vẫn nhất quán và đúng về mặt vật lý. mô hình 3D mech phải có rig. chứng minh đã hoàn thành mục tiêu bằng cách kết xuất một đoạn hoạt ảnh dài 10 giây, trong đó mech trình diễn vũ khí và sự linh hoạt khi chiến đấu.
+
+chỉ điều khiển hướng:
+chọn những ảnh tham chiếu phù hợp nhất, không ưu tiên bản thiết kế chỉ vì nó được đề cập rõ ràng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
+
+only steering:
+pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095975726558392570) · [Bài đăng gốc](https://x.com/vatro_vrbanic/status/2095975726558392570) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="anti-gravity-combat-racer-2095967568825582044"></a>
+
+### Game đua chiến đấu phản trọng lực
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="Game đua chiến đấu phản trọng lực"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game đua chiến đấu phản trọng lực tốc độ cao trong Three.js với drift, boost, camera nghiêng, phanh khí động và khiên nhặt được. Có phi thuyền nhẹ, cân bằng, nặng trên đường đua ngoài hành tinh trên cao.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Bài đăng gốc](https://x.com/superalesha/status/2095967568825582044) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-ps5-controller-2095967131573649552"></a>
+
+### Tay cầm PS5 tương tác
+
+[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="Tay cầm PS5 tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng tay cầm PlayStation 5 quan sát được trong Three.js với dáng hình dễ nhận biết, nút, cò, cần analog và vật liệu bề mặt khác nhau.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Bài đăng gốc](https://x.com/blueemi99/status/2095967131573649552) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-3d-character-cards-2095963576049832347"></a>
+
+### Thẻ nhân vật 3D tương tác
+
+[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="Thẻ nhân vật 3D tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng giao diện thẻ nhân vật 3D tương tác. Cho nhân vật phản ứng với con trỏ, đồng thời giữ thẻ dễ đọc và responsive.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [Bài đăng gốc](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
+
+### Game bắn súng góc nhìn thứ ba với bullet time
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="Game bắn súng góc nhìn thứ ba với bullet time"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game bắn súng Three.js góc nhìn thứ ba lấy cảm hứng Max Payne. Tập trung hành động chậm, bắn súng nhạy và cảnh chơi được với camera bám theo hiệu quả.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Bài đăng gốc](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat: game drift trên trình duyệt
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: game drift trên trình duyệt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game đua xe đường phố arcade hoàn chỉnh trên trình duyệt từ một câu. Có vật lý drift đã tay, điểm combo, thưởng lách sát, camera tốc độ, nitro, giao thông, HUD rõ ràng và đường đua ngắn dễ chơi lại.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095916820431827408) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="rapid-playable-game-prototype-2095907526566990013"></a>
+
+### Nguyên mẫu game chơi được thật nhanh
+
+[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="Nguyên mẫu game chơi được thật nhanh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo nguyên mẫu game nhất quán về hình ảnh dưới giới hạn thời gian và token nghiêm ngặt. Ưu tiên một vòng lặp hoàn chỉnh, điều khiển nhạy, phản hồi rõ, hiệu năng ổn định và bản trình duyệt có thể phát hành thay vì số lượng tính năng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Bài đăng gốc](https://x.com/gibglue/status/2095907526566990013) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
 
 ### Phòng ngủ cyberpunk lặp vô tận trong Blender
@@ -893,206 +1124,6 @@ Dựng một Manhattan có thể khám phá trong Unreal Engine. Làm lần lư�
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095609734845927525) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
-
-### Tạo game 3D bằng giọng nói cho người mới
-
-[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="Tạo game 3D bằng giọng nói cho người mới"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Hãy làm người xây dựng game 3D cho tôi. Chỉ hỏi thêm về mục tiêu người chơi, định hướng hình ảnh và điều khiển còn thiếu, sau đó tạo game trình duyệt có thể chơi ngay và tiếp tục chỉnh sửa theo các chỉ dẫn giọng nói ngắn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Bài đăng gốc](https://x.com/EHuanglu/status/2095608358086840647) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="one-shot-browser-3d-game-2095599934766764338"></a>
-
-### Game 3D trên trình duyệt từ một yêu cầu
-
-[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="Game 3D trên trình duyệt từ một yêu cầu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một game 3D hoàn chỉnh chạy trên trình duyệt trong một dự án độc lập. Có mục tiêu dễ hiểu, điều khiển nhạy, màn chơi hợp lý về không gian, kẻ địch hoặc chướng ngại, phản hồi rõ ràng, tính điểm, khởi động lại và biện pháp giữ hiệu năng ổn định.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Bài đăng gốc](https://x.com/theo/status/2095599934766764338) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
-
-### Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="Từ ảnh ngôi nhà đến thế giới Blender có thể chỉnh sửa"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng lại ngôi nhà trong ảnh được cung cấp thành một cảnh Blender có thể chỉnh sửa hoàn toàn. Tách kiến trúc, đồ nội thất, thiết bị và đồ chơi thành từng đối tượng, giữ tỷ lệ hợp lý và tạo trải nghiệm đi tham quan chạy cục bộ mượt ở 60 FPS.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Bài đăng gốc](https://x.com/tomkrcha/status/2095598645190291775) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
-
-### FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo
-
-[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="FPS nhiều người 10 đấu 10 lấy cảm hứng từ Halo"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game bắn súng đấu trường nhiều người 10 đấu 10 lấy cảm hứng từ FPS khoa học viễn tưởng cổ điển. Có đội, hồi sinh, vũ khí dễ phân biệt, khiên, vật phẩm nhặt được, bản đồ gọn, tính điểm, tiến trình trận đấu và chơi trên trình duyệt với độ trễ thấp.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Bài đăng gốc](https://x.com/VikiingAI/status/2095598026916049024) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
-
-### Thành phố Unity có thể khám phá từ thư viện asset
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Thành phố Unity có thể khám phá từ thư viện asset"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Lắp ráp một thành phố Unity có thể khám phá từ thư viện asset được cung cấp. Tạo mạng đường nhất quán, nhà cao tầng, xe cộ, cây cọ, ánh sáng và điều hướng, rồi tối ưu cảnh để có chuyến tham quan góc nhìn thứ nhất ổn định.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Bài đăng gốc](https://x.com/chetaslua/status/2095597640587374887) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
-
-### Nguyên mẫu tương tác cao cấp trong một lượt
-
-[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="Nguyên mẫu tương tác cao cấp trong một lượt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Thiết kế và triển khai nguyên mẫu tương tác chỉn chu trong một lượt từ ý tưởng sản phẩm được cung cấp. Chọn hệ hình ảnh mạnh, ưu tiên hành động chính, thêm chuyển cảnh mượt và bàn giao bản responsive đã được đưa lên web.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Bài đăng gốc](https://x.com/AY_Orbach/status/2095597560253862065) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
-
-### Thế giới kiểu Minecraft từ một yêu cầu
-
-[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="Thế giới kiểu Minecraft từ một yêu cầu"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo ngay trong một lượt một thế giới voxel lấy cảm hứng từ Minecraft có thể chơi được: sinh địa hình, đặt và phá khối, điều khiển góc nhìn thứ nhất, hành trang, ánh sáng, nước và một vòng lặp sinh tồn gọn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Bài đăng gốc](https://x.com/flavioAd/status/2095597137849446688) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="open-world-browser-adventure-2095596341422440714"></a>
-
-### Phiêu lưu thế giới mở trên trình duyệt
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="Phiêu lưu thế giới mở trên trình duyệt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một game phiêu lưu 3D thế giới mở với nhiều quần xã kết nối, di chuyển, khám phá, chiến đấu nhẹ, nhiệm vụ, địa danh và bầu không khí ngày đêm. Có đủ chỉ dẫn để việc khám phá mang cảm giác có mục đích.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Bài đăng gốc](https://x.com/petergostev/status/2095596341422440714) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Xã hội sinh tồn của những con người tự chủ trong Unreal Engine
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Xã hội sinh tồn của những con người tự chủ trong Unreal Engine"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một thế giới trong Unreal Engine với những nhân vật con người tự chủ. Mỗi người có nhu cầu riêng và cùng hướng đến mục tiêu sinh tồn, buộc họ phải giao tiếp, phân chia công việc, dựng nơi trú ẩn và duy trì xã hội ngay cả khi người chơi rời đi.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095596175705399482) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="arcadia-base-on-mars-2095595678214873212"></a>
-
-### Căn cứ Arcadia trên sao Hỏa
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="Căn cứ Arcadia trên sao Hỏa"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng thuộc địa sao Hỏa voxel chơi được với tàu hạ cánh, robot xây dựng, rover, lưu trữ điện, hệ oxy và nước. Cho bão bụi và mất điện ảnh hưởng đến thuộc địa.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [Bài đăng gốc](https://x.com/knowixbuilds/status/2095595678214873212) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

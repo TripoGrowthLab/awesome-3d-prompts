@@ -28,6 +28,16 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Механічна машина Руба Ґолдберґа в Blender](#claude-opus-5-5-2104953406708175097)
+- [Створіть перегонову гру в стилі Mario Kart на 3JS](#claude-opus-5-5-2104947552328261810)
+- [Інтерактивна мультяшна 3D-планета](#claude-opus-5-5-2104919117262389255)
+- [30-секундне брендоване 3D-відео в стилі моушн-дизайну](#claude-opus-5-5-2104896325255037196)
+- [Високодеталізована 3D-модель людського ока](#gpt-6-astra-2104841727496323479)
+- [АТЛАС ЗЕМЛІ: ЖИВА ПЛАНЕТА](#claude-opus-5-5-2104837836507955401)
+- [Інтерактивна лабораторія симуляції послідовної виробничої лінії](#claude-opus-5-5-2104831049020674144)
+- [Спорткар-трансформер із рентгенівським режимом і вибуховою схемою](#gpt-6-astra-2104654448878387313)
+- [Інтерактивна прогулянка човном у місячних джунглях](#gpt-6-astra-2104613125093998674)
+- [Інтерактивна освітня 3D-модель CRISPR](#gpt-6-astra-2104605522640970208)
 - [J-подібний гак для 3D-друку та випробування на міцність](#gpt-6-astra-2104590493191479337)
 - [Ходяча архітектура](#claude-opus-5-5-2104590334152056983)
 - [Іграбельний піксельний beat ’em up у Стародавньому Римі](#claude-opus-5-5-2104571944842498150)
@@ -68,18 +78,561 @@
 - [Створіть Ейфелеву вежу в Three.js](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — 3D-артилерія на острові](#crazy-tanks-3d-island-artillery)
 - [Анімація рівня Pixar у Three.js для Grid Genius](#claude-opus-5-5-2103087766662009118)
-- [Гра про пелікана-велосипедиста в реальному часі](#claude-opus-5-5-2103083781490176212)
-- [Інтерактивний 3D-шматочок желейного цитруса](#gpt-6-astra-2103062348168618280)
-- [Створіть імперське місто](#claude-opus-5-5-2103046279253168554)
-- [Воксельний Codex у Three.js](#gpt-6-astra-2102956340482289944)
-- [Гіперреалістична інтерактивна HTML-сцена з багаттям у пустелі](#gpt-6-astra-2102915300295369208)
-- [Симулятор приготування бургерів від першої особи](#gpt-6-astra-2102897258983313712)
-- [Створіть Bugatti Chiron Super Sport у Three.js](#claude-opus-5-5-2102828216289566725)
-- [Шейдер нескінченного соларпанк-міста](#gpt-6-astra-2102826333550133520)
-- [Тренувальний монтаж розвитку Claude](#claude-opus-5-5-2102788371114246177)
-- [Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js](#claude-opus-5-5-2102788223835463902)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Механічна машина Руба Ґолдберґа в Blender
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Механічна машина Руба Ґолдберґа в Blender"></a>
+
+**Промпт**
+
+```text
+Створіть у Blender механічну машину Руба Ґолдберґа. Використайте шестерні, рампи, кульки та рухомі платформи. Побудуйте її процедурно, перевіряйте сцену після кожного основного етапу й виправляйте очевидні проблеми з геометрією.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104953406708175097) · [Оригінальний допис](https://x.com/Kwazikot/status/2104953406708175097) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### Створіть перегонову гру в стилі Mario Kart на 3JS
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="Створіть перегонову гру в стилі Mario Kart на 3JS"></a>
+
+**Промпт**
+
+```text
+Мені потрібно, щоб ти запустив п’ять субагентів (Model) і допоміг створити гру AAA-рівня — клон Mario Kart. Запусти цих субагентів, створи гру без жодних запитань до мене та використай 3JS для її розроблення. Коли завершиш, повідом мені про це.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104947552328261810) · [Оригінальний допис](https://x.com/EnvolDev/status/2104947905442505205) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Інтерактивна мультяшна 3D-планета
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Інтерактивна мультяшна 3D-планета"></a>
+
+**Промпт**
+
+```text
+Створіть мультяшну 3D-планету в стилі коміксів за допомогою ThreeJS, сповнену яскравого життя: із хмарами, горами, міськими будівлями, автомобілями та літаком, що рухається навколо неї. Планету має бути можна обертати й масштабувати, щоб розглядати деталі. Не використовуйте harness.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104919117262389255) · [Оригінальний допис](https://x.com/mdaman010/status/2104919846953869421) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### 30-секундне брендоване 3D-відео в стилі моушн-дизайну
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="30-секундне брендоване 3D-відео в стилі моушн-дизайну"></a>
+
+**Промпт**
+
+```text
+Створи захопливе 30-секундне моушн-відео для https://t.co/71rvEGmB6D, яке виглядає як шоуріл топового моушн-дизайнера. Спершу вивчи сайт і використай справжню айдентику бренду, інтерфейс продукту, кольори та ключові повідомлення. Додай виразну типографіку, 3D-анімацію, анімований інтерфейс, швидкі переходи та ефектну появу логотипа.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104896325255037196) · [Оригінальний допис](https://x.com/TawohAwa/status/2104896328300134868) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104841727496323479"></a>
+
+### Високодеталізована 3D-модель людського ока
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/a8d15991fe8e3d161999a93d81d230d3e8bfab617616410a063b4a6e1e1e9e12.webp" width="840" loading="lazy" alt="Високодеталізована 3D-модель людського ока"></a>
+
+**Промпт**
+
+```text
+Створіть локальний файл HTML/CSS/JS із використанням Three.js. Змоделюйте високодеталізоване 3D-людське око, яке виглядає як макрофотографія справжнього ока. Усе потрібно створити з нуля.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model of a human eye that looks like a macro photograph of a real eye. Everything must be created from scratch.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104841727496323479) · [Оригінальний допис](https://x.com/SimonasLTU1/status/2104841727496323479) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### АТЛАС ЗЕМЛІ: ЖИВА ПЛАНЕТА
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="АТЛАС ЗЕМЛІ: ЖИВА ПЛАНЕТА"></a>
+
+**Промпт**
+
+```text
+Створи надзвичайний інтерактивний SVG-досвід під назвою «АТЛАС ЗЕМЛІ: ЖИВА ПЛАНЕТА». Створи повноцінну, придатну для глибокого дослідження обсерваторію наук про Землю в ОДНОМУ самодостатньому HTML-файлі. Я маю змогу вставити весь твій результат у файл, безпосередньо відкрити його в Chrome і користуватися ним без сервера чи мережевого підключення. Використовуй будь-які корисні бібліотеки, але вбудуй увесь потрібний код виконання та підготовлені дані в цей один HTML-файл. Глобус, регіональні карти, рельєф, морське дно, розрізи, інструменти, діаграми, анотації та ілюстрації великим планом мають переважно рендеритися у SVG.
+
+Поверни ЛИШЕ повний робочий HTML в ОДНОМУ блоці коду.
+
+АМБІЦІЯ
+
+Створи візуальну якість флагманської виставки NASA про науки про Землю, поєднавши її з глибиною інтерактивного атласу. Глядач починає з орбіти перед величною Землею. Він може обертати глобус, переміщатися між денною та нічною сторонами, обрати реальне місце, наблизитися до його географії, прокласти профіль, опуститися крізь поверхню чи океан і зрозуміти, як ця локація пов’язана з усією планетою.
+
+Досвід має винагороджувати десять хвилин дослідження. Він повинен містити ефектні відкриття, точні взаємодії та пов’язані між собою вигляди — це має бути не просто глобус, який обертається, з інформаційними спливними вікнами. Перший кадр має бути достатньо красивим, щоб слугувати самостійною науковою ілюстрацією.
+
+СПРАВЖНЯ СИСТЕМА БАГАТОМАСШТАБНОГО ДОСЛІДЖЕННЯ
+
+Створи продуману ієрархію масштабів:
+
+1. ОРБІТАЛЬНА ЗЕМЛЯ — повний глобус, атмосфера, межа дня й ночі, великі географічні форми та глобальні накладки.
+2. КОНТИНЕНТАЛЬНИЙ МАСШТАБ — впізнавані берегові лінії, рельєф, великі річки, океанічні басейни та вибрані наукові об’єкти.
+3. РЕГІОНАЛЬНИЙ МАСШТАБ — деталізований рельєф, батиметрія, горизонталі, підписи та інструменти вимірювання.
+4. ЛОКАЛЬНА СЦЕНА — багата на деталі ілюстрована ландшафтна або океанічна сцена, специфічна для вибраного місця.
+5. СЕКЦІЙНИЙ ВИГЛЯД — географічно пов’язаний поперечний розріз суходолу, льоду, океану або земної кори.
+6. ВИГЛЯД ДЕТАЛІ — розгляд зблизька такої особливості, як шар льодовика, русло річки, розлом, шар осадів або формація морського дна.
+
+Кожен рівень масштабу має відкривати нові авторські SVG-деталі, доречні для цього масштабу. Не збільшуй просто ту саму геометрію низької роздільності, доки вона не перетвориться на порожнечу.
+
+Зберігай географічну ідентичність під час переходів. Вибрана точка на глобусі має відповідати регіональній карті, локальній сцені, її профілю та розрізу.
+
+Реалізуй масштабування до вказівника, обертання глобуса перетягуванням, панорамування регіональних виглядів перетягуванням, масштабування жестом щипка, навігацію клавіатурою, кнопки Back, Home і Reset View. Обмежуй рух камери та зроби його плавним. Показуй ненав’язливу масштабну лінійку й навігаційний ланцюжок локації. Ручна взаємодія має коректно переривати будь-яку автоматизовану подорож камери.
+
+ВІЗУАЛЬНИЙ НАПРЯМ
+
+Зроби Землю головним візуальним елементом.
+
+Використовуй глибокий океанічний синій, бірюзовий колір мілководдя, різноманітні зелені відтінки рослинності, охру пустель, вулканічний вугільно-чорний, мінеральні сірі, льодовиковий білий і тонкі лінії анотацій теплого білого кольору.
+
+Створи переконливий об’єм планети завдяки спроєктованій геометрії берегових ліній, змінному освітленню, ефектам атмосферного розсіювання, шарам хмар і ретельно контрольованому відображенню нічних вогнів, для якого слід вбудувати відповідне джерело із зазначеною датою.
+
+Використовуй точну картографічну графіку, елегантні горизонталі, ненав’язливі матеріальні візерунки, читабельне затінення глибини та тонкі лінії-виноски. Показуй інформацію тоді, коли вона корисна на поточному рівні масштабу, а не вкривай глобус підписами.
+
+Інтерфейс має нагадувати витончений науковий прилад. Уникай типових карток дашбордів, надмірного неону та великих плаваючих текстових панелей.
+
+ГЛОБАЛЬНА ЗЕМЛЯ
+
+Створи SVG-глобус, який можна обертати, з узгодженою географічною проєкцією та обробкою координат. Під час обертання глобуса правильно проєктуй форми суходолу, океанічні об’єкти, підписи, вибрані маркери, маршрути й термінатор. Приховуй геометрію на протилежному боці, а не промальовуй її крізь планету.
+
+Додай перемикаємі накладки для:
+• фізичного рельєфу;
+• глибини океану та структури морського дна;
+• великих річок і басейнів стоку;
+• меж літосферних плит;
+• вибраних історичних землетрусів із вбудованої вибірки із зазначеною датою;
+• сітки широт і довгот;
+• датованих зразків спостережень Землі — лише там, де це підтверджують вбудовані дані;
+• чистого кінематографічного вигляду.
+
+Кожна накладка має використовувати ту саму систему координат. Додай для неї джерело, дату, роздільність, одиниці вимірювання та легенду.
+
+Не називай жоден шар «живим» або «поточним», якщо у файлі використано вбудований знімок.
+
+ШІСТЬ ПОВНІСТЮ ПРОПРАЦЬОВАНИХ ЕКСПЕДИЦІЙ
+
+Створи повноцінні, відмінні одна від одної дослідницькі подорожі для таких регіонів:
+
+ГІМАЛАЇ — багатошарові гірські хребти, долини, льодовики, профіль регіональних висот із зазначеним джерелом і візуально зрозумілий розріз рельєфу.
+
+БАСЕЙН АМАЗОНКИ — впізнавана структура річок, заплава та притоки, ілюстрований розріз лісу й навчальна демонстрація шляху води.
+
+САХАРА — дюни, кам’янистий рельєф, сухі русла, виразні матеріали поверхні та профіль рельєфу. Відокремлюй ілюстровані деталі дюн від даних великомасштабної висотності.
+
+СХІДНОАФРИКАНСЬКИЙ РИФТ — регіональні озера та рельєф, поперечний розріз уздовж розлому та чітко позначена концептуальна демонстрація тектоніки.
+
+РЕГІОН МАРІАНСЬКОЇ ЗАПАДИНИ — поверхня океану, геометрія шельфу й глибокого океану, де це доречно для вибраного профілю, профіль глибин із можливістю перетягування, занурення крізь товщу води та деталізована ілюстрована сцена морського дна.
+
+АНТАРКТИДА — крижана поверхня, контекст льоду й рельєфу із зазначеним джерелом, де це можливо, інтерпретація в розрізі та демонстрація сезонного сонячного освітлення.
+
+Для кожної експедиції передбач:
+• виразну авторську початкову композицію;
+• коректне розташування на глобусі;
+• регіональну карту;
+• щонайменше одну локальну сцену;
+• щонайменше один пов’язаний поперечний розріз або профіль;
+• унікальну робочу взаємодію;
+• плавну подорож назад на орбіту.
+
+Не використовуй типовий малюнок гір, лісу, пустелі чи океану замість географічної ідентичності конкретного регіону.
+
+П’ЯТЬ ПОВ’ЯЗАНИХ РЕЖИМІВ ВИГЛЯДУ
+
+ПОВЕРХНЯ — досліджуй топографію, особливості рельєфу, річки, лід і берегові лінії з деталізацією, що залежить від масштабу.
+
+ЗГОРИ — досліджуй сонячне освітлення, сезонну геометрію, атмосферу та будь-які вбудовані датовані спостереження. Якщо хмари чи погода ілюстративні, познач їх як ілюстративний сценарій.
+
+ЗНИЗУ — відкрий розріз рельєфу, льоду, земної кори або океану вздовж вибраного географічного профілю.
+
+ПЛАНЕТА — віддалися до глобального розрізу, що показує зв’язок вибраної точки із шарами Землі. Покажи відповідне положення вибраної локації на глобусі та в розрізі.
+
+ДАНІ — відкрий зразок даних, джерело, дату, роздільність, невизначеність або відоме обмеження та обчислення, що лежить в основі вибраного об’єкта чи вимірювання.
+
+Перемикання режимів має зберігати вибрану локацію, контекст масштабу, якщо це доречно, і стан часової шкали.
+
+ПОВ’ЯЗАНІ ІНСТРУМЕНТИ ДОСЛІДЖЕННЯ
+
+ВИМІРЮВАННЯ — вибери дві точки на глобусі або підтримуваній регіональній карті. Проведи маршрут по великому колу, покажи координати й відстань та зберігай коректну проєкцію маршруту під час обертання глобуса.
+
+ПРОФІЛЬ — намалюй або відкоригуй лінію через підтримуваний регіон. Вибери з вбудованих даних про висотність або батиметрію значення вздовж лінії, щоб побудувати профіль. Переміщення курсора на карті має переміщувати відповідний курсор на профілі та в секційному вигляді.
+
+ПОРІВНЯННЯ — розмісти дві вибрані локації поруч. Використовуй однакові одиниці вимірювання та явні елементи керування масштабом. Порівнюй їхню висоту або глибину, широту, регіональний контекст і підтримувані дані про довкілля.
+
+ЧАС І СОНЯЧНЕ СВІТЛО — змінюй час доби та день року. Оновлюй глобальне освітлення й сезонну геометрію Сонця за документованою моделлю. Ілюстративна погода має бути незалежною від цього годинника.
+
+КЕРОВАНА ЕКСПЕДИЦІЯ — запропонуй коротку кінематографічну подорож шістьма середовищами. На кожній зупинці має відкриватися взаємодія, а не просто відображатися підпис. Тур має бути доступним для пропуску.
+
+ЩІЛЬНІСТЬ АНОТАЦІЙ — перемикайся між кінематографічним, супровідним і технічним рівнями підписів, не змінюючи базову географію.
+
+ДОСЛІДЖЕННЯ ОКЕАНУ
+
+Сприймай морське дно як повноцінний ландшафт.
+
+Показуй шельфи, схили, абісальні області, хребти та западини там, де це підтверджує вбудований зразок рельєфу. Використовуй явний вертикальний масштаб і позначай будь-яке перебільшення.
+
+Під час експедиції до Маріанської западини дай глядачеві змогу занурюватися крізь товщу води. Одночасно оновлюй глибину, освітленість, колір, оцінку тиску за вказаною спрощеною моделлю та курсор локації.
+
+На великому плані глибокого моря можуть бути красиві ілюстровані організми й геологія, але конкретні організми та мікрорельєф мають бути позначені як інтерпретація. Батиметрія з джерела та ілюстровані локальні краєвиди мають залишатися розрізнюваними.
+
+НАДРА ЗЕМЛІ
+
+Додай повзунок розрізу від 0 до 100%, який плавно відкриває земну кору, мантію, зовнішнє та внутрішнє ядро. Глобус має залишатися візуально цілісним на проміжних положеннях повзунка.
+
+Покажи вибрану географічну локацію на зовнішній поверхні та вирівняну радіальну напрямну вглиб планети.
+
+Додай навчальну демонстрацію сейсмічних хвиль із чітко зазначеною спрощеною моделлю. Її траєкторії хвиль, рухомі маркери та показники часу мають походити з одного й того самого стану демонстрації.
+
+Явно позначай перебільшену товщину шарів, кольори матеріалів або стиснення часу.
+
+ТРИ ІНТЕРАКТИВНІ НАУКОВІ ЕКСПЕРИМЕНТИ
+
+1. ЛАБОРАТОРІЯ СОНЯЧНОГО СВІТЛА — вибери дві широти й порівняй змодельований добовий шлях Сонця та тривалість світлового дня протягом року. Пов’яжи діаграми з освітленим глобусом.
+
+2. ЛАБОРАТОРІЯ РЕЛЬЄФУ ТА РІВНЯ МОРЯ — у підтримуваному прибережному регіоні змінюй гіпотетичний рівень води та порівнюй його з вбудованим профілем висот. Познач це як статичну топографічну демонстрацію; не подавай її як прогноз прибережної повені.
+
+3. ЛАБОРАТОРІЯ СЕЙСМІЧНИХ ТРАЄКТОРІЙ — вибери джерело та точки спостереження для спрощеної навчальної демонстрації хвиль. Покажи траєкторії та відносний час прибуття відповідно до зазначеної моделі. Історичні маркери землетрусів мають залишатися окремими від гіпотетичного експерименту.
+
+Кожен експеримент має містити Reset, відтворювані вхідні дані, узгоджені одиниці вимірювання та чіткий зв’язок із глобусом або вибраним місцем.
+
+ДАНІ ТА НАУКОВА ДОБРОЧЕСНІСТЬ
+
+Для числових тверджень і вбудованих зразків використовуй авторитетні джерела з посиланнями. Доречні джерела включають NASA Earthdata для вибраних датованих спостережень, NOAA ETOPO для рельєфу суходолу й океану та USGS для вибраних історичних записів про землетруси.
+
+Використовуй підготовлені дані зі зменшеною роздільністю, які вміщуються в один HTML-файл. Показуй фактичну вбудовану роздільність. Ніколи не стверджуй, що регіональна ілюстрація має точність вихідного набору даних, якщо її деталі створено автором або спрощено.
+
+Тримай видимими три категорії:
+
+СПОСТЕРЕЖУВАНІ ДАНІ — вимірювання з указаним джерелом або зразок опублікованого набору даних.
+
+ПОХІДНЕ ЗНАЧЕННЯ — значення, обчислене на основі названих вхідних даних і методу, який можна перевірити.
+
+ІЛЮСТРАЦІЯ АБО ЕКСПЕРИМЕНТ — створений автором краєвид або гіпотетична модель.
+
+Не вигадуй точних висот, глибин, координат землетрусів, актуальних схем хмар чи виміряних значень параметрів довкілля.
+
+Додай панель Sources and Methods із посиланнями, версіями та датами наборів даних, системою відліку координат, одиницями вимірювання, методом зменшення роздільності, рівняннями, невизначеністю або обмеженнями та атрибуцією.
+
+Використовуй єдине правило запису широти й довготи для всіх об’єктів. Розділяй географічні координати, фізичні вимірювання та перебільшену геометрію відображення.
+
+ДРІБНІ ДЕТАЛІ ТА ВІЗУАЛЬНІ ВІДКРИТТЯ
+
+Додай ретельно хореографовані відкриття:
+• переходи від орбіти до регіону, що зберігають вибрану точку в полі зору;
+• горизонталі та підписи, які з’являються лише на корисному для них масштабі;
+• річку, що залишається впізнаваною — від глобальної карти до локального басейну;
+• курсор висоти, який синхронно рухається картою, профілем і ландшафтом;
+• берегову лінію, яка візуально змінюється під час увімкнення батиметричного шару;
+• шари льоду, що поступово відкриваються в антарктичному розрізі;
+• занурення в глибокий океан, під час якого морське дно з’являється поступово, а не внаслідок раптової заміни сцени;
+• розріз від глобуса до надр, який зберігає вибрану географічну локацію;
+• змінний термінатор, що занурює вибрану експедицію у день або ніч;
+• відкриття доказів, яке пов’язує красивий візуальний елемент із даними або моделлю, що лежить за ним.
+
+Надавай пріоритет деталям, які поглиблюють дослідження, а не декоративним частинкам.
+
+ПРОДУКТИВНІСТЬ І ПЕРЕВІРКА
+
+Використовуй обмежений SVG-граф сцени, повторно використовувані символи, обрізання, маски та рендеринг, залежний від масштабу. Не тримай активними всі шість високодеталізованих сцен, коли видно лише одну.
+
+Підтримуй настільні комп’ютери, сенсорні пристрої, навігацію клавіатурою, видимий фокус і налаштування зменшення анімації.
+
+Перевір, що:
+• кожна представлена локація географічно розміщена правильно;
+• об’єкти на прихованому боці глобуса справді приховані;
+• маршрути залишаються прив’язаними до своїх координат під час обертання;
+• відстані у вимірюваннях обчислюються за вибраними координатами;
+• значення профілів походять із вбудованих зразків;
+• курсори карти, профілю та розрізу залишаються синхронізованими;
+• Reset повертає експерименти до початкових станів;
+• елементи керування часом змінюють призначену модель, не змінюючи непомітно непов’язані дані;
+• підписи джерел і дат відповідають вбудованим шарам.
+
+Показуй фактичні результати будь-яких автоматизованих перевірок. Не хардкодь рядок із підписами «пройдено».
+
+Зроби повний шлях від глобуса до локальної сцени й розрізу робочим для всіх шести експедицій. Якщо обсяг реалізації змушує обирати, спочатку заверш пов’язану подорож і основні наукові інструменти, а вже потім додавай необов’язкові візуальні ефекти.
+
+ФІНАЛЬНА ПОСТАВКА
+
+Готовий результат має сприйматися як планета, яку можна досліджувати в одному файлі: приголомшлива з орбіти, винагороджувальна під час розгляду зблизька й чесна щодо того, що є спостереженим, обчисленим або ілюстрованим.
+
+Поверни ЛИШЕ ОДИН блок коду, що містить ПОВНИЙ робочий HTML-документ і починається з <!DOCTYPE html>. Я маю змогу вставити його в один файл .html, відкрити в Chrome, обертати й масштабувати Землю, перейти до будь-якої з шести експедицій, прокласти пов’язаний профіль, досліджувати океан і надра, порівнювати локації, запустити три експерименти, переглянути джерела та плавно повернутися на орбіту.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104837836507955401) · [Оригінальний допис](https://x.com/Gdgtify/status/2104837836507955401) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Інтерактивна лабораторія симуляції послідовної виробничої лінії
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Інтерактивна лабораторія симуляції послідовної виробничої лінії"></a>
+
+**Промпт**
+
+```text
+Створіть анімовану інтерактивну симуляцію дискретних подій для послідовної виробничої лінії в одному автономному HTML-файлі (vanilla JS + Canvas, без зовнішніх бібліотек, крім Chart.js із cdnjs). Мета: навчити студентів за напрямом [Виробничі системи], як варіативність, буфери та відмови впливають на продуктивність лінії.
+
+КОНФІГУРАЦІЯ ЛІНІЇ (налаштовується користувачем)
+- Кількість станцій: [2–6], за замовчуванням [3]; кожна має назву (наприклад, Механічна обробка, Складання, Контроль)
+- Для кожної станції: середній час циклу, розподіл (детермінований, рівномірний, нормальний, трикутний, експоненційний, логнормальний), CV
+- Відмови для кожної станції: MTBF і MTTR (експоненційний розподіл), перемикач увімкнення/вимкнення
+- Якість для кожної станції: частка дефектів (%), із можливістю утилізації або повернення на переробку
+- Буфери між станціями: місткість 0–10 (0 = блокування після обслуговування)
+- Надходження: необмежений потік сировини АБО пуассонівські надходження з інтенсивністю λ
+- Попит клієнтів для розрахунку тактового часу
+
+ANIMATION
+- Деталі переміщуються конвеєрами та змінюють колір залежно від етапу (сировина, незавершене виробництво, готова продукція, брак)
+- Рамки верстатів відображають стани різними кольорами: працює (зелений), заблокований (бурштиновий), без роботи через відсутність заготовок (червоний), несправний (сірий); також показуйте обертову іконку шестерні та індикатор виконання
+- Комірки буферів показують заповнення та підсвічуються, коли буфер повний
+- Керування: відтворення/пауза, покроковий режим, скидання, швидкість 1x–50x, період розігріву
+
+КЛЮЧОВІ ПОКАЗНИКИ ЕФЕКТИВНОСТІ (панель у реальному часі)
+1. Пропускна здатність (деталей/год) порівняно з теоретичною пропускною здатністю вузького місця
+2. Середній обсяг незавершеного виробництва (WIP) і зміна WIP у часі
+3. Час проходження / виробничий цикл (середнє значення та 95-й перцентиль)
+4. Перевірка закону Літтла: WIP ≈ Пропускна здатність × Час проходження
+5. Коефіцієнт завантаження кожної станції з розподілом часу: робота / блокування / відсутність заготовок / простій через несправність (стовпчикова діаграма з накопиченням)
+6. OEE для кожної станції = Доступність × Продуктивність × Якість
+7. Виявлення вузького місця (метод активного періоду) та його підсвічування
+8. Тактовий час і час циклу станцій (діаграма балансування лінії)
+9. Ефективність балансування лінії = Σ часів циклу / (N × максимальний час циклу)
+10. Вихід придатних виробів із першого проходу, сумарний вихід придатних виробів, кількість бракованих деталей
+11. Середня заповненість кожного буфера
+12. Фактичні та задані середні значення часу циклу й CV для кожної станції
+
+ФУНКЦІЇ АНАЛІЗУ
+- Режим реплікацій: виконувати N реплікацій тривалістю T після періоду розігріву та показувати середнє значення ± 95% довірчого інтервалу для пропускної здатності, WIP і часу проходження
+- Режим експерименту: перебирати розмір буфера (або CV однієї станції) і будувати графік залежності пропускної здатності від параметра
+- Експорт результатів у CSV
+- Сценарії за замовчуванням: збалансована лінія, явне вузьке місце, висока варіативність, ненадійний верстат
+
+DESIGN
+- Чистий адаптивний інтерфейс для мобільних пристроїв; світла/темна тема
+- Коротка підказка з поясненням кожного KPI та його формули
+- Перемикач двомовних підписів (англійська/арабська)
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2104831049020674144) · [Оригінальний допис](https://x.com/am_alahmari/status/2104831051776335994) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104654448878387313"></a>
+
+### Спорткар-трансформер із рентгенівським режимом і вибуховою схемою
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/3fa857730ce8039496b8b01f642a8505efb6a54c987d4daeef4ff2eecbb8536d.webp" width="840" loading="lazy" alt="Спорткар-трансформер із рентгенівським режимом і вибуховою схемою"></a>
+
+**Промпт**
+
+```text
+Створіть деталізований спорткар, який трансформується в гуманоїдного робота, із режимом рентгенівського перегляду та інтерактивною вибуховою схемою
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build a detailed sports car that transforms into a humanoid robot, with an x-ray mode and interactive exploded view
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104654448878387313) · [Оригінальний допис](https://x.com/marcthecreatorr/status/2104654448878387313) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104613125093998674"></a>
+
+### Інтерактивна прогулянка човном у місячних джунглях
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/83fd1b0bc5c59fc47bde6031430727ee471bb67225d1b3086b732393fb4c3beb.webp" width="840" loading="lazy" alt="Інтерактивна прогулянка човном у місячних джунглях"></a>
+
+**Промпт**
+
+```text
+Створіть повноекранну адаптивну прогулянку човном на Three.js у вузькій джунглевій протоці. Використайте камеру від третьої особи, що стежить за порожнім дерев’яним човном із загостреним носом, широкими бортами, пласкою кормою, добре видимими дошками підлоги та лавами; весла не потрібні. Усередині човен має бути сухим, а корпус — частково зануреним у воду. Дозвольте користувачам керувати човном за допомогою WASD, клавіш зі стрілками та сенсорних елементів керування. Створіть нічну, містичну атмосферу: густі різноманітні реалістичні дерева темно-зеленого кольору на обох берегах, легкий вітер, деталізований повний місяць і переривчасті відображення місячного світла на анімованій воді. Додайте правдоподібні рухомі хвилі, спотворені відображення човна й дерев, а також слід, що повторює пройдений човном шлях і природно згасає — без фіксованих світних міток і чітких круглих меж. Додайте перемикач погоди для місячної ночі, теплого світанку та похмурого дощу. У режимі дощу покажіть краплі, що падають, і невеликі нетривалі круги на воді від ударів крапель, форма яких залежить від хвиль. Додайте за бажанням ненав’язливі атмосферні звуки води, джунглів і дощу. Інтерфейс має бути мінімальним. Перевірте візуальну складову, керування, аудіо, лічильник і всі три погодні режими на комп’ютерах і мобільних пристроях.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build a fullscreen, responsive Three.js boat ride set in a narrow jungle waterway. Use a third-person camera following an empty wooden rowboat with a pointed bow, broad sides, flat stern, visible floorboards and seats, no oars, a dry interior, and a hull slightly submerged in the water. Let users steer with WASD or arrow keys and touch controls. Make the scene nocturnal and mystical: dense, varied, realistic dark-green trees on both banks, subtle wind, a detailed full moon, and broken moonlight reflected across animated water. Use convincing moving waves, distorted reflections of the boat and trees, and a wake that follows the boat’s traveled path and fades naturally no fixed glowing marks or hard circular borders. Add a weather toggle for moonlit night, warm dawn, and overcast rain; in rain mode, show falling drops and small, short-lived impact ripples shaped by the water’s waves. Add optional, subtle water, jungle, and rain ambience. Keep the interface minimal. Verify the visuals, controls, audio, counter, and all three weather modes on desktop and mobile.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104613125093998674) · [Оригінальний допис](https://x.com/itsfazley/status/2104613128017522813) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104605522640970208"></a>
+
+### Інтерактивна освітня 3D-модель CRISPR
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/31570aa85f093211e76197e2ef5fba17050a2791da509fb7dddb803a62a91f3a.webp" width="840" loading="lazy" alt="Інтерактивна освітня 3D-модель CRISPR"></a>
+
+**Промпт**
+
+```text
+Створіть інтерактивну освітню 3D-модель, яка показує, як працює технологія CRISPR для редагування ДНК. Можна використати будь-яку технологію, якщо результат буде зрозумілим і зручним для сприйняття, міститиме ланцюг ДНК і демонструватиме весь процес редагування генів, зокрема призначення кожного елемента. Я маю мати змогу вибрати будь-яку важливу частину моделі й дізнатися про неї більше.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+I want you to create an interactive educational 3d represenation how CRISPR DNA technology works. You can choose what ever technology you want as long as its clear readable and has a dna strand, you can see a full work of gene editing and what each piece is, I should be able to select any relevant part of it and learn something
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2104605522640970208) · [Оригінальний допис](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2104590493191479337"></a>
 
 ### J-подібний гак для 3D-друку та випробування на міцність
@@ -2348,394 +2901,6 @@ I want you to imagine a story, that subtly promotes grid genius. Or it can not e
 </details>
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103087766662009118) · [Оригінальний допис](https://x.com/Anilraok/status/2103087766662009118) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103083781490176212"></a>
-
-### Гра про пелікана-велосипедиста в реальному часі
-
-[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Гра про пелікана-велосипедиста в реальному часі"></a>
-
-**Промпт**
-
-```text
-Створіть 3D-гру в реальному часі, у якій пелікан їде на велосипеді живим приморським світом із фізикою, хвилями, риболовлею, динамічною погодою, кінематографічними камерами, автопілотом та адаптивною музикою.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103083781490176212) · [Оригінальний допис](https://x.com/code_hiyouga/status/2103083781490176212) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103062348168618280"></a>
-
-### Інтерактивний 3D-шматочок желейного цитруса
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="Інтерактивний 3D-шматочок желейного цитруса"></a>
-
-**Промпт**
-
-```text
-Створіть красивий інтерактивний 3D-шматочок желейного цитруса за допомогою WebGPU. Реалізуйте весь досвід в одному автономному HTML-файлі з вбудованими JavaScript і WGSL-шейдерами.
-
-Це має бути справжня 3D-симуляція в реальному часі, а не відео, зображення чи зациклена анімація.
-
-APPEARANCE
-
-Створіть товстий напівкруглий шматочок апельсина з напівпрозорою соковитою м’якоттю, вісьмома чітко вираженими сегментами, тонкими внутрішніми мембранами, дрібними бульбашками, світлим шаром альбедо та м’якою помаранчевою шкіркою.
-
-Надайте йому вигляду преміальної желейної цукерки: насичений колір, глянцеві відблиски, проникнення світла крізь м’якоть, переконливу рефракцію та м’які контактні тіні. Уникайте надмірного bloom-ефекту, вибілених кольорів і вигляду твердого пластику.
-
-Використайте теплий світлий студійний фон і чистий редакційний інтерфейс із достатньою кількістю вільного простору. Додайте великий курсивний заголовок із засічками “Citrus Jelly.” Елементи керування мають бути компактними, а шматочок — добре помітним.
-
-ФІЗИКА М’ЯКОГО ТІЛА
-
-Відчуття желе — найважливіша частина.
-
-- Захоплюйте будь-яку частину шматочка мишею або пальцем.
-- Тягніть, підіймайте, розтягуйте, скручуйте й відпускайте його.
-- Деформація має бути локальною: якщо потягнути за один край, сусідня м’якоть повинна розтягуватися, а решта — природно реагувати на рух.
-- Після відпускання шматочок має хитатися, виходити за початкове положення та поступово відновлювати первісну форму.
-- Додайте гравітацію, інерцію, демпфування, зіткнення із землею та м’які відскоки.
-- Приблизно зберігайте об’єм і не допускайте руйнування сітки чи вивертання її навиворіт.
-- Шкірка має бути трохи пружнішою за м’якоть.
-- Внутрішні сегменти, мембрани та бульбашки повинні деформуватися разом із тілом, не випливаючи за його межі.
-
-Використайте стабільний об’ємний солвер для м’якого тіла, наприклад тетраедральну сітку з обмеженнями XPBD. Не імітуйте м’якість масштабуванням або обертанням усього об’єкта.
-
-CONTROLS
-
-Додайте три пресети кольорів: апельсин, лимон і рубін.
-
-Додайте:
-- Повзунок пружності.
-- Повзунок внутрішнього демпфування.
-- Кнопку “Легенько підштовхнути”.
-- Кнопку скидання.
-- Прапорець чверті швидкості.
-- Прапорець відображення сітки.
-- Кнопку призупинення/відновлення.
-
-Відображайте невеликі показники в реальному часі для маси, відсотка початкового об’єму та кінетичної енергії.
-
-ТЕХНІЧНІ ВИМОГИ
-
-Використайте справжній рендеринг WebGPU із WGSL-шейдерами. Генеруйте всю геометрію та візуальні деталі процедурно, без імпортованих моделей або файлів зображень.
-
-Оновлення симуляції мають бути незалежними від частоти кадрів рендерингу. Забезпечте підтримку настільних і сенсорних пристроїв. Якщо WebGPU недоступний, покажіть зрозуміле резервне повідомлення.
-
-Перевірте сильне перетягування, повторні відпускання, усі елементи керування та вузькі екрани. Перед передаванням готового HTML виправте нестабільну фізику, пошкоджену геометрію та візуальні артефакти.
-
-Результат має нагадувати маленький тактильний експеримент із цукеркою, з яким справді приємно взаємодіяти.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
-
-This must be a real-time 3D simulation, not a video, image, or looping animation.
-
-APPEARANCE
-
-Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
-
-Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
-
-Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
-
-SOFT-BODY PHYSICS
-
-The jelly feel is the most important part.
-
-- Grab any part of the slice with a mouse or finger.
-- Pull, lift, stretch, twist, and release it.
-- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
-- After release, the slice should wobble, overshoot, and gradually recover its original shape.
-- Include gravity, inertia, damping, ground collisions, and soft bouncing.
-- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
-- Make the rind slightly firmer than the flesh.
-- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
-
-Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
-
-CONTROLS
-
-Include three color presets: Orange, Lemon, and Ruby.
-
-Add:
-- Firmness slider.
-- Internal damping slider.
-- “Give it a nudge” button.
-- Reset button.
-- Quarter-speed checkbox.
-- Show mesh checkbox.
-- Pause/resume button.
-
-Display small live readouts for mass, percentage of rest volume, and kinetic energy.
-
-TECHNICAL REQUIREMENTS
-
-Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
-
-Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
-
-Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
-
-The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103062348168618280) · [Оригінальний допис](https://x.com/vib3coded/status/2103062415533371646) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103046279253168554"></a>
-
-### Створіть імперське місто
-
-[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Створіть імперське місто"></a>
-
-**Промпт**
-
-```text
-СТВОРІТЬ ІМПЕРСЬКЕ МІСТО
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-BUILD AN IMPERIAL CITY
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103046279253168554) · [Оригінальний допис](https://x.com/Enzoxbt01/status/2103046279253168554) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102956340482289944"></a>
-
-### Воксельний Codex у Three.js
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Воксельний Codex у Three.js"></a>
-
-**Промпт**
-
-```text
-створи Codex у Three.js за допомогою вокселів, створи все з нуля, не використовуй жодних навичок
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102956340482289944) · [Оригінальний допис](https://x.com/be_arsh/status/2102956424120979838) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102915300295369208"></a>
-
-### Гіперреалістична інтерактивна HTML-сцена з багаттям у пустелі
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="Гіперреалістична інтерактивна HTML-сцена з багаттям у пустелі"></a>
-
-**Промпт**
-
-```text
-Не посилайся на жоден інший файл або попередню роботу. Це завдання має бути повністю оригінальним і не повинно бути обхідною копією будь-якої іншої роботи в цьому наборі.
-
-Створи один HTML-файл із палаючим багаттям у пустелі. Надворі ніч, і видно зорі. Навколо багаття розставлені пні, що слугують сидіннями. У кадрі немає людей. Різні дикі тварини можуть час від часу з’являтися в кадрі й виходити з нього.
-
-Звуки також мають відповідати сцені та бути високої якості.
-Зроби все гіперреалістичним
-
-Назви файл на основі моделі
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
-
-Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
-
-noises should also match the scene and be of high quality.
-Make everything hyper realistic
-
-name the file (based on model)
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102915300295369208) · [Оригінальний допис](https://x.com/Nixtrodamis/status/2102915567845794029) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102897258983313712"></a>
-
-### Симулятор приготування бургерів від першої особи
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="Симулятор приготування бургерів від першої особи"></a>
-
-**Промпт**
-
-```text
-створи симулятор приготування бургерів від першої особи.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-build a first-person burger simulator.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102897258983313712) · [Оригінальний допис](https://x.com/noclipepe/status/2102897258983313712) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102828216289566725"></a>
-
-### Створіть Bugatti Chiron Super Sport у Three.js
-
-[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Створіть Bugatti Chiron Super Sport у Three.js"></a>
-
-**Промпт**
-
-```text
-створіть Bugatti Chiron Super Sport у Three.js.
-
-Без 3D-моделі. Без текстур. Без ресурсів.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-build a Bugatti Chiron Super Sport in Three.js.
-
-No 3D model. No textures. No assets.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102828216289566725) · [Оригінальний допис](https://x.com/srikanthvaluri/status/2102828216289566725) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102826333550133520"></a>
-
-### Шейдер нескінченного соларпанк-міста
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="Шейдер нескінченного соларпанк-міста"></a>
-
-**Промпт**
-
-```text
-створи візуально цікавий шейдер, який можна запустити в twigl-dot-app, у вигляді нескінченного міста із соларпанковими дорогами та вежами, де безперервно помітний рух легкого вітру
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102826333550133520) · [Оригінальний допис](https://x.com/jonasfroeller/status/2102826333550133520) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788371114246177"></a>
-
-### Тренувальний монтаж розвитку Claude
-
-[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Тренувальний монтаж розвитку Claude"></a>
-
-**Промпт**
-
-```text
-Створіть 30-секундну анімацію, повністю написану кодом, у форматі монтажу розвитку — за мотивами тренувальної послідовності з «Кунг-фу Панди», з маскотом Claude у ролі головного героя. Покажіть, як від моменту першого релізу він стає дедалі вправнішим у різних завданнях: пошуку в інтернеті, написанні коду, створенні 3D-моделей і розв’язанні найскладніших проблем людства. Додайте емоційно насичену музику.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788371114246177) · [Оригінальний допис](https://x.com/ishuagra02/status/2102788832273801700) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788223835463902"></a>
-
-### Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js"></a>
-
-**Промпт**
-
-```text
-Я хочу, щоб ти вигадав історію. А потім за допомогою threejs створив на її основі повноцінну 3D-анімацію як мультфільм 90-х рівня Pixar.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788223835463902) · [Оригінальний допис](https://x.com/scheemunai/status/2102788223835463902) · [Назад до прикладів](#all-prompts)
 
 ---
 

@@ -28,6 +28,16 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Yeni başlayanlar için sesle yönlendirilen 3B oyun](#voice-directed-3d-game-for-beginners-2095608358086840647)
+- [Tek istemle tarayıcıda 3B oyun](#one-shot-browser-3d-game-2095599934766764338)
+- [Ev fotoğrafından düzenlenebilir Blender dünyasına](#house-photo-to-editable-blender-world-2095598645190291775)
+- [Halo'dan esinlenen 10'a 10 çok oyunculu FPS](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
+- [Hazır kaynaklarla keşfedilebilir Unity şehri](#asset-driven-explorable-unity-city-2095597640587374887)
+- [Tek seferde özenli etkileşimli prototip](#one-shot-premium-interactive-prototype-2095597560253862065)
+- [Tek seferde Minecraft tarzı dünya](#one-shot-minecraft-style-world-2095597137849446688)
+- [Tarayıcıda açık dünya macerası](#open-world-browser-adventure-2095596341422440714)
+- [Unreal'da kendi kendine hayatta kalan insan toplumu](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
+- [Mars'ta Arcadia Üssü](#arcadia-base-on-mars-2095595678214873212)
 - [Tek kaba prototipten üç temalı kart yarışı](#three-themed-kart-games-from-one-greybox-2095580402505400369)
 - [Prosedürel şelale çalışması](#procedural-waterfall-study-2095510069047660636)
 - [Aerie: yaşayan voksel ada](#aerie-a-living-voxel-island-2095493630421340200)
@@ -68,18 +78,208 @@
 - [NIGHTBAND etkileşimli kısa dalga radyo](#nightband-interactive-shortwave-radio-2095026928210346175)
 - [Eksiksiz Unity tenis oyunu](#complete-unity-tennis-game-2095021275236495408)
 - [Işıldayan kanyon üzerinde antik tapınak](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
-- [Etkileşimli Toronto silüeti](#interactive-toronto-skyline-2095000329561485584)
-- [The Sims tarzı otonom yaşam simülasyonu](#autonomous-sims-like-life-simulation-2094949450196090988)
-- [Düşünen NPC'lerle voksel köy](#voxel-village-with-thinking-npcs-2094930970675741171)
-- [Fuji Dağı'na fantastik tırmanış](#fantasy-ascent-to-mount-fuji-2094930804296274414)
-- [Sıfırdan Godot yarış oyunu](#godot-racing-game-built-from-scratch-2094925359372284022)
-- [Kat planından Blender gezintisine](#floor-plan-to-blender-walkthrough-2094925117344428232)
-- [136.000 vokselli deterministik pagoda](#deterministic-136-000-voxel-pagoda-2094916609219461211)
-- [Blender otomasyonuyla ayrıntılı robot](#detailed-robot-through-blender-automation-2094909825561805003)
-- [Açık dünya suç oyunu prototipi](#open-world-crime-game-prototype-2094907986942591338)
-- [Mini Militia tarzı tarayıcı oyunu](#mini-militia-style-browser-game-2094900523900219725)
 
 </details>
+<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
+
+### Yeni başlayanlar için sesle yönlendirilen 3B oyun
+
+[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="Yeni başlayanlar için sesle yönlendirilen 3B oyun"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+3B oyun geliştiricim ol. Yalnızca eksik olan oyuncu hedefini, sanat yönünü ve kontrolleri sor. Ardından hemen oynayabileceğim bir tarayıcı oyunu oluştur ve kısa sesli talimatlarımla düzenlemeye devam et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Orijinal gönderi](https://x.com/EHuanglu/status/2095608358086840647) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="one-shot-browser-3d-game-2095599934766764338"></a>
+
+### Tek istemle tarayıcıda 3B oyun
+
+[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="Tek istemle tarayıcıda 3B oyun"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tarayıcıda çalışan eksiksiz bir 3B oyunu kendi kendine yeterli tek bir proje olarak oluştur. Açık bir hedef, hızlı tepki veren kontroller, mekânsal açıdan tutarlı bölümler, düşmanlar veya tehlikeler, geri bildirim, puanlama, yeniden başlatma ve performans önlemleri ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Orijinal gönderi](https://x.com/theo/status/2095599934766764338) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
+
+### Ev fotoğrafından düzenlenebilir Blender dünyasına
+
+[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="Ev fotoğrafından düzenlenebilir Blender dünyasına"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen ev görüntüsünü bütünüyle düzenlenebilir bir Blender sahnesi olarak yeniden oluştur. Mimariyi, mobilyaları, ev aletlerini ve oyuncakları ayrı nesneler olarak modelle. Makul oranları koru ve sonucu yerel olarak 60 FPS'de akıcı bir gezinti olarak çalıştır.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Orijinal gönderi](https://x.com/tomkrcha/status/2095598645190291775) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
+
+### Halo'dan esinlenen 10'a 10 çok oyunculu FPS
+
+[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="Halo'dan esinlenen 10'a 10 çok oyunculu FPS"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Klasik bilim kurgu FPS oyunlarından esinlenen 10'a 10 çok oyunculu arena nişancı oyunu oluştur. Takımlar, yeniden doğma, ayırt edilebilir silahlar, kalkanlar, toplanabilir nesneler, kompakt haritalar, puanlama, maç akışı ve düşük gecikmeli tarayıcı oyunu ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Orijinal gönderi](https://x.com/VikiingAI/status/2095598026916049024) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
+
+### Hazır kaynaklarla keşfedilebilir Unity şehri
+
+[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Hazır kaynaklarla keşfedilebilir Unity şehri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen kaynak kitaplığından keşfedilebilir bir Unity şehri kur. Tutarlı yol ağı, kuleler, araçlar, palmiyeler, aydınlatma ve gezinme oluştur. Ardından sahneyi optimize et ve kararlı bir birinci şahıs gezintisi hazırla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Orijinal gönderi](https://x.com/chetaslua/status/2095597640587374887) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
+
+### Tek seferde özenli etkileşimli prototip
+
+[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="Tek seferde özenli etkileşimli prototip"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen ürün fikrinden tek seferde üst düzey bir etkileşimli prototip tasarla ve geliştir. Güçlü bir görsel sistem seç, ana eyleme öncelik ver, özenli geçişler ekle ve barındırılan, ekranlara uyumlu bir sürüm teslim et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Orijinal gönderi](https://x.com/AY_Orbach/status/2095597560253862065) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
+
+### Tek seferde Minecraft tarzı dünya
+
+[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="Tek seferde Minecraft tarzı dünya"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tek seferde Minecraft'tan esinlenen oynanabilir bir voksel dünyası oluştur. Arazi üretimi, blok yerleştirme ve kırma, birinci şahıs kontrolleri, envanter, aydınlatma, su ve kompakt bir hayatta kalma döngüsü ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Orijinal gönderi](https://x.com/flavioAd/status/2095597137849446688) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="open-world-browser-adventure-2095596341422440714"></a>
+
+### Tarayıcıda açık dünya macerası
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="Tarayıcıda açık dünya macerası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Birbirine bağlı çeşitli biyomları, dolaşımı, keşifleri, hafif çatışmaları, görevleri, önemli yerleri ve gece-gündüz atmosferi olan açık dünya 3B macerası oluştur. Keşfin amaçlı hissettirmesi için yeterli yönlendirme sağla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Orijinal gönderi](https://x.com/petergostev/status/2095596341422440714) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
+
+### Unreal'da kendi kendine hayatta kalan insan toplumu
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Unreal'da kendi kendine hayatta kalan insan toplumu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Unreal Engine'de otonom insan ajanlarının yaşadığı bir dünya oluştur. Her birine bireysel ihtiyaçlar ve ortak bir hayatta kalma amacı ver; iletişim kurmaları, işleri paylaşmaları, barınak yapmaları ve oyuncu ayrıldığında toplumu yaşatmaları gereksin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095596175705399482) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="arcadia-base-on-mars-2095595678214873212"></a>
+
+### Mars'ta Arcadia Üssü
+
+[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="Mars'ta Arcadia Üssü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+İnen uzay araçları, inşaat robotları, gezgin araçlar, enerji depolama, oksijen ve su sistemleri olan oynanabilir voksel Mars kolonisi kur. Toz fırtınaları ve elektrik kesintileri koloniyi etkilesin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [Orijinal gönderi](https://x.com/knowixbuilds/status/2095595678214873212) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="three-themed-kart-games-from-one-greybox-2095580402505400369"></a>
 
 ### Tek kaba prototipten üç temalı kart yarışı
@@ -891,206 +1091,6 @@ Alacakaranlıkta ışıldayan kanyon üzerinde süzülen antik tapınağı prose
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [Orijinal gönderi](https://x.com/pradeepXkapoor/status/2095012880383099339) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-toronto-skyline-2095000329561485584"></a>
-
-### Etkileşimli Toronto silüeti
-
-[Kevin](https://x.com/bienjamyn) · 2026-09-02 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-toronto-skyline-2095000329561485584"><img src="../assets/previews/bef311e9c34b21d4ea7564dcb333b455bcf9e6d3639b42a775a16f0129f5f8b8.webp" width="840" loading="lazy" alt="Etkileşimli Toronto silüeti"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tanınabilir simgeler, su, atmosferik derinlik, gündüzden geceye ışık ve akıcı yörünge ve uçuş kontrolleriyle etkileşimli bir 3B Toronto silüeti oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-toronto-skyline-2095000329561485584) · [Orijinal gönderi](https://x.com/bienjamyn/status/2095000329561485584) · [Canlı demo](https://toronto-voxel.vercel.app/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="autonomous-sims-like-life-simulation-2094949450196090988"></a>
-
-### The Sims tarzı otonom yaşam simülasyonu
-
-[Ridark](https://x.com/ridark_eth) · 2026-09-02 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988"><img src="../assets/previews/75063ba9f199aff5faed7420ab575b306bd749b3559de8f878632df397ccb858.webp" width="840" loading="lazy" alt="The Sims tarzı otonom yaşam simülasyonu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-İhtiyaçları, rutinleri, ilişkileri ve kararları oyuncunun sürekli müdahalesi olmadan kendiliğinden hikâyeler oluşturan beş otonom karakterle The Sims tarzı yaşam simülasyonu yap.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/autonomous-sims-like-life-simulation-2094949450196090988) · [Orijinal gönderi](https://x.com/ridark_eth/status/2094949450196090988) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="voxel-village-with-thinking-npcs-2094930970675741171"></a>
-
-### Düşünen NPC'lerle voksel köy
-
-[Tech2Wild](https://x.com/Tech2Wild) · 2026-09-01 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171"><img src="../assets/previews/974d4c7d84097af10f8cd20d5d3c871e5bab197d946f589feca62acd4faa8455.webp" width="840" loading="lazy" alt="Düşünen NPC'lerle voksel köy"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Sakinlerinin işi, rutini, hafızası ve yerel dil modeli beyinleri olan bir voksel köy oluştur. Oyuncuya ve birbirlerine tepki verebilsinler.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/voxel-village-with-thinking-npcs-2094930970675741171) · [Orijinal gönderi](https://x.com/Tech2Wild/status/2094930970675741171) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="fantasy-ascent-to-mount-fuji-2094930804296274414"></a>
-
-### Fuji Dağı'na fantastik tırmanış
-
-[Techartist](https://x.com/techartist_) · 2026-09-01 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414"><img src="../assets/previews/5a0525135a25d7094cac3c8a1632a12b7147aaf4d967d86191b0aab848dfc692.webp" width="840" loading="lazy" alt="Fuji Dağı'na fantastik tırmanış"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Oyuncuyu katmanlı ortamlardan Fuji Dağı zirvesine götüren güzel bir Three.js fantastik yolculuğu oluştur. Atmosferik ışık, dolaşım ve açık bir yükseliş hissi ver.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/fantasy-ascent-to-mount-fuji-2094930804296274414) · [Orijinal gönderi](https://x.com/techartist_/status/2094930804296274414) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="godot-racing-game-built-from-scratch-2094925359372284022"></a>
-
-### Sıfırdan Godot yarış oyunu
-
-[atomic.chat](https://x.com/atomic_chat_hq) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022"><img src="../assets/previews/fb70f118a60a87d8b99b4707a1a06a1bf825bdf6efe4722966e954adfde6bf5f.webp" width="840" loading="lazy" alt="Sıfırdan Godot yarış oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Sıfırdan bir Godot yarış oyunu yap. Araç ve çevre varlıkları için Blender kullan; geniş parkur, tatmin edici sürüş, rakipler, HUD ve yarış akışı uygula.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/godot-racing-game-built-from-scratch-2094925359372284022) · [Orijinal gönderi](https://x.com/atomic_chat_hq/status/2094925359372284022) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="floor-plan-to-blender-walkthrough-2094925117344428232"></a>
-
-### Kat planından Blender gezintisine
-
-[AGIラボ](https://x.com/ctgptlb) · 2026-09-01 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232"><img src="../assets/previews/378a03d3cd1c95f97f8e0d77b92491a424ae3aef5055dbd9aecf23abf408dc95.webp" width="840" loading="lazy" alt="Kat planından Blender gezintisine"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen kat planından doğru bir Blender 3B modeli oluştur, temsilî sabit görüntüler render et ve tutarlı bir gezinti videosu üret.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/floor-plan-to-blender-walkthrough-2094925117344428232) · [Orijinal gönderi](https://x.com/ctgptlb/status/2094925117344428232) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="deterministic-136-000-voxel-pagoda-2094916609219461211"></a>
-
-### 136.000 vokselli deterministik pagoda
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-09-01 · Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211"><img src="../assets/previews/5f6a8e2c47e18b32228a30647a33403b7a981de34409e709fb3db9f971cd8fe7.webp" width="840" loading="lazy" alt="136.000 vokselli deterministik pagoda"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de anlaşılır mimari katmanları, verimli örneklemesi, kararlı çıktısı ve inceleme kamerası olan 136.000 vokselli deterministik bir pagoda üret.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/deterministic-136-000-voxel-pagoda-2094916609219461211) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2094916609219461211) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="detailed-robot-through-blender-automation-2094909825561805003"></a>
-
-### Blender otomasyonuyla ayrıntılı robot
-
-[Spectro](https://x.com/Spectromachina) · 2026-09-01 · Claude Fable 5.1 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003"><img src="../assets/previews/cc82b31325f194335c6a876aa83404dd10829652fc0cf8dc42009018a57acf0c.webp" width="840" loading="lazy" alt="Blender otomasyonuyla ayrıntılı robot"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da tutarlı oranları, eklemleri, panelleri, malzemeleri, ışığı ve sunum render'ı olan ayrıntılı bir sert yüzey robotu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/detailed-robot-through-blender-automation-2094909825561805003) · [Orijinal gönderi](https://x.com/Spectromachina/status/2094909825561805003) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="open-world-crime-game-prototype-2094907986942591338"></a>
-
-### Açık dünya suç oyunu prototipi
-
-[Veee](https://x.com/vikktorrrre) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/open-world-crime-game-prototype-2094907986942591338"><img src="../assets/previews/281c81a484779476393d8b3f1b306d46f8e73dffdfeb616a7bc07ff8ce0f6e9b.webp" width="840" loading="lazy" alt="Açık dünya suç oyunu prototipi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-GTA 6'dan esinlenen, yoğun şehir, yaya dolaşımı, sürülebilir araçlar, trafik, polis tepkisi ve çeşitli oynanabilir etkinlikler içeren açık dünya prototipi hazırla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/open-world-crime-game-prototype-2094907986942591338) · [Orijinal gönderi](https://x.com/vikktorrrre/status/2094907986942591338) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="mini-militia-style-browser-game-2094900523900219725"></a>
-
-### Mini Militia tarzı tarayıcı oyunu
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-01 · Claude Fable 5.1 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/mini-militia-style-browser-game-2094900523900219725"><img src="../assets/previews/a72fb4b678a92d881096fcc6a02adc888425ee7da10d568b65ef164adc8b70c3.webp" width="840" loading="lazy" alt="Mini Militia tarzı tarayıcı oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tepkili hareket, nişan alma, silahlar, kompakt arenalar, botlar ve anlık vuruş ve hasar geri bildirimi olan Mini Militia tarzı aksiyon oyunu yap.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mini-militia-style-browser-game-2094900523900219725) · [Orijinal gönderi](https://x.com/0x0SojalSec/status/2094900523900219725) · [Örneklere dön](#all-prompts)
 
 ---
 

@@ -28,6 +28,16 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Macchina meccanica di Rube Goldberg in Blender](#claude-opus-5-5-2104953406708175097)
+- [Realizza un gioco di corse in stile Mario Kart con 3JS](#claude-opus-5-5-2104947552328261810)
+- [Pianeta 3D interattivo in stile cartone animato](#claude-opus-5-5-2104919117262389255)
+- [Video di motion graphics 3D brandizzato di 30 secondi](#claude-opus-5-5-2104896325255037196)
+- [Occhio umano 3D altamente dettagliato](#gpt-6-astra-2104841727496323479)
+- [ATLANTE DELLA TERRA: IL PIANETA VIVENTE](#claude-opus-5-5-2104837836507955401)
+- [Laboratorio interattivo per la simulazione di una linea di produzione seriale](#claude-opus-5-5-2104831049020674144)
+- [Auto sportiva trasformabile con vista esplosa a raggi X](#gpt-6-astra-2104654448878387313)
+- [Giro in barca interattivo nella giungla al chiaro di luna](#gpt-6-astra-2104613125093998674)
+- [Rappresentazione 3D interattiva ed educativa di CRISPR](#gpt-6-astra-2104605522640970208)
 - [Gancio a J stampabile in 3D per una prova di resistenza](#gpt-6-astra-2104590493191479337)
 - [Architettura ambulante](#claude-opus-5-5-2104590334152056983)
 - [Picchiaduro pixel art giocabile nell’antica Roma](#claude-opus-5-5-2104571944842498150)
@@ -68,18 +78,585 @@
 - [Crea la Torre Eiffel in Three.js](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — Artiglieria 3D sulle isole](#crazy-tanks-3d-island-artillery)
 - [Animazione Three.js di livello Pixar per Grid Genius](#claude-opus-5-5-2103087766662009118)
-- [Gioco di ciclismo in 3D del pellicano, in tempo reale](#claude-opus-5-5-2103083781490176212)
-- [Fetta di agrume gommosa 3D interattiva](#gpt-6-astra-2103062348168618280)
-- [Costruisci una città imperiale](#claude-opus-5-5-2103046279253168554)
-- [Codex voxel in Three.js](#gpt-6-astra-2102956340482289944)
-- [Scena HTML interattiva di un falò nel deserto, iperrealistica](#gpt-6-astra-2102915300295369208)
-- [Simulatore di hamburger in prima persona](#gpt-6-astra-2102897258983313712)
-- [Crea una Bugatti Chiron Super Sport in Three.js](#claude-opus-5-5-2102828216289566725)
-- [Shader di una città solarpunk infinita](#gpt-6-astra-2102826333550133520)
-- [Montaggio dell’allenamento e della crescita di Claude](#claude-opus-5-5-2102788371114246177)
-- [Crea un’animazione cartoon anni ’90 di livello Pixar con Three.js](#claude-opus-5-5-2102788223835463902)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Macchina meccanica di Rube Goldberg in Blender
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Macchina meccanica di Rube Goldberg in Blender"></a>
+
+**Prompt**
+
+```text
+Crea una macchina meccanica di Rube Goldberg in Blender. Usa ingranaggi, rampe, palline e piattaforme mobili. Costruiscila proceduralmente, ispeziona la scena dopo ogni passaggio importante e correggi i problemi evidenti della geometria.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104953406708175097) · [Post originale](https://x.com/Kwazikot/status/2104953406708175097) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### Realizza un gioco di corse in stile Mario Kart con 3JS
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="Realizza un gioco di corse in stile Mario Kart con 3JS"></a>
+
+**Prompt**
+
+```text
+Ho bisogno che tu avvii cinque sub-agenti (Model) e mi aiuti a realizzare un gioco di qualità tripla A, ovvero un clone di Mario Kart. Voglio che tu avvii questi sub-agenti, costruisca il gioco senza farmi alcuna domanda e utilizzi 3JS per realizzarlo. Una volta terminato, comunicami il completamento.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104947552328261810) · [Post originale](https://x.com/EnvolDev/status/2104947905442505205) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Pianeta 3D interattivo in stile cartone animato
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Pianeta 3D interattivo in stile cartone animato"></a>
+
+**Prompt**
+
+```text
+Genera un pianeta 3D in ThreeJS, in stile cartone animato e fumettistico, pieno di elementi vivaci: nuvole, montagne, edifici cittadini, automobili e un aereo che lo sorvola. Deve essere possibile orbitare attorno al pianeta, usare lo zoom e osservare i dettagli. Non utilizzare alcun harness.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104919117262389255) · [Post originale](https://x.com/mdaman010/status/2104919846953869421) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### Video di motion graphics 3D brandizzato di 30 secondi
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="Video di motion graphics 3D brandizzato di 30 secondi"></a>
+
+**Prompt**
+
+```text
+Crea per https://t.co/71rvEGmB6D uno straordinario video di motion graphics di 30 secondi, con la qualità dello showreel di un motion designer d’élite. Studia prima il sito web e usa il brand reale, l’interfaccia del prodotto, i colori e i messaggi. Usa tipografia d’impatto, animazione 3D, interfacce animate, transizioni rapide e una forte rivelazione del logo.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104896325255037196) · [Post originale](https://x.com/TawohAwa/status/2104896328300134868) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104841727496323479"></a>
+
+### Occhio umano 3D altamente dettagliato
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29 · GPT-6 Astra · Asset
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/a8d15991fe8e3d161999a93d81d230d3e8bfab617616410a063b4a6e1e1e9e12.webp" width="840" loading="lazy" alt="Occhio umano 3D altamente dettagliato"></a>
+
+**Prompt**
+
+```text
+Crea un file locale HTML/CSS/JS usando Three.js. Realizza un modello 3D altamente dettagliato di un occhio umano, con l’aspetto di una fotografia macro di un occhio reale. Tutto deve essere creato da zero.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model of a human eye that looks like a macro photograph of a real eye. Everything must be created from scratch.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104841727496323479) · [Post originale](https://x.com/SimonasLTU1/status/2104841727496323479) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### ATLANTE DELLA TERRA: IL PIANETA VIVENTE
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="ATLANTE DELLA TERRA: IL PIANETA VIVENTE"></a>
+
+**Prompt**
+
+```text
+Crea un'esperienza SVG interattiva straordinaria intitolata “ATLANTE DELLA TERRA: IL PIANETA VIVENTE”. Costruisci un osservatorio completo e profondamente esplorabile sulle scienze della Terra in UN SOLO file HTML autosufficiente. Devo poter incollare l'intero output in un file, aprirlo direttamente in Chrome e utilizzarlo senza server né connessione di rete. Usa le librerie che ritieni utili, ma includi tutto il codice di runtime necessario e tutti i dati selezionati nello stesso file HTML. Il globo, le mappe regionali, il terreno, i fondali marini, le sezioni, gli strumenti, i grafici, le annotazioni e le illustrazioni ravvicinate devono essere rappresentati principalmente in SVG.
+
+Restituisci SOLTANTO l'HTML completo e funzionante in UN SOLO blocco di codice.
+
+L'AMBIZIONE
+
+Crea una qualità visiva degna di una mostra di punta della NASA sulle scienze della Terra, combinata con la profondità di un atlante interattivo. Il visitatore inizia in orbita davanti a una magnifica Terra. Può ruotare il globo, spostarsi tra luce diurna e oscurità, scegliere un luogo reale, ingrandirne la geografia, tracciare una transezione, scendere attraverso la superficie o l'oceano e capire come quella posizione si inserisca nel pianeta nel suo insieme.
+
+L'esperienza deve ricompensare dieci minuti di esplorazione. Deve contenere rivelazioni sorprendenti, interazioni precise e viste collegate, non soltanto un globo rotante con popup informativi. La prima schermata deve essere abbastanza bella da funzionare come illustrazione scientifica autonoma.
+
+UN VERO SISTEMA DI ESPLORAZIONE MULTISCALA
+
+Costruisci una gerarchia di scale progettata ad hoc:
+
+1. TERRA ORBITALE — il globo completo, l'atmosfera, il confine giorno-notte, le grandi forme geografiche e le sovrapposizioni globali.
+2. CONTINENTALE — coste riconoscibili, rilievo, fiumi principali, bacini oceanici e alcune caratteristiche scientifiche selezionate.
+3. REGIONALE — terreno dettagliato, batimetria, curve di livello, etichette e strumenti di misurazione.
+4. SCENA LOCALE — un paesaggio o ambiente oceanico riccamente illustrato, specifico del luogo selezionato.
+5. VISTA IN SEZIONE — una sezione trasversale collegata geograficamente attraverso terra, ghiaccio, oceano o crosta.
+6. VISTA DETTAGLIO — esame ravvicinato di una caratteristica come uno strato di ghiaccio glaciale, un alveo fluviale, una faglia, un banco sedimentario o una formazione del fondale marino.
+
+Ogni livello di zoom deve rivelare nuovi dettagli SVG appositamente realizzati e appropriati alla rispettiva scala. Non limitarti a ingrandire la stessa geometria a bassa risoluzione finché non rimane vuota.
+
+Conserva l'identità geografica durante le transizioni. Un punto selezionato sul globo deve corrispondere alla mappa regionale, alla scena locale, alla relativa transezione e alla sezione.
+
+Implementa lo zoom verso il puntatore, la rotazione del globo tramite trascinamento, la panoramica delle viste regionali tramite trascinamento, lo zoom pinch, la navigazione da tastiera e i comandi Indietro, Home e Reimposta vista. Mantieni il movimento della videocamera entro limiti definiti e rendilo fluido. Mostra una barra della scala discreta e il breadcrumb della posizione. L'interazione manuale deve interrompere con eleganza qualsiasi percorso automatico della videocamera.
+
+DIREZIONE VISIVA
+
+Fai della Terra l'elemento visivo dominante.
+
+Usa blu oceano profondo, turchese delle acque basse, verdi variabili della vegetazione, ocra desertico, antracite vulcanico, grigi minerali, bianco glaciale e sottili linee di annotazione bianco caldo.
+
+Costruisci un volume planetario convincente attraverso la geometria proiettata delle coste, l'illuminazione variabile, gli effetti di diffusione atmosferica, gli strati di nubi e un trattamento delle luci notturne attentamente controllato, basato su una fonte datata appropriata e incorporata nel file.
+
+Usa un tratto cartografico preciso, curve di livello eleganti, motivi materici discreti, ombreggiature di profondità leggibili e sottili linee di richiamo. Fai comparire le informazioni quando sono utili al livello di zoom corrente, invece di ricoprire il globo di etichette.
+
+L'interfaccia deve ricordare uno strumento scientifico raffinato. Evita card generiche da dashboard, neon eccessivo e grandi pannelli di testo fluttuanti.
+
+TERRA GLOBALE
+
+Fornisci un globo SVG ruotabile con proiezione geografica e gestione delle coordinate coerenti. Mentre il globo ruota, proietta correttamente forme del territorio, elementi oceanici, etichette, indicatori selezionati, percorsi e terminatore. Nascondi la geometria sul lato opposto invece di disegnarla attraverso il pianeta.
+
+Includi sovrapposizioni attivabili per:
+
+• Rilievo fisico.
+• Profondità oceanica e struttura del fondale marino.
+• Fiumi principali e bacini idrografici.
+• Confini delle placche.
+• Alcuni eventi sismici storici selezionati da un campione datato incorporato.
+• Reticolo di latitudine e longitudine.
+• Campioni datati di osservazione della Terra, solo dove i dati incorporati lo consentono.
+• Vista cinematografica pulita.
+
+Ogni sovrapposizione deve usare lo stesso sistema di coordinate. Includi fonte, data, risoluzione, unità e legenda.
+
+Non chiamare “in tempo reale” o “attuale” alcun livello quando il file utilizza un'istantanea incorporata.
+
+SEI SPEDIZIONI COMPLETAMENTE PROGETTATE
+
+Costruisci esperienze complete e distinte per:
+
+HIMALAYA
+Catene montuose stratificate, valli, ghiacciai, un profilo altimetrico regionale basato su una fonte e una sezione attraverso il terreno visivamente chiara.
+
+BACINO AMAZZONICO
+Struttura fluviale riconoscibile, pianura alluvionale e affluenti, una sezione trasversale illustrata della foresta e una dimostrazione didattica del percorso dell'acqua.
+
+SAHARA
+Dune, terreno roccioso, alvei asciutti, materiali di superficie distinti e una transezione del terreno. Distingui i dettagli illustrati delle dune dall'elevazione su larga scala basata su una fonte.
+
+RIFT DELL'AFRICA ORIENTALE
+Laghi e terreno regionali, una sezione trasversale orientata sulla faglia e una dimostrazione tettonica concettuale chiaramente etichettata.
+
+REGIONE DELLA FOSSA DELLE MARIANNE
+Superficie oceanica, geometria della piattaforma continentale e dell'oceano profondo dove appropriato alla transezione scelta, un profilo di profondità trascinabile, una discesa attraverso la colonna d'acqua e una scena illustrata dettagliata del fondale marino.
+
+ANTARTIDE
+Superficie ghiacciata, contesto del ghiaccio e del terreno basato su una fonte quando disponibile, un'interpretazione in sezione e una dimostrazione della luce solare stagionale.
+
+Per ogni spedizione fornisci:
+
+• Una forte composizione iniziale progettata ad hoc.
+• Posizionamento corretto sul globo.
+• Una mappa regionale.
+• Almeno una scena locale.
+• Almeno una sezione trasversale o un profilo collegato.
+• Un'interazione unica e funzionante.
+• Un ritorno fluido all'orbita.
+
+Non riutilizzare un generico disegno di montagna, foresta, deserto o oceano come sostituto dell'identità geografica.
+
+CINQUE MODALITÀ DI VISTA COLLEGATE
+
+SUPERFICIE
+Esplora topografia, caratteristiche del terreno, fiumi, ghiaccio e coste con dettagli dipendenti dallo zoom.
+
+SOPRA
+Esplora luce solare, geometria stagionale, atmosfera e qualsiasi osservazione datata incorporata. Se nuvole o condizioni meteorologiche sono illustrative, indicano che si tratta di uno scenario illustrativo.
+
+SOTTO
+Apri una sezione attraverso terreno, ghiaccio, crosta o oceano lungo la transezione geografica selezionata.
+
+PIANETA
+Allontanati fino a una sezione globale che mostri come il punto selezionato si rapporta agli strati della Terra. Mostra la posizione corrispondente del luogo selezionato sul globo e nella sezione.
+
+EVIDENZE
+Rivela il campione di dati, la fonte, la data, la risoluzione, l'incertezza o il limite noto e il calcolo alla base della caratteristica o della misurazione selezionata.
+
+Il cambio di modalità deve conservare la posizione selezionata, il contesto di zoom quando sensato e lo stato della timeline.
+
+STRUMENTI DI ESPLORAZIONE COLLEGATI
+
+MISURA
+Seleziona due punti sul globo o su una mappa regionale supportata. Traccia il percorso ortodromico, mostra coordinate e distanza e mantieni il percorso correttamente proiettato durante la rotazione del globo.
+
+TRANSEZIONE
+Disegna o modifica una linea attraverso una regione supportata. Campiona i dati incorporati di elevazione o batimetria per produrre un profilo. Spostare un cursore sulla mappa deve spostare il relativo cursore sul profilo e nella vista in sezione.
+
+CONFRONTA
+Posiziona due luoghi selezionati uno accanto all'altro. Usa unità corrispondenti e controlli espliciti della scala. Confronta elevazione o profondità, latitudine, contesto regionale e dati ambientali supportati.
+
+TEMPO E LUCE SOLARE
+Scorri l'ora del giorno e il giorno dell'anno. Aggiorna l'illuminazione globale e la geometria stagionale del sole con un modello documentato. Mantieni le condizioni meteorologiche illustrative indipendenti da questo orologio.
+
+SPEDIZIONE GUIDATA
+Offri un breve percorso cinematografico attraverso i sei ambienti. Ogni tappa deve rivelare un'interazione, non limitarsi a mostrare una didascalia. Il tour deve poter essere saltato.
+
+DENSITÀ DELLE ANNOTAZIONI
+Passa tra livelli di etichette cinematografico, guidato e tecnico senza modificare la geografia sottostante.
+
+ESPLORAZIONE DELL'OCEANO
+
+Tratta il fondale marino come un paesaggio completo.
+
+Rivela piattaforme continentali, scarpate, regioni abissali, dorsali e fosse dove supportato dal campione di rilievo incorporato. Usa una scala verticale esplicita ed etichetta ogni esagerazione.
+
+Nella spedizione della Fossa delle Marianne, consenti al visitatore di scendere attraverso la colonna d'acqua. Aggiorna insieme profondità, luce, colore, stima della pressione secondo un modello semplificato dichiarato e cursore della posizione.
+
+Il dettaglio ravvicinato del mare profondo può contenere forme di vita e geologia illustrate di grande impatto, ma gli organismi precisi e il microterreno devono essere identificati come interpretazione. La batimetria basata su fonti e lo scenario locale illustrato devono rimanere distinguibili.
+
+L'INTERNO DELLA TERRA
+
+Fornisci un cursore di sezione da 0 a 100% che riveli gradualmente crosta, mantello, nucleo esterno e nucleo interno. Il globo deve rimanere visivamente coerente nelle posizioni intermedie del cursore.
+
+Mostra la posizione geografica selezionata sulla superficie esterna e una guida radiale allineata verso l'interno.
+
+Includi una dimostrazione didattica delle onde sismiche con un modello semplificato dichiarato chiaramente. I percorsi delle onde, gli indicatori in movimento e i dati temporali visualizzati devono derivare dallo stesso stato della dimostrazione.
+
+Indica esplicitamente lo spessore esagerato degli strati, i colori dei materiali o il tempo compresso.
+
+TRE ESPERIMENTI SCIENTIFICI INTERATTIVI
+
+1. LABORATORIO DELLA LUCE SOLARE
+Scegli due latitudini e confronta il percorso solare giornaliero modellato e la durata della luce diurna durante l'anno. Collega i diagrammi al globo illuminato.
+
+2. LABORATORIO DEL RILIEVO E DEL LIVELLO DEL MARE
+In una regione costiera supportata, regola un livello dell'acqua ipotetico e confrontalo con il profilo altimetrico incorporato. Etichetta l'esperimento come dimostrazione topografica statica; non presentarlo come previsione di un'inondazione costiera.
+
+3. LABORATORIO DEI PERCORSI SISMICI
+Scegli punti sorgente e di osservazione per una dimostrazione didattica semplificata delle onde. Mostra i percorsi e i tempi di arrivo relativi secondo il modello dichiarato. Mantieni gli indicatori dei terremoti storici separati dall'esperimento ipotetico.
+
+Ogni esperimento deve avere i comandi Reimposta, input riproducibili, unità coerenti e un collegamento chiaro al globo o al luogo selezionato.
+
+DATI E RIGORE SCIENTIFICO
+
+Usa fonti autorevoli e citate per le affermazioni numeriche e i campioni incorporati. Tra le fonti appropriate rientrano NASA Earthdata per osservazioni datate selezionate, NOAA ETOPO per il rilievo terrestre e oceanico e USGS per alcuni archivi storici di terremoti.
+
+Usa dati selezionati e sottocampionati che possano essere contenuti in un unico file HTML. Mostra la risoluzione effettivamente incorporata. Non dichiarare mai che un'illustrazione regionale abbia la precisione del dataset di origine quando i suoi dettagli sono stati realizzati o semplificati ad hoc.
+
+Mantieni visibili tre categorie:
+
+DATI OSSERVATI — una misurazione basata su una fonte o un campione di dataset pubblicato.
+VALORE DERIVATO — calcolato a partire da input nominati e da un metodo ispezionabile.
+ILLUSTRAZIONE O ESPERIMENTO — scenario realizzato ad hoc o modello ipotetico.
+
+Non inventare elevazioni o profondità precise, posizioni di terremoti, configurazioni di nubi in tempo reale o valori ambientali misurati.
+
+Includi un pannello Fonti e metodi con link, versioni e date dei dataset, sistema di riferimento delle coordinate, unità, metodo di sottocampionamento, equazioni, incertezze o limiti e attribuzione.
+
+Usa una convenzione coerente per latitudine e longitudine in ogni caratteristica. Mantieni separati le coordinate geografiche, le misurazioni fisiche e la geometria di visualizzazione esagerata.
+
+PICCOLI DETTAGLI E RIVELAZIONI VISIVE
+
+Includi scoperte coreografate con cura:
+
+• Transizioni dall'orbita alla regione che mantengano il punto scelto nel campo visivo.
+• Curve di livello ed etichette che emergano solo quando il visitatore raggiunge la scala in cui sono utili.
+• Un fiume che rimanga riconoscibile dalla mappa globale al bacino locale.
+• Un cursore dell'elevazione che si muova in sincronia sulla mappa, sul profilo e nel paesaggio.
+• Una costa che si trasformi visivamente quando viene attivato il livello batimetrico.
+• Strati di ghiaccio che si rivelino progressivamente nella sezione dell'Antartide.
+• Una discesa nell'oceano profondo in cui il fondale emerga gradualmente, invece di apparire con un cambio di scena improvviso.
+• Una sezione dal globo all'interno che conservi la posizione geografica selezionata.
+• Un terminatore variabile che porti la spedizione scelta alla luce del giorno o nella notte.
+• Una rivelazione delle evidenze che colleghi un elemento visivo suggestivo ai dati o al modello che lo sostiene.
+
+Dai priorità ai dettagli che arricchiscono l'esplorazione rispetto alle particelle decorative.
+
+PRESTAZIONI E VERIFICA
+
+Usa un scene graph SVG delimitato, simboli riutilizzabili, clipping, maschere e rendering dipendente dallo zoom. Evita di mantenere attive tutte e sei le scene ad alta definizione quando ne è visibile soltanto una.
+
+Supporta computer desktop, dispositivi touch, navigazione da tastiera, focus visibile e preferenze per la riduzione dei movimenti.
+
+Verifica che:
+
+• Ogni luogo in evidenza sia posizionato correttamente dal punto di vista geografico.
+• Gli elementi sul lato nascosto del globo siano effettivamente nascosti.
+• I percorsi rimangano ancorati alle rispettive coordinate durante la rotazione.
+• Le distanze misurate utilizzino le coordinate selezionate.
+• I valori delle transezioni provengano dai campioni incorporati.
+• I cursori di mappa, profilo e sezione rimangano sincronizzati.
+• Reimposta riporti gli esperimenti allo stato iniziale.
+• I controlli temporali modifichino il modello previsto senza alterare silenziosamente dati non correlati.
+• Le etichette di fonte e data corrispondano ai livelli incorporati.
+
+Mostra i risultati effettivi di qualsiasi controllo automatizzato. Non codificare una fila di etichette “superato”.
+
+Fai funzionare per tutte e sei le spedizioni il percorso completo dal globo alla scena locale e alla sezione. Se l'ambito dell'implementazione impone un compromesso, completa questo percorso collegato e gli strumenti scientifici essenziali prima di aggiungere effetti visivi opzionali.
+
+CONSEGNA FINALE
+
+Il risultato finito deve dare la sensazione di un pianeta esplorabile contenuto in un unico file: spettacolare dall'orbita, gratificante a distanza ravvicinata e chiaro nel distinguere ciò che è osservato, calcolato o illustrato.
+
+Restituisci SOLTANTO UN BLOCCO di codice contenente l'INTERO documento HTML funzionante, che inizi con <!DOCTYPE html>.
+
+Devo poterlo incollare in un unico file .html, aprirlo in Chrome, ruotare e ingrandire la Terra, entrare in una qualsiasi delle sei spedizioni, tracciare una transezione collegata, esplorare l'oceano e l'interno, confrontare le posizioni, eseguire i tre esperimenti, consultare le fonti e tornare fluidamente all'orbita.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104837836507955401) · [Post originale](https://x.com/Gdgtify/status/2104837836507955401) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Laboratorio interattivo per la simulazione di una linea di produzione seriale
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Laboratorio interattivo per la simulazione di una linea di produzione seriale"></a>
+
+**Prompt**
+
+```text
+Crea una simulazione animata e interattiva a eventi discreti di una linea di produzione seriale in un unico file HTML autonomo (JavaScript vanilla + Canvas, senza librerie esterne, ad eccezione di Chart.js da cdnjs). Obiettivo: insegnare agli studenti di [Sistemi di produzione] in che modo variabilità, buffer e guasti influenzano le prestazioni della linea.
+
+CONFIGURAZIONE DELLA LINEA (modificabile dall’utente)
+- Numero di stazioni: [2–6], valore predefinito [3], ciascuna con un nome (ad es. Lavorazione meccanica, Assemblaggio, Ispezione)
+- Per ogni stazione: tempo di ciclo medio, distribuzione (Deterministica, Uniforme, Normale, Triangolare, Esponenziale, Lognormale), CV
+- Guasti per stazione: MTBF e MTTR (esponenziali), attivabili/disattivabili
+- Qualità per stazione: tasso di difettosità (%), con opzione di scarto o ciclo di rilavorazione
+- Buffer tra le stazioni: capacità 0–10 (0 = blocco dopo il servizio)
+- Arrivi: materia prima illimitata OPPURE arrivi Poissoniani con tasso λ
+- Domanda dei clienti per calcolare il takt time
+
+ANIMATION
+- I pezzi si spostano lungo i trasportatori e cambiano colore in base alla fase (materia prima, WIP, prodotto finito, scarto)
+- I bordi delle macchine mostrano colori di stato: In lavorazione (verde), Bloccata (ambra), In attesa di materiale (rosso), Guasta (grigio), oltre a un’icona di ingranaggio rotante e una barra di avanzamento
+- Gli slot dei buffer mostrano il livello di occupazione e si evidenziano quando sono pieni
+- Controlli: Play/Pausa, Passo, Reimposta, velocità 1x–50x, periodo di warm-up
+
+INDICATORI CHIAVE DI PERFORMANCE (dashboard in tempo reale)
+1. Throughput (pezzi/ora) rispetto al tasso teorico del collo di bottiglia
+2. WIP medio e WIP nel tempo
+3. Tempo di attraversamento / lead time di produzione (media e 95° percentile)
+4. Verifica della legge di Little: WIP ≈ Throughput × Tempo di attraversamento
+5. Utilizzo per stazione con suddivisione temporale: in lavorazione / bloccata / in attesa / guasta (barra impilata)
+6. OEE per stazione = Disponibilità × Performance × Qualità
+7. Rilevamento del collo di bottiglia (metodo del periodo attivo) ed evidenziazione del collo di bottiglia
+8. Takt time rispetto ai tempi di ciclo delle stazioni (grafico del bilanciamento della linea)
+9. Efficienza del bilanciamento della linea = Σ tempi di ciclo / (N × tempo di ciclo massimo)
+10. First-pass yield, rolled throughput yield, conteggio degli scarti
+11. Occupazione media di ciascun buffer
+12. Media osservata del tempo di ciclo e CV rispetto ai valori impostati, per stazione
+
+FUNZIONALITÀ DI ANALISI
+- Modalità repliche: esegui N repliche della durata T dopo il warm-up e riporta media ± intervallo di confidenza del 95% per throughput, WIP e tempo di attraversamento
+- Modalità esperimento: varia la dimensione del buffer (oppure il CV di una stazione) e traccia il throughput rispetto al parametro
+- Esporta i risultati in CSV
+- Scenari preimpostati: Linea bilanciata, Collo di bottiglia evidente, Alta variabilità, Macchina inaffidabile
+
+DESIGN
+- Layout pulito e responsive, ottimizzato per i dispositivi mobili; modalità chiara/scura
+- Breve tooltip che spiega ogni KPI e la relativa formula
+- Etichette bilingui (inglese/arabo) con interruttore
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2104831049020674144) · [Post originale](https://x.com/am_alahmari/status/2104831051776335994) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104654448878387313"></a>
+
+### Auto sportiva trasformabile con vista esplosa a raggi X
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/3fa857730ce8039496b8b01f642a8505efb6a54c987d4daeef4ff2eecbb8536d.webp" width="840" loading="lazy" alt="Auto sportiva trasformabile con vista esplosa a raggi X"></a>
+
+**Prompt**
+
+```text
+Crea un’auto sportiva dettagliata che si trasformi in un robot umanoide, con una modalità a raggi X e una vista esplosa interattiva
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Build a detailed sports car that transforms into a humanoid robot, with an x-ray mode and interactive exploded view
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104654448878387313) · [Post originale](https://x.com/marcthecreatorr/status/2104654448878387313) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104613125093998674"></a>
+
+### Giro in barca interattivo nella giungla al chiaro di luna
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/83fd1b0bc5c59fc47bde6031430727ee471bb67225d1b3086b732393fb4c3beb.webp" width="840" loading="lazy" alt="Giro in barca interattivo nella giungla al chiaro di luna"></a>
+
+**Prompt**
+
+```text
+Crea un giro in barca Three.js a schermo intero e adattivo, ambientato in uno stretto corso d’acqua nella giungla. Usa una telecamera in terza persona che segue una barca a remi in legno vuota, con prua appuntita, fiancate larghe, poppa piatta, pagliolato e sedili visibili, senza remi, con interno asciutto e scafo leggermente immerso nell’acqua. Permetti agli utenti di governarla con i tasti WASD o le frecce e con i comandi touch. Rendi la scena notturna e mistica: alberi realistici, scuri e verde intenso, densi e vari, su entrambe le sponde, vento leggero, una luna piena dettagliata e riflessi frammentati della luce lunare sull’acqua animata. Usa onde in movimento convincenti, riflessi deformati della barca e degli alberi e una scia che segua il percorso della barca e svanisca naturalmente, senza segni luminosi fissi né bordi circolari netti. Aggiungi un selettore meteo per notte al chiaro di luna, alba calda e pioggia coperta; in modalità pioggia, mostra gocce in caduta e piccole increspature d’impatto di breve durata, modellate dalle onde dell’acqua. Aggiungi, come opzione, un sottofondo discreto di acqua, giungla e pioggia. Mantieni l’interfaccia essenziale. Verifica grafica, comandi, audio, contatore e tutte e tre le modalità meteo su desktop e dispositivi mobili.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Build a fullscreen, responsive Three.js boat ride set in a narrow jungle waterway. Use a third-person camera following an empty wooden rowboat with a pointed bow, broad sides, flat stern, visible floorboards and seats, no oars, a dry interior, and a hull slightly submerged in the water. Let users steer with WASD or arrow keys and touch controls. Make the scene nocturnal and mystical: dense, varied, realistic dark-green trees on both banks, subtle wind, a detailed full moon, and broken moonlight reflected across animated water. Use convincing moving waves, distorted reflections of the boat and trees, and a wake that follows the boat’s traveled path and fades naturally no fixed glowing marks or hard circular borders. Add a weather toggle for moonlit night, warm dawn, and overcast rain; in rain mode, show falling drops and small, short-lived impact ripples shaped by the water’s waves. Add optional, subtle water, jungle, and rain ambience. Keep the interface minimal. Verify the visuals, controls, audio, counter, and all three weather modes on desktop and mobile.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104613125093998674) · [Post originale](https://x.com/itsfazley/status/2104613128017522813) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104605522640970208"></a>
+
+### Rappresentazione 3D interattiva ed educativa di CRISPR
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/31570aa85f093211e76197e2ef5fba17050a2791da509fb7dddb803a62a91f3a.webp" width="840" loading="lazy" alt="Rappresentazione 3D interattiva ed educativa di CRISPR"></a>
+
+**Prompt**
+
+```text
+Voglio che tu crei una rappresentazione 3D interattiva ed educativa del funzionamento della tecnologia CRISPR del DNA. Puoi scegliere la tecnologia che preferisci, purché il risultato sia chiaro e leggibile, includa un filamento di DNA e mostri l’intero processo di editing genetico e il ruolo di ogni elemento. Devo poter selezionare qualsiasi parte pertinente e imparare qualcosa su di essa.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+I want you to create an interactive educational 3d represenation how CRISPR DNA technology works. You can choose what ever technology you want as long as its clear readable and has a dna strand, you can see a full work of gene editing and what each piece is, I should be able to select any relevant part of it and learn something
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2104605522640970208) · [Post originale](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2104590493191479337"></a>
 
 ### Gancio a J stampabile in 3D per una prova di resistenza
@@ -2413,394 +2990,6 @@ I want you to imagine a story, that subtly promotes grid genius. Or it can not e
 </details>
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2103087766662009118) · [Post originale](https://x.com/Anilraok/status/2103087766662009118) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103083781490176212"></a>
-
-### Gioco di ciclismo in 3D del pellicano, in tempo reale
-
-[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Gioco di ciclismo in 3D del pellicano, in tempo reale"></a>
-
-**Prompt**
-
-```text
-Crea un gioco in 3D in tempo reale in cui un pellicano pedala attraverso un mondo costiero vivo, con fisica, onde, pesca, meteo dinamico, inquadrature cinematografiche, pilota automatico e musica adattiva.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2103083781490176212) · [Post originale](https://x.com/code_hiyouga/status/2103083781490176212) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103062348168618280"></a>
-
-### Fetta di agrume gommosa 3D interattiva
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="Fetta di agrume gommosa 3D interattiva"></a>
-
-**Prompt**
-
-```text
-Crea una splendida fetta di agrume gommosa 3D interattiva usando WebGPU. Fornisci l’esperienza completa in un unico file HTML standalone, con JavaScript e shader WGSL incorporati.
-
-Deve essere una vera simulazione 3D in tempo reale, non un video, un’immagine o un’animazione in loop.
-
-APPEARANCE
-
-Crea una spessa fetta d’arancia semicircolare, con polpa traslucida e succosa, otto spicchi distinti, delicate membrane interne, minuscole bolle, uno strato chiaro di albedo e una morbida buccia arancione.
-
-Falla sembrare una caramella gommosa di alta qualità: colore intenso, riflessi lucidi, luce che attraversa la polpa, rifrazione convincente e morbide ombre di contatto. Evita un bloom eccessivo, colori slavati o un aspetto di plastica rigida.
-
-Usa uno sfondo da studio caldo e chiaro e un’interfaccia editoriale pulita, con ampi spazi vuoti. Aggiungi il grande titolo serif in corsivo “Citrus Jelly”. Mantieni i controlli compatti e la fetta ben visibile.
-
-FISICA DEL CORPO DEFORMABILE
-
-La sensazione gelatinosa è l’aspetto più importante.
-
-- Afferra qualsiasi punto della fetta con il mouse o con un dito.
-- Tirala, sollevala, allungala, ruotala e rilasciala.
-- Rendi la deformazione locale: tirando un bordo, la polpa vicina deve allungarsi mentre il resto segue in modo naturale.
-- Dopo il rilascio, la fetta deve oscillare, superare temporaneamente la posizione di equilibrio e recuperare gradualmente la forma originale.
-- Includi gravità, inerzia, smorzamento, collisioni con il terreno e rimbalzi morbidi.
-- Mantieni approssimativamente il volume e impedisci alla mesh di collassare o di rovesciarsi dall’interno verso l’esterno.
-- Rendi la buccia leggermente più rigida della polpa.
-- Gli spicchi interni, le membrane e le bolle devono seguire la deformazione senza fluttuare fuori dal corpo.
-
-Usa un solver volumetrico stabile per corpi deformabili, ad esempio una mesh tetraedrica con vincoli XPBD. Non simulare la morbidezza scalando o ruotando l’intero oggetto.
-
-CONTROLS
-
-Includi tre preset colore: Arancia, Limone e Rubino.
-
-Aggiungi:
-- Slider della consistenza.
-- Slider dello smorzamento interno.
-- Pulsante “Dalle una spinta”.
-- Pulsante di ripristino.
-- Casella di selezione della velocità a un quarto.
-- Casella di selezione per mostrare la mesh.
-- Pulsante di pausa/ripresa.
-
-Mostra piccoli valori aggiornati in tempo reale per la massa, la percentuale del volume a riposo e l’energia cinetica.
-
-REQUISITI TECNICI
-
-Usa un rendering WebGPU autentico con shader WGSL. Genera proceduralmente tutta la geometria e tutti i dettagli visivi, senza modelli importati o file immagine.
-
-Mantieni gli aggiornamenti della simulazione indipendenti dalla frequenza dei fotogrammi del rendering. Supporta dispositivi desktop e touch. Mostra un messaggio chiaro di fallback se WebGPU non è disponibile.
-
-Testa trascinamenti energici, rilasci ripetuti, tutti i controlli e gli schermi stretti. Risolvi i problemi di instabilità della fisica, la geometria danneggiata e gli artefatti visivi prima di consegnare il file HTML finito.
-
-Il risultato deve trasmettere la sensazione di un piccolo esperimento tattile con una caramella, davvero appagante da manipolare.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
-
-This must be a real-time 3D simulation, not a video, image, or looping animation.
-
-APPEARANCE
-
-Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
-
-Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
-
-Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
-
-SOFT-BODY PHYSICS
-
-The jelly feel is the most important part.
-
-- Grab any part of the slice with a mouse or finger.
-- Pull, lift, stretch, twist, and release it.
-- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
-- After release, the slice should wobble, overshoot, and gradually recover its original shape.
-- Include gravity, inertia, damping, ground collisions, and soft bouncing.
-- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
-- Make the rind slightly firmer than the flesh.
-- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
-
-Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
-
-CONTROLS
-
-Include three color presets: Orange, Lemon, and Ruby.
-
-Add:
-- Firmness slider.
-- Internal damping slider.
-- “Give it a nudge” button.
-- Reset button.
-- Quarter-speed checkbox.
-- Show mesh checkbox.
-- Pause/resume button.
-
-Display small live readouts for mass, percentage of rest volume, and kinetic energy.
-
-TECHNICAL REQUIREMENTS
-
-Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
-
-Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
-
-Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
-
-The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2103062348168618280) · [Post originale](https://x.com/vib3coded/status/2103062415533371646) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103046279253168554"></a>
-
-### Costruisci una città imperiale
-
-[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Costruisci una città imperiale"></a>
-
-**Prompt**
-
-```text
-COSTRUISCI UNA CITTÀ IMPERIALE
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-BUILD AN IMPERIAL CITY
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2103046279253168554) · [Post originale](https://x.com/Enzoxbt01/status/2103046279253168554) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102956340482289944"></a>
-
-### Codex voxel in Three.js
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Codex voxel in Three.js"></a>
-
-**Prompt**
-
-```text
-crea tu stesso Codex in Three.js usando i voxel, realizza tutto da zero, non usare skill
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102956340482289944) · [Post originale](https://x.com/be_arsh/status/2102956424120979838) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102915300295369208"></a>
-
-### Scena HTML interattiva di un falò nel deserto, iperrealistica
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="Scena HTML interattiva di un falò nel deserto, iperrealistica"></a>
-
-**Prompt**
-
-```text
-Non fare riferimento ad altri file o a lavori precedenti. Questa attività deve essere completamente originale e non deve essere realizzata come imitazione di un altro lavoro presente qui.
-
-Crea un singolo file HTML con un falò acceso nel deserto. È notte e le stelle sono visibili. Intorno al fuoco ci sono ceppi disposti come sedute. Nell'inquadratura non devono esserci persone. Di tanto in tanto, diversi animali selvatici possono entrare nell'inquadratura e poi uscirne.
-
-Anche i suoni devono essere coerenti con la scena e di alta qualità.
-Rendi tutto iperrealistico
-
-Dai al file un nome (in base al modello)
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
-
-Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
-
-noises should also match the scene and be of high quality.
-Make everything hyper realistic
-
-name the file (based on model)
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102915300295369208) · [Post originale](https://x.com/Nixtrodamis/status/2102915567845794029) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102897258983313712"></a>
-
-### Simulatore di hamburger in prima persona
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="Simulatore di hamburger in prima persona"></a>
-
-**Prompt**
-
-```text
-crea un simulatore di hamburger in prima persona.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-build a first-person burger simulator.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102897258983313712) · [Post originale](https://x.com/noclipepe/status/2102897258983313712) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102828216289566725"></a>
-
-### Crea una Bugatti Chiron Super Sport in Three.js
-
-[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Crea una Bugatti Chiron Super Sport in Three.js"></a>
-
-**Prompt**
-
-```text
-crea una Bugatti Chiron Super Sport in Three.js.
-
-Nessun modello 3D. Nessuna texture. Nessuna risorsa.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-build a Bugatti Chiron Super Sport in Three.js.
-
-No 3D model. No textures. No assets.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102828216289566725) · [Post originale](https://x.com/srikanthvaluri/status/2102828216289566725) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102826333550133520"></a>
-
-### Shader di una città solarpunk infinita
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="Shader di una città solarpunk infinita"></a>
-
-**Prompt**
-
-```text
-crea uno shader visivamente interessante che possa funzionare in twigl-dot-app, come una città infinita di strade e torri solarpunk, con una brezza visibile in movimento continuo
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102826333550133520) · [Post originale](https://x.com/jonasfroeller/status/2102826333550133520) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788371114246177"></a>
-
-### Montaggio dell’allenamento e della crescita di Claude
-
-[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Montaggio dell’allenamento e della crescita di Claude"></a>
-
-**Prompt**
-
-```text
-Crea un’animazione di 30 secondi interamente tramite codice, con un montaggio della crescita ispirato alla sequenza di allenamento di Kung Fu Panda e la mascotte Claude come personaggio principale. Mostra come, dal suo rilascio iniziale, Claude diventa sempre più capace in diverse abilità: cercare informazioni online, scrivere codice, creare modelli 3D e risolvere i problemi più complessi dell’umanità. Accompagna il tutto con una musica dal forte impatto emotivo.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102788371114246177) · [Post originale](https://x.com/ishuagra02/status/2102788832273801700) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788223835463902"></a>
-
-### Crea un’animazione cartoon anni ’90 di livello Pixar con Three.js
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Crea un’animazione cartoon anni ’90 di livello Pixar con Three.js"></a>
-
-**Prompt**
-
-```text
-Voglio che tu immagini una storia. Poi, usando Three.js, voglio che tu crei un’animazione completa, con qualità da Pixar e lo stile dei cartoon degli anni ’90, basata sulla storia che hai immaginato.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102788223835463902) · [Post originale](https://x.com/scheemunai/status/2102788223835463902) · [Torna agli esempi](#all-prompts)
 
 ---
 

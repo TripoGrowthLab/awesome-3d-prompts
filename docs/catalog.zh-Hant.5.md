@@ -28,6 +28,16 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [從公寓草圖到室內算繪](#apartment-sketch-to-rendered-interiors-2096566686266597754)
+- [替 Tripo 角色貼圖並綁定骨架](#texture-and-rig-a-tripo-character-2096566598689783878)
+- [核爆炸 3D 城市模擬](#gpt-6-astra-2096562462674079868)
+- [桌上的黑膠唱片機場景](#vinyl-player-tabletop-scene-2096561346766877106)
+- [Blender 模型搭配 Unity VFX](#blender-models-with-unity-vfx-2096560142871658589)
+- [將 2D 標誌變成動態 3D 角色](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
+- [可探索的首爾微縮城市](#interactive-miniature-of-seoul-2096557555086725159)
+- [可在手機遊玩的 Unity 拉力賽車](#mobile-playable-unity-rally-game-2096556692842348826)
+- [集換式卡牌的對戰遊戲循環](#trading-card-battle-game-loop-2096555856204644550)
+- [可互動的雙環能量核心](#interactive-dual-ring-energy-core-2096551010089263181)
 - [以西結的聖殿異象：3D 場景](#gpt-6-astra-2096547658164834788)
 - [在 Blender 中切換角色表情](#switchable-character-expressions-in-blender-2096525100518453342)
 - [用 Geometry Nodes 製作循環水面](#looping-water-with-geometry-nodes-2096521798150242631)
@@ -68,18 +78,215 @@
 - [軌道交會對接模擬](#orbital-rendezvous-simulator-2096225621303042258)
 - [動畫引導微縮場景](#animated-onboarding-diorama-2096222790894661841)
 - [可拆解的人體解剖模型](#exploded-interactive-human-anatomy-2096221988763173186)
-- [困在立方體中的風暴](#a-storm-trapped-in-a-cube-2096220264413409648)
-- [搭配自製 3D 素材的 Roblox 卡丁車遊戲](#gpt-6-astra-2096219700879331665)
-- [騎自行車的鵜鶘互動場景](#gpt-6-astra-2096213850383331489)
-- [OX Vice Drive 開放城市駕駛](#ox-vice-drive-open-city-racer-2096206082712768897)
-- [幼兒玩具互動世界](#a-playful-toddler-toy-world-2096201415051911597)
-- [參考圖轉拖船模型](#reference-image-tugboat-assembly-2096180220839760375)
-- [響應式 WebGL 角色 Zubli](#zubli-a-responsive-webgl-character-2096180133803561376)
-- [咖啡杯裡的海洋生命](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [從魚缸到海洋的魚類生存遊戲](#gpt-6-astra-2096156244180664627)
-- [Dropzone 大逃殺競技場](#dropzone-battle-royale-arena-2096155883122413946)
 
 </details>
+<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
+
+### 從公寓草圖到室內算繪
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="從公寓草圖到室內算繪"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+結合公寓參考圖片與簡單的平面草圖，在 Blender 中重建室內。交付可編輯場景、各房間的算繪圖，以及剪輯完成的短版漫遊影片。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [查看原文](https://x.com/WorldEverett/status/2096566686266597754) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
+
+### 替 Tripo 角色貼圖並綁定骨架
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="替 Tripo 角色貼圖並綁定骨架"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將 Tripo Smart Mesh 角色匯入 Blender。先套用貼圖並建立可用的身體骨架，再繼續處理臉部表情。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [查看原文](https://x.com/chimerast/status/2096566598689783878) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096562462674079868"></a>
+
+### 核爆炸 3D 城市模擬
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="核爆炸 3D 城市模擬"></a>
+
+**提示詞**
+
+```text
+建立核爆炸示範：包含 3D 城市、核閃光、擴散中的衝擊波、火球與煙霧，並讓建築物在爆炸波及時逐步龜裂並坍塌
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096562462674079868) · [查看原文](https://x.com/ashishthakur___/status/2096562462674079868) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
+
+### 桌上的黑膠唱片機場景
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="桌上的黑膠唱片機場景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Three.js 製作桌上黑膠唱片機場景。透過燈具亮起的演出與鏡頭運動，展示唱片機和周圍家具，呈現產品介紹影片的感覺。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [查看原文](https://x.com/niteshseram/status/2096561346766877106) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
+
+### Blender 模型搭配 Unity VFX
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="Blender 模型搭配 Unity VFX"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中製作場景模型，並匯入 Unity。使用 VFX Graph 加入特效，調整場景打光，讓模型與特效同時清楚呈現。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [查看原文](https://x.com/CST_negi/status/2096560142871658589) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
+
+### 將 2D 標誌變成動態 3D 角色
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="將 2D 標誌變成動態 3D 角色"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把提供的 2D 角色標誌轉為具有動畫的 3D 版本。增加立體感與動作時，保留讓人一眼認出的角色特徵。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [查看原文](https://x.com/anthonyriera/status/2096559197999501724) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
+
+### 可探索的首爾微縮城市
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="可探索的首爾微縮城市"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+利用開放地圖資料，以 Three.js 製作首爾微縮城市。加入分區導覽、地標飛行巡覽、日夜模式及觸控操作。註明簡化過的建築、估算的高度與資料授權。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [查看原文](https://x.com/synabreu/status/2096557555086725159) · [線上展示](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
+
+### 可在手機遊玩的 Unity 拉力賽車
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="可在手機遊玩的 Unity 拉力賽車"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Codex、Blender 與 Unity 製作拉力賽車原型。整理 3D 資產與操作方式，讓遊戲能在手機上進行遊玩測試。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [查看原文](https://x.com/kevinkern/status/2096556692842348826) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### 集換式卡牌的對戰遊戲循環
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="集換式卡牌的對戰遊戲循環"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Three.js 製作集換式卡牌遊戲原型：購買牌組與補充包、組建牌組、進入競技場對戰並獲得獎勵。保留以完成版資產替換暫用網格的彈性。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [查看原文](https://x.com/FaryaBlender3D/status/2096555856204644550) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### 可互動的雙環能量核心
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="可互動的雙環能量核心"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中建立能量核心、兩個圓環與金屬底座。連同材質匯出至 Three.js 檢視器，提供旋轉、縮放、自動環繞與脈動效果控制。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [查看原文](https://x.com/oneruofeng/status/2096551010089263181) · [專案原始碼](https://github.com/wangruofeng/orbital-core-showcase) · [線上展示](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096547658164834788"></a>
 
 ### 以西結的聖殿異象：3D 場景
@@ -1563,237 +1770,6 @@ Before finishing, run the game in the browser and test the entire gameplay loop 
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [查看原文](https://x.com/ashebytes/status/2096221988763173186) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
-
-### 困在立方體中的風暴
-
-[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="困在立方體中的風暴"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用 Three.js 生成困在立方體中的風暴，並讓天氣可以控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [查看原文](https://x.com/zwb44/status/2096220264413409648) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096219700879331665"></a>
-
-### 搭配自製 3D 素材的 Roblox 卡丁車遊戲
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="搭配自製 3D 素材的 Roblox 卡丁車遊戲"></a>
-
-**提示詞**
-
-```text
-透過 Roblox MCP 在 Roblox Studio 中打造完成度高、經過精緻打磨的卡丁車競速遊戲。使用 Blender 與 Three.js 程序化生成風格一致且細節豐富的資產；在 Blender 中完成網格、UV 與烘焙貼圖，再匯入為經過最佳化、搭配相容 PBR 貼圖的 Roblox MeshParts。在遊戲中確認比例、軸心、材質與碰撞。使用 Roblox 原生算圖與 Luau 實作遊戲玩法；Three.js 僅用於生成資產，不作為執行時環境。優先完成一條精美、內容完整的賽道，並加入靈敏的駕駛與甩尾手感、AI 對手、檢查點、圈數追蹤，以及從倒數到結算並可重新開始的完整流程。細緻調整光照、VFX、音效與 UI。完整遊玩比賽、檢查實際遊玩截圖，持續迭代，直到修正匯入失敗、視覺瑕疵與遊戲玩法錯誤，同時維持流暢效能。不要使用佔位內容、粗糙資產或原型視覺效果。交付完整組裝且可遊玩的 Roblox 體驗，而不只是腳本或匯出的資產。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096219700879331665) · [查看原文](https://x.com/givros/status/2096219700879331665) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096213850383331489"></a>
-
-### 騎自行車的鵜鶘互動場景
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="騎自行車的鵜鶘互動場景"></a>
-
-**提示詞**
-
-```text
-建立一個時尚且具互動性的 3D 鵜鶘騎自行車場景，並在瀏覽器中呈現。
-鵜鶘應戴著紅白相間的自行車帽與太陽眼鏡。為自行車製作薄荷綠的復古車架，並加入動畫速度線來強調動感。
-讓我可以旋轉場景、放大檢視，並調整騎乘速度。請特別注意自行車幾何結構、角色比例與自然的踩踏動作。速度變化時，動畫也要保持流暢。
-將頁面製作得精緻完善，準備好用於公開展示；採用經過考量的燈光、協調一致的配色，以及簡潔的控制項。
-請自行在瀏覽器中測試，並在完成前修正任何視覺或互動上的問題。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096213850383331489) · [查看原文](https://x.com/aibuilderclub_/status/2096213850383331489) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
-
-### OX Vice Drive 開放城市駕駛
-
-[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="OX Vice Drive 開放城市駕駛"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立開放城市瀏覽器駕駛遊戲，包含交通、漂移與送貨競速，設計適合探索的海濱城市和完整駕駛迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [查看原文](https://x.com/qok_ai/status/2096206082712768897) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
-
-### 幼兒玩具互動世界
-
-[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="幼兒玩具互動世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立溫暖的 Three.js 遊戲室，讓幼兒在玩具間移動並使用不同動畫玩耍，包含爬爬墊、書、架子與攀爬設施，支援環繞和縮放。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [查看原文](https://x.com/aehyok/status/2096201415051911597) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
-
-### 參考圖轉拖船模型
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="參考圖轉拖船模型"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據參考圖在 Blender 中重建拖船，製作船體、傾斜駕駛室、甲板附件與拖曳裝置，將不同視角統一成結構連貫的船。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [查看原文](https://x.com/NarvisAlex/status/2096180220839760375) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
-
-### 響應式 WebGL 角色 Zubli
-
-[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="響應式 WebGL 角色 Zubli"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-將六張靜態角色姿勢製作成會呼吸、眨眼、揮手並跟隨指標的 WebGL 角色，最佳化變形與渲染，爭取流暢的 60 FPS 播放。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [查看原文](https://x.com/coxis/status/2096180133803561376) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
-
-### 咖啡杯裡的海洋生命
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="咖啡杯裡的海洋生命"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用 Three.js 在咖啡杯中建立微型海洋生態，透過鏡頭展示水生生命，同時保持杯子與微縮尺度清晰。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [查看原文](https://x.com/PolaczekSagi/status/2096174858837074198) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### 從魚缸到海洋的魚類生存遊戲
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="從魚缸到海洋的魚類生存遊戲"></a>
-
-**提示詞**
-
-```text
-我想製作一款魚類模擬遊戲……玩家可以選擇要扮演的魚。我們一開始會在房子裡的水族箱中，食物粒子會從上方落下、生成，或以其他方式出現。我們可以游向食物並吃掉它，讓自己長得更大；遊戲中也可能有障礙物之類的危險，會對我們造成傷害，讓體型變小。隨著等級提升，我們會逐步進入更大的區域，最後抵達海洋之類的環境。我們吃的食物可以持續變化，也能吃掉其他魚類與各種生物。
-請先將這款遊戲完整的遊戲循環、關卡設計等內容定義在一個 Markdown 檔案中，接著再實作成一款能在瀏覽器本機遊玩的遊戲。請選擇所需的技術堆疊。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096156244180664627) · [查看原文](https://x.com/AVachaspat92841/status/2096156244180664627) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone 大逃殺競技場
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone 大逃殺競技場"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-製作第三人稱瀏覽器大逃殺，包含風暴圈、九個 AI 敵人、脈衝步槍、生命值和換彈，加入可搭建掩體和完整淘汰迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [查看原文](https://x.com/Motion_Viz/status/2096155883122413946) · [返回案例導覽](#all-prompts)
 
 ---
 

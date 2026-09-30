@@ -28,6 +28,16 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Máy Rube Goldberg cơ khí trong Blender](#claude-opus-5-5-2104953406708175097)
+- [Xây dựng game đua xe phong cách Mario Kart bằng 3JS](#claude-opus-5-5-2104947552328261810)
+- [Hành tinh 3D hoạt hình tương tác](#claude-opus-5-5-2104919117262389255)
+- [Video motion graphics 3D mang nhận diện thương hiệu dài 30 giây](#claude-opus-5-5-2104896325255037196)
+- [Mắt người 3D độ chi tiết cao](#gpt-6-astra-2104841727496323479)
+- [ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG](#claude-opus-5-5-2104837836507955401)
+- [Phòng thí nghiệm tương tác mô phỏng dây chuyền sản xuất nối tiếp](#claude-opus-5-5-2104831049020674144)
+- [Xe thể thao biến hình với chế độ X-quang bung tách](#gpt-6-astra-2104654448878387313)
+- [Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác](#gpt-6-astra-2104613125093998674)
+- [Mô hình 3D tương tác về CRISPR dành cho giáo dục](#gpt-6-astra-2104605522640970208)
 - [Móc chữ J có thể in 3D để thử độ bền](#gpt-6-astra-2104590493191479337)
 - [Kiến trúc biết đi](#claude-opus-5-5-2104590334152056983)
 - [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](#claude-opus-5-5-2104571944842498150)
@@ -68,18 +78,554 @@
 - [Dựng tháp Eiffel bằng Three.js](#claude-opus-5-5-2103106070549757960)
 - [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
 - [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](#claude-opus-5-5-2103087766662009118)
-- [Trò chơi đạp xe thời gian thực với bồ nông](#claude-opus-5-5-2103083781490176212)
-- [Lát cam dẻo 3D tương tác](#gpt-6-astra-2103062348168618280)
-- [Xây dựng thành phố đế quốc](#claude-opus-5-5-2103046279253168554)
-- [Codex dạng voxel trong Three.js](#gpt-6-astra-2102956340482289944)
-- [Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực](#gpt-6-astra-2102915300295369208)
-- [Trình mô phỏng làm burger góc nhìn thứ nhất](#gpt-6-astra-2102897258983313712)
-- [Dựng Bugatti Chiron Super Sport bằng Three.js](#claude-opus-5-5-2102828216289566725)
-- [Shader thành phố solarpunk vô tận](#gpt-6-astra-2102826333550133520)
-- [Montage huấn luyện quá trình phát triển của Claude](#claude-opus-5-5-2102788371114246177)
-- [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](#claude-opus-5-5-2102788223835463902)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Máy Rube Goldberg cơ khí trong Blender
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Máy Rube Goldberg cơ khí trong Blender"></a>
+
+**Prompt**
+
+```text
+Tạo một máy Rube Goldberg cơ khí trong Blender. Sử dụng bánh răng, đường dốc, các quả bóng và sàn chuyển động. Dựng mô hình theo phương pháp procedural, kiểm tra cảnh sau mỗi bước chính và khắc phục các lỗi hình học dễ nhận thấy.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104953406708175097) · [Bài đăng gốc](https://x.com/Kwazikot/status/2104953406708175097) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### Xây dựng game đua xe phong cách Mario Kart bằng 3JS
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="Xây dựng game đua xe phong cách Mario Kart bằng 3JS"></a>
+
+**Prompt**
+
+```text
+Tôi cần bạn khởi chạy năm tác tử phụ (Model) và giúp tôi xây dựng một game chất lượng AAA, là bản sao của Mario Kart. Tôi muốn bạn khởi chạy các tác tử phụ này, tự xây dựng game mà không hỏi tôi bất kỳ câu nào, đồng thời sử dụng 3JS để phát triển game. Khi hoàn tất, hãy báo cáo lại cho tôi.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104947552328261810) · [Bài đăng gốc](https://x.com/EnvolDev/status/2104947905442505205) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Hành tinh 3D hoạt hình tương tác
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Hành tinh 3D hoạt hình tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo một hành tinh 3D phong cách hoạt hình/truyện tranh bằng ThreeJS, với nhiều yếu tố sống động trên đó: mây, núi, các tòa nhà thành phố, ô tô và máy bay bay quanh hành tinh. Có thể xoay quanh và phóng to để quan sát chi tiết. Không sử dụng harness
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104919117262389255) · [Bài đăng gốc](https://x.com/mdaman010/status/2104919846953869421) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### Video motion graphics 3D mang nhận diện thương hiệu dài 30 giây
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="Video motion graphics 3D mang nhận diện thương hiệu dài 30 giây"></a>
+
+**Prompt**
+
+```text
+Tạo một video motion graphics dài 30 giây ấn tượng cho https://t.co/71rvEGmB6D, mang cảm giác như showreel của một motion designer đẳng cấp. Trước tiên, hãy nghiên cứu website và sử dụng thương hiệu, giao diện sản phẩm, màu sắc cùng thông điệp thực tế. Sử dụng kiểu chữ đậm, chuyển động 3D, UI động, chuyển cảnh nhanh và màn logo reveal mạnh mẽ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104896325255037196) · [Bài đăng gốc](https://x.com/TawohAwa/status/2104896328300134868) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104841727496323479"></a>
+
+### Mắt người 3D độ chi tiết cao
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-29 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104841727496323479"><img src="../assets/previews/a8d15991fe8e3d161999a93d81d230d3e8bfab617616410a063b4a6e1e1e9e12.webp" width="840" loading="lazy" alt="Mắt người 3D độ chi tiết cao"></a>
+
+**Prompt**
+
+```text
+Tạo một tệp HTML/CSS/JS chạy cục bộ bằng Three.js. Dựng mô hình mắt người 3D độ chi tiết cao, có vẻ ngoài chân thực như ảnh macro chụp mắt thật. Mọi thành phần phải được tạo hoàn toàn từ đầu.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a local HTML/CSS/JS file using Three.js. Make a highly detailed 3D model of a human eye that looks like a macro photograph of a real eye. Everything must be created from scratch.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104841727496323479) · [Bài đăng gốc](https://x.com/SimonasLTU1/status/2104841727496323479) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG"></a>
+
+**Prompt**
+
+```text
+Tạo một trải nghiệm SVG tương tác đặc biệt với tiêu đề “ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG”. Xây dựng một đài quan sát khoa học Trái Đất hoàn chỉnh, có chiều sâu và cho phép khám phá trong MỘT tệp HTML tự chứa. Tôi phải có thể dán toàn bộ kết quả của bạn vào một tệp, mở trực tiếp trong Chrome và sử dụng mà không cần máy chủ hay kết nối mạng. Có thể dùng bất kỳ thư viện nào hữu ích, nhưng phải đóng gói toàn bộ mã chạy và dữ liệu đã tuyển chọn cần thiết trong tệp HTML duy nhất đó. Quả địa cầu, bản đồ khu vực, địa hình, đáy biển, hình cắt, thiết bị, biểu đồ, chú thích và các minh họa cận cảnh phải được dựng chủ yếu bằng SVG. Chỉ trả về TOÀN BỘ HTML hoạt động trong MỘT khối mã.
+
+THAM VỌNG
+Tạo chất lượng hình ảnh tương xứng với một triển lãm khoa học Trái Đất tiêu biểu của NASA, kết hợp với chiều sâu của một atlas tương tác. Người xem bắt đầu trong quỹ đạo trước một Trái Đất tráng lệ. Họ có thể xoay địa cầu, thay đổi vùng sáng và vùng tối, chọn một địa điểm có thật, phóng to địa lý nơi đó, vẽ tuyến cắt, đi xuống qua bề mặt hoặc đại dương, rồi hiểu vị trí ấy liên hệ với toàn bộ hành tinh như thế nào.
+
+Trải nghiệm phải khuyến khích người xem khám phá trong mười phút. Cần có những màn hé lộ ấn tượng, tương tác chính xác và các chế độ xem liên kết với nhau — không chỉ là một quả địa cầu xoay kèm vài cửa sổ thông tin. Khung hình đầu tiên phải đủ đẹp để đứng độc lập như một minh họa khoa học.
+
+HỆ THỐNG KHÁM PHÁ ĐA TỶ LỆ THỰC SỰ
+Xây dựng một hệ phân cấp tỷ lệ được biên soạn có chủ đích:
+1. TRÁI ĐẤT TỪ QUỸ ĐẠO — toàn bộ địa cầu, khí quyển, ranh giới ngày–đêm, các dạng địa lý lớn và lớp phủ toàn cầu.
+2. LỤC ĐỊA — đường bờ biển dễ nhận biết, địa hình, các sông lớn, bồn địa đại dương và những đặc điểm khoa học được chọn lọc.
+3. KHU VỰC — địa hình chi tiết, địa hình đáy biển, đường đồng mức, nhãn và công cụ đo đạc.
+4. CẢNH ĐỊA PHƯƠNG — một cảnh quan hoặc môi trường đại dương được minh họa phong phú, đặc trưng cho địa điểm đã chọn.
+5. MẶT CẮT — mặt cắt liên kết theo địa lý xuyên qua đất liền, băng, đại dương hoặc vỏ Trái Đất.
+6. CHẾ ĐỘ XEM CHI TIẾT — kiểm tra cận cảnh một đặc điểm như lớp băng sông, lòng sông, đứt gãy, lớp trầm tích hoặc cấu tạo đáy biển.
+
+Mỗi mức thu phóng phải hé lộ các chi tiết SVG mới được biên soạn phù hợp với tỷ lệ đó. Không chỉ phóng đại cùng một hình học độ phân giải thấp cho đến khi nó trở nên trống rỗng. Duy trì nhận diện địa lý xuyên suốt các chuyển cảnh. Một điểm được chọn trên địa cầu phải tương ứng với bản đồ khu vực, cảnh địa phương, tuyến cắt và mặt cắt của điểm đó.
+
+Triển khai tính năng phóng to về phía con trỏ, kéo để xoay địa cầu, kéo để di chuyển các chế độ xem khu vực, thu phóng bằng thao tác chụm, điều hướng bằng bàn phím, Quay lại, Trang chủ và Đặt lại chế độ xem. Giới hạn chuyển động camera và giữ cho chuyển động mượt mà. Hiển thị kín đáo thước tỷ lệ và breadcrumb vị trí. Tương tác thủ công phải có thể ngắt một hành trình camera tự động một cách mượt mà.
+
+ĐỊNH HƯỚNG HÌNH ẢNH
+Để Trái Đất là yếu tố thị giác chủ đạo.
+Dùng xanh lam đại dương sâu, xanh ngọc vùng nước nông, nhiều sắc xanh của thảm thực vật, vàng đất sa mạc, xám than núi lửa, xám khoáng chất, trắng băng hà và các đường chú thích trắng ấm mảnh.
+
+Tạo cảm giác thể tích hành tinh thuyết phục bằng hình học đường bờ biển được chiếu bản đồ, ánh sáng thay đổi, hiệu ứng tán xạ khí quyển, các lớp mây và xử lý ánh đèn ban đêm được kiểm soát cẩn thận, trong đó nguồn dữ liệu có ngày tháng phù hợp phải được nhúng vào tệp.
+
+Dùng nét bản đồ chính xác, đường đồng mức thanh nhã, hoa văn vật liệu tinh tế, đổ bóng chiều sâu dễ đọc và các đường dẫn mảnh. Chỉ hiển thị thông tin khi hữu ích ở mức thu phóng hiện tại, thay vì phủ kín địa cầu bằng nhãn. Giao diện phải tạo cảm giác như một thiết bị khoa học tinh refined. Tránh các thẻ dashboard chung chung, neon quá mức và những bảng chữ lớn nổi lơ lửng.
+
+TRÁI ĐẤT TOÀN CẦU
+Cung cấp một quả địa cầu SVG có thể xoay, sử dụng phép chiếu địa lý và cách xử lý tọa độ nhất quán. Khi địa cầu xoay, phải chiếu đúng địa hình, đặc điểm đại dương, nhãn, điểm đánh dấu đã chọn, tuyến đường và đường phân giới ngày–đêm. Ẩn hình học ở mặt khuất thay vì vẽ xuyên qua hành tinh.
+
+Bao gồm các lớp phủ có thể bật tắt:
+• Địa hình vật lý.
+• Độ sâu đại dương và cấu trúc đáy biển.
+• Các sông lớn và lưu vực thoát nước.
+• Ranh giới mảng kiến tạo.
+• Các trận động đất lịch sử được chọn từ mẫu dữ liệu có ngày tháng được nhúng.
+• Lưới vĩ độ–kinh độ.
+• Các mẫu quan trắc Trái Đất có ngày tháng, chỉ tại những nơi dữ liệu nhúng hỗ trợ.
+• Chế độ xem điện ảnh thuần gọn.
+
+Mọi lớp phủ phải dùng cùng một hệ tọa độ. Ghi rõ nguồn, ngày, độ phân giải, đơn vị và chú giải của từng lớp. Không gọi lớp nào là trực tiếp hay hiện tại nếu tệp đang dùng một ảnh chụp dữ liệu được nhúng.
+
+SÁU CHUYẾN THÁM HIỂM ĐƯỢC BIÊN SOẠN ĐẦY ĐỦ
+Xây dựng các trải nghiệm hoàn chỉnh và khác biệt cho:
+
+HIMALAYA
+Các dãy núi phân lớp, thung lũng, sông băng, mặt cắt độ cao khu vực có nguồn dẫn và mặt cắt trực quan, rõ ràng xuyên qua địa hình.
+
+LƯU VỰC AMAZON
+Cấu trúc sông dễ nhận biết, đồng bằng ngập lũ và các phụ lưu, mặt cắt rừng được minh họa, cùng phần trình diễn giáo dục về đường đi của nước.
+
+SAHARA
+Đụn cát, địa hình đá, các lòng sông khô, vật liệu bề mặt khác biệt và một tuyến cắt địa hình. Phân biệt chi tiết đụn cát được minh họa với độ cao quy mô lớn lấy từ dữ liệu nguồn.
+
+ĐỚI ĐỨT GÃY ĐÔNG PHI
+Các hồ và địa hình khu vực, mặt cắt định hướng theo đứt gãy và phần trình diễn kiến tạo mang tính khái niệm, có nhãn rõ ràng.
+
+KHU VỰC RÃNH MARIANA
+Mặt biển, hình học thềm lục địa và đại dương sâu ở những nơi phù hợp với tuyến cắt đã chọn, biểu đồ độ sâu có thể kéo, hành trình đi xuống qua cột nước và cảnh đáy biển được minh họa chi tiết.
+
+NAM CỰC
+Bề mặt băng, bối cảnh băng/địa hình có nguồn dẫn ở những nơi có dữ liệu, diễn giải mặt cắt và phần trình diễn ánh sáng theo mùa.
+
+Cung cấp cho mỗi chuyến thám hiểm:
+• Một bố cục mở đầu được biên soạn có chủ đích và gây ấn tượng.
+• Vị trí chính xác trên địa cầu.
+• Một bản đồ khu vực.
+• Ít nhất một cảnh địa phương.
+• Ít nhất một mặt cắt hoặc biên dạng liên kết.
+• Một tương tác hoạt động riêng biệt.
+• Hành trình mượt mà trở lại quỹ đạo.
+
+Không dùng lại một hình vẽ núi, rừng, sa mạc hoặc đại dương chung chung để thay thế cho nhận diện địa lý.
+
+NĂM CHẾ ĐỘ XEM LIÊN KẾT
+BỀ MẶT
+Khám phá địa hình, các đặc điểm địa mạo, sông, băng và đường bờ biển với chi tiết thay đổi theo mức thu phóng.
+
+BÊN TRÊN
+Khám phá ánh sáng mặt trời, hình học theo mùa, khí quyển và mọi quan trắc có ngày tháng được nhúng. Nếu mây hoặc thời tiết chỉ mang tính minh họa, hãy ghi rõ đó là kịch bản minh họa.
+
+BÊN DƯỚI
+Mở một mặt cắt xuyên qua địa hình, băng, vỏ Trái Đất hoặc đại dương dọc theo tuyến cắt địa lý đã chọn.
+
+HÀNH TINH
+Lùi ra để xem hình cắt toàn cầu, cho thấy điểm đã chọn liên hệ với các lớp của Trái Đất như thế nào. Hiển thị vị trí tương ứng của địa điểm đã chọn trên cả địa cầu và hình cắt.
+
+BẰNG CHỨNG
+Hiển thị mẫu dữ liệu, nguồn, ngày, độ phân giải, độ không chắc chắn hoặc giới hạn đã biết, cùng phép tính đứng sau đặc điểm hoặc phép đo đã chọn.
+
+Việc chuyển chế độ phải giữ nguyên địa điểm đã chọn, bối cảnh thu phóng khi hợp lý và trạng thái dòng thời gian.
+
+CÔNG CỤ KHÁM PHÁ LIÊN KẾT
+ĐO ĐẠC
+Chọn hai điểm trên địa cầu hoặc bản đồ khu vực được hỗ trợ. Vẽ tuyến đường cung lớn, hiển thị tọa độ và khoảng cách, đồng thời giữ tuyến đường được chiếu đúng khi địa cầu xoay.
+
+TUYẾN CẮT
+Vẽ hoặc điều chỉnh một đường trên khu vực được hỗ trợ. Lấy mẫu dữ liệu độ cao hoặc địa hình đáy biển được nhúng để tạo biên dạng. Di chuyển con trỏ trên bản đồ phải di chuyển điểm tương ứng trên biên dạng và chế độ xem mặt cắt.
+
+SO SÁNH
+Đặt hai địa điểm đã chọn cạnh nhau. Dùng các đơn vị thống nhất và bộ điều khiển tỷ lệ rõ ràng. So sánh độ cao hoặc độ sâu, vĩ độ, bối cảnh khu vực và dữ liệu môi trường được hỗ trợ của chúng.
+
+THỜI GIAN VÀ ÁNH SÁNG
+Điều chỉnh thời điểm trong ngày và ngày trong năm. Cập nhật chiếu sáng toàn cầu và hình học mặt trời theo mùa bằng một mô hình có tài liệu mô tả. Giữ thời tiết minh họa độc lập với đồng hồ này.
+
+HƯỚNG DẪN THÁM HIỂM
+Cung cấp một hành trình điện ảnh ngắn qua sáu môi trường. Mỗi điểm dừng phải hé lộ một tương tác, không chỉ hiển thị chú thích. Có thể bỏ qua chuyến tham quan.
+
+MẬT ĐỘ CHÚ THÍCH
+Chuyển đổi giữa các cấp nhãn điện ảnh, hướng dẫn và kỹ thuật mà không thay đổi địa lý bên dưới.
+
+KHÁM PHÁ ĐẠI DƯƠNG
+Xem đáy biển như một cảnh quan hoàn chỉnh.
+
+Hé lộ thềm, sườn dốc, vùng biển sâu, sống núi và rãnh ở những nơi được mẫu địa hình nhúng hỗ trợ. Dùng tỷ lệ dọc rõ ràng và ghi nhãn mọi phần phóng đại.
+
+Trong chuyến thám hiểm Mariana, cho phép người xem đi xuống qua cột nước. Cập nhật đồng thời độ sâu, ánh sáng, màu sắc, ước tính áp suất theo một mô hình đơn giản hóa được nêu rõ và con trỏ vị trí.
+
+Cảnh cận biển sâu có thể chứa sinh vật và địa chất được minh họa đẹp mắt, nhưng phải xác định rõ các sinh vật và địa hình vi mô chính xác của chúng là phần diễn giải. Phép đo địa hình đáy biển có nguồn dẫn và phong cảnh địa phương được minh họa phải luôn có thể phân biệt.
+
+BÊN TRONG TRÁI ĐẤT
+Cung cấp thanh trượt hình cắt từ 0–100% để hiển thị mượt mà lớp vỏ, manti, lõi ngoài và lõi trong. Địa cầu phải vẫn nhất quán về mặt hình ảnh ở các vị trí trung gian của thanh trượt.
+
+Hiển thị địa điểm đã chọn trên bề mặt ngoài và một đường dẫn xuyên tâm thẳng hàng đi vào bên trong.
+
+Bao gồm phần trình diễn giáo dục về sóng địa chấn với mô hình đơn giản hóa được nêu rõ. Đường đi của sóng, các điểm đánh dấu chuyển động và số liệu thời gian phải bắt nguồn từ cùng một trạng thái trình diễn.
+
+Ghi rõ mọi phần phóng đại về bề dày lớp, màu vật liệu hoặc thời gian bị nén.
+
+BA THÍ NGHIỆM KHOA HỌC TƯƠNG TÁC
+1. PHÒNG THÍ NGHIỆM ÁNH SÁNG MẶT TRỜI
+Chọn hai vĩ độ và so sánh đường đi của Mặt Trời theo ngày được mô hình hóa cũng như độ dài ban ngày trong cả năm. Liên kết các biểu đồ với địa cầu được chiếu sáng.
+
+2. PHÒNG THÍ NGHIỆM ĐỊA HÌNH VÀ MỰC NƯỚC BIỂN
+Tại một khu vực ven biển được hỗ trợ, điều chỉnh mực nước giả định và so sánh với biên dạng độ cao được nhúng. Ghi rõ đây là phần trình diễn địa hình tĩnh; không trình bày nó như một dự báo ngập lụt ven biển.
+
+3. PHÒNG THÍ NGHIỆM ĐƯỜNG ĐI ĐỊA CHẤN
+Chọn điểm phát và điểm quan trắc cho một phần trình diễn sóng giáo dục đơn giản hóa. Hiển thị đường đi và thời gian đến tương đối theo mô hình đã nêu. Giữ các điểm đánh dấu động đất lịch sử tách biệt khỏi thí nghiệm giả định.
+
+Mỗi thí nghiệm phải có Đặt lại, đầu vào có thể tái lập, đơn vị nhất quán và liên kết rõ ràng trở lại địa cầu hoặc địa điểm đã chọn.
+
+DỮ LIỆU VÀ TÍNH TRUNG THỰC KHOA HỌC
+Dùng các nguồn có thẩm quyền và được trích dẫn cho các tuyên bố số liệu cũng như mẫu dữ liệu được nhúng. Các nguồn phù hợp gồm NASA Earthdata cho những quan trắc có ngày tháng được chọn, NOAA ETOPO cho địa hình đất liền và đại dương, và USGS cho các bản ghi động đất lịch sử được chọn.
+
+Dùng dữ liệu đã tuyển chọn và giảm mẫu để vừa trong một tệp HTML. Hiển thị độ phân giải thực tế được nhúng. Không bao giờ tuyên bố rằng một minh họa khu vực có độ chính xác như tập dữ liệu nguồn khi chi tiết của nó được biên soạn hoặc đơn giản hóa.
+
+Giữ ba danh mục luôn hiển thị:
+DỮ LIỆU QUAN TRẮC — phép đo có nguồn dẫn hoặc mẫu tập dữ liệu đã công bố.
+GIÁ TRỊ SUY DẪN — giá trị được tính từ các đầu vào có tên và một phương pháp có thể kiểm tra.
+MINH HỌA HOẶC THÍ NGHIỆM — phong cảnh do tác giả tạo hoặc mô hình giả định.
+
+Không bịa ra độ cao, độ sâu, vị trí động đất, dạng mây trực tiếp hay các giá trị môi trường đã đo với độ chính xác giả tạo.
+
+Bao gồm bảng Nguồn và Phương pháp với liên kết, phiên bản và ngày của tập dữ liệu, hệ quy chiếu tọa độ, đơn vị, phương pháp giảm mẫu, phương trình, độ không chắc chắn hoặc giới hạn, cùng thông tin ghi công.
+
+Dùng quy ước vĩ độ–kinh độ nhất quán cho mọi đặc điểm. Giữ tọa độ địa lý, phép đo vật lý và hình học hiển thị đã phóng đại tách biệt nhau.
+
+CHI TIẾT NHỎ VÀ CÁC MÀN HÉ LỘ HÌNH ẢNH
+Bao gồm những phát hiện được dàn dựng cẩn thận:
+• Chuyển cảnh từ quỹ đạo đến khu vực vẫn giữ điểm đã chọn trong tầm nhìn.
+• Đường đồng mức và nhãn chỉ xuất hiện khi người xem đạt đến tỷ lệ hữu ích của chúng.
+• Một con sông vẫn dễ nhận biết từ bản đồ toàn cầu đến lưu vực địa phương.
+• Con trỏ độ cao di chuyển đồng bộ trên bản đồ, biên dạng và phong cảnh.
+• Một đường bờ biển biến đổi về mặt hình ảnh khi bật lớp địa hình đáy biển.
+• Các lớp băng lần lượt hé lộ trong mặt cắt Nam Cực.
+• Hành trình đi xuống đại dương sâu, trong đó đáy biển xuất hiện dần thay vì đột ngột đổi cảnh.
+• Hình cắt từ địa cầu vào bên trong vẫn giữ nguyên địa điểm địa lý đã chọn.
+• Đường phân giới ngày–đêm thay đổi, đưa chuyến thám hiểm đã chọn vào ban ngày hoặc ban đêm.
+• Phần hé lộ bằng chứng kết nối một yếu tố hình ảnh đẹp mắt với dữ liệu hoặc mô hình đứng sau nó.
+
+Ưu tiên những chi tiết làm sâu sắc thêm việc khám phá thay vì các hạt trang trí.
+
+HIỆU NĂNG VÀ KIỂM TRA
+Dùng scene graph SVG có giới hạn, symbol có thể tái sử dụng, clipping, mask và cơ chế dựng hình thay đổi theo mức thu phóng. Tránh giữ cả sáu cảnh độ chi tiết cao hoạt động khi chỉ có một cảnh đang hiển thị.
+
+Hỗ trợ máy tính để bàn, thiết bị cảm ứng, điều hướng bằng bàn phím, trạng thái focus hiển thị và tùy chọn giảm chuyển động.
+
+Kiểm tra rằng:
+• Mọi địa điểm nổi bật đều được đặt đúng về mặt địa lý.
+• Các đặc điểm ở mặt khuất của địa cầu thực sự bị ẩn.
+• Tuyến đường vẫn gắn với tọa độ của chúng trong suốt quá trình xoay.
+• Khoảng cách đo dùng đúng các tọa độ đã chọn.
+• Giá trị tuyến cắt bắt nguồn từ các mẫu dữ liệu được nhúng.
+• Con trỏ trên bản đồ, biên dạng và mặt cắt luôn đồng bộ.
+• Đặt lại đưa các thí nghiệm về trạng thái ban đầu.
+• Điều khiển thời gian chỉ thay đổi mô hình dự kiến, không âm thầm sửa đổi dữ liệu không liên quan.
+• Nhãn nguồn và ngày tháng khớp với các lớp được nhúng.
+
+Hiển thị kết quả thực tế của mọi kiểm tra tự động. Không hardcode một hàng nhãn đều là “đã đạt”.
+
+Đảm bảo toàn bộ hành trình từ địa cầu đến cảnh địa phương rồi đến mặt cắt hoạt động cho cả sáu chuyến thám hiểm. Nếu phạm vi triển khai buộc phải đánh đổi, hãy hoàn thiện hành trình liên kết đó và các công cụ khoa học thiết yếu trước khi thêm hiệu ứng hình ảnh tùy chọn.
+
+BÀN GIAO CUỐI CÙNG
+Kết quả hoàn thiện phải tạo cảm giác như một hành tinh có thể khám phá bên trong một tệp duy nhất: ngoạn mục khi nhìn từ quỹ đạo, thú vị khi quan sát cận cảnh và rõ ràng về những gì là quan trắc, tính toán hay minh họa.
+
+Chỉ trả về MỘT khối mã chứa TOÀN BỘ tài liệu HTML hoạt động, bắt đầu bằng <!DOCTYPE html>. Tôi phải có thể dán nó vào một tệp .html, mở trong Chrome, xoay và thu phóng Trái Đất, vào bất kỳ chuyến thám hiểm nào trong sáu chuyến, vẽ tuyến cắt liên kết, khám phá đại dương và phần bên trong, so sánh các địa điểm, chạy ba thí nghiệm, kiểm tra nguồn dữ liệu rồi trở lại quỹ đạo một cách mượt mà.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104837836507955401) · [Bài đăng gốc](https://x.com/Gdgtify/status/2104837836507955401) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Phòng thí nghiệm tương tác mô phỏng dây chuyền sản xuất nối tiếp
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Phòng thí nghiệm tương tác mô phỏng dây chuyền sản xuất nối tiếp"></a>
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng sự kiện rời rạc có hoạt ảnh và tương tác cho dây chuyền sản xuất nối tiếp dưới dạng một tệp HTML độc lập duy nhất (JS thuần + Canvas, không dùng thư viện bên ngoài ngoại trừ Chart.js từ cdnjs). Mục đích: giúp sinh viên [Hệ thống sản xuất] hiểu cách độ biến thiên, kho đệm và sự cố ảnh hưởng đến hiệu suất dây chuyền.
+
+CẤU HÌNH DÂY CHUYỀN (người dùng có thể điều chỉnh)
+- Số công đoạn: [2–6], mặc định [3], mỗi công đoạn có một tên (ví dụ: Gia công, Lắp ráp, Kiểm tra)
+- Mỗi công đoạn: thời gian chu kỳ trung bình, phân phối (Xác định, Đều, Chuẩn, Tam giác, Mũ, Lognormal), CV
+- Sự cố tại mỗi công đoạn: MTBF và MTTR (phân phối mũ), có nút bật/tắt
+- Chất lượng tại mỗi công đoạn: tỷ lệ lỗi (%), với tùy chọn loại bỏ hoặc đưa vào vòng lặp sửa chữa
+- Kho đệm giữa các công đoạn: sức chứa 0–10 (0 = chặn sau khi hoàn tất dịch vụ)
+- Đầu vào: nguyên vật liệu không giới hạn HOẶC đầu vào theo phân phối Poisson với tốc độ λ
+- Nhu cầu khách hàng để tính thời gian takt
+
+ANIMATION
+- Chi tiết di chuyển trên băng tải và đổi màu theo công đoạn (nguyên liệu thô, WIP, thành phẩm, phế phẩm)
+- Viền máy hiển thị màu trạng thái: Đang chạy (xanh lá), Bị chặn (hổ phách), Thiếu đầu vào (đỏ), Dừng do sự cố (xám), kèm biểu tượng bánh răng xoay và thanh tiến trình
+- Các ô kho đệm hiển thị mức chiếm dụng và được làm nổi bật khi đầy
+- Điều khiển: Chạy/Tạm dừng, Từng bước, Đặt lại, tốc độ 1x–50x, thời gian khởi động ổn định
+
+CÁC CHỈ SỐ HIỆU SUẤT CHÍNH (bảng điều khiển theo thời gian thực)
+1. Sản lượng (chi tiết/giờ) so với tốc độ lý thuyết của nút thắt
+2. WIP trung bình và WIP theo thời gian
+3. Thời gian dòng chảy / thời gian dẫn sản xuất (trung bình và phân vị thứ 95)
+4. Kiểm tra Định luật Little: WIP ≈ Sản lượng × Thời gian dòng chảy
+5. Mức sử dụng theo từng công đoạn với phân rã thời gian: đang chạy / bị chặn / thiếu đầu vào / dừng do sự cố (biểu đồ cột chồng)
+6. OEE theo từng công đoạn = Tính sẵn sàng × Hiệu suất × Chất lượng
+7. Phát hiện nút thắt (phương pháp theo khoảng thời gian hoạt động) và làm nổi bật nút thắt
+8. Thời gian takt so với thời gian chu kỳ của từng công đoạn (biểu đồ cân bằng dây chuyền)
+9. Hiệu suất cân bằng dây chuyền = Σ thời gian chu kỳ / (N × thời gian chu kỳ lớn nhất)
+10. Tỷ lệ đạt ngay lần đầu, tỷ lệ đạt tích lũy qua dây chuyền, số lượng phế phẩm
+11. Mức chiếm dụng kho đệm trung bình của từng kho đệm
+12. Giá trị trung bình và CV của thời gian chu kỳ quan sát được so với giá trị thiết lập tại từng công đoạn
+
+TÍNH NĂNG PHÂN TÍCH
+- Chế độ chạy lặp: chạy N lần lặp với độ dài T sau thời gian khởi động ổn định, báo cáo giá trị trung bình ± khoảng tin cậy 95% cho sản lượng, WIP và thời gian dòng chảy
+- Chế độ thí nghiệm: quét kích thước kho đệm (hoặc CV của một công đoạn) và vẽ biểu đồ sản lượng theo tham số
+- Xuất kết quả sang CSV
+- Các kịch bản thiết lập sẵn: Dây chuyền cân bằng, Làm rõ nút thắt, Độ biến thiên cao, Máy không đáng tin cậy
+
+DESIGN
+- Bố cục gọn gàng, thích ứng tốt trên thiết bị di động; chế độ sáng/tối
+- Chú giải ngắn giải thích từng KPI và công thức của chỉ số đó
+- Nút chuyển đổi nhãn song ngữ (tiếng Anh/tiếng Ả Rập)
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104831049020674144) · [Bài đăng gốc](https://x.com/am_alahmari/status/2104831051776335994) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104654448878387313"></a>
+
+### Xe thể thao biến hình với chế độ X-quang bung tách
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-28 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104654448878387313"><img src="../assets/previews/3fa857730ce8039496b8b01f642a8505efb6a54c987d4daeef4ff2eecbb8536d.webp" width="840" loading="lazy" alt="Xe thể thao biến hình với chế độ X-quang bung tách"></a>
+
+**Prompt**
+
+```text
+Tạo một mẫu xe thể thao chi tiết có thể biến hình thành robot hình người, với chế độ X-quang và chế độ bung tách tương tác
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a detailed sports car that transforms into a humanoid robot, with an x-ray mode and interactive exploded view
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104654448878387313) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2104654448878387313) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104613125093998674"></a>
+
+### Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác
+
+[Fazley](https://x.com/itsfazley) · 2026-09-28 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104613125093998674"><img src="../assets/previews/83fd1b0bc5c59fc47bde6031430727ee471bb67225d1b3086b732393fb4c3beb.webp" width="840" loading="lazy" alt="Chuyến du ngoạn bằng thuyền trong rừng rậm dưới ánh trăng tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng trải nghiệm chèo thuyền Three.js toàn màn hình, thích ứng trên một tuyến đường thủy hẹp xuyên qua rừng rậm. Sử dụng camera góc nhìn người thứ ba bám theo một chiếc thuyền chèo gỗ trống có mũi nhọn, mạn thuyền rộng, đuôi thuyền phẳng, sàn và ghế có thể nhìn thấy, không có mái chèo, khoang bên trong khô ráo, thân thuyền hơi chìm trong nước. Cho phép người dùng điều khiển bằng phím WASD hoặc phím mũi tên, cũng như thao tác chạm. Tạo khung cảnh về đêm huyền bí: cây cối màu xanh đậm dày đặc, đa dạng và chân thực ở cả hai bờ, gió nhẹ, trăng tròn chi tiết và ánh trăng đứt quãng phản chiếu trên mặt nước chuyển động. Tạo sóng chuyển động thuyết phục, hình ảnh phản chiếu méo nhẹ của thuyền và cây cối, cùng vệt sóng bám theo đường đi của thuyền rồi tan dần tự nhiên, không dùng các vệt phát sáng cố định hay đường viền hình tròn cứng. Thêm tùy chọn thời tiết giữa đêm trăng, bình minh ấm áp và mưa âm u; ở chế độ mưa, hiển thị các hạt mưa rơi và những gợn sóng va chạm nhỏ, tồn tại trong thời gian ngắn, có hình dạng bị chi phối bởi sóng nước. Thêm âm thanh môi trường tùy chọn, tinh tế, gồm tiếng nước, rừng rậm và mưa. Giữ giao diện tối giản. Kiểm tra hình ảnh, thao tác điều khiển, âm thanh, bộ đếm và cả ba chế độ thời tiết trên máy tính lẫn thiết bị di động.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a fullscreen, responsive Three.js boat ride set in a narrow jungle waterway. Use a third-person camera following an empty wooden rowboat with a pointed bow, broad sides, flat stern, visible floorboards and seats, no oars, a dry interior, and a hull slightly submerged in the water. Let users steer with WASD or arrow keys and touch controls. Make the scene nocturnal and mystical: dense, varied, realistic dark-green trees on both banks, subtle wind, a detailed full moon, and broken moonlight reflected across animated water. Use convincing moving waves, distorted reflections of the boat and trees, and a wake that follows the boat’s traveled path and fades naturally no fixed glowing marks or hard circular borders. Add a weather toggle for moonlit night, warm dawn, and overcast rain; in rain mode, show falling drops and small, short-lived impact ripples shaped by the water’s waves. Add optional, subtle water, jungle, and rain ambience. Keep the interface minimal. Verify the visuals, controls, audio, counter, and all three weather modes on desktop and mobile.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104613125093998674) · [Bài đăng gốc](https://x.com/itsfazley/status/2104613128017522813) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2104605522640970208"></a>
+
+### Mô hình 3D tương tác về CRISPR dành cho giáo dục
+
+[Alejandro](https://x.com/AlejandroRomaan) · 2026-09-28 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104605522640970208"><img src="../assets/previews/31570aa85f093211e76197e2ef5fba17050a2791da509fb7dddb803a62a91f3a.webp" width="840" loading="lazy" alt="Mô hình 3D tương tác về CRISPR dành cho giáo dục"></a>
+
+**Prompt**
+
+```text
+Tạo một mô hình 3D tương tác dành cho giáo dục, minh họa cách công nghệ DNA CRISPR hoạt động. Bạn có thể chọn bất kỳ công nghệ nào, miễn là mô hình rõ ràng, dễ theo dõi và có một mạch DNA; người dùng có thể xem toàn bộ quy trình chỉnh sửa gen, hiểu từng thành phần là gì, chọn bất kỳ bộ phận liên quan nào và tìm hiểu về bộ phận đó.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want you to create an interactive educational 3d represenation how CRISPR DNA technology works. You can choose what ever technology you want as long as its clear readable and has a dna strand, you can see a full work of gene editing and what each piece is, I should be able to select any relevant part of it and learn something
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2104605522640970208) · [Bài đăng gốc](https://x.com/AlejandroRomaan/status/2104605522640970208) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2104590493191479337"></a>
 
 ### Móc chữ J có thể in 3D để thử độ bền
@@ -2371,394 +2917,6 @@ I want you to imagine a story, that subtly promotes grid genius. Or it can not e
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118) · [Bài đăng gốc](https://x.com/Anilraok/status/2103087766662009118) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103083781490176212"></a>
-
-### Trò chơi đạp xe thời gian thực với bồ nông
-
-[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Trò chơi đạp xe thời gian thực với bồ nông"></a>
-
-**Prompt**
-
-```text
-Tạo một trò chơi 3D thời gian thực, trong đó một chú bồ nông đạp xe qua thế giới ven biển sống động, với đầy đủ vật lý, sóng biển, câu cá, thời tiết biến đổi, camera điện ảnh, chế độ lái tự động và âm nhạc thích ứng.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103083781490176212) · [Bài đăng gốc](https://x.com/code_hiyouga/status/2103083781490176212) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103062348168618280"></a>
-
-### Lát cam dẻo 3D tương tác
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280"><img src="../assets/previews/e9b0cfda1ebacc0f81fd3c2267a20a04606ee20305a9e0547ba34b8ee6a55f94.webp" width="840" loading="lazy" alt="Lát cam dẻo 3D tương tác"></a>
-
-**Prompt**
-
-```text
-Tạo một lát cam dẻo 3D đẹp mắt, có thể tương tác bằng WebGPU. Cung cấp toàn bộ trải nghiệm trong một tệp HTML độc lập duy nhất, với JavaScript và shader WGSL được nhúng.
-
-Đây phải là mô phỏng 3D thời gian thực, không phải video, hình ảnh hay hoạt ảnh lặp.
-
-APPEARANCE
-
-Tạo một lát cam dày hình bán nguyệt với phần tép mọng nước bán trong suốt, tám múi riêng biệt, các màng bên trong mảnh, những bong bóng li ti, một lớp cùi trắng nhạt và vỏ cam mềm.
-
-Tạo vẻ ngoài như kẹo dẻo cao cấp: màu sắc bão hòa, điểm sáng bóng, ánh sáng xuyên qua phần tép, khúc xạ thuyết phục và bóng tiếp xúc mềm. Tránh bloom quá mức, màu bị nhợt hoặc vẻ ngoài như nhựa cứng.
-
-Sử dụng phông nền studio sáng, ấm và giao diện biên tập gọn gàng với nhiều khoảng trắng. Thêm tiêu đề serif in nghiêng cỡ lớn “Citrus Jelly.” Giữ các điều khiển nhỏ gọn và để lát cam luôn hiển thị rõ ràng.
-
-VẬT LÝ VẬT THỂ MỀM
-
-Cảm giác như thạch là yếu tố quan trọng nhất.
-
-- Dùng chuột hoặc ngón tay để nắm bất kỳ phần nào của lát cam.
-- Kéo, nhấc, kéo giãn, xoắn rồi thả nó ra.
-- Biến dạng phải mang tính cục bộ: kéo một mép sẽ làm phần tép gần đó giãn ra, trong khi phần còn lại chuyển động theo một cách tự nhiên.
-- Sau khi thả, lát cam phải rung lắc, vượt quá vị trí cân bằng rồi dần trở lại hình dạng ban đầu.
-- Bao gồm trọng lực, quán tính, lực giảm chấn, va chạm với mặt đất và độ nảy mềm.
-- Duy trì thể tích ở mức gần đúng và ngăn lưới bị sụp hoặc lộn mặt vào trong.
-- Làm phần vỏ cứng hơn phần tép một chút.
-- Các múi bên trong, màng và bong bóng phải biến dạng theo mà không trôi ra ngoài thân lát cam.
-
-Sử dụng bộ giải vật thể mềm thể tích ổn định, chẳng hạn lưới tứ diện với các ràng buộc XPBD. Không mô phỏng độ mềm bằng cách chỉ phóng to, thu nhỏ hoặc xoay toàn bộ đối tượng.
-
-CONTROLS
-
-Bao gồm ba thiết lập màu: Cam, Chanh và Ruby.
-
-Thêm:
-- Thanh trượt Độ cứng.
-- Thanh trượt Lực giảm chấn bên trong.
-- Nút “Đẩy nhẹ”.
-- Nút Đặt lại.
-- Ô chọn Tốc độ 1/4.
-- Ô chọn Hiện lưới.
-- Nút Tạm dừng/tiếp tục.
-
-Hiển thị các thông số trực tiếp nhỏ cho khối lượng, phần trăm thể tích ở trạng thái nghỉ và động năng.
-
-YÊU CẦU KỸ THUẬT
-
-Sử dụng kết xuất WebGPU thực sự với shader WGSL. Tạo toàn bộ hình học và chi tiết hình ảnh theo quy trình, không dùng mô hình hoặc tệp hình ảnh nhập vào.
-
-Tách độc lập việc cập nhật mô phỏng khỏi tốc độ khung hình kết xuất. Hỗ trợ thiết bị máy tính và thiết bị cảm ứng. Hiển thị thông báo dự phòng rõ ràng nếu WebGPU không khả dụng.
-
-Kiểm thử thao tác kéo mạnh, thả liên tiếp, toàn bộ điều khiển và màn hình hẹp. Khắc phục vật lý không ổn định, hình học bị lỗi và hiện tượng bất thường trong hình ảnh trước khi bàn giao tệp HTML hoàn chỉnh.
-
-Kết quả phải mang lại cảm giác như một thí nghiệm kẹo nhỏ bé, giàu tính tương tác và thực sự thú vị khi chơi.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a beautiful, interactive 3D gummy citrus slice using WebGPU. Deliver the complete experience in one standalone HTML file with embedded JavaScript and WGSL shaders.
-
-This must be a real-time 3D simulation, not a video, image, or looping animation.
-
-APPEARANCE
-
-Create a thick, semicircular orange slice with translucent, juicy flesh, eight distinct segments, delicate internal membranes, tiny bubbles, a pale pith layer, and a soft orange rind.
-
-Make it look like premium gummy candy: saturated color, glossy highlights, light passing through the flesh, convincing refraction, and soft contact shadows. Avoid excessive bloom, washed-out colors, or a hard plastic appearance.
-
-Use a warm, light studio background and a clean editorial interface with generous whitespace. Add the large italic serif title “Citrus Jelly.” Keep controls compact and the slice clearly visible.
-
-SOFT-BODY PHYSICS
-
-The jelly feel is the most important part.
-
-- Grab any part of the slice with a mouse or finger.
-- Pull, lift, stretch, twist, and release it.
-- Make deformation local: pulling one edge should stretch nearby flesh while the rest follows naturally.
-- After release, the slice should wobble, overshoot, and gradually recover its original shape.
-- Include gravity, inertia, damping, ground collisions, and soft bouncing.
-- Preserve volume approximately and prevent the mesh from collapsing or turning inside out.
-- Make the rind slightly firmer than the flesh.
-- Internal segments, membranes, and bubbles must follow the deformation without floating outside the body.
-
-Use a stable volumetric soft-body solver, such as a tetrahedral mesh with XPBD constraints. Do not imitate softness by scaling or rotating the entire object.
-
-CONTROLS
-
-Include three color presets: Orange, Lemon, and Ruby.
-
-Add:
-- Firmness slider.
-- Internal damping slider.
-- “Give it a nudge” button.
-- Reset button.
-- Quarter-speed checkbox.
-- Show mesh checkbox.
-- Pause/resume button.
-
-Display small live readouts for mass, percentage of rest volume, and kinetic energy.
-
-TECHNICAL REQUIREMENTS
-
-Use genuine WebGPU rendering with WGSL shaders. Generate all geometry and visual details procedurally, without imported models or image files.
-
-Keep simulation updates independent of rendering frame rate. Support desktop and touch devices. Show a clear fallback message if WebGPU is unavailable.
-
-Test strong dragging, repeated releases, all controls, and narrow screens. Fix unstable physics, broken geometry, and visual artifacts before delivering the finished HTML.
-
-The result should feel like a tiny, tactile candy experiment that is genuinely satisfying to play with.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103062348168618280) · [Bài đăng gốc](https://x.com/vib3coded/status/2103062415533371646) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103046279253168554"></a>
-
-### Xây dựng thành phố đế quốc
-
-[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Xây dựng thành phố đế quốc"></a>
-
-**Prompt**
-
-```text
-DỰNG MỘT THÀNH PHỐ ĐẾ QUỐC
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-BUILD AN IMPERIAL CITY
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103046279253168554) · [Bài đăng gốc](https://x.com/Enzoxbt01/status/2103046279253168554) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102956340482289944"></a>
-
-### Codex dạng voxel trong Three.js
-
-[Arsh - 16 y/o builder](https://x.com/be_arsh) · 2026-09-24 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944"><img src="../assets/previews/8f1f9a37bca063601a9356a6585bb0944565b0258032f69124a7218101468c8d.webp" width="840" loading="lazy" alt="Codex dạng voxel trong Three.js"></a>
-
-**Prompt**
-
-```text
-tự tạo Codex trong Three.js bằng voxel, dựng mọi thứ từ đầu, không dùng bất kỳ skill nào
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-make yourself, codex in threejs using voxels, make everything from scratch, dont use any skills
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102956340482289944) · [Bài đăng gốc](https://x.com/be_arsh/status/2102956424120979838) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102915300295369208"></a>
-
-### Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực
-
-[Nick Gwood](https://x.com/Nixtrodamis) · 2026-09-24 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102915300295369208"><img src="../assets/previews/1b5ef5f3f80773ea93ed23ad49e673dcfa41a792202a9ef5eba9e55fec25e15a.webp" width="840" loading="lazy" alt="Cảnh HTML lửa trại giữa sa mạc về đêm siêu chân thực"></a>
-
-**Prompt**
-
-```text
-Không tham chiếu đến bất kỳ tệp nào khác hoặc tác phẩm trước đó. Tác vụ này phải hoàn toàn nguyên bản và không được tạo theo kiểu gian lận dựa trên bất kỳ tác phẩm nào khác ở đây.
-
-Tạo một tệp HTML duy nhất mô phỏng lửa trại đang cháy giữa sa mạc. Bối cảnh là ban đêm và có thể nhìn thấy các vì sao. Xung quanh đống lửa là những gốc cây được bố trí làm chỗ ngồi. Không có người nào trong khung hình. Thỉnh thoảng có thể có các loài động vật hoang dã xuất hiện rồi khuất khỏi tầm nhìn.
-
-Âm thanh cũng phải phù hợp với khung cảnh và có chất lượng cao.
-Làm cho mọi thứ siêu chân thực
-
-đặt tên tệp dựa trên model
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Do not reference any other file or previous work. This task must be fully original and not built as a cheat from any other work here.
-
-Create a single html file of a live campfire in the desert. It is night time and the stars are visible. there are log stumps set up as seats around the fire. no people are in the shot. different wildlife may periodically come into view and out.
-
-noises should also match the scene and be of high quality.
-Make everything hyper realistic
-
-name the file (based on model)
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102915300295369208) · [Bài đăng gốc](https://x.com/Nixtrodamis/status/2102915567845794029) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102897258983313712"></a>
-
-### Trình mô phỏng làm burger góc nhìn thứ nhất
-
-[noclipepe](https://x.com/noclipepe) · 2026-09-23 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102897258983313712"><img src="../assets/previews/0122e34a96a6e5e85e4336968f44ac1f90cc6b3e433ca6f660cf8d44890be03b.webp" width="840" loading="lazy" alt="Trình mô phỏng làm burger góc nhìn thứ nhất"></a>
-
-**Prompt**
-
-```text
-tạo một game mô phỏng làm burger góc nhìn thứ nhất.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build a first-person burger simulator.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102897258983313712) · [Bài đăng gốc](https://x.com/noclipepe/status/2102897258983313712) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102828216289566725"></a>
-
-### Dựng Bugatti Chiron Super Sport bằng Three.js
-
-[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Dựng Bugatti Chiron Super Sport bằng Three.js"></a>
-
-**Prompt**
-
-```text
-dựng Bugatti Chiron Super Sport bằng Three.js.
-
-Không dùng mô hình 3D. Không dùng kết cấu bề mặt. Không dùng tài nguyên.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build a Bugatti Chiron Super Sport in Three.js.
-
-No 3D model. No textures. No assets.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102828216289566725) · [Bài đăng gốc](https://x.com/srikanthvaluri/status/2102828216289566725) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102826333550133520"></a>
-
-### Shader thành phố solarpunk vô tận
-
-[Jonas Fröller](https://x.com/jonasfroeller) · 2026-09-23 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520"><img src="../assets/previews/83aa6a101c5bb9e57eab9b8da38f986e232d440c9a9c5fa1edd9b8ec8f1b5af5.webp" width="840" loading="lazy" alt="Shader thành phố solarpunk vô tận"></a>
-
-**Prompt**
-
-```text
-Tạo một shader có hình ảnh thú vị, có thể chạy trên twigl-dot-app, mô phỏng một thành phố vô tận với những con đường và tòa tháp mang phong cách solarpunk, cùng hiệu ứng gió nhẹ hiển thị liên tục.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of solarpunk roads and towers with a visible breeze running continuously
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102826333550133520) · [Bài đăng gốc](https://x.com/jonasfroeller/status/2102826333550133520) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788371114246177"></a>
-
-### Montage huấn luyện quá trình phát triển của Claude
-
-[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Montage huấn luyện quá trình phát triển của Claude"></a>
-
-**Prompt**
-
-```text
-Tạo một hoạt ảnh dài 30 giây hoàn toàn bằng mã, thể hiện montage quá trình phát triển lấy cảm hứng từ phân cảnh huấn luyện trong Kung Fu Panda, với linh vật Claude là nhân vật chính. Cho thấy Claude ngày càng nâng cao năng lực kể từ khi ra mắt ở nhiều kỹ năng như tìm kiếm trên internet, viết mã, tạo mô hình 3D và giải quyết những vấn đề khó khăn nhất của nhân loại, kết hợp với phần nhạc giàu cảm xúc.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788371114246177) · [Bài đăng gốc](https://x.com/ishuagra02/status/2102788832273801700) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102788223835463902"></a>
-
-### Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js
-
-[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js"></a>
-
-**Prompt**
-
-```text
-Tôi muốn bạn tưởng tượng ra một câu chuyện. Sau đó, sử dụng threejs để tạo một bộ phim hoạt hình hoàn chỉnh từ câu chuyện bạn nghĩ ra, theo phong cách hoạt hình thập niên 90 với chất lượng cấp Pixar.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902) · [Bài đăng gốc](https://x.com/scheemunai/status/2102788223835463902) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

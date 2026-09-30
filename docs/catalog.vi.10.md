@@ -26,8 +26,18 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (16)</summary>
+<summary>Khám phá ví dụ (26)</summary>
 
+- [Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác](#interactive-3d-robotic-hand-simulation-2081475055536820506)
+- [Prompt thêm Vespa 125 vào bộ cấu hình 3D](#vespa-125-3d-configurator-2081439705506435440)
+- [Prompt mô phỏng bay 3D siêu chân thực](#ultra-realistic-3d-flight-simulator-2081403842256605254)
+- [Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5](#build-a-3d-minecraft-clone-2081305039159620085)
+- [Prompt game Flappy Bird 3D](#3d-flappy-bird-game-2081260140117045275)
+- [Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
+- [Rừng Kẹo Dẻo: Game đi cảnh 3D](#jelly-jungle-3d-browser-game-2081024333120733188)
+- [Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay](#explorable-anime-style-japanese-street-2080834581247435102)
+- [Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
+- [Prompt Kimi K3 cho game trốn tìm một lượt](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Ba prompt súng thủ tục Three.js trong một tệp HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
 - [Prompt Kimi K3 cho khu phố Three.js biến đổi](#transforming-three-js-city-block-scene-2080724552422924382)
@@ -46,6 +56,252 @@
 - [Prompt Three.js cho trải nghiệm đi bên trong máy bay](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
+
+### Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác
+
+[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Tôi giao cho 9 cấu hình mô hình/suy luận cùng một prompt một lượt: dựng mô phỏng bàn tay robot 3D tương tác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [Bài đăng gốc](https://x.com/ThomasMWWalker/status/2081475055536820506) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="vespa-125-3d-configurator-2081439705506435440"></a>
+
+### Prompt thêm Vespa 125 vào bộ cấu hình 3D
+
+[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="Prompt thêm Vespa 125 vào bộ cấu hình 3D"></a>
+
+**Prompt**
+
+```text
+Thêm Vespa 125 vào bộ cấu hình 3D của tôi, từ đầu đến cuối.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [Bài đăng gốc](https://x.com/rafintheloop/status/2081439705506435440) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
+
+### Prompt mô phỏng bay 3D siêu chân thực
+
+[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="Prompt mô phỏng bay 3D siêu chân thực"></a>
+
+**Prompt**
+
+```text
+Dựng mô phỏng bay 3D siêu chân thực.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [Bài đăng gốc](https://x.com/noclipepe/status/2081403842256605254) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
+
+### Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5
+
+[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="Prompt tạo bản sao Minecraft 3D bằng Claude Opus 5"></a>
+
+**Prompt**
+
+```text
+CLAUDE OPUS 5 dựng bản sao minecraft trong 30 phút bằng prompt đơn giản: “Tạo bản sao minecraft 3D đầy đủ”
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [Bài đăng gốc](https://x.com/BuilderGuest/status/2081305039159620085) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="3d-flappy-bird-game-2081260140117045275"></a>
+
+### Prompt game Flappy Bird 3D
+
+[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="Prompt game Flappy Bird 3D"></a>
+
+**Prompt**
+
+```text
+Dựng game Flappy Bird 3D.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [Bài đăng gốc](https://x.com/SrijibBose/status/2081260140117045275) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
+
+### Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam
+
+[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="Prompt hoạt ảnh trực thăng điện ảnh trong rừng Việt Nam"></a>
+
+**Prompt**
+
+```text
+Hoạt ảnh 3D điện ảnh về trực thăng quân đội bay qua rừng Việt Nam trong chiến tranh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Bài đăng gốc](https://x.com/kirillk_web3/status/2081200833656451322) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
+
+### Rừng Kẹo Dẻo: Game đi cảnh 3D
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · Trò chơi
+
+Phỏng theo: [aditya](https://x.com/adxtyahq)
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="Rừng Kẹo Dẻo: Game đi cảnh 3D"></a>
+
+**Prompt**
+
+```text
+# Jelly Jungle — Cuộc phiêu lưu trên trời cao
+
+## 1. Mục tiêu
+Xây dựng một game platformer góc nhìn người thứ ba hoàn chỉnh, trong đó một nhân vật thạch dẻo màu hồng với mầm bạc hà băng qua 13 hòn đảo bay bằng cú nhảy ba lần và nấm lò xo. Sử dụng https://jelly-jungle.tripo.page/ cùng các tài liệu tham chiếu được cung cấp cho đường đi, bố cục và phong cách hình ảnh hoàn thiện. Đây là bản tái dựng của Jared, lấy cảm hứng từ bài đăng Jelly Jungle của aditya tại https://x.com/adxtyahq/status/2081024333120733188. Toàn bộ giao diện game vẫn dùng tiếng Anh.
+
+## 2. Định hướng hình ảnh
+Tạo một thế giới đồ chơi được điêu khắc mềm mại với các màu bạc hà, xanh xô thơm, kem, xanh ngọc lam, hồng san hô và vàng ấm. Dùng các hòn đảo phủ cỏ dày, mép bo tròn, mặt dưới bằng đá xám ấm có hình dạng bất quy tắc, dây leo rủ, hoa, sỏi, nấm nhỏ, thác nước rải rác và biển mây nhạt màu. Thêm bóng mềm, sương nhẹ, phản chiếu môi trường tinh tế, hiệu ứng phập phồng/co giãn, cây đung đưa và tinh thể xoay. Giữ đá nằm dưới mặt phẳng tiếp đất và tán lá không chắn vị trí tiếp đất tiếp theo.
+
+Ở độ rộng màn hình desktop, dành 35–40% bên trái cho tiêu đề JELLY / JUNGLE xếp dọc và CTA; đặt hòn đảo xuất phát ở trung tâm lệch phải, với đường đi thu dần về phía trên bên phải. Dùng camera phối cảnh ở gần (13,20,25), hướng tới (-5,1.5,-5), FOV dọc khoảng 40°, sau đó tinh chỉnh theo tài liệu tham chiếu. Trên điện thoại 390px, bố cục lại để nhân vật thạch dẻo và hòn đảo nằm phía trên tiêu đề thay vì cắt từ khung desktop. Khi chơi, camera bám theo phía sau với độ lệch gần (0,8.8,15.3), nhìn về phía trước khoảng 5.8 đơn vị. Giữ đường chân trời ổn định và bóng đổ trên mặt đất đủ rõ để định hướng.
+
+Dùng kiểu chữ hiển thị phong cách Barlow Condensed cục bộ, các điều khiển phong cách DM Sans, nút màu xanh rừng và panel phủ mờ nhẹ. Nội dung mở đầu: “Born to bounce.” và “Let’s bounce”. Hiển thị các nút tiện ích ở phía trên, HUD lượt chơi nhỏ gọn trong lúc chơi, thanh đo cú nhảy gồm ba đoạn ở bên dưới và một công tắc chuyển đổi Classic / Tripo AI nổi bật. Joystick cảm ứng, Jump, HUD và chân trang phải luôn tách biệt.
+
+## 3. Đường đi
+Dùng thông số cơ sở sau. Hướng tiến là Z âm; y là độ cao tiếp đất và r là bán kính va chạm. Thêm banner xuất phát và cổng đích màu vàng ấm.
+
+| Đảo | x | z | y | r | Loại / tên |
+| --- | --- | --- | --- | --- | --- |
+| 01 | 0 | 0 | 1.2 | 5.4 | xuất phát / First Leap |
+| 02 | 0 | -10 | 1.6 | 3.1 | thường / Easy Does It |
+| 03 | -4 | -19 | 2.0 | 3.1 | lò xo / Mushroom Launch |
+| 04 | 2 | -29 | 3.2 | 3.6 | xoay / Candy Spinner |
+| 05 | 7 | -39 | 3.8 | 4.0 | checkpoint / Cloud Camp |
+| 06 | 1 | -49 | 4.1 | 3.1 | di động / Wandering Island |
+| 07 | -6 | -59 | 4.7 | 3.2 | lò xo / Bounce Again |
+| 08 | -1 | -71 | 5.8 | 3.8 | xoay / Double Trouble |
+| 09 | 7 | -82 | 6.5 | 4.0 | checkpoint / Starlight Camp |
+| 10 | 4 | -92 | 7.1 | 3.0 | sụp đổ / Keep Moving |
+| 11 | -3 | -102 | 7.7 | 3.2 | di động / Cloud Crossing |
+| 12 | -7 | -113 | 8.2 | 3.3 | lò xo / One Last Bounce |
+| 13 | 0 | -127 | 10.0 | 5.0 | đích / Above the Clouds |
+
+## 4. Danh mục tài sản
+Chuẩn bị ba nhóm tài sản thay thế theo thứ tự:
+- `jelly`: nhân vật vinyl mềm màu hồng kẹo, tay/chân nhỏ, đôi mắt bầu dục lớn màu tối có điểm sáng, má ửng hồng, nụ cười nhỏ và mầm hai lá màu bạc hà; giữ khuôn mặt luôn nhìn thấy và chiều cao gần 1.65 đơn vị.
+- `mushroom`: cây nấm dạng vòm rộng màu hồng san hô, các đốm màu ngà nổi lên, mang nấm màu kem và thân ngắn dày; dùng lại cho mọi lò xo, với mũ nấm rộng và ổn định.
+- `tree`: thân cây cong màu nâu đào, tán lá cọ tròn quá khổ màu xanh ngọc lam/bạc hà và các cụm quả đào nhỏ; dùng lại trên toàn bộ đường đi.
+Giữ đảo, mây, dây leo, hoa, đá nhỏ, màn thác nước, tinh thể, cờ, vật xoay và cổng ở dạng tạo bằng thủ tục. Đây là các thành phần định hình đường đi và hiệu ứng, không phải những tác vụ tạo mô hình bổ sung. Đặt từng mô hình trong một wrapper không scale; chân/gốc thân cây ở y=0 cục bộ. Căn chỉnh mũ nấm và bề mặt va chạm bằng số liệu cũng như bằng mắt. Giữ nguyên các collider ở cả hai chế độ.
+
+## 5. Vật lý và phản hồi
+Dùng bước thời gian cố định 1/120 giây, trọng lực gần 22 đơn vị/s², tốc độ di chuyển gần 8.8 đơn vị/s, gia tốc trên mặt đất phản hồi nhanh và điều hướng trên không nhẹ hơn. Chuẩn hóa thao tác chéo. WASD/phím mũi tên dùng để di chuyển; mỗi lần nhấn Space mới sẽ thực hiện một cú nhảy. Cho phép chính xác ba cú nhảy trước khi tiếp đất: vận tốc hướng lên ban đầu khoảng 9.2 và hai cú nhảy trên không khoảng 8.5. Giữ phím không được lặp lại cú nhảy. Khi tiếp đất, nạp lại cả ba cú nhảy. Nấm lò xo phóng nhân vật lên với tốc độ khoảng 16, nạp lại số cú nhảy và nén/bật lại với thời gian hồi để tránh kích hoạt liên tiếp.
+
+Bệ xoay đưa người chơi đang chạm đất đi theo; các thanh kẹo xoay thấp chỉ hất lùi khi chạm vào đoạn thanh và có phần chồng lấn theo phương dọc. Nhảy sẽ vượt qua chúng. Cho khoảng 1.7 giây miễn nhiễm sau khi bị đánh trúng. Các đảo di động dao động theo phương ngang khoảng 2.6 đơn vị và đưa người chơi đang chạm đất đi theo độ dịch chuyển của chúng. Đảo sụp đổ rung lên, biến mất 1.5 giây sau khi tiếp đất và khôi phục sau khoảng 4 giây; nền ẩn không có va chạm.
+
+Checkpoint trên đảo 05 và 09 khôi phục vị trí, vận tốc và số cú nhảy sau khi rơi, đồng thời giữ lại các tinh thể đã nhặt và tăng số lần rơi. R cho phép quay lại thủ công mà không bị phạt lần rơi. Đặt ba tinh thể trên mỗi đảo, tổng cộng 39 tinh thể; mỗi tinh thể chỉ được nhặt một lần, kèm âm thanh, hạt hiệu ứng và phản hồi HUD. Đến đảo cuối sẽ hoàn thành màn chơi đúng một lần; tinh thể là tùy chọn. Hiển thị thời gian, tinh thể, đảo và tiến trình; khi hoàn thành, hiển thị thời gian, số lần rơi và số sao: ba sao khi có ≥30 tinh thể, hai sao khi có ≥18, nếu không thì một sao. Lưu thành tích thời gian tốt nhất và cung cấp tùy chọn chơi lại. Không có máu hay chiến đấu.
+
+Cung cấp joystick cảm ứng có bắt giữ con trỏ và một nút Jump lớn; mỗi lần chạm chỉ tiêu thụ tối đa một cú nhảy. Xóa thao tác bị hủy hoặc đang bị giữ. Thêm hộp thoại trợ giúp và tạm dừng, cơ chế khôi phục khi chuyển tab, phản hồi không chặn luồng và Web Audio tùy chọn, mặc định tắt tiếng. Restart đặt lại toàn bộ trạng thái lượt chơi, vật phẩm nhặt được và nền tảng.
+
+## 6. Triển khai
+Sử dụng Vite, Three.js và JavaScript/HTML/CSS thuần, với các module riêng cho vật lý/đường đi, registry thế giới/tài sản, fitting, input/UI và âm thanh. Đóng gói dependency, font và tài sản cục bộ. GLTFLoader nhập các mô hình tự chứa; xác thực bounding box hữu hạn, hình học hiển thị được và tài nguyên nhúng trước khi thay thế. Khi lỗi, giữ mô hình hiện tại, ngăn các lần tải bất đồng bộ cũ ghi đè và giải phóng tài nguyên đã bị thay thế. Blender là tùy chọn để dọn mesh hoặc chỉnh pivot nếu cần.
+
+Classic sử dụng ba biến thể tạo bằng thủ tục; chế độ nhập dùng các tài sản thay thế hiện có và báo cáo đúng trạng thái thực tế của chúng. Khi chuyển chế độ hoặc nhập tài sản, giữ nguyên vị trí, vận tốc, số lần nhảy, thời gian, tinh thể và checkpoint mà không tải lại. Instance hoặc gộp cảnh tĩnh lặp lại, giới hạn DPR gần 1.5 và giới hạn số lượng hiệu ứng. Đo số draw call, số tam giác và thời gian mỗi frame bằng camera thực tế; trước tiên hãy giảm các chi tiết trang trí ở xa.
+
+## 7. Tiêu chí nghiệm thu
+Bàn giao đầy đủ mã nguồn, lockfile, chính xác các lệnh phát triển/build và output tĩnh. Xác minh ba cú nhảy mới liên tiếp và không có cú thứ tư, căn chỉnh lò xo, khả năng nền di động đưa người chơi đi theo, va chạm với thanh quét, sụp đổ/khôi phục, checkpoint, vật phẩm chỉ nhặt một lần, tạm dừng/khởi động lại và hoàn thành. Hoàn thành cả 13 đảo bằng input và vật lý thực tế; dịch chuyển tức thời không chứng minh được khả năng vượt qua. Kiểm tra bàn phím và cảm ứng, cả hai chế độ hình ảnh, từng luồng nhập/đặt lại/lỗi và khả năng giữ trạng thái. So sánh khung hình mở đầu và lúc chơi đã ổn định trên desktop/di động, kiểm tra lỗi tràn và lỗi tải, đồng thời báo cáo điều kiện hiệu năng thực tế. Tuân theo quy trình tài sản dùng chung bên dưới.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [Bài đăng gốc](https://x.com/adxtyahq/status/2081024333120733188) · [Bản demo](https://jelly-jungle.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
+
+### Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay
+
+[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="Prompt Three.js cho phố ngoại ô Nhật Bản phong cách nền anime vẽ tay"></a>
+
+**Prompt**
+
+```text
+dựng phố ngoại ô Nhật Bản có thể khám phá trong Three.js, hoàn toàn 3D, render như phông nền anime vẽ tay
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Bài đăng gốc](https://x.com/gmi_cloud/status/2080834581247435102) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Game trình duyệt lấy cảm hứng Counter-Strike bằng Kimi K3"></a>
+
+**Prompt**
+
+```text
+Dựng game lấy cảm hứng Counter-Strike trên trình duyệt bằng Kimi K3.
+
+Một tệp HTML. Hơn 3.700 dòng mã. Không cần bước build.
+
+Có:
+
+🔫 Bố cục kiểu Dust2 với đường hầm, catwalk và Long A
+🎯 AK, AWP có kính ngắm, MP5, dao và nạp đạn
+🤖 10 bot AI tuần tra, phản ứng với tiếng súng và áp sát vị trí bạn
+💥 Headshot, bảng hạ gục và hệ vòng hai phút
+🔊 Âm thanh hoàn toàn thủ tục, không có tệp âm thanh
+🌐 Dựng bằng Three.js và vật liệu PBR, chạy hoàn toàn trong trình duyệt
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
+
+### Prompt Kimi K3 cho game trốn tìm một lượt
+
+[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho game trốn tìm một lượt"></a>
+
+**Prompt**
+
+```text
+Game trốn tìm trong một lượt: tắc kè trắng ẩn trong phòng vẽ tay, tự sơn màu khớp tường và sống sót qua ba lượt quét của robot tìm kiếm. Phần trăm khớp pixel trực tiếp, năm vùng thủ tục, âm thanh tổng hợp, ba vòng tính điểm — một tệp HTML, không thư viện.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Bài đăng gốc](https://x.com/0x_scalp/status/2080806989169307780) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
 
 ### Yêu cầu dựng súng Three.js thủ tục cho Claude Fable 5

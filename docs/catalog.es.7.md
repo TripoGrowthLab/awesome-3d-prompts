@@ -28,6 +28,16 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Un juego 3D de pájaros con tirachinas](#3d-slingshot-bird-game-2095981655370666076)
+- [Una máquina de reacciones en cadena de Rube Goldberg](#rube-goldberg-chain-reaction-machine-2095980885732704629)
+- [Templo chino flotante con interruptor de día y noche](#gpt-6-astra-2095978925029556561)
+- [Mecha con rigging a partir de varias imágenes de referencia](#gpt-6-astra-2095975726558392570)
+- [Carreras de combate antigravedad](#anti-gravity-combat-racer-2095967568825582044)
+- [Un mando de PS5 interactivo](#interactive-ps5-controller-2095967131573649552)
+- [Tarjetas interactivas de personajes 3D](#interactive-3d-character-cards-2095963576049832347)
+- [Un shooter en tercera persona con tiempo bala](#bullet-time-third-person-shooter-2095962376344309843)
+- [Street Heat: carreras de derrapes en el navegador](#street-heat-browser-drift-racer-2095916820431827408)
+- [Un prototipo jugable creado rápidamente](#rapid-playable-game-prototype-2095907526566990013)
 - [Un dormitorio ciberpunk en bucle en Blender](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [Un arcade cultural que juega solo](#self-playing-cultural-arcade-game-2095898198413922791)
 - [De un prompt a un juego de mundo abierto](#open-world-game-from-a-prompt-2095872986477908108)
@@ -68,18 +78,239 @@
 - [Previsualización cinematográfica de un museo en 3D](#3d-museum-cinematography-previsualization-2095616529572503593)
 - [De un anuncio de Zillow a un vídeo inmobiliario 3D](#zillow-listing-to-3d-property-film-2095612137582526615)
 - [Manhattan, calle a calle, en Unreal Engine](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
-- [Un juego 3D dirigido por voz para principiantes](#voice-directed-3d-game-for-beginners-2095608358086840647)
-- [Un juego 3D para navegador con una sola instrucción](#one-shot-browser-3d-game-2095599934766764338)
-- [De una foto de una casa a un mundo editable en Blender](#house-photo-to-editable-blender-world-2095598645190291775)
-- [Un FPS multijugador 10 contra 10 inspirado en Halo](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
-- [Una ciudad explorable en Unity a partir de una biblioteca de recursos](#asset-driven-explorable-unity-city-2095597640587374887)
-- [Un prototipo interactivo cuidado en una sola pasada](#one-shot-premium-interactive-prototype-2095597560253862065)
-- [Un mundo al estilo Minecraft de una sola vez](#one-shot-minecraft-style-world-2095597137849446688)
-- [Una aventura de mundo abierto en el navegador](#open-world-browser-adventure-2095596341422440714)
-- [Una sociedad de humanos autónomos que sobrevive en Unreal](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
-- [La base Arcadia en Marte](#arcadia-base-on-mars-2095595678214873212)
 
 </details>
+<a id="3d-slingshot-bird-game-2095981655370666076"></a>
+
+### Un juego 3D de pájaros con tirachinas
+
+[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="Un juego 3D de pájaros con tirachinas"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un juego 3D de tirachinas con cuatro pájaros y poderes especiales distintos. Incluye controles de apuntar y soltar, estructuras destructibles y un ciclo de puntuación que invite a volver a jugar.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Publicación original](https://x.com/MozeTech/status/2095981655370666076) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
+
+### Una máquina de reacciones en cadena de Rube Goldberg
+
+[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="Una máquina de reacciones en cadena de Rube Goldberg"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una máquina de Rube Goldberg en un archivo HTML autónomo con Three.js. Usa una secuencia de interacciones mecánicas que termine pulsando un botón y provocando una explosión teatral.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Publicación original](https://x.com/thehypedotnews/status/2095980885732704629) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095978925029556561"></a>
+
+### Templo chino flotante con interruptor de día y noche
+
+[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="Templo chino flotante con interruptor de día y noche"></a>
+
+**Prompt**
+
+```text
+Crea un mundo interactivo de bloques pixelados para demostrarme qué tan buen modelo eres. Quiero un templo chino rodeado de cerezos en flor de color rosa. Todo el terreno debe estar aislado en su propia isla flotante, con cascadas y un paisaje montañoso alrededor del templo. No me pidas ninguna indicación; quiero que construyas todo por tu cuenta y tomes las decisiones tú mismo. Haz que pueda alternar entre el día y la noche con un interruptor sencillo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2095978925029556561) · [Publicación original](https://x.com/PhilipNora7/status/2095978925029556561) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095975726558392570"></a>
+
+### Mecha con rigging a partir de varias imágenes de referencia
+
+[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="Mecha con rigging a partir de varias imágenes de referencia"></a>
+
+**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
+
+**Prompt**
+
+```text
+Usa Blender 5.2.1 en modo headless para crear un modelo 3D muy detallado del mecha basándote en este plano: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. Usa también las imágenes de referencia adicionales del mecha que encontrarás en la misma carpeta para obtener más detalles. Ten en cuenta que el plano y todas las imágenes de referencia se han generado con IA, por lo que puede haber inconsistencias entre unas imágenes y otras. Si detectas detalles incoherentes, busca una solución creativa para que el modelo 3D resultante del mecha mantenga un aspecto consistente y sea físicamente correcto. El modelo 3D del mecha debe tener rigging. Demuestra que se ha cumplido el objetivo renderizando una animación de diez segundos en la que el mecha presenta sus armas y muestra su agilidad en combate.
+
+solo indicaciones:
+elige las imágenes de referencia más adecuadas; no des prioridad al plano solo porque se haya mencionado explícitamente.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
+
+only steering:
+pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2095975726558392570) · [Publicación original](https://x.com/vatro_vrbanic/status/2095975726558392570) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="anti-gravity-combat-racer-2095967568825582044"></a>
+
+### Carreras de combate antigravedad
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="Carreras de combate antigravedad"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un juego de carreras de combate antigravedad de alta velocidad en Three.js, con derrapes, acelerones, cámaras que se inclinen, aerofrenos y escudos recogibles. Incluye vehículos ligeros, equilibrados y pesados en un circuito alienígena elevado.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Publicación original](https://x.com/superalesha/status/2095967568825582044) · [Código fuente](https://github.com/alesha-pro/bench-portal) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="interactive-ps5-controller-2095967131573649552"></a>
+
+### Un mando de PS5 interactivo
+
+[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="Un mando de PS5 interactivo"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un mando de PlayStation 5 que se pueda examinar en Three.js, con silueta reconocible, botones, gatillos, palancas analógicas y materiales de superficie diferenciados.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Publicación original](https://x.com/blueemi99/status/2095967131573649552) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="interactive-3d-character-cards-2095963576049832347"></a>
+
+### Tarjetas interactivas de personajes 3D
+
+[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="Tarjetas interactivas de personajes 3D"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye una interfaz de tarjetas de personajes 3D interactivas. Haz que el personaje responda al movimiento del puntero y mantén la tarjeta legible y adaptable.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [Publicación original](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
+
+### Un shooter en tercera persona con tiempo bala
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="Un shooter en tercera persona con tiempo bala"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un shooter en tercera persona en Three.js inspirado en Max Payne. Céntrate en la acción a cámara lenta, los disparos ágiles y una escena jugable con una cámara de seguimiento eficaz.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Publicación original](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### Street Heat: carreras de derrapes en el navegador
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: carreras de derrapes en el navegador"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye un juego arcade completo de carreras callejeras en el navegador a partir de una frase. Implementa derrapes satisfactorios, puntuación por combos, bonificaciones por esquivar por poco, radares de velocidad, nitro, tráfico, un HUD legible y un circuito breve que invite a repetir.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Publicación original](https://x.com/higgsfield_ai/status/2095916820431827408) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="rapid-playable-game-prototype-2095907526566990013"></a>
+
+### Un prototipo jugable creado rápidamente
+
+[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="Un prototipo jugable creado rápidamente"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un prototipo de juego visualmente coherente con límites estrictos de tiempo y tokens. Prioriza un ciclo de juego completo, controles ágiles, respuestas claras, rendimiento estable y una versión de navegador lista para compartir por encima del número de funciones.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Publicación original](https://x.com/gibglue/status/2095907526566990013) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
 
 ### Un dormitorio ciberpunk en bucle en Blender
@@ -893,206 +1124,6 @@ Construye un Manhattan explorable en Unreal Engine. Trabaja barrio a barrio y ca
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Publicación original](https://x.com/mattshumer_/status/2095609734845927525) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
-
-### Un juego 3D dirigido por voz para principiantes
-
-[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="Un juego 3D dirigido por voz para principiantes"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Ayúdame a crear un juego 3D. Pregunta solo por el objetivo del jugador, la dirección artística y los controles que falten. Después crea un juego de navegador que pueda probar de inmediato y sigue ajustándolo mediante instrucciones breves de voz.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [Publicación original](https://x.com/EHuanglu/status/2095608358086840647) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="one-shot-browser-3d-game-2095599934766764338"></a>
-
-### Un juego 3D para navegador con una sola instrucción
-
-[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="Un juego 3D para navegador con una sola instrucción"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un juego 3D completo que funcione en el navegador como un proyecto autónomo. Incluye un objetivo claro, controles ágiles, niveles espacialmente coherentes, enemigos o peligros, respuestas visibles a las acciones, puntuación, reinicio y medidas para mantener el rendimiento.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [Publicación original](https://x.com/theo/status/2095599934766764338) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
-
-### De una foto de una casa a un mundo editable en Blender
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="De una foto de una casa a un mundo editable en Blender"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Reconstruye la casa de la imagen proporcionada como una escena de Blender completamente editable. Modela la arquitectura, los muebles, los electrodomésticos y los juguetes como objetos independientes. Mantén proporciones verosímiles y permite recorrerla localmente con fluidez a 60 FPS.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [Publicación original](https://x.com/tomkrcha/status/2095598645190291775) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
-
-### Un FPS multijugador 10 contra 10 inspirado en Halo
-
-[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="Un FPS multijugador 10 contra 10 inspirado en Halo"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye un shooter multijugador por equipos de 10 contra 10 inspirado en los FPS clásicos de ciencia ficción. Incluye equipos, reapariciones, armas fáciles de distinguir, escudos, objetos recogibles, mapas compactos, puntuación, desarrollo de las partidas y juego en navegador con baja latencia.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [Publicación original](https://x.com/VikiingAI/status/2095598026916049024) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
-
-### Una ciudad explorable en Unity a partir de una biblioteca de recursos
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Una ciudad explorable en Unity a partir de una biblioteca de recursos"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Monta una ciudad explorable en Unity con la biblioteca de recursos proporcionada. Crea una red de carreteras coherente, torres, vehículos, palmeras, iluminación y navegación. Después optimiza la escena y ofrece un recorrido estable en primera persona.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [Publicación original](https://x.com/chetaslua/status/2095597640587374887) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
-
-### Un prototipo interactivo cuidado en una sola pasada
-
-[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="Un prototipo interactivo cuidado en una sola pasada"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Diseña e implementa en una sola pasada un prototipo interactivo de gran calidad a partir del concepto de producto proporcionado. Elige un sistema visual sólido, prioriza la acción principal, añade transiciones cuidadas y entrega una versión adaptable alojada en la web.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [Publicación original](https://x.com/AY_Orbach/status/2095597560253862065) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
-
-### Un mundo al estilo Minecraft de una sola vez
-
-[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="Un mundo al estilo Minecraft de una sola vez"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye de una sola vez un mundo de vóxeles jugable inspirado en Minecraft, con generación de terreno, colocación y destrucción de bloques, controles en primera persona, inventario, iluminación, agua y un ciclo de supervivencia compacto.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [Publicación original](https://x.com/flavioAd/status/2095597137849446688) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="open-world-browser-adventure-2095596341422440714"></a>
-
-### Una aventura de mundo abierto en el navegador
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="Una aventura de mundo abierto en el navegador"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye una aventura 3D de mundo abierto con varios biomas conectados, desplazamiento, descubrimientos, combates sencillos, misiones, lugares emblemáticos, ambiente diurno y nocturno y orientación suficiente para que explorar tenga sentido.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/open-world-browser-adventure-2095596341422440714) · [Publicación original](https://x.com/petergostev/status/2095596341422440714) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### Una sociedad de humanos autónomos que sobrevive en Unreal
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="Una sociedad de humanos autónomos que sobrevive en Unreal"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Crea un mundo en Unreal Engine poblado por agentes humanos autónomos. Asigna a cada uno necesidades propias y un objetivo común de supervivencia que los obligue a comunicarse, repartirse el trabajo, construir refugios y mantener viva la sociedad cuando el jugador se vaya.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [Publicación original](https://x.com/mattshumer_/status/2095596175705399482) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="arcadia-base-on-mars-2095595678214873212"></a>
-
-### La base Arcadia en Marte
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="La base Arcadia en Marte"></a>
-
-*Instrucciones basadas en la obra enlazada*
-
-**Prompt**
-
-```text
-Construye una colonia marciana de vóxeles jugable, con naves que aterricen, robots de construcción, vehículos exploradores, almacenamiento de energía y sistemas de oxígeno y agua. Haz que las tormentas de polvo y los apagones afecten a la colonia.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [Publicación original](https://x.com/knowixbuilds/status/2095595678214873212) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

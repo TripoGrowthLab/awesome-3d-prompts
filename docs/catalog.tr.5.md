@@ -28,6 +28,16 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Daire eskizinden iç mekân render’larına](#apartment-sketch-to-rendered-interiors-2096566686266597754)
+- [Tripo karakterine doku ve rig hazırlama](#texture-and-rig-a-tripo-character-2096566598689783878)
+- [3B Şehirde Nükleer Patlama Simülasyonu](#gpt-6-astra-2096562462674079868)
+- [Masa üstünde pikap sahnesi](#vinyl-player-tabletop-scene-2096561346766877106)
+- [Unity VFX ile Blender modelleri](#blender-models-with-unity-vfx-2096560142871658589)
+- [2D logodan animasyonlu karaktere](#a-2d-logo-becomes-an-animated-character-2096559197999501724)
+- [Seul’ün etkileşimli minyatürü](#interactive-miniature-of-seoul-2096557555086725159)
+- [Telefonda oynanabilen Unity ralli oyunu](#mobile-playable-unity-rally-game-2096556692842348826)
+- [Koleksiyon kartı savaş oyununun döngüsü](#trading-card-battle-game-loop-2096555856204644550)
+- [Çift halkalı etkileşimli enerji çekirdeği](#interactive-dual-ring-energy-core-2096551010089263181)
 - [Hezekiel’in Tapınak Vizyonu: 3B](#gpt-6-astra-2096547658164834788)
 - [Blender’da değiştirilebilir karakter ifadeleri](#switchable-character-expressions-in-blender-2096525100518453342)
 - [Geometry Nodes ile döngüsel su yüzeyi](#looping-water-with-geometry-nodes-2096521798150242631)
@@ -68,18 +78,215 @@
 - [Yörüngede buluşma simülatörü](#orbital-rendezvous-simulator-2096225621303042258)
 - [Animasyonlu ilk kullanım dioraması](#animated-onboarding-diorama-2096222790894661841)
 - [Parçalı etkileşimli insan anatomisi](#exploded-interactive-human-anatomy-2096221988763173186)
-- [Küpe hapsolmuş fırtına](#a-storm-trapped-in-a-cube-2096220264413409648)
-- [Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı](#gpt-6-astra-2096219700879331665)
-- [Bisiklete Binen Etkileşimli Pelikan](#gpt-6-astra-2096213850383331489)
-- [OX Vice Drive açık şehir yarışı](#ox-vice-drive-open-city-racer-2096206082712768897)
-- [Küçük çocuk için eğlenceli oyuncak dünyası](#a-playful-toddler-toy-world-2096201415051911597)
-- [Referans görüntülerden römorkör montajı](#reference-image-tugboat-assembly-2096180220839760375)
-- [Zubli: tepki veren WebGL karakteri](#zubli-a-responsive-webgl-character-2096180133803561376)
-- [Kahve fincanında deniz yaşamı](#marine-life-in-a-coffee-cup-2096174858837074198)
-- [Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu](#gpt-6-astra-2096156244180664627)
-- [Dropzone battle royale arenası](#dropzone-battle-royale-arena-2096155883122413946)
 
 </details>
+<a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
+
+### Daire eskizinden iç mekân render’larına
+
+[Everett World](https://x.com/WorldEverett) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754"><img src="../assets/previews/2aacb873a702b9d4713acfab65a7c297848c97eacbcf83600ec27ac4616ac060.webp" width="840" loading="lazy" alt="Daire eskizinden iç mekân render’larına"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir dairenin referans görsellerini basit bir kat planı eskiziyle birleştirerek iç mekânı Blender’da yeniden oluşturun. Düzenlenebilir sahne, oda render’ları ve kısa, kurgulanmış bir gezinti videosu teslim edin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/apartment-sketch-to-rendered-interiors-2096566686266597754) · [Orijinal gönderi](https://x.com/WorldEverett/status/2096566686266597754) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="texture-and-rig-a-tripo-character-2096566598689783878"></a>
+
+### Tripo karakterine doku ve rig hazırlama
+
+[たけうちさんは縮退しました🌀](https://x.com/chimerast) · 2026-09-06 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878"><img src="../assets/previews/c9f16b99ead5a440a040aa0ddcce6471905d74f64af02673ae03bd7c63fca40f.webp" width="840" loading="lazy" alt="Tripo karakterine doku ve rig hazırlama"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir Tripo Smart Mesh karakterini Blender’a aktarın. Yüz ifadelerine geçmeden önce dokularını uygulayın ve kullanılabilir bir gövde rig’i oluşturun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/texture-and-rig-a-tripo-character-2096566598689783878) · [Orijinal gönderi](https://x.com/chimerast/status/2096566598689783878) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096562462674079868"></a>
+
+### 3B Şehirde Nükleer Patlama Simülasyonu
+
+[Ashish Thakur](https://x.com/ashishthakur___) · 2026-09-06 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096562462674079868"><img src="../assets/previews/e91ece1091a89de20c8d12c9c4779070c00966330aa17e5676c53ffb089a1ee8.webp" width="840" loading="lazy" alt="3B Şehirde Nükleer Patlama Simülasyonu"></a>
+
+**İstem**
+
+```text
+3B bir şehir, nükleer flaş, genişleyen şok dalgası, ateş topu, duman ve patlama kendilerine ulaştıkça kademeli olarak parçalanıp çöken binalarla bir nükleer patlama demosu oluşturun
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create nuclear explosion demo with a 3D city, nuclear flash, expanding shockwave, fireball, smoke, and buildings that progressively fracture/collapse when the blast reaches them
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096562462674079868) · [Orijinal gönderi](https://x.com/ashishthakur___/status/2096562462674079868) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="vinyl-player-tabletop-scene-2096561346766877106"></a>
+
+### Masa üstünde pikap sahnesi
+
+[Nitesh Seram](https://x.com/niteshseram) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106"><img src="../assets/previews/dbf39f9b759ab2896a29b715804ed0fee379441e627006fe8504f231d770d692.webp" width="840" loading="lazy" alt="Masa üstünde pikap sahnesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js ile masa üstünde bir pikap sahnesi oluşturun. Lambaların yandığı ve kameranın pikabı çevredeki mobilyalarla birlikte gösterdiği bir ürün sunumu hazırlayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/vinyl-player-tabletop-scene-2096561346766877106) · [Orijinal gönderi](https://x.com/niteshseram/status/2096561346766877106) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="blender-models-with-unity-vfx-2096560142871658589"></a>
+
+### Unity VFX ile Blender modelleri
+
+[ねぎぽよし](https://x.com/CST_negi) · 2026-09-06 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589"><img src="../assets/previews/be645a24a2b47ac471fa1f2f9ec4ffb5f95444cda10d2002d431f92986bf821f.webp" width="840" loading="lazy" alt="Unity VFX ile Blender modelleri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Sahne modellerini Blender’da oluşturup Unity’ye aktarın. VFX Graph ile efektler ekleyin ve modeller ile efektlerin birlikte açıkça seçilebildiği bir aydınlatma kurun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/blender-models-with-unity-vfx-2096560142871658589) · [Orijinal gönderi](https://x.com/CST_negi/status/2096560142871658589) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="a-2d-logo-becomes-an-animated-character-2096559197999501724"></a>
+
+### 2D logodan animasyonlu karaktere
+
+[Anthony Riera](https://x.com/anthonyriera) · 2026-09-06 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724"><img src="../assets/previews/7a661de42cc18af70c6168acd6a36421c2961d49d5c5e84de96696e29cd7f1e7.webp" width="840" loading="lazy" alt="2D logodan animasyonlu karaktere"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Sağlanan 2D karakter logosunu animasyonlu bir 3D sürüme dönüştürün. Karakter hacim ve hareket kazanırken tanınabilir kimliğini koruyun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-2d-logo-becomes-an-animated-character-2096559197999501724) · [Orijinal gönderi](https://x.com/anthonyriera/status/2096559197999501724) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-miniature-of-seoul-2096557555086725159"></a>
+
+### Seul’ün etkileşimli minyatürü
+
+[synabreu](https://x.com/synabreu) · 2026-09-06 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-miniature-of-seoul-2096557555086725159"><img src="../assets/previews/66fb34ca2913ea2babfbd258a938032ef607d2f7bf286808829464dfe4ab0caf.webp" width="840" loading="lazy" alt="Seul’ün etkileşimli minyatürü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Açık harita verileriyle Three.js içinde Seul’ün bir minyatürünü oluşturun. Bölgelere göre gezinme, simge yapılar arasında kamera uçuşları, gündüz ve gece modları ile dokunmatik kontroller ekleyin. Basitleştirilen binaları, tahmini yükseklikleri ve veri lisanslarını belirtin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-miniature-of-seoul-2096557555086725159) · [Orijinal gönderi](https://x.com/synabreu/status/2096557555086725159) · [Canlı demo](https://seoul-3d-atlas.synabreu.chatgpt.site/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="mobile-playable-unity-rally-game-2096556692842348826"></a>
+
+### Telefonda oynanabilen Unity ralli oyunu
+
+[Kevin Kern](https://x.com/kevinkern) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826"><img src="../assets/previews/219cd13c167facbec9ddd5058239a6754acf90e5f31ff1951ae355d2a848f053.webp" width="840" loading="lazy" alt="Telefonda oynanabilen Unity ralli oyunu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Codex, Blender ve Unity ile bir ralli sürüş prototipi oluşturun. 3D varlıklarını ve kontrollerini telefonda oyun testine uygun hâle getirin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mobile-playable-unity-rally-game-2096556692842348826) · [Orijinal gönderi](https://x.com/kevinkern/status/2096556692842348826) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="trading-card-battle-game-loop-2096555856204644550"></a>
+
+### Koleksiyon kartı savaş oyununun döngüsü
+
+[FaryaBlender3D](https://x.com/FaryaBlender3D) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550"><img src="../assets/previews/f6c10a21f68071fa5998f11ef056789212a4397ae85f15358cf4aaf2642755a2.webp" width="840" loading="lazy" alt="Koleksiyon kartı savaş oyununun döngüsü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js ile bir koleksiyon kartı prototipi oluşturun: deste ve kart paketleri satın alma, deste hazırlama, savaş arenasına girme ve ödül kazanma. Geçici mesh’lerin bitmiş varlıklarla değiştirilebilmesini sağlayın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/trading-card-battle-game-loop-2096555856204644550) · [Orijinal gönderi](https://x.com/FaryaBlender3D/status/2096555856204644550) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-dual-ring-energy-core-2096551010089263181"></a>
+
+### Çift halkalı etkileşimli enerji çekirdeği
+
+[ruofeng](https://x.com/oneruofeng) · 2026-09-06 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181"><img src="../assets/previews/c061286a7d82de2bc241dbad7691f5376af7680bfeff99f1e8dfac2e6d60562a.webp" width="840" loading="lazy" alt="Çift halkalı etkileşimli enerji çekirdeği"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender’da bir enerji çekirdeği, iki halka ve metal bir taban modelleyin. Malzemeleri döndürme, yakınlaştırma, otomatik yörünge ve nabız efekti kontrolleri sunan bir Three.js görüntüleyicisine aktarın.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-dual-ring-energy-core-2096551010089263181) · [Orijinal gönderi](https://x.com/oneruofeng/status/2096551010089263181) · [Kaynak kodu](https://github.com/wangruofeng/orbital-core-showcase) · [Canlı demo](https://orbital-core-showcase.wangruofeng007.workers.dev/) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096547658164834788"></a>
 
 ### Hezekiel’in Tapınak Vizyonu: 3B
@@ -1563,237 +1770,6 @@ Blender'da küçük bir ilk kullanım dioraması oluştur ve Three.js'de canland
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Orijinal gönderi](https://x.com/ashebytes/status/2096221988763173186) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
-
-### Küpe hapsolmuş fırtına
-
-[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="Küpe hapsolmuş fırtına"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de havasını kontrol edebileceğin, bir küpe hapsolmuş fırtına üret.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Orijinal gönderi](https://x.com/zwb44/status/2096220264413409648) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096219700879331665"></a>
-
-### Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı
-
-[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı"></a>
-
-**İstem**
-
-```text
-Roblox MCP aracılığıyla Roblox Studio’da tamamlanmış ve özenle cilalanmış bir kart yarışı oyunu geliştirin. Blender ve Three.js ile prosedürel üretim kullanarak tutarlı ve ayrıntılı varlıklar oluşturun; ağları, UV’leri ve pişirilmiş dokuları Blender’da son hâline getirin, ardından uyumlu PBR dokulara sahip optimize Roblox MeshParts olarak içe aktarın. Ölçeği, pivotları, materyalleri ve çarpışmaları oyun içinde doğrulayın. Roblox’a özgü render sistemini ve Luau ile geliştirilen oynanışı kullanın; Three.js çalışma zamanı değil, varlık üretim aracıdır. Tepkisel sürüş ve drift, yapay zekâ rakipleri, kontrol noktaları, tur takibi ve yeniden başlatma özelliğine sahip eksiksiz geri sayımdan sonuç ekranına yarış döngüsü sunan, görsel olarak etkileyici ve tamamen hazırlanmış tek bir piste öncelik verin. Aydınlatmayı, görsel efektleri, sesi ve kullanıcı arayüzünü cilalayın. Tam yarışları oynayarak test edin, gerçek oynanış ekran görüntülerini inceleyin ve hatalı içe aktarmalar, görsel kusurlar ve oynanış hataları giderilene kadar yineleyin; bunu yaparken akıcı performansı koruyun. Yer tutuculara, özensiz varlıklara veya prototip görsellerine yer vermeyin. Yalnızca betikleri ya da dışa aktarılmış varlıkları değil, tamamen birleştirilmiş ve oynanabilir Roblox deneyimini teslim edin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096219700879331665) · [Orijinal gönderi](https://x.com/givros/status/2096219700879331665) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096213850383331489"></a>
-
-### Bisiklete Binen Etkileşimli Pelikan
-
-[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="Bisiklete Binen Etkileşimli Pelikan"></a>
-
-**İstem**
-
-```text
-Bisiklete binen bir pelikanın şık ve etkileşimli bir 3B sahnesini oluşturun ve tarayıcıda görüntüleyin.
-Pelikan kırmızı-beyaz bir bisiklet kaskı ve güneş gözlüğü taksın. Bisiklete nane yeşili, vintage bir kadro verin ve hareketi vurgulamak için animasyonlu hız çizgileri ekleyin.
-Sahneyi döndürmeme, yakınlaştırmama ve bisiklet sürme hızını ayarlamama izin verin. Bisiklet geometrisine, karakter oranlarına ve doğal pedal hareketine özellikle dikkat edin. Hız değişirken animasyonu akıcı tutun.
-Sayfayı özenli aydınlatma, uyumlu bir renk paleti ve temiz kontrollerle cilalı, herkese açık bir demoya hazır hâle getirin.
-Tamamlamadan önce tarayıcıda kendiniz test edin ve görsel ya da etkileşimle ilgili hataları düzeltin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
-The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
-Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
-Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
-Test it in the browser yourself and fix any visual or interaction bugs before finishing.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096213850383331489) · [Orijinal gönderi](https://x.com/aibuilderclub_/status/2096213850383331489) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
-
-### OX Vice Drive açık şehir yarışı
-
-[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="OX Vice Drive açık şehir yarışı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Trafik, drift ve teslimat yarışları olan açık şehir tarayıcı sürüş oyunu oluştur. Gezmesi keyifli ve eksiksiz sürüş döngüsünü destekleyen kıyı şehri tasarla.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Orijinal gönderi](https://x.com/qok_ai/status/2096206082712768897) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
-
-### Küçük çocuk için eğlenceli oyuncak dünyası
-
-[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="Küçük çocuk için eğlenceli oyuncak dünyası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de küçük çocuğun oyuncaklar arasında dolaşıp her birini farklı animasyonla kullandığı sıcak bir oyun odası oluştur. Oyun halısı, kitaplar, raflar ve tırmanma yapıları ekle; yörünge ve yakınlaştırma kontrolleri olsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Orijinal gönderi](https://x.com/aehyok/status/2096201415051911597) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
-
-### Referans görüntülerden römorkör montajı
-
-[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="Referans görüntülerden römorkör montajı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Referans görüntülerden Blender'da römorkör oluştur. Gövdeyi, eğimli kaptan köşkünü, güverte donanımlarını ve çekme ekipmanını modelle; tutarsız bakış açılarını tek bir tutarlı tekneye dönüştür.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Orijinal gönderi](https://x.com/NarvisAlex/status/2096180220839760375) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
-
-### Zubli: tepki veren WebGL karakteri
-
-[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="Zubli: tepki veren WebGL karakteri"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Altı sabit karakter pozunu nefes alan, göz kırpan, el sallayan ve imleci takip eden bir WebGL karakterine dönüştür. Deformasyonu ve render'ı akıcı 60 FPS için optimize et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [Orijinal gönderi](https://x.com/coxis/status/2096180133803561376) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
-
-### Kahve fincanında deniz yaşamı
-
-[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="Kahve fincanında deniz yaşamı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de kahve fincanının içinde minyatür deniz ekosistemi oluştur. Fincanı ve küçük ölçekli ortamı anlaşılır tutarken yönetilen kamerayla su yaşamını açığa çıkar.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Orijinal gönderi](https://x.com/PolaczekSagi/status/2096174858837074198) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096156244180664627"></a>
-
-### Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu
-
-[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu"></a>
-
-**İstem**
-
-```text
-Bir balık simülasyonu oyunu oluşturmak istiyorum. Balığı biz kontrol edelim ve başlangıçta seçebilelim. Oyuna bir evdeki akvaryumda başlayalım; yiyecek parçacıkları yukarıdan düşsün, ortaya çıksın ya da benzer bir yöntemle belirsin. Onlara yüzerek ulaşabilelim ve yiyecekleri yiyerek büyüyelim. Bize hasar verip küçülmemize neden olan engeller ve benzeri tehlikeler de olsun. Seviye atladıkça, okyanusa ulaşana kadar giderek daha büyük alanlara geçelim. Yediğimiz yiyecekler zamanla değişebilsin; başka balıkları ve diğer canlıları da yiyebilelim.
-Önce bu oyun için eksiksiz oynanış döngüsünü, bölüm tasarımlarını ve benzeri ayrıntıları bir Markdown dosyasında tanımlayın; ardından yerel olarak tarayıcımda oynayabileceğim bir oyuna dönüştürün. Gerekli teknoloji yığınını siz seçin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
-First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627) · [Orijinal gönderi](https://x.com/AVachaspat92841/status/2096156244180664627) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
-
-### Dropzone battle royale arenası
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone battle royale arenası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Fırtına çemberi, dokuz yapay zekâ düşmanı, darbe tüfeği, sağlık ve şarjör doldurmayla üçüncü şahıs tarayıcı battle royale oyunu kur. Yerleştirilebilir siper duvarları ve eksiksiz eleme döngüsü ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Orijinal gönderi](https://x.com/Motion_Viz/status/2096155883122413946) · [Örneklere dön](#all-prompts)
 
 ---
 

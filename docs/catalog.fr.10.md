@@ -26,8 +26,18 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Parcourir les exemples (16)</summary>
+<summary>Parcourir les exemples (26)</summary>
 
+- [Un prompt Claude Opus 5 pour une simulation interactive de main robotique 3D](#interactive-3d-robotic-hand-simulation-2081475055536820506)
+- [Un prompt pour ajouter une Vespa 125 à un configurateur 3D](#vespa-125-3d-configurator-2081439705506435440)
+- [Un prompt pour un simulateur de vol 3D ultraréaliste](#ultra-realistic-3d-flight-simulator-2081403842256605254)
+- [Un prompt pour construire un clone 3D de Minecraft avec Claude Opus 5](#build-a-3d-minecraft-clone-2081305039159620085)
+- [Un prompt pour un jeu Flappy Bird 3D](#3d-flappy-bird-game-2081260140117045275)
+- [Un prompt pour une animation cinématographique d'hélicoptère dans la jungle vietnamienne](#cinematic-vietnam-jungle-helicopter-animation-2081200833656451322)
+- [Jelly Jungle : jeu de plateformes 3D](#jelly-jungle-3d-browser-game-2081024333120733188)
+- [Un prompt Three.js pour une rue japonaise explorable au style anime dessiné à la main](#explorable-anime-style-japanese-street-2080834581247435102)
+- [Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3](#counter-strike-inspired-browser-game-2080821527365218759)
+- [Un prompt Kimi K3 pour un cache-cache en une seule génération](#one-shot-hide-and-seek-game-2080806989169307780)
 - [Une tâche de modélisation procédurale d'armes Three.js pour Claude Fable 5](#procedural-three-js-weapon-modeling-task-2080759312008503365)
 - [Trois prompts d'armes procédurales Three.js en un seul fichier HTML](#procedural-guns-in-single-file-three-js-2080757148078768504)
 - [Un prompt Kimi K3 pour un îlot urbain Three.js qui se transforme](#transforming-three-js-city-block-scene-2080724552422924382)
@@ -46,6 +56,252 @@
 - [Un prompt Three.js pour visiter un avion](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
+
+### Un prompt Claude Opus 5 pour une simulation interactive de main robotique 3D
+
+[Thomas Walker](https://x.com/ThomasMWWalker) · 2026-07-26 · Claude Opus 5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506"><img src="../assets/previews/893de44949657722634fde37075b8ab59694a202dc2edf075b3ee20696ddc913.webp" width="840" loading="lazy" alt="Un prompt Claude Opus 5 pour une simulation interactive de main robotique 3D"></a>
+
+**Prompt**
+
+```text
+J'ai donné à 9 configurations de modèle/raisonnement le même prompt en une seule génération : construire une simulation interactive de main robotique 3D.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-3d-robotic-hand-simulation-2081475055536820506) · [Publication originale](https://x.com/ThomasMWWalker/status/2081475055536820506) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="vespa-125-3d-configurator-2081439705506435440"></a>
+
+### Un prompt pour ajouter une Vespa 125 à un configurateur 3D
+
+[Raf Lorenz](https://x.com/rafintheloop) · 2026-07-26 · Claude Fable 5 · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/vespa-125-3d-configurator-2081439705506435440"><img src="../assets/previews/61878b1eb2698a477cfc94af0ef37426fe31091813393a2c800ea97b46f1e12a.webp" width="840" loading="lazy" alt="Un prompt pour ajouter une Vespa 125 à un configurateur 3D"></a>
+
+**Prompt**
+
+```text
+Ajoute une Vespa 125 à mon configurateur 3D, de bout en bout.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/vespa-125-3d-configurator-2081439705506435440) · [Publication originale](https://x.com/rafintheloop/status/2081439705506435440) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="ultra-realistic-3d-flight-simulator-2081403842256605254"></a>
+
+### Un prompt pour un simulateur de vol 3D ultraréaliste
+
+[noclipepe](https://x.com/noclipepe) · 2026-07-26 · Claude Fable 5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254"><img src="../assets/previews/6a5fac190e6494b9125edc570238f7490ab4918dedac3032fad63351e3c247b1.webp" width="840" loading="lazy" alt="Un prompt pour un simulateur de vol 3D ultraréaliste"></a>
+
+**Prompt**
+
+```text
+Construis un simulateur de vol 3D ultraréaliste.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/ultra-realistic-3d-flight-simulator-2081403842256605254) · [Publication originale](https://x.com/noclipepe/status/2081403842256605254) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="build-a-3d-minecraft-clone-2081305039159620085"></a>
+
+### Un prompt pour construire un clone 3D de Minecraft avec Claude Opus 5
+
+[OpenBuilder](https://x.com/BuilderGuest) · 2026-07-26 · Claude Opus 5 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085"><img src="../assets/previews/66629a1792ed6a70270b0fd65c3f95d333604bd881484bd2a868d027c42b832b.webp" width="840" loading="lazy" alt="Un prompt pour construire un clone 3D de Minecraft avec Claude Opus 5"></a>
+
+**Prompt**
+
+```text
+CLAUDE OPUS 5 a construit un clone de Minecraft en 30 minutes avec un prompt simple : « Crée un clone complet de Minecraft en 3D »
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/build-a-3d-minecraft-clone-2081305039159620085) · [Publication originale](https://x.com/BuilderGuest/status/2081305039159620085) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="3d-flappy-bird-game-2081260140117045275"></a>
+
+### Un prompt pour un jeu Flappy Bird 3D
+
+[SrijibBose](https://x.com/SrijibBose) · 2026-07-26 · Claude Fable 5 / Claude Opus 5 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/3d-flappy-bird-game-2081260140117045275"><img src="../assets/previews/6bfdbf5851fa3e79ce495c3d690642a519188fba0f1a71dc591c85a02235fd08.webp" width="840" loading="lazy" alt="Un prompt pour un jeu Flappy Bird 3D"></a>
+
+**Prompt**
+
+```text
+Construis un jeu Flappy Bird 3D.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/3d-flappy-bird-game-2081260140117045275) · [Publication originale](https://x.com/SrijibBose/status/2081260140117045275) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"></a>
+
+### Un prompt pour une animation cinématographique d'hélicoptère dans la jungle vietnamienne
+
+[Kirill](https://x.com/kirillk_web3) · 2026-07-26 · Claude Fable 5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322"><img src="../assets/previews/e94e5c3f2b6809cace399dad9b58b93f9a5373b3eb8ef8fdd56d0cb9b6f9b967.webp" width="840" loading="lazy" alt="Un prompt pour une animation cinématographique d'hélicoptère dans la jungle vietnamienne"></a>
+
+**Prompt**
+
+```text
+Une animation 3D cinématographique d'un hélicoptère militaire volant dans la jungle vietnamienne pendant la guerre.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/cinematic-vietnam-jungle-helicopter-animation-2081200833656451322) · [Publication originale](https://x.com/kirillk_web3/status/2081200833656451322) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="jelly-jungle-3d-browser-game-2081024333120733188"></a>
+
+### Jelly Jungle : jeu de plateformes 3D
+
+[Jared](https://x.com/jaredliu_bravo) · 2026-07-25 · GPT-6 Astra · Jeux
+
+Remix de: [aditya](https://x.com/adxtyahq)
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188"><img src="../assets/previews/815c5ad225ff6eb6759c3d0089ffc1083317658193bdce2a61a2e955a487306d.webp" width="840" loading="lazy" alt="Jelly Jungle : jeu de plateformes 3D"></a>
+
+**Prompt**
+
+```text
+# Jelly Jungle — Une aventure dans les airs
+
+## 1. Objectif
+Créez un jeu de plateformes complet à la troisième personne dans lequel un jelly rose coiffé d’une pousse de menthe traverse 13 îles flottantes grâce aux triples sauts et aux champignons-ressorts. Utilisez https://jelly-jungle.tripo.page/ ainsi que les références fournies pour le parcours, la composition et le style visuel final. Il s’agit de la reconstruction de Jared, inspirée de la publication Jelly Jungle d’aditya sur https://x.com/adxtyahq/status/2081024333120733188. Toute l’interface du jeu reste en anglais.
+
+## 2. Direction visuelle
+Créez un univers de jouets sculptés aux formes douces, dans des tons menthe, sauge, crème, turquoise, rose corail et or chaud. Utilisez des îles épaisses couvertes d’herbe, aux rebords arrondis, avec des dessous en roche gris chaud irrégulière, des lianes retombantes, des fleurs, des galets, de minuscules champignons, quelques cascades et une mer de nuages pâles. Ajoutez des ombres douces, un léger brouillard, une subtile réflexion de l’environnement, des animations de respiration et de squash-and-stretch, des arbres qui se balancent et des cristaux en rotation. Gardez les rochers sous le plan d’atterrissage et la végétation à l’écart de la prochaine zone d’atterrissage.
+
+Sur les écrans de bureau, réservez les 35 à 40 % de gauche au titre empilé JELLY / JUNGLE et au CTA ; cadrez l’île de départ au centre-droit, avec le parcours qui s’éloigne vers le haut à droite. Utilisez une caméra en perspective proche de (13,20,25), visant (-5,1.5,-5), avec un champ de vision vertical d’environ 40°, puis ajustez-la en fonction de la référence. Sur un téléphone de 390 px, recadrez le jelly et l’île au-dessus du titre au lieu de rogner la vue bureau. Pendant le jeu, suivez le personnage par-derrière avec un décalage proche de (0,8.8,15.3), en visant environ 5,8 unités devant lui. Conservez un horizon stable et une ombre au sol bien visible.
+
+Utilisez une police d’affichage locale de style Barlow Condensed, des contrôles de style DM Sans, des boutons vert forêt et des panneaux légèrement givrés. Texte d’ouverture : « Born to bounce. » et « Let’s bounce ». Affichez les boutons utilitaires au-dessus, un HUD de course compact pendant le jeu, une jauge de saut à trois segments en dessous et un sélecteur bien visible Classic / Tripo AI. Le joystick tactile, le bouton Jump, le HUD et le pied de page doivent rester séparés.
+
+## 3. Parcours
+Utilisez les données de base suivantes. L’avant correspond à Z négatif ; y indique la hauteur d’atterrissage et r le rayon de collision. Ajoutez une bannière de départ et un portail d’arrivée or chaud.
+
+| Île | x | z | y | r | Type / nom |
+| --- | --- | --- | --- | --- | --- |
+| 01 | 0 | 0 | 1.2 | 5.4 | départ / First Leap |
+| 02 | 0 | -10 | 1.6 | 3.1 | simple / Easy Does It |
+| 03 | -4 | -19 | 2.0 | 3.1 | ressort / Mushroom Launch |
+| 04 | 2 | -29 | 3.2 | 3.6 | rotative / Candy Spinner |
+| 05 | 7 | -39 | 3.8 | 4.0 | point de contrôle / Cloud Camp |
+| 06 | 1 | -49 | 4.1 | 3.1 | mobile / Wandering Island |
+| 07 | -6 | -59 | 4.7 | 3.2 | ressort / Bounce Again |
+| 08 | -1 | -71 | 5.8 | 3.8 | rotative / Double Trouble |
+| 09 | 7 | -82 | 6.5 | 4.0 | point de contrôle / Starlight Camp |
+| 10 | 4 | -92 | 7.1 | 3.0 | friable / Keep Moving |
+| 11 | -3 | -102 | 7.7 | 3.2 | mobile / Cloud Crossing |
+| 12 | -7 | -113 | 8.2 | 3.3 | ressort / One Last Bounce |
+| 13 | 0 | -127 | 10.0 | 5.0 | arrivée / Above the Clouds |
+
+## 4. Inventaire des assets
+Préparez trois familles de remplacement, dans l’ordre suivant :
+- `jelly`: personnage en vinyle souple rose bonbon aux formes arrondies, avec de petits bras et de petits pieds, de grands yeux ovales foncés avec des reflets, des joues roses, un petit sourire et une pousse de menthe à deux feuilles ; gardez son visage visible et sa hauteur proche de 1,65 unité.
+- `mushroom`: large dôme rose corail avec des taches ivoire en relief, des lamelles crème et un pied court et épais ; réutilisez-le pour chaque ressort, avec un chapeau généreux et stable.
+- `tree`: tronc courbé brun pêche, grandes feuilles de palmier arrondies turquoise et menthe, et petits bouquets de fruits pêche ; réutilisez-le sur l’ensemble du parcours.
+Gardez les îles, les nuages, les lianes, les fleurs, les petits rochers, les nappes de cascade, les cristaux, les drapeaux, les éléments rotatifs et le portail procéduraux. Ils définissent le parcours et les effets, plutôt que de constituer des tâches supplémentaires de génération de modèles. Placez chaque modèle dans un conteneur sans mise à l’échelle ; la base des pieds ou du tronc doit être à y=0 en coordonnées locales. Alignez numériquement et visuellement le chapeau du champignon avec la surface de collision. Conservez les mêmes colliders dans les deux modes.
+
+## 5. Physique et feedback
+Utilisez un pas fixe de 1/120 seconde, une gravité proche de 22 unités/s², une vitesse de déplacement proche de 8,8 unités/s, une accélération réactive au sol et une direction plus douce dans les airs. Normalisez les déplacements en diagonale. Les touches WASD/flèches déplacent le personnage ; une nouvelle pression sur Espace déclenche un saut. Autorisez exactement trois sauts avant l’atterrissage : une vitesse verticale initiale d’environ 9,2 et deux sauts aériens d’environ 8,5. Maintenir une touche enfoncée ne doit jamais répéter les sauts. L’atterrissage recharge les trois sauts. Un champignon-ressort propulse le personnage à environ 16, recharge les sauts et se comprime puis rebondit, avec un délai avant réactivation.
+
+Les plateformes tournantes transportent les personnages au sol ; les barres de bonbon rotatives basses ne repoussent le personnage qu’en cas de contact avec le segment et de chevauchement vertical. Les sauts permettent de les franchir. Accordez environ 1,7 seconde d’immunité après un impact. Les îles mobiles oscillent horizontalement d’environ 2,6 unités et transportent les personnages au sol selon leur déplacement. Les îles friables tremblent, disparaissent 1,5 seconde après l’atterrissage et réapparaissent après environ 4 secondes ; les plateformes masquées ne doivent pas entrer en collision.
+
+Les points de contrôle des îles 05 et 09 restaurent la position, la vélocité et les sauts après une chute, tout en conservant les cristaux récupérés et en incrémentant le nombre de chutes. La touche R permet de revenir manuellement sans pénalité de chute. Placez trois cristaux par île, soit 39 au total ; chaque cristal ne peut être récupéré qu’une fois, avec son, particules et retour visuel dans le HUD. Atteindre l’île finale termine la partie exactement une fois ; les cristaux sont facultatifs. Affichez le temps, les cristaux, l’île et la progression ; à la fin, affichez le temps, le nombre de chutes et les étoiles : trois à partir de 30 cristaux, deux à partir de 18, sinon une. Enregistrez le meilleur temps et proposez de rejouer. Aucun système de santé ni combat.
+
+Fournissez un joystick tactile avec capture du pointeur et un grand bouton Jump ; chaque pression ne doit consommer qu’un seul saut au maximum. Réinitialisez les entrées annulées ou maintenues. Ajoutez des boîtes de dialogue d’aide et de pause, une reprise après le masquage de l’onglet, un feedback non bloquant et un Web Audio facultatif, désactivé par défaut. Le redémarrage réinitialise tout l’état de la partie, des objets à récupérer et des plateformes.
+
+## 6. Implémentation
+Utilisez Vite, Three.js et du JavaScript/HTML/CSS natif, avec des modules distincts pour la physique et le parcours, le registre du monde et des assets, l’ajustement, les entrées et l’interface, ainsi que l’audio. Regroupez localement les dépendances, les polices et les assets. GLTFLoader importe des modèles autonomes ; validez leurs limites finies, leur géométrie visible et leurs ressources intégrées avant le remplacement. Conservez le modèle actuel en cas d’échec, empêchez les chargements asynchrones obsolètes et libérez les ressources remplacées. Blender est facultatif pour nettoyer le maillage ou corriger le pivot si nécessaire.
+
+Le mode Classic utilise les trois variantes procédurales ; le mode importé utilise les remplacements disponibles et indique leur état réel. Le changement de mode ou l’importation conserve la position, la vélocité, les charges de saut, le temps, les cristaux et les points de contrôle sans rechargement. Instanciez ou fusionnez les éléments de décor statiques répétés, plafonnez le DPR autour de 1,5 et limitez les effets. Mesurez les appels de rendu, les triangles et le temps par image avec la caméra réelle ; réduisez d’abord la décoration lointaine.
+
+## 7. Validation
+Livrez l’intégralité du code source, le lockfile, les commandes exactes de développement et de build, ainsi que la sortie statique. Vérifiez les trois sauts initiaux et l’absence de quatrième saut, l’alignement des ressorts, le transport par les plateformes mobiles, le contact avec les balayeuses, la disparition et la réapparition des plateformes friables, les points de contrôle, les objets à récupérer uniques, la pause, le redémarrage et l’arrivée. Terminez les 13 îles avec les entrées et la physique réelles ; la téléportation ne prouve pas que le parcours est franchissable. Testez le clavier et le tactile, les deux modes graphiques, chaque chemin d’importation, de réinitialisation et d’échec, ainsi que la conservation de l’état. Comparez les vues d’ouverture et de jeu stabilisées sur ordinateur et mobile, inspectez les débordements et les erreurs de chargement, puis indiquez les conditions réelles de performance. Suivez le workflow d’assets partagé ci-dessous.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/jelly-jungle-3d-browser-game-2081024333120733188) · [Publication originale](https://x.com/adxtyahq/status/2081024333120733188) · [Démo](https://jelly-jungle.tripo.page/) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="explorable-anime-style-japanese-street-2080834581247435102"></a>
+
+### Un prompt Three.js pour une rue japonaise explorable au style anime dessiné à la main
+
+[GMI Cloud](https://x.com/gmi_cloud) · 2026-07-25 · Claude Fable 5 · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102"><img src="../assets/previews/ddeeb9a616d1389520a805b4285da4398469bb921b26557850569308bfee5b9f.webp" width="840" loading="lazy" alt="Un prompt Three.js pour une rue japonaise explorable au style anime dessiné à la main"></a>
+
+**Prompt**
+
+```text
+construis une rue de banlieue japonaise explorable dans Three.js, entièrement en 3D, avec un rendu de décor d'anime dessiné à la main
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/explorable-anime-style-japanese-street-2080834581247435102) · [Publication originale](https://x.com/gmi_cloud/status/2080834581247435102) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-browser-game-2080821527365218759"></a>
+
+### Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-25 · Kimi K3 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759"><img src="../assets/previews/c0bc14c25c43a007cf275f98e2a288e5cbeb6b93b0e345736923b4fc5975318f.webp" width="840" loading="lazy" alt="Un jeu pour navigateur inspiré de Counter-Strike avec Kimi K3"></a>
+
+**Prompt**
+
+```text
+J'ai construit un jeu inspiré de Counter-Strike dans le navigateur avec Kimi K3.
+
+Un seul fichier HTML. Plus de 3 700 lignes de code. Aucune étape de build.
+
+Il comprend :
+
+🔫 Une carte inspirée de Dust2 avec tunnels, passerelle et Long A
+🎯 AK, AWP avec lunette, MP5, couteau et rechargement
+🤖 10 bots IA qui patrouillent, réagissent aux tirs et attaquent votre position
+💥 Tirs à la tête, fil des éliminations et manches de 2 minutes
+🔊 Un audio entièrement procédural, sans fichiers son
+🌐 Construit avec Three.js et des matériaux PBR, entièrement dans le navigateur
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/counter-strike-inspired-browser-game-2080821527365218759) · [Publication originale](https://x.com/Oluwaphilemon1/status/2080821527365218759) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="one-shot-hide-and-seek-game-2080806989169307780"></a>
+
+### Un prompt Kimi K3 pour un cache-cache en une seule génération
+
+[scalp](https://x.com/0x_scalp) · 2026-07-25 · Kimi K3 / Claude Fable 5 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780"><img src="../assets/previews/1bea01d163bf02ae5130e0c1521562bc5a65a47eafb602da3132bcf83248819f.webp" width="840" loading="lazy" alt="Un prompt Kimi K3 pour un cache-cache en une seule génération"></a>
+
+**Prompt**
+
+```text
+Un cache-cache en une seule génération : un caméléon blanc caché dans une pièce dessinée à la main se peint pour se fondre dans le mur et survit à trois balayages d'un robot chercheur. Pourcentage de correspondance par différence de pixels en direct, cinq zones procédurales, son synthétisé, trois manches à score — un fichier HTML, aucune bibliothèque.
+```
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/one-shot-hide-and-seek-game-2080806989169307780) · [Publication originale](https://x.com/0x_scalp/status/2080806989169307780) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="procedural-three-js-weapon-modeling-task-2080759312008503365"></a>
 
 ### Une tâche de modélisation procédurale d'armes Three.js pour Claude Fable 5

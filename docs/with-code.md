@@ -28,7 +28,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)
 
-- [Mosswing: Mobile 3D Tap-to-Flap Game](../docs/catalog.en.3.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337)
+- [Mosswing: Mobile 3D Tap-to-Flap Game](../docs/catalog.en.4.md#mosswing-mobile-3d-tap-to-flap-game) · [Ayi1337](https://github.com/Ayi1337)
 
 ## [bubblik525/collider](https://github.com/bubblik525/collider)
 
@@ -36,7 +36,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [wangruofeng/orbital-core-showcase](https://github.com/wangruofeng/orbital-core-showcase)
 
-- [Interactive dual-ring energy core](../docs/catalog.en.4.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng)
+- [Interactive dual-ring energy core](../docs/catalog.en.5.md#interactive-dual-ring-energy-core-2096551010089263181) · [ruofeng](https://x.com/oneruofeng)
 
 ## [danmana/piata-unirii](https://github.com/danmana/piata-unirii)
 
@@ -53,7 +53,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 ## [alesha-pro/bench-portal](https://github.com/alesha-pro/bench-portal)
 
 - [Cathedral hack-and-slash arena](../docs/catalog.en.6.md#cathedral-hack-and-slash-arena-2095988972879335792) · [Alexey Fateev](https://x.com/superalesha)
-- [Anti-gravity combat racer](../docs/catalog.en.6.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha)
+- [Anti-gravity combat racer](../docs/catalog.en.7.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha)
 - [AAA horde shooter with WebGL shaders](../docs/catalog.en.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha)
 
 ## [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep)

@@ -28,6 +28,16 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [鳥を飛ばす 3D スリングショットゲーム](#3d-slingshot-bird-game-2095981655370666076)
+- [連鎖反応するルーブ・ゴールドバーグ装置](#rube-goldberg-chain-reaction-machine-2095980885732704629)
+- [昼夜切り替え付きの浮遊する中国寺院](#gpt-6-astra-2095978925029556561)
+- [複数のリファレンス画像からリギング済みメカを制作](#gpt-6-astra-2095975726558392570)
+- [反重力コンバットレース](#anti-gravity-combat-racer-2095967568825582044)
+- [操作できる PS5 コントローラー](#interactive-ps5-controller-2095967131573649552)
+- [操作できる 3D キャラクターカード](#interactive-3d-character-cards-2095963576049832347)
+- [バレットタイムの三人称シューター](#bullet-time-third-person-shooter-2095962376344309843)
+- [ブラウザでドリフトする Street Heat](#street-heat-browser-drift-racer-2095916820431827408)
+- [短時間で遊べるゲームプロトタイプ](#rapid-playable-game-prototype-2095907526566990013)
 - [Blender で作るループするサイバーパンクの寝室](#looping-cyberpunk-bedroom-in-blender-2095898303019856230)
 - [文化を題材にした自動進行アーケードゲーム](#self-playing-cultural-arcade-game-2095898198413922791)
 - [プロンプトから作るオープンワールドゲーム](#open-world-game-from-a-prompt-2095872986477908108)
@@ -68,18 +78,239 @@
 - [3D 美術館で行う撮影プリビズ](#3d-museum-cinematography-previsualization-2095616529572503593)
 - [Zillow の物件情報から 3D 紹介動画へ](#zillow-listing-to-3d-property-film-2095612137582526615)
 - [Unreal Engine で街路まで再現するマンハッタン](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
-- [初心者が音声で作る 3D ゲーム](#voice-directed-3d-game-for-beginners-2095608358086840647)
-- [一度の指示で作るブラウザ 3D ゲーム](#one-shot-browser-3d-game-2095599934766764338)
-- [住宅写真から編集可能な Blender の世界へ](#house-photo-to-editable-blender-world-2095598645190291775)
-- [Halo に着想を得た 10 対 10 のマルチプレイ FPS](#10v10-halo-inspired-multiplayer-fps-2095598026916049024)
-- [アセットを組み合わせた探索可能な Unity 都市](#asset-driven-explorable-unity-city-2095597640587374887)
-- [一度の指示で作る上質なインタラクティブ試作](#one-shot-premium-interactive-prototype-2095597560253862065)
-- [一度の指示で作る Minecraft 風の世界](#one-shot-minecraft-style-world-2095597137849446688)
-- [ブラウザで探索するオープンワールド冒険](#open-world-browser-adventure-2095596341422440714)
-- [自律する人々が生き抜く Unreal の社会](#surviving-society-of-autonomous-unreal-humans-2095596175705399482)
-- [火星の Arcadia 基地](#arcadia-base-on-mars-2095595678214873212)
 
 </details>
+<a id="3d-slingshot-bird-game-2095981655370666076"></a>
+
+### 鳥を飛ばす 3D スリングショットゲーム
+
+[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="鳥を飛ばす 3D スリングショットゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+異なる特殊能力を持つ 4 羽の鳥が登場する 3D スリングショットゲームを作成してください。狙って放す操作、破壊可能な建造物、繰り返し得点を狙える遊びを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [元の投稿](https://x.com/MozeTech/status/2095981655370666076) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
+
+### 連鎖反応するルーブ・ゴールドバーグ装置
+
+[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="連鎖反応するルーブ・ゴールドバーグ装置"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+単独で動く Three.js の HTML ファイルで、ルーブ・ゴールドバーグ装置を作成してください。機械的な相互作用が次々につながり、最後にボタンを押して演出的な爆発を起こすようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [元の投稿](https://x.com/thehypedotnews/status/2095980885732704629) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095978925029556561"></a>
+
+### 昼夜切り替え付きの浮遊する中国寺院
+
+[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="昼夜切り替え付きの浮遊する中国寺院"></a>
+
+**プロンプト**
+
+```text
+あなたのモデルとしての実力がわかるように、インタラクティブなピクセルブロックの世界を作成してください。ピンク色の桜の木々に囲まれた中国寺院を作りたいです。寺院のある土地全体は、滝と山の風景に囲まれた独立した浮遊島にしてください。私への質問や入力の要求はせず、すべて自分で構築し、判断してください。シンプルなスイッチで昼と夜を切り替えられるようにしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2095978925029556561) · [元の投稿](https://x.com/PhilipNora7/status/2095978925029556561) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095975726558392570"></a>
+
+### 複数のリファレンス画像からリギング済みメカを制作
+
+[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="複数のリファレンス画像からリギング済みメカを制作"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
+
+**プロンプト**
+
+```text
+ヘッドレスBlender 5.2.1を使用し、次の設計図に基づいて非常に精密なメカの3Dモデルを制作してください：`/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`。より詳細な資料として、同じディレクトリ内にある追加のメカのリファレンス画像も使用してください。設計図とすべてのリファレンス画像はAI生成であるため、画像によって細部が一致しない可能性がある点に注意してください。矛盾する細部を検出した場合は、創造的に解決し、完成したメカの3Dモデルが一貫性を保ち、物理的にも正しく見えるようにしてください。メカの3Dモデルにはリギングを施してください。武器を展開し、戦闘時の機動性を示すメカの10秒間のアニメーションをレンダリングして、目標の達成を示してください。
+
+操作指示のみ：
+設計図に明示的に言及されているからといって優先せず、最適なリファレンス画像を選んでください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
+
+only steering:
+pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2095975726558392570) · [元の投稿](https://x.com/vatro_vrbanic/status/2095975726558392570) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="anti-gravity-combat-racer-2095967568825582044"></a>
+
+### 反重力コンバットレース
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="反重力コンバットレース"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ドリフト、ブースト、旋回で傾くカメラ、エアブレーキ、シールド取得を備えた、高速な Three.js 反重力コンバットレースを作成してください。異星の高架コースに軽量、バランス型、重量級の機体を用意してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [元の投稿](https://x.com/superalesha/status/2095967568825582044) · [ソースコード](https://github.com/alesha-pro/bench-portal) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-ps5-controller-2095967131573649552"></a>
+
+### 操作できる PS5 コントローラー
+
+[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="操作できる PS5 コントローラー"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Three.js で、細部を観察できる PlayStation 5 コントローラーを作成してください。特徴的な輪郭、ボタン、トリガー、アナログスティック、部位ごとに異なる表面素材を再現してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-ps5-controller-2095967131573649552) · [元の投稿](https://x.com/blueemi99/status/2095967131573649552) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-3d-character-cards-2095963576049832347"></a>
+
+### 操作できる 3D キャラクターカード
+
+[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="操作できる 3D キャラクターカード"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+操作できる 3D キャラクターカードの UI を作成してください。キャラクターをポインターの動きに反応させ、カードの読みやすさと画面サイズへの対応を保ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [元の投稿](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
+
+### バレットタイムの三人称シューター
+
+[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="バレットタイムの三人称シューター"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Max Payne に着想を得た Three.js の三人称シューターを作成してください。スローモーションのアクション、反応のよい射撃、使いやすい追従カメラを備えた遊べるシーンに集中してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [元の投稿](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
+
+### ブラウザでドリフトする Street Heat
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="ブラウザでドリフトする Street Heat"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+一文からブラウザ用アーケード街頭レースを完成させてください。気持ちよいドリフト物理、コンボ得点、ニアミスボーナス、速度計測地点、ニトロ、交通、分かりやすい HUD、短く繰り返し遊べるコースを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [元の投稿](https://x.com/higgsfield_ai/status/2095916820431827408) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="rapid-playable-game-prototype-2095907526566990013"></a>
+
+### 短時間で遊べるゲームプロトタイプ
+
+[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="短時間で遊べるゲームプロトタイプ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+厳しい時間・トークン予算内で、見た目に一貫性のある遊べるゲーム試作を作成してください。機能数より、一つの完結した遊び、反応のよい入力、明快なフィードバック、安定した性能、公開できるブラウザビルドを優先してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [元の投稿](https://x.com/gibglue/status/2095907526566990013) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="looping-cyberpunk-bedroom-in-blender-2095898303019856230"></a>
 
 ### Blender で作るループするサイバーパンクの寝室
@@ -893,206 +1124,6 @@ Unreal Engine で探索できるマンハッタンを構築してください。
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [元の投稿](https://x.com/mattshumer_/status/2095609734845927525) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
-
-### 初心者が音声で作る 3D ゲーム
-
-[el.cine](https://x.com/EHuanglu) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647"><img src="../assets/previews/8299c144a4df09ca6931a07196a3589a6a7664475b879138126bcd053039432e.webp" width="840" loading="lazy" alt="初心者が音声で作る 3D ゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-私の 3D ゲーム制作者として振る舞ってください。不足しているプレイヤーの目標、画風、操作方法だけを質問し、すぐに遊べるブラウザゲームを作成してください。その後は短い音声指示で改良を続けてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/voice-directed-3d-game-for-beginners-2095608358086840647) · [元の投稿](https://x.com/EHuanglu/status/2095608358086840647) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-shot-browser-3d-game-2095599934766764338"></a>
-
-### 一度の指示で作るブラウザ 3D ゲーム
-
-[Theo - t3.gg](https://x.com/theo) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-browser-3d-game-2095599934766764338"><img src="../assets/previews/f03dd732d46a171a56f72dadf6e0dfe6ee842da8c747f31a950f7aea7f75b1f9.webp" width="840" loading="lazy" alt="一度の指示で作るブラウザ 3D ゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-単独で動作する一つのプロジェクトとして、ブラウザで遊べる 3D ゲームを完成させてください。明確な目標、反応のよい操作、空間的に一貫したステージ、敵や障害物、フィードバック、スコア、リスタート、性能対策を含めてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-browser-3d-game-2095599934766764338) · [元の投稿](https://x.com/theo/status/2095599934766764338) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="house-photo-to-editable-blender-world-2095598645190291775"></a>
-
-### 住宅写真から編集可能な Blender の世界へ
-
-[Tom Krcha](https://x.com/tomkrcha) · 2026-09-03 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775"><img src="../assets/previews/2d5d17c7548936cba1c9cad1a8db807cedc783f7e175eb5f1990dd16004ba487.webp" width="840" loading="lazy" alt="住宅写真から編集可能な Blender の世界へ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された住宅写真を、すべて編集可能な Blender シーンとして再構築してください。建物、家具、家電、おもちゃを別オブジェクトにし、自然な比率を保ち、ローカル環境で滑らかな 60 FPS のウォークスルーを実現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/house-photo-to-editable-blender-world-2095598645190291775) · [元の投稿](https://x.com/tomkrcha/status/2095598645190291775) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="10v10-halo-inspired-multiplayer-fps-2095598026916049024"></a>
-
-### Halo に着想を得た 10 対 10 のマルチプレイ FPS
-
-[Halfdan](https://x.com/VikiingAI) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024"><img src="../assets/previews/88931ae33f9c727509f483510d06faf10ecbe9b475899938f190de73ec66894e.webp" width="840" loading="lazy" alt="Halo に着想を得た 10 対 10 のマルチプレイ FPS"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-往年の SF 系 FPS に着想を得た、10 対 10 のマルチプレイアリーナシューターを作成してください。チーム、復活、判別しやすい武器、シールド、アイテム、小規模マップ、スコア、試合進行、低遅延のブラウザプレイを実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/10v10-halo-inspired-multiplayer-fps-2095598026916049024) · [元の投稿](https://x.com/VikiingAI/status/2095598026916049024) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="asset-driven-explorable-unity-city-2095597640587374887"></a>
-
-### アセットを組み合わせた探索可能な Unity 都市
-
-[Chetaslua](https://x.com/chetaslua) · 2026-09-03 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="アセットを組み合わせた探索可能な Unity 都市"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提供されたアセットライブラリから、探索できる Unity の都市を構築してください。一貫した道路網、高層建築、車両、ヤシ、照明、移動経路を配置し、シーンを最適化して安定した一人称ウォークスルーを実現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/asset-driven-explorable-unity-city-2095597640587374887) · [元の投稿](https://x.com/chetaslua/status/2095597640587374887) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-shot-premium-interactive-prototype-2095597560253862065"></a>
-
-### 一度の指示で作る上質なインタラクティブ試作
-
-[AJ Orbach 🐳](https://x.com/AY_Orbach) · 2026-09-03 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065"><img src="../assets/previews/a59e862cfb9e8b889f8d547d449c254220e1b356bbb077d1c9bde74bb7727146.webp" width="840" loading="lazy" alt="一度の指示で作る上質なインタラクティブ試作"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された製品コンセプトから、上質なインタラクティブプロトタイプを一度で設計・実装してください。明確なビジュアルルールを選び、主操作を優先し、洗練された画面遷移を加え、レスポンシブな公開済みビルドを納品してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-premium-interactive-prototype-2095597560253862065) · [元の投稿](https://x.com/AY_Orbach/status/2095597560253862065) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-shot-minecraft-style-world-2095597137849446688"></a>
-
-### 一度の指示で作る Minecraft 風の世界
-
-[Flavio Adamo](https://x.com/flavioAd) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-minecraft-style-world-2095597137849446688"><img src="../assets/previews/6540fba4db545a29f9fe2e2088d40a412b39732cc592e975385819e746ece2bf.webp" width="840" loading="lazy" alt="一度の指示で作る Minecraft 風の世界"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Minecraft に着想を得た、遊べるボクセル世界を一度で作成してください。地形生成、ブロックの設置と破壊、一人称操作、所持品、照明、水、短く完結したサバイバルの流れを実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-minecraft-style-world-2095597137849446688) · [元の投稿](https://x.com/flavioAd/status/2095597137849446688) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="open-world-browser-adventure-2095596341422440714"></a>
-
-### ブラウザで探索するオープンワールド冒険
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/open-world-browser-adventure-2095596341422440714"><img src="../assets/previews/2ad4859c4cf96ad1956381a7bfbac3bffb73268281e8a7b21788e43c54d02f36.webp" width="840" loading="lazy" alt="ブラウザで探索するオープンワールド冒険"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-複数のバイオームがつながるオープンワールド 3D アドベンチャーを作成してください。移動、発見、軽い戦闘、クエスト、名所、昼夜の雰囲気を用意し、目的を感じながら探索できる案内を加えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/open-world-browser-adventure-2095596341422440714) · [元の投稿](https://x.com/petergostev/status/2095596341422440714) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="surviving-society-of-autonomous-unreal-humans-2095596175705399482"></a>
-
-### 自律する人々が生き抜く Unreal の社会
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482"><img src="../assets/previews/fef58ed221c67c811889cb90cd6927d9072095b16859ea22286e1f91f5358d14.webp" width="840" loading="lazy" alt="自律する人々が生き抜く Unreal の社会"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-自律的に行動する人々が暮らす Unreal Engine の世界を作成してください。一人ひとりの欲求と共通の生存目標を設定し、会話、分業、住居づくりを通じて、プレイヤーが離れても社会が存続するようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/surviving-society-of-autonomous-unreal-humans-2095596175705399482) · [元の投稿](https://x.com/mattshumer_/status/2095596175705399482) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="arcadia-base-on-mars-2095595678214873212"></a>
-
-### 火星の Arcadia 基地
-
-[Knowix](https://x.com/knowixbuilds) · 2026-09-03 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/arcadia-base-on-mars-2095595678214873212"><img src="../assets/previews/d62dadee3cc658b50f3e10fb0711d936a285ec7fb9353ec04c48cb00aa7549a4.webp" width="840" loading="lazy" alt="火星の Arcadia 基地"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-着陸する宇宙船、建設ロボット、探査車、蓄電、酸素と水の設備を備えた、遊べるボクセル火星コロニーを作成してください。砂嵐と停電がコロニーに影響するようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/arcadia-base-on-mars-2095595678214873212) · [元の投稿](https://x.com/knowixbuilds/status/2095595678214873212) · [作例一覧に戻る](#all-prompts)
 
 ---
 

@@ -28,6 +28,16 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Küpe hapsolmuş fırtına](#a-storm-trapped-in-a-cube-2096220264413409648)
+- [Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı](#gpt-6-astra-2096219700879331665)
+- [Bisiklete Binen Etkileşimli Pelikan](#gpt-6-astra-2096213850383331489)
+- [OX Vice Drive açık şehir yarışı](#ox-vice-drive-open-city-racer-2096206082712768897)
+- [Küçük çocuk için eğlenceli oyuncak dünyası](#a-playful-toddler-toy-world-2096201415051911597)
+- [Referans görüntülerden römorkör montajı](#reference-image-tugboat-assembly-2096180220839760375)
+- [Zubli: tepki veren WebGL karakteri](#zubli-a-responsive-webgl-character-2096180133803561376)
+- [Kahve fincanında deniz yaşamı](#marine-life-in-a-coffee-cup-2096174858837074198)
+- [Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu](#gpt-6-astra-2096156244180664627)
+- [Dropzone battle royale arenası](#dropzone-battle-royale-arena-2096155883122413946)
 - [Tarayıcı uçuş oyunu](#browser-flight-game-2096149823216898445)
 - [Kafe fotoğrafından dikey gezinti videosuna](#coffee-shop-photo-to-vertical-walkthrough-2096143359505269079)
 - [Otomatik karakter iskeleti ve kung fu hareketleri](#automatic-character-rig-and-kung-fu-moves-2096141728487178503)
@@ -68,18 +78,239 @@
 - [Katedralde yakın dövüş arenası](#cathedral-hack-and-slash-arena-2095988972879335792)
 - [Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun](#gpt-6-astra-2095987508475834641)
 - [Etkileşimli Titan bilim sergisi](#interactive-titan-science-exhibit-2095986941753712841)
-- [3B sapanlı kuş oyunu](#3d-slingshot-bird-game-2095981655370666076)
-- [Rube Goldberg zincirleme tepki makinesi](#rube-goldberg-chain-reaction-machine-2095980885732704629)
-- [Gündüz–Gece Anahtarlı Yüzen Çin Tapınağı](#gpt-6-astra-2095978925029556561)
-- [Birden Fazla Referans Görselinden Rig’lenmiş Mech](#gpt-6-astra-2095975726558392570)
-- [Anti-yerçekimli savaş yarışı](#anti-gravity-combat-racer-2095967568825582044)
-- [Etkileşimli PS5 kontrolcüsü](#interactive-ps5-controller-2095967131573649552)
-- [Etkileşimli 3B karakter kartları](#interactive-3d-character-cards-2095963576049832347)
-- [Mermi zamanlı üçüncü şahıs nişancı](#bullet-time-third-person-shooter-2095962376344309843)
-- [Street Heat: tarayıcıda drift yarışı](#street-heat-browser-drift-racer-2095916820431827408)
-- [Hızlı oynanabilir oyun prototipi](#rapid-playable-game-prototype-2095907526566990013)
 
 </details>
+<a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
+
+### Küpe hapsolmuş fırtına
+
+[zcw](https://x.com/zwb44) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648"><img src="../assets/previews/7c328d0af2e8464ff40ff48386a22b93c8fdb7eb8eecd36b1c22d11afb7b0a79.webp" width="840" loading="lazy" alt="Küpe hapsolmuş fırtına"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de havasını kontrol edebileceğin, bir küpe hapsolmuş fırtına üret.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-storm-trapped-in-a-cube-2096220264413409648) · [Orijinal gönderi](https://x.com/zwb44/status/2096220264413409648) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096219700879331665"></a>
+
+### Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı
+
+[Givros](https://x.com/givros) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096219700879331665"><img src="../assets/previews/9c3847da075eeec55a67b4227694796d7f0e33dc65ca07c4b5f82496f18de5ab.webp" width="840" loading="lazy" alt="Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı"></a>
+
+**İstem**
+
+```text
+Roblox MCP aracılığıyla Roblox Studio’da tamamlanmış ve özenle cilalanmış bir kart yarışı oyunu geliştirin. Blender ve Three.js ile prosedürel üretim kullanarak tutarlı ve ayrıntılı varlıklar oluşturun; ağları, UV’leri ve pişirilmiş dokuları Blender’da son hâline getirin, ardından uyumlu PBR dokulara sahip optimize Roblox MeshParts olarak içe aktarın. Ölçeği, pivotları, materyalleri ve çarpışmaları oyun içinde doğrulayın. Roblox’a özgü render sistemini ve Luau ile geliştirilen oynanışı kullanın; Three.js çalışma zamanı değil, varlık üretim aracıdır. Tepkisel sürüş ve drift, yapay zekâ rakipleri, kontrol noktaları, tur takibi ve yeniden başlatma özelliğine sahip eksiksiz geri sayımdan sonuç ekranına yarış döngüsü sunan, görsel olarak etkileyici ve tamamen hazırlanmış tek bir piste öncelik verin. Aydınlatmayı, görsel efektleri, sesi ve kullanıcı arayüzünü cilalayın. Tam yarışları oynayarak test edin, gerçek oynanış ekran görüntülerini inceleyin ve hatalı içe aktarmalar, görsel kusurlar ve oynanış hataları giderilene kadar yineleyin; bunu yaparken akıcı performansı koruyun. Yer tutuculara, özensiz varlıklara veya prototip görsellerine yer vermeyin. Yalnızca betikleri ya da dışa aktarılmış varlıkları değil, tamamen birleştirilmiş ve oynanabilir Roblox deneyimini teslim edin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a finished, polished kart racer in Roblox Studio via Roblox MCP. Create cohesive, detailed assets using Blender and Three.js procedural generation; finalize meshes, UVs, and baked textures in Blender, then import as optimized Roblox MeshParts with compatible PBR textures. Verify scale, pivots, materials, and collisions in-game. Use Roblox-native rendering and Luau gameplay; Three.js is an asset-generation tool, not the runtime. Prioritize one beautiful, fully dressed circuit with responsive driving/drifting, AI opponents, checkpoints, lap tracking, and a complete countdown-to-results loop with restart. Polish lighting, VFX, audio, and UI. Playtest full races, inspect actual gameplay screenshots, and iterate until broken imports, visual defects, and gameplay bugs are fixed while maintaining smooth performance. No placeholders, crude assets, or prototype visuals. Deliver the fully assembled, playable Roblox experience—not just scripts or exported assets.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096219700879331665) · [Orijinal gönderi](https://x.com/givros/status/2096219700879331665) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096213850383331489"></a>
+
+### Bisiklete Binen Etkileşimli Pelikan
+
+[AI Builder Club](https://x.com/aibuilderclub_) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096213850383331489"><img src="../assets/previews/512473c65bd2acbecdc07bfc8a590644f701f57610ecd25a8d8ec1ed22d94edd.webp" width="840" loading="lazy" alt="Bisiklete Binen Etkileşimli Pelikan"></a>
+
+**İstem**
+
+```text
+Bisiklete binen bir pelikanın şık ve etkileşimli bir 3B sahnesini oluşturun ve tarayıcıda görüntüleyin.
+Pelikan kırmızı-beyaz bir bisiklet kaskı ve güneş gözlüğü taksın. Bisiklete nane yeşili, vintage bir kadro verin ve hareketi vurgulamak için animasyonlu hız çizgileri ekleyin.
+Sahneyi döndürmeme, yakınlaştırmama ve bisiklet sürme hızını ayarlamama izin verin. Bisiklet geometrisine, karakter oranlarına ve doğal pedal hareketine özellikle dikkat edin. Hız değişirken animasyonu akıcı tutun.
+Sayfayı özenli aydınlatma, uyumlu bir renk paleti ve temiz kontrollerle cilalı, herkese açık bir demoya hazır hâle getirin.
+Tamamlamadan önce tarayıcıda kendiniz test edin ve görsel ya da etkileşimle ilgili hataları düzeltin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a stylish, interactive 3D scene of a pelican riding a bicycle, and display it in the browser.
+The pelican should wear a red-and-white cycling cap and sunglasses. Give the bicycle a mint-green vintage frame, and add animated speed lines to emphasize motion.
+Let me rotate the scene, zoom in, and adjust the cycling speed. Pay close attention to bicycle geometry, character proportions, and natural pedaling motion. Keep the animation smooth as the speed changes.
+Make the page polished and ready for a public demo, with thoughtful lighting, a cohesive color palette, and clean controls.
+Test it in the browser yourself and fix any visual or interaction bugs before finishing.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096213850383331489) · [Orijinal gönderi](https://x.com/aibuilderclub_/status/2096213850383331489) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="ox-vice-drive-open-city-racer-2096206082712768897"></a>
+
+### OX Vice Drive açık şehir yarışı
+
+[DomX](https://x.com/qok_ai) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897"><img src="../assets/previews/01ffb9b3175d753167d0e10856814962c156693539ff1553ba42d86b6ce10cd5.webp" width="840" loading="lazy" alt="OX Vice Drive açık şehir yarışı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Trafik, drift ve teslimat yarışları olan açık şehir tarayıcı sürüş oyunu oluştur. Gezmesi keyifli ve eksiksiz sürüş döngüsünü destekleyen kıyı şehri tasarla.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/ox-vice-drive-open-city-racer-2096206082712768897) · [Orijinal gönderi](https://x.com/qok_ai/status/2096206082712768897) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="a-playful-toddler-toy-world-2096201415051911597"></a>
+
+### Küçük çocuk için eğlenceli oyuncak dünyası
+
+[AI少年](https://x.com/aehyok) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/a-playful-toddler-toy-world-2096201415051911597"><img src="../assets/previews/50ac4330696431ec053452f300902ee3a9fbab35097a724926f79eeab53a0f97.webp" width="840" loading="lazy" alt="Küçük çocuk için eğlenceli oyuncak dünyası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de küçük çocuğun oyuncaklar arasında dolaşıp her birini farklı animasyonla kullandığı sıcak bir oyun odası oluştur. Oyun halısı, kitaplar, raflar ve tırmanma yapıları ekle; yörünge ve yakınlaştırma kontrolleri olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-playful-toddler-toy-world-2096201415051911597) · [Orijinal gönderi](https://x.com/aehyok/status/2096201415051911597) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="reference-image-tugboat-assembly-2096180220839760375"></a>
+
+### Referans görüntülerden römorkör montajı
+
+[Alex](https://x.com/NarvisAlex) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/reference-image-tugboat-assembly-2096180220839760375"><img src="../assets/previews/21d731d5d11c9f99d123ea805a7f08a0cd684b3f74037226f7f2d8a24ca7c2ae.webp" width="840" loading="lazy" alt="Referans görüntülerden römorkör montajı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Referans görüntülerden Blender'da römorkör oluştur. Gövdeyi, eğimli kaptan köşkünü, güverte donanımlarını ve çekme ekipmanını modelle; tutarsız bakış açılarını tek bir tutarlı tekneye dönüştür.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/reference-image-tugboat-assembly-2096180220839760375) · [Orijinal gönderi](https://x.com/NarvisAlex/status/2096180220839760375) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="zubli-a-responsive-webgl-character-2096180133803561376"></a>
+
+### Zubli: tepki veren WebGL karakteri
+
+[CoXis](https://x.com/coxis) · 2026-09-05 · Claude Fable 5.1 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376"><img src="../assets/previews/908907388dc6abf04f9c23e852507dc65fbec5465051494d154bbcd712de61c0.webp" width="840" loading="lazy" alt="Zubli: tepki veren WebGL karakteri"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Altı sabit karakter pozunu nefes alan, göz kırpan, el sallayan ve imleci takip eden bir WebGL karakterine dönüştür. Deformasyonu ve render'ı akıcı 60 FPS için optimize et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/zubli-a-responsive-webgl-character-2096180133803561376) · [Orijinal gönderi](https://x.com/coxis/status/2096180133803561376) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="marine-life-in-a-coffee-cup-2096174858837074198"></a>
+
+### Kahve fincanında deniz yaşamı
+
+[Sagi Polaczek 🦜](https://x.com/PolaczekSagi) · 2026-09-05 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198"><img src="../assets/previews/db441d8028547157edf0aba7744f7918a6cb3cc59baebf35ef36e2da741e52ed.webp" width="840" loading="lazy" alt="Kahve fincanında deniz yaşamı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de kahve fincanının içinde minyatür deniz ekosistemi oluştur. Fincanı ve küçük ölçekli ortamı anlaşılır tutarken yönetilen kamerayla su yaşamını açığa çıkar.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/marine-life-in-a-coffee-cup-2096174858837074198) · [Orijinal gönderi](https://x.com/PolaczekSagi/status/2096174858837074198) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096156244180664627"></a>
+
+### Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu
+
+[Ayush Vachaspati](https://x.com/AVachaspat92841) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627"><img src="../assets/previews/9a63a027099e6e3a08dcc36debb27b9b8aa83732c0b61f46a4f89889a91f6693.webp" width="840" loading="lazy" alt="Akvaryumdan Okyanusa Balık Hayatta Kalma Oyunu"></a>
+
+**İstem**
+
+```text
+Bir balık simülasyonu oyunu oluşturmak istiyorum. Balığı biz kontrol edelim ve başlangıçta seçebilelim. Oyuna bir evdeki akvaryumda başlayalım; yiyecek parçacıkları yukarıdan düşsün, ortaya çıksın ya da benzer bir yöntemle belirsin. Onlara yüzerek ulaşabilelim ve yiyecekleri yiyerek büyüyelim. Bize hasar verip küçülmemize neden olan engeller ve benzeri tehlikeler de olsun. Seviye atladıkça, okyanusa ulaşana kadar giderek daha büyük alanlara geçelim. Yediğimiz yiyecekler zamanla değişebilsin; başka balıkları ve diğer canlıları da yiyebilelim.
+Önce bu oyun için eksiksiz oynanış döngüsünü, bölüm tasarımlarını ve benzeri ayrıntıları bir Markdown dosyasında tanımlayın; ardından yerel olarak tarayıcımda oynayabileceğim bir oyuna dönüştürün. Gerekli teknoloji yığınını siz seçin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.
+First define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096156244180664627) · [Orijinal gönderi](https://x.com/AVachaspat92841/status/2096156244180664627) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="dropzone-battle-royale-arena-2096155883122413946"></a>
+
+### Dropzone battle royale arenası
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946"><img src="../assets/previews/a13770283c8ec53899f9ae462e5ec11899fe41da5f7bbcaeef6ff74e74e4b9ce.webp" width="840" loading="lazy" alt="Dropzone battle royale arenası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Fırtına çemberi, dokuz yapay zekâ düşmanı, darbe tüfeği, sağlık ve şarjör doldurmayla üçüncü şahıs tarayıcı battle royale oyunu kur. Yerleştirilebilir siper duvarları ve eksiksiz eleme döngüsü ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dropzone-battle-royale-arena-2096155883122413946) · [Orijinal gönderi](https://x.com/Motion_Viz/status/2096155883122413946) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="browser-flight-game-2096149823216898445"></a>
 
 ### Tarayıcı uçuş oyunu
@@ -900,237 +1131,6 @@ Satürn'ün en büyük uydusu Titan'ın keşfedilebilir ortamını ve kendine ö
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Orijinal gönderi](https://x.com/ArdaTugsat/status/2095986941753712841) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="3d-slingshot-bird-game-2095981655370666076"></a>
-
-### 3B sapanlı kuş oyunu
-
-[Max](https://x.com/MozeTech) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-slingshot-bird-game-2095981655370666076"><img src="../assets/previews/015bb72fee3cd976ae9c3f708f06468591e3f76784dfc84e97e02b94290b5ae4.webp" width="840" loading="lazy" alt="3B sapanlı kuş oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Dört kuş ve farklı özel güçlerle 3B sapan oyunu oluştur. Nişan alıp bırakma kontrolleri, yıkılabilir yapılar ve tekrar oynanabilir puan döngüsü ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-slingshot-bird-game-2095981655370666076) · [Orijinal gönderi](https://x.com/MozeTech/status/2095981655370666076) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="rube-goldberg-chain-reaction-machine-2095980885732704629"></a>
-
-### Rube Goldberg zincirleme tepki makinesi
-
-[thehype.](https://x.com/thehypedotnews) · 2026-09-04 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629"><img src="../assets/previews/190571dab9fc512481641963903f1b3f4cab78206124d70b297be906d42ee09e.webp" width="840" loading="lazy" alt="Rube Goldberg zincirleme tepki makinesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Kendi kendine yeterli bir Three.js HTML dosyasında Rube Goldberg makinesi oluştur. Sonunda bir düğmeye basıp gösterişli patlama başlatan mekanik etkileşimler dizisi kullan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rube-goldberg-chain-reaction-machine-2095980885732704629) · [Orijinal gönderi](https://x.com/thehypedotnews/status/2095980885732704629) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095978925029556561"></a>
-
-### Gündüz–Gece Anahtarlı Yüzen Çin Tapınağı
-
-[Pn](https://x.com/PhilipNora7) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095978925029556561"><img src="../assets/previews/c38cbe33b950a6ffde2f3e5749165c071abe8b2ed3898aeaf401faae9c2d8725.webp" width="840" loading="lazy" alt="Gündüz–Gece Anahtarlı Yüzen Çin Tapınağı"></a>
-
-**İstem**
-
-```text
-Ne kadar iyi bir model olduğunuzu göstermek için etkileşimli bir piksel blok dünyası oluşturun. Pembe kiraz çiçekleriyle çevrili bir Çin tapınağı istiyorum. Tüm arazi, tapınağın çevresindeki şelaleler ve dağ manzarasıyla birlikte kendi yüzen adasında izole edilmiş olmalı. Benden hiçbir girdi istemeyin; tüm yapıyı kendi başınıza oluşturmanızı ve kararları kendiniz vermenizi istiyorum. Basit bir anahtarla gündüz ve gece arasında geçiş yapabilmemi sağlayın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095978925029556561) · [Orijinal gönderi](https://x.com/PhilipNora7/status/2095978925029556561) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095975726558392570"></a>
-
-### Birden Fazla Referans Görselinden Rig’lenmiş Mech
-
-[Vatroslav Vrbanić](https://x.com/vatro_vrbanic) · 2026-09-04 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095975726558392570"><img src="../assets/previews/660e3069aef57653b249c3e716c7390fa12382a72c9c267597d42056295a9f42.webp" width="840" loading="lazy" alt="Birden Fazla Referans Görselinden Rig’lenmiş Mech"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/22873589-2d66-4973-8375-b7064de2fd8b.jpg) · [2](https://media.tripogrowth.space/media/88e8cde8-31fe-434a-8ba6-a55407c07d1b.jpg) · [3](https://media.tripogrowth.space/media/95fbcb13-a13b-457d-a661-5a1f7a241dde.jpg) · [4](https://media.tripogrowth.space/media/1d856d20-5187-4d68-975a-d17deb70794c.jpg) · [5](https://media.tripogrowth.space/media/b3fcebb7-5d4f-4411-9f97-513e937bb106.jpg) · [6](https://pbs.twimg.com/media/HRZiKuVXoAEbNHj.jpg) · [7](https://pbs.twimg.com/media/HRZiMnvawAAAncS.jpg) · [8](https://pbs.twimg.com/media/HRZiN2DXUAUAiYY.jpg) · [9](https://pbs.twimg.com/media/HRZiPVpbIAAldqL.jpg) · [10](https://pbs.twimg.com/media/HRZiXuhWIAASW18.jpg)
-
-**İstem**
-
-```text
-Bu teknik çizime dayanarak headless Blender 5.2.1 kullanıp mech’in son derece ayrıntılı bir 3B modelini oluşturun: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. Daha ayrıntılı referanslar için aynı dizinde bulunan ek mech referans görsellerini kullanın. Teknik çizimin ve tüm referans görsellerinin yapay zekâ tarafından oluşturulduğunu, bu nedenle görsellerdeki ayrıntıların birbiriyle tutarsız olabileceğini göz önünde bulundurun. Tutarsız ayrıntılar tespit ederseniz yaratıcı davranarak, ortaya çıkan 3B mech modelinin yine de tutarlı ve fiziksel olarak doğru görünmesini sağlayacak bir çözüm bulun. Mech’in 3B modeli rig’lenmiş olmalıdır. Hedefin tamamlandığını, mech’in silahlarını ve savaş becerisini sergilediği 10 saniyelik bir animasyonu render alarak gösterin.
-
-yalnızca yönlendirme:
-en uygun referans görsellerini seçin; açıkça belirtilmiş olması nedeniyle teknik çizimi otomatik olarak önceliklendirmeyin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-use headless Blender 5.2.1 to build a highly detailed 3d model of the mech based on this blueprint: `/Users/vatro/codex-blender-headless-astra/mech-blueprint.png`. use additional mech reference images which you can find inside the same directory for more detailed reference. keep in mind that the blueprint and all reference images are AI-generated, so details might be inconsistent across images. in case you detect inconsistent details, be creative and find a solution so that the resulting 3D model of the mech still looks consistent and physically correct. the 3d model of the mech should be rigged. demonstrate goal's completion by rendering a 10 seconds animation of the mech presenting it's weapons and battle agility.
-
-only steering:
-pick best suited reference images, don't favor the blueprint just because it was explicitly mentioned.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095975726558392570) · [Orijinal gönderi](https://x.com/vatro_vrbanic/status/2095975726558392570) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="anti-gravity-combat-racer-2095967568825582044"></a>
-
-### Anti-yerçekimli savaş yarışı
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/anti-gravity-combat-racer-2095967568825582044"><img src="../assets/previews/2a680952f9301d4696e2e0aaaacc50bac926cdc62f9c239772a2b4e678ac93e3.webp" width="840" loading="lazy" alt="Anti-yerçekimli savaş yarışı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de drift, hızlanma, yatış yapan kamera, hava frenleri ve kalkan toplama içeren yüksek hızlı anti-yerçekimli savaş yarışı oluştur. Yükseltilmiş uzaylı pistinde hafif, dengeli ve ağır araçlar bulunsun.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Make me the most insane and blast of a high-speed anti-gravity combat racer you can possibly build on ThreeJS + Web shaders bro! The most important things are blistering sense of speed, tight drifting, boost mechanics, track elevation drops, motion blur, and jaw-dropping neon shader lighting. It's an intense futuristic raceway high above a strange world where aggressive AI racers battle for first place. Must have smooth camera banking into turns, shield/weapon pickups, and punchy air-brake physics. 3 craft types: a featherlight glass-cannon speeder, an agile balanced interceptor, and a heavy armored ramming tank. This is a Wipeout / Redout style AAA arcade racer in the browser. Do it right bro, I believe in you! An unusual setting for the game, pick it yourself. Please don't read the memory, don't read anything. Start from a blank slate.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/anti-gravity-combat-racer-2095967568825582044) · [Orijinal gönderi](https://x.com/superalesha/status/2095967568825582044) · [Kaynak kodu](https://github.com/alesha-pro/bench-portal) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-ps5-controller-2095967131573649552"></a>
-
-### Etkileşimli PS5 kontrolcüsü
-
-[bluedev](https://x.com/blueemi99) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-ps5-controller-2095967131573649552"><img src="../assets/previews/bf9f08860803349744e77ebbb00f9ce86cdee4d9b7a59e106fe1c2dc857356de.webp" width="840" loading="lazy" alt="Etkileşimli PS5 kontrolcüsü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de tanınabilir silüeti, düğmeleri, tetikleri, analog çubukları ve farklı yüzey malzemeleri olan incelenebilir bir PlayStation 5 kontrolcüsü oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-ps5-controller-2095967131573649552) · [Orijinal gönderi](https://x.com/blueemi99/status/2095967131573649552) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-3d-character-cards-2095963576049832347"></a>
-
-### Etkileşimli 3B karakter kartları
-
-[Rejuanul Islam](https://x.com/Rejuanul_Islam9) · 2026-09-04 · Claude Fable 5.1 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-character-cards-2095963576049832347"><img src="../assets/previews/946620d86b8bd873bed40045bc7502a2fa488b4d9745fde675b959ec4197778e.webp" width="840" loading="lazy" alt="Etkileşimli 3B karakter kartları"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Etkileşimli bir 3B karakter kartı arayüzü oluştur. Karakter imleç hareketine tepki versin, kart okunabilir ve ekranlara uyumlu kalsın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-3d-character-cards-2095963576049832347) · [Orijinal gönderi](https://x.com/Rejuanul_Islam9/status/2095963576049832347) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="bullet-time-third-person-shooter-2095962376344309843"></a>
-
-### Mermi zamanlı üçüncü şahıs nişancı
-
-[Andrei](https://x.com/HangoutWHAndrei) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bullet-time-third-person-shooter-2095962376344309843"><img src="../assets/previews/1008ec058cff2e6ab659d7cb34675932de50c26aae02a48d23ca234964d5a5cd.webp" width="840" loading="lazy" alt="Mermi zamanlı üçüncü şahıs nişancı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de Max Payne'den esinlenen üçüncü şahıs nişancı oyunu oluştur. Ağır çekim aksiyona, hızlı tepki veren silah kullanımına ve etkili takip kamerası olan oynanabilir sahneye odaklan.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bullet-time-third-person-shooter-2095962376344309843) · [Orijinal gönderi](https://x.com/HangoutWHAndrei/status/2095962376344309843) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="street-heat-browser-drift-racer-2095916820431827408"></a>
-
-### Street Heat: tarayıcıda drift yarışı
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408"><img src="../assets/previews/1bca7d739f87a4512985715f9c257c1bce9fd78ec6c8eb6a7c0c0ea25c6d1007.webp" width="840" loading="lazy" alt="Street Heat: tarayıcıda drift yarışı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tek cümleden tarayıcıda eksiksiz bir arcade sokak yarışı oluştur. Tatmin edici drift fiziği, kombo puanı, kıl payı geçiş bonusları, hız noktaları, nitro, trafik, okunabilir HUD ve tekrar oynanabilir kısa parkur uygula.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/street-heat-browser-drift-racer-2095916820431827408) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095916820431827408) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="rapid-playable-game-prototype-2095907526566990013"></a>
-
-### Hızlı oynanabilir oyun prototipi
-
-[GLUNIVERSE™](https://x.com/gibglue) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/rapid-playable-game-prototype-2095907526566990013"><img src="../assets/previews/ab458db5825237f6b2e22647fbcffd96e8c9c51975665a661daa45ebf732c981.webp" width="840" loading="lazy" alt="Hızlı oynanabilir oyun prototipi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Sıkı zaman ve token bütçesi altında görsel açıdan tutarlı, oynanabilir bir oyun prototipi oluştur. Özellik sayısından önce eksiksiz bir oyun döngüsüne, hızlı kontrollere, açık geri bildirime, kararlı performansa ve yayımlanabilir tarayıcı sürümüne öncelik ver.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rapid-playable-game-prototype-2095907526566990013) · [Orijinal gönderi](https://x.com/gibglue/status/2095907526566990013) · [Örneklere dön](#all-prompts)
 
 ---
 
