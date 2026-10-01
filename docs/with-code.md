@@ -8,7 +8,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [WinterArc21/Battle-of-Austerlitz-Film](https://github.com/WinterArc21/Battle-of-Austerlitz-Film)
 
-- [Cinematic Battle of Austerlitz Film](../docs/catalog.en.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125)
+- [Cinematic Battle of Austerlitz Film](../docs/catalog.en.2.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125)
 
 ## [achimala/dream-loop](https://github.com/achimala/dream-loop)
 
@@ -24,7 +24,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [bubblik525/head](https://github.com/bubblik525/head)
 
-- [Interactive 3D atlas of the human head and brain](../docs/catalog.en.3.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik)
+- [Interactive 3D atlas of the human head and brain](../docs/catalog.en.4.md#gpt-6-astra-2098105648106078541) · [BuBBliK](https://x.com/k1rallik)
 
 ## [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games)
 
@@ -48,11 +48,11 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [petergpt/gogh-strike](https://github.com/petergpt/gogh-strike)
 
-- [Gogh Strike multiplayer FPS](../docs/catalog.en.6.md#gogh-strike-multiplayer-fps-2096013280519016608) · [Peter Gostev](https://x.com/petergostev)
+- [Gogh Strike multiplayer FPS](../docs/catalog.en.7.md#gogh-strike-multiplayer-fps-2096013280519016608) · [Peter Gostev](https://x.com/petergostev)
 
 ## [alesha-pro/bench-portal](https://github.com/alesha-pro/bench-portal)
 
-- [Cathedral hack-and-slash arena](../docs/catalog.en.6.md#cathedral-hack-and-slash-arena-2095988972879335792) · [Alexey Fateev](https://x.com/superalesha)
+- [Cathedral hack-and-slash arena](../docs/catalog.en.7.md#cathedral-hack-and-slash-arena-2095988972879335792) · [Alexey Fateev](https://x.com/superalesha)
 - [Anti-gravity combat racer](../docs/catalog.en.7.md#anti-gravity-combat-racer-2095967568825582044) · [Alexey Fateev](https://x.com/superalesha)
 - [AAA horde shooter with WebGL shaders](../docs/catalog.en.9.md#aaa-horde-shooter-with-webgl-shaders-2094869490165039243) · [Alexey Fateev](https://x.com/superalesha)
 
@@ -62,7 +62,7 @@ Check each project’s own license before reuse. All source-linked entries are i
 
 ## [MengTo/sublevel-studio](https://github.com/MengTo/sublevel-studio)
 
-- [Reference-driven Three.js portfolio](../docs/catalog.en.8.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo)
+- [Reference-driven Three.js portfolio](../docs/catalog.en.9.md#reference-driven-three-js-portfolio-2095104073590808644) · [Meng To](https://x.com/MengTo)
 
 ## [bridge-mind/turbo-kart-rush](https://github.com/bridge-mind/turbo-kart-rush)
 

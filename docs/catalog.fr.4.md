@@ -28,6 +28,18 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Jeu de vol Skybound sur navigateur](#gpt-6-astra-2098739181510164652)
+- [DEVICE : le jeu de réflexion 3D photoréaliste qui utilise le smartphone lui-même](#gpt-6-astra-2098715488369152087)
+- [Vidéo de démonstration de construction 3D — Temple ancien zen](#gpt-6-astra-2098697876155076820)
+- [Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens](#gpt-6-astra-2098650336521064759)
+- [Étang à carpes koï 3D interactif](#gpt-6-astra-2098492771170722032)
+- [Figurine d’une petite fille jouant avec un robot](#gpt-6-astra-2098406473273663992)
+- [Scène miniature en volume représentant un temple](#gpt-6-astra-2098403061463224543)
+- [Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV](#gpt-6-astra-2098367087475577273)
+- [Vaisseau-courrier civil de départ de Sol Horizon](#gpt-6-astra-2098225609558335846)
+- [Démonstration interactive en 3D d’une main robotique jouant du piano](#gpt-6-astra-2098109252720078891)
+- [Atlas 3D interactif de la tête et du cerveau humains](#gpt-6-astra-2098105648106078541)
+- [Animation fantasy : un épéiste détruit une porte fortifiée](#gpt-6-astra-2098094339759149067)
 - [Vol d’une navette blanche dans un canyon urbain](#gpt-6-astra-2098079379297608050)
 - [Animation d’une académie magique flottante](#gpt-6-astra-2098071577309122854)
 - [Pouls urbain](#gpt-6-astra-2098063352832610473)
@@ -66,20 +78,2066 @@
 - [Rendu d’une Terre en rotation dans Blender](#gpt-6-astra-2096637194270134742)
 - [RPG d’action dark fantasy en 3D avec Three.js](#gpt-6-astra-2096637091627364531)
 - [Jeu d’aventure fantasy côtière Windhaven](#gpt-6-astra-2096629506047955327)
-- [Animation d’un étui pliant à partir d’un gabarit de découpe](#gpt-6-astra-2096612394281603144)
-- [Créer CS2 avec Three.js](#gpt-6-astra-2096596888799895855)
-- [Totality Engine : cathédrale d’éclipse cinématographique](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
-- [Plateau de shogi 3D pivotant](#rotatable-3d-shogi-board-2096579856133947507)
-- [Atlas éclaté d’un ordinateur de bureau](#exploded-desktop-computer-atlas-2096578761877860502)
-- [Aménagement d’une chambre d’enfant avec espace de travail](#children-s-room-and-workspace-planner-2096578684010508736)
-- [Locomotive à vapeur à travers la campagne](#steam-locomotive-across-the-countryside-2096577430274429157)
-- [Une maison modélisée de zéro dans Blender](#a-house-modeled-from-scratch-in-blender-2096576154337734865)
-- [Quête d’exploration The Quiet Crossing](#the-quiet-crossing-exploration-quest-2096574297703637111)
-- [Manguier indien dans SpeedTree](#indian-mango-tree-in-speedtree-2096572429066006845)
-- [Attracteur de Lorenz interactif](#interactive-lorenz-attractor-2096572156453028193)
-- [Chasse au trésor sur une plage low poly](#low-poly-beach-treasure-hunt-2096570815714414844)
 
 </details>
+<a id="gpt-6-astra-2098739181510164652"></a>
+
+### Jeu de vol Skybound sur navigateur
+
+[Aakash Kanojiya](https://x.com/Kanojiyaaakash1) · 2026-09-12 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098739181510164652"><img src="../assets/previews/012a16e2a90a225b9dee480019d46f69f8458237f566068d77b85765ae22ceed.webp" width="840" loading="lazy" alt="Jeu de vol Skybound sur navigateur"></a>
+
+**Prompt**
+
+```text
+Créez un jeu de vol sur navigateur appelé Skybound avec Three.js. Le joueur pilote un dragon à travers un ensemble d’îles flottantes et collecte des anneaux pour marquer des points. Vous aurez besoin d’un modèle 3D de dragon : utilisez Hyper3D Rodin MCP pour le générer.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a browser flight game called Skybound using Three.js. The player pilots a dragon through a field of floating islands, collecting rings for score. You'll need a 3D dragon model - use the Hyper3D Rodin MCP to generate it.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098739181510164652) · [Publication originale](https://x.com/Kanojiyaaakash1/status/2098739181510164652) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098715488369152087"></a>
+
+### DEVICE : le jeu de réflexion 3D photoréaliste qui utilise le smartphone lui-même
+
+[ひまねこ](https://x.com/00Nekonet) · 2026-09-12 · GPT-6 Astra · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098715488369152087"><img src="../assets/previews/a07cc5e01d30232d750266efb73a0b1d1137fdb04d42b5763e246fc3828390c2.webp" width="840" loading="lazy" alt="DEVICE : le jeu de réflexion 3D photoréaliste qui utilise le smartphone lui-même"></a>
+
+**Prompt**
+
+```text
+Vous assumez simultanément les rôles de directeur de jeu, game designer, ingénieur Unity, artiste 3D, designer UI/UX, technical artist, sound designer et responsable QA pour ce projet. 
+
+À partir des spécifications suivantes, créez non pas une simple proposition, mais un jeu de réflexion 3D pour smartphone réellement jouable et abouti.
+
+Ne vous arrêtez pas après avoir présenté quelques idées.
+Ne vous arrêtez pas non plus à un simple document de spécifications.
+Dans la mesure du possible, créez le projet réel, le code, les scènes, l’interface, les matériaux, la logique de jeu, le contrôle audio, la gestion des capteurs, la sauvegarde et les tests.
+
+En cas de point obscur, ne posez pas de question sauf contradiction majeure : prenez vous-même les décisions qui rendront le jeu le plus intéressant et le plus qualitatif, puis poursuivez directement la production.
+
+Vue d’ensemble du projet
+
+Titre provisoire :
+
+DEVICE
+
+Genre :
+
+Aventure de réflexion 3D photoréaliste et immersive pour smartphone
+
+Plate-forme :
+
+Android en priorité absolue.
+Adopter une architecture compatible avec iOS dans la mesure du possible.
+
+Écran :
+
+Mode portrait 9:16
+
+Commandes :
+
+Le jeu doit être jouable à une main dans la plupart des situations.
+Certains puzzles utilisent toutefois des actions physiques sur le smartphone lui-même : le soulever, l’incliner, le faire pivoter, le retourner, le secouer ou le maintenir immobile.
+
+Caractéristique principale
+
+Ce n’est pas un « jeu auquel on joue sur un smartphone ».
+
+Le smartphone lui-même doit servir de dispositif de puzzle.
+
+Les niveaux ne doivent pas pouvoir être résolus par le seul toucher de l’écran.
+
+Utiliser les capteurs, la caméra, le microphone, les vibrations, le haut-parleur, l’orientation de l’appareil et son état de charge comme des lois physiques de l’univers du jeu.
+
+Il ne faut toutefois pas en faire une simple collection de démonstrations de capteurs.
+
+Toutes les fonctions doivent s’intégrer naturellement au même univers et au même système de jeu.
+
+Univers
+
+Dans un centre de recherche inconnu, le joueur découvre un mystérieux dispositif cubique noir appelé « DEVICE ».
+
+Le cube est connecté au smartphone et détecte l’état du téléphone dans le monde réel.
+
+Lorsque le joueur incline son smartphone, la gravité à l’intérieur de DEVICE change.
+
+Lorsqu’il fait pivoter l’appareil, l’espace lui-même pivote.
+
+La lumière, les couleurs, les sons, la direction et les mouvements du monde réel s’infiltrent à l’intérieur de DEVICE.
+
+Au début, DEVICE semble n’être qu’un appareil expérimental, mais plus le jeu avance, plus il commence à reconnaître la présence du joueur.
+
+Dans la seconde moitié, intégrer des méta-puzzles fondés sur
+
+la relation même selon laquelle
+
+« le joueur manipule le smartphone ».
+
+Ne pas transformer le jeu en œuvre horrifique.
+Une atmosphère inquiétante, une technologie inconnue et une part de mystère sont acceptables, mais le cœur de l’expérience doit rester la curiosité intellectuelle et le plaisir de la découverte.
+
+Qualité visuelle
+
+C’est la priorité absolue.
+
+Viser le rendu 3D le plus photoréaliste possible sur mobile.
+
+Interdire les graphismes bon marché typiques des jeux mobiles.
+
+Interdire le style cartoon.
+
+Interdire l’aspect low-poly.
+
+Éviter autant que possible de conserver des éléments provisoires plats en dehors de l’interface.
+
+Avec Unity, utiliser principalement l’URP en tenant compte des performances mobiles, tout en combinant
+
+• des matériaux PBR
+• un rendu Metallic / Roughness
+• des normal maps
+• l’occlusion ambiante
+• des Reflection Probes
+• des Light Probes
+• des ombres de haute qualité
+• des ombres douces
+• le bloom
+• le color grading
+• des effets en screen space
+• une lumière à l’aspect volumétrique
+• la profondeur de champ uniquement aux endroits nécessaires
+• du verre physiquement plausible
+• du métal
+• des sols mouillés
+• des rayures
+• des empreintes digitales
+• de la poussière
+• de fines irrégularités de surface
+• des matériaux émissifs
+• des réflexions
+• une ambiance sonore
+
+et d’autres éléments similaires.
+
+Le décor est un centre de recherche futuriste sombre et haut de gamme.
+
+Privilégier le métal noir, le verre, le béton, les lignes lumineuses blanches, les mécanismes de précision et les composants hydrauliques.
+
+Ne pas plonger la scène dans l’obscurité totale : les objets importants doivent rester identifiables grâce à une lumière naturelle.
+
+DEVICE étant le symbole du jeu, le réaliser avec un niveau de qualité exceptionnel.
+
+Le dispositif DEVICE :
+
+Un cube d’environ 20 à 30 cm, composé de métal noir et de verre.
+
+Chaque face possède une structure mécanique différente.
+
+Les jointures sont extrêmement précises.
+
+Une faible lumière blanche ou blanc bleuté s’échappe de l’intérieur.
+
+Les commandes du joueur provoquent la déformation, la rotation et le déploiement physiques de la structure interne.
+
+Ajouter des animations mécaniques au retour tactile marqué.
+
+Écran de jeu principal
+
+DEVICE se trouve au centre de l’écran en mode portrait.
+
+Le joueur fait glisser DEVICE pour le faire pivoter et examiner chacune de ses faces.
+
+Le centre de recherche l’entoure.
+
+La caméra doit être cinématographique sans nuire à la maniabilité.
+
+L’interface de base reste minimale.
+
+Ne pas afficher en permanence une multitude de boutons.
+
+Privilégier la sensation de toucher et de manipuler DEVICE lui-même.
+
+Systèmes centraux
+
+Intégrer les éléments suivants comme des systèmes d’entrée appartenant au même univers, et non comme des mini-jeux indépendants.
+
+1. Tactile
+
+Tapoter
+Double-tap
+Appui prolongé
+Glisser
+Balayer
+Pincer
+Deux doigts
+Trois doigts
+Appui simultané en plusieurs points
+
+doivent être pris en charge.
+
+Permettre de toucher directement les boutons, leviers, anneaux rotatifs et molettes de DEVICE.
+
+2. Gyroscope
+
+Synchroniser l’inclinaison du smartphone avec la gravité à l’intérieur de DEVICE.
+
+Exemples :
+
+Faire parvenir une bille métallique jusqu’à une cible uniquement en inclinant l’appareil.
+
+Incliner un liquide pour le mettre en contact avec des électrodes.
+
+Régler l’angle d’un faisceau lumineux.
+
+3. Accéléromètre
+
+Secouer l’appareil.
+
+L’arrêter brusquement.
+
+Détecter un mouvement semblable à une légère tape.
+
+Ne jamais demander de secouer l’appareil avec une force excessive.
+
+Tenir compte de la sécurité.
+
+4. Orientation de l’appareil
+
+Portrait
+Paysage
+Face vers le haut
+Face vers le bas
+
+et autres orientations doivent être prises en compte dans le jeu.
+
+Prévoir des événements qui ne se déclenchent que lorsque le smartphone est posé face contre la table.
+
+5. Caméra
+
+Importer les couleurs du monde réel dans le jeu.
+
+Lorsque le joueur filme un objet rouge, bleu, vert, etc., analyser la couleur dominante autour du centre de l’image et l’envoyer à DEVICE sous forme d’énergie.
+
+Ne jamais envoyer l’image elle-même à un serveur.
+
+Effectuer le traitement sur l’appareil autant que possible.
+
+Prévoir une commande de remplacement lorsque la caméra est indisponible.
+
+6. Microphone
+
+Utiliser
+le volume,
+la durée et
+
+des caractéristiques fréquentielles simples.
+
+Exemples :
+
+Souffler
+Parler
+Applaudir
+Rester silencieux pendant un certain temps
+
+et autres actions similaires.
+
+La reconnaissance vocale ne doit pas être obligatoire.
+
+Ne pas conserver les données audio enregistrées.
+
+7. Haptiques / vibrations
+
+C’est un élément essentiel.
+
+Créer des niveaux où des informations absentes de l’écran sont transmises uniquement par les vibrations.
+
+Exemples :
+
+Plus on s’approche de la cible, plus l’intervalle entre les vibrations diminue.
+
+Utiliser des motifs différents à gauche et à droite.
+
+Employer des vibrations courtes et longues comme un code.
+
+Prévoir un affichage de remplacement pour les appareils dont les vibrations sont désactivées ou indisponibles.
+
+8. Haut-parleur
+
+Exploiter la directionnalité d’un son spatialisé.
+
+Les écouteurs ne doivent pas être obligatoires.
+
+Utiliser la hauteur, la périodicité et la position gauche-droite comme informations de puzzle.
+
+9. Luminosité
+
+Utiliser le capteur de lumière ambiante lorsque c’est possible.
+
+Sur les appareils incompatibles, étudier une solution de remplacement fondée par exemple sur la luminosité captée par la caméra.
+
+Prévoir un mécanisme qui apparaît dans un endroit sombre.
+
+Prévoir un mécanisme qui se recharge dans un endroit lumineux.
+
+10. Boussole
+
+Sur les appareils compatibles, récupérer les points cardinaux.
+
+Créer des puzzles qui demandent d’orienter le smartphone vers le nord, le sud ou une direction précise.
+
+S’il n’y a pas de capteur, basculer vers une énigme de remplacement.
+
+11. État de charge
+
+Si l’on peut détecter le début de la charge de l’appareil,
+
+mettre en scène l’alimentation de DEVICE par le branchement réel du câble de charge.
+
+Prévoir impérativement une autre méthode de résolution pour les utilisateurs qui ne peuvent pas effectuer cette action.
+
+12. Batterie
+
+Si le niveau de batterie est accessible, l’utiliser pour des événements spéciaux.
+
+Interdire toute conception qui rendrait un niveau impossible à terminer selon le niveau de charge.
+
+13. Heure
+
+L’heure actuelle peut servir à des puzzles ou à des effets spéciaux.
+
+Interdire les niveaux qui ne peuvent être terminés qu’à une heure donnée.
+
+Ne jamais imposer de temps d’attente.
+
+Conception des puzzles
+
+Plutôt que de produire dès le départ une centaine de puzzles superficiels,
+
+commencer par créer environ 20 à 30 niveaux extrêmement aboutis.
+
+Chaque niveau doit proposer une découverte différente.
+
+Interdire les niveaux qui répètent la même action en ne changeant que les chiffres.
+
+Chapitre 1 : TOUCH
+
+Faire comprendre les règles du jeu à travers les commandes tactiles.
+
+Toucher DEVICE.
+Le faire pivoter.
+Appuyer.
+Tirer.
+Ouvrir.
+
+Chapitre 2 : GRAVITY
+
+Introduire le gyroscope et l’accéléromètre.
+
+Le monde physique à l’intérieur de DEVICE se synchronise avec l’orientation réelle du smartphone.
+
+Chapitre 3 : SENSE
+
+Caméra
+Microphone
+Lumière
+Son
+Vibrations
+
+sont introduits.
+
+Chapitre 4 : OUTSIDE
+
+Proposer des énigmes qui attirent l’attention du joueur hors de l’écran.
+
+Retourner le smartphone.
+Le maintenir immobile.
+L’orienter dans la bonne direction.
+Capturer les couleurs environnantes.
+
+Chapitre 5 : DEVICE
+
+Combiner les règles apprises jusque-là.
+
+Les instructions affichées à l’écran ne sont plus nécessairement exactes.
+
+Exemple :
+
+L’écran affiche
+
+SHAKE
+
+.
+
+Pourtant, secouer l’appareil provoque un échec.
+
+La bonne réponse consiste à le maintenir parfaitement immobile.
+
+Dans un autre niveau,
+
+MORE LIGHT
+
+est affiché.
+
+Augmenter la luminosité de l’écran ne produit aucune réaction.
+
+Le niveau se résout en exposant la caméra à la lumière du monde réel.
+
+Dans le dernier niveau,
+
+le tactile,
+l’orientation de l’appareil,
+le gyroscope,
+les vibrations,
+le son
+et des entrées du monde réel
+
+sont combinés dans un grand puzzle.
+
+Niveaux représentatifs à implémenter impérativement
+
+« Le labyrinthe dans le noir »
+
+L’écran devient presque entièrement noir.
+
+Le joueur ne voit pas sa position.
+
+Il incline le smartphone pour déplacer une sphère invisible.
+
+À mesure qu’elle s’approche de la sortie, les vibrations deviennent plus fortes et plus rapides.
+
+Le joueur atteint finalement la sortie uniquement grâce à ses sensations vibratoires.
+
+Les options d’accessibilité permettent également d’activer une assistance sonore.
+
+« DON’T LOOK »
+
+DEVICE affiche à l’écran
+
+DON’T LOOK
+
+.
+
+Le joueur retourne son smartphone.
+
+Lorsque Face Down est détecté, des sons mécaniques proviennent de l’intérieur de DEVICE pendant que l’écran reste caché.
+
+Après quelques secondes, le joueur retourne l’appareil et découvre que DEVICE s’est transformé.
+
+« STEAL COLOR »
+
+Un noyau énergétique incolore se trouve à l’intérieur de DEVICE.
+
+La caméra lit les couleurs réelles, comme le rouge, le bleu et le vert.
+
+Les couleurs capturées s’écoulent en temps réel dans DEVICE sous la forme d’une énergie liquide.
+
+« STAY STILL »
+
+DEVICE vibre violemment.
+
+Le joueur a d’abord envie de secouer le smartphone.
+
+Pourtant, la bonne réponse est de maintenir l’appareil parfaitement immobile.
+
+Lorsque l’accélération reste sous un certain seuil pendant une durée donnée, le dispositif se stabilise et s’ouvre.
+
+« POWER »
+
+DEVICE s’arrête complètement.
+
+Sur les appareils compatibles, le branchement du smartphone lance la charge et fait circuler l’électricité vers DEVICE.
+
+Les circuits métalliques s’allument l’un après l’autre et le mécanisme interne redémarre.
+
+Prévoir également une commande de remplacement.
+
+Physique interne de DEVICE
+
+Utiliser activement la simulation physique.
+
+Bill es métalliques
+Liquides
+Gravité
+Aimants
+Engrenages
+Rails
+Réflecteurs
+Lasers
+Anneaux rotatifs
+Cylindres
+Pistons
+Mécanismes de verrouillage
+Verre
+Électrodes
+Câbles
+
+et autres éléments doivent être disponibles.
+
+Ne pas laisser la stabilité dépendre entièrement de la simulation physique.
+
+Pour les puzzles importants, utiliser une physique contrôlée et garantir des résultats reproductibles.
+
+Mise en scène
+
+Après une bonne réponse, ne pas afficher simplement le mot « CLEAR ».
+
+C’est DEVICE lui-même qui se transforme pour donner la réponse.
+
+Déverrouillage
+Rotation des engrenages
+Éclairage interne
+Séparation des panneaux métalliques
+Déplacement d’un liquide à l’intérieur du verre
+Déploiement de bras mécaniques
+
+et autres effets doivent être combinés.
+
+Au moment exact de la résolution,
+
+la mise en scène doit donner la sensation
+
+« d’avoir mis en mouvement un immense mécanisme de précision ».
+
+Son
+
+Il est essentiel.
+
+Ne pas se contenter de faire jouer une musique de fond en continu.
+
+Bruit de ventilation du centre de recherche
+Bruits mécaniques lointains
+Bruits de servomoteurs à l’intérieur de DEVICE
+Clics métalliques
+Verre
+Électricité
+Magnétisme
+Basses fréquences
+Vibrations
+
+doivent être superposés en différentes couches.
+
+Le son doit varier selon l’endroit de DEVICE que le joueur touche.
+
+Avec des écouteurs, renforcer la sensation de spatialisation.
+
+Interface
+
+L’intégrer autant que possible au monde du jeu.
+
+Ne pas aligner des boutons bon marché typiques des jeux mobiles.
+
+Menu :
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+environ.
+
+Pendant les puzzles, les indices doivent apparaître sur les dispositifs d’affichage internes de DEVICE ou sous forme de texte projeté.
+
+Système d’indices
+
+Même si le joueur bloque, ne pas afficher immédiatement la solution.
+
+Indice 1 :
+l’endroit à observer.
+
+Indice 2 :
+la fonction du smartphone à utiliser.
+
+Indice 3 :
+une solution presque complète.
+
+Prévoir ces trois niveaux d’indices.
+
+Accessibilité
+
+Elle est particulièrement importante puisque le jeu utilise abondamment les capteurs.
+
+Implémenter les éléments suivants.
+
+Permettre de convertir les vibrations en son ou en affichage à l’écran.
+
+Ajouter une aide visuelle aux puzzles sonores.
+
+Ajouter une aide pour la perception des couleurs aux puzzles chromatiques.
+
+Ne pas imposer de manipulations physiques fortes.
+
+Éliminer la nécessité de secouer violemment le smartphone.
+
+Prévoir des puzzles de remplacement lorsque la caméra, le microphone ou la boussole sont indisponibles.
+
+Le refus d’accès à certains capteurs ne doit jamais empêcher la progression.
+
+Confidentialité
+
+Ne transmettre aucune image de caméra, aucun son du microphone ni aucune donnée de localisation à un serveur externe.
+
+Le GPS ne doit pas être indispensable à la progression.
+
+Expliquer la raison de chaque autorisation au moment de la demander, juste avant son utilisation.
+
+Ne demander aucune autorisation inutile.
+
+Architecture technique
+
+Utiliser si possible Unity 6 et C#.
+
+URP pour mobile.
+
+Modulariser le projet.
+
+Prévoir au minimum la structure suivante.
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+Ne pas appeler directement et constamment chaque fonction du smartphone depuis le code des puzzles.
+
+Les abstraire par l’intermédiaire de SensorManager et de systèmes similaires afin de pouvoir alterner entre
+
+les capteurs de l’appareil réel,
+les entrées simulées pour l’éditeur
+et les solutions de repli pour les appareils incompatibles.
+
+Permettre de basculer entre ces modes.
+
+Débogage des capteurs
+
+Pour pouvoir développer également dans Unity Editor,
+
+implémenter un
+
+Developer Sensor Panel.
+
+À l’aide de curseurs et de boutons,
+
+simuler l’inclinaison de l’appareil
+l’accélération
+Face Up / Face Down
+le volume du microphone
+la lumière ambiante
+la boussole
+la charge activée/désactivée
+la batterie
+les événements de vibration
+la couleur dominante de la caméra
+
+et autres entrées.
+
+Les principaux puzzles doivent être testables sans connecter d’appareil réel.
+
+Sauvegarde
+
+La progression des chapitres
+les niveaux terminés
+l’utilisation des indices
+les réglages
+l’accessibilité
+les éléments à collectionner
+
+doivent être sauvegardés.
+
+Permettre de quitter la partie en toute sécurité, même au milieu d’un niveau.
+
+Performances
+
+Le photoréalisme ne doit pas rendre le jeu injouable.
+
+Viser une configuration jouable sur des appareils Android de milieu de gamme représentatifs.
+
+LOD
+Utiliser l’Occlusion Culling
+le GPU Instancing
+la compression des textures
+le light baking
+les Reflection Probes
+un éclairage temps réel uniquement là où il est nécessaire
+l’object pooling
+la réduction des Draw Calls
+
+et d’autres optimisations.
+
+Répartir les réglages de qualité entre
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+.
+
+Sur les appareils performants, obtenir un rendu très haute qualité.
+
+Conditions d’achèvement
+
+Il ne doit pas s’agir d’un simple prototype, mais d’un jeu offrant une expérience complète avec
+
+un écran-titre
+une introduction
+un tutoriel
+plusieurs chapitres
+plusieurs niveaux
+des entrées par capteurs
+des effets 3D
+du son
+des réglages
+des options d’accessibilité
+une sauvegarde
+une sélection de niveaux
+une fin
+
+et tous les éléments nécessaires à une expérience cohérente.
+
+Si possible, générer réellement un build Android.
+
+Même si les contraintes de l’environnement empêchent de générer un APK/AAB,
+
+finaliser un projet complet qui puisse être ouvert dans Unity et compilé immédiatement.
+
+Principes de décision pendant la production
+
+Ne pas remplacer la 3D par de la 2D ou par une interface simplifiée sous prétexte que ce serait plus facile.
+
+Ne pas supprimer les mécanismes centraux du jeu pour gagner du temps.
+
+Lorsque des ressources externes ne sont pas disponibles, les créer soi-même ou les générer procéduralement autant que possible.
+
+Si des placeholders sont nécessaires, ne pas en remplir tout le jeu.
+
+En particulier,
+
+DEVICE
+le centre de recherche
+les dispositifs des puzzles principaux
+l’éclairage
+les matériaux
+la mise en scène des résolutions
+
+doivent être réalisés avec un haut niveau de qualité.
+
+Procédure de travail
+
+Commencer par arrêter rapidement la conception générale.
+
+Passer ensuite à la production au lieu de continuer à expliquer.
+
+1. Créer le projet
+2. Créer la scène 3D de base
+3. Créer DEVICE
+4. Implémenter les commandes de base
+5. Abstraire les capteurs
+6. Créer le framework de puzzles
+7. Implémenter les puzzles représentatifs
+8. Construire les chapitres
+9. Créer l’interface
+10. Ajouter le son
+11. Ajouter les effets et la mise en scène
+12. Ajouter la sauvegarde
+13. Ajouter l’accessibilité
+14. Optimiser
+15. Tester
+16. Corriger
+17. Compiler
+
+et suivre cet ordre.
+
+Même si une partie échoue, ne pas interrompre l’ensemble du travail : utiliser une solution de remplacement et maximiser la qualité finale.
+
+Livrables finaux
+
+À la fin, laisser les éléments suivants.
+
+• Le projet de jeu complet
+• Le code source principal
+• Les scènes du jeu
+• Les modèles 3D et les matériaux
+• L’interface
+• Les réglages audio
+• Le système de capteurs
+• Le système de puzzles
+• Le système de sauvegarde
+• Les réglages de build
+• Le README
+• La procédure de test sur appareil Android réel
+• La liste des fonctions du smartphone utilisées
+• Les solutions de repli pour les appareils incompatibles
+• La liste des problèmes connus
+
+Il est interdit de terminer en donnant uniquement des explications sans produire les livrables.
+
+Les priorités absolues sont,
+
+1. Le plaisir de jeu
+2. Une expérience propre au smartphone
+3. Le réalisme du monde 3D
+4. La sensation de toucher DEVICE
+5. La cohérence en tant que puzzle
+6. Le fonctionnement réel
+
+dans cet ordre.
+
+Ne créez pas « un jeu mobile existant auquel on aurait ajouté des capteurs »,
+
+mais une œuvre donnant l’impression que le smartphone, en tant que matériel, existe pour ce jeu.
+
+À partir de maintenant, commencez réellement la production au lieu de vous arrêter à la présentation du concept.
+
+Ajoutez également toute amélioration pertinente ou tout élément susceptible de rendre l’expérience plus intéressante, et créez une 3D réaliste.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+あなたはこのプロジェクトのゲームディレクター、ゲームデザイナー、Unityエンジニア、3Dアーティスト、UI/UXデザイナー、テクニカルアーティスト、サウンドデザイナー、QA担当を兼任してください。
+
+以下の仕様をもとに、企画だけではなく、実際にプレイ可能な完成度の高いスマートフォン向け3Dパズルゲームを制作してください。
+
+途中でアイデア案だけを提示して終了しないでください。
+仕様書だけを作って終了しないでください。
+可能な限り実際のプロジェクト、コード、シーン、UI、マテリアル、ゲームロジック、サウンド制御、センサー処理、セーブ処理、テストまで作成してください。
+
+不明点については、重大な矛盾がない限り質問せず、ゲームとして最も面白く、高品質になる判断を自分で行い、そのまま制作を進めてください。
+
+プロジェクト概要
+
+仮タイトル：
+
+DEVICE
+
+ジャンル：
+
+フォトリアル3D・スマートフォン体感型パズルアドベンチャー
+
+プラットフォーム：
+
+Androidを最優先。
+可能な範囲でiOSにも対応できる構造にする。
+
+画面：
+
+縦画面 9:16
+
+操作：
+
+基本的に片手でも操作可能。
+しかし、一部のパズルではスマートフォンそのものを持ち上げる、傾ける、回転させる、伏せる、振る、静止させるなどの物理的操作を使用する。
+
+ゲームの最大の特徴
+
+これは「スマホで遊ぶゲーム」ではない。
+
+スマートフォン本体そのものをパズル装置として使用するゲームにする。
+
+画面タッチだけではクリアできない。
+
+スマートフォンに搭載されているセンサー、カメラ、マイク、振動、スピーカー、端末方向、充電状態などをゲーム世界の物理法則として利用する。
+
+ただし、単なるセンサー機能のデモ集にはしない。
+
+すべての機能が同じ世界観、同じゲームシステムの中で自然につながるように設計する。
+
+世界観
+
+プレイヤーは正体不明の研究施設で、謎の黒い立方体型装置「DEVICE」を発見する。
+
+立方体はスマートフォンと接続され、現実世界にあるスマートフォンの状態を感知する。
+
+プレイヤーがスマートフォンを傾けるとDEVICE内部の重力が変化する。
+
+端末を回転させると空間そのものが回転する。
+
+現実の光、色、音、方向、動きなどがDEVICE内部へ流れ込む。
+
+序盤では単なる実験装置に見えるが、ゲームが進行するほどDEVICE側もプレイヤーの存在を認識し始める。
+
+後半では、
+
+「プレイヤーがスマートフォンを操作している」
+
+という関係そのものを利用したメタパズルを入れる。
+
+ホラー作品にはしない。
+不気味さ、未知の技術、神秘性はあってよいが、中心は知的好奇心と発見の楽しさにする。
+
+ビジュアル品質
+
+最重要項目。
+
+スマートフォン向けで可能な限りフォトリアルな3D表現にする。
+
+安っぽいスマホゲーム風CGは禁止。
+
+カートゥーン調は禁止。
+
+ローポリ感は禁止。
+
+UI以外に平面的な仮素材を極力残さない。
+
+Unityを使用する場合はモバイル性能を考慮したURPを基本としながら、
+
+・PBRマテリアル
+・Metallic / Roughness表現
+・Normal Map
+・Ambient Occlusion
+・Reflection Probe
+・Light Probe
+・高品質シャドウ
+・ソフトシャドウ
+・Bloom
+・Color Grading
+・Screen Space表現
+・Volumetric感のある光
+・Depth of Fieldは必要箇所のみ
+・物理ベースのガラス
+・金属
+・濡れた床
+・傷
+・指紋
+・埃
+・微細な表面凹凸
+・発光素材
+・反射
+・環境音
+
+などを組み合わせる。
+
+舞台は暗く高級感のある未来研究施設。
+
+黒い金属、ガラス、コンクリート、白い発光ライン、精密機械、油圧部品などを中心にする。
+
+完全な暗闇にはせず、重要なオブジェクトが自然な光で認識できるようにする。
+
+DEVICEはゲームの象徴になるため、極めて高品質に作る。
+
+DEVICE本体：
+
+黒い金属とガラスで構成された20〜30cm程度の立方体。
+
+面ごとに機械構造が異なる。
+
+継ぎ目が非常に精密。
+
+内部からわずかに白または青白い光が漏れる。
+
+プレイヤー操作によって内部構造が物理的に変形・回転・展開する。
+
+クリック感のある機械アニメーションを持たせる。
+
+基本ゲーム画面
+
+縦画面中央にDEVICEが存在する。
+
+プレイヤーはDEVICEをドラッグして回転させ、各面を調べる。
+
+周囲は研究施設。
+
+カメラは映画的だが操作性を損なわない。
+
+基本UIは最低限。
+
+常時大量のボタンを表示しない。
+
+DEVICEそのものを触って操作している感覚を優先する。
+
+中核システム
+
+以下を独立したミニゲームにせず、同一ゲーム世界の入力システムとして統合する。
+
+1. タッチ
+
+タップ
+ダブルタップ
+長押し
+ドラッグ
+スワイプ
+ピンチ
+2本指
+3本指
+複数箇所同時押し
+
+を使用可能にする。
+
+DEVICEのボタン、レバー、回転リング、ダイヤルなどを直接触って操作する。
+
+2. ジャイロ
+
+スマートフォンの傾きとDEVICE内部の重力を連動させる。
+
+例：
+
+内部に存在する金属球を傾きだけでゴールへ運ぶ。
+
+液体を傾けて電極に接触させる。
+
+光線の角度を調整する。
+
+3. 加速度センサー
+
+端末を振る。
+
+急停止させる。
+
+軽く叩くような動きを検出する。
+
+ただし過度に激しく端末を振らせない。
+
+安全性を考慮する。
+
+4. 端末方向
+
+Portrait
+Landscape
+Face Up
+Face Down
+
+などをゲームへ反映。
+
+スマートフォンを机に伏せることで初めて発生するイベントを用意する。
+
+5. カメラ
+
+現実世界の色をゲームへ取り込む。
+
+プレイヤーがカメラで赤、青、緑などの対象物を映すと、画面中央周辺の代表色を解析してDEVICEへエネルギーとして送る。
+
+画像そのものをサーバーへ送信しない。
+
+可能な限り端末内処理にする。
+
+カメラを使えない場合の代替操作も用意する。
+
+6. マイク
+
+音量
+継続時間
+簡単な周波数特性
+
+などを利用する。
+
+例：
+
+息を吹く
+声を出す
+拍手
+一定時間静かにする
+
+など。
+
+音声認識を必須にしない。
+
+録音データを保存しない。
+
+7. ハプティクス / 振動
+
+非常に重要。
+
+画面に表示されない情報を振動だけで伝えるステージを作る。
+
+例：
+
+対象物に近づくほど振動間隔が短くなる。
+
+左右で異なるパターン。
+
+短・長の振動を使った暗号。
+
+振動OFF端末向け代替表示も用意する。
+
+8. スピーカー
+
+立体的な音の方向感を利用。
+
+イヤホン必須にはしない。
+
+音程、周期、左右定位などをパズル情報として使う。
+
+9. 明るさ
+
+可能であれば環境光センサーを使用。
+
+利用できない端末ではカメラ輝度などによる代替を検討する。
+
+暗い場所にすると現れる仕掛け。
+
+明るい場所にすると充電される仕掛け。
+
+10. コンパス
+
+対応端末では方角を取得。
+
+スマートフォンを北、南、特定方向に向けるパズルを作る。
+
+センサーがない場合は代替問題へ切り替える。
+
+11. 充電状態
+
+端末が充電開始されたことを取得できる場合、
+
+実際に充電ケーブルを接続することでDEVICEへ電力が供給される演出を入れる。
+
+ただしこの操作ができないユーザー用に代替クリア方法を必ず持たせる。
+
+12. バッテリー
+
+バッテリー残量を取得可能なら特殊イベントに利用する。
+
+残量によってクリア不能になる設計は禁止。
+
+13. 時刻
+
+現在時刻を特殊パズルや演出に利用可能。
+
+特定時間でしかクリアできない設計は禁止。
+
+待ち時間を強制しない。
+
+パズル設計
+
+最初から100問の薄い問題を量産するのではなく、
+
+まず完成度の非常に高い20〜30ステージ程度を作成する。
+
+すべて異なる発見があること。
+
+同じ操作を数字だけ変えて繰り返すステージは禁止。
+
+チャプター1：TOUCH
+
+タッチ操作を中心にゲームルールを理解させる。
+
+DEVICEを触る。
+回す。
+押す。
+引く。
+開く。
+
+チャプター2：GRAVITY
+
+ジャイロと加速度を導入。
+
+DEVICE内部の物理世界と現実のスマートフォンの姿勢が同期する。
+
+チャプター3：SENSE
+
+カメラ
+マイク
+光
+音
+振動
+
+を導入。
+
+チャプター4：OUTSIDE
+
+プレイヤーが画面外に注意を向ける問題。
+
+スマホを伏せる。
+静止させる。
+方向を合わせる。
+周囲の色を取得する。
+
+チャプター5：DEVICE
+
+それまで学んだルールを組み合わせる。
+
+画面に表示された命令が必ず正しいとは限らなくなる。
+
+例：
+
+画面に
+
+SHAKE
+
+と表示される。
+
+しかし端末を振ると失敗する。
+
+正解は完全に静止させること。
+
+別の問題では
+
+MORE LIGHT
+
+と表示。
+
+画面輝度を上げても反応しない。
+
+現実世界の光をカメラへ入れることでクリア。
+
+最終ステージでは、
+
+タッチ
+端末方向
+ジャイロ
+振動
+音
+現実世界の入力
+
+など複数要素を組み合わせた大型パズルにする。
+
+必ず実装してほしい代表ステージ
+
+「暗闇の迷路」
+
+画面がほぼ完全に暗くなる。
+
+プレイヤーには位置が見えない。
+
+スマートフォンを傾けて見えない球体を移動。
+
+出口に近づくほど振動が強く、速くなる。
+
+最終的に振動感覚だけでゴールする。
+
+アクセシビリティ設定では音による補助も有効化できる。
+
+「DON'T LOOK」
+
+DEVICEが画面上に、
+
+DON'T LOOK
+
+と表示。
+
+プレイヤーがスマートフォンを伏せる。
+
+Face Downを検出すると、見えない間にDEVICE内部から機械音が発生。
+
+数秒後に戻すとDEVICEが変形している。
+
+「STEAL COLOR」
+
+DEVICE内部に色のないエネルギーコアが存在。
+
+カメラで現実の赤、青、緑などを読み取る。
+
+読み取った色がリアルタイムに液体エネルギーとしてDEVICE内部へ流れ込む。
+
+「STAY STILL」
+
+DEVICEが激しく振動している。
+
+プレイヤーは最初スマホを振りたくなる。
+
+しかし正解は端末を完全に静止。
+
+一定時間、加速度が閾値以下になると装置が安定して開く。
+
+「POWER」
+
+DEVICEが完全停止。
+
+対応端末ではスマートフォンを充電開始するとDEVICEへ電気が流れる。
+
+金属配線が順番に発光し、内部機構が再起動。
+
+代替操作も用意する。
+
+DEVICE内部の物理表現
+
+物理演算を積極的に使う。
+
+金属球
+液体
+重力
+磁石
+ギア
+レール
+反射板
+レーザー
+回転リング
+シリンダー
+ピストン
+ロック機構
+ガラス
+電極
+ケーブル
+
+などを用意。
+
+ただし「物理演算任せで不安定」にはしない。
+
+重要なパズルでは制御された物理処理を使用し、再現性を持たせる。
+
+演出
+
+パズル正解時に単純な「CLEAR」の文字だけを出さない。
+
+DEVICEそのものが変形して回答を返す。
+
+ロック解除
+歯車回転
+内部発光
+金属パネル分離
+ガラス内部の液体移動
+機械アーム展開
+
+などを組み合わせる。
+
+正解した瞬間に、
+
+「自分が巨大な精密装置を動かした」
+
+という満足感が出る演出にする。
+
+サウンド
+
+非常に重要。
+
+BGMを鳴らし続けるだけにしない。
+
+研究施設の空調音
+遠くの機械音
+DEVICE内部のサーボ音
+金属クリック
+ガラス
+電気
+磁気
+低周波
+振動
+
+などをレイヤー化。
+
+DEVICEを触った場所によって音が変わる。
+
+イヤホン使用時は定位感を強化する。
+
+UI
+
+極力ゲーム世界へ統合する。
+
+安いモバイルゲーム風のボタンを並べない。
+
+メニュー：
+
+CONTINUE
+CHAPTERS
+SETTINGS
+ACCESSIBILITY
+CREDITS
+
+程度。
+
+パズル中のヒントはDEVICE内部の表示装置や投影文字として表現。
+
+ヒントシステム
+
+プレイヤーが詰まっても即答を表示しない。
+
+ヒント1：
+注目すべき場所。
+
+ヒント2：
+使用するスマホ機能。
+
+ヒント3：
+ほぼ解法。
+
+の3段階。
+
+アクセシビリティ
+
+センサー機能を多用するゲームなので特に重要。
+
+以下を実装する。
+
+振動を音または画面表示へ変換できる。
+
+音パズルに視覚補助。
+
+色パズルに色覚補助。
+
+強い端末操作を要求しない。
+
+スマートフォンを激しく振る必要をなくす。
+
+カメラ・マイク・コンパスが利用できない場合の代替パズル。
+
+一部センサーにアクセス拒否された場合でもゲーム進行不能にしない。
+
+プライバシー
+
+カメラ画像、マイク音声、位置情報などを外部サーバーへ送信しない。
+
+ゲーム進行にGPSは必須にしない。
+
+必要な権限は使用直前に理由を説明して要求。
+
+不要な権限を要求しない。
+
+技術構成
+
+可能ならUnity 6系 + C#を使用。
+
+モバイル向けURP。
+
+プロジェクトをモジュール化。
+
+最低限以下の構造を持たせる。
+
+SensorManager
+PuzzleManager
+GameStateManager
+AudioManager
+HapticsManager
+PermissionManager
+SaveManager
+AccessibilityManager
+DeviceCapabilityManager
+
+各スマートフォン機能をPuzzleコードから直接呼びまくらない。
+
+SensorManagerなどを介して抽象化し、
+
+実機センサー
+エディタ用疑似入力
+未対応端末用フォールバック
+
+を切り替え可能にする。
+
+センサーのデバッグ
+
+Unity Editor上でも開発できるよう、
+
+Developer Sensor Panel
+
+を実装。
+
+スライダーやボタンで、
+
+端末傾き
+加速度
+Face Up / Face Down
+マイク音量
+環境光
+コンパス
+充電ON/OFF
+バッテリー
+振動イベント
+カメラ代表色
+
+などを疑似入力できるようにする。
+
+実機を接続しなくても主要パズルをテスト可能にする。
+
+セーブ
+
+チャプター進行
+クリア済みステージ
+ヒント使用状況
+設定
+アクセシビリティ
+収集要素
+
+を保存。
+
+ステージ途中でも安全に中断できるようにする。
+
+パフォーマンス
+
+フォトリアルを理由に動作不能にしない。
+
+代表的なミドルクラスAndroid端末でもプレイ可能な構成を目標にする。
+
+LOD
+Occlusion Culling
+GPU Instancing
+Texture圧縮
+ライトベイク
+Reflection Probe
+必要な範囲だけリアルタイムライト
+オブジェクトプール
+Draw Call削減
+
+などを使用。
+
+Quality設定を、
+
+LOW
+MEDIUM
+HIGH
+ULTRA
+
+に分ける。
+
+高性能端末ではかなり高品質な表示になるようにする。
+
+完成条件
+
+単なるプロトタイプではなく、
+
+タイトル画面
+導入
+チュートリアル
+複数チャプター
+複数ステージ
+センサー入力
+3D演出
+サウンド
+設定
+アクセシビリティ
+セーブ
+ステージ選択
+エンディング
+
+までゲームとして一通り体験できる状態を目指す。
+
+可能なら実際にAndroidビルドを生成する。
+
+ビルド環境の制約でAPK/AABを生成できない場合でも、
+
+Unityで開けばそのままビルドできる完全なプロジェクト状態まで仕上げる。
+
+制作中の判断方針
+
+「簡単だから」という理由で2Dや簡易UIへ変更しない。
+
+「時間短縮」のためにゲームの中心となる仕組みを削除しない。
+
+外部素材が用意できない部分は、可能な限り自作またはプロシージャル生成する。
+
+プレースホルダーが必要な場合も、ゲーム全体をプレースホルダーだらけにしない。
+
+特に、
+
+DEVICE
+研究施設
+主要パズル装置
+ライティング
+マテリアル
+正解演出
+
+は高品質に仕上げる。
+
+作業手順
+
+まず短時間で全体設計を確定する。
+
+その後は説明を続けるのではなく制作へ移る。
+
+1. プロジェクト作成
+2. 基本3Dシーン
+3. DEVICE制作
+4. 基本操作
+5. センサー抽象化
+6. パズルフレームワーク
+7. 代表パズル実装
+8. チャプター構築
+9. UI
+10. サウンド
+11. 演出
+12. セーブ
+13. アクセシビリティ
+14. 最適化
+15. テスト
+16. 修正
+17. ビルド
+
+の順で進行。
+
+一部が失敗しても作業全体を停止せず、代替手段を使って完成度を最大化する。
+
+最終成果物
+
+最終的に以下を残す。
+
+・完全なゲームプロジェクト
+・主要ソースコード
+・ゲームシーン
+・3Dモデルおよびマテリアル
+・UI
+・サウンド設定
+・センサーシステム
+・パズルシステム
+・セーブシステム
+・ビルド設定
+・README
+・Android実機テスト手順
+・使用しているスマホ機能一覧
+・未対応端末でのフォールバック仕様
+・既知の問題一覧
+
+成果物を作らず説明だけして終了することは禁止。
+
+最優先順位は、
+
+1. 面白いこと
+2. スマートフォンならではであること
+3. 3D世界のリアリティ
+4. DEVICEを触っている感覚
+5. パズルとして納得できること
+6. 実際に動作すること
+
+とする。
+
+「既存のスマホゲームにセンサー機能を追加した作品」ではなく、
+
+このゲームのためにスマートフォンというハードウェアが存在しているように感じる作品を完成させてください。
+
+ここから企画説明だけで止まらず、実際の制作を開始してください。
+
+また、上記内容でもっとブラッシュアップできる部分や面白くなる要素はしっかり入れ、3Dはリアルに作成
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098715488369152087) · [Publication originale](https://x.com/00Nekonet/status/2098715488369152087) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098697876155076820"></a>
+
+### Vidéo de démonstration de construction 3D — Temple ancien zen
+
+[火山哥🕊️](https://x.com/huoshan007) · 2026-09-12 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098697876155076820"><img src="../assets/previews/d1c7e765a3139b9c4244b7e76de691ddf4dcd1e238f1cbf7a51df70788e29f39.webp" width="840" loading="lazy" alt="Vidéo de démonstration de construction 3D — Temple ancien zen"></a>
+
+**Prompt**
+
+```text
+Créez directement une vidéo de démonstration 3D complète montrant toutes les étapes, de la conception au résultat final, pour un « temple ancien zen », puis livrez le fichier MP4 final.
+
+Exigences visuelles :
+format carré 1080 × 1080, vue orthographique en plongée à 45°, modèle miniature 2.5D en volume, style cartoon, parfaitement centré. Utilisez un socle surélevé en pierre claire, un arrière-plan vert turquoise uni, des textures douces et soignées, des matériaux PBR et un éclairage réaliste et subtil.
+
+La scène comprend :
+un temple chinois à double toiture débordante, des tuiles vernissées aux angles relevés, une toiture vert turquoise, des faîtages dorés, des piliers rouge cinabre, des portes et fenêtres à treillis, une porte monumentale, un pavillon de cloche, un brûle-parfum, des lanternes en pierre, une cour dallée, des pins, des arbres aux fleurs roses et un bassin de lotus.
+
+Le titre en haut de l’image est « 禅境·古寺 », composé dans une police chinoise blanc cassé chaud, en gras et légèrement lumineuse.
+
+Déroulement de la vidéo, durée totale : 64 secondes :
+0–8 s : le plan d’implantation est tracé progressivement, trait après trait.
+8–15 s : le socle et les volumes de base des bâtiments s’élèvent.
+15–24 s : les piliers, les murs, les portes, les fenêtres et autres détails sont générés.
+24–32 s : les doubles toitures débordantes, les tuiles et les angles relevés sont modélisés.
+32–41 s : ajout de la porte monumentale, de la cour, des arbres et des éléments de décor.
+41–49 s : le modèle gris reçoit progressivement ses couleurs et ses matériaux PBR.
+49–54 s : réglage de l’éclairage, des réflexions et des ombres douces.
+54–64 s : le modèle final complet effectue lentement une rotation orbitale, accompagné d’une légère chute de pétales, de volutes d’encens et d’ondulations à la surface de l’eau.
+
+Utilisez une géométrie 3D réelle et montrez en continu le processus de construction dans un même plan. Affichez uniquement de courts noms d’étapes, sans écrans explicatifs de type présentation PowerPoint ni voix off.
+
+Générez la scène et l’animation avec Three.js, effectuez un rendu image par image, puis exportez un fichier MP4 H.264 à 30 i/s avec FFmpeg. Vérifiez la lecture complète, l’ordre des étapes, l’intégrité du modèle et l’absence d’images noires.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+请直接制作一支“禅境·古寺”从设计到成品全过程的3D演示视频，并交付完整MP4。
+
+画面要求：
+1080×1080方形，45°俯视正交视角，微型2.5D卡通立体模型，完美居中。采用凸起的浅色石质底座、纯青绿色背景、柔和精致纹理、PBR材质和温和真实光照。
+
+场景包含：
+中式重檐寺庙、翘角琉璃瓦、青绿色屋顶、金色屋脊、朱红立柱、格栅门窗、山门、钟亭、香炉、石灯、石板庭院、松树、粉色花树与荷花池。
+
+顶部标题为“禅境·古寺”，使用加粗、提亮的暖白色中文字体。
+
+视频流程，共64秒：
+0–8秒：逐笔绘制平面布局。
+8–15秒：底座与建筑基础体块升起。
+15–24秒：生成立柱、墙体、门窗等细节。
+24–32秒：制作重檐、瓦片与翘角。
+32–41秒：加入山门、庭院、树木和配景。
+41–49秒：白模逐步赋予颜色与PBR材质。
+49–54秒：调整光照、反射与柔和阴影。
+54–64秒：完整成品缓慢环绕，伴随轻微落花、香烟与水波。
+
+使用真实三维几何，在同一画面中连续展示构建过程。只显示简短阶段名，不做PPT式讲解页，不加旁白。
+
+请用Three.js生成场景与动画，逐帧渲染后用FFmpeg导出30fps的H.264 MP4，并检查完整播放、阶段顺序、模型完整性和黑帧。
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098697876155076820) · [Publication originale](https://x.com/huoshan007/status/2098697876155076820) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098650336521064759"></a>
+
+### Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens
+
+[Higgsfield](https://x.com/higgsfield_ai) · 2026-09-12 · GPT-6 Astra · Autre
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098650336521064759"><img src="../assets/previews/da202c5fce78126a8376a34d952df87206a27bb69f6c6f658cb96deb16b4eb5d.webp" width="840" loading="lazy" alt="Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens"></a>
+
+**Prompt**
+
+```text
+Modéliser le pont de Brooklyn et tester le passage de chars dans les deux sens.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Model the Brooklyn Bridge and test tanks crossing from both directions.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098650336521064759) · [Publication originale](https://x.com/higgsfield_ai/status/2098244976027312474) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098492771170722032"></a>
+
+### Étang à carpes koï 3D interactif
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-11 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098492771170722032"><img src="../assets/previews/c8bdb6714c7e776d5def13b8dde74e461d30902ae8a65d3789260b23a5f018f5.webp" width="840" loading="lazy" alt="Étang à carpes koï 3D interactif"></a>
+
+**Prompt**
+
+```text
+Créez un magnifique étang à carpes koï interactif en plein écran avec Three.js + WebGL. Utilisez une vue plongeante, une eau turquoise limpide, une lumière solaire, des caustiques animées sur le fond de l’étang et une impression convaincante de profondeur.
+
+Placez en bas un élégant panneau de sélection translucide proposant quatre variétés de carpes koï : Kohaku, Showa, Golden Ogon et Platinum. Un clic sur une fiche libère le poisson correspondant dans l’étang. En faisant glisser un poisson depuis sa fiche, l’utilisateur peut choisir précisément l’endroit où le déposer.
+
+Rendez chaque arrivée satisfaisante : une éclaboussure avec des gouttelettes, un bref creux à la surface de l’eau et des ondulations qui s’étendent. Le poisson doit ensuite plonger sous la surface. Utilisez la réfraction et des indices de profondeur pour que les carpes koï paraissent clairement immergées.
+
+Créez des carpes koï 3D détaillées, avec des yeux, des écailles, des nageoires et des queues fluides. Animez leurs corps, leurs queues et leurs nageoires de manière coordonnée. Chaque poisson doit changer indépendamment de direction et de vitesse, tourner progressivement à proximité des limites et éviter les autres poissons.
+
+Permettez aux utilisateurs de toucher l’eau et de faire glisser leur doigt dessus pour créer des ondulations. Ajoutez de la pluie et un tourbillon déplaçable dont le courant agit sur les poissons. Incluez Calm, Clear pond ainsi qu’une commande permettant de masquer l’interface pour les captures vidéo d’écran.
+
+Utilisez Web Audio pour créer le son des éclaboussures à l’arrivée, de douces gouttelettes musicales, de légers bruits d’eau pendant la nage, de la pluie et du tourbillon. Activez l’audio avec un bouton Sound, atténuez-le progressivement lorsqu’il est désactivé et mettez-le en pause lorsque l’onglet du navigateur est masqué.
+
+Conservez tous les libellés et boutons en anglais. Adaptez la mise en page aux appareils mobiles. Optimisez le rendu et les animations pour garantir des performances fluides avec plusieurs dizaines de poissons.
+
+Livrez un site web complet et fonctionnel, avec des visuels soignés et des interactions opérationnelles.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a beautiful, full-screen interactive koi pond using Three.js + WebGL. Use a top-down view with clear turquoise water, sunlight, animated caustics on the pond floor, and a convincing sense of depth.
+
+Place an elegant translucent selection panel at the bottom with four koi varieties: Kohaku, Showa, Golden Ogon, and Platinum. Clicking a card releases that fish into the pond. Dragging a fish from its card lets the user choose exactly where to drop it.
+
+Make each landing feel satisfying: a splash with droplets, a brief depression in the water surface, and expanding ripples. The fish should then dive beneath the surface. Use refraction and depth cues so the koi clearly look submerged.
+
+Create detailed 3D koi with eyes, scales, fins, and flowing tails. Animate their bodies, tails, and fins together. Each fish should independently change direction and speed, turn smoothly near boundaries, and avoid other fish.
+
+Let users touch and drag across the water to create ripples. Add rain and a movable whirlpool whose current affects the fish. Include Calm, Clear pond, and a control to hide the interface for screen recording.
+
+Use Web Audio to create landing splashes, soft musical droplets, gentle swimming water sounds, rain, and a whirlpool sound. Enable audio through a Sound button, fade it smoothly when muted, and pause it when the browser tab is hidden.
+
+Keep all labels and buttons in English. Make the layout responsive for mobile. Optimize rendering and animation for smooth performance with several dozen fish.
+
+Deliver a complete, working website with polished visuals and functional interactions.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098492771170722032) · [Publication originale](https://x.com/vib3coded/status/2098492771170722032) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098406473273663992"></a>
+
+### Figurine d’une petite fille jouant avec un robot
+
+[𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) · 2026-09-11 · GPT-6 Astra · Ressources
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098406473273663992"><img src="../assets/previews/a8fa8aab03ca30a94b10aa0e9f4c707c1f80186dbf1541364c2ce5c238d8758d.webp" width="840" loading="lazy" alt="Figurine d’une petite fille jouant avec un robot"></a>
+
+**Prompt**
+
+```text
+Figurine entièrement assemblée d’une petite fille jouant avec un robot, portant un petit casque de chantier, tenant d’une main un robot en tôle et de l’autre une télécommande, avec une boîte à outils attachée à la taille. Tous les accessoires sont intégrés à la figurine en position debout, sur un fond blanc uni, avec un éclairage professionnel de studio, dans un style de présentation de figurine 3D anime très détaillé. ar3:4
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+一尊完全组合的玩机器人的小女孩手办，头带工人用的小帽子，一手持一个铁皮做的机器人，一手持一个遥控器，腰间系着一个维修箱子。所有配件完整合体呈站姿，纯白色背景，工作室专业灯光，高精 3D 动漫手办展示风格。ar3:4
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098406473273663992) · [Publication originale](https://x.com/94vanAI/status/2098406473273663992) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098403061463224543"></a>
+
+### Scène miniature en volume représentant un temple
+
+[Rion Wu](https://x.com/rionaifantasy) · 2026-09-11 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098403061463224543"><img src="../assets/previews/20dba2605fb5f8fadd26e0d600a7b90aec4b5db6d1fab05d2e00c991d6c1bc3c.webp" width="840" loading="lazy" alt="Scène miniature en volume représentant un temple"></a>
+
+**Prompt**
+
+```text
+Présenter une scène miniature en volume 2.5D de style cartoon, nette, en vue plongeante à 45° et en perspective isométrique, avec des textures douces et soignées, des matériaux PBR réalistes et un éclairage doux au rendu naturel. Créer une petite base surélevée, façon maquette, intégrant les éléments les plus reconnaissables d’un temple. Utiliser un fond uni. Composition : mise en page parfaitement centrée, format carré 1080 × 1080, esthétique de maquette en volume très propre et haute définition ; utiliser simplement une typographie plus grasse et plus lumineuse.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+呈现一个清晰的、45°俯视等轴侧微型2.5D卡通立体模型场景，采用柔和精致的纹理、逼真的PBR材质以及温和逼真的光照效果。创建一个小型凸起的立体模型式底座，其中包含了寺庙最具辨识度的元素。使用纯色背景。构图：完美居中的布局，方形1080x1080，超干净、高清晰度的立体模型美学 换加粗、提亮的字体即可
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098403061463224543) · [Publication originale](https://x.com/rionaifantasy/status/2098403061463224543) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098367087475577273"></a>
+
+### Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-11 · GPT-6 Astra · Ressources
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098367087475577273"><img src="../assets/previews/4caf53574bf82d0814088c75d966bd2ef7e7a0b59de2526070e9d9de98c9bd51.webp" width="840" loading="lazy" alt="Génération automatique des textures des cheveux et du visage d’un personnage, avec transfert UV"></a>
+
+**Prompt**
+
+```text
+Utilise la génération d’images pour obtenir le meilleur texturing possible
+Rends le visage de face, sans cheveux, en flat shading et sans ombres, puis génère une image texturée à partir de ce rendu comme référence et applique-la par projection parallèle avant de la transférer sur les UV de sortie
+ou utilise une meilleure méthode si astra en trouve une
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+画像生成を利用して最強のテクスチャリングしてほしい
+髪なし顔面正面をフラットシェーディングで影なしでレンダリングしてそれをリファレンスにテクスチャリング済み画像生成して並行投影でマッピングして出力用UVに転写
+又はastraが思いついたもっといい方法あればそれで
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098367087475577273) · [Publication originale](https://x.com/_sagyoai/status/2098367087475577273) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098225609558335846"></a>
+
+### Vaisseau-courrier civil de départ de Sol Horizon
+
+[Jonathan Plumb — Spokane Valley](https://x.com/jonathanplumb) · 2026-09-11 · GPT-6 Astra · Ressources
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098225609558335846"><img src="../assets/previews/93340afbc96fd825af0645045e834d916af42214312e4cca4e75b4da5f6c8210.webp" width="840" loading="lazy" alt="Vaisseau-courrier civil de départ de Sol Horizon"></a>
+
+**Prompt**
+
+```text
+Dans Blender, créez le vaisseau-courrier civil de départ de Sol Horizon. Il doit paraître usé, réparable, abordable et sûr — pas militaire. Créez un cockpit, une trappe de chargement, des propulseurs de manœuvre visibles, un ensemble moteur principal et quatre jambes d’atterrissage. Utilisez un style modulaire hard-surface adapté à de futures variantes. Limitez le maillage de rendu principal à moins de 15 000 triangles. Nommez clairement les objets, définissez l’orientation avant pour Unity, créez une géométrie de collision simple, appliquez les transformations, enregistrez le fichier .blend et exportez un FBX prêt pour le jeu. Affichez des captures d’écran de la vue 3D pour validation avant l’export.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+In Blender, create Sol Horizon’s starter civilian courier ship. It should look used, repairable, affordable, and safe—not military. Create a cockpit, cargo hatch, visible maneuvering thrusters, main engine assembly, and four landing struts. Use a modular hard-surface style suitable for future variants. Keep the main render mesh under 15,000 triangles. Name objects clearly, set the forward direction for Unity, create simple collision geometry, apply transforms, save the .blend, and export a game-ready FBX. Show viewport screenshots for approval before export.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098225609558335846) · [Publication originale](https://x.com/jonathanplumb/status/2098225609558335846) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098109252720078891"></a>
+
+### Démonstration interactive en 3D d’une main robotique jouant du piano
+
+[MSB](https://x.com/KeWai386772) · 2026-09-10 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098109252720078891"><img src="../assets/previews/a2c337ecc0014d7a132e8bf1233771965ee7de5be41c152de671b6ba59398221.webp" width="840" loading="lazy" alt="Démonstration interactive en 3D d’une main robotique jouant du piano"></a>
+
+**Prompt**
+
+```text
+Créez une démonstration complète dans un navigateur, mettant en scène une main robotique détaillée à cinq doigts jouant sur un piano miniature. Le mouvement visible des doigts, la course physique des touches, les notes générées et le rythme musical doivent être reliés par une chaîne causale. Livrez une application interactive soignée sur le plan visuel, dans le temps imparti par l’évaluation.  1. EXPÉRIENCE : utilisez une scène 3D plein écran avec une main robotique modélisée avec précision, des doigts articulés, des mécanismes de poignet visibles et un clavier de 25 touches couvrant les notes MIDI 60 à 84. Représentez une géométrie réaliste pour les touches blanches et noires, un mouvement indépendant de chaque touche, des coussinets au bout des doigts et des matériaux soignés. Incluez des caméras en plongée, côté interprète et en gros plan sur les doigts. Fournissez un audio synchronisé après activation de la lecture par l’utilisateur.  2. ENTRÉE MUSICALE COMMUNE : utilisez les numéros de notes MIDI comme source de vérité. À 96 BPM, jouez les événements suivants, exprimés sous la forme (temps de début en temps, note, durée en temps) : (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). Les trois derniers événements forment un accord simultané. Prenez également en charge l’importation de fichiers MIDI standard à l’aide d’un parseur reconnu.  3. CONTRÔLE DE LA MAIN : modélisez des doigts articulés indépendamment et un poignet mobile. Planifiez l’affectation des doigts accessibles, les mouvements d’approche, les pressions, les maintiens, les relâchements, l’articulation des notes répétées et l’exécution des accords. Les doigts doivent entrer en contact avec les bonnes touches sans intersecter les touches voisines ni effectuer de sauts invraisemblables. Utilisez la cinématique inverse et des limites articulaires. Affichez les affectations de doigts planifiées et permettez l’inspection manuelle de chaque mouvement.  4. CAUSALITÉ DU SON : générez les événements note-on uniquement lorsque la touche visible correspondante franchit un seuil d’enfoncement documenté sous l’effet du contact avec un doigt. Générez un note-off au relâchement, avec hystérésis pour éviter les parasites. Les événements MIDI sont des cibles de planification, et non une piste audio indépendante. Un mécanisme de touches piloté par le contact géométrique est acceptable s’il est clairement identifié ; une simulation complète de la dynamique des contacts peut aussi être utilisée. Les touches ne doivent pas bouger simplement parce qu’un événement MIDI est planifié.  5. SYNCHRONISATION : utilisez une horloge musicale cohérente et horodate les déclenchements réels des touches par rapport aux événements cibles. Tenez compte de la programmation audio et du timing du rendu. Exposez le tempo, la transposition, la lecture, la pause, le redémarrage, la boucle et l’inspection au ralenti. La mise en pause ou le redémarrage doit libérer correctement les notes actives. Le ralentissement de la lecture doit préserver la synchronisation entre les doigts, les touches et l’audio.  6. DIAGNOSTICS : affichez les notes cibles, les doigts planifiés, les notes effectivement déclenchées et les erreurs de synchronisation au déclenchement sur une timeline alignée. Signalez les notes manquées, les notes supplémentaires, les mauvaises hauteurs, les échecs de notes répétées et les notes bloquées. Fournissez une surimpression d’inspection des contacts indiquant quel bout de doigt enfonce chaque touche. Enregistrez les éléments permettant de distinguer une planification réussie d’une animation approximative de la main.  7. VÉRIFICATION : évaluez séparément la mélodie, les notes répétées et l’accord final. Visez l’absence de notes incorrectes ou manquantes, une erreur de déclenchement au 95e percentile inférieure à 50 ms et un écart de déclenchement inférieur à 50 ms pour l’accord final. Présentez les mesures réelles même lorsque les objectifs ne sont pas atteints. Fournissez un test qui désactive l’actionnement des doigts : le score peut continuer à avancer, mais les touches non enfoncées ne doivent pas générer de notes.  8. LIVRAISON : utilisez Three.js, TypeScript, des API audio adaptées et des bibliothèques reconnues de parsing ou de calcul numérique. Livrez l’application exécutable, le code source, un scénario musical reproductible, les ressources ou scripts de génération et les instructions de démarrage. Vérifiez l’audio dans le navigateur, les commandes, les vues caméra, la mise en page sur ordinateur et mobile, ainsi que les lectures répétées. Toutes les affirmations de performance affichées doivent provenir de comportements mesurés.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a complete browser-based demonstration of a detailed five-finger robotic hand playing a miniature piano. The visible finger motion, physical key travel, generated notes, and musical timing must be causally connected. Deliver a visually polished, interactive application within the evaluator's time budget.  1. EXPERIENCE: Use a full-screen 3D scene with a precisely modeled robotic hand, articulated fingers, visible wrist mechanisms, and a 25-key keyboard spanning MIDI notes 60 through 84. Show realistic black-key and white-key geometry, independent key movement, fingertip pads, and refined materials. Include overhead, performer-side, and fingertip close-up cameras. Provide synchronized audio after the user activates playback.  2. COMMON MUSICAL INPUT: Use MIDI note numbers as the source of truth. At 96 BPM, play these events, expressed as (start beat, note, duration in beats): (0,60,0.4), (0.5,64,0.4), (1,67,0.4), (1.5,64,0.4), (2,62,0.4), (2.5,65,0.4), (3,69,0.4), (3.5,65,0.4), (4,60,0.4), (4.5,60,0.4), (5,60,1), (5,64,1), (5,67,1). The last three events form a simultaneous chord. Also support standard MIDI file import using an established parser.  3. HAND CONTROL: Model independently articulated fingers and a movable wrist. Plan reachable finger assignments, approach motions, presses, holds, releases, repeated-note articulation, and chord execution. Fingers must contact the correct keys without intersecting neighboring keys or making implausible jumps. Use inverse kinematics and joint limits. Display planned finger assignments and allow manual inspection of individual motions.  4. SOUND CAUSALITY: Generate note-on events only when the corresponding visible key crosses a documented depression threshold because of finger contact. Generate note-off on release, with hysteresis to prevent chatter. MIDI events are planning targets, not an independent audio playback track. A geometric contact-driven key mechanism is acceptable if explicitly identified; full contact dynamics may be used instead. Keys must not move merely because a MIDI event is scheduled.  5. TIMING: Use a consistent musical clock and timestamp actual key-trigger events against target events. Account for audio scheduling and render timing. Expose tempo, transpose, play, pause, restart, loop, and slow-motion inspection. Pausing or restarting must release active notes appropriately. Slowing playback must preserve synchronization between fingers, keys, and audio.  6. DIAGNOSTICS: Display target notes, planned fingers, actual triggered notes, and onset timing errors on an aligned timeline. Report missed notes, extra notes, wrong pitches, repeated-note failures, and stuck notes. Provide a contact inspection overlay showing which fingertip is depressing each key. Record the evidence needed to distinguish successful planning from approximate hand animation.  7. VERIFICATION: Evaluate melody, repeated notes, and the final chord separately. Aim for no wrong or missing notes, a 95th-percentile onset error below 50 ms, and final-chord onset spread below 50 ms. Report actual measurements even when targets are missed. Provide a test that disables finger actuation: the score may continue advancing, but unpressed keys must not generate notes.  8. DELIVERY: Use Three.js, TypeScript, appropriate audio APIs, and established parsing or numerical libraries. Deliver the running application, source code, reproducible musical fixture, assets or generation scripts, and startup instructions. Verify browser audio, controls, camera views, desktop and mobile layout, and repeated playback. All displayed performance claims must come from measured behavior.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098109252720078891) · [Publication originale](https://x.com/KeWai386772/status/2098109252720078891) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098105648106078541"></a>
+
+### Atlas 3D interactif de la tête et du cerveau humains
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-10 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098105648106078541"><img src="../assets/previews/d5197e1985f14535e770ac12605b228ba2f0b5e0097d074c79356afb7c171f70.webp" width="840" loading="lazy" alt="Atlas 3D interactif de la tête et du cerveau humains"></a>
+
+**Prompt**
+
+```text
+Créez un atlas 3D interactif complet de la tête et du cerveau humains. Livrez une application fonctionnelle, pas une maquette. Prenez de manière autonome des décisions raisonnables, implémentez-les, testez-les et vérifiez visuellement le résultat.
+
+Utilisez Three.js ainsi que de vrais maillages Z-Anatomy / BodyParts3D correctement sous licence. Incluez le crâne, les dents, les muscles faciaux, le cerveau, les yeux, les nerfs crâniens, les artères, les veines et les membranes complémentaires disponibles. Préservez leurs relations anatomiques d’origine. Visez plusieurs centaines de structures sélectionnables individuellement, indiquez le nombre réel d’éléments importés et conservez l’attribution des sources.
+
+Créez une interface claire et lumineuse avec un arrière-plan gris pâle, des panneaux blancs aux angles arrondis, des accents bleu-gris discrets et une typographie lisible. Gardez le modèle de grande taille, avec un panneau des structures à gauche, les outils de caméra à droite, la recherche en haut et un curseur d’explosion en dessous. Utilisez l’anglais partout.
+
+Rendez l’anatomie progressivement explorable :
+Tête → système → région → structures individuelles nommées.
+Par exemple : Cerveau → Cérébrum → Hémisphère gauche → Lobe frontal → structures individuelles.
+
+Animez l’assemblage et le désassemblage. Préservez les positions d’origine lors de l’assemblage ; disposez les groupes éclatés selon des agencements clairement séparés et munis de libellés lisibles. Indiquez l’échelle normalisée et répartissez les grandes collections sur plusieurs pages.
+
+Incluez :
+- Rotation libre, zoom à la molette ou par pincement et préréglages de caméra.
+- Curseur de désassemblage et contrôle Maj + molette.
+- Commutateurs de visibilité indépendants pour les groupes et les éléments individuels.
+- Opacité des groupes, annulation, restauration de l’ensemble et réinitialisation.
+- Recherche anatomique, inspection au clic, centrage, isolation et navigation vers le parent.
+- Couleurs anatomiques, porcelaine, mode filaire et mode transparent.
+- Plans de découpe sagittal, axial et coronal réglables, avec inversion du sens.
+- Libellés, exploration automatique, mode plein écran et export PNG.
+- Parcours guidé de la tête complète jusqu’au cerveau et à ses réseaux.
+
+Conservez les structures masquées lors des changements de disposition et de matériau. Expliquez que les plans de découpe produisent des coupes d’affichage ouvertes et non des scanners médicaux. N’inventez pas d’éléments anatomiques et ne revendiquez aucune validation clinique.
+
+Livrez un fichier HTML autonome contenant l’application et la géométrie traitée, fonctionnant hors ligne sans serveur. Fournissez également les fichiers source propres, les dépendances verrouillées sur des versions précises, un fichier lock, des scripts de build portables, un README en anglais ainsi que les licences et attributions requises. Excluez les identifiants, les chemins locaux, les dépendances et les fichiers sans rapport.
+
+Testez l’intégrité de la géométrie, l’appartenance à la hiérarchie, la visibilité, l’annulation et l’espacement des agencements. Inspectez l’application en cours d’exécution dans un navigateur, utilisez les contrôles, vérifiez l’absence d’erreurs dans la console et corrigez les chevauchements visuels avant la livraison.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a complete interactive 3D atlas of the human head and brain. Deliver a working application, not a mockup. Make reasonable decisions independently, implement it, test it, and visually verify the result.
+
+Use Three.js and real, appropriately licensed Z-Anatomy / BodyParts3D meshes. Include the skull, teeth, facial muscles, brain, eyes, cranial nerves, arteries, veins, and available supporting membranes. Preserve their original anatomical relationships. Aim for hundreds of individually selectable structures, report the actual imported count, and retain source attribution.
+
+Create a clean, light interface with a pale grey background, white rounded panels, restrained blue-grey accents, and readable typography. Keep the model large, with a structure panel on the left, camera tools on the right, search at the top, and an explosion slider below. Use English throughout.
+
+Make the anatomy progressively explorable:
+Head → system → region → individual named structures.
+For example: Brain → Cerebrum → Left hemisphere → Frontal lobe → individual structures.
+
+Animate assembly and disassembly. Preserve source positions when assembled; arrange exploded groups in clearly separated layouts with readable labels. Indicate normalized scale and paginate large collections.
+
+Include:
+- Free rotation, wheel/pinch zoom, and camera presets.
+- Disassembly slider and Shift + wheel control.
+- Independent visibility switches for groups and individual parts.
+- Group opacity, undo, restore all, and reset.
+- Anatomical search, click-to-inspect, focus, isolation, and parent navigation.
+- Anatomical colours, porcelain, wireframe, and transparent modes.
+- Adjustable sagittal, axial, and coronal clipping planes with reverse direction.
+- Labels, automatic exploration, fullscreen, and PNG export.
+- A guided journey from the complete head into the brain and its networks.
+
+Keep hidden structures hidden across layout and material changes. Explain that clipping planes produce open display cuts, not medical scans. Do not invent anatomy or claim clinical validation.
+
+Deliver a standalone HTML containing the application and processed geometry, working offline without a server. Also provide clean source files, pinned dependencies, a lockfile, portable build scripts, an English README, and required licences and attribution. Exclude credentials, local machine paths, dependencies, and unrelated files.
+
+Test geometry integrity, hierarchy membership, visibility, undo, and layout spacing. Inspect the running application in a browser, exercise the controls, check for console errors, and fix visual overlaps before delivering.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098105648106078541) · [Publication originale](https://x.com/k1rallik/status/2098105648106078541) · [Code source](https://github.com/bubblik525/head) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098094339759149067"></a>
+
+### Animation fantasy : un épéiste détruit une porte fortifiée
+
+[PixVerse](https://x.com/PixVerse) · 2026-09-10 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098094339759149067"><img src="../assets/previews/8cf187f859ccd777fae30f37aff6e1f48d82220635d35a4a07014ad15e098df1.webp" width="840" loading="lazy" alt="Animation fantasy : un épéiste détruit une porte fortifiée"></a>
+
+**Prompt**
+
+```text
+Crée dans Blender une animation d’action de 12 secondes en modèle blanc, puis utilise @PixVerse pour transformer l’animation exportée en une spectaculaire séquence de film fantasy animé pour public adulte.
+
+Dans Blender, construis un épéiste articulé simple, une épée et son fourreau, une vaste plateforme de pierre surélevée et une immense porte entourée de piliers. Utilise une géométrie blanche ou gris clair, avec un éclairage basique. Privilégie une action lisible, des proportions convaincantes et un contraste marqué entre le petit personnage et une architecture monumentale. Représente la vague d’énergie de l’épée par une forme courbe animée simple, et divise la porte en morceaux capables de se séparer et de tomber de façon visible.
+
+Commence avec la caméra proche de l’épéiste tandis qu’il dégaine son arme et rassemble brièvement ses forces. Vers la deuxième seconde, anime un unique coup de taille extrêmement rapide et décisif, impulsé par les pieds, les hanches, le torse et les bras. Libère une vague d’énergie en forme de croissant, bien visible, qui traverse l’espace et frappe la porte. Fais glisser la partie supérieure de la porte le long de la coupe, perdre ses appuis, puis s’effondrer avec une accélération et un contact au sol clairement perceptibles. Après l’impact, fais récupérer naturellement l’épéiste, rengainer son épée, se redresser et relâcher les bras.
+
+À mesure que l’attaque se déroule, éloigne et élève la caméra dans un mouvement continu et fluide. Continue à monter de façon spectaculaire jusqu’à ce que le plan final devienne une vue aérienne extrêmement haute, presque verticale, de toute la plateforme et du terrain alentour. Le personnage peut devenir trop petit pour être identifiable. Conserve un rythme d’action rapide et une forte sensation d’échelle qui s’élargit, plutôt que de t’attarder sur la pose d’attaque. Vérifie les mouvements du corps, la continuité de l’arme, la trajectoire de la vague d’énergie, l’effondrement de la porte et le déplacement de la caméra en lecture à vitesse normale.
+
+Exporte le MP4 propre de 12 secondes en modèle blanc. Utilise ensuite @PixVerse pour générer une vidéo de 12 secondes rendue par IA, en utilisant l’animation Blender comme référence souple pour la composition, la progression de l’action et l’élévation de la caméra. Préserve la séquence essentielle — préparation, coup de taille, vague d’énergie en mouvement, destruction de la porte, rengainage et révélation aérienne extrême — tout en permettant une expansion cinématographique importante.
+
+Crée une esthétique de film d’animation picturale pour public adulte, qui associe des formes expressives, des surfaces peintes à la main, un volume tridimensionnel convaincant et une lumière cinématographique douce. Donne à l’épéiste adulte une silhouette distinctive, un manteau rouge lie-de-vin, une armure sobre et une détermination maîtrisée. Développe le décor en une immense forteresse montagneuse composée de remparts superposés, de tours, de ponts, de ravins profonds et d’une vaste cité au-delà.
+
+Fais de la vague d’énergie en forme de croissant de l’épée un événement visuel majeur. Elle doit trancher la porte et poursuivre sa course jusqu’aux fortifications lointaines, en produisant une chaîne lisible de structures qui s’effondrent, de nuages de poussière, d’étincelles, de flammes et d’ondes de pression. Lorsque la caméra atteint une altitude extrême, révèle toute la trajectoire de l’attaque à travers le champ de bataille, avec l’épéiste immobile à son point d’origine. Utilise des ombres atmosphériques froides, contrastées par une énergie ambrée chaleureuse et des lueurs de feu dispersées. Ajoute une musique cinématographique originale ainsi que des sons synchronisés d’épée, d’impact, d’effondrement, de vent et de la ville au loin.
+
+Fournis le MP4 en modèle blanc, le MP4 rendu par IA dans PixVerse et le projet Blender modifiable.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a 12-second white-model action animation in Blender, then use @PixVerse to transform the exported animation into a spectacular mature animated fantasy film sequence.
+
+In Blender, build a simple articulated swordsman, a sword and scabbard, a vast elevated stone platform, and one enormous gate with surrounding pillars. Use clean white or light-gray geometry and basic lighting. Prioritize readable action, convincing proportions, and a strong contrast between the small character and monumental architecture. Represent the sword-energy wave with a simple animated curved shape, and divide the gate into pieces that can visibly separate and fall.
+
+Start the camera close to the swordsman as he draws his weapon and briefly gathers force. Around the second second, animate one extremely fast, decisive slash driven by the feet, hips, torso, and arms. Release a visible crescent-shaped sword-energy wave that travels across the space and strikes the gate. Let the upper gate section slide along the cut, lose support, and collapse with clear acceleration and ground contact. After the strike, have the swordsman recover naturally, sheath the sword, straighten up, and relax his arms.
+
+As the attack unfolds, pull the camera backward and upward in a continuous, smooth movement. Keep ascending dramatically until the ending becomes an extremely high, nearly vertical aerial view of the entire platform and surrounding terrain. The character may become too small to distinguish. Maintain fast action and a powerful sense of expanding scale rather than lingering on the attack pose. Check body motion, weapon continuity, the energy wave’s travel, gate collapse, and camera movement at normal playback.
+
+Export the clean 12-second white-model MP4. Then use @PixVerse to generate a 12-second AI-rendered video, using the Blender animation as a loose reference for composition, action progression, and the rising camera. Preserve the essential sequence of preparation, slash, traveling energy wave, gate destruction, sheathing, and extreme aerial reveal, while allowing substantial cinematic expansion.
+
+Create a mature painterly animated-film aesthetic, combining expressive shapes, hand-painted surfaces, convincing three-dimensional volume, and soft cinematic lighting. Give the adult swordsman a distinctive silhouette, a wine-red coat, restrained armor, and composed determination. Expand the setting into an immense mountain fortress with layered walls, towers, bridges, deep ravines, and a sprawling city beyond.
+
+Make the crescent-shaped sword-energy wave a major visual event. It should cut through the gate and continue into distant fortifications, producing a readable chain of collapsing structures, sweeping dust, sparks, fire, and pressure waves. As the camera reaches extreme altitude, reveal the full path of the attack across the battlefield, with the swordsman standing quietly at its origin. Use cool atmospheric shadows contrasted with warm amber energy and scattered firelight. Include original cinematic music and synchronized sword, impact, collapse, wind, and distant city sounds.
+
+Deliver the white-model MP4, the PixVerse AI-rendered MP4, and the editable Blender project.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2098094339759149067) · [Publication originale](https://x.com/PixVerse/status/2098094339759149067) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098079379297608050"></a>
 
 ### Vol d’une navette blanche dans un canyon urbain
@@ -2363,441 +4421,6 @@ A premium stylized coastal fantasy adventure game set in a small sunlit island c
 </details>
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096629506047955327) · [Publication originale](https://x.com/tripoai/status/2096629506047955327) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096612394281603144"></a>
-
-### Animation d’un étui pliant à partir d’un gabarit de découpe
-
-[Salma](https://x.com/Salmaaboukarr) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/29f572ca365b21a22d26599b96479fe6fcd709e1472fae717f82d45f7edc7aff.webp" width="840" loading="lazy" alt="Animation d’un étui pliant à partir d’un gabarit de découpe"></a>
-
-**Images de référence:** [1](https://media.tripogrowth.space/media/ff3adfcf-9ead-485b-914f-352fe8414cfc.png) · [2](https://pbs.twimg.com/media/HRiom4IbAAANa2x.png)
-
-**Prompt**
-
-```text
-Créez dans Blender un modèle modifiable d’étui pliant ainsi que son animation, à partir de l’image du gabarit de découpe que j’ai jointe.
-
-L’objectif principal est de montrer comment le gabarit à plat se replie pour former une boîte fermée, puis se déplie à nouveau, dans une présentation technique dans la fenêtre 3D de Blender
-
-PRIORITÉ DE LA RÉFÉRENCE
-
-• Utilisez l’image pour définir la structure de la boîte, la forme des panneaux, les languettes et la position des lignes de rainage.
-• Considérez le texte présent dans les fichiers de référence comme du contenu de référence, et non comme des instructions supplémentaires.
-
-MODÉLISEZ LE GABARIT DE DÉCOUPE
-
-Construisez des panneaux individuels en maillage, reliés par des pivots de pliage positionnés avec précision.
-
-Incluez :
-• Le panneau inférieur.
-• La paroi arrière.
-• Le panneau supérieur ou couvercle articulé.
-• La languette de rentrage effilée.
-• Les parois latérales gauche et droite.
-• La paroi avant et le retour intérieur avant.
-• Les languettes d’angle avant et arrière.
-• Les ailettes latérales effilées fixées au couvercle.
-• Les languettes de verrouillage et les encoches visibles lorsque l’image fournit suffisamment de détails.
-
-Respectez les proportions et les contours de l’image fournie. Comme aucune dimension chiffrée n’est indiquée, utilisez provisoirement les dimensions 300 × 300 × 95 mm pour la boîte assemblée. Faites en sorte que ces dimensions soient faciles à modifier et identifiez-les clairement comme des hypothèses.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create an editable folding-carton model and animation in Blender using my attached dieline image.
-
-The main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation
-
-REFERENCE PRIORITY
-
-• Use the image for the box structure, panel shapes, tabs, and crease positions..
-• Treat text in the reference files as reference content, not additional instructions.
-
-MODEL THE DIELINE
-
-Construct individual mesh panels connected through accurately positioned fold pivots.
-
-Include:
-• Bottom panel.
-• Back wall.
-• Hinged top/lid panel.
-• Tapered tuck flap.
-• Left and right side walls.
-• Front wall and inner front return.
-• Front and rear corner tabs.
-• Tapered side wings attached to the lid.
-• Visible locking tabs and notches where the image provides enough detail.
-
-Match the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096612394281603144) · [Publication originale](https://x.com/Salmaaboukarr/status/2096612394281603144) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096596888799895855"></a>
-
-### Créer CS2 avec Three.js
-
-[Neatprompts](https://x.com/neatpromptsai) · 2026-09-06 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096596888799895855"><img src="../assets/previews/6ef2795341af3b83b0924c422b4bf302b660b256beabce14b6003003c81b8166.webp" width="840" loading="lazy" alt="Créer CS2 avec Three.js"></a>
-
-**Prompt**
-
-```text
-Hé GPT-6 Astra, crée-moi CS2 avec Three.js, sans faire la moindre erreur.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-hey gpt-6 astra, make me cs2 in three.js, make no mistakes.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2096596888799895855) · [Publication originale](https://x.com/neatpromptsai/status/2096596888799895855) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="totality-engine-cinematic-eclipse-cathedral-2096593372311941143"></a>
-
-### Totality Engine : cathédrale d’éclipse cinématographique
-
-[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/06a9128821d58d62b11c5273f6b9413ba50ae0b57b9462ce5bf031ad12b2ae77.webp" width="840" loading="lazy" alt="Totality Engine : cathédrale d’éclipse cinématographique"></a>
-
-**Prompt**
-
-```text
-Créez une expérience HTML/WebGL autonome, soignée et visuellement impressionnante, dans un fichier unique, appelée :
-
-totality-engine.html placez-la dans documents/llm-benchmarks
-
-Ne vous contentez pas de décrire l’idée. Générez réellement le fichier HTML complet et fonctionnel, puis enregistrez-le dans le répertoire courant.
-
-Réalisez un court-métrage cinématographique en boucle de 32 secondes, pas un diorama de démonstration. Le produit, c’est la performance de la caméra. L’interaction est un bonus après la première lecture complète du film.
-
-Univers :
-Une cathédrale gothique noyée au moment de la totalité d’une éclipse solaire. Une eau noire recouvre le sol de la nef. Un cadran astronomique monumental en laiton, le Totality Engine, occupe le transept : anneaux d’orrerie imbriqués, planètes en verre, cœur de soleil noir et pendule en marbre sombre de 40 mètres, avec des ornements dorés. Calcaire mouillé, vert-de-gris, flammes de bougies et poussière d’or. Tout doit être généré de manière procédurale par le code. Aucun modèle, texture, image, fichier de police ou fichier audio externe.
-
-Film dirigé (une seule horloge, des temps forts nommés, une boucle sans raccord visible) :
-
-0,0–4,0 s DUST
-Très gros plan. Une seule particule de poussière tournoie dans un faisceau de lumière rouge doré. Le contexte est presque absent. Lent travelling avant.
-
-4,0–10,0 s NAVE
-Reculez et montez. Nous sommes dans une eau noire jusqu’aux genoux, au croisement de la cathédrale. Les voûtes d’ogives s’éloignent dans la brume. Le pendule entre dans le cadre par la gauche, lourd et lent, puis passe assez près pour que l’on ressente sa masse. Des anneaux se propagent à la surface de l’eau autour de la caméra.
-
-10,0–18,0 s ASCENT
-Suivez le mouvement ascendant du pendule. Révélez l’orrerie dans la voûte : au moins quatre anneaux de laiton imbriqués, chacun avec une inclinaison différente, trois planètes en verre aux atmosphères distinctes (l’une nuageuse, l’une cerclée d’anneaux, l’une striée de bandes orageuses) et le cœur de soleil noir. Des groupes de bougies longent le triforium. La poussière d’or tombe vers le haut, à l’encontre de la gravité.
-
-18,0–24,0 s THREAD
-La caméra se faufile dans l’orrerie. Traversez le verre de la planète cerclée d’anneaux (réfraction réelle, pas une astuce de transparence), suivez son plan orbital pendant un instant, puis ressortez en direction du soleil noir. Au passage suivant du pendule, la lumière se déforme autour de lui comme sous l’effet d’une faible lentille gravitationnelle.
-
-24,0–30,0 s TOTALITY
-La couronne explose en un anneau de feu blanc doré qui devient la roue la plus extérieure de l’orrerie. Un unique tic d’horloge, que l’on doit ressentir comme audible : chaque anneau se verrouille brusquement dans un alignement parfait, puis la couronne reste stable. Ne fondez pas vers le blanc. Maintenez la silhouette de toute la machine devant l’anneau de feu.
-
-30,0–32,0 s CODA
-Amorcez doucement une continuation lente qui corresponde à l’image de la frame 0, afin que la boucle soit invisible. Aucun cut brutal.
-
-Après la première lecture complète, activez l’orbite par glisser-déposer, le zoom à la molette et un contrôle « Rejouer le film ». Le bouton Pause doit toujours fonctionner. Facultatif : les touches 1 à 5 permettent d’accéder directement au début des temps forts.
-
-Mise en scène :
-- Créez un premier plan, un plan intermédiaire et un arrière-plan bien marqués. Le pendule occupe le premier plan dans NAVE. Les voûtes et la brume structurent la profondeur.
-- Ajoutez au moins deux repères à l’échelle humaine (un banc noyé, une flèche effondrée, une rangée de bougies) afin que la machine paraisse gigantesque.
-- L’eau doit être un véritable matériau : reflets de l’orrerie, léger effet Fresnel, déplacement lent, anneaux produits par le pendule et la caméra.
-- Les planètes doivent être en verre épais, pas de simples sphères lumineuses. On doit voir une cathédrale déformée à travers au moins l’une d’elles.
-- Le laiton doit avoir du poids : sombre dans les zones d’ombre, seuls les rebords accrochant la lumière de la couronne.
-- Les flammes des bougies et la poussière d’or doivent utiliser de l’instanciation. La poussière ne doit être entraînée vers le haut que pendant ASCENT et TOTALITY.
-- Voûtes d’ogives, silhouettes d’arcs-boutants et immense rosace circulaire / ouverture d’éclipse sur le mur du fond, alignée avec le soleil noir.
-- Palette limitée et fixe : calcaire mouillé #8a8680, laiton #c4a574, vert-de-gris #2f6f66, cramoisi d’éclipse #6b1020, couronne #ffe9c2, eau noire #05070c, poussière d’or #e6c27a. Pas de cyan, pas de magenta, pas de néon, pas d’arc-en-ciel, pas de « look IA » violet sur noir.
-- Typographie : un petit titre « TOTALITY ENGINE » et le nom du temps fort, avec une présentation cinématographique, pas un tableau de bord.
-
-Contraintes techniques :
-- Utilisez Three.js depuis un CDN stable. Tout le HTML, le CSS et le JS doivent se trouver dans ce fichier unique.
-- Pilotez toutes les animations à partir d’une seule horloge de temps écoulé, avec des fenêtres de temps fort nommées. Pas de boucles Math.random indépendantes, pas de Date.now dans les shaders, pas de bruit non initialisé. Utilisez uniquement un générateur pseudo-aléatoire initialisé, avec la graine constante 0xA2E1.
-- Le film de caméra doit utiliser une interpolation fluide avec une accélération-décélération sur les grands mouvements, une accélération-décélération plus lourde pour le pendule (il a une masse) et une stabilisation à longue traîne vers TOTALITY. Une orbite linéaire comme caméra principale est rédhibitoire.
-- Utilisez du GLSL personnalisé (ShaderMaterial ou passe plein écran), et non des matériaux standards qui donnent seulement le change :
-1. Eau (réflexion + Fresnel + déplacement lent)
-2. Couronne du soleil noir (feu / plasma, pas un sprite)
-3. Lentille du pendule (la lumière se courbe près de la masse pendant THREAD)
-4. Verre épais pour au moins une planète
-- Utilisez InstancedMesh pour la poussière, les bougies et toutes les cellules de pierre ou de laiton répétées. Ne créez pas des milliers d’objets Mesh indépendants.
-- La postproduction est autorisée, mais ne peut pas remplacer l’éclairage. Si vous utilisez du bloom, appliquez-le très légèrement à la couronne et aux bougies uniquement. Un UnrealBloom sur toute la scène est rédhibitoire.
-- La brume, les reflets mouillés et l’ouverture d’éclipse doivent créer l’atmosphère. Pas de cônes transparents bon marché en guise de « rayons divins », à moins qu’ils ne soient réellement pilotés par un shader.
-- L’expérience doit être responsive, occuper toute la fenêtre du navigateur, gérer le redimensionnement et viser 60 images/s sur un ordinateur portable de 2023. S’il faut choisir, réduisez le nombre de particules avant de sacrifier le film de caméra.
-- Interface discrète et peu encombrante : titre, temps fort actuel, pause, replay. Pas de compteur FPS, pas de dat.gui, pas d’outils de débogage laissés actifs.
-- Aucun commentaire TODO, pseudocode, placeholder, fonction manquante ni remarque du type « ce serait mieux avec X ».
-- Au chargement, le film doit démarrer automatiquement. Une image fixe derrière un bouton de démarrage est rédhibitoire.
-
-Niveau de qualité attendu :
-Le résultat doit ressembler à une image de court-métrage, pas à un exemple Three.js. Si une capture à 26 secondes ne se lit pas immédiatement comme une « horloge de la taille d’une cathédrale au moment de l’éclipse », le travail n’est pas terminé. Itérez sur la composition, les matériaux et la caméra avant d’ajouter d’autres objets.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a polished, visually impressive, self-contained single-file HTML/WebGL experience called:
-
-totality-engine.html put it in documents/llm-benchmarks
-
-Do not just describe the idea. Actually generate the complete working HTML file and save it to the current directory.
-
-Build a 32-second looping cinematic short, not a sandbox diorama. The product is the camera performance. Interaction is a bonus after the film has played once.
-
-World:
-A drowned gothic cathedral at solar-eclipse totality. Black water covers the nave floor. Filling the crossing is a monumental brass astronomical clock, the Totality Engine: nested orrery rings, glass planets, a black-sun core, and a 40-meter dark-marble pendulum with gold fittings. Wet limestone, verdigris, candle flames, and gold dust. Everything is procedural code. No external models, textures, images, fonts as files, or audio.
-
-Directed film (one clock, named beats, seamless loop):
-
-0.0–4.0s DUST
-Extreme close-up. One dust mote turns in a shaft of red-gold light. Almost no context. Slow push.
-
-4.0–10.0s NAVE
-Pull back and rise. We are knee-deep in black water in the cathedral crossing. Rib vaults recede into fog. The pendulum enters frame from the left, heavy, slow, and passes close enough to feel its mass. Water rings spread from the camera.
-
-10.0–18.0s ASCENT
-Ride the pendulum's upswing. Reveal the orrery in the vault: at least four nested brass rings at different inclinations, three glass planets with distinct atmospheres (one cloudy, one ringed, one storm-banded), and the black-sun core. Candle clusters along the triforium. Gold dust falls upward against gravity.
-
-18.0–24.0s THREAD
-Camera threads the orrery. Pass through the glass of the ringed planet (refraction, not a transparency hack), ride its ring plane for a beat, exit toward the black sun. The pendulum's next swing warps the light around it like a weak gravitational lens.
-
-24.0–30.0s TOTALITY
-Corona detonates into a ring of white-gold fire that becomes the outermost orrery wheel. One audible-feeling clock tick: every ring snaps into a perfect alignment, then the corona holds. Do not fade to white. Hold the silhouette of the whole machine against the fire-ring.
-
-30.0–32.0s CODA
-Ease into a slow continuation that matches frame 0, so the loop is invisible. No smash cut.
-
-After the first full play, enable drag-to-orbit, scroll-wheel zoom, and a "Replay film" control. A Pause button always works. Optional: keys 1–5 jump to beat starts.
-
-Scene craft:
-- Strong foreground / midground / background. The pendulum occupies foreground in NAVE. Vaults and fog hold the depth.
-- At least two human-scale references (a drowned pew, a fallen spire, a row of candles) so the machine reads as enormous.
-- Water is a real material: reflections of the orrery, a faint fresnel, slow displacement, the rings from the pendulum and the camera.
-- Glass planets are thick glass, not glowing balls. You should see a distorted cathedral through at least one of them.
-- Brass has weight: dark in shadow, only the rims catching corona light.
-- Candle flames and gold dust are instanced. Dust is pulled upward only during ASCENT and TOTALITY.
-- Rib vaults, flying-buttress silhouettes, and a giant circular rose-window / eclipse aperture in the far wall, aligned with the black sun.
-- Limited palette, locked: wet limestone #8a8680, brass #c4a574, verdigris #2f6f66, eclipse crimson #6b1020, corona #ffe9c2, black water #05070c, gold dust #e6c27a. No cyan, no magenta, no neon, no rainbow, no purple-on-black "AI look".
-- Typography: one small title "TOTALITY ENGINE" and beat name, filmic, not a dashboard.
-
-Technical requirements:
-- Three.js from a stable CDN. All HTML, CSS, and JS in this one file.
-- Drive every animation from a single elapsed-time clock with named beat windows. No independent Math.random loops, no Date.now in shaders, no unseeded noise. Seeded RNG only, seed constant 0xA2E1.
-- Camera film uses smooth interpolation with ease-in-out on the big moves, a heavier ease on the pendulum (it has mass), and a long-tail settle into TOTALITY. Linear orbit as the primary camera is a fail.
-- Custom GLSL (ShaderMaterial or full-screen pass), not stock materials pretending:
-1. Water (reflection + fresnel + slow displacement)
-2. Black-sun corona (fire / plasma, not a sprite)
-3. Pendulum lensing (light bends near the bob during THREAD)
-4. Thick glass for at least one planet
-- InstancedMesh for dust, candles, and any repeated stone/brass cells. Do not spawn thousands of free Mesh objects.
-- Post-processing is allowed but cannot replace lighting. If you use bloom, it is a light touch on the corona and candles only. UnrealBloom over the whole scene is a fail.
-- Fog, wet reflections, and the eclipse aperture do the atmosphere. No cheap transparent cones as "god rays" unless they are actually driven by a shader.
-- Responsive, full browser window, handle resize, target 60fps on a 2023 laptop. If you have to choose, cut particle count before cutting the camera film.
-- Small unobtrusive UI: title, current beat, pause, replay. No FPS counter, no dat.gui, no debug helpers left on.
-- No TODO comments, pseudocode, placeholders, missing functions, or "this would be better with X".
-- On load, the film starts itself. A still frame behind a start button is a fail.
-
-Quality bar:
-This should look like a short film still, not a three.js example. If a screenshot at 26 seconds does not read as "cathedral-sized clock at the moment of eclipse," you are not done. Iterate on composition, materials, and camera before adding more objects.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Publication originale](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Démo](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="rotatable-3d-shogi-board-2096579856133947507"></a>
-
-### Plateau de shogi 3D pivotant
-
-[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/fee01ef0f517af783b6955e6801a2f12f5b38975daffaac3b7c1610d8c184e7d.webp" width="840" loading="lazy" alt="Plateau de shogi 3D pivotant"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée une application de shogi 3D jouable dont le plateau peut tourner librement. Affine le plateau, les pièces et les interactions au fil des revues.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Publication originale](https://x.com/hatukougara/status/2096579856133947507) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="exploded-desktop-computer-atlas-2096578761877860502"></a>
-
-### Atlas éclaté d’un ordinateur de bureau
-
-[cooper](https://x.com/icooperhero) · 2026-09-06 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/69e81d8e78549aa84cd621ce24d75fdd92fb89186ddcc9692f711656ff07f6e9.webp" width="840" loading="lazy" alt="Atlas éclaté d’un ordinateur de bureau"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée un site 3D interactif qui décompose un ordinateur de bureau en 29 composants principaux. Ajoute une animation de démontage et des explications pour chaque pièce.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Publication originale](https://x.com/icooperhero/status/2096578761877860502) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="children-s-room-and-workspace-planner-2096578684010508736"></a>
-
-### Aménagement d’une chambre d’enfant avec espace de travail
-
-[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/5e15444806b74d14d92d1dc69f292e3cba1b3112820236e2e54dd8e2f4282100.webp" width="840" loading="lazy" alt="Aménagement d’une chambre d’enfant avec espace de travail"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Reconstruis une chambre d’enfant qui sert aussi d’espace de travail à partir de quatre photos prises depuis les angles et des dimensions de la pièce. Montre les points de vue d’un adulte et d’un enfant, une vue d’ensemble et plusieurs dispositions du mobilier.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Publication originale](https://x.com/dqlh47m/status/2096578684010508736) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="steam-locomotive-across-the-countryside-2096577430274429157"></a>
-
-### Locomotive à vapeur à travers la campagne
-
-[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp" width="840" loading="lazy" alt="Locomotive à vapeur à travers la campagne"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Modélise une locomotive à vapeur dans Three.js et anime son trajet dans une scène de campagne. Synchronise la rotation des roues avec le déplacement du train.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Publication originale](https://x.com/dansanburu/status/2096577430274429157) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="a-house-modeled-from-scratch-in-blender-2096576154337734865"></a>
-
-### Une maison modélisée de zéro dans Blender
-
-[みずくん](https://x.com/mizkun) · 2026-09-06 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/346d92a550603016457fa5c8c7309856edfe8bff51fa3c77475b25b27d6c80ae.webp" width="840" loading="lazy" alt="Une maison modélisée de zéro dans Blender"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Modélise une maison de zéro dans Blender. Garde la scène modifiable pour pouvoir examiner et affiner le bâtiment lors des itérations suivantes.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Publication originale](https://x.com/mizkun/status/2096576154337734865) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="the-quiet-crossing-exploration-quest-2096574297703637111"></a>
-
-### Quête d’exploration The Quiet Crossing
-
-[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/2bf4d5da0fcb675294f65b4db9a4f86da2f2f9c6b8923c3d11e1b991ad0f7839.webp" width="840" loading="lazy" alt="Quête d’exploration The Quiet Crossing"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée un jeu d’exploration enneigé dans Three.js avec un personnage Blender, des pins en voxels et un portail de pierre. Permets de collecter six fragments lumineux, fais suivre le personnage par la caméra et affiche la distance jusqu’au portail.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Publication originale](https://x.com/Motion_Viz/status/2096574297703637111) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="indian-mango-tree-in-speedtree-2096572429066006845"></a>
-
-### Manguier indien dans SpeedTree
-
-[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · GPT-6 Astra · Ressources
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/327cfb97d273bfb139d4b96a16ecf3f6d5be5fa85e33b5e43c7eb7a78f7d3f89.webp" width="840" loading="lazy" alt="Manguier indien dans SpeedTree"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée un manguier indien dans SpeedTree pour une scène Unreal visant 60 FPS. Génère les matériaux des feuilles et de l’écorce, puis examine leur rendu avant de finaliser l’asset.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Publication originale](https://x.com/waitin4agi_/status/2096572429066006845) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="interactive-lorenz-attractor-2096572156453028193"></a>
-
-### Attracteur de Lorenz interactif
-
-[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/fca1d41314709e1d755d899fb81edf769d909a209093c5ec094b985e27e4c46e.webp" width="840" loading="lazy" alt="Attracteur de Lorenz interactif"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Visualise deux trajectoires du système de Lorenz présentant un écart infime de position initiale. Permets de modifier cet écart et de parcourir le temps, en distinguant les vérifications numériques des prédictions exactes à long terme.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Publication originale](https://x.com/juyeam/status/2096572156453028193) · [Démo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="low-poly-beach-treasure-hunt-2096570815714414844"></a>
-
-### Chasse au trésor sur une plage low poly
-
-[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/53eb3de661c3961054e87a9bc6566587c5cb1feec8ea01eaea8958cfb5b29752.webp" width="840" loading="lazy" alt="Chasse au trésor sur une plage low poly"></a>
-
-*Consignes fondées sur l’œuvre liée*
-
-**Prompt**
-
-```text
-Crée dans Unity une chasse au trésor 3D jouable sur une plage. Modélise des palmiers et des plateformes en bois low poly, puis établis la boucle principale d’exploration et de découverte des trésors.
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Publication originale](https://x.com/sorano_concon_g/status/2096570815714414844) · [Retour aux exemples](#all-prompts)
 
 ---
 

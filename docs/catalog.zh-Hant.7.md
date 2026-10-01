@@ -28,6 +28,18 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [可探索的泰姬陵](#explorable-taj-mahal-2096035962824335798)
+- [帶演講地球儀的個人 3D 作品集](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
+- [Gogh Strike 多人射擊](#gogh-strike-multiplayer-fps-2096013280519016608)
+- [依照參考資料重建 TP-7 錄音機](#tp-7-recorder-reference-model-2096013228090245181)
+- [特斯拉 Model X 爆炸檢視](#tesla-model-x-exploded-view-2096009146248122416)
+- [可點選彈跳的 WebGPU 果凍](#bouncy-webgpu-jelly-2096008241104711698)
+- [Roblox 動漫競技格鬥](#anime-arena-fighter-in-roblox-2095999578419929412)
+- [平面圖與 3D 漫遊同步呈現](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
+- [可在瀏覽器互動的河流場景](#interactive-browser-river-scene-2095993826569502785)
+- [大教堂動作戰鬥場](#cathedral-hack-and-slash-arena-2095988972879335792)
+- [用現有素材包建立 Unity 城市場景](#gpt-6-astra-2095987508475834641)
+- [土衛六互動科學展覽](#interactive-titan-science-exhibit-2095986941753712841)
 - [3D 彈弓小鳥遊戲](#3d-slingshot-bird-game-2095981655370666076)
 - [魯布·戈德堡連鎖機械](#rube-goldberg-chain-reaction-machine-2095980885732704629)
 - [可切換日夜的浮空中式寺廟](#gpt-6-astra-2095978925029556561)
@@ -66,20 +78,255 @@
 - [Blender 復刻藝術宮](#palace-of-fine-arts-blender-recreation-2095653641164329143)
 - [單提示詞水族館對比任務](#single-aquarium-benchmark-2095650251902239139)
 - [可切換第一與第三人稱的 RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
-- [單提示詞生成可玩實時 3D 遊戲](#single-playable-real-time-3d-game-2095647685210669541)
-- [可列印的企業號 CAD 裝配體](#printable-uss-enterprise-cad-assembly-2095641163441254676)
-- [Blender 現代別墅場景](#modern-villa-scene-in-blender-2095636679264780481)
-- [程式化橢圓形辦公室佈景](#procedural-oval-office-set-for-cycles-2095630197257367857)
-- [Unity 太空戰壕突襲遊戲](#unity-space-trench-run-game-2095630044102279312)
-- [藍圖經 Blender 到 Unreal 建築視覺化](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
-- [文字生成可探索 Unity 城市](#text-to-explorable-unity-city-2095623452678144366)
-- [Three.js 彈珠工廠](#three-js-marble-factory-2095622065390772322)
-- [照片級 3D 產品樣機工具](#photoreal-3d-product-mockup-studio-2095619319690400253)
-- [3D 博物館電影預演](#3d-museum-cinematography-previsualization-2095616529572503593)
-- [房產頁面轉 3D 宣傳片](#zillow-listing-to-3d-property-film-2095612137582526615)
-- [逐街復刻曼哈頓 Unreal 世界](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 
 </details>
+<a id="explorable-taj-mahal-2096035962824335798"></a>
+
+### 可探索的泰姬陵
+
+[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="可探索的泰姬陵"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將泰姬陵重建為可探索的 3D 場景，優先還原比例、對稱花園、中央穹頂、宣禮塔及建築之間的關係。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-taj-mahal-2096035962824335798) · [查看原文](https://x.com/vikassabbi/status/2096035962824335798) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
+
+### 帶演講地球儀的個人 3D 作品集
+
+[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="帶演講地球儀的個人 3D 作品集"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將肖像轉成 Blender 角色並放入編輯式 WebGL 作品集，加入標出演講活動的旋轉地球儀並整合網站資產。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [查看原文](https://x.com/HowDevelop/status/2096023793772998704) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
+
+### Gogh Strike 多人射擊
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike 多人射擊"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立後印象派風格的 5 對 5 第一人稱射擊遊戲，包含 Blender 渲染藝術家角色、清晰隊伍和完整瀏覽器多人比賽。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [查看原文](https://x.com/petergostev/status/2096013280519016608) · [專案原始碼](https://github.com/petergpt/gogh-strike) · [線上展示](https://gogh-strike.surge.sh/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
+
+### 依照參考資料重建 TP-7 錄音機
+
+[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="依照參考資料重建 TP-7 錄音機"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+根據參考圖片，使用 Three.js 重建 Teenage Engineering TP-7。對齊外形與可見操作元件，製作能從各角度檢視的 3D 模型。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [查看原文](https://x.com/ty_kra_lab/status/2096013228090245181) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
+
+### 特斯拉 Model X 爆炸檢視
+
+[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="特斯拉 Model X 爆炸檢視"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立將特斯拉 Model X 拆解為建模元件的 3D 網站，讓訪客互動檢視元件並重新組裝車輛。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [查看原文](https://x.com/ashebytes/status/2096009146248122416) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
+
+### 可點選彈跳的 WebGPU 果凍
+
+[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="可點選彈跳的 WebGPU 果凍"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+用 Three.js 和 WebGPU 製作誘人的彈跳果凍，讓它在互動後自然變形與回彈，配合半透明材質和清晰燈光。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [查看原文](https://x.com/scottstts/status/2096008241104711698) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
+
+### Roblox 動漫競技格鬥
+
+[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Roblox 動漫競技格鬥"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立受動漫跨界戰鬥啟發的 Roblox 競技格鬥，利用 Blender 和可用資產製作場地與角色，實現可玩的戰鬥迴圈。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [查看原文](https://x.com/WoahWurdz/status/2095999578419929412) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
+
+### 平面圖與 3D 漫遊同步呈現
+
+[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="平面圖與 3D 漫遊同步呈現"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用同一組尺寸資料，製作單臥室公寓的平面圖與室內漫遊。同步顯示兩種視圖中的目前位置，並清楚標示假設的天花板高度與裝修材質。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [查看原文](https://x.com/onofumi_AI/status/2095999282088378520) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-browser-river-scene-2095993826569502785"></a>
+
+### 可在瀏覽器互動的河流場景
+
+[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="可在瀏覽器互動的河流場景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+製作在瀏覽器中運作的互動河流場景。先完成可運作的即時水面原型，再檢視並改善視覺效果。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [查看原文](https://x.com/dangreenheck/status/2095993826569502785) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
+
+### 大教堂動作戰鬥場
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="大教堂動作戰鬥場"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在死星上方的大教堂中建置第三人稱 Three.js 動作遊戲，包含輕劍連擊、重攻擊、範圍魔法、閃避和腳步落地的雙手動畫。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [查看原文](https://x.com/superalesha/status/2095988972879335792) · [專案原始碼](https://github.com/alesha-pro/bench-portal) · [線上展示](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095987508475834641"></a>
+
+### 用現有素材包建立 Unity 城市場景
+
+[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="用現有素材包建立 Unity 城市場景"></a>
+
+**提示詞**
+
+```text
+請為我建立一個新的 3D 城市場景。我希望場景中有多種類型、不同高度的建築物和汽車，並加入道路、看板及其他大型城市常見元素。你需要的一切資源都在這個資料夾中：Assets/ithappy/Cartoon_City_Free。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095987508475834641) · [查看原文](https://x.com/AndrewWalko/status/2095987508475834641) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
+
+### 土衛六互動科學展覽
+
+[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="土衛六互動科學展覽"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立土星最大衛星土衛六的教育型 3D 模擬，提供可探索環境及解釋其獨特物理特徵的資訊層。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [查看原文](https://x.com/ArdaTugsat/status/2095986941753712841) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="3d-slingshot-bird-game-2095981655370666076"></a>
 
 ### 3D 彈弓小鳥遊戲
@@ -882,248 +1129,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [查看原文](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
-
-### 單提示詞生成可玩實時 3D 遊戲
-
-[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="單提示詞生成可玩實時 3D 遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用一條提示詞建置可玩的實時 3D 遊戲。定義緊湊的核心機制、明確目標與簡短故事，再生成場景、角色、道具、回饋和重開狀態，讓結果能夠立即遊玩。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [查看原文](https://x.com/higgsfield/status/2095647685210669541) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
-
-### 可列印的企業號 CAD 裝配體
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="可列印的企業號 CAD 裝配體"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 CAD 中設計一個可列印的企業號 NCC-1701 致敬模型。包含可辨識比例、艦橋和部分內飾、至少 28 個可運動部件、分離裝配體與可匯出的製造檔案。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [查看原文](https://x.com/DeryaTR_/status/2095641163441254676) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
-
-### Blender 現代別墅場景
-
-[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender 現代別墅場景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Blender 中建置完整的現代別墅場景，包含合理建築結構、帶傢俱的室內、無邊泳池、景觀、真實材質與黃金時刻電影鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [查看原文](https://x.com/karankendre/status/2095636679264780481) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
-
-### 程式化橢圓形辦公室佈景
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="程式化橢圓形辦公室佈景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把橢圓形辦公室的佈景描述轉為可執行場景程式碼，在 Blender 中建置可編輯傢俱、牆體、燈光與機位，再用 Cycles 輸出電影感渲染。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [查看原文](https://x.com/higgsfield_ai/status/2095630197257367857) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="unity-space-trench-run-game-2095630044102279312"></a>
-
-### Unity 太空戰壕突襲遊戲
-
-[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity 太空戰壕突襲遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Unity 中重現經典太空戰壕突襲體驗，包含高速低空飛行、炮塔火力、障礙、瞄準、不斷升級的壓力、最終目標和電影感成敗演出。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [查看原文](https://x.com/ronaldmannak/status/2095630044102279312) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
-
-### 藍圖經 Blender 到 Unreal 建築視覺化
-
-[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="藍圖經 Blender 到 Unreal 建築視覺化"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-從給定建築藍圖出發，在 Blender 中建立準確、可編輯的模型，再傳入 Unreal Engine，製作具有正確尺度、碰撞和燈光的可漫遊建築視覺化。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [查看原文](https://x.com/LinusEkenstam/status/2095624712244072551) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="text-to-explorable-unity-city-2095623452678144366"></a>
-
-### 文字生成可探索 Unity 城市
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="文字生成可探索 Unity 城市"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把給定城市願景轉為可探索 Unity 環境，包含高樓、道路、車輛、棕櫚樹與氛圍燈光，並建立可信尺度、導航、交通動態和流暢第一人稱鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [查看原文](https://x.com/0x0SojalSec/status/2095623452678144366) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="three-js-marble-factory-2095622065390772322"></a>
-
-### Three.js 彈珠工廠
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js 彈珠工廠"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立 Three.js 彈珠工廠模擬，呈現清晰生產流程、運動彈珠與機械，讓使用者跟隨彈珠觀察過程。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-marble-factory-2095622065390772322) · [查看原文](https://x.com/JohnKlerAI/status/2095622065390772322) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
-
-### 照片級 3D 產品樣機工具
-
-[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="照片級 3D 產品樣機工具"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立瀏覽器工具，把上傳的圖案貼到照片級 3D 產品樣機上。支援環繞鏡頭、材質與顏色控制、環境燈光、多種產品和高解析度匯出。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [查看原文](https://x.com/joshmillgate/status/2095619319690400253) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
-
-### 3D 博物館電影預演
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D 博物館電影預演"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置 3D 博物館電影預演，規劃場地、演員位置、鏡頭排程與分鏡表。確保每個機位都處在物理空間內，再為下游影片生成匯出一致的引導。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [查看原文](https://x.com/higgsfield_ai/status/2095616529572503593) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
-
-### 房產頁面轉 3D 宣傳片
-
-[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="房產頁面轉 3D 宣傳片"></a>
-
-*根據原作品整理的創作說明*
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
-
-**提示詞**
-
-```text
-使用給定房產頁面及全部照片重建 3D 住宅，推斷連貫戶型，再製作精緻宣傳漫遊影片。標記不確定的幾何關係，並在首輪後繼續修正偏差。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [查看原文](https://x.com/realYunfanYe/status/2095612137582526615) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
-
-### 逐街復刻曼哈頓 Unreal 世界
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="逐街復刻曼哈頓 Unreal 世界"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Unreal Engine 中建置可探索的曼哈頓世界。按行政區與街道逐步製作，保留可辨識的尺度、道路、地標、交通和街區氣質，併為每個區域建立驗收清單，合格後再繼續。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [查看原文](https://x.com/mattshumer_/status/2095609734845927525) · [返回案例導覽](#all-prompts)
 
 ---
 

@@ -28,6 +28,18 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Isaac Sim'de bir sahneyi yeniden oluşturun](#gpt-6-astra-2105323534398763307)
+- [SPARK — Ressamvari 3B Animasyon Sahnesi](#claude-opus-5-5-2105315982525014067)
+- [Ritme senkronize 3D küre düşüş animasyonu videosu](#claude-opus-5-5-2105302007896797351)
+- [Blender'da 3B Minion Karakteri Oluştur](#gpt-6-astra-2105298955307303100)
+- [Jöle Presi](#claude-opus-5-5-2105285992865272110)
+- [Golden Gate Köprüsü'nün Blender render'ı](#gpt-6-astra-2105278999861526953)
+- [Tek bir HTML dosyasında sıra tabanlı ASCII roguelike](#claude-opus-5-5-2105246199653482872)
+- [Game of Thrones dünyası oluştur](#claude-opus-5-5-2105245648723562584)
+- [Sinematik fotogerçekçi roket fırlatma sahnesi](#gpt-6-astra-2105047166733746209)
+- [Etkileşimli tektonik deprem simülasyonu videosu](#claude-opus-5-5-2105029713445949521)
+- [Gerçekçi F-22 Raptor modeli ve Godot uçuş videosu](#gpt-6-astra-2105027152617918852)
+- [Zaman, Söküldü.](#gpt-6-astra-2105009377002299711)
 - [Blender’da mekanik Rube Goldberg makinesi](#claude-opus-5-5-2104953406708175097)
 - [3JS ile Mario Kart tarzı yarış oyunu oluşturun](#claude-opus-5-5-2104947552328261810)
 - [Etkileşimli çizgi film tarzında 3B gezegen](#claude-opus-5-5-2104919117262389255)
@@ -66,20 +78,864 @@
 - [VRChat için kıyafet 3B modelleme](#gpt-6-astra-2103456264785424530)
 - [Pitaya Jelly](#gpt-6-astra-2103432732386664591)
 - [Yaşam döngüsünü anlatan hareketli grafik animasyonu](#claude-opus-5-5-2103428454355980558)
-- [Altın saat ışığında Roma savaş alanı sahnesi](#gpt-6-astra-2103351755971207251)
-- [STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi](#gpt-6-astra-2103308083242082314)
-- [Etkileşimli 3B okyanus roket fırlatma sekansı](#claude-opus-5-5-2103303303358534021)
-- [Claude Opus 5.5 için etkileşimli ortaçağ krallığı](#claude-opus-5-5-2103257687492374597)
-- [Keşfedilebilir sisli sonbahar Three.js deneyimi](#gpt-6-astra-2103211135214256350)
-- [Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu](#gpt-6-astra-2103187935759655167)
-- [Boşluk: Vitray ışığıyla dolan katedralde kısa film](#claude-opus-5-5-2103145567945986461)
-- [San Francisco'da geçen Genshin Impact tarzı oyun](#claude-opus-5-5-2103144530157687114)
-- [Austerlitz Muharebesi: Sinematik Film](#claude-opus-5-5-2103116235009347650)
-- [Three.js ile Eyfel Kulesi oluşturun](#claude-opus-5-5-2103106070549757960)
-- [Crazy Tanks — 3B Ada Topçuluğu](#crazy-tanks-3d-island-artillery)
-- [Grid Genius için Pixar kalitesinde Three.js animasyonu](#claude-opus-5-5-2103087766662009118)
 
 </details>
+<a id="gpt-6-astra-2105323534398763307"></a>
+
+### Isaac Sim'de bir sahneyi yeniden oluşturun
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105323534398763307"><img src="../assets/previews/3852636f5d615521a17f3a4aea8641f8f42815fd5d1bc9df57d028748fdec886.webp" width="840" loading="lazy" alt="Isaac Sim'de bir sahneyi yeniden oluşturun"></a>
+
+**Referans görseller:** [1](https://media.tripogrowth.space/media/da6263bd-ac07-41bb-93ad-a997394635c6.jpg) · [2](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg)
+
+**İstem**
+
+```text
+Bu sahneyi manipülasyon politikası değerlendirmesi amacıyla Isaac Sim'de yeniden oluşturun. Manifold kullanmayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Recreate this scene in Isaac Sim for the purposes of manipulation policy evaluation. Don't use Manifold.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105323534398763307) · [Orijinal gönderi](https://x.com/charleswongzx/status/2105323534398763307) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — Ressamvari 3B Animasyon Sahnesi
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — Ressamvari 3B Animasyon Sahnesi"></a>
+
+**İstem**
+
+```text
+BAŞLIK: "SPARK"
+
+Arcane (Fortiche) dizisinin ressamvari stilinde, yaklaşık 15 saniyelik bir 3B animasyon sahnesi.
+
+Blender'da veya daha üstün sonuç verecek başka bir araçta hazırlayın. Geniş ekran, diyalog yok.
+
+GOAL
+
+En öncelikli hedef, Arcane'in görsel ve animasyon stilini her açıdan olabildiğince kusursuz biçimde yeniden üretmek. İzleyen kişi, bunun aynı stüdyodan çıktığına inanmalı.
+
+Gerektiği kadar zaman ve emek harcayın. Tekniği ve görünümü kusursuz biçimde yeniden üretin. Her açıdan mükemmel olduğundan emin olmak için gerektiği kadar çalışın.
+
+SAHNE (taslak — özgürce uyarlayın)
+
+Küçük, mekanik ve insansı olmayan bir yaratık — pirinç ve kristalden bir güveye benzer — geceleri dağınık bir mucidin çalışma tezgâhında uyanır. Kristal çekirdeği parlayan bir enerjiyle etkinleşir ve kıvılcım girdabının içinde havaya fırlar. Başka bir şey stilin özelliklerini daha iyi ortaya koyacaksa ayrıntıları, kadrajı veya aksiyonu değiştirin. İsterseniz tamamen farklı bir şeyi de canlandırabilirsiniz — seçtiğiniz herhangi bir şeyi, en iyi yapabildiğiniz neyse onu — yeter ki Arcane ile aynı görünsün.
+
+PROCESS
+
+1. ARAŞTIRMA: Herhangi bir şey oluşturmadan önce Arcane'in stilini derinlemesine inceleyin. Fortiche'in tekniğine dair referanslar ve analizler bulun (röportajlar, yapım süreci materyalleri, sanatçı analizleri). Belirleyici her unsuru not alın: dokular, gölgelendirme, çizgi çalışması, renk, ışık, kare hızı, efektler, kamera ve kompozit.
+
+2. STİL KILAVUZU: Animasyona başlamadan önce bunları yazılı bir kontrol listesine ve küçük bir stil karesine (tek bir sabit görüntü) dönüştürün. Referans sabit görüntüleriyle yan yana karşılaştırın ve eşleşene kadar gözden geçirip düzeltin.
+
+3. OLUŞTURMA: Kontrol listesini izleyerek modelleyin, dokulayın, ışıklandırın ve animasyonunu hazırlayın.
+
+4. İNCELEME: Kareleri Arcane referanslarıyla tekrar tekrar karşılaştırın. Fark edebildiğiniz her farkı listeleyip düzeltin. Fark edilir hiçbir fark kalmayana kadar tekrarlayın.
+
+EŞLEŞTİRİLECEK STİL UNSURLARI (en azından)
+
+- Her yüzeyde görünür fırça darbeleri bulunan el boyaması dokular; hiçbir şey prosedürel veya fotoğrafik görünmemeli.
+
+- Gerçekçi ışık geçişleri yerine tasarlanmış ışık/gölge şekillerine sahip, stilize ve ressamvari gölgelendirme.
+
+- Karakterler/nesneler için 2'li karelerde animasyon; güçlü pozlar, canlı zamanlama, hazırlık hareketleri ve smear kareleri. Kamera hareketleri ise 1'li karelerde akıcı olmalı.
+
+- 3B görüntünün üzerine katmanlanan, elle çizilmiş 2B efektler (kıvılcımlar, enerji, duman, parıltılar, ışıma); grafik bir şekil diliyle 2'li karelerde canlandırılmalı.
+
+- Cesur ve atmosferik renkler: sıcak ışığa karşı doygun parlayan vurgular, zengin renkli gölgeler, güçlü kenar ışığı ve bloom.
+
+- Ressamvari kompozit: fırça benzeri filtreleme, gren ve görüntünün üzerine eklenen ince bir doku.
+
+- Sinematik kamera: sığ alan derinliği, amaçlı hareket ve çarpışmalarda ağırlık hissi.
+
+SOUND
+
+Aksiyona ve atmosfere uyan ayrıntılı, sinematik bir ses tasarımı.
+
+Her şeyi olabildiğince iyi yapın: animasyonu, modelleri, dokuları, efektleri, ışıklandırmayı ve sesi. Gereken tüm araçları veya programları kullanın. Referansları çevrim içi inceleyebilir, teknikleri taklit edebilir ve bazı şeyleri kopyalayabilirsiniz; ancak doğrudan sizin oluşturmadığınız varlıkları kullanmayın. Tüm sahneyi tek ve tutarlı bir stilde tutun; böylece 3B, boyalı dokular ve 2B efektler tek bir el yapımı görüntü gibi hissettirsin.
+
+Belleği veya önceki sohbetleri kullanmayın.
+
+Başka herhangi bir aracı, programı veya eklentiyi, kelimenin tam anlamıyla elinizdeki her şeyi kullanabilirsiniz. Kullanabileceğiniz her şeyden yararlanın.
+
+Burada açıklanandan farklı süreçler kullanabilir veya tarif edilenden başka bir şeyi canlandırabilirsiniz; ancak sonuç kesinlikle Arcane dizisine mümkün olduğunca yakın görünmeli. Her açıdan mükemmel ve aynı olmasını sağlayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105315982525014067) · [Orijinal gönderi](https://x.com/xikhar/status/2105317581695623329) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### Ritme senkronize 3D küre düşüş animasyonu videosu
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="Ritme senkronize 3D küre düşüş animasyonu videosu"></a>
+
+**İstem**
+
+```text
+Profesyonel Blender çalışmalarıyla yarışan bir 3D küre düşüş animasyonu videosu oluştur. Müzik olarak birden fazla klasik enstrümantal parça kullan; sahneleri müziğe göre değiştir. 3D küre aşağı düşerken 3D sahnedeki nesnelerin üzerinde zıplasın ve nesneler müziğin ritmine göre aydınlansın. Mizahi unsurlar da ekle. 
+three.js kullanarak oluştur, Blender kullanma
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105302007896797351) · [Orijinal gönderi](https://x.com/Gorden_Sun/status/2105302007896797351) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105298955307303100"></a>
+
+### Blender'da 3B Minion Karakteri Oluştur
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105298955307303100"><img src="../assets/previews/e5e2a6452d0aa3edb11e244c87c98ef855e260733bc1fbe1db47fcdb4a633092.webp" width="840" loading="lazy" alt="Blender'da 3B Minion Karakteri Oluştur"></a>
+
+**İstem**
+
+```text
+Blender'ın bpy modülünü kullanarak 3B bir Minion karakteri oluşturan, 360 derecelik döner tabla kamera animasyonu kuran ve 5 saniyelik 1:1 video render'ı alan eksiksiz, çalıştırılabilir bir Python betiği yazın.
+Animasyon ve Render Özellikleri:
+
+Kare Hızı ve Süre: Kare hızını 30 fps olarak ayarlayın ve kare aralığını 1'den 150'ye kadar render edin (tam olarak 5 saniye).
+En Boy Oranı: Render çözünürlüğünü 1080x1080 piksel (1:1 kare oranı) olarak ayarlayın.
+Kamera Döner Tabla Animasyonu: Kamerayı (veya kameraya parent edilmiş boş bir denetleyici nesneyi), 150 kare boyunca Minion'un etrafında kesintisiz 360 derecelik dönüş yapacak şekilde animasyonlayın.
+Akıcı ve sabit hızlı dönüş sağlamak için keyframe enterpolasyonunu LINEAR olarak ayarlayın.
+
+Çıkış Ayarları: Çıkış formatını FFmpeg video (H.264 / MP4 kapsayıcısı) olarak ayarlayın.
+Teknik Gereksinimler ve Model Yapısı:
+Ana Gövde: Ana gövde için kapsül biçimli bir mesh oluşturun (sarı malzeme, yaklaşık 0.3 subsurface scattering/pürüzlülük).
+Başın üstüne seyrek, ince siyah saç telleri ekleyin.
+
+Gözlükler ve Gözler: Ekstrüde edilmiş silindirler/toruslar kullanarak çift lensli bir gözlük oluşturun.
+Gözlük Çerçevesi Malzemesi: Fırçalanmış alüminyum/metal görünümünü simüle etmek için metalikliği (~0.9) ve pürüzlülüğü (~0.2) ayarlayın.
+Gövdenin çevresine dolanan siyah elastik bir bant ekleyin.
+Çerçevenin içine iki göz küresi mesh'i oluşturun (beyaz sklera, kahverengi iris, parlak göz bebeği).
+
+Kıyafet - Tulum: Kot tulumu ayrı mesh geometrisi veya ekstrüde edilmiş gövde parçaları kullanarak modelleyin.
+Malzeme: Mavi kot rengi ve daha yüksek pürüzlülük (~0.6) kullanın.
+Omuz askılarını ve göğüste bir ön cep ekleyin.
+
+Uzuvlar ve Ayrıntılar: Siyah eldivenli eller ve siyah ayakkabılarla birlikte kollar ve bacaklar ekleyin.
+Simetriyi ve temiz kod yapısını sağlamak için uygun yerlerde Mirror Modifier kullanın (bpy.ops.object.modifier_add(type='MIRROR')); buna gözler, gözlük çerçevesi, kollar, askılar ve bacaklar dahildir.
+
+Aydınlatma ve Sahne: Kamera parent'ı olarak veya dönüş sırasında aydınlatmanın tutarlı kalacağı şekilde sabit konumlarda üç noktalı bir aydınlatma düzeni (Ana, Dolgu, Kenar ışıkları) kurun.
+Render motorunu Cycles veya Eevee olarak ayarlayın ve temiz bir stüdyo arka planı kullanın.
+Tüm malzemelerin Nodes kullanılarak oluşturulduğundan emin olun (use_nodes = True).
+
+Yalnızca çevresinde hiçbir metin veya Markdown açıklaması bulunmayan bir markdown bloğu içinde geçerli Python kodu döndürün.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Write a complete, executable Python script using Blender's bpy module to create a 3D Minion character, set up a 360-degree turntable camera animation, and render a 5-second 1:1 video.
+Animation & Render Specifications:
+
+Frame Rate & Duration: Set frame rate to 30 fps and render frame range from frame 1 to 150 (exactly 5 seconds).
+Aspect Ratio: Set render resolution to 1080x1080 pixels (1:1 square ratio).
+Camera Turntable Animation:Animate the camera (or an empty controller object parented to the camera) to perform a seamless 360-degree rotation around the Minion over the 150 frames.
+Set keyframe interpolation to LINEAR to ensure smooth, constant-speed rotation.
+
+Output Settings: Set output format to FFmpeg video (H.264 / MP4 container).
+Technical Requirements & Model Structure:
+Base Body:Create a capsule-like mesh for the main body (yellow material, subsurface scattering/roughness ~0.3).
+Add sparse, thin strands of black hair on top of the head.
+
+Goggles & EyesBuild dual-lens goggles using extruded cylinders/toruses.
+Goggle Frame Material: Metallic (~0.9), Roughness (~0.2) to simulate brushed aluminum/metal.
+Add a black elastic strap wrapping around the body.
+Generate two eyeball meshes inside the frame (white sclera, brown iris, shiny pupil).
+
+Clothing - Overalls:Model the denim overalls using separate mesh geometry or extruded body segments.
+Material: Blue denim color, higher roughness (~0.6).
+Include shoulder straps and a front pocket on the chest.
+
+Appendages & DetailsAdd arms and legs with black gloved hands and black shoes.
+Use Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) where applicable (e.g., eyes, goggles frame, arms, straps, legs) to ensure symmetry and clean code.
+
+Lighting & Scene:Place a three-point lighting setup (Key, Fill, Rim lights) parented to the camera or placed uniformly so the lighting stays consistent during rotation.
+Set render engine to Cycles or EEVEE with a clean studio background.
+Ensure all materials are created using Nodes (use_nodes = True).
+
+Return ONLY valid Python code inside a markdown block with no surrounding text or markdown explanations.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105298955307303100) · [Orijinal gönderi](https://x.com/EvoLinkAi/status/2105298964027265295) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### Jöle Presi
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="Jöle Presi"></a>
+
+**İstem**
+
+```text
+"Jelly Press" oluşturun: HTML içinde tek dosyalı, etkileşimli bir 3B oyuncak (tüm JS, CSS ve WGSL shader'ları satır içinde; Google Fonts dışında harici varlık yok). WebGPU ile işleyin; WebGPU veya bir adaptör yoksa boş bir sayfa yerine temiz bir yedek mesajı gösterin.
+
+CONCEPT
+Dört yarı saydam, meyve dilimi şeklindeki jel şeker, hidrolik presin çelik tablasına teker teker yerleşsin. Oyuncu büyük kırmızı düğmeye basılı tuttuğunda pres aşağı insin. Jöle ezilip yayılsın, basınç göstergesi yükselsin ve yüksekliğinin yarısından biraz daha fazla ezildiğinde parçalara ayrılsın. Patlamadan sonra oyun BİTMESİN: oyuncu parçaları tutabilsin, sürükleyebilsin, etrafa fırlatabilsin ve yeniden ezebilsin.
+
+JÖLELER (alttaki çipler, 1–4 tuşları)
+1. Karpuz dilimi (yarım disk levha): koyu gözyaşı biçimli çekirdekleri olan kırmızı iç kısım, açık renkli kabuk şeridi ve yeşil çizgili dış kabuk.
+2. Portakal dilimi (yarım disk): ince beyaz zarlarla ayrılmış portakal eti dilimleri, açık renkli iç kabuk ve portakal kabuğu.
+3. İncir yarısı: küçük altın renkli çekirdeklerle dolu pembe iç kısım, krem rengi bir katman ve koyu mor kabuk.
+4. Ananas halkası: radyal çizgilere ve ortasında deliğe sahip, altın renkli lifli iç kısım.
+Her jöle gerçek jel şeker gibi görünmeli: yüzey altı saçılımı, yumuşak yarı saydamlık, parlak speküler yansımalar ve sıcak stüdyo zemininde (krem/bej, ton eşlemeli) yumuşak gölgeler.
+
+FİZİK (CPU, sabit 60 Hz adım)
+- 8 alt adımlı XPBD tetrahedral yumuşak gövde: tetra başına ko-rotasyonlu şekil eşleştirme, tetra başına hacim kısıtları, sert kenar gerinim sınırları (0.35×–1.8×), kenar hızı sönümleme, Coulomb sürtünmeli zemin teması, yuvarlanma direnci ve neredeyse hareketsizken nazikçe dengeye gelme.
+- İşleme ağı, tetrahedralara barysentik gömme yoluyla CPU üzerinde skin'lensin; normaller her karede üçgenlerden yeniden hesaplansın.
+- Pres kalıbı, kinematik yuvarlak bir tabla olsun (yarıçap ~1.05, yuvarlatılmış kenar, belirli bir kalınlık ve üzerinde bir piston). Alttan sürtünmeli bir tavan, üstte bir raf ve kenarında bir yan duvar gibi davransın. İki pres direği sağlam olsun.
+- Bar cinsinden basınç değeri, tablanın temas yükünden gelsin ve meyveye göre ölçeklensin.
+
+PATLAMA
+- Jölenin yüksekliğinin %52'si ile %66'sı arasında rastgele bir ezilme seviyesinde kırılsın.
+- Kırılmayı her turun başlamasından kısa süre sonra arka planda planlayın; böylece patlama anında gerçekleşsin.
+- Hafifçe eğimli duvarlara sahip 3B Voronoi hücrelerinden 5–7 büyük parça oluşturun. Bunların 3–4'ünde, uzak bir köşe iki kesme düzlemiyle koparılsın ve parça 2–4 küçük kırıntıya bölünsün; böylece pürüzlü, çentikli kenarlar oluşsun.
+- Tetrahedraları ağırlık merkezlerine göre hücrelere atayın. Her parça için parçacıkları çoğaltın. Çok küçük adacıkları komşularıyla birleştirin.
+- Yeni gövde, eski konumları ve hızları devralsın.
+- Kaplama üçgenlerini her hücrenin yarı uzaylarıyla kesip kırpın ve kesilen her yüzeyi, meyvenin içini (iç kısım, çekirdekler, zarlar) gösteren temiz, düz bir kapakla doldurun. Uzamış üçgenler veya delikler olmasın.
+- Parçaları presin dışına ve yukarı doğru savurun. Küçük kırıntılar daha hızlı ve daha yükseğe uçsun, rastgele dönüşle takla atsın.
+- Yaklaşık 2,5 saniye boyunca büyük italik bir sonuç gösterin, ardından soldurun: "Pelt." (karpuz), "Sıkıştı." (portakal), "Şey, bu reçel oldu." (incir), "Ezildi." (ananas). Bir istatistik satırı ekleyin: "N bar basınçta ve yüksekliğinin %N'sinde pes etti."
+
+PATLAMADAN SONRA: OYUN MODU
+- Seçme: skin'lenmiş ağa karşı ışın/üçgen testi; dokunma için toleranslı bir ekran alanı yedeği kullanın.
+- Tutma, tutulan yamayı (yarıçap ~0.4; yalnızca o parçaya ait parçacıklar) kameraya bakan bir sürükleme düzlemindeki hedefe sabitler. Küçük kırıntılar bütün olarak hareket eder; büyük parçalar jöle gibi esneyip sallanır.
+- Bırakıldığında parçayı işaretçinin hızıyla fırlatın.
+- Parçalar birbiriyle çarpışır. Bir parçacık başka bir parçanın tetra'sının içinde bulunursa sürtünmeyle o parçanın en yakın yüzey yüzünden dışarı itilir. Parça AABB geniş fazını ve yüzey tetra'larının uzamsal hash'ini kullanın.
+- Parçalar sahnede kalsın: yan duvarlar ve hiçbir şeyin kontrollerin altına veya kameranın arkasına geçmemesi için görünmez bir ön kenar.
+- Pres çalışmaya devam etsin: parçaları yeniden ezmek için basılı tutun (ikinci bir kırılma olmasın); Raise tablasını kaldırır.
+- Yere inişlerde ıslak "pof" sesleri; tutarken küçük bir cıyaklama.
+- İmleç: parçaların üzerinde açık el, sürüklerken kapalı el. Boş alanı sürüklemek kamerayı yörüngede döndürür.
+
+ARAYÜZ (editoryal, minimal)
+- Sol üst masthead: kalın, dar büyük harflerle "JELLY PRESS"; "PRESS" sarı/siyah tehlike şeritleriyle doldurulsun. Alt başlık: "Dört jel şeker. Tek hidrolik pres."
+- Sağ üst: Reset ve Sound aç/kapat.
+- Alt panel:
+  - Presleme sırasında aşamalı olarak değişen başlık satırı: "Temas." → "Sorun yok. Bu sadece jöle." → "Genişliyor." → "Bu artık bir pankek." → "Ses çıkarıyor." → "Lütfen."
+  - Kırmızı HOLD düğmesinin çevresinde dairesel basınç kadranı (0–400 bar yay ve kırmızı bölge), bir Raise düğmesi ve büyük sayısal bar göstergesi.
+  - İkonlu meyve çipleri.
+- Oyun modunda başlık alanında "Bir parça tut. Fırlat." ve küçük "Yeniden bas" ile "Sonraki jöle" düğmeleri gösterilsin.
+- Kontroller: basmak için Space veya ArrowDown tuşunu basılı tutun, kaldırmak için ArrowUp, sıfırlamak için R, meyve seçmek için 1–4. Tekerlek yakınlaştırır; çift tıklama görünümü sıfırlar.
+- Kamera: tezgâh seviyesine yakın alçak görünüm; direklerin jöleyi hiçbir zaman engellememesi için pres çerçevesi her meyveye göre yatay döndürülür. Kadraj, jöle masthead ile alt panel arasında kalacak şekilde uyarlansın; telefonlarda (dikey yönlendirme) daha dar bir sahneyle çalışsın.
+
+SES (dosyasız, prosedürel Web Audio)
+Basınç arttıkça yükselen hidrolik motor uğultusu, ıslak ezilme sesleri, yüksek basınçta ara sıra gıcırtılar, tabla durduğunda valf takırtısı, yüksek sesli bir patlama ve inişlerde yumuşak pof sesleri. İlk etkileşimde kilidi açın.
+
+KALİTE ÖLÇÜTLERİ
+- Bir dizüstü bilgisayarda akıcı 60 fps.
+- Geçişin anında gerçekleşmesi için diğer meyvelerin mesh'lerini ve shader'larını arka planda ısıtın.
+- prefers-reduced-motion ayarına uyun.
+- Erişilebilir etiketler, role=meter özellikli bir gösterge ve focus-visible dış çizgileri.
+- Konsol hatası olmasın. Sayfa hiçbir zaman boş kalmasın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105285992865272110) · [Orijinal gönderi](https://x.com/vib3coded/status/2105286092651999619) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105278999861526953"></a>
+
+### Golden Gate Köprüsü'nün Blender render'ı
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105278999861526953"><img src="../assets/previews/5bcade94da53057502f3cb98af337c7c693ece5f6234c73b110d7cc895a422c1.webp" width="840" loading="lazy" alt="Golden Gate Köprüsü'nün Blender render'ı"></a>
+
+**İstem**
+
+```text
+Golden Gate Köprüsü'nün Blender render'ı. San Francisco Körfezi'nin su yüzeyinden, sisli sabah göğünü delen devasa ve karmaşık çelik kafes kulelere yukarı doğru bakan, etkileyici ve ekstrem alçak açılı bir çekim. Geniş yol, açıklık boyunca sayısız küçük ve ayrıntılı araçla uzanıyor; köprünün sarp kıyı burunları karşısındaki görkemli ve heybetli ölçeğini vurguluyor.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+A Blender render of the Golden Gate Bridge.  A sweeping, extreme low-angle shot from the surface of San Francisco Bay, looking up at the colossal, intricate steel-truss towers piercing the foggy morning sky. The expansive roadway stretches across the span with countless tiny, detailed vehicles, highlighting the bridge's grand, imposing scale against the rugged coastal headlands.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105278999861526953) · [Orijinal gönderi](https://x.com/EvoLinkAi/status/2105279002793345069) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### Tek bir HTML dosyasında sıra tabanlı ASCII roguelike
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="Tek bir HTML dosyasında sıra tabanlı ASCII roguelike"></a>
+
+**İstem**
+
+```text
+Baş oyun tasarımcısı olarak hareket et. Harici bağımlılık kullanmadan, tamamen kendi kendine yeten tek bir HTML/JS/CSS dosyasında eksiksiz, sıra tabanlı bir ASCII roguelike oluştur.
+1. Görsel: 1980'lerden kalma CRT monitör; siyah zemin üzerinde fosfor yeşili metin (#00FF66) ve yumuşak tarama çizgisi parlaması.
+2. Prosedürel oluşturma: 40x22 boyutunda, birbirine bağlı oda ve koridorlardan oluşan harita.
+3. Varlıklar: @ kahraman, # duvar, . zemin, g goblin (5 HP), $ altın, > alt kata inen merdivenler.
+4. Mekanikler: sıra tabanlı hareket ve savaş; HP ve altın takibi.
+5. HUD: kat numarası, HP çubuğu, savaş günlüğü. Permadeath ve yeniden başlatma özelliği.
+Yalnızca çalışan HTML kodunu çıktı olarak ver.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105246199653482872) · [Orijinal gönderi](https://x.com/kriptoleidi/status/2105246199653482872) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### Game of Thrones dünyası oluştur
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="Game of Thrones dünyası oluştur"></a>
+
+**İstem**
+
+```text
+&lt;Game of Thrones dünyası oluştur&gt;
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105245648723562584) · [Orijinal gönderi](https://x.com/DrstaOne/status/2105245648723562584) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105047166733746209"></a>
+
+### Sinematik fotogerçekçi roket fırlatma sahnesi
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105047166733746209"><img src="../assets/previews/6d8acb740dd1622944c3b3d67b4773f614180df8b9b6f266d7a3a7a7c523baff.webp" width="840" loading="lazy" alt="Sinematik fotogerçekçi roket fırlatma sahnesi"></a>
+
+**İstem**
+
+```text
+Three.js kullanarak sinematik, fotogerçekçi ve zengin dokulara sahip bir roket fırlatma sahnesi oluştur
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a cinematic, photorealistic, beautifully textured rocket launch scene using Three.js
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105047166733746209) · [Orijinal gönderi](https://x.com/MatthewLebo_/status/2105047166733746209) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### Etkileşimli tektonik deprem simülasyonu videosu
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="Etkileşimli tektonik deprem simülasyonu videosu"></a>
+
+**İstem**
+
+```text
+Etkileşimli bir tektonik simülasyon ortamı üzerinden depremin nasıl gerçekleştiğini anlatan, görsel açıdan çarpıcı 60 saniyelik bir video oluşturun.
+
+Bir slayt gösterisi veya geleneksel bir eğitim videosu değil, güzel bir gerçek zamanlı simülasyonu keşfeden birini izliyormuşuz gibi hissettirsin.
+
+Dünya kabuğunun temiz bir 3B kesit görünümüyle başlayın. İki tektonik levha birbirine karşı yavaşça hareket etsin. Aralarındaki fayı görselleştirin ve gerilim kademeli olarak birikirken sürtünmenin levhaları kilitlemesini gösterin.
+
+Basınç arttıkça simülasyonu daha yoğun hâle getirin: kaya katmanları deforme olsun, gerilim bölgeleri parlasın, hafif titreşimler başlasın ve canlı bir sismograf tepki vermeye başlasın.
+
+Ardından depremi tetikleyin. Fay aniden kayarak devasa bir enerji patlaması açığa çıkarsın. Sismik dalgaların zemin boyunca dışarı doğru yayılmasını gösterin; ardından yüzeye doğru geçerek arazinin ve küçük bir şehrin sarsılmaya başlamasını görüntüleyin.
+
+P dalgaları ile S dalgalarının Dünya’nın içinde farklı biçimlerde ilerlemesini ve ardından en güçlü yüzey dalgalarını görselleştirin. Binaların, merkez üssüne olan uzaklıklarına bağlı olarak farklı tepkiler verdiğini gösterin.
+
+Fay çevresindeki daha küçük artçı depremleri ortaya çıkarmak için yeniden yerin altına yakınlaşarak bitirin; ardından tüm tektonik sistemi gösterecek şekilde uzaklaşın.
+
+Sinematik motion graphics, tatmin edici fizik simülasyonları, etkileyici ölçek geçişleri, üst düzey 3B bilimsel görselleştirme, minimal tipografi, dinamik etiketler, akıcı arayüz katmanları ve kusursuz geçişler kullanın.
+
+Tempo sürekli gelişmeli ve birkaç saniyede bir yeni bir şey ortaya çıkarmalı; böylece 60 saniyenin tamamı görsel açıdan ilgi çekici kalmalı.
+
+Apple kalitesinde etkileşimli bir bilimsel görselleştirmenin sinematik bir motion-design videosuna dönüştürülmüş hâli gibi hissettirsin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105029713445949521) · [Orijinal gönderi](https://x.com/egeberkina/status/2105029713445949521) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105027152617918852"></a>
+
+### Gerçekçi F-22 Raptor modeli ve Godot uçuş videosu
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29 · GPT-6 Astra · Diğer
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105027152617918852"><img src="../assets/previews/735c2222ff973e206a2a4e0eb83984299eb76e96ff6f0267d1697607a029ab0f.webp" width="840" loading="lazy" alt="Gerçekçi F-22 Raptor modeli ve Godot uçuş videosu"></a>
+
+**İstem**
+
+```text
+Blender MCP kullanarak bana Lockheed Martin F-22 Raptor’ın (yalnızca ABD) gerçekçi bir 3B modelini oluştur. Ardından Godot’ta uçuşunu gösteren ve X’e yükleyebileceğim 60 saniyelik bir MP4 oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Using blender mcp. Make me a realistic 3d model of the: Lockheed Martin F-22 Raptor (US only). Then create me 60 second mp4 of it flying around in Godot that I can upload to X.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105027152617918852) · [Orijinal gönderi](https://x.com/dgresesjr/status/2105027152617918852) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105009377002299711"></a>
+
+### Zaman, Söküldü.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105009377002299711"><img src="../assets/previews/e2b43bfe1fb0e91f9377aeb5de49500cf4472749c1c2b6f2f0cacb387107b7f9.webp" width="840" loading="lazy" alt="Zaman, Söküldü."></a>
+
+**İstem**
+
+```text
+"Time, Undone." projesini oluşturun: kaydırdıkça kendi kendini söken ve bu sırada çalışmayı sürdüren, gerçek WebGPU + WGSL tabanlı etkileşimli bir 3B mekanik saat içeren, tek başına çalışan tek bir HTML dosyası (gömülü JS ve CSS). Hiçbir 3B motor kütüphanesi kullanmayın; tüm geometri kodla oluşturulmalı. Bu, herkesin dışarıdan gördüğü, ancak neredeyse hiç kimsenin içini görmediği nesneler üzerine bir serinin 01 numaralı bölümüdür.
+NESNE
+40 mm çapında yuvarlak kasaya ve yaklaşık 30 mm genişliğinde klasik bir İsviçre kollu mekanizmaya sahip, özgün, markasız, elle kurulan mekanik bir saat.
+Yerleşim: merkezde saat ve dakika; 6 yönünde küçük saniye alt kadranı; 3 yönünde kurma kolu.
+Kadran: ince guilloché güneş ışını desenli gümüş opalin yüzey, uygulamalı polisajlı indeksler, dauphine ibreler ve demiryolu tipi dakika skalası.
+Kasa: mekanizmanın arkadan görülebilmesi için önde safir cam ve sergileme amaçlı arka kapak.
+Hiçbir yerde marka adı, logo veya gerçek kalibre adı kullanmayın. Adı "Calibre 01" olsun.
+MEKANİZMA (dekoratif değil, kendi içinde doğru olmalı)
+Salınım frekansı 28.800 vph (4 Hz balans).
+Tutarlı diş sayılarına sahip gerçek bir güç aktarım treni oluşturun: zemberek tamburu 96 diş → merkez pinyon 12; merkez çark saatte bir tur atar ve dakika ibresini taşır;
+merkez çark 80 → üçüncü pinyon 10;
+üçüncü çark 75 → dördüncü pinyon 10; dördüncü çark dakikada bir tur atar ve küçük saniye ibresini taşır;
+dördüncü çark 84 → eşapman pinyonu 7;
+eşapman çarkı 20 dişli, her 5 saniyede bir tur atar.
+
+Kadran altındaki hareket aktarımı: kanon pinyon 12 → dakika çarkı 36; dakika pinyonu 10 → saat çarkı 40 (12:1).
+Kurma düzeni: kurma kolu, mil, kurma çarkı, mandal çarkı ve yaylı mandal.
+Eşapman: eşapman çarkı, iki yakut palet taşı ve dayama pimlerine sahip palet çatalı, ayrıca saç yayı ve impuls rulosu bulunan balans çarkı.
+Yapı: ana plaka, tambur köprüsü, tren köprüsü, balans köprüsü, yakut yataklar ve mavileştirilmiş vidalar.
+Dişliler: saat tipi sikloidal diş profilleri, iskeletli çark kolları, yapraklı pinyonlar, miller ve pivotlar. Merkez mesafeleri ortak bir modülden türetilmeli; böylece her çift, monte edildiğinde gözle görülür biçimde doğru şekilde kavraşır.
+Tek bir ana saatten sürülen hareket: balans, θ(t) = A·sin(2π·4·t) şeklinde salınmalı; tam güçte genlik yaklaşık 270° olmalı;
+her vuruşta palet çatalı dayama pimleri arasında hızla hareket etmeli ve eşapman çarkı kısa, yumuşatılmış bir impulsla yarım diş ilerledikten sonra kilitlenmeli;
+diğer tüm çarklar, eşapman çarkından gelen oranlarına göre tam adımlarla ilerlemeli;
+saniye ibresi saniyede 8 kez tıklamalı; dakika ve saat ibreleri treni takip etmeli.
+Yükleme sırasında ibreleri izleyicinin yerel saatine ayarlayın.
+
+Güç: gerçek zamanlı olarak azalan yaklaşık 44 saatlik güç rezervi. Rezerv tükendikçe genlik 290°'den 180°'ye düşmeli; 0'da saat durmalı ve balans donmak yerine durularak yerleşmeli.
+Kurma işlemi rezervi artırmalı; mandal çarkı ile mandalın görünür hareketi ve yumuşak bir klik sesi olmalı (Web Audio, ilk kullanıcı etkileşimine kadar sessize alınmış).
+
+Mekanizma her patlatılmış görünüm durumunda çalışmayı sürdürmeli: çarklar havada dönmeli, balans vurmaya devam etmeli ve saniye ibresi tıklamalı.
+PATLATMA (duraklamalı, kaydırmayla ilerleyen)
+Sayfa kaydırması, 0 ile 1 arasındaki bir ilerleme değerine eşlenmeli ve yedi bölüme ayrılmalı. Her bölüm, kaydırmanın kısa süreliğine yerleştiği bir "durak" noktasına yumuşakça geçmeli (yumuşak bir kenetlenme, asla sert bir kilit değil). Kamera bölümler arasında akıcı biçimde hareket etmeli.
+Bölümler:
+I. Kasa: önden 3/4 görünüm, monte edilmiş.
+II. Kadran: cam ve çerçeve yukarı doğru ayrılır; ibreler ve kadran yükselir.
+III. Hareket aktarımı: kadranın altındaki çarklar ayrılır.
+IV. Köprüler: saat arkayı gösterecek şekilde döner; arka kapak kalkar; köprüler ve balans köprüsü yükselirken vidaları deliklerinin hemen üzerinde havada durur.
+V. Güç aktarım treni: tambur, merkez, üçüncü ve dördüncü çarklar teknik çizimdeki gibi kendi eksenleri boyunca yukarı doğru açılır.
+VI. Eşapman: eşapman çarkı, palet çatalı ve balans biraz daha ayrılır; kamera yaklaşır.
+VII. Kalp: atan balans ve saç yayının makro görünümü; arkada tam patlatılmış kolon.
+Her parça, çoğunlukla kendi mil ekseni boyunca veya plakadan doğrudan yukarıya doğru, net bir eksen üzerinde hareket etmeli. Birbirine ait parçalar birlikte kalmalı. Patlatma sırasında hiçbir parça kesişmemeli ve hiçbir parça kadrajdan çıkmamalı.
+Her durak noktasında ana parçalar için küçük kapaklı etiketlere sahip ince kılavuz çizgileri görünmeli; duraklar arasında solmalı.
+INTERACTION
+Kaydırma (tekerlek, dokunmatik yüzey, dokunarak kaydırma) patlatmayı sürüklemeli.
+Boş alanda sürüklemek, saati sınırlar içinde döndürmeli; bırakıldığında saat yumuşakça geri dönmeli.
+Bir parçanın üzerine gelindiğinde parça, adıyla birlikte yumuşakça konturlanmalı.
+Bir parçaya tıklandığında: parça vurgulanmalı, diğer parçalar yaklaşık %35'e kadar karartılmalı ve kamera parçayı kadraja alacak şekilde yumuşakça yaklaşmalı;
+yanında bir kart açılmalı ve karta ince bir kılavuz çizgisiyle bağlanmalı. Kartta şunlar gösterilmeli: ad; bir veya iki yalın cümleyle görevi; kesin bir bilgi (örneğin: "Eşapman çarkı · 20 diş · her 5 saniyede bir tur"); ve bir canlı değer (mevcut hız, açı veya o ana kadarki vuruş sayısı).
+Esc, kapatma düğmesi veya boş alana tıklama ile geri dönülmeli.
+
+Kurma kolu görünür durumdayken yana doğru sürüklemek, dokunsal bir mandal hareketiyle saati kurmalı.
+İşaretçi yakalama, fare ve dokunma desteği. Nesne kimliği render geçişi veya kesin ışın testleriyle seçim; yaklaşık sınırlayıcı küreler kullanılmamalı.
+RENDER (gerçek metaller, makro fotoğraf hissi — çizgi film değil)
+Yansımalar için prosedürel bir stüdyo ortamıyla (büyük softbox'lar, bir şerit ışık ve loş sıcak dolgu ışığı) fiziksel tabanlı malzemeler kullanın.
+Yüzeyler: köprülerde Côtes de Genève şeritleri (şeritlerle hizalanmış anizotropik fırçalanmış parlaklık);
+ana plakada perlage (dairesel gren);
+parlak kenar yansımalarını yakalayan ayna polisajlı pahlar (anglage);
+ince film ısısıyla mavileştirilmiş vidalar ve ibreler;
+iç ışıltıya sahip, yarı saydam kırmızı yakut taşları;
+rodyum kaplı çelik parçalar;
+hafif mavi-mor yansımalara ve az miktarda kenar kalınlığına sahip safir camlar.
+
+Kasa, seçilen altın renginde olmalı.
+Vurgular: yalnızca parlak yansımalarında kontrollü bloom; ışık veya saat hareket ettikçe taşlarda ve polisajlı kenarlarda beliren küçük yıldız parıltıları. Gösterişli, ama simli değil.
+Yumuşak temas gölgeleri, nazik ortam örtülülüğü ve odaklanan parçayı takip eden ince alan derinliği.
+Parlak alanları kırpılmamış filmik ton eşleme; 4x MSAA veya eşdeğeri.
+Arka plan: kesintisiz bir fotoğraf stüdyosu gibi, yumuşak vignette'li soluk porselen beyazı. Sarı değil, krem değil.
+ARAYÜZ (aristokratik, editoryal, ferah boşluk kullanımı)
+Yazı tipleri: başlık ve rakamlar için "Bodoni Moda", arayüz metni için "Jost" (Google Fonts; serif ve sans-serif yedekleriyle). 0.16em harf aralığına sahip küçük büyük harfli etiketler; tablosal rakamlar.
+Renkler: porselen arka plan üzerinde mürekkep #1B1A17;
+ince çizgiler, mürekkebin %15'i opaklığında 1 px;
+vurgu rengi seçilen altını takip eder.
+
+Arayüz öğelerinde degrade kullanmayın; ağır gölgeler ve emoji kullanmayın.
+Sol üst: kicker "OBJECTS, OPENED / NO. 01";
+iki satırda büyük Bodoni başlığı, "Time," / "Undone.";
+Bodoni italik yazı tipinde üç açıklama satırı: "Elle kuruldu." "Kaydırmayla açıldı." "Hiçbir şey gizli değil."
+
+Sağ üst: küçük bir noktayla birlikte durum "WEBGPU · LIVE".
+Sol kenarda, dikey olarak ortalanmış bölüm dizini: "I. Kasa", "II. Kadran", "III. Hareket aktarımı", "IV. Köprüler", "V. Güç aktarım treni", "VI. Eşapman", "VII. Kalp". Geçerli bölüm vurgulanmalı ve ince bir ilerleme çizgisi gösterilmeli; bir bölüme tıklamak sayfayı o bölüme kaydırmalı.
+
+Sağ panel "THE MOVEMENT": üç kasa ön ayarı: White gold, Yellow gold, Rose gold; küçük metal renk örnekleriyle;
+canlı okumalar: vuruş frekansı "28,800 vph", güç rezervi (saat, ince bir çubukla), genlik (°), açılıştan bu yana vuruşlar;
+"Wind the crown" ve "Set to local time" düğmeleri;
+"¼ speed" ve "Trace the power" onay kutuları. Trace the power, enerji yolu boyunca yavaşça ilerleyen bir ışık çizgisi oluşturur: zemberek → tambur → merkez → üçüncü → dördüncü → eşapman çarkı → palet çatalı → balans; ışık geçerken her parça parlar;
+Bir Duraklat/Devam Et düğmesi.
+
+Sol alt ipucu: "Sökmek için kaydırın. Tanışmak için herhangi bir parçaya tıklayın. Döndürmek için sürükleyin."
+Sağ alt: güç aktarım treni, eşapman, balans ve güç rezervi hakkında kısa ve doğru bir açıklamanın yanı sıra bu sayfanın bunu nasıl görüntülediğine dair kısa bir not içeren, daraltılabilir "How it works" bölümü.
+Mobil: tuval ekranın üst yaklaşık %65'ini doldurmalı ve bölüm dizini yatay bir Romen rakamları satırına dönüşmeli. Panel aşağıda akmalı; parça kartları alt sayfaya dönüşmeli. Hiçbir şey saatin üzerini kapatmamalı.
+ENGINEERING
+Tüm geometriyi başlangıçta bir kez oluşturun. Tekrarlanan parçaları (vidalar, taşlar ve uygun yerlerde dişler) örnekleyin. Kare başına yalnızca dönüşümleri güncelleyin; etkileşim sırasında shader derlemesi veya tampon yeniden oluşturma yapmayın.
+Animasyon zamanı, ¼ hız ölçeklendirmesine sahip tek bir saatten gelmeli. Duraklatma mekanizmayı dondurmalı, arayüzü değil.
+prefers-reduced-motion tercihlerine uyun: anlık bölüm geçişleri, kamera uçuşları ve parıltı animasyonu olmasın.
+WebGPU kullanılamıyorsa açık ve iyi tasarlanmış bir açıklama gösterin. Sahte bir yedek render motoru kullanmayın.
+Cihaz kaybını yönetin. Piksel oranını 2 ile sınırlayın. Bir dizüstü bilgisayarda 60 fps, güncel bir telefonda akıcı bir deneyim hedefleyin.
+TESLİM ETMEDEN ÖNCE DOĞRULAYIN
+Kod içinde tren oranlarını doğrulayın: saniye ibresi 60 saniyede bir, dakika ibresi 3600 saniyede bir, saat ibresi 12 saatte bir ve eşapman çarkı 5 saniyede bir tur atmalı. Kontrolü konsola yazdırın.
+Birbirine geçen her dişli çifti doğru merkez mesafesinde olmalı ve monte edildiğinde gözle görülür biçimde kavraşmalı.
+Hiçbir patlatma ilerleme değerinde hiçbir parça bir diğeriyle kesişmemeli; z-fighting olmamalı.
+Kaydırma durakları, bölüm atlamaları, parça seçimi, kartlar, kurma, ön ayarlar, Trace the power, duraklatma, ¼ hız ve mobil yerleşim çalışmalı.
+Kart metinleri horoloji açısından doğru olmalı.
+Konsol hatası olmamalı.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build "Time, Undone." - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical watch that takes itself apart as you scroll, while it keeps running. No 3D engine libraries; all geometry is generated in code. This is issue No. 01 of a series about objects everyone has seen from the outside and almost no one has seen from the inside.
+THE OBJECT
+An original, unbranded, hand-wound mechanical watch in a round 40 mm case, with a classic Swiss-lever movement about 30 mm across.
+Layout: centre hours and minutes; small seconds sub-dial at 6 o'clock; crown at 3 o'clock.
+Dial: silver-opaline with a fine guilloché sunburst, applied polished indices, dauphine hands, a railroad minute track.
+Case: front sapphire crystal and a display caseback, so the movement is visible from behind.
+No brand names, logos or real calibre names anywhere. Call it "Calibre 01".
+THE MECHANISM (must be internally correct, not decorative)
+Beat rate 28,800 vph (4 Hz balance).
+Build a real going train with consistent tooth counts:mainspring barrel 96 teeth → centre pinion 12; the centre wheel turns once an hour and carries the minute hand;
+centre wheel 80 → third pinion 10;
+third wheel 75 → fourth pinion 10; the fourth wheel turns once a minute and carries the small seconds hand;
+fourth wheel 84 → escape pinion 7;
+escape wheel 20 teeth, turning once every 5 s.
+
+Motion works under the dial: cannon pinion 12 → minute wheel 36; minute pinion 10 → hour wheel 40 (12:1).
+Keyless works: crown, stem, crown wheel, ratchet wheel, click with spring.
+Escapement: escape wheel, pallet fork with two ruby pallet stones and banking pins, balance wheel with hairspring and impulse roller.
+Structure: mainplate, barrel bridge, train bridge, balance cock, ruby jewel bearings, blued screws.
+Gears: watch-style cycloidal tooth profiles, spoked wheel crossings, pinions with leaves, arbors and pivots. Centre distances are derived from a common module so every pair meshes visibly correctly when assembled.
+Motion, driven from ONE master clock:the balance oscillates as θ(t) = A·sin(2π·4·t), with amplitude A around 270° at full power;
+at each beat, the pallet fork flicks between its banking pins and the escape wheel advances half a tooth in a short eased impulse, then locks;
+every other wheel steps exactly by its ratio from the escape wheel;
+the seconds hand ticks 8 times per second; the minute and hour hands follow the train.
+On load, set the hands to the viewer's local time.
+
+Power: a power reserve of about 44 h that drains in real time.Amplitude falls from 290° to 180° as the reserve empties; at 0 the watch stops, the balance settling rather than freezing.
+Winding raises the reserve, with visible ratchet and click motion and a soft click sound (Web Audio, muted until the first user interaction).
+
+The mechanism keeps running in every exploded state: wheels spin in mid-air, the balance keeps beating, the seconds hand keeps ticking.
+THE EXPLODE (scroll-driven, with stops)
+Page scroll maps to a progress value from 0 to 1, split into seven chapters. Each chapter eases into a resting "stop" where scroll briefly settles (a soft snap, never a hard lock). The camera moves smoothly between chapters.
+Chapters:
+I. The case: front 3/4 view, assembled.
+II. The dial: the crystal and bezel lift away; the hands and dial rise.
+III. Motion works: the wheels under the dial separate.
+IV. The bridges: the watch turns over to show the back; the caseback lifts; the bridges and the balance cock rise, with their screws floating just above their holes.
+V. The going train: barrel, centre, third and fourth wheels spread upward along their own axes like a technical drawing.
+VI. The escapement: escape wheel, pallet fork and balance separate a little further, and the camera closes in.
+VII. The heart: a macro view of the beating balance and hairspring, with the full exploded column behind.
+Every part moves along a clear axis, mostly its own arbor axis or straight up from the plate. Parts that belong together stay together. Nothing intersects during the explode, and nothing leaves the frame.
+Thin hairline leader lines with small caps labels appear for the main parts at each stop, and fade between stops.
+INTERACTION
+Scroll (wheel, trackpad, touch swipe) drives the explode.
+Dragging on empty space turns the watch within limits; it eases back when released.
+Hovering a part outlines it softly with its name.
+Clicking a part:the part is highlighted, other parts dim to about 35%, and the camera eases to frame it;
+a card opens beside it, joined by a hairline leader. The card shows: name; role in one or two plain sentences; one precise fact (for example: "Escape wheel · 20 teeth · one turn every 5 s"); and one live value (current speed, angle, or beats so far).
+Esc, a close button, or clicking empty space returns.
+
+Dragging the crown sideways winds the watch (a tactile ratchet), when the crown is visible.
+Pointer capture, mouse and touch. Picking by an object-ID render pass or exact ray tests; no approximate bounding spheres.
+RENDERING (real metals, macro-photography feel — not a cartoon)
+Physically based materials, with a procedural studio environment (large softboxes, a strip light and a dim warm fill) for reflections.
+Finishes:Côtes de Genève stripes on the bridges (anisotropic brushed specular aligned to the stripes);
+perlage (circular graining) on the mainplate;
+mirror-polished bevels (anglage) catching bright edge highlights;
+thin-film heat-blued screws and hands;
+ruby jewels that are translucent red with internal sparkle;
+rhodium-plated steel parts;
+sapphire crystals with faint blue-violet reflections and a slight edge thickness.
+
+Case in the selected gold.
+Highlights: controlled bloom on specular highlights only; small star glints on jewels and polished edges that appear as the light or the watch moves. Glamour, not glitter.
+Soft contact shadows, gentle ambient occlusion, subtle depth of field that follows the focused part.
+Filmic tonemap with no clipped highlights; 4x MSAA or equivalent.
+Background: pale porcelain white with a soft vignette, like a seamless photo studio. Not yellow, not cream.
+UI (aristocratic, editorial, generous whitespace)
+Fonts: "Bodoni Moda" for display and numerals, "Jost" for UI text (Google Fonts, with serif and sans fallbacks). Small caps labels with 0.16em tracking; tabular numerals.
+Colours:ink #1B1A17 on the porcelain background;
+hairlines 1px at 15% ink;
+the accent follows the selected gold.
+
+No gradients on UI elements, no heavy shadows, no emoji.
+Top-left:kicker "OBJECTS, OPENED / NO. 01";
+large Bodoni heading on two lines, "Time," / "Undone.";
+three caption lines in Bodoni italic: "Wound by hand." "Opened by scroll." "Nothing is hidden."
+
+Top-right: status "WEBGPU · LIVE" with a small dot.
+Left edge, vertically centred: the chapter index "I. The case", "II. The dial", "III. Motion works", "IV. The bridges", "V. The going train", "VI. The escapement", "VII. The heart".The current chapter is highlighted, with a hairline progress rule; clicking a chapter scrolls to it.
+
+Right panel "THE MOVEMENT":three case presets: White gold, Yellow gold, Rose gold, with small metal swatches;
+live readouts: Beat rate "28,800 vph", Power reserve (h, with a thin bar), Amplitude (°), Beats since opened;
+buttons "Wind the crown" and "Set to local time";
+checkboxes "¼ speed" and "Trace the power". Trace the power makes a slow line of light flow along the energy path: mainspring → barrel → centre → third → fourth → escape wheel → pallet fork → balance, with each part glowing as it passes;
+a Pause/Resume button.
+
+Bottom-left hint: "Scroll to take it apart. Click any part to meet it. Drag to turn it."
+Bottom-right: a collapsible "How it works", with a short, accurate explanation of the going train, the escapement, the balance and the power reserve, plus a short note on how this page renders it.
+Mobile: the canvas fills the top about 65% of the screen, and the chapter index becomes a horizontal row of Roman numerals. The panel flows below; part cards become a bottom sheet. Nothing covers the watch.
+ENGINEERING
+Build all geometry once at start-up. Instance repeated parts (screws, jewels, teeth where useful). Update only transforms per frame; no shader compilation or buffer rebuilds during interaction.
+Animation time comes from one clock with ¼-speed scaling. Pause freezes the mechanism, not the UI.
+Respect prefers-reduced-motion: instant chapter transitions, no camera flights, no glints animation.
+If WebGPU is unavailable, show a clear, well-designed explanation. No fake fallback renderer.
+Handle device loss. Cap the pixel ratio at 2. Aim for 60 fps on a laptop and a smooth experience on a recent phone.
+VALIDATE BEFORE DELIVERING
+In code, assert the train ratios: the seconds hand turns once per 60 s, the minute hand once per 3600 s, the hour hand once per 12 h, the escape wheel once per 5 s. Log the check to the console.
+Every meshing pair is at the correct centre distance and visibly meshed when assembled.
+No part intersects another at any explode progress; no z-fighting.
+Scroll stops, chapter jumps, part picking, cards, winding, presets, trace-the-power, pause, ¼ speed and the mobile layout all work.
+Card texts are horologically accurate.
+No console errors.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2105009377002299711) · [Orijinal gönderi](https://x.com/theparuchh/status/2105009470292013286) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Blender’da mekanik Rube Goldberg makinesi
@@ -2142,806 +2998,6 @@ make a dynamic 20-second motion graphics and animation video that shows what an 
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103428454355980558) · [Orijinal gönderi](https://x.com/loicRambo/status/2103428454355980558) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103351755971207251"></a>
-
-### Altın saat ışığında Roma savaş alanı sahnesi
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="Altın saat ışığında Roma savaş alanı sahnesi"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
-
-**İstem**
-
-```text
-GÖREV
-Sağlanan konsept görselden yola çıkarak Blender'da altın saat ışığında bir Roma savaş alanı sahnesi oluşturun. Üretim yapılabilir. Ortam ve parçaları için mevcut üretim araçlarıyla (Tripo ile https://t.co/JV0K8OtuWC)) 3B modeller oluşturabilir ve bunları bir araya getirebilirsiniz. Yine de her şey ölçeği eşleşen, malzemeleri tutarlı ve ışıklandırması bütünleşik tek bir uyumlu sahne oluşturmalıdır. Gereksinimler: Zeminde bump map kullanın ve zemini son derece ayrıntılı tutun.
-Zeminde, etrafına büyük kayalar yerleştirerek 1'e 1 arena oluşturacak dairesel boş bir alan yaratın.
-Her şeyi gerçekçi şekilde render edin.
-Mümkün olan yerlerde varlıkları prosedürel olarak oluşturun.
-Altın saat gökyüzü için bir skybox oluşturun.
-Sert gölgeler kullanın.
-Nesneleri (bayraklar, sancaklar, miğferler, kayalar vb.) yeniden kullanın. Her nesne için bir GLB dışa aktarın ve bu varlıkları yeniden kullanın.
-Sağlanan görseli mümkün olduğunca yakından ve doğru şekilde eşleştirin.
-TİMELAPSE GEREKSİNİMİ
-Sahneyi oluştururken her anlamlı eklemeden sonra (sırayla her yeni nesne, modifier geçişi, malzeme adımı ve ışıklandırma adımı) görünüm alanının ekran görüntüsünü numaralandırılmış bir timelapse/ klasörüne kaydedin. Çalışma tamamlandığında bu kareleri 2 fps (kare başına 0,5 sn) hızında bir timelapse videosunda birleştirin; böylece yapım süreci baştan sona izlenebilsin. Timelapse videosunu ana dosyalarla birlikte teslim edin.
-DELIVERABLES
-Kamerası ve görünüm alanı, görüntünün orijinaliyle tam olarak eşleşeceği şekilde ayarlanmış .blend dosyası.
-Yapım timelapse videosu.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-THE TASK
-Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
-Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
-Render everything realistically.
-Create assets procedurally where possible.
-Create a skybox for golden-hour sky.
-Use harsh shadows.
-Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
-Match the supplied image as closely and accurately as possible.
-TIMELAPSE REQUIREMENT
-While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
-DELIVERABLES
-The .blend file, with camera and viewport set so the view exactly matches the original image.
-The build timelapse video.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103351755971207251) · [Orijinal gönderi](https://x.com/tonysurix/status/2103352274269675532) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103308083242082314"></a>
-
-### STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi"></a>
-
-**İstem**
-
-```text
-Tarayıcıda çalışan, STILLWATER adlı bir Three.js deneyimi oluşturun. Ton: İçinde kaybolacağınız, ay ışığıyla aydınlanan bir bataklık. Düşmanların olduğu bir oyun değil. Fotogerçekçi bir Unreal deneyimi de değil. Su yansımalarının başrolde olduğu, sakin ve pahalı görünümlü bir web dünyası. İnsanlar suya sağlıksız denebilecek kadar uzun süre bakmak istemeli.
-
-MEKÂN
-- Konum başlığı: THE DEEP SWAMP
-- HUD saati: 19:26
-- İlk adlandırılmış yer: Heron bend
-- Yer adının altında slogan: "Vahşi doğa için biraz yer bırak."
-- Vardığınızda gösterilecek keşif bildirimi: "Keşfedildi: Heron bend"
-
-DÜNYA
-Ayın doğuşu / gün batımının sonları sırasında sular altında kalmış bir servi bataklığı.
-- Siyah-yeşil suların içinde yükselen, diz biçimli budakları olan uzun ağaçlar
-- Uzun şeritler hâlinde sarkan İspanyol yosunları
-- Kıyılar boyunca kümelenmiş nilüfer yaprakları
-- Daha geniş bir kıvrıma açılan dar ve dolambaçlı bir kanal
-- Yoğun hacimsel sis, uzakta teal-yeşili tonlar, mor-pembe bulutlu gökyüzü
-- Su üzerinde uzun ve parçalı bir yansıma yolu oluşturan parlak bir ay
-- Gökyüzünü geçen birkaç kuş
-- Karanlığı delen, tekneden yayılan sıcak kabin ışığı
-
-SU (ucuza kaçmayın)
-Başrol bu. 
-- Ağaçların, ayın, sisin ve tekne ışıklarının gerçek zamanlı yansımaları
-- Okyanus dalgaları değil, hafif bir kabarma
-- Yüzeyde duran ve sallanan nilüfer yaprakları
-- Köklerin yakınında kıyı köpüğü / koyu tanenli su
-- Ay ışığı yolunun sinematik hissettireceği kadar iyi ekran uzayı veya düzlemsel yansımalar
-- 60 fps'yi koruyun. Ağaçlar için LOD, bitkiler için instancing kullanın.
-
-TEKNE
-Küçük, yıpranmış bir kabinli sandal / iş teknesi.
-- Kıçta 86 gövde numarası
-- Beyaz kabin, koyu mavi gövde, sıcak iç mekân lambaları
-- Kanal boyunca boşta süzülme, isteğe bağlı yavaş yönlendirilmiş tur
-- HUD hız göstergesi yaklaşık 15.9 KNOTS
-- Mod etiketi: GUIDED DRIFT
-Oyuncu çevresine bakabilmeli. Tekne sinematik bir takip kamerasıyla izlenebilmeli veya yandan yörüngesel olarak görüntülenebilmeli.
-
-KAMERA
-- Ağaçların arasında teknenin üç çeyrek açıdan görünümüyle başlayın
-- Ay ışığıyla aydınlanan geçitte kıçın arkasından süzülün
-- Ön plandaki bir gövdenin yanından ara sıra kayarak geçin
-- Bakış yönünü değiştirmek için sürükleyin
-- İsteğe bağlı PHOTO MODE
-Bir FPS değil, doğa belgeseli hissi vermeli.
-
-ARAYÜZ — oyunvari değil, editoryal
-Sol üst: küçük işaret + STILLWATER
-Üst orta: THE DEEP SWAMP / 19:26, pusula yönü (ör. 314°)
-Sağ üst: sade yardımcı araç simgeleri
-Sol alt:
-  EXPLORING STILLWATER
-  Heron bend
-  Vahşi doğa için biraz yer bırak.
-  15.9 KNOTS
-  GUIDED DRIFT
-Sağ alt: PHOTO MODE, fps, Duraklat
-Alt orta: küçük bildirim "Keşfedildi: Heron bend"
-Küçük ipucu satırı: shader'lar / su / bakış için sürükleyin / fotoğraflar / yaban hayatı
-
-Görünüm: koyu, filmik renk düzeni; soluk yeşiller, macenta bulutlar ve tek bir ay parıltısı. Gerçekçilikten çok estetik. Şişkin bir debug arayüzü olmasın.
-
-TEKNİK
-Tarayıcıda Three.js. Prosedürel / instanced doğa. Özel su shader'ı. Sis. Yumuşak gölgeler veya önceden oluşturulmuş hissi veren alacakaranlık aydınlatması. Kendiniz üretebiliyorsanız hazır asset mağazasından alınmış bataklık paketi kullanmayın.
-
-ÇATIŞMA, envanter, ani korkutma efektleri veya hazine avı EKLEMEYİN. İleride suyun altında bir şey gizlenebilir — ama şimdi değil.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103308083242082314) · [Orijinal gönderi](https://x.com/YouWareAI/status/2103310302993621090) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103303303358534021"></a>
-
-### Etkileşimli 3B okyanus roket fırlatma sekansı
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Etkileşimli 3B okyanus roket fırlatma sekansı"></a>
-
-**İstem**
-
-```text
-Şafak vakti bir okyanus platformundan gerçekleşen, sinematik ve son derece ayrıntılı, etkileşimli bir 3B roket fırlatması oluşturun. Projenin tamamını Chrome'da doğrudan açılabilen tek bir HTML dosyasında teslim edin. Three.js + WebGL ve prosedürel varlıklar kullanın. Mümkün olan yerlerde varlıkları dosyaya gömün; işleme kütüphanesi için güvenilir bir CDN kullanılabilir.
-
-SANAT YÖNLENDİRMESİ
-Güneş doğmadan önce karanlık, mavi-mor tonlardaki okyanustan atmosferin üzerindeki sıcak güneş ışığına etkileyici bir geçiş oluşturun. İnandırıcı oranlar, ayrıntılı malzemeler, atmosferik derinlik ve özenle oluşturulmuş kamera açıları kullanın. Sonuç, özenle hazırlanmış minyatür bir uzay uçuşu filmi hissi vermeli.
-ROKET VE FIRLATMA PLATFORMU
-Biçimlendirilmiş bir burun konisi, panel birleşim çizgileri, yapısal halkalar, kademeler arası bağlantılar, motor nozulları ve iki parçaya ayrılan bir yük kaportası bulunan inandırıcı, çok kademeli bir roket oluşturun.
-
-Destek kulesi, geri çekilen strongback, servis kolları, korkuluklar, merdivenler, borular, ekipmanlar, projektörler ve yanıp sönen uyarı ışıkları içeren ayrıntılı bir yüzer fırlatma platformu oluşturun. Tüm yapıları fiziksel olarak birbirine bağlı ve doğru konumlandırılmış tutun.
-FIRLATMA SEKANSI
-Yaklaşık 46 saniyelik bir sekans oluşturun:
-
-Platformun çevresinde genel plan kamera hareketi.
-
-Servis kolları ve strongback geri çekilir.
-Motorlar ateşlenir; roketi, platformu ve yakındaki suyu aydınlatır.
-Roket havalanıp hızlanırken duman güverteye yayılır.
-Kamera, atmosferden uzaya doğru yükselişi takip eder.
-İlk kademe ayrılır ve geride kalıp düşer.
-İkinci kademenin motoru ateşlenir.
-Kaporta parçaları ayrılarak uyduyu ortaya çıkarır.
-Motor kapanır, uydu konuşlandırılır ve güneş panelleri açılır.
-Dünya'nın kavisli ufku ve gün doğumu önünde uyduyu gösteren bir yörünge görüntüsüyle bitirin.
-Hareketin tutarlılığını korurken sunum için uçuş zaman çizelgesini sıkıştırın. Ani konum değişikliklerinden, kesişen parçalardan veya birbirinden kopuk efektlerden kaçının.
-OKYANUS, ATMOSFER VE EFEKTLER
-Fresnel yansımaları ve motor ışığının sıcak yansımalarını içeren, animasyonlu ve shader tabanlı okyanus dalgaları kullanın. Parlak bir çekirdek, daha yumuşak bir dış alev ve sürüklenen duman parçacıklarından oluşan katmanlı egzoz oluşturun.
-Duman genişlemeli, solmalı ve rüzgâra tepki vermeli. Kademelendirme sırasında egzoz doğru motora bağlı kalmalı. Atmosferik pus ile karanlık yıldız alanı ve Dünya'nın aydınlık kenarı arasındaki geçişi yumuşak yapın.
-
-KAMERA VE ETKİLEŞİM
-Yumuşak sinematik kamera geçişleri kullanın: geniş genel plan, alçak açıdan ateşleme görüntüsü, yükseliş takibi, kademe ayrılması ve uydu yakın planı. Ana konuyu hem dikey hem de yatay yerleşimlerde görünür tutun.
-
-Olay işaretçileri bulunan oynat/duraklat ve yeniden oynat kontrolleri ile bir zaman çubuğu ekleyin. İleri veya geri sarma işlemi, roketin doğru yapılandırmasını, parçacık durumunu, kamera konumunu ve aydınlatmayı yeniden oluşturmalı. Yeniden oynatma, tüm sekansı temiz bir şekilde sıfırlamalı.
-Arayüzü minimal ve dikkat dağıtmayacak şekilde tutun. Kayıt sırasında gizlenmesine izin verin.
-
-TEKNİK KALİTE
-Kare hızından bağımsız animasyon ve verimli parçacık sistemleri kullanın. Uygun yerlerde geometri ve malzemeleri yeniden kullanın, yeniden boyutlandırmayı doğru şekilde yönetin ve görsel ayrıntıyla akıcı performans arasında denge kurun.
-
-Son HTML dosyasını bir masaüstü tarayıcısında test edin. Konsolu inceleyin ve ateşleme, havalanma, kademelendirme ve uydu konuşlandırma anlarında ekran görüntüleri alın. Dosyayı teslim etmeden önce yükleme hatalarını, kırpılmaları, geometri sorunlarını, bozuk zaman çubuğu işlevini ve kötü kamera kadrajını düzeltin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
-
-ART DIRECTION
-Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
-ROCKET AND LAUNCH PLATFORM
-Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
-
-Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
-LAUNCH SEQUENCE
-Create an approximately 46-second sequence:
-
-Establishing camera move around the platform.
-
-Service arms and strongback retract.
-Engines ignite, illuminating the rocket, platform, and nearby water.
-Smoke spreads across the deck as the rocket lifts off and accelerates.
-The camera follows the climb from the atmosphere toward space.
-The first stage separates and falls away.
-The second-stage engine ignites.
-The fairing halves separate, revealing a satellite.
-The engine shuts down, the satellite deploys, and its solar panels unfold.
-Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
-Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
-OCEAN, ATMOSPHERE, AND EFFECTS
-Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
-Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
-
-CAMERA AND INTERACTION
-Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
-
-Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
-Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
-
-TECHNICAL QUALITY
-Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
-
-Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103303303358534021) · [Orijinal gönderi](https://x.com/Artless101/status/2103303449831964679) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103257687492374597"></a>
-
-### Claude Opus 5.5 için etkileşimli ortaçağ krallığı
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Claude Opus 5.5 için etkileşimli ortaçağ krallığı"></a>
-
-**İstem**
-
-```text
-Kendi ortaçağ krallığını inşa et.
-Krallığın Claude Opus 5.5'i temsil ediyor. Mimari, arma tasarımları, renkler ve atmosfer aracılığıyla bu modelin kimliğini yansıtan görkemli, tarihsel esintili bir kale tasarla. İnandırıcı bir ortaçağ ortamı içinde sanatsal açıdan tamamen özgürsün.
-Genel geçer bir kalenin üzerine yalnızca logo yerleştirmekle yetinme. Krallığına ayırt edici bir mimari karakter ve tutarlı bir görsel kimlik kazandır. Krallığın armasını ve kraliyet renklerini oluştur, özgün bir heraldik sembol tasarla. Bunları hareketli sancaklarda, kalkanlarda, kapı süslemelerinde ve kale muhafızlarının kıyafetlerinde sergile. Krallığın adını ana girişin üzerine yerleştir.
-Three.js ve WebGL kullanarak ayrıntılı, etkileşimli bir 3B sahne oluştur. Her şeyi doğrudan Chrome'da açılabilen tek bir bağımsız HTML dosyasında teslim et.
-KALE
-Merkezinde iç kale bulunan; kuleleri, mazgalları, surları, etkileyici bir kapı yapısı, çalışan bir asma köprüsü ve avlusu olan inandırıcı bir hisar inşa et.
-Özenle modellenmiş taş işçiliğine, kemerli pencerelere, ahşap kapılara, çatı yapılarına, merdivenlere, balkonlara, demir aksesuarlara ve küçük mimari ayrıntılara yer ver. Yapıları inandırıcı kıl: Kulelerin iç mekânları veya ikna edici bir derinliği olmalı, merdivenler erişilebilir katları birbirine bağlamalı ve köprülerin uygun destekleri bulunmalı.
-Kaleyi krallığına uygun, çekici bir manzarayla çevrele: kayalıklar, tepeler, bir nehir, hendek, ormanlar veya küçük bir köy kullanabilirsin. Birden fazla açıdan güzel görünen güçlü bir kompozisyon tasarla.
-YAŞAM VE ETKİLEŞİM
-Surlarda devriye gezen muhafızlar, avluda dolaşan köylüler, hafifçe dalgalanan sancaklar, baca dumanı, kuşlar ve titreyen fenerlerle krallığa hayat kat.
-İzleyicinin şunları yapabilmesini sağla:
-Asma köprüyü ve ana kapıyı açıp kapatabilme.
-Devriye gezen bir muhafızı takip edebilme.
-Sinematik genel görünüm, avlu ve surlar arasında geçiş yapabilme.
-Serbestçe döndürüp yakınlaştırabilme.
-Gündüz, gün batımı ve gece arasında geçiş yapabilme.
-Karakterleri yürünebilir yüzeylerde tut. Duvarların, kapıların veya birbirlerinin içinden geçmelerini önle.
-AYDINLATMA VE ATMOSFER
-Mimariyi net biçimde ortaya çıkaran sinematik bir aydınlatma oluştur. Yumuşak gölgeler, atmosferik derinlik, uygun yerlerde inandırıcı su ve ölçülü post-processing kullan.
-Gece, kaleyi takdir etmeye yetecek görünürlüğü korurken pencereleri, meşaleleri ve fenerleri aydınlat.
-Ayırt edici mimarisi ve zengin ayrıntılarıyla sofistike, tamamlanmış bir 3B eser hedefle. Belirgin ilkel şekillerden oluşan bir koleksiyondan veya mimari bir amacı olmayan, kendini tekrar eden kulelerden kaçın.
-TEKNİK KALİTE
-Uygun olan her yerde varlıkları prosedürel olarak oluştur. Dokuları ve diğer varlıkları HTML dosyasının içine göm. Yerel sunucu veya derleme adımı gerekmemeli.
-Uygun yerlerde instancing ve geometri birleştirme kullan. Animasyonun ve kamera etkileşiminin akıcı olmasını sağla. Minimal, zarif bir İngilizce arayüz ve bu arayüzü gizlemek için bir düğme sun.
-Sonucu masaüstü Chrome'da gerçekten test et. Ekran görüntüleri al, konsolu incele, her etkileşimi test et; oluşturma hatalarını, havada duran nesneleri, geometri kesişmelerini ve kamera sorunlarını düzelt.
-Adı okunmadan önce bile insanların bunun SENİN krallığın olduğunu anlayacağı bir kale yap.
-Tamamlanmış bağımsız HTML dosyasını teslim et.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build your own medieval kingdom.
-Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
-Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
-Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
-THE CASTLE
-Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
-Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
-Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
-LIFE AND INTERACTION
-Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
-Let the viewer:
-Open and close the drawbridge and main gate.
-Follow a guard on patrol.
-Switch between a cinematic overview, the courtyard and the battlements.
-Rotate and zoom freely.
-Change between daylight, sunset and night.
-Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
-LIGHTING AND ATMOSPHERE
-Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
-At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
-Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
-TECHNICAL QUALITY
-Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
-Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
-Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
-Make this a castle people would recognize as YOUR kingdom, even before reading its name.
-Return the completed standalone HTML file.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103257687492374597) · [Orijinal gönderi](https://x.com/vib3coded/status/2103257873203462412) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103211135214256350"></a>
-
-### Keşfedilebilir sisli sonbahar Three.js deneyimi
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="Keşfedilebilir sisli sonbahar Three.js deneyimi"></a>
-
-**İstem**
-
-```text
-Tek bir HTML/CSS/JS dosyasında, keşfedilebilir bir Three.js deneyimi içinde sisli, yağmurlu, sonbaharı andıran, gizemli ve nostaljik bir atmosfer oluşturmanızı istiyorum.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103211135214256350) · [Orijinal gönderi](https://x.com/SimonasLTU1/status/2103211135214256350) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103187935759655167"></a>
-
-### Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="Northbound: Etkileşimli Viking Uzun Gemisi Yolculuğu"></a>
-
-**İstem**
-
-```text
-“Northbound”u, ayrıntılı bir Viking uzun gemisiyle Nordik bir fiyortta gerçekleştirilen güzel ve etkileşimli bir 3B yolculuk olarak oluşturun.
-
-Three.js ve WebGL kullanarak, tek başına çalışabilen bir HTML dosyası olarak teslim edilen gerçek zamanlı bir sahne oluşturun. Bu, önceden oluşturulmuş bir video veya düz bir illüstrasyon değil, tarayıcıda keşfedilebilen bir deneyim olmalıdır.
-
-GÖRSEL YÖNLENDİRME
-
-Gerçekçi malzemelere, doğal oranlara ve ölçülü renklere sahip, özenle hazırlanmış sinematik bir ortam hedefleyin. Karikatür veya düşük poligon görünümünden kaçının.
-
-Ahşap bir uzun gemi; yüksek kayalıkların, sık ormanların, şelalelerin ve küçük Nordik yerleşimlerin arasındaki koyu yeşil-mavi sularda ilerler. Atmosferik perspektif, hafif sis, yumuşak gölgeler ve inandırıcı bir derinlik kullanın. Yolculuk boyunca yalnızca başlangıç kamera konumundan değil, farklı noktalardan da güzel manzaralar oluşturun.
-
-UZUN GEMİ
-
-Üst üste binen ahşap kaplama tahtaları, görünür damarlar, kaburgalar, oturma sıraları ve kesintisiz bir iç bölümü olan ayrıntılı, su geçirmez bir gövde oluşturun.
-Oyma ejderha pruvası, çizgili kumaş yelken, direk, halatlar, kalkanlar, erzaklar ve sıcak ışık veren fenerler ekleyin.
-Katmanlı kıyafetler giyen, inandırıcı oturma pozlarına sahip ve elleri küreklerine yakın konumlandırılmış, orantılı Viking yolcular ve kürekçiler ekleyin.
-Her bileşeni fiziksel olarak birbirine bağlı tutun. Havada duran yolculara, aksesuarların birbirinin içine geçmesine veya gövdenin içinden görünen boşluklara izin vermeyin.
-Hafif yüzme, baş-kıç yalpası ve yana yatma hareketlerini animasyonla verin. Yelken rüzgâra nazikçe tepki vermelidir.
-
-SU VE KÜREK ÇEKME
-
-Suyu görsel açıdan temel bir unsur hâline getirin.
-
-Düzlemsel yansımalar, kırılma, Fresnel parlamaları, derinliğe bağlı soğurma, görünür sığ alanlar ve katmanlı yüzey dalgacıkları içeren özel bir shader kullanın. Yansımalar, hareketli kameraya ve değişen aydınlatmaya doğru şekilde tepki vermelidir.
-
-Geminin arkasında inandırıcı bir iz oluşturun.
-
-Eksiksiz bir kürek çekme döngüsünü animasyonla verin: kürek palaları suya girsin, geriye doğru çekilsin, sudan kaldırılsın ve yüzeyin üzerinden başlangıç konumuna dönsün. Bu hareketi kürekçilerin hareketleriyle eşleştirin.
-
-Palaların suya gerçekten temas ettiği noktalarda dalgacıklar, köpük ve küçük su damlaları oluşturun. İzler dünya uzayında kalmalı ve zamanla yavaşça kaybolmalıdır. Palalar havadayken efektlerin görünmesinden kaçının.
-
-ORTAM VE MALZEMELER
-
-Ayrıntılı arazi, düzensiz kaya oluşumları, doğal ağaç siluetleri, dallanan gövdeler ve tek tek yaprak veya iğne kümeleri kullanın.
-
-Ahşap, taş ve zemin için normal ve pürüzlülük haritalarına sahip PBR malzemeleri kullanın. Uygun lisansa sahip dokuları gömebilirsiniz; gerektiğinde kaynak belirtin.
-
-Su altındaki arazi yüzeyin altında da devam etmelidir. Parlak dikişlere, kıyı boşluklarına, havada duran bitkilere veya seyir rotasını engelleyen ağaçlara izin vermeyin.
-
-CONTROLS
-
-A/D veya ok tuşları: sola ve sağa yön verin.
-W/S: hızı ayarlayın.
-Fareyle sürükleme: etrafa bakın.
-Takip, yörünge ve sinematik kamera modları sunun.
-İsteğe bağlı otomatik yolculuk modu ekleyin.
-Duraklatma, sıfırlama, tam ekran ve arayüzü gizleme kontrolleri ekleyin.
-Mobil cihazlarda dokunmatik yön ve hız kontrollerini destekleyin.
-Geminin karadan ve kayalardan geçmesini önleyin.
-
-ATMOSFER VE ARAYÜZ
-
-Üç aydınlatma ön ayarı sunun: Sabah, Bulutlu ve Ay Işığı. Bu ön ayarlar arasında yumuşak geçişler olmalıdır.
-
-İsteğe bağlı ortam suyu, rüzgâr, kuş ve kürek çekme sesleri ekleyin. Ses yalnızca kullanıcı etkileşiminden sonra başlamalıdır.
-
-Minimal bir editoryal arayüz tasarlayın: zarif serif yazı tipinde “Northbound.”, ince bölüm etiketleri ve kompakt, yarı saydam bir kontrol çubuğu kullanın. Manzaranın önünü kapatmayın.
-
-PERFORMANS VE TESLİM
-
-Instancing, makul geometri bütçeleri, mesafeye bağlı ayrıntı seviyesi ve uygun boyutlu yansıma hedefleri kullanın. Sabit bir kare hızı vaat etmek yerine işleme kalitesini cihaza göre uyarlayın.
-
-Komut dosyaları ve gerekli varlıklar gömülü olan tek bir HTML dosyası teslim edin; dosya modern bir tarayıcıda doğrudan açılabilmelidir.
-
-Yönlendirmeyi, kamera modlarını, aydınlatma geçişlerini ve kürek çekme animasyonunu test edin. Gemiyi farklı açılardan inceleyin ve kıyı hattını alçak bakış noktalarından kontrol edin. Sahneyi tamamlanmış kabul etmeden önce geometri kesişimlerini, yansıma kusurlarını, aşırı parlamayı ve konsol hatalarını düzeltin.
-
-Daha fazla nesne eklemek yerine inandırıcı suya, güzel tasarlanmış bir uzun gemiye ve bütünlüklü bir ortama öncelik verin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
-
-Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
-
-VISUAL DIRECTION
-
-Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
-
-A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
-
-THE LONGSHIP
-
-Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
-Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
-Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
-Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
-Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
-
-WATER AND ROWING
-
-Make the water a central visual feature.
-
-Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
-
-Create a believable wake behind the ship.
-
-Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
-
-Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
-
-ENVIRONMENT AND MATERIALS
-
-Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
-
-Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
-
-Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
-
-CONTROLS
-
-A/D or arrow keys: steer left and right.
-W/S: adjust speed.
-Mouse drag: look around.
-Provide follow, orbit, and cinematic camera modes.
-Include an optional automatic journey mode.
-Add pause, reset, fullscreen, and hide-interface controls.
-Support touch steering and speed controls on mobile.
-Prevent the ship from passing through land and rocks.
-
-ATMOSPHERE AND INTERFACE
-
-Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
-
-Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
-
-Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
-
-PERFORMANCE AND DELIVERY
-
-Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
-
-Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
-
-Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
-
-Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103187935759655167) · [Orijinal gönderi](https://x.com/vib3coded/status/2103189762672611675) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103145567945986461"></a>
-
-### Boşluk: Vitray ışığıyla dolan katedralde kısa film
-
-[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Boşluk: Vitray ışığıyla dolan katedralde kısa film"></a>
-
-**İstem**
-
-```text
-three.js ile 1080×1920 dikey formatta, saniyede 30 kare ve yaklaşık 36 saniye uzunluğunda bir kısa film oluşturun.
-
-【Eser adı】
-Boşluk
-
-【İzleyiciye yaşatılacak deneyim】
-Verimlilik peşinde koşarken zamanını yitirme hissini ve boşluğa kavuştuğu anda hayatın zengin bir ışıkla dolması duygusunu, hiçbir insan göstermeden izleyiciye yaşatan bir film olsun. Finalde zeminin tamamında beliren vitray ışığıyla izleyicinin hayranlıkla nefesini tutmasını hedefleyin.
-
-【Mekân】
-・Loş, taş duvarlı bir katedralin içi. Ön duvarda yalnızca bir adet, 15 m yüksekliğinde ve 10 m genişliğinde sivri kemerli pencere bulunuyor
-・Pencerenin dışından 45 derecelik açıyla güçlü bir ışık süzülüyor ve taş zemine pencere biçiminde bir ışık düşürüyor
-・Pencerede, merkezde Meryem Ana, iki yanında kanatlarını açmış iki melek ve üst bölümde bir gül pencere bulunan bir vitray yer alıyor. Tasarım mevcut bir eseri taklit etmeyen özgün bir çalışma olacak ve kompozisyonu iki yana simetrik kurulacak
-
-【Zaman akışı】
-0–3 saniye: Pencereden süzülen ışık henüz renksiz, beyaz bir ışık. Zeminde yumuşak beyaz bir ışık şekli
-3–11 saniye: “Meşgul”, “Verimlilik”, “Acil”, “Son teslim tarihi” gibi sözcüklerin kazındığı gri küpler, mekânın ön tarafından art arda uçarak geliyor ve pencereyi dolduruyor. Küplerin geliş hızı giderek artıyor; pencere kapandıkça mekân kararıyor
-11–14 saniye: Pencere tamamen kapanıyor; karanlık ve sessizlik
-14–19 saniye: “Meşgul” yazılı bloklardan yalnızca biri pencereden ayrılıp aşağı düşüyor ve ışık parçacıklarına dönüşerek yok oluyor. Açılan delikten canlı renkli tek bir ışık huzmesi süzülüyor
-19–26 saniye: İlk deliğin merkezinden başlayarak bloklar zincirleme biçimde ayrılıyor. Her yeni delikle birlikte rengârenk ışık sütunları çoğalıyor ve gizlenmiş vitray yavaş yavaş ortaya çıkıyor
-26–33 saniye: Tüm bloklar yok oluyor; kamera ışık sütunlarının arasından geçerek yükseliyor ve zemine tam tepeden bakıyor. Zeminin tamamına, Meryem Ana ile meleklerin bulunduğu vitrayın rengârenk bir ışık yansıması düşmüş durumda
-33–36 saniye: Ekranın tamamı göz kamaştırıcı bir ışıkla kaplanıyor, son sözler beliriyor ve film sessizce sona eriyor
-
-【Sözler (Mincho yazı tipinde, hafifçe belirip kaybolacak)】
-・“Her gün, daha hızlı.”
-・“Daha verimli.”
-・“Fark ettiğimde, ışık artık içeri girmiyordu.”
-・“Bir şeyden vazgeçmeyi denemek.”
-・“Işık, açılan yerden içeri girer.”
-・“O ışık, öncekinden daha zengindi.”
-・Finalde büyük harflerle: “Zenginlik boşlukta saklıdır”
-
-【Işık ve doku】
-・Işık sütunları, vitrayın ilgili bölümünün rengine bürünüyor; havadaki tozlar parıldıyor
-・Zemindeki yansıma, pencerede hangi deliklerin açık olduğunu doğru biçimde yansıtıyor (blokların bulunduğu yerler gölgede kalacak)
-・Bloklar, dokusuz mat gri bir malzemeden oluşuyor. Sözcükler üzerlerine beyaz olarak kazınmış
-・İlk yarı soğuk ve renksiz; ikinci yarı ise mücevherleri andıran kırmızı, mavi ve altın tonlarında olacak. Renk karşıtlığı, “zenginleşme” duygusunu anlatacak
-
-【Teknik koşullar】
-・Vitray deseni bir görsel olarak üretilecek; zemindeki ışık, ışık sütunları ve pencere görüntüsü bu aynı desenden hesaplanarak birbiriyle tam uyumlu olacak
-・Zamanı 1/30 saniyelik adımlarla hassas biçimde ilerletin, kareleri tek tek dışa aktarın ve MP4 olarak birleştirin
-
-【Son rötuşlar】
-Her sahneyi gerçekten render alarak kontrol edin; vitray deseninin zeminde Meryem Ana ve melekler olarak okunup okunmadığını, sözlerin okunabilirliğini ve hareketlerin ani hissettirmediğini kontrol edip gerekli düzeltmeleri yaptıktan sonra teslim edin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
-
-【作品名】
-余白
-
-【見せたい体験】
-効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
-
-【舞台】
-・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
-・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
-・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
-
-【時間の構成】
-0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
-3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
-11〜14秒：窓は完全にふさがれ、闇と静寂
-14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
-19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
-26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
-33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
-
-【言葉（明朝体、控えめに浮かんでは消える）】
-・「毎日、もっと速く。」
-・「もっと、効率よく。」
-・「気づけば、光が入らなくなっていた。」
-・「ひとつ、手放してみる。」
-・「空いたところから、光が入る。」
-・「その光は、前より豊かだった。」
-・最後に大きく：「豊かさは余白に宿る」
-
-【光と質感】
-・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
-・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
-・ブロックは無機質なマットグレー。言葉は白く刻印されている
-・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
-
-【技術条件】
-・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
-・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
-
-【仕上げ】
-各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103145567945986461) · [Orijinal gönderi](https://x.com/AGIOyaZ/status/2103145567945986461) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103144530157687114"></a>
-
-### San Francisco'da geçen Genshin Impact tarzı oyun
-
-[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="San Francisco'da geçen Genshin Impact tarzı oyun"></a>
-
-**İstem**
-
-```text
-San Francisco'da geçen Genshin Impact tarzı bir oyun geliştir.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a Genshin Impact–style game set in San Francisco.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103144530157687114) · [Orijinal gönderi](https://x.com/every/status/2103144530157687114) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103116235009347650"></a>
-
-### Austerlitz Muharebesi: Sinematik Film
-
-[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Austerlitz Muharebesi: Sinematik Film"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
-
-**İstem**
-
-```text
-Austerlitz Muharebesi (1805) hakkında, tamamı kodla oluşturulmuş 4–5 dakikalık sinematik bir video hazırlayın.
-
-Muharebeyi kapsamlı biçimde araştırın; hikâyeyi nasıl anlatacağınıza, anlatının ritmini nasıl yapılandıracağınıza, stratejiyi nasıl açıklayacağınıza ve olayları nasıl görselleştireceğinize kendiniz karar verin. Tarihsel açıdan doğru, dramatik, anlaşılır ve görsel olarak olağanüstü bir çalışma istiyorum.
-
-Ekli tabloları katı bir stil gerekliliği olarak değil, görsel ilham kaynağı olarak kullanın. Ölçeklerini, atmosferlerini, dumanı, dramatik gökyüzünü, süvari birliklerini, yoğun düzenleri, manzarayı ve kaos hissini çok beğeniyorum. Bu hissi koda aktarmanın bir yolunu bulun; ancak daha güçlü bir görsel dil geliştirebiliyorsanız onu kullanın.
-
-Genel geçer bir infografik veya strateji oyunu hissi vermesin. Kodla oluşturulmuş olsa da sinematik bir tarih filmi gibi hissettirsin.
-
-Tüm yaratıcı kontrol sizde. Beni şaşırtın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
-
-Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
-
-Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
-
-Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
-
-You have complete creative control. Surprise me.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103116235009347650) · [Orijinal gönderi](https://x.com/WinterArc2125/status/2103116689944502720) · [Kaynak kodu](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103106070549757960"></a>
-
-### Three.js ile Eyfel Kulesi oluşturun
-
-[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Three.js ile Eyfel Kulesi oluşturun"></a>
-
-**İstem**
-
-```text
-Three.js ile Eyfel Kulesi oluşturun.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build the Eiffel Tower in Three.js.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103106070549757960) · [Orijinal gönderi](https://x.com/0xPascual/status/2103106070549757960) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — 3B Ada Topçuluğu
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — 3B Ada Topçuluğu"></a>
-
-**İstem**
-
-```text
-1. Proje amacı
-Crazy Tanks — Wild Tides adlı, tropik bir adada geçen, oynanabilir ve gerçek anlamda üç boyutlu, sıra tabanlı bir topçu oyunu oluşturun. Oyuncu küçük bir tankı nişan alır, rüzgârı okur, gücü sıfırdan doldurup doğru anda ateşler ve mermilerle savaş alanının şeklini değiştirir. Yapay zekâya karşı tek oyunculu ve yerel sırayla oynama modlarını destekleyin. Varsayılan modda üç tankın serbest savaşı, isteğe bağlı olarak da iki tanklı düello bulunsun. Hayatta kalan son tank kazanır. Görsel hedef olarak mevcut referans oynanışını ve ekran görüntülerini kullanın.
-
-2. Görsel stil
-Sabit bir yandan görünüm veya düz sprite'lar yerine perspektif kamera ve serbestçe döndürülebilen 3B geometri kullanın. Yuvarlatılmış yeşim yeşili, mercan turuncusu ve mavi-mor tanklar; krem rengi kum; açık yeşil çimen; turkuaz, yansıtıcı su; yumuşak gölgeler ve hafif atmosferik uzaklık sisiyle güneşli, minyatür bir diorama oluşturun. Üç tankın ayırt edici silüetlerini ve bunlarla eşleşen namluları koruyun. Savaş alanının üzerinde kompakt, krem renkli yuvarlak/zırh paneli; altında ise koyu teal renkli, yuvarlatılmış bir kontrol paneli kullanın. Altın rengi, referans gücü ve ateşleme eylemini; mint rengi ise gerçek dolum gücünü ve dost durumunu belirtir. Tripo / Three.js görünüm değiştirme seçeneğini üst kısımda belirgin tutun ve varsayılan olarak Tripo varlıklarını kullanın. Görünüm değiştirilirken karşılaşma ve fizik durumu korunmalıdır. İnce ve eşit aralıklı teal ekran-uzayı çizgileri ile sade bir iniş dairesi kullanın; nişan grafiklerini suya yansıtmayın.
-
-3. Dünya ve sahne
-Yaklaşık 260 × 184 metre boyutlarında, sabit deniz seviyesindeki okyanusla çevrili, parçalanabilir bir yükseklik alanı adası kullanın. Başlangıç tanklarını sağlam zeminde birbirinden uzağa yerleştirin; kayalar, palmiyeler, kaktüsler ve toplanabilir ikmal sandıkları dağıtın. Daha küçük dekoratif adalar arka plan derinliği sağlasın ve asla parçalanabilir ana arazinin yerine geçmesin. Patlamalar yüzeyi deforme edebilmeli ve deniz seviyesinin altına kadar kazabilmelidir. Üst üste binen düzlemleri ve titreşmeyi önlemek için kıyı rengini ve köpüğü tek bir su yüzeyinde tutun. Tank numaralarını her oluşturulan karede dünya konumlarından yansıtın. Tam yörünge, tank, serbest kamera dönüşü ve taktik kuş bakışı görünümleri sağlayın. Yörünge görünümü, ateş eden tankı, yayı ve tahmini iniş noktasını HUD ile kontrol paneli arasındaki alana sığdırmalıdır. Her atıştan önce ateş eden tankı yaklaşık 0,8 saniye gösterin, namluda kısa süre bekleyin ve ardından mermiyi takip edin. Manuel kamera etkileşimi sinematik takibi iptal eder.
-
-4. Varlık envanteri
-Kararlı model yuvaları kullanın ve yedek modellerin her birine ayrı ayrı erişilebilmesini sağlayın:
-- jade-body: yuvarlatılmış, yeşil, kalkan biçimli paletli gövde; oyuncunun varsayılan gövdesi. jade-cannon: koyu namlu ağzına ve altın rengi ayrıntılara sahip, eşleşen yeşim yeşili namlu; bağımsız olarak hareket ettirilebilir.
-- ember-body: alçak mekanik profile sahip, mercan turuncusu renkli, sivri zırhlı gövde. ember-cannon: daha uzun, eşleşen turuncu namlu ve koyu namlu ağzı.
-- bolt-body: köşeli plakalı zırha sahip, mavi-mor renkli endüstriyel paletli gövde. bolt-cannon: eşleşen kalın mavi namlu.
-- shell: koyu renkli, konik uçlu ve camgöbeği ayrıntılı pirinç topçu mermisi. Silaha özgü renk tonu ve ölçekle yeniden kullanın.
-- crate: camgöbeği işaretli ve güçlendirilmiş köşelere sahip sarı zırhlı ikmal sandığı; toplayınca 20 zırh verir, üst sınır 100'dür.
-- rock: sıcak tonlu, yuvarlak kumtaşı kümesi; farklı ölçeklerde tekrarlayın ve ayrı bir çarpışma vekili kullanın.
-- palm: kıvrımlı gövde ve katmanlı yeşil yapraklar; ada bitkisi olarak tekrarlayın.
-- cactus: küçük çiçek ayrıntılarına sahip kompakt yeşil kaktüs; kuru arazide tekrarlayın.
-- islet: açık renkli kaya/kum kenarlarına sahip, yuvarlak çimenli arka plan adası; arenanın ötesinde tekrarlayın.
-Önceliği üç eşleşen gövde/namlu çiftine, ardından mermi/sandık ve çevre nesnelerine verin. Arazi deformasyonunu, okyanusu, köpüğü, ateşi, dumanı, şok dalgalarını, enkazı, nişan grafiklerini, aydınlatmayı, kullanıcı arayüzünü ve çarpışma vekillerini prosedürel tutun. Eşleşen gövde ve namlu parçaları aynı tasarım referansını ve ölçeği paylaşır. Namlu pivotunu mekanik eklemine yerleştirin, ileri eksenini +X yönüne hizalayın ve görünen namlu ağzını fiziksel fırlatma noktası olarak kullanın. Tank gövdelerini eğimlere kuaterniyonlarla uydurun; taret nişanı dünya uzayı yönü olarak kalmalıdır. Kaynak PBR dokularını ve UV dikişlerini koruyun. Tam çözünürlüklü indirilebilir modelleri optimize edilmiş oyun çalışma zamanı kopyalarından ayrı tutun; referanslar ve dosya kökeni gerçek üretim kaynağını belirtmelidir.
-
-5. Oynanış ve geri bildirim
-Hayatta olan her tank, sırası başladığında 18 metre hareket hakkı kazanır. WASD ve hareket pedi ekrana göre hareket eder; ok tuşları ve nişan pedi yatay ve dikey nişanı ayarlar. Kaydırıcılar yatay nişanı, 10–80 derece dikey nişanı ve 0–100 referans gücünü sağlar. Rakip seçmek yalnızca tankı ona döndürür; atışı kendi başına hesaplamamalıdır.
-Teal yay, rüzgâr yokken seçilen referans gücünü tahmin eder. Şarj sırasında bu referansı ve altın işaretçisini sabit tutun. Odaklanmış Ateş Et düğmesinde Ateş Et, Boşluk veya Enter tuşuna basılı tutmak, her seferinde gerçek gücü 0'dan başlatır; güç saniyede 18 yüzde puanı artar, 100'de sabit kalır ve bırakıldığı anda gerçek güç neyse tam olarak bir kez ateş edilir. Hızlı dokunuş zayıf bir atış yapar. 3 yüzde puanı içindeki altın bant yalnızca görsel geri bildirimdir; yaklaştırma veya gizli düzeltme yapılmaz. İşaretçi iptalinde, pencere odağı kaybolduğunda veya görünürlük kaybında işlemi iptal edin. Şarj sırasında hareket, hedef ve nişan değişikliklerini kilitleyin. Aralık girişi klavye kontrolleri aynı zamanda tareti döndürmemelidir. Sıfır güç, sabit duran mermi değil, en düşük fırlatma hızını ifade eder.
-Ok ve görünür biçimde sürüklenen rüzgâr çizgileri, rüzgârın mermiyi ittiği yönü gösterir. Rüzgârın gücünü ve saniyedeki metre cinsinden hızını etiketleyin; rüzgâr kartına tıklamak açıklamasını açmalıdır. Rüzgâr sola esiyorsa oyuncu bir miktar sağa nişan almalıdır. Daha güçlü rüzgâr ve daha uzun havada kalma süresi daha fazla sürüklenmeye neden olur. Rüzgâr atış boyunca sabit kalır ve her tur değişir. Oyuncunun önizlemesini asla otomatik olarak telafi etmeyin. Araziye inişi yaklaşık olarak tahmin edin; önizlemede tank/kaya çarpışmaları, küme parçalanması veya sekme sözü vermeyin.
-Altı mühimmat sağlayın: sınırsız HE; beş alçalan alt mühimmata ayrılan kümeli mermi; 28 metre çapa ve 13 metre derinliğe kadar krater açan Seismic; iki kez seken bir sekmeli mermi; tank başına bir adet, 46 metre çapa ve 22 metre derinliğe kadar krater açan Cataclysm; ve 12 metre yarıçapında ateş bölgesi bırakan Incendiary. Ateş, altı eylem sonunun her birinde 8 hasar verir; bölgenin dışına çıkmak hasarı önler ve üst üste gelen bölgeler birikmez. Deniz suyu alevleri söndürür. Yükseltilmiş namlusu da dâhil olmak üzere tankın tamamı suyun tamamen altına girdiğinde hemen elenir. Gerçek hasarı, zırh kaybını, arazi çökmesini, su sıçramasını ve elenme sonucunu gösterin.
-Katmanlı ateş topları, genişleyen şok halkaları, ışık saçan kıvılcımlar, balistik parçacıklar, toz ve duman kullanın; kamera sarsıntısını ölçülü tutun. Sağlanan özgün ElevenLabs müziğini ve top, çarpma, sekme, ağır patlama, ateş ve sıçrama seslerini kullanın. Ses açma/kapatma, duraklatma/devam ettirme, talimatlar, yeniden oynatma ve menüye dönme seçeneklerini ekleyin. Mermi uçuşu veya yapay zekâ turları sırasında Turuma dön seçeneği sunun: aynı sabit zaman adımı simülasyonunu hızla çalıştırın ve tüm hasar, arazi ve tehlike sonuçlarını koruyun. Yerel arkadaşın giriş turunu asla atlamayın.
-
-6. Teknik uygulama
-ES modülleri ve Vite ile Three.js kullanın; yazı tiplerini yerel olarak paketleyin, efektler için Web Audio, döngüsel müzik için HTML audio öğesi kullanın. Kaynakları aynı origin üzerinde tutun ve statik derlemeyi destekleyin. Antialiasing kullanan perspektif bir oluşturucu, makul gölge ve post-processing bütçeleri ve geçici geometri/materyallerin doğru şekilde temizlenmesini sağlayın. Model süslemelerini oyun çarpışmalarından ayırın.
-Oluşturma işleminden bağımsız, metre/saniye birimli deterministik fizik kullanın; yer çekimi 9.81 m/s², sabit zaman adımı ise 1/120 saniye olsun. Yüksek hızlı mermilerin zemin, su, tank ve kayalarla çarpışması için sürekli süpürülmüş çarpışmalar kullanın; yerinden oynayan tanklara patlama itmeleri ve yer çekimi uygulayın. Fırlatma konumlarını tanka özgü gerçek namlu dönüşümünden türetin. Normal oynatma ve hızlı ileri sarma aynı simülasyon güncellemelerini çağırmalıdır. Hasar ve rüzgâra tepki, mühendislik amaçlı patlama simülasyonu değil, stilize oyun kurallarıdır.
-Çince, İngilizce, Japonca ve Korece kullanıcı arayüzlerini destekleyin. İlk açılışta cihaz dilini kullanın; Hong Kong, Makao, Tayvan ve Geleneksel Çince kullanan cihazlarda varsayılan dil İngilizce olsun. Açıkça yapılan seçimleri hatırlayın ve görünür bir dil seçici sunun. Masaüstü, dikey telefon ve kısa yatay ekran düzenlerine uyum sağlayın; kısa ekran menülerini kaydırılabilir yapın, dokunma hedeflerini rahat kullanılır boyutta tutun, panelleri daraltılabilir yapın ve kontrollerin üst üste binmesini önleyin. Dokunmatik cihazlarda klavye girişi gerektirmeyin. Yalnızca geliştirme amaçlı durum değişikliklerini ve nişan yardımcılarını üretim kodundan çıkarın.
-
-7. Tamamlanma kriterleri
-Düzenlenebilir, bağımsız bir kaynak proje, kilit dosyası, npm geliştirme/derleme talimatları ve çalışan bir statik önizleme teslim edin. Krem renkli durum paneli, sabit altın referans işaretçisi, sıfırdan başlayan canlı güç dolumu ve tamamen 3B tank/ada sunumu dâhil olmak üzere mevcut ekran görüntüleriyle oynanış videosuna uyun. İlk açılışı, model yüklemeyi, eksiksiz bir tur döngüsünü, her mühimmatın davranışını, duraklatmayı, yeniden oynatmayı ve gerçek bir kazanma/kaybetme sonucunu doğrulayın. Görünüm değiştirmenin durumu koruduğunu, klavye/dokunma iptalinin ateşlemeye yol açmadığını doğrulayın. Rüzgârsız, açık bir test atışında referans gücünde bırakıldığında mermi referans dairesine yakın düşmelidir; zıt yönlü yan rüzgârlar, bu daireyi değiştirmeden gerçek mermiyi görünür biçimde saptırmalıdır. 30/60/144 Hz davranışını, yüksek hızlı çarpışmayı, derin kraterleri, ateşin sönmesini, tamamen suya batma sonucu elenmeyi ve normal/hızlı ileri sarma turlarının aynı sonuçları üretmesini kontrol edin. Dört dilde masaüstü ve dar ekran düzenlerini inceleyin; tarayıcı emülasyonunu fiziksel cihaz testlerinden ayrı olarak belirtin. Yalnızca yerel derlemeyi değil, barındırılan sayfayı ve bağlantılı medyayı da doğrulayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/crazy-tanks-3d-island-artillery) · [Canlı demo](https://super-tanks-aftershock.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103087766662009118"></a>
-
-### Grid Genius için Pixar kalitesinde Three.js animasyonu
-
-[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius için Pixar kalitesinde Three.js animasyonu"></a>
-
-**İstem**
-
-```text
-Grid Genius'ı incelikli bir şekilde tanıtan bir hikâye hayal etmeni istiyorum. Hatta hikâyede Grid Genius hiç yer almayabilir; ancak uygulamamızla uyumlu olmalı ve sosyal medyada paylaşıldığında daha fazla kişinin dikkatini çekmemize yardımcı olmalı. Ardından, hayal ettiğin hikâyeden yola çıkarak Three.js/JavaScript kullanıp Pixar kalitesinde eksiksiz bir animasyon oluşturmanı istiyorum.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118) · [Orijinal gönderi](https://x.com/Anilraok/status/2103087766662009118) · [Örneklere dön](#all-prompts)
 
 ---
 

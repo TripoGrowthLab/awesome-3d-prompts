@@ -28,6 +28,18 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Bối cảnh chiến trường La Mã vào giờ vàng](#gpt-6-astra-2103351755971207251)
+- [STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt](#gpt-6-astra-2103308083242082314)
+- [Chuỗi phóng tên lửa 3D tương tác trên đại dương](#claude-opus-5-5-2103303303358534021)
+- [Vương quốc trung cổ tương tác cho Claude Opus 5.5](#claude-opus-5-5-2103257687492374597)
+- [Trải nghiệm Three.js mùa thu mù sương có thể khám phá](#gpt-6-astra-2103211135214256350)
+- [Hướng Bắc: Hành trình tương tác trên thuyền dài Viking](#gpt-6-astra-2103187935759655167)
+- [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](#claude-opus-5-5-2103145567945986461)
+- [Game phong cách Genshin Impact lấy bối cảnh San Francisco](#claude-opus-5-5-2103144530157687114)
+- [Phim điện ảnh về Trận Austerlitz](#claude-opus-5-5-2103116235009347650)
+- [Dựng tháp Eiffel bằng Three.js](#claude-opus-5-5-2103106070549757960)
+- [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
+- [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](#claude-opus-5-5-2103087766662009118)
 - [Trò chơi đạp xe thời gian thực với bồ nông](#claude-opus-5-5-2103083781490176212)
 - [Lát cam dẻo 3D tương tác](#gpt-6-astra-2103062348168618280)
 - [Xây dựng thành phố đế quốc](#claude-opus-5-5-2103046279253168554)
@@ -66,20 +78,808 @@
 - [Cảnh 3D và video Tháp Tokyo ngày và đêm](#gpt-6-astra-2102276620124062065)
 - [Bubble Bay: Đại chiến bóng nước 3D](#bubble-bay)
 - [Bản trình bày thiết kế trực thăng 3D tương tác](#gpt-6-astra-2102215638311694336)
-- [Game đua xe procedural trên trình duyệt Spline Rush](#gpt-6-astra-2102150615635816866)
-- [Website mô hình Mặt Trời 3D tương tác](#gpt-6-astra-2102038136725377200)
-- [Verdant — hòn đảo khủng long 3D tương tác](#gpt-6-astra-2101730386711634251)
-- [Tạo mô hình 3D WALL-E bằng Three.js](#gpt-6-astra-2101687900723106104)
-- [Thuyền buồm trên vùng nước rộng](#gpt-6-astra-2101616345720787130)
-- [TITANIC — Ánh sáng cuối cùng](#titanic-the-last-light)
-- [Mô hình 3D Waymo Jaguar I-Pace](#gpt-6-astra-2101325346427842909)
-- [Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu](#gpt-6-astra-2101310374033428642)
-- [Mô hình tương tác 3D động cơ máy bay](#gpt-6-astra-2101271938706685991)
-- [Môi trường 3D chân thực như ảnh hoàn chỉnh](#gpt-6-astra-2101224659861590399)
-- [Thiên hà dựa trên vật lý quỹ đạo thực tế](#gpt-6-astra-2101055500599054437)
-- [Monster Block — 45 giây phá tan thành phố](#monster-block)
 
 </details>
+<a id="gpt-6-astra-2103351755971207251"></a>
+
+### Bối cảnh chiến trường La Mã vào giờ vàng
+
+[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="Bối cảnh chiến trường La Mã vào giờ vàng"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
+
+**Prompt**
+
+```text
+NHIỆM VỤ
+Dựng một bối cảnh chiến trường La Mã vào giờ vàng trong Blender dựa trên ảnh ý tưởng được cung cấp. Được phép sử dụng công cụ tạo sinh. Bạn có thể tạo mô hình 3D cho môi trường và các thành phần của môi trường bằng những công cụ tạo sinh hiện có (Tripo trên https://t.co/JV0K8OtuWC) rồi lắp ráp chúng. Tất cả vẫn phải tạo thành một cảnh thống nhất: tỷ lệ đồng bộ, vật liệu nhất quán và ánh sáng liền mạch. Yêu cầu: Sử dụng bản đồ bump cho mặt đất và giữ cho mặt đất có độ chi tiết cao.
+Tạo một khoảng trống hình tròn trên mặt đất, bao quanh bằng các tảng đá lớn để hình thành đấu trường 1v1.
+Dựng mọi thứ theo phong cách chân thực.
+Tạo asset theo quy trình thủ tục khi có thể.
+Tạo skybox cho bầu trời giờ vàng.
+Sử dụng bóng đổ gắt.
+Tái sử dụng các vật thể (cờ, biểu ngữ, mũ sắt, đá, v.v.). Xuất một tệp GLB cho mỗi vật thể và tái sử dụng các asset đó.
+Khớp với ảnh được cung cấp gần nhất và chính xác nhất có thể.
+YÊU CẦU VỀ TIMELAPSE
+Trong quá trình dựng, sau mỗi lần bổ sung có ý nghĩa (mỗi vật thể mới, lượt áp dụng modifier, bước tạo vật liệu và bước thiết lập ánh sáng), hãy lưu ảnh chụp viewport vào thư mục timelapse/ theo thứ tự và đánh số. Khi hoàn tất, ghép các khung hình đó thành video timelapse ở tốc độ 2 fps (0,5 giây mỗi khung hình) để có thể xem toàn bộ quá trình dựng từ đầu đến cuối. Bàn giao video timelapse cùng các tệp chính.
+DELIVERABLES
+Tệp .blend, với camera và viewport được thiết lập để góc nhìn khớp chính xác với ảnh gốc.
+Video timelapse quá trình dựng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+THE TASK
+Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
+Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
+Render everything realistically.
+Create assets procedurally where possible.
+Create a skybox for golden-hour sky.
+Use harsh shadows.
+Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
+Match the supplied image as closely and accurately as possible.
+TIMELAPSE REQUIREMENT
+While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
+DELIVERABLES
+The .blend file, with camera and viewport set so the view exactly matches the original image.
+The build timelapse video.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103351755971207251) · [Bài đăng gốc](https://x.com/tonysurix/status/2103352274269675532) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103308083242082314"></a>
+
+### STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt"></a>
+
+**Prompt**
+
+```text
+Xây dựng một trải nghiệm trên trình duyệt bằng Three.js có tên STILLWATER. Tông màu: một đầm lầy dưới ánh trăng khiến người ta lạc lối. Không phải game có kẻ địch. Không phải hình ảnh siêu chân thực kiểu Unreal. Đây là một thế giới web yên tĩnh, trau chuốt và đắt giá, trong đó phản chiếu trên mặt nước là điểm nhấn. Người xem nên mải ngắm mặt nước lâu đến mức không lành mạnh.
+
+BỐI CẢNH
+- Tên địa điểm: THE DEEP SWAMP
+- Thời gian trên HUD: 19:26
+- Địa danh đầu tiên: Khúc quanh Heron
+- Khẩu hiệu bên dưới tên địa điểm: "Hãy chừa lại một khoảng cho thiên nhiên hoang dã."
+- Thông báo khám phá khi đến nơi: "Đã khám phá: Khúc quanh Heron"
+
+THẾ GIỚI
+Một đầm lầy bách ngập nước vào lúc trăng mọc / chạng vạng muộn.
+- Những cây cao, gốc nổi đầu gối, đứng giữa làn nước đen xanh
+- Rêu Tây Ban Nha buông thành những dải dài
+- Các cụm bèo súng dọc theo bờ
+- Kênh nước hẹp quanh co mở ra một khúc cua rộng hơn
+- Sương mù thể tích dày đặc, khoảng cách xa màu xanh teal-lục, bầu trời mây tím-hồng
+- Mặt trăng sáng với vệt phản chiếu dài, đứt đoạn trên mặt nước
+- Vài cánh chim bay ngang bầu trời
+- Ánh đèn cabin ấm áp từ con thuyền xuyên qua màn tối
+
+MẶT NƯỚC (đừng làm qua loa)
+Đây là nhân vật chính.
+- Phản chiếu theo thời gian thực của cây cối, mặt trăng, sương mù và đèn thuyền
+- Gợn dập dềnh nhẹ, không phải sóng biển
+- Bèo súng nằm trên mặt nước và nhấp nhô
+- Bọt ven bờ / nước giàu tannin sẫm màu gần các rễ cây
+- Phản chiếu không gian màn hình hoặc phản chiếu phẳng đủ tốt để vệt trăng có cảm giác điện ảnh
+- Duy trì 60 fps. Dùng LOD cho cây và foliage được instancing.
+
+THUYỀN
+Một chiếc xuồng cabin / thuyền công vụ nhỏ, cũ kỹ vì thời tiết.
+- Số hiệu thân tàu 86 ở đuôi
+- Cabin trắng, thân xanh đậm, đèn nội thất ấm áp
+- Trôi không tải qua kênh, có thể thêm chuyến tham quan chậm có hướng dẫn
+- Tốc độ trên HUD khoảng 15.9 KNOTS
+- Nhãn chế độ: GUIDED DRIFT
+Người chơi có thể quan sát xung quanh. Có thể bám theo thuyền bằng góc máy điện ảnh rượt đuổi / vòng ngang.
+
+CAMERA
+- Bắt đầu với góc ba phần tư, nhìn thuyền giữa những hàng cây
+- Trôi phía sau đuôi thuyền theo lối nước dưới ánh trăng
+- Thỉnh thoảng trượt ngang qua một thân cây ở tiền cảnh
+- Kéo để quan sát
+- PHOTO MODE tùy chọn
+Tạo cảm giác như phim tài liệu về thiên nhiên, không phải FPS.
+
+UI — mang tính biên tập, không giống game
+Góc trên bên trái: biểu tượng nhỏ + STILLWATER
+Chính giữa phía trên: THE DEEP SWAMP / 19:26, hướng la bàn (ví dụ 314°)
+Góc trên bên phải: các biểu tượng tiện ích tối giản
+Góc dưới bên trái:
+   ĐANG KHÁM PHÁ STILLWATER
+   Khúc quanh Heron
+   Hãy chừa lại một khoảng cho thiên nhiên hoang dã.
+   15.9 KNOTS
+   GUIDED DRIFT
+Góc dưới bên phải: PHOTO MODE, fps, Tạm dừng
+Chính giữa phía dưới: thông báo nhỏ "Đã khám phá: Khúc quanh Heron"
+Hàng gợi ý nhỏ: shader / mặt nước / kéo để quan sát / chụp ảnh / động vật hoang dã
+
+Hình ảnh: màu phim tối, xanh lục trầm, mây màu magenta, một điểm sáng từ mặt trăng. Ưu tiên gu thẩm mỹ hơn chủ nghĩa hiện thực. Không dùng GUI debug cồng kềnh.
+
+CÔNG NGHỆ
+Three.js trên trình duyệt. Thiên nhiên tạo theo quy trình / instancing. Shader mặt nước tùy chỉnh. Sương mù. Bóng mềm hoặc ánh sáng chạng vạng có cảm giác như được bake. Nếu có thể tự xây dựng thì không dùng asset pack đầm lầy từ marketplace.
+
+KHÔNG thêm chiến đấu, kho đồ, hù dọa bất ngờ hoặc nhiệm vụ truy tìm kho báu. Sau này có thể có thứ gì đó ẩn mình dưới nước — nhưng chưa phải lúc này.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103308083242082314) · [Bài đăng gốc](https://x.com/YouWareAI/status/2103310302993621090) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103303303358534021"></a>
+
+### Chuỗi phóng tên lửa 3D tương tác trên đại dương
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Chuỗi phóng tên lửa 3D tương tác trên đại dương"></a>
+
+**Prompt**
+
+```text
+Tạo một cảnh phóng tên lửa 3D tương tác, có độ chi tiết cao và đậm chất điện ảnh, từ một bệ phóng trên đại dương lúc bình minh. Bàn giao toàn bộ dự án trong một tệp HTML duy nhất, có thể mở trực tiếp bằng Chrome. Sử dụng Three.js + WebGL và tài sản tạo theo quy trình. Nhúng tài sản ở mọi nơi có thể; có thể dùng CDN đáng tin cậy cho thư viện kết xuất.
+
+ĐỊNH HƯỚNG HÌNH ẢNH
+Tạo chuyển cảnh ấn tượng từ đại dương xanh tím sẫm trước bình minh sang ánh nắng ấm áp phía trên tầng khí quyển. Sử dụng tỷ lệ thuyết phục, vật liệu chi tiết, chiều sâu khí quyển và các góc máy được dàn dựng cẩn thận. Tổng thể cần mang cảm giác như một bộ phim không gian thu nhỏ được hoàn thiện chỉn chu.
+TÊN LỬA VÀ BỆ PHÓNG
+Dựng một tên lửa nhiều tầng thuyết phục với chóp mũi tạo hình, đường ghép tấm, các vòng kết cấu, mối nối giữa các tầng, vòi phun động cơ và chụp bảo vệ tải trọng có thể tách thành hai nửa.
+
+Tạo một bệ phóng nổi có độ chi tiết cao với tháp đỡ, kết cấu đỡ có thể thu vào, cần dịch vụ, lan can, thang, đường ống, thiết bị, đèn pha và đèn cảnh báo nhấp nháy. Giữ mọi kết cấu liên kết vật lý và được đặt đúng vị trí.
+TRÌNH TỰ PHÓNG
+Tạo một chuỗi dài khoảng 46 giây:
+
+Di chuyển máy quay mở cảnh quanh bệ phóng.
+
+Các cần dịch vụ và kết cấu đỡ thu vào.
+Động cơ khởi động, chiếu sáng tên lửa, bệ phóng và vùng nước lân cận.
+Khói lan khắp mặt boong khi tên lửa cất lên và tăng tốc.
+Máy quay bám theo hành trình bay lên từ tầng khí quyển hướng ra không gian.
+Tầng thứ nhất tách ra và rơi khỏi tên lửa.
+Động cơ tầng thứ hai khởi động.
+Hai nửa chụp bảo vệ tải trọng tách ra, để lộ vệ tinh.
+Động cơ tắt, vệ tinh được triển khai và các tấm pin mặt trời mở ra.
+Kết thúc bằng góc nhìn quỹ đạo của vệ tinh trước đường chân trời cong của Trái Đất và cảnh bình minh.
+Nén dòng thời gian chuyến bay để trình diễn nhưng vẫn duy trì chuyển động mạch lạc. Tránh thay đổi vị trí đột ngột, các bộ phận giao cắt nhau hoặc hiệu ứng bị tách rời.
+ĐẠI DƯƠNG, KHÍ QUYỂN VÀ HIỆU ỨNG
+Sử dụng các sóng đại dương được tạo bằng shader và hoạt ảnh, với phản xạ Fresnel cùng phản xạ ánh sáng ấm từ động cơ. Tạo hiệu ứng khí xả nhiều lớp gồm lõi sáng, ngọn lửa ngoài dịu hơn và các hạt khói trôi dạt.
+Khói cần mở rộng, mờ dần và phản ứng theo gió. Khí xả phải luôn gắn với đúng động cơ tương ứng qua từng giai đoạn tách tầng. Chuyển mượt từ màn sương khí quyển sang nền sao tối và vành sáng của Trái Đất.
+
+MÁY QUAY VÀ TƯƠNG TÁC
+Sử dụng các chuyển cảnh máy quay mượt mà, mang tính điện ảnh: góc toàn cảnh mở cảnh, góc thấp lúc khởi động, bám theo khi bay lên, tách tầng và cận cảnh vệ tinh. Giữ chủ thể chính luôn hiển thị trong cả bố cục dọc lẫn ngang.
+
+Thêm các tính năng phát/tạm dừng, phát lại và thanh tua có đánh dấu sự kiện. Khi tua đến vị trí bất kỳ, phải tái dựng đúng cấu hình tên lửa, trạng thái hạt, vị trí máy quay và ánh sáng. Khi phát lại, phải đặt lại toàn bộ chuỗi một cách sạch sẽ.
+Giữ giao diện tối giản và không gây vướng mắt. Cho phép ẩn giao diện khi ghi hình.
+
+CHẤT LƯỢNG KỸ THUẬT
+Sử dụng hoạt ảnh độc lập với tốc độ khung hình và hệ thống hạt hiệu quả. Tái sử dụng hình học và vật liệu khi phù hợp, xử lý đúng việc thay đổi kích thước, đồng thời cân bằng độ chi tiết hình ảnh với hiệu năng mượt mà.
+
+Kiểm thử tệp HTML hoàn chỉnh trên trình duyệt máy tính. Kiểm tra console và chụp ảnh màn hình tại các thời điểm khởi động, cất cánh, tách tầng và triển khai vệ tinh. Khắc phục lỗi tải, hiện tượng cắt hình, vấn đề hình học, lỗi tua đến vị trí bất kỳ và bố cục máy quay kém trước khi bàn giao tệp.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
+
+ART DIRECTION
+Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
+ROCKET AND LAUNCH PLATFORM
+Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
+
+Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
+LAUNCH SEQUENCE
+Create an approximately 46-second sequence:
+
+Establishing camera move around the platform.
+
+Service arms and strongback retract.
+Engines ignite, illuminating the rocket, platform, and nearby water.
+Smoke spreads across the deck as the rocket lifts off and accelerates.
+The camera follows the climb from the atmosphere toward space.
+The first stage separates and falls away.
+The second-stage engine ignites.
+The fairing halves separate, revealing a satellite.
+The engine shuts down, the satellite deploys, and its solar panels unfold.
+Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
+Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
+OCEAN, ATMOSPHERE, AND EFFECTS
+Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
+Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
+
+CAMERA AND INTERACTION
+Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
+
+Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
+Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
+
+TECHNICAL QUALITY
+Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
+
+Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103303303358534021) · [Bài đăng gốc](https://x.com/Artless101/status/2103303449831964679) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103257687492374597"></a>
+
+### Vương quốc trung cổ tương tác cho Claude Opus 5.5
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Vương quốc trung cổ tương tác cho Claude Opus 5.5"></a>
+
+**Prompt**
+
+```text
+Xây dựng vương quốc trung cổ của riêng bạn.
+Vương quốc của bạn đại diện cho Claude Opus 5.5. Thiết kế một lâu đài tráng lệ lấy cảm hứng từ lịch sử, thể hiện bản sắc của mô hình này qua kiến trúc, huy hiệu, màu sắc và bầu không khí. Bạn được toàn quyền sáng tạo trong một bối cảnh trung cổ đáng tin.
+Đừng chỉ đặt một logo lên một lâu đài chung chung. Hãy tạo cho vương quốc một đặc trưng kiến trúc riêng biệt và bản sắc hình ảnh nhất quán. Tự thiết kế huy hiệu, màu sắc hoàng gia và một biểu tượng huy hiệu nguyên bản. Hiển thị chúng trên các lá cờ động, khiên, vật trang trí ở cổng và trang phục của lính canh lâu đài. Đặt tên vương quốc phía trên lối vào chính.
+Tạo một cảnh 3D tương tác giàu chi tiết bằng Three.js và WebGL. Đóng gói toàn bộ trong một tệp HTML độc lập có thể mở trực tiếp bằng Chrome.
+LÂU ĐÀI
+Xây dựng một pháo đài thuyết phục với tháp chính ở trung tâm, các tháp canh, tường thành có chòi canh, tường bao, cổng thành ấn tượng, cầu kéo hoạt động được và sân trong.
+Mô hình hóa kỹ lưỡng các mảng đá, cửa sổ vòm, cửa gỗ, kết cấu mái, cầu thang, ban công, phụ kiện sắt và những chi tiết kiến trúc nhỏ. Hãy làm cho các công trình đáng tin: tháp cần có nội thất hoặc chiều sâu thuyết phục, cầu thang phải kết nối với các tầng có thể tiếp cận, còn cầu phải có hệ thống đỡ phù hợp.
+Bao quanh lâu đài bằng một phong cảnh hấp dẫn phù hợp với vương quốc của bạn: vách đá, đồi núi, sông, hào nước, rừng hoặc một ngôi làng nhỏ. Tạo bố cục mạnh, đẹp mắt từ nhiều góc nhìn.
+SỰ SỐNG VÀ TƯƠNG TÁC
+Thổi sức sống vào vương quốc với lính canh tuần tra trên tường thành, dân làng di chuyển trong sân, cờ phấp phới nhẹ, khói từ ống khói, chim chóc và đèn lồng chập chờn.
+Cho phép người xem:
+Mở và đóng cầu kéo cùng cổng chính.
+Theo dõi một lính canh đang tuần tra.
+Chuyển đổi giữa góc nhìn toàn cảnh điện ảnh, sân trong và tường thành.
+Tự do xoay và thu phóng.
+Chuyển đổi giữa ban ngày, hoàng hôn và ban đêm.
+Giữ nhân vật trên các bề mặt có thể đi lại. Ngăn họ đi xuyên qua tường, cửa hoặc lẫn vào nhau.
+ÁNH SÁNG VÀ BẦU KHÔNG KHÍ
+Tạo ánh sáng điện ảnh làm nổi bật kiến trúc một cách rõ ràng. Sử dụng bóng đổ mềm, chiều sâu không khí, mặt nước thuyết phục khi phù hợp và hậu kỳ tiết chế.
+Vào ban đêm, thắp sáng cửa sổ, đuốc và đèn lồng nhưng vẫn giữ đủ khả năng quan sát để người xem thưởng thức lâu đài.
+Hướng đến một tác phẩm 3D tinh tế, hoàn thiện, có kiến trúc đặc trưng và dồi dào chi tiết. Tránh tạo một tập hợp các khối hình cơ bản lộ liễu hoặc những tòa tháp lặp lại mà không có mục đích kiến trúc.
+CHẤT LƯỢNG KỸ THUẬT
+Tạo asset theo quy trình ở mức tối đa trong thực tế. Nhúng kết cấu bề mặt và các asset khác vào bên trong HTML. Không cần máy chủ cục bộ hay bước build.
+Sử dụng instancing và gộp hình học khi phù hợp. Đảm bảo animation và tương tác camera mượt mà. Cung cấp giao diện tiếng Anh tối giản, tinh tế cùng một nút để ẩn giao diện.
+Thực sự kiểm thử kết quả trên Chrome máy tính. Chụp ảnh màn hình, kiểm tra console, thử mọi tương tác và sửa các lỗi render, vật thể lơ lửng, giao cắt hình học cùng các vấn đề về camera.
+Hãy biến nơi này thành một lâu đài mà mọi người có thể nhận ra là vương quốc CỦA BẠN ngay cả trước khi đọc tên.
+Trả về tệp HTML độc lập đã hoàn thiện.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build your own medieval kingdom.
+Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
+Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
+Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
+THE CASTLE
+Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
+Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
+Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
+LIFE AND INTERACTION
+Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
+Let the viewer:
+Open and close the drawbridge and main gate.
+Follow a guard on patrol.
+Switch between a cinematic overview, the courtyard and the battlements.
+Rotate and zoom freely.
+Change between daylight, sunset and night.
+Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
+LIGHTING AND ATMOSPHERE
+Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
+At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
+Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
+TECHNICAL QUALITY
+Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
+Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
+Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
+Make this a castle people would recognize as YOUR kingdom, even before reading its name.
+Return the completed standalone HTML file.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103257687492374597) · [Bài đăng gốc](https://x.com/vib3coded/status/2103257873203462412) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103211135214256350"></a>
+
+### Trải nghiệm Three.js mùa thu mù sương có thể khám phá
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="Trải nghiệm Three.js mùa thu mù sương có thể khám phá"></a>
+
+**Prompt**
+
+```text
+Tôi muốn bạn tạo một trải nghiệm Three.js có thể khám phá trong một tệp HTML/CSS/JS duy nhất, với bầu không khí mù sương, mưa rơi, đậm chất mùa thu, huyền bí và hoài niệm.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103211135214256350) · [Bài đăng gốc](https://x.com/SimonasLTU1/status/2103211135214256350) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103187935759655167"></a>
+
+### Hướng Bắc: Hành trình tương tác trên thuyền dài Viking
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="Hướng Bắc: Hành trình tương tác trên thuyền dài Viking"></a>
+
+**Prompt**
+
+```text
+Tạo “Northbound” – một hành trình 3D tuyệt đẹp, có tính tương tác qua vịnh hẹp Bắc Âu trên một chiếc thuyền dài Viking được tái hiện chi tiết.
+
+Xây dựng một cảnh thời gian thực thực sự bằng Three.js và WebGL, được cung cấp dưới dạng một tệp HTML độc lập duy nhất. Đây phải là trải nghiệm trình duyệt có thể khám phá, không phải video dựng sẵn hay hình minh họa phẳng.
+
+ĐỊNH HƯỚNG HÌNH ẢNH
+
+Hướng đến một môi trường trau chuốt, mang tính điện ảnh, với vật liệu chân thực, tỷ lệ tự nhiên và bảng màu tiết chế. Tránh phong cách hoạt hình hoặc low-poly.
+
+Một chiếc thuyền dài bằng gỗ lướt qua làn nước xanh lục lam sâu, giữa những vách đá sừng sững, rừng rậm, thác nước và các khu định cư Bắc Âu nhỏ. Sử dụng phối cảnh khí quyển, sương mù nhẹ, bóng đổ mềm và chiều sâu thuyết phục. Hãy tạo ra những góc nhìn đẹp trong suốt hành trình, không chỉ từ vị trí camera ban đầu.
+
+THUYỀN DÀI
+
+Dựng một thân thuyền chi tiết, kín nước, với các ván gỗ chồng lên nhau, thớ gỗ lộ rõ, sườn thuyền, băng ghế và khoang bên trong liền mạch.
+Thêm mũi thuyền chạm khắc hình rồng, buồm vải sọc, cột buồm, dây thừng, khiên, vật dụng và những chiếc đèn lồng tỏa ánh sáng ấm.
+Đưa vào các hành khách và người chèo Viking có tỷ lệ cân đối, trang phục nhiều lớp, tư thế ngồi thuyết phục và bàn tay đặt gần mái chèo.
+Đảm bảo mọi thành phần được kết nối về mặt vật lý. Không để hành khách lơ lửng, phụ kiện giao cắt hoặc xuất hiện khoảng hở nhìn xuyên qua thân thuyền.
+Tạo hoạt ảnh mô phỏng độ nổi, chuyển động chúi-ngẩng và lắc ngang tinh tế. Buồm phải phản ứng nhẹ nhàng với gió.
+
+MẶT NƯỚC VÀ CHÈO THUYỀN
+
+Biến mặt nước thành một điểm nhấn hình ảnh trung tâm.
+
+Sử dụng shader tùy chỉnh với phản xạ phẳng, khúc xạ, điểm sáng Fresnel, khả năng hấp thụ phụ thuộc độ sâu, vùng nước nông hiển thị rõ và các lớp gợn sóng bề mặt. Phản xạ phải phản hồi chính xác theo camera chuyển động và điều kiện chiếu sáng thay đổi.
+
+Tạo vệt sóng phía sau thuyền một cách thuyết phục.
+
+Tạo hoạt ảnh cho một chu kỳ chèo hoàn chỉnh: lưỡi mái chèo đi vào nước, kéo về phía sau, nhấc lên khỏi mặt nước rồi trở lại phía trên bề mặt. Đồng bộ chuyển động này với người chèo.
+
+Tạo gợn sóng, bọt nước và các giọt nhỏ tại đúng những điểm lưỡi mái chèo tiếp xúc với nước. Vệt nước phải duy trì trong không gian thế giới và tan dần theo thời gian. Tránh để hiệu ứng xuất hiện khi mái chèo đang ở trên không.
+
+MÔI TRƯỜNG VÀ VẬT LIỆU
+
+Sử dụng địa hình chi tiết, các khối đá có hình dạng bất quy tắc, dáng cây tự nhiên, thân cây phân nhánh và từng cụm lá hoặc kim lá riêng biệt.
+
+Sử dụng vật liệu PBR với các bản đồ normal và roughness cho gỗ, đá và mặt đất. Có thể nhúng các kết cấu bề mặt được cấp phép phù hợp; hãy ghi công khi được yêu cầu.
+
+Đảm bảo địa hình dưới nước tiếp tục liền mạch bên dưới mặt nước. Không để xuất hiện đường nối sáng, khoảng hở ở bờ, thảm thực vật lơ lửng hoặc cây cối cản trở tuyến đường có thể điều khiển.
+
+CONTROLS
+
+A/D hoặc phím mũi tên: điều khiển lái sang trái và phải.
+W/S: điều chỉnh tốc độ.
+Kéo chuột: quan sát xung quanh.
+Cung cấp các chế độ camera bám theo, quỹ đạo và điện ảnh.
+Bao gồm chế độ hành trình tự động tùy chọn.
+Thêm các điều khiển tạm dừng, đặt lại, toàn màn hình và ẩn giao diện.
+Hỗ trợ điều khiển lái và tốc độ bằng cảm ứng trên thiết bị di động.
+Ngăn thuyền đi xuyên qua đất liền và đá.
+
+KHÔNG KHÍ VÀ GIAO DIỆN
+
+Cung cấp ba thiết lập chiếu sáng chuyển tiếp mượt mà: Buổi sáng, Nhiều mây và Ánh trăng.
+
+Thêm tùy chọn âm thanh môi trường của nước, gió, chim và tiếng chèo. Âm thanh chỉ được bắt đầu sau khi người dùng tương tác.
+
+Thiết kế giao diện biên tập tối giản: “Northbound.” bằng kiểu chữ serif thanh lịch, nhãn chương tinh tế và thanh điều khiển nhỏ gọn, bán trong suốt. Giữ cho phong cảnh không bị che khuất.
+
+HIỆU NĂNG VÀ TRIỂN KHAI
+
+Sử dụng instancing, ngân sách hình học hợp lý, mức độ chi tiết theo khoảng cách và các mục tiêu phản xạ có kích thước phù hợp. Điều chỉnh chất lượng render theo thiết bị thay vì cam kết một tốc độ khung hình cố định.
+
+Cung cấp một tệp HTML duy nhất với các script và tài nguyên cần thiết được nhúng, để có thể mở trực tiếp trong trình duyệt hiện đại.
+
+Kiểm tra điều khiển lái, các chế độ camera, chuyển cảnh chiếu sáng và hoạt ảnh chèo. Quan sát thuyền từ nhiều góc độ, đồng thời kiểm tra đường bờ từ các góc nhìn thấp. Sửa lỗi giao cắt hình học, hiện tượng bất thường trong phản xạ, độ chói quá mức và lỗi trong console trước khi xem cảnh là hoàn thiện.
+
+Ưu tiên mặt nước thuyết phục, một chiếc thuyền dài được dựng tuyệt đẹp và môi trường nhất quán, thay vì bổ sung thêm nhiều đối tượng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
+
+Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
+
+VISUAL DIRECTION
+
+Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
+
+A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
+
+THE LONGSHIP
+
+Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
+Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
+Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
+Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
+Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
+
+WATER AND ROWING
+
+Make the water a central visual feature.
+
+Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
+
+Create a believable wake behind the ship.
+
+Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
+
+Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
+
+ENVIRONMENT AND MATERIALS
+
+Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
+
+Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
+
+Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
+
+CONTROLS
+
+A/D or arrow keys: steer left and right.
+W/S: adjust speed.
+Mouse drag: look around.
+Provide follow, orbit, and cinematic camera modes.
+Include an optional automatic journey mode.
+Add pause, reset, fullscreen, and hide-interface controls.
+Support touch steering and speed controls on mobile.
+Prevent the ship from passing through land and rocks.
+
+ATMOSPHERE AND INTERFACE
+
+Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
+
+Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
+
+Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
+
+PERFORMANCE AND DELIVERY
+
+Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
+
+Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
+
+Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
+
+Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103187935759655167) · [Bài đăng gốc](https://x.com/vib3coded/status/2103189762672611675) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu"></a>
+
+**Prompt**
+
+```text
+Hãy tạo bằng three.js một video ngắn dọc có độ phân giải 1080×1920, tốc độ 30 khung hình/giây và thời lượng khoảng 36 giây. 
+
+【Tên tác phẩm】
+Khoảng trống
+
+【Trải nghiệm muốn truyền tải】
+Đây là một video không xuất hiện bất kỳ nhân vật nào, giúp người xem cảm nhận sự đánh mất thời gian vì bị cuốn vào việc tối ưu hóa, cũng như cảm giác cuộc sống được lấp đầy bởi ánh sáng phong phú ngay khoảnh khắc tìm lại khoảng trống. Ở cảnh cuối, ánh sáng kính màu hiện lên trên toàn bộ sàn, tạo khoảnh khắc khiến người xem bất giác nín thở.
+
+【Bối cảnh】
+・Nội thất một thánh đường bằng đá mờ tối. Trên bức tường phía trước chỉ có duy nhất một cửa sổ hình vòm nhọn, cao 15 m và rộng 10 m
+・Từ bên ngoài cửa sổ, một luồng sáng mạnh chiếu vào theo góc 45 độ, đổ hình cửa sổ xuống sàn đá
+・Cửa sổ lắp kính màu với Đức Mẹ ở trung tâm, hai thiên thần dang rộng cánh ở hai bên và một cửa sổ hoa hồng ở phía trên. Thiết kế phải là nguyên bản, không mô phỏng tác phẩm có sẵn, với bố cục đối xứng
+
+【Diễn biến theo thời gian】
+0–3 giây: Ánh sáng chiếu qua cửa sổ vẫn là ánh sáng trắng, chưa có màu. Trên sàn xuất hiện một mảng sáng trắng dịu
+3–11 giây: Những khối lập phương màu xám khắc các từ như “Bận rộn”, “Tối ưu hóa”, “Khẩn cấp”, “Hạn chót” liên tiếp bay từ tiền cảnh vào, lấp kín cửa sổ. Tốc độ bay ngày càng tăng, và căn phòng càng tối khi cửa sổ bị che kín
+11–14 giây: Cửa sổ bị bịt kín hoàn toàn, không gian chìm vào bóng tối và im lặng
+14–19 giây: Chỉ một khối “Bận rộn” bật khỏi cửa sổ, rơi xuống rồi tan biến thành những hạt sáng. Qua khoảng trống vừa mở, một tia sáng rực rỡ nhiều màu chiếu vào
+19–26 giây: Bắt đầu từ khoảng trống đầu tiên, các khối lần lượt bật ra theo hiệu ứng dây chuyền. Mỗi khi có thêm một khoảng trống, các cột sáng nhiều màu lại xuất hiện, để lộ dần lớp kính màu bị che khuất
+26–33 giây: Tất cả các khối biến mất. Máy quay xuyên qua những cột sáng rồi bay lên, nhìn thẳng xuống sàn từ phía trên. Trên toàn bộ mặt sàn, kính màu hình Đức Mẹ và các thiên thần được chiếu thành những mảng ánh sáng rực rỡ
+33–36 giây: Toàn bộ khung hình được bao phủ bởi ánh sáng chói lòa. Dòng chữ cuối cùng hiện lên rồi video khép lại trong tĩnh lặng
+
+【Lời thoại (chữ Minh triều, hiện lên và biến mất nhẹ nhàng)】
+・“Mỗi ngày, nhanh hơn nữa.”
+・“Hiệu quả hơn nữa.”
+・“Đến khi nhận ra, ánh sáng đã không còn lọt vào.”
+・“Thử buông bỏ một thứ.”
+・“Ánh sáng sẽ lọt vào từ nơi vừa trống.”
+・“Ánh sáng ấy phong phú hơn trước.”
+・Cuối cùng, hiện lớn: “Sự phong phú nảy sinh từ khoảng trống”
+
+【Ánh sáng và chất liệu】
+・Các cột sáng mang màu của từng vị trí trên kính màu, còn bụi trong không khí lấp lánh
+・Hình chiếu trên sàn phải phản ánh chính xác những ô cửa sổ đang để trống (nơi có khối sẽ trở thành vùng bóng tối)
+・Các khối có màu xám mờ, vô cơ. Chữ được khắc màu trắng
+・Phần đầu có tông lạnh, không màu; phần sau chuyển sang đỏ, xanh lam và vàng như đá quý. Sự tương phản màu sắc này phải truyền tải cảm giác “trở nên phong phú hơn”
+
+【Điều kiện kỹ thuật】
+・Tạo hình ảnh họa tiết kính màu, sau đó tính toán ánh sáng trên sàn, các cột sáng và phần hiển thị trên cửa sổ từ cùng một họa tiết để bảo đảm khớp chính xác
+・Tiến thời gian chính xác theo từng bước 1/30 giây, xuất từng khung hình một rồi ghép thành MP4
+
+【Hoàn thiện】
+Hãy render thực tế và kiểm tra từng cảnh, sau đó chỉnh sửa trước khi bàn giao để bảo đảm họa tiết kính màu khi chiếu trên sàn vẫn được nhận ra là Đức Mẹ và các thiên thần, chữ có thể đọc rõ và chuyển động không bị đột ngột.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103145567945986461) · [Bài đăng gốc](https://x.com/AGIOyaZ/status/2103145567945986461) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Game phong cách Genshin Impact lấy bối cảnh San Francisco
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Game phong cách Genshin Impact lấy bối cảnh San Francisco"></a>
+
+**Prompt**
+
+```text
+Xây dựng một game phong cách Genshin Impact lấy bối cảnh San Francisco.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103144530157687114) · [Bài đăng gốc](https://x.com/every/status/2103144530157687114) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Phim điện ảnh về Trận Austerlitz
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Phim điện ảnh về Trận Austerlitz"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**Prompt**
+
+```text
+Tạo một video điện ảnh dài 4–5 phút về Trận Austerlitz (1805), được xây dựng hoàn toàn bằng mã.
+
+Nghiên cứu kỹ trận đánh và tự quyết định cách kể chuyện, xây dựng nhịp độ, giải thích chiến lược cũng như trực quan hóa các diễn biến. Tôi muốn tác phẩm chính xác về lịch sử, giàu kịch tính, dễ hiểu và đặc biệt ấn tượng về mặt hình ảnh.
+
+Hãy dùng các bức tranh đính kèm làm nguồn cảm hứng hình ảnh, không phải yêu cầu bắt buộc về phong cách. Tôi yêu thích quy mô, bầu không khí, khói, bầu trời đầy kịch tính, kỵ binh, những đội hình đông đảo, phong cảnh và cảm giác hỗn loạn trong tranh. Hãy tìm cách chuyển tải cảm giác đó bằng mã — nhưng nếu có thể tạo ra một ngôn ngữ hình ảnh mạnh mẽ hơn, hãy làm vậy.
+
+Đừng để tác phẩm mang cảm giác của một infographic hoặc game chiến thuật thông thường. Đây phải là một bộ phim lịch sử mang tính điện ảnh, chỉ khác ở chỗ được kết xuất bằng mã.
+
+Bạn hoàn toàn có quyền kiểm soát sáng tạo. Hãy khiến tôi bất ngờ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103116235009347650) · [Bài đăng gốc](https://x.com/WinterArc2125/status/2103116689944502720) · [Mã nguồn](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Dựng tháp Eiffel bằng Three.js
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Dựng tháp Eiffel bằng Three.js"></a>
+
+**Prompt**
+
+```text
+dựng tháp Eiffel bằng Three.js.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103106070549757960) · [Bài đăng gốc](https://x.com/0xPascual/status/2103106070549757960) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — Pháo binh đảo 3D
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a>
+
+**Prompt**
+
+```text
+1. Mục tiêu dự án
+Xây dựng Crazy Tanks — Wild Tides, một game pháo binh theo lượt có thể chơi được và thực sự ba chiều trên một hòn đảo nhiệt đới. Người chơi điều khiển một xe tăng nhỏ, đọc hướng gió, canh thời điểm nạp lực từ 0 và định hình lại chiến trường bằng đạn pháo. Hỗ trợ chơi đơn đấu với AI và chơi chuyền lượt cục bộ, với chế độ mặc định ba xe tăng hỗn chiến và tùy chọn đấu tay đôi giữa hai xe. Xe tăng cuối cùng còn sống sẽ chiến thắng. Sử dụng gameplay và ảnh chụp màn hình tham chiếu hiện tại làm mục tiêu hình ảnh.
+
+2. Phong cách hình ảnh
+Sử dụng camera phối cảnh và hình học 3D có thể xoay tự do, không dùng sprite phẳng hay góc nhìn ngang cố định. Tạo một tiểu cảnh mô hình thu nhỏ dưới nắng, với các xe tăng bo tròn màu ngọc bích, cam san hô và xanh tím, cát màu kem, cỏ xanh nhạt, nước xanh ngọc phản chiếu, bóng mềm và lớp sương khí quyển nhẹ ở xa. Giữ nguyên dáng viền riêng biệt của ba xe tăng cùng các nòng pháo tương ứng. Đặt một bảng giáp/trạng thái tròn nhỏ màu kem phía trên chiến trường và một bảng điều khiển bo tròn màu xanh teal đậm bên dưới. Màu vàng biểu thị lực tham chiếu và thao tác khai hỏa; màu mint biểu thị lực nạp thực tế và trạng thái phe ta. Đặt nút chuyển giao diện Tripo / Three.js ở vị trí nổi bật phía trên, mặc định dùng asset Tripo. Khi chuyển giao diện, phải giữ nguyên trạng thái trận đấu và vật lý. Sử dụng các nét gạch teal mảnh, cách đều trong không gian màn hình và vòng tròn tiếp đất tiết chế; không phản chiếu đồ họa ngắm bắn xuống mặt nước.
+
+3. Thế giới và bối cảnh
+Sử dụng một hòn đảo địa hình độ cao có thể phá hủy, kích thước xấp xỉ 260 × 184 mét, được bao quanh bởi đại dương ở một mực nước biển cố định. Đặt các xe tăng ban đầu cách xa nhau trên nền đất ổn định; rải đá, cây cọ, xương rồng và các thùng tiếp tế có thể thu thập. Những đảo nhỏ trang trí tạo chiều sâu cho hậu cảnh và không được thay thế địa hình chính có thể phá hủy. Vụ nổ làm biến dạng bề mặt và có thể đào xuống dưới mực nước biển. Giữ màu bờ biển và bọt nước trên cùng một mặt nước để tránh các mặt phẳng chồng lấn và hiện tượng nhấp nháy. Chiếu số xe tăng từ vị trí trong thế giới ở mọi khung hình được render. Cung cấp góc nhìn toàn bộ quỹ đạo, xe tăng, xoay quanh và chiến thuật từ trên cao. Góc nhìn quỹ đạo phải đưa xe tăng khai hỏa, đường cong và điểm tiếp đất ước tính vào khoảng trống giữa HUD và bảng điều khiển. Trước mỗi phát bắn, hiển thị xe tăng khai hỏa trong khoảng 0,8 giây, dừng lại ở nòng pháo rồi bám theo đạn. Tương tác camera thủ công sẽ hủy chế độ bám theo điện ảnh.
+
+4. Danh mục asset
+Sử dụng các vị trí model ổn định và cho phép truy cập riêng từng model thay thế:
+- jade-body: thân xe tăng bánh xích màu xanh lá bo tròn, hình khiên; thân mặc định của người chơi. jade-cannon: nòng pháo jade tương ứng, có lòng nòng tối màu và điểm nhấn vàng, được điều khiển khớp độc lập.
+- ember-body: thân xe bọc giáp nhọn màu cam san hô, dáng cơ khí thấp. ember-cannon: nòng pháo màu cam dài hơn tương ứng, với đầu nòng tối màu.
+- bolt-body: thân xe bánh xích công nghiệp màu xanh tím, giáp ghép góc cạnh. bolt-cannon: nòng pháo xanh dày tương ứng.
+- shell: đạn pháo bằng đồng thau, đầu thuôn tối màu và điểm nhấn cyan. Tái sử dụng với màu và tỷ lệ riêng theo từng vũ khí.
+- crate: thùng tiếp tế bọc giáp màu vàng, ký hiệu cyan và các góc gia cố; thu thập để nhận 20 giáp, tối đa 100.
+- rock: cụm đá sa thạch bo tròn màu ấm; lặp lại với nhiều tỷ lệ khác nhau và dùng proxy va chạm riêng.
+- palm: thân cây cong và tán lá xanh nhiều lớp; lặp lại làm thảm thực vật trên đảo.
+- cactus: cây xương rồng xanh nhỏ gọn với các chi tiết hoa nhỏ; lặp lại trên địa hình khô.
+- islet: đảo nền tròn phủ cỏ, viền đá/cát màu nhạt; lặp lại ở phía ngoài đấu trường.
+Ưu tiên ba cặp thân/nòng tương ứng, sau đó đến đạn/thùng và các vật thể môi trường. Giữ biến dạng địa hình, đại dương, bọt nước, lửa, khói, sóng xung kích, mảnh vỡ, đồ họa ngắm bắn, ánh sáng, UI và proxy va chạm ở dạng thủ tục. Các bộ phận thân và nòng tương ứng dùng chung một thiết kế tham chiếu và tỷ lệ. Đặt pivot của nòng tại khớp cơ khí, căn trục trước theo +X và dùng đầu nòng hiển thị làm điểm phóng vật lý. Thân xe bám theo độ dốc bằng quaternion; hướng ngắm của tháp pháo vẫn là hướng trong không gian thế giới. Giữ nguyên texture PBR nguồn và các đường nối UV. Tách model tải xuống ở độ phân giải đầy đủ khỏi bản sao tối ưu hóa cho runtime game; thông tin tham chiếu và nguồn gốc file phải xác định đúng nguồn tạo.
+
+5. Gameplay và phản hồi
+Mỗi xe tăng còn hoạt động nhận 18 mét quãng đường di chuyển khi lượt bắt đầu. WASD và pad di chuyển theo tương quan với màn hình; phím mũi tên và pad ngắm điều chỉnh phương vị và góc nâng. Thanh trượt cung cấp phương vị, góc nâng 10–80 độ và lực tham chiếu 0–100. Chọn đối thủ chỉ khiến xe quay mặt về phía đó; không được tự giải bài toán bắn.
+Cung teal ước tính lực tham chiếu đã chọn khi KHÔNG có gió. Giữ cố định mức tham chiếu và dấu mốc vàng trong lúc nạp. Nhấn giữ Fire, Space hoặc Enter trên nút Fire đang được focus để bắt đầu lực thực tế từ 0 mỗi lần; tăng 18 điểm phần trăm mỗi giây, giữ ở mức 100 và chỉ khai hỏa đúng một lần khi thả nút, sử dụng lực thực tế tại thời điểm đó. Chạm nhanh sẽ bắn một phát yếu. Dải vàng trong phạm vi 3 điểm phần trăm chỉ là phản hồi hình ảnh, không tự làm tròn hay hiệu chỉnh ngầm. Hủy khi con trỏ bị hủy, cửa sổ mất focus hoặc trang không còn hiển thị. Khóa thay đổi di chuyển, mục tiêu và ngắm trong lúc nạp. Điều khiển bàn phím của input dạng range không được đồng thời xoay tháp pháo. Lực 0 biểu thị tốc độ phóng thấp nhất, không phải viên đạn đứng yên.
+Mũi tên và các vệt gió trôi nhìn thấy cho biết hướng gió đẩy viên đạn. Gắn nhãn cường độ gió và mét trên giây; nhấp vào thẻ gió để xem giải thích. Gió thổi sang trái nghĩa là người chơi nên ngắm lệch sang phải một chút. Gió mạnh hơn và thời gian bay lâu hơn sẽ tạo độ lệch lớn hơn. Gió giữ nguyên trong suốt một phát bắn và thay đổi sau mỗi lượt. Không bao giờ tự động bù gió trong phần xem trước của người chơi. Chỉ dự đoán gần đúng điểm tiếp đất trên địa hình; không hứa hẹn va chạm với xe tăng/đá, tách cụm hay bật nảy trong phần xem trước.
+Cung cấp sáu loại đạn: HE không giới hạn; đạn chùm tách thành năm bom con rơi xuống; Seismic tạo hố rộng tối đa 28 mét và sâu 13 mét; đạn ricochet nảy hai lần; mỗi xe tăng có một viên Cataclysm, tạo hố rộng tối đa 46 mét và sâu 22 mét; và Incendiary để lại vùng lửa bán kính 12 mét. Lửa gây 8 sát thương ở cuối mỗi một trong sáu lần kết thúc hành động; ra khỏi vùng lửa sẽ tránh được sát thương và các vùng chồng lấn không cộng dồn. Nước biển dập tắt lửa. Toàn bộ xe tăng, bao gồm cả nòng đã nâng, bị loại ngay lập tức khi chìm hoàn toàn dưới nước. Hiển thị sát thương thực tế, lượng giáp mất đi, địa hình sụp lở, nước bắn và kết quả bị loại.
+Sử dụng các lớp cầu lửa, vòng xung kích mở rộng, tia lửa phát sáng, mảnh đạn đạo, bụi và khói cùng hiệu ứng rung camera tiết chế. Sử dụng nhạc và âm thanh gốc do ElevenLabs cung cấp cho pháo, va chạm, ricochet, vụ nổ lớn, lửa và nước bắn. Bao gồm nút bật/tắt âm thanh, tạm dừng/tiếp tục, hướng dẫn, chơi lại và quay về menu. Trong lúc đạn đang bay hoặc AI đang đến lượt, cung cấp tùy chọn Back to my turn: chạy nhanh mô phỏng với cùng bước thời gian cố định và giữ nguyên mọi kết quả về sát thương, địa hình và mối nguy. Không bao giờ bỏ qua lượt nhập của người chơi cục bộ.
+
+6. Triển khai kỹ thuật
+Sử dụng Three.js với ES modules và Vite, font được đóng gói cục bộ, Web Audio cho hiệu ứng và phần tử audio HTML cho nhạc lặp. Giữ tài nguyên cùng origin và hỗ trợ bản build tĩnh. Sử dụng renderer phối cảnh với khử răng cưa, ngân sách hợp lý cho bóng và hậu kỳ, đồng thời giải phóng đúng cách hình học/vật liệu tạm thời. Phân biệt phần trang trí của model với va chạm gameplay.
+Giữ vật lý xác định, độc lập với quá trình render, dùng đơn vị mét/giây, gia tốc trọng trường 9.81 m/s² và bước cố định 1/120 giây. Sử dụng va chạm quét liên tục cho đạn tốc độ cao với mặt đất, nước, xe tăng và đá; áp dụng xung lực vụ nổ cùng trọng lực lên xe tăng bị hất. Tính vị trí phóng từ transform nòng riêng của từng xe tăng. Chế độ phát bình thường và tua nhanh phải gọi cùng các hàm cập nhật mô phỏng. Sát thương và phản ứng với gió là luật game được cách điệu, không phải trình mô phỏng vụ nổ kỹ thuật.
+Hỗ trợ UI tiếng Trung, tiếng Anh, tiếng Nhật và tiếng Hàn. Ban đầu chọn theo ngôn ngữ thiết bị; thiết bị tại Hong Kong, Macau, Đài Loan và thiết bị dùng tiếng Trung phồn thể mặc định chọn tiếng Anh. Ghi nhớ lựa chọn rõ ràng của người dùng và cho phép hiển thị bộ chọn ngôn ngữ. Hỗ trợ bố cục desktop, điện thoại dọc và màn hình ngang thấp; menu trên màn hình ngắn có thể cuộn, vùng chạm đủ lớn, bảng điều khiển có thể thu gọn và không để các nút chồng lấn. Không yêu cầu nhập bằng bàn phím trên thiết bị cảm ứng. Đưa các hàm thay đổi state và hỗ trợ ngắm chỉ dùng khi phát triển ra khỏi bản production.
+
+7. Tiêu chí hoàn thiện
+Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướng dẫn npm dev/build và bản preview tĩnh hoạt động. Bám sát ảnh chụp màn hình và video gameplay hiện tại, bao gồm bảng trạng thái màu kem, dấu mốc tham chiếu vàng cố định, lực thực tế bắt đầu từ 0 và cách trình bày xe tăng/hòn đảo 3D hoàn toàn. Kiểm tra lần khởi chạy đầu tiên, tải model, một chu kỳ lượt hoàn chỉnh, hành vi của từng loại đạn, tạm dừng, chơi lại và kết quả thắng/thua thực tế. Xác nhận chuyển giao diện vẫn giữ nguyên state, đồng thời thao tác hủy bằng bàn phím/cảm ứng không gây khai hỏa. Trong một phát bắn kiểm thử rõ ràng khi không có gió, thả nút ở lực tham chiếu phải tiếp đất gần vòng tròn tham chiếu; gió ngang ngược chiều phải làm viên đạn thực tế lệch thấy rõ trong khi vòng tròn đó không đổi. Kiểm tra hoạt động ở 30/60/144 Hz, va chạm tốc độ cao, hố sâu, thời điểm lửa tắt, loại xe khi chìm hoàn toàn và sự tương đương kết quả lượt giữa chế độ bình thường/tua nhanh. Kiểm tra bố cục desktop và màn hình hẹp ở cả bốn ngôn ngữ; phân biệt việc giả lập trình duyệt với kiểm thử trên thiết bị thật. Xác thực trang đã triển khai và media liên kết, không chỉ bản build cục bộ.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery) · [Bản demo](https://super-tanks-aftershock.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius"></a>
+
+**Prompt**
+
+```text
+Tôi muốn bạn hình dung một câu chuyện khéo léo quảng bá Grid Genius. Câu chuyện thậm chí không nhất thiết phải có Grid Genius, nhưng cần phù hợp với ứng dụng của chúng tôi và giúp thu hút thêm sự chú ý khi đăng trên mạng xã hội. Sau đó, hãy dùng Three.js/JavaScript để tạo một hoạt ảnh hoàn chỉnh, chất lượng như phim Pixar, dựa trên câu chuyện bạn đã hình dung.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118) · [Bài đăng gốc](https://x.com/Anilraok/status/2103087766662009118) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103083781490176212"></a>
 
 ### Trò chơi đạp xe thời gian thực với bồ nông
@@ -2009,602 +2809,6 @@ Deliver the working HTML file, not just an explanation.
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102215638311694336) · [Bài đăng gốc](https://x.com/vib3coded/status/2102217028052377910) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102150615635816866"></a>
-
-### Game đua xe procedural trên trình duyệt Spline Rush
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/28d71c2ef7fb89cb6d0cff7e49fb0414ee59901911a6c8240fe3fa508ed86767.webp" width="840" loading="lazy" alt="Game đua xe procedural trên trình duyệt Spline Rush"></a>
-
-**Prompt**
-
-```text
-Xây dựng một game đua xe trên trình duyệt hoàn chỉnh, đạt chất lượng production, có tên Spline Rush bằng phiên bản Three.js mới nhất (ưu tiên WebGPURenderer + TSL khi có thể). 100% procedural: không dùng mô hình, kết cấu bề mặt, tệp âm thanh hay font bên ngoài. Mọi thứ đều được tạo bằng mã trong thời gian chạy.
-
-GAME CỐT LÕI
-- 6 đường đua độc đáo với cao độ thay đổi, độ nghiêng thân xe, đường hầm, khúc cua tay áo, các góc cua có tên và quần xã riêng biệt (ven biển ban ngày, núi lúc chạng vạng, sa mạc hoàng hôn, rừng mưa, thành phố neon ban đêm, đường oval tốc độ cao).
-- Chế độ Championship (vòng phân hạng + 3 cuộc đua), Time Trial với xe ma, Quick Race.
-- 8 đối thủ AI với cá tính riêng, đường chạy tối ưu, điểm phanh, vượt và phòng thủ.
-- Kỷ lục vòng đua nhanh nhất, thời gian từng sector, bảng tin sự kiện trực tiếp, camera xem lại.
-- Garage: 5 mẫu xe tham số với sơn clearcoat + metal-flake, khe ghép thân vỏ, đèn hoạt động, hệ thống treo chuyển động và các trạng thái hư hỏng.
-
-MỤC TIÊU ĐỒ HỌA (Ultra, tương xứng với RTX 5090 ở 4K)
-Renderer: THREE.WebGPURenderer. Pipeline dựa trên vật lý.
-Ánh sáng:
-- Bầu trời dựa trên vật lý Rayleigh/Mie + trường sao + mặt trăng + mặt trời động điều khiển chu kỳ ngày/đêm hoàn chỉnh.
-- Cascaded shadow maps (4 cascade, snap texel ổn định, độ phân giải cao).
-- IBL qua PMREM được cập nhật theo thời gian trong ngày.
-- Sương mù thể tích + tia sáng xuyên mây + hiệu ứng rung nhiệt.
-Vật liệu:
-- MeshPhysicalMaterial / node TSL: clearcoat, anisotropy, transmission trên kính, sơn metal-flake, shader mặt đường ướt phản ứng với mưa.
-Chuỗi hậu kỳ (RenderPipeline / TSL hoặc thư viện postprocessing):
-GTAO hoặc SSAO chất lượng cao → SSR → bloom (Karis) → motion blur (velocity) → DOF → tia sáng xuyên mây → auto-exposure → chỉnh màu + hạt phim + vignette → SMAA hoặc TAA.
-Hiệu ứng:
-- Pool hạt trên GPU: khói lốp, tia lửa, bụi, nước mưa bắn, cỏ/sỏi văng lên, biến dạng nhiệt.
-- Vết trượt lưu lại rồi mờ dần.
-- Độ ướt động và phản chiếu vũng nước khi trời mưa.
-
-VẬT LÝ & CẢM GIÁC LÁI
-- Mô phỏng fixed-step 120 Hz.
-- Hệ thống treo raycast hoặc strut, chuyển tải trọng, lốp combined-slip, ABS/TC, các loại bề mặt (nhựa đường, kerb, cỏ, sỏi, ướt).
-- Camera: góc bám đuôi cinematic + góc nhìn qua nắp ca-pô + góc onboard, có rung khi chuyển động và va chạm.
-
-AUDIO
-- Web Audio tổng hợp hoàn toàn: động cơ đa lớp theo RPM/tải, tiếng gió, tiếng lốp rít, tiếng rung khi chạy qua kerb, tiếng khán giả, nhạc động.
-
-HỆ THỐNG CHẤT LƯỢNG
-- Các preset: Low / Medium / High / Ultra.
-- Ultra giả định GPU cấp RTX 5090: 4K, shadow map độ phân giải cao, số lượng hạt tối đa, bật toàn bộ hiệu ứng hậu kỳ, không dùng LOD quá gắt.
-- Chất lượng thích ứng có thể tắt bớt hiệu ứng nếu thời gian dựng khung hình vượt mục tiêu.
-
-Bắt đầu bằng một phiên bản đầu tiên có thể chơi được (một đường đua, một xe, ánh sáng cơ bản), sau đó lặp lại và bổ sung từng tính năng đúng như yêu cầu. Đặt mọi thứ trong một dự án HTML/JS (hoặc Vite) gọn gàng duy nhất có thể chạy cục bộ. Chú thích các hệ thống chính. Hãy tạo cảm giác cao cấp, không dễ thương.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a complete, production-quality browser racing game called Spline Rush using the latest Three.js (WebGPURenderer + TSL where possible). 100% procedural: no external models, textures, audio files or fonts. Everything generated in code at runtime.
-
-CORE GAME
-- 6 unique tracks with elevation, banking, tunnels, hairpins, named corners and distinct biomes (coastal day, mountain dusk, desert sunset, forest rain, night city neon, high-speed oval).
-- Championship mode (qualifying + 3 races), Time Trial with ghosts, Quick Race.
-- 8 AI opponents with personality, racing line, braking points, overtaking and defending.
-- Best lap records, sector times, live event feed, replay camera.
-- Garage: 5 parametric cars with clearcoat + metal-flake paint, panel gaps, working lights, animated suspension, damage states.
-
-GRAPHICS TARGET (Ultra, worthy of RTX 5090 at 4K)
-Renderer: THREE.WebGPURenderer. Physically based pipeline.
-Lighting:
-- Rayleigh/Mie physically based sky + starfield + moon + dynamic sun that drives a full day/night cycle.
-- Cascaded shadow maps (4 cascades, stable texel snapping, high-res).
-- IBL via PMREM updated with time of day.
-- Volumetric fog + god rays + heat haze.
-Materials:
-- MeshPhysicalMaterial / TSL nodes: clearcoat, anisotropy, transmission on glass, metal-flake paint, wet-road shader that reacts to rain.
-Post-processing chain (RenderPipeline / TSL or postprocessing library):
-GTAO or high-quality SSAO → SSR → bloom (Karis) → motion blur (velocity) → DOF → god rays → auto-exposure → color grading + film grain + vignette → SMAA or TAA.
-Effects:
-- GPU particle pools: tyre smoke, sparks, dust, rain spray, grass/gravel kick-up, heat distortion.
-- Skid marks that persist and fade.
-- Dynamic wetness and puddle reflections when raining.
-
-PHYSICS & FEEL
-- Fixed-step 120 Hz simulation.
-- Raycast or strut suspension, load transfer, combined-slip tyres, ABS/TC, surface types (asphalt, kerb, grass, gravel, wet).
-- Camera: cinematic chase + hood + onboard with motion and collision shake.
-
-AUDIO
-- Fully synthesised Web Audio: multi-layer engine by RPM/load, wind, tyre screech, kerb rumble, crowd, dynamic music.
-
-QUALITY SYSTEM
-- Presets: Low / Medium / High / Ultra.
-- Ultra assumes RTX 5090-class GPU: 4K, high shadow maps, max particles, all post effects on, no aggressive LOD.
-- Adaptive quality that can drop effects if frame time exceeds target.
-
-Start with a playable first version (one track, one car, basic lighting), then iterate feature-by-feature exactly as requested. Keep everything in a single clean HTML/JS (or Vite) project that runs locally. Comment major systems. Make it look expensive, not cute.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102150615635816866) · [Bài đăng gốc](https://x.com/ToolBraidComp/status/2102150671340327384) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102038136725377200"></a>
-
-### Website mô hình Mặt Trời 3D tương tác
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/169472399e3e1991f493f8eb441b75a17cc26b6be6aeb26a54bd14323bd9bbc2.webp" width="840" loading="lazy" alt="Website mô hình Mặt Trời 3D tương tác"></a>
-
-**Prompt**
-
-```text
-Tôi muốn xây dựng một website mô hình Mặt Trời 3D tương tác bằng Three.js.
-
-Trước tiên, hãy viết một tập lệnh Python có thể chạy trực tiếp trong Blender để tạo mô hình Mặt Trời 3D có độ chân thực cao. Mô hình cần dựa trên các đặc điểm vật lý và hình ảnh thực tế của Mặt Trời, bao gồm hình cầu, kết cấu bề mặt, màu sắc, vẻ ngoài giống plasma, các hạt sáng trên bề mặt và bầu khí quyển phát sáng. Mô hình không được trông như một quả cầu màu cam đơn giản. Hãy sử dụng vật liệu, shader, kết cấu bề mặt và hiệu ứng ánh sáng phù hợp để tạo diện mạo Mặt Trời chân thực.
-
-Sau đó, hãy viết đầy đủ mã nguồn website bằng Three.js. Mặt Trời nên chiếm khoảng 80% khu vực hiển thị chính. Người dùng có thể xoay Mặt Trời, di chuyển góc nhìn và phóng to, thu nhỏ. Cảnh cần có ánh sáng chân thực cùng các hiệu ứng phát sáng để Mặt Trời trông sống động và có chiều sâu 3D.
-
-Thêm một nút phóng to để người dùng tiến lại gần Mặt Trời và quan sát các chi tiết trên bề mặt.
-
-Website cũng cần có nội dung cung cấp thông tin về Mặt Trời và vai trò của nó trong hệ Mặt Trời. Nền tổng thể nên là môi trường không gian vũ trụ hoặc thiên hà chân thực.
-
-Ngoài ra, hãy thêm một nút mở chế độ xem cấu trúc bên trong tương tác của Mặt Trời. Chế độ xem này cần hiển thị các lớp chính của Mặt Trời, chẳng hạn như lõi, vùng bức xạ, vùng đối lưu, quang quyển, sắc quyển và nhật hoa. Mỗi lớp cần có nhãn tương ứng cùng một đoạn mô tả ngắn. Tốt nhất là người dùng có thể tương tác với sơ đồ và chọn từng lớp để xem thông tin về lớp đó.
-
-Hãy làm cho website có giao diện hiện đại theo chủ đề không gian, ấn tượng về mặt hình ảnh, giàu thông tin khoa học và tương tác đầy đủ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-I want to build an interactive 3D Sun model website using Three.js.
-
-First, please write a Python script that can be run directly in Blender to create a highly realistic 3D model of the Sun. The model should be based on the Sun's real physical and visual characteristics, including its spherical shape, surface texture, color, plasma-like appearance, solar granulation, and glowing atmosphere. It should not look like a simple orange sphere. Please use appropriate materials, shaders, textures, and lighting effects to create a realistic solar appearance.
-
-Then, write the complete website code using Three.js. The Sun should occupy approximately 80% of the main visual area. Users should be able to rotate the Sun, move the view, and zoom in and out. The scene should include realistic lighting and glowing effects to make the Sun look dynamic and three-dimensional.
-
-Add a zoom-in button that allows users to get closer to the Sun and observe its surface details.
-
-The website should also include informative content about the Sun and its role in the solar system. The overall background should be a realistic cosmic galaxy/space environment.
-
-In addition, add a button that opens an interactive internal anatomy view of the Sun. This view should show the major layers of the Sun, such as the core, radiative zone, convection zone, photosphere, chromosphere, and corona. Each layer should have a corresponding label and a short text description. Ideally, users should be able to interact with the diagram and select different layers to view their information.
-
-Please make the website visually impressive, scientifically informative, and fully interactive, with a modern space-themed UI.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102038136725377200) · [Bài đăng gốc](https://x.com/HIX_AI_/status/2102038474752766239) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101730386711634251"></a>
-
-### Verdant — hòn đảo khủng long 3D tương tác
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/a535c40ebc8c7086dde5e627372c64ba5cdab5c252538c6c00e0ef5ec2c5e031.webp" width="840" loading="lazy" alt="Verdant — hòn đảo khủng long 3D tương tác"></a>
-
-**Prompt**
-
-```text
-tạo Verdant - một sa bàn 3D tương tác được xây dựng bằng Three.js + WebGL
-
-Một hòn đảo xanh tươi với những chú khủng long đi lang thang, một thác nước và đầm phá cắt lớp có một loài bò sát biển đang bơi. Cho đàn khủng long ăn, ấp một chú khủng long con và đưa camera xuống dưới nước
-
-Điều chỉnh thủy triều, gió và thời gian trong ngày, hoặc tạo mưa nhiệt đới trong khi nhạc thư giãn vang lên
-
-Mọi thứ chạy trực tiếp trên trình duyệt của bạn trong một tệp HTML duy nhất
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-create Verdant - an interactive 3D diorama built with Three.js + WebGL
-
-A lush island with roaming dinosaurs, a waterfall, and a cutaway lagoon with a swimming marine reptile. Feed the herd, hatch a baby dinosaur, and take the camera underwater
-
-Adjust the tide, wind, and time of day, or bring in tropical rain while relaxing music plays
-
-Everything runs right in your browser, in a single HTML file
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101730386711634251) · [Bài đăng gốc](https://x.com/vib3coded/status/2101570806702559235) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101687900723106104"></a>
-
-### Tạo mô hình 3D WALL-E bằng Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/cac68c08e650b70228db60cbf7a38e7f2d113b00c6420a411918d82aad4f7bb1.webp" width="840" loading="lazy" alt="Tạo mô hình 3D WALL-E bằng Three.js"></a>
-
-**Prompt**
-
-```text
-tạo mô hình 3D WALL-E bằng Three.js.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-create a 3d model of wall-e in three.js.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101687900723106104) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2101687900723106104) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101616345720787130"></a>
-
-### Thuyền buồm trên vùng nước rộng
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b5b0b8a7e7c8425edf9299873ea284b3d4598bdac00bfc48ae9fcf178e4a0642.webp" width="840" loading="lazy" alt="Thuyền buồm trên vùng nước rộng"></a>
-
-**Prompt**
-
-```text
-Tạo một tệp HTML duy nhất với cảnh 3D hiển thị một chiếc thuyền buồm nhỏ di chuyển trên vùng nước rộng, có điều khiển lái trực tiếp và lộ trình đi vòng qua hai hòn đảo dễ nhìn thấy, tương tự các bản demo "trò chơi thuyền" trong những bài kiểm thử mô hình gần đây.
-
-Yêu cầu chức năng:
-
-Bề mặt nước được dựng bằng lưới sóng chuyển động (shader nước tạo theo quy trình, sóng chuyển động, phản xạ ánh sáng thay đổi theo góc nhìn và vệt nước phía sau thuyền), không dùng kết cấu phẳng, tĩnh.
-Mô hình thuyền buồm được dựng từ các hình khối đơn giản (thân thuyền, cột buồm, cánh buồm căng theo chiều gió), có chuyển động nhấp nhô và nghiêng nhẹ trên sóng, đồng bộ với chuyển động của mặt nước bên dưới.
-Hai hòn đảo riêng biệt được đặt ở các vị trí khác nhau trong cảnh; mỗi đảo có địa hình tạo hình đơn giản (đồi cao, bãi biển, có thể thêm thảm thực vật) và đổ bóng lên vùng nước xung quanh.
-Thuyền phải đi theo một tuyến đường thực sự tránh được cả hai hòn đảo (không bao giờ cắt qua đường bao hoặc băng qua phần đất), chuyển hướng mượt mà thay vì nhảy đột ngột giữa các góc.
-Camera bám theo thuyền với độ trễ nhẹ (camera bám đuổi được làm mượt), tạo cảm giác rượt đuổi năng động thay vì góc nhìn từ trên xuống gắn cứng với thuyền.
-Bầu trời chuyển sắc (chẳng hạn hoàng hôn hoặc xanh ban ngày, tùy mô hình lựa chọn) với ánh nắng hoặc phản xạ ánh sáng trên mặt nước, có hướng nhất quán với bóng đổ trên các hòn đảo.
-
-Yêu cầu kỹ thuật:
-
-Một tệp .html duy nhất; được phép dùng three.js từ cdnjs, không dùng tài nguyên hoặc kết cấu bên ngoài khác; toàn bộ mặt nước và địa hình phải được tạo theo quy trình bằng mã hoặc shader.
-Lộ trình vòng qua các hòn đảo có thể là đường đi được lên kế hoạch trước (chẳng hạn đường cong Bezier luồn giữa hai đảo) hoặc cơ chế lái đơn giản phản ứng theo vị trí, tùy mô hình lựa chọn, nhưng không được va chạm với đất liền.
-Hoạt ảnh phải chạy mượt trong ít nhất 20 giây, theo vòng lặp hoặc liên tục, đạt tối thiểu 30fps trên một máy tính xách tay thông thường; độ phân giải canvas bị giới hạn ở kích thước cửa sổ và devicePixelRatio không được cao hơn 1.5 để tránh làm quá tải màn hình hiDPI.
-
-Tiêu chí đánh giá chính là mặt nước có tạo cảm giác thuyết phục như chất lỏng đang chuyển động hay không (không chỉ là kết cấu với offset UV động), thuyền có thực sự phản ứng theo sóng hay không và lộ trình vòng qua các hòn đảo có thể hiện sự định hướng có chủ đích thay vì suýt va vào một cách ngẫu nhiên hay không.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a single HTML file with a 3D scene showing a small sailboat moving across open water, with native steering and a course that navigates around two visible islands, similar to the comparison "boat game" demos seen in recent model tests.
-
-Functional requirements:
-
-A water surface rendered as an animated wave mesh (procedural water shader, moving waves, light reflections that shift with viewing angle, a wake trail behind the boat), not a flat, static texture.
-A sailboat model built from simple shapes (hull, mast, sail filled by the wind), with visible bobbing and slight tilting on the waves, synchronized with the motion of the water beneath it.
-Two distinct islands placed at different points in the scene, each with simple terrain shaping (a rise, a beach, optionally vegetation) and a shadow cast onto the water around it.
-The boat should follow a route that genuinely avoids both islands (never clipping through their silhouette or crossing through the land), turning smoothly rather than snapping between angles.
-The camera follows the boat with a slight lag (smoothed camera follow), giving the impression of a dynamic chase rather than a rigidly attached top down view.
-A gradient sky (e.g. sunset or daytime blue, model's choice) with a sun or light reflection on the water, directionally consistent with the shadows on the islands.
-
-Technical requirements:
-
-A single .html file, three.js from cdnjs is allowed, no other external assets or textures, all water and terrain generated procedurally in code/shader.
-The route around the islands can be a pre-planned path (e.g. a Bezier curve threading between the islands) or simple steering that reacts to position, model's choice, but no collision with land is allowed.
-The animation must run smoothly for at least 20 seconds, looping or continuous, minimum 30fps on a typical laptop, canvas resolution capped to window size with a devicePixelRatio no higher than 1.5 to avoid overloading hidpi screens.
-
-Judged primarily on whether the water looks convincingly like a fluid in motion (not a texture with animated UV offset), whether the boat genuinely reacts to the waves, and whether the route around the islands reads as intentional navigation rather than a random near miss.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101616345720787130) · [Bài đăng gốc](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — Ánh sáng cuối cùng
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20 · GPT-6 Astra · Hoạt ảnh
-
-Phỏng theo: [notjazii / Titanic reference](https://x.com/notjazii/status/2101007819592085586)
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light"><img src="../assets/previews/3c31a5b7f6f105a35c837091241a0e6a71ebff7e6df20d1d8ee4e257da97e51f.webp" width="840" loading="lazy" alt="TITANIC — Ánh sáng cuối cùng"></a>
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Tạo TITANIC — THE LAST LIGHT: một hành trình điện ảnh tương tác dài 264 giây, từ hoàng hôn cuối cùng của con tàu, qua va chạm, sơ tán và chìm xuống, đến lễ tưởng niệm lúc bình minh. Khách tham quan xem một bộ phim được dàn dựng, khám phá thế giới 3D chuyển động, chuyển đến một chương, lưu ảnh tĩnh hoặc tải xuống toàn bộ phim. Trình bày đây là một diễn giải nghệ thuật, không tuyên bố độ chính xác pháp y hay mối liên hệ chính thức nào.
-
-2. Định hướng hình ảnh
-Sử dụng bảng màu điện ảnh tiết chế: ánh đèn tàu màu kem ấm và hổ phách trên nền xanh Atlantic đậm, sau đó chuyển sang đêm tối đầy sao và bình minh mát lạnh. Dựng cảnh phối cảnh với bố cục phim 2.39:1, bloom mềm, hạt nhiễu tinh tế và vignette. Dùng depth of field cho các chân dung nhân vật và cảnh bình minh, đồng thời giữ các hạt từ pháo hiệu cứu nạn sắc nét. Tạo màu thân đại dương xanh đậm, các đợt sóng trong world space, normal ripple nhỏ hơn có mipmap và phản xạ Fresnel; màu hoàng hôn chủ yếu chỉ xuất hiện trong ánh sáng phản chiếu. Dùng các dải wake gắn với thân tàu, bám theo cùng độ biến dạng của đại dương, với đầu mềm và bọt biển đứt đoạn. Lặp texture panorama theo chiều ngang mà không tạo điểm gián đoạn fract, nhằm tránh đường nối dọc trên bầu trời và các vệt phản chiếu. Tránh shading vùng nước nông màu cam, các gợn sóng nhỏ đồng nhất và decal bọt phát sáng hình tròn. Xóa các mặt trên mái ẩn bị chồng lấn để tránh xung đột độ sâu; đặt camera near plane phù hợp với khoảng cách của từng cảnh. Trong lúc chìm, giảm dần ánh sáng cửa sổ một cách đơn điệu thay vì thêm hiện tượng nhấp nháy tần số cao. Dùng tiêu đề serif trầm, các nút điều khiển song ngữ Anh/Trung và một timeline hẹp dọc cạnh dưới.
-
-3. Thế giới, địa lý và biên tập camera
-Sử dụng một hệ tọa độ liên tục với con tàu dài 269 mét, mũi tàu hướng về +X và một tảng băng cố định tại (275, 0, 57). Con tàu tiến lên, chạm tảng băng ở giây 96.727, trôi thêm đến khi dừng lại, rồi chìm theo phần mũi và phần đuôi. Giữ tảng băng xuất hiện cho đến đoạn kết và nhìn thấy trong bố cục bình minh. Giữ sáu chương bắt đầu tại các mốc 0, 63, 110, 163, 211 và 241 giây.
-
-Xây dựng 23 shot có chủ đích. Phân cảnh ôm ở mũi tàu kéo dài từ giây 29–61: một shot thiết lập cảnh tiếp cận, một chân dung đôi cận cảnh, một góc nhìn từ phía sau hướng ra biển và một chân dung chếch. Đặt Rose ở phía trước và Jack phía sau cô tại chóp mũi tàu, cả hai cùng hướng mắt ra ngoài mũi tàu. Duy trì ánh sáng hoàng hôn xuyên suốt chuỗi shot. Từ giây 127–158, dùng ba shot gắn với transform thế giới thực của một xuồng cứu sinh: rời boong xuồng, cận cảnh hơn về hành khách và dây treo, rồi tiếp cận mặt nước. Tiếp nối bằng các shot sơ tán toàn cảnh, tàu nghiêng, nứt gãy và chìm. Khi bình minh, cho thấy những chiếc xuồng còn sống sót với tảng băng ở xa, sau đó là tiêu đề tưởng niệm tiết chế.
-
-4. Danh mục tài sản
-- titanic-vessel: dựng cấu trúc chính dài 269 mét trong Blender với các boong hở liên tục, forecastle đóng kín, các tầng promenade, bốn ống khói rỗng nghiêng, thân trên màu đen và thân dưới màu đỏ. Dùng vành tròn thực cho 864 ô cửa sổ tròn và khung cho 360 cửa sổ. Chỉ cho phép emission trên các vật liệu kính thực tế. Batch vật liệu và tách tại x=-32 để phục vụ cảnh chìm. Thêm cột buồm, rigging, davit, dây hạ, chân vịt bằng đồng và bánh lái. Tạo companionway P2 với cửa gỗ teak và chi tiết đồng thau, chuẩn hóa rồi tái sử dụng hai lần trên boong đã biên soạn. Giữ nguyên transform của node khi lắp ráp GLB.
-- atlantic-iceberg: một tảng băng xanh-trắng bất quy tắc, bị xói mòn, với các lớp sương giá, độ roughness biến thiên, normal map tiết chế và đường tiếp nước thuyết phục. Đây là một đối tượng địa lý cố định.
-- lifeboat: một xuồng cứu sinh chèo tay của White Star với vỏ gỗ trắng, be chắn mạn tối màu, ghế băng và mái chèo, được instancing thành mười sáu xuồng chuyển động độc lập.
-- bow-embrace: một tài sản nhân vật đôi tách biệt, lấy cảm hứng từ phục trang và tư thế trong bộ phim năm 1997 được yêu cầu: Rose tóc nâu đỏ, mặc đồ màu navy/ngà và choàng khăn có họa tiết, hai tay dang rộng; Jack đứng ngay phía sau, mặc áo khoác tối màu và sơ mi ngà. Tạo ảnh tham chiếu toàn thân rõ nét trước khi chuyển đổi sang H v3.1, giữ đầu, cổ, vai và trang phục của mỗi nhân vật nhất quán. Tinh chỉnh Rose bằng một ảnh tham chiếu cận cảnh riêng và donor chi tiết khuôn mặt H: căn chỉnh mắt, mũi, môi và cằm, chuyển hình dáng và màu cục bộ sang mesh toàn thân liên tục, rồi blend và retouch phần chuyển tiếp UV. Với Jack, tạo một chân dung rõ nét với màu da tự nhiên, mắt và môi rõ ràng. Giữ trọn đầu và phần cổ trên, căn chỉnh hướng nhìn và tỷ lệ với body H, cho phần cổ dưới ôm khớp rồi weld cả hai boundary loop. Bake và retouch vùng chuyển tiếp cổ hẹp mà không làm phẳng chi tiết khuôn mặt. Chỉnh lại dáng đứng và điểm tiếp xúc bàn tay trong Blender. Kiểm tra các góc nhìn trước, bên và sau để phát hiện vệt tối, đường nối texture, lỗ thủng, mép bị cắt và giao cắt trang phục. Dùng shading riêng cho da và vải. Giữ biểu cảm nền tự nhiên cùng chuyển động tiết chế của cơ thể và vải; không tạo cảm giác đang có facial animation rig nếu thực tế chưa triển khai rig đó.
-- seated-woman và seated-man: các model hành khách trưởng thành riêng biệt, mặc trang phục năm 1912 và áo phao bằng nút bần màu nhạt, ngồi co gối, hai tay đặt trên đùi. Chia sẻ geometry và vật liệu giữa các xuồng; thay đổi nhẹ vị trí và hướng. Dùng số lượng instance trên từng xuồng có thể hoàn nguyên để điều khiển việc lên xuồng.
-
-Dùng Blender cho tàu chính, Tripo P2.0 cho companionway trên boong, tảng băng, xuồng và hành khách đang ngồi, còn H v3.1 cho hai nhân vật chính toàn thân và các tinh chỉnh chân dung cận cảnh. Giữ đại dương, chuyển sắc bầu trời, các vì sao, ánh sáng, khói, pháo hiệu cứu nạn, bọt biển, tia nước và mảnh vỡ ở dạng hiệu ứng cảnh. Cung cấp các biến thể model web nhẹ hơn với texture nén, đồng thời giữ lại tài sản nguồn chi tiết để chỉnh sửa. Dùng cùng một cặp nhân vật chính đã được tối ưu và phê duyệt cho website và bản xuất phim offline.
-
-5. Phát lại và phản hồi
-Hiển thị tiến trình tải thực cho các tài sản thiết yếu của tàu, xuồng, bầu trời và normal của biển. Bật nút mở đầu khi cảnh đầu tiên sẵn sàng; trì hoãn các model và nhạc còn lại. Nếu model nhân vật hoặc tảng băng bắt buộc tải chậm, hãy giữ ở ranh giới cảnh đó và tiếp tục khi model sẵn sàng thay vì âm thầm bỏ qua shot. Âm thanh bắt đầu sau khi người dùng tương tác.
-
-Timeline phải hỗ trợ tua tới/tua lui và kéo nhanh mà không đặt lại về 0. Giữ nguyên trạng thái phát/tạm dừng và tắt tiếng khi tua; không để đồng hồ âm thanh cũ ghi đè lên vị trí được yêu cầu. Phục vụ byte range cho MP3 và MP4. Điều hướng chương phải có mục truy cập trực tiếp đến phân cảnh ôm ở mũi tàu tại giây 29 và hạ xuồng cứu sinh tại giây 127; các mục này khôi phục camera của đạo diễn đồng thời giữ nguyên trạng thái phát.
-
-Cho phép khám phá bằng orbit, kéo và zoom trong khi thế giới, con tàu và nhạc nền vẫn tiếp tục. Bám theo chuyển động tịnh tiến của tàu mà không giật hướng nhìn. Trạng thái tạm dừng hoạt động độc lập; khi quay lại phim, giữ nguyên thời gian hiện tại. Space phát/tạm dừng, phím mũi tên nhảy 10 giây, M bật/tắt âm thanh, E bật/tắt chế độ khám phá và F mở toàn màn hình. Hỗ trợ orbit/pinch cảm ứng và chạm vào timeline.
-
-Các xuồng bắt đầu ở trạng thái trống. Hành khách lên xuồng theo từng nhóm lệch thời gian sau giây 112 và hoàn tất trước khi từng xuồng hạ xuống. Dây chạy giữa các davit đang chuyển động và các điểm gắn thực tế trên xuồng, sau đó biến mất khi được thả. Tua ngược phải khôi phục số hành khách và trạng thái dây ở thời điểm trước đó. Va chạm phải đồng bộ rung thân tàu/camera, mảnh băng, tia nước do cọ xát và âm thanh thoáng qua của thép/băng. Pháo hiệu cứu nạn dùng các ngôi sao cháy màu trắng, vệt ngắn riêng lẻ, trọng lực, lực cản và khói mờ dần. Nhiễu động khi chìm là các mảng bất quy tắc bám theo sóng và suy giảm từ từ; phân bổ tia nước dọc theo đúng đường tiếp nước của đuôi tàu, tuyệt đối không phát ra từ một điểm fountain ở xa.
-
-6. Triển khai kỹ thuật và sản phẩm bàn giao
-Sử dụng Vite, các module JavaScript và Three.js với animation dựa trên thời gian mang tính xác định. Tách camera/timeline, tài sản tàu, nhân vật, môi trường, hiệu ứng và trạng thái sẵn sàng của cảnh. Dùng cùng một mô hình thời gian cho phát lại trên web, tua và capture offline. Giới hạn render web trong ngân sách pixel, phản xạ và bóng được xác định rõ; dành ambient occlusion nặng hơn cho profile offline. Biên dịch và giải mã tài sản mà không có bước prewarm khởi động dài gây chặn. Host script, model, hình ảnh, font và âm thanh trên cùng origin, đồng thời không đưa secret vào bản build tĩnh.
-
-Dùng nhạc nền nguyên bản và Foley trả phí từ ElevenLabs: một bản thu tiếng huýt sáo pháo hoa tự nhiên hoàn chỉnh, được tách đúng tại thời điểm pháo nổ trên không thành đoạn bay lên và tiếng nổ sắc kèm đuôi lách tách, cùng âm thanh tiếp xúc và cọ xát thép/băng, dây xuồng cứu sinh và tiếp nước, biến dạng/nứt thân tàu, và chuyển động nước do đuôi tàu tạo ra. Xuất các file WAV nguồn, giữ lại prompt/lịch sử và ID, rồi biên tập thành các cue theo thời gian. Căn thời điểm phóng tại các giây 119, 151 và 183, với pháo nổ trên không sau đó 3.15 giây. Giữ nguyên attack của tiếng nổ ban đầu và hạ nhẹ nhạc giao hưởng trong thời gian ngắn. Duy trì ambience yên tĩnh của biển, gió và động cơ bên dưới bản mix. Không đưa soundtrack của bộ phim tham chiếu vào website công khai hoặc phim tải xuống nếu chưa được cấp phép. Ghi rõ nguồn tài sản và âm thanh thực tế thay vì mô tả phương án dự phòng như một tài sản do dịch vụ tạo ra.
-
-Cung cấp bản xuất xác định gồm 6,336 frame ở 3840×2160 và 24 fps với ba mẫu theo thời gian, tiêu đề tiếng Anh được burn-in và hình ảnh letterbox 2.39:1. Mã hóa bản master 4K H.264/AAC và bản web 1080p dưới 100 MiB, cả hai dài 264 giây với âm thanh stereo 48 kHz. Giữ tùy chọn phụ đề Trung/Anh, master âm thanh và source có thể chỉnh sửa. Phát hành bản build tĩnh thông qua dịch vụ hosting Web Pages của CMS hiện có, không thêm ứng dụng nền tảng hoặc Worker theo từng trang.
-
-7. Tiêu chí nghiệm thu
-Kiểm tra cảnh mở đầu, cả hai chân dung nhân vật, va chạm, pháo hiệu cứu nạn, cả ba shot hạ xuồng, cảnh nứt gãy, cảnh đuôi tàu biến mất và bình minh. Kiểm tra để chắc chắn tảng băng không biến mất ở giây 244, biển thể hiện đúng màu xanh đậm, cảnh chìm không có các vòng trắng đều đặn, nhân vật vẫn xuất hiện trong các shot đã biên soạn, dây xuồng/hành khách luôn thẳng hàng trong suốt quá trình hạ xuồng. Kiểm thử việc tải model trễ, tua tới/tua lui, scrub nhanh, tạm dừng/tắt tiếng, khám phá động, truy cập trực tiếp các cảnh cận và mô phỏng thao tác cảm ứng. Xác minh từng frame đã xuất, giải mã đầy đủ cả hai bộ phim, đối chiếu file tải xuống thực tế trên trình duyệt với file bàn giao, đồng thời xác minh bản build công khai và liên kết CMS. Phân biệt việc giả lập thiết bị di động trên trình duyệt với kiểm thử trên điện thoại thật.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/titanic-the-last-light) · [Bản demo](https://titanic-the-last-light.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101325346427842909"></a>
-
-### Mô hình 3D Waymo Jaguar I-Pace
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/9a1f4ddfbd700e1f0a801a5f774a4fbf96c0ad7e98f8d9f9603f83cbb0b50dfc.webp" width="840" loading="lazy" alt="Mô hình 3D Waymo Jaguar I-Pace"></a>
-
-**Prompt**
-
-```text
-mô hình 3D Waymo Jaguar I-Pace bằng Three.js
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-3d model of Waymo Jaguar i-Pace using three js
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101325346427842909) · [Bài đăng gốc](https://x.com/HarshithLucky3/status/2101325346427842909) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101310374033428642"></a>
-
-### Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/b4e5c19965da011929b1777975e9c6c8a82a23c2a55340683d900de8a4103856.webp" width="840" loading="lazy" alt="Quy trình tạo hoạt ảnh 3D và video mèo võ thuật catfu"></a>
-
-**Prompt**
-
-```text
-Một cú máy điện ảnh duy nhất, siêu chân thực, dài 10 giây, 16:9, 24fps, máy quay cố định, không cắt cảnh.
-Một chú mèo mướp lông vàng cam-trắng (mõm, ngực và bàn chân màu trắng; sọc mướp màu cam với chữ "M" trên trán) ngồi thẳng, chính giữa khung hình, đối diện ống kính trong tư thế võ thuật cứng đờ — ánh mắt phẳng lặng, điềm tĩnh, không chút ấn tượng, mắt lim dim, miệng khép kín, đầu không bao giờ cử động. Nó đeo một chiếc hachimaki màu đen buộc thấp ngang trán, nút thắt ở phía sau, hai tai nhô lên trên dải khăn.
-Bối cảnh: sân chùa Nhật Bản truyền thống — các cột gỗ, mái hiên và lan can ấm màu — tan vào hiệu ứng bokeh vàng kem của giờ vàng. Ống kính 85mm, f/1.8, độ sâu trường ảnh cực mỏng, khóa nét vào mắt mèo. Tông màu 3500K ấm áp, ánh sáng chính mềm từ phía trước bên phải, bóng đổ được bổ sáng nhẹ, hạt phim mịn.
-HÀNH ĐỘNG: một cánh tay người trần lao vào từ bên trái khung hình, lòng bàn tay mở đẩy nhanh về phía mặt mèo với hiệu ứng nhòe chuyển động rõ rệt; mèo bình thản nâng bàn chân trước bên phải lên đỡ, chặn lòng bàn tay và triệt tiêu đà của đòn đánh — nó đỡ đòn, không tát. Cánh tay quét ngang qua mặt mèo trong một vệt nhòe, sau đó một bàn tay thứ hai chém xuống từ bên phải; mèo hóa giải từng đòn bằng cú chặn bàn chân ngắn và tối giản, thân và đầu hoàn toàn bất động, mắt không rời ống kính. Những bàn tay là bên tấn công — mèo chỉ phản ứng và không hề nao núng. Hai bàn tay liên tục giả động tác rồi rút ra từ cả hai phía; mèo chuyển sang thế thủ boxing bằng hai bàn chân ở ngang ngực, các bàn chân co lại, khuỷu tay khép vào, rồi giữ nguyên tư thế để chờ đợi. Nó bất ngờ tung những đòn phản công nhanh bằng từng bàn chân đơn lẻ, nhòe theo phong cách kung-fu, chặn những bàn tay đang lao tới giữa không trung, đầu vẫn khóa thẳng về phía trước. Cuối cùng, nó đẩy thẳng bàn chân phải vào ống kính, đệm chân màu hồng hướng về máy quay, cho đến khi bàn chân lấp đầy khung hình thành một hình dạng tiền cảnh mềm, mất nét — gương mặt phía sau vẫn sắc nét tuyệt đối, ánh mắt lạnh lùng không đổi.
-Chuyển động: tốc độ tự nhiên, hiệu ứng nhòe chuyển động chân thực trên những bàn tay đang bay tới và các cú chặn bàn chân nhanh. Chuyển động phòng thủ của mèo phải tối giản, tiết kiệm và tự nhiên — nó hầu như không cử động; những bàn tay làm tất cả nhưng đều thất bại. Không chuyển động máy quay, không zoom, không chữ.
-PHỦ ĐỊNH: chi thừa, bàn chân dính hoặc biến dạng, ngón tay thừa, gương mặt méo mó, dải khăn hòa vào lông, da nhựa, màu quá bão hòa, chữ, phụ đề, logo, hình mờ, cắt cảnh, rung máy, ngôn ngữ cơ thể vui vẻ/ăn mừng, cử chỉ đập tay.
-BẢN NGẮN:
-Mèo mướp lông vàng cam-trắng đeo hachimaki đen ngồi trong sân chùa Nhật Bản ngập nắng, nhìn thẳng vào máy quay với vẻ tỉnh bơ, 85mm f/1.8, DOF mỏng, giờ vàng, hạt phim. Những bàn tay người chém và đẩy nhanh vào mặt nó từ cả hai phía với hiệu ứng nhòe chuyển động — mèo bình thản đỡ từng đòn bằng cú chặn bàn chân tối giản, đầu không hề cử động. Nó chuyển sang thế thủ kung-fu bằng hai bàn chân, tung những đòn phản công nhanh và nhòe, rồi đẩy bàn chân vào ống kính cho đến khi đệm chân lấp đầy khung hình. Một cú máy cố định duy nhất, 10 giây, 16:9, 24fps, siêu chân thực, không chữ.
-Ghi chú nhỏ từ khung hình: tay chủ yếu lao vào từ bên trái (đòn chém từ trên xuống + cú quét ngang), điểm tiếp xúc nằm ở cổ tay/lòng bàn tay — không phải bàn chân chạm bàn chân. Thế thủ bằng hai bàn chân xuất hiện khoảng 4.0-5.6 giây, phản công nhòe ở 5.6-8 giây, kết thúc với bàn chân chạm ống kính ở 8-10 giây. nhiệm vụ của bạn là tạo mô hình 3D bằng Blender MCP, tạo đầu ra 10 giây ở 24fps và kết xuất thành cảnh siêu chân thực bằng pixverse cli, sử dụng seedance 2.5 làm mô hình tạo video
-CÁC BƯỚC CỦA AGENT: Kiểm tra Blender MCP, xác thực PixVerse CLI, khả năng của mô hình và số credit hiện có. Thông báo chi phí ước tính và xin phê duyệt chi tiêu trước khi tạo nội dung có tính phí. Chuyển prompt thành bảng nhịp thời gian, dựng các mesh 3D nhẹ cùng hoạt ảnh thông qua Blender MCP chính thức, kết xuất MP4 tham chiếu chuyển động, rồi kiểm tra khung hình, chuyển động, điểm tiếp xúc, thời lượng và tốc độ khung hình. Tạo và kiểm tra riêng một ảnh tham chiếu ngoại hình trước khi gửi yêu cầu tạo video. Dùng ảnh để định hướng nhận diện, phong cách và ánh sáng; dùng video Blender để định hướng chuyển động và nhịp thời gian. Sau khi tạo xong, tải kết quả xuống, xác minh thông số kỹ thuật, kiểm tra các khung hình chính, báo cáo trung thực mọi sai lệch và tính lượng credit thực tế đã sử dụng. Giữ nguyên các tệp gốc; không tự ý chuyển mô hình hoặc tạo lại.
-LỆNH GỌI PIXVERSE: Dùng pixverse create image với gpt-image-2.0 để tạo ảnh tham chiếu ngoại hình theo tỷ lệ khung hình đã xác nhận, 1080p, độ chi tiết cao. Sau đó dùng pixverse create reference với mô hình video đã xác nhận, truyền cả hai --images and --videos to để kết hợp ảnh ngoại hình với tham chiếu chuyển động Blender. Với Seedance 2.5, sử dụng --model seedance-2.5 --task-type auto, thời lượng/tỷ lệ khung hình đã xác nhận và --quality 1080p --count 1. Xác minh khả năng hiện tại trước khi gửi yêu cầu, sử dụng các khóa idempotency duy nhất và theo dõi tiến trình qua pixverse task status / pixverse task wait.
-ĐẦU RA CUỐI: Trả về video hoàn chỉnh theo tỷ lệ khung hình và thời lượng đã xác nhận, mục tiêu 1080p và 24fps, cùng ảnh tham chiếu ngoại hình, dự án Blender .blend và MP4 tham chiếu chuyển động. Cung cấp đường dẫn cục bộ tuyệt đối hoặc URL tải xuống. Giữ định dạng báo cáo cuối cùng: Video, Ảnh tham chiếu, Mesh + hoạt ảnh Blender, Kiểm tra, Hình ảnh, và Credit đã sử dụng. Báo cáo độ phân giải thực tế, tốc độ khung hình, số lượng khung hình, thời lượng, sai lệch hình ảnh, chi phí credit cho ảnh/video, tổng chi tiêu, số dư còn lại và việc có tạo lại hay không.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-SHORT VERSION:
-Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
-Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
-AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
-PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
-FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101310374033428642) · [Bài đăng gốc](https://x.com/PixVerse/status/2101310387081908606) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101271938706685991"></a>
-
-### Mô hình tương tác 3D động cơ máy bay
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/ab861425bbbe93cb886651a97e2e3b2d2c7ae1be8684904fc0b3c42bd9b0c37a.webp" width="840" loading="lazy" alt="Mô hình tương tác 3D động cơ máy bay"></a>
-
-**Prompt**
-
-```text
-Dùng three.js để xây dựng màn hình hiển thị 3D tương tác của một động cơ máy bay trên trang web. 
-Vui lòng tham khảo triết lý thiết kế tương tác của Jigspace để tạo mô hình chân thực, được phục dựng với độ trung thực gần 1:1, giữ nguyên đầy đủ chi tiết vật liệu và kết cấu bề mặt như kim loại, đường ống và cánh quạt. Các tính năng tương tác bắt buộc gồm: hoạt ảnh tháo rời theo từng bước, chế độ xem tách lớp các bộ phận, cùng phần mô tả bộ phận và giải thích nguyên lý hiển thị khi nhấp hoặc di chuột. 
-Nhìn chung, sản phẩm phải hỗ trợ điều khiển camera mượt mà và tương tác người–máy thân thiện, mang lại trải nghiệm liền mạch trên web, đồng thời trình bày đầy đủ cấu trúc và nguyên lý hoạt động của động cơ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101271938706685991) · [Bài đăng gốc](https://x.com/YouWareAI/status/2101272224435253432) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101224659861590399"></a>
-
-### Môi trường 3D chân thực như ảnh hoàn chỉnh
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Môi trường 3D chân thực như ảnh hoàn chỉnh"></a>
-
-**Prompt**
-
-```text
-Dựng một môi trường 3D hoàn chỉnh, chân thực như ảnh. Hãy tạo bất ngờ cho tôi.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a complete photorealistic 3D environment. Surprise me.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101224659861590399) · [Bài đăng gốc](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101055500599054437"></a>
-
-### Thiên hà dựa trên vật lý quỹ đạo thực tế
-
-[Argona](https://x.com/Argona0x) · 2026-09-18 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp" width="840" loading="lazy" alt="Thiên hà dựa trên vật lý quỹ đạo thực tế"></a>
-
-**Prompt**
-
-```text
-một thiên hà dựa trên vật lý quỹ đạo thực tế, 320.000 ngôi sao, một chuyến bay xuyên qua thiên hà, 30 giây
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2101055500599054437) · [Bài đăng gốc](https://x.com/Argona0x/status/2101055500599054437) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="monster-block"></a>
-
-### Monster Block — 45 giây phá tan thành phố
-
-[Tony](https://x.com/abc30037274) · 2026-09-18 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/monster-block"><img src="../assets/previews/8c0a2832f40569463c7b23d6b5228538ce90881c8b01876795d818b89d197a5d.webp" width="840" loading="lazy" alt="Monster Block — 45 giây phá tan thành phố"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/ab5439fe-bc9f-4cde-8713-20e1b0caf7a6.png) · [2](https://media.tripogrowth.space/media/94648b5c-c804-46bd-a2b1-c684b25bd848.png) · [3](https://media.tripogrowth.space/media/4405e75a-c387-44cb-b63c-d8503454b422.png)
-
-**Prompt**
-
-```text
-# Monster Block — đặc tả xây dựng lại
-
-## 1. Mục tiêu dự án
-
-Xây dựng một game trình duyệt có thể chơi được mang tên Monster Block. Cho phép người chơi chọn một quái vật đồ chơi, bước vào thành phố thu nhỏ và phá hủy càng nhiều tòa nhà càng tốt trong 45 giây. Việc di chuyển, cào phá tòa nhà, ném ô tô và liên tiếp phá hủy phải tạo phản hồi tức thì. Kết thúc lượt chơi bằng điểm số, danh hiệu, nút chơi lại và liên kết thử thách để bạn bè có thể chơi cùng một khu phố. Cung cấp giao diện tiếng Anh và tiếng Trung giản thể, cùng điều khiển bằng bàn phím và cảm ứng.
-
-## 2. Phong cách hình ảnh
-
-Tạo một mô hình sa bàn ấm áp trên bục vuông dày, đặt trước nền màu kem. Sử dụng các tòa nhà màu pastel ít chi tiết, cửa sổ nhỏ màu xanh teal đậm, viền mái nhạt, đường phố rộng màu xanh xám trầm, vạch qua đường, cây tròn, ô tô nhỏ và bóng mềm ấm. Bảng màu tòa nhà gồm màu đất nung, vàng mù tạt, teal bụi, hồng rose, xanh xám, kem và xanh sage. Vật liệu nên trông như đồ chơi được sơn mờ thay vì kim loại bóng.
-
-Sử dụng camera phối cảnh cao góc ba phần tư, không dùng camera nhìn từ trên xuống phẳng. Camera tham chiếu bắt đầu tại (35, 37, 41), hướng về (0, 0.4, 0), với trường nhìn 38 độ trên màn hình rộng, 44 độ trên màn hình trung bình và 51 độ trên màn hình hẹp. Khi chơi, camera bám theo quái vật một cách mượt mà đồng thời vẫn giữ các mục tiêu lân cận trong tầm nhìn. Chiếu sáng cảnh bằng đèn bán cầu ấm, đèn định hướng mềm có đổ bóng và đèn bổ trợ mát.
-
-Sử dụng kiểu chữ hiển thị đậm, cô đọng cho các tiêu đề tiếng Anh lớn và sans-serif dễ đọc cho phần hướng dẫn. Kết hợp chữ xanh lá đậm, bề mặt màu kem, thao tác chơi màu cam và thao tác tạo bằng Tripo màu vàng. Trên trang chủ, làm cho Play và Create with Tripo nổi bật ngang nhau. Trong hộp thoại tạm dừng, đặt thẻ Tripo màu xanh lá đậm với ba ảnh thu nhỏ nhân vật và nút tạo màu vàng phía trên nút Resume dạng viền. Đảm bảo phần trợ giúp đủ dễ đọc trên điện thoại.
-
-Sử dụng các hiệu ứng ngắn, kích hoạt theo thao tác: vệt cào, tòa nhà giật lùi trong chốc lát, hiệu ứng va chạm và phá hủy riêng biệt, vòng chấn động mở rộng, mảnh vỡ nhỏ, điểm số bật lên, thay đổi combo và rung camera có hướng ở mức vừa phải. Nâng ô tô đã bắt vào tay trong khoảng 220 ms. Tôn trọng tùy chọn giảm chuyển động bằng cách tắt rung, các đợt mảnh vỡ và hiệu ứng phóng to giao diện, nhưng vẫn giữ điểm số, dấu hiệu mục tiêu và kết quả phá hủy.
-
-## 3. Thế giới và cảnh
-
-Đặt 16 tòa nhà có thể phá hủy trong lưới 4-by-4. Sử dụng khoảng cách giữa các khu phố là 10.4, tâm các khu phố lần lượt ở -1.5, -0.5, 0.5 và 1.5 lần khoảng cách đó, cùng năm đại lộ theo mỗi trục. Bục rộng 52.6 đơn vị. Tòa nhà có từ hai đến năm tầng, mặt bằng đa dạng, chi tiết mái, một số mái hiên và các biển HOTEL hoặc NOODS nhỏ. Tạo bố cục một cách xác định từ seed.
-
-Đặt 12 ô tô dọc các tuyến đường và đảm bảo có một ô tô màu vàng có thể ném được gần vị trí chơi ban đầu. Bố trí cây quanh các khu đất xây dựng và mép bục, bốn đèn ở góc, vạch làn đường và một lối qua đường ở trung tâm. Bắt đầu quái vật trên một đại lộ thông thoáng tại (0, 0.2, 10.4); dùng vị trí đứng chờ tiền cảnh ở z=20.8 cho trang chủ.
-
-Cùng một tham số khu phố phải tái tạo đúng cùng bố cục tòa nhà. Khi không có tham số, lấy seed khu phố từ ngày UTC. Tham số beat cung cấp điểm mục tiêu của bạn bè. Giữ nguyên khu phố đã chọn khi chơi lại. Mảnh vỡ ngẫu nhiên không cần có tính xác định.
-
-## 4. Danh mục tài sản
-
-Duy trì ID tài sản ổn định và tách mô hình hiển thị khỏi proxy va chạm của gameplay.
-
-- munch: Munch / 阿猛, khủng long xanh mặc định. Giữ nguyên mõm tròn, bụng và sừng màu kem, gai lưng màu cam, tay ngắn, bàn chân lớn và đuôi dài ban đầu. Tải /assets/monster-animated.glb và chuẩn hóa chiều cao thành 5.6 đơn vị. Giữ /assets/monster.glb làm phương án dự phòng tĩnh.
-- bongo: Bongo / 橘拳, khỉ đột đồ chơi màu cam với nắm đấm quá khổ và thân hình rộng. Tải /assets/bongo-animated.glb và chuẩn hóa chiều cao thành 4.5 đơn vị.
-- bolt: Bolt / 蓝电, robot đồ chơi màu xanh với tay chân chắc nịch và dáng vẻ thân thiện. Tải /assets/bolt-animated.glb và chuẩn hóa chiều cao thành 4.9 đơn vị.
-- Mỗi nhân vật có PNG xem trước tương ứng và các clip idle, run, slash. Giữ đúng ba nhân vật có thể chọn; khi chuyển nhân vật, phải cập nhật cả ảnh xem trước lẫn mô hình được sử dụng ở lượt chơi tiếp theo.
-- city_building: các nhóm tòa nhà procedural có thể tái sử dụng, với máu, giới hạn collider, độ giật khi trúng đòn và trạng thái phá hủy được theo dõi riêng. Viền mái, phần đế và mái hiên thuộc vùng bao va chạm.
-- city_car: các ô tô procedural có thể tái sử dụng và ném được. Tách riêng trạng thái đang cầm, đang bay và đã bị phá hủy. Ba ô tô mang thương hiệu Tripo màu vàng.
-- city_decor: cây, đèn, vỉa hè, biển báo và sơn đường procedural. Giữ phần này nhẹ và tái sử dụng hình học cùng vật liệu.
-- tripo_scenery: một mô hình logo trên mái, hai biển hiệu trên mái, một mặt tiền xưởng và ba ô tô gắn thương hiệu. Dựng chúng từ logo Tripo được cung cấp và các mesh procedural. Đây là vật trang trí cảnh, không phải mô hình được tạo thêm qua API hay vật phẩm tăng sức mạnh trong gameplay.
-
-Ba mô hình nhân vật là các tài sản Tripo ưu tiên. Tái sử dụng các GLB đã tạo và rig được cung cấp khi có thể. Với nhân vật mới, hãy tạo một mô hình phong cách đồ chơi phù hợp, kiểm tra độ tương thích của rig, bind rig, tạo animation idle/run/slash và xác thực tỷ lệ trước khi thêm vào danh sách nhân vật. Không gọi API tạo nội dung khi người chơi bắt đầu một lượt. Tải nhân vật lên và tự động nhập sản phẩm do người chơi tạo nằm ngoài phiên bản này.
-
-## 5. Gameplay và phản hồi
-
-Hỗ trợ WASD hoặc phím mũi tên để di chuyển, giữ Space để liên tục tấn công bằng vuốt, nhấn E để nhặt ô tô gần đó và nhấn E lần nữa để ném, nhấn R để dậm và Escape để tạm dừng. Cung cấp cần điều khiển ảo cùng các nút riêng cho tấn công, nhặt/ném và dậm trên màn hình cảm ứng. Xóa các thao tác đang được giữ khi tạm dừng hoặc mất tiêu điểm.
-
-Áp dụng các quy tắc sau:
-
-- Một lượt chơi kéo dài 45 giây. Máu của tòa nhà bằng số tầng cộng một, tương đương 3–6 máu.
-- Một đòn vuốt gây 1 sát thương, với khoảng thời gian giữa các đòn là 0.42 giây.
-- Một cú dậm gây 3 sát thương lên mỗi tòa nhà trong phạm vi và có thời gian hồi 7 giây.
-- Ô tô bị ném gây 4 sát thương lên các tòa nhà trong vùng va chạm và cộng 75 điểm cơ bản cho cú va chạm do ném.
-- Đánh trúng tòa nhà được cộng 20 lần hệ số hiện tại. Phá hủy tòa nhà cộng round(180 + chiều cao tòa nhà × 50) lần hệ số sau khi tăng combo phá hủy.
-- Phá hủy tiếp trong vòng 3.5 giây sẽ duy trì combo. Các đòn đánh thông thường không kéo dài khoảng thời gian này. Hệ số là min(5, 1 + floor(combo / 2)).
-- Phá hủy đủ cả 16 tòa nhà sẽ kết thúc lượt chơi và cộng ceil(số giây còn lại) × 100. Nếu không, kết thúc khi thời gian về 0 và không cho cộng thêm điểm.
-
-Không có kẻ địch, trận đấu trùm, máu người chơi hay hình phạt tử trận. Thử thách nằm ở việc chọn tuyến đường, sử dụng ô tô và cú dậm hiệu quả, đồng thời duy trì combo phá hủy. Hiển thị thời gian còn lại, điểm số, số tòa nhà đã phá hủy, hệ số và thời gian hồi cú dậm. Giải thích rõ các thao tác chưa khả dụng mà không chặn việc di chuyển. Phân biệt cú vung hụt với đòn đánh trúng bằng phản hồi âm thanh và hình ảnh.
-
-Xử lý việc di chuyển và xoay dựa trên vùng chiếm chỗ animation đã lấy mẫu của từng nhân vật, bao gồm cả tay và đuôi. Kiểm tra với toàn bộ giới hạn tòa nhà và chừa một khoảng hở nhỏ. Quái vật phải có thể tấn công từ một vị trí đứng hợp lệ. Cho phép di chuyển qua khu đất sau khi tòa nhà bị phá hủy. Tránh khiến người chơi mắc kẹt ở góc hoặc để đuôi quét xuyên qua tòa nhà còn nguyên khi xoay.
-
-Tạm dừng bộ đếm thời gian và thao tác khi nhấn Escape, nút tạm dừng, cửa sổ mất tiêu điểm hoặc tab bị ẩn. Cung cấp các luồng Resume, Retry và Home. Kết thúc bằng điểm số, số lần phá hủy, combo tốt nhất, một danh hiệu vui nhộn và liên kết thử thách cùng bản đồ. Cung cấp bảng điểm tải xuống kích thước 1080-by-1350 và, khi MediaRecorder được hỗ trợ, bản ghi lượt chơi ở định dạng MP4 hoặc WebM được hỗ trợ. Dùng tính năng chia sẻ gốc khi có thể và dùng clipboard làm phương án dự phòng cho liên kết thử thách. Không bao giờ trình bày điểm số do trình duyệt tính là bảng xếp hạng cạnh tranh đáng tin cậy.
-
-## 6. Triển khai kỹ thuật
-
-Sử dụng Three.js, TypeScript và Vite với bản build dist tĩnh. Tách việc tạo thế giới, luật chơi, va chạm, nhân vật, kết xuất, âm thanh, ghi hình, phân tích và UI thành các module riêng. Đóng gói font và các tài sản decoder cần thiết cục bộ. Dùng instancing cho các cửa sổ và vạch đường lặp lại, đồng thời tái sử dụng vật liệu và hình học. Giới hạn pixel ratio kết xuất ở mức 1.65. Giới hạn các hiệu ứng tạm thời và giải phóng tài nguyên khi hoàn tất hoặc reset.
-
-Sử dụng GLTFLoader, skeletal animation mixer và các clip GLB được cung cấp. Chuẩn hóa mỗi mô hình quanh pivot mặt đất ở chính giữa. Bản xuất tham chiếu hướng mặt về +X; xoay pivot hiển thị -90 độ quanh trục Y để căn theo hướng tiến +Z của game. Đánh giá animation idle trước khi hiển thị mô hình đã tải và giữ chân đang animation gần mặt đất. Nếu tải thất bại, sử dụng phương án procedural dự phòng có thể nhìn thấy và thông báo trung thực về lỗi. Kiểm soát việc chọn nhân vật bất đồng bộ để lần tải cũ không thể thay thế lựa chọn mới nhất.
-
-Giữ dữ liệu va chạm của nhân vật độc lập với mesh kết xuất và tạo lại các vùng chiếm chỗ đã lấy mẫu khi đổi nhân vật hoặc animation. Kiểm tra cả di chuyển lẫn xoay gần tường. Duy trì thao tác bàn phím/cảm ứng ổn định, hộp thoại phản hồi nhanh, nội dung đã bản địa hóa, hành vi focus, điều khiển âm thanh tắt tiếng, chế độ giảm chuyển động và khả năng khôi phục WebGL.
-
-Liên kết các thao tác tạo bằng Tripo với https://www.tripo3d.ai/ với utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game và utm_content theo vị trí: header_logo, hero_create, pause_create, result_create hoặc footer_logo. Mở các thao tác này trong tab riêng và tạm dừng lượt chơi đang hoạt động trước. Giải thích rằng Tripo tạo tài sản 3D; không hứa hẹn tự động nhập vào game này.
-
-Giữ nguyên tích hợp sự kiện Pageview và PostHog khi chính sách lưu trữ cho phép. Chỉ sử dụng cấu hình tiếp nhận dữ liệu công khai trên trình duyệt trong bản build tĩnh. Giữ thông tin xác thực cho việc tạo nội dung, CMS, triển khai và phân tích cá nhân bên ngoài mã nguồn và các tài sản build. Ghi nhận lượt vào trang, chọn nhân vật, bắt đầu chơi, các thao tác đầu tiên, kết quả lượt chơi, chơi lại, chia sẻ/xuất và lượt nhấp ra ngoài đến Tripo, nhưng không xem lượt nhấp là lượt đăng ký hay thanh toán đã được xác minh.
-
-## 7. Tiêu chí hoàn tất
-
-Bàn giao mã nguồn có thể chạy, tài sản cục bộ, bản build tĩnh production và hướng dẫn cài đặt/khởi chạy/build rõ ràng. Xác minh cả ba lựa chọn nhân vật, một lượt chơi đủ thời gian, phá hủy tòa nhà, nhặt và ném, thời gian hồi cú dậm, hết hạn combo, tạm dừng/tiếp tục, chơi lại và tính điểm cuối lượt. Xác minh khủng long ban đầu vẫn có thể chọn, đồng thời cả ba nhân vật đều có thể di chuyển và xoay gần các tòa nhà mà không xuyên mesh rõ rệt hay bị mắc kẹt.
-
-Kiểm tra bố cục tiếng Anh và tiếng Trung trên màn hình desktop và thiết bị di động hẹp, bao gồm nội dung trợ giúp dễ đọc, điều khiển cảm ứng, thao tác tạm dừng và chia sẻ kết quả. Xác minh đích CTA của Tripo cùng các giá trị UTM theo vị trí, tính năng xuất bảng điểm và hành vi dự phòng khi ghi hình. Kiểm tra trang đã triển khai và môi trường iframe CMS thực tế về việc tải mô hình, thao tác, liên kết bên ngoài và tải xuống. Báo cáo các giới hạn của trình duyệt hoặc thiết bị thay vì khẳng định hỗ trợ mọi trường hợp hoặc tốc độ khung hình ổn định đã đo được khi chưa có bằng chứng.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/monster-block) · [Bài đăng gốc](https://x.com/abc30037274/status/2100636075039629796) · [Bản demo](https://monster-block.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

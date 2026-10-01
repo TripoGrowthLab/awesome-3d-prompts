@@ -28,6 +28,18 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Şehirde kaiju savaşı](#kaiju-city-battle-2096251574918013135)
+- [Etkileşimli Hyperloop demosu](#interactive-hyperloop-demo-2096250748099068377)
+- [Kaydırmayla ilerleyen 3B stüdyo sitesi](#scroll-driven-3d-studio-website-2096245759121277132)
+- [Komorebi nehir kanosu](#komorebi-river-kayaking-2096244208533455049)
+- [Işığı kıran şişeyle ürün hikâyesi](#refractive-bottle-product-story-2096243989439713677)
+- [Anı kapsülü makinesi](#memory-capsule-machine-2096241295949975602)
+- [Eksiksiz Uçuş Döngüsüne Sahip Tarayıcı Uçuş Simülatörü](#gpt-6-astra-2096236137266512181)
+- [Prosedürel Napolyon büstü](#procedural-napoleon-bust-2096234355395903672)
+- [Tren istasyonu ana salonu](#railway-station-concourse-2096226711222546461)
+- [Yörüngede buluşma simülatörü](#orbital-rendezvous-simulator-2096225621303042258)
+- [Animasyonlu ilk kullanım dioraması](#animated-onboarding-diorama-2096222790894661841)
+- [Parçalı etkileşimli insan anatomisi](#exploded-interactive-human-anatomy-2096221988763173186)
 - [Küpe hapsolmuş fırtına](#a-storm-trapped-in-a-cube-2096220264413409648)
 - [Özel 3B Varlıklarla Oynanabilir Roblox Kart Yarışı](#gpt-6-astra-2096219700879331665)
 - [Bisiklete Binen Etkileşimli Pelikan](#gpt-6-astra-2096213850383331489)
@@ -66,20 +78,419 @@
 - [3B aksiyon macerası olarak Zork](#zork-as-a-3d-action-adventure-2096047660662722620)
 - [Köprü kapanmalarından etkilenen teslimat ağı](#delivery-network-with-bridge-closures-2096042360513904742)
 - [Evrilen WebGL ekosistemi](#evolving-webgl-ecosystem-2096040448477515874)
-- [Keşfedilebilir Tac Mahal](#explorable-taj-mahal-2096035962824335798)
-- [Konuşma etkinliklerini gösteren küreli kişisel 3B portföy](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [Gogh Strike çok oyunculu FPS](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [Referanslardan TP-7 kayıt cihazı modeli](#tp-7-recorder-reference-model-2096013228090245181)
-- [Tesla Model X patlatılmış görünümü](#tesla-model-x-exploded-view-2096009146248122416)
-- [Esnek WebGPU jölesi](#bouncy-webgpu-jelly-2096008241104711698)
-- [Roblox'ta anime arena dövüşü](#anime-arena-fighter-in-roblox-2095999578419929412)
-- [Eş zamanlı kat planı ve 3D gezinti](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
-- [Tarayıcıda etkileşimli nehir sahnesi](#interactive-browser-river-scene-2095993826569502785)
-- [Katedralde yakın dövüş arenası](#cathedral-hack-and-slash-arena-2095988972879335792)
-- [Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun](#gpt-6-astra-2095987508475834641)
-- [Etkileşimli Titan bilim sergisi](#interactive-titan-science-exhibit-2095986941753712841)
 
 </details>
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### Şehirde kaiju savaşı
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="Şehirde kaiju savaşı"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Üretilmiş yaratık modelleri ve ses efektleriyle kaiju esintili Three.js oyunu oluştur. Dev ölçekli çatışma anlaşılır, ortam yaratıkların büyüklüğünü hissettirir olsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/kaiju-city-battle-2096251574918013135) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2096251574918013135) · [Canlı demo](https://stormcolossus.netlify.app/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### Etkileşimli Hyperloop demosu
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="Etkileşimli Hyperloop demosu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Taşıma kapsülünü, tüp altyapısını ve sistemdeki hareketi gösteren etkileşimli Three.js Hyperloop demosu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Orijinal gönderi](https://x.com/hbanay98/status/2096250748099068377) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### Kaydırmayla ilerleyen 3B stüdyo sitesi
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="Kaydırmayla ilerleyen 3B stüdyo sitesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Verilen referans görüntüyü, akıcı kaydırmalı stüdyo sitesi içinde Three.js sahnesine dönüştür. Kamera hareketini, tipografiyi ve bölüm geçişlerini koordine et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Orijinal gönderi](https://x.com/mx_debbiee/status/2096245759121277132) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### Komorebi nehir kanosu
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi nehir kanosu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Anime estetiğinde 3B nehir kanosu oyunu oluştur. Oyuncu engellerden kaçınmak için sağa ve sola kürek çekebilsin. Akan suyu, manzarayı, müziği ve ses efektlerini kodla üret.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Orijinal gönderi](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### Işığı kıran şişeyle ürün hikâyesi
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="Işığı kıran şişeyle ürün hikâyesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Fotogerçekçi WebGL cam şişe etrafında etkileşimli ürün sitesi oluştur. Tarayıcı performansını korurken ışığı kıran sıvı, kaydırmayla dönme ve güçlü tipografi kullan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Orijinal gönderi](https://x.com/himanshubuildss/status/2096243989439713677) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### Anı kapsülü makinesi
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="Anı kapsülü makinesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+3B anı kapsülü makinesi oluştur. Düğmeyi çevirince bir anı serbest kalsın. Mekanizmayı Blender'da modelle; düşen kapsüllere inandırıcı hareket ve ses ver.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/memory-capsule-machine-2096241295949975602) · [Orijinal gönderi](https://x.com/gloria_zwq/status/2096241295949975602) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096236137266512181"></a>
+
+### Eksiksiz Uçuş Döngüsüne Sahip Tarayıcı Uçuş Simülatörü
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="Eksiksiz Uçuş Döngüsüne Sahip Tarayıcı Uçuş Simülatörü"></a>
+
+**İstem**
+
+```text
+Sıfırdan, cilalı ve oynanabilir, tarayıcı tabanlı bir 3B uçuş simülatörü oyunu oluşturun.
+
+Amaç statik bir 3B sahne değil, küçük ancak gerçekten oynanabilir bir uçuş simülasyonu deneyimi oluşturmaktır.
+
+GAMEPLAY
+- Ayrıntılı bir pist, taksi yolu, terminal/binalar, çim/arazi, pist işaretleri ve ışıkları, gökyüzü ve bulutlarla bir havaalanı oluşturun.
+- Havaalanına tanınabilir bir yolcu uçağı yerleştirin.
+- Oyuncu uçağı klavyeyle kontrol edebilmelidir.
+- Gaz, yunuslama, yatış, sapma ve frenlemeyi uygulayın.
+- Uçakta temel düzeyde inandırıcı uçuş fiziği, momentum ve ivmelenme bulunmalıdır.
+- Oyuncu pistte hızlanabilmeli, kalkış yapabilmeli, havaalanı çevresinde uçabilmeli, piste yaklaşabilmeli ve iniş yapabilmelidir.
+- Basit bir hedef ekleyin: kalkış yapın, havaalanı çevresinde kısa bir uçuşu tamamlayın ve güvenli şekilde iniş yapın.
+- Kaza/başarısızlık algılama ve yeniden başlatma seçeneği ekleyin.
+
+CONTROLS
+Kontrolleri açıkça gösterin:
+- W/S: Yunuslama
+- A/D: Yatış
+- Q/E: Sapma
+- Shift/Ctrl: Gaz
+- Space: Fren
+
+CAMERA
+- Uçağın arkasından takip eden yumuşak bir üçüncü şahıs takip kamerası kullanın.
+- Uçuş sırasında uçağın net biçimde görünür kalmasını sağlayın.
+- Kamera hareketi akıcı biçimde takip etmeli ve ivmelenmeye hafifçe tepki vermelidir.
+
+HUD
+Şunları gösteren, havacılık tarzında cilalı bir HUD oluşturun:
+- Hava hızı
+- İrtifa
+- Rota
+- Gaz
+- Dikey hız
+- Uçuş durumu
+- Mevcut hedef
+
+Gizlenebilen kompakt bir kontrol/yardım paneli ekleyin.
+
+BAŞLANGIÇ + SONUÇLAR
+Şunları içeren bir başlangıç ekranı oluşturun:
+"FLIGHT SIMULATOR"
+ve belirgin bir "START FLIGHT" düğmesi.
+
+Başarılı bir inişten sonra şunları gösterin:
+- Uçuş tamamlandı
+- İniş kalitesi
+- Uçuş süresi
+- Final puanı
+- Tekrar Oyna
+
+GÖRSEL KALİTE
+Gerçek bir oyun hissi vermesini sağlayın:
+- Birbiriyle uyumlu, stilize 3B görseller
+- Ayrıntılı uçak
+- Etkileyici bir havaalanı ortamı
+- İyi aydınlatma, gölgeler ve materyaller
+- Bulutlar/atmosfer
+- Uygun yerlerde havaalanı binaları, araçlar, tabelalar, ağaçlar ve diğer çevre ayrıntıları
+- Boş veya açıkça tamamlanmamış bir sahneden kaçının
+
+FEEDBACK
+Şunlar için yararlı geri bildirimler ekleyin:
+- Gaz/motor durumu
+- Kalkış
+- İniş
+- Hız uyarıları
+- İrtifa
+- Kazalar
+- Başarılı iniş
+
+TECHNICAL
+- Eksiksiz çalışan oyunu tarayıcıda oluşturun.
+- Yer tutucu düğmeler veya sahte etkileşimler bırakmayın.
+- Tepkisel kontrollere ve akıcı performansa öncelik verin.
+- Kullanılabilir uygun web/3B teknolojilerinden yararlanın.
+
+ÖNEMLİ:
+Tüm görevi güzel bir statik sahne oluşturmaya harcamayın. Uçak MUTLAKA gerçekten kontrol edilebilir olmalı ve eksiksiz döngü çalışmalıdır:
+
+BAŞLAT → HIZLAN → KALKIŞ YAP → UÇ → YAKLAŞ → İN → PUANLA → TEKRAR OYNA
+
+Bitirmeden önce oyunu tarayıcıda çalıştırın ve tüm oynanış döngüsünü kendiniz test edin. Karşılaştığınız bozuk kontrolleri, fizik sorunlarını, görsel hataları ve etkileşim problemlerini düzeltin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a polished, playable browser-based 3D flight simulator game from scratch.
+
+The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
+
+GAMEPLAY
+- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
+- Place a recognizable passenger airplane at the airport.
+- The player must be able to control the aircraft with the keyboard.
+- Implement throttle, pitch, roll, yaw and braking.
+- The aircraft must have basic believable flight physics, momentum and acceleration.
+- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
+- Add a simple objective: take off, complete a short flight around the airport and land safely.
+- Include crash/failure detection and a restart option.
+
+CONTROLS
+Display controls clearly:
+- W/S: Pitch
+- A/D: Roll
+- Q/E: Yaw
+- Shift/Ctrl: Throttle
+- Space: Brake
+
+CAMERA
+- Use a smooth third-person chase camera behind the aircraft.
+- Keep the aircraft clearly visible during flight.
+- Camera should smoothly follow movement and respond subtly to acceleration.
+
+HUD
+Create a polished aviation-style HUD showing:
+- Airspeed
+- Altitude
+- Heading
+- Throttle
+- Vertical speed
+- Flight status
+- Current objective
+
+Include a compact controls/help panel that can be hidden.
+
+START + RESULTS
+Create a start screen with:
+"FLIGHT SIMULATOR"
+and a prominent "START FLIGHT" button.
+
+After a successful landing, show:
+- Flight completed
+- Landing quality
+- Flight time
+- Final score
+- Play Again
+
+VISUAL QUALITY
+Make it feel like a real game:
+- Cohesive stylized 3D visuals
+- Detailed aircraft
+- Attractive airport environment
+- Good lighting, shadows and materials
+- Clouds/atmosphere
+- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
+- Avoid an empty or obviously unfinished scene
+
+FEEDBACK
+Add useful feedback for:
+- Throttle/engine state
+- Takeoff
+- Landing
+- Speed warnings
+- Altitude
+- Crashes
+- Successful landing
+
+TECHNICAL
+- Build the complete working game in the browser.
+- Do not leave placeholder buttons or fake interactions.
+- Prioritize responsive controls and smooth performance.
+- Use whatever appropriate web/3D technologies are available.
+
+IMPORTANT:
+Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
+
+START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
+
+Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096236137266512181) · [Orijinal gönderi](https://x.com/adxtyahq/status/2096236137266512181) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="procedural-napoleon-bust-2096234355395903672"></a>
+
+### Prosedürel Napolyon büstü
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="Prosedürel Napolyon büstü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js'de 3B Napolyon büstünü kodla oluştur. Aşamalar hâlinde yap, farklı açılardan incele; yüz oranlarını ve kıyafet ayrıntılarını iyileştir.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Orijinal gönderi](https://x.com/leploutos/status/2096234355395903672) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="railway-station-concourse-2096226711222546461"></a>
+
+### Tren istasyonu ana salonu
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="Tren istasyonu ana salonu"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Güçlü mimari ritmi, inandırıcı ölçeği ve malzemeleri olan tren istasyonu salonu oluştur. Özenle kadrajlanmış istasyon görünümleriyle incelenebilir 3B sahne üret.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/railway-station-concourse-2096226711222546461) · [Orijinal gönderi](https://x.com/0xWormhole404/status/2096226711222546461) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
+
+### Yörüngede buluşma simülatörü
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="Yörüngede buluşma simülatörü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+İki cisimli ECI yörünge ilerletmesi ve HCW güdümüyle gerçek zamanlı yörünge buluşma simülasyonu oluştur. Altı serbestlik dereceli yönelim, yakıt kullanımı, kuvvet sınırları ve kenetlenme hedefi ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Orijinal gönderi](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="animated-onboarding-diorama-2096222790894661841"></a>
+
+### Animasyonlu ilk kullanım dioraması
+
+[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="Animasyonlu ilk kullanım dioraması"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da küçük bir ilk kullanım dioraması oluştur ve Three.js'de canlandır. İlk kullanıcı eylemlerini anlatmak için açık odak nesneleri ve kısa animasyon sekansları kullan.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Orijinal gönderi](https://x.com/EmilHovv/status/2096222790894661841) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
+
+### Parçalı etkileşimli insan anatomisi
+
+[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="Parçalı etkileşimli insan anatomisi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+İnsan bedeninin tek tek incelenebilir yapılara ayrıldığı bir 3B anatomi sitesi oluştur. Patlatılmış görünümde gezinilebilsin ve parçaları anlamlı sistemler hâlinde düzenle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Orijinal gönderi](https://x.com/ashebytes/status/2096221988763173186) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
 
 ### Küpe hapsolmuş fırtına
@@ -884,253 +1295,6 @@ Saf WebGL ve GLSL ile tek HTML dosyasında evrilen 3B ekosistem oluştur. Mutasy
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Orijinal gönderi](https://x.com/yume_arasaki/status/2096040448477515874) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### Keşfedilebilir Tac Mahal
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Keşfedilebilir Tac Mahal"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tac Mahal'i keşfedilebilir bir 3B sahne olarak yeniden oluştur. Tanınabilir oranlara, simetrik bahçelere, ana kubbeye, minarelere ve yapılar arası ilişkiye öncelik ver.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Orijinal gönderi](https://x.com/vikassabbi/status/2096035962824335798) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### Konuşma etkinliklerini gösteren küreli kişisel 3B portföy
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Konuşma etkinliklerini gösteren küreli kişisel 3B portföy"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Bir portreyi editoryal WebGL portföyünde Blender karakterine dönüştür. Konuşmacı olarak katılınan etkinlikleri haritalayan dönen dünya küresi ekle, varlıkları siteye entegre et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Orijinal gönderi](https://x.com/HowDevelop/status/2096023793772998704) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### Gogh Strike çok oyunculu FPS
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike çok oyunculu FPS"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da render edilmiş sanatçı karakterler, kolay ayırt edilen takımlar ve tarayıcıda eksiksiz çok oyunculu maçla Post-Empresyonist 5'e 5 birinci şahıs nişancı oyunu oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Orijinal gönderi](https://x.com/petergostev/status/2096013280519016608) · [Kaynak kodu](https://github.com/petergpt/gogh-strike) · [Canlı demo](https://gogh-strike.surge.sh/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### Referanslardan TP-7 kayıt cihazı modeli
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Referanslardan TP-7 kayıt cihazı modeli"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Teenage Engineering TP-7’yi referans görsellerinden Three.js içinde yeniden oluşturun. Biçimini ve görünür kontrollerini incelenebilir bir 3D modelde eşleştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Orijinal gönderi](https://x.com/ty_kra_lab/status/2096013228090245181) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### Tesla Model X patlatılmış görünümü
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X patlatılmış görünümü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tesla Model X'i modellenmiş bileşenlerine ayıran 3B site oluştur. Ziyaretçiler montajları inceleyebilsin, aracı etkileşimli biçimde yeniden birleştirebilsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Orijinal gönderi](https://x.com/ashebytes/status/2096009146248122416) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### Esnek WebGPU jölesi
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Esnek WebGPU jölesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js ve WebGPU ile lezzetli görünen, zıplayan bir jöle oluştur. Yarı saydam malzeme ve anlaşılır ışıkla etkileşimden sonra doğal biçimde deforme olup durulsun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Orijinal gönderi](https://x.com/scottstts/status/2096008241104711698) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
-
-### Roblox'ta anime arena dövüşü
-
-[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Roblox'ta anime arena dövüşü"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Anime karakterlerinin karşılaştığı savaşlardan esinlenen Roblox arena dövüş oyunu oluştur. Arenayı ve karakterleri Blender ve mevcut varlıklarla kur, oynanabilir savaş döngüsü uygula.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Orijinal gönderi](https://x.com/WoahWurdz/status/2095999578419929412) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
-
-### Eş zamanlı kat planı ve 3D gezinti
-
-[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="Eş zamanlı kat planı ve 3D gezinti"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Aynı ölçülerden tek yatak odalı bir daire için gezinti ve kat planı oluşturun. Mevcut konumu iki görünüm arasında eşitleyin; varsayılan tavan yüksekliklerini ve yüzey kaplamalarını açıkça belirtin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Orijinal gönderi](https://x.com/onofumi_AI/status/2095999282088378520) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-browser-river-scene-2095993826569502785"></a>
-
-### Tarayıcıda etkileşimli nehir sahnesi
-
-[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="Tarayıcıda etkileşimli nehir sahnesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tarayıcıda çalışan etkileşimli bir nehir sahnesi oluşturun. Önce çalışan bir gerçek zamanlı su prototipi kurun, ardından görsel sonucu inceleyip iyileştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Orijinal gönderi](https://x.com/dangreenheck/status/2095993826569502785) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
-
-### Katedralde yakın dövüş arenası
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="Katedralde yakın dövüş arenası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Ölü bir yıldızın üzerindeki katedralde geçen, üçüncü şahıs Three.js yakın dövüş oyunu oluştur. Hafif kılıç komboları, ağır saldırılar, alan büyüsü, kaçınma ve yere basan iki elli animasyonlar ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Orijinal gönderi](https://x.com/superalesha/status/2095988972879335792) · [Kaynak kodu](https://github.com/alesha-pro/bench-portal) · [Canlı demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095987508475834641"></a>
-
-### Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun
-
-[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun"></a>
-
-**İstem**
-
-```text
-Benim için yeni bir 3B şehir sahnesi oluşturun. Farklı yüksekliklerde birkaç bina türü ve arabalar olsun. Ayrıca büyük bir şehre ait yolları, reklam panolarını ve diğer ögeleri de kullanın. İhtiyacınız olan her şey Assets/ithappy/Cartoon_City_Free klasöründe.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095987508475834641) · [Orijinal gönderi](https://x.com/AndrewWalko/status/2095987508475834641) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
-
-### Etkileşimli Titan bilim sergisi
-
-[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="Etkileşimli Titan bilim sergisi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Satürn'ün en büyük uydusu Titan'ın keşfedilebilir ortamını ve kendine özgü fiziksel özelliklerini anlatan bilgi katmanını içeren eğitici 3B simülasyon oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Orijinal gönderi](https://x.com/ArdaTugsat/status/2095986941753712841) · [Örneklere dön](#all-prompts)
 
 ---
 

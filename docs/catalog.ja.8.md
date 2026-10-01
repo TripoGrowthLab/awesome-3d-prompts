@@ -28,6 +28,18 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [一つのプロンプトで遊べるリアルタイム 3D ゲーム](#single-playable-real-time-3d-game-2095647685210669541)
+- [3D プリントできる USS エンタープライズの CAD アセンブリ](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Blender で作るモダンなヴィラ](#modern-villa-scene-in-blender-2095636679264780481)
+- [Cycles 向けに手続き生成する大統領執務室](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Unity で作る宇宙トレンチラン](#unity-space-trench-run-game-2095630044102279312)
+- [設計図から Blender、Unreal へつなぐ建築ビジュアル](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
+- [文章から探索できる Unity 都市へ](#text-to-explorable-unity-city-2095623452678144366)
+- [Three.js のビー玉工場](#three-js-marble-factory-2095622065390772322)
+- [フォトリアルな 3D 商品モックアップスタジオ](#photoreal-3d-product-mockup-studio-2095619319690400253)
+- [3D 美術館で行う撮影プリビズ](#3d-museum-cinematography-previsualization-2095616529572503593)
+- [Zillow の物件情報から 3D 紹介動画へ](#zillow-listing-to-3d-property-film-2095612137582526615)
+- [Unreal Engine で街路まで再現するマンハッタン](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 - [初心者が音声で作る 3D ゲーム](#voice-directed-3d-game-for-beginners-2095608358086840647)
 - [一度の指示で作るブラウザ 3D ゲーム](#one-shot-browser-3d-game-2095599934766764338)
 - [住宅写真から編集可能な Blender の世界へ](#house-photo-to-editable-blender-world-2095598645190291775)
@@ -66,20 +78,250 @@
 - [シェーダーで魅せる操作可能な恐竜図鑑](#interactive-shader-driven-dino-dex-2095121568297083067)
 - [ガラス瓶の中で息づくボクセル世界](#living-voxel-world-inside-a-bottle-2095111213927510131)
 - [編集できる 3D キーボードアニメーション](#editable-3d-keyboard-animation-2095111032171876470)
-- [ガンダムに着想を得たメカのショーケース](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [参考デザインから作る Three.js ポートフォリオ](#reference-driven-three-js-portfolio-2095104073590808644)
-- [操作できる F-35A 技術モデル](#interactive-f-35a-technical-model-2095094543339446572)
-- [Three.js で作る MS-06 風メカ](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [HTML ファイル一つで息づく宇宙](#living-universe-in-one-html-file-2095054116372508955)
-- [ネイティブ C++ で作るソウルライクゲーム](#native-c-souls-like-game-2095053114600755576)
-- [3D で遊ぶヘビとはしご](#playable-3d-snakes-and-ladders-2095050993184669825)
-- [人物写真を動くボクセルに変換](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
-- [操作して探索する Three.js の城](#interactive-three-js-castle-2095048818203275584)
-- [操作できる短波ラジオ NIGHTBAND](#nightband-interactive-shortwave-radio-2095026928210346175)
-- [Unity で完成させるテニスゲーム](#complete-unity-tennis-game-2095021275236495408)
-- [光る峡谷に浮かぶ古代神殿](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
 
 </details>
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### 一つのプロンプトで遊べるリアルタイム 3D ゲーム
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="一つのプロンプトで遊べるリアルタイム 3D ゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+一つのプロンプトから、遊べるリアルタイム 3D ゲームを作成してください。小さくまとまった中心的な遊び、明確な目標、短い物語を定め、シーン、キャラクター、小物、フィードバック、リスタート状態を生成して、すぐに遊べるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [元の投稿](https://x.com/higgsfield/status/2095647685210669541) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### 3D プリントできる USS エンタープライズの CAD アセンブリ
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="3D プリントできる USS エンタープライズの CAD アセンブリ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+USS エンタープライズ NCC-1701 へのオマージュとなる、独自の 3D プリント対応 CAD モデルを設計してください。特徴的な比率、ブリッジと一部の内装、少なくとも 28 個の機能する可動部品、分割されたアセンブリ、製造用ファイルの書き出しを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [元の投稿](https://x.com/DeryaTR_/status/2095641163441254676) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Blender で作るモダンなヴィラ
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender で作るモダンなヴィラ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blender でモダンなヴィラのシーンを完成させてください。整合性のある建築、家具付きの室内、インフィニティプール、植栽、リアルなマテリアル、夕日の時間帯を巡る映画的なカメラパスを含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [元の投稿](https://x.com/karankendre/status/2095636679264780481) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Cycles 向けに手続き生成する大統領執務室
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Cycles 向けに手続き生成する大統領執務室"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+大統領執務室のセット説明を実行可能なシーンコードに変換してください。Blender で家具、壁、照明、カメラ位置を編集可能に構築し、Cycles で映画的にレンダリングしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [元の投稿](https://x.com/higgsfield_ai/status/2095630197257367857) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Unity で作る宇宙トレンチラン
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity で作る宇宙トレンチラン"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+往年の宇宙トレンチランの感覚を Unity で再現してください。高速の低空飛行、砲台射撃、障害物、照準、増す緊迫感、最終目標、成功または失敗の映画的演出を実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [元の投稿](https://x.com/ronaldmannak/status/2095630044102279312) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### 設計図から Blender、Unreal へつなぐ建築ビジュアル
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="設計図から Blender、Unreal へつなぐ建築ビジュアル"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された建築設計図から正確で編集可能なモデルを Blender で作成し、Unreal Engine に移してください。正しいスケールと衝突判定を備え、照明付きで歩ける建築ビジュアライゼーションに仕上げてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [元の投稿](https://x.com/LinusEkenstam/status/2095624712244072551) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="text-to-explorable-unity-city-2095623452678144366"></a>
+
+### 文章から探索できる Unity 都市へ
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="文章から探索できる Unity 都市へ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された都市構想を、高層建築、道路、車両、ヤシ、雰囲気のある光を備えた、探索可能な Unity 環境にしてください。自然なスケール、移動経路、交通の動き、滑らかな一人称カメラを整えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [元の投稿](https://x.com/0x0SojalSec/status/2095623452678144366) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="three-js-marble-factory-2095622065390772322"></a>
+
+### Three.js のビー玉工場
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js のビー玉工場"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+生産の流れが分かる、ビー玉と機械が動く Three.js 工場シミュレーションを作成してください。一つのビー玉を工程に沿って追えるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-js-marble-factory-2095622065390772322) · [元の投稿](https://x.com/JohnKlerAI/status/2095622065390772322) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
+
+### フォトリアルな 3D 商品モックアップスタジオ
+
+[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="フォトリアルな 3D 商品モックアップスタジオ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+アップロードしたデザインをフォトリアルな 3D 商品モックアップに配置するブラウザツールを作成してください。カメラ回転、素材と色の調整、環境照明、複数の商品、高解像度の書き出しに対応してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [元の投稿](https://x.com/joshmillgate/status/2095619319690400253) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
+
+### 3D 美術館で行う撮影プリビズ
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D 美術館で行う撮影プリビズ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+場所、出演者の位置、カメラ配置、ショットリストを整理した 3D 美術館のプリビズを作成してください。各撮影設定を実際のビューポート内に収め、後続の動画生成に使う一貫したガイドを書き出してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [元の投稿](https://x.com/higgsfield_ai/status/2095616529572503593) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
+
+### Zillow の物件情報から 3D 紹介動画へ
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Zillow の物件情報から 3D 紹介動画へ"></a>
+
+*出典の作品を基にした制作指示*
+
+**参照画像:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
+
+**プロンプト**
+
+```text
+提示された不動産情報と掲載写真すべてから住宅を 3D 再構築し、矛盾のない間取りを推定して、完成度の高い紹介用ウォークスルー動画を作成してください。不確かな形状を明示し、初回制作後に相違点を修正してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [元の投稿](https://x.com/realYunfanYe/status/2095612137582526615) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
+
+### Unreal Engine で街路まで再現するマンハッタン
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Unreal Engine で街路まで再現するマンハッタン"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Unreal Engine で探索できるマンハッタンを構築してください。地区ごと、通りごとに制作し、スケール、道路配置、名所、交通、街の個性を再現します。評価チェックリストを用意し、各エリアを改善してから次へ進んでください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [元の投稿](https://x.com/mattshumer_/status/2095609734845927525) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
 
 ### 初心者が音声で作る 3D ゲーム
@@ -837,260 +1079,6 @@ Blender で遊び心のある空飛ぶ料理鍋を作成してください。分
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [元の投稿](https://x.com/rege_dev/status/2095111032171876470) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### ガンダムに着想を得たメカのショーケース
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="ガンダムに着想を得たメカのショーケース"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ガンダムに着想を得た独自メカの、完成度の高い Three.js ショーケースを作成してください。機械的な関節動作、大きさが伝わる要素、劇的な照明、細部を観察できるカメラを加えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [元の投稿](https://x.com/usecrayon/status/2095106919530930221) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### 参考デザインから作る Three.js ポートフォリオ
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="参考デザインから作る Three.js ポートフォリオ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された参考デザインを、完成度の高い Three.js サイトとして再現してください。重なり合う粒子、VHS と CRT の質感、流れるような遷移、操作に応じた反応を取り入れてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [元の投稿](https://x.com/MengTo/status/2095104073590808644) · [ソースコード](https://github.com/MengTo/sublevel-studio) · [デモ](https://mengto.github.io/sublevel-studio/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### 操作できる F-35A 技術モデル
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="操作できる F-35A 技術モデル"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-コードで精巧な操作可能 F-35A を生成してください。正確な比率、操縦翼面、着陸装置、コックピットの特徴、ラベル、観察用アニメーションを備えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [元の投稿](https://x.com/SahilExec/status/2095094543339446572) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Three.js で作る MS-06 風メカ
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js で作る MS-06 風メカ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-MS-06 に着想を得た精巧なメカを Three.js で作成してください。主役が明瞭に見える白い背景を使い、説得力のある比率と素材、観察用の操作を用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [元の投稿](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### HTML ファイル一つで息づく宇宙
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="HTML ファイル一つで息づく宇宙"></a>
-
-**プロンプト**
-
-```text
-HTML ファイル一つで、生きた宇宙を作ってください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [元の投稿](https://x.com/tiny_frontier/status/2095054116372508955) · [デモ](https://genesis-demo.tinyfrontier.xyz/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### ネイティブ C++ で作るソウルライクゲーム
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="ネイティブ C++ で作るソウルライクゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Bloodborne に着想を得たソウルライクゲームをネイティブ C++ で作成してください。独自のアート、アニメーション、効果音、音楽、反応のよい戦闘、敵、ボス、完結した短いステージを用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/native-c-souls-like-game-2095053114600755576) · [元の投稿](https://x.com/wizardbrainz/status/2095053114600755576) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
-
-### 3D で遊ぶヘビとはしご
-
-[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="3D で遊ぶヘビとはしご"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-サイコロのアニメーション、盤面移動、ヘビ、はしご、手番、勝利条件、分かりやすい反応を備えた、最後まで遊べる 3D の「ヘビとはしご」を作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [元の投稿](https://x.com/karanC_12/status/2095050993184669825) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
-
-### 人物写真を動くボクセルに変換
-
-[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="人物写真を動くボクセルに変換"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-アップロードされた人物写真を、10,000 個を超える操作可能な 3D ボクセルに変換してください。波状の変位、サイバーパンクのシェーダー、効率的なインスタンシング、ポインターに応じた動きを実装してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [元の投稿](https://x.com/TenthPrime/status/2095048967092625663) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-three-js-castle-2095048818203275584"></a>
-
-### 操作して探索する Three.js の城
-
-[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="操作して探索する Three.js の城"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-探索可能な部屋、塔、門、地形、雰囲気のある照明を備えた、操作できる 3D の城を Three.js で作成してください。パソコンとモバイルで滑らかに操作できるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-castle-2095048818203275584) · [元の投稿](https://x.com/debugsenpai/status/2095048818203275584) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
-
-### 操作できる短波ラジオ NIGHTBAND
-
-[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="操作できる短波ラジオ NIGHTBAND"></a>
-
-**プロンプト**
-
-```text
-単独で動く一つの HTML ファイルで、あなたに作れる最も印象的なサイトを作ってください。創作上の制約はありません。知性、創造性、技術力、独創性をどこまで発揮できるかを示すことが目標です。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [元の投稿](https://x.com/NeoAIForecast/status/2095026928210346175) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="complete-unity-tennis-game-2095021275236495408"></a>
-
-### Unity で完成させるテニスゲーム
-
-[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="Unity で完成させるテニスゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Blender 製キャラクター、安定した操作、移動とスイングのアニメーション、ボール物理、得点、対戦相手、試合進行を備えた、遊べる Unity テニスゲームを完成させてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [元の投稿](https://x.com/chongdashu/status/2095021275236495408) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
-
-### 光る峡谷に浮かぶ古代神殿
-
-[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="光る峡谷に浮かぶ古代神殿"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-夕暮れの光る峡谷の上に古代神殿が浮かぶ Three.js シーンを手続き生成してください。風にはためく布、光芒、稲妻、映画的に近づくカメラを取り入れてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [元の投稿](https://x.com/pradeepXkapoor/status/2095012880383099339) · [作例一覧に戻る](#all-prompts)
 
 ---
 

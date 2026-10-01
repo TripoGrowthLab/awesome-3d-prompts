@@ -28,6 +28,18 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [프롬프트 하나로 플레이하는 실시간 3D 게임](#single-playable-real-time-3d-game-2095647685210669541)
+- [3D 프린트 가능한 USS 엔터프라이즈 CAD 조립 모델](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Blender로 만든 모던 빌라 장면](#modern-villa-scene-in-blender-2095636679264780481)
+- [Cycles용 절차적 대통령 집무실 세트](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Unity 우주 협곡 돌파 게임](#unity-space-trench-run-game-2095630044102279312)
+- [설계도에서 Blender를 거쳐 Unreal 건축 시각화로](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
+- [텍스트에서 탐험 가능한 Unity 도시로](#text-to-explorable-unity-city-2095623452678144366)
+- [Three.js 구슬 공장](#three-js-marble-factory-2095622065390772322)
+- [사실적인 3D 제품 목업 스튜디오](#photoreal-3d-product-mockup-studio-2095619319690400253)
+- [3D 박물관 촬영 프리비즈](#3d-museum-cinematography-previsualization-2095616529572503593)
+- [Zillow 매물 정보로 만드는 3D 부동산 영상](#zillow-listing-to-3d-property-film-2095612137582526615)
+- [Unreal Engine으로 거리마다 재현한 맨해튼](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 - [초보자가 음성으로 만드는 3D 게임](#voice-directed-3d-game-for-beginners-2095608358086840647)
 - [한 번의 요청으로 만드는 브라우저 3D 게임](#one-shot-browser-3d-game-2095599934766764338)
 - [집 사진을 편집 가능한 Blender 세계로](#house-photo-to-editable-blender-world-2095598645190291775)
@@ -66,20 +78,250 @@
 - [셰이더로 표현하는 인터랙티브 공룡 도감](#interactive-shader-driven-dino-dex-2095121568297083067)
 - [병 안에서 살아 움직이는 복셀 세계](#living-voxel-world-inside-a-bottle-2095111213927510131)
 - [편집 가능한 3D 키보드 애니메이션](#editable-3d-keyboard-animation-2095111032171876470)
-- [건담에서 영감을 받은 메카 쇼케이스](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [참고 디자인으로 만드는 Three.js 포트폴리오](#reference-driven-three-js-portfolio-2095104073590808644)
-- [인터랙티브 F-35A 기술 모델](#interactive-f-35a-technical-model-2095094543339446572)
-- [Three.js MS-06 스타일 메카](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [HTML 파일 하나 속 살아 있는 우주](#living-universe-in-one-html-file-2095054116372508955)
-- [네이티브 C++로 만드는 소울라이크 게임](#native-c-souls-like-game-2095053114600755576)
-- [직접 플레이하는 3D 뱀과 사다리](#playable-3d-snakes-and-ladders-2095050993184669825)
-- [인물 사진을 움직이는 복셀로](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
-- [인터랙티브 Three.js 성](#interactive-three-js-castle-2095048818203275584)
-- [인터랙티브 단파 라디오 NIGHTBAND](#nightband-interactive-shortwave-radio-2095026928210346175)
-- [완성형 Unity 테니스 게임](#complete-unity-tennis-game-2095021275236495408)
-- [빛나는 협곡 위의 고대 사원](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
 
 </details>
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### 프롬프트 하나로 플레이하는 실시간 3D 게임
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="프롬프트 하나로 플레이하는 실시간 3D 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+프롬프트 하나로 플레이 가능한 실시간 3D 게임을 만드세요. 작고 명확한 핵심 규칙, 목표, 짧은 이야기를 정하고 장면, 캐릭터, 소품, 피드백, 재시작 상태를 생성해 바로 플레이할 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [원본 게시물](https://x.com/higgsfield/status/2095647685210669541) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### 3D 프린트 가능한 USS 엔터프라이즈 CAD 조립 모델
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="3D 프린트 가능한 USS 엔터프라이즈 CAD 조립 모델"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+USS 엔터프라이즈 NCC-1701에 대한 독창적인 오마주를 CAD로 설계하고 3D 프린트가 가능하게 하세요. 특징적인 비율, 함교와 일부 내부 공간, 최소 28개의 실제 작동하는 가동 부품, 분리된 조립 단위, 제조용 파일 내보내기를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [원본 게시물](https://x.com/DeryaTR_/status/2095641163441254676) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Blender로 만든 모던 빌라 장면
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender로 만든 모던 빌라 장면"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Blender에서 완성된 모던 빌라 장면을 만드세요. 일관된 건축 구조, 가구가 배치된 실내, 인피니티 풀, 조경, 사실적인 재질, 골든아워를 담는 영화적인 카메라 경로를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [원본 게시물](https://x.com/karankendre/status/2095636679264780481) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Cycles용 절차적 대통령 집무실 세트
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Cycles용 절차적 대통령 집무실 세트"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+대통령 집무실의 세트 디자인 설명을 실행 가능한 장면 코드로 바꾸세요. Blender에서 가구, 벽, 조명, 카메라 배치를 편집 가능하게 만들고 Cycles로 영화적인 결과를 렌더링하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [원본 게시물](https://x.com/higgsfield_ai/status/2095630197257367857) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Unity 우주 협곡 돌파 게임
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity 우주 협곡 돌파 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+고전적인 우주 트렌치 런의 감각을 Unity에서 재현하세요. 빠른 저공비행, 포탑 사격, 장애물, 조준, 점점 커지는 압박, 최종 목표, 영화적인 성공 또는 실패 시퀀스를 포함하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [원본 게시물](https://x.com/ronaldmannak/status/2095630044102279312) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### 설계도에서 Blender를 거쳐 Unreal 건축 시각화로
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="설계도에서 Blender를 거쳐 Unreal 건축 시각화로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 건축 설계도를 바탕으로 Blender에서 정확하고 편집 가능한 모델을 만드세요. 이를 Unreal Engine으로 옮겨 정확한 크기와 충돌 판정, 조명, 걸어 다닐 수 있는 건축 시각화 체험으로 완성하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [원본 게시물](https://x.com/LinusEkenstam/status/2095624712244072551) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="text-to-explorable-unity-city-2095623452678144366"></a>
+
+### 텍스트에서 탐험 가능한 Unity 도시로
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="텍스트에서 탐험 가능한 Unity 도시로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 도시 구상을 고층 건물, 도로, 차량, 야자수, 분위기 있는 빛이 있는 탐험 가능한 Unity 환경으로 만드세요. 자연스러운 규모, 이동 경로, 교통 흐름, 부드러운 1인칭 카메라를 구현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [원본 게시물](https://x.com/0x0SojalSec/status/2095623452678144366) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="three-js-marble-factory-2095622065390772322"></a>
+
+### Three.js 구슬 공장
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js 구슬 공장"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+생산 흐름이 명확하고 구슬과 기계가 움직이는 Three.js 구슬 공장 시뮬레이션을 만드세요. 관람자가 구슬 하나를 따라 전체 공정을 볼 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-js-marble-factory-2095622065390772322) · [원본 게시물](https://x.com/JohnKlerAI/status/2095622065390772322) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
+
+### 사실적인 3D 제품 목업 스튜디오
+
+[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="사실적인 3D 제품 목업 스튜디오"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+업로드한 디자인을 사실적인 3D 제품 목업에 배치하는 브라우저 도구를 만드세요. 카메라 회전, 재질과 색상 조정, 환경 조명, 여러 제품, 고해상도 내보내기를 지원하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [원본 게시물](https://x.com/joshmillgate/status/2095619319690400253) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
+
+### 3D 박물관 촬영 프리비즈
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D 박물관 촬영 프리비즈"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+장소, 출연자 위치, 카메라 배치, 숏 목록을 정리하는 3D 박물관 프리비즈를 만드세요. 모든 촬영 구성을 실제 뷰포트 안에 유지하고, 후속 영상 생성에 사용할 일관된 가이드를 내보내세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [원본 게시물](https://x.com/higgsfield_ai/status/2095616529572503593) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
+
+### Zillow 매물 정보로 만드는 3D 부동산 영상
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Zillow 매물 정보로 만드는 3D 부동산 영상"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
+
+**프롬프트**
+
+```text
+제공된 부동산 매물 정보와 모든 사진으로 집을 3D로 재구성하고, 일관된 평면도를 추론한 뒤 완성도 높은 홍보용 워크스루 영상을 만드세요. 불확실한 형상을 표시하고 첫 제작 후 어긋난 부분을 다듬으세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [원본 게시물](https://x.com/realYunfanYe/status/2095612137582526615) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
+
+### Unreal Engine으로 거리마다 재현한 맨해튼
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Unreal Engine으로 거리마다 재현한 맨해튼"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Unreal Engine에서 탐험할 수 있는 맨해튼을 만드세요. 구역별, 거리별로 작업하며 알아볼 수 있는 규모, 도로 배치, 랜드마크, 교통, 동네의 개성을 유지하세요. 평가 체크리스트를 만들고 각 구역을 다듬은 뒤 다음 구역으로 넘어가세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [원본 게시물](https://x.com/mattshumer_/status/2095609734845927525) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
 
 ### 초보자가 음성으로 만드는 3D 게임
@@ -837,260 +1079,6 @@ Blender에서 장난기 있는 날아다니는 냄비를 만드세요. 명확한
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [원본 게시물](https://x.com/rege_dev/status/2095111032171876470) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### 건담에서 영감을 받은 메카 쇼케이스
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="건담에서 영감을 받은 메카 쇼케이스"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-건담에서 영감을 받은 독창적인 메카를 완성도 높은 Three.js 쇼케이스로 만드세요. 기계적인 관절 동작, 크기를 짐작하게 하는 요소, 극적인 조명, 관찰용 카메라를 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [원본 게시물](https://x.com/usecrayon/status/2095106919530930221) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### 참고 디자인으로 만드는 Three.js 포트폴리오
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="참고 디자인으로 만드는 Three.js 포트폴리오"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-제공된 시각 참고 자료를 완성도 높은 Three.js 웹사이트로 재현하세요. 겹겹의 입자, VHS·CRT 질감, 유연한 전환, 사용자 조작에 반응하는 상호작용을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [원본 게시물](https://x.com/MengTo/status/2095104073590808644) · [소스 코드](https://github.com/MengTo/sublevel-studio) · [데모](https://mengto.github.io/sublevel-studio/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### 인터랙티브 F-35A 기술 모델
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="인터랙티브 F-35A 기술 모델"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-코드로 정교한 인터랙티브 F-35A를 생성하세요. 정확한 비율, 조종면, 착륙장치, 조종석의 특징, 라벨, 관찰용 애니메이션을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [원본 게시물](https://x.com/SahilExec/status/2095094543339446572) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Three.js MS-06 스타일 메카
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js MS-06 스타일 메카"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Three.js에서 MS-06에서 영감을 받은 정교한 메카를 만드세요. 주인공이 선명하게 보이는 깨끗한 흰 배경을 사용하고, 설득력 있는 비율, 재질, 관찰용 조작을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [원본 게시물](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### HTML 파일 하나 속 살아 있는 우주
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="HTML 파일 하나 속 살아 있는 우주"></a>
-
-**프롬프트**
-
-```text
-HTML 파일 하나로 살아 있는 우주를 만들어주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [원본 게시물](https://x.com/tiny_frontier/status/2095054116372508955) · [데모](https://genesis-demo.tinyfrontier.xyz/) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### 네이티브 C++로 만드는 소울라이크 게임
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="네이티브 C++로 만드는 소울라이크 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Bloodborne에서 영감을 받은 소울라이크 게임을 네이티브 C++로 만드세요. 독창적인 아트, 애니메이션, 효과음, 음악, 반응이 빠른 전투, 적, 보스, 완결된 짧은 레벨을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/native-c-souls-like-game-2095053114600755576) · [원본 게시물](https://x.com/wizardbrainz/status/2095053114600755576) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
-
-### 직접 플레이하는 3D 뱀과 사다리
-
-[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="직접 플레이하는 3D 뱀과 사다리"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-주사위 애니메이션, 말 이동, 뱀, 사다리, 턴, 승리 상태, 명확한 플레이어 피드백이 있는 완전한 3D 뱀과 사다리 게임을 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [원본 게시물](https://x.com/karanC_12/status/2095050993184669825) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
-
-### 인물 사진을 움직이는 복셀로
-
-[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="인물 사진을 움직이는 복셀로"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-업로드한 인물 사진을 10,000개가 넘는 인터랙티브 3D 복셀로 바꾸세요. 파도형 변위, 사이버펑크 셰이더, 효율적인 인스턴싱, 포인터에 따른 움직임을 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [원본 게시물](https://x.com/TenthPrime/status/2095048967092625663) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="interactive-three-js-castle-2095048818203275584"></a>
-
-### 인터랙티브 Three.js 성
-
-[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="인터랙티브 Three.js 성"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-탐험 가능한 방, 탑, 성문, 지형, 분위기 있는 조명, 부드러운 데스크톱·모바일 조작을 갖춘 인터랙티브 3D 성을 Three.js로 만드세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-three-js-castle-2095048818203275584) · [원본 게시물](https://x.com/debugsenpai/status/2095048818203275584) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
-
-### 인터랙티브 단파 라디오 NIGHTBAND
-
-[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="인터랙티브 단파 라디오 NIGHTBAND"></a>
-
-**프롬프트**
-
-```text
-하나의 독립 실행 HTML 파일로 만들 수 있는 가장 인상적인 웹사이트를 만드세요. 창작의 자유는 전적으로 당신에게 있습니다. 얼마나 지적이고 창의적이며 기술적으로 뛰어나고 독창적인지 보여주는 것이 목표입니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [원본 게시물](https://x.com/NeoAIForecast/status/2095026928210346175) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="complete-unity-tennis-game-2095021275236495408"></a>
-
-### 완성형 Unity 테니스 게임
-
-[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="완성형 Unity 테니스 게임"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-Blender로 만든 캐릭터, 안정적인 조작, 이동·스윙 애니메이션, 공 물리, 점수, 상대 선수, 경기 흐름을 갖춘 플레이 가능한 Unity 테니스 게임을 완성하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [원본 게시물](https://x.com/chongdashu/status/2095021275236495408) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
-
-### 빛나는 협곡 위의 고대 사원
-
-[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="빛나는 협곡 위의 고대 사원"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-해질녘 빛나는 협곡 위에 고대 사원이 떠 있는 절차적 Three.js 장면을 만드세요. 바람에 흔들리는 천, 빛내림, 번개, 영화적인 접근 장면을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [원본 게시물](https://x.com/pradeepXkapoor/status/2095012880383099339) · [사례 목록으로](#all-prompts)
 
 ---
 

@@ -28,6 +28,18 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Escena de campo de batalla romano a la hora dorada](#gpt-6-astra-2103351755971207251)
+- [STILLWATER — Experiencia de pantano iluminado por la luna en el navegador](#gpt-6-astra-2103308083242082314)
+- [Secuencia interactiva de lanzamiento de un cohete en 3D sobre el océano](#claude-opus-5-5-2103303303358534021)
+- [Reino medieval interactivo para Claude Opus 5.5](#claude-opus-5-5-2103257687492374597)
+- [Experiencia explorable de otoño brumoso en Three.js](#gpt-6-astra-2103211135214256350)
+- [Rumbo al norte: viaje interactivo en un barco vikingo](#gpt-6-astra-2103187935759655167)
+- [Espacio: un cortometraje de una catedral llena de luz de vitrales](#claude-opus-5-5-2103145567945986461)
+- [Juego al estilo de Genshin Impact ambientado en San Francisco](#claude-opus-5-5-2103144530157687114)
+- [Película cinematográfica sobre la batalla de Austerlitz](#claude-opus-5-5-2103116235009347650)
+- [Construye la Torre Eiffel en Three.js](#claude-opus-5-5-2103106070549757960)
+- [Crazy Tanks — Artillería 3D en una isla](#crazy-tanks-3d-island-artillery)
+- [Animación en Three.js con calidad Pixar para Grid Genius](#claude-opus-5-5-2103087766662009118)
 - [Juego de ciclismo con un pelícano en tiempo real](#claude-opus-5-5-2103083781490176212)
 - [Rodaja de cítrico de gominola 3D interactiva](#gpt-6-astra-2103062348168618280)
 - [Construye una ciudad imperial](#claude-opus-5-5-2103046279253168554)
@@ -66,20 +78,808 @@
 - [Escena 3D diurna y nocturna de la Torre de Tokio con vídeo](#gpt-6-astra-2102276620124062065)
 - [Bubble Bay: Batalla 3D de globos de agua](#bubble-bay)
 - [Presentación interactiva de diseño de un helicóptero 3D](#gpt-6-astra-2102215638311694336)
-- [Juego de carreras procedural para navegador: Spline Rush](#gpt-6-astra-2102150615635816866)
-- [Sitio web interactivo del Sol en 3D](#gpt-6-astra-2102038136725377200)
-- [Verdant — isla de dinosaurios 3D interactiva](#gpt-6-astra-2101730386711634251)
-- [Crea un modelo 3D de WALL-E en Three.js](#gpt-6-astra-2101687900723106104)
-- [Velero en mar abierto](#gpt-6-astra-2101616345720787130)
-- [TITANIC — La última luz](#titanic-the-last-light)
-- [Modelo 3D de un Jaguar I-Pace de Waymo](#gpt-6-astra-2101325346427842909)
-- [Flujo de trabajo de animación 3D y vídeo de un gato experto en artes marciales](#gpt-6-astra-2101310374033428642)
-- [Visualización interactiva en 3D de un motor de aeronave](#gpt-6-astra-2101271938706685991)
-- [Entorno 3D fotorrealista completo](#gpt-6-astra-2101224659861590399)
-- [Galaxia basada en física orbital real](#gpt-6-astra-2101055500599054437)
-- [Monster Block — 45 segundos para destrozar la ciudad](#monster-block)
 
 </details>
+<a id="gpt-6-astra-2103351755971207251"></a>
+
+### Escena de campo de batalla romano a la hora dorada
+
+[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="Escena de campo de batalla romano a la hora dorada"></a>
+
+**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
+
+**Prompt**
+
+```text
+LA TAREA
+Crea en Blender una escena de campo de batalla romano a la hora dorada a partir de la imagen conceptual proporcionada. Se permite usar generación. Puedes generar modelos 3D para el entorno y sus componentes con las herramientas de generación disponibles (Tripo en https://t.co/JV0K8OtuWC)) y ensamblarlos. Todo debe formar una escena coherente: escala equivalente, materiales consistentes e iluminación unificada. Requisitos: usa mapas de relieve en el suelo y mantén un nivel de detalle muy alto.
+Crea un espacio circular despejado en el suelo, rodeado de grandes rocas, para formar una arena de 1 contra 1.
+Representa todo con realismo.
+Crea recursos procedurales siempre que sea posible.
+Crea un skybox para el cielo de hora dorada.
+Usa sombras marcadas.
+Reutiliza objetos (banderas, estandartes, cascos, rocas, etc.). Exporta un GLB para cada objeto y reutiliza esos recursos.
+Ajusta la escena a la imagen proporcionada con la mayor cercanía y precisión posibles.
+REQUISITO DEL TIME-LAPSE
+Mientras trabajas, guarda una captura de pantalla del viewport en una carpeta timelapse/ numerada después de cada adición relevante (cada objeto nuevo, pasada de modificadores, etapa de materiales y etapa de iluminación, en orden). Cuando termines el trabajo, reúne esos fotogramas en un vídeo time-lapse a 2 fps (0,5 s por fotograma) para que todo el proceso de construcción pueda verse de principio a fin. Entrega el vídeo time-lapse junto con los archivos principales.
+DELIVERABLES
+El archivo .blend, con la cámara y el viewport configurados para que la vista coincida exactamente con la imagen original.
+El vídeo time-lapse del proceso de construcción.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+THE TASK
+Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
+Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
+Render everything realistically.
+Create assets procedurally where possible.
+Create a skybox for golden-hour sky.
+Use harsh shadows.
+Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
+Match the supplied image as closely and accurately as possible.
+TIMELAPSE REQUIREMENT
+While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
+DELIVERABLES
+The .blend file, with camera and viewport set so the view exactly matches the original image.
+The build timelapse video.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103351755971207251) · [Publicación original](https://x.com/tonysurix/status/2103352274269675532) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103308083242082314"></a>
+
+### STILLWATER — Experiencia de pantano iluminado por la luna en el navegador
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — Experiencia de pantano iluminado por la luna en el navegador"></a>
+
+**Prompt**
+
+```text
+Crea una experiencia para navegador en Three.js llamada STILLWATER. Tono: un pantano iluminado por la luna en el que te pierdes. No es un juego con enemigos. No busca el fotorrealismo de Unreal. Es un mundo web sereno y de aspecto lujoso, donde los reflejos del agua son los protagonistas. La gente debería quedarse mirando el agua durante un tiempo poco saludable.
+
+ENTORNO
+- Título del lugar: THE DEEP SWAMP
+- Hora en el HUD: 19:26
+- Primer lugar con nombre: Heron bend
+- Lema bajo el nombre del lugar: "Leave a little room for the wild."
+- Notificación de descubrimiento al llegar: "Discovered: Heron bend"
+
+MUNDO
+Un pantano de cipreses inundado al salir la luna, durante el crepúsculo avanzado.
+- Árboles altos, de raíces nudosas, erguidos en aguas de color negro verdoso
+- Musgo español colgando en largos filamentos
+- Nenúfares agrupados a lo largo de las orillas
+- Un canal estrecho y sinuoso que desemboca en una curva más amplia
+- Niebla volumétrica densa, distancia verde azulada y cielo nublado entre rosa y púrpura
+- Una luna brillante con un largo sendero de reflejos fragmentados sobre el agua
+- Algunas aves cruzando el cielo
+- La luz cálida de la cabina del barco atravesando la penumbra
+
+AGUA (no escatimes en este aspecto)
+Este es el elemento protagonista.
+- Reflejos en tiempo real de los árboles, la luna, la niebla y las luces del barco
+- Oleaje suave, no olas oceánicas
+- Nenúfares apoyados en la superficie y balanceándose
+- Espuma en la orilla y agua oscura rica en taninos cerca de las raíces
+- Reflejos en espacio de pantalla o planos, con calidad suficiente para que el sendero lunar resulte cinematográfico
+- Mantén 60 fps. Usa LOD en los árboles y vegetación instanciada.
+
+BARCO
+Una pequeña barca de trabajo con cabina, desgastada por el clima.
+- Número de casco 86 en la popa
+- Cabina blanca, casco azul oscuro y lámparas interiores cálidas
+- Deriva pausada por el canal, con recorrido guiado lento opcional
+- Velocidad aproximada en el HUD: 15.9 KNOTS
+- Etiqueta de modo: GUIDED DRIFT
+El jugador puede mirar a su alrededor. La cámara puede seguir el barco en una persecución cinematográfica o mediante una órbita lateral.
+
+CÁMARA
+- Empieza mostrando el barco en tres cuartos, entre los árboles
+- Avanza a la deriva detrás de la popa por el canal iluminado por la luna
+- Desplazamiento lateral ocasional junto a un tronco en primer plano
+- Arrastra para mirar
+- PHOTO MODE opcional
+Debe sentirse como un documental de naturaleza, no como un FPS.
+
+INTERFAZ — editorial, no propia de un juego
+Arriba a la izquierda: distintivo pequeño + STILLWATER
+Arriba en el centro: THE DEEP SWAMP / 19:26 y un rumbo de brújula (por ejemplo, 314°)
+Arriba a la derecha: iconos utilitarios discretos
+Abajo a la izquierda:
+  EXPLORING STILLWATER
+  Heron bend
+  Leave a little room for the wild.
+  15.9 KNOTS
+  GUIDED DRIFT
+Abajo a la derecha: PHOTO MODE, fps, Pause
+Centro inferior: notificación pequeña "Discovered: Heron bend"
+Fila de indicaciones pequeñas: shaders / agua / arrastra para mirar / fotos / fauna
+
+Estética: gradación fílmica oscura, verdes apagados, nubes magenta y un único brillo lunar. Prima el gusto sobre el realismo. No añadas una interfaz de depuración recargada.
+
+TECNOLOGÍA
+Three.js en el navegador. Naturaleza procedural e instanciada. Shader de agua personalizado. Niebla. Sombras suaves o iluminación de crepúsculo con aspecto de iluminación precalculada. Si puedes crear los recursos tú mismo, no uses un paquete de pantano de una tienda de recursos.
+
+NO añadas combate, inventario, sustos repentinos ni una búsqueda del tesoro. Más adelante puede haber algo al acecho bajo el agua, pero no ahora.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103308083242082314) · [Publicación original](https://x.com/YouWareAI/status/2103310302993621090) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103303303358534021"></a>
+
+### Secuencia interactiva de lanzamiento de un cohete en 3D sobre el océano
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Secuencia interactiva de lanzamiento de un cohete en 3D sobre el océano"></a>
+
+**Prompt**
+
+```text
+Crea un lanzamiento de cohete cinematográfico, muy detallado e interactivo en 3D desde una plataforma oceánica al amanecer. Entrega el proyecto completo en un único archivo HTML que se abra directamente en Chrome. Usa Three.js + WebGL y recursos procedurales. Inserta los recursos siempre que sea práctico; puedes usar una CDN fiable para la biblioteca de renderizado.
+
+DIRECCIÓN ARTÍSTICA
+Crea una transición dramática desde un océano oscuro de tonos azul violáceos antes del amanecer hasta la luz cálida del sol sobre la atmósfera. Usa proporciones convincentes, materiales detallados, profundidad atmosférica y ángulos de cámara cuidadosamente compuestos. El resultado debe transmitir la sensación de una película refinada sobre un vuelo espacial en miniatura.
+COHETE Y PLATAFORMA DE LANZAMIENTO
+Construye un cohete multietapa convincente, con una ojiva de forma definida, uniones entre paneles, anillos estructurales, conexiones entre etapas, toberas de motor y una cofia de carga útil que se separe en dos mitades.
+
+Crea una plataforma de lanzamiento flotante y detallada, con torre de soporte, estructura de servicio retráctil, brazos de servicio, barandillas, escaleras, tuberías, equipos, reflectores y balizas de advertencia intermitentes. Mantén todas las estructuras físicamente conectadas y correctamente colocadas.
+SECUENCIA DE LANZAMIENTO
+Crea una secuencia de aproximadamente 46 segundos:
+
+Movimiento de cámara de presentación alrededor de la plataforma.
+
+Los brazos de servicio y la estructura de servicio se retraen.
+Los motores se encienden e iluminan el cohete, la plataforma y el agua cercana.
+El humo se extiende por la cubierta mientras el cohete despega y acelera.
+La cámara sigue el ascenso desde la atmósfera hacia el espacio.
+La primera etapa se separa y se desprende.
+Se enciende el motor de la segunda etapa.
+Las mitades de la cofia se separan y dejan al descubierto un satélite.
+El motor se apaga, el satélite se despliega y sus paneles solares se abren.
+Termina con una vista orbital del satélite frente al horizonte curvo de la Tierra y el amanecer.
+Comprime la línea temporal del vuelo para la presentación, manteniendo un movimiento coherente. Evita cambios bruscos de posición, componentes que se intersecten y efectos desconectados.
+OCÉANO, ATMÓSFERA Y EFECTOS
+Usa olas oceánicas animadas controladas por sombreadores, con reflejos de Fresnel y reflejos cálidos de la luz de los motores. Crea un escape por capas, con un núcleo brillante, una llama exterior más suave y partículas de humo a la deriva.
+El humo debe expandirse, desvanecerse y responder al viento. El escape debe permanecer unido al motor correcto durante la separación de etapas. La transición debe pasar suavemente de la neblina atmosférica a un campo estelar oscuro y al limbo iluminado de la Tierra.
+
+CÁMARA E INTERACCIÓN
+Usa transiciones de cámara cinematográficas y fluidas: vista general de presentación, plano de encendido desde un ángulo bajo, seguimiento del ascenso, separación de etapas y primer plano del satélite. Mantén el sujeto principal visible tanto en diseños verticales como apaisados.
+
+Incluye controles de reproducir/pausar, repetir y una barra de desplazamiento temporal con marcadores de eventos. Al cambiar de posición en la secuencia, deben reconstruirse la configuración correcta del cohete, el estado de las partículas, la posición de la cámara y la iluminación. Al repetir, toda la secuencia debe reiniciarse correctamente.
+Mantén la interfaz minimalista y discreta. Permite ocultarla para grabar.
+
+CALIDAD TÉCNICA
+Usa animación independiente de la velocidad de fotogramas y sistemas de partículas eficientes. Reutiliza la geometría y los materiales cuando corresponda, gestiona correctamente el redimensionamiento y equilibra el detalle visual con un rendimiento fluido.
+
+Prueba el HTML final en un navegador de escritorio. Inspecciona la consola y captura imágenes durante el encendido, el despegue, la separación de etapas y el despliegue del satélite. Corrige los errores de carga, el recorte, los problemas de geometría, los fallos al cambiar de posición en la secuencia y el encuadre deficiente de la cámara antes de entregar el archivo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
+
+ART DIRECTION
+Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
+ROCKET AND LAUNCH PLATFORM
+Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
+
+Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
+LAUNCH SEQUENCE
+Create an approximately 46-second sequence:
+
+Establishing camera move around the platform.
+
+Service arms and strongback retract.
+Engines ignite, illuminating the rocket, platform, and nearby water.
+Smoke spreads across the deck as the rocket lifts off and accelerates.
+The camera follows the climb from the atmosphere toward space.
+The first stage separates and falls away.
+The second-stage engine ignites.
+The fairing halves separate, revealing a satellite.
+The engine shuts down, the satellite deploys, and its solar panels unfold.
+Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
+Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
+OCEAN, ATMOSPHERE, AND EFFECTS
+Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
+Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
+
+CAMERA AND INTERACTION
+Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
+
+Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
+Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
+
+TECHNICAL QUALITY
+Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
+
+Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103303303358534021) · [Publicación original](https://x.com/Artless101/status/2103303449831964679) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103257687492374597"></a>
+
+### Reino medieval interactivo para Claude Opus 5.5
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Reino medieval interactivo para Claude Opus 5.5"></a>
+
+**Prompt**
+
+```text
+Construye tu propio reino medieval.
+Tu reino representa a Claude Opus 5.5. Diseña un castillo magnífico, inspirado en la historia, que exprese la identidad de este modelo mediante su arquitectura, heráldica, colores y atmósfera. Tienes total libertad artística dentro de un entorno medieval creíble.
+No te limites a colocar un logotipo sobre un castillo genérico. Dale a tu reino un carácter arquitectónico distintivo y una identidad visual coherente. Inventa su escudo de armas, sus colores reales y un emblema heráldico original. Muéstralos en estandartes animados, escudos, decoraciones de la puerta y la ropa de los guardias del castillo. Coloca el nombre del reino sobre la entrada principal.
+Crea una escena 3D interactiva y rica en detalles utilizando Three.js y WebGL. Entrega todo en un único archivo HTML independiente que se abra directamente en Chrome.
+EL CASTILLO
+Construye una fortaleza convincente con una torre del homenaje central, torres, almenas, murallas, una impresionante puerta fortificada, un puente levadizo funcional y un patio.
+Incluye mampostería cuidadosamente modelada, ventanas arqueadas, puertas de madera, estructuras de tejado, escaleras, balcones, herrajes y pequeños detalles arquitectónicos. Haz que las estructuras resulten creíbles: las torres necesitan interiores o una profundidad convincente, las escaleras deben conectar con plantas accesibles y los puentes deben contar con soportes adecuados.
+Rodea el castillo con un paisaje atractivo que encaje con tu reino: acantilados, colinas, un río, un foso, bosques o una pequeña aldea. Diseña una composición sólida que se vea hermosa desde múltiples ángulos.
+VIDA E INTERACCIÓN
+Da vida al reino con guardias que patrullen las murallas, aldeanos que se desplacen por el patio, estandartes que ondeen suavemente, humo de las chimeneas, pájaros y faroles parpadeantes.
+Permite que el espectador:
+Abra y cierre el puente levadizo y la puerta principal.
+Siga a un guardia durante su patrulla.
+Cambie entre una vista panorámica cinematográfica, el patio y las almenas.
+Gire y acerque o aleje la cámara libremente.
+Cambie entre la luz del día, el atardecer y la noche.
+Mantén a los personajes sobre superficies transitables. Evita que atraviesen muros, puertas o a otros personajes.
+ILUMINACIÓN Y ATMÓSFERA
+Crea una iluminación cinematográfica que revele la arquitectura con claridad. Utiliza sombras suaves, profundidad atmosférica, agua convincente cuando corresponda y un posprocesado sutil.
+Por la noche, ilumina ventanas, antorchas y faroles, manteniendo suficiente visibilidad para apreciar el castillo.
+Busca una obra 3D sofisticada y terminada, con una arquitectura distintiva y abundantes detalles. Evita una colección de formas primitivas evidentes o torres repetitivas sin una función arquitectónica.
+CALIDAD TÉCNICA
+Genera los recursos de forma procedural siempre que sea práctico. Integra las texturas y demás recursos dentro del HTML. No debe ser necesario utilizar un servidor local ni un proceso de compilación.
+Utiliza instanciación y agrupación de geometría cuando corresponda. Mantén fluidas la animación y la interacción con la cámara. Proporciona una interfaz mínima y elegante en inglés, junto con un botón para ocultarla.
+Prueba realmente el resultado en Chrome para escritorio. Captura capturas de pantalla, revisa la consola, prueba todas las interacciones y corrige errores de renderizado, objetos flotantes, intersecciones de geometría y problemas de cámara.
+Haz que este sea un castillo que la gente reconozca como TU reino incluso antes de leer su nombre.
+Devuelve el archivo HTML independiente completo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build your own medieval kingdom.
+Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
+Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
+Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
+THE CASTLE
+Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
+Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
+Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
+LIFE AND INTERACTION
+Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
+Let the viewer:
+Open and close the drawbridge and main gate.
+Follow a guard on patrol.
+Switch between a cinematic overview, the courtyard and the battlements.
+Rotate and zoom freely.
+Change between daylight, sunset and night.
+Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
+LIGHTING AND ATMOSPHERE
+Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
+At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
+Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
+TECHNICAL QUALITY
+Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
+Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
+Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
+Make this a castle people would recognize as YOUR kingdom, even before reading its name.
+Return the completed standalone HTML file.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103257687492374597) · [Publicación original](https://x.com/vib3coded/status/2103257873203462412) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103211135214256350"></a>
+
+### Experiencia explorable de otoño brumoso en Three.js
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="Experiencia explorable de otoño brumoso en Three.js"></a>
+
+**Prompt**
+
+```text
+Quiero que crees una experiencia explorable en Three.js, en un único archivo HTML/CSS/JS, con una atmósfera brumosa y lluviosa, de aire otoñal, misteriosa y nostálgica.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103211135214256350) · [Publicación original](https://x.com/SimonasLTU1/status/2103211135214256350) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103187935759655167"></a>
+
+### Rumbo al norte: viaje interactivo en un barco vikingo
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="Rumbo al norte: viaje interactivo en un barco vikingo"></a>
+
+**Prompt**
+
+```text
+Crea «Rumbo al norte», un hermoso viaje interactivo en 3D por un fiordo nórdico a bordo de un detallado barco vikingo.
+
+Construye una escena auténticamente interactiva en tiempo real con Three.js y WebGL, entregada como un único archivo HTML independiente. Debe ser una experiencia explorable en el navegador, no un vídeo prerrenderizado ni una ilustración plana.
+
+DIRECCIÓN VISUAL
+
+Busca un entorno pulido y cinematográfico, con materiales realistas, proporciones naturales y colores sobrios. Evita una apariencia caricaturesca o de pocos polígonos.
+
+Un barco vikingo de madera navega por aguas de color verde azulado intenso, entre imponentes acantilados, bosques frondosos, cascadas y pequeños asentamientos nórdicos. Usa perspectiva atmosférica, una niebla sutil, sombras suaves y una profundidad convincente. Compón vistas hermosas a lo largo de todo el viaje, no solo desde la posición inicial de la cámara.
+
+EL BARCO VIKINGO
+
+Construye un casco detallado y estanco, con tablones de madera superpuestos, vetas visibles, cuadernas, bancos y un interior continuo.
+Añade una proa tallada con forma de dragón, una vela de tela a rayas, mástil, cuerdas, escudos, provisiones y cálidos faroles.
+Incluye pasajeros y remeros vikingos de proporciones adecuadas, con ropa superpuesta, posturas sentadas creíbles y las manos colocadas cerca de los remos.
+Mantén todos los componentes físicamente conectados. No debe haber pasajeros flotando, accesorios intersecados ni huecos visibles a través del casco.
+Anima una flotabilidad, cabeceo y balanceo sutiles. La vela debe reaccionar suavemente al viento.
+
+AGUA Y REMADO
+
+Haz del agua un elemento visual central.
+
+Usa un shader personalizado con reflejos planares, refracción, brillos de Fresnel, absorción dependiente de la profundidad, zonas poco profundas visibles y ondulaciones de superficie en capas. Los reflejos deben responder correctamente a la cámara en movimiento y a los cambios de iluminación.
+
+Crea una estela creíble detrás del barco.
+
+Anima un ciclo completo de remado: las palas entran en el agua, tiran hacia atrás, salen y regresan por encima de la superficie. Coordínalo con el movimiento de los remeros.
+
+Genera ondulaciones, espuma y pequeñas gotas en los puntos reales de contacto entre las palas y el agua. Las estelas deben permanecer en el espacio del mundo y disiparse gradualmente. Evita que aparezcan efectos mientras las palas están en el aire.
+
+ENTORNO Y MATERIALES
+
+Usa un terreno detallado, formaciones rocosas irregulares, siluetas naturales de árboles, troncos ramificados y grupos individuales de hojas o agujas.
+
+Usa materiales PBR con mapas de normales y rugosidad para la madera, la piedra y el suelo. Puedes integrar texturas con licencias adecuadas; incluye la atribución cuando sea necesario.
+
+Asegúrate de que el terreno submarino continúe bajo la superficie. No debe haber costuras brillantes, huecos en la orilla, vegetación flotante ni árboles que obstruyan la ruta navegable.
+
+CONTROLS
+
+Teclas A/D o de flecha: gira a izquierda y derecha.
+W/S: ajusta la velocidad.
+Arrastrar con el ratón: mirar alrededor.
+Ofrece modos de cámara de seguimiento, órbita y cinematográfico.
+Incluye un modo opcional de viaje automático.
+Añade controles para pausar, reiniciar, activar la pantalla completa y ocultar la interfaz.
+Admite controles táctiles de dirección y velocidad en dispositivos móviles.
+Impide que el barco atraviese tierra firme y rocas.
+
+ATMÓSFERA E INTERFAZ
+
+Ofrece tres preajustes de iluminación con transiciones fluidas: Mañana, Nublado y Luz de luna.
+
+Añade, de forma opcional, sonidos ambientales de agua, viento, aves y remos. El audio debe comenzar únicamente después de la interacción del usuario.
+
+Diseña una interfaz editorial minimalista: «Rumbo al norte.» con una tipografía serif elegante, etiquetas de capítulo sutiles y una barra de controles compacta y translúcida. Mantén el paisaje despejado.
+
+RENDIMIENTO Y ENTREGA
+
+Usa instanciación, presupuestos de geometría razonables, nivel de detalle basado en la distancia y objetivos de reflejo de tamaño adecuado. Adapta la calidad del renderizado al dispositivo en lugar de prometer una frecuencia de fotogramas fija.
+
+Entrega un único archivo HTML con los scripts y recursos necesarios integrados, de modo que pueda abrirse directamente en un navegador moderno.
+
+Prueba la dirección, los modos de cámara, las transiciones de iluminación y el remado. Inspecciona el barco desde varios ángulos y comprueba la línea de costa desde puntos de vista bajos. Corrige las intersecciones de geometría, los artefactos de los reflejos, el exceso de brillo y los errores de la consola antes de considerar terminada la escena.
+
+Da prioridad a un agua convincente, un barco vikingo magníficamente construido y un entorno cohesionado por encima de añadir más objetos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
+
+Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
+
+VISUAL DIRECTION
+
+Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
+
+A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
+
+THE LONGSHIP
+
+Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
+Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
+Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
+Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
+Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
+
+WATER AND ROWING
+
+Make the water a central visual feature.
+
+Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
+
+Create a believable wake behind the ship.
+
+Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
+
+Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
+
+ENVIRONMENT AND MATERIALS
+
+Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
+
+Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
+
+Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
+
+CONTROLS
+
+A/D or arrow keys: steer left and right.
+W/S: adjust speed.
+Mouse drag: look around.
+Provide follow, orbit, and cinematic camera modes.
+Include an optional automatic journey mode.
+Add pause, reset, fullscreen, and hide-interface controls.
+Support touch steering and speed controls on mobile.
+Prevent the ship from passing through land and rocks.
+
+ATMOSPHERE AND INTERFACE
+
+Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
+
+Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
+
+Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
+
+PERFORMANCE AND DELIVERY
+
+Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
+
+Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
+
+Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
+
+Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2103187935759655167) · [Publicación original](https://x.com/vib3coded/status/2103189762672611675) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Espacio: un cortometraje de una catedral llena de luz de vitrales
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Espacio: un cortometraje de una catedral llena de luz de vitrales"></a>
+
+**Prompt**
+
+```text
+Crea con three.js un cortometraje vertical de 1080×1920, a 30 fotogramas por segundo y de unos 36 segundos de duración.
+
+【Título de la obra】
+Espacio
+
+【Experiencia que se busca transmitir】
+Este vídeo debe hacer sentir, sin mostrar ningún personaje, cómo se va perdiendo el tiempo por la presión de ser más eficiente y cómo, en el momento de recuperar espacio, la vida vuelve a llenarse de una luz abundante. Al final, la luz de los vitrales que aparece por todo el suelo debe provocar en quien lo vea un suspiro de asombro.
+
+【Escenario】
+・Interior de una catedral de piedra, tenuemente iluminada. En la pared frontal hay una única ventana ojival de 15 m de alto por 10 m de ancho
+・Desde el exterior de la ventana entra una luz intensa en un ángulo de 45 grados, que proyecta en el suelo de piedra la forma de la ventana
+・La ventana tiene un vitral con la Virgen en el centro, dos ángeles con las alas extendidas a ambos lados y un rosetón en la parte superior. El diseño debe ser original, sin imitar obras existentes, y presentar una composición simétrica
+
+【Estructura temporal】
+0–3 segundos: La luz que entra por la ventana todavía es blanca y no tiene color. En el suelo aparece una forma de luz blanca y suave
+3–11 segundos: Cubos grises con palabras grabadas como «Ocupado», «Eficiencia», «Urgente» y «Fecha límite» llegan volando uno tras otro desde la parte delantera de la sala y van cubriendo la ventana. El ritmo de llegada se acelera cada vez más y la sala se oscurece a medida que la ventana queda bloqueada
+11–14 segundos: La ventana queda completamente tapada; reinan la oscuridad y el silencio
+14–19 segundos: Un único bloque con la palabra «Ocupado» se desprende de la ventana, cae y se convierte en partículas de luz hasta desaparecer. Por el hueco entra un rayo de luz de colores intensos
+19–26 segundos: Los bloques empiezan a desprenderse en cadena a partir del primer hueco. Cada vez que aumenta el número de huecos, aparecen más columnas de luz multicolor y el vitral oculto se revela poco a poco
+26–33 segundos: Todos los bloques desaparecen. La cámara atraviesa las columnas de luz mientras asciende y, desde una vista cenital, enfoca el suelo. Por toda su superficie se proyecta el vitral de la Virgen y los ángeles en forma de luz de colores vivos
+33–36 segundos: Toda la pantalla queda envuelta en una luz deslumbrante, aparece el último mensaje y la pieza termina en silencio
+
+【Mensajes (en tipografía Mincho, aparecen y desaparecen sutilmente)】
+・«Cada día, más rápido.»
+・«Más eficiente.»
+・«Cuando me di cuenta, la luz había dejado de entrar.»
+・«Voy a soltar una cosa.»
+・«La luz entra por el espacio que queda.»
+・«Esa luz era más abundante que antes.»
+・Al final, en grande: «La abundancia habita en el espacio que queda»
+
+【Luz y texturas】
+・Las columnas de luz adoptan el color de la zona correspondiente del vitral y el polvo suspendido en el aire centellea
+・La proyección sobre el suelo debe reflejar con precisión qué huecos de la ventana están abiertos; las zonas donde haya bloques deben quedar en sombra
+・Los bloques son de un gris mate, frío e impersonal. Las palabras están grabadas en blanco
+・La primera mitad debe ser fría y acromática; la segunda, de rojos, azules y dorados como piedras preciosas. Este contraste de color debe expresar que todo se ha vuelto más abundante
+
+【Requisitos técnicos】
+・Genera la imagen del vitral como una textura y calcula a partir de ese mismo diseño la luz del suelo, las columnas de luz y la imagen de la ventana, para que todos coincidan
+・Avanza el tiempo con precisión en incrementos de 1/30 de segundo, exporta cada fotograma por separado y conviértelo en un MP4
+
+【Acabado】
+Renderiza y comprueba cada escena en la práctica. Antes de entregarlo, corrige cualquier problema: verifica que el diseño del vitral pueda reconocerse en el suelo como la Virgen y los ángeles, que los mensajes sean legibles y que los movimientos no resulten bruscos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103145567945986461) · [Publicación original](https://x.com/AGIOyaZ/status/2103145567945986461) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Juego al estilo de Genshin Impact ambientado en San Francisco
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Juego al estilo de Genshin Impact ambientado en San Francisco"></a>
+
+**Prompt**
+
+```text
+Crea un juego al estilo de Genshin Impact ambientado en San Francisco.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103144530157687114) · [Publicación original](https://x.com/every/status/2103144530157687114) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Película cinematográfica sobre la batalla de Austerlitz
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Película cinematográfica sobre la batalla de Austerlitz"></a>
+
+**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**Prompt**
+
+```text
+Crea un video cinematográfico de 4–5 minutos sobre la batalla de Austerlitz (1805), realizado íntegramente mediante código.
+
+Investiga a fondo la batalla y decide por tu cuenta cómo contar la historia, estructurar el ritmo, explicar la estrategia y visualizar los acontecimientos. Quiero que sea históricamente riguroso, dramático, fácil de entender y visualmente excepcional.
+
+Usa las pinturas adjuntas como inspiración visual, no como un requisito estilístico estricto. Me encantan su escala, atmósfera, humo, cielos dramáticos, caballería, formaciones masivas, paisaje y sensación de caos. Encuentra una forma de trasladar esa sensación al código; pero, si puedes inventar un lenguaje visual más potente, hazlo.
+
+No debe parecer una infografía genérica ni un juego de estrategia. Tiene que sentirse como una película histórica cinematográfica que, casualmente, está renderizada mediante código.
+
+Tienes control creativo total. Sorpréndeme.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103116235009347650) · [Publicación original](https://x.com/WinterArc2125/status/2103116689944502720) · [Código fuente](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Construye la Torre Eiffel en Three.js
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Construye la Torre Eiffel en Three.js"></a>
+
+**Prompt**
+
+```text
+Construye la Torre Eiffel en Three.js.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103106070549757960) · [Publicación original](https://x.com/0xPascual/status/2103106070549757960) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — Artillería 3D en una isla
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — Artillería 3D en una isla"></a>
+
+**Prompt**
+
+```text
+1. Objetivo del proyecto
+Crear Crazy Tanks — Wild Tides, un juego de artillería por turnos, jugable y realmente tridimensional, ambientado en una isla tropical. El jugador apunta un tanque pequeño, calcula el viento, controla una carga que empieza en cero y transforma el campo de batalla con proyectiles. Incluir partidas individuales contra la IA y partidas locales por turnos, con un modo predeterminado de todos contra todos con tres tanques y un duelo opcional entre dos tanques. Gana el último tanque superviviente. Usar la jugabilidad y las capturas de referencia actuales como objetivo visual.
+
+2. Estilo visual
+Usar una cámara en perspectiva y geometría 3D que se pueda orbitar libremente, no sprites planos ni una vista lateral fija. Crear un diorama soleado en miniatura, con tanques redondeados de jade, naranja coral y azul violáceo, arena cremosa, hierba verde pálida, agua turquesa reflectante, sombras suaves y una ligera bruma atmosférica a distancia. Conservar las siluetas diferenciadas de los tres tanques y sus cañones correspondientes. Usar un panel redondo de color crema, con aspecto de blindaje, sobre el campo de batalla y una consola de control redondeada de color verde azulado oscuro debajo. El dorado indica la potencia de referencia y la acción de disparo; el menta indica la carga real y el estado de aliado. Mantener visible en la parte superior el selector de apariencia Tripo / Three.js, con los recursos de Tripo seleccionados por defecto. Cambiar la apariencia no debe alterar el estado de la partida ni el de la física. Usar guiones finos de color verde azulado, espaciados uniformemente en el espacio de pantalla, y un círculo de aterrizaje discreto; no reflejar los gráficos de apuntado en el agua.
+
+3. Mundo y escena
+Usar una isla con un campo de alturas deformable, de aproximadamente 260 por 184 metros, rodeada por un océano con un nivel del mar fijo. Colocar los tanques iniciales bien separados sobre terreno estable; distribuir rocas, palmeras, cactus y cajas de suministros coleccionables. Las islas decorativas más pequeñas aportan profundidad al fondo y nunca sustituyen al terreno principal deformable. Las explosiones deforman la superficie y pueden excavar por debajo del nivel del mar. Mantener el color de la orilla y la espuma en una única superficie de agua para evitar planos superpuestos y parpadeos. Proyectar los números de los tanques desde sus posiciones en el mundo en cada fotograma renderizado. Ofrecer vistas de trayectoria completa, tanque, órbita y vista táctica desde arriba. La vista de trayectoria debe encajar el tanque que dispara, el arco y el aterrizaje estimado en el espacio entre el HUD y la consola de control. Antes de cada disparo, mostrar el tanque que dispara durante unos 0,8 segundos, detenerse en la boca del cañón y después seguir al proyectil. La interacción manual con la cámara cancela el seguimiento cinematográfico.
+
+4. Inventario de recursos
+Usar ranuras de modelos estables y mantener los modelos de reemplazo accesibles de forma individual:
+- jade-body: chasis oruga verde y redondeado, con forma de escudo; el cuerpo predeterminado del jugador. jade-cannon: cañón de jade a juego, con ánima oscura y detalles dorados, articulado de forma independiente.
+- ember-body: chasis blindado naranja coral, puntiagudo y de perfil mecánico bajo. ember-cannon: su cañón naranja a juego, más largo, con boca oscura.
+- bolt-body: chasis oruga industrial azul violáceo, con blindaje angular de placas. bolt-cannon: cañón azul grueso a juego.
+- shell: proyectil de artillería de latón, con punta cónica oscura y detalle cian. Reutilizarlo con el tinte y la escala específicos de cada arma.
+- crate: caja de suministros blindada amarilla, con marcas cian y esquinas reforzadas; recogerla otorga 20 puntos de blindaje, hasta un máximo de 100.
+- rock: conjunto redondeado de arenisca cálida; repetirlo con escalas variadas y usar un proxy de colisión independiente.
+- palm: tronco curvado y frondas verdes dispuestas en capas; repetirlo como vegetación de la isla.
+- cactus: cactus verde compacto con pequeños detalles florales; repetirlo en el terreno seco.
+- islet: isla de fondo redondeada y cubierta de hierba, con bordes de roca y arena pálidas; repetirla más allá de la arena de combate.
+Dar prioridad a las tres parejas de cuerpos y cañones a juego, seguidas del proyectil, la caja y los elementos ambientales. Mantener la deformación del terreno, el océano, la espuma, el fuego, el humo, las ondas de choque, los escombros, los gráficos de apuntado, la iluminación, la interfaz y los proxies de colisión como elementos procedurales. Las piezas de cuerpo y cañón a juego comparten una única referencia de diseño y escala. Colocar el pivote del cañón en su articulación mecánica, alinear su eje delantero con +X y usar la boca visible como punto físico de lanzamiento. Los cuerpos de los tanques deben adaptarse a las pendientes mediante cuaterniones; el apuntado de la torreta debe seguir siendo una dirección en el espacio del mundo. Conservar las texturas PBR de origen y las costuras UV. Mantener separados los modelos descargables en resolución completa de las copias optimizadas para la ejecución del juego; las referencias y la procedencia de los archivos deben identificar la fuente real de generación.
+
+5. Jugabilidad y respuesta
+Cada tanque vivo recibe 18 metros de movimiento al comenzar su turno. WASD y el panel de movimiento desplazan el tanque con respecto a la pantalla; las teclas de dirección y el panel de apuntado ajustan el acimut y la elevación. Los controles deslizantes permiten ajustar el acimut, una elevación de 10–80 grados y una potencia de referencia de 0–100. Seleccionar a un rival solo orienta el tanque hacia él; no debe calcular el disparo.
+El arco verde azulado estima la potencia de referencia elegida SIN viento. Mantener fija esa referencia y su marcador dorado durante la carga. Mantener pulsado Fire, Espacio o Intro con el botón Fire enfocado para iniciar siempre la potencia real en 0; aumentarla 18 puntos porcentuales por segundo, mantenerla en 100 y disparar exactamente una vez al soltar, usando la potencia real de ese instante. Un toque rápido dispara un proyectil débil. La banda dorada dentro de un margen de 3 puntos porcentuales es solo una respuesta visual, sin ajuste automático ni corrección oculta. Cancelar al cancelar el puntero, perder el foco de la ventana o dejar de estar visible. Bloquear los cambios de movimiento, objetivo y apuntado durante la carga. Los controles de teclado de los campos de rango no deben girar también la torreta. La potencia cero representa la velocidad de lanzamiento mínima, no un proyectil inmóvil.
+La flecha y las estelas de viento visibles que se desplazan muestran hacia dónde empuja el viento al proyectil. Etiquetar la intensidad del viento y los metros por segundo; hacer clic en la tarjeta del viento debe explicar su funcionamiento. Si el viento sopla hacia la izquierda, el jugador debe apuntar algo hacia la derecha. Un viento más fuerte y un tiempo de vuelo más largo provocan una mayor deriva. El viento se mantiene constante durante un disparo y cambia en cada turno. No compensar nunca automáticamente la vista previa del jugador. Predecir de forma aproximada el aterrizaje en el terreno; no prometer colisiones con tanques o rocas, separación de grupos ni rebotes en la vista previa.
+Ofrecer seis tipos de proyectil: HE ilimitado; un proyectil de racimo que se divide en cinco submuniciones descendentes; Seismic, con un cráter de hasta 28 metros de diámetro y 13 de profundidad; un proyectil de rebote que rebota dos veces; un proyectil Cataclysm por tanque, con un cráter de hasta 46 metros de diámetro y 22 de profundidad; e Incendiary, que deja una zona de fuego de 12 metros de radio. El fuego inflige 8 puntos de daño al final de cada una de las seis acciones; salir de la zona evita el daño y las zonas superpuestas no se acumulan. El agua del mar apaga las llamas. Un tanque completo, incluido su cañón elevado, queda eliminado inmediatamente al sumergirse por completo bajo el agua. Mostrar el daño real, la pérdida de blindaje, el hundimiento del terreno, el chapoteo del agua y el resultado de la eliminación.
+Usar bolas de fuego en capas, anillos de choque expansivos, chispas emisivas, fragmentos balísticos, polvo y humo, con una sacudida de cámara contenida. Usar la música original proporcionada de ElevenLabs y los sonidos de cañón, impacto, rebote, explosión intensa, fuego y chapoteo. Incluir controles de sonido, pausar/reanudar, instrucciones, repetición y regreso al menú. Durante el vuelo de un proyectil o los turnos de la IA, ofrecer «Volver a mi turno»: ejecutar rápidamente la misma simulación con pasos fijos y conservar todos los resultados de daño, terreno y peligros. No omitir nunca el turno de entrada de un amigo en una partida local.
+
+6. Implementación técnica
+Usar Three.js con módulos ES y Vite, fuentes incluidas localmente, Web Audio para los efectos y un elemento de audio HTML para la música en bucle. Mantener los recursos en el mismo origen y admitir una compilación estática. Usar un renderizador en perspectiva con antialiasing, presupuestos razonables para sombras y posprocesado, y una liberación adecuada de la geometría y los materiales temporales. Distinguir la decoración de los modelos de las colisiones de la jugabilidad.
+Mantener una física determinista independiente del renderizado, con unidades de metros por segundo, gravedad de 9,81 m/s² y un paso fijo de 1/120 de segundo. Usar colisiones continuas por barrido para proyectiles de alta velocidad contra el suelo, el agua, los tanques y las rocas; aplicar impulsos de explosión y gravedad a los tanques desplazados. Derivar las posiciones de lanzamiento a partir de la transformación real del cañón específico de cada tanque. La reproducción normal y el avance rápido deben llamar a las mismas actualizaciones de simulación. El daño y la respuesta al viento son reglas de juego estilizadas, no un simulador de explosiones de ingeniería.
+Admitir interfaces en chino, inglés, japonés y coreano. Elegir inicialmente el idioma del dispositivo; los dispositivos de Hong Kong, Macao, Taiwán y chino tradicional deben usar inglés por defecto. Recordar las elecciones explícitas y permitir un selector de idioma visible. Usar diseños adaptables para escritorio, teléfonos en vertical y pantallas apaisadas bajas, menús desplazables en pantallas cortas, objetivos táctiles cómodos, paneles plegables y ningún control superpuesto. No exigir entrada de teclado en dispositivos táctiles. Mantener fuera de producción las mutaciones de estado y los asistentes de apuntado exclusivos del desarrollo.
+
+7. Criterios de finalización
+Entregar un proyecto fuente independiente y editable, un archivo de bloqueo, instrucciones npm para desarrollo y compilación, y una vista previa estática funcional. Igualar las capturas actuales y el vídeo de jugabilidad, incluido el panel de estado crema, el marcador dorado de referencia fija, la carga activa que empieza en cero y la presentación totalmente 3D de los tanques y la isla. Verificar el primer lanzamiento, la carga de modelos, un ciclo de turno completo, el comportamiento de cada proyectil, la pausa, la repetición y un resultado real de victoria o derrota. Confirmar que el cambio de apariencia conserva el estado y que la cancelación mediante teclado o controles táctiles no dispara el arma. En un disparo de prueba claro y sin viento, al soltar con la potencia de referencia el proyectil debe aterrizar cerca del círculo de referencia; los vientos cruzados opuestos deben desplazar visiblemente el proyectil real sin modificar ese círculo. Comprobar el comportamiento a 30/60/144 Hz, las colisiones a alta velocidad, los cráteres profundos, la extinción del fuego, la eliminación por inmersión completa y la igualdad de los resultados de los turnos normales y de avance rápido. Revisar los diseños de escritorio y estrechos en los cuatro idiomas; identificar por separado la emulación del navegador y las pruebas en dispositivos físicos. Validar la página publicada y los recursos multimedia enlazados, no solo la compilación local.
+
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/crazy-tanks-3d-island-artillery) · [Demo en línea](https://super-tanks-aftershock.tripo.page/) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Animación en Three.js con calidad Pixar para Grid Genius
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Animación en Three.js con calidad Pixar para Grid Genius"></a>
+
+**Prompt**
+
+```text
+Quiero que imagines una historia que promocione sutilmente Grid Genius. También puede no incluir Grid Genius, siempre que esté alineada con nuestra aplicación y nos ayude a conseguir más visualizaciones al publicarla en redes sociales. Después, usando Three.js/JavaScript, quiero que crees una animación completa, con calidad de Pixar, basada en la historia que imagines.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2103087766662009118) · [Publicación original](https://x.com/Anilraok/status/2103087766662009118) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103083781490176212"></a>
 
 ### Juego de ciclismo con un pelícano en tiempo real
@@ -2009,602 +2809,6 @@ Deliver the working HTML file, not just an explanation.
 </details>
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102215638311694336) · [Publicación original](https://x.com/vib3coded/status/2102217028052377910) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102150615635816866"></a>
-
-### Juego de carreras procedural para navegador: Spline Rush
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/28d71c2ef7fb89cb6d0cff7e49fb0414ee59901911a6c8240fe3fa508ed86767.webp" width="840" loading="lazy" alt="Juego de carreras procedural para navegador: Spline Rush"></a>
-
-**Prompt**
-
-```text
-Crea un juego de carreras para navegador completo y de calidad de producción llamado Spline Rush usando la versión más reciente de Three.js (WebGPURenderer + TSL siempre que sea posible). 100 % procedural: no uses modelos, texturas, archivos de audio ni fuentes externos. Todo debe generarse mediante código durante la ejecución.
-
-JUEGO PRINCIPAL
-- 6 circuitos únicos con desniveles, peraltes, túneles, horquillas, curvas con nombre y biomas diferenciados (costa de día, montaña al anochecer, desierto al atardecer, bosque lluvioso, ciudad nocturna de neón y óvalo de alta velocidad).
-- Modo campeonato (clasificación + 3 carreras), contrarreloj con fantasmas y carrera rápida.
-- 8 rivales controlados por IA con personalidad, trazada, puntos de frenada, adelantamientos y defensa de posición.
-- Récords de vuelta rápida, tiempos por sector, feed de eventos en directo y cámara de repetición.
-- Garaje: 5 coches paramétricos con pintura con barniz transparente y escamas metálicas, separaciones entre paneles, luces funcionales, suspensión animada y estados de daño.
-
-OBJETIVO GRÁFICO (Ultra, a la altura de una RTX 5090 en 4K)
-Renderizador: THREE.WebGPURenderer. Canalización basada en renderizado físico.
-Iluminación:
-- Cielo basado físicamente en Rayleigh/Mie + campo estelar + luna + sol dinámico que controle un ciclo completo de día y noche.
-- Mapas de sombras en cascada (4 cascadas, ajuste estable de texels y alta resolución).
-- IBL mediante PMREM actualizado según la hora del día.
-- Niebla volumétrica + rayos crepusculares + reverberación térmica.
-Materiales:
-- MeshPhysicalMaterial / nodos TSL: barniz transparente, anisotropía, transmisión en el cristal, pintura con escamas metálicas y shader de carretera mojada que reaccione a la lluvia.
-Cadena de posprocesado (RenderPipeline / TSL o una biblioteca de posprocesado):
-GTAO o SSAO de alta calidad → SSR → bloom (Karis) → desenfoque de movimiento (velocidad) → profundidad de campo → rayos crepusculares → exposición automática → gradación de color + grano de película + viñeta → SMAA o TAA.
-Efectos:
-- Grupos de partículas en la GPU: humo de neumáticos, chispas, polvo, aerosol de lluvia, hierba y grava levantadas por las ruedas, y distorsión térmica.
-- Marcas de derrape que persistan y se desvanezcan.
-- Humedad dinámica y reflejos en los charcos cuando llueva.
-
-FÍSICAS Y SENSACIONES
-- Simulación con paso fijo a 120 Hz.
-- Suspensión mediante raycast o puntales, transferencia de carga, neumáticos con deslizamiento combinado, ABS/TC y tipos de superficie (asfalto, bordillo, hierba, grava y mojado).
-- Cámara: persecución cinematográfica + capó + cámara interior, con sacudidas por movimiento y colisiones.
-
-AUDIO
-- Audio Web completamente sintetizado: motor multicapa según las RPM y la carga, viento, chirrido de neumáticos, traqueteo sobre bordillos, público y música dinámica.
-
-SISTEMA DE CALIDAD
-- Preajustes: Bajo / Medio / Alto / Ultra.
-- Ultra presupone una GPU de la clase de una RTX 5090: 4K, mapas de sombras de alta calidad, máximo de partículas, todos los efectos de posprocesado activados y sin LOD agresivo.
-- Calidad adaptativa capaz de reducir los efectos si el tiempo de fotograma supera el objetivo.
-
-Empieza con una primera versión jugable (un circuito, un coche e iluminación básica) y después itera función por función exactamente como se solicita. Mantén todo en un único proyecto limpio de HTML/JS (o Vite) que se ejecute localmente. Comenta los sistemas principales. Haz que parezca caro, no adorable.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build a complete, production-quality browser racing game called Spline Rush using the latest Three.js (WebGPURenderer + TSL where possible). 100% procedural: no external models, textures, audio files or fonts. Everything generated in code at runtime.
-
-CORE GAME
-- 6 unique tracks with elevation, banking, tunnels, hairpins, named corners and distinct biomes (coastal day, mountain dusk, desert sunset, forest rain, night city neon, high-speed oval).
-- Championship mode (qualifying + 3 races), Time Trial with ghosts, Quick Race.
-- 8 AI opponents with personality, racing line, braking points, overtaking and defending.
-- Best lap records, sector times, live event feed, replay camera.
-- Garage: 5 parametric cars with clearcoat + metal-flake paint, panel gaps, working lights, animated suspension, damage states.
-
-GRAPHICS TARGET (Ultra, worthy of RTX 5090 at 4K)
-Renderer: THREE.WebGPURenderer. Physically based pipeline.
-Lighting:
-- Rayleigh/Mie physically based sky + starfield + moon + dynamic sun that drives a full day/night cycle.
-- Cascaded shadow maps (4 cascades, stable texel snapping, high-res).
-- IBL via PMREM updated with time of day.
-- Volumetric fog + god rays + heat haze.
-Materials:
-- MeshPhysicalMaterial / TSL nodes: clearcoat, anisotropy, transmission on glass, metal-flake paint, wet-road shader that reacts to rain.
-Post-processing chain (RenderPipeline / TSL or postprocessing library):
-GTAO or high-quality SSAO → SSR → bloom (Karis) → motion blur (velocity) → DOF → god rays → auto-exposure → color grading + film grain + vignette → SMAA or TAA.
-Effects:
-- GPU particle pools: tyre smoke, sparks, dust, rain spray, grass/gravel kick-up, heat distortion.
-- Skid marks that persist and fade.
-- Dynamic wetness and puddle reflections when raining.
-
-PHYSICS & FEEL
-- Fixed-step 120 Hz simulation.
-- Raycast or strut suspension, load transfer, combined-slip tyres, ABS/TC, surface types (asphalt, kerb, grass, gravel, wet).
-- Camera: cinematic chase + hood + onboard with motion and collision shake.
-
-AUDIO
-- Fully synthesised Web Audio: multi-layer engine by RPM/load, wind, tyre screech, kerb rumble, crowd, dynamic music.
-
-QUALITY SYSTEM
-- Presets: Low / Medium / High / Ultra.
-- Ultra assumes RTX 5090-class GPU: 4K, high shadow maps, max particles, all post effects on, no aggressive LOD.
-- Adaptive quality that can drop effects if frame time exceeds target.
-
-Start with a playable first version (one track, one car, basic lighting), then iterate feature-by-feature exactly as requested. Keep everything in a single clean HTML/JS (or Vite) project that runs locally. Comment major systems. Make it look expensive, not cute.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102150615635816866) · [Publicación original](https://x.com/ToolBraidComp/status/2102150671340327384) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102038136725377200"></a>
-
-### Sitio web interactivo del Sol en 3D
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/169472399e3e1991f493f8eb441b75a17cc26b6be6aeb26a54bd14323bd9bbc2.webp" width="840" loading="lazy" alt="Sitio web interactivo del Sol en 3D"></a>
-
-**Prompt**
-
-```text
-Quiero crear un sitio web interactivo con un modelo 3D del Sol usando Three.js.
-
-Primero, escribe un script de Python que se pueda ejecutar directamente en Blender para crear un modelo 3D del Sol muy realista. El modelo debe basarse en las características físicas y visuales reales del Sol, como su forma esférica, la textura de su superficie, el color, el aspecto similar al plasma, la granulación solar y su atmósfera brillante. No debe parecer una simple esfera naranja. Utiliza materiales, sombreadores, texturas y efectos de iluminación adecuados para crear un aspecto solar realista.
-
-Después, escribe el código completo del sitio web usando Three.js. El Sol debe ocupar aproximadamente el 80 % del área visual principal. Los usuarios deben poder rotar el Sol, desplazar la vista y acercar o alejar la imagen. La escena debe incluir una iluminación realista y efectos de resplandor para que el Sol tenga un aspecto dinámico y tridimensional.
-
-Añade un botón de acercamiento que permita a los usuarios aproximarse al Sol y observar los detalles de su superficie.
-
-El sitio web también debe incluir contenido informativo sobre el Sol y su función en el sistema solar. El fondo general debe ser un entorno cósmico realista de galaxias y espacio.
-
-Además, añade un botón que abra una vista anatómica interna e interactiva del Sol. Esta vista debe mostrar sus principales capas, como el núcleo, la zona radiativa, la zona de convección, la fotosfera, la cromosfera y la corona. Cada capa debe tener una etiqueta correspondiente y una breve descripción. Lo ideal sería que los usuarios pudieran interactuar con el diagrama y seleccionar distintas capas para consultar su información.
-
-Haz que el sitio web sea visualmente impactante, informativo desde el punto de vista científico y totalmente interactivo, con una interfaz de usuario moderna inspirada en el espacio.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-I want to build an interactive 3D Sun model website using Three.js.
-
-First, please write a Python script that can be run directly in Blender to create a highly realistic 3D model of the Sun. The model should be based on the Sun's real physical and visual characteristics, including its spherical shape, surface texture, color, plasma-like appearance, solar granulation, and glowing atmosphere. It should not look like a simple orange sphere. Please use appropriate materials, shaders, textures, and lighting effects to create a realistic solar appearance.
-
-Then, write the complete website code using Three.js. The Sun should occupy approximately 80% of the main visual area. Users should be able to rotate the Sun, move the view, and zoom in and out. The scene should include realistic lighting and glowing effects to make the Sun look dynamic and three-dimensional.
-
-Add a zoom-in button that allows users to get closer to the Sun and observe its surface details.
-
-The website should also include informative content about the Sun and its role in the solar system. The overall background should be a realistic cosmic galaxy/space environment.
-
-In addition, add a button that opens an interactive internal anatomy view of the Sun. This view should show the major layers of the Sun, such as the core, radiative zone, convection zone, photosphere, chromosphere, and corona. Each layer should have a corresponding label and a short text description. Ideally, users should be able to interact with the diagram and select different layers to view their information.
-
-Please make the website visually impressive, scientifically informative, and fully interactive, with a modern space-themed UI.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2102038136725377200) · [Publicación original](https://x.com/HIX_AI_/status/2102038474752766239) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101730386711634251"></a>
-
-### Verdant — isla de dinosaurios 3D interactiva
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/a535c40ebc8c7086dde5e627372c64ba5cdab5c252538c6c00e0ef5ec2c5e031.webp" width="840" loading="lazy" alt="Verdant — isla de dinosaurios 3D interactiva"></a>
-
-**Prompt**
-
-```text
-crea Verdant: un diorama 3D interactivo creado con Three.js + WebGL
-
-Una isla exuberante con dinosaurios que recorren la isla, una cascada y una laguna en corte con un reptil marino nadando. Alimenta a la manada, ayuda a eclosionar a una cría de dinosaurio y lleva la cámara bajo el agua
-
-Ajusta la marea, el viento y la hora del día, o activa una lluvia tropical mientras suena música relajante
-
-Todo funciona directamente en el navegador, en un único archivo HTML
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-create Verdant - an interactive 3D diorama built with Three.js + WebGL
-
-A lush island with roaming dinosaurs, a waterfall, and a cutaway lagoon with a swimming marine reptile. Feed the herd, hatch a baby dinosaur, and take the camera underwater
-
-Adjust the tide, wind, and time of day, or bring in tropical rain while relaxing music plays
-
-Everything runs right in your browser, in a single HTML file
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101730386711634251) · [Publicación original](https://x.com/vib3coded/status/2101570806702559235) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101687900723106104"></a>
-
-### Crea un modelo 3D de WALL-E en Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/cac68c08e650b70228db60cbf7a38e7f2d113b00c6420a411918d82aad4f7bb1.webp" width="840" loading="lazy" alt="Crea un modelo 3D de WALL-E en Three.js"></a>
-
-**Prompt**
-
-```text
-crea un modelo 3D de WALL-E en Three.js.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-create a 3d model of wall-e in three.js.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101687900723106104) · [Publicación original](https://x.com/marcthecreatorr/status/2101687900723106104) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101616345720787130"></a>
-
-### Velero en mar abierto
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b5b0b8a7e7c8425edf9299873ea284b3d4598bdac00bfc48ae9fcf178e4a0642.webp" width="840" loading="lazy" alt="Velero en mar abierto"></a>
-
-**Prompt**
-
-```text
-Crea un único archivo HTML con una escena 3D que muestre un velero pequeño avanzando por mar abierto, con control de dirección y una ruta que navegue alrededor de dos islas visibles, similar a las demostraciones de «juegos de barcos» de las pruebas recientes de modelos.
-
-Requisitos funcionales:
-
-Una superficie de agua representada como una malla de olas animada (shader de agua procedural, olas en movimiento, reflejos de luz que cambien según el ángulo de visión y una estela detrás de la embarcación), no una textura plana y estática.
-Un modelo de velero construido con formas simples (casco, mástil y vela hinchada por el viento), con balanceo visible y una ligera inclinación sobre las olas, sincronizados con el movimiento del agua que tiene debajo.
-Dos islas diferenciadas situadas en distintos puntos de la escena, cada una con una forma de terreno sencilla (una elevación, una playa y, opcionalmente, vegetación) y una sombra proyectada sobre el agua circundante.
-La embarcación debe seguir una ruta que evite realmente ambas islas (sin atravesar nunca su silueta ni cruzar el terreno), girando suavemente en lugar de cambiar de ángulo de forma brusca.
-La cámara sigue a la embarcación con un ligero retraso (seguimiento de cámara suavizado), para dar la impresión de una persecución dinámica en lugar de una vista cenital rígidamente vinculada.
-Un cielo degradado (por ejemplo, un atardecer o un cielo azul diurno, a elección del modelo) con un sol o reflejo de luz sobre el agua, coherente en dirección con las sombras de las islas.
-
-Requisitos técnicos:
-
-Un único archivo .html; se permite usar three.js desde cdnjs, pero no otros recursos ni texturas externas. Toda el agua y el terreno deben generarse mediante procedimientos en el código o el shader.
-La ruta alrededor de las islas puede ser un recorrido planificado de antemano (por ejemplo, una curva de Bézier que pase entre las islas) o un sistema de dirección sencillo que reaccione a la posición, a elección del modelo, pero no se permite ninguna colisión con el terreno.
-La animación debe ejecutarse sin problemas durante al menos 20 segundos, en bucle o de forma continua, a un mínimo de 30 fps en un portátil típico. La resolución del lienzo debe estar limitada al tamaño de la ventana y el devicePixelRatio no debe superar 1.5 para evitar sobrecargar las pantallas de alta densidad de píxeles.
-
-La evaluación se centrará principalmente en si el agua parece convincentemente un fluido en movimiento (no una textura con un desplazamiento de UV animado), si la embarcación reacciona realmente a las olas y si la ruta alrededor de las islas se percibe como una navegación intencionada, en lugar de un casi choque aleatorio.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build a single HTML file with a 3D scene showing a small sailboat moving across open water, with native steering and a course that navigates around two visible islands, similar to the comparison "boat game" demos seen in recent model tests.
-
-Functional requirements:
-
-A water surface rendered as an animated wave mesh (procedural water shader, moving waves, light reflections that shift with viewing angle, a wake trail behind the boat), not a flat, static texture.
-A sailboat model built from simple shapes (hull, mast, sail filled by the wind), with visible bobbing and slight tilting on the waves, synchronized with the motion of the water beneath it.
-Two distinct islands placed at different points in the scene, each with simple terrain shaping (a rise, a beach, optionally vegetation) and a shadow cast onto the water around it.
-The boat should follow a route that genuinely avoids both islands (never clipping through their silhouette or crossing through the land), turning smoothly rather than snapping between angles.
-The camera follows the boat with a slight lag (smoothed camera follow), giving the impression of a dynamic chase rather than a rigidly attached top down view.
-A gradient sky (e.g. sunset or daytime blue, model's choice) with a sun or light reflection on the water, directionally consistent with the shadows on the islands.
-
-Technical requirements:
-
-A single .html file, three.js from cdnjs is allowed, no other external assets or textures, all water and terrain generated procedurally in code/shader.
-The route around the islands can be a pre-planned path (e.g. a Bezier curve threading between the islands) or simple steering that reacts to position, model's choice, but no collision with land is allowed.
-The animation must run smoothly for at least 20 seconds, looping or continuous, minimum 30fps on a typical laptop, canvas resolution capped to window size with a devicePixelRatio no higher than 1.5 to avoid overloading hidpi screens.
-
-Judged primarily on whether the water looks convincingly like a fluid in motion (not a texture with animated UV offset), whether the boat genuinely reacts to the waves, and whether the route around the islands reads as intentional navigation rather than a random near miss.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101616345720787130) · [Publicación original](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — La última luz
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20 · GPT-6 Astra · Animación
-
-Remix de: [notjazii / Titanic reference](https://x.com/notjazii/status/2101007819592085586)
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/titanic-the-last-light"><img src="../assets/previews/3c31a5b7f6f105a35c837091241a0e6a71ebff7e6df20d1d8ee4e257da97e51f.webp" width="840" loading="lazy" alt="TITANIC — La última luz"></a>
-
-**Prompt**
-
-```text
-1. Objetivo del proyecto
-Crear TITANIC — THE LAST LIGHT: una travesía cinematográfica interactiva de 264 segundos, desde el último atardecer del barco hasta la colisión, la evacuación y el hundimiento, y después un memorial al amanecer. Los visitantes ven una película dirigida, exploran su mundo 3D en movimiento, saltan a un capítulo, guardan una imagen fija o descargan la película completa. Presentarlo como una interpretación artística, sin afirmar exactitud forense ni afiliación oficial.
-
-2. Dirección visual
-Usar una paleta cinematográfica contenida: luces cálidas en crema y ámbar del barco frente al azul profundo del Atlántico, seguidas de una noche oscura iluminada por las estrellas y un amanecer frío. Renderizar una escena en perspectiva con una composición cinematográfica 2.39:1, bloom suave, grano sutil y viñeta. Usar profundidad de campo en los retratos de los personajes y el amanecer, manteniendo nítidas las partículas de los cohetes de socorro. Dar al océano un color base azul profundo, oleaje en el espacio global, normales de ondulación más pequeñas con mipmapping y reflejos Fresnel; el color cálido del atardecer debe aparecer principalmente en la luz reflejada. Usar estelas en forma de cintas unidas al casco y siguiendo el mismo desplazamiento del océano, con extremos suaves y espuma discontinua. Repetir horizontalmente las texturas panorámicas sin una discontinuidad fractal para evitar costuras verticales en el cielo y vetas reflejadas. Evitar el sombreado naranja de aguas poco profundas, las ondulaciones diminutas y uniformes y las calcomanías circulares de espuma luminosa. Eliminar las caras superiores ocultas y superpuestas de los techos para evitar conflictos de profundidad; usar un plano cercano de cámara adecuado a la distancia de la toma. Durante el hundimiento, atenuar la luz de las ventanas de forma monótona en lugar de añadir parpadeos de alta frecuencia. Usar un título serif discreto, controles bilingües en inglés y chino y una línea de tiempo estrecha en la parte inferior.
-
-3. Edición del mundo, la geografía y la cámara
-Usar un único sistema de coordenadas continuo con un barco de 269 metros, la proa orientada hacia +X y un iceberg fijo en (275, 0, 57). El barco avanza, entra en contacto con el iceberg a los 96.727 segundos, sigue avanzando hasta detenerse y después se hunde por las secciones de proa y popa. Mantener el iceberg hasta el final y visible en la composición del amanecer. Conservar seis capítulos que comiencen en 0, 63, 110, 163, 211 y 241 segundos.
-
-Crear 23 planos deliberados. El abrazo en la proa abarca de los 29 a los 61 segundos: una aproximación general, un retrato doble en primer plano, una vista desde atrás hacia el mar y un retrato oblicuo. Colocar a Rose delante y a Jack detrás de ella, en el extremo delantero, ambos mirando hacia fuera sobre la proa. Mantener la iluminación del atardecer durante toda la secuencia. De los 127 a los 158 segundos, usar tres planos vinculados a la transformación real en el mundo de un bote salvavidas: salida desde la cubierta de botes, una vista más cercana de los pasajeros y las cuerdas de suspensión, y aproximación al agua. Continuar con planos generales de la evacuación, la escora, la fractura y el hundimiento. Al amanecer, mostrar los botes supervivientes con el iceberg a lo lejos y después un título de memorial sobrio.
-
-4. Inventario de recursos
-- titanic-vessel: construir en Blender la estructura principal de 269 metros, con cubiertas de paseo continuas, un castillo de proa cerrado, paseos en capas, cuatro chimeneas huecas inclinadas de color crema, casco superior negro y casco inferior rojo. Usar aros circulares reales para los 864 ojos de buey y marcos para las 360 ventanas. Restringir la emisión a los materiales de acristalamiento reales. Agrupar los materiales y dividir en x=-32 para el hundimiento. Añadir mástiles, aparejos, pescantes, cabos, hélices de bronce y timón. Generar una escalera P2 con puertas de teca y detalles de latón, normalizarla y reutilizarla dos veces en la cubierta diseñada. Conservar las transformaciones de los nodos al ensamblar el GLB.
-- atlantic-iceberg: un único iceberg irregular, erosionado y de tonos azul y blanco, con escarcha en capas, variación de rugosidad, un mapa normal discreto y una línea de flotación convincente. Debe permanecer como objeto geográfico fijo.
-- lifeboat: un bote salvavidas de remos de White Star, con casco de madera blanca, regala oscura, bancos y remos, instanciado en dieciséis botes que se mueven de forma independiente.
-- bow-embrace: un recurso aislado de dos personajes, inspirado en el vestuario y la pose de la película de 1997 solicitada: Rose, con cabello castaño rojizo, ropa azul marino y marfil y un chal estampado, con los brazos extendidos; Jack, justo detrás, con abrigo oscuro y camisa marfil. Generar imágenes de referencia limpias y de cuerpo entero antes de convertirlas con H v3.1, manteniendo coherentes la cabeza, el cuello, los hombros y la ropa de cada figura. Refinar a Rose con una referencia independiente de primer plano y un donante de detalle facial de H: registrar ojos, nariz, labios y barbilla, transferir la forma y el color locales a la malla continua de cuerpo entero, y fusionar y retocar la transición de las UV. Para Jack, generar un retrato limpio con color de piel natural y ojos y labios definidos. Conservar toda la cabeza y la parte superior del cuello, ajustar la mirada y la escala al cuerpo de H, adaptar la parte inferior del cuello y soldar ambos bucles de borde. Hornear y retocar la estrecha transición del cuello sin aplanar el detalle facial. Corregir la postura y el contacto de las manos en Blender. Inspeccionar las vistas frontal, lateral y trasera en busca de manchas oscuras, costuras de textura, agujeros, bordes recortados e intersecciones de prendas. Dar a la piel y la tela sombreadores independientes. Conservar las expresiones base naturales, con un movimiento contenido del cuerpo y la ropa; no dar a entender que existe un rig de animación facial si no se ha implementado realmente.
-- seated-woman y seated-man: modelos independientes de pasajeros adultos con ropa de 1912 y chalecos salvavidas de corcho claro, sentados con las rodillas flexionadas y las manos sobre el regazo. Compartir la geometría y los materiales entre los botes; variar ligeramente la posición y la orientación. Usar recuentos de instancias por bote que puedan revertirse durante el embarque.
-
-Usar Blender para el barco principal, Tripo P2.0 para la escalera de cubierta, el iceberg, los botes y los pasajeros sentados, y H v3.1 para las dos figuras protagonistas completas y los refinamientos de los retratos en primer plano. Mantener el océano, la mezcla del cielo, las estrellas, la iluminación, el humo, los cohetes de socorro, la espuma, las salpicaduras y los restos como efectos de escena. Proporcionar variantes web más ligeras, con texturas comprimidas, y conservar los recursos fuente detallados para la edición. Usar la misma pareja de protagonistas optimizada y aprobada para el sitio web y la exportación de la película sin conexión.
-
-5. Reproducción y respuesta visual
-Mostrar el progreso de carga real de los recursos esenciales del barco, los botes, el cielo y las normales del mar. Activar el botón de inicio cuando la primera escena esté lista; aplazar los demás modelos y la música. Si un modelo de personaje o del iceberg necesario llega tarde, detenerse en el límite de su escena y reanudar cuando esté listo, en lugar de omitir el plano silenciosamente. El audio comienza después de la interacción del usuario.
-
-La línea de tiempo debe permitir buscar hacia delante y hacia atrás y arrastrar rápidamente sin reiniciarse en cero. Conservar el estado de reproducción/pausa y silencio durante la búsqueda; no permitir que el reloj de audio antiguo sobrescriba la posición solicitada. Servir rangos de bytes para MP3 y MP4. La navegación por capítulos incluye entradas directas para el abrazo en la proa, en el segundo 29, y el descenso de los botes, en el segundo 127; estas restauran la cámara del director conservando el estado de reproducción.
-
-La exploración permite orbitar, arrastrar y hacer zoom mientras el mundo, el barco y la banda sonora continúan. Seguir la traslación del barco sin reajustar bruscamente la dirección de la vista. La pausa debe ser independiente; al volver a la película, conservar el tiempo actual. La barra espaciadora reproduce/pausa, las flechas saltan diez segundos, M activa o desactiva el sonido, E activa o desactiva la exploración y F abre la pantalla completa. Admitir la órbita y el gesto de pellizco táctiles, así como tocar la línea de tiempo.
-
-Los botes comienzan vacíos. Los pasajeros embarcan en grupos escalonados después de los 112 segundos y terminan antes de que descienda cada bote. Las cuerdas se extienden entre los pescantes móviles y los puntos de unión reales del bote, y desaparecen después de soltarse. Al buscar hacia atrás, restaurar la ocupación y el estado de las cuerdas anteriores. La colisión debe coordinar la vibración del casco y la cámara, las esquirlas de hielo, la pulverización del agua al raspar y un transitorio sonoro de contacto entre acero y hielo. Los cohetes de socorro usan estrellas blancas incandescentes, estelas individuales cortas, gravedad, resistencia y humo que se desvanece. Las perturbaciones del hundimiento son parches irregulares que siguen las olas y se desvanecen gradualmente; distribuir la pulverización a lo largo de la línea de flotación real de la popa, nunca desde una fuente puntual de partículas alejada.
-
-6. Implementación técnica y entregables
-Usar Vite, módulos de JavaScript y Three.js con animación determinista basada en el tiempo. Separar la cámara y la línea de tiempo, los recursos del barco, los personajes, el entorno, los efectos y la disponibilidad de las escenas. Compartir el mismo modelo temporal para la reproducción web, la búsqueda y la captura sin conexión. Mantener el renderizado web dentro de un presupuesto explícito de píxeles, reflejos y sombras; aplazar la oclusión ambiental más exigente al perfil sin conexión. Compilar y decodificar los recursos sin un precalentamiento inicial largo y bloqueante. Alojar scripts, modelos, imágenes, fuentes y audio en el mismo origen, y mantener los secretos fuera de la compilación estática.
-
-Usar una banda sonora original y efectos Foley de ElevenLabs de pago: una toma completa y natural de un fuego artificial silbante, dividida en su explosión aérea real entre un vuelo ascendente y un estallido seco con una cola crepitante, contacto y raspado entre acero y hielo, cuerdas de botes salvavidas y contacto con el agua, tensión y fractura del casco, y desplazamiento del agua en la popa. Exportar los archivos WAV fuente, conservar los prompts y los ID del historial, y editarlos como indicaciones temporizadas. Alinear los lanzamientos en los segundos 119, 151 y 183, con las explosiones aéreas 3.15 segundos después. Conservar el ataque original de las explosiones y bajar brevemente el volumen de la banda sonora orquestal. Mantener bajo la mezcla una atmósfera discreta de mar, viento y motores. No incluir la banda sonora de la película de referencia sin autorización, ni en el sitio web público ni en la película descargable. Documentar las fuentes reales de los recursos y los sonidos, en lugar de describir una alternativa como un recurso generado por el servicio.
-
-Proporcionar una exportación determinista de 6,336 fotogramas a 3840×2160 y 24 fps, con tres muestras temporales, títulos en inglés integrados en la imagen y una imagen en formato 2.39:1 con bandas negras. Codificar un máster 4K H.264/AAC y una edición web a 1080p de menos de 100 MiB, ambas de 264 segundos y con audio estéreo a 48 kHz. Conservar los subtítulos opcionales en chino/inglés, el máster de audio y el material fuente editable. Publicar la compilación estática mediante el alojamiento Web Pages del CMS existente, sin añadir una aplicación de plataforma ni un Worker por página.
-
-7. Criterios de aceptación
-Inspeccionar la apertura, los dos retratos de personajes, la colisión, los cohetes de socorro, los tres planos de descenso de los botes, la fractura, la desaparición de la popa y el amanecer. Comprobar que el iceberg no desaparezca en el segundo 244, que el mar se perciba azul profundo, que el hundimiento no tenga anillos blancos regulares, que los personajes sigan presentes en los planos definidos y que las cuerdas y los pasajeros de los botes permanezcan alineados durante todo el descenso. Probar la carga diferida de modelos, la búsqueda hacia delante y hacia atrás, el desplazamiento rápido, la pausa y el silencio, la exploración dinámica, las entradas directas a primeros planos y la emulación táctil. Verificar cada fotograma exportado, decodificar completamente ambas películas, comparar la descarga real del navegador con el archivo entregado y verificar la compilación pública y su asociación con el CMS. Distinguir la emulación móvil del navegador de las pruebas realizadas en un teléfono físico.
-
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/titanic-the-last-light) · [Demo en línea](https://titanic-the-last-light.tripo.page/) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101325346427842909"></a>
-
-### Modelo 3D de un Jaguar I-Pace de Waymo
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/9a1f4ddfbd700e1f0a801a5f774a4fbf96c0ad7e98f8d9f9603f83cbb0b50dfc.webp" width="840" loading="lazy" alt="Modelo 3D de un Jaguar I-Pace de Waymo"></a>
-
-**Prompt**
-
-```text
-modelo 3D de un Jaguar I-Pace de Waymo usando Three.js
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-3d model of Waymo Jaguar i-Pace using three js
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101325346427842909) · [Publicación original](https://x.com/HarshithLucky3/status/2101325346427842909) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101310374033428642"></a>
-
-### Flujo de trabajo de animación 3D y vídeo de un gato experto en artes marciales
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/b4e5c19965da011929b1777975e9c6c8a82a23c2a55340683d900de8a4103856.webp" width="840" loading="lazy" alt="Flujo de trabajo de animación 3D y vídeo de un gato experto en artes marciales"></a>
-
-**Prompt**
-
-```text
-Toma única cinematográfica fotorrealista, 10 segundos, 16:9, 24 fps, cámara fija, sin cortes.
-Un gato atigrado naranja y blanco (hocico, pecho y patas blancos; rayas atigradas naranjas con una «M» en la frente) está sentado erguido, justo en el centro, mirando al objetivo con una postura rígida de artes marciales: mirada plana, estoica e impasible, ojos entrecerrados, boca cerrada y cabeza completamente inmóvil. Lleva una cinta hachimaki negra atada baja sobre las cejas, con el nudo en la parte posterior y las orejas sobresaliendo por encima de la cinta.
-Escenario: patio de un templo japonés tradicional — pilares, aleros y barandillas de madera cálida — fundido en un bokeh cremoso de hora dorada. Objetivo de 85 mm, f/1.8, profundidad de campo extremadamente reducida y enfoque bloqueado en los ojos del gato. Gradación cálida de 3500 K, luz principal suave desde la parte frontal derecha, sombras ligeramente rellenadas y grano fino de película.
-ACCIÓN: un brazo humano desnudo entra desde el lado izquierdo del encuadre, con la palma abierta lanzándose rápidamente hacia la cara del gato y un fuerte desenfoque de movimiento; el gato levanta tranquilamente la pata delantera derecha y desvía el ataque, intercepta la palma y anula el impulso del golpe: bloquea, no da una palmada. El brazo barre horizontalmente la cara del gato entre una estela borrosa; después, una segunda mano baja en un golpe cortante desde la derecha. El gato desvía cada ataque con un bloqueo corto y mínimo de la pata, manteniendo el cuerpo y la cabeza completamente inmóviles, sin apartar los ojos del objetivo. Las manos son las agresoras; el gato se limita a reaccionar, imperturbable. Las manos amagan entrando y saliendo por ambos lados; el gato adopta una guardia de boxeo con las dos patas a la altura del pecho, las patas curvadas y los codos pegados al cuerpo, y la mantiene mientras espera. Lanza rápidamente contraataques individuales con una pata borrosa, al estilo kung-fu, interceptando las manos que se aproximan en el aire, con la cabeza aún fija hacia delante. Finalmente, dirige la pata derecha directamente hacia el objetivo, con la almohadilla rosada mirando a cámara, hasta que la pata llena el encuadre como una forma suave desenfocada en primer plano; el rostro permanece perfectamente nítido detrás, con la mirada fría intacta.
-Movimiento: velocidad natural y desenfoque de movimiento real en las manos que vuelan y los bloqueos rápidos de las patas. Movimiento defensivo, mínimo y económico del gato: apenas se mueve; las manos hacen todo el trabajo y fracasan. Sin movimiento de cámara, sin zoom y sin texto.
-NEGATIVO: extremidades adicionales, patas fusionadas o mutadas, dedos adicionales, rostro deformado, cinta de la cabeza fusionada con el pelaje, piel de plástico, color sobresaturado, texto, subtítulos, logotipo, marca de agua, cortes, trepidación de cámara, lenguaje corporal juguetón o celebratorio, gesto de chocar las patas.
-VERSIÓN CORTA:
-Gato atigrado naranja y blanco con una cinta hachimaki negra, sentado en el patio iluminado por el sol de un templo japonés, mirando a cámara con expresión impasible; objetivo de 85 mm, f/1.8, profundidad de campo reducida, hora dorada y grano de película. Manos humanas lanzan golpes cortantes y estocadas rápidas hacia su cara desde ambos lados, con desenfoque de movimiento; el gato desvía tranquilamente cada golpe con un bloqueo mínimo de la pata, sin mover nunca la cabeza. Adopta una guardia de kung-fu con las dos patas, lanza contraataques rápidos y borrosos y después dirige la pata hacia el objetivo hasta que la almohadilla llena el encuadre. Toma única con cámara fija, 10 s, 16:9, 24 fps, fotorrealista, sin texto.
-Nota breve del fotograma: las manos entran principalmente desde la izquierda (golpe cortante descendente + barrido horizontal); el contacto ocurre en la muñeca o la palma, no de pata contra pata. La guardia con las dos patas aparece aproximadamente entre 4,0 y 5,6 s; el contraataque borroso, entre 5,6 y 8 s; y el remate de la pata hacia el objetivo, entre 8 y 10 s. tu trabajo es crear el 3D combinado con Blender MCP, producir una salida de 10 s a 24 fps y renderizarla como una escena superrealista con PixVerse CLI usando Seedance 2.5 como modelo de generación de vídeo
-PASOS DEL AGENTE: Comprueba Blender MCP, la autenticación de PixVerse CLI, las capacidades de los modelos y los créditos disponibles. Comunica los costes estimados y obtén aprobación para gastar antes de realizar una generación de pago. Convierte el prompt en una hoja de tiempos por momentos, construye mallas y animación 3D ligeras mediante el Blender MCP oficial, renderiza un MP4 de referencia de movimiento e inspecciona el encuadre, el movimiento, los contactos, la duración y la velocidad de fotogramas. Genera e inspecciona una imagen de referencia de apariencia independiente antes de enviar el vídeo. Usa la imagen para guiar la identidad, el estilo y la iluminación, y el vídeo de Blender para guiar el movimiento y los tiempos. Después de la generación, descarga el resultado, verifica las especificaciones técnicas, inspecciona fotogramas clave, informa honestamente de las desviaciones y calcula el uso real de créditos. Conserva los originales; nunca cambies de modelo ni vuelvas a generar contenido sin indicarlo.
-LLAMADA A PIXVERSE: Usa pixverse create image con gpt-image-2.0 para crear la referencia de apariencia en la relación de aspecto confirmada, a 1080p y con gran nivel de detalle. Después, usa pixverse create reference con el modelo de vídeo confirmado, pasando ambos --images and --videos to para combinar la imagen de apariencia con la referencia de movimiento de Blender. Para Seedance 2.5, usa --model seedance-2.5 --task-type auto, la duración y la relación de aspecto confirmadas, y --quality 1080p --count 1.. Verifica las capacidades actuales antes del envío, usa claves de idempotencia únicas y supervisa la finalización mediante pixverse task status / pixverse task wait.
-SALIDA FINAL: Devuelve el vídeo terminado con la relación de aspecto y la duración confirmadas, con un objetivo de 1080p y 24 fps, además de la imagen de referencia de apariencia, el proyecto de Blender .blend y el MP4 de referencia de movimiento. Proporciona rutas locales absolutas o URL descargables. Mantén este formato en el informe final: Vídeo, Imagen de referencia, Malla + animación de Blender, Comprobación, Aspecto y Créditos utilizados. Indica la resolución real, la velocidad de fotogramas, el número de fotogramas, la duración, las desviaciones visuales, el coste de créditos de imagen y vídeo, el gasto total, el saldo restante y si se realizó alguna regeneración.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-SHORT VERSION:
-Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
-Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
-AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
-PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
-FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101310374033428642) · [Publicación original](https://x.com/PixVerse/status/2101310387081908606) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101271938706685991"></a>
-
-### Visualización interactiva en 3D de un motor de aeronave
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/ab861425bbbe93cb886651a97e2e3b2d2c7ae1be8684904fc0b3c42bd9b0c37a.webp" width="840" loading="lazy" alt="Visualización interactiva en 3D de un motor de aeronave"></a>
-
-**Prompt**
-
-```text
-Usa three.js para crear en una página web una visualización interactiva en 3D de un motor de aeronave. 
-Consulta la filosofía de diseño de interacción de Jigspace para lograr un modelo realista con una restauración de alta fidelidad casi 1:1, conservando por completo los detalles de los materiales y las texturas, como el metal, las tuberías y las palas. Las funciones interactivas deben incluir: una animación de desmontaje paso a paso, una vista explosionada de los componentes y descripciones de las piezas y explicaciones de su funcionamiento activadas al hacer clic o pasar el cursor. 
-En general, debe admitir un control fluido de la cámara y una interacción persona-ordenador intuitiva, para garantizar una experiencia web fluida que muestre por completo la estructura y los principios de funcionamiento del motor.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101271938706685991) · [Publicación original](https://x.com/YouWareAI/status/2101272224435253432) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101224659861590399"></a>
-
-### Entorno 3D fotorrealista completo
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Entorno 3D fotorrealista completo"></a>
-
-**Prompt**
-
-```text
-Crea un entorno 3D fotorrealista completo. Sorpréndeme.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build a complete photorealistic 3D environment. Surprise me.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101224659861590399) · [Publicación original](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101055500599054437"></a>
-
-### Galaxia basada en física orbital real
-
-[Argona](https://x.com/Argona0x) · 2026-09-18 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp" width="840" loading="lazy" alt="Galaxia basada en física orbital real"></a>
-
-**Prompt**
-
-```text
-una galaxia basada en física orbital real, 320.000 estrellas, un vuelo a través de ella, 30 segundos
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2101055500599054437) · [Publicación original](https://x.com/Argona0x/status/2101055500599054437) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="monster-block"></a>
-
-### Monster Block — 45 segundos para destrozar la ciudad
-
-[Tony](https://x.com/abc30037274) · 2026-09-18 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/monster-block"><img src="../assets/previews/8c0a2832f40569463c7b23d6b5228538ce90881c8b01876795d818b89d197a5d.webp" width="840" loading="lazy" alt="Monster Block — 45 segundos para destrozar la ciudad"></a>
-
-**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/ab5439fe-bc9f-4cde-8713-20e1b0caf7a6.png) · [2](https://media.tripogrowth.space/media/94648b5c-c804-46bd-a2b1-c684b25bd848.png) · [3](https://media.tripogrowth.space/media/4405e75a-c387-44cb-b63c-d8503454b422.png)
-
-**Prompt**
-
-```text
-# Monster Block — especificación de reconstrucción
-
-## 1. Objetivo del proyecto
-
-Crea un juego de navegador jugable llamado Monster Block. Permite que el jugador elija un monstruo de juguete, entre en una ciudad en miniatura y destruya tantos edificios como sea posible en 45 segundos. Moverse, golpear edificios con las garras, lanzar coches y encadenar demoliciones debe producir una respuesta inmediata. Termina con una puntuación, un título, una acción para volver a intentarlo y un enlace de desafío que permita a un amigo jugar en el mismo bloque. Ofrece interfaces en inglés y chino simplificado, además de controles de teclado y táctiles.
-
-## 2. Estilo visual
-
-Crea un diorama cálido de sobremesa sobre una plataforma cuadrada gruesa, con un fondo color crema. Usa edificios pastel de poco detalle, ventanas pequeñas de color verde azulado oscuro, cornisas de tejado claras, carreteras anchas en tonos verde grisáceo apagado, pasos de cebra, árboles redondeados, coches diminutos y sombras suaves y cálidas. La paleta de los edificios incluye terracota, mostaza, verde azulado empolvado, rosa, azul grisáceo, crema y verde salvia. Los materiales deben parecer juguetes pintados en mate, no metal brillante.
-
-Usa una cámara en perspectiva elevada de tres cuartos, no una cámara cenital plana. La cámara de referencia parte de (35, 37, 41), mira hacia (0, 0.4, 0) y utiliza un campo de visión de 38 grados en pantallas anchas, 44 grados en pantallas intermedias y 51 grados en pantallas estrechas. Durante la partida, sigue al monstruo con suavidad y mantén visibles los objetivos cercanos. Ilumina la escena con una luz hemisférica cálida, una luz direccional suave que proyecte sombras y una luz de relleno fría.
-
-Usa una tipografía de display condensada y en negrita para los encabezados grandes en inglés, y una sans serif legible para las instrucciones. Combina texto verde oscuro, superficies color crema, acciones de juego naranjas y acciones de creación de Tripo amarillas. En la página de inicio, da la misma importancia a Jugar y Crear con Tripo. En el diálogo de pausa, coloca una tarjeta de Tripo verde oscuro con tres miniaturas de personajes y un botón de creación amarillo encima del botón Reanudar con contorno. Mantén el texto de ayuda cómodamente legible en teléfonos.
-
-Usa efectos breves activados por las acciones: barridos de garras, retroceso momentáneo de los edificios, impactos diferenciados para golpes y demoliciones, anillos de pisotón expansivos, pequeñas ráfagas de escombros, avisos emergentes de puntuación, cambios de combo y un leve desplazamiento direccional de la cámara. Eleva el coche agarrado hasta la mano en unos 220 ms. Respeta las preferencias de movimiento reducido eliminando las sacudidas, las ráfagas de escombros y el escalado de la interfaz, pero conserva las puntuaciones, las indicaciones de objetivos y los resultados de destrucción.
-
-## 3. Mundo y escena
-
-Coloca 16 edificios destruibles en una cuadrícula de 4 × 4. Usa una separación entre bloques de 10.4, con los centros de los bloques en -1.5, -0.5, 0.5 y 1.5 veces esa separación, y cinco avenidas a lo largo de cada eje. La plataforma mide 52.6 unidades de ancho. Los edificios tienen entre dos y cinco plantas, plantas de distintas formas, detalles en los tejados, toldos ocasionales y pequeños letreros de HOTEL o NOODS. Genera la distribución de forma determinista a partir de una semilla.
-
-Coloca 12 coches en las carreteras y un coche amarillo garantizado que se pueda lanzar cerca de la posición inicial de juego. Incluye árboles alrededor de las parcelas de edificios y los bordes de la plataforma, cuatro farolas en las esquinas, marcas de carril y un cruce central. Sitúa al monstruo al inicio en una avenida despejada, en (0, 0.2, 10.4); usa una posición de reposo en primer plano en z=20.8 para la página de inicio.
-
-El mismo parámetro de bloque debe reproducir la misma distribución de edificios. Si falta, deriva la semilla del bloque a partir de la fecha UTC. Un parámetro beat proporciona la puntuación objetivo de un amigo. Conserva el bloque seleccionado al volver a intentarlo. Los escombros aleatorios no tienen que ser deterministas.
-
-## 4. Inventario de recursos
-
-Mantén identificadores de recursos estables y separa los modelos visuales de los proxies de colisión del juego.
-
-- munch: Munch / 阿猛, el dinosaurio verde predeterminado. Conserva el hocico redondeado original, el vientre y los cuernos color crema, las púas naranjas del lomo, los brazos cortos, los pies grandes y la cola larga. Carga /assets/monster-animated.glb y normaliza su altura a 5.6 unidades. Conserva /assets/monster.glb como alternativa estática.
-- bongo: Bongo / 橘拳, un gorila de juguete naranja, de cuerpo ancho y con puños enormes. Carga /assets/bongo-animated.glb y normaliza su altura a 4.5 unidades.
-- bolt: Bolt / 蓝电, un robot de juguete azul con extremidades robustas y una silueta simpática. Carga /assets/bolt-animated.glb y normaliza su altura a 4.9 unidades.
-- Cada personaje tiene un PNG de vista previa correspondiente y clips de reposo, carrera y ataque con garras. Conserva los tres personajes seleccionables reales; al cambiar de personaje deben actualizarse tanto la vista previa como el modelo que se usará en la siguiente ronda.
-- city_building: grupos de edificios procedurales reutilizables, con salud, límites del colisionador, retroceso al recibir impactos y estado de demolición registrados por separado. Las cornisas de los tejados, las bases y los toldos forman parte del volumen de colisión.
-- city_car: coches procedurales reutilizables que se pueden lanzar. Mantén separados los estados agarrado, en el aire y destruido. Tres coches llevan la marca Tripo amarilla.
-- city_decor: árboles, farolas, aceras, letreros y pintura vial procedurales. Mantén estos elementos ligeros y reutiliza la geometría y los materiales.
-- tripo_scenery: una escultura del logotipo en un tejado, dos letreros de tejado, un escaparate de taller y tres coches con marca. Constrúyelos a partir del logotipo de Tripo proporcionado y de mallas procedurales. Son decoraciones de la escena, no modelos adicionales generados mediante API ni potenciadores del juego.
-
-Los tres modelos de personajes son los recursos prioritarios de Tripo. Reutiliza los GLB generados y riggeados proporcionados cuando estén disponibles. Para crear un personaje nuevo, genera un modelo de estilo juguete que encaje, comprueba que sea adecuado para el rigging, vincúlalo, crea animaciones de reposo, carrera y ataque con garras, y valida sus proporciones antes de añadirlo al elenco. No llames a las API de generación cuando el jugador inicie una ronda. Las cargas de personajes y la importación automática de creaciones propias del jugador quedan fuera de esta versión.
-
-## 5. Jugabilidad y respuesta
-
-Admite las teclas WASD o las flechas para moverse, la barra espaciadora mantenida para repetir ataques con garras, E para agarrar un coche cercano y E de nuevo para lanzarlo, R para pisotear y Escape para pausar. Proporciona un joystick virtual y botones independientes de ataque, agarrar/lanzar y pisotón en pantallas táctiles. Borra las entradas mantenidas al pausar o perder el foco.
-
-Usa estas reglas:
-
-- Una ronda dura 45 segundos. La salud de cada edificio es igual al número de plantas más uno, lo que da entre 3 y 6 puntos de salud.
-- Un golpe de garra inflige 1 punto de daño, con un intervalo de ataque de 0.42 segundos.
-- Un pisotón inflige 3 puntos de daño a cada edificio que esté dentro del alcance y tiene un tiempo de reutilización de 7 segundos.
-- Un coche lanzado inflige 4 puntos de daño a los edificios de su zona de impacto y otorga 75 puntos base por el impacto del lanzamiento.
-- Golpear un edificio otorga 20 veces el multiplicador actual. Una demolición añade round(180 + altura del edificio × 50) multiplicado por el multiplicador, después de incrementar el combo de demoliciones.
-- Demoler otro edificio en un plazo de 3.5 segundos mantiene el combo. Los golpes normales no amplían este intervalo. El multiplicador es min(5, 1 + floor(combo / 2)).
-- Destruir los 16 edificios termina la ronda y otorga ceil(segundos restantes) × 100. De lo contrario, la ronda termina cuando el tiempo llega a cero y se impide seguir sumando puntos.
-
-No hay enemigos, combates contra jefes, salud del jugador ni penalizaciones por muerte. El desafío consiste en elegir las rutas, usar coches y pisotones con eficacia y mantener un combo de demoliciones. Muestra el tiempo restante, la puntuación, los edificios destruidos, el multiplicador y el tiempo de reutilización del pisotón. Haz comprensibles las acciones no disponibles sin bloquear el movimiento. Distingue un golpe al aire de un impacto acertado mediante respuestas sonoras y visuales.
-
-Resuelve el movimiento y la rotación contra la huella animada muestreada de cada personaje, incluidos los brazos y la cola. Comprueba las colisiones con los límites completos de los edificios, dejando una pequeña holgura. El monstruo debe poder atacar desde una posición legal de pie. Permite atravesar una parcela después de demoler su edificio. Evita atrapar al jugador en las esquinas o hacer que un giro barra la cola a través de un edificio intacto.
-
-Pausa el temporizador y las entradas al pulsar Escape o el botón de pausa, cuando la ventana pierda el foco y cuando las pestañas estén ocultas. Proporciona flujos de Reanudar, Volver a intentar e Inicio. Termina mostrando la puntuación, el número de demoliciones, el mejor combo, un título divertido y un enlace de desafío en el mismo mapa. Ofrece una tarjeta de puntuación descargable de 1080 × 1350 y, cuando MediaRecorder sea compatible, una grabación de la ronda en un formato MP4 o WebM compatible. Usa el uso compartido nativo cuando esté disponible y un recurso alternativo basado en el portapapeles para los enlaces de desafío. No presentes nunca una puntuación calculada por el navegador como una clasificación competitiva segura.
-
-## 6. Implementación técnica
-
-Usa Three.js, TypeScript y Vite con una compilación estática de dist. Mantén la generación del mundo, las reglas, las colisiones, los personajes, el renderizado, el audio, la grabación, la analítica y la interfaz en módulos separados. Incluye localmente las fuentes y los recursos de decodificación necesarios. Usa instanciación para las ventanas y las marcas viales repetidas, y reutiliza materiales y geometría. Limita la proporción de píxeles de renderizado a 1.65. Limita los efectos temporales y libera sus recursos al completarse o reiniciarse.
-
-Usa GLTFLoader, mezcladores de animación esquelética y los clips GLB proporcionados. Normaliza cada modelo alrededor de un pivote de suelo centrado. Las exportaciones de referencia miran hacia +X; gira el pivote visual -90 grados alrededor de Y para alinearlo con la dirección de avance +Z del juego. Evalúa la animación de reposo antes de mostrar el modelo cargado y mantén los pies animados cerca del suelo. Usa una alternativa procedural visible si falla la carga y comunica el fallo con honestidad. Protege la selección asíncrona de personajes para que una carga anterior no pueda reemplazar la selección más reciente.
-
-Mantén los datos de colisión de los personajes independientes de las mallas de renderizado y vuelve a hornear las huellas muestreadas al cambiar de personaje o de animaciones. Prueba tanto la traslación como la rotación cerca de las paredes. Conserva entradas estables de teclado y táctiles, diálogos adaptables, textos localizados, comportamiento del foco, controles de audio silenciado, movimiento reducido y recuperación de WebGL.
-
-Vincula las acciones de creación de Tripo a https://www.tripo3d.ai/ con utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game y un utm_content específico según la ubicación: header_logo, hero_create, pause_create, result_create o footer_logo. Abre estas acciones en una pestaña independiente y pausa primero la partida activa. Explica que Tripo crea recursos 3D; no prometas la importación automática en este juego.
-
-Conserva la integración existente de eventos de Pageview y PostHog cuando la política del sitio anfitrión lo permita. Usa únicamente configuración pública de ingesta en el navegador dentro de la compilación estática. Mantén las credenciales de generación, CMS, despliegue y analítica personal fuera del código fuente y de los artefactos de compilación. Registra la entrada a la página, la selección de personaje, el inicio de la partida, las primeras acciones, los resultados de la ronda, los reintentos, el uso compartido o la exportación y los clics salientes a Tripo, sin tratar los clics como registros o pagos verificados.
-
-## 7. Criterios de finalización
-
-Entrega el código fuente ejecutable, los recursos locales, una compilación estática de producción y unas instrucciones claras de instalación, inicio y compilación. Verifica las tres selecciones de personaje, una ronda completa con límite de tiempo, la destrucción de edificios, agarrar y lanzar, el tiempo de reutilización del pisotón, la caducidad del combo, pausar/reanudar, volver a intentarlo y la puntuación al final de la ronda. Comprueba que el dinosaurio original siga siendo seleccionable y que los tres personajes puedan moverse y girar cerca de los edificios sin atravesarlos visiblemente ni quedarse atascados.
-
-Comprueba las interfaces en inglés y chino en anchos de escritorio y de móvil estrecho, incluido el texto de ayuda legible, los controles táctiles, las acciones de pausa y el uso compartido de resultados. Verifica los destinos de las llamadas a la acción de Tripo y los valores UTM según su ubicación, la exportación de la tarjeta de puntuación y el comportamiento alternativo de la grabación. Prueba la página desplegada y su entorno real de iframe del CMS para comprobar la carga de modelos, las entradas, los enlaces externos y las descargas. Informa de las limitaciones del navegador o del dispositivo en lugar de afirmar una compatibilidad universal o una velocidad de fotogramas estable medida sin pruebas.
-
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/monster-block) · [Publicación original](https://x.com/abc30037274/status/2100636075039629796) · [Demo en línea](https://monster-block.tripo.page/) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

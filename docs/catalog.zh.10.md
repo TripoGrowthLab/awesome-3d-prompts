@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>浏览案例 (26)</summary>
+<summary>浏览案例 (38)</summary>
 
+- [围绕电脑工作站的 3D 房间提示词，用于单文件 Three.js 构建](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Claude Opus 5 的非欧几里得门传送门提示](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [用于 Three.js 游戏构建的简单 FPS 提示词](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [用于 Claude Opus 5 的 CS2 与 Battlefield 风格第一人称射击游戏提示词](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Claude Opus 5 AAA 射击游戏提示词](#aaa-shooter-game-2082180453889712318)
+- [在单个 HTML 文件中制作可玩的黑暗奇幻横版卷轴游戏](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
+- [Claude Opus 5 开发 3D MMO 的工作流程](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [制作一个可玩的 Chrome 恐龙游戏](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [用于逼真直升机射击游戏的 Kimi K3 提示词](#realistic-helicopter-shooter-game-2081791572115435765)
+- [用于 Subway Surfers 风格游戏的 Kimi K3 提示词](#subway-surfers-style-game-2081766198082220514)
+- [用于受 Counter-Strike 启发的 Three.js FPS 的 Claude Opus 5 提示词](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [Claude Fable 5 的无限 Three.js 纸带机提示词](#infinite-three-js-paper-machine-2081533777340506251)
 - [Claude Opus 5 的交互式 3D 机械手模拟提示词](#interactive-3d-robotic-hand-simulation-2081475055536820506)
 - [为 3D 配置器添加 Vespa 125 的提示词](#vespa-125-3d-configurator-2081439705506435440)
 - [超写实 3D 飞行模拟器提示词](#ultra-realistic-3d-flight-simulator-2081403842256605254)
@@ -56,6 +68,309 @@
 - [Three.js 飞机内部漫游体验提示词](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### 围绕电脑工作站的 3D 房间提示词，用于单文件 Three.js 构建
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="围绕电脑工作站的 3D 房间提示词，用于单文件 Three.js 构建"></a>
+
+**提示词**
+
+```text
+构建一个围绕电脑工作站的可探索 3D 房间，单个自包含 HTML 文件，使用通过 importmap 引入的 Three.js，仅用程序化几何，不要网格，不要图像纹理，不指定布局或风格。“你是设计师。给我惊喜”
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [查看原帖](https://x.com/thehypedotnews/status/2082451081733591520) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Claude Opus 5 的非欧几里得门传送门提示
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Claude Opus 5 的非欧几里得门传送门提示"></a>
+
+**提示词**
+
+```text
+"一扇孤零零地立在虚空中的门，周围什么都没有，身后也什么都没有，它打开后通向关卡中别处的一间教室。直接走过去——不要切换、淡出、加载界面，或者任何会让人感觉在传送的东西。它必须能从两侧、从各个角度正常工作。"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [查看原帖](https://x.com/ombrageplays/status/2082436347113951333) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### 用于 Three.js 游戏构建的简单 FPS 提示词
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="用于 Three.js 游戏构建的简单 FPS 提示词"></a>
+
+**提示词**
+
+```text
+帮我做一个 FPS
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [查看原帖](https://x.com/codewithantonio/status/2082242351372599770) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### 用于 Claude Opus 5 的 CS2 与 Battlefield 风格第一人称射击游戏提示词
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="用于 Claude Opus 5 的 CS2 与 Battlefield 风格第一人称射击游戏提示词"></a>
+
+**提示词**
+
+```text
+尝试制作一款结合 CS2 和 Battlefield 的第一人称射击游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [查看原帖](https://x.com/AnatoliKopadze/status/2082241827298557966) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Claude Opus 5 AAA 射击游戏提示词
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Claude Opus 5 AAA 射击游戏提示词"></a>
+
+**提示词**
+
+```text
+最近，Claude Opus 5 创建的《使命召唤》游戏开始在网上走红，作者声称只用了一个提示就实现了。很多人对此持怀疑态度，而作者已经直接开源了代码和提示。
+
+我原本以为这个提示会非常复杂，但结果只有短短几百个字。关键在于其中的循环。
+
+以下是提示：
+
+"我希望你开发一款能达到最新《使命召唤》水平的第一人称射击游戏。它必须完美无缺，拥有令人惊叹的美丽画面，从纹理到物理效果——你能想到的所有元素都必须达到 AAA 级质量。
+
+你需要创建多个子代理，让每个子代理分别处理每一个细节，以确保游戏达到完美。你应该对每个项目使用 /loop，并让一个独立子代理进行视觉检查，以确保其达到 AAA 级标准。这个独立子代理必须非常严格；如果没有达到 AAA 级标准，它就应该继续检查。
+
+在每个子代理与《使命召唤》游戏对比后，都不要停止，直到它们都对游戏画面质量惊叹不已。即使不看画面，它也应该能够将两款游戏并排比较，并指出哪一款更好。使用 ThreeJS 完成这项工作。/loop 直到游戏达到完美。创建多个子代理，并使用 UltraCode 进行优化。"
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/aaa-shooter-game-2082180453889712318) · [查看原帖](https://x.com/ziqinyuan/status/2082180453889712318) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### 在单个 HTML 文件中制作可玩的黑暗奇幻横版卷轴游戏
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="在单个 HTML 文件中制作可玩的黑暗奇幻横版卷轴游戏"></a>
+
+**提示词**
+
+```text
+在一个 HTML 文件中，创建一个可玩的黑暗奇幻横版卷轴游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [查看原帖](https://x.com/slash1sol/status/2082096376763060575) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### Claude Opus 5 开发 3D MMO 的工作流程
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Claude Opus 5 开发 3D MMO 的工作流程"></a>
+
+**提示词**
+
+```text
+几乎所有代码都是用 Claude Opus 5 写的。
+
+但我想说，让它能持续推进、迭代上千轮的，不是提示词有多厉害。
+而是把家里整理好，让 AI 能找到东西，而不用读完整个项目。
+
+1. 手册放在代码旁边，不是堆在一处
+   每个文件夹都有自己的手册文件（常用工作方式 + 遇到过的坑）
+   然后在该文件夹里开启会话时它会自动加载
+   碰到怪物相关的工作就不需要为地图手册付费
+   每次开始工作前都要读取的上下文，从大约 ~76,000 token 降到 ~10,000
+
+2. 用工具强制规则，不靠纪律
+   我让它写脚本：如果遇到循环导入回到原处，构建就会失败
+   使用时直接写颜色数字，而不是只在一处给它命名
+   不要指望 AI 记住规则。让它在提交时出错要好得多。
+
+3. 让 TypeScript 来提醒
+   新增技能但还没做特效 = 编译不过
+   新增怪物但还没做模型 = 编译不过
+   不会忘，因为它不允许你忘。
+
+4. 把内容做成表格
+   加怪物、加技能、加物品 = 只加一行，不用去改系统
+   AI 处理“加一行”要比“去改五个必须保持一致的地方”准确得多
+
+5. 有效的提示词是告诉它判定标准，不是告诉它步骤
+   例如“普通怪必须在 2 到 5 秒内死亡”
+   “每张地图至少要能走到 97% 的区域”
+   “游戏里的物品没有任何一件掉率低于 3%”
+   然后把这些写成测试
+   当你告诉它什么是好的，它就会自己找路，而且它自己也知道是否已经完成。
+
+简短总结：先在结构和测试上投入，再把精力放到提示词上。
+
+如果有问题，或者想让我展开某个部分，欢迎留言。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [查看原帖](https://x.com/vibecodingth/status/2082035844836450334) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### 制作一个可玩的 Chrome 恐龙游戏
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="制作一个可玩的 Chrome 恐龙游戏"></a>
+
+**提示词**
+
+```text
+制作一个可玩的 Chrome 恐龙跑酷游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [查看原帖](https://x.com/unseenmars_/status/2081867025140650236) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### 用于逼真直升机射击游戏的 Kimi K3 提示词
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="用于逼真直升机射击游戏的 Kimi K3 提示词"></a>
+
+**提示词**
+
+```text
+帮我制作一个逼真的直升机射击游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [查看原帖](https://x.com/Abobsterina/status/2081791572115435765) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### 用于 Subway Surfers 风格游戏的 Kimi K3 提示词
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="用于 Subway Surfers 风格游戏的 Kimi K3 提示词"></a>
+
+**提示词**
+
+```text
+制作一个 Subway Surfers 游戏
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/subway-surfers-style-game-2081766198082220514) · [查看原帖](https://x.com/Arindam_1729/status/2081766198082220514) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### 用于受 Counter-Strike 启发的 Three.js FPS 的 Claude Opus 5 提示词
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="用于受 Counter-Strike 启发的 Three.js FPS 的 Claude Opus 5 提示词"></a>
+
+**提示词**
+
+```text
+一款受 Counter-Strike 启发、设定在火车站中的战术 FPS。three.js，单个 HTML 文件，全部原创素材。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [查看原帖](https://x.com/BuildFastWithAI/status/2081607528790856068) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### Claude Fable 5 的无限 Three.js 纸带机提示词
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Claude Fable 5 的无限 Three.js 纸带机提示词"></a>
+
+**提示词**
+
+```text
+用单个提示词构建一个无限的 Three.js 纸带机。将静态的 Pinterest 概念转换为一个可运行的 3D Web 应用。应用应渲染一条无限滚动的纸带，并在其表面实时持续打印动态图片。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [查看原帖](https://x.com/RoundtableSpace/status/2081533777340506251) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
 
 ### Claude Opus 5 的交互式 3D 机械手模拟提示词
@@ -640,4 +955,4 @@ The Hype 将 Claude Opus 5、Fable 5、GPT-5.6 Sol 和 Kimi K3 在完全相同�
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.9.md) · **10 / 10**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 476 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 488 条案例与在线演示 →</a></strong></p>

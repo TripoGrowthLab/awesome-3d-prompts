@@ -28,6 +28,18 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Keşfedilebilir Tac Mahal](#explorable-taj-mahal-2096035962824335798)
+- [Konuşma etkinliklerini gösteren küreli kişisel 3B portföy](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
+- [Gogh Strike çok oyunculu FPS](#gogh-strike-multiplayer-fps-2096013280519016608)
+- [Referanslardan TP-7 kayıt cihazı modeli](#tp-7-recorder-reference-model-2096013228090245181)
+- [Tesla Model X patlatılmış görünümü](#tesla-model-x-exploded-view-2096009146248122416)
+- [Esnek WebGPU jölesi](#bouncy-webgpu-jelly-2096008241104711698)
+- [Roblox'ta anime arena dövüşü](#anime-arena-fighter-in-roblox-2095999578419929412)
+- [Eş zamanlı kat planı ve 3D gezinti](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
+- [Tarayıcıda etkileşimli nehir sahnesi](#interactive-browser-river-scene-2095993826569502785)
+- [Katedralde yakın dövüş arenası](#cathedral-hack-and-slash-arena-2095988972879335792)
+- [Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun](#gpt-6-astra-2095987508475834641)
+- [Etkileşimli Titan bilim sergisi](#interactive-titan-science-exhibit-2095986941753712841)
 - [3B sapanlı kuş oyunu](#3d-slingshot-bird-game-2095981655370666076)
 - [Rube Goldberg zincirleme tepki makinesi](#rube-goldberg-chain-reaction-machine-2095980885732704629)
 - [Gündüz–Gece Anahtarlı Yüzen Çin Tapınağı](#gpt-6-astra-2095978925029556561)
@@ -66,20 +78,255 @@
 - [Blender'da Güzel Sanatlar Sarayı'nın yeniden yapımı](#palace-of-fine-arts-blender-recreation-2095653641164329143)
 - [Modelleri karşılaştırmak için tek istemli akvaryum](#single-aquarium-benchmark-2095650251902239139)
 - [Birinci ve üçüncü şahıs kameralı RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
-- [Tek istemle gerçek zamanlı oynanabilir 3B oyun](#single-playable-real-time-3d-game-2095647685210669541)
-- [Yazdırılabilir USS Enterprise CAD montajı](#printable-uss-enterprise-cad-assembly-2095641163441254676)
-- [Blender'da modern villa sahnesi](#modern-villa-scene-in-blender-2095636679264780481)
-- [Cycles için prosedürel Oval Ofis dekoru](#procedural-oval-office-set-for-cycles-2095630197257367857)
-- [Unity'de uzay hendeği uçuş oyunu](#unity-space-trench-run-game-2095630044102279312)
-- [Mimari çizimden Blender ve Unreal görselleştirmesine](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
-- [Metinden keşfedilebilir Unity şehrine](#text-to-explorable-unity-city-2095623452678144366)
-- [Three.js bilye fabrikası](#three-js-marble-factory-2095622065390772322)
-- [Fotogerçekçi 3B ürün maketi stüdyosu](#photoreal-3d-product-mockup-studio-2095619319690400253)
-- [3B müzede sinematografi ön görselleştirmesi](#3d-museum-cinematography-previsualization-2095616529572503593)
-- [Zillow ilanından 3B emlak tanıtım filmine](#zillow-listing-to-3d-property-film-2095612137582526615)
-- [Unreal Engine'de sokak sokak Manhattan](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 
 </details>
+<a id="explorable-taj-mahal-2096035962824335798"></a>
+
+### Keşfedilebilir Tac Mahal
+
+[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Keşfedilebilir Tac Mahal"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tac Mahal'i keşfedilebilir bir 3B sahne olarak yeniden oluştur. Tanınabilir oranlara, simetrik bahçelere, ana kubbeye, minarelere ve yapılar arası ilişkiye öncelik ver.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Orijinal gönderi](https://x.com/vikassabbi/status/2096035962824335798) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
+
+### Konuşma etkinliklerini gösteren küreli kişisel 3B portföy
+
+[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Konuşma etkinliklerini gösteren küreli kişisel 3B portföy"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Bir portreyi editoryal WebGL portföyünde Blender karakterine dönüştür. Konuşmacı olarak katılınan etkinlikleri haritalayan dönen dünya küresi ekle, varlıkları siteye entegre et.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Orijinal gönderi](https://x.com/HowDevelop/status/2096023793772998704) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
+
+### Gogh Strike çok oyunculu FPS
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike çok oyunculu FPS"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Blender'da render edilmiş sanatçı karakterler, kolay ayırt edilen takımlar ve tarayıcıda eksiksiz çok oyunculu maçla Post-Empresyonist 5'e 5 birinci şahıs nişancı oyunu oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Orijinal gönderi](https://x.com/petergostev/status/2096013280519016608) · [Kaynak kodu](https://github.com/petergpt/gogh-strike) · [Canlı demo](https://gogh-strike.surge.sh/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
+
+### Referanslardan TP-7 kayıt cihazı modeli
+
+[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Referanslardan TP-7 kayıt cihazı modeli"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Teenage Engineering TP-7’yi referans görsellerinden Three.js içinde yeniden oluşturun. Biçimini ve görünür kontrollerini incelenebilir bir 3D modelde eşleştirin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Orijinal gönderi](https://x.com/ty_kra_lab/status/2096013228090245181) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
+
+### Tesla Model X patlatılmış görünümü
+
+[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X patlatılmış görünümü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tesla Model X'i modellenmiş bileşenlerine ayıran 3B site oluştur. Ziyaretçiler montajları inceleyebilsin, aracı etkileşimli biçimde yeniden birleştirebilsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Orijinal gönderi](https://x.com/ashebytes/status/2096009146248122416) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
+
+### Esnek WebGPU jölesi
+
+[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Esnek WebGPU jölesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Three.js ve WebGPU ile lezzetli görünen, zıplayan bir jöle oluştur. Yarı saydam malzeme ve anlaşılır ışıkla etkileşimden sonra doğal biçimde deforme olup durulsun.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Orijinal gönderi](https://x.com/scottstts/status/2096008241104711698) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
+
+### Roblox'ta anime arena dövüşü
+
+[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Roblox'ta anime arena dövüşü"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Anime karakterlerinin karşılaştığı savaşlardan esinlenen Roblox arena dövüş oyunu oluştur. Arenayı ve karakterleri Blender ve mevcut varlıklarla kur, oynanabilir savaş döngüsü uygula.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Orijinal gönderi](https://x.com/WoahWurdz/status/2095999578419929412) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
+
+### Eş zamanlı kat planı ve 3D gezinti
+
+[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="Eş zamanlı kat planı ve 3D gezinti"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Aynı ölçülerden tek yatak odalı bir daire için gezinti ve kat planı oluşturun. Mevcut konumu iki görünüm arasında eşitleyin; varsayılan tavan yüksekliklerini ve yüzey kaplamalarını açıkça belirtin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Orijinal gönderi](https://x.com/onofumi_AI/status/2095999282088378520) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-browser-river-scene-2095993826569502785"></a>
+
+### Tarayıcıda etkileşimli nehir sahnesi
+
+[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="Tarayıcıda etkileşimli nehir sahnesi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Tarayıcıda çalışan etkileşimli bir nehir sahnesi oluşturun. Önce çalışan bir gerçek zamanlı su prototipi kurun, ardından görsel sonucu inceleyip iyileştirin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Orijinal gönderi](https://x.com/dangreenheck/status/2095993826569502785) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
+
+### Katedralde yakın dövüş arenası
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="Katedralde yakın dövüş arenası"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Ölü bir yıldızın üzerindeki katedralde geçen, üçüncü şahıs Three.js yakın dövüş oyunu oluştur. Hafif kılıç komboları, ağır saldırılar, alan büyüsü, kaçınma ve yere basan iki elli animasyonlar ekle.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Orijinal gönderi](https://x.com/superalesha/status/2095988972879335792) · [Kaynak kodu](https://github.com/alesha-pro/bench-portal) · [Canlı demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095987508475834641"></a>
+
+### Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun
+
+[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="Mevcut Bir Varlık Paketinden Unity Şehri Oluşturun"></a>
+
+**İstem**
+
+```text
+Benim için yeni bir 3B şehir sahnesi oluşturun. Farklı yüksekliklerde birkaç bina türü ve arabalar olsun. Ayrıca büyük bir şehre ait yolları, reklam panolarını ve diğer ögeleri de kullanın. İhtiyacınız olan her şey Assets/ithappy/Cartoon_City_Free klasöründe.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2095987508475834641) · [Orijinal gönderi](https://x.com/AndrewWalko/status/2095987508475834641) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
+
+### Etkileşimli Titan bilim sergisi
+
+[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="Etkileşimli Titan bilim sergisi"></a>
+
+*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
+
+**İstem**
+
+```text
+Satürn'ün en büyük uydusu Titan'ın keşfedilebilir ortamını ve kendine özgü fiziksel özelliklerini anlatan bilgi katmanını içeren eğitici 3B simülasyon oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Orijinal gönderi](https://x.com/ArdaTugsat/status/2095986941753712841) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="3d-slingshot-bird-game-2095981655370666076"></a>
 
 ### 3B sapanlı kuş oyunu
@@ -882,248 +1129,6 @@ Three.js rol yapma oyununa birinci ve üçüncü şahıs kameraları ekle. İki 
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Orijinal gönderi](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
-
-### Tek istemle gerçek zamanlı oynanabilir 3B oyun
-
-[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Tek istemle gerçek zamanlı oynanabilir 3B oyun"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Tek istemden gerçek zamanlı, oynanabilir bir 3B oyun oluştur. Kompakt bir temel mekanik, açık bir hedef ve kısa bir hikâye belirle. Ardından sahneyi, karakterleri, nesneleri, geri bildirimleri ve yeniden başlatma durumunu üreterek hemen oynanabilir hâle getir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Orijinal gönderi](https://x.com/higgsfield/status/2095647685210669541) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
-
-### Yazdırılabilir USS Enterprise CAD montajı
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="Yazdırılabilir USS Enterprise CAD montajı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-CAD'de USS Enterprise NCC-1701'e özgün bir saygı duruşu niteliğinde, baskıya hazır model tasarla. Tanınabilir oranlar, komuta köprüsü ve seçilmiş iç mekânlar, en az 28 işlevsel hareketli parça, ayrılmış montajlar ve dışa aktarılabilir üretim dosyaları ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Orijinal gönderi](https://x.com/DeryaTR_/status/2095641163441254676) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
-
-### Blender'da modern villa sahnesi
-
-[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender'da modern villa sahnesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Blender'da tutarlı mimarisi, döşenmiş iç mekânları, sonsuzluk havuzu, peyzajı, gerçekçi malzemeleri ve altın saatte sinematik kamera rotası olan eksiksiz bir modern villa sahnesi oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Orijinal gönderi](https://x.com/karankendre/status/2095636679264780481) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
-
-### Cycles için prosedürel Oval Ofis dekoru
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Cycles için prosedürel Oval Ofis dekoru"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Oval Ofis'in dekor açıklamasını çalıştırılabilir sahne koduna dönüştür. Blender'da mobilyaları, duvarları, ışıkları ve kamera yerleşimleri düzenlenebilir olan mekânı kur; ardından Cycles ile sinematik bir render al.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095630197257367857) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="unity-space-trench-run-game-2095630044102279312"></a>
-
-### Unity'de uzay hendeği uçuş oyunu
-
-[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity'de uzay hendeği uçuş oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Unity'de klasik bir uzay hendeği saldırısının hissini yeniden yarat. Alçaktan hızlı uçuş, taret ateşi, engeller, hedefleme, artan baskı, son hedef ve sinematik başarı veya başarısızlık sekansı ekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Orijinal gönderi](https://x.com/ronaldmannak/status/2095630044102279312) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
-
-### Mimari çizimden Blender ve Unreal görselleştirmesine
-
-[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Mimari çizimden Blender ve Unreal görselleştirmesine"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen mimari çizimden başlayarak Blender'da doğru ve düzenlenebilir bir model oluştur. Sonra doğru ölçek ve çarpışmalara sahip, aydınlatılmış ve yürünebilir bir mimari deneyim olarak Unreal Engine'e aktar.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Orijinal gönderi](https://x.com/LinusEkenstam/status/2095624712244072551) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="text-to-explorable-unity-city-2095623452678144366"></a>
-
-### Metinden keşfedilebilir Unity şehrine
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Metinden keşfedilebilir Unity şehrine"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Verilen şehir tasavvurunu kuleleri, yolları, araçları, palmiyeleri ve atmosferik ışığı olan keşfedilebilir bir Unity ortamına dönüştür. İnandırıcı ölçek, gezinme, hareketli trafik ve akıcı birinci şahıs kamerası oluştur.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Orijinal gönderi](https://x.com/0x0SojalSec/status/2095623452678144366) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="three-js-marble-factory-2095622065390772322"></a>
-
-### Three.js bilye fabrikası
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js bilye fabrikası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js'de anlaşılır üretim akışı, hareketli bilyeler ve makinelerle bir bilye fabrikası simülasyonu yap. İzleyici süreç boyunca bir bilyeyi takip edebilsin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/three-js-marble-factory-2095622065390772322) · [Orijinal gönderi](https://x.com/JohnKlerAI/status/2095622065390772322) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
-
-### Fotogerçekçi 3B ürün maketi stüdyosu
-
-[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="Fotogerçekçi 3B ürün maketi stüdyosu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Yüklenen tasarımları fotogerçekçi 3B ürün maketlerine yerleştiren bir tarayıcı aracı oluştur. Yörünge kamerası, malzeme ve renk kontrolleri, ortam aydınlatması, birden fazla ürün ve yüksek çözünürlüklü dışa aktarma destekle.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Orijinal gönderi](https://x.com/joshmillgate/status/2095619319690400253) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
-
-### 3B müzede sinematografi ön görselleştirmesi
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3B müzede sinematografi ön görselleştirmesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Mekânı, oyuncu yerleşimlerini, kamera konumlarını ve çekim listesini haritalayan bir 3B müze ön görselleştirmesi oluştur. Her kurulumu fiziksel görüntü alanında tut, ardından sonraki video üretimi için tutarlı kılavuzlar dışa aktar.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2095616529572503593) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
-
-### Zillow ilanından 3B emlak tanıtım filmine
-
-[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Zillow ilanından 3B emlak tanıtım filmine"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
-
-**İstem**
-
-```text
-Verilen emlak ilanını ve ilandaki tüm fotoğrafları kullanarak evi 3B olarak yeniden oluştur, tutarlı bir kat planı çıkar ve özenli bir tanıtım gezintisi videosu hazırla. Geometrisi belirsiz kısımları işaretle ve ilk sürümden sonra uyuşmazlıkları düzelt.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Orijinal gönderi](https://x.com/realYunfanYe/status/2095612137582526615) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
-
-### Unreal Engine'de sokak sokak Manhattan
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Unreal Engine'de sokak sokak Manhattan"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Unreal Engine'de keşfedilebilir bir Manhattan oluştur. Tanınabilir ölçeği, yol ağını, önemli yapıları, trafiği ve mahallelerin karakterini koruyarak bölge bölge, sokak sokak ilerle. Bir değerlendirme kontrol listesi tut ve sonraki alana geçmeden her alanı iyileştir.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Orijinal gönderi](https://x.com/mattshumer_/status/2095609734845927525) · [Örneklere dön](#all-prompts)
 
 ---
 

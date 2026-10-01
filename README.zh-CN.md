@@ -29,7 +29,7 @@
 
 汇集 Astra、Claude、Kimi 等模型的 3D 创作案例，覆盖游戏、场景、模型资产、动画与互动体验。 每条案例保留作者与来源；先看效果，再复制提示词，改成自己的作品。
 
-**476 条案例 · 6 个模型 · 14 种语言 · 17 条附源码**
+**488 条案例 · 6 个模型 · 14 种语言 · 17 条附源码**
 
 [开始使用](#start-here) · [按用途浏览](#browse) · [最新案例](#latest) · [完整目录](docs/catalog.zh.md) · [项目源码](docs/with-code.md)
 
@@ -47,20 +47,20 @@
 
 | 按用途浏览 | 案例 |
 | :--- | ---: |
-| [游戏](docs/catalog.zh.md#category-games) | 126 |
-| [场景](docs/catalog.zh.md#category-3d-scenes) | 101 |
-| [资产](docs/catalog.zh.md#category-3d-assets) | 58 |
-| [互动](docs/catalog.zh.md#category-interactive-3d) | 97 |
-| [动画](docs/catalog.zh.md#category-animation-simulation) | 91 |
-| [其他](docs/catalog.zh.md#category-other) | 3 |
+| [游戏](docs/catalog.zh.md#category-games) | 127 |
+| [场景](docs/catalog.zh.md#category-3d-scenes) | 105 |
+| [资产](docs/catalog.zh.md#category-3d-assets) | 59 |
+| [互动](docs/catalog.zh.md#category-interactive-3d) | 99 |
+| [动画](docs/catalog.zh.md#category-animation-simulation) | 94 |
+| [其他](docs/catalog.zh.md#category-other) | 4 |
 
 ### 按模型浏览
 
 | 按模型浏览 | 案例 |
 | :--- | ---: |
-| [GPT-6 Astra](docs/catalog.zh.md#model-gpt-6-astra) | 302 |
+| [GPT-6 Astra](docs/catalog.zh.md#model-gpt-6-astra) | 308 |
 | [Claude Fable 5.1](docs/catalog.zh.md#model-claude-fable-5-1) | 79 |
-| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 51 |
+| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 57 |
 | [Kimi K3](docs/catalog.zh.md#model-kimi-k3) | 20 |
 | [Claude Fable 5](docs/catalog.zh.md#model-claude-fable-5) | 18 |
 | [Claude Opus 5](docs/catalog.zh.md#model-claude-opus-5) | 13 |
@@ -82,7 +82,889 @@
 
 ## 最新案例
 
-[完整目录 (476) →](docs/catalog.zh.md)
+[完整目录 (488) →](docs/catalog.zh.md)
+
+<a id="gpt-6-astra-2105323534398763307"></a>
+
+### 在 Isaac Sim 中重建场景
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105323534398763307"><img src="assets/previews/3852636f5d615521a17f3a4aea8641f8f42815fd5d1bc9df57d028748fdec886.webp" width="840" loading="lazy" alt="在 Isaac Sim 中重建场景"></a>
+
+**参考图片:** [1](https://media.tripogrowth.space/media/da6263bd-ac07-41bb-93ad-a997394635c6.jpg) · [2](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg)
+
+<details>
+<summary>提示词</summary>
+
+```text
+在 Isaac Sim 中重建此场景，用于评估操作策略。不要使用 Manifold。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Recreate this scene in Isaac Sim for the purposes of manipulation policy evaluation. Don't use Manifold.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105323534398763307) · [查看原帖](https://x.com/charleswongzx/status/2105323534398763307) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — 绘画风格 3D 动画镜头
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — 绘画风格 3D 动画镜头"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+标题：“SPARK”
+
+一段约 15 秒、采用动画剧集 Arcane（Fortiche）绘画风格的 3D 动画镜头。
+
+使用 Blender 制作；如果其他工具效果更好，也可以使用其他工具。宽银幕，无对白。
+
+GOAL
+
+首要目标是在各个方面尽可能完美地复现 Arcane 的视觉风格与动画风格。观众应当相信这段作品出自同一家工作室。
+
+请投入所需的时间和精力。完美复现其技法与视觉效果。无论需要多少时间，都要确保每个方面都尽善尽美。
+
+场景（较为宽松——可自由调整）
+
+一个小型机械生物（不要做人形），例如一只由黄铜和水晶构成的机械蛾，在夜晚杂乱的发明家工作台上苏醒。它的水晶核心点燃发光能量，随后在一阵火花旋涡中冲入空中。如果其他细节、构图或动作能更好地展现这种风格，可以进行调整。如果你愿意，也可以完全改为动画呈现其他内容——任何你选择的主题，只要是你最擅长的，并且同样能呈现出与 Arcane 完全一致的视觉效果。
+
+PROCESS
+
+1. 研究：在开始制作之前，深入研究 Arcane 的风格。查找 Fortiche 技法的参考资料与拆解分析（访谈、幕后制作资料、艺术家拆解等）。记录所有具有代表性的元素：纹理、着色、线稿、色彩、灯光、帧率、特效、摄影机和合成。
+
+2. 风格指南：将研究成果整理成一份书面检查清单，并在制作动画前制作一张小型风格帧（单张静帧图像）。将其与参考静帧并排比较，持续修改，直到匹配为止。
+
+3. 制作：按照检查清单进行建模、制作纹理、布光和动画。
+
+4. 审核：反复将画面帧与 Arcane 的参考素材进行比较。列出所有能看出的差异并修正。持续重复，直到不再存在明显差异。
+
+需要匹配的风格元素（至少包括以下内容）
+
+- 每个表面都使用带有明显笔触的手绘纹理；不要呈现出程序化或照片写实的效果。
+
+- 风格化的绘画式着色，光影形状经过设计，而非采用写实的衰减。
+
+- 角色和物体按二拍制作动画，使用有力的姿势、利落的节奏、预备动作和变形帧；摄影机移动则按一拍保持流畅。
+
+- 在 3D 画面上叠加手绘 2D 特效（火花、能量、烟雾、闪光、辉光），按二拍制作动画，并采用图形化的形态语言。
+
+- 大胆而富有情绪的色彩：暖色光线对比高饱和发光点缀，色彩丰富的阴影，强烈的轮廓光，以及泛光效果。
+
+- 绘画式合成：类似笔刷的滤镜、颗粒，以及覆盖在画面上的细微纹理。
+
+- 电影感摄影机：浅景深、有目的的运动，以及撞击时的重量感。
+
+SOUND
+
+制作与动作和氛围相匹配的细致电影感声音设计。
+
+尽可能提升一切要素的质量：动画、模型、纹理、特效、灯光和声音。使用任何必要的工具或程序。你可以在线研究参考资料并模仿相关技法，也可以复制某些内容，但不要直接使用并非由你制作的素材。让整个镜头保持统一的风格，使 3D、绘制纹理和 2D 特效看起来像一幅统一的手工创作图像。
+
+不要使用记忆或之前的聊天记录。
+
+你可以使用任何其他工具、程序、插件，字面意义上的任何东西。利用一切可用资源。
+
+你可以采用不同于本文所述的制作流程，也可以制作不同于描述内容的动画，但最终效果必须尽可能接近电视动画 Arcane。让每个方面都尽善尽美，并做到完全一致。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105315982525014067) · [查看原帖](https://x.com/xikhar/status/2105317581695623329) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### 卡点的3D球体下坠动画视频
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="卡点的3D球体下坠动画视频"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105302007896797351) · [查看原帖](https://x.com/Gorden_Sun/status/2105302007896797351) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2105298955307303100"></a>
+
+### 在 Blender 中创建 3D 小黄人角色
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105298955307303100"><img src="assets/previews/e5e2a6452d0aa3edb11e244c87c98ef855e260733bc1fbe1db47fcdb4a633092.webp" width="840" loading="lazy" alt="在 Blender 中创建 3D 小黄人角色"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Blender 的 bpy 模块编写一段完整且可执行的 Python 脚本，创建一个 3D 小黄人角色，设置 360 度转台摄像机动画，并渲染一段 5 秒、1:1 比例的视频。
+动画与渲染规格：
+
+帧率与时长：将帧率设为 30 fps，渲染帧范围设为第 1 帧至第 150 帧（恰好 5 秒）。
+画面比例：将渲染分辨率设为 1080x1080 像素（1:1 方形比例）。
+摄像机转台动画：为摄像机设置动画（也可以将摄像机设为父级为空物体的子对象），使其在 150 帧内围绕小黄人平滑旋转 360 度。
+将关键帧插值设置为 LINEAR，确保旋转平滑且速度恒定。
+
+输出设置：将输出格式设为 FFmpeg 视频（H.264 / MP4 容器）。
+技术要求与模型结构：
+基础身体：为主体创建胶囊状网格（黄色材质，次表面散射/粗糙度约为 0.3）。
+在头顶添加稀疏、纤细的黑色发丝。
+
+护目镜与眼睛：使用挤出的圆柱体/圆环体制作双镜片护目镜。
+护目镜框材质：金属度约为 0.9，粗糙度约为 0.2，以模拟拉丝铝或金属效果。
+添加一条环绕身体的黑色弹力带。
+在镜框内部生成两个眼球网格（白色巩膜、棕色虹膜、具有光泽的瞳孔）。
+
+服装——工装裤：使用独立的网格几何体或挤出的身体部件制作牛仔工装裤。
+材质：蓝色牛仔布颜色，较高的粗糙度（约为 0.6）。
+在胸前加入肩带和前口袋。
+
+肢体与细节：添加手臂和腿部，并配上黑色手套和黑色鞋子。
+在适用部位使用镜像修改器（bpy.ops.object.modifier_add(type='MIRROR')），例如眼睛、护目镜框、手臂、肩带和腿部，以确保对称并保持代码简洁。
+
+灯光与场景：设置三点布光（主光、辅光、轮廓光），将灯光设为摄像机的子对象，或均匀放置灯光，使其在旋转过程中保持一致的照明效果。
+将渲染引擎设为 Cycles 或 Eevee，并使用简洁的影棚背景。
+确保所有材质均通过节点创建（use_nodes = True）。
+
+仅在 Markdown 代码块中返回有效的 Python 代码，不要附加其他文字或 Markdown 解释。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Write a complete, executable Python script using Blender's bpy module to create a 3D Minion character, set up a 360-degree turntable camera animation, and render a 5-second 1:1 video.
+Animation & Render Specifications:
+
+Frame Rate & Duration: Set frame rate to 30 fps and render frame range from frame 1 to 150 (exactly 5 seconds).
+Aspect Ratio: Set render resolution to 1080x1080 pixels (1:1 square ratio).
+Camera Turntable Animation:Animate the camera (or an empty controller object parented to the camera) to perform a seamless 360-degree rotation around the Minion over the 150 frames.
+Set keyframe interpolation to LINEAR to ensure smooth, constant-speed rotation.
+
+Output Settings: Set output format to FFmpeg video (H.264 / MP4 container).
+Technical Requirements & Model Structure:
+Base Body:Create a capsule-like mesh for the main body (yellow material, subsurface scattering/roughness ~0.3).
+Add sparse, thin strands of black hair on top of the head.
+
+Goggles & EyesBuild dual-lens goggles using extruded cylinders/toruses.
+Goggle Frame Material: Metallic (~0.9), Roughness (~0.2) to simulate brushed aluminum/metal.
+Add a black elastic strap wrapping around the body.
+Generate two eyeball meshes inside the frame (white sclera, brown iris, shiny pupil).
+
+Clothing - Overalls:Model the denim overalls using separate mesh geometry or extruded body segments.
+Material: Blue denim color, higher roughness (~0.6).
+Include shoulder straps and a front pocket on the chest.
+
+Appendages & DetailsAdd arms and legs with black gloved hands and black shoes.
+Use Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) where applicable (e.g., eyes, goggles frame, arms, straps, legs) to ensure symmetry and clean code.
+
+Lighting & Scene:Place a three-point lighting setup (Key, Fill, Rim lights) parented to the camera or placed uniformly so the lighting stays consistent during rotation.
+Set render engine to Cycles or EEVEE with a clean studio background.
+Ensure all materials are created using Nodes (use_nodes = True).
+
+Return ONLY valid Python code inside a markdown block with no surrounding text or markdown explanations.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105298955307303100) · [查看原帖](https://x.com/EvoLinkAi/status/2105298964027265295) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### 果冻压榨机
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="果冻压榨机"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+创建“果冻压榨机”：一个单文件 HTML 互动 3D 玩具（所有 JS、CSS 和 WGSL 着色器均内联，除 Google Fonts 外不使用外部资源）。使用 WebGPU 渲染；如果缺少 WebGPU 或适配器，则显示清晰的备用提示，而不是空白页面。
+
+CONCEPT
+四种半透明的水果切片造型软糖果冻，每次一个，放在液压压榨机的钢制压台上。玩家按住一个醒目的红色按钮，让压头下降。果冻会被压扁并向外摊开，压力表读数上升；当高度压缩到超过一半时，果冻会爆裂成碎块。爆裂后游戏不会结束：玩家可以抓取碎块、拖动、抛掷，并再次挤压它们。
+
+果冻种类（底部水果按钮，按键 1–4）
+1. 西瓜楔形块（半圆盘状）：红色果肉带深色泪滴形瓜子，浅色果皮带和绿色条纹外皮。
+2. 橙子切片（半圆盘状）：橙色果肉分瓣，中间由纤细的白色筋膜隔开，外层是浅色内皮和橙色果皮。
+3. 无花果半块：粉色果肉中布满细小的金色籽粒，外有奶油色夹层和深紫色果皮。
+4. 菠萝环：金黄色纤维状果肉带放射状纹理，中间有孔。
+每种果冻都应呈现真实软糖的质感：次表面散射、柔和的半透明效果、光泽高光，以及投射在暖色工作室地面上的柔和阴影（奶油色/米色，经过色调映射）。
+
+物理（CPU，固定 60 Hz 步进）
+- 使用 XPBD 四面体软体，8 次子步进：每个四面体采用共旋转形状匹配、四面体体积约束、硬性边应变限制（0.35×–1.8×）、边速度阻尼、带库仑摩擦的地面接触、滚动阻力，以及接近静止时的轻柔稳定。
+- 渲染网格通过四面体中的重心嵌入在 CPU 上进行蒙皮；每帧根据三角形重新计算法线。
+- 压头是一个运动学圆形压板（半径约 1.05，边缘圆润，具有一定厚度，上方连接压杆）。压板下方作为带摩擦的顶面，上方作为搁板，边缘处作为侧壁。两根压机立柱为实体。
+- 压力表的 bar 读数来自压板的接触载荷，并按水果类型进行缩放。
+
+爆裂
+- 在果冻高度的 52% 至 66% 之间随机选择一次挤压程度进行断裂。
+- 每轮开始后不久就在后台规划断裂，因此爆裂本身必须瞬间完成。
+- 由略微倾斜的 3D Voronoi 单元生成 5–7 个大碎块。其中 3–4 个碎块的远端角落由两个切割平面削去，再进一步分成 2–4 个小碎片，形成锯齿状、带缺口的边缘。
+- 根据四面体质心将四面体分配给各单元。为每个碎块复制粒子。将微小孤岛合并到相邻碎块中。
+- 新软体沿用原来的位置和速度。
+- 将蒙皮三角形与每个单元的半空间进行裁剪，并为每个切面填充干净平整的封口面，展示水果内部（果肉、籽粒、筋膜）。不得出现拉伸三角形或空洞。
+- 将碎块向压榨机外侧和上方弹出。小碎片飞得更快、更高，并带有随机旋转。
+- 显示约 2.5 秒的大号斜体判词，然后淡出：“啪叽。”（西瓜）、“挤扁了。”（橙子）、“呃，这下成酱了。”（无花果）、“压碎。”（菠萝）。包含一行统计信息：“在 N bar、N% 高度时放弃抵抗。”
+
+爆裂后：游玩模式
+- 拾取：对蒙皮网格进行射线/三角形测试；针对触控操作提供宽松的屏幕空间备用判定。
+- 抓取时，将被抓取区域（半径约 0.4，仅限该碎块中的粒子）固定到面向摄像机的拖动平面上的目标点。小碎片整体移动；大碎块则像果冻一样拉伸和摆动。
+- 松开时，按照指针的速度将碎块抛出。
+- 碎块之间会发生碰撞。如果某个粒子位于另一个碎块的四面体内部，就通过该碎块最近的蒙皮面将其推出，并施加摩擦。使用碎块 AABB 粗筛，以及蒙皮四面体的空间哈希。
+- 碎块不会离开舞台：设置侧壁，并添加一条不可见的前缘，避免任何物体落到控制区下方或摄像机后方。
+- 压榨机仍可使用：按住按钮再次挤压碎块（不会再次断裂）；“升起”按钮会抬起压板。
+- 落地时播放湿润的“啪叽”声；抓取时播放轻微的挤压声。
+- 光标：悬停在碎块上时显示张开手，拖动时显示握拳。拖动空白区域可环绕旋转摄像机。
+
+界面（编辑风格，极简）
+- 左上角标题栏：“JELLY PRESS”，使用粗体窄体大写字母，其中“PRESS”填充黄色/黑色警示条纹。副标题：“四颗软糖。一台液压压榨机。”
+- 右上角：重置和声音开关。
+- 底部控制台：
+  - 挤压过程中显示逐步升级的字幕：“接触。”→“没事，只是果冻。”→“越来越宽了。”→“这已经是煎饼了。”→“它开始发出声音了。”→“求你了。”
+  - 红色“按住”按钮周围放置圆形压力表盘（0–400 bar 刻度弧，带红色区域），旁边有“升起”按钮和大型数字压力读数。
+  - 带图标的水果按钮。
+- 游玩模式下，字幕区域显示“抓一块，扔出去。”，并配有较小的“再次挤压”和“下一个果冻”按钮。
+- 操作：按住空格键或 ArrowDown 挤压，按 ArrowUp 升起，按 R 重置，按 1–4 选择水果。滚轮缩放；双击重置视角。
+- 摄像机：采用低机位、工作台高度视角；压榨机框架会根据水果左右偏转，确保立柱不会挡住果冻。自动调整构图，使果冻位于标题栏和底部控制台之间；兼容手机竖屏显示，并使用更窄的舞台。
+
+声音（程序化 Web Audio，无音频文件）
+液压马达嗡鸣声随压力升高而增强，高压时偶尔发出吱嘎声，压板停止时播放阀门撞击声，爆裂时播放响亮的爆破声，落地时播放柔和的啪叽声。首次交互时解锁声音。
+
+质量要求
+- 笔记本电脑上保持流畅的 60 fps。
+- 在后台预热其他水果的网格和着色器，确保切换瞬间完成。
+- 遵循 prefers-reduced-motion 设置。
+- 提供无障碍标签，压力表使用 role=meter，并显示 focus-visible 轮廓。
+- 不得出现控制台错误。页面绝不能变成空白。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105285992865272110) · [查看原帖](https://x.com/vib3coded/status/2105286092651999619) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2105278999861526953"></a>
+
+### 金门大桥 Blender 渲染图
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105278999861526953"><img src="assets/previews/5bcade94da53057502f3cb98af337c7c693ece5f6234c73b110d7cc895a422c1.webp" width="840" loading="lazy" alt="金门大桥 Blender 渲染图"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+Blender 金门大桥渲染图。以旧金山湾水面为视点，采用开阔的极低机位仰拍，仰望刺入雾霭晨空的巨大而复杂的钢桁架桥塔。宽阔的桥面横跨整个桥身，布满无数细小且细节丰富的车辆；在崎岖的海岸岬地映衬下，突出大桥宏伟、恢弘的尺度感。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+A Blender render of the Golden Gate Bridge.  A sweeping, extreme low-angle shot from the surface of San Francisco Bay, looking up at the colossal, intricate steel-truss towers piercing the foggy morning sky. The expansive roadway stretches across the span with countless tiny, detailed vehicles, highlighting the bridge's grand, imposing scale against the rugged coastal headlands.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105278999861526953) · [查看原帖](https://x.com/EvoLinkAi/status/2105279002793345069) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### 单文件 HTML 中的回合制 ASCII Roguelike 游戏
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="单文件 HTML 中的回合制 ASCII Roguelike 游戏"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+扮演首席游戏设计师。在单个自包含的 HTML/JS/CSS 文件中，构建一款完整的回合制 ASCII Roguelike 游戏，不使用任何外部依赖。
+1. 视觉效果：20 世纪 80 年代 CRT 显示器风格，黑底荧光绿文字（#00FF66），带柔和的扫描线光晕。
+2. 程序化生成：40x22 的地图，由相互连通的房间和走廊组成。
+3. 实体：@ 代表英雄，# 代表墙壁，. 代表地面，g 代表哥布林（5 点生命值），$ 代表金币，> 代表向下的楼梯。
+4. 机制：回合制移动与战斗，追踪生命值和金币。
+5. HUD：楼层编号、生命值条、战斗日志。采用永久死亡机制，并支持重新开始。
+仅输出可运行的 HTML 代码。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105246199653482872) · [查看原帖](https://x.com/kriptoleidi/status/2105246199653482872) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### 创建《权力的游戏》世界
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="创建《权力的游戏》世界"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+&lt;创建《权力的游戏》世界&gt;
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105245648723562584) · [查看原帖](https://x.com/DrstaOne/status/2105245648723562584) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2105047166733746209"></a>
+
+### 电影感照片级写实火箭发射场景
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105047166733746209"><img src="assets/previews/6d8acb740dd1622944c3b3d67b4773f614180df8b9b6f266d7a3a7a7c523baff.webp" width="840" loading="lazy" alt="电影感照片级写实火箭发射场景"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Three.js 构建一个具有电影感、照片级写实效果和精美纹理的火箭发射场景
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a cinematic, photorealistic, beautifully textured rocket launch scene using Three.js
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105047166733746209) · [查看原帖](https://x.com/MatthewLebo_/status/2105047166733746209) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### 互动构造板块地震视频
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="互动构造板块地震视频"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+制作一支视觉震撼的 60 秒视频，通过互动式构造板块沙盘解释地震是如何发生的。
+
+整体观感应像是在探索一套精美的实时模拟，而不是观看幻灯片或传统科普视频。
+
+以地壳的简洁 3D 剖面图开场。两块构造板块缓慢地相互运动。将它们之间的断层可视化，表现摩擦如何锁住板块，同时应力逐渐积累。
+
+随着压力增加，让模拟效果变得更加紧张：岩层发生形变，应力区域发光，细微震动开始出现，实时地震仪也开始产生反应。
+
+随后触发地震。断层突然错动，释放出巨大的能量。表现地震波穿过地面的同时向四周辐射，然后向上转场至地表，景观和一座小城市开始震动。
+
+将 P 波和 S 波在地球内部以不同方式传播的过程可视化，随后呈现最强烈的面波。展示建筑物如何根据其与震中的距离不同而产生不同反应。
+
+最后镜头回到地下，揭示断层周围发生的较小余震，然后拉远镜头，展示完整的构造板块系统。
+
+使用电影感动态图形、令人信服的物理模拟、富有戏剧性的尺度转场、高品质 3D 科学可视化、极简文字、动态标签、流畅的 UI 叠加层和无缝转场。
+
+节奏应持续变化，每隔几秒就揭示新的内容，让完整的 60 秒始终保持视觉吸引力。
+
+整体风格应像 Apple 品质的互动科学可视化作品，被转化为一支电影感动态图形视频。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105029713445949521) · [查看原帖](https://x.com/egeberkina/status/2105029713445949521) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2105027152617918852"></a>
+
+### 逼真的 F-22“猛禽”战斗机模型与 Godot 飞行视频
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29 · GPT-6 Astra · 其他
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105027152617918852"><img src="assets/previews/735c2222ff973e206a2a4e0eb83984299eb76e96ff6f0267d1697607a029ab0f.webp" width="840" loading="lazy" alt="逼真的 F-22“猛禽”战斗机模型与 Godot 飞行视频"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Blender MCP。为我制作一个逼真的 3D 模型：洛克希德·马丁 F-22“猛禽”战斗机（仅限美国版本）。然后制作一段 60 秒的 MP4 视频，展示它在 Godot 中飞行，以便我上传到 X。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Using blender mcp. Make me a realistic 3d model of the: Lockheed Martin F-22 Raptor (US only). Then create me 60 second mp4 of it flying around in Godot that I can upload to X.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105027152617918852) · [查看原帖](https://x.com/dgresesjr/status/2105027152617918852) · [返回案例导航](#latest)
+
+---
+
+<a id="gpt-6-astra-2105009377002299711"></a>
+
+### 时间，拆解。
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105009377002299711"><img src="assets/previews/e2b43bfe1fb0e91f9377aeb5de49500cf4472749c1c2b6f2f0cacb387107b7f9.webp" width="840" loading="lazy" alt="时间，拆解。"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+构建“时间，拆解。”——一个完全自包含的 HTML 文件（内嵌 JS 和 CSS），运行真正的 WebGPU + WGSL 交互式 3D 机械腕表。用户滚动页面时，腕表会自行拆开，同时持续运转。不使用 3D 引擎库；所有几何体都必须通过代码生成。这是一个关于“人人都从外部见过、几乎没人从内部见过的物件”系列的第 01 期。
+物件
+一枚原创、无品牌、手动上链的机械腕表，采用圆形 40 mm 表壳，搭载直径约 30 mm 的经典瑞士杠杆式机芯。
+布局：中央时针和分针；6 点钟位置设小秒盘；3 点钟位置设表冠。
+表盘：银色蛋白石纹表盘，带精细的日内瓦波纹放射纹，立体抛光时标、柳叶针，以及铁路式分钟刻度圈。
+表壳：正面配蓝宝石水晶镜面，背面配透底表背，可从后方看到机芯。
+任何位置都不得出现品牌名称、徽标或真实机芯型号名称。将其命名为“Calibre 01”。
+机构（必须在机械结构上自洽准确，不能只是装饰）
+摆频 28,800 vph（4 Hz 摆轮）。
+构建齿数一致的真实走时轮系：发条盒 96 齿 → 中心轮小齿轴 12 齿；中心轮每小时转一圈，并带动分针；
+中心轮 80 齿 → 第三轮小齿轴 10 齿；
+第三轮 75 齿 → 第四轮小齿轴 10 齿；第四轮每分钟转一圈，并带动小秒针；
+第四轮 84 齿 → 擒纵小齿轴 7 齿；
+擒纵轮 20 齿，每 5 秒转一圈。
+
+表盘下方的拨针系：中心秒轴 12 齿 → 分轮 36 齿；分轮小齿轴 10 齿 → 时轮 40 齿（12:1）。
+上链机构：表冠、表冠杆、冠轮、棘轮，以及带弹簧的止逆棘爪。
+擒纵机构：擒纵轮、带两颗红宝石叉瓦和限位销的叉瓦式擒纵叉、带游丝和冲击滚轮的摆轮。
+结构：主夹板、发条盒夹板、轮系夹板、摆夹板、红宝石轴承、蓝钢螺钉。
+齿轮：采用腕表风格的摆线齿形、带辐条的轮圈结构、带齿叶的小齿轴、轮轴和轴榫。中心距根据统一模数推导，确保每对齿轮在组装时都能明显正确啮合。
+运动由同一个主时钟驱动：摆轮按 θ(t) = A·sin(2π·4·t) 振荡，满链时振幅 A 约为 270°；
+每次摆动时，擒纵叉在两个限位销之间拨动，擒纵轮以短促、带缓动的冲量前进半个齿，然后锁止；
+其他每个齿轮都根据其相对于擒纵轮的传动比精确步进；
+秒针每秒跳动 8 次；分针和时针跟随轮系运转。
+加载时，将指针设置为观看者所在地区的本地时间。
+
+动力：动力储存约 44 小时，并实时消耗。动力储存耗尽时，振幅从 290° 降至 180°；归零后腕表停止，摆轮逐渐停稳，而不是瞬间冻结。
+上链会增加动力储存，并显示棘轮和止逆棘爪的运动，同时播放柔和的咔嗒声（使用 Web Audio，首次用户交互前保持静音）。
+
+无论处于哪种爆炸状态，机构都必须持续运转：齿轮在空中旋转，摆轮持续摆动，秒针持续跳动。
+拆解（由滚动驱动，带停驻点）
+将页面滚动映射为 0 到 1 的进度值，并分为七个章节。每个章节都缓动进入一个短暂停驻的“停点”，滚动会短暂稳定下来（柔和吸附，绝不是硬锁定）。相机在章节之间平滑移动。
+章节：
+I. 表壳：正面四分之三视角，完整组装。
+II. 表盘：水晶镜面和表圈抬起并移开；指针和表盘上升。
+III. 拨针系：表盘下方的齿轮分离。
+IV. 夹板：腕表翻转以展示背面；表背抬起；夹板和摆夹板上升，螺钉悬浮在各自孔位的正上方。
+V. 走时轮系：发条盒、中心轮、第三轮和第四轮沿各自轴线向上展开，如同技术图纸。
+VI. 擒纵机构：擒纵轮、擒纵叉和摆轮进一步分离，镜头拉近。
+VII. 核心：微距展示摆轮和游丝的摆动，后方保留完整的爆炸式排列。
+每个部件都沿清晰的轴线移动，主要沿自身轮轴方向，或从夹板垂直向上移动。属于同一组件的部件保持在一起。拆解过程中不得发生部件相交，也不得有部件离开画面。
+每个停点都会为主要部件显示带小端帽的细发丝线引导线和标签，并在停点之间淡出。
+INTERACTION
+滚动（鼠标滚轮、触控板、触摸滑动）驱动拆解过程。
+在空白区域拖动可在限定范围内转动腕表；松开后腕表缓动回位。
+悬停在部件上时，以柔和轮廓高亮该部件并显示其名称。
+点击部件时：该部件高亮，其他部件变暗至约 35%，相机缓动调整以取景该部件；
+部件旁打开信息卡，并通过发丝线引导线连接。信息卡显示：名称；用一到两句通俗文字说明其作用；一条精确事实（例如：“擒纵轮 · 20 齿 · 每 5 秒一圈”）；以及一个实时数值（当前速度、角度或截至目前的摆动次数）。
+按 Esc、点击关闭按钮或点击空白区域即可返回。
+
+当表冠可见时，横向拖动表冠即可为腕表上链（带触感棘轮效果）。
+支持指针捕获、鼠标和触摸操作。通过对象 ID 渲染通道或精确射线检测进行拾取；不得使用近似包围球。
+渲染（真实金属、微距摄影质感——不要做成卡通风格）
+使用基于物理的材质，并通过程序化摄影棚环境（大型柔光箱、条形灯和昏暗的暖色补光）生成反射。
+表面处理：夹板采用日内瓦波纹（沿纹理方向排列的各向异性拉丝高光）；
+主夹板采用珍珠纹（圆形鱼鳞纹）；
+镜面抛光倒角（倒角工艺）捕捉明亮的边缘高光；
+螺钉和指针采用薄膜热蓝工艺；
+红宝石轴承呈半透明红色，带内部闪烁；
+铑镀层钢制部件；
+蓝宝石水晶带淡淡的蓝紫色反射，并具有轻微的边缘厚度。
+
+表壳使用所选金色。
+高光：仅对镜面高光施加可控泛光；珠宝和抛光边缘上出现细小的星芒，并随光线或腕表移动而显现。要有魅惑感，而不是满屏闪光。
+柔和的接触阴影、轻微的环境光遮蔽，以及跟随聚焦部件变化的细腻景深。
+使用电影感色调映射，不得出现高光溢出；使用 4x MSAA 或等效方案。
+背景：带柔和暗角的浅瓷白，如无缝摄影棚。不偏黄，也不是奶油色。
+界面（贵族气质、编辑式设计、充足留白）
+字体：“Bodoni Moda”用于展示文字和数字，“Jost”用于 UI 文本（Google Fonts，并提供衬线和无衬线备用字体）。小型大写标签使用 0.16em 字间距；数字使用等宽数字。
+颜色：瓷白背景上的墨色 #1B1A17；
+细线使用 1px、15% 墨色透明度；
+强调色跟随所选金色。
+
+UI 元素不得使用渐变、厚重阴影或表情符号。
+左上角：提示语“OBJECTS, OPENED / NO. 01”；
+两行大号 Bodoni 标题：“Time,” / “Undone.”；
+三行 Bodoni 斜体说明：“手动上链。”“滚动拆解。”“一切都不隐藏。”
+
+右上角：状态“WEBGPU · LIVE”，旁边带一个小圆点。
+左侧垂直居中：章节索引“I. 表壳”“II. 表盘”“III. 拨针系”“IV. 夹板”“V. 走时轮系”“VI. 擒纵机构”“VII. 核心”。当前章节高亮，并显示一条细进度线；点击章节可滚动到对应位置。
+
+右侧面板“THE MOVEMENT”：三种表壳预设：白金、黄金、玫瑰金，并配有小型金属色样；
+实时读数：摆频“28,800 vph”、动力储存（小时，配细进度条）、振幅（°）、打开以来的摆动次数；
+按钮“为表冠上链”和“设置为本地时间”；
+复选框“¼ 速度”和“追踪动力”。“追踪动力”会让一条缓慢流动的光线沿能量路径移动：发条 → 发条盒 → 中心轮 → 第三轮 → 第四轮 → 擒纵轮 → 擒纵叉 → 摆轮，光线经过每个部件时使其发光；
+暂停/继续按钮。
+
+左下角提示：“滚动将它拆开。点击任意部件了解它。拖动以转动腕表。”
+右下角：可折叠的“How it works”，其中包含对走时轮系、擒纵机构、摆轮和动力储存的简短准确说明，以及一段关于本页面如何渲染它们的简短注释。
+移动端：画布填充屏幕顶部约 65% 的区域，章节索引变为横向排列的罗马数字。面板流式排列在下方；部件信息卡改为底部抽屉。不得遮挡腕表。
+ENGINEERING
+启动时一次性构建所有几何体。对重复部件（螺钉、宝石，以及适用时的齿）使用实例化。每帧只更新变换；交互过程中不得进行着色器编译或缓冲区重建。
+动画时间来自同一个时钟，并支持 ¼ 速度缩放。暂停只冻结机构，不冻结 UI。
+遵循 prefers-reduced-motion：章节瞬时切换，不进行相机飞行，不播放星芒动画。
+如果 WebGPU 不可用，显示清晰且设计良好的说明。不得使用虚假的备用渲染器。
+处理设备丢失。将像素比上限设为 2。目标是在笔记本电脑上达到 60 fps，并在较新的手机上保持流畅体验。
+交付前验证
+在代码中断言轮系传动比：秒针每 60 秒转一圈，分针每 3600 秒转一圈，时针每 12 小时转一圈，擒纵轮每 5 秒转一圈。将检查结果记录到控制台。
+每一对啮合齿轮都必须具有正确的中心距，并在组装状态下明显啮合。
+在任何拆解进度下，部件之间都不得相交；不得出现深度冲突。
+滚动停驻、章节跳转、部件拾取、信息卡、上链、预设、动力追踪、暂停、¼ 速度和移动端布局都必须正常工作。
+信息卡文字必须符合钟表学准确性。
+控制台不得出现错误。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build "Time, Undone." - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical watch that takes itself apart as you scroll, while it keeps running. No 3D engine libraries; all geometry is generated in code. This is issue No. 01 of a series about objects everyone has seen from the outside and almost no one has seen from the inside.
+THE OBJECT
+An original, unbranded, hand-wound mechanical watch in a round 40 mm case, with a classic Swiss-lever movement about 30 mm across.
+Layout: centre hours and minutes; small seconds sub-dial at 6 o'clock; crown at 3 o'clock.
+Dial: silver-opaline with a fine guilloché sunburst, applied polished indices, dauphine hands, a railroad minute track.
+Case: front sapphire crystal and a display caseback, so the movement is visible from behind.
+No brand names, logos or real calibre names anywhere. Call it "Calibre 01".
+THE MECHANISM (must be internally correct, not decorative)
+Beat rate 28,800 vph (4 Hz balance).
+Build a real going train with consistent tooth counts:mainspring barrel 96 teeth → centre pinion 12; the centre wheel turns once an hour and carries the minute hand;
+centre wheel 80 → third pinion 10;
+third wheel 75 → fourth pinion 10; the fourth wheel turns once a minute and carries the small seconds hand;
+fourth wheel 84 → escape pinion 7;
+escape wheel 20 teeth, turning once every 5 s.
+
+Motion works under the dial: cannon pinion 12 → minute wheel 36; minute pinion 10 → hour wheel 40 (12:1).
+Keyless works: crown, stem, crown wheel, ratchet wheel, click with spring.
+Escapement: escape wheel, pallet fork with two ruby pallet stones and banking pins, balance wheel with hairspring and impulse roller.
+Structure: mainplate, barrel bridge, train bridge, balance cock, ruby jewel bearings, blued screws.
+Gears: watch-style cycloidal tooth profiles, spoked wheel crossings, pinions with leaves, arbors and pivots. Centre distances are derived from a common module so every pair meshes visibly correctly when assembled.
+Motion, driven from ONE master clock:the balance oscillates as θ(t) = A·sin(2π·4·t), with amplitude A around 270° at full power;
+at each beat, the pallet fork flicks between its banking pins and the escape wheel advances half a tooth in a short eased impulse, then locks;
+every other wheel steps exactly by its ratio from the escape wheel;
+the seconds hand ticks 8 times per second; the minute and hour hands follow the train.
+On load, set the hands to the viewer's local time.
+
+Power: a power reserve of about 44 h that drains in real time.Amplitude falls from 290° to 180° as the reserve empties; at 0 the watch stops, the balance settling rather than freezing.
+Winding raises the reserve, with visible ratchet and click motion and a soft click sound (Web Audio, muted until the first user interaction).
+
+The mechanism keeps running in every exploded state: wheels spin in mid-air, the balance keeps beating, the seconds hand keeps ticking.
+THE EXPLODE (scroll-driven, with stops)
+Page scroll maps to a progress value from 0 to 1, split into seven chapters. Each chapter eases into a resting "stop" where scroll briefly settles (a soft snap, never a hard lock). The camera moves smoothly between chapters.
+Chapters:
+I. The case: front 3/4 view, assembled.
+II. The dial: the crystal and bezel lift away; the hands and dial rise.
+III. Motion works: the wheels under the dial separate.
+IV. The bridges: the watch turns over to show the back; the caseback lifts; the bridges and the balance cock rise, with their screws floating just above their holes.
+V. The going train: barrel, centre, third and fourth wheels spread upward along their own axes like a technical drawing.
+VI. The escapement: escape wheel, pallet fork and balance separate a little further, and the camera closes in.
+VII. The heart: a macro view of the beating balance and hairspring, with the full exploded column behind.
+Every part moves along a clear axis, mostly its own arbor axis or straight up from the plate. Parts that belong together stay together. Nothing intersects during the explode, and nothing leaves the frame.
+Thin hairline leader lines with small caps labels appear for the main parts at each stop, and fade between stops.
+INTERACTION
+Scroll (wheel, trackpad, touch swipe) drives the explode.
+Dragging on empty space turns the watch within limits; it eases back when released.
+Hovering a part outlines it softly with its name.
+Clicking a part:the part is highlighted, other parts dim to about 35%, and the camera eases to frame it;
+a card opens beside it, joined by a hairline leader. The card shows: name; role in one or two plain sentences; one precise fact (for example: "Escape wheel · 20 teeth · one turn every 5 s"); and one live value (current speed, angle, or beats so far).
+Esc, a close button, or clicking empty space returns.
+
+Dragging the crown sideways winds the watch (a tactile ratchet), when the crown is visible.
+Pointer capture, mouse and touch. Picking by an object-ID render pass or exact ray tests; no approximate bounding spheres.
+RENDERING (real metals, macro-photography feel — not a cartoon)
+Physically based materials, with a procedural studio environment (large softboxes, a strip light and a dim warm fill) for reflections.
+Finishes:Côtes de Genève stripes on the bridges (anisotropic brushed specular aligned to the stripes);
+perlage (circular graining) on the mainplate;
+mirror-polished bevels (anglage) catching bright edge highlights;
+thin-film heat-blued screws and hands;
+ruby jewels that are translucent red with internal sparkle;
+rhodium-plated steel parts;
+sapphire crystals with faint blue-violet reflections and a slight edge thickness.
+
+Case in the selected gold.
+Highlights: controlled bloom on specular highlights only; small star glints on jewels and polished edges that appear as the light or the watch moves. Glamour, not glitter.
+Soft contact shadows, gentle ambient occlusion, subtle depth of field that follows the focused part.
+Filmic tonemap with no clipped highlights; 4x MSAA or equivalent.
+Background: pale porcelain white with a soft vignette, like a seamless photo studio. Not yellow, not cream.
+UI (aristocratic, editorial, generous whitespace)
+Fonts: "Bodoni Moda" for display and numerals, "Jost" for UI text (Google Fonts, with serif and sans fallbacks). Small caps labels with 0.16em tracking; tabular numerals.
+Colours:ink #1B1A17 on the porcelain background;
+hairlines 1px at 15% ink;
+the accent follows the selected gold.
+
+No gradients on UI elements, no heavy shadows, no emoji.
+Top-left:kicker "OBJECTS, OPENED / NO. 01";
+large Bodoni heading on two lines, "Time," / "Undone.";
+three caption lines in Bodoni italic: "Wound by hand." "Opened by scroll." "Nothing is hidden."
+
+Top-right: status "WEBGPU · LIVE" with a small dot.
+Left edge, vertically centred: the chapter index "I. The case", "II. The dial", "III. Motion works", "IV. The bridges", "V. The going train", "VI. The escapement", "VII. The heart".The current chapter is highlighted, with a hairline progress rule; clicking a chapter scrolls to it.
+
+Right panel "THE MOVEMENT":three case presets: White gold, Yellow gold, Rose gold, with small metal swatches;
+live readouts: Beat rate "28,800 vph", Power reserve (h, with a thin bar), Amplitude (°), Beats since opened;
+buttons "Wind the crown" and "Set to local time";
+checkboxes "¼ speed" and "Trace the power". Trace the power makes a slow line of light flow along the energy path: mainspring → barrel → centre → third → fourth → escape wheel → pallet fork → balance, with each part glowing as it passes;
+a Pause/Resume button.
+
+Bottom-left hint: "Scroll to take it apart. Click any part to meet it. Drag to turn it."
+Bottom-right: a collapsible "How it works", with a short, accurate explanation of the going train, the escapement, the balance and the power reserve, plus a short note on how this page renders it.
+Mobile: the canvas fills the top about 65% of the screen, and the chapter index becomes a horizontal row of Roman numerals. The panel flows below; part cards become a bottom sheet. Nothing covers the watch.
+ENGINEERING
+Build all geometry once at start-up. Instance repeated parts (screws, jewels, teeth where useful). Update only transforms per frame; no shader compilation or buffer rebuilds during interaction.
+Animation time comes from one clock with ¼-speed scaling. Pause freezes the mechanism, not the UI.
+Respect prefers-reduced-motion: instant chapter transitions, no camera flights, no glints animation.
+If WebGPU is unavailable, show a clear, well-designed explanation. No fake fallback renderer.
+Handle device loss. Cap the pixel ratio at 2. Aim for 60 fps on a laptop and a smooth experience on a recent phone.
+VALIDATE BEFORE DELIVERING
+In code, assert the train ratios: the seconds hand turns once per 60 s, the minute hand once per 3600 s, the hour hand once per 12 h, the escape wheel once per 5 s. Log the check to the console.
+Every meshing pair is at the correct centre distance and visibly meshed when assembled.
+No part intersects another at any explode progress; no z-fighting.
+Scroll stops, chapter jumps, part picking, cards, winding, presets, trace-the-power, pause, ¼ speed and the mobile layout all work.
+Card texts are horologically accurate.
+No console errors.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2105009377002299711) · [查看原帖](https://x.com/theparuchh/status/2105009470292013286) · [返回案例导航](#latest)
+
+---
 
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
@@ -2188,779 +3070,8 @@ make a dynamic 20-second motion graphics and animation video that shows what an 
 
 ---
 
-<a id="gpt-6-astra-2103351755971207251"></a>
 
-### 黄金时刻的罗马战场场景
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103351755971207251"><img src="assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="黄金时刻的罗马战场场景"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
-
-<details>
-<summary>提示词</summary>
-
-```text
-任务
-在 Blender 中根据提供的概念图，制作一个黄金时刻的罗马战场场景。允许使用生成工具。你可以使用可用的生成工具为环境及其组成部分生成 3D 模型（Tripo，位于 https://t.co/JV0K8OtuWC)），然后进行组装。最终所有内容必须构成一个统一的场景：比例匹配、材质一致、灯光统一。要求：为地面使用凹凸贴图，并确保地面细节丰富。
-在地面上创建一片圆形空地，并在周围摆放大型巨石，形成 1v1 竞技场。
-以写实效果渲染全部内容。
-尽可能使用程序化方式创建资产。
-创建黄金时刻天空的天空盒。
-使用强烈阴影。
-复用物体（旗帜、横幅、头盔、岩石等）。为每个物体导出一个 GLB，并复用这些资产。
-尽可能准确、贴近地匹配提供的图像。
-延时视频要求
-制作过程中，每完成一项有意义的新增内容（按顺序记录每个新物体、修改器处理、材质步骤和灯光步骤），就将视口截图保存到编号的 timelapse/ 文件夹中。完成全部工作后，以 2 fps（每帧 0.5 秒）将这些帧合成为延时视频，以便从头到尾观看完整的制作过程。将延时视频与主要文件一同交付。
-DELIVERABLES
-交付 .blend 文件，并设置好相机和视口，使画面与原始图像完全一致。
-制作过程延时视频。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-THE TASK
-Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
-Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
-Render everything realistically.
-Create assets procedurally where possible.
-Create a skybox for golden-hour sky.
-Use harsh shadows.
-Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
-Match the supplied image as closely and accurately as possible.
-TIMELAPSE REQUIREMENT
-While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
-DELIVERABLES
-The .blend file, with camera and viewport set so the view exactly matches the original image.
-The build timelapse video.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103351755971207251) · [查看原帖](https://x.com/tonysurix/status/2103352274269675532) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2103308083242082314"></a>
-
-### STILLWATER — 月夜沼泽浏览器体验
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103308083242082314"><img src="assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — 月夜沼泽浏览器体验"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-使用 Three.js 构建一个名为 STILLWATER 的浏览器体验。基调：一片让人迷失其中的月夜沼泽。不要做成有敌人的游戏，也不要做成虚幻引擎式的照片级写实作品。打造一个安静、精致而昂贵感十足的网页世界，让水面倒影成为绝对主角。让人盯着水面看上很久，甚至久到有些不太健康。  场景设置 - 地点标题：深沼泽 - HUD 时间：19:26 - 第一个地点名称：苍鹭湾 - 地名下方的标语：“给荒野留一点余地。” - 抵达时显示的发现提示：“已发现：苍鹭湾”  世界：月升时分／暮色将尽的洪水柏树沼泽。 - 高大、膝状根节突出的树木伫立在黑绿色水面中 - 西班牙苔藓成缕垂挂 - 睡莲叶沿岸成簇分布 - 狭窄蜿蜒的水道汇入更宽的弯道 - 浓厚的体积雾，远处呈青绿色，天空是紫粉色的云层 - 明亮的月亮在水面投下绵延、断续的倒影 - 几只飞鸟掠过天空 - 小艇温暖的舱内灯光穿透幽暗  水面（不要敷衍）这是整个体验的核心。 - 实时反射树木、月亮、雾气和船灯 - 轻柔的涌动，不要做成海浪 - 睡莲叶贴在水面上并随波轻轻摇摆 - 岸线泡沫／树根附近的深色单宁水 - 使用屏幕空间反射或平面反射，确保月光倒影具有电影感 - 保持 60fps。对树木使用 LOD，对植被使用实例化。  小艇：一艘小型、饱经风霜的带舱小艇／工作船。 - 船尾编号 86 - 白色船舱、深蓝色船身、温暖的内部灯光 - 沿水道闲适漂流，可选缓慢引导游览 - HUD 速度约为 15.9 节 - 模式标签：引导漂流 玩家可以环顾四周。小艇可以采用电影感的追逐视角或侧方环绕视角进行跟拍。  摄像机 - 从树丛中以四分之三视角开始，看到小艇 - 漂到船尾后方，沿着月光照亮的水道前进 - 偶尔从前景树干旁侧滑经过 - 拖拽查看 - 可选摄影模式 要有自然纪录片的感觉，而不是第一人称射击游戏。  UI——有编辑感，不要像游戏界面 左上：小型标记 + STILLWATER 顶部居中：深沼泽／19:26，以及罗盘朝向（例如 314°） 右上：低调的功能图标 左下：   探索 STILLWATER   苍鹭湾   给荒野留一点余地。   15.9 节    引导漂流 右下：摄影模式、fps、暂停 底部居中：小型提示“已发现：苍鹭湾” 小型提示栏：着色器／水面／拖拽查看／照片／野生动物  画面风格：深沉的电影感调色，低饱和绿色，品红色云层，以及一处月光高光。重视审美，不必追求写实。不要堆满调试 GUI。  技术：在浏览器中使用 Three.js。程序化／实例化自然环境。自定义水面着色器。雾效。柔和阴影或仿佛烘焙出的暮色光照。如果可以自行制作，就不要使用资源商店里的沼泽素材包。  不要加入战斗、物品栏、惊吓桥段或寻宝任务。之后可以让某种东西潜伏在水下——但现在不要。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103308083242082314) · [查看原帖](https://x.com/YouWareAI/status/2103310302993621090) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103303303358534021"></a>
-
-### 交互式 3D 海上火箭发射序列
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="交互式 3D 海上火箭发射序列"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-创建一个电影感十足、细节丰富且可交互的 3D 火箭发射场景：黎明时分，火箭从海上平台升空。将完整项目交付为一个可直接在 Chrome 中打开的 HTML 文件。使用 Three.js + WebGL 和程序化生成的资产。可行时将资产嵌入文件；渲染库可以使用稳定的 CDN。
-
-艺术指导
-营造从日出前深邃的蓝紫色海面，到大气层上方温暖阳光下的戏剧性转场。使用可信的比例、细致的材质、具有大气纵深的效果，以及经过精心构图的镜头角度。最终效果应如同一部经过精心打磨的微型航天电影。
-火箭与发射平台
-制作一枚可信的多级火箭，包括造型明确的锥形头部、面板接缝、结构环、级间连接、发动机喷口，以及可分成两半的有效载荷整流罩。
-
-创建一个细节丰富的浮式发射平台，配备支撑塔、可收回的固定架、服务臂、栏杆、梯子、管道、设备、泛光灯和闪烁的警示灯。确保所有结构在物理上相互连接，位置关系正确。
-发射序列
-创建一个约 46 秒的序列：
-
-镜头环绕平台进行开场展示。
-
-服务臂和固定架收回。
-发动机点火，照亮火箭、平台及附近海面。
-火箭升空并加速时，烟雾在甲板上扩散。
-镜头跟随火箭从大气层向太空爬升。
-第一级分离并坠落。
-第二级发动机点火。
-整流罩分成两半并分离，露出卫星。
-发动机关闭，卫星释放，太阳能板展开。
-最后以卫星在轨道上的画面收尾，背景为弧形地球地平线与日出。
-为展示效果压缩飞行时间线，同时保持运动连贯。避免位置突然变化、部件相互穿插或特效彼此脱离。
-海洋、大气与特效
-使用由动画着色器驱动的海浪，加入菲涅耳反射和温暖的发动机灯光反射。制作分层尾焰，包括明亮核心、较柔和的外围火焰和飘散的烟雾粒子。
-烟雾应扩散、淡出，并对风产生响应。分级过程中，尾焰必须始终连接到正确的发动机。平滑地从大气薄雾过渡到深色星空和被阳光照亮的地球边缘。
-
-镜头与交互
-使用平滑的电影感镜头转场：广角开场镜头、低角度点火镜头、上升跟拍、级间分离，以及卫星特写。确保主体在竖屏和横屏布局中都清晰可见。
-
-加入播放/暂停、重播，以及带事件标记的时间轴拖动条。跳转时必须重建正确的火箭配置、粒子状态、镜头位置和灯光状态。重播时必须彻底、干净地重置整个序列。
-保持界面简洁、不喧宾夺主，并允许在录制时将其隐藏。
-
-技术质量
-使用与帧率无关的动画和高效的粒子系统。在适当情况下复用几何体和材质，正确处理窗口尺寸变化，并在视觉细节与流畅性能之间取得平衡。
-
-在桌面浏览器中测试最终 HTML。检查控制台，并分别截取点火、升空、级间分离和卫星部署时的画面。在交付文件前，修复加载错误、裁剪问题、几何体问题、时间轴跳转故障和糟糕的镜头构图。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
-
-ART DIRECTION
-Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
-ROCKET AND LAUNCH PLATFORM
-Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
-
-Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
-LAUNCH SEQUENCE
-Create an approximately 46-second sequence:
-
-Establishing camera move around the platform.
-
-Service arms and strongback retract.
-Engines ignite, illuminating the rocket, platform, and nearby water.
-Smoke spreads across the deck as the rocket lifts off and accelerates.
-The camera follows the climb from the atmosphere toward space.
-The first stage separates and falls away.
-The second-stage engine ignites.
-The fairing halves separate, revealing a satellite.
-The engine shuts down, the satellite deploys, and its solar panels unfold.
-Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
-Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
-OCEAN, ATMOSPHERE, AND EFFECTS
-Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
-Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
-
-CAMERA AND INTERACTION
-Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
-
-Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
-Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
-
-TECHNICAL QUALITY
-Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
-
-Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103303303358534021) · [查看原帖](https://x.com/Artless101/status/2103303449831964679) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103257687492374597"></a>
-
-### Claude Opus 5.5 的互动中世纪王国
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Claude Opus 5.5 的互动中世纪王国"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-打造属于你自己的中世纪王国。
-你的王国代表 Claude Opus 5.5。设计一座宏伟且富有历史感的城堡，通过建筑风格、纹章、色彩与氛围展现该模型的特质。在可信的中世纪环境中，你拥有完整的艺术创作自由。
-不要只是在普通城堡上放置一个徽标。赋予你的王国鲜明的建筑风格和统一的视觉识别。为它设计独特的盾徽、王室色彩和原创纹章图案，并将这些元素展示在动态飘动的旗帜、盾牌、城门装饰以及城堡卫兵的服装上。在主入口上方展示王国名称。
-使用 Three.js 和 WebGL 创建细节丰富、可交互的 3D 场景。将所有内容放在一个可直接用 Chrome 打开的独立 HTML 文件中。
-城堡
-打造一座令人信服的要塞，包含中央主堡、塔楼、雉堞、城墙、气势恢宏的门楼、可正常运作的吊桥和庭院。
-细致制作石砌结构、拱形窗、木门、屋顶结构、楼梯、阳台、铁制构件和各种小型建筑细节。让建筑结构符合真实逻辑：塔楼需要有内部空间或足够可信的纵深，楼梯必须连接可进入的楼层，桥梁必须具备合理的支撑结构。
-用适合你王国的优美景观环绕城堡，例如悬崖、丘陵、河流、护城河、森林或小村庄。从多个角度观看时，都要保持出色的构图和美感。
-生机与互动
-让王国充满生机：卫兵沿城墙巡逻，村民穿行于庭院，旗帜轻轻飘动，烟囱升起烟雾，鸟儿飞过，灯笼明暗闪烁。
-让观众能够：
-打开和关闭吊桥及主城门。
-跟随一名巡逻卫兵。
-在电影感总览、庭院和城垛视角之间切换。
-自由旋转和缩放视角。
-在白天、日落和夜晚之间切换。
-让角色始终处于可行走的表面上。防止角色穿过墙壁、门或彼此。
-灯光与氛围
-打造能够清晰展现建筑结构的电影感灯光。使用柔和阴影、富有氛围感的景深、可信的水体效果（适用时）以及克制的后期处理。
-夜间点亮窗户、火炬和灯笼，同时保留足够的可见度，让观众能够欣赏城堡。
-以制作精良、完成度高的 3D 艺术作品为目标，展现独特的建筑风格和丰富细节。避免使用一堆显眼的基础几何体，也不要堆砌缺乏建筑功能的重复塔楼。
-技术质量
-在可行的情况下尽量程序化生成资源。将纹理和其他资源嵌入 HTML 文件中。不应需要本地服务器或构建步骤。
-在适当情况下使用实例化和几何体批处理。确保动画和摄像机交互流畅。提供简洁、优雅的英文界面，并加入隐藏界面的按钮。
-务必在桌面版 Chrome 中实际测试结果。截取屏幕截图、检查控制台、测试每一项交互，并修复渲染错误、悬浮物体、几何体穿插和摄像机问题。
-让这座城堡在观众读到名称之前，就能被认出是“你的”王国。
-返回完成后的独立 HTML 文件。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build your own medieval kingdom.
-Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
-Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
-Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
-THE CASTLE
-Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
-Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
-Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
-LIFE AND INTERACTION
-Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
-Let the viewer:
-Open and close the drawbridge and main gate.
-Follow a guard on patrol.
-Switch between a cinematic overview, the courtyard and the battlements.
-Rotate and zoom freely.
-Change between daylight, sunset and night.
-Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
-LIGHTING AND ATMOSPHERE
-Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
-At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
-Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
-TECHNICAL QUALITY
-Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
-Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
-Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
-Make this a castle people would recognize as YOUR kingdom, even before reading its name.
-Return the completed standalone HTML file.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103257687492374597) · [查看原帖](https://x.com/vib3coded/status/2103257873203462412) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2103211135214256350"></a>
-
-### 雾霭秋日可探索 Three.js 体验
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103211135214256350"><img src="assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="雾霭秋日可探索 Three.js 体验"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-请创建一个雾霭、雨天、秋日般的神秘怀旧体验，使用 Three.js 构建为可探索场景，并整合在单个 HTML/CSS/JS 文件中。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103211135214256350) · [查看原帖](https://x.com/SimonasLTU1/status/2103211135214256350) · [返回案例导航](#latest)
-
----
-
-<a id="gpt-6-astra-2103187935759655167"></a>
-
-### 北行：互动维京长船之旅
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103187935759655167"><img src="assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="北行：互动维京长船之旅"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-创建“北行”——乘坐一艘细节丰富的维京长船，开启穿越北欧峡湾的精美互动 3D 旅程。
-
-使用 Three.js 和 WebGL 构建真正的实时场景，并以单个独立 HTML 文件交付。这必须是可在浏览器中探索的体验，而不是预渲染视频或平面插画。
-
-视觉方向
-
-打造精致、具有电影感的环境，使用逼真的材质、自然的比例和克制的配色。避免卡通风格或低多边形外观。
-
-一艘木制长船穿行于深绿与蓝色交织的水面，在高耸的悬崖、茂密的森林、瀑布和小型北欧聚落之间航行。使用大气透视、细微薄雾、柔和阴影和可信的景深效果。在整个旅程中持续构图出优美景观，而不只是设计初始镜头位置的画面。
-
-长船
-
-制作细节丰富且不漏水的船体，包含相互搭接的木板、清晰可见的木纹、肋骨、长凳和连续的内部结构。
-添加雕刻龙首、条纹布帆、桅杆、绳索、盾牌、补给品和温暖的灯笼。
-加入比例合理的维京乘客和桨手，为他们设计层次丰富的服装、可信的坐姿，以及靠近船桨的手部位置。
-确保每个部件都与船体实体连接。不得出现悬浮的乘客、相互穿插的配件，或能从船体看见的缝隙。
-制作细微的浮力、俯仰和横摇动画。船帆应随风轻柔摆动。
-
-水面与划桨
-
-让水面成为核心视觉元素。
-
-使用自定义着色器，实现平面反射、折射、菲涅耳高光、随深度变化的吸收效果、清晰可见的浅水区域和分层表面波纹。反射必须正确响应移动中的摄像机和不断变化的光照。
-
-在船后制作可信的航迹。
-
-制作完整的划桨循环动画：桨叶入水、向后划动、抬出水面，再回到水面上方。让这一过程与桨手的动作保持协调。
-
-在桨叶实际接触水面的位置生成波纹、泡沫和细小水滴。水痕必须保留在世界空间中，并逐渐消散。避免桨叶悬空时出现这些效果。
-
-环境与材质
-
-使用细节丰富的地形、不规则岩层、自然的树木轮廓、分叉树干，以及独立的叶簇或针叶簇。
-
-为木材、石头和地面使用带法线贴图与粗糙度贴图的 PBR 材质。可以嵌入许可适当的纹理；如有要求，请注明来源。
-
-确保水下地形在水面下方连续延伸。不得出现明亮接缝、岸线缺口、悬浮植被，或阻挡可航行路线的树木。
-
-CONTROLS
-
-A/D 或方向键：向左、向右转向。
-W/S：调节速度。
-鼠标拖拽：环顾四周。
-提供跟随、环绕和电影感镜头模式。
-加入可选的自动航行模式。
-添加暂停、重置、全屏和隐藏界面控件。
-在移动设备上支持触控转向和速度控制。
-防止船只穿过陆地和岩石。
-
-氛围与界面
-
-提供三种可平滑过渡的光照预设：清晨、阴天和月光。
-
-加入可选的环境水声、风声、鸟鸣和划桨声。音频只能在用户交互后开始播放。
-
-设计简约的编辑风格界面：使用优雅的衬线字体显示“Northbound.”，搭配低调的章节标签和紧凑的半透明控制栏。避免遮挡景色。
-
-性能与交付
-
-使用实例化、合理的几何体预算、基于距离的细节层级，以及尺寸适当的反射目标。根据设备调整渲染质量，而不是承诺固定帧率。
-
-交付一个包含内嵌脚本和所需资源的 HTML 文件，使其能够直接在现代浏览器中打开。
-
-测试转向、镜头模式、光照过渡和划桨效果。从多个角度检查船只，并从较低视角检查岸线。在认为场景完成前，修复几何体穿插、反射瑕疵、过度眩光和控制台错误。
-
-优先确保水面效果可信、长船构造精美、环境协调统一，而不是一味增加更多物体。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
-
-Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
-
-VISUAL DIRECTION
-
-Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
-
-A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
-
-THE LONGSHIP
-
-Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
-Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
-Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
-Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
-Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
-
-WATER AND ROWING
-
-Make the water a central visual feature.
-
-Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
-
-Create a believable wake behind the ship.
-
-Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
-
-Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
-
-ENVIRONMENT AND MATERIALS
-
-Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
-
-Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
-
-Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
-
-CONTROLS
-
-A/D or arrow keys: steer left and right.
-W/S: adjust speed.
-Mouse drag: look around.
-Provide follow, orbit, and cinematic camera modes.
-Include an optional automatic journey mode.
-Add pause, reset, fullscreen, and hide-interface controls.
-Support touch steering and speed controls on mobile.
-Prevent the ship from passing through land and rocks.
-
-ATMOSPHERE AND INTERFACE
-
-Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
-
-Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
-
-Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
-
-PERFORMANCE AND DELIVERY
-
-Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
-
-Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
-
-Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
-
-Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2103187935759655167) · [查看原帖](https://x.com/vib3coded/status/2103189762672611675) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103145567945986461"></a>
-
-### 留白：充满彩色玻璃光线的大教堂短片
-
-[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="留白：充满彩色玻璃光线的大教堂短片"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-请使用 three.js 制作一部竖屏 1080×1920、30 帧/秒、时长约36秒的短片。
-
-【作品名】
-留白
-
-【希望呈现的体验】
-这是一部让观众在完全没有人物出现的情况下，切身感受到被效率化追赶、不断失去时间的压迫感，以及获得留白的瞬间，人生被丰沛光芒填满的感受的影像。最后，地面上铺满彩色玻璃映出的光影，目标是让观众不由得屏住呼吸。
-
-【场景】
-・昏暗的石造大教堂内部。正面墙上只有一扇高15米、宽10米的尖拱形窗户
-・强光从窗外以45度斜角射入，在石质地面上投下窗户形状的光影
-・窗户安装彩色玻璃，中央为圣母，两侧为展开双翼的两位天使，上方设有玫瑰窗。设计必须原创，不得仿制现有作品，并采用左右对称构图
-
-【时间结构】
-0～3秒：从窗户射入的光线仍是没有色彩的白光。地面上出现柔和的白色光影
-3～11秒：刻有“忙碌”“效率化”“紧急”“截止日期”等词语的灰色立方体，从房间前方接连飞来，逐渐填满窗户。飞来的速度不断加快，窗户被填得越满，房间就越暗
-11～14秒：窗户被完全堵住，只剩黑暗与寂静
-14～19秒：只有一个刻着“忙碌”的方块从窗户上脱落，坠下后化为光粒消失。一束鲜艳的彩色光线从空出的缺口射入
-19～26秒：以第一个缺口为中心，方块接连脱落。缺口每增加一个，彩色光柱也随之增多，被遮挡的彩色玻璃逐渐显露出来
-26～33秒：所有方块消失，镜头穿过光柱向上升起，从正上方俯视地面。整片地面上映出圣母与天使彩色玻璃般绚丽多彩的光影
-33～36秒：整个画面被耀眼的光芒包围，最后一句话浮现，随后安静地结束
-
-【文字（明朝体，低调地浮现后消失）】
-・“每天，再快一点。”
-・“再高效一点。”
-・“回过神时，光已经照不进来了。”
-・“试着放下一个吧。”
-・“光会从空出来的地方照进来。”
-・“那道光，比从前更加丰盈。”
-・最后大字显示：“丰盛，栖居于留白之中”
-
-【光线与质感】
-・光柱染上彩色玻璃对应区域的色彩，空中的尘埃闪闪发光
-・地面投影必须准确反映窗户当前打开的缺口（有方块的位置应呈现阴影）
-・方块采用没有质感的哑光灰色，文字以白色刻印其上
-・前半段使用冰冷的无彩色调，后半段使用宝石般的红、蓝、金色。通过色彩对比传达“变得更加丰盛”的感觉
-
-【技术条件】
-・将彩色玻璃图案生成为图像，并基于同一图案计算地面光影、光柱和窗户显示内容，确保三者一致
-・让时间以1/30秒为步进精确推进，逐帧导出并制作成MP4
-
-【收尾】
-请实际渲染并检查每个场景，确认彩色玻璃图案投射到地面后仍能辨认出圣母与天使、文字清晰可读、动作衔接不突兀，修正后再交付。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
-
-【作品名】
-余白
-
-【見せたい体験】
-効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
-
-【舞台】
-・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
-・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
-・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
-
-【時間の構成】
-0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
-3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
-11〜14秒：窓は完全にふさがれ、闇と静寂
-14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
-19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
-26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
-33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
-
-【言葉（明朝体、控えめに浮かんでは消える）】
-・「毎日、もっと速く。」
-・「もっと、効率よく。」
-・「気づけば、光が入らなくなっていた。」
-・「ひとつ、手放してみる。」
-・「空いたところから、光が入る。」
-・「その光は、前より豊かだった。」
-・最後に大きく：「豊かさは余白に宿る」
-
-【光と質感】
-・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
-・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
-・ブロックは無機質なマットグレー。言葉は白く刻印されている
-・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
-
-【技術条件】
-・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
-・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
-
-【仕上げ】
-各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103145567945986461) · [查看原帖](https://x.com/AGIOyaZ/status/2103145567945986461) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103144530157687114"></a>
-
-### Genshin Impact 风格的旧金山背景游戏
-
-[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Genshin Impact 风格的旧金山背景游戏"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-构建一款以旧金山为背景的 Genshin Impact 风格游戏。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build a Genshin Impact–style game set in San Francisco.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103144530157687114) · [查看原帖](https://x.com/every/status/2103144530157687114) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103116235009347650"></a>
-
-### 电影化呈现：奥斯特里茨战役
-
-[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="电影化呈现：奥斯特里茨战役"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
-
-<details>
-<summary>提示词</summary>
-
-```text
-制作一部关于 1805 年奥斯特里茨战役、时长 4–5 分钟的电影化视频，完全通过代码生成。
-
-深入研究这场战役，自行决定如何讲述故事、安排节奏、解释战略并呈现事件。我希望作品符合史实、充满戏剧性、易于理解，并在视觉上出类拔萃。
-
-将所附画作作为视觉灵感，而不是必须遵循的严格风格。我很喜欢其中的规模感、氛围、烟雾、戏剧化天空、骑兵、密集军阵、地景以及混乱感。设法将这种感受转化为代码中的视觉效果——但如果你能创造出更出色的视觉语言，就放手去做。
-
-不要让它看起来像普通的信息图或策略游戏。它应该是一部电影化的历史影片，只是恰好通过代码渲染完成。
-
-创作方向完全由你掌控。给我一个惊喜。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
-
-Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
-
-Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
-
-Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
-
-You have complete creative control. Surprise me.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103116235009347650) · [查看原帖](https://x.com/WinterArc2125/status/2103116689944502720) · [项目源码](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103106070549757960"></a>
-
-### 使用 Three.js 构建埃菲尔铁塔
-
-[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="使用 Three.js 构建埃菲尔铁塔"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-使用 Three.js 构建埃菲尔铁塔。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-build the Eiffel Tower in Three.js.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103106070549757960) · [查看原帖](https://x.com/0xPascual/status/2103106070549757960) · [返回案例导航](#latest)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### 疯狂坦克——3D 岛屿炮战
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/crazy-tanks-3d-island-artillery"><img src="assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="疯狂坦克——3D 岛屿炮战"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-1. 项目目标
-构建《疯狂坦克——狂野潮汐》：一款可玩的、真正立体的热带岛屿回合制炮战游戏。玩家操控一辆小型坦克，瞄准、判断风向，从零开始控制蓄力，并用炮弹重塑战场。支持单人对战 AI 和本地轮流游玩，默认提供三辆坦克混战，并可选两辆坦克决斗。最后存活的坦克获胜。以当前参考玩法和截图作为视觉目标。
-
-2. 视觉风格
-使用透视相机和可自由环绕的 3D 几何体，不要使用扁平精灵或固定侧视角。打造阳光明媚的微缩景观：圆润的玉绿色、珊瑚橙和蓝紫色坦克，奶油色沙地，浅绿色草地，具有反射效果的青绿色水面，柔和阴影，以及淡淡的远景大气雾。保留三辆坦克各自鲜明的轮廓和匹配的炮管。在战场上方放置紧凑的奶油色圆形/装甲状态面板，下方放置深青绿色圆角控制面板。金色表示参考威力和开火操作；薄荷绿表示实际蓄力值和友方状态。将 Tripo / Three.js 外观切换开关醒目地置于顶部，默认使用 Tripo 资产。切换外观时必须保留对局和物理状态。使用细窄、间距均匀的青绿色屏幕空间短划线，以及克制的落点圆圈；瞄准图形不得映射到水面上。
-
-3. 世界与场景
-使用一座约 260 × 184 米、可破坏高度场岛屿，四周环绕固定海平面的海洋。将初始坦克分散放置在相距较远的稳定地面上，并布置岩石、棕榈树、仙人掌和可收集的补给箱。较小的装饰岛屿用于增强背景纵深，不得替代可破坏的主地形。爆炸会使地表变形，并可挖掘至海平面以下。将岸线颜色和泡沫放在同一水面上，避免平面重叠和闪烁。每个渲染帧都根据世界坐标投射坦克编号。提供完整弹道、坦克、环绕和战术俯视视角。弹道视角必须将开火坦克、弹道弧线和预计落点完整放入 HUD 与控制面板之间的空间。每次射击前，显示开火坦克约 0.8 秒，在炮口处短暂停留，然后跟随炮弹。手动操作相机会取消电影式跟随。
-
-4. 资产清单
-使用稳定的模型槽位，并确保替换模型可单独寻址：
-- jade-body：圆润的绿色盾牌形履带式车体；玩家默认车体。jade-cannon：匹配的玉绿色炮管，带深色炮膛和金色装饰，可独立进行骨骼/部件旋转。
-- ember-body：珊瑚橙色尖头装甲车体，机械结构低矮。ember-cannon：与之匹配的较长橙色炮管和深色炮口。
-- bolt-body：蓝紫色工业风履带式车体，带棱角分明的装甲板。bolt-cannon：匹配的粗壮蓝色炮管。
-- shell：黄铜色炮弹，带深色锥形弹头和青色装饰。根据武器类型复用，并调整颜色和尺寸。
-- crate：黄色装甲补给箱，带青色标记和加固边角；收集后恢复 20 点装甲，最高不超过 100。
-- rock：暖色圆润砂岩簇；以不同尺寸重复使用，并使用独立的碰撞代理。
-- palm：弯曲树干和层叠的绿色棕榈叶；作为岛屿植被重复使用。
-- cactus：带小型花朵细节的紧凑型绿色仙人掌；在干燥地形上重复使用。
-- islet：圆润的背景草地小岛，边缘为浅色岩石/沙地；在竞技场之外重复布置。
-优先制作三组匹配的车体/炮管，其次是炮弹/补给箱和环境道具。地形变形、海洋、泡沫、火焰、烟雾、冲击波、碎片、瞄准图形、光照、UI 和碰撞代理均使用程序化方案。匹配的车体和炮管部件共享同一设计参考和比例。将炮管枢轴放在机械连接处，使其前向轴对齐 +X，并将可见炮口作为实际发射点。坦克车体使用四元数贴合坡面；炮塔瞄准保持为世界空间方向。保留源 PBR 纹理和 UV 接缝。将全分辨率可下载模型与优化后的游戏运行时副本分开；参考资料和文件来源信息必须标明实际生成来源。
-
-5. 玩法与反馈
-每辆存活的坦克在回合开始时获得 18 米移动距离。WASD 和移动方向键盘相对于屏幕方向移动；方向键和瞄准方向键盘调整方位角与俯仰角。滑块用于设置方位角、10–80 度的俯仰角以及 0–100 的参考威力。选择对手只会让炮塔朝向对方，不得替玩家计算射击方案。
-青绿色弧线在无风条件下估算所选参考威力。蓄力期间保持该参考值及其金色标记固定不变。按住 Fire、空格键或聚焦后的 Fire 按钮上的 Enter 键，每次都从 0 开始进行实际蓄力；每秒增加 18 个百分点，达到 100 后保持不变，并在松开时严格按照当刻的实际威力开火一次。快速轻触会发射低威力炮弹。参考值上下 3 个百分点以内的金色区域仅用于视觉反馈，不得吸附或进行隐藏修正。指针取消、窗口失焦或页面不可见时取消蓄力。蓄力期间锁定移动、目标和瞄准变更。范围输入控件的键盘操作不得同时转动炮塔。零威力代表最低发射速度，而不是静止的炮弹。
-箭头和可见的漂移风线表示风推动炮弹的方向。标注风力和米/秒数值；点击风力卡片可查看说明。向左吹的风意味着玩家应略微向右瞄准。风力越强、滞空时间越长，漂移越明显。一次射击过程中风向和风力保持不变，每回合更换。绝不得自动修正玩家预览。大致预测炮弹落在地形上的位置；预览中不要承诺坦克/岩石碰撞、子弹簇分裂或反弹结果。
-提供六种弹药：无限高爆弹；分裂为五枚下坠子弹的集束弹；地震弹，可造成最大直径 28 米、深度 13 米的弹坑；可反弹两次的反弹弹；每辆坦克每局一枚的灾变弹，可造成最大直径 46 米、深度 22 米的弹坑；以及留下半径 12 米火焰区域的燃烧弹。火焰区域在六个行动结束时各造成 8 点伤害；离开区域即可避免伤害，重叠区域不会叠加。海水会熄灭火焰。整辆坦克（包括抬起的炮管）完全没入水下时立即被淘汰。显示实际伤害、装甲损失、地形塌陷、水花和淘汰结果。
-使用分层火球、扩张的冲击环、发光火花、弹道碎片、尘土和烟雾，并搭配克制的镜头震动。使用提供的 ElevenLabs 原创音乐，以及炮声、撞击声、反弹声、重爆炸声、火焰声和水花声。包含声音开关、暂停/继续、说明、重玩和返回菜单功能。在炮弹飞行或 AI 回合期间，提供“回到我的回合”：快速运行相同的定步长模拟，并保留所有伤害、地形和危险区域结果。绝不得跳过本地好友的输入回合。
-
-6. 技术实现
-使用 Three.js、ES modules 和 Vite，使用本地打包字体、Web Audio 处理音效，并使用 HTML audio 元素循环播放音乐。资源保持同源，并支持静态构建。使用带抗锯齿的透视渲染器，合理控制阴影和后处理开销，并正确释放临时几何体/材质。区分模型装饰与游戏碰撞体。
-保持物理模拟独立于渲染，并使用米/秒单位、9.81 m/s² 重力和 1/120 秒固定步长。针对高速炮弹与地面、水面、坦克和岩石的碰撞，使用连续扫掠碰撞；对被冲击波推动的坦克施加爆炸冲量和重力。根据实际坦克专属炮管变换计算发射位置。正常播放和快进必须调用相同的模拟更新。伤害和风力响应属于风格化游戏规则，而非工程级爆炸模拟器。
-支持中文、英文、日文和韩文 UI。首次启动时根据设备语言选择；香港、澳门、台湾及使用繁体中文的设备默认使用英文。记住用户的明确选择，并提供可见的语言选择器。适配桌面端、竖屏手机和短横屏布局；短屏菜单可滚动，触控目标尺寸舒适，面板可折叠，控件不得重叠。触控设备不得要求键盘输入。开发专用的状态修改和瞄准辅助代码不得进入生产环境。
-
-7. 完成标准
-交付可编辑的独立源项目、lockfile、npm 开发/构建说明和可运行的静态预览。匹配当前截图和游戏视频，包括奶油色状态面板、固定的金色参考标记、从零开始的实时蓄力，以及完整的 3D 坦克/岛屿呈现。验证首次启动、模型加载、完整回合循环、每种弹药的行为、暂停、重玩和真实的胜负结果。确认切换外观会保留状态，键盘/触控取消操作不会误触发开火。在明确的无风测试射击中，以参考威力松开后，炮弹应落在参考圆圈附近；相反方向的侧风必须明显改变实际炮弹的位置，同时保持该圆圈不变。检查 30/60/144 Hz 下的表现、高速碰撞、深弹坑、火焰消退、完全浸没淘汰，以及正常/快进回合结果是否一致。检查四种语言下的桌面端和窄屏布局；将浏览器模拟与实体设备测试分别记录。验证托管页面和关联媒体，而不仅是本地构建。
-
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/crazy-tanks-3d-island-artillery) · [在线演示](https://super-tanks-aftershock.tripo.page/) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2103087766662009118"></a>
-
-### Grid Genius 的皮克斯级 Three.js 动画
-
-[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius 的皮克斯级 Three.js 动画"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-我希望你构思一个能够巧妙推广 Grid Genius 的故事。故事甚至可以完全不出现 Grid Genius，但需要与我们的应用理念一致，并且发布到社交媒体后能帮助我们获得更多关注。然后，请使用 Three.js/JavaScript，根据你构思的故事制作一部完整的动画，达到皮克斯级别的质量。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103087766662009118) · [查看原帖](https://x.com/Anilraok/status/2103087766662009118) · [返回案例导航](#latest)
-
----
-
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 476 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 488 条案例与在线演示 →</a></strong></p>
 
 ## 给你的作品补上角色和道具
 

@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (26)</summary>
+<summary>Khám phá ví dụ (38)</summary>
 
+- [Prompt phòng 3D quanh góc máy tính cho bản Three.js một tệp](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Prompt Claude Opus 5 cho cửa phi Euclid trong Unreal Engine 5](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [Prompt FPS đơn giản cho game Three.js](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [Prompt Claude Opus 5 cho FPS kiểu CS2 và Battlefield](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Prompt Claude Opus 5 dựng game bắn súng AAA](#aaa-shooter-game-2082180453889712318)
+- [Game cuộn ngang dark fantasy trong một tệp HTML](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
+- [Quy trình phát triển MMO 3D với Claude Opus 5](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [Tạo game Chrome Dino chơi được](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [Prompt Kimi K3 cho game trực thăng bắn súng chân thực](#realistic-helicopter-shooter-game-2081791572115435765)
+- [Prompt Kimi K3 cho game kiểu Subway Surfers](#subway-surfers-style-game-2081766198082220514)
+- [Prompt Claude Opus 5 cho FPS Three.js kiểu Counter-Strike](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [Prompt Claude Fable 5 cho máy giấy Three.js vô tận](#infinite-three-js-paper-machine-2081533777340506251)
 - [Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác](#interactive-3d-robotic-hand-simulation-2081475055536820506)
 - [Prompt thêm Vespa 125 vào bộ cấu hình 3D](#vespa-125-3d-configurator-2081439705506435440)
 - [Prompt mô phỏng bay 3D siêu chân thực](#ultra-realistic-3d-flight-simulator-2081403842256605254)
@@ -56,6 +68,294 @@
 - [Prompt Three.js cho trải nghiệm đi bên trong máy bay](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### Prompt phòng 3D quanh góc máy tính cho bản Three.js một tệp
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="Prompt phòng 3D quanh góc máy tính cho bản Three.js một tệp"></a>
+
+**Prompt**
+
+```text
+dựng phòng 3d khám phá được quanh góc làm việc máy tính, một tệp html độc lập, Three.js qua importmap, chỉ hình học thủ tục, không mesh, không texture ảnh, không chỉ định bố cục hay phong cách. “bạn là nhà thiết kế. hãy làm tôi bất ngờ”
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [Bài đăng gốc](https://x.com/thehypedotnews/status/2082451081733591520) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Prompt Claude Opus 5 cho cửa phi Euclid trong Unreal Engine 5
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 cho cửa phi Euclid trong Unreal Engine 5"></a>
+
+**Prompt**
+
+```text
+"Một cánh cửa đứng đơn độc trong khoảng không, không có gì xung quanh hay phía sau, mở vào một lớp học nằm ở nơi khác trong màn chơi. Đi thẳng qua cửa — không cắt cảnh, chuyển mờ, màn hình tải hay bất kỳ thứ gì tạo cảm giác dịch chuyển tức thời. Cửa phải hoạt động từ cả hai phía và ở mọi góc nhìn."
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [Bài đăng gốc](https://x.com/ombrageplays/status/2082436347113951333) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### Prompt FPS đơn giản cho game Three.js
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Prompt FPS đơn giản cho game Three.js"></a>
+
+**Prompt**
+
+```text
+Dựng cho tôi một FPS
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [Bài đăng gốc](https://x.com/codewithantonio/status/2082242351372599770) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### Prompt Claude Opus 5 cho FPS kiểu CS2 và Battlefield
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 cho FPS kiểu CS2 và Battlefield"></a>
+
+**Prompt**
+
+```text
+thử tạo game bắn súng góc nhìn thứ nhất kết hợp CS2 với Battlefield.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [Bài đăng gốc](https://x.com/AnatoliKopadze/status/2082241827298557966) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Prompt Claude Opus 5 dựng game bắn súng AAA
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 dựng game bắn súng AAA"></a>
+
+**Prompt**
+
+```text
+Gần đây game kiểu Call of Duty do Claude Opus 5 tạo lan truyền mạnh, tác giả nói chỉ dùng một prompt. Nhiều người nghi ngờ nên tác giả công khai mã và prompt.
+
+Ban đầu tôi nghĩ prompt rất phức tạp, nhưng hóa ra chỉ vài trăm từ. Điểm mấu chốt là vòng lặp.
+
+Đây là prompt:
+
+“Tôi muốn bạn phát triển game bắn súng góc nhìn thứ nhất đạt tầm Call of Duty mới nhất. Nó phải không tì vết, đồ họa tuyệt đẹp; từ texture đến hiệu ứng vật lý, mọi yếu tố bạn nghĩ ra đều phải đạt AAA.
+
+Tạo nhiều sub-agent, cho mỗi bên xử lý từng chi tiết riêng để game hoàn hảo. Bạn nên /loop từng dự án và để sub-agent độc lập kiểm tra hình ảnh, bảo đảm đạt chuẩn AAA. Sub-agent này phải cực kỳ nghiêm khắc; nếu chưa đạt, nó phải tiếp tục kiểm tra.
+
+Đừng dừng cho đến khi mọi sub-agent sau khi so với Call of Duty đều choáng ngợp trước chất lượng đồ họa. Nó phải có thể so hai game cạnh nhau mà thậm chí không nhìn hình ảnh và chỉ ra bản nào tốt hơn. Dùng ThreeJS để làm. /loop đến khi game hoàn hảo. Tạo nhiều sub-agent và dùng UltraCode để tối ưu.”
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/aaa-shooter-game-2082180453889712318) · [Bài đăng gốc](https://x.com/ziqinyuan/status/2082180453889712318) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### Game cuộn ngang dark fantasy trong một tệp HTML
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="Game cuộn ngang dark fantasy trong một tệp HTML"></a>
+
+**Prompt**
+
+```text
+Trong một tệp HTML, tạo game cuộn ngang dark fantasy chơi được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Bài đăng gốc](https://x.com/slash1sol/status/2082096376763060575) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### Quy trình phát triển MMO 3D với Claude Opus 5
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Quy trình phát triển MMO 3D với Claude Opus 5"></a>
+
+**Prompt**
+
+```text
+Gần như toàn bộ mã được viết bằng Claude Opus 5.
+
+Nhưng thứ giúp dự án tiến qua hàng nghìn vòng lặp không phải prompt thông minh. Đó là tổ chức dự án để AI tìm đúng thứ cần mà không đọc toàn bộ codebase.
+
+1. Đặt hướng dẫn cạnh mã, không gom thành một đống trung tâm
+   Mỗi thư mục có hướng dẫn riêng về quy trình thường gặp và các bẫy đã phát hiện. Hướng dẫn tự tải khi phiên làm việc bắt đầu trong thư mục đó. Làm quái vật không phải trả chi phí ngữ cảnh cho hướng dẫn bản đồ. Ngữ cảnh cần trước mỗi tác vụ giảm từ khoảng 76.000 token xuống 10.000.
+
+2. Buộc tuân thủ bằng công cụ, không dựa vào kỷ luật
+   Tôi nhờ nó viết script làm build thất bại khi phát hiện import vòng hoặc màu viết trực tiếp tại nơi dùng thay vì định nghĩa tập trung. Đừng hy vọng AI nhớ mọi quy tắc; chặn commit đáng tin hơn nhiều.
+
+3. Để TypeScript làm người nhắc việc
+   Thêm kỹ năng mà thiếu hiệu ứng thì dự án không biên dịch. Thêm quái vật mà thiếu mô hình thì cũng không biên dịch. Không thể quên vì hệ kiểu không cho phép.
+
+4. Để nội dung vận hành bằng dữ liệu
+   Thêm quái vật, kỹ năng hoặc vật phẩm chỉ nên là thêm một hàng, không sửa cả hệ thống. AI xử lý “thêm một hàng” chính xác hơn nhiều so với “cập nhật năm nơi phải đồng bộ”.
+
+5. Prompt hiệu quả đặt tiêu chí đánh giá, không chỉ quy trình
+   Ví dụ: “quái thường phải chết trong 2 đến 5 giây”, “ít nhất 97% mỗi bản đồ phải tiếp cận được”, “không vật phẩm nào có tỷ lệ rơi dưới 3%”. Sau đó mã hóa tiêu chí thành test. Khi biết thế nào là tốt, AI có thể tìm đường và xác định mình đã thành công chưa.
+
+Tóm lại: đầu tư cấu trúc và test trước, rồi mới đầu tư prompt.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [Bài đăng gốc](https://x.com/vibecodingth/status/2082035844836450334) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### Tạo game Chrome Dino chơi được
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="Tạo game Chrome Dino chơi được"></a>
+
+**Prompt**
+
+```text
+tạo game Chrome-dino chơi được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [Bài đăng gốc](https://x.com/unseenmars_/status/2081867025140650236) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### Prompt Kimi K3 cho game trực thăng bắn súng chân thực
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho game trực thăng bắn súng chân thực"></a>
+
+**Prompt**
+
+```text
+Làm cho tôi game trực thăng bắn súng chân thực.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [Bài đăng gốc](https://x.com/Abobsterina/status/2081791572115435765) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### Prompt Kimi K3 cho game kiểu Subway Surfers
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho game kiểu Subway Surfers"></a>
+
+**Prompt**
+
+```text
+dựng game Subway Surfers
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/subway-surfers-style-game-2081766198082220514) · [Bài đăng gốc](https://x.com/Arindam_1729/status/2081766198082220514) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### Prompt Claude Opus 5 cho FPS Three.js kiểu Counter-Strike
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 cho FPS Three.js kiểu Counter-Strike"></a>
+
+**Prompt**
+
+```text
+FPS chiến thuật lấy cảm hứng counter-strike trong ga tàu. three.js, một tệp HTML, mọi asset nguyên bản.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [Bài đăng gốc](https://x.com/BuildFastWithAI/status/2081607528790856068) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### Prompt Claude Fable 5 cho máy giấy Three.js vô tận
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Prompt Claude Fable 5 cho máy giấy Three.js vô tận"></a>
+
+**Prompt**
+
+```text
+Dựng máy giấy Three.js vô tận bằng một prompt. Biến ý tưởng Pinterest tĩnh thành ứng dụng web 3D hoạt động được. Ứng dụng phải render dải giấy cuộn vô tận đồng thời liên tục in ảnh động lên bề mặt theo thời gian thực.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Bài đăng gốc](https://x.com/RoundtableSpace/status/2081533777340506251) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
 
 ### Prompt Claude Opus 5 mô phỏng bàn tay robot 3D tương tác

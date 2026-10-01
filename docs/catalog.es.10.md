@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar ejemplos (26)</summary>
+<summary>Explorar ejemplos (38)</summary>
 
+- [Prompt de una habitación 3D con un puesto informático en un solo archivo de Three.js](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Prompt de Claude Opus 5 para un portal de puerta no euclidiano en Unreal Engine 5](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [Un prompt sencillo para crear un FPS en Three.js](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [Prompt de Claude Opus 5 para un FPS al estilo CS2 y Battlefield](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Prompt de Claude Opus 5 para un shooter AAA](#aaa-shooter-game-2082180453889712318)
+- [Un juego de desplazamiento lateral de fantasía oscura en un único HTML](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
+- [Un flujo de desarrollo con Claude Opus 5 para un MMO 3D](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [Crear un juego jugable del dinosaurio de Chrome](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [Prompt de Kimi K3 para un juego realista de disparos con helicópteros](#realistic-helicopter-shooter-game-2081791572115435765)
+- [Prompt de Kimi K3 para un juego al estilo Subway Surfers](#subway-surfers-style-game-2081766198082220514)
+- [Prompt de Claude Opus 5 para un FPS en Three.js inspirado en Counter-Strike](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [Prompt de Claude Fable 5 para una máquina de papel infinita en Three.js](#infinite-three-js-paper-machine-2081533777340506251)
 - [Prompt de Claude Opus 5 para una simulación 3D interactiva de una mano robótica](#interactive-3d-robotic-hand-simulation-2081475055536820506)
 - [Prompt para añadir una Vespa 125 a un configurador 3D](#vespa-125-3d-configurator-2081439705506435440)
 - [Prompt para un simulador de vuelo 3D ultrarrealista](#ultra-realistic-3d-flight-simulator-2081403842256605254)
@@ -56,6 +68,294 @@
 - [Prompt para recorrer un avión en Three.js](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### Prompt de una habitación 3D con un puesto informático en un solo archivo de Three.js
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="Prompt de una habitación 3D con un puesto informático en un solo archivo de Three.js"></a>
+
+**Prompt**
+
+```text
+construye una habitación 3d explorable alrededor de un puesto informático, en un único archivo html autónomo, Three.js mediante importmap, solo geometría procedural, sin mallas externas ni texturas de imagen, sin distribución ni estilo especificados. «tú diseñas. sorpréndeme»
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [Publicación original](https://x.com/thehypedotnews/status/2082451081733591520) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Prompt de Claude Opus 5 para un portal de puerta no euclidiano en Unreal Engine 5
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Prompt de Claude Opus 5 para un portal de puerta no euclidiano en Unreal Engine 5"></a>
+
+**Prompt**
+
+```text
+«Una puerta sola en el vacío, sin nada alrededor ni detrás, que se abre a un aula situada en otra parte del nivel. Atraviésala caminando: sin cortes, fundidos, pantallas de carga ni nada que parezca teletransporte. Debe funcionar por ambos lados y desde cualquier ángulo».
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [Publicación original](https://x.com/ombrageplays/status/2082436347113951333) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### Un prompt sencillo para crear un FPS en Three.js
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Un prompt sencillo para crear un FPS en Three.js"></a>
+
+**Prompt**
+
+```text
+Constrúyeme un FPS
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [Publicación original](https://x.com/codewithantonio/status/2082242351372599770) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### Prompt de Claude Opus 5 para un FPS al estilo CS2 y Battlefield
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="Prompt de Claude Opus 5 para un FPS al estilo CS2 y Battlefield"></a>
+
+**Prompt**
+
+```text
+prueba a hacer un shooter en primera persona que mezcle CS2 y Battlefield.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [Publicación original](https://x.com/AnatoliKopadze/status/2082241827298557966) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Prompt de Claude Opus 5 para un shooter AAA
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Prompt de Claude Opus 5 para un shooter AAA"></a>
+
+**Prompt**
+
+```text
+Últimamente se ha hecho viral un juego de Call of Duty creado con Claude Opus 5 cuyo autor afirma haber conseguido con un solo prompt. Ante el escepticismo, el autor ha publicado directamente el código y el prompt.
+
+Al principio pensé que el prompt sería muy complejo, pero resultó tener solo unos cientos de palabras. La clave está en el ciclo de revisión.
+
+Este es el prompt:
+
+«Quiero que desarrolles un shooter en primera persona que alcance el nivel del último Call of Duty. Debe ser impecable, con gráficos extraordinarios: desde las texturas hasta los efectos físicos, todos los elementos que se te ocurran deben alcanzar calidad AAA.
+
+Debes crear varios subagentes y hacer que cada uno se ocupe por separado de cada detalle para que el juego alcance la perfección. Usa /loop en cada proyecto y asigna a un subagente independiente una revisión visual para comprobar que cumple los estándares AAA. Ese subagente debe ser extremadamente estricto; si no alcanza el nivel AAA, debe seguir comprobándolo.
+
+No pares hasta que todos los subagentes, después de compararlo con Call of Duty, queden totalmente impresionados por la calidad gráfica del juego. Debe poder comparar los dos juegos en paralelo incluso sin mirar las imágenes e indicar cuál es mejor. Utiliza ThreeJS para este trabajo. /loop hasta que el juego alcance la perfección. Crea varios subagentes y usa UltraCode para optimizar».
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/aaa-shooter-game-2082180453889712318) · [Publicación original](https://x.com/ziqinyuan/status/2082180453889712318) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### Un juego de desplazamiento lateral de fantasía oscura en un único HTML
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="Un juego de desplazamiento lateral de fantasía oscura en un único HTML"></a>
+
+**Prompt**
+
+```text
+Crea en un único archivo HTML un juego de fantasía oscura con desplazamiento lateral que se pueda jugar.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Publicación original](https://x.com/slash1sol/status/2082096376763060575) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### Un flujo de desarrollo con Claude Opus 5 para un MMO 3D
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Un flujo de desarrollo con Claude Opus 5 para un MMO 3D"></a>
+
+**Prompt**
+
+```text
+Casi todo el código se escribió con Claude Opus 5.
+
+Pero lo que permitió que el proyecto avanzara durante miles de ciclos de iteración no fue un prompt ingenioso. Fue organizarlo para que la IA encontrara lo que necesitaba sin leer todo el código.
+
+1. Mantén las instrucciones junto al código, no acumuladas en un único lugar
+   Cada carpeta tiene su propia guía con flujos habituales y errores ya descubiertos. La guía se carga automáticamente al iniciar una sesión en esa carpeta. Trabajar en los monstruos no exige cargar el contexto de la guía del mapa. El contexto necesario antes de cada tarea pasó de unos 76.000 tokens a unos 10.000.
+
+2. Haz cumplir las reglas con herramientas, no con disciplina
+   Le pedí que escribiera scripts que hicieran fallar la compilación al detectar importaciones circulares o colores escritos directamente donde se usan, en lugar de definidos de forma centralizada. No esperes que la IA recuerde todas las reglas: hacer que falle el commit es mucho más fiable.
+
+3. Deja que TypeScript te recuerde lo que falta
+   Si añades una habilidad sin su efecto, el proyecto no compila. Si añades un monstruo sin crear su modelo, el proyecto no compila. No se puede olvidar porque el sistema de tipos no lo permite.
+
+4. Basa el contenido en datos
+   Añadir un monstruo, una habilidad o un objeto debería consistir en añadir una fila, no en modificar todo el sistema. La IA resuelve «añade una fila» con mucha más precisión que «actualiza cinco lugares que deben mantenerse coherentes».
+
+5. Los prompts eficaces definen criterios de evaluación, no procedimientos
+   Por ejemplo: «los monstruos normales deben morir en entre 2 y 5 segundos», «al menos el 97 % de cada mapa debe ser accesible» y «ningún objeto del juego puede tener una probabilidad de aparición inferior al 3 %». Después convierte esos criterios en pruebas. Cuando la IA sabe qué significa hacerlo bien, puede encontrar el camino y comprobar si lo ha conseguido.
+
+En resumen: invierte primero en estructura y pruebas, y después en el prompt.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [Publicación original](https://x.com/vibecodingth/status/2082035844836450334) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### Crear un juego jugable del dinosaurio de Chrome
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="Crear un juego jugable del dinosaurio de Chrome"></a>
+
+**Prompt**
+
+```text
+haz un juego jugable del dinosaurio de Chrome.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [Publicación original](https://x.com/unseenmars_/status/2081867025140650236) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### Prompt de Kimi K3 para un juego realista de disparos con helicópteros
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="Prompt de Kimi K3 para un juego realista de disparos con helicópteros"></a>
+
+**Prompt**
+
+```text
+Hazme un shooter realista de helicópteros.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [Publicación original](https://x.com/Abobsterina/status/2081791572115435765) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### Prompt de Kimi K3 para un juego al estilo Subway Surfers
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Prompt de Kimi K3 para un juego al estilo Subway Surfers"></a>
+
+**Prompt**
+
+```text
+construye un juego de Subway Surfers
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/subway-surfers-style-game-2081766198082220514) · [Publicación original](https://x.com/Arindam_1729/status/2081766198082220514) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### Prompt de Claude Opus 5 para un FPS en Three.js inspirado en Counter-Strike
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Prompt de Claude Opus 5 para un FPS en Three.js inspirado en Counter-Strike"></a>
+
+**Prompt**
+
+```text
+un FPS táctico inspirado en counter-strike ambientado en una estación de tren. three.js, un único archivo HTML, todos los recursos originales.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [Publicación original](https://x.com/BuildFastWithAI/status/2081607528790856068) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### Prompt de Claude Fable 5 para una máquina de papel infinita en Three.js
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Prompt de Claude Fable 5 para una máquina de papel infinita en Three.js"></a>
+
+**Prompt**
+
+```text
+Construye una máquina de papel infinita en Three.js con un solo prompt. Convierte un concepto estático de Pinterest en una aplicación web 3D funcional. La aplicación debe mostrar una tira de papel que se enrolle sin fin mientras imprime continuamente imágenes dinámicas sobre su superficie en tiempo real.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Publicación original](https://x.com/RoundtableSpace/status/2081533777340506251) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
 
 ### Prompt de Claude Opus 5 para una simulación 3D interactiva de una mano robótica

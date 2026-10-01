@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Переглянути приклади (26)</summary>
+<summary>Переглянути приклади (38)</summary>
 
+- [Промпт 3D-кімнати з комп’ютером для однофайлового Three.js](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Промпт Claude Opus 5 для неевклідових дверей-порталу в Unreal Engine 5](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [Простий FPS-промпт для гри на Three.js](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [Промпт Claude Opus 5 для FPS у стилі CS2 і Battlefield](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Промпт Claude Opus 5 для AAA-шутера](#aaa-shooter-game-2082180453889712318)
+- [Ігровий сайд-скролер темного фентезі в одному HTML-файлі](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
+- [Процес розроблення 3D-MMO з Claude Opus 5](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [Створити робочу гру Chrome Dino](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [Промпт Kimi K3 для реалістичного гелікоптерного шутера](#realistic-helicopter-shooter-game-2081791572115435765)
+- [Промпт Kimi K3 для гри в стилі Subway Surfers](#subway-surfers-style-game-2081766198082220514)
+- [Промпт Claude Opus 5 для FPS на Three.js у дусі Counter-Strike](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [Промпт Claude Fable 5 для нескінченної паперової машини Three.js](#infinite-three-js-paper-machine-2081533777340506251)
 - [Промпт Claude Opus 5 для інтерактивної 3D-симуляції роботизованої кисті](#interactive-3d-robotic-hand-simulation-2081475055536820506)
 - [Промпт додавання Vespa 125 у 3D-конфігуратор](#vespa-125-3d-configurator-2081439705506435440)
 - [Промпт надреалістичного 3D-авіасимулятора](#ultra-realistic-3d-flight-simulator-2081403842256605254)
@@ -56,6 +68,294 @@
 - [Промпт Three.js для прогулянки літаком](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### Промпт 3D-кімнати з комп’ютером для однофайлового Three.js
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="Промпт 3D-кімнати з комп’ютером для однофайлового Three.js"></a>
+
+**Промпт**
+
+```text
+створи 3d-кімнату для дослідження навколо комп’ютерного робочого місця; один самодостатній html-файл, Three.js через importmap, лише процедурна геометрія, без мешів, без текстур-зображень, без заданого планування чи стилю. «ти дизайнер. здивуй мене»
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [Оригінальний допис](https://x.com/thehypedotnews/status/2082451081733591520) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Промпт Claude Opus 5 для неевклідових дверей-порталу в Unreal Engine 5
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Промпт Claude Opus 5 для неевклідових дверей-порталу в Unreal Engine 5"></a>
+
+**Промпт**
+
+```text
+«Двері стоять самі в порожнечі: нічого довкола й нічого позаду. Вони відчиняються в клас, розташований деінде на рівні. Проходиш прямо крізь них — без склейок, затемнень, завантажень чи будь-чого, що відчувається як телепортація. Має працювати з обох боків і під кожним кутом».
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [Оригінальний допис](https://x.com/ombrageplays/status/2082436347113951333) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### Простий FPS-промпт для гри на Three.js
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Простий FPS-промпт для гри на Three.js"></a>
+
+**Промпт**
+
+```text
+Створи мені FPS
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [Оригінальний допис](https://x.com/codewithantonio/status/2082242351372599770) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### Промпт Claude Opus 5 для FPS у стилі CS2 і Battlefield
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="Промпт Claude Opus 5 для FPS у стилі CS2 і Battlefield"></a>
+
+**Промпт**
+
+```text
+спробуй зробити шутер від першої особи, що поєднує CS2 і Battlefield.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [Оригінальний допис](https://x.com/AnatoliKopadze/status/2082241827298557966) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Промпт Claude Opus 5 для AAA-шутера
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Промпт Claude Opus 5 для AAA-шутера"></a>
+
+**Промпт**
+
+```text
+Нещодавно гра в стилі Call of Duty, створена Claude Opus 5, стала вірусною. Автор стверджує, що отримав її лише одним промптом. Багато хто сумнівався, тож він відкрив код і промпт.
+
+Я думав, що промпт буде дуже складним, але це виявилися лише кілька сотень слів. Ключове в ньому — цикл.
+
+Ось промпт:
+
+«Я хочу, щоб ти розробив шутер від першої особи на рівні останньої Call of Duty. Він має бути бездоганним, із приголомшливо красивою графікою; від текстур до фізичних ефектів — усе, що можна уявити, має відповідати AAA-рівню.
+
+Створи кількох субагентів і доручи кожному окремі деталі, щоб довести гру до досконалості. Використовуй /loop для кожного проєкту та незалежного субагента для візуальної перевірки відповідності AAA. Цей перевіряльник має бути вкрай суворим; якщо результат не досягає AAA-рівня, перевірку слід продовжувати.
+
+Не зупиняйся, доки кожен субагент після порівняння з Call of Duty не буде цілковито вражений якістю графіки. Він має вміти зіставити дві гри поруч навіть без погляду на візуал і сказати, яка краща. Виконай роботу на ThreeJS. /loop до досконалості. Створи кількох субагентів і використовуй UltraCode для оптимізації».
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/aaa-shooter-game-2082180453889712318) · [Оригінальний допис](https://x.com/ziqinyuan/status/2082180453889712318) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### Ігровий сайд-скролер темного фентезі в одному HTML-файлі
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="Ігровий сайд-скролер темного фентезі в одному HTML-файлі"></a>
+
+**Промпт**
+
+```text
+В одному HTML-файлі створи ігровий сайд-скролер у жанрі темного фентезі.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Оригінальний допис](https://x.com/slash1sol/status/2082096376763060575) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### Процес розроблення 3D-MMO з Claude Opus 5
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Процес розроблення 3D-MMO з Claude Opus 5"></a>
+
+**Промпт**
+
+```text
+Майже весь код було написано з Claude Opus 5.
+
+Але пройти тисячі циклів доопрацювання допоміг не хитрий промпт. Допомогла організація проєкту, за якої ШІ знаходить потрібне, не читаючи всю кодову базу.
+
+1. Тримайте інструкції поряд із кодом, а не в одній спільній купі
+   Кожна папка має власний посібник із типовими процесами й раніше виявленими проблемами. Він завантажується автоматично, коли сесія починається в цій папці. Робота над монстрами не потребує витрачати контекст на посібник із карти. Обсяг контексту перед кожним завданням зменшився приблизно із 76 000 до 10 000 токенів.
+
+2. Забезпечуйте правила інструментами, а не дисципліною
+   Я попросив написати скрипти, які зупиняють збірку, коли виявляють циклічні імпорти чи значення кольорів, прописані безпосередньо в місці використання замість централізованого визначення. Не сподівайтеся, що ШІ запам’ятає кожне правило: блокувати коміт значно надійніше.
+
+3. Нехай TypeScript нагадує про пропущене
+   Додайте здібність без її ефекту — проєкт не скомпілюється. Додайте монстра без моделі — проєкт не скомпілюється. Забути неможливо, бо система типів цього не дозволяє.
+
+4. Зробіть вміст керованим даними
+   Додавання монстра, здібності чи предмета має означати додавання одного рядка, а не зміну всієї системи. ШІ значно точніше виконує «додай один рядок», ніж «онови п’ять місць, які мають залишатися узгодженими».
+
+5. Ефективні промпти задають критерії оцінювання, а не процедури
+   Приклади: «звичайні монстри мають гинути за 2–5 секунд», «принаймні 97% кожної карти має бути доступним», «імовірність випадання будь-якого предмета має бути не меншою за 3%». Потім закріпіть ці критерії тестами. Знаючи, що вважати добрим результатом, ШІ може знайти шлях і визначити, чи досягнуто мети.
+
+Отже: спочатку вкладайтеся у структуру й тести, а вже потім — у промпт.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [Оригінальний допис](https://x.com/vibecodingth/status/2082035844836450334) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### Створити робочу гру Chrome Dino
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="Створити робочу гру Chrome Dino"></a>
+
+**Промпт**
+
+```text
+створи робочу гру Chrome-dino.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [Оригінальний допис](https://x.com/unseenmars_/status/2081867025140650236) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### Промпт Kimi K3 для реалістичного гелікоптерного шутера
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="Промпт Kimi K3 для реалістичного гелікоптерного шутера"></a>
+
+**Промпт**
+
+```text
+Зроби мені реалістичний гелікоптерний шутер.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [Оригінальний допис](https://x.com/Abobsterina/status/2081791572115435765) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### Промпт Kimi K3 для гри в стилі Subway Surfers
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Промпт Kimi K3 для гри в стилі Subway Surfers"></a>
+
+**Промпт**
+
+```text
+створи гру Subway Surfers
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/subway-surfers-style-game-2081766198082220514) · [Оригінальний допис](https://x.com/Arindam_1729/status/2081766198082220514) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### Промпт Claude Opus 5 для FPS на Three.js у дусі Counter-Strike
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Промпт Claude Opus 5 для FPS на Three.js у дусі Counter-Strike"></a>
+
+**Промпт**
+
+```text
+тактичний FPS у дусі counter-strike на залізничному вокзалі. three.js, один HTML-файл, усі асети оригінальні.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [Оригінальний допис](https://x.com/BuildFastWithAI/status/2081607528790856068) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### Промпт Claude Fable 5 для нескінченної паперової машини Three.js
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Промпт Claude Fable 5 для нескінченної паперової машини Three.js"></a>
+
+**Промпт**
+
+```text
+Створи нескінченну паперову машину Three.js одним промптом. Перетвори статичну концепцію з Pinterest на функціональний 3D-вебзастосунок. Він має показувати паперову стрічку, що нескінченно рухається й безперервно друкує динамічні зображення на своїй поверхні в реальному часі.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Оригінальний допис](https://x.com/RoundtableSpace/status/2081533777340506251) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
 
 ### Промпт Claude Opus 5 для інтерактивної 3D-симуляції роботизованої кисті

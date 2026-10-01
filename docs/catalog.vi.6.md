@@ -28,6 +28,18 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Kaiju giao chiến trong thành phố](#kaiju-city-battle-2096251574918013135)
+- [Demo Hyperloop tương tác](#interactive-hyperloop-demo-2096250748099068377)
+- [Website studio 3D theo cuộn trang](#scroll-driven-3d-studio-website-2096245759121277132)
+- [Komorebi: chèo kayak trên sông](#komorebi-river-kayaking-2096244208533455049)
+- [Câu chuyện sản phẩm với chai khúc xạ](#refractive-bottle-product-story-2096243989439713677)
+- [Máy viên nang ký ức](#memory-capsule-machine-2096241295949975602)
+- [Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh](#gpt-6-astra-2096236137266512181)
+- [Tượng bán thân Napoleon thủ tục](#procedural-napoleon-bust-2096234355395903672)
+- [Sảnh ga đường sắt](#railway-station-concourse-2096226711222546461)
+- [Mô phỏng hội ngộ quỹ đạo](#orbital-rendezvous-simulator-2096225621303042258)
+- [Diorama hướng dẫn bắt đầu có hoạt ảnh](#animated-onboarding-diorama-2096222790894661841)
+- [Giải phẫu người 3D tương tác dạng tách lớp](#exploded-interactive-human-anatomy-2096221988763173186)
 - [Cơn bão trong khối lập phương](#a-storm-trapped-in-a-cube-2096220264413409648)
 - [Game đua xe kart Roblox có thể chơi với tài sản 3D tùy chỉnh](#gpt-6-astra-2096219700879331665)
 - [Chim bồ nông tương tác đạp xe đạp](#gpt-6-astra-2096213850383331489)
@@ -66,20 +78,419 @@
 - [Zork thành game phiêu lưu hành động 3D](#zork-as-a-3d-action-adventure-2096047660662722620)
 - [Mạng giao hàng khi cầu bị đóng](#delivery-network-with-bridge-closures-2096042360513904742)
 - [Hệ sinh thái WebGL tiến hóa](#evolving-webgl-ecosystem-2096040448477515874)
-- [Khám phá Taj Mahal](#explorable-taj-mahal-2096035962824335798)
-- [Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [Gogh Strike: FPS nhiều người](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [Mô hình máy ghi âm TP-7 từ ảnh tham khảo](#tp-7-recorder-reference-model-2096013228090245181)
-- [Tesla Model X dạng tháo rời](#tesla-model-x-exploded-view-2096009146248122416)
-- [Thạch nảy WebGPU](#bouncy-webgpu-jelly-2096008241104711698)
-- [Game đối kháng anime trong Roblox](#anime-arena-fighter-in-roblox-2095999578419929412)
-- [Mặt bằng đồng bộ với chuyến tham quan 3D](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
-- [Cảnh dòng sông tương tác trong trình duyệt](#interactive-browser-river-scene-2095993826569502785)
-- [Đấu trường chặt chém trong thánh đường](#cathedral-hack-and-slash-arena-2095988972879335792)
-- [Dựng thành phố Unity từ gói tài nguyên có sẵn](#gpt-6-astra-2095987508475834641)
-- [Triển lãm khoa học Titan tương tác](#interactive-titan-science-exhibit-2095986941753712841)
 
 </details>
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### Kaiju giao chiến trong thành phố
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="Kaiju giao chiến trong thành phố"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game Three.js lấy cảm hứng kaiju bằng mô hình sinh vật và hiệu ứng âm thanh đã tạo. Làm chiến đấu quy mô khổng lồ dễ hiểu và môi trường thể hiện rõ kích thước quái vật.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/kaiju-city-battle-2096251574918013135) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2096251574918013135) · [Bản demo](https://stormcolossus.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### Demo Hyperloop tương tác
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="Demo Hyperloop tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng demo Hyperloop tương tác bằng Three.js, thể hiện khoang vận chuyển, hạ tầng ống và chuyển động qua hệ thống.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Bài đăng gốc](https://x.com/hbanay98/status/2096250748099068377) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### Website studio 3D theo cuộn trang
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="Website studio 3D theo cuộn trang"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến ảnh tham chiếu thành cảnh Three.js trong website studio điều khiển bằng cuộn mượt. Đồng bộ chuyển động camera, chữ và chuyển giữa các phần.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Bài đăng gốc](https://x.com/mx_debbiee/status/2096245759121277132) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### Komorebi: chèo kayak trên sông
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi: chèo kayak trên sông"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game chèo kayak 3D mang thẩm mỹ anime. Cho người chơi chèo trái phải để tránh vật cản, với nước chảy, phong cảnh, nhạc và hiệu ứng âm thanh đều tạo bằng mã.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Bài đăng gốc](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### Câu chuyện sản phẩm với chai khúc xạ
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="Câu chuyện sản phẩm với chai khúc xạ"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng website sản phẩm tương tác quanh chai thủy tinh WebGL chân thực. Dùng chất lỏng khúc xạ, xoay theo cuộn và chữ mạnh, đồng thời giữ hiệu năng trình duyệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096243989439713677) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### Máy viên nang ký ức
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="Máy viên nang ký ức"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng máy viên nang ký ức 3D. Xoay núm để thả một ký ức, mô hình hóa cơ cấu trong Blender và cho viên nang rơi với chuyển động, âm thanh hợp lý.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/memory-capsule-machine-2096241295949975602) · [Bài đăng gốc](https://x.com/gloria_zwq/status/2096241295949975602) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096236137266512181"></a>
+
+### Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="Trình mô phỏng bay trên trình duyệt với vòng lặp bay hoàn chỉnh"></a>
+
+**Prompt**
+
+```text
+Xây dựng từ đầu một game mô phỏng bay 3D trên trình duyệt được hoàn thiện chỉn chu và có thể chơi được.
+
+Mục tiêu là tạo ra một trải nghiệm mô phỏng bay quy mô nhỏ nhưng thực sự có thể chơi, không phải một cảnh 3D tĩnh.
+
+GAMEPLAY
+- Tạo một sân bay với đường băng, đường lăn, nhà ga/các tòa nhà, cỏ/địa hình, vạch sơn và đèn đường băng, bầu trời cùng mây được thể hiện chi tiết.
+- Đặt một máy bay chở khách dễ nhận biết tại sân bay.
+- Người chơi phải có thể điều khiển máy bay bằng bàn phím.
+- Triển khai điều khiển ga, góc ngẩng, lăn, hướng và phanh.
+- Máy bay phải có vật lý bay cơ bản hợp lý, quán tính và khả năng tăng tốc.
+- Người chơi phải có thể tăng tốc trên đường băng, cất cánh, bay quanh sân bay, tiếp cận đường băng và hạ cánh.
+- Thêm một mục tiêu đơn giản: cất cánh, hoàn thành một chuyến bay ngắn quanh sân bay và hạ cánh an toàn.
+- Bao gồm phát hiện va chạm/thất bại và tùy chọn chơi lại.
+
+CONTROLS
+Hiển thị rõ các phím điều khiển:
+- W/S: Góc ngẩng
+- A/D: Lăn
+- Q/E: Hướng
+- Shift/Ctrl: Ga
+- Space: Phanh
+
+CAMERA
+- Sử dụng camera bám đuổi mượt ở góc nhìn người thứ ba, phía sau máy bay.
+- Giữ cho máy bay luôn dễ quan sát trong suốt chuyến bay.
+- Camera phải bám theo chuyển động mượt mà và phản hồi nhẹ theo gia tốc.
+
+HUD
+Tạo HUD phong cách hàng không được hoàn thiện chỉn chu, hiển thị:
+- Tốc độ bay
+- Độ cao
+- Hướng bay
+- Ga
+- Tốc độ lên/xuống
+- Trạng thái chuyến bay
+- Mục tiêu hiện tại
+
+Bao gồm một bảng điều khiển/trợ giúp nhỏ gọn, có thể ẩn đi.
+
+BẮT ĐẦU + KẾT QUẢ
+Tạo màn hình bắt đầu với:
+"MÔ PHỎNG BAY"
+và một nút "BẮT ĐẦU CHUYẾN BAY" nổi bật.
+
+Sau khi hạ cánh thành công, hiển thị:
+- Hoàn thành chuyến bay
+- Chất lượng hạ cánh
+- Thời gian bay
+- Điểm tổng kết
+- Chơi lại
+
+CHẤT LƯỢNG HÌNH ẢNH
+Tạo cảm giác như một game thực thụ:
+- Hình ảnh 3D cách điệu nhất quán
+- Máy bay được thể hiện chi tiết
+- Môi trường sân bay bắt mắt
+- Ánh sáng, bóng đổ và vật liệu chất lượng
+- Mây/khí quyển
+- Tòa nhà sân bay, phương tiện, biển báo, cây cối và các chi tiết môi trường khác khi phù hợp
+- Tránh tạo ra một cảnh trống trải hoặc rõ ràng còn dang dở
+
+FEEDBACK
+Thêm phản hồi hữu ích cho:
+- Trạng thái ga/động cơ
+- Cất cánh
+- Hạ cánh
+- Cảnh báo tốc độ
+- Độ cao
+- Va chạm
+- Hạ cánh thành công
+
+TECHNICAL
+- Xây dựng toàn bộ game có thể hoạt động trong trình duyệt.
+- Không để lại các nút giữ chỗ hoặc tương tác giả.
+- Ưu tiên khả năng điều khiển phản hồi nhanh và hiệu năng mượt mà.
+- Sử dụng các công nghệ web/3D phù hợp hiện có.
+
+QUAN TRỌNG:
+Không dành toàn bộ thời gian để tạo một cảnh tĩnh đẹp mắt. Máy bay PHẢI thực sự điều khiển được và vòng lặp hoàn chỉnh phải hoạt động:
+
+BẮT ĐẦU → TĂNG TỐC → CẤT CÁNH → BAY → TIẾP CẬN → HẠ CÁNH → TÍNH ĐIỂM → CHƠI LẠI
+
+Trước khi hoàn tất, hãy chạy game trên trình duyệt và tự kiểm thử toàn bộ vòng lặp gameplay. Khắc phục các lỗi về điều khiển, vật lý, hình ảnh và tương tác mà bạn phát hiện.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a polished, playable browser-based 3D flight simulator game from scratch.
+
+The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
+
+GAMEPLAY
+- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
+- Place a recognizable passenger airplane at the airport.
+- The player must be able to control the aircraft with the keyboard.
+- Implement throttle, pitch, roll, yaw and braking.
+- The aircraft must have basic believable flight physics, momentum and acceleration.
+- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
+- Add a simple objective: take off, complete a short flight around the airport and land safely.
+- Include crash/failure detection and a restart option.
+
+CONTROLS
+Display controls clearly:
+- W/S: Pitch
+- A/D: Roll
+- Q/E: Yaw
+- Shift/Ctrl: Throttle
+- Space: Brake
+
+CAMERA
+- Use a smooth third-person chase camera behind the aircraft.
+- Keep the aircraft clearly visible during flight.
+- Camera should smoothly follow movement and respond subtly to acceleration.
+
+HUD
+Create a polished aviation-style HUD showing:
+- Airspeed
+- Altitude
+- Heading
+- Throttle
+- Vertical speed
+- Flight status
+- Current objective
+
+Include a compact controls/help panel that can be hidden.
+
+START + RESULTS
+Create a start screen with:
+"FLIGHT SIMULATOR"
+and a prominent "START FLIGHT" button.
+
+After a successful landing, show:
+- Flight completed
+- Landing quality
+- Flight time
+- Final score
+- Play Again
+
+VISUAL QUALITY
+Make it feel like a real game:
+- Cohesive stylized 3D visuals
+- Detailed aircraft
+- Attractive airport environment
+- Good lighting, shadows and materials
+- Clouds/atmosphere
+- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
+- Avoid an empty or obviously unfinished scene
+
+FEEDBACK
+Add useful feedback for:
+- Throttle/engine state
+- Takeoff
+- Landing
+- Speed warnings
+- Altitude
+- Crashes
+- Successful landing
+
+TECHNICAL
+- Build the complete working game in the browser.
+- Do not leave placeholder buttons or fake interactions.
+- Prioritize responsive controls and smooth performance.
+- Use whatever appropriate web/3D technologies are available.
+
+IMPORTANT:
+Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
+
+START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
+
+Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096236137266512181) · [Bài đăng gốc](https://x.com/adxtyahq/status/2096236137266512181) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="procedural-napoleon-bust-2096234355395903672"></a>
+
+### Tượng bán thân Napoleon thủ tục
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="Tượng bán thân Napoleon thủ tục"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Viết mã tạo tượng bán thân Napoleon 3D trong Three.js. Dựng theo giai đoạn, xem từ nhiều góc rồi tinh chỉnh tỷ lệ mặt và chi tiết trang phục.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Bài đăng gốc](https://x.com/leploutos/status/2096234355395903672) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="railway-station-concourse-2096226711222546461"></a>
+
+### Sảnh ga đường sắt
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="Sảnh ga đường sắt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo sảnh ga có nhịp kiến trúc mạnh, tỷ lệ hợp lý và vật liệu thuyết phục. Tạo cảnh 3D quan sát được với khung hình ga được dàn dựng cẩn thận.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/railway-station-concourse-2096226711222546461) · [Bài đăng gốc](https://x.com/0xWormhole404/status/2096226711222546461) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
+
+### Mô phỏng hội ngộ quỹ đạo
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="Mô phỏng hội ngộ quỹ đạo"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng mô phỏng hội ngộ quỹ đạo thời gian thực bằng lan truyền hai vật thể ECI và dẫn đường HCW. Có định hướng sáu bậc tự do, tiêu hao nhiên liệu, giới hạn lực và mục tiêu ghép nối.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Bài đăng gốc](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="animated-onboarding-diorama-2096222790894661841"></a>
+
+### Diorama hướng dẫn bắt đầu có hoạt ảnh
+
+[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="Diorama hướng dẫn bắt đầu có hoạt ảnh"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng diorama hướng dẫn bắt đầu nhỏ trong Blender rồi làm sống động bằng Three.js. Dùng vật thể trọng tâm rõ và chuỗi hoạt ảnh ngắn để giải thích những thao tác đầu tiên.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Bài đăng gốc](https://x.com/EmilHovv/status/2096222790894661841) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
+
+### Giải phẫu người 3D tương tác dạng tách lớp
+
+[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="Giải phẫu người 3D tương tác dạng tách lớp"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng website giải phẫu 3D nơi cơ thể người tách thành cấu trúc quan sát riêng được. Cho điều hướng dạng tách lớp và tổ chức các phần thành hệ thống có ý nghĩa.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Bài đăng gốc](https://x.com/ashebytes/status/2096221988763173186) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
 
 ### Cơn bão trong khối lập phương
@@ -884,253 +1295,6 @@ Dựng hệ sinh thái 3D tiến hóa trong một tệp HTML bằng WebGL và GL
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [Bài đăng gốc](https://x.com/yume_arasaki/status/2096040448477515874) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### Khám phá Taj Mahal
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Khám phá Taj Mahal"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện Taj Mahal thành cảnh 3D có thể khám phá. Ưu tiên tỷ lệ dễ nhận biết, vườn đối xứng, mái vòm trung tâm, tháp và quan hệ giữa các công trình.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Bài đăng gốc](https://x.com/vikassabbi/status/2096035962824335798) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến chân dung thành nhân vật Blender trong portfolio WebGL phong cách tạp chí. Thêm địa cầu xoay đánh dấu các sự kiện diễn thuyết và tích hợp asset vào website.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Bài đăng gốc](https://x.com/HowDevelop/status/2096023793772998704) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### Gogh Strike: FPS nhiều người
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike: FPS nhiều người"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng FPS 5 đấu 5 phong cách Hậu Ấn tượng với nhân vật họa sĩ render bằng Blender, đội dễ phân biệt và trận nhiều người hoàn chỉnh trong trình duyệt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Bài đăng gốc](https://x.com/petergostev/status/2096013280519016608) · [Mã nguồn](https://github.com/petergpt/gogh-strike) · [Bản demo](https://gogh-strike.surge.sh/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### Mô hình máy ghi âm TP-7 từ ảnh tham khảo
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Mô hình máy ghi âm TP-7 từ ảnh tham khảo"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện Teenage Engineering TP-7 bằng Three.js từ ảnh tham khảo. Làm đúng hình dáng và các bộ phận điều khiển nhìn thấy được trong một mô hình 3D có thể quan sát từ nhiều phía.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Bài đăng gốc](https://x.com/ty_kra_lab/status/2096013228090245181) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### Tesla Model X dạng tháo rời
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X dạng tháo rời"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo website 3D tháo Tesla Model X thành các thành phần đã dựng. Cho khách xem cụm lắp ráp và lắp lại xe bằng tương tác.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Bài đăng gốc](https://x.com/ashebytes/status/2096009146248122416) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### Thạch nảy WebGPU
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Thạch nảy WebGPU"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo khối thạch nảy trông ngon mắt bằng Three.js và WebGPU. Cho nó biến dạng rồi ổn định tự nhiên sau tương tác, với vật liệu bán trong suốt và ánh sáng rõ.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Bài đăng gốc](https://x.com/scottstts/status/2096008241104711698) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
-
-### Game đối kháng anime trong Roblox
-
-[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Game đối kháng anime trong Roblox"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo game đối kháng đấu trường Roblox lấy cảm hứng các trận crossover anime. Dựng đấu trường và nhân vật bằng Blender cùng asset có sẵn, rồi triển khai vòng chiến đấu chơi được.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Bài đăng gốc](https://x.com/WoahWurdz/status/2095999578419929412) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
-
-### Mặt bằng đồng bộ với chuyến tham quan 3D
-
-[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="Mặt bằng đồng bộ với chuyến tham quan 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dùng cùng một bộ kích thước để dựng mặt bằng và chuyến tham quan căn hộ một phòng ngủ. Đồng bộ vị trí hiện tại giữa hai chế độ xem, đồng thời ghi rõ những giả định về chiều cao trần và vật liệu hoàn thiện.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Bài đăng gốc](https://x.com/onofumi_AI/status/2095999282088378520) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-browser-river-scene-2095993826569502785"></a>
-
-### Cảnh dòng sông tương tác trong trình duyệt
-
-[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="Cảnh dòng sông tương tác trong trình duyệt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo cảnh dòng sông tương tác chạy trong trình duyệt. Trước tiên dựng bản mẫu nước thời gian thực hoạt động được, sau đó kiểm tra và hoàn thiện kết quả hình ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Bài đăng gốc](https://x.com/dangreenheck/status/2095993826569502785) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
-
-### Đấu trường chặt chém trong thánh đường
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="Đấu trường chặt chém trong thánh đường"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng game Three.js chặt chém góc nhìn thứ ba trong thánh đường trên ngôi sao chết. Có combo kiếm nhẹ, đòn nặng, phép diện rộng, né và hoạt ảnh vũ khí hai tay có trọng lượng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Bài đăng gốc](https://x.com/superalesha/status/2095988972879335792) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Bản demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095987508475834641"></a>
-
-### Dựng thành phố Unity từ gói tài nguyên có sẵn
-
-[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="Dựng thành phố Unity từ gói tài nguyên có sẵn"></a>
-
-**Prompt**
-
-```text
-Hãy dựng cho tôi một cảnh thành phố 3D mới. Tôi muốn có nhiều loại tòa nhà với độ cao khác nhau và ô tô trong cảnh. Đồng thời, hãy sử dụng đường sá, biển quảng cáo và các yếu tố khác thường có trong một thành phố lớn. Mọi thứ bạn cần đều nằm trong thư mục Assets/ithappy/Cartoon_City_Free.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095987508475834641) · [Bài đăng gốc](https://x.com/AndrewWalko/status/2095987508475834641) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
-
-### Triển lãm khoa học Titan tương tác
-
-[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="Triển lãm khoa học Titan tương tác"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng mô phỏng giáo dục 3D về Titan, vệ tinh lớn nhất của sao Thổ, có môi trường khám phá được và lớp thông tin giải thích đặc điểm vật lý riêng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Bài đăng gốc](https://x.com/ArdaTugsat/status/2095986941753712841) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

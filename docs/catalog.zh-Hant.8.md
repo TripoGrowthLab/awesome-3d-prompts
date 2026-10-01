@@ -28,6 +28,18 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [單提示詞生成可玩實時 3D 遊戲](#single-playable-real-time-3d-game-2095647685210669541)
+- [可列印的企業號 CAD 裝配體](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Blender 現代別墅場景](#modern-villa-scene-in-blender-2095636679264780481)
+- [程式化橢圓形辦公室佈景](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Unity 太空戰壕突襲遊戲](#unity-space-trench-run-game-2095630044102279312)
+- [藍圖經 Blender 到 Unreal 建築視覺化](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
+- [文字生成可探索 Unity 城市](#text-to-explorable-unity-city-2095623452678144366)
+- [Three.js 彈珠工廠](#three-js-marble-factory-2095622065390772322)
+- [照片級 3D 產品樣機工具](#photoreal-3d-product-mockup-studio-2095619319690400253)
+- [3D 博物館電影預演](#3d-museum-cinematography-previsualization-2095616529572503593)
+- [房產頁面轉 3D 宣傳片](#zillow-listing-to-3d-property-film-2095612137582526615)
+- [逐街復刻曼哈頓 Unreal 世界](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 - [面向零經驗使用者的語音 3D 遊戲](#voice-directed-3d-game-for-beginners-2095608358086840647)
 - [一次生成的瀏覽器 3D 遊戲](#one-shot-browser-3d-game-2095599934766764338)
 - [住宅照片轉可編輯 Blender 世界](#house-photo-to-editable-blender-world-2095598645190291775)
@@ -66,20 +78,250 @@
 - [Shader 驅動的互動式恐龍圖鑑](#interactive-shader-driven-dino-dex-2095121568297083067)
 - [玻璃瓶中的鮮活體素世界](#living-voxel-world-inside-a-bottle-2095111213927510131)
 - [可編輯的 3D 鍵盤動畫](#editable-3d-keyboard-animation-2095111032171876470)
-- [高達風機甲展示](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [參考圖驅動的 Three.js 作品集](#reference-driven-three-js-portfolio-2095104073590808644)
-- [互動式 F-35A 技術模型](#interactive-f-35a-technical-model-2095094543339446572)
-- [Three.js MS-06 風格機甲](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [單 HTML 檔案中的鮮活宇宙](#living-universe-in-one-html-file-2095054116372508955)
-- [原生 C++ 類魂遊戲](#native-c-souls-like-game-2095053114600755576)
-- [可玩的 3D 蛇梯棋](#playable-3d-snakes-and-ladders-2095050993184669825)
-- [肖像轉動態體素](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
-- [互動式 Three.js 城堡](#interactive-three-js-castle-2095048818203275584)
-- [NIGHTBAND 互動式短波電臺](#nightband-interactive-shortwave-radio-2095026928210346175)
-- [完整 Unity 網球遊戲](#complete-unity-tennis-game-2095021275236495408)
-- [發光峽谷上方的古代神廟](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
 
 </details>
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### 單提示詞生成可玩實時 3D 遊戲
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="單提示詞生成可玩實時 3D 遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+用一條提示詞建置可玩的實時 3D 遊戲。定義緊湊的核心機制、明確目標與簡短故事，再生成場景、角色、道具、回饋和重開狀態，讓結果能夠立即遊玩。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [查看原文](https://x.com/higgsfield/status/2095647685210669541) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### 可列印的企業號 CAD 裝配體
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="可列印的企業號 CAD 裝配體"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 CAD 中設計一個可列印的企業號 NCC-1701 致敬模型。包含可辨識比例、艦橋和部分內飾、至少 28 個可運動部件、分離裝配體與可匯出的製造檔案。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [查看原文](https://x.com/DeryaTR_/status/2095641163441254676) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Blender 現代別墅場景
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Blender 現代別墅場景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中建置完整的現代別墅場景，包含合理建築結構、帶傢俱的室內、無邊泳池、景觀、真實材質與黃金時刻電影鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [查看原文](https://x.com/karankendre/status/2095636679264780481) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### 程式化橢圓形辦公室佈景
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="程式化橢圓形辦公室佈景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把橢圓形辦公室的佈景描述轉為可執行場景程式碼，在 Blender 中建置可編輯傢俱、牆體、燈光與機位，再用 Cycles 輸出電影感渲染。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [查看原文](https://x.com/higgsfield_ai/status/2095630197257367857) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Unity 太空戰壕突襲遊戲
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Unity 太空戰壕突襲遊戲"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Unity 中重現經典太空戰壕突襲體驗，包含高速低空飛行、炮塔火力、障礙、瞄準、不斷升級的壓力、最終目標和電影感成敗演出。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [查看原文](https://x.com/ronaldmannak/status/2095630044102279312) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### 藍圖經 Blender 到 Unreal 建築視覺化
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="藍圖經 Blender 到 Unreal 建築視覺化"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+從給定建築藍圖出發，在 Blender 中建立準確、可編輯的模型，再傳入 Unreal Engine，製作具有正確尺度、碰撞和燈光的可漫遊建築視覺化。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [查看原文](https://x.com/LinusEkenstam/status/2095624712244072551) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="text-to-explorable-unity-city-2095623452678144366"></a>
+
+### 文字生成可探索 Unity 城市
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="文字生成可探索 Unity 城市"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+把給定城市願景轉為可探索 Unity 環境，包含高樓、道路、車輛、棕櫚樹與氛圍燈光，並建立可信尺度、導航、交通動態和流暢第一人稱鏡頭。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [查看原文](https://x.com/0x0SojalSec/status/2095623452678144366) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="three-js-marble-factory-2095622065390772322"></a>
+
+### Three.js 彈珠工廠
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js 彈珠工廠"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立 Three.js 彈珠工廠模擬，呈現清晰生產流程、運動彈珠與機械，讓使用者跟隨彈珠觀察過程。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-marble-factory-2095622065390772322) · [查看原文](https://x.com/JohnKlerAI/status/2095622065390772322) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
+
+### 照片級 3D 產品樣機工具
+
+[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="照片級 3D 產品樣機工具"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立瀏覽器工具，把上傳的圖案貼到照片級 3D 產品樣機上。支援環繞鏡頭、材質與顏色控制、環境燈光、多種產品和高解析度匯出。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [查看原文](https://x.com/joshmillgate/status/2095619319690400253) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
+
+### 3D 博物館電影預演
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D 博物館電影預演"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置 3D 博物館電影預演，規劃場地、演員位置、鏡頭排程與分鏡表。確保每個機位都處在物理空間內，再為下游影片生成匯出一致的引導。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [查看原文](https://x.com/higgsfield_ai/status/2095616529572503593) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
+
+### 房產頁面轉 3D 宣傳片
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="房產頁面轉 3D 宣傳片"></a>
+
+*根據原作品整理的創作說明*
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
+
+**提示詞**
+
+```text
+使用給定房產頁面及全部照片重建 3D 住宅，推斷連貫戶型，再製作精緻宣傳漫遊影片。標記不確定的幾何關係，並在首輪後繼續修正偏差。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [查看原文](https://x.com/realYunfanYe/status/2095612137582526615) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
+
+### 逐街復刻曼哈頓 Unreal 世界
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="逐街復刻曼哈頓 Unreal 世界"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Unreal Engine 中建置可探索的曼哈頓世界。按行政區與街道逐步製作，保留可辨識的尺度、道路、地標、交通和街區氣質，併為每個區域建立驗收清單，合格後再繼續。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [查看原文](https://x.com/mattshumer_/status/2095609734845927525) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
 
 ### 面向零經驗使用者的語音 3D 遊戲
@@ -837,260 +1079,6 @@
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [查看原文](https://x.com/rege_dev/status/2095111032171876470) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### 高達風機甲展示
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="高達風機甲展示"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立精緻的 Three.js 原創高達風機甲展示，包含機械關節、尺度參照、戲劇化燈光與檢視鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [查看原文](https://x.com/usecrayon/status/2095106919530930221) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### 參考圖驅動的 Three.js 作品集
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="參考圖驅動的 Three.js 作品集"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把給定視覺參考重建為精緻的 Three.js 網站，加入分層粒子、VHS 與 CRT 質感、流暢轉場和響應式互動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [查看原文](https://x.com/MengTo/status/2095104073590808644) · [專案原始碼](https://github.com/MengTo/sublevel-studio) · [線上展示](https://mengto.github.io/sublevel-studio/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### 互動式 F-35A 技術模型
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="互動式 F-35A 技術模型"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-透過程式碼生成高細節互動式 F-35A，準確處理比例、控制面、起落架、座艙提示、標籤和檢視動畫。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [查看原文](https://x.com/SahilExec/status/2095094543339446572) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Three.js MS-06 風格機甲
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js MS-06 風格機甲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在乾淨白色背景上用 Three.js 建立高細節 MS-06 風格機甲，確保主體清晰，並完善比例、材質與檢視控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [查看原文](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### 單 HTML 檔案中的鮮活宇宙
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="單 HTML 檔案中的鮮活宇宙"></a>
-
-**提示詞**
-
-```text
-在一個 HTML 檔案中建置一個鮮活宇宙。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [查看原文](https://x.com/tiny_frontier/status/2095054116372508955) · [線上展示](https://genesis-demo.tinyfrontier.xyz/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### 原生 C++ 類魂遊戲
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="原生 C++ 類魂遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用原生 C++ 建立受 Bloodborne 啟發的類魂遊戲，包含原創美術、動畫、音效和音樂，以及響應靈敏的戰鬥、敵人、Boss 與完整短關卡。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/native-c-souls-like-game-2095053114600755576) · [查看原文](https://x.com/wizardbrainz/status/2095053114600755576) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
-
-### 可玩的 3D 蛇梯棋
-
-[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="可玩的 3D 蛇梯棋"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建置完整可玩的 3D 蛇梯棋，包含骰子動畫、棋盤移動、蛇與梯子、回合、勝利狀態和清晰玩家回饋。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [查看原文](https://x.com/karanC_12/status/2095050993184669825) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
-
-### 肖像轉動態體素
-
-[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="肖像轉動態體素"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把上傳肖像轉成超過一萬個可互動 3D 體素，加入波浪位移、賽博朋克 Shader、高效例項化和指標驅動運動。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [查看原文](https://x.com/TenthPrime/status/2095048967092625663) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-three-js-castle-2095048818203275584"></a>
-
-### 互動式 Three.js 城堡
-
-[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="互動式 Three.js 城堡"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用 Three.js 建置互動式 3D 城堡，包含可探索房間、塔樓、城門、地形、氛圍燈光以及流暢的桌面和移動端控制。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-three-js-castle-2095048818203275584) · [查看原文](https://x.com/debugsenpai/status/2095048818203275584) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
-
-### NIGHTBAND 互動式短波電臺
-
-[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="NIGHTBAND 互動式短波電臺"></a>
-
-**提示詞**
-
-```text
-在單個自包含 HTML 檔案中建立你能做出的最令人印象深刻的網站。你擁有完全的創作自由，目標是展示智慧、創意、技術能力與原創性。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [查看原文](https://x.com/NeoAIForecast/status/2095026928210346175) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="complete-unity-tennis-game-2095021275236495408"></a>
-
-### 完整 Unity 網球遊戲
-
-[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="完整 Unity 網球遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-完成一款可玩的 Unity 網球遊戲，使用 Blender 製作角色，並實現可靠控制、移動與揮拍動畫、球體物理、計分、對手和比賽流程。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [查看原文](https://x.com/chongdashu/status/2095021275236495408) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
-
-### 發光峽谷上方的古代神廟
-
-[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="發光峽谷上方的古代神廟"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立程式化 Three.js 場景：黃昏時分，一座古代神廟懸浮在發光峽谷上方，加入風中布料、體積光、閃電和電影感接近鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [查看原文](https://x.com/pradeepXkapoor/status/2095012880383099339) · [返回案例導覽](#all-prompts)
 
 ---
 

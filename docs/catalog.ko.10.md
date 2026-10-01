@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (26)</summary>
+<summary>사례 둘러보기 (38)</summary>
 
+- [단일 파일 Three.js로 만드는 컴퓨터 작업대 3D 방 프롬프트](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [UE5 비유클리드 문 포털용 Claude Opus 5 프롬프트](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [Three.js 게임 제작을 위한 간단한 FPS 프롬프트](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [CS2·Battlefield 스타일 FPS용 Claude Opus 5 프롬프트](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Claude Opus 5 AAA 슈터 게임 프롬프트](#aaa-shooter-game-2082180453889712318)
+- [HTML 하나로 플레이하는 다크 판타지 횡스크롤](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
+- [3D MMO를 위한 Claude Opus 5 개발 과정](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [플레이 가능한 Chrome Dino 게임 만들기](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [사실적인 헬리콥터 슈터를 위한 Kimi K3 프롬프트](#realistic-helicopter-shooter-game-2081791572115435765)
+- [Subway Surfers 스타일 게임을 위한 Kimi K3 프롬프트](#subway-surfers-style-game-2081766198082220514)
+- [Counter-Strike 스타일 Three.js FPS용 Claude Opus 5 프롬프트](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [무한 Three.js 종이 머신을 만드는 Claude Fable 5 프롬프트](#infinite-three-js-paper-machine-2081533777340506251)
 - [인터랙티브 3D 로봇 손 시뮬레이션용 Claude Opus 5 프롬프트](#interactive-3d-robotic-hand-simulation-2081475055536820506)
 - [3D 구성 도구에 Vespa 125 추가하기](#vespa-125-3d-configurator-2081439705506435440)
 - [극도로 사실적인 3D 비행 시뮬레이터 프롬프트](#ultra-realistic-3d-flight-simulator-2081403842256605254)
@@ -56,6 +68,294 @@
 - [Three.js 비행기 내부 워크스루 체험 프롬프트](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### 단일 파일 Three.js로 만드는 컴퓨터 작업대 3D 방 프롬프트
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="단일 파일 Three.js로 만드는 컴퓨터 작업대 3D 방 프롬프트"></a>
+
+**프롬프트**
+
+```text
+컴퓨터 작업대 주변에 탐험 가능한 3D 방을 만드세요. 독립 실행 HTML 파일 하나, importmap으로 Three.js 사용, 절차적 지오메트리만 허용. 외부 메시와 이미지 텍스처 없이, 레이아웃이나 스타일 지정도 없습니다. ‘당신이 디자이너입니다. 놀라게 해주세요.’
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [원본 게시물](https://x.com/thehypedotnews/status/2082451081733591520) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### UE5 비유클리드 문 포털용 Claude Opus 5 프롬프트
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="UE5 비유클리드 문 포털용 Claude Opus 5 프롬프트"></a>
+
+**프롬프트**
+
+```text
+‘주변에도 뒤에도 아무것도 없는 빈 공간에 문 하나가 서 있습니다. 문은 레벨의 다른 곳에 있는 교실로 열립니다. 그대로 걸어 통과할 수 있어야 하며 컷, 페이드, 로딩 화면, 순간이동처럼 느껴지는 어떤 것도 없어야 합니다. 양쪽에서, 모든 각도에서 작동해야 합니다.’
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [원본 게시물](https://x.com/ombrageplays/status/2082436347113951333) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### Three.js 게임 제작을 위한 간단한 FPS 프롬프트
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Three.js 게임 제작을 위한 간단한 FPS 프롬프트"></a>
+
+**프롬프트**
+
+```text
+FPS를 만들어주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [원본 게시물](https://x.com/codewithantonio/status/2082242351372599770) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### CS2·Battlefield 스타일 FPS용 Claude Opus 5 프롬프트
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="CS2·Battlefield 스타일 FPS용 Claude Opus 5 프롬프트"></a>
+
+**프롬프트**
+
+```text
+CS2와 Battlefield를 섞은 1인칭 슈터를 만들어보세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [원본 게시물](https://x.com/AnatoliKopadze/status/2082241827298557966) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Claude Opus 5 AAA 슈터 게임 프롬프트
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Claude Opus 5 AAA 슈터 게임 프롬프트"></a>
+
+**프롬프트**
+
+```text
+최근 Claude Opus 5로 만든 Call of Duty 스타일 게임이 화제가 되고 있습니다. 제작자는 프롬프트 하나로 만들었다고 주장합니다. 의심하는 사람이 많자 제작자가 코드와 프롬프트를 직접 공개했습니다.
+
+처음에는 아주 복잡할 줄 알았는데, 실제로는 몇백 단어 정도였습니다. 핵심은 반복입니다.
+
+프롬프트는 다음과 같습니다.
+
+‘최신 Call of Duty 수준의 1인칭 슈터를 개발해주세요. 흠잡을 데 없어야 하며 그래픽이 놀랍도록 아름다워야 합니다. 텍스처부터 물리 효과까지 생각할 수 있는 모든 요소가 AAA 수준이어야 합니다.
+
+여러 서브에이전트를 만들고 각 세부 요소를 개별 담당하게 하여 완벽하게 만드세요. 각 항목을 /loop 하고 독립적인 서브에이전트가 시각 검사를 통해 AAA 수준인지 확인하게 하세요. 이 독립 검토자는 극도로 엄격해야 하며, AAA 수준에 도달하지 않으면 계속 확인해야 합니다.
+
+Call of Duty와 비교한 모든 서브에이전트가 그래픽 품질에 완전히 감탄할 때까지 멈추지 마세요. 두 게임을 나란히 비교하고 시각적 요소만 보지 않고도 어느 쪽이 나은지 지적할 수 있어야 합니다. ThreeJS로 작업하세요. 완벽해질 때까지 /loop 하세요. 여러 서브에이전트를 만들고 UltraCode로 최적화하세요.’
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/aaa-shooter-game-2082180453889712318) · [원본 게시물](https://x.com/ziqinyuan/status/2082180453889712318) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### HTML 하나로 플레이하는 다크 판타지 횡스크롤
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="HTML 하나로 플레이하는 다크 판타지 횡스크롤"></a>
+
+**프롬프트**
+
+```text
+HTML 파일 하나로 플레이 가능한 다크 판타지 횡스크롤 게임을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [원본 게시물](https://x.com/slash1sol/status/2082096376763060575) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### 3D MMO를 위한 Claude Opus 5 개발 과정
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="3D MMO를 위한 Claude Opus 5 개발 과정"></a>
+
+**프롬프트**
+
+```text
+거의 모든 코드는 Claude Opus 5로 작성했습니다.
+
+하지만 수천 번의 반복 속에서도 프로젝트를 계속 진행하게 해준 것은 영리한 프롬프트가 아니었습니다. AI가 코드베이스 전체를 읽지 않고도 필요한 것을 찾도록 프로젝트를 정리한 것이었습니다.
+
+1. 지시를 한곳에 몰지 말고 코드 옆에 두기
+모든 폴더에 자주 쓰는 작업 흐름과 이전에 발견한 함정을 담은 가이드가 있습니다. 해당 폴더에서 세션을 시작하면 자동으로 로드됩니다. 몬스터 작업을 하면서 맵 가이드의 컨텍스트 비용까지 낼 필요가 없습니다. 작업 전 필요한 컨텍스트는 약 76,000토큰에서 약 10,000토큰으로 줄었습니다.
+
+2. 자제력이 아니라 도구로 규칙을 강제하기
+순환 import나 중앙 정의 대신 사용 지점에 직접 쓴 색상 값을 감지하면 빌드를 실패시키는 스크립트를 작성하게 했습니다. AI가 모든 규칙을 기억하길 바라기보다 커밋이 실패하게 만드는 편이 훨씬 믿을 만합니다.
+
+3. TypeScript가 알려주게 하기
+효과 없이 스킬을 추가하면 컴파일되지 않습니다. 모델을 만들지 않고 몬스터를 추가해도 컴파일되지 않습니다. 타입 시스템이 허용하지 않으므로 잊어버린 채 넘어갈 수 없습니다.
+
+4. 콘텐츠를 데이터 중심으로 만들기
+몬스터, 스킬, 아이템 추가는 시스템 전체 수정이 아니라 행 하나 추가여야 합니다. AI는 ‘일관성을 유지해야 할 다섯 곳 수정’보다 ‘행 하나 추가’를 훨씬 정확하게 처리합니다.
+
+5. 효과적인 프롬프트는 절차가 아닌 평가 기준을 정하기
+예를 들어 ‘일반 몬스터는 2~5초 안에 죽어야 한다’, ‘모든 맵의 최소 97%에 도달할 수 있어야 한다’, ‘드롭률 3% 미만인 아이템은 없어야 한다’입니다. 그런 다음 그 기준을 테스트로 구현합니다. 좋은 결과가 무엇인지 알면 AI는 경로를 찾고 성공 여부도 판단할 수 있습니다.
+
+요약하면, 먼저 구조와 테스트에 투자하고 그다음 프롬프트에 투자하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [원본 게시물](https://x.com/vibecodingth/status/2082035844836450334) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### 플레이 가능한 Chrome Dino 게임 만들기
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="플레이 가능한 Chrome Dino 게임 만들기"></a>
+
+**프롬프트**
+
+```text
+플레이 가능한 Chrome Dino 게임을 만들어주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [원본 게시물](https://x.com/unseenmars_/status/2081867025140650236) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### 사실적인 헬리콥터 슈터를 위한 Kimi K3 프롬프트
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="사실적인 헬리콥터 슈터를 위한 Kimi K3 프롬프트"></a>
+
+**프롬프트**
+
+```text
+사실적인 헬리콥터 슈터를 만들어주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [원본 게시물](https://x.com/Abobsterina/status/2081791572115435765) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### Subway Surfers 스타일 게임을 위한 Kimi K3 프롬프트
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Subway Surfers 스타일 게임을 위한 Kimi K3 프롬프트"></a>
+
+**프롬프트**
+
+```text
+Subway Surfers 게임을 만들어주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/subway-surfers-style-game-2081766198082220514) · [원본 게시물](https://x.com/Arindam_1729/status/2081766198082220514) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### Counter-Strike 스타일 Three.js FPS용 Claude Opus 5 프롬프트
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Counter-Strike 스타일 Three.js FPS용 Claude Opus 5 프롬프트"></a>
+
+**프롬프트**
+
+```text
+기차역을 배경으로 한 Counter-Strike 스타일 전술 FPS. Three.js, 단일 HTML 파일, 모든 에셋은 독창적으로 제작.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [원본 게시물](https://x.com/BuildFastWithAI/status/2081607528790856068) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### 무한 Three.js 종이 머신을 만드는 Claude Fable 5 프롬프트
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="무한 Three.js 종이 머신을 만드는 Claude Fable 5 프롬프트"></a>
+
+**프롬프트**
+
+```text
+프롬프트 하나로 무한 Three.js 종이 머신을 만드세요. 정적인 Pinterest 콘셉트를 실제 작동하는 3D 웹앱으로 바꾸세요. 종이 띠가 무한히 굴러가면서 표면에 동적인 이미지를 실시간으로 계속 인쇄해야 합니다.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [원본 게시물](https://x.com/RoundtableSpace/status/2081533777340506251) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
 
 ### 인터랙티브 3D 로봇 손 시뮬레이션용 Claude Opus 5 프롬프트

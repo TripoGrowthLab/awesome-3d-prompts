@@ -28,6 +28,18 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [Римское поле битвы в золотой час](#gpt-6-astra-2103351755971207251)
+- [STILLWATER — лунное болото в браузере](#gpt-6-astra-2103308083242082314)
+- [Интерактивная 3D-сцена запуска ракеты над океаном](#claude-opus-5-5-2103303303358534021)
+- [Интерактивное средневековое королевство для Claude Opus 5.5](#claude-opus-5-5-2103257687492374597)
+- [Туманное осеннее исследуемое пространство на Three.js](#gpt-6-astra-2103211135214256350)
+- [На север: интерактивное путешествие на драккаре](#gpt-6-astra-2103187935759655167)
+- [Пустота: короткометражный фильм о соборе, наполненном светом витражей](#claude-opus-5-5-2103145567945986461)
+- [Игра в стиле Genshin Impact в Сан-Франциско](#claude-opus-5-5-2103144530157687114)
+- [Кинематографичный фильм о битве при Аустерлице](#claude-opus-5-5-2103116235009347650)
+- [Создайте Эйфелеву башню в Three.js](#claude-opus-5-5-2103106070549757960)
+- [Crazy Tanks — 3D-артиллерия на острове](#crazy-tanks-3d-island-artillery)
+- [Анимация на Three.js уровня Pixar для Grid Genius](#claude-opus-5-5-2103087766662009118)
 - [Игра в реальном времени: пеликан на велосипеде](#claude-opus-5-5-2103083781490176212)
 - [Интерактивная 3D-долька цитруса](#gpt-6-astra-2103062348168618280)
 - [Создайте имперский город](#claude-opus-5-5-2103046279253168554)
@@ -66,20 +78,808 @@
 - [3D-сцена и видео с Токийской башней днём и ночью](#gpt-6-astra-2102276620124062065)
 - [Bubble Bay: 3D-битва водяных шаров](#bubble-bay)
 - [Интерактивная презентация дизайна 3D-вертолёта](#gpt-6-astra-2102215638311694336)
-- [Процедурная браузерная гоночная игра Spline Rush](#gpt-6-astra-2102150615635816866)
-- [Интерактивная 3D-модель Солнца](#gpt-6-astra-2102038136725377200)
-- [Verdant — интерактивный 3D-остров с динозаврами](#gpt-6-astra-2101730386711634251)
-- [Создайте 3D-модель WALL-E в Three.js](#gpt-6-astra-2101687900723106104)
-- [Парусник в открытом море](#gpt-6-astra-2101616345720787130)
-- [TITANIC — Последний свет](#titanic-the-last-light)
-- [3D-модель Waymo Jaguar I-Pace](#gpt-6-astra-2101325346427842909)
-- [Процесс создания 3D-анимации и видео о коте-кунфуисте](#gpt-6-astra-2101310374033428642)
-- [Интерактивная 3D-модель авиационного двигателя](#gpt-6-astra-2101271938706685991)
-- [Фотореалистичная 3D-сцена целиком](#gpt-6-astra-2101224659861590399)
-- [Галактика на основе реальной орбитальной физики](#gpt-6-astra-2101055500599054437)
-- [Monster Block — 45 секунд на разрушение города](#monster-block)
 
 </details>
+<a id="gpt-6-astra-2103351755971207251"></a>
+
+### Римское поле битвы в золотой час
+
+[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="Римское поле битвы в золотой час"></a>
+
+**Референсы:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
+
+**Промпт**
+
+```text
+ЗАДАНИЕ
+Создайте в Blender сцену римского поля битвы в золотой час по предоставленному концепт-арту. Генерация разрешена. Вы можете создавать 3D-модели окружения и его элементов с помощью доступных инструментов генерации (Tripo по адресу https://t.co/JV0K8OtuWC)) и собирать их в сцену. При этом всё должно выглядеть как единая цельная сцена: соблюдайте единый масштаб, согласованные материалы и целостное освещение. Требования: используйте карты рельефа для земли и сделайте её высокодетализированной.
+Создайте на земле круглую свободную площадку и окружите её крупными валунами, сформировав арену для поединка один на один.
+Добейтесь реалистичного рендера всей сцены.
+По возможности создавайте ассеты процедурно.
+Создайте скайбокс с небом в золотой час.
+Используйте жёсткие тени.
+Повторно используйте объекты (флаги, знамёна, шлемы, камни и т. д.). Экспортируйте каждый объект в формате GLB и повторно используйте эти ассеты.
+Как можно точнее и аккуратнее сопоставьте сцену с предоставленным изображением.
+ТРЕБОВАНИЕ К ТАЙМЛАПСУ
+Во время работы после каждого существенного добавления сохраняйте скриншот вьюпорта в пронумерованную папку timelapse/ (после добавления каждого нового объекта, прохода с модификаторами, этапа настройки материала и этапа настройки освещения — строго по порядку). После завершения работы соберите эти кадры в видео-таймлапс с частотой 2 кадра/с (по 0,5 с на кадр), чтобы весь процесс сборки можно было просмотреть от начала до конца. Передайте видео-таймлапс вместе с основными файлами.
+DELIVERABLES
+Файл .blend с настроенными камерой и вьюпортом, чтобы вид в точности соответствовал исходному изображению.
+Видео таймлапса процесса сборки.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+THE TASK
+Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
+Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
+Render everything realistically.
+Create assets procedurally where possible.
+Create a skybox for golden-hour sky.
+Use harsh shadows.
+Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
+Match the supplied image as closely and accurately as possible.
+TIMELAPSE REQUIREMENT
+While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
+DELIVERABLES
+The .blend file, with camera and viewport set so the view exactly matches the original image.
+The build timelapse video.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103351755971207251) · [Исходная публикация](https://x.com/tonysurix/status/2103352274269675532) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103308083242082314"></a>
+
+### STILLWATER — лунное болото в браузере
+
+[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — лунное болото в браузере"></a>
+
+**Промпт**
+
+```text
+Создайте браузерный проект на Three.js под названием STILLWATER. Тон: залитое лунным светом болото, в котором легко заблудиться. Это не игра с врагами и не фотореалистичный проект на Unreal. Это тихий, дорогой на вид веб-мир, где отражения в воде — главный визуальный эффект. Игроки должны неприлично долго смотреть на воду.
+
+СЕТТИНГ
+— Название локации: THE DEEP SWAMP
+— Время на HUD: 19:26
+— Первое названное место: Излучина цапли
+— Слоган под названием места: «Оставьте немного места дикой природе.»
+— Всплывающее уведомление при прибытии: «Открыто: Излучина цапли»
+
+МИР
+Затопленное кипарисовое болото на восходе луны, в поздних сумерках.
+— Высокие деревья с узловатыми корнями, стоящие в чёрно-зелёной воде
+— Длинные пряди испанского мха
+— Скопления кувшинок вдоль берегов
+— Узкий извилистый канал, выходящий в более широкую излучину
+— Густой объёмный туман, бирюзово-зелёная даль, пурпурно-розовое облачное небо
+— Яркая луна с длинной прерывистой дорожкой отражения на воде
+— Несколько птиц, пересекающих небо
+— Тёплый свет из рубки лодки, пробивающийся сквозь сумрак
+
+ВОДА (не экономьте на качестве)
+Это главный визуальный элемент.
+— Отражения деревьев, луны, тумана и огней лодки в реальном времени
+— Лёгкая зыбь, а не океанские волны
+— Кувшинки, лежащие на поверхности и покачивающиеся на воде
+— Пена у берега и тёмная таниновая вода возле корней
+— Экранные или планарные отражения такого качества, чтобы лунная дорожка выглядела кинематографично
+— Сохраняйте 60 кадров/с. Используйте LOD для деревьев и инстансинг растительности.
+
+ЛОДКА
+Небольшая потёртая лодка с рубкой, типа рабочего катера.
+— Номер 86 на корме
+— Белая рубка, тёмно-синий корпус, тёплые лампы внутри
+— Дрейф по каналу на холостом ходу, опционально — медленная экскурсия с управляемым маршрутом
+— Скорость на HUD: около 15,9 УЗЛА
+— Режим: УПРАВЛЯЕМЫЙ ДРЕЙФ
+Игрок может осматриваться. Лодку можно показывать в кинематографичном ракурсе преследования или в боковой орбите.
+
+КАМЕРА
+— Начальный план: лодка в три четверти среди деревьев
+— Дрейф за кормой по залитому лунным светом руслу
+— Иногда камера скользит в сторону, проходя мимо ствола на переднем плане
+— Осмотр перетаскиванием
+— Опционально: ФОТОРЕЖИМ
+Ощущение документального фильма о природе, а не шутера от первого лица.
+
+ИНТЕРФЕЙС — редакционный, а не игровой
+В левом верхнем углу: небольшой знак + STILLWATER
+В верхней центральной части: THE DEEP SWAMP / 19:26, курс компаса (например, 314°)
+В правом верхнем углу: ненавязчивые служебные иконки
+В левом нижнем углу:
+  ИССЛЕДУЕТЕ STILLWATER
+  Излучина цапли
+  Оставьте немного места дикой природе.
+  15,9 УЗЛА
+  УПРАВЛЯЕМЫЙ ДРЕЙФ
+В правом нижнем углу: ФОТОРЕЖИМ, fps, Пауза
+Внизу по центру: небольшое уведомление «Открыто: Излучина цапли»
+Небольшая строка подсказок: шейдеры / вода / осмотр перетаскиванием / фотографии / дикая природа
+
+Визуальный стиль: тёмная плёночная цветокоррекция, приглушённые зелёные оттенки, пурпурные облака, единственный лунный блик. Важнее вкус и выразительность, чем реализм. Никакого раздутого отладочного GUI.
+
+ТЕХНОЛОГИИ
+Three.js в браузере. Процедурная и инстансированная природа. Кастомный шейдер воды. Туман. Мягкие тени или освещение сумерек с видом запечённого. По возможности создайте окружение самостоятельно, не используя готовый набор болотных ассетов из магазина.
+
+НЕ добавляйте бои, инвентарь, внезапные пугающие моменты или поиски сокровищ. Позже под водой может кто-то скрываться — но не сейчас.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103308083242082314) · [Исходная публикация](https://x.com/YouWareAI/status/2103310302993621090) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103303303358534021"></a>
+
+### Интерактивная 3D-сцена запуска ракеты над океаном
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Интерактивная 3D-сцена запуска ракеты над океаном"></a>
+
+**Промпт**
+
+```text
+Создайте кинематографичную, высокодетализированную интерактивную 3D-сцену запуска ракеты со стартовой платформы в океане на рассвете. Поставьте весь проект в один HTML-файл, который напрямую открывается в Chrome. Используйте Three.js + WebGL и процедурно создаваемые ресурсы. По возможности встраивайте ресурсы в файл; для библиотеки рендеринга можно использовать надёжный CDN.
+
+ХУДОЖЕСТВЕННОЕ НАПРАВЛЕНИЕ
+Создайте драматичный переход от тёмного сине-фиолетового океана перед рассветом к тёплому солнечному свету над атмосферой. Используйте убедительные пропорции, детализированные материалы, атмосферную перспективу и тщательно выстроенные ракурсы камеры. Результат должен восприниматься как отполированный миниатюрный фильм о космическом полёте.
+РАКЕТА И СТАРТОВАЯ ПЛАТФОРМА
+Создайте убедительную многоступенчатую ракету с оформленным носовым обтекателем, швами панелей, силовыми кольцами, межступенчатыми соединениями, соплами двигателей и головным обтекателем, который разделяется на две половины.
+
+Создайте детализированную плавучую стартовую платформу с опорной башней, убираемой монтажной фермой, сервисными рычагами, ограждениями, лестницами, трубами, оборудованием, прожекторами и мигающими сигнальными маяками. Все конструкции должны быть физически соединены и правильно расположены.
+ПОСЛЕДОВАТЕЛЬНОСТЬ ЗАПУСКА
+Создайте последовательность продолжительностью примерно 46 секунд:
+
+Начальный облёт камеры вокруг платформы.
+
+Сервисные рычаги и монтажная ферма убираются.
+Двигатели запускаются, освещая ракету, платформу и ближайшую воду.
+Дым распространяется по палубе, пока ракета отрывается от платформы и набирает скорость.
+Камера сопровождает подъём ракеты из атмосферы в космос.
+Первая ступень отделяется и отлетает.
+Запускается двигатель второй ступени.
+Половины обтекателя расходятся, открывая спутник.
+Двигатель выключается, спутник отделяется, а его солнечные панели раскрываются.
+Завершите сцену орбитальным видом на спутник на фоне изогнутого горизонта Земли и рассвета.
+Сожмите временную шкалу полёта для презентации, сохранив согласованность движения. Избегайте резких скачков положения, пересечения компонентов и несвязанных эффектов.
+ОКЕАН, АТМОСФЕРА И ЭФФЕКТЫ
+Используйте анимированные волны океана на основе шейдеров с отражениями Френеля и тёплыми отражениями света от двигателей. Создайте многослойный выхлоп: яркое ядро, более мягкое внешнее пламя и дрейфующие частицы дыма.
+Дым должен расширяться, рассеиваться и реагировать на ветер. Выхлоп на всех этапах должен оставаться прикреплённым к соответствующему двигателю. Плавно переходите от атмосферной дымки к тёмному звёздному небу и освещённому краю Земли.
+
+КАМЕРА И ВЗАИМОДЕЙСТВИЕ
+Используйте плавные кинематографичные переходы камеры: общий начальный план, ракурс снизу в момент запуска, сопровождение подъёма, разделение ступеней и крупный план спутника. Главный объект должен оставаться видимым как в портретной, так и в альбомной ориентации.
+
+Добавьте кнопки воспроизведения и паузы, повторный запуск и ползунок перемотки с маркерами событий. Переход к любой позиции должен восстанавливать корректную конфигурацию ракеты, состояние частиц, положение камеры и освещение. Повторное воспроизведение должно полностью и корректно сбрасывать последовательность.
+Интерфейс должен быть минимальным и ненавязчивым. Предусмотрите возможность скрыть его для записи.
+
+ТЕХНИЧЕСКОЕ КАЧЕСТВО
+Используйте анимацию, независимую от частоты кадров, и эффективные системы частиц. По возможности переиспользуйте геометрию и материалы, корректно обрабатывайте изменение размеров окна и находите баланс между визуальной детализацией и плавной производительностью.
+
+Проверьте итоговый HTML в браузере на компьютере. Просмотрите консоль и сделайте скриншоты в моменты запуска двигателей, отрыва от платформы, разделения ступеней и развёртывания спутника. Перед передачей файла исправьте ошибки загрузки, обрезание объектов, проблемы с геометрией, неисправную перемотку и неудачную композицию кадра.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
+
+ART DIRECTION
+Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
+ROCKET AND LAUNCH PLATFORM
+Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
+
+Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
+LAUNCH SEQUENCE
+Create an approximately 46-second sequence:
+
+Establishing camera move around the platform.
+
+Service arms and strongback retract.
+Engines ignite, illuminating the rocket, platform, and nearby water.
+Smoke spreads across the deck as the rocket lifts off and accelerates.
+The camera follows the climb from the atmosphere toward space.
+The first stage separates and falls away.
+The second-stage engine ignites.
+The fairing halves separate, revealing a satellite.
+The engine shuts down, the satellite deploys, and its solar panels unfold.
+Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
+Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
+OCEAN, ATMOSPHERE, AND EFFECTS
+Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
+Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
+
+CAMERA AND INTERACTION
+Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
+
+Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
+Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
+
+TECHNICAL QUALITY
+Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
+
+Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103303303358534021) · [Исходная публикация](https://x.com/Artless101/status/2103303449831964679) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103257687492374597"></a>
+
+### Интерактивное средневековое королевство для Claude Opus 5.5
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Интерактивное средневековое королевство для Claude Opus 5.5"></a>
+
+**Промпт**
+
+```text
+Создайте собственное средневековое королевство.
+Ваше королевство представляет Claude Opus 5.5. Спроектируйте великолепный замок, вдохновлённый историей, который выражает индивидуальность этой модели через архитектуру, геральдику, цвета и атмосферу. Вы полностью свободны в художественном выборе, но сеттинг должен оставаться правдоподобным для Средневековья.
+Не ограничивайтесь размещением логотипа на типовом замке. Придайте королевству distinctive архитектурный характер и цельный визуальный образ. Придумайте герб, королевские цвета и оригинальную геральдическую эмблему. Разместите их на анимированных знамёнах, щитах, украшениях ворот и одежде замковой стражи. Поместите название королевства над главным входом.
+Создайте насыщенную деталями интерактивную 3D-сцену с использованием Three.js и WebGL. Всё должно находиться в одном автономном HTML-файле, который можно напрямую открыть в Chrome.
+ЗАМОК
+Постройте убедительную крепость с центральной цитаделью, башнями, зубчатыми стенами, куртинными стенами, внушительными надвратными сооружениями, работающим подъёмным мостом и внутренним двором.
+Добавьте тщательно смоделированную каменную кладку, арочные окна, деревянные двери, конструкции крыш, лестницы, балконы, железные элементы и небольшие архитектурные детали. Сделайте сооружения правдоподобными: у башен должны быть интерьеры или убедительная глубина, лестницы должны вести на доступные этажи, а мосты — иметь надёжные опоры.
+Окружите замок привлекательным ландшафтом, соответствующим вашему королевству: скалами, холмами, рекой, рвом, лесами или небольшой деревней. Выстройте выразительную композицию, которая красиво выглядит с разных ракурсов.
+ЖИЗНЬ И ВЗАИМОДЕЙСТВИЕ
+Оживите королевство: пусть стражники патрулируют стены, жители проходят через внутренний двор, знамёна слегка развеваются, из труб идёт дым, летают птицы, а фонари мерцают.
+Дайте зрителю возможность:
+Открывать и закрывать подъёмный мост и главные ворота.
+Следовать за патрулирующим стражником.
+Переключаться между кинематографичным общим видом, внутренним двором и крепостными стенами.
+Свободно вращать камеру и масштабировать изображение.
+Переключаться между дневным светом, закатом и ночью.
+Перемещайте персонажей только по доступным для ходьбы поверхностям. Не допускайте, чтобы они проходили сквозь стены, двери или друг друга.
+ОСВЕЩЕНИЕ И АТМОСФЕРА
+Создайте кинематографичное освещение, которое чётко раскрывает архитектуру. Используйте мягкие тени, атмосферную глубину, правдоподобную воду там, где это уместно, и сдержанную постобработку.
+Ночью подсветите окна, факелы и фонари, сохранив достаточную видимость, чтобы замок оставался хорошо различимым.
+Стремитесь к сложной, законченной 3D-работе с самобытной архитектурой и множеством деталей. Избегайте набора очевидных примитивов или повторяющихся башен, лишённых архитектурного назначения.
+ТЕХНИЧЕСКОЕ КАЧЕСТВО
+По возможности создавайте ассеты процедурно. Встраивайте текстуры и другие ресурсы непосредственно в HTML. Локальный сервер и этап сборки не должны требоваться.
+Где уместно, используйте инстансинг и объединение геометрии. Обеспечьте плавную анимацию и удобное управление камерой. Добавьте минималистичный элегантный интерфейс на английском языке и кнопку для его скрытия.
+Фактически протестируйте результат в Chrome для компьютера. Сделайте скриншоты, проверьте консоль, протестируйте все взаимодействия и исправьте ошибки рендеринга, парящие объекты, пересечения геометрии и проблемы с камерой.
+Сделайте замок таким, чтобы люди узнавали в нём ИМЕННО ваше королевство ещё до того, как прочитают его название.
+Верните готовый автономный HTML-файл.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build your own medieval kingdom.
+Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
+Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
+Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
+THE CASTLE
+Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
+Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
+Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
+LIFE AND INTERACTION
+Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
+Let the viewer:
+Open and close the drawbridge and main gate.
+Follow a guard on patrol.
+Switch between a cinematic overview, the courtyard and the battlements.
+Rotate and zoom freely.
+Change between daylight, sunset and night.
+Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
+LIGHTING AND ATMOSPHERE
+Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
+At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
+Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
+TECHNICAL QUALITY
+Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
+Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
+Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
+Make this a castle people would recognize as YOUR kingdom, even before reading its name.
+Return the completed standalone HTML file.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103257687492374597) · [Исходная публикация](https://x.com/vib3coded/status/2103257873203462412) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103211135214256350"></a>
+
+### Туманное осеннее исследуемое пространство на Three.js
+
+[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="Туманное осеннее исследуемое пространство на Three.js"></a>
+
+**Промпт**
+
+```text
+Создай туманную, дождливую, осеннюю и загадочную атмосферу с ностальгическим настроением — исследуемое пространство на Three.js в одном HTML/CSS/JS-файле.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103211135214256350) · [Исходная публикация](https://x.com/SimonasLTU1/status/2103211135214256350) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103187935759655167"></a>
+
+### На север: интерактивное путешествие на драккаре
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="На север: интерактивное путешествие на драккаре"></a>
+
+**Промпт**
+
+```text
+Создайте «Northbound» — красивое интерактивное 3D-путешествие по северному фьорду на борту детально проработанного викингского драккара.
+
+Создайте полноценную сцену, работающую в реальном времени, с использованием Three.js и WebGL и поставляемую в виде одного автономного HTML-файла. Это должен быть исследуемый браузерный опыт, а не предварительно отрендеренное видео или плоская иллюстрация.
+
+ВИЗУАЛЬНОЕ НАПРАВЛЕНИЕ
+
+Стремитесь к качественной кинематографичной среде с реалистичными материалами, естественными пропорциями и сдержанной цветовой палитрой. Избегайте мультяшного или низкополигонального вида.
+
+Деревянный драккар плывёт по глубоким зелёно-синим водам между отвесными скалами, густыми лесами, водопадами и небольшими северными поселениями. Используйте атмосферную перспективу, лёгкий туман, мягкие тени и убедительную глубину сцены. На протяжении всего путешествия создавайте красивые ракурсы, а не только один вид из исходного положения камеры.
+
+ДРАККАР
+
+Смоделируйте детальный герметичный корпус с перекрывающимися деревянными досками, видимой текстурой древесины, шпангоутами, скамьями и непрерывным внутренним пространством.
+Добавьте резную драконью носовую часть, полосатый тканевый парус, мачту, канаты, щиты, припасы и тёплые фонари.
+Добавьте соразмерных викингов-пассажиров и гребцов в многослойной одежде, с естественными сидячими позами и руками, расположенными рядом с вёслами.
+Все компоненты должны быть физически соединены. Не допускайте парящих пассажиров, пересечений аксессуаров и видимых просветов сквозь корпус.
+Добавьте лёгкую анимацию плавучести, продольной и поперечной качки. Парус должен мягко реагировать на ветер.
+
+ВОДА И ГРЕБЛЯ
+
+Сделайте воду центральным визуальным элементом.
+
+Используйте собственный шейдер с плоскими отражениями, преломлением, бликами Френеля, поглощением света в зависимости от глубины, видимыми мелководными участками и многослойной рябью на поверхности. Отражения должны корректно реагировать на движение камеры и изменение освещения.
+
+Создайте убедительный кильватерный след за кораблём.
+
+Анимируйте полный цикл гребка: лопасти входят в воду, отводятся назад, выходят из воды и возвращаются над поверхностью. Синхронизируйте это движение с движениями гребцов.
+
+Создавайте рябь, пену и мелкие брызги в точках фактического контакта лопастей с водой. Следы должны оставаться в мировом пространстве и постепенно затухать. Не допускайте появления эффектов, когда лопасти находятся в воздухе.
+
+ОКРУЖЕНИЕ И МАТЕРИАЛЫ
+
+Используйте детализированный рельеф, неровные скальные образования, естественные силуэты деревьев, ветвящиеся стволы и отдельные кластеры листьев или хвои.
+
+Используйте PBR-материалы с картами нормалей и шероховатости для дерева, камня и грунта. Допускается встраивать текстуры с соответствующей лицензией; при необходимости указывайте атрибуцию.
+
+Подводный рельеф должен продолжаться под поверхностью воды. Не допускайте ярких швов, разрывов береговой линии, парящей растительности и деревьев, перекрывающих судоходный маршрут.
+
+CONTROLS
+
+A/D или клавиши со стрелками: поворот влево и вправо.
+W/S: регулировка скорости.
+Перетаскивание мышью: осмотр по сторонам.
+Добавьте режимы сопровождения, орбитальной камеры и кинематографичной камеры.
+Предусмотрите опциональный режим автоматического путешествия.
+Добавьте кнопки паузы, сброса, полноэкранного режима и скрытия интерфейса.
+На мобильных устройствах поддержите сенсорное управление рулением и скоростью.
+Не позволяйте кораблю проходить сквозь сушу и скалы.
+
+АТМОСФЕРА И ИНТЕРФЕЙС
+
+Предусмотрите три режима освещения с плавным переходом: «Утро», «Пасмурно» и «Лунный свет».
+
+Добавьте опциональные звуки воды, ветра, птиц и гребли. Аудио должно запускаться только после взаимодействия с пользователем.
+
+Создайте минималистичный редакционный интерфейс: надпись «Northbound.» элегантным шрифтом с засечками, ненавязчивые обозначения глав и компактную полупрозрачную панель управления. Не закрывайте пейзаж.
+
+ПРОИЗВОДИТЕЛЬНОСТЬ И ПУБЛИКАЦИЯ
+
+Используйте инстансинг, разумный бюджет геометрии, детализацию в зависимости от расстояния и отражающие буферы подходящего размера. Адаптируйте качество рендеринга к устройству, не обещая фиксированную частоту кадров.
+
+Поставьте один HTML-файл со встроенными скриптами и необходимыми ресурсами, чтобы его можно было открыть напрямую в современном браузере.
+
+Проверьте руление, режимы камеры, переходы между режимами освещения и греблю. Осмотрите корабль с разных ракурсов и проверьте береговую линию с низких точек обзора. До завершения работы исправьте пересечения геометрии, артефакты отражений, чрезмерные блики и ошибки в консоли.
+
+Отдайте приоритет убедительной воде, прекрасно сконструированному драккару и цельному окружению, а не добавлению новых объектов.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
+
+Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
+
+VISUAL DIRECTION
+
+Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
+
+A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
+
+THE LONGSHIP
+
+Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
+Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
+Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
+Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
+Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
+
+WATER AND ROWING
+
+Make the water a central visual feature.
+
+Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
+
+Create a believable wake behind the ship.
+
+Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
+
+Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
+
+ENVIRONMENT AND MATERIALS
+
+Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
+
+Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
+
+Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
+
+CONTROLS
+
+A/D or arrow keys: steer left and right.
+W/S: adjust speed.
+Mouse drag: look around.
+Provide follow, orbit, and cinematic camera modes.
+Include an optional automatic journey mode.
+Add pause, reset, fullscreen, and hide-interface controls.
+Support touch steering and speed controls on mobile.
+Prevent the ship from passing through land and rocks.
+
+ATMOSPHERE AND INTERFACE
+
+Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
+
+Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
+
+Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
+
+PERFORMANCE AND DELIVERY
+
+Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
+
+Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
+
+Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
+
+Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2103187935759655167) · [Исходная публикация](https://x.com/vib3coded/status/2103189762672611675) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Пустота: короткометражный фильм о соборе, наполненном светом витражей
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Пустота: короткометражный фильм о соборе, наполненном светом витражей"></a>
+
+**Промпт**
+
+```text
+Создайте в three.js короткометражный фильм в портретной ориентации 1080×1920, 30 кадров/с, продолжительностью около 36 секунд. 
+
+【Название作品】
+Пустота
+
+【Желаемый эффект】
+Это видео должно без единого персонажа передать ощущение, как из-за постоянной гонки за эффективностью мы теряем время, а в момент обретения свободного пространства жизнь наполняется богатым светом. В финале свет витража, проступающий на всём полу, должен заставить зрителя невольно затаить дыхание.
+
+【Сцена】
+・Интерьер погружённого в полумрак каменного собора. На дальней стене находится только одно окно в форме стрельчатой арки высотой 15 м и шириной 10 м
+・Снаружи через окно под углом 45 градусов падает яркий свет, отбрасывая на каменный пол световое пятно в форме окна
+・В окно вставлен витраж: в центре — Дева Мария, по обеим сторонам — два ангела с расправленными крыльями, в верхней части — роза. Дизайн должен быть оригинальным, не копировать существующие произведения и иметь симметричную композицию
+
+【Временная структура】
+0–3 секунды: свет, проникающий через окно, пока ещё бесцветный и белый. На полу — мягкое белое световое пятно
+3–11 секунд: серые кубы с выгравированными словами «Занят», «Оптимизация», «Срочно», «Дедлайн» и другими подобными выражениями один за другим влетают с переднего плана и заполняют окно. Темп их появления постоянно ускоряется, а по мере заполнения окна помещение погружается во тьму
+11–14 секунд: окно полностью закрыто, вокруг царят тьма и тишина
+14–19 секунд: только один блок со словом «Занят» отделяется от окна и падает вниз, превращаясь в частицы света и исчезая. Через образовавшееся отверстие пробивается яркий луч насыщенного цвета
+19–26 секунд: начиная с первого отверстия блоки один за другим отделяются от окна. С каждым новым отверстием становится больше разноцветных световых столбов, а скрытый витраж постепенно открывается взгляду
+26–33 секунды: все блоки исчезают, камера проходит сквозь световые столбы и поднимается, чтобы посмотреть на пол строго сверху. Весь пол покрыт проекцией витража с Девой Марией и ангелами, сияющей яркими цветами
+33–36 секунд: весь экран окутывает ослепительный свет, появляется финальная фраза, и видео тихо завершается
+
+【Текстовые фразы (сдержанно появляются и исчезают, шрифт минcho)】
+・«Каждый день — ещё быстрее.»
+・«Ещё эффективнее.»
+・«И вдруг я заметил: свет больше не проникает внутрь.»
+・«Попробую отпустить хотя бы что-то одно.»
+・«Свет проникает туда, где освободилось место.»
+・«И этот свет оказался богаче прежнего.»
+・В финале крупно: «Изобилие рождается в свободном пространстве»
+
+【Свет и материалы】
+・Световые столбы окрашены в цвет соответствующего участка витража, а взвешенная в воздухе пыль мерцает
+・Проекция на полу должна точно отражать, какие отверстия в окне открыты: участки, закрытые блоками, остаются в тени
+・Блоки выполнены из матового серого материала с безликим индустриальным видом. Надписи выгравированы белым цветом
+・В первой половине преобладают холодные ахроматические тона, во второй — похожие на драгоценные камни красный, синий и золотой. Этот контраст должен передавать ощущение обретённого изобилия
+
+【Технические условия】
+・Изображение витража сгенерируйте как текстуру, а свет на полу, световые столбы и изображение в окне рассчитайте на основе одного и того же изображения, чтобы они полностью совпадали
+・Точно продвигайте время с шагом 1/30 секунды, экспортируйте каждый кадр отдельно и соберите их в MP4
+
+【Финальная проверка】
+Отрендерьте и проверьте каждую сцену в реальном виде. Перед передачей исправьте результат, если на проекции пола нельзя распознать Деву Марию и ангелов, если текст плохо читается или движения выглядят резкими и неестественными.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103145567945986461) · [Исходная публикация](https://x.com/AGIOyaZ/status/2103145567945986461) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Игра в стиле Genshin Impact в Сан-Франциско
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Игра в стиле Genshin Impact в Сан-Франциско"></a>
+
+**Промпт**
+
+```text
+Создай игру в стиле Genshin Impact, действие которой происходит в Сан-Франциско.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103144530157687114) · [Исходная публикация](https://x.com/every/status/2103144530157687114) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Кинематографичный фильм о битве при Аустерлице
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Кинематографичный фильм о битве при Аустерлице"></a>
+
+**Референсы:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**Промпт**
+
+```text
+Создайте 4–5-минутное кинематографичное видео о битве при Аустерлице (1805), полностью созданное средствами кода.
+
+Тщательно изучите битву и самостоятельно решите, как рассказать эту историю, выстроить темп повествования, объяснить стратегию и визуализировать события. Видео должно быть исторически достоверным, драматичным, понятным и визуально впечатляющим.
+
+Используйте приложенные картины как источник визуального вдохновения, а не как обязательное стилевое требование. Мне нравятся их масштаб, атмосфера, дым, драматичное небо, кавалерия, плотные боевые построения, ландшафт и ощущение хаоса. Найдите способ передать это настроение средствами кода — но если сможете придумать более выразительный визуальный язык, используйте его.
+
+Видео не должно напоминать типичную инфографику или стратегическую игру. Это должен быть кинематографичный исторический фильм, который лишь создан с помощью кода.
+
+У вас полная творческая свобода. Удивите меня.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103116235009347650) · [Исходная публикация](https://x.com/WinterArc2125/status/2103116689944502720) · [Исходный код](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Создайте Эйфелеву башню в Three.js
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · 3D-ассеты
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Создайте Эйфелеву башню в Three.js"></a>
+
+**Промпт**
+
+```text
+создайте Эйфелеву башню в Three.js.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103106070549757960) · [Исходная публикация](https://x.com/0xPascual/status/2103106070549757960) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="crazy-tanks-3d-island-artillery"></a>
+
+### Crazy Tanks — 3D-артиллерия на острове
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — 3D-артиллерия на острове"></a>
+
+**Промпт**
+
+```text
+1. Цель проекта
+Создайте Crazy Tanks — Wild Tides: полноценную играбельную пошаговую артиллерийскую игру с действительно трёхмерным миром на тропическом острове. Игрок управляет небольшим танком, учитывает ветер, заряжает выстрел с нуля и меняет рельеф поля боя с помощью снарядов. Поддержите одиночную игру против ИИ и локальную игру в режиме передачи хода, по умолчанию — бой «каждый за себя» для трёх танков, а также опциональную дуэль двух танков. Побеждает последний уцелевший танк. Используйте текущий референсный игровой процесс и скриншоты как визуальный ориентир.
+
+2. Визуальный стиль
+Используйте перспективную камеру и свободно вращаемую 3D-геометрию, а не плоские спрайты или фиксированный вид сбоку. Создайте солнечную миниатюрную диораму с округлыми танками нефритового, кораллово-оранжевого и сине-фиолетового цветов, кремовым песком, светло-зелёной травой, бирюзовой отражающей водой, мягкими тенями и лёгкой атмосферной дымкой вдали. Сохраните различимые силуэты трёх танков и соответствующие им стволы. Разместите над полем боя компактную круглую кремовую панель статуса/брони, а под ним — тёмно-бирюзовую округлую панель управления. Золотым цветом обозначайте референсную мощность и действие выстрела; мятным — фактический заряд и дружественный статус. Переключатель внешнего вида Tripo / Three.js должен быть заметен в верхней части интерфейса; по умолчанию используются ассеты Tripo. Переключение внешнего вида не должно менять состояние матча и физики. Используйте тонкие равномерно расположенные бирюзовые штрихи в экранных координатах и ненавязчивый круг предполагаемой точки приземления; не отражайте графику прицеливания в воде.
+
+3. Мир и сцена
+Используйте разрушаемый остров на основе height field размером примерно 260 × 184 м, окружённый океаном с фиксированным уровнем воды. Разместите стартовые танки далеко друг от друга на устойчивом грунте; распределите камни, пальмы, кактусы и собираемые ящики с припасами. Небольшие декоративные острова создают глубину фона и никогда не заменяют основной разрушаемый рельеф. Взрывы деформируют поверхность и могут создавать углубления ниже уровня моря. Объедините цвет береговой линии и пену на одной поверхности воды, чтобы избежать пересекающихся плоскостей и мерцания. Проецируйте номера танков из мировых координат каждый отрисованный кадр. Предусмотрите общий вид траектории, вид на танк, орбитальный вид и тактический вид сверху. В режиме траектории танк, дуга полёта и расчётная точка приземления должны помещаться в пространстве между HUD и панелью управления. Перед каждым выстрелом показывайте стреляющий танк примерно 0,8 секунды, задерживайте камеру у дульного среза, затем следуйте за снарядом. Ручное управление камерой отменяет кинематическое сопровождение.
+
+4. Список ассетов
+Используйте стабильные слоты моделей и сохраняйте возможность обращаться к каждой заменяемой модели отдельно:
+- jade-body: округлый зелёный гусеничный корпус, напоминающий щит; корпус игрока по умолчанию. jade-cannon: соответствующий нефритовый ствол с тёмным каналом и золотыми акцентами, независимо артикулируемый.
+- ember-body: заострённый кораллово-оранжевый бронированный корпус с низким механическим профилем. ember-cannon: его удлинённый оранжевый ствол с тёмным дульным срезом.
+- bolt-body: сине-фиолетовый промышленный гусеничный корпус с угловатой плитной бронёй. bolt-cannon: соответствующий толстый синий ствол.
+- shell: латунный артиллерийский снаряд с тёмным заострённым наконечником и голубым акцентом. Повторно используйте его с оттенком и масштабом, зависящими от оружия.
+- crate: жёлтый бронированный ящик с припасами, голубой маркировкой и усиленными углами; подбор восстанавливает 20 единиц брони, максимум — 100.
+- rock: округлая группа камней из тёплого песчаника; используйте с разным масштабом и отдельным прокси-коллайдером.
+- palm: изогнутый ствол и ярусы зелёных пальмовых листьев; повторяйте как островную растительность.
+- cactus: компактный зелёный кактус с небольшими цветочными деталями; повторяйте на сухом грунте.
+- islet: округлый покрытый травой островок на фоне со светлыми каменными/песчаными краями; повторяйте за пределами арены.
+В первую очередь создайте три пары соответствующих корпусов и стволов, затем снаряд и ящик, а после — элементы окружения. Деформация рельефа, океан, пена, огонь, дым, ударные волны, обломки, графика прицеливания, освещение, UI и прокси-коллайдеры должны быть процедурными. Соответствующие детали корпуса и ствола используют единый дизайн-референс и масштаб. Разместите pivot ствола в его механическом шарнире, направьте его продольную ось по +X и используйте видимый дульный срез как физическую точку запуска. Корпуса танков должны выравниваться по склонам с помощью кватернионов; направление наведения башни остаётся заданным в мировом пространстве. Сохраните исходные PBR-текстуры и UV-швы. Полноразмерные модели для скачивания храните отдельно от оптимизированных копий для игрового рантайма; ссылки и сведения о происхождении файлов должны указывать фактический источник генерации.
+
+5. Игровой процесс и обратная связь
+В начале своего хода каждый живой танк получает 18 м перемещения. WASD и панель перемещения работают относительно экрана; клавиши со стрелками и панель прицеливания изменяют азимут и угол возвышения. Ползунки задают азимут, угол возвышения от 10 до 80 градусов и референсную мощность от 0 до 100. Выбор противника только разворачивает танк к нему и не должен автоматически рассчитывать выстрел.
+Бирюзовая дуга оценивает выбранную референсную мощность без учёта ветра. Сохраняйте эту референсную дугу и её золотой маркер неподвижными во время зарядки. Удержание кнопки Fire, клавиши Space или Enter при фокусе на кнопке Fire запускает фактический заряд с 0 каждый раз; увеличивайте его на 18 процентных пунктов в секунду, удерживайте на 100 и выполняйте ровно один выстрел при отпускании, используя фактическую мощность в этот момент. Быстрое нажатие создаёт слабый выстрел. Золотая полоса в пределах 3 процентных пунктов служит только визуальной обратной связью: не используйте привязку к значению или скрытую коррекцию. Отменяйте зарядку при отмене указателя, потере фокуса окна или видимости. Во время зарядки блокируйте перемещение, смену цели и изменение прицеливания. Клавиатурное управление range-input не должно одновременно поворачивать башню. Нулевая мощность означает минимальную скорость запуска, а не неподвижный снаряд.
+Стрелка и видимые движущиеся полосы ветра показывают направление его воздействия на снаряд. Подписывайте силу ветра и скорость в метрах в секунду; по нажатию на карточку ветра показывайте пояснение. Если ветер дует влево, игрок должен целиться немного правее. Чем сильнее ветер и дольше полёт, тем заметнее снос. Во время выстрела ветер остаётся постоянным и меняется с каждым ходом. Не компенсируйте ветер автоматически в превью игрока. Приблизительно прогнозируйте точку приземления на рельеф; не обещайте в превью столкновения с танками или камнями, разделение кластерного снаряда или рикошеты.
+Предусмотрите шесть типов боеприпасов: неограниченные фугасные снаряды; кластерный снаряд, разделяющийся на пять суббоеприпасов, летящих вниз; Seismic — с воронкой до 28 м в диаметре и 13 м глубиной; рикошетный снаряд, дважды отскакивающий от поверхности; по одному Cataclysm на танк, с воронкой до 46 м в диаметре и 22 м глубиной; и Incendiary, оставляющий зону огня радиусом 12 м. Огонь наносит 8 единиц урона в конце каждого из шести действий; выход из зоны позволяет избежать урона, а перекрывающиеся зоны не суммируются. Морская вода тушит пламя. Танк целиком, включая поднятый ствол, полностью погружённый в воду, немедленно уничтожается. Показывайте фактический урон, потерю брони, обрушение рельефа, всплеск воды и результат уничтожения.
+Используйте многослойные огненные шары, расширяющиеся ударные кольца, светящиеся искры, баллистические фрагменты, пыль и дым с умеренной тряской камеры. Используйте предоставленные оригинальные музыку и звуки ElevenLabs: выстрелы из пушек, удары, рикошеты, мощные взрывы, огонь и всплески. Добавьте переключатель звука, паузу/продолжение, инструкции, повтор и возврат в меню. Во время полёта снаряда или хода ИИ предлагайте действие Back to my turn: быстро запускайте ту же симуляцию с фиксированным шагом и сохраняйте все результаты урона, изменения рельефа и опасных зон. Никогда не пропускайте ход локального игрока.
+
+6. Техническая реализация
+Используйте Three.js с ES-модулями и Vite, локально подключённые шрифты, Web Audio для эффектов и HTML audio-элемент для зацикленной музыки. Храните ресурсы в рамках одного origin и поддерживайте статическую сборку. Используйте перспективный рендерер с антиалиасингом, практичными бюджетами на тени и постобработку, а также корректно освобождайте временную геометрию и материалы. Разделяйте декоративные детали моделей и игровые коллайдеры.
+Физика должна быть детерминированной и независимой от рендеринга: используйте единицы метр/секунду, гравитацию 9,81 м/с² и фиксированный шаг 1/120 секунды. Для высокоскоростных снарядов применяйте непрерывные swept-коллизии с землёй, водой, танками и камнями; применяйте к отброшенным танкам импульсы взрыва и гравитацию. Выводите позиции запуска из фактического трансформа ствола конкретного танка. Обычное воспроизведение и ускоренная перемотка должны вызывать одни и те же обновления симуляции. Урон и реакция на ветер — стилизованные игровые правила, а не инженерный симулятор взрыва.
+Поддержите интерфейс на китайском, английском, японском и корейском языках. При первом запуске выбирайте язык устройства; для устройств из Гонконга, Макао и Тайваня, а также устройств с традиционным китайским языком по умолчанию используйте английский. Запоминайте явный выбор пользователя и предоставьте заметный переключатель языка. Поддержите адаптивные макеты для компьютеров, портретной ориентации телефона и коротких альбомных экранов, прокручиваемые меню для невысоких экранов, удобные сенсорные цели, сворачиваемые панели и отсутствие перекрывающихся элементов управления. На сенсорных устройствах не требуйте клавиатурный ввод. Не включайте мутацию состояния и вспомогательные функции прицеливания, предназначенные только для разработки, в продакшен-сборку.
+
+7. Критерии завершения
+Предоставьте редактируемый автономный исходный проект, lockfile, инструкции npm для разработки/сборки и рабочее статическое превью. Соответствуйте текущим скриншотам и видео игрового процесса, включая кремовую панель статуса, неподвижный золотой референсный маркер, фактический заряд с началом от нуля и полностью 3D-представление танков и острова. Проверьте первый запуск, загрузку моделей, полный цикл хода, поведение каждого типа боеприпасов, паузу, повтор и реальные результаты победы/поражения. Убедитесь, что переключение внешнего вида сохраняет состояние, а отмена с клавиатуры/сенсорного ввода не приводит к выстрелу. В тестовом выстреле без ветра отпускание на референсной мощности должно приводить к приземлению рядом с референсным кругом; встречный боковой ветер должен заметно смещать фактический снаряд, оставляя этот круг неизменным. Проверьте работу на частотах 30/60/144 Гц, высокоскоростные коллизии, глубокие воронки, завершение горения, уничтожение при полном погружении и равенство результатов хода в обычном и ускоренном режимах. Проверьте настольные и узкие макеты на всех четырёх языках; отдельно укажите эмуляцию браузера и тестирование на физических устройствах. Проверьте размещённую страницу и связанные медиафайлы, а не только локальную сборку.
+
+```
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/crazy-tanks-3d-island-artillery) · [Демо](https://super-tanks-aftershock.tripo.page/) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Анимация на Three.js уровня Pixar для Grid Genius
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Анимация на Three.js уровня Pixar для Grid Genius"></a>
+
+**Промпт**
+
+```text
+Я хочу, чтобы вы придумали историю, которая ненавязчиво продвигает Grid Genius. Впрочем, Grid Genius может в ней вообще не упоминаться — главное, чтобы история соответствовала нашему приложению и помогла привлечь больше внимания в соцсетях. Затем с помощью Three.js и JavaScript создайте по этой истории полноценную анимацию кинематографического качества, сравнимого с Pixar.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103087766662009118) · [Исходная публикация](https://x.com/Anilraok/status/2103087766662009118) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103083781490176212"></a>
 
 ### Игра в реальном времени: пеликан на велосипеде
@@ -2009,602 +2809,6 @@ Deliver the working HTML file, not just an explanation.
 </details>
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102215638311694336) · [Исходная публикация](https://x.com/vib3coded/status/2102217028052377910) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102150615635816866"></a>
-
-### Процедурная браузерная гоночная игра Spline Rush
-
-[Maharajahu🪢](https://x.com/ToolBraidComp) · 2026-09-21 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102150615635816866"><img src="../assets/previews/28d71c2ef7fb89cb6d0cff7e49fb0414ee59901911a6c8240fe3fa508ed86767.webp" width="840" loading="lazy" alt="Процедурная браузерная гоночная игра Spline Rush"></a>
-
-**Промпт**
-
-```text
-Создай полноценную браузерную гоночную игру производственного качества под названием Spline Rush на актуальной версии Three.js (по возможности используй WebGPURenderer + TSL). 100% процедурная генерация: никаких внешних моделей, текстур, аудиофайлов или шрифтов. Всё должно создаваться программно во время выполнения.
-
-ОСНОВНЫЕ СИСТЕМЫ ИГРЫ
-- 6 уникальных трасс с перепадами высот, виражами, туннелями, шпильками, именованными поворотами и разными биомами (прибрежный дневной, горный на закате, пустынный на закате, лесной дождливый, ночной неоновый город, высокоскоростной овал).
-- Режим чемпионата (квалификация + 3 гонки), заезд на время с призраками и быстрый заезд.
-- 8 ИИ-соперников с индивидуальным характером, гоночной траекторией, точками торможения, обгонами и защитой позиции.
-- Рекорды лучших кругов, время по секторам, лента событий в реальном времени и камера повтора.
-- Гараж: 5 параметрических автомобилей с лаком и металликом, зазорами между кузовными панелями, рабочими фарами, анимированной подвеской и состояниями повреждений.
-
-ЦЕЛЕВОЙ УРОВЕНЬ ГРАФИКИ (Ultra, достойный RTX 5090 в 4K)
-Рендерер: THREE.WebGPURenderer. Физически корректный конвейер.
-Освещение:
-- Физически корректное небо Рэлея—Ми + звёздное небо + луна + динамическое солнце, управляющее полным циклом дня и ночи.
-- Каскадные карты теней (4 каскада, стабильное snap-привязывание текселей, высокое разрешение).
-- IBL через PMREM с обновлением в зависимости от времени суток.
-- Объёмный туман + божественные лучи + тепловая дымка.
-Материалы:
-- MeshPhysicalMaterial / узлы TSL: лак, анизотропия, пропускание света стеклом, краска с металлическими частицами, шейдер мокрой дороги, реагирующий на дождь.
-Цепочка постобработки (RenderPipeline / TSL или библиотека postprocessing):
-GTAO или высококачественный SSAO → SSR → bloom (Karis) → размытие в движении (velocity) → DOF → божественные лучи → автоэкспозиция → цветокоррекция + плёночное зерно + виньетка → SMAA или TAA.
-Эффекты:
-- Пулы GPU-частиц: дым из-под шин, искры, пыль, брызги дождя, выбросы травы и гравия, тепловая дисторсия.
-- Следы от шин, которые сохраняются и постепенно исчезают.
-- Динамическая влажность и отражения в лужах во время дождя.
-
-ФИЗИКА И ОЩУЩЕНИЯ ОТ УПРАВЛЕНИЯ
-- Симуляция с фиксированным шагом 120 Гц.
-- Подвеска на raycast или стойках, перераспределение нагрузки, шины с комбинированным скольжением, ABS/TC, типы поверхности (асфальт, поребрик, трава, гравий, мокрое покрытие).
-- Камера: кинематографичная камера преследования + вид с капота + вид из салона с тряской при движении и столкновениях.
-
-AUDIO
-- Полностью синтезируемый Web Audio: многослойный звук двигателя, зависящий от оборотов и нагрузки, ветер, визг шин, гул на поребрике, шум толпы, динамическая музыка.
-
-СИСТЕМА КАЧЕСТВА
-- Пресеты: Low / Medium / High / Ultra.
-- Для Ultra предполагается видеокарта уровня RTX 5090: 4K, карты теней высокого разрешения, максимальное количество частиц, все эффекты постобработки включены, без агрессивного LOD.
-- Адаптивное качество, способное отключать эффекты, если время кадра превышает целевое значение.
-
-Начни с играбельной первой версии (одна трасса, один автомобиль, базовое освещение), а затем последовательно добавляй функции — строго в соответствии с запросом. Размести всё в одном аккуратном проекте HTML/JS (или Vite), который запускается локально. Прокомментируй основные системы. Игра должна выглядеть дорого, а не мило.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a complete, production-quality browser racing game called Spline Rush using the latest Three.js (WebGPURenderer + TSL where possible). 100% procedural: no external models, textures, audio files or fonts. Everything generated in code at runtime.
-
-CORE GAME
-- 6 unique tracks with elevation, banking, tunnels, hairpins, named corners and distinct biomes (coastal day, mountain dusk, desert sunset, forest rain, night city neon, high-speed oval).
-- Championship mode (qualifying + 3 races), Time Trial with ghosts, Quick Race.
-- 8 AI opponents with personality, racing line, braking points, overtaking and defending.
-- Best lap records, sector times, live event feed, replay camera.
-- Garage: 5 parametric cars with clearcoat + metal-flake paint, panel gaps, working lights, animated suspension, damage states.
-
-GRAPHICS TARGET (Ultra, worthy of RTX 5090 at 4K)
-Renderer: THREE.WebGPURenderer. Physically based pipeline.
-Lighting:
-- Rayleigh/Mie physically based sky + starfield + moon + dynamic sun that drives a full day/night cycle.
-- Cascaded shadow maps (4 cascades, stable texel snapping, high-res).
-- IBL via PMREM updated with time of day.
-- Volumetric fog + god rays + heat haze.
-Materials:
-- MeshPhysicalMaterial / TSL nodes: clearcoat, anisotropy, transmission on glass, metal-flake paint, wet-road shader that reacts to rain.
-Post-processing chain (RenderPipeline / TSL or postprocessing library):
-GTAO or high-quality SSAO → SSR → bloom (Karis) → motion blur (velocity) → DOF → god rays → auto-exposure → color grading + film grain + vignette → SMAA or TAA.
-Effects:
-- GPU particle pools: tyre smoke, sparks, dust, rain spray, grass/gravel kick-up, heat distortion.
-- Skid marks that persist and fade.
-- Dynamic wetness and puddle reflections when raining.
-
-PHYSICS & FEEL
-- Fixed-step 120 Hz simulation.
-- Raycast or strut suspension, load transfer, combined-slip tyres, ABS/TC, surface types (asphalt, kerb, grass, gravel, wet).
-- Camera: cinematic chase + hood + onboard with motion and collision shake.
-
-AUDIO
-- Fully synthesised Web Audio: multi-layer engine by RPM/load, wind, tyre screech, kerb rumble, crowd, dynamic music.
-
-QUALITY SYSTEM
-- Presets: Low / Medium / High / Ultra.
-- Ultra assumes RTX 5090-class GPU: 4K, high shadow maps, max particles, all post effects on, no aggressive LOD.
-- Adaptive quality that can drop effects if frame time exceeds target.
-
-Start with a playable first version (one track, one car, basic lighting), then iterate feature-by-feature exactly as requested. Keep everything in a single clean HTML/JS (or Vite) project that runs locally. Comment major systems. Make it look expensive, not cute.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102150615635816866) · [Исходная публикация](https://x.com/ToolBraidComp/status/2102150671340327384) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102038136725377200"></a>
-
-### Интерактивная 3D-модель Солнца
-
-[HIX.AI](https://x.com/HIX_AI_) · 2026-09-21 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102038136725377200"><img src="../assets/previews/169472399e3e1991f493f8eb441b75a17cc26b6be6aeb26a54bd14323bd9bbc2.webp" width="840" loading="lazy" alt="Интерактивная 3D-модель Солнца"></a>
-
-**Промпт**
-
-```text
-Я хочу создать сайт с интерактивной 3D-моделью Солнца на Three.js.
-
-Сначала напишите скрипт на Python, который можно напрямую запустить в Blender для создания высокореалистичной 3D-модели Солнца. Модель должна основываться на реальных физических и визуальных характеристиках Солнца, включая сферическую форму, текстуру поверхности, цвет, плазмоподобный вид, солнечную грануляцию и светящуюся атмосферу. Она не должна выглядеть как простой оранжевый шар. Используйте подходящие материалы, шейдеры, текстуры и эффекты освещения, чтобы добиться реалистичного вида Солнца.
-
-Затем напишите полный код сайта на Three.js. Солнце должно занимать примерно 80% основной визуальной области. Пользователи должны иметь возможность вращать Солнце, перемещать камеру, а также приближать и отдалять изображение. В сцене следует использовать реалистичное освещение и эффекты свечения, чтобы Солнце выглядело динамичным и объёмным.
-
-Добавьте кнопку приближения, с помощью которой пользователи смогут рассмотреть Солнце с близкого расстояния и изучить детали его поверхности.
-
-На сайте также должна быть информативная информация о Солнце и его роли в Солнечной системе. Общий фон должен представлять собой реалистичное космическое пространство с галактикой.
-
-Кроме того, добавьте кнопку, открывающую интерактивный вид внутреннего строения Солнца. На схеме должны быть показаны основные слои Солнца: ядро, зона лучистого переноса, конвективная зона, фотосфера, хромосфера и корона. Для каждого слоя добавьте соответствующую подпись и краткое описание. Желательно, чтобы пользователи могли взаимодействовать со схемой и выбирать разные слои для просмотра информации о них.
-
-Сделайте сайт визуально впечатляющим, научно информативным и полностью интерактивным, используя современный космический интерфейс.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-I want to build an interactive 3D Sun model website using Three.js.
-
-First, please write a Python script that can be run directly in Blender to create a highly realistic 3D model of the Sun. The model should be based on the Sun's real physical and visual characteristics, including its spherical shape, surface texture, color, plasma-like appearance, solar granulation, and glowing atmosphere. It should not look like a simple orange sphere. Please use appropriate materials, shaders, textures, and lighting effects to create a realistic solar appearance.
-
-Then, write the complete website code using Three.js. The Sun should occupy approximately 80% of the main visual area. Users should be able to rotate the Sun, move the view, and zoom in and out. The scene should include realistic lighting and glowing effects to make the Sun look dynamic and three-dimensional.
-
-Add a zoom-in button that allows users to get closer to the Sun and observe its surface details.
-
-The website should also include informative content about the Sun and its role in the solar system. The overall background should be a realistic cosmic galaxy/space environment.
-
-In addition, add a button that opens an interactive internal anatomy view of the Sun. This view should show the major layers of the Sun, such as the core, radiative zone, convection zone, photosphere, chromosphere, and corona. Each layer should have a corresponding label and a short text description. Ideally, users should be able to interact with the diagram and select different layers to view their information.
-
-Please make the website visually impressive, scientifically informative, and fully interactive, with a modern space-themed UI.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2102038136725377200) · [Исходная публикация](https://x.com/HIX_AI_/status/2102038474752766239) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101730386711634251"></a>
-
-### Verdant — интерактивный 3D-остров с динозаврами
-
-[vib3coded](https://x.com/vib3coded) · 2026-09-20 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101730386711634251"><img src="../assets/previews/a535c40ebc8c7086dde5e627372c64ba5cdab5c252538c6c00e0ef5ec2c5e031.webp" width="840" loading="lazy" alt="Verdant — интерактивный 3D-остров с динозаврами"></a>
-
-**Промпт**
-
-```text
-создайте Verdant — интерактивную 3D-диораму, созданную с помощью Three.js и WebGL
-
-Пышный остров со свободно перемещающимися динозаврами, водопадом и лагуной в разрезе, где плавает морская рептилия. Покормите стадо, помогите вылупиться детёнышу динозавра и переместите камеру под воду
-
-Настраивайте прилив, ветер и время суток или включайте тропический дождь — под расслабляющую музыку
-
-Всё работает прямо в браузере и содержится в одном HTML-файле
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-create Verdant - an interactive 3D diorama built with Three.js + WebGL
-
-A lush island with roaming dinosaurs, a waterfall, and a cutaway lagoon with a swimming marine reptile. Feed the herd, hatch a baby dinosaur, and take the camera underwater
-
-Adjust the tide, wind, and time of day, or bring in tropical rain while relaxing music plays
-
-Everything runs right in your browser, in a single HTML file
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101730386711634251) · [Исходная публикация](https://x.com/vib3coded/status/2101570806702559235) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101687900723106104"></a>
-
-### Создайте 3D-модель WALL-E в Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-20 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101687900723106104"><img src="../assets/previews/cac68c08e650b70228db60cbf7a38e7f2d113b00c6420a411918d82aad4f7bb1.webp" width="840" loading="lazy" alt="Создайте 3D-модель WALL-E в Three.js"></a>
-
-**Промпт**
-
-```text
-создайте 3D-модель WALL-E в Three.js.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-create a 3d model of wall-e in three.js.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101687900723106104) · [Исходная публикация](https://x.com/marcthecreatorr/status/2101687900723106104) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101616345720787130"></a>
-
-### Парусник в открытом море
-
-[www.aicontenders.dev](https://www.aicontenders.dev/) · 2026-09-20 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101616345720787130"><img src="../assets/previews/b5b0b8a7e7c8425edf9299873ea284b3d4598bdac00bfc48ae9fcf178e4a0642.webp" width="840" loading="lazy" alt="Парусник в открытом море"></a>
-
-**Промпт**
-
-```text
-Создайте один HTML-файл с 3D-сценой, в которой небольшой парусник движется по открытому морю. Предусмотрите управление лодкой и маршрут, огибающий два видимых острова, по аналогии с демонстрациями «игр про лодки», которые использовались в недавних тестах моделей.
-
-Функциональные требования:
-
-Водная поверхность должна быть анимированной волновой сеткой (процедурный шейдер воды, движущиеся волны, блики, меняющиеся в зависимости от угла обзора, и кильватерный след за лодкой), а не плоской статичной текстурой.
-Парусник должен быть собран из простых форм (корпус, мачта, наполненный ветром парус), заметно покачиваться и слегка наклоняться на волнах синхронно с движением воды под ним.
-Разместите в сцене два разных острова в разных точках. Для каждого предусмотрите простую форму рельефа (возвышенность, пляж, при желании — растительность) и тень, падающую на окружающую воду.
-Лодка должна следовать по маршруту, действительно обходящему оба острова: она не должна пересекать их силуэты или проходить сквозь сушу. Повороты должны быть плавными, без резких скачков между углами.
-Камера должна следовать за лодкой с небольшой задержкой (сглаженное следование камеры), создавая ощущение динамической погони, а не жестко привязанного вида сверху.
-Добавьте градиентное небо (например, закатное или дневное голубое — на выбор модели) с солнцем или отражением света на воде, направление которого согласуется с тенями от островов.
-
-Технические требования:
-
-Один файл .html; разрешается использовать three.js с cdnjs, но другие внешние ресурсы и текстуры запрещены. Вода и рельеф должны полностью генерироваться процедурно в коде или шейдере.
-Маршрут вокруг островов может быть заранее заданным (например, кривой Безье, проходящей между островами) или реализованным с помощью простого управления, реагирующего на положение лодки — на выбор модели, но столкновения с сушей недопустимы.
-Анимация должна плавно работать не менее 20 секунд — в цикле или непрерывно — с частотой не менее 30 кадров/с на обычном ноутбуке. Разрешение canvas не должно превышать размер окна, а devicePixelRatio следует ограничить значением не выше 1.5, чтобы не перегружать экраны с высокой плотностью пикселей.
-
-Основные критерии оценки: насколько убедительно вода выглядит как движущаяся жидкость (а не текстура с анимированным смещением UV), действительно ли лодка реагирует на волны и выглядит ли маршрут вокруг островов осмысленной навигацией, а не случайным едва избежанным столкновением.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a single HTML file with a 3D scene showing a small sailboat moving across open water, with native steering and a course that navigates around two visible islands, similar to the comparison "boat game" demos seen in recent model tests.
-
-Functional requirements:
-
-A water surface rendered as an animated wave mesh (procedural water shader, moving waves, light reflections that shift with viewing angle, a wake trail behind the boat), not a flat, static texture.
-A sailboat model built from simple shapes (hull, mast, sail filled by the wind), with visible bobbing and slight tilting on the waves, synchronized with the motion of the water beneath it.
-Two distinct islands placed at different points in the scene, each with simple terrain shaping (a rise, a beach, optionally vegetation) and a shadow cast onto the water around it.
-The boat should follow a route that genuinely avoids both islands (never clipping through their silhouette or crossing through the land), turning smoothly rather than snapping between angles.
-The camera follows the boat with a slight lag (smoothed camera follow), giving the impression of a dynamic chase rather than a rigidly attached top down view.
-A gradient sky (e.g. sunset or daytime blue, model's choice) with a sun or light reflection on the water, directionally consistent with the shadows on the islands.
-
-Technical requirements:
-
-A single .html file, three.js from cdnjs is allowed, no other external assets or textures, all water and terrain generated procedurally in code/shader.
-The route around the islands can be a pre-planned path (e.g. a Bezier curve threading between the islands) or simple steering that reacts to position, model's choice, but no collision with land is allowed.
-The animation must run smoothly for at least 20 seconds, looping or continuous, minimum 30fps on a typical laptop, canvas resolution capped to window size with a devicePixelRatio no higher than 1.5 to avoid overloading hidpi screens.
-
-Judged primarily on whether the water looks convincingly like a fluid in motion (not a texture with animated UV offset), whether the boat genuinely reacts to the waves, and whether the route around the islands reads as intentional navigation rather than a random near miss.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101616345720787130) · [Исходная публикация](https://www.aicontenders.dev/c/a_TRQpq3LoNVd-M7Xy2DHg) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="titanic-the-last-light"></a>
-
-### TITANIC — Последний свет
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-20 · GPT-6 Astra · Анимация
-
-Ремикс работы: [notjazii / Titanic reference](https://x.com/notjazii/status/2101007819592085586)
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/titanic-the-last-light"><img src="../assets/previews/3c31a5b7f6f105a35c837091241a0e6a71ebff7e6df20d1d8ee4e257da97e51f.webp" width="840" loading="lazy" alt="TITANIC — Последний свет"></a>
-
-**Промпт**
-
-```text
-1. Цель проекта
-Создать TITANIC — THE LAST LIGHT — интерактивное кинематографическое путешествие продолжительностью 264 секунды: от последнего заката над кораблём через столкновение, эвакуацию и затопление к мемориалу на рассвете. Посетители смотрят режиссёрский фильм, исследуют движущийся 3D-мир, переходят к нужной главе, сохраняют кадр или скачивают фильм целиком. Представлять проект как художественную интерпретацию, не заявляя о его криминалистической точности или официальной связи с какими-либо организациями.⟫
-
-2. Визуальное направление
-Использовать сдержанную кинематографическую палитру: тёплые кремовые и янтарные огни корабля на фоне глубокого атлантического синего, затем тёмная звёздная ночь и холодный рассвет. Рендерить перспективную сцену в кинематографической композиции 2.39:1, с мягким свечением, лёгким зерном и виньетированием. Использовать глубину резкости для портретов персонажей и рассветных планов, сохраняя частицы сигнальных ракет резкими. Задать океану глубокий синий базовый цвет, волны в мировом пространстве, мелкие mipmapped-нормали ряби и отражения Fresnel; тёплые цвета заката должны проявляться главным образом в отражённом свете. Использовать ленты кильватерного следа, прикреплённые к корпусу и повторяющие ту же деформацию поверхности океана, с мягкими концами и разрывами пены. Горизонтально зацикливать панорамные текстуры без разрыва fract, чтобы предотвратить вертикальные швы на небе и отражённые полосы. Избегать оранжевого оттенка мелководья, мелкой равномерной ряби и светящихся круглых декалей пены. Удалить скрытые перекрывающиеся верхние грани крыш, чтобы предотвратить z-fighting; задать ближнюю плоскость камеры в соответствии с дистанцией до объекта в кадре. Во время затопления монотонно уменьшать свет в иллюминаторах, не добавляя высокочастотное мерцание. Использовать спокойный шрифтовой заголовок с засечками, двуязычные элементы управления на английском и китайском и узкую временную шкалу внизу.⟫
-
-3. Мир, география и монтаж камеры
-Использовать единую непрерывную систему координат: судно длиной 269 метров, нос направлен вдоль +X, айсберг зафиксирован в точке (275, 0, 57). Судно движется вперёд, сталкивается с айсбергом на отметке 96,727 секунды, по инерции останавливается, а затем тонет, разделяясь на носовую и кормовую части. Айсберг должен оставаться в сцене до самого финала и быть видимым в рассветной композиции. Сохранить шесть глав, начинающихся на 0, 63, 110, 163, 211 и 241 секунде.⟫
-
-Построить 23 тщательно продуманных плана. Сцена объятий на носу длится с 29-й по 61-ю секунду: общий установочный план приближения, крупный двойной портрет, вид сзади в сторону моря и косой портретный план. Разместить Роуз впереди, а Джека — сразу за ней на оконечности носа; оба смотрят за борт. Сохранить освещение заката на протяжении всей последовательности. В интервале 127–158 секунд использовать три плана, привязанные к фактическому мировому трансформу шлюпки: отправление от шлюпочной палубы, более крупный план пассажиров и подвесных канатов, затем приближение к воде. После этого показать общие планы эвакуации, крен, разрушение корпуса и затопление. На рассвете показать уцелевшие шлюпки и айсберг вдали, а затем — сдержанный мемориальный заголовок.⟫
-
-4. Перечень ассетов
-- titanic-vessel: создать в Blender основную конструкцию длиной 269 метров с непрерывными открытыми палубами, закрытым полубаком, многоярусными прогулочными палубами, четырьмя полыми наклонными трубами с охристой окраской, чёрной верхней и красной нижней частью корпуса. Использовать настоящие круглые ободки для 864 иллюминаторов и рамы для 360 окон. Ограничить эмиссию реальными материалами остекления. Объединить материалы в пакеты и разделить модель по координате x=-32 для затопления. Добавить мачты, такелаж, шлюпбалки, талрепы, бронзовые винты и руль. Создать компаньон трапа P2 с тиковыми дверями и латунными деталями, нормализовать его и дважды повторно использовать на созданной палубе. При сборке GLB сохранить трансформы узлов.⟫
-- atlantic-iceberg: один неровный эродированный айсберг сине-белого цвета, со слоями инея, вариациями шероховатости, приглушённой normal map и убедительной ватерлинией. Он остаётся фиксированным географическим объектом.⟫
-- lifeboat: одна вёсельная шлюпка White Star с белым деревянным корпусом, тёмным планширем, банками и вёслами; использовать её инстансы для шестнадцати независимо движущихся шлюпок.⟫
-- bow-embrace: изолированный ассет с двумя персонажами, вдохновлённый костюмами и позой из запрошенного фильма 1997 года: Роуз с рыжевато-каштановыми волосами, в одежде тёмно-синего и цвета слоновой кости, с узорчатой шалью и вытянутыми руками; сразу за ней стоит Джек в тёмном пальто и рубашке цвета слоновой кости. Перед конвертацией в H v3.1 создать чистые референсные изображения в полный рост, сохранив целостность головы, шеи, плеч и одежды каждой фигуры. Доработать Роуз по отдельному крупному референсу и донорскому изображению с деталями лица H: совместить глаза, нос, губы и подбородок, перенести локальную форму и цвет на непрерывную сетку фигуры в полный рост, затем смешать и отретушировать переход на UV-развёртке. Для Джека создать чистый портрет с естественным цветом кожи и чётко проработанными глазами и губами. Сохранить голову целиком и верхнюю часть шеи, подогнать направление взгляда и масштаб под тело H, совместить нижнюю часть шеи и сварить обе граничные петли. Запечь и отретушировать узкий переход на шее, не сглаживая детали лица. Исправить стойку и контакт рук в Blender. Проверить вид спереди, сбоку и сзади на наличие тёмных смазов, швов текстур, отверстий, обрезанных краёв и пересечений одежды. Использовать отдельные шейдеры для кожи и ткани. Сохранить естественные базовые выражения лица, добавив сдержанное движение тела и ткани; не создавать впечатление наличия рига лицевой анимации, если он фактически не реализован.⟫
-- seated-woman и seated-man: отдельные модели взрослых пассажиров в одежде 1912 года и светлых пробковых спасательных жилетах; они сидят, согнув колени, положив руки на колени. Использовать общую геометрию и материалы для всех шлюпок; слегка варьировать размещение и ориентацию. Для посадки использовать обратимые значения количества инстансов в каждой шлюпке.⟫
-
-Использовать Blender для основной модели судна, Tripo P2.0 — для компаньона трапа на палубе, айсберга, шлюпок и сидящих пассажиров, а H v3.1 — для двух полностью готовых главных персонажей и доработки портретов крупным планом. Океан, смешанный фон неба, звёзды, освещение, дым, сигнальные ракеты, пена, брызги и обломки оставить эффектами сцены. Подготовить облегчённые варианты моделей для веба со сжатыми текстурами, сохранив детализированные исходные ассеты для редактирования. Для сайта и офлайн-экспорта фильма использовать одну и ту же утверждённую оптимизированную пару главных персонажей.⟫
-
-5. Воспроизведение и обратная связь
-Показывать реальный прогресс загрузки обязательных ассетов корабля, шлюпок, неба и нормалей моря. Активировать кнопку начала, когда готова первая сцена; остальные модели и музыку загружать отложенно. Если требуемая модель персонажа или айсберга задерживается, остановиться на границе соответствующей сцены и продолжить после её готовности, а не молча пропускать план. Начинать воспроизведение звука после взаимодействия пользователя.⟫
-
-Временная шкала должна поддерживать перемотку вперёд и назад, а также быстрые перетаскивания без сброса на ноль. При перемотке сохранять состояние воспроизведения, паузы и отключения звука; не позволять старым аудиочасам перезаписывать запрошенную позицию. Для MP3 и MP4 отдавать диапазоны байтов. Навигация по главам должна содержать прямые переходы к объятиям на носу на 29-й секунде и спуску шлюпок на 127-й секунде; эти переходы восстанавливают режиссёрскую камеру, сохраняя состояние воспроизведения.⟫
-
-Режим исследования должен позволять вращать, перемещать и масштабировать камеру, пока мир, судно и саундтрек продолжают движение. Следовать за перемещением судна, не перескакивая по направлению взгляда. Пауза должна работать независимо; при возврате к фильму сохранять текущий момент времени. Пробел — воспроизведение/пауза, стрелки — переход на десять секунд, M — включение и выключение звука, E — переключение режима исследования, F — полноэкранный режим. Поддержать вращение и масштабирование двумя пальцами на сенсорном экране, а также нажатия на временную шкалу.⟫
-
-Шлюпки начинают пустыми. После 112-й секунды пассажиры садятся группами с разнесёнными интервалами, завершая посадку до начала спуска каждой шлюпки. Канаты проходят от движущихся шлюпбалок к фактическим точкам крепления на шлюпках, а после отцепления исчезают. При перемотке назад восстанавливать прежнее количество пассажиров и состояние канатов. Столкновение должно синхронно координировать вибрацию корпуса и камеры, ледяную крошку, скребущие брызги и краткий звуковой импульс контакта стали со льдом. Сигнальные ракеты должны выглядеть как белые горящие звёзды с короткими индивидуальными следами, учитывать гравитацию и сопротивление воздуха, а дым должен постепенно угасать. Возмущения при затоплении должны представлять собой нерегулярные пятна, следующие за волнами и постепенно затухающие; распределять брызги вдоль настоящей ватерлинии кормы, а не создавать их удалённым точечным фонтаном.⟫
-
-6. Техническая реализация и результаты
-Использовать Vite, модули JavaScript и Three.js с детерминированной анимацией, зависящей от времени. Разделить камеры и временную шкалу, ассеты судна, персонажей, окружение, эффекты и готовность сцен. Использовать одну и ту же временную модель для веб-воспроизведения, перемотки и офлайн-захвата. Соблюдать явно заданный бюджет пикселей, отражений и теней при веб-рендеринге; более ресурсоёмкое затенение окружающей окклюзии отложить для офлайн-профиля. Компилировать и декодировать ассеты без длительного блокирующего предварительного прогрева при запуске. Размещать скрипты, модели, изображения, шрифты и аудио на одном источнике и не включать секреты в статическую сборку.⟫
-
-Использовать оригинальную музыку и платные Foley-звуки ElevenLabs: полноценную натуральную запись свистящего фейерверка, разделённую в фактический момент воздушного разрыва на восходящий полёт и резкий хлопок с потрескивающим хвостом, а также звуки контакта и скрежета стали о лёд, канатов шлюпок и контакта с водой, напряжения и разрушения корпуса, смещения воды кормой. Экспортировать исходные WAV-файлы, сохранять промпты и идентификаторы истории, а затем монтировать их в синхронизированные звуковые реплики. Синхронизировать запуски на 119, 151 и 183 секунде, а воздушные разрывы размещать через 3,15 секунды после запуска. Сохранить исходную атаку разрыва и ненадолго приглушить оркестровую музыку. Поддерживать под миксом тихую атмосферу моря, ветра и двигателя. Саундтрек референсного фильма нельзя включать без разрешения ни в публичный сайт, ни в скачиваемый фильм. Документировать реальные источники ассетов и звуков, а не описывать резервный вариант как ассет, созданный сервисом.⟫
-
-Подготовить детерминированный экспорт из 6 336 кадров размером 3840×2160 при 24 кадрах/с с тремя временными сэмплами, с прожжёнными английскими заголовками и изображением в формате 2.39:1 с чёрными полосами. Закодировать мастер в 4K H.264/AAC и веб-версию 1080p размером менее 100 МиБ; обе версии должны длиться 264 секунды и содержать стереозвук 48 кГц. Сохранить опциональные субтитры на китайском и английском, мастер аудио и редактируемые исходники. Опубликовать статическую сборку через существующий хостинг CMS Web Pages, не добавляя приложение платформы или Worker для отдельной страницы.⟫
-
-7. Приёмка
-Проверить начало, оба портрета персонажей, столкновение, сигнальные ракеты, все три плана спуска шлюпок, разрушение, исчезновение кормы и рассвет. Убедиться, что айсберг не исчезает на 244-й секунде, море выглядит глубоким синим, при затоплении нет регулярных белых колец, персонажи остаются в своих авторских планах, а канаты и пассажиры шлюпок сохраняют выравнивание на протяжении всего спуска. Протестировать отложенную загрузку моделей, перемотку вперёд и назад, быстрое пролистывание, паузу и отключение звука, динамическое исследование, прямые переходы к крупным планам и эмуляцию сенсорного управления. Проверить каждый экспортированный кадр, полностью декодировать оба фильма, сравнить фактическую загрузку из браузера с переданным файлом, а также проверить публичную сборку и её связь с CMS. Различать мобильную эмуляцию в браузере и тестирование на физическом телефоне.⟫
-
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/titanic-the-last-light) · [Демо](https://titanic-the-last-light.tripo.page/) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101325346427842909"></a>
-
-### 3D-модель Waymo Jaguar I-Pace
-
-[Harshith](https://x.com/HarshithLucky3) · 2026-09-19 · GPT-6 Astra · 3D-ассеты
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101325346427842909"><img src="../assets/previews/9a1f4ddfbd700e1f0a801a5f774a4fbf96c0ad7e98f8d9f9603f83cbb0b50dfc.webp" width="840" loading="lazy" alt="3D-модель Waymo Jaguar I-Pace"></a>
-
-**Промпт**
-
-```text
-3D-модель Waymo Jaguar I-Pace с использованием Three.js
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-3d model of Waymo Jaguar i-Pace using three js
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101325346427842909) · [Исходная публикация](https://x.com/HarshithLucky3/status/2101325346427842909) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101310374033428642"></a>
-
-### Процесс создания 3D-анимации и видео о коте-кунфуисте
-
-[PixVerse](https://x.com/PixVerse) · 2026-09-19 · GPT-6 Astra · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101310374033428642"><img src="../assets/previews/b4e5c19965da011929b1777975e9c6c8a82a23c2a55340683d900de8a4103856.webp" width="840" loading="lazy" alt="Процесс создания 3D-анимации и видео о коте-кунфуисте"></a>
-
-**Промпт**
-
-```text
-Фотореалистичный кинематографичный дубль без склеек, 10 секунд, 16:9, 24 кадра/с, неподвижная камера, без монтажных переходов.
- Рыже-белый полосатый кот (белые морда, грудка и лапы, рыжие полосы табби с буквой «M» на лбу) сидит прямо по центру кадра, лицом к объективу, в жёсткой боевой стойке — взгляд плоский, невозмутимый, безразличный, глаза полуприкрыты, рот закрыт, голова неподвижна. На нём чёрная повязка хатимаки, низко завязанная поперёк лба; узел сзади, уши торчат над повязкой.
- Локация: традиционный двор японского храма — тёплые деревянные столбы, свесы крыш и перила, растворяющиеся в кремовом боке золотого часа. Объектив 85 мм, f/1.8, чрезвычайно малая глубина резкости, фокус зафиксирован на глазах кота. Тёплая цветокоррекция 3500 K, мягкий рисующий свет спереди справа, слегка заполненные тени, мелкое плёночное зерно.
- ДЕЙСТВИЕ: обнажённая человеческая рука резко появляется слева в кадре и быстро тянется раскрытой ладонью к морде кота; сильный смаз движения. Кот спокойно поднимает правую переднюю лапу и парирует удар, перехватывая ладонь и гася импульс атаки — он блокирует, а не шлёпает. Рука горизонтально проносится перед мордой кота в размытии, затем справа сверху опускается вторая рука; кот отклоняет каждую атаку коротким минимальным блоком лапой, тело и голова остаются совершенно неподвижными, взгляд не отрывается от объектива. Нападающая сторона — руки; кот лишь реагирует и остаётся невозмутимым. Руки делают обманные выпады с обеих сторон; кот переходит в стойку боксёра с двумя лапами на уровне груди, лапы согнуты, локти прижаты к корпусу, и замирает в ожидании. Он резко выбрасывает быстрые одиночные контрудары с размытием, в стиле кунг-фу перехватывая летящие руки в воздухе; голова по-прежнему направлена вперёд. Наконец он резко вытягивает правую лапу прямо в объектив, розовая подушечка обращена к камере, пока лапа не заполняет кадр мягкой расфокусированной фигурой на переднем плане; морда за ней остаётся предельно резкой, холодный взгляд не меняется.
- Движение: естественная скорость, настоящий смаз движения на летящих руках и быстрых блоках лапами. Защитные, минимальные, экономные движения кота — он почти не двигается, всю работу выполняют руки, но безуспешно. Камера неподвижна, без зума, без текста.
- НЕГАТИВНЫЙ ПРОМПТ: лишние конечности, сросшиеся или мутировавшие лапы, лишние пальцы, искажённая морда, повязка, сливающаяся с шерстью, пластиковая кожа, перенасыщенные цвета, текст, субтитры, логотип, водяной знак, монтажные склейки, дрожание камеры, игривые или торжествующие движения тела, жест «дай пять».
- КРАТКАЯ ВЕРСИЯ:
- Рыже-белый полосатый кот в чёрной повязке хатимаки сидит в залитом солнцем дворе японского храма и невозмутимо смотрит в камеру; объектив 85 мм, f/1.8, малая глубина резкости, золотой час, плёночное зерно. Человеческие руки быстро наносят рубящие и прямые удары по его морде с обеих сторон, с размытием движения; кот спокойно парирует каждый удар минимальным блоком лапой, не двигая головой. Он принимает стойку кунг-фу с двумя лапами, наносит быстрые размытые контрудары, затем вытягивает лапу в объектив, пока подушечка не заполнит кадр. Неподвижная камера, один дубль, 10 с, 16:9, 24 кадра/с, фотореализм, без текста.
- Небольшая заметка по кадру: руки преимущественно входят слева (нисходящий рубящий удар и горизонтальный замах), контакт происходит с запястьем или ладонью — не лапа к лапе. Стойка с двумя лапами — примерно на 4,0–5,6 с, размытые контрудары — на 5,6–8 с, финальное движение лапой к объективу — на 8–10 с. Ваша задача — создать 3D-сцену и анимацию в Blender через Blender MCP, получить результат длительностью 10 с при 24 кадрах/с и отрендерить сверхреалистичную сцену в PixVerse CLI с использованием Seedance 2.5 в качестве видеомодели.
- ШАГИ АГЕНТА: Проверьте Blender MCP, аутентификацию PixVerse CLI, возможности модели и доступный баланс кредитов. Сообщите предполагаемую стоимость и получите согласие на расходы до платной генерации. Преобразуйте промпт в покадровый план с таймингом, создайте облегчённые 3D-меши и анимацию через официальный Blender MCP, отрендерите MP4 с референсом движения и проверьте кадрирование, движение, контакты, длительность и частоту кадров. Перед отправкой видео отдельно создайте и проверьте изображение-референс внешнего вида. Используйте изображение для передачи идентичности, стиля и освещения, а видео из Blender — для передачи движения и тайминга. После генерации скачайте результат, проверьте технические характеристики, изучите ключевые кадры, честно сообщите об отклонениях и рассчитайте фактический расход кредитов. Сохраняйте оригиналы; никогда незаметно не переключайте модели и не запускайте повторную генерацию.
- ВЫЗОВ PIXVERSE: Используйте pixverse create image с gpt-image-2.0, чтобы создать референс внешнего вида в подтверждённом соотношении сторон, разрешении 1080p и с высокой детализацией. Затем используйте pixverse create reference с подтверждённой видеомоделью, передав оба --images and --videos to и объединив изображение внешнего вида с референсом движения из Blender. Для Seedance 2.5 используйте --model seedance-2.5 --task-type auto, подтверждённые длительность и соотношение сторон, а также --quality 1080p --count 1.. Перед отправкой проверьте текущие возможности, используйте уникальные ключи идемпотентности и отслеживайте выполнение через pixverse task status / pixverse task wait.
- ФИНАЛЬНЫЙ РЕЗУЛЬТАТ: Верните готовое видео с подтверждёнными соотношением сторон и длительностью, целевым разрешением 1080p и частотой 24 кадра/с, а также изображение-референс внешнего вида, проект Blender .blend и MP4 с референсом движения. Укажите абсолютные локальные пути или URL для скачивания. Сохраните формат итогового отчёта: Видео, Изображение-референс, Меш + анимация Blender, Проверка, Внешний вид и Израсходованные кредиты. Укажите фактическое разрешение, частоту кадров, количество кадров, длительность, визуальные отклонения, стоимость кредитов на изображение и видео, общую сумму расходов, оставшийся баланс и выполнялась ли повторная генерация.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Photorealistic cinematic single take, 10 seconds, 16:9, 24fps, locked-off camera, no cuts.
-A ginger-and-white tabby cat (white muzzle, chest and paws, orange tabby stripes with an "M" on the forehead) sits upright, dead center, facing the lens in a rigid martial-arts posture — flat, stoic, unimpressed stare, eyes half-lidded, mouth closed, head never moving. It wears a black hachimaki headband tied low across the brow, knot at the back, ears sticking up above the band.
-Setting: traditional Japanese temple courtyard — warm wooden pillars, eaves and railings — melted into creamy golden-hour bokeh. 85mm lens, f/1.8, extremely shallow depth of field, focus locked on the cat's eyes. Warm 3500K grade, soft key light from front-right, gently filled shadows, fine film grain.
-ACTION: a bare human arm drives in from frame left, open palm thrusting fast at the cat's face with strong motion blur; the cat calmly lifts its right front paw and parries, intercepting the palm and killing the strike's momentum — it blocks, it doesn't slap. The arm sweeps horizontally across the cat's face in a blur, then a second hand chops down from the right; the cat deflects each one with a short minimal paw block, body and head completely still, eyes never leaving the lens. The hands are the aggressors — the cat is purely reactive and unbothered. The hands feint in and out from both sides; the cat slides into a two-paw boxing guard at chest height, paws curled, elbows in, and holds it, waiting. It snaps out quick blurred single-paw counters, kung-fu style, catching the incoming hands mid-air, head still locked forward. Finally it drives its right paw straight into the lens, pink pad facing camera, until the paw fills the frame as a soft out-of-focus foreground shape — the face stays razor sharp behind it, cold stare intact.
-Motion: natural speed, real motion blur on the flying hands and the fast paw blocks. Defensive, minimal, economical cat movement — it barely moves, the hands do all the work and fail. No camera movement, no zoom, no text.
-NEGATIVE: extra limbs, fused/mutated paws, extra fingers, distorted face, headband merging into fur, plastic skin, oversaturated color, text, subtitles, logo, watermark, cuts, camera shake, playful/celebratory body language, high-five gesture.
-SHORT VERSION:
-Ginger-and-white tabby cat in a black hachimaki headband sits in a sunlit Japanese temple courtyard, deadpan stare at camera, 85mm f/1.8 shallow DOF, golden hour, film grain. Human hands chop and thrust in fast at its face from both sides in motion blur — the cat calmly parries each strike with a minimal paw block, never moving its head. It drops into a two-paw kung-fu guard, throws fast blurred counters, then drives its paw into the lens until the pad fills the frame. Locked-off single take, 10s, 16:9, 24fps, photorealistic, no text.
-Catatan kecil dari frame: tangannya dominan masuk dari kiri (chop descending + sweep horizontal), kontak terjadi di wrist/palm — bukan paw-to-paw. Guard dua paw ada di ~4.0-5.6s, counter blur di 5.6-8s, finish paw ke lensa 8-10s. your job is to make 3d mashed with blender mcp and make 10s 24fps output amd render it to super realistic scene with pixverse cli using seedance 2.5 as video model generation
-AGENT STEPS: Check Blender MCP, PixVerse CLI authentication, model capabilities, and available credits. Disclose estimated costs and obtain spending approval before paid generation. Turn the prompt into a timed beat sheet, build lightweight 3D meshes and animation through official Blender MCP, render a motion-reference MP4, and inspect framing, motion, contacts, duration, and frame rate. Generate and inspect a separate appearance-reference image before submitting the video. Use the image to guide identity, style, and lighting, and the Blender video to guide movement and timing. After generation, download the result, verify technical specs, inspect key frames, report deviations honestly, and calculate actual credit usage. Preserve originals; never silently switch models or regenerate.
-PIXVERSE CALL: Use pixverse create image with gpt-image-2.0 to create the appearance reference at the confirmed aspect ratio, 1080p, high detail. Then use pixverse create reference with the confirmed video model, passing both --images and --videos to combine the appearance image with the Blender motion reference. For Seedance 2.5, use --model seedance-2.5 --task-type auto, the confirmed duration/aspect ratio, and --quality 1080p --count 1. Verify current capabilities before submission, use unique idempotency keys, and track completion through pixverse task status / pixverse task wait.
-FINAL OUTPUT: Return the completed video at the confirmed aspect ratio and duration, targeting 1080p and 24fps, plus the appearance-reference image, Blender .blend project, and motion-reference MP4. Provide absolute local paths or downloadable URLs. Keep the final report format: Video, Gambar referensi, Blender mesh + animasi, Check, Look, and Kredit terpakai. Report actual resolution, frame rate, frame count, duration, visual deviations, image/video credit costs, total spent, remaining balance, and whether any regeneration occurred.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101310374033428642) · [Исходная публикация](https://x.com/PixVerse/status/2101310387081908606) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101271938706685991"></a>
-
-### Интерактивная 3D-модель авиационного двигателя
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-19 · GPT-6 Astra · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101271938706685991"><img src="../assets/previews/ab861425bbbe93cb886651a97e2e3b2d2c7ae1be8684904fc0b3c42bd9b0c37a.webp" width="840" loading="lazy" alt="Интерактивная 3D-модель авиационного двигателя"></a>
-
-**Промпт**
-
-```text
-Используйте three.js, чтобы создать на веб-странице интерактивную 3D-модель авиационного двигателя. 
-Ориентируйтесь на философию дизайна взаимодействия Jigspace, чтобы добиться реалистичной модели с почти полной реконструкцией в масштабе 1:1 и точно сохранить детали материалов и текстур — металла, трубопроводов, лопаток и других элементов. Обязательные интерактивные возможности: пошаговая анимация разборки, взрыв-схема компонентов, а также описания деталей и объяснения принципов работы, открывающиеся по клику или при наведении курсора. 
-В целом модель должна поддерживать плавное управление камерой и понятное взаимодействие с пользователем, обеспечивая комфортную работу в браузере и наглядно демонстрируя устройство двигателя и принципы его работы.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Use three.js to build a 3D interactive display of an aircraft engine on a webpage. 
-Please refer to Jigspace's interaction design philosophy to achieve a realistic model with near 1:1 high-fidelity restoration, fully preserving material and texture details such as metal, pipelines, and blades. Interactive features must include: step-by-step disassembly animation, exploded view of components, and part descriptions and principle explanations triggered by click or hover. 
-Overall, it must support smooth camera control and friendly human-computer interaction, ensuring a smooth experience on the web that fully showcases the engine's structure and working principles.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101271938706685991) · [Исходная публикация](https://x.com/YouWareAI/status/2101272224435253432) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101224659861590399"></a>
-
-### Фотореалистичная 3D-сцена целиком
-
-[Julian Goldie SEO](https://x.com/JulianGoldieSEO) · 2026-09-19 · GPT-6 Astra · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101224659861590399"><img src="../assets/previews/c6020232b3ccee337fd5e121c7cdfd397f36988b56e8b0bb4185121966dbc01c.webp" width="840" loading="lazy" alt="Фотореалистичная 3D-сцена целиком"></a>
-
-**Промпт**
-
-```text
-Создайте полноценную фотореалистичную 3D-сцену. Удивите меня.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a complete photorealistic 3D environment. Surprise me.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101224659861590399) · [Исходная публикация](https://x.com/JulianGoldieSEO/status/2101224659861590399) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2101055500599054437"></a>
-
-### Галактика на основе реальной орбитальной физики
-
-[Argona](https://x.com/Argona0x) · 2026-09-18 · GPT-6 Astra · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101055500599054437"><img src="../assets/previews/8077da14e3571cbef7eb253fe5a39bd58f8409e647b39bd17885df978eda42e3.webp" width="840" loading="lazy" alt="Галактика на основе реальной орбитальной физики"></a>
-
-**Промпт**
-
-```text
-галактика на основе реальной орбитальной физики, 320 000 звёзд, один полёт сквозь неё, 30 секунд
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-a galaxy from real orbital physics, 320,000 stars, one flight through it, 30 seconds
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/gpt-6-astra-2101055500599054437) · [Исходная публикация](https://x.com/Argona0x/status/2101055500599054437) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="monster-block"></a>
-
-### Monster Block — 45 секунд на разрушение города
-
-[Tony](https://x.com/abc30037274) · 2026-09-18 · GPT-6 Astra · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/monster-block"><img src="../assets/previews/8c0a2832f40569463c7b23d6b5228538ce90881c8b01876795d818b89d197a5d.webp" width="840" loading="lazy" alt="Monster Block — 45 секунд на разрушение города"></a>
-
-**Референсы:** [1](https://media.tripogrowth.space/media/ab5439fe-bc9f-4cde-8713-20e1b0caf7a6.png) · [2](https://media.tripogrowth.space/media/94648b5c-c804-46bd-a2b1-c684b25bd848.png) · [3](https://media.tripogrowth.space/media/4405e75a-c387-44cb-b63c-d8503454b422.png)
-
-**Промпт**
-
-```text
-# Monster Block — спецификация восстановления
-
-## 1. Цель проекта
-
-Создайте браузерную игру Monster Block. Игрок выбирает игрушечного монстра, попадает в миниатюрный город и за 45 секунд разрушает как можно больше зданий. Перемещение, удары когтями по зданиям, броски машин и цепочки разрушений должны сразу сопровождаться визуальной и звуковой обратной связью. В конце покажите счёт, титул, действие для повторной попытки и ссылку на испытание, по которой друг сможет сыграть на той же карте. Интерфейс должен поддерживать английский и упрощённый китайский языки, а также управление с клавиатуры и сенсорного экрана.
-
-## 2. Визуальный стиль
-
-Создайте тёплую диораму на столе: толстая квадратная платформа на кремовом фоне. Используйте здания в пастельных тонах с минимумом деталей, небольшими тёмно-бирюзовыми окнами, светлыми парапетами крыш, широкими дорогами приглушённого зелёно-серого цвета, зебрами, округлыми деревьями, крошечными машинами и мягкими тёплыми тенями. В палитре зданий должны быть терракотовый, горчичный, пыльно-бирюзовый, розовый, серо-синий, кремовый и шалфейный цвета. Материалы должны выглядеть как матовые окрашенные игрушки, а не блестящий металл.
-
-Используйте камеру с высокой перспективой три четверти, а не плоский вид сверху. Исходная камера расположена в точке (35, 37, 41), направлена на (0, 0.4, 0) и использует угол обзора 38 градусов на широких экранах, 44 градуса на экранах средней ширины и 51 градус на узких экранах. Во время игры камера должна плавно следовать за монстром, сохраняя ближайшие цели в поле зрения. Осветите сцену тёплым полусферическим источником, мягким направленным источником с тенями и холодным заполняющим светом.
-
-Для крупных английских заголовков используйте плотный жирный дисплейный шрифт, а для инструкций — хорошо читаемый гротеск. Сочетайте тёмно-зелёный текст, кремовые поверхности, оранжевые действия запуска игры и жёлтые действия создания в Tripo. На главной странице кнопки Play и Create with Tripo должны иметь одинаковую заметность. В диалоге паузы разместите тёмно-зелёную карточку Tripo с тремя миниатюрами персонажей и жёлтой кнопкой создания над контурной кнопкой Resume. Текст справки должен оставаться комфортно читаемым на телефонах.
-
-Используйте короткие эффекты, запускаемые действиями игрока: взмахи когтями, краткую отдачу зданий, отчётливые эффекты попадания и разрушения, расходящиеся кольца от топота, небольшие всплески обломков, всплывающие значения счёта, изменения комбо и сдержанный направленный толчок камеры. Поднимайте схваченную машину в руку примерно за 220 мс. При включённом режиме уменьшения анимации отключайте тряску, всплески обломков и масштабирование интерфейса, но сохраняйте счёт, подсказки для целей и результаты разрушений.
-
-## 3. Мир и сцена
-
-Разместите 16 разрушаемых зданий в сетке 4 × 4. Используйте расстояние между кварталами 10.4, центры кварталов на расстоянии -1.5, -0.5, 0.5 и 1.5 от этого значения и по пять проспектов вдоль каждой оси. Ширина платформы — 52.6 единицы. Здания должны иметь от двух до пяти этажей, различающиеся основания, детали крыш, отдельные навесы и небольшие вывески HOTEL или NOODS. Генерируйте планировку детерминированно на основе сида.
-
-Разместите 12 машин вдоль дорог и одну гарантированно доступную для броска жёлтую машину рядом с начальной игровой позицией. Добавьте деревья вокруг участков со зданиями и по краям платформы, четыре угловых фонаря, разметку полос и центральный переход. В начале поместите монстра на свободный проспект в точку (0, 0.2, 10.4); для главной страницы используйте переднюю позицию ожидания z=20.8.
-
-Один и тот же параметр карты должен воспроизводить одну и ту же планировку зданий. Если параметр отсутствует, выводите сид карты из даты UTC. Параметр beat задаёт целевой счёт друга. При повторной попытке сохраняйте выбранную карту. Случайные обломки не обязаны быть детерминированными.
-
-## 4. Список ассетов
-
-Сохраняйте стабильные ID ассетов и отделяйте визуальные модели от прокси-коллайдеров игрового процесса.
-
-- munch: Munch / 阿猛, зелёный динозавр по умолчанию. Сохраните исходную округлую морду, кремовое брюхо и рога, оранжевые шипы на спине, короткие руки, большие ступни и длинный хвост. Загружайте /assets/monster-animated.glb и нормализуйте его высоту до 5.6 единицы. Сохраняйте /assets/monster.glb как статический запасной вариант.
-- bongo: Bongo / 橘拳, оранжевая игрушечная горилла с огромными кулаками и широким телом. Загружайте /assets/bongo-animated.glb и нормализуйте её высоту до 4.5 единицы.
-- bolt: Bolt / 蓝电, синий игрушечный робот с массивными конечностями и дружелюбным силуэтом. Загружайте /assets/bolt-animated.glb и нормализуйте его высоту до 4.9 единицы.
-- Для каждого персонажа предусмотрены соответствующий PNG предпросмотра и клипы ожидания, бега и удара. Сохраните всех трёх реально выбираемых персонажей; переключение должно обновлять и предпросмотр, и модель, используемую в следующем раунде.
-- city_building: процедурно создаваемые повторно используемые группы зданий с отдельно отслеживаемыми здоровьем, границами коллайдера, отдачей при попадании и состоянием разрушения. Парапеты крыш, основания и навесы входят в коллизионный объём.
-- city_car: процедурно создаваемые повторно используемые машины, которые можно бросать. Отдельно храните состояния машины в руке, в полёте и после разрушения. На трёх машинах разместите жёлтый брендинг Tripo.
-- city_decor: процедурные деревья, фонари, тротуары, вывески и дорожная разметка. Сохраняйте лёгкость ассетов, повторно используйте геометрию и материалы.
-- tripo_scenery: одна скульптура с логотипом на крыше, две вывески на крышах, витрина мастерской и три брендированные машины. Создайте их из предоставленного логотипа Tripo и процедурных мешей. Это декорации сцены, а не дополнительные модели, сгенерированные через API, и не усилители игрового процесса.
-
-Три модели персонажей — приоритетные ассеты Tripo. При наличии повторно используйте предоставленные сгенерированные и зариггированные GLB-файлы. Для нового персонажа создайте соответствующую модель в игрушечном стиле, проверьте пригодность рига, выполните скиннинг, создайте анимации ожидания, бега и удара и проверьте пропорции перед добавлением в список персонажей. Не вызывайте API генерации при начале раунда. Загрузка персонажей и автоматический импорт собственных работ игрока не входят в эту версию.
-
-## 5. Игровой процесс и обратная связь
-
-Поддержите WASD или клавиши со стрелками для перемещения, удержание Space для повторных атак когтями, E для захвата ближайшей машины и повторное нажатие E для броска, R для топота и Escape для паузы. На сенсорных экранах добавьте виртуальный джойстик и отдельные кнопки атаки, захвата/броска и топота. При постановке игры на паузу или потере фокуса сбрасывайте зажатые вводы.
-
-Используйте следующие правила:
-
-- Раунд длится 45 секунд. Здоровье здания равно числу этажей плюс единица, то есть составляет 3–6 единиц.
-- Удар когтями наносит 1 единицу урона, интервал между атаками — 0.42 секунды.
-- Топот наносит каждому зданию в радиусе 3 единицы урона и имеет перезарядку 7 секунд.
-- Брошенная машина наносит зданиям в зоне попадания 4 единицы урона и приносит 75 базовых очков за попадание машины.
-- Попадание по зданию приносит 20 очков, умноженных на текущий множитель. За разрушение начисляйте round(180 + высота здания × 50) очков, умноженных на текущий множитель, после увеличения комбо разрушений.
-- Если снова разрушить здание в течение 3.5 секунды, комбо продолжается. Обычные попадания не продлевают это окно. Множитель равен min(5, 1 + floor(combo / 2)).
-- Уничтожение всех 16 зданий завершает раунд и приносит ceil(оставшиеся секунды) × 100 очков. В противном случае раунд заканчивается, когда время достигает нуля; после этого новые очки не начисляются.
-
-В игре нет врагов, битв с боссами, здоровья игрока и штрафов за смерть. Испытание заключается в выборе маршрута, эффективном использовании машин и топота, а также поддержании комбо разрушений. Показывайте оставшееся время, счёт, число разрушенных зданий, множитель и перезарядку топота. Недоступные действия должны быть понятны и не должны блокировать перемещение. Различайте холостой взмах и успешное попадание с помощью звуковой и визуальной обратной связи.
-
-Рассчитывайте перемещение и повороты с учётом выборочного анимированного габарита каждого персонажа, включая руки и хвост. Проверяйте столкновения с полными границами зданий, оставляя небольшой зазор. Монстр должен иметь возможность атаковать из допустимой позиции для стояния. После разрушения здания разрешайте проходить через его участок. Не допускайте застревания игрока в углах и прохождения хвоста через целое здание при повороте.
-
-Ставьте на паузу таймер и ввод при нажатии Escape, кнопки паузы, потере фокуса окном и скрытии вкладки. Добавьте сценарии Resume, Retry и Home. В конце показывайте счёт, количество разрушений, лучшее комбо, шуточный титул и ссылку на испытание на той же карте. Предоставьте для скачивания карточку со счётом размером 1080 × 1350 и, если поддерживается MediaRecorder, запись раунда в поддерживаемом формате MP4 или WebM. Используйте нативный шаринг, если он доступен, а для ссылок на испытание предусмотрите запасной вариант с буфером обмена. Никогда не выдавайте вычисленный браузером счёт за защищённый соревновательный рейтинг.
-
-## 6. Техническая реализация
-
-Используйте Three.js, TypeScript и Vite со статической сборкой dist. Разделите генерацию мира, правила, коллизии, персонажей, рендеринг, звук, запись, аналитику и UI на отдельные модули. Храните шрифты и необходимые ассеты декодеров локально. Используйте инстансинг для повторяющихся окон и дорожной разметки, повторно применяйте материалы и геометрию. Ограничьте pixel ratio рендера значением 1.65. Ограничивайте временные эффекты и освобождайте их ресурсы после завершения или сброса.
-
-Используйте GLTFLoader, микшеры скелетной анимации и предоставленные GLB-клипы. Нормализуйте каждую модель относительно центрированного опорного пивота на земле. Исходные экспортированные модели направлены по оси +X; поверните визуальный пивот на -90 градусов вокруг Y, чтобы выровнять его с направлением +Z игры. Сначала проигрывайте анимацию ожидания и только потом показывайте загруженную модель; ступни в анимации должны оставаться близко к земле. Если загрузка не удалась, отображайте видимый процедурный запасной вариант и честно сообщайте об ошибке. Защитите асинхронный выбор персонажа, чтобы более старая загрузка не заменила последнюю выбранную модель.
-
-Храните данные коллизий персонажа отдельно от мешей рендера и заново запекайте выборочные габариты при смене персонажа или анимаций. Проверяйте перемещение и поворот рядом со стенами. Сохраните стабильную работу клавиатурного и сенсорного ввода, адаптивные диалоги, локализованный текст, поведение фокуса, отключение звука, режим уменьшения анимации и восстановление WebGL.
-
-Свяжите действия создания в Tripo с https://www.tripo3d.ai/, добавив utm_source=monster_block, utm_medium=referral, utm_campaign=monster_block_game и зависящий от размещения параметр utm_content: header_logo, hero_create, pause_create, result_create или footer_logo. Открывайте эти действия в отдельной вкладке и сначала ставьте активную игру на паузу. Объясните, что Tripo создаёт 3D-ассеты; не обещайте их автоматический импорт в эту игру.
-
-Сохраните существующую интеграцию событий Pageview и PostHog, если это допускается политикой хостинга. В статической сборке используйте только общедоступную конфигурацию для приёма данных из браузера. Учётные данные для генерации, CMS, развёртывания и персональной аналитики храните вне исходного кода и артефактов сборки. Записывайте вход на страницу, выбор персонажа, запуск игры, первые действия, результаты раунда, повторную попытку, отправку/экспорт и исходящие клики по Tripo, но не считайте клики подтверждёнными регистрациями или платежами.
-
-## 7. Критерии готовности
-
-Предоставьте запускаемый исходный код, локальные ассеты, статическую production-сборку и понятные инструкции по установке, запуску и сборке. Проверьте выбор всех трёх персонажей, полноценный раунд с таймером, разрушение зданий, захват и бросок машин, перезарядку топота, завершение комбо, паузу/возобновление, повторную попытку и подсчёт в конце раунда. Убедитесь, что исходный динозавр по-прежнему доступен для выбора, а все три персонажа могут перемещаться и поворачиваться рядом со зданиями без заметного проникновения в геометрию и застревания.
-
-Проверьте английскую и китайскую версии интерфейса на десктопе и узких мобильных экранах, включая читаемый текст справки, сенсорное управление, действия паузы и отправку результатов. Проверьте адреса CTA Tripo и значения UTM для разных размещений, экспорт карточки со счётом и запасной сценарий записи. Протестируйте развёрнутую страницу и фактическое окружение iframe CMS: загрузку моделей, ввод, внешние ссылки и скачивание. Сообщайте об ограничениях браузеров и устройств, не заявляя о повсеместной поддержке или стабильной частоте кадров без подтверждённых измерений.
-
-```
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/monster-block) · [Исходная публикация](https://x.com/abc30037274/status/2100636075039629796) · [Демо](https://monster-block.tripo.page/) · [Назад к примерам](#all-prompts)
 
 ---
 

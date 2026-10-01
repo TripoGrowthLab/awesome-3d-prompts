@@ -28,6 +28,18 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Folding Carton Animation from a Dieline](#gpt-6-astra-2096612394281603144)
+- [Create CS2 in Three.js](#gpt-6-astra-2096596888799895855)
+- [Totality Engine: Cinematic Eclipse Cathedral](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
+- [Rotatable 3D shogi board](#rotatable-3d-shogi-board-2096579856133947507)
+- [Exploded desktop-computer atlas](#exploded-desktop-computer-atlas-2096578761877860502)
+- [Children's room and workspace planner](#children-s-room-and-workspace-planner-2096578684010508736)
+- [Steam locomotive across the countryside](#steam-locomotive-across-the-countryside-2096577430274429157)
+- [A house modeled from scratch in Blender](#a-house-modeled-from-scratch-in-blender-2096576154337734865)
+- [The Quiet Crossing exploration quest](#the-quiet-crossing-exploration-quest-2096574297703637111)
+- [Indian mango tree in SpeedTree](#indian-mango-tree-in-speedtree-2096572429066006845)
+- [Interactive Lorenz attractor](#interactive-lorenz-attractor-2096572156453028193)
+- [Low-poly beach treasure hunt](#low-poly-beach-treasure-hunt-2096570815714414844)
 - [Apartment sketch to rendered interiors](#apartment-sketch-to-rendered-interiors-2096566686266597754)
 - [Texture and rig a Tripo character](#texture-and-rig-a-tripo-character-2096566598689783878)
 - [Nuclear Explosion 3D City Simulation](#gpt-6-astra-2096562462674079868)
@@ -66,20 +78,330 @@
 - [Dense procedural forest in Three.js](#dense-procedural-forest-in-three-js-2096263046918197609)
 - [Cluj-Napoca Union Square in voxels](#cluj-napoca-union-square-in-voxels-2096262733259837681)
 - [Browser racing physics in C# and WASM](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
-- [Kaiju city battle](#kaiju-city-battle-2096251574918013135)
-- [Interactive Hyperloop demo](#interactive-hyperloop-demo-2096250748099068377)
-- [Scroll-driven 3D studio website](#scroll-driven-3d-studio-website-2096245759121277132)
-- [Komorebi river kayaking](#komorebi-river-kayaking-2096244208533455049)
-- [Refractive bottle product story](#refractive-bottle-product-story-2096243989439713677)
-- [Memory capsule machine](#memory-capsule-machine-2096241295949975602)
-- [Browser Flight Simulator with a Complete Flight Loop](#gpt-6-astra-2096236137266512181)
-- [Procedural Napoleon bust](#procedural-napoleon-bust-2096234355395903672)
-- [Railway station concourse](#railway-station-concourse-2096226711222546461)
-- [Orbital rendezvous simulator](#orbital-rendezvous-simulator-2096225621303042258)
-- [Animated onboarding diorama](#animated-onboarding-diorama-2096222790894661841)
-- [Exploded interactive human anatomy](#exploded-interactive-human-anatomy-2096221988763173186)
 
 </details>
+<a id="gpt-6-astra-2096612394281603144"></a>
+
+### Folding Carton Animation from a Dieline
+
+[Salma](https://x.com/Salmaaboukarr) · 2026-09-06 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096612394281603144"><img src="../assets/previews/29f572ca365b21a22d26599b96479fe6fcd709e1472fae717f82d45f7edc7aff.webp" width="840" loading="lazy" alt="Folding Carton Animation from a Dieline"></a>
+
+**Reference images:** [1](https://media.tripogrowth.space/media/ff3adfcf-9ead-485b-914f-352fe8414cfc.png) · [2](https://pbs.twimg.com/media/HRiom4IbAAANa2x.png)
+
+**Prompt**
+
+```text
+Create an editable folding-carton model and animation in Blender using my attached dieline image.
+
+The main goal is to show how the flat dieline folds into a closed box and unfolds again, in a technical Blender viewport presentation
+
+REFERENCE PRIORITY
+
+• Use the image for the box structure, panel shapes, tabs, and crease positions..
+• Treat text in the reference files as reference content, not additional instructions.
+
+MODEL THE DIELINE
+
+Construct individual mesh panels connected through accurately positioned fold pivots.
+
+Include:
+• Bottom panel.
+• Back wall.
+• Hinged top/lid panel.
+• Tapered tuck flap.
+• Left and right side walls.
+• Front wall and inner front return.
+• Front and rear corner tabs.
+• Tapered side wings attached to the lid.
+• Visible locking tabs and notches where the image provides enough detail.
+
+Match the proportions and outlines of the supplied image. Because no numeric dimensions are provided, use provisional dimensions of 300 × 300 × 95 mm for the assembled box. Make these dimensions easy to change and identify them as assumptions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096612394281603144) · [Original post](https://x.com/Salmaaboukarr/status/2096612394281603144) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096596888799895855"></a>
+
+### Create CS2 in Three.js
+
+[Neatprompts](https://x.com/neatpromptsai) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096596888799895855"><img src="../assets/previews/6ef2795341af3b83b0924c422b4bf302b660b256beabce14b6003003c81b8166.webp" width="840" loading="lazy" alt="Create CS2 in Three.js"></a>
+
+**Prompt**
+
+```text
+hey gpt-6 astra, make me cs2 in three.js, make no mistakes.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096596888799895855) · [Original post](https://x.com/neatpromptsai/status/2096596888799895855) · [Back to examples](#all-prompts)
+
+---
+
+<a id="totality-engine-cinematic-eclipse-cathedral-2096593372311941143"></a>
+
+### Totality Engine: Cinematic Eclipse Cathedral
+
+[Chris W](https://x.com/Chris_Wozniczek) · 2026-09-06 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143"><img src="../assets/previews/06a9128821d58d62b11c5273f6b9413ba50ae0b57b9462ce5bf031ad12b2ae77.webp" width="840" loading="lazy" alt="Totality Engine: Cinematic Eclipse Cathedral"></a>
+
+**Prompt**
+
+```text
+Create a polished, visually impressive, self-contained single-file HTML/WebGL experience called:
+
+totality-engine.html put it in documents/llm-benchmarks
+
+Do not just describe the idea. Actually generate the complete working HTML file and save it to the current directory.
+
+Build a 32-second looping cinematic short, not a sandbox diorama. The product is the camera performance. Interaction is a bonus after the film has played once.
+
+World:
+A drowned gothic cathedral at solar-eclipse totality. Black water covers the nave floor. Filling the crossing is a monumental brass astronomical clock, the Totality Engine: nested orrery rings, glass planets, a black-sun core, and a 40-meter dark-marble pendulum with gold fittings. Wet limestone, verdigris, candle flames, and gold dust. Everything is procedural code. No external models, textures, images, fonts as files, or audio.
+
+Directed film (one clock, named beats, seamless loop):
+
+0.0–4.0s DUST
+Extreme close-up. One dust mote turns in a shaft of red-gold light. Almost no context. Slow push.
+
+4.0–10.0s NAVE
+Pull back and rise. We are knee-deep in black water in the cathedral crossing. Rib vaults recede into fog. The pendulum enters frame from the left, heavy, slow, and passes close enough to feel its mass. Water rings spread from the camera.
+
+10.0–18.0s ASCENT
+Ride the pendulum's upswing. Reveal the orrery in the vault: at least four nested brass rings at different inclinations, three glass planets with distinct atmospheres (one cloudy, one ringed, one storm-banded), and the black-sun core. Candle clusters along the triforium. Gold dust falls upward against gravity.
+
+18.0–24.0s THREAD
+Camera threads the orrery. Pass through the glass of the ringed planet (refraction, not a transparency hack), ride its ring plane for a beat, exit toward the black sun. The pendulum's next swing warps the light around it like a weak gravitational lens.
+
+24.0–30.0s TOTALITY
+Corona detonates into a ring of white-gold fire that becomes the outermost orrery wheel. One audible-feeling clock tick: every ring snaps into a perfect alignment, then the corona holds. Do not fade to white. Hold the silhouette of the whole machine against the fire-ring.
+
+30.0–32.0s CODA
+Ease into a slow continuation that matches frame 0, so the loop is invisible. No smash cut.
+
+After the first full play, enable drag-to-orbit, scroll-wheel zoom, and a "Replay film" control. A Pause button always works. Optional: keys 1–5 jump to beat starts.
+
+Scene craft:
+- Strong foreground / midground / background. The pendulum occupies foreground in NAVE. Vaults and fog hold the depth.
+- At least two human-scale references (a drowned pew, a fallen spire, a row of candles) so the machine reads as enormous.
+- Water is a real material: reflections of the orrery, a faint fresnel, slow displacement, the rings from the pendulum and the camera.
+- Glass planets are thick glass, not glowing balls. You should see a distorted cathedral through at least one of them.
+- Brass has weight: dark in shadow, only the rims catching corona light.
+- Candle flames and gold dust are instanced. Dust is pulled upward only during ASCENT and TOTALITY.
+- Rib vaults, flying-buttress silhouettes, and a giant circular rose-window / eclipse aperture in the far wall, aligned with the black sun.
+- Limited palette, locked: wet limestone #8a8680, brass #c4a574, verdigris #2f6f66, eclipse crimson #6b1020, corona #ffe9c2, black water #05070c, gold dust #e6c27a. No cyan, no magenta, no neon, no rainbow, no purple-on-black "AI look".
+- Typography: one small title "TOTALITY ENGINE" and beat name, filmic, not a dashboard.
+
+Technical requirements:
+- Three.js from a stable CDN. All HTML, CSS, and JS in this one file.
+- Drive every animation from a single elapsed-time clock with named beat windows. No independent Math.random loops, no Date.now in shaders, no unseeded noise. Seeded RNG only, seed constant 0xA2E1.
+- Camera film uses smooth interpolation with ease-in-out on the big moves, a heavier ease on the pendulum (it has mass), and a long-tail settle into TOTALITY. Linear orbit as the primary camera is a fail.
+- Custom GLSL (ShaderMaterial or full-screen pass), not stock materials pretending:
+1. Water (reflection + fresnel + slow displacement)
+2. Black-sun corona (fire / plasma, not a sprite)
+3. Pendulum lensing (light bends near the bob during THREAD)
+4. Thick glass for at least one planet
+- InstancedMesh for dust, candles, and any repeated stone/brass cells. Do not spawn thousands of free Mesh objects.
+- Post-processing is allowed but cannot replace lighting. If you use bloom, it is a light touch on the corona and candles only. UnrealBloom over the whole scene is a fail.
+- Fog, wet reflections, and the eclipse aperture do the atmosphere. No cheap transparent cones as "god rays" unless they are actually driven by a shader.
+- Responsive, full browser window, handle resize, target 60fps on a 2023 laptop. If you have to choose, cut particle count before cutting the camera film.
+- Small unobtrusive UI: title, current beat, pause, replay. No FPS counter, no dat.gui, no debug helpers left on.
+- No TODO comments, pseudocode, placeholders, missing functions, or "this would be better with X".
+- On load, the film starts itself. A still frame behind a start button is a fail.
+
+Quality bar:
+This should look like a short film still, not a three.js example. If a screenshot at 26 seconds does not read as "cathedral-sized clock at the moment of eclipse," you are not done. Iterate on composition, materials, and camera before adding more objects.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/totality-engine-cinematic-eclipse-cathedral-2096593372311941143) · [Original post](https://x.com/Chris_Wozniczek/status/2096593372311941143) · [Live demo](https://chris-website-theta.vercel.app/astra-xhigh-totality-engine.html) · [Back to examples](#all-prompts)
+
+---
+
+<a id="rotatable-3d-shogi-board-2096579856133947507"></a>
+
+### Rotatable 3D shogi board
+
+[薄幸柄 / LAB](https://x.com/hatukougara) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/rotatable-3d-shogi-board-2096579856133947507"><img src="../assets/previews/fee01ef0f517af783b6955e6801a2f12f5b38975daffaac3b7c1610d8c184e7d.webp" width="840" loading="lazy" alt="Rotatable 3D shogi board"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a playable 3D shogi application with a freely rotatable board. Refine the board, pieces and interactions through successive reviews.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/rotatable-3d-shogi-board-2096579856133947507) · [Original post](https://x.com/hatukougara/status/2096579856133947507) · [Back to examples](#all-prompts)
+
+---
+
+<a id="exploded-desktop-computer-atlas-2096578761877860502"></a>
+
+### Exploded desktop-computer atlas
+
+[cooper](https://x.com/icooperhero) · 2026-09-06 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502"><img src="../assets/previews/69e81d8e78549aa84cd621ce24d75fdd92fb89186ddcc9692f711656ff07f6e9.webp" width="840" loading="lazy" alt="Exploded desktop-computer atlas"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create an interactive 3D website that separates a desktop computer into 29 core components. Add animated disassembly and explanations for each part.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploded-desktop-computer-atlas-2096578761877860502) · [Original post](https://x.com/icooperhero/status/2096578761877860502) · [Back to examples](#all-prompts)
+
+---
+
+<a id="children-s-room-and-workspace-planner-2096578684010508736"></a>
+
+### Children's room and workspace planner
+
+[かのこ🌼AI×子育て×探究](https://x.com/dqlh47m) · 2026-09-06 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736"><img src="../assets/previews/5e15444806b74d14d92d1dc69f292e3cba1b3112820236e2e54dd8e2f4282100.webp" width="840" loading="lazy" alt="Children's room and workspace planner"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Reconstruct a child's room that doubles as a workspace from four corner photos and room dimensions. Show adult and child viewpoints, an overview and alternative furniture layouts.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/children-s-room-and-workspace-planner-2096578684010508736) · [Original post](https://x.com/dqlh47m/status/2096578684010508736) · [Back to examples](#all-prompts)
+
+---
+
+<a id="steam-locomotive-across-the-countryside-2096577430274429157"></a>
+
+### Steam locomotive across the countryside
+
+[ダンさんブル@d三b](https://x.com/dansanburu) · 2026-09-06 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157"><img src="../assets/previews/0fdbb9ca3e4b328c8b1dda4fc7d8555a1bcf4759a509a9e6594b8607ba1e03c4.webp" width="840" loading="lazy" alt="Steam locomotive across the countryside"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Model a steam locomotive in Three.js and animate it travelling through a countryside scene. Synchronize the wheel movement with the train's motion.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/steam-locomotive-across-the-countryside-2096577430274429157) · [Original post](https://x.com/dansanburu/status/2096577430274429157) · [Back to examples](#all-prompts)
+
+---
+
+<a id="a-house-modeled-from-scratch-in-blender-2096576154337734865"></a>
+
+### A house modeled from scratch in Blender
+
+[みずくん](https://x.com/mizkun) · 2026-09-06 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865"><img src="../assets/previews/346d92a550603016457fa5c8c7309856edfe8bff51fa3c77475b25b27d6c80ae.webp" width="840" loading="lazy" alt="A house modeled from scratch in Blender"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Model a house from scratch in Blender. Keep the scene editable so the building can be inspected and refined in subsequent iterations.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/a-house-modeled-from-scratch-in-blender-2096576154337734865) · [Original post](https://x.com/mizkun/status/2096576154337734865) · [Back to examples](#all-prompts)
+
+---
+
+<a id="the-quiet-crossing-exploration-quest-2096574297703637111"></a>
+
+### The Quiet Crossing exploration quest
+
+[MotionViz](https://x.com/Motion_Viz) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111"><img src="../assets/previews/2bf4d5da0fcb675294f65b4db9a4f86da2f2f9c6b8923c3d11e1b991ad0f7839.webp" width="840" loading="lazy" alt="The Quiet Crossing exploration quest"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a snowy Three.js exploration game with a Blender character, voxel pines and a stone waygate. Collect six glowing fragments, follow the character with the camera and show the gate's distance.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/the-quiet-crossing-exploration-quest-2096574297703637111) · [Original post](https://x.com/Motion_Viz/status/2096574297703637111) · [Back to examples](#all-prompts)
+
+---
+
+<a id="indian-mango-tree-in-speedtree-2096572429066006845"></a>
+
+### Indian mango tree in SpeedTree
+
+[Varun Mayya](https://x.com/waitin4agi_) · 2026-09-06 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845"><img src="../assets/previews/327cfb97d273bfb139d4b96a16ecf3f6d5be5fa85e33b5e43c7eb7a78f7d3f89.webp" width="840" loading="lazy" alt="Indian mango tree in SpeedTree"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create an Indian mango tree in SpeedTree for an Unreal scene targeting 60 FPS. Generate leaf and bark materials and review their appearance before finalizing the asset.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/indian-mango-tree-in-speedtree-2096572429066006845) · [Original post](https://x.com/waitin4agi_/status/2096572429066006845) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-lorenz-attractor-2096572156453028193"></a>
+
+### Interactive Lorenz attractor
+
+[Juy \| AI experiments](https://x.com/juyeam) · 2026-09-06 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-lorenz-attractor-2096572156453028193"><img src="../assets/previews/fca1d41314709e1d755d899fb81edf769d909a209093c5ec094b985e27e4c46e.webp" width="840" loading="lazy" alt="Interactive Lorenz attractor"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Visualize two Lorenz-system trajectories with a tiny initial-position difference. Let viewers change the difference and scrub through time, while distinguishing numerical checks from exact long-term predictions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-lorenz-attractor-2096572156453028193) · [Original post](https://x.com/juyeam/status/2096572156453028193) · [Live demo](https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos) · [Back to examples](#all-prompts)
+
+---
+
+<a id="low-poly-beach-treasure-hunt-2096570815714414844"></a>
+
+### Low-poly beach treasure hunt
+
+[空野こんこん＠個人ゲーム開発者](https://x.com/sorano_concon_g) · 2026-09-06 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844"><img src="../assets/previews/53eb3de661c3961054e87a9bc6566587c5cb1feec8ea01eaea8958cfb5b29752.webp" width="840" loading="lazy" alt="Low-poly beach treasure hunt"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a playable 3D treasure hunt on a beach in Unity. Model low-poly palm trees and wooden decks, and establish the core exploration and treasure-finding loop.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/low-poly-beach-treasure-hunt-2096570815714414844) · [Original post](https://x.com/sorano_concon_g/status/2096570815714414844) · [Back to examples](#all-prompts)
+
+---
+
 <a id="apartment-sketch-to-rendered-interiors-2096566686266597754"></a>
 
 ### Apartment sketch to rendered interiors
@@ -1091,327 +1413,7 @@ Recreate a Trackmania-style racing physics system in C#, run it through WASM and
 
 ---
 
-<a id="kaiju-city-battle-2096251574918013135"></a>
-
-### Kaiju city battle
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="Kaiju city battle"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a kaiju-inspired Three.js game using generated creature models and sound effects. Create readable giant-scale combat and an environment that communicates the size of the creatures.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135) · [Original post](https://x.com/majidmanzarpour/status/2096251574918013135) · [Live demo](https://stormcolossus.netlify.app/) · [Back to examples](#all-prompts)
-
----
-
-<a id="interactive-hyperloop-demo-2096250748099068377"></a>
-
-### Interactive Hyperloop demo
-
-[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="Interactive Hyperloop demo"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build an interactive Three.js Hyperloop demonstration showing a transport pod, tube infrastructure and motion through the system.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Original post](https://x.com/hbanay98/status/2096250748099068377) · [Back to examples](#all-prompts)
-
----
-
-<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
-
-### Scroll-driven 3D studio website
-
-[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="Scroll-driven 3D studio website"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Turn the supplied reference image into a Three.js scene within a smooth scroll-driven studio website. Coordinate camera motion, typography and section transitions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Original post](https://x.com/mx_debbiee/status/2096245759121277132) · [Back to examples](#all-prompts)
-
----
-
-<a id="komorebi-river-kayaking-2096244208533455049"></a>
-
-### Komorebi river kayaking
-
-[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi river kayaking"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a 3D river kayaking game with anime-inspired aesthetics. Let the player paddle left and right to avoid obstacles, with flowing water, scenery, music and sound effects generated in code.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Original post](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Back to examples](#all-prompts)
-
----
-
-<a id="refractive-bottle-product-story-2096243989439713677"></a>
-
-### Refractive bottle product story
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="Refractive bottle product story"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build an interactive product website around a photorealistic WebGL glass bottle. Use refractive liquid, scroll-driven rotation and bold typography while maintaining browser performance.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Original post](https://x.com/himanshubuildss/status/2096243989439713677) · [Back to examples](#all-prompts)
-
----
-
-<a id="memory-capsule-machine-2096241295949975602"></a>
-
-### Memory capsule machine
-
-[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="Memory capsule machine"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a 3D memory capsule machine. Turn a knob to release a memory, model the mechanism in Blender and give the falling capsules believable motion and sound.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602) · [Original post](https://x.com/gloria_zwq/status/2096241295949975602) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096236137266512181"></a>
-
-### Browser Flight Simulator with a Complete Flight Loop
-
-[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="Browser Flight Simulator with a Complete Flight Loop"></a>
-
-**Prompt**
-
-```text
-Build a polished, playable browser-based 3D flight simulator game from scratch.
-
-The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
-
-GAMEPLAY
-- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
-- Place a recognizable passenger airplane at the airport.
-- The player must be able to control the aircraft with the keyboard.
-- Implement throttle, pitch, roll, yaw and braking.
-- The aircraft must have basic believable flight physics, momentum and acceleration.
-- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
-- Add a simple objective: take off, complete a short flight around the airport and land safely.
-- Include crash/failure detection and a restart option.
-
-CONTROLS
-Display controls clearly:
-- W/S: Pitch
-- A/D: Roll
-- Q/E: Yaw
-- Shift/Ctrl: Throttle
-- Space: Brake
-
-CAMERA
-- Use a smooth third-person chase camera behind the aircraft.
-- Keep the aircraft clearly visible during flight.
-- Camera should smoothly follow movement and respond subtly to acceleration.
-
-HUD
-Create a polished aviation-style HUD showing:
-- Airspeed
-- Altitude
-- Heading
-- Throttle
-- Vertical speed
-- Flight status
-- Current objective
-
-Include a compact controls/help panel that can be hidden.
-
-START + RESULTS
-Create a start screen with:
-"FLIGHT SIMULATOR"
-and a prominent "START FLIGHT" button.
-
-After a successful landing, show:
-- Flight completed
-- Landing quality
-- Flight time
-- Final score
-- Play Again
-
-VISUAL QUALITY
-Make it feel like a real game:
-- Cohesive stylized 3D visuals
-- Detailed aircraft
-- Attractive airport environment
-- Good lighting, shadows and materials
-- Clouds/atmosphere
-- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
-- Avoid an empty or obviously unfinished scene
-
-FEEDBACK
-Add useful feedback for:
-- Throttle/engine state
-- Takeoff
-- Landing
-- Speed warnings
-- Altitude
-- Crashes
-- Successful landing
-
-TECHNICAL
-- Build the complete working game in the browser.
-- Do not leave placeholder buttons or fake interactions.
-- Prioritize responsive controls and smooth performance.
-- Use whatever appropriate web/3D technologies are available.
-
-IMPORTANT:
-Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
-
-START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
-
-Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181) · [Original post](https://x.com/adxtyahq/status/2096236137266512181) · [Back to examples](#all-prompts)
-
----
-
-<a id="procedural-napoleon-bust-2096234355395903672"></a>
-
-### Procedural Napoleon bust
-
-[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="Procedural Napoleon bust"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Code a 3D bust of Napoleon in Three.js. Build it in stages, inspect it from different angles and refine facial proportions and clothing details.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Original post](https://x.com/leploutos/status/2096234355395903672) · [Back to examples](#all-prompts)
-
----
-
-<a id="railway-station-concourse-2096226711222546461"></a>
-
-### Railway station concourse
-
-[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="Railway station concourse"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a railway concourse with a strong architectural rhythm, believable scale and convincing materials. Produce an inspectable 3D scene with carefully framed station views.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461) · [Original post](https://x.com/0xWormhole404/status/2096226711222546461) · [Back to examples](#all-prompts)
-
----
-
-<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
-
-### Orbital rendezvous simulator
-
-[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="Orbital rendezvous simulator"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a real-time orbital rendezvous simulation using two-body ECI propagation and HCW guidance. Include six-degree-of-freedom orientation, fuel use, force limits and a docking objective.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Original post](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Back to examples](#all-prompts)
-
----
-
-<a id="animated-onboarding-diorama-2096222790894661841"></a>
-
-### Animated onboarding diorama
-
-[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="Animated onboarding diorama"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a small onboarding diorama in Blender and bring it to life in Three.js. Use clear focal objects and short animation sequences to explain the first user actions.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Original post](https://x.com/EmilHovv/status/2096222790894661841) · [Back to examples](#all-prompts)
-
----
-
-<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
-
-### Exploded interactive human anatomy
-
-[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="Exploded interactive human anatomy"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a 3D anatomy website where the human body separates into individually inspectable structures. Make the exploded view navigable and organize the parts into meaningful systems.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Original post](https://x.com/ashebytes/status/2096221988763173186) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.4.md) · **5 / 10** · [→](catalog.en.6.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 476 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 488 examples and live previews →</a></strong></p>

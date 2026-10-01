@@ -28,6 +28,18 @@
 <details>
 <summary>Parcourir les exemples (50)</summary>
 
+- [Recréer une scène dans Isaac Sim](#gpt-6-astra-2105323534398763307)
+- [SPARK — Plan animé 3D pictural](#claude-opus-5-5-2105315982525014067)
+- [Vidéo d’animation 3D d’une sphère qui chute, synchronisée sur le rythme](#claude-opus-5-5-2105302007896797351)
+- [Créer un personnage 3D de Minion dans Blender](#gpt-6-astra-2105298955307303100)
+- [Jelly Press](#claude-opus-5-5-2105285992865272110)
+- [Rendu Blender du Golden Gate Bridge](#gpt-6-astra-2105278999861526953)
+- [Roguelike ASCII au tour par tour dans un seul fichier HTML](#claude-opus-5-5-2105246199653482872)
+- [Créer un univers Game of Thrones](#claude-opus-5-5-2105245648723562584)
+- [Scène cinématographique et photoréaliste de lancement de fusée](#gpt-6-astra-2105047166733746209)
+- [Vidéo interactive sur un séisme dans un bac à sable tectonique](#claude-opus-5-5-2105029713445949521)
+- [Modèle réaliste de F-22 Raptor et vidéo de vol dans Godot](#gpt-6-astra-2105027152617918852)
+- [Le temps, démonté.](#gpt-6-astra-2105009377002299711)
 - [Machine mécanique de Rube Goldberg dans Blender](#claude-opus-5-5-2104953406708175097)
 - [Créer un jeu de course façon Mario Kart avec 3JS](#claude-opus-5-5-2104947552328261810)
 - [Planète 3D cartoon interactive](#claude-opus-5-5-2104919117262389255)
@@ -66,20 +78,864 @@
 - [Modélisation 3D de tenues pour VRChat](#gpt-6-astra-2103456264785424530)
 - [Gelée de pitaya](#gpt-6-astra-2103432732386664591)
 - [Animation en motion design du cycle de la vie](#claude-opus-5-5-2103428454355980558)
-- [Décor de champ de bataille romain à l’heure dorée](#gpt-6-astra-2103351755971207251)
-- [STILLWATER — Expérience de marais au clair de lune dans le navigateur](#gpt-6-astra-2103308083242082314)
-- [Séquence interactive en 3D d’un lancement de fusée depuis l’océan](#claude-opus-5-5-2103303303358534021)
-- [Royaume médiéval interactif pour Claude Opus 5.5](#claude-opus-5-5-2103257687492374597)
-- [Expérience Three.js automnale et brumeuse à explorer](#gpt-6-astra-2103211135214256350)
-- [Cap au nord : voyage interactif en drakkar viking](#gpt-6-astra-2103187935759655167)
-- [Espace : court métrage d’une cathédrale baignée de lumière de vitrail](#claude-opus-5-5-2103145567945986461)
-- [Jeu dans le style de Genshin Impact, situé à San Francisco](#claude-opus-5-5-2103144530157687114)
-- [Film cinématographique sur la bataille d’Austerlitz](#claude-opus-5-5-2103116235009347650)
-- [Construire la tour Eiffel avec Three.js](#claude-opus-5-5-2103106070549757960)
-- [Crazy Tanks — Artillerie insulaire en 3D](#crazy-tanks-3d-island-artillery)
-- [Animation Three.js de niveau Pixar pour Grid Genius](#claude-opus-5-5-2103087766662009118)
 
 </details>
+<a id="gpt-6-astra-2105323534398763307"></a>
+
+### Recréer une scène dans Isaac Sim
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105323534398763307"><img src="../assets/previews/3852636f5d615521a17f3a4aea8641f8f42815fd5d1bc9df57d028748fdec886.webp" width="840" loading="lazy" alt="Recréer une scène dans Isaac Sim"></a>
+
+**Images de référence:** [1](https://media.tripogrowth.space/media/da6263bd-ac07-41bb-93ad-a997394635c6.jpg) · [2](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg)
+
+**Prompt**
+
+```text
+Recréez cette scène dans Isaac Sim afin d’évaluer une politique de manipulation. N’utilisez pas Manifold.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Recreate this scene in Isaac Sim for the purposes of manipulation policy evaluation. Don't use Manifold.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105323534398763307) · [Publication originale](https://x.com/charleswongzx/status/2105323534398763307) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — Plan animé 3D pictural
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — Plan animé 3D pictural"></a>
+
+**Prompt**
+
+```text
+TITRE : « SPARK »
+
+Un plan animé 3D d’environ 15 secondes, dans le style pictural de la série Arcane (Fortiche).
+
+Réalisé dans Blender, ou avec tout autre outil s’il est plus performant. Format panoramique, sans dialogue.
+
+GOAL
+
+La priorité absolue est de reproduire le plus fidèlement possible le style visuel et l’animation d’Arcane, à tous les niveaux. Une personne qui regarde le résultat doit croire qu’il provient du même studio.
+
+Prenez tout le temps et déployez tous les efforts nécessaires. Reproduisez parfaitement la technique et l’apparence. Consacrez-y autant de temps que nécessaire et veillez à ce que tout soit parfait.
+
+SCÈNE (indications souples — adaptez librement)
+
+Une petite créature mécanique non humanoïde, évoquant un papillon en laiton et cristal, se réveille la nuit sur l’établi encombré d’un inventeur. Son cœur de cristal s’embrase d’une énergie lumineuse, puis elle jaillit dans les airs dans un tourbillon d’étincelles. Modifiez les détails, le cadrage ou l’action si une autre proposition met mieux le style en valeur. Vous pouvez même animer quelque chose de complètement différent si vous le souhaitez — ce que vous voulez, et ce que vous maîtrisez le mieux — à condition que le résultat soit lui aussi identique à Arcane.
+
+PROCESS
+
+1. RECHERCHE : Avant de construire quoi que ce soit, étudiez en profondeur le style d’Arcane. Trouvez des références et des analyses de la technique de Fortiche (interviews, making-of, analyses d’artistes). Notez chaque élément caractéristique : textures, ombrage, travail du trait, couleurs, éclairage, cadence d’images, effets, caméra et compositing.
+
+2. GUIDE DE STYLE : Transformez ces éléments en une checklist écrite et en une petite image de référence (une seule image fixe) avant de commencer l’animation. Comparez-la côte à côte avec des images fixes de référence et révisez-la jusqu’à obtenir une correspondance parfaite.
+
+3. PRODUCTION : Modélisez, texturez, éclairez et animez en suivant la checklist.
+
+4. RÉVISION : Comparez régulièrement les images avec des références d’Arcane. Dressez la liste de chaque différence visible et corrigez-la. Répétez l’opération jusqu’à ce qu’il ne reste plus aucune différence perceptible.
+
+ÉLÉMENTS DE STYLE À REPRODUIRE (au minimum)
+
+- Des textures peintes à la main, avec des coups de pinceau visibles sur chaque surface ; rien ne doit avoir un aspect procédural ou photographique.
+
+- Un ombrage stylisé et pictural, avec des formes d’ombre et de lumière conçues intentionnellement, plutôt qu’une atténuation réaliste.
+
+- Une animation en 2 images pour les personnages et les objets, avec des poses fortes, un timing vif, des anticipations et des images d’étirement ; les mouvements de caméra sont fluides et animés en 1 image.
+
+- Des effets 2D dessinés à la main (étincelles, énergie, fumée, scintillements, lueurs) superposés à la 3D, animés en 2 images avec un langage de formes graphique.
+
+- Une palette audacieuse et atmosphérique : lumière chaude face à des accents lumineux saturés, ombres aux couleurs riches, liseré lumineux marqué et bloom.
+
+- Un compositing pictural : filtrage évoquant des coups de pinceau, grain et texture subtile par-dessus l’image.
+
+- Une caméra cinématographique : faible profondeur de champ, mouvements intentionnels et poids marqué lors des impacts.
+
+SOUND
+
+Une conception sonore détaillée et cinématographique, en accord avec l’action et l’atmosphère.
+
+Faites de votre mieux pour tout soigner : animation, modèles, textures, effets, éclairage et son. Utilisez tous les outils ou programmes nécessaires. Vous pouvez étudier des références en ligne et imiter des techniques, voire copier certains éléments, mais n’utilisez pas directement des ressources que vous n’avez pas créées. Conservez un style cohérent sur l’ensemble du plan afin que la 3D, les textures peintes et les effets 2D donnent l’impression de former une seule image réalisée à la main.
+
+N’utilisez pas la mémoire ni les conversations précédentes.
+
+Vous pouvez utiliser n’importe quel autre outil, programme ou module complémentaire, absolument tout. Utilisez tout ce dont vous disposez.
+
+Vous pouvez employer des processus différents de ceux décrits ici ou animer autre chose que ce qui est indiqué, mais le résultat doit absolument ressembler le plus possible à la série télévisée Arcane. Rendez-le parfait à tous les niveaux et identique.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105315982525014067) · [Publication originale](https://x.com/xikhar/status/2105317581695623329) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### Vidéo d’animation 3D d’une sphère qui chute, synchronisée sur le rythme
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="Vidéo d’animation 3D d’une sphère qui chute, synchronisée sur le rythme"></a>
+
+**Prompt**
+
+```text
+Vidéo d’animation 3D synchronisée sur le rythme, avec une sphère qui chute : un rendu comparable à une production professionnelle réalisée sur Blender, accompagné de plusieurs morceaux instrumentaux classiques. Les scènes changent au fil de la musique ; pendant sa chute, la sphère rebondit sur les éléments de la scène 3D, qui s’illuminent en rythme. Ajoutez quelques touches d’humour.
+Utilisez three.js pour la réalisation, et non Blender
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105302007896797351) · [Publication originale](https://x.com/Gorden_Sun/status/2105302007896797351) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105298955307303100"></a>
+
+### Créer un personnage 3D de Minion dans Blender
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · Ressources
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105298955307303100"><img src="../assets/previews/e5e2a6452d0aa3edb11e244c87c98ef855e260733bc1fbe1db47fcdb4a633092.webp" width="840" loading="lazy" alt="Créer un personnage 3D de Minion dans Blender"></a>
+
+**Prompt**
+
+```text
+Écrivez un script Python complet et exécutable utilisant le module bpy de Blender pour créer un personnage 3D de Minion, configurer une animation de caméra turntable à 360 degrés et effectuer le rendu d’une vidéo 1:1 de 5 secondes.
+Spécifications de l’animation et du rendu :
+
+Fréquence d’images et durée : définissez la fréquence d’images sur 30 ips et la plage de rendu sur les images 1 à 150 (exactement 5 secondes).
+Format d’image : définissez la résolution de rendu sur 1080 × 1080 pixels (format carré 1:1).
+Animation turntable de la caméra : animez la caméra (ou un objet contrôleur Empty parenté à la caméra) afin d’effectuer une rotation de 360 degrés fluide autour du Minion sur les 150 images.
+Définissez l’interpolation des images clés sur LINEAR pour garantir une rotation fluide à vitesse constante.
+
+Paramètres de sortie : définissez le format de sortie sur une vidéo FFmpeg (conteneur H.264 / MP4).
+Exigences techniques et structure du modèle :
+Corps de base : créez un maillage en forme de capsule pour le corps principal (matériau jaune, diffusion sous-surface / rugosité d’environ 0,3).
+Ajoutez quelques mèches fines et clairsemées de cheveux noirs au sommet de la tête.
+
+Lunettes et yeux : construisez des lunettes à double verre à l’aide de cylindres extrudés et de tores.
+Matériau de la monture : métallique (environ 0,9), avec une rugosité d’environ 0,2 pour simuler de l’aluminium ou du métal brossé.
+Ajoutez une sangle élastique noire qui entoure le corps.
+Générez deux maillages de globes oculaires à l’intérieur de la monture (sclérotique blanche, iris brun, pupille brillante).
+
+Vêtements – Salopette : modélisez la salopette en denim à l’aide d’une géométrie de maillage distincte ou de segments de corps extrudés.
+Matériau : couleur denim bleue, avec une rugosité plus élevée (environ 0,6).
+Ajoutez des bretelles et une poche frontale sur la poitrine.
+
+Membres et détails : ajoutez des bras et des jambes avec des mains gantées de noir et des chaussures noires.
+Utilisez le modificateur Mirror (bpy.ops.object.modifier_add(type='MIRROR')) lorsque cela est pertinent (par exemple pour les yeux, la monture des lunettes, les bras, les sangles et les jambes), afin de garantir la symétrie et de conserver un code propre.
+
+Éclairage et scène : mettez en place un éclairage en trois points (Key, Fill, Rim) parenté à la caméra ou disposé uniformément afin que l’éclairage reste cohérent pendant la rotation.
+Définissez le moteur de rendu sur Cycles ou EEVEE, avec un arrière-plan de studio épuré.
+Assurez-vous que tous les matériaux sont créés à l’aide de nœuds (use_nodes = True).
+
+Retournez UNIQUEMENT du code Python valide à l’intérieur d’un bloc markdown, sans texte environnant ni explications markdown.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Write a complete, executable Python script using Blender's bpy module to create a 3D Minion character, set up a 360-degree turntable camera animation, and render a 5-second 1:1 video.
+Animation & Render Specifications:
+
+Frame Rate & Duration: Set frame rate to 30 fps and render frame range from frame 1 to 150 (exactly 5 seconds).
+Aspect Ratio: Set render resolution to 1080x1080 pixels (1:1 square ratio).
+Camera Turntable Animation:Animate the camera (or an empty controller object parented to the camera) to perform a seamless 360-degree rotation around the Minion over the 150 frames.
+Set keyframe interpolation to LINEAR to ensure smooth, constant-speed rotation.
+
+Output Settings: Set output format to FFmpeg video (H.264 / MP4 container).
+Technical Requirements & Model Structure:
+Base Body:Create a capsule-like mesh for the main body (yellow material, subsurface scattering/roughness ~0.3).
+Add sparse, thin strands of black hair on top of the head.
+
+Goggles & EyesBuild dual-lens goggles using extruded cylinders/toruses.
+Goggle Frame Material: Metallic (~0.9), Roughness (~0.2) to simulate brushed aluminum/metal.
+Add a black elastic strap wrapping around the body.
+Generate two eyeball meshes inside the frame (white sclera, brown iris, shiny pupil).
+
+Clothing - Overalls:Model the denim overalls using separate mesh geometry or extruded body segments.
+Material: Blue denim color, higher roughness (~0.6).
+Include shoulder straps and a front pocket on the chest.
+
+Appendages & DetailsAdd arms and legs with black gloved hands and black shoes.
+Use Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) where applicable (e.g., eyes, goggles frame, arms, straps, legs) to ensure symmetry and clean code.
+
+Lighting & Scene:Place a three-point lighting setup (Key, Fill, Rim lights) parented to the camera or placed uniformly so the lighting stays consistent during rotation.
+Set render engine to Cycles or EEVEE with a clean studio background.
+Ensure all materials are created using Nodes (use_nodes = True).
+
+Return ONLY valid Python code inside a markdown block with no surrounding text or markdown explanations.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105298955307303100) · [Publication originale](https://x.com/EvoLinkAi/status/2105298964027265295) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### Jelly Press
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="Jelly Press"></a>
+
+**Prompt**
+
+```text
+Créez « Jelly Press » : un jouet 3D interactif dans un fichier HTML unique (tout le JS, le CSS et les shaders WGSL intégrés, sans ressources externes à l’exception de Google Fonts). Effectuez le rendu avec WebGPU ; si WebGPU ou un adaptateur est indisponible, affichez un message de secours clair plutôt qu’une page blanche.
+
+CONCEPT
+Quatre gelées translucides en forme de tranches de fruits sont placées une par une sur le plateau en acier d’une presse hydraulique. Le joueur maintient un gros bouton rouge pour abaisser la presse. La gelée s’écrase et s’étale, le manomètre monte et, quelque part au-delà de la moitié de sa hauteur, elle éclate en morceaux. Après l’éclatement, le jeu NE S’ARRÊTE PAS : le joueur peut attraper les morceaux, les faire glisser, les lancer et les écraser de nouveau.
+
+LES GELÉES (vignettes en bas, touches 1 à 4)
+1. Quartier de pastèque (tranche en demi-disque) : chair rouge avec des graines foncées en forme de goutte, bande d’écorce pâle et peau verte rayée.
+2. Tranche d’orange (demi-disque) : quartiers de pulpe orange séparés par de fines membranes blanches, albédo pâle et écorce orange.
+3. Moitié de figue : chair rose remplie de petites graines dorées, couche crème et peau violet foncé.
+4. Rondelle d’ananas : chair dorée et fibreuse parcourue de stries radiales, avec un trou au centre.
+Chaque gelée doit ressembler à un vrai bonbon gélifié : diffusion subsurfacique, translucidité douce, reflets spéculaires brillants et ombres douces sur un sol de studio aux tons chauds (crème/beige, avec tone mapping).
+
+PHYSIQUE (CPU, pas fixe à 60 Hz)
+- Corps mou tétraédrique XPBD avec 8 sous-pas : matching de forme corotationnel par tétraèdre, contraintes de volume par tétraèdre, limites strictes de déformation des arêtes (0,35×–1,8×), amortissement de la vitesse des arêtes, contact avec le sol et frottement de Coulomb, résistance au roulement et stabilisation douce lorsque le corps est presque immobile.
+- Maillage de rendu déformé sur le CPU par embedding barycentrique dans les tétraèdres ; recalcul des normales à partir des triangles à chaque frame.
+- Le poinçon de la presse est un plateau circulaire cinématique (rayon d’environ 1,05, bord arrondi, une certaine épaisseur, vérin au-dessus). Il sert de plafond avec frottement en dessous, d’étagère au-dessus et de paroi latérale sur son pourtour. Les deux montants de la presse sont solides.
+- La pression affichée en bar est calculée à partir de la charge de contact du plateau, mise à l’échelle pour chaque fruit.
+
+L’ÉCLATEMENT
+- Déclenchez la rupture lors d’un écrasement aléatoire compris entre 52 % et 66 % de la hauteur de la gelée.
+- Préparez la fracture en arrière-plan peu après le début de chaque manche afin que l’éclatement soit instantané.
+- Générez 5 à 7 gros morceaux à partir de cellules de Voronoï 3D aux parois légèrement inclinées. Sur 3 ou 4 d’entre eux, retirez un coin éloigné à l’aide de deux plans de coupe, puis subdivisez-le en 2 à 4 petites esquilles, créant ainsi des bords irréguliers et crantés.
+- Attribuez les tétraèdres aux cellules par leur centroïde. Dupliquez les particules pour chaque morceau. Fusionnez les petits îlots avec leurs voisins.
+- Le nouveau corps reprend les anciennes positions et vitesses.
+- Découpez les triangles de la surface selon les demi-espaces de chaque cellule et remplissez chaque face coupée avec un capuchon plat et propre révélant l’intérieur du fruit (chair, graines, membranes). Aucun triangle étiré ni trou.
+- Propulsez les morceaux vers l’extérieur et vers le haut depuis la presse. Les petites esquilles vont plus vite et plus haut et tournent avec une rotation aléatoire.
+- Affichez un verdict en grand italique pendant environ 2,5 s, puis faites-le disparaître : « Éclaboussée. » (pastèque), « Pressée. » (orange), « Bon, c’est de la confiture. » (figue), « Écrasé. » (ananas). Ajoutez une ligne de statistiques : « A abandonné à N bar et à N % de sa hauteur. »
+
+APRÈS L’ÉCLATEMENT : MODE JEU
+- Sélection : test rayon/triangle sur le maillage déformé, avec une solution de secours tolérante dans l’espace écran pour les interactions tactiles.
+- La prise immobilise la zone saisie (rayon d’environ 0,4, uniquement les particules de ce morceau) sur une cible située sur un plan de déplacement orienté face à la caméra. Les petites esquilles se déplacent d’un seul bloc ; les gros morceaux s’étirent et se balancent comme de la gelée.
+- Au relâchement, lancez le morceau avec la vitesse du pointeur.
+- Les morceaux entrent en collision les uns avec les autres. Une particule détectée à l’intérieur du tétraèdre d’un autre morceau est repoussée à travers la face de surface la plus proche de ce morceau, avec frottement. Utilisez une broad phase par AABB des morceaux et un hachage spatial des tétraèdres de surface.
+- Les morceaux restent sur la scène : parois latérales et bord avant invisible pour qu’aucun élément ne se retrouve sous les commandes ou derrière la caméra.
+- La presse reste fonctionnelle : maintenez-la pour écraser de nouveau les morceaux (sans seconde fracture) ; le bouton Relever remonte le plateau.
+- Sons de « plouf » humides à l’atterrissage ; petit bruit visqueux lors de la prise.
+- Curseur : main ouverte au-dessus des morceaux, main fermée pendant le déplacement. Faire glisser un espace vide fait orbiter la caméra.
+
+INTERFACE (éditoriale, minimaliste)
+- En-tête en haut à gauche : « JELLY PRESS » en capitales grasses et condensées, avec « PRESS » rempli de rayures jaunes et noires de signalisation. Sous-titre : « Quatre bonbons gélifiés. Une presse hydraulique. »
+- En haut à droite : boutons Réinitialiser et Son.
+- Panneau inférieur :
+  - Ligne de légende avec des messages qui s’intensifient pendant la pression : « Contact. » → « Tout va bien. C’est de la gelée. » → « Ça s’élargit. » → « C’est une crêpe, maintenant. » → « Ça fait un bruit. » → « S’il vous plaît. »
+  - Cadran circulaire de pression (arc de 0 à 400 bar, zone rouge) autour d’un bouton rouge MAINTENIR, d’un bouton Relever et d’un grand affichage numérique en bar.
+  - Vignettes de fruits avec icônes.
+- En mode jeu, l’emplacement de la légende affiche « Attrapez un morceau. Lancez-le. » avec de petits boutons « Presser encore » et « Gelée suivante ».
+- Commandes : maintenez Espace ou Flèche bas pour presser, Flèche haut pour relever, R pour réinitialiser, 1 à 4 pour choisir un fruit. La molette zoome ; un double-clic réinitialise la vue.
+- Caméra : vue basse au niveau du banc ; l’ossature de la presse pivote selon le fruit afin que les montants ne le masquent jamais. Le cadrage s’adapte pour que la gelée reste entre l’en-tête et le panneau inférieur ; le tout fonctionne sur téléphone (portrait) avec une scène plus étroite.
+
+SON (Web Audio procédural, sans fichiers)
+Bourdonnement du moteur hydraulique qui monte avec la pression, bruits visqueux humides, craquements occasionnels à haute pression, claquement de valve lorsque le plateau s’arrête, éclatement sonore et doux bruits de chute à l’atterrissage. Activez le son lors de la première interaction.
+
+NIVEAU DE QUALITÉ
+- 60 fps fluides sur un ordinateur portable.
+- Préchauffage en arrière-plan des maillages et shaders des autres fruits pour que le changement soit instantané.
+- Respectez prefers-reduced-motion.
+- Libellés accessibles, jauge avec role=meter et contours visibles à la prise de focus.
+- Aucune erreur dans la console. La page ne doit jamais rester blanche.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105285992865272110) · [Publication originale](https://x.com/vib3coded/status/2105286092651999619) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105278999861526953"></a>
+
+### Rendu Blender du Golden Gate Bridge
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105278999861526953"><img src="../assets/previews/5bcade94da53057502f3cb98af337c7c693ece5f6234c73b110d7cc895a422c1.webp" width="840" loading="lazy" alt="Rendu Blender du Golden Gate Bridge"></a>
+
+**Prompt**
+
+```text
+Rendu Blender du Golden Gate Bridge. Plan spectaculaire en contre-plongée extrême depuis la surface de la baie de San Francisco, dirigé vers les immenses tours à treillis métallique complexes qui percent le ciel brumeux du matin. La vaste chaussée s’étend sur toute la travée, parcourue d’innombrables véhicules minuscules et détaillés, soulignant l’échelle grandiose et imposante du pont face aux promontoires côtiers escarpés.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+A Blender render of the Golden Gate Bridge.  A sweeping, extreme low-angle shot from the surface of San Francisco Bay, looking up at the colossal, intricate steel-truss towers piercing the foggy morning sky. The expansive roadway stretches across the span with countless tiny, detailed vehicles, highlighting the bridge's grand, imposing scale against the rugged coastal headlands.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105278999861526953) · [Publication originale](https://x.com/EvoLinkAi/status/2105279002793345069) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### Roguelike ASCII au tour par tour dans un seul fichier HTML
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="Roguelike ASCII au tour par tour dans un seul fichier HTML"></a>
+
+**Prompt**
+
+```text
+Agissez comme un game designer principal. Créez un roguelike ASCII complet au tour par tour dans un seul fichier HTML/JS/CSS autonome, sans aucune dépendance externe.
+1. Visuel : écran CRT des années 1980, texte vert phosphorescent (#00FF66) sur fond noir, avec une douce lueur de lignes de balayage.
+2. Génération procédurale : carte de 40 × 22 cases, avec des salles et des couloirs reliés.
+3. Entités : @ héros, # mur, . sol, g gobelin (5 PV), $ or, > escaliers descendants.
+4. Mécaniques : déplacements et combats au tour par tour, avec suivi des PV et de l’or.
+5. HUD : numéro de l’étage, barre de PV, journal des combats. Mort permanente avec possibilité de recommencer.
+Générez uniquement le code HTML fonctionnel.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105246199653482872) · [Publication originale](https://x.com/kriptoleidi/status/2105246199653482872) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### Créer un univers Game of Thrones
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="Créer un univers Game of Thrones"></a>
+
+**Prompt**
+
+```text
+&lt;créer un univers Game of Thrones&gt;
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105245648723562584) · [Publication originale](https://x.com/DrstaOne/status/2105245648723562584) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105047166733746209"></a>
+
+### Scène cinématographique et photoréaliste de lancement de fusée
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29 · GPT-6 Astra · Scènes
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105047166733746209"><img src="../assets/previews/6d8acb740dd1622944c3b3d67b4773f614180df8b9b6f266d7a3a7a7c523baff.webp" width="840" loading="lazy" alt="Scène cinématographique et photoréaliste de lancement de fusée"></a>
+
+**Prompt**
+
+```text
+Créez avec Three.js une scène cinématographique et photoréaliste de lancement de fusée, avec des textures soignées
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a cinematic, photorealistic, beautifully textured rocket launch scene using Three.js
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105047166733746209) · [Publication originale](https://x.com/MatthewLebo_/status/2105047166733746209) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### Vidéo interactive sur un séisme dans un bac à sable tectonique
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="Vidéo interactive sur un séisme dans un bac à sable tectonique"></a>
+
+**Prompt**
+
+```text
+Créez une vidéo visuellement spectaculaire de 60 secondes expliquant comment se produit un séisme grâce à un bac à sable tectonique interactif.
+
+Donnez l’impression que nous observons quelqu’un explorer une magnifique simulation en temps réel, et non un diaporama ou une vidéo éducative traditionnelle.
+
+Commencez par une coupe 3D nette de la croûte terrestre. Deux plaques tectoniques se déplacent lentement l’une contre l’autre. Visualisez la faille qui les sépare et montrez le frottement qui bloque les plaques tandis que les contraintes s’accumulent progressivement.
+
+À mesure que la pression augmente, rendez la simulation plus intense : les couches rocheuses se déforment, les zones de contraintes s’illuminent, de légères vibrations apparaissent et un sismographe en temps réel commence à réagir.
+
+Déclenchez ensuite le séisme. La faille coulisse soudainement et libère une gigantesque décharge d’énergie. Montrez les ondes sismiques qui se propagent dans toutes les directions à travers le sol, puis remontez vers la surface, où le paysage et une petite ville commencent à trembler.
+
+Visualisez les ondes P et les ondes S se propageant différemment à travers la Terre, suivies par les ondes de surface les plus intenses. Montrez que les bâtiments réagissent différemment selon leur distance par rapport à l’épicentre.
+
+Terminez en replongeant sous terre pour révéler de petites répliques autour de la faille, puis éloignez la caméra afin de montrer l’ensemble du système tectonique.
+
+Utilisez un motion design cinématographique, des simulations physiques satisfaisantes, des changements d’échelle spectaculaires, une visualisation scientifique 3D haut de gamme, une typographie minimaliste, des libellés dynamiques, des incrustations d’interface fluides et des transitions parfaitement raccordées.
+
+Le rythme doit évoluer constamment et révéler quelque chose de nouveau toutes les quelques secondes afin de maintenir l’intérêt visuel pendant les 60 secondes.
+
+Donnez à l’ensemble la qualité d’une visualisation scientifique interactive signée Apple, transformée en vidéo cinématographique de motion design.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2105029713445949521) · [Publication originale](https://x.com/egeberkina/status/2105029713445949521) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105027152617918852"></a>
+
+### Modèle réaliste de F-22 Raptor et vidéo de vol dans Godot
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29 · GPT-6 Astra · Autre
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105027152617918852"><img src="../assets/previews/735c2222ff973e206a2a4e0eb83984299eb76e96ff6f0267d1697607a029ab0f.webp" width="840" loading="lazy" alt="Modèle réaliste de F-22 Raptor et vidéo de vol dans Godot"></a>
+
+**Prompt**
+
+```text
+Avec Blender MCP, crée-moi un modèle 3D réaliste du Lockheed Martin F-22 Raptor (États-Unis uniquement). Crée ensuite une vidéo MP4 de 60 secondes le montrant en vol dans Godot, que je puisse publier sur X.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Using blender mcp. Make me a realistic 3d model of the: Lockheed Martin F-22 Raptor (US only). Then create me 60 second mp4 of it flying around in Godot that I can upload to X.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105027152617918852) · [Publication originale](https://x.com/dgresesjr/status/2105027152617918852) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105009377002299711"></a>
+
+### Le temps, démonté.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29 · GPT-6 Astra · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105009377002299711"><img src="../assets/previews/e2b43bfe1fb0e91f9377aeb5de49500cf4472749c1c2b6f2f0cacb387107b7f9.webp" width="840" loading="lazy" alt="Le temps, démonté."></a>
+
+**Prompt**
+
+```text
+Construisez « Time, Undone. » — un fichier HTML autonome unique (avec JavaScript et CSS intégrés) qui exécute une véritable montre mécanique 3D interactive en WebGPU + WGSL et se démonte au fil du défilement tout en continuant de fonctionner. N’utilisez aucune bibliothèque de moteur 3D ; toute la géométrie doit être générée par le code. Il s’agit du numéro 01 d’une série consacrée à des objets que tout le monde a vus de l’extérieur et que presque personne n’a vus de l’intérieur.
+L’OBJET
+Une montre mécanique originale, sans marque, à remontage manuel, dans un boîtier rond de 40 mm, avec un mouvement classique à échappement à ancre suisse d’environ 30 mm de diamètre.
+Disposition : heures et minutes au centre ; petite seconde à 6 heures ; couronne à 3 heures.
+Cadran : argenté opalin, avec un fin guilloché soleil, des index appliqués polis, des aiguilles dauphine et un chemin de fer des minutes.
+Boîtier : glace saphir à l’avant et fond transparent, afin que le mouvement soit visible par l’arrière.
+Aucun nom de marque, logo ou nom de calibre réel. Appelez-le « Calibre 01 ».
+LE MÉCANISME (il doit être correct sur le plan mécanique, et non décoratif)
+Fréquence : 28 800 alternances par heure (balancier à 4 Hz).
+Construisez un rouage réel avec des nombres de dents cohérents : barillet de ressort moteur à 96 dents → pignon de centre à 12 dents ; la roue de centre effectue un tour par heure et porte l’aiguille des minutes ;
+roue de centre 80 → pignon de troisième roue 10 ;
+troisième roue 75 → pignon de quatrième roue 10 ; la quatrième roue effectue un tour par minute et porte la petite seconde ;
+quatrième roue 84 → pignon d’échappement 7 ;
+roue d’échappement à 20 dents, effectuant un tour toutes les 5 s.
+
+Mécanisme de minuterie sous le cadran : chaussée 12 → roue de minuterie 36 ; pignon de minuterie 10 → roue des heures 40 (rapport 12:1).
+Remontoir : couronne, tige, roue de couronne, rochet, cliquet avec ressort.
+Échappement : roue d’échappement, ancre avec deux palettes en rubis et des goupilles de limitation, balancier avec spiral et plateau d’impulsion.
+Structure : platine, pont de barillet, pont de rouage, coq de balancier, paliers en rubis, vis bleuies.
+Roues dentées : profils de dents cycloïdaux typiques de l’horlogerie, roues ajourées à rayons, pignons à ailes, arbres et pivots. Les entraxes sont dérivés d’un module commun afin que chaque paire s’engrène visiblement correctement une fois assemblée.
+Mouvement piloté par UNE horloge maîtresse : le balancier oscille selon θ(t) = A·sin(2π·4·t), avec une amplitude A d’environ 270° à pleine charge ;
+à chaque alternance, l’ancre oscille entre ses goupilles de limitation et la roue d’échappement avance d’une demi-dent selon une brève impulsion adoucie, puis se bloque ;
+toutes les autres roues avancent exactement selon leur rapport avec la roue d’échappement ;
+la trotteuse avance 8 fois par seconde ; les aiguilles des minutes et des heures suivent le rouage.
+Au chargement, réglez les aiguilles sur l’heure locale du spectateur.
+
+Énergie : une réserve de marche d’environ 44 h qui se décharge en temps réel. L’amplitude passe de 290° à 180° à mesure que la réserve s’épuise ; à 0, la montre s’arrête et le balancier se stabilise au lieu de se figer.
+Le remontage augmente la réserve, avec un mouvement visible du rochet et du cliquet ainsi qu’un doux son de cliquetis (Web Audio, désactivé jusqu’à la première interaction de l’utilisateur).
+
+Le mécanisme continue de fonctionner dans chaque état éclaté : les roues tournent dans le vide, le balancier continue de battre et la trotteuse continue d’avancer.
+L’ÉCLATEMENT (piloté par le défilement, avec des arrêts)
+Le défilement de la page correspond à une valeur de progression de 0 à 1, divisée en sept chapitres. Chaque chapitre se stabilise progressivement sur un « arrêt » où le défilement se pose brièvement (un léger accrochage, jamais un verrouillage brutal). La caméra se déplace fluidement entre les chapitres.
+Chapitres :
+I. Le boîtier : vue de trois quarts avant, assemblée.
+II. Le cadran : la glace et la lunette se soulèvent ; les aiguilles et le cadran montent.
+III. Le mécanisme de minuterie : les roues sous le cadran se séparent.
+IV. Les ponts : la montre se retourne pour montrer l’arrière ; le fond se soulève ; les ponts et le coq de balancier montent, leurs vis flottant juste au-dessus de leurs trous.
+V. Le rouage : le barillet, les roues de centre, de troisième et de quatrième roue s’écartent vers le haut le long de leurs propres axes, comme dans un dessin technique.
+VI. L’échappement : la roue d’échappement, l’ancre et le balancier se séparent davantage, tandis que la caméra se rapproche.
+VII. Le cœur : vue macro du balancier et du spiral en mouvement, avec la colonne entièrement éclatée à l’arrière-plan.
+Chaque composant se déplace selon un axe clair, principalement celui de son propre arbre ou directement vers le haut depuis la platine. Les éléments qui vont ensemble restent groupés. Aucun composant ne s’intersecte pendant l’éclatement et aucun ne sort du cadre.
+De fines lignes de rappel avec de petites extrémités et des étiquettes apparaissent pour les composants principaux à chaque arrêt, puis s’estompent entre les arrêts.
+INTERACTION
+Le défilement (molette, pavé tactile, balayage tactile) pilote l’éclatement.
+Faire glisser dans une zone vide fait pivoter la montre dans des limites définies ; elle revient progressivement en place lorsque le geste est relâché.
+Survoler un composant le souligne doucement et affiche son nom.
+Cliquer sur un composant : le composant est mis en évidence, les autres sont atténués à environ 35 %, et la caméra se déplace progressivement pour l’encadrer ;
+une fiche s’ouvre à côté, reliée par une fine ligne de rappel. La fiche affiche : le nom ; le rôle en une ou deux phrases simples ; un fait précis (par exemple : « Roue d’échappement · 20 dents · un tour toutes les 5 s ») ; et une valeur en temps réel (vitesse, angle ou nombre d’alternances actuel).
+Échap, le bouton de fermeture ou un clic dans une zone vide permettent de revenir en arrière.
+
+Faire glisser la couronne latéralement remonte la montre (avec un cliquet tactile) lorsque la couronne est visible.
+Capture du pointeur, souris et tactile. Sélection par passe de rendu avec identifiant d’objet ou par tests de rayon exacts ; aucune sphère englobante approximative.
+RENDU (métaux réalistes, sensation de macrophotographie — pas de style cartoon)
+Matériaux à rendu physique, avec un environnement de studio procédural (grandes boîtes à lumière, une lumière en bande et un faible éclairage chaud) pour les reflets.
+Finitions : rayures Côtes de Genève sur les ponts (spéculaire brossé anisotrope aligné sur les rayures) ;
+perlage (décor circulaire) sur la platine ;
+biseaux polis miroir (anglage) captant de brillants reflets de bord ;
+vis et aiguilles bleuies par traitement thermique, à effet de film mince ;
+rubis translucides rouges avec des scintillements internes ;
+composants en acier rhodié ;
+glaces saphir aux reflets bleu-violet très légers et présentant une faible épaisseur sur les bords.
+
+Boîtier dans l’or sélectionné.
+Reflets : bloom maîtrisé uniquement sur les reflets spéculaires ; petits éclats en étoile sur les rubis et les bords polis, qui apparaissent lorsque la lumière ou la montre bouge. Élégance, pas de paillettes.
+Ombres de contact douces, occlusion ambiante légère, profondeur de champ subtile qui suit le composant ciblé.
+Tone mapping cinématographique sans hautes lumières écrêtées ; MSAA 4x ou équivalent.
+Arrière-plan : blanc porcelaine pâle avec un vignettage doux, comme dans un studio photo sans raccord. Ni jaune ni crème.
+INTERFACE (aristocratique, éditoriale, avec beaucoup d’espace blanc)
+Polices : « Bodoni Moda » pour les éléments d’affichage et les chiffres, « Jost » pour le texte de l’interface (Google Fonts, avec des polices de repli serif et sans serif). Étiquettes en petites capitales avec un espacement de 0,16 em ; chiffres tabulaires.
+Couleurs : encre #1B1A17 sur l’arrière-plan porcelaine ;
+fins traits de 1 px à 15 % d’encre ;
+la couleur d’accent suit l’or sélectionné.
+
+Aucun dégradé sur les éléments de l’interface, aucune ombre lourde, aucun emoji.
+En haut à gauche : surtitre « OBJECTS, OPENED / NO. 01 » ;
+grand titre Bodoni sur deux lignes, « Time, » / « Undone. » ;
+trois lignes de légende en italique Bodoni : « Remontée à la main. » « Ouverte par défilement. » « Rien n’est caché. »
+
+En haut à droite : statut « WEBGPU · LIVE » avec un petit point.
+Sur le bord gauche, centré verticalement : l’index des chapitres « I. Le boîtier », « II. Le cadran », « III. Le mécanisme de minuterie », « IV. Les ponts », « V. Le rouage », « VI. L’échappement », « VII. Le cœur ». Le chapitre actuel est mis en évidence par une fine barre de progression ; cliquer sur un chapitre fait défiler la page jusqu’à celui-ci.
+
+Panneau de droite « LE MOUVEMENT » : trois préréglages de boîtier : or blanc, or jaune, or rose, avec de petits échantillons de métal ;
+données en temps réel : fréquence « 28 800 alternances par heure », réserve de marche (en h, avec une fine barre), amplitude (°), nombre d’alternances depuis l’ouverture ;
+boutons « Remonter la couronne » et « Régler sur l’heure locale » ;
+cases à cocher « ¼ vitesse » et « Suivre l’énergie ». Suivre l’énergie fait circuler lentement une ligne lumineuse le long du parcours énergétique : ressort moteur → barillet → centre → troisième roue → quatrième roue → roue d’échappement → ancre → balancier, chaque composant s’illuminant à son passage ;
+un bouton Pause/Reprendre.
+
+Indication en bas à gauche : « Faites défiler pour la démonter. Cliquez sur un composant pour le découvrir. Faites glisser pour la retourner. »
+En bas à droite : une section repliable « Comment ça marche », avec une explication courte et exacte du rouage, de l’échappement, du balancier et de la réserve de marche, ainsi qu’une brève note sur le rendu de la page.
+Mobile : le canvas occupe environ 65 % supérieurs de l’écran et l’index des chapitres devient une rangée horizontale de chiffres romains. Le panneau s’affiche en dessous ; les fiches des composants deviennent un panneau inférieur. Rien ne recouvre la montre.
+ENGINEERING
+Construisez toute la géométrie une seule fois au démarrage. Instanciez les éléments répétés (vis, rubis, dents lorsque c’est utile). Mettez à jour uniquement les transformations à chaque image ; aucune compilation de shader ni reconstruction de buffer pendant l’interaction.
+Le temps d’animation provient d’une seule horloge avec une mise à l’échelle au quart de la vitesse. La pause immobilise le mécanisme, pas l’interface.
+Respectez prefers-reduced-motion : transitions instantanées entre les chapitres, aucun déplacement de caméra, aucune animation des scintillements.
+Si WebGPU n’est pas disponible, affichez une explication claire et soignée. Aucun moteur de rendu de secours factice.
+Gérez la perte du périphérique. Limitez le ratio de pixels à 2. Visez 60 i/s sur un ordinateur portable et une expérience fluide sur un téléphone récent.
+VALIDER AVANT LIVRAISON
+Dans le code, vérifiez les rapports du rouage : la trotteuse effectue un tour toutes les 60 s, l’aiguille des minutes toutes les 3 600 s, l’aiguille des heures toutes les 12 h et la roue d’échappement toutes les 5 s. Consignez le résultat dans la console.
+Chaque paire de roues engrenées doit respecter l’entraxe correct et être visiblement engrenée une fois assemblée.
+Aucun composant ne doit en intersecter un autre, quelle que soit la progression de l’éclatement ; aucun z-fighting.
+Les arrêts du défilement, sauts de chapitre, sélection des composants, fiches, remontage, préréglages, suivi de l’énergie, pause, vitesse ¼ et mise en page mobile doivent tous fonctionner.
+Les textes des fiches doivent être exacts sur le plan horloger.
+Aucune erreur dans la console.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build "Time, Undone." - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical watch that takes itself apart as you scroll, while it keeps running. No 3D engine libraries; all geometry is generated in code. This is issue No. 01 of a series about objects everyone has seen from the outside and almost no one has seen from the inside.
+THE OBJECT
+An original, unbranded, hand-wound mechanical watch in a round 40 mm case, with a classic Swiss-lever movement about 30 mm across.
+Layout: centre hours and minutes; small seconds sub-dial at 6 o'clock; crown at 3 o'clock.
+Dial: silver-opaline with a fine guilloché sunburst, applied polished indices, dauphine hands, a railroad minute track.
+Case: front sapphire crystal and a display caseback, so the movement is visible from behind.
+No brand names, logos or real calibre names anywhere. Call it "Calibre 01".
+THE MECHANISM (must be internally correct, not decorative)
+Beat rate 28,800 vph (4 Hz balance).
+Build a real going train with consistent tooth counts:mainspring barrel 96 teeth → centre pinion 12; the centre wheel turns once an hour and carries the minute hand;
+centre wheel 80 → third pinion 10;
+third wheel 75 → fourth pinion 10; the fourth wheel turns once a minute and carries the small seconds hand;
+fourth wheel 84 → escape pinion 7;
+escape wheel 20 teeth, turning once every 5 s.
+
+Motion works under the dial: cannon pinion 12 → minute wheel 36; minute pinion 10 → hour wheel 40 (12:1).
+Keyless works: crown, stem, crown wheel, ratchet wheel, click with spring.
+Escapement: escape wheel, pallet fork with two ruby pallet stones and banking pins, balance wheel with hairspring and impulse roller.
+Structure: mainplate, barrel bridge, train bridge, balance cock, ruby jewel bearings, blued screws.
+Gears: watch-style cycloidal tooth profiles, spoked wheel crossings, pinions with leaves, arbors and pivots. Centre distances are derived from a common module so every pair meshes visibly correctly when assembled.
+Motion, driven from ONE master clock:the balance oscillates as θ(t) = A·sin(2π·4·t), with amplitude A around 270° at full power;
+at each beat, the pallet fork flicks between its banking pins and the escape wheel advances half a tooth in a short eased impulse, then locks;
+every other wheel steps exactly by its ratio from the escape wheel;
+the seconds hand ticks 8 times per second; the minute and hour hands follow the train.
+On load, set the hands to the viewer's local time.
+
+Power: a power reserve of about 44 h that drains in real time.Amplitude falls from 290° to 180° as the reserve empties; at 0 the watch stops, the balance settling rather than freezing.
+Winding raises the reserve, with visible ratchet and click motion and a soft click sound (Web Audio, muted until the first user interaction).
+
+The mechanism keeps running in every exploded state: wheels spin in mid-air, the balance keeps beating, the seconds hand keeps ticking.
+THE EXPLODE (scroll-driven, with stops)
+Page scroll maps to a progress value from 0 to 1, split into seven chapters. Each chapter eases into a resting "stop" where scroll briefly settles (a soft snap, never a hard lock). The camera moves smoothly between chapters.
+Chapters:
+I. The case: front 3/4 view, assembled.
+II. The dial: the crystal and bezel lift away; the hands and dial rise.
+III. Motion works: the wheels under the dial separate.
+IV. The bridges: the watch turns over to show the back; the caseback lifts; the bridges and the balance cock rise, with their screws floating just above their holes.
+V. The going train: barrel, centre, third and fourth wheels spread upward along their own axes like a technical drawing.
+VI. The escapement: escape wheel, pallet fork and balance separate a little further, and the camera closes in.
+VII. The heart: a macro view of the beating balance and hairspring, with the full exploded column behind.
+Every part moves along a clear axis, mostly its own arbor axis or straight up from the plate. Parts that belong together stay together. Nothing intersects during the explode, and nothing leaves the frame.
+Thin hairline leader lines with small caps labels appear for the main parts at each stop, and fade between stops.
+INTERACTION
+Scroll (wheel, trackpad, touch swipe) drives the explode.
+Dragging on empty space turns the watch within limits; it eases back when released.
+Hovering a part outlines it softly with its name.
+Clicking a part:the part is highlighted, other parts dim to about 35%, and the camera eases to frame it;
+a card opens beside it, joined by a hairline leader. The card shows: name; role in one or two plain sentences; one precise fact (for example: "Escape wheel · 20 teeth · one turn every 5 s"); and one live value (current speed, angle, or beats so far).
+Esc, a close button, or clicking empty space returns.
+
+Dragging the crown sideways winds the watch (a tactile ratchet), when the crown is visible.
+Pointer capture, mouse and touch. Picking by an object-ID render pass or exact ray tests; no approximate bounding spheres.
+RENDERING (real metals, macro-photography feel — not a cartoon)
+Physically based materials, with a procedural studio environment (large softboxes, a strip light and a dim warm fill) for reflections.
+Finishes:Côtes de Genève stripes on the bridges (anisotropic brushed specular aligned to the stripes);
+perlage (circular graining) on the mainplate;
+mirror-polished bevels (anglage) catching bright edge highlights;
+thin-film heat-blued screws and hands;
+ruby jewels that are translucent red with internal sparkle;
+rhodium-plated steel parts;
+sapphire crystals with faint blue-violet reflections and a slight edge thickness.
+
+Case in the selected gold.
+Highlights: controlled bloom on specular highlights only; small star glints on jewels and polished edges that appear as the light or the watch moves. Glamour, not glitter.
+Soft contact shadows, gentle ambient occlusion, subtle depth of field that follows the focused part.
+Filmic tonemap with no clipped highlights; 4x MSAA or equivalent.
+Background: pale porcelain white with a soft vignette, like a seamless photo studio. Not yellow, not cream.
+UI (aristocratic, editorial, generous whitespace)
+Fonts: "Bodoni Moda" for display and numerals, "Jost" for UI text (Google Fonts, with serif and sans fallbacks). Small caps labels with 0.16em tracking; tabular numerals.
+Colours:ink #1B1A17 on the porcelain background;
+hairlines 1px at 15% ink;
+the accent follows the selected gold.
+
+No gradients on UI elements, no heavy shadows, no emoji.
+Top-left:kicker "OBJECTS, OPENED / NO. 01";
+large Bodoni heading on two lines, "Time," / "Undone.";
+three caption lines in Bodoni italic: "Wound by hand." "Opened by scroll." "Nothing is hidden."
+
+Top-right: status "WEBGPU · LIVE" with a small dot.
+Left edge, vertically centred: the chapter index "I. The case", "II. The dial", "III. Motion works", "IV. The bridges", "V. The going train", "VI. The escapement", "VII. The heart".The current chapter is highlighted, with a hairline progress rule; clicking a chapter scrolls to it.
+
+Right panel "THE MOVEMENT":three case presets: White gold, Yellow gold, Rose gold, with small metal swatches;
+live readouts: Beat rate "28,800 vph", Power reserve (h, with a thin bar), Amplitude (°), Beats since opened;
+buttons "Wind the crown" and "Set to local time";
+checkboxes "¼ speed" and "Trace the power". Trace the power makes a slow line of light flow along the energy path: mainspring → barrel → centre → third → fourth → escape wheel → pallet fork → balance, with each part glowing as it passes;
+a Pause/Resume button.
+
+Bottom-left hint: "Scroll to take it apart. Click any part to meet it. Drag to turn it."
+Bottom-right: a collapsible "How it works", with a short, accurate explanation of the going train, the escapement, the balance and the power reserve, plus a short note on how this page renders it.
+Mobile: the canvas fills the top about 65% of the screen, and the chapter index becomes a horizontal row of Roman numerals. The panel flows below; part cards become a bottom sheet. Nothing covers the watch.
+ENGINEERING
+Build all geometry once at start-up. Instance repeated parts (screws, jewels, teeth where useful). Update only transforms per frame; no shader compilation or buffer rebuilds during interaction.
+Animation time comes from one clock with ¼-speed scaling. Pause freezes the mechanism, not the UI.
+Respect prefers-reduced-motion: instant chapter transitions, no camera flights, no glints animation.
+If WebGPU is unavailable, show a clear, well-designed explanation. No fake fallback renderer.
+Handle device loss. Cap the pixel ratio at 2. Aim for 60 fps on a laptop and a smooth experience on a recent phone.
+VALIDATE BEFORE DELIVERING
+In code, assert the train ratios: the seconds hand turns once per 60 s, the minute hand once per 3600 s, the hour hand once per 12 h, the escape wheel once per 5 s. Log the check to the console.
+Every meshing pair is at the correct centre distance and visibly meshed when assembled.
+No part intersects another at any explode progress; no z-fighting.
+Scroll stops, chapter jumps, part picking, cards, winding, presets, trace-the-power, pause, ¼ speed and the mobile layout all work.
+Card texts are horologically accurate.
+No console errors.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2105009377002299711) · [Publication originale](https://x.com/theparuchh/status/2105009470292013286) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Machine mécanique de Rube Goldberg dans Blender
@@ -1963,741 +2819,6 @@ make a dynamic 20-second motion graphics and animation video that shows what an 
 </details>
 
 [Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103428454355980558) · [Publication originale](https://x.com/loicRambo/status/2103428454355980558) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103351755971207251"></a>
-
-### Décor de champ de bataille romain à l’heure dorée
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="Décor de champ de bataille romain à l’heure dorée"></a>
-
-**Images de référence:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
-
-**Prompt**
-
-```text
-LA TÂCHE
-Créez dans Blender un décor de champ de bataille romain à l’heure dorée à partir de l’image de concept fournie. La génération est autorisée. Vous pouvez générer les modèles 3D de l’environnement et de ses éléments avec les outils de génération disponibles (Tripo sur https://t.co/JV0K8OtuWC)), puis les assembler. L’ensemble doit néanmoins former une scène cohérente : échelle homogène, matériaux cohérents et éclairage unifié. Exigences : utilisez des cartes de relief sur le sol et conservez un niveau de détail élevé.
-Créez une zone circulaire dégagée au sol, entourée de gros rochers pour former une arène 1 contre 1.
-Réalisez l’ensemble de manière réaliste.
-Créez des assets de manière procédurale lorsque c’est possible.
-Créez un skybox pour le ciel à l’heure dorée.
-Utilisez des ombres marquées.
-Réutilisez les objets (drapeaux, bannières, casques, rochers, etc.). Exportez un GLB pour chaque objet et réutilisez ces assets.
-Faites correspondre l’image fournie aussi fidèlement et précisément que possible.
-EXIGENCE DE VIDÉO ACCÉLÉRÉE
-Pendant la création, enregistrez une capture d’écran de la vue 3D dans un dossier timelapse/ numéroté après chaque ajout significatif (chaque nouvel objet, passe de modificateur, étape de création de matériau et étape d’éclairage, dans l’ordre). Une fois le travail terminé, assemblez ces images en une vidéo accélérée à 2 images par seconde (0,5 s par image), afin que l’intégralité de la construction puisse être visionnée du début à la fin. Livrez la vidéo accélérée avec les fichiers principaux.
-DELIVERABLES
-Le fichier .blend, avec la caméra et la vue 3D configurées pour correspondre exactement à l’image d’origine.
-La vidéo accélérée de la construction.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-THE TASK
-Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
-Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
-Render everything realistically.
-Create assets procedurally where possible.
-Create a skybox for golden-hour sky.
-Use harsh shadows.
-Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
-Match the supplied image as closely and accurately as possible.
-TIMELAPSE REQUIREMENT
-While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
-DELIVERABLES
-The .blend file, with camera and viewport set so the view exactly matches the original image.
-The build timelapse video.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103351755971207251) · [Publication originale](https://x.com/tonysurix/status/2103352274269675532) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103308083242082314"></a>
-
-### STILLWATER — Expérience de marais au clair de lune dans le navigateur
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · Scènes
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — Expérience de marais au clair de lune dans le navigateur"></a>
-
-**Prompt**
-
-```text
-Créez une expérience dans le navigateur avec Three.js, appelée STILLWATER. Ton : un marais au clair de lune dans lequel on se perd. Ce n’est pas un jeu avec des ennemis. Ce n’est pas du photoréalisme façon Unreal. C’est un monde web calme et luxueux, où les reflets de l’eau sont au cœur de l’expérience. Les utilisateurs doivent pouvoir rester à contempler l’eau pendant un temps presque déraisonnable.  DÉCOR — Nom du lieu : THE DEEP SWAMP — Heure affichée sur le HUD : 19:26 — Premier lieu nommé : Heron bend — Accroche sous le nom du lieu : "Leave a little room for the wild." — Notification de découverte à l’arrivée : "Discovered: Heron bend"  MONDE Un marais de cyprès inondé, au lever de la lune, à la tombée du jour. — De grands arbres aux contreforts noueux, dressés dans une eau noir-vert — De longues touffes de mousse espagnole suspendues aux branches — Des nénuphars regroupés le long des berges — Un chenal étroit et sinueux qui débouche sur un coude plus large — Un épais brouillard volumétrique, une profondeur aux teintes bleu sarcelle et vert, un ciel nuageux rose violacé — Une lune éclatante, avec un long chemin de reflets fragmentés à la surface de l’eau — Quelques oiseaux traversant le ciel — La lumière chaude de la cabine du bateau perçant la pénombre  EAU (ne lésinez surtout pas) C’est l’élément vedette. — Reflets en temps réel des arbres, de la lune, du brouillard et des lumières du bateau — Une houle légère, pas des vagues océaniques — Des nénuphars posés à la surface et ondulant doucement — Écume sur les berges / eau sombre chargée en tanins près des racines — Des reflets en espace écran ou planaires suffisamment convaincants pour donner au chemin de lune un rendu cinématographique — Maintenez 60 images par seconde. Utilisez des niveaux de détail variables pour les arbres et du feuillage instancié.  BATEAU Une petite barque-cabine de travail, usée par le temps. — Numéro de coque 86 à la poupe — Cabine blanche, coque bleu foncé, lampes intérieures chaudes — Dérive au ralenti dans le chenal, avec visite guidée lente en option — Vitesse affichée sur le HUD : environ 15.9 KNOTS — Libellé du mode : GUIDED DRIFT Le joueur peut regarder autour de lui. Le bateau peut être suivi avec une caméra de poursuite cinématographique ou en orbite latérale.  CAMÉRA — Commencez sur un plan en trois quarts du bateau, entre les arbres — Dérivez derrière la poupe le long de l’allée éclairée par la lune — Effectuez parfois un déplacement latéral pour passer devant un tronc au premier plan — Glisser pour regarder — PHOTO MODE en option L’ensemble doit évoquer un documentaire animalier, pas un FPS.  INTERFACE — éditoriale, pas ludique En haut à gauche : petit symbole + STILLWATER En haut au centre : THE DEEP SWAMP / 19:26, un cap au compas (par ex. 314°) En haut à droite : icônes utilitaires discrètes En bas à gauche :   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT En bas à droite : PHOTO MODE, fps, Pause En bas au centre : petite notification "Discovered: Heron bend" Ligne d’aide discrète : shaders / eau / glisser pour regarder / photos / faune  Direction artistique : étalonnage filmique sombre, verts désaturés, nuages magenta, un seul reflet lunaire éclatant. Privilégiez le goût au réalisme. Pas de GUI de debug envahissante.  TECHNIQUE Three.js dans le navigateur. Nature procédurale et instanciée. Shader d’eau personnalisé. Brouillard. Ombres douces ou éclairage de crépuscule évoquant un éclairage précalculé. Évitez les packs de marais de marketplace si vous pouvez créer les éléments vous-même.  N’AJOUTEZ PAS de combats, d’inventaire, de jumpscares ni de chasse au trésor. Quelque chose pourra rôder sous l’eau plus tard — mais pas maintenant.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103308083242082314) · [Publication originale](https://x.com/YouWareAI/status/2103310302993621090) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103303303358534021"></a>
-
-### Séquence interactive en 3D d’un lancement de fusée depuis l’océan
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Séquence interactive en 3D d’un lancement de fusée depuis l’océan"></a>
-
-**Prompt**
-
-```text
-Créez un lancement de fusée en 3D cinématographique, très détaillé et interactif, depuis une plateforme océanique à l’aube. Livrez le projet complet dans un seul fichier HTML qui s’ouvre directement dans Chrome. Utilisez Three.js + WebGL et des assets procéduraux. Intégrez les assets lorsque c’est possible ; un CDN fiable peut être utilisé pour la bibliothèque de rendu.
-
-DIRECTION ARTISTIQUE
-Créez une transition spectaculaire entre un océan sombre aux teintes bleu-violet avant le lever du soleil et une lumière chaude au-dessus de l’atmosphère. Utilisez des proportions convaincantes, des matériaux détaillés, une profondeur atmosphérique et des angles de caméra soigneusement composés. Le résultat doit évoquer un film miniature de vol spatial réalisé avec soin.
-FUSÉE ET PLATEFORME DE LANCEMENT
-Construisez une fusée convaincante à plusieurs étages, avec un cône de nez profilé, des joints de panneaux, des anneaux structurels, des connexions interétages, des tuyères de moteurs et une coiffe de charge utile qui se sépare en deux moitiés.
-
-Créez une plateforme de lancement flottante détaillée, avec une tour de soutien, une structure de soutien escamotable, des bras de service, des garde-corps, des échelles, des tuyaux, des équipements, des projecteurs et des balises d’avertissement clignotantes. Toutes les structures doivent être physiquement reliées et correctement positionnées.
-SÉQUENCE DE LANCEMENT
-Créez une séquence d’environ 46 secondes :
-
-Mouvement de caméra d’introduction autour de la plateforme.
-
-Les bras de service et la structure de soutien se rétractent.
-Les moteurs s’allument et éclairent la fusée, la plateforme et l’eau alentour.
-La fumée se répand sur le pont tandis que la fusée décolle et accélère.
-La caméra suit l’ascension depuis l’atmosphère vers l’espace.
-Le premier étage se sépare et s’éloigne en chutant.
-Le moteur du deuxième étage s’allume.
-Les deux moitiés de la coiffe se séparent et révèlent un satellite.
-Le moteur s’arrête, le satellite est déployé et ses panneaux solaires se déplient.
-Terminez par une vue orbitale du satellite devant l’horizon courbe de la Terre et le lever du soleil.
-Compressez la chronologie du vol pour la présentation tout en conservant des mouvements cohérents. Évitez les changements soudains de position, les intersections entre composants et les effets déconnectés.
-OCÉAN, ATMOSPHÈRE ET EFFETS
-Utilisez des vagues océaniques animées pilotées par des shaders, avec des réflexions de Fresnel et les reflets chauds de la lumière des moteurs. Créez un échappement en plusieurs couches, avec un cœur lumineux, une flamme extérieure plus douce et des particules de fumée dérivantes.
-La fumée doit se dilater, s’estomper et réagir au vent. L’échappement doit rester attaché au moteur approprié pendant la séparation des étages. Effectuez une transition progressive entre la brume atmosphérique, un champ d’étoiles sombre et le limbe éclairé de la Terre.
-
-CAMÉRA ET INTERACTION
-Utilisez des transitions de caméra cinématographiques et fluides : vue d’introduction en plan large, plan en contre-plongée au moment de l’allumage, suivi de l’ascension, séparation des étages et gros plan du satellite. Gardez le sujet principal visible en orientation portrait comme en paysage.
-
-Ajoutez des commandes de lecture/pause et de relecture, ainsi qu’une barre de scrubbing avec des marqueurs d’événements. Lors d’un déplacement dans la séquence, la configuration correcte de la fusée, l’état des particules, la position de la caméra et l’éclairage doivent être reconstruits. La relecture doit réinitialiser proprement l’intégralité de la séquence.
-Gardez une interface minimaliste et discrète. Permettez de la masquer pour les enregistrements.
-
-QUALITÉ TECHNIQUE
-Utilisez une animation indépendante de la fréquence d’images et des systèmes de particules efficaces. Réutilisez la géométrie et les matériaux lorsque c’est pertinent, gérez correctement le redimensionnement et trouvez le bon équilibre entre richesse visuelle et fluidité.
-
-Testez le fichier HTML final dans un navigateur de bureau. Inspectez la console et capturez des captures d’écran au moment de l’allumage, du décollage, de la séparation des étages et du déploiement du satellite. Corrigez les erreurs de chargement, les écrêtages, les problèmes de géométrie, les dysfonctionnements du scrubbing et le cadrage médiocre avant de livrer le fichier.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
-
-ART DIRECTION
-Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
-ROCKET AND LAUNCH PLATFORM
-Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
-
-Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
-LAUNCH SEQUENCE
-Create an approximately 46-second sequence:
-
-Establishing camera move around the platform.
-
-Service arms and strongback retract.
-Engines ignite, illuminating the rocket, platform, and nearby water.
-Smoke spreads across the deck as the rocket lifts off and accelerates.
-The camera follows the climb from the atmosphere toward space.
-The first stage separates and falls away.
-The second-stage engine ignites.
-The fairing halves separate, revealing a satellite.
-The engine shuts down, the satellite deploys, and its solar panels unfold.
-Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
-Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
-OCEAN, ATMOSPHERE, AND EFFECTS
-Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
-Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
-
-CAMERA AND INTERACTION
-Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
-
-Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
-Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
-
-TECHNICAL QUALITY
-Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
-
-Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103303303358534021) · [Publication originale](https://x.com/Artless101/status/2103303449831964679) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103257687492374597"></a>
-
-### Royaume médiéval interactif pour Claude Opus 5.5
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Royaume médiéval interactif pour Claude Opus 5.5"></a>
-
-**Prompt**
-
-```text
-Créez votre propre royaume médiéval.
-Votre royaume représente Claude Opus 5.5. Concevez un château magnifique, inspiré de l’histoire, qui exprime l’identité de ce modèle par son architecture, son héraldique, ses couleurs et son atmosphère. Vous disposez d’une liberté artistique totale, dans le cadre d’un environnement médiéval crédible.
-Ne vous contentez pas d’apposer un logo sur un château générique. Donnez à votre royaume un caractère architectural distinctif et une identité visuelle cohérente. Inventez ses armoiries, ses couleurs royales et un emblème héraldique original. Affichez-les sur des bannières animées, des boucliers, les décorations de la porte et les vêtements des gardes du château. Placez le nom du royaume au-dessus de l’entrée principale.
-Créez une scène 3D interactive et richement détaillée avec Three.js et WebGL. Livrez l’ensemble dans un seul fichier HTML autonome qui s’ouvre directement dans Chrome.
-LE CHÂTEAU
-Construisez une forteresse convaincante avec un donjon central, des tours, des créneaux, des courtines, une imposante barbacane, un pont-levis fonctionnel et une cour.
-Intégrez une maçonnerie soigneusement modélisée, des fenêtres cintrées, des portes en bois, des structures de toiture, des escaliers, des balcons, des ferrures et de nombreux petits détails architecturaux. Rendez les structures crédibles : les tours doivent avoir un intérieur ou une profondeur convaincante, les escaliers doivent relier des niveaux accessibles et les ponts doivent reposer sur des supports appropriés.
-Entourez le château d’un paysage attrayant, adapté à votre royaume : falaises, collines, rivière, douves, forêts ou petit village. Concevez une composition forte, belle sous plusieurs angles de vue.
-VIE ET INTERACTIONS
-Donnez vie au royaume avec des gardes patrouillant sur les remparts, des villageois circulant dans la cour, des bannières ondulant doucement, de la fumée s’échappant des cheminées, des oiseaux et des lanternes vacillantes.
-Permettez à l’utilisateur de :
-Ouvrir et fermer le pont-levis et la porte principale.
-Suivre un garde pendant sa patrouille.
-Basculer entre une vue d’ensemble cinématographique, la cour et les remparts.
-Pivoter et zoomer librement.
-Passer du jour au coucher du soleil, puis à la nuit.
-Maintenez les personnages sur des surfaces praticables. Empêchez-les de traverser les murs, les portes ou les uns les autres.
-ÉCLAIRAGE ET ATMOSPHÈRE
-Créez un éclairage cinématographique qui révèle clairement l’architecture. Utilisez des ombres douces, une profondeur atmosphérique, une eau convaincante lorsque cela est pertinent et un post-traitement mesuré.
-La nuit, éclairez les fenêtres, les torches et les lanternes tout en conservant une visibilité suffisante pour apprécier le château.
-Visez une œuvre 3D sophistiquée et aboutie, à l’architecture distinctive et aux détails abondants. Évitez l’accumulation de formes primitives évidentes ou de tours répétitives sans fonction architecturale.
-QUALITÉ TECHNIQUE
-Générez les ressources de manière procédurale chaque fois que cela est possible. Intégrez les textures et autres ressources dans le fichier HTML. Aucun serveur local ni étape de build ne doit être nécessaire.
-Utilisez l’instanciation et le regroupement de géométries lorsque cela est pertinent. Assurez la fluidité des animations et des interactions avec la caméra. Fournissez une interface minimale et élégante en anglais, ainsi qu’un bouton pour la masquer.
-Testez réellement le résultat dans Chrome sur ordinateur. Capturez des captures d’écran, inspectez la console, testez chaque interaction et corrigez les erreurs de rendu, les objets flottants, les intersections de géométrie et les problèmes de caméra.
-Faites-en un château que l’on reconnaît comme étant celui de VOTRE royaume avant même d’en lire le nom.
-Retournez le fichier HTML autonome terminé.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build your own medieval kingdom.
-Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
-Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
-Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
-THE CASTLE
-Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
-Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
-Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
-LIFE AND INTERACTION
-Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
-Let the viewer:
-Open and close the drawbridge and main gate.
-Follow a guard on patrol.
-Switch between a cinematic overview, the courtyard and the battlements.
-Rotate and zoom freely.
-Change between daylight, sunset and night.
-Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
-LIGHTING AND ATMOSPHERE
-Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
-At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
-Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
-TECHNICAL QUALITY
-Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
-Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
-Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
-Make this a castle people would recognize as YOUR kingdom, even before reading its name.
-Return the completed standalone HTML file.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103257687492374597) · [Publication originale](https://x.com/vib3coded/status/2103257873203462412) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103211135214256350"></a>
-
-### Expérience Three.js automnale et brumeuse à explorer
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="Expérience Three.js automnale et brumeuse à explorer"></a>
-
-**Prompt**
-
-```text
-Je veux que vous créiez une expérience Three.js à explorer, dans un unique fichier HTML/CSS/JS, avec une atmosphère brumeuse, pluvieuse et automnale, à la fois mystérieuse et nostalgique.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103211135214256350) · [Publication originale](https://x.com/SimonasLTU1/status/2103211135214256350) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103187935759655167"></a>
-
-### Cap au nord : voyage interactif en drakkar viking
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Interactif
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="Cap au nord : voyage interactif en drakkar viking"></a>
-
-**Prompt**
-
-```text
-Créez « Northbound », un magnifique voyage interactif en 3D à travers un fjord nordique, à bord d’un drakkar viking détaillé.
-
-Construisez une véritable scène en temps réel avec Three.js et WebGL, livrée sous la forme d’un fichier HTML autonome unique. Il doit s’agir d’une expérience de navigation explorable dans un navigateur, et non d’une vidéo pré-rendue ou d’une illustration plate.
-
-DIRECTION VISUELLE
-
-Visez un environnement soigné et cinématographique, avec des matériaux réalistes, des proportions naturelles et des couleurs sobres. Évitez tout rendu cartoon ou low-poly.
-
-Un drakkar en bois avance sur une eau d’un vert-bleu profond, entre de hautes falaises, des forêts denses, des cascades et de petits villages nordiques. Utilisez une perspective atmosphérique, une brume légère, des ombres douces et une profondeur convaincante. Composez de beaux points de vue tout au long du voyage, et pas uniquement depuis la position initiale de la caméra.
-
-LE DRAKKAR
-
-Construisez une coque détaillée et étanche, composée de planches de bois qui se chevauchent, avec un veinage visible, des membrures, des bancs et un intérieur continu.
-Ajoutez une proue sculptée en forme de dragon, une voile en tissu rayé, un mât, des cordages, des boucliers, des provisions et des lanternes diffusant une lumière chaleureuse.
-Intégrez des passagers et des rameurs vikings aux proportions cohérentes, vêtus de plusieurs couches, installés dans des positions assises crédibles, les mains placées près de leurs rames.
-Tous les éléments doivent rester physiquement connectés. Aucun passager flottant, aucun accessoire qui s’interpénètre et aucun vide visible à travers la coque.
-Animez subtilement la flottabilité, le tangage et le roulis. La voile doit réagir doucement au vent.
-
-EAU ET RAMES
-
-Faites de l’eau un élément visuel central.
-
-Utilisez un shader personnalisé avec des réflexions planaires, de la réfraction, des reflets de Fresnel, une absorption dépendante de la profondeur, des zones peu profondes visibles et des ondulations de surface superposées. Les réflexions doivent réagir correctement aux mouvements de la caméra et aux variations de l’éclairage.
-
-Créez un sillage crédible derrière le navire.
-
-Animez un cycle complet de rame : les pales entrent dans l’eau, tirent vers l’arrière, sortent de l’eau, puis reviennent au-dessus de la surface. Synchronisez ce mouvement avec celui des rameurs.
-
-Générez des ondulations, de l’écume et de petites gouttelettes aux véritables points de contact entre les pales et l’eau. Les traînées doivent rester dans l’espace monde et se dissiper progressivement. Évitez que les effets apparaissent lorsque les pales sont dans les airs.
-
-ENVIRONNEMENT ET MATÉRIAUX
-
-Utilisez un terrain détaillé, des formations rocheuses irrégulières, des silhouettes d’arbres naturelles, des troncs ramifiés et des groupes distincts de feuilles ou d’aiguilles.
-
-Utilisez des matériaux PBR avec des maps de normales et de rugosité pour le bois, la pierre et le sol. Vous pouvez intégrer des textures sous licence appropriée ; ajoutez les attributions requises le cas échéant.
-
-Veillez à ce que le terrain sous-marin se prolonge sous la surface. Aucun raccord lumineux, aucun vide sur le rivage, aucune végétation flottante et aucun arbre ne doit bloquer la route navigable.
-
-CONTROLS
-
-A/D ou touches fléchées : piloter à gauche et à droite.
-W/S : ajuster la vitesse.
-Glisser avec la souris : regarder autour de soi.
-Proposez des modes de caméra suiveuse, orbitale et cinématique.
-Incluez un mode de voyage automatique facultatif.
-Ajoutez des commandes pour mettre en pause, réinitialiser, passer en plein écran et masquer l’interface.
-Prenez en charge le pilotage tactile et le contrôle de la vitesse sur mobile.
-Empêchez le navire de traverser les terres et les rochers.
-
-ATMOSPHÈRE ET INTERFACE
-
-Proposez trois préréglages d’éclairage avec transition fluide : Matin, Ciel couvert et Clair de lune.
-
-Ajoutez en option des sons d’ambiance de l’eau, du vent, des oiseaux et des rames. L’audio ne doit démarrer qu’après une interaction de l’utilisateur.
-
-Concevez une interface éditoriale minimaliste : « Northbound. » dans une élégante police à empattements, des intitulés de chapitres discrets et une barre de commandes compacte et translucide. Laissez le paysage dégagé.
-
-PERFORMANCES ET LIVRAISON
-
-Utilisez l’instanciation, des budgets de géométrie raisonnables, un niveau de détail dépendant de la distance et des cibles de réflexion de taille adaptée. Adaptez la qualité du rendu à l’appareil au lieu de promettre une fréquence d’images fixe.
-
-Livrez un seul fichier HTML contenant les scripts et les ressources nécessaires afin de pouvoir l’ouvrir directement dans un navigateur moderne.
-
-Testez le pilotage, les modes de caméra, les transitions d’éclairage et les mouvements de rame. Inspectez le navire sous plusieurs angles et vérifiez le rivage depuis des points de vue bas. Corrigez les intersections de géométrie, les artefacts de réflexion, les reflets excessifs et les erreurs de console avant de considérer la scène comme terminée.
-
-Privilégiez une eau convaincante, un drakkar magnifiquement construit et un environnement cohérent plutôt que l’ajout de nouveaux objets.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
-
-Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
-
-VISUAL DIRECTION
-
-Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
-
-A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
-
-THE LONGSHIP
-
-Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
-Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
-Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
-Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
-Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
-
-WATER AND ROWING
-
-Make the water a central visual feature.
-
-Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
-
-Create a believable wake behind the ship.
-
-Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
-
-Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
-
-ENVIRONMENT AND MATERIALS
-
-Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
-
-Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
-
-Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
-
-CONTROLS
-
-A/D or arrow keys: steer left and right.
-W/S: adjust speed.
-Mouse drag: look around.
-Provide follow, orbit, and cinematic camera modes.
-Include an optional automatic journey mode.
-Add pause, reset, fullscreen, and hide-interface controls.
-Support touch steering and speed controls on mobile.
-Prevent the ship from passing through land and rocks.
-
-ATMOSPHERE AND INTERFACE
-
-Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
-
-Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
-
-Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
-
-PERFORMANCE AND DELIVERY
-
-Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
-
-Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
-
-Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
-
-Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/gpt-6-astra-2103187935759655167) · [Publication originale](https://x.com/vib3coded/status/2103189762672611675) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103145567945986461"></a>
-
-### Espace : court métrage d’une cathédrale baignée de lumière de vitrail
-
-[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Espace : court métrage d’une cathédrale baignée de lumière de vitrail"></a>
-
-**Prompt**
-
-```text
-Créez avec three.js un court métrage au format vertical 1080×1920, à 30 images par seconde, d’environ 36 secondes. 
-
-【Nom de l’œuvre】
-Espace
-
-【Expérience recherchée】
-Cette vidéo doit faire ressentir, sans jamais montrer de personnage, la sensation de perdre du temps à force de courir après l’efficacité, puis celle de voir sa vie se remplir d’une lumière foisonnante au moment où l’on retrouve de l’espace. À la fin, la lumière des vitraux qui se déploie sur tout le sol doit laisser le spectateur émerveillé, à couper le souffle.
-
-【Décor】
-・L’intérieur d’une cathédrale en pierre, faiblement éclairée. Sur le mur du fond se trouve une unique fenêtre en arc brisé, de 15 m de haut sur 10 m de large
-・Une lumière intense entre par l’extérieur selon un angle de 45 degrés et projette au sol la forme de la fenêtre
-・La fenêtre est garnie d’un vitrail représentant la Vierge au centre, deux anges aux ailes déployées de part et d’autre, et une rosace dans sa partie supérieure. Le motif doit être original, ne pas imiter une œuvre existante et adopter une composition symétrique
-
-【Déroulé temporel】
-De 0 à 3 secondes : la lumière entrant par la fenêtre est encore blanche et dépourvue de couleur. Une forme de lumière blanche et douce apparaît sur le sol
-De 3 à 11 secondes : des cubes gris gravés de mots comme « occupé », « optimisation », « urgent » et « échéance » arrivent les uns après les autres depuis l’avant de la pièce et remplissent la fenêtre. Leur cadence s’accélère de plus en plus ; à mesure que la fenêtre se bouche, la pièce s’assombrit
-De 11 à 14 secondes : la fenêtre est complètement obstruée, plongée dans l’obscurité et le silence
-De 14 à 19 secondes : un seul bloc portant le mot « occupé » se détache de la fenêtre, tombe et disparaît en particules de lumière. Une traînée de lumière aux couleurs éclatantes entre par l’ouverture ainsi créée
-De 19 à 26 secondes : à partir de la première ouverture, les blocs se détachent en cascade. Chaque ouverture supplémentaire fait apparaître de nouvelles colonnes de lumière multicolore, tandis que le vitrail dissimulé se révèle peu à peu
-De 26 à 33 secondes : tous les blocs ont disparu. La caméra traverse les colonnes de lumière en s’élevant, puis observe le sol à la verticale. Le vitrail représentant la Vierge et les anges se projette sur toute la surface du sol sous forme de lumière aux couleurs éclatantes
-De 33 à 36 secondes : l’image entière est enveloppée d’une lumière éblouissante, les derniers mots apparaissent, puis la vidéo s’achève dans le calme
-
-【Texte (en police Mincho, apparaissant et disparaissant discrètement)】
-・« Chaque jour, toujours plus vite. »
-・« Toujours plus efficacement. »
-・« Sans m’en rendre compte, la lumière ne pouvait plus entrer. »
-・« Et si je lâchais une seule chose ? »
-・« La lumière entre par l’espace libéré. »
-・« Cette lumière était plus foisonnante qu’avant. »
-・En dernier, en grand : « La richesse naît dans l’espace libre »
-
-【Lumière et matières】
-・Les colonnes de lumière prennent la couleur de la partie correspondante du vitrail, tandis que la poussière en suspension scintille
-・La projection au sol doit refléter avec précision les ouvertures de la fenêtre (les zones occupées par des blocs restent dans l’ombre)
-・Les blocs sont d’un gris mat, froid et minéral. Les mots y sont gravés en blanc
-・La première partie est froide et désaturée ; la seconde adopte des rouges, des bleus et des ors semblables à des pierres précieuses. Ce contraste chromatique doit exprimer l’idée d’un enrichissement
-
-【Contraintes techniques】
-・Générez le motif du vitrail sous forme d’image, puis calculez la lumière au sol, les colonnes de lumière et l’affichage dans la fenêtre à partir de ce même motif afin de garantir leur parfaite cohérence
-・Faites progresser le temps avec précision par intervalles de 1/30 seconde et exportez chaque image séparément pour créer un fichier MP4
-
-【Finitions】
-Rendez effectivement chaque scène pour la vérifier, puis corrigez-la avant livraison : assurez-vous que le motif du vitrail se lit bien comme une Vierge et des anges sur le sol, que les mots sont lisibles et que les mouvements ne paraissent pas brusques.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
-
-【作品名】
-余白
-
-【見せたい体験】
-効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
-
-【舞台】
-・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
-・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
-・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
-
-【時間の構成】
-0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
-3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
-11〜14秒：窓は完全にふさがれ、闇と静寂
-14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
-19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
-26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
-33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
-
-【言葉（明朝体、控えめに浮かんでは消える）】
-・「毎日、もっと速く。」
-・「もっと、効率よく。」
-・「気づけば、光が入らなくなっていた。」
-・「ひとつ、手放してみる。」
-・「空いたところから、光が入る。」
-・「その光は、前より豊かだった。」
-・最後に大きく：「豊かさは余白に宿る」
-
-【光と質感】
-・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
-・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
-・ブロックは無機質なマットグレー。言葉は白く刻印されている
-・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
-
-【技術条件】
-・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
-・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
-
-【仕上げ】
-各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103145567945986461) · [Publication originale](https://x.com/AGIOyaZ/status/2103145567945986461) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103144530157687114"></a>
-
-### Jeu dans le style de Genshin Impact, situé à San Francisco
-
-[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Jeu dans le style de Genshin Impact, situé à San Francisco"></a>
-
-**Prompt**
-
-```text
-Créez un jeu dans le style de Genshin Impact, situé à San Francisco.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build a Genshin Impact–style game set in San Francisco.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103144530157687114) · [Publication originale](https://x.com/every/status/2103144530157687114) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103116235009347650"></a>
-
-### Film cinématographique sur la bataille d’Austerlitz
-
-[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Film cinématographique sur la bataille d’Austerlitz"></a>
-
-**Images de référence:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
-
-**Prompt**
-
-```text
-Créez une vidéo cinématographique de 4 à 5 minutes sur la bataille d’Austerlitz (1805), entièrement réalisée par du code.
-
-Étudiez la bataille en profondeur et décidez vous-même comment raconter l’histoire, structurer le rythme, expliquer la stratégie et visualiser les événements. Je veux un résultat historiquement fidèle, dramatique, facile à comprendre et visuellement exceptionnel.
-
-Utilisez les peintures jointes comme source d’inspiration visuelle, et non comme une exigence stylistique stricte. J’aime leur ampleur, leur atmosphère, la fumée, les ciels dramatiques, la cavalerie, les formations massives, le paysage et leur impression de chaos. Trouvez un moyen de transposer cette sensation dans du code — mais si vous pouvez inventer un langage visuel plus fort, faites-le.
-
-Évitez un rendu qui évoquerait une infographie générique ou un jeu de stratégie. Le film doit ressembler à un film historique cinématographique, simplement rendu par du code.
-
-Vous disposez d’une liberté créative totale. Surprenez-moi.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
-
-Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
-
-Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
-
-Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
-
-You have complete creative control. Surprise me.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103116235009347650) · [Publication originale](https://x.com/WinterArc2125/status/2103116689944502720) · [Code source](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103106070549757960"></a>
-
-### Construire la tour Eiffel avec Three.js
-
-[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Ressources
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Construire la tour Eiffel avec Three.js"></a>
-
-**Prompt**
-
-```text
-construire la tour Eiffel avec Three.js.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build the Eiffel Tower in Three.js.
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103106070549757960) · [Publication originale](https://x.com/0xPascual/status/2103106070549757960) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — Artillerie insulaire en 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Jeux
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — Artillerie insulaire en 3D"></a>
-
-**Prompt**
-
-```text
-1. Objectif du projet
-Construire Crazy Tanks — Wild Tides, un jeu d’artillerie au tour par tour jouable et véritablement en trois dimensions, situé sur une île tropicale. Le joueur dirige un petit tank, lit la direction du vent, règle une charge à partir de zéro et transforme le champ de bataille à coups d’obus. Prévoir un mode solo contre l’IA et un mode local en pass-and-play, avec par défaut un chacun pour soi à trois tanks et, en option, un duel à deux tanks. Le dernier tank encore en vie gagne. Utiliser le gameplay et les captures d’écran de référence actuels comme cible visuelle.
-
-2. Style visuel
-Utiliser une caméra en perspective et une géométrie 3D librement orbitale, sans sprites plats ni vue latérale fixe. Créer un diorama miniature ensoleillé, avec des tanks arrondis vert jade, orange corail et bleu violet, du sable crème, de l’herbe vert pâle, une eau turquoise réfléchissante, des ombres douces et une légère brume atmosphérique au loin. Préserver les silhouettes distinctes des trois tanks ainsi que leurs canons assortis. Placer au-dessus du champ de bataille un panneau rond crème de type blindage, et en dessous un pupitre de commande arrondi bleu sarcelle foncé. L’or indique la puissance de référence et l’action de tir ; le menthe indique la charge réelle et le statut allié. Garder le sélecteur d’apparence Tripo / Three.js bien visible en haut, avec les ressources Tripo sélectionnées par défaut. Le changement d’apparence doit préserver l’état de la partie et celui de la physique. Utiliser des tirets bleu sarcelle fins et régulièrement espacés dans l’espace écran, ainsi qu’un cercle d’atterrissage discret ; ne pas refléter les éléments de visée dans l’eau.
-
-3. Monde et scène
-Utiliser une île en height field destructible d’environ 260 × 184 mètres, entourée par un océan à niveau constant. Placer les tanks au départ à bonne distance les uns des autres, sur un sol stable ; répartir des rochers, des palmiers, des cactus et des caisses de ravitaillement à récupérer. De petites îles décoratives donnent de la profondeur à l’arrière-plan et ne doivent jamais remplacer le terrain principal destructible. Les explosions déforment la surface et peuvent creuser sous le niveau de la mer. Garder la couleur du rivage et l’écume sur une seule surface d’eau afin d’éviter le chevauchement des plans et le scintillement. Projeter les numéros des tanks depuis leurs positions dans le monde à chaque frame rendu. Proposer des vues de la trajectoire complète, du tank, en orbite et tactique aérienne. La vue de trajectoire doit faire tenir le tank tireur, l’arc et le point d’atterrissage estimé dans l’espace entre le HUD et le pupitre de commande. Avant chaque tir, afficher le tank tireur pendant environ 0,8 seconde, rester un instant sur la bouche du canon, puis suivre le projectile. Toute interaction manuelle avec la caméra annule le suivi cinématique.
-
-4. Inventaire des ressources
-Utiliser des emplacements de modèles stables et conserver des modèles de remplacement adressables individuellement :
-- jade-body : châssis chenillé arrondi vert, semblable à un bouclier ; châssis par défaut du joueur. jade-cannon : canon jade assorti, avec âme sombre et accents dorés, articulé indépendamment.
-- ember-body : châssis blindé orange corail pointu, au profil mécanique bas. ember-cannon : son canon orange assorti, plus long, avec bouche sombre.
-- bolt-body : châssis chenillé industriel bleu violet, avec blindage en plaques anguleuses. bolt-cannon : canon bleu épais assorti.
-- shell : projectile d’artillerie en laiton, à pointe effilée sombre et accent cyan. Le réutiliser avec une teinte et une échelle propres à chaque arme.
-- crate : caisse de ravitaillement blindée jaune, marquée de cyan et renforcée aux angles ; la récupérer rend 20 points de blindage, dans la limite de 100.
-- rock : amas de grès arrondi aux tons chauds ; le répéter à différentes échelles et utiliser un proxy de collision distinct.
-- palm : tronc courbé et palmes vertes superposées ; le répéter comme végétation de l’île.
-- cactus : cactus vert compact avec de petits détails floraux ; le répéter sur les terrains secs.
-- islet : îlot d’arrière-plan arrondi et herbeux, bordé de roches et de sable pâles ; le répéter au-delà de l’arène.
-Donner la priorité aux trois paires châssis/canon assorties, puis au projectile, à la caisse et aux éléments de décor. Garder la déformation du terrain, l’océan, l’écume, le feu, la fumée, les ondes de choc, les débris, les éléments de visée, l’éclairage, l’interface et les proxies de collision procéduraux. Les pièces assorties du châssis et du canon partagent une même référence de conception et une même échelle. Placer le pivot du canon sur son articulation mécanique, aligner son axe avant sur +X et utiliser la bouche visible comme point de lancement physique. Les châssis des tanks épousent les pentes à l’aide de quaternions ; la visée de la tourelle reste une direction dans l’espace monde. Préserver les textures PBR sources et les coutures UV. Conserver séparément les modèles téléchargeables en pleine résolution et les copies optimisées pour l’exécution du jeu ; les références et la provenance des fichiers doivent identifier la véritable source de génération.
-
-5. Gameplay et feedback
-Chaque tank en vie dispose de 18 mètres de déplacement au début de son tour. WASD et le pavé de déplacement déplacent le tank par rapport à l’écran ; les touches fléchées et le pavé de visée règlent l’azimut et l’élévation. Des curseurs permettent de régler l’azimut, une élévation de 10 à 80 degrés et une puissance de référence de 0 à 100. Sélectionner un adversaire ne fait que tourner le tank vers lui ; cela ne doit pas calculer le tir.
-L’arc bleu sarcelle estime la puissance de référence choisie, SANS vent. Conserver cette référence et son marqueur doré fixes pendant la charge. Maintenir le bouton Fire, la barre d’espace ou la touche Entrée lorsque le bouton Fire est sélectionné pour lancer la puissance réelle à 0 à chaque fois ; l’augmenter de 18 points de pourcentage par seconde, la maintenir à 100 et tirer exactement une fois au relâchement, avec la puissance réelle à cet instant. Une pression rapide déclenche un tir faible. La bande dorée située dans une marge de 3 points de pourcentage n’est qu’un retour visuel, sans aimantage ni correction cachée. Annuler en cas d’annulation du pointeur, de perte de focus de la fenêtre ou de perte de visibilité. Verrouiller les déplacements, la cible et les changements de visée pendant la charge. Les commandes clavier des champs de type range ne doivent pas faire pivoter la tourelle elles aussi. Une puissance nulle représente la vitesse de lancement la plus faible, et non un obus immobile.
-La flèche et les traînées de vent visibles en mouvement indiquent la direction dans laquelle le vent pousse l’obus. Indiquer la force du vent et sa vitesse en mètres par seconde ; un clic sur la carte du vent doit l’expliquer. Un vent soufflant vers la gauche signifie que le joueur doit viser légèrement vers la droite. Un vent plus fort et un temps de vol plus long entraînent une dérive plus importante. Le vent reste constant pendant un tir et change à chaque tour. Ne jamais compenser automatiquement la prévisualisation du joueur. Prédire approximativement l’atterrissage sur le terrain ; ne pas garantir dans la prévisualisation les collisions avec les tanks ou les rochers, la séparation des grappes ni les ricochets.
-Proposer six types de munitions : HE illimitée ; un obus à sous-munitions qui se divise en cinq projectiles descendants ; Seismic, avec un cratère allant jusqu’à 28 mètres de diamètre et 13 mètres de profondeur ; un obus ricochetant deux fois ; un obus Cataclysm par tank, avec un cratère allant jusqu’à 46 mètres de diamètre et 22 mètres de profondeur ; et Incendiary, qui laisse une zone de feu de 12 mètres de rayon. Le feu inflige 8 points de dégâts à chacune des six fins d’action ; sortir de la zone évite les dégâts et les zones qui se chevauchent ne se cumulent pas. L’eau de mer éteint les flammes. Un tank entier, canon relevé compris, entièrement sous l’eau est immédiatement éliminé. Afficher les dégâts réels, la perte de blindage, l’effondrement du terrain, les éclaboussures et l’issue de l’élimination.
-Utiliser des boules de feu en couches, des anneaux d’onde de choc qui s’élargissent, des étincelles émissives, des fragments balistiques, de la poussière et de la fumée, avec un tremblement de caméra modéré. Utiliser la musique originale et les sons de canon, d’impact, de ricochet, de grosse explosion, de feu et d’éclaboussure fournis par ElevenLabs. Inclure un bouton pour couper le son, la pause/reprise, les instructions, la rejouabilité et le retour au menu. Pendant le vol d’un projectile ou les tours de l’IA, proposer Back to my turn : exécuter rapidement la même simulation à pas fixe et préserver tous les dégâts, l’état du terrain et les effets des dangers. Ne jamais ignorer le tour de saisie d’un ami en local.
-
-6. Implémentation technique
-Utiliser Three.js avec des modules ES et Vite, des polices locales intégrées, Web Audio pour les effets et un élément audio HTML pour la musique en boucle. Conserver les ressources sur la même origine et prendre en charge une build statique. Utiliser un moteur de rendu en perspective avec anticrénelage, des budgets raisonnables pour les ombres et le post-traitement, ainsi qu’une libération correcte des géométries et matériaux temporaires. Distinguer les éléments décoratifs des modèles et les collisions de gameplay.
-Garder une physique déterministe indépendante du rendu, avec des unités en mètres par seconde, une gravité de 9.81 m/s² et un pas fixe de 1/120 seconde. Utiliser des collisions continues par balayage pour les projectiles rapides contre le sol, l’eau, les tanks et les rochers ; appliquer les impulsions d’explosion et la gravité aux tanks déplacés. Déduire les positions de lancement à partir du transform réel du canon propre à chaque tank. La lecture normale et l’accélération doivent appeler les mêmes mises à jour de simulation. Les dégâts et la réaction au vent sont des règles de jeu stylisées, et non une simulation technique d’explosion.
-Prendre en charge les interfaces chinoise, anglaise, japonaise et coréenne. Choisir initialement la langue de l’appareil ; les appareils configurés pour Hong Kong, Macao, Taïwan et le chinois traditionnel doivent utiliser l’anglais par défaut. Mémoriser les choix explicites et permettre l’utilisation d’un sélecteur de langue visible. Prévoir des mises en page réactives pour ordinateur, téléphone en portrait et écran court en paysage, des menus défilants sur les petits écrans, des zones tactiles confortables, des panneaux réductibles et des contrôles sans chevauchement. Ne pas exiger de saisie au clavier sur les appareils tactiles. Écarter de la production les mutations d’état et les utilitaires de visée réservés au développement.
-
-7. Critères de validation
-Livrer un projet source autonome et modifiable, un fichier de verrouillage, les instructions npm de développement et de build, ainsi qu’une prévisualisation statique fonctionnelle. Reproduire les captures d’écran et la vidéo de gameplay actuelles, notamment le panneau d’état crème, le marqueur doré de référence fixe, la charge réelle démarrant à zéro et la présentation entièrement en 3D des tanks et de l’île. Vérifier le premier lancement, le chargement des modèles, un cycle de tour complet, le comportement de chaque munition, la pause, la rejouabilité et une véritable victoire ou défaite. Confirmer que le changement d’apparence préserve l’état et que l’annulation au clavier ou au toucher n’entraîne pas de tir. Lors d’un tir de test clair sans vent, un relâchement à la puissance de référence doit atterrir près du cercle de référence ; des vents latéraux opposés doivent décaler visiblement l’obus réel tout en laissant ce cercle inchangé. Vérifier le comportement à 30, 60 et 144 Hz, les collisions à grande vitesse, les cratères profonds, l’extinction du feu, l’élimination par immersion complète et l’égalité des résultats de tour en lecture normale et en accéléré. Examiner les mises en page pour ordinateur et petit écran dans les quatre langues ; distinguer l’émulation du navigateur des tests sur appareil physique. Valider la page hébergée et les médias associés, et pas uniquement la build locale.
-
-```
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/crazy-tanks-3d-island-artillery) · [Démo](https://super-tanks-aftershock.tripo.page/) · [Retour aux exemples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103087766662009118"></a>
-
-### Animation Three.js de niveau Pixar pour Grid Genius
-
-[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Animation Three.js de niveau Pixar pour Grid Genius"></a>
-
-**Prompt**
-
-```text
-Je veux que tu imagines une histoire qui fasse subtilement la promotion de Grid Genius. Elle peut aussi ne pas mentionner Grid Genius, mais doit s’inscrire dans l’univers de notre application et nous aider à gagner en visibilité lorsqu’elle sera publiée sur les réseaux sociaux. Ensuite, à l’aide de Three.js/JavaScript, je veux que tu crées une animation complète à partir de l’histoire que tu as imaginée, avec une qualité digne de Pixar.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
-```
-
-</details>
-
-[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2103087766662009118) · [Publication originale](https://x.com/Anilraok/status/2103087766662009118) · [Retour aux exemples](#all-prompts)
 
 ---
 

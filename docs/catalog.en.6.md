@@ -28,6 +28,18 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [Kaiju city battle](#kaiju-city-battle-2096251574918013135)
+- [Interactive Hyperloop demo](#interactive-hyperloop-demo-2096250748099068377)
+- [Scroll-driven 3D studio website](#scroll-driven-3d-studio-website-2096245759121277132)
+- [Komorebi river kayaking](#komorebi-river-kayaking-2096244208533455049)
+- [Refractive bottle product story](#refractive-bottle-product-story-2096243989439713677)
+- [Memory capsule machine](#memory-capsule-machine-2096241295949975602)
+- [Browser Flight Simulator with a Complete Flight Loop](#gpt-6-astra-2096236137266512181)
+- [Procedural Napoleon bust](#procedural-napoleon-bust-2096234355395903672)
+- [Railway station concourse](#railway-station-concourse-2096226711222546461)
+- [Orbital rendezvous simulator](#orbital-rendezvous-simulator-2096225621303042258)
+- [Animated onboarding diorama](#animated-onboarding-diorama-2096222790894661841)
+- [Exploded interactive human anatomy](#exploded-interactive-human-anatomy-2096221988763173186)
 - [A storm trapped in a cube](#a-storm-trapped-in-a-cube-2096220264413409648)
 - [Playable Roblox Kart Racer with Custom 3D Assets](#gpt-6-astra-2096219700879331665)
 - [Interactive Pelican Riding a Bicycle](#gpt-6-astra-2096213850383331489)
@@ -66,20 +78,328 @@
 - [Zork as a 3D action adventure](#zork-as-a-3d-action-adventure-2096047660662722620)
 - [Delivery network with bridge closures](#delivery-network-with-bridge-closures-2096042360513904742)
 - [Evolving WebGL ecosystem](#evolving-webgl-ecosystem-2096040448477515874)
-- [Explorable Taj Mahal](#explorable-taj-mahal-2096035962824335798)
-- [Personal 3D portfolio with a speaking globe](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [Gogh Strike multiplayer FPS](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [TP-7 recorder reference model](#tp-7-recorder-reference-model-2096013228090245181)
-- [Tesla Model X exploded view](#tesla-model-x-exploded-view-2096009146248122416)
-- [Bouncy WebGPU jelly](#bouncy-webgpu-jelly-2096008241104711698)
-- [Anime arena fighter in Roblox](#anime-arena-fighter-in-roblox-2095999578419929412)
-- [Linked floor plan and 3D walkthrough](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
-- [Interactive browser river scene](#interactive-browser-river-scene-2095993826569502785)
-- [Cathedral hack-and-slash arena](#cathedral-hack-and-slash-arena-2095988972879335792)
-- [Build a Unity City from an Existing Asset Pack](#gpt-6-astra-2095987508475834641)
-- [Interactive Titan science exhibit](#interactive-titan-science-exhibit-2095986941753712841)
 
 </details>
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### Kaiju city battle
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="Kaiju city battle"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a kaiju-inspired Three.js game using generated creature models and sound effects. Create readable giant-scale combat and an environment that communicates the size of the creatures.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/kaiju-city-battle-2096251574918013135) · [Original post](https://x.com/majidmanzarpour/status/2096251574918013135) · [Live demo](https://stormcolossus.netlify.app/) · [Back to examples](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### Interactive Hyperloop demo
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="Interactive Hyperloop demo"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build an interactive Three.js Hyperloop demonstration showing a transport pod, tube infrastructure and motion through the system.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [Original post](https://x.com/hbanay98/status/2096250748099068377) · [Back to examples](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### Scroll-driven 3D studio website
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="Scroll-driven 3D studio website"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Turn the supplied reference image into a Three.js scene within a smooth scroll-driven studio website. Coordinate camera motion, typography and section transitions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [Original post](https://x.com/mx_debbiee/status/2096245759121277132) · [Back to examples](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### Komorebi river kayaking
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi river kayaking"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a 3D river kayaking game with anime-inspired aesthetics. Let the player paddle left and right to avoid obstacles, with flowing water, scenery, music and sound effects generated in code.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [Original post](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [Back to examples](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### Refractive bottle product story
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="Refractive bottle product story"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build an interactive product website around a photorealistic WebGL glass bottle. Use refractive liquid, scroll-driven rotation and bold typography while maintaining browser performance.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [Original post](https://x.com/himanshubuildss/status/2096243989439713677) · [Back to examples](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### Memory capsule machine
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="Memory capsule machine"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a 3D memory capsule machine. Turn a knob to release a memory, model the mechanism in Blender and give the falling capsules believable motion and sound.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/memory-capsule-machine-2096241295949975602) · [Original post](https://x.com/gloria_zwq/status/2096241295949975602) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096236137266512181"></a>
+
+### Browser Flight Simulator with a Complete Flight Loop
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="Browser Flight Simulator with a Complete Flight Loop"></a>
+
+**Prompt**
+
+```text
+Build a polished, playable browser-based 3D flight simulator game from scratch.
+
+The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
+
+GAMEPLAY
+- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
+- Place a recognizable passenger airplane at the airport.
+- The player must be able to control the aircraft with the keyboard.
+- Implement throttle, pitch, roll, yaw and braking.
+- The aircraft must have basic believable flight physics, momentum and acceleration.
+- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
+- Add a simple objective: take off, complete a short flight around the airport and land safely.
+- Include crash/failure detection and a restart option.
+
+CONTROLS
+Display controls clearly:
+- W/S: Pitch
+- A/D: Roll
+- Q/E: Yaw
+- Shift/Ctrl: Throttle
+- Space: Brake
+
+CAMERA
+- Use a smooth third-person chase camera behind the aircraft.
+- Keep the aircraft clearly visible during flight.
+- Camera should smoothly follow movement and respond subtly to acceleration.
+
+HUD
+Create a polished aviation-style HUD showing:
+- Airspeed
+- Altitude
+- Heading
+- Throttle
+- Vertical speed
+- Flight status
+- Current objective
+
+Include a compact controls/help panel that can be hidden.
+
+START + RESULTS
+Create a start screen with:
+"FLIGHT SIMULATOR"
+and a prominent "START FLIGHT" button.
+
+After a successful landing, show:
+- Flight completed
+- Landing quality
+- Flight time
+- Final score
+- Play Again
+
+VISUAL QUALITY
+Make it feel like a real game:
+- Cohesive stylized 3D visuals
+- Detailed aircraft
+- Attractive airport environment
+- Good lighting, shadows and materials
+- Clouds/atmosphere
+- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
+- Avoid an empty or obviously unfinished scene
+
+FEEDBACK
+Add useful feedback for:
+- Throttle/engine state
+- Takeoff
+- Landing
+- Speed warnings
+- Altitude
+- Crashes
+- Successful landing
+
+TECHNICAL
+- Build the complete working game in the browser.
+- Do not leave placeholder buttons or fake interactions.
+- Prioritize responsive controls and smooth performance.
+- Use whatever appropriate web/3D technologies are available.
+
+IMPORTANT:
+Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
+
+START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
+
+Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2096236137266512181) · [Original post](https://x.com/adxtyahq/status/2096236137266512181) · [Back to examples](#all-prompts)
+
+---
+
+<a id="procedural-napoleon-bust-2096234355395903672"></a>
+
+### Procedural Napoleon bust
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="Procedural Napoleon bust"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Code a 3D bust of Napoleon in Three.js. Build it in stages, inspect it from different angles and refine facial proportions and clothing details.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [Original post](https://x.com/leploutos/status/2096234355395903672) · [Back to examples](#all-prompts)
+
+---
+
+<a id="railway-station-concourse-2096226711222546461"></a>
+
+### Railway station concourse
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="Railway station concourse"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Create a railway concourse with a strong architectural rhythm, believable scale and convincing materials. Produce an inspectable 3D scene with carefully framed station views.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/railway-station-concourse-2096226711222546461) · [Original post](https://x.com/0xWormhole404/status/2096226711222546461) · [Back to examples](#all-prompts)
+
+---
+
+<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
+
+### Orbital rendezvous simulator
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="Orbital rendezvous simulator"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a real-time orbital rendezvous simulation using two-body ECI propagation and HCW guidance. Include six-degree-of-freedom orientation, fuel use, force limits and a docking objective.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [Original post](https://x.com/AlicanKiraz0/status/2096225621303042258) · [Back to examples](#all-prompts)
+
+---
+
+<a id="animated-onboarding-diorama-2096222790894661841"></a>
+
+### Animated onboarding diorama
+
+[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="Animated onboarding diorama"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a small onboarding diorama in Blender and bring it to life in Three.js. Use clear focal objects and short animation sequences to explain the first user actions.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [Original post](https://x.com/EmilHovv/status/2096222790894661841) · [Back to examples](#all-prompts)
+
+---
+
+<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
+
+### Exploded interactive human anatomy
+
+[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="Exploded interactive human anatomy"></a>
+
+*Build brief based on the linked work*
+
+**Prompt**
+
+```text
+Build a 3D anatomy website where the human body separates into individually inspectable structures. Make the exploded view navigable and organize the parts into meaningful systems.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [Original post](https://x.com/ashebytes/status/2096221988763173186) · [Back to examples](#all-prompts)
+
+---
+
 <a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
 
 ### A storm trapped in a cube
@@ -855,245 +1175,7 @@ Build a 3D evolving ecosystem in one HTML file using raw WebGL and GLSL. Let mut
 
 ---
 
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### Explorable Taj Mahal
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Explorable Taj Mahal"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Recreate the Taj Mahal as an explorable 3D scene. Prioritize recognizable proportions, symmetric gardens, the central dome, minarets and the relationship between buildings.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Original post](https://x.com/vikassabbi/status/2096035962824335798) · [Back to examples](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### Personal 3D portfolio with a speaking globe
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Personal 3D portfolio with a speaking globe"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Turn a portrait into a Blender character inside an editorial WebGL portfolio. Add a revolving globe that maps speaking events and integrate the assets into the website.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Original post](https://x.com/HowDevelop/status/2096023793772998704) · [Back to examples](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### Gogh Strike multiplayer FPS
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike multiplayer FPS"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a Post-Impressionist 5v5 first-person shooter with Blender-rendered artist characters, readable teams and a complete multiplayer match in the browser.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Original post](https://x.com/petergostev/status/2096013280519016608) · [Source code](https://github.com/petergpt/gogh-strike) · [Live demo](https://gogh-strike.surge.sh/) · [Back to examples](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### TP-7 recorder reference model
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="TP-7 recorder reference model"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Recreate the Teenage Engineering TP-7 in Three.js from reference images. Match its shape and visible controls in an inspectable 3D model.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Original post](https://x.com/ty_kra_lab/status/2096013228090245181) · [Back to examples](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### Tesla Model X exploded view
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X exploded view"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a 3D website that pulls a Tesla Model X apart into modeled components. Let visitors inspect the assemblies and reassemble the vehicle interactively.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Original post](https://x.com/ashebytes/status/2096009146248122416) · [Back to examples](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### Bouncy WebGPU jelly
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Bouncy WebGPU jelly"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a delicious-looking bouncy jelly using Three.js and WebGPU. Make it deform and settle naturally after interaction, with translucent material and readable lighting.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Original post](https://x.com/scottstts/status/2096008241104711698) · [Back to examples](#all-prompts)
-
----
-
-<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
-
-### Anime arena fighter in Roblox
-
-[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Anime arena fighter in Roblox"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create a Roblox arena fighter inspired by anime crossover battles. Build the arena and characters with Blender and available assets, then implement a playable combat loop.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Original post](https://x.com/WoahWurdz/status/2095999578419929412) · [Back to examples](#all-prompts)
-
----
-
-<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
-
-### Linked floor plan and 3D walkthrough
-
-[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="Linked floor plan and 3D walkthrough"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a one-bedroom apartment walkthrough and a floor plan from the same dimensions. Synchronize the current position between views and clearly label assumed ceiling heights and finishes.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Original post](https://x.com/onofumi_AI/status/2095999282088378520) · [Back to examples](#all-prompts)
-
----
-
-<a id="interactive-browser-river-scene-2095993826569502785"></a>
-
-### Interactive browser river scene
-
-[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="Interactive browser river scene"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Create an interactive river scene that runs in the browser. Establish a working real-time water prototype, then inspect and refine the visual result.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Original post](https://x.com/dangreenheck/status/2095993826569502785) · [Back to examples](#all-prompts)
-
----
-
-<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
-
-### Cathedral hack-and-slash arena
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="Cathedral hack-and-slash arena"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build a third-person Three.js hack-and-slash game in a cathedral above a dead star. Include light sword combos, heavy attacks, area magic, dodging and grounded two-handed animation.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Original post](https://x.com/superalesha/status/2095988972879335792) · [Source code](https://github.com/alesha-pro/bench-portal) · [Live demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095987508475834641"></a>
-
-### Build a Unity City from an Existing Asset Pack
-
-[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="Build a Unity City from an Existing Asset Pack"></a>
-
-**Prompt**
-
-```text
-Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2095987508475834641) · [Original post](https://x.com/AndrewWalko/status/2095987508475834641) · [Back to examples](#all-prompts)
-
----
-
-<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
-
-### Interactive Titan science exhibit
-
-[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="Interactive Titan science exhibit"></a>
-
-*Build brief based on the linked work*
-
-**Prompt**
-
-```text
-Build an educational 3D simulation of Titan, Saturn’s largest moon, with an explorable environment and an information layer explaining its distinctive physical features.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Original post](https://x.com/ArdaTugsat/status/2095986941753712841) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.5.md) · **6 / 10** · [→](catalog.en.7.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 476 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 488 examples and live previews →</a></strong></p>

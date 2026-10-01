@@ -28,6 +28,18 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Tái tạo cảnh trong Isaac Sim](#gpt-6-astra-2105323534398763307)
+- [SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ](#claude-opus-5-5-2105315982525014067)
+- [Video hoạt hình 3D quả cầu rơi theo nhịp nhạc](#claude-opus-5-5-2105302007896797351)
+- [Tạo nhân vật Minion 3D trong Blender](#gpt-6-astra-2105298955307303100)
+- [Máy ép thạch](#claude-opus-5-5-2105285992865272110)
+- [Bản render Blender của cầu Golden Gate](#gpt-6-astra-2105278999861526953)
+- [Game roguelike ASCII theo lượt trong một tệp HTML](#claude-opus-5-5-2105246199653482872)
+- [Tạo thế giới Game of Thrones](#claude-opus-5-5-2105245648723562584)
+- [Cảnh phóng tên lửa chân thực như phim điện ảnh](#gpt-6-astra-2105047166733746209)
+- [Video động đất trong mô phỏng kiến tạo tương tác](#claude-opus-5-5-2105029713445949521)
+- [Mô hình F-22 Raptor chân thực và video bay trong Godot](#gpt-6-astra-2105027152617918852)
+- [Thời gian, được tháo rời.](#gpt-6-astra-2105009377002299711)
 - [Máy Rube Goldberg cơ khí trong Blender](#claude-opus-5-5-2104953406708175097)
 - [Xây dựng game đua xe phong cách Mario Kart bằng 3JS](#claude-opus-5-5-2104947552328261810)
 - [Hành tinh 3D hoạt hình tương tác](#claude-opus-5-5-2104919117262389255)
@@ -66,20 +78,864 @@
 - [Dựng mô hình 3D trang phục cho VRChat](#gpt-6-astra-2103456264785424530)
 - [Thạch Pitaya](#gpt-6-astra-2103432732386664591)
 - [Hoạt họa đồ họa chuyển động về vòng đời](#claude-opus-5-5-2103428454355980558)
-- [Bối cảnh chiến trường La Mã vào giờ vàng](#gpt-6-astra-2103351755971207251)
-- [STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt](#gpt-6-astra-2103308083242082314)
-- [Chuỗi phóng tên lửa 3D tương tác trên đại dương](#claude-opus-5-5-2103303303358534021)
-- [Vương quốc trung cổ tương tác cho Claude Opus 5.5](#claude-opus-5-5-2103257687492374597)
-- [Trải nghiệm Three.js mùa thu mù sương có thể khám phá](#gpt-6-astra-2103211135214256350)
-- [Hướng Bắc: Hành trình tương tác trên thuyền dài Viking](#gpt-6-astra-2103187935759655167)
-- [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](#claude-opus-5-5-2103145567945986461)
-- [Game phong cách Genshin Impact lấy bối cảnh San Francisco](#claude-opus-5-5-2103144530157687114)
-- [Phim điện ảnh về Trận Austerlitz](#claude-opus-5-5-2103116235009347650)
-- [Dựng tháp Eiffel bằng Three.js](#claude-opus-5-5-2103106070549757960)
-- [Crazy Tanks — Pháo binh đảo 3D](#crazy-tanks-3d-island-artillery)
-- [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](#claude-opus-5-5-2103087766662009118)
 
 </details>
+<a id="gpt-6-astra-2105323534398763307"></a>
+
+### Tái tạo cảnh trong Isaac Sim
+
+[Charles Wong](https://x.com/charleswongzx) · 2026-09-30 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105323534398763307"><img src="../assets/previews/3852636f5d615521a17f3a4aea8641f8f42815fd5d1bc9df57d028748fdec886.webp" width="840" loading="lazy" alt="Tái tạo cảnh trong Isaac Sim"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/da6263bd-ac07-41bb-93ad-a997394635c6.jpg) · [2](https://pbs.twimg.com/media/HTcFeb4aIAADxvZ.jpg)
+
+**Prompt**
+
+```text
+Tái tạo cảnh này trong Isaac Sim nhằm đánh giá chính sách thao tác. Không sử dụng Manifold.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Recreate this scene in Isaac Sim for the purposes of manipulation policy evaluation. Don't use Manifold.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105323534398763307) · [Bài đăng gốc](https://x.com/charleswongzx/status/2105323534398763307) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ"></a>
+
+**Prompt**
+
+```text
+TIÊU ĐỀ: "SPARK"
+
+Một cảnh hoạt hình 3D dài khoảng 15 giây, theo phong cách tranh vẽ của series Arcane (Fortiche).
+
+Thực hiện bằng Blender hoặc bất kỳ công cụ nào khác nếu cho kết quả tốt hơn. Màn ảnh rộng, không có lời thoại.
+
+GOAL
+
+Ưu tiên hàng đầu là tái hiện phong cách hình ảnh và hoạt ảnh của Arcane hoàn hảo nhất có thể, trên mọi phương diện. Người xem phải tin rằng cảnh này đến từ chính studio đó.
+
+Hãy dành nhiều thời gian và công sức nhất cần thiết. Tái hiện kỹ thuật và diện mạo một cách hoàn hảo. Dành bao nhiêu thời gian cũng được để bảo đảm mọi khía cạnh đều đạt mức hoàn hảo.
+
+BỐI CẢNH (phác thảo — tự do điều chỉnh)
+
+Một sinh vật cơ khí nhỏ (không có hình dáng người), chẳng hạn như một con bướm bằng đồng thau và pha lê, thức giấc trên bàn làm việc bừa bộn của một nhà phát minh vào ban đêm. Lõi pha lê của nó bùng sáng bằng năng lượng phát quang, rồi nó lao vút lên không trung giữa một vòng xoáy tia lửa. Hãy thay đổi chi tiết, bố cục khung hình hoặc hành động nếu một phương án khác thể hiện phong cách tốt hơn. Bạn hoàn toàn có thể làm một hoạt ảnh khác—bất kỳ ý tưởng nào bạn chọn, bất kỳ điều gì bạn thực hiện tốt nhất—miễn là kết quả cũng trông giống hệt Arcane.
+
+PROCESS
+
+1. NGHIÊN CỨU: Trước khi xây dựng bất cứ thứ gì, hãy nghiên cứu sâu về phong cách của Arcane. Tìm tài liệu tham khảo và các bài phân tích kỹ thuật của Fortiche (phỏng vấn, tư liệu hậu trường, phân tích của họa sĩ). Ghi lại mọi yếu tố đặc trưng: kết cấu bề mặt, đổ bóng, nét vẽ, màu sắc, ánh sáng, tốc độ khung hình, hiệu ứng, máy quay, compositing.
+
+2. HƯỚNG DẪN PHONG CÁCH: Chuyển những nội dung đó thành một checklist dạng văn bản và một style frame nhỏ (một ảnh tĩnh duy nhất) trước khi làm hoạt ảnh. So sánh song song với các khung hình tham khảo, sau đó chỉnh sửa cho đến khi khớp.
+
+3. DỰNG: Dựng mô hình, tạo kết cấu bề mặt, thiết lập ánh sáng và làm hoạt ảnh theo checklist.
+
+4. ĐÁNH GIÁ: Liên tục so sánh các khung hình với tài liệu tham khảo của Arcane. Liệt kê mọi khác biệt có thể nhận ra và khắc phục chúng. Lặp lại cho đến khi không còn khác biệt đáng chú ý.
+
+CÁC YẾU TỐ PHONG CÁCH CẦN KHỚP (tối thiểu)
+
+- Kết cấu bề mặt vẽ tay với nét cọ rõ ràng trên mọi bề mặt; không có gì trông như được tạo theo quy trình tự động hoặc mang tính nhiếp ảnh.
+
+- Đổ bóng cách điệu, mang tính tranh vẽ, với các mảng sáng/tối được thiết kế rõ ràng thay vì chuyển sáng tối chân thực.
+
+- Nhân vật/vật thể hoạt ảnh theo nhịp 2s, với tư thế mạnh, nhịp chuyển động nhanh gọn, chuyển động chuẩn bị và các smear frame; chuyển động máy quay mượt theo nhịp 1s.
+
+- Hiệu ứng 2D vẽ tay (tia lửa, năng lượng, khói, điểm lóe, ánh sáng phát quang) phủ lên hình 3D, hoạt ảnh theo nhịp 2s với ngôn ngữ hình khối đồ họa.
+
+- Màu sắc táo bạo, giàu cảm xúc: ánh sáng ấm đối lập với các điểm nhấn phát sáng bão hòa, vùng bóng có màu phong phú, viền sáng mạnh và hiệu ứng bloom.
+
+- Compositing mang tính tranh vẽ: bộ lọc như nét cọ, hạt nhiễu và lớp kết cấu bề mặt tinh tế phủ trên hình ảnh.
+
+- Máy quay điện ảnh: độ sâu trường ảnh nông, chuyển động có chủ đích, nhấn mạnh trọng lượng trong các cú va chạm.
+
+SOUND
+
+Thiết kế âm thanh chi tiết, mang tính điện ảnh, khớp với hành động và không khí.
+
+Hãy làm mọi thứ tốt nhất có thể: hoạt ảnh, mô hình, kết cấu bề mặt, hiệu ứng, ánh sáng và âm thanh. Sử dụng bất kỳ công cụ hoặc chương trình nào cần thiết. Bạn có thể nghiên cứu tài liệu tham khảo trực tuyến và mô phỏng kỹ thuật, thậm chí sao chép chúng, nhưng không được trực tiếp sử dụng tài sản mà bạn không tự tạo. Giữ toàn bộ cảnh trong một phong cách nhất quán để phần 3D, kết cấu bề mặt vẽ tay và hiệu ứng 2D tạo cảm giác như một hình ảnh thủ công duy nhất.
+
+Không sử dụng bộ nhớ hoặc các cuộc trò chuyện trước đây.
+
+Bạn có thể sử dụng bất kỳ công cụ, chương trình, plugin nào khác—thực sự là bất cứ thứ gì. Hãy dùng mọi thứ trong khả năng của bạn.
+
+Bạn có thể sử dụng quy trình khác với những gì được nêu ở đây, hoặc làm hoạt ảnh về một thứ khác với mô tả, nhưng kết quả phải tuyệt đối giống series truyền hình Arcane nhất có thể. Hãy làm mọi thứ hoàn hảo và giống hệt trên mọi phương diện.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105315982525014067) · [Bài đăng gốc](https://x.com/xikhar/status/2105317581695623329) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### Video hoạt hình 3D quả cầu rơi theo nhịp nhạc
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="Video hoạt hình 3D quả cầu rơi theo nhịp nhạc"></a>
+
+**Prompt**
+
+```text
+Video hoạt hình 3D về quả cầu rơi theo nhịp nhạc, hướng đến hiệu ứng chuyên nghiệp như được thực hiện bằng Blender. Sử dụng nhiều bản nhạc không lời kinh điển; cảnh chuyển đổi theo nhạc, quả cầu 3D rơi xuống và bật nảy qua các vật thể trong cảnh 3D, đồng thời các vật thể sáng lên theo nhịp điệu. Thêm một số yếu tố hài hước. 
+Sử dụng three.js, không sử dụng Blender
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105302007896797351) · [Bài đăng gốc](https://x.com/Gorden_Sun/status/2105302007896797351) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105298955307303100"></a>
+
+### Tạo nhân vật Minion 3D trong Blender
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105298955307303100"><img src="../assets/previews/e5e2a6452d0aa3edb11e244c87c98ef855e260733bc1fbe1db47fcdb4a633092.webp" width="840" loading="lazy" alt="Tạo nhân vật Minion 3D trong Blender"></a>
+
+**Prompt**
+
+```text
+Viết một script Python hoàn chỉnh, có thể thực thi, sử dụng module bpy của Blender để tạo nhân vật Minion 3D, thiết lập hoạt ảnh camera quay turntable 360 độ và render video 5 giây với tỷ lệ 1:1.
+Thông số hoạt ảnh & render:
+
+Tốc độ khung hình & thời lượng: Đặt tốc độ khung hình là 30 fps và phạm vi render từ frame 1 đến 150 (chính xác 5 giây).
+Tỷ lệ khung hình: Đặt độ phân giải render là 1080x1080 pixel (tỷ lệ vuông 1:1).
+Hoạt ảnh camera turntable: Tạo hoạt ảnh cho camera (hoặc một đối tượng empty điều khiển được parent vào camera) để thực hiện chuyển động xoay 360 độ liền mạch quanh Minion trong 150 frame.
+Đặt phép nội suy keyframe là LINEAR để bảo đảm chuyển động xoay mượt và có tốc độ không đổi.
+
+Cài đặt đầu ra: Đặt định dạng đầu ra thành video FFmpeg (H.264 / container MP4).
+Yêu cầu kỹ thuật & cấu trúc mô hình:
+Thân chính: Tạo một mesh dạng viên nang cho thân chính (vật liệu màu vàng, subsurface scattering/độ nhám khoảng 0.3).
+Thêm các sợi tóc đen mảnh, thưa trên đỉnh đầu.
+
+Kính & mắt: Dựng kính hai tròng bằng các cylinder/torus được extrude.
+Vật liệu gọng kính: Metallic (~0.9), Roughness (~0.2) để mô phỏng nhôm/kim loại xước.
+Thêm dây đeo co giãn màu đen quấn quanh thân.
+Tạo hai mesh nhãn cầu bên trong gọng kính (lòng trắng, mống mắt nâu, đồng tử bóng).
+
+Trang phục - yếm: Dựng yếm denim bằng hình học mesh riêng hoặc các phần thân được extrude.
+Vật liệu: Màu denim xanh, độ nhám cao hơn (~0.6).
+Bao gồm dây đeo vai và túi trước ở ngực.
+
+Chi & chi tiết: Thêm tay và chân với bàn tay đeo găng đen cùng giày đen.
+Sử dụng Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) khi phù hợp (ví dụ: mắt, gọng kính, tay, dây đeo, chân) để bảo đảm tính đối xứng và code gọn gàng.
+
+Ánh sáng & scene: Thiết lập hệ thống chiếu sáng ba điểm (Key, Fill, Rim), parent vào camera hoặc bố trí đồng đều để ánh sáng nhất quán trong suốt quá trình xoay.
+Đặt render engine là Cycles hoặc Eevee với phông nền studio sạch.
+Bảo đảm mọi vật liệu đều được tạo bằng Nodes (use_nodes = True).
+
+CHỈ trả về code Python hợp lệ bên trong một khối markdown, không kèm văn bản hoặc phần giải thích markdown nào khác.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Write a complete, executable Python script using Blender's bpy module to create a 3D Minion character, set up a 360-degree turntable camera animation, and render a 5-second 1:1 video.
+Animation & Render Specifications:
+
+Frame Rate & Duration: Set frame rate to 30 fps and render frame range from frame 1 to 150 (exactly 5 seconds).
+Aspect Ratio: Set render resolution to 1080x1080 pixels (1:1 square ratio).
+Camera Turntable Animation:Animate the camera (or an empty controller object parented to the camera) to perform a seamless 360-degree rotation around the Minion over the 150 frames.
+Set keyframe interpolation to LINEAR to ensure smooth, constant-speed rotation.
+
+Output Settings: Set output format to FFmpeg video (H.264 / MP4 container).
+Technical Requirements & Model Structure:
+Base Body:Create a capsule-like mesh for the main body (yellow material, subsurface scattering/roughness ~0.3).
+Add sparse, thin strands of black hair on top of the head.
+
+Goggles & EyesBuild dual-lens goggles using extruded cylinders/toruses.
+Goggle Frame Material: Metallic (~0.9), Roughness (~0.2) to simulate brushed aluminum/metal.
+Add a black elastic strap wrapping around the body.
+Generate two eyeball meshes inside the frame (white sclera, brown iris, shiny pupil).
+
+Clothing - Overalls:Model the denim overalls using separate mesh geometry or extruded body segments.
+Material: Blue denim color, higher roughness (~0.6).
+Include shoulder straps and a front pocket on the chest.
+
+Appendages & DetailsAdd arms and legs with black gloved hands and black shoes.
+Use Mirror Modifier (bpy.ops.object.modifier_add(type='MIRROR')) where applicable (e.g., eyes, goggles frame, arms, straps, legs) to ensure symmetry and clean code.
+
+Lighting & Scene:Place a three-point lighting setup (Key, Fill, Rim lights) parented to the camera or placed uniformly so the lighting stays consistent during rotation.
+Set render engine to Cycles or EEVEE with a clean studio background.
+Ensure all materials are created using Nodes (use_nodes = True).
+
+Return ONLY valid Python code inside a markdown block with no surrounding text or markdown explanations.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105298955307303100) · [Bài đăng gốc](https://x.com/EvoLinkAi/status/2105298964027265295) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### Máy ép thạch
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="Máy ép thạch"></a>
+
+**Prompt**
+
+```text
+Tạo "Jelly Press": một đồ chơi 3D tương tác dạng tệp HTML duy nhất (toàn bộ JS, CSS và shader WGSL viết inline, không dùng tài nguyên bên ngoài ngoại trừ Google Fonts). Render bằng WebGPU; nếu thiếu WebGPU hoặc adapter, hãy hiển thị thông báo dự phòng rõ ràng thay vì để trang trắng.
+
+CONCEPT
+Bốn viên thạch dẻo trong suốt hình lát trái cây lần lượt nằm trên bàn thép của máy ép thủy lực. Người chơi giữ một nút đỏ lớn để hạ đầu ép. Viên thạch bị nén và dàn rộng, đồng hồ áp suất tăng lên, rồi vỡ thành nhiều mảnh khi chiều cao còn khoảng hơn một nửa. Sau khi vỡ, trò chơi KHÔNG kết thúc: người chơi có thể nhặt các mảnh, kéo, ném chúng xung quanh và tiếp tục ép lại.
+
+CÁC VIÊN THẠCH (nút chọn ở dưới cùng, phím 1–4)
+1. Miếng dưa hấu (khối nửa đĩa): ruột đỏ với hạt hình giọt nước màu sẫm, dải cùi nhạt màu và vỏ xanh sọc.
+2. Lát cam (nửa đĩa): các múi cam được ngăn cách bằng màng trắng mỏng, cùi nhạt màu và vỏ cam.
+3. Nửa quả sung: ruột hồng đầy những hạt vàng nhỏ, một lớp kem và vỏ tím sẫm.
+4. Khoanh dứa: ruột vàng có thớ sợi tỏa tâm và một lỗ ở giữa.
+Mỗi viên thạch phải trông như kẹo dẻo thật: tán xạ dưới bề mặt, độ trong mờ mềm, điểm sáng phản chiếu bóng và bóng đổ mềm trên sàn studio tông ấm (kem/be, có tone mapping).
+
+VẬT LÝ (CPU, bước cố định 60 Hz)
+- Vật thể mềm tứ diện XPBD với 8 substep: khớp hình đồng quay theo từng tứ diện, ràng buộc thể tích theo từng tứ diện, giới hạn biến dạng cạnh cứng (0.35×–1.8×), giảm chấn vận tốc cạnh, tiếp xúc sàn với ma sát Coulomb, lực cản lăn và cơ chế ổn định nhẹ khi gần như đứng yên.
+- Mesh render được skin trên CPU thông qua ánh xạ barycentric vào các tứ diện; tính lại pháp tuyến từ các tam giác ở mỗi frame.
+- Khuôn ép là một bàn ép tròn động học (bán kính ~1.05, mép bo tròn, có độ dày và một ty ép phía trên). Nó đóng vai trò như trần có ma sát ở mặt dưới, một bệ đỡ ở mặt trên và vách bên tại vành. Hai trụ ép là khối đặc.
+- Chỉ số áp suất tính theo bar, lấy từ tải tiếp xúc của bàn ép và được scale theo từng loại trái cây.
+
+VỤ VỠ
+- Vỡ tại một mức nén ngẫu nhiên từ 52% đến 66% chiều cao của viên thạch.
+- Lập kế hoạch fracture trong nền ngay sau khi mỗi lượt bắt đầu để khoảnh khắc vỡ diễn ra tức thì.
+- Tạo 5–7 mảnh lớn từ các ô Voronoi 3D có vách hơi nghiêng. Trên 3–4 mảnh, cắt bỏ một góc xa bằng hai mặt phẳng cắt rồi chia tiếp thành 2–4 mảnh nhỏ, tạo ra các cạnh lởm chởm, khuyết răng cưa.
+- Gán các tứ diện vào ô dựa trên tâm hình học. Nhân bản particle cho từng mảnh. Gộp các đảo nhỏ vào mảnh lân cận.
+- Body mới kế thừa vị trí và vận tốc cũ.
+- Clip các tam giác bề mặt theo các nửa không gian của từng ô, đồng thời lấp mọi mặt cắt bằng một cap phẳng, sạch, cho thấy phần bên trong của trái cây (ruột, hạt, màng). Không có tam giác bị kéo giãn, không có lỗ hổng.
+- Hất các mảnh ra ngoài và lên trên khỏi máy ép. Mảnh nhỏ bay nhanh và cao hơn, đồng thời lộn với tốc độ xoay ngẫu nhiên.
+- Hiển thị một kết luận lớn, in nghiêng trong khoảng 2,5 giây rồi mờ dần: "Bẹp lép." (dưa), "Bị vắt kiệt." (cam), "Ừ thì, thành mứt rồi." (sung), "Nát bét." (dứa). Thêm một dòng chỉ số: "Bỏ cuộc ở mức N bar và N% chiều cao."
+
+SAU KHI VỠ: CHẾ ĐỘ CHƠI
+- Chọn mảnh: kiểm tra tia/tam giác trên mesh đã skin, kèm cơ chế dự phòng theo không gian màn hình dễ thao tác hơn cho cảm ứng.
+- Khi nhặt, ghim vùng được nhặt (bán kính ~0.4, chỉ gồm particle của mảnh đó) vào một điểm đích trên mặt phẳng kéo hướng về camera. Mảnh nhỏ di chuyển nguyên khối; mảnh lớn co giãn và đung đưa như thạch.
+- Khi thả, ném mảnh theo vận tốc của con trỏ.
+- Các mảnh va chạm với nhau. Một particle nằm bên trong tứ diện của mảnh khác sẽ bị đẩy ra qua mặt bề mặt gần nhất của mảnh đó, kèm ma sát. Dùng broad phase AABB của mảnh và spatial hash của các tứ diện bề mặt.
+- Các mảnh phải ở lại trong sân chơi: có vách bên, cùng một mép trước vô hình để không mảnh nào rơi xuống dưới khu điều khiển hoặc ra phía sau camera.
+- Máy ép vẫn hoạt động: giữ nút để tiếp tục nén các mảnh (không fracture lần hai); nút Nâng sẽ nâng bàn ép lên.
+- Phát âm thanh "bõm" ướt khi mảnh rơi xuống; thêm tiếng nhão nhỏ khi nhặt.
+- Con trỏ: bàn tay mở khi di trên các mảnh, bàn tay nắm khi đang kéo. Kéo vùng trống để xoay camera.
+
+GIAO DIỆN (biên tập, tối giản)
+- Tiêu đề góc trên bên trái: "JELLY PRESS" bằng chữ in hoa đậm, cô đọng, trong đó "PRESS" được tô bằng họa tiết sọc cảnh báo vàng/đen. Phụ đề: "Bốn viên kẹo dẻo. Một máy ép thủy lực."
+- Góc trên bên phải: nút Đặt lại và công tắc Âm thanh.
+- Thanh điều khiển phía dưới:
+  - Dòng chú thích với nội dung tăng dần khi ép: "Đã tiếp xúc." → "Không sao. Chỉ là thạch thôi." → "Đang bè ra." → "Giờ thành bánh kếp rồi." → "Nó đang phát ra tiếng." → "Làm ơn."
+  - Đồng hồ áp suất hình tròn (cung 0–400 bar, vùng đỏ) bao quanh nút GIỮ màu đỏ, nút Nâng và chỉ số bar dạng số lớn.
+  - Các nút chọn trái cây có biểu tượng.
+- Trong chế độ chơi, ô chú thích hiển thị "Nhặt một mảnh. Ném đi." cùng các nút nhỏ "Ép lại" và "Viên thạch tiếp theo".
+- Điều khiển: giữ Space hoặc ArrowDown để ép, ArrowUp để nâng, R để đặt lại, 1–4 để chọn trái cây. Cuộn chuột để zoom; nhấp đúp để đặt lại góc nhìn.
+- Camera: góc nhìn thấp ngang mặt bàn; khung máy ép xoay theo từng loại trái cây để các trụ không bao giờ che khuất viên thạch. Khung hình tự điều chỉnh để viên thạch nằm giữa tiêu đề và thanh điều khiển; hoạt động trên điện thoại (màn hình dọc) với sân khấu hẹp hơn.
+
+ÂM THANH (Web Audio dựng bằng thuật toán, không dùng tệp)
+Tiếng ù của mô-tơ thủy lực tăng dần theo áp suất, tiếng nhão ướt, thỉnh thoảng có tiếng răng rắc khi áp suất cao, tiếng van đóng cục khi bàn ép dừng, tiếng vỡ lớn và tiếng bõm nhẹ khi mảnh rơi xuống. Mở khóa khi người dùng tương tác lần đầu.
+
+TIÊU CHUẨN CHẤT LƯỢNG
+- Chạy mượt ở 60 fps trên laptop.
+- Làm nóng trước mesh và shader của các loại trái cây còn lại trong nền để chuyển đổi tức thì.
+- Tôn trọng tùy chọn prefers-reduced-motion.
+- Nhãn dễ tiếp cận, đồng hồ có role=meter và viền focus-visible.
+- Không có lỗi trong console. Trang không bao giờ hiển thị trắng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105285992865272110) · [Bài đăng gốc](https://x.com/vib3coded/status/2105286092651999619) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105278999861526953"></a>
+
+### Bản render Blender của cầu Golden Gate
+
+[EvoLink.ai](https://x.com/EvoLinkAi) · 2026-09-30 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105278999861526953"><img src="../assets/previews/5bcade94da53057502f3cb98af337c7c693ece5f6234c73b110d7cc895a422c1.webp" width="840" loading="lazy" alt="Bản render Blender của cầu Golden Gate"></a>
+
+**Prompt**
+
+```text
+Bản render Blender của cầu Golden Gate. Góc quay bao quát, cực thấp từ mặt vịnh San Francisco, hướng lên các tháp giàn thép đồ sộ và phức tạp vươn xuyên qua bầu trời buổi sáng phủ sương. Mặt cầu rộng trải dài qua toàn bộ nhịp cầu, với vô số phương tiện nhỏ được thể hiện chi tiết, làm nổi bật quy mô hùng vĩ, bề thế của cây cầu giữa những mũi đất ven biển gồ ghề.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+A Blender render of the Golden Gate Bridge.  A sweeping, extreme low-angle shot from the surface of San Francisco Bay, looking up at the colossal, intricate steel-truss towers piercing the foggy morning sky. The expansive roadway stretches across the span with countless tiny, detailed vehicles, highlighting the bridge's grand, imposing scale against the rugged coastal headlands.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105278999861526953) · [Bài đăng gốc](https://x.com/EvoLinkAi/status/2105279002793345069) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### Game roguelike ASCII theo lượt trong một tệp HTML
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="Game roguelike ASCII theo lượt trong một tệp HTML"></a>
+
+**Prompt**
+
+```text
+Đóng vai trò nhà thiết kế game trưởng. Hãy xây dựng một game roguelike ASCII hoàn chỉnh theo lượt trong một tệp HTML/JS/CSS tự chứa duy nhất, không có bất kỳ phụ thuộc bên ngoài nào.
+1. Hình ảnh: màn hình CRT thập niên 1980, chữ xanh lân quang (#00FF66) trên nền đen, phát sáng nhẹ như các dòng quét.
+2. Tạo sinh theo thủ tục: bản đồ 40x22 gồm các phòng và hành lang nối liền nhau.
+3. Thực thể: @ anh hùng, # tường, . sàn, g yêu tinh (5 HP), $ vàng, > cầu thang đi xuống.
+4. Cơ chế: di chuyển và chiến đấu theo lượt, theo dõi HP và vàng.
+5. HUD: số tầng, thanh HP, nhật ký chiến đấu. Cơ chế chết vĩnh viễn kèm khả năng chơi lại.
+Chỉ xuất mã HTML hoạt động.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105246199653482872) · [Bài đăng gốc](https://x.com/kriptoleidi/status/2105246199653482872) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### Tạo thế giới Game of Thrones
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="Tạo thế giới Game of Thrones"></a>
+
+**Prompt**
+
+```text
+&lt;tạo thế giới Game of Thrones&gt;
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105245648723562584) · [Bài đăng gốc](https://x.com/DrstaOne/status/2105245648723562584) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105047166733746209"></a>
+
+### Cảnh phóng tên lửa chân thực như phim điện ảnh
+
+[Matthew Lebo](https://x.com/MatthewLebo_) · 2026-09-29 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105047166733746209"><img src="../assets/previews/6d8acb740dd1622944c3b3d67b4773f614180df8b9b6f266d7a3a7a7c523baff.webp" width="840" loading="lazy" alt="Cảnh phóng tên lửa chân thực như phim điện ảnh"></a>
+
+**Prompt**
+
+```text
+Xây dựng một cảnh phóng tên lửa 3D mang phong cách điện ảnh, chân thực như ảnh và có kết cấu bề mặt đẹp mắt bằng Three.js
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a cinematic, photorealistic, beautifully textured rocket launch scene using Three.js
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105047166733746209) · [Bài đăng gốc](https://x.com/MatthewLebo_/status/2105047166733746209) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### Video động đất trong mô phỏng kiến tạo tương tác
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="Video động đất trong mô phỏng kiến tạo tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo một video dài 60 giây, ấn tượng về mặt hình ảnh, giải thích cách một trận động đất xảy ra thông qua mô phỏng kiến tạo tương tác.
+
+Hãy tạo cảm giác như chúng ta đang xem ai đó khám phá một mô phỏng thời gian thực tuyệt đẹp, không phải một slideshow hay video giáo dục truyền thống.
+
+Bắt đầu với mặt cắt 3D rõ nét của lớp vỏ Trái Đất. Hai mảng kiến tạo từ từ chuyển động ngược chiều nhau. Trực quan hóa đứt gãy giữa chúng, đồng thời thể hiện ma sát khiến các mảng bị khóa lại trong khi ứng suất dần tích tụ.
+
+Khi áp suất tăng lên, hãy làm cho mô phỏng trở nên mãnh liệt hơn: các lớp đá biến dạng, các vùng ứng suất phát sáng, những rung động nhẹ bắt đầu xuất hiện và máy đo địa chấn trực tiếp bắt đầu phản ứng.
+
+Sau đó kích hoạt trận động đất. Đứt gãy đột ngột trượt và giải phóng một luồng năng lượng khổng lồ. Thể hiện các sóng địa chấn lan tỏa ra ngoài qua lòng đất, rồi chuyển cảnh hướng lên bề mặt, nơi địa hình và một thành phố nhỏ bắt đầu rung lắc.
+
+Trực quan hóa sự lan truyền khác nhau của sóng P và sóng S qua Trái Đất, sau đó là các sóng mặt mạnh nhất. Thể hiện các tòa nhà phản ứng khác nhau tùy theo khoảng cách đến chấn tâm.
+
+Kết thúc bằng cách thu phóng trở lại dưới lòng đất để cho thấy các dư chấn nhỏ hơn quanh đứt gãy, rồi lùi máy quay ra để hiển thị toàn bộ hệ thống kiến tạo.
+
+Sử dụng đồ họa chuyển động mang tính điện ảnh, mô phỏng vật lý thuyết phục, các chuyển cảnh quy mô ấn tượng, hình ảnh trực quan khoa học 3D cao cấp, kiểu chữ tối giản, nhãn động, lớp phủ giao diện mượt mà và các chuyển cảnh liền mạch.
+
+Nhịp độ cần không ngừng biến đổi và hé lộ điều mới sau mỗi vài giây, để toàn bộ 60 giây luôn hấp dẫn về mặt hình ảnh.
+
+Hãy tạo cảm giác như một trải nghiệm trực quan khoa học tương tác có chất lượng như Apple, được chuyển thể thành video thiết kế chuyển động mang tính điện ảnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105029713445949521) · [Bài đăng gốc](https://x.com/egeberkina/status/2105029713445949521) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105027152617918852"></a>
+
+### Mô hình F-22 Raptor chân thực và video bay trong Godot
+
+[Demetrius Greses Jr](https://x.com/dgresesjr) · 2026-09-29 · GPT-6 Astra · Khác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105027152617918852"><img src="../assets/previews/735c2222ff973e206a2a4e0eb83984299eb76e96ff6f0267d1697607a029ab0f.webp" width="840" loading="lazy" alt="Mô hình F-22 Raptor chân thực và video bay trong Godot"></a>
+
+**Prompt**
+
+```text
+Sử dụng Blender MCP. Hãy tạo cho tôi một mô hình 3D chân thực của Lockheed Martin F-22 Raptor (chỉ phiên bản Mỹ). Sau đó tạo video MP4 dài 60 giây về máy bay này bay trong Godot để tôi có thể đăng lên X.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Using blender mcp. Make me a realistic 3d model of the: Lockheed Martin F-22 Raptor (US only). Then create me 60 second mp4 of it flying around in Godot that I can upload to X.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105027152617918852) · [Bài đăng gốc](https://x.com/dgresesjr/status/2105027152617918852) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105009377002299711"></a>
+
+### Thời gian, được tháo rời.
+
+[Paruchh](https://x.com/theparuchh) · 2026-09-29 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105009377002299711"><img src="../assets/previews/e2b43bfe1fb0e91f9377aeb5de49500cf4472749c1c2b6f2f0cacb387107b7f9.webp" width="840" loading="lazy" alt="Thời gian, được tháo rời."></a>
+
+**Prompt**
+
+```text
+Xây dựng "Time, Undone." — một tệp HTML tự chứa duy nhất (nhúng JS và CSS), chạy một chiếc đồng hồ cơ 3D tương tác thực sự bằng WebGPU + WGSL. Đồng hồ tự bung tách khi người dùng cuộn trang nhưng vẫn tiếp tục chạy. Không dùng thư viện engine 3D; toàn bộ hình học được tạo bằng mã. Đây là số 01 trong một series về những vật thể ai cũng từng thấy từ bên ngoài nhưng gần như chưa ai thấy bên trong.
+VẬT THỂ
+Một chiếc đồng hồ cơ lên cót tay nguyên bản, không thương hiệu, trong vỏ tròn 40 mm, với bộ máy Swiss lever cổ điển có đường kính khoảng 30 mm.
+Bố cục: kim giờ và kim phút ở trung tâm; mặt số phụ chỉ giây nhỏ tại vị trí 6 giờ; núm chỉnh giờ tại vị trí 3 giờ.
+Mặt số: màu bạc opaline với họa tiết guilloché tỏa tia mảnh, cọc số nổi đánh bóng, kim dauphine và vạch phút kiểu đường sắt.
+Vỏ: kính sapphire phía trước và nắp đáy lộ máy để có thể quan sát bộ máy từ mặt sau.
+Không sử dụng tên thương hiệu, logo hay tên calibre có thật ở bất kỳ đâu. Gọi sản phẩm là "Calibre 01".
+CƠ CẤU (phải chính xác về mặt cơ khí, không chỉ mang tính trang trí)
+Tần số dao động 28.800 vph (bánh xe cân bằng 4 Hz).
+Xây dựng một train bánh răng thực với số răng nhất quán:thùng cót 96 răng → pinion bánh trung tâm 12 răng; bánh trung tâm quay một vòng mỗi giờ và mang kim phút;
+bánh trung tâm 80 răng → pinion bánh thứ ba 10 răng;
+bánh thứ ba 75 răng → pinion bánh thứ tư 10 răng; bánh thứ tư quay một vòng mỗi phút và mang kim giây nhỏ;
+bánh thứ tư 84 răng → pinion bánh thoát 7 răng;
+bánh thoát 20 răng, quay một vòng mỗi 5 giây.
+
+Bộ truyền dưới mặt số: pinion trung tâm 12 răng → bánh phút 36 răng; pinion phút 10 răng → bánh giờ 40 răng (tỷ số 12:1).
+Bộ lên cót: núm chỉnh giờ, trục núm, bánh cót, bánh cóc, cò hãm và lò xo.
+Bộ thoát: bánh thoát, càng gạt với hai ngựa ruby và chốt chặn, bánh xe cân bằng với dây tóc và con lăn truyền lực.
+Kết cấu: bản máy, cầu thùng cót, cầu train, cầu giữ bánh cân bằng, ổ chân kính ruby và vít nung xanh.
+Bánh răng: biên dạng răng cycloidal kiểu đồng hồ, các nan bánh đan chéo, pinion có cánh răng, trục và đầu trục. Khoảng cách tâm được tính từ một module chung để mọi cặp bánh răng ăn khớp chính xác và nhìn thấy rõ khi lắp ráp.
+Chuyển động được điều khiển từ MỘT đồng hồ chủ: bánh xe cân bằng dao động theo θ(t) = A·sin(2π·4·t), với biên độ A khoảng 270° khi đầy cót;
+ở mỗi nhịp, càng gạt bật qua lại giữa các chốt chặn, bánh thoát tiến nửa răng trong một xung lực ngắn có giảm tốc êm, rồi khóa lại;
+mọi bánh còn lại nhích đúng theo tỷ số truyền của bánh thoát;
+kim giây nhảy 8 lần mỗi giây; kim phút và kim giờ chuyển động theo train.
+Khi tải trang, đặt kim theo giờ địa phương của người xem.
+
+Năng lượng: mức dự trữ khoảng 44 giờ, giảm theo thời gian thực. Biên độ giảm từ 290° xuống 180° khi cót cạn; ở mức 0, đồng hồ dừng và bánh cân bằng lắng dần thay vì đứng khựng.
+Lên cót sẽ tăng mức dự trữ, đi kèm chuyển động nhìn thấy được của bánh cóc và cò hãm cùng âm thanh click nhẹ (Web Audio, tắt tiếng cho đến lần tương tác đầu tiên của người dùng).
+
+Cơ cấu tiếp tục chạy ở mọi trạng thái bung tách: bánh răng quay giữa không trung, bánh cân bằng vẫn dao động và kim giây vẫn nhảy.
+BUNG TÁCH (điều khiển bằng thao tác cuộn, có các điểm dừng)
+Thao tác cuộn trang được ánh xạ thành giá trị tiến độ từ 0 đến 1, chia thành bảy chương. Mỗi chương chuyển êm vào một "điểm dừng" ổn định, tại đó thao tác cuộn tạm thời lắng lại (snap nhẹ, tuyệt đối không khóa cứng). Camera di chuyển mượt giữa các chương.
+Các chương:
+I. Vỏ: góc nhìn 3/4 phía trước, đồng hồ đang lắp ráp.
+II. Mặt số: kính và vành bezel nâng ra; kim và mặt số nâng lên.
+III. Bộ truyền: các bánh dưới mặt số tách rời.
+IV. Các cầu: đồng hồ lật lại để lộ mặt sau; nắp đáy nâng lên; các cầu và cầu giữ bánh cân bằng nâng lên, cùng các vít lơ lửng ngay phía trên lỗ vít.
+V. Train bánh răng: thùng cót, bánh trung tâm, bánh thứ ba và bánh thứ tư tản lên trên dọc theo trục riêng, như một bản vẽ kỹ thuật.
+VI. Bộ thoát: bánh thoát, càng gạt và bánh cân bằng tách ra thêm một khoảng, camera tiến gần.
+VII. Trái tim: góc nhìn macro vào bánh cân bằng và dây tóc đang dao động, với toàn bộ cột linh kiện bung tách ở phía sau.
+Mỗi linh kiện di chuyển theo một trục rõ ràng, chủ yếu là trục riêng của nó hoặc thẳng đứng lên khỏi bản máy. Các linh kiện thuộc cùng một cụm vẫn đi cùng nhau. Không linh kiện nào giao cắt trong quá trình bung tách và không linh kiện nào ra khỏi khung hình.
+Các đường dẫn mảnh dạng hairline, có nhãn viết hoa nhỏ và đầu chặn nhỏ, xuất hiện cho những linh kiện chính tại mỗi điểm dừng rồi mờ đi khi chuyển điểm dừng.
+INTERACTION
+Thao tác cuộn (con lăn, trackpad, vuốt cảm ứng) điều khiển quá trình bung tách.
+Kéo trên vùng trống để xoay đồng hồ trong giới hạn cho phép; khi thả, đồng hồ chuyển êm về vị trí ban đầu.
+Di chuột lên một linh kiện sẽ viền sáng nhẹ và hiển thị tên linh kiện.
+Nhấp vào một linh kiện:linh kiện đó được làm nổi bật, các linh kiện khác giảm sáng còn khoảng 35% và camera chuyển êm để lấy trọn linh kiện;
+một thẻ thông tin mở bên cạnh, nối với linh kiện bằng đường dẫn hairline. Thẻ hiển thị: tên; vai trò trong một hoặc hai câu dễ hiểu; một thông tin chính xác (ví dụ: "Bánh thoát · 20 răng · một vòng mỗi 5 giây"); và một giá trị trực tiếp (tốc độ, góc hiện tại hoặc tổng số nhịp đã thực hiện).
+Nhấn Esc, nút đóng hoặc nhấp vào vùng trống để quay lại.
+
+Kéo núm chỉnh giờ theo chiều ngang để lên cót (cảm giác như cơ cấu bánh cóc), khi núm đang hiển thị.
+Bắt sự kiện con trỏ, chuột và cảm ứng. Chọn đối tượng bằng một lượt render object-ID hoặc phép kiểm tra tia chính xác; không dùng hình cầu bao quanh gần đúng.
+KẾT XUẤT (kim loại chân thực, cảm giác nhiếp ảnh macro — không hoạt hình)
+Vật liệu PBR, cùng môi trường studio tạo theo quy trình (hộp softbox lớn, đèn dải và nguồn sáng bù ấm, mờ) để tạo phản xạ.
+Bề mặt hoàn thiện:các sọc Côtes de Genève trên cầu (specular chải bất đẳng hướng, căn theo hướng sọc);
+perlage (vân tròn) trên bản máy;
+các cạnh vát đánh bóng gương (anglage) bắt sáng mạnh ở mép;
+vít và kim nung xanh bằng hiệu ứng màng mỏng;
+chân kính ruby đỏ trong mờ với ánh lấp lánh bên trong;
+các linh kiện thép mạ rhodium;
+kính sapphire với phản xạ xanh lam tím nhạt và độ dày nhẹ ở cạnh.
+
+Vỏ sử dụng màu vàng đã chọn.
+Điểm nhấn: bloom có kiểm soát chỉ trên vùng specular nổi bật; các tia lấp lánh nhỏ trên chân kính và cạnh đánh bóng xuất hiện khi ánh sáng hoặc đồng hồ chuyển động. Sang trọng, không lấp lánh quá mức.
+Bóng tiếp xúc mềm, ambient occlusion nhẹ và độ sâu trường ảnh tinh tế bám theo linh kiện đang lấy nét.
+Tone mapping kiểu phim, không làm cháy vùng sáng; 4x MSAA hoặc tương đương.
+Nền: trắng sứ nhạt với vignette mềm, như một studio chụp ảnh liền mạch. Không ngả vàng, không màu kem.
+GIAO DIỆN (quý phái, mang tính biên tập, nhiều khoảng trắng)
+Phông chữ: "Bodoni Moda" cho tiêu đề và chữ số, "Jost" cho văn bản giao diện (Google Fonts, có font serif và sans-serif dự phòng). Nhãn viết hoa nhỏ với tracking 0.16em; chữ số dạng bảng.
+Màu sắc:màu mực #1B1A17 trên nền sứ;
+đường hairline 1px ở mức 15% màu mực;
+màu nhấn theo màu vàng đã chọn.
+
+Không dùng gradient trên thành phần giao diện, không đổ bóng nặng, không emoji.
+Góc trên bên trái: kicker "OBJECTS, OPENED / NO. 01";
+tiêu đề Bodoni lớn trên hai dòng, "Time," / "Undone.";
+ba dòng chú thích in nghiêng bằng Bodoni: "Lên cót bằng tay." "Bung tách bằng thao tác cuộn." "Không gì bị che giấu."
+
+Góc trên bên phải: trạng thái "WEBGPU · LIVE" kèm một chấm nhỏ.
+Cạnh trái, căn giữa theo chiều dọc: mục lục chương "I. Vỏ", "II. Mặt số", "III. Bộ truyền", "IV. Các cầu", "V. Train bánh răng", "VI. Bộ thoát", "VII. Trái tim". Chương hiện tại được làm nổi bật bằng một đường tiến độ hairline; nhấp vào chương để cuộn đến chương đó.
+
+Panel bên phải "BỘ MÁY":ba preset vỏ: Vàng trắng, Vàng vàng, Vàng hồng, kèm các ô màu kim loại nhỏ;
+các chỉ số trực tiếp: Tần số dao động "28.800 vph", Mức dự trữ năng lượng (giờ, kèm thanh mảnh), Biên độ (°), Số nhịp kể từ khi mở;
+các nút "Lên cót" và "Đặt theo giờ địa phương";
+các checkbox "¼ tốc độ" và "Theo dõi dòng năng lượng". Tính năng theo dõi dòng năng lượng tạo một vệt sáng chậm chạy dọc theo đường truyền năng lượng: dây cót chính → thùng cót → bánh trung tâm → bánh thứ ba → bánh thứ tư → bánh thoát → càng gạt → bánh cân bằng, trong đó mỗi linh kiện phát sáng khi vệt sáng đi qua;
+một nút Tạm dừng/Tiếp tục.
+
+Gợi ý ở góc dưới bên trái: "Cuộn để tháo rời. Nhấp vào bất kỳ linh kiện nào để khám phá. Kéo để xoay."
+Góc dưới bên phải: mục "Cách hoạt động" có thể thu gọn, giải thích ngắn gọn và chính xác về train bánh răng, bộ thoát, bánh cân bằng và mức dự trữ năng lượng, cùng một ghi chú ngắn về cách trang này kết xuất chúng.
+Trên thiết bị di động: canvas chiếm khoảng 65% phía trên màn hình và mục lục chương chuyển thành một hàng ngang gồm các chữ số La Mã. Panel nằm bên dưới; thẻ linh kiện chuyển thành bottom sheet. Không thành phần nào che khuất đồng hồ.
+ENGINEERING
+Tạo toàn bộ hình học một lần khi khởi động. Dùng instancing cho các linh kiện lặp lại (vít, chân kính và răng khi phù hợp). Mỗi frame chỉ cập nhật transform; không biên dịch shader hoặc xây dựng lại buffer trong lúc tương tác.
+Thời gian animation lấy từ một đồng hồ duy nhất, có hệ số tốc độ ¼. Tạm dừng sẽ đóng băng cơ cấu, không phải giao diện.
+Tôn trọng prefers-reduced-motion: chuyển chương tức thì, không bay camera, không animation lấp lánh.
+Nếu không có WebGPU, hiển thị lời giải thích rõ ràng và được thiết kế chỉn chu. Không dùng trình kết xuất fallback giả.
+Xử lý mất thiết bị. Giới hạn pixel ratio ở mức 2. Hướng đến 60 fps trên laptop và trải nghiệm mượt trên điện thoại đời mới.
+KIỂM ĐỊNH TRƯỚC KHI BÀN GIAO
+Trong mã, assert các tỷ số truyền: kim giây quay một vòng mỗi 60 giây, kim phút một vòng mỗi 3600 giây, kim giờ một vòng mỗi 12 giờ và bánh thoát một vòng mỗi 5 giây. Ghi kết quả kiểm tra vào console.
+Mọi cặp bánh răng ăn khớp đều phải có khoảng cách tâm chính xác và nhìn thấy rõ trạng thái ăn khớp khi lắp ráp.
+Không linh kiện nào giao cắt với linh kiện khác ở bất kỳ mức tiến độ bung tách nào; không xảy ra z-fighting.
+Các điểm dừng khi cuộn, chuyển chương, chọn linh kiện, thẻ thông tin, lên cót, preset, theo dõi dòng năng lượng, tạm dừng, tốc độ ¼ và bố cục di động đều phải hoạt động.
+Nội dung thẻ phải chính xác về mặt thuật ngữ và cơ chế đồng hồ.
+Không có lỗi trong console.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build "Time, Undone." - a single self-contained HTML file (embedded JS and CSS) running a genuine WebGPU + WGSL interactive 3D mechanical watch that takes itself apart as you scroll, while it keeps running. No 3D engine libraries; all geometry is generated in code. This is issue No. 01 of a series about objects everyone has seen from the outside and almost no one has seen from the inside.
+THE OBJECT
+An original, unbranded, hand-wound mechanical watch in a round 40 mm case, with a classic Swiss-lever movement about 30 mm across.
+Layout: centre hours and minutes; small seconds sub-dial at 6 o'clock; crown at 3 o'clock.
+Dial: silver-opaline with a fine guilloché sunburst, applied polished indices, dauphine hands, a railroad minute track.
+Case: front sapphire crystal and a display caseback, so the movement is visible from behind.
+No brand names, logos or real calibre names anywhere. Call it "Calibre 01".
+THE MECHANISM (must be internally correct, not decorative)
+Beat rate 28,800 vph (4 Hz balance).
+Build a real going train with consistent tooth counts:mainspring barrel 96 teeth → centre pinion 12; the centre wheel turns once an hour and carries the minute hand;
+centre wheel 80 → third pinion 10;
+third wheel 75 → fourth pinion 10; the fourth wheel turns once a minute and carries the small seconds hand;
+fourth wheel 84 → escape pinion 7;
+escape wheel 20 teeth, turning once every 5 s.
+
+Motion works under the dial: cannon pinion 12 → minute wheel 36; minute pinion 10 → hour wheel 40 (12:1).
+Keyless works: crown, stem, crown wheel, ratchet wheel, click with spring.
+Escapement: escape wheel, pallet fork with two ruby pallet stones and banking pins, balance wheel with hairspring and impulse roller.
+Structure: mainplate, barrel bridge, train bridge, balance cock, ruby jewel bearings, blued screws.
+Gears: watch-style cycloidal tooth profiles, spoked wheel crossings, pinions with leaves, arbors and pivots. Centre distances are derived from a common module so every pair meshes visibly correctly when assembled.
+Motion, driven from ONE master clock:the balance oscillates as θ(t) = A·sin(2π·4·t), with amplitude A around 270° at full power;
+at each beat, the pallet fork flicks between its banking pins and the escape wheel advances half a tooth in a short eased impulse, then locks;
+every other wheel steps exactly by its ratio from the escape wheel;
+the seconds hand ticks 8 times per second; the minute and hour hands follow the train.
+On load, set the hands to the viewer's local time.
+
+Power: a power reserve of about 44 h that drains in real time.Amplitude falls from 290° to 180° as the reserve empties; at 0 the watch stops, the balance settling rather than freezing.
+Winding raises the reserve, with visible ratchet and click motion and a soft click sound (Web Audio, muted until the first user interaction).
+
+The mechanism keeps running in every exploded state: wheels spin in mid-air, the balance keeps beating, the seconds hand keeps ticking.
+THE EXPLODE (scroll-driven, with stops)
+Page scroll maps to a progress value from 0 to 1, split into seven chapters. Each chapter eases into a resting "stop" where scroll briefly settles (a soft snap, never a hard lock). The camera moves smoothly between chapters.
+Chapters:
+I. The case: front 3/4 view, assembled.
+II. The dial: the crystal and bezel lift away; the hands and dial rise.
+III. Motion works: the wheels under the dial separate.
+IV. The bridges: the watch turns over to show the back; the caseback lifts; the bridges and the balance cock rise, with their screws floating just above their holes.
+V. The going train: barrel, centre, third and fourth wheels spread upward along their own axes like a technical drawing.
+VI. The escapement: escape wheel, pallet fork and balance separate a little further, and the camera closes in.
+VII. The heart: a macro view of the beating balance and hairspring, with the full exploded column behind.
+Every part moves along a clear axis, mostly its own arbor axis or straight up from the plate. Parts that belong together stay together. Nothing intersects during the explode, and nothing leaves the frame.
+Thin hairline leader lines with small caps labels appear for the main parts at each stop, and fade between stops.
+INTERACTION
+Scroll (wheel, trackpad, touch swipe) drives the explode.
+Dragging on empty space turns the watch within limits; it eases back when released.
+Hovering a part outlines it softly with its name.
+Clicking a part:the part is highlighted, other parts dim to about 35%, and the camera eases to frame it;
+a card opens beside it, joined by a hairline leader. The card shows: name; role in one or two plain sentences; one precise fact (for example: "Escape wheel · 20 teeth · one turn every 5 s"); and one live value (current speed, angle, or beats so far).
+Esc, a close button, or clicking empty space returns.
+
+Dragging the crown sideways winds the watch (a tactile ratchet), when the crown is visible.
+Pointer capture, mouse and touch. Picking by an object-ID render pass or exact ray tests; no approximate bounding spheres.
+RENDERING (real metals, macro-photography feel — not a cartoon)
+Physically based materials, with a procedural studio environment (large softboxes, a strip light and a dim warm fill) for reflections.
+Finishes:Côtes de Genève stripes on the bridges (anisotropic brushed specular aligned to the stripes);
+perlage (circular graining) on the mainplate;
+mirror-polished bevels (anglage) catching bright edge highlights;
+thin-film heat-blued screws and hands;
+ruby jewels that are translucent red with internal sparkle;
+rhodium-plated steel parts;
+sapphire crystals with faint blue-violet reflections and a slight edge thickness.
+
+Case in the selected gold.
+Highlights: controlled bloom on specular highlights only; small star glints on jewels and polished edges that appear as the light or the watch moves. Glamour, not glitter.
+Soft contact shadows, gentle ambient occlusion, subtle depth of field that follows the focused part.
+Filmic tonemap with no clipped highlights; 4x MSAA or equivalent.
+Background: pale porcelain white with a soft vignette, like a seamless photo studio. Not yellow, not cream.
+UI (aristocratic, editorial, generous whitespace)
+Fonts: "Bodoni Moda" for display and numerals, "Jost" for UI text (Google Fonts, with serif and sans fallbacks). Small caps labels with 0.16em tracking; tabular numerals.
+Colours:ink #1B1A17 on the porcelain background;
+hairlines 1px at 15% ink;
+the accent follows the selected gold.
+
+No gradients on UI elements, no heavy shadows, no emoji.
+Top-left:kicker "OBJECTS, OPENED / NO. 01";
+large Bodoni heading on two lines, "Time," / "Undone.";
+three caption lines in Bodoni italic: "Wound by hand." "Opened by scroll." "Nothing is hidden."
+
+Top-right: status "WEBGPU · LIVE" with a small dot.
+Left edge, vertically centred: the chapter index "I. The case", "II. The dial", "III. Motion works", "IV. The bridges", "V. The going train", "VI. The escapement", "VII. The heart".The current chapter is highlighted, with a hairline progress rule; clicking a chapter scrolls to it.
+
+Right panel "THE MOVEMENT":three case presets: White gold, Yellow gold, Rose gold, with small metal swatches;
+live readouts: Beat rate "28,800 vph", Power reserve (h, with a thin bar), Amplitude (°), Beats since opened;
+buttons "Wind the crown" and "Set to local time";
+checkboxes "¼ speed" and "Trace the power". Trace the power makes a slow line of light flow along the energy path: mainspring → barrel → centre → third → fourth → escape wheel → pallet fork → balance, with each part glowing as it passes;
+a Pause/Resume button.
+
+Bottom-left hint: "Scroll to take it apart. Click any part to meet it. Drag to turn it."
+Bottom-right: a collapsible "How it works", with a short, accurate explanation of the going train, the escapement, the balance and the power reserve, plus a short note on how this page renders it.
+Mobile: the canvas fills the top about 65% of the screen, and the chapter index becomes a horizontal row of Roman numerals. The panel flows below; part cards become a bottom sheet. Nothing covers the watch.
+ENGINEERING
+Build all geometry once at start-up. Instance repeated parts (screws, jewels, teeth where useful). Update only transforms per frame; no shader compilation or buffer rebuilds during interaction.
+Animation time comes from one clock with ¼-speed scaling. Pause freezes the mechanism, not the UI.
+Respect prefers-reduced-motion: instant chapter transitions, no camera flights, no glints animation.
+If WebGPU is unavailable, show a clear, well-designed explanation. No fake fallback renderer.
+Handle device loss. Cap the pixel ratio at 2. Aim for 60 fps on a laptop and a smooth experience on a recent phone.
+VALIDATE BEFORE DELIVERING
+In code, assert the train ratios: the seconds hand turns once per 60 s, the minute hand once per 3600 s, the hour hand once per 12 h, the escape wheel once per 5 s. Log the check to the console.
+Every meshing pair is at the correct centre distance and visibly meshed when assembled.
+No part intersects another at any explode progress; no z-fighting.
+Scroll stops, chapter jumps, part picking, cards, winding, presets, trace-the-power, pause, ¼ speed and the mobile layout all work.
+Card texts are horologically accurate.
+No console errors.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105009377002299711) · [Bài đăng gốc](https://x.com/theparuchh/status/2105009470292013286) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Máy Rube Goldberg cơ khí trong Blender
@@ -2117,806 +2973,6 @@ make a dynamic 20-second motion graphics and animation video that shows what an 
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103428454355980558) · [Bài đăng gốc](https://x.com/loicRambo/status/2103428454355980558) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103351755971207251"></a>
-
-### Bối cảnh chiến trường La Mã vào giờ vàng
-
-[tonysuri](https://x.com/tonysurix) · 2026-09-25 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103351755971207251"><img src="../assets/previews/b8ed57dcc439f11dedc2ea1ae9ffb8243fa75e3614db8e9d8903715d746678cf.webp" width="840" loading="lazy" alt="Bối cảnh chiến trường La Mã vào giờ vàng"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/e6e72ad3-34e0-4f09-a4c4-8ca0476f7d2d.png) · [2](https://pbs.twimg.com/media/HTCdLiZbUAAPgbm.png)
-
-**Prompt**
-
-```text
-NHIỆM VỤ
-Dựng một bối cảnh chiến trường La Mã vào giờ vàng trong Blender dựa trên ảnh ý tưởng được cung cấp. Được phép sử dụng công cụ tạo sinh. Bạn có thể tạo mô hình 3D cho môi trường và các thành phần của môi trường bằng những công cụ tạo sinh hiện có (Tripo trên https://t.co/JV0K8OtuWC) rồi lắp ráp chúng. Tất cả vẫn phải tạo thành một cảnh thống nhất: tỷ lệ đồng bộ, vật liệu nhất quán và ánh sáng liền mạch. Yêu cầu: Sử dụng bản đồ bump cho mặt đất và giữ cho mặt đất có độ chi tiết cao.
-Tạo một khoảng trống hình tròn trên mặt đất, bao quanh bằng các tảng đá lớn để hình thành đấu trường 1v1.
-Dựng mọi thứ theo phong cách chân thực.
-Tạo asset theo quy trình thủ tục khi có thể.
-Tạo skybox cho bầu trời giờ vàng.
-Sử dụng bóng đổ gắt.
-Tái sử dụng các vật thể (cờ, biểu ngữ, mũ sắt, đá, v.v.). Xuất một tệp GLB cho mỗi vật thể và tái sử dụng các asset đó.
-Khớp với ảnh được cung cấp gần nhất và chính xác nhất có thể.
-YÊU CẦU VỀ TIMELAPSE
-Trong quá trình dựng, sau mỗi lần bổ sung có ý nghĩa (mỗi vật thể mới, lượt áp dụng modifier, bước tạo vật liệu và bước thiết lập ánh sáng), hãy lưu ảnh chụp viewport vào thư mục timelapse/ theo thứ tự và đánh số. Khi hoàn tất, ghép các khung hình đó thành video timelapse ở tốc độ 2 fps (0,5 giây mỗi khung hình) để có thể xem toàn bộ quá trình dựng từ đầu đến cuối. Bàn giao video timelapse cùng các tệp chính.
-DELIVERABLES
-Tệp .blend, với camera và viewport được thiết lập để góc nhìn khớp chính xác với ảnh gốc.
-Video timelapse quá trình dựng.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-THE TASK
-Build a golden-hour Roman battlefield set piece in Blender from the supplied concept image.  Generation is allowed. You may generate 3D models for the environment and its parts with the available generation tools (Tripo on https://t.co/JV0K8OtuWC) and assemble them. Everything must still form one coherent scene: matched scale, consistent materials, and unified lighting.  Requirements: Use bump maps on the ground and keep the ground highly detailed.
-Create a circular empty spot on the ground with large boulders around it to form a 1v1 arena.
-Render everything realistically.
-Create assets procedurally where possible.
-Create a skybox for golden-hour sky.
-Use harsh shadows.
-Reuse objects (flags, banners, helms, rocks, etc.). Export a GLB for every object and reuse those assets.
-Match the supplied image as closely and accurately as possible.
-TIMELAPSE REQUIREMENT
-While you build, save a viewport screenshot into a numbered timelapse/ folder after every meaningful addition (each new object, modifier pass, material step, and lighting step, in order).  When the work is finished, assemble those frames into a timelapse video at 2 fps (0.5 s per frame) so the full build can be watched from start to finish. Deliver the timelapse video with the main files.
-DELIVERABLES
-The .blend file, with camera and viewport set so the view exactly matches the original image.
-The build timelapse video.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103351755971207251) · [Bài đăng gốc](https://x.com/tonysurix/status/2103352274269675532) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103308083242082314"></a>
-
-### STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt
-
-[YouWare](https://x.com/YouWareAI) · 2026-09-25 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103308083242082314"><img src="../assets/previews/9c925fc7c5face852e996ab7779532e98fe1b10c62b792e1f6e5222ead99c0f1.webp" width="840" loading="lazy" alt="STILLWATER — Trải nghiệm đầm lầy ánh trăng trên trình duyệt"></a>
-
-**Prompt**
-
-```text
-Xây dựng một trải nghiệm trên trình duyệt bằng Three.js có tên STILLWATER. Tông màu: một đầm lầy dưới ánh trăng khiến người ta lạc lối. Không phải game có kẻ địch. Không phải hình ảnh siêu chân thực kiểu Unreal. Đây là một thế giới web yên tĩnh, trau chuốt và đắt giá, trong đó phản chiếu trên mặt nước là điểm nhấn. Người xem nên mải ngắm mặt nước lâu đến mức không lành mạnh.
-
-BỐI CẢNH
-- Tên địa điểm: THE DEEP SWAMP
-- Thời gian trên HUD: 19:26
-- Địa danh đầu tiên: Khúc quanh Heron
-- Khẩu hiệu bên dưới tên địa điểm: "Hãy chừa lại một khoảng cho thiên nhiên hoang dã."
-- Thông báo khám phá khi đến nơi: "Đã khám phá: Khúc quanh Heron"
-
-THẾ GIỚI
-Một đầm lầy bách ngập nước vào lúc trăng mọc / chạng vạng muộn.
-- Những cây cao, gốc nổi đầu gối, đứng giữa làn nước đen xanh
-- Rêu Tây Ban Nha buông thành những dải dài
-- Các cụm bèo súng dọc theo bờ
-- Kênh nước hẹp quanh co mở ra một khúc cua rộng hơn
-- Sương mù thể tích dày đặc, khoảng cách xa màu xanh teal-lục, bầu trời mây tím-hồng
-- Mặt trăng sáng với vệt phản chiếu dài, đứt đoạn trên mặt nước
-- Vài cánh chim bay ngang bầu trời
-- Ánh đèn cabin ấm áp từ con thuyền xuyên qua màn tối
-
-MẶT NƯỚC (đừng làm qua loa)
-Đây là nhân vật chính.
-- Phản chiếu theo thời gian thực của cây cối, mặt trăng, sương mù và đèn thuyền
-- Gợn dập dềnh nhẹ, không phải sóng biển
-- Bèo súng nằm trên mặt nước và nhấp nhô
-- Bọt ven bờ / nước giàu tannin sẫm màu gần các rễ cây
-- Phản chiếu không gian màn hình hoặc phản chiếu phẳng đủ tốt để vệt trăng có cảm giác điện ảnh
-- Duy trì 60 fps. Dùng LOD cho cây và foliage được instancing.
-
-THUYỀN
-Một chiếc xuồng cabin / thuyền công vụ nhỏ, cũ kỹ vì thời tiết.
-- Số hiệu thân tàu 86 ở đuôi
-- Cabin trắng, thân xanh đậm, đèn nội thất ấm áp
-- Trôi không tải qua kênh, có thể thêm chuyến tham quan chậm có hướng dẫn
-- Tốc độ trên HUD khoảng 15.9 KNOTS
-- Nhãn chế độ: GUIDED DRIFT
-Người chơi có thể quan sát xung quanh. Có thể bám theo thuyền bằng góc máy điện ảnh rượt đuổi / vòng ngang.
-
-CAMERA
-- Bắt đầu với góc ba phần tư, nhìn thuyền giữa những hàng cây
-- Trôi phía sau đuôi thuyền theo lối nước dưới ánh trăng
-- Thỉnh thoảng trượt ngang qua một thân cây ở tiền cảnh
-- Kéo để quan sát
-- PHOTO MODE tùy chọn
-Tạo cảm giác như phim tài liệu về thiên nhiên, không phải FPS.
-
-UI — mang tính biên tập, không giống game
-Góc trên bên trái: biểu tượng nhỏ + STILLWATER
-Chính giữa phía trên: THE DEEP SWAMP / 19:26, hướng la bàn (ví dụ 314°)
-Góc trên bên phải: các biểu tượng tiện ích tối giản
-Góc dưới bên trái:
-   ĐANG KHÁM PHÁ STILLWATER
-   Khúc quanh Heron
-   Hãy chừa lại một khoảng cho thiên nhiên hoang dã.
-   15.9 KNOTS
-   GUIDED DRIFT
-Góc dưới bên phải: PHOTO MODE, fps, Tạm dừng
-Chính giữa phía dưới: thông báo nhỏ "Đã khám phá: Khúc quanh Heron"
-Hàng gợi ý nhỏ: shader / mặt nước / kéo để quan sát / chụp ảnh / động vật hoang dã
-
-Hình ảnh: màu phim tối, xanh lục trầm, mây màu magenta, một điểm sáng từ mặt trăng. Ưu tiên gu thẩm mỹ hơn chủ nghĩa hiện thực. Không dùng GUI debug cồng kềnh.
-
-CÔNG NGHỆ
-Three.js trên trình duyệt. Thiên nhiên tạo theo quy trình / instancing. Shader mặt nước tùy chỉnh. Sương mù. Bóng mềm hoặc ánh sáng chạng vạng có cảm giác như được bake. Nếu có thể tự xây dựng thì không dùng asset pack đầm lầy từ marketplace.
-
-KHÔNG thêm chiến đấu, kho đồ, hù dọa bất ngờ hoặc nhiệm vụ truy tìm kho báu. Sau này có thể có thứ gì đó ẩn mình dưới nước — nhưng chưa phải lúc này.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a browser experience in Three.js called STILLWATER.  Tone: a moonlit swamp you get lost in. Not a game with enemies. Not photoreal Unreal. A quiet, expensive-looking web world where the water reflections are the feature. People should stare at the water for an unhealthy amount of time.  SETTING - Location title: THE DEEP SWAMP - Time on the HUD: 19:26 - First named place: Heron bend - Tagline under the place name: "Leave a little room for the wild." - Discovery toast when you arrive: "Discovered: Heron bend"  WORLD A flooded cypress swamp at moonrise / late dusk. - Tall knobby-kneed trees standing in black-green water - Spanish moss hanging in long strands - Lily pads clustered along the banks - Narrow winding channel that opens into a wider bend - Thick volumetric fog, teal-green distance, purple-pink cloudy sky - A bright moon with a long broken reflection path on the water - A few birds crossing the sky - Warm cabin light from the boat punching through the gloom  WATER (do not cheap out) This is the hero. - Real-time reflections of trees, moon, fog and boat lights - Gentle swell, not ocean waves - Lily pads that sit on the surface and bob - Shoreline foam / dark tannin water near roots - Screen-space or planar reflections good enough that the moon path feels cinematic - Keep 60fps. LOD the trees, instanced foliage.  BOAT A small weathered cabin skiff / workboat. - Hull number 86 on the stern - White cabin, dark blue hull, warm interior lamps - Idle drift through the channel, optional slow guided tour - HUD speed around 15.9 KNOTS - Mode label: GUIDED DRIFT Player can look around. Boat can be followed from a cinematic chase / side orbit.  CAMERA - Start on a three-quarter of the boat in the trees - Drift behind the stern down the moonlit lane - Occasional side slide past a foreground trunk - Drag to look - Optional PHOTO MODE Feel like a nature documentary, not an FPS.  UI — editorial, not gamey Top-left: small mark + STILLWATER Top-center: THE DEEP SWAMP / 19:26, a compass heading (e.g. 314°) Top-right: quiet utility icons Bottom-left:   EXPLORING STILLWATER   Heron bend   Leave a little room for the wild.   15.9 KNOTS    GUIDED DRIFT Bottom-right: PHOTO MODE, fps, Pause Center-bottom: small toast "Discovered: Heron bend" Tiny hint row: shaders / water / drag to look / photos / wildlife  Look: dark filmic grade, muted greens, magenta clouds, one moon highlight. Taste over realism. No bloated debug GUI.  TECH Three.js in the browser. Procedural / instanced nature. Custom water shader. Fog. Soft shadows or baked-looking dusk lighting. No asset-store swamp pack if you can author it.  DO NOT add combat, inventory, jump scares, or a treasure hunt. Something can lurk underwater later — not now.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103308083242082314) · [Bài đăng gốc](https://x.com/YouWareAI/status/2103310302993621090) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103303303358534021"></a>
-
-### Chuỗi phóng tên lửa 3D tương tác trên đại dương
-
-[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Chuỗi phóng tên lửa 3D tương tác trên đại dương"></a>
-
-**Prompt**
-
-```text
-Tạo một cảnh phóng tên lửa 3D tương tác, có độ chi tiết cao và đậm chất điện ảnh, từ một bệ phóng trên đại dương lúc bình minh. Bàn giao toàn bộ dự án trong một tệp HTML duy nhất, có thể mở trực tiếp bằng Chrome. Sử dụng Three.js + WebGL và tài sản tạo theo quy trình. Nhúng tài sản ở mọi nơi có thể; có thể dùng CDN đáng tin cậy cho thư viện kết xuất.
-
-ĐỊNH HƯỚNG HÌNH ẢNH
-Tạo chuyển cảnh ấn tượng từ đại dương xanh tím sẫm trước bình minh sang ánh nắng ấm áp phía trên tầng khí quyển. Sử dụng tỷ lệ thuyết phục, vật liệu chi tiết, chiều sâu khí quyển và các góc máy được dàn dựng cẩn thận. Tổng thể cần mang cảm giác như một bộ phim không gian thu nhỏ được hoàn thiện chỉn chu.
-TÊN LỬA VÀ BỆ PHÓNG
-Dựng một tên lửa nhiều tầng thuyết phục với chóp mũi tạo hình, đường ghép tấm, các vòng kết cấu, mối nối giữa các tầng, vòi phun động cơ và chụp bảo vệ tải trọng có thể tách thành hai nửa.
-
-Tạo một bệ phóng nổi có độ chi tiết cao với tháp đỡ, kết cấu đỡ có thể thu vào, cần dịch vụ, lan can, thang, đường ống, thiết bị, đèn pha và đèn cảnh báo nhấp nháy. Giữ mọi kết cấu liên kết vật lý và được đặt đúng vị trí.
-TRÌNH TỰ PHÓNG
-Tạo một chuỗi dài khoảng 46 giây:
-
-Di chuyển máy quay mở cảnh quanh bệ phóng.
-
-Các cần dịch vụ và kết cấu đỡ thu vào.
-Động cơ khởi động, chiếu sáng tên lửa, bệ phóng và vùng nước lân cận.
-Khói lan khắp mặt boong khi tên lửa cất lên và tăng tốc.
-Máy quay bám theo hành trình bay lên từ tầng khí quyển hướng ra không gian.
-Tầng thứ nhất tách ra và rơi khỏi tên lửa.
-Động cơ tầng thứ hai khởi động.
-Hai nửa chụp bảo vệ tải trọng tách ra, để lộ vệ tinh.
-Động cơ tắt, vệ tinh được triển khai và các tấm pin mặt trời mở ra.
-Kết thúc bằng góc nhìn quỹ đạo của vệ tinh trước đường chân trời cong của Trái Đất và cảnh bình minh.
-Nén dòng thời gian chuyến bay để trình diễn nhưng vẫn duy trì chuyển động mạch lạc. Tránh thay đổi vị trí đột ngột, các bộ phận giao cắt nhau hoặc hiệu ứng bị tách rời.
-ĐẠI DƯƠNG, KHÍ QUYỂN VÀ HIỆU ỨNG
-Sử dụng các sóng đại dương được tạo bằng shader và hoạt ảnh, với phản xạ Fresnel cùng phản xạ ánh sáng ấm từ động cơ. Tạo hiệu ứng khí xả nhiều lớp gồm lõi sáng, ngọn lửa ngoài dịu hơn và các hạt khói trôi dạt.
-Khói cần mở rộng, mờ dần và phản ứng theo gió. Khí xả phải luôn gắn với đúng động cơ tương ứng qua từng giai đoạn tách tầng. Chuyển mượt từ màn sương khí quyển sang nền sao tối và vành sáng của Trái Đất.
-
-MÁY QUAY VÀ TƯƠNG TÁC
-Sử dụng các chuyển cảnh máy quay mượt mà, mang tính điện ảnh: góc toàn cảnh mở cảnh, góc thấp lúc khởi động, bám theo khi bay lên, tách tầng và cận cảnh vệ tinh. Giữ chủ thể chính luôn hiển thị trong cả bố cục dọc lẫn ngang.
-
-Thêm các tính năng phát/tạm dừng, phát lại và thanh tua có đánh dấu sự kiện. Khi tua đến vị trí bất kỳ, phải tái dựng đúng cấu hình tên lửa, trạng thái hạt, vị trí máy quay và ánh sáng. Khi phát lại, phải đặt lại toàn bộ chuỗi một cách sạch sẽ.
-Giữ giao diện tối giản và không gây vướng mắt. Cho phép ẩn giao diện khi ghi hình.
-
-CHẤT LƯỢNG KỸ THUẬT
-Sử dụng hoạt ảnh độc lập với tốc độ khung hình và hệ thống hạt hiệu quả. Tái sử dụng hình học và vật liệu khi phù hợp, xử lý đúng việc thay đổi kích thước, đồng thời cân bằng độ chi tiết hình ảnh với hiệu năng mượt mà.
-
-Kiểm thử tệp HTML hoàn chỉnh trên trình duyệt máy tính. Kiểm tra console và chụp ảnh màn hình tại các thời điểm khởi động, cất cánh, tách tầng và triển khai vệ tinh. Khắc phục lỗi tải, hiện tượng cắt hình, vấn đề hình học, lỗi tua đến vị trí bất kỳ và bố cục máy quay kém trước khi bàn giao tệp.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
-
-ART DIRECTION
-Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
-ROCKET AND LAUNCH PLATFORM
-Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
-
-Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
-LAUNCH SEQUENCE
-Create an approximately 46-second sequence:
-
-Establishing camera move around the platform.
-
-Service arms and strongback retract.
-Engines ignite, illuminating the rocket, platform, and nearby water.
-Smoke spreads across the deck as the rocket lifts off and accelerates.
-The camera follows the climb from the atmosphere toward space.
-The first stage separates and falls away.
-The second-stage engine ignites.
-The fairing halves separate, revealing a satellite.
-The engine shuts down, the satellite deploys, and its solar panels unfold.
-Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
-Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
-OCEAN, ATMOSPHERE, AND EFFECTS
-Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
-Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
-
-CAMERA AND INTERACTION
-Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
-
-Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
-Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
-
-TECHNICAL QUALITY
-Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
-
-Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103303303358534021) · [Bài đăng gốc](https://x.com/Artless101/status/2103303449831964679) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103257687492374597"></a>
-
-### Vương quốc trung cổ tương tác cho Claude Opus 5.5
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Vương quốc trung cổ tương tác cho Claude Opus 5.5"></a>
-
-**Prompt**
-
-```text
-Xây dựng vương quốc trung cổ của riêng bạn.
-Vương quốc của bạn đại diện cho Claude Opus 5.5. Thiết kế một lâu đài tráng lệ lấy cảm hứng từ lịch sử, thể hiện bản sắc của mô hình này qua kiến trúc, huy hiệu, màu sắc và bầu không khí. Bạn được toàn quyền sáng tạo trong một bối cảnh trung cổ đáng tin.
-Đừng chỉ đặt một logo lên một lâu đài chung chung. Hãy tạo cho vương quốc một đặc trưng kiến trúc riêng biệt và bản sắc hình ảnh nhất quán. Tự thiết kế huy hiệu, màu sắc hoàng gia và một biểu tượng huy hiệu nguyên bản. Hiển thị chúng trên các lá cờ động, khiên, vật trang trí ở cổng và trang phục của lính canh lâu đài. Đặt tên vương quốc phía trên lối vào chính.
-Tạo một cảnh 3D tương tác giàu chi tiết bằng Three.js và WebGL. Đóng gói toàn bộ trong một tệp HTML độc lập có thể mở trực tiếp bằng Chrome.
-LÂU ĐÀI
-Xây dựng một pháo đài thuyết phục với tháp chính ở trung tâm, các tháp canh, tường thành có chòi canh, tường bao, cổng thành ấn tượng, cầu kéo hoạt động được và sân trong.
-Mô hình hóa kỹ lưỡng các mảng đá, cửa sổ vòm, cửa gỗ, kết cấu mái, cầu thang, ban công, phụ kiện sắt và những chi tiết kiến trúc nhỏ. Hãy làm cho các công trình đáng tin: tháp cần có nội thất hoặc chiều sâu thuyết phục, cầu thang phải kết nối với các tầng có thể tiếp cận, còn cầu phải có hệ thống đỡ phù hợp.
-Bao quanh lâu đài bằng một phong cảnh hấp dẫn phù hợp với vương quốc của bạn: vách đá, đồi núi, sông, hào nước, rừng hoặc một ngôi làng nhỏ. Tạo bố cục mạnh, đẹp mắt từ nhiều góc nhìn.
-SỰ SỐNG VÀ TƯƠNG TÁC
-Thổi sức sống vào vương quốc với lính canh tuần tra trên tường thành, dân làng di chuyển trong sân, cờ phấp phới nhẹ, khói từ ống khói, chim chóc và đèn lồng chập chờn.
-Cho phép người xem:
-Mở và đóng cầu kéo cùng cổng chính.
-Theo dõi một lính canh đang tuần tra.
-Chuyển đổi giữa góc nhìn toàn cảnh điện ảnh, sân trong và tường thành.
-Tự do xoay và thu phóng.
-Chuyển đổi giữa ban ngày, hoàng hôn và ban đêm.
-Giữ nhân vật trên các bề mặt có thể đi lại. Ngăn họ đi xuyên qua tường, cửa hoặc lẫn vào nhau.
-ÁNH SÁNG VÀ BẦU KHÔNG KHÍ
-Tạo ánh sáng điện ảnh làm nổi bật kiến trúc một cách rõ ràng. Sử dụng bóng đổ mềm, chiều sâu không khí, mặt nước thuyết phục khi phù hợp và hậu kỳ tiết chế.
-Vào ban đêm, thắp sáng cửa sổ, đuốc và đèn lồng nhưng vẫn giữ đủ khả năng quan sát để người xem thưởng thức lâu đài.
-Hướng đến một tác phẩm 3D tinh tế, hoàn thiện, có kiến trúc đặc trưng và dồi dào chi tiết. Tránh tạo một tập hợp các khối hình cơ bản lộ liễu hoặc những tòa tháp lặp lại mà không có mục đích kiến trúc.
-CHẤT LƯỢNG KỸ THUẬT
-Tạo asset theo quy trình ở mức tối đa trong thực tế. Nhúng kết cấu bề mặt và các asset khác vào bên trong HTML. Không cần máy chủ cục bộ hay bước build.
-Sử dụng instancing và gộp hình học khi phù hợp. Đảm bảo animation và tương tác camera mượt mà. Cung cấp giao diện tiếng Anh tối giản, tinh tế cùng một nút để ẩn giao diện.
-Thực sự kiểm thử kết quả trên Chrome máy tính. Chụp ảnh màn hình, kiểm tra console, thử mọi tương tác và sửa các lỗi render, vật thể lơ lửng, giao cắt hình học cùng các vấn đề về camera.
-Hãy biến nơi này thành một lâu đài mà mọi người có thể nhận ra là vương quốc CỦA BẠN ngay cả trước khi đọc tên.
-Trả về tệp HTML độc lập đã hoàn thiện.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build your own medieval kingdom.
-Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
-Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
-Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
-THE CASTLE
-Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
-Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
-Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
-LIFE AND INTERACTION
-Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
-Let the viewer:
-Open and close the drawbridge and main gate.
-Follow a guard on patrol.
-Switch between a cinematic overview, the courtyard and the battlements.
-Rotate and zoom freely.
-Change between daylight, sunset and night.
-Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
-LIGHTING AND ATMOSPHERE
-Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
-At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
-Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
-TECHNICAL QUALITY
-Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
-Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
-Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
-Make this a castle people would recognize as YOUR kingdom, even before reading its name.
-Return the completed standalone HTML file.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103257687492374597) · [Bài đăng gốc](https://x.com/vib3coded/status/2103257873203462412) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103211135214256350"></a>
-
-### Trải nghiệm Three.js mùa thu mù sương có thể khám phá
-
-[Simonas](https://x.com/SimonasLTU1) · 2026-09-24 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103211135214256350"><img src="../assets/previews/706c5649f5ce9b0b009e404ab0a46643cf70d843a07f65614e04e500a4b5e95a.webp" width="840" loading="lazy" alt="Trải nghiệm Three.js mùa thu mù sương có thể khám phá"></a>
-
-**Prompt**
-
-```text
-Tôi muốn bạn tạo một trải nghiệm Three.js có thể khám phá trong một tệp HTML/CSS/JS duy nhất, với bầu không khí mù sương, mưa rơi, đậm chất mùa thu, huyền bí và hoài niệm.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-I want you to create me a misty, rainy, autumn-like mysterious atmosphere, nostalgic experience in an explorable Three.js in a single html/css/js file.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103211135214256350) · [Bài đăng gốc](https://x.com/SimonasLTU1/status/2103211135214256350) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103187935759655167"></a>
-
-### Hướng Bắc: Hành trình tương tác trên thuyền dài Viking
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103187935759655167"><img src="../assets/previews/48e0716078acc3aca536b8bf5ccded8136f7cd221a6b143ffbb7af62bd0375b3.webp" width="840" loading="lazy" alt="Hướng Bắc: Hành trình tương tác trên thuyền dài Viking"></a>
-
-**Prompt**
-
-```text
-Tạo “Northbound” – một hành trình 3D tuyệt đẹp, có tính tương tác qua vịnh hẹp Bắc Âu trên một chiếc thuyền dài Viking được tái hiện chi tiết.
-
-Xây dựng một cảnh thời gian thực thực sự bằng Three.js và WebGL, được cung cấp dưới dạng một tệp HTML độc lập duy nhất. Đây phải là trải nghiệm trình duyệt có thể khám phá, không phải video dựng sẵn hay hình minh họa phẳng.
-
-ĐỊNH HƯỚNG HÌNH ẢNH
-
-Hướng đến một môi trường trau chuốt, mang tính điện ảnh, với vật liệu chân thực, tỷ lệ tự nhiên và bảng màu tiết chế. Tránh phong cách hoạt hình hoặc low-poly.
-
-Một chiếc thuyền dài bằng gỗ lướt qua làn nước xanh lục lam sâu, giữa những vách đá sừng sững, rừng rậm, thác nước và các khu định cư Bắc Âu nhỏ. Sử dụng phối cảnh khí quyển, sương mù nhẹ, bóng đổ mềm và chiều sâu thuyết phục. Hãy tạo ra những góc nhìn đẹp trong suốt hành trình, không chỉ từ vị trí camera ban đầu.
-
-THUYỀN DÀI
-
-Dựng một thân thuyền chi tiết, kín nước, với các ván gỗ chồng lên nhau, thớ gỗ lộ rõ, sườn thuyền, băng ghế và khoang bên trong liền mạch.
-Thêm mũi thuyền chạm khắc hình rồng, buồm vải sọc, cột buồm, dây thừng, khiên, vật dụng và những chiếc đèn lồng tỏa ánh sáng ấm.
-Đưa vào các hành khách và người chèo Viking có tỷ lệ cân đối, trang phục nhiều lớp, tư thế ngồi thuyết phục và bàn tay đặt gần mái chèo.
-Đảm bảo mọi thành phần được kết nối về mặt vật lý. Không để hành khách lơ lửng, phụ kiện giao cắt hoặc xuất hiện khoảng hở nhìn xuyên qua thân thuyền.
-Tạo hoạt ảnh mô phỏng độ nổi, chuyển động chúi-ngẩng và lắc ngang tinh tế. Buồm phải phản ứng nhẹ nhàng với gió.
-
-MẶT NƯỚC VÀ CHÈO THUYỀN
-
-Biến mặt nước thành một điểm nhấn hình ảnh trung tâm.
-
-Sử dụng shader tùy chỉnh với phản xạ phẳng, khúc xạ, điểm sáng Fresnel, khả năng hấp thụ phụ thuộc độ sâu, vùng nước nông hiển thị rõ và các lớp gợn sóng bề mặt. Phản xạ phải phản hồi chính xác theo camera chuyển động và điều kiện chiếu sáng thay đổi.
-
-Tạo vệt sóng phía sau thuyền một cách thuyết phục.
-
-Tạo hoạt ảnh cho một chu kỳ chèo hoàn chỉnh: lưỡi mái chèo đi vào nước, kéo về phía sau, nhấc lên khỏi mặt nước rồi trở lại phía trên bề mặt. Đồng bộ chuyển động này với người chèo.
-
-Tạo gợn sóng, bọt nước và các giọt nhỏ tại đúng những điểm lưỡi mái chèo tiếp xúc với nước. Vệt nước phải duy trì trong không gian thế giới và tan dần theo thời gian. Tránh để hiệu ứng xuất hiện khi mái chèo đang ở trên không.
-
-MÔI TRƯỜNG VÀ VẬT LIỆU
-
-Sử dụng địa hình chi tiết, các khối đá có hình dạng bất quy tắc, dáng cây tự nhiên, thân cây phân nhánh và từng cụm lá hoặc kim lá riêng biệt.
-
-Sử dụng vật liệu PBR với các bản đồ normal và roughness cho gỗ, đá và mặt đất. Có thể nhúng các kết cấu bề mặt được cấp phép phù hợp; hãy ghi công khi được yêu cầu.
-
-Đảm bảo địa hình dưới nước tiếp tục liền mạch bên dưới mặt nước. Không để xuất hiện đường nối sáng, khoảng hở ở bờ, thảm thực vật lơ lửng hoặc cây cối cản trở tuyến đường có thể điều khiển.
-
-CONTROLS
-
-A/D hoặc phím mũi tên: điều khiển lái sang trái và phải.
-W/S: điều chỉnh tốc độ.
-Kéo chuột: quan sát xung quanh.
-Cung cấp các chế độ camera bám theo, quỹ đạo và điện ảnh.
-Bao gồm chế độ hành trình tự động tùy chọn.
-Thêm các điều khiển tạm dừng, đặt lại, toàn màn hình và ẩn giao diện.
-Hỗ trợ điều khiển lái và tốc độ bằng cảm ứng trên thiết bị di động.
-Ngăn thuyền đi xuyên qua đất liền và đá.
-
-KHÔNG KHÍ VÀ GIAO DIỆN
-
-Cung cấp ba thiết lập chiếu sáng chuyển tiếp mượt mà: Buổi sáng, Nhiều mây và Ánh trăng.
-
-Thêm tùy chọn âm thanh môi trường của nước, gió, chim và tiếng chèo. Âm thanh chỉ được bắt đầu sau khi người dùng tương tác.
-
-Thiết kế giao diện biên tập tối giản: “Northbound.” bằng kiểu chữ serif thanh lịch, nhãn chương tinh tế và thanh điều khiển nhỏ gọn, bán trong suốt. Giữ cho phong cảnh không bị che khuất.
-
-HIỆU NĂNG VÀ TRIỂN KHAI
-
-Sử dụng instancing, ngân sách hình học hợp lý, mức độ chi tiết theo khoảng cách và các mục tiêu phản xạ có kích thước phù hợp. Điều chỉnh chất lượng render theo thiết bị thay vì cam kết một tốc độ khung hình cố định.
-
-Cung cấp một tệp HTML duy nhất với các script và tài nguyên cần thiết được nhúng, để có thể mở trực tiếp trong trình duyệt hiện đại.
-
-Kiểm tra điều khiển lái, các chế độ camera, chuyển cảnh chiếu sáng và hoạt ảnh chèo. Quan sát thuyền từ nhiều góc độ, đồng thời kiểm tra đường bờ từ các góc nhìn thấp. Sửa lỗi giao cắt hình học, hiện tượng bất thường trong phản xạ, độ chói quá mức và lỗi trong console trước khi xem cảnh là hoàn thiện.
-
-Ưu tiên mặt nước thuyết phục, một chiếc thuyền dài được dựng tuyệt đẹp và môi trường nhất quán, thay vì bổ sung thêm nhiều đối tượng.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create “Northbound” - a beautiful, interactive 3D journey through a Nordic fjord aboard a detailed Viking longship.
-
-Build a genuine real-time scene using Three.js and WebGL, delivered as a single standalone HTML file. This must be an explorable browser experience, not a pre-rendered video or a flat illustration.
-
-VISUAL DIRECTION
-
-Aim for a polished, cinematic environment with realistic materials, natural proportions, and restrained colors. Avoid a cartoon or low-poly appearance.
-
-A wooden longship travels through deep green-blue water between towering cliffs, dense forests, waterfalls, and small Nordic settlements. Use atmospheric perspective, subtle mist, soft shadows, and convincing depth. Compose beautiful views throughout the journey, not just from the initial camera position.
-
-THE LONGSHIP
-
-Construct a detailed, watertight hull with overlapping wooden planks, visible grain, ribs, benches, and a continuous interior.
-Add a carved dragon prow, striped cloth sail, mast, ropes, shields, supplies, and warm lanterns.
-Include proportionate Viking passengers and rowers with layered clothing, believable seated poses, and hands positioned near their oars.
-Keep every component physically connected. No floating passengers, intersecting accessories, or visible gaps through the hull.
-Animate subtle buoyancy, pitch, and roll. The sail should respond gently to the wind.
-
-WATER AND ROWING
-
-Make the water a central visual feature.
-
-Use a custom shader with planar reflections, refraction, Fresnel highlights, depth-dependent absorption, visible shallow areas, and layered surface ripples. Reflections must respond correctly to the moving camera and changing lighting.
-
-Create a believable wake behind the ship.
-
-Animate a complete rowing cycle: blades enter the water, pull backward, lift out, and return above the surface. Coordinate this with the rowers’ movement.
-
-Generate ripples, foam, and small droplets at the actual blade-water contact points. Trails must remain in world space and gradually dissipate. Avoid effects appearing while the blades are in the air.
-
-ENVIRONMENT AND MATERIALS
-
-Use detailed terrain, irregular rock formations, natural tree silhouettes, branching trunks, and individual leaf or needle clusters.
-
-Use PBR materials with normal and roughness maps for wood, stone, and ground. You may embed appropriately licensed textures; include attribution where required.
-
-Ensure the underwater terrain continues beneath the surface. No bright seams, shoreline gaps, floating vegetation, or trees obstructing the navigable route.
-
-CONTROLS
-
-A/D or arrow keys: steer left and right.
-W/S: adjust speed.
-Mouse drag: look around.
-Provide follow, orbit, and cinematic camera modes.
-Include an optional automatic journey mode.
-Add pause, reset, fullscreen, and hide-interface controls.
-Support touch steering and speed controls on mobile.
-Prevent the ship from passing through land and rocks.
-
-ATMOSPHERE AND INTERFACE
-
-Provide three smoothly transitioning lighting presets: Morning, Overcast, and Moonlight.
-
-Add optional ambient water, wind, birds, and rowing sounds. Audio must begin only after user interaction.
-
-Design a minimal editorial interface: “Northbound.” in an elegant serif typeface, subtle chapter labels, and a compact translucent control bar. Keep the scenery unobstructed.
-
-PERFORMANCE AND DELIVERY
-
-Use instancing, sensible geometry budgets, distance-based detail, and appropriately sized reflection targets. Adapt rendering quality to the device instead of promising a fixed frame rate.
-
-Deliver one HTML file with scripts and required assets embedded so it can open directly in a modern browser.
-
-Test steering, camera modes, lighting transitions, and rowing. Inspect the ship from multiple angles and check the shoreline from low viewpoints. Fix geometry intersections, reflection artifacts, excessive glare, and console errors before considering the scene finished.
-
-Prioritize convincing water, a beautifully constructed longship, and a cohesive environment over adding more objects.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103187935759655167) · [Bài đăng gốc](https://x.com/vib3coded/status/2103189762672611675) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103145567945986461"></a>
-
-### Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu
-
-[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu"></a>
-
-**Prompt**
-
-```text
-Hãy tạo bằng three.js một video ngắn dọc có độ phân giải 1080×1920, tốc độ 30 khung hình/giây và thời lượng khoảng 36 giây. 
-
-【Tên tác phẩm】
-Khoảng trống
-
-【Trải nghiệm muốn truyền tải】
-Đây là một video không xuất hiện bất kỳ nhân vật nào, giúp người xem cảm nhận sự đánh mất thời gian vì bị cuốn vào việc tối ưu hóa, cũng như cảm giác cuộc sống được lấp đầy bởi ánh sáng phong phú ngay khoảnh khắc tìm lại khoảng trống. Ở cảnh cuối, ánh sáng kính màu hiện lên trên toàn bộ sàn, tạo khoảnh khắc khiến người xem bất giác nín thở.
-
-【Bối cảnh】
-・Nội thất một thánh đường bằng đá mờ tối. Trên bức tường phía trước chỉ có duy nhất một cửa sổ hình vòm nhọn, cao 15 m và rộng 10 m
-・Từ bên ngoài cửa sổ, một luồng sáng mạnh chiếu vào theo góc 45 độ, đổ hình cửa sổ xuống sàn đá
-・Cửa sổ lắp kính màu với Đức Mẹ ở trung tâm, hai thiên thần dang rộng cánh ở hai bên và một cửa sổ hoa hồng ở phía trên. Thiết kế phải là nguyên bản, không mô phỏng tác phẩm có sẵn, với bố cục đối xứng
-
-【Diễn biến theo thời gian】
-0–3 giây: Ánh sáng chiếu qua cửa sổ vẫn là ánh sáng trắng, chưa có màu. Trên sàn xuất hiện một mảng sáng trắng dịu
-3–11 giây: Những khối lập phương màu xám khắc các từ như “Bận rộn”, “Tối ưu hóa”, “Khẩn cấp”, “Hạn chót” liên tiếp bay từ tiền cảnh vào, lấp kín cửa sổ. Tốc độ bay ngày càng tăng, và căn phòng càng tối khi cửa sổ bị che kín
-11–14 giây: Cửa sổ bị bịt kín hoàn toàn, không gian chìm vào bóng tối và im lặng
-14–19 giây: Chỉ một khối “Bận rộn” bật khỏi cửa sổ, rơi xuống rồi tan biến thành những hạt sáng. Qua khoảng trống vừa mở, một tia sáng rực rỡ nhiều màu chiếu vào
-19–26 giây: Bắt đầu từ khoảng trống đầu tiên, các khối lần lượt bật ra theo hiệu ứng dây chuyền. Mỗi khi có thêm một khoảng trống, các cột sáng nhiều màu lại xuất hiện, để lộ dần lớp kính màu bị che khuất
-26–33 giây: Tất cả các khối biến mất. Máy quay xuyên qua những cột sáng rồi bay lên, nhìn thẳng xuống sàn từ phía trên. Trên toàn bộ mặt sàn, kính màu hình Đức Mẹ và các thiên thần được chiếu thành những mảng ánh sáng rực rỡ
-33–36 giây: Toàn bộ khung hình được bao phủ bởi ánh sáng chói lòa. Dòng chữ cuối cùng hiện lên rồi video khép lại trong tĩnh lặng
-
-【Lời thoại (chữ Minh triều, hiện lên và biến mất nhẹ nhàng)】
-・“Mỗi ngày, nhanh hơn nữa.”
-・“Hiệu quả hơn nữa.”
-・“Đến khi nhận ra, ánh sáng đã không còn lọt vào.”
-・“Thử buông bỏ một thứ.”
-・“Ánh sáng sẽ lọt vào từ nơi vừa trống.”
-・“Ánh sáng ấy phong phú hơn trước.”
-・Cuối cùng, hiện lớn: “Sự phong phú nảy sinh từ khoảng trống”
-
-【Ánh sáng và chất liệu】
-・Các cột sáng mang màu của từng vị trí trên kính màu, còn bụi trong không khí lấp lánh
-・Hình chiếu trên sàn phải phản ánh chính xác những ô cửa sổ đang để trống (nơi có khối sẽ trở thành vùng bóng tối)
-・Các khối có màu xám mờ, vô cơ. Chữ được khắc màu trắng
-・Phần đầu có tông lạnh, không màu; phần sau chuyển sang đỏ, xanh lam và vàng như đá quý. Sự tương phản màu sắc này phải truyền tải cảm giác “trở nên phong phú hơn”
-
-【Điều kiện kỹ thuật】
-・Tạo hình ảnh họa tiết kính màu, sau đó tính toán ánh sáng trên sàn, các cột sáng và phần hiển thị trên cửa sổ từ cùng một họa tiết để bảo đảm khớp chính xác
-・Tiến thời gian chính xác theo từng bước 1/30 giây, xuất từng khung hình một rồi ghép thành MP4
-
-【Hoàn thiện】
-Hãy render thực tế và kiểm tra từng cảnh, sau đó chỉnh sửa trước khi bàn giao để bảo đảm họa tiết kính màu khi chiếu trên sàn vẫn được nhận ra là Đức Mẹ và các thiên thần, chữ có thể đọc rõ và chuyển động không bị đột ngột.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
-
-【作品名】
-余白
-
-【見せたい体験】
-効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
-
-【舞台】
-・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
-・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
-・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
-
-【時間の構成】
-0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
-3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
-11〜14秒：窓は完全にふさがれ、闇と静寂
-14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
-19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
-26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
-33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
-
-【言葉（明朝体、控えめに浮かんでは消える）】
-・「毎日、もっと速く。」
-・「もっと、効率よく。」
-・「気づけば、光が入らなくなっていた。」
-・「ひとつ、手放してみる。」
-・「空いたところから、光が入る。」
-・「その光は、前より豊かだった。」
-・最後に大きく：「豊かさは余白に宿る」
-
-【光と質感】
-・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
-・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
-・ブロックは無機質なマットグレー。言葉は白く刻印されている
-・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
-
-【技術条件】
-・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
-・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
-
-【仕上げ】
-各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103145567945986461) · [Bài đăng gốc](https://x.com/AGIOyaZ/status/2103145567945986461) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103144530157687114"></a>
-
-### Game phong cách Genshin Impact lấy bối cảnh San Francisco
-
-[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Game phong cách Genshin Impact lấy bối cảnh San Francisco"></a>
-
-**Prompt**
-
-```text
-Xây dựng một game phong cách Genshin Impact lấy bối cảnh San Francisco.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a Genshin Impact–style game set in San Francisco.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103144530157687114) · [Bài đăng gốc](https://x.com/every/status/2103144530157687114) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103116235009347650"></a>
-
-### Phim điện ảnh về Trận Austerlitz
-
-[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Phim điện ảnh về Trận Austerlitz"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
-
-**Prompt**
-
-```text
-Tạo một video điện ảnh dài 4–5 phút về Trận Austerlitz (1805), được xây dựng hoàn toàn bằng mã.
-
-Nghiên cứu kỹ trận đánh và tự quyết định cách kể chuyện, xây dựng nhịp độ, giải thích chiến lược cũng như trực quan hóa các diễn biến. Tôi muốn tác phẩm chính xác về lịch sử, giàu kịch tính, dễ hiểu và đặc biệt ấn tượng về mặt hình ảnh.
-
-Hãy dùng các bức tranh đính kèm làm nguồn cảm hứng hình ảnh, không phải yêu cầu bắt buộc về phong cách. Tôi yêu thích quy mô, bầu không khí, khói, bầu trời đầy kịch tính, kỵ binh, những đội hình đông đảo, phong cảnh và cảm giác hỗn loạn trong tranh. Hãy tìm cách chuyển tải cảm giác đó bằng mã — nhưng nếu có thể tạo ra một ngôn ngữ hình ảnh mạnh mẽ hơn, hãy làm vậy.
-
-Đừng để tác phẩm mang cảm giác của một infographic hoặc game chiến thuật thông thường. Đây phải là một bộ phim lịch sử mang tính điện ảnh, chỉ khác ở chỗ được kết xuất bằng mã.
-
-Bạn hoàn toàn có quyền kiểm soát sáng tạo. Hãy khiến tôi bất ngờ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
-
-Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
-
-Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
-
-Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
-
-You have complete creative control. Surprise me.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103116235009347650) · [Bài đăng gốc](https://x.com/WinterArc2125/status/2103116689944502720) · [Mã nguồn](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103106070549757960"></a>
-
-### Dựng tháp Eiffel bằng Three.js
-
-[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Dựng tháp Eiffel bằng Three.js"></a>
-
-**Prompt**
-
-```text
-dựng tháp Eiffel bằng Three.js.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build the Eiffel Tower in Three.js.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103106070549757960) · [Bài đăng gốc](https://x.com/0xPascual/status/2103106070549757960) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="crazy-tanks-3d-island-artillery"></a>
-
-### Crazy Tanks — Pháo binh đảo 3D
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-24 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery"><img src="../assets/previews/0ef979aa5efbee707f31ae4d18de9ec1af93017a2fe2121c0bdedf311b2cb13f.webp" width="840" loading="lazy" alt="Crazy Tanks — Pháo binh đảo 3D"></a>
-
-**Prompt**
-
-```text
-1. Mục tiêu dự án
-Xây dựng Crazy Tanks — Wild Tides, một game pháo binh theo lượt có thể chơi được và thực sự ba chiều trên một hòn đảo nhiệt đới. Người chơi điều khiển một xe tăng nhỏ, đọc hướng gió, canh thời điểm nạp lực từ 0 và định hình lại chiến trường bằng đạn pháo. Hỗ trợ chơi đơn đấu với AI và chơi chuyền lượt cục bộ, với chế độ mặc định ba xe tăng hỗn chiến và tùy chọn đấu tay đôi giữa hai xe. Xe tăng cuối cùng còn sống sẽ chiến thắng. Sử dụng gameplay và ảnh chụp màn hình tham chiếu hiện tại làm mục tiêu hình ảnh.
-
-2. Phong cách hình ảnh
-Sử dụng camera phối cảnh và hình học 3D có thể xoay tự do, không dùng sprite phẳng hay góc nhìn ngang cố định. Tạo một tiểu cảnh mô hình thu nhỏ dưới nắng, với các xe tăng bo tròn màu ngọc bích, cam san hô và xanh tím, cát màu kem, cỏ xanh nhạt, nước xanh ngọc phản chiếu, bóng mềm và lớp sương khí quyển nhẹ ở xa. Giữ nguyên dáng viền riêng biệt của ba xe tăng cùng các nòng pháo tương ứng. Đặt một bảng giáp/trạng thái tròn nhỏ màu kem phía trên chiến trường và một bảng điều khiển bo tròn màu xanh teal đậm bên dưới. Màu vàng biểu thị lực tham chiếu và thao tác khai hỏa; màu mint biểu thị lực nạp thực tế và trạng thái phe ta. Đặt nút chuyển giao diện Tripo / Three.js ở vị trí nổi bật phía trên, mặc định dùng asset Tripo. Khi chuyển giao diện, phải giữ nguyên trạng thái trận đấu và vật lý. Sử dụng các nét gạch teal mảnh, cách đều trong không gian màn hình và vòng tròn tiếp đất tiết chế; không phản chiếu đồ họa ngắm bắn xuống mặt nước.
-
-3. Thế giới và bối cảnh
-Sử dụng một hòn đảo địa hình độ cao có thể phá hủy, kích thước xấp xỉ 260 × 184 mét, được bao quanh bởi đại dương ở một mực nước biển cố định. Đặt các xe tăng ban đầu cách xa nhau trên nền đất ổn định; rải đá, cây cọ, xương rồng và các thùng tiếp tế có thể thu thập. Những đảo nhỏ trang trí tạo chiều sâu cho hậu cảnh và không được thay thế địa hình chính có thể phá hủy. Vụ nổ làm biến dạng bề mặt và có thể đào xuống dưới mực nước biển. Giữ màu bờ biển và bọt nước trên cùng một mặt nước để tránh các mặt phẳng chồng lấn và hiện tượng nhấp nháy. Chiếu số xe tăng từ vị trí trong thế giới ở mọi khung hình được render. Cung cấp góc nhìn toàn bộ quỹ đạo, xe tăng, xoay quanh và chiến thuật từ trên cao. Góc nhìn quỹ đạo phải đưa xe tăng khai hỏa, đường cong và điểm tiếp đất ước tính vào khoảng trống giữa HUD và bảng điều khiển. Trước mỗi phát bắn, hiển thị xe tăng khai hỏa trong khoảng 0,8 giây, dừng lại ở nòng pháo rồi bám theo đạn. Tương tác camera thủ công sẽ hủy chế độ bám theo điện ảnh.
-
-4. Danh mục asset
-Sử dụng các vị trí model ổn định và cho phép truy cập riêng từng model thay thế:
-- jade-body: thân xe tăng bánh xích màu xanh lá bo tròn, hình khiên; thân mặc định của người chơi. jade-cannon: nòng pháo jade tương ứng, có lòng nòng tối màu và điểm nhấn vàng, được điều khiển khớp độc lập.
-- ember-body: thân xe bọc giáp nhọn màu cam san hô, dáng cơ khí thấp. ember-cannon: nòng pháo màu cam dài hơn tương ứng, với đầu nòng tối màu.
-- bolt-body: thân xe bánh xích công nghiệp màu xanh tím, giáp ghép góc cạnh. bolt-cannon: nòng pháo xanh dày tương ứng.
-- shell: đạn pháo bằng đồng thau, đầu thuôn tối màu và điểm nhấn cyan. Tái sử dụng với màu và tỷ lệ riêng theo từng vũ khí.
-- crate: thùng tiếp tế bọc giáp màu vàng, ký hiệu cyan và các góc gia cố; thu thập để nhận 20 giáp, tối đa 100.
-- rock: cụm đá sa thạch bo tròn màu ấm; lặp lại với nhiều tỷ lệ khác nhau và dùng proxy va chạm riêng.
-- palm: thân cây cong và tán lá xanh nhiều lớp; lặp lại làm thảm thực vật trên đảo.
-- cactus: cây xương rồng xanh nhỏ gọn với các chi tiết hoa nhỏ; lặp lại trên địa hình khô.
-- islet: đảo nền tròn phủ cỏ, viền đá/cát màu nhạt; lặp lại ở phía ngoài đấu trường.
-Ưu tiên ba cặp thân/nòng tương ứng, sau đó đến đạn/thùng và các vật thể môi trường. Giữ biến dạng địa hình, đại dương, bọt nước, lửa, khói, sóng xung kích, mảnh vỡ, đồ họa ngắm bắn, ánh sáng, UI và proxy va chạm ở dạng thủ tục. Các bộ phận thân và nòng tương ứng dùng chung một thiết kế tham chiếu và tỷ lệ. Đặt pivot của nòng tại khớp cơ khí, căn trục trước theo +X và dùng đầu nòng hiển thị làm điểm phóng vật lý. Thân xe bám theo độ dốc bằng quaternion; hướng ngắm của tháp pháo vẫn là hướng trong không gian thế giới. Giữ nguyên texture PBR nguồn và các đường nối UV. Tách model tải xuống ở độ phân giải đầy đủ khỏi bản sao tối ưu hóa cho runtime game; thông tin tham chiếu và nguồn gốc file phải xác định đúng nguồn tạo.
-
-5. Gameplay và phản hồi
-Mỗi xe tăng còn hoạt động nhận 18 mét quãng đường di chuyển khi lượt bắt đầu. WASD và pad di chuyển theo tương quan với màn hình; phím mũi tên và pad ngắm điều chỉnh phương vị và góc nâng. Thanh trượt cung cấp phương vị, góc nâng 10–80 độ và lực tham chiếu 0–100. Chọn đối thủ chỉ khiến xe quay mặt về phía đó; không được tự giải bài toán bắn.
-Cung teal ước tính lực tham chiếu đã chọn khi KHÔNG có gió. Giữ cố định mức tham chiếu và dấu mốc vàng trong lúc nạp. Nhấn giữ Fire, Space hoặc Enter trên nút Fire đang được focus để bắt đầu lực thực tế từ 0 mỗi lần; tăng 18 điểm phần trăm mỗi giây, giữ ở mức 100 và chỉ khai hỏa đúng một lần khi thả nút, sử dụng lực thực tế tại thời điểm đó. Chạm nhanh sẽ bắn một phát yếu. Dải vàng trong phạm vi 3 điểm phần trăm chỉ là phản hồi hình ảnh, không tự làm tròn hay hiệu chỉnh ngầm. Hủy khi con trỏ bị hủy, cửa sổ mất focus hoặc trang không còn hiển thị. Khóa thay đổi di chuyển, mục tiêu và ngắm trong lúc nạp. Điều khiển bàn phím của input dạng range không được đồng thời xoay tháp pháo. Lực 0 biểu thị tốc độ phóng thấp nhất, không phải viên đạn đứng yên.
-Mũi tên và các vệt gió trôi nhìn thấy cho biết hướng gió đẩy viên đạn. Gắn nhãn cường độ gió và mét trên giây; nhấp vào thẻ gió để xem giải thích. Gió thổi sang trái nghĩa là người chơi nên ngắm lệch sang phải một chút. Gió mạnh hơn và thời gian bay lâu hơn sẽ tạo độ lệch lớn hơn. Gió giữ nguyên trong suốt một phát bắn và thay đổi sau mỗi lượt. Không bao giờ tự động bù gió trong phần xem trước của người chơi. Chỉ dự đoán gần đúng điểm tiếp đất trên địa hình; không hứa hẹn va chạm với xe tăng/đá, tách cụm hay bật nảy trong phần xem trước.
-Cung cấp sáu loại đạn: HE không giới hạn; đạn chùm tách thành năm bom con rơi xuống; Seismic tạo hố rộng tối đa 28 mét và sâu 13 mét; đạn ricochet nảy hai lần; mỗi xe tăng có một viên Cataclysm, tạo hố rộng tối đa 46 mét và sâu 22 mét; và Incendiary để lại vùng lửa bán kính 12 mét. Lửa gây 8 sát thương ở cuối mỗi một trong sáu lần kết thúc hành động; ra khỏi vùng lửa sẽ tránh được sát thương và các vùng chồng lấn không cộng dồn. Nước biển dập tắt lửa. Toàn bộ xe tăng, bao gồm cả nòng đã nâng, bị loại ngay lập tức khi chìm hoàn toàn dưới nước. Hiển thị sát thương thực tế, lượng giáp mất đi, địa hình sụp lở, nước bắn và kết quả bị loại.
-Sử dụng các lớp cầu lửa, vòng xung kích mở rộng, tia lửa phát sáng, mảnh đạn đạo, bụi và khói cùng hiệu ứng rung camera tiết chế. Sử dụng nhạc và âm thanh gốc do ElevenLabs cung cấp cho pháo, va chạm, ricochet, vụ nổ lớn, lửa và nước bắn. Bao gồm nút bật/tắt âm thanh, tạm dừng/tiếp tục, hướng dẫn, chơi lại và quay về menu. Trong lúc đạn đang bay hoặc AI đang đến lượt, cung cấp tùy chọn Back to my turn: chạy nhanh mô phỏng với cùng bước thời gian cố định và giữ nguyên mọi kết quả về sát thương, địa hình và mối nguy. Không bao giờ bỏ qua lượt nhập của người chơi cục bộ.
-
-6. Triển khai kỹ thuật
-Sử dụng Three.js với ES modules và Vite, font được đóng gói cục bộ, Web Audio cho hiệu ứng và phần tử audio HTML cho nhạc lặp. Giữ tài nguyên cùng origin và hỗ trợ bản build tĩnh. Sử dụng renderer phối cảnh với khử răng cưa, ngân sách hợp lý cho bóng và hậu kỳ, đồng thời giải phóng đúng cách hình học/vật liệu tạm thời. Phân biệt phần trang trí của model với va chạm gameplay.
-Giữ vật lý xác định, độc lập với quá trình render, dùng đơn vị mét/giây, gia tốc trọng trường 9.81 m/s² và bước cố định 1/120 giây. Sử dụng va chạm quét liên tục cho đạn tốc độ cao với mặt đất, nước, xe tăng và đá; áp dụng xung lực vụ nổ cùng trọng lực lên xe tăng bị hất. Tính vị trí phóng từ transform nòng riêng của từng xe tăng. Chế độ phát bình thường và tua nhanh phải gọi cùng các hàm cập nhật mô phỏng. Sát thương và phản ứng với gió là luật game được cách điệu, không phải trình mô phỏng vụ nổ kỹ thuật.
-Hỗ trợ UI tiếng Trung, tiếng Anh, tiếng Nhật và tiếng Hàn. Ban đầu chọn theo ngôn ngữ thiết bị; thiết bị tại Hong Kong, Macau, Đài Loan và thiết bị dùng tiếng Trung phồn thể mặc định chọn tiếng Anh. Ghi nhớ lựa chọn rõ ràng của người dùng và cho phép hiển thị bộ chọn ngôn ngữ. Hỗ trợ bố cục desktop, điện thoại dọc và màn hình ngang thấp; menu trên màn hình ngắn có thể cuộn, vùng chạm đủ lớn, bảng điều khiển có thể thu gọn và không để các nút chồng lấn. Không yêu cầu nhập bằng bàn phím trên thiết bị cảm ứng. Đưa các hàm thay đổi state và hỗ trợ ngắm chỉ dùng khi phát triển ra khỏi bản production.
-
-7. Tiêu chí hoàn thiện
-Bàn giao source project độc lập có thể chỉnh sửa, lockfile, hướng dẫn npm dev/build và bản preview tĩnh hoạt động. Bám sát ảnh chụp màn hình và video gameplay hiện tại, bao gồm bảng trạng thái màu kem, dấu mốc tham chiếu vàng cố định, lực thực tế bắt đầu từ 0 và cách trình bày xe tăng/hòn đảo 3D hoàn toàn. Kiểm tra lần khởi chạy đầu tiên, tải model, một chu kỳ lượt hoàn chỉnh, hành vi của từng loại đạn, tạm dừng, chơi lại và kết quả thắng/thua thực tế. Xác nhận chuyển giao diện vẫn giữ nguyên state, đồng thời thao tác hủy bằng bàn phím/cảm ứng không gây khai hỏa. Trong một phát bắn kiểm thử rõ ràng khi không có gió, thả nút ở lực tham chiếu phải tiếp đất gần vòng tròn tham chiếu; gió ngang ngược chiều phải làm viên đạn thực tế lệch thấy rõ trong khi vòng tròn đó không đổi. Kiểm tra hoạt động ở 30/60/144 Hz, va chạm tốc độ cao, hố sâu, thời điểm lửa tắt, loại xe khi chìm hoàn toàn và sự tương đương kết quả lượt giữa chế độ bình thường/tua nhanh. Kiểm tra bố cục desktop và màn hình hẹp ở cả bốn ngôn ngữ; phân biệt việc giả lập trình duyệt với kiểm thử trên thiết bị thật. Xác thực trang đã triển khai và media liên kết, không chỉ bản build cục bộ.
-
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/crazy-tanks-3d-island-artillery) · [Bản demo](https://super-tanks-aftershock.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103087766662009118"></a>
-
-### Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius
-
-[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius"></a>
-
-**Prompt**
-
-```text
-Tôi muốn bạn hình dung một câu chuyện khéo léo quảng bá Grid Genius. Câu chuyện thậm chí không nhất thiết phải có Grid Genius, nhưng cần phù hợp với ứng dụng của chúng tôi và giúp thu hút thêm sự chú ý khi đăng trên mạng xã hội. Sau đó, hãy dùng Three.js/JavaScript để tạo một hoạt ảnh hoàn chỉnh, chất lượng như phim Pixar, dựa trên câu chuyện bạn đã hình dung.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118) · [Bài đăng gốc](https://x.com/Anilraok/status/2103087766662009118) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

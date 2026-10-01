@@ -28,6 +28,18 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [怪獸城市戰鬥](#kaiju-city-battle-2096251574918013135)
+- [互動式超級高鐵演示](#interactive-hyperloop-demo-2096250748099068377)
+- [滾動驅動的 3D 工作室網站](#scroll-driven-3d-studio-website-2096245759121277132)
+- [Komorebi 河流皮划艇](#komorebi-river-kayaking-2096244208533455049)
+- [折射玻璃瓶產品敘事](#refractive-bottle-product-story-2096243989439713677)
+- [記憶扭蛋機](#memory-capsule-machine-2096241295949975602)
+- [完整起降流程的瀏覽器飛行模擬器](#gpt-6-astra-2096236137266512181)
+- [程式化拿破崙半身像](#procedural-napoleon-bust-2096234355395903672)
+- [鐵路車站大廳](#railway-station-concourse-2096226711222546461)
+- [軌道交會對接模擬](#orbital-rendezvous-simulator-2096225621303042258)
+- [動畫引導微縮場景](#animated-onboarding-diorama-2096222790894661841)
+- [可拆解的人體解剖模型](#exploded-interactive-human-anatomy-2096221988763173186)
 - [困在立方體中的風暴](#a-storm-trapped-in-a-cube-2096220264413409648)
 - [搭配自製 3D 素材的 Roblox 卡丁車遊戲](#gpt-6-astra-2096219700879331665)
 - [騎自行車的鵜鶘互動場景](#gpt-6-astra-2096213850383331489)
@@ -66,20 +78,419 @@
 - [Zork 轉 3D 動作冒險](#zork-as-a-3d-action-adventure-2096047660662722620)
 - [可關閉橋樑的配送網路](#delivery-network-with-bridge-closures-2096042360513904742)
 - [演化中的 WebGL 生態系統](#evolving-webgl-ecosystem-2096040448477515874)
-- [可探索的泰姬陵](#explorable-taj-mahal-2096035962824335798)
-- [帶演講地球儀的個人 3D 作品集](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
-- [Gogh Strike 多人射擊](#gogh-strike-multiplayer-fps-2096013280519016608)
-- [依照參考資料重建 TP-7 錄音機](#tp-7-recorder-reference-model-2096013228090245181)
-- [特斯拉 Model X 爆炸檢視](#tesla-model-x-exploded-view-2096009146248122416)
-- [可點選彈跳的 WebGPU 果凍](#bouncy-webgpu-jelly-2096008241104711698)
-- [Roblox 動漫競技格鬥](#anime-arena-fighter-in-roblox-2095999578419929412)
-- [平面圖與 3D 漫遊同步呈現](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
-- [可在瀏覽器互動的河流場景](#interactive-browser-river-scene-2095993826569502785)
-- [大教堂動作戰鬥場](#cathedral-hack-and-slash-arena-2095988972879335792)
-- [用現有素材包建立 Unity 城市場景](#gpt-6-astra-2095987508475834641)
-- [土衛六互動科學展覽](#interactive-titan-science-exhibit-2095986941753712841)
 
 </details>
+<a id="kaiju-city-battle-2096251574918013135"></a>
+
+### 怪獸城市戰鬥
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135"><img src="../assets/previews/9f0f562decaa6aab120732e95764969104240ef977d3b27a8006975b551e6030.webp" width="840" loading="lazy" alt="怪獸城市戰鬥"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用生成的生物模型與音效製作怪獸風格 Three.js 遊戲，建置清晰的巨型戰鬥和體現生物尺度的環境。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/kaiju-city-battle-2096251574918013135) · [查看原文](https://x.com/majidmanzarpour/status/2096251574918013135) · [線上展示](https://stormcolossus.netlify.app/) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="interactive-hyperloop-demo-2096250748099068377"></a>
+
+### 互動式超級高鐵演示
+
+[Amir](https://x.com/hbanay98) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377"><img src="../assets/previews/8b484fb8c6578ada50d5a07783472cfde1a57c2c0d7fc9adae6961607bf2dd7d.webp" width="840" loading="lazy" alt="互動式超級高鐵演示"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置互動式 Three.js 超級高鐵演示，展示運輸艙、管道設施及系統中的執行過程。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-hyperloop-demo-2096250748099068377) · [查看原文](https://x.com/hbanay98/status/2096250748099068377) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="scroll-driven-3d-studio-website-2096245759121277132"></a>
+
+### 滾動驅動的 3D 工作室網站
+
+[ui.debbie](https://x.com/mx_debbiee) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132"><img src="../assets/previews/ad6c3689acadd9ff6816c629f9d0b38d1a87118efe245cffcc1af5d2533d887c.webp" width="840" loading="lazy" alt="滾動驅動的 3D 工作室網站"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將參考圖轉成 Three.js 場景並融入滾動驅動的工作室網站，協調鏡頭運動、文字排版與章節過渡。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/scroll-driven-3d-studio-website-2096245759121277132) · [查看原文](https://x.com/mx_debbiee/status/2096245759121277132) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="komorebi-river-kayaking-2096244208533455049"></a>
+
+### Komorebi 河流皮划艇
+
+[AJ](https://x.com/ItsmeAjayKV) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049"><img src="../assets/previews/d82f6764d5683d79e301ea3fa9302e446180ba6d6a5c4d7fd94c3fe1fbe0d07c.webp" width="840" loading="lazy" alt="Komorebi 河流皮划艇"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+製作動漫風格的 3D 河流皮划艇遊戲，讓玩家左右划槳躲避障礙，透過程式碼生成流水、風景、音樂與音效。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/komorebi-river-kayaking-2096244208533455049) · [查看原文](https://x.com/ItsmeAjayKV/status/2096244208533455049) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="refractive-bottle-product-story-2096243989439713677"></a>
+
+### 折射玻璃瓶產品敘事
+
+[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677"><img src="../assets/previews/5035befab353d257953a05cb750c98dbf629ed967a99ef3d0feaed2e2f4314b2.webp" width="840" loading="lazy" alt="折射玻璃瓶產品敘事"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+圍繞寫實 WebGL 玻璃瓶建置互動產品網站，採用折射液體、滾動旋轉與醒目文字，同時保證瀏覽器效能。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/refractive-bottle-product-story-2096243989439713677) · [查看原文](https://x.com/himanshubuildss/status/2096243989439713677) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="memory-capsule-machine-2096241295949975602"></a>
+
+### 記憶扭蛋機
+
+[Gloria Zhang](https://x.com/gloria_zwq) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602"><img src="../assets/previews/3e1c627888ad81172127c29d0304d39dfc87be148f08de6c9ffddb7bdadd8f3f.webp" width="840" loading="lazy" alt="記憶扭蛋機"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置 3D 記憶扭蛋機，轉動旋鈕釋放記憶，在 Blender 中建模機械結構，為掉落扭蛋新增可信運動和聲音。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/memory-capsule-machine-2096241295949975602) · [查看原文](https://x.com/gloria_zwq/status/2096241295949975602) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096236137266512181"></a>
+
+### 完整起降流程的瀏覽器飛行模擬器
+
+[aditya](https://x.com/adxtyahq) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 / Kimi K3 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096236137266512181"><img src="../assets/previews/d5dcda1693977ae9c0785c912263af394b200c5f291ae1c71eb699e2afeac678.webp" width="840" loading="lazy" alt="完整起降流程的瀏覽器飛行模擬器"></a>
+
+**提示詞**
+
+```text
+從零開始打造一款精緻、可遊玩的瀏覽器 3D 飛行模擬遊戲。
+
+目標是製作小巧但真正可遊玩的飛行模擬體驗，而不是靜態的 3D 場景。
+
+GAMEPLAY
+- 建立一座具備詳細跑道、滑行道、航廈／建築物、草地／地形、跑道標線／燈光、天空與雲朵的機場。
+- 在機場放置一架外觀易於辨識的客機。
+- 玩家必須能使用鍵盤操控飛機。
+- 實作油門、俯仰、滾轉、偏航與煞車。
+- 飛機必須具備基本且合理可信的飛行物理、慣性與加速度。
+- 玩家應能沿跑道加速、起飛、在機場周邊飛行、進場並降落。
+- 加入簡單目標：起飛、繞機場完成一小段飛行，並安全降落。
+- 加入墜機／失敗偵測與重新開始選項。
+
+CONTROLS
+清楚顯示操作方式：
+- W／S：俯仰
+- A／D：滾轉
+- Q／E：偏航
+- Shift／Ctrl：油門
+- 空白鍵：煞車
+
+CAMERA
+- 使用位於飛機後方、流暢的第三人稱追蹤鏡頭。
+- 飛行過程中清楚呈現飛機。
+- 鏡頭應流暢跟隨移動，並對加速度做出細微回應。
+
+HUD
+製作精緻、航空風格的 HUD，顯示：
+- 空速
+- 高度
+- 航向
+- 油門
+- 垂直速度
+- 飛行狀態
+- 目前目標
+
+加入可隱藏的精簡操作／說明面板。
+
+開始 + 結果
+建立一個開始畫面，包含：
+「飛行模擬器」
+以及醒目的「開始飛行」按鈕。
+
+成功降落後，顯示：
+- 飛行完成
+- 降落品質
+- 飛行時間
+- 最終分數
+- 再玩一次
+
+視覺品質
+讓遊戲呈現真正的遊戲質感：
+- 風格統一的 3D 視覺效果
+- 細節豐富的飛機
+- 具吸引力的機場環境
+- 良好的光照、陰影與材質
+- 雲朵／大氣效果
+- 適當加入機場建築物、車輛、標誌、樹木與其他環境細節
+- 避免場景空曠或明顯未完成
+
+FEEDBACK
+為以下項目加入實用的回饋：
+- 油門／引擎狀態
+- 起飛
+- 降落
+- 速度警告
+- 高度
+- 墜機
+- 成功降落
+
+TECHNICAL
+- 在瀏覽器中建立完整可運作的遊戲。
+- 不要留下佔位按鈕或虛假的互動功能。
+- 優先確保操控反應靈敏與效能流暢。
+- 使用任何適合且可用的網頁／3D 技術。
+
+重要：
+不要把整個任務都花在製作漂亮的靜態場景上。飛機必須真的可操控，且完整流程必須正常運作：
+
+開始 → 加速 → 起飛 → 飛行 → 進場 → 降落 → 計分 → 再玩一次
+
+完成前，請在瀏覽器中執行遊戲並自行測試完整的遊戲流程。修正你發現的操控、物理、視覺錯誤與互動問題。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a polished, playable browser-based 3D flight simulator game from scratch.
+
+The goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.
+
+GAMEPLAY
+- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.
+- Place a recognizable passenger airplane at the airport.
+- The player must be able to control the aircraft with the keyboard.
+- Implement throttle, pitch, roll, yaw and braking.
+- The aircraft must have basic believable flight physics, momentum and acceleration.
+- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.
+- Add a simple objective: take off, complete a short flight around the airport and land safely.
+- Include crash/failure detection and a restart option.
+
+CONTROLS
+Display controls clearly:
+- W/S: Pitch
+- A/D: Roll
+- Q/E: Yaw
+- Shift/Ctrl: Throttle
+- Space: Brake
+
+CAMERA
+- Use a smooth third-person chase camera behind the aircraft.
+- Keep the aircraft clearly visible during flight.
+- Camera should smoothly follow movement and respond subtly to acceleration.
+
+HUD
+Create a polished aviation-style HUD showing:
+- Airspeed
+- Altitude
+- Heading
+- Throttle
+- Vertical speed
+- Flight status
+- Current objective
+
+Include a compact controls/help panel that can be hidden.
+
+START + RESULTS
+Create a start screen with:
+"FLIGHT SIMULATOR"
+and a prominent "START FLIGHT" button.
+
+After a successful landing, show:
+- Flight completed
+- Landing quality
+- Flight time
+- Final score
+- Play Again
+
+VISUAL QUALITY
+Make it feel like a real game:
+- Cohesive stylized 3D visuals
+- Detailed aircraft
+- Attractive airport environment
+- Good lighting, shadows and materials
+- Clouds/atmosphere
+- Airport buildings, vehicles, signs, trees and other environmental details where appropriate
+- Avoid an empty or obviously unfinished scene
+
+FEEDBACK
+Add useful feedback for:
+- Throttle/engine state
+- Takeoff
+- Landing
+- Speed warnings
+- Altitude
+- Crashes
+- Successful landing
+
+TECHNICAL
+- Build the complete working game in the browser.
+- Do not leave placeholder buttons or fake interactions.
+- Prioritize responsive controls and smooth performance.
+- Use whatever appropriate web/3D technologies are available.
+
+IMPORTANT:
+Do not spend the entire task making a beautiful static scene. The aircraft MUST actually be controllable and the complete loop must work:
+
+START → ACCELERATE → TAKE OFF → FLY → APPROACH → LAND → SCORE → PLAY AGAIN
+
+Before finishing, run the game in the browser and test the entire gameplay loop yourself. Fix broken controls, physics, visual bugs and interaction issues you find.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2096236137266512181) · [查看原文](https://x.com/adxtyahq/status/2096236137266512181) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="procedural-napoleon-bust-2096234355395903672"></a>
+
+### 程式化拿破崙半身像
+
+[Le PLOUTOS](https://x.com/leploutos) · 2026-09-05 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672"><img src="../assets/previews/e92c4cb782479d4ef17ddf58253c734a5cba66a752d754265655e27dc2421e1e.webp" width="840" loading="lazy" alt="程式化拿破崙半身像"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+用 Three.js 編寫拿破崙半身像，分階段建模，從不同角度檢視並完善臉部比例和服裝細節。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-napoleon-bust-2096234355395903672) · [查看原文](https://x.com/leploutos/status/2096234355395903672) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="railway-station-concourse-2096226711222546461"></a>
+
+### 鐵路車站大廳
+
+[Wormhole404](https://x.com/0xWormhole404) · 2026-09-05 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461"><img src="../assets/previews/066d265ca18eaa5b10aef79202aa1765b1d988fcb10272211461715c95b784fd.webp" width="840" loading="lazy" alt="鐵路車站大廳"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建立具有鮮明建築節奏、可信尺度和材質的鐵路車站大廳，提供可檢視的 3D 場景與精心構圖視角。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/railway-station-concourse-2096226711222546461) · [查看原文](https://x.com/0xWormhole404/status/2096226711222546461) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="orbital-rendezvous-simulator-2096225621303042258"></a>
+
+### 軌道交會對接模擬
+
+[Alican Kiraz](https://x.com/AlicanKiraz0) · 2026-09-05 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-rendezvous-simulator-2096225621303042258"><img src="../assets/previews/862ad7b8352b7c36ea73b317d458e222148d0924b361838844331102a42e7092.webp" width="840" loading="lazy" alt="軌道交會對接模擬"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置實時軌道交會模擬，採用雙體 ECI 軌道傳播與 HCW 制導，包含六自由度姿態、燃料消耗、推力限制和對接目標。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/orbital-rendezvous-simulator-2096225621303042258) · [查看原文](https://x.com/AlicanKiraz0/status/2096225621303042258) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="animated-onboarding-diorama-2096222790894661841"></a>
+
+### 動畫引導微縮場景
+
+[Emil](https://x.com/EmilHovv) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/animated-onboarding-diorama-2096222790894661841"><img src="../assets/previews/3d4504c9da2139683b45e5fe650a4461c4ba452bd126d67b2b3b822b5cd96f81.webp" width="840" loading="lazy" alt="動畫引導微縮場景"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在 Blender 中建立引導微縮場景，並用 Three.js 呈現，以清晰核心物體和短動畫解釋使用者首次操作。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/animated-onboarding-diorama-2096222790894661841) · [查看原文](https://x.com/EmilHovv/status/2096222790894661841) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="exploded-interactive-human-anatomy-2096221988763173186"></a>
+
+### 可拆解的人體解剖模型
+
+[ashe](https://x.com/ashebytes) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186"><img src="../assets/previews/ab2aab3979760e366ca0f85e7c13aa32005f8bed8afc6f09f23b7baf6822eded.webp" width="840" loading="lazy" alt="可拆解的人體解剖模型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+製作 3D 解剖網站，讓人體分解成可單獨檢視的結構，使爆炸檢視可導航，並按有意義的系統組織部件。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/exploded-interactive-human-anatomy-2096221988763173186) · [查看原文](https://x.com/ashebytes/status/2096221988763173186) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="a-storm-trapped-in-a-cube-2096220264413409648"></a>
 
 ### 困在立方體中的風暴
@@ -884,253 +1295,6 @@ blenderを使用してデザインや見た目重視の近未来バイク、近�
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [查看原文](https://x.com/yume_arasaki/status/2096040448477515874) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="explorable-taj-mahal-2096035962824335798"></a>
-
-### 可探索的泰姬陵
-
-[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="可探索的泰姬陵"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-將泰姬陵重建為可探索的 3D 場景，優先還原比例、對稱花園、中央穹頂、宣禮塔及建築之間的關係。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/explorable-taj-mahal-2096035962824335798) · [查看原文](https://x.com/vikassabbi/status/2096035962824335798) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
-
-### 帶演講地球儀的個人 3D 作品集
-
-[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="帶演講地球儀的個人 3D 作品集"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-將肖像轉成 Blender 角色並放入編輯式 WebGL 作品集，加入標出演講活動的旋轉地球儀並整合網站資產。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [查看原文](https://x.com/HowDevelop/status/2096023793772998704) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
-
-### Gogh Strike 多人射擊
-
-[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike 多人射擊"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立後印象派風格的 5 對 5 第一人稱射擊遊戲，包含 Blender 渲染藝術家角色、清晰隊伍和完整瀏覽器多人比賽。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [查看原文](https://x.com/petergostev/status/2096013280519016608) · [專案原始碼](https://github.com/petergpt/gogh-strike) · [線上展示](https://gogh-strike.surge.sh/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
-
-### 依照參考資料重建 TP-7 錄音機
-
-[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · 資產
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="依照參考資料重建 TP-7 錄音機"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據參考圖片，使用 Three.js 重建 Teenage Engineering TP-7。對齊外形與可見操作元件，製作能從各角度檢視的 3D 模型。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [查看原文](https://x.com/ty_kra_lab/status/2096013228090245181) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
-
-### 特斯拉 Model X 爆炸檢視
-
-[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="特斯拉 Model X 爆炸檢視"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立將特斯拉 Model X 拆解為建模元件的 3D 網站，讓訪客互動檢視元件並重新組裝車輛。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [查看原文](https://x.com/ashebytes/status/2096009146248122416) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
-
-### 可點選彈跳的 WebGPU 果凍
-
-[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="可點選彈跳的 WebGPU 果凍"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用 Three.js 和 WebGPU 製作誘人的彈跳果凍，讓它在互動後自然變形與回彈，配合半透明材質和清晰燈光。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [查看原文](https://x.com/scottstts/status/2096008241104711698) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
-
-### Roblox 動漫競技格鬥
-
-[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Roblox 動漫競技格鬥"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立受動漫跨界戰鬥啟發的 Roblox 競技格鬥，利用 Blender 和可用資產製作場地與角色，實現可玩的戰鬥迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [查看原文](https://x.com/WoahWurdz/status/2095999578419929412) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
-
-### 平面圖與 3D 漫遊同步呈現
-
-[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="平面圖與 3D 漫遊同步呈現"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-使用同一組尺寸資料，製作單臥室公寓的平面圖與室內漫遊。同步顯示兩種視圖中的目前位置，並清楚標示假設的天花板高度與裝修材質。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [查看原文](https://x.com/onofumi_AI/status/2095999282088378520) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-browser-river-scene-2095993826569502785"></a>
-
-### 可在瀏覽器互動的河流場景
-
-[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="可在瀏覽器互動的河流場景"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-製作在瀏覽器中運作的互動河流場景。先完成可運作的即時水面原型，再檢視並改善視覺效果。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [查看原文](https://x.com/dangreenheck/status/2095993826569502785) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
-
-### 大教堂動作戰鬥場
-
-[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="大教堂動作戰鬥場"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在死星上方的大教堂中建置第三人稱 Three.js 動作遊戲，包含輕劍連擊、重攻擊、範圍魔法、閃避和腳步落地的雙手動畫。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [查看原文](https://x.com/superalesha/status/2095988972879335792) · [專案原始碼](https://github.com/alesha-pro/bench-portal) · [線上展示](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2095987508475834641"></a>
-
-### 用現有素材包建立 Unity 城市場景
-
-[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="用現有素材包建立 Unity 城市場景"></a>
-
-**提示詞**
-
-```text
-請為我建立一個新的 3D 城市場景。我希望場景中有多種類型、不同高度的建築物和汽車，並加入道路、看板及其他大型城市常見元素。你需要的一切資源都在這個資料夾中：Assets/ithappy/Cartoon_City_Free。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2095987508475834641) · [查看原文](https://x.com/AndrewWalko/status/2095987508475834641) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
-
-### 土衛六互動科學展覽
-
-[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="土衛六互動科學展覽"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立土星最大衛星土衛六的教育型 3D 模擬，提供可探索環境及解釋其獨特物理特徵的資訊層。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [查看原文](https://x.com/ArdaTugsat/status/2095986941753712841) · [返回案例導覽](#all-prompts)
 
 ---
 

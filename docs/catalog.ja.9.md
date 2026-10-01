@@ -28,6 +28,18 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [ガンダムに着想を得たメカのショーケース](#gundam-inspired-mecha-showcase-2095106919530930221)
+- [参考デザインから作る Three.js ポートフォリオ](#reference-driven-three-js-portfolio-2095104073590808644)
+- [操作できる F-35A 技術モデル](#interactive-f-35a-technical-model-2095094543339446572)
+- [Three.js で作る MS-06 風メカ](#three-js-ms-06-inspired-mecha-2095085944391270759)
+- [HTML ファイル一つで息づく宇宙](#living-universe-in-one-html-file-2095054116372508955)
+- [ネイティブ C++ で作るソウルライクゲーム](#native-c-souls-like-game-2095053114600755576)
+- [3D で遊ぶヘビとはしご](#playable-3d-snakes-and-ladders-2095050993184669825)
+- [人物写真を動くボクセルに変換](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
+- [操作して探索する Three.js の城](#interactive-three-js-castle-2095048818203275584)
+- [操作できる短波ラジオ NIGHTBAND](#nightband-interactive-shortwave-radio-2095026928210346175)
+- [Unity で完成させるテニスゲーム](#complete-unity-tennis-game-2095021275236495408)
+- [光る峡谷に浮かぶ古代神殿](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
 - [操作して眺めるトロントのスカイライン](#interactive-toronto-skyline-2095000329561485584)
 - [自律的に暮らす Sims 風ライフシミュレーション](#autonomous-sims-like-life-simulation-2094949450196090988)
 - [考える NPC が暮らすボクセルの村](#voxel-village-with-thinking-npcs-2094930970675741171)
@@ -66,20 +78,262 @@
 - [Kimi K3 で遊べる戦闘ゲームを作るプロンプト](#playable-combat-game-2082507403598373134)
 - [HTML 一つで LoL 風 1 対 1 を作る Kimi K3 プロンプト](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
 - [Claude Opus 5 の単一ファイル 3D 太陽ビジュアライザープロンプト](#single-file-3d-sun-visualizer-2082461416049525077)
-- [HTML 一つで作る、PC のある 3D 部屋の Three.js プロンプト](#explorable-3d-room-with-computer-workstation-2082451081733591520)
-- [UE5 に非ユークリッドな扉を作る Claude Opus 5 プロンプト](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
-- [Three.js ゲームを作るシンプルな FPS プロンプト](#simple-first-person-shooter-in-three-js-2082242351372599770)
-- [CS2 と Battlefield 風 FPS の Claude Opus 5 プロンプト](#cs2-and-battlefield-style-fps-2082241827298557966)
-- [Claude Opus 5 の AAA シューター制作プロンプト](#aaa-shooter-game-2082180453889712318)
-- [HTML 一つで遊べるダークファンタジー横スクロール](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
-- [Claude Opus 5 による 3D MMO の開発手順](#development-workflow-for-a-3d-mmo-2082035844836450334)
-- [遊べる Chrome Dino ゲームを作る](#make-a-playable-chrome-dino-game-2081867025140650236)
-- [リアルなヘリコプターシューターを作る Kimi K3 プロンプト](#realistic-helicopter-shooter-game-2081791572115435765)
-- [Subway Surfers 風ゲームを作る Kimi K3 プロンプト](#subway-surfers-style-game-2081766198082220514)
-- [Counter-Strike 風 Three.js FPS の Claude Opus 5 プロンプト](#counter-strike-inspired-three-js-fps-2081607528790856068)
-- [無限に紙を送り出す Three.js マシンの Claude Fable 5 プロンプト](#infinite-three-js-paper-machine-2081533777340506251)
 
 </details>
+<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
+
+### ガンダムに着想を得たメカのショーケース
+
+[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="ガンダムに着想を得たメカのショーケース"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ガンダムに着想を得た独自メカの、完成度の高い Three.js ショーケースを作成してください。機械的な関節動作、大きさが伝わる要素、劇的な照明、細部を観察できるカメラを加えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [元の投稿](https://x.com/usecrayon/status/2095106919530930221) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
+
+### 参考デザインから作る Three.js ポートフォリオ
+
+[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="参考デザインから作る Three.js ポートフォリオ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+提示された参考デザインを、完成度の高い Three.js サイトとして再現してください。重なり合う粒子、VHS と CRT の質感、流れるような遷移、操作に応じた反応を取り入れてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [元の投稿](https://x.com/MengTo/status/2095104073590808644) · [ソースコード](https://github.com/MengTo/sublevel-studio) · [デモ](https://mengto.github.io/sublevel-studio/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
+
+### 操作できる F-35A 技術モデル
+
+[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="操作できる F-35A 技術モデル"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+コードで精巧な操作可能 F-35A を生成してください。正確な比率、操縦翼面、着陸装置、コックピットの特徴、ラベル、観察用アニメーションを備えてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [元の投稿](https://x.com/SahilExec/status/2095094543339446572) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
+
+### Three.js で作る MS-06 風メカ
+
+[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Three.js で作る MS-06 風メカ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+MS-06 に着想を得た精巧なメカを Three.js で作成してください。主役が明瞭に見える白い背景を使い、説得力のある比率と素材、観察用の操作を用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [元の投稿](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="living-universe-in-one-html-file-2095054116372508955"></a>
+
+### HTML ファイル一つで息づく宇宙
+
+[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="HTML ファイル一つで息づく宇宙"></a>
+
+**プロンプト**
+
+```text
+HTML ファイル一つで、生きた宇宙を作ってください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build a living universe in one HTML file.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [元の投稿](https://x.com/tiny_frontier/status/2095054116372508955) · [デモ](https://genesis-demo.tinyfrontier.xyz/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="native-c-souls-like-game-2095053114600755576"></a>
+
+### ネイティブ C++ で作るソウルライクゲーム
+
+[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="ネイティブ C++ で作るソウルライクゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Bloodborne に着想を得たソウルライクゲームをネイティブ C++ で作成してください。独自のアート、アニメーション、効果音、音楽、反応のよい戦闘、敵、ボス、完結した短いステージを用意してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/native-c-souls-like-game-2095053114600755576) · [元の投稿](https://x.com/wizardbrainz/status/2095053114600755576) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
+
+### 3D で遊ぶヘビとはしご
+
+[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="3D で遊ぶヘビとはしご"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+サイコロのアニメーション、盤面移動、ヘビ、はしご、手番、勝利条件、分かりやすい反応を備えた、最後まで遊べる 3D の「ヘビとはしご」を作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [元の投稿](https://x.com/karanC_12/status/2095050993184669825) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
+
+### 人物写真を動くボクセルに変換
+
+[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="人物写真を動くボクセルに変換"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+アップロードされた人物写真を、10,000 個を超える操作可能な 3D ボクセルに変換してください。波状の変位、サイバーパンクのシェーダー、効率的なインスタンシング、ポインターに応じた動きを実装してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [元の投稿](https://x.com/TenthPrime/status/2095048967092625663) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="interactive-three-js-castle-2095048818203275584"></a>
+
+### 操作して探索する Three.js の城
+
+[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="操作して探索する Three.js の城"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+探索可能な部屋、塔、門、地形、雰囲気のある照明を備えた、操作できる 3D の城を Three.js で作成してください。パソコンとモバイルで滑らかに操作できるようにしてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-three-js-castle-2095048818203275584) · [元の投稿](https://x.com/debugsenpai/status/2095048818203275584) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
+
+### 操作できる短波ラジオ NIGHTBAND
+
+[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="操作できる短波ラジオ NIGHTBAND"></a>
+
+**プロンプト**
+
+```text
+単独で動く一つの HTML ファイルで、あなたに作れる最も印象的なサイトを作ってください。創作上の制約はありません。知性、創造性、技術力、独創性をどこまで発揮できるかを示すことが目標です。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [元の投稿](https://x.com/NeoAIForecast/status/2095026928210346175) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="complete-unity-tennis-game-2095021275236495408"></a>
+
+### Unity で完成させるテニスゲーム
+
+[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="Unity で完成させるテニスゲーム"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blender 製キャラクター、安定した操作、移動とスイングのアニメーション、ボール物理、得点、対戦相手、試合進行を備えた、遊べる Unity テニスゲームを完成させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [元の投稿](https://x.com/chongdashu/status/2095021275236495408) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
+
+### 光る峡谷に浮かぶ古代神殿
+
+[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="光る峡谷に浮かぶ古代神殿"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+夕暮れの光る峡谷の上に古代神殿が浮かぶ Three.js シーンを手続き生成してください。風にはためく布、光芒、稲妻、映画的に近づくカメラを取り入れてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [元の投稿](https://x.com/pradeepXkapoor/status/2095012880383099339) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="interactive-toronto-skyline-2095000329561485584"></a>
 
 ### 操作して眺めるトロントのスカイライン
@@ -891,294 +1145,6 @@ Verdent で Kimi K3 と GPT-5.6 に同じプロンプトを与えました：一
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [元の投稿](https://x.com/AlysisAI/status/2082461416049525077) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
-
-### HTML 一つで作る、PC のある 3D 部屋の Three.js プロンプト
-
-[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="HTML 一つで作る、PC のある 3D 部屋の Three.js プロンプト"></a>
-
-**プロンプト**
-
-```text
-作業用 PC を中心に、探索できる 3D の部屋を作ってください。単独で動く一つの HTML ファイル、importmap 経由の Three.js、手続き生成の形状のみ。メッシュの持ち込み、画像テクスチャはなし。レイアウトやスタイルの指定もありません。「デザイナーはあなたです。驚かせてください」
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [元の投稿](https://x.com/thehypedotnews/status/2082451081733591520) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
-
-### UE5 に非ユークリッドな扉を作る Claude Opus 5 プロンプト
-
-[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="UE5 に非ユークリッドな扉を作る Claude Opus 5 プロンプト"></a>
-
-**プロンプト**
-
-```text
-「何もない空間に扉が一つ立ち、周囲にも背後にも何もありません。その扉を開くと、レベル内の別の場所にある教室につながります。そのまままっすぐ歩いて通り抜けられ、カット、フェード、読み込み画面など、瞬間移動を感じさせるものはありません。両側から、どの角度からでも機能する必要があります」
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [元の投稿](https://x.com/ombrageplays/status/2082436347113951333) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
-
-### Three.js ゲームを作るシンプルな FPS プロンプト
-
-[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Three.js ゲームを作るシンプルな FPS プロンプト"></a>
-
-**プロンプト**
-
-```text
-FPS を作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [元の投稿](https://x.com/codewithantonio/status/2082242351372599770) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
-
-### CS2 と Battlefield 風 FPS の Claude Opus 5 プロンプト
-
-[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="CS2 と Battlefield 風 FPS の Claude Opus 5 プロンプト"></a>
-
-**プロンプト**
-
-```text
-CS2 と Battlefield を組み合わせた一人称シューターを作ってみてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [元の投稿](https://x.com/AnatoliKopadze/status/2082241827298557966) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="aaa-shooter-game-2082180453889712318"></a>
-
-### Claude Opus 5 の AAA シューター制作プロンプト
-
-[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Claude Opus 5 の AAA シューター制作プロンプト"></a>
-
-**プロンプト**
-
-```text
-最近、Claude Opus 5 で制作された Call of Duty 風ゲームが話題になっています。作者は一つのプロンプトだけで作ったと主張しています。疑問の声も多く、作者はコードとプロンプトを公開しました。
-
-とても複雑なプロンプトだと思っていましたが、実際には数百語ほどでした。中でも鍵になるのは反復です。
-
-プロンプトはこちら：
-
-「最新の Call of Duty に匹敵する一人称シューターを開発してください。欠点がなく、圧倒的に美しい映像にしてください。テクスチャから物理効果まで、考えられるすべての要素を AAA 品質にする必要があります。
-
-複数のサブエージェントを作り、細部を個別に担当させて、ゲームを完璧にしてください。各項目を /loop し、独立したサブエージェントに見た目を検査させて AAA 水準を確かめます。その確認担当は極めて厳しく、AAA 水準に届かなければチェックを続けてください。
-
-Call of Duty と比較して、各サブエージェントが映像品質に心底驚くまで止めないでください。二つを並べ、見た目だけに頼らずどちらが優れているか指摘できるようにしてください。ThreeJS で制作し、完璧になるまで /loop してください。複数のサブエージェントを作り、UltraCode で最適化してください」
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/aaa-shooter-game-2082180453889712318) · [元の投稿](https://x.com/ziqinyuan/status/2082180453889712318) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
-
-### HTML 一つで遊べるダークファンタジー横スクロール
-
-[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="HTML 一つで遊べるダークファンタジー横スクロール"></a>
-
-**プロンプト**
-
-```text
-一つの HTML ファイルで、遊べるダークファンタジー横スクロールゲームを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [元の投稿](https://x.com/slash1sol/status/2082096376763060575) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
-
-### Claude Opus 5 による 3D MMO の開発手順
-
-[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="Claude Opus 5 による 3D MMO の開発手順"></a>
-
-**プロンプト**
-
-```text
-コードのほぼすべてを Claude Opus 5 で書きました。
-
-しかし、何千回もの反復を通じて開発を前進させたのは巧みなプロンプトではありません。コード全体を読まずに必要なものを見つけられるよう、プロジェクトを整理したことです。
-
-1. 指示を一か所に集めず、コードのそばに置く
-各フォルダーに、よく使う手順と過去に見つけた注意点を記したガイドを置きます。そのフォルダーでセッションを始めると自動で読み込まれます。モンスターの作業でマップのガイドまで読む必要はありません。作業前のコンテキストは約 76,000 トークンから約 10,000 に減りました。
-
-2. 規律ではなくツールでルールを守らせる
-循環 import や、中央定義せず使用箇所に直接書いた色の値を検出するとビルドを失敗させるスクリプトを作らせました。AI が全ルールを覚えることに期待するより、コミットが失敗する仕組みの方が確実です。
-
-3. TypeScript に注意を促させる
-効果なしでスキルを追加するとコンパイルできません。モデルを作らずにモンスターを追加してもコンパイルできません。型システムが許さないので、忘れたままにはできません。
-
-4. コンテンツをデータ駆動にする
-モンスター、スキル、アイテムの追加は、システム全体の変更ではなく 1 行の追加にします。AI は「整合性が必要な 5 か所を更新」するより「1 行を追加」する方が正確に扱えます。
-
-5. 有効なプロンプトは手順でなく評価基準を定義する
-例えば「通常のモンスターは 2〜5 秒で倒せる」「各マップの少なくとも 97% に到達できる」「ドロップ率が 3% 未満のアイテムはない」。これらをテストにします。何が良い状態か分かれば、AI はそこへの道筋と達成の判定を見つけられます。
-
-つまり、まず構造とテストに投資し、その後でプロンプトに投資します。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
-
-แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
-มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
-
-1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
-   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
-   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
-   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
-   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
-
-2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
-   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
-   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
-   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
-
-3. ให้ TypeScript เป็นคนเตือน
-   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
-   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
-   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
-
-4. ทำ content ให้เป็นตาราง
-   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
-   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
-
-5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
-   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
-   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
-   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
-   แล้วเขียนพวกนี้เป็นเทสไว้
-   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
-
-สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
-
-ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [元の投稿](https://x.com/vibecodingth/status/2082035844836450334) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
-
-### 遊べる Chrome Dino ゲームを作る
-
-[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="遊べる Chrome Dino ゲームを作る"></a>
-
-**プロンプト**
-
-```text
-遊べる Chrome Dino ゲームを作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [元の投稿](https://x.com/unseenmars_/status/2081867025140650236) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
-
-### リアルなヘリコプターシューターを作る Kimi K3 プロンプト
-
-[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="リアルなヘリコプターシューターを作る Kimi K3 プロンプト"></a>
-
-**プロンプト**
-
-```text
-リアルなヘリコプターシューターを作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [元の投稿](https://x.com/Abobsterina/status/2081791572115435765) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="subway-surfers-style-game-2081766198082220514"></a>
-
-### Subway Surfers 風ゲームを作る Kimi K3 プロンプト
-
-[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Subway Surfers 風ゲームを作る Kimi K3 プロンプト"></a>
-
-**プロンプト**
-
-```text
-Subway Surfers のゲームを作ってください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/subway-surfers-style-game-2081766198082220514) · [元の投稿](https://x.com/Arindam_1729/status/2081766198082220514) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
-
-### Counter-Strike 風 Three.js FPS の Claude Opus 5 プロンプト
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Counter-Strike 風 Three.js FPS の Claude Opus 5 プロンプト"></a>
-
-**プロンプト**
-
-```text
-鉄道駅を舞台にした Counter-Strike 風の戦術 FPS。Three.js、単一 HTML ファイル、すべて独自アセット。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [元の投稿](https://x.com/BuildFastWithAI/status/2081607528790856068) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
-
-### 無限に紙を送り出す Three.js マシンの Claude Fable 5 プロンプト
-
-[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="無限に紙を送り出す Three.js マシンの Claude Fable 5 プロンプト"></a>
-
-**プロンプト**
-
-```text
-一つのプロンプトで、無限に紙を送り出す Three.js マシンを作成してください。Pinterest の静的なコンセプトを、動作する 3D ウェブアプリに変換します。紙が無限に回転しながら、その表面に動的な画像をリアルタイムで印刷し続けるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [元の投稿](https://x.com/RoundtableSpace/status/2081533777340506251) · [作例一覧に戻る](#all-prompts)
 
 ---
 

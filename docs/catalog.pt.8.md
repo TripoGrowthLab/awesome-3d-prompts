@@ -28,6 +28,18 @@
 <details>
 <summary>Explorar exemplos (50)</summary>
 
+- [Um jogo 3D em tempo real com um único prompt](#single-playable-real-time-3d-game-2095647685210669541)
+- [Uma USS Enterprise em CAD pronta para impressão](#printable-uss-enterprise-cad-assembly-2095641163441254676)
+- [Uma casa moderna no Blender](#modern-villa-scene-in-blender-2095636679264780481)
+- [Um Salão Oval procedural para Cycles](#procedural-oval-office-set-for-cycles-2095630197257367857)
+- [Um jogo de voo espacial por trincheiras no Unity](#unity-space-trench-run-game-2095630044102279312)
+- [Da planta ao Blender e ao Unreal para visualização arquitetônica](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
+- [Do texto a uma cidade explorável no Unity](#text-to-explorable-unity-city-2095623452678144366)
+- [Uma fábrica de bolinhas de gude no Three.js](#three-js-marble-factory-2095622065390772322)
+- [Um estúdio de mockups 3D fotorrealistas de produtos](#photoreal-3d-product-mockup-studio-2095619319690400253)
+- [Pré-visualização cinematográfica de um museu 3D](#3d-museum-cinematography-previsualization-2095616529572503593)
+- [De um anúncio no Zillow a um vídeo imobiliário 3D](#zillow-listing-to-3d-property-film-2095612137582526615)
+- [Manhattan, rua por rua, no Unreal Engine](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 - [Um jogo 3D guiado por voz para iniciantes](#voice-directed-3d-game-for-beginners-2095608358086840647)
 - [Um jogo 3D de navegador com uma única instrução](#one-shot-browser-3d-game-2095599934766764338)
 - [Da foto de uma casa a um mundo editável no Blender](#house-photo-to-editable-blender-world-2095598645190291775)
@@ -66,20 +78,250 @@
 - [Uma Dino-dex interativa com shaders](#interactive-shader-driven-dino-dex-2095121568297083067)
 - [Um mundo vivo de voxels dentro de uma garrafa](#living-voxel-world-inside-a-bottle-2095111213927510131)
 - [Uma animação editável de teclado 3D](#editable-3d-keyboard-animation-2095111032171876470)
-- [Uma exposição de mechas inspirados em Gundam](#gundam-inspired-mecha-showcase-2095106919530930221)
-- [Um portfólio Three.js guiado por referência](#reference-driven-three-js-portfolio-2095104073590808644)
-- [Um modelo técnico interativo do F-35A](#interactive-f-35a-technical-model-2095094543339446572)
-- [Um mecha inspirado no MS-06 no Three.js](#three-js-ms-06-inspired-mecha-2095085944391270759)
-- [Um universo vivo em um único arquivo HTML](#living-universe-in-one-html-file-2095054116372508955)
-- [Um jogo soulslike em C++ nativo](#native-c-souls-like-game-2095053114600755576)
-- [Cobras e Escadas jogável em 3D](#playable-3d-snakes-and-ladders-2095050993184669825)
-- [Um retrato transformado em voxels em movimento](#portrait-transformed-into-kinetic-voxels-2095048967092625663)
-- [Um castelo interativo no Three.js](#interactive-three-js-castle-2095048818203275584)
-- [NIGHTBAND: um rádio interativo de ondas curtas](#nightband-interactive-shortwave-radio-2095026928210346175)
-- [Um jogo completo de tênis no Unity](#complete-unity-tennis-game-2095021275236495408)
-- [Um templo antigo sobre um cânion luminoso](#ancient-temple-above-a-glowing-canyon-2095012880383099339)
 
 </details>
+<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
+
+### Um jogo 3D em tempo real com um único prompt
+
+[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Um jogo 3D em tempo real com um único prompt"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Construa um jogo 3D jogável em tempo real a partir de um único prompt. Defina uma mecânica principal compacta, um objetivo claro e uma história curta. Depois gere a cena, os personagens, os objetos, as respostas às ações e o estado de reinício para que seja possível jogar imediatamente.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Publicação original](https://x.com/higgsfield/status/2095647685210669541) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
+
+### Uma USS Enterprise em CAD pronta para impressão
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="Uma USS Enterprise em CAD pronta para impressão"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Projete em CAD uma homenagem original à USS Enterprise NCC-1701 pronta para impressão. Inclua proporções reconhecíveis, uma ponte de comando e alguns interiores, pelo menos 28 peças móveis funcionais, conjuntos separados e arquivos de fabricação exportáveis.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Publicação original](https://x.com/DeryaTR_/status/2095641163441254676) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
+
+### Uma casa moderna no Blender
+
+[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Uma casa moderna no Blender"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Construa no Blender uma cena completa de uma casa moderna, com arquitetura coerente, interiores mobiliados, piscina de borda infinita, paisagismo, materiais realistas e um percurso cinematográfico de câmera durante a hora dourada.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Publicação original](https://x.com/karankendre/status/2095636679264780481) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
+
+### Um Salão Oval procedural para Cycles
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Um Salão Oval procedural para Cycles"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Transforme uma descrição cenográfica do Salão Oval em código de cena executável. Construa o ambiente no Blender com móveis, paredes, iluminação e posições de câmera editáveis e renderize um resultado cinematográfico com Cycles.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Publicação original](https://x.com/higgsfield_ai/status/2095630197257367857) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="unity-space-trench-run-game-2095630044102279312"></a>
+
+### Um jogo de voo espacial por trincheiras no Unity
+
+[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Um jogo de voo espacial por trincheiras no Unity"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Recrie no Unity a sensação de uma incursão espacial clássica por trincheiras, com voo rápido em baixa altitude, tiros de torres, obstáculos, mira, pressão crescente, um objetivo final e uma sequência cinematográfica de sucesso ou fracasso.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Publicação original](https://x.com/ronaldmannak/status/2095630044102279312) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
+
+### Da planta ao Blender e ao Unreal para visualização arquitetônica
+
+[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Da planta ao Blender e ao Unreal para visualização arquitetônica"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Parta da planta arquitetônica fornecida, crie um modelo preciso e editável no Blender e transfira-o para o Unreal Engine como uma experiência arquitetônica iluminada e percorrível, com escala e colisões corretas.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Publicação original](https://x.com/LinusEkenstam/status/2095624712244072551) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="text-to-explorable-unity-city-2095623452678144366"></a>
+
+### Do texto a uma cidade explorável no Unity
+
+[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Do texto a uma cidade explorável no Unity"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Transforme a visão de cidade fornecida em um ambiente explorável no Unity com torres, ruas, veículos, palmeiras e luz atmosférica. Estabeleça escala convincente, navegação, trânsito em movimento e câmera suave em primeira pessoa.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Publicação original](https://x.com/0x0SojalSec/status/2095623452678144366) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="three-js-marble-factory-2095622065390772322"></a>
+
+### Uma fábrica de bolinhas de gude no Three.js
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · Animação
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Uma fábrica de bolinhas de gude no Three.js"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Crie uma simulação de fábrica de bolinhas de gude no Three.js com fluxo de produção claro, bolinhas em movimento e máquinas. Deixe o visitante acompanhar uma bolinha ao longo do processo.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/three-js-marble-factory-2095622065390772322) · [Publicação original](https://x.com/JohnKlerAI/status/2095622065390772322) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
+
+### Um estúdio de mockups 3D fotorrealistas de produtos
+
+[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · Interativo
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="Um estúdio de mockups 3D fotorrealistas de produtos"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Crie uma ferramenta de navegador que aplique artes enviadas pelo usuário a mockups 3D fotorrealistas de produtos. Inclua câmera orbital, controles de materiais e cores, iluminação do ambiente, vários produtos e exportação em alta resolução.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Publicação original](https://x.com/joshmillgate/status/2095619319690400253) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
+
+### Pré-visualização cinematográfica de um museu 3D
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="Pré-visualização cinematográfica de um museu 3D"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Construa uma pré-visualização 3D de um museu que mapeie o espaço, as posições do elenco, as marcações de câmera e a lista de planos. Mantenha cada composição dentro do visor físico e exporte guias consistentes para a geração de vídeo posterior.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Publicação original](https://x.com/higgsfield_ai/status/2095616529572503593) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
+
+### De um anúncio no Zillow a um vídeo imobiliário 3D
+
+[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="De um anúncio no Zillow a um vídeo imobiliário 3D"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Imagens de referência:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
+
+**Prompt**
+
+```text
+Use o anúncio imobiliário fornecido e todas as suas fotos para reconstruir a casa em 3D, deduzir uma planta coerente e criar um vídeo promocional bem-acabado de passeio pelo imóvel. Sinalize as geometrias incertas e corrija divergências após a primeira versão.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Publicação original](https://x.com/realYunfanYe/status/2095612137582526615) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
+
+### Manhattan, rua por rua, no Unreal Engine
+
+[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Manhattan, rua por rua, no Unreal Engine"></a>
+
+*Instruções baseadas na obra vinculada*
+
+**Prompt**
+
+```text
+Construa uma Manhattan explorável no Unreal Engine. Trabalhe bairro por bairro e rua por rua, preservando uma escala reconhecível, o traçado viário, os pontos de referência, o trânsito e a identidade de cada região. Mantenha uma lista de verificação e refine cada área antes de seguir adiante.
+```
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Publicação original](https://x.com/mattshumer_/status/2095609734845927525) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="voice-directed-3d-game-for-beginners-2095608358086840647"></a>
 
 ### Um jogo 3D guiado por voz para iniciantes
@@ -837,260 +1079,6 @@ Crie uma animação editável de teclado 3D com um movimento satisfatório das t
 ```
 
 [Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Publicação original](https://x.com/rege_dev/status/2095111032171876470) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
-
-### Uma exposição de mechas inspirados em Gundam
-
-[Crayon](https://x.com/usecrayon) · 2026-09-02 · Claude Fable 5.1 · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221"><img src="../assets/previews/05a92c5d2d689af89cfd8b7ae31fd6449405af500a04aac3bb8197b15d5b783f.webp" width="840" loading="lazy" alt="Uma exposição de mechas inspirados em Gundam"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie uma exposição bem-acabada no Three.js de mechas originais inspirados em Gundam, com articulações mecânicas, referências de escala, iluminação dramática e uma câmera de inspeção.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/gundam-inspired-mecha-showcase-2095106919530930221) · [Publicação original](https://x.com/usecrayon/status/2095106919530930221) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="reference-driven-three-js-portfolio-2095104073590808644"></a>
-
-### Um portfólio Three.js guiado por referência
-
-[Meng To](https://x.com/MengTo) · 2026-09-02 · Claude Fable 5.1 · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644"><img src="../assets/previews/bb9ad31a578e7c9e78c71eb923a85848521f17e20294d4c218b2d675d81d2ff5.webp" width="840" loading="lazy" alt="Um portfólio Three.js guiado por referência"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Recrie a referência visual fornecida como um site bem-acabado no Three.js, com partículas em camadas, textura VHS e CRT, transições fluidas e interação responsiva.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/reference-driven-three-js-portfolio-2095104073590808644) · [Publicação original](https://x.com/MengTo/status/2095104073590808644) · [Código-fonte](https://github.com/MengTo/sublevel-studio) · [Demonstração](https://mengto.github.io/sublevel-studio/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="interactive-f-35a-technical-model-2095094543339446572"></a>
-
-### Um modelo técnico interativo do F-35A
-
-[Edgex](https://x.com/SahilExec) · 2026-09-02 · Claude Fable 5.1 · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/interactive-f-35a-technical-model-2095094543339446572"><img src="../assets/previews/4a4a7592ffc917d8e103ee6dce0159d45ba29a0d9fae854f14ecd980701dfed8.webp" width="840" loading="lazy" alt="Um modelo técnico interativo do F-35A"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Gere por código um F-35A interativo e detalhado, com proporções precisas, superfícies de controle, trem de pouso, elementos reconhecíveis do cockpit, rótulos e animações de inspeção.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/interactive-f-35a-technical-model-2095094543339446572) · [Publicação original](https://x.com/SahilExec/status/2095094543339446572) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="three-js-ms-06-inspired-mecha-2095085944391270759"></a>
-
-### Um mecha inspirado no MS-06 no Three.js
-
-[Hakuei](https://x.com/akiba_tokyo_jp) · 2026-09-02 · Claude Fable 5.1 · Recursos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759"><img src="../assets/previews/3d491b88fa7163d858aaf83596677626152de9541eab88df1f552087dae383c3.webp" width="840" loading="lazy" alt="Um mecha inspirado no MS-06 no Three.js"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie um mecha detalhado inspirado no MS-06 no Three.js sobre um fundo branco limpo para destacar o objeto principal, com proporções e materiais convincentes e controles de inspeção.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/three-js-ms-06-inspired-mecha-2095085944391270759) · [Publicação original](https://x.com/akiba_tokyo_jp/status/2095085944391270759) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="living-universe-in-one-html-file-2095054116372508955"></a>
-
-### Um universo vivo em um único arquivo HTML
-
-[Alex Luhchenko](https://x.com/tiny_frontier) · 2026-09-02 · Claude Fable 5.1 · Animação
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/living-universe-in-one-html-file-2095054116372508955"><img src="../assets/previews/0480411d16934749e82a5c25171cd4b7887595297804afae389af06cfe5880d0.webp" width="840" loading="lazy" alt="Um universo vivo em um único arquivo HTML"></a>
-
-**Prompt**
-
-```text
-construa um universo vivo em um único arquivo HTML.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-build a living universe in one HTML file.
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/living-universe-in-one-html-file-2095054116372508955) · [Publicação original](https://x.com/tiny_frontier/status/2095054116372508955) · [Demonstração](https://genesis-demo.tinyfrontier.xyz/) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="native-c-souls-like-game-2095053114600755576"></a>
-
-### Um jogo soulslike em C++ nativo
-
-[wbk ᕦ(ò\_ó )ᕤ](https://x.com/wizardbrainz) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/native-c-souls-like-game-2095053114600755576"><img src="../assets/previews/c628aa5e9e099b7b7a2fc0464c7d8e88d7dbe3d0fe1b3cdd06d8468003450ef9.webp" width="840" loading="lazy" alt="Um jogo soulslike em C++ nativo"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie um jogo soulslike inspirado em Bloodborne em C++ nativo, com arte, animação, som e música originais, combate responsivo, inimigos, um chefe e uma fase curta completa.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/native-c-souls-like-game-2095053114600755576) · [Publicação original](https://x.com/wizardbrainz/status/2095053114600755576) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="playable-3d-snakes-and-ladders-2095050993184669825"></a>
-
-### Cobras e Escadas jogável em 3D
-
-[KC](https://x.com/karanC_12) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825"><img src="../assets/previews/2cba9087b9fd42659f1ffaad19142c339cdd63689a71d37af11d0ad9455de847.webp" width="840" loading="lazy" alt="Cobras e Escadas jogável em 3D"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Construa um jogo completo de Cobras e Escadas em 3D com animação de dado, movimento no tabuleiro, cobras, escadas, turnos, condição de vitória e respostas claras para o jogador.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/playable-3d-snakes-and-ladders-2095050993184669825) · [Publicação original](https://x.com/karanC_12/status/2095050993184669825) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="portrait-transformed-into-kinetic-voxels-2095048967092625663"></a>
-
-### Um retrato transformado em voxels em movimento
-
-[Manoj Builds](https://x.com/TenthPrime) · 2026-09-02 · Claude Fable 5.1 · Animação
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663"><img src="../assets/previews/40b4ceb431ba1d5da81153e44a201407fa2fd0127d3808305cd53e0e7df5fcd9.webp" width="840" loading="lazy" alt="Um retrato transformado em voxels em movimento"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Transforme o retrato enviado em mais de 10.000 voxels 3D interativos, com deslocamento em ondas, shaders cyberpunk, instâncias eficientes e movimento guiado pelo ponteiro.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/portrait-transformed-into-kinetic-voxels-2095048967092625663) · [Publicação original](https://x.com/TenthPrime/status/2095048967092625663) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="interactive-three-js-castle-2095048818203275584"></a>
-
-### Um castelo interativo no Three.js
-
-[Jigs](https://x.com/debugsenpai) · 2026-09-02 · Claude Fable 5.1 · Cenas
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/interactive-three-js-castle-2095048818203275584"><img src="../assets/previews/c70b8e97fb67ecf54ec358005fbf4b74c74c0fb0f7db2701f1a0a915a4dfedaf.webp" width="840" loading="lazy" alt="Um castelo interativo no Three.js"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Construa um castelo 3D interativo no Three.js com cômodos exploráveis, torres, portões, terreno, iluminação atmosférica e controles suaves no computador e no celular.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/interactive-three-js-castle-2095048818203275584) · [Publicação original](https://x.com/debugsenpai/status/2095048818203275584) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="nightband-interactive-shortwave-radio-2095026928210346175"></a>
-
-### NIGHTBAND: um rádio interativo de ondas curtas
-
-[Neo](https://x.com/NeoAIForecast) · 2026-09-02 · Claude Fable 5.1 · Interativo
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175"><img src="../assets/previews/0239540714e1c792748185880f50094b5c53418357155cad94df8067bab89aaf.webp" width="840" loading="lazy" alt="NIGHTBAND: um rádio interativo de ondas curtas"></a>
-
-**Prompt**
-
-```text
-Crie o site mais impressionante que conseguir em um único arquivo HTML autossuficiente. Você tem total liberdade criativa. O objetivo é demonstrar sua inteligência, criatividade, capacidade técnica e originalidade.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create the most impressive website you can in a single self-contained HTML file. You have complete creative freedom. The goal is to demonstrate how intelligent, creative, technically capable and original you are.
-```
-
-</details>
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/nightband-interactive-shortwave-radio-2095026928210346175) · [Publicação original](https://x.com/NeoAIForecast/status/2095026928210346175) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="complete-unity-tennis-game-2095021275236495408"></a>
-
-### Um jogo completo de tênis no Unity
-
-[Chong-U](https://x.com/chongdashu) · 2026-09-02 · Claude Fable 5.1 · Jogos
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/complete-unity-tennis-game-2095021275236495408"><img src="../assets/previews/ee9b4112ca317b65a18c4c4b3b366b0920d162ff644e2e90c4164b5af8c342d2.webp" width="840" loading="lazy" alt="Um jogo completo de tênis no Unity"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Finalize um jogo de tênis jogável no Unity com personagens criados no Blender, controles confiáveis, animações de locomoção e rebatida, física da bola, pontuação, adversários e fluxo completo de partida.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/complete-unity-tennis-game-2095021275236495408) · [Publicação original](https://x.com/chongdashu/status/2095021275236495408) · [Voltar aos exemplos](#all-prompts)
-
----
-
-<a id="ancient-temple-above-a-glowing-canyon-2095012880383099339"></a>
-
-### Um templo antigo sobre um cânion luminoso
-
-[Pradeep Kapoor](https://x.com/pradeepXkapoor) · 2026-09-02 · Claude Fable 5.1 · Cenas
-
-<a href="https://www.tripo3d.ai/pt/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339"><img src="../assets/previews/f9356127e61e5de02373379dcb4f7377756e205bdae95dc32b2196f0f92f035b.webp" width="840" loading="lazy" alt="Um templo antigo sobre um cânion luminoso"></a>
-
-*Instruções baseadas na obra vinculada*
-
-**Prompt**
-
-```text
-Crie uma cena procedural no Three.js de um templo antigo flutuando sobre um cânion luminoso ao anoitecer, com tecidos ao vento, feixes de luz, relâmpagos e aproximação cinematográfica.
-```
-
-[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/ancient-temple-above-a-glowing-canyon-2095012880383099339) · [Publicação original](https://x.com/pradeepXkapoor/status/2095012880383099339) · [Voltar aos exemplos](#all-prompts)
 
 ---
 

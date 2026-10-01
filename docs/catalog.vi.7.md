@@ -28,6 +28,18 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Khám phá Taj Mahal](#explorable-taj-mahal-2096035962824335798)
+- [Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
+- [Gogh Strike: FPS nhiều người](#gogh-strike-multiplayer-fps-2096013280519016608)
+- [Mô hình máy ghi âm TP-7 từ ảnh tham khảo](#tp-7-recorder-reference-model-2096013228090245181)
+- [Tesla Model X dạng tháo rời](#tesla-model-x-exploded-view-2096009146248122416)
+- [Thạch nảy WebGPU](#bouncy-webgpu-jelly-2096008241104711698)
+- [Game đối kháng anime trong Roblox](#anime-arena-fighter-in-roblox-2095999578419929412)
+- [Mặt bằng đồng bộ với chuyến tham quan 3D](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
+- [Cảnh dòng sông tương tác trong trình duyệt](#interactive-browser-river-scene-2095993826569502785)
+- [Đấu trường chặt chém trong thánh đường](#cathedral-hack-and-slash-arena-2095988972879335792)
+- [Dựng thành phố Unity từ gói tài nguyên có sẵn](#gpt-6-astra-2095987508475834641)
+- [Triển lãm khoa học Titan tương tác](#interactive-titan-science-exhibit-2095986941753712841)
 - [Game bắn chim bằng ná 3D](#3d-slingshot-bird-game-2095981655370666076)
 - [Cỗ máy phản ứng dây chuyền Rube Goldberg](#rube-goldberg-chain-reaction-machine-2095980885732704629)
 - [Đền Trung Hoa nổi trên đảo với nút chuyển ngày/đêm](#gpt-6-astra-2095978925029556561)
@@ -66,20 +78,255 @@
 - [Tái hiện Palace of Fine Arts trong Blender](#palace-of-fine-arts-blender-recreation-2095653641164329143)
 - [Thử nghiệm thủy cung từ một prompt](#single-aquarium-benchmark-2095650251902239139)
 - [RPG với camera góc nhìn thứ nhất và thứ ba](#rpg-with-first-and-third-person-cameras-2095648440978174276)
-- [Game 3D thời gian thực chơi được từ một prompt](#single-playable-real-time-3d-game-2095647685210669541)
-- [Cụm CAD USS Enterprise có thể in](#printable-uss-enterprise-cad-assembly-2095641163441254676)
-- [Cảnh biệt thự hiện đại trong Blender](#modern-villa-scene-in-blender-2095636679264780481)
-- [Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles](#procedural-oval-office-set-for-cycles-2095630197257367857)
-- [Game bay xuyên hào không gian trong Unity](#unity-space-trench-run-game-2095630044102279312)
-- [Archviz từ bản vẽ qua Blender đến Unreal](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
-- [Từ mô tả đến thành phố Unity có thể khám phá](#text-to-explorable-unity-city-2095623452678144366)
-- [Nhà máy bi Three.js](#three-js-marble-factory-2095622065390772322)
-- [Studio mockup sản phẩm 3D chân thực](#photoreal-3d-product-mockup-studio-2095619319690400253)
-- [Tiền kỳ quay phim bảo tàng bằng 3D](#3d-museum-cinematography-previsualization-2095616529572503593)
-- [Từ tin Zillow đến phim bất động sản 3D](#zillow-listing-to-3d-property-film-2095612137582526615)
-- [Dựng Manhattan trong Unreal Engine, từng con phố một](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 
 </details>
+<a id="explorable-taj-mahal-2096035962824335798"></a>
+
+### Khám phá Taj Mahal
+
+[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Khám phá Taj Mahal"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái hiện Taj Mahal thành cảnh 3D có thể khám phá. Ưu tiên tỷ lệ dễ nhận biết, vườn đối xứng, mái vòm trung tâm, tháp và quan hệ giữa các công trình.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Bài đăng gốc](https://x.com/vikassabbi/status/2096035962824335798) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
+
+### Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết
+
+[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Portfolio 3D cá nhân với địa cầu ghi dấu diễn thuyết"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Biến chân dung thành nhân vật Blender trong portfolio WebGL phong cách tạp chí. Thêm địa cầu xoay đánh dấu các sự kiện diễn thuyết và tích hợp asset vào website.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Bài đăng gốc](https://x.com/HowDevelop/status/2096023793772998704) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
+
+### Gogh Strike: FPS nhiều người
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike: FPS nhiều người"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng FPS 5 đấu 5 phong cách Hậu Ấn tượng với nhân vật họa sĩ render bằng Blender, đội dễ phân biệt và trận nhiều người hoàn chỉnh trong trình duyệt.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Bài đăng gốc](https://x.com/petergostev/status/2096013280519016608) · [Mã nguồn](https://github.com/petergpt/gogh-strike) · [Bản demo](https://gogh-strike.surge.sh/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
+
+### Mô hình máy ghi âm TP-7 từ ảnh tham khảo
+
+[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="Mô hình máy ghi âm TP-7 từ ảnh tham khảo"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tái hiện Teenage Engineering TP-7 bằng Three.js từ ảnh tham khảo. Làm đúng hình dáng và các bộ phận điều khiển nhìn thấy được trong một mô hình 3D có thể quan sát từ nhiều phía.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Bài đăng gốc](https://x.com/ty_kra_lab/status/2096013228090245181) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
+
+### Tesla Model X dạng tháo rời
+
+[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X dạng tháo rời"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo website 3D tháo Tesla Model X thành các thành phần đã dựng. Cho khách xem cụm lắp ráp và lắp lại xe bằng tương tác.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Bài đăng gốc](https://x.com/ashebytes/status/2096009146248122416) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
+
+### Thạch nảy WebGPU
+
+[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Thạch nảy WebGPU"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo khối thạch nảy trông ngon mắt bằng Three.js và WebGPU. Cho nó biến dạng rồi ổn định tự nhiên sau tương tác, với vật liệu bán trong suốt và ánh sáng rõ.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Bài đăng gốc](https://x.com/scottstts/status/2096008241104711698) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
+
+### Game đối kháng anime trong Roblox
+
+[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Game đối kháng anime trong Roblox"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo game đối kháng đấu trường Roblox lấy cảm hứng các trận crossover anime. Dựng đấu trường và nhân vật bằng Blender cùng asset có sẵn, rồi triển khai vòng chiến đấu chơi được.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Bài đăng gốc](https://x.com/WoahWurdz/status/2095999578419929412) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
+
+### Mặt bằng đồng bộ với chuyến tham quan 3D
+
+[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="Mặt bằng đồng bộ với chuyến tham quan 3D"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dùng cùng một bộ kích thước để dựng mặt bằng và chuyến tham quan căn hộ một phòng ngủ. Đồng bộ vị trí hiện tại giữa hai chế độ xem, đồng thời ghi rõ những giả định về chiều cao trần và vật liệu hoàn thiện.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Bài đăng gốc](https://x.com/onofumi_AI/status/2095999282088378520) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-browser-river-scene-2095993826569502785"></a>
+
+### Cảnh dòng sông tương tác trong trình duyệt
+
+[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="Cảnh dòng sông tương tác trong trình duyệt"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Tạo cảnh dòng sông tương tác chạy trong trình duyệt. Trước tiên dựng bản mẫu nước thời gian thực hoạt động được, sau đó kiểm tra và hoàn thiện kết quả hình ảnh.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Bài đăng gốc](https://x.com/dangreenheck/status/2095993826569502785) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
+
+### Đấu trường chặt chém trong thánh đường
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="Đấu trường chặt chém trong thánh đường"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng game Three.js chặt chém góc nhìn thứ ba trong thánh đường trên ngôi sao chết. Có combo kiếm nhẹ, đòn nặng, phép diện rộng, né và hoạt ảnh vũ khí hai tay có trọng lượng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Bài đăng gốc](https://x.com/superalesha/status/2095988972879335792) · [Mã nguồn](https://github.com/alesha-pro/bench-portal) · [Bản demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095987508475834641"></a>
+
+### Dựng thành phố Unity từ gói tài nguyên có sẵn
+
+[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="Dựng thành phố Unity từ gói tài nguyên có sẵn"></a>
+
+**Prompt**
+
+```text
+Hãy dựng cho tôi một cảnh thành phố 3D mới. Tôi muốn có nhiều loại tòa nhà với độ cao khác nhau và ô tô trong cảnh. Đồng thời, hãy sử dụng đường sá, biển quảng cáo và các yếu tố khác thường có trong một thành phố lớn. Mọi thứ bạn cần đều nằm trong thư mục Assets/ithappy/Cartoon_City_Free.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2095987508475834641) · [Bài đăng gốc](https://x.com/AndrewWalko/status/2095987508475834641) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
+
+### Triển lãm khoa học Titan tương tác
+
+[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="Triển lãm khoa học Titan tương tác"></a>
+
+*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
+
+**Prompt**
+
+```text
+Dựng mô phỏng giáo dục 3D về Titan, vệ tinh lớn nhất của sao Thổ, có môi trường khám phá được và lớp thông tin giải thích đặc điểm vật lý riêng.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Bài đăng gốc](https://x.com/ArdaTugsat/status/2095986941753712841) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="3d-slingshot-bird-game-2095981655370666076"></a>
 
 ### Game bắn chim bằng ná 3D
@@ -882,248 +1129,6 @@ Mở rộng game nhập vai Three.js với camera góc nhìn thứ nhất và th
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Bài đăng gốc](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
-
-### Game 3D thời gian thực chơi được từ một prompt
-
-[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Game 3D thời gian thực chơi được từ một prompt"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một game 3D thời gian thực có thể chơi từ một prompt. Xác định cơ chế cốt lõi gọn, mục tiêu rõ ràng và câu chuyện ngắn, rồi tạo cảnh, nhân vật, đạo cụ, phản hồi và trạng thái khởi động lại để chơi được ngay.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Bài đăng gốc](https://x.com/higgsfield/status/2095647685210669541) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
-
-### Cụm CAD USS Enterprise có thể in
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="Cụm CAD USS Enterprise có thể in"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Thiết kế trong CAD một mô hình nguyên bản tri ân USS Enterprise NCC-1701, sẵn sàng để in. Có tỷ lệ dễ nhận biết, cầu tàu và một số nội thất, ít nhất 28 chi tiết chuyển động hoạt động được, cụm lắp ráp tách riêng và tệp sản xuất có thể xuất.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Bài đăng gốc](https://x.com/DeryaTR_/status/2095641163441254676) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
-
-### Cảnh biệt thự hiện đại trong Blender
-
-[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Cảnh biệt thự hiện đại trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng một cảnh biệt thự hiện đại hoàn chỉnh trong Blender với kiến trúc nhất quán, nội thất đầy đủ, hồ bơi vô cực, cảnh quan, vật liệu chân thực và đường máy quay đậm chất điện ảnh trong giờ vàng.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Bài đăng gốc](https://x.com/karankendre/status/2095636679264780481) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
-
-### Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Bối cảnh Phòng Bầu dục dựng thủ tục cho Cycles"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Chuyển mô tả thiết kế bối cảnh Phòng Bầu dục thành mã dựng cảnh có thể chạy. Tạo không gian trong Blender với nội thất, tường, ánh sáng và bố trí máy quay đều chỉnh sửa được, rồi render kết quả mang chất điện ảnh bằng Cycles.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095630197257367857) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="unity-space-trench-run-game-2095630044102279312"></a>
-
-### Game bay xuyên hào không gian trong Unity
-
-[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Game bay xuyên hào không gian trong Unity"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện cảm giác bay xuyên hào không gian kinh điển trong Unity: bay nhanh sát bề mặt, hỏa lực tháp súng, chướng ngại, ngắm mục tiêu, áp lực tăng dần, mục tiêu cuối và chuỗi thành công hoặc thất bại mang chất điện ảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Bài đăng gốc](https://x.com/ronaldmannak/status/2095630044102279312) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
-
-### Archviz từ bản vẽ qua Blender đến Unreal
-
-[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Archviz từ bản vẽ qua Blender đến Unreal"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Bắt đầu từ bản vẽ kiến trúc được cung cấp, dựng mô hình chính xác và chỉnh sửa được trong Blender, rồi chuyển sang Unreal Engine thành trải nghiệm archviz có ánh sáng và đi tham quan được, đúng tỷ lệ và va chạm.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Bài đăng gốc](https://x.com/LinusEkenstam/status/2095624712244072551) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="text-to-explorable-unity-city-2095623452678144366"></a>
-
-### Từ mô tả đến thành phố Unity có thể khám phá
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Từ mô tả đến thành phố Unity có thể khám phá"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Biến ý tưởng thành phố được cung cấp thành môi trường Unity có nhà cao tầng, đường sá, xe cộ, cây cọ và ánh sáng giàu không khí. Thiết lập tỷ lệ hợp lý, điều hướng, chuyển động giao thông và camera góc nhìn thứ nhất mượt.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Bài đăng gốc](https://x.com/0x0SojalSec/status/2095623452678144366) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="three-js-marble-factory-2095622065390772322"></a>
-
-### Nhà máy bi Three.js
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Nhà máy bi Three.js"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo mô phỏng nhà máy bi Three.js với quy trình sản xuất dễ hiểu, bi và máy móc chuyển động. Cho người xem theo dõi viên bi qua từng công đoạn.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/three-js-marble-factory-2095622065390772322) · [Bài đăng gốc](https://x.com/JohnKlerAI/status/2095622065390772322) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
-
-### Studio mockup sản phẩm 3D chân thực
-
-[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="Studio mockup sản phẩm 3D chân thực"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo công cụ trình duyệt đặt hình ảnh tải lên lên mockup sản phẩm 3D chân thực. Hỗ trợ xoay camera, chỉnh vật liệu và màu, ánh sáng môi trường, nhiều sản phẩm và xuất ảnh độ phân giải cao.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Bài đăng gốc](https://x.com/joshmillgate/status/2095619319690400253) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
-
-### Tiền kỳ quay phim bảo tàng bằng 3D
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="Tiền kỳ quay phim bảo tàng bằng 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng bản tiền kỳ 3D bảo tàng thể hiện địa điểm, vị trí diễn viên, bố trí camera và danh sách cảnh quay. Giữ mọi thiết lập trong khung nhìn vật lý, rồi xuất hướng dẫn nhất quán cho bước tạo video sau đó.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2095616529572503593) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
-
-### Từ tin Zillow đến phim bất động sản 3D
-
-[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Từ tin Zillow đến phim bất động sản 3D"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
-
-**Prompt**
-
-```text
-Dùng tin đăng bất động sản và toàn bộ ảnh đi kèm để dựng lại ngôi nhà trong 3D, suy ra mặt bằng nhất quán rồi tạo video tham quan quảng bá chỉn chu. Đánh dấu phần hình học chưa chắc chắn và sửa sai lệch sau bản đầu tiên.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Bài đăng gốc](https://x.com/realYunfanYe/status/2095612137582526615) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
-
-### Dựng Manhattan trong Unreal Engine, từng con phố một
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Dựng Manhattan trong Unreal Engine, từng con phố một"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng một Manhattan có thể khám phá trong Unreal Engine. Làm lần lượt từng quận, từng con phố, giữ tỷ lệ dễ nhận biết, bố cục đường sá, địa danh, giao thông và đặc trưng khu phố. Duy trì danh sách tiêu chí đánh giá và hoàn thiện từng khu vực trước khi chuyển sang nơi tiếp theo.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Bài đăng gốc](https://x.com/mattshumer_/status/2095609734845927525) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

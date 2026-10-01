@@ -28,6 +28,18 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Erkundbares Taj Mahal](#explorable-taj-mahal-2096035962824335798)
+- [Persönliches 3D-Portfolio mit Vortragsglobus](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
+- [Gogh Strike: Multiplayer-FPS](#gogh-strike-multiplayer-fps-2096013280519016608)
+- [TP-7-Rekorder nach Referenzbildern](#tp-7-recorder-reference-model-2096013228090245181)
+- [Tesla Model X in Explosionsansicht](#tesla-model-x-exploded-view-2096009146248122416)
+- [Wackelnder WebGPU-Wackelpudding](#bouncy-webgpu-jelly-2096008241104711698)
+- [Anime-Arenakämpfe in Roblox](#anime-arena-fighter-in-roblox-2095999578419929412)
+- [Synchronisierter Grundriss und 3D-Rundgang](#linked-floor-plan-and-3d-walkthrough-2095999282088378520)
+- [Interaktive Flussszene im Browser](#interactive-browser-river-scene-2095993826569502785)
+- [Hack-and-Slash-Arena in einer Kathedrale](#cathedral-hack-and-slash-arena-2095988972879335792)
+- [Eine Unity-Stadt mit einem vorhandenen Asset-Pack erstellen](#gpt-6-astra-2095987508475834641)
+- [Interaktive Wissenschaftsausstellung über Titan](#interactive-titan-science-exhibit-2095986941753712841)
 - [3D-Vogelschleuderspiel](#3d-slingshot-bird-game-2095981655370666076)
 - [Rube-Goldberg-Kettenreaktionsmaschine](#rube-goldberg-chain-reaction-machine-2095980885732704629)
 - [Schwebender chinesischer Tempel mit Tag-Nacht-Schalter](#gpt-6-astra-2095978925029556561)
@@ -66,20 +78,255 @@
 - [Palace of Fine Arts in Blender nachgebaut](#palace-of-fine-arts-blender-recreation-2095653641164329143)
 - [Aquarium-Benchmark mit einem Prompt](#single-aquarium-benchmark-2095650251902239139)
 - [Rollenspiel mit Ego- und Verfolgerkamera](#rpg-with-first-and-third-person-cameras-2095648440978174276)
-- [Spielbares Echtzeit-3D-Spiel aus einem Prompt](#single-playable-real-time-3d-game-2095647685210669541)
-- [Druckbare USS-Enterprise-CAD-Baugruppe](#printable-uss-enterprise-cad-assembly-2095641163441254676)
-- [Moderne Villa als Blender-Szene](#modern-villa-scene-in-blender-2095636679264780481)
-- [Prozedurales Oval-Office-Set für Cycles](#procedural-oval-office-set-for-cycles-2095630197257367857)
-- [Weltraum-Trench-Run in Unity](#unity-space-trench-run-game-2095630044102279312)
-- [Vom Bauplan über Blender zu Unreal-Archviz](#blueprint-to-blender-to-unreal-archviz-2095624712244072551)
-- [Vom Text zur erkundbaren Unity-Stadt](#text-to-explorable-unity-city-2095623452678144366)
-- [Three.js-Murmelfabrik](#three-js-marble-factory-2095622065390772322)
-- [Studio für fotorealistische 3D-Produktmockups](#photoreal-3d-product-mockup-studio-2095619319690400253)
-- [3D-Museums-Previs für die Kameraplanung](#3d-museum-cinematography-previsualization-2095616529572503593)
-- [Vom Zillow-Inserat zum 3D-Immobilienfilm](#zillow-listing-to-3d-property-film-2095612137582526615)
-- [Manhattan Straße für Straße in Unreal Engine](#street-by-street-manhattan-in-unreal-engine-2095609734845927525)
 
 </details>
+<a id="explorable-taj-mahal-2096035962824335798"></a>
+
+### Erkundbares Taj Mahal
+
+[vikas sabbi](https://x.com/vikassabbi) · 2026-09-05 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/explorable-taj-mahal-2096035962824335798"><img src="../assets/previews/a3186347a1ce32e742a849ff40d24911febe0d45284386ae16da89237485502d.webp" width="840" loading="lazy" alt="Erkundbares Taj Mahal"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Rekonstruiere das Taj Mahal als erkundbare 3D-Szene. Priorisiere erkennbare Proportionen, symmetrische Gärten, zentrale Kuppel, Minarette und die Beziehungen zwischen Gebäuden.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/explorable-taj-mahal-2096035962824335798) · [Originalbeitrag](https://x.com/vikassabbi/status/2096035962824335798) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"></a>
+
+### Persönliches 3D-Portfolio mit Vortragsglobus
+
+[Shivay Lamba](https://x.com/HowDevelop) · 2026-09-04 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704"><img src="../assets/previews/eedbbfe02649f89b6eca0e65047e5b99c5ebdaccb3582756130ae1e192603f5f.webp" width="840" loading="lazy" alt="Persönliches 3D-Portfolio mit Vortragsglobus"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Verwandle ein Porträt in eine Blender-Figur innerhalb eines redaktionell gestalteten WebGL-Portfolios. Ergänze einen rotierenden Globus mit Vortragsorten und integriere die Assets in die Website.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/personal-3d-portfolio-with-a-speaking-globe-2096023793772998704) · [Originalbeitrag](https://x.com/HowDevelop/status/2096023793772998704) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gogh-strike-multiplayer-fps-2096013280519016608"></a>
+
+### Gogh Strike: Multiplayer-FPS
+
+[Peter Gostev](https://x.com/petergostev) · 2026-09-04 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608"><img src="../assets/previews/642c0704d0aeb639cefd082dffc8bd2e706d5416ddbd5905aa4d15ebf667c671.webp" width="840" loading="lazy" alt="Gogh Strike: Multiplayer-FPS"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue einen postimpressionistischen 5-gegen-5-Ego-Shooter mit in Blender gerenderten Künstlerfiguren, erkennbaren Teams und einem vollständigen Multiplayer-Match im Browser.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gogh-strike-multiplayer-fps-2096013280519016608) · [Originalbeitrag](https://x.com/petergostev/status/2096013280519016608) · [Quellcode](https://github.com/petergpt/gogh-strike) · [Live-Demo](https://gogh-strike.surge.sh/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="tp-7-recorder-reference-model-2096013228090245181"></a>
+
+### TP-7-Rekorder nach Referenzbildern
+
+[Tykra](https://x.com/ty_kra_lab) · 2026-09-04 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/tp-7-recorder-reference-model-2096013228090245181"><img src="../assets/previews/4d366afa8a8a0cb37e7e237f0b482d273a45c9568e0e1200ab617373a2949b86.webp" width="840" loading="lazy" alt="TP-7-Rekorder nach Referenzbildern"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue den Teenage Engineering TP-7 anhand von Referenzbildern in Three.js nach. Triff seine Form und sichtbaren Bedienelemente in einem frei betrachtbaren 3D-Modell.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/tp-7-recorder-reference-model-2096013228090245181) · [Originalbeitrag](https://x.com/ty_kra_lab/status/2096013228090245181) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="tesla-model-x-exploded-view-2096009146248122416"></a>
+
+### Tesla Model X in Explosionsansicht
+
+[ashe](https://x.com/ashebytes) · 2026-09-04 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/tesla-model-x-exploded-view-2096009146248122416"><img src="../assets/previews/34e23aa5ac1d489f12134850838cda1a3ea9c651884aa71d4b46e23f93068977.webp" width="840" loading="lazy" alt="Tesla Model X in Explosionsansicht"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine 3D-Website, die ein Tesla Model X in modellierte Komponenten zerlegt. Besucher sollen Baugruppen untersuchen und das Fahrzeug interaktiv wieder zusammensetzen können.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/tesla-model-x-exploded-view-2096009146248122416) · [Originalbeitrag](https://x.com/ashebytes/status/2096009146248122416) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="bouncy-webgpu-jelly-2096008241104711698"></a>
+
+### Wackelnder WebGPU-Wackelpudding
+
+[Scott](https://x.com/scottstts) · 2026-09-04 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/bouncy-webgpu-jelly-2096008241104711698"><img src="../assets/previews/3c178473c737655a9fbdab7c2d43cfdb03606146aa40f37f32ccf31bff0ca289.webp" width="840" loading="lazy" alt="Wackelnder WebGPU-Wackelpudding"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle mit Three.js und WebGPU einen appetitlichen, federnden Wackelpudding. Er soll sich nach Interaktion natürlich verformen und beruhigen, mit durchscheinendem Material und gut lesbarer Beleuchtung.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/bouncy-webgpu-jelly-2096008241104711698) · [Originalbeitrag](https://x.com/scottstts/status/2096008241104711698) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="anime-arena-fighter-in-roblox-2095999578419929412"></a>
+
+### Anime-Arenakämpfe in Roblox
+
+[hiraeth](https://x.com/WoahWurdz) · 2026-09-04 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412"><img src="../assets/previews/23651fc924fde4b7ab711ce4f5016f27f90126c0e9c40ee92b38011dcd4c11bd.webp" width="840" loading="lazy" alt="Anime-Arenakämpfe in Roblox"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle ein Roblox-Arena-Kampfspiel, inspiriert von Anime-Crossover-Kämpfen. Baue Arena und Figuren mit Blender und verfügbaren Assets und implementiere einen spielbaren Kampfablauf.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/anime-arena-fighter-in-roblox-2095999578419929412) · [Originalbeitrag](https://x.com/WoahWurdz/status/2095999578419929412) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="linked-floor-plan-and-3d-walkthrough-2095999282088378520"></a>
+
+### Synchronisierter Grundriss und 3D-Rundgang
+
+[おのふみ\| AIクリエーター×個人開発](https://x.com/onofumi_AI) · 2026-09-04 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520"><img src="../assets/previews/95614c161a2f38f2ff3ed8db6feb6851984a21718484d45672f0e8ac427e4205.webp" width="840" loading="lazy" alt="Synchronisierter Grundriss und 3D-Rundgang"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle einen Rundgang durch eine Wohnung mit einem Schlafzimmer und einen Grundriss anhand derselben Maße. Synchronisiere die aktuelle Position zwischen den Ansichten und kennzeichne angenommene Deckenhöhen und Oberflächenausführungen deutlich.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/linked-floor-plan-and-3d-walkthrough-2095999282088378520) · [Originalbeitrag](https://x.com/onofumi_AI/status/2095999282088378520) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="interactive-browser-river-scene-2095993826569502785"></a>
+
+### Interaktive Flussszene im Browser
+
+[Dan Greenheck](https://x.com/dangreenheck) · 2026-09-04 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-browser-river-scene-2095993826569502785"><img src="../assets/previews/3c06dcd0decff6d3db6a0b972dc250afcea64c8b40bf491fdd126cc63bd03cb7.webp" width="840" loading="lazy" alt="Interaktive Flussszene im Browser"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle eine interaktive Flussszene, die im Browser läuft. Setze zunächst einen funktionierenden Echtzeit-Wasserprototyp um und prüfe und verfeinere anschließend das visuelle Ergebnis.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-browser-river-scene-2095993826569502785) · [Originalbeitrag](https://x.com/dangreenheck/status/2095993826569502785) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="cathedral-hack-and-slash-arena-2095988972879335792"></a>
+
+### Hack-and-Slash-Arena in einer Kathedrale
+
+[Alexey Fateev](https://x.com/superalesha) · 2026-09-04 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792"><img src="../assets/previews/c775419cd83531a4611ebdc52255d4f26bd1d195734b6757a41c8abbe73aaf0c.webp" width="840" loading="lazy" alt="Hack-and-Slash-Arena in einer Kathedrale"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue ein Third-Person-Hack-and-Slash-Spiel in Three.js in einer Kathedrale über einem toten Stern. Integriere leichte Schwertkombos, schwere Angriffe, Flächenmagie, Ausweichen und glaubwürdig geerdete Zweihandanimationen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/cathedral-hack-and-slash-arena-2095988972879335792) · [Originalbeitrag](https://x.com/superalesha/status/2095988972879335792) · [Quellcode](https://github.com/alesha-pro/bench-portal) · [Live-Demo](https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2095987508475834641"></a>
+
+### Eine Unity-Stadt mit einem vorhandenen Asset-Pack erstellen
+
+[Andrew Walko](https://x.com/AndrewWalko) · 2026-09-04 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095987508475834641"><img src="../assets/previews/004677f51b16a2f5694b2db9fce8342b681baace949d2915a4aa52948472486e.webp" width="840" loading="lazy" alt="Eine Unity-Stadt mit einem vorhandenen Asset-Pack erstellen"></a>
+
+**Prompt**
+
+```text
+Erstelle für mich eine neue 3D-Stadtszene. Ich möchte dort mehrere Gebäudetypen mit unterschiedlichen Höhen und Autos haben. Verwende außerdem Straßen, Werbetafeln und weitere Elemente, die zu einer Großstadt gehören. Alles, was du benötigst, befindet sich in diesem Ordner: Assets/ithappy/Cartoon_City_Free.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/gpt-6-astra-2095987508475834641) · [Originalbeitrag](https://x.com/AndrewWalko/status/2095987508475834641) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="interactive-titan-science-exhibit-2095986941753712841"></a>
+
+### Interaktive Wissenschaftsausstellung über Titan
+
+[Arda Tuğsat](https://x.com/ArdaTugsat) · 2026-09-04 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-titan-science-exhibit-2095986941753712841"><img src="../assets/previews/2a7fe95b0cd1e40ab47d8d645164768262ed18aad41046077fb04a840ead02f1.webp" width="840" loading="lazy" alt="Interaktive Wissenschaftsausstellung über Titan"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue eine lehrreiche 3D-Simulation von Titan, Saturns größtem Mond, mit erkundbarer Umgebung und einer Informationsebene zu seinen besonderen physikalischen Eigenschaften.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-titan-science-exhibit-2095986941753712841) · [Originalbeitrag](https://x.com/ArdaTugsat/status/2095986941753712841) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="3d-slingshot-bird-game-2095981655370666076"></a>
 
 ### 3D-Vogelschleuderspiel
@@ -882,248 +1129,6 @@ Erweitere ein Three.js-Rollenspiel um Ego- und Third-Person-Kameras. Bewegung un
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Originalbeitrag](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="single-playable-real-time-3d-game-2095647685210669541"></a>
-
-### Spielbares Echtzeit-3D-Spiel aus einem Prompt
-
-[Higgsfield AI 🧩](https://x.com/higgsfield) · 2026-09-03 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/single-playable-real-time-3d-game-2095647685210669541"><img src="../assets/previews/128e33094c62b8846db1a1432bd171dadd8d451c81d66d199864b1be9b848f49.webp" width="840" loading="lazy" alt="Spielbares Echtzeit-3D-Spiel aus einem Prompt"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue aus einem Prompt ein spielbares Echtzeit-3D-Spiel. Definiere eine kompakte Kernmechanik, ein klares Ziel und eine kurze Geschichte. Erzeuge Szene, Figuren, Requisiten, Feedback und Neustartzustand für einen sofortigen Spielstart.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/single-playable-real-time-3d-game-2095647685210669541) · [Originalbeitrag](https://x.com/higgsfield/status/2095647685210669541) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="printable-uss-enterprise-cad-assembly-2095641163441254676"></a>
-
-### Druckbare USS-Enterprise-CAD-Baugruppe
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-03 · GPT-6 Astra · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676"><img src="../assets/previews/05f5287866dadc6cdef37b18b8970d56cf8c9a908dd3ae8011e53ca7f45150da.webp" width="840" loading="lazy" alt="Druckbare USS-Enterprise-CAD-Baugruppe"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Entwirf in CAD eine eigenständige, druckfertige Hommage an die USS Enterprise NCC-1701. Integriere erkennbare Proportionen, Brücke und ausgewählte Innenräume, mindestens 28 funktionsfähige bewegliche Teile, getrennte Baugruppen und exportierbare Fertigungsdateien.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/printable-uss-enterprise-cad-assembly-2095641163441254676) · [Originalbeitrag](https://x.com/DeryaTR_/status/2095641163441254676) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="modern-villa-scene-in-blender-2095636679264780481"></a>
-
-### Moderne Villa als Blender-Szene
-
-[Karan](https://x.com/karankendre) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/modern-villa-scene-in-blender-2095636679264780481"><img src="../assets/previews/00885de8b90f4e6f5b79efa855ba6762219bf5ad281d9e1d978e1321ce57978f.webp" width="840" loading="lazy" alt="Moderne Villa als Blender-Szene"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle in Blender eine vollständige moderne Villa mit stimmiger Architektur, eingerichteten Innenräumen, Infinitypool, Landschaftsgestaltung, realistischen Materialien und einer filmischen Kamerafahrt zur goldenen Stunde.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/modern-villa-scene-in-blender-2095636679264780481) · [Originalbeitrag](https://x.com/karankendre/status/2095636679264780481) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="procedural-oval-office-set-for-cycles-2095630197257367857"></a>
-
-### Prozedurales Oval-Office-Set für Cycles
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857"><img src="../assets/previews/d340efd60f41fec4d1721712907d2c031935da23eb55df2bd5c5a918575bf28f.webp" width="840" loading="lazy" alt="Prozedurales Oval-Office-Set für Cycles"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Übersetze eine Setbeschreibung des Oval Office in ausführbaren Szenencode. Baue den Raum in Blender mit bearbeitbaren Möbeln, Wänden, Beleuchtung und Kamerapositionen und rendere ein filmisches Ergebnis mit Cycles.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-oval-office-set-for-cycles-2095630197257367857) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2095630197257367857) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="unity-space-trench-run-game-2095630044102279312"></a>
-
-### Weltraum-Trench-Run in Unity
-
-[Ronald Mannak](https://x.com/ronaldmannak) · 2026-09-03 · GPT-6 Astra · Spiele
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/unity-space-trench-run-game-2095630044102279312"><img src="../assets/previews/98074c38b6045d1b98ac58ab6d35c56a9ed5cb706a35df95c2f7c173b2061b92.webp" width="840" loading="lazy" alt="Weltraum-Trench-Run in Unity"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erzeuge in Unity das Gefühl eines klassischen Weltraum-Trench-Runs: schneller Tiefflug, Geschützfeuer, Hindernisse, Zielerfassung, steigender Druck, ein finales Ziel und eine filmische Erfolgs- oder Fehlschlagsequenz.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/unity-space-trench-run-game-2095630044102279312) · [Originalbeitrag](https://x.com/ronaldmannak/status/2095630044102279312) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="blueprint-to-blender-to-unreal-archviz-2095624712244072551"></a>
-
-### Vom Bauplan über Blender zu Unreal-Archviz
-
-[Linus ✦ Ekenstam](https://x.com/LinusEkenstam) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551"><img src="../assets/previews/2e3768fcfcaeea323f34e38682907c1753550536722cd54318f47e434104b61b.webp" width="840" loading="lazy" alt="Vom Bauplan über Blender zu Unreal-Archviz"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle aus dem Architekturplan ein präzises, bearbeitbares Blender-Modell. Übertrage es anschließend nach Unreal Engine als beleuchtete, begehbare Archviz-Erfahrung mit richtigem Maßstab und Kollisionen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/blueprint-to-blender-to-unreal-archviz-2095624712244072551) · [Originalbeitrag](https://x.com/LinusEkenstam/status/2095624712244072551) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="text-to-explorable-unity-city-2095623452678144366"></a>
-
-### Vom Text zur erkundbaren Unity-Stadt
-
-[Md Ismail Šojal 🕷️](https://x.com/0x0SojalSec) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/text-to-explorable-unity-city-2095623452678144366"><img src="../assets/previews/d179a48d547bd2ea109ee25cfd0ec764c344e5c939bc27b3f04770b92799cc80.webp" width="840" loading="lazy" alt="Vom Text zur erkundbaren Unity-Stadt"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Verwandle die Stadtvision in eine erkundbare Unity-Umgebung mit Hochhäusern, Straßen, Fahrzeugen, Palmen und atmosphärischem Licht. Sorge für glaubwürdigen Maßstab, Navigation, fließenden Verkehr und eine sanfte Ego-Kamera.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/text-to-explorable-unity-city-2095623452678144366) · [Originalbeitrag](https://x.com/0x0SojalSec/status/2095623452678144366) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="three-js-marble-factory-2095622065390772322"></a>
-
-### Three.js-Murmelfabrik
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-03 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/three-js-marble-factory-2095622065390772322"><img src="../assets/previews/9f2c07f096450bbc73f4c3f0a00561cb2592818ef679678895c8b72c7e9487f9.webp" width="840" loading="lazy" alt="Three.js-Murmelfabrik"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine Three.js-Murmelfabrik mit verständlichem Produktionsfluss, bewegten Murmeln und Maschinen. Besucher sollen eine Murmel durch den Prozess verfolgen können.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/three-js-marble-factory-2095622065390772322) · [Originalbeitrag](https://x.com/JohnKlerAI/status/2095622065390772322) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="photoreal-3d-product-mockup-studio-2095619319690400253"></a>
-
-### Studio für fotorealistische 3D-Produktmockups
-
-[Josh Millgate](https://x.com/joshmillgate) · 2026-09-03 · GPT-6 Astra · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253"><img src="../assets/previews/1e8168dd5aeecb0f4b5609e46d6adf88c137b119bf0aada5580c5d73c417d049.webp" width="840" loading="lazy" alt="Studio für fotorealistische 3D-Produktmockups"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle ein Browserwerkzeug, das hochgeladene Designs auf fotorealistische 3D-Produktmockups legt. Unterstütze Kamerakreisung, Material- und Farbsteuerung, Umgebungslicht, mehrere Produkte und hochauflösenden Export.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/photoreal-3d-product-mockup-studio-2095619319690400253) · [Originalbeitrag](https://x.com/joshmillgate/status/2095619319690400253) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="3d-museum-cinematography-previsualization-2095616529572503593"></a>
-
-### 3D-Museums-Previs für die Kameraplanung
-
-[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593"><img src="../assets/previews/b7e45176d8a51a39b48471e412ed95eeb35d038db08269126ebfcd3884906c53.webp" width="840" loading="lazy" alt="3D-Museums-Previs für die Kameraplanung"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine 3D-Museums-Previsualisierung mit Schauplatz, Darstellerpositionen, Kameraaufstellung und Shotliste. Halte alle Aufstellungen im tatsächlichen Viewport und exportiere einheitliche Vorlagen für die anschließende Videogenerierung.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-museum-cinematography-previsualization-2095616529572503593) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2095616529572503593) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="zillow-listing-to-3d-property-film-2095612137582526615"></a>
-
-### Vom Zillow-Inserat zum 3D-Immobilienfilm
-
-[Yunfan Ye](https://x.com/realYunfanYe) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615"><img src="../assets/previews/f4e62f9c3dac4a7cb567b19dd265494ae288b870a14c9b89b8b3bef9f9a42675.webp" width="840" loading="lazy" alt="Vom Zillow-Inserat zum 3D-Immobilienfilm"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Referenzbilder:** [1](https://media.tripogrowth.space/media/55a852d1-8c13-44dc-a152-476e4cce63ec.png) · [2](https://media.tripogrowth.space/media/a0e91ce4-fbeb-4653-b013-5f32715b7c23.png) · [3](https://pbs.twimg.com/media/HRUdPJDaUAAWdDZ.png) · [4](https://pbs.twimg.com/media/HRUdUVKbAAAkA9W.png)
-
-**Prompt**
-
-```text
-Rekonstruiere das Haus anhand des Immobilieninserats und aller Fotos in 3D, leite einen stimmigen Grundriss ab und erstelle einen hochwertigen Werberundgang als Video. Kennzeichne unsichere Geometrie und korrigiere Abweichungen nach dem ersten Durchlauf.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/zillow-listing-to-3d-property-film-2095612137582526615) · [Originalbeitrag](https://x.com/realYunfanYe/status/2095612137582526615) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="street-by-street-manhattan-in-unreal-engine-2095609734845927525"></a>
-
-### Manhattan Straße für Straße in Unreal Engine
-
-[Matt Shumer](https://x.com/mattshumer_) · 2026-09-03 · GPT-6 Astra · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525"><img src="../assets/previews/1e178be91c2bbd1af132797a3d38f2cf6ddfaf6942c67fb78bf70004c2e4efb6.webp" width="840" loading="lazy" alt="Manhattan Straße für Straße in Unreal Engine"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein erkundbares Manhattan in Unreal Engine. Arbeite Bezirk für Bezirk und Straße für Straße. Bewahre erkennbare Größenverhältnisse, Straßenführung, Wahrzeichen, Verkehr und den Charakter der Viertel. Führe eine Prüfliste und verbessere jeden Bereich, bevor du weitergehst.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/street-by-street-manhattan-in-unreal-engine-2095609734845927525) · [Originalbeitrag](https://x.com/mattshumer_/status/2095609734845927525) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

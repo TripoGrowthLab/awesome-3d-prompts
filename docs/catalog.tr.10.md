@@ -26,8 +26,20 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (26)</summary>
+<summary>Örnekleri keşfet (38)</summary>
 
+- [Tek dosyalık Three.js bilgisayarlı 3B oda istemi](#explorable-3d-room-with-computer-workstation-2082451081733591520)
+- [Unreal Engine 5'te Öklid dışı kapı portalı için Claude Opus 5 istemi](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
+- [Three.js oyunu için basit FPS istemi](#simple-first-person-shooter-in-three-js-2082242351372599770)
+- [CS2 ve Battlefield tarzı FPS için Claude Opus 5 istemi](#cs2-and-battlefield-style-fps-2082241827298557966)
+- [Claude Opus 5 için AAA nişancı oyunu istemi](#aaa-shooter-game-2082180453889712318)
+- [Tek HTML dosyasında oynanabilir karanlık fantezi yan kaydırmalı oyun](#playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575)
+- [3B MMO için Claude Opus 5 geliştirme akışı](#development-workflow-for-a-3d-mmo-2082035844836450334)
+- [Oynanabilir Chrome Dino oyunu yapma](#make-a-playable-chrome-dino-game-2081867025140650236)
+- [Gerçekçi helikopter nişancı oyunu için Kimi K3 istemi](#realistic-helicopter-shooter-game-2081791572115435765)
+- [Subway Surfers tarzı oyun için Kimi K3 istemi](#subway-surfers-style-game-2081766198082220514)
+- [Counter-Strike esintili Three.js FPS için Claude Opus 5 istemi](#counter-strike-inspired-three-js-fps-2081607528790856068)
+- [Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi](#infinite-three-js-paper-machine-2081533777340506251)
 - [Etkileşimli 3B robot el simülasyonu için Claude Opus 5 istemi](#interactive-3d-robotic-hand-simulation-2081475055536820506)
 - [3B yapılandırıcıya Vespa 125 ekleme istemi](#vespa-125-3d-configurator-2081439705506435440)
 - [Ultra gerçekçi 3B uçuş simülatörü istemi](#ultra-realistic-3d-flight-simulator-2081403842256605254)
@@ -56,6 +68,294 @@
 - [Three.js uçak içi gezinti deneyimi istemi](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
+
+### Tek dosyalık Three.js bilgisayarlı 3B oda istemi
+
+[thehype.](https://x.com/thehypedotnews) · 2026-07-29 · Kimi K3 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520"><img src="../assets/previews/17e7ccaa549f11c9eb36b455ba54c58a84880b08604e3f5cf840d758b1aa97ff.webp" width="840" loading="lazy" alt="Tek dosyalık Three.js bilgisayarlı 3B oda istemi"></a>
+
+**İstem**
+
+```text
+bilgisayar çalışma alanı etrafında keşfedilebilir 3b oda oluştur; tek bağımsız html dosyası, importmap üzerinden Three.js, yalnızca prosedürel geometri; dış model ağı, görüntü dokusu, belirlenmiş düzen veya stil yok. “tasarımcı sensin. şaşırt beni”
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/explorable-3d-room-with-computer-workstation-2082451081733591520) · [Orijinal gönderi](https://x.com/thehypedotnews/status/2082451081733591520) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"></a>
+
+### Unreal Engine 5'te Öklid dışı kapı portalı için Claude Opus 5 istemi
+
+[Ombrage](https://x.com/ombrageplays) · 2026-07-29 · Claude Opus 5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333"><img src="../assets/previews/1146dd6ef0b199928d8461933f367f92a50291d3a5e36249dd27e2ea0edf6e03.webp" width="840" loading="lazy" alt="Unreal Engine 5'te Öklid dışı kapı portalı için Claude Opus 5 istemi"></a>
+
+**İstem**
+
+```text
+"Boşlukta tek başına duran, çevresinde ve arkasında hiçbir şey olmayan bir kapı; bölümün başka bir yerindeki sınıfa açılıyor. Dümdüz yürüyerek içinden geçilsin — kesme, kararma, yükleme ekranı veya ışınlanma hissi veren hiçbir şey olmasın. Her iki taraftan ve her açıdan çalışmalı."
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333) · [Orijinal gönderi](https://x.com/ombrageplays/status/2082436347113951333) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="simple-first-person-shooter-in-three-js-2082242351372599770"></a>
+
+### Three.js oyunu için basit FPS istemi
+
+[Code With Antonio](https://x.com/codewithantonio) · 2026-07-28 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770"><img src="../assets/previews/42127eff1487b086c85359119198ce776f94d486f41874c735a7324d28588242.webp" width="840" loading="lazy" alt="Three.js oyunu için basit FPS istemi"></a>
+
+**İstem**
+
+```text
+Bana bir FPS yap
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/simple-first-person-shooter-in-three-js-2082242351372599770) · [Orijinal gönderi](https://x.com/codewithantonio/status/2082242351372599770) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="cs2-and-battlefield-style-fps-2082241827298557966"></a>
+
+### CS2 ve Battlefield tarzı FPS için Claude Opus 5 istemi
+
+[Anatoli Kopadze](https://x.com/AnatoliKopadze) · 2026-07-28 · Claude Opus 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966"><img src="../assets/previews/aebdb0e1f7c53680495896acb7e72867b6f2557ea8938374af4d2eaf5900d98b.webp" width="840" loading="lazy" alt="CS2 ve Battlefield tarzı FPS için Claude Opus 5 istemi"></a>
+
+**İstem**
+
+```text
+CS2 ile Battlefield karışımı bir birinci şahıs nişancı yapmayı dene.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cs2-and-battlefield-style-fps-2082241827298557966) · [Orijinal gönderi](https://x.com/AnatoliKopadze/status/2082241827298557966) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="aaa-shooter-game-2082180453889712318"></a>
+
+### Claude Opus 5 için AAA nişancı oyunu istemi
+
+[Garry Yuan](https://x.com/ziqinyuan) · 2026-07-28 · Claude Opus 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/aaa-shooter-game-2082180453889712318"><img src="../assets/previews/4781d67aa6c33d7ce1ed8e6b8fd4aaeb1aef7105c361c94fb6c8925bd615ed7a.webp" width="840" loading="lazy" alt="Claude Opus 5 için AAA nişancı oyunu istemi"></a>
+
+**İstem**
+
+```text
+Son günlerde Claude Opus 5 ile oluşturulan Call of Duty oyunu çok paylaşılıyor; yapımcısı bunu yalnızca tek istemle başardığını söylüyor. Pek çok kişi şüpheyle yaklaşınca yapımcı kodu ve istemi açık kaynak olarak yayımladı.
+
+Başta istemin çok karmaşık olacağını düşünmüştüm ama sadece birkaç yüz kelimeymiş. Buradaki kilit unsur döngü.
+
+İstem şöyle:
+
+"En yeni Call of Duty seviyesinde bir birinci şahıs nişancı oyunu geliştirmeni istiyorum. Kusursuz olmalı; dokulardan fizik efektlerine kadar düşünebildiğin her öğe AAA kalitesine ulaşmalı, grafikleri olağanüstü güzel görünmeli.
+
+Birden fazla alt ajan oluşturmalı ve oyunun kusursuz olması için her ayrıntıyı ayrı ayrı ele almalarını sağlamalısın. Her proje için /loop kullanmalı ve AAA standartlarına ulaşıldığını doğrulamak üzere bağımsız bir alt ajana görsel inceleme yaptırmalısın. Bu bağımsız alt ajan son derece katı olmalı; AAA standartlarına ulaşılmadıysa kontrol etmeye devam etmeli.
+
+Her alt ajan oyunu Call of Duty ile karşılaştırıp grafik kalitesine hayran kalana kadar durma. İki oyunu yan yana karşılaştırıp görsellere bile bakmadan hangisinin daha iyi olduğunu söyleyebilmeli. Bu işi ThreeJS ile tamamla. Oyun kusursuz olana kadar /loop kullan. Birden fazla alt ajan oluştur ve optimizasyon için UltraCode kullan."
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/aaa-shooter-game-2082180453889712318) · [Orijinal gönderi](https://x.com/ziqinyuan/status/2082180453889712318) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"></a>
+
+### Tek HTML dosyasında oynanabilir karanlık fantezi yan kaydırmalı oyun
+
+[slash1s](https://x.com/slash1sol) · 2026-07-28 · Claude Fable 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575"><img src="../assets/previews/e83fc0a98333e40159c0e3d3533e5a6718e5f2056393acd47b0bfd7fe01d66c9.webp" width="840" loading="lazy" alt="Tek HTML dosyasında oynanabilir karanlık fantezi yan kaydırmalı oyun"></a>
+
+**İstem**
+
+```text
+Tek HTML dosyasında oynanabilir karanlık fantezi yan kaydırmalı oyun oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-dark-fantasy-side-scroller-in-a-single-html-file-2082096376763060575) · [Orijinal gönderi](https://x.com/slash1sol/status/2082096376763060575) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="development-workflow-for-a-3d-mmo-2082035844836450334"></a>
+
+### 3B MMO için Claude Opus 5 geliştirme akışı
+
+[Vibe Coding Thailand](https://x.com/vibecodingth) · 2026-07-28 · Claude Opus 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334"><img src="../assets/previews/47bbef252ab887b06ff6bd2142befbdaea81098313926bfb77c4e318c88ee770.webp" width="840" loading="lazy" alt="3B MMO için Claude Opus 5 geliştirme akışı"></a>
+
+**İstem**
+
+```text
+Kodun neredeyse tamamı Claude Opus 5 ile yazıldı.
+
+Ama projeyi binlerce yineleme boyunca ilerleten şey akıllıca istem değildi. Yapay zekânın tüm kod tabanını okumadan ihtiyacını bulabileceği şekilde projeyi düzenlemekti.
+
+1. Talimatları tek yerde yığmak yerine kodun yanında tutun
+   Her klasörün yaygın iş akışları ve önceden bulunan sorunları içeren kılavuzu var. Klasörde oturum başlayınca otomatik yükleniyor. Canavarlarla çalışırken harita kılavuzunun bağlam maliyetini ödemek gerekmiyor. Her iş öncesindeki bağlam yaklaşık 76.000 tokendan 10.000'e indi.
+
+2. Kuralları disiplinle değil araçlarla uygulatın
+   Döngüsel içe aktarmaları veya merkezde tanımlanmak yerine kullanım yerinde yazılan renkleri bulunca derlemeyi başarısız yapan betikler yazdırdım. Yapay zekânın her kuralı hatırlamasını ummayın; commit'i başarısız yapmak çok daha güvenilir.
+
+3. TypeScript hatırlatsın
+   Etkisi olmayan yetenek eklerseniz proje derlenmez. Modeli oluşturulmamış canavar eklerseniz proje derlenmez. Tip sistemi izin vermediği için unutulamaz.
+
+4. İçeriği veri odaklı yapın
+   Canavar, yetenek veya eşya eklemek tüm sistemi değiştirmek değil bir satır eklemek olsun. Yapay zekâ “bir satır ekle”yi, “tutarlı kalması gereken beş yeri güncelle”den çok daha doğru yapar.
+
+5. Etkili istemler prosedürü değil değerlendirme ölçütlerini tanımlar
+   Örneğin “normal canavarlar 2–5 saniyede ölmeli”, “her haritanın en az %97'si erişilebilir olmalı” ve “hiçbir eşyanın düşme oranı %3'ten az olmamalı”. Sonra bu ölçütleri testlere kodlayın. Yapay zekâ iyinin ne olduğunu bilince yolu bulabilir ve başarıyı değerlendirebilir.
+
+Kısacası önce yapı ve testlere, sonra isteme yatırım yapın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+โค้ดเกือบทั้งหมดเขียนด้วย Claude Opus 5 ครับ
+
+แต่อยากบอกว่าสิ่งที่ทำให้มันไปต่อได้ iterate loop เป็นพันรอบ ไม่ใช่ prompt เก่งนะครับ
+มันคือการจัดบ้านให้ AI หาของเจอ โดยไม่ต้องอ่านทั้งโปรเจกต์
+
+1. คู่มืออยู่ข้างโค้ด ไม่ใช่กองไว้ที่เดียว
+   ทุกโฟลเดอร์มีไฟล์คู่มือของตัวเอง (วิธีทำงานที่ทำบ่อย + กับดักที่เคยเจอ)
+   แล้วมันโหลดเองตอนเปิด session ในโฟลเดอร์นั้น
+   งานที่แตะมอนเลยไม่ต้องจ่ายค่าคู่มือแมพ
+   บริบทที่ต้องอ่านก่อนเริ่มงานทุกครั้ง จากใหญ่ประมาณ ~76,000 token เหลือ ~10,000
+
+2. กฎบังคับด้วยเครื่อง ไม่ใช่ด้วยวินัย
+   ผมให้มันเขียน script ที่ build พัง เลยถ้าเจอ import วนกลับที่เดิม
+   เขียนเลขสีตรงจุดใช้งานแทนที่จะตั้งชื่อไว้ที่เดียว
+   อย่าหวังว่า AI จะจำกฎได้ครับ ทำให้มันพังตอน commit ดีกว่าเยอะ
+
+3. ให้ TypeScript เป็นคนเตือน
+   เพิ่มสกิลใหม่แล้วยังไม่ได้ทำเอฟเฟกต์ = คอมไพล์ไม่ผ่าน
+   เพิ่มมอนใหม่แล้วยังไม่ได้ปั้นโมเดล = คอมไพล์ไม่ผ่าน
+   ลืมไม่ได้ เพราะมันไม่ยอมให้ลืม
+
+4. ทำ content ให้เป็นตาราง
+   เพิ่มมอน เพิ่มสกิล เพิ่มของ = เพิ่มแถวเดียว ไม่ต้องไปแก้ระบบ
+   AI ทำงานกับ "เพิ่มแถว" ได้แม่นกว่า "ไปแก้ห้าที่ให้สอดคล้องกัน" เยอะมาก
+
+5. prompt ที่ได้ผลคือบอกเกณฑ์ตัดสิน ไม่ใช่บอกขั้นตอน
+   เช่น "มอนธรรมดาต้องตายใน 2 ถึง 5 วินาที"
+   "ทุกแมพต้องเดินไปถึงได้อย่างน้อย 97% ของพื้นที่"
+   "ของในเกมห้ามมีชิ้นไหนดรอปต่ำกว่า 3%"
+   แล้วเขียนพวกนี้เป็นเทสไว้
+   พอบอกไปว่าอะไรคือดี มันหาทางไปเอง แล้วมันรู้ตัวเองด้วยว่าทำสำเร็จหรือยัง
+
+สรุปสั้น ๆ คือ ลงแรงกับโครงสร้างและเทสก่อน แล้วค่อยไปลงแรงกับ prompt ครับ
+
+ใครมีคำถามหรืออยากให้ลงรายละเอียดตรงไหนเพิ่ม คอมเมนต์ไว้ได้เลยครับ
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/development-workflow-for-a-3d-mmo-2082035844836450334) · [Orijinal gönderi](https://x.com/vibecodingth/status/2082035844836450334) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="make-a-playable-chrome-dino-game-2081867025140650236"></a>
+
+### Oynanabilir Chrome Dino oyunu yapma
+
+[Kai](https://x.com/unseenmars_) · 2026-07-27 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236"><img src="../assets/previews/3f553bdb2354717dc76308f1d1050bd0f229035bf002200f1e84d427573364f3.webp" width="840" loading="lazy" alt="Oynanabilir Chrome Dino oyunu yapma"></a>
+
+**İstem**
+
+```text
+oynanabilir bir Chrome dinozor oyunu yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/make-a-playable-chrome-dino-game-2081867025140650236) · [Orijinal gönderi](https://x.com/unseenmars_/status/2081867025140650236) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="realistic-helicopter-shooter-game-2081791572115435765"></a>
+
+### Gerçekçi helikopter nişancı oyunu için Kimi K3 istemi
+
+[karti](https://x.com/Abobsterina) · 2026-07-27 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765"><img src="../assets/previews/1e69698732954a7183b2346354edc3ff1a8f7ca9ab15a21ff8f8c705d5544509.webp" width="840" loading="lazy" alt="Gerçekçi helikopter nişancı oyunu için Kimi K3 istemi"></a>
+
+**İstem**
+
+```text
+Bana gerçekçi bir helikopter nişancı oyunu yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/realistic-helicopter-shooter-game-2081791572115435765) · [Orijinal gönderi](https://x.com/Abobsterina/status/2081791572115435765) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="subway-surfers-style-game-2081766198082220514"></a>
+
+### Subway Surfers tarzı oyun için Kimi K3 istemi
+
+[Arindam Majumder 𝕏](https://x.com/Arindam_1729) · 2026-07-27 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/subway-surfers-style-game-2081766198082220514"><img src="../assets/previews/6ac6722f6a9cfa4843ffd0d34c761d5a89841e39476750f33ceafc6b8ff4367c.webp" width="840" loading="lazy" alt="Subway Surfers tarzı oyun için Kimi K3 istemi"></a>
+
+**İstem**
+
+```text
+bir Subway Surfers oyunu oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/subway-surfers-style-game-2081766198082220514) · [Orijinal gönderi](https://x.com/Arindam_1729/status/2081766198082220514) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="counter-strike-inspired-three-js-fps-2081607528790856068"></a>
+
+### Counter-Strike esintili Three.js FPS için Claude Opus 5 istemi
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-07-27 · Claude Opus 5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068"><img src="../assets/previews/fd8a2345cf0c18af29218fd6709490bc2d9a41033ce25b5ede48eb70cb8979c1.webp" width="840" loading="lazy" alt="Counter-Strike esintili Three.js FPS için Claude Opus 5 istemi"></a>
+
+**İstem**
+
+```text
+tren istasyonunda geçen, counter-strike esintili taktiksel bir FPS. three.js, tek HTML dosyası, tüm varlıklar özgün.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/counter-strike-inspired-three-js-fps-2081607528790856068) · [Orijinal gönderi](https://x.com/BuildFastWithAI/status/2081607528790856068) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="infinite-three-js-paper-machine-2081533777340506251"></a>
+
+### Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi
+
+[0xMarioNawfal](https://x.com/RoundtableSpace) · 2026-07-27 · Claude Fable 5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/infinite-three-js-paper-machine-2081533777340506251"><img src="../assets/previews/0a9d53c0b84682d13badc9764d9c7fc0f6969c780bb1c73883685e38d59864c0.webp" width="840" loading="lazy" alt="Sonsuz Three.js kâğıt makinesi için Claude Fable 5 istemi"></a>
+
+**İstem**
+
+```text
+Tek istemle sonsuz Three.js kâğıt makinesi oluştur. Sabit Pinterest fikrini işlevsel 3B web uygulamasına dönüştür. Uygulama, yüzeyine gerçek zamanlı olarak sürekli dinamik görüntüler basılırken sonsuza dek kayan bir kâğıt şeridini render etsin.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/infinite-three-js-paper-machine-2081533777340506251) · [Orijinal gönderi](https://x.com/RoundtableSpace/status/2081533777340506251) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="interactive-3d-robotic-hand-simulation-2081475055536820506"></a>
 
 ### Etkileşimli 3B robot el simülasyonu için Claude Opus 5 istemi
