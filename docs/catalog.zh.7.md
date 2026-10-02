@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [用概念图驱动 Astra 制作粗糙的 3D 小游戏](#astra-3d-2096068401294929940)
+- [Astra 传说游戏原型](#the-legend-of-astra-game-prototype-2096064140510970318)
+- [Sinclair ZX Spectrum 模拟器](#sinclair-zx-spectrum-simulator-2096062355692048605)
+- [单视图电钻重建](#single-view-power-drill-reconstruction-2096059736693305794)
+- [索尼克风格 Godot 游戏切片](#sonic-inspired-godot-vertical-slice-2096056285896536086)
+- [Zork 转 3D 动作冒险](#zork-as-a-3d-action-adventure-2096047660662722620)
+- [可关闭桥梁的配送网络](#delivery-network-with-bridge-closures-2096042360513904742)
+- [演化中的 WebGL 生态系统](#evolving-webgl-ecosystem-2096040448477515874)
 - [可探索的泰姬陵](#explorable-taj-mahal-2096035962824335798)
 - [带演讲地球仪的个人 3D 作品集](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
 - [Gogh Strike 多人射击](#gogh-strike-multiplayer-fps-2096013280519016608)
@@ -70,16 +78,166 @@
 - [Solace 森林别墅从 Brief 到 UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
 - [可驾驶的童年火车沙盘](#driveable-childhood-train-table-2095742344293454148)
 - [丛林神庙与巨型神猴守护者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
-- [平面图转完整 3D 漫游](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
-- [可交互体素铁路沙盘](#interactive-voxel-railway-table-2095719731860750613)
-- [瓶中鲜活体素帆船](#living-voxel-ship-in-a-bottle-2095699049722581065)
-- [程序化鲜活海洋与风暴模拟](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
-- [一次生成的 Three.js 惊喜游戏](#one-shot-three-js-surprise-game-2095663498101662198)
-- [Blender 复刻艺术宫](#palace-of-fine-arts-blender-recreation-2095653641164329143)
-- [单提示词水族馆对比任务](#single-aquarium-benchmark-2095650251902239139)
-- [可切换第一与第三人称的 RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
 
 </details>
+<a id="astra-3d-2096068401294929940"></a>
+
+### 用概念图驱动 Astra 制作粗糙的 3D 小游戏
+
+[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="用概念图驱动 Astra 制作粗糙的 3D 小游戏"></a>
+
+**提示词**
+
+```text
+悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/astra-3d-2096068401294929940) · [查看原帖](https://x.com/ChenshuoAI/status/2096068401294929940) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
+
+### Astra 传说游戏原型
+
+[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="Astra 传说游戏原型"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在 Unity 中制作 3D 冒险游戏原型，使用经 Blender 整理的场景和 Tripo 资产，并把角色动画接入可玩的演示。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [查看原帖](https://x.com/lofihashbloom/status/2096064140510970318) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
+
+### Sinclair ZX Spectrum 模拟器
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Sinclair ZX Spectrum 模拟器"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+将 Sinclair ZX Spectrum 48K 重建为交互式 3D 桌面应用，包含橡胶键盘、磁带机、开机界面、可玩游戏与 BASIC 编程界面。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [查看原帖](https://x.com/DeryaTR_/status/2096062355692048605) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
+
+### 单视图电钻重建
+
+[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="单视图电钻重建"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+根据单张参考图在 Blender 中重建电钻，将外壳、握柄、夹头与控制件做成可编辑几何体，并从多个角度检视。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [查看原帖](https://x.com/SkyeSharkie/status/2096059736693305794) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
+
+### 索尼克风格 Godot 游戏切片
+
+[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="索尼克风格 Godot 游戏切片"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+利用本地和程序化资产在 Godot 中创建精致索尼克风格 3D 关卡，优先完善惯性、灵敏移动、圆环、回环、滑轨与连贯热带海岸。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [查看原帖](https://x.com/AiBattle_/status/2096056285896536086) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
+
+### Zork 转 3D 动作冒险
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork 转 3D 动作冒险"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+将经典文字冒险 Zork 制作为 3D 动作冒险，保留故事和谜题，增加战斗，并用 Three.js 创建角色和环境。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [查看原帖](https://x.com/emollick/status/2096047660662722620) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
+
+### 可关闭桥梁的配送网络
+
+[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="可关闭桥梁的配送网络"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建 3D 配送模拟，让关闭桥梁改变卡车路线，识别无法到达的目的地，并在路线恢复时重新配送。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [查看原帖](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
+
+### 演化中的 WebGL 生态系统
+
+[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="演化中的 WebGL 生态系统"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在单个 HTML 文件中用原生 WebGL 和 GLSL 创建 3D 演化生态，让突变、自然选择、捕食、能量使用与多细胞结合互相作用。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [查看原帖](https://x.com/yume_arasaki/status/2096040448477515874) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="explorable-taj-mahal-2096035962824335798"></a>
 
 ### 可探索的泰姬陵
@@ -972,167 +1130,7 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 
 ---
 
-<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
-
-### 平面图转完整 3D 漫游
-
-[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="平面图转完整 3D 漫游"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把给定平面图转成完整 3D 建筑漫游。尊重房间尺寸与动线，加入门窗、家具、材质与灯光，再设计能说明布局的镜头路径。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [查看原帖](https://x.com/aidarosgo3/status/2095725404883476661) · [返回案例导航](#all-prompts)
-
----
-
-<a id="interactive-voxel-railway-table-2095719731860750613"></a>
-
-### 可交互体素铁路沙盘
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="可交互体素铁路沙盘"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-用 Three.js 构建高细节体素铁路沙盘。允许用户启停多列火车、切换轨道、旋转缩放查看沙盘、探索微缩城镇并触发环境小动画。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [查看原帖](https://x.com/DeryaTR_/status/2095719731860750613) · [在线演示](https://lindenhafen-railway.vercel.app/) · [返回案例导航](#all-prompts)
-
----
-
-<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
-
-### 瓶中鲜活体素帆船
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="瓶中鲜活体素帆船"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-创建一艘在玻璃瓶中航行的高细节 17 世纪体素帆船。模拟起伏海浪与船体运动，加入盘旋海鸥、微型港口和珊瑚礁，再制作电影镜头与舒缓配乐。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [查看原帖](https://x.com/DeryaTR_/status/2095699049722581065) · [返回案例导航](#all-prompts)
-
----
-
-<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
-
-### 程序化鲜活海洋与风暴模拟
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="程序化鲜活海洋与风暴模拟"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-把给定单文件海面风暴生成器扩展为完整程序化海洋，加入珊瑚礁、深海、可信天气、具有涌现行为的动物种群、生态互动，以及可在水面与水下切换的镜头。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [查看原帖](https://x.com/emollick/status/2095673885605630429) · [项目源码](https://github.com/emollick/abyssal-living-deep) · [在线演示](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [返回案例导航](#all-prompts)
-
----
-
-<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
-
-### 一次生成的 Three.js 惊喜游戏
-
-[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="一次生成的 Three.js 惊喜游戏"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-一次生成一款配得上“Amaze”之名的原创 Three.js 游戏。选择一个令人惊讶的视觉机制，在数秒内教会玩家，构建短成长曲线，并以令人满足的奇观收尾。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [查看原帖](https://x.com/pratt_builds/status/2095663498101662198) · [返回案例导航](#all-prompts)
-
----
-
-<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
-
-### Blender 复刻艺术宫
-
-[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Blender 复刻艺术宫"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-在 Blender 中复刻旧金山艺术宫，准确表现穹顶比例、柱廊、泻湖、植被、风化材质，并加入具有世博时代乐观气质的电影灯光。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [查看原帖](https://x.com/sharifshameem/status/2095653641164329143) · [返回案例导航](#all-prompts)
-
----
-
-<a id="single-aquarium-benchmark-2095650251902239139"></a>
-
-### 单提示词水族馆对比任务
-
-[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="单提示词水族馆对比任务"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-根据给定参考图用一条提示词构建 3D 水族馆游戏。匹配布局与氛围，加入生动鱼群行为、水下焦散、环绕控制和适合模型对比的小交互循环。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [查看原帖](https://x.com/iamtonyzhu/status/2095650251902239139) · [返回案例导航](#all-prompts)
-
----
-
-<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
-
-### 可切换第一与第三人称的 RPG
-
-[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="可切换第一与第三人称的 RPG"></a>
-
-*基于原作品整理的创作说明*
-
-**提示词**
-
-```text
-为 Three.js 角色扮演游戏增加第一和第三人称镜头，切换视角时保持移动与探索连贯。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [查看原帖](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.6.md) · **7 / 10** · [→](catalog.zh.8.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 488 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 496 条案例与在线演示 →</a></strong></p>

@@ -28,6 +28,14 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Etkileşimli 3B Anatomi Gezgini](#gpt-6-astra-2099206962344800541)
+- [Tarayıcıda oynanabilir 3B kıyı bölümü](#gpt-6-astra-2099172061092381027)
+- [Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake](#gpt-6-astra-2098980384260456813)
+- [Kendi kendine katlanan 3B origami animasyonu](#gpt-6-astra-2098909584996057283)
+- [Çernobil Atlası](#gpt-6-astra-2098841316591346006)
+- [Kinetik Kum Masası Simülasyonu](#gpt-6-astra-2098831830002851846)
+- [1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu](#gpt-6-astra-2098795017955418202)
+- [Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve](#gpt-6-astra-2098774359926297011)
 - [Skybound tarayıcı uçuş oyunu](#gpt-6-astra-2098739181510164652)
 - [DEVICE: Akıllı telefonun kendisini kullanan fotogerçekçi 3B bulmaca oyunu](#gpt-6-astra-2098715488369152087)
 - [Zen Hâli · Kadim Tapınak 3B Yapım Gösterim Videosu](#gpt-6-astra-2098697876155076820)
@@ -70,16 +78,392 @@
 - [Etkileşimli Çin Avlusu](#gpt-6-astra-2096971051334857181)
 - [“Yerçekiminin Bozulduğu Ufuk” VRChat Manzara Dünyası](#gpt-6-astra-2096966425017467344)
 - [Three.js WebGPU’da Sonsuz Minyatür Sokak](#gpt-6-astra-2096956214680965501)
-- [Hogwarts 3B sahnesi](#gpt-6-astra-2096907617117540478)
-- [Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma](#gpt-6-astra-2096793432987464010)
-- [Blender MCP ile LEGO minifigür oyun varlığı](#astra-3d-2096766465730847059)
-- [Etkileşimli Akıllı Telefon Patlatılmış Görünümü](#gpt-6-astra-2096685163111694556)
-- [Mini World 3B keşif oyunu](#gpt-6-astra-2096641728497275011)
-- [Blender'da Dönen Dünya Renderı](#gpt-6-astra-2096637194270134742)
-- [Three.js karanlık fantezi aksiyon RPG’si](#gpt-6-astra-2096637091627364531)
-- [Windhaven Kıyı Fantazisi Macera Oyunu](#gpt-6-astra-2096629506047955327)
 
 </details>
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### Etkileşimli 3B Anatomi Gezgini
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="Etkileşimli 3B Anatomi Gezgini"></a>
+
+**İstem**
+
+```text
+Herkese açık bilimsel veri kümelerini kullanarak etkileyici ve etkileşimli bir 3B anatomi gezgini oluştur. Dış görünümle başla; ben yakınlaştırdıkça bu görünüm kademeli olarak şeffaflaşsın ve alttaki anatomiyi ortaya çıkarsın.
+
+Modeli döndürmeme, yapıları ayırmama, etiketli bölgeleri seçmeme ve bir yan panelden katmanları açıp kapatmama izin ver. Anatomi, bağlantılar ve tek tek hücreler için ayrı sekmeler ekle; animasyonlu sinyaller ve ayarlanabilir kontroller sun.
+
+Yumuşak aydınlatma, akıcı geçişler, sade renkler ve çok az metin kullanan modern, minimalist bir arayüz tasarla. Oklar ve kısa bir görsel eğitim ekle. Masaüstü ve mobil cihazlarda çalışmasını sağla.
+
+Mümkün olan yerlerde gerçek anatomik geometri kullan, kaynaklara atıfta bulun ve bilimsel verilerle açıklama amaçlı animasyonları açıkça birbirinden ayır. Çalışan bir web sitesi oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099206962344800541) · [Orijinal gönderi](https://x.com/k1rallik/status/2099206962344800541) · [Kaynak kodu](https://github.com/bubblik525/cat_brain_anatomy) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### Tarayıcıda oynanabilir 3B kıyı bölümü
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="Tarayıcıda oynanabilir 3B kıyı bölümü"></a>
+
+**İstem**
+
+```text
+> spesifikasyonu kilitle (TZ-gta-slice.md)
+
+prompt: "Oynanabilir bir 3B tarayıcı bölümü oluştur. Bu spesifikasyonu kilitledikten sonra değiştirme. Önce bölge ve klip. Kontroller daha sonra."
+
+> teknoloji yığını (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Teknoloji yığını sabit. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. Tek bir tarayıcı URL'si."
+
+> kadraj (su üzerinde gün batımı, ıslak asfalt, palmiyeler)
+
+prompt: "Tek bir kıyı bölgesi. Su üzerinde gün batımı. Islak asfalt. Palmiyeler. Kadrajı poligon sayısına değil, ışığa ve kameraya göre oluştur. Varsayılan gri ışık kullanma. Çıplak küpler kullanma."
+
+> üçlü (tek sahne, tek araç, yaklaşık 20 saniye)
+
+prompt: "Üç kişiyi tek bir sahnede tut. Konuşsunlar. Ardından tek bir araca binsinler. Yaklaşık 20 saniye. Ekstra seçenekler yerine kaliteye öncelik ver."
+
+> kesme (15–20 saniye, akıcılığı koru)
+
+prompt: "Gecikme olursa klibi 15–20 saniyeye kısalt. Akıcılığı koru. Kare hızı düşerse ışığı değil, yayaları azalt."
+
+> ses (insan sesleri, repliklerin altında pad, araç uğultusu)
+
+prompt: "Sesler robot gibi değil, insan gibi duyulmalı. Repliklerin altında alçak seviyeli bir pad olsun; repliklerin üzerine çıkmasın. Oturduklarında testere sesi değil, düşük frekanslı bir araç uğultusu duyulsun. Radyo paraziti olmasın."
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2099172061092381027) · [Orijinal gönderi](https://x.com/Lummox_eth/status/2099172061092381027) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="Başsız kıyafet modelinde UV açılımı ve 4K yeniden bake"></a>
+
+**İstem**
+
+```text
+Blender MCP ile seçili “kıyafet ve el-ayakları içeren başsız modelin” UV açılımını ve mevcut dokuların 4K yeniden bake işlemini gerçekleştirin.
+
+Amaç, modelin özgün görünümünü koruyarak kıyafet kalıbı gibi yapısı kolayca anlaşılabilen ve sonradan yeniden çizilebilen bir UV düzeni oluşturmaktır. İnsan bir sanatçı gibi gözlem → dikiş tasarımı → parça bazında açılım → bozulma düzeltme → yerleşim → bake sırasını izleyin.
+
+1. Özgün verileri koruyun
+Çalışmaya başlamadan önce dosyayı farklı bir adla kaydedin, eski UV’leri, görselleri ve materyalleri koruyun ve yeni bir UV seti olan “UV\_Final” oluşturun.
+Geometriyi, topolojiyi, vertex sırasını, ağırlıkları, shape key’leri ve rig’i değiştirmeyin.
+
+2. Modeli inceleyip dikişleri tasarlayın
+Kıyafetin parça yapısını ve gerçek dikişlerini anlamak için her yönden özgün doku görünümünü ve tel kafes görünümünü kontrol edin.
+Kıyafeti gövde, kol, yaka gibi kalıp parçalarının yapısını izleyerek açın; yan dikişler ve kolların iç kısımları gibi bölgelerden yararlanın. Ciltte ve el-ayaklarda dikişleri iç taraf veya yan yüzey gibi daha az görünür yerlere yerleştirin ve parmak aralarına kadar doğal biçimde açılabilecek bir yapı oluşturun.
+Kırışıklıkları veya baskıları dikişlerle karıştırmayın ve gereksiz, küçük parçalara bölünmüş adacıklar oluşturmayın.
+
+3. Parçaları ayrı ayrı açın ve bozulmaları düzeltin
+Tüm modeli tek seferde işlemek yerine parçaları ayrı ayrı Unwrap edin.
+UV\_Final’i referans alan yazılı bir checker dokusu ve Stretch görünümüyle esneme, sıkışma, burulma, ters dönme ve üst üste binme durumlarını kontrol edin.
+Sorunun nedenine göre dikiş ekleyin veya kaldırın; ardından Pin, Relax gibi araçlarla düzenleyip yeniden kontrol edin. Aynı otomatik açılımı tekrar tekrar uygulamakla yetinmeyin; iyileştirilmiş parçaları koruyun.
+Smart UV Project ile tüm modeli otomatik olarak parçalara ayırmayı nihai sonuç olarak kullanmayın.
+
+4. Kumaş yönünü, texel yoğunluğunu ve yerleşimi düzenleyin
+Kıyafette her parçanın kumaş yönünü temel alarak ana dikey yönü UV’nin V yönüyle hizalayın. Eğri kalıp parçalarını zorla dikdörtgene dönüştürmeyin.
+Gerçek ölçülere göre texel yoğunluğunu eşitleyin ve sağ-sol eşleşmesinin anlaşılabileceği bir yönde düzenleyin.
+Ardından yönü ve göreli ölçeği koruyarak 0–1 alanına yerleştirin. Sağ ve sol parçaları üst üste bindirmeyin veya keyfi şekilde döndürmeyin.
+4K bake için başlangıç ölçütü olarak 16 px bake payı, adacıklar arasında en az 32 px ve görüntünün dış kenarlarından en az 16 px boşluk kullanın.
+
+5. Eski UV’den yeni UV’ye 4K bake yapın
+Özgün doku referansını eski UV’ye açıkça sabitleyin; hedef UV olarak UV\_Final’i kullanıp dokuyu 4096×4096 boyutunda yeni bir görsele aktarın.
+Her materyalde bake hedefi görsel düğümünü etkinleştirin; deneme bake’inden sonra asıl bake işlemini gerçekleştirin.
+Base Color için yalnızca Diffuse’un Color kanalını veya Emit’i kullanın; yeni ışık, gölge ya da AO bake etmeyin. Özgün görselde çizilmiş gölgelendirmeyi koruyun.
+Saydamlık gibi mevcut haritaları da gerektiğinde aktarın; tangent normal haritasını yalnızca renk aktarımı olarak değil, yeni UV düzenini temel alarak yeniden bake edin.
+
+6. Yeni ve eski sonuçları karşılaştırarak tamamlanmayı doğrulayın
+Yeni UV’yi ve bake edilmiş görselleri uygulayın; tüm modeli ve ayrıntıları, özgünle aynı görüntüleme koşullarında karşılaştırın.
+Desenlerin konumunu, rengini, saydamlığını ve dikişlerin sürekliliğini kontrol edin; UV’deki ezilmeleri, üst üste binmeleri ve açılmamış bölgeleri, ayrıca bake işlemindeki siyah noktaları, boşlukları ve bulanık taşmaları düzeltin.
+Tamamlanma kararını “kaç kez açılım yapıldığına” göre değil, kontrol sonuçlarına göre verin.
+
+Tamamlanmış .blend dosyasını, 4K görseli, UV yerleşimini ve dikiş, checker ile nihai görünüm kontrol görsellerini kaydedin; başlıca düzeltmeleri kısaca raporlayın.
+Yalnızca planı açıklamakla yetinmeyin; görselleri gerçekten kontrol ederek çalışmayı tamamlayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098980384260456813) · [Orijinal gönderi](https://x.com/_sagyoai/status/2098980384260456813) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### Kendi kendine katlanan 3B origami animasyonu
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="Kendi kendine katlanan 3B origami animasyonu"></a>
+
+**İstem**
+
+```text
+3B bir origami animasyonu oluştur. Düz kare bir kâğıt, her katlamanın kâğıtta gerçek bir kırışma ve dönme hareketi olarak gösterildiği, adım adım tanınabilir bir origami figürüne dönüşmeli; ardından yeniden düz hâline açılmalı ve bu döngü tekrarlanmalı. Dönüşeceği figürü ve tüm sunum biçimini sen belirle.
+
+Tasarımın her unsuru senin kararın: stil, renkler, atmosfer, ortam, kamera, ayrıntı düzeyi ve ek dokunuşlar. Bana soru sorma; tüm seçimleri kendin yap ve tek seferde mümkün olan en etkileyici sürümü oluştur.
+
+Teknik gereksinimler: Tek ve kendi içinde çalışan bir HTML dosyası kullan; harici model, görsel, ses veya herhangi bir türde varlık URL'si kullanma (CDN'den alınan bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda tıklama gerektirmeden kendiliğinden çalışmaya başlamalı ve konsol hatası olmadan akıcı biçimde çalışmalı.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098909584996057283) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2098909584996057283) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### Çernobil Atlası
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="Çernobil Atlası"></a>
+
+**İstem**
+
+```text
+Three.js kullanarak "Çernobil Atlası" adlı, üst düzey etkileşimli bir 3B sergi oluşturun.
+
+Kamuya açık kaynaklardan yararlanarak Çernobil nükleer santralinin ve RBMK reaktörünün sağlam durumunu araştırın. Binaları, kafes tipi bacayı, türbin salonunu, grafit yığınını, yakıt kanallarını, koruyucu yapıları, ayırıcı tamburları, pompaları ve boruları modelleyin.
+
+Üç sekme oluşturun:
+— Güç Ünitesi: kaydırma ve sürgü kullanılarak katman katman ayrıştırılabilen ayrıntılı bir model.
+— Buhar Devresi: reaktörü, türbini, yoğuşturucuyu ve pompaları birbirine bağlayan animasyonlu bir diyagram.
+— Hareketli Reaktör: hareket eden su ve buhar, dönen makineler ve oynatma kontrolleri içeren kesitli bir 3B görünüm.
+
+Sistemlerin görünürlüğünü bağımsız olarak açıp kapatma, parçalar arasındaki mesafeyi ayarlama, tel kafes ve saydamlık seçenekleri, kesit alma ve kısa etiketler ekleyin. Tamamen ayrıştırılmış durumda bile her katmanın kolayca incelenebilmesini ve kameranın serbestçe döndürülebilmesini sağlayın.
+
+Kaynak kodunu ve bağımsız çalışabilen bir HTML dosyasını teslim edin. Tüm kontrolleri test edin. Çalışmayı, mühendislik açısından birebir bir kopya değil, eğitim amaçlı bir yorumlama olarak sunun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098841316591346006) · [Orijinal gönderi](https://x.com/k1rallik/status/2098841316591346006) · [Kaynak kodu](https://github.com/bubblik525/Chernobyl_Atlas) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### Kinetik Kum Masası Simülasyonu
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="Kinetik Kum Masası Simülasyonu"></a>
+
+**İstem**
+
+```text
+Kinetik kum masası simülasyonu oluştur. Bir top kum yatağının üzerinde hareket ederek görünür bir iz bırakmalı, eksiksiz geometrik desenler çizmeli, ardından kumu düzleştirip otomatik olarak yeni ve farklı bir desene başlamalıdır. Tekrarlamadan çok sayıda farklı desen arasında geçiş yapmalıdır. Görünüm ve desenlerle ilgili her şeyi sen seç.
+
+Tasarımın her kararını sen ver: stil, renkler, atmosfer, ortam, kamera, ayrıntı düzeyi ve diğer ek dokunuşlar. Bana hiçbir soru sorma; tüm seçimleri kendin yap ve tek denemede mümkün olan en etkileyici sürümü oluştur.
+
+Teknik gereksinimler: Harici model, görsel, ses veya herhangi bir varlık URL’si içermeyen, tamamen kendi içinde çalışan tek bir HTML dosyası kullan (CDN üzerinden alınan bir JavaScript kütüphanesi kullanılabilir). Sayfa yüklendiği anda, tıklama gerektirmeden kendi kendine çalışmaya başlamalı ve konsol hatası vermeden akıcı biçimde çalışmalıdır.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098831830002851846) · [Orijinal gönderi](https://x.com/free_ai_guides/status/2098831830002851846) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### 1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="1893 Chicago Dünya Fuarı'nın 3B rekonstrüksiyonu"></a>
+
+**İstem**
+
+```text
+Fuarla ilgili 2.000 tarihî fotoğrafı ve referans bilgilerini indirin; elde edilen tüm bilgileri kullanarak Blender'da 3B bir rekonstrüksiyon oluşturun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098795017955418202) · [Orijinal gönderi](https://x.com/moreisdifferent/status/2098795017955418202) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="Bağlantı parçalarıyla birleştirilen parçalı 3D baskı çerçeve"></a>
+
+**İstem**
+
+```text
+3D yazıcıyla bir çerçeve basmak istiyorum ama yazıcım küçük; parçaları birleştirerek tamamlayabileceğim bir model olsun. Biraz sıradan olmasın, bağlantı parçalarıyla birleştirilsin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2098774359926297011) · [Orijinal gönderi](https://x.com/wada/status/2098774359926297011) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098739181510164652"></a>
 
 ### Skybound tarayıcı uçuş oyunu
@@ -4170,248 +4554,6 @@ Build me an endless miniature street in three.js WebGPU: a courier bicycle ridin
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096956214680965501) · [Orijinal gönderi](https://x.com/creativedash/status/2096956214680965501) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### Hogwarts 3B sahnesi
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="Hogwarts 3B sahnesi"></a>
-
-**İstem**
-
-```text
-Harry Potter’daki Hogwarts Cadılık ve Büyücülük Okulu’nun büyük ölçekli, son derece gerçekçi ve tüm ayrıntıları işlenmiş bir 3B modelini oluşturmak için Headless Blender kullanın. Çevredeki doğal ortamı, ikonik yapıları, aslına uygun iç mekânları ve objeleri dâhil edin. Gizemli bir atmosfer ve dinamik, sürüklenen sisle birlikte sinema kalitesinde materyaller, aydınlatma, render ve ses tasarımı sunun. Kullanıcıların ortamı özgürce keşfetmesine olanak tanıyın ve aydınlatma ile diğer görsel seçenekler için değiştirilebilir ayarlar sağlayın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096907617117540478) · [Orijinal gönderi](https://x.com/HiltonMisia/status/2096907617117540478) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma"></a>
-
-**İstem**
-
-```text
-Yeni bir dizin oluştur ve tarayıcıda oynanabilen tek sayfalık bir slime uygulaması hazırla. Three.js ve WebGPU kullan; WebGL ile idare etme.
-Ortada yuvarlak, tombul bir slime olsun. Pembe veya turkuaz olabilir; yarı saydam görünsün ve içinde belli belirsiz baloncuklar bulunsun. Fareyle üzerine basıp sürükleyebileyim; bıraktığımda sallanarak eski şeklini bulsun. Biraz yerçekimi olsun ve görünmez bir masa yüzeyine hafifçe çarpabilsin. Sert bir küre gibi görünmesin; yumuşak ve esnek bir his versin.
-Yüzünü sevimli yap: iki siyah nokta göz ve küçük bir ağız ekle. Bunlar yüzeyle birlikte sıkışmalı; gözleri gövdeden ayrı nesneler olarak yapma. Sağ tarafa renk, sertlik ve sönümleme için birkaç basit kontrol ekle. “Bir kez dürt” düğmesine basınca slime bir kez zıplasın.
-Sayfa sade olsun; açık gri bir arka plan ve büyük puntolu bir başlık kullan. 60 kare/saniye hızında çalışabilsin. Önce hedef görünümü gösteren bir görsel oluştur, ardından uygulamayı bu görsele göre kur. Ekran görüntüsü görsele yeterince benzediğinde ayrıntıları eklemeye devam et.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096793432987464010) · [Orijinal gönderi](https://x.com/Delroy715/status/2096793432987464010) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### Blender MCP ile LEGO minifigür oyun varlığı
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Blender MCP ile LEGO minifigür oyun varlığı"></a>
-
-**İstem**
-
-```text
-Blender MCP'yi kullanarak oyunda varlık olarak kullanabileceğim bir Donald Trump LEGO minifigürü oluştur. Kaliteyi olağanüstü, AAA düzeyinde tut; modelin ayrıntılı, doğru ve kusursuz olduğundan emin olmak için çalışmanı titizlikle test et.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/astra-3d-2096766465730847059) · [Orijinal gönderi](https://x.com/_simonsmith/status/2096766465730847059) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### Etkileşimli Akıllı Telefon Patlatılmış Görünümü
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Etkileşimli Akıllı Telefon Patlatılmış Görünümü"></a>
-
-**İstem**
-
-```text
-Modern bir akıllı telefonun etkileşimli 3B patlatılmış görünüm görselleştirmesini oluşturun. Cihazı ana bileşenlerine ayırın ve bir kaydırıcıyla parçaları ayırıp yeniden birleştirmeme izin verin. Bir bileşene tıklandığında o bileşen izole edilmeli ve ne işe yaradığı açıklanmalıdır. Bataryayı, kameraları, SoC'yi, belleği, ekran katmanlarını, hoparlörleri, sensörleri, antenleri ve mantık kartını dahil edin. Apple tarzı, estetik bir arayüzü ve tatmin edici etkileşimleri önceliklendirin. Deneyimin tamamını oluşturun, çalıştırın, inceleyin ve hataları giderin.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096685163111694556) · [Orijinal gönderi](https://x.com/zairalaraib_/status/2096685163111694556) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### Mini World 3B keşif oyunu
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Mini World 3B keşif oyunu"></a>
-
-**İstem**
-
-```text
-Mini World adında bir oyun oluşturalım. Bu oyun, dört buçuk yaşındaki oğlum için eğlenceli ve kolay oynanabilecek şekilde tasarlanmış, güzel ve yüksek kaliteli bir grafik arayüze sahip 3B dünya keşif oyunu olsun. Dünyayı yakınlaştırıp uzaklaştırabilmelisin. Uzaktan bakıldığında dünya küçük bir top gibi görünmeli; ancak içinde keşfedilecek farklı bölgeler bulunmalı. Bir bölge orman, başka bir bölge çöl gibi görünebilir. Ayrıca karakterin içinde yüzebileceği okyanuslar da olmalı. Oyun eğlenceli ve oynanabilir hissettirmeli; karakter dünyanın farklı bölgelerinde dolaşabilmeli, çeşitli ortamları keşfedebilmeli ve yol boyunca yeni şeyler bulabilmeli. Lütfen bu oyunun düzgün çalışmasını ana hedef olarak ele al. Hareket, yakınlaştırma ve uzaklaştırma, keşif, yüzme, ortamlar, kontroller ve genel deneyim birbiriyle sorunsuz çalışana kadar oyunu yinelemeli olarak test edip geliştirmeye devam et. Her şey güvenilir biçimde çalışana ve oyun küçük bir çocuk için özenle hazırlanmış, sezgisel ve keyifli bir deneyim sunana kadar test etmeyi ve iyileştirmeyi sürdür.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096641728497275011) · [Orijinal gönderi](https://x.com/weijianzhang_/status/2096641728497275011) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### Blender'da Dönen Dünya Renderı
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Blender'da Dönen Dünya Renderı"></a>
-
-**İstem**
-
-```text
-Blender'da, uzaydan görülen, dönen Dünya'nın etkileyici 5 saniyelik bir renderını oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637194270134742) · [Orijinal gönderi](https://x.com/JohnKlerAI/status/2096637194270134742) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### Three.js karanlık fantezi aksiyon RPG’si
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Three.js karanlık fantezi aksiyon RPG’si"></a>
-
-**İstem**
-
-```text
-Three.js kullanarak sıfırdan, cilalı ve tamamen oynanabilir bir 3B karanlık fantezi aksiyon RPG’si oluştur.
-
-Üstten, açılı bir takip kamerası kullan. Oyun dünyası; yıkık kuleleri, revakları, yosun kaplı taş köprüleri, inişli çıkışlı tepeleri, dereleri, şelaleleri ve kamp ateşlerini barındıran, orman tarafından geri alınmış görkemli bir Gotik tapınak olsun. Gerçekçi malzemeler, sinematik aydınlatma, hafif sis, rüzgârda savrulan bitkiler ve akan suyla zengin katmanlı bir atmosfer oluştur.
-
-Baş karakter, özenle işlenmiş çelik ve altın ağır zırh giyen; dalgalanan bir pelerin taşıyan, parlayan rünlü kılıç ve kalkana sahip güçlü bir şövalye olsun. Karakter hareket edebilmeli, kılıç savurabilmeli, yuvarlanabilmeli, blok yapabilmeli, iyileşebilmeli ve devasa büyü çemberleri, ışık huzmeleri ve yıldırım efektleri içeren büyüler kullanabilmeli. Oyuncu muhafızları yendikten sonra dev, boynuzlu bir şövalye boss’uyla karşılaşmalı.
-
-Saldırı animasyonları, görsel efektler ve vuruş yönleri karakterin baktığı yönle tamamen uyumlu olmalı. Cilalı bir Geleneksel Çince HUD, karakter ekipman ekranı ve eksiksiz zafer, yenilgi ve yeniden başlatma akışları ekle.
-
-Modelleme, varlık oluşturma veya edinme, programlama ve performans optimizasyonunu bağımsız olarak ele al. AAA düzeyinde görsel kalite hedefle. Tamamen oynanabilir bir oyun, çalıştırma talimatları ve kaynak kodunu teslim edene kadar oyunu sürekli olarak test et, görselleri incele ve sorunları düzelt.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637091627364531) · [Orijinal gönderi](https://x.com/HiltonMisia/status/2096637091627364531) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### Windhaven Kıyı Fantazisi Macera Oyunu
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Windhaven Kıyı Fantazisi Macera Oyunu"></a>
-
-**İstem**
-
-```text
-Benimle bir oyun tasarla. Oyun Unity'de geliştirilmeli. Önce varsayılan varlıkları kullan; varlıkları daha sonra değiştireceğim.
-Oyun stili:
-Windhaven adlı, güneş ışığı alan küçük bir ada şehrinde geçen, üst düzey stilize bir kıyı fantazisi macera oyunu. Şehir sıcak fildişi renkli kireç taşı ve altın sarısı kum taşından inşa edilmiştir; berrak turkuaz sularla çevrilidir. Şehirde teal tonlarında bakır çatılar, gölgelikli pazar tezgâhları, kemerli geçitler, yemyeşil avlu ağaçları, oyma çeşmeler, parlayan büyülü işaret fenerleri ve kasabaya tepeden bakan anıtsal bir tapınak bulunur. Seyahat pelerini ve sırt çantası taşıyan genç, yalnız bir kaşif merkezi meydandan geçerek tapınağa doğru yürür. Ortam huzurlu, gizemli, kadim ve hafifçe büyülü bir his vermeli; mimaride Akdeniz ve Kuzey Afrika etkileri bulunmalı. Yüksek ayrıntı düzeyine sahip stilize PBR malzemeler, el işçiliğini andıran taş yüzeyler, hafif yıpranma izleri, zarif dekoratif oymalar, yumuşak öğleden sonra güneşi, uzun sinematik gölgeler, turkuaz ve sıcak altın renk paleti, özenli AA macera oyunu sanat yönetimi, üçüncü şahıs oynanış kamerası, geniş çevreyi tanıtan plan, bütünlüklü çevre tasarımı, görsel olarak kolayca ayırt edilebilen yollar ve önemli yapılar; kullanıcı arayüzü, metin, logo veya modern nesne bulunmasın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096629506047955327) · [Orijinal gönderi](https://x.com/tripoai/status/2096629506047955327) · [Örneklere dön](#all-prompts)
 
 ---
 

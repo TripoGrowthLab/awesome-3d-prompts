@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [3D 癌细胞演进模拟](#3d-cancer-progression-simulation-2095130778342408331)
+- [增强流星体解体特效](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
+- [支持 LOD 的突击舱飞船](#lod-ready-assault-pod-spaceship-2095126622319845478)
+- [高细节 3D 体育场复刻](#detailed-3d-stadium-recreation-2095123216419459454)
+- [机械准确的水车村庄](#mechanically-accurate-water-mill-village-2095123063352561815)
+- [Shader 驱动的交互式恐龙图鉴](#interactive-shader-driven-dino-dex-2095121568297083067)
+- [玻璃瓶中的鲜活体素世界](#living-voxel-world-inside-a-bottle-2095111213927510131)
+- [可编辑的 3D 键盘动画](#editable-3d-keyboard-animation-2095111032171876470)
 - [高达风机甲展示](#gundam-inspired-mecha-showcase-2095106919530930221)
 - [参考图驱动的 Three.js 作品集](#reference-driven-three-js-portfolio-2095104073590808644)
 - [交互式 F-35A 技术模型](#interactive-f-35a-technical-model-2095094543339446572)
@@ -70,16 +78,168 @@
 - [十分钟生成并继续完善 Three.js 游戏](#ten-minute-three-js-game-then-refined-2094855905678446777)
 - [玻璃大脑能力演示](#glass-brain-capability-demo-2094853472864682360)
 - [程序化体素城堡展示](#procedural-voxel-castle-showcase-2093690427849191855)
-- [用于 Blender 组装 Jeep 风格 4x4 的提示词](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
-- [用于独立 HTML 场景的 3D 破坏物理提示词](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
-- [Claude Opus 5 机甲机器人蓝图提示集](#mech-robot-blueprint-set-2082760534500188606)
-- [Need for Speed 风格 Godot 游戏提示词](#need-for-speed-style-godot-game-2082714235373584582)
-- [Kimi K3 玻璃水族箱开裂爆裂 3D 仿真提示词](#cracking-aquarium-3d-simulation-2082528683747873194)
-- [Kimi K3 的可玩战斗游戏提示词](#playable-combat-game-2082507403598373134)
-- [Kimi K3 的《英雄联盟》风格 1v1 单页 HTML 游戏提示词](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
-- [适用于 Claude Opus 5 的单文件 3D 太阳可视化提示词](#single-file-3d-sun-visualizer-2082461416049525077)
 
 </details>
+<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
+
+### 3D 癌细胞演进模拟
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="3D 癌细胞演进模拟"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建教育型 3D 癌细胞模拟，展示突变、分裂、血管生成、侵袭与转移，并用时间轴、标签和清晰视觉差异区分阶段。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [查看原帖](https://x.com/viewsfrom02108/status/2095130778342408331) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
+
+### 增强流星体解体特效
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="增强流星体解体特效"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+检查现有流星体解体特效，在不破坏当前控制的前提下，改进碎裂、热量、尾迹、冲击波、时间节奏、尺度与镜头可读性。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [查看原帖](https://x.com/gladimdim/status/2095127248470692320) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
+
+### 支持 LOD 的突击舱飞船
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="支持 LOD 的突击舱飞船"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+为突击舱飞船重新设计高低 LOD 模型，在满足三角面预算的同时保留轮廓、改进面板语言，并让资产适合实时游戏。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [查看原帖](https://x.com/gladimdim/status/2095126622319845478) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
+
+### 高细节 3D 体育场复刻
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="高细节 3D 体育场复刻"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+把参考体育场复刻为高细节、可导航的 3D 场景，准确还原看台层级、球场、屋顶、灯光和尺度，并比较视觉保真度与生成成本。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [查看原帖](https://x.com/thebuggeddev/status/2095123216419459454) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
+
+### 机械准确的水车村庄
+
+[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="机械准确的水车村庄"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+构建可运行的 Three.js 水车村庄，让水轮以可信传动比驱动齿轮、凸轮和舂杵，并通过村民与环境动态让场景鲜活。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [查看原帖](https://x.com/mira_senor_1102/status/2095123063352561815) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
+
+### Shader 驱动的交互式恐龙图鉴
+
+[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Shader 驱动的交互式恐龙图鉴"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建交互式恐龙图鉴，每种恐龙都是实时 3D 模型，并使用自定义 GLSL 菲涅尔效果、八个高效 WebGL 上下文、响应式卡片和物种信息。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [查看原帖](https://x.com/_Benviz/status/2095121568297083067) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
+
+### 玻璃瓶中的鲜活体素世界
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="玻璃瓶中的鲜活体素世界"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+在玻璃瓶中创建一个鲜活体素世界，包含分层海洋、帆船、灯塔、岛屿生活，以及晴朗、暴风雨和夜晚之间的变化。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [查看原帖](https://x.com/vib3coded/status/2095111213927510131) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
+
+### 可编辑的 3D 键盘动画
+
+[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="可编辑的 3D 键盘动画"></a>
+
+*基于原作品整理的创作说明*
+
+**提示词**
+
+```text
+创建可编辑的 3D 键盘动画，细化按键行程、灯光与镜头运动，并允许配置标签、颜色和时间。
+```
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [查看原帖](https://x.com/rege_dev/status/2095111032171876470) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
 
 ### 高达风机甲展示
@@ -950,204 +1110,7 @@ make a Three.js demo of your capabilities.
 
 ---
 
-<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
-
-### 用于 Blender 组装 Jeep 风格 4x4 的提示词
-
-[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="用于 Blender 组装 Jeep 风格 4x4 的提示词"></a>
-
-**提示词**
-
-```text
-设计一辆 Jeep 风格的 4x4，并在 Blender 中逐部件组装，不进行任何手工建模
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [查看原帖](https://x.com/slash1sol/status/2082845759452463405) · [返回案例导航](#all-prompts)
-
----
-
-<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
-
-### 用于独立 HTML 场景的 3D 破坏物理提示词
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="用于独立 HTML 场景的 3D 破坏物理提示词"></a>
-
-**提示词**
-
-```text
-一辆怪兽卡车碾过一排汽车
-两辆汽车飞跃峡谷，并在空中迎头相撞
-一把巨大的铁砧逐个压扁汽车
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [查看原帖](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [返回案例导航](#all-prompts)
-
----
-
-<a id="mech-robot-blueprint-set-2082760534500188606"></a>
-
-### Claude Opus 5 机甲机器人蓝图提示集
-
-[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Claude Opus 5 机甲机器人蓝图提示集"></a>
-
-**提示词**
-
-```text
-分享一下我用 Claude OPUS 5 + Blender 创建一台 GUNDAM 尺寸机甲机器人蓝图时使用的提示，基于真实数学和物理：
-
-"让我们来考虑机甲的设计，本质上它有 2 台涡轮轴发动机，并由电动马达 + 液压动力驱动，它还有一个辅助动力装置，或许也有气动系统；它有强力电池，在情况变糟时能让它稍微滑行一下。我在想把这 2 台发动机放在机甲的肩部，服务面板朝外，这样我们就可以对它进行维护。顺便再看一遍机甲的系统，然后我们就要把所有系统都物理化地创建出来。这会很棒，给你安排一个代理来帮你做这件事，然后重建躯干部分，但在中间留出一个大空间给驾驶舱 + 睡眠舱。"
-
-"如果我们给它的脚装上由电动马达驱动的轮子呢？这样大多数时候应该能辅助移动。"
-
-"分配一个代理来读取这些指标并创建腿部设计，把真实的电线接入执行器之类的东西。"
-
-"好，把新的 glb 模型注入场景。"
-
-"天啊，这也太疯狂了。伙计，快把其他部分先显示出来。"
-
-"给那个低多边形头部加上真正的 FLIR + NV 摄像头，以及一把 1980/1990 年代的 CROWS M2 机枪。"
-
-"它……太美了……T_T"
-
-"我们必须给腿部骨架做绑定，这样如果我给它做动画，它就会遵守约束，而且这对计算力等也很必要。"
-
-"没事，我反正也不太懂哈哈，"
-"好，所以你已经做好的那些东西，比如发动机、动力传动系统和腿部，把这些部分保存好以便以后使用，万一我们能在其他地方复用它们。话虽如此，指示一个代理去构建手臂和手。"
-
-"另外，正确设计髋部机构以适配腿部。"
-
-"在我看来，PELVIS 和 CHEST 之间的关节具有圆形扭矩。"
-
-"找一个代理，使用 bofors 系统创建一把手持半自动步枪，这样机器人就有些快速射击的半自动砰砰武器了。"
-
-"我想要 40mm 的，真的做一个出来，准确但保持低多边形，这样我们就能测量它是更适合作为手枪还是半自动步枪。"
-
-"两种都做，然后再做一个像 abrams 加农炮但带半自动机制的版本。"
-"创建一个像步枪那样的枪栓和弹簧。"
-
-"好，所以我在想，驾驶舱里把所有装饰性的线缆之类都去掉，真正做真实布线 o-O 你怎么看"
-
-"方案：做真实布线，但像一头野蛮动物那样布线。"
-
-"注入 120mm 加农炮那个东西。"
-
-"给 120mm 加农炮的运作做绑定和动画。"
-
-"我想在这里加一个装甲大舱门，这样我们就能让座椅升起，让驾驶员能从那个位置看到周围并驾驶机甲，而且驾驶舱内的 4 个伸缩式观察窗在顶部也需要有对应的终点，这样才合理。"
-"继续给 120mm 做绑定和动画，还有舱门命令，刚才是误触暂停。"
-
-"好，所以动力装置，我觉得腹部是个不错的位置，不过我不喜欢发动机现在的位置，我觉得我们应该把它们放到现有位置的上方，并用真实的桁架结构来支撑躯干和肩部……看你怎么决定，你想怎么做胸部？我们要做舱门入口，这样前胸就可以建出来……"
-
-"好，外壳可以用厚铝甚至碳纤维，我无所谓，但必须看起来很酷，我猜 NCT 可以作为装甲吗？不知道，你来决定，我们之后还得加一些东西让这个怪物看起来没那么难以接受……总之，带上你的团队开始建造。"
-
-"我发现这个 inverter PT125 到处漂着，我不知道它应该放在哪。"
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [查看原帖](https://x.com/Spectromachina/status/2082760534500188606) · [返回案例导航](#all-prompts)
-
----
-
-<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
-
-### Need for Speed 风格 Godot 游戏提示词
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed 风格 Godot 游戏提示词"></a>
-
-**提示词**
-
-```text
-给我做一个 NFS 类型的游戏。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [查看原帖](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [返回案例导航](#all-prompts)
-
----
-
-<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
-
-### Kimi K3 玻璃水族箱开裂爆裂 3D 仿真提示词
-
-[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Kimi K3 玻璃水族箱开裂爆裂 3D 仿真提示词"></a>
-
-**提示词**
-
-```text
-创建一个玻璃水族箱，其侧板先出现可见裂纹，然后破裂。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [查看原帖](https://x.com/UnslothAI/status/2082528683747873194) · [返回案例导航](#all-prompts)
-
----
-
-<a id="playable-combat-game-2082507403598373134"></a>
-
-### Kimi K3 的可玩战斗游戏提示词
-
-[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 的可玩战斗游戏提示词"></a>
-
-**提示词**
-
-```text
-构建一个可玩的战斗游戏
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/playable-combat-game-2082507403598373134) · [查看原帖](https://x.com/darshal_/status/2082507403598373134) · [返回案例导航](#all-prompts)
-
----
-
-<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
-
-### Kimi K3 的《英雄联盟》风格 1v1 单页 HTML 游戏提示词
-
-[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Kimi K3 的《英雄联盟》风格 1v1 单页 HTML 游戏提示词"></a>
-
-**提示词**
-
-```text
-我在 Verdent 上给 Kimi K3 和 GPT-5.6 输入了同一个提示词：在一个 HTML 文件里构建一个可玩的英雄联盟风格 1v1。
-
-两者都生成了一个游戏。我把它们并排打开逐个玩了一遍。
-
-我在两次运行之间只改了一个东西：https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm 下拉菜单里的模型
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [查看原帖](https://x.com/0x_fokki/status/2082474707727581564) · [返回案例导航](#all-prompts)
-
----
-
-<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
-
-### 适用于 Claude Opus 5 的单文件 3D 太阳可视化提示词
-
-[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="适用于 Claude Opus 5 的单文件 3D 太阳可视化提示词"></a>
-
-**提示词**
-
-```text
-构建一个在太空中旋转的 3D 太阳可视化器。一个 HTML 文件。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [查看原帖](https://x.com/AlysisAI/status/2082461416049525077) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.8.md) · **9 / 10** · [→](catalog.zh.10.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 488 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 496 条案例与在线演示 →</a></strong></p>

@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Nhà ngoại ô hai tầng có nội thất](#gpt-6-astra-2102473710724919614)
+- [Mô phỏng sơ tán đám đông tương tác](#claude-opus-5-5-2102467667978572092)
+- [Battle City 3D: Phòng thủ xe tăng vô tận](#battle-city-3d)
+- [Hòn đảo tiền sử 3D tương tác](#claude-opus-5-5-2102450239923720440)
+- [Game tower defense phong cách Sir, We Have Orc Problems](#gpt-6-astra-2102411087002112256)
+- [Cảnh 3D và video Tháp Tokyo ngày và đêm](#gpt-6-astra-2102276620124062065)
+- [Bubble Bay: Đại chiến bóng nước 3D](#bubble-bay)
+- [Bản trình bày thiết kế trực thăng 3D tương tác](#gpt-6-astra-2102215638311694336)
 - [Game đua xe procedural trên trình duyệt Spline Rush](#gpt-6-astra-2102150615635816866)
 - [Website mô hình Mặt Trời 3D tương tác](#gpt-6-astra-2102038136725377200)
 - [Verdant — hòn đảo khủng long 3D tương tác](#gpt-6-astra-2101730386711634251)
@@ -70,16 +78,514 @@
 - [Màn vượt chướng ngại vật 3D có thể chơi](#gpt-6-astra-2099419671481249851)
 - [Đường sắt mô hình tự động tránh va chạm](#gpt-6-astra-2099362575339372780)
 - [Tái hiện Lâu đài Peach trong 3D](#gpt-6-astra-2099359786865402019)
-- [Trình khám phá giải phẫu 3D tương tác](#gpt-6-astra-2099206962344800541)
-- [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#gpt-6-astra-2099172061092381027)
-- [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#gpt-6-astra-2098980384260456813)
-- [Hoạt ảnh origami 3D tự gấp](#gpt-6-astra-2098909584996057283)
-- [Atlas Chernobyl](#gpt-6-astra-2098841316591346006)
-- [Mô phỏng bàn cát động lực](#gpt-6-astra-2098831830002851846)
-- [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#gpt-6-astra-2098795017955418202)
-- [Khung ảnh in 3D dạng lắp ghép có khớp nối](#gpt-6-astra-2098774359926297011)
 
 </details>
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### Nhà ngoại ô hai tầng có nội thất
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="Nhà ngoại ô hai tầng có nội thất"></a>
+
+**Prompt**
+
+```text
+Xin chào. Hãy thiết kế mô hình 3D tốt nhất có thể bằng Blender về một ngôi nhà ngoại ô hai tầng, bao gồm cả nội thất và mọi chi tiết cần thiết.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102473710724919614) · [Bài đăng gốc](https://x.com/azer0lxm/status/2102473781830909995) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### Mô phỏng sơ tán đám đông tương tác
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Mô phỏng sơ tán đám đông tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng sơ tán đám đông tương tác và xem những nơi xảy ra ùn tắc
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102467667978572092) · [Bài đăng gốc](https://x.com/dominikmartn/status/2102467667978572092) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="battle-city-3d"></a>
+
+### Battle City 3D: Phòng thủ xe tăng vô tận
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D: Phòng thủ xe tăng vô tận"></a>
+
+**Prompt**
+
+```text
+1. Mục tiêu dự án
+Xây dựng Battle City 3D, một game phòng thủ bằng xe tăng trên trình duyệt, lấy cảm hứng từ phiên bản Famicom kinh điển năm 1985. Người chơi điều khiển xe tăng, tiêu diệt một đợt 20 kẻ địch, thu thập vật phẩm tiếp tế và bảo vệ sở chỉ huy đại bàng. Tái dựng phiên bản 3D phối cảnh hiện tại như trong tư liệu tham chiếu, bao gồm chiến dịch vô tận có seed và 35 bố cục kinh điển có thể chọn. Giữ nguyên luật arcade dễ nắm bắt, đồng thời tạo chiều sâu thực cho xe tăng, tường và cảnh vật.
+
+2. Phong cách hình ảnh
+Sử dụng Three.js PerspectiveCamera với trường nhìn 60 độ. Góc nhìn mặc định trên chiến trường đặt phía sau và cao hơn người chơi, cách khoảng 13 đơn vị thế giới ở độ cao 0,43 radian. Bám mượt theo vị trí và một điểm phía trước xe tăng; không tự động xoay camera khi xe tăng đổi hướng. Cung cấp góc nhìn chiến thuật cao hơn, xoay camera thủ công bằng thao tác kéo và phóng to bằng con lăn. Sử dụng bốn trục chính của bản đồ cho việc di chuyển và bắn. Sau khi xoay camera, ánh xạ các phím định hướng tới hướng chính gần nhất xét theo camera; không bao giờ biến thao tác bàn phím thành di chuyển chéo. Cập nhật ngay hướng thân xe để khớp với hướng bắn, đồng thời căn chỉnh độ cao của đạn và tia chớp đầu nòng theo khẩu pháo thực tế của từng mẫu xe.
+Sử dụng xe tăng bánh xích bám mặt đất, tháp pháo kim loại, gạch đất nung, khối thép tối màu, nước xanh, thảm thực vật thấp và băng phản chiếu. Kéo dài mặt đất vượt ra ngoài khu vực chơi, tiếp nối bằng cây cối, các tòa nhà đổ nát và màn sương. Dùng ánh sáng định hướng ấm, bóng mềm, ánh sáng môi trường bổ trợ, tone mapping ACES cùng hiệu ứng chớp đầu nòng, giật lùi, tia lửa và mảnh vỡ nảy ở mức tiết chế. Tuyết thay đổi bảng màu mặt đất và cây cối; các màn công nghiệp ưu tiên thép và những tòa nhà đổ nát.
+Đóng khung game bằng giao diện điều khiển màu xanh ô-liu tối, hành động chính màu vàng ấm, điểm số, số mạng dùng chung, biểu tượng kẻ địch còn lại, tên màn và radar. Đặt nút chuyển mô hình Tripo 3D / Three.js lớn phía trên chiến trường, hiển thị chế độ đang chọn và bản xem trước xe tăng xoay. Sử dụng hướng dẫn vật phẩm tiếp tế minh họa đã bản địa hóa cùng các chỉ báo hiệu ứng theo thời gian. Giữ khu vực chơi và các điều khiển cảm ứng thiết yếu hiển thị trên màn hình hẹp.
+
+3. Thế giới và cảnh
+Biểu diễn chiến trường dưới dạng lưới 26 × 26 ô, với nửa bề rộng va chạm của xe tăng là 0,72. Đặt đại bàng tại (13,25), bao quanh bằng hệ phòng thủ gạch hình chữ U có thể phá hủy. Vị trí xuất hiện của người chơi là (9,25) và (17,25); cổng kẻ địch là (1,1), (13,1) và (25,1).
+Cung cấp hai chiến dịch: toàn bộ 35 bố cục kinh điển với bảng đợt 20 kẻ địch tương ứng, và trình tạo vô tận dựa trên seed, luân phiên các biome đồng cỏ, tuyết và công nghiệp. Tạo các hành lang liên thông đủ rộng cho toàn bộ thân xe, với lối nối có thể đi qua giữa vị trí xuất hiện của người chơi, cổng kẻ địch và các vị trí vật phẩm. Bổ sung vật cản thép ở trung tâm theo kiểu so le để ngăn làn bắn thẳng từ điểm xuất hiện tới đại bàng, nhưng vẫn giữ lối đi ngang giữa các phố. Cho phép chọn biome bắt đầu hoặc màn kinh điển, cũng như tạo lại một bản đồ ngẫu nhiên. Mang seed lượt chơi, điểm số, số mạng và nâng cấp của người chơi còn sống sang màn tiếp theo.
+Gạch có thể phá hủy; khối thép chặn đạn thường và xe tăng; nước chặn xe tăng nhưng cho đạn đi qua; thảm thực vật che khuất mẫu kẻ địch; băng làm giảm độ bám. Giữ môi trường ở xa chỉ mang tính trang trí, tách biệt khỏi va chạm gameplay.
+
+4. Danh mục tài sản
+Sử dụng các slot mô hình 3D ổn định, có thể thay thế độc lập sau đây. Ưu tiên người chơi, kẻ địch, xe tăng hạng nặng và đại bàng, sau đó là toàn bộ mười mẫu vật phẩm tiếp tế. Đặt chân mỗi tài sản tại điểm thấp nhất, đồng thời chuẩn hóa hướng, tâm và tỷ lệ. Tái sử dụng template thay vì tải một mô hình cho từng kẻ địch.
+- player: xe tăng bánh xích màu vàng mù tạt, có tháp pháo dễ nhận biết và pháo hướng về phía trước; dùng cho xe tăng người chơi, với màu vòng riêng cho người chơi thứ hai.
+- enemy: xe tăng địch bánh xích nhỏ gọn, tái sử dụng với các sắc màu khác nhau cho biến thể cơ bản, nhanh và mạnh.
+- heavy: xe tăng bọc thép rõ ràng nặng hơn, dùng mesh riêng với kẻ địch tiêu chuẩn, bên trên có bốn đoạn giáp nhìn thấy được.
+- eagle: tượng đại bàng vàng kim loại trên bệ sở chỉ huy.
+- pickup-star: ngôi sao nâng cấp vàng năm cánh.
+- pickup-helmet: mũ bảo hộ quân sự dùng để tạo lá chắn tạm thời.
+- pickup-clock: đồng hồ dễ nhận biết dùng để đóng băng chuyển động của kẻ địch.
+- pickup-shovel: xẻng dùng để gia cố sở chỉ huy.
+- pickup-life: xe tăng thu nhỏ đại diện cho một mạng thêm.
+- pickup-grenade: lựu đạn cầm tay dùng để tiêu diệt kẻ địch đang hoạt động.
+- pickup-ammo: thùng đạn dùng để bắn nhanh.
+- pickup-repair: hộp dụng cụ sửa chữa dùng để phục hồi giáp.
+- pickup-magnet: nam châm móng ngựa dùng để thu thập vật phẩm từ xa.
+- pickup-boost: pin năng lượng dùng để tăng tốc tạm thời.
+- environment-building: tòa nhà căn hộ đổ nát, phong hóa, Tripo P2.0, ngân sách yêu cầu 1.800 tam giác.
+- environment-tree: cây thông không đều, có thân cây nhìn thấy rõ, Tripo P2.0, ngân sách yêu cầu 1.100 tam giác.
+- environment-bush: bụi cây lá thấp và các cụm cỏ, Tripo P2.0, ngân sách yêu cầu 650 tam giác.
+Hiển thị vật phẩm tiếp tế dưới dạng mô hình có thể nhặt, xoay và lơ lửng, với vòng màu và ảnh thu nhỏ hướng dẫn tương ứng. Hiển thị các tòa nhà, cây và bụi lặp lại bằng các instance hình học/vật liệu dùng chung. Đặt gốc tòa nhà và cây chạm mặt đất; chôn nhẹ phần đáy bụi cây để hòa vào địa hình. Thêm tuyết trên các bề mặt hướng lên trong màn tuyết. Giữ tường theo ô, nước, băng, mesh đạn, UI, đèn, hạt và proxy va chạm ở dạng tạo bằng code. Tạo hoạt ảnh nước bằng sóng chảy trong không gian thế giới, pháp tuyến thay đổi và độ dịch chuyển bề mặt nhỏ, liên tục giữa các ô liền kề. Phiên bản Tripo sử dụng 17 mô hình được tạo; phiên bản so sánh chuyển cả xe tăng lẫn môi trường sang hình học dựng bằng code với cùng luật chơi và va chạm. Cả hai đều được render bằng Three.js.
+
+5. Gameplay và phản hồi
+Hỗ trợ chơi đơn và co-op cục bộ hai người với tổng cộng ba mạng dùng chung. Chơi đơn dùng WASD hoặc phím mũi tên và Space/J để bắn. Trong co-op, người chơi một dùng WASD và Space/J; người chơi hai dùng phím mũi tên và Enter/Numpad 0. P/Escape để tạm dừng; C đổi camera; 1/2 chọn chế độ mô hình. Trên màn hình cảm ứng, cho phép giữ đồng thời nút điều hướng và nút bắn, giải phóng thao tác khi con trỏ bị hủy, đồng thời hiển thị các hành động tạm dừng, tiếp tục, sang màn kế tiếp và chơi lại mà không cần cuộn.
+Tốc độ người chơi là 4,2 đơn vị mỗi giây, hoặc 6,3 khi tăng tốc. Kẻ địch gồm loại cơ bản, nhanh, mạnh và hạng nặng; xe tăng hạng nặng có bốn điểm trúng đạn và sống sót sau ba lần trúng đạn đầu tiên khi không có lá chắn. Dùng tối đa bốn kẻ địch đồng thời trong chơi đơn và sáu trong co-op, xuất hiện theo từng đợt lệch nhau. Tiêu diệt từng loại lần lượt được 100, 200, 300 hoặc 400 điểm; nhặt bất kỳ vật phẩm tiếp tế nào được 500 điểm. Hoàn thành màn sau khi tiêu diệt 20 kẻ địch. Thua khi đại bàng bị phá hủy hoặc tổng mạng dùng chung cạn và không còn người chơi nào sống sót. Cung cấp tùy chọn chơi lại ngay, tiến trình sang màn kế tiếp rõ ràng và điểm cao nhất được lưu cục bộ.
+Triển khai đủ mười loại vật phẩm tiếp tế: ngôi sao nâng cấp qua ba cấp (đạn nhanh hơn, hai viên đạn đồng thời, rồi đạn phá thép); mũ tạo lá chắn trong 12 giây; đồng hồ đóng băng kẻ địch trong 9 giây; xẻng gia cố căn cứ trong 16 giây; xe tăng mini thêm một mạng; lựu đạn tiêu diệt kẻ địch đang hoạt động; đạn dược cho phép bắn nhanh trong 14 giây với tối đa bốn viên đạn đang hoạt động; sửa chữa thêm hai điểm giáp, tối đa ba điểm; nam châm thu thập vật phẩm đang nhìn thấy trong phạm vi năm đơn vị suốt 20 giây; tăng tốc kéo dài 12 giây. Mô hình vật phẩm tiếp tế tồn tại 25 giây và xuất hiện tại các vị trí có thể tiếp cận, với một bộ bài được xáo trộn để thay đổi loại vật phẩm. Việc thu thập bằng nam châm phải tuân thủ các vật cản đặc.
+Sử dụng các sample kiểu NES đã thu thập cho đoạn mở màn dài 4,333 giây, tiếng bắn, tiếng di chuyển và không hoạt động, va chạm với gạch/thép, vụ nổ của kẻ địch/người chơi, xuất hiện và thu thập vật phẩm tiếp tế, mạng thêm, trúng giáp, băng, tạm dừng và game over. Dự án hiện tại sử dụng 15 cue OGG từ JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Giữ nguyên thông tin ghi công và thông báo giấy phép của repository; mô tả chúng là âm thanh remake được thu thập, không tuyên bố đây là bản thu phần cứng chính xác tuyệt đối từng bit. Mở khóa âm thanh sau thao tác của người dùng, căn chỉnh gain của sample, cung cấp điều khiển âm lượng/tắt tiếng và đồng bộ âm thanh với sự kiện. Không thêm nhạc chiến đấu liên tục không liên quan.
+
+6. Triển khai kỹ thuật
+Sử dụng TypeScript, Three.js 0.180.0 và Vite 7, với package.json và lockfile độc lập. Giữ mô phỏng độc lập với render, chạy ở 120 Hz. Dùng AABB đặc cho thân xe, chuyển động tách theo trục, xử lý biên và tách các xe tăng, cùng quét liên tục theo tiếp xúc gần nhất của đạn, bao gồm va chạm do chuyển động tương đối giữa các viên đạn đối địch. Đạn xuất phát từ thân xe và quét về phía trước để ngăn xuyên tường ở cự ly cực gần. Thêm gia tốc/giảm tốc trên băng và trọng lực với các cú nảy giảm dần cho mảnh vỡ. Đây là vật lý mặt đất kiểu arcade, không phải mô phỏng hệ thống treo.
+Tải tài sản GLB cùng nguồn qua GLTFLoader. Giữ proxy va chạm độc lập với hình học tài sản. Runtime hiện tại sử dụng thuộc tính lượng tử hóa và texture WebP (1024 px cho xe và căn cứ; 512 px cho vật phẩm tiếp tế và môi trường), không đơn giản hóa hình học và không dùng bộ giải mã WASM. Giới hạn tải ở bốn worker, sử dụng URL có phiên bản theo hash và các range 256 KiB với thời gian chờ 20 giây, tối đa ba lần thử cho mỗi range. Mở khóa chơi sau khi bốn mô hình cốt lõi và âm thanh đã sẵn sàng; tải tài sản vật phẩm tiếp tế và môi trường ở chế độ nền, chỉ tạo những loại vật phẩm có mô hình đã sẵn sàng. Việc chuyển chế độ mô hình phải giữ nguyên trạng thái gameplay.
+Cung cấp UI bằng tiếng Anh, tiếng Trung giản thể, tiếng Nhật và tiếng Hàn. Chọn mặc định theo ngôn ngữ thiết bị, ngoại trừ zh-TW, zh-HK, zh-MO và zh-Hant mặc định là tiếng Anh; lưu lựa chọn ngôn ngữ rõ ràng của người dùng. Hỗ trợ bàn phím, con trỏ trên máy tính và cảm ứng đa điểm, đồng thời tạm dừng khi mất focus. Giữ toàn bộ tài sản, thông tin ghi công và script có thể tái tạo cục bộ trong project nguồn, đồng thời đóng gói thư mục dist tĩnh không chứa thông tin xác thực riêng tư hoặc phụ thuộc backend runtime.
+
+7. Tiêu chí hoàn thành
+Bàn giao source có thể chỉnh sửa, nguồn gốc tài sản và thông báo giấy phép, quy trình phát triển/build bằng npm cùng bản preview tĩnh có thể chơi được. Xác minh scene Tripo mặc định, phần so sánh mô hình, tất cả biome, xe tăng hạng nặng chịu đủ bốn lần trúng đạn, mọi hiệu ứng vật phẩm tiếp tế, tạm dừng/tiếp tục, thất bại/chơi lại và tiến trình màn. Kiểm thử 1.000 bản đồ có seed về khả năng kết nối theo bề rộng thân xe và vị trí xuất hiện an toàn, cùng toàn bộ bản đồ kinh điển, hiện tượng xuyên tường, bắn chéo, tách xe tăng, quán tính trên băng, thao tác tương đối với camera ở nhiều góc yaw và chuyển chế độ có bảo toàn trạng thái. Xác thực UI đã bản địa hóa và điều khiển hai ngón trên màn hình hẹp, không tuyên bố đã kiểm thử trên thiết bị thật nếu chỉ dùng mô phỏng. So sánh các frame bắt đầu và giao chiến thực tế với hình ảnh/video tham chiếu; xác nhận cả 17 mô hình và 15 cue âm thanh đều tải được. Xuất bản qua quy trình CMS Web Page hiện có và xác minh trang công khai cuối cùng, thay vì xem một bản ghi CMS đã lưu là triển khai hoàn tất.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/battle-city-3d) · [Bản demo](https://battle-city-3d.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102450239923720440"></a>
+
+### Hòn đảo tiền sử 3D tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Hòn đảo tiền sử 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo một hòn đảo tiền sử 3D đẹp mắt, cực kỳ chi tiết và tương tác hoàn toàn bằng Three.js và WebGL. Cung cấp mọi thứ trong một tệp HTML độc lập duy nhất, có thể mở trực tiếp bằng Chrome. Nhúng tài nguyên bất cứ khi nào có thể.
+
+ĐỊNH HƯỚNG HÌNH ẢNH
+Xây dựng một hòn đảo lớn, bo tròn, bao quanh là đại dương có mặt cắt dưới nước trong suốt. Tổng thể phải tạo cảm giác như một thế giới thu nhỏ cao cấp: thảm thực vật tươi tốt, khủng long giàu biểu cảm, vật liệu phong phú, ánh sáng có chiều sâu không khí và hoạt ảnh trau chuốt. Sử dụng định hướng nghệ thuật thống nhất, cách điệu thay vì các hình khối hình học cơ bản.
+ISLAND
+Tạo địa hình đa dạng với bãi biển, vách đá, rừng tiền sử rậm rạp, dương xỉ khổng lồ, thác nước, ao nước ngọt và núi lửa. Thêm một trạm nghiên cứu nhỏ, lối đi bằng gỗ, đài quan sát, thùng tiếp tế và tổ khủng long. Đảo phải đủ rộng để khủng long di chuyển tự nhiên giữa các khu vực riêng biệt.
+
+MẶT CẮT DƯỚI NƯỚC
+Nước phải tạo thành một khối sâu, bo tròn bao quanh hòn đảo, với cảnh quan dưới nước hiện rõ qua các mặt bên. Bao gồm đáy biển có kết cấu bề mặt, đá, thực vật thủy sinh, cá, bong bóng và một loài bò sát biển màu xanh đang bơi dưới mặt nước. Không đặt các loài khủng long trên cạn thông thường dưới nước và không thêm tàu ngầm.
+Sử dụng sóng chuyển động, phản xạ Fresnel, các vệt sáng dưới nước, bọt ven bờ và hiệu ứng nước bắn. Tránh lỗi sắp xếp độ trong suốt và các khoảng hở nhìn thấy giữa hòn đảo với mặt nước.
+
+DINOSAURS
+Bao gồm nhiều loài riêng biệt, chẳng hạn như sauropod cổ dài, Triceratops, Stegosaurus, một loài khủng long chân thú lớn và các loài động vật sống theo đàn nhỏ hơn. Thêm các loài thằn lằn bay bay vòng trên cao.
+Mỗi loài phải có giải phẫu dễ nhận biết, cơ thể được tạo hình rõ ràng, các chi có khớp nối, đầu và đuôi chi tiết cùng hoa văn da phù hợp. Tránh ghép khủng long hoàn chỉnh từ các khối hộp lộ liễu hoặc những hình cầu rời rạc.
+
+HOẠT ẢNH TỰ NHIÊN
+Sử dụng skeleton phân cấp với các khớp được đặt đúng vị trí. Chuyển động đi bộ phải có rõ ràng hai pha trụ và vung: bàn chân giữ nguyên vị trí khi tiếp xúc với mặt đất và nhấc lên gọn trong mỗi bước. Điều chỉnh độ dài sải chân phù hợp với tốc độ di chuyển.
+
+Sử dụng việc lấy mẫu địa hình và inverse kinematics để giữ bàn chân trên mặt đất. Thêm chuyển trọng lượng, chuyển động cơ thể tinh tế, chuyển động đuôi cân bằng, quay đầu và nhịp thở. Khủng long không được phép lơ lửng, trượt chân, xuyên qua mặt đất hoặc đi xuyên qua công trình, đá, cây cối hay các cá thể khác.
+Sử dụng tính năng tránh chướng ngại vật và các lộ trình an toàn. Các loài khác nhau phải có tốc độ di chuyển, kiểu dáng đi và hành vi khác nhau. Động vật biển phải hướng mặt theo hướng di chuyển.
+
+INTERACTION
+Cho phép người dùng:
+
+Tự do xoay camera, thu phóng và quan sát mặt cắt dưới nước.
+Chọn một con khủng long và theo dõi nó bằng camera chuyển động mượt mà.
+
+Đặt thức ăn ở những vị trí phù hợp và quan sát các khủng long gần đó tiến đến ăn.
+
+Kích hoạt hành vi uống nước, nghỉ ngơi, gọi bầy và di chuyển theo đàn.
+
+Khám phá các tổ và quan sát một con non nở ra.
+Kích hoạt cảnh bò sát biển trồi lên mặt nước kèm hiệu ứng nước bắn.
+Chuyển đổi giữa ban ngày, hoàng hôn và ban đêm.
+Điều chỉnh mưa, gió và hoạt động núi lửa.
+Tạm dừng mô phỏng và đặt lại cảnh.
+Mọi điều khiển đều phải tạo ra phản hồi rõ ràng, có thể nhìn thấy. Giữ cho các tương tác có thể lặp lại và ngăn các hoạt ảnh chồng lấn làm hỏng tư thế nhân vật.
+KHÔNG KHÍ VÀ ÂM THANH
+Thêm tán lá chuyển động, mây trôi, chim, côn trùng, hạt mưa và ánh đèn ấm áp của trạm nghiên cứu vào ban đêm. Bao gồm nhạc nền không lời nhẹ nhàng và âm thanh môi trường, cùng nút bật/tắt nhạc và thanh trượt âm lượng hoạt động tốt. Chỉ bắt đầu phát âm thanh sau khi người dùng tương tác.
+INTERFACE
+Sử dụng giao diện nhỏ gọn, thanh lịch với nhãn bằng tiếng Anh. Giữ cảnh là thành phần chính và tránh các bảng lớn che phủ hòn đảo. Bố cục phải thích ứng với máy tính để bàn và thiết bị di động.
+CHẤT LƯỢNG KỸ THUẬT
+Sử dụng instancing cho thảm thực vật và đạo cụ lặp lại, hình học hiệu quả, đổ bóng phù hợp và hậu kỳ tiết chế. Cân bằng độ phong phú hình ảnh với hiệu năng thời gian thực mượt mà.
+Xây dựng một cảnh hoàn chỉnh, không phải bản mô phỏng. Kiểm thử tệp HTML cuối cùng trực tiếp trên trình duyệt máy tính để bàn, kiểm tra ảnh chụp màn hình và console, thực hiện mọi tương tác, đồng thời sửa các lỗi tải, khủng long lơ lửng, trượt chân, va chạm hỏng, lỗi hiển thị mặt nước và vấn đề camera trước khi bàn giao.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
+
+VISUAL DIRECTION
+Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
+ISLAND
+Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
+
+WATER CROSS-SECTION
+The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
+Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
+
+DINOSAURS
+Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
+Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
+
+NATURAL ANIMATION
+Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
+
+Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
+Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
+
+INTERACTION
+Allow users to:
+
+Rotate the camera freely, zoom, and inspect the underwater cross-section.
+Select a dinosaur and follow it with a smoothly moving camera.
+
+Place food in suitable locations and watch nearby dinosaurs approach and eat.
+
+Trigger drinking, resting, calling, and herd movement.
+
+Explore nests and watch a hatchling emerge.
+Trigger a marine reptile surfacing with a splash.
+Switch between daylight, sunset, and night.
+Adjust rain, wind, and volcanic activity.
+Pause the simulation and reset the scene.
+Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
+ATMOSPHERE AND AUDIO
+Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
+INTERFACE
+Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
+TECHNICAL QUALITY
+Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
+Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102450239923720440) · [Bài đăng gốc](https://x.com/vib3coded/status/2102450842070569099) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102411087002112256"></a>
+
+### Game tower defense phong cách Sir, We Have Orc Problems
+
+[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="Game tower defense phong cách Sir, We Have Orc Problems"></a>
+
+**Prompt**
+
+```text
+Hãy tạo một game tower defense giống Sir, We Have Orc Problems.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Sir, we have orc problemsみたいなTDゲーム作って
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102411087002112256) · [Bài đăng gốc](https://x.com/nikzu_/status/2102411087002112256) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102276620124062065"></a>
+
+### Cảnh 3D và video Tháp Tokyo ngày và đêm
+
+[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="Cảnh 3D và video Tháp Tokyo ngày và đêm"></a>
+
+**Prompt**
+
+```text
+Hãy tạo một tác phẩm 3D ấn tượng lấy Tháp Tokyo làm chủ thể chính, cùng video dài khoảng 30 giây để đăng trên X.
+
+Bạn là giám đốc sản xuất. Hãy tạo các tác vụ phụ cần thiết và giao việc nghiên cứu,制作. Bạn chịu trách nhiệm cụ thể hóa yêu cầu, quản lý tiến độ, kiểm tra sản phẩm, đưa ra yêu cầu chỉnh sửa và tổng hợp kết quả cuối cùng.
+
+【Những gì cần tạo】
+Hãy tạo Tháp Tokyo sao cho người xem cảm nhận được độ cao khi ngước nhìn từ mặt đất và độ tinh xảo của hệ kết cấu thép khi đến gần.
+Chuẩn bị cả phiên bản ngày và đêm: ban ngày làm nổi bật kết cấu và lớp sơn, ban đêm thể hiện vẻ đẹp của hệ thống chiếu sáng.
+
+Tôi muốn tác phẩm tạo cảm giác như người thực hiện đã quan sát và nghiên cứu kỹ Tháp Tokyo. Không chỉ tái hiện hình dáng tổng thể, hãy nghiên cứu và thể hiện các chi tiết đặc trưng như độ mở của các chân tháp, cách lắp ghép hệ kết cấu thép, đài quan sát và các tòa nhà ở phần chân tháp. Có thể giới hạn khu đô thị xung quanh ở mức đủ để truyền tải quy mô và không khí của vị trí của tháp.
+
+【Quy trình thực hiện】
+・Nghiên cứu tài liệu và ảnh chính thức, sau đó xác định các đặc điểm cần tái hiện cùng thứ tự ưu tiên.
+・Dựa trên kết quả nghiên cứu, đưa ra hướng dẫn制作 cụ thể cho từng tác vụ phụ.
+・Kiểm tra bản xem trước 3D thực tế từ giai đoạn sớm, rồi điều chỉnh hình dáng, bố cục và độ sáng.
+・Tự xem các ảnh hoặc video hoàn thiện, phát hiện điểm bất thường hay thiếu sót và yêu cầu chỉnh sửa.
+・Tự chủ quyết định các lựa chọn kỹ thuật chi tiết và bố cục quay, rồi tiếp tục thực hiện đến khi hoàn thành.
+
+Không được chỉ dùng nền dán ảnh chụp hoặc ảnh tạo sinh để thay thế; hãy thể hiện bằng hình học 3D thực tế và chuyển động camera. Hãy ghi lại những thông tin đã xác minh được cũng như các phần suy đoán do thiếu tư liệu.
+
+【Video】
+Dài khoảng 30 giây. Kết hợp góc ngước nhìn từ mặt đất, cận cảnh hệ kết cấu thép hoặc đài quan sát và góc rộng cho thấy toàn bộ tòa tháp; đồng thời thể hiện sự chuyển đổi giữa ngày và đêm.
+Hãy dựa trên mẫu 3D hoàn thiện để tự quyết định cách phân bổ thời lượng và cấu trúc truyền tải sức hấp dẫn tốt nhất; không cần chia giây quá chi tiết.
+
+【Bàn giao】
+・Dữ liệu Blender có thể chỉnh sửa
+・Video MP4 để đăng trên X
+・Ảnh xem trước toàn cảnh và chi tiết ban ngày, ban đêm
+・Bản nháp nội dung đăng ngắn
+・README ghi rõ nguồn tư liệu, phạm vi tái hiện và kết quả kiểm chứng
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
+
+あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
+
+【作ってほしいもの】
+地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
+昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
+
+「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
+
+【制作の進め方】
+・公式資料や写真を調査し、再現する特徴と優先順位を決める。
+・その調査を基に、各サブタスクへ具体的な制作指示を出す。
+・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
+・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
+・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
+
+写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
+
+【動画】
+約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
+細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
+
+【納品】
+・編集可能なBlenderデータ
+・X投稿用MP4動画
+・昼夜の全景と細部の確認画像
+・短い投稿文案
+・素材の出典、再現範囲、検証結果を記したREADME
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102276620124062065) · [Bài đăng gốc](https://x.com/wafffle_dev/status/2102276620124062065) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="bubble-bay"></a>
+
+### Bubble Bay: Đại chiến bóng nước 3D
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="Bubble Bay: Đại chiến bóng nước 3D"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
+
+**Prompt**
+
+```text
+Xây dựng Bubble Bay, một đấu trường bóng nước Three.js có thể chơi được, với phong cách nhân vật mặc trang phục quen thuộc của các game bong bóng kinh điển: đầu to, thân ngắn và khuôn mặt lộ rõ. Mặc định sử dụng các mô hình Tripo chi tiết, kèm công tắc so sánh hình học Three.js rõ ràng nhưng vẫn giữ nguyên trận đấu. Sử dụng ba nhân vật mới: Langya, Shantao và Tuanli. Bám sát các bản tham khảo ý tưởng/mô hình nhân vật mới được cung cấp, giữ nguyên dáng tổng thể, khuôn mặt, màu sắc và trang phục.
+
+Langya là một cậu bé người năng động, đội mũ trùm màu xanh ngọc với một mào sóng ngang liền mạch, cổ áo và cổ tay áo màu cam, quần short xanh navy, giày xanh ngọc đế cam. Shantao là một cô bé người nhỏ nhắn với tóc bob màu mận sẫm, mũ bonnet hồng đào với ba chi tiết cánh hoa ngắn ở mỗi bên, áo khoác xanh bạc hà, quần yếm short màu mận và bốt vàng nhạt. Tuanli là một cậu bé người mũm mĩm, thân hình quả lê bè rộng, đội mũ đệm tròn màu caramel viền mặt màu kem, áo khoác ngắn xanh teal, phần bụng dưới màu kem và bốt xanh navy. Cả ba đều có khuôn mặt trẻ em màu da ấm, mắt bầu dục tối giản màu sẫm và nụ cười nhỏ. Đây là những đứa trẻ trong các bộ trang phục được thiết kế mới; không biến các em thành sinh vật dưới nước theo nghĩa đen và không dùng lại những bộ trang phục nhân vật cũ dễ nhận ra. Tạo riêng từng nhân vật bằng Tripo CLI với tripo-p2 được chỉ định rõ ràng cùng các ảnh mặt trước/mặt sau độc lập, sau đó gắn bộ xương hai chân và skin hợp lệ. Hoạt ảnh đứng yên/chạy/nhảy phải điều khiển các khớp thực tế; kiểm tra chuyển động, chỉnh trọng số cho mũ, giày và cơ thể, đồng thời ghi nhận chính xác nguồn gốc tài sản. Nếu chuyển động được tạo tại chỗ, hãy ghi rõ đó là chuyển động tự tạo.
+
+Tên bản địa hóa: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Cấp độ sức chứa/tầm ném/tốc độ ban đầu: 1/1/6, 1/2/5, 2/1/4; giới hạn: 6/7/9, 6/7/8, 9/8/8. Quy đổi tốc độ thành 0.25 + cấp độ*0.8 đơn vị thế giới mỗi giây; mỗi ô rộng 2 đơn vị. Khi chọn một nhân vật, gán hai nhân vật còn lại làm các đối thủ riêng biệt với hồ sơ tương ứng. Giữ nguyên bán kính va chạm trong gameplay, bất kể dáng vẻ mũm mĩm của nhân vật.
+
+Mặc định cung cấp Pirate/Patrit14 kích thước 15x13 và Village10. Giữ các đặc điểm dễ nhận ra: boong tàu màu vàng kim, hàng hóa màu vàng, thùng gỗ, bốn khẩu pháo và cột buồm trung tâm; ngôi làng có bốn khu nhà màu sắc khác nhau, một con đường trung tâm, hàng rào cây và các khối đồ chơi. Dùng bản đồ của nhà phát hành làm tài liệu tham khảo, tự dựng đồ họa khi chạy và ghi chú các lối mở tuyến đường nhỏ cần thiết cho chuyển động 3D liên tục cũng như việc AI tìm đường thoát. Cung cấp vật liệu sáng, bóng đổ, cảnh đại dương, camera bám theo và camera tổng quan rõ ràng.
+
+Một người chơi đối đầu với hai đối thủ AI phối hợp. WASD/phím mũi tên để di chuyển, F đặt một quả bóng nước có thời gian nổ 2,5 giây, Space nhảy lên các nền tảng thực, Shift lướt nhanh, Q/E xoay quanh, V đổi góc nhìn và Escape tạm dừng. Dòng nước hình chữ thập phải tôn trọng chướng ngại vật, phá khối mềm đầu tiên và nối chuỗi các quả bóng. Triển khai cơ chế mắc bẫy, thoát bẫy, bắt đối thủ, hồi sinh; cho phép chọn mục tiêu 3, 6, 9 hoặc 12 lần bắt (mặc định 6), hoặc tính điểm trong 180 giây, kèm màn hình kết quả và chơi lại. Cần hỗ trợ đồng thời cần điều khiển cảm ứng và các nút hành động.
+
+Sử dụng sáu vật phẩm nhặt được do Tripo tạo: bóng bay, thuốc tăng tầm, giày trượt patin, găng tay ném, giày đá và kim cứu hộ. Thùng rơi vật phẩm với xác suất 85%. Tỉ lệ trọng số vật phẩm có điều kiện: 30/30/30/2,5/3,5/4 phần trăm. Găng tay thêm ba lần ném, tối đa sáu lần. G ném một quả bóng ở gần đi tối đa bốn ô qua vật che chắn, giữ nguyên chủ sở hữu và thời gian cháy ban đầu, đồng thời giữ chỗ đáp và hiển thị quỹ đạo. Nếu bóng hết thời gian cháy khi đang bay, nó sẽ đáp xuống và phát nổ. K đẩy bóng trượt cho đến khi bị chặn mà không đặt lại thời gian cháy. X sử dụng kim cứu hộ, bắt đầu từ một kim và tối đa ba kim. Hiển thị rõ kho đồ và các điều khiển khả dụng.
+
+Giao diện người dùng bằng tiếng Trung, tiếng Anh và tiếng Hàn: múi giờ IANA của Trung Quốc đại lục chọn tiếng Trung, Hàn Quốc/Bắc Triều Tiên chọn tiếng Hàn, tất cả khu vực khác, bao gồm Hong Kong/Macao/Đài Loan, chọn tiếng Anh. Lựa chọn thủ công luôn được ưu tiên. Chỉ cho phép tải lên GLB có kết cấu nhúng, không nén tiêu chuẩn, thực sự có skin, tối đa 40 MB và 150k tam giác. Kiểm tra xương, khớp và trọng số; từ chối mô hình tĩnh; dùng hoạt ảnh nhúng nếu có; cung cấp chuyển động khớp cơ bản cho nhân vật hình người được nhận diện khi không có clip. Bộ xương không được nhận diện phải có hoạt ảnh. Giải thích rõ ràng sự khác nhau giữa rigging và animation, cung cấp điều chỉnh hướng 90 độ, xử lý cục bộ ngay trên trình duyệt và gán chỉ số ổn định, cân bằng dựa trên mã băm của tệp.
+
+Dùng chính xác https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character cho CTA tạo. Ghi công jared, liên kết tới https://x.com/jaredliu_bravo .
+
+Tích hợp 13 hiệu ứng âm thanh ElevenLabs với chuẩn hóa âm lượng, độ tắt ngắn, khoảng cách/pan, giới hạn đa âm, âm lượng và tắt tiếng: đặt bóng, nổ, thùng, nhặt vật phẩm, vật phẩm hiếm, ném, đáp, mắc bẫy, cứu hộ, nhảy, chiến thắng, thất bại, đá. Tạo hai bản nhạc không lời nguyên bản bằng ElevenLabs music_v2_5, mỗi bản dài 90 giây, phù hợp với bản đồ hải tặc trên biển và khu dân cư đầy nắng. Chuẩn hóa về mục tiêu tiết chế -20 LUFS và crossfade tại điểm lặp. Cho nhạc một thanh âm lượng riêng, đổi bản nhạc theo bản đồ, giảm dần khi tạm dừng và tuân theo chế độ tắt tiếng tổng. Không sao chép nhạc nền của game gốc.
+
+Giữ mã nguồn, dependency, bài kiểm thử và nguồn gốc tài sản độc lập, bên ngoài các ứng dụng trên nền tảng CMS. Đóng gói tài nguyên tĩnh cùng origin và thông báo MIT. Kiểm tra gameplay thực tế trên máy tính và thiết bị cảm ứng, các biến thể tải lên, ngôn ngữ và việc chuyển đổi hình ảnh trong Ego Lite. Tạo một phiên bản đánh giá bất biến, gắn với CMS Web Page 12 hiện có; giữ nguyên bản phát hành đang hoạt động trong khi chờ đánh giá. Chỉ phát hành khi nguồn và quyền sử dụng tài sản được xác nhận trung thực, sau đó kiểm tra URL công khai, mã băm mô hình và hành vi. Bảo toàn lịch sử, đồng thời phân biệt rõ bản ghi CMS đã lưu, bản xem trước và bản phát hành công khai.
+
+Tải tài sản mô hình với thanh tiến trình hiển thị, tối đa ba lượt tải đồng thời, thời gian chờ khi không hoạt động 30 giây và hai lần thử. Giữ lại các lượt tải thành công khi thử lại. Ẩn toàn bộ công tắc tab Tripo / Three.js cho đến khi tất cả mô hình sẵn sàng, sau đó mới hiển thị. Không gắn nhãn các placeholder tải theo quy trình là mô hình Tripo đã tải.
+
+
+Sử dụng camera bám theo phối cảnh cự ly gần, bắt đầu ở bên ngoài khu vực xuất hiện và hướng về trung tâm đấu trường. Giữ thao tác xoay Q/E, kéo chuột để điều chỉnh góc nghiêng và chế độ tổng quan bằng V. Đặt bảng điểm gọn ở phía trên, công tắc chế độ ở góc trên bên trái và thông báo ngắn gần phía dưới. Ẩn cần điều khiển và các nút cảm ứng lớn trên máy tính dùng chuột, nhưng giữ lại các điều khiển vật phẩm hiếm nhỏ; hỗ trợ thao tác cảm ứng đồng thời gọn trên màn hình hẹp. Thêm shader sóng động với biến thiên độ sâu màu teal, các đảo cát hữu cơ với cây cọ cong và đá, kết cấu vân gỗ và cỏ tinh tế. Bao quanh mỗi nhân vật bị mắc bẫy bằng một quả bóng trong suốt có kích thước phù hợp, viền Fresnel óng ánh, chuyển động lơ lửng nhẹ, các bong bóng nhỏ và gợn nước trên mặt đất. Kiểm tra các đỉnh skin sau khi tạo dáng vừa khít, đặt lại độ nâng khi cứu hộ và kiểm tra việc giải phóng tài nguyên sau nhiều lần chuyển đổi. Tránh các pass transmission tốn kém trên toàn cảnh cho màng nước; giới hạn pixel ratio ở màn hình hẹp ở mức 1.5.
+
+
+Cung cấp các điều khiển camera Follow / Overview hiển thị rõ ràng và chuyển đổi bằng V. Ở chế độ Overview, hỗ trợ thu phóng từ 100 đến 300 phần trăm bằng các nút +/−, con lăn chuột và thao tác chụm hai ngón tay, kèm kéo bản đồ trong giới hạn và nút đặt lại Fit map. Giữ nguyên mức thu phóng và trận đấu đang diễn ra khi chuyển camera hoặc phiên bản kết xuất. Duy trì các điều khiển vật phẩm hiếm gọn, không chồng lấp bằng tiếng Trung, tiếng Anh và tiếng Hàn.
+
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bubble-bay) · [Bài đăng gốc](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Bản demo](https://bubble-bay.tripo.page/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102215638311694336"></a>
+
+### Bản trình bày thiết kế trực thăng 3D tương tác
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="Bản trình bày thiết kế trực thăng 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo một cảnh 3D tương tác, chi tiết về một chiếc trực thăng hiện đại trong một tệp HTML duy nhất bằng Three.js và WebGL. Dựng hình học 3D thực sự để có thể quan sát từ mọi góc, không sử dụng hình ảnh.
+
+Phong cách hình ảnh:
+Bản trình bày thiết kế hàng không cao cấp với nền studio màu xám nhạt, bệ trưng bày hình tròn, bóng đổ mềm và phản chiếu chân thực.
+Trực thăng:
+
+Thân trực thăng mượt mà, thuôn gọn, lấy cảm hứng từ các mẫu trực thăng hạng nhẹ hai động cơ như H145.
+Thân màu trắng với phần bụng xanh navy đậm và một đường sọc xanh dương làm điểm nhấn.
+Cửa sổ buồng lái cong, phủ màu khói, có phản chiếu và gioăng cửa sổ được lắp khít cẩn thận.
+Cửa bên, tay nắm, đường ghép panel, đinh tán, bậc lên xuống và ăng-ten.
+Hai khoang động cơ với cửa hút khí, lưới thông gió và cửa xả.
+Rotor chính năm cánh với cụm moay-ơ chi tiết, phần cứng liên kết và các thanh liên kết điều khiển góc cánh.
+Cần đuôi thuôn nhọn, các cánh ổn định và rotor đuôi có vỏ che, với một khoảng hở xuyên qua vỏ được dựng đúng hình học.
+Càng trượt hạ cánh cong, gắn vào thân bằng các thanh đỡ kết cấu.
+Đèn dẫn đường và đèn hiệu nhấp nháy.
+Mọi bộ phận phải liên kết với nhau về mặt vật lý. Tránh các chi tiết bị lơ lửng, khe hở giữa các phần, cánh rotor xuyên vào thân hoặc cửa sổ nằm lơ lửng phía trên thân.
+
+Tương tác:
+
+Kéo chuột để xoay quanh mô hình, cuộn để phóng to/thu nhỏ và hỗ trợ điều khiển cảm ứng.
+Khởi động và dừng cả hai rotor với quá trình tăng tốc và giảm tốc dần.
+Điều chỉnh tốc độ rotor.
+Chế độ bay lơ lửng: nhẹ nhàng nâng trực thăng khỏi bệ, đung đưa nhẹ trong không trung và hạ xuống êm khi tắt chế độ.
+Tự động xoay camera.
+Các góc camera cài sẵn ở phía trước, bên hông và đuôi.
+Điều khiển đặt lại camera và toàn màn hình.
+Ba phối màu: xanh băng hà và trắng, cam cứu hộ và xám graphite.
+Giao diện:
+
+Góc trên bên trái: nhãn nhỏ “AERONAUT / OBJECT STUDIES” và tiêu đề lớn “Horizon 05.”
+Bên phải: panel gọn chứa thông số kỹ thuật, trạng thái trực thăng, lựa chọn phối màu và tốc độ rotor.
+Phía dưới: các nút điều khiển và gợi ý tương tác.
+Kiểu chữ tiết chế, đường viền mảnh và khoảng trống rộng rãi. Giữ cho trực thăng không bị che khuất.
+Toàn bộ văn bản giao diện phải bằng tiếng Anh.
+Yêu cầu kỹ thuật:
+
+Dựng hình học theo quy trình, không tải xuống mô hình trực thăng dựng sẵn.
+Sử dụng vật liệu PBR, môi trường phản chiếu studio và bóng đổ mềm.
+Bảo đảm hoạt ảnh độc lập với tốc độ khung hình.
+Tái sử dụng hình học và vật liệu khi phù hợp, đồng thời giới hạn pixel ratio để tối ưu hiệu năng.
+Hỗ trợ bố cục trên máy tính và thiết bị di động, đồng thời giữ toàn bộ sải rotor hiển thị trong khung hình ban đầu.
+Nếu có thể, hãy nhúng các thư viện phụ thuộc vào HTML để tệp hoạt động ngoại tuyến.
+Hiển thị thông báo dự phòng hữu ích nếu WebGL không khả dụng.
+Trước khi hoàn tất, kiểm tra mô hình từ mọi phía, thử mọi điều khiển và kiểm tra lỗi trong console. Đặc biệt chú ý đến silhouette, các liên kết kết cấu, phần kính và cơ cấu rotor.
+
+Bàn giao tệp HTML hoạt động được, không chỉ phần giải thích.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
+
+Visual style:
+A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
+Helicopter:
+
+A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
+A white body with a dark navy underside and blue accent stripe.
+Curved, tinted cockpit windows with reflections and carefully fitted window seals.
+Side doors, handles, panel seams, rivets, boarding steps, and antennas.
+Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
+A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
+A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
+Curved landing skids attached to the fuselage with structural supports.
+Navigation lights and a blinking beacon.
+All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
+
+Interactions:
+
+Mouse drag to orbit, scroll to zoom, and touch controls.
+Start and stop both rotors with gradual acceleration and deceleration.
+Adjustable rotor speed.
+Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
+Automatic camera orbit.
+Front, side, and tail camera presets.
+Reset camera and fullscreen controls.
+Three liveries: glacier blue and white, rescue orange, and graphite.
+Interface:
+
+Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
+Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
+Bottom: controls and interaction hints.
+Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
+All interface text in English.
+Technical requirements:
+
+Generate the geometry procedurally without downloading a prebuilt helicopter model.
+Use PBR materials, a studio reflection environment, and soft shadows.
+Make animation independent of frame rate.
+Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
+Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
+If possible, embed dependencies in the HTML so the file works offline.
+Display a helpful fallback message if WebGL is unavailable.
+Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
+
+Deliver the working HTML file, not just an explanation.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2102215638311694336) · [Bài đăng gốc](https://x.com/vib3coded/status/2102217028052377910) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2102150615635816866"></a>
 
 ### Game đua xe procedural trên trình duyệt Spline Rush
@@ -2004,390 +2510,6 @@ reimagine Peach’s Castle in 3D and create a fly-by video.
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099359786865402019) · [Bài đăng gốc](https://x.com/romainhuet/status/2099359786865402019) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099206962344800541"></a>
-
-### Trình khám phá giải phẫu 3D tương tác
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="Trình khám phá giải phẫu 3D tương tác"></a>
-
-**Prompt**
-
-```text
-Xây dựng một trình khám phá giải phẫu 3D tương tác, đẹp mắt, sử dụng các bộ dữ liệu khoa học công khai. Bắt đầu với góc nhìn bên ngoài, sau đó dần trở nên trong suốt khi tôi phóng to để hiển thị phần giải phẫu bên dưới.
-
-Cho phép tôi xoay mô hình, tách riêng các cấu trúc, chọn các vùng được gắn nhãn và bật/tắt các lớp từ bảng điều khiển bên. Thêm các tab riêng cho giải phẫu, kết nối và từng tế bào, kèm tín hiệu động cùng các tùy chỉnh có thể điều chỉnh.
-
-Sử dụng giao diện hiện đại, tối giản với ánh sáng dịu, màu sắc tinh tế, chuyển cảnh mượt mà và rất ít chữ. Thêm mũi tên cùng một hướng dẫn trực quan ngắn. Đảm bảo hoạt động tốt trên máy tính và thiết bị di động.
-
-Sử dụng hình học giải phẫu thực tế khi có thể, trích dẫn các nguồn và phân biệt rõ dữ liệu khoa học với hoạt ảnh minh họa. Xây dựng một website hoạt động hoàn chỉnh.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
-
-Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
-
-Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
-
-Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541) · [Bài đăng gốc](https://x.com/k1rallik/status/2099206962344800541) · [Mã nguồn](https://github.com/bubblik525/cat_brain_anatomy) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099172061092381027"></a>
-
-### Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt"></a>
-
-**Prompt**
-
-```text
-> khóa đặc tả (TZ-gta-slice.md)
-
-prompt: "Xây dựng một phân cảnh 3D có thể chơi trên trình duyệt. Không thay đổi đặc tả này sau khi đã khóa. Ưu tiên khu vực và đoạn cảnh trước. Bổ sung điều khiển sau."
-
-> stack (Vite, TypeScript thuần, Three.js, cannon-es, Web Audio)
-
-prompt: "Stack đã được cố định. Vite. TypeScript thuần. Three.js. cannon-es. Web Audio. Một URL trên trình duyệt."
-
-> khung hình (hoàng hôn trên mặt nước, mặt đường nhựa ướt, hàng cọ)
-
-prompt: "Một khu ven biển. Hoàng hôn trên mặt nước. Mặt đường nhựa ướt. Hàng cọ. Tập trung khung hình vào ánh sáng và camera, không phải số lượng polygon. Không dùng ánh sáng xám mặc định. Không để các khối hộp trơ trọi."
-
-> ba người (một cảnh, một ô tô, khoảng 20 giây)
-
-prompt: "Giữ cả ba người trong cùng một cảnh. Họ trò chuyện. Sau đó họ ngồi vào cùng một chiếc ô tô. Khoảng 20 giây. Ưu tiên chất lượng thay vì thêm công tắc."
-
-> cắt cảnh (15 đến 20 giây, giữ chuyển động mượt mà)
-
-prompt: "Nếu bị giật, rút ngắn đoạn cảnh xuống còn 15 đến 20 giây. Giữ chuyển động mượt mà. Nếu tụt khung hình, cắt bớt người đi bộ, không cắt ánh sáng."
-
-> âm thanh (giọng người, pad nền dưới lời thoại, tiếng động cơ ô tô)
-
-prompt: "Giọng nói phải giống người thật, không phải robot. Đặt pad âm thanh nhẹ dưới lời thoại, tuyệt đối không lấn át lời thoại. Khi họ ngồi vào xe, thêm tiếng động cơ ô tô trầm, không dùng âm thanh chói như tiếng cưa. Không có tiếng xì radio."
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-> lock the spec (TZ-gta-slice.md)
-
-prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
-
-> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
-
-prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
-
-> the frame (sunset over the water, wet asphalt, palms)
-
-prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
-
-> the three (one scene, one car, about 20 seconds)
-
-prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
-
-> the cut (15 to 20 seconds, keep it smooth)
-
-prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
-
-> the sound (human voices, pad under the lines, car rumble)
-
-prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027) · [Bài đăng gốc](https://x.com/Lummox_eth/status/2099172061092381027) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098980384260456813"></a>
-
-### Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu"></a>
-
-**Prompt**
-
-```text
-Trong Blender MCP, hãy thực hiện triển khai UV cho “mô hình không có đầu, bao gồm quần áo và tay chân” đang được chọn, đồng thời bake lại kết cấu hiện có ở độ phân giải 4K. 
-
-Mục tiêu là giữ nguyên diện mạo ban đầu và tạo UV có cấu trúc dễ đọc như rập may của quần áo, đồng thời thuận tiện cho việc vẽ lại về sau. Hãy thực hiện theo trình tự như một nghệ sĩ con người: quan sát → thiết kế seam → triển khai theo từng bộ phận → chỉnh biến dạng → sắp xếp → bake.
-
-1. Bảo toàn dữ liệu gốc
-Trước khi bắt đầu, hãy lưu thành tệp mới, giữ lại UV, hình ảnh và vật liệu cũ, đồng thời tạo UV mới có tên “UV\_Final”.
-Không được thay đổi hình dạng, topology, thứ tự đỉnh, weight, shape key hoặc rig.
-
-2. Quan sát mô hình và thiết kế seam
-Kiểm tra mọi hướng bằng chế độ hiển thị kết cấu gốc và wireframe để nắm được cấu trúc các bộ phận quần áo cũng như đường may thực tế.
-Với quần áo, hãy mở seam theo cấu trúc rập may của thân áo, tay áo, cổ áo và các bộ phận tương tự, tận dụng đường sườn hoặc mặt trong tay áo. Với da và tay chân, đặt seam ở những vị trí ít замет thấy như mặt trong hoặc mặt bên, đồng thời mở phần giữa các ngón tay một cách tự nhiên, không gây biến dạng.
-Không nhầm nếp nhăn hoặc hình in với đường may, và không tạo các island nhỏ bị chia vụn không cần thiết.
-
-3. Triển khai theo từng bộ phận và chỉnh biến dạng
-Không xử lý toàn bộ mô hình cùng lúc; hãy Unwrap theo từng bộ phận.
-Dùng checker có chữ tham chiếu đến UV\_Final cùng chế độ hiển thị Stretch để kiểm tra độ kéo giãn, co nén, xoắn, lật và chồng lấp.
-Tùy theo nguyên nhân, hãy thêm hoặc gỡ seam, điều chỉnh bằng Pin, Relax và các công cụ tương tự, rồi kiểm tra lại. Không chỉ lặp lại cùng một thao tác triển khai tự động; hãy giữ nguyên các bộ phận đã được cải thiện.
-Không dùng Smart UV Project để tự động chia nhỏ toàn bộ mô hình rồi coi đó là sản phẩm hoàn thiện.
-
-4. Căn chỉnh hướng sợi vải, mật độ và bố cục
-Đối với quần áo, hãy căn hướng dọc cơ bản theo hướng sợi vải của từng bộ phận vào hướng V của UV. Không cố ép những phần rập có đường cong thành hình chữ nhật.
-Đồng nhất mật độ texel theo kích thước thực, đồng thời sắp xếp hướng sao cho dễ nhận biết các phần đối xứng trái và phải.
-Sau đó, đóng gói vào vùng 0–1 trong khi giữ nguyên hướng và tỷ lệ tương đối. Không được tự ý xoay hoặc chồng UV đối xứng trái phải lên nhau.
-Làm mốc ban đầu cho ảnh 4K: lề bake 16px, khoảng cách giữa các island từ 32px trở lên và khoảng cách từ island đến mép ảnh từ 16px trở lên.
-
-5. Bake 4K từ UV cũ sang UV mới
-Cố định rõ nguồn tham chiếu của kết cấu gốc vào UV cũ, dùng UV\_Final làm UV đích và chuyển dữ liệu sang ảnh mới kích thước 4096×4096.
-Trong từng vật liệu, hãy kích hoạt node ảnh đích để bake, thực hiện bake thử trước rồi mới bake chính thức.
-Với base color, chỉ sử dụng Color của Diffuse hoặc Emit; không bake thêm ánh sáng, bóng hoặc AO mới. Giữ nguyên phần đổ bóng đã được vẽ trong ảnh gốc.
-Nếu cần, hãy chuyển cả các map hiện có như alpha; với normal map tangent, hãy bake lại theo UV mới thay vì chỉ chuyển màu đơn thuần.
-
-6. Đối chiếu cũ và mới để xác nhận hoàn thiện
-Áp dụng UV mới và ảnh đã bake, sau đó so sánh toàn thân cùng các chi tiết ở cùng điều kiện hiển thị như bản gốc.
-Kiểm tra vị trí họa tiết, màu sắc, độ trong suốt và tính liên tục của seam; sửa các lỗi UV bị ép, chồng lấp hoặc chưa được triển khai, cũng như các điểm đen, vùng mất dữ liệu và hiện tượng lem do bake.
-Đánh giá mức độ hoàn thiện dựa trên kết quả kiểm tra, không dựa vào “đã triển khai bao nhiêu lần”.
-
-Hãy lưu tệp hoàn thiện.blend, ảnh 4K, bố cục UV và các ảnh kiểm tra seam, checker cùng diện mạo hoàn thiện; sau đó báo cáo ngắn gọn những nội dung đã chỉnh sửa chính.
-Không dừng lại ở việc giải thích kế hoạch; hãy vừa kiểm tra hình ảnh thực tế vừa hoàn tất công việc.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
-
-目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
-
-1．元データを保全する
-作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
-形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
-
-2．モデルを観察してシームを設計する
-元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
-服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
-シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
-
-3．部位ごとに展開し、歪みを修正する
-全体を一括処理せず、部位ごとにUnwrapしてください。
-UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
-問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
-Smart UV Projectによる全体の自動細分化を完成品にしないでください。
-
-4．布目・密度・配置を整える
-服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
-実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
-その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
-4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
-
-5．旧UVから新UVへ4Kベイクする
-元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
-各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
-ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
-透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
-
-6．新旧比較で完成を確認する
-新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
-柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
-「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
-
-完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
-計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098980384260456813) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098909584996057283"></a>
-
-### Hoạt ảnh origami 3D tự gấp
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="Hoạt ảnh origami 3D tự gấp"></a>
-
-**Prompt**
-
-```text
-Tạo một hoạt ảnh origami 3D. Một tờ giấy hình vuông phẳng phải tự gấp từng bước thành một hình origami dễ nhận biết, trong đó mỗi nếp gấp được thể hiện bằng chuyển động gấp và xoay thực tế của tờ giấy, sau đó mở phẳng trở lại và lặp lại. Bạn tự quyết định hình origami và cách trình bày toàn bộ cảnh.
-
-Mọi yếu tố thiết kế đều do bạn quyết định: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất trong một lần thực hiện duy nhất.
-
-Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML tự chứa duy nhất, không dùng mô hình, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (cho phép dùng thư viện JavaScript từ CDN). Tệp phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, hoạt động mượt mà và không có lỗi trong console.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098909584996057283) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098909584996057283) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098841316591346006"></a>
-
-### Atlas Chernobyl
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="Atlas Chernobyl"></a>
-
-**Prompt**
-
-```text
-Xây dựng "Atlas Chernobyl", một triển lãm 3D tương tác cao cấp bằng Three.js.
-
-Nghiên cứu nhà máy điện Chernobyl và lò phản ứng RBMK còn nguyên trạng dựa trên các tài liệu công khai. Dựng mô hình các tòa nhà, ống khói dạng giàn, gian nhà tuabin, khối graphite, kênh nhiên liệu, lớp che chắn, tang tách hơi, máy bơm và đường ống.
-
-Tạo ba tab:
-— Khối nhà máy điện: mô hình chi tiết có thể tháo rời từng lớp bằng thao tác cuộn và thanh trượt.
-— Mạch hơi: sơ đồ có hoạt ảnh kết nối lò phản ứng, tuabin, bình ngưng và máy bơm.
-— Lò phản ứng chuyển động: mặt cắt 3D với nước và hơi chuyển động, máy móc quay cùng các nút điều khiển phát lại.
-
-Thêm các nút bật/tắt hiển thị độc lập cho từng hệ thống, điều chỉnh khoảng cách giữa các bộ phận, chế độ lưới, độ trong suốt, mặt cắt và nhãn ngắn. Đảm bảo mọi lớp đều dễ kiểm tra và camera có thể xoay tự do, kể cả khi mô hình đã được tháo rời hoàn toàn.
-
-Cung cấp mã nguồn và một tệp HTML độc lập. Kiểm thử tất cả điều khiển. Trình bày đây là một diễn giải phục vụ giáo dục, không phải bản sao kỹ thuật chính xác.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
-
-Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
-
-Create three tabs:
-— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
-— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
-— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
-
-Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
-
-Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006) · [Bài đăng gốc](https://x.com/k1rallik/status/2098841316591346006) · [Mã nguồn](https://github.com/bubblik525/Chernobyl_Atlas) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098831830002851846"></a>
-
-### Mô phỏng bàn cát động lực
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="Mô phỏng bàn cát động lực"></a>
-
-**Prompt**
-
-```text
-Xây dựng một mô phỏng bàn cát động lực. Một quả bóng phải di chuyển qua lớp cát, để lại dấu vết rõ ràng, vẽ các hoa văn hình học hoàn chỉnh, sau đó làm phẳng cát và tự động bắt đầu một hoa văn mới, khác biệt. Mô phỏng phải lần lượt chạy qua nhiều hoa văn khác nhau mà không lặp lại. Bạn được toàn quyền lựa chọn giao diện và hoa văn.
-
-Mọi quyết định về thiết kế đều do bạn lựa chọn: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất có thể chỉ trong một lần thực hiện.
-
-Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML độc lập, không dùng model, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (có thể dùng thư viện JavaScript từ CDN). Mô phỏng phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, đồng thời hoạt động mượt mà và không có lỗi trong console.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098831830002851846) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098795017955418202"></a>
-
-### Tái dựng 3D Hội chợ Thế giới Chicago năm 1893
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="Tái dựng 3D Hội chợ Thế giới Chicago năm 1893"></a>
-
-**Prompt**
-
-```text
-Tải xuống 2.000 bức ảnh lịch sử và tư liệu tham khảo về hội chợ, rồi sử dụng toàn bộ thông tin thu thập được để tạo bản tái dựng 3D trong Blender.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202) · [Bài đăng gốc](https://x.com/moreisdifferent/status/2098795017955418202) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098774359926297011"></a>
-
-### Khung ảnh in 3D dạng lắp ghép có khớp nối
-
-[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="Khung ảnh in 3D dạng lắp ghép có khớp nối"></a>
-
-**Prompt**
-
-```text
-Tôi muốn in khung ảnh bằng máy in 3D, nhưng máy in khá nhỏ nên cần thiết kế dạng nhiều bộ phận nối lại để hoàn thiện. Nối trực tiếp thì hơi nhàm, hãy dùng khớp nối thú vị hơn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011) · [Bài đăng gốc](https://x.com/wada/status/2098774359926297011) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

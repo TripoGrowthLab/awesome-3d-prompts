@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [3D-сцена Гоґвортсу](#gpt-6-astra-2096907617117540478)
+- [Інтерактивний м’який слим на Three.js і WebGPU](#gpt-6-astra-2096793432987464010)
+- [Ігровий асет LEGO-мініфігурки за допомогою Blender MCP](#astra-3d-2096766465730847059)
+- [Інтерактивна вибухова схема смартфона](#gpt-6-astra-2096685163111694556)
+- [3D-гра «Мінісвіт»: дослідження світу](#gpt-6-astra-2096641728497275011)
+- [Рендер обертання Землі в Blender](#gpt-6-astra-2096637194270134742)
+- [Екшен-RPG у жанрі темного фентезі на Three.js](#gpt-6-astra-2096637091627364531)
+- [Прибережна фентезійна пригодницька гра Windhaven](#gpt-6-astra-2096629506047955327)
 - [Анімація складання картонної коробки за розгорткою](#gpt-6-astra-2096612394281603144)
 - [Створити CS2 у Three.js](#gpt-6-astra-2096596888799895855)
 - [Totality Engine: Кінематографічний собор затемнення](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
@@ -70,16 +78,250 @@
 - [Інтерактивний 3D-ансамбль з аудіосинхронною анімацією](#gpt-6-astra-2096354461652488562)
 - [Від концепту персонажа до 3D-моделі з ригом і мультфільму](#gpt-6-astra-2096342420543660277)
 - [Дослідження Сонячної системи та орбіт](#orbital-solar-system-explorer-2096339041679442428)
-- [Гра про краба з механіками, побудованими навколо дій](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
-- [Фотореалістична редагована реконструкція дракона в Blender](#gpt-6-astra-2096335588727349434)
-- [Сцена з персонажем у дусі Warcraft в Unity](#warcraft-inspired-character-scene-in-unity-2096308567863079420)
-- [Лісабонська Террейру-ду-Пасу в Blender](#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021)
-- [Глибоководна цільова сторінка з біолюмінесценцією](#bioluminescent-deep-sea-landing-page-2096269057544831175)
-- [Густий процедурний ліс у Three.js](#dense-procedural-forest-in-three-js-2096263046918197609)
-- [Площа Єдності в Клуж-Напоці з вокселів](#cluj-napoca-union-square-in-voxels-2096262733259837681)
-- [Браузерна перегонова фізика на C# і WASM](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
 
 </details>
+<a id="gpt-6-astra-2096907617117540478"></a>
+
+### 3D-сцена Гоґвортсу
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="3D-сцена Гоґвортсу"></a>
+
+**Промпт**
+
+```text
+Використайте Blender у headless-режимі, щоб створити масштабну, надзвичайно реалістичну 3D-модель школи чаклунства й магії Гоґвортс із всесвіту Harry Potter, з високим рівнем деталізації. Додайте навколишнє природне середовище, знакові місця, автентичні інтер’єри та реквізит. Забезпечте матеріали, освітлення, рендеринг і звукове оформлення кінематографічної якості, таємничу атмосферу й динамічний туман, що повільно пливе. Дозвольте користувачам вільно досліджувати середовище та додайте перемикання освітлення й інших візуальних параметрів.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096907617117540478) · [Оригінальний допис](https://x.com/HiltonMisia/status/2096907617117540478) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096793432987464010"></a>
+
+### Інтерактивний м’який слим на Three.js і WebGPU
+
+[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Інтерактивний м’який слим на Three.js і WebGPU"></a>
+
+**Промпт**
+
+```text
+Створи новий каталог і зроби односторінковий застосунок зі слимом, у який можна грати просто в браузері. Використовуй Three.js і WebGPU, не підміняй їх WebGL.
+ У центрі — округлий пухкий слим: рожевий або блакитно-зелений, напівпрозорий, із ледь помітними бульбашками всередині. На нього можна натискати мишею та перетягувати його; після відпускання він має похитуватися й повертатися до форми, з невеликою гравітацією та можливістю м’яко вдарятися об невидиму стільницю. Не роби його схожим на тверду кулю — він має відчуватися як м’яка жива маса.
+ Додай миле обличчя: два чорні оченята-крапки й маленький ротик. Вони мають деформуватися разом із поверхнею, а не бути окремими від тіла. Праворуч розмісти кілька простих елементів керування: колір, жорсткість і демпфування. Кнопка «Торкнутися» має змушувати слим підстрибнути.
+ Зроби сторінку чистою: світло-сірий фон і великий заголовок. Забезпеч 60 кадрів/с. Спочатку створи цільове зображення, потім збери сцену за ним; додавай деталі лише після того, як знімок екрана буде схожим на зразок.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
+中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
+可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
+页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096793432987464010) · [Оригінальний допис](https://x.com/Delroy715/status/2096793432987464010) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="astra-3d-2096766465730847059"></a>
+
+### Ігровий асет LEGO-мініфігурки за допомогою Blender MCP
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Ігровий асет LEGO-мініфігурки за допомогою Blender MCP"></a>
+
+**Промпт**
+
+```text
+За допомогою Blender MCP створи версію Дональда Трампа у вигляді мініфігурки LEGO, яку можна використовувати як ігровий асет. Забезпеч виняткову якість рівня AAA та ретельно перевір результат, щоб він був деталізованим, точним і бездоганним.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/astra-3d-2096766465730847059) · [Оригінальний допис](https://x.com/_simonsmith/status/2096766465730847059) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096685163111694556"></a>
+
+### Інтерактивна вибухова схема смартфона
+
+[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Інтерактивна вибухова схема смартфона"></a>
+
+**Промпт**
+
+```text
+Створіть інтерактивну 3D-візуалізацію сучасного смартфона у вигляді вибухової схеми. Розділіть пристрій на основні компоненти й додайте слайдер, за допомогою якого його можна розібрати та зібрати знову. Після натискання на компонент ізолюйте його та поясніть його призначення. Додайте акумулятор, камери, SoC, пам’ять, шари дисплея, динаміки, сенсори, антени й системну плату. Зробіть пріоритетом красивий інтерфейс у стилі Apple та приємну взаємодію. Створіть, запустіть, перевірте й виправте весь досвід.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096685163111694556) · [Оригінальний допис](https://x.com/zairalaraib_/status/2096685163111694556) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096641728497275011"></a>
+
+### 3D-гра «Мінісвіт»: дослідження світу
+
+[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="3D-гра «Мінісвіт»: дослідження світу"></a>
+
+**Промпт**
+
+```text
+Створімо гру під назвою «Мінісвіт». Це 3D-гра про дослідження світу з красивим, якісно виконаним графічним інтерфейсом, розроблена так, щоб моєму чотирирічному синові було весело й легко грати. Гравець має мати змогу наближати й віддаляти камеру. Здалеку світ виглядає як маленька куля, але на його поверхні є різні регіони для дослідження. Один регіон може бути лісом, інший — пустелею, а ще мають бути океани, у яких персонаж зможе плавати. Гра має бути цікавою та повністю придатною для гри: персонаж повинен мандрувати різними частинами світу, досліджувати різноманітні середовища й відкривати щось нове під час подорожі. Вважайте коректну роботу гри головною метою. Гру потрібно красиво спроєктувати й ретельно тестувати в циклі, щоб рух, масштабування, дослідження світу, плавання, середовища, керування та загальні ігрові відчуття злагоджено й плавно працювали разом. Продовжуйте тестувати й удосконалювати її, доки все не запрацює надійно, а гра не стане відшліфованою, зрозумілою та приємною для маленької дитини.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096641728497275011) · [Оригінальний допис](https://x.com/weijianzhang_/status/2096641728497275011) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096637194270134742"></a>
+
+### Рендер обертання Землі в Blender
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Рендер обертання Землі в Blender"></a>
+
+**Промпт**
+
+```text
+У Blender створіть ефектний п’ятисекундний рендер Землі, що обертається, з видом із космосу.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096637194270134742) · [Оригінальний допис](https://x.com/JohnKlerAI/status/2096637194270134742) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096637091627364531"></a>
+
+### Екшен-RPG у жанрі темного фентезі на Three.js
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Екшен-RPG у жанрі темного фентезі на Three.js"></a>
+
+**Промпт**
+
+```text
+За допомогою Three.js створіть із нуля відшліфовану, повністю іграбельну 3D екшен-RPG у жанрі темного фентезі.
+
+Використовуйте камеру, що слідує за персонажем під кутом у ракурсі згори. Місце дії — величне готичне святилище, яке поглинув ліс: зруйновані вежі, аркади, вкриті мохом кам’яні мости, пагорби, струмки, водоспади та багаття. Створіть багатошарову атмосферу за допомогою реалістичних матеріалів, кінематографічного освітлення, легкої імли, рослинності, яку колише вітер, і текучої води.
+
+Протагоніст — могутній лицар у майстерно оздоблених важких обладунках зі сталі й золота, зі спадним плащем, сяйним рунічним мечем і щитом. Персонаж має вміти пересуватися, завдавати ударів, перекочуватися, блокувати атаки, зцілюватися та чаклувати, створюючи величезні магічні кола, промені світла й блискавки. Після перемоги над охоронцями гравець має вступити в бій із гігантським босом-лицарем із рогами.
+
+Анімації атак, візуальні ефекти та напрямки ударів мають відповідати напрямку, у якому повернутий персонаж. Додайте відшліфований HUD традиційною китайською, екран спорядження персонажа та повні сценарії перемоги, поразки й перезапуску.
+
+Самостійно виконайте моделювання, створення або пошук ресурсів, програмування й оптимізацію продуктивності. Прагніть до рівня візуального опрацювання AAA-ігор. Постійно тестуйте гру, перевіряйте візуальну частину та виправляйте недоліки, доки не буде готова повністю іграбельна гра, інструкції із запуску й вихідний код.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
+
+Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
+
+The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
+
+Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
+
+Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096637091627364531) · [Оригінальний допис](https://x.com/HiltonMisia/status/2096637091627364531) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096629506047955327"></a>
+
+### Прибережна фентезійна пригодницька гра Windhaven
+
+[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Прибережна фентезійна пригодницька гра Windhaven"></a>
+
+**Промпт**
+
+```text
+Створімо гру разом. Гру потрібно створити в Unity. Спочатку використай стандартні асети — пізніше я заміню їх власними.
+Стиль гри:
+Преміальна стилізована прибережна фентезійна пригодницька гра, дія якої розгортається в невеликому залитому сонцем острівному місті Windhaven. Місто збудоване з теплого вапняку кольору слонової кістки та золотистого пісковику, його оточують прозорі бірюзові води. Тут є мідні дахи з бірюзовою патиною, затінені ринкові ятки, аркові брами, пишні дерева у внутрішніх двориках, різьблені фонтани, сяйливі магічні маяки та монументальний храм, що височіє над містом. Самотній юний мандрівник у дорожньому плащі з рюкзаком прямує центральною площею до храму. Середовище має бути спокійним, загадковим, стародавнім і м’яко оповитим магією, з архітектурними впливами Середземномор’я та Північної Африки. Високодеталізовані стилізовані PBR-матеріали, вручну опрацьовані кам’яні поверхні, легкі сліди вивітрювання, вишукане декоративне різьблення, м’яке післяобіднє сонячне світло, довгі кінематографічні тіні, палітра бірюзових і теплих золотистих відтінків, відшліфований художній напрям пригодницької гри класу AA, ігрова камера від третьої особи, широкий загальний план, цілісний дизайн середовища, візуально зрозумілі маршрути й орієнтири, без інтерфейсу, тексту, логотипів і сучасних об’єктів.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
+Game style:
+A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096629506047955327) · [Оригінальний допис](https://x.com/tripoai/status/2096629506047955327) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096612394281603144"></a>
 
 ### Анімація складання картонної коробки за розгорткою
@@ -1227,573 +1469,6 @@ Take control of my computer using GPT-6 Astra and do the following:
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Оригінальний допис](https://x.com/dzhohola/status/2096339041679442428) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="a-crab-game-with-action-driven-mechanics-2096337879173591171"></a>
-
-### Гра про краба з механіками, побудованими навколо дій
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/c1f5f1674d05a9bfec5c5e37024796a6e28d0cafb8e35148b01d3865c6b48c46.webp" width="840" loading="lazy" alt="Гра про краба з механіками, побудованими навколо дій"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створіть у Three.js гру про краба за структурованим описом зовнішності, персонажа, світу, дій, цілей, інтерфейсу й камери. Нехай монети піднімаються та летять до краба, коли він проходить поруч. Позначте суперечливі вимоги.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Оригінальний допис](https://x.com/zeuuss_01/status/2096337879173591171) · [Демо](https://beach-crab-game.netlify.app/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096335588727349434"></a>
-
-### Фотореалістична редагована реконструкція дракона в Blender
-
-[Sarang Borude](https://x.com/doomdave) · 2026-09-05 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/e7c2fd347fd31e7e2c69be456ec1b437cd5cff2616cdf2a474f0c189d02af149.webp" width="840" loading="lazy" alt="Фотореалістична редагована реконструкція дракона в Blender"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/4d0bd23e-3879-4052-9e83-5c70656c5dc5.jpg) · [2](https://pbs.twimg.com/media/HReuaRUacAAtOFF.jpg)
-
-**Промпт**
-
-```text
-Створіть у Blender фотореалістичну, повністю редаговану 3D-реконструкцію дракона, зображеного на прикріпленому референс-листі.
-
-Використайте всі надані ракурси — боковий, фронтальний, верхній, задній, ракурси голови, крупні плани голови й ока, деталі луски та крила — щоб відтворити одного цілісного й анатомічно правдоподібного дракона.
-
-Якомога точніше відтворіть референс, особливо:
-
-- Загальні пропорції тіла та силует
-- Довгу мускулисту шию та хвіст, що звужується
-- Чотири ноги й два великі кажаноподібні крила
-- Форму голови та щелеп
-- Кількість, форму й розташування рогів
-- Спинні шипи вздовж шиї, спини та хвоста
-- Візерунки луски темно-вугільного та землисто-коричневого кольорів
-- Багатошарову луску, подібну до обладунків
-- Золотаво-бурштинові очі з вертикальними зіницями
-- Кігті, зуби та перетинки крил
-- Давній, реалістичний і загрозливий вигляд
-
-На референс-панелях можуть бути невеликі розбіжності. Узгодьте їх у фізично цілісну, симетричну базову істоту, зберігши візуальну ідентичність дракона. Використовуйте боковий ракурс для загальних пропорцій, фронтальний — для ширини й стійки, верхній і задній — для крил та хвоста, а крупні плани — для голови, очей, луски й матеріалів крил.
-
-Створіть дракона з нуля як справжню редаговану геометрію Blender. Не завантажуйте й не імпортуйте готову модель дракона. Не використовуйте білборди, 2D-проєкції, ілюзії на основі карт глибини або згенероване відео замість геометрії.
-
-Використовуйте модульні скрипти Blender на Python (`bpy`) та виконуваний файл Blender у фоновому режимі без графічного інтерфейсу як основний метод побудови. Скрипти мають бути відтворюваними; зберігайте успішні версії файлу `.blend`. За потреби використовуйте керування комп’ютером, щоб відкривати й перевіряти сцену Blender під час візуального огляду. Не встановлюйте Blender MCP Server і не покладайтеся на нього.
-
-ПІДХІД ДО МОДЕЛЮВАННЯ
-
-Почніть з анатомічного блокінгу, перш ніж додавати деталі. Визначте:
-
-- Череп, щелепу та очні западини
-- Шию, груди, грудну клітку й таз
-- Чотири анатомічно переконливі ноги
-- Розділені пальці та вигнуті кігті
-- Плечі крил, інтегровані в тулуб
-- Зчленовані крила, їхні кінцівки та кістки пальців
-- Правильно з’єднані перетинки крил
-- Довгий хвіст, що природно продовжує таз
-- Основні роги та спинні шипи
-
-Уникайте зайвих кінцівок, дубльованих рогів, від’єднаних перетинок, зламаних суглобів, завислих лусочок, перетинів геометрії, надто тонких форм, випадкової асиметрії та іграшкових пропорцій.
-
-Після перевірки блокінгу додайте деталі другого й третього рівнів:
-
-- Багатошарові грудні та шийні пластини
-- Спрямовану луску, що повторює анатомію
-- Надбрівні дуги та повіки
-- Справжні отвори ніздрів
-- Внутрішню частину пащі, ясна та окремі зуби
-- Гребені на рогах, сколи та потерті кінчики
-- Обладунок на ногах і пластини на кісточках пальців
-- Сухожилля, складки, прожилки та стримані шрами на крилах
-- Спинні шипи, що продовжуються вздовж хвоста
-- Ледь помітну природну асиметрію
-
-Використовуйте геометрію для всього, що впливає на силует, зокрема для рогів, кігтів, зубів, великих лусочок, спинних шипів, пальців крил і важливих складок перетинок. Для мікродеталей використовуйте лише normal map, bump або стриманий displacement.
-
-МАТЕРІАЛИ
-
-Створіть фізично коректні фотореалістичні матеріали.
-
-Луска має бути переважно вугільно-чорною, із тонкими варіаціями графітового та землисто-коричневого кольорів. Додайте стримані варіації кольору, шорсткості та мікрорельєфу нормалей. Опукла луска, заглиблена шкіра й броньовані пластини мають по-різному відбивати світло. Уникайте однорідного пластикового блиску та безсистемного процедурного шуму.
-
-Перетинки крил мають виглядати як weathered-шкіра рептилії. Між опорними кістками вони мають бути тоншими, а біля суглобів і передніх країв — товщими. Додайте тонкі прожилки, складки, натяг, шрами, напівпрозорість і варіації кольору, але не робіть їх схожими на тканину, гуму чи папір.
-
-Створіть роги й кігті, подібні до кератину: з темною основою, світлішими потертостями на кінчиках, поздовжніми гребенями та незначними пошкодженнями.
-
-Очі мають містити:
-
-- Золотаво-бурштинові райдужки
-- Вертикальні чорні зіниці
-- Деталізовану структуру райдужки
-- Темні лімбальні ділянки
-- Справжні тривимірні очні яблука
-- Реалістичні повіки
-- Вологі відблиски на рогівці
-- Ледь помітну вологу вздовж країв повік
-
-Не робіть очі емісивними або штучно сяйливими.
-
-ОСВІТЛЕННЯ ТА ОТОЧЕННЯ
-
-Створіть стримане кінематографічне оточення, подібне до референсу:
-
-- Темний кам’янистий п’єдестал або гірський виступ
-- Віддалені атмосферні гори
-- Драматичне похмуре небо
-- Холодне розсіяне освітлення
-- Ледь тепліше спрямоване світло, що виявляє обличчя та луску
-- Легкий атмосферний туман
-- Жодних відволікальних конструкцій або додаткових істот
-
-Поставте дракона у стійку, владну позу:
-
-- Голова піднята, поза насторожена
-- Шия злегка вигнута
-- Крила повністю або майже повністю розправлені
-- Вага правдоподібно розподілена на всі чотири лапи
-- Хвіст лежить або природно вигинається позаду
-- Паща закрита або трохи прочинена
-- Погляд спрямований у камеру або трохи повз неї
-
-ВІЗУАЛЬНА ПЕРЕВІРКА
-
-Створіть узгоджені перевірочні камери для таких ракурсів:
-
-- Боковий
-- Фронтальний
-- Верхній
-- Задній
-- Лівий і правий профілі голови
-- Геройський ракурс три чверті
-- Крупний план голови
-- Крупний план ока
-- Крупний план луски
-- Крупний план крила
-
-Виконайте щонайменше три цикли перевірки та виправлень.
-
-Під час кожного циклу:
-
-1. Відрендеріть кожну перевірочну камеру.
-2. Порівняйте кожен рендер із відповідною референс-панеллю.
-3. Оцініть силует, анатомію, пропорції, ідентичність голови, роги, крила, ноги, лапи, хвіст, напрямок луски, матеріали, симетрію, перетини, шейдинг і нормалі.
-4. Складіть рейтинг розбіжностей.
-5. Виправте найважливіші з візуального погляду проблеми.
-6. Повторно відрендеріть ті самі камери.
-7. Збережіть порівняння до та після.
-
-Не заявляйте про завершення лише тому, що об’єкти створено. Завершення передбачає перевірку фактичних рендерів і виправлення видимих проблем.
-
-10-СЕКУНДНИЙ ОБЛІТ КАМЕРОЮ
-
-Створіть кінематографічний обліт готового дракона камерою з такими вимогами:
-
-- Рівно 10 секунд
-- Роздільна здатність 1920 × 1080
-- 30 кадрів на секунду
-- Рівно 300 кадрів
-- Плавний безперервний рух камери
-- Без монтажних склеювань
-- Приблизно одна повна орбіта на 360 градусів
-- Початок із виразної фронтальної композиції три чверті
-- Рух уздовж боку, за спину й далі вздовж протилежного боку
-- Завершення в композиції, що плавно поєднується з початковим кадром
-- Додайте стриману зміну висоти, щоб показати конструкцію спини та крил
-- Утримуйте всього дракона в межах кадру
-- Зробіть голову й тулуб головним візуальним фокусом
-- Використовуйте плавну інтерполяцію Безьє
-- Уникайте раптового прискорення та крену камери
-- Не допускайте проходження крізь крила, хвіст, поверхню або тіло
-- Використовуйте об’єктив із природною перспективою без сильних ширококутних спотворень
-- Глибина різкості має бути достатньо стриманою, щоб дракон залишався добре читабельним
-- Використовуйте стриманий motion blur
-
-Перед фінальним рендером створіть швидкий попередній перегляд усієї анімації у 1080p з малою кількістю семплів. Перегляньте попередній перегляд повністю та виправте невдале кадрування, зіткнення камери, незграбні силуети, перекриті ракурси, різкі рухи, дефекти шейдингу й видимі перетини геометрії.
-
-ФІНАЛЬНИЙ РЕНДЕР
-
-Після завершення циклів перевірки та схвалення попереднього перегляду анімації:
-
-- Відрендеріть фінальну анімацію у форматі 1920 × 1080.
-- Використовуйте Cycles із GPU-прискоренням, якщо воно доступне.
-- Рендеріть із частотою 30 кадрів/с, рівно 300 кадрів.
-- Використовуйте адаптивне семплювання та шумозаглушення.
-- Спершу рендеріть окремі кадри-зображення, щоб перерваний рендер можна було продовжити.
-- Для майстер-кадрів використовуйте 16-бітний PNG або OpenEXR.
-- Зберіть відрендерені кадри у високоякісне відео H.264 MP4.
-- Не використовуйте інтерполяцію кадрів за допомогою ШІ.
-- Збережіть окремі кадри після збирання відео.
-
-РЕЗУЛЬТАТИ
-
-Надайте:
-
-1. Фінальний редагований файл `.blend`
-2. Усі відтворювані скрипти `bpy`
-3. README з інструкціями з відновлення сцени та рендерингу
-4. Звіт з аналізом референсу та прийнятими припущеннями
-5. Порівняння референсу з узгодженими ракурсами
-6. Порівняння до та після циклів перевірки й виправлень
-7. Високоякісні статичні рендери всього дракона та важливих деталей
-8. Повну послідовність із 300 кадрів-зображень
-9. Фінальне 10-секундне відео H.264 у 1080p
-10. Звіт із перевірки геометрії та матеріалів
-11. Маніфест із зазначенням усіх дозволених зовнішніх ресурсів оточення та їхніх ліцензій
-
-КРИТЕРІЇ УСПІХУ
-
-Результат вважається успішним, якщо:
-
-- Результат упізнавано відтворює того самого дракона, що й на референсі.
-- Його анатомія залишається цілісною з кожного ракурсу.
-- Голова, роги, бурштинові очі, крила, спинні шипи й темна багатошарова луска близько відповідають референсу.
-- Дракон повністю тривимірний і редагований.
-- Основні та середні деталі змодельовані, а не імітовані.
-- Матеріали природно реагують на рух камери.
-- Немає очевидних перетинів, завислих лусочок, дубльованих частин анатомії або зламаних нормалей.
-- Він нагадує сфотографовану фізичну істоту, а не іграшку, скульптуру, типовий процедурний об’єкт чи звичайний ігровий асет.
-- Рух камери плавний, кінематографічний і триває рівно 10 секунд.
-
-Автономно пройдіть усі ці етапи. Почніть з аналізу референсу та анатомічного блокінгу. Якщо виникне суттєва неоднозначність, яку неможливо розв’язати за референсом, зробіть найбільш анатомічно правдоподібний вибір, задокументуйте припущення та продовжуйте роботу.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create a photorealistic, fully editable 3D reconstruction of the dragon shown in the attached reference sheet inside Blender.
-
-Use every supplied view—including the side, front, top, back, head angles, head closeup, eye closeup, scale detail and wing detail—to reconstruct one coherent and anatomically believable dragon.
-
-Match the reference as closely as possible, especially:
-
-- Overall body proportions and silhouette
-- Long muscular neck and tapering tail
-- Four legs and two large bat-like wings
-- Head and jaw shape
-- Horn number, shape and placement
-- Dorsal spikes along the neck, back and tail
-- Dark charcoal and earthy-brown scale patterns
-- Layered armor-like scales
-- Golden-amber eyes with vertical pupils
-- Claws, teeth and wing membranes
-- Ancient, realistic and threatening appearance
-
-The reference panels may contain small inconsistencies. Reconcile them into a physically coherent, symmetrical base creature while preserving the dragon’s visual identity. Use the side view for overall proportions, the front view for width and stance, the top and back views for wings and tail, and the closeups for the head, eyes, scales and wing materials.
-
-Build the dragon from scratch as actual editable Blender geometry. Do not download or import an existing dragon model. Do not use billboards, 2D projections, depth-map illusions or generated video in place of geometry.
-
-Use modular Blender Python (`bpy`) scripts and Blender’s executable in background/headless mode as the primary construction method. Keep the scripts reproducible and preserve successful versions of the `.blend` file. Use computer use to open and inspect the Blender scene whenever visual inspection is helpful. Do not install or rely on a Blender MCP server.
-
-MODELING APPROACH
-
-Begin with an anatomical blockout before adding detail. Establish:
-
-- Skull, jaw and eye sockets
-- Neck, chest, rib cage and pelvis
-- Four anatomically convincing legs
-- Separated toes and curved claws
-- Wing shoulders integrated into the torso
-- Articulated wing arms and finger bones
-- Properly connected wing membranes
-- Long tail continuing naturally from the pelvis
-- Primary horns and dorsal spines
-
-Avoid extra limbs, duplicated horns, disconnected membranes, broken joints, floating scales, intersections, paper-thin forms, accidental asymmetry and toy-like proportions.
-
-After validating the blockout, add secondary and tertiary details:
-
-- Layered chest and neck plates
-- Directional scales that follow the anatomy
-- Brow ridges and eyelids
-- Real nostril openings
-- Mouth interior, gums and individual teeth
-- Horn ridges, chips and worn tips
-- Leg armor and knuckle plates
-- Wing tendons, folds, veins and restrained scars
-- Dorsal spikes continuing down the tail
-- Subtle natural asymmetry
-
-Use geometry for anything affecting the silhouette, including horns, claws, teeth, major scales, dorsal spines, wing fingers and important membrane folds. Use normal maps, bump or restrained displacement only for micro-detail.
-
-MATERIALS
-
-Create physically based, photorealistic materials.
-
-The scales should be predominantly charcoal-black with subtle graphite and earthy-brown variation. Add restrained color, roughness and micro-normal variation. Raised scales, recessed skin and armored plates should reflect light differently. Avoid uniform plastic shine and indiscriminate procedural noise.
-
-The wing membranes should look like weathered reptilian leather. They should appear thinner between the supporting bones and thicker near joints and leading edges. Include subtle veins, folds, tension, scars, translucency and color variation without making them resemble cloth, rubber or paper.
-
-Create keratin-like horns and claws with dark bases, lighter worn tips, lengthwise ridges and subtle damage.
-
-The eyes should have:
-
-- Golden-amber irises
-- Vertical black pupils
-- Detailed iris structures
-- Dark limbal regions
-- Proper three-dimensional eyeballs
-- Realistic eyelids
-- Wet corneal highlights
-- Subtle moisture along the eyelid edges
-
-Do not make the eyes emissive or artificially glowing.
-
-LIGHTING AND ENVIRONMENT
-
-Create a restrained cinematic environment similar to the reference:
-
-- Dark rocky pedestal or mountain outcrop
-- Distant atmospheric mountains
-- Dramatic overcast sky
-- Cool ambient illumination
-- Subtle warmer directional light revealing the face and scales
-- Light atmospheric mist
-- No distracting structures or additional creatures
-
-Pose the dragon in a stable, commanding stance:
-
-- Head raised and alert
-- Neck slightly curved
-- Wings fully or nearly fully displayed
-- Weight distributed credibly across all four feet
-- Tail resting or curving naturally behind it
-- Mouth closed or slightly parted
-- Eyes directed toward or just past the camera
-
-VISUAL VERIFICATION
-
-Create matched validation cameras for:
-
-- Side view
-- Front view
-- Top view
-- Back view
-- Left and right head profiles
-- Three-quarter hero view
-- Head closeup
-- Eye closeup
-- Scale closeup
-- Wing closeup
-
-Perform at least three critic-and-correction loops.
-
-During each loop:
-
-1. Render every validation camera.
-2. Compare each render with the corresponding reference panel.
-3. Evaluate silhouette, anatomy, proportions, head identity, horns, wings, legs, feet, tail, scale flow, materials, symmetry, intersections, shading and normals.
-4. Produce a ranked list of discrepancies.
-5. Correct the most visually important problems.
-6. Rerender the same cameras.
-7. Preserve before-and-after comparisons.
-
-Do not claim completion merely because the objects were created. Completion requires inspecting the actual renders and correcting visible problems.
-
-10-SECOND CAMERA FLYAROUND
-
-Create a cinematic camera flyaround of the completed dragon with these requirements:
-
-- Exactly 10 seconds
-- 1920 × 1080 resolution
-- 30 frames per second
-- Exactly 300 frames
-- Smooth continuous camera movement
-- No cuts
-- Approximately one complete 360-degree orbit
-- Start from a strong front three-quarter composition
-- Travel around the side, back and opposite side
-- End in a composition that connects smoothly with the opening frame
-- Add a restrained elevation change to reveal the back and wing construction
-- Keep the complete dragon inside the frame
-- Keep the head and torso as the main visual focus
-- Use smooth Bézier interpolation
-- Avoid sudden acceleration and camera roll
-- Avoid clipping through the wings, tail, terrain or body
-- Use a natural perspective lens without strong wide-angle distortion
-- Keep depth of field subtle enough that the dragon remains readable
-- Use restrained motion blur
-
-Before the final render, generate a fast, low-sample 1080p preview of the entire animation. Inspect the complete preview and correct bad framing, camera collisions, awkward silhouettes, obstructed views, abrupt motion, shading defects and visible geometry intersections.
-
-FINAL RENDER
-
-After completing the critic loops and approving the animation preview:
-
-- Render the final animation at 1920 × 1080.
-- Use Cycles with GPU acceleration when available.
-- Render at 30 fps for exactly 300 frames.
-- Use adaptive sampling and denoising.
-- Render to individual image frames first so an interrupted render can be resumed.
-- Use 16-bit PNG or OpenEXR for the master frames.
-- Assemble the rendered frames into a high-quality H.264 MP4.
-- Do not use AI frame interpolation.
-- Retain the individual frames after assembling the video.
-
-DELIVERABLES
-
-Provide:
-
-1. Final editable `.blend` file
-2. All reproducible `bpy` scripts
-3. README with rebuild and rendering instructions
-4. Reference-analysis and assumptions report
-5. Matched-view reference comparisons
-6. Before-and-after critic-loop comparisons
-7. High-quality still renders of the complete dragon and important details
-8. Complete 300-frame image sequence
-9. Final 10-second 1080p H.264 video
-10. Geometry and material validation report
-11. A manifest identifying any permitted external environment resources and their licenses
-
-SUCCESS CRITERIA
-
-Success means:
-
-- The result is recognizably the same dragon as the reference.
-- Its anatomy remains coherent from every angle.
-- The head, horns, amber eyes, wings, dorsal spines and dark layered scales closely match the reference.
-- The dragon is fully three-dimensional and editable.
-- Major and medium details are modeled rather than faked.
-- Materials respond naturally as the camera moves.
-- There are no obvious intersections, floating scales, duplicated anatomy or broken normals.
-- It resembles a photographed physical creature rather than a toy, sculpture, generic procedural model or ordinary game asset.
-- The camera movement is smooth, cinematic and exactly 10 seconds long.
-
-Work autonomously through these stages. Begin with reference analysis and the anatomical blockout. If you encounter a major ambiguity that cannot be resolved from the reference, make the most anatomically plausible choice, document the assumption and continue.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2096335588727349434) · [Оригінальний допис](https://x.com/doomdave/status/2096335588727349434) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="warcraft-inspired-character-scene-in-unity-2096308567863079420"></a>
-
-### Сцена з персонажем у дусі Warcraft в Unity
-
-[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/5d7b5f942c0c75a7fd99b056ed2c49ea92c1d2fc8698a81f2801c498007225f0.webp" width="840" loading="lazy" alt="Сцена з персонажем у дусі Warcraft в Unity"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створіть сцену з персонажем у дусі Warcraft за допомогою Astra, Tripo P2, Blender та Unity. Згенеруйте модель персонажа, підготуйте її в Blender і зберіть в Unity сцену, у якій можна грати.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Оригінальний допис](https://x.com/luccacerf/status/2096308567863079420) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"></a>
-
-### Лісабонська Террейру-ду-Пасу в Blender
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/77c44cd1909ca3d2ae1490936c946ba70a47c04e188bca6215192fae95c7c19c.webp" width="840" loading="lazy" alt="Лісабонська Террейру-ду-Пасу в Blender"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Відтворіть площу Террейру-ду-Пасу в Лісабоні як редаговану сцену Blender. Дослідіть референси й використайте їх для архітектури, матеріалів та освітлення площі.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Оригінальний допис](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="bioluminescent-deep-sea-landing-page-2096269057544831175"></a>
-
-### Глибоководна цільова сторінка з біолюмінесценцією
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/e31de617c90349dcbe141c72fcea15ae67e789783549740c6c7904254caebcea.webp" width="840" loading="lazy" alt="Глибоководна цільова сторінка з біолюмінесценцією"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створіть глибоководну цільову сторінку з водними ефектами Three.js, темним склоподібним інтерфейсом і рухом, керованим прокручуванням. Поєднайте тривимірну атмосферу зі зрозумілою взаємодією та адаптацією сайту до різних екранів.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Оригінальний допис](https://x.com/himanshubuildss/status/2096269057544831175) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="dense-procedural-forest-in-three-js-2096263046918197609"></a>
-
-### Густий процедурний ліс у Three.js
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/8b0fa0d915619e050c9da1c6daefd6e18ca80d78222a90660a4e7883a0d93845.webp" width="840" loading="lazy" alt="Густий процедурний ліс у Three.js"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створіть деталізований ліс у Three.js із тисячами дерев, густою травою та папороттю. Використайте власні шейдери й ефективне повторне використання геометрії, щоб зберегти деталі в усій сцені.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Оригінальний допис](https://x.com/LexnLin/status/2096263046918197609) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="cluj-napoca-union-square-in-voxels-2096262733259837681"></a>
-
-### Площа Єдності в Клуж-Напоці з вокселів
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/930e422109c34a8f6e093f607165323b5b2f6cf472796fd6495b09f195deab7e.webp" width="840" loading="lazy" alt="Площа Єдності в Клуж-Напоці з вокселів"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Створіть інтерактивний воксельний світ площі Piața Unirii в Клуж-Напоці. Передайте її впізнаване планування й пам’ятки в мініатюрі, яку можна досліджувати.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Оригінальний допис](https://x.com/danmana/status/2096262733259837681) · [Вихідний код](https://github.com/danmana/piata-unirii) · [Демо](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="browser-racing-physics-in-c-and-wasm-2096258619574513880"></a>
-
-### Браузерна перегонова фізика на C# і WASM
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05 · GPT-6 Astra · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/50ecc7179fa30fbd26b46fa5f2b6d8cb48fe689c5c08a58a1008ad3f5bb57e3a.webp" width="840" loading="lazy" alt="Браузерна перегонова фізика на C# і WASM"></a>
-
-*Технічне завдання на основі роботи за посиланням*
-
-**Промпт**
-
-```text
-Відтвори фізику перегонів у стилі Trackmania на C#, запусти її через WASM і відобрази трасу в Three.js. Використай меші траси з колізіями та перевір керованість автомобіля.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Оригінальний допис](https://x.com/achepta_tm/status/2096258619574513880) · [Назад до прикладів](#all-prompts)
 
 ---
 

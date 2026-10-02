@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Tiểu thế giới mỏ nổi có hoạt ảnh](#claude-opus-5-5-2105672081358876788)
+- [Blockworld](#claude-opus-5-5-2105669581226570012)
+- [Rồng khổng lồ tấn công lâu đài thời trung cổ trong Three.js](#claude-opus-5-5-2105659005817462972)
+- [game 3D né thiên thạch](#gpt-6-astra-2105644436659290409)
+- [Bạch tuộc kẹo dẻo 3D WebGPU có thể kéo giãn](#claude-opus-5-5-2105607558467559666)
+- [Mô phỏng núi lửa với buồng magma sâu 5 km](#claude-opus-5-5-2105439105798513059)
+- [Sa bàn kim tự tháp 3D thu nhỏ màu vàng](#gpt-6-astra-2105412081692352654)
+- [Máy ép thạch](#claude-opus-5-5-2105353400040964192)
 - [Tái tạo cảnh trong Isaac Sim](#gpt-6-astra-2105323534398763307)
 - [SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ](#claude-opus-5-5-2105315982525014067)
 - [Video hoạt hình 3D quả cầu rơi theo nhịp nhạc](#claude-opus-5-5-2105302007896797351)
@@ -70,16 +78,417 @@
 - [Game voxel phong cách Minecraft với shader nâng cao](#claude-opus-5-5-2103822946800165270)
 - [Video motion graphics theo chủ đề Spotify](#claude-opus-5-5-2103801834930606193)
 - [Showreel thiết kế chuyển động 15 giây đầy năng lượng](#claude-opus-5-5-2103504887439065439)
-- [Game sinh tồn sandbox WebGL2](#claude-opus-5-5-2103502454750920925)
-- [Vườn Nhật phong cách voxel trong Three.js](#gpt-6-astra-2103486103831339269)
-- [Điều hướng trong một ngôi chùa 3D](#claude-opus-5-5-2103483174957597035)
-- [Tạo chuột lang trong Blender](#gpt-6-astra-2103482826519986544)
-- [Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá](#claude-opus-5-5-2103480081809346597)
-- [Dựng mô hình 3D trang phục cho VRChat](#gpt-6-astra-2103456264785424530)
-- [Thạch Pitaya](#gpt-6-astra-2103432732386664591)
-- [Hoạt họa đồ họa chuyển động về vòng đời](#claude-opus-5-5-2103428454355980558)
 
 </details>
+<a id="claude-opus-5-5-2105672081358876788"></a>
+
+### Tiểu thế giới mỏ nổi có hoạt ảnh
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-10-01 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105672081358876788"><img src="../assets/previews/a6c8199e4c545d0eda18f4796e33443488753dd10a738e4ef40c947d116a11ae.webp" width="840" loading="lazy" alt="Tiểu thế giới mỏ nổi có hoạt ảnh"></a>
+
+**Prompt**
+
+```text
+Tạo một tiểu thế giới nổi theo phối cảnh isometric trong Blender, dùng Python để tạo hoạt ảnh theo vòng lặp liền mạch: một đảo mỏ nhỏ với ngọn núi xếp tầng, hai đường hầm và tuyến đường sắt chạy vòng qua núi, một hồ nước có dòng suối đổ khỏi mép đảo thành thác nước, cùng các lớp đá với tinh thể phát sáng ở những mặt cắt. Công nhân là các bot Claude nhỏ: một bot khai thác mạch tinh thể rồi giật mình vì dơi, một bot vận hành cần cẩu đổ tinh thể vào từng xe goòng đi qua, một bot câu cá bên hồ và một bot ngồi trên xe goòng. Đặt một biển hiệu gỗ ghi "TOKENS" phía trên lối vào mỏ. Đồng bộ âm thanh với mọi hành động.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Make an isometric floating mini-world in Blender, animated with Python, as a seamless loop: a small mine island with a terraced mountain, two tunnels and a railway that loops through the mountain, a pond whose stream falls off the edge as a waterfall, and rock layers with glowing crystals on the cut sides. The workers are little Claude bots: one mines a crystal vein and gets startled by a bat, one runs a crane that dumps crystals into each passing cart, one fishes in the pond, and one rides a cart. Put a wooden "TOKENS" sign over the mine entrance. Sound synced to every action.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105672081358876788) · [Bài đăng gốc](https://x.com/koldo2k/status/2105672083908825404) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105669581226570012"></a>
+
+### Blockworld
+
+[semperphoenix.com](https://semperphoenix.com/) · 2026-10-01 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105669581226570012"><img src="../assets/previews/2b2a746272a3d42e1e20ecb38b9ad696729fb0476c407c9582eae9ec289faace.webp" width="840" loading="lazy" alt="Blockworld"></a>
+
+**Prompt**
+
+```text
+Bạn có thể tạo một bản sao của Minecraft không?
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Can you create a Minecraft clone?
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105669581226570012) · [Bài đăng gốc](https://semperphoenix.com/lab) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105659005817462972"></a>
+
+### Rồng khổng lồ tấn công lâu đài thời trung cổ trong Three.js
+
+[ReconScribe](https://x.com/ReconScribe) · 2026-10-01 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105659005817462972"><img src="../assets/previews/e9d911d3b1343369054c36136a9f646b6684db18692ea1ecbfd8a107cfd3d2b0.webp" width="840" loading="lazy" alt="Rồng khổng lồ tấn công lâu đài thời trung cổ trong Three.js"></a>
+
+**Prompt**
+
+```text
+một con rồng khổng lồ đang tấn công một lâu đài thời trung cổ và ngôi làng bên cạnh, được dựng bằng Three.js.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+a giant dragon attacking a medieval castle and its village, built in Three.js.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105659005817462972) · [Bài đăng gốc](https://x.com/ReconScribe/status/2105659005817462972) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105644436659290409"></a>
+
+### game 3D né thiên thạch
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/b6a190efc540b4f0a156ece77f9c5eea0c31ad6c356ece1e721f8b5a491f2b25.webp" width="840" loading="lazy" alt="game 3D né thiên thạch"></a>
+
+**Prompt**
+
+```text
+Bây giờ, tôi muốn bạn tạo một game 3D, trong đó tôi né các thiên thạch bằng cách dùng các phím mũi tên để di chuyển và dùng phím cách để tăng tốc.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Now, I want you to make a 3D game where I'm ducking asteroids, using the arrow keys to move around, and I'm using space to boost.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105644436659290409) · [Bài đăng gốc](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105607558467559666"></a>
+
+### Bạch tuộc kẹo dẻo 3D WebGPU có thể kéo giãn
+
+[林悦己Cheer](https://x.com/cheerselflin) · 2026-10-01 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105607558467559666"><img src="../assets/previews/a70c77f46789ceece0ef2f67a0f80cb0891ed77507ba2ce1b96bfcb3e9ab385d.webp" width="840" loading="lazy" alt="Bạch tuộc kẹo dẻo 3D WebGPU có thể kéo giãn"></a>
+
+**Prompt**
+
+```text
+Tạo một Goal có ngân sách token là 200.000. Khi kết thúc, báo cáo số token thực tế đã tiêu thụ, tỷ lệ sử dụng ngân sách và thời gian chạy; nếu có thể lấy được số liệu phân tách token đầu vào, đầu vào bộ nhớ đệm và đầu ra, hãy ước tính chi phí bằng USD theo mức giá hiện tại của model, đồng thời nêu rõ cơ sở tính toán. Tôi biết đây là hạn mức thuê bao, nhưng chúng ta có thể quy đổi sang chi phí API
+
+Tạo “Octo Jelly” — một chú bạch tuộc kẹo dẻo 3D đẹp mắt, tương tác, cho phép người dùng chạm kéo, kéo giãn và bóp ngay trong trình duyệt. Bàn giao trải nghiệm HTML hoàn chỉnh trong một tệp duy nhất, sử dụng WebGPU thực sự.
+ĐỊNH HƯỚNG HÌNH ẢNH
+Tạo hình bạch tuộc như một viên kẹo dẻo cao cấp, bán trong suốt: đầu tròn, tám xúc tu cuộn, các giác hút nhỏ và gương mặt đáng yêu nhưng tiết chế.
+Sử dụng nền trắng ngà ấm, ánh sáng studio dịu và bóng đổ nhẹ trên mặt đất. Giữ khung cảnh thanh lịch, thoáng và không rườm rà, với bạch tuộc lớn nằm ở trung tâm.
+HÌNH HỌC VÀ VẬT LIỆU
+
+* Tạo toàn bộ hình học bằng phương pháp sinh tự động. Không sử dụng model hoặc tệp hình ảnh bên ngoài.
+* Nối liền mượt mà cả tám xúc tu với thân, không để lộ khoảng hở hoặc bộ phận lơ lửng.
+* Thêm các giác hút bo tròn và giữ chúng gắn với xúc tu khi xúc tu biến dạng.
+* Sử dụng vật liệu thạch bóng, bán trong suốt với khả năng hấp thụ màu phụ thuộc vào độ dày, khúc xạ, tán xạ ánh sáng mềm bên trong và viền sáng tinh tế.
+* Những vùng dày cần có màu đậm và phong phú hơn; các đầu xúc tu mảnh cần truyền nhiều ánh sáng hơn.
+* Tránh vật liệu nhựa đục, vùng sáng cháy và các đường nối lưới nhìn thấy được.
+
+VẬT LÝ VẬT MỀM
+Sử dụng hệ thống lò xo–khối lượng ổn định hoặc động lực học dựa trên vị trí, với các ràng buộc đàn hồi và cơ chế bảo toàn thể tích gần đúng.
+
+* Phần đầu cần tạo cảm giác mềm nhưng chắc và có trọng lượng.
+* Xúc tu cần linh hoạt hơn phần đầu, đặc biệt là ở gần các đầu mút.
+* Cho phép người dùng chạm kéo phần đầu hoặc bất kỳ xúc tu nào tại vị trí được nhấn.
+* Khi kéo, hình học gần vị trí tác động phải biến dạng trước, sau đó phần còn lại của cơ thể bị kéo theo một cách đàn hồi.
+* Khi thả ra, bạch tuộc phải lắc lư rồi dần trở về hình dạng ban đầu.
+* Các xúc tu phải phản ứng độc lập và chuyển động trễ nhẹ.
+* Bao gồm trọng lực, va chạm với sàn, ma sát và giảm chấn.
+* Ngăn xúc tu xuyên qua sàn.
+* Giới hạn mức kéo giãn cực đại và sử dụng các bước mô phỏng cố định để lực kéo mạnh không làm hỏng model.
+* Không giả lập độ mềm bằng cách chỉ phóng to, thu nhỏ hoặc xoay toàn bộ bạch tuộc.
+
+INTERACTION
+
+* Nhấp chuột trái hoặc chạm vào bạch tuộc để chạm kéo và kéo giãn.
+* Kéo bằng chuột phải hoặc kéo trong vùng trống để xoay camera nhẹ nhàng quanh đối tượng.
+* Hỗ trợ khoảng zoom giới hạn.
+* Tách biệt thao tác điều khiển camera khỏi thao tác kéo đối tượng.
+* Thêm các nút “Đẩy nhẹ”, “Đặt lại”, “Tạm dừng” và “Đặt lại góc nhìn”.
+* Bao gồm thanh trượt Độ cứng và Giảm chấn bên trong.
+* Thêm các nút bật/tắt “¼ tốc độ” và “Hiện lưới”.
+* Cung cấp ba preset màu: Coral, Lagoon và Grape. Thay đổi màu vật liệu mà không đặt lại mô phỏng.
+
+INTERFACE
+Sử dụng bố cục biên tập tối giản:
+
+* Góc trên bên trái: nhãn nhỏ “NGHIÊN CỨU VẬT LIỆU”.
+* Tiêu đề serif lớn, in nghiêng: “Octo Jelly.”
+* Chú thích: “Tám cánh tay. Lắc lư một chút. Một sinh vật thật mềm mại.”
+* Góc trên bên phải: chỉ báo trạng thái WebGPU.
+* Bên phải: bảng điều khiển nhỏ gọn “MẪU VẬT”.
+* Góc dưới bên trái: “Nắm lấy một xúc tu. Kéo nhẹ thôi. Rồi thả ra.”
+
+Sử dụng chữ sans-serif gọn gàng cho các điều khiển, đường viền mảnh và khoảng trắng thoáng. Tránh các bảng điều khiển nặng nề hoặc hiệu ứng UI trang trí.
+HIỆU NĂNG VÀ CHẤT LƯỢNG
+
+* Sử dụng kết xuất WebGPU thực sự, không mô phỏng bằng canvas 2D hoặc hoạt ảnh dựng sẵn.
+* Tái sử dụng hình học và buffer; không dựng lại mesh trong khi kéo.
+* Giữ giác hút, mắt và các chi tiết khác gắn với phần thân đang biến dạng.
+* Xử lý độ trong suốt mà không gây nhấp nháy, bề mặt biến mất hoặc viền đen gắt.
+* Hỗ trợ bố cục trên máy tính và thiết bị di động.
+* Hiển thị thông báo dự phòng rõ ràng nếu WebGPU không khả dụng.
+* Kiểm thử thao tác chạm kéo lặp lại, kéo mạnh, thả ra, va chạm với sàn, đổi bảng màu, tạm dừng và đặt lại.
+
+Kết quả cần mang lại cảm giác như một món đồ chơi kẹo dẻo nhỏ đang sống — bóng bẩy, mềm nhũn, giàu biểu cảm và thú vị khi kéo giãn. Bàn giao HTML đầy đủ, hoạt động được, không phải mockup hay đoạn mã rời.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+创建一个 token 预算为 200,000 的 Goal。结束时报告实际消耗 token、预算使用率和运行时间；如果能够获得输入、缓存输入、输出 token 的拆分，则按照当前模型价格估算美元费用，并明确列出计算依据。我知道是订阅额度，但是我们可以换算成api计费
+
+Create “Octo Jelly” - a beautiful, interactive 3D gummy octopus that users can grab, stretch, and squish directly in their browser. Deliver a complete single-file HTML experience using genuine WebGPU.
+ART DIRECTION
+Make the octopus look like a premium translucent gummy candy: a rounded head, eight curled tentacles, small suction cups, and a cute, understated face.
+Use a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the scene elegant and uncluttered, with the octopus large and centered.
+GEOMETRY AND MATERIAL
+
+* Generate all geometry procedurally. No external models or image files.
+* Connect all eight tentacles smoothly to the body, without visible gaps or floating parts.
+* Add rounded suction cups that stay attached as the tentacles deform.
+* Use glossy, translucent jelly with thickness-dependent color absorption, refraction, soft internal light scattering, and delicate rim highlights.
+* Thick areas should have richer color; thin tentacle tips should transmit more light.
+* Avoid opaque plastic, blown-out highlights, and visible mesh seams.
+
+SOFT-BODY PHYSICS
+Use a stable mass-spring or position-based dynamics system with elastic constraints and approximate volume preservation.
+
+* The head should feel soft but substantial.
+* Tentacles should be more flexible than the head, especially near their tips.
+* Allow users to grab the head or any tentacle at the clicked location.
+* Pulling should deform the nearby geometry first, then elastically pull the rest of the body.
+* On release, the octopus should wobble and gradually settle into its original shape.
+* Tentacles should react independently, with slightly delayed motion.
+* Include gravity, floor collisions, friction, and damping.
+* Prevent tentacles from passing through the floor.
+* Clamp extreme stretching and use fixed simulation steps so strong pulls do not break the model.
+* Do not fake softness by scaling or rotating the entire octopus.
+
+INTERACTION
+
+* Left-click or touch the octopus to grab and stretch it.
+* Right-drag or drag empty space to gently orbit the camera.
+* Support a limited zoom range.
+* Keep camera gestures separate from object dragging.
+* Add “Give it a nudge,” “Reset,” “Pause,” and “Reset view” buttons.
+* Include Firmness and Internal damping sliders.
+* Add “¼ speed” and “Show mesh” toggles.
+* Provide three color presets: Coral, Lagoon, and Grape. Change the material colors without resetting the simulation.
+
+INTERFACE
+Use a minimal editorial layout:
+
+* Top left: small “MATERIAL STUDIES” label.
+* Large italic serif heading: “Octo Jelly.”
+* Caption: “Eight arms. A little wobble. A very soft creature.”
+* Top right: a WebGPU status indicator.
+* Right side: a compact “THE SPECIMEN” control panel.
+* Bottom left: “Grab a tentacle. Pull gently. Let go.”
+
+Use clean sans-serif text for controls, thin borders, and generous whitespace. Avoid heavy panels or decorative UI effects.
+PERFORMANCE AND QUALITY
+
+* Use real WebGPU rendering, not a 2D canvas imitation or prerecorded animation.
+* Reuse geometry and buffers; do not rebuild meshes during dragging.
+* Keep suction cups, eyes, and other details attached to the deforming body.
+* Handle transparency without flickering, disappearing surfaces, or harsh black edges.
+* Support desktop and mobile layouts.
+* Show a clear fallback message if WebGPU is unavailable.
+* Test repeated grabs, strong pulls, releases, floor collisions, palette changes, pause, and reset.
+
+The result should feel like a little living gummy toy - glossy, squishy, expressive, and satisfying to stretch. Deliver the full working HTML, not a mockup or a code fragment.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105607558467559666) · [Bài đăng gốc](https://x.com/cheerselflin/status/2105607558467559666) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105439105798513059"></a>
+
+### Mô phỏng núi lửa với buồng magma sâu 5 km
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-30 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105439105798513059"><img src="../assets/previews/50804065daa1682d9c6e2afd7609c5fab6eda0321e87b702a661c7e8688386e5.webp" width="840" loading="lazy" alt="Mô phỏng núi lửa với buồng magma sâu 5 km"></a>
+
+**Prompt**
+
+```text
+Dùng Opus 5.5 để xây dựng mô phỏng núi lửa. Buồng magma nằm sâu 5 km.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build with Opus 5.5 a volcano simulation. Magma chamber 5 km down.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105439105798513059) · [Bài đăng gốc](https://x.com/konstantinsaifo/status/2105439105798513059) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105412081692352654"></a>
+
+### Sa bàn kim tự tháp 3D thu nhỏ màu vàng
+
+[demon](https://x.com/demonugc) · 2026-09-30 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/53dc9ac495ab30d8a0a2a7e3b34af9f171ad8ad1d8d519293b0706e11aeabbf3.webp" width="840" loading="lazy" alt="Sa bàn kim tự tháp 3D thu nhỏ màu vàng"></a>
+
+**Prompt**
+
+```text
+{
+  "task": "dựng các kim tự tháp trong không gian 3D. xoay camera",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "màn hình chia đôi, 1 mô hình mỗi bên" },
+  "scene": "sa bàn thu nhỏ màu vàng, hiệu ứng tilt-shift, ánh sáng chạng vạng tối, kim tự tháp chạm khắc mượt mà, đền thờ, các kim tự tháp nhỏ, quảng trường nứt vỡ, địa hình đồng mức",
+  "animation": "kim tự tháp biến hình từ đáy lên đỉnh, không có công nhân, không có đường dốc, không có khối",
+  "camera": "camera chuyển động quanh liên tục 150 độ, đồng bộ ở cả hai bên",
+  "overlay": "chỉ tên mô hình + bộ hẹn giờ"
+}
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+{
+  "task": "build the pyramids in 3D. rotate the camera",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "split screen, 1 model per side" },
+  "scene": "golden miniature diorama, tilt-shift, dark dusk lighting, smooth carved pyramid, temple, small pyramids, cracked plaza, contour terrain",
+  "animation": "pyramid morphs in from base to tip, no workers, no ramps, no blocks",
+  "camera": "continuous 150 degree orbit, synced on both sides",
+  "overlay": "model name + timer only"
+}
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2105412081692352654) · [Bài đăng gốc](https://x.com/demonugc/status/2105412081692352654) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105353400040964192"></a>
+
+### Máy ép thạch
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105353400040964192"><img src="../assets/previews/6756b12ceba906b5c863073748d982373629031b3506f966d220cfe590e66807.webp" width="840" loading="lazy" alt="Máy ép thạch"></a>
+
+**Prompt**
+
+```text
+Tạo “Jelly Press”: một trò chơi đồ chơi 3D tương tác, chỉ gồm một tệp HTML (nhúng toàn bộ JS, CSS và shader WGSL, không dùng tài nguyên bên ngoài ngoại trừ Google Fonts). Kết xuất bằng WebGPU; nếu thiếu WebGPU hoặc adapter, hãy hiển thị thông báo dự phòng rõ ràng thay vì để trang trống.
+
+Ý TƯỞNG
+Bốn miếng thạch gummy trong suốt, tạo hình lát trái cây, lần lượt nằm trên bàn thép của máy ép thủy lực. Người chơi nhấn giữ một nút đỏ lớn để hạ bàn ép. Miếng thạch bị nén và dàn rộng, đồng hồ áp suất tăng lên, rồi tại một thời điểm nào đó sau khi chiều cao giảm quá một nửa, nó sẽ vỡ tung thành nhiều mảnh. Trò chơi KHÔNG kết thúc sau khi vỡ: người chơi có thể nhặt các mảnh, kéo, ném chúng xung quanh rồi ép chúng lần nữa.
+
+CÁC MIẾNG THẠCH (các ô chọn ở dưới cùng, phím 1–4)
+1. Miếng dưa hấu (khối dạng nửa đĩa): phần ruột đỏ với hạt đen hình giọt nước, dải cùi nhạt màu và lớp vỏ xanh có sọc.
+2. Lát cam (nửa đĩa): các múi cam được ngăn cách bằng màng trắng mỏng, cùi trắng nhạt và vỏ cam.
+3. Nửa quả sung: ruột hồng với nhiều hạt vàng nhỏ, một lớp kem và vỏ tím sẫm.
+4. Khoanh dứa: phần ruột vàng có thớ và các vệt tỏa tâm, cùng một lỗ ở giữa.
+Mỗi miếng thạch phải trông như kẹo gummy thật: tán xạ dưới bề mặt, độ trong mềm, vùng phản xạ bóng và bóng đổ mềm trên sàn studio ấm màu (kem/be, có tone mapping).
+
+VẬT LÝ (CPU, bước cố định 60 Hz)
+- Vật thể mềm tứ diện XPBD với 8 bước phụ: khớp hình đồng xoay theo từng tứ diện, ràng buộc thể tích theo từng tứ diện, giới hạn biến dạng cạnh cứng (0,35×–1,8×), giảm vận tốc cạnh, tiếp xúc với sàn có ma sát Coulomb, lực cản lăn và cơ chế ổn định nhẹ khi vật gần như đứng yên.
+- Lưới kết xuất được skin trên CPU bằng cách nhúng barycentric vào các tứ diện; tính lại pháp tuyến từ các tam giác ở mỗi khung hình.
+- Khuôn ép là một bàn ép tròn động học (bán kính khoảng 1,05, cạnh bo tròn, có độ dày và một cần ép phía trên). Mặt dưới của bàn ép hoạt động như trần có ma sát, mặt trên như một bệ đỡ, còn vành ngoài như tường bên. Hai trụ ép là vật thể đặc.
+- Chỉ số áp suất tính theo bar, lấy từ tải trọng tiếp xúc của bàn ép và được scale theo từng loại trái cây.
+
+HIỆU ỨNG VỠ
+- Vỡ tại một mức nén ngẫu nhiên, khi chiều cao còn từ 52% đến 66%.
+- Lập kế hoạch fracture trong nền ngay sau khi mỗi lượt bắt đầu để hiệu ứng vỡ diễn ra tức thì.
+- Tạo 5–7 mảnh lớn từ các ô Voronoi 3D có mặt tường hơi nghiêng. Với 3–4 mảnh, cắt bỏ một góc xa bằng hai mặt phẳng cắt rồi tiếp tục chia thành 2–4 mảnh vụn nhỏ, tạo các cạnh lởm chởm và khuyết.
+- Gán các tứ diện cho từng ô dựa trên trọng tâm. Nhân bản particle cho mỗi mảnh. Gộp các đảo hình học quá nhỏ vào mảnh lân cận.
+- Vật thể mới tiếp nhận vị trí và vận tốc cũ.
+- Cắt các tam giác bề mặt skin theo các nửa không gian của từng ô, đồng thời lấp mọi mặt cắt bằng một mặt phẳng phẳng, sạch, cho thấy phần bên trong của trái cây (ruột, hạt, màng). Không để tam giác bị kéo giãn hoặc xuất hiện lỗ hổng.
+- Hất các mảnh ra ngoài và lên trên khỏi máy ép. Mảnh vụn nhỏ bay nhanh và cao hơn, đồng thời xoay lộn với spin ngẫu nhiên.
+- Hiển thị một phán quyết lớn, chữ nghiêng trong khoảng 2,5 giây rồi mờ dần: “Bẹp lép.” (dưa), “Ép rồi.” (cam), “Thôi thì thành mứt.” (sung), “Nát bét.” (dứa). Kèm một dòng chỉ số: “Bỏ cuộc ở mức N bar và còn N% chiều cao.”
+
+SAU KHI VỠ: CHẾ ĐỘ CHƠI
+- Nhặt: kiểm tra tia/tam giác trên lưới đã skin, kèm phương án dự phòng trong không gian màn hình dễ thao tác hơn cho cảm ứng.
+- Khi nhấc, ghim vùng được chọn (bán kính khoảng 0,4, chỉ gồm particle của mảnh đó) vào một điểm đích trên mặt phẳng kéo hướng về camera. Mảnh nhỏ di chuyển nguyên khối; mảnh lớn bị kéo giãn và đung đưa như thạch.
+- Khi thả, ném mảnh theo vận tốc của con trỏ.
+- Các mảnh va chạm với nhau. Nếu phát hiện một particle nằm bên trong tứ diện của mảnh khác, đẩy nó ra qua mặt skin gần nhất của mảnh đó, có ma sát. Dùng broad phase AABB theo mảnh và spatial hash của các tứ diện skin.
+- Các mảnh luôn ở trên sân khấu: có tường hai bên, cùng một cạnh trước vô hình để không mảnh nào rơi xuống dưới khu vực điều khiển hoặc ra phía sau camera.
+- Máy ép vẫn hoạt động: nhấn giữ để ép các mảnh lần nữa (không fracture lần hai); nút Nâng nâng bàn ép lên.
+- Âm thanh “bõm” ướt khi tiếp đất; âm thanh lép nhép nhỏ khi nhặt.
+- Con trỏ: bàn tay mở khi ở trên các mảnh, bàn tay nắm khi đang kéo. Kéo vào khoảng trống sẽ xoay camera.
+
+GIAO DIỆN (tối giản, mang tính biên tập)
+- Đầu trang góc trên bên trái: “JELLY PRESS” in hoa đậm, cô đọng; chữ “PRESS” được tô bằng họa tiết sọc cảnh báo vàng/đen. Phụ đề: “Bốn viên gummy. Một máy ép thủy lực.”
+- Góc trên bên phải: nút Đặt lại và bật/tắt Âm thanh.
+- Thanh điều khiển phía dưới:
+  - Dòng chú thích tăng dần khi ép: “Tiếp xúc.” → “Không sao. Chỉ là thạch.” → “Đang rộng ra.” → “Giờ thành bánh kếp rồi.” → “Nó đang phát ra tiếng.” → “Làm ơn.”
+  - Đồng hồ áp suất hình tròn (cung 0–400 bar, vùng đỏ) bao quanh nút GIỮ màu đỏ, nút Nâng và chỉ số bar dạng số lớn.
+  - Các ô chọn trái cây có biểu tượng.
+- Trong chế độ chơi, vị trí chú thích hiển thị “Nhặt một mảnh. Ném đi.” cùng các nút nhỏ “Ép lại” và “Thạch tiếp theo”.
+- Điều khiển: nhấn giữ Space hoặc ArrowDown để ép, ArrowUp để nâng, R để đặt lại, 1–4 để chọn trái cây. Cuộn con lăn để zoom; nhấp đúp để đặt lại góc nhìn.
+- Camera: góc nhìn thấp ngang mặt bàn; khung máy ép xoay theo từng loại trái cây để các trụ không che miếng thạch. Tự điều chỉnh khung để miếng thạch nằm giữa đầu trang và thanh điều khiển; hoạt động trên điện thoại (màn hình dọc) với sân khấu hẹp hơn.
+
+ÂM THANH (Web Audio tạo sinh, không dùng tệp)
+Tiếng ù của động cơ thủy lực tăng dần theo áp suất, tiếng lép nhép ướt, thỉnh thoảng có tiếng kẽo kẹt ở áp suất cao, tiếng van khục khi bàn ép dừng, tiếng vỡ lớn và tiếng “bõm” nhẹ khi tiếp đất. Mở khóa âm thanh ở lần tương tác đầu tiên.
+
+TIÊU CHUẨN CHẤT LƯỢNG
+- Chạy mượt ở 60 fps trên laptop.
+- Làm nóng trước trong nền lưới và shader của các loại trái cây còn lại để chuyển đổi diễn ra tức thì.
+- Tôn trọng prefers-reduced-motion.
+- Nhãn dễ tiếp cận, đồng hồ có role=meter và đường viền focus-visible.
+- Không có lỗi trong console. Trang không bao giờ được để trống.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.  CONCEPT Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.  THE JELLIES (chips at the bottom, keys 1–4) 1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin. 2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel. 3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin. 4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle. Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).  PHYSICS (CPU, fixed 60 Hz step) - XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still. - Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame. - The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid. - Pressure readout in bar comes from the platen's contact load, scaled per fruit.  THE BURST - Break at a random squash between 52% and 66% of the jelly's height. - Plan the fracture in the background shortly after each round starts, so the burst itself is instant. - 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges. - Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours. - The new body adopts the old positions and velocities. - Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes. - Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin. - Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."  AFTER THE BURST: PLAY MODE - Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch. - Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly. - Releasing throws the piece with the pointer's velocity. - Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets. - Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera. - The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen. - Wet "plop" sounds on landings; a small squelch on grab. - Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.  UI (editorial, minimal) - Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press." - Top-right: Reset and Sound toggle. - Bottom deck:   - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."   - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.   - Fruit chips with icons. - In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons. - Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view. - Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.  SOUND (procedural Web Audio, no files) Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.  QUALITY BAR - Smooth 60 fps on a laptop. - Background warm-up of the other fruits' meshes and shaders so switching is instant. - Respect prefers-reduced-motion. - Accessible labels, a gauge with role=meter, focus-visible outlines. - No console errors. The page never goes blank.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105353400040964192) · [Bài đăng gốc](https://x.com/vib3coded/status/2105353559327887843) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2105323534398763307"></a>
 
 ### Tái tạo cảnh trong Isaac Sim
@@ -2545,434 +2954,6 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103504887439065439) · [Bài đăng gốc](https://x.com/ajith_io/status/2103449416325890146) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103502454750920925"></a>
-
-### Game sinh tồn sandbox WebGL2
-
-[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="Game sinh tồn sandbox WebGL2"></a>
-
-**Prompt**
-
-```text
-Xây dựng một game sandbox trên trình duyệt theo tinh thần Minecraft, với cảm giác gần với bản gốc nhất có thể. Toàn bộ chữ trong game bằng tiếng Anh. Điều khiển: bàn phím và chuột (máy tính).  KỸ THUẬT - Một tệp HTML duy nhất, WebGL2 thuần, không dùng thư viện bên thứ ba. - Tất cả kết cấu bề mặt 16×16 được tạo bằng mã dưới dạng pixel art (đá, đất, cỏ, ván gỗ, lá cây, quặng, kính, nước, dung nham, v.v.). - Âm thanh được tổng hợp bằng WebAudio: đào, bước chân, đặt khối, nhận sát thương, sinh vật, vụ nổ, nhạc nền nhẹ nhàng.  THẾ GIỚI - Thế giới vô hạn gồm các chunk 16×16×128, có seed. - Quần xã: đồng bằng, rừng, rừng bạch dương, taiga, lãnh nguyên tuyết, sa mạc, núi, đại dương, bãi biển. - Hang động (đường hầm quanh co và hang lớn), dung nham ở các tầng thấp, quặng phân bố theo độ sâu: than, sắt, vàng, kim cương. - Ba loại cây, cỏ cao, hoa, xương rồng, mía, bí ngô. - Hệ thống chiếu sáng kiểu Minecraft: ánh sáng bầu trời và ánh sáng khối (đuốc, đá phát sáng, dung nham) lan từng ô một, có đổ sáng mượt và che khuất môi trường. - Chu kỳ ngày/đêm: mặt trời, mặt trăng, sao, hoàng hôn, mây 3D, sương mù theo khoảng cách, mưa. - Nước và dung nham chảy theo từng mức; hai nguồn nước tạo thành vô hạn; nước + dung nham tạo obsidian hoặc đá cuội. Cát và sỏi rơi xuống.  NGƯỜI CHƠI - Góc nhìn thứ nhất, va chạm, nhảy, chạy nước rút, lén đi (không rơi khỏi mép), bơi, thang, sát thương do rơi. - Phá khối với các giai đoạn nứt và hạt hiệu ứng; thời gian phá phụ thuộc vào công cụ. - Hiển thị bàn tay và vật phẩm đang cầm với hoạt ảnh vung tay. Góc nhìn thứ ba khi nhấn F5.  SINH TỒN - Máu, đói, độ no, không khí khi ở dưới nước. - Công cụ từ 5 loại vật liệu với độ bền, giáp từ 4 loại vật liệu. - Túi đồ với chế tạo 2×2, bàn chế tạo 3×3, lò nung có nhiên liệu, rương, giường (bỏ qua ban đêm và đặt điểm hồi sinh). - Vật phẩm rơi, chết và hồi sinh. - Sinh vật: lợn, bò, cừu, gà (sinh sản, xén lông); ban đêm có zombie, bộ xương dùng cung, nhện. Zombie và bộ xương bốc cháy dưới ánh nắng. - Nông nghiệp: cuốc, hạt giống, lúa mì phát triển, bánh mì. Cửa, hàng rào, cổng hàng rào, TNT.  SÁNG TẠO - Bay bằng cách nhấn đúp Space, phá khối tức thì, danh mục tất cả khối với các tab và chức năng tìm kiếm.  GIAO DIỆN - Màn hình tiêu đề với ảnh toàn cảnh thế giới, danh sách thế giới (tạo / xóa / chơi), tùy chọn (FOV, khoảng cách hiển thị, độ nhạy, âm thanh, độ sáng, tỷ lệ giao diện). - Menu tạm dừng, màn hình chết, HUD (thanh vật phẩm nhanh, tim, đói, giáp, bong bóng khí), màn hình gỡ lỗi F3. - Chat kèm lệnh: /gamemode, /time, /give, /tp, /summon, /weather. - Thế giới được lưu trong localStorage.  GIỚI HẠN - Không sử dụng tên, logo, kết cấu bề mặt hoặc nhân vật của Minecraft (Steve, Creeper, v.v.): hãy đặt tên riêng cho game và tự thiết kế các sinh vật.  KIỂM THỬ - Chạy game trong trình duyệt không giao diện, kiểm tra mọi hệ thống và sửa lỗi trước khi bàn giao.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103502454750920925) · [Bài đăng gốc](https://x.com/kepochnik/status/2103524317443363241) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103486103831339269"></a>
-
-### Vườn Nhật phong cách voxel trong Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Vườn Nhật phong cách voxel trong Three.js"></a>
-
-**Prompt**
-
-```text
-Xây dựng một khu vườn Nhật phong cách voxel chi tiết trong Three.js, với một ngôi chùa tháp, những dân làng tí hon, một con rồng đang bay và các chi tiết tương tác.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103486103831339269) · [Bài đăng gốc](https://x.com/marcthecreatorr/status/2103486103831339269) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103483174957597035"></a>
-
-### Điều hướng trong một ngôi chùa 3D
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="Điều hướng trong một ngôi chùa 3D"></a>
-
-**Prompt**
-
-```text
-Viết mã để có thể điều hướng trong một ngôi chùa 3D.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Implement code to be able to navigate in a pagoda in 3D.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103483174957597035) · [Bài đăng gốc](https://x.com/BuildFastWithAI/status/2103483174957597035) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103482826519986544"></a>
-
-### Tạo chuột lang trong Blender
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="Tạo chuột lang trong Blender"></a>
-
-**Prompt**
-
-```text
-Tạo chuột lang trong Blender
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Blenderでモルモットを作って
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103482826519986544) · [Bài đăng gốc](https://x.com/kayokojoe/status/2103482826519986544) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103480081809346597"></a>
-
-### Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá
-
-[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá"></a>
-
-**Prompt**
-
-```text
-Hãy dùng Three.js để xây dựng một “thị trấn hoa anh đào 3D phong cách anime, tự do khám phá” trong một tệp HTML duy nhất, sau đó đăng dưới dạng một trang web có thể chia sẻ.
-
-[Các ràng buộc kỹ thuật]
-- Chỉ sử dụng three.js r128 (bản dựng UMD) từ cdnjs. Không tải mô hình hoặc hình ảnh bên ngoài — tạo tất cả mô hình, kết cấu bề mặt và biển hiệu cửa hàng bằng mã và Canvas theo quy trình.
-- Sử dụng nội dung nguyên bản cho mọi tên cửa hàng, biển hiệu và nhân vật. Không bắt chước bất kỳ thương hiệu có thật hay tác phẩm hiện có nào.
-- Sử dụng MeshStandardMaterial hoặc MeshPhongMaterial. Tránh metalness cao và các bản đồ phản chiếu môi trường (trên một số máy tính, chúng có thể khiến vật thể được render mà không có màu).
-- Gộp các vật thể tĩnh theo vật liệu thành một số lượng mesh nhỏ để chạy tốt trên máy tính phổ thông; cung cấp tùy chọn chất lượng Cao / Trung bình / Thấp.
-
-[Bối cảnh: “桜ヶ丘 (Sakuragaoka)”, một thị trấn nhỏ của Nhật Bản vào buổi chiều mùa xuân]
-1. Phố mua sắm: một con phố chính chạy theo hướng bắc–nam với hơn 20 cửa hàng ở hai bên (quán ramen, quán cà phê, cửa hàng xe đạp, hiệu sách, cửa hàng hoa, cửa hàng bánh ngọt Nhật Bản, hiệu thuốc, cửa hàng tiện lợi, v.v.). Mỗi cửa hàng có: biển hiệu nhiều dòng (tên cửa hàng + tên tiếng Anh + số điện thoại), mái hiên sọc với diềm vải hình vỏ sò, mặt tiền thụt vào với nội thất có chiều sâu rõ ràng và khu trưng bày trên vỉa hè (thùng trái cây, giá tạp chí, tủ trưng bày món ăn mẫu, cột đèn xoay của tiệm cắt tóc). Các tầng trên có cửa sổ, máy điều hòa, ban công phơi quần áo và ăng-ten TV trên mái.
-2. Chi tiết đường phố: cột điện với nhiều dây điện trên cao, đèn đường trang trí treo băng-rôn phố mua sắm, dây đèn lồng lễ hội, vỉa hè lát gạch vuông với dải gạch dẫn đường màu vàng, nắp cống, biển báo dừng “止まれ” và trạm xe buýt.
-3. Đường ngang và tàu hỏa: một tuyến đường sắt đôi. Khi tàu đến gần, đèn đỏ tại đường ngang nhấp nháy luân phiên, chuông reo và cần chắn hạ xuống. Một đoàn tàu đi lại hai toa dừng tại ga khoảng 14 giây rồi khởi hành. Cửa sổ trong suốt để nhìn thấy ghế ngồi và quai treo bên trong.
-4. Nhà ga với sân ga đảo: bảng tên ga, mái che sân ga, ghế băng và máy bán hàng tự động.
-5. Quảng trường sakura: một cây anh đào 100 năm tuổi với ghế băng tròn bao quanh.
-6. Đền Inari: cổng torii lớn màu đỏ son cùng một dãy torii nhỏ, đèn đá, tượng cáo, điện thờ (mái xanh đồng, chigi, katsuogi, hộp dâng lễ và chuông treo), bồn rửa tay thanh tẩy (temizuya), tượng Jizo, bảng ema, cây thiêng và nền sỏi.
-7. Đê ven sông: hai hàng cây anh đào tạo thành đường hầm hoa, đèn lồng, một dòng sông, nhà cửa ở bờ đối diện và núi xa.
-
-[Cách xây dựng cây anh đào (phần chính)]
-- Lấy cảm hứng từ giống Somei-Yoshino: thân cây tách thấp thành 3–4 cành chính, sau đó các cành tiếp tục phân nhánh đệ quy thêm ba cấp. Cành vươn ra ngoài và hơi rủ xuống ở phần ngọn, tạo thành tổng thể hình tán ô.
-- Tạo tán cây từ hàng chục nghìn “thẻ cụm hoa”: vẽ hoa năm cánh trên Canvas (đầu cánh hoa có khía, tâm đỏ hồng và nhị hoa), với một lớp nền hồng nhạt mềm phía sau hoa. Dùng alphaTest và chế độ render hai mặt cho các thẻ.
-- Thêm một vài cụm màu hồng lấp đầy bên trong tán để tạo độ dày. Phần ngoài và phía trên sáng hơn; phần bên trong và phía dưới có bóng đổ tông hồng ấm.
-- Dùng màu hồng phấn, không dùng hồng neon. Tán cây đung đưa nhẹ trong gió, thảm cánh hoa rụng phủ mặt đất dưới mỗi cây và cánh hoa liên tục rơi trong không khí (thực hiện bằng shader).
-
-[Nhân vật]
-- Hơn 20 học sinh và người dân phong cách anime: hoạt ảnh đi bộ với khớp gối và khuỷu tay, gương mặt anime vẽ trên Canvas (mắt to, điểm sáng, má ửng hồng) có chớp mắt, tóc mái tạo từ các lọn riêng biệt, nhiều kiểu tóc (tóc dài, tóc bob, tóc đuôi ngựa đung đưa, tóc hai bên), đồng phục thủy thủ / đồng phục blazer / quần áo thường ngày. Render nhân vật với cel shading hai tông màu và đường viền tối.
-- Người đi bộ trên phố, trò chuyện trong quảng trường, chờ trên sân ga, cầu nguyện tại đền và đạp xe dọc theo con đê.
-
-[Phương tiện]
-- Xây dựng ô tô bằng cách đùn một silhouette mặt bên (có vòm bánh xe, cửa sổ, đèn, biển số Nhật Bản và bánh xe quay). Ô tô dừng trước đường ngang; trong lúc chuông reo, chúng chờ cho đến khi cần chắn nâng lên.
-
-[Ánh sáng và thời gian trong ngày]
-- Phong cách nền anime mềm mại: bầu trời xanh với mây trắng (shader), sương mờ nhẹ ở phía xa và bóng đổ mang sắc xanh tím.
-- Có thể chuyển đổi giữa Buổi chiều / Chạng vạng / Đêm sakura. Vào ban đêm, cửa sổ, đèn lồng và đèn đường sẽ bật sáng.
-
-[Điều khiển]
-- Góc nhìn thứ nhất: WASD để đi bộ, Shift để chạy, Space để nhảy, F để bay, chuột để quan sát xung quanh (khóa con trỏ), các phím số để dịch chuyển đến từng địa điểm, H để ẩn giao diện, M để tắt tiếng.
-- Thiết bị di động: kéo ở nửa bên trái để di chuyển, kéo ở nửa bên phải để quan sát xung quanh.
-- Bật va chạm; người chơi có thể đi lên sân ga và các bậc thềm.
-- Dùng Web Audio để tạo âm thanh môi trường: tiếng gió, tiếng chim hót, chuông đường ngang và tiếng tàu chạy.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
-
-[Technical constraints]
-- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
-- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
-- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
-- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
-
-[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
-1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
-2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
-3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
-4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
-5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
-6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
-7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
-
-[How to build the cherry trees (key part)]
-- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
-- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
-- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
-- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
-
-[Characters]
-- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
-- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
-
-[Vehicles]
-- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
-
-[Lighting and time of day]
-- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
-- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
-
-[Controls]
-- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
-- Mobile: drag on the left half to walk, drag on the right half to look around.
-- Collision is enabled, and the player can walk up onto the platform and steps.
-- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103480081809346597) · [Bài đăng gốc](https://x.com/pound75423/status/2103480085319942353) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103456264785424530"></a>
-
-### Dựng mô hình 3D trang phục cho VRChat
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="Dựng mô hình 3D trang phục cho VRChat"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
-
-**Prompt**
-
-```text
-Hãy tạo trang phục cho VRChat
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-VRChat用の衣装作って
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103456264785424530) · [Bài đăng gốc](https://x.com/Noir4247/status/2103456264785424530) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103432732386664591"></a>
-
-### Thạch Pitaya
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="Thạch Pitaya"></a>
-
-**Prompt**
-
-```text
-Tạo một cảnh 3D tương tác có tên “Pitaya Jelly” — một nửa quả thanh long làm từ thạch mềm, trong mờ. Xây dựng toàn bộ dự án trong một tệp HTML duy nhất bằng tính năng kết xuất WebGPU thực tế và shader WGSL. Không sử dụng mô hình dựng sẵn hoặc nội dung hình ảnh.
-
-APPEARANCE
-
-Một nửa quả thanh long lớn đặt trên bề mặt studio sáng màu, với mặt cắt hướng lên trên.
-Vỏ màu hồng phúc bồn tử đậm, lớp cùi trắng ngà mỏng bên trong và phần ruột trắng như ngọc trai.
-Khoảng 250 hạt đen nhỏ phân bố tự nhiên trên phần ruột.
-12–14 cánh vỏ mọng nước bao quanh quả, chuyển màu từ phần gốc hồng sang đầu xanh lục.
-Bề mặt bóng ướt với hiệu ứng khúc xạ ánh sáng, các bong bóng nhỏ bên trong và bóng tiếp xúc mềm.
-Vật liệu phải trông như kẹo dẻo mềm, không phải nhựa cứng. Giữ màu sắc bão hòa mà không để vùng sáng bị cháy.
-
-VẬT LÝ VÀ TƯƠNG TÁC
-
-Triển khai biến dạng soft-body thực tế bằng lưới thể tích với các liên kết đàn hồi và ràng buộc bảo toàn thể tích, chẳng hạn như XPBD.
-Người dùng có thể dùng chuột hoặc ngón tay để nắm phần ruột, kéo giãn rồi thả ra.
-Biến dạng phải tập trung quanh điểm bị nắm thay vì chỉ tịnh tiến toàn bộ vật thể.
-Sau khi thả, quả phải lắc lư, rung nhẹ và dần trở về hình dạng ban đầu.
-Cho phép kéo từng cánh vỏ riêng lẻ. Cánh vỏ phải mềm hơn phần ruột, có thể uốn cong và bật trở lại nhưng vẫn gắn với quả.
-Các hạt phải bám theo bề mặt đang biến dạng, không bay ra ngoài hoặc chìm vào phần ruột.
-Giữ mô phỏng ổn định khi kéo mạnh, bảo đảm tiếp xúc với sàn và ngăn các phần tử bị đảo ngược.
-
-THIẾT KẾ HÌNH ẢNH
-
-Sử dụng giao diện studio tối giản, tông sáng với phong cách biên tập: nhiều khoảng trắng, đường viền mảnh, các điều khiển tiết chế và không có chi tiết trang trí thừa.
-
-Góc trên bên trái:
-“NGHIÊN CỨU VẬT LIỆU / SỐ 019”
-Tiêu đề serif nghiêng cỡ lớn, hiển thị trên hai dòng:
-“Pitaya Jelly.”
-
-Bên dưới:
-“Một chút hoang dã.”
-“Một chút ngọt ngào.”
-“Một chú rồng cực mềm.”
-Ở bên phải, thêm một bảng nổi có tiêu đề “MẪU VẬT” và chứa:
-
-Nhãn mật độ: ρ 1.04 g/cm³.
-Ba thiết lập có sẵn:
-Pearl — ruột trắng và vỏ hồng.
-Ruby — ruột màu phúc bồn tử và vỏ hồng.
-Gold — ruột nhạt màu và vỏ vàng.
-Thanh trượt Độ cứng và Độ giảm chấn bên trong, kèm giá trị hiển thị.
-Các nút “Chạm nhẹ” và “Đặt lại”.
-
-Các ô chọn “¼ tốc độ” và “Hiện lưới”.
-
-Một nút “Tạm dừng”.
-Đồng thời bao gồm:
-Một nút toàn màn hình kèm tùy chọn thoát.
-Chỉ báo trạng thái “WEBGPU · LIVE”.
-Các chỉ số trực tiếp về khối lượng, phần trăm thể tích ở trạng thái nghỉ và động năng.
-Một gợi ý tương tác ngắn: “Kéo phần ruột. Kéo một cánh vỏ. Thả ra.”
-Một mục có thể thu gọn “Bên trong thí nghiệm” giải thích chính xác cách triển khai.
-YÊU CẦU KỸ THUẬT
-Bàn giao một tệp độc lập duy nhất có tên pitaya-jelly-webgpu.html.
-
-Sử dụng tính năng kết xuất WebGPU thực tế, không giả lập bằng Canvas 2D.
-
-Tạo toàn bộ hình học bằng phương pháp thủ tục.
-Sử dụng khúc xạ có xét đến độ dày, phản xạ Fresnel và ánh sáng studio mềm.
-Sử dụng bước thời gian mô phỏng cố định để hành vi nhất quán.
-Hỗ trợ tương tác trên máy tính và cảm ứng, với bố cục responsive.
-Tránh tái tạo hình học hoặc biên dịch shader tốn kém trong khi kéo.
-
-Hiển thị thông báo dự phòng rõ ràng khi WebGPU không khả dụng.
-
-Kiểm tra thao tác kéo, thả, khôi phục hình dạng, thiết lập có sẵn, đặt lại, tạm dừng, toàn màn hình và bố cục trên thiết bị di động.
-Các ưu tiên chính là hành vi giống thạch thuyết phục, vật liệu đẹp mắt và tương tác đã tay. Kết quả phải mang lại cảm giác như một thí nghiệm vật liệu được trau chuốt, có thể chơi và khám phá.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
-
-APPEARANCE
-
-A large dragon fruit half resting cut-side up on a light studio surface.
-Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
-Approximately 250 tiny black seeds distributed naturally across the flesh.
-12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
-A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
-The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
-
-PHYSICS AND INTERACTION
-
-Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
-Users can grab the flesh with a mouse or finger, stretch it, and release it.
-Deformation should concentrate around the grabbed point rather than simply translating the entire object.
-After release, the fruit should wobble, jiggle, and gradually recover its original shape.
-Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
-Seeds must follow the deforming surface without floating away or sinking into the flesh.
-Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
-
-VISUAL DESIGN
-
-Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
-
-Top left:
-“MATERIAL STUDIES / NO. 019”
-A large italic serif heading on two lines:
-“Pitaya Jelly.”
-
-Below it:
-“A little wild.”
-“A little sweet.”
-“A very soft dragon.”
-On the right, add a floating panel titled “THE SPECIMEN” containing:
-
-Density badge: ρ 1.04 g/cm³.
-Three presets:
-Pearl — white flesh and pink skin.
-Ruby — raspberry-colored flesh and pink skin.
-Gold — pale flesh and golden skin.
-Firmness and Internal damping sliders with visible values.
-“Give it a nudge” and “Reset” buttons.
-
-“¼ speed” and “Show mesh” checkboxes.
-
-A “Pause” button.
-Also include:
-A fullscreen button with an exit option.
-A “WEBGPU · LIVE” status indicator.
-Live readouts for mass, percentage of rest volume, and kinetic energy.
-A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
-A collapsible “Inside the experiment” section explaining the implementation accurately.
-TECHNICAL REQUIREMENTS
-Deliver one self-contained file named pitaya-jelly-webgpu.html.
-
-Use actual WebGPU rendering, not a Canvas 2D imitation.
-
-Build all geometry procedurally.
-Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
-Use a fixed simulation timestep for consistent behavior.
-Support desktop and touch interaction with a responsive layout.
-Avoid expensive geometry reconstruction or shader compilation during dragging.
-
-Show a clear fallback message when WebGPU is unavailable.
-
-Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
-The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2103432732386664591) · [Bài đăng gốc](https://x.com/vib3coded/status/2103433535604265052) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103428454355980558"></a>
-
-### Hoạt họa đồ họa chuyển động về vòng đời
-
-[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="Hoạt họa đồ họa chuyển động về vòng đời"></a>
-
-**Prompt**
-
-```text
-Tạo một video đồ họa chuyển động và hoạt họa dài 20 giây, năng động, thể hiện bạn là một nhà thiết kế đồ họa chuyển động và họa sĩ hoạt họa xuất sắc đến mức nào, như thể đây là showreel trong CV của bạn. Hãy lấy vòng đời làm chủ đề, theo chân cùng một nhân vật từ thời thơ ấu qua tuổi vị thành niên, vòng lặp công việc 9–5, cuộc sống gia đình, tuổi xế chiều rồi đến cái chết; sau đó chuyển cảnh để sẵn sàng nối vòng về phần mở đầu. Hãy thỏa sức sáng tạo, sử dụng mọi thứ bạn cần.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103428454355980558) · [Bài đăng gốc](https://x.com/loicRambo/status/2103428454355980558) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

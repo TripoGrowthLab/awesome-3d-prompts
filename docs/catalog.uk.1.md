@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [Анімований мінісвіт із плавучою шахтою](#claude-opus-5-5-2105672081358876788)
+- [Blockworld](#claude-opus-5-5-2105669581226570012)
+- [Гігантський дракон атакує середньовічний замок у Three.js](#claude-opus-5-5-2105659005817462972)
+- [3D-гра з ухилянням від астероїдів](#gpt-6-astra-2105644436659290409)
+- [Інтерактивний WebGPU 3D-восьминіг із желейної цукерки, якого можна хапати й розтягувати](#claude-opus-5-5-2105607558467559666)
+- [Симуляція вулкана з магматичною камерою на глибині 5 км](#claude-opus-5-5-2105439105798513059)
+- [Золота мініатюрна 3D-діорама з пірамідами](#gpt-6-astra-2105412081692352654)
+- [Желейний прес](#claude-opus-5-5-2105353400040964192)
 - [Відтворіть сцену в Isaac Sim](#gpt-6-astra-2105323534398763307)
 - [SPARK — живописний 3D-анімаційний кадр](#claude-opus-5-5-2105315982525014067)
 - [Відео 3D-анімації з падінням сфери в такт музиці](#claude-opus-5-5-2105302007896797351)
@@ -70,16 +78,417 @@
 - [Воксельна гра в стилі Minecraft із просунутими шейдерами](#claude-opus-5-5-2103822946800165270)
 - [Моушн-графіка у стилі Spotify](#claude-opus-5-5-2103801834930606193)
 - [Динамічний 15-секундний шоуріл із моушн-дизайну](#claude-opus-5-5-2103504887439065439)
-- [WebGL2-гра у жанрі «пісочниця» на виживання](#claude-opus-5-5-2103502454750920925)
-- [Воксельний японський сад у Three.js](#gpt-6-astra-2103486103831339269)
-- [Навігація 3D-пагодою](#claude-opus-5-5-2103483174957597035)
-- [Створення морської свинки в Blender](#gpt-6-astra-2103482826519986544)
-- [Вільне дослідження 3D-містечка з сакурами в аніме-стилі](#claude-opus-5-5-2103480081809346597)
-- [3D-моделювання одягу для VRChat](#gpt-6-astra-2103456264785424530)
-- [Желе з пітайї](#gpt-6-astra-2103432732386664591)
-- [Моушн-графічна анімація «Життєвий цикл»](#claude-opus-5-5-2103428454355980558)
 
 </details>
+<a id="claude-opus-5-5-2105672081358876788"></a>
+
+### Анімований мінісвіт із плавучою шахтою
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-10-01 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105672081358876788"><img src="../assets/previews/a6c8199e4c545d0eda18f4796e33443488753dd10a738e4ef40c947d116a11ae.webp" width="840" loading="lazy" alt="Анімований мінісвіт із плавучою шахтою"></a>
+
+**Промпт**
+
+```text
+Створіть у Blender ізометричний плавучий мінісвіт, анімацію якого за допомогою Python можна відтворювати в безшовному циклі: невеликий шахтарський острів із терасованою горою, двома тунелями та залізницею, що проходить крізь гору й утворює замкнений маршрут; ставок, струмінь води з якого падає за край у вигляді водоспаду; шари породи зі сяйливими кристалами на зрізах. Робітники — маленькі боти Claude: один видобуває кристали з жили й лякається кажана, другий керує краном, який висипає кристали в кожен вагон, що проїжджає повз, третій рибалить у ставку, а четвертий їде у вагоні. Розмістіть над входом до шахти дерев’яну вивіску «TOKENS». Звук має бути синхронізований із кожною дією.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Make an isometric floating mini-world in Blender, animated with Python, as a seamless loop: a small mine island with a terraced mountain, two tunnels and a railway that loops through the mountain, a pond whose stream falls off the edge as a waterfall, and rock layers with glowing crystals on the cut sides. The workers are little Claude bots: one mines a crystal vein and gets startled by a bat, one runs a crane that dumps crystals into each passing cart, one fishes in the pond, and one rides a cart. Put a wooden "TOKENS" sign over the mine entrance. Sound synced to every action.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105672081358876788) · [Оригінальний допис](https://x.com/koldo2k/status/2105672083908825404) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105669581226570012"></a>
+
+### Blockworld
+
+[semperphoenix.com](https://semperphoenix.com/) · 2026-10-01 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105669581226570012"><img src="../assets/previews/2b2a746272a3d42e1e20ecb38b9ad696729fb0476c407c9582eae9ec289faace.webp" width="840" loading="lazy" alt="Blockworld"></a>
+
+**Промпт**
+
+```text
+Чи можете ви створити клон Minecraft?
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Can you create a Minecraft clone?
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105669581226570012) · [Оригінальний допис](https://semperphoenix.com/lab) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105659005817462972"></a>
+
+### Гігантський дракон атакує середньовічний замок у Three.js
+
+[ReconScribe](https://x.com/ReconScribe) · 2026-10-01 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105659005817462972"><img src="../assets/previews/e9d911d3b1343369054c36136a9f646b6684db18692ea1ecbfd8a107cfd3d2b0.webp" width="840" loading="lazy" alt="Гігантський дракон атакує середньовічний замок у Three.js"></a>
+
+**Промпт**
+
+```text
+гігантський дракон атакує середньовічний замок і його село, створені в Three.js.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+a giant dragon attacking a medieval castle and its village, built in Three.js.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105659005817462972) · [Оригінальний допис](https://x.com/ReconScribe/status/2105659005817462972) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105644436659290409"></a>
+
+### 3D-гра з ухилянням від астероїдів
+
+[dubspeak.com](https://dubspeak.com/) · 2026-10-01 · GPT-6 Astra · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2105644436659290409"><img src="../assets/previews/b6a190efc540b4f0a156ece77f9c5eea0c31ad6c356ece1e721f8b5a491f2b25.webp" width="840" loading="lazy" alt="3D-гра з ухилянням від астероїдів"></a>
+
+**Промпт**
+
+```text
+Тепер я хочу, щоб ти створив 3D-гру, де я ухиляюся від астероїдів, рухаючись клавішами зі стрілками й використовуючи пробіл для прискорення.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Now, I want you to make a 3D game where I'm ducking asteroids, using the arrow keys to move around, and I'm using space to boost.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2105644436659290409) · [Оригінальний допис](https://dubspeak.com/gpt-6-astra-intro-20260928-v5/) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105607558467559666"></a>
+
+### Інтерактивний WebGPU 3D-восьминіг із желейної цукерки, якого можна хапати й розтягувати
+
+[林悦己Cheer](https://x.com/cheerselflin) · 2026-10-01 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105607558467559666"><img src="../assets/previews/a70c77f46789ceece0ef2f67a0f80cb0891ed77507ba2ce1b96bfcb3e9ab385d.webp" width="840" loading="lazy" alt="Інтерактивний WebGPU 3D-восьминіг із желейної цукерки, якого можна хапати й розтягувати"></a>
+
+**Промпт**
+
+```text
+Створіть Goal із бюджетом 200 000 токенів. Наприкінці повідомте фактичну кількість використаних токенів, відсоток використання бюджету та час виконання; якщо доступний розподіл на вхідні, кешовані вхідні та вихідні токени, оцініть вартість у доларах за поточними цінами моделі й чітко наведіть основу розрахунку. Я знаю, що це ліміт підписки, але ми можемо перерахувати його у вартість API
+
+Створіть «Octo Jelly» — красивого інтерактивного 3D-восьминога з желейної цукерки, якого користувачі можуть хапати, розтягувати й стискати безпосередньо у браузері. Створіть повноцінний одnofайловий HTML-досвід зі справжнім WebGPU.
+ХУДОЖНІЙ НАПРЯМ
+Нехай восьминіг виглядає як преміальна напівпрозора желейна цукерка: округла голова, вісім закручених щупалець, маленькі присоски та милий стриманий вираз обличчя.
+Використайте тепле майже біле тло, м’яке студійне освітлення й ледь помітну тінь на поверхні. Сцена має бути елегантною та невізуально перевантаженою, а восьминіг — великим і розташованим по центру.
+ГЕОМЕТРІЯ ТА МАТЕРІАЛ
+
+* Генеруйте всю геометрію процедурно. Не використовуйте зовнішні моделі чи файли зображень.
+* Плавно з’єднайте всі вісім щупалець із тілом, без видимих проміжків і частин, що зависають окремо.
+* Додайте округлі присоски, які залишаються прикріпленими під час деформації щупалець.
+* Використайте глянцевий напівпрозорий желейний матеріал із поглинанням кольору залежно від товщини, рефракцією, м’яким внутрішнім розсіюванням світла та делікатними відблисками по краях.
+* Товсті ділянки мають бути насиченішими, а тонкі кінчики щупалець — пропускати більше світла.
+* Уникайте непрозастого пластику, пересвічених відблисків і видимих швів сітки.
+
+ФІЗИКА М’ЯКОГО ТІЛА
+Використайте стабільну систему маса—пружина або position-based dynamics зі пружними обмеженнями та наближеним збереженням об’єму.
+
+* Голова має здаватися м’якою, але достатньо пружною й масивною.
+* Щупальця мають бути гнучкішими за голову, особливо біля кінчиків.
+* Дозвольте користувачам хапати голову або будь-яке щупальце в точці натискання.
+* Під час перетягування спочатку деформуйте найближчу геометрію, а потім пружно тягніть решту тіла.
+* Після відпускання восьминіг має погойдатися й поступово повернутися до початкової форми.
+* Щупальця мають реагувати незалежно одне від одного, із невеликою затримкою руху.
+* Додайте гравітацію, зіткнення з підлогою, тертя та демпфування.
+* Не допускайте проходження щупалець крізь підлогу.
+* Обмежте надмірне розтягування та використовуйте фіксовані кроки симуляції, щоб сильні ривки не руйнували модель.
+* Не імітуйте м’якість масштабуванням або обертанням усього восьминога.
+
+INTERACTION
+
+* Клацання лівою кнопкою або дотик до восьминога мають давати змогу хапати й розтягувати його.
+* Перетягування правою кнопкою або порожнього простору має м’яко обертати камеру навколо об’єкта.
+* Підтримайте обмежений діапазон масштабування.
+* Розділіть жести керування камерою та перетягування об’єкта.
+* Додайте кнопки «Підштовхнути», «Скинути», «Пауза» та «Скинути вигляд».
+* Додайте повзунки жорсткості та внутрішнього демпфування.
+* Додайте перемикачі «¼ швидкості» та «Показати сітку».
+* Додайте три пресети кольорів: Coral, Lagoon і Grape. Змінюйте кольори матеріалу без скидання симуляції.
+
+INTERFACE
+Використайте мінімалістичне редакційне компонування:
+
+* Угорі ліворуч: невелика мітка «MATERIAL STUDIES».
+* Великий заголовок курсивною антиквою: «Octo Jelly».
+* Підпис: «Вісім щупалець. Трохи погойдувань. Дуже м’яка істота».
+* Угорі праворуч: індикатор стану WebGPU.
+* Праворуч: компактна панель керування «THE SPECIMEN».
+* Унизу ліворуч: «Схопіть щупальце. Обережно потягніть. Відпустіть».
+
+Використовуйте чистий текст без зарубок для елементів керування, тонкі рамки та багато вільного простору. Уникайте масивних панелей і декоративних ефектів інтерфейсу.
+ПРОДУКТИВНІСТЬ І ЯКІСТЬ
+
+* Використовуйте справжній рендеринг WebGPU, а не імітацію 2D canvas чи заздалегідь записану анімацію.
+* Повторно використовуйте геометрію та буфери; не перебудовуйте сітки під час перетягування.
+* Присоски, очі та інші деталі мають залишатися прикріпленими до тіла, що деформується.
+* Коректно обробляйте прозорість: без мерехтіння, зникнення поверхонь і різких чорних країв.
+* Підтримайте компонування для настільних і мобільних пристроїв.
+* Якщо WebGPU недоступний, показуйте зрозуміле повідомлення про резервний режим.
+* Протестуйте повторні захоплення, сильні ривки, відпускання, зіткнення з підлогою, зміну палітри, паузу та скидання.
+
+Результат має нагадувати маленьку живу желейну іграшку — глянцеву, пружну, виразну й приємну для розтягування. Надайте повний робочий HTML, а не макет і не фрагмент коду.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+创建一个 token 预算为 200,000 的 Goal。结束时报告实际消耗 token、预算使用率和运行时间；如果能够获得输入、缓存输入、输出 token 的拆分，则按照当前模型价格估算美元费用，并明确列出计算依据。我知道是订阅额度，但是我们可以换算成api计费
+
+Create “Octo Jelly” - a beautiful, interactive 3D gummy octopus that users can grab, stretch, and squish directly in their browser. Deliver a complete single-file HTML experience using genuine WebGPU.
+ART DIRECTION
+Make the octopus look like a premium translucent gummy candy: a rounded head, eight curled tentacles, small suction cups, and a cute, understated face.
+Use a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the scene elegant and uncluttered, with the octopus large and centered.
+GEOMETRY AND MATERIAL
+
+* Generate all geometry procedurally. No external models or image files.
+* Connect all eight tentacles smoothly to the body, without visible gaps or floating parts.
+* Add rounded suction cups that stay attached as the tentacles deform.
+* Use glossy, translucent jelly with thickness-dependent color absorption, refraction, soft internal light scattering, and delicate rim highlights.
+* Thick areas should have richer color; thin tentacle tips should transmit more light.
+* Avoid opaque plastic, blown-out highlights, and visible mesh seams.
+
+SOFT-BODY PHYSICS
+Use a stable mass-spring or position-based dynamics system with elastic constraints and approximate volume preservation.
+
+* The head should feel soft but substantial.
+* Tentacles should be more flexible than the head, especially near their tips.
+* Allow users to grab the head or any tentacle at the clicked location.
+* Pulling should deform the nearby geometry first, then elastically pull the rest of the body.
+* On release, the octopus should wobble and gradually settle into its original shape.
+* Tentacles should react independently, with slightly delayed motion.
+* Include gravity, floor collisions, friction, and damping.
+* Prevent tentacles from passing through the floor.
+* Clamp extreme stretching and use fixed simulation steps so strong pulls do not break the model.
+* Do not fake softness by scaling or rotating the entire octopus.
+
+INTERACTION
+
+* Left-click or touch the octopus to grab and stretch it.
+* Right-drag or drag empty space to gently orbit the camera.
+* Support a limited zoom range.
+* Keep camera gestures separate from object dragging.
+* Add “Give it a nudge,” “Reset,” “Pause,” and “Reset view” buttons.
+* Include Firmness and Internal damping sliders.
+* Add “¼ speed” and “Show mesh” toggles.
+* Provide three color presets: Coral, Lagoon, and Grape. Change the material colors without resetting the simulation.
+
+INTERFACE
+Use a minimal editorial layout:
+
+* Top left: small “MATERIAL STUDIES” label.
+* Large italic serif heading: “Octo Jelly.”
+* Caption: “Eight arms. A little wobble. A very soft creature.”
+* Top right: a WebGPU status indicator.
+* Right side: a compact “THE SPECIMEN” control panel.
+* Bottom left: “Grab a tentacle. Pull gently. Let go.”
+
+Use clean sans-serif text for controls, thin borders, and generous whitespace. Avoid heavy panels or decorative UI effects.
+PERFORMANCE AND QUALITY
+
+* Use real WebGPU rendering, not a 2D canvas imitation or prerecorded animation.
+* Reuse geometry and buffers; do not rebuild meshes during dragging.
+* Keep suction cups, eyes, and other details attached to the deforming body.
+* Handle transparency without flickering, disappearing surfaces, or harsh black edges.
+* Support desktop and mobile layouts.
+* Show a clear fallback message if WebGPU is unavailable.
+* Test repeated grabs, strong pulls, releases, floor collisions, palette changes, pause, and reset.
+
+The result should feel like a little living gummy toy - glossy, squishy, expressive, and satisfying to stretch. Deliver the full working HTML, not a mockup or a code fragment.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105607558467559666) · [Оригінальний допис](https://x.com/cheerselflin/status/2105607558467559666) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105439105798513059"></a>
+
+### Симуляція вулкана з магматичною камерою на глибині 5 км
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-30 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105439105798513059"><img src="../assets/previews/50804065daa1682d9c6e2afd7609c5fab6eda0321e87b702a661c7e8688386e5.webp" width="840" loading="lazy" alt="Симуляція вулкана з магматичною камерою на глибині 5 км"></a>
+
+**Промпт**
+
+```text
+Створіть за допомогою Opus 5.5 симуляцію вулкана. Магматична камера — на глибині 5 км.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build with Opus 5.5 a volcano simulation. Magma chamber 5 km down.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105439105798513059) · [Оригінальний допис](https://x.com/konstantinsaifo/status/2105439105798513059) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2105412081692352654"></a>
+
+### Золота мініатюрна 3D-діорама з пірамідами
+
+[demon](https://x.com/demonugc) · 2026-09-30 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2105412081692352654"><img src="../assets/previews/53dc9ac495ab30d8a0a2a7e3b34af9f171ad8ad1d8d519293b0706e11aeabbf3.webp" width="840" loading="lazy" alt="Золота мініатюрна 3D-діорама з пірамідами"></a>
+
+**Промпт**
+
+```text
+{
+  "task": "побудувати піраміди в 3D. обертати камеру",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "розділений екран, 1 модель з кожного боку" },
+  "scene": "золота мініатюрна діорама, тилт-шифт, темне сутінкове освітлення, гладка різьблена піраміда, храм, маленькі піраміди, потріскана площа, рельєфна місцевість",
+  "animation": "піраміда морфиться від основи до вершини, без робітників, без пандусів, без блоків",
+  "camera": "безперервне обертання на 150 градусів, синхронно з обох боків",
+  "overlay": "лише назва моделі + таймер"
+}
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+{
+  "task": "build the pyramids in 3D. rotate the camera",
+  "video": { "duration": "15s", "ratio": "16:9", "layout": "split screen, 1 model per side" },
+  "scene": "golden miniature diorama, tilt-shift, dark dusk lighting, smooth carved pyramid, temple, small pyramids, cracked plaza, contour terrain",
+  "animation": "pyramid morphs in from base to tip, no workers, no ramps, no blocks",
+  "camera": "continuous 150 degree orbit, synced on both sides",
+  "overlay": "model name + timer only"
+}
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2105412081692352654) · [Оригінальний допис](https://x.com/demonugc/status/2105412081692352654) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105353400040964192"></a>
+
+### Желейний прес
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105353400040964192"><img src="../assets/previews/6756b12ceba906b5c863073748d982373629031b3506f966d220cfe590e66807.webp" width="840" loading="lazy" alt="Желейний прес"></a>
+
+**Промпт**
+
+```text
+Створіть «Желейний прес»: інтерактивну 3D-іграшку в одному HTML-файлі (увесь JS, CSS і WGSL-шейдери вбудовані, зовнішні ресурси — лише Google Fonts). Використовуйте WebGPU; якщо WebGPU або адаптер недоступні, показуйте зрозуміле повідомлення про це, а не порожню сторінку.
+
+КОНЦЕПЦІЯ
+Чотири напівпрозорі желейні фрукти лежать по одному на сталевій платформі гідравлічного преса. Гравець утримує велику червону кнопку, щоб опустити прес. Желейка стискається й розтікається, показник тиску зростає, а трохи вище половини початкової висоти вона розлітається на шматки. Після вибуху гра НЕ завершується: гравець може хапати шматочки, перетягувати їх, жбурляти та знову стискати.
+
+ЖЕЛЕЙКИ (кнопки внизу, клавіші 1–4)
+1. Скибка кавуна (пластина у формі півдиска): червона м’якоть із темним насінням-краплинками, світла смужка шкірки, зелена смугаста оболонка.
+2. Скибка апельсина (півдиск): помаранчеві часточки, розділені тонкими білими перегородками, світла серцевина, помаранчева шкірка.
+3. Половинка інжиру: рожева м’якоть із безліччю дрібного золотого насіння, кремовий шар, темно-фіолетова шкірка.
+4. Кільце ананаса: золотиста волокниста м’якоть із радіальними прожилками та отвором посередині.
+Кожна желейка має виглядати як справжня гумова цукерка: підповерхневе розсіювання, м’яка напівпрозорість, глянцеві відблиски, м’які тіні на теплому студійному підлозі (кремово-бежевий, із тональним мапінгом).
+
+ФІЗИКА (на CPU, фіксований крок 60 Гц)
+- Тетраедральне м’яке тіло XPBD із 8 підкроками: коротаційне узгодження форми для кожного тетраедра, обмеження об’єму для кожного тетраедра, жорсткі межі деформації ребер (0.35×–1.8×), демпфування швидкості вздовж ребер, контакт із підлогою з тертям Кулона, опір коченню та плавне осідання майже нерухомих об’єктів.
+- Візуальну сітку деформуйте на CPU через барицентричне вбудовування в тетраедри; нормалі перераховуйте за трикутниками кожного кадру.
+- Пуансону преса надайте вигляд кінематичної круглої плити (радіус приблизно 1.05, заокруглений край, певна товщина, над нею — шток). Унизу вона діє як стеля з тертям, зверху — як полиця, а на ободі — як бічна стінка. Дві стійки преса мають бути суцільними.
+- Показник тиску в барах отримуйте з контактного навантаження плити та масштабуйте для кожного фрукта.
+
+РОЗЛАМУВАННЯ
+- Розлам відбувається під час випадкового стискання до 52–66% висоти желейки.
+- Плануйте розлам у фоновому режимі невдовзі після початку кожного раунду, щоб сам вибух відбувався миттєво.
+- Створюйте 5–7 великих шматків із 3D-комірок Вороного зі злегка нахиленими стінками. У 3–4 шматків відсікайте дальній кут двома площинами розрізу та додатково діліть його на 2–4 дрібні уламки, утворюючи нерівні краї з виїмками.
+- Призначайте тетраедри коміркам за центроїдом. Дублюйте частинки для кожного фрагмента. Дрібні острівці об’єднуйте із сусідніми.
+- Нове тіло успадковує старі положення та швидкості.
+- Обрізайте трикутники оболонки за півпросторами кожної комірки й заповнюйте кожну площину розрізу чистою плоскою кришкою, на якій видно внутрішню частину фрукта (м’якоть, насіння, перегородки). Розтягнутих трикутників і дірок бути не повинно.
+- Відкидайте шматочки назовні й угору з-під преса. Дрібні уламки мають летіти швидше й вище та обертатися з випадковим обертанням.
+- Показуйте великий курсивний вердикт приблизно 2,5 секунди, а потім згасіть його: «Шльоп.» (кавун), «Вичавлено.» (апельсин), «Ну, це вже джем.» (інжир), «Розчавлено.» (ананас). Додайте рядок статистики: «Здався на N барах і на N% своєї висоти.»
+
+ПІСЛЯ ВИБУХУ: РЕЖИМ ГРИ
+- Вибір: перевірка променя й трикутника проти деформованої сітки, зі зручним резервним визначенням у просторі екрана для сенсорного керування.
+- Захоплення закріплює вибрану ділянку (радіус приблизно 0.4, лише частинки цього фрагмента) на цільовій точці площини перетягування, повернутої до камери. Дрібні уламки рухаються як одне ціле; великі шматки розтягуються й гойдаються, наче желе.
+- Під час відпускання кидайте шматок зі швидкістю вказівника.
+- Шматки стикаються один з одним. Якщо частинку виявлено всередині тетраедра іншого фрагмента, виштовхуйте її крізь найближчу грань оболонки цього фрагмента з урахуванням тертя. Використовуйте широку фазу AABB фрагментів і просторовий хеш тетраедрів оболонки.
+- Шматки залишаються на сцені: передбачте бічні стінки та невидимий передній край, щоб ніщо не опинялося під елементами керування або за камерою.
+- Прес і далі працює: утримуйте кнопку, щоб знову стиснути шматки (без повторного розламування); кнопка «Підняти» підіймає плиту.
+- Вологі звуки «плюськ» під час падіння; під час захоплення — тихе чвакання.
+- Курсор: відкрита долоня над шматками, стиснута долоня під час перетягування. Перетягування порожнього простору обертає камеру.
+
+ІНТЕРФЕЙС (мінімалістичний, редакційний)
+- Логотип угорі ліворуч: «JELLY PRESS» жирними вузькими великими літерами, причому «PRESS» заповнене жовто-чорними попереджувальними смугами. Підзаголовок: «Чотири желейки. Один гідравлічний прес.»
+- Угорі праворуч: кнопки «Скинути» та перемикач звуку.
+- Нижня панель:
+  - Рядок підпису з фразами, що змінюються під час пресування: «Контакт.» → «Усе гаразд. Це ж желе.» → «Стає ширшим.» → «Тепер це млинець.» → «Воно видає звук.» → «Будь ласка.»
+  - Круговий манометр (дуга 0–400 бар із червоною зоною) навколо червоної кнопки «УТРИМУВАТИ», кнопки «Підняти» та великого числового показника барів.
+  - Кнопки фруктів з іконками.
+- У режимі гри в області підпису показуйте «Схопи шматок. Жбурни його.» та маленькі кнопки «Натиснути ще раз» і «Наступна желейка».
+- Керування: утримуйте пробіл або ArrowDown, щоб пресувати, ArrowUp — щоб підняти, R — щоб скинути, 1–4 — щоб вибрати фрукт. Колесо миші масштабує; подвійне клацання скидає вигляд.
+- Камера: низький ракурс на рівні верстака; рама преса повертається навколо вертикальної осі для кожного фрукта, щоб стійки ніколи не закривали желейку. Композиція адаптується так, щоб желейка містилася між логотипом і нижньою панеллю; на телефонах (портретна орієнтація) сцена стає вужчою.
+
+ЗВУК (процедурний Web Audio, без файлів)
+Гул гідравлічного двигуна, що посилюється разом із тиском, вологе чвакання, поодинокі скрипи за високого тиску, гучний удар клапана, коли плита зупиняється, гучний вибух і тихі плюськи під час падіння. Розблокуйте звук під час першої взаємодії.
+
+ПЛАНКА ЯКОСТІ
+- Плавні 60 кадрів/с на ноутбуці.
+- Фонове попереднє завантаження сіток і шейдерів інших фруктів, щоб перемикання відбувалося миттєво.
+- Поважайте prefers-reduced-motion.
+- Доступні підписи, манометр із role=meter, контури для focus-visible.
+- Помилок у консолі не має бути. Сторінка ніколи не повинна ставати порожньою.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.  CONCEPT Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.  THE JELLIES (chips at the bottom, keys 1–4) 1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin. 2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel. 3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin. 4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle. Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).  PHYSICS (CPU, fixed 60 Hz step) - XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still. - Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame. - The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid. - Pressure readout in bar comes from the platen's contact load, scaled per fruit.  THE BURST - Break at a random squash between 52% and 66% of the jelly's height. - Plan the fracture in the background shortly after each round starts, so the burst itself is instant. - 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges. - Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours. - The new body adopts the old positions and velocities. - Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes. - Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin. - Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."  AFTER THE BURST: PLAY MODE - Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch. - Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly. - Releasing throws the piece with the pointer's velocity. - Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets. - Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera. - The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen. - Wet "plop" sounds on landings; a small squelch on grab. - Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.  UI (editorial, minimal) - Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press." - Top-right: Reset and Sound toggle. - Bottom deck:   - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."   - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.   - Fruit chips with icons. - In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons. - Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view. - Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.  SOUND (procedural Web Audio, no files) Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.  QUALITY BAR - Smooth 60 fps on a laptop. - Background warm-up of the other fruits' meshes and shaders so switching is instant. - Respect prefers-reduced-motion. - Accessible labels, a gauge with role=meter, focus-visible outlines. - No console errors. The page never goes blank.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2105353400040964192) · [Оригінальний допис](https://x.com/vib3coded/status/2105353559327887843) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2105323534398763307"></a>
 
 ### Відтворіть сцену в Isaac Sim
@@ -2552,476 +2961,6 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 </details>
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103504887439065439) · [Оригінальний допис](https://x.com/ajith_io/status/2103449416325890146) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103502454750920925"></a>
-
-### WebGL2-гра у жанрі «пісочниця» на виживання
-
-[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="WebGL2-гра у жанрі «пісочниця» на виживання"></a>
-
-**Промпт**
-
-```text
-Створіть браузерну гру-пісочницю в дусі Minecraft, яка буде максимально схожою на оригінал. Увесь внутрішньоігровий текст — англійською. Керування: клавіатура та миша (настільний комп’ютер).
-
-ТЕХНІЧНІ ВИМОГИ
-- Один HTML-файл, чистий WebGL2, без сторонніх бібліотек.
-- Усі текстури 16×16 генеруються в коді як піксель-арт (камінь, земля, трава, дошки, листя, руди, скло, вода, лава тощо).
-- Звуки синтезуються за допомогою WebAudio: копання, кроки, встановлення блоків, отримання шкоди, моби, вибухи, спокійна фонова музика.
-
-СВІТ
-- Нескінченний світ із чанків розміром 16×16×128, із заданим seed.
-- Біоми: рівнини, ліс, березовий ліс, тайга, сніжна тундра, пустеля, гори, океани, пляжі.
-- Печери (звивисті тунелі та великі підземні порожнини), лава на нижніх рівнях, руди залежно від глибини: вугілля, залізо, золото, алмази.
-- Три типи дерев, висока трава, квіти, кактуси, цукрова тростина, гарбузи.
-- Освітлення в стилі Minecraft: світло неба та світло блоків (смолоскипи, світлокамінь, лава), що поширюються клітинка за клітинкою, із плавним освітленням і затіненням навколишнього середовища.
-- Цикл дня і ночі: сонце, місяць, зорі, заходи сонця, тривимірні хмари, туман на відстані, дощ.
-- Вода й лава течуть рівнями; два джерела утворюють нескінченну воду; вода + лава утворюють обсидіан або кругляк. Пісок і гравій падають.
-
-ГРАВЕЦЬ
-- Вид від першої особи, колізії, стрибки, біг, присідання (гравець не зісковзує з країв), плавання, драбини, шкода від падіння.
-- Руйнування блоків зі стадіями тріщин і частинками; час руйнування залежить від інструмента.
-- Видимі рука та предмет у руці з анімацією замаху. Вид від третьої особи за клавішею F5.
-
-ВИЖИВАННЯ
-- Здоров’я, голод, насичення, запас повітря під водою.
-- Інструменти з 5 матеріалів, кожен із міцністю; броня з 4 матеріалів.
-- Інвентар із крафтингом 2×2, верстак із сіткою 3×3, піч із паливом, скрині, ліжко (пропуск ночі та встановлення точки відродження).
-- Випадання предметів, смерть і відродження.
-- Моби: свині, корови, вівці, кури (розведення, стрижка); уночі — зомбі, скелети з луками, павуки. Зомбі та скелети горять на сонці.
-- Фермерство: мотика, насіння, ріст пшениці, хліб. Двері, паркани, хвіртки, TNT.
-
-ТВОРЧИЙ РЕЖИМ
-- Політ подвійним натисканням пробілу, миттєве руйнування блоків, каталог усіх блоків із вкладками та пошуком.
-
-ІНТЕРФЕЙС
-- Титульний екран із панорамою світу, список світів (створити / видалити / грати), параметри (поле зору, дальність промальовування, чутливість, звук, яскравість, масштаб інтерфейсу).
-- Меню паузи, екран смерті, HUD (панель швидкого доступу, сердечка, голод, броня, бульбашки повітря), екран налагодження F3.
-- Чат із командами: /gamemode, /time, /give, /tp, /summon, /weather.
-- Світи зберігаються в localStorage.
-
-ОБМЕЖЕННЯ
-- Не використовуйте назву, логотип, текстури чи персонажів Minecraft (Steve, Creeper тощо): дайте грі власну назву та розробіть власних мобів.
-
-ТЕСТУВАННЯ
-- Запустіть гру в безголовому браузері, перевірте кожну систему та виправте помилки перед передаванням результату.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103502454750920925) · [Оригінальний допис](https://x.com/kepochnik/status/2103524317443363241) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103486103831339269"></a>
-
-### Воксельний японський сад у Three.js
-
-[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Воксельний японський сад у Three.js"></a>
-
-**Промпт**
-
-```text
-Створіть деталізований японський сад у воксельному стилі в Three.js із пагодою, крихітними мешканцями, летючим драконом та інтерактивними елементами.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103486103831339269) · [Оригінальний допис](https://x.com/marcthecreatorr/status/2103486103831339269) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103483174957597035"></a>
-
-### Навігація 3D-пагодою
-
-[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="Навігація 3D-пагодою"></a>
-
-**Промпт**
-
-```text
-Реалізуйте код, який дасть змогу переміщатися пагодою в 3D.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Implement code to be able to navigate in a pagoda in 3D.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103483174957597035) · [Оригінальний допис](https://x.com/BuildFastWithAI/status/2103483174957597035) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103482826519986544"></a>
-
-### Створення морської свинки в Blender
-
-[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="Створення морської свинки в Blender"></a>
-
-**Промпт**
-
-```text
-Створи морську свинку в Blender
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Blenderでモルモットを作って
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103482826519986544) · [Оригінальний допис](https://x.com/kayokojoe/status/2103482826519986544) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103480081809346597"></a>
-
-### Вільне дослідження 3D-містечка з сакурами в аніме-стилі
-
-[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="Вільне дослідження 3D-містечка з сакурами в аніме-стилі"></a>
-
-**Промпт**
-
-```text
-Будь ласка, використайте Three.js, щоб створити «вільне для дослідження 3D-містечко з сакурами в аніме-стилі» в одному HTML-файлі, а потім опублікуйте його як вебсторінку, якою можна ділитися.
-
-[Технічні обмеження]
-- Використовуйте лише three.js r128 (UMD-збірку) з cdnjs. Не завантажуйте зовнішні моделі чи зображення — генеруйте всі моделі, текстури та вивіски магазинів процедурно за допомогою коду й Canvas.
-- Використовуйте оригінальні назви всіх магазинів, написи та персонажів. Не імітуйте жоден реальний бренд або наявну роботу.
-- Використовуйте MeshStandardMaterial або MeshPhongMaterial. Уникайте високої металічності та карт відбиття середовища (на деяких комп’ютерах через них об’єкти можуть відображатися без кольору).
-- Об’єднуйте статичні об’єкти за матеріалом у невелику кількість мешів, щоб сцена працювала на звичайних комп’ютерах; додайте перемикач якості High / Medium / Low.
-
-[Сцена: «桜ヶ丘 (Сакураґаока)», невелике японське містечко весняного дня]
-1. Торгова вулиця: головна вулиця, що простягається з півночі на південь, із понад 20 магазинами по обидва боки (раменною, кав’ярнею, велосипедною крамницею, книгарнею, квітковим магазином, крамницею японських солодощів, аптекою, міні-маркетом тощо). Кожен магазин має: багаторядкову вивіску (назва магазину + назва англійською + номер телефону), смугастий навіс із фестончастим краєм, заглиблений вхід із добре помітною глибиною інтер’єру та вуличну вітрину (ящики з фруктами, стійку з журналами, вітрину зі зразками їжі, перукарський стовп, що обертається). На верхніх поверхах є вікна, кондиціонери, балкони з розвішаною білизною та телевізійні антени на дахах.
-2. Деталі вулиці: електричні стовпи з безліччю повітряних дротів, декоративні вуличні ліхтарі з прапорцями торгової вулиці, гірлянди фестивальних ліхтариків, квадратна тротуарна плитка з жовтою тактильною смугою, решітки зливостоків, знаки «止まれ» («Стоп») і автобусна зупинка.
-3. Залізничний переїзд і потяги: двоколійна залізниця. Коли наближається потяг, червоні вогні переїзду блимають почергово, лунає дзвінок, а шлагбауми опускаються. Приміський потяг із двох вагонів зупиняється на станції приблизно на 14 секунд, а потім вирушає. Вікна прозорі, тож усередині видно сидіння та поручні.
-4. Станція з острівною платформою: табличка з назвою станції, навіс над платформою, лавки та торговельний автомат.
-5. Площа із сакурою: столітня вишня з круговою лавкою навколо стовбура.
-6. Святилище Інарі: великі кіноварні торії та ряд малих торіїв, кам’яні ліхтарі, статуї лисиць, зал для молитов (дах мідно-зеленого кольору, тіґі, кацуоґі, скринька для пожертв, підвішений дзвін), фонтан для ритуального обмивання (темідзуя), статуї дзідзо, таблички ема, священне дерево та гравійне покриття.
-7. Набережна річки: два ряди сакур, що утворюють квітковий тунель, ліхтарі, річка, будинки на протилежному березі та далекі гори.
-
-[Як створити сакури (ключова частина)]
-- Орієнтуйтеся на сорт Сомей-Йосіно: стовбур низько розділяється на 3–4 основні гілки, які рекурсивно розгалужуються ще на три рівні. Гілки розходяться в боки й трохи звисають на кінчиках, утворюючи загальну форму парасольки.
-- Створіть крону з десятків тисяч «карток скупчень цвіту»: намалюйте на Canvas п’ятипелюсткові квіти (з виїмками на кінчиках пелюсток, червонуватими серединками та тичинками), а позаду квітів додайте м’який рожевий базовий шар. Використовуйте alphaTest і двобічне відображення карток.
-- Додайте всередину крони кілька рожевих заповнювальних скупчень для надання об’єму. Зовнішні та верхні частини мають бути світлішими, а внутрішні й нижні — із теплими рожевими тінями.
-- Використовуйте ніжно-рожевий, а не неоново-рожевий колір. Крона має м’яко коливатися на вітрі, земля під кожним деревом — бути вкрита килимом опалих пелюсток, а пелюстки — постійно падати в повітрі (за допомогою шейдера).
-
-[Персонажі]
-- Понад 20 учнів і містян в аніме-стилі: анімація ходьби із суглобами колін та ліктів, намальовані на Canvas аніме-обличчя (великі очі, відблиски, рум’янець), які моргають, чубчики з окремих пасом, різноманітні зачіски (довге волосся, боб, хвіст, що погойдується, два хвостики), матроські форми, шкільні піджаки та повсякденний одяг. Відображайте персонажів із двотоновим cel-shading і темним контуром.
-- Люди ходять вулицею, спілкуються на площі, чекають на платформі, моляться у святилищі та їздять велосипедами вздовж набережної.
-
-[Транспорт]
-- Створюйте автомобілі екструдуванням силуету в профіль (із колісними арками, вікнами, фарами, японськими номерними знаками та колесами, що обертаються). Автомобілі зупиняються перед залізничним переїздом і, поки лунає дзвінок, чекають, доки шлагбауми піднімуться.
-
-[Освітлення та час доби]
-- М’який вигляд аніме-фону: блакитне небо з білими хмарами (шейдер), легкий серпанок удалині та тіні з синьо-фіолетовим відтінком.
-- Додайте перемикання між режимами Afternoon / Dusk / Night Sakura. Уночі засвічуються вікна, ліхтарі та вуличні лампи.
-
-[Керування]
-- Від першої особи: WASD — ходьба, Shift — біг, Space — стрибок, F — політ, миша — огляд навколо (блокування вказівника), цифрові клавіші — телепортація до кожної локації, H — приховати інтерфейс, M — вимкнути звук.
-- На мобільних пристроях: перетягуйте пальцем по лівій половині екрана для ходьби, а по правій — для огляду навколо.
-- Увімкніть зіткнення, щоб гравець міг піднятися на платформу та сходами.
-- Використовуйте Web Audio для генерації атмосферного звуку: шуму вітру, співу птахів, дзвінка на переїзді та звуків руху потяга.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
-
-[Technical constraints]
-- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
-- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
-- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
-- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
-
-[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
-1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
-2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
-3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
-4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
-5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
-6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
-7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
-
-[How to build the cherry trees (key part)]
-- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
-- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
-- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
-- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
-
-[Characters]
-- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
-- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
-
-[Vehicles]
-- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
-
-[Lighting and time of day]
-- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
-- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
-
-[Controls]
-- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
-- Mobile: drag on the left half to walk, drag on the right half to look around.
-- Collision is enabled, and the player can walk up onto the platform and steps.
-- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103480081809346597) · [Оригінальний допис](https://x.com/pound75423/status/2103480085319942353) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103456264785424530"></a>
-
-### 3D-моделювання одягу для VRChat
-
-[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="3D-моделювання одягу для VRChat"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
-
-**Промпт**
-
-```text
-Створи одяг для VRChat
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-VRChat用の衣装作って
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103456264785424530) · [Оригінальний допис](https://x.com/Noir4247/status/2103456264785424530) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2103432732386664591"></a>
-
-### Желе з пітайї
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="Желе з пітайї"></a>
-
-**Промпт**
-
-```text
-Створіть інтерактивну 3D-сцену під назвою «Желе з пітайї» — половинку пітайї з м’якого напівпрозорого желе. Побудуйте весь проєкт в одному HTML-файлі, використовуючи справжній рендеринг WebGPU та шейдери WGSL. Не використовуйте готові моделі чи зображення.
-
-APPEARANCE
-
-Велика половинка пітайї лежить зрізом догори на світлій студійній поверхні.
-Насичено-малинова шкірка, тонкий світлий внутрішній шар і перламутрово-біла м’якоть.
-Приблизно 250 крихітних чорних насінин, природно розподілених по м’якоті.
-12–14 м’ясистих пелюсток шкірки навколо плода, з переходом від рожевих основ до зелених кінчиків.
-Глянцева волога поверхня зі заломленням світла, дрібними внутрішніми бульбашками та м’якою контактною тінню.
-Матеріал має нагадувати м’яку желейну цукерку, а не твердий пластик. Збережіть насичені кольори, не допускаючи пересвічених відблисків.
-
-ФІЗИКА ТА ВЗАЄМОДІЯ
-
-Реалізуйте справжню деформацію м’якого тіла за допомогою об’ємної сітки з пружними зв’язками та обмеженнями, що зберігають об’єм, наприклад XPBD.
-Користувачі можуть хапати м’якоть мишею або пальцем, розтягувати її та відпускати.
-Деформація має зосереджуватися навколо точки захоплення, а не просто зміщувати весь об’єкт.
-Після відпускання плід має хитатися, тремтіти й поступово повертатися до початкової форми.
-Зробіть пелюстки шкірки перетягуваними окремо. Вони мають бути м’якшими за м’якоть, згинатися та пружно повертатися назад, залишаючись прикріпленими до плода.
-Насінини мають рухатися разом із деформованою поверхнею, не відриваючись і не занурюючись у м’якоть.
-Забезпечте стабільність симуляції під час сильного розтягування, контакт із підлогою та захист від інвертованих елементів.
-
-ВІЗУАЛЬНИЙ ДИЗАЙН
-
-Використайте мінімалістичний світлий інтерфейс у стилі студії з редакційною естетикою: багато вільного простору, тонкі рамки, стримані елементи керування та жодного зайвого декору.
-
-Угорі ліворуч:
-«MATERIAL STUDIES / NO. 019»
-Великий курсивний заголовок із засічками у два рядки:
-«Желе з пітайї».
-
-Під ним:
-«Трохи дике».
-«Трохи солодке».
-«Дуже м’який дракон».
-Праворуч додайте плаваючу панель із заголовком «THE SPECIMEN», що містить:
-
-Плашка щільності: ρ 1.04 g/cm³.
-Три пресети:
-Pearl — біла м’якоть і рожева шкірка.
-Ruby — малинова м’якоть і рожева шкірка.
-Gold — світла м’якоть і золотиста шкірка.
-Повзунки Firmness та Internal damping із видимими значеннями.
-Кнопки «Give it a nudge» та «Reset».
-
-Прапорці «¼ speed» і «Show mesh».
-
-Кнопка «Pause».
-Також додайте:
-Кнопку повноекранного режиму з можливістю вийти з нього.
-Індикатор стану «WEBGPU · LIVE».
-Поточні показники маси, відсотка відновленого об’єму та кінетичної енергії.
-Коротку підказку щодо взаємодії: «Потягніть м’якоть. Смикніть пелюстку. Відпустіть».
-Згортаний розділ «Inside the experiment» із точним поясненням реалізації.
-ТЕХНІЧНІ ВИМОГИ
-Надайте один самодостатній файл із назвою pitaya-jelly-webgpu.html.
-
-Використовуйте справжній рендеринг WebGPU, а не імітацію на Canvas 2D.
-
-Створіть усю геометрію процедурно.
-Використовуйте заломлення з урахуванням товщини, відбиття Френеля та м’яке студійне освітлення.
-Використовуйте фіксований часовий крок симуляції для стабільної поведінки.
-Підтримайте взаємодію на комп’ютерах і сенсорних пристроях, а також адаптивне компонування.
-Не допускайте дорогої реконструкції геометрії чи компіляції шейдерів під час перетягування.
-
-Показуйте зрозуміле повідомлення-пояснення, якщо WebGPU недоступний.
-
-Перевірте перетягування, відпускання, відновлення форми, пресети, скидання, паузу, повноекранний режим і мобільне компонування.
-Головні пріоритети — переконлива поведінка желе, красиві матеріали та приємна взаємодія. Результат має сприйматися як відшліфований ігровий експеримент із матеріалом.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
-
-APPEARANCE
-
-A large dragon fruit half resting cut-side up on a light studio surface.
-Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
-Approximately 250 tiny black seeds distributed naturally across the flesh.
-12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
-A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
-The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
-
-PHYSICS AND INTERACTION
-
-Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
-Users can grab the flesh with a mouse or finger, stretch it, and release it.
-Deformation should concentrate around the grabbed point rather than simply translating the entire object.
-After release, the fruit should wobble, jiggle, and gradually recover its original shape.
-Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
-Seeds must follow the deforming surface without floating away or sinking into the flesh.
-Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
-
-VISUAL DESIGN
-
-Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
-
-Top left:
-“MATERIAL STUDIES / NO. 019”
-A large italic serif heading on two lines:
-“Pitaya Jelly.”
-
-Below it:
-“A little wild.”
-“A little sweet.”
-“A very soft dragon.”
-On the right, add a floating panel titled “THE SPECIMEN” containing:
-
-Density badge: ρ 1.04 g/cm³.
-Three presets:
-Pearl — white flesh and pink skin.
-Ruby — raspberry-colored flesh and pink skin.
-Gold — pale flesh and golden skin.
-Firmness and Internal damping sliders with visible values.
-“Give it a nudge” and “Reset” buttons.
-
-“¼ speed” and “Show mesh” checkboxes.
-
-A “Pause” button.
-Also include:
-A fullscreen button with an exit option.
-A “WEBGPU · LIVE” status indicator.
-Live readouts for mass, percentage of rest volume, and kinetic energy.
-A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
-A collapsible “Inside the experiment” section explaining the implementation accurately.
-TECHNICAL REQUIREMENTS
-Deliver one self-contained file named pitaya-jelly-webgpu.html.
-
-Use actual WebGPU rendering, not a Canvas 2D imitation.
-
-Build all geometry procedurally.
-Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
-Use a fixed simulation timestep for consistent behavior.
-Support desktop and touch interaction with a responsive layout.
-Avoid expensive geometry reconstruction or shader compilation during dragging.
-
-Show a clear fallback message when WebGPU is unavailable.
-
-Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
-The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103432732386664591) · [Оригінальний допис](https://x.com/vib3coded/status/2103433535604265052) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2103428454355980558"></a>
-
-### Моушн-графічна анімація «Життєвий цикл»
-
-[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="Моушн-графічна анімація «Життєвий цикл»"></a>
-
-**Промпт**
-
-```text
-Створи динамічне 20-секундне відео з моушн-дизайном і анімацією, яке демонструє, наскільки ти неймовірний моушн-дизайнер і аніматор — ніби це твій шоу-ріл для резюме. Поклади в основу тему життєвого циклу: покажи одну й ту саму людину від дитинства через підлітковий вік і робочий цикл «з 9 до 17», далі — сімейне життя, літній вік і смерть, а потім зроби монтажний перехід, готовий плавно зациклитися на початку. Викладися на повну, використовуй усе, що потрібно.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103428454355980558) · [Оригінальний допис](https://x.com/loicRambo/status/2103428454355980558) · [Назад до прикладів](#all-prompts)
 
 ---
 

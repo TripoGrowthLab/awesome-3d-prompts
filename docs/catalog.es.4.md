@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Explorador interactivo de anatomía en 3D](#gpt-6-astra-2099206962344800541)
+- [Escena costera 3D jugable para navegador](#gpt-6-astra-2099172061092381027)
+- [Despliegue UV y rebakeo en 4K de un modelo de ropa sin cabeza](#gpt-6-astra-2098980384260456813)
+- [Animación 3D de origami que se pliega sola](#gpt-6-astra-2098909584996057283)
+- [Atlas de Chernóbil](#gpt-6-astra-2098841316591346006)
+- [Simulación de mesa de arena cinética](#gpt-6-astra-2098831830002851846)
+- [Reconstrucción 3D de la Exposición Universal de Chicago de 1893](#gpt-6-astra-2098795017955418202)
+- [Marco modular impreso en 3D con uniones](#gpt-6-astra-2098774359926297011)
 - [Juego de vuelo Skybound para navegador](#gpt-6-astra-2098739181510164652)
 - [DEVICE: juego de puzles 3D fotorrealista que utiliza el propio smartphone](#gpt-6-astra-2098715488369152087)
 - [Vídeo demostrativo de construcción 3D de un templo antiguo zen](#gpt-6-astra-2098697876155076820)
@@ -70,16 +78,392 @@
 - [Patio chino interactivo](#gpt-6-astra-2096971051334857181)
 - [Mundo paisajístico para VRChat: «El horizonte donde la gravedad se rompió»](#gpt-6-astra-2096966425017467344)
 - [Calle en miniatura infinita en Three.js WebGPU](#gpt-6-astra-2096956214680965501)
-- [Escena 3D de Hogwarts](#gpt-6-astra-2096907617117540478)
-- [Crea un slime blando e interactivo con Three.js y WebGPU](#gpt-6-astra-2096793432987464010)
-- [Asset de videojuego de una minifigura LEGO con Blender MCP](#astra-3d-2096766465730847059)
-- [Vista explosionada interactiva de un smartphone](#gpt-6-astra-2096685163111694556)
-- [Juego de exploración 3D Mini World](#gpt-6-astra-2096641728497275011)
-- [Render de la Tierra girando en Blender](#gpt-6-astra-2096637194270134742)
-- [RPG de acción de fantasía oscura en Three.js](#gpt-6-astra-2096637091627364531)
-- [Videojuego de aventuras de fantasía costera: Windhaven](#gpt-6-astra-2096629506047955327)
 
 </details>
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### Explorador interactivo de anatomía en 3D
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="Explorador interactivo de anatomía en 3D"></a>
+
+**Prompt**
+
+```text
+Crea un explorador de anatomía en 3D atractivo e interactivo utilizando conjuntos de datos científicos disponibles públicamente. Comienza con una vista externa que se vuelva gradualmente transparente al acercar el zoom, para revelar la anatomía subyacente.
+
+Permite rotar el modelo, separar estructuras, seleccionar regiones etiquetadas y activar o desactivar capas desde un panel lateral. Añade pestañas independientes para anatomía, conexiones y células individuales, con señales animadas y controles ajustables.
+
+Usa una interfaz moderna y minimalista, con iluminación suave, colores sutiles, transiciones fluidas y muy poco texto. Incluye flechas y un breve tutorial visual. Haz que funcione en ordenadores y dispositivos móviles.
+
+Utiliza geometría anatómica real cuando esté disponible, cita las fuentes y distingue claramente los datos científicos de las animaciones ilustrativas. Crea un sitio web funcional.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099206962344800541) · [Publicación original](https://x.com/k1rallik/status/2099206962344800541) · [Código fuente](https://github.com/bubblik525/cat_brain_anatomy) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### Escena costera 3D jugable para navegador
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="Escena costera 3D jugable para navegador"></a>
+
+**Prompt**
+
+```text
+> bloquear la especificación (TZ-gta-slice.md)
+
+prompt: "Crea una escena costera 3D jugable para navegador. No cambies esta especificación una vez bloqueada. Primero, el distrito y el clip. Después, los controles."
+
+> la pila tecnológica (Vite, TypeScript sin framework, Three.js, cannon-es, Web Audio)
+
+prompt: "La pila tecnológica es fija. Vite. TypeScript sin framework. Three.js. cannon-es. Web Audio. Una sola URL del navegador."
+
+> el encuadre (atardecer sobre el agua, asfalto mojado, palmeras)
+
+prompt: "Un solo distrito costero. Atardecer sobre el agua. Asfalto mojado. Palmeras. Centra la escena en la iluminación y la cámara, no en el número de polígonos. Nada de iluminación gris predeterminada. No uses cubos sin texturas."
+
+> los tres (una escena, un coche, unos 20 segundos)
+
+prompt: "Mantén a los tres en una sola escena. Hablan. Después, se sientan en un solo coche. Unos 20 segundos. Prioriza la calidad sobre añadir más controles."
+
+> el corte (de 15 a 20 segundos, que sea fluido)
+
+prompt: "Si hay tirones, recorta el clip a entre 15 y 20 segundos. Haz que sea fluido. Si baja la tasa de fotogramas, elimina peatones, no la iluminación."
+
+> el sonido (voces humanas, un colchón sonoro bajo las líneas, el retumbo del coche)
+
+prompt: "Las voces deben sonar humanas, no robóticas. Un colchón sonoro sutil bajo las líneas, nunca por encima. Cuando se sienten, añade un retumbo grave de coche, no un sonido de sierra. Nada de ruido de estática de radio."
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2099172061092381027) · [Publicación original](https://x.com/Lummox_eth/status/2099172061092381027) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### Despliegue UV y rebakeo en 4K de un modelo de ropa sin cabeza
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="Despliegue UV y rebakeo en 4K de un modelo de ropa sin cabeza"></a>
+
+**Prompt**
+
+```text
+En Blender MCP, ejecuta el despliegue UV del «modelo sin cabeza que incluye la ropa y las extremidades» seleccionado y vuelve a hornear sus texturas existentes en 4K.
+
+El objetivo es conservar el aspecto original y crear unas UV cuya estructura se entienda como la de un patrón de ropa y que resulte fácil de redibujar después. Procede como lo haría un artista: observación → diseño de seams → despliegue por partes → corrección de la distorsión → disposición → bake.
+
+1. Conservar los datos originales
+Antes de empezar, guarda una copia con otro nombre, conserva las UV, imágenes y materiales anteriores, y crea un nuevo mapa UV llamado «UV\_Final».
+No modifiques la forma, la topología, el orden de los vértices, los pesos, las shape keys ni el rig.
+
+2. Observar el modelo y diseñar los seams
+Comprueba todas las vistas con la textura original y la visualización de wireframe para entender la composición de las piezas de ropa y las costuras reales.
+En la ropa, sigue la estructura del patrón —cuerpo, mangas, cuello, etc.— y abre las piezas aprovechando las costuras laterales y la parte interior de las mangas. En la piel y las extremidades, coloca los seams en zonas poco visibles, como la parte interior o los laterales, y crea una disposición que permita abrirlas de forma natural hasta los espacios entre los dedos.
+No confundas las arrugas ni los estampados con costuras y no crees islas pequeñas e innecesariamente fragmentadas.
+
+3. Desplegar por partes y corregir la distorsión
+No proceses todo de una vez: ejecuta Unwrap por partes.
+Con un checker con texto que utilice UV\_Final y la visualización Stretch, comprueba el estiramiento, la compresión, la torsión, las inversiones y las superposiciones.
+Según la causa del problema, añade o elimina seams, ajusta con Pin, Relax u otras herramientas y vuelve a comprobar el resultado. No te limites a repetir el mismo despliegue automático; conserva las partes que ya se hayan mejorado.
+No conviertas la subdivisión automática completa mediante Smart UV Project en el resultado final.
+
+4. Ajustar la dirección del tejido, la densidad y la disposición
+En la ropa, alinea la dirección vertical principal de cada pieza con la dirección V de las UV, tomando como referencia la dirección del tejido. No deformes a la fuerza en rectángulos los patrones que tengan curvas.
+Uniformiza la densidad de texel en relación con las dimensiones reales y orienta las piezas de forma que se entienda la correspondencia entre izquierda y derecha.
+Después, empaqueta las islas en el área de 0 a 1 manteniendo su orientación y escala relativa. No superpongas las piezas izquierda y derecha ni las gires arbitrariamente.
+Como valores iniciales para el bake en 4K, usa un margen de 16 px, al menos 32 px entre islas y al menos 16 px desde el borde exterior de la imagen.
+
+5. Hornear en 4K desde las UV antiguas a las nuevas
+Fija explícitamente la referencia de la textura original a las UV antiguas y transfiérela a una imagen nueva de 4096 × 4096 usando UV\_Final como destino del bake.
+En cada material, activa el nodo de imagen de destino del bake, realiza una prueba y después ejecuta el bake final.
+Para el color base, usa únicamente el valor Color de Diffuse o Emit; no hornees iluminación, sombras ni AO nuevos. Conserva las sombras dibujadas en la imagen original.
+Transfiere también, cuando sea necesario, los mapas existentes, como el de transparencia, y vuelve a hornear las normales tangentes según las nuevas UV; no las transfieras simplemente como color.
+
+6. Confirmar el resultado comparando lo nuevo con lo antiguo
+Aplica las nuevas UV y la imagen horneada, y compara el cuerpo completo y los detalles con el original bajo las mismas condiciones de visualización.
+Comprueba la posición de los estampados, el color, la transparencia y la continuidad de los seams. Corrige las UV aplastadas, superpuestas o sin desplegar, así como los puntos negros, las zonas vacías y los emborronados del bake.
+Determina si el trabajo está terminado basándote en los resultados de la comprobación, no en «cuántas veces se ha hecho el despliegue».
+
+Guarda el archivo terminado.blend, las imágenes en 4K, el layout UV y capturas de comprobación de los seams, el checker y el aspecto final, e informa brevemente de las correcciones principales.
+No te limites a explicar el plan: completa el trabajo comprobando las imágenes reales durante el proceso.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098980384260456813) · [Publicación original](https://x.com/_sagyoai/status/2098980384260456813) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### Animación 3D de origami que se pliega sola
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="Animación 3D de origami que se pliega sola"></a>
+
+**Prompt**
+
+```text
+Crea una animación 3D de origami. Una hoja cuadrada y plana debe plegarse sola, paso a paso, hasta convertirse en una figura de origami reconocible. Cada pliegue debe mostrarse como un pliegue y una rotación reales del papel. Después, la figura debe desplegarse hasta quedar plana y repetir el proceso. Tú decides en qué figura se convierte y cómo se presenta.
+
+Todo lo relacionado con el diseño queda a tu criterio: estilo, colores, ambiente, entorno, cámara, nivel de detalle y cualquier toque adicional. No me hagas preguntas; toma todas las decisiones por tu cuenta y crea la versión más impresionante que puedas en un solo intento.
+
+Requisitos técnicos: un único archivo HTML autocontenido, sin modelos, imágenes, sonidos ni URL de recursos externos de ningún tipo (se permite usar una biblioteca de JavaScript desde una CDN). Debe comenzar a ejecutarse automáticamente en cuanto se cargue, sin necesidad de hacer clic, funcionar con fluidez y no generar errores en la consola.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098909584996057283) · [Publicación original](https://x.com/free_ai_guides/status/2098909584996057283) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### Atlas de Chernóbil
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="Atlas de Chernóbil"></a>
+
+**Prompt**
+
+```text
+Crea «Atlas de Chernóbil», una exposición interactiva premium en 3D con Three.js.
+
+Investiga la central nuclear de Chernóbil intacta y el reactor RBMK mediante referencias públicas. Modela los edificios, la chimenea de celosía, la sala de turbinas, la pila de grafito, los canales de combustible, el blindaje, los tambores separadores, las bombas y las tuberías.
+
+Crea tres pestañas:
+— Bloque energético: un modelo detallado que se desmonte capa por capa mediante el desplazamiento y un control deslizante.
+— Circuito de vapor: un diagrama animado que conecte el reactor, la turbina, el condensador y las bombas.
+— Reactor en movimiento: un corte 3D con agua y vapor en movimiento, maquinaria giratoria y controles de reproducción.
+
+Añade controles independientes de visibilidad para cada sistema, separación ajustable entre piezas, modo de malla, transparencia, cortes de sección y etiquetas breves. Mantén todas las capas fáciles de inspeccionar y permite rotar libremente la cámara, incluso con el desmontaje completo.
+
+Entrega el código fuente y un archivo HTML independiente. Prueba todos los controles. Preséntalo como una interpretación educativa, no como una réplica exacta de ingeniería.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098841316591346006) · [Publicación original](https://x.com/k1rallik/status/2098841316591346006) · [Código fuente](https://github.com/bubblik525/Chernobyl_Atlas) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### Simulación de mesa de arena cinética
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="Simulación de mesa de arena cinética"></a>
+
+**Prompt**
+
+```text
+Crea una simulación de mesa de arena cinética. Una bola debe desplazarse por un lecho de arena y dejar un rastro visible mientras dibuja patrones geométricos completos; después, debe alisar la arena y comenzar automáticamente un patrón nuevo y diferente. Debe alternar entre muchos patrones distintos sin repetirlos. Tú eliges todo lo relacionado con el aspecto y los patrones.
+
+Todas las decisiones de diseño dependen de ti: estilo, colores, ambiente, entorno, cámara, nivel de detalle y cualquier otro toque adicional. No me hagas preguntas; toma todas las decisiones por tu cuenta y crea la versión más impresionante que puedas en un único intento.
+
+Requisitos técnicos: un único archivo HTML autocontenido, sin modelos, imágenes, sonidos ni URL de recursos externos de ningún tipo (se permite usar una biblioteca de JavaScript desde una CDN). Debe empezar a ejecutarse por sí solo en cuanto se cargue, sin necesidad de hacer clic, y funcionar con fluidez y sin errores en la consola.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098831830002851846) · [Publicación original](https://x.com/free_ai_guides/status/2098831830002851846) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### Reconstrucción 3D de la Exposición Universal de Chicago de 1893
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="Reconstrucción 3D de la Exposición Universal de Chicago de 1893"></a>
+
+**Prompt**
+
+```text
+Descarga 2.000 fotografías históricas y material de referencia sobre la feria, y utiliza toda la información recopilada para crear una reconstrucción 3D en Blender.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098795017955418202) · [Publicación original](https://x.com/moreisdifferent/status/2098795017955418202) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### Marco modular impreso en 3D con uniones
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="Marco modular impreso en 3D con uniones"></a>
+
+**Prompt**
+
+```text
+Quiero imprimir un marco con una impresora 3D, pero como es muy pequeña, prefiero un diseño que se complete conectando varias piezas. Como las uniones normales son un poco aburridas, hagámoslo con uniones más interesantes.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2098774359926297011) · [Publicación original](https://x.com/wada/status/2098774359926297011) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098739181510164652"></a>
 
 ### Juego de vuelo Skybound para navegador
@@ -4186,248 +4570,6 @@ Build me an endless miniature street in three.js WebGPU: a courier bicycle ridin
 </details>
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096956214680965501) · [Publicación original](https://x.com/creativedash/status/2096956214680965501) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### Escena 3D de Hogwarts
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Escenas
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="Escena 3D de Hogwarts"></a>
-
-**Prompt**
-
-```text
-Usa Headless Blender para crear un modelo 3D de gran escala, muy realista y completamente detallado del Colegio Hogwarts de Magia y Hechicería de Harry Potter. Incluye el entorno natural circundante, lugares emblemáticos, interiores fieles y objetos. Ofrece materiales, iluminación, renderizado y diseño sonoro con calidad cinematográfica, una atmósfera misteriosa y niebla dinámica que se desplace lentamente. Permite explorar libremente el entorno y proporciona ajustes configurables para la iluminación y otras opciones visuales.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096907617117540478) · [Publicación original](https://x.com/HiltonMisia/status/2096907617117540478) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### Crea un slime blando e interactivo con Three.js y WebGPU
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Crea un slime blando e interactivo con Three.js y WebGPU"></a>
-
-**Prompt**
-
-```text
-Crea un directorio nuevo y desarrolla una página con un slime jugable en el navegador. Usa Three.js y WebGPU; no recurras a WebGL.
-En el centro debe haber un slime redondo y regordete, rosa o verde azulado, semitransparente y con burbujas apenas visibles en su interior. El usuario debe poder presionarlo y arrastrarlo con el ratón; al soltarlo, debe balancearse hasta recuperar su forma. Añade un poco de gravedad para que pueda caer suavemente sobre una mesa invisible. No lo hagas como una esfera rígida: debe tener una sensación blanda y carnosa.
-Coloca una cara simpática: dos ojos negros como cuentas y una boquita pequeña, que se deformen junto con la superficie; no los separes del cuerpo. En la parte derecha, añade unos controles sencillos para el color, la suavidad y la amortiguación. El botón «Darle un toque» debe hacer que salte ligeramente.
-Mantén la página limpia, con un fondo gris claro y un título grande. Debe funcionar a 60 fotogramas por segundo. Primero genera una imagen de referencia del resultado objetivo y después construye la página basándote en ella; añade más detalles solo cuando la captura de pantalla se parezca al objetivo.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096793432987464010) · [Publicación original](https://x.com/Delroy715/status/2096793432987464010) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### Asset de videojuego de una minifigura LEGO con Blender MCP
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Asset de videojuego de una minifigura LEGO con Blender MCP"></a>
-
-**Prompt**
-
-```text
-Usa Blender MCP para crear una versión de Donald Trump como minifigura LEGO que pueda utilizar como asset de videojuego. Haz que tenga una calidad excepcional, propia de un videojuego AAA, y somete tu trabajo a una revisión exhaustiva para asegurarte de que sea detallado, preciso y excelente.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/astra-3d-2096766465730847059) · [Publicación original](https://x.com/_simonsmith/status/2096766465730847059) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### Vista explosionada interactiva de un smartphone
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Vista explosionada interactiva de un smartphone"></a>
-
-**Prompt**
-
-```text
-Crea una visualización 3D interactiva en vista explosionada de un smartphone moderno. Separa el dispositivo en sus componentes principales y permite desmontarlo y volver a montarlo con un control deslizante. Al hacer clic en un componente, debería aislarse y mostrar una explicación de su función. Incluye la batería, las cámaras, el SoC, la memoria, las capas de la pantalla, los altavoces, los sensores, las antenas y la placa lógica. Prioriza una interfaz atractiva, inspirada en Apple, y unas interacciones satisfactorias. Crea, ejecuta, inspecciona y corrige toda la experiencia.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096685163111694556) · [Publicación original](https://x.com/zairalaraib_/status/2096685163111694556) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### Juego de exploración 3D Mini World
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Juego de exploración 3D Mini World"></a>
-
-**Prompt**
-
-```text
-Creemos un juego llamado Mini World. Es un juego de exploración de un mundo 3D, con una interfaz gráfica atractiva y de alta calidad, diseñado para que sea divertido y fácil de jugar para mi hijo de cuatro años y medio. Debe ser posible acercar y alejar la cámara. Desde lejos, el mundo parece una pequeña esfera, pero en su interior cuenta con distintas regiones para explorar. Una región puede parecer un bosque, otra un desierto, y también puede haber océanos en los que el personaje pueda nadar. El juego debe resultar divertido y ofrecer una experiencia jugable, con un personaje capaz de recorrer distintas partes del mundo, explorar diversos entornos y descubrir cosas por el camino. Considera que conseguir que todo funcione correctamente es el objetivo principal. El diseño debe ser atractivo y probarse minuciosamente mediante ciclos iterativos, para que el movimiento, el zoom, la exploración, la natación, los entornos, los controles y la experiencia general funcionen de forma fluida y coordinada. Sigue probándolo y mejorándolo hasta que todo funcione de manera fiable y el juego esté pulido, sea intuitivo y resulte divertido para un niño pequeño.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096641728497275011) · [Publicación original](https://x.com/weijianzhang_/status/2096641728497275011) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### Render de la Tierra girando en Blender
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Render de la Tierra girando en Blender"></a>
-
-**Prompt**
-
-```text
-En Blender, crea un render espectacular de 5 segundos de la Tierra girando, vista desde el espacio.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096637194270134742) · [Publicación original](https://x.com/JohnKlerAI/status/2096637194270134742) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### RPG de acción de fantasía oscura en Three.js
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="RPG de acción de fantasía oscura en Three.js"></a>
-
-**Prompt**
-
-```text
-Usa Three.js para crear desde cero un RPG de acción de fantasía oscura en 3D, pulido y totalmente jugable.
-
-Usa una cámara de seguimiento cenital en ángulo. El escenario es un gran santuario gótico invadido por el bosque, con torres en ruinas, galerías porticadas, puentes de piedra cubiertos de musgo, colinas onduladas, arroyos, cascadas y fogatas. Crea una atmósfera con múltiples capas mediante materiales realistas, iluminación cinematográfica, una ligera neblina, vegetación agitada por el viento y agua en movimiento.
-
-El protagonista es un poderoso caballero con una armadura pesada de acero y oro, elaborada con gran detalle, una capa ondeante y una espada rúnica y un escudo resplandecientes. El personaje debe poder moverse, atacar con la espada, rodar, bloquear, curarse y lanzar magia con círculos mágicos enormes, haces de luz y efectos de rayos. Tras derrotar a los guardias, el jugador debe enfrentarse a un jefe caballero gigante con astas.
-
-Las animaciones de ataque, los efectos visuales y las direcciones de los impactos deben coincidir siempre con la dirección hacia la que mira el personaje. Incluye un HUD pulido en chino tradicional, una pantalla de equipamiento del personaje y flujos completos de victoria, derrota y reinicio.
-
-Encárgate de forma independiente del modelado, la creación o adquisición de recursos, la programación y la optimización del rendimiento. Busca un acabado visual de nivel AAA. Prueba el juego continuamente, revisa los aspectos visuales y corrige los problemas hasta entregar un juego completo y jugable, instrucciones para iniciarlo y el código fuente.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096637091627364531) · [Publicación original](https://x.com/HiltonMisia/status/2096637091627364531) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### Videojuego de aventuras de fantasía costera: Windhaven
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Videojuego de aventuras de fantasía costera: Windhaven"></a>
-
-**Prompt**
-
-```text
-Diseña un juego conmigo. El juego debe estar creado en Unity. Usa primero los recursos predeterminados; los sustituiré más adelante.
-Estilo del juego:
-Un videojuego de aventuras de fantasía costera estilizada y de alta calidad, ambientado en una pequeña ciudad insular bañada por el sol llamada Windhaven. La ciudad está construida con piedra caliza de marfil cálido y arenisca dorada, rodeada de aguas turquesas cristalinas, y cuenta con tejados de cobre verde azulado, puestos de mercado a la sombra, accesos arqueados, frondosos árboles en los patios, fuentes talladas, balizas mágicas resplandecientes y un templo monumental que domina la ciudad. Un joven explorador solitario, con capa de viaje y mochila, recorre la plaza central en dirección al templo. El entorno transmite una sensación de paz, misterio, antigüedad y magia sutil, con influencias arquitectónicas mediterráneas y norteafricanas. Materiales PBR estilizados de gran detalle, superficies de piedra trabajadas a mano, desgaste sutil, elegantes tallas decorativas, suave luz de la tarde, largas sombras cinematográficas, paleta de colores turquesa y dorado cálido, dirección artística pulida propia de un juego de aventuras AA, cámara de juego en tercera persona, plano general de presentación, diseño ambiental cohesionado, rutas y puntos de referencia claramente legibles, sin interfaz de usuario, sin texto, sin logotipos ni objetos modernos.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/gpt-6-astra-2096629506047955327) · [Publicación original](https://x.com/tripoai/status/2096629506047955327) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

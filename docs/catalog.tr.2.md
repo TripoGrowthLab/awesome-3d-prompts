@@ -28,6 +28,14 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [WebGL2 sandbox hayatta kalma oyunu](#claude-opus-5-5-2103502454750920925)
+- [Three.js'te voxel tarzı Japon bahçesi](#gpt-6-astra-2103486103831339269)
+- [3B Pagodada Gezinme](#claude-opus-5-5-2103483174957597035)
+- [Blender'da kobay oluştur](#gpt-6-astra-2103482826519986544)
+- [Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası](#claude-opus-5-5-2103480081809346597)
+- [VRChat için kıyafet 3B modelleme](#gpt-6-astra-2103456264785424530)
+- [Pitaya Jelly](#gpt-6-astra-2103432732386664591)
+- [Yaşam döngüsünü anlatan hareketli grafik animasyonu](#claude-opus-5-5-2103428454355980558)
 - [Altın saat ışığında Roma savaş alanı sahnesi](#gpt-6-astra-2103351755971207251)
 - [STILLWATER — Ay Işığındaki Bataklık Tarayıcı Deneyimi](#gpt-6-astra-2103308083242082314)
 - [Etkileşimli 3B okyanus roket fırlatma sekansı](#claude-opus-5-5-2103303303358534021)
@@ -70,16 +78,436 @@
 - [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](#claude-opus-5-5-2102538762731565085)
 - [Gün batımında sinematik, etkileşimli korsan gemisi](#claude-opus-5-5-2102533729746882985)
 - [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](#claude-opus-5-5-2102529695908806728)
-- [İç mekânı dâhil iki katlı banliyö evi](#gpt-6-astra-2102473710724919614)
-- [Etkileşimli kalabalık tahliye simülasyonu](#claude-opus-5-5-2102467667978572092)
-- [Battle City 3D: Sonsuz Tank Savunması](#battle-city-3d)
-- [Etkileşimli 3B Tarih Öncesi Ada](#claude-opus-5-5-2102450239923720440)
-- [Sir, We Have Orc Problems tarzında kule savunma oyunu](#gpt-6-astra-2102411087002112256)
-- [Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu](#gpt-6-astra-2102276620124062065)
-- [Bubble Bay: 3B Su Balonu Savaşı](#bubble-bay)
-- [Etkileşimli 3B helikopter tasarım sunumu](#gpt-6-astra-2102215638311694336)
 
 </details>
+<a id="claude-opus-5-5-2103502454750920925"></a>
+
+### WebGL2 sandbox hayatta kalma oyunu
+
+[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="WebGL2 sandbox hayatta kalma oyunu"></a>
+
+**İstem**
+
+```text
+Minecraft ruhunu taşıyan ve mümkün olduğunca orijinaline yakın hissettiren bir tarayıcı sandbox oyunu oluştur. Oyun içindeki tüm metinler İngilizce olsun. KONTROLLER: Klavye ve fare (masaüstü).  TEKNİK - Tek bir HTML dosyası kullan; düz WebGL2 kullan ve üçüncü taraf kütüphaneleri kullanma. - 16×16 boyutundaki tüm dokuları kod içinde piksel sanatı olarak oluştur (taş, toprak, çimen, kalas, yaprak, cevher, cam, su, lav vb.). - Kazma, ayak sesleri, blok yerleştirme, hasar, yaratıklar, patlamalar ve sakin arka plan müziği için WebAudio ile sesler sentezle.  DÜNYA - Seed değerine sahip, 16×16×128 boyutunda chunk'lardan oluşan sonsuz bir dünya oluştur. - Biyomlar: ovalar, orman, huş ormanı, tayga, karlı tundra, çöl, dağlar, okyanuslar, sahiller. - Mağaralar (kıvrımlı tüneller ve büyük kovuklar), alt seviyelerde lav, derinliğe göre cevherler: kömür, demir, altın, elmas. - Üç ağaç türü, uzun çimen, çiçekler, kaktüsler, şeker kamışı, balkabakları. - Minecraft tarzı aydınlatma: hücreden hücreye yayılan gökyüzü ışığı ve blok ışığı (meşaleler, glowstone, lav); yumuşak aydınlatma ve ortam perdelemesi kullan. - Gündüz/gece döngüsü: güneş, ay, yıldızlar, gün batımları, 3B bulutlar, mesafe sisi, yağmur. - Su ve lav seviyelere göre aksın; iki su kaynağı sonsuz su oluştursun; su + lav, obsidyen veya kırık taş oluştursun. Kum ve çakıl düşsün.  OYUNCU - Birinci şahıs bakış açısı, çarpışmalar, zıplama, depar, gizlenme (kenarlardan düşmeyi önler), yüzme, merdivenler ve düşme hasarı. - Blok kırma sırasında çatlak aşamalarını ve parçacıkları göster; kırma süresi alete bağlı olsun. - Sallanma animasyonuyla görünen el ve elde tutulan eşya. F5 ile üçüncü şahıs görünümü.  HAYATTA KALMA - Can, açlık, doygunluk ve su altında hava. - Dayanıklılığa sahip 5 malzemeden aletler ve 4 malzemeden zırh. - 2×2 üretim alanına sahip envanter, 3×3 üretim masası, yakıt kullanan fırın, sandıklar, yatak (geceyi atla ve doğma noktasını belirle). - Eşya düşürme, ölüm ve yeniden doğma. - Yaratıklar: domuzlar, inekler, koyunlar, tavuklar (üreme, kırkma); geceleri zombiler, yay kullanan iskeletler ve örümcekler. Zombiler ve iskeletler güneş ışığında yansın. - Tarım: çapa, tohumlar, buğday yetiştirme, ekmek. Kapılar, çitler, çit kapıları, TNT.  YARATICI - Space tuşuna iki kez basarak uçma, anında blok kırma, sekmeler ve arama içeren tüm blokların kataloğu.  ARAYÜZ - Dünya panoramasını gösteren başlık ekranı, dünya listesi (oluştur / sil / oyna), seçenekler (görüş alanı, çizim mesafesi, hassasiyet, ses, parlaklık, arayüz ölçeği). - Duraklatma menüsü, ölüm ekranı, HUD (hızlı erişim çubuğu, kalpler, açlık, zırh, hava kabarcıkları), F3 hata ayıklama ekranı. - Şu komutları destekleyen sohbet: /gamemode, /time, /give, /tp, /summon, /weather. - Dünyalar localStorage içinde kaydedilsin.  KISITLAMALAR - Minecraft adını, logosunu, dokularını veya karakterlerini (Steve, Creeper vb.) kullanma: oyuna kendi adını ver ve yaratıklarını kendin tasarla.  TEST - Oyunu başsız bir tarayıcıda çalıştır; teslim etmeden önce her sistemi kontrol et ve hataları düzelt.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103502454750920925) · [Orijinal gönderi](https://x.com/kepochnik/status/2103524317443363241) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103486103831339269"></a>
+
+### Three.js'te voxel tarzı Japon bahçesi
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Three.js'te voxel tarzı Japon bahçesi"></a>
+
+**İstem**
+
+```text
+Three.js'te pagoda, minik köylüler, uçan bir ejderha ve etkileşimli ayrıntılar içeren, ayrıntılı bir voxel tarzı Japon bahçesi oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103486103831339269) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2103486103831339269) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103483174957597035"></a>
+
+### 3B Pagodada Gezinme
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="3B Pagodada Gezinme"></a>
+
+**İstem**
+
+```text
+3B bir pagodada gezinmeyi sağlayacak kodu uygulayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Implement code to be able to navigate in a pagoda in 3D.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103483174957597035) · [Orijinal gönderi](https://x.com/BuildFastWithAI/status/2103483174957597035) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103482826519986544"></a>
+
+### Blender'da kobay oluştur
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="Blender'da kobay oluştur"></a>
+
+**İstem**
+
+```text
+Blender'da bir kobay oluştur
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103482826519986544) · [Orijinal gönderi](https://x.com/kayokojoe/status/2103482826519986544) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103480081809346597"></a>
+
+### Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası
+
+[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası"></a>
+
+**İstem**
+
+```text
+Lütfen Three.js kullanarak "serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası" oluşturun; bunu tek bir HTML dosyası olarak hazırlayın ve ardından paylaşılabilir bir web sayfası olarak yayımlayın.
+
+[Teknik kısıtlamalar]
+- cdnjs üzerinden yalnızca three.js r128 (UMD derlemesi) kullanın. Harici model veya görsel yüklemeyin — tüm modelleri, dokuları ve dükkân tabelalarını kod ve Canvas ile prosedürel olarak oluşturun.
+- Tüm dükkân adları, tabelalar ve karakterler için özgün içerik kullanın. Gerçek bir markayı veya mevcut bir çalışmayı taklit etmeyin.
+- MeshStandardMaterial veya MeshPhongMaterial kullanın. Yüksek metalness değerlerinden ve ortam yansıma haritalarından kaçının (bazı bilgisayarlarda nesnelerin renksiz görünmesine neden olabilirler).
+- Sıradan bilgisayarlarda iyi çalışması için sabit nesneleri malzemelerine göre birleştirerek az sayıda mesh kullanın; High / Medium / Low kalite seçeneği sunun.
+
+[Sahne: "桜ヶ丘 (Sakuragaoka)", bahar öğleden sonrasında küçük bir Japon kasabası]
+1. Alışveriş caddesi: Her iki tarafında 20'den fazla dükkân bulunan, kuzey-güney yönünde uzanan bir ana cadde (ramen dükkânı, kafe, bisikletçi, kitapçı, çiçekçi, Japon tatlıları dükkânı, eczane, market vb.). Her dükkânda şunlar bulunmalı: birden çok satırlı tabela (dükkân adı + İngilizce adı + telefon numarası), saçaklı kenarı tarak biçimli çizgili tente, iç kısmı görünür derinliğe sahip geriye çekilmiş bir dükkân cephesi ve kaldırım sergisi (meyve kasaları, dergi rafı, yiyecek maketi vitrini, dönen berber direği). Üst katlarda pencereler, klima üniteleri, asılı çamaşırlı balkonlar ve çatıda TV antenleri bulunmalı.
+2. Cadde ayrıntıları: Çok sayıda havai kabloya sahip elektrik direkleri, alışveriş caddesi afişleri asılı dekoratif sokak lambaları, festival feneri dizileri, sarı hissedilebilir yüzeyli kare kaldırım taşları, ızgara giderler, "止まれ" dur işaretleri ve bir otobüs durağı.
+3. Hemzemin geçit ve trenler: Çift hatlı demiryolu. Bir tren yaklaştığında geçidin kırmızı ışıkları sırayla yanıp söner, zil çalar ve bariyerler iner. İki vagonlu banliyö treni istasyonda yaklaşık 14 saniye durur ve ardından hareket eder. Pencereler şeffaf olmalı; içerideki koltuklar ve tutamaklar görünür olmalı.
+4. Ada peronlu istasyon: İstasyon adı panosu, peron kanopisi, banklar ve bir otomat.
+5. Sakura meydanı: Çevresinde dairesel bir bank bulunan 100 yıllık kiraz ağacı.
+6. Inari tapınağı: Büyük bir kırmızı-turuncu torii ve arka arkaya dizilmiş küçük torii'ler, taş fenerler, tilki heykelleri, ibadet salonu (bakır yeşili çatı, chigi, katsuogi, adak kutusu, asılı çan), arınma çeşmesi (temizuya), jizo heykelleri, ema levhaları, kutsal ağaç ve çakıl zemin.
+7. Nehir kıyısındaki set: Bir çiçek tüneli oluşturan iki sıra kiraz ağacı, fenerler, bir nehir, karşı kıyıdaki evler ve uzaktaki dağlar.
+
+[Kiraz ağaçlarını oluşturma (temel bölüm)]
+- Ağaçları Somei-Yoshino çeşidinden esinlenerek modelleyin: gövde alçakta 3–4 ana dala ayrılmalı ve bu dallar üç seviye daha özyinelemeli olarak dallanmalı. Dallar dışa doğru yayılmalı ve uçlarda hafifçe aşağı sarkarak genel olarak şemsiye biçimi oluşturmalı.
+- Taç kısmını on binlerce "çiçek kümesi kartı" ile oluşturun: Canvas üzerine beş taç yapraklı çiçekler çizin (çentikli taç yaprağı uçları, kırmızımsı merkezler ve erkek organlar) ve çiçeklerin arkasına yumuşak pembe bir taban katmanı ekleyin. Kartlar için alphaTest ve çift taraflı render kullanın.
+- Hacim vermek için taç kısmının içine birkaç pembe dolgu kümesi ekleyin. Dış ve üst kısımlar daha parlak; iç ve alt kısımlar ise sıcak gül tonlu gölgelere sahip olmalı.
+- Neon pembe yerine açık pembe kullanın. Ağaç taçları rüzgârda hafifçe sallanmalı, her ağacın altında yere düşmüş taç yapraklarından bir örtü bulunmalı ve taç yaprakları havada düşmeye devam etmeli (shader ile yapılmalı).
+
+[Karakterler]
+- 20'den fazla anime tarzı öğrenci ve kasaba sakini: diz ve dirsek eklemlerini kullanan yürüme animasyonu, Canvas üzerine çizilmiş ve göz kırpan anime yüzleri (büyük gözler, göz parıltıları, allık), ayrı tutamlardan oluşan kaküller ve çeşitli saç stilleri (uzun, küt, sallanan at kuyruğu, çift kuyruk) kullanın; denizci üniforması / blazer üniforması / günlük kıyafetler ekleyin. Karakterleri iki tonlu cel shading ve koyu bir dış çizgiyle render edin.
+- İnsanlar caddede yürümeli, meydanda sohbet etmeli, peronda beklemeli, tapınakta dua etmeli ve set boyunca bisiklete binmeli.
+
+[Araçlar]
+- Arabaları, yan profil silüetini dışa doğru uzatarak oluşturun (tekerlek kemerleri, pencereler, farlar, Japon plakaları ve dönen tekerlekler ekleyin). Arabalar hemzemin geçitten önce durmalı ve zil çalarken bariyerler kalkana kadar beklemeli.
+
+[Aydınlatma ve günün saati]
+- Yumuşak anime arka planı görünümü kullanın: beyaz bulutlu mavi gökyüzü (shader), uzakta hafif pus ve mavi-mor tonlu gölgeler.
+- Afternoon / Dusk / Night Sakura arasında geçiş yapılabilmeli. Gece olduğunda pencereler, fenerler ve sokak lambaları yanmalı.
+
+[Kontroller]
+- Birinci şahıs: Yürümek için WASD, koşmak için Shift, zıplamak için Space, uçmak için F, etrafa bakmak için fare (pointer lock), her konuma ışınlanmak için sayı tuşları, arayüzü gizlemek için H, sesi kapatmak için M.
+- Mobil: Yürümek için sol yarıda sürükleyin, etrafa bakmak için sağ yarıda sürükleyin.
+- Çarpışma etkin olmalı; oyuncu perona ve basamaklara yürüyerek çıkabilmeli.
+- Ortam seslerini oluşturmak için Web Audio kullanın: rüzgâr, kuş sesleri, hemzemin geçit zili ve tren hareket sesleri.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
+
+[Technical constraints]
+- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
+- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
+- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
+- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
+
+[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
+1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
+2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
+3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
+4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
+5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
+6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
+7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
+
+[How to build the cherry trees (key part)]
+- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
+- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
+- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
+- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
+
+[Characters]
+- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
+- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
+
+[Vehicles]
+- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
+
+[Lighting and time of day]
+- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
+- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
+
+[Controls]
+- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
+- Mobile: drag on the left half to walk, drag on the right half to look around.
+- Collision is enabled, and the player can walk up onto the platform and steps.
+- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103480081809346597) · [Orijinal gönderi](https://x.com/pound75423/status/2103480085319942353) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103456264785424530"></a>
+
+### VRChat için kıyafet 3B modelleme
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="VRChat için kıyafet 3B modelleme"></a>
+
+**Referans görseller:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
+
+**İstem**
+
+```text
+VRChat için bir kıyafet oluştur
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+VRChat用の衣装作って
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103456264785424530) · [Orijinal gönderi](https://x.com/Noir4247/status/2103456264785424530) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103432732386664591"></a>
+
+### Pitaya Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="Pitaya Jelly"></a>
+
+**İstem**
+
+```text
+“Pitaya Jelly” adlı etkileşimli bir 3B sahne oluşturun — yumuşak, yarı saydam jöleden yapılmış bir ejder meyvesi yarımı. Projenin tamamını, gerçek WebGPU ile oluşturma ve WGSL shader'ları kullanarak tek bir HTML dosyasında geliştirin. Hazır model veya görsel varlık kullanmayın.
+
+APPEARANCE
+
+Açık renkli bir stüdyo yüzeyinde, kesik tarafı yukarı bakacak şekilde duran büyük bir ejder meyvesi yarımı.
+Yoğun frambuaz pembesi kabuk, ince ve açık renkli bir iç kabuk ile sedefimsi beyaz meyve eti.
+Meyve etine doğal biçimde dağılmış yaklaşık 250 küçük siyah çekirdek.
+Meyvenin çevresinde, pembe tabanlardan yeşil uçlara geçiş yapan 12–14 etli kabuk yaprağı.
+Işığı kıran, içinde küçük kabarcıklar bulunan parlak ve ıslak bir yüzey ile yumuşak bir temas gölgesi.
+Malzeme sert plastik gibi değil, yumuşak jelibon gibi görünmeli. Aşırı patlamış parlak alanlar oluşturmadan doygun renkleri koruyun.
+
+FİZİK VE ETKİLEŞİM
+
+Elastik bağlantılara ve hacmi koruyan kısıtlamalara, örneğin XPBD'ye sahip hacimsel bir mesh kullanarak gerçek yumuşak cisim deformasyonu uygulayın.
+Kullanıcılar meyve etini fare veya parmakla tutup esnetebilmeli ve bırakabilmeli.
+Deformasyon, tüm nesneyi yalnızca ötelemek yerine, tutulan noktanın çevresinde yoğunlaşmalı.
+Bırakıldıktan sonra meyve sallanmalı, titreşmeli ve yavaşça özgün şekline dönmeli.
+Kabuk yapraklarını tek tek sürüklenebilir yapın. Meyve etinden daha yumuşak olmalı, meyveye bağlı kalırken bükülüp eski hâline dönmeliler.
+Çekirdekler, yüzey deforme olurken yüzeyi takip etmeli; havada süzülmemeli veya meyve etinin içine gömülmemeli.
+Güçlü çekişler sırasında zemine temas sağlayarak ve ters dönmüş elemanlara karşı koruma uygulayarak simülasyonu kararlı tutun.
+
+GÖRSEL TASARIM
+
+Editoryal estetiğe sahip, minimal ve açık temalı bir stüdyo arayüzü kullanın: bol beyaz alan, ince kenarlıklar, ölçülü kontroller ve gereksiz süslemeler olmasın.
+
+Sol üst:
+“MALZEME ÇALIŞMALARI / NO. 019”
+İki satırdan oluşan, büyük ve italik serif başlık:
+“Pitaya Jelly.”
+
+Bunun altında:
+“Biraz vahşi.”
+“Biraz tatlı.”
+“Çok yumuşak bir ejderha.”
+Sağa, içinde aşağıdaki öğelerin bulunduğu ve başlığı “NUMUNE” olan yüzen bir panel ekleyin:
+
+Yoğunluk rozeti: ρ 1.04 g/cm³.
+Üç hazır ayar:
+Pearl — beyaz meyve eti ve pembe kabuk.
+Ruby — frambuaz renkli meyve eti ve pembe kabuk.
+Gold — açık renkli meyve eti ve altın rengi kabuk.
+Değerleri görünür olan Sertlik ve İç sönümleme kaydırıcıları.
+“Bir dürtme ver” ve “Sıfırla” düğmeleri.
+
+“¼ hız” ve “Mesh'i göster” onay kutuları.
+
+Bir “Duraklat” düğmesi.
+Ayrıca şunları ekleyin:
+Çıkış seçeneği bulunan bir tam ekran düğmesi.
+Bir “WEBGPU · CANLI” durum göstergesi.
+Kütle, dinlenim hacmi yüzdesi ve kinetik enerji için canlı değer göstergeleri.
+Kısa bir etkileşim ipucu: “Meyve etini çek. Bir yaprağı çekiştir. Bırak.”
+Uygulamanın nasıl çalıştığını doğru biçimde açıklayan, daraltılıp genişletilebilen bir “Deneyin içi” bölümü.
+TEKNİK GEREKSİNİMLER
+pitaya-jelly-webgpu.html adlı, kendi başına çalışabilen tek bir dosya teslim edin.
+
+Canvas 2D taklidi yerine gerçek WebGPU ile oluşturma kullanın.
+
+Tüm geometriyi prosedürel olarak oluşturun.
+Kalınlığı hesaba katan kırılma, Fresnel yansımaları ve yumuşak stüdyo aydınlatması kullanın.
+Tutarlı davranış için sabit bir simülasyon zaman adımı kullanın.
+Duyarlı bir yerleşimle masaüstü ve dokunmatik etkileşimi destekleyin.
+Sürükleme sırasında maliyetli geometri yeniden oluşturma veya shader derlemesinden kaçının.
+
+WebGPU kullanılamadığında net bir geri dönüş mesajı gösterin.
+
+Sürükleme, bırakma, şeklin geri kazanılması, hazır ayarlar, sıfırlama, duraklatma, tam ekran ve mobil yerleşimi doğrulayın.
+Temel öncelikler inandırıcı jöle davranışı, güzel malzemeler ve tatmin edici etkileşimdir. Sonuç, özenle hazırlanmış ve oynanabilir bir malzeme deneyi hissi vermeli.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
+
+APPEARANCE
+
+A large dragon fruit half resting cut-side up on a light studio surface.
+Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
+Approximately 250 tiny black seeds distributed naturally across the flesh.
+12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
+A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
+The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
+
+PHYSICS AND INTERACTION
+
+Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
+Users can grab the flesh with a mouse or finger, stretch it, and release it.
+Deformation should concentrate around the grabbed point rather than simply translating the entire object.
+After release, the fruit should wobble, jiggle, and gradually recover its original shape.
+Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
+Seeds must follow the deforming surface without floating away or sinking into the flesh.
+Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
+
+VISUAL DESIGN
+
+Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
+
+Top left:
+“MATERIAL STUDIES / NO. 019”
+A large italic serif heading on two lines:
+“Pitaya Jelly.”
+
+Below it:
+“A little wild.”
+“A little sweet.”
+“A very soft dragon.”
+On the right, add a floating panel titled “THE SPECIMEN” containing:
+
+Density badge: ρ 1.04 g/cm³.
+Three presets:
+Pearl — white flesh and pink skin.
+Ruby — raspberry-colored flesh and pink skin.
+Gold — pale flesh and golden skin.
+Firmness and Internal damping sliders with visible values.
+“Give it a nudge” and “Reset” buttons.
+
+“¼ speed” and “Show mesh” checkboxes.
+
+A “Pause” button.
+Also include:
+A fullscreen button with an exit option.
+A “WEBGPU · LIVE” status indicator.
+Live readouts for mass, percentage of rest volume, and kinetic energy.
+A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
+A collapsible “Inside the experiment” section explaining the implementation accurately.
+TECHNICAL REQUIREMENTS
+Deliver one self-contained file named pitaya-jelly-webgpu.html.
+
+Use actual WebGPU rendering, not a Canvas 2D imitation.
+
+Build all geometry procedurally.
+Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
+Use a fixed simulation timestep for consistent behavior.
+Support desktop and touch interaction with a responsive layout.
+Avoid expensive geometry reconstruction or shader compilation during dragging.
+
+Show a clear fallback message when WebGPU is unavailable.
+
+Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
+The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2103432732386664591) · [Orijinal gönderi](https://x.com/vib3coded/status/2103433535604265052) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103428454355980558"></a>
+
+### Yaşam döngüsünü anlatan hareketli grafik animasyonu
+
+[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="Yaşam döngüsünü anlatan hareketli grafik animasyonu"></a>
+
+**İstem**
+
+```text
+İnanılmaz bir motion designer ve animatör olduğunuzu, adeta özgeçmişiniz için hazırladığınız showreel gibi gösterecek dinamik, 20 saniyelik bir hareketli grafik ve animasyon videosu oluşturun. Konu, aynı kişinin çocukluktan ergenliğe, 9-5 çalışma döngüsüne, aile yaşamına, yaşlılığa ve ölüme uzanan yaşam döngüsü olsun; ardından video başlangıca bağlanmaya hazır bir kesmeyle sona ersin. Her şeyi en üst düzeyde yapın, ihtiyacınız olan her şeyi kullanın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103428454355980558) · [Orijinal gönderi](https://x.com/loicRambo/status/2103428454355980558) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103351755971207251"></a>
 
 ### Altın saat ışığında Roma savaş alanı sahnesi
@@ -2303,512 +2731,6 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102529695908806728) · [Orijinal gönderi](https://x.com/argofowl/status/2102529695908806728) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102473710724919614"></a>
-
-### İç mekânı dâhil iki katlı banliyö evi
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="İç mekânı dâhil iki katlı banliyö evi"></a>
-
-**İstem**
-
-```text
-Merhaba. Lütfen Blender kullanarak iç mekânı ve tüm ayrıntıları dâhil, mümkün olan en iyi iki katlı banliyö evi 3B modelini tasarla.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102473710724919614) · [Orijinal gönderi](https://x.com/azer0lxm/status/2102473781830909995) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### Etkileşimli kalabalık tahliye simülasyonu
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Etkileşimli kalabalık tahliye simülasyonu"></a>
-
-**İstem**
-
-```text
-etkileşimli bir kalabalık tahliye simülasyonu oluştur ve nerelerde tıkandığını gör
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102467667978572092) · [Orijinal gönderi](https://x.com/dominikmartn/status/2102467667978572092) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Sonsuz Tank Savunması
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D: Sonsuz Tank Savunması"></a>
-
-**İstem**
-
-```text
-1. Proje hedefi
-1985 tarihli Famicom klasiğinden ilham alan, tarayıcıda çalışan bir tank savunma oyunu olan Battle City 3D'yi geliştirin. Oyuncu bir tankı sürer, 20 düşmandan oluşan bir dalgayı yok eder, malzeme toplar ve kartal karargâhını korur. Referans medyada gösterilen mevcut perspektifli 3B sürümü; tohum tabanlı sonsuz bir harekât ve seçilebilir 35 klasik düzen dâhil olmak üzere yeniden oluşturun. Okunabilir arcade kurallarını korurken tanklara, duvarlara ve çevreye gerçek bir derinlik kazandırın.
-
-2. Görsel stil
-60 derecelik görüş alanına sahip bir Three.js PerspectiveCamera kullanın. Varsayılan savaş alanı görünümü oyuncunun arkasında ve üstünde, yaklaşık 13 dünya birimi uzaklıkta ve 0,43 radyan yükseklikte konumlansın. Tankın konumunu ve önündeki bir noktayı yumuşak biçimde takip edin; tank döndüğünde kamerayı otomatik olarak döndürmeyin. Daha yüksek bir taktik görünüm, manuel sürüklemeyle yörünge kontrolü ve tekerlekle yakınlaştırma sunun. Hareket ve ateş için dört ana harita eksenini kullanın. Yörüngede döndürme sonrasında yön tuşlarını kameraya göre en yakın ana yöne eşleyin; klavye girdisini hiçbir zaman çapraz harekete dönüştürmeyin. Kasanın yönünü atış yönüyle hemen eşleştirin; mermi ve namlu alevi yüksekliğini her modelin gerçek topuna göre ayarlayın.
-Yere oturan paletli tanklar, metalik taretler, pişmiş toprak tuğlalar, koyu çelik bloklar, mavi su, alçak bitki örtüsü ve yansıtıcı buz kullanın. Oynanabilir alanın dışındaki zemini ağaçlara, harap binalara ve sise doğru devam ettirin. Sıcak yönlü ışık, yumuşak gölgeler, ortam dolgusu, ACES ton eşleme ve ölçülü namlu alevleri, geri tepme, kıvılcım ve seken enkaz kullanın. Kar, zemin ve ağaç paletini değiştirsin; endüstriyel bölümlerde çelik ve harap binalar öne çıksın.
-Oyunu koyu zeytin tonlarında bir komuta arayüzü, sıcak sarı ana eylem rengi, skor, ortak canlar, kalan düşman simgeleri, bölüm adı ve radar ile çerçeveleyin. Büyük Tripo 3D / Three.js model seçimini savaş alanının üstüne yerleştirin; seçili modu ve dönen tank önizlemesini gösterin. Yerelleştirilmiş, resimli bir malzeme rehberi ve süreli etki göstergeleri kullanın. Dar ekranlarda oyun alanını ve temel dokunmatik kontrolleri görünür tutun.
-
-3. Dünya ve sahneler
-Savaş alanını 26'ya 26 karodan oluşan bir ızgara olarak temsil edin; tank çarpışması için yarı genişliği 0,72 olsun. Kartalı (13,25) konumuna, yok edilebilir U biçimli bir tuğla savunmasıyla çevrili şekilde yerleştirin. Oyuncu doğma noktaları (9,25) ve (17,25); düşman kapıları ise (1,1), (13,1) ve (25,1) olsun.
-İki harekât sunun: 20 düşmanlık dalga tablolarıyla birlikte 35 klasik düzenin tamamı ve çayır, kar ve endüstriyel biyomlar arasında döngü oluşturan, tohum tabanlı sonsuz bir üretici. Tam kasanın geçebileceği genişlikte bağlantılı koridorlar üretin; oyuncu doğma noktaları, düşman kapıları ve toplama nesnesi konumları arasında geçilebilir bağlantılar oluşturun. Doğrudan doğma noktasından kartala ateş hattını engellemek, ancak çapraz sokak erişimini korumak için merkezde kademeli çelik siperler ekleyin. Başlangıç biyomunu veya klasik bölümü seçmeye ve rastgele bir haritayı yeniden üretmeye izin verin. Harekât tohumunu, skoru, canları ve hayatta kalan oyuncuların geliştirmelerini bir sonraki bölüme aktarın.
-Tuğla yok edilebilir; çelik bloklar normal mermileri ve tankları durdurur; su tankları engeller, ancak mermilerin geçmesine izin verir; bitki örtüsü düşman modellerini gizler; buz çekişi azaltır. Uzak çevreyi dekoratif tutun ve oynanış çarpışmasından ayrı tutun.
-
-4. Varlık envanteri
-Bu kararlı ve birbirinden bağımsız olarak değiştirilebilen 3B model yuvalarını kullanın. Önceliği oyuncu, düşman, ağır tank ve kartala, ardından on malzeme modelinin tamamına verin. Her varlığı en alçak noktasından zemine oturtun ve yönünü, merkezini ve ölçeğini normalize edin. Her düşman için ayrı model yüklemek yerine şablonları yeniden kullanın.
-- player: Okunabilir bir tareti ve öne bakan topu olan hardal sarısı paletli tank; oyuncu tanklarında kullanılır, ikinci oyuncu için ayrı bir halka rengine sahiptir.
-- enemy: Temel, hızlı ve güçlü varyantlar için farklı tonlarla yeniden kullanılan kompakt paletli düşman tankı.
-- heavy: Standart düşman mesh'inden ayrı, gözle görülür biçimde daha ağır zırhlı bir tank; üzerinde görünen dört zırh segmenti bulunur.
-- eagle: Karargâh kaidesi üzerinde metalik altın renkli kartal heykeli.
-- pickup-star: Beş köşeli altın geliştirme yıldızı.
-- pickup-helmet: Geçici koruma sağlayan askerî kask.
-- pickup-clock: Düşman hareketini donduran, okunaklı bir saat.
-- pickup-shovel: Karargâhı güçlendiren kürek.
-- pickup-life: Bir ekstra canı temsil eden minyatür tank.
-- pickup-grenade: Etkin düşmanları yok eden el bombası.
-- pickup-ammo: Hızlı ateş sağlayan mühimmat sandığı.
-- pickup-repair: Zırhı onaran tamir alet çantası.
-- pickup-magnet: Uzaktan malzeme toplamak için at nalı mıknatısı.
-- pickup-boost: Geçici hız artışı sağlayan enerji bataryası.
-- environment-building: Yıpranmış, harap bir apartman binası, Tripo P2.0, istenen bütçe 1.800 üçgen.
-- environment-tree: Gövdesi görünen, düzensiz bir çam ağacı, Tripo P2.0, istenen bütçe 1.100 üçgen.
-- environment-bush: Alçak, yapraklı bir çalı ve çim kümeleri, Tripo P2.0, istenen bütçe 650 üçgen.
-Malzemeleri renkli halkalara ve eşleşen rehber küçük resimlerine sahip, dönen ve havada süzülen toplanabilir modeller olarak gösterin. Tekrarlanan binaları, ağaçları ve çalıları ortak geometri/malzeme örnekleriyle oluşturun. Bina ve ağaç köklerini zemine oturtun; çalı tabanını araziyle birleşmesi için biraz gömün. Kar bölümlerinde yukarı bakan yüzeylere kar ekleyin. Fayans duvarlarını, suyu, buzu, mermi mesh'lerini, kullanıcı arayüzünü, ışıkları, parçacıkları ve çarpışma proxy'lerini prosedürel olarak üretin. Suyu, dünya uzayında akan dalgalar, değişen normal'ler ve küçük yüzey yer değiştirmesiyle canlandırın; bu efekt bitişik karolar arasında kesintisiz devam etsin. Tripo sürümünde 17 üretilmiş model kullanılır; karşılaştırma sürümü her iki tankı ve çevreyi aynı kurallar ve çarpışmalarla kodla oluşturulmuş geometriye geçirir. Her ikisi de Three.js ile işlenir.
-
-5. Oynanış ve geri bildirim
-Ortak üç can havuzuyla tek oyunculu ve yerel iki oyunculu eşli oyunu destekleyin. Tek oyunculu modda WASD veya ok tuşları, ateş için Space/J kullanılır. Eşli oyunda birinci oyuncu WASD ve Space/J; ikinci oyuncu ok tuşları ve Enter/Numpad 0 kullanır. P/Escape duraklatır; C kamerayı değiştirir; 1/2 model modunu seçer. Dokunmatik ekranlarda yön tuş takımına ve ateş düğmesine aynı anda basılı tutmaya izin verin, işaretçi iptal edildiğinde girdiyi bırakın; kaydırma gerektirmeden duraklatma, devam etme, sonraki bölüm ve yeniden deneme eylemlerini sunun.
-Oyuncu hızı saniyede 4,2 birim, takviyeyle 6,3 birimdir. Düşmanlar temel, hızlı, güçlü ve ağır türlerden oluşur; ağır tankların dört can puanı vardır ve zırhsız alınan ilk üç darbeye dayanırlar. Bir türü yok etmek sırasıyla 100, 200, 300 veya 400 puan kazandırır; herhangi bir malzemeyi toplamak 500 puan verir. 20 düşman yok edildiğinde bölüm tamamlanır. Kartal yok edildiğinde veya hayatta kalan oyuncu kalmadan ortak canlar tükendiğinde oyun kaybedilir. Anında yeniden deneme, açıkça belirtilmiş sonraki bölüme geçiş ve yerel olarak kaydedilen en yüksek skor sunun.
-On malzemenin tamamını uygulayın: yıldız üç seviyede geliştirme sağlar (daha hızlı mermiler, aynı anda iki mermi, ardından çeliği delen mermiler); kask 12 saniye kalkan sağlar; saat düşmanları 9 saniye dondurur; kürek üssü 16 saniye güçlendirir; minyatür tank bir can ekler; el bombası etkin düşmanları yok eder; mühimmat, aynı anda en fazla dört etkin mermiyle 14 saniyelik hızlı ateş sağlar; tamir iki can puanı ekler, üst sınır üçtür; mıknatıs beş birim içindeki görünür malzemeleri 20 saniye boyunca toplar; hız takviyesi 12 saniye sürer. Malzeme modelleri 25 saniye boyunca kalır ve ulaşılabilir konumlarda görünür; türleri çeşitlendirmek için karıştırılmış bir deste kullanın. Mıknatısla toplama işlemi katı engellere uymalıdır.
-4,333 saniyelik bölüm açılışı, ateş etme, sürüş ve rölanti, tuğla/çelik çarpışmaları, düşman/oyuncu patlamaları, malzemenin görünmesi ve toplanması, ekstra can, zırh darbesi, buz, duraklatma ve oyun sonu için toplanmış NES tarzı örnekleri kullanın. Mevcut projede JustoSenka/BattleCity kaynağından, 3a07004ba8e53baea74ff70d2ecc22b017eb9b20 commit'ine ait 15 OGG ses işareti kullanılır. Atıflarını ve depo lisans bildirimini koruyun; bunları bit düzeyinde kusursuz donanım kaydı olduklarını iddia etmeden, toplanmış yeniden yapım sesleri olarak tanımlayın. Kullanıcı etkileşimiyle sesi etkinleştirin, örnek kazançlarını ayarlayın, ses seviyesi/sessize alma seçenekleri sunun ve sesleri olaylarla senkronize edin. Konuyla ilgisiz sürekli savaş müziği eklemeyin.
-
-6. Teknik uygulama
-TypeScript, Three.js 0.180.0 ve Vite 7 kullanın; izole bir package.json ve lockfile bulundurun. Simülasyonu işleme katmanından bağımsız tutun ve 120 Hz'de çalıştırın. Katı kasa AABB'leri, eksenleri ayrıştırılmış hareket, sınır ve tank ayrımı ve karşıt mermiler arasındaki göreli hareket çarpışması dâhil sürekli en yakın temaslı mermi taramaları kullanın. Nokta atışı duvar içinden geçişini önlemek için mermiler kasadan çıkmalı ve ileri doğru taranmalıdır. Buz hızlanması/yavaşlaması ile enkaz için sönümlü sekmeler içeren yerçekimi ekleyin. Bunlar süspansiyon simülasyonu değil, arcade tarzı zemin fiziğidir.
-Aynı origin'den GLB varlıklarını GLTFLoader ile yükleyin. Çarpışma proxy'lerini varlık geometrisinden bağımsız tutun. Mevcut çalışma zamanı niceleyicili öznitelikler ve WebP dokuları kullanır (araçlar/üs için 1024 px; malzemeler ve çevre için 512 px); geometri sadeleştirme veya WASM kod çözücü kullanılmaz. Yüklemeyi dört worker ile sınırlayın; hash sürümlü URL'ler ve 20 saniye zaman aşımı olan 256 KiB aralıklar kullanın; her aralık için en fazla üç deneme yapın. Dört temel model ve ses hazır olduktan sonra oyunu açın; malzeme ve çevre varlıklarını arka planda yükleyin ve yalnızca modeli hazır olan malzeme türlerini oluşturun. Model modu değiştirilirken oynanış durumu korunur.
-İngilizce, basitleştirilmiş Çince, Japonca ve Korece kullanıcı arayüzü sunun. Cihaz dilinden varsayılanı seçin; ancak zh-TW, zh-HK, zh-MO ve zh-Hant için varsayılan İngilizce olsun. Açıkça seçilen dili kalıcı olarak saklayın. Klavyeyi, masaüstü işaretçisini ve çoklu dokunmayı destekleyin; odak kaybında oyunu duraklatın. Tüm varlıkları, kredileri ve yeniden üretilebilir betikleri kaynak projesinde yerel tutun; özel kimlik bilgileri veya çalışma zamanı arka uç bağımlılığı içermeyen statik bir dist dizini dağıtın.
-
-7. Tamamlanma ölçütleri
-Düzenlenebilir kaynak kodu, varlık köken bilgilerini ve lisans bildirimlerini, npm geliştirme/derleme iş akışını ve oynanabilir bir statik önizlemeyi teslim edin. Varsayılan Tripo sahnesini, model karşılaştırmasını, tüm biyomları, dört darbe alan ağır tankı, her malzeme etkisini, duraklatma/devam etmeyi, yenilgi/yeniden denemeyi ve bölüm ilerlemesini doğrulayın. Kasa genişliği bağlantısını ve güvenli doğma noktalarını test etmek için tohumlanmış 1.000 haritanın yanı sıra tüm klasik haritaları, duvar içinden geçmeyi, çapraz atışları, tank ayrımını, buz momentumunu, birden çok yatay açı değerinde kameraya göre girdiyi ve durumu koruyan mod geçişlerini test edin. Yerelleştirilmiş kullanıcı arayüzünü ve dar ekranlarda iki parmak kontrollerini doğrulayın; yalnızca emülasyon kullanıldıysa fiziksel cihaz testi yapıldığını iddia etmeyin. Gerçek başlangıç ve savaş karelerini referans görselleri/videolarıyla karşılaştırın; 17 modelin ve 15 ses işaretinin tamamının yüklendiğini onaylayın. Mevcut CMS Web Page iş akışı üzerinden yayınlayın ve kaydedilmiş bir CMS kaydını tamamlanmış dağıtım olarak değerlendirmek yerine son herkese açık sayfayı doğrulayın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/battle-city-3d) · [Canlı demo](https://battle-city-3d.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102450239923720440"></a>
-
-### Etkileşimli 3B Tarih Öncesi Ada
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Etkileşimli 3B Tarih Öncesi Ada"></a>
-
-**İstem**
-
-```text
-Three.js ve WebGL kullanarak güzel, son derece ayrıntılı ve tamamen etkileşimli bir 3B tarih öncesi ada oluştur. Her şeyi doğrudan Chrome'da açılabilen, tek başına çalışan bir HTML dosyasında sun. Mümkün olduğunca varlıkları dosyaya göm.
-
-GÖRSEL YÖN
-Okyanusla çevrili, büyük ve yuvarlak hatlı bir ada oluştur; adanın su altı kesiti şeffaf biçimde görülebilsin. Sonuç; yemyeşil bitki örtüsü, etkileyici dinozorlar, zengin malzemeler, atmosferik ışıklandırma ve özenli animasyonuyla premium bir minyatür dünya hissi vermeli. Basit geometrik şekiller yerine tutarlı ve stilize bir sanat yönetimi kullan.
-ISLAND
-Kumsallar, kayalık uçurumlar, yoğun tarih öncesi ormanlar, dev eğrelti otları, bir şelale, tatlı su göleti ve bir yanardağ içeren çeşitli araziler oluştur. Küçük bir araştırma istasyonu, ahşap yürüyüş yolları, gözlem platformları, erzak sandıkları ve dinozor yuvaları ekle. Dinozorların farklı bölgeler arasında doğal biçimde hareket edebilmesi için adayı yeterince geniş tasarla.
-
-SU KESİTİ
-Su, adanın çevresinde derin ve yuvarlak hatlı bir hacim oluşturmalı; yanlarından su altı manzarası net biçimde görülebilmeli. Dokulu bir deniz tabanı, kayalar, su bitkileri, balıklar, kabarcıklar ve yüzeyin altında yüzen yeşil bir deniz sürüngeni ekle. Sıradan kara dinozorlarını su altına yerleştirme ve denizaltı ekleme.
-Hareketli dalgalar, Fresnel yansımaları, su altı ışık desenleri, kıyı köpükleri ve su sıçramaları kullan. Şeffaflık sıralama hatalarından ve ada ile su arasında görünen boşluklardan kaçın.
-
-DINOSAURS
-Uzun boyunlu bir sauropod, Triceratops, Stegosaurus, büyük bir teropod ve daha küçük sürü hayvanları gibi birbirinden belirgin birkaç tür ekle. Yukarıda daireler çizen pterozorlar ekle.
-Her türe ayırt edilebilir anatomi, biçimlendirilmiş gövdeler, eklemli uzuvlar, ayrıntılı başlar, kuyruklar ve uygun deri desenleri ver. Tamamlanmış dinozorları belirgin kutulardan veya birbirinden kopuk kürelerden bir araya getirme.
-
-DOĞAL ANİMASYON
-Eklemleri doğru konumlandırılmış hiyerarşik iskeletler kullan. Yürüme animasyonunda belirgin basma ve savrulma fazları olmalı: Ayaklar temas sırasında yere sabit kalmalı ve her adımda düzgünce kalkmalı. Adım uzunluğunu hareket hızına uyarla.
-
-Ayakları yerde tutmak için arazi örnekleme ve ters kinematik kullan. Ağırlık aktarımları, ince gövde hareketleri, dengeli kuyruk hareketleri, baş dönüşleri ve nefes alıp verme ekle. Dinozorlar asla havada süzülmemeli, kaymamalı, zeminin içine girmemeli veya binaların, kayaların, ağaçların ya da birbirlerinin içinden geçmemeli.
-Engellerden kaçınma ve güvenli yollar kullan. Farklı türlerin farklı hareket hızları, yürüyüş biçimleri ve davranışları olmalı. Deniz hayvanları hareket yönlerine dönük olmalı.
-
-INTERACTION
-Kullanıcılara şunları yapma olanağı tanı:
-
-Kamerayı serbestçe döndürme, yakınlaştırma ve su altı kesitini inceleme.
-Bir dinozor seçme ve akıcı biçimde hareket eden bir kamerayla onu takip etme.
-
-Uygun konumlara yiyecek yerleştirme ve yakındaki dinozorların yiyeceğe yaklaşıp yemesini izleme.
-
-Su içme, dinlenme, seslenme ve sürü hareketini tetikleme.
-
-Yuvaları keşfetme ve bir yavrunun yumurtadan çıkışını izleme.
-Bir deniz sürüngeninin su sıçratarak yüzeye çıkmasını tetikleme.
-Gündüz, gün batımı ve gece arasında geçiş yapma.
-Yağmuru, rüzgârı ve volkanik etkinliği ayarlama.
-Simülasyonu duraklatma ve sahneyi sıfırlama.
-Her kontrolün net ve görünür bir tepki üretmesini sağla. Etkileşimleri tekrarlanabilir tut ve üst üste binen animasyonların karakter pozlarını bozmasını önle.
-ATMOSFER VE SES
-Hareket eden bitki örtüsü, süzülen bulutlar, kuşlar, böcekler, yağmur parçacıkları ve gece araştırma istasyonundan yayılan sıcak ışıklar ekle. Sakin atmosferik müzik ve çevre sesleri ekle; çalışan bir müzik açma/kapatma düğmesi ve ses düzeyi kaydırıcısı sun. Sesi yalnızca kullanıcı etkileşiminden sonra başlat.
-INTERFACE
-İngilizce etiketlere sahip, kompakt ve zarif bir arayüz kullan. Sahneyi ön planda tut ve adanın büyük panellerle kapanmasını önle. Yerleşimi masaüstü ve mobil cihazlara uyumlu yap.
-TEKNİK KALİTE
-Tekrarlanan bitki örtüsü ve dekor öğeleri için instancing, verimli geometri, uygun gölgeler ve ölçülü post-processing kullan. Görsel zenginliği akıcı gerçek zamanlı performansla dengele.
-Bir maket değil, eksiksiz bir sahne oluştur. Son HTML dosyasını doğrudan bir masaüstü tarayıcısında test et; ekran görüntülerini ve konsolu incele; tüm etkileşimleri dene ve teslim etmeden önce yükleme hatalarını, havada duran dinozorları, ayak kaymasını, bozuk çarpışmaları, su artefaktlarını ve kamera sorunlarını düzelt.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102450239923720440) · [Orijinal gönderi](https://x.com/vib3coded/status/2102450842070569099) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102411087002112256"></a>
-
-### Sir, We Have Orc Problems tarzında kule savunma oyunu
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="Sir, We Have Orc Problems tarzında kule savunma oyunu"></a>
-
-**İstem**
-
-```text
-Sir, we have orc problems tarzında bir kule savunma oyunu yap
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Sir, we have orc problemsみたいなTDゲーム作って
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102411087002112256) · [Orijinal gönderi](https://x.com/nikzu_/status/2102411087002112256) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102276620124062065"></a>
-
-### Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="Tokyo Kulesi’nin Gündüz ve Gece 3B Sahnesi ve Videosu"></a>
-
-**İstem**
-
-```text
-Tokyo Kulesi’ni başrole alan, etkileyici bir 3B çalışma ve X gönderisi için yaklaşık 30 saniyelik bir video oluşturun.
-
-Üretim direktörü olarak hareket edin. Gerekli alt görevleri oluşturun ve araştırma ile üretim çalışmalarını talep edin. Talebin ayrıntılandırılmasını, sürecin yönetilmesini, çıktıların kontrolünü, düzeltme talimatlarını ve son derlemeyi sizin üstlenmenizi istiyorum.
-
-【Oluşturulacak içerik】
-Yerden bakıldığında kulenin yüksekliğini, yaklaşıldığında ise çelik konstrüksiyonun ince ayrıntılarını hissettiren bir Tokyo Kulesi oluşturun.
-Gündüz ve gece görünümlerinin ikisini de hazırlayın; gündüz yapıyı ve boyayı, gece ise aydınlatmanın güzelliğini gösterin.
-
-Çalışmaya bakıldığında “Tokyo Kulesi dikkatle incelenerek oluşturulmuş” hissi vermesini istiyorum. Yalnızca kulenin şeklini değil, ayakların açılımını, çelik konstrüksiyonun birleşimini, seyir teraslarını ve tabandaki binaları da araştırıp karakteristik ayrıntıları yansıtın. Çevredeki şehri, kulenin ölçeğini ve bulunduğu yerin atmosferini aktaracak kapsamla sınırlayabilirsiniz.
-
-【Üretim süreci】
-・Resmî kaynakları ve fotoğrafları araştırarak yeniden oluşturulacak özellikleri ve öncelik sırasını belirleyin.
-・Bu araştırmaya dayanarak her alt görev için somut üretim talimatları verin.
-・İlk aşamalarda gerçek 3B önizlemeleri kontrol ederek şekli, kompozisyonu ve parlaklığı ayarlayın.
-・Tamamlanan görselleri ve videoyu ana sorumlu olarak inceleyin, uyumsuzlukları veya eksikleri tespit edin ve düzeltme talep edin.
-・Teknik ayrıntılara ilişkin seçimleri ve çekim kurgusunu kendiniz belirleyerek çalışmayı tamamlanana kadar ilerletin.
-
-Arka planı yalnızca fotoğraf veya oluşturulmuş görseller yapıştırarak geçiştirmeyin; gerçek 3B geometri ve kamera hareketleriyle ifade edin. Doğrulanabilen gerçekleri ve kaynak yetersizliği nedeniyle tahmin edilen bölümleri kaydedin.
-
-【Video】
-Yaklaşık 30 saniye. Yerden yukarı bakış, çelik konstrüksiyon ve seyir teraslarına yakın çekimler, kulenin tamamını anlaşılır kılan geniş planı birleştirin; gündüzden geceye geçişi de gösterin.
-Saniye bazında ayrıntılı zamanlamayı, tamamlanan modele bakarak etkileyici yönlerini en iyi aktaracak kurguyu siz belirleyin.
-
-【Teslim edilecekler】
-・Düzenlenebilir Blender dosyası
-・X gönderisi için MP4 video
-・Gündüz ve gece genel görünümünün yanı sıra ayrıntıları gösteren inceleme görselleri
-・Kısa gönderi metni taslağı
-・Kullanılan kaynakları, yeniden oluşturulan kapsamı ve doğrulama sonuçlarını belirten README
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
-
-あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
-
-【作ってほしいもの】
-地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
-昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
-
-「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
-
-【制作の進め方】
-・公式資料や写真を調査し、再現する特徴と優先順位を決める。
-・その調査を基に、各サブタスクへ具体的な制作指示を出す。
-・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
-・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
-・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
-
-写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
-
-【動画】
-約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
-細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
-
-【納品】
-・編集可能なBlenderデータ
-・X投稿用MP4動画
-・昼夜の全景と細部の確認画像
-・短い投稿文案
-・素材の出典、再現範囲、検証結果を記したREADME
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102276620124062065) · [Orijinal gönderi](https://x.com/wafffle_dev/status/2102276620124062065) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="bubble-bay"></a>
-
-### Bubble Bay: 3B Su Balonu Savaşı
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="Bubble Bay: 3B Su Balonu Savaşı"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
-
-**İstem**
-
-```text
-Bubble Bay’i, klasik baloncuk oyunlarının tanıdık büyük kafalı, kısa gövdeli ve yüzü açık kostümlü karakter stiline sahip, oynanabilir bir Three.js su balonu arenası olarak oluşturun. Varsayılan olarak ayrıntılı Tripo modellerini kullanın ve eşleşmeyi koruyan, Three.js geometrisiyle belirgin bir karşılaştırma anahtarı ekleyin. Üç yeni karakter kullanın: Langya, Shantao ve Tuanli. Sağlanan yeni karakter konsept/model referanslarını izleyerek silüetlerini, yüzlerini, renklerini ve kıyafetlerini koruyun.
-
-Langya, tek parça yana doğru uzanan dalga biçimli tepeye sahip turkuaz kapüşonlu, turuncu yakalı ve manşetli, lacivert şortlu, turuncu tabanlı turkuaz ayakkabılar giyen hareketli bir insan çocuğudur. Shantao, koyu erik rengi küt saçlı, iki yanında üçer kısa taç yaprağı süsü bulunan şeftali-pembe bir boneli, mint yeşili ceketli, erik rengi kısa tulumlu ve açık sarı çizmeli küçük bir insan kızdır. Tuanli, geniş armut biçimli gövdeye, yüz çevresi krem renkli karamela tonunda yuvarlak dolgulu bir kasketine, turkuaz kısa cekete, krem renkli alt karın bölümüne ve lacivert botlara sahip tombul bir insan çocuktur. Hepsinin sıcak ten renginde, basit koyu oval gözlere ve küçük gülümsemelere sahip çocuk yüzleri vardır. Bunlar yeni tasarlanmış kostümlere sahip çocuklardır; onları gerçek su canlılarına dönüştürmeyin ve daha önce kullanılan, kolayca tanınan karakter kıyafetlerini yeniden kullanmayın. Her birini açıkça tripo-p2 ve bağımsız ön/arka görseller kullanarak Tripo CLI üzerinden ayrı ayrı üretin, ardından geçerli iki ayaklı iskeletleri ve skin’leri bağlayın. Boşta durma/koşma/zıplama animasyonları gerçek eklemleri sürmelidir; hareketi inceleyin, başlık, ayakkabı ve gövde ağırlıklandırmasını düzeltin ve kaynak bilgisini doğru tutun. Hareketler yerel olarak oluşturulduysa bunu açıkça belirtin.
-
-Yerelleştirilmiş adlar: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Başlangıç kapasite/menzil/hız seviyeleri: 1/1/6, 1/2/5, 2/1/4; üst sınırlar: 6/7/9, 6/7/8, 9/8/8. Hızı saniyede dünya birimi cinsinden 0.25 + seviye*0.8 olarak dönüştürün; karolar 2 birimdir. Bir karakter seçildiğinde diğer ikisini eşleşen profillere sahip, birbirinden farklı rakipler olarak atayın. Tombul görsel silüetten bağımsız olarak aynı oyun içi isabet yarıçapını koruyun.
-
-Varsayılan olarak 15x13 Pirate/Patrit14 ve Village10 haritalarını sunun. Tanınabilir altın güverteyi, sarı yükü, ahşap kasaları, dört topu ve merkezi direği koruyun; köyde dört renkli konut bölgesi, merkezi bir yol, çitler ve oyuncak bloklar bulunsun. Yayıncı haritalarını referans olarak kullanın, çalışma zamanı görsellerini kendiniz oluşturun ve kesintisiz 3B hareket ile yapay zekânın kaçışı için gereken küçük güzergâh açıklıklarını belgeleyin. Canlı materyaller, gölgeler, okyanus manzarası, net kamera takibi ve genel görünüm sağlayın.
-
-Bir oyuncu, iş birliği yapan iki yapay zekâ rakibiyle karşılaşır. WASD/ok tuşları hareket eder, F 2,5 saniyelik bir baloncuk yerleştirir, Boşluk gerçek platformlara zıplar, Shift atılma hareketi yapar, Q/E yörüngede döndürür, V görünümü değiştirir ve Escape oyunu duraklatır. Artı biçimli su, engellere uyar; ilk yumuşak bloğu kırar ve baloncukları zincirler. Tuzak kurma, kaçış, düşman yakalamaları ve yeniden doğma sistemlerini uygulayın; 3, 6, 9 veya 12 yakalamadan seçilebilen bir hedef (varsayılan 6) ya da 180 saniyelik puanlama, sonuç ekranı ve yeniden deneme sunun. Dokunmatik joystick ile eylem düğmeleri aynı anda çalışmalıdır.
-
-Tripo ile oluşturulan altı güçlendirme kullanın: balon, menzil iksiri, tekerlekli paten, fırlatma eldiveni, tekme botu ve kurtarma iğnesi. Kasalar %85 olasılıkla bir eşya düşürür. Koşullu eşya ağırlıkları: %30/%30/%30/%2,5/%3,5/%4. Eldiven üç ek atış sağlar; üst sınır altı atıştır. G, yakındaki bir balonun üzerinden en fazla dört karo uzağa fırlatılmasını sağlar; balonun sahibini ve özgün fitil süresini koruyun, iniş konumunu ayırın ve bir yay gösterin. Uçuş sırasında süresi dolan balon yere iner ve patlar. K, balonları engellenene kadar kaydırır; fitil süresini sıfırlamaz. X, başlangıçta bir tane bulunan ve üst sınırı üç olan kurtarma iğnesini kullanır. Envanteri ve kullanılabilir kontrolleri net biçimde gösterin.
-
-Çince, İngilizce ve Korece kullanıcı arayüzü: Çin ana karasındaki IANA saat dilimleri Çinceyi, Güney Kore/Kuzey Kore Koreceyi, Hong Kong/Makao/Tayvan dâhil diğer tüm bölgeler İngilizceyi seçer. Manuel seçim her zaman önceliklidir. Yalnızca gömülü dokulu, standart sıkıştırılmamış, gerçekten skin uygulanmış ve en fazla 40 MB boyutunda, 150 bin üçgenli GLB dosyalarının yüklenmesine izin verin. Kemikleri, eklemleri ve ağırlıkları doğrulayın; statik modelleri reddedin; varsa gömülü animasyonları kullanın ve klip içermeyen, tanınan insansı modeller için temel eklem hareketi sağlayın. Tanınmayan iskeletler animasyon gerektirir. Rigging ile animasyon arasındaki farkı açıkça anlatın, 90 derecelik yön ayarı sağlayın, işlemleri tarayıcı içinde yerel olarak gerçekleştirin ve dosya karmasına göre sabit, dengeli istatistikler atayın.
-
-Oluşturma CTA’sı için tam olarak https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character kullanın. jared için https://x.com/jaredliu_bravo bağlantısını verin.
-
-Normalleştirme, kısa sönüm, mesafe/pan, polifoni sınırları, ses düzeyi ve sessize alma özellikleriyle 13 ElevenLabs ses efektini entegre edin: yerleştirme, patlama, kasa, güçlendirme, nadir eşya, fırlatma, iniş, tuzak, kurtarma, zıplama, zafer, yenilgi ve tekme. ElevenLabs music_v2_5 ile her biri 90 saniye uzunluğunda, denizci korsan haritasına ve güneşli mahalleye uygun iki özgün enstrümantal parça oluşturun. Bunları kontrollü -20 LUFS hedefinde normalleştirin ve döngü sınırlarında çapraz geçiş uygulayın. Müziğin kendi ses düzeyi kontrolü olsun, parçaları haritaya göre değiştirin, duraklatıldığında sesi kademeli azaltın ve ana sessize alma ayarına uyun. Özgün oyunun müziklerini yeniden üretmeyin.
-
-Bağımsız kaynak kodunu, bağımlılıkları, testleri ve varlık kaynak bilgisini CMS platform uygulamalarının dışında tutun. Aynı origin’den sunulan statik kaynakları ve MIT bildirimlerini paketleyin. Gerçek masaüstü ve dokunmatik oynanışı, yükleme varyantlarını, dilleri ve görsel geçişi Ego Lite’ta doğrulayın. Mevcut CMS Web Page 12’ye eklenmiş, değiştirilemez bir inceleme sürümü oluşturun; inceleme beklerken mevcut canlı yayını koruyun. Yalnızca kaynak kodu ve varlık hakları onayı gerçeğe uygun biçimde doğrulandıktan sonra yayımlayın; ardından herkese açık URL’yi, model karmalarını ve davranışı doğrulayın. Geçmişi koruyun ve kaydedilmiş CMS kayıtlarını, önizlemeleri ve herkese açık sürümleri birbirinden ayırın.
-
-Model varlıklarını görünür ilerleme göstergesiyle, aynı anda en fazla üç indirme, 30 saniyelik boşta kalma zaman aşımı ve iki deneme ile yükleyin. Yeniden denemede başarılı indirmeleri koruyun. Tüm modeller hazır olana kadar Tripo / Three.js sekme anahtarını tamamen gizleyin, ardından gösterin. Prosedürel yükleme yer tutucularını yüklenmiş Tripo modelleri olarak etiketlemeyin.
-
-
-Doğuş noktasının dışında başlayıp arenanın merkezine bakan, yakından takip eden perspektif bir kamera kullanın. Q/E yörünge kontrolünü, fareyle sürükleyerek eğim verme özelliğini ve V ile genel görünüm geçişini koruyun. Üstte kompakt bir skor tablosu, sol üstte mod anahtarı ve altta kısa bildirimler bulunsun. Fare kullanılan masaüstlerinde joystick’i ve büyük dokunmatik eylem düğmelerini gizleyin; küçük nadir eşya kontrollerini koruyun. Dar ekranlarda eş zamanlı, kompakt dokunmatik eylemleri destekleyin. Turkuaz derinlik varyasyonuna sahip animasyonlu bir dalga shader’ı, kıvrımlı palmiyeler ve kayalar içeren organik kum adacıkları, hafif ahşap damarları ve çim dokuları ekleyin. Tuzak kurulan her karakteri, boyutuna duyarlı yarı saydam bir baloncukla çevreleyin; baloncukta ışık kırınımlı bir Fresnel kenarı, nazik süzülme, küçük baloncuklar ve zeminde dalgalanmalar bulunsun. Poz verilmiş skin vertex’lerinin uyumunu doğrulayın, kurtarma sırasında yükselme değerini sıfırlayın ve tekrar tekrar geçiş yaptıktan sonra kaynakların düzgün şekilde serbest bırakıldığını kontrol edin. Su zarında sahne genelinde pahalı transmission geçişlerinden kaçının; dar ekranlarda piksel oranını 1,5 ile sınırlayın.
-
-
-Görünür Takip / Genel Görünüm kamera kontrolleri ve V ile geçiş sağlayın. Genel Görünüm modunda +/− düğmeleri, fare tekerleği ve iki parmakla yakınlaştırma kullanarak %100 ile %300 arasında yakınlaştırmayı destekleyin; harita sürüklemeyi sınırlandırın ve Haritayı sığdır sıfırlamasını ekleyin. Kamera veya oluşturma sürümleri arasında geçiş yaparken yakınlaştırma düzeyini ve devam eden maçı koruyun. Çince, İngilizce ve Korece dillerinde kompakt, üst üste binmeyen nadir eşya kontrolleri kullanın.
-
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bubble-bay) · [Orijinal gönderi](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Canlı demo](https://bubble-bay.tripo.page/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102215638311694336"></a>
-
-### Etkileşimli 3B helikopter tasarım sunumu
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="Etkileşimli 3B helikopter tasarım sunumu"></a>
-
-**İstem**
-
-```text
-Three.js ve WebGL kullanarak tek bir HTML dosyasında modern bir helikopterin ayrıntılı, etkileşimli bir 3B sahnesini oluştur. Görüntü değil, her açıdan incelenebilen gerçek 3B geometri oluştur.
-
-Görsel stil:
-Açık gri stüdyo arka planı, dairesel bir sergileme platformu, yumuşak gölgeler ve gerçekçi yansımalar içeren seçkin bir havacılık tasarım sunumu.
-Helikopter:
-
-H145 gibi hafif, çift motorlu helikopterlerden ilham alan, pürüzsüz ve aerodinamik bir gövde.
-Beyaz gövde, koyu lacivert alt bölüm ve mavi vurgu şeridi.
-Yansımaları ve özenle oturtulmuş pencere contaları bulunan kavisli, renkli kokpit camları.
-Yan kapılar, kapı kolları, panel birleşim çizgileri, perçinler, biniş basamakları ve antenler.
-Hava girişleri, havalandırma ızgaraları ve egzoz çıkışları bulunan iki motor kaportası.
-Ayrıntılı bir rotor göbeğine, bağlantı donanımına ve hatve kontrol bağlantılarına sahip beş palli ana rotor.
-Konik kuyruk bomu, dengeleyiciler ve muhafazasında gerçek bir açıklık bulunan kapalı kuyruk rotoru.
-Yapısal desteklerle gövdeye bağlanan kavisli kızak tipi iniş takımları.
-Seyrüsefer ışıkları ve yanıp sönen bir ikaz ışığı.
-Tüm bileşenler fiziksel olarak birbirine bağlanmalıdır. Havada duran parçalar, bölümler arasında boşluklar, gövdeyle kesişen rotor pallerı veya gövdenin üzerinde asılı duran camlar olmamalıdır.
-
-Etkileşimler:
-
-Yörüngede döndürmek için fareyle sürükleme, yakınlaştırmak için kaydırma ve dokunmatik kontroller.
-Her iki rotoru da kademeli hızlanma ve yavaşlamayla çalıştırıp durdurma.
-Ayarlanabilir rotor hızı.
-Havada asılı kalma modu: platformdan yumuşakça yükselme, havada hafifçe salınma ve devre dışı bırakıldığında nazikçe iniş.
-Otomatik kamera yörüngesi.
-Ön, yan ve kuyruk kamera ön ayarları.
-Kamerayı sıfırlama ve tam ekran kontrolleri.
-Üç kaplama seçeneği: buzul mavisi ve beyaz, kurtarma turuncusu ve grafit.
-Arayüz:
-
-Sol üstte küçük bir “AERONAUT / OBJECT STUDIES” etiketi ve büyük bir “Horizon 05.” başlığı.
-Sağ tarafta teknik özellikleri, helikopter durumunu, kaplama seçimini ve rotor hızını içeren kompakt bir panel.
-Alt kısımda kontroller ve etkileşim ipuçları.
-Sade tipografi, ince kenarlıklar ve bol miktarda boşluk kullan. Helikopterin üzerini kapatma.
-Arayüzdeki tüm metinler İngilizce olsun.
-Teknik gereksinimler:
-
-Geometriyi, hazır bir helikopter modeli indirmeden prosedürel olarak oluştur.
-PBR malzemeler, stüdyo yansıma ortamı ve yumuşak gölgeler kullan.
-Animasyonu kare hızından bağımsız hâle getir.
-Uygun yerlerde geometriyi ve malzemeleri yeniden kullan; performans için piksel oranını sınırla.
-Masaüstü ve mobil yerleşimleri destekle; ilk görünümde rotorun tamamının görünür olmasını sağla.
-Mümkünse bağımlılıkları HTML dosyasına gömerek dosyanın çevrimdışı çalışmasını sağla.
-WebGL kullanılamıyorsa faydalı bir yedek mesajı göster.
-Bitirmeden önce modeli her yönden incele, tüm kontrolleri test et ve konsol hatalarını kontrol et. Silüete, yapısal bağlantılara, cam yüzeylere ve rotor mekanizmalarına özellikle dikkat et.
-
-Yalnızca açıklama değil, çalışan HTML dosyasını teslim et.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
-
-Visual style:
-A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
-Helicopter:
-
-A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
-A white body with a dark navy underside and blue accent stripe.
-Curved, tinted cockpit windows with reflections and carefully fitted window seals.
-Side doors, handles, panel seams, rivets, boarding steps, and antennas.
-Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
-A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
-A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
-Curved landing skids attached to the fuselage with structural supports.
-Navigation lights and a blinking beacon.
-All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
-
-Interactions:
-
-Mouse drag to orbit, scroll to zoom, and touch controls.
-Start and stop both rotors with gradual acceleration and deceleration.
-Adjustable rotor speed.
-Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
-Automatic camera orbit.
-Front, side, and tail camera presets.
-Reset camera and fullscreen controls.
-Three liveries: glacier blue and white, rescue orange, and graphite.
-Interface:
-
-Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
-Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
-Bottom: controls and interaction hints.
-Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
-All interface text in English.
-Technical requirements:
-
-Generate the geometry procedurally without downloading a prebuilt helicopter model.
-Use PBR materials, a studio reflection environment, and soft shadows.
-Make animation independent of frame rate.
-Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
-Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
-If possible, embed dependencies in the HTML so the file works offline.
-Display a helpful fallback message if WebGL is unavailable.
-Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
-
-Deliver the working HTML file, not just an explanation.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2102215638311694336) · [Orijinal gönderi](https://x.com/vib3coded/status/2102217028052377910) · [Örneklere dön](#all-prompts)
 
 ---
 

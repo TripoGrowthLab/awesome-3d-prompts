@@ -28,6 +28,14 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [WebGL2 沙盒生存遊戲](#claude-opus-5-5-2103502454750920925)
+- [Three.js 體素風格日本庭園](#gpt-6-astra-2103486103831339269)
+- [在 3D 寶塔中探索](#claude-opus-5-5-2103483174957597035)
+- [使用 Blender 製作天竺鼠](#gpt-6-astra-2103482826519986544)
+- [可自由行走的 3D 動漫風櫻花小鎮](#claude-opus-5-5-2103480081809346597)
+- [VRChat 衣裝 3D 建模](#gpt-6-astra-2103456264785424530)
+- [火龍果果凍](#gpt-6-astra-2103432732386664591)
+- [生命循環動態圖像動畫](#claude-opus-5-5-2103428454355980558)
 - [黃金時刻羅馬戰場場景](#gpt-6-astra-2103351755971207251)
 - [STILLWATER — 月下沼澤瀏覽器體驗](#gpt-6-astra-2103308083242082314)
 - [互動式 3D 海上火箭發射序列](#claude-opus-5-5-2103303303358534021)
@@ -70,16 +78,478 @@
 - [互動式彼得兔風格農場動物遊戲](#claude-opus-5-5-2102538762731565085)
 - [電影感互動式夕陽海盜船](#claude-opus-5-5-2102533729746882985)
 - [無限程序生成的 Three.js 世界](#claude-opus-5-5-2102529695908806728)
-- [含室內空間的兩層樓郊區住宅](#gpt-6-astra-2102473710724919614)
-- [互動式人群疏散模擬](#claude-opus-5-5-2102467667978572092)
-- [Battle City 3D：無盡坦克防禦](#battle-city-3d)
-- [互動式 3D 史前島嶼](#claude-opus-5-5-2102450239923720440)
-- [《Sir, We Have Orc Problems》風格的塔防遊戲](#gpt-6-astra-2102411087002112256)
-- [東京鐵塔的日夜 3D 場景與影片](#gpt-6-astra-2102276620124062065)
-- [泡泡小鎮：3D 水球大戰](#bubble-bay)
-- [互動式 3D 直升機設計展示](#gpt-6-astra-2102215638311694336)
 
 </details>
+<a id="claude-opus-5-5-2103502454750920925"></a>
+
+### WebGL2 沙盒生存遊戲
+
+[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="WebGL2 沙盒生存遊戲"></a>
+
+**提示詞**
+
+```text
+製作一款以 Minecraft 精神為基礎的瀏覽器沙盒遊戲，體驗上要盡可能接近原作。所有遊戲內文字都使用英文。操作方式：鍵盤與滑鼠（桌上型電腦）。
+
+技術
+- 單一 HTML 檔案，使用原生 WebGL2，不使用第三方函式庫。
+- 所有 16×16 貼圖都以程式生成像素藝術風格，包括石頭、泥土、草地、木板、樹葉、礦石、玻璃、水、熔岩等。
+- 使用 WebAudio 合成音效：挖掘、腳步、放置方塊、受傷、生物、爆炸，以及平靜的背景音樂。
+
+世界
+- 由 16×16×128 區塊組成的無限世界，支援種子。
+- 生態域：平原、森林、樺木林、針葉林、雪地苔原、沙漠、山地、海洋、海灘。
+- 洞穴（蜿蜒隧道與大型洞窟）、低層的熔岩，以及依深度分布的礦石：煤炭、鐵、金、鑽石。
+- 三種樹木、 tall grass、花朵、仙人掌、甘蔗、南瓜。
+- Minecraft 風格的光照：天空光與方塊光（火把、螢石、熔岩）逐格擴散，並具備平滑光照與環境光遮蔽。
+- 日夜循環：太陽、月亮、星星、日落、3D 雲朵、距離霧、降雨。
+- 水與熔岩依液面流動；兩個水源可形成無限水；水與熔岩接觸會生成黑曜石或鵝卵石。沙子與礫石會下落。
+
+玩家
+- 第一人稱視角、碰撞、跳躍、衝刺、潛行（不會從邊緣掉落）、游泳、梯子、摔落傷害。
+- 方塊破壞具備裂紋階段與粒子效果；破壞時間取決於工具。
+- 顯示手部與手持物品，並具備揮動動畫。按 F5 切換第三人稱視角。
+
+生存
+- 生命值、飢餓值、飽和度、水下氧氣。
+- 五種材質的工具，具備耐久度；四種材質的護甲。
+- 背包包含 2×2 合成；3×3 工作台；使用燃料的熔爐；箱子；床（跳過夜晚並設定重生點）。
+- 物品掉落、死亡與重生。
+- 生物：豬、牛、羊、雞（繁殖、剪羊毛）；夜晚出現殭屍、持弓骷髏、蜘蛛。殭屍與骷髏會在陽光下燃燒。
+- 農耕：鋤頭、種子、小麥生長、麵包。門、柵欄、柵欄門、TNT。
+
+創造
+- 連按兩次空白鍵飛行、立即破壞方塊，以及包含所有方塊的目錄，支援分頁與搜尋。
+
+介面
+- 包含世界全景的標題畫面、世界清單（建立／刪除／遊玩）、選項（視野、繪製距離、靈敏度、音效、亮度、介面縮放）。
+- 暫停選單、死亡畫面、HUD（快捷列、愛心、飢餓值、護甲、氧氣泡泡）、F3 除錯畫面。
+- 支援指令的聊天功能：/gamemode、/time、/give、/tp、/summon、/weather。
+- 世界儲存於 localStorage。
+
+限制
+- 不得使用 Minecraft 的名稱、標誌、貼圖或角色（Steve、Creeper 等）：為遊戲取用自己的名稱，並自行設計生物。
+
+測試
+- 在無頭瀏覽器中執行遊戲，檢查每個系統，修正錯誤後再交付。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103502454750920925) · [查看原文](https://x.com/kepochnik/status/2103524317443363241) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103486103831339269"></a>
+
+### Three.js 體素風格日本庭園
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Three.js 體素風格日本庭園"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 建立細節豐富的體素風格日本庭園，加入寶塔、迷你村民、飛龍與可互動的細節。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103486103831339269) · [查看原文](https://x.com/marcthecreatorr/status/2103486103831339269) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103483174957597035"></a>
+
+### 在 3D 寶塔中探索
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="在 3D 寶塔中探索"></a>
+
+**提示詞**
+
+```text
+實作程式碼，讓使用者能在 3D 寶塔中移動探索。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Implement code to be able to navigate in a pagoda in 3D.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103483174957597035) · [查看原文](https://x.com/BuildFastWithAI/status/2103483174957597035) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103482826519986544"></a>
+
+### 使用 Blender 製作天竺鼠
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="使用 Blender 製作天竺鼠"></a>
+
+**提示詞**
+
+```text
+用 Blender 製作一隻天竺鼠
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103482826519986544) · [查看原文](https://x.com/kayokojoe/status/2103482826519986544) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103480081809346597"></a>
+
+### 可自由行走的 3D 動漫風櫻花小鎮
+
+[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="可自由行走的 3D 動漫風櫻花小鎮"></a>
+
+**提示詞**
+
+```text
+請使用 Three.js 建立一座「可自由行走的 3D 動漫風櫻花小鎮」，以單一 HTML 檔案完成，然後發布為可分享的網頁。
+
+【技術限制】
+- 僅使用 cdnjs 提供的 three.js r128（UMD 版本）。不要載入任何外部模型或圖片——所有模型、貼圖與店家招牌都必須以程式碼和 Canvas 程序化生成。
+- 所有店名、招牌與角色都使用原創內容。不要模仿任何真實品牌或既有作品。
+- 使用 MeshStandardMaterial 或 MeshPhongMaterial。避免使用高金屬度與環境反射貼圖（在部分電腦上，這些設定會導致物件渲染時沒有色彩）。
+- 依材質合併靜態物件，將其減少為少量 mesh，讓程式能在一般電腦上順暢執行；提供高／中／低畫質切換功能。
+
+【場景：「桜ヶ丘 (Sakuragaoka)」，春日下午的一座日本小鎮】
+1. 商店街：一條南北向的主要街道，兩側設有 20 間以上的店家（拉麵店、咖啡館、自行車店、書店、花店、和菓子店、藥妝店、便利商店等）。每間店都必須具備：多行招牌（店名＋英文名稱＋電話號碼）、帶波浪裙襬的條紋遮雨棚、向內凹的店面，以及具有明顯深度的室內空間；店外設有騎樓展示物（水果箱、雜誌架、食品模型展示櫃、旋轉理髮店招牌）。樓上設有窗戶、冷氣室外機、掛著衣物的陽台，以及屋頂電視天線。
+2. 街道細節：架設大量空中電線的電線桿、掛有商店街旗幟的裝飾路燈、節慶燈籠串、鋪設黃色導盲磚的方形人行道磚、排水溝蓋、「止まれ」停車標誌，以及公車站牌。
+3. 平交道與列車：設置雙線鐵路。列車接近時，平交道的紅燈交替閃爍、鐘聲響起，柵欄降下。一列兩節車廂的通勤電車會在車站停靠約 14 秒，然後駛離。車窗必須透明，能看見車內座椅與吊環。
+4. 島式月台車站：設置站名看板、月台雨棚、長椅與自動販賣機。
+5. 櫻花廣場：一棵樹齡 100 年的櫻花樹，周圍設有圓形長椅。
+6. 稻荷神社：設置大型硃紅色鳥居、一列小型鳥居、石燈籠、狐狸雕像、拜殿（銅綠色屋頂、千木、鰹木、賽錢箱、懸掛式鈴鐺）、手水舍、地藏菩薩像、繪馬、神木與碎石地面。
+7. 河堤：兩排櫻花樹形成櫻花隧道，設有燈籠；遠處可見河流、對岸房屋與群山。
+
+【櫻花樹製作方式（重點）】
+- 以染井吉野櫻為模型：樹幹在較低處分成 3–4 根主枝，再以遞迴方式向外分枝三個層級。枝條向外伸展，末端略微下垂，整體呈傘狀。
+- 使用數萬張「花簇卡片」製作樹冠：在 Canvas 上繪製五瓣花，花瓣尖端帶有缺口、花心偏紅並呈現雄蕊，花朵後方加上柔和的粉紅色底層。為卡片使用 alphaTest 與雙面渲染。
+- 在樹冠內部加入一些粉紅色填充團塊，增加體積感。外側與上方較明亮；內側與下方則帶有溫暖的玫瑰色陰影。
+- 使用淡粉紅色，不要使用螢光粉紅色。樹冠隨風輕輕擺動，每棵樹下的地面都覆蓋著落花地毯，花瓣也會持續在空中飄落（以著色器完成）。
+
+【角色】
+- 20 名以上的動漫風學生與居民：具備膝蓋與手肘關節的行走動畫，以及在 Canvas 上繪製、會眨眼的動漫臉部（大眼睛、高光、腮紅）；瀏海由獨立髮束構成，並提供多種髮型（長髮、鮑伯頭、會擺動的馬尾、雙馬尾），服裝包含水手服／西裝外套制服／便服。角色使用雙色賽璐珞風格著色與深色外框渲染。
+- 人們會沿著街道行走、在廣場聊天、在月台等候、於神社參拜，並沿著河堤騎自行車。
+
+【車輛】
+- 以擠出側面輪廓的方式製作汽車（包含輪拱、車窗、車燈、日本車牌與旋轉中的車輪）。汽車會在平交道前停下，鐘聲響起期間持續等候，直到柵欄升起。
+
+【光照與時段】
+- 採用柔和的動漫背景風格：藍天與白雲（以著色器製作）、遠方的淡淡霧氣，以及帶藍紫色調的陰影。
+- 可切換為午後／黃昏／夜櫻。夜間時，窗戶、燈籠與街燈會亮起。
+
+【控制方式】
+- 第一人稱：使用 WASD 行走、Shift 奔跑、Space 跳躍、F 飛行、滑鼠環顧四周（指標鎖定），使用數字鍵傳送至各個地點，H 隱藏介面，M 靜音。
+- 行動裝置：在畫面左半部拖曳以行走，在右半部拖曳以環顧四周。
+- 啟用碰撞，玩家可以走上月台與階梯。
+- 使用 Web Audio 生成環境音效：風聲、鳥鳴、平交道鐘聲與列車行駛聲。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
+
+[Technical constraints]
+- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
+- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
+- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
+- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
+
+[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
+1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
+2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
+3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
+4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
+5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
+6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
+7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
+
+[How to build the cherry trees (key part)]
+- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
+- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
+- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
+- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
+
+[Characters]
+- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
+- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
+
+[Vehicles]
+- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
+
+[Lighting and time of day]
+- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
+- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
+
+[Controls]
+- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
+- Mobile: drag on the left half to walk, drag on the right half to look around.
+- Collision is enabled, and the player can walk up onto the platform and steps.
+- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103480081809346597) · [查看原文](https://x.com/pound75423/status/2103480085319942353) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103456264785424530"></a>
+
+### VRChat 衣裝 3D 建模
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="VRChat 衣裝 3D 建模"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
+
+**提示詞**
+
+```text
+製作 VRChat 衣裝
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+VRChat用の衣装作って
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103456264785424530) · [查看原文](https://x.com/Noir4247/status/2103456264785424530) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103432732386664591"></a>
+
+### 火龍果果凍
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="火龍果果凍"></a>
+
+**提示詞**
+
+```text
+建立名為「火龍果果凍」的互動式 3D 場景——一半切開、由柔軟半透明果凍製成的火龍果。將整個專案製作在單一 HTML 檔案中，使用真正的 WebGPU 渲染與 WGSL 著色器。不得使用預製模型或影像素材。
+
+APPEARANCE
+
+一半大型火龍果切面朝上，放置在明亮的工作室檯面上。
+濃郁的覆盆子粉紅色外皮、薄薄的淡色內果皮，以及珍珠般潔白的果肉。
+約 250 顆細小黑籽，自然分布在果肉各處。
+果實周圍有 12–14 片多汁的果皮花瓣，從粉紅色基部漸變為綠色尖端。
+表面光澤濕潤，帶有光線折射、細小的內部氣泡，以及柔和的接觸陰影。
+材質應呈現柔軟軟糖的質感，而非硬質塑膠。保留高飽和色彩，同時避免高光過曝。
+
+物理與互動
+
+使用具備彈性連接與體積保留約束的體積網格，實作真正的軟體變形，例如 XPBD。
+使用者可以用滑鼠或手指抓住果肉、將其拉伸後放開。
+變形應集中在抓取點周圍，而不是單純平移整個物件。
+放開後，果實應搖晃、彈動，並逐漸恢復原本形狀。
+讓果皮花瓣可個別拖曳。它們應比果肉更柔軟，能彎曲並彈回原位，同時維持與果實的連接。
+種子必須跟隨變形中的表面，不得飄離或陷入果肉。
+在大力拉扯時維持模擬穩定，處理與地面的接觸，並防止元素翻轉。
+
+視覺設計
+
+採用極簡明亮主題的工作室介面，具備編輯風格：充裕留白、細邊框、克制的控制項，且不加入不必要的裝飾。
+
+左上角：
+「MATERIAL STUDIES / NO. 019」
+以兩行顯示大型斜體襯線標題：
+「火龍果果凍。」
+
+下方顯示：
+「有一點狂野。」
+「有一點甜。」
+「一隻非常柔軟的龍。」
+右側加入浮動面板，標題為「THE SPECIMEN」，內容包含：
+
+密度徽章：ρ 1.04 g/cm³。
+三組預設設定：
+Pearl——白色果肉與粉紅色外皮。
+Ruby——覆盆子色果肉與粉紅色外皮。
+Gold——淡色果肉與金色外皮。
+Firmness 與 Internal damping 滑桿，並顯示目前數值。
+「輕推一下」與「重設」按鈕。
+
+「¼ 速度」與「顯示網格」核取方塊。
+
+「暫停」按鈕。
+另外加入：
+具備退出選項的全螢幕按鈕。
+「WEBGPU · LIVE」狀態指示器。
+即時顯示質量、靜止體積百分比與動能。
+簡短的互動提示：「拉動果肉。扯一下花瓣。放手。」
+可摺疊的「實驗內部」區段，準確說明實作方式。
+技術需求
+交付一個名為 pitaya-jelly-webgpu.html 的獨立完整檔案。
+
+使用實際的 WebGPU 渲染，不得模擬成 Canvas 2D。
+
+所有幾何體都必須以程序化方式建立。
+使用考慮厚度的折射、菲涅耳反射與柔和的工作室照明。
+使用固定的模擬時間步長，以維持一致的行為。
+支援桌面與觸控互動，並採用響應式版面配置。
+拖曳期間避免耗費昂貴的幾何重建或著色器編譯。
+
+WebGPU 無法使用時，顯示清楚的替代訊息。
+
+確認拖曳、放開、形狀恢復、預設設定、重設、暫停、全螢幕與行動版面配置皆能正常運作。
+最重要的是呈現令人信服的果凍質感行為、精美的材質與令人滿意的互動。成果應具備精緻、可遊玩的材質實驗作品質感。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
+
+APPEARANCE
+
+A large dragon fruit half resting cut-side up on a light studio surface.
+Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
+Approximately 250 tiny black seeds distributed naturally across the flesh.
+12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
+A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
+The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
+
+PHYSICS AND INTERACTION
+
+Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
+Users can grab the flesh with a mouse or finger, stretch it, and release it.
+Deformation should concentrate around the grabbed point rather than simply translating the entire object.
+After release, the fruit should wobble, jiggle, and gradually recover its original shape.
+Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
+Seeds must follow the deforming surface without floating away or sinking into the flesh.
+Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
+
+VISUAL DESIGN
+
+Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
+
+Top left:
+“MATERIAL STUDIES / NO. 019”
+A large italic serif heading on two lines:
+“Pitaya Jelly.”
+
+Below it:
+“A little wild.”
+“A little sweet.”
+“A very soft dragon.”
+On the right, add a floating panel titled “THE SPECIMEN” containing:
+
+Density badge: ρ 1.04 g/cm³.
+Three presets:
+Pearl — white flesh and pink skin.
+Ruby — raspberry-colored flesh and pink skin.
+Gold — pale flesh and golden skin.
+Firmness and Internal damping sliders with visible values.
+“Give it a nudge” and “Reset” buttons.
+
+“¼ speed” and “Show mesh” checkboxes.
+
+A “Pause” button.
+Also include:
+A fullscreen button with an exit option.
+A “WEBGPU · LIVE” status indicator.
+Live readouts for mass, percentage of rest volume, and kinetic energy.
+A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
+A collapsible “Inside the experiment” section explaining the implementation accurately.
+TECHNICAL REQUIREMENTS
+Deliver one self-contained file named pitaya-jelly-webgpu.html.
+
+Use actual WebGPU rendering, not a Canvas 2D imitation.
+
+Build all geometry procedurally.
+Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
+Use a fixed simulation timestep for consistent behavior.
+Support desktop and touch interaction with a responsive layout.
+Avoid expensive geometry reconstruction or shader compilation during dragging.
+
+Show a clear fallback message when WebGPU is unavailable.
+
+Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
+The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2103432732386664591) · [查看原文](https://x.com/vib3coded/status/2103433535604265052) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103428454355980558"></a>
+
+### 生命循環動態圖像動畫
+
+[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="生命循環動態圖像動畫"></a>
+
+**提示詞**
+
+```text
+製作一支充滿動感、長 20 秒的動態圖像與動畫影片，展現你作為傑出動態設計師和動畫師的實力，就像是放在履歷上的作品展示影片。主題設定為生命循環，呈現同一個人從童年、青春期，到朝九晚五的生活、家庭生活、老年生活，最後走向死亡，接著剪接成能銜接回開頭的循環。盡情發揮，盡可能運用一切所需元素。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103428454355980558) · [查看原文](https://x.com/loicRambo/status/2103428454355980558) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103351755971207251"></a>
 
 ### 黃金時刻羅馬戰場場景
@@ -2304,512 +2774,6 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102529695908806728) · [查看原文](https://x.com/argofowl/status/2102529695908806728) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102473710724919614"></a>
-
-### 含室內空間的兩層樓郊區住宅
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="含室內空間的兩層樓郊區住宅"></a>
-
-**提示詞**
-
-```text
-你好，請使用 Blender 設計出最完善的兩層樓郊區住宅 3D 模型，並包含完整室內空間及所有細節。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102473710724919614) · [查看原文](https://x.com/azer0lxm/status/2102473781830909995) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### 互動式人群疏散模擬
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="互動式人群疏散模擬"></a>
-
-**提示詞**
-
-```text
-建立互動式人群疏散模擬，看看哪些地方會發生壅塞
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102467667978572092) · [查看原文](https://x.com/dominikmartn/status/2102467667978572092) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="battle-city-3d"></a>
-
-### Battle City 3D：無盡坦克防禦
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D：無盡坦克防禦"></a>
-
-**提示詞**
-
-```text
-1. 專案目標
-打造《Battle City 3D》：一款以 1985 年 Famicom 經典作品為靈感的瀏覽器坦克防禦遊戲。玩家駕駛坦克，摧毀一波 20 輛敵軍、收集補給並保護老鷹總部。重現參考媒體中目前所示的透視 3D 版本，包括可無限遊玩的種子戰役，以及 35 張可選的經典地圖。保留清楚易懂的街機規則，同時讓坦克、牆壁與場景具備真實的立體深度。
-
-2. 視覺風格
-使用 Three.js PerspectiveCamera，視野角度為 60 度。預設戰場視角位於玩家後上方，距離約 13 個世界單位，高度為 0.43 弧度。平滑跟隨坦克位置及其前方的一個目標點；坦克轉向時，絕不自動旋轉鏡頭。提供較高的戰術視角、手動拖曳環繞視角與滾輪縮放。移動與射擊使用地圖的四個基本方向軸。環繞視角後，將方向鍵對應至相對於鏡頭最近的基本方向；絕不將鍵盤輸入轉換為斜向移動。讓車體朝向立即與射擊方向一致，並根據每個模型的實際砲管位置校準砲彈與砲口閃光的高度。
-使用貼地的履帶式坦克、金屬砲塔、陶土磚、深色鋼塊、藍色水面、低矮植被與反光冰面。將地面延伸到可玩區域之外，銜接樹林、毀損建築與霧霾。使用溫暖的定向光、柔和陰影、環境補光、ACES 色調映射，以及克制的砲口閃光、後座力、火花與彈跳碎屑。下雪時改變地面與樹木的色彩配置；工業關卡則以鋼材與毀損建築為主。
-以深橄欖色指揮介面框住遊戲，顯示暖黃色的主要操作、分數、共用生命數、剩餘敵人圖示、關卡名稱與雷達。將大型 Tripo 3D / Three.js 模型切換控制置於戰場上方，顯示目前選取的模式與旋轉中的坦克預覽。使用在地化的插畫式補給指南與限時效果指示器。在窄螢幕上維持遊戲區域與必要的觸控控制可見。
-
-3. 世界與場景
-將戰場表示為 26×26 的圖塊網格，坦克碰撞半寬為 0.72。將老鷹放置於 (13,25)，周圍以可破壞的 U 形磚牆防禦。玩家出生點為 (9,25) 與 (17,25)；敵軍入口為 (1,1)、(13,1) 與 (25,1)。
-提供兩種戰役：包含全部 35 張經典地圖及其 20 名敵人的波次表，以及以種子為基礎、循環生成草地、雪地與工業生態系的無限模式。生成足以容納完整車體寬度的連通走廊，確保玩家出生點、敵軍入口與拾取物位置之間都有可通行的連接。加入交錯配置的中央鋼製掩體，避免出生點到老鷹之間形成直接射擊線，同時保留跨街通道。允許選擇起始生態系或經典關卡，並重新擲骰生成隨機地圖。將本局種子、分數、生命數與存活玩家的升級內容帶入下一關。
-磚塊可破壞；鋼塊能擋住普通砲彈與坦克；水面會阻擋坦克，但允許砲彈穿越；植被會遮蔽敵方模型；冰面會降低抓地力。讓遠景環境僅作裝飾，與遊戲碰撞分離。
-
-4. 資產清單
-使用以下穩定且可獨立替換的 3D 模型插槽。優先製作玩家、敵軍、重型坦克與老鷹，接著製作全部十種補給模型。讓每個資產以最低點貼地，並統一朝向、中心點與縮放比例。重複使用範本，不要為每個敵人個別載入模型。
-- player：芥末黃色履帶坦克，具備清楚易讀的砲塔與前置砲管；供玩家坦克使用，第二名玩家另以獨立的環色區分。
-- enemy：緊湊型履帶敵軍坦克，透過不同色調區分基本型、快速型與強力型，並重複使用此模型。
-- heavy：外觀明顯更厚重的裝甲坦克，使用獨立於標準敵軍模型的網格，並在上方顯示四個可見的裝甲段。
-- eagle：總部基座上的金色金屬老鷹雕像。
-- pickup-star：金色五角升級星。
-- pickup-helmet：用於暫時護盾的防護軍用頭盔。
-- pickup-clock：用於凍結敵軍移動的清晰易讀時鐘。
-- pickup-shovel：用於加固總部的鏟子。
-- pickup-life：代表額外一條生命的迷你坦克。
-- pickup-grenade：用於摧毀現存敵軍的手榴彈。
-- pickup-ammo：用於快速射擊的彈藥箱。
-- pickup-repair：用於修復裝甲的維修工具箱。
-- pickup-magnet：用於遠距離收集拾取物的馬蹄形磁鐵。
-- pickup-boost：用於暫時提升速度的能量電池。
-- environment-building：一棟風化的毀損公寓大樓，Tripo P2.0，指定預算為 1,800 個三角形。
-- environment-tree：可見樹幹的不規則松樹，Tripo P2.0，指定預算為 1,100 個三角形。
-- environment-bush：低矮的闊葉灌木與草叢，Tripo P2.0，指定預算為 650 個三角形。
-將補給顯示為旋轉、懸浮的可收集模型，搭配彩色環圈與相符的指南縮圖。以共用的幾何與材質實例渲染重複出現的建築、樹木與灌木。讓建築與樹木的根部貼地；將灌木底部略微埋入，以融入地形。在雪地關卡中，於朝上的表面添加積雪。讓圖塊牆壁、水面、冰面、砲彈網格、UI、燈光、粒子與碰撞代理物件維持程式生成。讓水面以世界空間流動波浪呈現動畫，持續變化法線並產生些微表面位移，且在相鄰圖塊之間保持連續。Tripo 版本使用 17 個生成模型；比較版本則將坦克與環境都切換為程式建立的幾何體，並使用相同的規則與碰撞。兩者皆以 Three.js 渲染。
-
-5. 遊戲玩法與回饋
-支援單人遊玩與本地雙人合作，共用三條生命的生命池。單人使用 WASD 或方向鍵移動，Space/J 開火。合作模式中，玩家一使用 WASD 與 Space/J；玩家二使用方向鍵與 Enter/Numpad 0。P/Escape 可暫停；C 切換鏡頭；1/2 選擇模型模式。在觸控螢幕上，允許同時按住方向鍵盤與開火按鈕；指標取消時釋放輸入，並在不需捲動的情況下提供暫停、繼續、下一關與重試操作。
-玩家速度為每秒 4.2 個單位，使用加速時為 6.3。敵人包括基本型、快速型、強力型與重型；重型坦克有四點生命值，未受護盾保護時可承受前三次命中。擊殺各類型敵人分別獲得 100、200、300 或 400 分；收集任一補給可獲得 500 分。擊敗 20 名敵人後通關。老鷹被摧毀，或共用生命耗盡且沒有存活玩家時即告失敗。提供立即重試、明確的下一關流程，以及儲存在本機的最高分。
-實作全部十種補給：星星可升級三個等級（更快的砲彈、同時發射兩枚砲彈，最後是可破壞鋼塊的砲彈）；頭盔提供 12 秒護盾；時鐘將敵人凍結 9 秒；鏟子加固基地 16 秒；迷你坦克增加一條生命；手榴彈摧毀現存敵人；彈藥提供 14 秒快速射擊，最多同時存在四枚砲彈；維修增加兩點生命值，上限為三點；磁鐵在 20 秒內收集五個單位範圍內可見的補給；加速效果持續 12 秒。補給模型持續 25 秒，並出現在可抵達的位置；使用洗牌牌組改變補給類型。磁鐵收集必須遵守實體障礙物。
-使用收集到的 NES 風格音效，涵蓋 4.333 秒的關卡開場、射擊、駕駛與待機、磚塊／鋼塊碰撞、敵軍／玩家爆炸、補給出現與收集、獲得額外生命、裝甲受擊、冰面、暫停與遊戲結束。目前專案使用 JustoSenka/BattleCity 的 15 段 OGG 音效，commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20。保留其作者標示與儲存庫授權聲明；描述為收集自重製版的音效，不得聲稱是位元完美的硬體擷取。透過使用者手勢解鎖音訊，校準各音效增益，提供音量／靜音控制，並讓音效與事件同步。不要加入無關的持續戰鬥音樂。
-
-6. 技術實作
-使用 TypeScript、Three.js 0.180.0 與 Vite 7，並提供獨立的 package.json 與 lockfile。讓模擬與渲染相互獨立，以 120 Hz 執行模擬步進。使用實體車體 AABB、分軸移動、邊界與坦克分離，以及持續性的最近接觸點砲彈掃掠，並納入敵我砲彈之間的相對運動碰撞。砲彈從車體生成並向前掃掠，以避免近距離射擊時穿過牆壁。加入冰面加減速，以及帶有阻尼彈跳的碎屑重力。這些是街機式地面物理，不是懸吊模擬器。
-透過 GLTFLoader 載入同源 GLB 資產。讓碰撞代理物件獨立於資產幾何。現有執行環境使用量化屬性與 WebP 貼圖（載具／基地為 1024 px；補給與環境為 512 px），不進行幾何簡化，也不使用 WASM 解碼器。載入限制為四個 worker，使用雜湊版本化 URL，以及 256 KiB 的範圍請求；每個範圍請求逾時 20 秒，最多嘗試三次。四個核心模型與音訊準備完成後即可解鎖遊玩；在背景載入補給與環境資產，且只生成模型已準備好的補給類型。切換模型模式時保留遊戲狀態。
-提供英文、簡體中文、日文與韓文 UI。依裝置語言選擇預設語言，但 zh-TW、zh-HK、zh-MO 與 zh-Hant 預設使用英文；明確選取的語言需持續保存。支援鍵盤、桌面指標與多點觸控，並在失去焦點時暫停。所有資產、製作人員名單與可重現腳本都應保留在來源專案中；發佈不含私人憑證且不依賴執行期後端的靜態 dist 目錄。
-
-7. 完成標準
-交付可編輯原始碼、資產來源與授權聲明、npm 開發／建置流程，以及可遊玩的靜態預覽。驗證預設 Tripo 場景、模型比較、所有生態系、重型坦克承受四次命中、每種補給效果、暫停／繼續、失敗／重試與關卡進度。測試 1,000 張種子地圖的車體寬度連通性與安全出生點，以及所有經典地圖、穿牆、斜向射擊、坦克分離、冰面動量、不同偏航角下的鏡頭相對輸入，還有保留狀態的模式切換。驗證在地化 UI 與窄螢幕雙指控制；若僅使用模擬測試，不得宣稱已在實體裝置上測試。將實際開場與戰鬥畫面和參考圖片／影片進行比對；確認全部 17 個模型與 15 段音效皆能載入。透過既有的 CMS Web Page 工作流程發佈，並驗證最終公開頁面，不要將已儲存的 CMS 紀錄視為部署完成。
-
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/battle-city-3d) · [線上展示](https://battle-city-3d.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102450239923720440"></a>
-
-### 互動式 3D 史前島嶼
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="互動式 3D 史前島嶼"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 和 WebGL，建立一座精美、高度細緻且完全互動的 3D 史前島嶼。所有內容都必須放在單一獨立 HTML 檔案中，直接以 Chrome 開啟即可執行。盡可能將資產嵌入檔案。
-
-視覺方向
-建立一座大型圓潤島嶼，四周環繞海洋，並透過透明的水下剖面呈現水下景觀。整體應具有高級微縮世界的質感：繁茂植被、富有表情的恐龍、豐富的材質、具氛圍感的光照，以及精緻流暢的動畫。採用一致且風格化的美術方向，不要只使用基本幾何形狀。
-ISLAND
-打造多樣化地形，包括沙灘、岩石峭壁、茂密的史前森林、巨型蕨類、瀑布、淡水池塘和火山。加入小型研究站、木製步道、觀景平台、補給箱和恐龍巢穴。島嶼的空間要足夠寬敞，讓恐龍能在不同區域之間自然移動。
-
-水下剖面
-水體必須在島嶼周圍形成深邃、圓潤的立體體積，並能透過側面清楚看見水下景觀。加入帶有貼圖的海床、岩石、水生植物、魚群、氣泡，以及一隻在水面下游動的綠色海生爬蟲類。不要把一般的陸生恐龍放在水下，也不要加入潛水艇。
-使用會動的波浪、菲涅耳反射、水下光影、岸邊泡沫和濺水效果。避免透明度排序瑕疵，以及島嶼與水體之間出現明顯縫隙。
-
-DINOSAURS
-加入數種外觀明顯不同的物種，例如長頸蜥腳類、三角龍、劍龍、大型獸腳類和較小型的群居動物。加入在上空盤旋的翼龍。
-讓每個物種都具備可辨識的解剖結構、經過塑形的身體、具關節結構的四肢、細緻的頭部、尾巴，以及符合物種特徵的皮膚紋理。避免用一眼可見的方塊或互不相連的球體組裝完成的恐龍。
-
-自然動畫
-使用階層式骨架，並正確配置關節位置。行走時必須清楚區分支撐相與擺動相：腳在接觸地面期間要保持踩穩，每一步抬腳時都要乾淨俐落。步幅必須配合移動速度。
-
-使用地形取樣和反向運動學，讓腳部保持貼地。加入重心轉移、細微的身體動作、平衡的尾巴擺動、轉頭和呼吸。恐龍絕不能漂浮、滑步、穿入地面，或穿過建築物、岩石、樹木和彼此。
-使用障礙物迴避和安全路徑。不同物種應具備不同的移動速度、步態模式和行為。海洋動物必須朝向前進的方向。
-
-INTERACTION
-允許使用者：
-
-自由旋轉鏡頭、縮放，並檢視水下剖面。
-選取一隻恐龍，並讓鏡頭平順地跟隨牠移動。
-
-將食物放在合適的位置，觀察附近的恐龍靠近並進食。
-
-觸發飲水、休息、鳴叫和群體移動。
-
-探索巢穴，觀看幼體孵化出巢。
-觸發海生爬蟲類濺起水花浮出水面的動作。
-在白天、日落和夜晚之間切換。
-調整降雨、風勢和火山活動。
-暫停模擬並重設場景。
-每個控制項都必須產生清楚、可見的回應。互動必須能重複執行，並避免重疊動畫導致角色姿勢錯亂。
-氛圍與音效
-加入隨風擺動的植被、飄動的雲朵、鳥類、昆蟲、雨滴粒子，以及夜晚研究站散發的溫暖燈光。加入安靜的氛圍音樂和環境音效，並提供可正常運作的音樂切換開關與音量滑桿。只有在使用者互動後才開始播放音訊。
-INTERFACE
-使用精簡、優雅且帶有英文標籤的介面。讓場景保持主導地位，避免大型面板遮住島嶼。版面配置必須適應桌面和行動裝置。
-技術品質
-針對重複出現的植被和道具使用實例化，採用高效率的幾何結構、合適的陰影和適度的後製處理。在豐富的視覺效果與流暢的即時效能之間取得平衡。
-建立完整場景，而不是示意模型。直接在桌面瀏覽器中測試最終 HTML，檢查畫面截圖和主控台，逐一操作所有互動功能，並在交付前修正載入錯誤、恐龍漂浮、腳步滑動、碰撞失效、水體瑕疵和鏡頭問題。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102450239923720440) · [查看原文](https://x.com/vib3coded/status/2102450842070569099) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102411087002112256"></a>
-
-### 《Sir, We Have Orc Problems》風格的塔防遊戲
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="《Sir, We Have Orc Problems》風格的塔防遊戲"></a>
-
-**提示詞**
-
-```text
-製作一款像《Sir, We Have Orc Problems》的塔防遊戲
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Sir, we have orc problemsみたいなTDゲーム作って
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102411087002112256) · [查看原文](https://x.com/nikzu_/status/2102411087002112256) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102276620124062065"></a>
-
-### 東京鐵塔的日夜 3D 場景與影片
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="東京鐵塔的日夜 3D 場景與影片"></a>
-
-**提示詞**
-
-```text
-請製作一件以東京鐵塔為主角、具有視覺吸引力的 3D 作品，以及一支供 X 貼文使用的約 30 秒影片。
-
-你是製作總監。請建立必要的子任務並委託調查與製作工作。從具體化需求、管理進度、確認成果、提出修改指示，到最後彙整全部交由你負責。
-
-【希望製作的內容】
-製作一座東京鐵塔，既能傳達從地面仰望時的高度，也能在靠近時看見鐵骨結構的細節。
-請同時準備白天與夜晚的版本：白天展現結構與塗裝，夜晚呈現燈光亮化之美。
-
-希望作品能讓人感覺「確實仔細觀察過東京鐵塔後製作」。請不要只重現塔的外形，也要調查並呈現塔腳的展開方式、鐵骨的組構方式、展望台、塔腳周邊建築等具有代表性的細節。周邊街景只要呈現出鐵塔的尺度與所在地氛圍即可，不必過度擴大範圍。
-
-【製作流程】
-・調查官方資料與照片，決定要重現的特色及其優先順序。
-・根據調查結果，為各個子任務下達具體的製作指示。
-・在早期階段確認實際的 3D 預覽，並調整形體、構圖與亮度。
-・由主控者親自檢視完成的圖片與影片，找出不自然之處或不足，並提出修改要求。
-・自行判斷細節的技術選擇與拍攝構成，持續推進至完成。
-
-請勿只用貼上照片或生成圖片的背景代替，務必以實際的 3D 幾何形體與鏡頭移動來呈現。請記錄已確認的事實，以及因資料不足而採用推定的部分。
-
-【影片】
-約 30 秒。請結合從地面仰望、近距離拍攝鐵骨與展望台，以及能看清整座鐵塔的遠景鏡頭，並呈現日夜變化。
-細節秒數分配請在查看完成的模型後，自行判斷最能傳達其魅力的構成。
-
-【交付內容】
-・可編輯的 Blender 檔案
-・X 貼文用 MP4 影片
-・日夜全景與細節的檢視用圖片
-・簡短的貼文文案
-・記載素材來源、重現範圍與驗證結果的 README
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
-
-あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
-
-【作ってほしいもの】
-地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
-昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
-
-「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
-
-【制作の進め方】
-・公式資料や写真を調査し、再現する特徴と優先順位を決める。
-・その調査を基に、各サブタスクへ具体的な制作指示を出す。
-・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
-・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
-・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
-
-写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
-
-【動画】
-約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
-細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
-
-【納品】
-・編集可能なBlenderデータ
-・X投稿用MP4動画
-・昼夜の全景と細部の確認画像
-・短い投稿文案
-・素材の出典、再現範囲、検証結果を記したREADME
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102276620124062065) · [查看原文](https://x.com/wafffle_dev/status/2102276620124062065) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="bubble-bay"></a>
-
-### 泡泡小鎮：3D 水球大戰
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="泡泡小鎮：3D 水球大戰"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
-
-**提示詞**
-
-```text
-打造 Bubble Bay：一座可遊玩的 Three.js 水球競技場，採用經典泡泡遊戲熟悉的大頭短身、露臉服裝角色風格。預設使用細節豐富的 Tripo 模型，並提供明顯的 Three.js 幾何比較切換功能，且切換時保留同一場對戰。使用三名新角色：浪芽、珊桃與團栗。依照提供的新角色概念圖與模型參考製作，保留其輪廓、臉部、色彩與服裝。
-
-浪芽是活潑的人類男孩，戴著一頂土耳其藍兜帽，帽上有一條連成一體、向側面延伸的波浪形冠飾；穿著橘色衣領與袖口、海軍藍短褲，以及鞋底為橘色的土耳其藍鞋子。珊桃是嬌小的人類女孩，留著深李紫色短鮑伯髮，戴著蜜桃粉色軟帽，兩側各有三個短花瓣裝飾；穿著薄荷綠外套、李紫色短吊帶褲，以及淡黃色靴子。團栗是圓滾滾的人類男孩，身形寬闊、呈梨形；戴著焦糖色圓形軟墊帽，帽沿以奶油色包覆臉部；穿著藍綠色短外套、奶油色下腹部服裝，以及海軍藍靴子。三人都呈現溫暖膚色的孩童臉孔，搭配簡單的深色橢圓眼睛與小小的微笑。他們是穿著全新設計服裝的孩子；不要把他們變成真正的水生生物，也不要重複使用先前可辨識的角色服裝。透過 Tripo CLI 分別生成每名角色，明確使用 tripo-p2，並為每名角色提供獨立的正面與背面圖像；接著綁定有效的雙足骨架與蒙皮。待機、跑步與跳躍都必須驅動實際骨節；檢查動作，修正頭飾、鞋子與身體的權重，並維持準確的來源資訊。若動作是本地製作，請明確標示為本地製作。
-
-本地化名稱：浪芽 / 랑야 / Langya、珊桃 / 산타오 / Shantao、团栗 / 퇀리 / Tuanli。初始容量／射程／速度等級：1/1/6、1/2/5、2/1/4；上限：6/7/9、6/7/8、9/8/8。將速度換算為每秒 0.25 + 等級*0.8 個世界單位；每個方格為 2 個單位。選擇一名角色後，將另外兩名角色指定為具獨立身分且能力檔案相符的對手。無論角色外觀多麼圓胖，實際遊戲的受擊半徑都必須一致。
-
-預設提供 15×13 的 Pirate／Patrit14 與 Village10 地圖。保留可辨識的金色甲板、黃色貨物、木箱、四門大砲與中央桅杆；村莊則包含四個不同色彩的住宅區、中央道路、樹籬與玩具積木。以發行商地圖作為參考，自行建構執行時期的美術內容，並記錄為了維持 3D 連續移動與 AI 逃脫所需的小型路徑開口。提供明亮的材質、陰影、海洋景觀，以及清楚的鏡頭跟隨與全景視圖。
-
-一名玩家對抗兩名合作型 AI 對手。使用 WASD／方向鍵移動，F 放置持續 2.5 秒的水泡，Space 跳上真正的平台，Shift 短衝，Q／E 旋轉鏡頭，V 切換視角，Escape 暫停。十字形水流會遵循障礙物，擊破第一個可破壞方塊，並串聯水泡。實作困住、逃脫、敵方捕獲、重生，以及可選的 3、6、9 或 12 次捕獲目標（預設 6 次），或 180 秒計分制；提供結果畫面與重試功能。觸控搖桿與動作按鈕必須能同時運作。
-
-使用六種生成的 Tripo 道具：氣球、射程藥水、溜冰鞋、投擲手套、踢擊靴與救援針。木箱有 85% 機率掉落道具。條件式道具權重為 30/30/30/2.5/3.5/4%。手套增加三次投擲次數，上限為六次。G 可將附近的水泡越過掩體投擲至最遠四格之外，保留水泡的持有者與原始引信時間，預留落點並顯示拋物線。飛行中的水泡若引信耗盡，會在落地時爆炸。K 可讓水泡滑行，直到受到阻擋為止，且不重設引信時間。X 使用救援針，初始為一根，上限為三根。清楚顯示道具欄與可用控制。
-
-提供中文、英文與韓文介面：中國大陸的 IANA 時區選擇中文，韓國／北韓選擇韓文，其他地區（包括香港、澳門與臺灣）選擇英文。手動選擇永遠優先。僅允許上傳內嵌貼圖、標準未壓縮、確實具備蒙皮的 GLB，大小上限為 40 MB、三角形上限為 150k。驗證骨骼、骨節與權重，拒絕靜態模型；若模型包含動畫，使用其內嵌動畫；對沒有動畫片段但可辨識為人形的模型提供基本骨節動作。無法辨識的骨架必須具備動畫。清楚說明骨架綁定與動畫的差異，提供 90 度方向調整，在瀏覽器本機處理，並依檔案雜湊指派穩定且平衡的能力值。
-
-建立 CTA 時務必使用 https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character。將 jared 標示為製作者，連結至 https://x.com/jaredliu_bravo。
-
-整合 13 種 ElevenLabs 音效，提供正規化、短衰減、距離／聲像、複音數量上限、音量與靜音控制：放置、爆裂、木箱、道具、稀有道具、投擲、落地、困住、救援、跳躍、勝利、失敗、踢擊。使用 ElevenLabs music_v2_5 製作兩首原創器樂曲，每首 90 秒，分別配合航海風格的海盜地圖與晴朗的鄰里場景。將音樂正規化至克制的 -20 LUFS 目標值，並在循環邊界進行交叉淡化。讓音樂擁有獨立音量控制，依地圖切換曲目，暫停時淡出，並遵循主音量靜音設定。不要重現原遊戲配樂。
-
-將獨立的原始碼、相依套件、測試與資產來源資訊置於 CMS 平台應用程式之外。將同源靜態資源與 MIT 授權聲明打包。於 Ego Lite 中驗證實際的桌面與觸控遊玩、上傳變體、語言與視覺切換。建立不可變更的審查版本，附加至現有的 CMS Web Page 12；審查期間保留現有的正式上線版本。只有在原始碼與資產權利取得真實且完整的清理確認後才可發布，接著驗證公開 URL、模型雜湊與運作行為。保留歷程，並區分已儲存的 CMS 紀錄、預覽與公開版本。
-
-載入模型資產時顯示明確的進度資訊，同時最多下載三個資產，閒置逾時時間為 30 秒，並嘗試兩次。重試時保留已成功完成的下載。直到所有模型就緒前，隱藏整個 Tripo／Three.js 分頁切換；完成後再顯示。不要將程序化載入中的佔位模型標示為已載入的 Tripo 模型。
-
-
-使用近距離透視跟隨鏡頭，起始位置在出生點外側，朝向競技場中央。保留 Q／E 旋轉鏡頭、滑鼠拖曳俯仰與 V 全景視圖。頂端放置精簡的記分板，左上方放置模式切換，底部附近顯示簡短通知。在滑鼠桌面裝置上隱藏搖桿與大型觸控操作按鈕，但保留小型稀有道具控制；在窄螢幕上支援精簡且可同時操作的觸控控制。加入具備藍綠色深度變化的動畫波浪著色器、有機造型的沙質小島與彎曲棕櫚樹和岩石、細緻的木紋與草地貼圖。讓每名受困角色都包覆在符合角色尺寸的半透明水泡中，水泡具有虹彩 Fresnel 邊緣、輕柔漂浮效果、小氣泡與地面漣漪。確認姿勢下的蒙皮頂點貼合模型，救援時重設抬升效果，並檢查反覆切換後的資源釋放。避免對整個場景套用昂貴的水膜全域折射處理；窄螢幕的像素比上限設為 1.5。
-
-
-提供清楚可見的「跟隨／全景」鏡頭控制項與 V 切換功能。在全景視圖中，支援使用 +／− 按鈕、滑鼠滾輪與雙指捏合，將畫面縮放至 100%～300%；地圖拖曳需受邊界限制，並提供「適合地圖」重設功能。切換鏡頭或算繪版本時，保留縮放狀態與進行中的對戰。以中文、英文與韓文提供精簡、不重疊的稀有道具控制項。
-
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/bubble-bay) · [查看原文](https://x.com/jaredliu_bravo/status/2102300855387205871) · [線上展示](https://bubble-bay.tripo.page/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102215638311694336"></a>
-
-### 互動式 3D 直升機設計展示
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="互動式 3D 直升機設計展示"></a>
-
-**提示詞**
-
-```text
-使用 Three.js 與 WebGL，在單一 HTML 檔案中建立一個細節豐富的現代直升機互動式 3D 場景。請製作可從各個角度觀看的真實 3D 幾何，而非圖片。
-
-視覺風格：
-高端航空設計展示，搭配淺灰色攝影棚背景、圓形展示平台、柔和陰影與逼真反射。
-直升機：
-
-流暢、流線型的機身，設計靈感來自 H145 等輕型雙發動機直升機。
-白色機身，深海軍藍色下腹部與藍色點綴條紋。
-弧形深色駕駛艙窗，具有反射效果，並精確貼合窗框密封條。
-側門、把手、面板接縫、鉚釘、登機踏板與天線。
-兩個發動機艙，配備進氣口、通風格柵與排氣口。
-五葉片主旋翼，具備細節豐富的旋翼轂、連接硬體與螺距控制連桿。
-逐漸收窄的尾樑、水平安定面，以及帶有整流罩的尾旋翼；其外罩必須有真實貫穿的開口。
-透過結構支架連接至機身的弧形滑橇式起落架。
-導航燈與閃爍信標燈。
-所有元件都必須以實體方式連接。避免零件懸浮、區段之間出現間隙、旋翼葉片穿入機身，或窗戶懸浮在機身上方。
-
-互動功能：
-
-拖曳滑鼠旋轉視角、滾動滑鼠滾輪縮放，並支援觸控操作。
-以漸進式加速與減速啟動及停止兩個旋翼。
-可調整旋翼速度。
-懸停模式：平順地從平台升空，在空中輕柔搖擺，停用時柔和降落。
-自動旋轉攝影機視角。
-正面、側面與尾部攝影機預設視角。
-重設攝影機與全螢幕控制項。
-三種塗裝：冰川藍與白色、救援橘，以及石墨色。
-介面：
-
-左上方：小型「AERONAUT / OBJECT STUDIES」標籤，以及大型「Horizon 05.」標題。
-右側：精簡面板，顯示規格、直升機狀態、塗裝選擇與旋翼速度。
-底部：控制項與互動提示。
-採用克制的字體設計、細邊框與寬裕留白。保持直升機不受遮擋。
-所有介面文字皆使用英文。
-技術需求：
-
-以程序式方式產生幾何，不得下載預先製作的直升機模型。
-使用 PBR 材質、攝影棚反射環境與柔和陰影。
-讓動畫不受影格率影響。
-在適當情況下重複使用幾何與材質，並限制像素比以提升效能。
-支援桌面與行動版面配置，並確保初始視角能看見完整旋翼跨度。
-若可行，請將相依項目嵌入 HTML，讓檔案能離線運作。
-WebGL 無法使用時，顯示有用的替代訊息。
-完成前，請從各個側面檢視模型、測試每項控制功能，並檢查主控台錯誤。特別注意輪廓、結構連接、玻璃窗與旋翼機構。
-
-請交付可運作的 HTML 檔案，而不只是說明。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
-
-Visual style:
-A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
-Helicopter:
-
-A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
-A white body with a dark navy underside and blue accent stripe.
-Curved, tinted cockpit windows with reflections and carefully fitted window seals.
-Side doors, handles, panel seams, rivets, boarding steps, and antennas.
-Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
-A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
-A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
-Curved landing skids attached to the fuselage with structural supports.
-Navigation lights and a blinking beacon.
-All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
-
-Interactions:
-
-Mouse drag to orbit, scroll to zoom, and touch controls.
-Start and stop both rotors with gradual acceleration and deceleration.
-Adjustable rotor speed.
-Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
-Automatic camera orbit.
-Front, side, and tail camera presets.
-Reset camera and fullscreen controls.
-Three liveries: glacier blue and white, rescue orange, and graphite.
-Interface:
-
-Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
-Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
-Bottom: controls and interaction hints.
-Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
-All interface text in English.
-Technical requirements:
-
-Generate the geometry procedurally without downloading a prebuilt helicopter model.
-Use PBR materials, a studio reflection environment, and soft shadows.
-Make animation independent of frame rate.
-Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
-Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
-If possible, embed dependencies in the HTML so the file works offline.
-Display a helpful fallback message if WebGL is unavailable.
-Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
-
-Deliver the working HTML file, not just an explanation.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/gpt-6-astra-2102215638311694336) · [查看原文](https://x.com/vib3coded/status/2102217028052377910) · [返回案例導覽](#all-prompts)
 
 ---
 

@@ -28,6 +28,14 @@
 <details>
 <summary>Explorar ejemplos (50)</summary>
 
+- [Una simulación 3D de la progresión del cáncer](#3d-cancer-progression-simulation-2095130778342408331)
+- [Mejoras en los efectos de fragmentación de un meteoroide](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
+- [Una nave cápsula de asalto con niveles de detalle](#lod-ready-assault-pod-spaceship-2095126622319845478)
+- [La recreación detallada de un estadio en 3D](#detailed-3d-stadium-recreation-2095123216419459454)
+- [Una aldea con molino de agua de mecánica precisa](#mechanically-accurate-water-mill-village-2095123063352561815)
+- [Una Dino-dex interactiva con shaders](#interactive-shader-driven-dino-dex-2095121568297083067)
+- [Un mundo vivo de vóxeles dentro de una botella](#living-voxel-world-inside-a-bottle-2095111213927510131)
+- [Una animación editable de teclado 3D](#editable-3d-keyboard-animation-2095111032171876470)
 - [Una exposición de mechas inspirados en Gundam](#gundam-inspired-mecha-showcase-2095106919530930221)
 - [Un portafolio en Three.js a partir de una referencia](#reference-driven-three-js-portfolio-2095104073590808644)
 - [Un modelo técnico interactivo del F-35A](#interactive-f-35a-technical-model-2095094543339446572)
@@ -70,16 +78,168 @@
 - [Un juego en Three.js en diez minutos, después perfeccionado](#ten-minute-three-js-game-then-refined-2094855905678446777)
 - [Un cerebro de cristal para demostrar capacidades](#glass-brain-capability-demo-2094853472864682360)
 - [Un castillo procedural de vóxeles para explorar](#procedural-voxel-castle-showcase-2093690427849191855)
-- [Prompt para montar un 4×4 al estilo Jeep en Blender](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
-- [Prompts de física de destrucción 3D para escenas HTML autónomas](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
-- [Una colección de prompts de Claude Opus 5 para los planos de un robot mecha](#mech-robot-blueprint-set-2082760534500188606)
-- [Prompt de Godot para un juego al estilo Need for Speed](#need-for-speed-style-godot-game-2082714235373584582)
-- [Prompt de simulación 3D de un acuario que se agrieta para Kimi K3](#cracking-aquarium-3d-simulation-2082528683747873194)
-- [Prompt para un juego de combate jugable con Kimi K3](#playable-combat-game-2082507403598373134)
-- [Prompt de Kimi K3 para un duelo al estilo League of Legends en un único HTML](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
-- [Prompt de Claude Opus 5 para un visualizador 3D del Sol en un solo archivo](#single-file-3d-sun-visualizer-2082461416049525077)
 
 </details>
+<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
+
+### Una simulación 3D de la progresión del cáncer
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="Una simulación 3D de la progresión del cáncer"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye una simulación educativa 3D de células cancerosas que muestre mutación, división, angiogénesis, invasión y metástasis, con una línea temporal, etiquetas y una distinción visual cuidadosa entre etapas.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [Publicación original](https://x.com/viewsfrom02108/status/2095130778342408331) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
+
+### Mejoras en los efectos de fragmentación de un meteoroide
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="Mejoras en los efectos de fragmentación de un meteoroide"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Revisa los efectos existentes de fragmentación del meteoroide y mejora los fragmentos, el calor, las estelas, la onda expansiva, los tiempos, la escala y la claridad desde la cámara sin estropear los controles actuales.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Publicación original](https://x.com/gladimdim/status/2095127248470692320) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
+
+### Una nave cápsula de asalto con niveles de detalle
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="Una nave cápsula de asalto con niveles de detalle"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Rediseña los modelos de alto y bajo nivel de detalle de una nave cápsula de asalto. Conserva su silueta, respeta los límites de triángulos, mejora el diseño de paneles y prepara el recurso para un juego en tiempo real.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [Publicación original](https://x.com/gladimdim/status/2095126622319845478) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
+
+### La recreación detallada de un estadio en 3D
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="La recreación detallada de un estadio en 3D"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Recrea el estadio de referencia como una escena 3D detallada y navegable, con gradas, campo, cubierta, iluminación y escala precisos. Después compara la fidelidad visual y el coste de generación.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [Publicación original](https://x.com/thebuggeddev/status/2095123216419459454) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
+
+### Una aldea con molino de agua de mecánica precisa
+
+[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="Una aldea con molino de agua de mecánica precisa"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Construye en Three.js una aldea con un molino de agua funcional: la rueda debe accionar engranajes, una leva y mazos con relaciones de transmisión creíbles. Los aldeanos y el movimiento ambiental deben dar vida a la escena.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [Publicación original](https://x.com/mira_senor_1102/status/2095123063352561815) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
+
+### Una Dino-dex interactiva con shaders
+
+[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Una Dino-dex interactiva con shaders"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una Dino-dex interactiva donde cada dinosaurio sea un modelo 3D en tiempo real. Usa un efecto Fresnel personalizado en GLSL, ocho contextos WebGL eficientes, tarjetas adaptables e información útil sobre cada especie.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [Publicación original](https://x.com/_Benviz/status/2095121568297083067) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
+
+### Un mundo vivo de vóxeles dentro de una botella
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="Un mundo vivo de vóxeles dentro de una botella"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea un mundo vivo de vóxeles dentro de una botella de cristal, con columnas de océano en capas, un velero, un faro, vida isleña y transiciones entre calma, tormenta y noche.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [Publicación original](https://x.com/vib3coded/status/2095111213927510131) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
+
+### Una animación editable de teclado 3D
+
+[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="Una animación editable de teclado 3D"></a>
+
+*Instrucciones basadas en la obra enlazada*
+
+**Prompt**
+
+```text
+Crea una animación editable de un teclado 3D con recorrido satisfactorio de las teclas, iluminación, movimiento de cámara y etiquetas, colores y tiempos configurables.
+```
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Publicación original](https://x.com/rege_dev/status/2095111032171876470) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
 
 ### Una exposición de mechas inspirados en Gundam
@@ -947,203 +1107,6 @@ Genera un gran castillo de vóxeles con líneas defensivas claras, torres, mural
 ```
 
 [Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Publicación original](https://x.com/hakmgpt/status/2093690427849191855) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
-
-### Prompt para montar un 4×4 al estilo Jeep en Blender
-
-[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Prompt para montar un 4×4 al estilo Jeep en Blender"></a>
-
-**Prompt**
-
-```text
-Diseña un 4×4 al estilo Jeep y móntalo en Blender pieza a pieza, sin modelado manual
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [Publicación original](https://x.com/slash1sol/status/2082845759452463405) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
-
-### Prompts de física de destrucción 3D para escenas HTML autónomas
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="Prompts de física de destrucción 3D para escenas HTML autónomas"></a>
-
-**Prompt**
-
-```text
-Un monster truck aplastando una fila de coches
-Dos coches saltando un cañón y chocando frontalmente en el aire
-Un yunque gigante aplastando coches uno a uno
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [Publicación original](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="mech-robot-blueprint-set-2082760534500188606"></a>
-
-### Una colección de prompts de Claude Opus 5 para los planos de un robot mecha
-
-[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · Recursos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Una colección de prompts de Claude Opus 5 para los planos de un robot mecha"></a>
-
-**Prompt**
-
-```text
-Comparto los prompts que usé con Claude OPUS 5 + Blender para crear los planos de un robot mecha DEL TAMAÑO DE UN GUNDAM usando matemáticas y físicas reales:
-
-«pensemos en el diseño del mecha: básicamente tiene 2 motores turboeje y funciona con motores eléctricos y energía hidráulica; también tiene una apu y quizá un sistema neumático. lleva baterías potentes que le permitan seguir un poco si la cosa se complica. estoy pensando en colocar los 2 motores sobre sus hombros, con el panel de servicio hacia fuera para poder hacer mantenimiento. por cierto, vuelve a mirar los sistemas del mecha y después vamos a construirlos todos físicamente. va a ser increíble. pon a algún agente a ayudarte y reconstruye el torso, pero deja un hueco grande en el centro para la cabina y una cápsula para dormir».
-
-«¿y si le ponemos ruedas en los pies con motores eléctricos? podrían ayudarlo a desplazarse buena parte del tiempo».
-
-«asigna un agente para que tome esas medidas y diseñe una pierna con cables reales que lleguen a los actuadores y demás».
-
-«vale, incorpora los nuevos glbs a la escena».
-
-«dios mío, esto es una locura. tío, vale, muestra rápido las otras piezas».
-
-«ponle a la cabeza de pocos polígonos cámaras FLIR y de visión nocturna reales, además de una CROWS M2 de los años 1980/1990».
-
-«es… precioso… T_T».
-
-«tenemos que articular el esqueleto de las piernas para que al animarlo respete las restricciones. además hace falta para calcular fuerzas y demás».
-
-«no pasa nada, de todos modos no entiendo casi nada jajaja».
-«vale, asegúrate de guardar lo que has construido, como los motores, la transmisión y las piernas, por si podemos reutilizarlo en otras zonas. dicho eso, pide a un agente que construya los brazos y las manos».
-
-«diseña también el mecanismo de las caderas para que encajen bien las piernas».
-
-«como yo lo veo, la unión entre la PELVIS y el PECHO soporta el par circular».
-
-«pide a un agente que cree un fusil semiautomático de mano con el sistema bofors para que el robot tenga disparos semiautomáticos rápidos, pew pew».
-
-«lo quiero de 40 mm, en realidad. que construya uno preciso pero de pocos polígonos para medir si va mejor como pistola o como fusil semiautomático».
-
-«haz los dos y luego otro que sea un cañón de abrams pero con mecanismo semiautomático».
-«crea un cerrojo y un muelle como los de un fusil».
-
-«vale, para la cabina estoy pensando en quitar todos los cables decorativos y demás y hacer cableado real o-O ¿qué opinas?».
-
-«solución: haz cableado real, pero tiéndelo como un animal salvaje».
-
-«incorpora lo del cañón de 120 mm».
-
-«ARTICULA y anima el funcionamiento del cañón de 120 mm».
-
-«quiero aquí una escotilla GRANDE y blindada para poder ELEVAR el asiento y que el piloto vea alrededor y maneje el mecha desde esa posición. además, los 4 visores telescópicos de la cabina necesitan una salida correspondiente arriba para que tenga sentido».
-«continúa articulando y animando el de 120 mm y también el mando de la escotilla; la pausa fue un clic accidental».
-
-«vale, creo que el vientre es buen lugar para el conjunto motor, pero no me gusta dónde están los motores. creo que deberíamos colocarlos más arriba y construir una estructura de celosía real que soporte el torso y los hombros… tú decides, ¿cómo harías el pecho? vamos a entrar por la escotilla superior, así que se puede construir la parte frontal…».
-
-«y la carcasa exterior puede ser de aluminio fino o incluso fibra de carbono, me da igual, pero tiene que verse genial. supongo que NCT podría servir como blindaje; no sé, tú decides. luego tendremos que poner algunas piezas para que esta monstruosidad tenga un aspecto algo más agradable… en fin, reúne a tu equipo y empieza a construir».
-
-«encontré este inversor PT125 flotando por ahí y no sé dónde debería ir».
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [Publicación original](https://x.com/Spectromachina/status/2082760534500188606) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
-
-### Prompt de Godot para un juego al estilo Need for Speed
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Prompt de Godot para un juego al estilo Need for Speed"></a>
-
-**Prompt**
-
-```text
-Hazme un juego tipo NFS.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [Publicación original](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
-
-### Prompt de simulación 3D de un acuario que se agrieta para Kimi K3
-
-[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · Animación
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Prompt de simulación 3D de un acuario que se agrieta para Kimi K3"></a>
-
-**Prompt**
-
-```text
-Crea un acuario de cristal cuyo panel lateral desarrolle una grieta visible y después reviente.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [Publicación original](https://x.com/UnslothAI/status/2082528683747873194) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="playable-combat-game-2082507403598373134"></a>
-
-### Prompt para un juego de combate jugable con Kimi K3
-
-[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Prompt para un juego de combate jugable con Kimi K3"></a>
-
-**Prompt**
-
-```text
-construye un juego de combate jugable
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/playable-combat-game-2082507403598373134) · [Publicación original](https://x.com/darshal_/status/2082507403598373134) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
-
-### Prompt de Kimi K3 para un duelo al estilo League of Legends en un único HTML
-
-[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · Juegos
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Prompt de Kimi K3 para un duelo al estilo League of Legends en un único HTML"></a>
-
-**Prompt**
-
-```text
-LES DI A KIMI K3 Y GPT-5.6 EL MISMO PROMPT EN VERDENT: CONSTRUIR UN 1 CONTRA 1 JUGABLE AL ESTILO LEAGUE OF LEGENDS EN UN ÚNICO ARCHIVO HTML.
-
-ambos entregaron un juego. los abrí uno al lado del otro y jugué a cada uno.
-
-solo cambié una cosa entre las ejecuciones: el modelo del desplegable en https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Publicación original](https://x.com/0x_fokki/status/2082474707727581564) · [Volver a los ejemplos](#all-prompts)
-
----
-
-<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
-
-### Prompt de Claude Opus 5 para un visualizador 3D del Sol en un solo archivo
-
-[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Prompt de Claude Opus 5 para un visualizador 3D del Sol en un solo archivo"></a>
-
-**Prompt**
-
-```text
-Construye un visualizador 3D del Sol girando en el espacio. Un archivo HTML.
-```
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [Publicación original](https://x.com/AlysisAI/status/2082461416049525077) · [Volver a los ejemplos](#all-prompts)
 
 ---
 

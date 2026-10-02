@@ -28,6 +28,14 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Vom Grundriss zum vollständigen 3D-Rundgang](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
+- [Interaktiver Voxel-Eisenbahntisch](#interactive-voxel-railway-table-2095719731860750613)
+- [Lebendiges Voxel-Buddelschiff](#living-voxel-ship-in-a-bottle-2095699049722581065)
+- [Prozeduraler lebendiger Ozean mit Sturmsimulation](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
+- [Überraschendes Three.js-Spiel in einem Versuch](#one-shot-three-js-surprise-game-2095663498101662198)
+- [Palace of Fine Arts in Blender nachgebaut](#palace-of-fine-arts-blender-recreation-2095653641164329143)
+- [Aquarium-Benchmark mit einem Prompt](#single-aquarium-benchmark-2095650251902239139)
+- [Rollenspiel mit Ego- und Verfolgerkamera](#rpg-with-first-and-third-person-cameras-2095648440978174276)
 - [Spielbares Echtzeit-3D-Spiel aus einem Prompt](#single-playable-real-time-3d-game-2095647685210669541)
 - [Druckbare USS-Enterprise-CAD-Baugruppe](#printable-uss-enterprise-cad-assembly-2095641163441254676)
 - [Moderne Villa als Blender-Szene](#modern-villa-scene-in-blender-2095636679264780481)
@@ -70,16 +78,168 @@
 - [Drachenhort als Blender-Szene](#dragon-lair-scene-in-blender-2095149546187653547)
 - [Multiplayer-Piratenwelt in Three.js](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Fliegender Kochtopf in Blender animiert](#flying-pot-animation-in-blender-2095132939667255657)
-- [3D-Simulation des Krebsverlaufs](#3d-cancer-progression-simulation-2095130778342408331)
-- [Verbesserte VFX für zerbrechende Meteoroiden](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
-- [Angriffskapsel-Raumschiff mit LOD-Modellen](#lod-ready-assault-pod-spaceship-2095126622319845478)
-- [Detailliertes Stadion in 3D nachgebaut](#detailed-3d-stadium-recreation-2095123216419459454)
-- [Mechanisch korrektes Wassermühlendorf](#mechanically-accurate-water-mill-village-2095123063352561815)
-- [Interaktiver shaderbasierter Dino-Dex](#interactive-shader-driven-dino-dex-2095121568297083067)
-- [Lebendige Voxelwelt in einer Flasche](#living-voxel-world-inside-a-bottle-2095111213927510131)
-- [Bearbeitbare 3D-Tastaturanimation](#editable-3d-keyboard-animation-2095111032171876470)
 
 </details>
+<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
+
+### Vom Grundriss zum vollständigen 3D-Rundgang
+
+[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="Vom Grundriss zum vollständigen 3D-Rundgang"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Wandle den Grundriss in einen vollständigen architektonischen 3D-Rundgang um. Beachte Raummaße und Laufwege, ergänze Türen, Fenster, Möbel, Materialien und Licht und erstelle eine Kamerafahrt, die den Grundriss verständlich macht.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [Originalbeitrag](https://x.com/aidarosgo3/status/2095725404883476661) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="interactive-voxel-railway-table-2095719731860750613"></a>
+
+### Interaktiver Voxel-Eisenbahntisch
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="Interaktiver Voxel-Eisenbahntisch"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue einen detaillierten Voxel-Eisenbahntisch in Three.js. Mehrere Züge sollen start- und stoppbar sein. Ermögliche Weichenstellung, Drehen und Zoomen, das Erkunden kleiner Städte und das Auslösen kleiner Umgebungsanimationen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [Originalbeitrag](https://x.com/DeryaTR_/status/2095719731860750613) · [Live-Demo](https://lindenhafen-railway.vercel.app/) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
+
+### Lebendiges Voxel-Buddelschiff
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="Lebendiges Voxel-Buddelschiff"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle ein detailliertes Voxel-Segelschiff des 17. Jahrhunderts in einer Glasflasche. Simuliere rollende Wellen und Schiffsbewegung, ergänze kreisende Möwen, einen Miniaturhafen und Korallenriffe und produziere eine filmische Kamerasequenz mit ruhiger Musik.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [Originalbeitrag](https://x.com/DeryaTR_/status/2095699049722581065) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
+
+### Prozeduraler lebendiger Ozean mit Sturmsimulation
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="Prozeduraler lebendiger Ozean mit Sturmsimulation"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erweitere den bereitgestellten Ein-Datei-Generator für stürmische Meeresoberflächen zu einem vollständigen prozeduralen Ozean. Ergänze Riffe, Tiefwasser, glaubwürdiges Wetter, Tierpopulationen mit emergentem Verhalten, ökologische Wechselwirkungen und eine Kamera für Oberfläche und Unterwasserwelt.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [Originalbeitrag](https://x.com/emollick/status/2095673885605630429) · [Quellcode](https://github.com/emollick/abyssal-living-deep) · [Live-Demo](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
+
+### Überraschendes Three.js-Spiel in einem Versuch
+
+[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="Überraschendes Three.js-Spiel in einem Versuch"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erstelle in einem Versuch ein originelles Three.js-Spiel, das den Titel „Amaze“ verdient. Wähle eine überraschende visuelle Mechanik, erkläre sie innerhalb weniger Sekunden, baue eine kurze Entwicklungskurve und ende mit einem befriedigenden Spektakel.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [Originalbeitrag](https://x.com/pratt_builds/status/2095663498101662198) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
+
+### Palace of Fine Arts in Blender nachgebaut
+
+[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Palace of Fine Arts in Blender nachgebaut"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue San Franciscos Palace of Fine Arts in Blender nach: erkennbare Proportionen der Rotunde, Kolonnaden, Lagune, Vegetation, verwitterte Materialien und optimistisch-filmisches Licht im Geist der Weltausstellungszeit.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [Originalbeitrag](https://x.com/sharifshameem/status/2095653641164329143) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="single-aquarium-benchmark-2095650251902239139"></a>
+
+### Aquarium-Benchmark mit einem Prompt
+
+[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="Aquarium-Benchmark mit einem Prompt"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Baue aus dem Referenzbild mit einem Prompt ein 3D-Aquariumspiel. Triff Anordnung und Stimmung und ergänze lebendige Fische, Wasserkaustiken, Orbitsteuerung und einen kleinen Interaktionsablauf zum Vergleich von Modellergebnissen.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [Originalbeitrag](https://x.com/iamtonyzhu/status/2095650251902239139) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
+
+### Rollenspiel mit Ego- und Verfolgerkamera
+
+[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="Rollenspiel mit Ego- und Verfolgerkamera"></a>
+
+*Arbeitsanweisung auf Grundlage des verlinkten Werks*
+
+**Prompt**
+
+```text
+Erweitere ein Three.js-Rollenspiel um Ego- und Third-Person-Kameras. Bewegung und Erkundung sollen beim Wechsel zwischen beiden Ansichten erhalten bleiben.
+```
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [Originalbeitrag](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="single-playable-real-time-3d-game-2095647685210669541"></a>
 
 ### Spielbares Echtzeit-3D-Spiel aus einem Prompt
@@ -919,166 +1079,6 @@ Erstelle in Blender einen verspielten fliegenden Kochtopf mit klarer Silhouette,
 ```
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [Originalbeitrag](https://x.com/alafrayme/status/2095132939667255657) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
-
-### 3D-Simulation des Krebsverlaufs
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="3D-Simulation des Krebsverlaufs"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue eine lehrreiche 3D-Krebszellsimulation, die Mutation, Teilung, Angiogenese, Invasion und Metastasen zeigt. Ergänze Zeitleiste, Beschriftungen und eine sorgfältige visuelle Unterscheidung der Stadien.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [Originalbeitrag](https://x.com/viewsfrom02108/status/2095130778342408331) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
-
-### Verbesserte VFX für zerbrechende Meteoroiden
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="Verbesserte VFX für zerbrechende Meteoroiden"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Untersuche die vorhandenen Meteoroiden-Zerfalls-VFX und verbessere Fragmentierung, Hitze, Spuren, Druckwelle, Timing, Maßstab und Kameralesbarkeit, ohne die bestehende Steuerung zu beschädigen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Originalbeitrag](https://x.com/gladimdim/status/2095127248470692320) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
-
-### Angriffskapsel-Raumschiff mit LOD-Modellen
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Assets
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="Angriffskapsel-Raumschiff mit LOD-Modellen"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Überarbeite High- und Low-LOD-Modelle eines Angriffskapsel-Raumschiffs. Bewahre die Silhouette, halte Dreiecksbudgets ein, verbessere die Panelsprache und bereite das Asset für ein Echtzeitspiel vor.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [Originalbeitrag](https://x.com/gladimdim/status/2095126622319845478) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
-
-### Detailliertes Stadion in 3D nachgebaut
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="Detailliertes Stadion in 3D nachgebaut"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue das Referenzstadion als detaillierte, begehbare 3D-Szene mit präzisen Tribünenrängen, Spielfeld, Dach, Beleuchtung und Maßstab nach. Vergleiche anschließend Bildtreue und Generierungskosten.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [Originalbeitrag](https://x.com/thebuggeddev/status/2095123216419459454) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
-
-### Mechanisch korrektes Wassermühlendorf
-
-[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="Mechanisch korrektes Wassermühlendorf"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Baue ein funktionierendes Three.js-Wassermühlendorf, in dem das Rad Zahnräder, Nocken und Stampfer mit plausiblen Übersetzungen antreibt. Dorfbewohner und Umgebungsbewegung sollen die Szene beleben.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [Originalbeitrag](https://x.com/mira_senor_1102/status/2095123063352561815) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
-
-### Interaktiver shaderbasierter Dino-Dex
-
-[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Interaktiver shaderbasierter Dino-Dex"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle einen interaktiven Dino-Dex, in dem jeder Dinosaurier ein live gerendertes 3D-Modell ist. Nutze eigene GLSL-Fresnel-Effekte, acht effiziente WebGL-Kontexte, responsive Karten und informative Artbeschreibungen.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [Originalbeitrag](https://x.com/_Benviz/status/2095121568297083067) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
-
-### Lebendige Voxelwelt in einer Flasche
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="Lebendige Voxelwelt in einer Flasche"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine lebendige Voxelwelt in einer Glasflasche mit geschichteten Meeressäulen, Segelschiff, Leuchtturm, Inselleben und Übergängen zwischen Ruhe, Sturm und Nacht.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [Originalbeitrag](https://x.com/vib3coded/status/2095111213927510131) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
-
-### Bearbeitbare 3D-Tastaturanimation
-
-[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="Bearbeitbare 3D-Tastaturanimation"></a>
-
-*Arbeitsanweisung auf Grundlage des verlinkten Werks*
-
-**Prompt**
-
-```text
-Erstelle eine bearbeitbare 3D-Tastaturanimation mit befriedigendem Tastenhub, Licht, Kamerabewegung und konfigurierbaren Beschriftungen, Farben und Timings.
-```
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Originalbeitrag](https://x.com/rege_dev/status/2095111032171876470) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

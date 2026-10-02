@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (38)</summary>
+<summary>Khám phá ví dụ (46)</summary>
 
+- [Prompt Blender lắp xe 4x4 kiểu Jeep](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [Prompt vật lý phá hủy 3D cho cảnh HTML độc lập](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Bộ prompt Claude Opus 5 thiết kế robot mech](#mech-robot-blueprint-set-2082760534500188606)
+- [Prompt game Godot kiểu Need for Speed](#need-for-speed-style-godot-game-2082714235373584582)
+- [Prompt Kimi K3 mô phỏng bể cá nứt trong 3D](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Prompt game chiến đấu chơi được cho Kimi K3](#playable-combat-game-2082507403598373134)
+- [Prompt Kimi K3 cho game 1 đấu 1 kiểu League of Legends trong một tệp HTML](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [Prompt Claude Opus 5 trực quan hóa Mặt Trời 3D một tệp](#single-file-3d-sun-visualizer-2082461416049525077)
 - [Prompt phòng 3D quanh góc máy tính cho bản Three.js một tệp](#explorable-3d-room-with-computer-workstation-2082451081733591520)
 - [Prompt Claude Opus 5 cho cửa phi Euclid trong Unreal Engine 5](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
 - [Prompt FPS đơn giản cho game Three.js](#simple-first-person-shooter-in-three-js-2082242351372599770)
@@ -68,6 +76,203 @@
 - [Prompt Three.js cho trải nghiệm đi bên trong máy bay](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### Prompt Blender lắp xe 4x4 kiểu Jeep
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Prompt Blender lắp xe 4x4 kiểu Jeep"></a>
+
+**Prompt**
+
+```text
+Thiết kế xe 4x4 kiểu Jeep và lắp trong Blender từng bộ phận, không dựng mô hình thủ công
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [Bài đăng gốc](https://x.com/slash1sol/status/2082845759452463405) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### Prompt vật lý phá hủy 3D cho cảnh HTML độc lập
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="Prompt vật lý phá hủy 3D cho cảnh HTML độc lập"></a>
+
+**Prompt**
+
+```text
+Xe monster truck nghiền nát một hàng ô tô
+Hai ô tô nhảy qua hẻm núi và đâm trực diện giữa không trung
+Chiếc đe khổng lồ đè bẹp từng ô tô
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Bộ prompt Claude Opus 5 thiết kế robot mech
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Bộ prompt Claude Opus 5 thiết kế robot mech"></a>
+
+**Prompt**
+
+```text
+Chia sẻ các prompt tôi dùng với Claude OPUS 5 + Blender để tạo bản vẽ robot mech CỠ GUNDAM bằng toán và vật lý thật:
+
+“hãy nghĩ về thiết kế mech: cơ bản có 2 động cơ turboshaft, chạy bằng mô-tơ điện + thủy lực, còn có apu, có thể cả khí nén; pin khỏe giúp nó trôi tiếp chút nếu có sự cố. tôi nghĩ đặt 2 động cơ trên vai, panel bảo dưỡng hướng ra ngoài để thao tác. xem lại hệ thống mech rồi ta sẽ dựng thật mọi hệ thống. sẽ tuyệt lắm; cho agent hỗ trợ và dựng lại thân, chừa khoảng lớn ở giữa cho buồng lái + khoang ngủ.”
+
+“nếu cho nó bánh ở bàn chân chạy bằng mô-tơ điện thì sao? có thể hỗ trợ di chuyển phần lớn.”
+
+“giao agent dùng các thông số này để thiết kế chân, có dây thật vào actuator và các thứ.”
+
+“ok thêm glb mới vào cảnh.”
+
+“trời ơi điên thật. bro ok hiện nhanh mấy phần còn lại.”
+
+“cho đầu low poly camera FLIR + NV thật, cùng súng máy CROWS M2 kiểu thập niên 1980/1990.”
+
+“nó… đẹp quá… T_T”
+
+“phải rig khung chân để khi tôi animate nó tuân ràng buộc; cũng cần để tính lực và các thứ.”
+
+“không sao, tôi cũng chẳng hiểu phần lớn đâu haha.”
+“ok, động cơ, truyền động và chân đã dựng, nhớ lưu để dùng lại nếu cần ở phần khác. rồi bảo agent làm cánh tay và bàn tay.”
+
+“thiết kế cơ cấu hông cho khớp chân cho đúng.”
+
+“theo tôi, khớp giữa XƯƠNG CHẬU và NGỰC có mô-men xoay tròn.”
+
+“nhờ agent dựng súng trường bán tự động cầm tay dùng hệ bofors để robot bắn pew pew nhanh.”
+
+“tôi muốn 40 mm; dựng chuẩn nhưng low poly để đo xem hợp làm súng ngắn hay súng trường bán tự động hơn.”
+
+“làm cả hai, rồi một bản pháo abrams nhưng có cơ cấu bán tự động.”
+“tạo khóa nòng và lò xo như súng trường.”
+
+“buồng lái thì tôi nghĩ bỏ dây trang trí và làm dây thật o-O bạn nghĩ sao?”
+
+“giải pháp: đi dây thật, nhưng đi như thú hoang.”
+
+“thêm khẩu pháo 120 mm đó.”
+
+“RIG và animate hoạt động pháo 120 mm.”
+
+“tôi muốn cửa sập LỚN bọc giáp ở đây để ghế NÂNG lên, phi công nhìn quanh và điều khiển mech từ đó. 4 kính quan sát dạng ống trong buồng lái cũng cần đầu cuối tương ứng trên nóc mới hợp lý.”
+“tiếp tục rig, animate 120 mm và điều khiển cửa sập; tôi bấm nhầm pause.”
+
+“cụm năng lượng đặt ở bụng hợp lý, nhưng tôi không thích chỗ động cơ. nên đặt cao hơn và có giàn chịu lực thật đỡ thân, vai… tùy bạn, muốn dựng ngực thế nào? ta vào qua cửa sập trên nên mặt trước ngực có thể dựng…”
+
+“vỏ ngoài có thể nhôm mỏng hay sợi carbon, không quan trọng, phải ngầu. NCT có thể làm giáp? không biết, tùy bạn. sau này phải thêm vài phần để con quái này dễ nhìn hơn… thôi gọi đội và bắt đầu dựng.”
+
+“tôi thấy inverter PT125 trôi ở đây mà không biết nó phải nằm đâu.”
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [Bài đăng gốc](https://x.com/Spectromachina/status/2082760534500188606) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Prompt game Godot kiểu Need for Speed
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Prompt game Godot kiểu Need for Speed"></a>
+
+**Prompt**
+
+```text
+Làm cho tôi game kiểu NFS.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [Bài đăng gốc](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### Prompt Kimi K3 mô phỏng bể cá nứt trong 3D
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Prompt Kimi K3 mô phỏng bể cá nứt trong 3D"></a>
+
+**Prompt**
+
+```text
+Tạo bể cá thủy tinh có vách bên xuất hiện vết nứt rõ rồi vỡ tung.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [Bài đăng gốc](https://x.com/UnslothAI/status/2082528683747873194) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Prompt game chiến đấu chơi được cho Kimi K3
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Prompt game chiến đấu chơi được cho Kimi K3"></a>
+
+**Prompt**
+
+```text
+tạo game chiến đấu chơi được
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/playable-combat-game-2082507403598373134) · [Bài đăng gốc](https://x.com/darshal_/status/2082507403598373134) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### Prompt Kimi K3 cho game 1 đấu 1 kiểu League of Legends trong một tệp HTML
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Prompt Kimi K3 cho game 1 đấu 1 kiểu League of Legends trong một tệp HTML"></a>
+
+**Prompt**
+
+```text
+TÔI CHO KIMI K3 VÀ GPT-5.6 CÙNG PROMPT TRÊN VERDENT: DỰNG GAME 1 ĐẤU 1 KIỂU LEAGUE OF LEGENDS CHƠI ĐƯỢC TRONG MỘT TỆP HTML.
+
+cả hai đều làm ra game. tôi mở cạnh nhau và chơi từng bản.
+
+tôi chỉ thay một thứ giữa hai lượt: mô hình trong danh sách ở https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Bài đăng gốc](https://x.com/0x_fokki/status/2082474707727581564) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### Prompt Claude Opus 5 trực quan hóa Mặt Trời 3D một tệp
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Prompt Claude Opus 5 trực quan hóa Mặt Trời 3D một tệp"></a>
+
+**Prompt**
+
+```text
+Dựng trình trực quan hóa 3D Mặt Trời xoay trong không gian. Một tệp HTML.
+```
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [Bài đăng gốc](https://x.com/AlysisAI/status/2082461416049525077) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
 
 ### Prompt phòng 3D quanh góc máy tính cho bản Three.js một tệp

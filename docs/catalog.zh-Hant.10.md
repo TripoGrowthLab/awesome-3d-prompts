@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>瀏覽案例 (38)</summary>
+<summary>瀏覽案例 (46)</summary>
 
+- [用於 Blender 組裝 Jeep 風格 4x4 的提示詞](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [用於獨立 HTML 場景的 3D 破壞物理提示詞](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Claude Opus 5 機甲機器人藍圖提示集](#mech-robot-blueprint-set-2082760534500188606)
+- [Need for Speed 風格 Godot 遊戲提示詞](#need-for-speed-style-godot-game-2082714235373584582)
+- [Kimi K3 玻璃水族箱開裂爆裂 3D 模擬提示詞](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Kimi K3 的可玩戰鬥遊戲提示詞](#playable-combat-game-2082507403598373134)
+- [Kimi K3 的《英雄聯盟》風格 1v1 單頁 HTML 遊戲提示詞](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [適用於 Claude Opus 5 的單檔案 3D 太陽視覺化提示詞](#single-file-3d-sun-visualizer-2082461416049525077)
 - [圍繞電腦工作站的 3D 房間提示詞，用於單檔案 Three.js 建置](#explorable-3d-room-with-computer-workstation-2082451081733591520)
 - [Claude Opus 5 的非歐幾里得門傳送門提示](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
 - [用於 Three.js 遊戲建置的簡單 FPS 提示詞](#simple-first-person-shooter-in-three-js-2082242351372599770)
@@ -68,6 +76,203 @@
 - [Three.js 飛機內部漫遊體驗提示詞](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### 用於 Blender 組裝 Jeep 風格 4x4 的提示詞
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="用於 Blender 組裝 Jeep 風格 4x4 的提示詞"></a>
+
+**提示詞**
+
+```text
+設計一輛 Jeep 風格的 4x4，並在 Blender 中逐部件組裝，不進行任何手工建模
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [查看原文](https://x.com/slash1sol/status/2082845759452463405) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### 用於獨立 HTML 場景的 3D 破壞物理提示詞
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="用於獨立 HTML 場景的 3D 破壞物理提示詞"></a>
+
+**提示詞**
+
+```text
+一輛怪獸卡車碾過一排汽車
+兩輛汽車飛躍峽谷，並在空中迎頭相撞
+一把巨大的鐵砧逐個壓扁汽車
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [查看原文](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Claude Opus 5 機甲機器人藍圖提示集
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Claude Opus 5 機甲機器人藍圖提示集"></a>
+
+**提示詞**
+
+```text
+分享一下我用 Claude OPUS 5 + Blender 建立一臺 GUNDAM 尺寸機甲機器人藍圖時使用的提示，基於真實數學和物理：
+
+"讓我們來考慮機甲的設計，本質上它有 2 臺渦輪軸發動機，並由電動馬達 + 液壓動力驅動，它還有一個輔助動力裝置，或許也有氣動系統；它有強力電池，在情況變糟時能讓它稍微滑行一下。我在想把這 2 臺發動機放在機甲的肩部，服務面板朝外，這樣我們就可以對它進行維護。順便再看一遍機甲的系統，然後我們就要把所有系統都物理化地建立出來。這會很棒，給你安排一個代理來幫你做這件事，然後重建軀幹部分，但在中間留出一個大空間給駕駛艙 + 睡眠艙。"
+
+"如果我們給它的腳裝上由電動馬達驅動的輪子呢？這樣大多數時候應該能輔助移動。"
+
+"分配一個代理來讀取這些指標並建立腿部設計，把真實的電線接入執行器之類的東西。"
+
+"好，把新的 glb 模型注入場景。"
+
+"天啊，這也太瘋狂了。夥計，快把其他部分先顯示出來。"
+
+"給那個低多邊形頭部加上真正的 FLIR + NV 攝像頭，以及一把 1980/1990 年代的 CROWS M2 機槍。"
+
+"它……太美了……T_T"
+
+"我們必須給腿部骨架做繫結，這樣如果我給它做動畫，它就會遵守約束，而且這對計算力等也很必要。"
+
+"沒事，我反正也不太懂哈哈，"
+"好，所以你已經做好的那些東西，比如發動機、動力傳動系統和腿部，把這些部分儲存好以便以後使用，萬一我們能在其他地方重複使用它們。話雖如此，指示一個代理去建置手臂和手。"
+
+"另外，正確設計髖部機構以適配腿部。"
+
+"在我看來，PELVIS 和 CHEST 之間的關節具有圓形扭矩。"
+
+"找一個代理，使用 bofors 系統建立一把手持半自動步槍，這樣機器人就有些快速射擊的半自動砰砰武器了。"
+
+"我想要 40mm 的，真的做一個出來，準確但保持低多邊形，這樣我們就能測量它是更適合作為手槍還是半自動步槍。"
+
+"兩種都做，然後再做一個像 abrams 加農炮但帶半自動機制的版本。"
+"建立一個像步槍那樣的槍栓和彈簧。"
+
+"好，所以我在想，駕駛艙裡把所有裝飾性的線纜之類都去掉，真正做真實佈線 o-O 你怎麼看"
+
+"方案：做真實佈線，但像一頭野蠻動物那樣佈線。"
+
+"注入 120mm 加農炮那個東西。"
+
+"給 120mm 加農炮的運作做繫結和動畫。"
+
+"我想在這裡加一個裝甲大艙門，這樣我們就能讓座椅升起，讓駕駛員能從那個位置看到周圍並駕駛機甲，而且駕駛艙內的 4 個伸縮式觀察窗在頂部也需要有對應的終點，這樣才合理。"
+"繼續給 120mm 做繫結和動畫，還有艙門命令，剛才是誤觸暫停。"
+
+"好，所以動力裝置，我覺得腹部是個不錯的位置，不過我不喜歡發動機現在的位置，我覺得我們應該把它們放到現有位置的上方，並用真實的桁架結構來支撐軀幹和肩部……看你怎麼決定，你想怎麼做胸部？我們要做艙門入口，這樣前胸就可以建出來……"
+
+"好，外殼可以用厚鋁甚至碳纖維，我無所謂，但必須看起來很酷，我猜 NCT 可以作為裝甲嗎？不知道，你來決定，我們之後還得加一些東西讓這個怪物看起來沒那麼難以接受……總之，帶上你的團隊開始建造。"
+
+"我發現這個 inverter PT125 到處漂著，我不知道它應該放在哪。"
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [查看原文](https://x.com/Spectromachina/status/2082760534500188606) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Need for Speed 風格 Godot 遊戲提示詞
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed 風格 Godot 遊戲提示詞"></a>
+
+**提示詞**
+
+```text
+給我做一個 NFS 型別的遊戲。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [查看原文](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### Kimi K3 玻璃水族箱開裂爆裂 3D 模擬提示詞
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Kimi K3 玻璃水族箱開裂爆裂 3D 模擬提示詞"></a>
+
+**提示詞**
+
+```text
+建立一個玻璃水族箱，其側板先出現可見裂紋，然後破裂。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [查看原文](https://x.com/UnslothAI/status/2082528683747873194) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Kimi K3 的可玩戰鬥遊戲提示詞
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 的可玩戰鬥遊戲提示詞"></a>
+
+**提示詞**
+
+```text
+建置一個可玩的戰鬥遊戲
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/playable-combat-game-2082507403598373134) · [查看原文](https://x.com/darshal_/status/2082507403598373134) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### Kimi K3 的《英雄聯盟》風格 1v1 單頁 HTML 遊戲提示詞
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Kimi K3 的《英雄聯盟》風格 1v1 單頁 HTML 遊戲提示詞"></a>
+
+**提示詞**
+
+```text
+我在 Verdent 上給 Kimi K3 和 GPT-5.6 輸入了同一個提示詞：在一個 HTML 檔案裡建置一個可玩的英雄聯盟風格 1v1。
+
+兩者都生成了一個遊戲。我把它們並排開啟逐個玩了一遍。
+
+我在兩次執行之間只改了一個東西：https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm 下拉選單裡的模型
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [查看原文](https://x.com/0x_fokki/status/2082474707727581564) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### 適用於 Claude Opus 5 的單檔案 3D 太陽視覺化提示詞
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="適用於 Claude Opus 5 的單檔案 3D 太陽視覺化提示詞"></a>
+
+**提示詞**
+
+```text
+建置一個在太空中旋轉的 3D 太陽視覺化器。一個 HTML 檔案。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [查看原文](https://x.com/AlysisAI/status/2082461416049525077) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
 
 ### 圍繞電腦工作站的 3D 房間提示詞，用於單檔案 Three.js 建置

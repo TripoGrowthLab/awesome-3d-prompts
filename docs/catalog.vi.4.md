@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Trình khám phá giải phẫu 3D tương tác](#gpt-6-astra-2099206962344800541)
+- [Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt](#gpt-6-astra-2099172061092381027)
+- [Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu](#gpt-6-astra-2098980384260456813)
+- [Hoạt ảnh origami 3D tự gấp](#gpt-6-astra-2098909584996057283)
+- [Atlas Chernobyl](#gpt-6-astra-2098841316591346006)
+- [Mô phỏng bàn cát động lực](#gpt-6-astra-2098831830002851846)
+- [Tái dựng 3D Hội chợ Thế giới Chicago năm 1893](#gpt-6-astra-2098795017955418202)
+- [Khung ảnh in 3D dạng lắp ghép có khớp nối](#gpt-6-astra-2098774359926297011)
 - [Trò chơi bay Skybound trên trình duyệt](#gpt-6-astra-2098739181510164652)
 - [DEVICE: Game giải đố 3D chân thực sử dụng chính smartphone](#gpt-6-astra-2098715488369152087)
 - [Video trình diễn dựng 3D “Thiền cảnh · Cổ tự”](#gpt-6-astra-2098697876155076820)
@@ -70,16 +78,392 @@
 - [Sân trong Trung Hoa tương tác](#gpt-6-astra-2096971051334857181)
 - [Thế giới cảnh quan VRChat “Đường chân trời nơi trọng lực tan vỡ”](#gpt-6-astra-2096966425017467344)
 - [Đường phố thu nhỏ vô tận với Three.js WebGPU](#gpt-6-astra-2096956214680965501)
-- [Cảnh 3D Hogwarts](#gpt-6-astra-2096907617117540478)
-- [Tạo slime mềm tương tác bằng Three.js và WebGPU](#gpt-6-astra-2096793432987464010)
-- [Mô hình nhân vật LEGO cho game bằng Blender MCP](#astra-3d-2096766465730847059)
-- [Phối cảnh tháo rời smartphone tương tác](#gpt-6-astra-2096685163111694556)
-- [Trò chơi khám phá thế giới 3D Mini World](#gpt-6-astra-2096641728497275011)
-- [Render Trái Đất xoay trong Blender](#gpt-6-astra-2096637194270134742)
-- [RPG hành động dark fantasy bằng Three.js](#gpt-6-astra-2096637091627364531)
-- [Game phiêu lưu fantasy ven biển Windhaven](#gpt-6-astra-2096629506047955327)
 
 </details>
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### Trình khám phá giải phẫu 3D tương tác
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="Trình khám phá giải phẫu 3D tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng một trình khám phá giải phẫu 3D tương tác, đẹp mắt, sử dụng các bộ dữ liệu khoa học công khai. Bắt đầu với góc nhìn bên ngoài, sau đó dần trở nên trong suốt khi tôi phóng to để hiển thị phần giải phẫu bên dưới.
+
+Cho phép tôi xoay mô hình, tách riêng các cấu trúc, chọn các vùng được gắn nhãn và bật/tắt các lớp từ bảng điều khiển bên. Thêm các tab riêng cho giải phẫu, kết nối và từng tế bào, kèm tín hiệu động cùng các tùy chỉnh có thể điều chỉnh.
+
+Sử dụng giao diện hiện đại, tối giản với ánh sáng dịu, màu sắc tinh tế, chuyển cảnh mượt mà và rất ít chữ. Thêm mũi tên cùng một hướng dẫn trực quan ngắn. Đảm bảo hoạt động tốt trên máy tính và thiết bị di động.
+
+Sử dụng hình học giải phẫu thực tế khi có thể, trích dẫn các nguồn và phân biệt rõ dữ liệu khoa học với hoạt ảnh minh họa. Xây dựng một website hoạt động hoàn chỉnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099206962344800541) · [Bài đăng gốc](https://x.com/k1rallik/status/2099206962344800541) · [Mã nguồn](https://github.com/bubblik525/cat_brain_anatomy) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="Phân cảnh 3D khu ven biển có thể chơi trên trình duyệt"></a>
+
+**Prompt**
+
+```text
+> khóa đặc tả (TZ-gta-slice.md)
+
+prompt: "Xây dựng một phân cảnh 3D có thể chơi trên trình duyệt. Không thay đổi đặc tả này sau khi đã khóa. Ưu tiên khu vực và đoạn cảnh trước. Bổ sung điều khiển sau."
+
+> stack (Vite, TypeScript thuần, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack đã được cố định. Vite. TypeScript thuần. Three.js. cannon-es. Web Audio. Một URL trên trình duyệt."
+
+> khung hình (hoàng hôn trên mặt nước, mặt đường nhựa ướt, hàng cọ)
+
+prompt: "Một khu ven biển. Hoàng hôn trên mặt nước. Mặt đường nhựa ướt. Hàng cọ. Tập trung khung hình vào ánh sáng và camera, không phải số lượng polygon. Không dùng ánh sáng xám mặc định. Không để các khối hộp trơ trọi."
+
+> ba người (một cảnh, một ô tô, khoảng 20 giây)
+
+prompt: "Giữ cả ba người trong cùng một cảnh. Họ trò chuyện. Sau đó họ ngồi vào cùng một chiếc ô tô. Khoảng 20 giây. Ưu tiên chất lượng thay vì thêm công tắc."
+
+> cắt cảnh (15 đến 20 giây, giữ chuyển động mượt mà)
+
+prompt: "Nếu bị giật, rút ngắn đoạn cảnh xuống còn 15 đến 20 giây. Giữ chuyển động mượt mà. Nếu tụt khung hình, cắt bớt người đi bộ, không cắt ánh sáng."
+
+> âm thanh (giọng người, pad nền dưới lời thoại, tiếng động cơ ô tô)
+
+prompt: "Giọng nói phải giống người thật, không phải robot. Đặt pad âm thanh nhẹ dưới lời thoại, tuyệt đối không lấn át lời thoại. Khi họ ngồi vào xe, thêm tiếng động cơ ô tô trầm, không dùng âm thanh chói như tiếng cưa. Không có tiếng xì radio."
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2099172061092381027) · [Bài đăng gốc](https://x.com/Lummox_eth/status/2099172061092381027) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="Triển khai UV và bake lại 4K cho mô hình quần áo không có đầu"></a>
+
+**Prompt**
+
+```text
+Trong Blender MCP, hãy thực hiện triển khai UV cho “mô hình không có đầu, bao gồm quần áo và tay chân” đang được chọn, đồng thời bake lại kết cấu hiện có ở độ phân giải 4K. 
+
+Mục tiêu là giữ nguyên diện mạo ban đầu và tạo UV có cấu trúc dễ đọc như rập may của quần áo, đồng thời thuận tiện cho việc vẽ lại về sau. Hãy thực hiện theo trình tự như một nghệ sĩ con người: quan sát → thiết kế seam → triển khai theo từng bộ phận → chỉnh biến dạng → sắp xếp → bake.
+
+1. Bảo toàn dữ liệu gốc
+Trước khi bắt đầu, hãy lưu thành tệp mới, giữ lại UV, hình ảnh và vật liệu cũ, đồng thời tạo UV mới có tên “UV\_Final”.
+Không được thay đổi hình dạng, topology, thứ tự đỉnh, weight, shape key hoặc rig.
+
+2. Quan sát mô hình và thiết kế seam
+Kiểm tra mọi hướng bằng chế độ hiển thị kết cấu gốc và wireframe để nắm được cấu trúc các bộ phận quần áo cũng như đường may thực tế.
+Với quần áo, hãy mở seam theo cấu trúc rập may của thân áo, tay áo, cổ áo và các bộ phận tương tự, tận dụng đường sườn hoặc mặt trong tay áo. Với da và tay chân, đặt seam ở những vị trí ít замет thấy như mặt trong hoặc mặt bên, đồng thời mở phần giữa các ngón tay một cách tự nhiên, không gây biến dạng.
+Không nhầm nếp nhăn hoặc hình in với đường may, và không tạo các island nhỏ bị chia vụn không cần thiết.
+
+3. Triển khai theo từng bộ phận và chỉnh biến dạng
+Không xử lý toàn bộ mô hình cùng lúc; hãy Unwrap theo từng bộ phận.
+Dùng checker có chữ tham chiếu đến UV\_Final cùng chế độ hiển thị Stretch để kiểm tra độ kéo giãn, co nén, xoắn, lật và chồng lấp.
+Tùy theo nguyên nhân, hãy thêm hoặc gỡ seam, điều chỉnh bằng Pin, Relax và các công cụ tương tự, rồi kiểm tra lại. Không chỉ lặp lại cùng một thao tác triển khai tự động; hãy giữ nguyên các bộ phận đã được cải thiện.
+Không dùng Smart UV Project để tự động chia nhỏ toàn bộ mô hình rồi coi đó là sản phẩm hoàn thiện.
+
+4. Căn chỉnh hướng sợi vải, mật độ và bố cục
+Đối với quần áo, hãy căn hướng dọc cơ bản theo hướng sợi vải của từng bộ phận vào hướng V của UV. Không cố ép những phần rập có đường cong thành hình chữ nhật.
+Đồng nhất mật độ texel theo kích thước thực, đồng thời sắp xếp hướng sao cho dễ nhận biết các phần đối xứng trái và phải.
+Sau đó, đóng gói vào vùng 0–1 trong khi giữ nguyên hướng và tỷ lệ tương đối. Không được tự ý xoay hoặc chồng UV đối xứng trái phải lên nhau.
+Làm mốc ban đầu cho ảnh 4K: lề bake 16px, khoảng cách giữa các island từ 32px trở lên và khoảng cách từ island đến mép ảnh từ 16px trở lên.
+
+5. Bake 4K từ UV cũ sang UV mới
+Cố định rõ nguồn tham chiếu của kết cấu gốc vào UV cũ, dùng UV\_Final làm UV đích và chuyển dữ liệu sang ảnh mới kích thước 4096×4096.
+Trong từng vật liệu, hãy kích hoạt node ảnh đích để bake, thực hiện bake thử trước rồi mới bake chính thức.
+Với base color, chỉ sử dụng Color của Diffuse hoặc Emit; không bake thêm ánh sáng, bóng hoặc AO mới. Giữ nguyên phần đổ bóng đã được vẽ trong ảnh gốc.
+Nếu cần, hãy chuyển cả các map hiện có như alpha; với normal map tangent, hãy bake lại theo UV mới thay vì chỉ chuyển màu đơn thuần.
+
+6. Đối chiếu cũ và mới để xác nhận hoàn thiện
+Áp dụng UV mới và ảnh đã bake, sau đó so sánh toàn thân cùng các chi tiết ở cùng điều kiện hiển thị như bản gốc.
+Kiểm tra vị trí họa tiết, màu sắc, độ trong suốt và tính liên tục của seam; sửa các lỗi UV bị ép, chồng lấp hoặc chưa được triển khai, cũng như các điểm đen, vùng mất dữ liệu và hiện tượng lem do bake.
+Đánh giá mức độ hoàn thiện dựa trên kết quả kiểm tra, không dựa vào “đã triển khai bao nhiêu lần”.
+
+Hãy lưu tệp hoàn thiện.blend, ảnh 4K, bố cục UV và các ảnh kiểm tra seam, checker cùng diện mạo hoàn thiện; sau đó báo cáo ngắn gọn những nội dung đã chỉnh sửa chính.
+Không dừng lại ở việc giải thích kế hoạch; hãy vừa kiểm tra hình ảnh thực tế vừa hoàn tất công việc.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098980384260456813) · [Bài đăng gốc](https://x.com/_sagyoai/status/2098980384260456813) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### Hoạt ảnh origami 3D tự gấp
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="Hoạt ảnh origami 3D tự gấp"></a>
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh origami 3D. Một tờ giấy hình vuông phẳng phải tự gấp từng bước thành một hình origami dễ nhận biết, trong đó mỗi nếp gấp được thể hiện bằng chuyển động gấp và xoay thực tế của tờ giấy, sau đó mở phẳng trở lại và lặp lại. Bạn tự quyết định hình origami và cách trình bày toàn bộ cảnh.
+
+Mọi yếu tố thiết kế đều do bạn quyết định: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất trong một lần thực hiện duy nhất.
+
+Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML tự chứa duy nhất, không dùng mô hình, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (cho phép dùng thư viện JavaScript từ CDN). Tệp phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, hoạt động mượt mà và không có lỗi trong console.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098909584996057283) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098909584996057283) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### Atlas Chernobyl
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="Atlas Chernobyl"></a>
+
+**Prompt**
+
+```text
+Xây dựng "Atlas Chernobyl", một triển lãm 3D tương tác cao cấp bằng Three.js.
+
+Nghiên cứu nhà máy điện Chernobyl và lò phản ứng RBMK còn nguyên trạng dựa trên các tài liệu công khai. Dựng mô hình các tòa nhà, ống khói dạng giàn, gian nhà tuabin, khối graphite, kênh nhiên liệu, lớp che chắn, tang tách hơi, máy bơm và đường ống.
+
+Tạo ba tab:
+— Khối nhà máy điện: mô hình chi tiết có thể tháo rời từng lớp bằng thao tác cuộn và thanh trượt.
+— Mạch hơi: sơ đồ có hoạt ảnh kết nối lò phản ứng, tuabin, bình ngưng và máy bơm.
+— Lò phản ứng chuyển động: mặt cắt 3D với nước và hơi chuyển động, máy móc quay cùng các nút điều khiển phát lại.
+
+Thêm các nút bật/tắt hiển thị độc lập cho từng hệ thống, điều chỉnh khoảng cách giữa các bộ phận, chế độ lưới, độ trong suốt, mặt cắt và nhãn ngắn. Đảm bảo mọi lớp đều dễ kiểm tra và camera có thể xoay tự do, kể cả khi mô hình đã được tháo rời hoàn toàn.
+
+Cung cấp mã nguồn và một tệp HTML độc lập. Kiểm thử tất cả điều khiển. Trình bày đây là một diễn giải phục vụ giáo dục, không phải bản sao kỹ thuật chính xác.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098841316591346006) · [Bài đăng gốc](https://x.com/k1rallik/status/2098841316591346006) · [Mã nguồn](https://github.com/bubblik525/Chernobyl_Atlas) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### Mô phỏng bàn cát động lực
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="Mô phỏng bàn cát động lực"></a>
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng bàn cát động lực. Một quả bóng phải di chuyển qua lớp cát, để lại dấu vết rõ ràng, vẽ các hoa văn hình học hoàn chỉnh, sau đó làm phẳng cát và tự động bắt đầu một hoa văn mới, khác biệt. Mô phỏng phải lần lượt chạy qua nhiều hoa văn khác nhau mà không lặp lại. Bạn được toàn quyền lựa chọn giao diện và hoa văn.
+
+Mọi quyết định về thiết kế đều do bạn lựa chọn: phong cách, màu sắc, không khí, môi trường, camera, mức độ chi tiết và mọi điểm nhấn bổ sung. Không hỏi tôi bất kỳ câu nào; hãy tự đưa ra mọi lựa chọn và xây dựng phiên bản ấn tượng nhất có thể chỉ trong một lần thực hiện.
+
+Yêu cầu kỹ thuật: chỉ sử dụng một tệp HTML độc lập, không dùng model, hình ảnh, âm thanh hoặc URL tài nguyên bên ngoài dưới bất kỳ hình thức nào (có thể dùng thư viện JavaScript từ CDN). Mô phỏng phải tự bắt đầu chạy ngay khi tải, không cần nhấp chuột, đồng thời hoạt động mượt mà và không có lỗi trong console.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098831830002851846) · [Bài đăng gốc](https://x.com/free_ai_guides/status/2098831830002851846) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### Tái dựng 3D Hội chợ Thế giới Chicago năm 1893
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="Tái dựng 3D Hội chợ Thế giới Chicago năm 1893"></a>
+
+**Prompt**
+
+```text
+Tải xuống 2.000 bức ảnh lịch sử và tư liệu tham khảo về hội chợ, rồi sử dụng toàn bộ thông tin thu thập được để tạo bản tái dựng 3D trong Blender.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098795017955418202) · [Bài đăng gốc](https://x.com/moreisdifferent/status/2098795017955418202) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### Khung ảnh in 3D dạng lắp ghép có khớp nối
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="Khung ảnh in 3D dạng lắp ghép có khớp nối"></a>
+
+**Prompt**
+
+```text
+Tôi muốn in khung ảnh bằng máy in 3D, nhưng máy in khá nhỏ nên cần thiết kế dạng nhiều bộ phận nối lại để hoàn thiện. Nối trực tiếp thì hơi nhàm, hãy dùng khớp nối thú vị hơn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2098774359926297011) · [Bài đăng gốc](https://x.com/wada/status/2098774359926297011) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098739181510164652"></a>
 
 ### Trò chơi bay Skybound trên trình duyệt
@@ -4195,248 +4579,6 @@ Build me an endless miniature street in three.js WebGPU: a courier bicycle ridin
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096956214680965501) · [Bài đăng gốc](https://x.com/creativedash/status/2096956214680965501) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### Cảnh 3D Hogwarts
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="Cảnh 3D Hogwarts"></a>
-
-**Prompt**
-
-```text
-Sử dụng Headless Blender để tạo mô hình 3D quy mô lớn, cực kỳ chân thực và đầy đủ chi tiết về Trường Phù thủy và Pháp sư Hogwarts trong Harry Potter. Bao gồm môi trường tự nhiên xung quanh, các địa danh biểu tượng, những không gian nội thất chân thực và các đạo cụ. Tạo vật liệu, ánh sáng, kết xuất và thiết kế âm thanh đạt chất lượng điện ảnh, với bầu không khí huyền bí cùng màn sương mù chuyển động, trôi dạt tự nhiên. Cho phép người dùng tự do khám phá môi trường, đồng thời cung cấp các thiết lập có thể chuyển đổi cho ánh sáng và những tùy chọn hình ảnh khác.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096907617117540478) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### Tạo slime mềm tương tác bằng Three.js và WebGPU
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Tạo slime mềm tương tác bằng Three.js và WebGPU"></a>
-
-**Prompt**
-
-```text
-Tạo một thư mục mới và làm một trang slime có thể chơi ngay trên trình duyệt. Dùng Three.js và WebGPU, không dùng WebGL thay thế.
- Ở giữa là một khối slime tròn, mềm mọng; màu hồng hoặc xanh ngọc đều được, hơi trong suốt và có các bong bóng thấp thoáng bên trong. Có thể dùng chuột nhấn xuống rồi kéo đi; khi thả ra, slime sẽ lắc lư và dần trở lại hình dạng ban đầu. Thêm một chút trọng lực để nó có thể nhẹ nhàng nảy xuống một mặt bàn vô hình. Đừng làm thành quả bóng cứng; cần tạo cảm giác mềm và có độ dẻo như thịt.
- Thêm khuôn mặt đáng yêu: hai mắt đen tròn như hạt đậu và một cái miệng nhỏ. Khuôn mặt phải biến dạng theo bề mặt, không tách mắt khỏi cơ thể. Ở bên phải, tạo vài tùy chỉnh đơn giản: màu sắc, độ mềm và độ giảm chấn. Nút «Chọc một cái» sẽ khiến slime nảy lên.
- Giữ giao diện gọn gàng, nền xám nhạt và tiêu đề chữ lớn. Đảm bảo chạy được ở 60 FPS. Trước tiên tạo một ảnh tham chiếu cho hiệu ứng mục tiêu, sau đó dựng theo ảnh này; chỉ tiếp tục thêm chi tiết khi ảnh chụp màn hình đã trông đúng như mong muốn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096793432987464010) · [Bài đăng gốc](https://x.com/Delroy715/status/2096793432987464010) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### Mô hình nhân vật LEGO cho game bằng Blender MCP
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Mô hình nhân vật LEGO cho game bằng Blender MCP"></a>
-
-**Prompt**
-
-```text
-Sử dụng Blender MCP để tạo phiên bản nhân vật LEGO của Donald Trump mà tôi có thể dùng làm tài sản game. Hãy đảm bảo chất lượng vượt trội theo tiêu chuẩn game AAA, đồng thời kiểm tra kỹ sản phẩm để bảo đảm mô hình có độ chi tiết, độ chính xác và chất lượng xuất sắc.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096766465730847059) · [Bài đăng gốc](https://x.com/_simonsmith/status/2096766465730847059) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### Phối cảnh tháo rời smartphone tương tác
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Phối cảnh tháo rời smartphone tương tác"></a>
-
-**Prompt**
-
-```text
-Xây dựng một hình ảnh trực quan 3D tương tác về một smartphone hiện đại theo dạng tháo rời. Tách thiết bị thành các linh kiện chính và cho phép tôi tháo rời/lắp lại bằng thanh trượt. Khi nhấp vào một linh kiện, hãy tách riêng linh kiện đó và giải thích chức năng của nó. Bao gồm pin, camera, SoC, bộ nhớ, các lớp màn hình, loa, cảm biến, ăng-ten và bo mạch logic. Ưu tiên giao diện đẹp theo phong cách Apple cùng các tương tác mượt mà, đã mắt. Xây dựng, chạy thử, kiểm tra và khắc phục lỗi cho toàn bộ trải nghiệm.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096685163111694556) · [Bài đăng gốc](https://x.com/zairalaraib_/status/2096685163111694556) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### Trò chơi khám phá thế giới 3D Mini World
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Trò chơi khám phá thế giới 3D Mini World"></a>
-
-**Prompt**
-
-```text
-Hãy tạo một game có tên Mini World. Đây là game khám phá thế giới 3D với giao diện đồ họa đẹp mắt, chất lượng cao, được thiết kế để vui nhộn và dễ chơi cho cậu con trai bốn tuổi rưỡi của tôi. Người chơi có thể phóng to và thu nhỏ. Nhìn từ xa, thế giới trông như một quả cầu nhỏ, nhưng bên trong có nhiều khu vực khác nhau để khám phá. Một khu vực có thể là rừng, khu vực khác là sa mạc, ngoài ra còn có các đại dương để nhân vật bơi lội. Game cần mang lại cảm giác vui nhộn và dễ chơi, với một nhân vật có thể di chuyển qua nhiều nơi trên thế giới, khám phá các môi trường khác nhau và phát hiện những điều thú vị trên đường đi. Hãy xem việc đảm bảo game hoạt động đúng cách là mục tiêu chính. Game cần được thiết kế đẹp mắt và kiểm thử, tinh chỉnh kỹ lưỡng theo từng vòng lặp để chuyển động, thu phóng, khám phá, bơi lội, môi trường, điều khiển và trải nghiệm tổng thể phối hợp mượt mà. Tiếp tục kiểm thử và cải thiện cho đến khi mọi thứ hoạt động ổn định, đồng thời game trở nên hoàn thiện, trực quan và thú vị đối với trẻ nhỏ.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096641728497275011) · [Bài đăng gốc](https://x.com/weijianzhang_/status/2096641728497275011) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### Render Trái Đất xoay trong Blender
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Render Trái Đất xoay trong Blender"></a>
-
-**Prompt**
-
-```text
-Trong Blender, tạo một video render dài 5 giây, đẹp mắt, về Trái Đất đang xoay khi nhìn từ ngoài không gian.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637194270134742) · [Bài đăng gốc](https://x.com/JohnKlerAI/status/2096637194270134742) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### RPG hành động dark fantasy bằng Three.js
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="RPG hành động dark fantasy bằng Three.js"></a>
-
-**Prompt**
-
-```text
-Sử dụng Three.js để tạo từ đầu một RPG hành động 3D dark fantasy hoàn thiện, có thể chơi đầy đủ.
-
-Sử dụng camera bám theo nhân vật từ trên xuống với góc nghiêng. Bối cảnh là một thánh đường Gothic đồ sộ bị rừng cây xâm lấn, với các tòa tháp đổ nát, dãy vòm, cầu đá phủ rêu, những ngọn đồi thoai thoải, suối, thác nước và lửa trại. Tạo bầu không khí nhiều lớp, giàu chiều sâu bằng vật liệu chân thực, ánh sáng điện ảnh, sương mù nhẹ, thảm thực vật lay động trong gió và dòng nước chuyển động.
-
-Nhân vật chính là một hiệp sĩ mạnh mẽ, mặc bộ giáp nặng bằng thép và vàng được chế tác tinh xảo, có áo choàng tung bay cùng thanh kiếm rune và khiên phát sáng. Nhân vật phải có thể di chuyển, chém, lăn né, đỡ đòn, hồi máu và thi triển phép thuật với các vòng phép khổng lồ, tia sáng và hiệu ứng sét. Sau khi đánh bại đội lính canh, người chơi phải đối đầu với một con trùm hiệp sĩ khổng lồ có gạc.
-
-Hoạt ảnh tấn công, hiệu ứng hình ảnh và hướng tác động của đòn đánh đều phải khớp với hướng nhân vật đang quay mặt. Bổ sung HUD bằng tiếng Hoa phồn thể được hoàn thiện chỉn chu, màn hình trang bị nhân vật và các luồng hoàn chỉnh cho chiến thắng, thất bại và chơi lại.
-
-Tự chủ thực hiện phần dựng mô hình, tạo hoặc thu thập tài nguyên, lập trình và tối ưu hiệu năng. Hướng đến độ hoàn thiện hình ảnh cấp AAA. Liên tục chơi thử, kiểm tra hình ảnh và sửa lỗi cho đến khi hoàn thiện một trò chơi có thể chơi đầy đủ, kèm hướng dẫn khởi chạy và mã nguồn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637091627364531) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096637091627364531) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### Game phiêu lưu fantasy ven biển Windhaven
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Game phiêu lưu fantasy ven biển Windhaven"></a>
-
-**Prompt**
-
-```text
-Hãy cùng tôi thiết kế một game. Game được xây dựng bằng Unity. Trước tiên, hãy sử dụng tài sản mặc định; tôi sẽ thay thế các tài sản này sau.
-Phong cách game:
-Một game phiêu lưu fantasy ven biển phong cách cách điệu cao cấp, lấy bối cảnh tại thành phố đảo nhỏ ngập nắng mang tên Windhaven. Thành phố được xây dựng từ đá vôi màu ngà ấm và đá sa thạch vàng, bao quanh bởi làn nước xanh ngọc trong vắt, với mái đồng xanh teal, các sạp chợ có mái che, cổng vòm, cây cối um tùm trong sân, đài phun nước chạm khắc, những cột mốc phép thuật phát sáng và một ngôi đền đồ sộ nhìn xuống thị trấn. Một nhà thám hiểm trẻ tuổi đơn độc, khoác áo choàng du hành và đeo ba lô, bước qua quảng trường trung tâm hướng về phía ngôi đền. Môi trường mang lại cảm giác yên bình, bí ẩn, cổ kính và phảng phất phép thuật, với ảnh hưởng kiến trúc Địa Trung Hải và Bắc Phi. Vật liệu PBR cách điệu có độ chi tiết cao, bề mặt đá được chế tác thủ công, dấu vết phong hóa tinh tế, hoa văn chạm khắc thanh nhã, ánh nắng buổi chiều dịu nhẹ, bóng đổ điện ảnh kéo dài, bảng màu xanh ngọc và vàng ấm, định hướng mỹ thuật game phiêu lưu hạng AA được trau chuốt, camera gameplay góc nhìn người thứ ba, góc máy toàn cảnh thiết lập bối cảnh, thiết kế môi trường đồng nhất, lối đi và địa danh dễ nhận biết về mặt hình ảnh, không giao diện người dùng, không chữ, không logo, không vật thể hiện đại.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096629506047955327) · [Bài đăng gốc](https://x.com/tripoai/status/2096629506047955327) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

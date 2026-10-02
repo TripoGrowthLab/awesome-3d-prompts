@@ -28,6 +28,14 @@
 <details>
 <summary>浏览案例 (50)</summary>
 
+- [交互式 3D 解剖探索器](#gpt-6-astra-2099206962344800541)
+- [可玩的 3D 浏览器海岸城区片段](#gpt-6-astra-2099172061092381027)
+- [无头服装模型的 UV 展开与 4K 重新烘焙](#gpt-6-astra-2098980384260456813)
+- [自折叠 3D 折纸动画](#gpt-6-astra-2098909584996057283)
+- [切尔诺贝利图谱](#gpt-6-astra-2098841316591346006)
+- [动力沙桌模拟](#gpt-6-astra-2098831830002851846)
+- [1893年芝加哥世界博览会三维重建](#gpt-6-astra-2098795017955418202)
+- [带接头的分体式3D打印相框](#gpt-6-astra-2098774359926297011)
 - [Skybound：浏览器飞行游戏](#gpt-6-astra-2098739181510164652)
 - [DEVICE：利用手机本体的写实 3D 解谜游戏](#gpt-6-astra-2098715488369152087)
 - [禅境·古寺3D建造演示视频](#gpt-6-astra-2098697876155076820)
@@ -70,16 +78,392 @@
 - [可交互的中式庭院](#gpt-6-astra-2096971051334857181)
 - [《重力失常的地平线》VRChat 景观世界](#gpt-6-astra-2096966425017467344)
 - [Three.js WebGPU 无尽微缩街景](#gpt-6-astra-2096956214680965501)
-- [霍格沃茨 3D 场景](#gpt-6-astra-2096907617117540478)
-- [使用 Three.js 和 WebGPU 制作可交互的软体史莱姆](#gpt-6-astra-2096793432987464010)
-- [使用 Blender MCP 制作 LEGO 人仔游戏资产](#astra-3d-2096766465730847059)
-- [可交互的手机拆解展示](#gpt-6-astra-2096685163111694556)
-- [Mini World 3D 探索游戏](#gpt-6-astra-2096641728497275011)
-- [Blender 中的地球旋转渲染](#gpt-6-astra-2096637194270134742)
-- [Three.js 暗黑奇幻动作 RPG](#gpt-6-astra-2096637091627364531)
-- [Windhaven 海岸奇幻冒险游戏](#gpt-6-astra-2096629506047955327)
 
 </details>
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### 交互式 3D 解剖探索器
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="交互式 3D 解剖探索器"></a>
+
+**提示词**
+
+```text
+使用公开可用的科学数据集，构建一个精美的交互式 3D 解剖探索器。从外部视图开始，随着我放大，模型逐渐变为透明，显示下方的解剖结构。
+
+支持旋转模型、分离结构、选择带标签的区域，并通过侧边面板切换图层。为解剖结构、连接和单个细胞分别设置选项卡，并加入信号动画和可调节控件。
+
+采用现代、简洁的界面，配合柔和光照、平滑过渡、低饱和色彩和极少的文字。加入箭头和简短的可视化教程。确保在桌面端和移动端都能运行。
+
+尽可能使用真实的解剖几何数据，注明数据来源，并清晰区分科学数据与示意动画。构建一个可正常运行的网站。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099206962344800541) · [查看原帖](https://x.com/k1rallik/status/2099206962344800541) · [项目源码](https://github.com/bubblik525/cat_brain_anatomy) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### 可玩的 3D 浏览器海岸城区片段
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="可玩的 3D 浏览器海岸城区片段"></a>
+
+**提示词**
+
+```text
+> 锁定规格（TZ-gta-slice.md）
+
+prompt: "制作一个可玩的 3D 浏览器片段。规格锁定后不得更改。先做城区和片段，再处理控制。"
+
+> 技术栈（Vite、原生 TypeScript、Three.js、cannon-es、Web Audio）
+
+prompt: "技术栈固定：Vite、原生 TypeScript、Three.js、cannon-es、Web Audio。使用一个浏览器 URL。"
+
+> 画面（日落映照水面、湿润沥青路面、棕榈树）
+
+prompt: "只做一个海岸城区。水面上方是日落。路面湿润。加入棕榈树。重点呈现光照和镜头，而不是多边形数量。不要使用默认的灰色光照。不要放光秃秃的方块。"
+
+> 三个人（一个场景、一辆车、约 20 秒）
+
+prompt: "让三个人处于同一个场景中。他们先交谈，然后一起坐进一辆车。时长约 20 秒。优先保证质量，不要增加多余的切换。"
+
+> 剪辑（15 到 20 秒，保持流畅）
+
+prompt: "如果出现卡顿，就将片段剪到 15 到 20 秒。保持流畅。如果帧率下降，删减行人，不要削弱光照。"
+
+> 声音（人声、台词下方的铺底音、汽车低沉轰鸣）
+
+prompt: "人声必须听起来像真人，不能像机器人。台词下方使用安静的铺底音，绝不能盖过台词。他们坐下后加入低沉的汽车轰鸣，不要做成电锯声。不要有收音机嘶嘶声。"
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2099172061092381027) · [查看原帖](https://x.com/Lummox_eth/status/2099172061092381027) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### 无头服装模型的 UV 展开与 4K 重新烘焙
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="无头服装模型的 UV 展开与 4K 重新烘焙"></a>
+
+**提示词**
+
+```text
+请使用 Blender MCP，对当前选中的“包含服装和四肢的无头模型”执行 UV 展开，并将现有纹理以 4K 重新烘焙。
+
+目标是在保留原有外观的基础上，创建类似服装纸样、结构清晰且便于后续重新绘制的 UV。请像人类艺术家一样，按照观察→接缝设计→按部位展开→修正拉伸→排布→烘焙的顺序进行。
+
+1．保留原始数据
+开始前请另存文件，保留旧 UV、图像和材质，并创建新的 UV 集“UV\_Final”。
+不要修改形状、拓扑、顶点顺序、权重、形态键或骨骼绑定。
+
+2．观察模型并设计接缝
+结合原始纹理显示和线框显示，从各个方向检查模型，了解服装的部件构成和实际缝线位置。
+服装应按照衣身、袖子、领口等纸样结构展开，利用侧缝、袖子内侧等位置切开。皮肤和四肢的接缝应放在内侧、侧面等不显眼的位置，并确保可以自然地展开到指缝。
+不要将褶皱或印花误认为缝线，也不要创建不必要的碎片化小岛。
+
+3．按部位展开并修正拉伸
+不要一次性处理整个模型，请按部位分别执行 Unwrap。
+使用引用UV\_Final的带文字棋盘格纹理和 Stretch 显示，检查拉伸、压缩、扭曲、翻转和重叠。
+根据问题原因添加或取消接缝，并使用 Pin、Relax 等工具进行调整后重新检查。不要只是反复执行相同的自动展开，应保留已经改进的部位。
+不要将 Smart UV Project 的全模型自动切分结果直接作为成品。
+
+4．调整布纹方向、密度和排布
+服装应以各部件的布纹方向为基准，将基本的纵向对齐到 UV 的 V 方向。对于带曲线的纸样，不要强行变形成矩形。
+统一相对于实际尺寸的纹素密度，并调整为便于识别左右对应关系的朝向。
+然后在保持朝向和相对比例的前提下，将其排布到 0～1 区域内。禁止左右重叠或随意旋转。
+4K 烘焙的初始基准为：边缘留白 16px、UV 岛之间至少间隔 32px、距离图像外边缘至少 16px。
+
+5．从旧 UV 向新 UV 进行 4K 烘焙
+明确将原始纹理引用固定到旧 UV，并以 UV\_Final 作为烘焙目标，将内容转移到新建的 4096×4096 图像中。
+在每个材质中激活烘焙目标图像节点，先进行测试烘焙，再执行正式烘焙。
+基础色仅使用 Diffuse 的 Color，或使用 Emit；不要烘入新的光照、阴影或 AO。保留原图中绘制的明暗。
+根据需要转移透明度等现有贴图；切线空间法线贴图不能仅进行颜色转移，而应以新 UV 为基准重新烘焙。
+
+6．通过新旧对比确认完成度
+应用新 UV 和烘焙图像，在与原始数据相同的显示条件下，对比检查整体和细节。
+检查图案位置、颜色、透明度和接缝连续性，并修正 UV 压扁、重叠、展开遗漏，以及烘焙中的黑点、缺失和溢色。
+不要以“展开了多少次”为标准，而应根据检查结果判断是否完成。
+
+请保存完成.blend、4K 图像、UV 布局，以及接缝、棋盘格检查和最终外观的确认图像，并简要报告主要修改内容。
+不要只停留在说明计划；请在实际检查图像的同时完成整个工作。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098980384260456813) · [查看原帖](https://x.com/_sagyoai/status/2098980384260456813) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### 自折叠 3D 折纸动画
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="自折叠 3D 折纸动画"></a>
+
+**提示词**
+
+```text
+制作一个 3D 折纸动画。一张平整的方形纸张必须逐步自行折叠成一个易于辨认的折纸造型，每次折叠都要通过真实可见的折痕和纸张旋转来呈现，然后展开恢复平整并重复播放。最终造型以及整体呈现方式由你决定。
+
+设计中的所有内容都由你决定：风格、颜色、氛围、环境、镜头、细节程度以及任何额外效果。不要向我提问，所有选择都由你自行完成，并在一次生成中制作出尽可能令人印象深刻的版本。
+
+技术要求：只能使用一个自包含的 HTML 文件，不得使用任何外部模型、图像、声音或资源 URL（使用 CDN 中的 JavaScript 库没有问题）。文件加载后必须立即自行开始运行，无需点击，并且运行流畅、控制台无报错。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098909584996057283) · [查看原帖](https://x.com/free_ai_guides/status/2098909584996057283) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### 切尔诺贝利图谱
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="切尔诺贝利图谱"></a>
+
+**提示词**
+
+```text
+使用 Three.js 构建高品质交互式三维展览“切尔诺贝利图谱”。
+
+参考公开资料，研究完整的切尔诺贝利核电站和 RBMK 反应堆。制作建筑物、格构烟囱、汽轮机大厅、石墨堆、燃料通道、屏蔽结构、汽水分离器、泵和管道的模型。
+
+创建三个选项卡：
+— 厂房：制作详细模型，支持通过滚动和滑块逐层拆解。
+— 蒸汽回路：制作连接反应堆、汽轮机、冷凝器和泵的动画示意图。
+— 运动中的反应堆：制作三维剖切模型，展示流动的水和蒸汽、旋转的机械部件，并提供播放控制。
+
+添加独立的系统显示切换、可调部件间距、线框、透明度、剖切和简短标签功能。确保每一层都便于检查，即使完全拆解后，摄像机仍可自由旋转。
+
+交付源代码和独立 HTML 文件。测试所有控制功能。将其定位为教育性演绎，而非精确的工程复刻。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098841316591346006) · [查看原帖](https://x.com/k1rallik/status/2098841316591346006) · [项目源码](https://github.com/bubblik525/Chernobyl_Atlas) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### 动力沙桌模拟
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="动力沙桌模拟"></a>
+
+**提示词**
+
+```text
+制作一个动力沙桌模拟。小球必须在沙床中移动，留下清晰可见的轨迹，绘制完整的几何图案，然后自动抚平沙面并开始绘制一个不同的新图案。它必须循环展示许多不同的图案，且不能重复。外观和图案由你自行决定。
+
+设计方面的一切都由你决定：风格、色彩、氛围、环境、镜头、细节程度以及任何额外效果。不要向我提问，自行做出所有选择，并在一次生成中制作出尽可能精彩的版本。
+
+技术要求：必须是一个完全自包含的单个 HTML 文件，不得使用任何外部模型、图片、声音或资源 URL（可以使用来自 CDN 的 JavaScript 库）。页面加载后必须立即自动运行，无需点击，并且运行流畅、控制台不能出现错误。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098831830002851846) · [查看原帖](https://x.com/free_ai_guides/status/2098831830002851846) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### 1893年芝加哥世界博览会三维重建
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="1893年芝加哥世界博览会三维重建"></a>
+
+**提示词**
+
+```text
+下载 2,000 张历史照片和博览会相关参考资料，利用获取的全部信息在 Blender 中创建三维重建模型。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098795017955418202) · [查看原帖](https://x.com/moreisdifferent/status/2098795017955418202) · [返回案例导航](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### 带接头的分体式3D打印相框
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="带接头的分体式3D打印相框"></a>
+
+**提示词**
+
+```text
+想用3D打印机打印一个相框，但打印机太小了，所以希望设计成由多个部件连接组装完成的款式。普通连接方式有点无聊，改用接头连接吧。
+```
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2098774359926297011) · [查看原帖](https://x.com/wada/status/2098774359926297011) · [返回案例导航](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098739181510164652"></a>
 
 ### Skybound：浏览器飞行游戏
@@ -3962,237 +4346,7 @@ Build me an endless miniature street in three.js WebGPU: a courier bicycle ridin
 
 ---
 
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### 霍格沃茨 3D 场景
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="霍格沃茨 3D 场景"></a>
-
-**提示词**
-
-```text
-使用无头模式的 Blender，创建《哈利·波特》中的霍格沃茨魔法学校大型、高度写实且细节完整的 3D 模型。加入周边自然环境、标志性地标、还原度高的室内场景和道具。提供电影级材质、灯光、渲染和声音设计，营造神秘氛围，并加入动态飘散的雾效。允许用户自由探索整个环境，并提供可切换的灯光设置及其他视觉选项。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096907617117540478) · [查看原帖](https://x.com/HiltonMisia/status/2096907617117540478) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### 使用 Three.js 和 WebGPU 制作可交互的软体史莱姆
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="使用 Three.js 和 WebGPU 制作可交互的软体史莱姆"></a>
-
-**提示词**
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096793432987464010) · [查看原帖](https://x.com/Delroy715/status/2096793432987464010) · [返回案例导航](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### 使用 Blender MCP 制作 LEGO 人仔游戏资产
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · 资产
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="使用 Blender MCP 制作 LEGO 人仔游戏资产"></a>
-
-**提示词**
-
-```text
-使用 Blender MCP 制作一个唐纳德·特朗普的 LEGO 人仔版本，供我用作游戏资产。请达到卓越品质和 AAA 级游戏资产标准，并反复检查和验证作品，确保细节丰富、还原准确、整体出色。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/astra-3d-2096766465730847059) · [查看原帖](https://x.com/_simonsmith/status/2096766465730847059) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### 可交互的手机拆解展示
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="可交互的手机拆解展示"></a>
-
-**提示词**
-
-```text
-构建一个现代智能手机的交互式 3D 拆解视图。将设备拆分为主要组件，并通过滑块控制拆解与重组。点击组件时，应将其单独显示并解释其功能。包含电池、摄像头、SoC、内存、显示屏各层、扬声器、传感器、天线和逻辑板。优先打造美观、类似 Apple 的界面和令人愉悦的交互体验。完成构建、运行、检查并修复整个体验。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096685163111694556) · [查看原帖](https://x.com/zairalaraib_/status/2096685163111694556) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### Mini World 3D 探索游戏
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Mini World 3D 探索游戏"></a>
-
-**提示词**
-
-```text
-让我们制作一款名为 Mini World 的游戏。这是一款 3D 世界探索游戏，拥有精美的高品质图形界面，设计目标是让我四岁半的儿子也能轻松上手并享受乐趣。游戏应支持镜头拉近和拉远。从远处看，整个世界像一个小球，但进入其中后，可以探索不同的区域。某个区域可以呈现森林风貌，另一个区域可以是沙漠，还可以加入海洋，让角色在其中游泳。游戏必须充满乐趣并且可玩，让角色能够在世界各处移动，探索不同环境，并一路发现各种事物。请将确保游戏正常运行作为首要目标。应通过持续的测试和迭代打磨，确保移动、镜头缩放、探索、游泳、环境、控制方式和整体体验能够流畅地协同工作。请持续测试和改进，直到所有功能都稳定可靠，让游戏达到精致、直观且适合幼儿体验的效果。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096641728497275011) · [查看原帖](https://x.com/weijianzhang_/status/2096641728497275011) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### Blender 中的地球旋转渲染
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Blender 中的地球旋转渲染"></a>
-
-**提示词**
-
-```text
-在 Blender 中制作一段精美的五秒地球旋转渲染动画，视角从太空望向地球。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096637194270134742) · [查看原帖](https://x.com/JohnKlerAI/status/2096637194270134742) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### Three.js 暗黑奇幻动作 RPG
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Three.js 暗黑奇幻动作 RPG"></a>
-
-**提示词**
-
-```text
-使用 Three.js 从零开始创建一款精致、完整可玩的 3D 暗黑奇幻动作 RPG。
-
-采用俯视斜角跟随镜头。场景设定为一座被森林重新占据的宏伟哥特式圣所，包含残破高塔、拱廊、覆满苔藓的石桥、连绵丘陵、溪流、瀑布和篝火。通过写实材质、电影感光照、薄雾、随风摇曳的植被和流动的水体，营造层次丰富的氛围。
-
-主角是一名强大的骑士，身穿精工打造的钢金重甲，披着飘动的披风，手持发光的符文剑与盾牌。角色必须能够移动、挥砍、翻滚、格挡、治疗和施放魔法，魔法效果包括巨大的魔法阵、光束和闪电。击败守卫后，玩家必须面对一名头生巨角的骑士首领。
-
-攻击动画、视觉特效和受击方向都必须与角色的朝向一致。加入精致的繁体中文 HUD、角色装备界面，以及完整的胜利、失败和重新开始流程。
-
-独立完成建模、资产创建或获取、编程和性能优化。以 AAA 级视觉完成度为目标。持续进行游戏试玩、检查画面并修复问题，直到交付一款完整可玩的游戏、启动说明和源代码。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096637091627364531) · [查看原帖](https://x.com/HiltonMisia/status/2096637091627364531) · [返回案例导航](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### Windhaven 海岸奇幻冒险游戏
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · 游戏
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Windhaven 海岸奇幻冒险游戏"></a>
-
-**提示词**
-
-```text
-和我一起设计一款游戏。游戏应使用 Unity 构建。请先使用默认资产，之后我会替换这些资产。
-游戏风格：
-一款高品质风格化海岸奇幻冒险游戏，背景设定在阳光明媚的小型岛城 Windhaven。城市由暖象牙色石灰岩和金色砂岩建成，四周环绕着清澈的绿松石色海水；城中设有蓝绿色铜屋顶、带遮棚的市场摊位、拱形城门、绿意盎然的庭院树木、雕刻喷泉、散发光芒的魔法信标，以及一座俯瞰城镇的宏伟神庙。一名身穿旅行斗篷、背着背包的年轻探险者，穿过中央广场走向神庙。环境氛围宁静、神秘、古老，并带有柔和的魔法气息；建筑融入地中海与北非风格。高细节风格化 PBR 材质，手工打造的石材表面，细微的风化痕迹，优雅的装饰雕刻，柔和的午后阳光，绵长的电影感阴影，绿松石色与暖金色的配色，高品质 AA 冒险游戏美术方向，第三人称游戏镜头，宽幅环境展示镜头，统一协调的环境设计，清晰易读的道路与地标；不要 UI、文字、标志或现代物件。
-```
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/gpt-6-astra-2096629506047955327) · [查看原帖](https://x.com/tripoai/status/2096629506047955327) · [返回案例导航](#all-prompts)
-
----
-
 
 [完整目录](catalog.zh.md) · [←](catalog.zh.3.md) · **4 / 10** · [→](catalog.zh.5.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 488 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">查看全部 496 条案例与在线演示 →</a></strong></p>

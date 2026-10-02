@@ -28,6 +28,14 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [인터랙티브 3D 해부학 탐색기](#gpt-6-astra-2099206962344800541)
+- [플레이 가능한 3D 브라우저 해안 지구 데모](#gpt-6-astra-2099172061092381027)
+- [머리 없는 의상 모델 UV 언랩 및 4K 재베이크](#gpt-6-astra-2098980384260456813)
+- [스스로 접히는 3D 종이접기 애니메이션](#gpt-6-astra-2098909584996057283)
+- [체르노빌 아틀라스](#gpt-6-astra-2098841316591346006)
+- [키네틱 샌드 테이블 시뮬레이션](#gpt-6-astra-2098831830002851846)
+- [1893년 시카고 세계 박람회 3D 재현](#gpt-6-astra-2098795017955418202)
+- [조인트 결합식 분할 3D 프린트 액자](#gpt-6-astra-2098774359926297011)
 - [스카이바운드 브라우저 비행 게임](#gpt-6-astra-2098739181510164652)
 - [DEVICE: 스마트폰 본체를 활용하는 포토리얼 3D 퍼즐 게임](#gpt-6-astra-2098715488369152087)
 - [선경·고찰 3D 제작 시연 영상](#gpt-6-astra-2098697876155076820)
@@ -70,16 +78,392 @@
 - [인터랙티브 중국식 중정](#gpt-6-astra-2096971051334857181)
 - [「중력이 망가진 지평선」 VRChat용 경관 월드](#gpt-6-astra-2096966425017467344)
 - [Three.js WebGPU로 만드는 끝없이 이어지는 미니어처 거리](#gpt-6-astra-2096956214680965501)
-- [호그와트 3D 장면](#gpt-6-astra-2096907617117540478)
-- [Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임](#gpt-6-astra-2096793432987464010)
-- [Blender MCP로 제작하는 레고 미니피겨 게임 에셋](#astra-3d-2096766465730847059)
-- [인터랙티브 스마트폰 분해도](#gpt-6-astra-2096685163111694556)
-- [미니 월드 3D 탐험 게임](#gpt-6-astra-2096641728497275011)
-- [블렌더에서 회전하는 지구 렌더링](#gpt-6-astra-2096637194270134742)
-- [Three.js 다크 판타지 액션 RPG](#gpt-6-astra-2096637091627364531)
-- [윈드헤이븐 해안 판타지 어드벤처 게임](#gpt-6-astra-2096629506047955327)
 
 </details>
+<a id="gpt-6-astra-2099206962344800541"></a>
+
+### 인터랙티브 3D 해부학 탐색기
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="인터랙티브 3D 해부학 탐색기"></a>
+
+**프롬프트**
+
+```text
+공개적으로 이용 가능한 과학 데이터셋을 활용해 아름답고 인터랙티브한 3D 해부학 탐색기를 제작하세요. 외부에서 본 모습으로 시작한 뒤, 확대하면 외부 구조가 점차 투명해지면서 내부 해부 구조가 드러나도록 하세요.
+
+모델을 회전하고, 구조를 분리하고, 라벨이 표시된 영역을 선택하고, 사이드 패널에서 레이어를 켜고 끌 수 있게 하세요. 해부학, 연결, 개별 세포를 위한 탭을 별도로 추가하고, 애니메이션 신호와 조절 가능한 컨트롤을 제공하세요.
+
+부드러운 조명, 은은한 색상, 매끄러운 전환 효과, 최소한의 텍스트를 사용하는 현대적이고 미니멀한 인터페이스를 구성하세요. 화살표와 짧은 시각적 튜토리얼을 포함하세요. 데스크톱과 모바일에서 모두 작동하도록 하세요.
+
+가능한 경우 실제 해부학적 지오메트리를 사용하고 출처를 명시하며, 과학 데이터와 설명용 애니메이션을 명확히 구분하세요. 실제로 작동하는 웹사이트를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
+
+Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
+
+Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
+
+Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099206962344800541) · [원본 게시물](https://x.com/k1rallik/status/2099206962344800541) · [소스 코드](https://github.com/bubblik525/cat_brain_anatomy) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2099172061092381027"></a>
+
+### 플레이 가능한 3D 브라우저 해안 지구 데모
+
+[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="플레이 가능한 3D 브라우저 해안 지구 데모"></a>
+
+**프롬프트**
+
+```text
+> 사양 잠금 (TZ-gta-slice.md)
+
+prompt: "플레이 가능한 3D 브라우저 데모를 만드세요. 이 사양을 잠근 후에는 변경하지 마세요. 지구와 클립을 먼저 만들고, 조작은 나중에 추가하세요."
+
+> 스택 (Vite, 바닐라 TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "스택은 고정합니다. Vite. 바닐라 TypeScript. Three.js. cannon-es. Web Audio. 브라우저 URL 하나로 구성하세요."
+
+> 프레임 (물 위로 지는 노을, 젖은 아스팔트, 야자수)
+
+prompt: "해안 지구 하나를 만드세요. 물 위로 노을이 지고, 아스팔트는 젖어 있으며, 야자수가 있어야 합니다. 폴리곤 수가 아니라 조명과 카메라에 프레임의 초점을 맞추세요. 기본 회색 조명은 사용하지 마세요. 재질 없는 큐브도 사용하지 마세요."
+
+> 세 사람 (한 장면, 자동차 한 대, 약 20초)
+
+prompt: "세 사람을 한 장면에 유지하세요. 서로 대화한 다음 한 대의 자동차에 타게 하세요. 재생 시간은 약 20초입니다. 불필요한 전환을 늘리기보다 품질을 우선하세요."
+
+> 컷 (15~20초, 매끄럽게 유지)
+
+prompt: "버벅거리면 클립을 15~20초로 줄이세요. 매끄러운 재생을 유지하세요. 프레임이 떨어지면 조명을 줄이지 말고 보행자를 줄이세요."
+
+> 사운드 (사람 목소리, 대사 아래의 패드, 자동차 저음)
+
+prompt: "목소리는 로봇이 아니라 사람처럼 들려야 합니다. 대사 아래에는 조용한 패드 사운드를 깔되, 대사를 덮지 마세요. 사람들이 차에 타면 톱날 소리가 아닌 낮은 자동차 웅웅거림을 넣으세요. 라디오 잡음은 사용하지 마세요."
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+> lock the spec (TZ-gta-slice.md)
+
+prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
+
+> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
+
+prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
+
+> the frame (sunset over the water, wet asphalt, palms)
+
+prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
+
+> the three (one scene, one car, about 20 seconds)
+
+prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
+
+> the cut (15 to 20 seconds, keep it smooth)
+
+prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
+
+> the sound (human voices, pad under the lines, car rumble)
+
+prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2099172061092381027) · [원본 게시물](https://x.com/Lummox_eth/status/2099172061092381027) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098980384260456813"></a>
+
+### 머리 없는 의상 모델 UV 언랩 및 4K 재베이크
+
+[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="머리 없는 의상 모델 UV 언랩 및 4K 재베이크"></a>
+
+**프롬프트**
+
+```text
+Blender MCP에서 선택한 「의상과 팔다리를 포함한 머리 없는 모델」의 UV 언랩과 기존 텍스처의 4K 재베이크를 실행해 주세요.
+
+목표는 원래 외형을 유지하면서 의상 패턴처럼 구조를 파악하기 쉽고 나중에 다시 그리기 편한 UV를 만드는 것입니다. 사람 아티스트와 마찬가지로 관찰 → 심 설계 → 부위별 언랩 → 왜곡 수정 → 배치 → 베이크 순서로 진행해 주세요.
+
+1. 원본 데이터 보존
+작업 전에 다른 이름으로 저장하고 기존 UV, 이미지, 머티리얼을 유지한 상태에서 새 UV 「UV\_Final」을 생성해 주세요.
+형상, 토폴로지, 버텍스 순서, 웨이트, 셰이프 키, 리그는 변경하지 마세요.
+
+2. 모델을 관찰하고 심 설계
+원본 텍스처 표시와 와이어프레임 표시로 여러 방향을 확인하고, 의상의 파츠 구성과 실제 봉제선을 파악해 주세요.
+의상은 몸판, 소매, 칼라 등 패턴 구성에 맞추고, 옆선이나 소매 안쪽 등을 활용해 절개해 주세요. 피부와 팔다리는 안쪽이나 측면처럼 눈에 잘 띄지 않는 위치에 심을 배치하고, 손가락 사이까지 무리 없이 펼칠 수 있게 구성해 주세요.
+주름이나 프린트를 봉제선으로 착각하지 말고, 불필요하게 잘게 나뉜 아일랜드를 만들지 마세요.
+
+3. 부위별로 언랩하고 왜곡 수정
+전체를 한 번에 처리하지 말고 부위별로 Unwrap을 실행해 주세요.
+UV\_Final을 참조하는 글자 체커와 Stretch 표시를 사용해 늘어남, 압축, 비틀림, 뒤집힘, 겹침을 확인해 주세요.
+문제 원인에 따라 심을 추가하거나 제거하고, Pin이나 Relax 등으로 조정한 뒤 다시 확인합니다. 같은 자동 언랩을 반복하는 것으로 끝내지 말고, 개선된 부위는 유지해 주세요.
+Smart UV Project로 전체를 자동 세분화한 결과를 완성품으로 사용하지 마세요.
+
+4. 결 방향, 밀도, 배치 정리
+의상은 각 파츠의 결 방향을 기준으로 기본 세로 방향을 UV의 V 방향에 맞춰 주세요. 곡선이 있는 패턴까지 억지로 직사각형으로 변형하지 마세요.
+실제 치수에 따른 텍셀 밀도를 균일하게 맞추고, 좌우 대응 관계를 파악할 수 있는 방향으로 정리합니다.
+그 후 방향과 상대적 스케일을 유지한 채 0~1 영역에 패킹해 주세요. 좌우를 겹치거나 임의로 회전하지 마세요.
+4K 베이크 여백은 16px, 아일랜드 간격은 32px 이상, 이미지 외곽 여백은 16px 이상을 초기 기준으로 설정해 주세요.
+
+5. 기존 UV에서 새 UV로 4K 베이크
+원본 텍스처의 참조를 기존 UV에 명시적으로 고정하고, UV\_Final을 베이크 대상으로 지정해 4096×4096 크기의 새 이미지로 전사해 주세요.
+각 머티리얼에서 베이크 대상 이미지 노드를 활성화한 뒤 테스트 베이크를 거쳐 본 베이크를 진행합니다.
+베이스 컬러는 Diffuse의 Color만 사용하거나 Emit을 사용하고, 새로운 조명·그림자·AO를 베이크하지 마세요. 원본 이미지에 그려진 음영은 유지해 주세요.
+알파 등 기존 맵도 필요한 경우 전사하고, 탄젠트 노멀은 단순한 색상 전사가 아니라 새 UV를 기준으로 다시 베이크해 주세요.
+
+6. 신구 비교로 완성 상태 확인
+새 UV와 베이크 이미지를 적용한 뒤, 원본과 동일한 표시 조건에서 전체와 세부를 비교해 주세요.
+패턴의 위치, 색상, 알파, 심의 연속성을 확인하고 UV의 눌림·겹침·언랩 누락, 베이크의 검은 점·누락·번짐을 수정해 주세요.
+「몇 번 언랩했는가」가 아니라 검사 결과를 기준으로 완성 여부를 판단해 주세요.
+
+완성.blend, 4K 이미지, UV 레이아웃, 심·체커·완성 외형 확인 이미지를 저장하고, 주요 수정 내용을 간결하게 보고해 주세요.
+계획 설명만 하고 끝내지 말고 실제 이미지를 확인하면서 작업을 완료해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
+
+目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
+
+1．元データを保全する
+作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
+形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
+
+2．モデルを観察してシームを設計する
+元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
+服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
+シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
+
+3．部位ごとに展開し、歪みを修正する
+全体を一括処理せず、部位ごとにUnwrapしてください。
+UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
+問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
+Smart UV Projectによる全体の自動細分化を完成品にしないでください。
+
+4．布目・密度・配置を整える
+服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
+実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
+その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
+4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
+
+5．旧UVから新UVへ4Kベイクする
+元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
+各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
+ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
+透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
+
+6．新旧比較で完成を確認する
+新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
+柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
+「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
+
+完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
+計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098980384260456813) · [원본 게시물](https://x.com/_sagyoai/status/2098980384260456813) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098909584996057283"></a>
+
+### 스스로 접히는 3D 종이접기 애니메이션
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="스스로 접히는 3D 종이접기 애니메이션"></a>
+
+**프롬프트**
+
+```text
+3D 종이접기 애니메이션을 제작하세요. 평평한 정사각형 종이가 단계별로 스스로 접혀 알아볼 수 있는 종이접기 형태가 되어야 하며, 각 접기 과정은 종이에 실제로 주름이 생기고 회전하는 모습으로 보여야 합니다. 그런 다음 다시 평평하게 펼쳐지고 이 과정을 반복해야 합니다. 어떤 형태로 접히고 전체적으로 어떻게 보여줄지는 자유롭게 결정하세요.
+
+스타일, 색상, 분위기, 환경, 카메라, 디테일 수준, 추가 연출 등 디자인에 관한 모든 사항은 직접 결정하세요. 질문은 하지 말고 모든 선택을 스스로 내려 한 번의 시도로 가장 인상적인 결과물을 제작하세요.
+
+기술 요구 사항: 외부 모델, 이미지, 사운드 또는 어떤 종류의 에셋 URL도 사용하지 않는 단일 독립형 HTML 파일이어야 합니다(CDN의 JavaScript 라이브러리는 사용해도 됩니다). 로드되는 즉시 클릭 없이 자동으로 실행을 시작해야 하며, 콘솔 오류 없이 원활하게 작동해야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098909584996057283) · [원본 게시물](https://x.com/free_ai_guides/status/2098909584996057283) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098841316591346006"></a>
+
+### 체르노빌 아틀라스
+
+[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="체르노빌 아틀라스"></a>
+
+**프롬프트**
+
+```text
+Three.js를 사용해 고품질 인터랙티브 3D 전시물 "체르노빌 아틀라스"를 제작하세요.
+
+공개 자료를 참고해 체르노빌 원전과 RBMK 원자로의 원형을 조사하세요. 건물, 격자형 굴뚝, 터빈 홀, 흑연 블록 적층체, 연료 채널, 차폐 구조물, 기수분리 드럼, 펌프와 배관을 모델링하세요.
+
+탭을 세 개 만드세요.
+— 발전 블록: 스크롤과 슬라이더로 층별 분해가 가능한 상세 모델입니다.
+— 증기 회로: 원자로, 터빈, 복수기, 펌프를 연결하는 애니메이션 다이어그램입니다.
+— 움직이는 원자로: 물과 증기가 움직이고 기계 장치가 회전하는 3D 단면도와 재생 컨트롤을 제공합니다.
+
+각 시스템의 표시 여부를 독립적으로 전환하고, 부품 간격을 조절할 수 있게 하세요. 와이어프레임, 투명도, 단면 절단, 짧은 라벨도 지원하세요. 완전히 분해한 상태에서도 모든 레이어를 쉽게 검사할 수 있고 카메라를 자유롭게 회전할 수 있어야 합니다.
+
+소스 코드와 독립 실행형 HTML 파일을 제공하세요. 모든 컨트롤을 테스트하세요. 실제 공학적 복제품이 아닌 교육적 해석임을 명시하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
+
+Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
+
+Create three tabs:
+— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
+— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
+— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
+
+Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
+
+Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098841316591346006) · [원본 게시물](https://x.com/k1rallik/status/2098841316591346006) · [소스 코드](https://github.com/bubblik525/Chernobyl_Atlas) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098831830002851846"></a>
+
+### 키네틱 샌드 테이블 시뮬레이션
+
+[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="키네틱 샌드 테이블 시뮬레이션"></a>
+
+**프롬프트**
+
+```text
+키네틱 샌드 테이블 시뮬레이션을 제작하세요. 공이 모래판 위를 움직이며 눈에 보이는 자국을 남기고, 완성된 기하학적 패턴을 그린 다음 모래를 고르게 다듬고 자동으로 새롭고 다른 패턴을 시작해야 합니다. 서로 다른 패턴을 반복하지 않고 다양하게 순환해야 합니다. 외관과 패턴에 관한 모든 선택은 여러분의 몫입니다.
+
+디자인에 관한 모든 결정은 여러분이 내리세요. 스타일, 색상, 분위기, 환경, 카메라, 디테일 수준과 추가 요소를 자유롭게 정하고, 가장 인상적인 결과물을 한 번에 제작하세요. 제게 질문하지 마세요.
+
+기술 요구 사항: 외부 모델, 이미지, 사운드 또는 어떤 종류의 에셋 URL도 사용하지 않는 단일 독립 실행형 HTML 파일이어야 합니다(CDN의 JavaScript 라이브러리는 사용해도 됩니다). 클릭하지 않아도 로드되는 즉시 자동으로 실행을 시작해야 하며, 콘솔 오류 없이 원활하게 작동해야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
+
+Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
+
+Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098831830002851846) · [원본 게시물](https://x.com/free_ai_guides/status/2098831830002851846) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098795017955418202"></a>
+
+### 1893년 시카고 세계 박람회 3D 재현
+
+[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="1893년 시카고 세계 박람회 3D 재현"></a>
+
+**프롬프트**
+
+```text
+박람회 관련 역사 사진 2,000장과 참고 자료를 다운로드하고, 수집한 모든 정보를 활용해 Blender에서 3D로 재현하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098795017955418202) · [원본 게시물](https://x.com/moreisdifferent/status/2098795017955418202) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2098774359926297011"></a>
+
+### 조인트 결합식 분할 3D 프린트 액자
+
+[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="조인트 결합식 분할 3D 프린트 액자"></a>
+
+**프롬프트**
+
+```text
+3D 프린터로 액자를 출력하고 싶은데 프린터가 작아서 부품을 연결해 완성하는 방식이면 좋겠어. 뭔가 재미가 없으니 조인트를 사용해서 만들어줘
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2098774359926297011) · [원본 게시물](https://x.com/wada/status/2098774359926297011) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2098739181510164652"></a>
 
 ### 스카이바운드 브라우저 비행 게임
@@ -4179,248 +4563,6 @@ Build me an endless miniature street in three.js WebGPU: a courier bicycle ridin
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096956214680965501) · [원본 게시물](https://x.com/creativedash/status/2096956214680965501) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096907617117540478"></a>
-
-### 호그와트 3D 장면
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="호그와트 3D 장면"></a>
-
-**프롬프트**
-
-```text
-Headless Blender를 사용해 《해리 포터》에 등장하는 호그와트 마법학교의 대규모·초고해상도·고사양 3D 모델을 제작하세요. 주변 자연환경, 상징적인 랜드마크, 실제 작품을 충실히 재현한 내부 공간과 소품을 포함하세요. 시네마틱 품질의 머티리얼, 조명, 렌더링과 사운드 디자인을 적용하고, 신비로운 분위기와 역동적으로 흐르는 안개를 연출하세요. 사용자가 환경을 자유롭게 탐험할 수 있도록 하며, 조명과 기타 시각 옵션을 전환할 수 있는 설정을 제공하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096907617117540478) · [원본 게시물](https://x.com/HiltonMisia/status/2096907617117540478) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096793432987464010"></a>
-
-### Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임
-
-[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Three.js와 WebGPU로 제작하는 인터랙티브 소프트바디 슬라임"></a>
-
-**프롬프트**
-
-```text
-새 디렉터리를 만들고, 브라우저에서 플레이할 수 있는 슬라임 페이지를 제작해 주세요. Three.js와 WebGPU를 사용하고, WebGL로 대체하지 마세요.
- 화면 중앙에는 동글동글한 슬라임을 배치해 주세요. 분홍색이나 청록색 모두 괜찮고, 반투명한 표면 안에 기포가 은은하게 보이도록 해 주세요. 마우스로 눌러 변형하거나 끌고 다닐 수 있어야 하며, 놓으면 흔들리면서 원래 형태로 돌아오게 해 주세요. 약간의 중력을 적용해 보이지 않는 책상 위에 가볍게 튕겨 부딪힐 수 있도록 해 주세요. 단단한 공처럼 보이지 말고, 말랑한 살덩이 같은 느낌을 살려 주세요.
- 얼굴에는 귀여운 포인트를 추가해 주세요. 검은 콩알 같은 눈 두 개와 작은 입을 배치하고, 눈과 입도 몸체 표면과 함께 눌려 변형되도록 해 주세요. 눈과 몸체를 분리된 요소처럼 만들지 마세요. 오른쪽에는 색상, 탄성, 감쇠를 조절하는 간단한 컨트롤을 몇 가지 배치해 주세요. 「콕 찌르기」 버튼을 누르면 슬라임이 한 번 튀어 오르게 해 주세요.
- 페이지는 깔끔하게 구성하고, 배경은 밝은 회색으로 해 주세요. 제목은 큰 글자로 표시해 주세요. 60fps로 실행될 수 있어야 합니다. 먼저 목표 효과 이미지를 만든 다음, 그 이미지를 기준으로 구현해 주세요. 스크린샷이 목표와 비슷해진 뒤에 세부 요소를 추가해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
-中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
-可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
-页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096793432987464010) · [원본 게시물](https://x.com/Delroy715/status/2096793432987464010) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="astra-3d-2096766465730847059"></a>
-
-### Blender MCP로 제작하는 레고 미니피겨 게임 에셋
-
-[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Blender MCP로 제작하는 레고 미니피겨 게임 에셋"></a>
-
-**프롬프트**
-
-```text
-Blender MCP를 사용해 게임 에셋으로 활용할 수 있는 도널드 트럼프 레고 미니피겨를 제작해 주세요. AAA급의 뛰어난 품질로 완성하고, 디테일과 정확성, 완성도를 확인할 수 있도록 결과물을 철저히 검증해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/astra-3d-2096766465730847059) · [원본 게시물](https://x.com/_simonsmith/status/2096766465730847059) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096685163111694556"></a>
-
-### 인터랙티브 스마트폰 분해도
-
-[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="인터랙티브 스마트폰 분해도"></a>
-
-**프롬프트**
-
-```text
-최신 스마트폰의 인터랙티브 3D 분해도 시각화를 제작하세요. 기기를 주요 부품으로 분리하고, 슬라이더로 분해하거나 재조립할 수 있게 하세요. 부품을 클릭하면 해당 부품만 따로 표시하고 어떤 기능을 하는지 설명하세요. 배터리, 카메라, SoC, 메모리, 디스플레이 레이어, 스피커, 센서, 안테나, 로직 보드를 포함하세요. 아름다운 Apple 스타일의 인터페이스와 만족감 있는 인터랙션을 우선하세요. 전체 경험을 구축하고 실행한 뒤 점검하고 수정하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096685163111694556) · [원본 게시물](https://x.com/zairalaraib_/status/2096685163111694556) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096641728497275011"></a>
-
-### 미니 월드 3D 탐험 게임
-
-[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="미니 월드 3D 탐험 게임"></a>
-
-**프롬프트**
-
-```text
-Mini World라는 게임을 만들어 주세요. 아름답고 완성도 높은 그래픽 인터페이스를 갖춘 3D 월드 탐험 게임으로, 네 살 반인 제 아들이 재미있고 쉽게 플레이할 수 있도록 설계해 주세요. 화면을 확대하고 축소할 수 있어야 합니다. 멀리서 보면 월드가 작은 공처럼 보이지만, 그 안에는 탐험할 수 있는 다양한 지역이 있어야 합니다. 한 지역은 숲처럼 보이고, 다른 지역은 사막처럼 보일 수 있으며, 캐릭터가 헤엄쳐 다닐 수 있는 바다도 포함해 주세요. 캐릭터가 월드의 여러 지역을 이동하고, 다양한 환경을 탐험하며, 이동 중에 여러 가지를 발견할 수 있도록 재미있고 실제로 플레이 가능한 게임으로 만들어 주세요. 무엇보다 제대로 작동하는 것을 최우선 목표로 삼아 주세요. 이동, 줌 인·아웃, 탐험, 수영, 환경, 조작, 전반적인 플레이 경험이 서로 매끄럽게 맞물려 작동하도록 아름답게 디자인하고, 반복적으로 철저히 테스트하며 개선해 주세요. 모든 기능이 안정적으로 작동하고 어린아이가 직관적으로 즐길 수 있는 완성도 높은 게임이 될 때까지 계속 테스트하고 다듬어 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096641728497275011) · [원본 게시물](https://x.com/weijianzhang_/status/2096641728497275011) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637194270134742"></a>
-
-### 블렌더에서 회전하는 지구 렌더링
-
-[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="블렌더에서 회전하는 지구 렌더링"></a>
-
-**프롬프트**
-
-```text
-블렌더에서 우주에서 바라본 회전하는 지구를 멋진 5초 분량으로 렌더링하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096637194270134742) · [원본 게시물](https://x.com/JohnKlerAI/status/2096637194270134742) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096637091627364531"></a>
-
-### Three.js 다크 판타지 액션 RPG
-
-[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Three.js 다크 판타지 액션 RPG"></a>
-
-**프롬프트**
-
-```text
-Three.js를 사용해 처음부터 완성도 높고 실제로 플레이 가능한 3D 다크 판타지 액션 RPG를 제작합니다.
-
-탑다운 시점의 사선 추적 카메라를 사용합니다. 배경은 숲에 잠식된 웅장한 고딕 양식의 성소로 구성하며, 폐허가 된 탑과 아케이드, 이끼로 뒤덮인 석조 다리, 완만한 언덕, 개울, 폭포, 모닥불을 배치합니다. 사실적인 머티리얼, 시네마틱 라이팅, 옅은 안개, 바람에 흔들리는 식생, 흐르는 물을 활용해 층위가 풍부한 분위기를 연출합니다.
-
-주인공은 정교하게 제작된 강철과 금색의 중갑을 착용한 강력한 기사이며, 펄럭이는 망토와 빛나는 룬 검 및 방패를 갖춥니다. 캐릭터는 이동, 베기, 구르기, 방어, 회복, 마법 시전이 가능해야 하며, 마법에는 거대한 마법진, 광선, 번개 효과를 포함합니다. 경비병을 쓰러뜨린 뒤에는 거대한 뿔 달린 기사 보스와 맞서게 합니다.
-
-공격 애니메이션, 시각 효과, 피격 방향은 모두 캐릭터가 바라보는 방향과 일치해야 합니다. 완성도 높은 번체 중국어 HUD, 캐릭터 장비 화면, 승리·패배·재시작의 전체 흐름을 구현합니다.
-
-모델링, 에셋 제작 또는 확보, 프로그래밍, 성능 최적화를 독립적으로 처리합니다. AAA급 비주얼 완성도를 목표로 합니다. 완성된 플레이 가능 게임과 실행 방법, 소스 코드를 제공할 때까지 지속적으로 플레이테스트를 진행하고, 비주얼을 점검하며, 문제를 수정합니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
-
-Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
-
-The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
-
-Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
-
-Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096637091627364531) · [원본 게시물](https://x.com/HiltonMisia/status/2096637091627364531) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096629506047955327"></a>
-
-### 윈드헤이븐 해안 판타지 어드벤처 게임
-
-[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · 게임
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="윈드헤이븐 해안 판타지 어드벤처 게임"></a>
-
-**프롬프트**
-
-```text
-저와 함께 게임을 디자인해 보세요. 게임은 Unity로 제작해야 합니다. 먼저 기본 에셋을 사용하고, 나중에 에셋을 교체할 수 있도록 해 주세요.
-게임 스타일:
-‘윈드헤이븐’이라는 햇살 가득한 작은 섬 도시에 펼쳐지는 프리미엄 스타일리시 해안 판타지 어드벤처 게임입니다. 도시는 따뜻한 아이보리색 석회암과 황금빛 사암으로 지어졌으며, 맑고 투명한 청록색 바다로 둘러싸여 있습니다. 청록색 구리 지붕, 그늘진 시장 가판대, 아치형 관문, 나무가 우거진 안뜰, 조각 장식이 있는 분수, 빛나는 마법의 봉화, 마을을 내려다보는 기념비적인 사원이 등장합니다. 여행용 망토와 배낭을 착용한 젊은 탐험가 한 명이 중앙 광장을 지나 사원을 향해 걸어갑니다. 환경은 평화롭고 신비로우며 고대의 느낌과 은은한 마법이 공존하는 분위기입니다. 지중해와 북아프리카 건축 양식의 영향을 반영합니다. 디테일이 풍부한 스타일라이즈드 PBR 머티리얼, 수작업으로 다듬은 석재 표면, 은은한 풍화 표현, 우아한 장식 조각, 부드러운 오후 햇살, 길게 드리워지는 시네마틱 그림자, 청록색과 따뜻한 금빛 색상 팔레트, 완성도 높은 AAA 어드벤처 게임 아트 디렉션, 3인칭 게임플레이 카메라, 도시 전경을 보여주는 와이드 establishing shot, 일관된 환경 디자인, 한눈에 파악할 수 있는 경로와 랜드마크를 사용합니다. UI, 텍스트, 로고, 현대적인 물체는 포함하지 않습니다.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
-Game style:
-A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/gpt-6-astra-2096629506047955327) · [원본 게시물](https://x.com/tripoai/status/2096629506047955327) · [사례 목록으로](#all-prompts)
 
 ---
 

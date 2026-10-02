@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (38)</summary>
+<summary>사례 둘러보기 (46)</summary>
 
+- [Jeep 스타일 4×4의 Blender 조립 프롬프트](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [독립 실행 HTML 장면용 3D 파괴 물리 프롬프트](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Claude Opus 5 메카 로봇 설계도 프롬프트 모음](#mech-robot-blueprint-set-2082760534500188606)
+- [Need for Speed 스타일 Godot 게임 프롬프트](#need-for-speed-style-godot-game-2082714235373584582)
+- [금이 가는 수족관을 위한 Kimi K3 3D 시뮬레이션 프롬프트](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Kimi K3 플레이 가능한 전투 게임 프롬프트](#playable-combat-game-2082507403598373134)
+- [HTML 하나로 LoL 스타일 1 대 1을 만드는 Kimi K3 프롬프트](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [Claude Opus 5용 단일 파일 3D 태양 시각화 프롬프트](#single-file-3d-sun-visualizer-2082461416049525077)
 - [단일 파일 Three.js로 만드는 컴퓨터 작업대 3D 방 프롬프트](#explorable-3d-room-with-computer-workstation-2082451081733591520)
 - [UE5 비유클리드 문 포털용 Claude Opus 5 프롬프트](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
 - [Three.js 게임 제작을 위한 간단한 FPS 프롬프트](#simple-first-person-shooter-in-three-js-2082242351372599770)
@@ -68,6 +76,203 @@
 - [Three.js 비행기 내부 워크스루 체험 프롬프트](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### Jeep 스타일 4×4의 Blender 조립 프롬프트
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Jeep 스타일 4×4의 Blender 조립 프롬프트"></a>
+
+**프롬프트**
+
+```text
+Jeep 스타일 4×4를 설계하고 수작업 모델링 없이 Blender에서 부품별로 조립하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [원본 게시물](https://x.com/slash1sol/status/2082845759452463405) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### 독립 실행 HTML 장면용 3D 파괴 물리 프롬프트
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="독립 실행 HTML 장면용 3D 파괴 물리 프롬프트"></a>
+
+**프롬프트**
+
+```text
+줄지어 선 차를 짓밟는 몬스터 트럭.
+협곡을 뛰어넘다 공중에서 정면충돌하는 두 대의 자동차.
+차를 한 대씩 납작하게 만드는 거대한 모루.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Claude Opus 5 메카 로봇 설계도 프롬프트 모음
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Claude Opus 5 메카 로봇 설계도 프롬프트 모음"></a>
+
+**프롬프트**
+
+```text
+Claude OPUS 5와 Blender로 실제 수학과 물리를 이용해 건담 크기의 메카 로봇 설계도를 만들 때 쓴 프롬프트를 공유합니다.
+
+‘메카 설계를 생각해보자. 기본적으로 터보샤프트 엔진 두 개와 전기 모터·유압으로 작동하고 APU도 있어. 공압 시스템도 있을 수 있겠네. 상황이 꼬이면 조금 더 움직일 수 있게 강력한 배터리도 있어. 엔진 두 개는 어깨에 두고 정비 패널을 바깥으로 향하게 해서 유지보수할 수 있으면 좋겠어. 각 시스템을 다시 보고 이제 전부 실제 구조로 만들자. 정말 멋질 거야. 도와줄 에이전트를 배정하고, 중앙에 콕핏과 수면 포드가 들어갈 큰 공간을 남겨 몸통을 다시 만들어줘.’
+
+‘발에 전기 모터로 움직이는 바퀴를 달면 어떨까? 대부분의 이동을 도울 수 있을 것 같아.’
+
+‘에이전트에게 그 수치를 주고 액추에이터에 실제 전선이 연결된 다리 설계를 만들게 해줘.’
+
+‘좋아, 새 GLB를 장면에 넣어줘.’
+
+‘와, 정말 엄청나다. 다른 부품도 빨리 표시해줘.’
+
+‘로우폴리 머리에 실제 FLIR·야간투시 카메라, 1980~1990년대 CROWS M2 기관총을 달아줘.’
+
+‘아름다워… T_T’
+
+‘다리 골격에 리그를 달아야 해. 애니메이션 때 제약을 따르게 하고 힘 등을 계산하는 데도 필요하니까.’
+
+‘괜찮아, 어차피 나도 대부분은 이해 못 해, 하하.’
+‘만든 엔진, 동력 전달계, 다리는 나중에 다른 부분에서 재사용할 수 있도록 저장해둬. 그리고 에이전트에게 팔과 손을 만들라고 해줘.’
+
+‘다리에 맞게 고관절 기구도 제대로 설계해줘.’
+
+‘내 생각엔 골반과 가슴 사이 관절에 회전 토크가 있어.’
+
+‘에이전트에게 Bofors 방식의 휴대용 반자동 소총을 만들게 해서 로봇이 빠르게 반자동 사격을 할 수 있게 해줘.’
+
+‘40mm가 좋겠어. 정확하되 로우폴리로 만들어서 권총과 반자동 소총 중 어느 형태가 나을지 치수를 확인하고 싶어.’
+
+‘둘 다 만들어줘. 그다음 Abrams 포에 반자동 기구를 단 것도 만들어줘.’
+‘소총처럼 볼트와 스프링을 만들어줘.’
+
+‘콕핏의 장식용 배선은 없애고 실제 배선을 넣으려고 해. 어떻게 생각해?’
+
+‘해결책: 실제 배선을 하되 거칠게 배선해줘.’
+
+‘120mm 포를 넣어줘.’
+
+‘120mm 포 작동에 리그와 애니메이션을 달아줘.’
+
+‘여기에 커다란 장갑 해치가 필요해. 좌석을 올려 조종사가 주변을 보고 그 위치에서 조종할 수 있게 하고 싶어. 콕핏 안의 망원식 관측창 네 개도 위쪽에 대응하는 끝부분이 있어야 구조적으로 맞아.’
+‘120mm와 해치의 리그·애니메이션을 계속해줘. 일시정지는 잘못 클릭했어.’
+
+‘동력 장치는 배 부분이 좋을 것 같아. 하지만 지금 엔진 위치는 마음에 안 들어. 더 위로 올리고 몸통과 어깨를 지탱하는 실제 트러스 구조를 넣자. 네 판단에 맡길게. 가슴은 어떻게 만들고 싶어? 위쪽 해치로 탑승하니까 앞가슴은 만들 수 있어…’
+
+‘외장은 얇은 알루미늄이든 탄소섬유든 상관없지만 멋있어야 해. NCT가 장갑으로 쓸 만할까? 모르겠으니 네 판단에 맡길게. 나중에 부품을 좀 붙여서 이 괴물의 모양을 다듬어야겠어. 아무튼 팀을 모아 만들기 시작해줘.’
+
+‘PT125 인버터가 공중에 떠 있는데 어디에 들어가야 하는지 모르겠어.’
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [원본 게시물](https://x.com/Spectromachina/status/2082760534500188606) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Need for Speed 스타일 Godot 게임 프롬프트
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed 스타일 Godot 게임 프롬프트"></a>
+
+**프롬프트**
+
+```text
+NFS 같은 게임을 만들어주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [원본 게시물](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### 금이 가는 수족관을 위한 Kimi K3 3D 시뮬레이션 프롬프트
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="금이 가는 수족관을 위한 Kimi K3 3D 시뮬레이션 프롬프트"></a>
+
+**프롬프트**
+
+```text
+측면에 눈에 보이는 금이 생긴 뒤 터지는 유리 수족관을 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [원본 게시물](https://x.com/UnslothAI/status/2082528683747873194) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Kimi K3 플레이 가능한 전투 게임 프롬프트
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 플레이 가능한 전투 게임 프롬프트"></a>
+
+**프롬프트**
+
+```text
+플레이 가능한 전투 게임을 만들어주세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/playable-combat-game-2082507403598373134) · [원본 게시물](https://x.com/darshal_/status/2082507403598373134) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### HTML 하나로 LoL 스타일 1 대 1을 만드는 Kimi K3 프롬프트
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="HTML 하나로 LoL 스타일 1 대 1을 만드는 Kimi K3 프롬프트"></a>
+
+**프롬프트**
+
+```text
+Verdent에서 Kimi K3와 GPT-5.6에 같은 프롬프트를 줬습니다. HTML 파일 하나로 플레이 가능한 League of Legends 스타일 1 대 1 게임을 만드세요.
+
+둘 다 게임을 완성했습니다. 나란히 열고 각각 플레이했습니다.
+
+두 실행 사이에 바꾼 것은 단 하나였습니다. https://t.co/ItoGlnpiXi 의 드롭다운에서 선택한 모델입니다. https://t.co/3PYQVli1zm
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [원본 게시물](https://x.com/0x_fokki/status/2082474707727581564) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### Claude Opus 5용 단일 파일 3D 태양 시각화 프롬프트
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Claude Opus 5용 단일 파일 3D 태양 시각화 프롬프트"></a>
+
+**프롬프트**
+
+```text
+우주에서 자전하는 태양의 3D 시각화 도구를 만드세요. HTML 파일 하나로.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [원본 게시물](https://x.com/AlysisAI/status/2082461416049525077) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
 
 ### 단일 파일 Three.js로 만드는 컴퓨터 작업대 3D 방 프롬프트

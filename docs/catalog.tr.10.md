@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (38)</summary>
+<summary>Örnekleri keşfet (46)</summary>
 
+- [Jeep tarzı bir 4x4 için Blender montaj istemi](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [Bağımsız HTML sahneleri için 3B yıkım fiziği istemleri](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Mekanik robot teknik tasarımı için Claude Opus 5 istem seti](#mech-robot-blueprint-set-2082760534500188606)
+- [Need for Speed tarzı Godot oyunu istemi](#need-for-speed-style-godot-game-2082714235373584582)
+- [Kimi K3 için çatlayan akvaryum 3B simülasyon istemi](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Kimi K3 için oynanabilir savaş oyunu istemi](#playable-combat-game-2082507403598373134)
+- [Kimi K3 için tek HTML'de League of Legends tarzı 1'e 1 oyun istemi](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [Claude Opus 5 için tek dosyalı 3B Güneş görselleştirme istemi](#single-file-3d-sun-visualizer-2082461416049525077)
 - [Tek dosyalık Three.js bilgisayarlı 3B oda istemi](#explorable-3d-room-with-computer-workstation-2082451081733591520)
 - [Unreal Engine 5'te Öklid dışı kapı portalı için Claude Opus 5 istemi](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
 - [Three.js oyunu için basit FPS istemi](#simple-first-person-shooter-in-three-js-2082242351372599770)
@@ -68,6 +76,203 @@
 - [Three.js uçak içi gezinti deneyimi istemi](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### Jeep tarzı bir 4x4 için Blender montaj istemi
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Jeep tarzı bir 4x4 için Blender montaj istemi"></a>
+
+**İstem**
+
+```text
+Jeep tarzı bir 4x4 tasarla ve elle modelleme yapmadan Blender'da parça parça birleştir
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [Orijinal gönderi](https://x.com/slash1sol/status/2082845759452463405) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### Bağımsız HTML sahneleri için 3B yıkım fiziği istemleri
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="Bağımsız HTML sahneleri için 3B yıkım fiziği istemleri"></a>
+
+**İstem**
+
+```text
+Bir sıra arabayı ezen bir monster truck
+Kanyondan atlayıp havada kafa kafaya çarpışan iki araba
+Arabaları teker teker dümdüz eden dev bir örs
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Mekanik robot teknik tasarımı için Claude Opus 5 istem seti
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Mekanik robot teknik tasarımı için Claude Opus 5 istem seti"></a>
+
+**İstem**
+
+```text
+Claude OPUS 5 + Blender ile gerçek matematik ve fizik kullanarak GUNDAM BOYUTUNDA bir mekanik robotun teknik tasarımını oluştururken kullandığım istemleri paylaşıyorum:
+
+"robotun tasarımını düşünelim; temelde 2 turboşaft motoru var, elektrik motorları + hidrolik güçle çalışıyor; ayrıca bir APU'su, belki pnömatik sistemi de var. işler karışırsa bir süre daha ilerlemesine yardımcı olan güçlü bataryaları var. 2 motoru robotun omuzlarına koymayı düşünüyorum; bakım yapabilmemiz için servis panelleri dışa baksın. bu arada robotun sistemlerine tekrar bak, sonra bütün sistemleri fiziksel olarak oluşturacağız. harika olacak; sana yardım edecek birkaç ajan görevlendir ve gövde bölümünü yeniden yap, ama ortada kokpit + uyku kapsülü için geniş bir boşluk bırak."
+
+"Ayaklarına elektrik motorlarıyla çalışan tekerlekler eklesek? Hareket ederken büyük ölçüde yardımcı olabilirler."
+
+"bir ajanı bu ölçüleri alıp aktüatörlere giden gerçek kabloları falan da içeren bir bacak tasarımı yapmakla görevlendir"
+
+"tamam yeni glb'leri sahneye ekle"
+
+"aman tanrım bu acayip bir şey. dostum tamam diğer parçaları da hemen görünür yap"
+
+"düşük poligonlu kafaya gerçek FLIR + NV kameralar ve 1980/1990'lardan bir CROWS M2 makineli tüfek ekle."
+
+"bu... çok güzel... T_T"
+
+"bacakların iskeletini rig'lemeliyiz; animasyon verirken kısıtlamalara uyması gerekiyor, kuvvetleri falan hesaplamak için de gerekli."
+
+"sorun değil, zaten çoğunu anlamıyorum hahaha,"
+"tamam, motorlar, güç aktarımı ve bacaklar gibi yaptığın parçaların daha sonra başka yerlerde yeniden kullanılabilmesi için kaydedildiğinden emin ol; bu arada bir ajana kolları ve elleri yaptır"
+
+"ayrıca kalça mekanizmasını bacaklara uygun şekilde düzgün tasarla"
+
+"bence PELVİS ve GÖĞÜS arasındaki eklem dairesel torku taşıyor"
+
+"bir ajana Bofors sistemini kullanan elde taşınır yarı otomatik bir tüfek yaptır; robotun hızlı yarı otomatik puf puf silahı olsun"
+
+"aslında 40 mm istiyorum; ölçülere sadık ama düşük poligonlu bir tane yap ki tabanca mı yoksa yarı otomatik tüfek olarak mı daha iyi olacağını ölçebilelim."
+
+"ikisini de yap; sonra Abrams topu olup yarı otomatik mekanizmayla çalışan bir tane yap."
+"tüfek gibi bir sürgü ve yay oluştur."
+
+"kokpitteki bütün süs kablolarını falan kaldırıp gerçekten işlevli kablolama yapmayı düşünüyorum o-O ne dersin"
+
+"çözüm: gerçek kablolama yap, ama vahşi bir hayvan gibi döşe."
+
+"120 mm'lik topu ekle"
+
+"120 mm topun işleyişini RIG'le ve canlandır."
+
+"buraya zırhlı BÜYÜK bir kapak istiyorum; böylece koltuğu YUKARI kaldırabiliriz, pilot etrafı görüp robotu o konumdan sürebilir. ayrıca kokpitin içindeki 4 teleskopik görüş penceresinin, mantıklı olması için üstte de karşılık gelen uç noktaları olmalı."
+"rig'e devam et, 120 mm topu ve kapak komutunu canlandır; yanlışlıkla duraklattım."
+
+"güç ünitesi için karın bölgesi bence iyi bir konum, ama motorların yerini beğenmiyorum; onları bulundukları yerin üstüne koyup gövdeyi ve omuzları taşıyacak gerçek bir kafes yapı yapmalıyız... karar senin, göğsü nasıl yapmak istersin? kapaktan giriş yapıyoruz, o yüzden göğsün önü inşa edilebilir..."
+
+"tamam, dış kabuk ince alüminyum, hatta karbon fiber olabilir, umurumda değil ama havalı görünmeli; NCT zırh olarak işe yarar mı acaba? bilmiyorum, karar senin. sonra bu ucubeyi biraz daha göze hoş getirecek parçalar eklememiz gerekecek... neyse, ekibini topla ve inşa etmeye başla."
+
+"ortalıkta bir PT125 inverter buldum, nereye takılması gerektiğini bilmiyorum."
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [Orijinal gönderi](https://x.com/Spectromachina/status/2082760534500188606) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Need for Speed tarzı Godot oyunu istemi
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed tarzı Godot oyunu istemi"></a>
+
+**İstem**
+
+```text
+Bana NFS tipi bir oyun yap.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [Orijinal gönderi](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### Kimi K3 için çatlayan akvaryum 3B simülasyon istemi
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Kimi K3 için çatlayan akvaryum 3B simülasyon istemi"></a>
+
+**İstem**
+
+```text
+Yan camında görünür bir çatlak oluşan ve ardından patlayan cam akvaryum oluştur.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [Orijinal gönderi](https://x.com/UnslothAI/status/2082528683747873194) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Kimi K3 için oynanabilir savaş oyunu istemi
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 için oynanabilir savaş oyunu istemi"></a>
+
+**İstem**
+
+```text
+oynanabilir bir savaş oyunu oluştur
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/playable-combat-game-2082507403598373134) · [Orijinal gönderi](https://x.com/darshal_/status/2082507403598373134) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### Kimi K3 için tek HTML'de League of Legends tarzı 1'e 1 oyun istemi
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Kimi K3 için tek HTML'de League of Legends tarzı 1'e 1 oyun istemi"></a>
+
+**İstem**
+
+```text
+VERDENT'TE KIMI K3 VE GPT-5.6'YA AYNI İSTEMİ VERDİM: TEK HTML DOSYASINDA OYNANABİLİR LEAGUE OF LEGENDS TARZI 1'E 1 OYUN OLUŞTUR.
+
+ikisi de oyun teslim etti. yan yana açıp ikisini de oynadım.
+
+çalıştırmalar arasında tek şeyi değiştirdim: https://t.co/ItoGlnpiXi adresindeki menüden modeli https://t.co/3PYQVli1zm
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Orijinal gönderi](https://x.com/0x_fokki/status/2082474707727581564) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### Claude Opus 5 için tek dosyalı 3B Güneş görselleştirme istemi
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Claude Opus 5 için tek dosyalı 3B Güneş görselleştirme istemi"></a>
+
+**İstem**
+
+```text
+Uzayda dönen Güneş'in 3B görselleştirmesini oluştur. Tek HTML dosyası.
+```
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [Orijinal gönderi](https://x.com/AlysisAI/status/2082461416049525077) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
 
 ### Tek dosyalık Three.js bilgisayarlı 3B oda istemi

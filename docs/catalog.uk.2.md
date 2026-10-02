@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [WebGL2-гра у жанрі «пісочниця» на виживання](#claude-opus-5-5-2103502454750920925)
+- [Воксельний японський сад у Three.js](#gpt-6-astra-2103486103831339269)
+- [Навігація 3D-пагодою](#claude-opus-5-5-2103483174957597035)
+- [Створення морської свинки в Blender](#gpt-6-astra-2103482826519986544)
+- [Вільне дослідження 3D-містечка з сакурами в аніме-стилі](#claude-opus-5-5-2103480081809346597)
+- [3D-моделювання одягу для VRChat](#gpt-6-astra-2103456264785424530)
+- [Желе з пітайї](#gpt-6-astra-2103432732386664591)
+- [Моушн-графічна анімація «Життєвий цикл»](#claude-opus-5-5-2103428454355980558)
 - [Римська сцена битви в золотій годині](#gpt-6-astra-2103351755971207251)
 - [STILLWATER — браузерний досвід у місячному болоті](#gpt-6-astra-2103308083242082314)
 - [Інтерактивна 3D-послідовність запуску ракети над океаном](#claude-opus-5-5-2103303303358534021)
@@ -70,16 +78,478 @@
 - [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](#claude-opus-5-5-2102538762731565085)
 - [Кінематографічний інтерактивний піратський корабель на заході сонця](#claude-opus-5-5-2102533729746882985)
 - [Нескінченний процедурно згенерований світ на Three.js](#claude-opus-5-5-2102529695908806728)
-- [Двоповерховий заміський будинок з інтер’єром](#gpt-6-astra-2102473710724919614)
-- [Інтерактивна симуляція евакуації натовпу](#claude-opus-5-5-2102467667978572092)
-- [Battle City 3D: нескінченна танкова оборона](#battle-city-3d)
-- [Інтерактивний 3D-острів доісторичної епохи](#claude-opus-5-5-2102450239923720440)
-- [TD-гра на кшталт Sir, We Have Orc Problems](#gpt-6-astra-2102411087002112256)
-- [3D-сцена й відео з Токійською вежею вдень і вночі](#gpt-6-astra-2102276620124062065)
-- [Bubble Bay: 3D-битва на водяних кульках](#bubble-bay)
-- [Інтерактивна 3D-презентація дизайну гелікоптера](#gpt-6-astra-2102215638311694336)
 
 </details>
+<a id="claude-opus-5-5-2103502454750920925"></a>
+
+### WebGL2-гра у жанрі «пісочниця» на виживання
+
+[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="WebGL2-гра у жанрі «пісочниця» на виживання"></a>
+
+**Промпт**
+
+```text
+Створіть браузерну гру-пісочницю в дусі Minecraft, яка буде максимально схожою на оригінал. Увесь внутрішньоігровий текст — англійською. Керування: клавіатура та миша (настільний комп’ютер).
+
+ТЕХНІЧНІ ВИМОГИ
+- Один HTML-файл, чистий WebGL2, без сторонніх бібліотек.
+- Усі текстури 16×16 генеруються в коді як піксель-арт (камінь, земля, трава, дошки, листя, руди, скло, вода, лава тощо).
+- Звуки синтезуються за допомогою WebAudio: копання, кроки, встановлення блоків, отримання шкоди, моби, вибухи, спокійна фонова музика.
+
+СВІТ
+- Нескінченний світ із чанків розміром 16×16×128, із заданим seed.
+- Біоми: рівнини, ліс, березовий ліс, тайга, сніжна тундра, пустеля, гори, океани, пляжі.
+- Печери (звивисті тунелі та великі підземні порожнини), лава на нижніх рівнях, руди залежно від глибини: вугілля, залізо, золото, алмази.
+- Три типи дерев, висока трава, квіти, кактуси, цукрова тростина, гарбузи.
+- Освітлення в стилі Minecraft: світло неба та світло блоків (смолоскипи, світлокамінь, лава), що поширюються клітинка за клітинкою, із плавним освітленням і затіненням навколишнього середовища.
+- Цикл дня і ночі: сонце, місяць, зорі, заходи сонця, тривимірні хмари, туман на відстані, дощ.
+- Вода й лава течуть рівнями; два джерела утворюють нескінченну воду; вода + лава утворюють обсидіан або кругляк. Пісок і гравій падають.
+
+ГРАВЕЦЬ
+- Вид від першої особи, колізії, стрибки, біг, присідання (гравець не зісковзує з країв), плавання, драбини, шкода від падіння.
+- Руйнування блоків зі стадіями тріщин і частинками; час руйнування залежить від інструмента.
+- Видимі рука та предмет у руці з анімацією замаху. Вид від третьої особи за клавішею F5.
+
+ВИЖИВАННЯ
+- Здоров’я, голод, насичення, запас повітря під водою.
+- Інструменти з 5 матеріалів, кожен із міцністю; броня з 4 матеріалів.
+- Інвентар із крафтингом 2×2, верстак із сіткою 3×3, піч із паливом, скрині, ліжко (пропуск ночі та встановлення точки відродження).
+- Випадання предметів, смерть і відродження.
+- Моби: свині, корови, вівці, кури (розведення, стрижка); уночі — зомбі, скелети з луками, павуки. Зомбі та скелети горять на сонці.
+- Фермерство: мотика, насіння, ріст пшениці, хліб. Двері, паркани, хвіртки, TNT.
+
+ТВОРЧИЙ РЕЖИМ
+- Політ подвійним натисканням пробілу, миттєве руйнування блоків, каталог усіх блоків із вкладками та пошуком.
+
+ІНТЕРФЕЙС
+- Титульний екран із панорамою світу, список світів (створити / видалити / грати), параметри (поле зору, дальність промальовування, чутливість, звук, яскравість, масштаб інтерфейсу).
+- Меню паузи, екран смерті, HUD (панель швидкого доступу, сердечка, голод, броня, бульбашки повітря), екран налагодження F3.
+- Чат із командами: /gamemode, /time, /give, /tp, /summon, /weather.
+- Світи зберігаються в localStorage.
+
+ОБМЕЖЕННЯ
+- Не використовуйте назву, логотип, текстури чи персонажів Minecraft (Steve, Creeper тощо): дайте грі власну назву та розробіть власних мобів.
+
+ТЕСТУВАННЯ
+- Запустіть гру в безголовому браузері, перевірте кожну систему та виправте помилки перед передаванням результату.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103502454750920925) · [Оригінальний допис](https://x.com/kepochnik/status/2103524317443363241) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103486103831339269"></a>
+
+### Воксельний японський сад у Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Воксельний японський сад у Three.js"></a>
+
+**Промпт**
+
+```text
+Створіть деталізований японський сад у воксельному стилі в Three.js із пагодою, крихітними мешканцями, летючим драконом та інтерактивними елементами.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103486103831339269) · [Оригінальний допис](https://x.com/marcthecreatorr/status/2103486103831339269) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103483174957597035"></a>
+
+### Навігація 3D-пагодою
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="Навігація 3D-пагодою"></a>
+
+**Промпт**
+
+```text
+Реалізуйте код, який дасть змогу переміщатися пагодою в 3D.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Implement code to be able to navigate in a pagoda in 3D.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103483174957597035) · [Оригінальний допис](https://x.com/BuildFastWithAI/status/2103483174957597035) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103482826519986544"></a>
+
+### Створення морської свинки в Blender
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="Створення морської свинки в Blender"></a>
+
+**Промпт**
+
+```text
+Створи морську свинку в Blender
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103482826519986544) · [Оригінальний допис](https://x.com/kayokojoe/status/2103482826519986544) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103480081809346597"></a>
+
+### Вільне дослідження 3D-містечка з сакурами в аніме-стилі
+
+[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="Вільне дослідження 3D-містечка з сакурами в аніме-стилі"></a>
+
+**Промпт**
+
+```text
+Будь ласка, використайте Three.js, щоб створити «вільне для дослідження 3D-містечко з сакурами в аніме-стилі» в одному HTML-файлі, а потім опублікуйте його як вебсторінку, якою можна ділитися.
+
+[Технічні обмеження]
+- Використовуйте лише three.js r128 (UMD-збірку) з cdnjs. Не завантажуйте зовнішні моделі чи зображення — генеруйте всі моделі, текстури та вивіски магазинів процедурно за допомогою коду й Canvas.
+- Використовуйте оригінальні назви всіх магазинів, написи та персонажів. Не імітуйте жоден реальний бренд або наявну роботу.
+- Використовуйте MeshStandardMaterial або MeshPhongMaterial. Уникайте високої металічності та карт відбиття середовища (на деяких комп’ютерах через них об’єкти можуть відображатися без кольору).
+- Об’єднуйте статичні об’єкти за матеріалом у невелику кількість мешів, щоб сцена працювала на звичайних комп’ютерах; додайте перемикач якості High / Medium / Low.
+
+[Сцена: «桜ヶ丘 (Сакураґаока)», невелике японське містечко весняного дня]
+1. Торгова вулиця: головна вулиця, що простягається з півночі на південь, із понад 20 магазинами по обидва боки (раменною, кав’ярнею, велосипедною крамницею, книгарнею, квітковим магазином, крамницею японських солодощів, аптекою, міні-маркетом тощо). Кожен магазин має: багаторядкову вивіску (назва магазину + назва англійською + номер телефону), смугастий навіс із фестончастим краєм, заглиблений вхід із добре помітною глибиною інтер’єру та вуличну вітрину (ящики з фруктами, стійку з журналами, вітрину зі зразками їжі, перукарський стовп, що обертається). На верхніх поверхах є вікна, кондиціонери, балкони з розвішаною білизною та телевізійні антени на дахах.
+2. Деталі вулиці: електричні стовпи з безліччю повітряних дротів, декоративні вуличні ліхтарі з прапорцями торгової вулиці, гірлянди фестивальних ліхтариків, квадратна тротуарна плитка з жовтою тактильною смугою, решітки зливостоків, знаки «止まれ» («Стоп») і автобусна зупинка.
+3. Залізничний переїзд і потяги: двоколійна залізниця. Коли наближається потяг, червоні вогні переїзду блимають почергово, лунає дзвінок, а шлагбауми опускаються. Приміський потяг із двох вагонів зупиняється на станції приблизно на 14 секунд, а потім вирушає. Вікна прозорі, тож усередині видно сидіння та поручні.
+4. Станція з острівною платформою: табличка з назвою станції, навіс над платформою, лавки та торговельний автомат.
+5. Площа із сакурою: столітня вишня з круговою лавкою навколо стовбура.
+6. Святилище Інарі: великі кіноварні торії та ряд малих торіїв, кам’яні ліхтарі, статуї лисиць, зал для молитов (дах мідно-зеленого кольору, тіґі, кацуоґі, скринька для пожертв, підвішений дзвін), фонтан для ритуального обмивання (темідзуя), статуї дзідзо, таблички ема, священне дерево та гравійне покриття.
+7. Набережна річки: два ряди сакур, що утворюють квітковий тунель, ліхтарі, річка, будинки на протилежному березі та далекі гори.
+
+[Як створити сакури (ключова частина)]
+- Орієнтуйтеся на сорт Сомей-Йосіно: стовбур низько розділяється на 3–4 основні гілки, які рекурсивно розгалужуються ще на три рівні. Гілки розходяться в боки й трохи звисають на кінчиках, утворюючи загальну форму парасольки.
+- Створіть крону з десятків тисяч «карток скупчень цвіту»: намалюйте на Canvas п’ятипелюсткові квіти (з виїмками на кінчиках пелюсток, червонуватими серединками та тичинками), а позаду квітів додайте м’який рожевий базовий шар. Використовуйте alphaTest і двобічне відображення карток.
+- Додайте всередину крони кілька рожевих заповнювальних скупчень для надання об’єму. Зовнішні та верхні частини мають бути світлішими, а внутрішні й нижні — із теплими рожевими тінями.
+- Використовуйте ніжно-рожевий, а не неоново-рожевий колір. Крона має м’яко коливатися на вітрі, земля під кожним деревом — бути вкрита килимом опалих пелюсток, а пелюстки — постійно падати в повітрі (за допомогою шейдера).
+
+[Персонажі]
+- Понад 20 учнів і містян в аніме-стилі: анімація ходьби із суглобами колін та ліктів, намальовані на Canvas аніме-обличчя (великі очі, відблиски, рум’янець), які моргають, чубчики з окремих пасом, різноманітні зачіски (довге волосся, боб, хвіст, що погойдується, два хвостики), матроські форми, шкільні піджаки та повсякденний одяг. Відображайте персонажів із двотоновим cel-shading і темним контуром.
+- Люди ходять вулицею, спілкуються на площі, чекають на платформі, моляться у святилищі та їздять велосипедами вздовж набережної.
+
+[Транспорт]
+- Створюйте автомобілі екструдуванням силуету в профіль (із колісними арками, вікнами, фарами, японськими номерними знаками та колесами, що обертаються). Автомобілі зупиняються перед залізничним переїздом і, поки лунає дзвінок, чекають, доки шлагбауми піднімуться.
+
+[Освітлення та час доби]
+- М’який вигляд аніме-фону: блакитне небо з білими хмарами (шейдер), легкий серпанок удалині та тіні з синьо-фіолетовим відтінком.
+- Додайте перемикання між режимами Afternoon / Dusk / Night Sakura. Уночі засвічуються вікна, ліхтарі та вуличні лампи.
+
+[Керування]
+- Від першої особи: WASD — ходьба, Shift — біг, Space — стрибок, F — політ, миша — огляд навколо (блокування вказівника), цифрові клавіші — телепортація до кожної локації, H — приховати інтерфейс, M — вимкнути звук.
+- На мобільних пристроях: перетягуйте пальцем по лівій половині екрана для ходьби, а по правій — для огляду навколо.
+- Увімкніть зіткнення, щоб гравець міг піднятися на платформу та сходами.
+- Використовуйте Web Audio для генерації атмосферного звуку: шуму вітру, співу птахів, дзвінка на переїзді та звуків руху потяга.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
+
+[Technical constraints]
+- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
+- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
+- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
+- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
+
+[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
+1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
+2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
+3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
+4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
+5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
+6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
+7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
+
+[How to build the cherry trees (key part)]
+- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
+- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
+- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
+- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
+
+[Characters]
+- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
+- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
+
+[Vehicles]
+- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
+
+[Lighting and time of day]
+- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
+- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
+
+[Controls]
+- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
+- Mobile: drag on the left half to walk, drag on the right half to look around.
+- Collision is enabled, and the player can walk up onto the platform and steps.
+- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103480081809346597) · [Оригінальний допис](https://x.com/pound75423/status/2103480085319942353) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103456264785424530"></a>
+
+### 3D-моделювання одягу для VRChat
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="3D-моделювання одягу для VRChat"></a>
+
+**Референси:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
+
+**Промпт**
+
+```text
+Створи одяг для VRChat
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+VRChat用の衣装作って
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103456264785424530) · [Оригінальний допис](https://x.com/Noir4247/status/2103456264785424530) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103432732386664591"></a>
+
+### Желе з пітайї
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="Желе з пітайї"></a>
+
+**Промпт**
+
+```text
+Створіть інтерактивну 3D-сцену під назвою «Желе з пітайї» — половинку пітайї з м’якого напівпрозорого желе. Побудуйте весь проєкт в одному HTML-файлі, використовуючи справжній рендеринг WebGPU та шейдери WGSL. Не використовуйте готові моделі чи зображення.
+
+APPEARANCE
+
+Велика половинка пітайї лежить зрізом догори на світлій студійній поверхні.
+Насичено-малинова шкірка, тонкий світлий внутрішній шар і перламутрово-біла м’якоть.
+Приблизно 250 крихітних чорних насінин, природно розподілених по м’якоті.
+12–14 м’ясистих пелюсток шкірки навколо плода, з переходом від рожевих основ до зелених кінчиків.
+Глянцева волога поверхня зі заломленням світла, дрібними внутрішніми бульбашками та м’якою контактною тінню.
+Матеріал має нагадувати м’яку желейну цукерку, а не твердий пластик. Збережіть насичені кольори, не допускаючи пересвічених відблисків.
+
+ФІЗИКА ТА ВЗАЄМОДІЯ
+
+Реалізуйте справжню деформацію м’якого тіла за допомогою об’ємної сітки з пружними зв’язками та обмеженнями, що зберігають об’єм, наприклад XPBD.
+Користувачі можуть хапати м’якоть мишею або пальцем, розтягувати її та відпускати.
+Деформація має зосереджуватися навколо точки захоплення, а не просто зміщувати весь об’єкт.
+Після відпускання плід має хитатися, тремтіти й поступово повертатися до початкової форми.
+Зробіть пелюстки шкірки перетягуваними окремо. Вони мають бути м’якшими за м’якоть, згинатися та пружно повертатися назад, залишаючись прикріпленими до плода.
+Насінини мають рухатися разом із деформованою поверхнею, не відриваючись і не занурюючись у м’якоть.
+Забезпечте стабільність симуляції під час сильного розтягування, контакт із підлогою та захист від інвертованих елементів.
+
+ВІЗУАЛЬНИЙ ДИЗАЙН
+
+Використайте мінімалістичний світлий інтерфейс у стилі студії з редакційною естетикою: багато вільного простору, тонкі рамки, стримані елементи керування та жодного зайвого декору.
+
+Угорі ліворуч:
+«MATERIAL STUDIES / NO. 019»
+Великий курсивний заголовок із засічками у два рядки:
+«Желе з пітайї».
+
+Під ним:
+«Трохи дике».
+«Трохи солодке».
+«Дуже м’який дракон».
+Праворуч додайте плаваючу панель із заголовком «THE SPECIMEN», що містить:
+
+Плашка щільності: ρ 1.04 g/cm³.
+Три пресети:
+Pearl — біла м’якоть і рожева шкірка.
+Ruby — малинова м’якоть і рожева шкірка.
+Gold — світла м’якоть і золотиста шкірка.
+Повзунки Firmness та Internal damping із видимими значеннями.
+Кнопки «Give it a nudge» та «Reset».
+
+Прапорці «¼ speed» і «Show mesh».
+
+Кнопка «Pause».
+Також додайте:
+Кнопку повноекранного режиму з можливістю вийти з нього.
+Індикатор стану «WEBGPU · LIVE».
+Поточні показники маси, відсотка відновленого об’єму та кінетичної енергії.
+Коротку підказку щодо взаємодії: «Потягніть м’якоть. Смикніть пелюстку. Відпустіть».
+Згортаний розділ «Inside the experiment» із точним поясненням реалізації.
+ТЕХНІЧНІ ВИМОГИ
+Надайте один самодостатній файл із назвою pitaya-jelly-webgpu.html.
+
+Використовуйте справжній рендеринг WebGPU, а не імітацію на Canvas 2D.
+
+Створіть усю геометрію процедурно.
+Використовуйте заломлення з урахуванням товщини, відбиття Френеля та м’яке студійне освітлення.
+Використовуйте фіксований часовий крок симуляції для стабільної поведінки.
+Підтримайте взаємодію на комп’ютерах і сенсорних пристроях, а також адаптивне компонування.
+Не допускайте дорогої реконструкції геометрії чи компіляції шейдерів під час перетягування.
+
+Показуйте зрозуміле повідомлення-пояснення, якщо WebGPU недоступний.
+
+Перевірте перетягування, відпускання, відновлення форми, пресети, скидання, паузу, повноекранний режим і мобільне компонування.
+Головні пріоритети — переконлива поведінка желе, красиві матеріали та приємна взаємодія. Результат має сприйматися як відшліфований ігровий експеримент із матеріалом.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
+
+APPEARANCE
+
+A large dragon fruit half resting cut-side up on a light studio surface.
+Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
+Approximately 250 tiny black seeds distributed naturally across the flesh.
+12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
+A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
+The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
+
+PHYSICS AND INTERACTION
+
+Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
+Users can grab the flesh with a mouse or finger, stretch it, and release it.
+Deformation should concentrate around the grabbed point rather than simply translating the entire object.
+After release, the fruit should wobble, jiggle, and gradually recover its original shape.
+Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
+Seeds must follow the deforming surface without floating away or sinking into the flesh.
+Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
+
+VISUAL DESIGN
+
+Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
+
+Top left:
+“MATERIAL STUDIES / NO. 019”
+A large italic serif heading on two lines:
+“Pitaya Jelly.”
+
+Below it:
+“A little wild.”
+“A little sweet.”
+“A very soft dragon.”
+On the right, add a floating panel titled “THE SPECIMEN” containing:
+
+Density badge: ρ 1.04 g/cm³.
+Three presets:
+Pearl — white flesh and pink skin.
+Ruby — raspberry-colored flesh and pink skin.
+Gold — pale flesh and golden skin.
+Firmness and Internal damping sliders with visible values.
+“Give it a nudge” and “Reset” buttons.
+
+“¼ speed” and “Show mesh” checkboxes.
+
+A “Pause” button.
+Also include:
+A fullscreen button with an exit option.
+A “WEBGPU · LIVE” status indicator.
+Live readouts for mass, percentage of rest volume, and kinetic energy.
+A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
+A collapsible “Inside the experiment” section explaining the implementation accurately.
+TECHNICAL REQUIREMENTS
+Deliver one self-contained file named pitaya-jelly-webgpu.html.
+
+Use actual WebGPU rendering, not a Canvas 2D imitation.
+
+Build all geometry procedurally.
+Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
+Use a fixed simulation timestep for consistent behavior.
+Support desktop and touch interaction with a responsive layout.
+Avoid expensive geometry reconstruction or shader compilation during dragging.
+
+Show a clear fallback message when WebGPU is unavailable.
+
+Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
+The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2103432732386664591) · [Оригінальний допис](https://x.com/vib3coded/status/2103433535604265052) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103428454355980558"></a>
+
+### Моушн-графічна анімація «Життєвий цикл»
+
+[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="Моушн-графічна анімація «Життєвий цикл»"></a>
+
+**Промпт**
+
+```text
+Створи динамічне 20-секундне відео з моушн-дизайном і анімацією, яке демонструє, наскільки ти неймовірний моушн-дизайнер і аніматор — ніби це твій шоу-ріл для резюме. Поклади в основу тему життєвого циклу: покажи одну й ту саму людину від дитинства через підлітковий вік і робочий цикл «з 9 до 17», далі — сімейне життя, літній вік і смерть, а потім зроби монтажний перехід, готовий плавно зациклитися на початку. Викладися на повну, використовуй усе, що потрібно.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2103428454355980558) · [Оригінальний допис](https://x.com/loicRambo/status/2103428454355980558) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103351755971207251"></a>
 
 ### Римська сцена битви в золотій годині
@@ -2238,512 +2708,6 @@ create a new project in my projects folder called "endless-game": an endless, pr
 </details>
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102529695908806728) · [Оригінальний допис](https://x.com/argofowl/status/2102529695908806728) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102473710724919614"></a>
-
-### Двоповерховий заміський будинок з інтер’єром
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="Двоповерховий заміський будинок з інтер’єром"></a>
-
-**Промпт**
-
-```text
-Вітаю. Будь ласка, створіть у Blender якомога якіснішу 3D-модель двоповерхового заміського будинку з повністю змодельованим інтер’єром.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102473710724919614) · [Оригінальний допис](https://x.com/azer0lxm/status/2102473781830909995) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### Інтерактивна симуляція евакуації натовпу
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Інтерактивна симуляція евакуації натовпу"></a>
-
-**Промпт**
-
-```text
-створити інтерактивну симуляцію евакуації натовпу й визначити, де виникають затори
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102467667978572092) · [Оригінальний допис](https://x.com/dominikmartn/status/2102467667978572092) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: нескінченна танкова оборона
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D: нескінченна танкова оборона"></a>
-
-**Промпт**
-
-```text
-1. Мета проєкту
-Створіть Battle City 3D — браузерну гру про захист бази танками, натхненну класичною грою для Famicom 1985 року. Гравець керує танком, знищує хвилю з 20 ворогів, збирає припаси й захищає штаб із орлом. Відтворіть поточну перспективну 3D-версію, показану в референсних матеріалах, включно з нескінченною кампанією на основі seed і 35 класичними схемами на вибір. Збережіть зрозумілі аркадні правила, але надайте танкам, стінам і декораціям справжньої глибини.
-
-2. Візуальний стиль
-Використовуйте PerspectiveCamera у Three.js із кутом огляду 60 градусів. Стандартна камера поля бою розташована позаду й над гравцем, приблизно за 13 світових одиниць, на висоті 0,43 радіана. Плавно стежте за позицією танка й точкою перед ним; камера не повинна автоматично повертатися під час розвороту танка. Додайте вищу тактичну точку огляду, ручне орбітальне обертання перетягуванням і масштабування колесом миші. Для руху та стрільби використовуйте чотири основні осі мапи. Після орбітального обертання зіставляйте клавіші напрямку з найближчим основним напрямком відносно камери; ніколи не перетворюйте натискання клавіш на рух по діагоналі. Напрямок корпуса негайно узгоджуйте з напрямком пострілу, а висоту снаряда й дульного спалаху калібруйте відповідно до реальної гармати кожної моделі.
-Використовуйте приземлені гусеничні танки, металеві башти, теракотову цеглу, темні сталеві блоки, блакитну воду, невисоку рослинність і відбивний лід. Продовжуйте землю за межами ігрової зони — до дерев, зруйнованих будівель і серпанку. Використовуйте тепле спрямоване освітлення, м’які тіні, заповнювальне освітлення, тонмапінг ACES і стримані дульні спалахи, віддачу, іскри та уламки, що відскакують. У снігових сценах змінюйте палітру землі й дерев; на промислових етапах надавайте перевагу сталі та зруйнованим будівлям.
-Оформіть гру в темно-оливковому командному інтерфейсі з тепло-жовтою основною дією, рахунком, спільним запасом життів, піктограмами ворогів, що залишилися, назвою етапу та радаром. Розмістіть великий перемикач моделей Tripo 3D / Three.js над полем бою; він має показувати вибраний режим і обертальний попередній перегляд танка. Додайте локалізований ілюстрований довідник припасів та індикатори ефектів із таймером. На вузьких екранах залишайте видимими ігрове поле й основні сенсорні елементи керування.
-
-3. Світ і сцени
-Представте поле бою у вигляді сітки 26 на 26 тайлів, із напівшириною колізії танка 0,72. Розмістіть орла в точці (13,25), оточивши його U-подібною обороною з руйнівної цегли. Точки появи гравців: (9,25) і (17,25); ворота ворогів: (1,1), (13,1) і (25,1).
-Передбачте дві кампанії: усі 35 класичних схем із таблицями хвиль по 20 ворогів і нескінченний генератор на основі seed, що циклічно змінює біоми — трав'яний, сніговий і промисловий. Генеруйте з'єднані коридори, достатньо широкі для всього корпуса, із прохідними сполученнями між точками появи гравців, воротами ворогів і місцями появи припасів. Додайте зміщене центральне сталеве укриття, щоб перекрити пряму лінію вогню від точки появи до орла, але зберегти доступ між вулицями. Дозвольте вибирати початковий біом або класичний етап і повторно генерувати випадкову мапу. Переносьте seed проходження, рахунок, життя та покращення гравців, які вижили, на наступний етап.
-Цегла руйнується; сталеві блоки зупиняють звичайні снаряди й танки; вода блокує танки, але пропускає снаряди; рослинність приховує моделі ворогів; лід зменшує зчеплення. Віддалене оточення має бути декоративним і не впливати на ігрові колізії.
-
-4. Перелік ресурсів
-Використовуйте ці стабільні слоти 3D-моделей, які можна замінювати незалежно. Спочатку підготуйте моделі гравця, ворога, важкого танка й орла, а потім усі десять моделей припасів. Розміщуйте кожен ресурс на землі за його найнижчою точкою та нормалізуйте його орієнтацію, центр і масштаб. Повторно використовуйте шаблони, а не завантажуйте окрему модель для кожного ворога.
-- player: гусеничний танк гірчично-жовтого кольору з добре помітною баштою та гарматою, спрямованою вперед; використовується танками гравців, для другого гравця має окремий колір кільця.
-- enemy: компактний гусеничний танк ворога, який повторно використовується з різними відтінками для базового, швидкого та потужного варіантів.
-- heavy: помітно важчий броньований танк, окрема від стандартного ворога сітка, над якою видно чотири сегменти броні.
-- eagle: металева золота статуя орла на постаменті штабу.
-- pickup-star: золота п'ятикутна зірка-покращення.
-- pickup-helmet: захисна військова каска для тимчасового щита.
-- pickup-clock: добре помітний годинник, що заморожує рух ворогів.
-- pickup-shovel: лопата для укріплення штабу.
-- pickup-life: мініатюрний танк, що представляє одне додаткове життя.
-- pickup-grenade: ручна граната для знищення активних ворогів.
-- pickup-ammo: ящик із боєприпасами для скорострільності.
-- pickup-repair: ремонтний ящик для відновлення броні.
-- pickup-magnet: підковоподібний магніт для збору припасів на відстані.
-- pickup-boost: енергетична батарея для тимчасового прискорення.
-- environment-building: обвітрена зруйнована багатоповерхівка, Tripo P2.0, заданий бюджет — 1 800 трикутників.
-- environment-tree: нерегулярна сосна з видимим стовбуром, Tripo P2.0, заданий бюджет — 1 100 трикутників.
-- environment-bush: невисокий листяний кущ із пучками трави, Tripo P2.0, заданий бюджет — 650 трикутників.
-Показуйте припаси як обертові завислі колекційні моделі з кольоровими кільцями та відповідними мініатюрами в довіднику. Для повторюваних будівель, дерев і кущів використовуйте спільну геометрію та екземпляри матеріалів. Осаджуйте корені будівель і дерев на землю; основу куща трохи заглиблюйте, щоб вона зливалася з рельєфом. На снігових етапах додайте сніг на поверхні, повернуті вгору. Стіни тайлів, вода, лід, сітки снарядів, інтерфейс, джерела світла, частинки та проксі колізій мають бути процедурними. Анімуйте воду за допомогою хвиль, що рухаються у світовому просторі, змінюють нормалі та злегка зміщують поверхню; анімація має бути безперервною між сусідніми тайлами. Версія Tripo використовує 17 згенерованих моделей; у версії для порівняння і танки, і оточення замінюються геометрією, побудованою кодом, із тими самими правилами та колізіями. Обидві версії рендеряться за допомогою Three.js.
-
-5. Ігровий процес і зворотний зв'язок
-Підтримуйте одиночну гру та локальний кооператив для двох гравців зі спільним запасом із трьох життів. В одиночній грі використовуйте WASD або клавіші зі стрілками, а для стрільби — Space/J. У кооперативі перший гравець використовує WASD і Space/J; другий — клавіші зі стрілками та Enter/Numpad 0. P/Escape ставить гру на паузу; C змінює камеру; 1/2 вибирає режим моделей. На сенсорних екранах дозвольте одночасно утримувати напрямну панель і кнопку стрільби, скасовуйте введення після скасування вказівника та надайте дії паузи, продовження, переходу на наступний етап і повторної спроби без прокручування сторінки.
-Швидкість гравця — 4,2 одиниці на секунду або 6,3 з прискоренням. Вороги бувають базового, швидкого, потужного й важкого типів; важкі танки мають чотири очки міцності й переживають перші три удари без щита. За знищення типу нараховуйте 100, 200, 300 або 400 очок; за кожне зібране припасування — 500 очок. Етап завершується після знищення 20 ворогів. Поразка настає, якщо орла знищено або спільний запас життів вичерпано й не залишилося жодного живого гравця. Додайте негайну повторну спробу, явний перехід на наступний етап і найкращий рахунок, збережений локально.
-Реалізуйте всі десять припасів: зірка підвищує рівень до третього (швидші снаряди, два снаряди одночасно, потім снаряди, що пробивають сталь); каска створює щит на 12 секунд; годинник заморожує ворогів на 9 секунд; лопата укріплює базу на 16 секунд; мінітанк додає одне життя; граната знищує активних ворогів; боєприпаси дають 14 секунд скорострільності з можливістю мати до чотирьох активних снарядів; ремонт додає два очки міцності, але не більше трьох; магніт збирає видимі припаси в радіусі п'яти одиниць протягом 20 секунд; прискорення триває 12 секунд. Моделі припасів існують 25 секунд і з'являються в досяжних місцях; використовуйте перемішувану колоду, щоб урізноманітнити їхні типи. Магніт має враховувати тверді перешкоди.
-Використовуйте зібрані семпли в стилі NES для вступу до етапу тривалістю 4,333 секунди, стрільби, руху та простою, ударів по цеглі й сталі, вибухів ворогів і гравця, появи та збору припасів, додаткового життя, удару по броні, льоду, паузи й завершення гри. Поточний проєкт використовує 15 звукових сигналів OGG від JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Збережіть зазначення авторства та повідомлення про ліцензію репозиторію; описуйте їх як зібраний звук ремейку, не стверджуючи, що це побітова апаратна копія. Розблокуйте звук після жесту користувача, відкалібруйте гучність семплів, додайте регулювання гучності й вимкнення звуку та синхронізуйте звуки з подіями. Не додавайте сторонню безперервну музику бою.
-
-6. Технічна реалізація
-Використовуйте TypeScript, Three.js 0.180.0 і Vite 7, із відокремленими package.json та lockfile. Симуляція має бути незалежною від рендерингу й виконуватися з частотою 120 Гц. Використовуйте AABB корпуса, розділяйте рух за осями, обробляйте межі та розведення танків, а також безперервно перевіряйте проходження снарядів до найближчого контакту, включно з колізіями зустрічних снарядів із відносним рухом. Снаряди мають починати рух із корпуса й перевіряти траєкторію вперед, щоб запобігати проходженню крізь стіни впритул. Додайте прискорення та гальмування на льоду, а також гравітацію із загасаючими відскоками уламків. Це аркадна фізика поверхні, а не симулятор підвіски.
-Завантажуйте GLB-ресурси з того самого джерела через GLTFLoader. Проксі колізій мають бути незалежними від геометрії ресурсів. Поточний runtime використовує квантизовані атрибути й текстури WebP (1024 пікселі для техніки та бази; 512 пікселів для припасів і оточення), без спрощення геометрії та декодера WASM. Обмежте завантаження чотирма воркерами, використовуйте URL із версією на основі хешу та діапазони по 256 KiB із тайм-аутом 20 секунд і максимум трьома спробами для кожного діапазону. Дозволяйте починати гру після готовності чотирьох основних моделей і звуку; припаси та ресурси оточення завантажуйте у фоновому режимі й створюйте лише ті типи припасів, моделі яких уже готові. Перемикання режиму моделей має зберігати стан гри.
-Надайте інтерфейс англійською, спрощеною китайською, японською та корейською мовами. Вибирайте стандартну мову за мовою пристрою, але для zh-TW, zh-HK, zh-MO і zh-Hant використовуйте англійську; явно вибрані мови зберігайте. Підтримуйте клавіатуру, вказівник на комп'ютері та мультитач, а під час втрати фокуса ставте гру на паузу. Зберігайте всі ресурси, відомості про авторство й відтворювані скрипти локально у вихідному проєкті та постачайте статичний каталог dist без приватних облікових даних і залежності від runtime-бекенду.
-
-7. Критерії завершення
-Постачте редагований вихідний код, відомості про походження ресурсів і повідомлення про ліцензії, робочий процес npm для розробки та збірки, а також працездатний статичний попередній перегляд. Перевірте стандартну сцену Tripo, порівняння моделей, усі біоми, важкий танк, який витримує чотири удари, кожен ефект припасів, паузу й продовження, поразку та повторну спробу, а також перехід між етапами. Протестуйте 1 000 мап на основі seed щодо зв'язності для ширини корпуса та безпечних точок появи, а також усі класичні мапи, проходження крізь стіни, діагональні постріли, розведення танків, інерцію на льоду, введення відносно камери за кількох кутів повороту та перемикання режимів зі збереженням стану. Перевірте локалізований інтерфейс і керування двома пальцями на вузьких екранах, не заявляючи про тестування на фізичних пристроях, якщо використовувалася лише емуляція. Порівняйте фактичні стартові та бойові кадри з референсними зображеннями й відео; підтвердьте завантаження всіх 17 моделей і 15 звукових сигналів. Опублікуйте гру через наявний робочий процес CMS Web Page і перевірте фінальну публічну сторінку, а не вважайте збережений запис CMS завершеним розгортанням.
-
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/battle-city-3d) · [Демо](https://battle-city-3d.tripo.page/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102450239923720440"></a>
-
-### Інтерактивний 3D-острів доісторичної епохи
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Інтерактивний 3D-острів доісторичної епохи"></a>
-
-**Промпт**
-
-```text
-Створіть красивий, надзвичайно деталізований, повністю інтерактивний 3D-острів доісторичної епохи за допомогою Three.js і WebGL. Реалізуйте все в одному окремому HTML-файлі, який безпосередньо відкривається в Chrome. За можливості вбудуйте ресурси у файл.
-
-ВІЗУАЛЬНИЙ НАПРЯМ
-Створіть великий округлий острів, оточений океаном із прозорим підводним розрізом. Результат має нагадувати преміальний мініатюрний світ: буйна рослинність, виразні динозаври, багаті матеріали, атмосферне освітлення та відшліфована анімація. Використовуйте цілісний стилізований художній напрям, а не прості геометричні фігури.
-ISLAND
-Створіть різноманітний рельєф із пляжами, скелястими урвищами, густими доісторичними лісами, гігантськими папоротями, водоспадом, прісноводною водоймою та вулканом. Додайте невелику дослідницьку станцію, дерев’яні настили, оглядові майданчики, ящики з припасами та гнізда динозаврів. Острів має бути достатньо просторим, щоб динозаври могли природно переміщатися між окремими зонами.
-
-ПІДВОДНИЙ РОЗРІЗ
-Вода має утворювати глибокий округлий об’єм навколо острова, крізь бокові стінки якого добре проглядається підводний світ. Додайте текстуроване морське дно, каміння, водні рослини, риб, бульбашки та зелену морську рептилію, що плаває під поверхнею. Не розміщуйте звичайних наземних динозаврів під водою й не додавайте підводний човен.
-Використовуйте анімовані хвилі, відбиття Френеля, підводні світлові візерунки, піну біля берега та бризки. Уникайте артефактів сортування прозорості й видимих проміжків між островом і водою.
-
-DINOSAURS
-Додайте кілька виразних видів, зокрема довгошию завроподу, трицератопса, стегозавра, великого теропода та дрібніших стадних тварин. Над островом мають кружляти птерозаври.
-Надайте кожному виду впізнавану анатомію, сформоване тіло, рухомі кінцівки, деталізовані голови й хвости, а також характерні для нього візерунки шкіри. Не складайте готових динозаврів із очевидних коробок або роз’єднаних сфер.
-
-ПРИРОДНА АНІМАЦІЯ
-Використовуйте ієрархічні скелети з правильно розташованими суглобами. Хода має чітко розрізняти фази опори та перенесення ноги: під час контакту стопи залишаються на місці, а під час кожного кроку чисто відриваються від землі. Узгодьте довжину кроку зі швидкістю руху.
-
-Використовуйте семплювання рельєфу та зворотну кінематику, щоб стопи залишалися на землі. Додайте перенесення ваги, ледь помітні рухи тіла, врівноважений рух хвоста, повороти голови та дихання. Динозаври не повинні зависати в повітрі, ковзати, перетинатися із землею або проходити крізь будівлі, каміння, дерева чи одне одного.
-Реалізуйте обхід перешкод і безпечні маршрути. Різні види мають відрізнятися швидкістю руху, схемами ходи та поведінкою. Морські тварини мають бути повернуті в напрямку руху.
-
-INTERACTION
-Дозвольте користувачам:
-
-Вільно обертати камеру, наближати й віддаляти зображення та оглядати підводний розріз.
-Вибирати динозавра й стежити за ним за допомогою плавного руху камери.
-
-Розміщувати їжу у відповідних місцях і спостерігати, як найближчі динозаври підходять до неї та їдять.
-
-Запускати пиття, відпочинок, поклики та переміщення стада.
-
-Досліджувати гнізда й спостерігати, як із них вилуплюється дитинча.
-Запускати спливання морської рептилії з бризками.
-Перемикатися між денним світлом, заходом сонця та ніччю.
-Налаштовувати дощ, вітер і вулканічну активність.
-Ставити симуляцію на паузу та скидати сцену.
-Кожна команда має спричиняти чітку видиму реакцію. Зробіть взаємодії повторюваними й не допускайте, щоб анімації, які накладаються одна на одну, руйнували пози персонажів.
-АТМОСФЕРА Й АУДІО
-Додайте рухомі рослини, хмари, що пливуть, птахів, комах, частинки дощу та тепле нічне освітлення дослідницької станції. Додайте тиху атмосферну музику й звуки довкілля, а також робочий перемикач музики та повзунок гучності. Відтворюйте аудіо лише після взаємодії з користувачем.
-INTERFACE
-Використовуйте компактний, елегантний інтерфейс з англомовними написами. Сцена має залишатися головним елементом; не закривайте острів великими панелями. Зробіть компонування адаптивним для комп’ютерів і мобільних пристроїв.
-ТЕХНІЧНА ЯКІСТЬ
-Використовуйте інстансинг для повторюваної рослинності та об’єктів, ефективну геометрію, доречні тіні й стриману постобробку. Збалансуйте візуальне багатство зі стабільною продуктивністю в реальному часі.
-Створіть повноцінну сцену, а не макет. Безпосередньо протестуйте готовий HTML у браузері на комп’ютері, перевірте знімки екрана й консоль, випробуйте всі взаємодії та до передачі виправте помилки завантаження, динозаврів, що зависають у повітрі, ковзання стоп, зламані зіткнення, артефакти води й проблеми з камерою.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102450239923720440) · [Оригінальний допис](https://x.com/vib3coded/status/2102450842070569099) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102411087002112256"></a>
-
-### TD-гра на кшталт Sir, We Have Orc Problems
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="TD-гра на кшталт Sir, We Have Orc Problems"></a>
-
-**Промпт**
-
-```text
-Створи TD-гру на кшталт Sir, we have orc problems
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Sir, we have orc problemsみたいなTDゲーム作って
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102411087002112256) · [Оригінальний допис](https://x.com/nikzu_/status/2102411087002112256) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102276620124062065"></a>
-
-### 3D-сцена й відео з Токійською вежею вдень і вночі
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · Сцени
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="3D-сцена й відео з Токійською вежею вдень і вночі"></a>
-
-**Промпт**
-
-```text
-Створіть видовищну 3D-роботу з Токійською вежею в головній ролі та відео тривалістю близько 30 секунд для публікації на X. 
-
-Ви — режисер виробництва. Створюйте потрібні підзавдання й доручайте дослідження та виготовлення. Візьміть на себе конкретизацію завдання, керування процесом, перевірку результатів, постановку правок і фінальне зведення всіх матеріалів.
-
-【Що потрібно створити】
-Токійську вежу, у якій відчуваються її висота в ракурсі знизу вгору та тонкість сталевої конструкції під час наближення.
-Підготуйте денну й нічну версії: удень покажіть конструкцію та фарбування, а вночі — красу підсвічування.
-
-Потрібно, щоб робота створювала враження: «Токійську вежу уважно вивчили й відтворили». Дослідіть і відобразіть не лише форму вежі, а й характерні деталі: розбіжність опор, спосіб складання сталевої конструкції, оглядові майданчики, будівлі біля основи тощо. Навколишнє місто можна обмежити масштабом, достатнім для передавання розміру вежі та атмосфери місця.
-
-【Процес роботи】
-・Дослідіть офіційні матеріали та фотографії, визначте, які особливості відтворювати, і розставте пріоритети.
-・На основі дослідження дайте кожному підзавданню конкретні вказівки щодо створення.
-・На ранньому етапі перевірте тестовий перегляд реальної 3D-сцени, а потім скоригуйте форму, композицію та освітлення.
-・Особисто перегляньте готові зображення й відео, знайдіть невідповідності або недопрацювання та доручіть внести правки.
-・Самостійно ухвалюйте рішення щодо дрібних технічних деталей і побудови зйомки та доведіть роботу до завершення.
-
-Не замінюйте сцену фоном із фотографією чи згенерованим зображенням: використовуйте реальну 3D-геометрію та рух камери. Зафіксуйте підтверджені факти й окремо зазначте елементи, визначені приблизно через брак матеріалів.
-
-【Відео】
-Близько 30 секунд. Поєднайте ракурс знизу вгору, крупні плани сталевої конструкції та оглядових майданчиків, а також віддалений план, на якому видно всю вежу; покажіть і зміну дня та ночі.
-Точний розподіл за секундами визначте після перегляду готової моделі, обравши композицію, яка найкраще передає її привабливість.
-
-【Матеріали для здачі】
-・Редаговані дані Blender
-・MP4-відео для публікації на X
-・Контрольні зображення загального вигляду та деталей удень і вночі
-・Короткий варіант тексту для публікації
-・README із зазначенням джерел матеріалів, меж відтворення та результатів перевірки
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
-
-あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
-
-【作ってほしいもの】
-地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
-昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
-
-「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
-
-【制作の進め方】
-・公式資料や写真を調査し、再現する特徴と優先順位を決める。
-・その調査を基に、各サブタスクへ具体的な制作指示を出す。
-・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
-・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
-・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
-
-写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
-
-【動画】
-約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
-細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
-
-【納品】
-・編集可能なBlenderデータ
-・X投稿用MP4動画
-・昼夜の全景と細部の確認画像
-・短い投稿文案
-・素材の出典、再現範囲、検証結果を記したREADME
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102276620124062065) · [Оригінальний допис](https://x.com/wafffle_dev/status/2102276620124062065) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="bubble-bay"></a>
-
-### Bubble Bay: 3D-битва на водяних кульках
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="Bubble Bay: 3D-битва на водяних кульках"></a>
-
-**Референси:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
-
-**Промпт**
-
-```text
-Створіть Bubble Bay — ігрову арену на водяних кульках у Three.js, зі знайомим стилем класичних bubble-ігор: персонажі в костюмах із великими головами, короткими тілами та відкритими обличчями. За замовчуванням використовуйте деталізовані моделі Tripo і додайте очевидний перемикач порівняння геометрії Three.js, який не перериває матч. Використайте трьох нових персонажів: Langya, Shantao і Tuanli. Дотримуйтеся наданих концептів і референсів моделей нових персонажів, зберігаючи їхні силуети, обличчя, кольори й костюми.
-
-Langya — жвавий хлопчик із бірюзовим каптуром і єдиним цілісним боковим гребенем-хвилею, помаранчевим комірцем і манжетами, темно-синіми шортами та бірюзовими черевиками з помаранчевою підошвою. Shantao — маленька дівчинка з темно-сливовим бобом, персиково-рожевим чепчиком із трьома короткими пелюстковими прикрасами з кожного боку, м'ятною курткою, сливовим коротким комбінезоном і світло-жовтими чобітками. Tuanli — пухкенький хлопчик із широким грушоподібним тілом, карамельною круглою м'якою шапкою з кремовою облямівкою навколо обличчя, бірюзовою короткою курткою, кремовою нижньою частиною живота й темно-синіми черевиками. У всіх теплі дитячі обличчя тілесного кольору, прості темні овальні очі та маленькі усмішки. Це діти в щойно розроблених костюмах; не перетворюйте їх на буквальних водних істот і не повторюйте впізнавані костюми попередніх персонажів. Створюйте кожного персонажа окремо через Tripo CLI з явним tripo-p2 і незалежними зображеннями спереду та ззаду, а потім прив'яжіть коректні двоногі скелети й скін. Анімації спокою, бігу та стрибка мають керувати реальними суглобами; перевірте рух, виправте ваги для головних уборів, взуття й тіла та точно вкажіть походження ресурсів. Якщо анімації створено локально, позначте їх як такі.
-
-Локалізовані назви: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Початкові рівні місткості/дальності/швидкості: 1/1/6, 1/2/5, 2/1/4; максимальні значення: 6/7/9, 6/7/8, 9/8/8. Перетворюйте швидкість на 0.25 + level*0.8 світових одиниць за секунду; одна плитка дорівнює 2 одиницям. Вибір персонажа призначає двох інших окремими суперниками з відповідними профілями. Незалежно від пухкенького візуального силуету зберігайте однаковий радіус ігрового влучання.
-
-За замовчуванням додайте Pirate/Patrit14 розміром 15x13 і Village10. Збережіть упізнавані золотий борт, жовтий вантаж, дерев'яні ящики, чотири гармати й центральну щоглу; село має чотири кольорові житлові райони, центральну дорогу, живоплоти та іграшкові блоки. Використовуйте карти видавця як референс, самостійно створюйте графіку для виконання та задокументуйте невеликі проходи, необхідні для безперервного 3D-руху й втечі ШІ. Додайте яскраві матеріали, тіні, океанське оточення, чіткий супровід камерою та оглядову камеру.
-
-Один гравець протистоїть двом скоординованим суперникам під керуванням ШІ. WASD/стрілки відповідають за рух, F розміщує бульбашку на 2.5 секунди, Space стрибає на справжні платформи, Shift виконує ривок, Q/E обертають камеру, V змінює режим огляду, а Escape ставить гру на паузу. Хрестоподібна хвиля води обходить перешкоди, руйнує перший м'який блок і запускає ланцюгову реакцію бульбашок. Реалізуйте потрапляння в пастку, втечу, захоплення ворогів, відродження, вибір цілі на 3, 6, 9 або 12 захоплень (за замовчуванням — 6) або підрахунок очок протягом 180 секунд, екран результатів і повторну спробу. Віртуальний джойстик і кнопки дій мають працювати одночасно.
-
-Використайте шість згенерованих Tripo підсилювачів: повітряну кульку, зілля дальності, роликовий ковзан, рукавичку для кидання, черевик для удару та голку порятунку. Ящики випадають із предметом у 85% випадків. Умовні ваги предметів: 30/30/30/2.5/3.5/4 відсотка. Рукавички додають три кидки, максимум — шість. G кидає сусідню бульбашку на відстань до чотирьох плиток поверх укриттів, зберігаючи її власника й початковий таймер запобіжника, резервуючи місце приземлення та показуючи траєкторію. Якщо бульбашка завершує політ до завершення таймера, вона приземляється й вибухає. K ковзає бульбашками, доки їх не зупинить перешкода, не скидаючи таймер. X використовує голку порятунку: початковий запас — одна, максимум — три. Чітко показуйте інвентар і доступні керування.
-
-Інтерфейс китайською, англійською та корейською мовами: для часових поясів IANA материкового Китаю вибирайте китайську, для Кореї та Північної Кореї — корейську, для всіх інших, зокрема Гонконгу, Макао й Тайваню, — англійську. Ручний вибір завжди має пріоритет. Дозволяйте завантажувати лише GLB із вбудованими текстурами, стандартним нестисненим форматом і справжнім скінінгом, обсягом до 40 MB і з не більш як 150k трикутників. Перевіряйте кістки, суглоби та ваги, відхиляйте статичні моделі, використовуйте вбудовані анімації, якщо вони є, і забезпечуйте базовий рух суглобів для розпізнаних гуманоїдів без кліпів. Для нерозпізнаних скелетів потрібні анімації. Простими словами поясніть різницю між ригінгом та анімацією, додайте коригування орієнтації на 90 градусів, виконуйте обробку локально в браузері та призначайте стабільні збалансовані характеристики за хешем файлу.
-
-Для CTA створення використовуйте рівно https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character. Укажіть авторство jared із посиланням на https://x.com/jaredliu_bravo.
-
-Інтегруйте 13 звукових ефектів ElevenLabs із нормалізацією, коротким загасанням, урахуванням відстані та панорамування, обмеженнями поліфонії, регулюванням гучності й вимкненням звуку: розміщення, вибух, ящик, підсилювач, рідкісний предмет, кидок, приземлення, пастка, порятунок, стрибок, перемога, поразка, удар. Створіть два оригінальні інструментальні треки за допомогою ElevenLabs music_v2_5, по 90 секунд кожен, що відповідають морській піратській карті та сонячному району. Нормалізуйте їх до стриманої цілі -20 LUFS і зробіть перехресне затухання на межах циклу. Додайте для музики окреме регулювання гучності, змінюйте треки залежно від карти, робіть затухання під час паузи й дотримуйтеся загального вимкнення звуку. Не відтворюйте оригінальний саундтрек гри.
-
-Зберігайте незалежні вихідні файли, залежності, тести та походження ресурсів поза застосунками CMS-платформи. Додавайте статичні ресурси з тим самим джерелом і повідомленнями про ліцензію MIT. Перевіряйте фактичний ігровий процес на комп'ютерах і сенсорних пристроях, варіанти завантаження, мови та візуальне перемикання в Ego Lite. Створіть незмінну версію для перевірки, прикріплену до наявної CMS Web Page 12; зберігайте чинний опублікований реліз, доки перевірка не завершена. Публікуйте лише після правдивого зазначення вихідних матеріалів і перевірки прав на ресурси, а потім перевірте публічну URL-адресу, хеші моделей і поведінку. Зберігайте історію та розрізняйте збережені записи CMS, попередні перегляди й публічні релізи.
-
-Завантажуйте ресурси моделей із видимим індикатором прогресу, одночасно не більше трьох завантажень, із 30-секундним тайм-аутом бездіяльності та двома спробами. Під час повторної спроби зберігайте успішно завантажені ресурси. Повністю приховуйте перемикач вкладок Tripo / Three.js, доки всі моделі не будуть готові, а потім показуйте його. Не позначайте процедурні заповнювачі завантаження як завантажені моделі Tripo.
-
-
-Використовуйте перспективну камеру ближнього супроводу, яка починає рух за межами зони появи й спрямована до центру арени. Збережіть обертання Q/E, нахил перетягуванням мишею та огляд V. Компактне табло розмістіть угорі, перемикач режимів — у верхньому лівому куті, а короткі сповіщення — унизу. На комп'ютерах із мишею приховуйте джойстик і великі сенсорні кнопки дій, залишаючи невеликі елементи керування рідкісними предметами; на вузьких екранах підтримуйте компактні одночасні сенсорні дії. Додайте анімований шейдер хвиль із бірюзовою варіацією глибини, органічні піщані острівці з вигнутими пальмами й камінням, ненав'язливі текстури деревини та трави. Оточуйте кожного персонажа в пастці напівпрозорою бульбашкою відповідного розміру з райдужною облямівкою Fresnel, легким плаванням, маленькими бульбашками та ряб'ю на землі. Перевіряйте відповідність вершин скіна позі, скидайте підйом під час порятунку та контролюйте вивільнення ресурсів після багаторазового перемикання. Уникайте дорогих загальносценових проходів transmission для водної оболонки; обмежте коефіцієнт пікселів на вузьких екранах значенням 1.5.
-
-
-Додайте видимі елементи керування камерами Follow / Overview і перемикання V. У режимі Overview підтримуйте масштабування від 100 до 300 відсотків за допомогою кнопок +/−, коліщатка миші та жесту зведення двома пальцями, обмежене перетягування карти й скидання Fit map. Під час перемикання камери або версій рендерингу зберігайте масштаб і поточний матч. Залиште компактні елементи керування рідкісними предметами без перекриття китайською, англійською та корейською мовами.
-
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/bubble-bay) · [Оригінальний допис](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Демо](https://bubble-bay.tripo.page/) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102215638311694336"></a>
-
-### Інтерактивна 3D-презентація дизайну гелікоптера
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="Інтерактивна 3D-презентація дизайну гелікоптера"></a>
-
-**Промпт**
-
-```text
-Створіть деталізовану інтерактивну 3D-сцену сучасного гелікоптера в одному HTML-файлі за допомогою Three.js і WebGL. Побудуйте справжню 3D-геометрію, яку можна розглядати з усіх боків, а не зображення.
-
-Візуальний стиль:
-Преміальна презентація авіаційного дизайну зі світло-сірим студійним тлом, круглою демонстраційною платформою, м’якими тінями та реалістичними відбиттями.
-Гелікоптер:
-
-Плавний обтічний фюзеляж, натхненний легкими двомоторними гелікоптерами на кшталт H145.
-Білий корпус із темно-синьою нижньою частиною та синьою акцентною смугою.
-Вигнуті тоновані вікна кабіни пілотів із відбиттями та ретельно підігнаними ущільнювачами.
-Бічні двері, ручки, стики панелей, заклепки, сходинки для посадки та антени.
-Два кожухи двигунів із повітрозабірниками, вентиляційними решітками та вихлопними отворами.
-П’ятилопатевий несний гвинт із деталізованою втулкою, кріпильними елементами та тягами керування кроком.
-Звужувана хвостова балка, стабілізатори та кермовий гвинт у кожусі зі справжнім отвором усередині кожуха.
-Вигнуті лижі шасі, прикріплені до фюзеляжу за допомогою силових опор.
-Навігаційні вогні та миготливий проблисковий маяк.
-Усі компоненти мають бути фізично з’єднані. Не допускайте деталей, що зависають у повітрі, проміжків між секціями, перетину лопатей із фюзеляжем або вікон, що не прилягають до корпусу.
-
-Взаємодія:
-
-Перетягування мишею для обертання огляду, прокручування для масштабування та сенсорне керування.
-Запускайте й зупиняйте обидва ротори з поступовим прискоренням і сповільненням.
-Регульована швидкість обертання ротора.
-Режим зависання: плавний відрив від платформи, легке погойдування в повітрі та м’яка посадка після вимкнення режиму.
-Автоматичне обертання камери навколо об’єкта.
-Попередні ракурси камери спереду, збоку та з боку хвоста.
-Кнопки скидання камери та повноекранного режиму.
-Три схеми фарбування: льодовиково-синя з білим, рятувальна помаранчева та графітова.
-Інтерфейс:
-
-Угорі ліворуч: невелика мітка “AERONAUT / OBJECT STUDIES” і великий заголовок “Horizon 05.”.
-Праворуч: компактна панель із технічними характеристиками, станом гелікоптера, вибором схеми фарбування та швидкістю обертання ротора.
-Унизу: елементи керування та підказки щодо взаємодії.
-Стримана типографіка, тонкі рамки та багато вільного простору. Не перекривайте гелікоптер елементами інтерфейсу.
-Увесь текст інтерфейсу має бути англійською.
-Технічні вимоги:
-
-Генеруйте геометрію процедурно, не завантажуючи готову 3D-модель гелікоптера.
-Використовуйте PBR-матеріали, студійне середовище для відбиттів і м’які тіні.
-Зробіть анімацію незалежною від частоти кадрів.
-За можливості повторно використовуйте геометрію та матеріали й обмежте коефіцієнт пікселів для підвищення продуктивності.
-Підтримуйте компонування для настільних і мобільних пристроїв, щоб у початковому ракурсі було видно весь розмах лопатей ротора.
-Якщо можливо, вбудуйте залежності в HTML, щоб файл працював офлайн.
-Якщо WebGL недоступний, відображайте зрозуміле повідомлення з поясненням.
-Перед завершенням огляньте модель з усіх боків, перевірте кожен елемент керування та переконайтеся, що в консолі немає помилок. Особливу увагу приділіть силуету, конструктивним з’єднанням, склінню та механізмам ротора.
-
-Надайте робочий HTML-файл, а не лише пояснення.
-```
-
-<details>
-<summary>Оригінальний промпт автора</summary>
-
-```text
-Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
-
-Visual style:
-A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
-Helicopter:
-
-A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
-A white body with a dark navy underside and blue accent stripe.
-Curved, tinted cockpit windows with reflections and carefully fitted window seals.
-Side doors, handles, panel seams, rivets, boarding steps, and antennas.
-Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
-A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
-A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
-Curved landing skids attached to the fuselage with structural supports.
-Navigation lights and a blinking beacon.
-All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
-
-Interactions:
-
-Mouse drag to orbit, scroll to zoom, and touch controls.
-Start and stop both rotors with gradual acceleration and deceleration.
-Adjustable rotor speed.
-Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
-Automatic camera orbit.
-Front, side, and tail camera presets.
-Reset camera and fullscreen controls.
-Three liveries: glacier blue and white, rescue orange, and graphite.
-Interface:
-
-Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
-Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
-Bottom: controls and interaction hints.
-Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
-All interface text in English.
-Technical requirements:
-
-Generate the geometry procedurally without downloading a prebuilt helicopter model.
-Use PBR materials, a studio reflection environment, and soft shadows.
-Make animation independent of frame rate.
-Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
-Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
-If possible, embed dependencies in the HTML so the file works offline.
-Display a helpful fallback message if WebGL is unavailable.
-Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
-
-Deliver the working HTML file, not just an explanation.
-```
-
-</details>
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/gpt-6-astra-2102215638311694336) · [Оригінальний допис](https://x.com/vib3coded/status/2102217028052377910) · [Назад до прикладів](#all-prompts)
 
 ---
 

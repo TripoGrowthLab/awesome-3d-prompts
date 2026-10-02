@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (38)</summary>
+<summary>作例を見る (46)</summary>
 
+- [Jeep 風 4×4 の Blender 組み立てプロンプト](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
+- [自己完結型 HTML シーンの 3D 破壊物理プロンプト](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
+- [Claude Opus 5 のメカロボット設計図プロンプト集](#mech-robot-blueprint-set-2082760534500188606)
+- [Need for Speed 風 Godot ゲームのプロンプト](#need-for-speed-style-godot-game-2082714235373584582)
+- [水槽のひび割れを再現する Kimi K3 の 3D シミュレーションプロンプト](#cracking-aquarium-3d-simulation-2082528683747873194)
+- [Kimi K3 で遊べる戦闘ゲームを作るプロンプト](#playable-combat-game-2082507403598373134)
+- [HTML 一つで LoL 風 1 対 1 を作る Kimi K3 プロンプト](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
+- [Claude Opus 5 の単一ファイル 3D 太陽ビジュアライザープロンプト](#single-file-3d-sun-visualizer-2082461416049525077)
 - [HTML 一つで作る、PC のある 3D 部屋の Three.js プロンプト](#explorable-3d-room-with-computer-workstation-2082451081733591520)
 - [UE5 に非ユークリッドな扉を作る Claude Opus 5 プロンプト](#non-euclidean-door-portal-in-unreal-engine-5-2082436347113951333)
 - [Three.js ゲームを作るシンプルな FPS プロンプト](#simple-first-person-shooter-in-three-js-2082242351372599770)
@@ -68,6 +76,204 @@
 - [Three.js の飛行機内を歩く体験プロンプト](#three-js-airplane-walkthrough-experience-2078806166122197132)
 
 </details>
+<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
+
+### Jeep 風 4×4 の Blender 組み立てプロンプト
+
+[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Jeep 風 4×4 の Blender 組み立てプロンプト"></a>
+
+**プロンプト**
+
+```text
+Jeep 風の 4×4 を設計し、手動モデリングはせずに Blender で部品ごとに組み立ててください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [元の投稿](https://x.com/slash1sol/status/2082845759452463405) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
+
+### 自己完結型 HTML シーンの 3D 破壊物理プロンプト
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="自己完結型 HTML シーンの 3D 破壊物理プロンプト"></a>
+
+**プロンプト**
+
+```text
+並んだ車を押し潰すモンスタートラック。
+峡谷を跳び越え、空中で正面衝突する 2 台の車。
+車を 1 台ずつ平たく潰す巨大な金床。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [元の投稿](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="mech-robot-blueprint-set-2082760534500188606"></a>
+
+### Claude Opus 5 のメカロボット設計図プロンプト集
+
+[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Claude Opus 5 のメカロボット設計図プロンプト集"></a>
+
+**プロンプト**
+
+```text
+Claude OPUS 5 と Blender で、実際の数学と物理を使ったガンダムサイズのメカロボット設計図を作るために使ったプロンプトを共有します：
+
+「メカの設計を考えよう。基本はターボシャフトエンジン 2 基で、電動モーターと油圧で動く。APU もあり、空圧系もあるかもしれない。何かあっても少し動き続けられる強力なバッテリーもある。エンジン 2 基は両肩に置き、整備パネルを外側へ向けてメンテナンスできるようにしたい。もう一度メカの各系統を見直して、それらを実体のある構造として作ろう。すごいものになる。手伝うエージェントを付け、中央にコックピットと睡眠ポッドの大きな空間を残して胴体を作り直して」
+
+「足に電動モーター駆動の車輪を付けたらどうだろう？ 移動の多くを補助できそう」
+
+「エージェントにその数値を渡し、アクチュエーターに実際の配線が入る脚を設計させて」
+
+「新しい GLB をシーンに入れて」
+
+「うわ、ものすごい。ほかの部品もすぐ表示して」
+
+「ローポリの頭に実際の FLIR と暗視カメラ、それに 1980〜1990 年代の CROWS M2 機関銃を付けて」
+
+「美しい…… T_T」
+
+「脚の骨格にリグを付けて、アニメーション時に制約を守るようにしないと。力などを計算するためにも必要」
+
+「大丈夫、どうせ私には大半が分からないし（笑）」
+
+「作ったエンジン、駆動系、脚は、ほかの場所で再利用できるよう保存しておいて。そのうえでエージェントに腕と手を作るよう指示して」
+
+「脚に合うように股関節の機構も正しく設計して」
+
+「私の考えでは、骨盤と胸部を結ぶ関節に回転トルクがある」
+
+「エージェントに Bofors 方式の手持ちセミオートライフルを作らせ、ロボットが素早く連射できるようにして」
+
+「40mm がいい。正確だがローポリで一つ作り、ピストルとセミオートライフルのどちらに向くか寸法を見たい」
+
+「両方作って。それから Abrams の砲をセミオート機構にしたものも作って」
+「ライフルのようなボルトとスプリングを作って」
+
+「コックピットの飾りの配線をなくし、実際の配線にしたいと思っている。どう思う？」
+
+「解決策：実際に配線する。ただし荒々しく配線して」
+
+「120mm 砲を入れて」
+
+「120mm 砲の動作にリグとアニメーションを付けて」
+
+「ここに大きな装甲ハッチがほしい。座席を上げて、パイロットが周囲を見ながらその位置で操縦できるようにしたい。コックピット内の 4 つの伸縮式ビューポートにも、上側に対応する出口が必要」
+「120mm 砲とハッチのリグとアニメーションを続けて。一時停止は誤クリックだった」
+
+「動力装置は腹部がよさそう。ただ、今のエンジン位置は好きではない。もう少し上に置き、胴体と肩を支える実際のトラス構造を付けたい。任せるけれど、胸部をどう作りたい？ 上部ハッチから乗り込むので、胸の前側は作り込める……」
+
+「外殻は薄いアルミでもカーボンファイバーでもいいけれど、格好よくして。NCT を装甲に使えるのかな？ 分からないから任せる。あとで部品を追加して、この怪物の見た目を少し整える必要がある。とにかくチームを集めて作り始めて」
+
+「PT125 というインバーターが浮いているのを見つけたけれど、どこに置くのか分からない」
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [元の投稿](https://x.com/Spectromachina/status/2082760534500188606) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
+
+### Need for Speed 風 Godot ゲームのプロンプト
+
+[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Need for Speed 風 Godot ゲームのプロンプト"></a>
+
+**プロンプト**
+
+```text
+NFS みたいなゲームを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [元の投稿](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
+
+### 水槽のひび割れを再現する Kimi K3 の 3D シミュレーションプロンプト
+
+[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="水槽のひび割れを再現する Kimi K3 の 3D シミュレーションプロンプト"></a>
+
+**プロンプト**
+
+```text
+側面に目に見えるひびが入り、その後破裂するガラス水槽を作成してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [元の投稿](https://x.com/UnslothAI/status/2082528683747873194) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="playable-combat-game-2082507403598373134"></a>
+
+### Kimi K3 で遊べる戦闘ゲームを作るプロンプト
+
+[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Kimi K3 で遊べる戦闘ゲームを作るプロンプト"></a>
+
+**プロンプト**
+
+```text
+遊べる戦闘ゲームを作ってください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/playable-combat-game-2082507403598373134) · [元の投稿](https://x.com/darshal_/status/2082507403598373134) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
+
+### HTML 一つで LoL 風 1 対 1 を作る Kimi K3 プロンプト
+
+[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="HTML 一つで LoL 風 1 対 1 を作る Kimi K3 プロンプト"></a>
+
+**プロンプト**
+
+```text
+Verdent で Kimi K3 と GPT-5.6 に同じプロンプトを与えました：一つの HTML ファイルで、遊べる League of Legends 風 1 対 1 ゲームを作ってください。
+
+どちらもゲームを完成させました。横に並べて開き、それぞれ遊んでみました。
+
+実行間で変えたのは一つだけ。https://t.co/ItoGlnpiXi のドロップダウンで選ぶモデルです。https://t.co/3PYQVli1zm
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [元の投稿](https://x.com/0x_fokki/status/2082474707727581564) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
+
+### Claude Opus 5 の単一ファイル 3D 太陽ビジュアライザープロンプト
+
+[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Claude Opus 5 の単一ファイル 3D 太陽ビジュアライザープロンプト"></a>
+
+**プロンプト**
+
+```text
+宇宙で自転する太陽の 3D ビジュアライザーを作ってください。HTML ファイル一つで。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [元の投稿](https://x.com/AlysisAI/status/2082461416049525077) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="explorable-3d-room-with-computer-workstation-2082451081733591520"></a>
 
 ### HTML 一つで作る、PC のある 3D 部屋の Three.js プロンプト

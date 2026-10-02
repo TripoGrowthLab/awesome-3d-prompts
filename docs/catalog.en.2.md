@@ -28,6 +28,14 @@
 <details>
 <summary>Browse examples (50)</summary>
 
+- [WebGL2 sandbox survival game](#claude-opus-5-5-2103502454750920925)
+- [Voxel-style Japanese garden in Three.js](#gpt-6-astra-2103486103831339269)
+- [Navigate a 3D pagoda](#claude-opus-5-5-2103483174957597035)
+- [Create a Guinea Pig in Blender](#gpt-6-astra-2103482826519986544)
+- [Freely walkable 3D anime-style cherry blossom town](#claude-opus-5-5-2103480081809346597)
+- [3D Modeling for VRChat Outfits](#gpt-6-astra-2103456264785424530)
+- [Pitaya Jelly](#gpt-6-astra-2103432732386664591)
+- [Cycle of life motion-graphics animation](#claude-opus-5-5-2103428454355980558)
 - [Golden-hour Roman battlefield set piece](#gpt-6-astra-2103351755971207251)
 - [STILLWATER — Moonlit Swamp Browser Experience](#gpt-6-astra-2103308083242082314)
 - [Interactive 3D ocean rocket launch sequence](#claude-opus-5-5-2103303303358534021)
@@ -70,16 +78,277 @@
 - [Interactive Peter Rabbit-style farm animal game](#claude-opus-5-5-2102538762731565085)
 - [Cinematic interactive pirate ship at sunset](#claude-opus-5-5-2102533729746882985)
 - [Endless procedurally generated Three.js world](#claude-opus-5-5-2102529695908806728)
-- [Two-story suburban house with interior](#gpt-6-astra-2102473710724919614)
-- [Interactive crowd evacuation simulation](#claude-opus-5-5-2102467667978572092)
-- [Battle City 3D: Endless Tank Defense](#battle-city-3d)
-- [Interactive 3D Prehistoric Island](#claude-opus-5-5-2102450239923720440)
-- [A Tower Defense Game Inspired by Sir, We Have Orc Problems](#gpt-6-astra-2102411087002112256)
-- [Tokyo Tower Day-and-Night 3D Scene and Video](#gpt-6-astra-2102276620124062065)
-- [Bubble Bay: 3D Water Balloon Battle](#bubble-bay)
-- [Interactive 3D helicopter design presentation](#gpt-6-astra-2102215638311694336)
 
 </details>
+<a id="claude-opus-5-5-2103502454750920925"></a>
+
+### WebGL2 sandbox survival game
+
+[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="WebGL2 sandbox survival game"></a>
+
+**Prompt**
+
+```text
+Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103502454750920925) · [Original post](https://x.com/kepochnik/status/2103524317443363241) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103486103831339269"></a>
+
+### Voxel-style Japanese garden in Three.js
+
+[Marcel](https://x.com/marcthecreatorr) · 2026-09-25 · GPT-6 Astra · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103486103831339269"><img src="../assets/previews/cada7d4bfe3443a78c6ec7345c32b241247b73d42d55c70d9de6b1b5b244b3dd.webp" width="840" loading="lazy" alt="Voxel-style Japanese garden in Three.js"></a>
+
+**Prompt**
+
+```text
+Build a detailed voxel-style Japanese garden in Three.js, with a pagoda, tiny villagers, a flying dragon and interactive details.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103486103831339269) · [Original post](https://x.com/marcthecreatorr/status/2103486103831339269) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103483174957597035"></a>
+
+### Navigate a 3D pagoda
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="Navigate a 3D pagoda"></a>
+
+**Prompt**
+
+```text
+Implement code to be able to navigate in a pagoda in 3D.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103483174957597035) · [Original post](https://x.com/BuildFastWithAI/status/2103483174957597035) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103482826519986544"></a>
+
+### Create a Guinea Pig in Blender
+
+[かよこ](https://x.com/kayokojoe) · 2026-09-25 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103482826519986544"><img src="../assets/previews/5ad328a91923bff7651db6c8faeb62c39572a56ae2d9b0761286e31c9a9e1b2b.webp" width="840" loading="lazy" alt="Create a Guinea Pig in Blender"></a>
+
+**Prompt**
+
+```text
+Create a guinea pig in Blender
+```
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+Blenderでモルモットを作って
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103482826519986544) · [Original post](https://x.com/kayokojoe/status/2103482826519986544) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103480081809346597"></a>
+
+### Freely walkable 3D anime-style cherry blossom town
+
+[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="Freely walkable 3D anime-style cherry blossom town"></a>
+
+**Prompt**
+
+```text
+Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
+
+[Technical constraints]
+- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
+- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
+- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
+- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
+
+[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
+1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
+2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
+3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
+4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
+5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
+6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
+7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
+
+[How to build the cherry trees (key part)]
+- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
+- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
+- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
+- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
+
+[Characters]
+- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
+- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
+
+[Vehicles]
+- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
+
+[Lighting and time of day]
+- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
+- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
+
+[Controls]
+- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
+- Mobile: drag on the left half to walk, drag on the right half to look around.
+- Collision is enabled, and the player can walk up onto the platform and steps.
+- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103480081809346597) · [Original post](https://x.com/pound75423/status/2103480085319942353) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103456264785424530"></a>
+
+### 3D Modeling for VRChat Outfits
+
+[のわ〜る👼🍆🐄](https://x.com/Noir4247) · 2026-09-25 · GPT-6 Astra · Assets
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103456264785424530"><img src="../assets/previews/6291d38d41ef9e8574d345612ab1f61a03da077d9ca7cb1f23dbbf8d2d4267da.webp" width="840" loading="lazy" alt="3D Modeling for VRChat Outfits"></a>
+
+**Reference images:** [1](https://media.tripogrowth.space/media/42ff938d-7637-4442-b071-1e2c83b9d302.jpg) · [2](https://pbs.twimg.com/media/HTD5rBdaQAAIwxR.jpg)
+
+**Prompt**
+
+```text
+Create an outfit for VRChat
+```
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+VRChat用の衣装作って
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103456264785424530) · [Original post](https://x.com/Noir4247/status/2103456264785424530) · [Back to examples](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2103432732386664591"></a>
+
+### Pitaya Jelly
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-25 · GPT-6 Astra · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103432732386664591"><img src="../assets/previews/7982cc49c66a743e3d9892cd13e04680e4a24173ea60d5584ca20b8510bb85f8.webp" width="840" loading="lazy" alt="Pitaya Jelly"></a>
+
+**Prompt**
+
+```text
+Create an interactive 3D scene called “Pitaya Jelly” — a dragon fruit half made of soft, translucent jelly. Build the entire project in a single HTML file using genuine WebGPU rendering and WGSL shaders. Do not use premade models or image assets.
+
+APPEARANCE
+
+A large dragon fruit half resting cut-side up on a light studio surface.
+Rich raspberry-pink skin, a thin pale inner rind, and pearly white flesh.
+Approximately 250 tiny black seeds distributed naturally across the flesh.
+12–14 fleshy peel petals around the fruit, transitioning from pink bases to green tips.
+A glossy, wet surface with light refraction, small internal bubbles, and a soft contact shadow.
+The material should look like soft gummy candy, not rigid plastic. Preserve saturated colors without blown-out highlights.
+
+PHYSICS AND INTERACTION
+
+Implement genuine soft-body deformation using a volumetric mesh with elastic connections and volume-preserving constraints, such as XPBD.
+Users can grab the flesh with a mouse or finger, stretch it, and release it.
+Deformation should concentrate around the grabbed point rather than simply translating the entire object.
+After release, the fruit should wobble, jiggle, and gradually recover its original shape.
+Make the peel petals individually draggable. They should be softer than the flesh, bending and springing back while remaining attached to the fruit.
+Seeds must follow the deforming surface without floating away or sinking into the flesh.
+Keep the simulation stable during strong pulls, with floor contact and protection against inverted elements.
+
+VISUAL DESIGN
+
+Use a minimal, light-themed studio interface with an editorial aesthetic: generous whitespace, thin borders, restrained controls, and no unnecessary decoration.
+
+Top left:
+“MATERIAL STUDIES / NO. 019”
+A large italic serif heading on two lines:
+“Pitaya Jelly.”
+
+Below it:
+“A little wild.”
+“A little sweet.”
+“A very soft dragon.”
+On the right, add a floating panel titled “THE SPECIMEN” containing:
+
+Density badge: ρ 1.04 g/cm³.
+Three presets:
+Pearl — white flesh and pink skin.
+Ruby — raspberry-colored flesh and pink skin.
+Gold — pale flesh and golden skin.
+Firmness and Internal damping sliders with visible values.
+“Give it a nudge” and “Reset” buttons.
+
+“¼ speed” and “Show mesh” checkboxes.
+
+A “Pause” button.
+Also include:
+A fullscreen button with an exit option.
+A “WEBGPU · LIVE” status indicator.
+Live readouts for mass, percentage of rest volume, and kinetic energy.
+A short interaction hint: “Pull the flesh. Tug a petal. Let go.”
+A collapsible “Inside the experiment” section explaining the implementation accurately.
+TECHNICAL REQUIREMENTS
+Deliver one self-contained file named pitaya-jelly-webgpu.html.
+
+Use actual WebGPU rendering, not a Canvas 2D imitation.
+
+Build all geometry procedurally.
+Use thickness-aware refraction, Fresnel reflections, and soft studio lighting.
+Use a fixed simulation timestep for consistent behavior.
+Support desktop and touch interaction with a responsive layout.
+Avoid expensive geometry reconstruction or shader compilation during dragging.
+
+Show a clear fallback message when WebGPU is unavailable.
+
+Verify dragging, release, shape recovery, presets, reset, pause, fullscreen, and mobile layout.
+The main priorities are convincing jelly-like behavior, beautiful materials, and satisfying interaction. The result should feel like a polished, playable material experiment.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2103432732386664591) · [Original post](https://x.com/vib3coded/status/2103433535604265052) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103428454355980558"></a>
+
+### Cycle of life motion-graphics animation
+
+[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="Cycle of life motion-graphics animation"></a>
+
+**Prompt**
+
+```text
+make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2103428454355980558) · [Original post](https://x.com/loicRambo/status/2103428454355980558) · [Back to examples](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2103351755971207251"></a>
 
 ### Golden-hour Roman battlefield set piece
@@ -1672,389 +1941,7 @@ create a new project in my projects folder called "endless-game": an endless, pr
 
 ---
 
-<a id="gpt-6-astra-2102473710724919614"></a>
-
-### Two-story suburban house with interior
-
-[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="Two-story suburban house with interior"></a>
-
-**Prompt**
-
-```text
-Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102473710724919614) · [Original post](https://x.com/azer0lxm/status/2102473781830909995) · [Back to examples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### Interactive crowd evacuation simulation
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Interactive crowd evacuation simulation"></a>
-
-**Prompt**
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102467667978572092) · [Original post](https://x.com/dominikmartn/status/2102467667978572092) · [Back to examples](#all-prompts)
-
----
-
-<a id="battle-city-3d"></a>
-
-### Battle City 3D: Endless Tank Defense
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D: Endless Tank Defense"></a>
-
-**Prompt**
-
-```text
-1. Project goal
-Build Battle City 3D, a browser tank-defense game inspired by the 1985 Famicom classic. The player drives a tank, destroys a wave of 20 enemies, collects supplies and protects the eagle headquarters. Reconstruct the current perspective-3D version shown in the reference media, including an endless seeded campaign and 35 selectable classic layouts. Preserve the readable arcade rules while giving tanks, walls and scenery genuine depth.
-
-2. Visual style
-Use a Three.js PerspectiveCamera with a 60-degree field of view. The default battlefield view sits behind and above the player, around 13 world units away at elevation 0.43 radians. Smoothly follow position and a point ahead of the tank; never rotate the camera automatically when the tank turns. Offer a higher tactical view, manual drag orbit and wheel zoom. Use the four cardinal map axes for movement and firing. After orbiting, map directional keys to the nearest cardinal direction relative to the camera; never turn keyboard input into diagonal movement. Render the chassis heading immediately to match the shot direction, and calibrate projectile and muzzle-flash height to the actual cannon of each model.
-Use grounded tracked tanks, metallic turrets, terracotta bricks, dark steel blocks, blue water, low foliage and reflective ice. Continue the ground beyond the playable area into trees, ruined buildings and haze. Use warm directional light, soft shadows, ambient fill, ACES tone mapping and restrained muzzle flashes, recoil, sparks and bouncing debris. Snow changes the ground and tree palette; industrial stages favor steel and ruined buildings.
-Frame the game with a dark olive command interface, warm yellow primary action, score, shared lives, remaining enemy icons, stage name and radar. Put the large Tripo 3D / Three.js model switch above the battlefield, showing the selected mode and a rotating tank preview. Use a localized illustrated supply guide and timed-effect indicators. Keep the playfield and essential touch controls visible on narrow screens.
-
-3. World and scenes
-Represent the battlefield as a 26 by 26 tile grid, with a tank collision half-width of 0.72. Place the eagle at (13,25), surrounded by a destructible U-shaped brick defense. Player spawns are (9,25) and (17,25); enemy gates are (1,1), (13,1) and (25,1).
-Provide two campaigns: all 35 classic layouts with their 20-enemy wave tables, and an endless seed-based generator cycling grass, snow and industrial biomes. Generate connected corridors wide enough for the full chassis, with passable connections between player spawns, enemy gates and pickup locations. Add staggered central steel cover to prevent a direct spawn-to-eagle firing lane while retaining cross-street access. Allow selecting the starting biome or classic stage and rerolling a random map. Carry the run seed, score, lives and surviving players' upgrades into the next stage.
-Brick is destructible; steel blocks ordinary shells and tanks; water blocks tanks but allows shells to pass; foliage conceals enemy models; ice reduces traction. Keep the distant environment decorative, separate from gameplay collision.
-
-4. Asset inventory
-Use these stable, independently replaceable 3D model slots. Prioritize the player, enemy, heavy tank and eagle, then all ten supply models. Ground each asset at its lowest point and normalize its facing, center and scale. Reuse templates instead of loading a model per enemy.
-- player: a mustard-yellow tracked tank with a readable turret and forward cannon; used by player tanks, with a separate ring color for the second player.
-- enemy: a compact tracked enemy tank, reused with distinct tints for basic, fast and powerful variants.
-- heavy: a visibly heavier armored tank, separate from the standard enemy mesh, with four visible armor segments above it.
-- eagle: a metallic golden eagle statue on the headquarters pedestal.
-- pickup-star: a gold five-point upgrade star.
-- pickup-helmet: a protective military helmet for temporary shielding.
-- pickup-clock: a readable clock for freezing enemy movement.
-- pickup-shovel: a shovel for headquarters reinforcement.
-- pickup-life: a miniature tank representing one extra life.
-- pickup-grenade: a hand grenade for destroying active enemies.
-- pickup-ammo: an ammunition box for rapid fire.
-- pickup-repair: a repair toolbox for restoring armor.
-- pickup-magnet: a horseshoe magnet for ranged pickup collection.
-- pickup-boost: an energy battery for a temporary speed boost.
-- environment-building: a weathered ruined apartment building, Tripo P2.0, requested budget 1,800 triangles.
-- environment-tree: an irregular pine with visible trunk, Tripo P2.0, requested budget 1,100 triangles.
-- environment-bush: a low leafy shrub and grass tufts, Tripo P2.0, requested budget 650 triangles.
-Display supplies as rotating, hovering collectible models with colored rings and matching guide thumbnails. Render repeated buildings, trees and bushes with shared geometry/material instances. Ground the building and tree roots; bury the shrub base slightly to blend with terrain. Add snow on upward-facing surfaces in snow stages. Keep tile walls, water, ice, projectile meshes, UI, lights, particles and collision proxies procedural. Animate water with world-space flowing waves, changing normals and small surface displacement, continuous across adjacent tiles. The Tripo version uses 17 generated models; the comparison version switches both tanks and environment to code-built geometry with the same rules and collisions. Both are rendered with Three.js.
-
-5. Gameplay and feedback
-Support solo and local two-player co-op with a shared pool of three lives. Solo uses WASD or arrow keys and Space/J to fire. In co-op, player one uses WASD and Space/J; player two uses arrows and Enter/Numpad 0. P/Escape pauses; C changes camera; 1/2 selects model mode. On touchscreens, allow holding a directional pad and fire button simultaneously, release input on pointer cancellation, and expose pause, resume, next-stage and retry actions without scrolling.
-Player speed is 4.2 units per second, or 6.3 with boost. Enemies include basic, fast, powerful and heavy types; heavy tanks have four hit points and survive the first three unshielded hits. Use four concurrent enemies in solo and six in co-op, with staggered spawning. Killing a type awards 100, 200, 300 or 400 points; collecting any supply gives 500 points. Clear a stage after 20 enemy defeats. Lose when the eagle is destroyed or the shared lives are exhausted with no surviving player. Offer immediate retry, explicit next-stage progression and a locally saved best score.
-Implement all ten supplies: star upgrades through three levels (faster shells, two simultaneous shells, then steel-breaking shells); helmet shields for 12 seconds; clock freezes enemies for 9 seconds; shovel reinforces the base for 16 seconds; mini tank adds one life; grenade destroys active enemies; ammunition grants 14 seconds of rapid fire with up to four active shells; repair adds two hit points capped at three; magnet collects visible supplies within five units for 20 seconds; boost lasts 12 seconds. Supply models last 25 seconds and appear at reachable locations, with a shuffled deck to vary types. Magnet collection must respect solid obstacles.
-Use collected NES-style samples for the 4.333-second stage opening, firing, driving and idling, brick/steel impacts, enemy/player explosions, supply appearance and collection, extra life, armor hit, ice, pause and game over. The current project uses 15 OGG cues from JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Preserve their attribution and repository license notice; describe them as collected remake audio, without claiming a bit-perfect hardware capture. Unlock audio on user gesture, calibrate sample gains, provide volume/mute, and synchronize sounds to events. Do not add unrelated continuous battle music.
-
-6. Technical implementation
-Use TypeScript, Three.js 0.180.0 and Vite 7, with an isolated package.json and lockfile. Keep the simulation independent of rendering, stepping at 120 Hz. Use solid chassis AABBs, axis-separated motion, boundary and tank separation, and continuous nearest-contact shell sweeps, including relative-motion collision between opposing shells. Shells originate at the chassis and sweep forward to prevent point-blank wall clipping. Add ice acceleration/deceleration and gravity with damped bounces for debris. These are arcade ground physics, not a suspension simulator.
-Load same-origin GLB assets through GLTFLoader. Keep collision proxies independent of asset geometry. The current runtime uses quantized attributes and WebP textures (1024 px for vehicles/base; 512 px for supplies and environment), without geometry simplification or a WASM decoder. Limit loading to four workers, use hash-versioned URLs and 256 KiB ranges with a 20-second timeout and up to three attempts per range. Unlock play after the four core models and audio are ready; load supplies and environment assets in the background and only spawn supply types whose models are ready. Switching model mode preserves gameplay state.
-Provide English, simplified Chinese, Japanese and Korean UI. Select a default from device language, except zh-TW, zh-HK, zh-MO and zh-Hant default to English; persist explicit language choices. Support keyboard, desktop pointer and multitouch, and pause on focus loss. Keep all assets, credits and reproducible scripts local to the source project, and ship a static dist directory with no private credentials or runtime backend dependency.
-
-7. Completion criteria
-Deliver editable source, asset provenance and license notices, an npm development/build workflow and a playable static preview. Verify the default Tripo scene, the model comparison, all biomes, a heavy tank taking four hits, every supply effect, pause/resume, defeat/retry and stage progression. Test 1,000 seeded maps for chassis-width connectivity and safe spawns, plus all classic maps, wall tunneling, diagonal shots, tank separation, ice momentum, camera-relative input at multiple yaws, and state-preserving mode switches. Validate localized UI and narrow-screen two-finger controls without claiming physical-device testing when only emulation was used. Compare actual start and combat frames with the reference images/video; confirm all 17 models and 15 audio cues load. Publish through the existing CMS Web Page workflow and verify the final public page, rather than treating a saved CMS record as a completed deployment.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/battle-city-3d) · [Live demo](https://battle-city-3d.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102450239923720440"></a>
-
-### Interactive 3D Prehistoric Island
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Interactive 3D Prehistoric Island"></a>
-
-**Prompt**
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102450239923720440) · [Original post](https://x.com/vib3coded/status/2102450842070569099) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102411087002112256"></a>
-
-### A Tower Defense Game Inspired by Sir, We Have Orc Problems
-
-[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="A Tower Defense Game Inspired by Sir, We Have Orc Problems"></a>
-
-**Prompt**
-
-```text
-Create a tower defense game like Sir, We Have Orc Problems.
-```
-
-<details>
-<summary>Original prompt</summary>
-
-```text
-Sir, we have orc problemsみたいなTDゲーム作って
-```
-
-</details>
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102411087002112256) · [Original post](https://x.com/nikzu_/status/2102411087002112256) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102276620124062065"></a>
-
-### Tokyo Tower Day-and-Night 3D Scene and Video
-
-[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · Scenes
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="Tokyo Tower Day-and-Night 3D Scene and Video"></a>
-
-**Prompt**
-
-```text
-Create a compelling 3D artwork centered on Tokyo Tower, along with an approximately 30-second video for posting on X. 
-
-You are the production director. Create the necessary subtasks and commission the research and production work. Take responsibility for defining the brief, managing progress, reviewing deliverables, requesting revisions, and compiling the final package.
-
-【What to create】
-Create Tokyo Tower in a way that conveys its height from a ground-level, upward-looking view and the fine detail of its steel framework from close up.
-Provide both daytime and nighttime versions: show the structure and paint during the day, and the beauty of the illumination at night.
-
-The work should make viewers feel that Tokyo Tower has been carefully studied. Research and reproduce distinctive details—not just the tower’s overall shape, but also the way its legs flare outward, the arrangement of its steel framework, the observatories, and the buildings at its base. Keep the surrounding city focused enough to convey the tower’s scale and sense of place.
-
-【Production process】
-・Research official references and photographs, then determine which features to reproduce and set their priorities.
-・Based on that research, provide specific production instructions for each subtask.
-・Review an actual 3D preview early on and adjust the form, composition, and brightness.
-・Review the finished images and video yourself, identify anything that feels off or incomplete, and request revisions.
-・Make independent decisions about detailed technical choices and shot structure, and carry the project through to completion.
-
-Do not substitute a background made from pasted photographs or generated images. Express the scene using actual 3D geometry and camera movement. Record both verified facts and areas inferred due to insufficient reference material.
-
-【Video】
-Approximately 30 seconds. Combine an upward-looking ground-level view, close-ups of the steel framework and observatories, and a wide shot that shows the entire tower. Also show the transition between day and night.
-Decide on the exact timing and shot breakdown based on the completed model, choosing the structure that presents it most effectively.
-
-【Deliverables】
-・Editable Blender files
-・MP4 video for posting on X
-・Preview images showing the full scene and details in both day and night settings
-・A short draft post
-・A README documenting asset sources, the scope of the reproduction, and verification results
-```
-
-<details>
-<summary>Original prompt</summary>
-
-```text
-東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
-
-あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
-
-【作ってほしいもの】
-地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
-昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
-
-「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
-
-【制作の進め方】
-・公式資料や写真を調査し、再現する特徴と優先順位を決める。
-・その調査を基に、各サブタスクへ具体的な制作指示を出す。
-・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
-・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
-・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
-
-写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
-
-【動画】
-約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
-細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
-
-【納品】
-・編集可能なBlenderデータ
-・X投稿用MP4動画
-・昼夜の全景と細部の確認画像
-・短い投稿文案
-・素材の出典、再現範囲、検証結果を記したREADME
-```
-
-</details>
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102276620124062065) · [Original post](https://x.com/wafffle_dev/status/2102276620124062065) · [Back to examples](#all-prompts)
-
----
-
-<a id="bubble-bay"></a>
-
-### Bubble Bay: 3D Water Balloon Battle
-
-[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Games
-
-<a href="https://www.tripo3d.ai/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="Bubble Bay: 3D Water Balloon Battle"></a>
-
-**Reference images:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
-
-**Prompt**
-
-```text
-Build Bubble Bay, a playable Three.js water-balloon arena with the familiar big-headed, short-bodied, exposed-face costume-character style of classic bubble games. Default to detailed Tripo models with an obvious Three.js geometry comparison switch that preserves the match. Use three new characters: Langya, Shantao and Tuanli. Follow the supplied new character concept/model references, preserving their silhouettes, faces, colors and outfits.
-
-Langya is a lively human boy in a turquoise hood with one connected sideways wave crest, orange collar/cuffs, navy shorts and turquoise shoes with orange soles. Shantao is a small human girl with a dark-plum bob, a peach-pink bonnet with three short petal ornaments on each side, mint jacket, plum short overalls and pale-yellow boots. Tuanli is a chubby human boy with a broad pear-shaped body, a caramel round padded cap with cream face trim, teal short jacket, cream lower belly and navy boots. All show warm skin-colored child faces with simple dark oval eyes and tiny smiles. These are children in newly designed costumes; do not turn them into literal aquatic creatures or reuse the prior recognizable character outfits. Generate each separately through Tripo CLI with explicit tripo-p2 and independent front/back images, then bind valid biped skeletons and skins. Idle/run/jump must drive actual joints; inspect motion, correct headgear/shoe/body weighting and keep provenance accurate. If motions are locally authored, identify them as such.
-
-Localized names: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Starting capacity/range/speed levels: 1/1/6, 1/2/5, 2/1/4; caps: 6/7/9, 6/7/8, 9/8/8. Convert speed to 0.25 + level*0.8 world units per second; tiles are 2 units. Choosing a character assigns the other two as distinct rivals with matching profiles. Keep the same gameplay hit radius regardless of the chubby visual silhouette.
-
-Offer 15x13 Pirate/Patrit14 by default and Village10. Preserve recognizable gold deck, yellow cargo, wooden crates, four cannons and central mast; the village has four colored housing districts, a central road, hedges and toy blocks. Use publisher maps as reference, construct runtime artwork yourself, and document small route openings needed for continuous 3D movement and AI escape. Provide bright materials, shadows, ocean scenery, clear camera follow and overview.
-
-One player faces two cooperating AI rivals. WASD/arrows move, F places a 2.5-second bubble, Space jumps onto real platforms, Shift dashes, Q/E orbits, V changes view and Escape pauses. Cross-shaped water respects obstacles, breaks the first soft block and chains bubbles. Implement trapping, escape, enemy captures, respawns, a selectable target of 3, 6, 9 or 12 captures (default 6), or 180-second scoring, result and retry. Touch joystick and action buttons must work simultaneously.
-
-Use six generated Tripo pickups: balloon, range potion, roller skate, throwing glove, kick boot and rescue needle. Crates drop an item 85% of the time. Conditional item weights: 30/30/30/2.5/3.5/4 percent. Gloves add three throws, capped at six. G throws a nearby bubble up to four tiles over cover, preserving its owner and original fuse, reserving its landing and showing an arc. A bubble expiring in flight lands and explodes. K slides bubbles until blocked without resetting the fuse. X uses a rescue needle, starting at one and capped at three. Show inventory and available controls clearly.
-
-Chinese, English and Korean UI: mainland-China IANA timezones select Chinese, Korea/North Korea select Korean, all others including Hong Kong/Macao/Taiwan select English. Manual choice always wins. Upload only embedded-texture, standard uncompressed, genuinely skinned GLB up to 40 MB and 150k triangles. Validate bones, joints and weights, reject static models, use embedded animations where present, and provide basic joint motion for recognized humanoids without clips. Unrecognized skeletons need animations. Explain rigging versus animation plainly, provide a 90-degree orientation adjustment, process locally in-browser, and assign stable balanced stats by file hash.
-
-Use exactly https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character for the creation CTA. Credit jared linking to https://x.com/jaredliu_bravo .
-
-Integrate 13 ElevenLabs sound effects with normalization, short decay, distance/pan, polyphony limits, volume and mute: place, burst, crate, pickup, rare, throw, land, trap, rescue, jump, victory, defeat, kick. Create two original instrumental tracks with ElevenLabs music_v2_5, 90 seconds each, matching the nautical pirate map and sunny neighborhood. Normalize them to a restrained -20 LUFS target and crossfade loop boundaries. Give music its own volume control, change tracks by map, fade on pause and honor master mute. Do not reproduce the original game soundtrack.
-
-Keep independent source, dependencies, tests and asset provenance outside the CMS platform apps. Bundle same-origin static resources and MIT notices. Verify actual desktop and touch gameplay, upload variants, languages and visual switching in Ego Lite. Create an immutable review version attached to existing CMS Web Page 12; preserve the existing live release while review is pending. Publish only with truthful source and asset-rights clearance, then verify the public URL, model hashes and behavior. Preserve history and distinguish saved CMS records, previews and public releases.
-
-Load model assets with visible progress, at most three concurrent downloads, a 30-second idle timeout and two attempts. Preserve successful downloads on retry. Hide the entire Tripo / Three.js tab switch until all models are ready, then reveal it. Do not label procedural loading placeholders as loaded Tripo models.
-
-
-Use a close perspective follow camera that starts outside the spawn facing the arena center. Preserve Q/E orbit, mouse drag pitch and V overview. Keep a compact scoreboard at the top, the mode switch at the upper left, and brief notices near the bottom. Hide joystick and large touch actions on mouse desktops, retaining small rare-item controls; support compact simultaneous touch actions on narrow screens. Add an animated wave shader with teal depth variation, organic sandy islets with curved palms and rocks, subtle wood grain and grass textures. Enclose each trapped character in a size-aware translucent bubble with an iridescent Fresnel rim, gentle float, small bubbles and ground ripples. Verify posed skin vertices fit, reset lift on rescue, and check resource disposal after repeated switching. Avoid expensive scene-wide transmission passes for the water membrane; cap narrow-screen pixel ratio at 1.5.
-
-
-Provide visible Follow / Overview camera controls and V switching. In Overview, support zoom from 100 to 300 percent using +/− buttons, the mouse wheel and two-finger pinch, with bounded map dragging and Fit map reset. Preserve zoom and the live match when switching camera or rendering versions. Keep compact, non-overlapping rare-item controls in Chinese, English and Korean.
-
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/bubble-bay) · [Original post](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Live demo](https://bubble-bay.tripo.page/) · [Back to examples](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2102215638311694336"></a>
-
-### Interactive 3D helicopter design presentation
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · Interactive
-
-<a href="https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="Interactive 3D helicopter design presentation"></a>
-
-**Prompt**
-
-```text
-Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
-
-Visual style:
-A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
-Helicopter:
-
-A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
-A white body with a dark navy underside and blue accent stripe.
-Curved, tinted cockpit windows with reflections and carefully fitted window seals.
-Side doors, handles, panel seams, rivets, boarding steps, and antennas.
-Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
-A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
-A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
-Curved landing skids attached to the fuselage with structural supports.
-Navigation lights and a blinking beacon.
-All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
-
-Interactions:
-
-Mouse drag to orbit, scroll to zoom, and touch controls.
-Start and stop both rotors with gradual acceleration and deceleration.
-Adjustable rotor speed.
-Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
-Automatic camera orbit.
-Front, side, and tail camera presets.
-Reset camera and fullscreen controls.
-Three liveries: glacier blue and white, rescue orange, and graphite.
-Interface:
-
-Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
-Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
-Bottom: controls and interaction hints.
-Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
-All interface text in English.
-Technical requirements:
-
-Generate the geometry procedurally without downloading a prebuilt helicopter model.
-Use PBR materials, a studio reflection environment, and soft shadows.
-Make animation independent of frame rate.
-Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
-Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
-If possible, embed dependencies in the HTML so the file works offline.
-Display a helpful fallback message if WebGL is unavailable.
-Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
-
-Deliver the working HTML file, not just an explanation.
-```
-
-[View detail ↗](https://www.tripo3d.ai/3d-prompts/gpt-6-astra-2102215638311694336) · [Original post](https://x.com/vib3coded/status/2102217028052377910) · [Back to examples](#all-prompts)
-
----
-
 
 [Complete catalog](catalog.en.md) · [←](catalog.en.1.md) · **2 / 10** · [→](catalog.en.3.md)
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 488 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_3d_prompts&amp;utm_content=catalog_footer">Explore all 496 examples and live previews →</a></strong></p>

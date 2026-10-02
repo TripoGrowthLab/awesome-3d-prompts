@@ -28,6 +28,14 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [Cảnh 3D Hogwarts](#gpt-6-astra-2096907617117540478)
+- [Tạo slime mềm tương tác bằng Three.js và WebGPU](#gpt-6-astra-2096793432987464010)
+- [Mô hình nhân vật LEGO cho game bằng Blender MCP](#astra-3d-2096766465730847059)
+- [Phối cảnh tháo rời smartphone tương tác](#gpt-6-astra-2096685163111694556)
+- [Trò chơi khám phá thế giới 3D Mini World](#gpt-6-astra-2096641728497275011)
+- [Render Trái Đất xoay trong Blender](#gpt-6-astra-2096637194270134742)
+- [RPG hành động dark fantasy bằng Three.js](#gpt-6-astra-2096637091627364531)
+- [Game phiêu lưu fantasy ven biển Windhaven](#gpt-6-astra-2096629506047955327)
 - [Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế](#gpt-6-astra-2096612394281603144)
 - [Tạo CS2 bằng Three.js](#gpt-6-astra-2096596888799895855)
 - [Totality Engine: Thánh đường Nhật thực Điện ảnh](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
@@ -70,16 +78,250 @@
 - [Nhóm nhạc 3D có thể tương tác với hoạt ảnh đồng bộ âm thanh](#gpt-6-astra-2096354461652488562)
 - [Từ ý tưởng nhân vật đến mô hình 3D đã rig và phim hoạt hình](#gpt-6-astra-2096342420543660277)
 - [Khám phá quỹ đạo trong Hệ Mặt Trời](#orbital-solar-system-explorer-2096339041679442428)
-- [Trò chơi chú cua với cơ chế xoay quanh hành động](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
-- [Dựng lại rồng chân thực có thể chỉnh sửa trong Blender](#gpt-6-astra-2096335588727349434)
-- [Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity](#warcraft-inspired-character-scene-in-unity-2096308567863079420)
-- [Quảng trường Terreiro do Paço tại Lisbon trong Blender](#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021)
-- [Trang đích biển sâu với ánh sáng sinh học](#bioluminescent-deep-sea-landing-page-2096269057544831175)
-- [Khu rừng rậm tạo bằng thuật toán trong Three.js](#dense-procedural-forest-in-three-js-2096263046918197609)
-- [Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel](#cluj-napoca-union-square-in-voxels-2096262733259837681)
-- [Vật lý đua xe trình duyệt bằng C# và WASM](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
 
 </details>
+<a id="gpt-6-astra-2096907617117540478"></a>
+
+### Cảnh 3D Hogwarts
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="Cảnh 3D Hogwarts"></a>
+
+**Prompt**
+
+```text
+Sử dụng Headless Blender để tạo mô hình 3D quy mô lớn, cực kỳ chân thực và đầy đủ chi tiết về Trường Phù thủy và Pháp sư Hogwarts trong Harry Potter. Bao gồm môi trường tự nhiên xung quanh, các địa danh biểu tượng, những không gian nội thất chân thực và các đạo cụ. Tạo vật liệu, ánh sáng, kết xuất và thiết kế âm thanh đạt chất lượng điện ảnh, với bầu không khí huyền bí cùng màn sương mù chuyển động, trôi dạt tự nhiên. Cho phép người dùng tự do khám phá môi trường, đồng thời cung cấp các thiết lập có thể chuyển đổi cho ánh sáng và những tùy chọn hình ảnh khác.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096907617117540478) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096907617117540478) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096793432987464010"></a>
+
+### Tạo slime mềm tương tác bằng Three.js và WebGPU
+
+[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Tạo slime mềm tương tác bằng Three.js và WebGPU"></a>
+
+**Prompt**
+
+```text
+Tạo một thư mục mới và làm một trang slime có thể chơi ngay trên trình duyệt. Dùng Three.js và WebGPU, không dùng WebGL thay thế.
+ Ở giữa là một khối slime tròn, mềm mọng; màu hồng hoặc xanh ngọc đều được, hơi trong suốt và có các bong bóng thấp thoáng bên trong. Có thể dùng chuột nhấn xuống rồi kéo đi; khi thả ra, slime sẽ lắc lư và dần trở lại hình dạng ban đầu. Thêm một chút trọng lực để nó có thể nhẹ nhàng nảy xuống một mặt bàn vô hình. Đừng làm thành quả bóng cứng; cần tạo cảm giác mềm và có độ dẻo như thịt.
+ Thêm khuôn mặt đáng yêu: hai mắt đen tròn như hạt đậu và một cái miệng nhỏ. Khuôn mặt phải biến dạng theo bề mặt, không tách mắt khỏi cơ thể. Ở bên phải, tạo vài tùy chỉnh đơn giản: màu sắc, độ mềm và độ giảm chấn. Nút «Chọc một cái» sẽ khiến slime nảy lên.
+ Giữ giao diện gọn gàng, nền xám nhạt và tiêu đề chữ lớn. Đảm bảo chạy được ở 60 FPS. Trước tiên tạo một ảnh tham chiếu cho hiệu ứng mục tiêu, sau đó dựng theo ảnh này; chỉ tiếp tục thêm chi tiết khi ảnh chụp màn hình đã trông đúng như mong muốn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
+中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
+可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
+页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096793432987464010) · [Bài đăng gốc](https://x.com/Delroy715/status/2096793432987464010) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="astra-3d-2096766465730847059"></a>
+
+### Mô hình nhân vật LEGO cho game bằng Blender MCP
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Mô hình nhân vật LEGO cho game bằng Blender MCP"></a>
+
+**Prompt**
+
+```text
+Sử dụng Blender MCP để tạo phiên bản nhân vật LEGO của Donald Trump mà tôi có thể dùng làm tài sản game. Hãy đảm bảo chất lượng vượt trội theo tiêu chuẩn game AAA, đồng thời kiểm tra kỹ sản phẩm để bảo đảm mô hình có độ chi tiết, độ chính xác và chất lượng xuất sắc.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/astra-3d-2096766465730847059) · [Bài đăng gốc](https://x.com/_simonsmith/status/2096766465730847059) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096685163111694556"></a>
+
+### Phối cảnh tháo rời smartphone tương tác
+
+[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Phối cảnh tháo rời smartphone tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng một hình ảnh trực quan 3D tương tác về một smartphone hiện đại theo dạng tháo rời. Tách thiết bị thành các linh kiện chính và cho phép tôi tháo rời/lắp lại bằng thanh trượt. Khi nhấp vào một linh kiện, hãy tách riêng linh kiện đó và giải thích chức năng của nó. Bao gồm pin, camera, SoC, bộ nhớ, các lớp màn hình, loa, cảm biến, ăng-ten và bo mạch logic. Ưu tiên giao diện đẹp theo phong cách Apple cùng các tương tác mượt mà, đã mắt. Xây dựng, chạy thử, kiểm tra và khắc phục lỗi cho toàn bộ trải nghiệm.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096685163111694556) · [Bài đăng gốc](https://x.com/zairalaraib_/status/2096685163111694556) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096641728497275011"></a>
+
+### Trò chơi khám phá thế giới 3D Mini World
+
+[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Trò chơi khám phá thế giới 3D Mini World"></a>
+
+**Prompt**
+
+```text
+Hãy tạo một game có tên Mini World. Đây là game khám phá thế giới 3D với giao diện đồ họa đẹp mắt, chất lượng cao, được thiết kế để vui nhộn và dễ chơi cho cậu con trai bốn tuổi rưỡi của tôi. Người chơi có thể phóng to và thu nhỏ. Nhìn từ xa, thế giới trông như một quả cầu nhỏ, nhưng bên trong có nhiều khu vực khác nhau để khám phá. Một khu vực có thể là rừng, khu vực khác là sa mạc, ngoài ra còn có các đại dương để nhân vật bơi lội. Game cần mang lại cảm giác vui nhộn và dễ chơi, với một nhân vật có thể di chuyển qua nhiều nơi trên thế giới, khám phá các môi trường khác nhau và phát hiện những điều thú vị trên đường đi. Hãy xem việc đảm bảo game hoạt động đúng cách là mục tiêu chính. Game cần được thiết kế đẹp mắt và kiểm thử, tinh chỉnh kỹ lưỡng theo từng vòng lặp để chuyển động, thu phóng, khám phá, bơi lội, môi trường, điều khiển và trải nghiệm tổng thể phối hợp mượt mà. Tiếp tục kiểm thử và cải thiện cho đến khi mọi thứ hoạt động ổn định, đồng thời game trở nên hoàn thiện, trực quan và thú vị đối với trẻ nhỏ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096641728497275011) · [Bài đăng gốc](https://x.com/weijianzhang_/status/2096641728497275011) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096637194270134742"></a>
+
+### Render Trái Đất xoay trong Blender
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Render Trái Đất xoay trong Blender"></a>
+
+**Prompt**
+
+```text
+Trong Blender, tạo một video render dài 5 giây, đẹp mắt, về Trái Đất đang xoay khi nhìn từ ngoài không gian.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637194270134742) · [Bài đăng gốc](https://x.com/JohnKlerAI/status/2096637194270134742) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096637091627364531"></a>
+
+### RPG hành động dark fantasy bằng Three.js
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="RPG hành động dark fantasy bằng Three.js"></a>
+
+**Prompt**
+
+```text
+Sử dụng Three.js để tạo từ đầu một RPG hành động 3D dark fantasy hoàn thiện, có thể chơi đầy đủ.
+
+Sử dụng camera bám theo nhân vật từ trên xuống với góc nghiêng. Bối cảnh là một thánh đường Gothic đồ sộ bị rừng cây xâm lấn, với các tòa tháp đổ nát, dãy vòm, cầu đá phủ rêu, những ngọn đồi thoai thoải, suối, thác nước và lửa trại. Tạo bầu không khí nhiều lớp, giàu chiều sâu bằng vật liệu chân thực, ánh sáng điện ảnh, sương mù nhẹ, thảm thực vật lay động trong gió và dòng nước chuyển động.
+
+Nhân vật chính là một hiệp sĩ mạnh mẽ, mặc bộ giáp nặng bằng thép và vàng được chế tác tinh xảo, có áo choàng tung bay cùng thanh kiếm rune và khiên phát sáng. Nhân vật phải có thể di chuyển, chém, lăn né, đỡ đòn, hồi máu và thi triển phép thuật với các vòng phép khổng lồ, tia sáng và hiệu ứng sét. Sau khi đánh bại đội lính canh, người chơi phải đối đầu với một con trùm hiệp sĩ khổng lồ có gạc.
+
+Hoạt ảnh tấn công, hiệu ứng hình ảnh và hướng tác động của đòn đánh đều phải khớp với hướng nhân vật đang quay mặt. Bổ sung HUD bằng tiếng Hoa phồn thể được hoàn thiện chỉn chu, màn hình trang bị nhân vật và các luồng hoàn chỉnh cho chiến thắng, thất bại và chơi lại.
+
+Tự chủ thực hiện phần dựng mô hình, tạo hoặc thu thập tài nguyên, lập trình và tối ưu hiệu năng. Hướng đến độ hoàn thiện hình ảnh cấp AAA. Liên tục chơi thử, kiểm tra hình ảnh và sửa lỗi cho đến khi hoàn thiện một trò chơi có thể chơi đầy đủ, kèm hướng dẫn khởi chạy và mã nguồn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
+
+Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
+
+The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
+
+Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
+
+Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096637091627364531) · [Bài đăng gốc](https://x.com/HiltonMisia/status/2096637091627364531) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096629506047955327"></a>
+
+### Game phiêu lưu fantasy ven biển Windhaven
+
+[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Game phiêu lưu fantasy ven biển Windhaven"></a>
+
+**Prompt**
+
+```text
+Hãy cùng tôi thiết kế một game. Game được xây dựng bằng Unity. Trước tiên, hãy sử dụng tài sản mặc định; tôi sẽ thay thế các tài sản này sau.
+Phong cách game:
+Một game phiêu lưu fantasy ven biển phong cách cách điệu cao cấp, lấy bối cảnh tại thành phố đảo nhỏ ngập nắng mang tên Windhaven. Thành phố được xây dựng từ đá vôi màu ngà ấm và đá sa thạch vàng, bao quanh bởi làn nước xanh ngọc trong vắt, với mái đồng xanh teal, các sạp chợ có mái che, cổng vòm, cây cối um tùm trong sân, đài phun nước chạm khắc, những cột mốc phép thuật phát sáng và một ngôi đền đồ sộ nhìn xuống thị trấn. Một nhà thám hiểm trẻ tuổi đơn độc, khoác áo choàng du hành và đeo ba lô, bước qua quảng trường trung tâm hướng về phía ngôi đền. Môi trường mang lại cảm giác yên bình, bí ẩn, cổ kính và phảng phất phép thuật, với ảnh hưởng kiến trúc Địa Trung Hải và Bắc Phi. Vật liệu PBR cách điệu có độ chi tiết cao, bề mặt đá được chế tác thủ công, dấu vết phong hóa tinh tế, hoa văn chạm khắc thanh nhã, ánh nắng buổi chiều dịu nhẹ, bóng đổ điện ảnh kéo dài, bảng màu xanh ngọc và vàng ấm, định hướng mỹ thuật game phiêu lưu hạng AA được trau chuốt, camera gameplay góc nhìn người thứ ba, góc máy toàn cảnh thiết lập bối cảnh, thiết kế môi trường đồng nhất, lối đi và địa danh dễ nhận biết về mặt hình ảnh, không giao diện người dùng, không chữ, không logo, không vật thể hiện đại.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
+Game style:
+A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096629506047955327) · [Bài đăng gốc](https://x.com/tripoai/status/2096629506047955327) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096612394281603144"></a>
 
 ### Hoạt ảnh gấp hộp giấy từ bản vẽ khuôn bế
@@ -1227,573 +1469,6 @@ Tạo công cụ khám phá Hệ Mặt Trời trong trình duyệt bằng Three.
 ```
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Bài đăng gốc](https://x.com/dzhohola/status/2096339041679442428) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="a-crab-game-with-action-driven-mechanics-2096337879173591171"></a>
-
-### Trò chơi chú cua với cơ chế xoay quanh hành động
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/c1f5f1674d05a9bfec5c5e37024796a6e28d0cafb8e35148b01d3865c6b48c46.webp" width="840" loading="lazy" alt="Trò chơi chú cua với cơ chế xoay quanh hành động"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng trò chơi chú cua bằng Three.js từ bản yêu cầu có cấu trúc, bao gồm diện mạo, nhân vật, thế giới, hành động, mục tiêu, giao diện và camera. Làm cho đồng xu nổi lên rồi bay về phía cua khi cua đi ngang; chỉ rõ các yêu cầu mâu thuẫn nhau.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Bài đăng gốc](https://x.com/zeuuss_01/status/2096337879173591171) · [Bản demo](https://beach-crab-game.netlify.app/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096335588727349434"></a>
-
-### Dựng lại rồng chân thực có thể chỉnh sửa trong Blender
-
-[Sarang Borude](https://x.com/doomdave) · 2026-09-05 · GPT-6 Astra · Tài nguyên 3D
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/e7c2fd347fd31e7e2c69be456ec1b437cd5cff2616cdf2a474f0c189d02af149.webp" width="840" loading="lazy" alt="Dựng lại rồng chân thực có thể chỉnh sửa trong Blender"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/4d0bd23e-3879-4052-9e83-5c70656c5dc5.jpg) · [2](https://pbs.twimg.com/media/HReuaRUacAAtOFF.jpg)
-
-**Prompt**
-
-```text
-Tạo bản dựng lại 3D chân thực, có thể chỉnh sửa hoàn toàn của con rồng trong bảng tham chiếu đính kèm bằng Blender.
-
-Sử dụng mọi góc nhìn được cung cấp—gồm góc bên, trước, trên, sau, các góc đầu, cận cảnh đầu, cận cảnh mắt, chi tiết vảy và chi tiết cánh—để dựng một con rồng thống nhất, có giải phẫu đáng tin cậy.
-
-Bám sát tham chiếu tối đa, đặc biệt là:
-
-- Tỷ lệ tổng thể và đường bao cơ thể
-- Cổ dài, cơ bắp và đuôi thuôn dần
-- Bốn chân và hai cánh lớn như cánh dơi
-- Hình dáng đầu và hàm
-- Số lượng, hình dáng và vị trí sừng
-- Gai sống lưng dọc theo cổ, lưng và đuôi
-- Họa tiết vảy màu than đậm và nâu đất
-- Các lớp vảy giống giáp
-- Mắt màu hổ phách vàng với đồng tử dọc
-- Móng vuốt, răng và màng cánh
-- Vẻ ngoài cổ xưa, chân thực và đáng sợ
-
-Các khung tham chiếu có thể chứa một số điểm không nhất quán nhỏ. Hãy dung hòa chúng thành một sinh vật nền có cấu trúc vật lý thống nhất và đối xứng, đồng thời giữ nguyên nhận diện hình ảnh của con rồng. Dùng góc bên để xác định tỷ lệ tổng thể, góc trước để xác định bề rộng và tư thế, góc trên và sau cho cánh và đuôi, còn các ảnh cận cảnh cho đầu, mắt, vảy và vật liệu cánh.
-
-Dựng con rồng từ đầu bằng hình học Blender thực tế có thể chỉnh sửa. Không tải xuống hoặc nhập một mô hình rồng có sẵn. Không dùng billboard, phép chiếu 2D, hiệu ứng đánh lừa bằng bản đồ độ sâu hoặc video tạo sinh thay cho hình học.
-
-Sử dụng các script Python Blender dạng mô-đun (`bpy`) và tệp thực thi Blender ở chế độ nền/headless làm phương thức dựng chính. Giữ các script có thể tái tạo và lưu lại những phiên bản thành công của tệp `.blend`. Dùng computer use để mở và kiểm tra cảnh Blender khi cần quan sát trực quan. Không cài đặt hoặc phụ thuộc vào máy chủ Blender MCP.
-
-PHƯƠNG PHÁP DỰNG HÌNH
-
-Bắt đầu bằng blockout giải phẫu trước khi thêm chi tiết. Xác lập:
-
-- Hộp sọ, hàm và hốc mắt
-- Cổ, ngực, lồng ngực và xương chậu
-- Bốn chân có giải phẫu thuyết phục
-- Các ngón chân tách biệt và móng vuốt cong
-- Vai cánh nối liền với thân
-- Cánh tay cánh và các xương ngón có khớp
-- Màng cánh nối liền đúng cách
-- Đuôi dài nối tự nhiên từ xương chậu
-- Sừng chính và gai sống lưng
-
-Tránh các chi thừa, sừng bị nhân đôi, màng cánh rời, khớp gãy, vảy lơ lửng, hình học giao nhau, hình khối mỏng như giấy, tình trạng đối xứng sai lệch ngoài ý muốn và tỷ lệ giống đồ chơi.
-
-Sau khi kiểm tra blockout, hãy thêm chi tiết cấp hai và cấp ba:
-
-- Các lớp giáp ở ngực và cổ
-- Vảy định hướng theo cấu trúc giải phẫu
-- Gờ chân mày và mí mắt
-- Lỗ mũi thực
-- Khoang miệng, nướu và từng chiếc răng
-- Gờ sừng, vết mẻ và đầu sừng bị mài mòn
-- Giáp chân và các mảng giáp ở khớp ngón
-- Gân cánh, nếp gấp, mạch máu và sẹo tiết chế
-- Gai sống lưng kéo dài xuống đuôi
-- Độ bất đối xứng tự nhiên nhẹ
-
-Dùng hình học cho mọi chi tiết ảnh hưởng đến đường bao, gồm sừng, móng vuốt, răng, vảy lớn, gai sống lưng, ngón cánh và các nếp gấp quan trọng trên màng cánh. Chỉ dùng normal map, bump hoặc displacement tiết chế cho chi tiết siêu nhỏ.
-
-VẬT LIỆU
-
-Tạo vật liệu dựa trên vật lý, chân thực.
-
-Vảy chủ yếu có màu đen than, với biến thiên nhẹ giữa màu graphite và nâu đất. Thêm biến thiên tiết chế về màu sắc, độ nhám và normal siêu nhỏ. Vảy nhô, da lõm và các mảng giáp phải phản xạ ánh sáng khác nhau. Tránh độ bóng nhựa đồng nhất và nhiễu procedural tràn lan.
-
-Màng cánh phải trông như da bò sát đã phong hóa. Màng cần mỏng hơn giữa các xương nâng đỡ và dày hơn gần khớp cũng như mép trước. Thêm các mạch máu, nếp gấp, độ căng, sẹo, độ trong mờ và biến thiên màu sắc tinh tế, nhưng không để chúng giống vải, cao su hoặc giấy.
-
-Tạo sừng và móng vuốt giống keratin, với phần gốc tối màu, đầu nhạt hơn do mài mòn, các gờ chạy dọc và hư tổn nhẹ.
-
-Mắt cần có:
-
-- Mống mắt màu hổ phách vàng
-- Đồng tử đen dọc
-- Cấu trúc mống mắt chi tiết
-- Vùng viền mống mắt tối màu
-- Nhãn cầu ba chiều đúng nghĩa
-- Mí mắt chân thực
-- Điểm bắt sáng ướt trên giác mạc
-- Độ ẩm nhẹ dọc mép mí
-
-Không làm mắt phát sáng hoặc phát quang nhân tạo.
-
-ÁNH SÁNG VÀ MÔI TRƯỜNG
-
-Tạo môi trường điện ảnh tiết chế, tương tự tham chiếu:
-
-- Bệ đá hoặc mỏm núi đá tối màu
-- Núi ở xa trong bầu khí quyển
-- Bầu trời nhiều mây đầy kịch tính
-- Ánh sáng môi trường mát
-- Ánh sáng định hướng ấm hơn, nhẹ, làm nổi bật khuôn mặt và vảy
-- Sương mù khí quyển nhẹ
-- Không có công trình gây xao nhãng hoặc sinh vật bổ sung
-
-Đặt con rồng trong tư thế vững vàng, uy nghi:
-
-- Đầu ngẩng cao và cảnh giác
-- Cổ hơi cong
-- Cánh xòe hoàn toàn hoặc gần hoàn toàn
-- Trọng lượng phân bổ đáng tin cậy trên cả bốn chân
-- Đuôi đặt phía sau hoặc cong tự nhiên
-- Miệng khép hoặc hơi hé
-- Mắt hướng vào camera hoặc nhìn lệch qua camera một chút
-
-KIỂM TRA HÌNH ẢNH
-
-Tạo các camera kiểm tra có góc khớp với:
-
-- Góc bên
-- Góc trước
-- Góc trên
-- Góc sau
-- Biên dạng đầu trái và phải
-- Góc hero ba phần tư
-- Cận cảnh đầu
-- Cận cảnh mắt
-- Cận cảnh vảy
-- Cận cảnh cánh
-
-Thực hiện ít nhất ba vòng đánh giá và chỉnh sửa.
-
-Trong mỗi vòng:
-
-1. Render mọi camera kiểm tra.
-2. So sánh từng bản render với khung tham chiếu tương ứng.
-3. Đánh giá đường bao, giải phẫu, tỷ lệ, nhận diện đầu, sừng, cánh, chân, bàn chân, đuôi, hướng vảy, vật liệu, độ đối xứng, giao nhau, shading và normal.
-4. Lập danh sách sai lệch theo thứ tự ưu tiên.
-5. Sửa các vấn đề quan trọng nhất về mặt hình ảnh.
-6. Render lại bằng chính các camera đó.
-7. Lưu lại các so sánh trước và sau.
-
-Không được tuyên bố hoàn tất chỉ vì các object đã được tạo. Hoàn tất nghĩa là phải kiểm tra các bản render thực tế và sửa những vấn đề nhìn thấy được.
-
-CHUYỂN ĐỘNG CAMERA XOAY QUANH 10 GIÂY
-
-Tạo chuyển động camera điện ảnh xoay quanh con rồng hoàn thiện với các yêu cầu sau:
-
-- Chính xác 10 giây
-- Độ phân giải 1920 × 1080
-- 30 khung hình/giây
-- Chính xác 300 khung hình
-- Camera chuyển động liên tục, mượt mà
-- Không cắt cảnh
-- Khoảng một vòng quỹ đạo 360 độ hoàn chỉnh
-- Bắt đầu bằng bố cục góc trước ba phần tư mạnh mẽ
-- Di chuyển qua bên hông, phía sau và bên đối diện
-- Kết thúc ở bố cục nối mượt với khung hình mở đầu
-- Thêm thay đổi độ cao tiết chế để thấy phần lưng và cấu trúc cánh
-- Giữ toàn bộ con rồng trong khung hình
-- Giữ đầu và thân là trọng tâm thị giác chính
-- Dùng nội suy Bézier mượt
-- Tránh tăng tốc đột ngột và camera bị lăn
-- Tránh xuyên qua cánh, đuôi, địa hình hoặc cơ thể
-- Dùng ống kính phối cảnh tự nhiên, không gây méo góc rộng mạnh
-- Giữ độ sâu trường ảnh đủ nhẹ để vẫn nhìn rõ con rồng
-- Dùng motion blur tiết chế
-
-Trước khi render cuối, hãy tạo bản xem trước nhanh, số mẫu thấp ở 1080p cho toàn bộ animation. Kiểm tra toàn bộ bản xem trước và sửa lỗi khung hình, va chạm camera, đường bao vụng về, góc nhìn bị che, chuyển động đột ngột, lỗi shading và các giao nhau hình học nhìn thấy được.
-
-RENDER CUỐI
-
-Sau khi hoàn tất các vòng đánh giá và duyệt bản xem trước animation:
-
-- Render animation cuối ở 1920 × 1080.
-- Dùng Cycles với tăng tốc GPU khi có thể.
-- Render ở 30 fps với chính xác 300 khung hình.
-- Dùng lấy mẫu thích ứng và khử nhiễu.
-- Trước tiên render thành từng khung hình ảnh riêng để có thể tiếp tục nếu render bị gián đoạn.
-- Dùng PNG 16-bit hoặc OpenEXR cho các khung hình master.
-- Ghép các khung hình đã render thành video H.264 MP4 chất lượng cao.
-- Không dùng nội suy khung hình bằng AI.
-- Giữ lại từng khung hình riêng sau khi ghép video.
-
-TỆP BÀN GIAO
-
-Cung cấp:
-
-1. Tệp `.blend` cuối có thể chỉnh sửa
-2. Toàn bộ script `bpy` có thể tái tạo
-3. README kèm hướng dẫn dựng lại và render
-4. Báo cáo phân tích tham chiếu và các giả định
-5. So sánh tham chiếu theo các góc nhìn khớp nhau
-6. So sánh trước và sau các vòng đánh giá
-7. Các bản render tĩnh chất lượng cao của toàn bộ con rồng và những chi tiết quan trọng
-8. Chuỗi 300 khung hình ảnh hoàn chỉnh
-9. Video H.264 1080p dài 10 giây
-10. Báo cáo kiểm tra hình học và vật liệu
-11. Manifest xác định mọi tài nguyên môi trường bên ngoài được phép sử dụng và giấy phép của chúng
-
-TIÊU CHÍ THÀNH CÔNG
-
-Thành công nghĩa là:
-
-- Kết quả được nhận ra là cùng một con rồng với tham chiếu.
-- Giải phẫu vẫn nhất quán từ mọi góc nhìn.
-- Đầu, sừng, mắt hổ phách, cánh, gai sống lưng và các lớp vảy tối màu khớp sát tham chiếu.
-- Con rồng hoàn toàn ba chiều và có thể chỉnh sửa.
-- Các chi tiết lớn và trung bình được mô hình hóa thay vì giả lập.
-- Vật liệu phản ứng tự nhiên khi camera di chuyển.
-- Không có giao nhau rõ rệt, vảy lơ lửng, chi tiết giải phẫu bị nhân đôi hoặc normal bị lỗi.
-- Hình ảnh giống một sinh vật vật lý được chụp lại hơn là đồ chơi, tác phẩm điêu khắc, mô hình procedural chung chung hoặc asset game thông thường.
-- Chuyển động camera mượt, mang tính điện ảnh và dài chính xác 10 giây.
-
-Tự chủ thực hiện các giai đoạn này. Bắt đầu bằng phân tích tham chiếu và blockout giải phẫu. Nếu gặp một điểm mơ hồ lớn không thể giải quyết từ tham chiếu, hãy chọn phương án hợp lý nhất về mặt giải phẫu, ghi lại giả định đó và tiếp tục.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create a photorealistic, fully editable 3D reconstruction of the dragon shown in the attached reference sheet inside Blender.
-
-Use every supplied view—including the side, front, top, back, head angles, head closeup, eye closeup, scale detail and wing detail—to reconstruct one coherent and anatomically believable dragon.
-
-Match the reference as closely as possible, especially:
-
-- Overall body proportions and silhouette
-- Long muscular neck and tapering tail
-- Four legs and two large bat-like wings
-- Head and jaw shape
-- Horn number, shape and placement
-- Dorsal spikes along the neck, back and tail
-- Dark charcoal and earthy-brown scale patterns
-- Layered armor-like scales
-- Golden-amber eyes with vertical pupils
-- Claws, teeth and wing membranes
-- Ancient, realistic and threatening appearance
-
-The reference panels may contain small inconsistencies. Reconcile them into a physically coherent, symmetrical base creature while preserving the dragon’s visual identity. Use the side view for overall proportions, the front view for width and stance, the top and back views for wings and tail, and the closeups for the head, eyes, scales and wing materials.
-
-Build the dragon from scratch as actual editable Blender geometry. Do not download or import an existing dragon model. Do not use billboards, 2D projections, depth-map illusions or generated video in place of geometry.
-
-Use modular Blender Python (`bpy`) scripts and Blender’s executable in background/headless mode as the primary construction method. Keep the scripts reproducible and preserve successful versions of the `.blend` file. Use computer use to open and inspect the Blender scene whenever visual inspection is helpful. Do not install or rely on a Blender MCP server.
-
-MODELING APPROACH
-
-Begin with an anatomical blockout before adding detail. Establish:
-
-- Skull, jaw and eye sockets
-- Neck, chest, rib cage and pelvis
-- Four anatomically convincing legs
-- Separated toes and curved claws
-- Wing shoulders integrated into the torso
-- Articulated wing arms and finger bones
-- Properly connected wing membranes
-- Long tail continuing naturally from the pelvis
-- Primary horns and dorsal spines
-
-Avoid extra limbs, duplicated horns, disconnected membranes, broken joints, floating scales, intersections, paper-thin forms, accidental asymmetry and toy-like proportions.
-
-After validating the blockout, add secondary and tertiary details:
-
-- Layered chest and neck plates
-- Directional scales that follow the anatomy
-- Brow ridges and eyelids
-- Real nostril openings
-- Mouth interior, gums and individual teeth
-- Horn ridges, chips and worn tips
-- Leg armor and knuckle plates
-- Wing tendons, folds, veins and restrained scars
-- Dorsal spikes continuing down the tail
-- Subtle natural asymmetry
-
-Use geometry for anything affecting the silhouette, including horns, claws, teeth, major scales, dorsal spines, wing fingers and important membrane folds. Use normal maps, bump or restrained displacement only for micro-detail.
-
-MATERIALS
-
-Create physically based, photorealistic materials.
-
-The scales should be predominantly charcoal-black with subtle graphite and earthy-brown variation. Add restrained color, roughness and micro-normal variation. Raised scales, recessed skin and armored plates should reflect light differently. Avoid uniform plastic shine and indiscriminate procedural noise.
-
-The wing membranes should look like weathered reptilian leather. They should appear thinner between the supporting bones and thicker near joints and leading edges. Include subtle veins, folds, tension, scars, translucency and color variation without making them resemble cloth, rubber or paper.
-
-Create keratin-like horns and claws with dark bases, lighter worn tips, lengthwise ridges and subtle damage.
-
-The eyes should have:
-
-- Golden-amber irises
-- Vertical black pupils
-- Detailed iris structures
-- Dark limbal regions
-- Proper three-dimensional eyeballs
-- Realistic eyelids
-- Wet corneal highlights
-- Subtle moisture along the eyelid edges
-
-Do not make the eyes emissive or artificially glowing.
-
-LIGHTING AND ENVIRONMENT
-
-Create a restrained cinematic environment similar to the reference:
-
-- Dark rocky pedestal or mountain outcrop
-- Distant atmospheric mountains
-- Dramatic overcast sky
-- Cool ambient illumination
-- Subtle warmer directional light revealing the face and scales
-- Light atmospheric mist
-- No distracting structures or additional creatures
-
-Pose the dragon in a stable, commanding stance:
-
-- Head raised and alert
-- Neck slightly curved
-- Wings fully or nearly fully displayed
-- Weight distributed credibly across all four feet
-- Tail resting or curving naturally behind it
-- Mouth closed or slightly parted
-- Eyes directed toward or just past the camera
-
-VISUAL VERIFICATION
-
-Create matched validation cameras for:
-
-- Side view
-- Front view
-- Top view
-- Back view
-- Left and right head profiles
-- Three-quarter hero view
-- Head closeup
-- Eye closeup
-- Scale closeup
-- Wing closeup
-
-Perform at least three critic-and-correction loops.
-
-During each loop:
-
-1. Render every validation camera.
-2. Compare each render with the corresponding reference panel.
-3. Evaluate silhouette, anatomy, proportions, head identity, horns, wings, legs, feet, tail, scale flow, materials, symmetry, intersections, shading and normals.
-4. Produce a ranked list of discrepancies.
-5. Correct the most visually important problems.
-6. Rerender the same cameras.
-7. Preserve before-and-after comparisons.
-
-Do not claim completion merely because the objects were created. Completion requires inspecting the actual renders and correcting visible problems.
-
-10-SECOND CAMERA FLYAROUND
-
-Create a cinematic camera flyaround of the completed dragon with these requirements:
-
-- Exactly 10 seconds
-- 1920 × 1080 resolution
-- 30 frames per second
-- Exactly 300 frames
-- Smooth continuous camera movement
-- No cuts
-- Approximately one complete 360-degree orbit
-- Start from a strong front three-quarter composition
-- Travel around the side, back and opposite side
-- End in a composition that connects smoothly with the opening frame
-- Add a restrained elevation change to reveal the back and wing construction
-- Keep the complete dragon inside the frame
-- Keep the head and torso as the main visual focus
-- Use smooth Bézier interpolation
-- Avoid sudden acceleration and camera roll
-- Avoid clipping through the wings, tail, terrain or body
-- Use a natural perspective lens without strong wide-angle distortion
-- Keep depth of field subtle enough that the dragon remains readable
-- Use restrained motion blur
-
-Before the final render, generate a fast, low-sample 1080p preview of the entire animation. Inspect the complete preview and correct bad framing, camera collisions, awkward silhouettes, obstructed views, abrupt motion, shading defects and visible geometry intersections.
-
-FINAL RENDER
-
-After completing the critic loops and approving the animation preview:
-
-- Render the final animation at 1920 × 1080.
-- Use Cycles with GPU acceleration when available.
-- Render at 30 fps for exactly 300 frames.
-- Use adaptive sampling and denoising.
-- Render to individual image frames first so an interrupted render can be resumed.
-- Use 16-bit PNG or OpenEXR for the master frames.
-- Assemble the rendered frames into a high-quality H.264 MP4.
-- Do not use AI frame interpolation.
-- Retain the individual frames after assembling the video.
-
-DELIVERABLES
-
-Provide:
-
-1. Final editable `.blend` file
-2. All reproducible `bpy` scripts
-3. README with rebuild and rendering instructions
-4. Reference-analysis and assumptions report
-5. Matched-view reference comparisons
-6. Before-and-after critic-loop comparisons
-7. High-quality still renders of the complete dragon and important details
-8. Complete 300-frame image sequence
-9. Final 10-second 1080p H.264 video
-10. Geometry and material validation report
-11. A manifest identifying any permitted external environment resources and their licenses
-
-SUCCESS CRITERIA
-
-Success means:
-
-- The result is recognizably the same dragon as the reference.
-- Its anatomy remains coherent from every angle.
-- The head, horns, amber eyes, wings, dorsal spines and dark layered scales closely match the reference.
-- The dragon is fully three-dimensional and editable.
-- Major and medium details are modeled rather than faked.
-- Materials respond naturally as the camera moves.
-- There are no obvious intersections, floating scales, duplicated anatomy or broken normals.
-- It resembles a photographed physical creature rather than a toy, sculpture, generic procedural model or ordinary game asset.
-- The camera movement is smooth, cinematic and exactly 10 seconds long.
-
-Work autonomously through these stages. Begin with reference analysis and the anatomical blockout. If you encounter a major ambiguity that cannot be resolved from the reference, make the most anatomically plausible choice, document the assumption and continue.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/gpt-6-astra-2096335588727349434) · [Bài đăng gốc](https://x.com/doomdave/status/2096335588727349434) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="warcraft-inspired-character-scene-in-unity-2096308567863079420"></a>
-
-### Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity
-
-[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · GPT-6 Astra · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/5d7b5f942c0c75a7fd99b056ed2c49ea92c1d2fc8698a81f2801c498007225f0.webp" width="840" loading="lazy" alt="Cảnh nhân vật lấy cảm hứng từ Warcraft trong Unity"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Dựng một cảnh nhân vật lấy cảm hứng từ Warcraft bằng Astra, Tripo P2, Blender và Unity. Tạo mô hình nhân vật, chuẩn bị mô hình trong Blender rồi lắp ghép thành một cảnh có thể chơi được trong Unity.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Bài đăng gốc](https://x.com/luccacerf/status/2096308567863079420) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"></a>
-
-### Quảng trường Terreiro do Paço tại Lisbon trong Blender
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/77c44cd1909ca3d2ae1490936c946ba70a47c04e188bca6215192fae95c7c19c.webp" width="840" loading="lazy" alt="Quảng trường Terreiro do Paço tại Lisbon trong Blender"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái hiện Terreiro do Paço tại Lisbon dưới dạng cảnh Blender có thể chỉnh sửa. Nghiên cứu tư liệu tham khảo để định hướng kiến trúc, vật liệu và ánh sáng của quảng trường.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Bài đăng gốc](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="bioluminescent-deep-sea-landing-page-2096269057544831175"></a>
-
-### Trang đích biển sâu với ánh sáng sinh học
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Tương tác
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/e31de617c90349dcbe141c72fcea15ae67e789783549740c6c7904254caebcea.webp" width="840" loading="lazy" alt="Trang đích biển sâu với ánh sáng sinh học"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Xây dựng trang đích biển sâu với hiệu ứng nước Three.js, giao diện kính tối màu và chuyển động theo thao tác cuộn. Kết hợp bầu không khí 3D với tương tác website rõ ràng, thích ứng với các kích thước màn hình.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Bài đăng gốc](https://x.com/himanshubuildss/status/2096269057544831175) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="dense-procedural-forest-in-three-js-2096263046918197609"></a>
-
-### Khu rừng rậm tạo bằng thuật toán trong Three.js
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · GPT-6 Astra · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/8b0fa0d915619e050c9da1c6daefd6e18ca80d78222a90660a4e7883a0d93845.webp" width="840" loading="lazy" alt="Khu rừng rậm tạo bằng thuật toán trong Three.js"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo một khu rừng Three.js chi tiết với hàng nghìn cây, cỏ dày và dương xỉ. Dùng shader tùy chỉnh và cơ chế lặp hình học hiệu quả để giữ độ chi tiết trên toàn cảnh.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Bài đăng gốc](https://x.com/LexnLin/status/2096263046918197609) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="cluj-napoca-union-square-in-voxels-2096262733259837681"></a>
-
-### Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/930e422109c34a8f6e093f607165323b5b2f6cf472796fd6495b09f195deab7e.webp" width="840" loading="lazy" alt="Quảng trường Thống Nhất ở Cluj-Napoca bằng voxel"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tạo thế giới voxel tương tác tái hiện Piața Unirii ở Cluj-Napoca. Chuyển bố cục đặc trưng và các địa danh của quảng trường thành mô hình thu nhỏ có thể khám phá.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Bài đăng gốc](https://x.com/danmana/status/2096262733259837681) · [Mã nguồn](https://github.com/danmana/piata-unirii) · [Bản demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="browser-racing-physics-in-c-and-wasm-2096258619574513880"></a>
-
-### Vật lý đua xe trình duyệt bằng C# và WASM
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05 · GPT-6 Astra · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/50ecc7179fa30fbd26b46fa5f2b6d8cb48fe689c5c08a58a1008ad3f5bb57e3a.webp" width="840" loading="lazy" alt="Vật lý đua xe trình duyệt bằng C# và WASM"></a>
-
-*Hướng dẫn dựng dựa trên tác phẩm được liên kết*
-
-**Prompt**
-
-```text
-Tái tạo hệ vật lý đua xe kiểu Trackmania bằng C#, chạy qua WASM và render đường đua trong Three.js. Dùng mesh đường đua có va chạm và kiểm tra cảm giác lái.
-```
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Bài đăng gốc](https://x.com/achepta_tm/status/2096258619574513880) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

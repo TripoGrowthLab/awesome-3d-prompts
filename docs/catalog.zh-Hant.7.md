@@ -28,6 +28,14 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [用概念圖驅動 Astra 製作簡易 3D 小遊戲](#astra-3d-2096068401294929940)
+- [The Legend of Astra 遊戲原型](#the-legend-of-astra-game-prototype-2096064140510970318)
+- [Sinclair ZX Spectrum 模擬器](#sinclair-zx-spectrum-simulator-2096062355692048605)
+- [單檢視電鑽重建](#single-view-power-drill-reconstruction-2096059736693305794)
+- [索尼克風格 Godot 遊戲切片](#sonic-inspired-godot-vertical-slice-2096056285896536086)
+- [Zork 轉 3D 動作冒險](#zork-as-a-3d-action-adventure-2096047660662722620)
+- [可關閉橋樑的配送網路](#delivery-network-with-bridge-closures-2096042360513904742)
+- [演化中的 WebGL 生態系統](#evolving-webgl-ecosystem-2096040448477515874)
 - [可探索的泰姬陵](#explorable-taj-mahal-2096035962824335798)
 - [帶演講地球儀的個人 3D 作品集](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
 - [Gogh Strike 多人射擊](#gogh-strike-multiplayer-fps-2096013280519016608)
@@ -70,16 +78,175 @@
 - [Solace 森林別墅從 Brief 到 UE5](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
 - [可駕駛的童年火車沙盤](#driveable-childhood-train-table-2095742344293454148)
 - [叢林神廟與巨型神猴守護者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
-- [平面圖轉完整 3D 漫遊](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
-- [可互動體素鐵路沙盤](#interactive-voxel-railway-table-2095719731860750613)
-- [瓶中鮮活體素帆船](#living-voxel-ship-in-a-bottle-2095699049722581065)
-- [程式化鮮活海洋與風暴模擬](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
-- [一次生成的 Three.js 驚喜遊戲](#one-shot-three-js-surprise-game-2095663498101662198)
-- [Blender 復刻藝術宮](#palace-of-fine-arts-blender-recreation-2095653641164329143)
-- [單提示詞水族館對比任務](#single-aquarium-benchmark-2095650251902239139)
-- [可切換第一與第三人稱的 RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
 
 </details>
+<a id="astra-3d-2096068401294929940"></a>
+
+### 用概念圖驅動 Astra 製作簡易 3D 小遊戲
+
+[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="用概念圖驅動 Astra 製作簡易 3D 小遊戲"></a>
+
+**提示詞**
+
+```text
+悲傷卻美麗的反烏托邦世界，體素／低多邊形風格，雨夜、薄霧、濕地反射、冷藍色環境光搭配暖橙色燈光；光影要盡可能寫實，並呈現電影感
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/astra-3d-2096068401294929940) · [查看原文](https://x.com/ChenshuoAI/status/2096068401294929940) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
+
+### The Legend of Astra 遊戲原型
+
+[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="The Legend of Astra 遊戲原型"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+使用 Blender 準備的場景與 Tripo 資產，在 Unity 中製作 3D 冒險遊戲原型。將角色動畫整合進可遊玩的示範版本。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [查看原文](https://x.com/lofihashbloom/status/2096064140510970318) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
+
+### Sinclair ZX Spectrum 模擬器
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Sinclair ZX Spectrum 模擬器"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將 Sinclair ZX Spectrum 48K 重建為互動式 3D 桌面應用，包含橡膠鍵盤、磁帶機、開機介面、可玩遊戲與 BASIC 程式設計介面。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [查看原文](https://x.com/DeryaTR_/status/2096062355692048605) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
+
+### 單檢視電鑽重建
+
+[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="單檢視電鑽重建"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+根據單張參考圖在 Blender 中重建電鑽，將外殼、握柄、夾頭與控制件做成可編輯幾何體，並從多個角度檢視。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [查看原文](https://x.com/SkyeSharkie/status/2096059736693305794) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
+
+### 索尼克風格 Godot 遊戲切片
+
+[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="索尼克風格 Godot 遊戲切片"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+利用本地和程式化資產在 Godot 中建立精緻索尼克風格 3D 關卡，優先完善慣性、靈敏移動、圓環、迴環、滑軌與連貫熱帶海岸。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [查看原文](https://x.com/AiBattle_/status/2096056285896536086) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
+
+### Zork 轉 3D 動作冒險
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork 轉 3D 動作冒險"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+將經典文字冒險 Zork 製作為 3D 動作冒險，保留故事和謎題，增加戰鬥，並用 Three.js 建立角色和環境。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [查看原文](https://x.com/emollick/status/2096047660662722620) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
+
+### 可關閉橋樑的配送網路
+
+[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="可關閉橋樑的配送網路"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+建置 3D 配送模擬，讓關閉橋樑改變卡車路線，識別無法到達的目的地，並在路線恢復時重新配送。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [查看原文](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
+
+### 演化中的 WebGL 生態系統
+
+[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="演化中的 WebGL 生態系統"></a>
+
+*根據原作品整理的創作說明*
+
+**提示詞**
+
+```text
+在單個 HTML 檔案中用原生 WebGL 和 GLSL 建立 3D 演化生態，讓突變、自然選擇、捕食、能量使用與多細胞結合互相作用。
+```
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [查看原文](https://x.com/yume_arasaki/status/2096040448477515874) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="explorable-taj-mahal-2096035962824335798"></a>
 
 ### 可探索的泰姬陵
@@ -969,166 +1136,6 @@ Build an interactive 3D turbocharger. Separate every working system. Let me rota
 ```
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [查看原文](https://x.com/BuildFastWithAI/status/2095729606066348290) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
-
-### 平面圖轉完整 3D 漫遊
-
-[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="平面圖轉完整 3D 漫遊"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把給定平面圖轉成完整 3D 建築漫遊。尊重房間尺寸與動線，加入門窗、傢俱、材質與燈光，再設計能說明佈局的鏡頭路徑。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [查看原文](https://x.com/aidarosgo3/status/2095725404883476661) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="interactive-voxel-railway-table-2095719731860750613"></a>
-
-### 可互動體素鐵路沙盤
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · 互動
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="可互動體素鐵路沙盤"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-用 Three.js 建置高細節體素鐵路沙盤。允許使用者啟停多列火車、切換軌道、旋轉縮放檢視沙盤、探索微縮城鎮並觸發環境小動畫。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [查看原文](https://x.com/DeryaTR_/status/2095719731860750613) · [線上展示](https://lindenhafen-railway.vercel.app/) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
-
-### 瓶中鮮活體素帆船
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="瓶中鮮活體素帆船"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-建立一艘在玻璃瓶中航行的高細節 17 世紀體素帆船。模擬起伏海浪與船體運動，加入盤旋海鷗、微型港口和珊瑚礁，再製作電影鏡頭與舒緩配樂。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [查看原文](https://x.com/DeryaTR_/status/2095699049722581065) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
-
-### 程式化鮮活海洋與風暴模擬
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="程式化鮮活海洋與風暴模擬"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-把給定單檔案海面風暴生成器擴充套件為完整程式化海洋，加入珊瑚礁、深海、可信天氣、具有湧現行為的動物種群、生態互動，以及可在水面與水下切換的鏡頭。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [查看原文](https://x.com/emollick/status/2095673885605630429) · [專案原始碼](https://github.com/emollick/abyssal-living-deep) · [線上展示](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
-
-### 一次生成的 Three.js 驚喜遊戲
-
-[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="一次生成的 Three.js 驚喜遊戲"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-一次生成一款配得上“Amaze”之名的原創 Three.js 遊戲。選擇一個令人驚訝的視覺機制，在數秒內教會玩家，建置短成長曲線，並以令人滿足的奇觀收尾。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [查看原文](https://x.com/pratt_builds/status/2095663498101662198) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
-
-### Blender 復刻藝術宮
-
-[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Blender 復刻藝術宮"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-在 Blender 中復刻舊金山藝術宮，準確表現穹頂比例、柱廊、瀉湖、植被、風化材質，並加入具有世博時代樂觀氣質的電影燈光。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [查看原文](https://x.com/sharifshameem/status/2095653641164329143) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="single-aquarium-benchmark-2095650251902239139"></a>
-
-### 單提示詞水族館對比任務
-
-[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="單提示詞水族館對比任務"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-根據給定參考圖用一條提示詞建置 3D 水族館遊戲。匹配佈局與氛圍，加入生動魚群行為、水下焦散、環繞控制和適合模型對比的小互動迴圈。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [查看原文](https://x.com/iamtonyzhu/status/2095650251902239139) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
-
-### 可切換第一與第三人稱的 RPG
-
-[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="可切換第一與第三人稱的 RPG"></a>
-
-*根據原作品整理的創作說明*
-
-**提示詞**
-
-```text
-為 Three.js 角色扮演遊戲增加第一和第三人稱鏡頭，切換視角時保持移動與探索連貫。
-```
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [查看原文](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [返回案例導覽](#all-prompts)
 
 ---
 

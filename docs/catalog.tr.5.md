@@ -28,6 +28,14 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Hogwarts 3B sahnesi](#gpt-6-astra-2096907617117540478)
+- [Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma](#gpt-6-astra-2096793432987464010)
+- [Blender MCP ile LEGO minifigür oyun varlığı](#astra-3d-2096766465730847059)
+- [Etkileşimli Akıllı Telefon Patlatılmış Görünümü](#gpt-6-astra-2096685163111694556)
+- [Mini World 3B keşif oyunu](#gpt-6-astra-2096641728497275011)
+- [Blender'da Dönen Dünya Renderı](#gpt-6-astra-2096637194270134742)
+- [Three.js karanlık fantezi aksiyon RPG’si](#gpt-6-astra-2096637091627364531)
+- [Windhaven Kıyı Fantazisi Macera Oyunu](#gpt-6-astra-2096629506047955327)
 - [Kesim Şablonundan Katlanır Kutu Animasyonu](#gpt-6-astra-2096612394281603144)
 - [Three.js ile CS2 oluştur](#gpt-6-astra-2096596888799895855)
 - [Totality Engine: Sinematik Tutulma Katedrali](#totality-engine-cinematic-eclipse-cathedral-2096593372311941143)
@@ -70,16 +78,250 @@
 - [Sesle Senkronize Animasyona Sahip Oynanabilir 3B Ensemble](#gpt-6-astra-2096354461652488562)
 - [Karakter Konseptinden Rig'li 3B Modele ve Çizgi Filme](#gpt-6-astra-2096342420543660277)
 - [Yörüngeleriyle Güneş Sistemi gezgini](#orbital-solar-system-explorer-2096339041679442428)
-- [Eylem odaklı mekaniklere sahip yengeç oyunu](#a-crab-game-with-action-driven-mechanics-2096337879173591171)
-- [Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu](#gpt-6-astra-2096335588727349434)
-- [Unity’de Warcraft esintili karakter sahnesi](#warcraft-inspired-character-scene-in-unity-2096308567863079420)
-- [Lizbon’daki Terreiro do Paço Blender’da](#lisbon-s-terreiro-do-paco-in-blender-2096298425914450021)
-- [Biyolüminesanslı derin deniz açılış sayfası](#bioluminescent-deep-sea-landing-page-2096269057544831175)
-- [Three.js ile yoğun prosedürel orman](#dense-procedural-forest-in-three-js-2096263046918197609)
-- [Voksellerle Cluj-Napoca Birlik Meydanı](#cluj-napoca-union-square-in-voxels-2096262733259837681)
-- [C# ve WASM ile tarayıcı yarış fiziği](#browser-racing-physics-in-c-and-wasm-2096258619574513880)
 
 </details>
+<a id="gpt-6-astra-2096907617117540478"></a>
+
+### Hogwarts 3B sahnesi
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-07 · GPT-6 Astra · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096907617117540478"><img src="../assets/previews/ad8c9932f7985978c33d4f71292294b7c786bdc7612b412e05d49849693e2bec.webp" width="840" loading="lazy" alt="Hogwarts 3B sahnesi"></a>
+
+**İstem**
+
+```text
+Harry Potter’daki Hogwarts Cadılık ve Büyücülük Okulu’nun büyük ölçekli, son derece gerçekçi ve tüm ayrıntıları işlenmiş bir 3B modelini oluşturmak için Headless Blender kullanın. Çevredeki doğal ortamı, ikonik yapıları, aslına uygun iç mekânları ve objeleri dâhil edin. Gizemli bir atmosfer ve dinamik, sürüklenen sisle birlikte sinema kalitesinde materyaller, aydınlatma, render ve ses tasarımı sunun. Kullanıcıların ortamı özgürce keşfetmesine olanak tanıyın ve aydınlatma ile diğer görsel seçenekler için değiştirilebilir ayarlar sağlayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Use Headless Blender to create a large-scale, highly realistic, fully detailed 3D model of Hogwarts School of Witchcraft and Wizardry from Harry Potter. Include the surrounding natural environment, iconic landmarks, authentic interior locations, and props. Deliver cinematic-quality materials, lighting, rendering, and sound design, with a mysterious atmosphere and dynamic drifting fog. Allow users to freely explore the environment and provide switchable settings for lighting and other visual options.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096907617117540478) · [Orijinal gönderi](https://x.com/HiltonMisia/status/2096907617117540478) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096793432987464010"></a>
+
+### Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma
+
+[码农暖爸](https://x.com/Delroy715) · 2026-09-07 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096793432987464010"><img src="../assets/previews/217e7f138425f345756216195ae8b9c4870e4dc9a3bcd9671d7ef73fde3760a0.webp" width="840" loading="lazy" alt="Three.js ve WebGPU ile etkileşimli yumuşak gövdeli slime oluşturma"></a>
+
+**İstem**
+
+```text
+Yeni bir dizin oluştur ve tarayıcıda oynanabilen tek sayfalık bir slime uygulaması hazırla. Three.js ve WebGPU kullan; WebGL ile idare etme.
+Ortada yuvarlak, tombul bir slime olsun. Pembe veya turkuaz olabilir; yarı saydam görünsün ve içinde belli belirsiz baloncuklar bulunsun. Fareyle üzerine basıp sürükleyebileyim; bıraktığımda sallanarak eski şeklini bulsun. Biraz yerçekimi olsun ve görünmez bir masa yüzeyine hafifçe çarpabilsin. Sert bir küre gibi görünmesin; yumuşak ve esnek bir his versin.
+Yüzünü sevimli yap: iki siyah nokta göz ve küçük bir ağız ekle. Bunlar yüzeyle birlikte sıkışmalı; gözleri gövdeden ayrı nesneler olarak yapma. Sağ tarafa renk, sertlik ve sönümleme için birkaç basit kontrol ekle. “Bir kez dürt” düğmesine basınca slime bir kez zıplasın.
+Sayfa sade olsun; açık gri bir arka plan ve büyük puntolu bir başlık kullan. 60 kare/saniye hızında çalışabilsin. Önce hedef görünümü gösteren bir görsel oluştur, ardından uygulamayı bu görsele göre kur. Ekran görüntüsü görsele yeterince benzediğinde ayrıntıları eklemeye devam et.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+新建一个目录，做一页能在浏览器里玩的史莱姆。用 Three.js 和 WebGPU，不要用 WebGL 凑合。
+中间一团圆滚滚的史莱姆，粉色或青绿都可以，半透明，里面隐约有气泡。能用鼠标按下去、拖着走，松手会晃着复原，有一点重力，可以轻轻砸在看不见的桌面上。不要做成硬球，要有软肉的感觉。
+可爱点放在脸上：两只黑豆眼和一小张嘴，跟着表面一起挤，不要眼睛和身体分开。右边做几个简单控制：颜色、软硬、阻尼。按钮「戳一下」会让它弹一下。
+页面干净，浅灰底，标题用大字。要能 60 帧。先出一张目标效果图，再按这张图搭，截图像了再往下加细节。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096793432987464010) · [Orijinal gönderi](https://x.com/Delroy715/status/2096793432987464010) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="astra-3d-2096766465730847059"></a>
+
+### Blender MCP ile LEGO minifigür oyun varlığı
+
+[Simon Smith](https://x.com/_simonsmith) · 2026-09-07 · GPT-6 Astra · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/astra-3d-2096766465730847059"><img src="../assets/previews/951a3078e1fcedf0cb7e55a906dd37271ec8e7e1ac96fa2a552271b8566a040b.webp" width="840" loading="lazy" alt="Blender MCP ile LEGO minifigür oyun varlığı"></a>
+
+**İstem**
+
+```text
+Blender MCP'yi kullanarak oyunda varlık olarak kullanabileceğim bir Donald Trump LEGO minifigürü oluştur. Kaliteyi olağanüstü, AAA düzeyinde tut; modelin ayrıntılı, doğru ve kusursuz olduğundan emin olmak için çalışmanı titizlikle test et.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/astra-3d-2096766465730847059) · [Orijinal gönderi](https://x.com/_simonsmith/status/2096766465730847059) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096685163111694556"></a>
+
+### Etkileşimli Akıllı Telefon Patlatılmış Görünümü
+
+[Zaira Laraib](https://x.com/zairalaraib_) · 2026-09-06 · GPT-6 Astra · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096685163111694556"><img src="../assets/previews/aa1edc6848f7269c0b89f1fa180091c4df0008f5875083eadb83a4de7e7cef81.webp" width="840" loading="lazy" alt="Etkileşimli Akıllı Telefon Patlatılmış Görünümü"></a>
+
+**İstem**
+
+```text
+Modern bir akıllı telefonun etkileşimli 3B patlatılmış görünüm görselleştirmesini oluşturun. Cihazı ana bileşenlerine ayırın ve bir kaydırıcıyla parçaları ayırıp yeniden birleştirmeme izin verin. Bir bileşene tıklandığında o bileşen izole edilmeli ve ne işe yaradığı açıklanmalıdır. Bataryayı, kameraları, SoC'yi, belleği, ekran katmanlarını, hoparlörleri, sensörleri, antenleri ve mantık kartını dahil edin. Apple tarzı, estetik bir arayüzü ve tatmin edici etkileşimleri önceliklendirin. Deneyimin tamamını oluşturun, çalıştırın, inceleyin ve hataları giderin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build an interactive 3D exploded-view visualization of a modern smartphone. Separate the device into its major components and let me explode/reassemble it with a slider. Clicking a component should isolate it and explain what it does. Include the battery, cameras, SoC, memory, display layers, speakers, sensors, antennas and logic board. Prioritize a beautiful Apple-like interface and satisfying interactions. Build, run, inspect and fix the complete experience.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096685163111694556) · [Orijinal gönderi](https://x.com/zairalaraib_/status/2096685163111694556) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096641728497275011"></a>
+
+### Mini World 3B keşif oyunu
+
+[Weijian Zhang](https://x.com/weijianzhang_) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096641728497275011"><img src="../assets/previews/8bc7c5ea0af2ec392415e9e61a711616ef921f68c3d23b8c0f2e9b8e9cf5aaec.webp" width="840" loading="lazy" alt="Mini World 3B keşif oyunu"></a>
+
+**İstem**
+
+```text
+Mini World adında bir oyun oluşturalım. Bu oyun, dört buçuk yaşındaki oğlum için eğlenceli ve kolay oynanabilecek şekilde tasarlanmış, güzel ve yüksek kaliteli bir grafik arayüze sahip 3B dünya keşif oyunu olsun. Dünyayı yakınlaştırıp uzaklaştırabilmelisin. Uzaktan bakıldığında dünya küçük bir top gibi görünmeli; ancak içinde keşfedilecek farklı bölgeler bulunmalı. Bir bölge orman, başka bir bölge çöl gibi görünebilir. Ayrıca karakterin içinde yüzebileceği okyanuslar da olmalı. Oyun eğlenceli ve oynanabilir hissettirmeli; karakter dünyanın farklı bölgelerinde dolaşabilmeli, çeşitli ortamları keşfedebilmeli ve yol boyunca yeni şeyler bulabilmeli. Lütfen bu oyunun düzgün çalışmasını ana hedef olarak ele al. Hareket, yakınlaştırma ve uzaklaştırma, keşif, yüzme, ortamlar, kontroller ve genel deneyim birbiriyle sorunsuz çalışana kadar oyunu yinelemeli olarak test edip geliştirmeye devam et. Her şey güvenilir biçimde çalışana ve oyun küçük bir çocuk için özenle hazırlanmış, sezgisel ve keyifli bir deneyim sunana kadar test etmeyi ve iyileştirmeyi sürdür.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096641728497275011) · [Orijinal gönderi](https://x.com/weijianzhang_/status/2096641728497275011) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096637194270134742"></a>
+
+### Blender'da Dönen Dünya Renderı
+
+[John Kler](https://x.com/JohnKlerAI) · 2026-09-06 · GPT-6 Astra · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637194270134742"><img src="../assets/previews/4e36becd0acfbe6417e81f1d9ceb9539e144a469841a75319c04410310357f90.webp" width="840" loading="lazy" alt="Blender'da Dönen Dünya Renderı"></a>
+
+**İstem**
+
+```text
+Blender'da, uzaydan görülen, dönen Dünya'nın etkileyici 5 saniyelik bir renderını oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+in Blender, make a gorgeous 5 second render of a rotating earth, viewed from space.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637194270134742) · [Orijinal gönderi](https://x.com/JohnKlerAI/status/2096637194270134742) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096637091627364531"></a>
+
+### Three.js karanlık fantezi aksiyon RPG’si
+
+[Prompt Case](https://x.com/HiltonMisia) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637091627364531"><img src="../assets/previews/307bb589a504d2f10512d2a8500ba787a791484eb986734eb53486793f522dbd.webp" width="840" loading="lazy" alt="Three.js karanlık fantezi aksiyon RPG’si"></a>
+
+**İstem**
+
+```text
+Three.js kullanarak sıfırdan, cilalı ve tamamen oynanabilir bir 3B karanlık fantezi aksiyon RPG’si oluştur.
+
+Üstten, açılı bir takip kamerası kullan. Oyun dünyası; yıkık kuleleri, revakları, yosun kaplı taş köprüleri, inişli çıkışlı tepeleri, dereleri, şelaleleri ve kamp ateşlerini barındıran, orman tarafından geri alınmış görkemli bir Gotik tapınak olsun. Gerçekçi malzemeler, sinematik aydınlatma, hafif sis, rüzgârda savrulan bitkiler ve akan suyla zengin katmanlı bir atmosfer oluştur.
+
+Baş karakter, özenle işlenmiş çelik ve altın ağır zırh giyen; dalgalanan bir pelerin taşıyan, parlayan rünlü kılıç ve kalkana sahip güçlü bir şövalye olsun. Karakter hareket edebilmeli, kılıç savurabilmeli, yuvarlanabilmeli, blok yapabilmeli, iyileşebilmeli ve devasa büyü çemberleri, ışık huzmeleri ve yıldırım efektleri içeren büyüler kullanabilmeli. Oyuncu muhafızları yendikten sonra dev, boynuzlu bir şövalye boss’uyla karşılaşmalı.
+
+Saldırı animasyonları, görsel efektler ve vuruş yönleri karakterin baktığı yönle tamamen uyumlu olmalı. Cilalı bir Geleneksel Çince HUD, karakter ekipman ekranı ve eksiksiz zafer, yenilgi ve yeniden başlatma akışları ekle.
+
+Modelleme, varlık oluşturma veya edinme, programlama ve performans optimizasyonunu bağımsız olarak ele al. AAA düzeyinde görsel kalite hedefle. Tamamen oynanabilir bir oyun, çalıştırma talimatları ve kaynak kodunu teslim edene kadar oyunu sürekli olarak test et, görselleri incele ve sorunları düzelt.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Using Three.js, create a polished, fully playable 3D dark-fantasy action RPG from scratch.
+
+Use a top-down angled follow camera. The setting is a grand Gothic sanctuary reclaimed by forest, featuring ruined towers, arcades, moss-covered stone bridges, rolling hills, streams, waterfalls, and campfires. Create a richly layered atmosphere through realistic materials, cinematic lighting, light mist, wind-swept vegetation, and flowing water.
+
+The protagonist is a powerful knight wearing intricately crafted steel-and-gold heavy armor, with a flowing cape and a glowing rune sword and shield. The character must be able to move, slash, roll, block, heal, and cast magic featuring massive magic circles, beams of light, and lightning effects. After defeating the guards, the player must face a giant antlered knight boss.
+
+Attack animations, visual effects, and hit directions must all match the character’s facing direction. Include a polished Traditional Chinese HUD, a character equipment display, and complete victory, defeat, and restart flows.
+
+Handle the modeling, asset creation or acquisition, programming, and performance optimization independently. Aim for AAA-level visual polish. Continuously playtest the game, inspect the visuals, and fix issues until delivering a complete playable game, launch instructions, and the source code.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096637091627364531) · [Orijinal gönderi](https://x.com/HiltonMisia/status/2096637091627364531) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2096629506047955327"></a>
+
+### Windhaven Kıyı Fantazisi Macera Oyunu
+
+[Tripo](https://x.com/tripoai) · 2026-09-06 · GPT-6 Astra · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096629506047955327"><img src="../assets/previews/047dea300407230497bf6246eb64c09b06ae8ba52f2deccc99c47d7629b79d01.webp" width="840" loading="lazy" alt="Windhaven Kıyı Fantazisi Macera Oyunu"></a>
+
+**İstem**
+
+```text
+Benimle bir oyun tasarla. Oyun Unity'de geliştirilmeli. Önce varsayılan varlıkları kullan; varlıkları daha sonra değiştireceğim.
+Oyun stili:
+Windhaven adlı, güneş ışığı alan küçük bir ada şehrinde geçen, üst düzey stilize bir kıyı fantazisi macera oyunu. Şehir sıcak fildişi renkli kireç taşı ve altın sarısı kum taşından inşa edilmiştir; berrak turkuaz sularla çevrilidir. Şehirde teal tonlarında bakır çatılar, gölgelikli pazar tezgâhları, kemerli geçitler, yemyeşil avlu ağaçları, oyma çeşmeler, parlayan büyülü işaret fenerleri ve kasabaya tepeden bakan anıtsal bir tapınak bulunur. Seyahat pelerini ve sırt çantası taşıyan genç, yalnız bir kaşif merkezi meydandan geçerek tapınağa doğru yürür. Ortam huzurlu, gizemli, kadim ve hafifçe büyülü bir his vermeli; mimaride Akdeniz ve Kuzey Afrika etkileri bulunmalı. Yüksek ayrıntı düzeyine sahip stilize PBR malzemeler, el işçiliğini andıran taş yüzeyler, hafif yıpranma izleri, zarif dekoratif oymalar, yumuşak öğleden sonra güneşi, uzun sinematik gölgeler, turkuaz ve sıcak altın renk paleti, özenli AA macera oyunu sanat yönetimi, üçüncü şahıs oynanış kamerası, geniş çevreyi tanıtan plan, bütünlüklü çevre tasarımı, görsel olarak kolayca ayırt edilebilen yollar ve önemli yapılar; kullanıcı arayüzü, metin, logo veya modern nesne bulunmasın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Design a game with me. The game should be built in Unity. Use default asset first and I will replace assets later.
+Game style:
+A premium stylized coastal fantasy adventure game set in a small sunlit island city called Windhaven. The city is built from warm ivory limestone and golden sandstone, surrounded by clear turquoise water, with teal copper roofs, shaded market stalls, arched gateways, lush courtyard trees, carved fountains, glowing magical beacons, and a monumental temple overlooking the town. A lone young explorer wearing a travel cloak and backpack walks through the central plaza toward the temple. The environment feels peaceful, mysterious, ancient, and gently magical, with Mediterranean and North African architectural influences. High-detail stylized PBR materials, handcrafted stone surfaces, subtle weathering, elegant decorative carvings, soft afternoon sunlight, long cinematic shadows, turquoise and warm gold color palette, polished AA adventure game art direction, third-person gameplay camera, wide establishing shot, cohesive environment design, visually readable paths and landmarks, no UI, no text, no logos, no modern objects.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096629506047955327) · [Orijinal gönderi](https://x.com/tripoai/status/2096629506047955327) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2096612394281603144"></a>
 
 ### Kesim Şablonundan Katlanır Kutu Animasyonu
@@ -1227,573 +1469,6 @@ Three.js ile tarayıcıda çalışan, sekiz gezegen ve yirmi uydu içeren bir G�
 ```
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/orbital-solar-system-explorer-2096339041679442428) · [Orijinal gönderi](https://x.com/dzhohola/status/2096339041679442428) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="a-crab-game-with-action-driven-mechanics-2096337879173591171"></a>
-
-### Eylem odaklı mekaniklere sahip yengeç oyunu
-
-[ZEUS⚡️](https://x.com/zeuuss_01) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171"><img src="../assets/previews/c1f5f1674d05a9bfec5c5e37024796a6e28d0cafb8e35148b01d3865c6b48c46.webp" width="840" loading="lazy" alt="Eylem odaklı mekaniklere sahip yengeç oyunu"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Görünüm, karakter, dünya, eylemler, hedefler, arayüz ve kamerayı kapsayan yapılandırılmış bir brief’ten Three.js yengeç oyunu oluşturun. Geçen yengece doğru paraların yükselip uçmasını sağlayın; çelişkili gereksinimleri belirtin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/a-crab-game-with-action-driven-mechanics-2096337879173591171) · [Orijinal gönderi](https://x.com/zeuuss_01/status/2096337879173591171) · [Canlı demo](https://beach-crab-game.netlify.app/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2096335588727349434"></a>
-
-### Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu
-
-[Sarang Borude](https://x.com/doomdave) · 2026-09-05 · GPT-6 Astra · Varlıklar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096335588727349434"><img src="../assets/previews/e7c2fd347fd31e7e2c69be456ec1b437cd5cff2616cdf2a474f0c189d02af149.webp" width="840" loading="lazy" alt="Blender’da Fotogerçekçi, Düzenlenebilir Ejderha Rekonstrüksiyonu"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/4d0bd23e-3879-4052-9e83-5c70656c5dc5.jpg) · [2](https://pbs.twimg.com/media/HReuaRUacAAtOFF.jpg)
-
-**İstem**
-
-```text
-Ekli referans paftasında gösterilen ejderhanın fotogerçekçi ve tamamen düzenlenebilir 3B rekonstrüksiyonunu Blender içinde oluştur.
-
-Ejderhayı tek ve tutarlı, anatomik açıdan inandırıcı bir varlık olarak yeniden oluşturmak için yan, ön, üst, arka görünümler; baş açıları; baş yakın planı; göz yakın planı; pul ve kanat ayrıntısı dahil sağlanan tüm görünümleri kullan.
-
-Özellikle şu özelliklerde referansla mümkün olduğunca yakından eşleş:
-
-- Genel vücut oranları ve silüet
-- Uzun, kaslı boyun ve incelen kuyruk
-- Dört bacak ve iki büyük yarasa kanadı
-- Baş ve çene biçimi
-- Boynuzların sayısı, biçimi ve konumu
-- Boyun, sırt ve kuyruk boyunca uzanan sırt dikenleri
-- Koyu kömür siyahı ve toprak kahverengisi pul desenleri
-- Katmanlı, zırh benzeri pullar
-- Dikey göz bebekli altın kehribar gözler
-- Pençeler, dişler ve kanat zarları
-- Kadim, gerçekçi ve tehditkâr görünüm
-
-Referans panellerinde küçük tutarsızlıklar bulunabilir. Ejderhanın görsel kimliğini korurken bunları fiziksel açıdan tutarlı ve simetrik bir temel yaratıkta uzlaştır. Genel oranlar için yan görünümü, genişlik ve duruş için ön görünümü, kanatlar ve kuyruk için üst ve arka görünümleri; baş, gözler, pullar ve kanat materyalleri için yakın planları kullan.
-
-Ejderhayı sıfırdan, gerçekten düzenlenebilir Blender geometrisi olarak oluştur. Mevcut bir ejderha modeli indirme veya içe aktarma. Geometri yerine billboard, 2B projeksiyon, derinlik haritası illüzyonu ya da oluşturulmuş video kullanma.
-
-Birincil oluşturma yöntemi olarak modüler Blender Python (`bpy`) betikleri ile Blender’ın arka plan/headless modunda çalıştırılabilir dosyasını kullan. Betikleri yeniden üretilebilir tut ve `.blend` dosyasının başarılı sürümlerini koru. Görsel inceleme yararlı olduğunda Blender sahnesini açıp incelemek için computer use kullan. Blender MCP sunucusu kurma veya ona güvenme.
-
-MODELLEME YAKLAŞIMI
-
-Ayrıntı eklemeden önce anatomik bir bloklama ile başla. Şunları oluştur:
-
-- Kafatası, çene ve göz çukurları
-- Boyun, göğüs, göğüs kafesi ve pelvis
-- Anatomik açıdan inandırıcı dört bacak
-- Ayrı parmaklar ve kıvrımlı pençeler
-- Gövdeye entegre kanat omuzları
-- Eklemli kanat kolları ve parmak kemikleri
-- Doğru biçimde bağlanmış kanat zarları
-- Pelvisten doğal biçimde devam eden uzun kuyruk
-- Ana boynuzlar ve sırt dikenleri
-
-Fazladan uzuvlardan, yinelenen boynuzlardan, bağlantısız zarlardan, bozuk eklemlerden, havada duran pullardan, kesişmelerden, kâğıt inceliğindeki formlardan, istemsiz asimetriden ve oyuncak benzeri oranlardan kaçın.
-
-Bloklamayı doğruladıktan sonra ikincil ve üçüncül ayrıntıları ekle:
-
-- Katmanlı göğüs ve boyun plakaları
-- Anatomi boyunca yönü takip eden pullar
-- Kaş çıkıntıları ve göz kapakları
-- Gerçek burun delikleri
-- Ağız içi, diş etleri ve tek tek dişler
-- Boynuz çıkıntıları, kırıklar ve aşınmış uçlar
-- Bacak zırhı ve eklem plakaları
-- Kanat tendonları, kıvrımları, damarları ve ölçülü yara izleri
-- Kuyruk boyunca devam eden sırt dikenleri
-- İnce, doğal asimetri
-
-Boynuzlar, pençeler, dişler, büyük pullar, sırt dikenleri, kanat parmakları ve önemli zar kıvrımları dahil olmak üzere silüeti etkileyen her şey için geometri kullan. Mikro ayrıntılar için yalnızca normal haritaları, bump veya ölçülü displacement kullan.
-
-MATERYALLER
-
-Fiziksel tabanlı, fotogerçekçi materyaller oluştur.
-
-Pullar ağırlıklı olarak kömür siyahı olmalı; ince grafit ve toprak kahverengisi varyasyonları içermeli. Ölçülü renk, pürüzlülük ve mikro-normal varyasyonu ekle. Yükseltilmiş pullar, girintili deri ve zırh plakaları ışığı farklı biçimde yansıtmalı. Tekdüze plastik parlaklıktan ve ayrım gözetmeyen prosedürel gürültüden kaçın.
-
-Kanat zarları, hava koşullarına maruz kalmış sürüngen derisi gibi görünmeli. Destekleyici kemikler arasında daha ince, eklemlere ve ön kenarlara yakın bölgelerde daha kalın görünmeli. Kumaş, kauçuk veya kâğıdı andırmadan ince damarlar, kıvrımlar, gerilim, yara izleri, yarı saydamlık ve renk varyasyonu ekle.
-
-Koyu tabanlara, daha açık aşınmış uçlara, uzunlamasına çıkıntılara ve hafif hasarlara sahip keratin benzeri boynuzlar ve pençeler oluştur.
-
-Gözlerde şunlar bulunmalı:
-
-- Altın kehribar ir setleri
-- Dikey siyah göz bebekleri
-- Ayrıntılı iris yapıları
-- Koyu limbik bölgeler
-- Gerçek üç boyutlu göz küreleri
-- Gerçekçi göz kapakları
-- Islak kornea parlamaları
-- Göz kapağı kenarlarında hafif nem
-
-Gözleri emissive veya yapay biçimde parlayan unsurlara dönüştürme.
-
-AYDINLATMA VE ÇEVRE
-
-Referansa benzer, ölçülü bir sinematik çevre oluştur:
-
-- Koyu renkli kayalık kaide veya dağ çıkıntısı
-- Uzakta atmosferik dağlar
-- Dramatik, kapalı gökyüzü
-- Soğuk ortam aydınlatması
-- Yüzü ve pulları ortaya çıkaran, hafif daha sıcak yönlü ışık
-- Hafif atmosferik sis
-- Dikkat dağıtan yapılar veya ek yaratıklar bulunmamalı
-
-Ejderhayı dengeli ve hâkim bir duruşta konumlandır:
-
-- Baş yukarıda ve tetikte
-- Boyun hafifçe kıvrılmış
-- Kanatlar tamamen veya neredeyse tamamen açılmış
-- Ağırlık dört ayağa da inandırıcı biçimde dağılmış
-- Kuyruk arkada yere dayanıyor veya doğal biçimde kıvrılıyor
-- Ağız kapalı veya hafif aralık
-- Gözler kameraya ya da kameranın hemen ötesine yönelmiş
-
-GÖRSEL DOĞRULAMA
-
-Şunlar için eşleştirilmiş doğrulama kameraları oluştur:
-
-- Yan görünüm
-- Ön görünüm
-- Üst görünüm
-- Arka görünüm
-- Başın sol ve sağ profilleri
-- Üç çeyrek kahraman görünümü
-- Baş yakın planı
-- Göz yakın planı
-- Pul yakın planı
-- Kanat yakın planı
-
-En az üç eleştiri ve düzeltme döngüsü gerçekleştir.
-
-Her döngüde:
-
-1. Her doğrulama kamerasından render al.
-2. Her render’ı karşılık gelen referans paneliyle karşılaştır.
-3. Silüeti, anatomiyi, oranları, başın kimliğini, boynuzları, kanatları, bacakları, ayakları, kuyruğu, pul akışını, materyalleri, simetriyi, kesişmeleri, gölgelendirmeyi ve normalleri değerlendir.
-4. Tutarsızlıkların önem sırasına göre bir listesini oluştur.
-5. Görsel açıdan en önemli sorunları düzelt.
-6. Aynı kameralardan yeniden render al.
-7. Öncesi ve sonrası karşılaştırmalarını koru.
-
-Yalnızca nesneler oluşturuldu diye tamamlandı iddiasında bulunma. Tamamlanma; gerçek render’ların incelenmesini ve görünür sorunların düzeltilmesini gerektirir.
-
-10 SANİYELİK KAMERA ÇEVRİMİ
-
-Tamamlanan ejderhanın şu gereksinimleri karşılayan sinematik bir kamera çevrimini oluştur:
-
-- Tam olarak 10 saniye
-- 1920 × 1080 çözünürlük
-- Saniyede 30 kare
-- Tam olarak 300 kare
-- Kesintisiz, akıcı kamera hareketi
-- Kesme olmamalı
-- Yaklaşık bir tam 360 derecelik yörünge
-- Güçlü bir ön üç çeyrek kompozisyonla başla
-- Yan, arka ve karşı yan boyunca ilerle
-- Açılış karesiyle akıcı biçimde bağlanan bir kompozisyonla bitir
-- Arka ve kanat yapısını göstermek için ölçülü bir yükseklik değişimi ekle
-- Ejderhanın tamamını kadraj içinde tut
-- Baş ve gövdeyi ana görsel odak olarak koru
-- Akıcı Bézier interpolasyonu kullan
-- Ani hızlanmadan ve kamera yuvarlanmasından kaçın
-- Kanatların, kuyruğun, arazinin veya gövdenin içinden geçecek şekilde kırpmadan kaçın
-- Güçlü geniş açı bozulması yaratmayan doğal perspektifli bir lens kullan
-- Alan derinliğini, ejderhanın okunabilir kalacağı kadar ölçülü tut
-- Ölçülü hareket bulanıklığı kullan
-
-Final render’dan önce tüm animasyonun hızlı ve düşük örneklemeli bir 1080p önizlemesini oluştur. Önizlemenin tamamını incele; kötü kadrajı, kamera çarpışmalarını, tuhaf silüetleri, engellenen görünümleri, ani hareketleri, gölgelendirme kusurlarını ve görünür geometri kesişmelerini düzelt.
-
-FİNAL RENDER
-
-Eleştiri döngülerini tamamlayıp animasyon önizlemesini onayladıktan sonra:
-
-- Final animasyonu 1920 × 1080 çözünürlükte render al.
-- Kullanılabilir olduğunda GPU hızlandırmalı Cycles kullan.
-- Tam olarak 300 kareyi 30 fps ile render al.
-- Uyarlamalı örnekleme ve gürültü azaltma kullan.
-- Kesintiye uğrayan render’ın sürdürülebilmesi için önce tek tek görüntü karelerine render al.
-- Ana kareler için 16 bit PNG veya OpenEXR kullan.
-- Render alınan kareleri yüksek kaliteli bir H.264 MP4 dosyasında birleştir.
-- Yapay zekâ ile kare enterpolasyonu kullanma.
-- Videoyu oluşturduktan sonra tek tek kareleri koru.
-
-TESLİMATLAR
-
-Şunları sağla:
-
-1. Final düzenlenebilir `.blend` dosyası
-2. Yeniden üretilebilir tüm `bpy` betikleri
-3. Yeniden oluşturma ve render alma talimatlarını içeren README
-4. Referans analizi ve varsayımlar raporu
-5. Eşleştirilmiş görünüm referans karşılaştırmaları
-6. Eleştiri döngülerinin öncesi ve sonrası karşılaştırmaları
-7. Tam ejderhanın ve önemli ayrıntıların yüksek kaliteli sabit render’ları
-8. Eksiksiz 300 karelik görüntü dizisi
-9. Final 10 saniyelik 1080p H.264 video
-10. Geometri ve materyal doğrulama raporu
-11. İzin verilen harici çevre kaynaklarını ve lisanslarını belirten bir manifest
-
-BAŞARI ÖLÇÜTLERİ
-
-Başarı şu anlama gelir:
-
-- Sonuç, referanstaki ejderhayla tanınabilir biçimde aynı ejderhadır.
-- Anatomisi her açıdan tutarlı kalır.
-- Baş, boynuzlar, kehribar gözler, kanatlar, sırt dikenleri ve koyu katmanlı pullar referansla yakından eşleşir.
-- Ejderha tamamen üç boyutlu ve düzenlenebilirdir.
-- Büyük ve orta ölçekli ayrıntılar taklit edilmek yerine modellenmiştir.
-- Materyaller kamera hareket ettikçe doğal tepki verir.
-- Belirgin kesişmeler, havada duran pullar, yinelenen anatomi veya bozuk normaller yoktur.
-- Oyuncaktan, heykelden, genel amaçlı prosedürel modelden veya sıradan bir oyun varlığından ziyade fotoğraflanmış fiziksel bir yaratığı andırır.
-- Kamera hareketi akıcı ve sinematiktir; süresi tam olarak 10 saniyedir.
-
-Bu aşamaları otonom biçimde tamamla. Referans analizi ve anatomik bloklama ile başla. Referanstan çözülemeyecek önemli bir belirsizlikle karşılaşırsan anatomik açıdan en makul seçimi yap, varsayımı belgeleyip devam et.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a photorealistic, fully editable 3D reconstruction of the dragon shown in the attached reference sheet inside Blender.
-
-Use every supplied view—including the side, front, top, back, head angles, head closeup, eye closeup, scale detail and wing detail—to reconstruct one coherent and anatomically believable dragon.
-
-Match the reference as closely as possible, especially:
-
-- Overall body proportions and silhouette
-- Long muscular neck and tapering tail
-- Four legs and two large bat-like wings
-- Head and jaw shape
-- Horn number, shape and placement
-- Dorsal spikes along the neck, back and tail
-- Dark charcoal and earthy-brown scale patterns
-- Layered armor-like scales
-- Golden-amber eyes with vertical pupils
-- Claws, teeth and wing membranes
-- Ancient, realistic and threatening appearance
-
-The reference panels may contain small inconsistencies. Reconcile them into a physically coherent, symmetrical base creature while preserving the dragon’s visual identity. Use the side view for overall proportions, the front view for width and stance, the top and back views for wings and tail, and the closeups for the head, eyes, scales and wing materials.
-
-Build the dragon from scratch as actual editable Blender geometry. Do not download or import an existing dragon model. Do not use billboards, 2D projections, depth-map illusions or generated video in place of geometry.
-
-Use modular Blender Python (`bpy`) scripts and Blender’s executable in background/headless mode as the primary construction method. Keep the scripts reproducible and preserve successful versions of the `.blend` file. Use computer use to open and inspect the Blender scene whenever visual inspection is helpful. Do not install or rely on a Blender MCP server.
-
-MODELING APPROACH
-
-Begin with an anatomical blockout before adding detail. Establish:
-
-- Skull, jaw and eye sockets
-- Neck, chest, rib cage and pelvis
-- Four anatomically convincing legs
-- Separated toes and curved claws
-- Wing shoulders integrated into the torso
-- Articulated wing arms and finger bones
-- Properly connected wing membranes
-- Long tail continuing naturally from the pelvis
-- Primary horns and dorsal spines
-
-Avoid extra limbs, duplicated horns, disconnected membranes, broken joints, floating scales, intersections, paper-thin forms, accidental asymmetry and toy-like proportions.
-
-After validating the blockout, add secondary and tertiary details:
-
-- Layered chest and neck plates
-- Directional scales that follow the anatomy
-- Brow ridges and eyelids
-- Real nostril openings
-- Mouth interior, gums and individual teeth
-- Horn ridges, chips and worn tips
-- Leg armor and knuckle plates
-- Wing tendons, folds, veins and restrained scars
-- Dorsal spikes continuing down the tail
-- Subtle natural asymmetry
-
-Use geometry for anything affecting the silhouette, including horns, claws, teeth, major scales, dorsal spines, wing fingers and important membrane folds. Use normal maps, bump or restrained displacement only for micro-detail.
-
-MATERIALS
-
-Create physically based, photorealistic materials.
-
-The scales should be predominantly charcoal-black with subtle graphite and earthy-brown variation. Add restrained color, roughness and micro-normal variation. Raised scales, recessed skin and armored plates should reflect light differently. Avoid uniform plastic shine and indiscriminate procedural noise.
-
-The wing membranes should look like weathered reptilian leather. They should appear thinner between the supporting bones and thicker near joints and leading edges. Include subtle veins, folds, tension, scars, translucency and color variation without making them resemble cloth, rubber or paper.
-
-Create keratin-like horns and claws with dark bases, lighter worn tips, lengthwise ridges and subtle damage.
-
-The eyes should have:
-
-- Golden-amber irises
-- Vertical black pupils
-- Detailed iris structures
-- Dark limbal regions
-- Proper three-dimensional eyeballs
-- Realistic eyelids
-- Wet corneal highlights
-- Subtle moisture along the eyelid edges
-
-Do not make the eyes emissive or artificially glowing.
-
-LIGHTING AND ENVIRONMENT
-
-Create a restrained cinematic environment similar to the reference:
-
-- Dark rocky pedestal or mountain outcrop
-- Distant atmospheric mountains
-- Dramatic overcast sky
-- Cool ambient illumination
-- Subtle warmer directional light revealing the face and scales
-- Light atmospheric mist
-- No distracting structures or additional creatures
-
-Pose the dragon in a stable, commanding stance:
-
-- Head raised and alert
-- Neck slightly curved
-- Wings fully or nearly fully displayed
-- Weight distributed credibly across all four feet
-- Tail resting or curving naturally behind it
-- Mouth closed or slightly parted
-- Eyes directed toward or just past the camera
-
-VISUAL VERIFICATION
-
-Create matched validation cameras for:
-
-- Side view
-- Front view
-- Top view
-- Back view
-- Left and right head profiles
-- Three-quarter hero view
-- Head closeup
-- Eye closeup
-- Scale closeup
-- Wing closeup
-
-Perform at least three critic-and-correction loops.
-
-During each loop:
-
-1. Render every validation camera.
-2. Compare each render with the corresponding reference panel.
-3. Evaluate silhouette, anatomy, proportions, head identity, horns, wings, legs, feet, tail, scale flow, materials, symmetry, intersections, shading and normals.
-4. Produce a ranked list of discrepancies.
-5. Correct the most visually important problems.
-6. Rerender the same cameras.
-7. Preserve before-and-after comparisons.
-
-Do not claim completion merely because the objects were created. Completion requires inspecting the actual renders and correcting visible problems.
-
-10-SECOND CAMERA FLYAROUND
-
-Create a cinematic camera flyaround of the completed dragon with these requirements:
-
-- Exactly 10 seconds
-- 1920 × 1080 resolution
-- 30 frames per second
-- Exactly 300 frames
-- Smooth continuous camera movement
-- No cuts
-- Approximately one complete 360-degree orbit
-- Start from a strong front three-quarter composition
-- Travel around the side, back and opposite side
-- End in a composition that connects smoothly with the opening frame
-- Add a restrained elevation change to reveal the back and wing construction
-- Keep the complete dragon inside the frame
-- Keep the head and torso as the main visual focus
-- Use smooth Bézier interpolation
-- Avoid sudden acceleration and camera roll
-- Avoid clipping through the wings, tail, terrain or body
-- Use a natural perspective lens without strong wide-angle distortion
-- Keep depth of field subtle enough that the dragon remains readable
-- Use restrained motion blur
-
-Before the final render, generate a fast, low-sample 1080p preview of the entire animation. Inspect the complete preview and correct bad framing, camera collisions, awkward silhouettes, obstructed views, abrupt motion, shading defects and visible geometry intersections.
-
-FINAL RENDER
-
-After completing the critic loops and approving the animation preview:
-
-- Render the final animation at 1920 × 1080.
-- Use Cycles with GPU acceleration when available.
-- Render at 30 fps for exactly 300 frames.
-- Use adaptive sampling and denoising.
-- Render to individual image frames first so an interrupted render can be resumed.
-- Use 16-bit PNG or OpenEXR for the master frames.
-- Assemble the rendered frames into a high-quality H.264 MP4.
-- Do not use AI frame interpolation.
-- Retain the individual frames after assembling the video.
-
-DELIVERABLES
-
-Provide:
-
-1. Final editable `.blend` file
-2. All reproducible `bpy` scripts
-3. README with rebuild and rendering instructions
-4. Reference-analysis and assumptions report
-5. Matched-view reference comparisons
-6. Before-and-after critic-loop comparisons
-7. High-quality still renders of the complete dragon and important details
-8. Complete 300-frame image sequence
-9. Final 10-second 1080p H.264 video
-10. Geometry and material validation report
-11. A manifest identifying any permitted external environment resources and their licenses
-
-SUCCESS CRITERIA
-
-Success means:
-
-- The result is recognizably the same dragon as the reference.
-- Its anatomy remains coherent from every angle.
-- The head, horns, amber eyes, wings, dorsal spines and dark layered scales closely match the reference.
-- The dragon is fully three-dimensional and editable.
-- Major and medium details are modeled rather than faked.
-- Materials respond naturally as the camera moves.
-- There are no obvious intersections, floating scales, duplicated anatomy or broken normals.
-- It resembles a photographed physical creature rather than a toy, sculpture, generic procedural model or ordinary game asset.
-- The camera movement is smooth, cinematic and exactly 10 seconds long.
-
-Work autonomously through these stages. Begin with reference analysis and the anatomical blockout. If you encounter a major ambiguity that cannot be resolved from the reference, make the most anatomically plausible choice, document the assumption and continue.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/gpt-6-astra-2096335588727349434) · [Orijinal gönderi](https://x.com/doomdave/status/2096335588727349434) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="warcraft-inspired-character-scene-in-unity-2096308567863079420"></a>
-
-### Unity’de Warcraft esintili karakter sahnesi
-
-[Lucca Cerf ➔ Pluma Finance](https://x.com/luccacerf) · 2026-09-05 · GPT-6 Astra · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420"><img src="../assets/previews/5d7b5f942c0c75a7fd99b056ed2c49ea92c1d2fc8698a81f2801c498007225f0.webp" width="840" loading="lazy" alt="Unity’de Warcraft esintili karakter sahnesi"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Astra, Tripo P2, Blender ve Unity ile Warcraft esintili bir karakter sahnesi oluşturun. Karakter varlığını üretin, Blender’da hazırlayın ve Unity’de oynanabilir bir sahne kurun.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/warcraft-inspired-character-scene-in-unity-2096308567863079420) · [Orijinal gönderi](https://x.com/luccacerf/status/2096308567863079420) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"></a>
-
-### Lizbon’daki Terreiro do Paço Blender’da
-
-[Gonçalo Canhoto 🇵🇹](https://x.com/goncalo_canhoto) · 2026-09-05 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021"><img src="../assets/previews/77c44cd1909ca3d2ae1490936c946ba70a47c04e188bca6215192fae95c7c19c.webp" width="840" loading="lazy" alt="Lizbon’daki Terreiro do Paço Blender’da"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Lizbon’daki Terreiro do Paço’yu düzenlenebilir bir Blender sahnesi olarak yeniden oluşturun. Meydanın mimarisini, malzemelerini ve aydınlatmasını belirlemek için referans araştırması yapın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/lisbon-s-terreiro-do-paco-in-blender-2096298425914450021) · [Orijinal gönderi](https://x.com/goncalo_canhoto/status/2096298425914450021) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="bioluminescent-deep-sea-landing-page-2096269057544831175"></a>
-
-### Biyolüminesanslı derin deniz açılış sayfası
-
-[Himanshu Hingorani](https://x.com/himanshubuildss) · 2026-09-05 · GPT-6 Astra · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175"><img src="../assets/previews/e31de617c90349dcbe141c72fcea15ae67e789783549740c6c7904254caebcea.webp" width="840" loading="lazy" alt="Biyolüminesanslı derin deniz açılış sayfası"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Three.js su efektleri, koyu cam görünümlü arayüz ve kaydırmaya bağlı hareketlerle bir derin deniz açılış sayfası oluşturun. 3D atmosferi, anlaşılır ve farklı ekranlara uyum sağlayan web etkileşimleriyle birleştirin.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/bioluminescent-deep-sea-landing-page-2096269057544831175) · [Orijinal gönderi](https://x.com/himanshubuildss/status/2096269057544831175) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="dense-procedural-forest-in-three-js-2096263046918197609"></a>
-
-### Three.js ile yoğun prosedürel orman
-
-[Leon Lin](https://x.com/LexnLin) · 2026-09-05 · GPT-6 Astra · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609"><img src="../assets/previews/8b0fa0d915619e050c9da1c6daefd6e18ca80d78222a90660a4e7883a0d93845.webp" width="840" loading="lazy" alt="Three.js ile yoğun prosedürel orman"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Binlerce ağaç, sık çimenler ve eğrelti otları içeren ayrıntılı bir Three.js ormanı oluşturun. Sahnenin tamamındaki ayrıntıyı korumak için özel shader’lar ve verimli geometri tekrarı kullanın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/dense-procedural-forest-in-three-js-2096263046918197609) · [Orijinal gönderi](https://x.com/LexnLin/status/2096263046918197609) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="cluj-napoca-union-square-in-voxels-2096262733259837681"></a>
-
-### Voksellerle Cluj-Napoca Birlik Meydanı
-
-[Dan Manastireanu](https://x.com/danmana) · 2026-09-05 · GPT-6 Astra / Claude Fable 5.1 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681"><img src="../assets/previews/930e422109c34a8f6e093f607165323b5b2f6cf472796fd6495b09f195deab7e.webp" width="840" loading="lazy" alt="Voksellerle Cluj-Napoca Birlik Meydanı"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Cluj-Napoca’daki Piața Unirii’nin etkileşimli voksel dünyasını oluşturun. Meydanın tanınabilir yerleşimini ve simge yapılarını keşfedilebilir bir minyatüre uyarlayın.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/cluj-napoca-union-square-in-voxels-2096262733259837681) · [Orijinal gönderi](https://x.com/danmana/status/2096262733259837681) · [Kaynak kodu](https://github.com/danmana/piata-unirii) · [Canlı demo](https://piata-unirii.vercel.app/runs/gpt-astra-xhigh-01/) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="browser-racing-physics-in-c-and-wasm-2096258619574513880"></a>
-
-### C# ve WASM ile tarayıcı yarış fiziği
-
-[achepta](https://x.com/achepta_tm) · 2026-09-05 · GPT-6 Astra · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880"><img src="../assets/previews/50ecc7179fa30fbd26b46fa5f2b6d8cb48fe689c5c08a58a1008ad3f5bb57e3a.webp" width="840" loading="lazy" alt="C# ve WASM ile tarayıcı yarış fiziği"></a>
-
-*Bağlantıdaki çalışmaya dayalı yapım yönergesi*
-
-**İstem**
-
-```text
-Trackmania tarzı yarış fizik sistemini C# ile yeniden oluştur, WASM üzerinden çalıştır ve parkuru Three.js'de render et. Çarpışma destekli pist ağları kullan, araç kontrolünü test et.
-```
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/browser-racing-physics-in-c-and-wasm-2096258619574513880) · [Orijinal gönderi](https://x.com/achepta_tm/status/2096258619574513880) · [Örneklere dön](#all-prompts)
 
 ---
 

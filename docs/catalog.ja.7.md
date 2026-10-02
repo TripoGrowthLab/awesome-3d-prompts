@@ -28,6 +28,14 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [コンセプトアートを起点にAstraでラフな3Dミニゲームを制作](#astra-3d-2096068401294929940)
+- [The Legend of Astraのゲーム試作](#the-legend-of-astra-game-prototype-2096064140510970318)
+- [Sinclair ZX Spectrum シミュレーター](#sinclair-zx-spectrum-simulator-2096062355692048605)
+- [一方向の画像から電動ドリルを再現](#single-view-power-drill-reconstruction-2096059736693305794)
+- [Godot で作る Sonic 風の完成度の高い一ステージ](#sonic-inspired-godot-vertical-slice-2096056285896536086)
+- [Zork を 3D アクションアドベンチャーに](#zork-as-a-3d-action-adventure-2096047660662722620)
+- [橋の通行止めで変わる配送網](#delivery-network-with-bridge-closures-2096042360513904742)
+- [WebGL で進化する生態系](#evolving-webgl-ecosystem-2096040448477515874)
 - [探索できるタージ・マハル](#explorable-taj-mahal-2096035962824335798)
 - [講演活動を地球儀で見せる 3D ポートフォリオ](#personal-3d-portfolio-with-a-speaking-globe-2096023793772998704)
 - [マルチプレイ FPS Gogh Strike](#gogh-strike-multiplayer-fps-2096013280519016608)
@@ -70,16 +78,175 @@
 - [森のヴィラ Solace を構想から UE5 へ](#solace-forest-villa-from-brief-to-ue5-2095752726886105375)
 - [運転できる思い出の鉄道テーブル](#driveable-childhood-train-table-2095742344293454148)
 - [密林の神殿と巨大なヴァーナラの守護者](#jungle-temple-and-giant-vanara-guardian-2095729606066348290)
-- [間取り図から完全な 3D ウォークスルーへ](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
-- [操作できるボクセル鉄道ジオラマ](#interactive-voxel-railway-table-2095719731860750613)
-- [ボトルの中で航海するボクセル帆船](#living-voxel-ship-in-a-bottle-2095699049722581065)
-- [生命と嵐を手続き生成する海洋シミュレーション](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
-- [一度で驚きを生む Three.js ゲーム](#one-shot-three-js-surprise-game-2095663498101662198)
-- [Blender で再現するパレス・オブ・ファイン・アーツ](#palace-of-fine-arts-blender-recreation-2095653641164329143)
-- [一つのプロンプトで比べるアクアリウム制作](#single-aquarium-benchmark-2095650251902239139)
-- [一人称・三人称カメラを備えた RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
 
 </details>
+<a id="astra-3d-2096068401294929940"></a>
+
+### コンセプトアートを起点にAstraでラフな3Dミニゲームを制作
+
+[陈硕KAI（耍门）](https://x.com/ChenshuoAI) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/astra-3d-2096068401294929940"><img src="../assets/previews/1fc9e5f73ff6d0ab1fdd349b47e393191e7b5f980548f831e4ae5768e56fdf1e.webp" width="840" loading="lazy" alt="コンセプトアートを起点にAstraでラフな3Dミニゲームを制作"></a>
+
+**プロンプト**
+
+```text
+悲しくも美しいディストピアの世界。ボクセル／ローポリスタイル、雨の夜、薄い霧、濡れた地面の反射、寒色の青い環境光＋暖かなオレンジ色のライト。ライティングはできるだけリアルで、映画的に。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+悲伤但美丽的反乌托邦世界，体素 / Low Poly 风格，雨夜、薄雾、湿地反射、冷蓝色环境 + 暖橙色灯光，灯光要尽量真实、有电影感
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/astra-3d-2096068401294929940) · [元の投稿](https://x.com/ChenshuoAI/status/2096068401294929940) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="the-legend-of-astra-game-prototype-2096064140510970318"></a>
+
+### The Legend of Astraのゲーム試作
+
+[lofibloom](https://x.com/lofihashbloom) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318"><img src="../assets/previews/233a5df2f46e1d3ef101b7364194066a47b0c3d03ac9891aed64efe3c71e71b3.webp" width="840" loading="lazy" alt="The Legend of Astraのゲーム試作"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Blenderで準備したシーンとTripoアセットを使い、Unityで3Dアドベンチャーゲームの試作を制作してください。プレイ可能なデモにキャラクターアニメーションを組み込んでください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/the-legend-of-astra-game-prototype-2096064140510970318) · [元の投稿](https://x.com/lofihashbloom/status/2096064140510970318) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="sinclair-zx-spectrum-simulator-2096062355692048605"></a>
+
+### Sinclair ZX Spectrum シミュレーター
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-05 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605"><img src="../assets/previews/13043b8c49e3191124bc2edfa36fc998d5f09ad62d4454ed3ae8ef6708dc9660.webp" width="840" loading="lazy" alt="Sinclair ZX Spectrum シミュレーター"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+Sinclair ZX Spectrum 48K を、操作できる 3D デスクトップアプリとして再現してください。ゴム製キーボード、テーププレーヤー、起動画面、遊べるゲーム、BASIC プログラミング画面を含めてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/sinclair-zx-spectrum-simulator-2096062355692048605) · [元の投稿](https://x.com/DeryaTR_/status/2096062355692048605) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="single-view-power-drill-reconstruction-2096059736693305794"></a>
+
+### 一方向の画像から電動ドリルを再現
+
+[Utah teapot 🫖](https://x.com/SkyeSharkie) · 2026-09-05 · GPT-6 Astra · アセット
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794"><img src="../assets/previews/04c997e07103fafa0e09f388461d8f76145d7fa7760bf26350edb5e6cb466175.webp" width="840" loading="lazy" alt="一方向の画像から電動ドリルを再現"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+一方向の参考画像から Blender で電動ドリルを再構築してください。本体、グリップ、チャック、操作部を編集可能な形状として作り、複数の角度から結果を確認してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-view-power-drill-reconstruction-2096059736693305794) · [元の投稿](https://x.com/SkyeSharkie/status/2096059736693305794) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="sonic-inspired-godot-vertical-slice-2096056285896536086"></a>
+
+### Godot で作る Sonic 風の完成度の高い一ステージ
+
+[AiBattle](https://x.com/AiBattle_) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086"><img src="../assets/previews/9ae95e759c038d6ad68633068661159613f1da094532eaff8a7c7476eddf13ff.webp" width="840" loading="lazy" alt="Godot で作る Sonic 風の完成度の高い一ステージ"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+ローカルおよび手続き生成のアセットを使い、Godot で Sonic に着想を得た 3D ステージを磨き上げてください。勢い、反応のよい移動、リング、ループ、グラインドレール、途切れない南国の海岸を優先してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/sonic-inspired-godot-vertical-slice-2096056285896536086) · [元の投稿](https://x.com/AiBattle_/status/2096056285896536086) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="zork-as-a-3d-action-adventure-2096047660662722620"></a>
+
+### Zork を 3D アクションアドベンチャーに
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-05 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620"><img src="../assets/previews/7e62543cba6311e35a1683a9853789a0c917048a213923beba78229f783f6ddf.webp" width="840" loading="lazy" alt="Zork を 3D アクションアドベンチャーに"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+古典的なテキストアドベンチャー Zork を、3D アクションアドベンチャーにしてください。物語と謎解きを保ち、戦闘シーンを加え、キャラクターと環境を Three.js で構築してください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/zork-as-a-3d-action-adventure-2096047660662722620) · [元の投稿](https://x.com/emollick/status/2096047660662722620) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="delivery-network-with-bridge-closures-2096042360513904742"></a>
+
+### 橋の通行止めで変わる配送網
+
+[AgentworkflowLab](https://x.com/AgentWorkflowLa) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742"><img src="../assets/previews/021375b23f99acdfb36db3af863714d7bca56da4b7f0fc6fbad84e2a19c5c8de.webp" width="840" loading="lazy" alt="橋の通行止めで変わる配送網"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+橋を閉鎖するとトラックの経路が変わる 3D 配送シミュレーションを作成してください。到達不能な配送先を検出し、経路が再開したら配達を復旧させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/delivery-network-with-bridge-closures-2096042360513904742) · [元の投稿](https://x.com/AgentWorkflowLa/status/2096042360513904742) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="evolving-webgl-ecosystem-2096040448477515874"></a>
+
+### WebGL で進化する生態系
+
+[Yume\_X](https://x.com/yume_arasaki) · 2026-09-05 · GPT-6 Astra · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874"><img src="../assets/previews/d3141faec02a335f7928fe42be7e95a2ef7f670096b6e38ed8712ca45d40298c.webp" width="840" loading="lazy" alt="WebGL で進化する生態系"></a>
+
+*出典の作品を基にした制作指示*
+
+**プロンプト**
+
+```text
+素の WebGL と GLSL を使い、一つの HTML ファイルに進化する 3D 生態系を作成してください。突然変異、自然選択、捕食、エネルギー消費、多細胞の結合を相互に作用させてください。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/evolving-webgl-ecosystem-2096040448477515874) · [元の投稿](https://x.com/yume_arasaki/status/2096040448477515874) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="explorable-taj-mahal-2096035962824335798"></a>
 
 ### 探索できるタージ・マハル
@@ -969,166 +1136,6 @@ HTML と Three.js で『ラーマーヤナ』に着想を得た映画的作品�
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/jungle-temple-and-giant-vanara-guardian-2095729606066348290) · [元の投稿](https://x.com/BuildFastWithAI/status/2095729606066348290) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
-
-### 間取り図から完全な 3D ウォークスルーへ
-
-[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="間取り図から完全な 3D ウォークスルーへ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された間取り図を、建物全体の 3D ウォークスルーに変換してください。部屋の寸法と動線を守り、扉、窓、家具、素材、照明を追加し、間取りが伝わるカメラパスを作成してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [元の投稿](https://x.com/aidarosgo3/status/2095725404883476661) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="interactive-voxel-railway-table-2095719731860750613"></a>
-
-### 操作できるボクセル鉄道ジオラマ
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="操作できるボクセル鉄道ジオラマ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js で精細なボクセル鉄道ジオラマを作成してください。複数の列車の発車と停止、線路切り替え、視点回転とズーム、ミニチュアの街の観察、小さな環境アニメーションの起動を可能にしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [元の投稿](https://x.com/DeryaTR_/status/2095719731860750613) · [デモ](https://lindenhafen-railway.vercel.app/) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
-
-### ボトルの中で航海するボクセル帆船
-
-[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="ボトルの中で航海するボクセル帆船"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-ガラス瓶の中を航海する、精細な 17 世紀のボクセル帆船を作成してください。うねる波と船の揺れ、旋回するカモメ、小さな港とサンゴ礁を加え、映画的なカメラシーケンスと穏やかな音楽を制作してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [元の投稿](https://x.com/DeryaTR_/status/2095699049722581065) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
-
-### 生命と嵐を手続き生成する海洋シミュレーション
-
-[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="生命と嵐を手続き生成する海洋シミュレーション"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された単一ファイルの海面・嵐ジェネレーターを、海洋全体の手続き生成へ拡張してください。サンゴ礁、深海、自然な天候、自発的な行動を示す動物群、生態系の相互作用、海上と水中を移動できるカメラを追加してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [元の投稿](https://x.com/emollick/status/2095673885605630429) · [ソースコード](https://github.com/emollick/abyssal-living-deep) · [デモ](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
-
-### 一度で驚きを生む Three.js ゲーム
-
-[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="一度で驚きを生む Three.js ゲーム"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-「Amaze」の名にふさわしい独創的な Three.js ゲームを一度で作ってください。驚きのある視覚的な仕組みを一つ選び、数秒で理解できる導入、短い成長の流れ、満足感のある華やかな結末を用意してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [元の投稿](https://x.com/pratt_builds/status/2095663498101662198) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
-
-### Blender で再現するパレス・オブ・ファイン・アーツ
-
-[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Blender で再現するパレス・オブ・ファイン・アーツ"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-サンフランシスコのパレス・オブ・ファイン・アーツを Blender で再現してください。円形建築の特徴的な比率、列柱、池、植物、経年変化した素材、万博時代の明るい未来観を感じる映画的照明を表現してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [元の投稿](https://x.com/sharifshameem/status/2095653641164329143) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="single-aquarium-benchmark-2095650251902239139"></a>
-
-### 一つのプロンプトで比べるアクアリウム制作
-
-[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="一つのプロンプトで比べるアクアリウム制作"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-提示された参考画像から、一つのプロンプトで 3D アクアリウムゲームを作成してください。配置と雰囲気を合わせ、生き生きした魚、水の集光模様、周回操作、モデル出力の比較に適した小さな遊びを加えてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [元の投稿](https://x.com/iamtonyzhu/status/2095650251902239139) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
-
-### 一人称・三人称カメラを備えた RPG
-
-[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="一人称・三人称カメラを備えた RPG"></a>
-
-*出典の作品を基にした制作指示*
-
-**プロンプト**
-
-```text
-Three.js の RPG に一人称と三人称カメラを追加してください。視点を切り替えても移動と探索を継続できるようにしてください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [元の投稿](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [作例一覧に戻る](#all-prompts)
 
 ---
 

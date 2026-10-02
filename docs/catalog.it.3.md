@@ -28,6 +28,14 @@
 <details>
 <summary>Esplora gli esempi (50)</summary>
 
+- [Casa suburbana a due piani con interni](#gpt-6-astra-2102473710724919614)
+- [Simulazione interattiva dell’evacuazione di una folla](#claude-opus-5-5-2102467667978572092)
+- [Battle City 3D: Difesa infinita con i carri armati](#battle-city-3d)
+- [Isola preistorica 3D interattiva](#claude-opus-5-5-2102450239923720440)
+- [Gioco tower defense in stile Sir, We Have Orc Problems](#gpt-6-astra-2102411087002112256)
+- [Scena 3D e video della Torre di Tokyo, di giorno e di notte](#gpt-6-astra-2102276620124062065)
+- [Bubble Bay: battaglia 3D con palloncini d’acqua](#bubble-bay)
+- [Presentazione interattiva di progettazione di un elicottero 3D](#gpt-6-astra-2102215638311694336)
 - [Gioco di corse procedurale per browser Spline Rush](#gpt-6-astra-2102150615635816866)
 - [Sito web interattivo con modello 3D del Sole](#gpt-6-astra-2102038136725377200)
 - [Verdant — isola di dinosauri 3D interattiva](#gpt-6-astra-2101730386711634251)
@@ -70,16 +78,514 @@
 - [Percorso a ostacoli 3D giocabile](#gpt-6-astra-2099419671481249851)
 - [Ferrovia in miniatura autonoma con prevenzione delle collisioni](#gpt-6-astra-2099362575339372780)
 - [Reimmagina il castello di Peach in 3D](#gpt-6-astra-2099359786865402019)
-- [Esploratore interattivo dell’anatomia in 3D](#gpt-6-astra-2099206962344800541)
-- [Demo 3D giocabile nel browser: quartiere sul mare](#gpt-6-astra-2099172061092381027)
-- [Unwrap UV e rebake in 4K di un modello di abiti senza testa](#gpt-6-astra-2098980384260456813)
-- [Animazione 3D di origami che si piega da solo](#gpt-6-astra-2098909584996057283)
-- [Atlante di Chernobyl](#gpt-6-astra-2098841316591346006)
-- [Simulazione di un tavolo di sabbia cinetica](#gpt-6-astra-2098831830002851846)
-- [Ricostruzione 3D dell’Esposizione Colombiana Mondiale di Chicago del 1893](#gpt-6-astra-2098795017955418202)
-- [Cornice stampata in 3D, divisa in sezioni e con giunti](#gpt-6-astra-2098774359926297011)
 
 </details>
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### Casa suburbana a due piani con interni
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="Casa suburbana a due piani con interni"></a>
+
+**Prompt**
+
+```text
+Ciao. Progetta con Blender il miglior modello 3D possibile di una casa suburbana a due piani, includendo gli interni e ogni altro dettaglio.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102473710724919614) · [Post originale](https://x.com/azer0lxm/status/2102473781830909995) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### Simulazione interattiva dell’evacuazione di una folla
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Animazione
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Simulazione interattiva dell’evacuazione di una folla"></a>
+
+**Prompt**
+
+```text
+crea una simulazione interattiva dell’evacuazione di una folla e mostra dove si formano ingorghi
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102467667978572092) · [Post originale](https://x.com/dominikmartn/status/2102467667978572092) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="battle-city-3d"></a>
+
+### Battle City 3D: Difesa infinita con i carri armati
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D: Difesa infinita con i carri armati"></a>
+
+**Prompt**
+
+```text
+1. Obiettivo del progetto
+Realizzare Battle City 3D, un gioco per browser di difesa con carri armati ispirato al classico Famicom del 1985. Il giocatore guida un carro armato, distrugge un’ondata di 20 nemici, raccoglie rifornimenti e protegge il quartier generale dell’aquila. Ricostruire la versione 3D in prospettiva mostrata nei media di riferimento, includendo una campagna infinita basata su seed e 35 livelli classici selezionabili. Mantenere regole arcade leggibili, dando al contempo profondità reale a carri armati, muri e scenari.
+
+2. Stile visivo
+Usare una Three.js PerspectiveCamera con un campo visivo di 60 gradi. La visuale predefinita del campo di battaglia deve trovarsi dietro e sopra il giocatore, a circa 13 unità di mondo di distanza e a un’elevazione di 0,43 radianti. Seguire fluidamente la posizione e un punto davanti al carro armato; non ruotare mai automaticamente la camera quando il carro svolta. Offrire una visuale tattica rialzata, l’orbita tramite trascinamento manuale e lo zoom con la rotellina. Usare i quattro assi cardinali della mappa per movimento e fuoco. Dopo un’orbita, associare i tasti direzionali alla direzione cardinale più vicina rispetto alla camera; non trasformare mai l’input da tastiera in movimento diagonale. Orientare immediatamente lo scafo in base alla direzione del tiro e calibrare l’altezza dei proiettili e del lampo di bocca sulla canna reale di ciascun modello.
+Usare carri armati cingolati ben aderenti al terreno, torrette metalliche, mattoni in terracotta, blocchi in acciaio scuro, acqua blu, vegetazione bassa e ghiaccio riflettente. Estendere il terreno oltre l’area giocabile, includendo alberi, edifici in rovina e foschia. Usare luce direzionale calda, ombre morbide, illuminazione ambientale, tone mapping ACES e lampi di bocca, rinculo, scintille e detriti rimbalzanti sobri. La neve modifica la palette del terreno e degli alberi; gli scenari industriali privilegiano acciaio ed edifici in rovina.
+Incorniciare il gioco con un’interfaccia di comando verde oliva scuro, un’azione primaria giallo caldo, il punteggio, le vite condivise, le icone dei nemici rimasti, il nome del livello e il radar. Posizionare sopra il campo di battaglia il grande selettore di modelli Tripo 3D / Three.js, mostrando la modalità selezionata e un’anteprima rotante del carro armato. Usare una guida illustrata localizzata ai rifornimenti e indicatori degli effetti temporanei. Mantenere visibili il campo di gioco e i comandi touch essenziali sugli schermi stretti.
+
+3. Mondo e scenari
+Rappresentare il campo di battaglia come una griglia di 26 × 26 tile, con una semiampiezza di collisione del carro armato pari a 0,72. Posizionare l’aquila in (13,25), circondata da una difesa di mattoni distruttibile a forma di U. I punti di ingresso dei giocatori sono (9,25) e (17,25); i cancelli dei nemici sono (1,1), (13,1) e (25,1).
+Fornire due campagne: tutti i 35 livelli classici con le rispettive tabelle delle ondate da 20 nemici e un generatore infinito basato su seed, con alternanza di biomi erbosi, innevati e industriali. Generare corridoi collegati abbastanza larghi per l’intero scafo, con passaggi percorribili tra i punti di ingresso dei giocatori, i cancelli dei nemici e le posizioni dei potenziamenti. Aggiungere coperture centrali sfalsate in acciaio per impedire una linea di tiro diretta dal punto di ingresso all’aquila, mantenendo però l’accesso tra le strade. Consentire di selezionare il bioma iniziale o il livello classico e di rigenerare una mappa casuale. Trasferire al livello successivo il seed della partita, il punteggio, le vite e i potenziamenti dei giocatori ancora in vita.
+I mattoni sono distruttibili; i blocchi d’acciaio fermano i proiettili normali e i carri armati; l’acqua blocca i carri ma lascia passare i proiettili; la vegetazione nasconde i modelli dei nemici; il ghiaccio riduce l’aderenza. Mantenere l’ambiente distante puramente decorativo e separato dalle collisioni di gioco.
+
+4. Inventario degli asset
+Usare questi slot stabili per modelli 3D sostituibili indipendentemente. Dare priorità al giocatore, al nemico, al carro pesante e all’aquila, quindi a tutti e dieci i modelli dei rifornimenti. Posizionare ogni asset sul punto più basso e normalizzarne orientamento, centro e scala. Riutilizzare i template invece di caricare un modello per ogni nemico.
+- player: un carro armato cingolato giallo senape, con torretta leggibile e cannone rivolto in avanti; usato dai carri del giocatore, con un colore dell’anello distinto per il secondo giocatore.
+- enemy: un carro armato nemico cingolato compatto, riutilizzato con tinte diverse per le varianti base, veloce e potente.
+- heavy: un carro armato corazzato visibilmente più pesante, con una mesh distinta da quella del nemico standard e quattro segmenti di corazza visibili sopra lo scafo.
+- eagle: una statua metallica dorata di un’aquila sul piedistallo del quartier generale.
+- pickup-star: una stella dorata di potenziamento a cinque punte.
+- pickup-helmet: un elmetto militare protettivo per uno scudo temporaneo.
+- pickup-clock: un orologio ben leggibile per congelare il movimento dei nemici.
+- pickup-shovel: una pala per rinforzare il quartier generale.
+- pickup-life: un carro armato in miniatura che rappresenta una vita extra.
+- pickup-grenade: una granata a mano per distruggere i nemici attivi.
+- pickup-ammo: una cassa di munizioni per il fuoco rapido.
+- pickup-repair: una cassetta degli attrezzi per ripristinare la corazza.
+- pickup-magnet: un magnete a ferro di cavallo per raccogliere a distanza i potenziamenti.
+- pickup-boost: una batteria energetica per un aumento temporaneo della velocità.
+- environment-building: un edificio residenziale in rovina, deteriorato dalle intemperie, Tripo P2.0, budget richiesto di 1.800 triangoli.
+- environment-tree: un pino irregolare con tronco visibile, Tripo P2.0, budget richiesto di 1.100 triangoli.
+- environment-bush: un arbusto basso con foglie e ciuffi d’erba, Tripo P2.0, budget richiesto di 650 triangoli.
+Mostrare i rifornimenti come modelli da raccogliere, rotanti e sospesi, con anelli colorati e miniature della guida abbinate. Renderizzare edifici, alberi e cespugli ripetuti usando istanze condivise di geometrie e materiali. Posizionare a terra le radici degli edifici e degli alberi; interrare leggermente la base degli arbusti per integrarli nel terreno. Aggiungere neve sulle superfici rivolte verso l’alto negli scenari innevati. Mantenere procedurali i muri dei tile, l’acqua, il ghiaccio, le mesh dei proiettili, l’interfaccia, le luci, le particelle e i proxy di collisione. Animare l’acqua con onde fluide nello spazio del mondo, normali variabili e un piccolo displacement della superficie, continuo tra i tile adiacenti. La versione Tripo usa 17 modelli generati; la versione comparativa sostituisce entrambi i carri armati e l’ambiente con geometria costruita via codice, mantenendo le stesse regole e collisioni. Entrambe le versioni sono renderizzate con Three.js.
+
+5. Gameplay e feedback
+Supportare il gioco in solitaria e la modalità cooperativa locale per due giocatori, con un pool condiviso di tre vite. In solitaria si usano WASD o i tasti freccia e Spazio/J per sparare. In cooperativa, il giocatore uno usa WASD e Spazio/J; il giocatore due usa i tasti freccia e Invio/0 del tastierino numerico. P/Esc mette in pausa; C cambia camera; 1/2 seleziona la modalità del modello. Sui touchscreen, consentire di tenere premuti contemporaneamente il pad direzionale e il pulsante di fuoco, rilasciare l’input in caso di annullamento del puntatore e mostrare le azioni di pausa, ripresa, livello successivo e nuovo tentativo senza scorrimento.
+La velocità del giocatore è di 4,2 unità al secondo, o 6,3 con il boost. I nemici includono varianti base, veloci, potenti e pesanti; i carri pesanti hanno quattro punti ferita e sopravvivono ai primi tre colpi non schermati. Distruggere una variante assegna rispettivamente 100, 200, 300 o 400 punti; raccogliere un rifornimento assegna 500 punti. Completare un livello dopo aver sconfitto 20 nemici. Si perde quando l’aquila viene distrutta o quando le vite condivise sono esaurite e non rimane alcun giocatore in vita. Offrire un nuovo tentativo immediato, una progressione esplicita al livello successivo e il salvataggio locale del record.
+Implementare tutti e dieci i rifornimenti: la stella potenzia il cannone attraverso tre livelli (proiettili più veloci, due proiettili simultanei, quindi proiettili capaci di distruggere l’acciaio); l’elmetto crea uno scudo per 12 secondi; l’orologio congela i nemici per 9 secondi; la pala rinforza la base per 16 secondi; il carro in miniatura aggiunge una vita; la granata distrugge i nemici attivi; le munizioni concedono 14 secondi di fuoco rapido con fino a quattro proiettili attivi; la riparazione aggiunge due punti ferita, fino a un massimo di tre; il magnete raccoglie i rifornimenti visibili entro cinque unità per 20 secondi; il boost dura 12 secondi. I modelli dei rifornimenti restano disponibili per 25 secondi e compaiono in posizioni raggiungibili, usando un mazzo mescolato per variare i tipi. La raccolta tramite magnete deve rispettare gli ostacoli solidi.
+Usare campioni in stile NES raccolti per l’apertura del livello da 4,333 secondi, gli effetti di sparo, guida e inattività, gli impatti su mattoni e acciaio, le esplosioni dei nemici e del giocatore, la comparsa e la raccolta dei rifornimenti, la vita extra, i colpi alla corazza, il ghiaccio, la pausa e il game over. Il progetto attuale usa 15 cue OGG da JustoSenka/BattleCity, commit 3a07004ba8e53baea74ff70d2ecc22b017eb9b20. Mantenere l’attribuzione e l’avviso di licenza del repository; descriverli come audio raccolto da un remake, senza affermare che siano acquisizioni hardware bit-perfect. Sbloccare l’audio con un gesto dell’utente, calibrare i volumi dei campioni, fornire volume e silenziamento e sincronizzare i suoni agli eventi. Non aggiungere musica di battaglia continua non correlata.
+
+6. Implementazione tecnica
+Usare TypeScript, Three.js 0.180.0 e Vite 7, con un package.json e un lockfile isolati. Mantenere la simulazione indipendente dal rendering, eseguendola a 120 Hz. Usare AABB solidi per gli scafi, movimento separato per asse, gestione dei confini e separazione tra carri, oltre a sweep continui dei proiettili verso il contatto più vicino, includendo la collisione basata sul movimento relativo tra proiettili avversari. I proiettili devono originare dallo scafo e avanzare tramite sweep, per evitare il passaggio attraverso i muri a distanza ravvicinata. Aggiungere accelerazione e decelerazione sul ghiaccio e gravità con rimbalzi smorzati per i detriti. Si tratta di fisica arcade a terra, non di un simulatore delle sospensioni.
+Caricare gli asset GLB della stessa origine tramite GLTFLoader. Mantenere i proxy di collisione indipendenti dalla geometria degli asset. Il runtime attuale usa attributi quantizzati e texture WebP (1024 px per veicoli/base; 512 px per rifornimenti e ambiente), senza semplificazione della geometria né decoder WASM. Limitare il caricamento a quattro worker, usare URL con versione basata su hash e intervalli da 256 KiB, con timeout di 20 secondi e fino a tre tentativi per intervallo. Sbloccare il gioco quando i quattro modelli principali e l’audio sono pronti; caricare in background gli asset dei rifornimenti e dell’ambiente e generare solo i tipi di rifornimento i cui modelli sono pronti. Il cambio di modalità del modello deve preservare lo stato di gioco.
+Fornire l’interfaccia in inglese, cinese semplificato, giapponese e coreano. Selezionare un valore predefinito dalla lingua del dispositivo, tranne per zh-TW, zh-HK, zh-MO e zh-Hant, che devono usare l’inglese; mantenere le scelte linguistiche esplicite. Supportare tastiera, puntatore desktop e multitouch e mettere il gioco in pausa quando si perde il focus. Mantenere asset, crediti e script riproducibili locali al progetto sorgente e distribuire una directory dist statica, senza credenziali private né dipendenze da un backend a runtime.
+
+7. Criteri di completamento
+Consegnare il sorgente modificabile, la provenienza degli asset e gli avvisi di licenza, un flusso di sviluppo/build npm e un’anteprima statica giocabile. Verificare la scena Tripo predefinita, il confronto tra modelli, tutti i biomi, un carro pesante che riceve quattro colpi, ogni effetto dei rifornimenti, pausa/ripresa, sconfitta/nuovo tentativo e progressione dei livelli. Testare 1.000 mappe basate su seed per verificare la connettività compatibile con la larghezza dello scafo e i punti di ingresso sicuri, oltre a tutte le mappe classiche, il tunneling attraverso i muri, i tiri diagonali, la separazione tra carri, l’inerzia sul ghiaccio, l’input relativo alla camera con più angoli di imbardata e i cambi di modalità che preservano lo stato. Validare l’interfaccia localizzata e i controlli a due dita sugli schermi stretti, senza dichiarare test su dispositivi fisici quando è stata usata soltanto l’emulazione. Confrontare i fotogrammi effettivi dell’avvio e del combattimento con le immagini e il video di riferimento; confermare il caricamento di tutti i 17 modelli e dei 15 cue audio. Pubblicare tramite il flusso esistente CMS Web Page e verificare la pagina pubblica finale, invece di considerare un record CMS salvato come una distribuzione completata.
+
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/battle-city-3d) · [Demo](https://battle-city-3d.tripo.page/) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102450239923720440"></a>
+
+### Isola preistorica 3D interattiva
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Isola preistorica 3D interattiva"></a>
+
+**Prompt**
+
+```text
+Crea una splendida isola preistorica 3D, altamente dettagliata e completamente interattiva, usando Three.js e WebGL. Fornisci tutto in un unico file HTML autonomo che si apra direttamente in Chrome. Incorpora gli asset dove possibile.
+
+DIREZIONE VISIVA
+Crea una grande isola arrotondata circondata dall’oceano, con una sezione subacquea trasparente. Il risultato deve dare l’impressione di un mondo in miniatura di livello premium: vegetazione rigogliosa, dinosauri espressivi, materiali ricchi, illuminazione atmosferica e animazioni curate. Usa una direzione artistica coerente e stilizzata, non semplici forme geometriche.
+ISLAND
+Crea un terreno vario con spiagge, scogliere rocciose, fitte foreste preistoriche, felci giganti, una cascata, uno stagno d’acqua dolce e un vulcano. Aggiungi una piccola stazione di ricerca, passerelle in legno, piattaforme d’osservazione, casse di rifornimenti e nidi di dinosauro. L’isola deve essere abbastanza spaziosa da permettere ai dinosauri di muoversi naturalmente tra aree distinte.
+
+SEZIONE SUBACQUEA
+L’acqua deve formare un volume profondo e arrotondato intorno all’isola, con uno scenario subacqueo chiaramente visibile attraverso le sue pareti. Includi un fondale marino texturizzato, rocce, piante acquatiche, pesci, bolle e un rettile marino verde che nuoti sotto la superficie. Non collocare sott’acqua normali dinosauri terrestri e non aggiungere un sottomarino.
+Usa onde animate, riflessi Fresnel, motivi di luce subacquei, schiuma sul bagnasciuga e spruzzi. Evita artefatti di ordinamento della trasparenza e fessure visibili tra l’isola e l’acqua.
+
+DINOSAURS
+Includi diverse specie riconoscibili, come un sauropode dal collo lungo, il Triceratops, lo Stegosaurus, un grande teropode e animali più piccoli che si muovono in branco. Aggiungi pterosauri che volteggiano in cielo.
+Dai a ogni specie un’anatomia riconoscibile, corpi modellati, arti articolati, teste dettagliate, code e motivi della pelle appropriati. Evita di assemblare i dinosauri finiti usando cubi evidenti o sfere scollegate.
+
+ANIMAZIONE NATURALE
+Usa scheletri gerarchici con articolazioni posizionate correttamente. La camminata deve avere fasi di appoggio e oscillazione distinte: durante il contatto i piedi restano ancorati al terreno e si sollevano in modo netto a ogni passo. Adatta la lunghezza del passo alla velocità di movimento.
+
+Usa il campionamento del terreno e l’inverse kinematics per mantenere i piedi a contatto con il suolo. Aggiungi spostamenti del peso, movimenti corporei leggeri, oscillazioni equilibrate della coda, rotazioni della testa e respirazione. I dinosauri non devono mai fluttuare, slittare, intersecare il terreno o attraversare edifici, rocce, alberi o altri dinosauri.
+Usa l’elusione degli ostacoli e percorsi sicuri. Specie diverse devono avere velocità di movimento, schemi di andatura e comportamenti differenti. Gli animali marini devono essere orientati nella direzione del movimento.
+
+INTERACTION
+Permetti agli utenti di:
+
+Ruotare liberamente la telecamera, eseguire lo zoom e ispezionare la sezione subacquea.
+Selezionare un dinosauro e seguirlo con una telecamera dal movimento fluido.
+
+Posizionare del cibo in luoghi adatti e osservare i dinosauri nelle vicinanze mentre si avvicinano e mangiano.
+
+Attivare le azioni di bere, riposare e chiamare, oltre al movimento del branco.
+
+Esplorare i nidi e osservare la schiusa di un cucciolo.
+Attivare l’emersione di un rettile marino con uno spruzzo.
+Passare dalla luce diurna al tramonto e alla notte.
+Regolare la pioggia, il vento e l’attività vulcanica.
+Mettere in pausa la simulazione e reimpostare la scena.
+Fai in modo che ogni controllo produca una risposta chiara e visibile. Mantieni le interazioni ripetibili e impedisci che le animazioni sovrapposte danneggino le pose dei personaggi.
+ATMOSFERA E AUDIO
+Aggiungi vegetazione in movimento, nuvole alla deriva, uccelli, insetti, particelle di pioggia e le luci calde della stazione di ricerca durante la notte. Includi musica d’atmosfera discreta e suoni ambientali, con un interruttore funzionante per la musica e un cursore del volume. Avvia l’audio solo dopo un’interazione dell’utente.
+INTERFACE
+Usa un’interfaccia compatta ed elegante con etichette in inglese. Mantieni la scena in primo piano ed evita pannelli grandi che coprano l’isola. Rendi il layout responsive per desktop e dispositivi mobili.
+QUALITÀ TECNICA
+Usa l’instancing per la vegetazione e gli elementi ripetuti, geometrie efficienti, ombre adeguate e post-processing contenuto. Bilancia la ricchezza visiva con prestazioni fluide in tempo reale.
+Crea una scena completa, non un mockup. Testa l’HTML finale direttamente in un browser desktop, esamina gli screenshot e la console, prova ogni interazione e correggi prima della consegna gli errori di caricamento, i dinosauri sospesi, lo slittamento dei piedi, le collisioni non funzionanti, gli artefatti dell’acqua e i problemi della telecamera.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
+
+VISUAL DIRECTION
+Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
+ISLAND
+Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
+
+WATER CROSS-SECTION
+The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
+Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
+
+DINOSAURS
+Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
+Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
+
+NATURAL ANIMATION
+Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
+
+Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
+Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
+
+INTERACTION
+Allow users to:
+
+Rotate the camera freely, zoom, and inspect the underwater cross-section.
+Select a dinosaur and follow it with a smoothly moving camera.
+
+Place food in suitable locations and watch nearby dinosaurs approach and eat.
+
+Trigger drinking, resting, calling, and herd movement.
+
+Explore nests and watch a hatchling emerge.
+Trigger a marine reptile surfacing with a splash.
+Switch between daylight, sunset, and night.
+Adjust rain, wind, and volcanic activity.
+Pause the simulation and reset the scene.
+Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
+ATMOSPHERE AND AUDIO
+Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
+INTERFACE
+Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
+TECHNICAL QUALITY
+Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
+Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/claude-opus-5-5-2102450239923720440) · [Post originale](https://x.com/vib3coded/status/2102450842070569099) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102411087002112256"></a>
+
+### Gioco tower defense in stile Sir, We Have Orc Problems
+
+[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="Gioco tower defense in stile Sir, We Have Orc Problems"></a>
+
+**Prompt**
+
+```text
+Crea un gioco tower defense come Sir, We Have Orc Problems
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Sir, we have orc problemsみたいなTDゲーム作って
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102411087002112256) · [Post originale](https://x.com/nikzu_/status/2102411087002112256) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102276620124062065"></a>
+
+### Scena 3D e video della Torre di Tokyo, di giorno e di notte
+
+[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · Scene
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="Scena 3D e video della Torre di Tokyo, di giorno e di notte"></a>
+
+**Prompt**
+
+```text
+Crea un’opera 3D d’impatto con la Torre di Tokyo come protagonista e un video di circa 30 secondi per un post su X. 
+
+Sei il direttore della produzione. Crea le sotto-attività necessarie e affidane l’esecuzione per ricerca e produzione. Gestisci la definizione dettagliata dell’incarico, l’avanzamento dei lavori, la verifica dei risultati, le richieste di modifica e il coordinamento finale.
+
+【Cosa creare】
+Realizza la Torre di Tokyo in modo da trasmettere la sua imponenza vista dal basso e la finezza della struttura metallica osservata da vicino.
+Prepara sia una versione diurna sia una notturna: di giorno mostra la struttura e la verniciatura, di notte la bellezza dell’illuminazione.
+
+Voglio un’opera che dia la sensazione che la Torre di Tokyo sia stata osservata e studiata con attenzione. Non limitarti alla forma generale della torre: ricerca e riproduci i dettagli distintivi, come l’apertura delle gambe, il modo in cui sono assemblati gli elementi in acciaio, i belvedere e gli edifici alla base. Per l’area urbana circostante è sufficiente includere gli elementi necessari a trasmettere la scala della torre e l’atmosfera del luogo.
+
+【Procedura di produzione】
+・Studia documenti e fotografie ufficiali, quindi stabilisci quali caratteristiche riprodurre e in quale ordine di priorità.
+・Sulla base della ricerca, fornisci istruzioni di produzione concrete per ciascuna sotto-attività.
+・Verifica un’anteprima 3D reale già nelle prime fasi e regola forma, composizione e luminosità.
+・Esamina personalmente le immagini e il video finali, individua elementi incongrui o mancanti e richiedi le modifiche necessarie.
+・Prendi autonomamente le decisioni tecniche di dettaglio e sulla struttura delle riprese, portando il progetto fino al completamento.
+
+Non sostituire l’opera con un semplice sfondo ottenuto incollando fotografie o immagini generate: rappresentala con una geometria 3D reale e movimenti di camera. Registra i fatti verificati e gli elementi dedotti per mancanza di documentazione.
+
+【Video】
+Circa 30 secondi. Combina una ripresa dal basso verso l’alto, primi piani della struttura metallica e dei belvedere e una panoramica che permetta di comprendere la torre nella sua interezza; mostra anche il passaggio dal giorno alla notte.
+Stabilisci la suddivisione precisa dei secondi dopo aver esaminato il modello completato, scegliendo la struttura più efficace per valorizzarne il fascino.
+
+【Consegne】
+・Dati Blender modificabili
+・Video MP4 per un post su X
+・Immagini di verifica delle viste d’insieme e dei dettagli, di giorno e di notte
+・Una breve proposta di testo per il post
+・Un README con le fonti dei materiali, l’ambito della riproduzione e i risultati della verifica
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
+
+あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
+
+【作ってほしいもの】
+地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
+昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
+
+「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
+
+【制作の進め方】
+・公式資料や写真を調査し、再現する特徴と優先順位を決める。
+・その調査を基に、各サブタスクへ具体的な制作指示を出す。
+・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
+・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
+・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
+
+写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
+
+【動画】
+約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
+細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
+
+【納品】
+・編集可能なBlenderデータ
+・X投稿用MP4動画
+・昼夜の全景と細部の確認画像
+・短い投稿文案
+・素材の出典、再現範囲、検証結果を記したREADME
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102276620124062065) · [Post originale](https://x.com/wafffle_dev/status/2102276620124062065) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="bubble-bay"></a>
+
+### Bubble Bay: battaglia 3D con palloncini d’acqua
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · Giochi
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="Bubble Bay: battaglia 3D con palloncini d’acqua"></a>
+
+**Immagini di riferimento:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
+
+**Prompt**
+
+```text
+Crea Bubble Bay, un’arena giocabile con palloncini d’acqua realizzata in Three.js, con lo stile riconoscibile dei personaggi in costume dalla testa grande, dal corpo basso e dal viso scoperto tipico dei classici giochi con le bolle. Usa per impostazione predefinita modelli Tripo dettagliati, con un selettore ben visibile per confrontare la geometria Three.js senza interrompere la partita. Usa tre nuovi personaggi: Langya, Shantao e Tuanli. Segui i concept e i riferimenti ai modelli forniti per i nuovi personaggi, preservandone silhouette, volti, colori e costumi.
+
+Langya è un vivace bambino umano con cappuccio turchese e un’unica cresta ondulata laterale, colletto e polsini arancioni, pantaloncini blu navy e scarpe turchesi con suole arancioni. Shantao è una bambina umana minuta con caschetto color prugna scuro, cuffietta rosa pesca con tre brevi ornamenti a forma di petalo su ciascun lato, giacca color menta, salopette corta color prugna e stivaletti giallo pallido. Tuanli è un bambino umano paffuto, con corpo ampio a forma di pera, berretto imbottito rotondo color caramello con bordo del viso color crema, giacca corta color teal, parte inferiore del ventre color crema e stivali blu navy. Tutti hanno volti infantili dalla pelle calda, semplici occhi ovali scuri e piccoli sorrisi. Sono bambini con costumi progettati appositamente: non trasformarli in creature acquatiche letterali e non riutilizzare i costumi riconoscibili dei personaggi precedenti. Genera ciascun personaggio separatamente tramite Tripo CLI, usando esplicitamente tripo-p2 e immagini indipendenti del fronte e del retro, quindi associa scheletri bipedi e skin validi. Idle, corsa e salto devono controllare giunti reali; ispeziona i movimenti, correggi il weighting di copricapi, scarpe e corpo e mantieni accurata la provenienza. Se le animazioni vengono create localmente, identificale come tali.
+
+Nomi localizzati: 浪芽 / 랑야 / Langya, 珊桃 / 산타오 / Shantao, 团栗 / 퇀리 / Tuanli. Valori iniziali di capacità/portata/velocità: 1/1/6, 1/2/5, 2/1/4; valori massimi: 6/7/9, 6/7/8, 9/8/8. Converti la velocità in 0,25 + livello*0,8 unità di mondo al secondo; le caselle misurano 2 unità. Quando scegli un personaggio, assegna gli altri due come avversari distinti con profili corrispondenti. Mantieni invariato il raggio di collisione di gioco, indipendentemente dalla silhouette paffuta.
+
+Offri per impostazione predefinita Pirate/Patrit14 in formato 15x13 e Village10. Preserva il ponte dorato riconoscibile, il carico giallo, le casse di legno, i quattro cannoni e l’albero centrale; il villaggio presenta quattro distretti residenziali colorati, una strada centrale, siepi e blocchi giocattolo. Usa le mappe del publisher come riferimento, costruisci autonomamente gli elementi grafici a runtime e documenta le piccole aperture dei percorsi necessarie per il movimento 3D continuo e la fuga dell’IA. Fornisci materiali vivaci, ombre, paesaggio oceanico, inseguimento chiaro della telecamera e visuale panoramica.
+
+Un giocatore affronta due avversari IA cooperativi. WASD/frecce per muoversi, F per piazzare una bolla da 2,5 secondi, Spazio per saltare su piattaforme reali, Shift per lo scatto, Q/E per orbitare, V per cambiare visuale ed Esc per mettere in pausa. L’acqua a forma di croce rispetta gli ostacoli, rompe il primo blocco distruttibile e concatena le bolle. Implementa intrappolamento, fuga, catture dei nemici, respawn, un obiettivo selezionabile di 3, 6, 9 o 12 catture (6 per impostazione predefinita), oppure il punteggio su 180 secondi, con risultato e possibilità di riprovare. Il joystick touch e i pulsanti d’azione devono funzionare contemporaneamente.
+
+Usa sei pickup generati da Tripo: palloncino, pozione della portata, pattino a rotelle, guanto da lancio, scarpa da calcio e ago di salvataggio. Le casse rilasciano un oggetto nell’85% dei casi. Probabilità condizionali degli oggetti: 30/30/30/2,5/3,5/4 percento. I guanti aggiungono tre lanci, fino a un massimo di sei. G lancia una bolla vicina fino a quattro caselle oltre le coperture, mantenendone il proprietario e la miccia originale, riservandone il punto di atterraggio e mostrando una traiettoria. Se una bolla scade durante il volo, atterra ed esplode. K fa scivolare le bolle finché non incontrano un ostacolo, senza azzerare la miccia. X usa un ago di salvataggio, inizialmente uno e fino a un massimo di tre. Mostra chiaramente l’inventario e i comandi disponibili.
+
+Interfaccia in cinese, inglese e coreano: i fusi orari IANA della Cina continentale selezionano il cinese, quelli della Corea e della Corea del Nord selezionano il coreano, tutti gli altri, inclusi Hong Kong/Macao/Taiwan, selezionano l’inglese. La scelta manuale ha sempre la precedenza. Consenti il caricamento esclusivamente di file GLB con texture incorporate, standard non compressi, con skin reali, fino a 40 MB e 150.000 triangoli. Convalida ossa, giunti e pesi, rifiuta i modelli statici, usa le animazioni incorporate quando presenti e fornisci un movimento articolare di base per gli umanoidi riconosciuti che non hanno clip. Gli scheletri non riconosciuti richiedono animazioni. Spiega in modo semplice la differenza tra rigging e animazione, fornisci una regolazione dell’orientamento di 90 gradi, esegui l’elaborazione localmente nel browser e assegna statistiche stabili e bilanciate in base all’hash del file.
+
+Usa esattamente https://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-character per la CTA di creazione. Accredita jared collegando a https://x.com/jaredliu_bravo .
+
+Integra 13 effetti sonori ElevenLabs con normalizzazione, decadimento breve, distanza/pan, limiti di polifonia, volume e disattivazione audio: piazzamento, scoppio, cassa, pickup, raro, lancio, atterraggio, trappola, salvataggio, salto, vittoria, sconfitta, calcio. Crea due tracce strumentali originali con ElevenLabs music_v2_5, di 90 secondi ciascuna, abbinate alla mappa piratesca nautica e al quartiere soleggiato. Normalizzale a un target contenuto di -20 LUFS e applica un crossfade ai punti di loop. Assegna alla musica un controllo del volume dedicato, cambia traccia in base alla mappa, applica il fade durante la pausa e rispetta il mute generale. Non riprodurre la colonna sonora del gioco originale.
+
+Mantieni codice sorgente indipendente, dipendenze, test e provenienza degli asset al di fuori delle app della piattaforma CMS. Includi le risorse statiche same-origin e gli avvisi MIT. Verifica in Ego Lite il gameplay effettivo su desktop e touch, le varianti di caricamento, le lingue e il cambio della grafica. Crea una versione di revisione immutabile collegata alla Web Page 12 esistente del CMS; conserva la release live esistente mentre la revisione è in attesa. Pubblica solo dopo aver verificato con precisione codice sorgente e diritti sugli asset, quindi verifica l’URL pubblico, gli hash dei modelli e il comportamento. Conserva la cronologia e distingui chiaramente tra record CMS salvati, anteprime e release pubbliche.
+
+Carica gli asset dei modelli mostrando l’avanzamento, con un massimo di tre download simultanei, timeout di inattività di 30 secondi e due tentativi. Conserva i download riusciti durante un nuovo tentativo. Nascondi completamente il selettore Tripo / Three.js finché tutti i modelli non sono pronti, quindi rendilo visibile. Non etichettare i placeholder di caricamento procedurale come modelli Tripo caricati.
+
+
+Usa una telecamera prospettica ravvicinata con inseguimento, inizialmente all’esterno dell’area di spawn e rivolta verso il centro dell’arena. Mantieni l’orbita Q/E, l’inclinazione tramite trascinamento del mouse e la panoramica V. Mantieni un tabellone compatto in alto, il selettore della modalità in alto a sinistra e brevi notifiche vicino al fondo. Nascondi il joystick e i grandi comandi touch sui desktop con mouse, conservando i piccoli controlli per gli oggetti rari; supporta azioni touch simultanee compatte sugli schermi stretti. Aggiungi uno shader animato per le onde con variazioni di profondità teal, isolotti sabbiosi organici con palme ricurve e rocce, sottili texture delle venature del legno e dell’erba. Racchiudi ogni personaggio intrappolato in una bolla traslucida adattata alle sue dimensioni, con bordo Fresnel iridescente, lieve galleggiamento, bollicine e increspature sul terreno. Verifica che i vertici della skin in posa combacino correttamente, azzera il sollevamento durante il salvataggio e controlla il rilascio delle risorse dopo cambi ripetuti. Evita costosi pass di trasmissione sull’intera scena per la membrana d’acqua; limita a 1,5 il pixel ratio sugli schermi stretti.
+
+
+Fornisci controlli visibili per le telecamere Follow / Overview e il cambio tramite V. In Overview, supporta uno zoom dal 100% al 300% usando i pulsanti +/−, la rotellina del mouse e il pinch a due dita, con trascinamento della mappa entro i limiti e ripristino Fit map. Mantieni lo zoom e la partita in corso quando cambi telecamera o versione del rendering. Mantieni compatti e non sovrapposti i controlli per gli oggetti rari, in cinese, inglese e coreano.
+
+```
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/bubble-bay) · [Post originale](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Demo](https://bubble-bay.tripo.page/) · [Torna agli esempi](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102215638311694336"></a>
+
+### Presentazione interattiva di progettazione di un elicottero 3D
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · Interattivo
+
+<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="Presentazione interattiva di progettazione di un elicottero 3D"></a>
+
+**Prompt**
+
+```text
+Crea una scena 3D interattiva e dettagliata di un elicottero moderno in un unico file HTML, usando Three.js e WebGL. Costruisci una geometria 3D reale, visualizzabile da ogni angolazione, non un’immagine.
+
+Stile visivo:
+Una presentazione di design aeronautico di alto livello, con sfondo da studio grigio chiaro, piattaforma circolare di esposizione, ombre morbide e riflessi realistici.
+Elicottero:
+
+Una fusoliera liscia e aerodinamica, ispirata a elicotteri leggeri biturbina come l’H145.
+Una livrea bianca con parte inferiore blu navy scuro e una striscia decorativa blu.
+Finestrini curvi e oscurati della cabina di pilotaggio, con riflessi e guarnizioni montate con precisione.
+Porte laterali, maniglie, giunzioni dei pannelli, rivetti, gradini d’accesso e antenne.
+Due alloggiamenti dei motori con prese d’aria, griglie di ventilazione e scarichi.
+Un rotore principale a cinque pale con mozzo dettagliato, ferramenta di fissaggio e leveraggi per il controllo del passo.
+Un trave di coda rastremato, stabilizzatori e un rotore anticoppia carenato, con un’apertura reale attraverso la carenatura.
+Pattini d’atterraggio curvi fissati alla fusoliera tramite supporti strutturali.
+Luci di navigazione e un lampeggiante.
+Tutti i componenti devono essere collegati fisicamente. Evita parti sospese nel vuoto, spazi tra le sezioni, pale del rotore che intersecano la fusoliera o finestrini staccati dalla carrozzeria.
+
+Interazioni:
+
+Trascinamento del mouse per ruotare la visuale, rotella per lo zoom e controlli touch.
+Avvia e arresta entrambi i rotori con accelerazione e decelerazione graduali.
+Velocità dei rotori regolabile.
+Modalità di volo stazionario: solleva dolcemente l’elicottero dalla piattaforma, fallo oscillare leggermente in aria e fallo atterrare dolcemente quando la modalità viene disattivata.
+Rotazione automatica della telecamera.
+Preset della telecamera frontale, laterale e posteriore.
+Controlli per ripristinare la telecamera e attivare la modalità a schermo intero.
+Tre livree: blu ghiaccio e bianco, arancione soccorso e grafite.
+Interfaccia:
+
+In alto a sinistra: una piccola etichetta “AERONAUT / OBJECT STUDIES” e un’intestazione grande “Horizon 05.”
+A destra: un pannello compatto con specifiche, stato dell’elicottero, selezione della livrea e velocità dei rotori.
+In basso: controlli e suggerimenti per l’interazione.
+Tipografia essenziale, bordi sottili e ampio spazio vuoto. Mantieni l’elicottero libero da elementi sovrapposti.
+Tutti i testi dell’interfaccia devono essere in inglese.
+Requisiti tecnici:
+
+Genera la geometria in modo procedurale, senza scaricare un modello di elicottero predefinito.
+Usa materiali PBR, un ambiente di riflessione da studio e ombre morbide.
+Rendi l’animazione indipendente dalla frequenza dei fotogrammi.
+Riutilizza geometrie e materiali quando opportuno e limita il pixel ratio per migliorare le prestazioni.
+Supporta layout desktop e mobile, mantenendo visibile l’intera apertura del rotore nella visuale iniziale.
+Se possibile, incorpora le dipendenze nell’HTML, così che il file funzioni offline.
+Mostra un messaggio di fallback utile se WebGL non è disponibile.
+Prima di concludere, esamina il modello da ogni lato, testa ogni controllo e verifica l’assenza di errori nella console. Presta particolare attenzione alla silhouette, ai collegamenti strutturali, alle vetrature e ai meccanismi dei rotori.
+
+Consegna il file HTML funzionante, non una semplice spiegazione.
+```
+
+<details>
+<summary>Prompt originale</summary>
+
+```text
+Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
+
+Visual style:
+A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
+Helicopter:
+
+A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
+A white body with a dark navy underside and blue accent stripe.
+Curved, tinted cockpit windows with reflections and carefully fitted window seals.
+Side doors, handles, panel seams, rivets, boarding steps, and antennas.
+Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
+A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
+A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
+Curved landing skids attached to the fuselage with structural supports.
+Navigation lights and a blinking beacon.
+All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
+
+Interactions:
+
+Mouse drag to orbit, scroll to zoom, and touch controls.
+Start and stop both rotors with gradual acceleration and deceleration.
+Adjustable rotor speed.
+Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
+Automatic camera orbit.
+Front, side, and tail camera presets.
+Reset camera and fullscreen controls.
+Three liveries: glacier blue and white, rescue orange, and graphite.
+Interface:
+
+Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
+Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
+Bottom: controls and interaction hints.
+Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
+All interface text in English.
+Technical requirements:
+
+Generate the geometry procedurally without downloading a prebuilt helicopter model.
+Use PBR materials, a studio reflection environment, and soft shadows.
+Make animation independent of frame rate.
+Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
+Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
+If possible, embed dependencies in the HTML so the file works offline.
+Display a helpful fallback message if WebGL is unavailable.
+Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
+
+Deliver the working HTML file, not just an explanation.
+```
+
+</details>
+
+[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2102215638311694336) · [Post originale](https://x.com/vib3coded/status/2102217028052377910) · [Torna agli esempi](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2102150615635816866"></a>
 
 ### Gioco di corse procedurale per browser Spline Rush
@@ -2023,390 +2529,6 @@ reimagine Peach’s Castle in 3D and create a fly-by video.
 </details>
 
 [Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099359786865402019) · [Post originale](https://x.com/romainhuet/status/2099359786865402019) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099206962344800541"></a>
-
-### Esploratore interattivo dell’anatomia in 3D
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="Esploratore interattivo dell’anatomia in 3D"></a>
-
-**Prompt**
-
-```text
-Crea un bellissimo esploratore interattivo dell’anatomia in 3D usando dataset scientifici disponibili pubblicamente. Inizia da una vista esterna che diventa gradualmente trasparente mentre eseguo lo zoom, rivelando l’anatomia sottostante.
-
-Permettimi di ruotare il modello, separare le strutture, selezionare le regioni con etichette e attivare o disattivare i livelli da un pannello laterale. Aggiungi schede separate per anatomia, connessioni e singole cellule, con segnali animati e controlli regolabili.
-
-Usa un’interfaccia moderna e minimalista, con illuminazione morbida, transizioni fluide, colori discreti e pochissimo testo. Includi frecce e un breve tutorial visivo. Deve funzionare su desktop e dispositivi mobili.
-
-Usa geometrie anatomiche reali quando disponibili, cita le fonti e distingui chiaramente i dati scientifici dalle animazioni illustrative. Crea un sito web funzionante.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
-
-Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
-
-Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
-
-Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099206962344800541) · [Post originale](https://x.com/k1rallik/status/2099206962344800541) · [Codice sorgente](https://github.com/bubblik525/cat_brain_anatomy) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099172061092381027"></a>
-
-### Demo 3D giocabile nel browser: quartiere sul mare
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · Giochi
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="Demo 3D giocabile nel browser: quartiere sul mare"></a>
-
-**Prompt**
-
-```text
-> blocca la specifica (TZ-gta-slice.md)
-
-prompt: "Crea una demo 3D giocabile nel browser. Non modificare questa specifica dopo averla bloccata. Prima il quartiere e la clip. I controlli dopo."
-
-> lo stack (Vite, TypeScript vanilla, Three.js, cannon-es, Web Audio)
-
-prompt: "Lo stack è fisso. Vite. TypeScript vanilla. Three.js. cannon-es. Web Audio. Un solo URL del browser."
-
-> l'inquadratura (tramonto sull'acqua, asfalto bagnato, palme)
-
-prompt: "Un solo quartiere sul mare. Tramonto sull'acqua. Asfalto bagnato. Palme. Punta su luce e camera, non sul numero di poligoni. Niente luce grigia predefinita. Niente cubi nudi."
-
-> i tre (una scena, un'auto, circa 20 secondi)
-
-prompt: "Tieni i tre personaggi nella stessa scena. Parlano. Poi salgono tutti su un'auto. Circa 20 secondi. Qualità prima di interruttori aggiuntivi."
-
-> il montaggio (da 15 a 20 secondi, fluido)
-
-prompt: "Se rallenta, riduci la clip a 15-20 secondi. Mantienila fluida. Se il frame rate cala, elimina i pedoni, non la luce."
-
-> l'audio (voci umane, pad sotto le battute, rombo dell'auto)
-
-prompt: "Le voci devono sembrare umane, non robotiche. Un pad discreto sotto le battute, mai sopra. Quando salgono in auto, un rombo grave del motore, non un suono da sega. Niente fruscio radio."
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-> lock the spec (TZ-gta-slice.md)
-
-prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
-
-> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
-
-prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
-
-> the frame (sunset over the water, wet asphalt, palms)
-
-prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
-
-> the three (one scene, one car, about 20 seconds)
-
-prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
-
-> the cut (15 to 20 seconds, keep it smooth)
-
-prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
-
-> the sound (human voices, pad under the lines, car rumble)
-
-prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2099172061092381027) · [Post originale](https://x.com/Lummox_eth/status/2099172061092381027) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098980384260456813"></a>
-
-### Unwrap UV e rebake in 4K di un modello di abiti senza testa
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="Unwrap UV e rebake in 4K di un modello di abiti senza testa"></a>
-
-**Prompt**
-
-```text
-Con Blender MCP, esegui l’unwrap UV del «modello senza testa con abiti e arti» selezionato e riesegui in 4K il bake delle texture esistenti.
-
-L’obiettivo è mantenere l’aspetto originale e creare UV in cui la struttura sia leggibile, come nel cartamodello di un abito, e che possano essere ridisegnate facilmente in seguito. Procedi come farebbe un artista: osservazione → progettazione delle seam → unwrap per area → correzione della distorsione → disposizione → bake.
-
-1. Conserva i dati originali
-Prima di iniziare, salva una copia con un altro nome, mantieni le UV, le immagini e i materiali esistenti e crea una nuova UV map chiamata «UV\_Final».
-Non modificare forma, topologia, ordine dei vertici, pesi, shape key o rig.
-
-2. Osserva il modello e progetta le seam
-Controlla ogni direzione con la texture originale visualizzata e in modalità wireframe, così da comprendere la struttura dei componenti dell’abito e le cuciture effettive.
-Per gli abiti, apri il modello seguendo la struttura del cartamodello — corpetto, maniche, colletto e così via — sfruttando le cuciture laterali e l’interno delle maniche. Sulla pelle e sugli arti, posiziona le seam in aree poco visibili, come l’interno o i lati, creando un’apertura naturale fino agli spazi tra le dita.
-Non confondere pieghe o stampe con cuciture e non creare isole inutilmente frammentate.
-
-3. Esegui l’unwrap per area e correggi la distorsione
-Non elaborare tutto in un’unica operazione: esegui l’Unwrap separatamente per ciascuna area.
-Usa una checker texture con testo che faccia riferimento a UV\_Final e la visualizzazione Stretch per controllare allungamenti, compressioni, torsioni, inversioni e sovrapposizioni.
-In base alla causa del problema, aggiungi o rimuovi seam, quindi regola l’UV con strumenti come Pin e Relax e verifica di nuovo. Non limitarti a ripetere lo stesso unwrap automatico: mantieni le aree già migliorate.
-Non considerare la suddivisione automatica globale con Smart UV Project come risultato finale.
-
-4. Sistema direzione del tessuto, densità e disposizione
-Per gli abiti, allinea la direzione principale del tessuto di ogni componente alla direzione V dell’UV. Non deformare forzatamente in rettangoli i cartamodelli curvi.
-Uniforma la densità di texel rispetto alle dimensioni reali e orienta le isole in modo che la corrispondenza tra destra e sinistra sia chiara.
-Poi esegui il packing nell’area 0–1 mantenendo l’orientamento e la scala relativa. Non sovrapporre i lati destro e sinistro e non ruotarli arbitrariamente.
-Come valori iniziali per il bake in 4K, usa un margine di 16 px, almeno 32 px tra le isole e almeno 16 px dal bordo esterno dell’immagine.
-
-5. Esegui il bake in 4K dalle vecchie UV alle nuove
-Imposta esplicitamente il riferimento alla texture originale sulle vecchie UV e trasferiscila, usando UV\_Final come destinazione del bake, su una nuova immagine da 4096×4096.
-In ogni materiale, attiva il nodo immagine di destinazione del bake, esegui un bake di prova e poi quello definitivo.
-Per il Base Color, usa solo il Color di Diffuse oppure Emit; non incorporare nuova illuminazione, ombre o AO. Mantieni le ombreggiature dipinte nell’immagine originale.
-Trasferisci, se necessario, anche le mappe esistenti come l’alpha e riesegui il bake delle normali tangent space secondo le nuove UV, invece di limitarti a trasferire i colori.
-
-6. Verifica il risultato confrontando vecchie e nuove UV
-Applica le nuove UV e le immagini ottenute dal bake, quindi confronta il corpo intero e i dettagli nelle stesse condizioni di visualizzazione dell’originale.
-Controlla posizione dei motivi, colori, trasparenza e continuità delle seam; correggi UV schiacciate, sovrapposizioni, aree non srotolate e difetti di bake come punti neri, zone mancanti o sbavature.
-Determina il completamento in base ai risultati dei controlli, non al numero di unwrap eseguiti.
-
-Salva il file completato.blend, le immagini in 4K, il layout UV e le immagini di verifica di seam, checker e aspetto finale, quindi riporta brevemente le correzioni principali.
-Non limitarti a descrivere il piano: completa il lavoro verificando effettivamente le immagini durante il processo.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
-
-目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
-
-1．元データを保全する
-作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
-形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
-
-2．モデルを観察してシームを設計する
-元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
-服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
-シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
-
-3．部位ごとに展開し、歪みを修正する
-全体を一括処理せず、部位ごとにUnwrapしてください。
-UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
-問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
-Smart UV Projectによる全体の自動細分化を完成品にしないでください。
-
-4．布目・密度・配置を整える
-服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
-実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
-その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
-4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
-
-5．旧UVから新UVへ4Kベイクする
-元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
-各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
-ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
-透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
-
-6．新旧比較で完成を確認する
-新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
-柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
-「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
-
-完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
-計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098980384260456813) · [Post originale](https://x.com/_sagyoai/status/2098980384260456813) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098909584996057283"></a>
-
-### Animazione 3D di origami che si piega da solo
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="Animazione 3D di origami che si piega da solo"></a>
-
-**Prompt**
-
-```text
-Crea un’animazione 3D di origami. Un foglio quadrato piatto deve piegarsi da solo, passo dopo passo, fino a diventare una figura di origami riconoscibile; ogni piega deve essere mostrata come un’effettiva creazione e rotazione della carta. Poi deve riaprirsi tornando piatto e ripetere il ciclo. La figura realizzata e il modo in cui viene presentata sono a tua discrezione.
-
-Tutto ciò che riguarda il design dipende da te: stile, colori, atmosfera, ambiente, camera, livello di dettaglio ed eventuali elementi aggiuntivi. Non farmi domande: prendi tu ogni decisione e realizza la versione più impressionante possibile in un unico tentativo.
-
-Requisiti tecnici: un unico file HTML autonomo, senza modelli, immagini, suoni o URL di risorse esterni di alcun tipo (è consentita una libreria JavaScript da una CDN). Deve iniziare a funzionare da solo appena viene caricato, senza richiedere clic, e funzionare fluidamente senza errori nella console.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098909584996057283) · [Post originale](https://x.com/free_ai_guides/status/2098909584996057283) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098841316591346006"></a>
-
-### Atlante di Chernobyl
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · Interattivo
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="Atlante di Chernobyl"></a>
-
-**Prompt**
-
-```text
-Crea “Chernobyl Atlas”, un’esposizione 3D interattiva di livello professionale usando Three.js.
-
-Studia la centrale di Chernobyl e il reattore RBMK integri, usando fonti pubbliche. Modella gli edifici, la ciminiera a traliccio, la sala turbine, il blocco di grafite, i canali del combustibile, le schermature, i tamburi separatori, le pompe e le tubazioni.
-
-Crea tre schede:
-— Blocco di potenza: un modello dettagliato che si scompone strato per strato tramite scorrimento e cursore.
-— Circuito del vapore: un diagramma animato che collega il reattore, la turbina, il condensatore e le pompe.
-— Reattore in movimento: uno spaccato 3D con acqua e vapore in movimento, macchinari rotanti e controlli di riproduzione.
-
-Aggiungi controlli indipendenti per la visibilità dei sistemi, la regolazione della distanza tra le parti, la visualizzazione wireframe, la trasparenza, i tagli in sezione e brevi etichette. Fai in modo che ogni strato sia facile da esaminare e che la camera possa ruotare liberamente, anche con il modello completamente scomposto.
-
-Fornisci il codice sorgente e un file HTML autonomo. Verifica tutti i controlli. Presentalo come un’interpretazione a scopo didattico, non come una replica ingegneristica esatta.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
-
-Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
-
-Create three tabs:
-— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
-— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
-— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
-
-Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
-
-Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098841316591346006) · [Post originale](https://x.com/k1rallik/status/2098841316591346006) · [Codice sorgente](https://github.com/bubblik525/Chernobyl_Atlas) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098831830002851846"></a>
-
-### Simulazione di un tavolo di sabbia cinetica
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · Animazione
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="Simulazione di un tavolo di sabbia cinetica"></a>
-
-**Prompt**
-
-```text
-Crea una simulazione di un tavolo di sabbia cinetica. Una sfera deve muoversi su uno strato di sabbia, lasciando una traccia visibile e disegnando motivi geometrici completi, quindi livellare la sabbia e iniziare automaticamente un motivo nuovo e diverso. Deve alternare molti motivi diversi senza ripetersi. Puoi scegliere liberamente l’aspetto e i motivi.
-
-Ogni aspetto del design è una tua decisione: stile, colori, atmosfera, ambiente, inquadratura, livello di dettaglio ed eventuali elementi aggiuntivi. Non farmi domande: fai tutte le scelte in autonomia e realizza la versione più impressionante possibile in un solo tentativo.
-
-Requisiti tecnici: un unico file HTML autonomo, senza modelli, immagini, suoni o URL di risorse esterne di alcun tipo (è consentita una libreria JavaScript da una CDN). Deve avviarsi automaticamente al caricamento, senza bisogno di clic, e funzionare fluidamente senza errori nella console.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098831830002851846) · [Post originale](https://x.com/free_ai_guides/status/2098831830002851846) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098795017955418202"></a>
-
-### Ricostruzione 3D dell’Esposizione Colombiana Mondiale di Chicago del 1893
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · Scene
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="Ricostruzione 3D dell’Esposizione Colombiana Mondiale di Chicago del 1893"></a>
-
-**Prompt**
-
-```text
-Scarica 2.000 fotografie storiche e materiale di riferimento sulla fiera, quindi utilizza tutte le informazioni raccolte per creare una ricostruzione 3D in Blender.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098795017955418202) · [Post originale](https://x.com/moreisdifferent/status/2098795017955418202) · [Torna agli esempi](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098774359926297011"></a>
-
-### Cornice stampata in 3D, divisa in sezioni e con giunti
-
-[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · Asset
-
-<a href="https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="Cornice stampata in 3D, divisa in sezioni e con giunti"></a>
-
-**Prompt**
-
-```text
-Voglio stampare una cornice con la stampante 3D, ma la mia è piccola: meglio un modello da completare collegando più parti. Per non fare qualcosa di banale, usiamo dei giunti.
-```
-
-<details>
-<summary>Prompt originale</summary>
-
-```text
-3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
-```
-
-</details>
-
-[Vedi dettagli ↗](https://www.tripo3d.ai/it/3d-prompts/gpt-6-astra-2098774359926297011) · [Post originale](https://x.com/wada/status/2098774359926297011) · [Torna agli esempi](#all-prompts)
 
 ---
 

@@ -28,6 +28,14 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [内装付きの郊外の2階建て住宅](#gpt-6-astra-2102473710724919614)
+- [インタラクティブな群集避難シミュレーション](#claude-opus-5-5-2102467667978572092)
+- [Battle City 3D：エンドレス戦車ディフェンス](#battle-city-3d)
+- [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
+- [Sir, We Have Orc Problems風のTDゲーム](#gpt-6-astra-2102411087002112256)
+- [東京タワーの昼夜3Dシーンと動画](#gpt-6-astra-2102276620124062065)
+- [バブルベイ：3D水風船バトル](#bubble-bay)
+- [インタラクティブな3Dヘリコプター設計プレゼンテーション](#gpt-6-astra-2102215638311694336)
 - [Spline Rush：プロシージャル生成ブラウザーレーシングゲーム](#gpt-6-astra-2102150615635816866)
 - [インタラクティブな3D太陽モデルのウェブサイト](#gpt-6-astra-2102038136725377200)
 - [Verdant — インタラクティブな3D恐竜アイランド](#gpt-6-astra-2101730386711634251)
@@ -70,16 +78,468 @@
 - [プレイ可能な3D障害物コース](#gpt-6-astra-2099419671481249851)
 - [衝突回避機能付き自動運転模型鉄道](#gpt-6-astra-2099362575339372780)
 - [ピーチ城を3Dで再構築](#gpt-6-astra-2099359786865402019)
-- [インタラクティブ3D解剖ビューア](#gpt-6-astra-2099206962344800541)
-- [プレイ可能な3Dブラウザ向け海岸地区スライス](#gpt-6-astra-2099172061092381027)
-- [頭部なし衣服モデルのUV展開と4K再ベイク](#gpt-6-astra-2098980384260456813)
-- [自動で折れる3D折り紙アニメーション](#gpt-6-astra-2098909584996057283)
-- [チェルノブイリ・アトラス](#gpt-6-astra-2098841316591346006)
-- [キネティックサンドテーブル・シミュレーション](#gpt-6-astra-2098831830002851846)
-- [1893年シカゴ万国博覧会の3D再現](#gpt-6-astra-2098795017955418202)
-- [継手付き分割3Dプリント額縁](#gpt-6-astra-2098774359926297011)
 
 </details>
+<a id="gpt-6-astra-2102473710724919614"></a>
+
+### 内装付きの郊外の2階建て住宅
+
+[Azer](https://x.com/azer0lxm) · 2026-09-22 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614"><img src="../assets/previews/4a4e8ffe5733bb5023c929a1d5bc2974a74b28c90a8a41ead77a47a8d72cd931.webp" width="840" loading="lazy" alt="内装付きの郊外の2階建て住宅"></a>
+
+**プロンプト**
+
+```text
+こんにちは。Blenderを使って、内装などすべてを含む、できるだけ完成度の高い郊外の2階建て住宅の3Dモデルを制作してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Hello. Please design the best possible 3D model using Blender of a two-story suburban house, interior and everything included.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102473710724919614) · [元の投稿](https://x.com/azer0lxm/status/2102473781830909995) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### インタラクティブな群集避難シミュレーション
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="インタラクティブな群集避難シミュレーション"></a>
+
+**プロンプト**
+
+```text
+インタラクティブな群集避難シミュレーションを作成し、どこで詰まるか確認する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092) · [元の投稿](https://x.com/dominikmartn/status/2102467667978572092) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="battle-city-3d"></a>
+
+### Battle City 3D：エンドレス戦車ディフェンス
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/battle-city-3d"><img src="../assets/previews/9b8a0c271057a9b5c02027b12d116b6c265ab248bc3200ff4e2e38b5d6de318a.webp" width="840" loading="lazy" alt="Battle City 3D：エンドレス戦車ディフェンス"></a>
+
+**プロンプト**
+
+```text
+1. プロジェクトの目標
+1985年のファミコン名作に着想を得た、ブラウザで遊べる戦車防衛ゲーム「Battle City 3D」を制作します。プレイヤーは戦車を操縦し、20体の敵からなるウェーブを撃破して物資を集め、イーグル司令部を守ります。リファレンスメディアに示された現在のパースペクティブ3D版を再構築し、シード値に基づくエンドレスキャンペーンと、選択可能なクラシックレイアウト35種を含めます。分かりやすいアーケードのルールを維持しながら、戦車、壁、背景に本物の立体感を与えます。
+
+2. ビジュアルスタイル
+Three.jsのPerspectiveCameraを使い、視野角は60度にします。デフォルトの戦場ビューは、プレイヤーの後方かつ上方、距離約13ワールド単位、高さ0.43ラジアンに配置します。戦車の位置と、その前方の一点を滑らかに追従します。戦車が旋回してもカメラは自動回転させません。より高い戦術ビュー、手動ドラッグによるオービット、ホイールズームを用意します。移動と射撃には、マップの4つの基本方位軸を使います。オービット後は、方向キーをカメラ基準で最も近い基本方位に割り当てます。キーボード入力を斜め移動に変換してはいけません。車体の向きは射撃方向に即座に一致させ、砲弾とマズルフラッシュの高さは各モデルの実際の砲身に合わせて調整します。
+接地感のある履帯付き戦車、金属製の砲塔、テラコッタ色のレンガ、暗いスチールブロック、青い水、低い草木、反射する氷を使います。プレイ可能エリアの外側にも地面を延長し、木々、廃墟、霞を配置します。暖色系の指向性ライト、ソフトシャドウ、アンビエントフィル、ACESトーンマッピングを使い、マズルフラッシュ、反動、火花、跳ねる破片は控えめに表現します。雪のステージでは地面と木々の配色を変え、工業ステージではスチールと廃墟を主体にします。
+ゲーム画面は、ダークオリーブ色の司令部インターフェースで構成し、暖色の黄色を主要アクション、スコア、共有残機、残り敵アイコン、ステージ名、レーダーに使います。大きな「Tripo 3D / Three.js」モデル切り替えUIを戦場の上に配置し、選択中のモードと回転する戦車プレビューを表示します。ローカライズしたイラスト付きの物資ガイドと、効果の残り時間インジケーターを用意します。狭い画面でもプレイフィールドと必須のタッチ操作を表示できるようにします。
+
+3. ワールドとシーン
+戦場は26×26タイルのグリッドとして表現し、戦車の衝突判定に使う半幅は0.72とします。イーグルは(13,25)に配置し、破壊可能なU字型のレンガ防衛で囲みます。プレイヤーの出現位置は(9,25)と(17,25)、敵ゲートは(1,1)、(13,1)、(25,1)です。
+2種類のキャンペーンを用意します。1つ目はクラシックレイアウト35種すべてと、それぞれの20体の敵ウェーブテーブルです。2つ目は、草原・雪・工業バイオームを順番に切り替える、シード値ベースのエンドレス生成です。車体全体が通れる幅の連結した通路を生成し、プレイヤーの出現位置、敵ゲート、アイテム取得地点の間に通行可能な接続を確保します。中央には位置をずらしたスチール製の遮蔽物を追加し、出現地点からイーグルへ直接射線が通るのを防ぎつつ、通りを横断できる経路は残します。開始バイオームまたはクラシックステージを選択でき、ランダムマップを再生成できるようにします。ランのシード、スコア、残機、ステージを生き残ったプレイヤーの強化状態を次のステージへ引き継ぎます。
+レンガは破壊可能、スチールブロックは通常弾と戦車を遮り、水は戦車を通さず砲弾を通します。草木は敵モデルを隠し、氷はグリップを低下させます。遠景の環境は装飾として扱い、ゲームプレイの衝突判定から分離します。
+
+4. アセット一覧
+安定して個別に差し替えられる、次の3Dモデルスロットを使います。プレイヤー、敵、重戦車、イーグルを優先し、その後に物資モデル10種すべてを用意します。各アセットは最低点で接地させ、正面方向、中心、スケールを統一します。敵ごとにモデルを読み込むのではなく、テンプレートを再利用します。
+- player：見分けやすい砲塔と前方を向いた砲身を持つ、からし色の履帯付き戦車。プレイヤー戦車に使用し、2Pには別のリングカラーを使います。
+- enemy：小型の履帯付き敵戦車。通常型、高速型、強力型で異なる色味にして再利用します。
+- heavy：標準の敵メッシュとは別の、明らかに重装甲な戦車。その上部に、4つの装甲セグメントを見える形で配置します。
+- eagle：司令部の台座に立つ、金属製の黄金のイーグル像。
+- pickup-star：金色の五芒星型の強化アイテム。
+- pickup-helmet：一時的なシールド効果を持つ、防護用の軍用ヘルメット。
+- pickup-clock：敵の動きを停止させる、見やすい時計。
+- pickup-shovel：司令部を強化するシャベル。
+- pickup-life：残機1つを表す小型戦車。
+- pickup-grenade：活動中の敵を破壊する手榴弾。
+- pickup-ammo：連射を付与する弾薬箱。
+- pickup-repair：装甲を回復する修理工具箱。
+- pickup-magnet：遠距離から物資を回収する馬蹄形磁石。
+- pickup-boost：一時的な速度上昇を付与するエネルギーバッテリー。
+- environment-building：風雨にさらされた廃アパート。Tripo P2.0、指定予算1,800トライアングル。
+- environment-tree：幹が見える不規則な松。Tripo P2.0、指定予算1,100トライアングル。
+- environment-bush：低い葉の茂みと草の房。Tripo P2.0、指定予算650トライアングル。
+物資は、回転しながら浮遊する取得可能なモデルとして表示し、色付きリングと対応するガイド用サムネイルを付けます。建物、木、茂みを繰り返し配置する際は、共有ジオメトリとマテリアルのインスタンスを使います。建物と木の根元は接地させ、茂みの根元は少し地面に埋めて地形になじませます。雪のステージでは、上向きの面に雪を追加します。タイル壁、水、氷、砲弾メッシュ、UI、ライト、パーティクル、衝突プロキシはプロシージャルに生成します。水はワールド空間で流れる波としてアニメーションさせ、法線を変化させ、小さな表面変位を加えます。隣接タイル間でも連続して見えるようにします。Tripo版では生成モデル17種を使用し、比較版では戦車と環境をコードで構築したジオメトリに切り替えます。ルールと衝突判定は共通です。どちらもThree.jsでレンダリングします。
+
+5. ゲームプレイとフィードバック
+共有残機3つで、1人プレイとローカル2人協力プレイに対応します。1人プレイではWASDまたは矢印キーで移動し、Space/Jで射撃します。協力プレイでは、1PがWASDとSpace/J、2Pが矢印キーとEnter/Numpad 0を使います。P/Escapeで一時停止、Cでカメラ変更、1/2でモデルモードを選択します。タッチスクリーンでは方向パッドと射撃ボタンを同時に押し続けられるようにし、ポインターキャンセル時には入力を解除します。スクロールせずに、一時停止、再開、次のステージ、リトライを実行できるようにします。
+プレイヤーの速度は毎秒4.2単位、ブースト中は6.3単位です。敵には通常型、高速型、強力型、重戦車があり、重戦車は4ヒットポイントを持ち、シールドなしでは最初の3発に耐えます。同時出現数は1人プレイで4体、協力プレイで6体とし、時間差をつけて出現させます。撃破時の得点は、タイプごとに100、200、300、400点です。物資を1つ取得すると500点を獲得します。敵を20体撃破するとステージクリアです。イーグルが破壊されるか、プレイヤーが誰も生き残っていない状態で共有残機が尽きると敗北です。即時リトライ、明示的な次ステージへの進行、ローカル保存されるハイスコアを用意します。
+10種類の物資をすべて実装します。スターは3段階まで強化でき、順に高速弾、同時発射弾数2、スチールを破壊できる砲弾を付与します。ヘルメットは12秒間シールドを付与します。時計は9秒間敵を停止させます。シャベルは16秒間基地を強化します。ミニ戦車は残機を1つ追加します。手榴弾は活動中の敵を破壊します。弾薬は14秒間の連射を付与し、アクティブな砲弾は最大4発までにします。修理はヒットポイントを2追加しますが、上限は3です。磁石は20秒間、5単位以内に見えている物資を回収します。ブーストは12秒間持続します。物資モデルの表示時間は25秒とし、到達可能な場所に出現させます。種類に変化を持たせるため、シャッフルしたデッキを使います。磁石による回収は、固体の障害物を無視してはいけません。
+ステージ開始、射撃、走行、待機の4.333秒の音声、レンガ・スチールへの着弾、敵・プレイヤーの爆発、物資の出現・取得、残機追加、装甲への被弾、氷、ポーズ、ゲームオーバーには、収録済みのNES風サンプルを使います。現在のプロジェクトでは、JustoSenka/BattleCityのOGGキュー15個、コミット3a07004ba8e53baea74ff70d2ecc22b017eb9b20を使用しています。帰属表示とリポジトリのライセンス表記を維持し、ビット単位で完全なハードウェア録音だと主張せず、収録済みのリメイク音源として説明します。ユーザー操作で音声を有効化し、サンプルの音量を調整して、イベントと音を同期させます。無関係な連続バトルBGMは追加しません。
+
+6. 技術実装
+TypeScript、Three.js 0.180.0、Vite 7を使い、分離されたpackage.jsonとロックファイルを用意します。シミュレーションはレンダリングから独立させ、120 Hzでステップ実行します。車体にはソリッドなAABBを使い、軸分離移動、境界処理、戦車同士の分離、最寄り接触点を連続的に探索する砲弾スイープを実装します。敵味方の砲弾同士の相対運動による衝突も含めます。砲弾は車体から発射し、前方へスイープさせることで、至近距離で壁をすり抜ける問題を防ぎます。氷上の加速・減速と、減衰するバウンドを伴う破片の重力を追加します。これはアーケード向けの地上物理であり、サスペンションシミュレーターではありません。
+GLTFLoaderを使って、同一オリジンのGLBアセットを読み込みます。衝突プロキシはアセットのジオメトリから独立させます。現在のランタイムでは、量子化属性とWebPテクスチャ（車両・基地は1024 px、物資・環境は512 px）を使用し、ジオメトリ簡略化やWASMデコーダーは使いません。読み込みに使うワーカーは4個までに制限し、ハッシュ付きバージョンURLと、20秒タイムアウト、各レンジ最大3回試行の256 KiBレンジリクエストを使用します。コアモデル4種と音声の準備が完了したらプレイを解禁します。物資と環境のアセットはバックグラウンドで読み込み、モデルの準備ができた物資タイプだけを出現させます。モデルモードを切り替えてもゲームプレイの状態を保持します。
+UIは英語、簡体字中国語、日本語、韓国語に対応します。端末の言語からデフォルトを選択しますが、zh-TW、zh-HK、zh-MO、zh-Hantの場合は英語をデフォルトにします。ユーザーが明示的に選んだ言語は保存します。キーボード、デスクトップのポインター、マルチタッチに対応し、フォーカスを失ったら一時停止します。すべてのアセット、クレジット、再現可能なスクリプトをソースプロジェクト内に置き、非公開の認証情報や実行時バックエンド依存なしで、静的なdistディレクトリを出荷します。
+
+7. 完了基準
+編集可能なソース、アセットの出典情報とライセンス表記、npmによる開発・ビルド手順、プレイ可能な静的プレビューを納品します。デフォルトのTripoシーン、モデル比較、すべてのバイオーム、4発に耐える重戦車、各物資の効果、ポーズ・再開、敗北・リトライ、ステージ進行を検証します。車体幅の接続性と安全な出現位置についてシード付きマップ1,000個をテストし、さらにクラシックマップ全種、壁抜け、斜め撃ち、戦車同士の分離、氷上の慣性、複数のヨー角でのカメラ相対入力、状態を保持したモード切り替えをテストします。ローカライズ済みUIと狭い画面での2本指操作を検証します。ただし、実機テストをエミュレーションだけで行った場合は、実機で検証したとは記載しません。実際の開始フレームと戦闘フレームをリファレンス画像・動画と比較し、モデル17種と音声キュー15個がすべて読み込まれることを確認します。既存のCMS Web Pageワークフローで公開し、保存済みCMSレコードをデプロイ完了とみなさず、最終的な公開ページを確認します。
+
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/battle-city-3d) · [デモ](https://battle-city-3d.tripo.page/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102450239923720440"></a>
+
+### インタラクティブな3D先史時代の島
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="インタラクティブな3D先史時代の島"></a>
+
+**プロンプト**
+
+```text
+Three.jsとWebGLを使って、美しく非常に詳細で、完全にインタラクティブな3Dの先史時代の島を作成してください。Chromeで直接開ける、単一のスタンドアロンHTMLファイルですべてを提供してください。可能な限りアセットを埋め込んでください。
+
+ビジュアルの方向性
+海に囲まれ、透明な海中断面を備えた、大きく丸みのある島を構築してください。仕上がりは、豊かな植生、表情豊かな恐竜、質感に富んだマテリアル、雰囲気のあるライティング、洗練されたアニメーションを備えた、プレミアムなミニチュア世界のように感じられるものにしてください。単純なジオメトリではなく、統一感のあるスタイライズドなアートディレクションを採用してください。
+ISLAND
+砂浜、岩壁、密生した先史時代の森、巨大なシダ、滝、淡水の池、火山など、変化に富んだ地形を作成してください。小さな研究ステーション、木製の遊歩道、観察プラットフォーム、補給クレート、恐竜の巣も追加してください。島には、恐竜が異なるエリア間を自然に移動できる十分な広さを持たせてください。
+
+水中断面
+島の周囲に、深く丸みのある水塊を形成し、その側面から水中の景観がはっきり見えるようにしてください。テクスチャ付きの海底、岩、水草、魚、泡、そして水面下を泳ぐ緑色の海生爬虫類を含めてください。通常の陸上恐竜を水中に配置せず、潜水艦も追加しないでください。
+波のアニメーション、フレネル反射、水中の光の模様、波打ち際の泡、飛沫を使用してください。透明度ソートのアーティファクトや、島と水の間に見える隙間は避けてください。
+
+DINOSAURS
+首の長い竜脚類、トリケラトプス、ステゴサウルス、大型獣脚類、小型の群れで行動する動物など、複数の特徴的な種を含めてください。頭上を旋回する翼竜も追加してください。
+すべての種に、識別できる解剖学的特徴、形状の整った体、関節でつながった四肢、詳細な頭部、尾、適切な皮膚模様を与えてください。完成した恐竜を、明らかに箱形のパーツや、互いに分離した球体だけで組み立てないでください。
+
+自然なアニメーション
+関節を正しく配置した階層型スケルトンを使用してください。歩行には、明確な立脚期と遊脚期を設け、接地中は足を地面に固定し、各ステップで滑らかに持ち上げてください。歩幅を移動速度に合わせてください。
+
+地形サンプリングと逆運動学（IK）を使い、足が地面に接するようにしてください。体重移動、体の subtle な動き、バランスの取れた尾の動き、首や頭の向きの変化、呼吸を加えてください。恐竜が浮いたり、滑ったり、地面にめり込んだり、建物、岩、木、他の恐竜をすり抜けたりすることがないようにしてください。
+障害物回避と安全な経路を使用してください。種ごとに移動速度、歩容、行動パターンを変えてください。海洋生物は移動方向を向くようにしてください。
+
+INTERACTION
+ユーザーが次の操作を行えるようにしてください。
+
+カメラを自由に回転させ、ズームし、水中断面を調べられるようにしてください。
+恐竜を選択し、滑らかに移動するカメラで追跡できるようにしてください。
+
+適切な場所に餌を置き、近くの恐竜が近づいて食べる様子を見られるようにしてください。
+
+水を飲む、休む、鳴く、群れで移動する、といった行動を発生させられるようにしてください。
+
+巣を探索し、幼体が孵化して出てくる様子を見られるようにしてください。
+海生爬虫類が飛沫を上げながら水面に浮上する動作を発生させられるようにしてください。
+昼、夕暮れ、夜を切り替えられるようにしてください。
+雨、風、火山活動を調整できるようにしてください。
+シミュレーションを一時停止し、シーンをリセットできるようにしてください。
+すべての操作で、明確かつ目に見える反応が起きるようにしてください。インタラクションを繰り返し実行できるようにし、アニメーションが重なってキャラクターのポーズが崩れないようにしてください。
+雰囲気と音声
+揺れる植物、流れる雲、鳥、昆虫、雨のパーティクル、夜の暖かな研究ステーションの照明を追加してください。静かな雰囲気の音楽と環境音を含め、音楽のオン／オフ切り替えと音量スライダーが正常に機能するようにしてください。音声はユーザーが操作した後にのみ開始してください。
+INTERFACE
+英語ラベルを使った、コンパクトで洗練されたインターフェースにしてください。島を覆う大きなパネルは避け、シーンを主役にしてください。デスクトップとモバイルの両方に対応するレスポンシブなレイアウトにしてください。
+技術的な品質
+植生や小道具の繰り返し配置にはインスタンシングを使用し、効率的なジオメトリ、適切なシャドウ、控えめなポストプロセスを採用してください。ビジュアルの豊かさと、滑らかなリアルタイム性能のバランスを取ってください。
+モックアップではなく、完全なシーンを構築してください。完成したHTMLをデスクトップブラウザで直接テストし、スクリーンショットとコンソールを確認し、すべてのインタラクションを実行してください。納品前に、読み込みエラー、浮遊する恐竜、足のスライディング、壊れた衝突判定、水のアーティファクト、カメラの問題を修正してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
+
+VISUAL DIRECTION
+Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
+ISLAND
+Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
+
+WATER CROSS-SECTION
+The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
+Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
+
+DINOSAURS
+Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
+Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
+
+NATURAL ANIMATION
+Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
+
+Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
+Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
+
+INTERACTION
+Allow users to:
+
+Rotate the camera freely, zoom, and inspect the underwater cross-section.
+Select a dinosaur and follow it with a smoothly moving camera.
+
+Place food in suitable locations and watch nearby dinosaurs approach and eat.
+
+Trigger drinking, resting, calling, and herd movement.
+
+Explore nests and watch a hatchling emerge.
+Trigger a marine reptile surfacing with a splash.
+Switch between daylight, sunset, and night.
+Adjust rain, wind, and volcanic activity.
+Pause the simulation and reset the scene.
+Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
+ATMOSPHERE AND AUDIO
+Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
+INTERFACE
+Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
+TECHNICAL QUALITY
+Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
+Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102450239923720440) · [元の投稿](https://x.com/vib3coded/status/2102450842070569099) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102411087002112256"></a>
+
+### Sir, We Have Orc Problems風のTDゲーム
+
+[nkz/ぴたすぽ](https://x.com/nikzu_) · 2026-09-22 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102411087002112256"><img src="../assets/previews/2b06f522f46946fab0b2ce1df2394622c2b6a003f8d75759e9265cc0e52e6878.webp" width="840" loading="lazy" alt="Sir, We Have Orc Problems風のTDゲーム"></a>
+
+**プロンプト**
+
+```text
+Sir, we have orc problemsみたいなTDゲーム作って
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102411087002112256) · [元の投稿](https://x.com/nikzu_/status/2102411087002112256) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102276620124062065"></a>
+
+### 東京タワーの昼夜3Dシーンと動画
+
+[Wafffle](https://x.com/wafffle_dev) · 2026-09-22 · GPT-6 Astra · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102276620124062065"><img src="../assets/previews/940a7ab1086c7b352c14b2371e4dc202e57bee7a07ffec948f06a8235f41f17b.webp" width="840" loading="lazy" alt="東京タワーの昼夜3Dシーンと動画"></a>
+
+**プロンプト**
+
+```text
+東京タワーを主役にした、見応えのある3D作品とX投稿用の約30秒動画を作ってください。
+
+あなたは制作ディレクターです。必要なサブタスクを作成し、調査・制作を依頼してください。依頼内容の具体化、進行管理、成果物の確認、修正指示、最終的な取りまとめまで任せます。
+
+【作ってほしいもの】
+地上から見上げた高さと、近づいたときの鉄骨の細かさが伝わる東京タワーです。
+昼と夜の両方を用意し、昼は構造や塗装、夜はライトアップの美しさを見せてください。
+
+「東京タワーをよく見て作っている」と感じられる作品にしたいです。塔の形だけでなく、脚の開き方、鉄骨の組み方、展望台、足元の建物など、特徴的な細部を調べて反映してください。周辺の街は、塔の大きさと場所の雰囲気が伝わる範囲に絞って構いません。
+
+【制作の進め方】
+・公式資料や写真を調査し、再現する特徴と優先順位を決める。
+・その調査を基に、各サブタスクへ具体的な制作指示を出す。
+・早い段階で実際の3D試写を確認し、形・構図・明るさを調整する。
+・完成画像や動画をメイン自身が見て、違和感や不足を見つけ、修正を依頼する。
+・細かな技術選択や撮影構成は自主的に判断して、完成まで進める。
+
+写真や生成画像を貼った背景だけで代用せず、実際の3D形状とカメラ移動で表現してください。確認できた事実と、資料不足による推定部分は記録してください。
+
+【動画】
+約30秒。地上からの見上げ、鉄骨や展望台の近接、塔全体が分かる引きを組み合わせ、昼夜の変化も見せてください。
+細かな秒割りは、完成したモデルを見て最も魅力が伝わる構成を判断してください。
+
+【納品】
+・編集可能なBlenderデータ
+・X投稿用MP4動画
+・昼夜の全景と細部の確認画像
+・短い投稿文案
+・素材の出典、再現範囲、検証結果を記したREADME
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102276620124062065) · [元の投稿](https://x.com/wafffle_dev/status/2102276620124062065) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="bubble-bay"></a>
+
+### バブルベイ：3D水風船バトル
+
+[jared](https://x.com/jaredliu_bravo) · 2026-09-22 · GPT-6 Astra · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/bubble-bay"><img src="../assets/previews/437c572e2f754d80a942253af4dee554e86d86c3a80bfc5a5a5be00f3daaf1e1.webp" width="840" loading="lazy" alt="バブルベイ：3D水風船バトル"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/c478b28a-c7c6-4b6d-8ab5-e9814ab00549.png)
+
+**プロンプト**
+
+```text
+Bubble Bayを、クラシックなバブルゲームでおなじみの、大きな頭と短い体、顔が露出した衣装キャラクターのスタイルを持つ、プレイ可能なThree.js製の水風船アリーナとして構築します。初期状態では詳細なTripoモデルを使用し、対戦内容を維持したまま切り替えられる、Three.jsジオメトリとの比較用スイッチを分かりやすく用意します。新キャラクターとしてLangya、Shantao、Tuanliの3人を使用します。提供された新キャラクターのコンセプト／モデル資料を参照し、シルエット、顔、色、衣装を維持してください。
+
+Langyaは、横向きにつながった波形のトサカが1つ付いたターコイズ色のフード、オレンジ色の襟と袖口、ネイビーのショートパンツ、オレンジ色のソールが付いたターコイズ色の靴を身に着けた、活発な人間の男の子です。Shantaoは、暗いプラム色のボブヘア、両側に短い花びら飾りが3つずつ付いたピーチピンクのボンネット、ミント色のジャケット、プラム色のショートオーバーオール、淡い黄色のブーツを身に着けた、小柄な人間の女の子です。Tuanliは、幅広い洋ナシ型の体つき、クリーム色の顔周りの縁取りが付いたキャラメル色の丸いクッション帽、ティール色のショートジャケット、クリーム色の下腹部、ネイビーのブーツを持つ、ふっくらした人間の男の子です。3人とも、温かみのある肌色の子どもの顔に、シンプルな暗色の楕円形の目と小さな笑顔を備えます。新しくデザインした衣装を着た子どもたちであり、文字どおりの水生生物にしたり、以前の見覚えのあるキャラクター衣装を再利用したりしないでください。各キャラクターはTripo CLIを通じて個別に生成し、tripo-p2を明示するとともに、独立した正面画像と背面画像を使用します。その後、正しい二足歩行スケルトンとスキンをバインドします。待機、走行、ジャンプでは実際のジョイントを動かし、動作を確認して、頭部装備、靴、体のウェイトを修正し、出典情報を正確に保ってください。モーションをローカルで作成した場合は、その旨を明記します。
+
+ローカライズ名：浪芽 / 랑야 / Langya、珊桃 / 산타오 / Shantao、团栗 / 퇀리 / Tuanli。開始時の容量／射程／速度レベル：1/1/6、1/2/5、2/1/4。上限：6/7/9、6/7/8、9/8/8。速度は0.25 + level*0.8ワールド単位／秒に変換し、タイルは2単位とします。キャラクターを選ぶと、残りの2人を異なるライバルとして割り当て、対応するプロフィールを使用します。ふっくらした見た目のシルエットにかかわらず、ゲームプレイ上の当たり判定半径は同一に保ちます。
+
+デフォルトで15x13のPirate/Patrit14とVillage10を用意します。金色のデッキ、黄色い貨物、木箱4個、4門の大砲、中央のマストを見分けられる形で維持してください。村には、4色の住宅地区、中央道路、生け垣、積み木を配置します。パブリッシャーのマップを参考にしつつ、実行時のアートワークは自分で構築し、3D移動とAIの逃走を継続できるように必要な小さな通路の開口部を記録します。明るいマテリアル、影、海の風景、明確なカメラ追従と俯瞰表示を提供します。
+
+1人のプレイヤーが、協力して行動する2体のAIライバルと対戦します。WASD／矢印キーで移動、Fで2.5秒間持続するバブルを設置、Spaceで実際の足場にジャンプ、Shiftでダッシュ、Q/Eで旋回、Vで視点変更、Escapeでポーズします。十字型に広がる水は障害物に沿って進み、最初のソフトブロックを破壊してバブルを連鎖させます。閉じ込め、脱出、敵の捕獲、リスポーン、捕獲数3・6・9・12（初期値6）の選択、または180秒間のスコア制、結果表示とリトライを実装します。タッチジョイスティックとアクションボタンは同時に機能させます。
+
+Tripoで生成したピックアップアイテムを6種類使用します：風船、射程ポーション、ローラースケート、投てきグローブ、キックブーツ、救助ニードル。木箱からは85%の確率でアイテムが出現します。条件付きアイテム出現率は30/30/30/2.5/3.5/4%です。グローブで投げられる回数を3回追加し、上限は6回とします。Gで近くのバブルを遮蔽物越しに最大4タイル先まで投げ、所有者と元の導火時間を維持し、着地点を予約して軌道を表示します。飛行中に導火時間が切れたバブルは、その場に着地して爆発します。Kでバブルを、導火時間をリセットせず、障害物に当たるまで滑らせます。Xで救助ニードルを使い、初期値は1本、上限は3本とします。インベントリと使用可能な操作を明確に表示します。
+
+中国語、英語、韓国語のUIを用意します：中国本土のIANAタイムゾーンでは中国語、韓国／北朝鮮では韓国語、それ以外（香港、マカオ、台湾を含む）では英語を選択します。手動選択は常に優先します。埋め込みテクスチャを使用した、標準の非圧縮形式で、実際にスキニングされたGLBのみを、40 MB以下かつ15万トライアングル以下でアップロードできるようにします。ボーン、ジョイント、ウェイトを検証し、静的モデルは拒否します。存在する場合は埋め込みアニメーションを使用し、クリップがなくても認識済みのヒューマノイドには基本的なジョイント動作を提供します。認識できないスケルトンにはアニメーションが必要です。リギングとアニメーションの違いを平易に説明し、90度の向き調整を用意します。処理はブラウザ内でローカルに行い、ファイルハッシュに基づいて安定したバランスの取れたステータスを割り当てます。
+
+作成CTAには正確にhttps://studio.tripo3d.ai/?utm_source=satellite_invite&utm_medium=bubble-bay&utm_campaign=create-characterを使用します。jaredのクレジットとしてhttps://x.com/jaredliu_bravoにリンクします。
+
+ElevenLabsの効果音を13種類統合し、正規化、短い減衰、距離／パン、同時発音数の制限、音量調整、ミュートに対応します。効果音は、設置、破裂、木箱、ピックアップ、レアアイテム、投てき、着地、トラップ、救助、ジャンプ、勝利、敗北、キックです。ElevenLabs music_v2_5でオリジナルのインストゥルメンタルトラックを2曲作成し、それぞれ90秒で、航海をテーマにした海賊マップと明るい近隣エリアに合わせます。-20 LUFSを目標とする控えめな音量に正規化し、ループ境界はクロスフェードします。音楽専用の音量調整を用意し、マップごとに曲を変更し、ポーズ時はフェードし、マスターのミュート設定に従います。元ゲームのサウンドトラックは再現しないでください。
+
+独立したソース、依存関係、テスト、アセットの出典情報は、CMSプラットフォームのアプリ外で管理します。同一オリジンの静的リソースとMITライセンス通知をバンドルします。Ego Liteで、実際のデスクトップおよびタッチ操作、アップロードの各バリエーション、言語、表示切り替えを検証します。既存のCMS Web Page 12に紐付く不変のレビュー版を作成し、レビュー中は既存の公開リリースを維持します。正確なソース情報とアセット権利の確認が済んだ場合のみ公開し、その後、公開URL、モデルハッシュ、動作を検証します。履歴を保持し、保存済みCMSレコード、プレビュー、公開リリースを区別します。
+
+モデルアセットは進捗を表示しながら読み込み、同時ダウンロード数は最大3、アイドルタイムアウトは30秒、試行回数は2回とします。リトライ時には、正常にダウンロードできたものを保持します。すべてのモデルの準備が完了するまでTripo／Three.jsタブ切り替え全体を非表示にし、完了後に表示します。手続き的に読み込んだプレースホルダーを、読み込み済みのTripoモデルとして表示しないでください。
+
+
+スポーン地点の外側からアリーナ中央を向いて開始する、近距離のパースペクティブ追従カメラを使用します。Q/Eによる旋回、マウスドラッグによるピッチ調整、Vによる俯瞰表示を維持します。コンパクトなスコアボードを上部、モード切り替えを左上、短い通知を下部付近に配置します。マウス操作のデスクトップではジョイスティックと大きなタッチ操作ボタンを非表示にし、小さなレアアイテム操作だけを残します。狭い画面では、複数のタッチ操作を同時に行えるコンパクトなUIに対応します。ティール色の深度変化を持つアニメーション付きの波シェーダー、曲線的なヤシの木と岩がある有機的な砂の小島、控えめな木目と草のテクスチャを追加します。捕獲された各キャラクターを、サイズに応じた半透明のバブルで包み、虹色に光るフレネルリム、穏やかな浮遊、小さな泡、地面の波紋を加えます。ポーズ状態のスキン頂点が適切に収まることを確認し、救助時に浮き上がり量をリセットし、切り替えを繰り返した後のリソース破棄を確認します。水膜には高コストなシーン全体の透過パスを使用せず、狭い画面ではピクセル比を1.5に制限します。
+
+
+Follow／Overviewカメラ操作とVによる切り替えを画面上に表示します。Overviewでは、＋／−ボタン、マウスホイール、2本指ピンチを使って100〜300%のズームに対応し、マップのドラッグ範囲を制限するとともに、Fit mapでリセットできるようにします。カメラやレンダリング版を切り替えても、ズーム状態と進行中の対戦を維持します。中国語、英語、韓国語で、コンパクトで重ならないレアアイテム操作を用意します。
+
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/bubble-bay) · [元の投稿](https://x.com/jaredliu_bravo/status/2102300855387205871) · [デモ](https://bubble-bay.tripo.page/) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="gpt-6-astra-2102215638311694336"></a>
+
+### インタラクティブな3Dヘリコプター設計プレゼンテーション
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · GPT-6 Astra · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102215638311694336"><img src="../assets/previews/377d5db73590ce3712efa0555afc304331566b018a31f8022164825d1d64a21a.webp" width="840" loading="lazy" alt="インタラクティブな3Dヘリコプター設計プレゼンテーション"></a>
+
+**プロンプト**
+
+```text
+Three.jsとWebGLを使用し、1つのHTMLファイルだけで、現代的なヘリコプターの詳細なインタラクティブ3Dシーンを作成してください。画像ではなく、あらゆる角度から見られる本物の3Dジオメトリを構築します。
+
+ビジュアルスタイル:
+明るいグレーのスタジオ背景、円形の展示台、ソフトシャドウ、リアルな反射を備えた、プレミアムな航空デザインのプレゼンテーション。
+ヘリコプター:
+
+H145のような軽量双発ヘリコプターを参考にした、滑らかで流線型の胴体。
+白い機体に、濃紺の下面と青いアクセントストライプ。
+反射を備え、窓枠のシールまで丁寧にフィットした、曲面の着色コックピットウィンドウ。
+サイドドア、ハンドル、パネルの継ぎ目、リベット、搭乗ステップ、アンテナ。
+エアインテーク、通気グリル、排気口を備えた2基のエンジンハウジング。
+詳細なハブ、取り付け金具、ピッチコントロール用リンケージを備えた5枚ブレードのメインローター。
+先細りのテールブーム、安定板、そしてハウジングを貫通する本物の開口部を備えたシュラウド付きテールローター。
+構造支持部を介して胴体に取り付けられた、曲線状のランディングスキッド。
+航法灯と点滅するビーコン。
+すべてのコンポーネントは物理的につながっていなければなりません。パーツが宙に浮いたり、セクション間に隙間ができたり、ローターブレードが胴体にめり込んだり、ウィンドウが機体から浮いたりしないようにしてください。
+
+インタラクション:
+
+マウスドラッグでオービット、スクロールでズーム、タッチ操作に対応します。
+両方のローターを、段階的に加速・減速しながら始動・停止します。
+ローター速度を調整できます。
+ホバーモード: 台から滑らかに浮上し、空中で穏やかに揺れ、無効にすると静かに着陸します。
+カメラの自動オービット。
+正面、側面、尾部のカメラプリセット。
+カメラのリセットとフルスクリーン操作。
+3種類の塗装: 氷河ブルーとホワイト、レスキューオレンジ、グラファイト。
+インターフェース:
+
+左上: 小さな「AERONAUT / OBJECT STUDIES」ラベルと、大きな「Horizon 05.」見出し。
+右側: 仕様、ヘリコプターの状態、塗装の選択、ローター速度を表示するコンパクトなパネル。
+下部: 操作項目とインタラクションのヒント。
+控えめなタイポグラフィ、細いボーダー、ゆとりのある余白。ヘリコプターを遮らないようにしてください。
+インターフェース内のすべてのテキストは英語にします。
+技術要件:
+
+ダウンロードした既成のヘリコプターモデルを使わず、ジオメトリをプロシージャルに生成します。
+PBRマテリアル、スタジオ用の反射環境、ソフトシャドウを使用します。
+アニメーションをフレームレートに依存しないようにします。
+適切な箇所ではジオメトリとマテリアルを再利用し、パフォーマンス向上のためピクセル比を上限設定します。
+デスクトップとモバイルのレイアウトに対応し、初期ビューでローター全体のスパンが見えるようにします。
+可能であれば依存関係をHTMLに埋め込み、ファイルをオフラインで動作させます。
+WebGLが利用できない場合は、わかりやすいフォールバックメッセージを表示します。
+完成前にモデルをあらゆる方向から確認し、すべての操作をテストして、コンソールエラーがないか確認します。シルエット、構造的な接続部、グレージング、ローター機構を特に注意して確認してください。
+
+説明だけでなく、動作するHTMLファイルを納品してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a detailed, interactive 3D scene of a modern helicopter in a single HTML file using Three.js and WebGL. Build genuine 3D geometry that can be viewed from every angle, not an image.
+
+Visual style:
+A premium aviation design presentation with a light gray studio background, a circular display platform, soft shadows, and realistic reflections.
+Helicopter:
+
+A smooth, streamlined fuselage inspired by light twin-engine helicopters such as the H145.
+A white body with a dark navy underside and blue accent stripe.
+Curved, tinted cockpit windows with reflections and carefully fitted window seals.
+Side doors, handles, panel seams, rivets, boarding steps, and antennas.
+Two engine housings with air intakes, ventilation grilles, and exhaust outlets.
+A five-bladed main rotor with a detailed hub, attachment hardware, and pitch-control linkages.
+A tapered tail boom, stabilizers, and a shrouded tail rotor with a genuine opening through its housing.
+Curved landing skids attached to the fuselage with structural supports.
+Navigation lights and a blinking beacon.
+All components must connect physically. Avoid floating parts, gaps between sections, rotor blades intersecting the fuselage, or windows hovering above the body.
+
+Interactions:
+
+Mouse drag to orbit, scroll to zoom, and touch controls.
+Start and stop both rotors with gradual acceleration and deceleration.
+Adjustable rotor speed.
+Hover mode: smoothly lift off the platform, gently sway in the air, and land softly when disabled.
+Automatic camera orbit.
+Front, side, and tail camera presets.
+Reset camera and fullscreen controls.
+Three liveries: glacier blue and white, rescue orange, and graphite.
+Interface:
+
+Top left: a small “AERONAUT / OBJECT STUDIES” label and a large “Horizon 05.” heading.
+Right side: a compact panel with specifications, helicopter status, livery selection, and rotor speed.
+Bottom: controls and interaction hints.
+Restrained typography, thin borders, and generous whitespace. Keep the helicopter unobstructed.
+All interface text in English.
+Technical requirements:
+
+Generate the geometry procedurally without downloading a prebuilt helicopter model.
+Use PBR materials, a studio reflection environment, and soft shadows.
+Make animation independent of frame rate.
+Reuse geometry and materials where appropriate, and cap pixel ratio for performance.
+Support desktop and mobile layouts, keeping the full rotor span visible in the initial view.
+If possible, embed dependencies in the HTML so the file works offline.
+Display a helpful fallback message if WebGL is unavailable.
+Before finishing, inspect the model from every side, test every control, and check for console errors. Pay particular attention to the silhouette, structural connections, glazing, and rotor mechanisms.
+
+Deliver the working HTML file, not just an explanation.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2102215638311694336) · [元の投稿](https://x.com/vib3coded/status/2102217028052377910) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="gpt-6-astra-2102150615635816866"></a>
 
 ### Spline Rush：プロシージャル生成ブラウザーレーシングゲーム
@@ -1914,335 +2374,6 @@ reimagine Peach’s Castle in 3D and create a fly-by video.
 </details>
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099359786865402019) · [元の投稿](https://x.com/romainhuet/status/2099359786865402019) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099206962344800541"></a>
-
-### インタラクティブ3D解剖ビューア
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-13 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099206962344800541"><img src="../assets/previews/195801f925f169f1000b7605083a5d8f0385ed89fdee5c407d8b95b7b1990fef.webp" width="840" loading="lazy" alt="インタラクティブ3D解剖ビューア"></a>
-
-**プロンプト**
-
-```text
-公開されている科学データセットを使って、美しくインタラクティブな3D解剖ビューアを構築してください。まず外観を表示し、ズームインに合わせて徐々に透明化して、内部の解剖構造を見えるようにします。
-
-モデルを回転させたり、構造を分離したり、ラベル付きの領域を選択したり、サイドパネルからレイヤーを切り替えたりできるようにしてください。解剖、接続、個々の細胞用にタブを分け、アニメーション表示されるシグナルと調整可能なコントロールを追加します。
-
-ソフトなライティング、滑らかなトランジション、控えめな色使い、最小限のテキストによる、モダンでミニマルなインターフェースにしてください。矢印と短いビジュアルチュートリアルも含めます。デスクトップとモバイルの両方で動作するようにしてください。
-
-利用可能な場合は実際の解剖学的ジオメトリを使用し、出典を明記してください。また、科学データと説明用アニメーションを明確に区別します。動作するウェブサイトとして構築してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build a beautiful, interactive 3D anatomy explorer using publicly available scientific datasets. Start with an external view that gradually becomes transparent as I zoom in, revealing the anatomy underneath.
-
-Let me rotate the model, separate structures, select labeled regions, and toggle layers from a side panel. Add separate tabs for anatomy, connections, and individual cells, with animated signals and adjustable controls.
-
-Use a modern, minimal interface with soft lighting, smooth transitions, subtle colors, and very little text. Include arrows and a short visual tutorial. Make it work on desktop and mobile.
-
-Use real anatomical geometry where available, cite the sources, and clearly distinguish scientific data from illustrative animations. Build a working website.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099206962344800541) · [元の投稿](https://x.com/k1rallik/status/2099206962344800541) · [ソースコード](https://github.com/bubblik525/cat_brain_anatomy) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2099172061092381027"></a>
-
-### プレイ可能な3Dブラウザ向け海岸地区スライス
-
-[Lummox](https://x.com/Lummox_eth) · 2026-09-13 · GPT-6 Astra · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099172061092381027"><img src="../assets/previews/afa8f7a6e56e0161ebd2b4d3337414e2a56eb98067f067f3d03b6009e7cbcd21.webp" width="840" loading="lazy" alt="プレイ可能な3Dブラウザ向け海岸地区スライス"></a>
-
-**プロンプト**
-
-```text
-> 仕様を固定する（TZ-gta-slice.md）
-
-prompt: "プレイ可能な3Dブラウザ向けスライスを構築する。いったん固定したら、この仕様を変更しないこと。地区とクリップを先に。操作は後。"
-
-> 技術スタック（Vite、vanilla TypeScript、Three.js、cannon-es、Web Audio）
-
-prompt: "技術スタックは固定する。Vite。vanilla TypeScript。Three.js。cannon-es。Web Audio。ブラウザURLは1つ。"
-
-> フレーム（海に沈む夕日、濡れたアスファルト、ヤシの木）
-
-prompt: "海岸地区を1つ作る。海に沈む夕日。濡れたアスファルト。ヤシの木。ポリゴン数ではなく、光とカメラで画づくりを決める。デフォルトのグレーの照明は禁止。素の立方体をそのまま使わない。"
-
-> 3人（1つのシーン、1台の車、約20秒）
-
-prompt: "3人を1つのシーンに収める。3人は会話する。その後、1台の車に乗り込む。時間は約20秒。余計な切り替えを増やすより、品質を優先する。"
-
-> カット（15〜20秒、滑らかさを維持）
-
-prompt: "処理が重い場合は、クリップを15〜20秒に短縮する。滑らかさを維持する。フレーム落ちが発生したら、照明ではなく歩行者を減らす。"
-
-> サウンド（人間らしい声、セリフの下に敷くパッド、車の低い走行音）
-
-prompt: "声はロボットではなく、人間らしく聞こえるようにする。セリフの下には控えめなパッドを敷き、セリフを邪魔しない。3人が乗り込んだら、ノコギリのような音ではなく、低い車の走行音を加える。ラジオのノイズは禁止。"
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-> lock the spec (TZ-gta-slice.md)
-
-prompt: "Build a playable 3D browser slice. Do not change this spec once it is locked. District and clip first. Controls after."
-
-> the stack (Vite, vanilla TypeScript, Three.js, cannon-es, Web Audio)
-
-prompt: "Stack is fixed. Vite. vanilla TypeScript. Three.js. cannon-es. Web Audio. One browser URL."
-
-> the frame (sunset over the water, wet asphalt, palms)
-
-prompt: "One shore district. Sunset over the water. Wet asphalt. Palms. Hold the frame on light and camera, not poly count. No default gray light. No naked cubes."
-
-> the three (one scene, one car, about 20 seconds)
-
-prompt: "Keep the three in one scene. They talk. Then they sit in one car. About 20 seconds. Quality over extra switches."
-
-> the cut (15 to 20 seconds, keep it smooth)
-
-prompt: "If it lags, cut the clip to 15 to 20 seconds. Keep it smooth. If the frame drops, cut pedestrians, not the light."
-
-> the sound (human voices, pad under the lines, car rumble)
-
-prompt: "Voices must sound human, not robot. Quiet pad under the lines, never over them. When they sit, low car rumble, not a saw. No radio hiss."
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2099172061092381027) · [元の投稿](https://x.com/Lummox_eth/status/2099172061092381027) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098980384260456813"></a>
-
-### 頭部なし衣服モデルのUV展開と4K再ベイク
-
-[さ🥺](https://x.com/_sagyoai) · 2026-09-13 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098980384260456813"><img src="../assets/previews/2ff3f438f0bc8e1940fab697d93dbcb5e643bdc7eb3907e74683f4e4832df928.webp" width="840" loading="lazy" alt="頭部なし衣服モデルのUV展開と4K再ベイク"></a>
-
-**プロンプト**
-
-```text
-Blender MCPで、選択中の「衣服・手足を含む頭部なしモデル」のUV展開と、既存テクスチャの4K再ベイクを実行してください。
-
-目的は、元の見た目を保ち、服の型紙のように構造が読み取れて、後から描き直しやすいUVを作ることです。人間のアーティストと同じく、観察→シーム設計→部位別の展開→歪み修正→配置→ベイクの順で進めてください。
-
-1．元データを保全する
-作業前に別名保存し、旧UV・画像・マテリアルを保持して、新規UV「UV\_Final」を作成してください。
-形状、トポロジー、頂点順序、ウエイト、シェイプキー、リグは変更しないでください。
-
-2．モデルを観察してシームを設計する
-元テクスチャ表示とワイヤー表示で各方向を確認し、衣服のパーツ構成と実際の縫い目を把握してください。
-服は身頃・袖・襟などの型紙構成に沿い、脇線や袖の内側などを利用して切り開きます。肌や手足は内側・側面など目立ちにくい位置にシームを置き、指の股まで無理なく開ける構成にしてください。
-シワやプリントを縫い目と誤認せず、不要な細切れアイランドを作らないでください。
-
-3．部位ごとに展開し、歪みを修正する
-全体を一括処理せず、部位ごとにUnwrapしてください。
-UV\_Finalを参照する文字入りチェッカーとStretch表示で、伸び・圧縮・ねじれ・反転・重なりを確認してください。
-問題の原因に応じてシームを追加・解除し、PinやRelaxなどで調整して再確認します。同じ自動展開を繰り返すだけで済ませず、改善済みの部位は保持してください。
-Smart UV Projectによる全体の自動細分化を完成品にしないでください。
-
-4．布目・密度・配置を整える
-服は各パーツの布目を基準に、基本の縦方向をUVのV方向へ揃えてください。曲線のある型紙まで無理に長方形へ変形しないでください。
-実寸に対するテクセル密度を揃え、左右の対応が分かる向きに整えます。
-その後、向きと相対スケールを維持して0〜1領域へパッキングしてください。左右の重ね合わせや勝手な回転は禁止です。
-4Kでベイク余白16px、アイランド間32px以上、画像外周16px以上を初期基準にしてください。
-
-5．旧UVから新UVへ4Kベイクする
-元テクスチャの参照を旧UVに明示的に固定し、UV\_Finalをベイク先として、4096×4096の新規画像へ転写してください。
-各マテリアルでベイク先画像ノードをアクティブにし、試し焼き後に本番ベイクします。
-ベースカラーはDiffuseのColorのみ、またはEmitを使用し、新たな照明・影・AOを焼き込まないでください。元画像に描かれた陰影は保持してください。
-透過などの既存マップも必要に応じて転写し、タンジェント法線は単なる色転写ではなく新UV基準で再ベイクしてください。
-
-6．新旧比較で完成を確認する
-新UVとベイク画像を適用し、元と同じ表示条件で全身と細部を比較してください。
-柄の位置、色、透過、シームの連続性を確認し、UVの潰れ・重なり・展開漏れ、ベイクの黒点・抜け・にじみを修正してください。
-「何回展開したか」ではなく、検査結果を基準に完成を判断してください。
-
-完成.blend、4K画像、UVレイアウト、シーム・チェッカー・完成外観の確認画像を保存し、主な修正内容を簡潔に報告してください。
-計画の説明だけで終わらず、実際の画像を確認しながら作業を完了してください。
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098980384260456813) · [元の投稿](https://x.com/_sagyoai/status/2098980384260456813) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098909584996057283"></a>
-
-### 自動で折れる3D折り紙アニメーション
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098909584996057283"><img src="../assets/previews/7219e94b0f68ddecb0cf155a514c6741f6b0cee65e65b4d114d21930aed8596b.webp" width="840" loading="lazy" alt="自動で折れる3D折り紙アニメーション"></a>
-
-**プロンプト**
-
-```text
-3D折り紙アニメーションを作成してください。平らな正方形の紙が、実際の折り目と紙の回転を見せながら、段階的に折れて分かりやすい折り紙作品になり、その後、平らな状態まで展開して繰り返すようにします。完成する作品と全体の見せ方は任せます。
-
-デザインに関するすべてをあなたの判断に委ねます。スタイル、色、雰囲気、環境、カメラ、ディテールの度合い、追加の演出などは自由に決めてください。質問はせず、すべて自分で判断し、1回の試行で可能な限り印象的なものを作成してください。
-
-技術要件：外部のモデル、画像、音声、アセットURLを一切使わない、単一の自己完結型HTMLファイルにしてください（CDNから読み込むJavaScriptライブラリは使用可）。読み込んだ瞬間からクリックなしで自動的に実行を開始し、コンソールエラーなしで滑らかに動作する必要があります。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build a 3D origami animation. A flat square sheet must fold itself step by step into a recognizable origami figure, with each fold shown as an actual crease and rotation of the paper, then unfold back to flat and repeat. The figure it becomes and how the whole thing is presented are up to you.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098909584996057283) · [元の投稿](https://x.com/free_ai_guides/status/2098909584996057283) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098841316591346006"></a>
-
-### チェルノブイリ・アトラス
-
-[BuBBliK](https://x.com/k1rallik) · 2026-09-12 · GPT-6 Astra · インタラクティブ
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098841316591346006"><img src="../assets/previews/5fa88f7eeddd105a98bbd83d468c49b0f7ab5c9f8a052194df918fb0d1c032e1.webp" width="840" loading="lazy" alt="チェルノブイリ・アトラス"></a>
-
-**プロンプト**
-
-```text
-Three.jsを使って、高品質なインタラクティブ3D展示「Chernobyl Atlas」を構築してください。
-
-公開資料を参照して、現存するチェルノブイリ原子力発電所とRBMK原子炉を調査してください。建物、トラス構造の煙突、タービンホール、黒鉛ブロック、燃料チャンネル、遮蔽体、気水分離器、ポンプ、配管をモデル化してください。
-
-次の3つのタブを作成してください。
-— 発電ブロック：スクロールとスライダーで、詳細モデルを層ごとに分解表示します。
-— 蒸気回路：原子炉、タービン、復水器、ポンプをつなぐアニメーション図です。
-— 動く原子炉：水と蒸気が動き、機械が回転する3Dカットアウェイに、再生コントロールを付けます。
-
-各システムを個別に表示・非表示に切り替えられるようにし、部品間隔の調整、ワイヤーフレーム、透明表示、断面カット、短いラベルを追加してください。完全に分解した状態でも、すべての層を確認しやすく、カメラを自由に回転できるようにしてください。
-
-ソースコードと単体で動作するHTMLファイルを納品してください。すべてのコントロールをテストしてください。正確な工学的レプリカではなく、教育目的の解釈モデルとして提示してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build "Chernobyl Atlas," a premium interactive 3D exhibit using Three.js.
-
-Research the intact Chernobyl power plant and RBMK reactor using public references. Model the buildings, lattice chimney, turbine hall, graphite stack, fuel channels, shielding, separator drums, pumps, and pipes.
-
-Create three tabs:
-— Power Block: a detailed model that disassembles layer by layer using scroll and a slider.
-— Steam Circuit: an animated diagram connecting the reactor, turbine, condenser, and pumps.
-— Reactor in Motion: a 3D cutaway with moving water and steam, spinning machinery, and playback controls.
-
-Add independent system visibility toggles, adjustable part spacing, wireframe, transparency, section cuts, and short labels. Keep every layer easy to inspect and the camera freely rotatable, even at full disassembly.
-
-Deliver the source and a standalone HTML file. Test all controls. Present it as an educational interpretation, not an exact engineering replica.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098841316591346006) · [元の投稿](https://x.com/k1rallik/status/2098841316591346006) · [ソースコード](https://github.com/bubblik525/Chernobyl_Atlas) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098831830002851846"></a>
-
-### キネティックサンドテーブル・シミュレーション
-
-[AI Guides](https://x.com/free_ai_guides) · 2026-09-12 · GPT-6 Astra · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098831830002851846"><img src="../assets/previews/c8237db8453991af4dd829ab6162a9956972b1d474e1fc8e8138893f8cc2f747.webp" width="840" loading="lazy" alt="キネティックサンドテーブル・シミュレーション"></a>
-
-**プロンプト**
-
-```text
-キネティックサンドテーブルのシミュレーションを構築してください。ボールが砂の上を移動して目に見える軌跡を残し、完成した幾何学模様を描いた後、砂をならして自動的に新しい別の模様を開始する必要があります。繰り返しのないさまざまな模様を多数、順番に表示してください。見た目や模様はすべて自由に決めてください。
-
-デザインに関するすべての判断はあなたに任せます。スタイル、色、雰囲気、環境、カメラ、ディテールの表現、その他の追加要素も自由に選び、質問は一切せず、1回の試行で可能な限り印象的なものを構築してください。
-
-技術要件：外部モデル、画像、音声、アセットURLを一切使用しない、単一の自己完結型HTMLファイルにしてください（CDNからJavaScriptライブラリを読み込むのは構いません）。読み込んだ瞬間からクリックなしで自動的に実行を開始し、コンソールエラーなく滑らかに動作する必要があります。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build a kinetic sand table simulation. A ball must move through a bed of sand, leaving a visible trail, drawing complete geometric patterns, then smoothing the sand and starting a new and different pattern automatically. It must cycle through many different patterns without repeating. Everything about the look and the patterns is your choice.
-
-Everything about the design is your decision: style, colors, mood, environment, camera, level of detail, and any extra touches. Do not ask me any questions, make every choice yourself and build the most impressive version you can in a single attempt.
-
-Technical requirements: one single self-contained HTML file, no external models, images, sounds, or asset URLs of any kind (a JavaScript library from a CDN is fine). It must start running on its own the moment it loads, with no clicks needed, and run smoothly with no console errors.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098831830002851846) · [元の投稿](https://x.com/free_ai_guides/status/2098831830002851846) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098795017955418202"></a>
-
-### 1893年シカゴ万国博覧会の3D再現
-
-[Dan Elton](https://x.com/moreisdifferent) · 2026-09-12 · GPT-6 Astra · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098795017955418202"><img src="../assets/previews/6acb26203fc1f99a75d97caabda424a929fb5211215ee0f5d7dd5211147315e6.webp" width="840" loading="lazy" alt="1893年シカゴ万国博覧会の3D再現"></a>
-
-**プロンプト**
-
-```text
-博覧会に関する歴史的な写真2,000点と資料をダウンロードし、入手したすべての情報を活用してBlenderで3D再現を作成してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-download 2,000 historical photographs and reference information around the fair and use all the information obtained to create a 3D reconstruction in Blender.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098795017955418202) · [元の投稿](https://x.com/moreisdifferent/status/2098795017955418202) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="gpt-6-astra-2098774359926297011"></a>
-
-### 継手付き分割3Dプリント額縁
-
-[wada](https://x.com/wada) · 2026-09-12 · GPT-6 Astra · アセット
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098774359926297011"><img src="../assets/previews/66a8521ca1f63a496de6319d72a2d1f061487c6d95e47fbd65464bd0c0fa611b.webp" width="840" loading="lazy" alt="継手付き分割3Dプリント額縁"></a>
-
-**プロンプト**
-
-```text
-3Dプリンターで額縁印刷したい、でも3Dプリンターちっちゃいから部品を繋いで完成させるやつがいい、なんか面白くないから継手で
-```
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/gpt-6-astra-2098774359926297011) · [元の投稿](https://x.com/wada/status/2098774359926297011) · [作例一覧に戻る](#all-prompts)
 
 ---
 

@@ -28,6 +28,14 @@
 <details>
 <summary>Переглянути приклади (50)</summary>
 
+- [3D-симуляція розвитку раку](#3d-cancer-progression-simulation-2095130778342408331)
+- [Удосконалений VFX розпаду метеороїда](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
+- [Космічна десантна капсула з рівнями LOD](#lod-ready-assault-pod-spaceship-2095126622319845478)
+- [Докладне відтворення 3D-стадіону](#detailed-3d-stadium-recreation-2095123216419459454)
+- [Село з механічно точним водяним млином](#mechanically-accurate-water-mill-village-2095123063352561815)
+- [Інтерактивний Dino-dex із шейдерами](#interactive-shader-driven-dino-dex-2095121568297083067)
+- [Живий воксельний світ у пляшці](#living-voxel-world-inside-a-bottle-2095111213927510131)
+- [Редагована 3D-анімація клавіатури](#editable-3d-keyboard-animation-2095111032171876470)
 - [Вітрина мехів у дусі Gundam](#gundam-inspired-mecha-showcase-2095106919530930221)
 - [Портфоліо на Three.js за референсом](#reference-driven-three-js-portfolio-2095104073590808644)
 - [Інтерактивна технічна модель F-35A](#interactive-f-35a-technical-model-2095094543339446572)
@@ -70,16 +78,168 @@
 - [Гра на Three.js за десять хвилин із доопрацюванням](#ten-minute-three-js-game-then-refined-2094855905678446777)
 - [Скляний мозок: демонстрація можливостей](#glass-brain-capability-demo-2094853472864682360)
 - [Процедурний воксельний замок](#procedural-voxel-castle-showcase-2093690427849191855)
-- [Промпт складання позашляховика 4×4 у стилі Jeep в Blender](#jeep-style-4x4-assembly-in-blender-2082845759452463405)
-- [Промпти 3D-фізики руйнувань для самодостатніх HTML-сцен](#3d-destruction-physics-in-self-contained-html-2082832042702561372)
-- [Набір промптів Claude Opus 5 для креслення меха](#mech-robot-blueprint-set-2082760534500188606)
-- [Промпт гри в стилі Need for Speed на Godot](#need-for-speed-style-godot-game-2082714235373584582)
-- [Промпт Kimi K3 для 3D-симуляції акваріума, що тріскається](#cracking-aquarium-3d-simulation-2082528683747873194)
-- [Промпт бойової гри для Kimi K3](#playable-combat-game-2082507403598373134)
-- [Промпт Kimi K3: гра 1 на 1 у стилі League of Legends в одному HTML-файлі](#league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564)
-- [Промпт Claude Opus 5 для однофайлової 3D-візуалізації Сонця](#single-file-3d-sun-visualizer-2082461416049525077)
 
 </details>
+<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
+
+### 3D-симуляція розвитку раку
+
+[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="3D-симуляція розвитку раку"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи навчальну 3D-симуляцію ракових клітин, що показує мутації, поділ, ангіогенез, інвазію та метастазування. Додай часову шкалу, підписи й чітке візуальне розмежування стадій.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [Оригінальний допис](https://x.com/viewsfrom02108/status/2095130778342408331) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
+
+### Удосконалений VFX розпаду метеороїда
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="Удосконалений VFX розпаду метеороїда"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Оглянь наявний VFX розпаду метеороїда й удоскональ фрагментацію, нагрівання, сліди, ударну хвилю, таймінг, масштаб і читабельність у кадрі, не порушуючи поточне керування.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [Оригінальний допис](https://x.com/gladimdim/status/2095127248470692320) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
+
+### Космічна десантна капсула з рівнями LOD
+
+[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · Асети
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="Космічна десантна капсула з рівнями LOD"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Перероби високо- й низькодеталізовані LOD-моделі космічного десантного корабля. Збережи силует, дотримайся лімітів трикутників, удоскональ оформлення панелей і підготуй асет для гри в реальному часі.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [Оригінальний допис](https://x.com/gladimdim/status/2095126622319845478) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
+
+### Докладне відтворення 3D-стадіону
+
+[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="Докладне відтворення 3D-стадіону"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Відтвори стадіон за референсом як докладну 3D-сцену для пересування з точними ярусами трибун, полем, дахом, освітленням і масштабом. Потім порівняй візуальну точність та вартість генерування.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [Оригінальний допис](https://x.com/thebuggeddev/status/2095123216419459454) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
+
+### Село з механічно точним водяним млином
+
+[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="Село з механічно точним водяним млином"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи діюче село з водяним млином на Three.js. Колесо має приводити в рух шестерні, кулачок і товкачі з правдоподібними передатними відношеннями, а жителі й рух оточення — оживляти сцену.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [Оригінальний допис](https://x.com/mira_senor_1102/status/2095123063352561815) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
+
+### Інтерактивний Dino-dex із шейдерами
+
+[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="Інтерактивний Dino-dex із шейдерами"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи інтерактивний Dino-dex, де кожен динозавр є живою 3D-моделлю. Використай власний ефект Френеля на GLSL, вісім ефективних контекстів WebGL, адаптивні картки й змістовні відомості про види.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [Оригінальний допис](https://x.com/_Benviz/status/2095121568297083067) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
+
+### Живий воксельний світ у пляшці
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="Живий воксельний світ у пляшці"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи живий воксельний світ у скляній пляшці: багатошарова товща океану, вітрильник, маяк, життя острова й переходи між штилем, штормом і ніччю.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [Оригінальний допис](https://x.com/vib3coded/status/2095111213927510131) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
+
+### Редагована 3D-анімація клавіатури
+
+[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="Редагована 3D-анімація клавіатури"></a>
+
+*Технічне завдання на основі роботи за посиланням*
+
+**Промпт**
+
+```text
+Створи редаговану 3D-анімацію клавіатури з приємним ходом клавіш, освітленням, рухом камери та налаштуванням написів, кольорів і таймінгу.
+```
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [Оригінальний допис](https://x.com/rege_dev/status/2095111032171876470) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="gundam-inspired-mecha-showcase-2095106919530930221"></a>
 
 ### Вітрина мехів у дусі Gundam
@@ -947,203 +1107,6 @@ make a Three.js demo of your capabilities.
 ```
 
 [Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/procedural-voxel-castle-showcase-2093690427849191855) · [Оригінальний допис](https://x.com/hakmgpt/status/2093690427849191855) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="jeep-style-4x4-assembly-in-blender-2082845759452463405"></a>
-
-### Промпт складання позашляховика 4×4 у стилі Jeep в Blender
-
-[slash1s](https://x.com/slash1sol) · 2026-07-30 · Claude Opus 5 / Claude Fable 5 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405"><img src="../assets/previews/d5d2b365bac882105178d7f240568b8e71d18ce4ba0e2d0173048d871009fd72.webp" width="840" loading="lazy" alt="Промпт складання позашляховика 4×4 у стилі Jeep в Blender"></a>
-
-**Промпт**
-
-```text
-Спроєктуй позашляховик 4×4 у стилі Jeep і збери його в Blender деталь за деталлю, без ручного моделювання
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/jeep-style-4x4-assembly-in-blender-2082845759452463405) · [Оригінальний допис](https://x.com/slash1sol/status/2082845759452463405) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="3d-destruction-physics-in-self-contained-html-2082832042702561372"></a>
-
-### Промпти 3D-фізики руйнувань для самодостатніх HTML-сцен
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372"><img src="../assets/previews/23bd3b2a3e5d8b693f8938b874f7cf8b9a39ab698da9b9e8257b2f287ad965ea.webp" width="840" loading="lazy" alt="Промпти 3D-фізики руйнувань для самодостатніх HTML-сцен"></a>
-
-**Промпт**
-
-```text
-Монстр-трак чавить ряд автомобілів
-Два автомобілі перестрибують каньйон і стикаються лоб у лоб у повітрі
-Велетенське ковадло розплющує автомобілі один за одним
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/3d-destruction-physics-in-self-contained-html-2082832042702561372) · [Оригінальний допис](https://x.com/Oluwaphilemon1/status/2082832042702561372) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="mech-robot-blueprint-set-2082760534500188606"></a>
-
-### Набір промптів Claude Opus 5 для креслення меха
-
-[Spectro](https://x.com/Spectromachina) · 2026-07-30 · Claude Opus 5 · Асети
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/mech-robot-blueprint-set-2082760534500188606"><img src="../assets/previews/62e6afb5d902f128043ba3abb3b1bb4be65342b1662e419527eaf64a2c51190e.webp" width="840" loading="lazy" alt="Набір промптів Claude Opus 5 для креслення меха"></a>
-
-**Промпт**
-
-```text
-Ділюся промптами, якими я з Claude OPUS 5 + Blender створював креслення меха РОЗМІРОМ ІЗ GUNDAM, використовуючи справжню математику й фізику:
-
-«подумаймо над будовою меха: по суті він має 2 турбовальні двигуни, електромотори й гідропривід, ще допоміжну силову установку, можливо, пневматику. потужні акумулятори допоможуть трохи рухатися за інерцією, якщо все піде шкереберть. думаю поставити 2 двигуни на плечі, сервісними панелями назовні для обслуговування. до речі, ще раз подивися на системи меха — тепер фізично створюватимемо їх усі. буде круто; підключи агента й перебудуй торс, залишивши багато місця посередині для кабіни та спального модуля».
-
-«а якщо дати йому колеса на стопах з електромоторами? вони могли б значно допомагати пересуванню».
-
-«признач агента, щоб він узяв ці параметри й спроєктував ноги зі справжніми дротами до приводів та іншого».
-
-«гаразд, додай нові glb у сцену».
-
-«боже, це до біса шалено. друже, добре, швидко покажи приховані частини».
-
-«додай низькополігональній голові справжні камери FLIR + NV і кулемет CROWS M2 зразка 1980–1990-х».
-
-«це… прекрасно… T_T».
-
-«треба налаштувати риг скелета ніг, щоб анімація дотримувалася обмежень; це також необхідно для розрахунку сил та іншого».
-
-«нічого, я все одно більшість не розумію, лол».
-«отже, створені двигуни, трансмісію й ноги збережи для подальшого використання — раптом знадобляться деінде. а тепер доручи агенту руки й кисті».
-
-«також правильно спроєктуй тазовий механізм під ноги».
-
-«я уявляю з’єднання ТАЗА та ГРУДЕЙ таким, що передає обертальний момент».
-
-«нехай агент створить ручну напівавтоматичну гвинтівку за системою bofors, щоб робот мав швидку напівавтоматичну гармату-піу-піу».
-
-«хочу саме 40 мм; зроби точну, але низькополігональну, щоб оцінити, чи краще вона працює як пістолет або напівавтоматична гвинтівка».
-
-«зроби обидві, а потім варіант із гарматою abrams і напівавтоматичним механізмом».
-«створи затвор і пружину як у гвинтівки».
-
-«щодо кабіни: думаю прибрати декоративні дроти й зробити справжню проводку o-O що скажеш».
-
-«рішення: справжня проводка, але прокладена наче диким звіром».
-
-«додай цю 120-мм гармату».
-
-«СТВОРИ РИГ і анімуй роботу 120-мм гармати».
-
-«тут потрібен ВЕЛИКИЙ броньований люк, щоб сидіння ПІДНІМАЛОСЯ, пілот міг озиратися й керувати мехом із цього положення. ще 4 телескопічні оглядові прилади всередині кабіни повинні мати відповідні виходи зверху, інакше це безглуздо».
-«продовжуй риг і анімацію 120-мм гармати та керування люком; паузу я натиснув випадково».
-
-«щодо силової установки: живіт — добре місце, але розташування двигунів не подобається. думаю підняти їх вище та зробити справжню ферменну конструкцію для підтримки торса й плечей… вирішуй сам, як хочеш зробити груди? вхід у нас через верхній люк, тому передню частину грудей можна будувати…».
-
-«а зовнішня оболонка може бути тонким алюмінієм або навіть вуглеволокном, байдуже, головне — крутий вигляд. мабуть, NCT підійде для броні? не знаю, вирішуй сам. пізніше додамо деталі, щоб це чудовисько виглядало бодай трохи пристойно… словом, збирай команду й починай будувати».
-
-«знайшов тут інвертор PT125, який висить без діла, і не розумію, де він має стояти».
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/mech-robot-blueprint-set-2082760534500188606) · [Оригінальний допис](https://x.com/Spectromachina/status/2082760534500188606) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="need-for-speed-style-godot-game-2082714235373584582"></a>
-
-### Промпт гри в стилі Need for Speed на Godot
-
-[FHILY👑](https://x.com/Oluwaphilemon1) · 2026-07-30 · Kimi K3 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/need-for-speed-style-godot-game-2082714235373584582"><img src="../assets/previews/8b90e3470d7b80ef14b79de6532560a9247506fd00bd0f6137201f606e54f38f.webp" width="840" loading="lazy" alt="Промпт гри в стилі Need for Speed на Godot"></a>
-
-**Промпт**
-
-```text
-Зроби мені гру в стилі NFS.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/need-for-speed-style-godot-game-2082714235373584582) · [Оригінальний допис](https://x.com/Oluwaphilemon1/status/2082714235373584582) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="cracking-aquarium-3d-simulation-2082528683747873194"></a>
-
-### Промпт Kimi K3 для 3D-симуляції акваріума, що тріскається
-
-[Unsloth AI](https://x.com/UnslothAI) · 2026-07-29 · Kimi K3 · Анімація
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194"><img src="../assets/previews/6c3bd37308e325eccf9ef29b957dbb7cb19ccb236b180c61071f8f97359eac80.webp" width="840" loading="lazy" alt="Промпт Kimi K3 для 3D-симуляції акваріума, що тріскається"></a>
-
-**Промпт**
-
-```text
-Створи скляний акваріум, на бічній стінці якого з’являється помітна тріщина, а потім стінка лопається.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/cracking-aquarium-3d-simulation-2082528683747873194) · [Оригінальний допис](https://x.com/UnslothAI/status/2082528683747873194) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="playable-combat-game-2082507403598373134"></a>
-
-### Промпт бойової гри для Kimi K3
-
-[Darshal Jaitwar](https://x.com/darshal_) · 2026-07-29 · Kimi K3 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/playable-combat-game-2082507403598373134"><img src="../assets/previews/7a30633ca2047c7e4e55c6d0fe2d1d896b5b5cd798fb2815faf6dda3eeb488ae.webp" width="840" loading="lazy" alt="Промпт бойової гри для Kimi K3"></a>
-
-**Промпт**
-
-```text
-створи бойову гру, у яку можна грати
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/playable-combat-game-2082507403598373134) · [Оригінальний допис](https://x.com/darshal_/status/2082507403598373134) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"></a>
-
-### Промпт Kimi K3: гра 1 на 1 у стилі League of Legends в одному HTML-файлі
-
-[Fokki](https://x.com/0x_fokki) · 2026-07-29 · Kimi K3 · Ігри
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564"><img src="../assets/previews/752869d41839c98794e9334bb9263c9c2f521904d904c9b606214c977acf8a26.webp" width="840" loading="lazy" alt="Промпт Kimi K3: гра 1 на 1 у стилі League of Legends в одному HTML-файлі"></a>
-
-**Промпт**
-
-```text
-Я ДАВ KIMI K3 І GPT-5.6 ОДНАКОВИЙ ПРОМПТ У VERDENT: СТВОРИ РОБОЧУ ГРУ 1 НА 1 У СТИЛІ LEAGUE OF LEGENDS В ОДНОМУ HTML-ФАЙЛІ.
-
-обидві моделі зробили гру. я відкрив їх поруч і зіграв у кожну.
-
-між запусками я змінив лише одне — модель у випадному списку на https://t.co/ItoGlnpiXi https://t.co/3PYQVli1zm
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/league-of-legends-style-1v1-game-in-one-html-file-2082474707727581564) · [Оригінальний допис](https://x.com/0x_fokki/status/2082474707727581564) · [Назад до прикладів](#all-prompts)
-
----
-
-<a id="single-file-3d-sun-visualizer-2082461416049525077"></a>
-
-### Промпт Claude Opus 5 для однофайлової 3D-візуалізації Сонця
-
-[AlysisAI](https://x.com/AlysisAI) · 2026-07-29 · Claude Opus 5 / Kimi K3 · Інтерактив
-
-<a href="https://www.tripo3d.ai/uk/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077"><img src="../assets/previews/f459db743328b14b1aa4cbdaadbf7b98edfee5a90500fd50692a09761f52b26d.webp" width="840" loading="lazy" alt="Промпт Claude Opus 5 для однофайлової 3D-візуалізації Сонця"></a>
-
-**Промпт**
-
-```text
-Створи 3D-візуалізацію Сонця, що обертається в космосі. Один HTML-файл.
-```
-
-[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/single-file-3d-sun-visualizer-2082461416049525077) · [Оригінальний допис](https://x.com/AlysisAI/status/2082461416049525077) · [Назад до прикладів](#all-prompts)
 
 ---
 

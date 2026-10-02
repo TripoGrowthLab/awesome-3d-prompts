@@ -28,6 +28,14 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [평면도에서 완전한 3D 워크스루로](#floor-plan-to-complete-3d-walkthrough-2095725404883476661)
+- [조작할 수 있는 복셀 철도 테이블](#interactive-voxel-railway-table-2095719731860750613)
+- [병 안에서 항해하는 살아 있는 복셀 범선](#living-voxel-ship-in-a-bottle-2095699049722581065)
+- [살아 있는 바다와 폭풍의 절차적 시뮬레이션](#procedural-living-ocean-and-storm-simulation-2095673885605630429)
+- [한 번에 놀라움을 주는 Three.js 게임](#one-shot-three-js-surprise-game-2095663498101662198)
+- [Blender로 재현한 팰리스 오브 파인 아츠](#palace-of-fine-arts-blender-recreation-2095653641164329143)
+- [프롬프트 하나로 비교하는 수족관 제작](#single-aquarium-benchmark-2095650251902239139)
+- [1인칭·3인칭 카메라를 갖춘 RPG](#rpg-with-first-and-third-person-cameras-2095648440978174276)
 - [프롬프트 하나로 플레이하는 실시간 3D 게임](#single-playable-real-time-3d-game-2095647685210669541)
 - [3D 프린트 가능한 USS 엔터프라이즈 CAD 조립 모델](#printable-uss-enterprise-cad-assembly-2095641163441254676)
 - [Blender로 만든 모던 빌라 장면](#modern-villa-scene-in-blender-2095636679264780481)
@@ -70,16 +78,168 @@
 - [Blender 드래곤 둥지 장면](#dragon-lair-scene-in-blender-2095149546187653547)
 - [Three.js 멀티플레이 해적 세계](#multiplayer-pirate-world-in-three-js-2095137561283010600)
 - [Blender 날아다니는 냄비 애니메이션](#flying-pot-animation-in-blender-2095132939667255657)
-- [암의 진행을 보여주는 3D 시뮬레이션](#3d-cancer-progression-simulation-2095130778342408331)
-- [유성체 분열 VFX 개선](#enhanced-meteoroid-breakup-vfx-2095127248470692320)
-- [LOD를 갖춘 강습 포드 우주선](#lod-ready-assault-pod-spaceship-2095126622319845478)
-- [정교하게 재현한 3D 경기장](#detailed-3d-stadium-recreation-2095123216419459454)
-- [기계적으로 정확한 물레방아 마을](#mechanically-accurate-water-mill-village-2095123063352561815)
-- [셰이더로 표현하는 인터랙티브 공룡 도감](#interactive-shader-driven-dino-dex-2095121568297083067)
-- [병 안에서 살아 움직이는 복셀 세계](#living-voxel-world-inside-a-bottle-2095111213927510131)
-- [편집 가능한 3D 키보드 애니메이션](#editable-3d-keyboard-animation-2095111032171876470)
 
 </details>
+<a id="floor-plan-to-complete-3d-walkthrough-2095725404883476661"></a>
+
+### 평면도에서 완전한 3D 워크스루로
+
+[AidarosGo](https://x.com/aidarosgo3) · 2026-09-04 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661"><img src="../assets/previews/322edce2ce30ed9f2fbea54ec58b082fc4fd8b7b0721a06b21680fbed4e446c6.webp" width="840" loading="lazy" alt="평면도에서 완전한 3D 워크스루로"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 평면도를 완전한 3D 건축 워크스루로 바꾸세요. 방의 치수와 동선을 지키고 문, 창문, 가구, 재질, 조명을 추가한 뒤 구조를 설명하는 카메라 경로를 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/floor-plan-to-complete-3d-walkthrough-2095725404883476661) · [원본 게시물](https://x.com/aidarosgo3/status/2095725404883476661) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="interactive-voxel-railway-table-2095719731860750613"></a>
+
+### 조작할 수 있는 복셀 철도 테이블
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-voxel-railway-table-2095719731860750613"><img src="../assets/previews/887cde4726c7f4aabbd627a32f3a3568be9a685e5f051e686ee9ccc5277df2b2.webp" width="840" loading="lazy" alt="조작할 수 있는 복셀 철도 테이블"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Three.js로 정교한 복셀 철도 테이블을 만드세요. 여러 기차를 출발·정지시키고 선로를 전환하며 테이블 주변을 회전·확대하고, 작은 마을을 살펴보고 환경 애니메이션을 실행할 수 있게 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-voxel-railway-table-2095719731860750613) · [원본 게시물](https://x.com/DeryaTR_/status/2095719731860750613) · [데모](https://lindenhafen-railway.vercel.app/) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="living-voxel-ship-in-a-bottle-2095699049722581065"></a>
+
+### 병 안에서 항해하는 살아 있는 복셀 범선
+
+[Derya Unutmaz, MD](https://x.com/DeryaTR_) · 2026-09-04 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065"><img src="../assets/previews/29f86c96677d69cb31fe30a6159bdcd3b9df998cf5c616a61587d0a1e4ad99b0.webp" width="840" loading="lazy" alt="병 안에서 항해하는 살아 있는 복셀 범선"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+유리병 안을 항해하는 정교한 17세기 복셀 범선을 만드세요. 출렁이는 파도와 배의 움직임을 시뮬레이션하고, 주위를 도는 갈매기, 작은 항구, 산호초를 추가하세요. 영화적인 카메라 시퀀스와 잔잔한 사운드트랙도 만드세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/living-voxel-ship-in-a-bottle-2095699049722581065) · [원본 게시물](https://x.com/DeryaTR_/status/2095699049722581065) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="procedural-living-ocean-and-storm-simulation-2095673885605630429"></a>
+
+### 살아 있는 바다와 폭풍의 절차적 시뮬레이션
+
+[Ethan Mollick](https://x.com/emollick) · 2026-09-04 · GPT-6 Astra · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429"><img src="../assets/previews/b5a1d243ee3dd77fb8991d26b1b2a92d2fdb048c7991a0ee5666e62096c45d5f.webp" width="840" loading="lazy" alt="살아 있는 바다와 폭풍의 절차적 시뮬레이션"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 단일 파일 해수면 폭풍 생성기를 완전한 절차적 바다로 확장하세요. 산호초, 심해, 자연스러운 날씨, 창발적 행동을 보이는 동물 집단, 생태계 상호작용, 수면과 수중을 오갈 수 있는 카메라를 추가하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/procedural-living-ocean-and-storm-simulation-2095673885605630429) · [원본 게시물](https://x.com/emollick/status/2095673885605630429) · [소스 코드](https://github.com/emollick/abyssal-living-deep) · [데모](https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="one-shot-three-js-surprise-game-2095663498101662198"></a>
+
+### 한 번에 놀라움을 주는 Three.js 게임
+
+[Prathamesh](https://x.com/pratt_builds) · 2026-09-04 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198"><img src="../assets/previews/c988696d10f983efc47b897fa681d6e63ddbc560f34f4b425d200c3a143e2225.webp" width="840" loading="lazy" alt="한 번에 놀라움을 주는 Three.js 게임"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+‘Amaze’라는 이름에 걸맞은 독창적인 Three.js 게임을 한 번에 만드세요. 놀라운 시각적 규칙 하나를 골라 몇 초 안에 익히게 하고, 짧은 성장 흐름과 만족스러운 볼거리로 마무리하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/one-shot-three-js-surprise-game-2095663498101662198) · [원본 게시물](https://x.com/pratt_builds/status/2095663498101662198) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="palace-of-fine-arts-blender-recreation-2095653641164329143"></a>
+
+### Blender로 재현한 팰리스 오브 파인 아츠
+
+[Sharif Shameem](https://x.com/sharifshameem) · 2026-09-03 · GPT-6 Astra · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143"><img src="../assets/previews/90d5587a558561dde07b0497df2963780c4df0ae39897fbd10ae026dae0d8d4d.webp" width="840" loading="lazy" alt="Blender로 재현한 팰리스 오브 파인 아츠"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+샌프란시스코의 팰리스 오브 파인 아츠를 Blender로 재현하세요. 알아볼 수 있는 원형 건물의 비율, 열주, 연못, 식생, 세월의 흔적이 있는 재질, 만국박람회 시대의 낙관적인 영화적 조명을 표현하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/palace-of-fine-arts-blender-recreation-2095653641164329143) · [원본 게시물](https://x.com/sharifshameem/status/2095653641164329143) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="single-aquarium-benchmark-2095650251902239139"></a>
+
+### 프롬프트 하나로 비교하는 수족관 제작
+
+[Tony出海](https://x.com/iamtonyzhu) · 2026-09-03 · GPT-6 Astra · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/single-aquarium-benchmark-2095650251902239139"><img src="../assets/previews/9e18ef5f0b45d3db78a9b154f9a680b933835d7688ab5055b6fc521be1ef67ce.webp" width="840" loading="lazy" alt="프롬프트 하나로 비교하는 수족관 제작"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+제공된 참고 이미지에서 프롬프트 하나로 3D 수족관 게임을 만드세요. 배치와 분위기를 맞추고, 생동감 있는 물고기 행동, 물의 집광 무늬, 궤도 조작, 모델 결과 비교에 적합한 작은 상호작용 흐름을 추가하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/single-aquarium-benchmark-2095650251902239139) · [원본 게시물](https://x.com/iamtonyzhu/status/2095650251902239139) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="rpg-with-first-and-third-person-cameras-2095648440978174276"></a>
+
+### 1인칭·3인칭 카메라를 갖춘 RPG
+
+[Ryan Fitzpatrick](https://x.com/rfitzpatrick_io) · 2026-09-03 · Claude Fable 5.1 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276"><img src="../assets/previews/acbbcc655fb21bd51eabc6768eef33722c2f2e33af354aadcfd843718dc9c3b0.webp" width="840" loading="lazy" alt="1인칭·3인칭 카메라를 갖춘 RPG"></a>
+
+*원작을 바탕으로 정리한 제작 지침*
+
+**프롬프트**
+
+```text
+Three.js 롤플레잉 게임에 1인칭·3인칭 카메라를 추가하세요. 두 시점을 전환해도 이동과 탐험이 유지되도록 하세요.
+```
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/rpg-with-first-and-third-person-cameras-2095648440978174276) · [원본 게시물](https://x.com/rfitzpatrick_io/status/2095648440978174276) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="single-playable-real-time-3d-game-2095647685210669541"></a>
 
 ### 프롬프트 하나로 플레이하는 실시간 3D 게임
@@ -919,166 +1079,6 @@ Blender에서 장난기 있는 날아다니는 냄비를 만드세요. 명확한
 ```
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/flying-pot-animation-in-blender-2095132939667255657) · [원본 게시물](https://x.com/alafrayme/status/2095132939667255657) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="3d-cancer-progression-simulation-2095130778342408331"></a>
-
-### 암의 진행을 보여주는 3D 시뮬레이션
-
-[Not Harris \| Builds Apps](https://x.com/viewsfrom02108) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/3d-cancer-progression-simulation-2095130778342408331"><img src="../assets/previews/c2c969cf67f3717dd6e5366068f8e95c8f9e923ed4e6e00c1486f16d13c5d335.webp" width="840" loading="lazy" alt="암의 진행을 보여주는 3D 시뮬레이션"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-변이, 분열, 혈관 신생, 침윤, 전이를 보여주는 교육용 3D 암세포 시뮬레이션을 만드세요. 타임라인, 라벨, 각 단계를 신중하게 구별한 시각적 표현을 포함하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/3d-cancer-progression-simulation-2095130778342408331) · [원본 게시물](https://x.com/viewsfrom02108/status/2095130778342408331) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="enhanced-meteoroid-breakup-vfx-2095127248470692320"></a>
-
-### 유성체 분열 VFX 개선
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320"><img src="../assets/previews/60ecaccc669dc996508e0433ab7a97bf14e4fa1d113b6753c7d63e38382a15dd.webp" width="840" loading="lazy" alt="유성체 분열 VFX 개선"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-기존 유성체 분열 VFX를 살펴보고 파편화, 열, 궤적, 충격파, 타이밍, 규모, 카메라에서의 가독성을 개선하세요. 현재 조작 기능은 망가뜨리지 마세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/enhanced-meteoroid-breakup-vfx-2095127248470692320) · [원본 게시물](https://x.com/gladimdim/status/2095127248470692320) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="lod-ready-assault-pod-spaceship-2095126622319845478"></a>
-
-### LOD를 갖춘 강습 포드 우주선
-
-[Dmytro Gladkyi](https://x.com/gladimdim) · 2026-09-02 · Claude Fable 5.1 · 에셋
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478"><img src="../assets/previews/8bad46b5fb1c0508cbcfca4445f333b7bff19ebdc4e0dce247aa7fb883cdbc70.webp" width="840" loading="lazy" alt="LOD를 갖춘 강습 포드 우주선"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-강습 포드 우주선의 고·저 LOD 모델을 다시 설계하세요. 실루엣을 유지하면서 삼각형 예산을 지키고 패널의 시각적 언어를 개선해 실시간 게임용 에셋으로 준비하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/lod-ready-assault-pod-spaceship-2095126622319845478) · [원본 게시물](https://x.com/gladimdim/status/2095126622319845478) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="detailed-3d-stadium-recreation-2095123216419459454"></a>
-
-### 정교하게 재현한 3D 경기장
-
-[The Bugged Dev](https://x.com/thebuggeddev) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454"><img src="../assets/previews/138313a3dab6dc82f7669dc58617fa1853e985c8341b7dbb2ee688a6a7d04137.webp" width="840" loading="lazy" alt="정교하게 재현한 3D 경기장"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-참고 경기장을 정교하고 이동 가능한 3D 장면으로 재현하세요. 관람석 층, 경기장, 지붕, 조명, 크기를 정확히 만들고 시각적 충실도와 생성 비용을 비교하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/detailed-3d-stadium-recreation-2095123216419459454) · [원본 게시물](https://x.com/thebuggeddev/status/2095123216419459454) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="mechanically-accurate-water-mill-village-2095123063352561815"></a>
-
-### 기계적으로 정확한 물레방아 마을
-
-[ミラ｜未来のエンタメをつくる](https://x.com/mira_senor_1102) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815"><img src="../assets/previews/f4489b3ec8ec46c51fbf6a4c74d8e7134950383be4b3c8f4587d3daec158fc4e.webp" width="840" loading="lazy" alt="기계적으로 정확한 물레방아 마을"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-물레방아가 자연스러운 회전비로 기어, 캠, 공이를 구동하는 Three.js 물레방아 마을을 만드세요. 주민과 환경의 움직임으로 장면에 생명감을 더하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/mechanically-accurate-water-mill-village-2095123063352561815) · [원본 게시물](https://x.com/mira_senor_1102/status/2095123063352561815) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="interactive-shader-driven-dino-dex-2095121568297083067"></a>
-
-### 셰이더로 표현하는 인터랙티브 공룡 도감
-
-[Benji Viz](https://x.com/_Benviz) · 2026-09-02 · Claude Fable 5.1 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067"><img src="../assets/previews/b57e8ec06db7a85f0639634d3f469829c678c921057581695ffa8ca02e8ed09b.webp" width="840" loading="lazy" alt="셰이더로 표현하는 인터랙티브 공룡 도감"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-모든 공룡이 실시간 3D 모델인 인터랙티브 공룡 도감을 만드세요. 커스텀 GLSL 프레넬 표현, 효율적인 WebGL 컨텍스트 8개, 반응형 카드, 유용한 종별 정보를 사용하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/interactive-shader-driven-dino-dex-2095121568297083067) · [원본 게시물](https://x.com/_Benviz/status/2095121568297083067) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="living-voxel-world-inside-a-bottle-2095111213927510131"></a>
-
-### 병 안에서 살아 움직이는 복셀 세계
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-02 · Claude Fable 5.1 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131"><img src="../assets/previews/7a35bc9d4947fec793e70f358ddf96fa381af8dfee7d37b612ee77c479a80962.webp" width="840" loading="lazy" alt="병 안에서 살아 움직이는 복셀 세계"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-유리병 안에 층을 이룬 바다 기둥, 범선, 등대, 섬의 생명이 있는 살아 있는 복셀 세계를 만드세요. 잔잔함, 폭풍, 밤 사이의 변화를 구현하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/living-voxel-world-inside-a-bottle-2095111213927510131) · [원본 게시물](https://x.com/vib3coded/status/2095111213927510131) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="editable-3d-keyboard-animation-2095111032171876470"></a>
-
-### 편집 가능한 3D 키보드 애니메이션
-
-[rege](https://x.com/rege_dev) · 2026-09-02 · Claude Fable 5.1 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/editable-3d-keyboard-animation-2095111032171876470"><img src="../assets/previews/eb82c8df46782cd6222250d8bcf3c0cdde453038bcf82c5a3bce359194152d5a.webp" width="840" loading="lazy" alt="편집 가능한 3D 키보드 애니메이션"></a>
-
-*원작을 바탕으로 정리한 제작 지침*
-
-**프롬프트**
-
-```text
-만족스러운 키 눌림, 조명, 카메라 움직임이 있는 편집 가능한 3D 키보드 애니메이션을 만드세요. 글자, 색상, 타이밍을 설정할 수 있게 하세요.
-```
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/editable-3d-keyboard-animation-2095111032171876470) · [원본 게시물](https://x.com/rege_dev/status/2095111032171876470) · [사례 목록으로](#all-prompts)
 
 ---
 
